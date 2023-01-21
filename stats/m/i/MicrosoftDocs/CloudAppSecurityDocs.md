@@ -1,6 +1,6 @@
 # MicrosoftDocs/CloudAppSecurityDocs - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 82 | 128 | 
 | 2023-01-19 | 82 | 128 | 
 | 2023-01-18 | 81 | 128 | 
 | 2023-01-17 | 81 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 82 | 125 | 
 | 2022-12-23 | 82 | 125 | 
 | 2022-12-22 | 82 | 125 | 
-| 2022-12-21 | 82 | 125 | 
 

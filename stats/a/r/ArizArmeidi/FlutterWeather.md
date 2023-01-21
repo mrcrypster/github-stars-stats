@@ -1,6 +1,6 @@
 # ArizArmeidi/FlutterWeather - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 145 | 43 | 
 | 2023-01-19 | 145 | 43 | 
 | 2023-01-18 | 143 | 43 | 
 | 2023-01-17 | 142 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 112 | 32 | 
 | 2022-12-23 | 112 | 32 | 
 | 2022-12-22 | 110 | 32 | 
-| 2022-12-21 | 109 | 32 | 
 

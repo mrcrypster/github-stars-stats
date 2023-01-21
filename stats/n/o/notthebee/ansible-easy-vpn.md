@@ -1,10 +1,10 @@
 # notthebee/ansible-easy-vpn - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 396
+★ Stars: 397
 
 [Open repository](https://github.com/notthebee/ansible-easy-vpn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 397 | 64 | 
 | 2023-01-19 | 396 | 63 | 
 | 2023-01-18 | 394 | 63 | 
 | 2023-01-17 | 392 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 363 | 57 | 
 | 2022-12-23 | 363 | 57 | 
 | 2022-12-22 | 363 | 57 | 
-| 2022-12-21 | 362 | 57 | 
 

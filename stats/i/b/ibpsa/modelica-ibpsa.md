@@ -1,6 +1,6 @@
 # ibpsa/modelica-ibpsa - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 112 | 79 | 
 | 2023-01-19 | 112 | 79 | 
 | 2023-01-18 | 112 | 79 | 
 | 2023-01-17 | 112 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 112 | 78 | 
 | 2022-12-23 | 112 | 77 | 
 | 2022-12-22 | 112 | 77 | 
-| 2022-12-21 | 112 | 77 | 
 

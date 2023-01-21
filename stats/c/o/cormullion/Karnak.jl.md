@@ -1,10 +1,10 @@
 # cormullion/Karnak.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/cormullion/Karnak.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 48 | - | 
 | 2023-01-19 | 47 | - | 
 | 2023-01-18 | 47 | - | 
 | 2023-01-17 | 47 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 40 | - | 
 | 2022-12-23 | 40 | - | 
 | 2022-12-22 | 40 | - | 
-| 2022-12-21 | 40 | - | 
 

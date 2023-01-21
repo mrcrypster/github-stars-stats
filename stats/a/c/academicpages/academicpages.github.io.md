@@ -1,10 +1,10 @@
 # academicpages/academicpages.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 25219
+☋ Forks: 25234
 
-★ Stars: 7106
+★ Stars: 7108
 
 [Open repository](https://github.com/academicpages/academicpages.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 7108 | 25234 | 
 | 2023-01-19 | 7106 | 25219 | 
 | 2023-01-18 | 7103 | 25194 | 
 | 2023-01-17 | 7096 | 25172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 6991 | 24684 | 
 | 2022-12-23 | 6990 | 24673 | 
 | 2022-12-22 | 6984 | 24656 | 
-| 2022-12-21 | 6980 | 24635 | 
 

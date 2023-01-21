@@ -1,10 +1,10 @@
 # RainerHeintzmann/PointSpreadFunctions.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/RainerHeintzmann/PointSpreadFunctions.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 15 | 2 | 
 | 2023-01-20 | 14 | 2 | 
 | 2023-01-18 | 14 | 2 | 
 | 2023-01-17 | 14 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 14 | 2 | 
 | 2022-12-24 | 14 | 2 | 
 | 2022-12-22 | 14 | 2 | 
-| 2022-12-21 | 14 | 2 | 
 

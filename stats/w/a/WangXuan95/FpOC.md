@@ -1,10 +1,10 @@
 # WangXuan95/FpOC - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 84
 
-★ Stars: 204
+★ Stars: 206
 
 [Open repository](https://github.com/WangXuan95/FpOC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 206 | 84 | 
 | 2023-01-19 | 204 | 84 | 
 | 2023-01-18 | 204 | 84 | 
 | 2023-01-17 | 203 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 199 | 82 | 
 | 2022-12-23 | 198 | 82 | 
 | 2022-12-22 | 198 | 82 | 
-| 2022-12-21 | 197 | 81 | 
 

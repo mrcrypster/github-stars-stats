@@ -1,8 +1,8 @@
 # n00mkrad/text2image-gui - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 356
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 356 | 44 | 
 | 2023-01-19 | 356 | 43 | 
 | 2023-01-18 | 354 | 43 | 
 | 2023-01-17 | 353 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 303 | 41 | 
 | 2022-12-23 | 298 | 41 | 
 | 2022-12-22 | 296 | 41 | 
-| 2022-12-21 | 295 | 41 | 
 

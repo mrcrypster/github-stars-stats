@@ -1,10 +1,10 @@
 # Dimillian/IceCubesApp - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
-☋ Forks: 39
+☋ Forks: 54
 
-★ Stars: 619
+★ Stars: 918
 
 [Open repository](https://github.com/Dimillian/IceCubesApp)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 918 | 54 | 
+| 2023-01-20 | 883 | 53 | 
 | 2023-01-19 | 619 | 39 | 
 | 2023-01-18 | 606 | 39 | 
 | 2023-01-17 | 595 | 40 | 

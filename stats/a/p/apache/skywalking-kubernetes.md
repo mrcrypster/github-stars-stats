@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 20
 
 ☋ Forks: 171
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/apache/skywalking-kubernetes)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 394 | 171 | 
+| 2023-01-20 | 395 | 171 | 
 | 2023-01-19 | 394 | 171 | 
 

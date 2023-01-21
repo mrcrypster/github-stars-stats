@@ -1,6 +1,6 @@
 # tpope/vim-haml - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 595 | 68 | 
 | 2023-01-19 | 595 | 68 | 
 | 2023-01-18 | 595 | 68 | 
 | 2023-01-17 | 595 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 595 | 68 | 
 | 2022-12-23 | 595 | 68 | 
 | 2022-12-22 | 595 | 68 | 
-| 2022-12-21 | 595 | 68 | 
 

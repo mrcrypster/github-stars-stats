@@ -1,10 +1,10 @@
 # h-enk/doks - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 299
 
-★ Stars: 1391
+★ Stars: 1392
 
 [Open repository](https://github.com/h-enk/doks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1392 | 299 | 
 | 2023-01-19 | 1391 | 299 | 
 | 2023-01-18 | 1392 | 299 | 
 | 2023-01-17 | 1391 | 299 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1363 | 294 | 
 | 2022-12-23 | 1362 | 295 | 
 | 2022-12-22 | 1361 | 294 | 
-| 2022-12-21 | 1362 | 291 | 
 

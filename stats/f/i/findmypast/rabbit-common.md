@@ -1,6 +1,6 @@
 # findmypast/rabbit-common - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | - | - | 
 | 2023-01-19 | - | - | 
 | 2023-01-18 | - | - | 
 | 2023-01-17 | - | - | 

@@ -1,8 +1,8 @@
 # Mrzyang/doprax_ss - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 13
+☋ Forks: 15
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5 | 15 | 
 | 2023-01-20 | 5 | 13 | 
 | 2023-01-18 | 5 | 13 | 
 | 2023-01-17 | 5 | 13 | 

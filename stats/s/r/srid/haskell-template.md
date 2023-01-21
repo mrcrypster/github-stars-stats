@@ -1,6 +1,6 @@
 # srid/haskell-template - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 129 | 15 | 
 | 2023-01-19 | 129 | 15 | 
 | 2023-01-18 | 129 | 15 | 
 | 2023-01-17 | 129 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 123 | 15 | 
 | 2022-12-23 | 123 | 15 | 
 | 2022-12-22 | 123 | 15 | 
-| 2022-12-21 | 123 | 15 | 
 

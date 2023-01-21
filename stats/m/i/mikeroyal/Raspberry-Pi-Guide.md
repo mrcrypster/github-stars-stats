@@ -1,6 +1,6 @@
 # mikeroyal/Raspberry-Pi-Guide - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 153 | 8 | 
 | 2023-01-19 | 153 | 8 | 
 | 2023-01-18 | 153 | 9 | 
 | 2023-01-17 | 152 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 149 | 8 | 
 | 2022-12-23 | 149 | 8 | 
 | 2022-12-22 | 149 | 8 | 
-| 2022-12-21 | 148 | 8 | 
 

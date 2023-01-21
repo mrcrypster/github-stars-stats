@@ -1,6 +1,6 @@
 # subhajeetmuhuri/proprietary_vendor_xiaomi_surya - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 14
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 4 | 14 | 
 | 2023-01-19 | 4 | 14 | 
 

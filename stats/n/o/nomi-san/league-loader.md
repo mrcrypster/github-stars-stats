@@ -1,6 +1,6 @@
 # nomi-san/league-loader - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 56 | 15 | 
 | 2023-01-19 | 56 | 15 | 
 | 2023-01-18 | 56 | 15 | 
 | 2023-01-17 | 55 | 15 | 

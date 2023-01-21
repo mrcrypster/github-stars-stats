@@ -1,6 +1,6 @@
 # elastic/runbld - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5 | 9 | 
 | 2023-01-20 | 5 | 9 | 
 | 2023-01-18 | 5 | 9 | 
 | 2023-01-17 | 5 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 5 | 9 | 
 | 2022-12-24 | 5 | 9 | 
 | 2022-12-23 | 5 | 9 | 
-| 2022-12-22 | 5 | 9 | 
 

@@ -1,10 +1,10 @@
 # svelte-society/sveltesociety.dev - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/svelte-society/sveltesociety.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 208 | 138 | 
 | 2023-01-19 | 207 | 137 | 
 | 2023-01-18 | 207 | 137 | 
 | 2023-01-17 | 207 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 200 | 131 | 
 | 2022-12-23 | 200 | 132 | 
 | 2022-12-22 | 200 | 132 | 
-| 2022-12-21 | 200 | 131 | 
 

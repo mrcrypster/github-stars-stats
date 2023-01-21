@@ -1,10 +1,10 @@
 # MESAHub/mesa - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/MESAHub/mesa)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 68 | 18 | 
 | 2023-01-19 | 67 | 17 | 
 | 2023-01-18 | 64 | 16 | 
 | 2023-01-17 | 64 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 62 | 15 | 
 | 2022-12-23 | 62 | 15 | 
 | 2022-12-22 | 62 | 15 | 
-| 2022-12-21 | 62 | 15 | 
 

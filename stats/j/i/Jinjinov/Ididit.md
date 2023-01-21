@@ -1,10 +1,10 @@
 # Jinjinov/Ididit - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 13
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/Jinjinov/Ididit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 108 | 13 | 
 | 2023-01-19 | 107 | 13 | 
 | 2023-01-18 | 106 | 13 | 
 | 2023-01-17 | 105 | 13 | 

@@ -1,10 +1,10 @@
 # greenplum-db/gpdb - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1552
 
-★ Stars: 5550
+★ Stars: 5552
 
 [Open repository](https://github.com/greenplum-db/gpdb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 5552 | 1552 | 
 | 2023-01-19 | 5550 | 1552 | 
 | 2023-01-18 | 5548 | 1553 | 
 | 2023-01-17 | 5548 | 1552 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 5515 | 1553 | 
 | 2022-12-24 | 5515 | 1553 | 
 | 2022-12-23 | 5512 | 1553 | 
-| 2022-12-22 | 5510 | 1552 | 
 

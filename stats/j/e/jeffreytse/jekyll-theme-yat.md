@@ -1,8 +1,8 @@
 # jeffreytse/jekyll-theme-yat - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
-☋ Forks: 531
+☋ Forks: 530
 
 ★ Stars: 606
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 606 | 530 | 
 | 2023-01-19 | 606 | 531 | 
 | 2023-01-18 | 607 | 531 | 
 | 2023-01-17 | 607 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 577 | 522 | 
 | 2022-12-23 | 576 | 521 | 
 | 2022-12-22 | 576 | 521 | 
-| 2022-12-21 | 575 | 520 | 
 

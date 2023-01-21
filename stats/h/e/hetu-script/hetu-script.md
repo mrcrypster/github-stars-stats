@@ -1,10 +1,10 @@
 # hetu-script/hetu-script - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 17
 
-★ Stars: 172
+★ Stars: 171
 
 [Open repository](https://github.com/hetu-script/hetu-script)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 171 | 17 | 
 | 2023-01-20 | 172 | 17 | 
 | 2023-01-19 | 172 | 17 | 
 | 2023-01-17 | 172 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 166 | 17 | 
 | 2022-12-23 | 165 | 17 | 
 | 2022-12-22 | 165 | 17 | 
-| 2022-12-21 | 165 | 17 | 
 

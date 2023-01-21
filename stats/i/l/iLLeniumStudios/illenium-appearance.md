@@ -1,6 +1,6 @@
 # iLLeniumStudios/illenium-appearance - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 118 | 113 | 
 | 2023-01-19 | 118 | 113 | 
 | 2023-01-18 | 118 | 112 | 
 | 2023-01-17 | 117 | 112 | 

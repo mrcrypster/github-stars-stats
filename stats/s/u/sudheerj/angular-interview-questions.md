@@ -1,10 +1,10 @@
 # sudheerj/angular-interview-questions - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1597
 
-★ Stars: 2985
+★ Stars: 2986
 
 [Open repository](https://github.com/sudheerj/angular-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2986 | 1597 | 
 | 2023-01-19 | 2985 | 1597 | 
 | 2023-01-18 | 2982 | 1596 | 
 | 2023-01-17 | 2981 | 1595 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2943 | 1580 | 
 | 2022-12-23 | 2942 | 1579 | 
 | 2022-12-22 | 2939 | 1576 | 
-| 2022-12-21 | 2939 | 1575 | 
 

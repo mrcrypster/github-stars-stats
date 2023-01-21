@@ -1,6 +1,6 @@
 # apache/shenyu - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2584
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 7559 | 2584 | 
 | 2023-01-19 | 7559 | 2584 | 
 | 2023-01-18 | 7558 | 2583 | 
 | 2023-01-17 | 7554 | 2583 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 7513 | 2567 | 
 | 2022-12-23 | 7513 | 2567 | 
 | 2022-12-22 | 7510 | 2566 | 
-| 2022-12-21 | 7506 | 2564 | 
 

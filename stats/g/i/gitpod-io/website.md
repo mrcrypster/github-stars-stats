@@ -1,10 +1,10 @@
 # gitpod-io/website - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 155
 
-★ Stars: 285
+★ Stars: 284
 
 [Open repository](https://github.com/gitpod-io/website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 284 | 155 | 
 | 2023-01-19 | 285 | 155 | 
 | 2023-01-18 | 285 | 155 | 
 | 2023-01-17 | 284 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 279 | 152 | 
 | 2022-12-23 | 279 | 152 | 
 | 2022-12-22 | 279 | 151 | 
-| 2022-12-21 | 278 | 151 | 
 

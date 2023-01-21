@@ -1,10 +1,10 @@
 # objective-see/OverSight - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 28
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/objective-see/OverSight)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 281 | 28 | 
 | 2023-01-19 | 280 | 28 | 
 | 2023-01-18 | 278 | 27 | 
 | 2023-01-17 | 277 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 267 | 27 | 
 | 2022-12-23 | 267 | 27 | 
 | 2022-12-22 | 267 | 27 | 
-| 2022-12-21 | 266 | 27 | 
 

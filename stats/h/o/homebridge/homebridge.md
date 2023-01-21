@@ -1,10 +1,10 @@
 # homebridge/homebridge - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1948
 
-★ Stars: 21396
+★ Stars: 21400
 
 [Open repository](https://github.com/homebridge/homebridge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 21400 | 1948 | 
 | 2023-01-19 | 21396 | 1948 | 
 | 2023-01-18 | 21388 | 1948 | 
 | 2023-01-17 | 21380 | 1948 | 

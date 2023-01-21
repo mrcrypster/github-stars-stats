@@ -1,6 +1,6 @@
 # utfpr-dv/sireata - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | - | 113 | 
 | 2023-01-19 | - | 113 | 
 | 2023-01-18 | - | 113 | 
 | 2023-01-17 | - | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | - | 114 | 
 | 2022-12-23 | - | 114 | 
 | 2022-12-22 | - | 114 | 
-| 2022-12-21 | - | 114 | 
 

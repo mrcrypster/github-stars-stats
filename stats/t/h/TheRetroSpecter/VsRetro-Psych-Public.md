@@ -1,6 +1,6 @@
 # TheRetroSpecter/VsRetro-Psych-Public - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 14 | 13 | 
 | 2023-01-19 | 14 | 13 | 
 | 2023-01-18 | 14 | 13 | 
 | 2023-01-17 | 14 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 15 | 13 | 
 | 2022-12-24 | 15 | 13 | 
 | 2022-12-23 | 15 | 13 | 
-| 2022-12-22 | 15 | 13 | 
 

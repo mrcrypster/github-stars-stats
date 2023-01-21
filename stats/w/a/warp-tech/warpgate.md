@@ -1,10 +1,10 @@
 # warp-tech/warpgate - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 45
 
-★ Stars: 1945
+★ Stars: 1947
 
 [Open repository](https://github.com/warp-tech/warpgate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1947 | 45 | 
 | 2023-01-19 | 1945 | 45 | 
 | 2023-01-18 | 1939 | 45 | 
 | 2023-01-17 | 1932 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 1852 | 41 | 
 | 2022-12-24 | 1852 | 41 | 
 | 2022-12-23 | 1851 | 41 | 
-| 2022-12-22 | 1847 | 41 | 
 

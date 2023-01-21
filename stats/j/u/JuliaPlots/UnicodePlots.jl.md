@@ -1,6 +1,6 @@
 # JuliaPlots/UnicodePlots.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1015 | 65 | 
 | 2023-01-19 | 1015 | 65 | 
 | 2023-01-18 | 1015 | 65 | 
 | 2023-01-17 | 1012 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 998 | 64 | 
 | 2022-12-23 | 998 | 64 | 
 | 2022-12-22 | 998 | 64 | 
-| 2022-12-21 | 998 | 64 | 
 

@@ -1,10 +1,10 @@
 # alufers/mitmproxy2swagger - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 166
 
-★ Stars: 4143
+★ Stars: 4145
 
 [Open repository](https://github.com/alufers/mitmproxy2swagger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 4145 | 166 | 
 | 2023-01-19 | 4143 | 166 | 
 | 2023-01-18 | 4142 | 166 | 
 | 2023-01-17 | 4140 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 4106 | 162 | 
 | 2022-12-23 | 4106 | 162 | 
 | 2022-12-22 | 4105 | 162 | 
-| 2022-12-21 | 4103 | 162 | 
 

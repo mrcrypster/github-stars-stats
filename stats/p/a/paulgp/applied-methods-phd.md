@@ -1,10 +1,10 @@
 # paulgp/applied-methods-phd - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
-☋ Forks: 413
+☋ Forks: 419
 
-★ Stars: 1360
+★ Stars: 1366
 
 [Open repository](https://github.com/paulgp/applied-methods-phd)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1366 | 419 | 
+| 2023-01-20 | 1366 | 419 | 
 | 2023-01-19 | 1360 | 413 | 
 | 2023-01-18 | 1360 | 413 | 
 | 2023-01-17 | 1359 | 413 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1344 | 414 | 
 | 2022-12-23 | 1343 | 414 | 
 | 2022-12-22 | 1342 | 414 | 
-| 2022-12-21 | 1342 | 414 | 
 

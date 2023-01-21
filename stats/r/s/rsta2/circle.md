@@ -1,6 +1,6 @@
 # rsta2/circle - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1470 | 190 | 
 | 2023-01-19 | 1470 | 190 | 
 | 2023-01-18 | 1469 | 190 | 
 | 2023-01-17 | 1469 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1430 | 190 | 
 | 2022-12-23 | 1429 | 190 | 
 | 2022-12-22 | 1429 | 190 | 
-| 2022-12-21 | 1429 | 189 | 
 

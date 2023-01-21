@@ -1,6 +1,6 @@
 # mikepenz/AboutLibraries - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 408
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 3145 | 408 | 
 | 2023-01-19 | 3145 | 408 | 
 | 2023-01-18 | 3144 | 408 | 
 | 2023-01-17 | 3144 | 408 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 3127 | 406 | 
 | 2022-12-24 | 3126 | 404 | 
 | 2022-12-22 | 3126 | 404 | 
-| 2022-12-21 | 3126 | 404 | 
 

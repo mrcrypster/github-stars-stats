@@ -1,10 +1,10 @@
 # paradite/sg-tech-list - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 22
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/paradite/sg-tech-list)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 206 | 22 | 
 | 2023-01-19 | 205 | 22 | 
 | 2023-01-18 | 205 | 22 | 
 | 2023-01-17 | 204 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 204 | 21 | 
 | 2022-12-23 | 202 | 21 | 
 | 2022-12-22 | 204 | 21 | 
-| 2022-12-21 | 204 | 21 | 
 

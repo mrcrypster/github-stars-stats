@@ -1,10 +1,10 @@
 # microsoft/Microsoft-3D-Movie-Maker - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 252
 
-★ Stars: 3585
+★ Stars: 3586
 
 [Open repository](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3586 | 252 | 
 | 2023-01-19 | 3585 | 252 | 
 | 2023-01-18 | 3585 | 252 | 
 | 2023-01-17 | 3586 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 3579 | 252 | 
 | 2022-12-23 | 3579 | 252 | 
 | 2022-12-22 | 3578 | 252 | 
-| 2022-12-21 | 3577 | 252 | 
 

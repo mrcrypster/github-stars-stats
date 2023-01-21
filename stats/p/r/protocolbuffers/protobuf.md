@@ -1,10 +1,10 @@
 # protocolbuffers/protobuf - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 14728
+☋ Forks: 14732
 
-★ Stars: 57828
+★ Stars: 57838
 
 [Open repository](https://github.com/protocolbuffers/protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 57838 | 14732 | 
 | 2023-01-20 | 57828 | 14728 | 
 | 2023-01-18 | 57825 | 14725 | 
 | 2023-01-17 | 57814 | 14721 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 57497 | 14659 | 
 | 2022-12-23 | 57494 | 14658 | 
 | 2022-12-22 | 57485 | 14656 | 
-| 2022-12-21 | 57479 | 14657 | 
 

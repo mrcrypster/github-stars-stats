@@ -1,6 +1,6 @@
 # roboticcam/machine-learning-notes - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1663
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 7283 | 1663 | 
 | 2023-01-19 | 7283 | 1663 | 
 | 2023-01-18 | 7282 | 1663 | 
 | 2023-01-17 | 7282 | 1663 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 7256 | 1662 | 
 | 2022-12-23 | 7256 | 1662 | 
 | 2022-12-22 | 7256 | 1661 | 
-| 2022-12-21 | 7254 | 1661 | 
 

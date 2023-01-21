@@ -1,10 +1,10 @@
 # sebastianbergmann/php-timer - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 60
 
-★ Stars: 7377
+★ Stars: 7376
 
 [Open repository](https://github.com/sebastianbergmann/php-timer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 7376 | 60 | 
 | 2023-01-19 | 7377 | 60 | 
 | 2023-01-17 | 7376 | 60 | 
 | 2023-01-16 | 7374 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 7356 | 60 | 
 | 2022-12-23 | 7356 | 60 | 
 | 2022-12-22 | 7356 | 60 | 
-| 2022-12-21 | 7356 | 60 | 
 

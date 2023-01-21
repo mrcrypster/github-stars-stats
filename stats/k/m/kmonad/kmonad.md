@@ -1,10 +1,10 @@
 # kmonad/kmonad - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 267
 
-★ Stars: 2415
+★ Stars: 2414
 
 [Open repository](https://github.com/kmonad/kmonad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2414 | 267 | 
 | 2023-01-19 | 2415 | 267 | 
 | 2023-01-18 | 2413 | 267 | 
 | 2023-01-17 | 2412 | 268 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2343 | 256 | 
 | 2022-12-23 | 2343 | 256 | 
 | 2022-12-22 | 2341 | 256 | 
-| 2022-12-21 | 2337 | 256 | 
 

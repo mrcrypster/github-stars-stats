@@ -1,10 +1,10 @@
 # AbhinavOmprakash/snitch - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/AbhinavOmprakash/snitch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 66 | 1 | 
 | 2023-01-19 | 65 | 1 | 
 | 2023-01-18 | 65 | 1 | 
 | 2023-01-17 | 65 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 50 | 1 | 
 | 2022-12-24 | 50 | 1 | 
 | 2022-12-23 | 50 | 1 | 
-| 2022-12-22 | 50 | 1 | 
 

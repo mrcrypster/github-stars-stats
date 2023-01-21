@@ -1,10 +1,10 @@
 # floranguyen0/mmas-money-tracker - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 65
+☋ Forks: 67
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/floranguyen0/mmas-money-tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 130 | 67 | 
 | 2023-01-19 | 129 | 65 | 
 | 2023-01-18 | 129 | 65 | 
 | 2023-01-17 | 129 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 114 | 54 | 
 | 2022-12-23 | 113 | 54 | 
 | 2022-12-22 | 112 | 54 | 
-| 2022-12-21 | 110 | 54 | 
 

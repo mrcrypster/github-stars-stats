@@ -1,6 +1,6 @@
 # 03376836-OOP-2564/OOP-2564-Week-05 - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | - | 39 | 
 | 2023-01-19 | - | 39 | 
 | 2023-01-17 | - | 39 | 
 | 2023-01-16 | - | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | - | 39 | 
 | 2022-12-24 | - | 39 | 
 | 2022-12-23 | - | 39 | 
-| 2022-12-22 | - | 39 | 
 

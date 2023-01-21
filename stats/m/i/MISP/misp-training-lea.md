@@ -1,8 +1,8 @@
 # MISP/misp-training-lea - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 22 | 6 | 
 | 2023-01-19 | 22 | 7 | 
 | 2023-01-18 | 22 | 7 | 
 | 2023-01-17 | 22 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 22 | 7 | 
 | 2022-12-23 | 22 | 7 | 
 | 2022-12-22 | 22 | 7 | 
-| 2022-12-21 | 22 | 7 | 
 

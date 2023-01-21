@@ -1,10 +1,10 @@
 # 0xhiro/amongrust - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 8
 
-★ Stars: 171
+★ Stars: 170
 
 [Open repository](https://github.com/0xhiro/amongrust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 170 | 8 | 
 | 2023-01-19 | 171 | 8 | 
 | 2023-01-18 | 171 | 8 | 
 | 2023-01-17 | 171 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 169 | 7 | 
 | 2022-12-24 | 169 | 7 | 
 | 2022-12-23 | 169 | 7 | 
-| 2022-12-21 | 169 | 7 | 
 

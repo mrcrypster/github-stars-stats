@@ -1,6 +1,6 @@
 # podium/elixir-secure-coding - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 441 | 77 | 
 | 2023-01-19 | 441 | 77 | 
 | 2023-01-18 | 440 | 77 | 
 | 2023-01-17 | 440 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 430 | 71 | 
 | 2022-12-23 | 430 | 71 | 
 | 2022-12-22 | 430 | 71 | 
-| 2022-12-21 | 430 | 71 | 
 

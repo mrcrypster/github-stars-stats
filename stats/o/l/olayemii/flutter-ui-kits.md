@@ -1,10 +1,10 @@
 # olayemii/flutter-ui-kits - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 356
 
-★ Stars: 1044
+★ Stars: 1046
 
 [Open repository](https://github.com/olayemii/flutter-ui-kits)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1046 | 356 | 
 | 2023-01-19 | 1044 | 356 | 
 | 2023-01-18 | 1044 | 356 | 
 | 2023-01-17 | 1044 | 356 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1034 | 349 | 
 | 2022-12-23 | 1033 | 349 | 
 | 2022-12-22 | 1031 | 347 | 
-| 2022-12-21 | 1030 | 345 | 
 

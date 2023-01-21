@@ -1,10 +1,10 @@
 # iovisor/bpftrace - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 978
+☋ Forks: 979
 
-★ Stars: 6319
+★ Stars: 6326
 
 [Open repository](https://github.com/iovisor/bpftrace)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 6326 | 979 | 
 | 2023-01-19 | 6319 | 978 | 
 | 2023-01-18 | 6319 | 977 | 
 | 2023-01-17 | 6309 | 977 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 6211 | 962 | 
 | 2022-12-23 | 6211 | 962 | 
 | 2022-12-22 | 6208 | 961 | 
-| 2022-12-21 | 6205 | 961 | 
 

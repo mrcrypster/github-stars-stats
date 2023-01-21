@@ -1,6 +1,6 @@
 # visual-space/visual-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 193 | 22 | 
 | 2023-01-19 | 193 | 22 | 
 | 2023-01-18 | 192 | 22 | 
 | 2023-01-17 | 192 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 183 | 20 | 
 | 2022-12-23 | 183 | 20 | 
 | 2022-12-22 | 182 | 20 | 
-| 2022-12-21 | 182 | 20 | 
 

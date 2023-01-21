@@ -1,6 +1,6 @@
 # PureLayout/PureLayout - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 768
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 7604 | 768 | 
 | 2023-01-19 | 7604 | 768 | 
 | 2023-01-18 | 7604 | 768 | 
 | 2023-01-17 | 7604 | 768 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 7597 | 769 | 
 | 2022-12-24 | 7597 | 769 | 
 | 2022-12-22 | 7596 | 769 | 
-| 2022-12-21 | 7596 | 769 | 
 

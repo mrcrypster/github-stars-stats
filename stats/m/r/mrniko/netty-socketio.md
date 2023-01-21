@@ -1,8 +1,8 @@
 # mrniko/netty-socketio - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1545
+☋ Forks: 1544
 
 ★ Stars: 6067
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 6067 | 1544 | 
 | 2023-01-19 | 6067 | 1545 | 
 | 2023-01-18 | 6066 | 1545 | 
 | 2023-01-17 | 6063 | 1545 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 6042 | 1542 | 
 | 2022-12-23 | 6042 | 1542 | 
 | 2022-12-22 | 6040 | 1542 | 
-| 2022-12-21 | 6040 | 1541 | 
 

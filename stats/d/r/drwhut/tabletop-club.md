@@ -1,10 +1,10 @@
 # drwhut/tabletop-club - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 25
 
-★ Stars: 810
+★ Stars: 812
 
 [Open repository](https://github.com/drwhut/tabletop-club)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 812 | 25 | 
 | 2023-01-19 | 810 | 25 | 
 | 2023-01-18 | 806 | 25 | 
 | 2023-01-17 | 801 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 748 | 26 | 
 | 2022-12-23 | 746 | 25 | 
 | 2022-12-22 | 744 | 25 | 
-| 2022-12-21 | 745 | 25 | 
 

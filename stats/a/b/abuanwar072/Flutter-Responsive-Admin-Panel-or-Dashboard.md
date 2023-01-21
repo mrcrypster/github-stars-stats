@@ -1,8 +1,8 @@
 # abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1542
+☋ Forks: 1543
 
 ★ Stars: 5489
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 5489 | 1543 | 
 | 2023-01-19 | 5489 | 1542 | 
 | 2023-01-18 | 5487 | 1542 | 
 | 2023-01-17 | 5485 | 1540 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 5445 | 1522 | 
 | 2022-12-23 | 5442 | 1520 | 
 | 2022-12-22 | 5436 | 1520 | 
-| 2022-12-21 | 5434 | 1519 | 
 

@@ -1,8 +1,8 @@
 # ixartz/Next-JS-Landing-Page-Starter-Template - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 327
+☋ Forks: 326
 
 ★ Stars: 995
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 995 | 326 | 
 | 2023-01-19 | 995 | 327 | 
 | 2023-01-18 | 994 | 327 | 
 | 2023-01-17 | 993 | 327 | 

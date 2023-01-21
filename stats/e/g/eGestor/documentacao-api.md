@@ -1,6 +1,6 @@
 # eGestor/documentacao-api - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 131
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 13 | 131 | 
+| 2023-01-20 | 13 | 131 | 
 | 2023-01-19 | 13 | 131 | 
 | 2023-01-18 | 13 | 130 | 
 | 2023-01-17 | 13 | 130 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 13 | 124 | 
 | 2022-12-23 | 13 | 124 | 
 | 2022-12-22 | 13 | 124 | 
-| 2022-12-21 | 13 | 123 | 
 

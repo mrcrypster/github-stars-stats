@@ -1,6 +1,6 @@
 # alex-shpak/hugo-book - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 895
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2171 | 895 | 
 | 2023-01-19 | 2171 | 895 | 
 | 2023-01-18 | 2168 | 894 | 
 | 2023-01-17 | 2167 | 894 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2146 | 884 | 
 | 2022-12-23 | 2145 | 883 | 
 | 2022-12-22 | 2145 | 883 | 
-| 2022-12-21 | 2143 | 882 | 
 

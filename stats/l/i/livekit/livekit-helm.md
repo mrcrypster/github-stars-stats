@@ -1,10 +1,10 @@
 # livekit/livekit-helm - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 30
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/livekit/livekit-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 24 | 30 | 
 | 2023-01-19 | 23 | 30 | 
 | 2023-01-18 | 22 | 31 | 
 | 2023-01-17 | 22 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 20 | 31 | 
 | 2022-12-23 | 20 | 31 | 
 | 2022-12-22 | 21 | 31 | 
-| 2022-12-21 | 21 | 31 | 
 

@@ -1,10 +1,10 @@
 # aquametalabs/aquameta - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 50
 
-★ Stars: 1058
+★ Stars: 1059
 
 [Open repository](https://github.com/aquametalabs/aquameta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1059 | 50 | 
 | 2023-01-19 | 1058 | 50 | 
 | 2023-01-18 | 1056 | 50 | 
 | 2023-01-17 | 1057 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1052 | 51 | 
 | 2022-12-23 | 1051 | 51 | 
 | 2022-12-22 | 1051 | 51 | 
-| 2022-12-21 | 1051 | 51 | 
 

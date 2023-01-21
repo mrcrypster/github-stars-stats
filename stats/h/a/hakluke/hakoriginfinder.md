@@ -1,10 +1,10 @@
 # hakluke/hakoriginfinder - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 50
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/hakluke/hakoriginfinder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 405 | 50 | 
 | 2023-01-19 | 404 | 50 | 
 | 2023-01-18 | 403 | 50 | 
 | 2023-01-17 | 402 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 383 | 47 | 
 | 2022-12-23 | 383 | 47 | 
 | 2022-12-22 | 384 | 47 | 
-| 2022-12-21 | 384 | 47 | 
 

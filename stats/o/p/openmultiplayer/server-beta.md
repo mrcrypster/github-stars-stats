@@ -1,10 +1,10 @@
 # openmultiplayer/server-beta - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 18
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/openmultiplayer/server-beta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 165 | 18 | 
 | 2023-01-19 | 164 | 18 | 
 | 2023-01-18 | 163 | 17 | 
 | 2023-01-17 | 159 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 157 | 14 | 
 | 2022-12-23 | 157 | 14 | 
 | 2022-12-22 | 157 | 14 | 
-| 2022-12-21 | 157 | 13 | 
 

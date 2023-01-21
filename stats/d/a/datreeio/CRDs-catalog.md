@@ -1,6 +1,6 @@
 # datreeio/CRDs-catalog - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 207 | 18 | 
 | 2023-01-19 | 207 | 18 | 
 | 2023-01-18 | 206 | 18 | 
 | 2023-01-17 | 206 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 164 | 14 | 
 | 2022-12-23 | 163 | 14 | 
 | 2022-12-22 | 162 | 13 | 
-| 2022-12-21 | 162 | 13 | 
 

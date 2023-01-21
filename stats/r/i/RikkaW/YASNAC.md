@@ -1,10 +1,10 @@
 # RikkaW/YASNAC - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 22
 
-★ Stars: 372
+★ Stars: 373
 
 [Open repository](https://github.com/RikkaW/YASNAC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 373 | 22 | 
 | 2023-01-19 | 372 | 22 | 
 | 2023-01-18 | 371 | 22 | 
 | 2023-01-17 | 371 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 358 | 23 | 
 | 2022-12-23 | 358 | 23 | 
 | 2022-12-22 | 355 | 23 | 
-| 2022-12-21 | 355 | 23 | 
 

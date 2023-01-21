@@ -1,10 +1,10 @@
 # PlutoSolutions/Future - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/PlutoSolutions/Future)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 71 | 22 | 
 | 2023-01-19 | 70 | 21 | 
 | 2023-01-18 | 69 | 20 | 
 | 2023-01-17 | 68 | 20 | 

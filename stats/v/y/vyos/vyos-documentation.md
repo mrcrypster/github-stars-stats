@@ -1,6 +1,6 @@
 # vyos/vyos-documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 257
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 140 | 257 | 
 | 2023-01-19 | 140 | 257 | 
 | 2023-01-18 | 140 | 257 | 
 | 2023-01-17 | 140 | 256 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 140 | 250 | 
 | 2022-12-23 | 140 | 250 | 
 | 2022-12-22 | 140 | 250 | 
-| 2022-12-21 | 140 | 250 | 
 

@@ -1,10 +1,10 @@
 # learning-zone/react-interview-questions - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 317
+☋ Forks: 318
 
-★ Stars: 987
+★ Stars: 990
 
 [Open repository](https://github.com/learning-zone/react-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 990 | 318 | 
 | 2023-01-19 | 987 | 317 | 
 | 2023-01-18 | 983 | 317 | 
 | 2023-01-17 | 983 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 966 | 311 | 
 | 2022-12-23 | 966 | 311 | 
 | 2022-12-22 | 964 | 311 | 
-| 2022-12-21 | 963 | 310 | 
 

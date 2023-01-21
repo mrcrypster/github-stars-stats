@@ -1,6 +1,6 @@
 # saimoomedits/eww-widgets - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 194 | 16 | 
 | 2023-01-20 | 194 | 16 | 
 | 2023-01-18 | 193 | 15 | 
 | 2023-01-17 | 191 | 15 | 

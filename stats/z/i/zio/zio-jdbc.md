@@ -1,10 +1,10 @@
 # zio/zio-jdbc - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 30
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/zio/zio-jdbc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 61 | 30 | 
 | 2023-01-19 | 60 | 30 | 
 | 2023-01-18 | 60 | 30 | 
 | 2023-01-17 | 60 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 58 | 28 | 
 | 2022-12-23 | 58 | 28 | 
 | 2022-12-22 | 58 | 28 | 
-| 2022-12-21 | 58 | 28 | 
 

@@ -1,10 +1,10 @@
 # PacktPublishing/Python-for-ArcGIS-Pro - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 30
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/PacktPublishing/Python-for-ArcGIS-Pro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 103 | 30 | 
 | 2023-01-19 | 102 | 30 | 
 | 2023-01-17 | 102 | 30 | 
 | 2023-01-16 | 102 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 100 | 30 | 
 | 2022-12-23 | 100 | 30 | 
 | 2022-12-22 | 100 | 30 | 
-| 2022-12-21 | 100 | 30 | 
 

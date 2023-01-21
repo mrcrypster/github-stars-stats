@@ -1,6 +1,6 @@
 # homalg-project/CAP_project - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 22 | 17 | 
 | 2023-01-19 | 22 | 17 | 
 | 2023-01-18 | 22 | 17 | 
 | 2023-01-17 | 22 | 17 | 

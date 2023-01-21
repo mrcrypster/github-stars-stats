@@ -1,6 +1,6 @@
 # sblisesivdin/biscuit - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 11 | 25 | 
 | 2023-01-19 | 11 | 25 | 
 | 2023-01-18 | 11 | 25 | 
 | 2023-01-17 | 11 | 25 | 

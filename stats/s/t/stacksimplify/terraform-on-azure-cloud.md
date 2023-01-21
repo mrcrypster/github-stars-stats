@@ -1,8 +1,8 @@
 # stacksimplify/terraform-on-azure-cloud - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 849
+☋ Forks: 851
 
 ★ Stars: 97
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 97 | 851 | 
 | 2023-01-19 | 97 | 849 | 
 | 2023-01-18 | 96 | 849 | 
 | 2023-01-17 | 95 | 848 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 91 | 812 | 
 | 2022-12-23 | 91 | 812 | 
 | 2022-12-22 | 91 | 811 | 
-| 2022-12-21 | 91 | 810 | 
 

@@ -1,6 +1,6 @@
 # creativetimofficial/vue-paper-dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 483
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1760 | 483 | 
 | 2023-01-20 | 1760 | 483 | 
 | 2023-01-18 | 1760 | 482 | 
 | 2023-01-17 | 1760 | 482 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 1760 | 473 | 
 | 2022-12-23 | 1760 | 473 | 
 | 2022-12-22 | 1760 | 473 | 
-| 2022-12-21 | 1760 | 473 | 
 

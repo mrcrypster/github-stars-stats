@@ -1,6 +1,6 @@
 # FlyGoat/RyzenAdj - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1040 | 83 | 
 | 2023-01-19 | 1040 | 83 | 
 | 2023-01-18 | 1038 | 83 | 
 | 2023-01-17 | 1036 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 999 | 80 | 
 | 2022-12-23 | 997 | 80 | 
 | 2022-12-22 | 996 | 80 | 
-| 2022-12-21 | 996 | 80 | 
 

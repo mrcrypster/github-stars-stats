@@ -1,10 +1,10 @@
 # Ancientkingg/shader-shenanigans - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 19
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/Ancientkingg/shader-shenanigans)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 68 | 19 | 
 | 2023-01-19 | 67 | 19 | 
 | 2023-01-18 | 67 | 19 | 
 | 2023-01-17 | 67 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 59 | 18 | 
 | 2022-12-23 | 59 | 18 | 
 | 2022-12-22 | 59 | 18 | 
-| 2022-12-21 | 59 | 18 | 
 

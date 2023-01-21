@@ -1,6 +1,6 @@
 # kotlin-hands-on/advent-of-code-kotlin-template - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 341 | 51 | 
 | 2023-01-19 | 341 | 51 | 
 | 2023-01-18 | 340 | 51 | 
 | 2023-01-17 | 340 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 336 | 49 | 
 | 2022-12-23 | 335 | 48 | 
 | 2022-12-22 | 334 | 48 | 
-| 2022-12-21 | 332 | 48 | 
 

@@ -1,10 +1,10 @@
 # HFTSRedux/TS2Redux - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 3
 
-★ Stars: 102
+★ Stars: 101
 
 [Open repository](https://github.com/HFTSRedux/TS2Redux)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 101 | 3 | 
 | 2023-01-19 | 102 | 3 | 
 | 2023-01-18 | 102 | 3 | 
 | 2023-01-17 | 101 | 3 | 

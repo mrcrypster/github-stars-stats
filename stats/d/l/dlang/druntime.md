@@ -1,6 +1,6 @@
 # dlang/druntime - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 453
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 662 | 453 | 
 | 2023-01-19 | 662 | 453 | 
 | 2023-01-18 | 662 | 453 | 
 | 2023-01-17 | 662 | 453 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 662 | 453 | 
 | 2022-12-23 | 662 | 453 | 
 | 2022-12-22 | 662 | 453 | 
-| 2022-12-21 | 663 | 453 | 
 

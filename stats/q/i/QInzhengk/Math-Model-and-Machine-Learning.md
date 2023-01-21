@@ -1,6 +1,6 @@
 # QInzhengk/Math-Model-and-Machine-Learning - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 176 | 67 | 
 | 2023-01-19 | 176 | 67 | 
 | 2023-01-18 | 176 | 67 | 
 | 2023-01-17 | 176 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 173 | 65 | 
 | 2022-12-23 | 173 | 65 | 
 | 2022-12-22 | 172 | 65 | 
-| 2022-12-21 | 172 | 65 | 
 

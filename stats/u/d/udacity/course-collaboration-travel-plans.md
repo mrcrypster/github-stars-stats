@@ -1,10 +1,10 @@
 # udacity/course-collaboration-travel-plans - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 16970
+☋ Forks: 16971
 
-★ Stars: 1144
+★ Stars: 1146
 
 [Open repository](https://github.com/udacity/course-collaboration-travel-plans)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1146 | 16971 | 
 | 2023-01-19 | 1144 | 16970 | 
 | 2023-01-18 | 1144 | 16969 | 
 | 2023-01-17 | 1144 | 16967 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 1142 | 16935 | 
 | 2022-12-24 | 1142 | 16936 | 
 | 2022-12-23 | 1142 | 16936 | 
-| 2022-12-22 | 1139 | 16933 | 
 

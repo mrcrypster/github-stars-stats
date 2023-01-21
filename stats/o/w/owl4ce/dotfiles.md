@@ -1,10 +1,10 @@
 # owl4ce/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 156
 
-★ Stars: 1722
+★ Stars: 1723
 
 [Open repository](https://github.com/owl4ce/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1723 | 156 | 
 | 2023-01-19 | 1722 | 156 | 
 | 2023-01-18 | 1722 | 156 | 
 | 2023-01-17 | 1721 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1703 | 155 | 
 | 2022-12-23 | 1700 | 154 | 
 | 2022-12-22 | 1698 | 154 | 
-| 2022-12-21 | 1698 | 154 | 
 

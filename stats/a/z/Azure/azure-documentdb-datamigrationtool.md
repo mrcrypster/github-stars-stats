@@ -1,10 +1,10 @@
 # Azure/azure-documentdb-datamigrationtool - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 181
 
-★ Stars: 361
+★ Stars: 360
 
 [Open repository](https://github.com/Azure/azure-documentdb-datamigrationtool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 360 | 181 | 
 | 2023-01-19 | 361 | 181 | 
 | 2023-01-18 | 361 | 181 | 
 | 2023-01-17 | 361 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 359 | 181 | 
 | 2022-12-23 | 359 | 181 | 
 | 2022-12-22 | 358 | 181 | 
-| 2022-12-21 | 358 | 181 | 
 

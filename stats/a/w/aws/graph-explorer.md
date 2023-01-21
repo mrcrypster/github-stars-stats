@@ -1,10 +1,10 @@
 # aws/graph-explorer - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 8
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/aws/graph-explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 124 | 8 | 
 | 2023-01-19 | 123 | 8 | 
 | 2023-01-18 | 123 | 8 | 
 | 2023-01-17 | 122 | 7 | 

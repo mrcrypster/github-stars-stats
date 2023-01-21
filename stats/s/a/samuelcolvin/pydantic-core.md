@@ -1,10 +1,10 @@
 # samuelcolvin/pydantic-core - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 58
 
-★ Stars: 711
+★ Stars: 712
 
 [Open repository](https://github.com/samuelcolvin/pydantic-core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 712 | 58 | 
 | 2023-01-19 | 711 | 58 | 
 | 2023-01-18 | 711 | 58 | 
 | 2023-01-17 | 711 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 694 | 56 | 
 | 2022-12-24 | 693 | 56 | 
 | 2022-12-23 | 693 | 56 | 
-| 2022-12-22 | 692 | 56 | 
 

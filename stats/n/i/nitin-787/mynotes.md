@@ -1,6 +1,6 @@
 # nitin-787/mynotes - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 28 | 34 | 
 | 2023-01-20 | 28 | 34 | 
 | 2023-01-19 | 28 | 34 | 
 | 2023-01-17 | 28 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 27 | 33 | 
 | 2022-12-24 | 27 | 33 | 
 | 2022-12-23 | 27 | 33 | 
-| 2022-12-22 | 27 | 33 | 
 

@@ -1,10 +1,10 @@
 # PyCQA/flake8 - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 267
 
-★ Stars: 2589
+★ Stars: 2591
 
 [Open repository](https://github.com/PyCQA/flake8)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2591 | 267 | 
 | 2023-01-19 | 2589 | 267 | 
 | 2023-01-18 | 2583 | 267 | 
 | 2023-01-17 | 2582 | 267 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2534 | 258 | 
 | 2022-12-23 | 2533 | 258 | 
 | 2022-12-22 | 2532 | 258 | 
-| 2022-12-21 | 2529 | 256 | 
 

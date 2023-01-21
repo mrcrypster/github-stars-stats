@@ -1,10 +1,10 @@
 # zombye/spectrum - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 26
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/zombye/spectrum)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 65 | 26 | 
 | 2023-01-19 | 64 | 26 | 
 | 2023-01-18 | 64 | 26 | 
 | 2023-01-17 | 63 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 61 | 25 | 
 | 2022-12-23 | 61 | 24 | 
 | 2022-12-22 | 61 | 24 | 
-| 2022-12-21 | 61 | 24 | 
 

@@ -1,10 +1,10 @@
 # daison12006013/sveltekit-starter - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 23
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/daison12006013/sveltekit-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 120 | 23 | 
 | 2023-01-19 | 119 | 23 | 
 | 2023-01-18 | 119 | 23 | 
 | 2023-01-17 | 118 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 108 | 23 | 
 | 2022-12-24 | 108 | 23 | 
 | 2022-12-22 | 107 | 23 | 
-| 2022-12-21 | 107 | 23 | 
 

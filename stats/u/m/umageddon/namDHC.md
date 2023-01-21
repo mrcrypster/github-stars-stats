@@ -1,10 +1,10 @@
 # umageddon/namDHC - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/umageddon/namDHC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 84 | 2 | 
 | 2023-01-19 | 83 | 2 | 
 | 2023-01-18 | 82 | 2 | 
 | 2023-01-17 | 82 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 75 | 2 | 
 | 2022-12-23 | 74 | 2 | 
 | 2022-12-22 | 74 | 2 | 
-| 2022-12-21 | 74 | 2 | 
 

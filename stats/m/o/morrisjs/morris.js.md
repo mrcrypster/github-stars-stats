@@ -1,10 +1,10 @@
 # morrisjs/morris.js - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1261
 
-★ Stars: 6967
+★ Stars: 6966
 
 [Open repository](https://github.com/morrisjs/morris.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 6966 | 1261 | 
 | 2023-01-19 | 6967 | 1261 | 
 | 2023-01-18 | 6967 | 1261 | 
 | 2023-01-17 | 6967 | 1261 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 6967 | 1263 | 
 | 2022-12-23 | 6966 | 1263 | 
 | 2022-12-22 | 6965 | 1262 | 
-| 2022-12-21 | 6965 | 1262 | 
 

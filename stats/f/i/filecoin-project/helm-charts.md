@@ -1,6 +1,6 @@
 # filecoin-project/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 4 | 8 | 
 | 2023-01-19 | 4 | 8 | 
 | 2023-01-18 | 4 | 8 | 
 | 2023-01-17 | 4 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 4 | 8 | 
 | 2022-12-24 | 4 | 8 | 
 | 2022-12-22 | 4 | 8 | 
-| 2022-12-21 | 4 | 8 | 
 

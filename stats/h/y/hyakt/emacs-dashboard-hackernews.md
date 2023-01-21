@@ -1,6 +1,6 @@
 # hyakt/emacs-dashboard-hackernews - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 13 | 4 | 
 | 2023-01-19 | 13 | 4 | 
 | 2023-01-18 | 13 | 4 | 
 | 2023-01-17 | 13 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 12 | 4 | 
 | 2022-12-23 | 12 | 4 | 
 | 2022-12-22 | 12 | 4 | 
-| 2022-12-21 | 12 | 4 | 
 

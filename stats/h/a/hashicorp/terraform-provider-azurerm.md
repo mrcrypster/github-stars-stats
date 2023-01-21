@@ -1,6 +1,6 @@
 # hashicorp/terraform-provider-azurerm - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 3847
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3786 | 3847 | 
 | 2023-01-19 | 3786 | 3847 | 
 | 2023-01-18 | 3781 | 3846 | 
 | 2023-01-17 | 3779 | 3840 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 3747 | 3823 | 
 | 2022-12-23 | 3747 | 3822 | 
 | 2022-12-22 | 3744 | 3818 | 
-| 2022-12-21 | 3742 | 3817 | 
 

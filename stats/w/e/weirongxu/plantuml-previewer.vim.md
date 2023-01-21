@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 20
 
 ☋ Forks: 27
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/weirongxu/plantuml-previewer.vim)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 214 | 27 | 
+| 2023-01-20 | 215 | 27 | 
 | 2023-01-19 | 214 | 27 | 
 | 2023-01-18 | 214 | 27 | 
 | 2023-01-17 | 212 | 27 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 208 | 25 | 
 | 2022-12-24 | 208 | 25 | 
 | 2022-12-22 | 208 | 25 | 
-| 2022-12-21 | 207 | 25 | 
 

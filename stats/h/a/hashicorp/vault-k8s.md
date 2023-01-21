@@ -1,6 +1,6 @@
 # hashicorp/vault-k8s - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 670 | 133 | 
 | 2023-01-19 | 670 | 133 | 
 | 2023-01-18 | 667 | 133 | 
 | 2023-01-17 | 667 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 658 | 131 | 
 | 2022-12-23 | 658 | 131 | 
 | 2022-12-22 | 658 | 131 | 
-| 2022-12-21 | 658 | 131 | 
 

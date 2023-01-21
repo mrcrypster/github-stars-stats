@@ -1,6 +1,6 @@
 # Unity-Technologies/UnityRenderStreaming - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 276
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 980 | 276 | 
 | 2023-01-19 | 980 | 276 | 
 | 2023-01-18 | 978 | 275 | 
 | 2023-01-17 | 978 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 967 | 275 | 
 | 2022-12-23 | 967 | 275 | 
 | 2022-12-22 | 967 | 275 | 
-| 2022-12-21 | 964 | 274 | 
 

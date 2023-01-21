@@ -1,8 +1,8 @@
 # ffi/ffi - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 328
+☋ Forks: 329
 
 ★ Stars: 1986
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1986 | 329 | 
 | 2023-01-19 | 1986 | 328 | 
 | 2023-01-18 | 1986 | 327 | 
 | 2023-01-17 | 1986 | 327 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1983 | 326 | 
 | 2022-12-23 | 1983 | 326 | 
 | 2022-12-22 | 1984 | 326 | 
-| 2022-12-21 | 1983 | 326 | 
 

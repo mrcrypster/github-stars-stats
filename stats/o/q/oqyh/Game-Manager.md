@@ -1,6 +1,6 @@
 # oqyh/Game-Manager - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 53 | 1 | 
 | 2023-01-19 | 53 | 1 | 
 | 2023-01-18 | 53 | 1 | 
 | 2023-01-17 | 53 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 52 | 1 | 
 | 2022-12-23 | 52 | 1 | 
 | 2022-12-22 | 52 | 1 | 
-| 2022-12-21 | 52 | 1 | 
 

@@ -1,10 +1,10 @@
 # chunliu/AzureDesignStudio - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 30
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/chunliu/AzureDesignStudio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 126 | 30 | 
 | 2023-01-19 | 125 | 30 | 
 | 2023-01-18 | 125 | 30 | 
 | 2023-01-17 | 125 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 122 | 28 | 
 | 2022-12-23 | 122 | 28 | 
 | 2022-12-22 | 122 | 28 | 
-| 2022-12-21 | 122 | 28 | 
 

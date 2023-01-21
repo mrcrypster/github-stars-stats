@@ -1,10 +1,10 @@
 # tzapu/WiFiManager - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1738
+☋ Forks: 1737
 
-★ Stars: 5605
+★ Stars: 5607
 
 [Open repository](https://github.com/tzapu/WiFiManager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 5607 | 1737 | 
 | 2023-01-19 | 5605 | 1738 | 
 | 2023-01-18 | 5602 | 1736 | 
 | 2023-01-17 | 5602 | 1735 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 5559 | 1725 | 
 | 2022-12-23 | 5556 | 1725 | 
 | 2022-12-22 | 5555 | 1725 | 
-| 2022-12-21 | 5553 | 1724 | 
 

@@ -1,10 +1,10 @@
 # swaggo/gin-swagger - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 233
 
-★ Stars: 2782
+★ Stars: 2784
 
 [Open repository](https://github.com/swaggo/gin-swagger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2784 | 233 | 
 | 2023-01-19 | 2782 | 233 | 
 | 2023-01-18 | 2780 | 233 | 
 | 2023-01-17 | 2778 | 233 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2743 | 229 | 
 | 2022-12-23 | 2742 | 229 | 
 | 2022-12-22 | 2739 | 229 | 
-| 2022-12-21 | 2737 | 227 | 
 

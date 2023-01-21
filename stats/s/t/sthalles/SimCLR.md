@@ -1,6 +1,6 @@
 # sthalles/SimCLR - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 369
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1704 | 369 | 
 | 2023-01-19 | 1704 | 369 | 
 | 2023-01-18 | 1702 | 368 | 
 | 2023-01-17 | 1702 | 368 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 1674 | 363 | 
 | 2022-12-24 | 1674 | 363 | 
 | 2022-12-23 | 1673 | 363 | 
-| 2022-12-22 | 1673 | 363 | 
 

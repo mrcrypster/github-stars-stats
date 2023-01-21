@@ -1,10 +1,10 @@
 # lxhao61/integrated-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 313
 
-★ Stars: 1009
+★ Stars: 1010
 
 [Open repository](https://github.com/lxhao61/integrated-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1010 | 313 | 
 | 2023-01-19 | 1009 | 313 | 
 | 2023-01-18 | 1009 | 312 | 
 | 2023-01-17 | 1007 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 971 | 303 | 
 | 2022-12-24 | 970 | 302 | 
 | 2022-12-23 | 967 | 303 | 
-| 2022-12-22 | 967 | 304 | 
 

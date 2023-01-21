@@ -1,10 +1,10 @@
 # jxxghp/nas-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 616
+☋ Forks: 618
 
-★ Stars: 5341
+★ Stars: 5352
 
 [Open repository](https://github.com/jxxghp/nas-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 5352 | 618 | 
 | 2023-01-19 | 5341 | 616 | 
 | 2023-01-18 | 5304 | 614 | 
 | 2023-01-17 | 5280 | 612 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 4910 | 579 | 
 | 2022-12-23 | 4905 | 577 | 
 | 2022-12-22 | 4888 | 576 | 
-| 2022-12-21 | 4880 | 576 | 
 

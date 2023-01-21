@@ -1,6 +1,6 @@
 # ctor-lab/ERC1155Delta - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 26 | - | 
 | 2023-01-20 | 26 | - | 
 | 2023-01-18 | 26 | - | 
 | 2023-01-17 | 25 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 23 | - | 
 | 2022-12-24 | 23 | - | 
 | 2022-12-23 | 23 | - | 
-| 2022-12-22 | 23 | - | 
 

@@ -1,6 +1,6 @@
 # sasa1977/elixir-in-action - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 814 | 170 | 
 | 2023-01-19 | 814 | 170 | 
 | 2023-01-18 | 814 | 170 | 
 | 2023-01-17 | 814 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 811 | 170 | 
 | 2022-12-23 | 811 | 170 | 
 | 2022-12-22 | 811 | 170 | 
-| 2022-12-21 | 811 | 170 | 
 

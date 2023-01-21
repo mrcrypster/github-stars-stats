@@ -1,10 +1,10 @@
 # yoksel/common-words - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1128
+☋ Forks: 1131
 
-★ Stars: 2712
+★ Stars: 2714
 
 [Open repository](https://github.com/yoksel/common-words)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 2712 | 1128 | 
+| 2023-01-21 | 2714 | 1131 | 
+| 2023-01-20 | 2714 | 1131 | 
 | 2023-01-19 | 2712 | 1128 | 
 | 2023-01-18 | 2706 | 1124 | 
 | 2023-01-17 | 2705 | 1122 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 2684 | 1128 | 
 | 2022-12-23 | 2684 | 1128 | 
 | 2022-12-22 | 2683 | 1128 | 
-| 2022-12-21 | 2680 | 1126 | 
 

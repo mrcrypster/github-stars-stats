@@ -1,6 +1,6 @@
 # simeji/winresizer - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 517 | 20 | 
 | 2023-01-20 | 517 | 20 | 
 | 2023-01-18 | 518 | 20 | 
 | 2023-01-17 | 519 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 520 | 20 | 
 | 2022-12-23 | 519 | 20 | 
 | 2022-12-22 | 519 | 20 | 
-| 2022-12-21 | 519 | 20 | 
 

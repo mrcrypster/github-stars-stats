@@ -1,6 +1,6 @@
 # mne-tools/mne-python - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2101 | 1144 | 
 | 2023-01-19 | 2101 | 1144 | 
 | 2023-01-18 | 2100 | 1146 | 
 | 2023-01-17 | 2099 | 1145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2094 | 1143 | 
 | 2022-12-23 | 2093 | 1143 | 
 | 2022-12-22 | 2093 | 1142 | 
-| 2022-12-21 | 2093 | 1142 | 
 

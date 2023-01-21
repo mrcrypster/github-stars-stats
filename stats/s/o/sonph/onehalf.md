@@ -1,8 +1,8 @@
 # sonph/onehalf - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 238
+☋ Forks: 239
 
 ★ Stars: 1597
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1597 | 239 | 
 | 2023-01-19 | 1597 | 238 | 
 | 2023-01-18 | 1594 | 238 | 
 | 2023-01-17 | 1592 | 238 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1575 | 239 | 
 | 2022-12-23 | 1573 | 239 | 
 | 2022-12-22 | 1571 | 239 | 
-| 2022-12-21 | 1570 | 239 | 
 

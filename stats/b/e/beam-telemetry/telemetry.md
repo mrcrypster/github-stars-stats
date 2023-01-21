@@ -1,10 +1,10 @@
 # beam-telemetry/telemetry - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 60
 
-★ Stars: 792
+★ Stars: 793
 
 [Open repository](https://github.com/beam-telemetry/telemetry)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 793 | 60 | 
 | 2023-01-19 | 792 | 60 | 
 | 2023-01-18 | 792 | 60 | 
 | 2023-01-17 | 792 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 783 | 58 | 
 | 2022-12-23 | 783 | 58 | 
 | 2022-12-22 | 783 | 58 | 
-| 2022-12-21 | 782 | 58 | 
 

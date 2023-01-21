@@ -1,10 +1,10 @@
 # orkunisitmak/text2img-index - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/orkunisitmak/text2img-index)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 30 | 1 | 
 | 2023-01-19 | 29 | 1 | 
 | 2023-01-18 | 29 | 1 | 
 | 2023-01-17 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 26 | 1 | 
 | 2022-12-23 | 25 | 1 | 
 | 2022-12-22 | 25 | 1 | 
-| 2022-12-21 | 25 | 1 | 
 

@@ -1,10 +1,10 @@
 # pozm/bsod-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 3
 
-★ Stars: 112
+★ Stars: 111
 
 [Open repository](https://github.com/pozm/bsod-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 111 | 3 | 
 | 2023-01-19 | 112 | 3 | 
 | 2023-01-18 | 112 | 3 | 
 | 2023-01-17 | 112 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 112 | 3 | 
 | 2022-12-23 | 111 | 3 | 
 | 2022-12-22 | 111 | 3 | 
-| 2022-12-21 | 111 | 3 | 
 

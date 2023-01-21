@@ -1,10 +1,10 @@
 # mosra/toolchains - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 31
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/mosra/toolchains)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 81 | 31 | 
 | 2023-01-19 | 80 | 31 | 
 | 2023-01-18 | 80 | 31 | 
 | 2023-01-17 | 80 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 80 | 31 | 
 | 2022-12-23 | 80 | 31 | 
 | 2022-12-22 | 80 | 31 | 
-| 2022-12-21 | 80 | 31 | 
 

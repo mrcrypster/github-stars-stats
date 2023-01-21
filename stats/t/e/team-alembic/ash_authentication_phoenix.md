@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/team-alembic/ash_authentication_phoenix)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 25 | - | 
+| 2023-01-20 | 26 | - | 
 | 2023-01-19 | 25 | - | 
 

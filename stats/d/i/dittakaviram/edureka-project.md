@@ -1,8 +1,8 @@
 # dittakaviram/edureka-project - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | - | 42 | 
 | 2023-01-19 | - | 41 | 
 | 2023-01-18 | - | 41 | 
 | 2023-01-17 | - | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | - | 40 | 
 | 2022-12-23 | - | 40 | 
 | 2022-12-22 | - | 40 | 
-| 2022-12-21 | - | 40 | 
 

@@ -1,6 +1,6 @@
 # mitthu786/TS-JioTV - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 146 | 104 | 
 | 2023-01-19 | 146 | 104 | 
 | 2023-01-18 | 146 | 102 | 
 | 2023-01-17 | 145 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 135 | 92 | 
 | 2022-12-23 | 134 | 92 | 
 | 2022-12-22 | 134 | 92 | 
-| 2022-12-21 | 134 | 92 | 
 

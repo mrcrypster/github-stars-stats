@@ -1,6 +1,6 @@
 # starwing/lua-protobuf - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 366
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1488 | 366 | 
 | 2023-01-19 | 1488 | 366 | 
 | 2023-01-18 | 1487 | 365 | 
 | 2023-01-17 | 1487 | 365 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1479 | 364 | 
 | 2022-12-23 | 1479 | 365 | 
 | 2022-12-22 | 1479 | 365 | 
-| 2022-12-21 | 1479 | 365 | 
 

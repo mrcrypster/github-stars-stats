@@ -1,6 +1,6 @@
 # su2code/Tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 10 | 87 | 
 | 2023-01-19 | 10 | 87 | 
 | 2023-01-18 | 10 | 87 | 
 | 2023-01-17 | 10 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 10 | 85 | 
 | 2022-12-23 | 10 | 85 | 
 | 2022-12-22 | 10 | 85 | 
-| 2022-12-21 | 10 | 85 | 
 

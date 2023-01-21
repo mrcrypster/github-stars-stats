@@ -1,10 +1,10 @@
 # Baseflow/flutter_cached_network_image - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 499
 
-★ Stars: 2152
+★ Stars: 2153
 
 [Open repository](https://github.com/Baseflow/flutter_cached_network_image)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2153 | 499 | 
 | 2023-01-19 | 2152 | 499 | 
 | 2023-01-18 | 2151 | 498 | 
 | 2023-01-17 | 2151 | 498 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 2139 | 495 | 
 | 2022-12-23 | 2139 | 495 | 
 | 2022-12-22 | 2138 | 494 | 
-| 2022-12-21 | 2137 | 494 | 
 

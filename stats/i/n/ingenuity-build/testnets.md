@@ -1,6 +1,6 @@
 # ingenuity-build/testnets - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 50 | 158 | 
 | 2023-01-19 | 50 | 158 | 
 | 2023-01-18 | 50 | 158 | 
 | 2023-01-17 | 50 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 50 | 156 | 
 | 2022-12-23 | 50 | 155 | 
 | 2022-12-22 | 50 | 155 | 
-| 2022-12-21 | 50 | 155 | 
 

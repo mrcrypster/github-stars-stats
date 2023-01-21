@@ -1,10 +1,10 @@
 # microsoft/TemplateStudio - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 435
 
-★ Stars: 2371
+★ Stars: 2372
 
 [Open repository](https://github.com/microsoft/TemplateStudio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2372 | 435 | 
 | 2023-01-19 | 2371 | 435 | 
 | 2023-01-18 | 2371 | 435 | 
 | 2023-01-17 | 2371 | 435 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2362 | 434 | 
 | 2022-12-23 | 2362 | 434 | 
 | 2022-12-22 | 2361 | 434 | 
-| 2022-12-21 | 2361 | 434 | 
 

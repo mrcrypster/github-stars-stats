@@ -1,6 +1,6 @@
 # irazasyed/telegram-bot-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 624
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2553 | 624 | 
 | 2023-01-19 | 2553 | 624 | 
 | 2023-01-18 | 2552 | 623 | 
 | 2023-01-17 | 2550 | 623 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2539 | 621 | 
 | 2022-12-23 | 2538 | 621 | 
 | 2022-12-22 | 2538 | 621 | 
-| 2022-12-21 | 2539 | 621 | 
 

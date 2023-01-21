@@ -1,10 +1,10 @@
 # symfony/serializer - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 75
 
-★ Stars: 2217
+★ Stars: 2219
 
 [Open repository](https://github.com/symfony/serializer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2219 | 75 | 
 | 2023-01-19 | 2217 | 75 | 
 | 2023-01-18 | 2217 | 75 | 
 | 2023-01-17 | 2216 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 2205 | 77 | 
 | 2022-12-23 | 2205 | 77 | 
 | 2022-12-22 | 2204 | 77 | 
-| 2022-12-21 | 2201 | 77 | 
 

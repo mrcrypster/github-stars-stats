@@ -1,6 +1,6 @@
 # uasoft-indonesia/badaso - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1016 | 192 | 
 | 2023-01-19 | 1016 | 192 | 
 | 2023-01-18 | 1016 | 192 | 
 | 2023-01-17 | 1015 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1010 | 192 | 
 | 2022-12-23 | 1010 | 192 | 
 | 2022-12-22 | 1009 | 192 | 
-| 2022-12-21 | 1009 | 192 | 
 

@@ -1,8 +1,8 @@
 # dharmikumbhani/buidl.so-frontend-test - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 33
+☋ Forks: 36
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 24 | 36 | 
 | 2023-01-19 | 24 | 33 | 
 | 2023-01-18 | 24 | 33 | 
 | 2023-01-17 | 24 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 24 | 31 | 
 | 2022-12-23 | 24 | 31 | 
 | 2022-12-22 | 24 | 32 | 
-| 2022-12-21 | 24 | 32 | 
 

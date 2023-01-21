@@ -1,10 +1,10 @@
 # adoyle-h/one.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 3
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/adoyle-h/one.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 68 | 3 | 
 | 2023-01-19 | 67 | 3 | 
 | 2023-01-18 | 67 | 3 | 
 | 2023-01-17 | 67 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 60 | 2 | 
 | 2022-12-23 | 60 | 2 | 
 | 2022-12-22 | 60 | 2 | 
-| 2022-12-21 | 58 | 2 | 
 

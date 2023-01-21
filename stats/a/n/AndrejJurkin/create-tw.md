@@ -1,10 +1,10 @@
 # AndrejJurkin/create-tw - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 224
+★ Stars: 225
 
 [Open repository](https://github.com/AndrejJurkin/create-tw)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 225 | 18 | 
 | 2023-01-19 | 224 | 17 | 
 | 2023-01-18 | 224 | 17 | 
 | 2023-01-17 | 224 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 213 | 16 | 
 | 2022-12-23 | 213 | 16 | 
 | 2022-12-22 | 213 | 16 | 
-| 2022-12-21 | 213 | 16 | 
 

@@ -1,6 +1,6 @@
 # saucepoint/elo-lib - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 28 | - | 
 | 2023-01-19 | 28 | - | 
 | 2023-01-18 | 28 | - | 
 | 2023-01-17 | 28 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 28 | - | 
 | 2022-12-24 | 28 | - | 
 | 2022-12-23 | 28 | - | 
-| 2022-12-22 | 28 | - | 
 

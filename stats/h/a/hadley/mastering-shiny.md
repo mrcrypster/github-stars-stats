@@ -1,10 +1,10 @@
 # hadley/mastering-shiny - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 504
 
-★ Stars: 1112
+★ Stars: 1113
 
 [Open repository](https://github.com/hadley/mastering-shiny)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1113 | 504 | 
 | 2023-01-19 | 1112 | 504 | 
 | 2023-01-18 | 1112 | 505 | 
 | 2023-01-17 | 1111 | 505 | 

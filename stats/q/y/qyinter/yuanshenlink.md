@@ -1,10 +1,10 @@
 # qyinter/yuanshenlink - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 13
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/qyinter/yuanshenlink)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 75 | 13 | 
 | 2023-01-19 | 74 | 13 | 
 | 2023-01-18 | 74 | 12 | 
 | 2023-01-17 | 74 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 61 | 10 | 
 | 2022-12-24 | 61 | 10 | 
 | 2022-12-23 | 59 | 10 | 
-| 2022-12-22 | 59 | 10 | 
 

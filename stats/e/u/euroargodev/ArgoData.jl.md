@@ -1,10 +1,10 @@
 # euroargodev/ArgoData.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/euroargodev/ArgoData.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 13 | 2 | 
 | 2023-01-19 | 12 | 2 | 
 | 2023-01-18 | 12 | 2 | 
 | 2023-01-17 | 12 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 12 | 2 | 
 | 2022-12-23 | 12 | 2 | 
 | 2022-12-22 | 12 | 2 | 
-| 2022-12-21 | 12 | 2 | 
 

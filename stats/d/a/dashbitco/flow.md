@@ -1,10 +1,10 @@
 # dashbitco/flow - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 81
 
-★ Stars: 1350
+★ Stars: 1351
 
 [Open repository](https://github.com/dashbitco/flow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1351 | 81 | 
 | 2023-01-19 | 1350 | 81 | 
 | 2023-01-18 | 1349 | 81 | 
 | 2023-01-17 | 1347 | 81 | 

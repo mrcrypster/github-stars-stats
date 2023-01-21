@@ -1,10 +1,10 @@
 # daweedkob/daweedkob.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 695
+★ Stars: 718
 
 [Open repository](https://github.com/daweedkob/daweedkob.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 718 | 25 | 
 | 2023-01-19 | 695 | 24 | 
 | 2023-01-17 | 680 | 22 | 
 | 2023-01-16 | 658 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 445 | 17 | 
 | 2022-12-23 | 443 | 17 | 
 | 2022-12-22 | 440 | 17 | 
-| 2022-12-21 | 440 | 16 | 
 

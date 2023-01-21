@@ -1,8 +1,8 @@
 # hexops/dockerfile - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 148
+☋ Forks: 149
 
 ★ Stars: 3918
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3918 | 149 | 
 | 2023-01-19 | 3918 | 148 | 
 | 2023-01-18 | 3918 | 148 | 
 | 2023-01-17 | 3918 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 3908 | 147 | 
 | 2022-12-23 | 3908 | 147 | 
 | 2022-12-22 | 3908 | 147 | 
-| 2022-12-21 | 3908 | 148 | 
 

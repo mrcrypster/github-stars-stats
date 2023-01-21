@@ -1,10 +1,10 @@
 # jspahrsummers/libextobjc - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 471
 
-★ Stars: 4535
+★ Stars: 4534
 
 [Open repository](https://github.com/jspahrsummers/libextobjc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 4534 | 471 | 
 | 2023-01-19 | 4535 | 471 | 
 | 2023-01-18 | 4535 | 471 | 
 | 2023-01-17 | 4535 | 471 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 4534 | 471 | 
 | 2022-12-23 | 4534 | 471 | 
 | 2022-12-22 | 4534 | 471 | 
-| 2022-12-21 | 4534 | 471 | 
 

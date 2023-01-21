@@ -1,6 +1,6 @@
 # GarrettGunnell/Inktober-Ink-Shader - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 25 | 4 | 
 | 2023-01-19 | 25 | 4 | 
 | 2023-01-18 | 25 | 4 | 
 | 2023-01-17 | 24 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 24 | 3 | 
 | 2022-12-23 | 24 | 3 | 
 | 2022-12-22 | 24 | 3 | 
-| 2022-12-21 | 24 | 3 | 
 

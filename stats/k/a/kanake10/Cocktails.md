@@ -1,6 +1,6 @@
 # kanake10/Cocktails - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 28 | 14 | 
 | 2023-01-19 | 28 | 14 | 
 | 2023-01-18 | 28 | 14 | 
 | 2023-01-17 | 28 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 28 | 14 | 
 | 2022-12-23 | 28 | 14 | 
 | 2022-12-22 | 28 | 14 | 
-| 2022-12-21 | 28 | 14 | 
 

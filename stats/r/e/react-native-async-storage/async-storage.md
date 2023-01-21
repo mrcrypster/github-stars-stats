@@ -1,10 +1,10 @@
 # react-native-async-storage/async-storage - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 410
 
-★ Stars: 3827
+★ Stars: 3828
 
 [Open repository](https://github.com/react-native-async-storage/async-storage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3828 | 410 | 
 | 2023-01-19 | 3827 | 410 | 
 | 2023-01-18 | 3825 | 410 | 
 | 2023-01-17 | 3825 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 3771 | 409 | 
 | 2022-12-23 | 3771 | 409 | 
 | 2022-12-22 | 3768 | 409 | 
-| 2022-12-21 | 3767 | 409 | 
 

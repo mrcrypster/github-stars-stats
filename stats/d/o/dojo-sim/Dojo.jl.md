@@ -1,6 +1,6 @@
 # dojo-sim/Dojo.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 203 | 11 | 
 | 2023-01-20 | 203 | 11 | 
 | 2023-01-18 | 202 | 11 | 
 | 2023-01-17 | 201 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 196 | 10 | 
 | 2022-12-23 | 196 | 10 | 
 | 2022-12-22 | 196 | 10 | 
-| 2022-12-21 | 196 | 10 | 
 

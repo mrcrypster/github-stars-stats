@@ -1,10 +1,10 @@
 # visualboyadvance-m/visualboyadvance-m - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 2704
+★ Stars: 2705
 
 [Open repository](https://github.com/visualboyadvance-m/visualboyadvance-m)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2705 | 279 | 
 | 2023-01-20 | 2704 | 278 | 
 | 2023-01-18 | 2704 | 278 | 
 | 2023-01-17 | 2703 | 278 | 

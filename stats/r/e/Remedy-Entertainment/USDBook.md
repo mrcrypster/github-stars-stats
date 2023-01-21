@@ -1,10 +1,10 @@
 # Remedy-Entertainment/USDBook - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 4
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/Remedy-Entertainment/USDBook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 82 | 4 | 
 | 2023-01-19 | 81 | 4 | 
 | 2023-01-18 | 77 | 3 | 
 | 2023-01-17 | 76 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 72 | 2 | 
 | 2022-12-23 | 72 | 2 | 
 | 2022-12-22 | 72 | 2 | 
-| 2022-12-21 | 72 | 1 | 
 

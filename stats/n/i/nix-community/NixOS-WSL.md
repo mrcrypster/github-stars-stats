@@ -1,10 +1,10 @@
 # nix-community/NixOS-WSL - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 58
 
-★ Stars: 645
+★ Stars: 647
 
 [Open repository](https://github.com/nix-community/NixOS-WSL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 647 | 58 | 
 | 2023-01-19 | 645 | 58 | 
 | 2023-01-18 | 644 | 58 | 
 | 2023-01-17 | 643 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 625 | 59 | 
 | 2022-12-23 | 623 | 59 | 
 | 2022-12-22 | 621 | 59 | 
-| 2022-12-21 | 621 | 59 | 
 

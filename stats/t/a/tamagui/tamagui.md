@@ -1,10 +1,10 @@
 # tamagui/tamagui - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 124
+☋ Forks: 125
 
-★ Stars: 4454
+★ Stars: 4467
 
 [Open repository](https://github.com/tamagui/tamagui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 4467 | 125 | 
 | 2023-01-19 | 4454 | 124 | 
 | 2023-01-18 | 4434 | 123 | 
 | 2023-01-17 | 4420 | 121 | 

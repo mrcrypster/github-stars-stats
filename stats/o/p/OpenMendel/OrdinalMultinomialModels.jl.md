@@ -1,6 +1,6 @@
 # OpenMendel/OrdinalMultinomialModels.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 10 | 2 | 
 | 2023-01-19 | 10 | 2 | 
 | 2023-01-18 | 10 | 2 | 
 | 2023-01-17 | 10 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 9 | 2 | 
 | 2022-12-23 | 9 | 2 | 
 | 2022-12-22 | 9 | 2 | 
-| 2022-12-21 | 9 | 2 | 
 

@@ -1,10 +1,10 @@
 # alanvardy/exzeitable - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 21
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/alanvardy/exzeitable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 194 | 21 | 
 | 2023-01-19 | 193 | 21 | 
 | 2023-01-17 | 192 | 21 | 
 | 2023-01-16 | 192 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 193 | 21 | 
 | 2022-12-23 | 193 | 21 | 
 | 2022-12-22 | 193 | 21 | 
-| 2022-12-21 | 193 | 21 | 
 

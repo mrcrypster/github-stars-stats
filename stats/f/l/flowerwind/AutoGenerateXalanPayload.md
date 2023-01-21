@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 20
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/flowerwind/AutoGenerateXalanPayload)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 30 | 2 | 
+| 2023-01-20 | 32 | 3 | 
 | 2023-01-19 | 30 | 2 | 
 

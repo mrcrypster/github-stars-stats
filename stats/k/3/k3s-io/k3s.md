@@ -1,10 +1,10 @@
 # k3s-io/k3s - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1943
+☋ Forks: 1946
 
-★ Stars: 22022
+★ Stars: 22033
 
 [Open repository](https://github.com/k3s-io/k3s)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 22033 | 1946 | 
 | 2023-01-19 | 22022 | 1943 | 
 | 2023-01-18 | 22009 | 1943 | 
 | 2023-01-17 | 21998 | 1943 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 21808 | 1926 | 
 | 2022-12-23 | 21805 | 1926 | 
 | 2022-12-22 | 21799 | 1925 | 
-| 2022-12-21 | 21786 | 1923 | 
 

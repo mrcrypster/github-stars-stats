@@ -1,8 +1,8 @@
 # contribsys/einhorn - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 50
+☋ Forks: 49
 
 ★ Stars: 1604
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1604 | 49 | 
 | 2023-01-19 | 1604 | 50 | 
 | 2023-01-18 | 1604 | 50 | 
 | 2023-01-17 | 1604 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1603 | 51 | 
 | 2022-12-23 | 1603 | 51 | 
 | 2022-12-22 | 1603 | 51 | 
-| 2022-12-21 | 1603 | 51 | 
 

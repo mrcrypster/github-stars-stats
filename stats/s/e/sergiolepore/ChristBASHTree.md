@@ -1,10 +1,10 @@
 # sergiolepore/ChristBASHTree - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 101
 
-★ Stars: 324
+★ Stars: 323
 
 [Open repository](https://github.com/sergiolepore/ChristBASHTree)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 323 | 101 | 
 | 2023-01-19 | 324 | 101 | 
 | 2023-01-18 | 324 | 101 | 
 | 2023-01-17 | 325 | 101 | 

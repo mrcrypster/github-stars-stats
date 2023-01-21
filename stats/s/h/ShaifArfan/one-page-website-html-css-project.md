@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 20
 
-☋ Forks: 617
+☋ Forks: 618
 
-★ Stars: 549
+★ Stars: 550
 
 [Open repository](https://github.com/ShaifArfan/one-page-website-html-css-project)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 549 | 617 | 
+| 2023-01-20 | 550 | 618 | 
 | 2023-01-19 | 549 | 617 | 
 | 2023-01-18 | 549 | 615 | 
 | 2023-01-17 | 549 | 616 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 541 | 608 | 
 | 2022-12-23 | 540 | 608 | 
 | 2022-12-22 | 540 | 608 | 
-| 2022-12-21 | 538 | 609 | 
 

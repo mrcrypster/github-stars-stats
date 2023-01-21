@@ -1,10 +1,10 @@
 # Pegah-Ardehkhani/Statistics-and-Probability-in-Python - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/Pegah-Ardehkhani/Statistics-and-Probability-in-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 61 | 15 | 
 | 2023-01-20 | 60 | 14 | 
 | 2023-01-18 | 60 | 14 | 
 | 2023-01-17 | 58 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 54 | 12 | 
 | 2022-12-23 | 54 | 12 | 
 | 2022-12-22 | 54 | 12 | 
-| 2022-12-21 | 54 | 12 | 
 

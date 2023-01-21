@@ -1,6 +1,6 @@
 # Modos-Labs/Caster - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 29 | 6 | 
 | 2023-01-19 | 29 | 6 | 
 | 2023-01-18 | 29 | 5 | 
 | 2023-01-17 | 28 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 27 | 5 | 
 | 2022-12-23 | 27 | 5 | 
 | 2022-12-22 | 27 | 5 | 
-| 2022-12-21 | 27 | 5 | 
 

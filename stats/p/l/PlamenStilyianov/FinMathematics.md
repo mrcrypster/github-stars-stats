@@ -1,10 +1,10 @@
 # PlamenStilyianov/FinMathematics - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 175
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/PlamenStilyianov/FinMathematics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 267 | 175 | 
 | 2023-01-19 | 266 | 175 | 
 | 2023-01-18 | 266 | 175 | 
 | 2023-01-17 | 266 | 175 | 

@@ -1,6 +1,6 @@
 # samisalreadytaken/csgo-benchmark - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 108 | 6 | 
 | 2023-01-19 | 108 | 6 | 
 | 2023-01-18 | 108 | 6 | 
 | 2023-01-17 | 108 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 106 | 6 | 
 | 2022-12-24 | 106 | 6 | 
 | 2022-12-22 | 106 | 6 | 
-| 2022-12-21 | 106 | 6 | 
 

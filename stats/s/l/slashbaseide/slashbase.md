@@ -1,10 +1,10 @@
 # slashbaseide/slashbase - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 25
 
-★ Stars: 630
+★ Stars: 635
 
 [Open repository](https://github.com/slashbaseide/slashbase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 635 | 25 | 
 | 2023-01-19 | 630 | 25 | 
 | 2023-01-18 | 623 | 25 | 
 | 2023-01-17 | 622 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 432 | 13 | 
 | 2022-12-23 | 432 | 13 | 
 | 2022-12-22 | 430 | 13 | 
-| 2022-12-21 | 429 | 13 | 
 

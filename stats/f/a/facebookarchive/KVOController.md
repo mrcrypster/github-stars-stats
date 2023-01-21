@@ -1,6 +1,6 @@
 # facebookarchive/KVOController - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 947
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 7356 | 947 | 
 | 2023-01-19 | 7356 | 947 | 
 | 2023-01-18 | 7356 | 947 | 
 | 2023-01-17 | 7356 | 947 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 7357 | 947 | 
 | 2022-12-23 | 7357 | 947 | 
 | 2022-12-22 | 7358 | 947 | 
-| 2022-12-21 | 7358 | 947 | 
 

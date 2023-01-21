@@ -1,10 +1,10 @@
 # alvarotrigo/fullPage.js - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 7455
+☋ Forks: 7454
 
-★ Stars: 34324
+★ Stars: 34327
 
 [Open repository](https://github.com/alvarotrigo/fullPage.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 34327 | 7454 | 
 | 2023-01-20 | 34324 | 7455 | 
 | 2023-01-18 | 34320 | 7456 | 
 | 2023-01-17 | 34319 | 7457 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 34259 | 7459 | 
 | 2022-12-24 | 34260 | 7460 | 
 | 2022-12-23 | 34258 | 7461 | 
-| 2022-12-22 | 34256 | 7462 | 
 

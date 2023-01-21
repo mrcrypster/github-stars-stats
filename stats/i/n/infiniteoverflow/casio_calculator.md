@@ -1,10 +1,10 @@
 # infiniteoverflow/casio_calculator - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/infiniteoverflow/casio_calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 52 | 6 | 
 | 2023-01-19 | 51 | 5 | 
 | 2023-01-18 | 50 | 5 | 
 | 2023-01-17 | 48 | 5 | 

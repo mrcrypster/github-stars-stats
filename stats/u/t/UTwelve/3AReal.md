@@ -1,6 +1,6 @@
 # UTwelve/3AReal - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 159 | 37 | 
 | 2023-01-19 | 159 | 37 | 
 | 2023-01-18 | 159 | 37 | 
 | 2023-01-17 | 159 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 158 | 37 | 
 | 2022-12-24 | 158 | 37 | 
 | 2022-12-23 | 158 | 37 | 
-| 2022-12-22 | 158 | 37 | 
 

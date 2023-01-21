@@ -1,6 +1,6 @@
 # mozilla/looker-hub - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3 | 7 | 
 | 2023-01-19 | 3 | 7 | 
 | 2023-01-18 | 3 | 7 | 
 | 2023-01-17 | 3 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 3 | 7 | 
 | 2022-12-24 | 3 | 7 | 
 | 2022-12-23 | 3 | 7 | 
-| 2022-12-21 | 3 | 7 | 
 

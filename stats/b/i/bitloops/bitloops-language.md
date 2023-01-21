@@ -1,10 +1,10 @@
 # bitloops/bitloops-language - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 9
 
-★ Stars: 214
+★ Stars: 218
 
 [Open repository](https://github.com/bitloops/bitloops-language)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 218 | 9 | 
 | 2023-01-19 | 214 | 9 | 
 | 2023-01-18 | 214 | 8 | 
 | 2023-01-17 | 213 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 189 | 7 | 
 | 2022-12-23 | 189 | 6 | 
 | 2022-12-22 | 188 | 6 | 
-| 2022-12-21 | 188 | 6 | 
 

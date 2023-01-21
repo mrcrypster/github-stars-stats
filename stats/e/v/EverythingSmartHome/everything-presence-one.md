@@ -1,8 +1,8 @@
 # EverythingSmartHome/everything-presence-one - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 133
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 133 | 17 | 
 | 2023-01-19 | 133 | 16 | 
 | 2023-01-18 | 133 | 16 | 
 | 2023-01-17 | 131 | 15 | 

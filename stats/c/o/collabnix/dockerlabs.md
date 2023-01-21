@@ -1,8 +1,8 @@
 # collabnix/dockerlabs - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1569
+☋ Forks: 1571
 
 ★ Stars: 3214
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3214 | 1571 | 
 | 2023-01-19 | 3214 | 1569 | 
 | 2023-01-18 | 3210 | 1567 | 
 | 2023-01-17 | 3205 | 1565 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 3118 | 1542 | 
 | 2022-12-23 | 3114 | 1541 | 
 | 2022-12-22 | 3111 | 1539 | 
-| 2022-12-21 | 3108 | 1538 | 
 

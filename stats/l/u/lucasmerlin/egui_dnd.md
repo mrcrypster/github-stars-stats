@@ -1,10 +1,10 @@
 # lucasmerlin/egui_dnd - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 4
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/lucasmerlin/egui_dnd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 85 | 4 | 
 | 2023-01-19 | 84 | 4 | 
 | 2023-01-18 | 83 | 3 | 
 | 2023-01-17 | 83 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 74 | 2 | 
 | 2022-12-23 | 74 | 2 | 
 | 2022-12-22 | 73 | 1 | 
-| 2022-12-21 | 69 | 1 | 
 

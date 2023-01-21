@@ -1,10 +1,10 @@
 # DA-southampton/NLP_ability - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 937
 
-★ Stars: 4730
+★ Stars: 4731
 
 [Open repository](https://github.com/DA-southampton/NLP_ability)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 4731 | 937 | 
 | 2023-01-19 | 4730 | 937 | 
 | 2023-01-18 | 4727 | 937 | 
 | 2023-01-17 | 4727 | 936 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 4698 | 932 | 
 | 2022-12-23 | 4697 | 932 | 
 | 2022-12-22 | 4693 | 931 | 
-| 2022-12-21 | 4692 | 931 | 
 

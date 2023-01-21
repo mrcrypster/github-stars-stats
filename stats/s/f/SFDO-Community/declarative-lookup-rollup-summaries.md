@@ -1,6 +1,6 @@
 # SFDO-Community/declarative-lookup-rollup-summaries - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 625 | 222 | 
 | 2023-01-19 | 625 | 222 | 
 | 2023-01-18 | 625 | 222 | 
 | 2023-01-17 | 625 | 221 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 623 | 220 | 
 | 2022-12-23 | 623 | 220 | 
 | 2022-12-22 | 623 | 220 | 
-| 2022-12-21 | 623 | 220 | 
 

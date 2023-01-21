@@ -1,6 +1,6 @@
 # 1njected/CMLoot - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 67 | 10 | 
 | 2023-01-20 | 67 | 10 | 
 | 2023-01-19 | 67 | 10 | 
 | 2023-01-17 | 67 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 63 | 9 | 
 | 2022-12-24 | 63 | 8 | 
 | 2022-12-23 | 63 | 8 | 
-| 2022-12-21 | 63 | 8 | 
 

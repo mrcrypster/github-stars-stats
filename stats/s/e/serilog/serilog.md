@@ -1,10 +1,10 @@
 # serilog/serilog - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 734
 
-★ Stars: 6008
+★ Stars: 6014
 
 [Open repository](https://github.com/serilog/serilog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 6014 | 734 | 
 | 2023-01-19 | 6008 | 734 | 
 | 2023-01-18 | 6005 | 734 | 
 | 2023-01-17 | 6002 | 734 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 5963 | 731 | 
 | 2022-12-23 | 5962 | 731 | 
 | 2022-12-22 | 5955 | 731 | 
-| 2022-12-21 | 5948 | 731 | 
 

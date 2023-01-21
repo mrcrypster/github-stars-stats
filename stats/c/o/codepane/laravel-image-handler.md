@@ -1,6 +1,6 @@
 # codepane/laravel-image-handler - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 44 | 4 | 
 | 2023-01-20 | 44 | 4 | 
 | 2023-01-19 | 44 | 4 | 
 | 2023-01-18 | 44 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 43 | 3 | 
 | 2022-12-23 | 43 | 3 | 
 | 2022-12-22 | 43 | 3 | 
-| 2022-12-21 | 43 | 3 | 
 

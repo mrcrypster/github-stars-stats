@@ -1,8 +1,8 @@
 # xcyuyuyu/My-First-CUDA-Code - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 19 | 3 | 
 | 2023-01-19 | 19 | 2 | 
 | 2023-01-18 | 19 | 2 | 
 | 2023-01-17 | 19 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 18 | 2 | 
 | 2022-12-23 | 18 | 2 | 
 | 2022-12-22 | 18 | 2 | 
-| 2022-12-21 | 18 | 2 | 
 

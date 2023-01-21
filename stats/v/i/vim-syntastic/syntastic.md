@@ -1,10 +1,10 @@
 # vim-syntastic/syntastic - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1155
+☋ Forks: 1156
 
-★ Stars: 11271
+★ Stars: 11272
 
 [Open repository](https://github.com/vim-syntastic/syntastic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 11272 | 1156 | 
 | 2023-01-19 | 11271 | 1155 | 
 | 2023-01-18 | 11271 | 1155 | 
 | 2023-01-17 | 11271 | 1156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 11267 | 1159 | 
 | 2022-12-23 | 11267 | 1159 | 
 | 2022-12-22 | 11267 | 1159 | 
-| 2022-12-21 | 11268 | 1159 | 
 

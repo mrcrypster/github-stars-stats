@@ -1,10 +1,10 @@
 # drshahizan/Python-big-data - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 43
 
-★ Stars: 25
+★ Stars: 29
 
 [Open repository](https://github.com/drshahizan/Python-big-data)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 29 | 43 | 
 | 2023-01-19 | 25 | 43 | 
 | 2023-01-18 | 25 | 43 | 
 | 2023-01-17 | 25 | 43 | 

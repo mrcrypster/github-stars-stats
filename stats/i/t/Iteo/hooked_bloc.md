@@ -1,10 +1,10 @@
 # Iteo/hooked_bloc - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/Iteo/hooked_bloc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 47 | 1 | 
 | 2023-01-19 | 45 | 1 | 
 | 2023-01-18 | 45 | 1 | 
 | 2023-01-17 | 45 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 43 | 1 | 
 | 2022-12-23 | 43 | 1 | 
 | 2022-12-22 | 43 | 1 | 
-| 2022-12-21 | 43 | 1 | 
 

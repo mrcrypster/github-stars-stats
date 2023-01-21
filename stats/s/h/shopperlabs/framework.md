@@ -1,10 +1,10 @@
 # shopperlabs/framework - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 88
 
-★ Stars: 553
+★ Stars: 554
 
 [Open repository](https://github.com/shopperlabs/framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 554 | 88 | 
 | 2023-01-19 | 553 | 88 | 
 | 2023-01-18 | 549 | 88 | 
 | 2023-01-17 | 549 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 534 | 84 | 
 | 2022-12-24 | 534 | 84 | 
 | 2022-12-23 | 534 | 84 | 
-| 2022-12-22 | 534 | 84 | 
 

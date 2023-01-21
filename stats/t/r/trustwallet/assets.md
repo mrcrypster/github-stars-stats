@@ -1,10 +1,10 @@
 # trustwallet/assets - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 17706
+☋ Forks: 17718
 
-★ Stars: 3632
+★ Stars: 3633
 
 [Open repository](https://github.com/trustwallet/assets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3633 | 17718 | 
 | 2023-01-19 | 3632 | 17706 | 
 | 2023-01-18 | 3629 | 17697 | 
 | 2023-01-17 | 3629 | 17678 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 3597 | 17328 | 
 | 2022-12-23 | 3593 | 17317 | 
 | 2022-12-22 | 3593 | 17303 | 
-| 2022-12-21 | 3591 | 17290 | 
 

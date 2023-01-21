@@ -1,10 +1,10 @@
 # tradingview/charting-library-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 614
+☋ Forks: 615
 
-★ Stars: 1000
+★ Stars: 1002
 
 [Open repository](https://github.com/tradingview/charting-library-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1002 | 615 | 
 | 2023-01-19 | 1000 | 614 | 
 | 2023-01-18 | 1000 | 614 | 
 | 2023-01-17 | 1000 | 613 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 991 | 610 | 
 | 2022-12-23 | 989 | 610 | 
 | 2022-12-22 | 989 | 610 | 
-| 2022-12-21 | 989 | 607 | 
 

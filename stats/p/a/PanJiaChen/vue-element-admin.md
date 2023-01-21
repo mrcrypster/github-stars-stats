@@ -1,10 +1,10 @@
 # PanJiaChen/vue-element-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 29154
+☋ Forks: 29155
 
-★ Stars: 80355
+★ Stars: 80365
 
 [Open repository](https://github.com/PanJiaChen/vue-element-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 80365 | 29155 | 
 | 2023-01-19 | 80355 | 29154 | 
 | 2023-01-18 | 80349 | 29149 | 
 | 2023-01-17 | 80343 | 29142 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 80045 | 29061 | 
 | 2022-12-23 | 80041 | 29056 | 
 | 2022-12-22 | 80030 | 29051 | 
-| 2022-12-21 | 80025 | 29050 | 
 

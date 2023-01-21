@@ -1,10 +1,10 @@
 # samratashok/nishang - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2255
 
-★ Stars: 7174
+★ Stars: 7178
 
 [Open repository](https://github.com/samratashok/nishang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 7178 | 2255 | 
 | 2023-01-19 | 7174 | 2255 | 
 | 2023-01-18 | 7172 | 2255 | 
 | 2023-01-17 | 7172 | 2255 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 7091 | 2239 | 
 | 2022-12-23 | 7088 | 2239 | 
 | 2022-12-22 | 7085 | 2240 | 
-| 2022-12-21 | 7082 | 2240 | 
 

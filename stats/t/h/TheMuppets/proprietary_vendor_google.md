@@ -1,6 +1,6 @@
 # TheMuppets/proprietary_vendor_google - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 93 | 164 | 
 | 2023-01-19 | 93 | 164 | 
 | 2023-01-18 | 93 | 164 | 
 | 2023-01-17 | 94 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 93 | 162 | 
 | 2022-12-23 | 93 | 162 | 
 | 2022-12-22 | 93 | 162 | 
-| 2022-12-21 | 93 | 162 | 
 

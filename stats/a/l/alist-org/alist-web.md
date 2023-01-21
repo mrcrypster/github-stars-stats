@@ -1,10 +1,10 @@
 # alist-org/alist-web - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 101
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/alist-org/alist-web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 100 | 101 | 
 | 2023-01-19 | 99 | 101 | 
 | 2023-01-18 | 99 | 101 | 
 | 2023-01-17 | 98 | 99 | 

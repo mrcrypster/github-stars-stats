@@ -1,10 +1,10 @@
 # metagrover/ES6-for-humans - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 534
+☋ Forks: 546
 
-★ Stars: 6336
+★ Stars: 6356
 
 [Open repository](https://github.com/metagrover/ES6-for-humans)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 6356 | 546 | 
 | 2023-01-19 | 6336 | 534 | 
 | 2023-01-18 | 6297 | 527 | 
 | 2023-01-17 | 6296 | 527 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 6237 | 524 | 
 | 2022-12-23 | 6235 | 524 | 
 | 2022-12-22 | 6234 | 523 | 
-| 2022-12-21 | 6231 | 523 | 
 

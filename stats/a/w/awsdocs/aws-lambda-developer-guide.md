@@ -1,10 +1,10 @@
 # awsdocs/aws-lambda-developer-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1528
+☋ Forks: 1535
 
-★ Stars: 2016
+★ Stars: 2018
 
 [Open repository](https://github.com/awsdocs/aws-lambda-developer-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2018 | 1535 | 
 | 2023-01-19 | 2016 | 1528 | 
 | 2023-01-18 | 2015 | 1526 | 
 | 2023-01-17 | 2011 | 1524 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1988 | 1497 | 
 | 2022-12-23 | 1988 | 1497 | 
 | 2022-12-22 | 1989 | 1493 | 
-| 2022-12-21 | 1989 | 1492 | 
 

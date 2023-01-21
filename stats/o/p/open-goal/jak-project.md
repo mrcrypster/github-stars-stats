@@ -1,10 +1,10 @@
 # open-goal/jak-project - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 113
 
-★ Stars: 2232
+★ Stars: 2234
 
 [Open repository](https://github.com/open-goal/jak-project)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2234 | 113 | 
 | 2023-01-19 | 2232 | 113 | 
 | 2023-01-18 | 2231 | 113 | 
 | 2023-01-17 | 2231 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2182 | 110 | 
 | 2022-12-23 | 2179 | 110 | 
 | 2022-12-22 | 2179 | 109 | 
-| 2022-12-21 | 2179 | 109 | 
 

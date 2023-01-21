@@ -1,10 +1,10 @@
 # ShawnHymel/introduction-to-rtos - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 87
+☋ Forks: 88
 
-★ Stars: 360
+★ Stars: 361
 
 [Open repository](https://github.com/ShawnHymel/introduction-to-rtos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 361 | 88 | 
 | 2023-01-19 | 360 | 87 | 
 | 2023-01-18 | 360 | 87 | 
 | 2023-01-17 | 359 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 350 | 85 | 
 | 2022-12-23 | 350 | 85 | 
 | 2022-12-22 | 350 | 85 | 
-| 2022-12-21 | 350 | 85 | 
 

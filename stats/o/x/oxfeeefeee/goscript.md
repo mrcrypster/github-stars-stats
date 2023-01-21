@@ -1,6 +1,6 @@
 # oxfeeefeee/goscript - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1405 | 60 | 
 | 2023-01-19 | 1405 | 60 | 
 | 2023-01-18 | 1405 | 60 | 
 | 2023-01-17 | 1405 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1391 | 60 | 
 | 2022-12-23 | 1391 | 59 | 
 | 2022-12-22 | 1390 | 59 | 
-| 2022-12-21 | 1387 | 59 | 
 

@@ -1,6 +1,6 @@
 # dbernheisel/seo - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 71 | 3 | 
 | 2023-01-19 | 71 | 3 | 
 | 2023-01-18 | 71 | 3 | 
 | 2023-01-17 | 71 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 68 | 3 | 
 | 2022-12-24 | 68 | 3 | 
 | 2022-12-23 | 67 | 3 | 
-| 2022-12-22 | 67 | 3 | 
 

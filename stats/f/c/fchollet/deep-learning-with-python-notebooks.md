@@ -1,8 +1,8 @@
 # fchollet/deep-learning-with-python-notebooks - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 21
 
-☋ Forks: 7969
+☋ Forks: 7968
 
 ★ Stars: 16311
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 16311 | 7968 | 
 | 2023-01-19 | 16311 | 7969 | 
 | 2023-01-18 | 16307 | 7967 | 
 | 2023-01-17 | 16302 | 7967 | 

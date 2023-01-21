@@ -1,6 +1,6 @@
 # happi/theBeamBook - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2845 | 246 | 
 | 2023-01-19 | 2845 | 246 | 
 | 2023-01-18 | 2844 | 246 | 
 | 2023-01-17 | 2843 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 2837 | 246 | 
 | 2022-12-23 | 2837 | 246 | 
 | 2022-12-22 | 2837 | 246 | 
-| 2022-12-21 | 2837 | 246 | 
 

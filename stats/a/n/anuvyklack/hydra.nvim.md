@@ -1,10 +1,10 @@
 # anuvyklack/hydra.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 14
 
-★ Stars: 695
+★ Stars: 696
 
 [Open repository](https://github.com/anuvyklack/hydra.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 696 | 14 | 
 | 2023-01-19 | 695 | 14 | 
 | 2023-01-18 | 693 | 14 | 
 | 2023-01-17 | 692 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 676 | 13 | 
 | 2022-12-23 | 676 | 12 | 
 | 2022-12-22 | 674 | 12 | 
-| 2022-12-21 | 672 | 12 | 
 

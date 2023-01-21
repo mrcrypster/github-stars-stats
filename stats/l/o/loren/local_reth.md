@@ -1,10 +1,10 @@
 # loren/local_reth - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/loren/local_reth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 38 | 2 | 
+| 2023-01-21 | 40 | 2 | 
+| 2023-01-20 | 40 | 2 | 
 | 2023-01-19 | 35 | 2 | 
 

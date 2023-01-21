@@ -1,10 +1,10 @@
 # pbatard/Fido - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 165
 
-★ Stars: 1701
+★ Stars: 1702
 
 [Open repository](https://github.com/pbatard/Fido)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1702 | 165 | 
 | 2023-01-19 | 1701 | 165 | 
 | 2023-01-18 | 1695 | 165 | 
 | 2023-01-17 | 1694 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1625 | 160 | 
 | 2022-12-23 | 1623 | 160 | 
 | 2022-12-22 | 1621 | 160 | 
-| 2022-12-21 | 1619 | 160 | 
 

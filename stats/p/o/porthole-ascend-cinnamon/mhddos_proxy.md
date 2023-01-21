@@ -1,6 +1,6 @@
 # porthole-ascend-cinnamon/mhddos_proxy - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 330 | 108 | 
 | 2023-01-19 | 330 | 108 | 
 | 2023-01-18 | 330 | 107 | 
 | 2023-01-17 | 330 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 330 | 107 | 
 | 2022-12-23 | 330 | 107 | 
 | 2022-12-22 | 330 | 107 | 
-| 2022-12-21 | 330 | 107 | 
 

@@ -1,10 +1,10 @@
 # bitcoin/bitcoin - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 33633
+☋ Forks: 33642
 
-★ Stars: 67812
+★ Stars: 67821
 
 [Open repository](https://github.com/bitcoin/bitcoin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 67821 | 33642 | 
 | 2023-01-19 | 67812 | 33633 | 
 | 2023-01-18 | 67793 | 33619 | 
 | 2023-01-17 | 67776 | 33616 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 67495 | 33495 | 
 | 2022-12-23 | 67485 | 33484 | 
 | 2022-12-22 | 67469 | 33484 | 
-| 2022-12-21 | 67457 | 33472 | 
 

@@ -1,8 +1,8 @@
 # Rencikas/ren-laundering - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 7 | 7 | 
 | 2023-01-20 | 7 | 6 | 
 | 2023-01-18 | 7 | 6 | 
 | 2023-01-17 | 7 | 6 | 

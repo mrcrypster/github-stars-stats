@@ -1,8 +1,8 @@
 # MaysLastPlay/FNF-Psych-Engine-0.5.2h-Modified - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2 | 8 | 
 | 2023-01-20 | 2 | 7 | 
 | 2023-01-19 | 2 | 5 | 
 | 2023-01-17 | 2 | 5 | 

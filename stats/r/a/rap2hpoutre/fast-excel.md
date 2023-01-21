@@ -1,10 +1,10 @@
 # rap2hpoutre/fast-excel - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 208
 
-★ Stars: 1749
+★ Stars: 1750
 
 [Open repository](https://github.com/rap2hpoutre/fast-excel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1750 | 208 | 
 | 2023-01-19 | 1749 | 208 | 
 | 2023-01-18 | 1749 | 208 | 
 | 2023-01-17 | 1749 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1726 | 205 | 
 | 2022-12-23 | 1726 | 205 | 
 | 2022-12-22 | 1726 | 205 | 
-| 2022-12-21 | 1724 | 204 | 
 

@@ -1,10 +1,10 @@
 # ALXCO-Hardware/squareboi - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/ALXCO-Hardware/squareboi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 28 | 2 | 
 | 2023-01-19 | 27 | 2 | 
 | 2023-01-18 | 27 | 2 | 
 | 2023-01-17 | 27 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 27 | 2 | 
 | 2022-12-23 | 27 | 2 | 
 | 2022-12-22 | 27 | 2 | 
-| 2022-12-21 | 27 | 2 | 
 

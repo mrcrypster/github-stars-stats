@@ -1,10 +1,10 @@
 # terrastruct/d2-vim - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/terrastruct/d2-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 31 | 2 | 
 | 2023-01-19 | 30 | 2 | 
 | 2023-01-18 | 30 | 2 | 
 | 2023-01-17 | 30 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 30 | 1 | 
 | 2022-12-23 | 30 | 1 | 
 | 2022-12-22 | 30 | 1 | 
-| 2022-12-21 | 30 | 1 | 
 

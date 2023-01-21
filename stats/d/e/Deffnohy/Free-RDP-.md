@@ -1,10 +1,10 @@
 # Deffnohy/Free-RDP- - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 421
+☋ Forks: 441
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Deffnohy/Free-RDP-)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 18 | 441 | 
 | 2023-01-19 | 17 | 421 | 
 | 2023-01-18 | 17 | 410 | 
 | 2023-01-17 | 16 | 399 | 

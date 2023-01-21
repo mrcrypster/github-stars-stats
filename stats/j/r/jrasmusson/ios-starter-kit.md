@@ -1,6 +1,6 @@
 # jrasmusson/ios-starter-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 663 | 159 | 
 | 2023-01-19 | 663 | 159 | 
 | 2023-01-18 | 661 | 158 | 
 | 2023-01-17 | 661 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 647 | 152 | 
 | 2022-12-23 | 647 | 152 | 
 | 2022-12-22 | 646 | 151 | 
-| 2022-12-21 | 643 | 151 | 
 

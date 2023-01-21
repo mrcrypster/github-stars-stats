@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 20
 
 ☋ Forks: 117
 
-★ Stars: 99
+★ Stars: 101
 
 [Open repository](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-20 | 99 | 117 | 
+| 2023-01-20 | 101 | 117 | 
 | 2023-01-18 | 98 | 116 | 
 | 2023-01-17 | 98 | 116 | 
 | 2023-01-16 | 98 | 115 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 97 | 111 | 
 | 2022-12-24 | 96 | 111 | 
 | 2022-12-23 | 96 | 111 | 
-| 2022-12-22 | 96 | 111 | 
 

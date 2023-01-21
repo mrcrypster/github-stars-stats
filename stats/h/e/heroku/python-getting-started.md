@@ -1,8 +1,8 @@
 # heroku/python-getting-started - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 1812
+☋ Forks: 1811
 
 ★ Stars: 797
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 797 | 1811 | 
 | 2023-01-19 | 797 | 1812 | 
 | 2023-01-18 | 797 | 1812 | 
 | 2023-01-17 | 797 | 1811 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 793 | 1812 | 
 | 2022-12-23 | 793 | 1812 | 
 | 2022-12-22 | 793 | 1812 | 
-| 2022-12-21 | 794 | 1812 | 
 

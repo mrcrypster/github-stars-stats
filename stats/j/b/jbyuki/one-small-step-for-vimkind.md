@@ -1,10 +1,10 @@
 # jbyuki/one-small-step-for-vimkind - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 4
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/jbyuki/one-small-step-for-vimkind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 216 | 4 | 
 | 2023-01-19 | 215 | 4 | 
 | 2023-01-18 | 215 | 4 | 
 | 2023-01-17 | 215 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 201 | 4 | 
 | 2022-12-23 | 201 | 4 | 
 | 2022-12-22 | 200 | 4 | 
-| 2022-12-21 | 200 | 4 | 
 

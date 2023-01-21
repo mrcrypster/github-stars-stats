@@ -1,8 +1,8 @@
 # 6vr/Bug-Bounty-Tips - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 120 | 26 | 
 | 2023-01-19 | 120 | 25 | 
 | 2023-01-18 | 120 | 25 | 
 | 2023-01-17 | 120 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 117 | 25 | 
 | 2022-12-23 | 114 | 25 | 
 | 2022-12-22 | 114 | 25 | 
-| 2022-12-21 | 114 | 25 | 
 

@@ -1,6 +1,6 @@
 # big-data-europe/docker-hbase - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 224 | 163 | 
 | 2023-01-19 | 224 | 163 | 
 | 2023-01-18 | 224 | 163 | 
 | 2023-01-17 | 224 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 223 | 161 | 
 | 2022-12-24 | 223 | 161 | 
 | 2022-12-23 | 223 | 160 | 
-| 2022-12-21 | 223 | 160 | 
 

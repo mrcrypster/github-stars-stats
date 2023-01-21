@@ -1,10 +1,10 @@
 # waydabber/BetterDisplay - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 8169
+★ Stars: 8189
 
 [Open repository](https://github.com/waydabber/BetterDisplay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 8189 | 199 | 
 | 2023-01-20 | 8169 | 198 | 
 | 2023-01-18 | 8147 | 198 | 
 | 2023-01-17 | 8111 | 197 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-24 | 7798 | 188 | 
 | 2022-12-23 | 7779 | 188 | 
 | 2022-12-22 | 7765 | 188 | 
-| 2022-12-21 | 7753 | 188 | 
 

@@ -1,10 +1,10 @@
 # tidyverse/tidyverse - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 269
 
-★ Stars: 1338
+★ Stars: 1337
 
 [Open repository](https://github.com/tidyverse/tidyverse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1337 | 269 | 
 | 2023-01-19 | 1338 | 269 | 
 | 2023-01-18 | 1338 | 269 | 
 | 2023-01-17 | 1337 | 269 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 1325 | 268 | 
 | 2022-12-23 | 1326 | 269 | 
 | 2022-12-22 | 1326 | 269 | 
-| 2022-12-21 | 1326 | 269 | 
 

@@ -1,10 +1,10 @@
 # DavBfr/dart_pdf - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 385
+☋ Forks: 386
 
-★ Stars: 974
+★ Stars: 975
 
 [Open repository](https://github.com/DavBfr/dart_pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 975 | 386 | 
 | 2023-01-19 | 974 | 385 | 
 | 2023-01-18 | 972 | 385 | 
 | 2023-01-17 | 971 | 385 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 952 | 371 | 
 | 2022-12-23 | 951 | 372 | 
 | 2022-12-22 | 951 | 372 | 
-| 2022-12-21 | 950 | 372 | 
 

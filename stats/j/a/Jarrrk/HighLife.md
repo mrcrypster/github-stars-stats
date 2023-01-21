@@ -1,6 +1,6 @@
 # Jarrrk/HighLife - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 61 | 44 | 
 | 2023-01-19 | 61 | 44 | 
 | 2023-01-18 | 61 | 44 | 
 | 2023-01-17 | 61 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 61 | 44 | 
 | 2022-12-24 | 61 | 44 | 
 | 2022-12-23 | 61 | 44 | 
-| 2022-12-22 | 61 | 44 | 
 

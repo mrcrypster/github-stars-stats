@@ -1,6 +1,6 @@
 # waveaccounting/terraform-aws-chatbot-slack-configuration - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 32 | 18 | 
 | 2023-01-19 | 32 | 18 | 
 | 2023-01-18 | 32 | 18 | 
 | 2023-01-17 | 32 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 31 | 18 | 
 | 2022-12-23 | 31 | 18 | 
 | 2022-12-22 | 30 | 18 | 
-| 2022-12-21 | 29 | 18 | 
 

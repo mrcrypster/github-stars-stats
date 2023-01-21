@@ -1,8 +1,8 @@
 # well-typed/plutonomy - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 32 | 10 | 
 | 2023-01-19 | 32 | 9 | 
 | 2023-01-18 | 32 | 8 | 
 | 2023-01-16 | 32 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 31 | 6 | 
 | 2022-12-24 | 31 | 6 | 
 | 2022-12-23 | 31 | 6 | 
-| 2022-12-22 | 31 | 6 | 
 

@@ -1,6 +1,6 @@
 # davidayalas/current-time - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 12 | 5 | 
 | 2023-01-19 | 12 | 5 | 
 | 2023-01-18 | 12 | 5 | 
 | 2023-01-16 | 12 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-25 | 12 | 5 | 
 | 2022-12-24 | 12 | 5 | 
 | 2022-12-23 | 12 | 5 | 
-| 2022-12-22 | 12 | 5 | 
 

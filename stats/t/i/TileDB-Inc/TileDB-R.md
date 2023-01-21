@@ -1,10 +1,10 @@
 # TileDB-Inc/TileDB-R - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/TileDB-Inc/TileDB-R)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 86 | 16 | 
 | 2023-01-19 | 85 | 14 | 
 | 2023-01-18 | 84 | 14 | 
 | 2023-01-17 | 84 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 84 | 13 | 
 | 2022-12-23 | 84 | 13 | 
 | 2022-12-22 | 84 | 13 | 
-| 2022-12-21 | 84 | 13 | 
 

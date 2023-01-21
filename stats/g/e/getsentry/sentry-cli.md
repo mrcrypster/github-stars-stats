@@ -1,10 +1,10 @@
 # getsentry/sentry-cli - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 205
 
-★ Stars: 763
+★ Stars: 764
 
 [Open repository](https://github.com/getsentry/sentry-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 764 | 205 | 
 | 2023-01-19 | 763 | 205 | 
 | 2023-01-18 | 762 | 205 | 
 | 2023-01-17 | 761 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 757 | 204 | 
 | 2022-12-23 | 756 | 204 | 
 | 2022-12-22 | 756 | 204 | 
-| 2022-12-21 | 756 | 204 | 
 

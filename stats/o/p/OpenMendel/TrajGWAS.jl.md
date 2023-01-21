@@ -1,10 +1,10 @@
 # OpenMendel/TrajGWAS.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/OpenMendel/TrajGWAS.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 10 | - | 
 | 2023-01-19 | 9 | - | 
 | 2023-01-18 | 9 | - | 
 | 2023-01-17 | 9 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 8 | - | 
 | 2022-12-23 | 8 | - | 
 | 2022-12-22 | 8 | - | 
-| 2022-12-21 | 8 | - | 
 

@@ -1,10 +1,10 @@
 # stevebauman/laravel-husk - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 85
+★ Stars: 84
 
 [Open repository](https://github.com/stevebauman/laravel-husk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 84 | - | 
 | 2023-01-19 | 85 | - | 
 | 2023-01-18 | 85 | - | 
 | 2023-01-17 | 85 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 86 | - | 
 | 2022-12-23 | 86 | - | 
 | 2022-12-22 | 86 | - | 
-| 2022-12-21 | 86 | - | 
 
