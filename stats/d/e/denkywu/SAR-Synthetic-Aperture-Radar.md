@@ -1,6 +1,6 @@
 # denkywu/SAR-Synthetic-Aperture-Radar - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 378 | 169 | 
 | 2023-01-20 | 378 | 169 | 
 | 2023-01-19 | 378 | 169 | 
 | 2023-01-18 | 378 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 372 | 166 | 
 | 2022-12-24 | 371 | 166 | 
 | 2022-12-23 | 369 | 166 | 
-| 2022-12-22 | 367 | 165 | 
 

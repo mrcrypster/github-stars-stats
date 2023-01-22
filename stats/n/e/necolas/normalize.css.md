@@ -1,10 +1,10 @@
 # necolas/normalize.css - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 10945
+☋ Forks: 10943
 
-★ Stars: 49543
+★ Stars: 49546
 
 [Open repository](https://github.com/necolas/normalize.css)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 49546 | 10943 | 
 | 2023-01-20 | 49543 | 10945 | 
 | 2023-01-19 | 49527 | 10948 | 
 | 2023-01-18 | 49523 | 10948 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 49353 | 10938 | 
 | 2022-12-24 | 49352 | 10938 | 
 | 2022-12-23 | 49343 | 10938 | 
-| 2022-12-22 | 49337 | 10937 | 
 

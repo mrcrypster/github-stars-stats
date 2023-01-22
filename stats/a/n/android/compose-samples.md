@@ -1,10 +1,10 @@
 # android/compose-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 3448
+☋ Forks: 3449
 
-★ Stars: 14388
+★ Stars: 14393
 
 [Open repository](https://github.com/android/compose-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 14393 | 3449 | 
 | 2023-01-20 | 14388 | 3448 | 
 | 2023-01-19 | 14383 | 3442 | 
 | 2023-01-18 | 14370 | 3439 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 14134 | 3360 | 
 | 2022-12-24 | 14125 | 3356 | 
 | 2022-12-23 | 14115 | 3353 | 
-| 2022-12-22 | 14102 | 3350 | 
 

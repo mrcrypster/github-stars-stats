@@ -1,10 +1,10 @@
 # Turfjs/turf - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 844
 
-★ Stars: 7686
+★ Stars: 7689
 
 [Open repository](https://github.com/Turfjs/turf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 7689 | 844 | 
 | 2023-01-20 | 7686 | 844 | 
 | 2023-01-19 | 7684 | 843 | 
 | 2023-01-18 | 7683 | 843 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 7611 | 842 | 
 | 2022-12-24 | 7611 | 842 | 
 | 2022-12-23 | 7610 | 842 | 
-| 2022-12-22 | 7609 | 842 | 
 

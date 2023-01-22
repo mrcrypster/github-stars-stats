@@ -1,10 +1,10 @@
 # lacework/terraform-aws-cloudtrail - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 17
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/lacework/terraform-aws-cloudtrail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5 | 17 | 
 | 2023-01-20 | 6 | 17 | 
 | 2023-01-19 | 6 | 17 | 
 | 2023-01-18 | 6 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 5 | 17 | 
 | 2022-12-24 | 5 | 17 | 
 | 2022-12-23 | 5 | 17 | 
-| 2022-12-22 | 4 | 17 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 21
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 91
+★ Stars: 96
 
 [Open repository](https://github.com/Robert1802/CSharp-CheatSheet)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 91 | 12 | 
+| 2023-01-21 | 96 | 14 | 
 | 2023-01-20 | 90 | 12 | 
 | 2023-01-19 | 78 | 11 | 
 

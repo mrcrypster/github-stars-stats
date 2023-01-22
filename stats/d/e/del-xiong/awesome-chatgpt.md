@@ -1,10 +1,10 @@
 # del-xiong/awesome-chatgpt - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 104
+★ Stars: 106
 
 [Open repository](https://github.com/del-xiong/awesome-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 106 | 2 | 
 | 2023-01-20 | 104 | 2 | 
 | 2023-01-19 | 102 | 2 | 
 | 2023-01-18 | 102 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 88 | 2 | 
 | 2022-12-24 | 88 | 2 | 
 | 2022-12-23 | 88 | 2 | 
-| 2022-12-22 | 88 | 2 | 
 

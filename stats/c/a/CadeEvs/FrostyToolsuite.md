@@ -1,6 +1,6 @@
 # CadeEvs/FrostyToolsuite - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 195 | 60 | 
 | 2023-01-20 | 195 | 60 | 
 | 2023-01-19 | 195 | 60 | 
 | 2023-01-18 | 193 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 173 | 53 | 
 | 2022-12-24 | 172 | 53 | 
 | 2022-12-23 | 172 | 53 | 
-| 2022-12-22 | 172 | 54 | 
 

@@ -1,6 +1,6 @@
 # socketio/socket.io-client-swift - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 758
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 4928 | 758 | 
 | 2023-01-20 | 4928 | 758 | 
 | 2023-01-19 | 4927 | 758 | 
 | 2023-01-18 | 4926 | 758 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4924 | 759 | 
 | 2022-12-24 | 4924 | 759 | 
 | 2022-12-23 | 4924 | 759 | 
-| 2022-12-22 | 4924 | 759 | 
 

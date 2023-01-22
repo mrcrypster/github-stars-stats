@@ -1,10 +1,10 @@
 # deeqakkk/Journey-with-js - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 33
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/deeqakkk/Journey-with-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 12 | 33 | 
 | 2023-01-20 | 11 | 33 | 
 | 2023-01-19 | 11 | 33 | 
 | 2023-01-18 | 11 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 11 | 33 | 
 | 2022-12-24 | 11 | 33 | 
 | 2022-12-23 | 11 | 33 | 
-| 2022-12-22 | 11 | 34 | 
 

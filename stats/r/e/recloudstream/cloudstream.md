@@ -1,10 +1,10 @@
 # recloudstream/cloudstream - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 167
+☋ Forks: 171
 
-★ Stars: 2324
+★ Stars: 2338
 
 [Open repository](https://github.com/recloudstream/cloudstream)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2338 | 171 | 
 | 2023-01-20 | 2324 | 167 | 
 | 2023-01-19 | 2315 | 167 | 
 | 2023-01-18 | 2303 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2070 | 146 | 
 | 2022-12-24 | 1980 | 143 | 
 | 2022-12-23 | 1932 | 139 | 
-| 2022-12-22 | 1911 | 137 | 
 

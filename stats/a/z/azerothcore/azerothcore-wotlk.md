@@ -1,10 +1,10 @@
 # azerothcore/azerothcore-wotlk - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1463
+☋ Forks: 1466
 
-★ Stars: 2662
+★ Stars: 2665
 
 [Open repository](https://github.com/azerothcore/azerothcore-wotlk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2665 | 1466 | 
 | 2023-01-20 | 2662 | 1463 | 
 | 2023-01-19 | 2658 | 1461 | 
 | 2023-01-18 | 2658 | 1458 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2595 | 1433 | 
 | 2022-12-24 | 2593 | 1432 | 
 | 2022-12-23 | 2591 | 1429 | 
-| 2022-12-22 | 2589 | 1428 | 
 

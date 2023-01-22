@@ -1,8 +1,8 @@
 # 0x050f/libft-war-machine - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 34
+☋ Forks: 33
 
 ★ Stars: 169
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 169 | 33 | 
 | 2023-01-20 | 169 | 34 | 
 | 2023-01-19 | 169 | 34 | 
 | 2023-01-18 | 170 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 169 | 35 | 
 | 2022-12-24 | 169 | 35 | 
 | 2022-12-23 | 169 | 35 | 
-| 2022-12-22 | 169 | 35 | 
 

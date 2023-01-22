@@ -1,10 +1,10 @@
 # linhaojun857/aurora-public - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 236
 
-★ Stars: 1664
+★ Stars: 1668
 
 [Open repository](https://github.com/linhaojun857/aurora-public)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1668 | 236 | 
 | 2023-01-20 | 1664 | 236 | 
 | 2023-01-19 | 1654 | 235 | 
 | 2023-01-18 | 1645 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1485 | 205 | 
 | 2022-12-24 | 1482 | 203 | 
 | 2022-12-23 | 1476 | 203 | 
-| 2022-12-22 | 1469 | 200 | 
 

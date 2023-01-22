@@ -1,10 +1,10 @@
 # VirusTotal/yara - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1285
 
-★ Stars: 6338
+★ Stars: 6339
 
 [Open repository](https://github.com/VirusTotal/yara)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 6339 | 1285 | 
 | 2023-01-20 | 6338 | 1285 | 
 | 2023-01-19 | 6331 | 1285 | 
 | 2023-01-18 | 6330 | 1285 | 

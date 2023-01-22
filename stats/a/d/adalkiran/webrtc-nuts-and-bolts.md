@@ -1,10 +1,10 @@
 # adalkiran/webrtc-nuts-and-bolts - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 43
 
-★ Stars: 868
+★ Stars: 869
 
 [Open repository](https://github.com/adalkiran/webrtc-nuts-and-bolts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 869 | 43 | 
 | 2023-01-20 | 868 | 43 | 
 | 2023-01-19 | 868 | 43 | 
 | 2023-01-18 | 868 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 867 | 43 | 
 | 2022-12-24 | 867 | 43 | 
 | 2022-12-23 | 867 | 43 | 
-| 2022-12-22 | 867 | 43 | 
 

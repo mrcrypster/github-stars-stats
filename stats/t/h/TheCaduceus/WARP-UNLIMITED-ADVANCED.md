@@ -1,10 +1,10 @@
 # TheCaduceus/WARP-UNLIMITED-ADVANCED - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 256
+☋ Forks: 258
 
-★ Stars: 319
+★ Stars: 321
 
 [Open repository](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 321 | 258 | 
 | 2023-01-20 | 319 | 256 | 
 | 2023-01-19 | 319 | 255 | 
 | 2023-01-18 | 318 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 301 | 238 | 
 | 2022-12-24 | 301 | 238 | 
 | 2022-12-23 | 300 | 236 | 
-| 2022-12-22 | 296 | 236 | 
 

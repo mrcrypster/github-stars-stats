@@ -1,6 +1,6 @@
 # benoitc/mimerl - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 27 | 9 | 
 | 2023-01-20 | 27 | 9 | 
 | 2023-01-19 | 27 | 9 | 
 | 2023-01-18 | 27 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 28 | 9 | 
 | 2022-12-24 | 28 | 9 | 
 | 2022-12-23 | 28 | 9 | 
-| 2022-12-22 | 28 | 9 | 
 

@@ -1,6 +1,6 @@
 # DiceDB/dice - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 228 | 67 | 
 | 2023-01-20 | 228 | 67 | 
 | 2023-01-19 | 228 | 67 | 
 | 2023-01-18 | 228 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 209 | 65 | 
 | 2022-12-24 | 208 | 66 | 
 | 2022-12-23 | 208 | 65 | 
-| 2022-12-22 | 208 | 65 | 
 

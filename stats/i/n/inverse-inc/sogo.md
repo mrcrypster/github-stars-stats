@@ -1,10 +1,10 @@
 # inverse-inc/sogo - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 262
 
-★ Stars: 1415
+★ Stars: 1417
 
 [Open repository](https://github.com/inverse-inc/sogo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1417 | 262 | 
 | 2023-01-20 | 1415 | 262 | 
 | 2023-01-19 | 1415 | 262 | 
 | 2023-01-18 | 1413 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1400 | 261 | 
 | 2022-12-24 | 1398 | 261 | 
 | 2022-12-23 | 1396 | 261 | 
-| 2022-12-22 | 1395 | 261 | 
 

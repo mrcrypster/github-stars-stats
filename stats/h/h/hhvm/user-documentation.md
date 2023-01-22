@@ -1,6 +1,6 @@
 # hhvm/user-documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 125 | 158 | 
 | 2023-01-20 | 125 | 158 | 
 | 2023-01-19 | 125 | 158 | 
 | 2023-01-17 | 125 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 122 | 157 | 
 | 2022-12-24 | 122 | 157 | 
 | 2022-12-23 | 122 | 157 | 
-| 2022-12-22 | 122 | 157 | 
 

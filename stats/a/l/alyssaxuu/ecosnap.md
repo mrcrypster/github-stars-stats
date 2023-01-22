@@ -1,6 +1,6 @@
 # alyssaxuu/ecosnap - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 195 | 8 | 
 | 2023-01-20 | 195 | 8 | 
 | 2023-01-19 | 194 | 8 | 
 | 2023-01-18 | 193 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 54 | 2 | 
 | 2022-12-24 | 51 | 2 | 
 | 2022-12-23 | 50 | 2 | 
-| 2022-12-22 | 47 | 2 | 
 

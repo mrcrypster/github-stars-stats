@@ -1,6 +1,6 @@
 # MLNLP-World/MyArxiv - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 63 | 6 | 
 | 2023-01-20 | 63 | 6 | 
 | 2023-01-19 | 64 | 6 | 
 | 2023-01-18 | 64 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 53 | 6 | 
 | 2022-12-24 | 51 | 6 | 
 | 2022-12-23 | 51 | 6 | 
-| 2022-12-22 | 48 | 5 | 
 

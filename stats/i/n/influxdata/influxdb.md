@@ -1,10 +1,10 @@
 # influxdata/influxdb - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 3313
 
-★ Stars: 24775
+★ Stars: 24778
 
 [Open repository](https://github.com/influxdata/influxdb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 24778 | 3313 | 
 | 2023-01-20 | 24775 | 3313 | 
 | 2023-01-19 | 24773 | 3313 | 
 | 2023-01-18 | 24769 | 3312 | 

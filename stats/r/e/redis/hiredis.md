@@ -1,10 +1,10 @@
 # redis/hiredis - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1733
+☋ Forks: 1732
 
-★ Stars: 5572
+★ Stars: 5573
 
 [Open repository](https://github.com/redis/hiredis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5573 | 1732 | 
 | 2023-01-20 | 5572 | 1733 | 
 | 2023-01-19 | 5571 | 1733 | 
 | 2023-01-18 | 5570 | 1733 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 5537 | 1723 | 
 | 2022-12-24 | 5536 | 1723 | 
 | 2022-12-23 | 5534 | 1723 | 
-| 2022-12-22 | 5534 | 1722 | 
 

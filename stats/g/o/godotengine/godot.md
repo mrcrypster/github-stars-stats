@@ -1,10 +1,10 @@
 # godotengine/godot - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 9925
+☋ Forks: 9930
 
-★ Stars: 56982
+★ Stars: 57015
 
 [Open repository](https://github.com/godotengine/godot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 57015 | 9930 | 
 | 2023-01-20 | 56982 | 9925 | 
 | 2023-01-19 | 56959 | 9925 | 
 | 2023-01-18 | 56937 | 9923 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 56245 | 9815 | 
 | 2022-12-24 | 56228 | 9813 | 
 | 2022-12-23 | 56208 | 9802 | 
-| 2022-12-22 | 56192 | 9800 | 
 

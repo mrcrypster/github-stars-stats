@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 21
 
 ☋ Forks: 10
 
-★ Stars: 104
+★ Stars: 109
 
 [Open repository](https://github.com/flashohq/open-source-react-courses)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 104 | 10 | 
+| 2023-01-21 | 109 | 10 | 
 | 2023-01-20 | 100 | 10 | 
 

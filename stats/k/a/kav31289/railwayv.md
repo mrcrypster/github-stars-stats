@@ -1,6 +1,6 @@
 # kav31289/railwayv - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 12 | 247 | 
 | 2023-01-20 | 12 | 247 | 
 | 2023-01-19 | 12 | 248 | 
 | 2023-01-18 | 12 | 248 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 10 | 245 | 
 | 2022-12-24 | 10 | 245 | 
 | 2022-12-23 | 10 | 245 | 
-| 2022-12-22 | 10 | 245 | 
 

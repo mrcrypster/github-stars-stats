@@ -1,10 +1,10 @@
 # tigr1234566/TikTokMod - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 5
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/tigr1234566/TikTokMod)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 154 | 5 | 
 | 2023-01-20 | 153 | 5 | 
 | 2023-01-19 | 153 | 5 | 
 | 2023-01-18 | 153 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 150 | 5 | 
 | 2022-12-24 | 150 | 5 | 
 | 2022-12-23 | 149 | 5 | 
-| 2022-12-22 | 149 | 5 | 
 

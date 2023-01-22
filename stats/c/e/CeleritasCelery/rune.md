@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 21
 
 ☋ Forks: 8
 
-★ Stars: 189
+★ Stars: 191
 
 [Open repository](https://github.com/CeleritasCelery/rune)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 189 | 8 | 
+| 2023-01-21 | 191 | 8 | 
 | 2023-01-20 | 189 | 8 | 
 | 2023-01-19 | 186 | 8 | 
 | 2023-01-18 | 165 | 8 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-25 | 122 | 6 | 
 | 2022-12-24 | 122 | 6 | 
 | 2022-12-23 | 122 | 6 | 
-| 2022-12-22 | 122 | 6 | 
 

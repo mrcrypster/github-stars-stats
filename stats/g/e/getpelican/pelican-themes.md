@@ -1,10 +1,10 @@
 # getpelican/pelican-themes - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1104
 
-★ Stars: 2055
+★ Stars: 2056
 
 [Open repository](https://github.com/getpelican/pelican-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2056 | 1104 | 
 | 2023-01-20 | 2055 | 1104 | 
 | 2023-01-19 | 2055 | 1103 | 
 | 2023-01-18 | 2055 | 1103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2049 | 1101 | 
 | 2022-12-24 | 2049 | 1101 | 
 | 2022-12-23 | 2049 | 1102 | 
-| 2022-12-22 | 2049 | 1103 | 
 

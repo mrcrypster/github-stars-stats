@@ -1,10 +1,10 @@
 # manticoresoftware/manticoresearch - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 142
 
-★ Stars: 2405
+★ Stars: 2406
 
 [Open repository](https://github.com/manticoresoftware/manticoresearch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2406 | 142 | 
 | 2023-01-20 | 2405 | 142 | 
 | 2023-01-19 | 2404 | 142 | 
 | 2023-01-18 | 2396 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2326 | 135 | 
 | 2022-12-24 | 2325 | 135 | 
 | 2022-12-23 | 2322 | 135 | 
-| 2022-12-22 | 2318 | 135 | 
 

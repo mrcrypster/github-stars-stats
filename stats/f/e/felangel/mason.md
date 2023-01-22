@@ -1,6 +1,6 @@
 # felangel/mason - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 639 | 70 | 
 | 2023-01-20 | 639 | 70 | 
 | 2023-01-19 | 638 | 69 | 
 | 2023-01-18 | 636 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 615 | 70 | 
 | 2022-12-24 | 614 | 70 | 
 | 2022-12-23 | 614 | 68 | 
-| 2022-12-22 | 614 | 68 | 
 

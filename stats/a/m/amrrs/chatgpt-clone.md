@@ -1,8 +1,8 @@
 # amrrs/chatgpt-clone - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 82
+☋ Forks: 84
 
 ★ Stars: 182
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 182 | 84 | 
 | 2023-01-20 | 182 | 82 | 
 | 2023-01-19 | 180 | 81 | 
 | 2023-01-18 | 177 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 123 | 46 | 
 | 2022-12-24 | 120 | 41 | 
 | 2022-12-23 | 120 | 40 | 
-| 2022-12-22 | 120 | 38 | 
 

@@ -1,6 +1,6 @@
 # breakpointHQ/TCC-ClickJacking - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 65 | 15 | 
 | 2023-01-20 | 65 | 15 | 
 | 2023-01-19 | 65 | 15 | 
 | 2023-01-18 | 65 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 65 | 15 | 
 | 2022-12-25 | 65 | 15 | 
 | 2022-12-23 | 65 | 15 | 
-| 2022-12-22 | 65 | 15 | 
 

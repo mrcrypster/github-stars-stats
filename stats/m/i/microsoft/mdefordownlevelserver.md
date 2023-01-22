@@ -1,10 +1,10 @@
 # microsoft/mdefordownlevelserver - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 26
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/microsoft/mdefordownlevelserver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 33 | 26 | 
 | 2023-01-20 | 32 | 26 | 
 | 2023-01-19 | 32 | 26 | 
 | 2023-01-18 | 32 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 31 | 25 | 
 | 2022-12-24 | 31 | 25 | 
 | 2022-12-23 | 31 | 25 | 
-| 2022-12-22 | 31 | 25 | 
 

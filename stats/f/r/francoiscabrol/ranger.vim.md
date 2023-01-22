@@ -1,10 +1,10 @@
 # francoiscabrol/ranger.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 52
 
-★ Stars: 619
+★ Stars: 620
 
 [Open repository](https://github.com/francoiscabrol/ranger.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 620 | 52 | 
 | 2023-01-20 | 619 | 52 | 
 | 2023-01-19 | 619 | 52 | 
 | 2023-01-18 | 619 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 615 | 51 | 
 | 2022-12-24 | 615 | 51 | 
 | 2022-12-23 | 615 | 51 | 
-| 2022-12-22 | 615 | 51 | 
 

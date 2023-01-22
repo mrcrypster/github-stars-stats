@@ -1,6 +1,6 @@
 # Deltares/Wflow.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 59 | 13 | 
 | 2023-01-20 | 59 | 13 | 
 | 2023-01-19 | 59 | 13 | 
 | 2023-01-18 | 59 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 59 | 14 | 
 | 2022-12-24 | 59 | 14 | 
 | 2022-12-23 | 59 | 14 | 
-| 2022-12-22 | 58 | 14 | 
 

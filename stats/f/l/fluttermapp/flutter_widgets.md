@@ -1,8 +1,8 @@
 # fluttermapp/flutter_widgets - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 166 | 34 | 
 | 2023-01-20 | 166 | 33 | 
 | 2023-01-19 | 165 | 33 | 
 | 2023-01-18 | 165 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 158 | 31 | 
 | 2022-12-24 | 158 | 31 | 
 | 2022-12-23 | 158 | 31 | 
-| 2022-12-22 | 158 | 30 | 
 

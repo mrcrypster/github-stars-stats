@@ -1,10 +1,10 @@
 # kishikawakatsumi/KeychainAccess - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 715
 
-★ Stars: 7174
+★ Stars: 7173
 
 [Open repository](https://github.com/kishikawakatsumi/KeychainAccess)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 7173 | 715 | 
 | 2023-01-20 | 7174 | 715 | 
 | 2023-01-19 | 7174 | 715 | 
 | 2023-01-18 | 7174 | 715 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 7148 | 711 | 
 | 2022-12-24 | 7148 | 711 | 
 | 2022-12-23 | 7149 | 711 | 
-| 2022-12-22 | 7148 | 711 | 
 

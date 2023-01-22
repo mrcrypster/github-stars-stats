@@ -1,10 +1,10 @@
 # vlts1/ruzz - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1
 
-★ Stars: 78
+★ Stars: 77
 
 [Open repository](https://github.com/vlts1/ruzz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 77 | 1 | 
 | 2023-01-20 | 78 | 1 | 
 | 2023-01-19 | 78 | 1 | 
 | 2023-01-17 | 78 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 77 | 1 | 
 | 2022-12-25 | 77 | 1 | 
 | 2022-12-24 | 77 | 1 | 
-| 2022-12-23 | 77 | 1 | 
 

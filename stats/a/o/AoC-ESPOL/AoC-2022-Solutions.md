@@ -1,6 +1,6 @@
 # AoC-ESPOL/AoC-2022-Solutions - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 7 | 4 | 
 | 2023-01-20 | 7 | 4 | 
 | 2023-01-19 | 6 | 4 | 
 | 2023-01-17 | 6 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 6 | 4 | 
 | 2022-12-25 | 5 | 4 | 
 | 2022-12-24 | 5 | 4 | 
-| 2022-12-23 | 5 | 4 | 
 

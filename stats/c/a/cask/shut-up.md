@@ -1,6 +1,6 @@
 # cask/shut-up - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 51 | 10 | 
 | 2023-01-20 | 51 | 10 | 
 | 2023-01-19 | 51 | 10 | 
 | 2023-01-18 | 51 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 51 | 10 | 
 | 2022-12-25 | 51 | 10 | 
 | 2022-12-24 | 51 | 10 | 
-| 2022-12-23 | 51 | 10 | 
 

@@ -1,6 +1,6 @@
 # amusi/Deep-Learning-Interview-Book - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1080
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 4969 | 1080 | 
 | 2023-01-20 | 4969 | 1080 | 
 | 2023-01-19 | 4968 | 1080 | 
 | 2023-01-18 | 4966 | 1079 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4924 | 1076 | 
 | 2022-12-24 | 4919 | 1074 | 
 | 2022-12-23 | 4918 | 1072 | 
-| 2022-12-22 | 4916 | 1071 | 
 

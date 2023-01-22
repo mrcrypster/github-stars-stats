@@ -1,6 +1,6 @@
 # project-violet/violet - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 287 | 34 | 
 | 2023-01-20 | 287 | 34 | 
 | 2023-01-19 | 287 | 34 | 
 | 2023-01-18 | 287 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 280 | 34 | 
 | 2022-12-24 | 280 | 34 | 
 | 2022-12-23 | 280 | 34 | 
-| 2022-12-22 | 280 | 34 | 
 

@@ -1,10 +1,10 @@
 # dimsemenov/PhotoSwipe - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 3317
 
-★ Stars: 22514
+★ Stars: 22516
 
 [Open repository](https://github.com/dimsemenov/PhotoSwipe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 22516 | 3317 | 
 | 2023-01-20 | 22514 | 3317 | 
 | 2023-01-19 | 22512 | 3316 | 
 | 2023-01-18 | 22510 | 3316 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 22444 | 3312 | 
 | 2022-12-24 | 22443 | 3312 | 
 | 2022-12-23 | 22442 | 3312 | 
-| 2022-12-22 | 22442 | 3311 | 
 

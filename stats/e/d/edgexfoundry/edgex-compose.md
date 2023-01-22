@@ -1,10 +1,10 @@
 # edgexfoundry/edgex-compose - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 94
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/edgexfoundry/edgex-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 53 | 94 | 
 | 2023-01-20 | 52 | 94 | 
 | 2023-01-19 | 52 | 94 | 
 | 2023-01-18 | 52 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 51 | 93 | 
 | 2022-12-24 | 51 | 93 | 
 | 2022-12-23 | 51 | 93 | 
-| 2022-12-22 | 51 | 93 | 
 

@@ -1,10 +1,10 @@
 # cs225-illinois/docker - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/cs225-illinois/docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2 | - | 
 | 2023-01-21 | 1 | - | 
 | 2023-01-20 | 1 | - | 
 | 2023-01-18 | 1 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1 | - | 
 | 2022-12-25 | 1 | - | 
 | 2022-12-24 | 1 | - | 
-| 2022-12-23 | 1 | - | 
 

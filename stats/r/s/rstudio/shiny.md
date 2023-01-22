@@ -1,6 +1,6 @@
 # rstudio/shiny - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1784
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 4895 | 1784 | 
 | 2023-01-20 | 4895 | 1784 | 
 | 2023-01-19 | 4895 | 1784 | 
 | 2023-01-18 | 4893 | 1783 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4873 | 1784 | 
 | 2022-12-24 | 4874 | 1784 | 
 | 2022-12-23 | 4875 | 1784 | 
-| 2022-12-22 | 4875 | 1784 | 
 

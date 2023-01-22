@@ -1,10 +1,10 @@
 # statping/statping - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 536
 
-★ Stars: 6497
+★ Stars: 6498
 
 [Open repository](https://github.com/statping/statping)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 6497 | 536 | 
+| 2023-01-22 | 6498 | 536 | 
+| 2023-01-21 | 6498 | 536 | 
 | 2023-01-20 | 6494 | 534 | 
 | 2023-01-19 | 6442 | 533 | 
 | 2023-01-18 | 6440 | 532 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-25 | 6415 | 529 | 
 | 2022-12-24 | 6414 | 530 | 
 | 2022-12-23 | 6414 | 530 | 
-| 2022-12-22 | 6414 | 530 | 
 

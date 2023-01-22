@@ -1,10 +1,10 @@
 # dair-ai/ML-Course-Notes - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 710
 
-★ Stars: 5280
+★ Stars: 5284
 
 [Open repository](https://github.com/dair-ai/ML-Course-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5284 | 710 | 
 | 2023-01-20 | 5280 | 710 | 
 | 2023-01-19 | 5275 | 708 | 
 | 2023-01-18 | 5269 | 708 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 5158 | 695 | 
 | 2022-12-25 | 5155 | 697 | 
 | 2022-12-24 | 5155 | 697 | 
-| 2022-12-23 | 5154 | 697 | 
 

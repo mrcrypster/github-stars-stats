@@ -1,10 +1,10 @@
 # pynecone-io/pynecone - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 57
+☋ Forks: 68
 
-★ Stars: 2434
+★ Stars: 2631
 
 [Open repository](https://github.com/pynecone-io/pynecone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2631 | 68 | 
 | 2023-01-20 | 2434 | 57 | 
 | 2023-01-19 | 2143 | 53 | 
 | 2023-01-18 | 1935 | 45 | 

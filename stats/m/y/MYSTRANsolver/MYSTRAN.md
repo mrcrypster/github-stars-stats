@@ -1,8 +1,8 @@
 # MYSTRANsolver/MYSTRAN - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 17 | 7 | 
 | 2023-01-20 | 17 | 6 | 
 | 2023-01-19 | 17 | 6 | 
 | 2023-01-18 | 17 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 13 | 6 | 
 | 2022-12-24 | 13 | 6 | 
 | 2022-12-23 | 13 | 6 | 
-| 2022-12-22 | 13 | 6 | 
 

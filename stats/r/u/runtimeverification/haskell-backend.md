@@ -1,6 +1,6 @@
 # runtimeverification/haskell-backend - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 185 | 42 | 
 | 2023-01-20 | 185 | 42 | 
 | 2023-01-19 | 185 | 42 | 
 | 2023-01-18 | 185 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 179 | 42 | 
 | 2022-12-24 | 179 | 42 | 
 | 2022-12-23 | 179 | 42 | 
-| 2022-12-22 | 179 | 43 | 
 

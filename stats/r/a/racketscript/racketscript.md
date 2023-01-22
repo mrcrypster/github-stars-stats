@@ -1,10 +1,10 @@
 # racketscript/racketscript - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 31
 
-★ Stars: 639
+★ Stars: 640
 
 [Open repository](https://github.com/racketscript/racketscript)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 640 | 31 | 
 | 2023-01-20 | 639 | 31 | 
 | 2023-01-19 | 639 | 31 | 
 | 2023-01-18 | 639 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 638 | 30 | 
 | 2022-12-24 | 636 | 30 | 
 | 2022-12-23 | 635 | 30 | 
-| 2022-12-22 | 635 | 30 | 
 

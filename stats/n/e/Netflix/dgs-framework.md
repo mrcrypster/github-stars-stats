@@ -1,6 +1,6 @@
 # Netflix/dgs-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2555 | 232 | 
 | 2023-01-20 | 2555 | 232 | 
 | 2023-01-19 | 2555 | 233 | 
 | 2023-01-18 | 2554 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2540 | 228 | 
 | 2022-12-24 | 2540 | 228 | 
 | 2022-12-23 | 2540 | 228 | 
-| 2022-12-22 | 2539 | 228 | 
 

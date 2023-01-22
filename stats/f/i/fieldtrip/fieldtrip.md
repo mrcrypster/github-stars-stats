@@ -1,10 +1,10 @@
 # fieldtrip/fieldtrip - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 662
 
-★ Stars: 688
+★ Stars: 689
 
 [Open repository](https://github.com/fieldtrip/fieldtrip)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 689 | 662 | 
 | 2023-01-20 | 688 | 662 | 
 | 2023-01-19 | 689 | 661 | 
 | 2023-01-18 | 688 | 660 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 683 | 655 | 
 | 2022-12-24 | 683 | 655 | 
 | 2022-12-23 | 681 | 655 | 
-| 2022-12-22 | 681 | 655 | 
 

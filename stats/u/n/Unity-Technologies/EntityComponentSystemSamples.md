@@ -1,10 +1,10 @@
 # Unity-Technologies/EntityComponentSystemSamples - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1202
 
-★ Stars: 5059
+★ Stars: 5058
 
 [Open repository](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5058 | 1202 | 
 | 2023-01-20 | 5059 | 1202 | 
 | 2023-01-19 | 5058 | 1202 | 
 | 2023-01-18 | 5054 | 1201 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4973 | 1181 | 
 | 2022-12-24 | 4971 | 1181 | 
 | 2022-12-23 | 4969 | 1179 | 
-| 2022-12-22 | 4964 | 1176 | 
 

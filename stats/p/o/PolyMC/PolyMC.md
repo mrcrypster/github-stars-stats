@@ -1,10 +1,10 @@
 # PolyMC/PolyMC - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 299
+☋ Forks: 298
 
-★ Stars: 1715
+★ Stars: 1719
 
 [Open repository](https://github.com/PolyMC/PolyMC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1719 | 298 | 
 | 2023-01-20 | 1715 | 299 | 
 | 2023-01-19 | 1711 | 298 | 
 | 2023-01-18 | 1709 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1727 | 311 | 
 | 2022-12-24 | 1728 | 313 | 
 | 2022-12-23 | 1727 | 314 | 
-| 2022-12-22 | 1727 | 315 | 
 

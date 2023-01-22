@@ -1,10 +1,10 @@
 # allenai/RL4LMs - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 60
 
-★ Stars: 713
+★ Stars: 721
 
 [Open repository](https://github.com/allenai/RL4LMs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 721 | 60 | 
 | 2023-01-20 | 713 | 60 | 
 | 2023-01-19 | 710 | 60 | 
 | 2023-01-18 | 705 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 546 | 47 | 
 | 2022-12-24 | 541 | 46 | 
 | 2022-12-23 | 533 | 46 | 
-| 2022-12-22 | 518 | 45 | 
 

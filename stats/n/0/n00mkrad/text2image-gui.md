@@ -1,10 +1,10 @@
 # n00mkrad/text2image-gui - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 44
 
-★ Stars: 356
+★ Stars: 359
 
 [Open repository](https://github.com/n00mkrad/text2image-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 359 | 44 | 
 | 2023-01-20 | 356 | 44 | 
 | 2023-01-19 | 356 | 43 | 
 | 2023-01-18 | 354 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 306 | 41 | 
 | 2022-12-24 | 303 | 41 | 
 | 2022-12-23 | 298 | 41 | 
-| 2022-12-22 | 296 | 41 | 
 

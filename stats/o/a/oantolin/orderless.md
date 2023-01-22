@@ -1,10 +1,10 @@
 # oantolin/orderless - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 23
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/oantolin/orderless)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 449 | 23 | 
 | 2023-01-20 | 448 | 23 | 
 | 2023-01-19 | 448 | 23 | 
 | 2023-01-18 | 448 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 439 | 23 | 
 | 2022-12-24 | 437 | 23 | 
 | 2022-12-23 | 435 | 23 | 
-| 2022-12-22 | 435 | 23 | 
 

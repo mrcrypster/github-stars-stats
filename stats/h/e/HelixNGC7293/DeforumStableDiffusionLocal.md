@@ -1,10 +1,10 @@
 # HelixNGC7293/DeforumStableDiffusionLocal - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 73
 
-★ Stars: 523
+★ Stars: 522
 
 [Open repository](https://github.com/HelixNGC7293/DeforumStableDiffusionLocal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 522 | 73 | 
 | 2023-01-20 | 523 | 73 | 
 | 2023-01-19 | 522 | 73 | 
 | 2023-01-18 | 521 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 496 | 64 | 
 | 2022-12-24 | 494 | 63 | 
 | 2022-12-23 | 494 | 63 | 
-| 2022-12-22 | 494 | 63 | 
 

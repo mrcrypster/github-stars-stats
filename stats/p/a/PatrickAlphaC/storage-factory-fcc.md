@@ -1,10 +1,10 @@
 # PatrickAlphaC/storage-factory-fcc - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/PatrickAlphaC/storage-factory-fcc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 29 | 57 | 
 | 2023-01-20 | 28 | 56 | 
 | 2023-01-19 | 28 | 56 | 
 | 2023-01-18 | 28 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 26 | 52 | 
 | 2022-12-24 | 26 | 52 | 
 | 2022-12-23 | 26 | 53 | 
-| 2022-12-22 | 26 | 52 | 
 

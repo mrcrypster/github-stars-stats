@@ -1,10 +1,10 @@
 # FlaxEngine/FlaxEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 364
 
-★ Stars: 3753
+★ Stars: 3755
 
 [Open repository](https://github.com/FlaxEngine/FlaxEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 3755 | 364 | 
 | 2023-01-20 | 3753 | 364 | 
 | 2023-01-19 | 3752 | 364 | 
 | 2023-01-18 | 3751 | 364 | 

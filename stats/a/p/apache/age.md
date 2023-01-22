@@ -1,10 +1,10 @@
 # apache/age - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 162
 
-★ Stars: 1426
+★ Stars: 1427
 
 [Open repository](https://github.com/apache/age)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 1426 | 162 | 
+| 2023-01-22 | 1427 | 162 | 
+| 2023-01-21 | 1427 | 162 | 
 | 2023-01-20 | 1423 | 162 | 
 | 2023-01-19 | 1422 | 161 | 
 | 2023-01-18 | 1419 | 161 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-25 | 1364 | 155 | 
 | 2022-12-24 | 1363 | 154 | 
 | 2022-12-23 | 1360 | 151 | 
-| 2022-12-22 | 1358 | 147 | 
 

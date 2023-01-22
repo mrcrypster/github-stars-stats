@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 106
+★ Stars: 109
 
 [Open repository](https://github.com/trailofbits/RpcInvestigator)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 106 | 13 | 
+| 2023-01-21 | 109 | 13 | 
 | 2023-01-20 | 104 | 13 | 
 

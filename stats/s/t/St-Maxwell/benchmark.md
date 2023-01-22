@@ -1,10 +1,10 @@
 # St-Maxwell/benchmark - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 5
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/St-Maxwell/benchmark)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 3 | 5 | 
 | 2023-01-20 | 4 | 5 | 
 | 2023-01-19 | 4 | 5 | 
 | 2023-01-18 | 4 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4 | 5 | 
 | 2022-12-24 | 4 | 5 | 
 | 2022-12-23 | 4 | 5 | 
-| 2022-12-22 | 4 | 5 | 
 

@@ -1,6 +1,6 @@
 # 1ndianl33t/Bug-Bounty-Roadmaps - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1323 | 275 | 
 | 2023-01-21 | 1323 | 275 | 
 | 2023-01-20 | 1322 | 275 | 
 | 2023-01-18 | 1321 | 275 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-25 | 1312 | 273 | 
 | 2022-12-24 | 1312 | 273 | 
 | 2022-12-23 | 1311 | 273 | 
-| 2022-12-22 | 1311 | 273 | 
 

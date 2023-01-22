@@ -1,6 +1,6 @@
 # Afenar/AfenarUI - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 478 | 192 | 
 | 2023-01-20 | 478 | 192 | 
 | 2023-01-19 | 478 | 192 | 
 | 2023-01-18 | 478 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 473 | 190 | 
 | 2022-12-24 | 473 | 191 | 
 | 2022-12-23 | 473 | 191 | 
-| 2022-12-22 | 473 | 190 | 
 

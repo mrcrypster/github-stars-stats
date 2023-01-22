@@ -1,10 +1,10 @@
 # yuriy-chumak/ol - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 9
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/yuriy-chumak/ol)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 188 | 9 | 
 | 2023-01-20 | 187 | 9 | 
 | 2023-01-19 | 187 | 9 | 
 | 2023-01-18 | 187 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 180 | 10 | 
 | 2022-12-24 | 180 | 10 | 
 | 2022-12-23 | 180 | 10 | 
-| 2022-12-22 | 180 | 10 | 
 

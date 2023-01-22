@@ -1,10 +1,10 @@
 # davidfowl/CommandAndControl - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 5
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/davidfowl/CommandAndControl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 97 | 5 | 
 | 2023-01-20 | 96 | 5 | 
 | 2023-01-19 | 96 | 5 | 
 | 2023-01-18 | 96 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 94 | 5 | 
 | 2022-12-24 | 94 | 5 | 
 | 2022-12-23 | 94 | 5 | 
-| 2022-12-22 | 94 | 5 | 
 

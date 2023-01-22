@@ -1,6 +1,6 @@
 # intel/optimization-manual - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 530 | 58 | 
 | 2023-01-20 | 530 | 58 | 
 | 2023-01-19 | 530 | 58 | 
 | 2023-01-18 | 529 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 513 | 54 | 
 | 2022-12-25 | 511 | 54 | 
 | 2022-12-24 | 509 | 54 | 
-| 2022-12-23 | 507 | 53 | 
 

@@ -1,6 +1,6 @@
 # mesonbuild/wrapdb - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 51 | 110 | 
 | 2023-01-20 | 51 | 110 | 
 | 2023-01-19 | 51 | 110 | 
 | 2023-01-18 | 51 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 50 | 108 | 
 | 2022-12-25 | 50 | 108 | 
 | 2022-12-24 | 50 | 107 | 
-| 2022-12-23 | 50 | 107 | 
 

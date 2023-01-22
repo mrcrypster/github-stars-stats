@@ -1,6 +1,6 @@
 # umotif-public/terraform-aws-waf-webaclv2 - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 108 | 88 | 
 | 2023-01-20 | 108 | 88 | 
 | 2023-01-19 | 108 | 88 | 
 | 2023-01-18 | 108 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 106 | 85 | 
 | 2022-12-24 | 106 | 85 | 
 | 2022-12-23 | 106 | 85 | 
-| 2022-12-22 | 106 | 85 | 
 

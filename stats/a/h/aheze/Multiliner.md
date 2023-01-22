@@ -1,6 +1,6 @@
 # aheze/Multiliner - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 631 | 23 | 
 | 2023-01-20 | 631 | 23 | 
 | 2023-01-19 | 631 | 23 | 
 | 2023-01-18 | 631 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 627 | 23 | 
 | 2022-12-24 | 627 | 23 | 
 | 2022-12-23 | 627 | 23 | 
-| 2022-12-22 | 627 | 23 | 
 

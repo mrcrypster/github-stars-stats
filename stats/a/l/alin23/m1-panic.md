@@ -1,10 +1,10 @@
 # alin23/m1-panic - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/alin23/m1-panic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 49 | 2 | 
 | 2023-01-20 | 48 | 2 | 
 | 2023-01-19 | 48 | 2 | 
 | 2023-01-17 | 48 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 48 | 2 | 
 | 2022-12-25 | 48 | 2 | 
 | 2022-12-24 | 48 | 2 | 
-| 2022-12-23 | 48 | 2 | 
 

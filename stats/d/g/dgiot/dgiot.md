@@ -1,10 +1,10 @@
 # dgiot/dgiot - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1213
 
-★ Stars: 3763
+★ Stars: 3767
 
 [Open repository](https://github.com/dgiot/dgiot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 3767 | 1213 | 
 | 2023-01-20 | 3763 | 1213 | 
 | 2023-01-19 | 3761 | 1213 | 
 | 2023-01-18 | 3754 | 1213 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 3644 | 1186 | 
 | 2022-12-24 | 3640 | 1185 | 
 | 2022-12-23 | 3631 | 1183 | 
-| 2022-12-22 | 3624 | 1180 | 
 

@@ -1,10 +1,10 @@
 # aave/lens-api-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 176
+★ Stars: 178
 
 [Open repository](https://github.com/aave/lens-api-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 178 | 64 | 
 | 2023-01-20 | 176 | 63 | 
 | 2023-01-19 | 176 | 63 | 
 | 2023-01-18 | 175 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 162 | 61 | 
 | 2022-12-24 | 163 | 61 | 
 | 2022-12-23 | 162 | 61 | 
-| 2022-12-22 | 162 | 61 | 
 

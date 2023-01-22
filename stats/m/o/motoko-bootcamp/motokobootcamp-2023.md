@@ -1,0 +1,17 @@
+# motoko-bootcamp/motokobootcamp-2023 - stars & forks statistics
+
+Stats updated on Jan 2023, 21
+
+☋ Forks: 36
+
+★ Stars: 29
+
+[Open repository](https://github.com/motoko-bootcamp/motokobootcamp-2023)
+
+[Open detailed stats for motoko-bootcamp/motokobootcamp-2023](https://reviewgithub.com/rep/motoko-bootcamp/motokobootcamp-2023)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-21 | 29 | 36 | 
+

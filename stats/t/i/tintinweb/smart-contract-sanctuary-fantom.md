@@ -1,6 +1,6 @@
 # tintinweb/smart-contract-sanctuary-fantom - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 15 | 2 | 
 | 2023-01-20 | 15 | 2 | 
 | 2023-01-19 | 15 | 2 | 
 | 2023-01-17 | 15 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 14 | 2 | 
 | 2022-12-24 | 14 | 2 | 
 | 2022-12-23 | 14 | 2 | 
-| 2022-12-22 | 14 | 2 | 
 

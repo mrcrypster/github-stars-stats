@@ -1,6 +1,6 @@
 # hadley/emo - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 395 | 48 | 
 | 2023-01-21 | 395 | 48 | 
 | 2023-01-19 | 395 | 48 | 
 | 2023-01-18 | 395 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 394 | 48 | 
 | 2022-12-25 | 394 | 48 | 
 | 2022-12-24 | 394 | 48 | 
-| 2022-12-23 | 394 | 48 | 
 

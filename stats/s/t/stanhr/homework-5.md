@@ -1,8 +1,8 @@
 # stanhr/homework-5 - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | - | 7 | 
 | 2023-01-20 | - | 6 | 
 | 2023-01-19 | - | 6 | 
 | 2023-01-18 | - | 6 | 

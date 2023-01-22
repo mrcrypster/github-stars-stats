@@ -1,10 +1,10 @@
 # RatanShreshtha/DeepThought - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 82
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/RatanShreshtha/DeepThought)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 131 | 82 | 
 | 2023-01-20 | 130 | 82 | 
 | 2023-01-19 | 129 | 82 | 
 | 2023-01-18 | 129 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 124 | 82 | 
 | 2022-12-24 | 124 | 82 | 
 | 2022-12-23 | 124 | 82 | 
-| 2022-12-22 | 124 | 82 | 
 

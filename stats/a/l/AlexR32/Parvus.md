@@ -1,10 +1,10 @@
 # AlexR32/Parvus - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 26
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/AlexR32/Parvus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 25 | 26 | 
 | 2023-01-20 | 24 | 26 | 
 | 2023-01-19 | 24 | 26 | 
 | 2023-01-18 | 24 | 26 | 

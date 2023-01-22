@@ -1,10 +1,10 @@
 # pygame/pygame - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 2481
+☋ Forks: 2484
 
-★ Stars: 5656
+★ Stars: 5658
 
 [Open repository](https://github.com/pygame/pygame)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5658 | 2484 | 
 | 2023-01-20 | 5656 | 2481 | 
 | 2023-01-19 | 5653 | 2479 | 
 | 2023-01-18 | 5651 | 2478 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 5569 | 2436 | 
 | 2022-12-24 | 5565 | 2436 | 
 | 2022-12-23 | 5563 | 2436 | 
-| 2022-12-22 | 5557 | 2438 | 
 

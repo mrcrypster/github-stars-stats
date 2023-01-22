@@ -1,8 +1,8 @@
 # overextended/qtarget - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 64
+☋ Forks: 63
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 52 | 63 | 
 | 2023-01-20 | 52 | 64 | 
 | 2023-01-19 | 52 | 64 | 
 | 2023-01-18 | 51 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 50 | 61 | 
 | 2022-12-24 | 50 | 60 | 
 | 2022-12-23 | 50 | 60 | 
-| 2022-12-22 | 50 | 60 | 
 

@@ -1,10 +1,10 @@
 # jito-labs/searcher-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 16
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/jito-labs/searcher-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 82 | 16 | 
 | 2023-01-20 | 81 | 16 | 
 | 2023-01-19 | 81 | 15 | 
 | 2023-01-18 | 81 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 79 | 15 | 
 | 2022-12-24 | 79 | 15 | 
 | 2022-12-23 | 79 | 15 | 
-| 2022-12-22 | 79 | 15 | 
 

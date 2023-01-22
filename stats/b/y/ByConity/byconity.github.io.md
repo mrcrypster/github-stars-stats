@@ -1,0 +1,17 @@
+# ByConity/byconity.github.io - stars & forks statistics
+
+Stats updated on Jan 2023, 21
+
+☋ Forks: 4
+
+★ Stars: 3
+
+[Open repository](https://github.com/ByConity/byconity.github.io)
+
+[Open detailed stats for ByConity/byconity.github.io](https://reviewgithub.com/rep/ByConity/byconity.github.io)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-21 | 3 | 4 | 
+

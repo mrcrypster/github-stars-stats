@@ -1,10 +1,10 @@
 # wangkechun/go-by-example - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 301
 
-★ Stars: 470
+★ Stars: 469
 
 [Open repository](https://github.com/wangkechun/go-by-example)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 469 | 301 | 
 | 2023-01-20 | 470 | 301 | 
 | 2023-01-19 | 470 | 300 | 
 | 2023-01-18 | 469 | 298 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 320 | 174 | 
 | 2022-12-25 | 320 | 175 | 
 | 2022-12-24 | 320 | 175 | 
-| 2022-12-22 | 320 | 175 | 
 

@@ -1,10 +1,10 @@
 # hackerschoice/segfault - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 14
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/hackerschoice/segfault)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 165 | 14 | 
 | 2023-01-20 | 164 | 14 | 
 | 2023-01-19 | 164 | 14 | 
 | 2023-01-18 | 164 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 160 | 14 | 
 | 2022-12-25 | 160 | 14 | 
 | 2022-12-24 | 160 | 14 | 
-| 2022-12-23 | 160 | 14 | 
 

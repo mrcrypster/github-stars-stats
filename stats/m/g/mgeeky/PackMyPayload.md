@@ -1,6 +1,6 @@
 # mgeeky/PackMyPayload - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 596 | 103 | 
 | 2023-01-20 | 596 | 103 | 
 | 2023-01-19 | 596 | 103 | 
 | 2023-01-18 | 596 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 592 | 101 | 
 | 2022-12-24 | 592 | 101 | 
 | 2022-12-23 | 592 | 101 | 
-| 2022-12-22 | 592 | 101 | 
 

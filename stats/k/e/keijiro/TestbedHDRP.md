@@ -1,6 +1,6 @@
 # keijiro/TestbedHDRP - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1115 | 146 | 
 | 2023-01-20 | 1115 | 146 | 
 | 2023-01-19 | 1115 | 146 | 
 | 2023-01-18 | 1114 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1107 | 145 | 
 | 2022-12-24 | 1107 | 145 | 
 | 2022-12-23 | 1107 | 145 | 
-| 2022-12-22 | 1106 | 145 | 
 

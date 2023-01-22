@@ -1,10 +1,10 @@
 # uBlockOrigin/uAssets - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 539
+☋ Forks: 540
 
-★ Stars: 2301
+★ Stars: 2304
 
 [Open repository](https://github.com/uBlockOrigin/uAssets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2304 | 540 | 
 | 2023-01-20 | 2301 | 539 | 
 | 2023-01-19 | 2299 | 537 | 
 | 2023-01-18 | 2298 | 537 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2271 | 529 | 
 | 2022-12-24 | 2265 | 528 | 
 | 2022-12-23 | 2263 | 527 | 
-| 2022-12-22 | 2263 | 527 | 
 

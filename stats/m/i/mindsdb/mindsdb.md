@@ -1,10 +1,10 @@
 # mindsdb/mindsdb - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1436
+☋ Forks: 1439
 
-★ Stars: 12383
+★ Stars: 12393
 
 [Open repository](https://github.com/mindsdb/mindsdb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 12393 | 1439 | 
 | 2023-01-20 | 12383 | 1436 | 
 | 2023-01-19 | 12374 | 1436 | 
 | 2023-01-18 | 12364 | 1435 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 12140 | 1416 | 
 | 2022-12-24 | 12134 | 1417 | 
 | 2022-12-23 | 12128 | 1416 | 
-| 2022-12-22 | 12122 | 1415 | 
 

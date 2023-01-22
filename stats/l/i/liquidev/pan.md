@@ -1,10 +1,10 @@
 # liquidev/pan - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/liquidev/pan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 36 | 2 | 
 | 2023-01-20 | 35 | 2 | 
 | 2023-01-19 | 35 | 2 | 
 | 2023-01-18 | 35 | 2 | 

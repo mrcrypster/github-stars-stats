@@ -1,10 +1,10 @@
 # quiple/galmuri - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 3
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/quiple/galmuri)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 162 | 3 | 
 | 2023-01-20 | 161 | 3 | 
 | 2023-01-19 | 160 | 3 | 
 | 2023-01-18 | 160 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 148 | 4 | 
 | 2022-12-24 | 148 | 4 | 
 | 2022-12-23 | 148 | 4 | 
-| 2022-12-22 | 148 | 4 | 
 

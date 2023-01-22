@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 21
 
 ☋ Forks: 804
 
-★ Stars: 3755
+★ Stars: 3757
 
 [Open repository](https://github.com/TigerVNC/tigervnc)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 3755 | 804 | 
+| 2023-01-21 | 3757 | 804 | 
 | 2023-01-20 | 3755 | 804 | 
 

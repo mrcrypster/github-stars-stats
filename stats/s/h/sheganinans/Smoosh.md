@@ -1,10 +1,10 @@
 # sheganinans/Smoosh - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 10
 
 [Open repository](https://github.com/sheganinans/Smoosh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 10 | 1 | 
 | 2023-01-21 | 8 | 1 | 
 | 2023-01-19 | 8 | 1 | 
 | 2023-01-18 | 8 | 1 | 

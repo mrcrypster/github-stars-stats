@@ -1,6 +1,6 @@
 # ExpertAnonymous/PhoneInfoga - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 714 | 42 | 
 | 2023-01-20 | 714 | 42 | 
 | 2023-01-19 | 712 | 42 | 
 | 2023-01-18 | 712 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 696 | 41 | 
 | 2022-12-24 | 694 | 41 | 
 | 2022-12-23 | 694 | 41 | 
-| 2022-12-22 | 689 | 41 | 
 

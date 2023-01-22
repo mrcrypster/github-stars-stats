@@ -1,8 +1,8 @@
 # refcell/femplate - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 266
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 266 | 39 | 
 | 2023-01-21 | 266 | 38 | 
 | 2023-01-19 | 265 | 38 | 
 | 2023-01-18 | 264 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 253 | 36 | 
 | 2022-12-25 | 252 | 36 | 
 | 2022-12-24 | 251 | 36 | 
-| 2022-12-22 | 251 | 36 | 
 

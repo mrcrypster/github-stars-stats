@@ -1,6 +1,6 @@
 # mjlajeunesse/juicr - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 48 | 3 | 
 | 2023-01-20 | 48 | 3 | 
 | 2023-01-19 | 48 | 3 | 
 | 2023-01-17 | 48 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 47 | 3 | 
 | 2022-12-25 | 47 | 3 | 
 | 2022-12-24 | 47 | 3 | 
-| 2022-12-23 | 47 | 3 | 
 

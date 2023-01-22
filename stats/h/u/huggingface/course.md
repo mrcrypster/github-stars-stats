@@ -1,10 +1,10 @@
 # huggingface/course - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 253
+☋ Forks: 255
 
-★ Stars: 759
+★ Stars: 762
 
 [Open repository](https://github.com/huggingface/course)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 762 | 255 | 
 | 2023-01-20 | 759 | 253 | 
 | 2023-01-19 | 759 | 253 | 
 | 2023-01-18 | 757 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 715 | 235 | 
 | 2022-12-24 | 714 | 236 | 
 | 2022-12-23 | 711 | 236 | 
-| 2022-12-22 | 711 | 236 | 
 

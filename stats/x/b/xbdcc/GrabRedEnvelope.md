@@ -1,10 +1,10 @@
 # xbdcc/GrabRedEnvelope - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 123
+☋ Forks: 126
 
-★ Stars: 414
+★ Stars: 434
 
 [Open repository](https://github.com/xbdcc/GrabRedEnvelope)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 434 | 126 | 
 | 2023-01-20 | 414 | 123 | 
 | 2023-01-19 | 412 | 123 | 
 | 2023-01-18 | 409 | 122 | 

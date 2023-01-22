@@ -1,6 +1,6 @@
 # Open-Science-Community-Saudi-Arabia/MOOCs - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 10 | 22 | 
 | 2023-01-20 | 10 | 22 | 
 | 2023-01-19 | 10 | 22 | 
 | 2023-01-18 | 10 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 11 | 23 | 
 | 2022-12-24 | 11 | 23 | 
 | 2022-12-23 | 11 | 23 | 
-| 2022-12-22 | 11 | 23 | 
 

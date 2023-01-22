@@ -1,6 +1,6 @@
 # ldelossa/gh.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 333 | 11 | 
 | 2023-01-20 | 333 | 11 | 
 | 2023-01-19 | 333 | 11 | 
 | 2023-01-18 | 331 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 315 | 11 | 
 | 2022-12-25 | 315 | 11 | 
 | 2022-12-24 | 315 | 11 | 
-| 2022-12-22 | 315 | 11 | 
 

@@ -1,10 +1,10 @@
 # elad2412/the-new-css-reset - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 195
+☋ Forks: 194
 
-★ Stars: 1700
+★ Stars: 1701
 
 [Open repository](https://github.com/elad2412/the-new-css-reset)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1701 | 194 | 
 | 2023-01-20 | 1700 | 195 | 
 | 2023-01-19 | 1700 | 196 | 
 | 2023-01-18 | 1700 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1656 | 188 | 
 | 2022-12-24 | 1656 | 188 | 
 | 2022-12-23 | 1656 | 188 | 
-| 2022-12-22 | 1656 | 188 | 
 

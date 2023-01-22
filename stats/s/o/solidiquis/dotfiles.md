@@ -1,10 +1,10 @@
 # solidiquis/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 11
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/solidiquis/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 185 | 11 | 
 | 2023-01-20 | 184 | 11 | 
 | 2023-01-19 | 184 | 11 | 
 | 2023-01-18 | 184 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 177 | 9 | 
 | 2022-12-24 | 178 | 9 | 
 | 2022-12-23 | 178 | 9 | 
-| 2022-12-22 | 178 | 9 | 
 

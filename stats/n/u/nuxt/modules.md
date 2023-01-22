@@ -1,8 +1,8 @@
 # nuxt/modules - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 106
+☋ Forks: 105
 
 ★ Stars: 605
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 605 | 105 | 
 | 2023-01-20 | 605 | 106 | 
 | 2023-01-19 | 605 | 106 | 
 | 2023-01-18 | 605 | 105 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 585 | 97 | 
 | 2022-12-24 | 585 | 97 | 
 | 2022-12-23 | 584 | 96 | 
-| 2022-12-22 | 584 | 96 | 
 

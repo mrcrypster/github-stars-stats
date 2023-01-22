@@ -1,6 +1,6 @@
 # biaslab/ReactiveMP.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 70 | 10 | 
 | 2023-01-20 | 70 | 10 | 
 | 2023-01-19 | 70 | 10 | 
 | 2023-01-18 | 70 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 69 | 10 | 
 | 2022-12-24 | 69 | 10 | 
 | 2022-12-23 | 69 | 10 | 
-| 2022-12-22 | 69 | 10 | 
 

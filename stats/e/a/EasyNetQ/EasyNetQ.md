@@ -1,10 +1,10 @@
 # EasyNetQ/EasyNetQ - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 720
 
-★ Stars: 2629
+★ Stars: 2630
 
 [Open repository](https://github.com/EasyNetQ/EasyNetQ)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2630 | 720 | 
 | 2023-01-20 | 2629 | 720 | 
 | 2023-01-19 | 2628 | 720 | 
 | 2023-01-18 | 2627 | 720 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2619 | 720 | 
 | 2022-12-24 | 2619 | 720 | 
 | 2022-12-23 | 2618 | 720 | 
-| 2022-12-22 | 2617 | 720 | 
 

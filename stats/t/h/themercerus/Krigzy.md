@@ -1,6 +1,6 @@
 # themercerus/Krigzy - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 24 | - | 
 | 2023-01-21 | 24 | - | 
 | 2023-01-19 | 24 | - | 
 | 2023-01-18 | 24 | - | 

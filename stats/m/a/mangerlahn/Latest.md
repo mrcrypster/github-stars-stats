@@ -1,6 +1,6 @@
 # mangerlahn/Latest - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1330 | 45 | 
 | 2023-01-20 | 1330 | 45 | 
 | 2023-01-19 | 1329 | 45 | 
 | 2023-01-18 | 1328 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1253 | 46 | 
 | 2022-12-24 | 1252 | 46 | 
 | 2022-12-23 | 1250 | 46 | 
-| 2022-12-22 | 1246 | 46 | 
 

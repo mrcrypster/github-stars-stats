@@ -1,10 +1,10 @@
 # rzashakeri/beautify-github-profile - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 397
+☋ Forks: 398
 
-★ Stars: 9223
+★ Stars: 9224
 
 [Open repository](https://github.com/rzashakeri/beautify-github-profile)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 9224 | 398 | 
 | 2023-01-20 | 9223 | 397 | 
 | 2023-01-19 | 9215 | 397 | 
 | 2023-01-18 | 9210 | 396 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 9122 | 388 | 
 | 2022-12-24 | 9120 | 385 | 
 | 2022-12-23 | 9120 | 384 | 
-| 2022-12-22 | 9117 | 384 | 
 

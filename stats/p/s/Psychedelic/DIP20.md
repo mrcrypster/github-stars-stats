@@ -1,6 +1,6 @@
 # Psychedelic/DIP20 - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 47 | 28 | 
 | 2023-01-20 | 47 | 28 | 
 | 2023-01-19 | 47 | 28 | 
 | 2023-01-18 | 47 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 48 | 27 | 
 | 2022-12-25 | 48 | 27 | 
 | 2022-12-24 | 48 | 27 | 
-| 2022-12-23 | 48 | 27 | 
 

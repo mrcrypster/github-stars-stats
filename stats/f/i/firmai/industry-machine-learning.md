@@ -1,6 +1,6 @@
 # firmai/industry-machine-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 6698 | 1120 | 
 | 2023-01-20 | 6698 | 1120 | 
 | 2023-01-19 | 6697 | 1119 | 
 | 2023-01-18 | 6695 | 1119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 6660 | 1118 | 
 | 2022-12-24 | 6660 | 1118 | 
 | 2022-12-23 | 6658 | 1119 | 
-| 2022-12-22 | 6656 | 1119 | 
 

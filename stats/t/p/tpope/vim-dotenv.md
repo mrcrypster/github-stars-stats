@@ -1,6 +1,6 @@
 # tpope/vim-dotenv - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 158 | 6 | 
 | 2023-01-20 | 158 | 6 | 
 | 2023-01-19 | 157 | 6 | 
 | 2023-01-18 | 157 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 156 | 6 | 
 | 2022-12-25 | 156 | 6 | 
 | 2022-12-24 | 156 | 6 | 
-| 2022-12-23 | 156 | 6 | 
 

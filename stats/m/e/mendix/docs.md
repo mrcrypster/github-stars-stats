@@ -1,10 +1,10 @@
 # mendix/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 602
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/mendix/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 103 | 602 | 
 | 2023-01-20 | 102 | 602 | 
 | 2023-01-19 | 102 | 602 | 
 | 2023-01-18 | 102 | 602 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 99 | 599 | 
 | 2022-12-25 | 99 | 599 | 
 | 2022-12-24 | 99 | 599 | 
-| 2022-12-22 | 99 | 598 | 
 

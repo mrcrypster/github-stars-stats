@@ -1,6 +1,6 @@
 # cengiztoru/JetIsland_Dynamic-Island-Jetpack-Compose - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 101 | 5 | 
 | 2023-01-20 | 101 | 5 | 
 | 2023-01-19 | 101 | 5 | 
 | 2023-01-18 | 101 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 101 | 5 | 
 | 2022-12-24 | 101 | 5 | 
 | 2022-12-23 | 101 | 5 | 
-| 2022-12-22 | 101 | 5 | 
 

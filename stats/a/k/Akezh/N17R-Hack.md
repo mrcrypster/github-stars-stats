@@ -1,6 +1,6 @@
 # Akezh/N17R-Hack - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 17 | - | 
 | 2023-01-20 | 17 | - | 
 | 2023-01-19 | 17 | - | 
 | 2023-01-17 | 17 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 17 | - | 
 | 2022-12-25 | 17 | - | 
 | 2022-12-24 | 17 | - | 
-| 2022-12-23 | 17 | - | 
 

@@ -1,10 +1,10 @@
 # fullhunt/spring4shell-scan - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 115
 
-★ Stars: 611
+★ Stars: 612
 
 [Open repository](https://github.com/fullhunt/spring4shell-scan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 612 | 115 | 
 | 2023-01-20 | 611 | 115 | 
 | 2023-01-19 | 611 | 115 | 
 | 2023-01-18 | 610 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 602 | 114 | 
 | 2022-12-24 | 602 | 114 | 
 | 2022-12-23 | 602 | 114 | 
-| 2022-12-22 | 602 | 114 | 
 

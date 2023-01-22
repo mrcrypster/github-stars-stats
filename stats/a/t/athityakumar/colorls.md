@@ -1,8 +1,8 @@
 # athityakumar/colorls - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 346
+☋ Forks: 347
 
 ★ Stars: 4321
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 4321 | 347 | 
 | 2023-01-20 | 4321 | 346 | 
 | 2023-01-19 | 4320 | 346 | 
 | 2023-01-18 | 4319 | 346 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4299 | 346 | 
 | 2022-12-24 | 4297 | 346 | 
 | 2022-12-23 | 4297 | 346 | 
-| 2022-12-22 | 4296 | 346 | 
 

@@ -1,6 +1,6 @@
 # Coding-with-Adam/Dash-by-Plotly - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1491
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1060 | 1491 | 
 | 2023-01-20 | 1060 | 1491 | 
 | 2023-01-19 | 1060 | 1488 | 
 | 2023-01-18 | 1059 | 1487 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1026 | 1469 | 
 | 2022-12-24 | 1026 | 1467 | 
 | 2022-12-23 | 1026 | 1465 | 
-| 2022-12-22 | 1024 | 1465 | 
 

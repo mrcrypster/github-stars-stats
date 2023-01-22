@@ -1,10 +1,10 @@
 # ruanjiancheng/StudentManageSystem - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 9
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/ruanjiancheng/StudentManageSystem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 59 | 9 | 
 | 2023-01-20 | 58 | 9 | 
 | 2023-01-19 | 58 | 9 | 
 | 2023-01-18 | 58 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 55 | 8 | 
 | 2022-12-24 | 55 | 8 | 
 | 2022-12-23 | 55 | 8 | 
-| 2022-12-22 | 55 | 8 | 
 

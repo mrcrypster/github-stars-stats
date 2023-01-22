@@ -1,10 +1,10 @@
 # revanced/revanced-documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 14
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/revanced/revanced-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 43 | 14 | 
 | 2023-01-20 | 42 | 14 | 
 | 2023-01-19 | 42 | 14 | 
 | 2023-01-18 | 42 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 32 | 13 | 
 | 2022-12-24 | 32 | 12 | 
 | 2022-12-23 | 31 | 12 | 
-| 2022-12-22 | 31 | 13 | 
 

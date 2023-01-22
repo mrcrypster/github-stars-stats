@@ -1,6 +1,6 @@
 # ethz-asl/maplab - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 652
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2059 | 652 | 
 | 2023-01-21 | 2059 | 652 | 
 | 2023-01-20 | 2056 | 652 | 
 | 2023-01-18 | 2050 | 651 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1961 | 631 | 
 | 2022-12-24 | 1960 | 631 | 
 | 2022-12-23 | 1960 | 631 | 
-| 2022-12-22 | 1959 | 630 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/office-developer-exchange-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 97
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/MicrosoftDocs/office-developer-exchange-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 30 | 97 | 
 | 2023-01-20 | 29 | 97 | 
 | 2023-01-19 | 29 | 97 | 
 | 2023-01-18 | 29 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 26 | 96 | 
 | 2022-12-25 | 26 | 96 | 
 | 2022-12-24 | 26 | 96 | 
-| 2022-12-22 | 26 | 96 | 
 

@@ -1,6 +1,6 @@
 # HO-CTO/sre-monitoring-as-code - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 15 | 11 | 
 | 2023-01-20 | 15 | 11 | 
 | 2023-01-19 | 15 | 11 | 
 | 2023-01-18 | 15 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 15 | 11 | 
 | 2022-12-24 | 14 | 11 | 
 | 2022-12-23 | 13 | 11 | 
-| 2022-12-22 | 13 | 11 | 
 

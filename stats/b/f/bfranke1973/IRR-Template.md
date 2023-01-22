@@ -1,8 +1,8 @@
 # bfranke1973/IRR-Template - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 23
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 23 | 89 | 
+| 2023-01-21 | 23 | 89 | 
 | 2023-01-20 | 23 | 88 | 
 | 2023-01-19 | 23 | 88 | 
 | 2023-01-18 | 23 | 88 | 

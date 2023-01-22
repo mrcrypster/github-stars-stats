@@ -1,6 +1,6 @@
 # hugomd/parrot.live - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2941 | 133 | 
 | 2023-01-20 | 2941 | 133 | 
 | 2023-01-19 | 2942 | 133 | 
 | 2023-01-18 | 2943 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2930 | 130 | 
 | 2022-12-24 | 2928 | 129 | 
 | 2022-12-23 | 2927 | 129 | 
-| 2022-12-22 | 2927 | 129 | 
 

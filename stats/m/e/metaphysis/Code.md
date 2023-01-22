@@ -1,6 +1,6 @@
 # metaphysis/Code - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 194 | 50 | 
 | 2023-01-20 | 194 | 50 | 
 | 2023-01-19 | 194 | 49 | 
 | 2023-01-18 | 194 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 192 | 49 | 
 | 2022-12-24 | 192 | 49 | 
 | 2022-12-23 | 192 | 49 | 
-| 2022-12-22 | 192 | 49 | 
 

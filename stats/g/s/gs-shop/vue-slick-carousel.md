@@ -1,6 +1,6 @@
 # gs-shop/vue-slick-carousel - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 732 | 171 | 
 | 2023-01-20 | 732 | 171 | 
 | 2023-01-19 | 733 | 171 | 
 | 2023-01-17 | 733 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 728 | 171 | 
 | 2022-12-25 | 728 | 171 | 
 | 2022-12-24 | 728 | 171 | 
-| 2022-12-23 | 728 | 171 | 
 

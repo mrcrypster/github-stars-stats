@@ -1,8 +1,8 @@
 # numerai/example-scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 217
+☋ Forks: 218
 
 ★ Stars: 498
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 498 | 218 | 
 | 2023-01-20 | 498 | 217 | 
 | 2023-01-19 | 498 | 216 | 
 | 2023-01-18 | 498 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 487 | 211 | 
 | 2022-12-24 | 486 | 211 | 
 | 2022-12-23 | 486 | 211 | 
-| 2022-12-22 | 487 | 211 | 
 

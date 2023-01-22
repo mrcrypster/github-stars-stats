@@ -1,10 +1,10 @@
 # eggert/tz - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 198
 
-★ Stars: 1190
+★ Stars: 1189
 
 [Open repository](https://github.com/eggert/tz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1189 | 198 | 
 | 2023-01-20 | 1190 | 198 | 
 | 2023-01-19 | 1190 | 198 | 
 | 2023-01-18 | 1190 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 1182 | 194 | 
 | 2022-12-25 | 1182 | 194 | 
 | 2022-12-23 | 1182 | 194 | 
-| 2022-12-22 | 1182 | 194 | 
 

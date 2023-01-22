@@ -1,6 +1,6 @@
 # sifive/sifive-blocks - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 158 | 82 | 
 | 2023-01-20 | 158 | 82 | 
 | 2023-01-19 | 158 | 82 | 
 | 2023-01-18 | 158 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 157 | 81 | 
 | 2022-12-24 | 157 | 81 | 
 | 2022-12-23 | 157 | 81 | 
-| 2022-12-22 | 157 | 81 | 
 

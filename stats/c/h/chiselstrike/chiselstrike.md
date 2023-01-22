@@ -1,10 +1,10 @@
 # chiselstrike/chiselstrike - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 35
 
-★ Stars: 778
+★ Stars: 780
 
 [Open repository](https://github.com/chiselstrike/chiselstrike)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 780 | 35 | 
 | 2023-01-20 | 778 | 35 | 
 | 2023-01-19 | 778 | 35 | 
 | 2023-01-18 | 779 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 749 | 34 | 
 | 2022-12-24 | 749 | 34 | 
 | 2022-12-23 | 749 | 34 | 
-| 2022-12-22 | 750 | 34 | 
 

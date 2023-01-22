@@ -1,6 +1,6 @@
 # UCLAdeepvision/CS269-surveys-2022spring - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 3 | 22 | 
 | 2023-01-20 | 3 | 22 | 
 | 2023-01-19 | 3 | 22 | 
 | 2023-01-18 | 3 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 3 | 22 | 
 | 2022-12-24 | 3 | 22 | 
 | 2022-12-23 | 3 | 22 | 
-| 2022-12-22 | 3 | 22 | 
 

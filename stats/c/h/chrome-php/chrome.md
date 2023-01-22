@@ -1,10 +1,10 @@
 # chrome-php/chrome - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 215
 
-★ Stars: 1681
+★ Stars: 1682
 
 [Open repository](https://github.com/chrome-php/chrome)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1682 | 215 | 
 | 2023-01-20 | 1681 | 215 | 
 | 2023-01-19 | 1678 | 214 | 
 | 2023-01-18 | 1677 | 214 | 

@@ -1,8 +1,8 @@
 # riscv/sail-riscv - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 272
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 272 | 79 | 
 | 2023-01-20 | 272 | 78 | 
 | 2023-01-19 | 272 | 78 | 
 | 2023-01-17 | 271 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 267 | 74 | 
 | 2022-12-24 | 267 | 74 | 
 | 2022-12-23 | 267 | 74 | 
-| 2022-12-22 | 266 | 74 | 
 

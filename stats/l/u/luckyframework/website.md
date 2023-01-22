@@ -1,10 +1,10 @@
 # luckyframework/website - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 58
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/luckyframework/website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 35 | 58 | 
 | 2023-01-20 | 34 | 58 | 
 | 2023-01-19 | 34 | 58 | 
 | 2023-01-18 | 34 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 34 | 58 | 
 | 2022-12-24 | 34 | 58 | 
 | 2022-12-23 | 34 | 58 | 
-| 2022-12-22 | 34 | 58 | 
 

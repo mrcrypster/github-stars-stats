@@ -1,10 +1,10 @@
 # ly4k/PwnKit - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 148
 
-★ Stars: 718
+★ Stars: 719
 
 [Open repository](https://github.com/ly4k/PwnKit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 719 | 148 | 
 | 2023-01-20 | 718 | 148 | 
 | 2023-01-19 | 717 | 148 | 
 | 2023-01-18 | 717 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 697 | 147 | 
 | 2022-12-25 | 697 | 147 | 
 | 2022-12-24 | 697 | 147 | 
-| 2022-12-23 | 696 | 147 | 
 

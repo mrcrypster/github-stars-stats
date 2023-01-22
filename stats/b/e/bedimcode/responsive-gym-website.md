@@ -1,6 +1,6 @@
 # bedimcode/responsive-gym-website - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 63 | 42 | 
 | 2023-01-20 | 63 | 42 | 
 | 2023-01-19 | 63 | 42 | 
 | 2023-01-18 | 63 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 59 | 42 | 
 | 2022-12-24 | 60 | 41 | 
 | 2022-12-23 | 60 | 41 | 
-| 2022-12-22 | 60 | 41 | 
 

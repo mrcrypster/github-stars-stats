@@ -1,10 +1,10 @@
 # pay-rails/pay - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 223
 
-★ Stars: 1484
+★ Stars: 1485
 
 [Open repository](https://github.com/pay-rails/pay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1485 | 223 | 
 | 2023-01-20 | 1484 | 223 | 
 | 2023-01-19 | 1484 | 223 | 
 | 2023-01-18 | 1484 | 223 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 1466 | 221 | 
 | 2022-12-25 | 1466 | 221 | 
 | 2022-12-24 | 1466 | 221 | 
-| 2022-12-23 | 1466 | 221 | 
 

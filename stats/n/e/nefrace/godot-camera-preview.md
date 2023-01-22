@@ -1,6 +1,6 @@
 # nefrace/godot-camera-preview - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 29 | 1 | 
 | 2023-01-20 | 29 | 1 | 
 | 2023-01-19 | 29 | 1 | 
 | 2023-01-18 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 29 | 1 | 
 | 2022-12-24 | 29 | 1 | 
 | 2022-12-23 | 29 | 1 | 
-| 2022-12-22 | 29 | 1 | 
 

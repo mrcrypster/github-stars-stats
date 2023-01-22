@@ -1,10 +1,10 @@
 # creativetimofficial/light-bootstrap-dashboard-react - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 515
+☋ Forks: 517
 
-★ Stars: 690
+★ Stars: 692
 
 [Open repository](https://github.com/creativetimofficial/light-bootstrap-dashboard-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 692 | 517 | 
 | 2023-01-20 | 690 | 515 | 
 | 2023-01-19 | 690 | 514 | 
 | 2023-01-18 | 690 | 513 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 688 | 497 | 
 | 2022-12-24 | 688 | 496 | 
 | 2022-12-23 | 688 | 495 | 
-| 2022-12-22 | 688 | 494 | 
 

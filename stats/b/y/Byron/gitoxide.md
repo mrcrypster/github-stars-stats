@@ -1,10 +1,10 @@
 # Byron/gitoxide - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 138
 
-★ Stars: 5327
+★ Stars: 5333
 
 [Open repository](https://github.com/Byron/gitoxide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5333 | 138 | 
 | 2023-01-20 | 5327 | 138 | 
 | 2023-01-19 | 5325 | 138 | 
 | 2023-01-18 | 5323 | 138 | 

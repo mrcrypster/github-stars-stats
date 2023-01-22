@@ -1,10 +1,10 @@
 # exoscale/seql - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 6
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/exoscale/seql)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 95 | 6 | 
 | 2023-01-20 | 94 | 6 | 
 | 2023-01-19 | 94 | 6 | 
 | 2023-01-18 | 94 | 6 | 

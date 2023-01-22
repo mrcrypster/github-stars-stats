@@ -1,8 +1,8 @@
 # Wsine/android_builder - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1645
+☋ Forks: 1648
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 186 | 1648 | 
 | 2023-01-20 | 186 | 1645 | 
 | 2023-01-19 | 186 | 1640 | 
 | 2023-01-18 | 185 | 1636 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 177 | 1549 | 
 | 2022-12-24 | 177 | 1549 | 
 | 2022-12-23 | 177 | 1547 | 
-| 2022-12-22 | 177 | 1544 | 
 

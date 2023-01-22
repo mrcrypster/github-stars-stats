@@ -1,6 +1,6 @@
 # oneapi-src/oneAPI-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 445
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 492 | 445 | 
 | 2023-01-20 | 492 | 445 | 
 | 2023-01-19 | 492 | 444 | 
 | 2023-01-18 | 491 | 442 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 480 | 435 | 
 | 2022-12-24 | 480 | 434 | 
 | 2022-12-23 | 480 | 434 | 
-| 2022-12-22 | 480 | 431 | 
 

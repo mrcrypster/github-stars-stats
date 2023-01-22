@@ -1,8 +1,8 @@
 # CoolKit-Technologies/ha-addon - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 68
+☋ Forks: 67
 
 ★ Stars: 152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 152 | 67 | 
 | 2023-01-20 | 152 | 68 | 
 | 2023-01-19 | 151 | 68 | 
 | 2023-01-17 | 151 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 146 | 61 | 
 | 2022-12-25 | 145 | 60 | 
 | 2022-12-24 | 145 | 60 | 
-| 2022-12-22 | 144 | 60 | 
 

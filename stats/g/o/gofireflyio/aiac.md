@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 21
 
-☋ Forks: 49
+☋ Forks: 52
 
-★ Stars: 833
+★ Stars: 848
 
 [Open repository](https://github.com/gofireflyio/aiac)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 833 | 49 | 
+| 2023-01-21 | 848 | 52 | 
 | 2023-01-20 | 828 | 49 | 
 | 2023-01-19 | 777 | 48 | 
 | 2023-01-18 | 723 | 42 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-25 | 454 | 19 | 
 | 2022-12-24 | 436 | 17 | 
 | 2022-12-23 | 421 | 17 | 
-| 2022-12-22 | 352 | 16 | 
 

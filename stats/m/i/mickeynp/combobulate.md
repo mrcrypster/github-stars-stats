@@ -1,10 +1,10 @@
 # mickeynp/combobulate - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 5
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/mickeynp/combobulate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 226 | 5 | 
 | 2023-01-20 | 225 | 5 | 
 | 2023-01-19 | 225 | 5 | 
 | 2023-01-18 | 225 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 220 | 5 | 
 | 2022-12-25 | 220 | 5 | 
 | 2022-12-24 | 220 | 5 | 
-| 2022-12-22 | 220 | 5 | 
 

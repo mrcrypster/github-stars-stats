@@ -1,6 +1,6 @@
 # grigory51/shbr-devops - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 50 | 29 | 
 | 2023-01-20 | 50 | 29 | 
 | 2023-01-19 | 50 | 29 | 
 | 2023-01-18 | 50 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 50 | 28 | 
 | 2022-12-24 | 49 | 28 | 
 | 2022-12-23 | 49 | 28 | 
-| 2022-12-22 | 49 | 28 | 
 

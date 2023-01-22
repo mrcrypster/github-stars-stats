@@ -1,10 +1,10 @@
 # E3SM-Project/E3SM - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 264
+☋ Forks: 265
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/E3SM-Project/E3SM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 246 | 265 | 
 | 2023-01-20 | 245 | 264 | 
 | 2023-01-19 | 245 | 263 | 
 | 2023-01-18 | 245 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 240 | 261 | 
 | 2022-12-24 | 240 | 261 | 
 | 2022-12-23 | 240 | 261 | 
-| 2022-12-22 | 239 | 261 | 
 

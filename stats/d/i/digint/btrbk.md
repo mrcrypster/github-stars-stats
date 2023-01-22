@@ -1,10 +1,10 @@
 # digint/btrbk - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 97
 
-★ Stars: 1075
+★ Stars: 1076
 
 [Open repository](https://github.com/digint/btrbk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1076 | 97 | 
 | 2023-01-20 | 1075 | 97 | 
 | 2023-01-19 | 1075 | 97 | 
 | 2023-01-18 | 1075 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1051 | 96 | 
 | 2022-12-24 | 1049 | 96 | 
 | 2022-12-23 | 1049 | 96 | 
-| 2022-12-22 | 1048 | 96 | 
 

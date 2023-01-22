@@ -1,10 +1,10 @@
 # trpc/trpc - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 640
+☋ Forks: 642
 
-★ Stars: 19689
+★ Stars: 19751
 
 [Open repository](https://github.com/trpc/trpc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 19751 | 642 | 
 | 2023-01-20 | 19689 | 640 | 
 | 2023-01-19 | 19605 | 635 | 
 | 2023-01-18 | 19531 | 632 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 17540 | 563 | 
 | 2022-12-24 | 17516 | 563 | 
 | 2022-12-23 | 17479 | 559 | 
-| 2022-12-22 | 17436 | 557 | 
 

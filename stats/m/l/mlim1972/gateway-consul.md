@@ -1,6 +1,6 @@
 # mlim1972/gateway-consul - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | - | 37 | 
 | 2023-01-20 | - | 37 | 
 | 2023-01-19 | - | 37 | 
 | 2023-01-18 | - | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | - | 37 | 
 | 2022-12-24 | - | 37 | 
 | 2022-12-23 | - | 37 | 
-| 2022-12-22 | - | 37 | 
 

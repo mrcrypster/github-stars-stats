@@ -1,10 +1,10 @@
 # sundowndev/hacker-roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1286
 
-★ Stars: 10314
+★ Stars: 10318
 
 [Open repository](https://github.com/sundowndev/hacker-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 10318 | 1286 | 
 | 2023-01-20 | 10314 | 1286 | 
 | 2023-01-19 | 10303 | 1285 | 
 | 2023-01-17 | 10295 | 1285 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 10160 | 1274 | 
 | 2022-12-25 | 10159 | 1274 | 
 | 2022-12-24 | 10155 | 1271 | 
-| 2022-12-23 | 10151 | 1271 | 
 

@@ -1,10 +1,10 @@
 # godot-rust/gdextension - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 36
 
-★ Stars: 627
+★ Stars: 630
 
 [Open repository](https://github.com/godot-rust/gdextension)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 630 | 36 | 
 | 2023-01-20 | 627 | 36 | 
 | 2023-01-19 | 624 | 36 | 
 | 2023-01-18 | 621 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 563 | 25 | 
 | 2022-12-24 | 563 | 25 | 
 | 2022-12-23 | 560 | 25 | 
-| 2022-12-22 | 555 | 25 | 
 

@@ -1,6 +1,6 @@
 # prontolabs/pronto - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2538 | 238 | 
 | 2023-01-21 | 2538 | 238 | 
 | 2023-01-20 | 2533 | 238 | 
 | 2023-01-18 | 2532 | 238 | 

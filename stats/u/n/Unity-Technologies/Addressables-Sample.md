@@ -1,6 +1,6 @@
 # Unity-Technologies/Addressables-Sample - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1012 | 267 | 
 | 2023-01-20 | 1012 | 267 | 
 | 2023-01-19 | 1012 | 267 | 
 | 2023-01-18 | 1012 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 997 | 260 | 
 | 2022-12-24 | 997 | 260 | 
 | 2022-12-23 | 997 | 260 | 
-| 2022-12-22 | 997 | 260 | 
 

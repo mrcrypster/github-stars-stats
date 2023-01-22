@@ -1,8 +1,8 @@
 # MicrosoftDocs/OfficeDocs-SkypeForBusiness - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1058
+☋ Forks: 1057
 
 ★ Stars: 289
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 289 | 1057 | 
 | 2023-01-20 | 289 | 1058 | 
 | 2023-01-19 | 289 | 1057 | 
 | 2023-01-18 | 289 | 1057 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 287 | 1057 | 
 | 2022-12-24 | 287 | 1057 | 
 | 2022-12-23 | 287 | 1057 | 
-| 2022-12-22 | 287 | 1056 | 
 

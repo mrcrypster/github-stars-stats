@@ -1,6 +1,6 @@
 # symkat/MyJekyllBlog - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 40 | 2 | 
 | 2023-01-20 | 40 | 2 | 
 | 2023-01-19 | 40 | 2 | 
 | 2023-01-18 | 40 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 38 | 2 | 
 | 2022-12-24 | 38 | 2 | 
 | 2022-12-23 | 38 | 2 | 
-| 2022-12-22 | 38 | 2 | 
 

@@ -1,10 +1,10 @@
 # digitalocean/nginxconfig.io - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1806
 
-★ Stars: 24907
+★ Stars: 24909
 
 [Open repository](https://github.com/digitalocean/nginxconfig.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 24909 | 1806 | 
 | 2023-01-20 | 24907 | 1806 | 
 | 2023-01-19 | 24904 | 1806 | 
 | 2023-01-18 | 24902 | 1806 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-26 | 24764 | 1795 | 
 | 2022-12-25 | 24760 | 1795 | 
 | 2022-12-24 | 24761 | 1795 | 
-| 2022-12-23 | 24754 | 1793 | 
 

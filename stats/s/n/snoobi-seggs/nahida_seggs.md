@@ -1,6 +1,6 @@
 # snoobi-seggs/nahida_seggs - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 61 | 18 | 
 | 2023-01-20 | 61 | 18 | 
 | 2023-01-19 | 61 | 18 | 
 | 2023-01-18 | 61 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 61 | 17 | 
 | 2022-12-24 | 61 | 17 | 
 | 2022-12-23 | 61 | 17 | 
-| 2022-12-22 | 61 | 17 | 
 

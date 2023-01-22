@@ -1,6 +1,6 @@
 # ShiniGandhi/JellyTheme - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 53 | 6 | 
 | 2023-01-21 | 53 | 6 | 
 | 2023-01-20 | 53 | 6 | 
 | 2023-01-18 | 53 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-25 | 53 | 5 | 
 | 2022-12-24 | 53 | 5 | 
 | 2022-12-23 | 53 | 5 | 
-| 2022-12-22 | 53 | 5 | 
 

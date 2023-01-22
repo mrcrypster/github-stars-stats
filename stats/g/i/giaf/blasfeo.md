@@ -1,6 +1,6 @@
 # giaf/blasfeo - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 215 | 60 | 
 | 2023-01-20 | 215 | 60 | 
 | 2023-01-19 | 215 | 60 | 
 | 2023-01-18 | 214 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 212 | 60 | 
 | 2022-12-24 | 212 | 60 | 
 | 2022-12-23 | 212 | 60 | 
-| 2022-12-22 | 212 | 60 | 
 

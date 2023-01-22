@@ -1,10 +1,10 @@
 # LunarVim/darkplus.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 37
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/LunarVim/darkplus.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 66 | 37 | 
 | 2023-01-20 | 64 | 37 | 
 | 2023-01-19 | 64 | 35 | 
 | 2023-01-18 | 63 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 61 | 36 | 
 | 2022-12-24 | 61 | 36 | 
 | 2022-12-23 | 60 | 36 | 
-| 2022-12-22 | 60 | 36 | 
 

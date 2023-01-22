@@ -1,10 +1,10 @@
 # nf-core/nanoseq - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 44
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/nf-core/nanoseq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 95 | 44 | 
 | 2023-01-20 | 94 | 44 | 
 | 2023-01-19 | 94 | 44 | 
 | 2023-01-18 | 94 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 91 | 43 | 
 | 2022-12-24 | 91 | 42 | 
 | 2022-12-23 | 91 | 42 | 
-| 2022-12-22 | 91 | 41 | 
 

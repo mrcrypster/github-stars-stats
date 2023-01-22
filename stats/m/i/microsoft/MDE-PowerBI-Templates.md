@@ -1,10 +1,10 @@
 # microsoft/MDE-PowerBI-Templates - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 108
+☋ Forks: 112
 
-★ Stars: 151
+★ Stars: 153
 
 [Open repository](https://github.com/microsoft/MDE-PowerBI-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 153 | 112 | 
 | 2023-01-20 | 151 | 108 | 
 | 2023-01-19 | 152 | 107 | 
 | 2023-01-18 | 138 | 103 | 

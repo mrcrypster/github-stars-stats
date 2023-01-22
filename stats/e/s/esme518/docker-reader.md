@@ -1,8 +1,8 @@
 # esme518/docker-reader - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1 | 6 | 
 | 2023-01-20 | 1 | 5 | 
 | 2023-01-19 | 1 | 5 | 
 | 2023-01-18 | 1 | 5 | 

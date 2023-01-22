@@ -1,10 +1,10 @@
 # HyperDbg/HyperDbg - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 288
 
-★ Stars: 1990
+★ Stars: 1992
 
 [Open repository](https://github.com/HyperDbg/HyperDbg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1992 | 288 | 
 | 2023-01-20 | 1990 | 288 | 
 | 2023-01-19 | 1990 | 288 | 
 | 2023-01-18 | 1988 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1958 | 284 | 
 | 2022-12-24 | 1958 | 283 | 
 | 2022-12-23 | 1958 | 283 | 
-| 2022-12-22 | 1955 | 281 | 
 

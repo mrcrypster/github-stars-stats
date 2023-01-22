@@ -1,10 +1,10 @@
 # JosephM101/Force-Windows-11-Install - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 50
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/JosephM101/Force-Windows-11-Install)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 183 | 50 | 
 | 2023-01-20 | 182 | 50 | 
 | 2023-01-19 | 181 | 50 | 
 | 2023-01-18 | 179 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 154 | 46 | 
 | 2022-12-24 | 154 | 46 | 
 | 2022-12-23 | 154 | 46 | 
-| 2022-12-22 | 152 | 45 | 
 

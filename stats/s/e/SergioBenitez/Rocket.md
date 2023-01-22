@@ -1,6 +1,6 @@
 # SergioBenitez/Rocket - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1375
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 19565 | 1375 | 
 | 2023-01-20 | 19565 | 1375 | 
 | 2023-01-19 | 19558 | 1375 | 
 | 2023-01-18 | 19553 | 1373 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 19332 | 1364 | 
 | 2022-12-24 | 19325 | 1363 | 
 | 2022-12-23 | 19317 | 1362 | 
-| 2022-12-22 | 19307 | 1362 | 
 

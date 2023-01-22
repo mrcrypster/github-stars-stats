@@ -1,10 +1,10 @@
 # AckslD/nvim-trevJ.lua - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 8
 
-★ Stars: 125
+★ Stars: 124
 
 [Open repository](https://github.com/AckslD/nvim-trevJ.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 124 | 8 | 
 | 2023-01-20 | 125 | 8 | 
 | 2023-01-19 | 125 | 8 | 
 | 2023-01-18 | 124 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 121 | 8 | 
 | 2022-12-24 | 121 | 8 | 
 | 2022-12-23 | 121 | 8 | 
-| 2022-12-22 | 121 | 8 | 
 

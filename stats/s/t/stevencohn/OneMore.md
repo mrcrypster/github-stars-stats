@@ -1,10 +1,10 @@
 # stevencohn/OneMore - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 117
 
-★ Stars: 1258
+★ Stars: 1260
 
 [Open repository](https://github.com/stevencohn/OneMore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1260 | 117 | 
 | 2023-01-20 | 1258 | 117 | 
 | 2023-01-19 | 1256 | 117 | 
 | 2023-01-18 | 1253 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1212 | 118 | 
 | 2022-12-24 | 1209 | 118 | 
 | 2022-12-23 | 1207 | 118 | 
-| 2022-12-22 | 1205 | 118 | 
 

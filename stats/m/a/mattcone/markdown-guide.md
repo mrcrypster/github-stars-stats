@@ -1,10 +1,10 @@
 # mattcone/markdown-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 445
 
-★ Stars: 2132
+★ Stars: 2135
 
 [Open repository](https://github.com/mattcone/markdown-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 2135 | 445 | 
 | 2023-01-20 | 2132 | 445 | 
 | 2023-01-19 | 2130 | 445 | 
 | 2023-01-18 | 2125 | 445 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2064 | 434 | 
 | 2022-12-24 | 2063 | 434 | 
 | 2022-12-23 | 2062 | 434 | 
-| 2022-12-22 | 2059 | 434 | 
 

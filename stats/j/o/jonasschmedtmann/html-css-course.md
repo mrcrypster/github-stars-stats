@@ -1,10 +1,10 @@
 # jonasschmedtmann/html-css-course - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 1363
+☋ Forks: 1366
 
-★ Stars: 1452
+★ Stars: 1456
 
 [Open repository](https://github.com/jonasschmedtmann/html-css-course)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1456 | 1366 | 
 | 2023-01-20 | 1452 | 1363 | 
 | 2023-01-19 | 1451 | 1363 | 
 | 2023-01-18 | 1446 | 1358 | 

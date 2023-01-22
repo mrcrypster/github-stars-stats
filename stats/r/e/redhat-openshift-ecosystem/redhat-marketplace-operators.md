@@ -1,6 +1,6 @@
 # redhat-openshift-ecosystem/redhat-marketplace-operators - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 9 | 86 | 
 | 2023-01-20 | 9 | 86 | 
 | 2023-01-19 | 9 | 86 | 
 | 2023-01-18 | 8 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 8 | 86 | 
 | 2022-12-24 | 8 | 86 | 
 | 2022-12-23 | 8 | 86 | 
-| 2022-12-22 | 8 | 86 | 
 

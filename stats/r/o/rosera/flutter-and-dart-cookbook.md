@@ -1,6 +1,6 @@
 # rosera/flutter-and-dart-cookbook - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 36 | 4 | 
 | 2023-01-21 | 36 | 4 | 
 | 2023-01-19 | 36 | 4 | 
 | 2023-01-18 | 36 | 4 | 

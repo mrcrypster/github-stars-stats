@@ -1,10 +1,10 @@
 # thebaselab/codeapp - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 124
+☋ Forks: 123
 
-★ Stars: 1800
+★ Stars: 1797
 
 [Open repository](https://github.com/thebaselab/codeapp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1797 | 123 | 
 | 2023-01-20 | 1800 | 124 | 
 | 2023-01-19 | 1797 | 124 | 
 | 2023-01-18 | 1795 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1720 | 115 | 
 | 2022-12-24 | 1718 | 115 | 
 | 2022-12-23 | 1716 | 114 | 
-| 2022-12-22 | 1705 | 113 | 
 

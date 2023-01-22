@@ -1,6 +1,6 @@
 # spark2k06/PCXT_MiSTer - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 36 | 15 | 
 | 2023-01-20 | 36 | 15 | 
 | 2023-01-19 | 36 | 15 | 
 | 2023-01-18 | 36 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 34 | 14 | 
 | 2022-12-24 | 34 | 14 | 
 | 2022-12-23 | 34 | 14 | 
-| 2022-12-22 | 34 | 14 | 
 

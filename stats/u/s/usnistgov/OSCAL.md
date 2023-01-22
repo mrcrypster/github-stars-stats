@@ -1,6 +1,6 @@
 # usnistgov/OSCAL - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 500 | 149 | 
 | 2023-01-20 | 500 | 149 | 
 | 2023-01-19 | 499 | 149 | 
 | 2023-01-18 | 498 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 486 | 147 | 
 | 2022-12-24 | 486 | 147 | 
 | 2022-12-23 | 486 | 147 | 
-| 2022-12-22 | 486 | 147 | 
 

@@ -1,10 +1,10 @@
 # adrianhajdin/ecommerce_sanity_stripe - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 398
+☋ Forks: 402
 
-★ Stars: 1440
+★ Stars: 1453
 
 [Open repository](https://github.com/adrianhajdin/ecommerce_sanity_stripe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 1453 | 402 | 
 | 2023-01-20 | 1440 | 398 | 
 | 2023-01-19 | 1439 | 398 | 
 | 2023-01-18 | 1440 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 1369 | 366 | 
 | 2022-12-24 | 1362 | 363 | 
 | 2022-12-23 | 1355 | 359 | 
-| 2022-12-22 | 1352 | 359 | 
 

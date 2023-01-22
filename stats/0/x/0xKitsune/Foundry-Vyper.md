@@ -1,6 +1,6 @@
 # 0xKitsune/Foundry-Vyper - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 118 | 16 | 
 | 2023-01-20 | 118 | 16 | 
 | 2023-01-19 | 118 | 16 | 
 | 2023-01-18 | 118 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 110 | 15 | 
 | 2022-12-24 | 110 | 15 | 
 | 2022-12-23 | 110 | 15 | 
-| 2022-12-22 | 110 | 15 | 
 

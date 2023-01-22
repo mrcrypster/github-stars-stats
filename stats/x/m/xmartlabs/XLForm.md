@@ -1,10 +1,10 @@
 # xmartlabs/XLForm - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 968
 
-★ Stars: 5783
+★ Stars: 5784
 
 [Open repository](https://github.com/xmartlabs/XLForm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 5784 | 968 | 
 | 2023-01-20 | 5783 | 968 | 
 | 2023-01-19 | 5783 | 968 | 
 | 2023-01-18 | 5783 | 968 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 5780 | 967 | 
 | 2022-12-24 | 5780 | 967 | 
 | 2022-12-23 | 5780 | 967 | 
-| 2022-12-22 | 5780 | 967 | 
 

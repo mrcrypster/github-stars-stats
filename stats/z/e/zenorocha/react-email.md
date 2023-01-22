@@ -1,10 +1,10 @@
 # zenorocha/react-email - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 22
 
-☋ Forks: 80
+☋ Forks: 84
 
-★ Stars: 2883
+★ Stars: 3039
 
 [Open repository](https://github.com/zenorocha/react-email)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 3039 | 84 | 
 | 2023-01-20 | 2883 | 80 | 
 | 2023-01-19 | 2784 | 77 | 
 | 2023-01-18 | 2668 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 2116 | 47 | 
 | 2022-12-24 | 2107 | 47 | 
 | 2022-12-23 | 2066 | 46 | 
-| 2022-12-22 | 1998 | 47 | 
 

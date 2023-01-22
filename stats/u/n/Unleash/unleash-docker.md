@@ -1,8 +1,8 @@
 # Unleash/unleash-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
-☋ Forks: 102
+☋ Forks: 103
 
 ★ Stars: 95
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 95 | 103 | 
 | 2023-01-20 | 95 | 102 | 
 | 2023-01-19 | 94 | 102 | 
 | 2023-01-18 | 94 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 94 | 101 | 
 | 2022-12-24 | 94 | 101 | 
 | 2022-12-23 | 94 | 101 | 
-| 2022-12-22 | 94 | 101 | 
 

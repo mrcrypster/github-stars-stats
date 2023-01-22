@@ -1,10 +1,10 @@
 # fluent/fluent-bit - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 1191
 
-★ Stars: 4262
+★ Stars: 4263
 
 [Open repository](https://github.com/fluent/fluent-bit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 4263 | 1191 | 
 | 2023-01-20 | 4262 | 1191 | 
 | 2023-01-19 | 4261 | 1191 | 
 | 2023-01-18 | 4260 | 1187 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 4206 | 1172 | 
 | 2022-12-24 | 4206 | 1172 | 
 | 2022-12-23 | 4204 | 1171 | 
-| 2022-12-22 | 4203 | 1171 | 
 

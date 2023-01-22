@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 21
 
 ☋ Forks: 112
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/creativetimofficial/now-ui-flutter)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-21 | 55 | 112 | 
+| 2023-01-21 | 56 | 112 | 
 | 2023-01-20 | 55 | 112 | 
 

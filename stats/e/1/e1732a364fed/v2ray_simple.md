@@ -1,6 +1,6 @@
 # e1732a364fed/v2ray_simple - stars & forks statistics
 
-Stats updated on Jan 2023, 20
+Stats updated on Jan 2023, 21
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-21 | 487 | 96 | 
 | 2023-01-20 | 487 | 96 | 
 | 2023-01-19 | 488 | 96 | 
 | 2023-01-18 | 487 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 20
 | 2022-12-25 | 464 | 95 | 
 | 2022-12-24 | 462 | 94 | 
 | 2022-12-23 | 462 | 94 | 
-| 2022-12-22 | 462 | 94 | 
 
