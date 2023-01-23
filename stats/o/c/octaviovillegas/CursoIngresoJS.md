@@ -1,10 +1,10 @@
 # octaviovillegas/CursoIngresoJS - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 3732
+☋ Forks: 3737
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/octaviovillegas/CursoIngresoJS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 105 | 3737 | 
 | 2023-01-21 | 104 | 3732 | 
 | 2023-01-20 | 104 | 3725 | 
 | 2023-01-19 | 104 | 3718 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 103 | 3633 | 
 | 2022-12-25 | 103 | 3633 | 
 | 2022-12-24 | 103 | 3633 | 
-| 2022-12-23 | 103 | 3633 | 
 

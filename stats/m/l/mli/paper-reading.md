@@ -1,10 +1,10 @@
 # mli/paper-reading - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 1330
+☋ Forks: 1331
 
-★ Stars: 13404
+★ Stars: 13410
 
 [Open repository](https://github.com/mli/paper-reading)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 13410 | 1331 | 
 | 2023-01-21 | 13404 | 1330 | 
 | 2023-01-20 | 13393 | 1329 | 
 | 2023-01-18 | 13384 | 1329 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 13020 | 1287 | 
 | 2022-12-25 | 13014 | 1285 | 
 | 2022-12-24 | 13008 | 1284 | 
-| 2022-12-23 | 13002 | 1284 | 
 

@@ -1,6 +1,6 @@
 # JonasKruckenberg/tauri-astro-template - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 46 | - | 
 | 2023-01-21 | 46 | - | 
 | 2023-01-20 | 45 | - | 
 | 2023-01-19 | 45 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 43 | - | 
 | 2022-12-25 | 43 | - | 
 | 2022-12-24 | 41 | - | 
-| 2022-12-23 | 40 | - | 
 

@@ -1,6 +1,6 @@
 # square/laravel-hyrule - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 332 | 7 | 
 | 2023-01-21 | 332 | 7 | 
 | 2023-01-20 | 332 | 7 | 
 | 2023-01-19 | 331 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 330 | 7 | 
 | 2022-12-25 | 330 | 7 | 
 | 2022-12-24 | 330 | 7 | 
-| 2022-12-23 | 330 | 7 | 
 

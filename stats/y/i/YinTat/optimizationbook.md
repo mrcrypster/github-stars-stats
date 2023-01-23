@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 71
+★ Stars: 74
 
 [Open repository](https://github.com/YinTat/optimizationbook)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 71 | 2 | 
+| 2023-01-22 | 74 | 2 | 
 | 2023-01-21 | 71 | 2 | 
 

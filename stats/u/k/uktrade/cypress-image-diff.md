@@ -1,8 +1,8 @@
 # uktrade/cypress-image-diff - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 138
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 138 | 48 | 
+| 2023-01-22 | 138 | 48 | 
 | 2023-01-21 | 138 | 47 | 
 | 2023-01-20 | 137 | 47 | 
 | 2023-01-19 | 136 | 47 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 130 | 45 | 
 | 2022-12-25 | 130 | 45 | 
 | 2022-12-24 | 129 | 45 | 
-| 2022-12-23 | 128 | 45 | 
 

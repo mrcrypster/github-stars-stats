@@ -1,10 +1,10 @@
 # misterdanb/avizo - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/misterdanb/avizo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 155 | 14 | 
 | 2023-01-21 | 154 | 13 | 
 | 2023-01-20 | 154 | 13 | 
 | 2023-01-19 | 153 | 13 | 

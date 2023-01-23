@@ -1,6 +1,6 @@
 # archguard/archguard - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 448 | 72 | 
 | 2023-01-21 | 448 | 72 | 
 | 2023-01-20 | 448 | 72 | 
 | 2023-01-19 | 448 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 446 | 72 | 
 | 2022-12-25 | 446 | 72 | 
 | 2022-12-24 | 446 | 72 | 
-| 2022-12-23 | 446 | 72 | 
 

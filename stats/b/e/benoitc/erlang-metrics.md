@@ -1,10 +1,10 @@
 # benoitc/erlang-metrics - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 18
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/benoitc/erlang-metrics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 69 | 18 | 
 | 2023-01-21 | 68 | 18 | 
 | 2023-01-20 | 68 | 18 | 
 | 2023-01-19 | 68 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 68 | 18 | 
 | 2022-12-25 | 68 | 18 | 
 | 2022-12-24 | 68 | 18 | 
-| 2022-12-23 | 68 | 18 | 
 

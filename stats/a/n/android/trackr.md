@@ -1,10 +1,10 @@
 # android/trackr - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 84
 
-★ Stars: 635
+★ Stars: 636
 
 [Open repository](https://github.com/android/trackr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 636 | 84 | 
 | 2023-01-21 | 635 | 84 | 
 | 2023-01-20 | 634 | 84 | 
 | 2023-01-19 | 634 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 633 | 81 | 
 | 2022-12-25 | 633 | 81 | 
 | 2022-12-24 | 633 | 81 | 
-| 2022-12-23 | 633 | 81 | 
 

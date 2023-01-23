@@ -1,10 +1,10 @@
 # RIKI-05/MOMOMIA - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 108
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/RIKI-05/MOMOMIA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 44 | 108 | 
 | 2023-01-21 | 43 | 108 | 
 | 2023-01-20 | 43 | 109 | 
 | 2023-01-19 | 43 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 43 | 105 | 
 | 2022-12-25 | 43 | 105 | 
 | 2022-12-24 | 43 | 105 | 
-| 2022-12-23 | 43 | 105 | 
 

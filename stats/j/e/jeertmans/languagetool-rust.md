@@ -1,10 +1,10 @@
 # jeertmans/languagetool-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/jeertmans/languagetool-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 91 | 1 | 
 | 2023-01-21 | 90 | 1 | 
 | 2023-01-20 | 90 | 1 | 
 | 2023-01-19 | 90 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 88 | 1 | 
 | 2022-12-26 | 88 | 1 | 
 | 2022-12-25 | 88 | 1 | 
-| 2022-12-24 | 88 | 1 | 
 

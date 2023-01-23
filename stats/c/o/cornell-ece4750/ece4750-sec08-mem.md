@@ -1,6 +1,6 @@
 # cornell-ece4750/ece4750-sec08-mem - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | - | 3 | 
 | 2023-01-22 | - | 3 | 
 | 2023-01-20 | - | 3 | 
 | 2023-01-19 | - | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | - | 3 | 
 | 2022-12-26 | - | 3 | 
 | 2022-12-24 | - | 3 | 
-| 2022-12-23 | - | 3 | 
 

@@ -1,10 +1,10 @@
 # flyinghead/flycast - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 108
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/flyinghead/flycast)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 666 | 108 | 
 | 2023-01-21 | 665 | 108 | 
 | 2023-01-20 | 664 | 108 | 
 | 2023-01-19 | 662 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 633 | 103 | 
 | 2022-12-25 | 631 | 103 | 
 | 2022-12-24 | 630 | 104 | 
-| 2022-12-23 | 629 | 104 | 
 

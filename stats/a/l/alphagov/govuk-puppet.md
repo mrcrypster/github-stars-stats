@@ -1,10 +1,10 @@
 # alphagov/govuk-puppet - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 43
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/alphagov/govuk-puppet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 125 | 43 | 
 | 2023-01-21 | 124 | 43 | 
 | 2023-01-20 | 124 | 43 | 
 | 2023-01-19 | 124 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 123 | 43 | 
 | 2022-12-25 | 123 | 43 | 
 | 2022-12-24 | 123 | 43 | 
-| 2022-12-23 | 123 | 43 | 
 

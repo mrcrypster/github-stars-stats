@@ -1,10 +1,10 @@
 # ZaneYork/SMAPI-Android-Installer - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 33
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/ZaneYork/SMAPI-Android-Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 252 | 33 | 
 | 2023-01-21 | 251 | 33 | 
 | 2023-01-20 | 249 | 33 | 
 | 2023-01-19 | 245 | 33 | 

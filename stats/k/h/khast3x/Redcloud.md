@@ -1,6 +1,6 @@
 # khast3x/Redcloud - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1043 | 192 | 
 | 2023-01-21 | 1043 | 192 | 
 | 2023-01-20 | 1043 | 193 | 
 | 2023-01-19 | 1042 | 193 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1036 | 191 | 
 | 2022-12-25 | 1036 | 191 | 
 | 2022-12-24 | 1036 | 191 | 
-| 2022-12-23 | 1036 | 191 | 
 

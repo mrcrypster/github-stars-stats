@@ -1,10 +1,10 @@
 # yeahhub/Hacking-Security-Ebooks - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 863
 
-★ Stars: 3921
+★ Stars: 3922
 
 [Open repository](https://github.com/yeahhub/Hacking-Security-Ebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 3922 | 863 | 
 | 2023-01-21 | 3921 | 863 | 
 | 2023-01-20 | 3917 | 862 | 
 | 2023-01-19 | 3915 | 862 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 3878 | 858 | 
 | 2022-12-26 | 3877 | 857 | 
 | 2022-12-25 | 3875 | 857 | 
-| 2022-12-24 | 3874 | 856 | 
 

@@ -1,6 +1,6 @@
 # carloswvas/Educacional - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1 | 9 | 
 | 2023-01-21 | 1 | 9 | 
 | 2023-01-20 | 1 | 9 | 
 | 2023-01-19 | 1 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 1 | 10 | 
 | 2022-12-26 | 1 | 10 | 
 | 2022-12-25 | 1 | 10 | 
-| 2022-12-23 | 1 | 10 | 
 

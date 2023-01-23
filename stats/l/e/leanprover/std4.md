@@ -1,6 +1,6 @@
 # leanprover/std4 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 59 | 23 | 
 | 2023-01-21 | 59 | 23 | 
 | 2023-01-20 | 59 | 24 | 
 | 2023-01-19 | 59 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 56 | 17 | 
 | 2022-12-25 | 56 | 17 | 
 | 2022-12-24 | 56 | 17 | 
-| 2022-12-23 | 56 | 17 | 
 

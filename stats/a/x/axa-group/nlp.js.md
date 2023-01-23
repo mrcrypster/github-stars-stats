@@ -1,10 +1,10 @@
 # axa-group/nlp.js - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
-☋ Forks: 539
+☋ Forks: 540
 
-★ Stars: 5333
+★ Stars: 5334
 
 [Open repository](https://github.com/axa-group/nlp.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 5334 | 540 | 
 | 2023-01-21 | 5333 | 539 | 
 | 2023-01-20 | 5332 | 539 | 
 | 2023-01-19 | 5328 | 539 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 5287 | 532 | 
 | 2022-12-25 | 5284 | 531 | 
 | 2022-12-24 | 5281 | 531 | 
-| 2022-12-23 | 5277 | 531 | 
 

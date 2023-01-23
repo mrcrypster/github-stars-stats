@@ -1,8 +1,8 @@
 # cs1302uga/cs1302-tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 213
+☋ Forks: 214
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 34 | 214 | 
 | 2023-01-21 | 34 | 213 | 
 | 2023-01-20 | 34 | 213 | 
 | 2023-01-19 | 34 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 31 | 206 | 
 | 2022-12-25 | 31 | 206 | 
 | 2022-12-24 | 31 | 206 | 
-| 2022-12-23 | 31 | 206 | 
 

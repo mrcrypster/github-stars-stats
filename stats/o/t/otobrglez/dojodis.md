@@ -1,6 +1,6 @@
 # otobrglez/dojodis - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 27 | 1 | 
 | 2023-01-22 | 27 | 1 | 
 | 2023-01-20 | 27 | 1 | 
 | 2023-01-19 | 27 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 27 | 1 | 
 | 2022-12-26 | 27 | 1 | 
 | 2022-12-25 | 27 | 1 | 
-| 2022-12-23 | 27 | 1 | 
 

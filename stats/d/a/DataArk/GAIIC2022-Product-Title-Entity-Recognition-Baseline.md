@@ -1,6 +1,6 @@
 # DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 53 | 16 | 
 | 2023-01-21 | 53 | 16 | 
 | 2023-01-20 | 53 | 16 | 
 | 2023-01-19 | 53 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 53 | 17 | 
 | 2022-12-25 | 53 | 17 | 
 | 2022-12-24 | 53 | 17 | 
-| 2022-12-23 | 53 | 17 | 
 

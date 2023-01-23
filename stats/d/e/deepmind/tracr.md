@@ -1,6 +1,6 @@
 # deepmind/tracr - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 261 | 13 | 
 | 2023-01-21 | 261 | 13 | 
 | 2023-01-20 | 260 | 13 | 
 | 2023-01-19 | 257 | 13 | 

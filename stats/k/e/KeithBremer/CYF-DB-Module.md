@@ -1,6 +1,6 @@
 # KeithBremer/CYF-DB-Module - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 37
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1 | 37 | 
+| 2023-01-22 | 1 | 37 | 
 | 2023-01-21 | 1 | 37 | 
 | 2023-01-20 | 1 | 36 | 
 | 2023-01-19 | 1 | 36 | 

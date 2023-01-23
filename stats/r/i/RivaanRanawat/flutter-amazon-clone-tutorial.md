@@ -1,8 +1,8 @@
 # RivaanRanawat/flutter-amazon-clone-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 160
+☋ Forks: 161
 
 ★ Stars: 313
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 313 | 161 | 
 | 2023-01-21 | 313 | 160 | 
 | 2023-01-20 | 313 | 160 | 
 | 2023-01-19 | 312 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 297 | 158 | 
 | 2022-12-25 | 297 | 158 | 
 | 2022-12-24 | 297 | 156 | 
-| 2022-12-23 | 297 | 156 | 
 

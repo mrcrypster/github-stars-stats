@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 22
 
-☋ Forks: 1862
+☋ Forks: 1864
 
-★ Stars: 3302
+★ Stars: 3305
 
 [Open repository](https://github.com/ValveSoftware/source-sdk-2013)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 3302 | 1862 | 
+| 2023-01-22 | 3305 | 1864 | 
 | 2023-01-20 | 3299 | 1859 | 
 | 2023-01-19 | 3298 | 1859 | 
 | 2023-01-18 | 3297 | 1857 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 3268 | 1842 | 
 | 2022-12-25 | 3267 | 1840 | 
 | 2022-12-24 | 3265 | 1839 | 
-| 2022-12-23 | 3263 | 1839 | 
 

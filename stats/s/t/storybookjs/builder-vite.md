@@ -1,6 +1,6 @@
 # storybookjs/builder-vite - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 823 | 106 | 
 | 2023-01-21 | 823 | 106 | 
 | 2023-01-20 | 822 | 106 | 
 | 2023-01-19 | 822 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 812 | 102 | 
 | 2022-12-25 | 812 | 102 | 
 | 2022-12-24 | 812 | 102 | 
-| 2022-12-23 | 811 | 102 | 
 

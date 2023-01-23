@@ -1,10 +1,10 @@
 # dcloudio/hello-uniapp - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1547
 
-★ Stars: 2209
+★ Stars: 2210
 
 [Open repository](https://github.com/dcloudio/hello-uniapp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2210 | 1547 | 
 | 2023-01-21 | 2209 | 1547 | 
 | 2023-01-20 | 2209 | 1547 | 
 | 2023-01-19 | 2208 | 1547 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 2194 | 1542 | 
 | 2022-12-25 | 2194 | 1542 | 
 | 2022-12-24 | 2194 | 1542 | 
-| 2022-12-23 | 2193 | 1541 | 
 

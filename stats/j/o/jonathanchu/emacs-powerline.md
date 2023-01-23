@@ -1,6 +1,6 @@
 # jonathanchu/emacs-powerline - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 384 | 39 | 
 | 2023-01-21 | 384 | 39 | 
 | 2023-01-20 | 384 | 39 | 
 | 2023-01-19 | 384 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 371 | 38 | 
 | 2022-12-25 | 371 | 38 | 
 | 2022-12-24 | 371 | 38 | 
-| 2022-12-23 | 371 | 38 | 
 

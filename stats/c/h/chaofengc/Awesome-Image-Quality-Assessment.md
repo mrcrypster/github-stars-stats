@@ -1,6 +1,6 @@
 # chaofengc/Awesome-Image-Quality-Assessment - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 223 | 26 | 
 | 2023-01-21 | 223 | 26 | 
 | 2023-01-20 | 223 | 26 | 
 | 2023-01-19 | 222 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 206 | 23 | 
 | 2022-12-25 | 206 | 23 | 
 | 2022-12-24 | 206 | 23 | 
-| 2022-12-23 | 206 | 23 | 
 

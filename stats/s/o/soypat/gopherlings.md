@@ -1,8 +1,8 @@
 # soypat/gopherlings - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 608
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 608 | 30 | 
 | 2023-01-21 | 608 | 29 | 
 | 2023-01-20 | 608 | 29 | 
 | 2023-01-19 | 608 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 603 | 27 | 
 | 2022-12-25 | 603 | 27 | 
 | 2022-12-24 | 602 | 27 | 
-| 2022-12-23 | 602 | 27 | 
 

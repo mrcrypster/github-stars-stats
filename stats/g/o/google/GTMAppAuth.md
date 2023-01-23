@@ -1,10 +1,10 @@
 # google/GTMAppAuth - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 218
 
-★ Stars: 313
+★ Stars: 314
 
 [Open repository](https://github.com/google/GTMAppAuth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 314 | 218 | 
 | 2023-01-21 | 313 | 218 | 
 | 2023-01-20 | 313 | 218 | 
 | 2023-01-19 | 313 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 310 | 218 | 
 | 2022-12-25 | 310 | 218 | 
 | 2022-12-24 | 310 | 218 | 
-| 2022-12-23 | 310 | 218 | 
 

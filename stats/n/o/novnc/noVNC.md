@@ -1,10 +1,10 @@
 # novnc/noVNC - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1958
 
-★ Stars: 9411
+★ Stars: 9414
 
 [Open repository](https://github.com/novnc/noVNC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 9414 | 1958 | 
 | 2023-01-22 | 9411 | 1958 | 
 | 2023-01-21 | 9407 | 1958 | 
 | 2023-01-19 | 9405 | 1956 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 9331 | 1948 | 
 | 2022-12-25 | 9328 | 1948 | 
 | 2022-12-24 | 9327 | 1947 | 
-| 2022-12-23 | 9326 | 1946 | 
 

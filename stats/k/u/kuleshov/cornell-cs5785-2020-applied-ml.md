@@ -1,10 +1,10 @@
 # kuleshov/cornell-cs5785-2020-applied-ml - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 182
 
-★ Stars: 606
+★ Stars: 607
 
 [Open repository](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 607 | 182 | 
 | 2023-01-21 | 606 | 182 | 
 | 2023-01-20 | 606 | 182 | 
 | 2023-01-19 | 605 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 545 | 167 | 
 | 2022-12-25 | 543 | 167 | 
 | 2022-12-24 | 542 | 167 | 
-| 2022-12-23 | 541 | 167 | 
 

@@ -1,6 +1,6 @@
 # JanMoonsUGent/topacademy - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | - | 31 | 
 | 2023-01-21 | - | 31 | 
 | 2023-01-20 | - | 31 | 
 | 2023-01-19 | - | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | - | 23 | 
 | 2022-12-25 | - | 23 | 
 | 2022-12-24 | - | 23 | 
-| 2022-12-23 | - | 23 | 
 

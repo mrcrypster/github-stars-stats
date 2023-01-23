@@ -1,6 +1,6 @@
 # digital-asset/lib-finance - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 13 | 6 | 
 | 2023-01-22 | 13 | 6 | 
 | 2023-01-20 | 13 | 6 | 
 | 2023-01-19 | 13 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 14 | 6 | 
 | 2022-12-26 | 14 | 6 | 
 | 2022-12-24 | 14 | 6 | 
-| 2022-12-23 | 14 | 6 | 
 

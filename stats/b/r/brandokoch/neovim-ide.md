@@ -1,10 +1,10 @@
 # brandokoch/neovim-ide - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/brandokoch/neovim-ide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 16 | - | 
 | 2023-01-21 | 17 | - | 
 | 2023-01-20 | 17 | - | 
 | 2023-01-19 | 17 | - | 

@@ -1,6 +1,6 @@
 # Code-Pop/pwa-with-vue-3 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 30 | 28 | 
 | 2023-01-22 | 30 | 28 | 
 | 2023-01-20 | 30 | 28 | 
 | 2023-01-19 | 30 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 30 | 28 | 
 | 2022-12-25 | 30 | 28 | 
 | 2022-12-24 | 30 | 28 | 
-| 2022-12-23 | 30 | 28 | 
 

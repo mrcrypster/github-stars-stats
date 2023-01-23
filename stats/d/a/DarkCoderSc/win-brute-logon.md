@@ -1,6 +1,6 @@
 # DarkCoderSc/win-brute-logon - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 958 | 173 | 
 | 2023-01-21 | 958 | 173 | 
 | 2023-01-20 | 958 | 173 | 
 | 2023-01-19 | 957 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 947 | 169 | 
 | 2022-12-25 | 947 | 169 | 
 | 2022-12-24 | 947 | 169 | 
-| 2022-12-23 | 946 | 169 | 
 

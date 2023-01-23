@@ -1,10 +1,10 @@
 # skoro/php-tkui - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 7
 
-★ Stars: 348
+★ Stars: 347
 
 [Open repository](https://github.com/skoro/php-tkui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 347 | 7 | 
 | 2023-01-21 | 348 | 7 | 
 | 2023-01-20 | 348 | 7 | 
 | 2023-01-19 | 348 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 341 | 7 | 
 | 2022-12-25 | 341 | 7 | 
 | 2022-12-24 | 342 | 7 | 
-| 2022-12-23 | 341 | 7 | 
 

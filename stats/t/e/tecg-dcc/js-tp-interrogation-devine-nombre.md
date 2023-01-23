@@ -1,6 +1,6 @@
 # tecg-dcc/js-tp-interrogation-devine-nombre - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | - | 10 | 
 | 2023-01-22 | - | 10 | 
 | 2023-01-20 | - | 10 | 
 | 2023-01-19 | - | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | - | 10 | 
 | 2022-12-26 | - | 10 | 
 | 2022-12-25 | - | 10 | 
-| 2022-12-24 | - | 10 | 
 

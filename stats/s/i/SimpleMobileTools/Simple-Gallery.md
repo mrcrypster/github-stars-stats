@@ -1,10 +1,10 @@
 # SimpleMobileTools/Simple-Gallery - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
-☋ Forks: 620
+☋ Forks: 622
 
-★ Stars: 2826
+★ Stars: 2828
 
 [Open repository](https://github.com/SimpleMobileTools/Simple-Gallery)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2828 | 622 | 
+| 2023-01-22 | 2828 | 622 | 
 | 2023-01-21 | 2826 | 620 | 
 | 2023-01-20 | 2822 | 618 | 
 | 2023-01-19 | 2820 | 618 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 2785 | 616 | 
 | 2022-12-25 | 2782 | 616 | 
 | 2022-12-24 | 2781 | 616 | 
-| 2022-12-23 | 2782 | 616 | 
 

@@ -1,6 +1,6 @@
 # veb-101/Data-Science-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 672 | 244 | 
 | 2023-01-21 | 672 | 244 | 
 | 2023-01-20 | 671 | 243 | 
 | 2023-01-19 | 670 | 242 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 647 | 237 | 
 | 2022-12-25 | 646 | 237 | 
 | 2022-12-24 | 644 | 237 | 
-| 2022-12-23 | 643 | 237 | 
 

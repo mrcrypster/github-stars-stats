@@ -1,6 +1,6 @@
 # myspaghetti/macos-virtualbox - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1071
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 12751 | 1071 | 
 | 2023-01-21 | 12751 | 1071 | 
 | 2023-01-20 | 12748 | 1071 | 
 | 2023-01-19 | 12743 | 1071 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 12649 | 1057 | 
 | 2022-12-25 | 12646 | 1056 | 
 | 2022-12-24 | 12644 | 1056 | 
-| 2022-12-23 | 12641 | 1056 | 
 

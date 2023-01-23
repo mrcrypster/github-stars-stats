@@ -1,6 +1,6 @@
 # prefuse/Flare - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 330 | 75 | 
 | 2023-01-21 | 330 | 75 | 
 | 2023-01-20 | 330 | 75 | 
 | 2023-01-19 | 330 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 329 | 75 | 
 | 2022-12-25 | 329 | 75 | 
 | 2022-12-24 | 329 | 75 | 
-| 2022-12-23 | 329 | 75 | 
 

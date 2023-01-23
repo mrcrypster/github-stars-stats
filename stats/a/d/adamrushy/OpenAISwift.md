@@ -1,10 +1,10 @@
 # adamrushy/OpenAISwift - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 39
 
-★ Stars: 353
+★ Stars: 357
 
 [Open repository](https://github.com/adamrushy/OpenAISwift)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 357 | 39 | 
 | 2023-01-21 | 353 | 39 | 
 | 2023-01-20 | 351 | 39 | 
 | 2023-01-19 | 346 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 232 | 20 | 
 | 2022-12-25 | 225 | 19 | 
 | 2022-12-24 | 216 | 19 | 
-| 2022-12-23 | 190 | 18 | 
 

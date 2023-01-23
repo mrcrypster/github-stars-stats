@@ -1,8 +1,8 @@
 # varadbhogayata/varadbhogayata.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 287
+☋ Forks: 286
 
 ★ Stars: 454
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 454 | 286 | 
 | 2023-01-21 | 454 | 287 | 
 | 2023-01-20 | 453 | 286 | 
 | 2023-01-18 | 450 | 288 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 435 | 275 | 
 | 2022-12-26 | 434 | 274 | 
 | 2022-12-25 | 434 | 274 | 
-| 2022-12-24 | 434 | 274 | 
 

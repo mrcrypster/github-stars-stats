@@ -1,6 +1,6 @@
 # webfansplz/temir-snake-game - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 108 | 5 | 
 | 2023-01-21 | 108 | 5 | 
 | 2023-01-20 | 108 | 5 | 
 | 2023-01-19 | 108 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 106 | 4 | 
 | 2022-12-25 | 106 | 4 | 
 | 2022-12-24 | 105 | 4 | 
-| 2022-12-23 | 105 | 4 | 
 

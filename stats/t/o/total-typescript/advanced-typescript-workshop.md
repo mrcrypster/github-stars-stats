@@ -1,6 +1,6 @@
 # total-typescript/advanced-typescript-workshop - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 780 | 113 | 
 | 2023-01-21 | 780 | 113 | 
 | 2023-01-20 | 780 | 113 | 
 | 2023-01-19 | 780 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 775 | 110 | 
 | 2022-12-25 | 774 | 110 | 
 | 2022-12-24 | 773 | 110 | 
-| 2022-12-23 | 772 | 110 | 
 

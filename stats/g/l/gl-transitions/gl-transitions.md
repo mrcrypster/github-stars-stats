@@ -1,10 +1,10 @@
 # gl-transitions/gl-transitions - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 249
 
-★ Stars: 1403
+★ Stars: 1404
 
 [Open repository](https://github.com/gl-transitions/gl-transitions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1404 | 249 | 
 | 2023-01-21 | 1403 | 249 | 
 | 2023-01-20 | 1402 | 249 | 
 | 2023-01-19 | 1402 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1395 | 249 | 
 | 2022-12-25 | 1394 | 249 | 
 | 2022-12-24 | 1394 | 249 | 
-| 2022-12-23 | 1394 | 249 | 
 

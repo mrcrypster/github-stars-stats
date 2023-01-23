@@ -1,6 +1,6 @@
 # Lojemiru/Chameleon - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 16 | 1 | 
 | 2023-01-21 | 16 | 1 | 
 | 2023-01-20 | 16 | 1 | 
 | 2023-01-19 | 16 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 13 | - | 
 | 2022-12-25 | 13 | - | 
 | 2022-12-24 | 13 | - | 
-| 2022-12-23 | 13 | - | 
 

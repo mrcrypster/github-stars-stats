@@ -1,6 +1,6 @@
 # Armael/pixels - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 11 | - | 
 | 2023-01-21 | 11 | - | 
 

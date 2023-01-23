@@ -1,6 +1,6 @@
 # k0keoyo/my_vulnerabilities - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 115 | 29 | 
 | 2023-01-21 | 115 | 29 | 
 | 2023-01-20 | 115 | 29 | 
 | 2023-01-19 | 115 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 115 | 28 | 
 | 2022-12-26 | 115 | 28 | 
 | 2022-12-25 | 115 | 28 | 
-| 2022-12-24 | 115 | 28 | 
 

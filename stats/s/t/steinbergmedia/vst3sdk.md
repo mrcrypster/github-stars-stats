@@ -1,10 +1,10 @@
 # steinbergmedia/vst3sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 116
 
-★ Stars: 1253
+★ Stars: 1254
 
 [Open repository](https://github.com/steinbergmedia/vst3sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1254 | 116 | 
 | 2023-01-21 | 1253 | 116 | 
 | 2023-01-20 | 1253 | 116 | 
 | 2023-01-19 | 1252 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1227 | 114 | 
 | 2022-12-25 | 1227 | 114 | 
 | 2022-12-24 | 1226 | 114 | 
-| 2022-12-23 | 1226 | 113 | 
 

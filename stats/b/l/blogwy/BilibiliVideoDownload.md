@@ -1,8 +1,8 @@
 # blogwy/BilibiliVideoDownload - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 276
+☋ Forks: 277
 
 ★ Stars: 1955
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1955 | 277 | 
 | 2023-01-21 | 1955 | 276 | 
 | 2023-01-20 | 1952 | 276 | 
 | 2023-01-19 | 1951 | 276 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1907 | 275 | 
 | 2022-12-25 | 1903 | 275 | 
 | 2022-12-24 | 1899 | 275 | 
-| 2022-12-23 | 1894 | 274 | 
 

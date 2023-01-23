@@ -1,10 +1,10 @@
 # bchavez/Bogus - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 395
 
-★ Stars: 6633
+★ Stars: 6634
 
 [Open repository](https://github.com/bchavez/Bogus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 6634 | 395 | 
 | 2023-01-21 | 6633 | 395 | 
 | 2023-01-20 | 6629 | 395 | 
 | 2023-01-19 | 6625 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 6564 | 391 | 
 | 2022-12-25 | 6561 | 391 | 
 | 2022-12-24 | 6559 | 391 | 
-| 2022-12-23 | 6551 | 391 | 
 

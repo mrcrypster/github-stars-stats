@@ -1,10 +1,10 @@
 # hluk/CopyQ - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 351
 
-★ Stars: 5957
+★ Stars: 5958
 
 [Open repository](https://github.com/hluk/CopyQ)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5958 | 351 | 
 | 2023-01-21 | 5957 | 351 | 
 | 2023-01-20 | 5948 | 351 | 
 | 2023-01-19 | 5939 | 350 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 5833 | 346 | 
 | 2022-12-25 | 5831 | 346 | 
 | 2022-12-24 | 5829 | 347 | 
-| 2022-12-23 | 5827 | 347 | 
 

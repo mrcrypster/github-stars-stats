@@ -1,8 +1,8 @@
 # alura/techguide - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 160
+☋ Forks: 161
 
 ★ Stars: 1456
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1456 | 161 | 
 | 2023-01-21 | 1456 | 160 | 
 | 2023-01-20 | 1452 | 159 | 
 | 2023-01-19 | 1446 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1379 | 130 | 
 | 2022-12-25 | 1374 | 129 | 
 | 2022-12-24 | 1373 | 129 | 
-| 2022-12-23 | 1372 | 127 | 
 

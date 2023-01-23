@@ -1,6 +1,6 @@
 # larivierec/home-cluster - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5 | 2 | 
 | 2023-01-21 | 5 | 2 | 
 | 2023-01-20 | 5 | 2 | 
 | 2023-01-19 | 5 | 2 | 

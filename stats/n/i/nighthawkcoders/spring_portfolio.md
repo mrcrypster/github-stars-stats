@@ -1,6 +1,6 @@
 # nighthawkcoders/spring_portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | - | 78 | 
 | 2023-01-21 | - | 78 | 
 | 2023-01-20 | - | 78 | 
 | 2023-01-19 | - | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | - | 78 | 
 | 2022-12-25 | - | 78 | 
 | 2022-12-24 | - | 78 | 
-| 2022-12-23 | - | 78 | 
 

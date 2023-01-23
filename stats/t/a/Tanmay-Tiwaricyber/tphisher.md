@@ -1,10 +1,10 @@
 # Tanmay-Tiwaricyber/tphisher - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/Tanmay-Tiwaricyber/tphisher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 65 | 15 | 
 | 2023-01-21 | 64 | 15 | 
 | 2023-01-20 | 64 | 15 | 
 | 2023-01-19 | 64 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 62 | 14 | 
 | 2022-12-25 | 62 | 14 | 
 | 2022-12-24 | 62 | 14 | 
-| 2022-12-23 | 62 | 14 | 
 

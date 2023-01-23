@@ -1,6 +1,6 @@
 # nvim-treesitter/playground - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 592 | 37 | 
 | 2023-01-21 | 592 | 37 | 
 | 2023-01-20 | 589 | 37 | 
 | 2023-01-19 | 582 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 561 | 33 | 
 | 2022-12-25 | 559 | 33 | 
 | 2022-12-24 | 557 | 33 | 
-| 2022-12-23 | 555 | 33 | 
 

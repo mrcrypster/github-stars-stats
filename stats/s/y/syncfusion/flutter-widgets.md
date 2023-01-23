@@ -1,10 +1,10 @@
 # syncfusion/flutter-widgets - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 418
 
-★ Stars: 1015
+★ Stars: 1016
 
 [Open repository](https://github.com/syncfusion/flutter-widgets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1016 | 418 | 
 | 2023-01-21 | 1015 | 418 | 
 | 2023-01-20 | 1015 | 417 | 
 | 2023-01-19 | 1014 | 416 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 996 | 407 | 
 | 2022-12-25 | 995 | 407 | 
 | 2022-12-24 | 994 | 407 | 
-| 2022-12-23 | 994 | 407 | 
 

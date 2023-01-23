@@ -1,6 +1,6 @@
 # kwsch/PKHeX.Mobile - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 441 | 246 | 
 | 2023-01-21 | 441 | 246 | 
 | 2023-01-20 | 440 | 246 | 
 | 2023-01-19 | 440 | 245 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 424 | 239 | 
 | 2022-12-25 | 424 | 239 | 
 | 2022-12-24 | 423 | 239 | 
-| 2022-12-23 | 422 | 238 | 
 

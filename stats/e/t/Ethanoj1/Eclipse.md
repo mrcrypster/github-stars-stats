@@ -1,6 +1,6 @@
 # Ethanoj1/Eclipse - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 12 | 27 | 
 | 2023-01-21 | 12 | 27 | 
 | 2023-01-20 | 12 | 27 | 
 | 2023-01-19 | 12 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 11 | 26 | 
 | 2022-12-25 | 11 | 26 | 
 | 2022-12-24 | 11 | 26 | 
-| 2022-12-23 | 11 | 26 | 
 

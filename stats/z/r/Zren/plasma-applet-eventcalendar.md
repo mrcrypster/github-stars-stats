@@ -1,6 +1,6 @@
 # Zren/plasma-applet-eventcalendar - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 373 | 70 | 
 | 2023-01-21 | 373 | 70 | 
 | 2023-01-20 | 373 | 70 | 
 | 2023-01-19 | 373 | 70 | 

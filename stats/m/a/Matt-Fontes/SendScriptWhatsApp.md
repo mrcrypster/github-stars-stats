@@ -1,10 +1,10 @@
 # Matt-Fontes/SendScriptWhatsApp - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 1020
+☋ Forks: 1022
 
-★ Stars: 1068
+★ Stars: 1069
 
 [Open repository](https://github.com/Matt-Fontes/SendScriptWhatsApp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1069 | 1022 | 
 | 2023-01-21 | 1068 | 1020 | 
 | 2023-01-20 | 1067 | 1020 | 
 | 2023-01-19 | 1067 | 1019 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 1053 | 1022 | 
 | 2022-12-26 | 1053 | 1021 | 
 | 2022-12-25 | 1053 | 1021 | 
-| 2022-12-24 | 1053 | 1021 | 
 

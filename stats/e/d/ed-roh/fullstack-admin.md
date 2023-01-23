@@ -1,10 +1,10 @@
 # ed-roh/fullstack-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 141
+☋ Forks: 142
 
-★ Stars: 140
+★ Stars: 143
 
 [Open repository](https://github.com/ed-roh/fullstack-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 143 | 142 | 
 | 2023-01-21 | 140 | 141 | 
 | 2023-01-20 | 136 | 136 | 
 | 2023-01-19 | 130 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 79 | 78 | 
 | 2022-12-25 | 74 | 75 | 
 | 2022-12-24 | 74 | 73 | 
-| 2022-12-23 | 74 | 69 | 
 

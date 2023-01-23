@@ -1,6 +1,6 @@
 # mviereck/x11docker - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 331
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 4589 | 331 | 
 | 2023-01-22 | 4589 | 331 | 
 | 2023-01-21 | 4587 | 331 | 
 | 2023-01-19 | 4581 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 4526 | 325 | 
 | 2022-12-26 | 4521 | 325 | 
 | 2022-12-25 | 4521 | 324 | 
-| 2022-12-24 | 4521 | 324 | 
 

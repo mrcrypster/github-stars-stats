@@ -1,10 +1,10 @@
 # daviderestivo/galactic-emacs - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 5
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/daviderestivo/galactic-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 121 | 5 | 
 | 2023-01-21 | 120 | 5 | 
 | 2023-01-20 | 120 | 5 | 
 | 2023-01-19 | 120 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 120 | 5 | 
 | 2022-12-25 | 120 | 5 | 
 | 2022-12-24 | 120 | 5 | 
-| 2022-12-23 | 120 | 5 | 
 

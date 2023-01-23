@@ -1,6 +1,6 @@
 # saiias/Scheme-Interpreter-on-Haskell - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1 | - | 
 | 2023-01-21 | 1 | - | 
 | 2023-01-20 | 1 | - | 
 | 2023-01-19 | 1 | - | 

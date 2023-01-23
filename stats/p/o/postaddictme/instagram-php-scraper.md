@@ -1,10 +1,10 @@
 # postaddictme/instagram-php-scraper - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 785
 
-★ Stars: 2762
+★ Stars: 2763
 
 [Open repository](https://github.com/postaddictme/instagram-php-scraper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2763 | 785 | 
 | 2023-01-21 | 2762 | 785 | 
 | 2023-01-20 | 2762 | 785 | 
 | 2023-01-19 | 2762 | 784 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 2755 | 781 | 
 | 2022-12-25 | 2754 | 781 | 
 | 2022-12-24 | 2753 | 781 | 
-| 2022-12-23 | 2751 | 781 | 
 

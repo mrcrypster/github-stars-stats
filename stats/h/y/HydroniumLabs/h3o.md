@@ -1,10 +1,10 @@
 # HydroniumLabs/h3o - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 13
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/HydroniumLabs/h3o)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 181 | 13 | 
 | 2023-01-21 | 180 | 13 | 
 | 2023-01-20 | 180 | 13 | 
 | 2023-01-19 | 180 | 13 | 

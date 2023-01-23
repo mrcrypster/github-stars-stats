@@ -1,10 +1,10 @@
 # stax76/mpv.net - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 133
 
-★ Stars: 1813
+★ Stars: 1814
 
 [Open repository](https://github.com/stax76/mpv.net)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1814 | 133 | 
 | 2023-01-21 | 1813 | 133 | 
 | 2023-01-20 | 1811 | 132 | 
 | 2023-01-19 | 1812 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1762 | 130 | 
 | 2022-12-25 | 1760 | 130 | 
 | 2022-12-24 | 1759 | 130 | 
-| 2022-12-23 | 1759 | 130 | 
 

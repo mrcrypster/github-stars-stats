@@ -1,6 +1,6 @@
 # astahlman/ob-async - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 308 | 29 | 
 | 2023-01-21 | 308 | 29 | 
 | 2023-01-20 | 308 | 29 | 
 | 2023-01-19 | 308 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 307 | 29 | 
 | 2022-12-25 | 307 | 29 | 
 | 2022-12-24 | 306 | 29 | 
-| 2022-12-23 | 306 | 29 | 
 

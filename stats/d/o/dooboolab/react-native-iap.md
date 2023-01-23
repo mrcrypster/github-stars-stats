@@ -1,10 +1,10 @@
 # dooboolab/react-native-iap - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 545
 
-★ Stars: 2290
+★ Stars: 2292
 
 [Open repository](https://github.com/dooboolab/react-native-iap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2292 | 545 | 
 | 2023-01-21 | 2290 | 545 | 
 | 2023-01-20 | 2288 | 545 | 
 | 2023-01-19 | 2287 | 544 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 2271 | 540 | 
 | 2022-12-25 | 2271 | 540 | 
 | 2022-12-24 | 2271 | 541 | 
-| 2022-12-23 | 2271 | 541 | 
 

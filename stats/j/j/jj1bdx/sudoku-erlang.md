@@ -1,0 +1,17 @@
+# jj1bdx/sudoku-erlang - stars & forks statistics
+
+Stats updated on Jan 2023, 22
+
+☋ Forks: 1
+
+★ Stars: 3
+
+[Open repository](https://github.com/jj1bdx/sudoku-erlang)
+
+[Open detailed stats for jj1bdx/sudoku-erlang](https://reviewgithub.com/rep/jj1bdx/sudoku-erlang)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-22 | 3 | 1 | 
+

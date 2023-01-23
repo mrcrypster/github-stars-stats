@@ -1,6 +1,6 @@
 # ShadowOne333/A-Link-to-the-Past-Redux - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 30 | - | 
 | 2023-01-21 | 30 | - | 
 | 2023-01-20 | 30 | - | 
 | 2023-01-19 | 30 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 29 | - | 
 | 2022-12-25 | 29 | - | 
 | 2022-12-24 | 29 | - | 
-| 2022-12-23 | 29 | - | 
 

@@ -1,10 +1,10 @@
 # JuliaPlots/Makie.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 193
 
-★ Stars: 1834
+★ Stars: 1835
 
 [Open repository](https://github.com/JuliaPlots/Makie.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1835 | 193 | 
 | 2023-01-21 | 1834 | 193 | 
 | 2023-01-20 | 1832 | 192 | 
 | 2023-01-19 | 1828 | 193 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1807 | 185 | 
 | 2022-12-25 | 1807 | 185 | 
 | 2022-12-24 | 1806 | 185 | 
-| 2022-12-23 | 1806 | 185 | 
 

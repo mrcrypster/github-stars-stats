@@ -1,6 +1,6 @@
 # SAP-samples/btp-service-metadata - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 29 | 3 | 
 | 2023-01-21 | 29 | 3 | 
 | 2023-01-20 | 29 | 3 | 
 | 2023-01-19 | 29 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 26 | 3 | 
 | 2022-12-26 | 26 | 3 | 
 | 2022-12-25 | 26 | 3 | 
-| 2022-12-24 | 26 | 3 | 
 

@@ -1,6 +1,6 @@
 # maykrbrito/maratona-explorer-1 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 17 | 8 | 
 | 2023-01-21 | 17 | 8 | 
 | 2023-01-20 | 17 | 8 | 
 | 2023-01-19 | 17 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 18 | 8 | 
 | 2022-12-25 | 18 | 8 | 
 | 2022-12-24 | 18 | 8 | 
-| 2022-12-23 | 18 | 8 | 
 

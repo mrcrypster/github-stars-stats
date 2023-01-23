@@ -1,10 +1,10 @@
 # nrwl/nx - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 1609
+☋ Forks: 1612
 
-★ Stars: 16186
+★ Stars: 16191
 
 [Open repository](https://github.com/nrwl/nx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 16191 | 1612 | 
 | 2023-01-21 | 16186 | 1609 | 
 | 2023-01-20 | 16174 | 1609 | 
 | 2023-01-19 | 16158 | 1607 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 15846 | 1558 | 
 | 2022-12-25 | 15829 | 1557 | 
 | 2022-12-24 | 15822 | 1557 | 
-| 2022-12-23 | 15812 | 1557 | 
 

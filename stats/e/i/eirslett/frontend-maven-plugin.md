@@ -1,6 +1,6 @@
 # eirslett/frontend-maven-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 841
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 3940 | 841 | 
 | 2023-01-21 | 3940 | 841 | 
 | 2023-01-20 | 3940 | 841 | 
 | 2023-01-19 | 3940 | 842 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 3933 | 840 | 
 | 2022-12-26 | 3933 | 840 | 
 | 2022-12-25 | 3932 | 840 | 
-| 2022-12-24 | 3931 | 840 | 
 

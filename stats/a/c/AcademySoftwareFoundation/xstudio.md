@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 22
 
-☋ Forks: 24
+☋ Forks: 34
 
-★ Stars: 202
+★ Stars: 288
 
 [Open repository](https://github.com/AcademySoftwareFoundation/xstudio)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 202 | 24 | 
+| 2023-01-22 | 288 | 34 | 
 | 2023-01-21 | 179 | 21 | 
 

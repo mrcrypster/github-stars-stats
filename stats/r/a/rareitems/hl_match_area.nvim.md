@@ -1,6 +1,6 @@
 # rareitems/hl_match_area.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 46 | - | 
 | 2023-01-21 | 46 | - | 
 | 2023-01-20 | 46 | - | 
 | 2023-01-19 | 46 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 40 | 1 | 
 | 2022-12-25 | 39 | 1 | 
 | 2022-12-24 | 39 | 1 | 
-| 2022-12-23 | 39 | 1 | 
 

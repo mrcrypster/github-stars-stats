@@ -1,6 +1,6 @@
 # google/iree - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1565 | 355 | 
 | 2023-01-21 | 1565 | 355 | 
 | 2023-01-20 | 1560 | 355 | 
 | 2023-01-19 | 1559 | 355 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1526 | 349 | 
 | 2022-12-25 | 1524 | 349 | 
 | 2022-12-24 | 1523 | 349 | 
-| 2022-12-23 | 1523 | 348 | 
 

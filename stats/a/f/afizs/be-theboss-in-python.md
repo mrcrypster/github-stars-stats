@@ -1,10 +1,10 @@
 # afizs/be-theboss-in-python - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/afizs/be-theboss-in-python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 226 | 103 | 
 | 2023-01-21 | 225 | 102 | 
 | 2023-01-20 | 225 | 100 | 
 | 2023-01-19 | 224 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 151 | 53 | 
 | 2022-12-25 | 136 | 47 | 
 | 2022-12-24 | 131 | 42 | 
-| 2022-12-23 | 131 | 42 | 
 

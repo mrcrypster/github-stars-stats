@@ -1,6 +1,6 @@
 # Netflix/mantis-mql - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 15 | 6 | 
 | 2023-01-22 | 15 | 6 | 
 | 2023-01-20 | 15 | 6 | 
 | 2023-01-19 | 15 | 6 | 

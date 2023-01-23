@@ -1,6 +1,6 @@
 # vinceliuice/Colloid-icon-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 290 | 15 | 
 | 2023-01-21 | 290 | 15 | 
 | 2023-01-20 | 289 | 16 | 
 | 2023-01-19 | 289 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 265 | 14 | 
 | 2022-12-25 | 264 | 14 | 
 | 2022-12-24 | 264 | 14 | 
-| 2022-12-23 | 262 | 14 | 
 

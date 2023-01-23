@@ -1,6 +1,6 @@
 # vezenovm/simple_shield - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 52 | 1 | 
 | 2023-01-21 | 52 | 1 | 
 | 2023-01-20 | 52 | 1 | 
 | 2023-01-19 | 52 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 50 | 1 | 
 | 2022-12-25 | 50 | 1 | 
 | 2022-12-24 | 50 | 1 | 
-| 2022-12-23 | 50 | 1 | 
 

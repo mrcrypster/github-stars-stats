@@ -1,6 +1,6 @@
 # forezp/SpringCloudLearning - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 8047
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 17066 | 8047 | 
 | 2023-01-21 | 17066 | 8047 | 
 | 2023-01-20 | 17066 | 8047 | 
 | 2023-01-19 | 17064 | 8048 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 17030 | 8048 | 
 | 2022-12-26 | 17030 | 8047 | 
 | 2022-12-25 | 17030 | 8047 | 
-| 2022-12-24 | 17028 | 8047 | 
 

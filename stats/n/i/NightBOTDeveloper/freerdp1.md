@@ -1,10 +1,10 @@
 # NightBOTDeveloper/freerdp1 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 1519
+☋ Forks: 1524
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/NightBOTDeveloper/freerdp1)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 17 | 1524 | 
 | 2023-01-21 | 16 | 1519 | 
 | 2023-01-20 | 16 | 1517 | 
 | 2023-01-19 | 16 | 1516 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 17 | 1457 | 
 | 2022-12-25 | 17 | 1456 | 
 | 2022-12-24 | 17 | 1455 | 
-| 2022-12-23 | 17 | 1454 | 
 

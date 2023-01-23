@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 65
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/cis571/lc4-labs)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 18 | 65 | 
+| 2023-01-22 | 19 | 65 | 
 | 2023-01-21 | 18 | 65 | 
 | 2023-01-20 | 18 | 62 | 
 

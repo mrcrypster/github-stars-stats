@@ -1,8 +1,8 @@
 # amarkantofficial/Windows2019RDP-US - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | - | 54 | 
 | 2023-01-22 | - | 53 | 
 | 2023-01-20 | - | 53 | 
 | 2023-01-19 | - | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | - | 52 | 
 | 2022-12-26 | - | 52 | 
 | 2022-12-24 | - | 52 | 
-| 2022-12-23 | - | 52 | 
 

@@ -1,10 +1,10 @@
 # Wilfred/deadgrep - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 46
 
-★ Stars: 596
+★ Stars: 598
 
 [Open repository](https://github.com/Wilfred/deadgrep)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 598 | 46 | 
 | 2023-01-21 | 596 | 46 | 
 | 2023-01-20 | 596 | 46 | 
 | 2023-01-19 | 595 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 593 | 45 | 
 | 2022-12-26 | 593 | 45 | 
 | 2022-12-25 | 593 | 45 | 
-| 2022-12-24 | 592 | 45 | 
 

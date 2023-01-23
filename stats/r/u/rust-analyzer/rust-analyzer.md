@@ -1,10 +1,10 @@
 # rust-analyzer/rust-analyzer - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 1150
+☋ Forks: 1151
 
-★ Stars: 11268
+★ Stars: 11271
 
 [Open repository](https://github.com/rust-analyzer/rust-analyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 11271 | 1151 | 
 | 2023-01-21 | 11268 | 1150 | 
 | 2023-01-20 | 11261 | 1148 | 
 | 2023-01-19 | 11253 | 1146 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 11106 | 1138 | 
 | 2022-12-25 | 11101 | 1138 | 
 | 2022-12-24 | 11097 | 1136 | 
-| 2022-12-23 | 11091 | 1133 | 
 

@@ -1,10 +1,10 @@
 # arsium/EagleMonitorRAT - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 114
 
-★ Stars: 311
+★ Stars: 313
 
 [Open repository](https://github.com/arsium/EagleMonitorRAT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 313 | 114 | 
 | 2023-01-22 | 311 | 114 | 
 | 2023-01-21 | 310 | 114 | 
 | 2023-01-19 | 310 | 114 | 

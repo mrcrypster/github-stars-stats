@@ -1,6 +1,6 @@
 # oddbird/oddleventy - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 3 | 3 | 
 | 2023-01-21 | 3 | 3 | 
 | 2023-01-20 | 3 | 3 | 
 | 2023-01-18 | 3 | 3 | 

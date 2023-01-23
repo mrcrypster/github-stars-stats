@@ -1,6 +1,6 @@
 # liplum/EscapeWild.Flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 15 | 4 | 
 | 2023-01-21 | 15 | 4 | 
 | 2023-01-20 | 15 | 4 | 
 | 2023-01-19 | 14 | 4 | 

@@ -1,6 +1,6 @@
 # yukilzw/dy_flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 584
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1843 | 584 | 
 | 2023-01-21 | 1843 | 584 | 
 | 2023-01-20 | 1841 | 583 | 
 | 2023-01-19 | 1841 | 583 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 1824 | 580 | 
 | 2022-12-26 | 1822 | 579 | 
 | 2022-12-25 | 1822 | 579 | 
-| 2022-12-24 | 1822 | 579 | 
 

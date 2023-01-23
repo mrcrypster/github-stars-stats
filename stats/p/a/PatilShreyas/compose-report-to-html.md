@@ -1,10 +1,10 @@
 # PatilShreyas/compose-report-to-html - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 4
 
-★ Stars: 145
+★ Stars: 149
 
 [Open repository](https://github.com/PatilShreyas/compose-report-to-html)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 149 | 4 | 
 | 2023-01-21 | 145 | 4 | 
 | 2023-01-20 | 145 | 4 | 
 | 2023-01-19 | 145 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 144 | 4 | 
 | 2022-12-25 | 144 | 4 | 
 | 2022-12-24 | 144 | 4 | 
-| 2022-12-23 | 144 | 4 | 
 

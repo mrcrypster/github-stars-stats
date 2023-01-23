@@ -1,10 +1,10 @@
 # alura-cursos/logica_progamacion_parte1 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 350
 
-★ Stars: 265
+★ Stars: 264
 
 [Open repository](https://github.com/alura-cursos/logica_progamacion_parte1)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 264 | 350 | 
 | 2023-01-21 | 265 | 350 | 
 | 2023-01-20 | 265 | 350 | 
 | 2023-01-19 | 265 | 350 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 263 | 355 | 
 | 2022-12-25 | 263 | 355 | 
 | 2022-12-24 | 263 | 354 | 
-| 2022-12-23 | 263 | 354 | 
 

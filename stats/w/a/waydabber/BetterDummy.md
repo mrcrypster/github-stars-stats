@@ -1,10 +1,10 @@
 # waydabber/BetterDummy - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 199
+☋ Forks: 200
 
-★ Stars: 8197
+★ Stars: 8212
 
 [Open repository](https://github.com/waydabber/BetterDummy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 8212 | 200 | 
 | 2023-01-21 | 8197 | 199 | 
 | 2023-01-20 | 8174 | 198 | 
 | 2023-01-19 | 8152 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 7813 | 188 | 
 | 2022-12-25 | 7807 | 188 | 
 | 2022-12-24 | 7798 | 188 | 
-| 2022-12-23 | 7783 | 188 | 
 

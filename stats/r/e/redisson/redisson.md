@@ -1,6 +1,6 @@
 # redisson/redisson - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 4939
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 20458 | 4939 | 
 | 2023-01-21 | 20458 | 4939 | 
 | 2023-01-20 | 20456 | 4939 | 
 | 2023-01-19 | 20454 | 4939 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 20340 | 4911 | 
 | 2022-12-25 | 20333 | 4911 | 
 | 2022-12-24 | 20331 | 4912 | 
-| 2022-12-23 | 20330 | 4912 | 
 

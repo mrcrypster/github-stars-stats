@@ -1,6 +1,6 @@
 # hai-27/vue-store - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 845 | 228 | 
 | 2023-01-21 | 845 | 228 | 
 | 2023-01-20 | 845 | 228 | 
 | 2023-01-19 | 845 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 826 | 223 | 
 | 2022-12-25 | 826 | 223 | 
 | 2022-12-24 | 826 | 223 | 
-| 2022-12-23 | 825 | 223 | 
 

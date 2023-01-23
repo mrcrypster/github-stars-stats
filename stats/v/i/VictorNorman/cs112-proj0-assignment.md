@@ -1,8 +1,8 @@
 # VictorNorman/cs112-proj0-assignment - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | - | 9 | 
 | 2023-01-21 | - | 8 | 
 | 2023-01-20 | - | 8 | 
 | 2023-01-19 | - | 8 | 

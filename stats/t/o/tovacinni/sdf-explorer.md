@@ -1,6 +1,6 @@
 # tovacinni/sdf-explorer - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 178 | 8 | 
 | 2023-01-21 | 178 | 8 | 
 | 2023-01-20 | 178 | 8 | 
 | 2023-01-19 | 178 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 175 | 8 | 
 | 2022-12-25 | 175 | 8 | 
 | 2022-12-24 | 175 | 8 | 
-| 2022-12-23 | 174 | 8 | 
 

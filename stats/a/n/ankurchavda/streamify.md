@@ -1,10 +1,10 @@
 # ankurchavda/streamify - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 40
 
-★ Stars: 210
+★ Stars: 209
 
 [Open repository](https://github.com/ankurchavda/streamify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 209 | 40 | 
 | 2023-01-22 | 210 | 40 | 
 | 2023-01-20 | 210 | 40 | 
 | 2023-01-19 | 210 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 206 | 39 | 
 | 2022-12-26 | 205 | 39 | 
 | 2022-12-25 | 205 | 39 | 
-| 2022-12-24 | 205 | 39 | 
 

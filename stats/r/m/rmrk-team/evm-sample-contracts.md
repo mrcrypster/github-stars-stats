@@ -1,10 +1,10 @@
 # rmrk-team/evm-sample-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/rmrk-team/evm-sample-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 13 | 2 | 
 | 2023-01-21 | 12 | 2 | 
 | 2023-01-20 | 12 | 2 | 
 | 2023-01-19 | 12 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 12 | 2 | 
 | 2022-12-25 | 12 | 2 | 
 | 2022-12-24 | 12 | 2 | 
-| 2022-12-23 | 12 | 2 | 
 

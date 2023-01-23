@@ -1,10 +1,10 @@
 # TML233/UndertaleEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 51
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/TML233/UndertaleEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 51 | 51 | 
 | 2023-01-21 | 50 | 51 | 
 | 2023-01-20 | 50 | 50 | 
 | 2023-01-18 | 50 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 50 | 48 | 
 | 2022-12-25 | 50 | 48 | 
 | 2022-12-24 | 50 | 48 | 
-| 2022-12-23 | 49 | 48 | 
 

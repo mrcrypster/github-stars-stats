@@ -1,10 +1,10 @@
 # redkubes/otomi-core - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 101
 
-★ Stars: 1521
+★ Stars: 1522
 
 [Open repository](https://github.com/redkubes/otomi-core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1522 | 101 | 
 | 2023-01-21 | 1521 | 101 | 
 | 2023-01-20 | 1521 | 100 | 
 | 2023-01-19 | 1520 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1497 | 97 | 
 | 2022-12-25 | 1497 | 96 | 
 | 2022-12-24 | 1497 | 96 | 
-| 2022-12-23 | 1496 | 96 | 
 

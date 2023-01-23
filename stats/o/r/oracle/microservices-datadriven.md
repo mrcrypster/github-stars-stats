@@ -1,8 +1,8 @@
 # oracle/microservices-datadriven - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 40 | 62 | 
 | 2023-01-21 | 40 | 61 | 
 | 2023-01-20 | 40 | 61 | 
 | 2023-01-19 | 40 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 38 | 56 | 
 | 2022-12-25 | 38 | 56 | 
 | 2022-12-24 | 38 | 56 | 
-| 2022-12-23 | 38 | 56 | 
 

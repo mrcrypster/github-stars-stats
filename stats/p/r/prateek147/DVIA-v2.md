@@ -1,6 +1,6 @@
 # prateek147/DVIA-v2 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 553 | 139 | 
 | 2023-01-21 | 553 | 139 | 
 | 2023-01-20 | 549 | 138 | 
 | 2023-01-19 | 544 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 501 | 132 | 
 | 2022-12-25 | 501 | 132 | 
 | 2022-12-24 | 501 | 132 | 
-| 2022-12-23 | 500 | 132 | 
 

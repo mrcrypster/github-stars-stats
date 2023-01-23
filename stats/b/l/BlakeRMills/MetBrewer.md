@@ -1,10 +1,10 @@
 # BlakeRMills/MetBrewer - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 62
 
-★ Stars: 815
+★ Stars: 816
 
 [Open repository](https://github.com/BlakeRMills/MetBrewer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 816 | 62 | 
 | 2023-01-21 | 815 | 62 | 
 | 2023-01-20 | 815 | 62 | 
 | 2023-01-19 | 814 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 804 | 62 | 
 | 2022-12-25 | 804 | 62 | 
 | 2022-12-24 | 804 | 62 | 
-| 2022-12-23 | 803 | 62 | 
 

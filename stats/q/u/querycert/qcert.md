@@ -1,10 +1,10 @@
 # querycert/qcert - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 9
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/querycert/qcert)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 51 | 9 | 
 | 2023-01-21 | 50 | 9 | 
 | 2023-01-20 | 50 | 9 | 
 | 2023-01-19 | 50 | 9 | 

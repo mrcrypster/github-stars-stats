@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 22
 
-☋ Forks: 34
+☋ Forks: 36
 
-★ Stars: 233
+★ Stars: 252
 
 [Open repository](https://github.com/AcademySoftwareFoundation/OpenRV)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 233 | 34 | 
+| 2023-01-22 | 252 | 36 | 
 | 2023-01-21 | 225 | 34 | 
 | 2023-01-20 | 179 | 28 | 
 

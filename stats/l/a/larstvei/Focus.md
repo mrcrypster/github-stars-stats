@@ -1,6 +1,6 @@
 # larstvei/Focus - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 392 | 12 | 
 | 2023-01-21 | 392 | 12 | 
 | 2023-01-20 | 392 | 12 | 
 | 2023-01-19 | 392 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 391 | 12 | 
 | 2022-12-25 | 391 | 12 | 
 | 2022-12-24 | 391 | 12 | 
-| 2022-12-23 | 391 | 12 | 
 

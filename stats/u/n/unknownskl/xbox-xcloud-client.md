@@ -1,10 +1,10 @@
 # unknownskl/xbox-xcloud-client - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 44
 
-★ Stars: 655
+★ Stars: 657
 
 [Open repository](https://github.com/unknownskl/xbox-xcloud-client)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 657 | 44 | 
 | 2023-01-21 | 655 | 44 | 
 | 2023-01-20 | 654 | 44 | 
 | 2023-01-19 | 652 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 569 | 37 | 
 | 2022-12-25 | 565 | 37 | 
 | 2022-12-24 | 562 | 37 | 
-| 2022-12-23 | 561 | 36 | 
 

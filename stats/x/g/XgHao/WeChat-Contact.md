@@ -1,10 +1,10 @@
 # XgHao/WeChat-Contact - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/XgHao/WeChat-Contact)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 25 | 3 | 
 | 2023-01-21 | 24 | 3 | 
 | 2023-01-20 | 23 | 3 | 
 | 2023-01-19 | 22 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 20 | 3 | 
 | 2022-12-25 | 20 | 3 | 
 | 2022-12-24 | 20 | 3 | 
-| 2022-12-23 | 20 | 3 | 
 

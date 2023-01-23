@@ -1,10 +1,10 @@
 # 0x90n/InfoSec-Black-Friday - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 224
 
-★ Stars: 1941
+★ Stars: 1940
 
 [Open repository](https://github.com/0x90n/InfoSec-Black-Friday)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1940 | 224 | 
 | 2023-01-21 | 1941 | 224 | 
 | 2023-01-19 | 1940 | 224 | 
 | 2023-01-18 | 1939 | 224 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 1934 | 225 | 
 | 2022-12-26 | 1934 | 225 | 
 | 2022-12-25 | 1934 | 225 | 
-| 2022-12-24 | 1936 | 225 | 
 

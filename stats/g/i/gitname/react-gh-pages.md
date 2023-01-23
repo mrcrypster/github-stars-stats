@@ -1,10 +1,10 @@
 # gitname/react-gh-pages - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 722
 
-★ Stars: 4471
+★ Stars: 4484
 
 [Open repository](https://github.com/gitname/react-gh-pages)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 4484 | 722 | 
 | 2023-01-21 | 4471 | 722 | 
 | 2023-01-20 | 4468 | 723 | 
 | 2023-01-19 | 4457 | 721 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 4340 | 707 | 
 | 2022-12-26 | 4337 | 708 | 
 | 2022-12-25 | 4334 | 706 | 
-| 2022-12-24 | 4330 | 707 | 
 

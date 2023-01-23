@@ -1,8 +1,8 @@
 # RizFurr18/rdp - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 53
+☋ Forks: 57
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2 | 57 | 
 | 2023-01-21 | 2 | 53 | 
 | 2023-01-20 | 2 | 49 | 
 | 2023-01-19 | 2 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1 | 21 | 
 | 2022-12-25 | 1 | 20 | 
 | 2022-12-24 | 1 | 20 | 
-| 2022-12-23 | 1 | 20 | 
 

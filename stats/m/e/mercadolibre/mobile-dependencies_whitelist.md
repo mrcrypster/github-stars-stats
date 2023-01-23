@@ -1,6 +1,6 @@
 # mercadolibre/mobile-dependencies_whitelist - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 421
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 22 | 421 | 
 | 2023-01-21 | 22 | 421 | 
 | 2023-01-20 | 22 | 421 | 
 | 2023-01-19 | 22 | 420 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 22 | 411 | 
 | 2022-12-25 | 22 | 411 | 
 | 2022-12-24 | 22 | 411 | 
-| 2022-12-23 | 22 | 411 | 
 

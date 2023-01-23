@@ -1,10 +1,10 @@
 # hitrov/oci-arm-host-capacity - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 172
 
-★ Stars: 335
+★ Stars: 336
 
 [Open repository](https://github.com/hitrov/oci-arm-host-capacity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 336 | 172 | 
 | 2023-01-21 | 335 | 172 | 
 | 2023-01-20 | 335 | 171 | 
 | 2023-01-19 | 335 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 319 | 158 | 
 | 2022-12-26 | 318 | 158 | 
 | 2022-12-25 | 318 | 157 | 
-| 2022-12-23 | 318 | 157 | 
 

@@ -1,10 +1,10 @@
 # stevencurtis/SwiftCoding - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 148
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/stevencurtis/SwiftCoding)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 387 | 148 | 
 | 2023-01-21 | 386 | 148 | 
 | 2023-01-20 | 385 | 148 | 
 | 2023-01-19 | 384 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 369 | 145 | 
 | 2022-12-25 | 369 | 145 | 
 | 2022-12-24 | 369 | 145 | 
-| 2022-12-23 | 369 | 144 | 
 

@@ -1,6 +1,6 @@
 # emacsorphanage/key-chord - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 79 | 19 | 
 | 2023-01-21 | 79 | 19 | 
 | 2023-01-20 | 79 | 19 | 
 | 2023-01-19 | 78 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 79 | 18 | 
 | 2022-12-25 | 79 | 18 | 
 | 2022-12-24 | 79 | 18 | 
-| 2022-12-23 | 79 | 18 | 
 

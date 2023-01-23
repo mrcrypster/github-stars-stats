@@ -1,8 +1,8 @@
 # Kodluyoruz/taskforce - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 2179
+☋ Forks: 2181
 
 ★ Stars: 684
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 684 | 2181 | 
 | 2023-01-21 | 684 | 2179 | 
 | 2023-01-20 | 685 | 2177 | 
 | 2023-01-19 | 686 | 2170 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 677 | 2103 | 
 | 2022-12-25 | 677 | 2096 | 
 | 2022-12-24 | 676 | 2095 | 
-| 2022-12-23 | 677 | 2093 | 
 

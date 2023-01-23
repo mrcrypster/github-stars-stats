@@ -1,10 +1,10 @@
 # auth0/java-jwt - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 877
 
-★ Stars: 5085
+★ Stars: 5086
 
 [Open repository](https://github.com/auth0/java-jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5086 | 877 | 
 | 2023-01-21 | 5085 | 877 | 
 | 2023-01-20 | 5083 | 877 | 
 | 2023-01-19 | 5083 | 877 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 5046 | 870 | 
 | 2022-12-26 | 5046 | 870 | 
 | 2022-12-25 | 5046 | 870 | 
-| 2022-12-24 | 5047 | 870 | 
 

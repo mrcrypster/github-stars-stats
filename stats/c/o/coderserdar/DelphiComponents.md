@@ -1,6 +1,6 @@
 # coderserdar/DelphiComponents - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 40 | 16 | 
 | 2023-01-21 | 40 | 16 | 
 | 2023-01-20 | 40 | 16 | 
 | 2023-01-19 | 40 | 16 | 

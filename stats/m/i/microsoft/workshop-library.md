@@ -1,10 +1,10 @@
 # microsoft/workshop-library - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 209
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/microsoft/workshop-library)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 332 | 209 | 
 | 2023-01-21 | 331 | 209 | 
 | 2023-01-20 | 331 | 209 | 
 | 2023-01-19 | 331 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 324 | 205 | 
 | 2022-12-25 | 323 | 203 | 
 | 2022-12-24 | 322 | 202 | 
-| 2022-12-23 | 321 | 202 | 
 

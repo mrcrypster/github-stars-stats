@@ -1,6 +1,6 @@
 # med0x2e/vba2clr - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 112 | 18 | 
 | 2023-01-21 | 112 | 18 | 
 | 2023-01-20 | 111 | 18 | 
 | 2023-01-19 | 111 | 18 | 

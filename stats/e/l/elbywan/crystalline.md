@@ -1,6 +1,6 @@
 # elbywan/crystalline - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 317 | 17 | 
 | 2023-01-21 | 317 | 17 | 
 | 2023-01-20 | 316 | 17 | 
 | 2023-01-19 | 316 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 306 | 15 | 
 | 2022-12-26 | 306 | 15 | 
 | 2022-12-25 | 306 | 15 | 
-| 2022-12-24 | 305 | 15 | 
 

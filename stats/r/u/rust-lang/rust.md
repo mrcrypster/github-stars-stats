@@ -1,10 +1,10 @@
 # rust-lang/rust - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 10248
+☋ Forks: 10249
 
-★ Stars: 76796
+★ Stars: 76813
 
 [Open repository](https://github.com/rust-lang/rust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 76813 | 10249 | 
 | 2023-01-21 | 76796 | 10248 | 
 | 2023-01-20 | 76754 | 10248 | 
 | 2023-01-19 | 76702 | 10243 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 75817 | 10180 | 
 | 2022-12-25 | 75793 | 10172 | 
 | 2022-12-24 | 75771 | 10169 | 
-| 2022-12-23 | 75751 | 10166 | 
 

@@ -1,10 +1,10 @@
 # stefan-hoeck/idris2-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 115
+★ Stars: 117
 
 [Open repository](https://github.com/stefan-hoeck/idris2-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 117 | 15 | 
 | 2023-01-21 | 115 | 15 | 
 | 2023-01-20 | 115 | 15 | 
 | 2023-01-19 | 115 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 112 | 16 | 
 | 2022-12-25 | 112 | 16 | 
 | 2022-12-24 | 112 | 16 | 
-| 2022-12-23 | 112 | 16 | 
 

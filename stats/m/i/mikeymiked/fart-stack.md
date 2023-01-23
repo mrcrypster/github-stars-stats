@@ -1,10 +1,10 @@
 # mikeymiked/fart-stack - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/mikeymiked/fart-stack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 36 | - | 
 | 2023-01-21 | 37 | - | 
 | 2023-01-20 | 37 | - | 
 | 2023-01-19 | 37 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 37 | - | 
 | 2022-12-25 | 37 | - | 
 | 2022-12-24 | 37 | - | 
-| 2022-12-23 | 37 | - | 
 

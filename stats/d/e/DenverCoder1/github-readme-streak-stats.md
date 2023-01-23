@@ -1,10 +1,10 @@
 # DenverCoder1/github-readme-streak-stats - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 395
+☋ Forks: 394
 
-★ Stars: 2245
+★ Stars: 2251
 
 [Open repository](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2251 | 394 | 
 | 2023-01-21 | 2245 | 395 | 
 | 2023-01-20 | 2243 | 395 | 
 | 2023-01-19 | 2233 | 394 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 2090 | 360 | 
 | 2022-12-25 | 2087 | 360 | 
 | 2022-12-24 | 2084 | 360 | 
-| 2022-12-23 | 2080 | 356 | 
 

@@ -1,10 +1,10 @@
 # AndrasKovacs/smalltt - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 23
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/AndrasKovacs/smalltt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 433 | 23 | 
 | 2023-01-21 | 432 | 23 | 
 | 2023-01-20 | 432 | 23 | 
 | 2023-01-19 | 432 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 428 | 23 | 
 | 2022-12-25 | 428 | 23 | 
 | 2022-12-24 | 428 | 23 | 
-| 2022-12-23 | 428 | 23 | 
 

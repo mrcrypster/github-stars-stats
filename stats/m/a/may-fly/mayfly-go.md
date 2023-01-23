@@ -1,6 +1,6 @@
 # may-fly/mayfly-go - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 872 | 212 | 
 | 2023-01-22 | 872 | 212 | 
 | 2023-01-20 | 871 | 212 | 
 | 2023-01-19 | 870 | 212 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 845 | 210 | 
 | 2022-12-25 | 843 | 210 | 
 | 2022-12-24 | 843 | 210 | 
-| 2022-12-23 | 842 | 210 | 
 

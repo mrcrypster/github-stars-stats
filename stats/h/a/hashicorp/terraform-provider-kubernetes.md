@@ -1,8 +1,8 @@
 # hashicorp/terraform-provider-kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
-☋ Forks: 845
+☋ Forks: 844
 
 ★ Stars: 1347
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1347 | 844 | 
 | 2023-01-21 | 1347 | 845 | 
 | 2023-01-20 | 1347 | 844 | 
 | 2023-01-19 | 1347 | 844 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1334 | 845 | 
 | 2022-12-25 | 1332 | 845 | 
 | 2022-12-24 | 1332 | 844 | 
-| 2022-12-23 | 1333 | 844 | 
 

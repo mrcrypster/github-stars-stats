@@ -1,10 +1,10 @@
 # fjqingyou/PotPlayer_Subtitle_Translate_Baidu - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 131
 
-★ Stars: 722
+★ Stars: 723
 
 [Open repository](https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 723 | 131 | 
 | 2023-01-21 | 722 | 131 | 
 | 2023-01-20 | 722 | 131 | 
 | 2023-01-19 | 721 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 708 | 129 | 
 | 2022-12-25 | 706 | 129 | 
 | 2022-12-24 | 705 | 129 | 
-| 2022-12-23 | 703 | 129 | 
 

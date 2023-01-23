@@ -1,6 +1,6 @@
 # chrismccord/single_file_phx_bumblebee_ml - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 45 | 4 | 
 | 2023-01-21 | 45 | 4 | 
 | 2023-01-20 | 44 | 4 | 
 | 2023-01-18 | 43 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 35 | 1 | 
 | 2022-12-26 | 34 | 1 | 
 | 2022-12-25 | 34 | 1 | 
-| 2022-12-24 | 34 | 1 | 
 

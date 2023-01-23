@@ -1,10 +1,10 @@
 # ilanyu/ReverseProxy - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 913
 
-★ Stars: 3270
+★ Stars: 3271
 
 [Open repository](https://github.com/ilanyu/ReverseProxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 3271 | 913 | 
 | 2023-01-21 | 3270 | 913 | 
 | 2023-01-20 | 3269 | 913 | 
 | 2023-01-19 | 3268 | 913 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 3232 | 909 | 
 | 2022-12-25 | 3230 | 909 | 
 | 2022-12-24 | 3230 | 909 | 
-| 2022-12-23 | 3230 | 909 | 
 

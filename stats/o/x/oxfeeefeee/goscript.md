@@ -1,10 +1,10 @@
 # oxfeeefeee/goscript - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 60
 
-★ Stars: 1407
+★ Stars: 1408
 
 [Open repository](https://github.com/oxfeeefeee/goscript)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1408 | 60 | 
 | 2023-01-21 | 1407 | 60 | 
 | 2023-01-20 | 1405 | 60 | 
 | 2023-01-19 | 1405 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1391 | 60 | 
 | 2022-12-25 | 1391 | 60 | 
 | 2022-12-24 | 1391 | 60 | 
-| 2022-12-23 | 1391 | 59 | 
 

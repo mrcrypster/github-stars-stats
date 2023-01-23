@@ -1,10 +1,10 @@
 # openmultiplayer/open.mp - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 16
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/openmultiplayer/open.mp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 171 | 16 | 
 | 2023-01-21 | 170 | 16 | 
 | 2023-01-20 | 167 | 18 | 
 | 2023-01-19 | 165 | 18 | 

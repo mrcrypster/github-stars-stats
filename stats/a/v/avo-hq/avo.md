@@ -1,8 +1,8 @@
 # avo-hq/avo - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 115
+☋ Forks: 116
 
 ★ Stars: 919
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 919 | 116 | 
 | 2023-01-21 | 919 | 115 | 
 | 2023-01-20 | 918 | 114 | 
 | 2023-01-19 | 919 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 899 | 110 | 
 | 2022-12-25 | 898 | 110 | 
 | 2022-12-24 | 898 | 110 | 
-| 2022-12-23 | 898 | 110 | 
 

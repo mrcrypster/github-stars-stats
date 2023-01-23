@@ -1,8 +1,8 @@
 # puncsky/system-design-and-architecture - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 458
+☋ Forks: 457
 
 ★ Stars: 1876
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1876 | 457 | 
 | 2023-01-21 | 1876 | 458 | 
 | 2023-01-20 | 1876 | 458 | 
 | 2023-01-19 | 1876 | 458 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1843 | 456 | 
 | 2022-12-25 | 1843 | 456 | 
 | 2022-12-24 | 1840 | 455 | 
-| 2022-12-23 | 1838 | 455 | 
 

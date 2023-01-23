@@ -1,6 +1,6 @@
 # fossasia/codeheat.org - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1634 | 335 | 
 | 2023-01-21 | 1634 | 335 | 
 | 2023-01-20 | 1634 | 335 | 
 | 2023-01-19 | 1634 | 335 | 

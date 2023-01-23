@@ -1,6 +1,6 @@
 # msr5464/QA-Dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 22 | 10 | 
 | 2023-01-21 | 22 | 10 | 
 | 2023-01-20 | 22 | 10 | 
 | 2023-01-19 | 22 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 21 | 10 | 
 | 2022-12-25 | 21 | 10 | 
 | 2022-12-24 | 21 | 10 | 
-| 2022-12-23 | 21 | 10 | 
 

@@ -1,10 +1,10 @@
 # srid/haskell-flake - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/srid/haskell-flake)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 49 | 2 | 
 | 2023-01-21 | 48 | 2 | 
 | 2023-01-20 | 48 | 2 | 
 | 2023-01-19 | 48 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 45 | 2 | 
 | 2022-12-26 | 45 | 2 | 
 | 2022-12-24 | 44 | 2 | 
-| 2022-12-23 | 44 | 2 | 
 

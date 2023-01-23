@@ -1,10 +1,10 @@
 # criticic/llpp - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/criticic/llpp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5 | - | 
 | 2023-01-21 | 4 | - | 
 | 2023-01-20 | 4 | - | 
 | 2023-01-19 | 4 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 3 | - | 
 | 2022-12-25 | 3 | - | 
 | 2022-12-24 | 3 | - | 
-| 2022-12-23 | 3 | - | 
 

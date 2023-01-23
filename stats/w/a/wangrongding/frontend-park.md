@@ -1,8 +1,8 @@
 # wangrongding/frontend-park - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 92
+☋ Forks: 93
 
 ★ Stars: 203
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 203 | 93 | 
 | 2023-01-21 | 203 | 92 | 
 | 2023-01-20 | 203 | 92 | 
 | 2023-01-19 | 203 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 179 | 87 | 
 | 2022-12-25 | 179 | 87 | 
 | 2022-12-24 | 179 | 87 | 
-| 2022-12-23 | 178 | 87 | 
 

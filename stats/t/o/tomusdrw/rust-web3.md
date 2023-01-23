@@ -1,6 +1,6 @@
 # tomusdrw/rust-web3 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 395
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1213 | 395 | 
 | 2023-01-21 | 1213 | 395 | 
 | 2023-01-20 | 1212 | 395 | 
 | 2023-01-19 | 1212 | 394 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1193 | 386 | 
 | 2022-12-25 | 1194 | 386 | 
 | 2022-12-24 | 1192 | 386 | 
-| 2022-12-23 | 1189 | 385 | 
 

@@ -1,10 +1,10 @@
 # rapiz1/rathole - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 255
 
-★ Stars: 4677
+★ Stars: 4675
 
 [Open repository](https://github.com/rapiz1/rathole)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 4675 | 255 | 
 | 2023-01-21 | 4677 | 255 | 
 | 2023-01-20 | 4676 | 257 | 
 | 2023-01-19 | 4671 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 4566 | 248 | 
 | 2022-12-25 | 4562 | 247 | 
 | 2022-12-24 | 4560 | 247 | 
-| 2022-12-23 | 4559 | 247 | 
 

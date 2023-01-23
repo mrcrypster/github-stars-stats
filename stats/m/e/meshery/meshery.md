@@ -1,10 +1,10 @@
 # meshery/meshery - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 790
+☋ Forks: 792
 
-★ Stars: 1664
+★ Stars: 1663
 
 [Open repository](https://github.com/meshery/meshery)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1663 | 792 | 
 | 2023-01-21 | 1664 | 790 | 
 | 2023-01-20 | 1663 | 790 | 
 | 2023-01-19 | 1663 | 789 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1641 | 777 | 
 | 2022-12-25 | 1639 | 777 | 
 | 2022-12-24 | 1637 | 778 | 
-| 2022-12-23 | 1632 | 775 | 
 

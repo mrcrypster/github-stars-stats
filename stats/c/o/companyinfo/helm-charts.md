@@ -1,10 +1,10 @@
 # companyinfo/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/companyinfo/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 27 | 1 | 
 | 2023-01-21 | 26 | 1 | 
 | 2023-01-20 | 24 | 1 | 
 | 2023-01-19 | 24 | 1 | 

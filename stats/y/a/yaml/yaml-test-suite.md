@@ -1,10 +1,10 @@
 # yaml/yaml-test-suite - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 61
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/yaml/yaml-test-suite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 119 | 61 | 
 | 2023-01-21 | 118 | 61 | 
 | 2023-01-20 | 118 | 61 | 
 | 2023-01-19 | 118 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 111 | 61 | 
 | 2022-12-25 | 111 | 61 | 
 | 2022-12-24 | 111 | 61 | 
-| 2022-12-23 | 111 | 61 | 
 

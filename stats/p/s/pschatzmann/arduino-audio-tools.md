@@ -1,10 +1,10 @@
 # pschatzmann/arduino-audio-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 89
 
-★ Stars: 541
+★ Stars: 543
 
 [Open repository](https://github.com/pschatzmann/arduino-audio-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 543 | 89 | 
 | 2023-01-21 | 541 | 89 | 
 | 2023-01-20 | 538 | 89 | 
 | 2023-01-19 | 538 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 512 | 80 | 
 | 2022-12-25 | 512 | 80 | 
 | 2022-12-24 | 511 | 79 | 
-| 2022-12-23 | 510 | 79 | 
 

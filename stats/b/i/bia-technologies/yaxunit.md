@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 87
+★ Stars: 90
 
 [Open repository](https://github.com/bia-technologies/yaxunit)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 87 | 15 | 
+| 2023-01-22 | 90 | 15 | 
 | 2023-01-21 | 87 | 15 | 
 | 2023-01-20 | 85 | 14 | 
 | 2023-01-19 | 77 | 14 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 65 | 14 | 
 | 2022-12-25 | 64 | 14 | 
 | 2022-12-24 | 64 | 14 | 
-| 2022-12-23 | 64 | 14 | 
 

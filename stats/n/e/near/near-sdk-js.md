@@ -1,8 +1,8 @@
 # near/near-sdk-js - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 163 | 58 | 
 | 2023-01-21 | 163 | 57 | 
 | 2023-01-20 | 161 | 57 | 
 | 2023-01-19 | 161 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 157 | 51 | 
 | 2022-12-25 | 157 | 51 | 
 | 2022-12-24 | 157 | 50 | 
-| 2022-12-23 | 157 | 50 | 
 

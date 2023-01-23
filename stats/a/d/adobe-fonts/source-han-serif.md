@@ -1,6 +1,6 @@
 # adobe-fonts/source-han-serif - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 644
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 6827 | 644 | 
 | 2023-01-21 | 6827 | 644 | 
 | 2023-01-20 | 6825 | 644 | 
 | 2023-01-19 | 6824 | 644 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 6782 | 645 | 
 | 2022-12-25 | 6781 | 645 | 
 | 2022-12-24 | 6779 | 645 | 
-| 2022-12-23 | 6778 | 644 | 
 

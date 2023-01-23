@@ -1,6 +1,6 @@
 # Backbase/backbase-openapi-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 29 | 17 | 
 | 2023-01-21 | 29 | 17 | 
 | 2023-01-20 | 29 | 17 | 
 | 2023-01-19 | 29 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 28 | 17 | 
 | 2022-12-25 | 28 | 17 | 
 | 2022-12-24 | 28 | 17 | 
-| 2022-12-23 | 28 | 17 | 
 

@@ -1,6 +1,6 @@
 # greko6/xfb2xfb - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 264 | 25 | 
 | 2023-01-21 | 264 | 25 | 
 | 2023-01-20 | 264 | 24 | 
 | 2023-01-19 | 263 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 230 | 22 | 
 | 2022-12-25 | 230 | 22 | 
 | 2022-12-24 | 230 | 22 | 
-| 2022-12-23 | 230 | 22 | 
 

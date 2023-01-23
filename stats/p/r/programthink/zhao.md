@@ -1,10 +1,10 @@
 # programthink/zhao - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2626
 
-★ Stars: 11175
+★ Stars: 11174
 
 [Open repository](https://github.com/programthink/zhao)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 11174 | 2626 | 
 | 2023-01-21 | 11175 | 2626 | 
 | 2023-01-20 | 11175 | 2626 | 
 | 2023-01-19 | 11173 | 2626 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 11140 | 2622 | 
 | 2022-12-25 | 11138 | 2621 | 
 | 2022-12-24 | 11139 | 2621 | 
-| 2022-12-23 | 11139 | 2621 | 
 

@@ -1,6 +1,6 @@
 # I-Am-Jakoby/Powershell-to-Ducky-Converter - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 90 | 9 | 
 | 2023-01-21 | 90 | 9 | 
 | 2023-01-20 | 90 | 9 | 
 | 2023-01-19 | 90 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 75 | 6 | 
 | 2022-12-25 | 75 | 6 | 
 | 2022-12-24 | 75 | 6 | 
-| 2022-12-23 | 74 | 6 | 
 

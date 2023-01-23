@@ -1,6 +1,6 @@
 # itchyny/calendar.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1807 | 71 | 
 | 2023-01-21 | 1807 | 71 | 
 | 2023-01-20 | 1806 | 71 | 
 | 2023-01-18 | 1806 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1804 | 72 | 
 | 2022-12-25 | 1804 | 72 | 
 | 2022-12-24 | 1803 | 72 | 
-| 2022-12-23 | 1803 | 72 | 
 

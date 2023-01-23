@@ -1,10 +1,10 @@
 # Brendonovich/brendonovich.dev - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Brendonovich/brendonovich.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 15 | 4 | 
 | 2023-01-22 | 14 | 4 | 
 | 2023-01-20 | 14 | 4 | 
 | 2023-01-19 | 14 | 4 | 

@@ -1,6 +1,6 @@
 # gazebosim/gz-cmake - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 15 | 23 | 
 | 2023-01-21 | 15 | 23 | 
 | 2023-01-20 | 15 | 23 | 
 | 2023-01-19 | 15 | 23 | 

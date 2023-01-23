@@ -1,10 +1,10 @@
 # opensearch-project/OpenSearch - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 865
 
-★ Stars: 6291
+★ Stars: 6293
 
 [Open repository](https://github.com/opensearch-project/OpenSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 6293 | 865 | 
 | 2023-01-21 | 6291 | 865 | 
 | 2023-01-20 | 6290 | 865 | 
 | 2023-01-19 | 6289 | 864 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 6186 | 841 | 
 | 2022-12-25 | 6185 | 841 | 
 | 2022-12-24 | 6182 | 841 | 
-| 2022-12-23 | 6180 | 841 | 
 

@@ -1,10 +1,10 @@
 # terrastruct/TALA - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/terrastruct/TALA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 70 | - | 
 | 2023-01-21 | 69 | - | 
 | 2023-01-20 | 69 | - | 
 | 2023-01-19 | 69 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 59 | - | 
 | 2022-12-26 | 58 | - | 
 | 2022-12-25 | 58 | - | 
-| 2022-12-24 | 58 | - | 
 

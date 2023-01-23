@@ -1,6 +1,6 @@
 # kumahq/kuma - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 3053 | 281 | 
 | 2023-01-21 | 3053 | 281 | 
 | 2023-01-20 | 3054 | 281 | 
 | 2023-01-19 | 3048 | 282 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 3030 | 277 | 
 | 2022-12-25 | 3030 | 277 | 
 | 2022-12-24 | 3030 | 277 | 
-| 2022-12-23 | 3030 | 277 | 
 

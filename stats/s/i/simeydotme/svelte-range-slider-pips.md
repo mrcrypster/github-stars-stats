@@ -1,10 +1,10 @@
 # simeydotme/svelte-range-slider-pips - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 27
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/simeydotme/svelte-range-slider-pips)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 273 | 27 | 
 | 2023-01-21 | 272 | 27 | 
 | 2023-01-20 | 272 | 27 | 
 | 2023-01-19 | 272 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 266 | 26 | 
 | 2022-12-25 | 266 | 26 | 
 | 2022-12-24 | 266 | 26 | 
-| 2022-12-23 | 265 | 26 | 
 

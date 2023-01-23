@@ -1,6 +1,6 @@
 # tasks/tasks - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 423
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2506 | 423 | 
 | 2023-01-21 | 2506 | 423 | 
 | 2023-01-20 | 2505 | 423 | 
 | 2023-01-19 | 2504 | 422 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 2472 | 415 | 
 | 2022-12-25 | 2468 | 415 | 
 | 2022-12-24 | 2467 | 415 | 
-| 2022-12-23 | 2467 | 415 | 
 

@@ -1,6 +1,6 @@
 # fastai/numerical-linear-algebra - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2340
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 9006 | 2340 | 
 | 2023-01-21 | 9006 | 2340 | 
 | 2023-01-20 | 9003 | 2340 | 
 | 2023-01-19 | 9002 | 2339 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 8958 | 2329 | 
 | 2022-12-25 | 8956 | 2329 | 
 | 2022-12-24 | 8956 | 2329 | 
-| 2022-12-23 | 8955 | 2329 | 
 

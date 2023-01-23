@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 10
 
-★ Stars: 437
+★ Stars: 440
 
 [Open repository](https://github.com/Exafunction/codeium.vim)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 437 | 10 | 
+| 2023-01-22 | 440 | 10 | 
 | 2023-01-21 | 432 | 10 | 
 | 2023-01-20 | 418 | 10 | 
 

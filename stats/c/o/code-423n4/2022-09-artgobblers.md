@@ -1,6 +1,6 @@
 # code-423n4/2022-09-artgobblers - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 19 | 9 | 
 | 2023-01-21 | 19 | 9 | 
 | 2023-01-20 | 19 | 9 | 
 | 2023-01-19 | 19 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 20 | 10 | 
 | 2022-12-25 | 20 | 10 | 
 | 2022-12-24 | 20 | 10 | 
-| 2022-12-23 | 20 | 10 | 
 

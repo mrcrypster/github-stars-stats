@@ -1,6 +1,6 @@
 # Azure/azureml-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 697
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 913 | 697 | 
 | 2023-01-21 | 913 | 697 | 
 | 2023-01-20 | 913 | 697 | 
 | 2023-01-19 | 910 | 695 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 889 | 666 | 
 | 2022-12-25 | 888 | 666 | 
 | 2022-12-24 | 888 | 667 | 
-| 2022-12-23 | 887 | 665 | 
 

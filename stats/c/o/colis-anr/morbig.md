@@ -1,6 +1,6 @@
 # colis-anr/morbig - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 180 | 8 | 
 | 2023-01-21 | 180 | 8 | 
 | 2023-01-20 | 179 | 8 | 
 | 2023-01-19 | 179 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 178 | 8 | 
 | 2022-12-25 | 178 | 8 | 
 | 2022-12-24 | 178 | 8 | 
-| 2022-12-23 | 178 | 8 | 
 

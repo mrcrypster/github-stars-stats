@@ -1,10 +1,10 @@
 # Weik1/Artillery - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 57
 
-★ Stars: 470
+★ Stars: 469
 
 [Open repository](https://github.com/Weik1/Artillery)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 469 | 57 | 
 | 2023-01-21 | 470 | 57 | 
 | 2023-01-20 | 470 | 57 | 
 | 2023-01-19 | 470 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 467 | 58 | 
 | 2022-12-25 | 467 | 58 | 
 | 2022-12-24 | 467 | 58 | 
-| 2022-12-23 | 467 | 58 | 
 

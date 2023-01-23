@@ -1,10 +1,10 @@
 # intercom/intercom-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 119
 
-★ Stars: 349
+★ Stars: 350
 
 [Open repository](https://github.com/intercom/intercom-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 350 | 119 | 
 | 2023-01-21 | 349 | 119 | 
 | 2023-01-20 | 348 | 119 | 
 | 2023-01-19 | 348 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 346 | 118 | 
 | 2022-12-25 | 346 | 118 | 
 | 2022-12-24 | 346 | 118 | 
-| 2022-12-23 | 346 | 118 | 
 

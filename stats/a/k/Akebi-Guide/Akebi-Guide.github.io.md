@@ -1,10 +1,10 @@
 # Akebi-Guide/Akebi-Guide.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/Akebi-Guide/Akebi-Guide.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 36 | 11 | 
 | 2023-01-22 | 37 | 10 | 
 | 2023-01-21 | 37 | 10 | 
 | 2023-01-20 | 37 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 28 | 5 | 
 | 2022-12-25 | 28 | 5 | 
 | 2022-12-24 | 28 | 5 | 
-| 2022-12-23 | 28 | 5 | 
 

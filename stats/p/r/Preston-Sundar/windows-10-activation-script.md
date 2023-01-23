@@ -1,6 +1,6 @@
 # Preston-Sundar/windows-10-activation-script - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 142 | 76 | 
 | 2023-01-21 | 142 | 76 | 
 | 2023-01-20 | 142 | 78 | 
 | 2023-01-19 | 142 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 140 | 78 | 
 | 2022-12-25 | 140 | 78 | 
 | 2022-12-24 | 140 | 78 | 
-| 2022-12-23 | 140 | 78 | 
 

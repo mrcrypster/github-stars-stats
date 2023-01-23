@@ -1,10 +1,10 @@
 # usememos/memos - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 321
+☋ Forks: 322
 
-★ Stars: 5524
+★ Stars: 5530
 
 [Open repository](https://github.com/usememos/memos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5530 | 322 | 
 | 2023-01-21 | 5524 | 321 | 
 | 2023-01-20 | 5512 | 323 | 
 | 2023-01-19 | 5501 | 322 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 5051 | 292 | 
 | 2022-12-25 | 5029 | 285 | 
 | 2022-12-24 | 5011 | 279 | 
-| 2022-12-23 | 4997 | 276 | 
 

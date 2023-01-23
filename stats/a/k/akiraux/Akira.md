@@ -1,10 +1,10 @@
 # akiraux/Akira - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 208
 
-★ Stars: 5056
+★ Stars: 5058
 
 [Open repository](https://github.com/akiraux/Akira)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5058 | 208 | 
 | 2023-01-21 | 5056 | 208 | 
 | 2023-01-20 | 5056 | 208 | 
 | 2023-01-19 | 5056 | 208 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 5016 | 208 | 
 | 2022-12-25 | 5015 | 208 | 
 | 2022-12-24 | 5014 | 208 | 
-| 2022-12-23 | 5014 | 208 | 
 

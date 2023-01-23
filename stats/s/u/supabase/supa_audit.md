@@ -1,10 +1,10 @@
 # supabase/supa_audit - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 20
 
-★ Stars: 430
+★ Stars: 431
 
 [Open repository](https://github.com/supabase/supa_audit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 431 | 20 | 
 | 2023-01-21 | 430 | 20 | 
 | 2023-01-20 | 429 | 20 | 
 | 2023-01-19 | 430 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 418 | 20 | 
 | 2022-12-25 | 418 | 20 | 
 | 2022-12-24 | 418 | 20 | 
-| 2022-12-23 | 418 | 20 | 
 

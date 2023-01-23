@@ -1,6 +1,6 @@
 # gridap/Gridap.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 484 | 64 | 
 | 2023-01-21 | 484 | 64 | 
 | 2023-01-20 | 483 | 64 | 
 | 2023-01-19 | 482 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 469 | 64 | 
 | 2022-12-25 | 469 | 64 | 
 | 2022-12-24 | 469 | 64 | 
-| 2022-12-23 | 469 | 64 | 
 

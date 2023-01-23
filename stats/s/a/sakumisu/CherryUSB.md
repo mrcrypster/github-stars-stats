@@ -1,6 +1,6 @@
 # sakumisu/CherryUSB - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 570 | 96 | 
 | 2023-01-21 | 570 | 96 | 
 | 2023-01-20 | 570 | 96 | 
 | 2023-01-19 | 570 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 537 | 90 | 
 | 2022-12-25 | 536 | 90 | 
 | 2022-12-24 | 536 | 90 | 
-| 2022-12-23 | 534 | 90 | 
 

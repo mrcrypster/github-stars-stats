@@ -1,6 +1,6 @@
 # input-output-hk/haskell.nix - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 457 | 208 | 
 | 2023-01-21 | 457 | 208 | 
 | 2023-01-20 | 457 | 208 | 
 | 2023-01-19 | 457 | 209 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 452 | 208 | 
 | 2022-12-25 | 452 | 208 | 
 | 2022-12-24 | 452 | 208 | 
-| 2022-12-23 | 451 | 208 | 
 

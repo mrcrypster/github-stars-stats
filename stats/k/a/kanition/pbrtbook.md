@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 42
 
-★ Stars: 577
+★ Stars: 578
 
 [Open repository](https://github.com/kanition/pbrtbook)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 577 | 42 | 
+| 2023-01-22 | 578 | 42 | 
 | 2023-01-21 | 577 | 42 | 
 | 2023-01-20 | 575 | 42 | 
 | 2023-01-19 | 574 | 42 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 552 | 38 | 
 | 2022-12-26 | 550 | 38 | 
 | 2022-12-25 | 550 | 38 | 
-| 2022-12-23 | 549 | 38 | 
 

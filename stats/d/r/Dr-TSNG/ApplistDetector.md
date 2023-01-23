@@ -1,6 +1,6 @@
 # Dr-TSNG/ApplistDetector - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 289 | 27 | 
 | 2023-01-21 | 289 | 27 | 
 | 2023-01-20 | 289 | 27 | 
 | 2023-01-19 | 289 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 268 | 24 | 
 | 2022-12-25 | 268 | 24 | 
 | 2022-12-24 | 267 | 24 | 
-| 2022-12-23 | 267 | 24 | 
 

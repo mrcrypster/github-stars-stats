@@ -1,6 +1,6 @@
 # waifu-motivator/waifu-motivator-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 304 | 14 | 
 | 2023-01-21 | 304 | 14 | 
 | 2023-01-20 | 304 | 14 | 
 | 2023-01-18 | 303 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 301 | 14 | 
 | 2022-12-26 | 301 | 14 | 
 | 2022-12-25 | 301 | 14 | 
-| 2022-12-24 | 301 | 14 | 
 

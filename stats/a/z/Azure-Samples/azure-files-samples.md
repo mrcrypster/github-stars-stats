@@ -1,6 +1,6 @@
 # Azure-Samples/azure-files-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 162 | 159 | 
 | 2023-01-21 | 162 | 159 | 
 | 2023-01-20 | 162 | 159 | 
 | 2023-01-19 | 162 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 160 | 157 | 
 | 2022-12-25 | 160 | 157 | 
 | 2022-12-24 | 160 | 157 | 
-| 2022-12-23 | 160 | 157 | 
 

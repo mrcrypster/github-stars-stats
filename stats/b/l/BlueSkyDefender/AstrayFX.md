@@ -1,10 +1,10 @@
 # BlueSkyDefender/AstrayFX - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 36
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/BlueSkyDefender/AstrayFX)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 102 | 36 | 
 | 2023-01-21 | 101 | 36 | 
 | 2023-01-20 | 101 | 36 | 
 | 2023-01-19 | 101 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 97 | 35 | 
 | 2022-12-25 | 97 | 35 | 
 | 2022-12-24 | 97 | 35 | 
-| 2022-12-23 | 97 | 35 | 
 

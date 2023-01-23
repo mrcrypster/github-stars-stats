@@ -1,10 +1,10 @@
 # devopzilla/guku-devx - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/devopzilla/guku-devx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 49 | 2 | 
 | 2023-01-21 | 47 | 2 | 
 | 2023-01-20 | 47 | 2 | 
 | 2023-01-19 | 47 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 30 | 2 | 
 | 2022-12-25 | 29 | 2 | 
 | 2022-12-24 | 29 | 2 | 
-| 2022-12-23 | 29 | 2 | 
 

@@ -1,10 +1,10 @@
 # hagopj13/node-express-boilerplate - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 1468
+☋ Forks: 1469
 
-★ Stars: 5025
+★ Stars: 5029
 
 [Open repository](https://github.com/hagopj13/node-express-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5029 | 1469 | 
 | 2023-01-21 | 5025 | 1468 | 
 | 2023-01-20 | 5023 | 1470 | 
 | 2023-01-19 | 5019 | 1469 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 4945 | 1450 | 
 | 2022-12-25 | 4946 | 1448 | 
 | 2022-12-24 | 4944 | 1446 | 
-| 2022-12-23 | 4943 | 1446 | 
 

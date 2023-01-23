@@ -1,6 +1,6 @@
 # ericlewis/openfpga-spacerace - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 31 | - | 
 | 2023-01-21 | 31 | - | 
 | 2023-01-20 | 31 | - | 
 | 2023-01-18 | 31 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 31 | - | 
 | 2022-12-26 | 31 | - | 
 | 2022-12-25 | 31 | - | 
-| 2022-12-24 | 31 | - | 
 

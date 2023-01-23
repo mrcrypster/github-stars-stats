@@ -1,6 +1,6 @@
 # MicrosoftDocs/azure-dev-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 104 | 387 | 
 | 2023-01-22 | 104 | 387 | 
 | 2023-01-20 | 104 | 387 | 
 | 2023-01-19 | 103 | 387 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 94 | 374 | 
 | 2022-12-25 | 94 | 373 | 
 | 2022-12-24 | 93 | 372 | 
-| 2022-12-23 | 93 | 372 | 
 

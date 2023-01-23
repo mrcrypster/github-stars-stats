@@ -1,10 +1,10 @@
 # ProjectOpenSea/seaport - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 448
+☋ Forks: 449
 
-★ Stars: 1750
+★ Stars: 1753
 
 [Open repository](https://github.com/ProjectOpenSea/seaport)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1753 | 449 | 
 | 2023-01-21 | 1750 | 448 | 
 | 2023-01-20 | 1745 | 445 | 
 | 2023-01-19 | 1744 | 444 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1701 | 428 | 
 | 2022-12-25 | 1700 | 427 | 
 | 2022-12-24 | 1700 | 427 | 
-| 2022-12-23 | 1697 | 426 | 
 

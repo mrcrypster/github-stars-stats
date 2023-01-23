@@ -1,6 +1,6 @@
 # google/flexbox-layout - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1825
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 17741 | 1825 | 
 | 2023-01-21 | 17741 | 1825 | 
 | 2023-01-20 | 17741 | 1825 | 
 | 2023-01-18 | 17739 | 1826 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 17718 | 1823 | 
 | 2022-12-26 | 17716 | 1823 | 
 | 2022-12-25 | 17714 | 1823 | 
-| 2022-12-24 | 17714 | 1823 | 
 

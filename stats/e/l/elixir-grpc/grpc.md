@@ -1,10 +1,10 @@
 # elixir-grpc/grpc - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 179
 
-★ Stars: 1181
+★ Stars: 1182
 
 [Open repository](https://github.com/elixir-grpc/grpc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1182 | 179 | 
 | 2023-01-21 | 1181 | 179 | 
 | 2023-01-20 | 1181 | 179 | 
 | 2023-01-19 | 1180 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1170 | 180 | 
 | 2022-12-25 | 1170 | 180 | 
 | 2022-12-24 | 1170 | 180 | 
-| 2022-12-23 | 1168 | 180 | 
 

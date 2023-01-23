@@ -1,10 +1,10 @@
 # karmacoma-eth/enterprise-counters - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/karmacoma-eth/enterprise-counters)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 26 | 1 | 
 | 2023-01-21 | 25 | 1 | 
 | 2023-01-20 | 25 | 1 | 
 | 2023-01-19 | 25 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 25 | 1 | 
 | 2022-12-25 | 25 | 1 | 
 | 2022-12-24 | 25 | 1 | 
-| 2022-12-23 | 25 | 1 | 
 

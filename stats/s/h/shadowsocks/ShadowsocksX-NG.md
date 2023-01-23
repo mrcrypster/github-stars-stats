@@ -1,10 +1,10 @@
 # shadowsocks/ShadowsocksX-NG - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 7962
+☋ Forks: 7960
 
-★ Stars: 30923
+★ Stars: 30924
 
 [Open repository](https://github.com/shadowsocks/ShadowsocksX-NG)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 30924 | 7960 | 
 | 2023-01-21 | 30923 | 7962 | 
 | 2023-01-20 | 30921 | 7960 | 
 | 2023-01-19 | 30918 | 7958 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 30862 | 7959 | 
 | 2022-12-25 | 30861 | 7959 | 
 | 2022-12-24 | 30859 | 7959 | 
-| 2022-12-23 | 30857 | 7961 | 
 

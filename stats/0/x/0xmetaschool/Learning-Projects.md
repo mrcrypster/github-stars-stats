@@ -1,10 +1,10 @@
 # 0xmetaschool/Learning-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 86
+☋ Forks: 87
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/0xmetaschool/Learning-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 222 | 87 | 
 | 2023-01-21 | 221 | 86 | 
 | 2023-01-20 | 221 | 85 | 
 | 2023-01-19 | 221 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 209 | 81 | 
 | 2022-12-25 | 209 | 81 | 
 | 2022-12-24 | 209 | 81 | 
-| 2022-12-23 | 209 | 81 | 
 

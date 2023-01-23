@@ -1,6 +1,6 @@
 # eatonphil/zigrocks - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 72 | 3 | 
 | 2023-01-21 | 72 | 3 | 
 | 2023-01-20 | 72 | 3 | 
 | 2023-01-19 | 72 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 67 | 3 | 
 | 2022-12-25 | 67 | 3 | 
 | 2022-12-24 | 67 | 3 | 
-| 2022-12-23 | 67 | 3 | 
 

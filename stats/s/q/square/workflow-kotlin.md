@@ -1,10 +1,10 @@
 # square/workflow-kotlin - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 91
 
-★ Stars: 844
+★ Stars: 845
 
 [Open repository](https://github.com/square/workflow-kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 845 | 91 | 
 | 2023-01-22 | 844 | 91 | 
 | 2023-01-20 | 844 | 91 | 
 | 2023-01-19 | 843 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 832 | 89 | 
 | 2022-12-26 | 832 | 89 | 
 | 2022-12-25 | 832 | 89 | 
-| 2022-12-24 | 831 | 90 | 
 

@@ -1,10 +1,10 @@
 # XenBG/bulgarian-city-coat-of-arms - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/XenBG/bulgarian-city-coat-of-arms)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 43 | 2 | 
 | 2023-01-21 | 42 | 2 | 
 | 2023-01-20 | 42 | 2 | 
 | 2023-01-19 | 42 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 42 | 2 | 
 | 2022-12-25 | 42 | 2 | 
 | 2022-12-24 | 42 | 2 | 
-| 2022-12-23 | 42 | 2 | 
 

@@ -1,6 +1,6 @@
 # bkalendar/bkalendar.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 28 | 7 | 
 | 2023-01-22 | 28 | 7 | 
 | 2023-01-20 | 28 | 7 | 
 | 2023-01-19 | 28 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-26 | 24 | 6 | 
 | 2022-12-25 | 24 | 6 | 
 | 2022-12-24 | 24 | 6 | 
-| 2022-12-23 | 24 | 6 | 
 

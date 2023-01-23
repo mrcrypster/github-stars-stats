@@ -1,8 +1,8 @@
 # mdn/webassembly-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 239
+☋ Forks: 240
 
 ★ Stars: 963
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 963 | 240 | 
 | 2023-01-21 | 963 | 239 | 
 | 2023-01-20 | 963 | 239 | 
 | 2023-01-19 | 963 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 957 | 238 | 
 | 2022-12-25 | 957 | 238 | 
 | 2022-12-24 | 957 | 238 | 
-| 2022-12-23 | 957 | 238 | 
 

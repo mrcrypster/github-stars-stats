@@ -1,6 +1,6 @@
 # Your-First-Open-Source-Project/Your-First-Open-Source-Project - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 87 | 91 | 
 | 2023-01-21 | 87 | 91 | 
 | 2023-01-20 | 87 | 91 | 
 | 2023-01-19 | 87 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 82 | 87 | 
 | 2022-12-25 | 81 | 86 | 
 | 2022-12-24 | 81 | 86 | 
-| 2022-12-23 | 81 | 86 | 
 

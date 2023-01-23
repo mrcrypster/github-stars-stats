@@ -1,10 +1,10 @@
 # eworm-de/routeros-scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 179
 
-★ Stars: 720
+★ Stars: 721
 
 [Open repository](https://github.com/eworm-de/routeros-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 721 | 179 | 
 | 2023-01-21 | 720 | 179 | 
 | 2023-01-20 | 719 | 179 | 
 | 2023-01-19 | 718 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 704 | 177 | 
 | 2022-12-25 | 704 | 177 | 
 | 2022-12-24 | 705 | 177 | 
-| 2022-12-23 | 705 | 177 | 
 

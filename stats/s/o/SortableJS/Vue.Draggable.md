@@ -1,10 +1,10 @@
 # SortableJS/Vue.Draggable - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 2819
 
-★ Stars: 18374
+★ Stars: 18375
 
 [Open repository](https://github.com/SortableJS/Vue.Draggable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 18375 | 2819 | 
 | 2023-01-21 | 18374 | 2819 | 
 | 2023-01-20 | 18375 | 2819 | 
 | 2023-01-19 | 18372 | 2817 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 18300 | 2801 | 
 | 2022-12-26 | 18301 | 2803 | 
 | 2022-12-25 | 18300 | 2803 | 
-| 2022-12-24 | 18299 | 2803 | 
 

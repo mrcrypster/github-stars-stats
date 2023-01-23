@@ -1,10 +1,10 @@
 # mxgmn/MarkovJunior - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 249
 
-★ Stars: 5633
+★ Stars: 5635
 
 [Open repository](https://github.com/mxgmn/MarkovJunior)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 5635 | 249 | 
 | 2023-01-21 | 5633 | 249 | 
 | 2023-01-20 | 5631 | 249 | 
 | 2023-01-19 | 5630 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 5571 | 249 | 
 | 2022-12-25 | 5568 | 249 | 
 | 2022-12-24 | 5566 | 249 | 
-| 2022-12-23 | 5562 | 249 | 
 

@@ -1,6 +1,6 @@
 # rrpgfirecast/firecast - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 68 | 222 | 
 | 2023-01-21 | 68 | 222 | 
 | 2023-01-20 | 68 | 221 | 
 | 2023-01-19 | 68 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 67 | 215 | 
 | 2022-12-25 | 67 | 213 | 
 | 2022-12-24 | 67 | 213 | 
-| 2022-12-23 | 67 | 213 | 
 

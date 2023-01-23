@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 4
 
-★ Stars: 120
+★ Stars: 122
 
 [Open repository](https://github.com/gligen/GLIGEN)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 120 | 4 | 
+| 2023-01-22 | 122 | 4 | 
 | 2023-01-21 | 119 | 4 | 
 

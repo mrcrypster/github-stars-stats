@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 553
 
-★ Stars: 8061
+★ Stars: 8066
 
 [Open repository](https://github.com/retejs/rete)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 8061 | 553 | 
+| 2023-01-22 | 8066 | 553 | 
 | 2023-01-21 | 8052 | 553 | 
 

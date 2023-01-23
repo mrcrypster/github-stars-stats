@@ -1,6 +1,6 @@
 # atcoder/ac-library - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1238 | 170 | 
 | 2023-01-21 | 1238 | 170 | 
 | 2023-01-20 | 1236 | 170 | 
 | 2023-01-19 | 1236 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 1194 | 166 | 
 | 2022-12-25 | 1192 | 166 | 
 | 2022-12-24 | 1189 | 165 | 
-| 2022-12-23 | 1189 | 164 | 
 

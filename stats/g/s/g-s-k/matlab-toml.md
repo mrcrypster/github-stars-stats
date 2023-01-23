@@ -1,10 +1,10 @@
 # g-s-k/matlab-toml - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 6
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/g-s-k/matlab-toml)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 8 | 6 | 
 | 2023-01-21 | 7 | 6 | 
 | 2023-01-20 | 7 | 6 | 
 | 2023-01-19 | 7 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 7 | 6 | 
 | 2022-12-25 | 7 | 6 | 
 | 2022-12-24 | 7 | 6 | 
-| 2022-12-23 | 7 | 6 | 
 

@@ -1,6 +1,6 @@
 # 0xKitsune/uniswap_v3_math - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 51 | 9 | 
 | 2023-01-21 | 51 | 9 | 
 | 2023-01-20 | 50 | 9 | 
 | 2023-01-19 | 49 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 27 | 5 | 
 | 2022-12-25 | 25 | 5 | 
 | 2022-12-24 | 24 | 5 | 
-| 2022-12-23 | 23 | 5 | 
 

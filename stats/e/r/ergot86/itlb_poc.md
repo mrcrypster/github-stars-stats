@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 19
 
 [Open repository](https://github.com/ergot86/itlb_poc)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-22 | 14 | - | 
+| 2023-01-22 | 19 | - | 
 | 2023-01-21 | 14 | - | 
 

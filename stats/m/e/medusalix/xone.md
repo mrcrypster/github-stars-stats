@@ -1,10 +1,10 @@
 # medusalix/xone - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 35
 
-★ Stars: 836
+★ Stars: 841
 
 [Open repository](https://github.com/medusalix/xone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 841 | 35 | 
 | 2023-01-21 | 836 | 35 | 
 | 2023-01-20 | 835 | 35 | 
 | 2023-01-19 | 835 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 793 | 33 | 
 | 2022-12-25 | 790 | 33 | 
 | 2022-12-24 | 790 | 33 | 
-| 2022-12-23 | 784 | 33 | 
 

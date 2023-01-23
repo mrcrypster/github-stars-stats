@@ -1,10 +1,10 @@
 # Richard9394/MingCute - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 6
 
-★ Stars: 181
+★ Stars: 185
 
 [Open repository](https://github.com/Richard9394/MingCute)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 185 | 6 | 
 | 2023-01-21 | 181 | 6 | 
 | 2023-01-20 | 180 | 6 | 
 | 2023-01-19 | 178 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 112 | 2 | 
 | 2022-12-26 | 112 | 2 | 
 | 2022-12-25 | 111 | 2 | 
-| 2022-12-24 | 110 | 2 | 
 

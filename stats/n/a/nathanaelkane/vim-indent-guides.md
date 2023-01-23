@@ -1,10 +1,10 @@
 # nathanaelkane/vim-indent-guides - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 159
 
-★ Stars: 2538
+★ Stars: 2537
 
 [Open repository](https://github.com/nathanaelkane/vim-indent-guides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 2537 | 159 | 
 | 2023-01-21 | 2538 | 159 | 
 | 2023-01-20 | 2539 | 159 | 
 | 2023-01-19 | 2538 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 2538 | 156 | 
 | 2022-12-26 | 2540 | 156 | 
 | 2022-12-25 | 2540 | 156 | 
-| 2022-12-24 | 2540 | 156 | 
 

@@ -1,6 +1,6 @@
 # PwnFunction/v8-randomness-predictor - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 154 | 19 | 
 | 2023-01-21 | 154 | 19 | 
 | 2023-01-20 | 154 | 19 | 
 | 2023-01-19 | 153 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 137 | 17 | 
 | 2022-12-25 | 137 | 17 | 
 | 2022-12-24 | 137 | 17 | 
-| 2022-12-23 | 137 | 17 | 
 

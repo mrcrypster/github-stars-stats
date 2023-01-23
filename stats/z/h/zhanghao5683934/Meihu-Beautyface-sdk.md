@@ -1,6 +1,6 @@
 # zhanghao5683934/Meihu-Beautyface-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 246 | 60 | 
 | 2023-01-21 | 246 | 60 | 
 | 2023-01-20 | 246 | 60 | 
 | 2023-01-19 | 245 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 225 | 58 | 
 | 2022-12-25 | 224 | 58 | 
 | 2022-12-24 | 223 | 58 | 
-| 2022-12-23 | 224 | 58 | 
 

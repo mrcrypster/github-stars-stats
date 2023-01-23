@@ -1,6 +1,6 @@
 # Char1esOrz/minerProxy - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 340 | 150 | 
 | 2023-01-21 | 340 | 150 | 
 | 2023-01-20 | 340 | 150 | 
 | 2023-01-19 | 340 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 342 | 151 | 
 | 2022-12-25 | 342 | 151 | 
 | 2022-12-24 | 342 | 151 | 
-| 2022-12-23 | 342 | 151 | 
 

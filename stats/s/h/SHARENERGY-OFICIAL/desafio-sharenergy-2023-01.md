@@ -1,8 +1,8 @@
 # SHARENERGY-OFICIAL/desafio-sharenergy-2023-01 - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 425
+☋ Forks: 423
 
 ★ Stars: 59
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 59 | 423 | 
 | 2023-01-21 | 59 | 425 | 
 | 2023-01-20 | 58 | 419 | 
 | 2023-01-19 | 58 | 416 | 

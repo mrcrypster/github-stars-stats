@@ -1,10 +1,10 @@
 # nrennie/aRt - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 9
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/nrennie/aRt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 104 | 9 | 
 | 2023-01-21 | 103 | 9 | 
 | 2023-01-20 | 103 | 9 | 
 | 2023-01-19 | 103 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 99 | 9 | 
 | 2022-12-25 | 99 | 9 | 
 | 2022-12-24 | 99 | 9 | 
-| 2022-12-23 | 99 | 9 | 
 

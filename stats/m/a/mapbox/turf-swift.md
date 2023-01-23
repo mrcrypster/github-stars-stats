@@ -1,10 +1,10 @@
 # mapbox/turf-swift - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 50
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/mapbox/turf-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 189 | 50 | 
 | 2023-01-21 | 188 | 50 | 
 | 2023-01-20 | 188 | 50 | 
 | 2023-01-19 | 188 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 187 | 49 | 
 | 2022-12-25 | 187 | 49 | 
 | 2022-12-24 | 187 | 49 | 
-| 2022-12-23 | 187 | 49 | 
 

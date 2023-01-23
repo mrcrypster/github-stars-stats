@@ -1,6 +1,6 @@
 # graninas/software-design-in-haskell - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 976 | 61 | 
 | 2023-01-21 | 976 | 61 | 
 | 2023-01-20 | 975 | 61 | 
 | 2023-01-19 | 975 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 968 | 61 | 
 | 2022-12-25 | 968 | 61 | 
 | 2022-12-24 | 967 | 61 | 
-| 2022-12-23 | 967 | 61 | 
 

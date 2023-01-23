@@ -1,8 +1,8 @@
 # Aingkong/ZorinRDP - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 40
+☋ Forks: 42
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | - | 42 | 
 | 2023-01-21 | - | 40 | 
 | 2023-01-20 | - | 40 | 
 | 2023-01-19 | - | 38 | 

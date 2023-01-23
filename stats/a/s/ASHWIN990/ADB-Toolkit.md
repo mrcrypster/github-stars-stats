@@ -1,10 +1,10 @@
 # ASHWIN990/ADB-Toolkit - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 142
 
-★ Stars: 741
+★ Stars: 742
 
 [Open repository](https://github.com/ASHWIN990/ADB-Toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 742 | 142 | 
 | 2023-01-21 | 741 | 142 | 
 | 2023-01-20 | 741 | 142 | 
 | 2023-01-19 | 740 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 718 | 141 | 
 | 2022-12-25 | 718 | 141 | 
 | 2022-12-24 | 718 | 141 | 
-| 2022-12-23 | 717 | 140 | 
 

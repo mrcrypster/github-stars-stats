@@ -1,10 +1,10 @@
 # enkomio/thematrix - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/enkomio/thematrix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 120 | 15 | 
 | 2023-01-21 | 119 | 15 | 
 | 2023-01-20 | 119 | 15 | 
 | 2023-01-19 | 119 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 117 | 15 | 
 | 2022-12-25 | 117 | 15 | 
 | 2022-12-24 | 117 | 15 | 
-| 2022-12-23 | 117 | 15 | 
 

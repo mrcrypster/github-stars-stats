@@ -1,6 +1,6 @@
 # robGoods/sams - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 381 | 123 | 
 | 2023-01-21 | 381 | 123 | 
 | 2023-01-20 | 381 | 123 | 
 | 2023-01-19 | 381 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 380 | 123 | 
 | 2022-12-25 | 380 | 123 | 
 | 2022-12-24 | 380 | 123 | 
-| 2022-12-23 | 380 | 123 | 
 

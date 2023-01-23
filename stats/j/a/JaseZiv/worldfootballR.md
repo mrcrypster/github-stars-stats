@@ -1,6 +1,6 @@
 # JaseZiv/worldfootballR - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 280 | 37 | 
 | 2023-01-21 | 280 | 37 | 
 | 2023-01-20 | 279 | 37 | 
 | 2023-01-19 | 278 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 274 | 35 | 
 | 2022-12-25 | 274 | 35 | 
 | 2022-12-24 | 273 | 34 | 
-| 2022-12-23 | 272 | 34 | 
 

@@ -1,6 +1,6 @@
 # IDEA-CCNL/Fengshenbang-LM - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 1219 | 123 | 
 | 2023-01-21 | 1219 | 123 | 
 | 2023-01-20 | 1217 | 123 | 
 | 2023-01-18 | 1212 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 1106 | 116 | 
 | 2022-12-26 | 1098 | 116 | 
 | 2022-12-25 | 1095 | 116 | 
-| 2022-12-24 | 1092 | 116 | 
 

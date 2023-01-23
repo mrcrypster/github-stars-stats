@@ -1,10 +1,10 @@
 # Rdmo1/Rdmo1-Swift-Tool - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
-☋ Forks: 81
+☋ Forks: 79
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/Rdmo1/Rdmo1-Swift-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 109 | 79 | 
 | 2023-01-21 | 108 | 81 | 
 | 2023-01-20 | 109 | 81 | 
 | 2023-01-19 | 108 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 93 | 76 | 
 | 2022-12-25 | 93 | 76 | 
 | 2022-12-24 | 93 | 76 | 
-| 2022-12-23 | 92 | 76 | 
 

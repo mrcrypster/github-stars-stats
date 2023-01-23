@@ -1,0 +1,18 @@
+# GLScene/SamplesD - stars & forks statistics
+
+Stats updated on Jan 2023, 23
+
+☋ Forks: 3
+
+★ Stars: 18
+
+[Open repository](https://github.com/GLScene/SamplesD)
+
+[Open detailed stats for GLScene/SamplesD](https://reviewgithub.com/rep/GLScene/SamplesD)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-23 | 18 | 3 | 
+| 2023-01-22 | 18 | 3 | 
+

@@ -1,10 +1,10 @@
 # cardano-foundation/cf-summit-evoting-status - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/cardano-foundation/cf-summit-evoting-status)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 4 | 1 | 
 | 2023-01-21 | 3 | 1 | 
 | 2023-01-20 | 3 | 1 | 
 | 2023-01-19 | 3 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-26 | 3 | 1 | 
 | 2022-12-25 | 3 | 1 | 
 | 2022-12-24 | 3 | 1 | 
-| 2022-12-23 | 3 | 1 | 
 

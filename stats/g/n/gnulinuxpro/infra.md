@@ -1,6 +1,6 @@
 # gnulinuxpro/infra - stars & forks statistics
 
-Stats updated on Jan 2023, 21
+Stats updated on Jan 2023, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-22 | 62 | 16 | 
 | 2023-01-21 | 62 | 16 | 
 | 2023-01-20 | 62 | 16 | 
 | 2023-01-19 | 62 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 21
 | 2022-12-27 | 62 | 16 | 
 | 2022-12-26 | 62 | 16 | 
 | 2022-12-25 | 62 | 16 | 
-| 2022-12-24 | 63 | 16 | 
 
