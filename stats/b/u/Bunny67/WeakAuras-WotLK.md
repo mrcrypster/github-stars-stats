@@ -1,6 +1,6 @@
 # Bunny67/WeakAuras-WotLK - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 103 | 46 | 
 | 2023-01-22 | 103 | 46 | 
 | 2023-01-21 | 103 | 46 | 
 | 2023-01-20 | 103 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 102 | 45 | 
 | 2022-12-26 | 102 | 45 | 
 | 2022-12-25 | 102 | 45 | 
-| 2022-12-24 | 102 | 45 | 
 

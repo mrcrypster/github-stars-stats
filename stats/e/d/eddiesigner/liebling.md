@@ -1,8 +1,8 @@
 # eddiesigner/liebling - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 525
+☋ Forks: 526
 
 ★ Stars: 1101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1101 | 526 | 
 | 2023-01-22 | 1101 | 525 | 
 | 2023-01-21 | 1101 | 525 | 
 | 2023-01-20 | 1101 | 525 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 1092 | 517 | 
 | 2022-12-27 | 1092 | 517 | 
 | 2022-12-26 | 1090 | 517 | 
-| 2022-12-24 | 1090 | 517 | 
 

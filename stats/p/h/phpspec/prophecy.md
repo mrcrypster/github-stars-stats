@@ -1,6 +1,6 @@
 # phpspec/prophecy - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 8525 | 230 | 
 | 2023-01-22 | 8525 | 230 | 
 | 2023-01-21 | 8525 | 230 | 
 | 2023-01-20 | 8524 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 8520 | 230 | 
 | 2022-12-26 | 8520 | 230 | 
 | 2022-12-25 | 8520 | 230 | 
-| 2022-12-24 | 8520 | 230 | 
 

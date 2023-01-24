@@ -1,6 +1,6 @@
 # catboost/catboost - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1079
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 6889 | 1079 | 
 | 2023-01-22 | 6889 | 1079 | 
 | 2023-01-21 | 6887 | 1079 | 
 | 2023-01-20 | 6883 | 1078 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 6850 | 1074 | 
 | 2022-12-26 | 6851 | 1074 | 
 | 2022-12-25 | 6851 | 1073 | 
-| 2022-12-24 | 6851 | 1072 | 
 

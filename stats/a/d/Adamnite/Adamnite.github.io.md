@@ -1,10 +1,10 @@
 # Adamnite/Adamnite.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 39
 
-★ Stars: 114
+★ Stars: 113
 
 [Open repository](https://github.com/Adamnite/Adamnite.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 113 | 39 | 
 | 2023-01-22 | 114 | 39 | 
 | 2023-01-21 | 114 | 40 | 
 | 2023-01-20 | 114 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 115 | 39 | 
 | 2022-12-26 | 115 | 39 | 
 | 2022-12-25 | 115 | 39 | 
-| 2022-12-24 | 115 | 39 | 
 

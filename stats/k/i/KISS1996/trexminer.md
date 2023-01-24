@@ -1,6 +1,6 @@
 # KISS1996/trexminer - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 223 | 34 | 
 | 2023-01-22 | 223 | 34 | 
 | 2023-01-21 | 223 | 34 | 
 | 2023-01-20 | 223 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 223 | 34 | 
 | 2022-12-26 | 223 | 34 | 
 | 2022-12-25 | 223 | 34 | 
-| 2022-12-24 | 223 | 34 | 
 

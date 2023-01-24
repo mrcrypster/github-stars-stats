@@ -1,10 +1,10 @@
 # matze/vim-move - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 54
 
-★ Stars: 1095
+★ Stars: 1096
 
 [Open repository](https://github.com/matze/vim-move)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1096 | 54 | 
 | 2023-01-22 | 1095 | 54 | 
 | 2023-01-21 | 1095 | 54 | 
 | 2023-01-20 | 1095 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1084 | 52 | 
 | 2022-12-26 | 1083 | 52 | 
 | 2022-12-25 | 1081 | 52 | 
-| 2022-12-24 | 1081 | 52 | 
 

@@ -1,6 +1,6 @@
 # crypto-org-chain/cronos-blockscout - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 18 | 16 | 
 | 2023-01-22 | 18 | 16 | 
 | 2023-01-21 | 18 | 16 | 
 | 2023-01-20 | 18 | 16 | 

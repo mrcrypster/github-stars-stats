@@ -1,10 +1,10 @@
 # DroidKaigi/conference-app-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 191
 
-★ Stars: 428
+★ Stars: 430
 
 [Open repository](https://github.com/DroidKaigi/conference-app-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 430 | 191 | 
 | 2023-01-22 | 428 | 191 | 
 | 2023-01-21 | 427 | 191 | 
 | 2023-01-20 | 428 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 419 | 188 | 
 | 2022-12-26 | 418 | 188 | 
 | 2022-12-25 | 418 | 188 | 
-| 2022-12-24 | 417 | 188 | 
 

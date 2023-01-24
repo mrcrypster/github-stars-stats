@@ -1,10 +1,10 @@
 # typelevel/cats-effect - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 451
 
-★ Stars: 1698
+★ Stars: 1701
 
 [Open repository](https://github.com/typelevel/cats-effect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1701 | 451 | 
 | 2023-01-22 | 1698 | 451 | 
 | 2023-01-21 | 1698 | 451 | 
 | 2023-01-20 | 1696 | 451 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1674 | 447 | 
 | 2022-12-26 | 1673 | 447 | 
 | 2022-12-25 | 1671 | 447 | 
-| 2022-12-24 | 1671 | 447 | 
 

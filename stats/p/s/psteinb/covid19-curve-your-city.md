@@ -1,6 +1,6 @@
 # psteinb/covid19-curve-your-city - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 11 | 5 | 
 | 2023-01-22 | 11 | 5 | 
 | 2023-01-21 | 11 | 5 | 
 | 2023-01-20 | 11 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 11 | 5 | 
 | 2022-12-27 | 11 | 5 | 
 | 2022-12-26 | 11 | 5 | 
-| 2022-12-25 | 11 | 5 | 
 

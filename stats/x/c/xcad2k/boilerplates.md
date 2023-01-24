@@ -1,10 +1,10 @@
 # xcad2k/boilerplates - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 710
+☋ Forks: 711
 
-★ Stars: 1545
+★ Stars: 1548
 
 [Open repository](https://github.com/xcad2k/boilerplates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1548 | 711 | 
 | 2023-01-22 | 1545 | 710 | 
 | 2023-01-21 | 1541 | 708 | 
 | 2023-01-20 | 1534 | 708 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1443 | 669 | 
 | 2022-12-26 | 1441 | 669 | 
 | 2022-12-25 | 1437 | 669 | 
-| 2022-12-24 | 1434 | 669 | 
 

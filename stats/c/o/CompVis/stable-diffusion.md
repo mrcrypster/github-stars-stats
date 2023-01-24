@@ -1,10 +1,10 @@
 # CompVis/stable-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 6190
+☋ Forks: 6200
 
-★ Stars: 39665
+★ Stars: 39724
 
 [Open repository](https://github.com/CompVis/stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 39724 | 6200 | 
 | 2023-01-22 | 39665 | 6190 | 
 | 2023-01-21 | 39602 | 6180 | 
 | 2023-01-20 | 39559 | 6161 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 38112 | 5884 | 
 | 2022-12-26 | 38035 | 5872 | 
 | 2022-12-25 | 37975 | 5860 | 
-| 2022-12-24 | 37887 | 5850 | 
 

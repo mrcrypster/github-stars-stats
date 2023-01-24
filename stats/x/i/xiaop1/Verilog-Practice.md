@@ -1,6 +1,6 @@
 # xiaop1/Verilog-Practice - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 412 | 134 | 
 | 2023-01-23 | 412 | 134 | 
 | 2023-01-21 | 412 | 134 | 
 | 2023-01-20 | 412 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 396 | 132 | 
 | 2022-12-26 | 396 | 132 | 
 | 2022-12-25 | 395 | 132 | 
-| 2022-12-24 | 395 | 132 | 
 

@@ -1,10 +1,10 @@
 # mightymos/ReedTripRadio - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 3
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/mightymos/ReedTripRadio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 125 | 3 | 
 | 2023-01-22 | 124 | 3 | 
 | 2023-01-21 | 124 | 3 | 
 | 2023-01-20 | 123 | 3 | 

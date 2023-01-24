@@ -1,6 +1,6 @@
 # D1rkMtr/ObfLoader - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 211 | 37 | 
 | 2023-01-22 | 211 | 37 | 
 | 2023-01-21 | 211 | 37 | 
 | 2023-01-20 | 210 | 37 | 

@@ -1,8 +1,8 @@
 # MeewPunk/Alert-Memory-CPU - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 32 | 19 | 
 | 2023-01-22 | 32 | 18 | 
 | 2023-01-21 | 31 | 18 | 
 | 2023-01-20 | 30 | 17 | 

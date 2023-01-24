@@ -1,6 +1,6 @@
 # samsesh/SocialBox-Termux - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1850 | 211 | 
 | 2023-01-22 | 1850 | 211 | 
 | 2023-01-21 | 1846 | 210 | 
 | 2023-01-20 | 1842 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1800 | 200 | 
 | 2022-12-26 | 1799 | 200 | 
 | 2022-12-25 | 1798 | 198 | 
-| 2022-12-24 | 1798 | 198 | 
 

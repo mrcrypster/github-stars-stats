@@ -1,6 +1,6 @@
 # hgmauri/references-for-dotnet-developers - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 325 | 39 | 
 | 2023-01-23 | 325 | 39 | 
 | 2023-01-22 | 325 | 39 | 
 | 2023-01-20 | 325 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 323 | 39 | 
 | 2022-12-27 | 323 | 39 | 
 | 2022-12-26 | 323 | 39 | 
-| 2022-12-25 | 323 | 39 | 
 

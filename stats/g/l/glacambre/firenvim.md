@@ -1,10 +1,10 @@
 # glacambre/firenvim - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 123
 
-★ Stars: 3455
+★ Stars: 3458
 
 [Open repository](https://github.com/glacambre/firenvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3458 | 123 | 
 | 2023-01-22 | 3455 | 123 | 
 | 2023-01-21 | 3452 | 123 | 
 | 2023-01-20 | 3452 | 123 | 

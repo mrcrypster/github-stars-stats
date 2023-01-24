@@ -1,6 +1,6 @@
 # LMAX-Exchange/disruptor - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3720
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 15625 | 3720 | 
 | 2023-01-23 | 15625 | 3720 | 
 | 2023-01-21 | 15621 | 3719 | 
 | 2023-01-20 | 15621 | 3719 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 15431 | 3688 | 
 | 2022-12-27 | 15426 | 3686 | 
 | 2022-12-26 | 15413 | 3686 | 
-| 2022-12-25 | 15412 | 3686 | 
 

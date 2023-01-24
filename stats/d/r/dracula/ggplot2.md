@@ -1,6 +1,6 @@
 # dracula/ggplot2 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 28 | - | 
 | 2023-01-22 | 28 | - | 
 | 2023-01-21 | 28 | - | 
 | 2023-01-20 | 28 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 27 | - | 
 | 2022-12-26 | 27 | - | 
 | 2022-12-25 | 27 | - | 
-| 2022-12-24 | 27 | - | 
 

@@ -1,10 +1,10 @@
 # Col-E/Recaf - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 383
 
-★ Stars: 4528
+★ Stars: 4530
 
 [Open repository](https://github.com/Col-E/Recaf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 4530 | 383 | 
 | 2023-01-22 | 4528 | 383 | 
 | 2023-01-21 | 4529 | 383 | 
 | 2023-01-20 | 4525 | 383 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 4459 | 375 | 
 | 2022-12-26 | 4455 | 375 | 
 | 2022-12-25 | 4454 | 375 | 
-| 2022-12-24 | 4452 | 375 | 
 

@@ -1,10 +1,10 @@
 # alphapapa/ement.el - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/alphapapa/ement.el)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 301 | 26 | 
 | 2023-01-22 | 300 | 25 | 
 | 2023-01-21 | 299 | 25 | 
 | 2023-01-20 | 299 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 290 | 25 | 
 | 2022-12-26 | 289 | 25 | 
 | 2022-12-25 | 289 | 25 | 
-| 2022-12-24 | 289 | 25 | 
 

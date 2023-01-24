@@ -1,10 +1,10 @@
 # nisrulz/app-privacy-policy-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 326
 
-★ Stars: 3075
+★ Stars: 3077
 
 [Open repository](https://github.com/nisrulz/app-privacy-policy-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3077 | 326 | 
 | 2023-01-22 | 3075 | 326 | 
 | 2023-01-21 | 3074 | 326 | 
 | 2023-01-20 | 3073 | 326 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3041 | 325 | 
 | 2022-12-26 | 3037 | 324 | 
 | 2022-12-25 | 3035 | 324 | 
-| 2022-12-24 | 3032 | 324 | 
 

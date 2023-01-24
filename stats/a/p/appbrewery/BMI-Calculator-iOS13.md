@@ -1,8 +1,8 @@
 # appbrewery/BMI-Calculator-iOS13 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 342
+☋ Forks: 343
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 53 | 343 | 
 | 2023-01-22 | 53 | 342 | 
 | 2023-01-21 | 53 | 341 | 
 | 2023-01-20 | 53 | 341 | 

@@ -1,6 +1,6 @@
 # flycheck/flycheck-popup-tip - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 30 | 6 | 
 | 2023-01-22 | 30 | 6 | 
 | 2023-01-21 | 30 | 6 | 
 | 2023-01-20 | 30 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 30 | 6 | 
 | 2022-12-26 | 30 | 6 | 
 | 2022-12-25 | 30 | 6 | 
-| 2022-12-24 | 30 | 6 | 
 

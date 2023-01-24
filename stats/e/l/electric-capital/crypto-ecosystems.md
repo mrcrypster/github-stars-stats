@@ -1,10 +1,10 @@
 # electric-capital/crypto-ecosystems - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 433
+☋ Forks: 436
 
-★ Stars: 592
+★ Stars: 595
 
 [Open repository](https://github.com/electric-capital/crypto-ecosystems)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 595 | 436 | 
 | 2023-01-22 | 592 | 433 | 
 | 2023-01-21 | 590 | 433 | 
 | 2023-01-20 | 589 | 432 | 

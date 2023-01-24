@@ -1,8 +1,8 @@
 # UNN-IASR/mod-lab03-coffee - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 42
+☋ Forks: 41
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | - | 41 | 
 | 2023-01-22 | - | 42 | 
 | 2023-01-21 | - | 42 | 
 | 2023-01-20 | - | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | - | 42 | 
 | 2022-12-26 | - | 42 | 
 | 2022-12-25 | - | 42 | 
-| 2022-12-24 | - | 42 | 
 

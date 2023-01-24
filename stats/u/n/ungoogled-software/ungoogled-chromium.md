@@ -1,10 +1,10 @@
 # ungoogled-software/ungoogled-chromium - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 729
+☋ Forks: 728
 
-★ Stars: 15888
+★ Stars: 15893
 
 [Open repository](https://github.com/ungoogled-software/ungoogled-chromium)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 15893 | 728 | 
 | 2023-01-22 | 15888 | 729 | 
 | 2023-01-21 | 15885 | 729 | 
 | 2023-01-20 | 15880 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 15766 | 724 | 
 | 2022-12-26 | 15763 | 724 | 
 | 2022-12-25 | 15761 | 724 | 
-| 2022-12-24 | 15755 | 723 | 
 

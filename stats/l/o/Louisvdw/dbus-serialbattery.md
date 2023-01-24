@@ -1,10 +1,10 @@
 # Louisvdw/dbus-serialbattery - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 70
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/Louisvdw/dbus-serialbattery)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 250 | 70 | 
 | 2023-01-22 | 249 | 70 | 
 | 2023-01-21 | 249 | 70 | 
 | 2023-01-20 | 247 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 230 | 63 | 
 | 2022-12-26 | 229 | 63 | 
 | 2022-12-25 | 229 | 63 | 
-| 2022-12-24 | 228 | 63 | 
 

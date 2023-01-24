@@ -1,10 +1,10 @@
 # advanced-security/custom-codeql-bundle - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/advanced-security/custom-codeql-bundle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 26 | 2 | 
 | 2023-01-22 | 27 | 2 | 
 | 2023-01-21 | 27 | 2 | 
 | 2023-01-20 | 27 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 27 | 2 | 
 | 2022-12-26 | 27 | 2 | 
 | 2022-12-25 | 27 | 2 | 
-| 2022-12-24 | 27 | 2 | 
 

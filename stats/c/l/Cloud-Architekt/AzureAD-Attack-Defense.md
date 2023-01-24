@@ -1,8 +1,8 @@
 # Cloud-Architekt/AzureAD-Attack-Defense - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 194
+☋ Forks: 196
 
 ★ Stars: 1264
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1264 | 196 | 
 | 2023-01-22 | 1264 | 194 | 
 | 2023-01-21 | 1261 | 194 | 
 | 2023-01-20 | 1259 | 193 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1215 | 188 | 
 | 2022-12-26 | 1213 | 188 | 
 | 2022-12-25 | 1212 | 188 | 
-| 2022-12-24 | 1212 | 188 | 
 

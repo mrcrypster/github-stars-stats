@@ -1,6 +1,6 @@
 # samcoy3/advent-of-code-template - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 19 | 14 | 
 | 2023-01-23 | 19 | 14 | 
 | 2023-01-21 | 19 | 14 | 
 | 2023-01-20 | 19 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 19 | 14 | 
 | 2022-12-27 | 19 | 14 | 
 | 2022-12-25 | 19 | 14 | 
-| 2022-12-24 | 19 | 14 | 
 

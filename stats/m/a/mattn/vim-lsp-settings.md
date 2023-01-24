@@ -1,10 +1,10 @@
 # mattn/vim-lsp-settings - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 192
 
-★ Stars: 1057
+★ Stars: 1058
 
 [Open repository](https://github.com/mattn/vim-lsp-settings)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1058 | 192 | 
 | 2023-01-22 | 1057 | 192 | 
 | 2023-01-21 | 1057 | 192 | 
 | 2023-01-20 | 1057 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 1046 | 191 | 
 | 2022-12-27 | 1045 | 191 | 
 | 2022-12-26 | 1045 | 191 | 
-| 2022-12-24 | 1044 | 191 | 
 

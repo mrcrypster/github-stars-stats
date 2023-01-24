@@ -1,10 +1,10 @@
 # PartyDAO/party-contracts-c4 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 9
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/PartyDAO/party-contracts-c4)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 14 | 9 | 
 | 2023-01-22 | 13 | 9 | 
 | 2023-01-21 | 13 | 9 | 
 | 2023-01-20 | 13 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 12 | 9 | 
 | 2022-12-26 | 12 | 9 | 
 | 2022-12-25 | 12 | 9 | 
-| 2022-12-24 | 12 | 9 | 
 

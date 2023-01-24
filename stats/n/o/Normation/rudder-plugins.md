@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 23
 
 ☋ Forks: 22
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/Normation/rudder-plugins)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 10 | 22 | 
+| 2023-01-23 | 11 | 22 | 
 | 2023-01-22 | 10 | 22 | 
 | 2023-01-20 | 10 | 22 | 
 | 2023-01-19 | 10 | 22 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 10 | 22 | 
 | 2022-12-26 | 10 | 22 | 
 | 2022-12-25 | 10 | 22 | 
-| 2022-12-24 | 10 | 22 | 
 

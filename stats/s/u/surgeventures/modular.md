@@ -1,6 +1,6 @@
 # surgeventures/modular - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 6 | 1 | 
 | 2023-01-23 | 6 | 1 | 
 | 2023-01-22 | 6 | 1 | 
 | 2023-01-20 | 6 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 6 | 1 | 
 | 2022-12-26 | 6 | 1 | 
 | 2022-12-25 | 6 | 1 | 
-| 2022-12-24 | 6 | 1 | 
 

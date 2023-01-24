@@ -1,6 +1,6 @@
 # zxb1655/weipyq - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 144 | 26 | 
 | 2023-01-22 | 144 | 26 | 
 | 2023-01-21 | 144 | 26 | 
 | 2023-01-20 | 144 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 138 | 23 | 
 | 2022-12-26 | 138 | 23 | 
 | 2022-12-25 | 139 | 23 | 
-| 2022-12-24 | 139 | 23 | 
 

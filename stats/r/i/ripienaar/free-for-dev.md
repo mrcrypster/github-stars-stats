@@ -1,10 +1,10 @@
 # ripienaar/free-for-dev - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 7133
+☋ Forks: 7145
 
-★ Stars: 65568
+★ Stars: 65713
 
 [Open repository](https://github.com/ripienaar/free-for-dev)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 65713 | 7145 | 
 | 2023-01-22 | 65568 | 7133 | 
 | 2023-01-21 | 65531 | 7127 | 
 | 2023-01-20 | 65509 | 7126 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 63899 | 6972 | 
 | 2022-12-26 | 63842 | 6968 | 
 | 2022-12-25 | 63788 | 6966 | 
-| 2022-12-24 | 63775 | 6963 | 
 

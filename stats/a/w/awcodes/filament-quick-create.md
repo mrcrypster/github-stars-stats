@@ -1,6 +1,6 @@
 # awcodes/filament-quick-create - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 49 | 12 | 
 | 2023-01-22 | 49 | 12 | 
 | 2023-01-21 | 49 | 12 | 
 | 2023-01-20 | 49 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 44 | 12 | 
 | 2022-12-26 | 44 | 12 | 
 | 2022-12-25 | 43 | 12 | 
-| 2022-12-24 | 43 | 12 | 
 

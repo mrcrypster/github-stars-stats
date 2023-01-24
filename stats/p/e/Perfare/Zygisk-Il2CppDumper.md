@@ -1,10 +1,10 @@
 # Perfare/Zygisk-Il2CppDumper - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1450
+☋ Forks: 1455
 
-★ Stars: 1096
+★ Stars: 1100
 
 [Open repository](https://github.com/Perfare/Zygisk-Il2CppDumper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1100 | 1455 | 
 | 2023-01-22 | 1096 | 1450 | 
 | 2023-01-21 | 1094 | 1445 | 
 | 2023-01-20 | 1094 | 1438 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1025 | 1303 | 
 | 2022-12-26 | 1023 | 1298 | 
 | 2022-12-25 | 1023 | 1295 | 
-| 2022-12-24 | 1023 | 1292 | 
 

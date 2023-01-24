@@ -1,10 +1,10 @@
 # ebelinski/apilevels - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 16
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/ebelinski/apilevels)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 103 | 16 | 
 | 2023-01-23 | 102 | 16 | 
 | 2023-01-21 | 102 | 16 | 
 | 2023-01-20 | 102 | 16 | 

@@ -1,10 +1,10 @@
 # pingcap/tidb - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5379
 
-★ Stars: 33209
+★ Stars: 33211
 
 [Open repository](https://github.com/pingcap/tidb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 33211 | 5379 | 
 | 2023-01-22 | 33209 | 5379 | 
 | 2023-01-21 | 33207 | 5378 | 
 | 2023-01-20 | 33207 | 5379 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 33057 | 5361 | 
 | 2022-12-26 | 33049 | 5360 | 
 | 2022-12-25 | 33041 | 5357 | 
-| 2022-12-24 | 33040 | 5357 | 
 

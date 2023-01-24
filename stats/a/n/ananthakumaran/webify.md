@@ -1,10 +1,10 @@
 # ananthakumaran/webify - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 24
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/ananthakumaran/webify)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 430 | 24 | 
+| 2023-01-23 | 429 | 24 | 
 | 2023-01-22 | 429 | 24 | 
 | 2023-01-21 | 428 | 24 | 
 | 2023-01-20 | 428 | 24 | 

@@ -1,6 +1,6 @@
 # Apress/pro-asp.net-core-6 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 119 | 97 | 
 | 2023-01-22 | 119 | 97 | 
 | 2023-01-21 | 118 | 97 | 
 | 2023-01-20 | 117 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 108 | 94 | 
 | 2022-12-26 | 108 | 94 | 
 | 2022-12-25 | 107 | 94 | 
-| 2022-12-24 | 107 | 94 | 
 

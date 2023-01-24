@@ -1,10 +1,10 @@
 # Dapp-Learning-DAO/Dapp-Learning - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 946
 
-★ Stars: 3465
+★ Stars: 3467
 
 [Open repository](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3467 | 946 | 
 | 2023-01-22 | 3465 | 946 | 
 | 2023-01-21 | 3463 | 945 | 
 | 2023-01-20 | 3461 | 944 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3367 | 914 | 
 | 2022-12-26 | 3366 | 913 | 
 | 2022-12-25 | 3365 | 911 | 
-| 2022-12-24 | 3364 | 911 | 
 

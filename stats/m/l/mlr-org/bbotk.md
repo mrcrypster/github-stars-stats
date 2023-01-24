@@ -1,6 +1,6 @@
 # mlr-org/bbotk - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 19 | 8 | 
 | 2023-01-22 | 19 | 8 | 
 | 2023-01-20 | 19 | 8 | 
 | 2023-01-19 | 19 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 19 | 8 | 
 | 2022-12-27 | 19 | 8 | 
 | 2022-12-26 | 19 | 8 | 
-| 2022-12-24 | 19 | 8 | 
 

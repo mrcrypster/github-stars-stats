@@ -1,10 +1,10 @@
 # daattali/beautiful-jekyll - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 13869
+☋ Forks: 13880
 
-★ Stars: 4506
+★ Stars: 4507
 
 [Open repository](https://github.com/daattali/beautiful-jekyll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 4507 | 13880 | 
 | 2023-01-22 | 4506 | 13869 | 
 | 2023-01-21 | 4505 | 13867 | 
 | 2023-01-20 | 4505 | 13853 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 4466 | 13754 | 
 | 2022-12-26 | 4465 | 13754 | 
 | 2022-12-25 | 4462 | 13746 | 
-| 2022-12-24 | 4461 | 13749 | 
 

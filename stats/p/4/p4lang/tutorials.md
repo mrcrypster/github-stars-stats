@@ -1,10 +1,10 @@
 # p4lang/tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 758
 
-★ Stars: 997
+★ Stars: 1000
 
 [Open repository](https://github.com/p4lang/tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1000 | 758 | 
 | 2023-01-22 | 997 | 758 | 
 | 2023-01-21 | 997 | 758 | 
 | 2023-01-20 | 997 | 759 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 992 | 748 | 
 | 2022-12-26 | 992 | 748 | 
 | 2022-12-25 | 992 | 748 | 
-| 2022-12-24 | 992 | 748 | 
 

@@ -1,6 +1,6 @@
 # leaky-forms/leaky-forms - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 40 | 5 | 
 | 2023-01-22 | 40 | 5 | 
 | 2023-01-21 | 40 | 5 | 
 | 2023-01-20 | 40 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 39 | 4 | 
 | 2022-12-26 | 39 | 4 | 
 | 2022-12-25 | 39 | 3 | 
-| 2022-12-24 | 39 | 3 | 
 

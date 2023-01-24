@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 23
 
 ☋ Forks: 484
 
-★ Stars: 2254
+★ Stars: 2256
 
 [Open repository](https://github.com/AzuraCast/AzuraCast)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 2254 | 484 | 
+| 2023-01-23 | 2256 | 484 | 
 | 2023-01-22 | 2253 | 485 | 
 | 2023-01-21 | 2250 | 484 | 
 | 2023-01-20 | 2250 | 484 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 2212 | 482 | 
 | 2022-12-26 | 2209 | 481 | 
 | 2022-12-25 | 2208 | 481 | 
-| 2022-12-24 | 2207 | 481 | 
 

@@ -1,6 +1,6 @@
 # dnSpy/dnSpy - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4432
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 22529 | 4432 | 
 | 2023-01-22 | 22529 | 4432 | 
 | 2023-01-21 | 22523 | 4432 | 
 | 2023-01-20 | 22515 | 4429 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 22373 | 4397 | 
 | 2022-12-26 | 22370 | 4397 | 
 | 2022-12-25 | 22367 | 4396 | 
-| 2022-12-24 | 22361 | 4394 | 
 

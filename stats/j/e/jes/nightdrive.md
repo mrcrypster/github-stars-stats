@@ -1,6 +1,6 @@
 # jes/nightdrive - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 170 | 11 | 
 | 2023-01-22 | 170 | 11 | 
 | 2023-01-21 | 170 | 11 | 
 | 2023-01-20 | 170 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 168 | 10 | 
 | 2022-12-26 | 168 | 10 | 
 | 2022-12-25 | 168 | 10 | 
-| 2022-12-24 | 168 | 10 | 
 

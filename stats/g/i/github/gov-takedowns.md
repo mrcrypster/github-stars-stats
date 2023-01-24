@@ -1,10 +1,10 @@
 # github/gov-takedowns - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 186
 
-★ Stars: 2863
+★ Stars: 2864
 
 [Open repository](https://github.com/github/gov-takedowns)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2864 | 186 | 
 | 2023-01-22 | 2863 | 186 | 
 | 2023-01-21 | 2863 | 186 | 
 | 2023-01-20 | 2862 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 2850 | 187 | 
 | 2022-12-26 | 2848 | 187 | 
 | 2022-12-25 | 2847 | 187 | 
-| 2022-12-24 | 2846 | 187 | 
 

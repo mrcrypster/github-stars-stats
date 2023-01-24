@@ -1,10 +1,10 @@
 # nirui/sshwifty - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 248
+☋ Forks: 247
 
-★ Stars: 1349
+★ Stars: 1350
 
 [Open repository](https://github.com/nirui/sshwifty)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1350 | 247 | 
 | 2023-01-22 | 1349 | 248 | 
 | 2023-01-21 | 1349 | 248 | 
 | 2023-01-20 | 1348 | 248 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 1323 | 248 | 
 | 2022-12-27 | 1321 | 248 | 
 | 2022-12-26 | 1319 | 247 | 
-| 2022-12-25 | 1317 | 247 | 
 

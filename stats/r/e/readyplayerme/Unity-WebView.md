@@ -1,10 +1,10 @@
 # readyplayerme/Unity-WebView - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/readyplayerme/Unity-WebView)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 5 | 1 | 
 | 2023-01-22 | 4 | 1 | 
 | 2023-01-21 | 4 | 1 | 
 | 2023-01-20 | 3 | 1 | 

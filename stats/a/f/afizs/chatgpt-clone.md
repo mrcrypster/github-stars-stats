@@ -1,10 +1,10 @@
 # afizs/chatgpt-clone - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 59
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/afizs/chatgpt-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 188 | 59 | 
 | 2023-01-22 | 187 | 59 | 
 | 2023-01-21 | 187 | 58 | 
 | 2023-01-20 | 186 | 57 | 

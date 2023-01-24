@@ -1,10 +1,10 @@
 # manga-download/hakuneko - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 350
+☋ Forks: 351
 
-★ Stars: 2999
+★ Stars: 3001
 
 [Open repository](https://github.com/manga-download/hakuneko)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3001 | 351 | 
 | 2023-01-22 | 2999 | 350 | 
 | 2023-01-21 | 2996 | 350 | 
 | 2023-01-20 | 2994 | 349 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 2931 | 342 | 
 | 2022-12-27 | 2930 | 341 | 
 | 2022-12-26 | 2927 | 342 | 
-| 2022-12-25 | 2925 | 342 | 
 

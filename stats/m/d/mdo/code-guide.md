@@ -1,10 +1,10 @@
 # mdo/code-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1164
 
-★ Stars: 8346
+★ Stars: 8345
 
 [Open repository](https://github.com/mdo/code-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 8345 | 1164 | 
 | 2023-01-22 | 8346 | 1164 | 
 | 2023-01-21 | 8345 | 1164 | 
 | 2023-01-19 | 8346 | 1164 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 8338 | 1163 | 
 | 2022-12-27 | 8337 | 1163 | 
 | 2022-12-26 | 8338 | 1163 | 
-| 2022-12-25 | 8336 | 1163 | 
 

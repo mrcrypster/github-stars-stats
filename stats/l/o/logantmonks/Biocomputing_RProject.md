@@ -1,6 +1,6 @@
 # logantmonks/Biocomputing_RProject - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | - | 29 | 
 | 2023-01-23 | - | 29 | 
 | 2023-01-21 | - | 29 | 
 | 2023-01-20 | - | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | - | 29 | 
 | 2022-12-26 | - | 29 | 
 | 2022-12-25 | - | 29 | 
-| 2022-12-24 | - | 29 | 
 

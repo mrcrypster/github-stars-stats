@@ -1,10 +1,10 @@
 # ceceppa/anima - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 16
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/ceceppa/anima)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 411 | 16 | 
 | 2023-01-22 | 410 | 16 | 
 | 2023-01-21 | 410 | 16 | 
 | 2023-01-20 | 410 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 400 | 16 | 
 | 2022-12-26 | 400 | 16 | 
 | 2022-12-25 | 400 | 16 | 
-| 2022-12-24 | 400 | 16 | 
 

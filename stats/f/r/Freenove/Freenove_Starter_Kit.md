@@ -1,6 +1,6 @@
 # Freenove/Freenove_Starter_Kit - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 28 | 12 | 
 | 2023-01-22 | 28 | 12 | 
 | 2023-01-21 | 28 | 12 | 
 | 2023-01-20 | 28 | 12 | 

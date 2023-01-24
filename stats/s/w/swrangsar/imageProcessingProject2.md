@@ -1,6 +1,6 @@
 # swrangsar/imageProcessingProject2 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | - | - | 
 | 2023-01-22 | - | - | 
 | 2023-01-21 | - | - | 
 | 2023-01-20 | - | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | - | - | 
 | 2022-12-27 | - | - | 
 | 2022-12-25 | - | - | 
-| 2022-12-24 | - | - | 
 

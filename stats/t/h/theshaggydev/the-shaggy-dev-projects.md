@@ -1,6 +1,6 @@
 # theshaggydev/the-shaggy-dev-projects - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 56 | 45 | 
 | 2023-01-22 | 56 | 45 | 
 | 2023-01-21 | 56 | 45 | 
 | 2023-01-20 | 55 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 51 | 39 | 
 | 2022-12-26 | 51 | 37 | 
 | 2022-12-25 | 50 | 37 | 
-| 2022-12-24 | 50 | 37 | 
 

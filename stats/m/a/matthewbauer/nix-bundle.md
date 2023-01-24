@@ -1,10 +1,10 @@
 # matthewbauer/nix-bundle - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 39
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/matthewbauer/nix-bundle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 471 | 39 | 
 | 2023-01-22 | 470 | 39 | 
 | 2023-01-21 | 470 | 39 | 
 | 2023-01-20 | 470 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 473 | 39 | 
 | 2022-12-26 | 473 | 39 | 
 | 2022-12-25 | 473 | 39 | 
-| 2022-12-24 | 473 | 39 | 
 

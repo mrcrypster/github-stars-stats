@@ -1,10 +1,10 @@
 # JeffreySu/WeiXinMPSDK - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4265
 
-★ Stars: 7689
+★ Stars: 7690
 
 [Open repository](https://github.com/JeffreySu/WeiXinMPSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 7690 | 4265 | 
 | 2023-01-22 | 7689 | 4265 | 
 | 2023-01-21 | 7689 | 4265 | 
 | 2023-01-20 | 7688 | 4265 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 7653 | 4256 | 
 | 2022-12-26 | 7654 | 4256 | 
 | 2022-12-25 | 7654 | 4256 | 
-| 2022-12-24 | 7654 | 4255 | 
 

@@ -1,10 +1,10 @@
 # dog-qiuqiu/FastestDet - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 71
 
-★ Stars: 456
+★ Stars: 458
 
 [Open repository](https://github.com/dog-qiuqiu/FastestDet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 458 | 71 | 
 | 2023-01-22 | 456 | 71 | 
 | 2023-01-21 | 456 | 71 | 
 | 2023-01-20 | 456 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 434 | 68 | 
 | 2022-12-26 | 432 | 68 | 
 | 2022-12-25 | 432 | 68 | 
-| 2022-12-24 | 432 | 68 | 
 

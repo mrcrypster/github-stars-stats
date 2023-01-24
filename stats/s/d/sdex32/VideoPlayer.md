@@ -1,6 +1,6 @@
 # sdex32/VideoPlayer - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 10 | 1 | 
 | 2023-01-22 | 10 | 1 | 
 | 2023-01-21 | 10 | 1 | 
 | 2023-01-20 | 10 | 1 | 

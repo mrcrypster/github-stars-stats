@@ -1,10 +1,10 @@
 # vim-scripts/OutlookVim - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/vim-scripts/OutlookVim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 17 | 1 | 
 | 2023-01-23 | 16 | 1 | 
 | 2023-01-22 | 16 | 1 | 
 | 2023-01-20 | 16 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 16 | 1 | 
 | 2022-12-27 | 16 | 1 | 
 | 2022-12-26 | 16 | 1 | 
-| 2022-12-25 | 16 | 1 | 
 

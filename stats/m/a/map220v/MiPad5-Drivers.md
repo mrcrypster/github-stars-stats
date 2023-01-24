@@ -1,10 +1,10 @@
 # map220v/MiPad5-Drivers - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/map220v/MiPad5-Drivers)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 45 | 4 | 
 | 2023-01-22 | 44 | 4 | 
 | 2023-01-21 | 44 | 4 | 
 | 2023-01-20 | 43 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 36 | 5 | 
 | 2022-12-26 | 35 | 5 | 
 | 2022-12-25 | 34 | 5 | 
-| 2022-12-24 | 34 | 5 | 
 

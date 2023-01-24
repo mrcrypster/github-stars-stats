@@ -1,6 +1,6 @@
 # nf-core/sarek - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 272
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 223 | 272 | 
 | 2023-01-22 | 223 | 272 | 
 | 2023-01-21 | 222 | 272 | 
 | 2023-01-20 | 222 | 272 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 214 | 271 | 
 | 2022-12-26 | 214 | 270 | 
 | 2022-12-25 | 213 | 270 | 
-| 2022-12-24 | 213 | 270 | 
 

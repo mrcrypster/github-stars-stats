@@ -1,10 +1,10 @@
 # Regalis11/Barotrauma - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 319
 
-★ Stars: 1151
+★ Stars: 1152
 
 [Open repository](https://github.com/Regalis11/Barotrauma)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1152 | 319 | 
 | 2023-01-23 | 1151 | 319 | 
 | 2023-01-21 | 1150 | 319 | 
 | 2023-01-20 | 1150 | 319 | 

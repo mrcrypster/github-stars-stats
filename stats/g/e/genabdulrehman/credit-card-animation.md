@@ -1,10 +1,10 @@
 # genabdulrehman/credit-card-animation - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 31
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/genabdulrehman/credit-card-animation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 63 | 31 | 
 | 2023-01-22 | 62 | 31 | 
 | 2023-01-21 | 62 | 31 | 
 | 2023-01-20 | 62 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 56 | 30 | 
 | 2022-12-26 | 55 | 30 | 
 | 2022-12-25 | 53 | 29 | 
-| 2022-12-24 | 53 | 28 | 
 

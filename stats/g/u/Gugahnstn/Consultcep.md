@@ -1,10 +1,10 @@
 # Gugahnstn/Consultcep - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 6
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Gugahnstn/Consultcep)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 5 | 6 | 
 | 2023-01-22 | 6 | 6 | 
 | 2023-01-21 | 6 | 6 | 
 | 2023-01-20 | 5 | 5 | 

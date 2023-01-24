@@ -1,6 +1,6 @@
 # handsontable/handsontable - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 2834
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 17416 | 2834 | 
 | 2023-01-22 | 17416 | 2834 | 
 | 2023-01-21 | 17415 | 2834 | 
 | 2023-01-20 | 17415 | 2833 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 17353 | 2827 | 
 | 2022-12-26 | 17351 | 2826 | 
 | 2022-12-25 | 17351 | 2827 | 
-| 2022-12-24 | 17349 | 2827 | 
 

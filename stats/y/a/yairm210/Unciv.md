@@ -1,10 +1,10 @@
 # yairm210/Unciv - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1121
+☋ Forks: 1124
 
-★ Stars: 4771
+★ Stars: 4781
 
 [Open repository](https://github.com/yairm210/Unciv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 4781 | 1124 | 
 | 2023-01-22 | 4771 | 1121 | 
 | 2023-01-21 | 4755 | 1119 | 
 | 2023-01-20 | 4755 | 1119 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 4633 | 1099 | 
 | 2022-12-26 | 4628 | 1096 | 
 | 2022-12-25 | 4622 | 1096 | 
-| 2022-12-24 | 4618 | 1095 | 
 

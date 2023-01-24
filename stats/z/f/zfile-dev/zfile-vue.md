@@ -1,6 +1,6 @@
 # zfile-dev/zfile-vue - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 312 | 196 | 
 | 2023-01-22 | 312 | 196 | 
 | 2023-01-21 | 312 | 197 | 
 | 2023-01-20 | 311 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 308 | 188 | 
 | 2022-12-26 | 307 | 188 | 
 | 2022-12-25 | 307 | 188 | 
-| 2022-12-24 | 307 | 188 | 
 

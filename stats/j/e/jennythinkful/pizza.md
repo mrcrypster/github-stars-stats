@@ -1,8 +1,8 @@
 # jennythinkful/pizza - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 695
+☋ Forks: 696
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3 | 696 | 
 | 2023-01-22 | 3 | 695 | 
 | 2023-01-21 | 3 | 695 | 
 | 2023-01-20 | 3 | 693 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3 | 688 | 
 | 2022-12-26 | 3 | 687 | 
 | 2022-12-25 | 3 | 686 | 
-| 2022-12-24 | 3 | 686 | 
 

@@ -1,10 +1,10 @@
 # don-tnowe/godot-resources-as-sheets-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/don-tnowe/godot-resources-as-sheets-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 56 | 2 | 
 | 2023-01-22 | 55 | 2 | 
 | 2023-01-21 | 55 | 2 | 
 | 2023-01-20 | 54 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 50 | 2 | 
 | 2022-12-26 | 50 | 2 | 
 | 2022-12-25 | 50 | 2 | 
-| 2022-12-24 | 50 | 2 | 
 

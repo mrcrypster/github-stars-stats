@@ -1,6 +1,6 @@
 # deislabs/runwasi - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 370 | 27 | 
 | 2023-01-22 | 370 | 27 | 
 | 2023-01-21 | 370 | 27 | 
 | 2023-01-20 | 369 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 327 | 24 | 
 | 2022-12-26 | 324 | 24 | 
 | 2022-12-25 | 324 | 24 | 
-| 2022-12-24 | 321 | 24 | 
 

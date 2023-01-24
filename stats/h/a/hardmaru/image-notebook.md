@@ -1,10 +1,10 @@
 # hardmaru/image-notebook - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 8
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/hardmaru/image-notebook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 72 | 8 | 
 | 2023-01-22 | 71 | 8 | 
 | 2023-01-21 | 71 | 8 | 
 | 2023-01-20 | 71 | 8 | 

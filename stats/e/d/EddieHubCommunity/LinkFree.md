@@ -1,10 +1,10 @@
 # EddieHubCommunity/LinkFree - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1852
+☋ Forks: 1873
 
-★ Stars: 2570
+★ Stars: 2590
 
 [Open repository](https://github.com/EddieHubCommunity/LinkFree)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2590 | 1873 | 
 | 2023-01-22 | 2570 | 1852 | 
 | 2023-01-21 | 2542 | 1821 | 
 | 2023-01-20 | 2525 | 1808 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1497 | 1339 | 
 | 2022-12-26 | 1489 | 1333 | 
 | 2022-12-25 | 1477 | 1323 | 
-| 2022-12-24 | 1467 | 1314 | 
 

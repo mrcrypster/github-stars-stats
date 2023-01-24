@@ -1,6 +1,6 @@
 # maca88/SmartBikeLights - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 55 | 5 | 
 | 2023-01-23 | 55 | 5 | 
 | 2023-01-22 | 55 | 5 | 
 | 2023-01-20 | 55 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 55 | 4 | 
 | 2022-12-26 | 55 | 4 | 
 | 2022-12-25 | 55 | 4 | 
-| 2022-12-24 | 55 | 4 | 
 

@@ -1,10 +1,10 @@
 # starship/starship - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1360
+☋ Forks: 1361
 
-★ Stars: 32059
+★ Stars: 32068
 
 [Open repository](https://github.com/starship/starship)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 32068 | 1361 | 
 | 2023-01-22 | 32059 | 1360 | 
 | 2023-01-21 | 32040 | 1361 | 
 | 2023-01-20 | 32023 | 1361 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 31509 | 1331 | 
 | 2022-12-26 | 31494 | 1330 | 
 | 2022-12-25 | 31441 | 1324 | 
-| 2022-12-24 | 31423 | 1321 | 
 

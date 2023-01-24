@@ -1,6 +1,6 @@
 # loki79uk/FS22_UniversalAutoload - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 88 | 28 | 
 | 2023-01-23 | 88 | 28 | 
 | 2023-01-21 | 88 | 28 | 
 | 2023-01-20 | 88 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 87 | 28 | 
 | 2022-12-27 | 87 | 28 | 
 | 2022-12-25 | 87 | 28 | 
-| 2022-12-24 | 87 | 28 | 
 

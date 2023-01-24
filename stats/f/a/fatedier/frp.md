@@ -1,10 +1,10 @@
 # fatedier/frp - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 11038
+☋ Forks: 11037
 
-★ Stars: 63659
+★ Stars: 63669
 
 [Open repository](https://github.com/fatedier/frp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 63669 | 11037 | 
 | 2023-01-22 | 63659 | 11038 | 
 | 2023-01-21 | 63651 | 11038 | 
 | 2023-01-20 | 63633 | 11039 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 63054 | 10997 | 
 | 2022-12-26 | 63038 | 10994 | 
 | 2022-12-25 | 63016 | 10992 | 
-| 2022-12-24 | 63003 | 10992 | 
 

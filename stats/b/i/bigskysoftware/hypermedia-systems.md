@@ -1,10 +1,10 @@
 # bigskysoftware/hypermedia-systems - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/bigskysoftware/hypermedia-systems)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 69 | 10 | 
+| 2023-01-23 | 69 | 10 | 
 | 2023-01-22 | 67 | 9 | 
 | 2023-01-21 | 66 | 9 | 
 | 2023-01-20 | 66 | 9 | 

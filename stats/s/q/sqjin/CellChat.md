@@ -1,6 +1,6 @@
 # sqjin/CellChat - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 394 | 105 | 
 | 2023-01-22 | 394 | 105 | 
 | 2023-01-21 | 394 | 105 | 
 | 2023-01-20 | 394 | 105 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 378 | 102 | 
 | 2022-12-26 | 378 | 102 | 
 | 2022-12-25 | 378 | 102 | 
-| 2022-12-24 | 377 | 102 | 
 

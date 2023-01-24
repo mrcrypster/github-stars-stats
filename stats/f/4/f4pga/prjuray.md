@@ -1,6 +1,6 @@
 # f4pga/prjuray - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 46 | 12 | 
 | 2023-01-22 | 46 | 12 | 
 | 2023-01-21 | 46 | 12 | 
 | 2023-01-19 | 46 | 12 | 

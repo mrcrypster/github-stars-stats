@@ -1,10 +1,10 @@
 # microsoft/vscode - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 24517
+☋ Forks: 24526
 
-★ Stars: 141638
+★ Stars: 141673
 
 [Open repository](https://github.com/microsoft/vscode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 141673 | 24526 | 
 | 2023-01-22 | 141638 | 24517 | 
 | 2023-01-21 | 141612 | 24516 | 
 | 2023-01-20 | 141570 | 24508 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 140723 | 24352 | 
 | 2022-12-26 | 140689 | 24341 | 
 | 2022-12-25 | 140656 | 24331 | 
-| 2022-12-24 | 140630 | 24325 | 
 

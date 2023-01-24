@@ -1,6 +1,6 @@
 # apple/swift-nio-ssl-support - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 31 | 16 | 
 | 2023-01-22 | 31 | 16 | 
 | 2023-01-21 | 31 | 16 | 
 | 2023-01-20 | 31 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 31 | 16 | 
 | 2022-12-27 | 31 | 16 | 
 | 2022-12-25 | 31 | 16 | 
-| 2022-12-24 | 31 | 16 | 
 

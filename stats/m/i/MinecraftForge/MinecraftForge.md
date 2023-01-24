@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 23
 
 ☋ Forks: 2465
 
-★ Stars: 5940
+★ Stars: 5943
 
 [Open repository](https://github.com/MinecraftForge/MinecraftForge)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 5940 | 2465 | 
+| 2023-01-23 | 5943 | 2465 | 
 | 2023-01-22 | 5940 | 2465 | 
 | 2023-01-20 | 5935 | 2465 | 
 | 2023-01-19 | 5933 | 2465 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 5893 | 2455 | 
 | 2022-12-26 | 5893 | 2454 | 
 | 2022-12-25 | 5891 | 2453 | 
-| 2022-12-24 | 5888 | 2453 | 
 

@@ -1,8 +1,8 @@
 # WordPress/wordpress-develop - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1638
+☋ Forks: 1639
 
 ★ Stars: 1757
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1757 | 1639 | 
 | 2023-01-22 | 1757 | 1638 | 
 | 2023-01-21 | 1756 | 1637 | 
 | 2023-01-20 | 1756 | 1635 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1729 | 1596 | 
 | 2022-12-26 | 1729 | 1598 | 
 | 2022-12-25 | 1729 | 1598 | 
-| 2022-12-24 | 1726 | 1595 | 
 

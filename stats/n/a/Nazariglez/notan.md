@@ -1,6 +1,6 @@
 # Nazariglez/notan - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 424 | 28 | 
 | 2023-01-22 | 424 | 28 | 
 | 2023-01-21 | 421 | 28 | 
 | 2023-01-20 | 420 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 410 | 27 | 
 | 2022-12-26 | 409 | 27 | 
 | 2022-12-25 | 408 | 27 | 
-| 2022-12-24 | 407 | 27 | 
 

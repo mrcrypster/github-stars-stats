@@ -1,8 +1,8 @@
 # iorate/ublacklist - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 150
+☋ Forks: 151
 
 ★ Stars: 3703
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3703 | 151 | 
 | 2023-01-23 | 3703 | 150 | 
 | 2023-01-21 | 3702 | 150 | 
 | 2023-01-20 | 3700 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 3670 | 148 | 
 | 2022-12-26 | 3669 | 148 | 
 | 2022-12-25 | 3669 | 148 | 
-| 2022-12-24 | 3667 | 148 | 
 

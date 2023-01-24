@@ -1,10 +1,10 @@
 # FuLoRi/Analyze-LastPassVaultGUI - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/FuLoRi/Analyze-LastPassVaultGUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 30 | 4 | 
 | 2023-01-22 | 29 | 4 | 
 | 2023-01-21 | 29 | 4 | 
 | 2023-01-20 | 29 | 4 | 

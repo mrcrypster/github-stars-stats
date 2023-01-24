@@ -1,6 +1,6 @@
 # KindlingProject/kindling - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 299 | 58 | 
 | 2023-01-22 | 299 | 58 | 
 | 2023-01-21 | 299 | 58 | 
 | 2023-01-20 | 299 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 284 | 57 | 
 | 2022-12-26 | 285 | 56 | 
 | 2022-12-25 | 284 | 56 | 
-| 2022-12-24 | 284 | 56 | 
 

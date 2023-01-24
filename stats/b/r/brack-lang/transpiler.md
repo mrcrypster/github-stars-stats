@@ -1,10 +1,10 @@
 # brack-lang/transpiler - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/brack-lang/transpiler)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 33 | - | 
 | 2023-01-22 | 32 | - | 
 | 2023-01-21 | 32 | - | 
 | 2023-01-20 | 32 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 31 | - | 
 | 2022-12-26 | 31 | - | 
 | 2022-12-25 | 31 | - | 
-| 2022-12-24 | 31 | - | 
 

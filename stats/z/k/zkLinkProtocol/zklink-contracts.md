@@ -1,8 +1,8 @@
 # zkLinkProtocol/zklink-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 19 | 10 | 
 | 2023-01-22 | 19 | 9 | 
 | 2023-01-21 | 19 | 9 | 
 | 2023-01-20 | 19 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 17 | 7 | 
 | 2022-12-26 | 17 | 7 | 
 | 2022-12-25 | 17 | 7 | 
-| 2022-12-24 | 17 | 7 | 
 

@@ -1,6 +1,6 @@
 # infosecn1nja/AD-Attack-Defense - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 950
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3748 | 950 | 
 | 2023-01-22 | 3748 | 950 | 
 | 2023-01-21 | 3748 | 951 | 
 | 2023-01-20 | 3745 | 950 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3724 | 945 | 
 | 2022-12-26 | 3722 | 945 | 
 | 2022-12-25 | 3721 | 945 | 
-| 2022-12-24 | 3721 | 945 | 
 

@@ -1,6 +1,6 @@
 # vdumoulin/conv_arithmetic - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 2173
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 12646 | 2173 | 
 | 2023-01-22 | 12646 | 2173 | 
 | 2023-01-21 | 12644 | 2173 | 
 | 2023-01-20 | 12644 | 2173 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 12599 | 2169 | 
 | 2022-12-26 | 12597 | 2169 | 
 | 2022-12-25 | 12595 | 2168 | 
-| 2022-12-24 | 12594 | 2168 | 
 

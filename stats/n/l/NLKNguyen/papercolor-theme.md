@@ -1,8 +1,8 @@
 # NLKNguyen/papercolor-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 222
+☋ Forks: 223
 
 ★ Stars: 2424
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2424 | 223 | 
 | 2023-01-22 | 2424 | 222 | 
 | 2023-01-21 | 2423 | 222 | 
 | 2023-01-20 | 2422 | 222 | 

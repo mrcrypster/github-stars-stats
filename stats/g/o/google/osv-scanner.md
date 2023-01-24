@@ -1,10 +1,10 @@
 # google/osv-scanner - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 202
 
-★ Stars: 4304
+★ Stars: 4318
 
 [Open repository](https://github.com/google/osv-scanner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 4318 | 202 | 
 | 2023-01-22 | 4304 | 202 | 
 | 2023-01-21 | 4287 | 200 | 
 | 2023-01-20 | 4278 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 2880 | 143 | 
 | 2022-12-26 | 2837 | 140 | 
 | 2022-12-25 | 2785 | 141 | 
-| 2022-12-24 | 2728 | 139 | 
 

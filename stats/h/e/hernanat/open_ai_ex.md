@@ -1,10 +1,10 @@
 # hernanat/open_ai_ex - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/hernanat/open_ai_ex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 24 | 1 | 
 | 2023-01-22 | 23 | 1 | 
 | 2023-01-21 | 23 | 1 | 
 | 2023-01-20 | 23 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 19 | 1 | 
 | 2022-12-26 | 19 | 1 | 
 | 2022-12-25 | 19 | 1 | 
-| 2022-12-24 | 18 | 1 | 
 

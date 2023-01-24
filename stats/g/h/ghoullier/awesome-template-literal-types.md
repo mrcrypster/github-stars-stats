@@ -1,10 +1,10 @@
 # ghoullier/awesome-template-literal-types - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 20
 
-★ Stars: 947
+★ Stars: 949
 
 [Open repository](https://github.com/ghoullier/awesome-template-literal-types)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 949 | 20 | 
 | 2023-01-22 | 947 | 20 | 
 | 2023-01-21 | 948 | 20 | 
 | 2023-01-20 | 948 | 20 | 

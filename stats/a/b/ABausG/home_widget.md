@@ -1,6 +1,6 @@
 # ABausG/home_widget - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 415 | 99 | 
 | 2023-01-22 | 415 | 99 | 
 | 2023-01-21 | 415 | 99 | 
 | 2023-01-20 | 415 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 404 | 93 | 
 | 2022-12-26 | 404 | 93 | 
 | 2022-12-25 | 404 | 93 | 
-| 2022-12-24 | 403 | 93 | 
 

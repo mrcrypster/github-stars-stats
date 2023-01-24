@@ -1,6 +1,6 @@
 # hackerschoice/segfault - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 165 | 14 | 
 | 2023-01-22 | 165 | 14 | 
 | 2023-01-21 | 165 | 14 | 
 | 2023-01-20 | 164 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 160 | 14 | 
 | 2022-12-27 | 160 | 14 | 
 | 2022-12-26 | 160 | 14 | 
-| 2022-12-25 | 160 | 14 | 
 

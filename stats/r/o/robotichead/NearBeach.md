@@ -1,6 +1,6 @@
 # robotichead/NearBeach - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 117 | 44 | 
 | 2023-01-22 | 117 | 44 | 
 | 2023-01-21 | 117 | 44 | 
 | 2023-01-20 | 117 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 115 | 42 | 
 | 2022-12-26 | 115 | 42 | 
 | 2022-12-25 | 115 | 42 | 
-| 2022-12-24 | 115 | 42 | 
 

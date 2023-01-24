@@ -1,6 +1,6 @@
 # kennethleungty/Failed-ML - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 447 | 29 | 
 | 2023-01-22 | 447 | 29 | 
 | 2023-01-21 | 447 | 29 | 
 | 2023-01-20 | 448 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 441 | 28 | 
 | 2022-12-26 | 440 | 28 | 
 | 2022-12-25 | 440 | 28 | 
-| 2022-12-24 | 440 | 28 | 
 

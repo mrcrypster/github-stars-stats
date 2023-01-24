@@ -1,6 +1,6 @@
 # JasonBarnabe/greasyfork - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 397
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1129 | 397 | 
 | 2023-01-22 | 1129 | 397 | 
 | 2023-01-21 | 1127 | 397 | 
 | 2023-01-20 | 1127 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1112 | 392 | 
 | 2022-12-26 | 1112 | 392 | 
 | 2022-12-25 | 1111 | 392 | 
-| 2022-12-24 | 1111 | 392 | 
 

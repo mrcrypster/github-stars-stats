@@ -1,10 +1,10 @@
 # NixOS/nix-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 65
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/NixOS/nix-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 217 | 65 | 
 | 2023-01-22 | 216 | 65 | 
 | 2023-01-21 | 216 | 65 | 
 | 2023-01-20 | 216 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 213 | 64 | 
 | 2022-12-26 | 213 | 64 | 
 | 2022-12-25 | 213 | 64 | 
-| 2022-12-24 | 212 | 64 | 
 

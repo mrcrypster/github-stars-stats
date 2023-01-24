@@ -1,6 +1,6 @@
 # imchillin/Anamnesis - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 653 | 137 | 
 | 2023-01-22 | 653 | 137 | 
 | 2023-01-21 | 651 | 137 | 
 | 2023-01-20 | 651 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 643 | 135 | 
 | 2022-12-26 | 642 | 134 | 
 | 2022-12-25 | 642 | 134 | 
-| 2022-12-24 | 641 | 134 | 
 

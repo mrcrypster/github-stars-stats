@@ -1,8 +1,8 @@
 # TayMcKenzieNZ/rpemotes - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 54
+☋ Forks: 55
 
 ★ Stars: 143
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 143 | 55 | 
 | 2023-01-22 | 143 | 54 | 
 | 2023-01-21 | 142 | 52 | 
 | 2023-01-20 | 142 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 129 | 33 | 
 | 2022-12-26 | 129 | 33 | 
 | 2022-12-25 | 129 | 33 | 
-| 2022-12-24 | 129 | 32 | 
 

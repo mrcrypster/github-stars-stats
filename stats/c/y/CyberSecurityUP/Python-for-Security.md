@@ -1,6 +1,6 @@
 # CyberSecurityUP/Python-for-Security - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 83 | 23 | 
 | 2023-01-22 | 83 | 23 | 
 | 2023-01-21 | 83 | 23 | 
 | 2023-01-20 | 83 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 80 | 20 | 
 | 2022-12-27 | 80 | 20 | 
 | 2022-12-26 | 80 | 20 | 
-| 2022-12-25 | 80 | 20 | 
 

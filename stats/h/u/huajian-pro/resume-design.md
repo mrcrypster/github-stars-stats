@@ -1,6 +1,6 @@
 # huajian-pro/resume-design - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 382 | 68 | 
 | 2023-01-22 | 382 | 68 | 
 | 2023-01-21 | 382 | 68 | 
 | 2023-01-20 | 382 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 363 | 66 | 
 | 2022-12-26 | 361 | 66 | 
 | 2022-12-25 | 360 | 66 | 
-| 2022-12-24 | 360 | 66 | 
 

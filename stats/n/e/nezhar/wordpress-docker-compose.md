@@ -1,8 +1,8 @@
 # nezhar/wordpress-docker-compose - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1000
+☋ Forks: 1001
 
 ★ Stars: 1498
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1498 | 1001 | 
 | 2023-01-22 | 1498 | 1000 | 
 | 2023-01-21 | 1499 | 1000 | 
 

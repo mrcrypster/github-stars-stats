@@ -1,10 +1,10 @@
 # alist-org/alist - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 2425
+☋ Forks: 2432
 
-★ Stars: 17041
+★ Stars: 17108
 
 [Open repository](https://github.com/alist-org/alist)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 17108 | 2432 | 
 | 2023-01-22 | 17041 | 2425 | 
 | 2023-01-21 | 16982 | 2418 | 
 | 2023-01-20 | 16883 | 2406 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 14101 | 2033 | 
 | 2022-12-26 | 14002 | 2022 | 
 | 2022-12-25 | 13984 | 2020 | 
-| 2022-12-24 | 13948 | 2017 | 
 

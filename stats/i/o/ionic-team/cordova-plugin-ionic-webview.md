@@ -1,10 +1,10 @@
 # ionic-team/cordova-plugin-ionic-webview - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 352
 
-★ Stars: 465
+★ Stars: 466
 
 [Open repository](https://github.com/ionic-team/cordova-plugin-ionic-webview)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 466 | 352 | 
 | 2023-01-23 | 465 | 352 | 
 | 2023-01-21 | 465 | 352 | 
 | 2023-01-20 | 465 | 351 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 464 | 352 | 
 | 2022-12-27 | 464 | 352 | 
 | 2022-12-26 | 464 | 352 | 
-| 2022-12-24 | 464 | 352 | 
 

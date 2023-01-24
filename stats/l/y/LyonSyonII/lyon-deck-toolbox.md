@@ -1,6 +1,6 @@
 # LyonSyonII/lyon-deck-toolbox - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 47 | - | 
 | 2023-01-22 | 47 | - | 
 | 2023-01-21 | 47 | - | 
 | 2023-01-20 | 46 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 41 | - | 
 | 2022-12-26 | 41 | - | 
 | 2022-12-25 | 41 | - | 
-| 2022-12-24 | 40 | - | 
 

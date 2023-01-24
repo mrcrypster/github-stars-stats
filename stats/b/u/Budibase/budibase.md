@@ -1,10 +1,10 @@
 # Budibase/budibase - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1031
+☋ Forks: 1032
 
-★ Stars: 17128
+★ Stars: 17134
 
 [Open repository](https://github.com/Budibase/budibase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 17134 | 1032 | 
 | 2023-01-22 | 17128 | 1031 | 
 | 2023-01-21 | 17127 | 1031 | 
 | 2023-01-20 | 17120 | 1032 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 16791 | 1018 | 
 | 2022-12-26 | 16784 | 1017 | 
 | 2022-12-25 | 16774 | 1015 | 
-| 2022-12-24 | 16765 | 1014 | 
 

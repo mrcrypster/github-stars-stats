@@ -1,6 +1,6 @@
 # comet-ml/kangas - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 716 | 33 | 
 | 2023-01-22 | 716 | 33 | 
 | 2023-01-21 | 716 | 33 | 
 | 2023-01-19 | 715 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 623 | 25 | 
 | 2022-12-27 | 620 | 25 | 
 | 2022-12-26 | 619 | 25 | 
-| 2022-12-25 | 618 | 25 | 
 

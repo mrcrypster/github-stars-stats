@@ -1,10 +1,10 @@
 # KEJIXIAOLU/FQ - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 43
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/KEJIXIAOLU/FQ)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 265 | 43 | 
 | 2023-01-22 | 264 | 43 | 
 | 2023-01-21 | 263 | 42 | 
 | 2023-01-20 | 263 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 238 | 39 | 
 | 2022-12-26 | 238 | 39 | 
 | 2022-12-25 | 238 | 39 | 
-| 2022-12-24 | 238 | 39 | 
 

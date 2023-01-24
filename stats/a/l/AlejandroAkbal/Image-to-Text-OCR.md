@@ -1,6 +1,6 @@
 # AlejandroAkbal/Image-to-Text-OCR - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 104 | 15 | 
 | 2023-01-22 | 104 | 15 | 
 | 2023-01-21 | 104 | 15 | 
 | 2023-01-20 | 103 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 83 | 13 | 
 | 2022-12-27 | 83 | 13 | 
 | 2022-12-26 | 83 | 13 | 
-| 2022-12-25 | 83 | 13 | 
 

@@ -1,10 +1,10 @@
 # brson/wasm-opt-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/brson/wasm-opt-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 18 | 5 | 
 | 2023-01-22 | 17 | 5 | 
 | 2023-01-20 | 17 | 5 | 
 | 2023-01-19 | 17 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 16 | 5 | 
 | 2022-12-27 | 16 | 5 | 
 | 2022-12-26 | 16 | 5 | 
-| 2022-12-25 | 16 | 5 | 
 

@@ -1,8 +1,8 @@
 # the-tech-academy/developers - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 396
+☋ Forks: 397
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3 | 397 | 
 | 2023-01-22 | 3 | 396 | 
 | 2023-01-21 | 3 | 396 | 
 | 2023-01-20 | 3 | 396 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 3 | 380 | 
 | 2022-12-27 | 3 | 379 | 
 | 2022-12-26 | 3 | 378 | 
-| 2022-12-25 | 3 | 377 | 
 

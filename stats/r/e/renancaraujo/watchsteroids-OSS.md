@@ -1,10 +1,10 @@
 # renancaraujo/watchsteroids-OSS - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/renancaraujo/watchsteroids-OSS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 183 | 8 | 
 | 2023-01-22 | 182 | 7 | 
 | 2023-01-21 | 181 | 7 | 
 | 2023-01-20 | 173 | 7 | 

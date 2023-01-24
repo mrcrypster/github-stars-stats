@@ -1,8 +1,8 @@
 # terraform-google-modules/terraform-google-lb-http - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 294
+☋ Forks: 295
 
 ★ Stars: 245
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 245 | 295 | 
 | 2023-01-22 | 245 | 294 | 
 | 2023-01-21 | 245 | 294 | 
 | 2023-01-20 | 244 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 236 | 291 | 
 | 2022-12-26 | 236 | 290 | 
 | 2022-12-25 | 236 | 290 | 
-| 2022-12-24 | 236 | 290 | 
 

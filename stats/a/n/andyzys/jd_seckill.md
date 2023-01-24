@@ -1,8 +1,8 @@
 # andyzys/jd_seckill - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 7432
+☋ Forks: 7431
 
 ★ Stars: 1532
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1532 | 7431 | 
 | 2023-01-22 | 1532 | 7432 | 
 | 2023-01-21 | 1532 | 7432 | 
 | 2023-01-20 | 1531 | 7432 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1493 | 7435 | 
 | 2022-12-26 | 1489 | 7435 | 
 | 2022-12-25 | 1487 | 7432 | 
-| 2022-12-24 | 1481 | 7431 | 
 

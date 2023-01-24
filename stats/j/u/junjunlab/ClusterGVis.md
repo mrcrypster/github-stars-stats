@@ -1,10 +1,10 @@
 # junjunlab/ClusterGVis - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/junjunlab/ClusterGVis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 50 | 4 | 
 | 2023-01-22 | 49 | 4 | 
 | 2023-01-21 | 49 | 4 | 
 | 2023-01-20 | 49 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 41 | 4 | 
 | 2022-12-26 | 41 | 4 | 
 | 2022-12-25 | 41 | 4 | 
-| 2022-12-24 | 41 | 3 | 
 

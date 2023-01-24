@@ -1,6 +1,6 @@
 # cheatfate/asynctools - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 100 | 33 | 
 | 2023-01-22 | 100 | 33 | 
 | 2023-01-21 | 100 | 33 | 
 | 2023-01-19 | 100 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 99 | 33 | 
 | 2022-12-26 | 99 | 33 | 
 | 2022-12-25 | 98 | 33 | 
-| 2022-12-24 | 98 | 33 | 
 

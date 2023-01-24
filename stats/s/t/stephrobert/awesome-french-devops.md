@@ -1,6 +1,6 @@
 # stephrobert/awesome-french-devops - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 930 | 85 | 
 | 2023-01-22 | 930 | 85 | 
 | 2023-01-21 | 928 | 85 | 
 | 2023-01-20 | 928 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 867 | 79 | 
 | 2022-12-26 | 865 | 79 | 
 | 2022-12-25 | 860 | 79 | 
-| 2022-12-24 | 858 | 78 | 
 

@@ -1,10 +1,10 @@
 # google-research/dex-lang - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 88
 
-★ Stars: 1351
+★ Stars: 1352
 
 [Open repository](https://github.com/google-research/dex-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1352 | 88 | 
 | 2023-01-22 | 1351 | 88 | 
 | 2023-01-21 | 1350 | 88 | 
 | 2023-01-19 | 1350 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 1342 | 88 | 
 | 2022-12-27 | 1342 | 88 | 
 | 2022-12-26 | 1341 | 88 | 
-| 2022-12-25 | 1341 | 88 | 
 

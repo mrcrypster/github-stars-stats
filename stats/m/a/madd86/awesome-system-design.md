@@ -1,10 +1,10 @@
 # madd86/awesome-system-design - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 575
 
-★ Stars: 6470
+★ Stars: 6473
 
 [Open repository](https://github.com/madd86/awesome-system-design)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 6473 | 575 | 
 | 2023-01-22 | 6470 | 575 | 
 | 2023-01-21 | 6468 | 575 | 
 | 2023-01-20 | 6467 | 574 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 6384 | 570 | 
 | 2022-12-26 | 6383 | 570 | 
 | 2022-12-25 | 6380 | 569 | 
-| 2022-12-24 | 6379 | 569 | 
 

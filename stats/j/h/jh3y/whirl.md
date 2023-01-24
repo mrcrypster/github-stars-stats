@@ -1,10 +1,10 @@
 # jh3y/whirl - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 234
 
-★ Stars: 1401
+★ Stars: 1403
 
 [Open repository](https://github.com/jh3y/whirl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1403 | 234 | 
 | 2023-01-22 | 1401 | 234 | 
 | 2023-01-21 | 1401 | 233 | 
 | 2023-01-20 | 1400 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1381 | 225 | 
 | 2022-12-26 | 1382 | 225 | 
 | 2022-12-25 | 1382 | 224 | 
-| 2022-12-24 | 1382 | 224 | 
 

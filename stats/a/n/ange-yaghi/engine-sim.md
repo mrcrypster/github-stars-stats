@@ -1,10 +1,10 @@
 # ange-yaghi/engine-sim - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
-☋ Forks: 683
+☋ Forks: 685
 
-★ Stars: 7367
+★ Stars: 7372
 
 [Open repository](https://github.com/ange-yaghi/engine-sim)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 7372 | 685 | 
+| 2023-01-23 | 7373 | 685 | 
 | 2023-01-22 | 7367 | 683 | 
 | 2023-01-21 | 7350 | 681 | 
 | 2023-01-20 | 7346 | 680 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 7251 | 666 | 
 | 2022-12-26 | 7249 | 666 | 
 | 2022-12-25 | 7243 | 667 | 
-| 2022-12-24 | 7242 | 667 | 
 

@@ -1,6 +1,6 @@
 # hpi-schul-cloud/schulcloud-client - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 32 | 11 | 
+| 2023-01-23 | 32 | 11 | 
 | 2023-01-22 | 32 | 11 | 
 | 2023-01-21 | 32 | 11 | 
 | 2023-01-20 | 32 | 11 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 32 | 11 | 
 | 2022-12-26 | 32 | 11 | 
 | 2022-12-25 | 32 | 11 | 
-| 2022-12-24 | 32 | 11 | 
 

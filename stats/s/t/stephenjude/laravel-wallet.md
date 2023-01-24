@@ -1,6 +1,6 @@
 # stephenjude/laravel-wallet - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 219 | 16 | 
 | 2023-01-22 | 219 | 16 | 
 | 2023-01-21 | 218 | 15 | 
 | 2023-01-20 | 218 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 215 | 14 | 
 | 2022-12-26 | 215 | 14 | 
 | 2022-12-25 | 215 | 14 | 
-| 2022-12-24 | 215 | 14 | 
 

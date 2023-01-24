@@ -1,6 +1,6 @@
 # purcell/ibuffer-vc - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 152 | 10 | 
 | 2023-01-23 | 152 | 10 | 
 | 2023-01-22 | 152 | 10 | 
 | 2023-01-20 | 152 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 151 | 10 | 
 | 2022-12-26 | 151 | 10 | 
 | 2022-12-25 | 151 | 10 | 
-| 2022-12-24 | 151 | 10 | 
 

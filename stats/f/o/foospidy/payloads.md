@@ -1,6 +1,6 @@
 # foospidy/payloads - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 967
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3203 | 967 | 
 | 2023-01-22 | 3203 | 967 | 
 | 2023-01-21 | 3203 | 967 | 
 | 2023-01-20 | 3200 | 967 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3184 | 964 | 
 | 2022-12-26 | 3183 | 964 | 
 | 2022-12-25 | 3182 | 964 | 
-| 2022-12-24 | 3181 | 964 | 
 

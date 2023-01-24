@@ -1,6 +1,6 @@
 # haoel/haoel.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 1078
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 6561 | 1078 | 
 | 2023-01-22 | 6561 | 1078 | 
 | 2023-01-21 | 6559 | 1077 | 
 | 2023-01-20 | 6557 | 1077 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 6508 | 1070 | 
 | 2022-12-26 | 6506 | 1068 | 
 | 2022-12-25 | 6501 | 1067 | 
-| 2022-12-24 | 6498 | 1067 | 
 

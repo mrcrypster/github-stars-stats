@@ -1,6 +1,6 @@
 # codestates-seb/seb41_main_028 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 5 | 7 | 
 | 2023-01-22 | 5 | 7 | 
 | 2023-01-21 | 5 | 7 | 
 | 2023-01-20 | 5 | 7 | 

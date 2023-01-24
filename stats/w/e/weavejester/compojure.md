@@ -1,10 +1,10 @@
 # weavejester/compojure - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 261
 
-★ Stars: 3994
+★ Stars: 3993
 
 [Open repository](https://github.com/weavejester/compojure)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3993 | 261 | 
 | 2023-01-22 | 3994 | 261 | 
 | 2023-01-21 | 3994 | 261 | 
 | 2023-01-20 | 3993 | 261 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3982 | 261 | 
 | 2022-12-26 | 3980 | 261 | 
 | 2022-12-25 | 3980 | 261 | 
-| 2022-12-24 | 3980 | 261 | 
 

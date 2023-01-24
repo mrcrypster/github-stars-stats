@@ -1,6 +1,6 @@
 # kleiton0x00/Advanced-SQL-Injection-Cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 456
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1708 | 456 | 
 | 2023-01-22 | 1708 | 456 | 
 | 2023-01-21 | 1708 | 456 | 
 | 2023-01-20 | 1707 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1674 | 452 | 
 | 2022-12-26 | 1673 | 452 | 
 | 2022-12-25 | 1673 | 451 | 
-| 2022-12-24 | 1673 | 450 | 
 

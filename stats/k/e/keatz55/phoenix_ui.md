@@ -1,6 +1,6 @@
 # keatz55/phoenix_ui - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 14 | - | 
 | 2023-01-23 | 14 | - | 
 | 2023-01-22 | 14 | - | 
 | 2023-01-20 | 14 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 11 | - | 
 | 2022-12-27 | 11 | - | 
 | 2022-12-26 | 11 | - | 
-| 2022-12-25 | 11 | - | 
 

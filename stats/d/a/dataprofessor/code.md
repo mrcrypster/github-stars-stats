@@ -1,10 +1,10 @@
 # dataprofessor/code - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1298
+☋ Forks: 1299
 
-★ Stars: 726
+★ Stars: 727
 
 [Open repository](https://github.com/dataprofessor/code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 727 | 1299 | 
 | 2023-01-22 | 726 | 1298 | 
 | 2023-01-21 | 726 | 1297 | 
 | 2023-01-19 | 726 | 1299 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 714 | 1277 | 
 | 2022-12-27 | 714 | 1276 | 
 | 2022-12-26 | 714 | 1275 | 
-| 2022-12-25 | 714 | 1273 | 
 

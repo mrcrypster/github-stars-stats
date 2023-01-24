@@ -1,8 +1,8 @@
 # apache/dubbo-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1540
+☋ Forks: 1541
 
 ★ Stars: 1855
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1855 | 1541 | 
 | 2023-01-23 | 1855 | 1540 | 
 | 2023-01-21 | 1854 | 1540 | 
 | 2023-01-20 | 1853 | 1540 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1833 | 1519 | 
 | 2022-12-27 | 1833 | 1519 | 
 | 2022-12-25 | 1833 | 1519 | 
-| 2022-12-24 | 1833 | 1518 | 
 

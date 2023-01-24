@@ -1,6 +1,6 @@
 # okta/okta-jwt-verifier-java - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 72 | 36 | 
 | 2023-01-22 | 72 | 36 | 
 | 2023-01-21 | 72 | 36 | 
 | 2023-01-20 | 72 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 71 | 36 | 
 | 2022-12-27 | 71 | 36 | 
 | 2022-12-25 | 71 | 36 | 
-| 2022-12-24 | 71 | 36 | 
 

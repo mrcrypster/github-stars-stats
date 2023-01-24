@@ -1,8 +1,8 @@
 # frones/ACBr - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 146
+☋ Forks: 147
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 120 | 147 | 
 | 2023-01-22 | 120 | 146 | 
 | 2023-01-21 | 121 | 146 | 
 | 2023-01-20 | 121 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 121 | 145 | 
 | 2022-12-27 | 120 | 145 | 
 | 2022-12-26 | 120 | 145 | 
-| 2022-12-24 | 120 | 145 | 
 

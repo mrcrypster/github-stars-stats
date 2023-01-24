@@ -1,8 +1,8 @@
 # emilbaehr/automatic-app-landing-page - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1356
+☋ Forks: 1357
 
 ★ Stars: 2864
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2864 | 1357 | 
 | 2023-01-22 | 2864 | 1356 | 
 | 2023-01-21 | 2863 | 1355 | 
 | 2023-01-20 | 2863 | 1353 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 2851 | 1341 | 
 | 2022-12-26 | 2851 | 1342 | 
 | 2022-12-25 | 2851 | 1342 | 
-| 2022-12-24 | 2851 | 1342 | 
 

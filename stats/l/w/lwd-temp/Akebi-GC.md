@@ -1,8 +1,8 @@
 # lwd-temp/Akebi-GC - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 562
+☋ Forks: 564
 
 ★ Stars: 108
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 108 | 564 | 
 | 2023-01-22 | 108 | 562 | 
 | 2023-01-21 | 108 | 561 | 
 | 2023-01-20 | 105 | 562 | 

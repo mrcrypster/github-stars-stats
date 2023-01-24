@@ -1,10 +1,10 @@
 # PrismarineJS/mineflayer - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 688
+☋ Forks: 689
 
-★ Stars: 3481
+★ Stars: 3485
 
 [Open repository](https://github.com/PrismarineJS/mineflayer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3485 | 689 | 
 | 2023-01-22 | 3481 | 688 | 
 | 2023-01-21 | 3472 | 688 | 
 | 2023-01-20 | 3467 | 688 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3411 | 676 | 
 | 2022-12-26 | 3408 | 676 | 
 | 2022-12-25 | 3407 | 675 | 
-| 2022-12-24 | 3406 | 675 | 
 

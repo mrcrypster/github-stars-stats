@@ -1,10 +1,10 @@
 # luizalabs/dev-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 32
 
-★ Stars: 309
+★ Stars: 308
 
 [Open repository](https://github.com/luizalabs/dev-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 308 | 32 | 
 | 2023-01-22 | 309 | 32 | 
 | 2023-01-21 | 308 | 32 | 
 | 2023-01-20 | 304 | 31 | 

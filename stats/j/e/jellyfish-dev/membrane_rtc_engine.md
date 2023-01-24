@@ -1,10 +1,10 @@
 # jellyfish-dev/membrane_rtc_engine - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5
 
-★ Stars: 72
+★ Stars: 74
 
 [Open repository](https://github.com/jellyfish-dev/membrane_rtc_engine)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 74 | 5 | 
 | 2023-01-22 | 72 | 5 | 
 

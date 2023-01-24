@@ -1,10 +1,10 @@
 # Tencent/secguide - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1737
 
-★ Stars: 11676
+★ Stars: 11677
 
 [Open repository](https://github.com/Tencent/secguide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 11677 | 1737 | 
 | 2023-01-23 | 11676 | 1737 | 
 | 2023-01-21 | 11675 | 1737 | 
 | 2023-01-20 | 11674 | 1737 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 11592 | 1717 | 
 | 2022-12-27 | 11588 | 1716 | 
 | 2022-12-25 | 11581 | 1715 | 
-| 2022-12-24 | 11580 | 1715 | 
 

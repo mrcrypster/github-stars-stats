@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 23
 
 ☋ Forks: 51
 
-★ Stars: 298
+★ Stars: 320
 
 [Open repository](https://github.com/nod-ai/SHARK)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 298 | 51 | 
+| 2023-01-23 | 320 | 51 | 
 | 2023-01-22 | 293 | 51 | 
 

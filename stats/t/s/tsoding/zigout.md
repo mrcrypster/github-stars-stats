@@ -1,6 +1,6 @@
 # tsoding/zigout - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 33 | 4 | 
 | 2023-01-23 | 33 | 4 | 
 | 2023-01-22 | 33 | 4 | 
 | 2023-01-20 | 33 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 32 | 4 | 
 | 2022-12-27 | 31 | 4 | 
 | 2022-12-25 | 31 | 4 | 
-| 2022-12-24 | 31 | 4 | 
 

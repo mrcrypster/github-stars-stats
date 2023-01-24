@@ -1,10 +1,10 @@
 # Azure/sonic-buildimage - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1113
+☋ Forks: 1114
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/Azure/sonic-buildimage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 487 | 1114 | 
 | 2023-01-22 | 486 | 1113 | 
 | 2023-01-21 | 486 | 1113 | 
 | 2023-01-20 | 485 | 1112 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 477 | 1098 | 
 | 2022-12-26 | 478 | 1098 | 
 | 2022-12-25 | 478 | 1097 | 
-| 2022-12-24 | 478 | 1097 | 
 

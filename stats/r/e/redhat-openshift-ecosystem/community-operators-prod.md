@@ -1,8 +1,8 @@
 # redhat-openshift-ecosystem/community-operators-prod - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 288
+☋ Forks: 287
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 57 | 287 | 
 | 2023-01-22 | 57 | 288 | 
 | 2023-01-21 | 57 | 288 | 
 | 2023-01-20 | 57 | 287 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 54 | 277 | 
 | 2022-12-26 | 54 | 277 | 
 | 2022-12-25 | 54 | 277 | 
-| 2022-12-24 | 54 | 277 | 
 

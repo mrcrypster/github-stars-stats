@@ -1,10 +1,10 @@
 # gonzalezreal/MarkdownUI - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 76
 
-★ Stars: 933
+★ Stars: 990
 
 [Open repository](https://github.com/gonzalezreal/MarkdownUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 990 | 76 | 
 | 2023-01-22 | 933 | 76 | 
 | 2023-01-21 | 931 | 76 | 
 | 2023-01-20 | 930 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 906 | 76 | 
 | 2022-12-26 | 905 | 76 | 
 | 2022-12-25 | 901 | 76 | 
-| 2022-12-24 | 900 | 76 | 
 

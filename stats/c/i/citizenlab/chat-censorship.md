@@ -1,10 +1,10 @@
 # citizenlab/chat-censorship - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 84
 
-★ Stars: 545
+★ Stars: 544
 
 [Open repository](https://github.com/citizenlab/chat-censorship)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 544 | 84 | 
 | 2023-01-22 | 545 | 84 | 
 | 2023-01-21 | 545 | 84 | 
 | 2023-01-20 | 545 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 544 | 83 | 
 | 2022-12-26 | 544 | 83 | 
 | 2022-12-25 | 544 | 83 | 
-| 2022-12-24 | 544 | 83 | 
 

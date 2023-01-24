@@ -1,6 +1,6 @@
 # abhijitmondal121/Hacktoberfest2022-profileCardGenerator - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 113 | 175 | 
 | 2023-01-22 | 113 | 175 | 
 | 2023-01-21 | 113 | 175 | 
 | 2023-01-20 | 113 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 115 | 179 | 
 | 2022-12-26 | 115 | 179 | 
 | 2022-12-25 | 115 | 179 | 
-| 2022-12-24 | 115 | 179 | 
 

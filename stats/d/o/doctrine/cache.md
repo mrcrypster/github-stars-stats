@@ -1,6 +1,6 @@
 # doctrine/cache - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 220
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 7583 | 220 | 
 | 2023-01-22 | 7583 | 220 | 
 | 2023-01-21 | 7582 | 220 | 
 | 2023-01-20 | 7578 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 7560 | 217 | 
 | 2022-12-26 | 7560 | 217 | 
 | 2022-12-25 | 7560 | 217 | 
-| 2022-12-24 | 7560 | 217 | 
 

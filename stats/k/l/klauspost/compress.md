@@ -1,8 +1,8 @@
 # klauspost/compress - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 240
+☋ Forks: 241
 
 ★ Stars: 3427
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3427 | 241 | 
 | 2023-01-22 | 3427 | 240 | 
 | 2023-01-21 | 3427 | 240 | 
 | 2023-01-20 | 3427 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3393 | 237 | 
 | 2022-12-26 | 3392 | 237 | 
 | 2022-12-25 | 3391 | 236 | 
-| 2022-12-24 | 3391 | 236 | 
 

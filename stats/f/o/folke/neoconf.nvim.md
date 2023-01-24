@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/folke/neoconf.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 194 | - | 
+| 2023-01-23 | 195 | - | 
 | 2023-01-22 | 194 | - | 
 | 2023-01-21 | 194 | - | 
 | 2023-01-20 | 188 | - | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-27 | 152 | - | 
 | 2022-12-26 | 150 | - | 
 | 2022-12-25 | 149 | - | 
-| 2022-12-24 | 149 | - | 
 

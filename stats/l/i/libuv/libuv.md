@@ -1,10 +1,10 @@
 # libuv/libuv - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 3300
+☋ Forks: 3298
 
-★ Stars: 20754
+★ Stars: 20761
 
 [Open repository](https://github.com/libuv/libuv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 20761 | 3298 | 
 | 2023-01-22 | 20754 | 3300 | 
 | 2023-01-21 | 20752 | 3300 | 
 | 2023-01-20 | 20742 | 3298 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 20603 | 3283 | 
 | 2022-12-26 | 20599 | 3283 | 
 | 2022-12-25 | 20598 | 3283 | 
-| 2022-12-24 | 20597 | 3283 | 
 

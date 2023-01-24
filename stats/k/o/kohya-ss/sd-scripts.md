@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 23
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 122
+★ Stars: 124
 
 [Open repository](https://github.com/kohya-ss/sd-scripts)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 122 | 29 | 
+| 2023-01-23 | 124 | 30 | 
 | 2023-01-22 | 121 | 29 | 
 

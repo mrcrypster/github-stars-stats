@@ -1,6 +1,6 @@
 # julkwel/bonane - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 24 | 84 | 
 | 2023-01-22 | 24 | 84 | 
 | 2023-01-21 | 24 | 83 | 
 | 2023-01-20 | 24 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 19 | 67 | 
 | 2022-12-26 | 19 | 67 | 
 | 2022-12-25 | 19 | 66 | 
-| 2022-12-24 | 19 | 66 | 
 

@@ -1,10 +1,10 @@
 # doomeer/kalandralang - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/doomeer/kalandralang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 53 | 4 | 
 | 2023-01-22 | 52 | 4 | 
 | 2023-01-21 | 52 | 4 | 
 | 2023-01-20 | 52 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 52 | 4 | 
 | 2022-12-26 | 52 | 4 | 
 | 2022-12-25 | 52 | 4 | 
-| 2022-12-24 | 51 | 4 | 
 

@@ -1,10 +1,10 @@
 # joe-bell/cva - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 36
 
-★ Stars: 2186
+★ Stars: 2198
 
 [Open repository](https://github.com/joe-bell/cva)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2198 | 36 | 
 | 2023-01-22 | 2186 | 36 | 
 | 2023-01-21 | 2179 | 35 | 
 | 2023-01-20 | 2161 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1693 | 32 | 
 | 2022-12-26 | 1688 | 32 | 
 | 2022-12-25 | 1682 | 32 | 
-| 2022-12-24 | 1674 | 32 | 
 

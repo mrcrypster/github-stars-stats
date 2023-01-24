@@ -1,10 +1,10 @@
 # shaps80/SwiftUIBackports - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 32
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/shaps80/SwiftUIBackports)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 562 | 32 | 
 | 2023-01-22 | 561 | 32 | 
 | 2023-01-21 | 560 | 32 | 
 | 2023-01-20 | 560 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 529 | 26 | 
 | 2022-12-26 | 529 | 26 | 
 | 2022-12-25 | 528 | 26 | 
-| 2022-12-24 | 527 | 26 | 
 

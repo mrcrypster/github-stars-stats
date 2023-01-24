@@ -1,10 +1,10 @@
 # ros2/ros2 - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 495
+☋ Forks: 496
 
-★ Stars: 2466
+★ Stars: 2467
 
 [Open repository](https://github.com/ros2/ros2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2467 | 496 | 
 | 2023-01-23 | 2466 | 495 | 
 | 2023-01-21 | 2466 | 495 | 
 | 2023-01-20 | 2466 | 495 | 

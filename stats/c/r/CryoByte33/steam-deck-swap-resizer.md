@@ -1,6 +1,6 @@
 # CryoByte33/steam-deck-swap-resizer - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 70 | 5 | 
 | 2023-01-22 | 70 | 5 | 
 | 2023-01-21 | 70 | 5 | 
 | 2023-01-20 | 71 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 70 | 5 | 
 | 2022-12-26 | 70 | 5 | 
 | 2022-12-25 | 70 | 5 | 
-| 2022-12-24 | 70 | 5 | 
 

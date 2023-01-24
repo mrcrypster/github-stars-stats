@@ -1,10 +1,10 @@
 # amplication/amplication - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 773
 
-★ Stars: 9241
+★ Stars: 9249
 
 [Open repository](https://github.com/amplication/amplication)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 9249 | 773 | 
 | 2023-01-22 | 9241 | 773 | 
 | 2023-01-21 | 9238 | 772 | 
 | 2023-01-20 | 9235 | 773 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 9128 | 763 | 
 | 2022-12-26 | 9118 | 761 | 
 | 2022-12-25 | 9112 | 761 | 
-| 2022-12-24 | 9109 | 763 | 
 

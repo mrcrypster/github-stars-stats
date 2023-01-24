@@ -1,6 +1,6 @@
 # chenxuuu/sms_forwarding - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 266 | 26 | 
 | 2023-01-22 | 266 | 26 | 
 | 2023-01-21 | 265 | 26 | 
 | 2023-01-20 | 264 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 243 | 25 | 
 | 2022-12-26 | 238 | 25 | 
 | 2022-12-25 | 234 | 25 | 
-| 2022-12-24 | 234 | 25 | 
 

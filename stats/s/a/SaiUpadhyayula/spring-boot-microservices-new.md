@@ -1,10 +1,10 @@
 # SaiUpadhyayula/spring-boot-microservices-new - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 141
 
-★ Stars: 153
+★ Stars: 155
 
 [Open repository](https://github.com/SaiUpadhyayula/spring-boot-microservices-new)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 155 | 141 | 
 | 2023-01-22 | 153 | 141 | 
 | 2023-01-21 | 152 | 140 | 
 | 2023-01-20 | 151 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 116 | 101 | 
 | 2022-12-26 | 112 | 101 | 
 | 2022-12-25 | 112 | 100 | 
-| 2022-12-24 | 106 | 96 | 
 

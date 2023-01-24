@@ -1,10 +1,10 @@
 # microsoft/Azure_Synapse_Toolbox - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 98
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/microsoft/Azure_Synapse_Toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 194 | 98 | 
 | 2023-01-22 | 193 | 98 | 
 | 2023-01-21 | 193 | 98 | 
 | 2023-01-20 | 193 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 189 | 98 | 
 | 2022-12-26 | 189 | 98 | 
 | 2022-12-25 | 189 | 98 | 
-| 2022-12-24 | 189 | 98 | 
 

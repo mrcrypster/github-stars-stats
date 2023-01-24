@@ -1,6 +1,6 @@
 # json4s/json4s - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 347
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1441 | 347 | 
 | 2023-01-22 | 1441 | 347 | 
 | 2023-01-21 | 1441 | 347 | 
 | 2023-01-20 | 1441 | 347 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1439 | 348 | 
 | 2022-12-26 | 1439 | 348 | 
 | 2022-12-25 | 1439 | 348 | 
-| 2022-12-24 | 1439 | 348 | 
 

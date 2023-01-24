@@ -1,6 +1,6 @@
 # apache/arrow-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 346
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1321 | 346 | 
 | 2023-01-22 | 1321 | 346 | 
 | 2023-01-21 | 1320 | 346 | 
 | 2023-01-20 | 1316 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1255 | 331 | 
 | 2022-12-26 | 1255 | 330 | 
 | 2022-12-25 | 1255 | 330 | 
-| 2022-12-24 | 1254 | 330 | 
 

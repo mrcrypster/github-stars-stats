@@ -1,10 +1,10 @@
 # sergiotapia/torrentinim - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 33
 
-★ Stars: 719
+★ Stars: 720
 
 [Open repository](https://github.com/sergiotapia/torrentinim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 720 | 33 | 
 | 2023-01-22 | 719 | 33 | 
 | 2023-01-21 | 719 | 33 | 
 | 2023-01-19 | 719 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 715 | 34 | 
 | 2022-12-27 | 715 | 34 | 
 | 2022-12-26 | 714 | 34 | 
-| 2022-12-25 | 714 | 34 | 
 

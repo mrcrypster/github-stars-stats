@@ -1,10 +1,10 @@
 # excid3/noticed - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 109
 
-★ Stars: 1827
+★ Stars: 1829
 
 [Open repository](https://github.com/excid3/noticed)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1829 | 109 | 
 | 2023-01-23 | 1827 | 109 | 
 | 2023-01-22 | 1826 | 109 | 
 | 2023-01-20 | 1826 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1811 | 108 | 
 | 2022-12-27 | 1810 | 108 | 
 | 2022-12-26 | 1809 | 108 | 
-| 2022-12-25 | 1809 | 108 | 
 

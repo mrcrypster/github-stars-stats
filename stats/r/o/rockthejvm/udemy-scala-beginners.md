@@ -1,6 +1,6 @@
 # rockthejvm/udemy-scala-beginners - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 165 | 195 | 
 | 2023-01-22 | 165 | 195 | 
 | 2023-01-21 | 164 | 195 | 
 | 2023-01-20 | 164 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 159 | 184 | 
 | 2022-12-27 | 158 | 181 | 
 | 2022-12-25 | 158 | 182 | 
-| 2022-12-24 | 158 | 182 | 
 

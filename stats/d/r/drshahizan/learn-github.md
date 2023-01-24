@@ -1,10 +1,10 @@
 # drshahizan/learn-github - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 19
 
-★ Stars: 15
+★ Stars: 18
 
 [Open repository](https://github.com/drshahizan/learn-github)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 18 | 19 | 
 | 2023-01-22 | 15 | 19 | 
 | 2023-01-21 | 14 | 19 | 
 | 2023-01-20 | 14 | 19 | 

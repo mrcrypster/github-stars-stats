@@ -1,8 +1,8 @@
 # MostlyAdequate/mostly-adequate-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1828
+☋ Forks: 1829
 
 ★ Stars: 22355
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 22355 | 1829 | 
 | 2023-01-22 | 22355 | 1828 | 
 | 2023-01-21 | 22352 | 1828 | 
 | 2023-01-20 | 22346 | 1828 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 22295 | 1830 | 
 | 2022-12-26 | 22292 | 1830 | 
 | 2022-12-25 | 22289 | 1830 | 
-| 2022-12-24 | 22288 | 1828 | 
 

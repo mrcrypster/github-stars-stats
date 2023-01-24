@@ -1,10 +1,10 @@
 # jeromeetienne/AR.js - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 2211
 
-★ Stars: 15654
+★ Stars: 15652
 
 [Open repository](https://github.com/jeromeetienne/AR.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 15652 | 2211 | 
 | 2023-01-22 | 15654 | 2211 | 
 | 2023-01-21 | 15654 | 2211 | 
 | 2023-01-20 | 15654 | 2211 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 15647 | 2205 | 
 | 2022-12-27 | 15648 | 2205 | 
 | 2022-12-26 | 15647 | 2205 | 
-| 2022-12-25 | 15646 | 2205 | 
 

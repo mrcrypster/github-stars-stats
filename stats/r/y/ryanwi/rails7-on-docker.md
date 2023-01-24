@@ -1,10 +1,10 @@
 # ryanwi/rails7-on-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 80
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/ryanwi/rails7-on-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 188 | 80 | 
 | 2023-01-22 | 187 | 80 | 
 | 2023-01-21 | 187 | 80 | 
 | 2023-01-20 | 187 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 165 | 74 | 
 | 2022-12-26 | 165 | 74 | 
 | 2022-12-25 | 165 | 74 | 
-| 2022-12-24 | 165 | 74 | 
 

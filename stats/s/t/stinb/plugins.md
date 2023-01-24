@@ -1,6 +1,6 @@
 # stinb/plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3 | 1 | 
 | 2023-01-22 | 3 | 1 | 
 | 2023-01-21 | 3 | 1 | 
 | 2023-01-20 | 3 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 2 | 1 | 
 | 2022-12-27 | 2 | 1 | 
 | 2022-12-25 | 1 | 1 | 
-| 2022-12-24 | 1 | 1 | 
 

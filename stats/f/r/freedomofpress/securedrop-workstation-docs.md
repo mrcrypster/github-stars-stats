@@ -1,6 +1,6 @@
 # freedomofpress/securedrop-workstation-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4 | 4 | 
 | 2023-01-22 | 4 | 4 | 
 | 2023-01-21 | 4 | 4 | 
 | 2023-01-20 | 4 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 4 | 4 | 
 | 2022-12-26 | 4 | 4 | 
 | 2022-12-25 | 4 | 4 | 
-| 2022-12-24 | 4 | 4 | 
 

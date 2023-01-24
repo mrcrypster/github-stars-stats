@@ -1,10 +1,10 @@
 # Siumauricio/rippleui - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 9
 
-★ Stars: 385
+★ Stars: 384
 
 [Open repository](https://github.com/Siumauricio/rippleui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 384 | 9 | 
 | 2023-01-22 | 385 | 9 | 
 | 2023-01-21 | 384 | 9 | 
 | 2023-01-20 | 384 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 246 | 5 | 
 | 2022-12-26 | 238 | 3 | 
 | 2022-12-25 | 210 | 2 | 
-| 2022-12-24 | 187 | 2 | 
 

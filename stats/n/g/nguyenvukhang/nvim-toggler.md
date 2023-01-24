@@ -1,6 +1,6 @@
 # nguyenvukhang/nvim-toggler - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 83 | 4 | 
 | 2023-01-22 | 83 | 4 | 
 | 2023-01-21 | 83 | 4 | 
 | 2023-01-20 | 83 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 72 | 3 | 
 | 2022-12-27 | 72 | 3 | 
 | 2022-12-26 | 72 | 3 | 
-| 2022-12-25 | 72 | 3 | 
 

@@ -1,10 +1,10 @@
 # mainsail-crew/mainsail - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 218
 
-★ Stars: 1022
+★ Stars: 1024
 
 [Open repository](https://github.com/mainsail-crew/mainsail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1024 | 218 | 
 | 2023-01-22 | 1022 | 218 | 
 | 2023-01-21 | 1020 | 218 | 
 | 2023-01-20 | 1019 | 217 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 986 | 211 | 
 | 2022-12-26 | 984 | 211 | 
 | 2022-12-25 | 983 | 210 | 
-| 2022-12-24 | 983 | 210 | 
 

@@ -1,10 +1,10 @@
 # aws-amplify/amplify-hosting - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 99
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/aws-amplify/amplify-hosting)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 356 | 99 | 
 | 2023-01-22 | 355 | 99 | 
 | 2023-01-21 | 355 | 99 | 
 | 2023-01-20 | 355 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 352 | 95 | 
 | 2022-12-26 | 351 | 95 | 
 | 2022-12-25 | 351 | 95 | 
-| 2022-12-24 | 351 | 95 | 
 

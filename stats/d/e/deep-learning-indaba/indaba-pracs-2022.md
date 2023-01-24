@@ -1,6 +1,6 @@
 # deep-learning-indaba/indaba-pracs-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 157 | 27 | 
 | 2023-01-22 | 157 | 27 | 
 | 2023-01-21 | 157 | 27 | 
 | 2023-01-20 | 157 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 154 | 27 | 
 | 2022-12-26 | 153 | 27 | 
 | 2022-12-25 | 153 | 27 | 
-| 2022-12-24 | 153 | 27 | 
 

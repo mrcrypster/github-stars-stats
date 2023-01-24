@@ -1,6 +1,6 @@
 # kowainik/typerep-map - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 95 | 13 | 
 | 2023-01-23 | 95 | 13 | 
 | 2023-01-21 | 95 | 13 | 
 | 2023-01-20 | 95 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 95 | 14 | 
 | 2022-12-27 | 95 | 14 | 
 | 2022-12-26 | 95 | 14 | 
-| 2022-12-24 | 95 | 14 | 
 

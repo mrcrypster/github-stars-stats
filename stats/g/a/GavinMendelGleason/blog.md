@@ -1,6 +1,6 @@
 # GavinMendelGleason/blog - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 63 | 11 | 
 | 2023-01-22 | 63 | 11 | 
 | 2023-01-21 | 63 | 11 | 
 | 2023-01-20 | 63 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 63 | 11 | 
 | 2022-12-27 | 63 | 11 | 
 | 2022-12-25 | 63 | 11 | 
-| 2022-12-24 | 63 | 11 | 
 

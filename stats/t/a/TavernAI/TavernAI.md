@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 23
 
 ☋ Forks: 9
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/TavernAI/TavernAI)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-23 | 38 | 9 | 
+| 2023-01-23 | 39 | 9 | 
 | 2023-01-22 | 38 | 9 | 
 | 2023-01-21 | 38 | 8 | 
 

@@ -1,6 +1,6 @@
 # ARMmbed/mbed-os - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 2875
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 4270 | 2875 | 
 | 2023-01-22 | 4270 | 2875 | 
 | 2023-01-21 | 4269 | 2875 | 
 | 2023-01-20 | 4268 | 2873 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 4250 | 2862 | 
 | 2022-12-26 | 4249 | 2862 | 
 | 2022-12-25 | 4249 | 2862 | 
-| 2022-12-24 | 4248 | 2862 | 
 

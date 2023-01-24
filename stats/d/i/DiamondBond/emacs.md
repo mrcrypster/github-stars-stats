@@ -1,8 +1,8 @@
 # DiamondBond/emacs - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 30 | 4 | 
 | 2023-01-22 | 30 | 3 | 
 | 2023-01-21 | 30 | 3 | 
 | 2023-01-20 | 29 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 29 | 2 | 
 | 2022-12-26 | 29 | 2 | 
 | 2022-12-25 | 29 | 2 | 
-| 2022-12-24 | 29 | 2 | 
 

@@ -1,10 +1,10 @@
 # kwsch/PKHeX - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 521
+☋ Forks: 520
 
-★ Stars: 2675
+★ Stars: 2681
 
 [Open repository](https://github.com/kwsch/PKHeX)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2681 | 520 | 
 | 2023-01-22 | 2675 | 521 | 
 | 2023-01-21 | 2673 | 520 | 
 | 2023-01-20 | 2670 | 520 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 2584 | 508 | 
 | 2022-12-26 | 2582 | 506 | 
 | 2022-12-25 | 2579 | 506 | 
-| 2022-12-24 | 2578 | 506 | 
 

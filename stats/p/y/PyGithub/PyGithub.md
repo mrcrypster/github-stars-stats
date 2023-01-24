@@ -1,10 +1,10 @@
 # PyGithub/PyGithub - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 1586
+☋ Forks: 1587
 
-★ Stars: 5743
+★ Stars: 5746
 
 [Open repository](https://github.com/PyGithub/PyGithub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 5746 | 1587 | 
 | 2023-01-22 | 5743 | 1586 | 
 | 2023-01-21 | 5743 | 1585 | 
 | 2023-01-20 | 5743 | 1585 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 5698 | 1573 | 
 | 2022-12-26 | 5695 | 1573 | 
 | 2022-12-25 | 5694 | 1572 | 
-| 2022-12-24 | 5692 | 1571 | 
 

@@ -1,10 +1,10 @@
 # tiiuae/ghaf - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/tiiuae/ghaf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 5 | 14 | 
 | 2023-01-22 | 4 | 13 | 
 | 2023-01-21 | 4 | 13 | 
 | 2023-01-20 | 4 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 2 | 1 | 
 | 2022-12-26 | 2 | 1 | 
 | 2022-12-25 | 2 | 1 | 
-| 2022-12-24 | 2 | 1 | 
 

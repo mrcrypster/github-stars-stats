@@ -1,10 +1,10 @@
 # enhuiz/vall-e - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 97
+☋ Forks: 100
 
-★ Stars: 726
+★ Stars: 746
 
 [Open repository](https://github.com/enhuiz/vall-e)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 746 | 100 | 
 | 2023-01-22 | 726 | 97 | 
 | 2023-01-21 | 705 | 91 | 
 | 2023-01-20 | 664 | 82 | 

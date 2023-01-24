@@ -1,6 +1,6 @@
 # Epix-Incorporated/Adonis - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 178 | 124 | 
 | 2023-01-22 | 178 | 124 | 
 | 2023-01-21 | 178 | 123 | 
 | 2023-01-20 | 178 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 171 | 122 | 
 | 2022-12-27 | 171 | 122 | 
 | 2022-12-25 | 171 | 122 | 
-| 2022-12-24 | 171 | 122 | 
 

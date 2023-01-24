@@ -1,10 +1,10 @@
 # mawww/kakoune - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 676
+☋ Forks: 677
 
-★ Stars: 8566
+★ Stars: 8565
 
 [Open repository](https://github.com/mawww/kakoune)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 8565 | 677 | 
 | 2023-01-22 | 8566 | 676 | 
 | 2023-01-21 | 8563 | 676 | 
 | 2023-01-20 | 8562 | 676 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 8519 | 674 | 
 | 2022-12-26 | 8518 | 674 | 
 | 2022-12-25 | 8513 | 674 | 
-| 2022-12-24 | 8510 | 674 | 
 

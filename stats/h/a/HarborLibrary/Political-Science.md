@@ -1,10 +1,10 @@
 # HarborLibrary/Political-Science - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/HarborLibrary/Political-Science)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 295 | 73 | 
 | 2023-01-22 | 294 | 72 | 
 | 2023-01-21 | 294 | 72 | 
 | 2023-01-20 | 293 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 263 | 65 | 
 | 2022-12-26 | 263 | 65 | 
 | 2022-12-25 | 261 | 65 | 
-| 2022-12-24 | 260 | 65 | 
 

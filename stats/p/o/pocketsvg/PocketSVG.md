@@ -1,6 +1,6 @@
 # pocketsvg/PocketSVG - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 1565 | 226 | 
 | 2023-01-22 | 1565 | 226 | 
 | 2023-01-21 | 1565 | 226 | 
 | 2023-01-20 | 1565 | 226 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 1563 | 224 | 
 | 2022-12-26 | 1563 | 224 | 
 | 2022-12-25 | 1563 | 224 | 
-| 2022-12-24 | 1563 | 224 | 
 

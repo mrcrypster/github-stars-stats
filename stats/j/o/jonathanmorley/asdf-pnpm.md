@@ -1,10 +1,10 @@
 # jonathanmorley/asdf-pnpm - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/jonathanmorley/asdf-pnpm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 26 | 3 | 
 | 2023-01-23 | 24 | 3 | 
 | 2023-01-22 | 23 | 3 | 
 | 2023-01-20 | 23 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 22 | 3 | 
 | 2022-12-27 | 22 | 3 | 
 | 2022-12-26 | 22 | 3 | 
-| 2022-12-25 | 21 | 3 | 
 

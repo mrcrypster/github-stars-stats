@@ -1,6 +1,6 @@
 # smallbraingames/words3-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 31 | 2 | 
 | 2023-01-22 | 31 | 2 | 
 | 2023-01-21 | 31 | 2 | 
 | 2023-01-20 | 31 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 29 | 2 | 
 | 2022-12-26 | 29 | 2 | 
 | 2022-12-25 | 28 | 2 | 
-| 2022-12-24 | 28 | 2 | 
 

@@ -1,6 +1,6 @@
 # open-power/op-build - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 94 | 172 | 
 | 2023-01-22 | 94 | 172 | 
 | 2023-01-21 | 94 | 172 | 
 | 2023-01-20 | 94 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 93 | 172 | 
 | 2022-12-26 | 93 | 172 | 
 | 2022-12-25 | 93 | 172 | 
-| 2022-12-24 | 93 | 172 | 
 

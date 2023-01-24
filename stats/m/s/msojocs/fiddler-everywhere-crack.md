@@ -1,10 +1,10 @@
 # msojocs/fiddler-everywhere-crack - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 104
 
-★ Stars: 361
+★ Stars: 363
 
 [Open repository](https://github.com/msojocs/fiddler-everywhere-crack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 363 | 104 | 
 | 2023-01-22 | 361 | 104 | 
 | 2023-01-21 | 360 | 104 | 
 | 2023-01-20 | 359 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 330 | 96 | 
 | 2022-12-26 | 329 | 96 | 
 | 2022-12-25 | 327 | 96 | 
-| 2022-12-24 | 325 | 96 | 
 

@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-elb - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 124 | 233 | 
 | 2023-01-22 | 124 | 233 | 
 | 2023-01-21 | 124 | 233 | 
 | 2023-01-20 | 124 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 123 | 232 | 
 | 2022-12-26 | 123 | 232 | 
 | 2022-12-25 | 123 | 232 | 
-| 2022-12-24 | 123 | 232 | 
 

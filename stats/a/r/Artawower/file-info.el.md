@@ -1,10 +1,10 @@
 # Artawower/file-info.el - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 24
+★ Stars: 28
 
 [Open repository](https://github.com/Artawower/file-info.el)
 
@@ -13,5 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 28 | 2 | 
+| 2023-01-23 | 28 | 2 | 
 | 2023-01-22 | 24 | 1 | 
 

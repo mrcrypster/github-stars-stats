@@ -1,10 +1,10 @@
 # jacobobryant/platypub - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 11
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/jacobobryant/platypub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 42 | 11 | 
 | 2023-01-22 | 41 | 11 | 
 | 2023-01-21 | 41 | 11 | 
 | 2023-01-20 | 41 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 39 | 11 | 
 | 2022-12-26 | 39 | 11 | 
 | 2022-12-25 | 39 | 11 | 
-| 2022-12-24 | 39 | 11 | 
 

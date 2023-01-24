@@ -1,6 +1,6 @@
 # IfcOpenShell/wasm-preview - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 22 | 5 | 
 | 2023-01-22 | 22 | 5 | 
 | 2023-01-21 | 22 | 5 | 
 | 2023-01-20 | 22 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-28 | 17 | 3 | 
 | 2022-12-27 | 17 | 3 | 
 | 2022-12-26 | 17 | 3 | 
-| 2022-12-25 | 17 | 3 | 
 

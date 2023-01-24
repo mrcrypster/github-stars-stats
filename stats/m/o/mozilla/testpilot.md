@@ -1,6 +1,6 @@
 # mozilla/testpilot - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 252 | 123 | 
 | 2023-01-22 | 252 | 123 | 
 | 2023-01-21 | 252 | 123 | 
 | 2023-01-20 | 252 | 123 | 

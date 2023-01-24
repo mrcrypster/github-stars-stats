@@ -1,6 +1,6 @@
 # statamic/cms - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 361
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 2412 | 361 | 
 | 2023-01-22 | 2412 | 361 | 
 | 2023-01-21 | 2410 | 361 | 
 | 2023-01-20 | 2409 | 361 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 2362 | 354 | 
 | 2022-12-26 | 2361 | 354 | 
 | 2022-12-25 | 2358 | 354 | 
-| 2022-12-24 | 2356 | 354 | 
 

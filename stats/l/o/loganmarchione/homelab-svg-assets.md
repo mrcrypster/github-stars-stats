@@ -1,10 +1,10 @@
 # loganmarchione/homelab-svg-assets - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 19
 
-★ Stars: 359
+★ Stars: 360
 
 [Open repository](https://github.com/loganmarchione/homelab-svg-assets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 360 | 19 | 
 | 2023-01-22 | 359 | 19 | 
 | 2023-01-21 | 357 | 19 | 
 | 2023-01-20 | 357 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 281 | 12 | 
 | 2022-12-26 | 265 | 12 | 
 | 2022-12-25 | 244 | 11 | 
-| 2022-12-24 | 223 | 10 | 
 

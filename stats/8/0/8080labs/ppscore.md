@@ -1,6 +1,6 @@
 # 8080labs/ppscore - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 974 | 144 | 
 | 2023-01-22 | 974 | 144 | 
 | 2023-01-21 | 974 | 144 | 
 | 2023-01-20 | 974 | 144 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 912 | 136 | 
 | 2022-12-26 | 912 | 136 | 
 | 2022-12-25 | 912 | 136 | 
-| 2022-12-24 | 912 | 136 | 
 

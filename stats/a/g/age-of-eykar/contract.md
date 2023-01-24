@@ -1,6 +1,6 @@
 # age-of-eykar/contract - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 93 | 40 | 
 | 2023-01-22 | 93 | 40 | 
 | 2023-01-21 | 93 | 40 | 
 | 2023-01-20 | 93 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 94 | 40 | 
 | 2022-12-26 | 94 | 40 | 
 | 2022-12-25 | 94 | 40 | 
-| 2022-12-24 | 94 | 40 | 
 

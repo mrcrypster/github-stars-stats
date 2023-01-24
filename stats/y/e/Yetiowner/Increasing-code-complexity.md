@@ -1,10 +1,10 @@
 # Yetiowner/Increasing-code-complexity - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 10
 
-★ Stars: 248
+★ Stars: 247
 
 [Open repository](https://github.com/Yetiowner/Increasing-code-complexity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 247 | 10 | 
 | 2023-01-22 | 248 | 10 | 
 | 2023-01-21 | 248 | 10 | 
 | 2023-01-20 | 248 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 253 | 10 | 
 | 2022-12-26 | 253 | 10 | 
 | 2022-12-25 | 253 | 10 | 
-| 2022-12-24 | 253 | 10 | 
 

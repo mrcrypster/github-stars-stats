@@ -1,6 +1,6 @@
 # Wh04m1001/DFSCoerce - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 557 | 75 | 
 | 2023-01-22 | 557 | 75 | 
 | 2023-01-21 | 558 | 75 | 
 | 2023-01-20 | 558 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 547 | 75 | 
 | 2022-12-26 | 547 | 75 | 
 | 2022-12-25 | 547 | 75 | 
-| 2022-12-24 | 547 | 75 | 
 

@@ -1,10 +1,10 @@
 # n00bzorz/Daily-and-weekly-notes - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/n00bzorz/Daily-and-weekly-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 17 | - | 
 | 2023-01-22 | 16 | - | 
 | 2023-01-21 | 16 | - | 
 | 2023-01-20 | 16 | - | 

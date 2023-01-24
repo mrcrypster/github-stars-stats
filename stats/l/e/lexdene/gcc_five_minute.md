@@ -1,6 +1,6 @@
 # lexdene/gcc_five_minute - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 237 | 65 | 
 | 2023-01-22 | 237 | 65 | 
 | 2023-01-21 | 237 | 65 | 
 | 2023-01-20 | 237 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 237 | 65 | 
 | 2022-12-26 | 237 | 65 | 
 | 2022-12-25 | 237 | 65 | 
-| 2022-12-24 | 237 | 65 | 
 

@@ -1,10 +1,10 @@
 # markjprice/cs11dotnet7 - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/markjprice/cs11dotnet7)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 190 | 72 | 
 | 2023-01-22 | 189 | 71 | 
 | 2023-01-21 | 187 | 71 | 
 | 2023-01-20 | 185 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 129 | 50 | 
 | 2022-12-26 | 129 | 49 | 
 | 2022-12-25 | 129 | 49 | 
-| 2022-12-24 | 127 | 48 | 
 

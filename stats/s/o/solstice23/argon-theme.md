@@ -1,10 +1,10 @@
 # solstice23/argon-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 22
+Stats updated on Jan 2023, 23
 
 ☋ Forks: 419
 
-★ Stars: 3108
+★ Stars: 3112
 
 [Open repository](https://github.com/solstice23/argon-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-23 | 3112 | 419 | 
 | 2023-01-22 | 3108 | 419 | 
 | 2023-01-21 | 3105 | 419 | 
 | 2023-01-20 | 3103 | 419 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 22
 | 2022-12-27 | 3016 | 416 | 
 | 2022-12-26 | 3013 | 415 | 
 | 2022-12-25 | 3013 | 415 | 
-| 2022-12-24 | 3012 | 415 | 
 
