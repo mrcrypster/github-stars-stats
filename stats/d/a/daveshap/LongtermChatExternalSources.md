@@ -1,10 +1,10 @@
 # daveshap/LongtermChatExternalSources - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 26
+☋ Forks: 31
 
-★ Stars: 71
+★ Stars: 86
 
 [Open repository](https://github.com/daveshap/LongtermChatExternalSources)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 86 | 31 | 
 | 2023-01-23 | 71 | 26 | 
 

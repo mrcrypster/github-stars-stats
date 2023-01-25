@@ -1,8 +1,8 @@
 # longhorn/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 49
+☋ Forks: 50
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 27 | 50 | 
 | 2023-01-23 | 27 | 49 | 
 | 2023-01-22 | 27 | 49 | 
 | 2023-01-21 | 27 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 25 | 45 | 
 | 2022-12-27 | 25 | 45 | 
 | 2022-12-26 | 25 | 45 | 
-| 2022-12-25 | 25 | 45 | 
 

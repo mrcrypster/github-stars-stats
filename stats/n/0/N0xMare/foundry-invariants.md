@@ -1,6 +1,6 @@
 # N0xMare/foundry-invariants - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 55 | - | 
 | 2023-01-23 | 55 | - | 
 | 2023-01-22 | 55 | - | 
 | 2023-01-21 | 55 | - | 

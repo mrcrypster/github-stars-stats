@@ -1,6 +1,6 @@
 # surgeventures/jabbax - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 15 | 1 | 
 | 2023-01-23 | 15 | 1 | 
 | 2023-01-22 | 15 | 1 | 
 | 2023-01-21 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 16 | 1 | 
 | 2022-12-28 | 16 | 1 | 
 | 2022-12-27 | 16 | 1 | 
-| 2022-12-25 | 16 | 1 | 
 

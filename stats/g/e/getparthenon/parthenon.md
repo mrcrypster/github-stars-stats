@@ -1,10 +1,10 @@
 # getparthenon/parthenon - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/getparthenon/parthenon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 57 | 3 | 
 | 2023-01-23 | 56 | 3 | 
 | 2023-01-22 | 56 | 3 | 
 | 2023-01-21 | 56 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 46 | 3 | 
 | 2022-12-27 | 46 | 3 | 
 | 2022-12-26 | 46 | 3 | 
-| 2022-12-25 | 46 | 3 | 
 

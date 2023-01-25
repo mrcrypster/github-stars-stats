@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 60
+★ Stars: 59
 
 [Open repository](https://github.com/noidexe/godot-version-manager)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 60 | 5 | 
+| 2023-01-24 | 59 | 5 | 
 | 2023-01-23 | 60 | 5 | 
 

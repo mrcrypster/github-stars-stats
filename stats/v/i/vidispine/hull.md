@@ -1,6 +1,6 @@
 # vidispine/hull - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 95 | 8 | 
 | 2023-01-23 | 95 | 8 | 
 | 2023-01-22 | 95 | 8 | 
 | 2023-01-21 | 95 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 89 | 8 | 
 | 2022-12-27 | 88 | 8 | 
 | 2022-12-26 | 88 | 8 | 
-| 2022-12-25 | 88 | 8 | 
 

@@ -1,10 +1,10 @@
 # hemansnation/Data-Science-ML-Full-Stack - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 203
+☋ Forks: 205
 
-★ Stars: 638
+★ Stars: 646
 
 [Open repository](https://github.com/hemansnation/Data-Science-ML-Full-Stack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 646 | 205 | 
 | 2023-01-23 | 638 | 203 | 
 | 2023-01-22 | 627 | 200 | 
 | 2023-01-21 | 620 | 199 | 

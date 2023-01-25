@@ -1,10 +1,10 @@
 # ocurrent/ocaml-ci - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 57
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/ocurrent/ocaml-ci)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 92 | 57 | 
 | 2023-01-23 | 91 | 57 | 
 | 2023-01-22 | 91 | 56 | 
 | 2023-01-21 | 91 | 56 | 

@@ -1,10 +1,10 @@
 # JakobBruenker/monadic-bang - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/JakobBruenker/monadic-bang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 32 | - | 
 | 2023-01-23 | 31 | - | 
 | 2023-01-22 | 31 | - | 
 | 2023-01-21 | 31 | - | 

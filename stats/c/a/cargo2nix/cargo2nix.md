@@ -1,10 +1,10 @@
 # cargo2nix/cargo2nix - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 54
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/cargo2nix/cargo2nix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 192 | 54 | 
 | 2023-01-23 | 191 | 54 | 
 | 2023-01-22 | 191 | 54 | 
 | 2023-01-21 | 191 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 189 | 54 | 
 | 2022-12-27 | 189 | 54 | 
 | 2022-12-26 | 189 | 54 | 
-| 2022-12-25 | 189 | 54 | 
 

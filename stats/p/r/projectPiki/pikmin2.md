@@ -1,10 +1,10 @@
 # projectPiki/pikmin2 - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/projectPiki/pikmin2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 124 | 13 | 
 | 2023-01-23 | 123 | 12 | 
 | 2023-01-22 | 123 | 12 | 
 | 2023-01-21 | 123 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 120 | 12 | 
 | 2022-12-27 | 120 | 12 | 
 | 2022-12-26 | 119 | 12 | 
-| 2022-12-25 | 118 | 12 | 
 

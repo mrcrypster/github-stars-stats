@@ -1,10 +1,10 @@
 # bcgov/nr-patroni-chart - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/bcgov/nr-patroni-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2 | 1 | 
 | 2023-01-23 | 1 | 1 | 
 | 2023-01-22 | 1 | 1 | 
 | 2023-01-21 | 1 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1 | 1 | 
 | 2022-12-27 | 1 | 1 | 
 | 2022-12-26 | 1 | 1 | 
-| 2022-12-25 | 1 | 1 | 
 

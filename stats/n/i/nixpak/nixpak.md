@@ -1,6 +1,6 @@
 # nixpak/nixpak - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 51 | 2 | 
 | 2023-01-23 | 51 | 2 | 
 | 2023-01-22 | 51 | 2 | 
 | 2023-01-20 | 51 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 51 | 2 | 
 | 2022-12-28 | 50 | 2 | 
 | 2022-12-27 | 50 | 2 | 
-| 2022-12-25 | 50 | 2 | 
 

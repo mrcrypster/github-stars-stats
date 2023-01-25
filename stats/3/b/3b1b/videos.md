@@ -1,10 +1,10 @@
 # 3b1b/videos - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1355
+☋ Forks: 1357
 
-★ Stars: 4110
+★ Stars: 4113
 
 [Open repository](https://github.com/3b1b/videos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4113 | 1357 | 
 | 2023-01-23 | 4110 | 1355 | 
 | 2023-01-22 | 4107 | 1353 | 
 | 2023-01-21 | 4107 | 1353 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4056 | 1349 | 
 | 2022-12-27 | 4051 | 1349 | 
 | 2022-12-26 | 4050 | 1350 | 
-| 2022-12-25 | 4049 | 1349 | 
 

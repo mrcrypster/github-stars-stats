@@ -1,6 +1,6 @@
 # bubkoo/html-to-image - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 337
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3417 | 337 | 
 | 2023-01-23 | 3417 | 337 | 
 | 2023-01-22 | 3411 | 337 | 
 | 2023-01-21 | 3411 | 337 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 3341 | 329 | 
 | 2022-12-27 | 3335 | 329 | 
 | 2022-12-26 | 3333 | 328 | 
-| 2022-12-25 | 3328 | 327 | 
 

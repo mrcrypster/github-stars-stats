@@ -1,10 +1,10 @@
 # facebookresearch/detr - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1897
+☋ Forks: 1898
 
-★ Stars: 10320
+★ Stars: 10325
 
 [Open repository](https://github.com/facebookresearch/detr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 10325 | 1898 | 
 | 2023-01-23 | 10320 | 1897 | 
 | 2023-01-22 | 10319 | 1897 | 
 | 2023-01-21 | 10319 | 1896 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 10254 | 1877 | 
 | 2022-12-27 | 10254 | 1877 | 
 | 2022-12-26 | 10248 | 1875 | 
-| 2022-12-25 | 10247 | 1874 | 
 

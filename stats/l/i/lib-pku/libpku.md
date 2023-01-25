@@ -1,10 +1,10 @@
 # lib-pku/libpku - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8152
 
-★ Stars: 28266
+★ Stars: 28269
 
 [Open repository](https://github.com/lib-pku/libpku)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 28269 | 8152 | 
 | 2023-01-23 | 28266 | 8152 | 
 | 2023-01-22 | 28261 | 8154 | 
 | 2023-01-21 | 28254 | 8152 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 27954 | 8061 | 
 | 2022-12-27 | 27951 | 8061 | 
 | 2022-12-26 | 27949 | 8061 | 
-| 2022-12-25 | 27948 | 8062 | 
 

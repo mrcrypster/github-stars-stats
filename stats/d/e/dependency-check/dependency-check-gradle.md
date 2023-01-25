@@ -1,10 +1,10 @@
 # dependency-check/dependency-check-gradle - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/dependency-check/dependency-check-gradle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 290 | 80 | 
 | 2023-01-23 | 289 | 79 | 
 | 2023-01-22 | 289 | 79 | 
 | 2023-01-21 | 289 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 284 | 77 | 
 | 2022-12-27 | 284 | 77 | 
 | 2022-12-26 | 284 | 77 | 
-| 2022-12-25 | 284 | 77 | 
 

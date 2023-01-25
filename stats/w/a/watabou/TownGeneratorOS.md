@@ -1,10 +1,10 @@
 # watabou/TownGeneratorOS - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 196
 
-★ Stars: 1395
+★ Stars: 1396
 
 [Open repository](https://github.com/watabou/TownGeneratorOS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1396 | 196 | 
 | 2023-01-23 | 1395 | 196 | 
 | 2023-01-22 | 1394 | 196 | 
 | 2023-01-21 | 1394 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1388 | 196 | 
 | 2022-12-27 | 1388 | 196 | 
 | 2022-12-26 | 1388 | 196 | 
-| 2022-12-25 | 1387 | 196 | 
 

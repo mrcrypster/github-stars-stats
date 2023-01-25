@@ -1,10 +1,10 @@
 # thpoll83/PolyKeyboard - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/thpoll83/PolyKeyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 60 | 3 | 
 | 2023-01-23 | 59 | 3 | 
 | 2023-01-22 | 59 | 3 | 
 | 2023-01-21 | 59 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 54 | 3 | 
 | 2022-12-27 | 54 | 3 | 
 | 2022-12-26 | 54 | 3 | 
-| 2022-12-25 | 54 | 3 | 
 

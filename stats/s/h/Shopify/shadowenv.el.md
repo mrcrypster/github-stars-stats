@@ -1,10 +1,10 @@
 # Shopify/shadowenv.el - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Shopify/shadowenv.el)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 17 | 5 | 
 | 2023-01-23 | 16 | 3 | 
 | 2023-01-22 | 16 | 3 | 
 | 2023-01-21 | 16 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 16 | 3 | 
 | 2022-12-27 | 16 | 3 | 
 | 2022-12-26 | 16 | 3 | 
-| 2022-12-25 | 16 | 3 | 
 

@@ -1,10 +1,10 @@
 # Hacker0x01/hacker101 - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2491
 
-★ Stars: 12781
+★ Stars: 12786
 
 [Open repository](https://github.com/Hacker0x01/hacker101)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 12786 | 2491 | 
 | 2023-01-23 | 12781 | 2491 | 
 | 2023-01-22 | 12781 | 2491 | 
 | 2023-01-21 | 12779 | 2492 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 12741 | 2489 | 
 | 2022-12-27 | 12740 | 2489 | 
 | 2022-12-26 | 12736 | 2489 | 
-| 2022-12-25 | 12735 | 2489 | 
 

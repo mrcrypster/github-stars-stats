@@ -1,6 +1,6 @@
 # edkolev/evil-lion - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 121 | 10 | 
 | 2023-01-23 | 121 | 10 | 
 | 2023-01-22 | 121 | 10 | 
 | 2023-01-21 | 121 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 120 | 10 | 
 | 2022-12-28 | 120 | 10 | 
 | 2022-12-27 | 120 | 10 | 
-| 2022-12-26 | 120 | 10 | 
 

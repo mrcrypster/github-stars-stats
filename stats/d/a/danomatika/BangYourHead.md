@@ -1,6 +1,6 @@
 # danomatika/BangYourHead - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 56 | 11 | 
 | 2023-01-23 | 56 | 11 | 
 | 2023-01-22 | 56 | 10 | 
 | 2023-01-21 | 56 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 55 | 9 | 
 | 2022-12-27 | 55 | 9 | 
 | 2022-12-26 | 55 | 9 | 
-| 2022-12-25 | 55 | 9 | 
 

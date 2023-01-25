@@ -1,10 +1,10 @@
 # purescript-contrib/purescript-avar - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/purescript-contrib/purescript-avar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 14 | 8 | 
 | 2023-01-23 | 13 | 8 | 
 | 2023-01-22 | 13 | 8 | 
 | 2023-01-21 | 13 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 13 | 8 | 
 | 2022-12-27 | 12 | 8 | 
 | 2022-12-26 | 12 | 8 | 
-| 2022-12-25 | 12 | 8 | 
 

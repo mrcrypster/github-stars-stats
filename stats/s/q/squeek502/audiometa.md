@@ -1,6 +1,6 @@
 # squeek502/audiometa - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 33 | 3 | 
 | 2023-01-23 | 33 | 3 | 
 | 2023-01-22 | 33 | 3 | 
 | 2023-01-20 | 33 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 33 | 3 | 
 | 2022-12-28 | 33 | 3 | 
 | 2022-12-27 | 33 | 3 | 
-| 2022-12-26 | 33 | 3 | 
 

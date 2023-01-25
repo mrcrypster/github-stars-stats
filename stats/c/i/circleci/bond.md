@@ -1,6 +1,6 @@
 # circleci/bond - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 121 | 30 | 
 | 2023-01-23 | 121 | 30 | 
 | 2023-01-22 | 121 | 30 | 
 | 2023-01-21 | 121 | 30 | 

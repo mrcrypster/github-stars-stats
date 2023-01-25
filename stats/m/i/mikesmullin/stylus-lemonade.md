@@ -1,10 +1,10 @@
 # mikesmullin/stylus-lemonade - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/mikesmullin/stylus-lemonade)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 47 | 3 | 
 | 2023-01-23 | 46 | 3 | 
 | 2023-01-22 | 46 | 3 | 
 | 2023-01-21 | 46 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 46 | 3 | 
 | 2022-12-27 | 46 | 3 | 
 | 2022-12-26 | 46 | 3 | 
-| 2022-12-25 | 46 | 3 | 
 

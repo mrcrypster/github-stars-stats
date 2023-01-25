@@ -1,10 +1,10 @@
 # pulp-platform/pulp_soc - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 66
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/pulp-platform/pulp_soc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 51 | 66 | 
 | 2023-01-24 | 50 | 66 | 
 | 2023-01-22 | 50 | 65 | 
 | 2023-01-21 | 50 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 49 | 63 | 
 | 2022-12-28 | 49 | 63 | 
 | 2022-12-27 | 49 | 63 | 
-| 2022-12-25 | 49 | 63 | 
 

@@ -1,6 +1,6 @@
 # HamzaGhazouani/HGCircularSlider - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2409 | 254 | 
 | 2023-01-23 | 2409 | 254 | 
 | 2023-01-22 | 2410 | 254 | 
 | 2023-01-21 | 2410 | 254 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2398 | 255 | 
 | 2022-12-27 | 2398 | 255 | 
 | 2022-12-26 | 2398 | 255 | 
-| 2022-12-25 | 2397 | 255 | 
 

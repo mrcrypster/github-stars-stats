@@ -1,10 +1,10 @@
 # staab/coracle - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 10
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/staab/coracle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 51 | 10 | 
 | 2023-01-23 | 50 | 10 | 
 | 2023-01-22 | 50 | 10 | 
 | 2023-01-21 | 49 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 38 | 7 | 
 | 2022-12-27 | 37 | 7 | 
 | 2022-12-26 | 36 | 7 | 
-| 2022-12-25 | 35 | 7 | 
 

@@ -1,10 +1,10 @@
 # vfarcic/kaniko-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 224
+☋ Forks: 225
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/vfarcic/kaniko-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 9 | 225 | 
 | 2023-01-23 | 8 | 224 | 
 | 2023-01-22 | 8 | 224 | 
 | 2023-01-21 | 8 | 224 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 8 | 222 | 
 | 2022-12-27 | 8 | 221 | 
 | 2022-12-26 | 8 | 221 | 
-| 2022-12-25 | 8 | 221 | 
 

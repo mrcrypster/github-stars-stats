@@ -1,8 +1,8 @@
 # christianhxc/jenkins-pipeline-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 437
+☋ Forks: 438
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 5 | 438 | 
 | 2023-01-23 | 5 | 437 | 
 | 2023-01-22 | 5 | 437 | 
 | 2023-01-21 | 5 | 437 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 5 | 435 | 
 | 2022-12-27 | 5 | 435 | 
 | 2022-12-26 | 5 | 435 | 
-| 2022-12-25 | 5 | 435 | 
 

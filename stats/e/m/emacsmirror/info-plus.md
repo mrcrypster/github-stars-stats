@@ -1,10 +1,10 @@
 # emacsmirror/info-plus - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/emacsmirror/info-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 8 | 2 | 
 | 2023-01-23 | 7 | 2 | 
 | 2023-01-22 | 7 | 2 | 
 | 2023-01-21 | 7 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 6 | 2 | 
 | 2022-12-27 | 6 | 2 | 
 | 2022-12-26 | 6 | 2 | 
-| 2022-12-25 | 6 | 2 | 
 

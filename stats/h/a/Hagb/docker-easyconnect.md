@@ -1,10 +1,10 @@
 # Hagb/docker-easyconnect - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
-☋ Forks: 214
+☋ Forks: 215
 
-★ Stars: 1915
+★ Stars: 1931
 
 [Open repository](https://github.com/Hagb/docker-easyconnect)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1931 | 215 | 
+| 2023-01-24 | 1931 | 215 | 
 | 2023-01-23 | 1915 | 214 | 
 | 2023-01-22 | 1899 | 213 | 
 | 2023-01-21 | 1896 | 213 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1773 | 201 | 
 | 2022-12-27 | 1773 | 201 | 
 | 2022-12-26 | 1772 | 201 | 
-| 2022-12-25 | 1771 | 201 | 
 

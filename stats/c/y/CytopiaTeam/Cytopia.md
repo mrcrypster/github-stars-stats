@@ -1,10 +1,10 @@
 # CytopiaTeam/Cytopia - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 83
 
-★ Stars: 1616
+★ Stars: 1620
 
 [Open repository](https://github.com/CytopiaTeam/Cytopia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1620 | 83 | 
 | 2023-01-23 | 1616 | 83 | 
 | 2023-01-22 | 1614 | 83 | 
 | 2023-01-21 | 1614 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1573 | 83 | 
 | 2022-12-27 | 1573 | 83 | 
 | 2022-12-26 | 1572 | 83 | 
-| 2022-12-25 | 1573 | 83 | 
 

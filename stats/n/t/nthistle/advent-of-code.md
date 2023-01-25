@@ -1,10 +1,10 @@
 # nthistle/advent-of-code - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 26
+★ Stars: 25
 
 [Open repository](https://github.com/nthistle/advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 25 | 5 | 
 | 2023-01-23 | 26 | 5 | 
 | 2023-01-22 | 26 | 5 | 
 | 2023-01-21 | 26 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 24 | 7 | 
 | 2022-12-27 | 22 | 7 | 
 | 2022-12-26 | 22 | 8 | 
-| 2022-12-25 | 22 | 8 | 
 

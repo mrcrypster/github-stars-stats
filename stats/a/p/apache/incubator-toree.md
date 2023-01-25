@@ -1,6 +1,6 @@
 # apache/incubator-toree - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 706 | 223 | 
 | 2023-01-23 | 706 | 223 | 
 | 2023-01-22 | 706 | 223 | 
 | 2023-01-21 | 706 | 224 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 706 | 224 | 
 | 2022-12-27 | 706 | 224 | 
 | 2022-12-26 | 705 | 224 | 
-| 2022-12-25 | 705 | 224 | 
 

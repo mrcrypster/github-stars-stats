@@ -1,10 +1,10 @@
 # cruip/tailwind-landing-page-template - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1002
+☋ Forks: 1004
 
-★ Stars: 1737
+★ Stars: 1738
 
 [Open repository](https://github.com/cruip/tailwind-landing-page-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1738 | 1004 | 
 | 2023-01-23 | 1737 | 1002 | 
 | 2023-01-22 | 1736 | 1002 | 
 | 2023-01-21 | 1734 | 1002 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1685 | 991 | 
 | 2022-12-27 | 1684 | 991 | 
 | 2022-12-26 | 1683 | 990 | 
-| 2022-12-25 | 1683 | 990 | 
 

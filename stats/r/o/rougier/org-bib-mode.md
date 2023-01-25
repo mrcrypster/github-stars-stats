@@ -1,6 +1,6 @@
 # rougier/org-bib-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 117 | 7 | 
 | 2023-01-23 | 117 | 7 | 
 | 2023-01-21 | 117 | 7 | 
 | 2023-01-20 | 117 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 118 | 7 | 
 | 2022-12-27 | 118 | 7 | 
 | 2022-12-26 | 118 | 7 | 
-| 2022-12-25 | 117 | 7 | 
 

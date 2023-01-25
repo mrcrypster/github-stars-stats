@@ -1,10 +1,10 @@
 # openhab/openhab-distro - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 384
+☋ Forks: 385
 
-★ Stars: 1211
+★ Stars: 1212
 
 [Open repository](https://github.com/openhab/openhab-distro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1212 | 385 | 
 | 2023-01-23 | 1211 | 384 | 
 | 2023-01-22 | 1210 | 384 | 
 | 2023-01-21 | 1210 | 384 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1205 | 383 | 
 | 2022-12-27 | 1204 | 382 | 
 | 2022-12-26 | 1204 | 382 | 
-| 2022-12-25 | 1204 | 382 | 
 

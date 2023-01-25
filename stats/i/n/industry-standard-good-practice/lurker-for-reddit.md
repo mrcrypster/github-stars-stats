@@ -1,6 +1,6 @@
 # industry-standard-good-practice/lurker-for-reddit - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 22 | 3 | 
 | 2023-01-23 | 22 | 3 | 
 | 2023-01-22 | 22 | 3 | 
 | 2023-01-21 | 22 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 22 | 4 | 
 | 2022-12-27 | 22 | 4 | 
 | 2022-12-26 | 22 | 4 | 
-| 2022-12-25 | 22 | 4 | 
 

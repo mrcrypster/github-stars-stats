@@ -1,6 +1,6 @@
 # rotemtzaban/STIT - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1066 | 149 | 
 | 2023-01-23 | 1066 | 149 | 
 | 2023-01-22 | 1065 | 149 | 
 | 2023-01-21 | 1065 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1055 | 144 | 
 | 2022-12-27 | 1055 | 144 | 
 | 2022-12-26 | 1055 | 143 | 
-| 2022-12-25 | 1055 | 143 | 
 

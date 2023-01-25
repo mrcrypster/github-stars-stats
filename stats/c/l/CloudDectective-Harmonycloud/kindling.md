@@ -1,6 +1,6 @@
 # CloudDectective-Harmonycloud/kindling - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 299 | 58 | 
 | 2023-01-24 | 299 | 58 | 
 | 2023-01-23 | 299 | 58 | 
 | 2023-01-21 | 299 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 286 | 57 | 
 | 2022-12-28 | 284 | 57 | 
 | 2022-12-27 | 285 | 56 | 
-| 2022-12-26 | 284 | 56 | 
 

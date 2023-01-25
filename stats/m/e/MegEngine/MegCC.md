@@ -1,10 +1,10 @@
 # MegEngine/MegCC - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 35
 
-★ Stars: 301
+★ Stars: 303
 
 [Open repository](https://github.com/MegEngine/MegCC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 303 | 35 | 
 | 2023-01-23 | 301 | 35 | 
 | 2023-01-22 | 301 | 35 | 
 | 2023-01-21 | 300 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 284 | 34 | 
 | 2022-12-27 | 281 | 34 | 
 | 2022-12-26 | 281 | 34 | 
-| 2022-12-25 | 281 | 34 | 
 

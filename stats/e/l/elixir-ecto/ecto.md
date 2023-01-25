@@ -1,8 +1,8 @@
 # elixir-ecto/ecto - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1332
+☋ Forks: 1331
 
 ★ Stars: 5669
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 5669 | 1331 | 
 | 2023-01-23 | 5669 | 1332 | 
 | 2023-01-22 | 5667 | 1332 | 
 | 2023-01-21 | 5668 | 1331 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 5657 | 1333 | 
 | 2022-12-27 | 5653 | 1332 | 
 | 2022-12-26 | 5653 | 1332 | 
-| 2022-12-25 | 5651 | 1332 | 
 

@@ -1,10 +1,10 @@
 # learn-co-curriculum/html-iframes-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 810
+☋ Forks: 811
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/learn-co-curriculum/html-iframes-lab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3 | 811 | 
 | 2023-01-23 | 2 | 810 | 
 | 2023-01-22 | 2 | 806 | 
 | 2023-01-21 | 2 | 806 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2 | 788 | 
 | 2022-12-27 | 2 | 789 | 
 | 2022-12-26 | 2 | 788 | 
-| 2022-12-25 | 2 | 787 | 
 

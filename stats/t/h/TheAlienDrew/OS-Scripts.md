@@ -1,10 +1,10 @@
 # TheAlienDrew/OS-Scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/TheAlienDrew/OS-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 20 | 8 | 
 | 2023-01-23 | 19 | 8 | 
 | 2023-01-22 | 19 | 8 | 
 | 2023-01-21 | 19 | 8 | 

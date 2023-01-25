@@ -1,10 +1,10 @@
 # Romanitho/Winget-AutoUpdate - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 365
+★ Stars: 369
 
 [Open repository](https://github.com/Romanitho/Winget-AutoUpdate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 369 | 51 | 
 | 2023-01-23 | 365 | 50 | 
 | 2023-01-22 | 366 | 50 | 
 | 2023-01-21 | 365 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 347 | 44 | 
 | 2022-12-28 | 347 | 44 | 
 | 2022-12-27 | 343 | 44 | 
-| 2022-12-25 | 343 | 44 | 
 

@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/terraform-google-cloud-run - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 51
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/GoogleCloudPlatform/terraform-google-cloud-run)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 71 | 51 | 
 | 2023-01-23 | 70 | 51 | 
 | 2023-01-22 | 70 | 51 | 
 | 2023-01-21 | 70 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 64 | 47 | 
 | 2022-12-27 | 64 | 47 | 
 | 2022-12-26 | 64 | 47 | 
-| 2022-12-25 | 64 | 47 | 
 

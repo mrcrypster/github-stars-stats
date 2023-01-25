@@ -1,10 +1,10 @@
 # repalash/Open-Shaders - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/repalash/Open-Shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 52 | 4 | 
 | 2023-01-23 | 51 | 4 | 
 | 2023-01-22 | 51 | 4 | 
 | 2023-01-21 | 51 | 4 | 

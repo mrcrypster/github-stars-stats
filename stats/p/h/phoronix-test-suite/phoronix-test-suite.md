@@ -1,10 +1,10 @@
 # phoronix-test-suite/phoronix-test-suite - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 327
 
-★ Stars: 1882
+★ Stars: 1884
 
 [Open repository](https://github.com/phoronix-test-suite/phoronix-test-suite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1884 | 327 | 
 | 2023-01-23 | 1882 | 327 | 
 | 2023-01-22 | 1882 | 327 | 
 | 2023-01-21 | 1881 | 327 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1855 | 324 | 
 | 2022-12-27 | 1855 | 324 | 
 | 2022-12-26 | 1855 | 324 | 
-| 2022-12-25 | 1855 | 324 | 
 

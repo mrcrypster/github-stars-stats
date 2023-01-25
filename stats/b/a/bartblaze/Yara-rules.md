@@ -1,10 +1,10 @@
 # bartblaze/Yara-rules - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 212
+★ Stars: 214
 
 [Open repository](https://github.com/bartblaze/Yara-rules)
 
@@ -13,5 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 214 | 39 | 
+| 2023-01-24 | 214 | 38 | 
 | 2023-01-23 | 212 | 38 | 
 

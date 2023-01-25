@@ -1,10 +1,10 @@
 # AaronLasseigne/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/AaronLasseigne/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 18 | - | 
 | 2023-01-23 | 17 | - | 
 | 2023-01-22 | 17 | - | 
 | 2023-01-21 | 17 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 17 | - | 
 | 2022-12-27 | 17 | - | 
 | 2022-12-26 | 17 | - | 
-| 2022-12-25 | 17 | - | 
 

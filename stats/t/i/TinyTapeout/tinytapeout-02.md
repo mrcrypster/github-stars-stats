@@ -1,6 +1,6 @@
 # TinyTapeout/tinytapeout-02 - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 15 | 3 | 
 | 2023-01-24 | 15 | 3 | 
 | 2023-01-22 | 14 | 3 | 
 | 2023-01-21 | 14 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 13 | 3 | 
 | 2022-12-27 | 13 | 3 | 
 | 2022-12-26 | 13 | 3 | 
-| 2022-12-25 | 13 | 3 | 
 

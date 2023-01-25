@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 24
 
 ☋ Forks: 120
 
-★ Stars: 747
+★ Stars: 750
 
 [Open repository](https://github.com/dotnet/TorchSharp)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 747 | 120 | 
+| 2023-01-24 | 750 | 120 | 
 | 2023-01-23 | 747 | 120 | 
 

@@ -1,10 +1,10 @@
 # cipher387/osint_stuff_tool_collection - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 319
+☋ Forks: 320
 
-★ Stars: 2865
+★ Stars: 2866
 
 [Open repository](https://github.com/cipher387/osint_stuff_tool_collection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2866 | 320 | 
 | 2023-01-23 | 2865 | 319 | 
 | 2023-01-22 | 2864 | 319 | 
 | 2023-01-21 | 2849 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2760 | 308 | 
 | 2022-12-27 | 2754 | 307 | 
 | 2022-12-26 | 2752 | 307 | 
-| 2022-12-25 | 2749 | 305 | 
 

@@ -1,6 +1,6 @@
 # mvisonneau/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 50 | 52 | 
 | 2023-01-23 | 50 | 52 | 
 | 2023-01-22 | 50 | 52 | 
 | 2023-01-21 | 50 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 49 | 53 | 
 | 2022-12-27 | 49 | 52 | 
 | 2022-12-26 | 49 | 52 | 
-| 2022-12-25 | 49 | 52 | 
 

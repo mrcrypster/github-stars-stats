@@ -1,6 +1,6 @@
 # dongyuwei/hallelujahIM - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1690 | 111 | 
 | 2023-01-23 | 1690 | 111 | 
 | 2023-01-22 | 1689 | 111 | 
 | 2023-01-21 | 1689 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1673 | 112 | 
 | 2022-12-27 | 1670 | 112 | 
 | 2022-12-26 | 1670 | 111 | 
-| 2022-12-25 | 1669 | 111 | 
 

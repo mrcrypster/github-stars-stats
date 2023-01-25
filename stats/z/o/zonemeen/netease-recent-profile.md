@@ -1,6 +1,6 @@
 # zonemeen/netease-recent-profile - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 84 | 12 | 
 | 2023-01-23 | 84 | 12 | 
 | 2023-01-22 | 84 | 12 | 
 | 2023-01-21 | 84 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 81 | 13 | 
 | 2022-12-27 | 81 | 13 | 
 | 2022-12-26 | 81 | 13 | 
-| 2022-12-25 | 80 | 13 | 
 

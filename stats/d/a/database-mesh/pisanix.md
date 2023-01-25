@@ -1,6 +1,6 @@
 # database-mesh/pisanix - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 236 | 34 | 
 | 2023-01-24 | 236 | 34 | 
 | 2023-01-23 | 236 | 34 | 
 | 2023-01-21 | 236 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 233 | 33 | 
 | 2022-12-27 | 232 | 33 | 
 | 2022-12-26 | 232 | 33 | 
-| 2022-12-25 | 232 | 33 | 
 

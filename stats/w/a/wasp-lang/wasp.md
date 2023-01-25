@@ -1,10 +1,10 @@
 # wasp-lang/wasp - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 114
 
-★ Stars: 2243
+★ Stars: 2246
 
 [Open repository](https://github.com/wasp-lang/wasp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2246 | 114 | 
 | 2023-01-23 | 2243 | 114 | 
 | 2023-01-22 | 2241 | 114 | 
 | 2023-01-21 | 2241 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2204 | 114 | 
 | 2022-12-27 | 2201 | 114 | 
 | 2022-12-26 | 2199 | 114 | 
-| 2022-12-25 | 2199 | 114 | 
 

@@ -1,10 +1,10 @@
 # trussworks/terraform-aws-logs - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 38
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/trussworks/terraform-aws-logs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 72 | 38 | 
 | 2023-01-23 | 71 | 38 | 
 | 2023-01-22 | 71 | 37 | 
 | 2023-01-21 | 71 | 37 | 

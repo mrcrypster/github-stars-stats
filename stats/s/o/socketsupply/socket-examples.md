@@ -1,10 +1,10 @@
 # socketsupply/socket-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/socketsupply/socket-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 43 | 4 | 
 | 2023-01-23 | 42 | 4 | 
 | 2023-01-22 | 42 | 4 | 
 | 2023-01-21 | 42 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 40 | 4 | 
 | 2022-12-27 | 39 | 4 | 
 | 2022-12-26 | 39 | 4 | 
-| 2022-12-25 | 39 | 4 | 
 

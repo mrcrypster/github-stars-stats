@@ -1,6 +1,6 @@
 # KULeuven-COSIC/Starlink-FI - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 810 | 105 | 
 | 2023-01-23 | 810 | 105 | 
 | 2023-01-21 | 810 | 105 | 
 | 2023-01-20 | 807 | 105 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 807 | 104 | 
 | 2022-12-27 | 807 | 104 | 
 | 2022-12-26 | 807 | 104 | 
-| 2022-12-25 | 806 | 104 | 
 

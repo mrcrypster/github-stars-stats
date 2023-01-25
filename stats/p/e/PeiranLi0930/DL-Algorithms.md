@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 24
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 87
+★ Stars: 91
 
 [Open repository](https://github.com/PeiranLi0930/DL-Algorithms)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 87 | 12 | 
+| 2023-01-24 | 91 | 14 | 
 | 2023-01-23 | 82 | 12 | 
 | 2023-01-22 | 67 | 10 | 
 | 2023-01-21 | 45 | 9 | 

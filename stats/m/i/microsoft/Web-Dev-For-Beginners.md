@@ -1,10 +1,10 @@
 # microsoft/Web-Dev-For-Beginners - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 10093
+☋ Forks: 10107
 
-★ Stars: 64724
+★ Stars: 64782
 
 [Open repository](https://github.com/microsoft/Web-Dev-For-Beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 64782 | 10107 | 
 | 2023-01-23 | 64724 | 10093 | 
 | 2023-01-22 | 64690 | 10080 | 
 | 2023-01-21 | 64665 | 10079 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 62220 | 9766 | 
 | 2022-12-27 | 62145 | 9758 | 
 | 2022-12-26 | 62120 | 9752 | 
-| 2022-12-25 | 61983 | 9735 | 
 

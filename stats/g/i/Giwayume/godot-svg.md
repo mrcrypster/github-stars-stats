@@ -1,10 +1,10 @@
 # Giwayume/godot-svg - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/Giwayume/godot-svg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 28 | - | 
 | 2023-01-23 | 27 | - | 
 | 2023-01-22 | 25 | - | 
 | 2023-01-21 | 25 | - | 

@@ -1,10 +1,10 @@
 # hackermondev/discord-active-developer-badge - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 38
 
-★ Stars: 304
+★ Stars: 306
 
 [Open repository](https://github.com/hackermondev/discord-active-developer-badge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 306 | 38 | 
 | 2023-01-23 | 304 | 38 | 
 | 2023-01-22 | 302 | 37 | 
 | 2023-01-21 | 301 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 285 | 31 | 
 | 2022-12-27 | 285 | 31 | 
 | 2022-12-26 | 284 | 31 | 
-| 2022-12-25 | 281 | 31 | 
 

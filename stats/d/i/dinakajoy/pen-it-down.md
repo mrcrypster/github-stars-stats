@@ -1,10 +1,10 @@
 # dinakajoy/pen-it-down - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/dinakajoy/pen-it-down)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 16 | 1 | 
 | 2023-01-23 | 15 | 1 | 
 | 2023-01-22 | 15 | 1 | 
 | 2023-01-21 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 15 | 1 | 
 | 2022-12-27 | 15 | 1 | 
 | 2022-12-26 | 15 | 1 | 
-| 2022-12-25 | 15 | 1 | 
 

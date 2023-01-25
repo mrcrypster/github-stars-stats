@@ -1,6 +1,6 @@
 # gooberxyz/goobervault - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 77 | 1 | 
 | 2023-01-23 | 77 | 1 | 
 | 2023-01-22 | 77 | 1 | 
 | 2023-01-21 | 77 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 75 | 1 | 
 | 2022-12-27 | 75 | 1 | 
 | 2022-12-26 | 75 | 1 | 
-| 2022-12-25 | 75 | 1 | 
 

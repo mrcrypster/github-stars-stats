@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 125
+★ Stars: 132
 
 [Open repository](https://github.com/Xe/xn--ts9h)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 125 | 5 | 
+| 2023-01-24 | 132 | 5 | 
 | 2023-01-23 | 123 | 5 | 
 | 2023-01-22 | 74 | 5 | 
 

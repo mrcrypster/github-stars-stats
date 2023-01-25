@@ -1,8 +1,8 @@
 # Loger-Owen/NoSiege - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 10
+☋ Forks: 9
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | - | 9 | 
 | 2023-01-23 | - | 10 | 
 | 2023-01-22 | - | 10 | 
 | 2023-01-21 | - | 10 | 

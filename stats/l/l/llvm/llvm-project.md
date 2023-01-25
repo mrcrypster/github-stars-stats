@@ -1,10 +1,10 @@
 # llvm/llvm-project - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 6665
+☋ Forks: 6669
 
-★ Stars: 17789
+★ Stars: 17794
 
 [Open repository](https://github.com/llvm/llvm-project)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 17794 | 6669 | 
 | 2023-01-23 | 17789 | 6665 | 
 | 2023-01-22 | 17771 | 6665 | 
 | 2023-01-21 | 17757 | 6661 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 17383 | 6566 | 
 | 2022-12-27 | 17375 | 6565 | 
 | 2022-12-26 | 17360 | 6565 | 
-| 2022-12-25 | 17347 | 6564 | 
 

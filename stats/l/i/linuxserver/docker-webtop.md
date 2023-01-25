@@ -1,6 +1,6 @@
 # linuxserver/docker-webtop - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 834 | 82 | 
 | 2023-01-23 | 834 | 82 | 
 | 2023-01-22 | 833 | 82 | 
 | 2023-01-21 | 832 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 804 | 81 | 
 | 2022-12-27 | 803 | 81 | 
 | 2022-12-26 | 803 | 81 | 
-| 2022-12-25 | 800 | 81 | 
 

@@ -1,10 +1,10 @@
 # markmoxon/teletext-elite - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/markmoxon/teletext-elite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 15 | - | 
 | 2023-01-24 | 14 | - | 
 | 2023-01-23 | 14 | - | 
 | 2023-01-21 | 14 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 12 | - | 
 | 2022-12-28 | 12 | - | 
 | 2022-12-26 | 12 | - | 
-| 2022-12-25 | 12 | - | 
 

@@ -1,10 +1,10 @@
 # ElPumpo/TinyNvidiaUpdateChecker - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 46
 
-★ Stars: 1045
+★ Stars: 1046
 
 [Open repository](https://github.com/ElPumpo/TinyNvidiaUpdateChecker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1046 | 46 | 
 | 2023-01-23 | 1045 | 46 | 
 | 2023-01-22 | 1041 | 46 | 
 | 2023-01-21 | 1036 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 999 | 46 | 
 | 2022-12-27 | 994 | 46 | 
 | 2022-12-26 | 991 | 46 | 
-| 2022-12-25 | 985 | 46 | 
 

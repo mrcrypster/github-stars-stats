@@ -1,10 +1,10 @@
 # xflywind/awesome-nim - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 46
 
-★ Stars: 634
+★ Stars: 635
 
 [Open repository](https://github.com/xflywind/awesome-nim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 635 | 46 | 
 | 2023-01-23 | 634 | 46 | 
 | 2023-01-22 | 630 | 46 | 
 | 2023-01-21 | 629 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 598 | 46 | 
 | 2022-12-27 | 595 | 46 | 
 | 2022-12-26 | 594 | 46 | 
-| 2022-12-25 | 589 | 46 | 
 

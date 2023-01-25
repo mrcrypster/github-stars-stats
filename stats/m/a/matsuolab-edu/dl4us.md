@@ -1,10 +1,10 @@
 # matsuolab-edu/dl4us - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 235
 
-★ Stars: 1022
+★ Stars: 1023
 
 [Open repository](https://github.com/matsuolab-edu/dl4us)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1023 | 235 | 
 | 2023-01-24 | 1022 | 235 | 
 | 2023-01-22 | 1022 | 235 | 
 | 2023-01-21 | 1022 | 235 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1018 | 233 | 
 | 2022-12-28 | 1017 | 233 | 
 | 2022-12-27 | 1017 | 233 | 
-| 2022-12-26 | 1017 | 233 | 
 

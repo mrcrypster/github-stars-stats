@@ -1,6 +1,6 @@
 # f1amy/laravel-realworld-example-app - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 65 | 101 | 
 | 2023-01-23 | 65 | 101 | 
 | 2023-01-22 | 65 | 101 | 
 | 2023-01-21 | 65 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 65 | 99 | 
 | 2022-12-27 | 65 | 99 | 
 | 2022-12-26 | 65 | 99 | 
-| 2022-12-25 | 65 | 99 | 
 

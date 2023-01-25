@@ -1,6 +1,6 @@
 # grempe/ex_rated - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 420 | 50 | 
 | 2023-01-23 | 420 | 50 | 
 | 2023-01-22 | 420 | 50 | 
 | 2023-01-21 | 420 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 419 | 50 | 
 | 2022-12-27 | 419 | 50 | 
 | 2022-12-26 | 419 | 50 | 
-| 2022-12-25 | 419 | 50 | 
 

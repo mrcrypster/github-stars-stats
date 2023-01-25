@@ -1,10 +1,10 @@
 # gazebo-release/gz_cmake2_vendor - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/gazebo-release/gz_cmake2_vendor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2 | 3 | 
 | 2023-01-23 | 1 | 3 | 
 | 2023-01-22 | 1 | 3 | 
 | 2023-01-21 | 1 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1 | 3 | 
 | 2022-12-27 | 1 | 3 | 
 | 2022-12-26 | 1 | 3 | 
-| 2022-12-25 | 1 | 3 | 
 

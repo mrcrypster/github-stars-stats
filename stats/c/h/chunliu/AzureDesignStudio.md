@@ -1,6 +1,6 @@
 # chunliu/AzureDesignStudio - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 126 | 30 | 
 | 2023-01-23 | 126 | 30 | 
 | 2023-01-22 | 126 | 30 | 
 | 2023-01-21 | 126 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 122 | 28 | 
 | 2022-12-27 | 122 | 28 | 
 | 2022-12-26 | 122 | 28 | 
-| 2022-12-25 | 122 | 28 | 
 

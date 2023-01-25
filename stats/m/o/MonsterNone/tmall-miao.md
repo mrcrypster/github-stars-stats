@@ -1,10 +1,10 @@
 # MonsterNone/tmall-miao - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 465
 
-★ Stars: 3278
+★ Stars: 3279
 
 [Open repository](https://github.com/MonsterNone/tmall-miao)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3279 | 465 | 
 | 2023-01-23 | 3278 | 465 | 
 | 2023-01-22 | 3277 | 465 | 
 | 2023-01-21 | 3277 | 465 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 3247 | 464 | 
 | 2022-12-27 | 3225 | 464 | 
 | 2022-12-26 | 3214 | 461 | 
-| 2022-12-25 | 3208 | 461 | 
 

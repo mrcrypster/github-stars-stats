@@ -1,6 +1,6 @@
 # TIvanDijk/pRojects - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 17 | 8 | 
 | 2023-01-23 | 17 | 8 | 
 | 2023-01-22 | 17 | 8 | 
 | 2023-01-20 | 17 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 17 | 8 | 
 | 2022-12-28 | 17 | 8 | 
 | 2022-12-26 | 17 | 8 | 
-| 2022-12-25 | 17 | 8 | 
 

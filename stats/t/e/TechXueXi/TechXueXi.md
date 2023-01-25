@@ -1,10 +1,10 @@
 # TechXueXi/TechXueXi - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1383
 
-★ Stars: 4546
+★ Stars: 4547
 
 [Open repository](https://github.com/TechXueXi/TechXueXi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4547 | 1383 | 
 | 2023-01-23 | 4546 | 1383 | 
 | 2023-01-22 | 4544 | 1384 | 
 | 2023-01-21 | 4541 | 1383 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4445 | 1301 | 
 | 2022-12-27 | 4444 | 1298 | 
 | 2022-12-26 | 4441 | 1294 | 
-| 2022-12-25 | 4438 | 1291 | 
 

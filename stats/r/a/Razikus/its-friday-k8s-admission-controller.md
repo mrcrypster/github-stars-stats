@@ -1,10 +1,10 @@
 # Razikus/its-friday-k8s-admission-controller - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 43
+★ Stars: 47
 
 [Open repository](https://github.com/Razikus/its-friday-k8s-admission-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 47 | 3 | 
 | 2023-01-23 | 43 | 3 | 
 | 2023-01-22 | 38 | 3 | 
 | 2023-01-21 | 38 | 3 | 

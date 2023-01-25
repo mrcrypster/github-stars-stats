@@ -1,10 +1,10 @@
 # magiblot/tvision - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 102
 
-★ Stars: 1439
+★ Stars: 1443
 
 [Open repository](https://github.com/magiblot/tvision)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1443 | 102 | 
 | 2023-01-23 | 1439 | 102 | 
 | 2023-01-22 | 1438 | 101 | 
 | 2023-01-20 | 1437 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1416 | 95 | 
 | 2022-12-27 | 1415 | 95 | 
 | 2022-12-26 | 1415 | 95 | 
-| 2022-12-25 | 1414 | 95 | 
 

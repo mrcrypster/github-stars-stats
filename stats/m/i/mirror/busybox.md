@@ -1,8 +1,8 @@
 # mirror/busybox - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 522
+☋ Forks: 523
 
 ★ Stars: 1194
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1194 | 523 | 
 | 2023-01-23 | 1194 | 522 | 
 | 2023-01-22 | 1194 | 521 | 
 | 2023-01-21 | 1193 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1173 | 516 | 
 | 2022-12-27 | 1172 | 516 | 
 | 2022-12-26 | 1172 | 515 | 
-| 2022-12-25 | 1170 | 515 | 
 

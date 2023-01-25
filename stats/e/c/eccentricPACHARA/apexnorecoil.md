@@ -1,6 +1,6 @@
 # eccentricPACHARA/apexnorecoil - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 25 | 27 | 
 | 2023-01-23 | 25 | 27 | 
 | 2023-01-22 | 25 | 27 | 
 | 2023-01-21 | 25 | 27 | 

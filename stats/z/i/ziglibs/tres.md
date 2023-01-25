@@ -1,6 +1,6 @@
 # ziglibs/tres - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 10 | 2 | 
 | 2023-01-23 | 10 | 2 | 
 | 2023-01-22 | 10 | 2 | 
 | 2023-01-21 | 9 | 2 | 

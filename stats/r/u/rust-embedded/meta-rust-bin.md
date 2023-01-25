@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 24
 
 ☋ Forks: 45
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/rust-embedded/meta-rust-bin)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 72 | 45 | 
+| 2023-01-24 | 73 | 45 | 
 | 2023-01-23 | 72 | 45 | 
 | 2023-01-22 | 72 | 45 | 
 | 2023-01-21 | 72 | 45 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-28 | 71 | 44 | 
 | 2022-12-27 | 71 | 44 | 
 | 2022-12-26 | 71 | 44 | 
-| 2022-12-25 | 71 | 44 | 
 

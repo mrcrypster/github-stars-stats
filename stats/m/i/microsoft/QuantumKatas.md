@@ -1,8 +1,8 @@
 # microsoft/QuantumKatas - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1131
+☋ Forks: 1132
 
 ★ Stars: 4099
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4099 | 1132 | 
 | 2023-01-23 | 4099 | 1131 | 
 | 2023-01-22 | 4098 | 1131 | 
 | 2023-01-21 | 4097 | 1131 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4084 | 1125 | 
 | 2022-12-27 | 4083 | 1125 | 
 | 2022-12-26 | 4081 | 1124 | 
-| 2022-12-25 | 4077 | 1124 | 
 

@@ -1,10 +1,10 @@
 # 0x4D31/awesome-threat-detection - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 508
 
-★ Stars: 2488
+★ Stars: 2489
 
 [Open repository](https://github.com/0x4D31/awesome-threat-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2489 | 508 | 
 | 2023-01-23 | 2488 | 508 | 
 | 2023-01-22 | 2486 | 508 | 
 | 2023-01-21 | 2485 | 508 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2446 | 504 | 
 | 2022-12-27 | 2445 | 504 | 
 | 2022-12-26 | 2443 | 504 | 
-| 2022-12-25 | 2442 | 503 | 
 

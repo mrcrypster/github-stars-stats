@@ -1,10 +1,10 @@
 # dunglas/frankenphp - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 68
 
-★ Stars: 2857
+★ Stars: 2858
 
 [Open repository](https://github.com/dunglas/frankenphp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2858 | 68 | 
 | 2023-01-24 | 2857 | 68 | 
 | 2023-01-23 | 2856 | 68 | 
 | 2023-01-21 | 2854 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2812 | 68 | 
 | 2022-12-28 | 2812 | 68 | 
 | 2022-12-27 | 2811 | 68 | 
-| 2022-12-26 | 2811 | 69 | 
 

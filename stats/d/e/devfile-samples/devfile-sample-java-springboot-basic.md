@@ -1,8 +1,8 @@
 # devfile-samples/devfile-sample-java-springboot-basic - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 101
+☋ Forks: 102
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 11 | 102 | 
 | 2023-01-23 | 11 | 101 | 
 | 2023-01-22 | 11 | 101 | 
 | 2023-01-21 | 11 | 101 | 

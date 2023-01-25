@@ -1,10 +1,10 @@
 # aquasecurity/tfsec - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 477
 
-★ Stars: 5513
+★ Stars: 5520
 
 [Open repository](https://github.com/aquasecurity/tfsec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 5520 | 477 | 
 | 2023-01-24 | 5513 | 477 | 
 | 2023-01-23 | 5511 | 476 | 
 | 2023-01-21 | 5510 | 477 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 5449 | 470 | 
 | 2022-12-28 | 5446 | 470 | 
 | 2022-12-26 | 5446 | 470 | 
-| 2022-12-25 | 5444 | 470 | 
 

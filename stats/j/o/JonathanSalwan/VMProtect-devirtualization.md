@@ -1,6 +1,6 @@
 # JonathanSalwan/VMProtect-devirtualization - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 804 | 142 | 
 | 2023-01-23 | 804 | 142 | 
 | 2023-01-22 | 804 | 142 | 
 | 2023-01-21 | 804 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 782 | 140 | 
 | 2022-12-27 | 782 | 140 | 
 | 2022-12-26 | 782 | 140 | 
-| 2022-12-25 | 782 | 140 | 
 

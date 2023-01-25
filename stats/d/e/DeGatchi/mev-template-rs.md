@@ -1,6 +1,6 @@
 # DeGatchi/mev-template-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 410 | 62 | 
 | 2023-01-23 | 410 | 62 | 
 | 2023-01-22 | 410 | 62 | 
 | 2023-01-20 | 410 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 396 | 61 | 
 | 2022-12-28 | 396 | 61 | 
 | 2022-12-27 | 395 | 61 | 
-| 2022-12-26 | 395 | 61 | 
 

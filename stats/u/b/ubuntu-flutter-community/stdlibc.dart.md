@@ -1,6 +1,6 @@
 # ubuntu-flutter-community/stdlibc.dart - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 41 | 4 | 
 | 2023-01-23 | 41 | 4 | 
 | 2023-01-22 | 41 | 4 | 
 | 2023-01-21 | 41 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 39 | 3 | 
 | 2022-12-28 | 39 | 3 | 
 | 2022-12-27 | 39 | 3 | 
-| 2022-12-26 | 39 | 3 | 
 

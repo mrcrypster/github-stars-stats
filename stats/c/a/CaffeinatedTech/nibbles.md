@@ -1,6 +1,6 @@
 # CaffeinatedTech/nibbles - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 16 | 33 | 
 | 2023-01-23 | 16 | 33 | 
 | 2023-01-22 | 16 | 33 | 
 | 2023-01-21 | 16 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 16 | 33 | 
 | 2022-12-28 | 15 | 33 | 
 | 2022-12-27 | 15 | 32 | 
-| 2022-12-26 | 15 | 32 | 
 

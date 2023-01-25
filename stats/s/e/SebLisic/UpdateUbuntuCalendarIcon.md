@@ -1,6 +1,6 @@
 # SebLisic/UpdateUbuntuCalendarIcon - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 22 | - | 
 | 2023-01-24 | 22 | - | 
 | 2023-01-23 | 22 | - | 
 | 2023-01-21 | 22 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 22 | - | 
 | 2022-12-27 | 22 | - | 
 | 2022-12-26 | 22 | - | 
-| 2022-12-25 | 22 | - | 
 

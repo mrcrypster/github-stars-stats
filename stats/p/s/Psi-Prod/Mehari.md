@@ -1,10 +1,10 @@
 # Psi-Prod/Mehari - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Psi-Prod/Mehari)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 24 | 1 | 
 | 2023-01-23 | 23 | - | 
 | 2023-01-22 | 23 | - | 
 | 2023-01-21 | 23 | - | 

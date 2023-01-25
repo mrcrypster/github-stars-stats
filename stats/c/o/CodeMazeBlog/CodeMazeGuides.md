@@ -1,10 +1,10 @@
 # CodeMazeBlog/CodeMazeGuides - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 562
+☋ Forks: 567
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/CodeMazeBlog/CodeMazeGuides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 305 | 567 | 
 | 2023-01-23 | 304 | 562 | 
 | 2023-01-22 | 304 | 559 | 
 | 2023-01-21 | 304 | 555 | 

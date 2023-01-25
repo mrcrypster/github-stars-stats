@@ -1,10 +1,10 @@
 # draftbit/avatar-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 109
 
-★ Stars: 1134
+★ Stars: 1135
 
 [Open repository](https://github.com/draftbit/avatar-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1135 | 109 | 
 | 2023-01-23 | 1134 | 109 | 
 | 2023-01-22 | 1133 | 109 | 
 | 2023-01-21 | 1133 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1121 | 109 | 
 | 2022-12-27 | 1121 | 109 | 
 | 2022-12-26 | 1120 | 109 | 
-| 2022-12-25 | 1120 | 109 | 
 

@@ -1,6 +1,6 @@
 # oregon-state-innovation-lab/cs561-swift - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4 | 93 | 
 | 2023-01-23 | 4 | 93 | 
 | 2023-01-22 | 4 | 93 | 
 | 2023-01-21 | 4 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 3 | 93 | 
 | 2022-12-27 | 3 | 93 | 
 | 2022-12-26 | 3 | 93 | 
-| 2022-12-25 | 3 | 93 | 
 

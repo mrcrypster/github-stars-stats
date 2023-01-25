@@ -1,10 +1,10 @@
 # wireui/heroicons - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/wireui/heroicons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 35 | 4 | 
 | 2023-01-23 | 34 | 4 | 
 | 2023-01-22 | 34 | 4 | 
 | 2023-01-21 | 34 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 34 | 3 | 
 | 2022-12-27 | 34 | 3 | 
 | 2022-12-26 | 33 | 3 | 
-| 2022-12-25 | 33 | 3 | 
 

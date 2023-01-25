@@ -1,6 +1,6 @@
 # carp-lang/Carp - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4838 | 166 | 
 | 2023-01-23 | 4838 | 166 | 
 | 2023-01-22 | 4835 | 166 | 
 | 2023-01-21 | 4835 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4818 | 167 | 
 | 2022-12-27 | 4815 | 167 | 
 | 2022-12-26 | 4814 | 167 | 
-| 2022-12-25 | 4813 | 167 | 
 

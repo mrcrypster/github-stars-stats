@@ -1,10 +1,10 @@
 # google/comprehensive-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 326
+☋ Forks: 336
 
-★ Stars: 7500
+★ Stars: 7930
 
 [Open repository](https://github.com/google/comprehensive-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 7930 | 336 | 
 | 2023-01-23 | 7500 | 326 | 
 | 2023-01-22 | 6946 | 306 | 
 | 2023-01-21 | 6719 | 302 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 3627 | 164 | 
 | 2022-12-27 | 2954 | 136 | 
 | 2022-12-26 | 2243 | 116 | 
-| 2022-12-25 | 1664 | 98 | 
 

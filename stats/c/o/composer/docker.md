@@ -1,8 +1,8 @@
 # composer/docker - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 133
+☋ Forks: 134
 
 ★ Stars: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 222 | 134 | 
 | 2023-01-23 | 222 | 133 | 
 | 2023-01-22 | 222 | 133 | 
 | 2023-01-21 | 222 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 221 | 132 | 
 | 2022-12-27 | 221 | 132 | 
 | 2022-12-26 | 221 | 132 | 
-| 2022-12-25 | 220 | 132 | 
 

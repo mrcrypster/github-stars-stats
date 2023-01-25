@@ -1,6 +1,6 @@
 # SI-RISCV/e200_opensource - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 937
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2199 | 937 | 
 | 2023-01-23 | 2199 | 937 | 
 | 2023-01-22 | 2199 | 936 | 
 | 2023-01-21 | 2199 | 936 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2191 | 936 | 
 | 2022-12-27 | 2190 | 936 | 
 | 2022-12-26 | 2190 | 936 | 
-| 2022-12-25 | 2190 | 936 | 
 

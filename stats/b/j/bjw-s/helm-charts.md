@@ -1,10 +1,10 @@
 # bjw-s/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 44
 
-★ Stars: 151
+★ Stars: 153
 
 [Open repository](https://github.com/bjw-s/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 153 | 44 | 
 | 2023-01-23 | 151 | 44 | 
 | 2023-01-22 | 149 | 42 | 
 | 2023-01-21 | 148 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 114 | 38 | 
 | 2022-12-27 | 112 | 38 | 
 | 2022-12-26 | 112 | 38 | 
-| 2022-12-25 | 112 | 38 | 
 

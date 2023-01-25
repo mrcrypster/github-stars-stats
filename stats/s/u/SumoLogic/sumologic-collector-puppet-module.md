@@ -1,6 +1,6 @@
 # SumoLogic/sumologic-collector-puppet-module - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 11 | 23 | 
 | 2023-01-23 | 11 | 23 | 
 | 2023-01-22 | 11 | 23 | 
 | 2023-01-21 | 11 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 10 | 23 | 
 | 2022-12-28 | 10 | 23 | 
 | 2022-12-27 | 10 | 23 | 
-| 2022-12-25 | 10 | 23 | 
 

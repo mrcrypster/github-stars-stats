@@ -1,10 +1,10 @@
 # nomi-sec/PoC-in-GitHub - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 923
+☋ Forks: 924
 
-★ Stars: 4642
+★ Stars: 4647
 
 [Open repository](https://github.com/nomi-sec/PoC-in-GitHub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4647 | 924 | 
 | 2023-01-23 | 4642 | 923 | 
 | 2023-01-22 | 4641 | 923 | 
 | 2023-01-21 | 4640 | 923 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4583 | 914 | 
 | 2022-12-27 | 4581 | 914 | 
 | 2022-12-26 | 4579 | 914 | 
-| 2022-12-25 | 4576 | 914 | 
 

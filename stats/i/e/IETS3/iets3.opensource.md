@@ -1,6 +1,6 @@
 # IETS3/iets3.opensource - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 39 | 19 | 
 | 2023-01-23 | 39 | 19 | 
 | 2023-01-22 | 39 | 19 | 
 | 2023-01-21 | 39 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 38 | 19 | 
 | 2022-12-27 | 38 | 19 | 
 | 2022-12-26 | 38 | 19 | 
-| 2022-12-25 | 38 | 19 | 
 

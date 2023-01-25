@@ -1,10 +1,10 @@
 # deviantony/docker-elk - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 6026
+☋ Forks: 6027
 
-★ Stars: 14510
+★ Stars: 14513
 
 [Open repository](https://github.com/deviantony/docker-elk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 14513 | 6027 | 
 | 2023-01-23 | 14510 | 6026 | 
 | 2023-01-22 | 14508 | 6024 | 
 | 2023-01-21 | 14502 | 6024 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 14396 | 5987 | 
 | 2022-12-27 | 14384 | 5988 | 
 | 2022-12-26 | 14381 | 5984 | 
-| 2022-12-25 | 14375 | 5982 | 
 

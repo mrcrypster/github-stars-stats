@@ -1,6 +1,6 @@
 # r-lib/devtools - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 752
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2251 | 752 | 
 | 2023-01-23 | 2251 | 752 | 
 | 2023-01-22 | 2251 | 752 | 
 | 2023-01-21 | 2251 | 752 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2245 | 749 | 
 | 2022-12-27 | 2245 | 749 | 
 | 2022-12-26 | 2244 | 749 | 
-| 2022-12-25 | 2244 | 749 | 
 

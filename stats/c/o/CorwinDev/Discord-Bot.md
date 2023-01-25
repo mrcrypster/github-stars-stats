@@ -1,10 +1,10 @@
 # CorwinDev/Discord-Bot - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 234
+★ Stars: 236
 
 [Open repository](https://github.com/CorwinDev/Discord-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 236 | 157 | 
 | 2023-01-23 | 234 | 156 | 
 | 2023-01-22 | 234 | 155 | 
 | 2023-01-21 | 233 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 188 | 100 | 
 | 2022-12-27 | 186 | 96 | 
 | 2022-12-26 | 178 | 95 | 
-| 2022-12-25 | 175 | 92 | 
 

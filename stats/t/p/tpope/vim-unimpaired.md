@@ -1,10 +1,10 @@
 # tpope/vim-unimpaired - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 207
 
-★ Stars: 2997
+★ Stars: 2998
 
 [Open repository](https://github.com/tpope/vim-unimpaired)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2998 | 207 | 
 | 2023-01-23 | 2997 | 207 | 
 | 2023-01-22 | 2997 | 207 | 
 | 2023-01-21 | 2997 | 207 | 

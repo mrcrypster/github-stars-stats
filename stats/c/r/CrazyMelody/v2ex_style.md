@@ -1,6 +1,6 @@
 # CrazyMelody/v2ex_style - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 51 | 30 | 
 | 2023-01-23 | 51 | 30 | 
 | 2023-01-22 | 51 | 30 | 
 | 2023-01-21 | 51 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 51 | 31 | 
 | 2022-12-27 | 51 | 31 | 
 | 2022-12-26 | 51 | 31 | 
-| 2022-12-25 | 51 | 31 | 
 

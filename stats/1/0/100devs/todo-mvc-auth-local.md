@@ -1,10 +1,10 @@
 # 100devs/todo-mvc-auth-local - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 857
+☋ Forks: 859
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/100devs/todo-mvc-auth-local)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 321 | 859 | 
 | 2023-01-23 | 320 | 857 | 
 | 2023-01-22 | 319 | 854 | 
 | 2023-01-21 | 319 | 853 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 316 | 842 | 
 | 2022-12-27 | 316 | 842 | 
 | 2022-12-26 | 316 | 842 | 
-| 2022-12-25 | 316 | 842 | 
 

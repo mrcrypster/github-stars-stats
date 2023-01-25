@@ -1,10 +1,10 @@
 # steven-tey/precedent - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 72
+☋ Forks: 75
 
-★ Stars: 1645
+★ Stars: 1682
 
 [Open repository](https://github.com/steven-tey/precedent)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1682 | 75 | 
 | 2023-01-23 | 1645 | 72 | 
 | 2023-01-22 | 1614 | 71 | 
 | 2023-01-21 | 1592 | 67 | 

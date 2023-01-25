@@ -1,6 +1,6 @@
 # 1w5/NgrokRDPap - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | - | 20 | 
 | 2023-01-23 | - | 20 | 
 | 2023-01-22 | - | 20 | 
 | 2023-01-21 | - | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | - | 18 | 
 | 2022-12-28 | - | 18 | 
 | 2022-12-26 | - | 18 | 
-| 2022-12-25 | - | 17 | 
 

@@ -1,6 +1,6 @@
 # uias/Tabman - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2496 | 215 | 
 | 2023-01-23 | 2496 | 215 | 
 | 2023-01-22 | 2497 | 215 | 
 | 2023-01-21 | 2497 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2472 | 214 | 
 | 2022-12-27 | 2471 | 214 | 
 | 2022-12-26 | 2470 | 214 | 
-| 2022-12-25 | 2469 | 214 | 
 

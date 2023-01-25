@@ -1,6 +1,6 @@
 # Atcold/pytorch-Deep-Learning - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2112
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 6245 | 2112 | 
 | 2023-01-23 | 6245 | 2112 | 
 | 2023-01-22 | 6244 | 2112 | 
 | 2023-01-21 | 6241 | 2111 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 6210 | 2100 | 
 | 2022-12-27 | 6209 | 2099 | 
 | 2022-12-26 | 6209 | 2099 | 
-| 2022-12-25 | 6208 | 2098 | 
 

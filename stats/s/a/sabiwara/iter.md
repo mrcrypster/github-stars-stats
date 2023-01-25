@@ -1,6 +1,6 @@
 # sabiwara/iter - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 25 | 3 | 
 | 2023-01-23 | 25 | 3 | 
 | 2023-01-22 | 24 | 3 | 
 | 2023-01-21 | 24 | 3 | 

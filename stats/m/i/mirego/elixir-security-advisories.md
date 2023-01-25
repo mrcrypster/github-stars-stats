@@ -1,10 +1,10 @@
 # mirego/elixir-security-advisories - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/mirego/elixir-security-advisories)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 46 | 1 | 
 | 2023-01-23 | 44 | 1 | 
 | 2023-01-22 | 44 | 1 | 
 | 2023-01-21 | 44 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 38 | 1 | 
 | 2022-12-27 | 38 | 1 | 
 | 2022-12-26 | 38 | 1 | 
-| 2022-12-25 | 38 | 1 | 
 

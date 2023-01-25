@@ -1,10 +1,10 @@
 # szw/vim-maximizer - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 15
 
-★ Stars: 387
+★ Stars: 388
 
 [Open repository](https://github.com/szw/vim-maximizer)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 388 | 15 | 
+| 2023-01-24 | 388 | 15 | 
 | 2023-01-23 | 387 | 15 | 
 | 2023-01-22 | 387 | 15 | 
 | 2023-01-21 | 387 | 15 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 381 | 15 | 
 | 2022-12-28 | 381 | 15 | 
 | 2022-12-26 | 381 | 15 | 
-| 2022-12-25 | 381 | 15 | 
 

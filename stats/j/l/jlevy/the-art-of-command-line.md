@@ -1,10 +1,10 @@
 # jlevy/the-art-of-command-line - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 12807
+☋ Forks: 12812
 
-★ Stars: 126242
+★ Stars: 126314
 
 [Open repository](https://github.com/jlevy/the-art-of-command-line)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 126314 | 12812 | 
 | 2023-01-23 | 126242 | 12807 | 
 | 2023-01-22 | 126170 | 12806 | 
 | 2023-01-21 | 126122 | 12802 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 123380 | 12584 | 
 | 2022-12-27 | 123208 | 12569 | 
 | 2022-12-26 | 123108 | 12558 | 
-| 2022-12-25 | 123047 | 12553 | 
 

@@ -1,6 +1,6 @@
 # xuncv/WechatVideoSniffer - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 405 | 72 | 
 | 2023-01-23 | 405 | 72 | 
 | 2023-01-22 | 403 | 72 | 
 | 2023-01-21 | 403 | 72 | 

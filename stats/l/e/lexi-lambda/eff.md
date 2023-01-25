@@ -1,6 +1,6 @@
 # lexi-lambda/eff - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 88 | - | 
 | 2023-01-23 | 88 | - | 
 | 2023-01-22 | 86 | - | 
 | 2023-01-21 | 85 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 82 | - | 
 | 2022-12-27 | 82 | - | 
 | 2022-12-26 | 82 | - | 
-| 2022-12-25 | 82 | - | 
 

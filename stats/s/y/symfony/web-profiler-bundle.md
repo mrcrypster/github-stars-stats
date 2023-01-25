@@ -1,10 +1,10 @@
 # symfony/web-profiler-bundle - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 56
 
-★ Stars: 2060
+★ Stars: 2061
 
 [Open repository](https://github.com/symfony/web-profiler-bundle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2061 | 56 | 
 | 2023-01-23 | 2060 | 56 | 
 | 2023-01-22 | 2060 | 56 | 
 | 2023-01-21 | 2060 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2051 | 56 | 
 | 2022-12-27 | 2049 | 56 | 
 | 2022-12-26 | 2048 | 56 | 
-| 2022-12-25 | 2048 | 56 | 
 

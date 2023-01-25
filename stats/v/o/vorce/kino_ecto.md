@@ -1,10 +1,10 @@
 # vorce/kino_ecto - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/vorce/kino_ecto)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 35 | 3 | 
 | 2023-01-23 | 34 | 3 | 
 | 2023-01-22 | 34 | 3 | 
 | 2023-01-21 | 34 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 30 | 3 | 
 | 2022-12-27 | 29 | 3 | 
 | 2022-12-26 | 29 | 3 | 
-| 2022-12-25 | 29 | 3 | 
 

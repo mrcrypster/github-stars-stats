@@ -1,6 +1,6 @@
 # weseek/growi-docker-compose - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 165 | 84 | 
 | 2023-01-23 | 165 | 84 | 
 | 2023-01-22 | 165 | 84 | 
 | 2023-01-20 | 165 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 164 | 81 | 
 | 2022-12-28 | 164 | 81 | 
 | 2022-12-26 | 164 | 81 | 
-| 2022-12-25 | 164 | 81 | 
 

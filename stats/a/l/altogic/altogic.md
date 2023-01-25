@@ -1,8 +1,8 @@
 # altogic/altogic - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 14
+☋ Forks: 12
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 98 | 12 | 
 | 2023-01-23 | 98 | 14 | 
 | 2023-01-22 | 98 | 14 | 
 | 2023-01-21 | 98 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 101 | 13 | 
 | 2022-12-27 | 101 | 13 | 
 | 2022-12-26 | 102 | 13 | 
-| 2022-12-25 | 102 | 13 | 
 

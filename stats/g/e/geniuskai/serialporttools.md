@@ -1,6 +1,6 @@
 # geniuskai/serialporttools - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 33 | 13 | 
 | 2023-01-23 | 33 | 13 | 
 | 2023-01-22 | 33 | 13 | 
 | 2023-01-21 | 33 | 13 | 

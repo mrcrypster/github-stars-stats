@@ -1,10 +1,10 @@
 # rmcelreath/stat_rethinking_2023 - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 84
 
-★ Stars: 1017
+★ Stars: 1021
 
 [Open repository](https://github.com/rmcelreath/stat_rethinking_2023)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1021 | 84 | 
 | 2023-01-23 | 1017 | 84 | 
 | 2023-01-22 | 1010 | 84 | 
 | 2023-01-21 | 1003 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 339 | 30 | 
 | 2022-12-27 | 336 | 30 | 
 | 2022-12-26 | 332 | 29 | 
-| 2022-12-25 | 329 | 28 | 
 

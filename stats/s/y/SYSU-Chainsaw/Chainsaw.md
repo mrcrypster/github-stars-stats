@@ -1,6 +1,6 @@
 # SYSU-Chainsaw/Chainsaw - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 10 | 10 | 
 | 2023-01-23 | 10 | 10 | 
 | 2023-01-22 | 10 | 10 | 
 | 2023-01-21 | 10 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 7 | 9 | 
 | 2022-12-27 | 7 | 9 | 
 | 2022-12-26 | 7 | 9 | 
-| 2022-12-25 | 7 | 9 | 
 

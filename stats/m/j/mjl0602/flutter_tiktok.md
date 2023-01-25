@@ -1,6 +1,6 @@
 # mjl0602/flutter_tiktok - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 352
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1164 | 352 | 
 | 2023-01-23 | 1164 | 352 | 
 | 2023-01-22 | 1164 | 352 | 
 | 2023-01-21 | 1164 | 352 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1155 | 346 | 
 | 2022-12-27 | 1155 | 345 | 
 | 2022-12-26 | 1155 | 345 | 
-| 2022-12-25 | 1156 | 345 | 
 

@@ -1,6 +1,6 @@
 # niekiran/Embedded-C - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 232 | 222 | 
 | 2023-01-23 | 232 | 222 | 
 | 2023-01-22 | 232 | 222 | 
 | 2023-01-21 | 231 | 221 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 221 | 215 | 
 | 2022-12-27 | 221 | 215 | 
 | 2022-12-26 | 221 | 215 | 
-| 2022-12-25 | 221 | 215 | 
 

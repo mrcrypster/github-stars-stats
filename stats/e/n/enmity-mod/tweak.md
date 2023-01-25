@@ -1,10 +1,10 @@
 # enmity-mod/tweak - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 19
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/enmity-mod/tweak)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 175 | 19 | 
 | 2023-01-23 | 174 | 19 | 
 | 2023-01-22 | 173 | 19 | 
 | 2023-01-21 | 171 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 165 | 17 | 
 | 2022-12-27 | 165 | 17 | 
 | 2022-12-26 | 165 | 17 | 
-| 2022-12-25 | 164 | 17 | 
 

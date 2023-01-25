@@ -1,10 +1,10 @@
 # ethereum/web3.py - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1252
+☋ Forks: 1256
 
-★ Stars: 3975
+★ Stars: 3977
 
 [Open repository](https://github.com/ethereum/web3.py)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3977 | 1256 | 
 | 2023-01-23 | 3975 | 1252 | 
 | 2023-01-22 | 3975 | 1250 | 
 | 2023-01-21 | 3976 | 1251 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 3929 | 1236 | 
 | 2022-12-27 | 3925 | 1236 | 
 | 2022-12-26 | 3922 | 1234 | 
-| 2022-12-25 | 3920 | 1233 | 
 

@@ -1,10 +1,10 @@
 # shwestrick/smlfmt - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 47
+★ Stars: 50
 
 [Open repository](https://github.com/shwestrick/smlfmt)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 50 | 6 | 
+| 2023-01-24 | 49 | 6 | 
 | 2023-01-23 | 47 | 6 | 
 | 2023-01-22 | 44 | 6 | 
 | 2023-01-21 | 44 | 6 | 

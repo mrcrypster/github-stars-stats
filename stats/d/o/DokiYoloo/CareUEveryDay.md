@@ -1,6 +1,6 @@
 # DokiYoloo/CareUEveryDay - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 85 | 130 | 
 | 2023-01-23 | 85 | 130 | 
 | 2023-01-21 | 85 | 130 | 
 | 2023-01-20 | 85 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 85 | 129 | 
 | 2022-12-28 | 85 | 129 | 
 | 2022-12-27 | 85 | 129 | 
-| 2022-12-26 | 85 | 129 | 
 

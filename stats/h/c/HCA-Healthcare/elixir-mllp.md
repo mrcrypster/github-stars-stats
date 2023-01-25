@@ -1,10 +1,10 @@
 # HCA-Healthcare/elixir-mllp - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 13
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/HCA-Healthcare/elixir-mllp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 28 | 13 | 
 | 2023-01-23 | 27 | 13 | 
 | 2023-01-22 | 27 | 13 | 
 | 2023-01-21 | 27 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 27 | 13 | 
 | 2022-12-27 | 27 | 13 | 
 | 2022-12-26 | 27 | 13 | 
-| 2022-12-25 | 27 | 13 | 
 

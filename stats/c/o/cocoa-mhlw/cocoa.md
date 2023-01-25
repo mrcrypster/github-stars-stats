@@ -1,6 +1,6 @@
 # cocoa-mhlw/cocoa - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 985 | 115 | 
 | 2023-01-23 | 985 | 115 | 
 | 2023-01-22 | 985 | 115 | 
 | 2023-01-21 | 983 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 977 | 115 | 
 | 2022-12-27 | 978 | 115 | 
 | 2022-12-26 | 977 | 115 | 
-| 2022-12-25 | 978 | 115 | 
 

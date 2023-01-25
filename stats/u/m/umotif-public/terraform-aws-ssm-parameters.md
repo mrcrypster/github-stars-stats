@@ -1,8 +1,8 @@
 # umotif-public/terraform-aws-ssm-parameters - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3 | 7 | 
 | 2023-01-23 | 3 | 6 | 
 | 2023-01-22 | 3 | 6 | 
 | 2023-01-21 | 3 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 3 | 6 | 
 | 2022-12-27 | 3 | 6 | 
 | 2022-12-26 | 3 | 6 | 
-| 2022-12-25 | 3 | 6 | 
 

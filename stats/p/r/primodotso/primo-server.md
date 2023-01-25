@@ -1,8 +1,8 @@
 # primodotso/primo-server - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 54
+☋ Forks: 55
 
 ★ Stars: 59
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 59 | 55 | 
 | 2023-01-23 | 59 | 54 | 
 | 2023-01-22 | 58 | 54 | 
 | 2023-01-21 | 58 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 50 | 46 | 
 | 2022-12-27 | 49 | 45 | 
 | 2022-12-26 | 49 | 45 | 
-| 2022-12-25 | 49 | 45 | 
 

@@ -1,6 +1,6 @@
 # sailay1996/CdpSvcLPE - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 238 | 48 | 
 | 2023-01-23 | 238 | 48 | 
 | 2023-01-22 | 238 | 48 | 
 | 2023-01-21 | 238 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 237 | 48 | 
 | 2022-12-27 | 237 | 48 | 
 | 2022-12-26 | 237 | 48 | 
-| 2022-12-25 | 237 | 48 | 
 

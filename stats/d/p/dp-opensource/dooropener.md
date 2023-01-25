@@ -1,10 +1,10 @@
 # dp-opensource/dooropener - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/dp-opensource/dooropener)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1 | 2 | 
 | 2023-01-23 | - | 2 | 
 | 2023-01-22 | - | 2 | 
 | 2023-01-21 | - | 2 | 

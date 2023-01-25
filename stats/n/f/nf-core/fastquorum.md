@@ -1,6 +1,6 @@
 # nf-core/fastquorum - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 7 | 3 | 
 | 2023-01-23 | 7 | 3 | 
 | 2023-01-22 | 7 | 3 | 
 | 2023-01-21 | 7 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 6 | 2 | 
 | 2022-12-27 | 6 | 2 | 
 | 2022-12-26 | 6 | 2 | 
-| 2022-12-25 | 6 | 2 | 
 

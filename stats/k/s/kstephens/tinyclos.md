@@ -1,6 +1,6 @@
 # kstephens/tinyclos - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 46 | 8 | 
 | 2023-01-24 | 46 | 8 | 
 | 2023-01-23 | 46 | 8 | 
 | 2023-01-21 | 46 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 45 | 7 | 
 | 2022-12-28 | 45 | 7 | 
 | 2022-12-27 | 45 | 7 | 
-| 2022-12-25 | 45 | 7 | 
 

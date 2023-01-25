@@ -1,6 +1,6 @@
 # gerritdevriese/kzones - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 66 | 7 | 
 | 2023-01-23 | 66 | 7 | 
 | 2023-01-22 | 66 | 7 | 
 | 2023-01-21 | 66 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 54 | 5 | 
 | 2022-12-28 | 53 | 5 | 
 | 2022-12-27 | 52 | 5 | 
-| 2022-12-26 | 52 | 5 | 
 

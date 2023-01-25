@@ -1,10 +1,10 @@
 # guzba/mummy - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/guzba/mummy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 150 | 5 | 
 | 2023-01-23 | 149 | 5 | 
 | 2023-01-22 | 149 | 5 | 
 | 2023-01-21 | 149 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 83 | 6 | 
 | 2022-12-27 | 83 | 6 | 
 | 2022-12-26 | 83 | 6 | 
-| 2022-12-25 | 83 | 6 | 
 

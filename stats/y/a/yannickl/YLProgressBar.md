@@ -1,6 +1,6 @@
 # yannickl/YLProgressBar - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1268 | 191 | 
 | 2023-01-23 | 1268 | 191 | 
 | 2023-01-22 | 1268 | 191 | 
 | 2023-01-21 | 1268 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1269 | 190 | 
 | 2022-12-27 | 1269 | 190 | 
 | 2022-12-26 | 1269 | 190 | 
-| 2022-12-25 | 1269 | 190 | 
 

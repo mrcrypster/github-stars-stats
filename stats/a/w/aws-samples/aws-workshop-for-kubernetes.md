@@ -1,10 +1,10 @@
 # aws-samples/aws-workshop-for-kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 999
 
-★ Stars: 2544
+★ Stars: 2545
 
 [Open repository](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2545 | 999 | 
 | 2023-01-23 | 2544 | 999 | 
 | 2023-01-22 | 2544 | 998 | 
 | 2023-01-21 | 2544 | 998 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 2543 | 996 | 
 | 2022-12-28 | 2543 | 994 | 
 | 2022-12-27 | 2542 | 993 | 
-| 2022-12-25 | 2542 | 992 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/crashappsec/con4m)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 2 | - | 
+| 2023-01-24 | 3 | - | 
 | 2023-01-23 | 2 | - | 
 

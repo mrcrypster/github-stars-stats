@@ -1,10 +1,10 @@
 # lowRISC/ibex - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 391
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/lowRISC/ibex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 906 | 391 | 
 | 2023-01-23 | 905 | 391 | 
 | 2023-01-22 | 905 | 391 | 
 | 2023-01-21 | 905 | 391 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 883 | 389 | 
 | 2022-12-27 | 883 | 389 | 
 | 2022-12-26 | 882 | 389 | 
-| 2022-12-25 | 881 | 391 | 
 

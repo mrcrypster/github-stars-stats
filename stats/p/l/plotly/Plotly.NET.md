@@ -1,8 +1,8 @@
 # plotly/Plotly.NET - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 386
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 386 | 58 | 
 | 2023-01-23 | 386 | 57 | 
 | 2023-01-22 | 386 | 57 | 
 | 2023-01-21 | 386 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 383 | 57 | 
 | 2022-12-28 | 383 | 57 | 
 | 2022-12-27 | 383 | 57 | 
-| 2022-12-25 | 383 | 57 | 
 

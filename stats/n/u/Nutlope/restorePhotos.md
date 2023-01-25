@@ -1,10 +1,10 @@
 # Nutlope/restorePhotos - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
-☋ Forks: 127
+☋ Forks: 133
 
-★ Stars: 1189
+★ Stars: 1299
 
 [Open repository](https://github.com/Nutlope/restorePhotos)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1299 | 133 | 
+| 2023-01-24 | 1290 | 132 | 
 | 2023-01-23 | 1189 | 127 | 
 | 2023-01-22 | 1084 | 116 | 
 | 2023-01-21 | 998 | 103 | 

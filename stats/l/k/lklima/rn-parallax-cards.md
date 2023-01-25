@@ -1,6 +1,6 @@
 # lklima/rn-parallax-cards - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 346 | 19 | 
 | 2023-01-23 | 346 | 19 | 
 | 2023-01-22 | 346 | 19 | 
 | 2023-01-21 | 346 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 345 | 19 | 
 | 2022-12-27 | 345 | 19 | 
 | 2022-12-26 | 345 | 19 | 
-| 2022-12-25 | 345 | 19 | 
 

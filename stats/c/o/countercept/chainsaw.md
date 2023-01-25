@@ -1,10 +1,10 @@
 # countercept/chainsaw - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 164
 
-★ Stars: 1824
+★ Stars: 1825
 
 [Open repository](https://github.com/countercept/chainsaw)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1825 | 164 | 
 | 2023-01-23 | 1824 | 164 | 
 | 2023-01-22 | 1818 | 164 | 
 | 2023-01-21 | 1813 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1782 | 163 | 
 | 2022-12-27 | 1781 | 163 | 
 | 2022-12-26 | 1780 | 163 | 
-| 2022-12-25 | 1779 | 163 | 
 

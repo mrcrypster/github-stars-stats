@@ -1,6 +1,6 @@
 # motion-twin/WebGamesArchives - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 47 | 14 | 
 | 2023-01-23 | 47 | 14 | 
 | 2023-01-22 | 47 | 14 | 
 | 2023-01-21 | 47 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 42 | 11 | 
 | 2022-12-27 | 42 | 11 | 
 | 2022-12-26 | 42 | 11 | 
-| 2022-12-25 | 42 | 11 | 
 

@@ -1,10 +1,10 @@
 # Oak-Harbor-Kits/Starter-KitV3 - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 64
 
-★ Stars: 260
+★ Stars: 259
 
 [Open repository](https://github.com/Oak-Harbor-Kits/Starter-KitV3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 259 | 64 | 
 | 2023-01-23 | 260 | 64 | 
 | 2023-01-22 | 260 | 64 | 
 | 2023-01-21 | 259 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 251 | 60 | 
 | 2022-12-27 | 251 | 60 | 
 | 2022-12-26 | 252 | 60 | 
-| 2022-12-25 | 252 | 60 | 
 

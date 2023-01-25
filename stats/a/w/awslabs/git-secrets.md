@@ -1,10 +1,10 @@
 # awslabs/git-secrets - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1093
+☋ Forks: 1094
 
-★ Stars: 10756
+★ Stars: 10761
 
 [Open repository](https://github.com/awslabs/git-secrets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 10761 | 1094 | 
 | 2023-01-23 | 10756 | 1093 | 
 | 2023-01-22 | 10756 | 1093 | 
 | 2023-01-21 | 10754 | 1091 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 10713 | 1083 | 
 | 2022-12-27 | 10708 | 1083 | 
 | 2022-12-26 | 10708 | 1083 | 
-| 2022-12-25 | 10706 | 1083 | 
 

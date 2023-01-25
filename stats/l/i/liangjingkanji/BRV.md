@@ -1,10 +1,10 @@
 # liangjingkanji/BRV - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 230
 
-★ Stars: 1795
+★ Stars: 1794
 
 [Open repository](https://github.com/liangjingkanji/BRV)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1794 | 230 | 
 | 2023-01-23 | 1795 | 230 | 
 | 2023-01-22 | 1794 | 230 | 
 | 2023-01-21 | 1794 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1766 | 225 | 
 | 2022-12-27 | 1765 | 226 | 
 | 2022-12-26 | 1763 | 226 | 
-| 2022-12-25 | 1760 | 226 | 
 

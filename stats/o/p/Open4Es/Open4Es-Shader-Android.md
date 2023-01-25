@@ -1,10 +1,10 @@
 # Open4Es/Open4Es-Shader-Android - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 94
 
-★ Stars: 171
+★ Stars: 173
 
 [Open repository](https://github.com/Open4Es/Open4Es-Shader-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 173 | 94 | 
 | 2023-01-23 | 171 | 94 | 
 | 2023-01-22 | 171 | 94 | 
 | 2023-01-21 | 171 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 169 | 93 | 
 | 2022-12-27 | 169 | 93 | 
 | 2022-12-26 | 169 | 93 | 
-| 2022-12-25 | 169 | 93 | 
 

@@ -1,6 +1,6 @@
 # metosin/malli - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1157 | 158 | 
 | 2023-01-23 | 1157 | 158 | 
 | 2023-01-22 | 1155 | 158 | 
 | 2023-01-21 | 1155 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1137 | 156 | 
 | 2022-12-27 | 1135 | 156 | 
 | 2022-12-26 | 1135 | 156 | 
-| 2022-12-25 | 1133 | 156 | 
 

@@ -1,8 +1,8 @@
 # lighthouse-labs/HTML-sea-shanty - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 277
+☋ Forks: 280
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1 | 280 | 
 | 2023-01-23 | 1 | 277 | 
 | 2023-01-22 | 1 | 264 | 
 | 2023-01-21 | 1 | 243 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | - | 212 | 
 | 2022-12-27 | - | 212 | 
 | 2022-12-26 | - | 211 | 
-| 2022-12-25 | - | 211 | 
 

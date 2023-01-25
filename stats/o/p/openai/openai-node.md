@@ -1,10 +1,10 @@
 # openai/openai-node - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 69
 
-★ Stars: 647
+★ Stars: 651
 
 [Open repository](https://github.com/openai/openai-node)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 651 | 69 | 
 | 2023-01-23 | 647 | 69 | 
 | 2023-01-22 | 637 | 68 | 
 | 2023-01-21 | 618 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 430 | 37 | 
 | 2022-12-27 | 417 | 36 | 
 | 2022-12-26 | 406 | 35 | 
-| 2022-12-25 | 396 | 34 | 
 

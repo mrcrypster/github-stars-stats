@@ -1,6 +1,6 @@
 # Richard9394/MingCute - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 188 | 6 | 
 | 2023-01-23 | 188 | 6 | 
 | 2023-01-22 | 185 | 6 | 
 | 2023-01-21 | 181 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 113 | 2 | 
 | 2022-12-27 | 112 | 2 | 
 | 2022-12-26 | 112 | 2 | 
-| 2022-12-25 | 111 | 2 | 
 

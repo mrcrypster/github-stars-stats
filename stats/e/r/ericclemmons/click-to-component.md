@@ -1,6 +1,6 @@
 # ericclemmons/click-to-component - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1451 | 45 | 
 | 2023-01-23 | 1451 | 45 | 
 | 2023-01-22 | 1451 | 45 | 
 | 2023-01-21 | 1450 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 1421 | 44 | 
 | 2022-12-28 | 1417 | 44 | 
 | 2022-12-27 | 1417 | 44 | 
-| 2022-12-25 | 1415 | 44 | 
 

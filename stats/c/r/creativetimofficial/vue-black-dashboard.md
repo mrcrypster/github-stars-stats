@@ -1,8 +1,8 @@
 # creativetimofficial/vue-black-dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 368
+☋ Forks: 369
 
 ★ Stars: 486
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 486 | 369 | 
 | 2023-01-23 | 486 | 368 | 
 | 2023-01-22 | 486 | 369 | 
 | 2023-01-21 | 486 | 368 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 484 | 348 | 
 | 2022-12-27 | 484 | 348 | 
 | 2022-12-26 | 484 | 346 | 
-| 2022-12-25 | 484 | 345 | 
 

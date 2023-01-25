@@ -1,10 +1,10 @@
 # engenheiracoelho/curriculo - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 35
 
-★ Stars: 877
+★ Stars: 880
 
 [Open repository](https://github.com/engenheiracoelho/curriculo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 880 | 35 | 
 | 2023-01-23 | 877 | 35 | 
 | 2023-01-22 | 875 | 35 | 
 | 2023-01-21 | 875 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 872 | 33 | 
 | 2022-12-27 | 871 | 33 | 
 | 2022-12-26 | 871 | 33 | 
-| 2022-12-25 | 871 | 33 | 
 

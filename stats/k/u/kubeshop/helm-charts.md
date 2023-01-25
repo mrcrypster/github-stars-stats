@@ -1,10 +1,10 @@
 # kubeshop/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 18
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/kubeshop/helm-charts)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 19 | 18 | 
+| 2023-01-24 | 19 | 18 | 
 | 2023-01-23 | 18 | 18 | 
 | 2023-01-22 | 18 | 18 | 
 | 2023-01-21 | 18 | 18 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 17 | 16 | 
 | 2022-12-27 | 17 | 16 | 
 | 2022-12-26 | 17 | 16 | 
-| 2022-12-25 | 17 | 16 | 
 

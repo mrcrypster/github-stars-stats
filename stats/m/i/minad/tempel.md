@@ -1,10 +1,10 @@
 # minad/tempel - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 17
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/minad/tempel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 293 | 17 | 
 | 2023-01-23 | 292 | 17 | 
 | 2023-01-22 | 290 | 17 | 
 | 2023-01-21 | 289 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 268 | 16 | 
 | 2022-12-27 | 268 | 16 | 
 | 2022-12-26 | 268 | 16 | 
-| 2022-12-25 | 267 | 16 | 
 

@@ -1,10 +1,10 @@
 # requarks/wiki - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 2207
+☋ Forks: 2210
 
-★ Stars: 19583
+★ Stars: 19593
 
 [Open repository](https://github.com/requarks/wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 19593 | 2210 | 
 | 2023-01-23 | 19583 | 2207 | 
 | 2023-01-22 | 19575 | 2205 | 
 | 2023-01-21 | 19575 | 2205 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 19415 | 2187 | 
 | 2022-12-27 | 19405 | 2187 | 
 | 2022-12-26 | 19394 | 2187 | 
-| 2022-12-25 | 19393 | 2186 | 
 

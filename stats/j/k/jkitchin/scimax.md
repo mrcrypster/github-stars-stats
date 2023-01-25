@@ -1,6 +1,6 @@
 # jkitchin/scimax - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 863 | 116 | 
 | 2023-01-23 | 863 | 116 | 
 | 2023-01-22 | 861 | 116 | 
 | 2023-01-21 | 860 | 116 | 

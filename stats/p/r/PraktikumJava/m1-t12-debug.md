@@ -1,8 +1,8 @@
 # PraktikumJava/m1-t12-debug - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 739
+☋ Forks: 738
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2 | 738 | 
 | 2023-01-23 | 2 | 739 | 
 | 2023-01-22 | 2 | 737 | 
 | 2023-01-21 | 2 | 737 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2 | 686 | 
 | 2022-12-27 | 2 | 682 | 
 | 2022-12-26 | 2 | 677 | 
-| 2022-12-25 | 2 | 673 | 
 

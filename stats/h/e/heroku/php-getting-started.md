@@ -1,8 +1,8 @@
 # heroku/php-getting-started - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
-☋ Forks: 794
+☋ Forks: 795
 
 ★ Stars: 203
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 203 | 795 | 
+| 2023-01-24 | 203 | 795 | 
 | 2023-01-23 | 203 | 794 | 
 | 2023-01-22 | 203 | 794 | 
 | 2023-01-21 | 203 | 794 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 203 | 796 | 
 | 2022-12-27 | 203 | 796 | 
 | 2022-12-26 | 203 | 797 | 
-| 2022-12-25 | 203 | 797 | 
 

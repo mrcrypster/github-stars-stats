@@ -1,10 +1,10 @@
 # zats/LiteratureClock - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 13
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/zats/LiteratureClock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 57 | 13 | 
 | 2023-01-23 | 56 | 13 | 
 | 2023-01-22 | 56 | 13 | 
 | 2023-01-21 | 56 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 55 | 13 | 
 | 2022-12-27 | 55 | 13 | 
 | 2022-12-26 | 55 | 13 | 
-| 2022-12-25 | 55 | 13 | 
 

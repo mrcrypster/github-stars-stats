@@ -1,6 +1,6 @@
 # jetmore/swaks - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 553 | 74 | 
 | 2023-01-23 | 553 | 74 | 
 | 2023-01-22 | 553 | 74 | 
 | 2023-01-21 | 553 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 546 | 74 | 
 | 2022-12-27 | 545 | 74 | 
 | 2022-12-26 | 545 | 74 | 
-| 2022-12-25 | 545 | 74 | 
 

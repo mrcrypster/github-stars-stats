@@ -1,6 +1,6 @@
 # huntandhackett/Antignis - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 33 | 1 | 
 | 2023-01-23 | 33 | 1 | 
 | 2023-01-21 | 33 | 1 | 
 | 2023-01-20 | 33 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 33 | 1 | 
 | 2022-12-28 | 33 | 1 | 
 | 2022-12-27 | 33 | 1 | 
-| 2022-12-26 | 33 | 1 | 
 

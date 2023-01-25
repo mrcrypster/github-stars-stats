@@ -1,6 +1,6 @@
 # mhart/alpine-node - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2460 | 312 | 
 | 2023-01-23 | 2460 | 312 | 
 | 2023-01-22 | 2460 | 312 | 
 | 2023-01-21 | 2460 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2460 | 312 | 
 | 2022-12-27 | 2460 | 312 | 
 | 2022-12-26 | 2458 | 312 | 
-| 2022-12-25 | 2458 | 312 | 
 

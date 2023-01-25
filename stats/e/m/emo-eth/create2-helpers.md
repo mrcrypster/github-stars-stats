@@ -1,6 +1,6 @@
 # emo-eth/create2-helpers - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 36 | 2 | 
 | 2023-01-23 | 36 | 2 | 
 | 2023-01-22 | 36 | 2 | 
 | 2023-01-21 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 34 | 2 | 
 | 2022-12-27 | 33 | 2 | 
 | 2022-12-26 | 31 | 2 | 
-| 2022-12-25 | 30 | 2 | 
 

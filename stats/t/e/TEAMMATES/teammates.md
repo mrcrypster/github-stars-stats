@@ -1,10 +1,10 @@
 # TEAMMATES/teammates - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
-☋ Forks: 2677
+☋ Forks: 2678
 
-★ Stars: 1350
+★ Stars: 1351
 
 [Open repository](https://github.com/TEAMMATES/teammates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1351 | 2678 | 
 | 2023-01-23 | 1350 | 2677 | 
 | 2023-01-22 | 1350 | 2676 | 
 | 2023-01-21 | 1349 | 2677 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 1330 | 2664 | 
 | 2022-12-28 | 1330 | 2664 | 
 | 2022-12-26 | 1330 | 2663 | 
-| 2022-12-25 | 1330 | 2664 | 
 

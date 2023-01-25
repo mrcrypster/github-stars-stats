@@ -1,10 +1,10 @@
 # volcano-sh/volcano - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 652
+☋ Forks: 653
 
-★ Stars: 2786
+★ Stars: 2787
 
 [Open repository](https://github.com/volcano-sh/volcano)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2787 | 653 | 
 | 2023-01-23 | 2786 | 652 | 
 | 2023-01-22 | 2784 | 652 | 
 | 2023-01-21 | 2784 | 652 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2761 | 642 | 
 | 2022-12-27 | 2761 | 642 | 
 | 2022-12-26 | 2761 | 641 | 
-| 2022-12-25 | 2760 | 641 | 
 

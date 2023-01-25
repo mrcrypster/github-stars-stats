@@ -1,10 +1,10 @@
 # 3nock/sub3suite - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 47
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/3nock/sub3suite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 323 | 47 | 
 | 2023-01-23 | 322 | 47 | 
 | 2023-01-22 | 322 | 47 | 
 | 2023-01-21 | 322 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 314 | 47 | 
 | 2022-12-27 | 314 | 47 | 
 | 2022-12-26 | 313 | 47 | 
-| 2022-12-25 | 313 | 47 | 
 

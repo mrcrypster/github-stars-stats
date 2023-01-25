@@ -1,10 +1,10 @@
 # cloudfoundry/haproxy-boshrelease - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 82
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/cloudfoundry/haproxy-boshrelease)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 36 | 82 | 
 | 2023-01-23 | 35 | 82 | 
 | 2023-01-22 | 35 | 82 | 
 | 2023-01-21 | 35 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 35 | 85 | 
 | 2022-12-27 | 35 | 85 | 
 | 2022-12-26 | 35 | 85 | 
-| 2022-12-25 | 35 | 85 | 
 

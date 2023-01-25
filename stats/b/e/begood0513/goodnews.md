@@ -1,10 +1,10 @@
 # begood0513/goodnews - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/begood0513/goodnews)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 13 | 8 | 
 | 2023-01-23 | 12 | 8 | 
 | 2023-01-22 | 12 | 8 | 
 | 2023-01-21 | 12 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 12 | 8 | 
 | 2022-12-27 | 12 | 8 | 
 | 2022-12-26 | 12 | 8 | 
-| 2022-12-25 | 12 | 8 | 
 

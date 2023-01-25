@@ -1,6 +1,6 @@
 # ful1e5/Bibata_Cursor - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1011 | 45 | 
 | 2023-01-23 | 1011 | 45 | 
 | 2023-01-22 | 1010 | 45 | 
 | 2023-01-21 | 1008 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 969 | 45 | 
 | 2022-12-27 | 968 | 45 | 
 | 2022-12-26 | 964 | 45 | 
-| 2022-12-25 | 961 | 45 | 
 

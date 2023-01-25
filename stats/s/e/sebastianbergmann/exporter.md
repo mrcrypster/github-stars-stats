@@ -1,6 +1,6 @@
 # sebastianbergmann/exporter - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 6526 | 30 | 
 | 2023-01-23 | 6526 | 30 | 
 | 2023-01-22 | 6526 | 30 | 
 | 2023-01-21 | 6525 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 6505 | 30 | 
 | 2022-12-28 | 6504 | 30 | 
 | 2022-12-27 | 6503 | 30 | 
-| 2022-12-26 | 6502 | 30 | 
 

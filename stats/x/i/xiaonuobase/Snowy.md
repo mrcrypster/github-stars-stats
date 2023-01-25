@@ -1,10 +1,10 @@
 # xiaonuobase/Snowy - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 35
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/xiaonuobase/Snowy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 144 | 35 | 
 | 2023-01-23 | 143 | 35 | 
 | 2023-01-22 | 143 | 35 | 
 | 2023-01-21 | 143 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 136 | 35 | 
 | 2022-12-27 | 136 | 35 | 
 | 2022-12-26 | 136 | 35 | 
-| 2022-12-25 | 136 | 35 | 
 

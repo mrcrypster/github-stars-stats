@@ -1,6 +1,6 @@
 # UserLeap/userleap-ios-sdk-releases - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 10 | 3 | 
 | 2023-01-23 | 10 | 3 | 
 | 2023-01-22 | 10 | 3 | 
 | 2023-01-21 | 10 | 3 | 

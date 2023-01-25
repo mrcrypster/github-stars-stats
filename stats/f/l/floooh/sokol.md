@@ -1,10 +1,10 @@
 # floooh/sokol - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 345
+☋ Forks: 346
 
-★ Stars: 4182
+★ Stars: 4181
 
 [Open repository](https://github.com/floooh/sokol)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4181 | 346 | 
 | 2023-01-23 | 4182 | 345 | 
 | 2023-01-22 | 4180 | 345 | 
 | 2023-01-21 | 4177 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4105 | 339 | 
 | 2022-12-27 | 4103 | 338 | 
 | 2022-12-26 | 4101 | 338 | 
-| 2022-12-25 | 4099 | 338 | 
 

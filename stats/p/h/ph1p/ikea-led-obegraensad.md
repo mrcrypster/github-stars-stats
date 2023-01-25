@@ -1,6 +1,6 @@
 # ph1p/ikea-led-obegraensad - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 157 | 13 | 
 | 2023-01-23 | 157 | 13 | 
 | 2023-01-22 | 156 | 13 | 
 | 2023-01-21 | 154 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 133 | 6 | 
 | 2022-12-27 | 132 | 6 | 
 | 2022-12-26 | 132 | 6 | 
-| 2022-12-25 | 132 | 6 | 
 

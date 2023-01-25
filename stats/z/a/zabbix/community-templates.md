@@ -1,10 +1,10 @@
 # zabbix/community-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 1221
+☋ Forks: 1226
 
-★ Stars: 669
+★ Stars: 670
 
 [Open repository](https://github.com/zabbix/community-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 670 | 1226 | 
 | 2023-01-23 | 669 | 1221 | 
 | 2023-01-22 | 668 | 1219 | 
 | 2023-01-21 | 668 | 1217 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 640 | 1148 | 
 | 2022-12-27 | 639 | 1141 | 
 | 2022-12-26 | 637 | 1134 | 
-| 2022-12-25 | 635 | 1126 | 
 

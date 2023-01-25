@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleClas - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1001
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 4635 | 1001 | 
 | 2023-01-23 | 4635 | 1001 | 
 | 2023-01-22 | 4635 | 1001 | 
 | 2023-01-21 | 4635 | 1001 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4604 | 986 | 
 | 2022-12-27 | 4601 | 986 | 
 | 2022-12-26 | 4601 | 986 | 
-| 2022-12-25 | 4599 | 986 | 
 

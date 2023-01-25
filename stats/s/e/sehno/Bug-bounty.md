@@ -1,6 +1,6 @@
 # sehno/Bug-bounty - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 416
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1154 | 416 | 
 | 2023-01-23 | 1154 | 416 | 
 | 2023-01-22 | 1154 | 415 | 
 | 2023-01-21 | 1153 | 415 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1133 | 405 | 
 | 2022-12-27 | 1133 | 404 | 
 | 2022-12-26 | 1130 | 404 | 
-| 2022-12-25 | 1130 | 404 | 
 

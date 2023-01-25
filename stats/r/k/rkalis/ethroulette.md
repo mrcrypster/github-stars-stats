@@ -1,10 +1,10 @@
 # rkalis/ethroulette - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 23
 
-★ Stars: 40
+★ Stars: 39
 
 [Open repository](https://github.com/rkalis/ethroulette)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 39 | 23 | 
 | 2023-01-23 | 40 | 23 | 
 | 2023-01-22 | 40 | 23 | 
 | 2023-01-21 | 40 | 23 | 

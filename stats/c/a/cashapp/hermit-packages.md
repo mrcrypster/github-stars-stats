@@ -1,6 +1,6 @@
 # cashapp/hermit-packages - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 82 | 56 | 
 | 2023-01-23 | 82 | 56 | 
 | 2023-01-22 | 82 | 56 | 
 | 2023-01-20 | 82 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 77 | 54 | 
 | 2022-12-28 | 76 | 54 | 
 | 2022-12-27 | 75 | 54 | 
-| 2022-12-26 | 75 | 54 | 
 

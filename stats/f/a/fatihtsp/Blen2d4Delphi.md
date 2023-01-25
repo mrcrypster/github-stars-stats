@@ -1,10 +1,10 @@
 # fatihtsp/Blen2d4Delphi - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/fatihtsp/Blen2d4Delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 13 | 1 | 
 | 2023-01-23 | 12 | 1 | 
 | 2023-01-22 | 12 | 1 | 
 | 2023-01-21 | 12 | 1 | 

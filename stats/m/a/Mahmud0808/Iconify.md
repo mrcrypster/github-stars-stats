@@ -1,6 +1,6 @@
 # Mahmud0808/Iconify - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 270 | 7 | 
 | 2023-01-23 | 270 | 7 | 
 | 2023-01-22 | 266 | 6 | 
 | 2023-01-21 | 265 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 212 | 1 | 
 | 2022-12-28 | 211 | 1 | 
 | 2022-12-27 | 210 | - | 
-| 2022-12-26 | 210 | - | 
 

@@ -1,6 +1,6 @@
 # transmission-remote-gui/transgui - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2825 | 265 | 
 | 2023-01-23 | 2825 | 265 | 
 | 2023-01-22 | 2824 | 265 | 
 | 2023-01-21 | 2822 | 265 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2792 | 265 | 
 | 2022-12-27 | 2789 | 265 | 
 | 2022-12-26 | 2788 | 265 | 
-| 2022-12-25 | 2785 | 265 | 
 

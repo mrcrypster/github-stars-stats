@@ -1,6 +1,6 @@
 # bas080/portal - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | - | - | 
 | 2023-01-23 | - | - | 
 | 2023-01-22 | - | - | 
 | 2023-01-21 | - | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | - | - | 
 | 2022-12-27 | - | - | 
 | 2022-12-26 | - | - | 
-| 2022-12-25 | - | - | 
 

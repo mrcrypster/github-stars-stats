@@ -1,6 +1,6 @@
 # AmaJC/tuffle-frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | - | 9 | 
 | 2023-01-23 | - | 9 | 
 | 2023-01-22 | - | 8 | 
 | 2023-01-21 | - | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | - | 8 | 
 | 2022-12-27 | - | 8 | 
 | 2022-12-26 | - | 8 | 
-| 2022-12-25 | - | 8 | 
 

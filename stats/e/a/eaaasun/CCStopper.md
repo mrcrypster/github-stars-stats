@@ -1,10 +1,10 @@
 # eaaasun/CCStopper - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 22
 
-★ Stars: 478
+★ Stars: 480
 
 [Open repository](https://github.com/eaaasun/CCStopper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 480 | 22 | 
 | 2023-01-23 | 478 | 22 | 
 | 2023-01-22 | 476 | 22 | 
 | 2023-01-21 | 473 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 454 | 21 | 
 | 2022-12-27 | 454 | 20 | 
 | 2022-12-26 | 452 | 20 | 
-| 2022-12-25 | 452 | 20 | 
 

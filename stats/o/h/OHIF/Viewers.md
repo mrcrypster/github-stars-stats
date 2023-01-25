@@ -1,8 +1,8 @@
 # OHIF/Viewers - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 2187
+☋ Forks: 2190
 
 ★ Stars: 2212
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2212 | 2190 | 
 | 2023-01-23 | 2212 | 2187 | 
 | 2023-01-22 | 2211 | 2186 | 
 | 2023-01-21 | 2211 | 2185 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2177 | 2135 | 
 | 2022-12-27 | 2175 | 2132 | 
 | 2022-12-26 | 2174 | 2129 | 
-| 2022-12-25 | 2172 | 2126 | 
 

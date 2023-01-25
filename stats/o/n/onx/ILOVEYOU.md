@@ -1,10 +1,10 @@
 # onx/ILOVEYOU - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 76
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/onx/ILOVEYOU)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 171 | 76 | 
 | 2023-01-23 | 170 | 76 | 
 | 2023-01-22 | 170 | 76 | 
 | 2023-01-21 | 170 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 166 | 77 | 
 | 2022-12-27 | 166 | 77 | 
 | 2022-12-26 | 166 | 77 | 
-| 2022-12-25 | 165 | 77 | 
 

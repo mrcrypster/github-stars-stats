@@ -1,10 +1,10 @@
 # mrphlip/aoc - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/mrphlip/aoc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 15 | 1 | 
 | 2023-01-23 | 16 | 1 | 
 | 2023-01-22 | 16 | 1 | 
 | 2023-01-21 | 16 | 1 | 

@@ -1,8 +1,8 @@
 # rocketseat-education/nlw-copa-ignite - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 93 | 70 | 
 | 2023-01-23 | 93 | 69 | 
 | 2023-01-22 | 93 | 69 | 
 | 2023-01-21 | 91 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 84 | 60 | 
 | 2022-12-27 | 84 | 60 | 
 | 2022-12-26 | 84 | 60 | 
-| 2022-12-25 | 84 | 60 | 
 

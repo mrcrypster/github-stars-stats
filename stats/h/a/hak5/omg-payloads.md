@@ -1,6 +1,6 @@
 # hak5/omg-payloads - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 348 | 149 | 
 | 2023-01-24 | 348 | 149 | 
 | 2023-01-23 | 347 | 149 | 
 | 2023-01-21 | 347 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-28 | 338 | 147 | 
 | 2022-12-27 | 336 | 147 | 
 | 2022-12-26 | 335 | 147 | 
-| 2022-12-25 | 335 | 146 | 
 

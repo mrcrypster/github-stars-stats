@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 24
 
 ☋ Forks: 1146
 
-★ Stars: 6382
+★ Stars: 6384
 
 [Open repository](https://github.com/oauth2-proxy/oauth2-proxy)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 6382 | 1146 | 
+| 2023-01-24 | 6384 | 1146 | 
 | 2023-01-23 | 6380 | 1146 | 
 | 2023-01-22 | 6370 | 1145 | 
 | 2023-01-21 | 6360 | 1143 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 6252 | 1128 | 
 | 2022-12-28 | 6248 | 1127 | 
 | 2022-12-26 | 6244 | 1127 | 
-| 2022-12-25 | 6240 | 1126 | 
 

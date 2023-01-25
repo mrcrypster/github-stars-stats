@@ -1,10 +1,10 @@
 # forthespada/CampusShame - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 124
 
-★ Stars: 1948
+★ Stars: 1949
 
 [Open repository](https://github.com/forthespada/CampusShame)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1949 | 124 | 
 | 2023-01-23 | 1948 | 124 | 
 | 2023-01-22 | 1948 | 124 | 
 | 2023-01-21 | 1948 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1867 | 118 | 
 | 2022-12-27 | 1844 | 117 | 
 | 2022-12-26 | 1840 | 117 | 
-| 2022-12-25 | 1831 | 118 | 
 

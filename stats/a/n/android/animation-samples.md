@@ -1,10 +1,10 @@
 # android/animation-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 867
 
-★ Stars: 2333
+★ Stars: 2334
 
 [Open repository](https://github.com/android/animation-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2334 | 867 | 
 | 2023-01-23 | 2333 | 867 | 
 | 2023-01-22 | 2333 | 867 | 
 | 2023-01-21 | 2333 | 868 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 2324 | 861 | 
 | 2022-12-28 | 2323 | 860 | 
 | 2022-12-27 | 2323 | 860 | 
-| 2022-12-26 | 2322 | 860 | 
 

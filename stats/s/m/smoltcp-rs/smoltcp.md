@@ -1,8 +1,8 @@
 # smoltcp-rs/smoltcp - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 306
+☋ Forks: 307
 
 ★ Stars: 2848
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 2848 | 307 | 
 | 2023-01-23 | 2848 | 306 | 
 | 2023-01-22 | 2848 | 306 | 
 | 2023-01-21 | 2845 | 306 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 2808 | 302 | 
 | 2022-12-27 | 2807 | 302 | 
 | 2022-12-26 | 2807 | 301 | 
-| 2022-12-25 | 2807 | 301 | 
 

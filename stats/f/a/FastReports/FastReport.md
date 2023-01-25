@@ -1,10 +1,10 @@
 # FastReports/FastReport - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 496
 
-★ Stars: 2122
+★ Stars: 2123
 
 [Open repository](https://github.com/FastReports/FastReport)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2123 | 496 | 
 | 2023-01-24 | 2122 | 496 | 
 | 2023-01-22 | 2122 | 496 | 
 | 2023-01-21 | 2121 | 496 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-28 | 2094 | 493 | 
 | 2022-12-27 | 2094 | 492 | 
 | 2022-12-26 | 2094 | 492 | 
-| 2022-12-25 | 2094 | 492 | 
 

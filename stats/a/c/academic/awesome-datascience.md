@@ -1,10 +1,10 @@
 # academic/awesome-datascience - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 5316
 
-★ Stars: 20413
+★ Stars: 20417
 
 [Open repository](https://github.com/academic/awesome-datascience)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 20417 | 5316 | 
 | 2023-01-23 | 20413 | 5316 | 
 | 2023-01-22 | 20407 | 5316 | 
 | 2023-01-21 | 20406 | 5316 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 20250 | 5298 | 
 | 2022-12-27 | 20241 | 5297 | 
 | 2022-12-26 | 20236 | 5295 | 
-| 2022-12-25 | 20229 | 5295 | 
 

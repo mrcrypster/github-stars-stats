@@ -1,6 +1,6 @@
 # stripe/bonsai - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 143 | 14 | 
 | 2023-01-23 | 143 | 14 | 
 | 2023-01-22 | 143 | 14 | 
 | 2023-01-21 | 143 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 142 | 14 | 
 | 2022-12-27 | 142 | 14 | 
 | 2022-12-26 | 142 | 14 | 
-| 2022-12-25 | 142 | 14 | 
 

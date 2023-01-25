@@ -1,10 +1,10 @@
 # tweag/smtlib-backends - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/tweag/smtlib-backends)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 9 | - | 
 | 2023-01-23 | 8 | - | 
 | 2023-01-22 | 8 | - | 
 | 2023-01-21 | 7 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 4 | - | 
 | 2022-12-27 | 4 | - | 
 | 2022-12-26 | 4 | - | 
-| 2022-12-25 | 4 | - | 
 

@@ -1,10 +1,10 @@
 # JohnEarnest/Decker - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 21
 
-★ Stars: 391
+★ Stars: 393
 
 [Open repository](https://github.com/JohnEarnest/Decker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 393 | 21 | 
 | 2023-01-24 | 391 | 21 | 
 | 2023-01-23 | 390 | 21 | 
 | 2023-01-21 | 389 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 380 | 20 | 
 | 2022-12-28 | 380 | 20 | 
 | 2022-12-27 | 380 | 20 | 
-| 2022-12-26 | 378 | 20 | 
 

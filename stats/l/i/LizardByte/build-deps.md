@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 24
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/LizardByte/build-deps)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-24 | 3 | 4 | 
+| 2023-01-24 | 4 | 5 | 
 | 2023-01-23 | 3 | 4 | 
 | 2023-01-22 | 3 | 4 | 
 | 2023-01-21 | 3 | 4 | 

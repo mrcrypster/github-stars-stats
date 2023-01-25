@@ -1,8 +1,8 @@
 # Mmira2/https-github.com-calistus-igwilo-nitda-blockchain-scholarship - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 102
+☋ Forks: 103
 
 ★ Stars: 129
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 129 | 103 | 
 | 2023-01-23 | 129 | 102 | 
 | 2023-01-22 | 129 | 102 | 
 | 2023-01-21 | 129 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 109 | 91 | 
 | 2022-12-27 | 108 | 89 | 
 | 2022-12-26 | 106 | 88 | 
-| 2022-12-25 | 102 | 86 | 
 

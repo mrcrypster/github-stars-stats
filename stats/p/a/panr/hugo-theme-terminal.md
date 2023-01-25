@@ -1,8 +1,8 @@
 # panr/hugo-theme-terminal - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 592
+☋ Forks: 591
 
 ★ Stars: 1626
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1626 | 591 | 
 | 2023-01-23 | 1626 | 592 | 
 | 2023-01-22 | 1624 | 592 | 
 | 2023-01-21 | 1624 | 592 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 1581 | 579 | 
 | 2022-12-27 | 1581 | 578 | 
 | 2022-12-26 | 1581 | 578 | 
-| 2022-12-25 | 1578 | 577 | 
 

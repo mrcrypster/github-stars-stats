@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-sb-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1977
 
-★ Stars: 3036
+★ Stars: 3038
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-sb-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 3038 | 1977 | 
 | 2023-01-23 | 3036 | 1977 | 
 | 2023-01-22 | 3036 | 1977 | 
 | 2023-01-21 | 3036 | 1977 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 3029 | 1970 | 
 | 2022-12-27 | 3028 | 1970 | 
 | 2022-12-26 | 3028 | 1969 | 
-| 2022-12-25 | 3027 | 1969 | 
 

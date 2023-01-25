@@ -1,6 +1,6 @@
 # nf-core/eager - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 85 | 63 | 
 | 2023-01-23 | 85 | 63 | 
 | 2023-01-22 | 85 | 63 | 
 | 2023-01-21 | 85 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 82 | 63 | 
 | 2022-12-27 | 82 | 63 | 
 | 2022-12-26 | 82 | 63 | 
-| 2022-12-25 | 82 | 63 | 
 

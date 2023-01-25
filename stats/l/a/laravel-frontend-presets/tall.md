@@ -1,6 +1,6 @@
 # laravel-frontend-presets/tall - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1800 | 161 | 
 | 2023-01-23 | 1800 | 161 | 
 | 2023-01-22 | 1799 | 161 | 
 | 2023-01-21 | 1797 | 160 | 

@@ -1,10 +1,10 @@
 # phoenixframework/phoenix - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 2579
+☋ Forks: 2581
 
-★ Stars: 19014
+★ Stars: 19020
 
 [Open repository](https://github.com/phoenixframework/phoenix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 19020 | 2581 | 
 | 2023-01-23 | 19014 | 2579 | 
 | 2023-01-22 | 19011 | 2579 | 
 | 2023-01-21 | 19009 | 2579 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 18908 | 2568 | 
 | 2022-12-27 | 18905 | 2566 | 
 | 2022-12-26 | 18904 | 2566 | 
-| 2022-12-25 | 18904 | 2564 | 
 

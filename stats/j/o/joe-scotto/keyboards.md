@@ -1,10 +1,10 @@
 # joe-scotto/keyboards - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 251
+★ Stars: 254
 
 [Open repository](https://github.com/joe-scotto/keyboards)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 254 | 13 | 
 | 2023-01-23 | 251 | 12 | 
 | 2023-01-22 | 248 | 12 | 
 | 2023-01-21 | 248 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 218 | 11 | 
 | 2022-12-27 | 216 | 11 | 
 | 2022-12-26 | 210 | 11 | 
-| 2022-12-25 | 208 | 11 | 
 

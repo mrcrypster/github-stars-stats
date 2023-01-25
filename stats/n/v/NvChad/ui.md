@@ -1,6 +1,6 @@
 # NvChad/ui - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 22 | 39 | 
 | 2023-01-23 | 22 | 39 | 
 | 2023-01-22 | 22 | 39 | 
 | 2023-01-21 | 22 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 20 | 26 | 
 | 2022-12-28 | 20 | 24 | 
 | 2022-12-26 | 20 | 23 | 
-| 2022-12-25 | 20 | 22 | 
 

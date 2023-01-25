@@ -1,10 +1,10 @@
 # WeMakeDevs/events - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 179
+★ Stars: 181
 
 [Open repository](https://github.com/WeMakeDevs/events)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 181 | 31 | 
 | 2023-01-23 | 179 | 30 | 
 | 2023-01-22 | 171 | 29 | 
 | 2023-01-21 | 147 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 116 | 13 | 
 | 2022-12-27 | 116 | 13 | 
 | 2022-12-26 | 115 | 13 | 
-| 2022-12-25 | 114 | 12 | 
 

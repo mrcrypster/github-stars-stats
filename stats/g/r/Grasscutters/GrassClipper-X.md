@@ -1,6 +1,6 @@
 # Grasscutters/GrassClipper-X - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 206 | 68 | 
 | 2023-01-23 | 206 | 68 | 
 | 2023-01-22 | 206 | 68 | 
 | 2023-01-20 | 206 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 204 | 68 | 
 | 2022-12-28 | 203 | 68 | 
 | 2022-12-27 | 203 | 68 | 
-| 2022-12-26 | 203 | 68 | 
 

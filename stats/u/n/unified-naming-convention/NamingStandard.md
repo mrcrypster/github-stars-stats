@@ -1,6 +1,6 @@
 # unified-naming-convention/NamingStandard - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 31 | 23 | 
 | 2023-01-23 | 31 | 23 | 
 | 2023-01-22 | 31 | 23 | 
 | 2023-01-21 | 31 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 32 | 22 | 
 | 2022-12-27 | 32 | 22 | 
 | 2022-12-26 | 32 | 22 | 
-| 2022-12-25 | 32 | 22 | 
 

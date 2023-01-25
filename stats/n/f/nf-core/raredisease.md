@@ -1,10 +1,10 @@
 # nf-core/raredisease - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 15
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/nf-core/raredisease)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 30 | 15 | 
 | 2023-01-23 | 29 | 15 | 
 | 2023-01-22 | 29 | 15 | 
 | 2023-01-21 | 29 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 29 | 14 | 
 | 2022-12-27 | 29 | 14 | 
 | 2022-12-26 | 29 | 14 | 
-| 2022-12-25 | 29 | 14 | 
 

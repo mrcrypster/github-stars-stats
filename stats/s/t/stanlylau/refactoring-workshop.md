@@ -1,6 +1,6 @@
 # stanlylau/refactoring-workshop - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 1 | 46 | 
 | 2023-01-23 | 1 | 46 | 
 | 2023-01-22 | 1 | 46 | 
 | 2023-01-21 | 1 | 46 | 

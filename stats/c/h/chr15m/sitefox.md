@@ -1,10 +1,10 @@
 # chr15m/sitefox - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 6
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/chr15m/sitefox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 198 | 6 | 
 | 2023-01-23 | 197 | 6 | 
 | 2023-01-22 | 197 | 6 | 
 | 2023-01-20 | 197 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 193 | 5 | 
 | 2022-12-28 | 193 | 5 | 
 | 2022-12-27 | 193 | 5 | 
-| 2022-12-26 | 193 | 5 | 
 

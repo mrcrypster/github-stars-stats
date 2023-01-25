@@ -1,6 +1,6 @@
 # oct0xor/mgs2sos - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 188 | 11 | 
 | 2023-01-23 | 188 | 11 | 
 | 2023-01-22 | 188 | 12 | 
 | 2023-01-21 | 188 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 179 | 11 | 
 | 2022-12-27 | 178 | 11 | 
 | 2022-12-26 | 177 | 11 | 
-| 2022-12-25 | 177 | 11 | 
 

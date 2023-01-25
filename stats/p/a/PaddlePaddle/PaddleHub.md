@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleHub - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 1940
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 10940 | 1940 | 
 | 2023-01-23 | 10940 | 1940 | 
 | 2023-01-22 | 10937 | 1940 | 
 | 2023-01-21 | 10933 | 1939 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 10832 | 1930 | 
 | 2022-12-27 | 10828 | 1930 | 
 | 2022-12-26 | 10826 | 1930 | 
-| 2022-12-25 | 10821 | 1929 | 
 

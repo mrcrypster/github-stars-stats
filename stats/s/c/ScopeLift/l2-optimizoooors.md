@@ -1,6 +1,6 @@
 # ScopeLift/l2-optimizoooors - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 78 | 2 | 
 | 2023-01-24 | 78 | 2 | 
 | 2023-01-23 | 78 | 2 | 
 | 2023-01-21 | 78 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 76 | 2 | 
 | 2022-12-28 | 76 | 2 | 
 | 2022-12-27 | 76 | 2 | 
-| 2022-12-25 | 76 | 2 | 
 

@@ -1,10 +1,10 @@
 # balena-os/balena-jetson - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 21
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/balena-os/balena-jetson)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 38 | 21 | 
 | 2023-01-23 | 37 | 21 | 
 | 2023-01-22 | 37 | 21 | 
 | 2023-01-21 | 37 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 36 | 22 | 
 | 2022-12-27 | 36 | 22 | 
 | 2022-12-26 | 36 | 22 | 
-| 2022-12-25 | 36 | 22 | 
 

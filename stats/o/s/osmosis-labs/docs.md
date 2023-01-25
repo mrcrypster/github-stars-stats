@@ -1,10 +1,10 @@
 # osmosis-labs/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 71
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/osmosis-labs/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 20 | 71 | 
 | 2023-01-24 | 19 | 71 | 
 | 2023-01-23 | 19 | 69 | 
 | 2023-01-21 | 19 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 18 | 66 | 
 | 2022-12-28 | 18 | 66 | 
 | 2022-12-27 | 18 | 66 | 
-| 2022-12-26 | 18 | 66 | 
 

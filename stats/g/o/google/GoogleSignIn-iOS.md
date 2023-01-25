@@ -1,10 +1,10 @@
 # google/GoogleSignIn-iOS - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 118
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/google/GoogleSignIn-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 263 | 118 | 
 | 2023-01-23 | 262 | 118 | 
 | 2023-01-22 | 262 | 118 | 
 | 2023-01-21 | 262 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 249 | 114 | 
 | 2022-12-27 | 249 | 112 | 
 | 2022-12-26 | 249 | 112 | 
-| 2022-12-25 | 248 | 112 | 
 

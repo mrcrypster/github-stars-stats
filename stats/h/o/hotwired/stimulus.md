@@ -1,10 +1,10 @@
 # hotwired/stimulus - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 364
 
-★ Stars: 11782
+★ Stars: 11787
 
 [Open repository](https://github.com/hotwired/stimulus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 11787 | 364 | 
 | 2023-01-23 | 11782 | 364 | 
 | 2023-01-22 | 11781 | 364 | 
 | 2023-01-21 | 11780 | 364 | 

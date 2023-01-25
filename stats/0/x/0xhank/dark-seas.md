@@ -1,10 +1,10 @@
 # 0xhank/dark-seas - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/0xhank/dark-seas)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 18 | 2 | 
 | 2023-01-23 | 17 | 2 | 
 | 2023-01-22 | 17 | 2 | 
 | 2023-01-21 | 17 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 12 | 1 | 
 | 2022-12-27 | 12 | 1 | 
 | 2022-12-26 | 12 | 1 | 
-| 2022-12-25 | 12 | 1 | 
 

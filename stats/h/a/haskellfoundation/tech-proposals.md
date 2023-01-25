@@ -1,6 +1,6 @@
 # haskellfoundation/tech-proposals - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 56 | 23 | 
 | 2023-01-23 | 56 | 23 | 
 | 2023-01-22 | 56 | 23 | 
 | 2023-01-21 | 56 | 23 | 

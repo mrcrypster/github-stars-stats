@@ -1,6 +1,6 @@
 # vincent-hugot/qtest - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 67 | 8 | 
 | 2023-01-23 | 67 | 8 | 
 | 2023-01-22 | 67 | 8 | 
 | 2023-01-21 | 67 | 8 | 

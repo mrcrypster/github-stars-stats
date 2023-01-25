@@ -1,6 +1,6 @@
 # cognitedata/cdp-spark-datasource - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 18 | 2 | 
 | 2023-01-23 | 18 | 2 | 
 | 2023-01-21 | 18 | 2 | 
 | 2023-01-20 | 18 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 18 | 2 | 
 | 2022-12-28 | 18 | 2 | 
 | 2022-12-27 | 18 | 2 | 
-| 2022-12-26 | 18 | 2 | 
 

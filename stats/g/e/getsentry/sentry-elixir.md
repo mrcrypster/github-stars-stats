@@ -1,10 +1,10 @@
 # getsentry/sentry-elixir - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
-☋ Forks: 158
+☋ Forks: 159
 
-★ Stars: 540
+★ Stars: 541
 
 [Open repository](https://github.com/getsentry/sentry-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 541 | 159 | 
 | 2023-01-23 | 540 | 158 | 
 | 2023-01-22 | 540 | 158 | 
 | 2023-01-21 | 540 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 540 | 158 | 
 | 2022-12-27 | 540 | 158 | 
 | 2022-12-26 | 540 | 158 | 
-| 2022-12-25 | 540 | 158 | 
 

@@ -1,6 +1,6 @@
 # Bimmr/Monster-Hunter-Rise-Reframework-Scripts- - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 16 | 9 | 
 | 2023-01-23 | 16 | 9 | 
 | 2023-01-22 | 16 | 9 | 
 | 2023-01-21 | 16 | 9 | 

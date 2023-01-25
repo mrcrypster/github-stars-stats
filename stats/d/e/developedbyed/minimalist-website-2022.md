@@ -1,6 +1,6 @@
 # developedbyed/minimalist-website-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 46 | 32 | 
 | 2023-01-23 | 46 | 32 | 
 | 2023-01-22 | 46 | 32 | 
 | 2023-01-21 | 46 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 43 | 29 | 
 | 2022-12-27 | 42 | 29 | 
 | 2022-12-26 | 42 | 29 | 
-| 2022-12-25 | 41 | 29 | 
 

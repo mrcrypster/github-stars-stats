@@ -1,6 +1,6 @@
 # Nebulaworks/nix-garage - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 11 | 8 | 
 | 2023-01-23 | 11 | 8 | 
 | 2023-01-22 | 11 | 8 | 
 | 2023-01-21 | 11 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-29 | 11 | 8 | 
 | 2022-12-27 | 11 | 8 | 
 | 2022-12-26 | 11 | 8 | 
-| 2022-12-25 | 11 | 8 | 
 

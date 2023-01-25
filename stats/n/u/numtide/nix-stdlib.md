@@ -1,10 +1,10 @@
 # numtide/nix-stdlib - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 23
 
 [Open repository](https://github.com/numtide/nix-stdlib)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 23 | - | 
 | 2023-01-23 | 20 | - | 
 | 2023-01-22 | 20 | - | 
 

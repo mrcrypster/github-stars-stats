@@ -1,6 +1,6 @@
 # omniedgeio/omniedge - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 591 | 21 | 
 | 2023-01-23 | 591 | 21 | 
 | 2023-01-22 | 591 | 21 | 
 | 2023-01-21 | 591 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 586 | 21 | 
 | 2022-12-27 | 586 | 21 | 
 | 2022-12-26 | 586 | 21 | 
-| 2022-12-25 | 586 | 21 | 
 

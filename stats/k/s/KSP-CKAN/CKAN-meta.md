@@ -1,6 +1,6 @@
 # KSP-CKAN/CKAN-meta - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 60 | 186 | 
 | 2023-01-23 | 60 | 186 | 
 | 2023-01-22 | 60 | 186 | 
 | 2023-01-21 | 60 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 60 | 186 | 
 | 2022-12-27 | 60 | 186 | 
 | 2022-12-26 | 60 | 186 | 
-| 2022-12-25 | 60 | 186 | 
 

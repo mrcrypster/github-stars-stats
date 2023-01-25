@@ -1,6 +1,6 @@
 # mecid/swift-unidirectional-flow - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 106 | 5 | 
 | 2023-01-23 | 106 | 5 | 
 | 2023-01-22 | 106 | 5 | 
 | 2023-01-21 | 106 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 104 | 5 | 
 | 2022-12-27 | 104 | 5 | 
 | 2022-12-26 | 104 | 5 | 
-| 2022-12-25 | 102 | 5 | 
 

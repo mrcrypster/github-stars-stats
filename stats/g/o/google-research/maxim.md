@@ -1,10 +1,10 @@
 # google-research/maxim - stars & forks statistics
 
-Stats updated on Jan 2023, 23
+Stats updated on Jan 2023, 24
 
 ☋ Forks: 59
 
-★ Stars: 604
+★ Stars: 607
 
 [Open repository](https://github.com/google-research/maxim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-24 | 607 | 59 | 
 | 2023-01-23 | 604 | 59 | 
 | 2023-01-22 | 603 | 59 | 
 | 2023-01-21 | 601 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 23
 | 2022-12-28 | 565 | 55 | 
 | 2022-12-27 | 564 | 55 | 
 | 2022-12-26 | 564 | 55 | 
-| 2022-12-25 | 564 | 55 | 
 
