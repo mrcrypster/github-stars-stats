@@ -1,6 +1,6 @@
 # ziglang/zig.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 268 | 40 | 
 | 2023-01-24 | 268 | 40 | 
 | 2023-01-23 | 267 | 40 | 
 | 2023-01-22 | 267 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 258 | 39 | 
 | 2022-12-28 | 258 | 39 | 
 | 2022-12-27 | 257 | 39 | 
-| 2022-12-26 | 256 | 39 | 
 

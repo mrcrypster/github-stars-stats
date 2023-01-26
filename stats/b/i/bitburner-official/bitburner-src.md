@@ -1,10 +1,10 @@
 # bitburner-official/bitburner-src - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 37
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/bitburner-official/bitburner-src)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 74 | 37 | 
 | 2023-01-24 | 73 | 37 | 
 | 2023-01-23 | 73 | 36 | 
 | 2023-01-22 | 73 | 36 | 

@@ -1,10 +1,10 @@
 # babashka/http-client - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/babashka/http-client)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 39 | 1 | 
 | 2023-01-24 | 37 | 1 | 
 | 2023-01-23 | 37 | 1 | 
 | 2023-01-22 | 37 | 1 | 

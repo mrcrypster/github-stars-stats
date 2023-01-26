@@ -1,10 +1,10 @@
 # sylhare/Type-on-Strap - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 823
 
-★ Stars: 705
+★ Stars: 706
 
 [Open repository](https://github.com/sylhare/Type-on-Strap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 706 | 823 | 
 | 2023-01-24 | 705 | 823 | 
 | 2023-01-23 | 705 | 822 | 
 | 2023-01-22 | 705 | 822 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 694 | 819 | 
 | 2022-12-28 | 694 | 819 | 
 | 2022-12-27 | 693 | 816 | 
-| 2022-12-26 | 693 | 816 | 
 

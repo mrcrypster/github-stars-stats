@@ -1,10 +1,10 @@
 # nf-core/dualrnaseq - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 14
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/nf-core/dualrnaseq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 9 | 14 | 
 | 2023-01-24 | 8 | 14 | 
 | 2023-01-23 | 8 | 14 | 
 | 2023-01-22 | 8 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 8 | 13 | 
 | 2022-12-28 | 8 | 13 | 
 | 2022-12-27 | 8 | 13 | 
-| 2022-12-26 | 8 | 13 | 
 

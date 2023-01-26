@@ -1,6 +1,6 @@
 # unlock-protocol/unlock - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 734 | 186 | 
 | 2023-01-24 | 734 | 186 | 
 | 2023-01-23 | 733 | 186 | 
 | 2023-01-22 | 732 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 725 | 181 | 
 | 2022-12-28 | 724 | 181 | 
 | 2022-12-27 | 723 | 180 | 
-| 2022-12-26 | 723 | 180 | 
 

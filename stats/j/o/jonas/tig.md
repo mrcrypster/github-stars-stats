@@ -1,6 +1,6 @@
 # jonas/tig - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 595
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 11459 | 595 | 
 | 2023-01-24 | 11459 | 595 | 
 | 2023-01-23 | 11457 | 595 | 
 | 2023-01-22 | 11453 | 595 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 11412 | 591 | 
 | 2022-12-28 | 11408 | 591 | 
 | 2022-12-27 | 11408 | 591 | 
-| 2022-12-26 | 11408 | 591 | 
 

@@ -1,10 +1,10 @@
 # lz520520/railgun - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 195
 
-★ Stars: 1293
+★ Stars: 1294
 
 [Open repository](https://github.com/lz520520/railgun)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1294 | 195 | 
 | 2023-01-24 | 1293 | 195 | 
 | 2023-01-23 | 1293 | 195 | 
 | 2023-01-22 | 1293 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1264 | 194 | 
 | 2022-12-28 | 1262 | 194 | 
 | 2022-12-27 | 1261 | 194 | 
-| 2022-12-26 | 1259 | 194 | 
 

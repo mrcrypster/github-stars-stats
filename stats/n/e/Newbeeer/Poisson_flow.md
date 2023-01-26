@@ -1,10 +1,10 @@
 # Newbeeer/Poisson_flow - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 51
 
-★ Stars: 649
+★ Stars: 650
 
 [Open repository](https://github.com/Newbeeer/Poisson_flow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 650 | 51 | 
 | 2023-01-24 | 649 | 51 | 
 | 2023-01-23 | 648 | 51 | 
 | 2023-01-22 | 649 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 622 | 46 | 
 | 2022-12-29 | 622 | 46 | 
 | 2022-12-28 | 621 | 46 | 
-| 2022-12-27 | 620 | 46 | 
 

@@ -1,6 +1,6 @@
 # mdbootstrap/mdb-ui-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3514
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 22991 | 3514 | 
 | 2023-01-24 | 22991 | 3514 | 
 | 2023-01-23 | 22985 | 3515 | 
 | 2023-01-22 | 22981 | 3515 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 22919 | 3510 | 
 | 2022-12-28 | 22918 | 3510 | 
 | 2022-12-27 | 22913 | 3509 | 
-| 2022-12-26 | 22910 | 3509 | 
 

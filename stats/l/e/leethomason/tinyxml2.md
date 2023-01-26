@@ -1,10 +1,10 @@
 # leethomason/tinyxml2 - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1709
+☋ Forks: 1710
 
-★ Stars: 4328
+★ Stars: 4329
 
 [Open repository](https://github.com/leethomason/tinyxml2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4329 | 1710 | 
 | 2023-01-24 | 4328 | 1709 | 
 | 2023-01-23 | 4328 | 1709 | 
 | 2023-01-22 | 4328 | 1709 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 4310 | 1702 | 
 | 2022-12-28 | 4309 | 1702 | 
 | 2022-12-27 | 4307 | 1701 | 
-| 2022-12-26 | 4307 | 1702 | 
 

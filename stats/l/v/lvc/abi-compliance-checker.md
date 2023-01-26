@@ -1,6 +1,6 @@
 # lvc/abi-compliance-checker - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 527 | 74 | 
 | 2023-01-24 | 527 | 74 | 
 | 2023-01-23 | 527 | 74 | 
 | 2023-01-22 | 527 | 74 | 

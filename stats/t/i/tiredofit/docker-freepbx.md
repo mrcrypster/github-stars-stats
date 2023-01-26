@@ -1,10 +1,10 @@
 # tiredofit/docker-freepbx - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 226
 
-★ Stars: 479
+★ Stars: 480
 
 [Open repository](https://github.com/tiredofit/docker-freepbx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 480 | 226 | 
 | 2023-01-24 | 479 | 226 | 
 | 2023-01-23 | 479 | 226 | 
 | 2023-01-22 | 479 | 226 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 477 | 221 | 
 | 2022-12-28 | 476 | 221 | 
 | 2022-12-27 | 476 | 221 | 
-| 2022-12-26 | 476 | 221 | 
 

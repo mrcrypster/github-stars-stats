@@ -1,10 +1,10 @@
 # JulianHayward/Azure-MG-Sub-Governance-Reporting - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 218
 
-★ Stars: 612
+★ Stars: 613
 
 [Open repository](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 613 | 218 | 
 | 2023-01-24 | 612 | 218 | 
 | 2023-01-23 | 611 | 218 | 
 | 2023-01-22 | 610 | 217 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 601 | 216 | 
 | 2022-12-28 | 601 | 216 | 
 | 2022-12-27 | 601 | 216 | 
-| 2022-12-26 | 601 | 216 | 
 

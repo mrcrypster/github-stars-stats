@@ -1,6 +1,6 @@
 # jasononeil/hxrandom - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 40 | 12 | 
 | 2023-01-24 | 40 | 12 | 
 | 2023-01-23 | 40 | 12 | 
 | 2023-01-21 | 40 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 40 | 12 | 
 | 2022-12-29 | 40 | 12 | 
 | 2022-12-28 | 40 | 12 | 
-| 2022-12-27 | 40 | 12 | 
 

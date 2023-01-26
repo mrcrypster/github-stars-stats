@@ -1,10 +1,10 @@
 # spring-petclinic/spring-framework-petclinic - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1838
+☋ Forks: 1839
 
-★ Stars: 359
+★ Stars: 360
 
 [Open repository](https://github.com/spring-petclinic/spring-framework-petclinic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 360 | 1839 | 
 | 2023-01-24 | 359 | 1838 | 
 | 2023-01-23 | 359 | 1837 | 
 | 2023-01-22 | 359 | 1837 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 354 | 1830 | 
 | 2022-12-28 | 354 | 1829 | 
 | 2022-12-27 | 354 | 1828 | 
-| 2022-12-26 | 354 | 1827 | 
 

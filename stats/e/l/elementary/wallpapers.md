@@ -1,6 +1,6 @@
 # elementary/wallpapers - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 442 | 67 | 
 | 2023-01-24 | 442 | 67 | 
 | 2023-01-23 | 443 | 67 | 
 | 2023-01-22 | 443 | 67 | 

@@ -1,6 +1,6 @@
 # Shopify/statsd-instrument - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 525 | 99 | 
 | 2023-01-24 | 525 | 99 | 
 | 2023-01-23 | 525 | 99 | 
 | 2023-01-22 | 525 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 523 | 97 | 
 | 2022-12-28 | 523 | 97 | 
 | 2022-12-27 | 523 | 97 | 
-| 2022-12-26 | 523 | 97 | 
 

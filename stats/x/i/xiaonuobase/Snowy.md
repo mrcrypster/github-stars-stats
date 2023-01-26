@@ -1,6 +1,6 @@
 # xiaonuobase/Snowy - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 144 | 35 | 
 | 2023-01-24 | 144 | 35 | 
 | 2023-01-23 | 143 | 35 | 
 | 2023-01-22 | 143 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 136 | 35 | 
 | 2022-12-28 | 136 | 35 | 
 | 2022-12-27 | 136 | 35 | 
-| 2022-12-26 | 136 | 35 | 
 

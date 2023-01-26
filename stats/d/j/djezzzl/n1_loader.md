@@ -1,10 +1,10 @@
 # djezzzl/n1_loader - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 176
+★ Stars: 178
 
 [Open repository](https://github.com/djezzzl/n1_loader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 178 | 3 | 
 | 2023-01-24 | 176 | 3 | 
 | 2023-01-23 | 176 | 3 | 
 | 2023-01-22 | 176 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 171 | 3 | 
 | 2022-12-28 | 171 | 3 | 
 | 2022-12-27 | 172 | 2 | 
-| 2022-12-26 | 172 | 2 | 
 

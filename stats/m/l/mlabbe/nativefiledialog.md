@@ -1,10 +1,10 @@
 # mlabbe/nativefiledialog - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 183
 
-★ Stars: 1503
+★ Stars: 1504
 
 [Open repository](https://github.com/mlabbe/nativefiledialog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1504 | 183 | 
 | 2023-01-24 | 1503 | 183 | 
 | 2023-01-23 | 1503 | 182 | 
 | 2023-01-22 | 1501 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1487 | 183 | 
 | 2022-12-28 | 1487 | 182 | 
 | 2022-12-27 | 1486 | 181 | 
-| 2022-12-26 | 1483 | 181 | 
 

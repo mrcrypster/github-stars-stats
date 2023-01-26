@@ -1,6 +1,6 @@
 # chrisbobbe/jekyll-theme-prologue - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 921
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 399 | 921 | 
 | 2023-01-24 | 399 | 921 | 
 | 2023-01-23 | 399 | 921 | 
 | 2023-01-22 | 399 | 920 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 396 | 922 | 
 | 2022-12-29 | 393 | 922 | 
 | 2022-12-28 | 394 | 922 | 
-| 2022-12-27 | 394 | 921 | 
 

@@ -1,10 +1,10 @@
 # CondensedMilk7/countryfetch - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 8
+☋ Forks: 3
 
-★ Stars: 120
+★ Stars: 11
 
 [Open repository](https://github.com/CondensedMilk7/countryfetch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 11 | 3 | 
 | 2023-01-24 | 120 | 8 | 
 | 2023-01-23 | 119 | 8 | 
 | 2023-01-22 | 119 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 119 | 8 | 
 | 2022-12-28 | 119 | 8 | 
 | 2022-12-27 | 119 | 8 | 
-| 2022-12-26 | 119 | 8 | 
 

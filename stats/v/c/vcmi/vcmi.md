@@ -1,10 +1,10 @@
 # vcmi/vcmi - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 343
 
-★ Stars: 2999
+★ Stars: 3005
 
 [Open repository](https://github.com/vcmi/vcmi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3005 | 343 | 
 | 2023-01-24 | 2999 | 343 | 
 | 2023-01-23 | 2990 | 343 | 
 | 2023-01-22 | 2988 | 344 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2955 | 341 | 
 | 2022-12-28 | 2951 | 341 | 
 | 2022-12-27 | 2950 | 341 | 
-| 2022-12-26 | 2945 | 339 | 
 

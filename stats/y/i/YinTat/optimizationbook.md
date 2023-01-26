@@ -1,10 +1,10 @@
 # YinTat/optimizationbook - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 76
+★ Stars: 79
 
 [Open repository](https://github.com/YinTat/optimizationbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 79 | 4 | 
 | 2023-01-24 | 76 | 3 | 
 | 2023-01-23 | 74 | 3 | 
 | 2023-01-22 | 74 | 2 | 

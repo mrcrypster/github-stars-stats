@@ -1,6 +1,6 @@
 # extreme-bert/extreme-bert - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 266 | 14 | 
 | 2023-01-24 | 266 | 14 | 
 | 2023-01-23 | 266 | 14 | 
 | 2023-01-22 | 266 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 259 | 13 | 
 | 2022-12-28 | 259 | 13 | 
 | 2022-12-27 | 258 | 13 | 
-| 2022-12-26 | 258 | 13 | 
 

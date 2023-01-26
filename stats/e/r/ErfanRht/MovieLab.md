@@ -1,6 +1,6 @@
 # ErfanRht/MovieLab - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 181 | 39 | 
 | 2023-01-24 | 181 | 39 | 
 | 2023-01-23 | 180 | 39 | 
 | 2023-01-22 | 178 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 149 | 30 | 
 | 2022-12-28 | 147 | 30 | 
 | 2022-12-27 | 145 | 30 | 
-| 2022-12-26 | 143 | 29 | 
 

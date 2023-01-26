@@ -1,10 +1,10 @@
 # adityaathalye/shite - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 146
+★ Stars: 151
 
 [Open repository](https://github.com/adityaathalye/shite)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 151 | 1 | 
+| 2023-01-25 | 151 | 1 | 
 | 2023-01-24 | 146 | 1 | 
 | 2023-01-23 | 89 | - | 
 | 2023-01-22 | 82 | - | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 82 | - | 
 | 2022-12-28 | 82 | - | 
 | 2022-12-27 | 82 | - | 
-| 2022-12-26 | 82 | - | 
 

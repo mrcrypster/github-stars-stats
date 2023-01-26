@@ -1,10 +1,10 @@
 # gioui/gio - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 120
 
-★ Stars: 1120
+★ Stars: 1121
 
 [Open repository](https://github.com/gioui/gio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1121 | 120 | 
 | 2023-01-24 | 1120 | 120 | 
 | 2023-01-23 | 1119 | 120 | 
 | 2023-01-22 | 1117 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1104 | 119 | 
 | 2022-12-28 | 1104 | 119 | 
 | 2022-12-27 | 1103 | 119 | 
-| 2022-12-26 | 1102 | 119 | 
 

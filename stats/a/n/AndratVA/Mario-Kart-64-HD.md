@@ -1,8 +1,8 @@
 # AndratVA/Mario-Kart-64-HD - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 74
+☋ Forks: 75
 
 ★ Stars: 427
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 427 | 75 | 
 | 2023-01-24 | 427 | 74 | 
 | 2023-01-23 | 427 | 74 | 
 | 2023-01-22 | 427 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 405 | 69 | 
 | 2022-12-28 | 403 | 68 | 
 | 2022-12-27 | 403 | 68 | 
-| 2022-12-26 | 403 | 68 | 
 

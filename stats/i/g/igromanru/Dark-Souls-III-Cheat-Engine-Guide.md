@@ -1,6 +1,6 @@
 # igromanru/Dark-Souls-III-Cheat-Engine-Guide - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 281 | 109 | 
 | 2023-01-24 | 281 | 109 | 
 | 2023-01-23 | 280 | 109 | 
 | 2023-01-22 | 280 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 278 | 108 | 
 | 2022-12-28 | 278 | 108 | 
 | 2022-12-27 | 278 | 107 | 
-| 2022-12-26 | 278 | 107 | 
 

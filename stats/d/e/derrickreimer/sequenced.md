@@ -1,6 +1,6 @@
 # derrickreimer/sequenced - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 376 | 57 | 
 | 2023-01-24 | 376 | 57 | 
 | 2023-01-23 | 376 | 57 | 
 | 2023-01-22 | 376 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 376 | 55 | 
 | 2022-12-28 | 376 | 55 | 
 | 2022-12-27 | 376 | 55 | 
-| 2022-12-26 | 376 | 55 | 
 

@@ -1,8 +1,8 @@
 # defund-labs/testnet - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1054
+☋ Forks: 1053
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 31 | 1053 | 
 | 2023-01-24 | 31 | 1054 | 
 | 2023-01-23 | 31 | 1054 | 
 | 2023-01-22 | 30 | 1054 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 30 | 1053 | 
 | 2022-12-28 | 30 | 1053 | 
 | 2022-12-27 | 30 | 1053 | 
-| 2022-12-26 | 30 | 1053 | 
 

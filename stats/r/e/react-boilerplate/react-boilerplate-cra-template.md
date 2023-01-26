@@ -1,10 +1,10 @@
 # react-boilerplate/react-boilerplate-cra-template - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 356
+☋ Forks: 354
 
-★ Stars: 1706
+★ Stars: 1707
 
 [Open repository](https://github.com/react-boilerplate/react-boilerplate-cra-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1707 | 354 | 
 | 2023-01-24 | 1706 | 356 | 
 | 2023-01-23 | 1705 | 357 | 
 | 2023-01-22 | 1703 | 357 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1672 | 352 | 
 | 2022-12-28 | 1670 | 351 | 
 | 2022-12-27 | 1669 | 350 | 
-| 2022-12-26 | 1667 | 350 | 
 

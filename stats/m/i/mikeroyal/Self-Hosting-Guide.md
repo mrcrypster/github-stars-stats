@@ -1,10 +1,10 @@
 # mikeroyal/Self-Hosting-Guide - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 153
+☋ Forks: 154
 
-★ Stars: 3951
+★ Stars: 3959
 
 [Open repository](https://github.com/mikeroyal/Self-Hosting-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3959 | 154 | 
 | 2023-01-24 | 3951 | 153 | 
 | 2023-01-23 | 3947 | 153 | 
 | 2023-01-22 | 3941 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3756 | 142 | 
 | 2022-12-28 | 3750 | 141 | 
 | 2022-12-27 | 3736 | 139 | 
-| 2022-12-26 | 3735 | 139 | 
 

@@ -1,10 +1,10 @@
 # jpillora/chisel - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1031
+☋ Forks: 1032
 
-★ Stars: 8527
+★ Stars: 8533
 
 [Open repository](https://github.com/jpillora/chisel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 8533 | 1032 | 
 | 2023-01-24 | 8527 | 1031 | 
 | 2023-01-23 | 8526 | 1031 | 
 | 2023-01-22 | 8519 | 1030 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 8358 | 1015 | 
 | 2022-12-29 | 8354 | 1015 | 
 | 2022-12-28 | 8352 | 1015 | 
-| 2022-12-27 | 8349 | 1014 | 
 

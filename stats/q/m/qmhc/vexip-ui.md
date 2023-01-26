@@ -1,10 +1,10 @@
 # qmhc/vexip-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 67
 
-★ Stars: 495
+★ Stars: 496
 
 [Open repository](https://github.com/qmhc/vexip-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 496 | 67 | 
 | 2023-01-24 | 495 | 67 | 
 | 2023-01-23 | 494 | 67 | 
 | 2023-01-22 | 493 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 460 | 62 | 
 | 2022-12-28 | 460 | 62 | 
 | 2022-12-27 | 459 | 62 | 
-| 2022-12-26 | 458 | 62 | 
 

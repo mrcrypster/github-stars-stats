@@ -1,8 +1,8 @@
 # riscv-mcu/e203_hbirdv2 - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 217
+☋ Forks: 218
 
 ★ Stars: 665
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 665 | 218 | 
 | 2023-01-24 | 665 | 217 | 
 | 2023-01-23 | 665 | 217 | 
 | 2023-01-22 | 665 | 217 | 

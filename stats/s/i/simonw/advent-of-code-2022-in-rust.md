@@ -1,6 +1,6 @@
 # simonw/advent-of-code-2022-in-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 106 | 3 | 
 | 2023-01-24 | 106 | 3 | 
 | 2023-01-23 | 106 | 3 | 
 | 2023-01-22 | 106 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 102 | 2 | 
 | 2022-12-28 | 102 | 2 | 
 | 2022-12-27 | 102 | 2 | 
-| 2022-12-26 | 102 | 2 | 
 

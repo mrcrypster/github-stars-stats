@@ -1,6 +1,6 @@
 # t4sk/defi-by-example - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 444 | 188 | 
 | 2023-01-24 | 444 | 188 | 
 | 2023-01-23 | 444 | 187 | 
 | 2023-01-22 | 443 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 436 | 183 | 
 | 2022-12-28 | 433 | 182 | 
 | 2022-12-27 | 432 | 182 | 
-| 2022-12-26 | 432 | 182 | 
 

@@ -1,6 +1,6 @@
 # TrafeX/docker-wordpress - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 203 | 115 | 
 | 2023-01-24 | 203 | 115 | 
 | 2023-01-23 | 203 | 115 | 
 | 2023-01-22 | 203 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 201 | 115 | 
 | 2022-12-29 | 201 | 115 | 
 | 2022-12-28 | 201 | 114 | 
-| 2022-12-26 | 201 | 114 | 
 

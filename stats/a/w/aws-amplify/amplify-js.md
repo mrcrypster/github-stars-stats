@@ -1,10 +1,10 @@
 # aws-amplify/amplify-js - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 2015
+☋ Forks: 2016
 
-★ Stars: 9086
+★ Stars: 9088
 
 [Open repository](https://github.com/aws-amplify/amplify-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 9088 | 2016 | 
 | 2023-01-24 | 9086 | 2015 | 
 | 2023-01-23 | 9084 | 2014 | 
 | 2023-01-22 | 9083 | 2013 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 9057 | 2011 | 
 | 2022-12-28 | 9056 | 2010 | 
 | 2022-12-27 | 9055 | 2010 | 
-| 2022-12-26 | 9056 | 2010 | 
 

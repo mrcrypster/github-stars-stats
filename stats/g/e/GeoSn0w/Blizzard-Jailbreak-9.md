@@ -1,6 +1,6 @@
 # GeoSn0w/Blizzard-Jailbreak-9 - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 65 | 9 | 
 | 2023-01-24 | 65 | 9 | 
 | 2023-01-23 | 65 | 9 | 
 | 2023-01-22 | 65 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 63 | 9 | 
 | 2022-12-28 | 62 | 9 | 
 | 2022-12-27 | 62 | 9 | 
-| 2022-12-26 | 62 | 9 | 
 

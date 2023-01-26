@@ -1,6 +1,6 @@
 # HariSekhon/Jenkins - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 23 | 14 | 
 | 2023-01-24 | 23 | 14 | 
 | 2023-01-23 | 23 | 14 | 
 | 2023-01-22 | 23 | 14 | 

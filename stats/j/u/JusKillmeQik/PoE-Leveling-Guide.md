@@ -1,10 +1,10 @@
 # JusKillmeQik/PoE-Leveling-Guide - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 47
 
-★ Stars: 301
+★ Stars: 300
 
 [Open repository](https://github.com/JusKillmeQik/PoE-Leveling-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 300 | 47 | 
 | 2023-01-24 | 301 | 47 | 
 | 2023-01-23 | 301 | 47 | 
 | 2023-01-22 | 300 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 299 | 48 | 
 | 2022-12-28 | 298 | 48 | 
 | 2022-12-27 | 298 | 48 | 
-| 2022-12-26 | 298 | 48 | 
 

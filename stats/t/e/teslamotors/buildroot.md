@@ -1,6 +1,6 @@
 # teslamotors/buildroot - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 668 | 157 | 
 | 2023-01-24 | 668 | 157 | 
 | 2023-01-23 | 668 | 157 | 
 | 2023-01-22 | 668 | 157 | 

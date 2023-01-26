@@ -1,6 +1,6 @@
 # Crypto-Cat/CTF - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 580 | 147 | 
 | 2023-01-24 | 580 | 147 | 
 | 2023-01-23 | 581 | 147 | 
 | 2023-01-21 | 580 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 564 | 144 | 
 | 2022-12-29 | 563 | 143 | 
 | 2022-12-28 | 563 | 143 | 
-| 2022-12-27 | 563 | 144 | 
 

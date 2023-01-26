@@ -1,6 +1,6 @@
 # Haruno19/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 88 | 10 | 
 | 2023-01-25 | 88 | 10 | 
 | 2023-01-23 | 88 | 10 | 
 | 2023-01-22 | 88 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 88 | 10 | 
 | 2022-12-29 | 88 | 10 | 
 | 2022-12-28 | 88 | 10 | 
-| 2022-12-26 | 88 | 10 | 
 

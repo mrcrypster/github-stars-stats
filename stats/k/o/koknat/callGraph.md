@@ -1,10 +1,10 @@
 # koknat/callGraph - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 13
 
-★ Stars: 87
+★ Stars: 89
 
 [Open repository](https://github.com/koknat/callGraph)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 89 | 13 | 
 | 2023-01-24 | 87 | 13 | 
 | 2023-01-23 | 86 | 13 | 
 | 2023-01-22 | 86 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 81 | 11 | 
 | 2022-12-28 | 81 | 11 | 
 | 2022-12-27 | 81 | 11 | 
-| 2022-12-26 | 81 | 11 | 
 

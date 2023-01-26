@@ -1,10 +1,10 @@
 # TheEconomist/the-economist-conquests - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/TheEconomist/the-economist-conquests)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 10 | 1 | 
 | 2023-01-24 | 9 | 1 | 
 | 2023-01-23 | 9 | 1 | 
 | 2023-01-21 | 9 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 9 | 1 | 
 | 2022-12-28 | 9 | 1 | 
 | 2022-12-27 | 9 | 1 | 
-| 2022-12-26 | 9 | 1 | 
 

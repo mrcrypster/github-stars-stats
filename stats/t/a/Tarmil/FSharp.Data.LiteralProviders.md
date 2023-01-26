@@ -1,6 +1,6 @@
 # Tarmil/FSharp.Data.LiteralProviders - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 124 | 6 | 
 | 2023-01-24 | 124 | 6 | 
 | 2023-01-23 | 124 | 6 | 
 | 2023-01-22 | 124 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 123 | 6 | 
 | 2022-12-28 | 123 | 6 | 
 | 2022-12-27 | 123 | 6 | 
-| 2022-12-26 | 123 | 6 | 
 

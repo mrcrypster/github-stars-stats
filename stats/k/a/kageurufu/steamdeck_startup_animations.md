@@ -1,6 +1,6 @@
 # kageurufu/steamdeck_startup_animations - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 200 | 22 | 
 | 2023-01-24 | 200 | 22 | 
 | 2023-01-23 | 200 | 22 | 
 | 2023-01-22 | 200 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 196 | 20 | 
 | 2022-12-29 | 196 | 20 | 
 | 2022-12-28 | 196 | 20 | 
-| 2022-12-26 | 196 | 20 | 
 

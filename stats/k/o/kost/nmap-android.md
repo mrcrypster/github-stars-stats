@@ -1,6 +1,6 @@
 # kost/nmap-android - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 228 | 71 | 
 | 2023-01-24 | 228 | 71 | 
 | 2023-01-23 | 228 | 71 | 
 | 2023-01-22 | 228 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 227 | 71 | 
 | 2022-12-28 | 227 | 71 | 
 | 2022-12-27 | 227 | 71 | 
-| 2022-12-26 | 227 | 71 | 
 

@@ -1,6 +1,6 @@
 # iancanada/DocumentDownload - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 92 | 17 | 
 | 2023-01-24 | 92 | 17 | 
 | 2023-01-23 | 91 | 17 | 
 | 2023-01-22 | 91 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 79 | 16 | 
 | 2022-12-28 | 78 | 16 | 
 | 2022-12-27 | 77 | 16 | 
-| 2022-12-26 | 77 | 15 | 
 

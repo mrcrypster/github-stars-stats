@@ -1,10 +1,10 @@
 # danpashin/VKPlus - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/danpashin/VKPlus)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 13 | 4 | 
+| 2023-01-25 | 13 | 4 | 
 | 2023-01-24 | 12 | 4 | 
 | 2023-01-23 | 12 | 4 | 
 | 2023-01-22 | 12 | 4 | 

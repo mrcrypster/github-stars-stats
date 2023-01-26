@@ -1,8 +1,8 @@
 # aristanetworks/nix-serve-ng - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 79 | 5 | 
 | 2023-01-24 | 79 | 4 | 
 | 2023-01-23 | 79 | 4 | 
 | 2023-01-22 | 79 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 74 | 4 | 
 | 2022-12-29 | 74 | 4 | 
 | 2022-12-28 | 74 | 4 | 
-| 2022-12-27 | 74 | 4 | 
 

@@ -1,10 +1,10 @@
 # openai/baselines - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 4490
+☋ Forks: 4492
 
-★ Stars: 13542
+★ Stars: 13545
 
 [Open repository](https://github.com/openai/baselines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 13545 | 4492 | 
 | 2023-01-24 | 13542 | 4490 | 
 | 2023-01-23 | 13537 | 4486 | 
 | 2023-01-22 | 13536 | 4485 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 13415 | 4455 | 
 | 2022-12-28 | 13410 | 4455 | 
 | 2022-12-27 | 13404 | 4454 | 
-| 2022-12-26 | 13399 | 4451 | 
 

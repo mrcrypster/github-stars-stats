@@ -1,10 +1,10 @@
 # influxdata/k8s-jsonnet-libs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/influxdata/k8s-jsonnet-libs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 6 | 1 | 
 | 2023-01-24 | 5 | 1 | 
 | 2023-01-23 | 5 | 1 | 
 | 2023-01-22 | 5 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 5 | 1 | 
 | 2022-12-28 | 5 | 1 | 
 | 2022-12-27 | 5 | 1 | 
-| 2022-12-26 | 5 | 1 | 
 

@@ -1,6 +1,6 @@
 # dieghernan/tidyterra - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 107 | 3 | 
 | 2023-01-24 | 107 | 3 | 
 | 2023-01-23 | 107 | 3 | 
 | 2023-01-22 | 107 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 106 | 3 | 
 | 2022-12-28 | 106 | 2 | 
 | 2022-12-27 | 106 | 2 | 
-| 2022-12-26 | 106 | 2 | 
 

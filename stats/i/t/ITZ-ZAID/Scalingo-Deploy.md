@@ -1,6 +1,6 @@
 # ITZ-ZAID/Scalingo-Deploy - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 6 | 18 | 
 | 2023-01-25 | 6 | 18 | 
 | 2023-01-23 | 6 | 18 | 
 | 2023-01-22 | 6 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-29 | 2 | 13 | 
 | 2022-12-28 | 2 | 12 | 
 | 2022-12-27 | 2 | 12 | 
-| 2022-12-26 | 2 | 12 | 
 

@@ -1,10 +1,10 @@
 # liuxinyu95/unplugged - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 171
 
-★ Stars: 2514
+★ Stars: 2516
 
 [Open repository](https://github.com/liuxinyu95/unplugged)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2516 | 171 | 
 | 2023-01-24 | 2514 | 171 | 
 | 2023-01-23 | 2512 | 171 | 
 | 2023-01-22 | 2512 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2499 | 170 | 
 | 2022-12-28 | 2498 | 170 | 
 | 2022-12-27 | 2498 | 170 | 
-| 2022-12-26 | 2498 | 170 | 
 

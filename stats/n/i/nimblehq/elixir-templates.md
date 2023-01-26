@@ -1,6 +1,6 @@
 # nimblehq/elixir-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 65 | 6 | 
 | 2023-01-24 | 65 | 6 | 
 | 2023-01-23 | 65 | 6 | 
 | 2023-01-22 | 65 | 6 | 

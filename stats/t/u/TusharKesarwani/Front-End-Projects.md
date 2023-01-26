@@ -1,10 +1,10 @@
 # TusharKesarwani/Front-End-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 124
+☋ Forks: 127
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/TusharKesarwani/Front-End-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 58 | 127 | 
 | 2023-01-24 | 57 | 124 | 
 | 2023-01-23 | 57 | 119 | 
 | 2023-01-22 | 57 | 116 | 

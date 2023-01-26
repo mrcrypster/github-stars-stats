@@ -1,10 +1,10 @@
 # nf-core/genomeassembler - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/nf-core/genomeassembler)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 12 | 5 | 
 | 2023-01-24 | 11 | 5 | 
 | 2023-01-23 | 11 | 5 | 
 | 2023-01-22 | 11 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 10 | 5 | 
 | 2022-12-28 | 10 | 5 | 
 | 2022-12-27 | 10 | 5 | 
-| 2022-12-26 | 10 | 5 | 
 

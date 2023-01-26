@@ -1,6 +1,6 @@
 # KumailP/kumails-blog - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3 | 6 | 
 | 2023-01-24 | 3 | 6 | 
 | 2023-01-23 | 3 | 6 | 
 | 2023-01-22 | 3 | 6 | 

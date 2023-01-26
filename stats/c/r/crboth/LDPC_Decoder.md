@@ -1,6 +1,6 @@
 # crboth/LDPC_Decoder - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 10 | 7 | 
 | 2023-01-24 | 10 | 7 | 
 | 2023-01-23 | 10 | 7 | 
 | 2023-01-22 | 10 | 7 | 

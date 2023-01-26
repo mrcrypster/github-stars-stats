@@ -1,8 +1,8 @@
 # real-web-world/hh-lol-prophet - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 752
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 752 | 89 | 
 | 2023-01-24 | 752 | 88 | 
 | 2023-01-23 | 752 | 88 | 
 | 2023-01-22 | 752 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 752 | 88 | 
 | 2022-12-29 | 751 | 88 | 
 | 2022-12-27 | 751 | 88 | 
-| 2022-12-26 | 752 | 88 | 
 

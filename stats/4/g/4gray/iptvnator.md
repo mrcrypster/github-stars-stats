@@ -1,10 +1,10 @@
 # 4gray/iptvnator - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 150
 
-★ Stars: 765
+★ Stars: 767
 
 [Open repository](https://github.com/4gray/iptvnator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 767 | 150 | 
 | 2023-01-24 | 765 | 150 | 
 | 2023-01-23 | 761 | 150 | 
 | 2023-01-22 | 757 | 150 | 

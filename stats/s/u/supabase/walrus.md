@@ -1,6 +1,6 @@
 # supabase/walrus - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 96 | 5 | 
 | 2023-01-24 | 96 | 5 | 
 | 2023-01-23 | 96 | 5 | 
 | 2023-01-22 | 96 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 94 | 5 | 
 | 2022-12-29 | 94 | 5 | 
 | 2022-12-28 | 93 | 5 | 
-| 2022-12-26 | 92 | 5 | 
 

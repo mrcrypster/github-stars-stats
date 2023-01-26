@@ -1,10 +1,10 @@
 # andrewbaxter/genemichaels - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 2
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/andrewbaxter/genemichaels)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 73 | 2 | 
 | 2023-01-24 | 72 | 2 | 
 | 2023-01-23 | 72 | 2 | 
 | 2023-01-22 | 72 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 70 | 2 | 
 | 2022-12-28 | 69 | 2 | 
 | 2022-12-27 | 69 | 2 | 
-| 2022-12-26 | 69 | 2 | 
 

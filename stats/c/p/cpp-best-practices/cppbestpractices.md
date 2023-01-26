@@ -1,10 +1,10 @@
 # cpp-best-practices/cppbestpractices - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 777
+☋ Forks: 779
 
-★ Stars: 6712
+★ Stars: 6717
 
 [Open repository](https://github.com/cpp-best-practices/cppbestpractices)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 6717 | 779 | 
 | 2023-01-24 | 6712 | 777 | 
 | 2023-01-23 | 6711 | 777 | 
 | 2023-01-22 | 6707 | 776 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 6641 | 764 | 
 | 2022-12-28 | 6638 | 763 | 
 | 2022-12-27 | 6636 | 762 | 
-| 2022-12-26 | 6635 | 760 | 
 

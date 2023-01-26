@@ -1,10 +1,10 @@
 # Roam-Research/roam-depot - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 36
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/Roam-Research/roam-depot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 63 | 36 | 
 | 2023-01-24 | 62 | 36 | 
 | 2023-01-23 | 62 | 36 | 
 | 2023-01-22 | 62 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 57 | 34 | 
 | 2022-12-28 | 57 | 34 | 
 | 2022-12-27 | 57 | 34 | 
-| 2022-12-26 | 57 | 34 | 
 

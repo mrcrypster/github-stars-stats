@@ -1,10 +1,10 @@
 # vpt-tus/ppe - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 25
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/vpt-tus/ppe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 13 | 25 | 
 | 2023-01-24 | 12 | 25 | 
 | 2023-01-23 | 12 | 25 | 
 | 2023-01-22 | 12 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 12 | 25 | 
 | 2022-12-28 | 12 | 25 | 
 | 2022-12-27 | 12 | 25 | 
-| 2022-12-26 | 12 | 25 | 
 

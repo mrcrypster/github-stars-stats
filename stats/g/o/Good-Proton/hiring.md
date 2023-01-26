@@ -1,8 +1,8 @@
 # Good-Proton/hiring - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 23
+☋ Forks: 22
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 5 | 22 | 
 | 2023-01-24 | 5 | 23 | 
 | 2023-01-23 | 5 | 23 | 
 | 2023-01-22 | 5 | 24 | 

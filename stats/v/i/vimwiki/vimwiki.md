@@ -1,6 +1,6 @@
 # vimwiki/vimwiki - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 606
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 7852 | 606 | 
 | 2023-01-24 | 7852 | 606 | 
 | 2023-01-23 | 7847 | 606 | 
 | 2023-01-22 | 7844 | 606 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 7783 | 606 | 
 | 2022-12-28 | 7781 | 606 | 
 | 2022-12-27 | 7778 | 605 | 
-| 2022-12-26 | 7777 | 605 | 
 

@@ -1,10 +1,10 @@
 # BartOtten/phoenix_live_favicon - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/BartOtten/phoenix_live_favicon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 27 | 1 | 
 | 2023-01-24 | 25 | 1 | 
 | 2023-01-23 | 25 | 1 | 
 | 2023-01-22 | 25 | 1 | 

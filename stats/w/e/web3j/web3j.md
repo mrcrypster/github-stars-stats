@@ -1,10 +1,10 @@
 # web3j/web3j - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1498
 
-★ Stars: 4471
+★ Stars: 4472
 
 [Open repository](https://github.com/web3j/web3j)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4472 | 1498 | 
 | 2023-01-24 | 4471 | 1498 | 
 | 2023-01-23 | 4469 | 1496 | 
 | 2023-01-22 | 4467 | 1495 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 4441 | 1481 | 
 | 2022-12-28 | 4440 | 1481 | 
 | 2022-12-27 | 4438 | 1481 | 
-| 2022-12-26 | 4437 | 1481 | 
 

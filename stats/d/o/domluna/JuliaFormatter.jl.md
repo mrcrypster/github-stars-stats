@@ -1,10 +1,10 @@
 # domluna/JuliaFormatter.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 55
 
-★ Stars: 447
+★ Stars: 450
 
 [Open repository](https://github.com/domluna/JuliaFormatter.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 450 | 55 | 
 | 2023-01-24 | 447 | 55 | 
 | 2023-01-23 | 447 | 55 | 
 | 2023-01-22 | 446 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 435 | 53 | 
 | 2022-12-28 | 435 | 53 | 
 | 2022-12-27 | 434 | 53 | 
-| 2022-12-26 | 434 | 53 | 
 

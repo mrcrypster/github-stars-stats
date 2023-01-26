@@ -1,10 +1,10 @@
 # rust-lang/rust-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 162
 
-★ Stars: 932
+★ Stars: 933
 
 [Open repository](https://github.com/rust-lang/rust-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 933 | 162 | 
 | 2023-01-24 | 932 | 162 | 
 | 2023-01-23 | 932 | 162 | 
 | 2023-01-22 | 932 | 162 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 915 | 161 | 
 | 2022-12-28 | 915 | 161 | 
 | 2022-12-27 | 914 | 160 | 
-| 2022-12-26 | 914 | 160 | 
 

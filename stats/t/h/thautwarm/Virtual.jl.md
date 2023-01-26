@@ -1,6 +1,6 @@
 # thautwarm/Virtual.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 37 | 1 | 
 | 2023-01-24 | 37 | 1 | 
 | 2023-01-23 | 37 | 1 | 
 | 2023-01-22 | 37 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 37 | 1 | 
 | 2022-12-29 | 37 | 1 | 
 | 2022-12-27 | 37 | 1 | 
-| 2022-12-26 | 37 | 1 | 
 

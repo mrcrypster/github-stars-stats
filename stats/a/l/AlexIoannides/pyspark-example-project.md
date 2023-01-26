@@ -1,6 +1,6 @@
 # AlexIoannides/pyspark-example-project - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 544
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1106 | 544 | 
 | 2023-01-24 | 1106 | 544 | 
 | 2023-01-23 | 1106 | 544 | 
 | 2023-01-22 | 1104 | 543 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1075 | 536 | 
 | 2022-12-28 | 1074 | 536 | 
 | 2022-12-27 | 1074 | 536 | 
-| 2022-12-26 | 1073 | 536 | 
 

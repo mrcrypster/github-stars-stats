@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 25
 
-☋ Forks: 13
+☋ Forks: 20
 
-★ Stars: 153
+★ Stars: 174
 
 [Open repository](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 153 | 13 | 
+| 2023-01-25 | 174 | 20 | 
 | 2023-01-24 | 153 | 13 | 
 

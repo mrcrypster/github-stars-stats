@@ -1,6 +1,6 @@
 # symkat/MarkdownSite - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 409 | 18 | 
 | 2023-01-25 | 409 | 18 | 
 | 2023-01-23 | 409 | 18 | 
 | 2023-01-22 | 409 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 407 | 18 | 
 | 2022-12-29 | 407 | 18 | 
 | 2022-12-28 | 407 | 18 | 
-| 2022-12-27 | 407 | 18 | 
 

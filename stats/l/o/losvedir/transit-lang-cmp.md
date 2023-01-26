@@ -1,10 +1,10 @@
 # losvedir/transit-lang-cmp - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 32
 
-★ Stars: 406
+★ Stars: 405
 
 [Open repository](https://github.com/losvedir/transit-lang-cmp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 405 | 32 | 
 | 2023-01-24 | 406 | 32 | 
 | 2023-01-23 | 406 | 32 | 
 | 2023-01-22 | 406 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 402 | 34 | 
 | 2022-12-28 | 402 | 34 | 
 | 2022-12-27 | 403 | 34 | 
-| 2022-12-26 | 403 | 34 | 
 

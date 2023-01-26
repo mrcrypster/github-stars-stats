@@ -1,10 +1,10 @@
 # curated-intel/Ukraine-Cyber-Operations - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 93
 
-★ Stars: 855
+★ Stars: 856
 
 [Open repository](https://github.com/curated-intel/Ukraine-Cyber-Operations)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 856 | 93 | 
 | 2023-01-24 | 855 | 93 | 
 | 2023-01-23 | 855 | 93 | 
 | 2023-01-22 | 855 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 854 | 93 | 
 | 2022-12-28 | 854 | 93 | 
 | 2022-12-27 | 854 | 93 | 
-| 2022-12-26 | 855 | 94 | 
 

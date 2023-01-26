@@ -1,6 +1,6 @@
 # binbyu/Reader - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 413
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1920 | 413 | 
 | 2023-01-24 | 1920 | 413 | 
 | 2023-01-23 | 1920 | 413 | 
 | 2023-01-22 | 1920 | 413 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1889 | 406 | 
 | 2022-12-28 | 1888 | 406 | 
 | 2022-12-27 | 1888 | 406 | 
-| 2022-12-26 | 1885 | 406 | 
 

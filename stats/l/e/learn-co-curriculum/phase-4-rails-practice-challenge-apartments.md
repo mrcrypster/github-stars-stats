@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-practice-challenge-apartments - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 975
+☋ Forks: 978
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | - | 978 | 
 | 2023-01-24 | - | 975 | 
 | 2023-01-23 | - | 972 | 
 | 2023-01-22 | - | 972 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | - | 919 | 
 | 2022-12-28 | - | 916 | 
 | 2022-12-27 | - | 916 | 
-| 2022-12-26 | - | 915 | 
 

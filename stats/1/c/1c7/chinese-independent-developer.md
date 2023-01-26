@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 25
 
-☋ Forks: 1898
+☋ Forks: 1905
 
-★ Stars: 20361
+★ Stars: 20473
 
 [Open repository](https://github.com/1c7/chinese-independent-developer)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 20361 | 1898 | 
+| 2023-01-25 | 20473 | 1905 | 
 | 2023-01-24 | 20350 | 1897 | 
 | 2023-01-23 | 20234 | 1892 | 
 | 2023-01-22 | 20093 | 1881 | 

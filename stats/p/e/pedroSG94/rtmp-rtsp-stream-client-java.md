@@ -1,6 +1,6 @@
 # pedroSG94/rtmp-rtsp-stream-client-java - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 646
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1928 | 646 | 
 | 2023-01-24 | 1928 | 646 | 
 | 2023-01-23 | 1928 | 646 | 
 | 2023-01-22 | 1928 | 645 | 

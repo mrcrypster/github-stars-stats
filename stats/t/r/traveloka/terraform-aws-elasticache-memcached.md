@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-elasticache-memcached - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1 | 12 | 
 | 2023-01-25 | 1 | 12 | 
 | 2023-01-23 | 1 | 12 | 
 | 2023-01-22 | 1 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1 | 11 | 
 | 2022-12-29 | 1 | 11 | 
 | 2022-12-28 | 1 | 11 | 
-| 2022-12-27 | 1 | 11 | 
 

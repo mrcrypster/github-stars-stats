@@ -1,10 +1,10 @@
 # WordPress/performance - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 58
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/WordPress/performance)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 261 | 58 | 
 | 2023-01-24 | 260 | 58 | 
 | 2023-01-23 | 260 | 58 | 
 | 2023-01-22 | 259 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 253 | 57 | 
 | 2022-12-28 | 252 | 56 | 
 | 2022-12-27 | 252 | 56 | 
-| 2022-12-26 | 252 | 56 | 
 

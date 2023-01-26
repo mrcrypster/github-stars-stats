@@ -1,6 +1,6 @@
 # mozilla-platform-ops/ronin_puppet - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 5 | 19 | 
 | 2023-01-24 | 5 | 19 | 
 | 2023-01-23 | 5 | 19 | 
 | 2023-01-22 | 5 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 5 | 19 | 
 | 2022-12-29 | 5 | 19 | 
 | 2022-12-28 | 5 | 19 | 
-| 2022-12-27 | 5 | 19 | 
 

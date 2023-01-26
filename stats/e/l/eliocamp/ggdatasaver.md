@@ -1,6 +1,6 @@
 # eliocamp/ggdatasaver - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 21 | - | 
 | 2023-01-24 | 21 | - | 
 | 2023-01-23 | 21 | - | 
 | 2023-01-22 | 21 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 20 | - | 
 | 2022-12-29 | 20 | - | 
 | 2022-12-28 | 20 | - | 
-| 2022-12-26 | 20 | - | 
 

@@ -1,8 +1,8 @@
 # ubisoft/ubisoft-laforge-ZeroEGGS - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 214
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 214 | 40 | 
 | 2023-01-24 | 214 | 39 | 
 | 2023-01-23 | 212 | 39 | 
 | 2023-01-22 | 212 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 189 | 32 | 
 | 2022-12-28 | 188 | 31 | 
 | 2022-12-27 | 188 | 30 | 
-| 2022-12-26 | 189 | 27 | 
 

@@ -1,6 +1,6 @@
 # Xilinx/meta-xilinx-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 37 | 43 | 
 | 2023-01-24 | 37 | 43 | 
 | 2023-01-23 | 36 | 43 | 
 | 2023-01-22 | 36 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 36 | 43 | 
 | 2022-12-28 | 36 | 43 | 
 | 2022-12-27 | 36 | 43 | 
-| 2022-12-26 | 36 | 43 | 
 

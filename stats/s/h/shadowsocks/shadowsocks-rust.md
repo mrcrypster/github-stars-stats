@@ -1,10 +1,10 @@
 # shadowsocks/shadowsocks-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 824
 
-★ Stars: 5513
+★ Stars: 5514
 
 [Open repository](https://github.com/shadowsocks/shadowsocks-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 5514 | 824 | 
 | 2023-01-24 | 5513 | 824 | 
 | 2023-01-23 | 5509 | 824 | 
 | 2023-01-22 | 5500 | 823 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 5404 | 816 | 
 | 2022-12-28 | 5397 | 816 | 
 | 2022-12-27 | 5391 | 815 | 
-| 2022-12-26 | 5391 | 815 | 
 

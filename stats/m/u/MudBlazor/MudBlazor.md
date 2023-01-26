@@ -1,10 +1,10 @@
 # MudBlazor/MudBlazor - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 811
+☋ Forks: 812
 
-★ Stars: 4654
+★ Stars: 4662
 
 [Open repository](https://github.com/MudBlazor/MudBlazor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4662 | 812 | 
 | 2023-01-24 | 4654 | 811 | 
 | 2023-01-23 | 4648 | 808 | 
 | 2023-01-22 | 4643 | 808 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 4520 | 794 | 
 | 2022-12-28 | 4518 | 793 | 
 | 2022-12-27 | 4513 | 792 | 
-| 2022-12-26 | 4510 | 790 | 
 

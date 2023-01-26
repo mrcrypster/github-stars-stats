@@ -1,10 +1,10 @@
 # E-xyza/ex_term - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/E-xyza/ex_term)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 26 | 1 | 
 | 2023-01-24 | 25 | 1 | 
 | 2023-01-23 | 21 | 1 | 
 | 2023-01-22 | 21 | 1 | 

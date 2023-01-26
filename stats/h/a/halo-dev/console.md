@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 25
 
 ☋ Forks: 453
 
-★ Stars: 461
+★ Stars: 462
 
 [Open repository](https://github.com/halo-dev/console)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 461 | 453 | 
+| 2023-01-25 | 462 | 453 | 
 | 2023-01-24 | 461 | 453 | 
 | 2023-01-23 | 459 | 451 | 
 | 2023-01-22 | 459 | 451 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-29 | 455 | 441 | 
 | 2022-12-28 | 454 | 440 | 
 | 2022-12-27 | 453 | 438 | 
-| 2022-12-26 | 452 | 438 | 
 

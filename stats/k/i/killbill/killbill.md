@@ -1,10 +1,10 @@
 # killbill/killbill - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 689
 
-★ Stars: 3895
+★ Stars: 3896
 
 [Open repository](https://github.com/killbill/killbill)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3896 | 689 | 
 | 2023-01-24 | 3895 | 689 | 
 | 2023-01-23 | 3894 | 690 | 
 | 2023-01-22 | 3892 | 690 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3869 | 690 | 
 | 2022-12-28 | 3869 | 690 | 
 | 2022-12-27 | 3866 | 690 | 
-| 2022-12-26 | 3862 | 689 | 
 

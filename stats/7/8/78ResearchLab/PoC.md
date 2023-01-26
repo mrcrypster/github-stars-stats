@@ -1,6 +1,6 @@
 # 78ResearchLab/PoC - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 126 | 27 | 
 | 2023-01-24 | 126 | 27 | 
 | 2023-01-23 | 126 | 27 | 
 | 2023-01-22 | 126 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 126 | 27 | 
 | 2022-12-29 | 126 | 27 | 
 | 2022-12-27 | 126 | 27 | 
-| 2022-12-26 | 126 | 27 | 
 

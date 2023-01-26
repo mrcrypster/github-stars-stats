@@ -1,6 +1,6 @@
 # kaspth/active_record-ingress - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 32 | - | 
 | 2023-01-24 | 32 | - | 
 | 2023-01-23 | 32 | - | 
 | 2023-01-22 | 32 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 32 | - | 
 | 2022-12-29 | 32 | - | 
 | 2022-12-27 | 32 | - | 
-| 2022-12-26 | 32 | - | 
 

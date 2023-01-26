@@ -1,6 +1,6 @@
 # radyhaggag/live_score - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 48 | 12 | 
 | 2023-01-24 | 48 | 12 | 
 | 2023-01-23 | 48 | 12 | 
 | 2023-01-22 | 48 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 48 | 11 | 
 | 2022-12-29 | 47 | 10 | 
 | 2022-12-28 | 47 | 10 | 
-| 2022-12-27 | 46 | 10 | 
 

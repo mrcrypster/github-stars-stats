@@ -1,10 +1,10 @@
 # biancangming/wtv - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1121
+☋ Forks: 1122
 
-★ Stars: 7365
+★ Stars: 7376
 
 [Open repository](https://github.com/biancangming/wtv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 7376 | 1122 | 
 | 2023-01-24 | 7365 | 1121 | 
 | 2023-01-23 | 7359 | 1121 | 
 | 2023-01-22 | 7353 | 1120 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 7161 | 1097 | 
 | 2022-12-28 | 7155 | 1094 | 
 | 2022-12-27 | 7147 | 1091 | 
-| 2022-12-26 | 7141 | 1091 | 
 

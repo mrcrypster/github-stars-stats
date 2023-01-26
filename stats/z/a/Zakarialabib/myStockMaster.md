@@ -1,6 +1,6 @@
 # Zakarialabib/myStockMaster - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 48 | 19 | 
 | 2023-01-24 | 48 | 19 | 
 | 2023-01-23 | 48 | 18 | 
 | 2023-01-22 | 46 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 43 | 18 | 
 | 2022-12-28 | 42 | 17 | 
 | 2022-12-27 | 42 | 16 | 
-| 2022-12-26 | 42 | 16 | 
 

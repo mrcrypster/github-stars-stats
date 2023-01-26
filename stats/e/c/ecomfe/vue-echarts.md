@@ -1,6 +1,6 @@
 # ecomfe/vue-echarts - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1409
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 7868 | 1409 | 
 | 2023-01-24 | 7868 | 1409 | 
 | 2023-01-23 | 7866 | 1408 | 
 | 2023-01-22 | 7863 | 1408 | 

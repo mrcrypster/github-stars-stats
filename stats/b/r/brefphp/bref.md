@@ -1,10 +1,10 @@
 # brefphp/bref - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 315
 
-★ Stars: 2627
+★ Stars: 2630
 
 [Open repository](https://github.com/brefphp/bref)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2630 | 315 | 
 | 2023-01-24 | 2627 | 315 | 
 | 2023-01-23 | 2627 | 315 | 
 | 2023-01-22 | 2627 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2620 | 312 | 
 | 2022-12-28 | 2620 | 312 | 
 | 2022-12-27 | 2619 | 312 | 
-| 2022-12-26 | 2619 | 312 | 
 

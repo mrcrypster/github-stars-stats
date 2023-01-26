@@ -1,10 +1,10 @@
 # renatolond/mastodon-twitter-poster - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 63
 
-★ Stars: 779
+★ Stars: 782
 
 [Open repository](https://github.com/renatolond/mastodon-twitter-poster)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 782 | 63 | 
 | 2023-01-24 | 779 | 63 | 
 | 2023-01-23 | 776 | 63 | 
 | 2023-01-22 | 774 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 762 | 63 | 
 | 2022-12-28 | 761 | 63 | 
 | 2022-12-27 | 758 | 63 | 
-| 2022-12-26 | 756 | 63 | 
 

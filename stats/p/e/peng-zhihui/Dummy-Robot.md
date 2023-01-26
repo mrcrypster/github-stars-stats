@@ -1,10 +1,10 @@
 # peng-zhihui/Dummy-Robot - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1979
+☋ Forks: 1980
 
-★ Stars: 8950
+★ Stars: 8954
 
 [Open repository](https://github.com/peng-zhihui/Dummy-Robot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 8954 | 1980 | 
 | 2023-01-24 | 8950 | 1979 | 
 | 2023-01-23 | 8949 | 1977 | 
 | 2023-01-22 | 8948 | 1976 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 8839 | 1949 | 
 | 2022-12-28 | 8833 | 1947 | 
 | 2022-12-27 | 8816 | 1947 | 
-| 2022-12-26 | 8802 | 1944 | 
 

@@ -1,10 +1,10 @@
 # tinyvision/DAMO-YOLO - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
-☋ Forks: 127
+☋ Forks: 131
 
-★ Stars: 944
+★ Stars: 977
 
 [Open repository](https://github.com/tinyvision/DAMO-YOLO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 977 | 131 | 
 | 2023-01-24 | 944 | 127 | 
 | 2023-01-23 | 917 | 119 | 
 | 2023-01-22 | 887 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 609 | 56 | 
 | 2022-12-29 | 601 | 56 | 
 | 2022-12-28 | 597 | 53 | 
-| 2022-12-27 | 594 | 53 | 
 

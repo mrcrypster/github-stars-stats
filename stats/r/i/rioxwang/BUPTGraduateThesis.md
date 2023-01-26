@@ -1,6 +1,6 @@
 # rioxwang/BUPTGraduateThesis - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 327 | 99 | 
 | 2023-01-24 | 327 | 99 | 
 | 2023-01-23 | 326 | 99 | 
 | 2023-01-22 | 325 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 325 | 97 | 
 | 2022-12-28 | 325 | 97 | 
 | 2022-12-27 | 324 | 96 | 
-| 2022-12-26 | 324 | 96 | 
 

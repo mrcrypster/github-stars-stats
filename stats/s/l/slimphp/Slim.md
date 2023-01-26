@@ -1,10 +1,10 @@
 # slimphp/Slim - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1946
 
-★ Stars: 11477
+★ Stars: 11480
 
 [Open repository](https://github.com/slimphp/Slim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 11480 | 1946 | 
 | 2023-01-24 | 11477 | 1946 | 
 | 2023-01-23 | 11476 | 1946 | 
 | 2023-01-22 | 11475 | 1947 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 11467 | 1941 | 
 | 2022-12-28 | 11464 | 1941 | 
 | 2022-12-27 | 11464 | 1941 | 
-| 2022-12-26 | 11463 | 1941 | 
 

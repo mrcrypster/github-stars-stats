@@ -1,10 +1,10 @@
 # trungdq88/Awesome-Black-Friday-Cyber-Monday - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 344
 
-★ Stars: 1703
+★ Stars: 1702
 
 [Open repository](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1702 | 344 | 
 | 2023-01-24 | 1703 | 344 | 
 | 2023-01-23 | 1703 | 344 | 
 | 2023-01-22 | 1703 | 344 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1694 | 350 | 
 | 2022-12-28 | 1695 | 350 | 
 | 2022-12-27 | 1695 | 350 | 
-| 2022-12-26 | 1695 | 350 | 
 

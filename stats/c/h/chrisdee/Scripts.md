@@ -1,6 +1,6 @@
 # chrisdee/Scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 166 | 126 | 
 | 2023-01-24 | 166 | 126 | 
 | 2023-01-23 | 166 | 126 | 
 | 2023-01-22 | 165 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 161 | 126 | 
 | 2022-12-28 | 161 | 125 | 
 | 2022-12-27 | 161 | 125 | 
-| 2022-12-26 | 161 | 125 | 
 

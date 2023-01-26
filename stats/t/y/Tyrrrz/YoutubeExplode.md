@@ -1,10 +1,10 @@
 # Tyrrrz/YoutubeExplode - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 407
+☋ Forks: 408
 
-★ Stars: 2201
+★ Stars: 2203
 
 [Open repository](https://github.com/Tyrrrz/YoutubeExplode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2203 | 408 | 
 | 2023-01-24 | 2201 | 407 | 
 | 2023-01-23 | 2201 | 407 | 
 | 2023-01-22 | 2200 | 407 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2165 | 397 | 
 | 2022-12-28 | 2165 | 397 | 
 | 2022-12-27 | 2165 | 395 | 
-| 2022-12-26 | 2162 | 395 | 
 

@@ -1,10 +1,10 @@
 # noir-lang/noir - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 426
+★ Stars: 427
 
 [Open repository](https://github.com/noir-lang/noir)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 427 | 36 | 
 | 2023-01-24 | 426 | 35 | 
 | 2023-01-23 | 424 | 36 | 
 | 2023-01-22 | 424 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 402 | 32 | 
 | 2022-12-28 | 401 | 32 | 
 | 2022-12-27 | 398 | 32 | 
-| 2022-12-26 | 394 | 31 | 
 

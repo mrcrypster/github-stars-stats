@@ -1,10 +1,10 @@
 # timqian/chinese-independent-blogs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1799
+☋ Forks: 1811
 
-★ Stars: 12651
+★ Stars: 12743
 
 [Open repository](https://github.com/timqian/chinese-independent-blogs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 12743 | 1811 | 
 | 2023-01-24 | 12651 | 1799 | 
 | 2023-01-23 | 12539 | 1791 | 
 | 2023-01-22 | 12305 | 1771 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 11643 | 1688 | 
 | 2022-12-28 | 11520 | 1675 | 
 | 2022-12-27 | 11357 | 1661 | 
-| 2022-12-26 | 11301 | 1654 | 
 

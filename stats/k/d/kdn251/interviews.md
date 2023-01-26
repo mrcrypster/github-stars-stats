@@ -1,10 +1,10 @@
 # kdn251/interviews - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 12454
 
-★ Stars: 59065
+★ Stars: 59070
 
 [Open repository](https://github.com/kdn251/interviews)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 59070 | 12454 | 
 | 2023-01-24 | 59065 | 12454 | 
 | 2023-01-23 | 59058 | 12456 | 
 | 2023-01-22 | 59050 | 12456 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 58873 | 12433 | 
 | 2022-12-28 | 58869 | 12435 | 
 | 2022-12-27 | 58862 | 12434 | 
-| 2022-12-26 | 58860 | 12435 | 
 

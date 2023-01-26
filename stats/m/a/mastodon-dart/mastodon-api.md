@@ -1,10 +1,10 @@
 # mastodon-dart/mastodon-api - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 5
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/mastodon-dart/mastodon-api)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 41 | 5 | 
 | 2023-01-24 | 39 | 5 | 
 | 2023-01-23 | 39 | 5 | 
 | 2023-01-22 | 39 | 5 | 

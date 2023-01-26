@@ -1,6 +1,6 @@
 # awaitility/awaitility - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3293 | 222 | 
 | 2023-01-24 | 3293 | 222 | 
 | 2023-01-23 | 3292 | 221 | 
 | 2023-01-22 | 3291 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3260 | 221 | 
 | 2022-12-28 | 3260 | 221 | 
 | 2022-12-27 | 3259 | 221 | 
-| 2022-12-26 | 3258 | 221 | 
 

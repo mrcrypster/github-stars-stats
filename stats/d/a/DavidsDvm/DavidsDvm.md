@@ -1,6 +1,6 @@
 # DavidsDvm/DavidsDvm - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 10 | 15 | 
 | 2023-01-24 | 10 | 15 | 
 | 2023-01-23 | 10 | 14 | 
 | 2023-01-21 | 10 | 14 | 

@@ -1,6 +1,6 @@
 # laytan/cloak.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 99 | 1 | 
 | 2023-01-24 | 99 | 1 | 
 | 2023-01-23 | 99 | 1 | 
 | 2023-01-22 | 99 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 97 | 1 | 
 | 2022-12-28 | 97 | 1 | 
 | 2022-12-27 | 97 | 1 | 
-| 2022-12-26 | 97 | 1 | 
 

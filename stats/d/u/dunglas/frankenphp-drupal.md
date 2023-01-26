@@ -1,6 +1,6 @@
 # dunglas/frankenphp-drupal - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 21 | 4 | 
 | 2023-01-24 | 21 | 4 | 
 | 2023-01-23 | 21 | 4 | 
 | 2023-01-22 | 21 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 21 | 4 | 
 | 2022-12-28 | 21 | 4 | 
 | 2022-12-27 | 21 | 4 | 
-| 2022-12-26 | 21 | 4 | 
 

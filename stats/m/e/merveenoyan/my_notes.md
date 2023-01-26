@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 25
 
-☋ Forks: 30
+☋ Forks: 33
 
-★ Stars: 363
+★ Stars: 398
 
 [Open repository](https://github.com/merveenoyan/my_notes)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 363 | 30 | 
+| 2023-01-25 | 398 | 33 | 
 | 2023-01-24 | 347 | 29 | 
 

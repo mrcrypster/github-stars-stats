@@ -1,6 +1,6 @@
 # Kaique62/Kade-Engine-1.5.1-Android - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 6 | 31 | 
 | 2023-01-24 | 6 | 31 | 
 | 2023-01-23 | 6 | 31 | 
 | 2023-01-22 | 6 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 6 | 29 | 
 | 2022-12-28 | 6 | 29 | 
 | 2022-12-27 | 6 | 29 | 
-| 2022-12-26 | 6 | 29 | 
 

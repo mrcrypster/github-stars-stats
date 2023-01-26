@@ -1,6 +1,6 @@
 # crystal-community/jwt - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 198 | 25 | 
 | 2023-01-24 | 198 | 25 | 
 | 2023-01-23 | 198 | 24 | 
 | 2023-01-22 | 198 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 197 | 24 | 
 | 2022-12-29 | 197 | 24 | 
 | 2022-12-28 | 196 | 24 | 
-| 2022-12-26 | 196 | 24 | 
 

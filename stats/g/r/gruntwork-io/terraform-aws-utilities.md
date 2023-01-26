@@ -1,10 +1,10 @@
 # gruntwork-io/terraform-aws-utilities - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 57
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/gruntwork-io/terraform-aws-utilities)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 164 | 57 | 
 | 2023-01-24 | 163 | 57 | 
 | 2023-01-23 | 163 | 56 | 
 | 2023-01-22 | 163 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 162 | 54 | 
 | 2022-12-28 | 162 | 54 | 
 | 2022-12-27 | 162 | 54 | 
-| 2022-12-26 | 162 | 54 | 
 

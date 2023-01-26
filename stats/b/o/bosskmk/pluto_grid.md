@@ -1,8 +1,8 @@
 # bosskmk/pluto_grid - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 141
+☋ Forks: 142
 
 ★ Stars: 461
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 461 | 142 | 
 | 2023-01-24 | 461 | 141 | 
 | 2023-01-23 | 459 | 140 | 
 | 2023-01-22 | 459 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 450 | 137 | 
 | 2022-12-28 | 449 | 137 | 
 | 2022-12-27 | 449 | 136 | 
-| 2022-12-26 | 448 | 136 | 
 

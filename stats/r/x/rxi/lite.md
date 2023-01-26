@@ -1,10 +1,10 @@
 # rxi/lite - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 322
 
-★ Stars: 6969
+★ Stars: 6971
 
 [Open repository](https://github.com/rxi/lite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 6971 | 322 | 
 | 2023-01-24 | 6969 | 322 | 
 | 2023-01-23 | 6969 | 322 | 
 | 2023-01-22 | 6967 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 6910 | 317 | 
 | 2022-12-28 | 6906 | 316 | 
 | 2022-12-27 | 6896 | 316 | 
-| 2022-12-26 | 6894 | 316 | 
 

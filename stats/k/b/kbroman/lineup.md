@@ -1,6 +1,6 @@
 # kbroman/lineup - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4 | 3 | 
 | 2023-01-24 | 4 | 3 | 
 | 2023-01-23 | 4 | 3 | 
 | 2023-01-22 | 4 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 4 | 3 | 
 | 2022-12-29 | 4 | 3 | 
 | 2022-12-28 | 4 | 3 | 
-| 2022-12-27 | 4 | 3 | 
 

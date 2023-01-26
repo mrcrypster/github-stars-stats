@@ -1,10 +1,10 @@
 # orkestral/venom - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 760
+☋ Forks: 761
 
-★ Stars: 4434
+★ Stars: 4441
 
 [Open repository](https://github.com/orkestral/venom)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4441 | 761 | 
 | 2023-01-24 | 4434 | 760 | 
 | 2023-01-23 | 4425 | 759 | 
 | 2023-01-22 | 4416 | 759 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 4346 | 746 | 
 | 2022-12-29 | 4344 | 745 | 
 | 2022-12-27 | 4340 | 742 | 
-| 2022-12-26 | 4338 | 741 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/elastic/Silhouette)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 48 | 3 | 
+| 2023-01-25 | 50 | 3 | 
 | 2023-01-24 | 46 | 3 | 
 

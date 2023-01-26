@@ -1,10 +1,10 @@
 # kejar31/VoronMods - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/kejar31/VoronMods)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 87 | 11 | 
 | 2023-01-24 | 86 | 11 | 
 | 2023-01-23 | 85 | 11 | 
 | 2023-01-22 | 85 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 75 | 10 | 
 | 2022-12-28 | 75 | 10 | 
 | 2022-12-27 | 75 | 10 | 
-| 2022-12-26 | 75 | 10 | 
 

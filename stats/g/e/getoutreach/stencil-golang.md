@@ -1,10 +1,10 @@
 # getoutreach/stencil-golang - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/getoutreach/stencil-golang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3 | - | 
 | 2023-01-24 | 2 | - | 
 | 2023-01-23 | 2 | - | 
 | 2023-01-22 | 2 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | - | - | 
 | 2022-12-28 | - | - | 
 | 2022-12-27 | - | - | 
-| 2022-12-26 | - | - | 
 

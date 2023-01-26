@@ -1,10 +1,10 @@
 # TheOfficialFloW/HENlo - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 25
 
-★ Stars: 202
+★ Stars: 204
 
 [Open repository](https://github.com/TheOfficialFloW/HENlo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 204 | 25 | 
 | 2023-01-24 | 202 | 25 | 
 | 2023-01-23 | 199 | 25 | 
 | 2023-01-22 | 199 | 25 | 

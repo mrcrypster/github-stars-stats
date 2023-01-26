@@ -1,6 +1,6 @@
 # clj-kondo/clj-kondo - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1514 | 260 | 
 | 2023-01-24 | 1514 | 260 | 
 | 2023-01-23 | 1513 | 260 | 
 | 2023-01-22 | 1513 | 258 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1497 | 254 | 
 | 2022-12-28 | 1497 | 254 | 
 | 2022-12-27 | 1496 | 254 | 
-| 2022-12-26 | 1495 | 254 | 
 

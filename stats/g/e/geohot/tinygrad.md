@@ -1,10 +1,10 @@
 # geohot/tinygrad - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 864
+☋ Forks: 867
 
-★ Stars: 9873
+★ Stars: 9881
 
 [Open repository](https://github.com/geohot/tinygrad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 9881 | 867 | 
 | 2023-01-24 | 9873 | 864 | 
 | 2023-01-23 | 9867 | 866 | 
 | 2023-01-22 | 9862 | 866 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 9638 | 856 | 
 | 2022-12-29 | 9634 | 855 | 
 | 2022-12-28 | 9627 | 854 | 
-| 2022-12-27 | 9620 | 852 | 
 

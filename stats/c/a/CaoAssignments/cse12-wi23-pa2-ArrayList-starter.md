@@ -1,8 +1,8 @@
 # CaoAssignments/cse12-wi23-pa2-ArrayList-starter - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 3
+☋ Forks: 6
 
 ★ Stars: 0
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | - | 6 | 
 | 2023-01-24 | - | 3 | 
 

@@ -1,10 +1,10 @@
 # fbelavenuto/arpl - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 422
+☋ Forks: 425
 
-★ Stars: 2128
+★ Stars: 2148
 
 [Open repository](https://github.com/fbelavenuto/arpl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2148 | 425 | 
 | 2023-01-24 | 2128 | 422 | 
 | 2023-01-23 | 2109 | 420 | 
 | 2023-01-22 | 2097 | 418 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1787 | 357 | 
 | 2022-12-28 | 1777 | 356 | 
 | 2022-12-27 | 1764 | 354 | 
-| 2022-12-26 | 1757 | 351 | 
 

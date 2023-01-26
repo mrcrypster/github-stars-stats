@@ -1,10 +1,10 @@
 # sixthsurge/photon - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 16
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/sixthsurge/photon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 58 | 16 | 
 | 2023-01-24 | 57 | 16 | 
 | 2023-01-23 | 57 | 15 | 
 | 2023-01-22 | 57 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 50 | 11 | 
 | 2022-12-28 | 50 | 11 | 
 | 2022-12-27 | 49 | 11 | 
-| 2022-12-26 | 48 | 10 | 
 

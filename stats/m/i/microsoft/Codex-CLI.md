@@ -1,10 +1,10 @@
 # microsoft/Codex-CLI - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 1360
+★ Stars: 1373
 
 [Open repository](https://github.com/microsoft/Codex-CLI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1373 | 51 | 
 | 2023-01-24 | 1360 | 50 | 
 | 2023-01-23 | 1352 | 50 | 
 | 2023-01-21 | 1346 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 1284 | 45 | 
 | 2022-12-29 | 1283 | 45 | 
 | 2022-12-28 | 1281 | 46 | 
-| 2022-12-27 | 1276 | 46 | 
 

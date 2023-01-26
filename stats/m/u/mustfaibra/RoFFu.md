@@ -1,8 +1,8 @@
 # mustfaibra/RoFFu - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 130 | 17 | 
 | 2023-01-24 | 130 | 16 | 
 | 2023-01-23 | 130 | 16 | 
 | 2023-01-22 | 130 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 108 | 15 | 
 | 2022-12-28 | 108 | 15 | 
 | 2022-12-27 | 108 | 15 | 
-| 2022-12-26 | 108 | 15 | 
 

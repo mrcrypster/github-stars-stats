@@ -1,10 +1,10 @@
 # dask/helm-chart - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 88
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/dask/helm-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 81 | 88 | 
 | 2023-01-24 | 80 | 88 | 
 | 2023-01-23 | 80 | 88 | 
 | 2023-01-22 | 80 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 79 | 88 | 
 | 2022-12-28 | 79 | 88 | 
 | 2022-12-27 | 79 | 88 | 
-| 2022-12-26 | 79 | 88 | 
 

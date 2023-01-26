@@ -1,6 +1,6 @@
 # Fangornito/ReimsQuizz - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2 | 1 | 
 | 2023-01-24 | 2 | 1 | 
 | 2023-01-23 | 2 | 1 | 
 | 2023-01-21 | 2 | 1 | 

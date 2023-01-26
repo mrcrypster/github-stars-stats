@@ -1,6 +1,6 @@
 # portainer/templates - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 411
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 243 | 411 | 
 | 2023-01-24 | 243 | 411 | 
 | 2023-01-23 | 243 | 411 | 
 | 2023-01-22 | 243 | 412 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 236 | 412 | 
 | 2022-12-28 | 235 | 411 | 
 | 2022-12-27 | 235 | 411 | 
-| 2022-12-26 | 236 | 409 | 
 

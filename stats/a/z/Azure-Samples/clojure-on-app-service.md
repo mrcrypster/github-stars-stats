@@ -1,10 +1,10 @@
 # Azure-Samples/clojure-on-app-service - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Azure-Samples/clojure-on-app-service)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1 | - | 
 | 2023-01-24 | - | - | 
 | 2023-01-23 | - | - | 
 | 2023-01-22 | - | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | - | - | 
 | 2022-12-28 | - | - | 
 | 2022-12-27 | - | - | 
-| 2022-12-26 | - | - | 
 

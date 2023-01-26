@@ -1,10 +1,10 @@
 # google/flax - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 462
 
-★ Stars: 3945
+★ Stars: 3948
 
 [Open repository](https://github.com/google/flax)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3948 | 462 | 
 | 2023-01-24 | 3945 | 462 | 
 | 2023-01-23 | 3941 | 460 | 
 | 2023-01-22 | 3932 | 460 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 3850 | 450 | 
 | 2022-12-29 | 3846 | 449 | 
 | 2022-12-28 | 3846 | 449 | 
-| 2022-12-27 | 3839 | 449 | 
 

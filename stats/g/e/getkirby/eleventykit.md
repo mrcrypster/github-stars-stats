@@ -1,10 +1,10 @@
 # getkirby/eleventykit - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/getkirby/eleventykit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 27 | - | 
 | 2023-01-24 | 26 | - | 
 | 2023-01-23 | 26 | - | 
 | 2023-01-22 | 26 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 18 | - | 
 | 2022-12-28 | 18 | - | 
 | 2022-12-27 | 18 | - | 
-| 2022-12-26 | 17 | - | 
 

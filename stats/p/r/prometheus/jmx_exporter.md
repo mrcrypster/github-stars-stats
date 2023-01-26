@@ -1,10 +1,10 @@
 # prometheus/jmx_exporter - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1111
+☋ Forks: 1112
 
-★ Stars: 2510
+★ Stars: 2511
 
 [Open repository](https://github.com/prometheus/jmx_exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2511 | 1112 | 
 | 2023-01-24 | 2510 | 1111 | 
 | 2023-01-23 | 2510 | 1111 | 
 | 2023-01-22 | 2509 | 1111 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2490 | 1109 | 
 | 2022-12-28 | 2489 | 1109 | 
 | 2022-12-27 | 2489 | 1108 | 
-| 2022-12-26 | 2485 | 1108 | 
 

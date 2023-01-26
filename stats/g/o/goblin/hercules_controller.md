@@ -1,6 +1,6 @@
 # goblin/hercules_controller - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 8 | 3 | 
+| 2023-01-25 | 8 | 3 | 
 | 2023-01-24 | 8 | 3 | 
 | 2023-01-23 | 8 | 3 | 
 | 2023-01-22 | 8 | 3 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 8 | 3 | 
 | 2022-12-28 | 8 | 3 | 
 | 2022-12-27 | 8 | 3 | 
-| 2022-12-26 | 8 | 3 | 
 

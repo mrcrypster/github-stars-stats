@@ -1,10 +1,10 @@
 # internetarchive/openlibrary - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 919
+☋ Forks: 920
 
-★ Stars: 3996
+★ Stars: 4000
 
 [Open repository](https://github.com/internetarchive/openlibrary)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4000 | 920 | 
 | 2023-01-24 | 3996 | 919 | 
 | 2023-01-23 | 3994 | 918 | 
 | 2023-01-22 | 3991 | 918 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3955 | 911 | 
 | 2022-12-28 | 3955 | 911 | 
 | 2022-12-27 | 3953 | 911 | 
-| 2022-12-26 | 3952 | 911 | 
 

@@ -1,6 +1,6 @@
 # Superd22/webos-gamepad - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4 | - | 
 | 2023-01-24 | 4 | - | 
 | 2023-01-23 | 4 | - | 
 | 2023-01-22 | 3 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 3 | - | 
 | 2022-12-28 | 3 | - | 
 | 2022-12-27 | 3 | - | 
-| 2022-12-26 | 3 | - | 
 

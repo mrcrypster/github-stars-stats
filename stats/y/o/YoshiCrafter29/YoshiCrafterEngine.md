@@ -1,8 +1,8 @@
 # YoshiCrafter29/YoshiCrafterEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 93
+☋ Forks: 92
 
 ★ Stars: 102
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 102 | 92 | 
 | 2023-01-25 | 102 | 93 | 
 | 2023-01-23 | 102 | 93 | 
 | 2023-01-22 | 102 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-29 | 103 | 89 | 
 | 2022-12-28 | 103 | 89 | 
 | 2022-12-27 | 103 | 89 | 
-| 2022-12-26 | 103 | 89 | 
 

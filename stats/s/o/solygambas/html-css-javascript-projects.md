@@ -1,10 +1,10 @@
 # solygambas/html-css-javascript-projects - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 222
 
-★ Stars: 397
+★ Stars: 398
 
 [Open repository](https://github.com/solygambas/html-css-javascript-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 398 | 222 | 
 | 2023-01-24 | 397 | 222 | 
 | 2023-01-23 | 397 | 222 | 
 | 2023-01-22 | 397 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 371 | 213 | 
 | 2022-12-28 | 370 | 213 | 
 | 2022-12-27 | 367 | 212 | 
-| 2022-12-26 | 367 | 210 | 
 

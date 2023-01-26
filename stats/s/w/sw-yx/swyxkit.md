@@ -1,10 +1,10 @@
 # sw-yx/swyxkit - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 57
 
-★ Stars: 484
+★ Stars: 485
 
 [Open repository](https://github.com/sw-yx/swyxkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 485 | 57 | 
 | 2023-01-24 | 484 | 57 | 
 | 2023-01-23 | 483 | 57 | 
 | 2023-01-22 | 483 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 450 | 54 | 
 | 2022-12-28 | 449 | 54 | 
 | 2022-12-27 | 448 | 54 | 
-| 2022-12-26 | 447 | 54 | 
 

@@ -1,6 +1,6 @@
 # darklife/darkriscv - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1549 | 240 | 
 | 2023-01-24 | 1549 | 240 | 
 | 2023-01-23 | 1549 | 239 | 
 | 2023-01-22 | 1548 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1537 | 237 | 
 | 2022-12-28 | 1537 | 237 | 
 | 2022-12-27 | 1534 | 236 | 
-| 2022-12-26 | 1534 | 236 | 
 

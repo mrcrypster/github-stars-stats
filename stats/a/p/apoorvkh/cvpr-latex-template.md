@@ -1,10 +1,10 @@
 # apoorvkh/cvpr-latex-template - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 99
+☋ Forks: 100
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/apoorvkh/cvpr-latex-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 172 | 100 | 
 | 2023-01-24 | 170 | 99 | 
 | 2023-01-23 | 169 | 99 | 
 | 2023-01-22 | 169 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 166 | 91 | 
 | 2022-12-28 | 166 | 91 | 
 | 2022-12-27 | 166 | 91 | 
-| 2022-12-26 | 166 | 92 | 
 

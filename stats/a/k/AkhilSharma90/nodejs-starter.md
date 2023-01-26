@@ -1,6 +1,6 @@
 # AkhilSharma90/nodejs-starter - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 499 | 152 | 
 | 2023-01-24 | 499 | 152 | 
 | 2023-01-23 | 499 | 152 | 
 | 2023-01-22 | 499 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 454 | 129 | 
 | 2022-12-28 | 454 | 129 | 
 | 2022-12-27 | 454 | 129 | 
-| 2022-12-26 | 454 | 129 | 
 

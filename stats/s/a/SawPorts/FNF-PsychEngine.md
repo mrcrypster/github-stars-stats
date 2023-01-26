@@ -1,8 +1,8 @@
 # SawPorts/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 118
+☋ Forks: 119
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 22 | 119 | 
 | 2023-01-24 | 22 | 118 | 
 | 2023-01-23 | 22 | 118 | 
 | 2023-01-22 | 22 | 118 | 

@@ -1,6 +1,6 @@
 # HENNGE/terraform-aws-ecs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 29 | 19 | 
 | 2023-01-24 | 29 | 19 | 
 | 2023-01-23 | 29 | 18 | 
 | 2023-01-22 | 29 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 30 | 18 | 
 | 2022-12-28 | 30 | 18 | 
 | 2022-12-27 | 30 | 18 | 
-| 2022-12-26 | 30 | 18 | 
 

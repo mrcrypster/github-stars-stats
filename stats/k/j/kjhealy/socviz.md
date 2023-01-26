@@ -1,6 +1,6 @@
 # kjhealy/socviz - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 458
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 171 | 458 | 
 | 2023-01-24 | 171 | 458 | 
 | 2023-01-23 | 171 | 458 | 
 | 2023-01-22 | 171 | 458 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 170 | 435 | 
 | 2022-12-28 | 170 | 432 | 
 | 2022-12-27 | 170 | 432 | 
-| 2022-12-26 | 170 | 432 | 
 

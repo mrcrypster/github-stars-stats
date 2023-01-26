@@ -1,6 +1,6 @@
 # RVU-BTECH-CSE-2022/c-activity-sets-nikitas1410 - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | - | 7 | 
+| 2023-01-25 | - | 7 | 
 | 2023-01-24 | - | 7 | 
 | 2023-01-23 | - | 6 | 
 | 2023-01-22 | - | 6 | 

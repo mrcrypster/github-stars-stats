@@ -1,10 +1,10 @@
 # projectdiscovery/uncover - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 133
 
-★ Stars: 1565
+★ Stars: 1566
 
 [Open repository](https://github.com/projectdiscovery/uncover)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1566 | 133 | 
 | 2023-01-24 | 1565 | 133 | 
 | 2023-01-23 | 1561 | 133 | 
 | 2023-01-22 | 1561 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1484 | 126 | 
 | 2022-12-28 | 1483 | 125 | 
 | 2022-12-27 | 1482 | 125 | 
-| 2022-12-26 | 1482 | 125 | 
 

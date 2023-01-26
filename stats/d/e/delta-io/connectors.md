@@ -1,6 +1,6 @@
 # delta-io/connectors - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 339 | 143 | 
 | 2023-01-24 | 339 | 143 | 
 | 2023-01-23 | 338 | 142 | 
 | 2023-01-22 | 338 | 142 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 337 | 141 | 
 | 2022-12-29 | 336 | 141 | 
 | 2022-12-28 | 336 | 141 | 
-| 2022-12-27 | 336 | 141 | 
 

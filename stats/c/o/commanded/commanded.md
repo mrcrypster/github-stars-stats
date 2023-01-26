@@ -1,10 +1,10 @@
 # commanded/commanded - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 226
 
-★ Stars: 1643
+★ Stars: 1645
 
 [Open repository](https://github.com/commanded/commanded)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1645 | 226 | 
 | 2023-01-24 | 1643 | 226 | 
 | 2023-01-23 | 1643 | 226 | 
 | 2023-01-21 | 1642 | 226 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1633 | 222 | 
 | 2022-12-28 | 1633 | 221 | 
 | 2022-12-27 | 1633 | 221 | 
-| 2022-12-26 | 1633 | 221 | 
 

@@ -1,6 +1,6 @@
 # DevangThakkar/wordle_archive - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 282 | 165 | 
 | 2023-01-24 | 282 | 165 | 
 | 2023-01-23 | 282 | 165 | 
 | 2023-01-22 | 282 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 283 | 165 | 
 | 2022-12-28 | 283 | 165 | 
 | 2022-12-27 | 283 | 165 | 
-| 2022-12-26 | 283 | 165 | 
 

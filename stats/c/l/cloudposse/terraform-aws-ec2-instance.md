@@ -1,8 +1,8 @@
 # cloudposse/terraform-aws-ec2-instance - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 186
+☋ Forks: 187
 
 ★ Stars: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 130 | 187 | 
 | 2023-01-24 | 130 | 186 | 
 | 2023-01-23 | 130 | 186 | 
 | 2023-01-22 | 130 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 130 | 185 | 
 | 2022-12-28 | 130 | 185 | 
 | 2022-12-27 | 130 | 185 | 
-| 2022-12-26 | 130 | 185 | 
 

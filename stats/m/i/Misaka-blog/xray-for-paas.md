@@ -1,10 +1,10 @@
 # Misaka-blog/xray-for-paas - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 111
+☋ Forks: 116
 
-★ Stars: 69
+★ Stars: 72
 
 [Open repository](https://github.com/Misaka-blog/xray-for-paas)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 72 | 116 | 
 | 2023-01-24 | 69 | 111 | 
 | 2023-01-23 | 64 | 106 | 
 | 2023-01-22 | 59 | 100 | 

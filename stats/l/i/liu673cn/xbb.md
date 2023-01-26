@@ -1,10 +1,10 @@
 # liu673cn/xbb - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 123
 
-★ Stars: 826
+★ Stars: 825
 
 [Open repository](https://github.com/liu673cn/xbb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 825 | 123 | 
 | 2023-01-24 | 826 | 123 | 
 | 2023-01-23 | 825 | 123 | 
 | 2023-01-22 | 824 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 818 | 121 | 
 | 2022-12-28 | 818 | 121 | 
 | 2022-12-27 | 818 | 121 | 
-| 2022-12-26 | 818 | 121 | 
 

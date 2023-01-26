@@ -1,6 +1,6 @@
 # Moonshine-IDE/Moonshine-IDE - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 98 | 15 | 
 | 2023-01-24 | 98 | 15 | 
 | 2023-01-23 | 98 | 15 | 
 | 2023-01-22 | 97 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 96 | 14 | 
 | 2022-12-28 | 96 | 14 | 
 | 2022-12-27 | 96 | 14 | 
-| 2022-12-26 | 96 | 14 | 
 

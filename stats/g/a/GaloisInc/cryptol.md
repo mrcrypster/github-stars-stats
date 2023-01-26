@@ -1,6 +1,6 @@
 # GaloisInc/cryptol - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1036 | 112 | 
 | 2023-01-24 | 1036 | 112 | 
 | 2023-01-23 | 1036 | 112 | 
 | 2023-01-22 | 1036 | 112 | 

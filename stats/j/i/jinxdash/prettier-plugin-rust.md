@@ -1,6 +1,6 @@
 # jinxdash/prettier-plugin-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 88 | 2 | 
 | 2023-01-24 | 88 | 2 | 
 | 2023-01-23 | 88 | 2 | 
 | 2023-01-22 | 87 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 85 | 1 | 
 | 2022-12-28 | 84 | 1 | 
 | 2022-12-27 | 84 | 1 | 
-| 2022-12-26 | 84 | 1 | 
 

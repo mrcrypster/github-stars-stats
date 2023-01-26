@@ -1,6 +1,6 @@
 # SHI-Labs/Neighborhood-Attention-Transformer - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 727 | 68 | 
 | 2023-01-24 | 727 | 68 | 
 | 2023-01-23 | 727 | 68 | 
 | 2023-01-22 | 727 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 721 | 68 | 
 | 2022-12-28 | 718 | 68 | 
 | 2022-12-27 | 718 | 68 | 
-| 2022-12-26 | 718 | 67 | 
 

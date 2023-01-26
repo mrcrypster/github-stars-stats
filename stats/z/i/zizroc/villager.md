@@ -1,10 +1,10 @@
 # zizroc/villager - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/zizroc/villager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 49 | 4 | 
 | 2023-01-24 | 48 | 4 | 
 | 2023-01-23 | 47 | 4 | 
 | 2023-01-21 | 47 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 46 | 3 | 
 | 2022-12-29 | 46 | 3 | 
 | 2022-12-28 | 46 | 3 | 
-| 2022-12-27 | 46 | 3 | 
 

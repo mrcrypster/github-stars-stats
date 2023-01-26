@@ -1,10 +1,10 @@
 # showteeth/ggcoverage - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 8
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/showteeth/ggcoverage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 88 | 8 | 
 | 2023-01-24 | 87 | 8 | 
 | 2023-01-23 | 87 | 8 | 
 | 2023-01-22 | 87 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 87 | 7 | 
 | 2022-12-28 | 87 | 7 | 
 | 2022-12-27 | 87 | 7 | 
-| 2022-12-26 | 87 | 7 | 
 

@@ -1,10 +1,10 @@
 # Alexays/Waybar - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 442
+☋ Forks: 443
 
-★ Stars: 3115
+★ Stars: 3118
 
 [Open repository](https://github.com/Alexays/Waybar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3118 | 443 | 
 | 2023-01-24 | 3115 | 442 | 
 | 2023-01-23 | 3116 | 443 | 
 | 2023-01-22 | 3112 | 443 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3009 | 432 | 
 | 2022-12-28 | 3007 | 432 | 
 | 2022-12-27 | 3002 | 430 | 
-| 2022-12-26 | 2994 | 430 | 
 

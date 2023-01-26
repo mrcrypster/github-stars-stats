@@ -1,10 +1,10 @@
 # mspnp/aks-baseline - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 394
+☋ Forks: 396
 
-★ Stars: 522
+★ Stars: 525
 
 [Open repository](https://github.com/mspnp/aks-baseline)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 525 | 396 | 
 | 2023-01-24 | 522 | 394 | 
 | 2023-01-23 | 521 | 394 | 
 | 2023-01-22 | 521 | 394 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 511 | 387 | 
 | 2022-12-28 | 511 | 387 | 
 | 2022-12-27 | 511 | 387 | 
-| 2022-12-26 | 511 | 387 | 
 

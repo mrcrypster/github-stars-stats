@@ -1,10 +1,10 @@
 # iterativv/NostalgiaForInfinity - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 388
 
-★ Stars: 1527
+★ Stars: 1529
 
 [Open repository](https://github.com/iterativv/NostalgiaForInfinity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1529 | 388 | 
 | 2023-01-24 | 1527 | 388 | 
 | 2023-01-23 | 1527 | 388 | 
 | 2023-01-22 | 1524 | 388 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1498 | 378 | 
 | 2022-12-28 | 1498 | 378 | 
 | 2022-12-27 | 1497 | 378 | 
-| 2022-12-26 | 1497 | 377 | 
 

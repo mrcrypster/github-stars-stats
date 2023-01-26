@@ -1,6 +1,6 @@
 # TERITORI/teritori-chain - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 43 | 90 | 
 | 2023-01-24 | 43 | 90 | 
 | 2023-01-23 | 43 | 90 | 
 | 2023-01-22 | 43 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 42 | 90 | 
 | 2022-12-28 | 42 | 90 | 
 | 2022-12-27 | 42 | 90 | 
-| 2022-12-26 | 42 | 90 | 
 

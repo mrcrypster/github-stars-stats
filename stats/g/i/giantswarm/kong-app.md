@@ -1,10 +1,10 @@
 # giantswarm/kong-app - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/giantswarm/kong-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1 | 3 | 
 | 2023-01-24 | - | 3 | 
 | 2023-01-23 | - | 3 | 
 | 2023-01-22 | - | 3 | 

@@ -1,6 +1,6 @@
 # nep-pack/NonlinearEigenproblems.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 85 | 15 | 
 | 2023-01-24 | 85 | 15 | 
 | 2023-01-23 | 85 | 15 | 
 | 2023-01-22 | 85 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 85 | 15 | 
 | 2022-12-28 | 85 | 15 | 
 | 2022-12-27 | 85 | 15 | 
-| 2022-12-26 | 85 | 15 | 
 

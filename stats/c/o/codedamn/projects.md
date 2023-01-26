@@ -1,6 +1,6 @@
 # codedamn/projects - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 110 | 178 | 
 | 2023-01-24 | 110 | 178 | 
 | 2023-01-23 | 110 | 178 | 
 | 2023-01-22 | 110 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 106 | 180 | 
 | 2022-12-28 | 106 | 179 | 
 | 2022-12-27 | 106 | 179 | 
-| 2022-12-26 | 106 | 179 | 
 

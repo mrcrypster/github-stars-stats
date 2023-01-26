@@ -1,10 +1,10 @@
 # Kuingsmile/PicHoro - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 224
+★ Stars: 225
 
 [Open repository](https://github.com/Kuingsmile/PicHoro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 225 | 6 | 
 | 2023-01-24 | 224 | 6 | 
 | 2023-01-23 | 223 | 6 | 
 | 2023-01-22 | 221 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 179 | 4 | 
 | 2022-12-28 | 178 | 4 | 
 | 2022-12-27 | 174 | 4 | 
-| 2022-12-26 | 171 | 4 | 
 

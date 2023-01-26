@@ -1,6 +1,6 @@
 # WTFAcademy/WTFEthers - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1080 | 156 | 
 | 2023-01-24 | 1080 | 156 | 
 | 2023-01-23 | 1079 | 156 | 
 | 2023-01-22 | 1078 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 943 | 137 | 
 | 2022-12-28 | 934 | 137 | 
 | 2022-12-27 | 928 | 137 | 
-| 2022-12-26 | 923 | 137 | 
 

@@ -1,6 +1,6 @@
 # eloialonso/iris - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 523 | 34 | 
 | 2023-01-24 | 523 | 34 | 
 | 2023-01-23 | 523 | 33 | 
 | 2023-01-22 | 522 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 477 | 29 | 
 | 2022-12-28 | 476 | 29 | 
 | 2022-12-27 | 476 | 29 | 
-| 2022-12-26 | 476 | 29 | 
 

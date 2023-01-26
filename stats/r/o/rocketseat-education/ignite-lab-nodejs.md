@@ -1,6 +1,6 @@
 # rocketseat-education/ignite-lab-nodejs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 245 | 93 | 
 | 2023-01-24 | 245 | 93 | 
 | 2023-01-23 | 245 | 93 | 
 | 2023-01-22 | 244 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 230 | 92 | 
 | 2022-12-28 | 228 | 93 | 
 | 2022-12-27 | 227 | 92 | 
-| 2022-12-26 | 227 | 92 | 
 

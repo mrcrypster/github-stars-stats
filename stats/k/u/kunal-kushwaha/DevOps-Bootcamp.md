@@ -1,10 +1,10 @@
 # kunal-kushwaha/DevOps-Bootcamp - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 694
 
-★ Stars: 1474
+★ Stars: 1478
 
 [Open repository](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1478 | 694 | 
 | 2023-01-24 | 1474 | 694 | 
 | 2023-01-23 | 1474 | 693 | 
 | 2023-01-22 | 1472 | 690 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1437 | 669 | 
 | 2022-12-28 | 1438 | 667 | 
 | 2022-12-27 | 1437 | 665 | 
-| 2022-12-26 | 1435 | 663 | 
 

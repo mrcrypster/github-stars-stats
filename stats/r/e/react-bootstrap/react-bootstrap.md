@@ -1,10 +1,10 @@
 # react-bootstrap/react-bootstrap - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3467
 
-★ Stars: 21430
+★ Stars: 21429
 
 [Open repository](https://github.com/react-bootstrap/react-bootstrap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 21429 | 3467 | 
 | 2023-01-24 | 21430 | 3467 | 
 | 2023-01-23 | 21428 | 3467 | 
 | 2023-01-22 | 21427 | 3466 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 21364 | 3458 | 
 | 2022-12-28 | 21357 | 3458 | 
 | 2022-12-27 | 21350 | 3458 | 
-| 2022-12-26 | 21348 | 3459 | 
 

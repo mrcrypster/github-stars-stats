@@ -1,10 +1,10 @@
 # google/sanitizers - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 903
 
-★ Stars: 9235
+★ Stars: 9238
 
 [Open repository](https://github.com/google/sanitizers)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 9238 | 903 | 
 | 2023-01-24 | 9235 | 903 | 
 | 2023-01-23 | 9233 | 903 | 
 | 2023-01-22 | 9232 | 902 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 9161 | 902 | 
 | 2022-12-28 | 9155 | 902 | 
 | 2022-12-27 | 9148 | 901 | 
-| 2022-12-26 | 9147 | 901 | 
 

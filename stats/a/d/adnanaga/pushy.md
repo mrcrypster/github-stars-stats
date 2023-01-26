@@ -1,10 +1,10 @@
 # adnanaga/pushy - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 9
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/adnanaga/pushy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 355 | 9 | 
 | 2023-01-24 | 354 | 9 | 
 | 2023-01-23 | 354 | 9 | 
 | 2023-01-22 | 354 | 9 | 

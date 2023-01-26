@@ -1,10 +1,10 @@
 # appsecco/dvja - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 360
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/appsecco/dvja)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 100 | 360 | 
 | 2023-01-24 | 99 | 360 | 
 | 2023-01-23 | 99 | 360 | 
 | 2023-01-22 | 99 | 360 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 98 | 355 | 
 | 2022-12-28 | 98 | 353 | 
 | 2022-12-27 | 98 | 353 | 
-| 2022-12-26 | 98 | 353 | 
 

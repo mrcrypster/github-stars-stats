@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 25
 
 ☋ Forks: 127
 
-★ Stars: 4003
+★ Stars: 4008
 
 [Open repository](https://github.com/openblocks-dev/openblocks)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 4003 | 127 | 
+| 2023-01-25 | 4008 | 127 | 
 | 2023-01-24 | 3998 | 127 | 
 | 2023-01-23 | 3982 | 126 | 
 | 2023-01-22 | 3964 | 125 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-29 | 3816 | 116 | 
 | 2022-12-28 | 3812 | 116 | 
 | 2022-12-27 | 3805 | 116 | 
-| 2022-12-26 | 3800 | 114 | 
 

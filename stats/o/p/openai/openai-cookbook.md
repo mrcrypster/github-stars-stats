@@ -1,10 +1,10 @@
 # openai/openai-cookbook - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 955
+☋ Forks: 972
 
-★ Stars: 9892
+★ Stars: 9975
 
 [Open repository](https://github.com/openai/openai-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 9975 | 972 | 
 | 2023-01-24 | 9892 | 955 | 
 | 2023-01-23 | 9823 | 950 | 
 | 2023-01-22 | 9535 | 929 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3324 | 377 | 
 | 2022-12-28 | 3251 | 369 | 
 | 2022-12-27 | 3185 | 357 | 
-| 2022-12-26 | 3127 | 343 | 
 

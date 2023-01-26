@@ -1,10 +1,10 @@
 # dengyin2000/dynamic_widget - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 280
 
-★ Stars: 1370
+★ Stars: 1371
 
 [Open repository](https://github.com/dengyin2000/dynamic_widget)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1371 | 280 | 
 | 2023-01-24 | 1370 | 280 | 
 | 2023-01-23 | 1370 | 280 | 
 | 2023-01-22 | 1368 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1357 | 278 | 
 | 2022-12-28 | 1357 | 277 | 
 | 2022-12-27 | 1357 | 276 | 
-| 2022-12-26 | 1355 | 276 | 
 

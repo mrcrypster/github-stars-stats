@@ -1,10 +1,10 @@
 # JujuAdams/Input - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 21
 
-★ Stars: 146
+★ Stars: 145
 
 [Open repository](https://github.com/JujuAdams/Input)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 145 | 21 | 
 | 2023-01-24 | 146 | 21 | 
 | 2023-01-23 | 146 | 21 | 
 | 2023-01-22 | 146 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 143 | 21 | 
 | 2022-12-28 | 143 | 21 | 
 | 2022-12-27 | 143 | 21 | 
-| 2022-12-26 | 143 | 21 | 
 

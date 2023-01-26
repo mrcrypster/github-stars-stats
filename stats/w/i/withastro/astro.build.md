@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 25
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/withastro/astro.build)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 144 | 62 | 
+| 2023-01-25 | 145 | 63 | 
 | 2023-01-24 | 144 | 62 | 
 | 2023-01-23 | 144 | 62 | 
 | 2023-01-22 | 144 | 62 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 135 | 56 | 
 | 2022-12-29 | 135 | 56 | 
 | 2022-12-28 | 135 | 56 | 
-| 2022-12-27 | 135 | 56 | 
 

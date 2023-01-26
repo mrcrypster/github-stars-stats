@@ -1,6 +1,6 @@
 # wordpress-mobile/gutenberg-mobile - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 178 | 56 | 
 | 2023-01-24 | 178 | 56 | 
 | 2023-01-23 | 178 | 56 | 
 | 2023-01-22 | 176 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 174 | 56 | 
 | 2022-12-28 | 173 | 56 | 
 | 2022-12-27 | 173 | 56 | 
-| 2022-12-26 | 172 | 56 | 
 

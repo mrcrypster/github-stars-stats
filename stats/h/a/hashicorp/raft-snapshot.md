@@ -1,6 +1,6 @@
 # hashicorp/raft-snapshot - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 7 | 3 | 
 | 2023-01-24 | 7 | 3 | 
 | 2023-01-23 | 6 | 3 | 
 | 2023-01-22 | 6 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 6 | 2 | 
 | 2022-12-29 | 6 | 2 | 
 | 2022-12-27 | 6 | 2 | 
-| 2022-12-26 | 6 | 2 | 
 

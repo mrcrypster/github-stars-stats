@@ -1,6 +1,6 @@
 # facundoolano/google-play-scraper - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 564
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1878 | 564 | 
 | 2023-01-24 | 1878 | 564 | 
 | 2023-01-23 | 1877 | 563 | 
 | 2023-01-22 | 1877 | 563 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 1868 | 557 | 
 | 2022-12-28 | 1868 | 557 | 
 | 2022-12-27 | 1867 | 557 | 
-| 2022-12-26 | 1866 | 557 | 
 

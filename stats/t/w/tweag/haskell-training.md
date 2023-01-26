@@ -1,10 +1,10 @@
 # tweag/haskell-training - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 5
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/tweag/haskell-training)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 24 | 5 | 
 | 2023-01-24 | 23 | 5 | 
 | 2023-01-23 | 23 | 5 | 
 | 2023-01-22 | 23 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 23 | 5 | 
 | 2022-12-28 | 23 | 5 | 
 | 2022-12-27 | 23 | 5 | 
-| 2022-12-26 | 23 | 5 | 
 

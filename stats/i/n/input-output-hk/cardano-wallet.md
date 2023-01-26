@@ -1,6 +1,6 @@
 # input-output-hk/cardano-wallet - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 696 | 214 | 
 | 2023-01-24 | 696 | 214 | 
 | 2023-01-23 | 696 | 214 | 
 | 2023-01-22 | 696 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 695 | 210 | 
 | 2022-12-28 | 695 | 210 | 
 | 2022-12-27 | 695 | 210 | 
-| 2022-12-26 | 695 | 210 | 
 

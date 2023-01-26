@@ -1,8 +1,8 @@
 # MicrosoftDocs/ml-basics - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1736
+☋ Forks: 1738
 
 ★ Stars: 1334
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1334 | 1738 | 
 | 2023-01-24 | 1334 | 1736 | 
 | 2023-01-23 | 1331 | 1736 | 
 | 2023-01-22 | 1329 | 1732 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1321 | 1702 | 
 | 2022-12-28 | 1320 | 1702 | 
 | 2022-12-27 | 1319 | 1700 | 
-| 2022-12-26 | 1319 | 1699 | 
 

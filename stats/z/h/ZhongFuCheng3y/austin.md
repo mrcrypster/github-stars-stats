@@ -1,6 +1,6 @@
 # ZhongFuCheng3y/austin - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 800
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3008 | 800 | 
 | 2023-01-24 | 3008 | 800 | 
 | 2023-01-23 | 3006 | 800 | 
 | 2023-01-22 | 3005 | 799 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2932 | 783 | 
 | 2022-12-28 | 2929 | 782 | 
 | 2022-12-27 | 2923 | 781 | 
-| 2022-12-26 | 2919 | 779 | 
 

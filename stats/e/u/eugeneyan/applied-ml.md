@@ -1,10 +1,10 @@
 # eugeneyan/applied-ml - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 3143
+☋ Forks: 3144
 
-★ Stars: 22207
+★ Stars: 22218
 
 [Open repository](https://github.com/eugeneyan/applied-ml)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 22218 | 3144 | 
 | 2023-01-24 | 22207 | 3143 | 
 | 2023-01-23 | 22202 | 3140 | 
 | 2023-01-22 | 22194 | 3139 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 22051 | 3114 | 
 | 2022-12-28 | 22046 | 3111 | 
 | 2022-12-27 | 22039 | 3111 | 
-| 2022-12-26 | 22030 | 3109 | 
 

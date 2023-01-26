@@ -1,6 +1,6 @@
 # babashka/fs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 116 | 29 | 
 | 2023-01-24 | 116 | 29 | 
 | 2023-01-23 | 116 | 29 | 
 | 2023-01-22 | 116 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 114 | 27 | 
 | 2022-12-28 | 114 | 27 | 
 | 2022-12-27 | 114 | 27 | 
-| 2022-12-26 | 114 | 27 | 
 

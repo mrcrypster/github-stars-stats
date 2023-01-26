@@ -1,10 +1,10 @@
 # usnistgov/macos_security - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 135
 
-★ Stars: 1053
+★ Stars: 1055
 
 [Open repository](https://github.com/usnistgov/macos_security)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1055 | 135 | 
 | 2023-01-24 | 1053 | 135 | 
 | 2023-01-23 | 1050 | 135 | 
 | 2023-01-22 | 1050 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1022 | 131 | 
 | 2022-12-28 | 1021 | 131 | 
 | 2022-12-27 | 1019 | 130 | 
-| 2022-12-26 | 1019 | 130 | 
 

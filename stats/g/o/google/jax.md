@@ -1,10 +1,10 @@
 # google/jax - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 2030
+☋ Forks: 2032
 
-★ Stars: 21612
+★ Stars: 21618
 
 [Open repository](https://github.com/google/jax)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 21618 | 2032 | 
 | 2023-01-24 | 21612 | 2030 | 
 | 2023-01-23 | 21603 | 2030 | 
 | 2023-01-22 | 21588 | 2028 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 21304 | 1997 | 
 | 2022-12-28 | 21297 | 1996 | 
 | 2022-12-27 | 21287 | 1994 | 
-| 2022-12-26 | 21278 | 1994 | 
 

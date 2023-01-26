@@ -1,10 +1,10 @@
 # ashishb/android-security-awesome - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1387
+☋ Forks: 1386
 
-★ Stars: 6655
+★ Stars: 6658
 
 [Open repository](https://github.com/ashishb/android-security-awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 6658 | 1386 | 
 | 2023-01-24 | 6655 | 1387 | 
 | 2023-01-23 | 6651 | 1387 | 
 | 2023-01-22 | 6651 | 1389 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 6590 | 1387 | 
 | 2022-12-28 | 6589 | 1389 | 
 | 2022-12-27 | 6587 | 1389 | 
-| 2022-12-26 | 6584 | 1389 | 
 

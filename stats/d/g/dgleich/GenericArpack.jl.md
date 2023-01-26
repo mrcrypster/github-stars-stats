@@ -1,10 +1,10 @@
 # dgleich/GenericArpack.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/dgleich/GenericArpack.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 21 | 1 | 
 | 2023-01-24 | 19 | - | 
 | 2023-01-23 | 19 | - | 
 | 2023-01-22 | 19 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 19 | - | 
 | 2022-12-28 | 19 | - | 
 | 2022-12-27 | 19 | - | 
-| 2022-12-26 | 19 | - | 
 

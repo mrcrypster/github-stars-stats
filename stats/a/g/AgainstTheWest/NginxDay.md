@@ -1,10 +1,10 @@
 # AgainstTheWest/NginxDay - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 32
 
-★ Stars: 363
+★ Stars: 364
 
 [Open repository](https://github.com/AgainstTheWest/NginxDay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 364 | 32 | 
 | 2023-01-24 | 363 | 32 | 
 | 2023-01-23 | 363 | 32 | 
 | 2023-01-21 | 363 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 363 | 32 | 
 | 2022-12-29 | 363 | 32 | 
 | 2022-12-28 | 363 | 32 | 
-| 2022-12-26 | 363 | 32 | 
 

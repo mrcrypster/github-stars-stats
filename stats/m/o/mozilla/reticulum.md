@@ -1,6 +1,6 @@
 # mozilla/reticulum - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 397 | 140 | 
 | 2023-01-24 | 397 | 140 | 
 | 2023-01-23 | 397 | 139 | 
 | 2023-01-22 | 397 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 393 | 136 | 
 | 2022-12-28 | 393 | 136 | 
 | 2022-12-27 | 393 | 136 | 
-| 2022-12-26 | 393 | 136 | 
 

@@ -1,10 +1,10 @@
 # tuyafeng/Via - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 278
 
-★ Stars: 1833
+★ Stars: 1834
 
 [Open repository](https://github.com/tuyafeng/Via)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1834 | 278 | 
 | 2023-01-24 | 1833 | 278 | 
 | 2023-01-23 | 1833 | 278 | 
 | 2023-01-21 | 1833 | 278 | 

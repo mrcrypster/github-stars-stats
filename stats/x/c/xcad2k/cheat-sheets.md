@@ -1,10 +1,10 @@
 # xcad2k/cheat-sheets - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 807
+☋ Forks: 809
 
-★ Stars: 2312
+★ Stars: 2322
 
 [Open repository](https://github.com/xcad2k/cheat-sheets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 2322 | 809 | 
 | 2023-01-24 | 2312 | 807 | 
 | 2023-01-23 | 2306 | 806 | 
 | 2023-01-22 | 2295 | 804 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2189 | 752 | 
 | 2022-12-28 | 2181 | 751 | 
 | 2022-12-27 | 2175 | 750 | 
-| 2022-12-26 | 2172 | 750 | 
 

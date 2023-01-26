@@ -1,10 +1,10 @@
 # SFSafeSymbols/SFSafeSymbols - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 51
 
-★ Stars: 1304
+★ Stars: 1305
 
 [Open repository](https://github.com/SFSafeSymbols/SFSafeSymbols)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1305 | 51 | 
 | 2023-01-24 | 1304 | 51 | 
 | 2023-01-23 | 1304 | 51 | 
 | 2023-01-22 | 1301 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 1277 | 51 | 
 | 2022-12-28 | 1277 | 51 | 
 | 2022-12-27 | 1277 | 51 | 
-| 2022-12-26 | 1275 | 51 | 
 

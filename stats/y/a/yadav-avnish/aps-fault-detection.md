@@ -1,6 +1,6 @@
 # yadav-avnish/aps-fault-detection - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 27 | 118 | 
 | 2023-01-24 | 27 | 118 | 
 | 2023-01-23 | 27 | 117 | 
 | 2023-01-22 | 27 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 24 | 107 | 
 | 2022-12-28 | 24 | 107 | 
 | 2022-12-27 | 23 | 107 | 
-| 2022-12-26 | 23 | 108 | 
 

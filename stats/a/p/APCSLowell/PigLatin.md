@@ -1,8 +1,8 @@
 # APCSLowell/PigLatin - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
-☋ Forks: 849
+☋ Forks: 851
 
 ★ Stars: 3
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3 | 851 | 
+| 2023-01-25 | 3 | 851 | 
 | 2023-01-24 | 3 | 849 | 
 | 2023-01-23 | 3 | 849 | 
 | 2023-01-22 | 3 | 849 | 

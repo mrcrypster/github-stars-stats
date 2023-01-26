@@ -1,6 +1,6 @@
 # thautwarm/DevOnly.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 16 | - | 
 | 2023-01-24 | 16 | - | 
 | 2023-01-23 | 16 | - | 
 | 2023-01-22 | 16 | - | 

@@ -1,8 +1,8 @@
 # CrunchyData/postgres-operator-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 2692
+☋ Forks: 2706
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 116 | 2706 | 
 | 2023-01-24 | 116 | 2692 | 
 | 2023-01-23 | 116 | 2692 | 
 | 2023-01-22 | 116 | 2690 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 112 | 2606 | 
 | 2022-12-28 | 112 | 2604 | 
 | 2022-12-27 | 112 | 2601 | 
-| 2022-12-26 | 112 | 2595 | 
 

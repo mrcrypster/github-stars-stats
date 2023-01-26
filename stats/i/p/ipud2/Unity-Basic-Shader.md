@@ -1,6 +1,6 @@
 # ipud2/Unity-Basic-Shader - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 475 | 179 | 
 | 2023-01-24 | 475 | 179 | 
 | 2023-01-23 | 475 | 179 | 
 | 2023-01-22 | 475 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 472 | 176 | 
 | 2022-12-28 | 472 | 176 | 
 | 2022-12-27 | 471 | 176 | 
-| 2022-12-26 | 469 | 176 | 
 

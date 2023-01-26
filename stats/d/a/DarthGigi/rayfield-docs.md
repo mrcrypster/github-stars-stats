@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 25
 
 ☋ Forks: 13
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/DarthGigi/rayfield-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 3 | 13 | 
+| 2023-01-25 | 4 | 13 | 
 | 2023-01-24 | 3 | 13 | 
 | 2023-01-23 | 3 | 13 | 
 | 2023-01-22 | 3 | 11 | 

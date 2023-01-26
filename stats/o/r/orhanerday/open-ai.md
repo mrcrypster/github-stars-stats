@@ -1,10 +1,10 @@
 # orhanerday/open-ai - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 614
+★ Stars: 619
 
 [Open repository](https://github.com/orhanerday/open-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 619 | 77 | 
 | 2023-01-24 | 614 | 76 | 
 | 2023-01-23 | 608 | 75 | 
 | 2023-01-22 | 602 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 441 | 54 | 
 | 2022-12-28 | 440 | 54 | 
 | 2022-12-27 | 433 | 54 | 
-| 2022-12-26 | 430 | 54 | 
 

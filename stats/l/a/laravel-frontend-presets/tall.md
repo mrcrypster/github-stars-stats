@@ -1,10 +1,10 @@
 # laravel-frontend-presets/tall - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 161
 
-★ Stars: 1800
+★ Stars: 1801
 
 [Open repository](https://github.com/laravel-frontend-presets/tall)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1801 | 161 | 
 | 2023-01-24 | 1800 | 161 | 
 | 2023-01-23 | 1800 | 161 | 
 | 2023-01-22 | 1799 | 161 | 

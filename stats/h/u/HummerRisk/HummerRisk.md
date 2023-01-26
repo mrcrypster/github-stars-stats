@@ -1,6 +1,6 @@
 # HummerRisk/HummerRisk - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 1072 | 219 | 
 | 2023-01-24 | 1072 | 219 | 
 | 2023-01-23 | 1072 | 219 | 
 | 2023-01-22 | 1072 | 219 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 1056 | 218 | 
 | 2022-12-29 | 1055 | 218 | 
 | 2022-12-28 | 1054 | 218 | 
-| 2022-12-27 | 1053 | 218 | 
 

@@ -1,6 +1,6 @@
 # TheDatumOrg/TSDistEval - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 44 | 48 | 
 | 2023-01-24 | 44 | 48 | 
 | 2023-01-23 | 44 | 48 | 
 | 2023-01-22 | 44 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 45 | 49 | 
 | 2022-12-28 | 45 | 49 | 
 | 2022-12-27 | 45 | 49 | 
-| 2022-12-26 | 45 | 49 | 
 

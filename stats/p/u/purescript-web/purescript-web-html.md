@@ -1,10 +1,10 @@
 # purescript-web/purescript-web-html - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 23
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/purescript-web/purescript-web-html)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 31 | 23 | 
 | 2023-01-24 | 30 | 23 | 
 | 2023-01-23 | 30 | 23 | 
 | 2023-01-22 | 30 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 30 | 23 | 
 | 2022-12-28 | 30 | 23 | 
 | 2022-12-27 | 30 | 23 | 
-| 2022-12-26 | 30 | 23 | 
 

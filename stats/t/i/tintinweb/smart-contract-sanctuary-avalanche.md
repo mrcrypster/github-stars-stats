@@ -1,6 +1,6 @@
 # tintinweb/smart-contract-sanctuary-avalanche - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 21 | 7 | 
 | 2023-01-24 | 21 | 7 | 
 | 2023-01-23 | 21 | 7 | 
 | 2023-01-22 | 21 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 20 | 6 | 
 | 2022-12-28 | 20 | 6 | 
 | 2022-12-27 | 20 | 6 | 
-| 2022-12-26 | 20 | 6 | 
 

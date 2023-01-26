@@ -1,10 +1,10 @@
 # cross-rs/cross - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 268
 
-★ Stars: 4078
+★ Stars: 4084
 
 [Open repository](https://github.com/cross-rs/cross)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4084 | 268 | 
 | 2023-01-24 | 4078 | 268 | 
 | 2023-01-23 | 4078 | 268 | 
 | 2023-01-22 | 4076 | 268 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 3979 | 264 | 
 | 2022-12-28 | 3977 | 263 | 
 | 2022-12-27 | 3972 | 263 | 
-| 2022-12-26 | 3970 | 263 | 
 

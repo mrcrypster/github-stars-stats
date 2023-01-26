@@ -1,8 +1,8 @@
 # adityathakurxd/flutter-portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 45 | 34 | 
 | 2023-01-25 | 45 | 33 | 
 | 2023-01-23 | 45 | 33 | 
 | 2023-01-22 | 45 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 44 | 29 | 
 | 2022-12-29 | 44 | 29 | 
 | 2022-12-28 | 44 | 29 | 
-| 2022-12-27 | 43 | 29 | 
 

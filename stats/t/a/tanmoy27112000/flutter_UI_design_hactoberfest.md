@@ -1,6 +1,6 @@
 # tanmoy27112000/flutter_UI_design_hactoberfest - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 55 | 57 | 
 | 2023-01-24 | 55 | 57 | 
 | 2023-01-23 | 55 | 57 | 
 | 2023-01-22 | 55 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 56 | 57 | 
 | 2022-12-28 | 56 | 57 | 
 | 2022-12-27 | 56 | 57 | 
-| 2022-12-26 | 56 | 57 | 
 

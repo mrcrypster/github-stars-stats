@@ -1,10 +1,10 @@
 # render-examples/adminer - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 27
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/render-examples/adminer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 3 | 27 | 
 | 2023-01-24 | 2 | 27 | 
 | 2023-01-23 | 2 | 26 | 
 | 2023-01-22 | 2 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 2 | 24 | 
 | 2022-12-28 | 2 | 24 | 
 | 2022-12-27 | 2 | 24 | 
-| 2022-12-26 | 2 | 24 | 
 

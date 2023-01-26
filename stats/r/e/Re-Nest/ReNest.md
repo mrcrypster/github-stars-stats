@@ -1,10 +1,10 @@
 # Re-Nest/ReNest - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 7
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/Re-Nest/ReNest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 131 | 7 | 
 | 2023-01-24 | 130 | 7 | 
 | 2023-01-23 | 130 | 7 | 
 | 2023-01-22 | 130 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 132 | 7 | 
 | 2022-12-28 | 132 | 7 | 
 | 2022-12-27 | 132 | 7 | 
-| 2022-12-26 | 132 | 7 | 
 

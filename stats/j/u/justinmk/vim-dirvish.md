@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 25
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 1091
+★ Stars: 1093
 
 [Open repository](https://github.com/justinmk/vim-dirvish)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 1091 | 61 | 
+| 2023-01-25 | 1093 | 62 | 
 | 2023-01-24 | 1091 | 61 | 
 | 2023-01-23 | 1090 | 62 | 
 | 2023-01-22 | 1090 | 62 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-29 | 1086 | 60 | 
 | 2022-12-28 | 1086 | 60 | 
 | 2022-12-27 | 1086 | 60 | 
-| 2022-12-26 | 1086 | 60 | 
 

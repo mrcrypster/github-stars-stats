@@ -1,10 +1,10 @@
 # OffcierCia/Crypto-OpSec-SelfGuard-RoadMap - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 739
+★ Stars: 740
 
 [Open repository](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 740 | 72 | 
 | 2023-01-24 | 739 | 71 | 
 | 2023-01-23 | 734 | 70 | 
 | 2023-01-22 | 727 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 656 | 62 | 
 | 2022-12-28 | 652 | 62 | 
 | 2022-12-27 | 649 | 62 | 
-| 2022-12-26 | 637 | 61 | 
 

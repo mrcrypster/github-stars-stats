@@ -1,6 +1,6 @@
 # skeeto/emacs-memoize - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 45 | 14 | 
 | 2023-01-24 | 45 | 14 | 
 | 2023-01-23 | 45 | 14 | 
 | 2023-01-22 | 45 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 45 | 14 | 
 | 2022-12-28 | 44 | 14 | 
 | 2022-12-27 | 44 | 14 | 
-| 2022-12-26 | 44 | 14 | 
 

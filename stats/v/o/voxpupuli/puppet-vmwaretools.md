@@ -1,8 +1,8 @@
 # voxpupuli/puppet-vmwaretools - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 34 | 45 | 
 | 2023-01-24 | 34 | 44 | 
 | 2023-01-23 | 34 | 44 | 
 | 2023-01-22 | 34 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 34 | 44 | 
 | 2022-12-28 | 34 | 44 | 
 | 2022-12-27 | 34 | 44 | 
-| 2022-12-26 | 34 | 44 | 
 

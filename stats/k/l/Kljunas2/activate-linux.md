@@ -1,10 +1,10 @@
 # Kljunas2/activate-linux - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/Kljunas2/activate-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 85 | 6 | 
 | 2023-01-24 | 84 | 6 | 
 | 2023-01-23 | 84 | 6 | 
 | 2023-01-22 | 84 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 84 | 6 | 
 | 2022-12-28 | 84 | 6 | 
 | 2022-12-27 | 84 | 6 | 
-| 2022-12-26 | 84 | 6 | 
 

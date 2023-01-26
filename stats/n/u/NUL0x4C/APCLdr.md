@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 25
 
 ☋ Forks: 30
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/NUL0x4C/APCLdr)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-25 | 171 | 30 | 
+| 2023-01-25 | 172 | 30 | 
 | 2023-01-24 | 169 | 30 | 
 | 2023-01-23 | 155 | 26 | 
 

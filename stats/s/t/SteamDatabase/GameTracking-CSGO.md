@@ -1,10 +1,10 @@
 # SteamDatabase/GameTracking-CSGO - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 94
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/SteamDatabase/GameTracking-CSGO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 422 | 94 | 
 | 2023-01-24 | 421 | 94 | 
 | 2023-01-23 | 421 | 93 | 
 | 2023-01-22 | 421 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 421 | 94 | 
 | 2022-12-28 | 420 | 94 | 
 | 2022-12-27 | 420 | 94 | 
-| 2022-12-26 | 420 | 94 | 
 

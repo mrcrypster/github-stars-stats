@@ -1,8 +1,8 @@
 # BohemiaInteractive/DayZ-Central-Economy - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 324
+☋ Forks: 325
 
 ★ Stars: 153
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 153 | 325 | 
 | 2023-01-24 | 153 | 324 | 
 | 2023-01-23 | 153 | 323 | 
 | 2023-01-22 | 153 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 151 | 313 | 
 | 2022-12-28 | 151 | 312 | 
 | 2022-12-27 | 151 | 312 | 
-| 2022-12-26 | 150 | 312 | 
 

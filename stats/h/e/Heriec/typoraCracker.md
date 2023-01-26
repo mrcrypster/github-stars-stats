@@ -1,6 +1,6 @@
 # Heriec/typoraCracker - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 91 | 51 | 
 | 2023-01-24 | 91 | 51 | 
 | 2023-01-23 | 91 | 51 | 
 | 2023-01-22 | 92 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 88 | 48 | 
 | 2022-12-28 | 88 | 48 | 
 | 2022-12-27 | 88 | 48 | 
-| 2022-12-26 | 88 | 48 | 
 

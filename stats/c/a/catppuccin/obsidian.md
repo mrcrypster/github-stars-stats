@@ -1,10 +1,10 @@
 # catppuccin/obsidian - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/catppuccin/obsidian)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 123 | 4 | 
 | 2023-01-24 | 122 | 4 | 
 | 2023-01-23 | 121 | 4 | 
 | 2023-01-22 | 121 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 112 | 5 | 
 | 2022-12-28 | 112 | 5 | 
 | 2022-12-27 | 112 | 4 | 
-| 2022-12-26 | 112 | 4 | 
 

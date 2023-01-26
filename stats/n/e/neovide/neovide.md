@@ -1,6 +1,6 @@
 # neovide/neovide - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 367
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 9432 | 367 | 
 | 2023-01-24 | 9432 | 367 | 
 | 2023-01-23 | 9429 | 367 | 
 | 2023-01-22 | 9426 | 367 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 9268 | 359 | 
 | 2022-12-28 | 9255 | 359 | 
 | 2022-12-27 | 9248 | 359 | 
-| 2022-12-26 | 9242 | 359 | 
 

@@ -1,10 +1,10 @@
 # nornagon/jonesforth - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 115
 
-★ Stars: 832
+★ Stars: 833
 
 [Open repository](https://github.com/nornagon/jonesforth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 833 | 115 | 
 | 2023-01-24 | 832 | 115 | 
 | 2023-01-23 | 832 | 115 | 
 | 2023-01-22 | 832 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 773 | 109 | 
 | 2022-12-28 | 773 | 109 | 
 | 2022-12-27 | 773 | 109 | 
-| 2022-12-26 | 773 | 109 | 
 

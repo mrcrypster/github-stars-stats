@@ -1,6 +1,6 @@
 # jap-company/fields - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 38 | 3 | 
 | 2023-01-24 | 38 | 3 | 
 | 2023-01-23 | 38 | 3 | 
 | 2023-01-21 | 38 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 37 | 3 | 
 | 2022-12-29 | 37 | 3 | 
 | 2022-12-28 | 37 | 3 | 
-| 2022-12-27 | 37 | 3 | 
 

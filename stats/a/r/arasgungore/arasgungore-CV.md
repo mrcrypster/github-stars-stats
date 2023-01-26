@@ -1,8 +1,8 @@
 # arasgungore/arasgungore-CV - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 100 | 45 | 
 | 2023-01-24 | 100 | 44 | 
 | 2023-01-23 | 100 | 44 | 
 | 2023-01-21 | 99 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 97 | 41 | 
 | 2022-12-28 | 95 | 41 | 
 | 2022-12-27 | 95 | 40 | 
-| 2022-12-26 | 94 | 39 | 
 

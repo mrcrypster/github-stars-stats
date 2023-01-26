@@ -1,10 +1,10 @@
 # ParanoidUser/codewars-handbook - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 23
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/ParanoidUser/codewars-handbook)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 131 | 23 | 
 | 2023-01-24 | 130 | 23 | 
 

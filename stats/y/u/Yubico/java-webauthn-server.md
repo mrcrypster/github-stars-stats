@@ -1,6 +1,6 @@
 # Yubico/java-webauthn-server - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 310 | 112 | 
 | 2023-01-24 | 310 | 112 | 
 | 2023-01-23 | 309 | 112 | 
 | 2023-01-22 | 309 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 302 | 113 | 
 | 2022-12-28 | 302 | 113 | 
 | 2022-12-27 | 302 | 113 | 
-| 2022-12-26 | 302 | 113 | 
 

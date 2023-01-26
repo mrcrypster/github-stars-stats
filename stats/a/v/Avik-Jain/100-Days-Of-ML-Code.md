@@ -1,10 +1,10 @@
 # Avik-Jain/100-Days-Of-ML-Code - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 9850
+☋ Forks: 9854
 
-★ Stars: 39497
+★ Stars: 39519
 
 [Open repository](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 39519 | 9854 | 
 | 2023-01-24 | 39497 | 9850 | 
 | 2023-01-23 | 39494 | 9848 | 
 | 2023-01-22 | 39488 | 9844 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 39285 | 9802 | 
 | 2022-12-28 | 39277 | 9801 | 
 | 2022-12-27 | 39272 | 9798 | 
-| 2022-12-26 | 39260 | 9797 | 
 

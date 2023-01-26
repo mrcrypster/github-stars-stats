@@ -1,6 +1,6 @@
 # maitria/gambit-objc - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 44 | 3 | 
 | 2023-01-24 | 44 | 3 | 
 | 2023-01-23 | 44 | 3 | 
 | 2023-01-22 | 44 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 44 | 3 | 
 | 2022-12-28 | 44 | 3 | 
 | 2022-12-27 | 44 | 3 | 
-| 2022-12-26 | 44 | 3 | 
 

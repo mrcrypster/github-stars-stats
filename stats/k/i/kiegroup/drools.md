@@ -1,8 +1,8 @@
 # kiegroup/drools - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 2335
+☋ Forks: 2336
 
 ★ Stars: 4907
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 4907 | 2336 | 
 | 2023-01-24 | 4907 | 2335 | 
 | 2023-01-23 | 4905 | 2334 | 
 | 2023-01-22 | 4904 | 2332 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 4879 | 2322 | 
 | 2022-12-28 | 4879 | 2322 | 
 | 2022-12-27 | 4878 | 2322 | 
-| 2022-12-26 | 4876 | 2322 | 
 

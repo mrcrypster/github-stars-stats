@@ -1,10 +1,10 @@
 # nuxt-themes/typography - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/nuxt-themes/typography)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 84 | 3 | 
 | 2023-01-24 | 83 | 3 | 
 | 2023-01-23 | 82 | 3 | 
 | 2023-01-22 | 82 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 74 | 3 | 
 | 2022-12-28 | 74 | 2 | 
 | 2022-12-27 | 74 | 2 | 
-| 2022-12-26 | 72 | 2 | 
 

@@ -1,10 +1,10 @@
 # tomhrr/cosh - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/tomhrr/cosh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 74 | 2 | 
 | 2023-01-24 | 73 | 1 | 
 | 2023-01-23 | 73 | 1 | 
 | 2023-01-22 | 74 | 1 | 

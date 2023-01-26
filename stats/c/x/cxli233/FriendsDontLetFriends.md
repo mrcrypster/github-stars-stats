@@ -1,10 +1,10 @@
 # cxli233/FriendsDontLetFriends - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 686
+★ Stars: 688
 
 [Open repository](https://github.com/cxli233/FriendsDontLetFriends)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 688 | 26 | 
 | 2023-01-24 | 686 | 25 | 
 | 2023-01-23 | 686 | 25 | 
 | 2023-01-22 | 686 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 496 | 19 | 
 | 2022-12-28 | 494 | 19 | 
 | 2022-12-27 | 490 | 19 | 
-| 2022-12-26 | 485 | 19 | 
 

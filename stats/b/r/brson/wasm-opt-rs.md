@@ -1,6 +1,6 @@
 # brson/wasm-opt-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 18 | 5 | 
 | 2023-01-24 | 18 | 5 | 
 | 2023-01-23 | 18 | 5 | 
 | 2023-01-22 | 17 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-30 | 16 | 5 | 
 | 2022-12-29 | 16 | 5 | 
 | 2022-12-28 | 16 | 5 | 
-| 2022-12-27 | 16 | 5 | 
 

@@ -1,10 +1,10 @@
 # lassekongo83/adw-gtk3 - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 872
+★ Stars: 874
 
 [Open repository](https://github.com/lassekongo83/adw-gtk3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 874 | 38 | 
 | 2023-01-24 | 872 | 37 | 
 | 2023-01-23 | 871 | 36 | 
 | 2023-01-22 | 868 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 24
 | 2022-12-29 | 837 | 34 | 
 | 2022-12-28 | 835 | 34 | 
 | 2022-12-27 | 833 | 34 | 
-| 2022-12-26 | 832 | 34 | 
 

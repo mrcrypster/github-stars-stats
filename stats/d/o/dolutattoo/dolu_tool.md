@@ -1,10 +1,10 @@
 # dolutattoo/dolu_tool - stars & forks statistics
 
-Stats updated on Jan 2023, 24
+Stats updated on Jan 2023, 25
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 55
+★ Stars: 57
 
 [Open repository](https://github.com/dolutattoo/dolu_tool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-25 | 57 | 30 | 
 | 2023-01-24 | 55 | 28 | 
 | 2023-01-23 | 53 | 26 | 
 | 2023-01-22 | 51 | 24 | 
