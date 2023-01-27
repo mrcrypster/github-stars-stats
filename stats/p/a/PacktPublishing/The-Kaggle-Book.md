@@ -1,10 +1,10 @@
 # PacktPublishing/The-Kaggle-Book - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
-☋ Forks: 354
+☋ Forks: 355
 
-★ Stars: 1589
+★ Stars: 1590
 
 [Open repository](https://github.com/PacktPublishing/The-Kaggle-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1590 | 355 | 
 | 2023-01-25 | 1589 | 354 | 
 | 2023-01-24 | 1587 | 352 | 
 | 2023-01-23 | 1583 | 352 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1548 | 346 | 
 | 2022-12-29 | 1547 | 345 | 
 | 2022-12-28 | 1545 | 345 | 
-| 2022-12-27 | 1544 | 346 | 
 

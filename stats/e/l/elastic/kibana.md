@@ -1,6 +1,6 @@
 # elastic/kibana - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7564
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 18173 | 7564 | 
 | 2023-01-25 | 18173 | 7564 | 
 | 2023-01-24 | 18172 | 7562 | 
 | 2023-01-23 | 18172 | 7561 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 18115 | 7545 | 
 | 2022-12-29 | 18113 | 7545 | 
 | 2022-12-28 | 18111 | 7543 | 
-| 2022-12-27 | 18108 | 7540 | 
 

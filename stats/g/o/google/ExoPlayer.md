@@ -1,10 +1,10 @@
 # google/ExoPlayer - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 5869
+☋ Forks: 5871
 
-★ Stars: 20302
+★ Stars: 20306
 
 [Open repository](https://github.com/google/ExoPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 20306 | 5871 | 
 | 2023-01-25 | 20302 | 5869 | 
 | 2023-01-24 | 20301 | 5870 | 
 | 2023-01-23 | 20295 | 5870 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 20232 | 5853 | 
 | 2022-12-29 | 20230 | 5853 | 
 | 2022-12-28 | 20227 | 5851 | 
-| 2022-12-27 | 20219 | 5851 | 
 

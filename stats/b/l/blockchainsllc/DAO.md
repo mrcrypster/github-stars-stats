@@ -1,8 +1,8 @@
 # blockchainsllc/DAO - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 479
+☋ Forks: 478
 
 ★ Stars: 1479
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1479 | 478 | 
 | 2023-01-25 | 1479 | 479 | 
 | 2023-01-24 | 1479 | 479 | 
 | 2023-01-23 | 1479 | 479 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1466 | 473 | 
 | 2022-12-29 | 1465 | 473 | 
 | 2022-12-28 | 1465 | 473 | 
-| 2022-12-27 | 1465 | 473 | 
 

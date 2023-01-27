@@ -1,10 +1,10 @@
 # bjw-s/home-ops - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 29
 
-★ Stars: 238
+★ Stars: 240
 
 [Open repository](https://github.com/bjw-s/home-ops)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 240 | 29 | 
 | 2023-01-25 | 238 | 29 | 
 | 2023-01-24 | 236 | 29 | 
 | 2023-01-23 | 233 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 222 | 27 | 
 | 2022-12-29 | 220 | 27 | 
 | 2022-12-28 | 219 | 27 | 
-| 2022-12-27 | 219 | 27 | 
 

@@ -1,6 +1,6 @@
 # ros-perception/pcl_msgs - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5 | 21 | 
 | 2023-01-25 | 5 | 21 | 
 | 2023-01-24 | 5 | 21 | 
 | 2023-01-23 | 5 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5 | 21 | 
 | 2022-12-29 | 5 | 21 | 
 | 2022-12-28 | 5 | 21 | 
-| 2022-12-27 | 5 | 21 | 
 

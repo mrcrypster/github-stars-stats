@@ -1,10 +1,10 @@
 # co-log/co-log - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 48
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/co-log/co-log)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 243 | 48 | 
 | 2023-01-25 | 242 | 48 | 
 | 2023-01-24 | 242 | 48 | 
 | 2023-01-23 | 242 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 241 | 49 | 
 | 2022-12-30 | 241 | 49 | 
 | 2022-12-28 | 241 | 49 | 
-| 2022-12-27 | 241 | 49 | 
 

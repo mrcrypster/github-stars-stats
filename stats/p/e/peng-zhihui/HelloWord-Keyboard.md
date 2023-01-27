@@ -1,6 +1,6 @@
 # peng-zhihui/HelloWord-Keyboard - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 740
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4558 | 740 | 
 | 2023-01-25 | 4558 | 740 | 
 | 2023-01-24 | 4554 | 739 | 
 | 2023-01-23 | 4551 | 738 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4488 | 718 | 
 | 2022-12-29 | 4474 | 717 | 
 | 2022-12-28 | 4468 | 717 | 
-| 2022-12-27 | 4457 | 716 | 
 

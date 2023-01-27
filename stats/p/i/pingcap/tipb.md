@@ -1,6 +1,6 @@
 # pingcap/tipb - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 89 | 131 | 
 | 2023-01-25 | 89 | 131 | 
 | 2023-01-24 | 89 | 131 | 
 | 2023-01-23 | 89 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 89 | 130 | 
 | 2022-12-29 | 89 | 130 | 
 | 2022-12-28 | 89 | 130 | 
-| 2022-12-27 | 89 | 130 | 
 

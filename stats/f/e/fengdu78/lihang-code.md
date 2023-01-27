@@ -1,10 +1,10 @@
 # fengdu78/lihang-code - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5935
 
-★ Stars: 16398
+★ Stars: 16399
 
 [Open repository](https://github.com/fengdu78/lihang-code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 16399 | 5935 | 
 | 2023-01-25 | 16398 | 5935 | 
 | 2023-01-24 | 16396 | 5935 | 
 | 2023-01-23 | 16395 | 5934 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 16347 | 5924 | 
 | 2022-12-29 | 16345 | 5924 | 
 | 2022-12-28 | 16346 | 5923 | 
-| 2022-12-27 | 16348 | 5923 | 
 

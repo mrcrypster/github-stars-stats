@@ -1,10 +1,10 @@
 # stnolting/neorv32-verilog - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/stnolting/neorv32-verilog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 24 | 5 | 
 | 2023-01-25 | 23 | 5 | 
 | 2023-01-24 | 23 | 5 | 
 | 2023-01-23 | 23 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 22 | 5 | 
 | 2022-12-29 | 22 | 5 | 
 | 2022-12-28 | 22 | 5 | 
-| 2022-12-27 | 22 | 5 | 
 

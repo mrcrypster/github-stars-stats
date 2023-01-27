@@ -1,6 +1,6 @@
 # bohonghuang/cl-gtk4 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 124 | 4 | 
 | 2023-01-25 | 124 | 4 | 
 | 2023-01-24 | 124 | 4 | 
 | 2023-01-23 | 124 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 117 | 4 | 
 | 2022-12-29 | 117 | 4 | 
 | 2022-12-28 | 117 | 4 | 
-| 2022-12-27 | 117 | 4 | 
 

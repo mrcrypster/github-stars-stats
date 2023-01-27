@@ -1,10 +1,10 @@
 # beefyfinance/beefy-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 127
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/beefyfinance/beefy-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 115 | 127 | 
 | 2023-01-25 | 114 | 127 | 
 | 2023-01-24 | 114 | 127 | 
 | 2023-01-23 | 114 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 110 | 125 | 
 | 2022-12-29 | 110 | 125 | 
 | 2022-12-28 | 109 | 125 | 
-| 2022-12-27 | 109 | 124 | 
 

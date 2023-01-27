@@ -1,6 +1,6 @@
 # trevermock/save-load-system - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 30 | 19 | 
 | 2023-01-25 | 30 | 19 | 
 | 2023-01-24 | 30 | 19 | 
 | 2023-01-23 | 30 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 26 | 17 | 
 | 2022-12-29 | 26 | 17 | 
 | 2022-12-28 | 25 | 16 | 
-| 2022-12-27 | 25 | 16 | 
 

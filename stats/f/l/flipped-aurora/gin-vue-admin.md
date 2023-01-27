@@ -1,10 +1,10 @@
 # flipped-aurora/gin-vue-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 4658
+☋ Forks: 4659
 
-★ Stars: 15630
+★ Stars: 15632
 
 [Open repository](https://github.com/flipped-aurora/gin-vue-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 15632 | 4659 | 
 | 2023-01-25 | 15630 | 4658 | 
 | 2023-01-24 | 15627 | 4657 | 
 | 2023-01-23 | 15623 | 4656 | 

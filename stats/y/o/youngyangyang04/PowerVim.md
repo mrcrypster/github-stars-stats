@@ -1,6 +1,6 @@
 # youngyangyang04/PowerVim - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 903 | 168 | 
 | 2023-01-25 | 903 | 168 | 
 | 2023-01-24 | 901 | 168 | 
 | 2023-01-23 | 901 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 868 | 163 | 
 | 2022-12-29 | 868 | 162 | 
 | 2022-12-28 | 868 | 162 | 
-| 2022-12-27 | 867 | 162 | 
 

@@ -1,6 +1,6 @@
 # ihub-pub/plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 289 | 6 | 
 | 2023-01-25 | 289 | 6 | 
 | 2023-01-24 | 288 | 6 | 
 | 2023-01-23 | 288 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 247 | 6 | 
 | 2022-12-29 | 248 | 6 | 
 | 2022-12-28 | 249 | 6 | 
-| 2022-12-27 | 248 | 6 | 
 

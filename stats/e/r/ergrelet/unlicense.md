@@ -1,6 +1,6 @@
 # ergrelet/unlicense - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 514 | 105 | 
 | 2023-01-25 | 514 | 105 | 
 | 2023-01-24 | 514 | 105 | 
 | 2023-01-23 | 514 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 483 | 102 | 
 | 2022-12-29 | 483 | 102 | 
 | 2022-12-28 | 483 | 102 | 
-| 2022-12-27 | 484 | 100 | 
 

@@ -1,10 +1,10 @@
 # smartcontractkit/foundry-starter-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 40
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/smartcontractkit/foundry-starter-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 182 | 40 | 
 | 2023-01-25 | 181 | 40 | 
 | 2023-01-24 | 180 | 40 | 
 | 2023-01-23 | 180 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 170 | 36 | 
 | 2022-12-29 | 170 | 36 | 
 | 2022-12-28 | 170 | 36 | 
-| 2022-12-27 | 170 | 36 | 
 

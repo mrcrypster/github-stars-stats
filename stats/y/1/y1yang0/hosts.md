@@ -1,8 +1,8 @@
 # y1yang0/hosts - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 7631
+☋ Forks: 7632
 
 ★ Stars: 16572
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 16572 | 7632 | 
 | 2023-01-25 | 16572 | 7631 | 
 | 2023-01-24 | 16572 | 7631 | 
 | 2023-01-23 | 16573 | 7631 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 16585 | 7639 | 
 | 2022-12-29 | 16585 | 7639 | 
 | 2022-12-28 | 16584 | 7639 | 
-| 2022-12-27 | 16583 | 7639 | 
 

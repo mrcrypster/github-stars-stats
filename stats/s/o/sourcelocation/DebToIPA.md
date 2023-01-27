@@ -1,6 +1,6 @@
 # sourcelocation/DebToIPA - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 255 | 17 | 
 | 2023-01-26 | 255 | 17 | 
 | 2023-01-25 | 255 | 16 | 
 | 2023-01-23 | 255 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 248 | 13 | 
 | 2022-12-30 | 247 | 13 | 
 | 2022-12-29 | 247 | 13 | 
-| 2022-12-28 | 248 | 13 | 
 

@@ -1,6 +1,6 @@
 # bambosan/Nori-Shaders-BE - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 59 | 44 | 
 | 2023-01-25 | 59 | 44 | 
 | 2023-01-24 | 58 | 43 | 
 | 2023-01-23 | 58 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 57 | 43 | 
 | 2022-12-29 | 57 | 43 | 
 | 2022-12-28 | 57 | 43 | 
-| 2022-12-27 | 57 | 43 | 
 

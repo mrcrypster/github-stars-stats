@@ -1,6 +1,6 @@
 # bitbrain/beehave - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 411 | 33 | 
 | 2023-01-25 | 411 | 33 | 
 | 2023-01-24 | 411 | 33 | 
 | 2023-01-23 | 406 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 358 | 28 | 
 | 2022-12-29 | 356 | 28 | 
 | 2022-12-28 | 345 | 28 | 
-| 2022-12-27 | 345 | 28 | 
 

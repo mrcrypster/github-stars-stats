@@ -1,6 +1,6 @@
 # hlky/sd-enable-textual-inversion - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 739 | 28 | 
 | 2023-01-25 | 739 | 28 | 
 | 2023-01-24 | 739 | 28 | 
 | 2023-01-23 | 739 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 738 | 28 | 
 | 2022-12-29 | 738 | 28 | 
 | 2022-12-28 | 738 | 28 | 
-| 2022-12-27 | 738 | 28 | 
 

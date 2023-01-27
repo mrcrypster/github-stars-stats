@@ -1,6 +1,6 @@
 # swkeep/keep-backpack - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 62 | 23 | 
 | 2023-01-25 | 62 | 23 | 
 | 2023-01-24 | 62 | 24 | 
 | 2023-01-22 | 60 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 58 | 24 | 
 | 2022-12-30 | 57 | 24 | 
 | 2022-12-29 | 57 | 24 | 
-| 2022-12-28 | 57 | 24 | 
 

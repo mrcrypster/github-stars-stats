@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/nodejs-docs-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1873
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2530 | 1873 | 
 | 2023-01-25 | 2530 | 1873 | 
 | 2023-01-24 | 2530 | 1873 | 
 | 2023-01-23 | 2528 | 1873 | 

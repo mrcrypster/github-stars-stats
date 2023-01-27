@@ -1,10 +1,10 @@
 # D3Ext/WEF - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 141
+☋ Forks: 145
 
-★ Stars: 1471
+★ Stars: 1482
 
 [Open repository](https://github.com/D3Ext/WEF)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1482 | 145 | 
 | 2023-01-25 | 1471 | 141 | 
 | 2023-01-24 | 1469 | 140 | 
 | 2023-01-23 | 1468 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1412 | 136 | 
 | 2022-12-29 | 1412 | 136 | 
 | 2022-12-28 | 1411 | 136 | 
-| 2022-12-27 | 1408 | 136 | 
 

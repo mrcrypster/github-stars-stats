@@ -1,10 +1,10 @@
 # PascalGameDevelopment/SDL2-for-Pascal - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 13
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/PascalGameDevelopment/SDL2-for-Pascal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 59 | 13 | 
 | 2023-01-25 | 58 | 13 | 
 | 2023-01-24 | 58 | 13 | 
 | 2023-01-23 | 58 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 57 | 14 | 
 | 2022-12-29 | 57 | 14 | 
 | 2022-12-28 | 57 | 14 | 
-| 2022-12-27 | 57 | 14 | 
 

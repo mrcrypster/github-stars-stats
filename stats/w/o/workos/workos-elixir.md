@@ -1,6 +1,6 @@
 # workos/workos-elixir - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 11 | 8 | 
 | 2023-01-25 | 11 | 8 | 
 | 2023-01-24 | 11 | 8 | 
 | 2023-01-23 | 11 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 11 | 8 | 
 | 2022-12-29 | 11 | 7 | 
 | 2022-12-28 | 11 | 7 | 
-| 2022-12-27 | 11 | 7 | 
 

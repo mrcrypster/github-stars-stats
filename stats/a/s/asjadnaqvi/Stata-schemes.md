@@ -1,10 +1,10 @@
 # asjadnaqvi/Stata-schemes - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 37
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/asjadnaqvi/Stata-schemes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 124 | 37 | 
 | 2023-01-25 | 123 | 37 | 
 | 2023-01-24 | 123 | 37 | 
 | 2023-01-23 | 122 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 120 | 38 | 
 | 2022-12-29 | 119 | 38 | 
 | 2022-12-28 | 119 | 38 | 
-| 2022-12-27 | 119 | 38 | 
 

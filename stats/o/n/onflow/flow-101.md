@@ -1,6 +1,6 @@
 # onflow/flow-101 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 28 | 26 | 
 | 2023-01-25 | 28 | 26 | 
 | 2023-01-24 | 28 | 26 | 
 | 2023-01-23 | 28 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 28 | 26 | 
 | 2022-12-29 | 28 | 26 | 
 | 2022-12-28 | 28 | 26 | 
-| 2022-12-27 | 28 | 26 | 
 

@@ -1,6 +1,6 @@
 # TheAlgorithms/Solidity - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 215 | 68 | 
 | 2023-01-25 | 215 | 68 | 
 | 2023-01-24 | 214 | 68 | 
 | 2023-01-23 | 214 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 199 | 66 | 
 | 2022-12-29 | 199 | 66 | 
 | 2022-12-28 | 197 | 66 | 
-| 2022-12-27 | 192 | 66 | 
 

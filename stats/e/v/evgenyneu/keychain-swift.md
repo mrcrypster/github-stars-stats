@@ -1,6 +1,6 @@
 # evgenyneu/keychain-swift - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 302
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2337 | 302 | 
 | 2023-01-25 | 2337 | 302 | 
 | 2023-01-24 | 2336 | 302 | 
 | 2023-01-23 | 2335 | 302 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2323 | 299 | 
 | 2022-12-29 | 2323 | 299 | 
 | 2022-12-28 | 2323 | 298 | 
-| 2022-12-27 | 2322 | 297 | 
 

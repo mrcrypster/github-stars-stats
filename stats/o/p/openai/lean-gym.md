@@ -1,6 +1,6 @@
 # openai/lean-gym - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 88 | 18 | 
 | 2023-01-25 | 88 | 18 | 
 | 2023-01-24 | 88 | 17 | 
 | 2023-01-23 | 88 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 87 | 16 | 
 | 2022-12-29 | 87 | 16 | 
 | 2022-12-28 | 87 | 16 | 
-| 2022-12-27 | 86 | 16 | 
 

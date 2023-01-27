@@ -1,6 +1,6 @@
 # VG-1/PlaylistAdda - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 74 | 183 | 
 | 2023-01-25 | 74 | 183 | 
 | 2023-01-24 | 74 | 183 | 
 | 2023-01-23 | 74 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 75 | 187 | 
 | 2022-12-29 | 75 | 187 | 
 | 2022-12-28 | 75 | 187 | 
-| 2022-12-27 | 75 | 187 | 
 

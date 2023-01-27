@@ -1,8 +1,8 @@
 # BradLarson/GPUImage - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 4641
+☋ Forks: 4640
 
 ★ Stars: 20042
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 20042 | 4640 | 
 | 2023-01-25 | 20042 | 4641 | 
 | 2023-01-24 | 20041 | 4641 | 
 | 2023-01-23 | 20041 | 4642 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 20038 | 4644 | 
 | 2022-12-29 | 20038 | 4644 | 
 | 2022-12-28 | 20037 | 4644 | 
-| 2022-12-27 | 20037 | 4644 | 
 

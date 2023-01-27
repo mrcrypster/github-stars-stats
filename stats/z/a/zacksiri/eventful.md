@@ -1,6 +1,6 @@
 # zacksiri/eventful - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 27 | 1 | 
 | 2023-01-25 | 27 | 1 | 
 | 2023-01-24 | 27 | 1 | 
 | 2023-01-23 | 27 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 27 | 1 | 
 | 2022-12-29 | 27 | 1 | 
 | 2022-12-28 | 27 | 1 | 
-| 2022-12-27 | 27 | 1 | 
 

@@ -1,0 +1,18 @@
+# atomicfi/atomic-transact-ios - stars & forks statistics
+
+Stats updated on Jan 2023, 27
+
+☋ Forks: 3
+
+★ Stars: 0
+
+[Open repository](https://github.com/atomicfi/atomic-transact-ios)
+
+[Open detailed stats for atomicfi/atomic-transact-ios](https://reviewgithub.com/rep/atomicfi/atomic-transact-ios)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-27 | - | 3 | 
+| 2023-01-26 | - | 3 | 
+

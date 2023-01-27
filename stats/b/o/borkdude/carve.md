@@ -1,0 +1,17 @@
+# borkdude/carve - stars & forks statistics
+
+Stats updated on Jan 2023, 26
+
+☋ Forks: 16
+
+★ Stars: 265
+
+[Open repository](https://github.com/borkdude/carve)
+
+[Open detailed stats for borkdude/carve](https://reviewgithub.com/rep/borkdude/carve)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-26 | 265 | 16 | 
+

@@ -1,6 +1,6 @@
 # sonnysangha/lottery-smart-contract - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 33 | 18 | 
 | 2023-01-25 | 33 | 18 | 
 | 2023-01-23 | 33 | 18 | 
 | 2023-01-22 | 33 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 33 | 17 | 
 | 2022-12-30 | 33 | 17 | 
 | 2022-12-29 | 33 | 16 | 
-| 2022-12-27 | 33 | 16 | 
 

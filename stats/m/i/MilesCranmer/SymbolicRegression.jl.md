@@ -1,10 +1,10 @@
 # MilesCranmer/SymbolicRegression.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 35
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/MilesCranmer/SymbolicRegression.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 297 | 35 | 
 | 2023-01-25 | 296 | 35 | 
 | 2023-01-24 | 296 | 34 | 
 | 2023-01-23 | 295 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 285 | 31 | 
 | 2022-12-29 | 285 | 31 | 
 | 2022-12-28 | 285 | 31 | 
-| 2022-12-27 | 285 | 31 | 
 

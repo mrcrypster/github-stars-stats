@@ -1,10 +1,10 @@
 # 88fantasy/iRf - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/88fantasy/iRf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2 | - | 
 | 2023-01-25 | 1 | - | 
 | 2023-01-24 | 1 | - | 
 | 2023-01-23 | 1 | - | 

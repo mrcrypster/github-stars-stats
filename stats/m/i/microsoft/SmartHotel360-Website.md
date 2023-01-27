@@ -1,8 +1,8 @@
 # microsoft/SmartHotel360-Website - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 6549
+☋ Forks: 6554
 
 ★ Stars: 190
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 190 | 6554 | 
 | 2023-01-25 | 190 | 6549 | 
 | 2023-01-24 | 190 | 6545 | 
 | 2023-01-23 | 190 | 6539 | 

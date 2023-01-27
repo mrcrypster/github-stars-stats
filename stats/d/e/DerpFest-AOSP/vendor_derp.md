@@ -1,8 +1,8 @@
 # DerpFest-AOSP/vendor_derp - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3 | 37 | 
 | 2023-01-25 | 3 | 36 | 
 | 2023-01-24 | 3 | 36 | 
 | 2023-01-23 | 3 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3 | 33 | 
 | 2022-12-29 | 3 | 34 | 
 | 2022-12-28 | 3 | 34 | 
-| 2022-12-27 | 3 | 34 | 
 

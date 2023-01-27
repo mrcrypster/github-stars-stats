@@ -1,10 +1,10 @@
 # asishgeorge/50Projects50Days - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 104
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/asishgeorge/50Projects50Days)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 71 | 104 | 
 | 2023-01-25 | 70 | 104 | 
 | 2023-01-24 | 70 | 104 | 
 | 2023-01-23 | 70 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 68 | 102 | 
 | 2022-12-29 | 68 | 101 | 
 | 2022-12-28 | 68 | 101 | 
-| 2022-12-27 | 68 | 101 | 
 

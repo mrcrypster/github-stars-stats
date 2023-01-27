@@ -1,6 +1,6 @@
 # funcool/promesa - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 419 | 54 | 
 | 2023-01-25 | 419 | 54 | 
 | 2023-01-24 | 418 | 54 | 
 | 2023-01-22 | 417 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 407 | 52 | 
 | 2022-12-30 | 407 | 52 | 
 | 2022-12-29 | 406 | 52 | 
-| 2022-12-28 | 406 | 52 | 
 

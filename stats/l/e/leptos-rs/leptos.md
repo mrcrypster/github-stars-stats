@@ -1,10 +1,10 @@
 # leptos-rs/leptos - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 124
+☋ Forks: 127
 
-★ Stars: 5332
+★ Stars: 5349
 
 [Open repository](https://github.com/leptos-rs/leptos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5349 | 127 | 
 | 2023-01-25 | 5332 | 124 | 
 | 2023-01-24 | 5290 | 124 | 
 | 2023-01-23 | 5257 | 123 | 

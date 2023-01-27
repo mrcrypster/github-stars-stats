@@ -1,10 +1,10 @@
 # liyupi/sql-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 640
 
-★ Stars: 3117
+★ Stars: 3119
 
 [Open repository](https://github.com/liyupi/sql-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3119 | 640 | 
 | 2023-01-25 | 3117 | 640 | 
 | 2023-01-24 | 3117 | 640 | 
 | 2023-01-23 | 3117 | 640 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 3109 | 637 | 
 | 2022-12-30 | 3108 | 636 | 
 | 2022-12-29 | 3106 | 635 | 
-| 2022-12-28 | 3106 | 635 | 
 

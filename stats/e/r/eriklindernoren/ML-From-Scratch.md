@@ -1,6 +1,6 @@
 # eriklindernoren/ML-From-Scratch - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 4290
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 21887 | 4290 | 
 | 2023-01-25 | 21887 | 4290 | 
 | 2023-01-24 | 21887 | 4290 | 
 | 2023-01-23 | 21882 | 4288 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 21823 | 4281 | 
 | 2022-12-29 | 21822 | 4282 | 
 | 2022-12-28 | 21822 | 4282 | 
-| 2022-12-27 | 21821 | 4282 | 
 

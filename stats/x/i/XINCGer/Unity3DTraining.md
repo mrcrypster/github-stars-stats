@@ -1,10 +1,10 @@
 # XINCGer/Unity3DTraining - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1516
 
-★ Stars: 4996
+★ Stars: 4998
 
 [Open repository](https://github.com/XINCGer/Unity3DTraining)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4998 | 1516 | 
 | 2023-01-25 | 4996 | 1516 | 
 | 2023-01-24 | 4994 | 1515 | 
 | 2023-01-23 | 4992 | 1514 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4926 | 1498 | 
 | 2022-12-29 | 4922 | 1498 | 
 | 2022-12-28 | 4915 | 1495 | 
-| 2022-12-27 | 4913 | 1494 | 
 

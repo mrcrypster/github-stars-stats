@@ -1,10 +1,10 @@
 # KhaosT/MacVM - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 93
 
-★ Stars: 1209
+★ Stars: 1208
 
 [Open repository](https://github.com/KhaosT/MacVM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1208 | 93 | 
 | 2023-01-25 | 1209 | 93 | 
 | 2023-01-24 | 1208 | 93 | 
 | 2023-01-23 | 1208 | 93 | 

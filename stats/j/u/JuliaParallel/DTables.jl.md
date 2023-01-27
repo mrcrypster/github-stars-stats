@@ -1,10 +1,10 @@
 # JuliaParallel/DTables.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/JuliaParallel/DTables.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 40 | - | 
 | 2023-01-25 | 39 | - | 
 | 2023-01-24 | 39 | - | 
 | 2023-01-23 | 39 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 36 | - | 
 | 2022-12-29 | 36 | - | 
 | 2022-12-28 | 36 | - | 
-| 2022-12-27 | 36 | - | 
 

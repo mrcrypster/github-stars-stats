@@ -1,6 +1,6 @@
 # nvidia-riva/common - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4 | 8 | 
 | 2023-01-25 | 4 | 8 | 
 | 2023-01-24 | 4 | 8 | 
 | 2023-01-23 | 4 | 8 | 

@@ -1,6 +1,6 @@
 # dhruvasagar/vim-zoom - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 226 | 14 | 
 | 2023-01-25 | 226 | 14 | 
 | 2023-01-24 | 226 | 14 | 
 | 2023-01-23 | 226 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 224 | 14 | 
 | 2022-12-29 | 224 | 14 | 
 | 2022-12-28 | 223 | 14 | 
-| 2022-12-27 | 223 | 14 | 
 

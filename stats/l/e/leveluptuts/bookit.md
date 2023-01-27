@@ -1,6 +1,6 @@
 # leveluptuts/bookit - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 247 | 11 | 
 | 2023-01-25 | 247 | 11 | 
 | 2023-01-24 | 247 | 11 | 
 | 2023-01-23 | 246 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 235 | 11 | 
 | 2022-12-29 | 235 | 11 | 
 | 2022-12-28 | 234 | 11 | 
-| 2022-12-27 | 234 | 11 | 
 

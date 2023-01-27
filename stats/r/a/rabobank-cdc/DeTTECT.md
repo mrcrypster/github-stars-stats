@@ -1,6 +1,6 @@
 # rabobank-cdc/DeTTECT - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 282
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1606 | 282 | 
 | 2023-01-25 | 1606 | 282 | 
 | 2023-01-24 | 1606 | 281 | 
 | 2023-01-23 | 1606 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 1586 | 281 | 
 | 2022-12-29 | 1586 | 281 | 
 | 2022-12-28 | 1586 | 281 | 
-| 2022-12-27 | 1585 | 281 | 
 

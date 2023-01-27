@@ -1,10 +1,10 @@
 # viperproject/silicon - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 25
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/viperproject/silicon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 54 | 25 | 
 | 2023-01-25 | 53 | 25 | 
 | 2023-01-24 | 53 | 25 | 
 | 2023-01-23 | 53 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 53 | 25 | 
 | 2022-12-29 | 53 | 25 | 
 | 2022-12-28 | 53 | 25 | 
-| 2022-12-27 | 52 | 25 | 
 

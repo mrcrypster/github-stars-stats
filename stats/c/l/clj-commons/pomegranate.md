@@ -1,6 +1,6 @@
 # clj-commons/pomegranate - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 481 | 58 | 
 | 2023-01-25 | 481 | 58 | 
 | 2023-01-24 | 481 | 58 | 
 | 2023-01-23 | 481 | 58 | 

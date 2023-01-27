@@ -1,6 +1,6 @@
 # vueschool/vue-masterclass - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 406 | 182 | 
 | 2023-01-25 | 406 | 182 | 
 | 2023-01-24 | 406 | 182 | 
 | 2023-01-23 | 406 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 406 | 183 | 
 | 2022-12-29 | 406 | 183 | 
 | 2022-12-28 | 406 | 182 | 
-| 2022-12-27 | 406 | 182 | 
 

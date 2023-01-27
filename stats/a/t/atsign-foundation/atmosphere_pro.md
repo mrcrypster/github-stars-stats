@@ -1,10 +1,10 @@
 # atsign-foundation/atmosphere_pro - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 44
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/atsign-foundation/atmosphere_pro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 45 | 44 | 
 | 2023-01-25 | 44 | 44 | 
 | 2023-01-24 | 44 | 44 | 
 | 2023-01-23 | 44 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 43 | 45 | 
 | 2022-12-29 | 43 | 45 | 
 | 2022-12-28 | 43 | 45 | 
-| 2022-12-27 | 43 | 45 | 
 

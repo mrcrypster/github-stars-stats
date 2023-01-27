@@ -1,8 +1,8 @@
 # EvanNotFound/hexo-theme-redefine - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 174 | 11 | 
 | 2023-01-25 | 174 | 10 | 
 | 2023-01-24 | 172 | 10 | 
 | 2023-01-23 | 168 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 56 | 5 | 
 | 2022-12-29 | 55 | 5 | 
 | 2022-12-28 | 55 | 5 | 
-| 2022-12-27 | 53 | 5 | 
 

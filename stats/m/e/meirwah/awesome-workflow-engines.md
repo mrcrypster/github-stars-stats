@@ -1,6 +1,6 @@
 # meirwah/awesome-workflow-engines - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 462
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4045 | 462 | 
 | 2023-01-25 | 4045 | 462 | 
 | 2023-01-24 | 4040 | 462 | 
 | 2023-01-23 | 4036 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3976 | 458 | 
 | 2022-12-29 | 3972 | 458 | 
 | 2022-12-28 | 3971 | 459 | 
-| 2022-12-27 | 3968 | 459 | 
 

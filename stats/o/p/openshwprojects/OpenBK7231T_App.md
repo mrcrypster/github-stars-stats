@@ -1,10 +1,10 @@
 # openshwprojects/OpenBK7231T_App - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 85
 
-★ Stars: 452
+★ Stars: 454
 
 [Open repository](https://github.com/openshwprojects/OpenBK7231T_App)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 454 | 85 | 
 | 2023-01-25 | 452 | 85 | 
 | 2023-01-24 | 451 | 85 | 
 | 2023-01-23 | 449 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 395 | 75 | 
 | 2022-12-29 | 393 | 75 | 
 | 2022-12-28 | 392 | 75 | 
-| 2022-12-27 | 391 | 74 | 
 

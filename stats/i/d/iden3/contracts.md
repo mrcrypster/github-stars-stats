@@ -1,6 +1,6 @@
 # iden3/contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 37 | 6 | 
 | 2023-01-25 | 37 | 6 | 
 | 2023-01-24 | 37 | 6 | 
 | 2023-01-23 | 36 | 6 | 

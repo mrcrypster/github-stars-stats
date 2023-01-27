@@ -1,10 +1,10 @@
 # aws/aws-sdk-php - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1150
 
-★ Stars: 5737
+★ Stars: 5739
 
 [Open repository](https://github.com/aws/aws-sdk-php)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5739 | 1150 | 
 | 2023-01-25 | 5737 | 1150 | 
 | 2023-01-24 | 5736 | 1150 | 
 | 2023-01-23 | 5735 | 1148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5712 | 1145 | 
 | 2022-12-29 | 5712 | 1145 | 
 | 2022-12-28 | 5712 | 1145 | 
-| 2022-12-27 | 5711 | 1144 | 
 

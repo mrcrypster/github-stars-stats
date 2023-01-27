@@ -1,10 +1,10 @@
 # awesome-kusion/kusion-cookbook - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/awesome-kusion/kusion-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 39 | 3 | 
 | 2023-01-25 | 38 | 3 | 
 | 2023-01-24 | 38 | 3 | 
 | 2023-01-22 | 38 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 38 | 3 | 
 | 2022-12-30 | 38 | 3 | 
 | 2022-12-29 | 38 | 3 | 
-| 2022-12-27 | 38 | 3 | 
 

@@ -1,10 +1,10 @@
 # daem0nc0re/TangledWinExec - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 521
+★ Stars: 526
 
 [Open repository](https://github.com/daem0nc0re/TangledWinExec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 526 | 84 | 
 | 2023-01-25 | 521 | 83 | 
 | 2023-01-24 | 505 | 80 | 
 | 2023-01-23 | 500 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 436 | 68 | 
 | 2022-12-29 | 434 | 68 | 
 | 2022-12-28 | 432 | 68 | 
-| 2022-12-27 | 431 | 68 | 
 

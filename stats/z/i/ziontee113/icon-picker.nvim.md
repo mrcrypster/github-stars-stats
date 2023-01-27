@@ -1,10 +1,10 @@
 # ziontee113/icon-picker.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/ziontee113/icon-picker.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 127 | 4 | 
 | 2023-01-25 | 126 | 4 | 
 | 2023-01-24 | 126 | 4 | 
 | 2023-01-23 | 125 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 114 | 4 | 
 | 2022-12-30 | 114 | 4 | 
 | 2022-12-28 | 114 | 3 | 
-| 2022-12-27 | 114 | 3 | 
 

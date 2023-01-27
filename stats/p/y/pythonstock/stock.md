@@ -1,6 +1,6 @@
 # pythonstock/stock - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 2004
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5895 | 2004 | 
 | 2023-01-25 | 5895 | 2004 | 
 | 2023-01-24 | 5894 | 2004 | 
 | 2023-01-23 | 5894 | 2004 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5861 | 2000 | 
 | 2022-12-29 | 5860 | 2000 | 
 | 2022-12-28 | 5859 | 1999 | 
-| 2022-12-27 | 5859 | 2000 | 
 

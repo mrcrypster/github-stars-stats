@@ -1,10 +1,10 @@
 # storybookjs/storybook - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 8072
+☋ Forks: 8078
 
-★ Stars: 76244
+★ Stars: 76265
 
 [Open repository](https://github.com/storybookjs/storybook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 76265 | 8078 | 
 | 2023-01-25 | 76244 | 8072 | 
 | 2023-01-24 | 76226 | 8066 | 
 | 2023-01-23 | 76217 | 8064 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 75718 | 8008 | 
 | 2022-12-29 | 75713 | 8008 | 
 | 2022-12-28 | 75694 | 8009 | 
-| 2022-12-27 | 75673 | 8005 | 
 

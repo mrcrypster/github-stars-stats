@@ -1,6 +1,6 @@
 # nathaneastwood/poorman - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 310 | 12 | 
 | 2023-01-25 | 310 | 12 | 
 | 2023-01-24 | 310 | 12 | 
 | 2023-01-23 | 310 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 307 | 12 | 
 | 2022-12-29 | 307 | 12 | 
 | 2022-12-28 | 307 | 12 | 
-| 2022-12-27 | 307 | 12 | 
 

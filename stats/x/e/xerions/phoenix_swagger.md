@@ -1,10 +1,10 @@
 # xerions/phoenix_swagger - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 171
 
-★ Stars: 622
+★ Stars: 623
 
 [Open repository](https://github.com/xerions/phoenix_swagger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 623 | 171 | 
 | 2023-01-25 | 622 | 171 | 
 | 2023-01-24 | 622 | 171 | 
 | 2023-01-23 | 622 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 619 | 170 | 
 | 2022-12-29 | 618 | 170 | 
 | 2022-12-28 | 618 | 170 | 
-| 2022-12-27 | 618 | 170 | 
 

@@ -1,10 +1,10 @@
 # avinash201199/Competitions-and-Programs-List - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 212
+☋ Forks: 213
 
-★ Stars: 458
+★ Stars: 459
 
 [Open repository](https://github.com/avinash201199/Competitions-and-Programs-List)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 459 | 213 | 
 | 2023-01-25 | 458 | 212 | 
 | 2023-01-24 | 457 | 212 | 
 | 2023-01-23 | 457 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 450 | 211 | 
 | 2022-12-29 | 450 | 211 | 
 | 2022-12-28 | 450 | 211 | 
-| 2022-12-27 | 450 | 211 | 
 

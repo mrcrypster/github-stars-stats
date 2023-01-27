@@ -1,10 +1,10 @@
 # reportportal/kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 177
+☋ Forks: 175
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/reportportal/kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 68 | 175 | 
 | 2023-01-25 | 67 | 177 | 
 | 2023-01-24 | 67 | 178 | 
 | 2023-01-23 | 67 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 66 | 176 | 
 | 2022-12-29 | 66 | 176 | 
 | 2022-12-28 | 66 | 176 | 
-| 2022-12-27 | 66 | 176 | 
 

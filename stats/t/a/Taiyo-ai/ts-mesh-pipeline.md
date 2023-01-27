@@ -1,6 +1,6 @@
 # Taiyo-ai/ts-mesh-pipeline - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3 | 85 | 
 | 2023-01-25 | 3 | 85 | 
 | 2023-01-24 | 3 | 85 | 
 | 2023-01-23 | 3 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4 | 85 | 
 | 2022-12-29 | 4 | 85 | 
 | 2022-12-28 | 4 | 85 | 
-| 2022-12-27 | 4 | 85 | 
 

@@ -1,10 +1,10 @@
 # celery/celery - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 4417
+☋ Forks: 4418
 
-★ Stars: 20836
+★ Stars: 20839
 
 [Open repository](https://github.com/celery/celery)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 20839 | 4418 | 
 | 2023-01-26 | 20836 | 4417 | 
 | 2023-01-24 | 20833 | 4414 | 
 | 2023-01-23 | 20828 | 4413 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 20711 | 4401 | 
 | 2022-12-30 | 20708 | 4401 | 
 | 2022-12-29 | 20700 | 4401 | 
-| 2022-12-28 | 20697 | 4401 | 
 

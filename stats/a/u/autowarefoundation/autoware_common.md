@@ -1,6 +1,6 @@
 # autowarefoundation/autoware_common - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 12 | 26 | 
 | 2023-01-25 | 12 | 26 | 
 | 2023-01-24 | 12 | 26 | 
 | 2023-01-23 | 12 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 11 | 20 | 
 | 2022-12-29 | 11 | 20 | 
 | 2022-12-28 | 11 | 20 | 
-| 2022-12-27 | 11 | 20 | 
 

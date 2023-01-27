@@ -1,10 +1,10 @@
 # nakov/Practical-Cryptography-for-Developers-Book - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 336
+☋ Forks: 337
 
-★ Stars: 2838
+★ Stars: 2842
 
 [Open repository](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2842 | 337 | 
 | 2023-01-25 | 2838 | 336 | 
 | 2023-01-24 | 2838 | 336 | 
 | 2023-01-23 | 2837 | 336 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2805 | 329 | 
 | 2022-12-29 | 2805 | 328 | 
 | 2022-12-28 | 2804 | 328 | 
-| 2022-12-27 | 2802 | 328 | 
 

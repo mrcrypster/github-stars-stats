@@ -1,10 +1,10 @@
 # SerenaKit/Santander - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 64
+☋ Forks: 63
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/SerenaKit/Santander)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 254 | 63 | 
 | 2023-01-25 | 253 | 64 | 
 | 2023-01-24 | 252 | 64 | 
 | 2023-01-23 | 249 | 64 | 

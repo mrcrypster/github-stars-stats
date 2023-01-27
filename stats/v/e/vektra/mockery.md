@@ -1,6 +1,6 @@
 # vektra/mockery - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4268 | 327 | 
 | 2023-01-25 | 4268 | 327 | 
 | 2023-01-24 | 4264 | 325 | 
 | 2023-01-23 | 4261 | 325 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4196 | 322 | 
 | 2022-12-29 | 4194 | 322 | 
 | 2022-12-28 | 4192 | 322 | 
-| 2022-12-27 | 4192 | 322 | 
 

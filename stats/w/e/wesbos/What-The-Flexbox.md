@@ -1,8 +1,8 @@
 # wesbos/What-The-Flexbox - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 969
+☋ Forks: 973
 
 ★ Stars: 759
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 759 | 973 | 
 | 2023-01-25 | 759 | 969 | 
 | 2023-01-24 | 758 | 957 | 
 | 2023-01-23 | 758 | 955 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 759 | 950 | 
 | 2022-12-30 | 759 | 950 | 
 | 2022-12-29 | 759 | 950 | 
-| 2022-12-28 | 759 | 950 | 
 

@@ -1,10 +1,10 @@
 # stripe-samples/checkout-single-subscription - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 294
 
-★ Stars: 573
+★ Stars: 574
 
 [Open repository](https://github.com/stripe-samples/checkout-single-subscription)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 574 | 294 | 
 | 2023-01-25 | 573 | 294 | 
 | 2023-01-24 | 573 | 294 | 
 | 2023-01-23 | 573 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 566 | 284 | 
 | 2022-12-30 | 564 | 284 | 
 | 2022-12-29 | 564 | 284 | 
-| 2022-12-28 | 564 | 284 | 
 

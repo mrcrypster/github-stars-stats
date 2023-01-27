@@ -1,10 +1,10 @@
 # simonw/datasette - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 486
 
-★ Stars: 6931
+★ Stars: 6939
 
 [Open repository](https://github.com/simonw/datasette)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 6939 | 486 | 
 | 2023-01-25 | 6931 | 486 | 
 | 2023-01-24 | 6924 | 485 | 
 | 2023-01-23 | 6916 | 484 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 6774 | 478 | 
 | 2022-12-29 | 6775 | 477 | 
 | 2022-12-28 | 6772 | 477 | 
-| 2022-12-27 | 6771 | 477 | 
 

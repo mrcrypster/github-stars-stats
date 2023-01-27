@@ -1,8 +1,8 @@
 # theerfan/Q - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 49
+☋ Forks: 50
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 109 | 50 | 
 | 2023-01-25 | 109 | 49 | 
 | 2023-01-24 | 106 | 49 | 
 | 2023-01-23 | 105 | 49 | 

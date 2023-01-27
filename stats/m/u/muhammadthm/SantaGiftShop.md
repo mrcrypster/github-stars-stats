@@ -1,6 +1,6 @@
 # muhammadthm/SantaGiftShop - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 80 | 42 | 
 | 2023-01-26 | 80 | 42 | 
 | 2023-01-24 | 80 | 42 | 
 | 2023-01-23 | 80 | 42 | 

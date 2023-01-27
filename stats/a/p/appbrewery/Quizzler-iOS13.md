@@ -1,8 +1,8 @@
 # appbrewery/Quizzler-iOS13 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 330
+☋ Forks: 331
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 46 | 331 | 
 | 2023-01-25 | 46 | 330 | 
 | 2023-01-24 | 46 | 330 | 
 | 2023-01-23 | 46 | 329 | 

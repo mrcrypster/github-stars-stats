@@ -1,10 +1,10 @@
 # alibaba/jetcache - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 877
 
-★ Stars: 3741
+★ Stars: 3743
 
 [Open repository](https://github.com/alibaba/jetcache)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3743 | 877 | 
 | 2023-01-25 | 3741 | 877 | 
 | 2023-01-24 | 3741 | 877 | 
 | 2023-01-23 | 3740 | 877 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3707 | 871 | 
 | 2022-12-29 | 3707 | 870 | 
 | 2022-12-28 | 3706 | 870 | 
-| 2022-12-27 | 3705 | 869 | 
 

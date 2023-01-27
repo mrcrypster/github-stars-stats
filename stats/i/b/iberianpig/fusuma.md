@@ -1,6 +1,6 @@
 # iberianpig/fusuma - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3238 | 140 | 
 | 2023-01-25 | 3238 | 140 | 
 | 2023-01-24 | 3236 | 140 | 
 | 2023-01-23 | 3235 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3220 | 141 | 
 | 2022-12-29 | 3220 | 140 | 
 | 2022-12-28 | 3220 | 140 | 
-| 2022-12-27 | 3219 | 140 | 
 

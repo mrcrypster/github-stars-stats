@@ -1,10 +1,10 @@
 # Ignitetechnologies/Mindmap - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 19
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/Ignitetechnologies/Mindmap)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 69 | 19 | 
 | 2023-01-25 | 67 | 19 | 
 

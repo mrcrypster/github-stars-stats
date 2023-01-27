@@ -1,10 +1,10 @@
 # Momo707577045/media-source-extract - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 331
+☋ Forks: 332
 
-★ Stars: 852
+★ Stars: 853
 
 [Open repository](https://github.com/Momo707577045/media-source-extract)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 853 | 332 | 
 | 2023-01-25 | 852 | 331 | 
 | 2023-01-24 | 850 | 330 | 
 | 2023-01-23 | 848 | 329 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 805 | 320 | 
 | 2022-12-29 | 802 | 320 | 
 | 2022-12-28 | 798 | 320 | 
-| 2022-12-27 | 795 | 320 | 
 

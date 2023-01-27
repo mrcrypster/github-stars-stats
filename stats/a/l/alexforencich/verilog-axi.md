@@ -1,8 +1,8 @@
 # alexforencich/verilog-axi - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 304
+☋ Forks: 305
 
 ★ Stars: 811
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 811 | 305 | 
 | 2023-01-25 | 811 | 304 | 
 | 2023-01-24 | 811 | 303 | 
 | 2023-01-23 | 810 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 801 | 297 | 
 | 2022-12-29 | 800 | 297 | 
 | 2022-12-28 | 798 | 297 | 
-| 2022-12-27 | 795 | 297 | 
 

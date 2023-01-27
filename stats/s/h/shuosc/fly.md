@@ -1,8 +1,8 @@
 # shuosc/fly - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 56 | 48 | 
 | 2023-01-25 | 56 | 47 | 
 | 2023-01-24 | 56 | 47 | 
 | 2023-01-23 | 56 | 47 | 

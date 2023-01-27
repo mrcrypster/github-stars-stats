@@ -1,10 +1,10 @@
 # drshahizan/python-web - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 27
+★ Stars: 29
 
 [Open repository](https://github.com/drshahizan/python-web)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 29 | 20 | 
 | 2023-01-25 | 27 | 18 | 
 

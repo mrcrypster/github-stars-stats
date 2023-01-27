@@ -1,8 +1,8 @@
 # juicedata/juicefs - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 638
+☋ Forks: 639
 
 ★ Stars: 7292
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 7292 | 639 | 
 | 2023-01-25 | 7292 | 638 | 
 | 2023-01-24 | 7290 | 638 | 
 | 2023-01-23 | 7288 | 637 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 7177 | 623 | 
 | 2022-12-29 | 7176 | 623 | 
 | 2022-12-28 | 7174 | 622 | 
-| 2022-12-27 | 7172 | 622 | 
 

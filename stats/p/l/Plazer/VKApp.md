@@ -1,0 +1,17 @@
+# Plazer/VKApp - stars & forks statistics
+
+Stats updated on Jan 2023, 26
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/Plazer/VKApp)
+
+[Open detailed stats for Plazer/VKApp](https://reviewgithub.com/rep/Plazer/VKApp)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-26 | 1 | - | 
+

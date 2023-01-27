@@ -1,6 +1,6 @@
 # Azure-Samples/aks-workload-identity - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 23 | 9 | 
 | 2023-01-25 | 23 | 9 | 
 | 2023-01-24 | 23 | 9 | 
 | 2023-01-23 | 23 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 21 | 8 | 
 | 2022-12-29 | 21 | 8 | 
 | 2022-12-28 | 21 | 8 | 
-| 2022-12-27 | 21 | 8 | 
 

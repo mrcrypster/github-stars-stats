@@ -1,6 +1,6 @@
 # fivethirtyeight/guns-data - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 276
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 298 | 276 | 
 | 2023-01-25 | 298 | 276 | 
 | 2023-01-24 | 298 | 276 | 
 | 2023-01-23 | 298 | 276 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 297 | 276 | 
 | 2022-12-30 | 297 | 276 | 
 | 2022-12-29 | 297 | 276 | 
-| 2022-12-28 | 297 | 276 | 
 

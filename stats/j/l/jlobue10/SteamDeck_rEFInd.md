@@ -1,10 +1,10 @@
 # jlobue10/SteamDeck_rEFInd - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/jlobue10/SteamDeck_rEFInd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 160 | 24 | 
 | 2023-01-25 | 159 | 23 | 
 | 2023-01-24 | 157 | 23 | 
 | 2023-01-23 | 156 | 23 | 

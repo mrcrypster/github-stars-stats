@@ -1,10 +1,10 @@
 # adi1090x/polybar-themes - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 376
 
-★ Stars: 4784
+★ Stars: 4787
 
 [Open repository](https://github.com/adi1090x/polybar-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4787 | 376 | 
 | 2023-01-25 | 4784 | 376 | 
 | 2023-01-24 | 4782 | 375 | 
 | 2023-01-23 | 4780 | 375 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4727 | 372 | 
 | 2022-12-29 | 4726 | 372 | 
 | 2022-12-28 | 4725 | 372 | 
-| 2022-12-27 | 4723 | 372 | 
 

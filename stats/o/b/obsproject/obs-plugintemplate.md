@@ -1,10 +1,10 @@
 # obsproject/obs-plugintemplate - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 62
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/obsproject/obs-plugintemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 120 | 62 | 
 | 2023-01-25 | 119 | 62 | 
 | 2023-01-24 | 119 | 62 | 
 | 2023-01-23 | 119 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 116 | 56 | 
 | 2022-12-29 | 116 | 56 | 
 | 2022-12-28 | 116 | 56 | 
-| 2022-12-27 | 116 | 56 | 
 

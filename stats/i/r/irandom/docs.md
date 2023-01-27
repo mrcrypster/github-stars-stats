@@ -1,10 +1,10 @@
 # irandom/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 145
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/irandom/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 199 | 145 | 
 | 2023-01-25 | 198 | 145 | 
 | 2023-01-24 | 198 | 145 | 
 | 2023-01-23 | 198 | 145 | 

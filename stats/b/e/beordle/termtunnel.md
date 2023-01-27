@@ -1,6 +1,6 @@
 # beordle/termtunnel - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 328 | 28 | 
 | 2023-01-25 | 328 | 28 | 
 | 2023-01-24 | 328 | 28 | 
 | 2023-01-23 | 328 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 328 | 27 | 
 | 2022-12-29 | 328 | 27 | 
 | 2022-12-28 | 328 | 27 | 
-| 2022-12-27 | 328 | 27 | 
 

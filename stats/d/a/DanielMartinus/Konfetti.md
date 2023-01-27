@@ -1,10 +1,10 @@
 # DanielMartinus/Konfetti - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 276
 
-★ Stars: 2703
+★ Stars: 2704
 
 [Open repository](https://github.com/DanielMartinus/Konfetti)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2704 | 276 | 
 | 2023-01-25 | 2703 | 276 | 
 | 2023-01-24 | 2703 | 276 | 
 | 2023-01-23 | 2702 | 276 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2676 | 275 | 
 | 2022-12-29 | 2676 | 275 | 
 | 2022-12-28 | 2675 | 275 | 
-| 2022-12-27 | 2675 | 275 | 
 

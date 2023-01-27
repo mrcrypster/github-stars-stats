@@ -1,10 +1,10 @@
 # react-native-video/react-native-video - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 2683
 
-★ Stars: 6434
+★ Stars: 6435
 
 [Open repository](https://github.com/react-native-video/react-native-video)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 6435 | 2683 | 
 | 2023-01-25 | 6434 | 2683 | 
 | 2023-01-24 | 6432 | 2684 | 
 | 2023-01-23 | 6430 | 2683 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 6402 | 2660 | 
 | 2022-12-29 | 6401 | 2659 | 
 | 2022-12-28 | 6401 | 2656 | 
-| 2022-12-27 | 6400 | 2656 | 
 

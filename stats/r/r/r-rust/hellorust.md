@@ -1,10 +1,10 @@
 # r-rust/hellorust - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 19
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/r-rust/hellorust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 213 | 19 | 
 | 2023-01-25 | 212 | 19 | 
 | 2023-01-24 | 211 | 19 | 
 | 2023-01-23 | 211 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 208 | 18 | 
 | 2022-12-29 | 208 | 18 | 
 | 2022-12-28 | 208 | 18 | 
-| 2022-12-27 | 208 | 18 | 
 

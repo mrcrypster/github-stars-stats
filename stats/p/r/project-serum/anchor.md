@@ -1,10 +1,10 @@
 # project-serum/anchor - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 935
+☋ Forks: 936
 
-★ Stars: 2614
+★ Stars: 2616
 
 [Open repository](https://github.com/project-serum/anchor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2616 | 936 | 
 | 2023-01-25 | 2614 | 935 | 
 | 2023-01-24 | 2612 | 935 | 
 | 2023-01-23 | 2610 | 935 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2588 | 926 | 
 | 2022-12-29 | 2589 | 926 | 
 | 2022-12-28 | 2589 | 925 | 
-| 2022-12-27 | 2588 | 926 | 
 

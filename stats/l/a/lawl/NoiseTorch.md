@@ -1,10 +1,10 @@
 # lawl/NoiseTorch - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/lawl/NoiseTorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 19 | 1 | 
 | 2023-01-25 | 18 | 1 | 
 | 2023-01-24 | 18 | 1 | 
 | 2023-01-23 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 18 | 1 | 
 | 2022-12-29 | 18 | 1 | 
 | 2022-12-28 | 18 | 1 | 
-| 2022-12-27 | 18 | 1 | 
 

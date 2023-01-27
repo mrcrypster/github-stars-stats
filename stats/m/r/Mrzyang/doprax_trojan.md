@@ -1,8 +1,8 @@
 # Mrzyang/doprax_trojan - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 43
+☋ Forks: 42
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 11 | 42 | 
 | 2023-01-25 | 11 | 43 | 
 | 2023-01-24 | 11 | 43 | 
 | 2023-01-23 | 10 | 42 | 

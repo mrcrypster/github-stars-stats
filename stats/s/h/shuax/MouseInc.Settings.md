@@ -1,10 +1,10 @@
 # shuax/MouseInc.Settings - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 77
 
-★ Stars: 593
+★ Stars: 595
 
 [Open repository](https://github.com/shuax/MouseInc.Settings)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 595 | 77 | 
 | 2023-01-25 | 593 | 77 | 
 | 2023-01-24 | 593 | 77 | 
 | 2023-01-23 | 593 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 556 | 74 | 
 | 2022-12-29 | 555 | 74 | 
 | 2022-12-28 | 555 | 74 | 
-| 2022-12-27 | 554 | 74 | 
 

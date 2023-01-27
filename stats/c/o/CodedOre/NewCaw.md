@@ -1,10 +1,10 @@
 # CodedOre/NewCaw - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 80
+★ Stars: 82
 
 [Open repository](https://github.com/CodedOre/NewCaw)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 82 | 2 | 
 | 2023-01-25 | 80 | 1 | 
 | 2023-01-24 | 79 | 1 | 
 | 2023-01-23 | 78 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 71 | - | 
 | 2022-12-29 | 70 | - | 
 | 2022-12-28 | 70 | - | 
-| 2022-12-27 | 70 | - | 
 

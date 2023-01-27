@@ -1,10 +1,10 @@
 # nwallenfang/solar-gardener - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/nwallenfang/solar-gardener)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 12 | 4 | 
 | 2023-01-25 | 11 | 4 | 
 | 2023-01-24 | 11 | 4 | 
 | 2023-01-23 | 11 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 10 | 4 | 
 | 2022-12-29 | 10 | 4 | 
 | 2022-12-28 | 10 | 4 | 
-| 2022-12-27 | 10 | 4 | 
 

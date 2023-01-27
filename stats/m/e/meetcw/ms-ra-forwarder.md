@@ -1,8 +1,8 @@
 # meetcw/ms-ra-forwarder - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 710
+☋ Forks: 709
 
 ★ Stars: 476
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 476 | 709 | 
 | 2023-01-25 | 476 | 710 | 
 | 2023-01-24 | 476 | 710 | 
 | 2023-01-23 | 477 | 710 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 459 | 706 | 
 | 2022-12-29 | 458 | 706 | 
 | 2022-12-28 | 458 | 704 | 
-| 2022-12-27 | 458 | 704 | 
 

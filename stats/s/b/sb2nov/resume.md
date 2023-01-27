@@ -1,6 +1,6 @@
 # sb2nov/resume - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1123
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3550 | 1123 | 
 | 2023-01-25 | 3550 | 1123 | 
 | 2023-01-24 | 3550 | 1123 | 
 | 2023-01-23 | 3547 | 1122 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3500 | 1120 | 
 | 2022-12-29 | 3495 | 1119 | 
 | 2022-12-28 | 3493 | 1120 | 
-| 2022-12-27 | 3495 | 1120 | 
 

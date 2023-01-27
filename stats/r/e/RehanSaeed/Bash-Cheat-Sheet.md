@@ -1,8 +1,8 @@
 # RehanSaeed/Bash-Cheat-Sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 124
+☋ Forks: 125
 
 ★ Stars: 301
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 301 | 125 | 
 | 2023-01-25 | 301 | 124 | 
 | 2023-01-24 | 300 | 124 | 
 | 2023-01-23 | 300 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 285 | 113 | 
 | 2022-12-29 | 284 | 113 | 
 | 2022-12-28 | 284 | 114 | 
-| 2022-12-27 | 284 | 114 | 
 

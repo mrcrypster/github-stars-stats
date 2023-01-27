@@ -1,10 +1,10 @@
 # nf-core/differentialabundance - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/nf-core/differentialabundance)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 14 | 4 | 
 | 2023-01-26 | 12 | 4 | 
 | 2023-01-25 | 8 | 4 | 
 | 2023-01-23 | 3 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-30 | 2 | 3 | 
 | 2022-12-29 | 2 | 3 | 
 | 2022-12-28 | 2 | 3 | 
-| 2022-12-27 | 2 | 3 | 
 

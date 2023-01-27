@@ -1,6 +1,6 @@
 # google/vim-searchindex - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 352 | 28 | 
 | 2023-01-25 | 352 | 28 | 
 | 2023-01-24 | 352 | 28 | 
 | 2023-01-22 | 352 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 352 | 28 | 
 | 2022-12-30 | 352 | 28 | 
 | 2022-12-29 | 352 | 28 | 
-| 2022-12-27 | 352 | 28 | 
 

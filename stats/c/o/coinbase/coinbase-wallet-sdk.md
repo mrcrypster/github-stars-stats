@@ -1,10 +1,10 @@
 # coinbase/coinbase-wallet-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 436
 
-★ Stars: 1038
+★ Stars: 1039
 
 [Open repository](https://github.com/coinbase/coinbase-wallet-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1039 | 436 | 
 | 2023-01-25 | 1038 | 436 | 
 | 2023-01-24 | 1038 | 436 | 
 | 2023-01-23 | 1037 | 437 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1026 | 434 | 
 | 2022-12-29 | 1026 | 434 | 
 | 2022-12-28 | 1026 | 434 | 
-| 2022-12-27 | 1027 | 434 | 
 

@@ -1,8 +1,8 @@
 # Cray-HPE/cray-opa - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1 | 5 | 
 | 2023-01-25 | 1 | 4 | 
 | 2023-01-24 | 1 | 4 | 
 | 2023-01-23 | 1 | 4 | 

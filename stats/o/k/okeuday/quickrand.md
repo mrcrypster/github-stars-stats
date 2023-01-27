@@ -1,6 +1,6 @@
 # okeuday/quickrand - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 38 | 10 | 
+| 2023-01-26 | 38 | 10 | 
 | 2023-01-25 | 38 | 10 | 
 | 2023-01-24 | 38 | 10 | 
 | 2023-01-23 | 38 | 10 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 38 | 10 | 
 | 2022-12-29 | 38 | 10 | 
 | 2022-12-28 | 38 | 10 | 
-| 2022-12-27 | 38 | 10 | 
 

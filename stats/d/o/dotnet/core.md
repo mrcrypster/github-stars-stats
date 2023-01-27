@@ -1,8 +1,8 @@
 # dotnet/core - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 4765
+☋ Forks: 4766
 
 ★ Stars: 18545
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 18545 | 4766 | 
 | 2023-01-25 | 18545 | 4765 | 
 | 2023-01-24 | 18542 | 4761 | 
 | 2023-01-23 | 18537 | 4762 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 18431 | 4732 | 
 | 2022-12-29 | 18430 | 4732 | 
 | 2022-12-28 | 18430 | 4730 | 
-| 2022-12-27 | 18423 | 4723 | 
 

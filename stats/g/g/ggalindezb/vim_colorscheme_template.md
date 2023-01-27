@@ -1,6 +1,6 @@
 # ggalindezb/vim_colorscheme_template - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 53 | 8 | 
 | 2023-01-25 | 53 | 8 | 
 | 2023-01-24 | 53 | 8 | 
 | 2023-01-23 | 53 | 8 | 

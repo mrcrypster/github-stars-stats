@@ -1,6 +1,6 @@
 # dvv/base64url - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 32 | 17 | 
 | 2023-01-25 | 32 | 17 | 
 | 2023-01-24 | 32 | 17 | 
 | 2023-01-23 | 32 | 17 | 

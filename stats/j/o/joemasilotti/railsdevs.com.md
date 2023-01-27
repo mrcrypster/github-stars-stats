@@ -1,6 +1,6 @@
 # joemasilotti/railsdevs.com - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 521 | 198 | 
 | 2023-01-25 | 521 | 198 | 
 | 2023-01-24 | 520 | 198 | 
 | 2023-01-23 | 520 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 501 | 194 | 
 | 2022-12-29 | 500 | 193 | 
 | 2022-12-28 | 499 | 193 | 
-| 2022-12-27 | 498 | 192 | 
 

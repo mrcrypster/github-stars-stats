@@ -1,10 +1,10 @@
 # MAIF/eurybia - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 17
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/MAIF/eurybia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 174 | 17 | 
 | 2023-01-25 | 173 | 17 | 
 | 2023-01-24 | 173 | 17 | 
 | 2023-01-23 | 173 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 172 | 17 | 
 | 2022-12-29 | 172 | 17 | 
 | 2022-12-28 | 172 | 17 | 
-| 2022-12-27 | 172 | 17 | 
 

@@ -1,6 +1,6 @@
 # zhiqwang/yolov5-rt-stack - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 634 | 136 | 
 | 2023-01-25 | 634 | 136 | 
 | 2023-01-24 | 634 | 136 | 
 | 2023-01-23 | 634 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 620 | 132 | 
 | 2022-12-29 | 619 | 131 | 
 | 2022-12-28 | 617 | 130 | 
-| 2022-12-27 | 617 | 130 | 
 

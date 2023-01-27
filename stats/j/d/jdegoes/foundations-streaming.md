@@ -1,10 +1,10 @@
 # jdegoes/foundations-streaming - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/jdegoes/foundations-streaming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4 | 7 | 
 | 2023-01-25 | 3 | 7 | 
 | 2023-01-24 | 3 | 7 | 
 | 2023-01-23 | 3 | 7 | 

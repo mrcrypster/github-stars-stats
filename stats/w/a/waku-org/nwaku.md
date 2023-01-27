@@ -1,6 +1,6 @@
 # waku-org/nwaku - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 115 | 27 | 
 | 2023-01-25 | 115 | 27 | 
 | 2023-01-24 | 115 | 27 | 
 | 2023-01-23 | 114 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 104 | 26 | 
 | 2022-12-29 | 105 | 26 | 
 | 2022-12-28 | 105 | 26 | 
-| 2022-12-27 | 105 | 26 | 
 

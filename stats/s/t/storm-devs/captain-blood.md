@@ -1,10 +1,10 @@
 # storm-devs/captain-blood - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/storm-devs/captain-blood)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 170 | 22 | 
 | 2023-01-25 | 169 | 21 | 
 | 2023-01-24 | 168 | 20 | 
 | 2023-01-23 | 168 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 155 | 20 | 
 | 2022-12-29 | 155 | 20 | 
 | 2022-12-28 | 155 | 20 | 
-| 2022-12-27 | 153 | 20 | 
 

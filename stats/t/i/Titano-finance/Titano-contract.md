@@ -1,8 +1,8 @@
 # Titano-finance/Titano-contract - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 31 | 87 | 
 | 2023-01-25 | 31 | 86 | 
 | 2023-01-24 | 31 | 86 | 
 | 2023-01-23 | 31 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 31 | 85 | 
 | 2022-12-29 | 31 | 85 | 
 | 2022-12-28 | 31 | 85 | 
-| 2022-12-27 | 31 | 85 | 
 

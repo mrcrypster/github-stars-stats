@@ -1,10 +1,10 @@
 # coinbase/rules_ruby - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 15
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/coinbase/rules_ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 21 | 15 | 
 | 2023-01-25 | 20 | 15 | 
 | 2023-01-24 | 20 | 15 | 
 | 2023-01-23 | 20 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 20 | 15 | 
 | 2022-12-29 | 20 | 15 | 
 | 2022-12-28 | 20 | 15 | 
-| 2022-12-27 | 20 | 15 | 
 

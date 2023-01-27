@@ -1,10 +1,10 @@
 # spring-projects-experimental/spring-modulith - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 22
 
-★ Stars: 227
+★ Stars: 230
 
 [Open repository](https://github.com/spring-projects-experimental/spring-modulith)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 230 | 22 | 
 | 2023-01-25 | 227 | 22 | 
 | 2023-01-24 | 223 | 22 | 
 | 2023-01-23 | 222 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 195 | 20 | 
 | 2022-12-30 | 194 | 20 | 
 | 2022-12-29 | 193 | 20 | 
-| 2022-12-28 | 192 | 20 | 
 

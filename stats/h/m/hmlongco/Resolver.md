@@ -1,10 +1,10 @@
 # hmlongco/Resolver - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 172
 
-★ Stars: 1921
+★ Stars: 1922
 
 [Open repository](https://github.com/hmlongco/Resolver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1922 | 172 | 
 | 2023-01-26 | 1921 | 172 | 
 | 2023-01-24 | 1921 | 172 | 
 | 2023-01-23 | 1923 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-30 | 1909 | 172 | 
 | 2022-12-29 | 1909 | 172 | 
 | 2022-12-28 | 1909 | 172 | 
-| 2022-12-27 | 1909 | 172 | 
 

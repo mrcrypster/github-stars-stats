@@ -1,6 +1,6 @@
 # a11yproject/a11yproject.com - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 540
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3592 | 540 | 
 | 2023-01-25 | 3592 | 540 | 
 | 2023-01-24 | 3592 | 541 | 
 | 2023-01-23 | 3592 | 541 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3580 | 538 | 
 | 2022-12-29 | 3580 | 538 | 
 | 2022-12-28 | 3580 | 537 | 
-| 2022-12-27 | 3581 | 537 | 
 

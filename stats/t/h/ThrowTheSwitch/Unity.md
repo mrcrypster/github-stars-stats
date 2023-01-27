@@ -1,10 +1,10 @@
 # ThrowTheSwitch/Unity - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 804
 
-★ Stars: 2831
+★ Stars: 2834
 
 [Open repository](https://github.com/ThrowTheSwitch/Unity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2834 | 804 | 
 | 2023-01-25 | 2831 | 804 | 
 | 2023-01-24 | 2830 | 804 | 
 | 2023-01-23 | 2830 | 804 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2799 | 805 | 
 | 2022-12-29 | 2800 | 805 | 
 | 2022-12-28 | 2798 | 805 | 
-| 2022-12-27 | 2794 | 805 | 
 

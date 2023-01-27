@@ -1,6 +1,6 @@
 # PaulRBerg/prb-test - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 99 | 7 | 
 | 2023-01-25 | 99 | 7 | 
 | 2023-01-24 | 98 | 7 | 
 | 2023-01-23 | 98 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 89 | 7 | 
 | 2022-12-29 | 89 | 7 | 
 | 2022-12-28 | 88 | 7 | 
-| 2022-12-27 | 81 | 6 | 
 

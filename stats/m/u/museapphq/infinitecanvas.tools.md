@@ -1,10 +1,10 @@
 # museapphq/infinitecanvas.tools - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 19
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/museapphq/infinitecanvas.tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 64 | 19 | 
 | 2023-01-25 | 63 | 19 | 
 | 2023-01-24 | 63 | 19 | 
 | 2023-01-23 | 62 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 62 | 18 | 
 | 2022-12-29 | 62 | 18 | 
 | 2022-12-28 | 62 | 18 | 
-| 2022-12-27 | 62 | 18 | 
 

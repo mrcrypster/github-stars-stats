@@ -1,6 +1,6 @@
 # imranxdevF/EYHN7 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 45 | 26 | 
 | 2023-01-25 | 45 | 26 | 
 | 2023-01-24 | 45 | 26 | 
 | 2023-01-22 | 45 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 45 | 26 | 
 | 2022-12-30 | 45 | 26 | 
 | 2022-12-29 | 45 | 26 | 
-| 2022-12-28 | 45 | 26 | 
 

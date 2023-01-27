@@ -1,10 +1,10 @@
 # raoshaab/Pen-Andro - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 27
 
-★ Stars: 170
+★ Stars: 169
 
 [Open repository](https://github.com/raoshaab/Pen-Andro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 169 | 27 | 
 | 2023-01-25 | 170 | 27 | 
 | 2023-01-24 | 170 | 27 | 
 | 2023-01-23 | 170 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 160 | 27 | 
 | 2022-12-29 | 160 | 27 | 
 | 2022-12-28 | 159 | 27 | 
-| 2022-12-27 | 159 | 26 | 
 

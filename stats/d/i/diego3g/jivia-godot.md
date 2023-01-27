@@ -1,6 +1,6 @@
 # diego3g/jivia-godot - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 46 | - | 
 | 2023-01-25 | 46 | - | 
 | 2023-01-24 | 46 | - | 
 | 2023-01-23 | 46 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 46 | - | 
 | 2022-12-30 | 46 | - | 
 | 2022-12-29 | 46 | - | 
-| 2022-12-28 | 46 | - | 
 

@@ -1,6 +1,6 @@
 # seanpm2001/Why-you-should-stop-using-Google-Images - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3 | 1 | 
 | 2023-01-25 | 3 | 1 | 
 | 2023-01-24 | 3 | 1 | 
 | 2023-01-23 | 3 | 1 | 

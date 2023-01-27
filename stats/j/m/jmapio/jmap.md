@@ -1,6 +1,6 @@
 # jmapio/jmap - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1081 | 76 | 
 | 2023-01-26 | 1081 | 76 | 
 | 2023-01-24 | 1080 | 76 | 
 | 2023-01-23 | 1080 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1078 | 76 | 
 | 2022-12-30 | 1078 | 76 | 
 | 2022-12-28 | 1078 | 76 | 
-| 2022-12-27 | 1077 | 76 | 
 

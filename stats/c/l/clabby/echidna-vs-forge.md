@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/clabby/echidna-vs-forge)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-26 | 50 | 1 | 
+| 2023-01-26 | 51 | 1 | 
 | 2023-01-25 | 50 | 1 | 
 

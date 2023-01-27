@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-routing-basics-readme - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
-☋ Forks: 2039
+☋ Forks: 2042
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1 | 2042 | 
 | 2023-01-25 | 1 | 2039 | 
 | 2023-01-24 | 1 | 2038 | 
 | 2023-01-23 | 1 | 2035 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1 | 1978 | 
 | 2022-12-29 | 1 | 1973 | 
 | 2022-12-28 | 1 | 1973 | 
-| 2022-12-27 | 1 | 1971 | 
 

@@ -1,6 +1,6 @@
 # e-sensing/sits - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 302 | 66 | 
 | 2023-01-25 | 302 | 66 | 
 | 2023-01-24 | 302 | 66 | 
 | 2023-01-23 | 302 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 300 | 66 | 
 | 2022-12-30 | 300 | 66 | 
 | 2022-12-29 | 300 | 66 | 
-| 2022-12-27 | 300 | 66 | 
 

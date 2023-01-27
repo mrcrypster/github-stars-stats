@@ -1,10 +1,10 @@
 # janraasch/hugo-bearblog - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 96
 
-★ Stars: 419
+★ Stars: 420
 
 [Open repository](https://github.com/janraasch/hugo-bearblog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 420 | 96 | 
 | 2023-01-25 | 419 | 96 | 
 | 2023-01-24 | 417 | 96 | 
 | 2023-01-23 | 417 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 396 | 92 | 
 | 2022-12-29 | 398 | 92 | 
 | 2022-12-28 | 397 | 91 | 
-| 2022-12-27 | 397 | 91 | 
 

@@ -1,10 +1,10 @@
 # Sharp-02/JLF-Sharp-Analog-Snap-In - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/Sharp-02/JLF-Sharp-Analog-Snap-In)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 9 | 1 | 
 | 2023-01-25 | 8 | 1 | 
 | 2023-01-24 | 8 | 1 | 
 | 2023-01-23 | 8 | 1 | 

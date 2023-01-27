@@ -1,6 +1,6 @@
 # JetBrains/gradle-intellij-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 268
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1264 | 268 | 
 | 2023-01-25 | 1264 | 268 | 
 | 2023-01-24 | 1264 | 267 | 
 | 2023-01-23 | 1264 | 267 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1260 | 263 | 
 | 2022-12-29 | 1261 | 263 | 
 | 2022-12-28 | 1261 | 263 | 
-| 2022-12-27 | 1261 | 263 | 
 

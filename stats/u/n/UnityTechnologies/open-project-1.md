@@ -1,10 +1,10 @@
 # UnityTechnologies/open-project-1 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1914
 
-★ Stars: 5063
+★ Stars: 5066
 
 [Open repository](https://github.com/UnityTechnologies/open-project-1)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5066 | 1914 | 
 | 2023-01-25 | 5063 | 1914 | 
 | 2023-01-24 | 5063 | 1915 | 
 | 2023-01-23 | 5062 | 1915 | 

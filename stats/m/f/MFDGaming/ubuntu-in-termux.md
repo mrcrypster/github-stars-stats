@@ -1,10 +1,10 @@
 # MFDGaming/ubuntu-in-termux - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 307
+☋ Forks: 308
 
-★ Stars: 1083
+★ Stars: 1082
 
 [Open repository](https://github.com/MFDGaming/ubuntu-in-termux)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1082 | 308 | 
 | 2023-01-25 | 1083 | 307 | 
 | 2023-01-24 | 1082 | 307 | 
 | 2023-01-23 | 1082 | 307 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1063 | 299 | 
 | 2022-12-29 | 1063 | 299 | 
 | 2022-12-28 | 1062 | 299 | 
-| 2022-12-27 | 1061 | 299 | 
 

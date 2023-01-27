@@ -1,6 +1,6 @@
 # peitalin/vim-jsx-typescript - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 298 | 29 | 
 | 2023-01-25 | 298 | 29 | 
 | 2023-01-24 | 298 | 29 | 
 | 2023-01-23 | 298 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 296 | 29 | 
 | 2022-12-29 | 295 | 29 | 
 | 2022-12-28 | 295 | 29 | 
-| 2022-12-27 | 295 | 29 | 
 

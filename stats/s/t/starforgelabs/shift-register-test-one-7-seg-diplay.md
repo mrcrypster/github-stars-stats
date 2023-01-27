@@ -1,6 +1,6 @@
 # starforgelabs/shift-register-test-one-7-seg-diplay - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2 | - | 
 | 2023-01-25 | 2 | - | 
 | 2023-01-24 | 2 | - | 
 | 2023-01-23 | 1 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | - | - | 
 | 2022-12-29 | - | - | 
 | 2022-12-28 | - | - | 
-| 2022-12-27 | - | - | 
 

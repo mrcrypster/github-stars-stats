@@ -1,6 +1,6 @@
 # thread314/intuitive-tab-line-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 9 | 1 | 
 | 2023-01-25 | 9 | 1 | 
 | 2023-01-23 | 9 | 1 | 
 | 2023-01-22 | 9 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 9 | 1 | 
 | 2022-12-30 | 9 | 1 | 
 | 2022-12-29 | 9 | 1 | 
-| 2022-12-27 | 9 | 1 | 
 

@@ -1,6 +1,6 @@
 # meyskens/mastodon-for-workgroups - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 98 | 1 | 
 | 2023-01-25 | 98 | 1 | 
 | 2023-01-24 | 98 | 1 | 
 | 2023-01-23 | 98 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 94 | 1 | 
 | 2022-12-29 | 94 | 1 | 
 | 2022-12-28 | 93 | 1 | 
-| 2022-12-27 | 93 | 1 | 
 

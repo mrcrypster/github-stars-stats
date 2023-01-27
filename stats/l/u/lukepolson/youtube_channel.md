@@ -1,10 +1,10 @@
 # lukepolson/youtube_channel - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 650
+☋ Forks: 651
 
-★ Stars: 562
+★ Stars: 563
 
 [Open repository](https://github.com/lukepolson/youtube_channel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 563 | 651 | 
 | 2023-01-25 | 562 | 650 | 
 | 2023-01-24 | 561 | 647 | 
 | 2023-01-23 | 562 | 645 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 533 | 627 | 
 | 2022-12-30 | 529 | 626 | 
 | 2022-12-29 | 527 | 623 | 
-| 2022-12-28 | 525 | 620 | 
 

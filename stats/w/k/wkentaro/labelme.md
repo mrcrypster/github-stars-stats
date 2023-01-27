@@ -1,10 +1,10 @@
 # wkentaro/labelme - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 2852
+☋ Forks: 2851
 
-★ Stars: 9643
+★ Stars: 9645
 
 [Open repository](https://github.com/wkentaro/labelme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 9645 | 2851 | 
 | 2023-01-25 | 9643 | 2852 | 
 | 2023-01-23 | 9641 | 2850 | 
 | 2023-01-22 | 9638 | 2849 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 9572 | 2843 | 
 | 2022-12-30 | 9573 | 2844 | 
 | 2022-12-28 | 9571 | 2843 | 
-| 2022-12-27 | 9568 | 2840 | 
 

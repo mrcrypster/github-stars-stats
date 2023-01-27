@@ -1,6 +1,6 @@
 # TraderGalax/java-wallet - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 98 | 37 | 
 | 2023-01-25 | 98 | 37 | 
 | 2023-01-24 | 98 | 37 | 
 | 2023-01-23 | 98 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 98 | 37 | 
 | 2022-12-29 | 98 | 37 | 
 | 2022-12-28 | 98 | 37 | 
-| 2022-12-27 | 98 | 37 | 
 

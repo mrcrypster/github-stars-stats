@@ -1,10 +1,10 @@
 # lk-geimfari/awesomo - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 646
 
-★ Stars: 8777
+★ Stars: 8778
 
 [Open repository](https://github.com/lk-geimfari/awesomo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 8778 | 646 | 
 | 2023-01-25 | 8777 | 646 | 
 | 2023-01-24 | 8777 | 646 | 
 | 2023-01-23 | 8775 | 646 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 8747 | 644 | 
 | 2022-12-29 | 8745 | 644 | 
 | 2022-12-28 | 8745 | 644 | 
-| 2022-12-27 | 8745 | 644 | 
 

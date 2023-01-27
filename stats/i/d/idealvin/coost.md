@@ -1,10 +1,10 @@
 # idealvin/coost - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 484
 
-★ Stars: 3168
+★ Stars: 3169
 
 [Open repository](https://github.com/idealvin/coost)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3169 | 484 | 
 | 2023-01-25 | 3168 | 484 | 
 | 2023-01-24 | 3168 | 484 | 
 | 2023-01-23 | 3168 | 484 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3137 | 481 | 
 | 2022-12-29 | 3135 | 481 | 
 | 2022-12-28 | 3135 | 481 | 
-| 2022-12-27 | 3133 | 480 | 
 

@@ -1,10 +1,10 @@
 # tinygo-org/tinygo - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 700
 
-★ Stars: 12194
+★ Stars: 12198
 
 [Open repository](https://github.com/tinygo-org/tinygo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 12198 | 700 | 
 | 2023-01-25 | 12194 | 700 | 
 | 2023-01-24 | 12190 | 700 | 
 | 2023-01-23 | 12187 | 699 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 12078 | 680 | 
 | 2022-12-29 | 12075 | 680 | 
 | 2022-12-28 | 12069 | 678 | 
-| 2022-12-27 | 12058 | 676 | 
 

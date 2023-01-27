@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 26
 
-☋ Forks: 26
+☋ Forks: 31
 
-★ Stars: 153
+★ Stars: 160
 
 [Open repository](https://github.com/JDA-DM/mojxml2geojson)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-26 | 153 | 26 | 
+| 2023-01-26 | 160 | 31 | 
 | 2023-01-25 | 152 | 26 | 
 

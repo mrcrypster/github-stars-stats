@@ -1,10 +1,10 @@
 # herumi/mcl - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 136
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/herumi/mcl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 366 | 136 | 
 | 2023-01-25 | 365 | 136 | 
 | 2023-01-24 | 365 | 136 | 
 | 2023-01-23 | 364 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 363 | 137 | 
 | 2022-12-29 | 363 | 137 | 
 | 2022-12-28 | 363 | 137 | 
-| 2022-12-27 | 363 | 137 | 
 

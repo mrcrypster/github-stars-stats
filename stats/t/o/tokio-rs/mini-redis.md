@@ -1,10 +1,10 @@
 # tokio-rs/mini-redis - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 274
 
-★ Stars: 2341
+★ Stars: 2342
 
 [Open repository](https://github.com/tokio-rs/mini-redis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2342 | 274 | 
 | 2023-01-25 | 2341 | 274 | 
 | 2023-01-24 | 2340 | 273 | 
 | 2023-01-23 | 2340 | 273 | 

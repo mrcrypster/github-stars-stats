@@ -1,6 +1,6 @@
 # hyper-type/hahmlet - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 46 | 11 | 
+| 2023-01-26 | 46 | 11 | 
 | 2023-01-25 | 46 | 11 | 
 | 2023-01-24 | 46 | 11 | 
 | 2023-01-23 | 46 | 11 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 46 | 11 | 
 | 2022-12-30 | 46 | 11 | 
 | 2022-12-29 | 46 | 11 | 
-| 2022-12-28 | 45 | 11 | 
 

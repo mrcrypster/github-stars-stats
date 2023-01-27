@@ -1,10 +1,10 @@
 # mend/renovate-on-prem - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 39
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/mend/renovate-on-prem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 103 | 39 | 
 | 2023-01-25 | 102 | 39 | 
 | 2023-01-24 | 101 | 39 | 
 | 2023-01-23 | 101 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 99 | 39 | 
 | 2022-12-29 | 99 | 39 | 
 | 2022-12-28 | 99 | 39 | 
-| 2022-12-27 | 99 | 39 | 
 

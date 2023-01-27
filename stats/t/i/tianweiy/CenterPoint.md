@@ -1,10 +1,10 @@
 # tianweiy/CenterPoint - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 377
 
-★ Stars: 1439
+★ Stars: 1440
 
 [Open repository](https://github.com/tianweiy/CenterPoint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1440 | 377 | 
 | 2023-01-25 | 1439 | 377 | 
 | 2023-01-24 | 1438 | 377 | 
 | 2023-01-22 | 1438 | 377 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 1422 | 370 | 
 | 2022-12-30 | 1421 | 370 | 
 | 2022-12-29 | 1420 | 370 | 
-| 2022-12-28 | 1420 | 369 | 
 

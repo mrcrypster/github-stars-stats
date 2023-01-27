@@ -1,6 +1,6 @@
 # residentsummer/watoi - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 427 | 56 | 
 | 2023-01-25 | 427 | 56 | 
 | 2023-01-24 | 427 | 56 | 
 | 2023-01-23 | 427 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 427 | 57 | 
 | 2022-12-30 | 427 | 57 | 
 | 2022-12-28 | 427 | 57 | 
-| 2022-12-27 | 427 | 57 | 
 

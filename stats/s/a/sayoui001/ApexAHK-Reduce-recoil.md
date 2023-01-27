@@ -1,6 +1,6 @@
 # sayoui001/ApexAHK-Reduce-recoil - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 75 | 26 | 
 | 2023-01-25 | 75 | 26 | 
 | 2023-01-24 | 75 | 26 | 
 | 2023-01-23 | 74 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 69 | 26 | 
 | 2022-12-29 | 69 | 26 | 
 | 2022-12-28 | 69 | 25 | 
-| 2022-12-27 | 69 | 25 | 
 

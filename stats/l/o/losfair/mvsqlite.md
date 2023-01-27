@@ -1,10 +1,10 @@
 # losfair/mvsqlite - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 30
 
-★ Stars: 975
+★ Stars: 986
 
 [Open repository](https://github.com/losfair/mvsqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 986 | 30 | 
 | 2023-01-25 | 975 | 30 | 
 | 2023-01-24 | 974 | 30 | 
 | 2023-01-23 | 971 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 940 | 25 | 
 | 2022-12-30 | 940 | 25 | 
 | 2022-12-29 | 940 | 25 | 
-| 2022-12-27 | 939 | 25 | 
 

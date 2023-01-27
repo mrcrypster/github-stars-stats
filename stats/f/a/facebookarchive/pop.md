@@ -1,10 +1,10 @@
 # facebookarchive/pop - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 2917
 
-★ Stars: 19763
+★ Stars: 19764
 
 [Open repository](https://github.com/facebookarchive/pop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 19764 | 2917 | 
 | 2023-01-25 | 19763 | 2917 | 
 | 2023-01-24 | 19763 | 2917 | 
 | 2023-01-23 | 19763 | 2917 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 19770 | 2915 | 
 | 2022-12-29 | 19770 | 2916 | 
 | 2022-12-28 | 19770 | 2916 | 
-| 2022-12-27 | 19770 | 2915 | 
 

@@ -1,10 +1,10 @@
 # jerryjliu/gpt_index - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 180
+☋ Forks: 187
 
-★ Stars: 2652
+★ Stars: 2726
 
 [Open repository](https://github.com/jerryjliu/gpt_index)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2726 | 187 | 
 | 2023-01-25 | 2652 | 180 | 
 | 2023-01-24 | 2621 | 176 | 
 | 2023-01-23 | 2481 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 488 | 30 | 
 | 2022-12-29 | 480 | 30 | 
 | 2022-12-28 | 475 | 30 | 
-| 2022-12-27 | 471 | 29 | 
 

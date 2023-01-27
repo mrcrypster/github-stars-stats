@@ -1,8 +1,8 @@
 # zetbaitsu/Compressor - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 947
+☋ Forks: 948
 
 ★ Stars: 6686
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 6686 | 948 | 
 | 2023-01-25 | 6686 | 947 | 
 | 2023-01-24 | 6686 | 947 | 
 | 2023-01-23 | 6688 | 947 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 6670 | 946 | 
 | 2022-12-29 | 6669 | 946 | 
 | 2022-12-28 | 6669 | 945 | 
-| 2022-12-27 | 6668 | 945 | 
 

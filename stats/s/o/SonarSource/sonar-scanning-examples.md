@@ -1,10 +1,10 @@
 # SonarSource/sonar-scanning-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1973
 
-★ Stars: 768
+★ Stars: 769
 
 [Open repository](https://github.com/SonarSource/sonar-scanning-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 769 | 1973 | 
 | 2023-01-25 | 768 | 1973 | 
 | 2023-01-24 | 768 | 1973 | 
 | 2023-01-23 | 767 | 1972 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 760 | 1953 | 
 | 2022-12-29 | 759 | 1952 | 
 | 2022-12-28 | 759 | 1952 | 
-| 2022-12-27 | 757 | 1950 | 
 

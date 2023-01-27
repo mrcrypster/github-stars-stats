@@ -1,8 +1,8 @@
 # dr007bot/Allin1mltb - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2 | 8 | 
 | 2023-01-25 | 2 | 7 | 
 | 2023-01-24 | 2 | 6 | 
 

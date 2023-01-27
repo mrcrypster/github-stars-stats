@@ -1,6 +1,6 @@
 # tallguyjenks/CV - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 54 | 48 | 
 | 2023-01-25 | 54 | 48 | 
 | 2023-01-24 | 54 | 48 | 
 | 2023-01-23 | 54 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 52 | 47 | 
 | 2022-12-29 | 51 | 47 | 
 | 2022-12-28 | 51 | 47 | 
-| 2022-12-27 | 51 | 47 | 
 

@@ -1,6 +1,6 @@
 # Viridesc3nt/assignment-3--fundamentals-of-computing-1--cs-114--fall-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | - | 14 | 
 | 2023-01-25 | - | 14 | 
 | 2023-01-24 | - | 14 | 
 | 2023-01-23 | - | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | - | 15 | 
 | 2022-12-30 | - | 15 | 
 | 2022-12-29 | - | 15 | 
-| 2022-12-27 | - | 15 | 
 

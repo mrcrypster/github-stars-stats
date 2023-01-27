@@ -1,6 +1,6 @@
 # k8s-operatorhub/community-operators - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 350
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 116 | 350 | 
 | 2023-01-25 | 116 | 350 | 
 | 2023-01-24 | 116 | 349 | 
 | 2023-01-23 | 116 | 349 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 113 | 345 | 
 | 2022-12-29 | 113 | 345 | 
 | 2022-12-28 | 113 | 346 | 
-| 2022-12-27 | 113 | 346 | 
 

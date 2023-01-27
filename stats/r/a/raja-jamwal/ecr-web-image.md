@@ -1,6 +1,6 @@
 # raja-jamwal/ecr-web-image - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1 | 18 | 
 | 2023-01-26 | 1 | 18 | 
 | 2023-01-24 | 1 | 18 | 
 | 2023-01-23 | 1 | 18 | 

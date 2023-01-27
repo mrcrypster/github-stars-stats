@@ -1,6 +1,6 @@
 # itsgoingd/clockwork - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 4809 | 281 | 
 | 2023-01-26 | 4809 | 281 | 
 | 2023-01-24 | 4806 | 281 | 
 | 2023-01-23 | 4804 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 4775 | 279 | 
 | 2022-12-30 | 4773 | 279 | 
 | 2022-12-29 | 4773 | 279 | 
-| 2022-12-28 | 4771 | 279 | 
 

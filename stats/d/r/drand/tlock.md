@@ -1,10 +1,10 @@
 # drand/tlock - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 14
 
-★ Stars: 365
+★ Stars: 368
 
 [Open repository](https://github.com/drand/tlock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 368 | 14 | 
 | 2023-01-25 | 365 | 14 | 
 | 2023-01-24 | 365 | 14 | 
 | 2023-01-23 | 364 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 362 | 14 | 
 | 2022-12-29 | 362 | 14 | 
 | 2022-12-28 | 362 | 14 | 
-| 2022-12-27 | 362 | 14 | 
 

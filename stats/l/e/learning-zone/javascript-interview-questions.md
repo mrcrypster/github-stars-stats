@@ -1,10 +1,10 @@
 # learning-zone/javascript-interview-questions - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 529
 
-★ Stars: 1420
+★ Stars: 1421
 
 [Open repository](https://github.com/learning-zone/javascript-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1421 | 529 | 
 | 2023-01-25 | 1420 | 529 | 
 | 2023-01-24 | 1421 | 529 | 
 | 2023-01-23 | 1420 | 530 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1412 | 525 | 
 | 2022-12-29 | 1411 | 524 | 
 | 2022-12-28 | 1411 | 523 | 
-| 2022-12-27 | 1411 | 522 | 
 

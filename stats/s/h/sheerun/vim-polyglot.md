@@ -1,10 +1,10 @@
 # sheerun/vim-polyglot - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 303
 
-★ Stars: 5246
+★ Stars: 5245
 
 [Open repository](https://github.com/sheerun/vim-polyglot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5245 | 303 | 
 | 2023-01-25 | 5246 | 303 | 
 | 2023-01-24 | 5242 | 303 | 
 | 2023-01-23 | 5241 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5217 | 303 | 
 | 2022-12-29 | 5216 | 302 | 
 | 2022-12-28 | 5216 | 302 | 
-| 2022-12-27 | 5216 | 302 | 
 

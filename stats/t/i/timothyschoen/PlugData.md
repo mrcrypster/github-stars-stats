@@ -1,10 +1,10 @@
 # timothyschoen/PlugData - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 34
 
-★ Stars: 805
+★ Stars: 807
 
 [Open repository](https://github.com/timothyschoen/PlugData)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 807 | 34 | 
 | 2023-01-25 | 805 | 34 | 
 | 2023-01-23 | 805 | 34 | 
 | 2023-01-22 | 801 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 780 | 32 | 
 | 2022-12-30 | 778 | 32 | 
 | 2022-12-28 | 776 | 32 | 
-| 2022-12-27 | 776 | 32 | 
 

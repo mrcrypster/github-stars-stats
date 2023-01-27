@@ -1,10 +1,10 @@
 # plasma-umass/scalene - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 240
 
-★ Stars: 7212
+★ Stars: 7217
 
 [Open repository](https://github.com/plasma-umass/scalene)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 7217 | 240 | 
 | 2023-01-25 | 7212 | 240 | 
 | 2023-01-24 | 7208 | 240 | 
 | 2023-01-23 | 7202 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 7020 | 235 | 
 | 2022-12-29 | 7012 | 235 | 
 | 2022-12-28 | 7003 | 233 | 
-| 2022-12-27 | 6996 | 233 | 
 

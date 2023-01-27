@@ -1,6 +1,6 @@
 # umijs/qiankun - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1800
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 13875 | 1800 | 
 | 2023-01-25 | 13875 | 1800 | 
 | 2023-01-24 | 13872 | 1800 | 
 | 2023-01-23 | 13872 | 1799 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 13817 | 1786 | 
 | 2022-12-29 | 13815 | 1786 | 
 | 2022-12-28 | 13812 | 1786 | 
-| 2022-12-27 | 13808 | 1786 | 
 

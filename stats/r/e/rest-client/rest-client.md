@@ -1,10 +1,10 @@
 # rest-client/rest-client - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 967
 
-★ Stars: 5197
+★ Stars: 5196
 
 [Open repository](https://github.com/rest-client/rest-client)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5196 | 967 | 
 | 2023-01-25 | 5197 | 967 | 
 | 2023-01-24 | 5196 | 967 | 
 | 2023-01-23 | 5196 | 966 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5193 | 967 | 
 | 2022-12-29 | 5193 | 967 | 
 | 2022-12-28 | 5193 | 967 | 
-| 2022-12-27 | 5193 | 967 | 
 

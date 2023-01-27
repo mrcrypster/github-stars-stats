@@ -1,10 +1,10 @@
 # javaparser/javaparser - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 1010
+☋ Forks: 1011
 
-★ Stars: 4522
+★ Stars: 4523
 
 [Open repository](https://github.com/javaparser/javaparser)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4523 | 1011 | 
 | 2023-01-25 | 4522 | 1010 | 
 | 2023-01-24 | 4522 | 1009 | 
 | 2023-01-23 | 4521 | 1008 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4479 | 1006 | 
 | 2022-12-29 | 4477 | 1006 | 
 | 2022-12-28 | 4477 | 1006 | 
-| 2022-12-27 | 4473 | 1004 | 
 

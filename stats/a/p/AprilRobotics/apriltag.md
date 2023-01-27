@@ -1,6 +1,6 @@
 # AprilRobotics/apriltag - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 407
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1003 | 407 | 
 | 2023-01-25 | 1003 | 407 | 
 | 2023-01-24 | 1002 | 407 | 
 | 2023-01-23 | 1002 | 407 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 976 | 399 | 
 | 2022-12-29 | 974 | 398 | 
 | 2022-12-28 | 973 | 397 | 
-| 2022-12-27 | 973 | 397 | 
 

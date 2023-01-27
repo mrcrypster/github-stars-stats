@@ -1,6 +1,6 @@
 # Mawthuq-Software/Wireguard-Manager-GUI - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 132 | 5 | 
 | 2023-01-25 | 132 | 5 | 
 | 2023-01-24 | 132 | 5 | 
 | 2023-01-23 | 132 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 132 | 5 | 
 | 2022-12-29 | 132 | 5 | 
 | 2022-12-28 | 132 | 5 | 
-| 2022-12-27 | 131 | 5 | 
 

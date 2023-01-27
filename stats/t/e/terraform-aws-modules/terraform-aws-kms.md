@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-kms - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 20 | 21 | 
 | 2023-01-25 | 20 | 21 | 
 | 2023-01-24 | 20 | 20 | 
 | 2023-01-23 | 20 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 18 | 19 | 
 | 2022-12-29 | 18 | 19 | 
 | 2022-12-28 | 18 | 19 | 
-| 2022-12-27 | 18 | 19 | 
 

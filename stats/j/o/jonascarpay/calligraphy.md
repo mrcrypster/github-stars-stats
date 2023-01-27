@@ -1,10 +1,10 @@
 # jonascarpay/calligraphy - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/jonascarpay/calligraphy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 69 | 7 | 
 | 2023-01-25 | 68 | 7 | 
 | 2023-01-24 | 68 | 7 | 
 | 2023-01-23 | 68 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 68 | 7 | 
 | 2022-12-29 | 68 | 7 | 
 | 2022-12-28 | 68 | 6 | 
-| 2022-12-27 | 68 | 6 | 
 

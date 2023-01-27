@@ -1,6 +1,6 @@
 # microsoft/sbom-tool - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 964 | 60 | 
 | 2023-01-25 | 964 | 60 | 
 | 2023-01-24 | 962 | 60 | 
 | 2023-01-23 | 961 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 940 | 54 | 
 | 2022-12-29 | 939 | 54 | 
 | 2022-12-28 | 936 | 54 | 
-| 2022-12-27 | 933 | 54 | 
 

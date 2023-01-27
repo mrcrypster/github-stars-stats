@@ -1,10 +1,10 @@
 # docker/volumes-backup-extension - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 14
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/docker/volumes-backup-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 42 | 14 | 
 | 2023-01-25 | 41 | 14 | 
 | 2023-01-24 | 41 | 13 | 
 | 2023-01-23 | 41 | 13 | 

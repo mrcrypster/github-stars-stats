@@ -1,6 +1,6 @@
 # UCSC-CSE-114A/00-lambda - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5 | 7 | 
 | 2023-01-25 | 5 | 7 | 
 | 2023-01-24 | 5 | 7 | 
 | 2023-01-23 | 5 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 4 | 7 | 
 | 2022-12-29 | 4 | 7 | 
 | 2022-12-28 | 4 | 7 | 
-| 2022-12-27 | 4 | 7 | 
 

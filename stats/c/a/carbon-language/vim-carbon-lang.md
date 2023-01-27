@@ -1,10 +1,10 @@
 # carbon-language/vim-carbon-lang - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/carbon-language/vim-carbon-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 40 | 5 | 
 | 2023-01-25 | 39 | 5 | 
 | 2023-01-24 | 39 | 5 | 
 | 2023-01-23 | 39 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 39 | 5 | 
 | 2022-12-29 | 39 | 5 | 
 | 2022-12-28 | 39 | 5 | 
-| 2022-12-27 | 39 | 5 | 
 

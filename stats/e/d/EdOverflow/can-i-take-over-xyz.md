@@ -1,10 +1,10 @@
 # EdOverflow/can-i-take-over-xyz - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 611
 
-★ Stars: 3624
+★ Stars: 3626
 
 [Open repository](https://github.com/EdOverflow/can-i-take-over-xyz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3626 | 611 | 
 | 2023-01-25 | 3624 | 611 | 
 | 2023-01-24 | 3622 | 610 | 
 | 2023-01-23 | 3618 | 610 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 3532 | 598 | 
 | 2022-12-30 | 3531 | 598 | 
 | 2022-12-29 | 3529 | 598 | 
-| 2022-12-28 | 3526 | 597 | 
 

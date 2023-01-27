@@ -1,6 +1,6 @@
 # elgrove/idcac-3.4.2 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 14 | 5 | 
 | 2023-01-25 | 14 | 5 | 
 | 2023-01-24 | 14 | 5 | 
 | 2023-01-23 | 14 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 14 | 5 | 
 | 2022-12-29 | 14 | 5 | 
 | 2022-12-28 | 14 | 5 | 
-| 2022-12-27 | 14 | 5 | 
 

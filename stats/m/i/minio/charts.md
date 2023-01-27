@@ -1,10 +1,10 @@
 # minio/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 22
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/minio/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5 | 22 | 
 | 2023-01-25 | 4 | 22 | 
 | 2023-01-24 | 4 | 22 | 
 | 2023-01-23 | 4 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2 | 22 | 
 | 2022-12-29 | 2 | 22 | 
 | 2022-12-28 | 2 | 22 | 
-| 2022-12-27 | 2 | 22 | 
 

@@ -1,10 +1,10 @@
 # leandromoreira/cdn-up-and-running - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 1793
+★ Stars: 1795
 
 [Open repository](https://github.com/leandromoreira/cdn-up-and-running)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1795 | 91 | 
 | 2023-01-25 | 1793 | 90 | 
 | 2023-01-24 | 1788 | 90 | 
 | 2023-01-22 | 1784 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1139 | 50 | 
 | 2022-12-29 | 1112 | 48 | 
 | 2022-12-28 | 1097 | 48 | 
-| 2022-12-27 | 850 | 40 | 
 

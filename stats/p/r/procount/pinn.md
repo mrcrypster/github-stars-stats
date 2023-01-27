@@ -1,10 +1,10 @@
 # procount/pinn - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 119
 
-★ Stars: 807
+★ Stars: 808
 
 [Open repository](https://github.com/procount/pinn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 808 | 119 | 
 | 2023-01-25 | 807 | 119 | 
 | 2023-01-24 | 807 | 119 | 
 | 2023-01-23 | 807 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 800 | 117 | 
 | 2022-12-29 | 799 | 117 | 
 | 2022-12-28 | 798 | 117 | 
-| 2022-12-27 | 798 | 117 | 
 

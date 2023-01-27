@@ -1,6 +1,6 @@
 # zizroc/villager - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 49 | 4 | 
 | 2023-01-25 | 49 | 4 | 
 | 2023-01-24 | 48 | 4 | 
 | 2023-01-23 | 47 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 46 | 3 | 
 | 2022-12-30 | 46 | 3 | 
 | 2022-12-29 | 46 | 3 | 
-| 2022-12-28 | 46 | 3 | 
 

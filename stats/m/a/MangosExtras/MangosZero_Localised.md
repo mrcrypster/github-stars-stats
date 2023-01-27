@@ -1,10 +1,10 @@
 # MangosExtras/MangosZero_Localised - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/MangosExtras/MangosZero_Localised)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 63 | 42 | 
 | 2023-01-25 | 62 | 41 | 
 | 2023-01-24 | 62 | 41 | 
 | 2023-01-23 | 62 | 41 | 

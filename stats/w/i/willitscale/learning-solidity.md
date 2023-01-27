@@ -1,8 +1,8 @@
 # willitscale/learning-solidity - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 593
+☋ Forks: 592
 
 ★ Stars: 1995
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1995 | 592 | 
 | 2023-01-25 | 1995 | 593 | 
 | 2023-01-24 | 1995 | 593 | 
 | 2023-01-23 | 1994 | 593 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1983 | 590 | 
 | 2022-12-29 | 1983 | 590 | 
 | 2022-12-28 | 1983 | 590 | 
-| 2022-12-27 | 1983 | 590 | 
 

@@ -1,6 +1,6 @@
 # kevinsullivan/TLAPlusDocker - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 8 | 7 | 
 | 2023-01-25 | 8 | 7 | 
 | 2023-01-24 | 8 | 7 | 
 | 2023-01-23 | 8 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 8 | 7 | 
 | 2022-12-30 | 8 | 7 | 
 | 2022-12-29 | 8 | 7 | 
-| 2022-12-28 | 8 | 7 | 
 

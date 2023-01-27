@@ -1,10 +1,10 @@
 # gokcehan/lf - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 243
+☋ Forks: 244
 
-★ Stars: 5371
+★ Stars: 5376
 
 [Open repository](https://github.com/gokcehan/lf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 5376 | 244 | 
 | 2023-01-25 | 5371 | 243 | 
 | 2023-01-24 | 5364 | 243 | 
 | 2023-01-23 | 5360 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5261 | 239 | 
 | 2022-12-29 | 5252 | 239 | 
 | 2022-12-28 | 5250 | 239 | 
-| 2022-12-27 | 5246 | 239 | 
 

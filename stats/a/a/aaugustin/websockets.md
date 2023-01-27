@@ -1,10 +1,10 @@
 # aaugustin/websockets - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 463
 
-★ Stars: 4362
+★ Stars: 4365
 
 [Open repository](https://github.com/aaugustin/websockets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 4365 | 463 | 
 | 2023-01-26 | 4362 | 463 | 
 | 2023-01-25 | 4357 | 462 | 
 | 2023-01-23 | 4357 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 4324 | 465 | 
 | 2022-12-30 | 4322 | 465 | 
 | 2022-12-29 | 4321 | 465 | 
-| 2022-12-28 | 4319 | 464 | 
 

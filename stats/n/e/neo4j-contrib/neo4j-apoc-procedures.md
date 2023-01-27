@@ -1,6 +1,6 @@
 # neo4j-contrib/neo4j-apoc-procedures - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 473
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1561 | 473 | 
 | 2023-01-26 | 1561 | 473 | 
 | 2023-01-24 | 1561 | 473 | 
 | 2023-01-23 | 1561 | 473 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1555 | 471 | 
 | 2022-12-30 | 1555 | 471 | 
 | 2022-12-29 | 1555 | 471 | 
-| 2022-12-27 | 1555 | 471 | 
 

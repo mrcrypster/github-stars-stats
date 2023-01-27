@@ -1,10 +1,10 @@
 # bevyengine/bevy - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 2116
+☋ Forks: 2117
 
-★ Stars: 21458
+★ Stars: 21472
 
 [Open repository](https://github.com/bevyengine/bevy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 21472 | 2117 | 
 | 2023-01-25 | 21458 | 2116 | 
 | 2023-01-24 | 21442 | 2117 | 
 | 2023-01-23 | 21441 | 2117 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 21034 | 2077 | 
 | 2022-12-29 | 21009 | 2076 | 
 | 2022-12-28 | 20991 | 2072 | 
-| 2022-12-27 | 20974 | 2072 | 
 

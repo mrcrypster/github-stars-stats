@@ -1,6 +1,6 @@
 # oc/roninku - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 18 | 3 | 
 | 2023-01-26 | 18 | 3 | 
 | 2023-01-24 | 18 | 3 | 
 | 2023-01-23 | 18 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 18 | 3 | 
 | 2022-12-29 | 18 | 3 | 
 | 2022-12-28 | 18 | 3 | 
-| 2022-12-27 | 18 | 3 | 
 

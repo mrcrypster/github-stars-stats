@@ -1,6 +1,6 @@
 # petersem/posterr - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 195 | 10 | 
 | 2023-01-25 | 195 | 10 | 
 | 2023-01-24 | 195 | 10 | 
 | 2023-01-23 | 195 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 189 | 10 | 
 | 2022-12-29 | 189 | 10 | 
 | 2022-12-28 | 189 | 10 | 
-| 2022-12-27 | 188 | 10 | 
 

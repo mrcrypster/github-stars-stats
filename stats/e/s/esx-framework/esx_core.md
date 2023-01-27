@@ -1,10 +1,10 @@
 # esx-framework/esx_core - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
-☋ Forks: 641
+☋ Forks: 643
 
-★ Stars: 244
+★ Stars: 249
 
 [Open repository](https://github.com/esx-framework/esx_core)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 249 | 643 | 
+| 2023-01-26 | 249 | 643 | 
 | 2023-01-25 | 244 | 641 | 
 | 2023-01-24 | 244 | 641 | 
 | 2023-01-23 | 244 | 641 | 

@@ -1,10 +1,10 @@
 # eth-clients/goerli - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 98
 
-★ Stars: 348
+★ Stars: 349
 
 [Open repository](https://github.com/eth-clients/goerli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 349 | 98 | 
 | 2023-01-25 | 348 | 98 | 
 | 2023-01-24 | 348 | 97 | 
 | 2023-01-23 | 348 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 335 | 95 | 
 | 2022-12-29 | 334 | 95 | 
 | 2022-12-28 | 334 | 95 | 
-| 2022-12-27 | 334 | 95 | 
 

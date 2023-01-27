@@ -1,8 +1,8 @@
 # thegeeklab/hugo-geekdoc - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 264
+☋ Forks: 266
 
 ★ Stars: 404
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 404 | 266 | 
 | 2023-01-25 | 404 | 264 | 
 | 2023-01-24 | 403 | 264 | 
 | 2023-01-23 | 402 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 392 | 256 | 
 | 2022-12-29 | 391 | 255 | 
 | 2022-12-28 | 391 | 253 | 
-| 2022-12-27 | 390 | 253 | 
 

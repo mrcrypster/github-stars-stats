@@ -1,6 +1,6 @@
 # tomasz-lisowski/swicc - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 115 | 9 | 
 | 2023-01-25 | 115 | 9 | 
 | 2023-01-24 | 115 | 9 | 
 | 2023-01-23 | 115 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 113 | 8 | 
 | 2022-12-29 | 111 | 8 | 
 | 2022-12-28 | 108 | 8 | 
-| 2022-12-27 | 108 | 8 | 
 

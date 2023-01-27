@@ -1,6 +1,6 @@
 # huxuan/resumecls - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 85 | 39 | 
 | 2023-01-25 | 85 | 39 | 
 | 2023-01-24 | 85 | 39 | 
 | 2023-01-23 | 85 | 39 | 

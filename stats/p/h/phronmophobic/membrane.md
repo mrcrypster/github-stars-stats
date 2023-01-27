@@ -1,6 +1,6 @@
 # phronmophobic/membrane - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 398 | 11 | 
 | 2023-01-25 | 398 | 11 | 
 | 2023-01-24 | 395 | 11 | 
 | 2023-01-23 | 395 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 391 | 11 | 
 | 2022-12-29 | 391 | 11 | 
 | 2022-12-28 | 390 | 11 | 
-| 2022-12-27 | 389 | 11 | 
 

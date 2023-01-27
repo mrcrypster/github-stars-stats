@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoft-365-docs-pr.hu-HU - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 4 | 3 | 
 | 2023-01-25 | 4 | 3 | 
 | 2023-01-24 | 4 | 3 | 
 | 2023-01-23 | 4 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 4 | 3 | 
 | 2022-12-29 | 4 | 3 | 
 | 2022-12-28 | 4 | 3 | 
-| 2022-12-27 | 4 | 3 | 
 

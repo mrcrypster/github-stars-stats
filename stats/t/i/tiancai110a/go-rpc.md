@@ -1,6 +1,6 @@
 # tiancai110a/go-rpc - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 36 | 11 | 
 | 2023-01-25 | 36 | 11 | 
 | 2023-01-24 | 36 | 11 | 
 | 2023-01-22 | 36 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 36 | 11 | 
 | 2022-12-30 | 36 | 11 | 
 | 2022-12-28 | 36 | 11 | 
-| 2022-12-27 | 36 | 11 | 
 

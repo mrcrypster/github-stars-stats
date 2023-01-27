@@ -1,10 +1,10 @@
 # voxelbotics/meta-vb-imx8mp - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/voxelbotics/meta-vb-imx8mp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2 | 1 | 
 | 2023-01-25 | 1 | 1 | 
 | 2023-01-24 | 1 | 1 | 
 | 2023-01-23 | 1 | 1 | 

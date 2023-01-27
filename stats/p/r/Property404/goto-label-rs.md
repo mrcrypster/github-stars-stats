@@ -1,6 +1,6 @@
 # Property404/goto-label-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 92 | 3 | 
 | 2023-01-25 | 92 | 3 | 
 | 2023-01-24 | 92 | 3 | 
 | 2023-01-23 | 92 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 92 | 3 | 
 | 2022-12-29 | 92 | 3 | 
 | 2022-12-28 | 92 | 3 | 
-| 2022-12-27 | 92 | 3 | 
 

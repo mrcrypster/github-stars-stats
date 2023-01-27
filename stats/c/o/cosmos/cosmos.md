@@ -1,10 +1,10 @@
 # cosmos/cosmos - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 288
 
-★ Stars: 1166
+★ Stars: 1167
 
 [Open repository](https://github.com/cosmos/cosmos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1167 | 288 | 
 | 2023-01-25 | 1166 | 288 | 
 | 2023-01-24 | 1165 | 288 | 
 | 2023-01-23 | 1165 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1161 | 286 | 
 | 2022-12-29 | 1161 | 286 | 
 | 2022-12-28 | 1161 | 286 | 
-| 2022-12-27 | 1161 | 286 | 
 

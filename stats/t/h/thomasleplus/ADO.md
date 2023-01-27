@@ -1,10 +1,10 @@
 # thomasleplus/ADO - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/thomasleplus/ADO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 6 | 3 | 
 | 2023-01-25 | 5 | 3 | 
 | 2023-01-24 | 5 | 3 | 
 | 2023-01-23 | 5 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5 | 3 | 
 | 2022-12-29 | 5 | 3 | 
 | 2022-12-28 | 5 | 3 | 
-| 2022-12-27 | 5 | 3 | 
 

@@ -1,10 +1,10 @@
 # gitpod-io/workspace-images - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 319
+☋ Forks: 320
 
-★ Stars: 412
+★ Stars: 413
 
 [Open repository](https://github.com/gitpod-io/workspace-images)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 413 | 320 | 
 | 2023-01-25 | 412 | 319 | 
 | 2023-01-24 | 413 | 319 | 
 | 2023-01-23 | 413 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 410 | 318 | 
 | 2022-12-29 | 409 | 317 | 
 | 2022-12-28 | 409 | 318 | 
-| 2022-12-27 | 409 | 318 | 
 

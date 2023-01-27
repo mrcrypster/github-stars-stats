@@ -1,6 +1,6 @@
 # sifive/block-inclusivecache-sifive - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 61 | 41 | 
 | 2023-01-25 | 61 | 41 | 
 | 2023-01-24 | 61 | 41 | 
 | 2023-01-23 | 61 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 60 | 40 | 
 | 2022-12-29 | 60 | 40 | 
 | 2022-12-28 | 59 | 40 | 
-| 2022-12-27 | 59 | 40 | 
 

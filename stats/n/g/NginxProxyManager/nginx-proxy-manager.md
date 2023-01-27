@@ -1,10 +1,10 @@
 # NginxProxyManager/nginx-proxy-manager - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1335
 
-★ Stars: 11089
+★ Stars: 11099
 
 [Open repository](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 11099 | 1335 | 
 | 2023-01-25 | 11089 | 1335 | 
 | 2023-01-24 | 11081 | 1333 | 
 | 2023-01-23 | 11068 | 1330 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 10735 | 1295 | 
 | 2022-12-29 | 10718 | 1296 | 
 | 2022-12-28 | 10702 | 1293 | 
-| 2022-12-27 | 10681 | 1291 | 
 

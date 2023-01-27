@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 30
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 200 | 30 | 
+| 2023-01-26 | 200 | 30 | 
 | 2023-01-25 | 200 | 30 | 
 | 2023-01-24 | 200 | 30 | 
 | 2023-01-23 | 200 | 30 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 200 | 29 | 
 | 2022-12-29 | 200 | 29 | 
 | 2022-12-28 | 200 | 29 | 
-| 2022-12-27 | 200 | 29 | 
 

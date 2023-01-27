@@ -1,6 +1,6 @@
 # TarekAlabd/Flutter-Steps-Tracker - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 56 | 19 | 
 | 2023-01-25 | 56 | 19 | 
 | 2023-01-24 | 56 | 19 | 
 | 2023-01-23 | 56 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 56 | 17 | 
 | 2022-12-30 | 56 | 16 | 
 | 2022-12-29 | 56 | 16 | 
-| 2022-12-27 | 56 | 16 | 
 

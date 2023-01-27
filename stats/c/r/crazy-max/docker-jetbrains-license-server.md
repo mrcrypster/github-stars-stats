@@ -1,6 +1,6 @@
 # crazy-max/docker-jetbrains-license-server - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1132 | 304 | 
 | 2023-01-25 | 1132 | 304 | 
 | 2023-01-24 | 1131 | 304 | 
 | 2023-01-23 | 1130 | 305 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1118 | 306 | 
 | 2022-12-29 | 1118 | 305 | 
 | 2022-12-28 | 1116 | 305 | 
-| 2022-12-27 | 1116 | 305 | 
 

@@ -1,6 +1,6 @@
 # til-jmac/tableau-server-housekeeping - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 63 | 73 | 
 | 2023-01-25 | 63 | 73 | 
 | 2023-01-24 | 63 | 73 | 
 | 2023-01-23 | 63 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 62 | 73 | 
 | 2022-12-29 | 62 | 73 | 
 | 2022-12-28 | 62 | 73 | 
-| 2022-12-27 | 62 | 73 | 
 

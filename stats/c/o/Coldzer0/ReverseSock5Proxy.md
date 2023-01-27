@@ -1,6 +1,6 @@
 # Coldzer0/ReverseSock5Proxy - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 268 | 33 | 
 | 2023-01-25 | 268 | 33 | 
 | 2023-01-24 | 268 | 33 | 
 | 2023-01-23 | 268 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 262 | 32 | 
 | 2022-12-29 | 261 | 32 | 
 | 2022-12-28 | 261 | 32 | 
-| 2022-12-27 | 261 | 32 | 
 

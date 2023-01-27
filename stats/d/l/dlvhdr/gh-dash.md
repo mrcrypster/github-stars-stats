@@ -1,10 +1,10 @@
 # dlvhdr/gh-dash - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 109
+☋ Forks: 111
 
-★ Stars: 3157
+★ Stars: 3159
 
 [Open repository](https://github.com/dlvhdr/gh-dash)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3159 | 111 | 
 | 2023-01-25 | 3157 | 109 | 
 | 2023-01-24 | 3155 | 109 | 
 | 2023-01-23 | 3149 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3062 | 101 | 
 | 2022-12-29 | 3055 | 101 | 
 | 2022-12-28 | 3053 | 101 | 
-| 2022-12-27 | 3045 | 101 | 
 

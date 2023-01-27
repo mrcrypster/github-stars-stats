@@ -1,10 +1,10 @@
 # Abd-007/Switch-Emulators-Guide - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 50
 
-★ Stars: 804
+★ Stars: 807
 
 [Open repository](https://github.com/Abd-007/Switch-Emulators-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 807 | 50 | 
 | 2023-01-25 | 804 | 50 | 
 | 2023-01-24 | 799 | 50 | 
 | 2023-01-23 | 797 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 713 | 46 | 
 | 2022-12-29 | 708 | 47 | 
 | 2022-12-28 | 698 | 47 | 
-| 2022-12-27 | 692 | 47 | 
 

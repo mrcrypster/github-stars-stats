@@ -1,10 +1,10 @@
 # transistorsoft/react-native-background-geolocation - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 414
 
-★ Stars: 2306
+★ Stars: 2307
 
 [Open repository](https://github.com/transistorsoft/react-native-background-geolocation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2307 | 414 | 
 | 2023-01-25 | 2306 | 414 | 
 | 2023-01-24 | 2306 | 414 | 
 | 2023-01-23 | 2304 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2290 | 412 | 
 | 2022-12-29 | 2290 | 412 | 
 | 2022-12-28 | 2290 | 412 | 
-| 2022-12-27 | 2290 | 411 | 
 

@@ -1,10 +1,10 @@
 # pixijs/pixijs - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 4701
 
-★ Stars: 38671
+★ Stars: 38674
 
 [Open repository](https://github.com/pixijs/pixijs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 38674 | 4701 | 
 | 2023-01-25 | 38671 | 4701 | 
 | 2023-01-24 | 38663 | 4701 | 
 | 2023-01-23 | 38659 | 4701 | 

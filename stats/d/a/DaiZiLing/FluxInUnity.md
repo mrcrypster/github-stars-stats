@@ -1,6 +1,6 @@
 # DaiZiLing/FluxInUnity - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 18 | 2 | 
 | 2023-01-25 | 18 | 2 | 
 | 2023-01-24 | 18 | 2 | 
 | 2023-01-23 | 18 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 18 | 2 | 
 | 2022-12-30 | 18 | 2 | 
 | 2022-12-29 | 18 | 2 | 
-| 2022-12-28 | 17 | 2 | 
 

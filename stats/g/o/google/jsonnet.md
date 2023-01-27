@@ -1,10 +1,10 @@
 # google/jsonnet - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 416
 
-★ Stars: 6017
+★ Stars: 6018
 
 [Open repository](https://github.com/google/jsonnet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 6018 | 416 | 
 | 2023-01-25 | 6017 | 416 | 
 | 2023-01-24 | 6017 | 416 | 
 | 2023-01-23 | 6015 | 416 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 5967 | 415 | 
 | 2022-12-29 | 5965 | 415 | 
 | 2022-12-28 | 5964 | 415 | 
-| 2022-12-27 | 5962 | 415 | 
 

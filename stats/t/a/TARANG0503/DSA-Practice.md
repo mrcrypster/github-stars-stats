@@ -1,8 +1,8 @@
 # TARANG0503/DSA-Practice - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
-☋ Forks: 307
+☋ Forks: 306
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 40 | 306 | 
 | 2023-01-25 | 40 | 307 | 
 | 2023-01-24 | 40 | 307 | 
 | 2023-01-23 | 40 | 307 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 42 | 312 | 
 | 2022-12-29 | 42 | 312 | 
 | 2022-12-28 | 42 | 312 | 
-| 2022-12-27 | 42 | 312 | 
 

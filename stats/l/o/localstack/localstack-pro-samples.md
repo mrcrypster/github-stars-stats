@@ -1,10 +1,10 @@
 # localstack/localstack-pro-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 48
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/localstack/localstack-pro-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 117 | 48 | 
 | 2023-01-25 | 116 | 48 | 
 | 2023-01-24 | 115 | 47 | 
 | 2023-01-23 | 115 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 109 | 47 | 
 | 2022-12-29 | 109 | 47 | 
 | 2022-12-28 | 109 | 47 | 
-| 2022-12-27 | 108 | 47 | 
 

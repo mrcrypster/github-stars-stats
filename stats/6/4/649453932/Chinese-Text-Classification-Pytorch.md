@@ -1,6 +1,6 @@
 # 649453932/Chinese-Text-Classification-Pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1094
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 4089 | 1094 | 
 | 2023-01-25 | 4089 | 1094 | 
 | 2023-01-24 | 4090 | 1094 | 
 | 2023-01-23 | 4090 | 1095 | 

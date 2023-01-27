@@ -1,10 +1,10 @@
 # revarbat/BOSL2 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 70
 
-★ Stars: 463
+★ Stars: 464
 
 [Open repository](https://github.com/revarbat/BOSL2)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 464 | 70 | 
+| 2023-01-26 | 463 | 70 | 
 | 2023-01-25 | 463 | 70 | 
 | 2023-01-24 | 463 | 70 | 
 | 2023-01-23 | 463 | 70 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 448 | 68 | 
 | 2022-12-29 | 448 | 68 | 
 | 2022-12-28 | 447 | 68 | 
-| 2022-12-27 | 447 | 68 | 
 

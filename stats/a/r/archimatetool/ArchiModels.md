@@ -1,6 +1,6 @@
 # archimatetool/ArchiModels - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 136 | 125 | 
 | 2023-01-25 | 136 | 125 | 
 | 2023-01-24 | 136 | 125 | 
 | 2023-01-23 | 136 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 136 | 125 | 
 | 2022-12-29 | 136 | 125 | 
 | 2022-12-28 | 136 | 125 | 
-| 2022-12-27 | 136 | 125 | 
 

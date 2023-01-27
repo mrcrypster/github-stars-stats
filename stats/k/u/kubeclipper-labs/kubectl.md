@@ -1,6 +1,6 @@
 # kubeclipper-labs/kubectl - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 23 | 1 | 
 | 2023-01-25 | 23 | 1 | 
 | 2023-01-24 | 23 | 1 | 
 | 2023-01-23 | 23 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 23 | 1 | 
 | 2022-12-29 | 23 | 1 | 
 | 2022-12-28 | 23 | 1 | 
-| 2022-12-27 | 23 | 1 | 
 

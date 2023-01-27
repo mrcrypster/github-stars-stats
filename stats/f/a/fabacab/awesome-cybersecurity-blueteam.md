@@ -1,10 +1,10 @@
 # fabacab/awesome-cybersecurity-blueteam - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 544
+☋ Forks: 545
 
-★ Stars: 3000
+★ Stars: 3002
 
 [Open repository](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3002 | 545 | 
 | 2023-01-25 | 3000 | 544 | 
 | 2023-01-24 | 2998 | 544 | 
 | 2023-01-23 | 2993 | 543 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2942 | 539 | 
 | 2022-12-29 | 2938 | 538 | 
 | 2022-12-28 | 2935 | 538 | 
-| 2022-12-27 | 2934 | 536 | 
 

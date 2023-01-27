@@ -1,10 +1,10 @@
 # clasp-developers/clasp - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 132
 
-★ Stars: 2273
+★ Stars: 2274
 
 [Open repository](https://github.com/clasp-developers/clasp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 2274 | 132 | 
 | 2023-01-25 | 2273 | 132 | 
 | 2023-01-24 | 2273 | 132 | 
 | 2023-01-23 | 2273 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 2257 | 133 | 
 | 2022-12-29 | 2256 | 133 | 
 | 2022-12-28 | 2256 | 133 | 
-| 2022-12-27 | 2256 | 133 | 
 

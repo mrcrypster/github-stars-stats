@@ -1,6 +1,6 @@
 # woai3c/visual-drag-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1154
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3749 | 1154 | 
 | 2023-01-25 | 3749 | 1154 | 
 | 2023-01-24 | 3747 | 1153 | 
 | 2023-01-23 | 3747 | 1153 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3663 | 1131 | 
 | 2022-12-29 | 3653 | 1130 | 
 | 2022-12-28 | 3649 | 1128 | 
-| 2022-12-27 | 3638 | 1124 | 
 

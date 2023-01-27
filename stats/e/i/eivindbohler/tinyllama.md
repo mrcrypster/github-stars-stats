@@ -1,6 +1,6 @@
 # eivindbohler/tinyllama - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 228 | 2 | 
 | 2023-01-25 | 228 | 2 | 
 | 2023-01-24 | 228 | 2 | 
 | 2023-01-23 | 228 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 221 | 2 | 
 | 2022-12-29 | 221 | 2 | 
 | 2022-12-28 | 221 | 2 | 
-| 2022-12-27 | 222 | 2 | 
 

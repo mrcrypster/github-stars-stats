@@ -1,6 +1,6 @@
 # testdouble/mocktail - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 226 | 6 | 
 | 2023-01-25 | 226 | 6 | 
 | 2023-01-24 | 226 | 6 | 
 | 2023-01-23 | 226 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 224 | 6 | 
 | 2022-12-29 | 224 | 6 | 
 | 2022-12-28 | 224 | 6 | 
-| 2022-12-27 | 224 | 6 | 
 

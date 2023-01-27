@@ -1,10 +1,10 @@
 # tumashu/pyim - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 83
 
-★ Stars: 830
+★ Stars: 829
 
 [Open repository](https://github.com/tumashu/pyim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 829 | 83 | 
 | 2023-01-25 | 830 | 83 | 
 | 2023-01-23 | 830 | 83 | 
 | 2023-01-22 | 830 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 825 | 83 | 
 | 2022-12-30 | 825 | 83 | 
 | 2022-12-29 | 824 | 83 | 
-| 2022-12-27 | 824 | 83 | 
 

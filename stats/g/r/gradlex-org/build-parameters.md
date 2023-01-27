@@ -1,6 +1,6 @@
 # gradlex-org/build-parameters - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 62 | 2 | 
 | 2023-01-25 | 62 | 2 | 
 | 2023-01-24 | 62 | 2 | 
 | 2023-01-23 | 62 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 61 | 2 | 
 | 2022-12-30 | 61 | 2 | 
 | 2022-12-29 | 61 | 2 | 
-| 2022-12-28 | 60 | 2 | 
 

@@ -1,10 +1,10 @@
 # XIU2/CloudflareSpeedTest - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 1997
+☋ Forks: 2002
 
-★ Stars: 7696
+★ Stars: 7714
 
 [Open repository](https://github.com/XIU2/CloudflareSpeedTest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 7714 | 2002 | 
 | 2023-01-25 | 7696 | 1997 | 
 | 2023-01-24 | 7679 | 1992 | 
 | 2023-01-23 | 7671 | 1990 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 7339 | 1940 | 
 | 2022-12-29 | 7328 | 1939 | 
 | 2022-12-28 | 7317 | 1939 | 
-| 2022-12-27 | 7299 | 1937 | 
 

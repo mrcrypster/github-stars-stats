@@ -1,6 +1,6 @@
 # framesurge/perseus - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1207 | 44 | 
 | 2023-01-25 | 1207 | 44 | 
 | 2023-01-24 | 1206 | 44 | 
 | 2023-01-23 | 1205 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 1169 | 43 | 
 | 2022-12-30 | 1166 | 43 | 
 | 2022-12-28 | 1165 | 43 | 
-| 2022-12-27 | 1163 | 42 | 
 

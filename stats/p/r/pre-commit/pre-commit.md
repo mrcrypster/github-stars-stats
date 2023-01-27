@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 26
 
 ☋ Forks: 698
 
-★ Stars: 9608
+★ Stars: 9612
 
 [Open repository](https://github.com/pre-commit/pre-commit)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-26 | 9608 | 698 | 
+| 2023-01-26 | 9612 | 698 | 
 | 2023-01-25 | 9606 | 698 | 
 | 2023-01-24 | 9592 | 695 | 
 | 2023-01-23 | 9585 | 695 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-30 | 9440 | 686 | 
 | 2022-12-29 | 9429 | 686 | 
 | 2022-12-28 | 9425 | 687 | 
-| 2022-12-27 | 9417 | 687 | 
 

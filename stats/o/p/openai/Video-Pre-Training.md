@@ -1,6 +1,6 @@
 # openai/Video-Pre-Training - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 750 | 70 | 
 | 2023-01-25 | 750 | 70 | 
 | 2023-01-24 | 749 | 69 | 
 | 2023-01-23 | 749 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 725 | 62 | 
 | 2022-12-29 | 725 | 62 | 
 | 2022-12-28 | 724 | 62 | 
-| 2022-12-27 | 723 | 62 | 
 

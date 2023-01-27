@@ -1,10 +1,10 @@
 # Jeiwan/uniswapv3-unrefunded-eth-poc - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/Jeiwan/uniswapv3-unrefunded-eth-poc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 36 | 5 | 
 | 2023-01-25 | 35 | 5 | 
 | 2023-01-24 | 35 | 5 | 
 

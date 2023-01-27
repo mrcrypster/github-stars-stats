@@ -1,10 +1,10 @@
 # bmorelli25/Become-A-Full-Stack-Web-Developer - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 2632
+☋ Forks: 2633
 
-★ Stars: 15969
+★ Stars: 15972
 
 [Open repository](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 15972 | 2633 | 
 | 2023-01-25 | 15969 | 2632 | 
 | 2023-01-23 | 15968 | 2632 | 
 | 2023-01-22 | 15967 | 2632 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 15909 | 2632 | 
 | 2022-12-29 | 15904 | 2633 | 
 | 2022-12-28 | 15904 | 2632 | 
-| 2022-12-27 | 15901 | 2632 | 
 

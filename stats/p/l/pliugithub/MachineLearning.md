@@ -1,6 +1,6 @@
 # pliugithub/MachineLearning - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 85 | 100 | 
 | 2023-01-25 | 85 | 100 | 
 | 2023-01-24 | 85 | 100 | 
 | 2023-01-23 | 85 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 82 | 100 | 
 | 2022-12-29 | 82 | 100 | 
 | 2022-12-28 | 82 | 100 | 
-| 2022-12-27 | 82 | 100 | 
 

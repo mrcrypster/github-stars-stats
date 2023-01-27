@@ -1,6 +1,6 @@
 # MiSTer-devel/GnW_MiSTer - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 11 | 7 | 
 | 2023-01-25 | 11 | 7 | 
 | 2023-01-24 | 11 | 7 | 
 | 2023-01-23 | 11 | 7 | 

@@ -1,10 +1,10 @@
 # airbus-cert/Invoke-Bof - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 31
 
-★ Stars: 224
+★ Stars: 223
 
 [Open repository](https://github.com/airbus-cert/Invoke-Bof)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 223 | 31 | 
 | 2023-01-25 | 224 | 31 | 
 | 2023-01-24 | 224 | 31 | 
 | 2023-01-23 | 224 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 222 | 31 | 
 | 2022-12-30 | 222 | 31 | 
 | 2022-12-29 | 221 | 31 | 
-| 2022-12-28 | 221 | 31 | 
 

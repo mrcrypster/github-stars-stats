@@ -1,10 +1,10 @@
 # earlephilhower/arduino-pico - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 206
+☋ Forks: 208
 
-★ Stars: 978
+★ Stars: 984
 
 [Open repository](https://github.com/earlephilhower/arduino-pico)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 984 | 208 | 
 | 2023-01-25 | 978 | 206 | 
 | 2023-01-24 | 974 | 205 | 
 | 2023-01-23 | 970 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 910 | 192 | 
 | 2022-12-29 | 910 | 191 | 
 | 2022-12-28 | 908 | 191 | 
-| 2022-12-27 | 906 | 192 | 
 

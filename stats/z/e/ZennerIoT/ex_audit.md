@@ -1,6 +1,6 @@
 # ZennerIoT/ex_audit - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 314 | 103 | 
 | 2023-01-25 | 314 | 103 | 
 | 2023-01-24 | 314 | 103 | 
 | 2023-01-23 | 314 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 313 | 102 | 
 | 2022-12-29 | 313 | 102 | 
 | 2022-12-28 | 313 | 102 | 
-| 2022-12-27 | 313 | 102 | 
 

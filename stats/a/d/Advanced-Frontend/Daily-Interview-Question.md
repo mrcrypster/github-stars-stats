@@ -1,8 +1,8 @@
 # Advanced-Frontend/Daily-Interview-Question - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 3308
+☋ Forks: 3309
 
 ★ Stars: 26529
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 26529 | 3309 | 
 | 2023-01-25 | 26529 | 3308 | 
 | 2023-01-24 | 26528 | 3308 | 
 | 2023-01-23 | 26526 | 3308 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 26473 | 3306 | 
 | 2022-12-29 | 26473 | 3305 | 
 | 2022-12-28 | 26468 | 3304 | 
-| 2022-12-27 | 26468 | 3305 | 
 

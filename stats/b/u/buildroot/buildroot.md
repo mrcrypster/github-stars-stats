@@ -1,6 +1,6 @@
 # buildroot/buildroot - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 1824
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1942 | 1824 | 
 | 2023-01-25 | 1942 | 1824 | 
 | 2023-01-24 | 1941 | 1823 | 
 | 2023-01-23 | 1941 | 1822 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 1919 | 1809 | 
 | 2022-12-29 | 1921 | 1809 | 
 | 2022-12-28 | 1920 | 1808 | 
-| 2022-12-27 | 1920 | 1808 | 
 

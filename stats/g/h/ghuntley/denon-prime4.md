@@ -1,6 +1,6 @@
 # ghuntley/denon-prime4 - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 9 | 5 | 
 | 2023-01-25 | 9 | 5 | 
 | 2023-01-24 | 9 | 5 | 
 | 2023-01-23 | 9 | 5 | 

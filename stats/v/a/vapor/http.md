@@ -1,6 +1,6 @@
 # vapor/http - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 235 | 70 | 
 | 2023-01-25 | 235 | 70 | 
 | 2023-01-24 | 235 | 70 | 
 | 2023-01-23 | 235 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-31 | 236 | 70 | 
 | 2022-12-29 | 236 | 70 | 
 | 2022-12-28 | 236 | 70 | 
-| 2022-12-27 | 236 | 70 | 
 

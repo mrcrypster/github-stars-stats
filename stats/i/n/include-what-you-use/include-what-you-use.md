@@ -1,10 +1,10 @@
 # include-what-you-use/include-what-you-use - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 331
+☋ Forks: 330
 
-★ Stars: 3179
+★ Stars: 3181
 
 [Open repository](https://github.com/include-what-you-use/include-what-you-use)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 3181 | 330 | 
 | 2023-01-25 | 3179 | 331 | 
 | 2023-01-24 | 3179 | 331 | 
 | 2023-01-23 | 3179 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 3147 | 330 | 
 | 2022-12-29 | 3144 | 330 | 
 | 2022-12-28 | 3143 | 330 | 
-| 2022-12-27 | 3142 | 328 | 
 

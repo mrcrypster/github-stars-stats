@@ -1,10 +1,10 @@
 # espressif/esp-matter - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 246
+★ Stars: 249
 
 [Open repository](https://github.com/espressif/esp-matter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 249 | 51 | 
 | 2023-01-25 | 246 | 50 | 
 | 2023-01-24 | 245 | 50 | 
 | 2023-01-23 | 245 | 50 | 

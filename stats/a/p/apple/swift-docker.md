@@ -1,8 +1,8 @@
 # apple/swift-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 168
+☋ Forks: 169
 
 ★ Stars: 1261
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 1261 | 169 | 
 | 2023-01-25 | 1261 | 168 | 
 | 2023-01-24 | 1261 | 168 | 
 | 2023-01-23 | 1261 | 168 | 

@@ -1,10 +1,10 @@
 # cormullion/Glyphy.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/cormullion/Glyphy.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 47 | - | 
 | 2023-01-25 | 46 | - | 
 | 2023-01-24 | 46 | - | 
 | 2023-01-23 | 46 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 46 | - | 
 | 2022-12-29 | 46 | - | 
 | 2022-12-28 | 46 | - | 
-| 2022-12-27 | 46 | - | 
 

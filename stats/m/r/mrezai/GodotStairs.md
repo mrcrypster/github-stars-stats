@@ -1,10 +1,10 @@
 # mrezai/GodotStairs - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/mrezai/GodotStairs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 29 | 2 | 
 | 2023-01-26 | 30 | 2 | 
 | 2023-01-24 | 30 | 2 | 
 | 2023-01-23 | 30 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 28 | 1 | 
 | 2022-12-30 | 28 | 1 | 
 | 2022-12-29 | 28 | 1 | 
-| 2022-12-28 | 27 | 1 | 
 

@@ -1,6 +1,6 @@
 # kauemurakami/getx_pattern - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 852 | 221 | 
 | 2023-01-25 | 852 | 221 | 
 | 2023-01-24 | 851 | 221 | 
 | 2023-01-23 | 851 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 839 | 217 | 
 | 2022-12-29 | 839 | 217 | 
 | 2022-12-28 | 838 | 217 | 
-| 2022-12-27 | 837 | 217 | 
 

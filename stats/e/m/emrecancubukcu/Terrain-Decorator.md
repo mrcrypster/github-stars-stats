@@ -1,6 +1,6 @@
 # emrecancubukcu/Terrain-Decorator - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 396 | 48 | 
 | 2023-01-25 | 396 | 48 | 
 | 2023-01-24 | 395 | 49 | 
 | 2023-01-23 | 395 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 391 | 47 | 
 | 2022-12-29 | 391 | 47 | 
 | 2022-12-28 | 392 | 47 | 
-| 2022-12-27 | 392 | 46 | 
 

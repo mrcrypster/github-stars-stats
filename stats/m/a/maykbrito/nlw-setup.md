@@ -1,10 +1,10 @@
 # maykbrito/nlw-setup - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
-☋ Forks: 76
+☋ Forks: 75
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/maykbrito/nlw-setup)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 45 | 75 | 
 | 2023-01-25 | 44 | 76 | 
 | 2023-01-24 | 43 | 75 | 
 | 2023-01-23 | 43 | 76 | 

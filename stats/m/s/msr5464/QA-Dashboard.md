@@ -1,10 +1,10 @@
 # msr5464/QA-Dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 10
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/msr5464/QA-Dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 23 | 10 | 
 | 2023-01-25 | 22 | 10 | 
 | 2023-01-24 | 22 | 10 | 
 | 2023-01-23 | 22 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 21 | 10 | 
 | 2022-12-29 | 21 | 10 | 
 | 2022-12-28 | 21 | 10 | 
-| 2022-12-27 | 21 | 10 | 
 

@@ -1,10 +1,10 @@
 # status-im/questionable - stars & forks statistics
 
-Stats updated on Jan 2023, 25
+Stats updated on Jan 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/status-im/questionable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-26 | 66 | 3 | 
 | 2023-01-25 | 65 | 3 | 
 | 2023-01-24 | 65 | 3 | 
 | 2023-01-23 | 65 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 25
 | 2022-12-30 | 63 | 3 | 
 | 2022-12-29 | 63 | 3 | 
 | 2022-12-28 | 63 | 3 | 
-| 2022-12-27 | 62 | 3 | 
 
