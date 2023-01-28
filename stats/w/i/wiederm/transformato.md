@@ -1,6 +1,6 @@
 # wiederm/transformato - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 12 | 5 | 
 | 2023-01-26 | 12 | 5 | 
 | 2023-01-25 | 12 | 5 | 
 | 2023-01-24 | 12 | 5 | 

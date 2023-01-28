@@ -1,10 +1,10 @@
 # murikistudio/simple-gui-transitions - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/murikistudio/simple-gui-transitions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 13 | - | 
 | 2023-01-26 | 12 | - | 
 | 2023-01-25 | 12 | - | 
 | 2023-01-24 | 11 | - | 

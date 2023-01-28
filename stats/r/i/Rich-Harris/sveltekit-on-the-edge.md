@@ -1,10 +1,10 @@
 # Rich-Harris/sveltekit-on-the-edge - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 17
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/Rich-Harris/sveltekit-on-the-edge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 156 | 17 | 
 | 2023-01-26 | 155 | 17 | 
 | 2023-01-25 | 155 | 17 | 
 | 2023-01-24 | 155 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 153 | 17 | 
 | 2022-12-30 | 153 | 17 | 
 | 2022-12-29 | 152 | 17 | 
-| 2022-12-28 | 152 | 17 | 
 

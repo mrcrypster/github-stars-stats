@@ -1,8 +1,8 @@
 # mavlink/mavlink - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1676
+☋ Forks: 1677
 
 ★ Stars: 1278
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1278 | 1677 | 
 | 2023-01-26 | 1278 | 1676 | 
 | 2023-01-25 | 1278 | 1675 | 
 | 2023-01-24 | 1278 | 1673 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1274 | 1667 | 
 | 2022-12-30 | 1272 | 1666 | 
 | 2022-12-29 | 1271 | 1666 | 
-| 2022-12-28 | 1272 | 1666 | 
 

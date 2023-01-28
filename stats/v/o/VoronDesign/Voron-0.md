@@ -1,10 +1,10 @@
 # VoronDesign/Voron-0 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 297
 
-★ Stars: 807
+★ Stars: 810
 
 [Open repository](https://github.com/VoronDesign/Voron-0)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 810 | 297 | 
 | 2023-01-26 | 807 | 297 | 
 | 2023-01-25 | 806 | 296 | 
 | 2023-01-23 | 804 | 296 | 

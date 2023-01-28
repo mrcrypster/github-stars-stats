@@ -1,10 +1,10 @@
 # Shock9616/Phoenix - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/Shock9616/Phoenix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 39 | 2 | 
 | 2023-01-26 | 37 | 2 | 
 | 2023-01-25 | 37 | 2 | 
 | 2023-01-24 | 37 | 2 | 

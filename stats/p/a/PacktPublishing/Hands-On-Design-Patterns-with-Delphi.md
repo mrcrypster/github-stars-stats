@@ -1,6 +1,6 @@
 # PacktPublishing/Hands-On-Design-Patterns-with-Delphi - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 48 | 25 | 
 | 2023-01-26 | 48 | 25 | 
 | 2023-01-25 | 48 | 25 | 
 | 2023-01-24 | 48 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 47 | 25 | 
 | 2022-12-30 | 47 | 25 | 
 | 2022-12-29 | 47 | 25 | 
-| 2022-12-28 | 47 | 25 | 
 

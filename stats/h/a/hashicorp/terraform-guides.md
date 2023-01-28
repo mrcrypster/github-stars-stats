@@ -1,6 +1,6 @@
 # hashicorp/terraform-guides - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1122
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1282 | 1122 | 
 | 2023-01-26 | 1282 | 1122 | 
 | 2023-01-25 | 1282 | 1122 | 
 | 2023-01-24 | 1281 | 1121 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1276 | 1113 | 
 | 2022-12-30 | 1276 | 1111 | 
 | 2022-12-29 | 1276 | 1110 | 
-| 2022-12-28 | 1276 | 1110 | 
 

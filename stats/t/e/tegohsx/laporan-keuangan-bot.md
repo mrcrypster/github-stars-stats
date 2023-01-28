@@ -1,10 +1,10 @@
 # tegohsx/laporan-keuangan-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 54
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/tegohsx/laporan-keuangan-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 146 | 54 | 
 | 2023-01-26 | 145 | 54 | 
 | 2023-01-25 | 144 | 54 | 
 | 2023-01-24 | 144 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 144 | 55 | 
 | 2022-12-30 | 144 | 55 | 
 | 2022-12-29 | 143 | 55 | 
-| 2022-12-28 | 143 | 55 | 
 

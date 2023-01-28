@@ -1,10 +1,10 @@
 # zserge/fenster - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 12
 
-★ Stars: 315
+★ Stars: 321
 
 [Open repository](https://github.com/zserge/fenster)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 321 | 12 | 
 | 2023-01-26 | 315 | 12 | 
 

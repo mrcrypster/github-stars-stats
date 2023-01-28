@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 27
 
 ☋ Forks: 2129
 
-★ Stars: 1509
+★ Stars: 1510
 
 [Open repository](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 1509 | 2129 | 
+| 2023-01-27 | 1510 | 2129 | 
 | 2023-01-26 | 1508 | 2129 | 
 | 2023-01-25 | 1509 | 2128 | 
 | 2023-01-24 | 1510 | 2126 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | 1495 | 2120 | 
 | 2022-12-30 | 1495 | 2120 | 
 | 2022-12-29 | 1495 | 2119 | 
-| 2022-12-28 | 1495 | 2119 | 
 

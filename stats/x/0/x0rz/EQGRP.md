@@ -1,10 +1,10 @@
 # x0rz/EQGRP - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2149
 
-★ Stars: 3925
+★ Stars: 3926
 
 [Open repository](https://github.com/x0rz/EQGRP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 3926 | 2149 | 
 | 2023-01-26 | 3925 | 2149 | 
 | 2023-01-25 | 3925 | 2150 | 
 | 2023-01-24 | 3924 | 2150 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 3923 | 2147 | 
 | 2022-12-30 | 3923 | 2147 | 
 | 2022-12-29 | 3922 | 2147 | 
-| 2022-12-28 | 3921 | 2147 | 
 

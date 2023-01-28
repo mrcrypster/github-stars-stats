@@ -1,10 +1,10 @@
 # jfdm/velo-lang - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/jfdm/velo-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 10 | 1 | 
 | 2023-01-26 | 9 | 1 | 
 | 2023-01-25 | 7 | 1 | 
 | 2023-01-24 | 7 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 7 | 1 | 
 | 2022-12-30 | 7 | 1 | 
 | 2022-12-29 | 7 | 1 | 
-| 2022-12-28 | 7 | 1 | 
 

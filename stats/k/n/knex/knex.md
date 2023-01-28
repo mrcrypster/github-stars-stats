@@ -1,10 +1,10 @@
 # knex/knex - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 2001
+☋ Forks: 2002
 
-★ Stars: 17037
+★ Stars: 17039
 
 [Open repository](https://github.com/knex/knex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 17039 | 2002 | 
 | 2023-01-26 | 17037 | 2001 | 
 | 2023-01-25 | 17034 | 2001 | 
 | 2023-01-24 | 17023 | 1999 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 16897 | 1994 | 
 | 2022-12-30 | 16894 | 1994 | 
 | 2022-12-29 | 16891 | 1993 | 
-| 2022-12-28 | 16885 | 1993 | 
 

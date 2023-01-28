@@ -1,10 +1,10 @@
 # danog/MadelineProto - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 528
 
-★ Stars: 2222
+★ Stars: 2227
 
 [Open repository](https://github.com/danog/MadelineProto)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2227 | 528 | 
 | 2023-01-26 | 2222 | 528 | 
 | 2023-01-25 | 2221 | 528 | 
 | 2023-01-24 | 2218 | 527 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2195 | 520 | 
 | 2022-12-30 | 2194 | 520 | 
 | 2022-12-29 | 2192 | 520 | 
-| 2022-12-28 | 2191 | 520 | 
 

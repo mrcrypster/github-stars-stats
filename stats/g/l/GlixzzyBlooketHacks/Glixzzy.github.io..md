@@ -1,8 +1,8 @@
 # GlixzzyBlooketHacks/Glixzzy.github.io. - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 346
+☋ Forks: 348
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 77 | 348 | 
 | 2023-01-26 | 77 | 346 | 
 | 2023-01-25 | 77 | 343 | 
 | 2023-01-24 | 77 | 342 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 73 | 321 | 
 | 2022-12-30 | 73 | 321 | 
 | 2022-12-29 | 73 | 321 | 
-| 2022-12-28 | 73 | 321 | 
 

@@ -1,10 +1,10 @@
 # anchore/syft - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 331
+☋ Forks: 332
 
-★ Stars: 3636
+★ Stars: 3641
 
 [Open repository](https://github.com/anchore/syft)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 3641 | 332 | 
 | 2023-01-26 | 3636 | 331 | 
 | 2023-01-25 | 3630 | 331 | 
 | 2023-01-24 | 3628 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 3528 | 314 | 
 | 2022-12-30 | 3528 | 314 | 
 | 2022-12-29 | 3521 | 314 | 
-| 2022-12-28 | 3518 | 313 | 
 

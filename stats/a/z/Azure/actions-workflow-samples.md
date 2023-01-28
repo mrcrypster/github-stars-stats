@@ -1,10 +1,10 @@
 # Azure/actions-workflow-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 580
+☋ Forks: 582
 
-★ Stars: 338
+★ Stars: 341
 
 [Open repository](https://github.com/Azure/actions-workflow-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 341 | 582 | 
 | 2023-01-26 | 338 | 580 | 
 | 2023-01-25 | 337 | 580 | 
 | 2023-01-24 | 337 | 581 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 333 | 574 | 
 | 2022-12-30 | 334 | 574 | 
 | 2022-12-29 | 334 | 574 | 
-| 2022-12-28 | 334 | 574 | 
 

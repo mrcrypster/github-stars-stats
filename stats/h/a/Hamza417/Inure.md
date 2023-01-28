@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 27
 
 ☋ Forks: 24
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/Hamza417/Inure)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 345 | 24 | 
+| 2023-01-27 | 346 | 24 | 
 | 2023-01-26 | 345 | 24 | 
 | 2023-01-25 | 341 | 24 | 
 

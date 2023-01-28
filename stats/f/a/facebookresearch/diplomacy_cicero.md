@@ -1,10 +1,10 @@
 # facebookresearch/diplomacy_cicero - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 98
 
-★ Stars: 878
+★ Stars: 879
 
 [Open repository](https://github.com/facebookresearch/diplomacy_cicero)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 879 | 98 | 
 | 2023-01-26 | 878 | 98 | 
 | 2023-01-25 | 876 | 98 | 
 | 2023-01-24 | 876 | 98 | 

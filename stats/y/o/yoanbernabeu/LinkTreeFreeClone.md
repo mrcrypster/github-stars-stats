@@ -1,10 +1,10 @@
 # yoanbernabeu/LinkTreeFreeClone - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/yoanbernabeu/LinkTreeFreeClone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 32 | 5 | 
 | 2023-01-26 | 31 | 5 | 
 | 2023-01-25 | 31 | 4 | 
 | 2023-01-24 | 31 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 24 | 3 | 
 | 2022-12-30 | 24 | 3 | 
 | 2022-12-29 | 24 | 3 | 
-| 2022-12-28 | 23 | 3 | 
 

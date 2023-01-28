@@ -1,10 +1,10 @@
 # tondrejk/tondrejk - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 90
+☋ Forks: 93
 
-★ Stars: 280
+★ Stars: 283
 
 [Open repository](https://github.com/tondrejk/tondrejk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 283 | 93 | 
 | 2023-01-26 | 280 | 90 | 
 | 2023-01-25 | 274 | 89 | 
 | 2023-01-24 | 267 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 137 | 45 | 
 | 2022-12-30 | 130 | 43 | 
 | 2022-12-29 | 126 | 43 | 
-| 2022-12-28 | 120 | 44 | 
 

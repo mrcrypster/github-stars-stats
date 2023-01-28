@@ -1,10 +1,10 @@
 # twilio/programmable-asset-tracker - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/twilio/programmable-asset-tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2 | - | 
 | 2023-01-26 | 1 | - | 
 | 2023-01-25 | - | - | 
 | 2023-01-23 | - | - | 

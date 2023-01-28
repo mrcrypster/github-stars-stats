@@ -1,10 +1,10 @@
 # containerd/containerd - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2658
 
-★ Stars: 13011
+★ Stars: 13016
 
 [Open repository](https://github.com/containerd/containerd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 13016 | 2658 | 
 | 2023-01-26 | 13011 | 2658 | 
 | 2023-01-25 | 13011 | 2660 | 
 | 2023-01-24 | 13003 | 2658 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 12850 | 2626 | 
 | 2022-12-30 | 12843 | 2626 | 
 | 2022-12-29 | 12832 | 2623 | 
-| 2022-12-28 | 12828 | 2624 | 
 

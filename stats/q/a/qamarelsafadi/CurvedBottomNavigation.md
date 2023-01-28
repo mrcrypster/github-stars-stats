@@ -1,10 +1,10 @@
 # qamarelsafadi/CurvedBottomNavigation - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 7
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/qamarelsafadi/CurvedBottomNavigation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 94 | 7 | 
 | 2023-01-26 | 93 | 7 | 
 | 2023-01-25 | 93 | 7 | 
 | 2023-01-24 | 93 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 92 | 7 | 
 | 2022-12-30 | 92 | 7 | 
 | 2022-12-29 | 91 | 7 | 
-| 2022-12-28 | 91 | 7 | 
 

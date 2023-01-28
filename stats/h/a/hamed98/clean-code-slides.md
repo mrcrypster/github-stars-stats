@@ -1,10 +1,10 @@
 # hamed98/clean-code-slides - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 16
 
-★ Stars: 122
+★ Stars: 121
 
 [Open repository](https://github.com/hamed98/clean-code-slides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 121 | 16 | 
 | 2023-01-26 | 122 | 16 | 
 | 2023-01-25 | 122 | 16 | 
 | 2023-01-23 | 122 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 119 | 16 | 
 | 2022-12-30 | 119 | 16 | 
 | 2022-12-29 | 119 | 16 | 
-| 2022-12-28 | 119 | 16 | 
 

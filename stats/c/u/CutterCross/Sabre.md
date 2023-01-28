@@ -1,6 +1,6 @@
 # CutterCross/Sabre - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 22 | - | 
 | 2023-01-26 | 22 | - | 
 

@@ -1,8 +1,8 @@
 # aheze/OpenFind - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 46
+☋ Forks: 47
 
 ★ Stars: 753
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 753 | 47 | 
 | 2023-01-26 | 753 | 46 | 
 | 2023-01-25 | 753 | 46 | 
 | 2023-01-24 | 753 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 745 | 45 | 
 | 2022-12-30 | 744 | 45 | 
 | 2022-12-29 | 743 | 45 | 
-| 2022-12-28 | 743 | 45 | 
 

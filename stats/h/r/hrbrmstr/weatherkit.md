@@ -1,10 +1,10 @@
 # hrbrmstr/weatherkit - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/hrbrmstr/weatherkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 39 | 4 | 
 | 2023-01-26 | 38 | 4 | 
 | 2023-01-25 | 38 | 4 | 
 | 2023-01-24 | 38 | 4 | 

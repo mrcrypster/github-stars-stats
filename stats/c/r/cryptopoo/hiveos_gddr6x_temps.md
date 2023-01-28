@@ -1,6 +1,6 @@
 # cryptopoo/hiveos_gddr6x_temps - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 44 | 11 | 
 | 2023-01-26 | 44 | 11 | 
 | 2023-01-25 | 44 | 11 | 
 | 2023-01-24 | 44 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 44 | 11 | 
 | 2022-12-30 | 45 | 11 | 
 | 2022-12-29 | 45 | 11 | 
-| 2022-12-28 | 45 | 11 | 
 

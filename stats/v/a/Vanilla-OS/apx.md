@@ -1,10 +1,10 @@
 # Vanilla-OS/apx - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 16
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/Vanilla-OS/apx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 185 | 16 | 
 | 2023-01-26 | 184 | 16 | 
 | 2023-01-25 | 183 | 16 | 
 | 2023-01-24 | 181 | 16 | 

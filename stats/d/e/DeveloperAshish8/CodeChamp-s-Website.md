@@ -1,8 +1,8 @@
 # DeveloperAshish8/CodeChamp-s-Website - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 97
+☋ Forks: 96
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 54 | 96 | 
 | 2023-01-26 | 54 | 97 | 
 | 2023-01-25 | 54 | 97 | 
 | 2023-01-24 | 54 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 55 | 103 | 
 | 2022-12-30 | 55 | 103 | 
 | 2022-12-29 | 55 | 103 | 
-| 2022-12-28 | 56 | 104 | 
 

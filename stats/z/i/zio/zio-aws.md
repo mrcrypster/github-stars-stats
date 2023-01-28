@@ -1,6 +1,6 @@
 # zio/zio-aws - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 132 | 24 | 
 | 2023-01-26 | 132 | 24 | 
 | 2023-01-25 | 132 | 24 | 
 | 2023-01-24 | 132 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 131 | 22 | 
 | 2022-12-30 | 131 | 22 | 
 | 2022-12-29 | 131 | 22 | 
-| 2022-12-28 | 131 | 22 | 
 

@@ -1,10 +1,10 @@
 # o3de/o3de - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1772
+☋ Forks: 1774
 
-★ Stars: 5879
+★ Stars: 5883
 
 [Open repository](https://github.com/o3de/o3de)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5883 | 1774 | 
 | 2023-01-26 | 5879 | 1772 | 
 | 2023-01-25 | 5878 | 1769 | 
 | 2023-01-24 | 5875 | 1768 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5794 | 1754 | 
 | 2022-12-30 | 5791 | 1752 | 
 | 2022-12-29 | 5786 | 1751 | 
-| 2022-12-28 | 5782 | 1749 | 
 

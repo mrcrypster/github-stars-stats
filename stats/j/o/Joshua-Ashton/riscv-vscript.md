@@ -1,10 +1,10 @@
 # Joshua-Ashton/riscv-vscript - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/Joshua-Ashton/riscv-vscript)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 42 | - | 
 | 2023-01-26 | 41 | - | 
 | 2023-01-25 | 41 | - | 
 | 2023-01-24 | 41 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 39 | - | 
 | 2022-12-31 | 39 | - | 
 | 2022-12-30 | 39 | - | 
-| 2022-12-29 | 39 | - | 
 

@@ -1,6 +1,6 @@
 # platzi/docker - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 84 | 140 | 
 | 2023-01-26 | 84 | 140 | 
 | 2023-01-25 | 84 | 140 | 
 | 2023-01-24 | 84 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 82 | 139 | 
 | 2022-12-30 | 82 | 139 | 
 | 2022-12-29 | 82 | 139 | 
-| 2022-12-28 | 82 | 139 | 
 

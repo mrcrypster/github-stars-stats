@@ -1,10 +1,10 @@
 # ObuchiYuki/DevToysMac - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 194
 
-★ Stars: 6411
+★ Stars: 6414
 
 [Open repository](https://github.com/ObuchiYuki/DevToysMac)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6414 | 194 | 
 | 2023-01-26 | 6411 | 194 | 
 | 2023-01-25 | 6409 | 194 | 
 | 2023-01-24 | 6407 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 6344 | 194 | 
 | 2022-12-30 | 6339 | 194 | 
 | 2022-12-29 | 6336 | 194 | 
-| 2022-12-28 | 6328 | 193 | 
 

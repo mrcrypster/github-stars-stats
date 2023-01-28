@@ -1,10 +1,10 @@
 # adrianhajdin/project_modern_ui_ux_gpt3 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 597
+☋ Forks: 598
 
-★ Stars: 2262
+★ Stars: 2267
 
 [Open repository](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2267 | 598 | 
 | 2023-01-26 | 2262 | 597 | 
 | 2023-01-25 | 2254 | 593 | 
 | 2023-01-24 | 2250 | 592 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2063 | 526 | 
 | 2022-12-30 | 2061 | 523 | 
 | 2022-12-29 | 2051 | 517 | 
-| 2022-12-28 | 2048 | 515 | 
 

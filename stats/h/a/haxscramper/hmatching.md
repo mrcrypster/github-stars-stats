@@ -1,10 +1,10 @@
 # haxscramper/hmatching - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/haxscramper/hmatching)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 30 | 1 | 
 | 2023-01-26 | 29 | 1 | 
 | 2023-01-25 | 29 | 1 | 
 | 2023-01-24 | 29 | 1 | 

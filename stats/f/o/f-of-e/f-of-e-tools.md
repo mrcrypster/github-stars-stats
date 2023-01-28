@@ -1,6 +1,6 @@
 # f-of-e/f-of-e-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6 | 32 | 
 | 2023-01-26 | 6 | 32 | 
 | 2023-01-25 | 6 | 31 | 
 | 2023-01-24 | 6 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5 | 30 | 
 | 2022-12-30 | 5 | 30 | 
 | 2022-12-29 | 5 | 30 | 
-| 2022-12-28 | 5 | 30 | 
 

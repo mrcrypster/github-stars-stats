@@ -1,8 +1,8 @@
 # grpc/grpc-go - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
-☋ Forks: 3877
+☋ Forks: 3876
 
 ★ Stars: 17444
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 17444 | 3876 | 
 | 2023-01-26 | 17444 | 3877 | 
 | 2023-01-25 | 17441 | 3876 | 
 | 2023-01-24 | 17434 | 3877 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 17328 | 3857 | 
 | 2022-12-30 | 17322 | 3856 | 
 | 2022-12-29 | 17319 | 3853 | 
-| 2022-12-28 | 17315 | 3854 | 
 

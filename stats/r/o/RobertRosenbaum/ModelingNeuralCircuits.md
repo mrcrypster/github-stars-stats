@@ -1,8 +1,8 @@
 # RobertRosenbaum/ModelingNeuralCircuits - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 89 | 19 | 
 | 2023-01-26 | 89 | 18 | 
 | 2023-01-25 | 89 | 18 | 
 | 2023-01-24 | 89 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 86 | 17 | 
 | 2022-12-30 | 86 | 17 | 
 | 2022-12-29 | 86 | 17 | 
-| 2022-12-28 | 86 | 17 | 
 

@@ -1,10 +1,10 @@
 # fincs/SciTE4AutoHotkey - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 61
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/fincs/SciTE4AutoHotkey)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 275 | 61 | 
 | 2023-01-26 | 274 | 61 | 
 | 2023-01-25 | 274 | 61 | 
 | 2023-01-24 | 274 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 273 | 60 | 
 | 2022-12-30 | 273 | 60 | 
 | 2022-12-29 | 273 | 61 | 
-| 2022-12-28 | 273 | 61 | 
 

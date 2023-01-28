@@ -1,6 +1,6 @@
 # chrisbra/Colorizer - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 501 | 33 | 
 | 2023-01-26 | 501 | 33 | 
 | 2023-01-25 | 501 | 33 | 
 | 2023-01-24 | 501 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 498 | 33 | 
 | 2022-12-30 | 498 | 34 | 
 | 2022-12-29 | 496 | 34 | 
-| 2022-12-28 | 496 | 34 | 
 

@@ -1,6 +1,6 @@
 # Xe/site - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 464 | 98 | 
 | 2023-01-26 | 464 | 98 | 
 | 2023-01-25 | 464 | 98 | 
 | 2023-01-24 | 464 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 457 | 99 | 
 | 2022-12-30 | 457 | 100 | 
 | 2022-12-29 | 457 | 100 | 
-| 2022-12-28 | 457 | 100 | 
 

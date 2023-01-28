@@ -1,10 +1,10 @@
 # MaterialDesignInXAML/MaterialDesignInXamlToolkit - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
-☋ Forks: 3167
+☋ Forks: 3168
 
-★ Stars: 13114
+★ Stars: 13113
 
 [Open repository](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 13113 | 3168 | 
+| 2023-01-27 | 13113 | 3168 | 
 | 2023-01-26 | 13114 | 3167 | 
 | 2023-01-25 | 13111 | 3168 | 
 | 2023-01-24 | 13109 | 3168 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 13038 | 3153 | 
 | 2022-12-30 | 13039 | 3154 | 
 | 2022-12-29 | 13037 | 3156 | 
-| 2022-12-28 | 13035 | 3156 | 
 

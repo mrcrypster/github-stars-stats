@@ -1,10 +1,10 @@
 # Frontesque/VueTube - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 133
 
-★ Stars: 2452
+★ Stars: 2453
 
 [Open repository](https://github.com/Frontesque/VueTube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2453 | 133 | 
 | 2023-01-26 | 2452 | 133 | 
 | 2023-01-25 | 2450 | 132 | 
 | 2023-01-24 | 2449 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2418 | 135 | 
 | 2022-12-30 | 2417 | 134 | 
 | 2022-12-29 | 2417 | 134 | 
-| 2022-12-28 | 2416 | 134 | 
 

@@ -1,10 +1,10 @@
 # xiyaowong/nvim-transparent - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 10
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/xiyaowong/nvim-transparent)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 301 | 10 | 
 | 2023-01-26 | 300 | 10 | 
 | 2023-01-25 | 299 | 10 | 
 | 2023-01-24 | 297 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 273 | 9 | 
 | 2022-12-30 | 272 | 9 | 
 | 2022-12-29 | 272 | 9 | 
-| 2022-12-28 | 271 | 9 | 
 

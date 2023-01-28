@@ -1,6 +1,6 @@
 # jtatarik/magit-gitflow - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 98 | 12 | 
 | 2023-01-26 | 98 | 12 | 
 | 2023-01-25 | 98 | 12 | 
 | 2023-01-23 | 98 | 12 | 

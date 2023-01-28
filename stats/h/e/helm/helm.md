@@ -1,10 +1,10 @@
 # helm/helm - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 6516
+☋ Forks: 6518
 
-★ Stars: 23491
+★ Stars: 23495
 
 [Open repository](https://github.com/helm/helm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 23495 | 6518 | 
 | 2023-01-26 | 23491 | 6516 | 
 | 2023-01-25 | 23488 | 6514 | 
 | 2023-01-24 | 23484 | 6514 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 23392 | 6511 | 
 | 2022-12-30 | 23389 | 6511 | 
 | 2022-12-29 | 23386 | 6510 | 
-| 2022-12-28 | 23378 | 6509 | 
 

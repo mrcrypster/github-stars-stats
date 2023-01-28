@@ -1,6 +1,6 @@
 # Autodesk/Aurora - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 351 | 14 | 
 | 2023-01-26 | 351 | 14 | 
 | 2023-01-25 | 350 | 14 | 
 | 2023-01-24 | 348 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 322 | 13 | 
 | 2022-12-30 | 322 | 13 | 
 | 2022-12-29 | 322 | 13 | 
-| 2022-12-28 | 322 | 13 | 
 

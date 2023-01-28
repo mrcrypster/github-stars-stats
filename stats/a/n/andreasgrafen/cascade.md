@@ -1,10 +1,10 @@
 # andreasgrafen/cascade - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 106
+☋ Forks: 105
 
-★ Stars: 747
+★ Stars: 748
 
 [Open repository](https://github.com/andreasgrafen/cascade)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 748 | 105 | 
 | 2023-01-26 | 747 | 106 | 
 | 2023-01-25 | 747 | 106 | 
 | 2023-01-24 | 742 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 704 | 101 | 
 | 2022-12-30 | 704 | 101 | 
 | 2022-12-29 | 703 | 101 | 
-| 2022-12-28 | 702 | 101 | 
 

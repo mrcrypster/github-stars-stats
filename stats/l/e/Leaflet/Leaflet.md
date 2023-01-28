@@ -1,10 +1,10 @@
 # Leaflet/Leaflet - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 5541
+☋ Forks: 5544
 
-★ Stars: 36647
+★ Stars: 36653
 
 [Open repository](https://github.com/Leaflet/Leaflet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 36653 | 5544 | 
 | 2023-01-26 | 36647 | 5541 | 
 | 2023-01-25 | 36640 | 5540 | 
 | 2023-01-24 | 36626 | 5536 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 36451 | 5527 | 
 | 2022-12-30 | 36447 | 5529 | 
 | 2022-12-29 | 36441 | 5527 | 
-| 2022-12-28 | 36435 | 5526 | 
 

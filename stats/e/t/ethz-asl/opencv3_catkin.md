@@ -1,6 +1,6 @@
 # ethz-asl/opencv3_catkin - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8 | 16 | 
+| 2023-01-27 | 8 | 16 | 
 | 2023-01-26 | 8 | 16 | 
 | 2023-01-25 | 8 | 16 | 
 | 2023-01-24 | 8 | 16 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 8 | 16 | 
 | 2022-12-31 | 8 | 16 | 
 | 2022-12-30 | 8 | 16 | 
-| 2022-12-29 | 8 | 16 | 
 

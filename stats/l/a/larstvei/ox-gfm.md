@@ -1,10 +1,10 @@
 # larstvei/ox-gfm - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 37
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/larstvei/ox-gfm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 196 | 37 | 
 | 2023-01-27 | 195 | 37 | 
 | 2023-01-26 | 195 | 37 | 
 | 2023-01-24 | 195 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 190 | 37 | 
 | 2022-12-31 | 190 | 37 | 
 | 2022-12-30 | 190 | 37 | 
-| 2022-12-29 | 189 | 37 | 
 

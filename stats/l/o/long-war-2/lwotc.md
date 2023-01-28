@@ -1,6 +1,6 @@
 # long-war-2/lwotc - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 303 | 86 | 
 | 2023-01-26 | 303 | 86 | 
 | 2023-01-25 | 303 | 86 | 
 | 2023-01-24 | 303 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 301 | 86 | 
 | 2022-12-30 | 301 | 86 | 
 | 2022-12-29 | 302 | 86 | 
-| 2022-12-28 | 302 | 86 | 
 

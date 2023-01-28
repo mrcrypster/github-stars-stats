@@ -1,10 +1,10 @@
 # zeroruka/GI_Textures - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 856
+☋ Forks: 857
 
-★ Stars: 1085
+★ Stars: 1090
 
 [Open repository](https://github.com/zeroruka/GI_Textures)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1090 | 857 | 
 | 2023-01-26 | 1085 | 856 | 
 | 2023-01-24 | 1084 | 855 | 
 | 2023-01-23 | 1082 | 855 | 

@@ -1,10 +1,10 @@
 # axa-group/Parsr - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 262
 
-★ Stars: 5089
+★ Stars: 5091
 
 [Open repository](https://github.com/axa-group/Parsr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5091 | 262 | 
 | 2023-01-26 | 5089 | 262 | 
 | 2023-01-25 | 5089 | 262 | 
 | 2023-01-24 | 5089 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5031 | 259 | 
 | 2022-12-30 | 5029 | 259 | 
 | 2022-12-29 | 5027 | 259 | 
-| 2022-12-28 | 5026 | 259 | 
 

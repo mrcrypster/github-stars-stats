@@ -1,6 +1,6 @@
 # zhengtianzuo/QtQuickExamples - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 464
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 906 | 464 | 
 | 2023-01-26 | 906 | 464 | 
 | 2023-01-25 | 905 | 464 | 
 | 2023-01-24 | 905 | 464 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 904 | 464 | 
 | 2022-12-30 | 904 | 464 | 
 | 2022-12-29 | 903 | 464 | 
-| 2022-12-28 | 903 | 464 | 
 

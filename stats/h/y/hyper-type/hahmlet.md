@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/hyper-type/hahmlet)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 46 | 11 | 
+| 2023-01-27 | 45 | 11 | 
 | 2023-01-26 | 46 | 11 | 
 | 2023-01-25 | 46 | 11 | 
 | 2023-01-24 | 46 | 11 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 46 | 11 | 
 | 2022-12-31 | 46 | 11 | 
 | 2022-12-30 | 46 | 11 | 
-| 2022-12-29 | 46 | 11 | 
 

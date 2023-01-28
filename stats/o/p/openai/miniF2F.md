@@ -1,6 +1,6 @@
 # openai/miniF2F - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 162 | 31 | 
 | 2023-01-26 | 162 | 31 | 
 | 2023-01-25 | 160 | 31 | 
 | 2023-01-24 | 160 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 154 | 28 | 
 | 2022-12-30 | 152 | 28 | 
 | 2022-12-29 | 152 | 28 | 
-| 2022-12-28 | 152 | 28 | 
 

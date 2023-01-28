@@ -1,10 +1,10 @@
 # ros-planning/navigation - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1684
 
-★ Stars: 1802
+★ Stars: 1803
 
 [Open repository](https://github.com/ros-planning/navigation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1803 | 1684 | 
 | 2023-01-26 | 1802 | 1684 | 
 | 2023-01-25 | 1801 | 1684 | 
 | 2023-01-23 | 1800 | 1684 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 1784 | 1678 | 
 | 2022-12-31 | 1783 | 1679 | 
 | 2022-12-30 | 1784 | 1679 | 
-| 2022-12-29 | 1782 | 1678 | 
 

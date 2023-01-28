@@ -1,6 +1,6 @@
 # linuxacademy/content-hashicorp-certified-terraform-associate-foundations - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 419
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 108 | 419 | 
 | 2023-01-26 | 108 | 419 | 
 | 2023-01-25 | 107 | 419 | 
 | 2023-01-24 | 107 | 417 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 103 | 412 | 
 | 2022-12-30 | 103 | 411 | 
 | 2022-12-29 | 103 | 410 | 
-| 2022-12-28 | 104 | 406 | 
 

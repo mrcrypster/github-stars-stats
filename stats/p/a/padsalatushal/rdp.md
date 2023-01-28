@@ -1,8 +1,8 @@
 # padsalatushal/rdp - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 488
+☋ Forks: 508
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6 | 508 | 
 | 2023-01-26 | 6 | 488 | 
 | 2023-01-25 | 5 | 442 | 
 | 2023-01-24 | 5 | 424 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5 | 205 | 
 | 2022-12-30 | 5 | 190 | 
 | 2022-12-29 | 4 | 182 | 
-| 2022-12-28 | 4 | 176 | 
 

@@ -1,6 +1,6 @@
 # NEST-Protocol/NEST-Oracle-V4.0 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 394 | 5 | 
 | 2023-01-26 | 394 | 5 | 
 | 2023-01-25 | 393 | 5 | 
 | 2023-01-24 | 393 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 374 | 4 | 
 | 2022-12-30 | 370 | 4 | 
 | 2022-12-29 | 368 | 4 | 
-| 2022-12-28 | 368 | 4 | 
 

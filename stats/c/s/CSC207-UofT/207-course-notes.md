@@ -1,6 +1,6 @@
 # CSC207-UofT/207-course-notes - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 120 | 214 | 
 | 2023-01-26 | 120 | 214 | 
 | 2023-01-25 | 119 | 214 | 
 | 2023-01-24 | 120 | 214 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 120 | 216 | 
 | 2022-12-30 | 120 | 218 | 
 | 2022-12-29 | 120 | 218 | 
-| 2022-12-28 | 120 | 218 | 
 

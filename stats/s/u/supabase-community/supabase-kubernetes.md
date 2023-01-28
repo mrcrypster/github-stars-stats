@@ -1,10 +1,10 @@
 # supabase-community/supabase-kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 113
+★ Stars: 115
 
 [Open repository](https://github.com/supabase-community/supabase-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 115 | 39 | 
 | 2023-01-26 | 113 | 38 | 
 | 2023-01-25 | 112 | 38 | 
 | 2023-01-24 | 112 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 102 | 35 | 
 | 2022-12-30 | 102 | 34 | 
 | 2022-12-29 | 102 | 35 | 
-| 2022-12-28 | 102 | 35 | 
 

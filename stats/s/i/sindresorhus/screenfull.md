@@ -1,6 +1,6 @@
 # sindresorhus/screenfull - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 705
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6725 | 705 | 
 | 2023-01-26 | 6725 | 705 | 
 | 2023-01-25 | 6724 | 706 | 
 | 2023-01-24 | 6724 | 706 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 6700 | 703 | 
 | 2022-12-30 | 6699 | 703 | 
 | 2022-12-29 | 6699 | 703 | 
-| 2022-12-28 | 6699 | 703 | 
 

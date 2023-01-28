@@ -1,6 +1,6 @@
 # Roaa94/flutter_playlist_animation - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 80 | 6 | 
 | 2023-01-26 | 80 | 6 | 
 | 2023-01-25 | 80 | 6 | 
 | 2023-01-24 | 80 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 79 | 7 | 
 | 2022-12-30 | 79 | 7 | 
 | 2022-12-29 | 79 | 7 | 
-| 2022-12-28 | 79 | 7 | 
 

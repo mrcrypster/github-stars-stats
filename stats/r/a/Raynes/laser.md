@@ -1,6 +1,6 @@
 # Raynes/laser - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 122 | 16 | 
+| 2023-01-27 | 122 | 16 | 
 | 2023-01-26 | 122 | 16 | 
 | 2023-01-25 | 122 | 16 | 
 | 2023-01-24 | 122 | 16 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 122 | 16 | 
 | 2022-12-30 | 122 | 16 | 
 | 2022-12-29 | 122 | 16 | 
-| 2022-12-28 | 122 | 16 | 
 

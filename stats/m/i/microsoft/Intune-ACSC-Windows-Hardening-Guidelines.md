@@ -1,6 +1,6 @@
 # microsoft/Intune-ACSC-Windows-Hardening-Guidelines - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 148 | 22 | 
 | 2023-01-26 | 148 | 22 | 
 | 2023-01-25 | 148 | 22 | 
 | 2023-01-24 | 147 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 145 | 20 | 
 | 2022-12-31 | 144 | 20 | 
 | 2022-12-30 | 144 | 20 | 
-| 2022-12-29 | 144 | 20 | 
 

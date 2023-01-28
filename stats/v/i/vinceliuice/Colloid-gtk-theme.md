@@ -1,10 +1,10 @@
 # vinceliuice/Colloid-gtk-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 40
 
-★ Stars: 578
+★ Stars: 580
 
 [Open repository](https://github.com/vinceliuice/Colloid-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 580 | 40 | 
 | 2023-01-26 | 578 | 40 | 
 | 2023-01-25 | 578 | 40 | 
 | 2023-01-23 | 578 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 556 | 38 | 
 | 2022-12-30 | 555 | 38 | 
 | 2022-12-29 | 555 | 38 | 
-| 2022-12-28 | 554 | 37 | 
 

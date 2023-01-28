@@ -1,10 +1,10 @@
 # c22dev/TrollBox - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 135
+★ Stars: 138
 
 [Open repository](https://github.com/c22dev/TrollBox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 138 | 4 | 
 | 2023-01-26 | 135 | 4 | 
 | 2023-01-25 | 134 | 4 | 
 | 2023-01-24 | 130 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 77 | 1 | 
 | 2022-12-30 | 71 | 1 | 
 | 2022-12-29 | 67 | 1 | 
-| 2022-12-28 | 61 | 1 | 
 

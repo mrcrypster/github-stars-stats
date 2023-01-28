@@ -1,6 +1,6 @@
 # obsidiansystems/nix-thunk - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 35 | 7 | 
 | 2023-01-26 | 35 | 7 | 
 | 2023-01-25 | 35 | 7 | 
 | 2023-01-24 | 35 | 7 | 

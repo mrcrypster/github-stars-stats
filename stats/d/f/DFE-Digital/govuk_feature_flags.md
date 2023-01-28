@@ -1,10 +1,10 @@
 # DFE-Digital/govuk_feature_flags - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/DFE-Digital/govuk_feature_flags)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 4 | 1 | 
 | 2023-01-26 | 3 | 1 | 
 | 2023-01-25 | 3 | 1 | 
 | 2023-01-23 | 2 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 2 | - | 
 | 2022-12-31 | 2 | - | 
 | 2022-12-30 | 2 | - | 
-| 2022-12-29 | 2 | - | 
 

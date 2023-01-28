@@ -1,10 +1,10 @@
 # maurosoria/dirsearch - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2109
 
-★ Stars: 9114
+★ Stars: 9116
 
 [Open repository](https://github.com/maurosoria/dirsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 9116 | 2109 | 
 | 2023-01-26 | 9114 | 2109 | 
 | 2023-01-25 | 9113 | 2108 | 
 | 2023-01-24 | 9111 | 2108 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 9032 | 2105 | 
 | 2022-12-30 | 9029 | 2105 | 
 | 2022-12-29 | 9026 | 2106 | 
-| 2022-12-28 | 9022 | 2106 | 
 

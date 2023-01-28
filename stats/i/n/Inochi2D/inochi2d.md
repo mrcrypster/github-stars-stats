@@ -1,10 +1,10 @@
 # Inochi2D/inochi2d - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 22
 
-★ Stars: 737
+★ Stars: 739
 
 [Open repository](https://github.com/Inochi2D/inochi2d)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 739 | 22 | 
 | 2023-01-26 | 737 | 22 | 
 | 2023-01-25 | 737 | 22 | 
 | 2023-01-24 | 735 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 717 | 20 | 
 | 2022-12-30 | 713 | 20 | 
 | 2022-12-29 | 711 | 20 | 
-| 2022-12-28 | 710 | 20 | 
 

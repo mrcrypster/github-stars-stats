@@ -1,6 +1,6 @@
 # gpanders/editorconfig.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 287 | 7 | 
 | 2023-01-26 | 287 | 7 | 
 | 2023-01-25 | 287 | 7 | 
 | 2023-01-24 | 287 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 271 | 7 | 
 | 2022-12-30 | 270 | 7 | 
 | 2022-12-29 | 268 | 7 | 
-| 2022-12-28 | 268 | 7 | 
 

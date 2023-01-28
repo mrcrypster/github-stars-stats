@@ -1,6 +1,6 @@
 # danielscherzer/SHADER - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 25 | 4 | 
 | 2023-01-26 | 25 | 4 | 
 | 2023-01-24 | 25 | 4 | 
 | 2023-01-23 | 25 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 26 | 3 | 
 | 2022-12-31 | 26 | 3 | 
 | 2022-12-29 | 26 | 3 | 
-| 2022-12-28 | 26 | 3 | 
 

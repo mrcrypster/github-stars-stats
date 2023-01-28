@@ -1,6 +1,6 @@
 # PatWalters/practical_cheminformatics_tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 301 | 47 | 
 | 2023-01-26 | 301 | 47 | 
 | 2023-01-25 | 301 | 47 | 
 | 2023-01-24 | 301 | 47 | 

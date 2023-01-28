@@ -1,10 +1,10 @@
 # Plutonomicon/plutarch - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 57
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/Plutonomicon/plutarch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 106 | 57 | 
 | 2023-01-26 | 105 | 57 | 
 | 2023-01-25 | 105 | 57 | 
 | 2023-01-24 | 105 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 104 | 56 | 
 | 2022-12-30 | 104 | 56 | 
 | 2022-12-29 | 104 | 56 | 
-| 2022-12-28 | 104 | 56 | 
 

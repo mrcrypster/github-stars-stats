@@ -1,10 +1,10 @@
 # purcell/exec-path-from-shell - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 77
 
-★ Stars: 1262
+★ Stars: 1263
 
 [Open repository](https://github.com/purcell/exec-path-from-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1263 | 77 | 
 | 2023-01-26 | 1262 | 77 | 
 | 2023-01-25 | 1262 | 77 | 
 | 2023-01-23 | 1263 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1251 | 77 | 
 | 2022-12-30 | 1250 | 77 | 
 | 2022-12-29 | 1249 | 77 | 
-| 2022-12-28 | 1248 | 77 | 
 

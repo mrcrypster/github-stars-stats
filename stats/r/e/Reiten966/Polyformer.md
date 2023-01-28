@@ -1,10 +1,10 @@
 # Reiten966/Polyformer - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 67
 
-★ Stars: 706
+★ Stars: 707
 
 [Open repository](https://github.com/Reiten966/Polyformer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 707 | 67 | 
 | 2023-01-26 | 706 | 67 | 
 | 2023-01-25 | 706 | 67 | 
 | 2023-01-24 | 706 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 681 | 65 | 
 | 2022-12-30 | 681 | 65 | 
 | 2022-12-29 | 681 | 65 | 
-| 2022-12-28 | 681 | 64 | 
 

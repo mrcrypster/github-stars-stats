@@ -1,8 +1,8 @@
 # nmap/nmap - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 2042
+☋ Forks: 2043
 
 ★ Stars: 7303
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 7303 | 2043 | 
 | 2023-01-26 | 7303 | 2042 | 
 | 2023-01-25 | 7302 | 2042 | 
 | 2023-01-24 | 7298 | 2042 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 7235 | 2026 | 
 | 2022-12-30 | 7233 | 2027 | 
 | 2022-12-29 | 7231 | 2027 | 
-| 2022-12-28 | 7230 | 2027 | 
 

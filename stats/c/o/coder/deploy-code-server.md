@@ -1,6 +1,6 @@
 # coder/deploy-code-server - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 589
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 703 | 589 | 
 | 2023-01-27 | 703 | 589 | 
 | 2023-01-25 | 704 | 588 | 
 | 2023-01-24 | 702 | 586 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | 691 | 580 | 
 | 2022-12-30 | 691 | 580 | 
 | 2022-12-29 | 691 | 579 | 
-| 2022-12-28 | 689 | 579 | 
 

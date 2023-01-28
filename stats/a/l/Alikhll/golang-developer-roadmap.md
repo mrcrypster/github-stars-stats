@@ -1,10 +1,10 @@
 # Alikhll/golang-developer-roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2003
 
-★ Stars: 16120
+★ Stars: 16122
 
 [Open repository](https://github.com/Alikhll/golang-developer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 16122 | 2003 | 
 | 2023-01-26 | 16120 | 2003 | 
 | 2023-01-25 | 16116 | 2003 | 
 | 2023-01-24 | 16112 | 2003 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 16008 | 1991 | 
 | 2022-12-30 | 16002 | 1988 | 
 | 2022-12-29 | 15998 | 1986 | 
-| 2022-12-28 | 15990 | 1985 | 
 

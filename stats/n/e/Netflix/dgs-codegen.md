@@ -1,10 +1,10 @@
 # Netflix/dgs-codegen - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 72
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/Netflix/dgs-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 137 | 72 | 
 | 2023-01-26 | 136 | 72 | 
 | 2023-01-25 | 136 | 72 | 
 | 2023-01-24 | 136 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 134 | 68 | 
 | 2022-12-30 | 134 | 68 | 
 | 2022-12-29 | 134 | 68 | 
-| 2022-12-28 | 134 | 68 | 
 

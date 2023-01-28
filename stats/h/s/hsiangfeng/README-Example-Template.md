@@ -1,10 +1,10 @@
 # hsiangfeng/README-Example-Template - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 10
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/hsiangfeng/README-Example-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 57 | 10 | 
 | 2023-01-26 | 56 | 10 | 
 | 2023-01-25 | 55 | 10 | 
 | 2023-01-24 | 55 | 10 | 

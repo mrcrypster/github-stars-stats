@@ -1,10 +1,10 @@
 # hpcaitech/ColossalAI - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 737
 
-★ Stars: 8123
+★ Stars: 8127
 
 [Open repository](https://github.com/hpcaitech/ColossalAI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8127 | 737 | 
 | 2023-01-27 | 8123 | 737 | 
 | 2023-01-25 | 8118 | 737 | 
 | 2023-01-24 | 8117 | 736 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | 7075 | 667 | 
 | 2022-12-30 | 7067 | 666 | 
 | 2022-12-29 | 7061 | 666 | 
-| 2022-12-28 | 7054 | 664 | 
 

@@ -1,6 +1,6 @@
 # numpy/SVML - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 19 | 4 | 
 | 2023-01-26 | 19 | 4 | 
 | 2023-01-25 | 19 | 4 | 
 | 2023-01-24 | 18 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 18 | 4 | 
 | 2022-12-30 | 18 | 4 | 
 | 2022-12-29 | 18 | 4 | 
-| 2022-12-28 | 18 | 4 | 
 

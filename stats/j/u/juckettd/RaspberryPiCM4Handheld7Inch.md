@@ -1,10 +1,10 @@
 # juckettd/RaspberryPiCM4Handheld7Inch - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 19
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/juckettd/RaspberryPiCM4Handheld7Inch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 246 | 19 | 
 | 2023-01-26 | 245 | 19 | 
 | 2023-01-25 | 245 | 19 | 
 | 2023-01-24 | 245 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 245 | 19 | 
 | 2022-12-30 | 245 | 19 | 
 | 2022-12-29 | 245 | 19 | 
-| 2022-12-28 | 245 | 19 | 
 

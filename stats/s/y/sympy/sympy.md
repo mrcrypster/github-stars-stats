@@ -1,10 +1,10 @@
 # sympy/sympy - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 3827
+☋ Forks: 3828
 
-★ Stars: 10005
+★ Stars: 10007
 
 [Open repository](https://github.com/sympy/sympy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 10007 | 3828 | 
 | 2023-01-26 | 10005 | 3827 | 
 | 2023-01-25 | 10005 | 3827 | 
 | 2023-01-24 | 10002 | 3826 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 9925 | 3805 | 
 | 2022-12-30 | 9924 | 3803 | 
 | 2022-12-29 | 9921 | 3802 | 
-| 2022-12-28 | 9915 | 3801 | 
 

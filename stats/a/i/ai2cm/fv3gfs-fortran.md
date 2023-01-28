@@ -1,8 +1,8 @@
 # ai2cm/fv3gfs-fortran - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5 | 7 | 
 | 2023-01-26 | 5 | 6 | 
 | 2023-01-25 | 5 | 6 | 
 | 2023-01-24 | 5 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5 | 5 | 
 | 2022-12-30 | 5 | 5 | 
 | 2022-12-29 | 5 | 5 | 
-| 2022-12-28 | 5 | 5 | 
 

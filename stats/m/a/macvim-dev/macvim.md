@@ -1,10 +1,10 @@
 # macvim-dev/macvim - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 675
+☋ Forks: 676
 
-★ Stars: 7125
+★ Stars: 7126
 
 [Open repository](https://github.com/macvim-dev/macvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 7126 | 676 | 
 | 2023-01-26 | 7125 | 675 | 
 | 2023-01-25 | 7125 | 675 | 
 | 2023-01-24 | 7125 | 675 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 7106 | 673 | 
 | 2022-12-30 | 7104 | 673 | 
 | 2022-12-29 | 7104 | 673 | 
-| 2022-12-28 | 7104 | 673 | 
 

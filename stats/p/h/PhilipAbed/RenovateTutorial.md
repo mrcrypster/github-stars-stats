@@ -1,6 +1,6 @@
 # PhilipAbed/RenovateTutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6 | 73 | 
 | 2023-01-26 | 6 | 73 | 
 | 2023-01-25 | 6 | 73 | 
 | 2023-01-23 | 6 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 6 | 75 | 
 | 2022-12-31 | 6 | 75 | 
 | 2022-12-30 | 6 | 75 | 
-| 2022-12-29 | 6 | 75 | 
 

@@ -1,6 +1,6 @@
 # AllenDowney/ThinkBayes2 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1418
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1504 | 1418 | 
 | 2023-01-26 | 1504 | 1418 | 
 | 2023-01-25 | 1504 | 1419 | 
 | 2023-01-24 | 1504 | 1419 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1499 | 1411 | 
 | 2022-12-30 | 1499 | 1410 | 
 | 2022-12-29 | 1499 | 1410 | 
-| 2022-12-28 | 1498 | 1408 | 
 

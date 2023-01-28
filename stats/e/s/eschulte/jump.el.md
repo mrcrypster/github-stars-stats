@@ -1,6 +1,6 @@
 # eschulte/jump.el - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 47 | 12 | 
 | 2023-01-27 | 47 | 12 | 
 | 2023-01-25 | 47 | 12 | 
 | 2023-01-24 | 47 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | 47 | 12 | 
 | 2022-12-30 | 47 | 12 | 
 | 2022-12-29 | 47 | 12 | 
-| 2022-12-28 | 47 | 12 | 
 

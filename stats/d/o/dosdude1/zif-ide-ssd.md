@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/dosdude1/zif-ide-ssd)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 62 | 4 | 
+| 2023-01-27 | 64 | 4 | 
 | 2023-01-26 | 62 | 4 | 
 | 2023-01-25 | 61 | 4 | 
 

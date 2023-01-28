@@ -1,8 +1,8 @@
 # Laefy/CPP_Exercises - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
-☋ Forks: 60
+☋ Forks: 69
 
 ★ Stars: 2
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2 | 69 | 
+| 2023-01-27 | 2 | 69 | 
 | 2023-01-26 | 2 | 60 | 
 | 2023-01-25 | 2 | 60 | 
 | 2023-01-24 | 2 | 58 | 

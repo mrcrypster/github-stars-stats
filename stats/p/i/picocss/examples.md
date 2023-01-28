@@ -1,6 +1,6 @@
 # picocss/examples - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 117 | 32 | 
 | 2023-01-26 | 117 | 32 | 
 | 2023-01-25 | 116 | 31 | 
 | 2023-01-24 | 114 | 31 | 

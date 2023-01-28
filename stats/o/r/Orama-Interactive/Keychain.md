@@ -1,6 +1,6 @@
 # Orama-Interactive/Keychain - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 55 | 1 | 
 | 2023-01-26 | 55 | 1 | 
 | 2023-01-25 | 54 | 1 | 
 | 2023-01-24 | 54 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 51 | 1 | 
 | 2022-12-30 | 51 | 1 | 
 | 2022-12-29 | 51 | 1 | 
-| 2022-12-28 | 51 | 1 | 
 

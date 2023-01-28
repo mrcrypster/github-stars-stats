@@ -1,10 +1,10 @@
 # MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.ru-RU - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.ru-RU)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2 | 2 | 
 | 2023-01-26 | 1 | 2 | 
 | 2023-01-25 | 1 | 2 | 
 | 2023-01-24 | 1 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1 | 2 | 
 | 2022-12-30 | 1 | 2 | 
 | 2022-12-29 | 1 | 2 | 
-| 2022-12-28 | 1 | 2 | 
 

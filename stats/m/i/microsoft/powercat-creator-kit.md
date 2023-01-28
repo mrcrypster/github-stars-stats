@@ -1,10 +1,10 @@
 # microsoft/powercat-creator-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 28
 
-★ Stars: 163
+★ Stars: 165
 
 [Open repository](https://github.com/microsoft/powercat-creator-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 165 | 28 | 
 | 2023-01-26 | 163 | 28 | 
 | 2023-01-25 | 163 | 28 | 
 | 2023-01-24 | 163 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 151 | 27 | 
 | 2022-12-30 | 151 | 27 | 
 | 2022-12-29 | 151 | 27 | 
-| 2022-12-28 | 151 | 27 | 
 

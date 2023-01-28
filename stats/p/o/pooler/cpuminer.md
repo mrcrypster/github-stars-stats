@@ -1,10 +1,10 @@
 # pooler/cpuminer - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1180
+☋ Forks: 1181
 
-★ Stars: 2566
+★ Stars: 2567
 
 [Open repository](https://github.com/pooler/cpuminer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2567 | 1181 | 
 | 2023-01-26 | 2566 | 1180 | 
 | 2023-01-25 | 2567 | 1180 | 
 | 2023-01-24 | 2567 | 1180 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2561 | 1179 | 
 | 2022-12-30 | 2562 | 1180 | 
 | 2022-12-29 | 2562 | 1180 | 
-| 2022-12-28 | 2562 | 1180 | 
 

@@ -1,10 +1,10 @@
 # fontforge/fontforge - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 637
 
-★ Stars: 5087
+★ Stars: 5090
 
 [Open repository](https://github.com/fontforge/fontforge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5090 | 637 | 
 | 2023-01-26 | 5087 | 637 | 
 | 2023-01-25 | 5086 | 637 | 
 | 2023-01-23 | 5086 | 637 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 5026 | 633 | 
 | 2022-12-31 | 5024 | 633 | 
 | 2022-12-30 | 5023 | 632 | 
-| 2022-12-29 | 5020 | 634 | 
 

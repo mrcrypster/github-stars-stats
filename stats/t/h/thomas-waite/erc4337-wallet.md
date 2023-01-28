@@ -1,8 +1,8 @@
 # thomas-waite/erc4337-wallet - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 38 | 1 | 
 | 2023-01-26 | 38 | - | 
 | 2023-01-25 | 38 | - | 
 | 2023-01-24 | 38 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 35 | - | 
 | 2022-12-30 | 34 | - | 
 | 2022-12-29 | 34 | - | 
-| 2022-12-28 | 34 | - | 
 

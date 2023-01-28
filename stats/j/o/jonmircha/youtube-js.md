@@ -1,8 +1,8 @@
 # jonmircha/youtube-js - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 566
+☋ Forks: 568
 
 ★ Stars: 371
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 371 | 568 | 
 | 2023-01-26 | 371 | 566 | 
 | 2023-01-25 | 371 | 566 | 
 | 2023-01-24 | 370 | 563 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 368 | 550 | 
 | 2022-12-30 | 367 | 550 | 
 | 2022-12-29 | 367 | 549 | 
-| 2022-12-28 | 367 | 549 | 
 

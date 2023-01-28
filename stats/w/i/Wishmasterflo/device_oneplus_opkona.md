@@ -1,10 +1,10 @@
 # Wishmasterflo/device_oneplus_opkona - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/Wishmasterflo/device_oneplus_opkona)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 41 | 6 | 
 | 2023-01-26 | 40 | 6 | 
 | 2023-01-25 | 40 | 6 | 
 

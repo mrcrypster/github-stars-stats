@@ -1,10 +1,10 @@
 # TheAlphamerc/flutter_ecommerce_app - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 966
+☋ Forks: 965
 
-★ Stars: 2550
+★ Stars: 2552
 
 [Open repository](https://github.com/TheAlphamerc/flutter_ecommerce_app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2552 | 965 | 
 | 2023-01-26 | 2550 | 966 | 
 | 2023-01-25 | 2549 | 967 | 
 | 2023-01-23 | 2549 | 967 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2522 | 957 | 
 | 2022-12-30 | 2519 | 957 | 
 | 2022-12-29 | 2516 | 957 | 
-| 2022-12-28 | 2516 | 957 | 
 

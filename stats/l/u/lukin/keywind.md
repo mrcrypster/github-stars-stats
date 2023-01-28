@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 27
 
 ☋ Forks: 63
 
-★ Stars: 201
+★ Stars: 203
 
 [Open repository](https://github.com/lukin/keywind)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 201 | 63 | 
+| 2023-01-27 | 203 | 63 | 
 | 2023-01-26 | 201 | 63 | 
 | 2023-01-25 | 201 | 63 | 
 | 2023-01-24 | 199 | 61 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | 184 | 48 | 
 | 2022-12-30 | 184 | 48 | 
 | 2022-12-29 | 184 | 48 | 
-| 2022-12-28 | 184 | 48 | 
 

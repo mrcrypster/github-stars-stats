@@ -1,10 +1,10 @@
 # bulletphysics/bullet3 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 2643
+☋ Forks: 2644
 
-★ Stars: 10165
+★ Stars: 10168
 
 [Open repository](https://github.com/bulletphysics/bullet3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 10168 | 2644 | 
 | 2023-01-26 | 10165 | 2643 | 
 | 2023-01-25 | 10161 | 2643 | 
 | 2023-01-23 | 10158 | 2643 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 10081 | 2625 | 
 | 2022-12-30 | 10079 | 2625 | 
 | 2022-12-29 | 10076 | 2625 | 
-| 2022-12-28 | 10070 | 2625 | 
 

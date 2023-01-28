@@ -1,6 +1,6 @@
 # gradle/kotlin-dsl-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 445
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 3656 | 445 | 
 | 2023-01-26 | 3656 | 445 | 
 | 2023-01-25 | 3655 | 444 | 
 | 2023-01-24 | 3653 | 444 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 3648 | 442 | 
 | 2022-12-31 | 3648 | 442 | 
 | 2022-12-30 | 3647 | 442 | 
-| 2022-12-29 | 3647 | 442 | 
 

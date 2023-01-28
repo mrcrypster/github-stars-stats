@@ -1,10 +1,10 @@
 # utmapp/UTM - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1019
+☋ Forks: 1022
 
-★ Stars: 17567
+★ Stars: 17604
 
 [Open repository](https://github.com/utmapp/UTM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 17604 | 1022 | 
 | 2023-01-26 | 17567 | 1019 | 
 | 2023-01-25 | 17544 | 1018 | 
 | 2023-01-24 | 17524 | 1018 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 17168 | 1010 | 
 | 2022-12-30 | 17158 | 1010 | 
 | 2022-12-29 | 17156 | 1010 | 
-| 2022-12-28 | 17127 | 1008 | 
 

@@ -1,6 +1,6 @@
 # yuanhao-cui/Must-Reading-on-ISAC - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 235 | 84 | 
 | 2023-01-26 | 235 | 84 | 
 | 2023-01-25 | 235 | 84 | 
 | 2023-01-24 | 235 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 231 | 79 | 
 | 2022-12-30 | 231 | 79 | 
 | 2022-12-29 | 231 | 79 | 
-| 2022-12-28 | 231 | 79 | 
 

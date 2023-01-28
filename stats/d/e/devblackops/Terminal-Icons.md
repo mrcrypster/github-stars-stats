@@ -1,10 +1,10 @@
 # devblackops/Terminal-Icons - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 60
 
-★ Stars: 1568
+★ Stars: 1569
 
 [Open repository](https://github.com/devblackops/Terminal-Icons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1569 | 60 | 
 | 2023-01-26 | 1568 | 60 | 
 | 2023-01-25 | 1566 | 60 | 
 | 2023-01-24 | 1561 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1523 | 60 | 
 | 2022-12-30 | 1520 | 60 | 
 | 2022-12-29 | 1520 | 60 | 
-| 2022-12-28 | 1520 | 60 | 
 

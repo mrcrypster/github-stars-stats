@@ -1,10 +1,10 @@
 # firemakergk/aquar-home - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 492
+★ Stars: 494
 
 [Open repository](https://github.com/firemakergk/aquar-home)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 494 | 44 | 
 | 2023-01-26 | 492 | 43 | 
 | 2023-01-25 | 492 | 43 | 
 | 2023-01-24 | 493 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 450 | 40 | 
 | 2022-12-30 | 449 | 39 | 
 | 2022-12-29 | 449 | 39 | 
-| 2022-12-28 | 448 | 39 | 
 

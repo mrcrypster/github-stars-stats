@@ -1,10 +1,10 @@
 # marc-jones/game-off-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 23
 
 [Open repository](https://github.com/marc-jones/game-off-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 19 | 4 | 
+| 2023-01-28 | 23 | 4 | 
+| 2023-01-27 | 22 | 4 | 
 | 2023-01-26 | 19 | 4 | 
 

@@ -1,10 +1,10 @@
 # Methexis-Inc/terminal-copilot - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 22
 
-★ Stars: 414
+★ Stars: 417
 
 [Open repository](https://github.com/Methexis-Inc/terminal-copilot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 417 | 22 | 
 | 2023-01-26 | 414 | 22 | 
 | 2023-01-25 | 413 | 22 | 
 | 2023-01-24 | 408 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 337 | 20 | 
 | 2022-12-30 | 335 | 20 | 
 | 2022-12-29 | 330 | 20 | 
-| 2022-12-28 | 310 | 19 | 
 

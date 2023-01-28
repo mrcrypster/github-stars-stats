@@ -1,6 +1,6 @@
 # cloudposse/terraform-datadog-platform - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 71 | 43 | 
 | 2023-01-26 | 71 | 43 | 
 | 2023-01-25 | 71 | 43 | 
 | 2023-01-24 | 70 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 69 | 42 | 
 | 2022-12-30 | 69 | 42 | 
 | 2022-12-29 | 69 | 42 | 
-| 2022-12-28 | 68 | 42 | 
 

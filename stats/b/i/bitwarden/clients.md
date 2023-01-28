@@ -1,10 +1,10 @@
 # bitwarden/clients - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 719
+☋ Forks: 720
 
-★ Stars: 5454
+★ Stars: 5461
 
 [Open repository](https://github.com/bitwarden/clients)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5461 | 720 | 
 | 2023-01-26 | 5454 | 719 | 
 | 2023-01-25 | 5445 | 718 | 
 | 2023-01-24 | 5438 | 712 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5232 | 687 | 
 | 2022-12-30 | 5219 | 683 | 
 | 2022-12-29 | 5212 | 682 | 
-| 2022-12-28 | 5191 | 683 | 
 

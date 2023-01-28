@@ -1,10 +1,10 @@
 # thinkst/canarytokens - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 217
 
-★ Stars: 1267
+★ Stars: 1276
 
 [Open repository](https://github.com/thinkst/canarytokens)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1276 | 217 | 
 | 2023-01-26 | 1267 | 217 | 
 | 2023-01-25 | 1264 | 217 | 
 | 2023-01-24 | 1261 | 216 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 1230 | 214 | 
 | 2022-12-31 | 1218 | 214 | 
 | 2022-12-30 | 1217 | 214 | 
-| 2022-12-29 | 1217 | 214 | 
 

@@ -1,6 +1,6 @@
 # TBD54566975/dwn-sdk-js - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 257 | 57 | 
 | 2023-01-26 | 257 | 57 | 
 | 2023-01-25 | 257 | 57 | 
 | 2023-01-24 | 256 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 245 | 52 | 
 | 2022-12-30 | 245 | 52 | 
 | 2022-12-29 | 245 | 52 | 
-| 2022-12-28 | 245 | 52 | 
 

@@ -1,6 +1,6 @@
 # davidtinker/grails-cors - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 37 | 23 | 
 | 2023-01-26 | 37 | 23 | 
 | 2023-01-25 | 37 | 23 | 
 | 2023-01-24 | 37 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 37 | 23 | 
 | 2022-12-31 | 37 | 23 | 
 | 2022-12-30 | 37 | 23 | 
-| 2022-12-29 | 37 | 23 | 
 

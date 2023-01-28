@@ -1,6 +1,6 @@
 # madebygps/serverless-resume-api - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 33 | 54 | 
 | 2023-01-26 | 33 | 54 | 
 | 2023-01-25 | 32 | 54 | 
 | 2023-01-24 | 32 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 31 | 49 | 
 | 2022-12-30 | 30 | 49 | 
 | 2022-12-29 | 29 | 49 | 
-| 2022-12-28 | 29 | 48 | 
 

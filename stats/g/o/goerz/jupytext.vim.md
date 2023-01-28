@@ -1,6 +1,6 @@
 # goerz/jupytext.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 239 | 25 | 
 | 2023-01-26 | 239 | 25 | 
 | 2023-01-25 | 238 | 25 | 
 | 2023-01-24 | 238 | 25 | 

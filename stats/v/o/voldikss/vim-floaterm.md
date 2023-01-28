@@ -1,6 +1,6 @@
 # voldikss/vim-floaterm - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2008 | 67 | 
 | 2023-01-26 | 2008 | 67 | 
 | 2023-01-25 | 2008 | 67 | 
 | 2023-01-24 | 2005 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1971 | 68 | 
 | 2022-12-30 | 1970 | 68 | 
 | 2022-12-29 | 1968 | 68 | 
-| 2022-12-28 | 1967 | 68 | 
 

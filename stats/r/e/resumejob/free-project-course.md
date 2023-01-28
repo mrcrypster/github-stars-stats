@@ -1,6 +1,6 @@
 # resumejob/free-project-course - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 431
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 3204 | 431 | 
 | 2023-01-26 | 3204 | 431 | 
 | 2023-01-25 | 3202 | 431 | 
 | 2023-01-24 | 3197 | 431 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 3152 | 420 | 
 | 2022-12-30 | 3151 | 420 | 
 | 2022-12-29 | 3150 | 420 | 
-| 2022-12-28 | 3149 | 420 | 
 

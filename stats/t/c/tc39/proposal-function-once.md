@@ -1,10 +1,10 @@
 # tc39/proposal-function-once - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/tc39/proposal-function-once)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 42 | 2 | 
 | 2023-01-27 | 41 | 2 | 
 | 2023-01-26 | 41 | 2 | 
 | 2023-01-25 | 41 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 42 | 2 | 
 | 2022-12-31 | 42 | 2 | 
 | 2022-12-30 | 42 | 2 | 
-| 2022-12-28 | 42 | 2 | 
 

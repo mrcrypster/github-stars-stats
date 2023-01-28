@@ -1,6 +1,6 @@
 # Cloud-Peritus-Inc/EMS - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1 | 12 | 
 | 2023-01-27 | 1 | 12 | 
 | 2023-01-25 | - | 12 | 
 | 2023-01-24 | - | 12 | 

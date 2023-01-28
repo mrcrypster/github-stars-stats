@@ -1,10 +1,10 @@
 # kubernetes/minikube - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 4423
 
-★ Stars: 25762
+★ Stars: 25766
 
 [Open repository](https://github.com/kubernetes/minikube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 25766 | 4423 | 
 | 2023-01-26 | 25762 | 4423 | 
 | 2023-01-25 | 25759 | 4423 | 
 | 2023-01-24 | 25755 | 4421 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 25392 | 4384 | 
 | 2022-12-30 | 25387 | 4384 | 
 | 2022-12-29 | 25381 | 4383 | 
-| 2022-12-28 | 25371 | 4382 | 
 

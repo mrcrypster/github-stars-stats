@@ -1,6 +1,6 @@
 # YoshiCrafter29/CodenameEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 84 | 43 | 
 | 2023-01-26 | 84 | 43 | 
 | 2023-01-25 | 84 | 43 | 
 | 2023-01-24 | 85 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 60 | 33 | 
 | 2022-12-30 | 58 | 31 | 
 | 2022-12-29 | 56 | 31 | 
-| 2022-12-28 | 56 | 29 | 
 

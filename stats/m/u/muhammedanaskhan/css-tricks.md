@@ -1,10 +1,10 @@
 # muhammedanaskhan/css-tricks - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/muhammedanaskhan/css-tricks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 55 | 11 | 
 | 2023-01-26 | 53 | 11 | 
 | 2023-01-25 | 48 | 11 | 
 | 2023-01-24 | 48 | 11 | 

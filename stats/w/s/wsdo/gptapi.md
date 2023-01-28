@@ -1,6 +1,6 @@
 # wsdo/gptapi - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 49 | 8 | 
 | 2023-01-26 | 49 | 8 | 
 | 2023-01-25 | 49 | 8 | 
 | 2023-01-23 | 49 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 50 | 8 | 
 | 2022-12-31 | 50 | 8 | 
 | 2022-12-30 | 50 | 8 | 
-| 2022-12-29 | 50 | 8 | 
 

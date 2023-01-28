@@ -1,6 +1,6 @@
 # l3tnun/docker-mirakurun-epgstation - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 132 | 80 | 
 | 2023-01-26 | 132 | 80 | 
 | 2023-01-25 | 132 | 80 | 
 | 2023-01-24 | 132 | 80 | 

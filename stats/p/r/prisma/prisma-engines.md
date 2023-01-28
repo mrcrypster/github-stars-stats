@@ -1,10 +1,10 @@
 # prisma/prisma-engines - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 118
 
-★ Stars: 772
+★ Stars: 775
 
 [Open repository](https://github.com/prisma/prisma-engines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 775 | 118 | 
 | 2023-01-26 | 772 | 118 | 
 | 2023-01-25 | 771 | 118 | 
 | 2023-01-24 | 766 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 746 | 113 | 
 | 2022-12-30 | 746 | 112 | 
 | 2022-12-29 | 745 | 111 | 
-| 2022-12-28 | 745 | 111 | 
 

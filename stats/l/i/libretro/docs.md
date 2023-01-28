@@ -1,8 +1,8 @@
 # libretro/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 216
+☋ Forks: 217
 
 ★ Stars: 175
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 175 | 217 | 
 | 2023-01-26 | 175 | 216 | 
 | 2023-01-25 | 175 | 216 | 
 | 2023-01-24 | 175 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 170 | 207 | 
 | 2022-12-30 | 170 | 206 | 
 | 2022-12-29 | 170 | 206 | 
-| 2022-12-28 | 170 | 206 | 
 

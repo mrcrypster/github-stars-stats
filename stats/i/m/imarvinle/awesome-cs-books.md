@@ -1,10 +1,10 @@
 # imarvinle/awesome-cs-books - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 2371
+☋ Forks: 2373
 
-★ Stars: 14946
+★ Stars: 14950
 
 [Open repository](https://github.com/imarvinle/awesome-cs-books)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 14950 | 2373 | 
 | 2023-01-26 | 14946 | 2371 | 
 | 2023-01-25 | 14947 | 2371 | 
 | 2023-01-24 | 14945 | 2371 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 14837 | 2370 | 
 | 2022-12-30 | 14835 | 2370 | 
 | 2022-12-29 | 14837 | 2370 | 
-| 2022-12-28 | 14836 | 2370 | 
 

@@ -1,8 +1,8 @@
 # kodekloudhub/linux-basics-course - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1492
+☋ Forks: 1495
 
 ★ Stars: 550
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 550 | 1495 | 
 | 2023-01-26 | 550 | 1492 | 
 | 2023-01-25 | 550 | 1489 | 
 | 2023-01-24 | 550 | 1487 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 536 | 1436 | 
 | 2022-12-30 | 536 | 1435 | 
 | 2022-12-29 | 535 | 1431 | 
-| 2022-12-28 | 535 | 1429 | 
 

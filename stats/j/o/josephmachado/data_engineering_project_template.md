@@ -1,6 +1,6 @@
 # josephmachado/data_engineering_project_template - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 71 | 41 | 
 | 2023-01-26 | 71 | 41 | 
 | 2023-01-25 | 70 | 41 | 
 | 2023-01-24 | 69 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 65 | 34 | 
 | 2022-12-31 | 65 | 33 | 
 | 2022-12-29 | 65 | 32 | 
-| 2022-12-28 | 64 | 32 | 
 

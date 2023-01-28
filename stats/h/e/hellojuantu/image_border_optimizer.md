@@ -1,6 +1,6 @@
 # hellojuantu/image_border_optimizer - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 257 | 62 | 
 | 2023-01-26 | 257 | 62 | 
 | 2023-01-25 | 256 | 62 | 
 | 2023-01-23 | 256 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 228 | 57 | 
 | 2022-12-30 | 228 | 57 | 
 | 2022-12-29 | 229 | 57 | 
-| 2022-12-28 | 229 | 57 | 
 

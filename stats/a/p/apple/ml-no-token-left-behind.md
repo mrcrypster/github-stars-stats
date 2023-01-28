@@ -1,10 +1,10 @@
 # apple/ml-no-token-left-behind - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 13
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/apple/ml-no-token-left-behind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 127 | 13 | 
 | 2023-01-26 | 126 | 13 | 
 | 2023-01-25 | 126 | 13 | 
 | 2023-01-24 | 126 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 126 | 12 | 
 | 2022-12-30 | 126 | 12 | 
 | 2022-12-29 | 126 | 12 | 
-| 2022-12-28 | 126 | 12 | 
 

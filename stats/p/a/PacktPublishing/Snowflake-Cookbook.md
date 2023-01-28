@@ -1,10 +1,10 @@
 # PacktPublishing/Snowflake-Cookbook - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 66
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/PacktPublishing/Snowflake-Cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 54 | 66 | 
 | 2023-01-26 | 53 | 66 | 
 | 2023-01-25 | 53 | 65 | 
 | 2023-01-24 | 53 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 52 | 64 | 
 | 2022-12-31 | 52 | 64 | 
 | 2022-12-29 | 52 | 64 | 
-| 2022-12-28 | 52 | 64 | 
 

@@ -1,8 +1,8 @@
 # RDPCHANNEL/RDP-FREE - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 57
+☋ Forks: 72
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | - | 72 | 
 | 2023-01-26 | - | 57 | 
 | 2023-01-25 | - | 52 | 
 | 2023-01-24 | - | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | - | 34 | 
 | 2022-12-30 | - | 33 | 
 | 2022-12-29 | - | 32 | 
-| 2022-12-28 | - | 31 | 
 

@@ -1,6 +1,6 @@
 # Zeal-Operating-System/ZealOS - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 791 | 45 | 
 | 2023-01-26 | 791 | 45 | 
 | 2023-01-25 | 791 | 45 | 
 | 2023-01-24 | 787 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 766 | 43 | 
 | 2022-12-30 | 765 | 43 | 
 | 2022-12-29 | 765 | 43 | 
-| 2022-12-28 | 764 | 42 | 
 

@@ -1,10 +1,10 @@
 # uber-go/zap - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1268
+☋ Forks: 1269
 
-★ Stars: 17896
+★ Stars: 17904
 
 [Open repository](https://github.com/uber-go/zap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 17904 | 1269 | 
 | 2023-01-26 | 17896 | 1268 | 
 | 2023-01-25 | 17891 | 1268 | 
 | 2023-01-24 | 17887 | 1266 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 17733 | 1259 | 
 | 2022-12-30 | 17724 | 1258 | 
 | 2022-12-29 | 17713 | 1257 | 
-| 2022-12-28 | 17705 | 1255 | 
 

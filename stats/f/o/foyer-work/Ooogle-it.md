@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 27
 
 ☋ Forks: 26
 
-★ Stars: 95
+★ Stars: 97
 
 [Open repository](https://github.com/foyer-work/Ooogle-it)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 95 | 26 | 
+| 2023-01-27 | 97 | 26 | 
 | 2023-01-26 | 95 | 26 | 
 | 2023-01-25 | 89 | 27 | 
 | 2023-01-24 | 89 | 27 | 

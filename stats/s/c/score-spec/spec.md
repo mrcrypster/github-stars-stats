@@ -1,10 +1,10 @@
 # score-spec/spec - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 2631
+☋ Forks: 2630
 
-★ Stars: 7396
+★ Stars: 7394
 
 [Open repository](https://github.com/score-spec/spec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 7394 | 2630 | 
 | 2023-01-26 | 7396 | 2631 | 
 | 2023-01-25 | 7397 | 2633 | 
 | 2023-01-24 | 7396 | 2633 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5139 | 1316 | 
 | 2022-12-30 | 4916 | 1314 | 
 | 2022-12-29 | 4637 | 1311 | 
-| 2022-12-28 | 4327 | 1310 | 
 

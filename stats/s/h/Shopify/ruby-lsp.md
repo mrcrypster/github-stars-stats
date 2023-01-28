@@ -1,10 +1,10 @@
 # Shopify/ruby-lsp - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 16
 
-★ Stars: 533
+★ Stars: 534
 
 [Open repository](https://github.com/Shopify/ruby-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 534 | 16 | 
 | 2023-01-26 | 533 | 16 | 
 | 2023-01-25 | 531 | 15 | 
 | 2023-01-24 | 531 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 460 | 11 | 
 | 2022-12-30 | 460 | 11 | 
 | 2022-12-29 | 456 | 11 | 
-| 2022-12-28 | 456 | 11 | 
 

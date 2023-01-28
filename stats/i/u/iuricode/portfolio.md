@@ -1,8 +1,8 @@
 # iuricode/portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 696
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 696 | 63 | 
 | 2023-01-26 | 696 | 62 | 
 | 2023-01-25 | 696 | 62 | 
 | 2023-01-24 | 696 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 687 | 58 | 
 | 2022-12-30 | 687 | 58 | 
 | 2022-12-29 | 687 | 58 | 
-| 2022-12-28 | 687 | 58 | 
 

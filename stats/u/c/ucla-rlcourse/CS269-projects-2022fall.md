@@ -1,6 +1,6 @@
 # ucla-rlcourse/CS269-projects-2022fall - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2 | 45 | 
 | 2023-01-26 | 2 | 45 | 
 | 2023-01-25 | 2 | 45 | 
 | 2023-01-24 | 2 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2 | 45 | 
 | 2022-12-30 | 2 | 45 | 
 | 2022-12-29 | 2 | 45 | 
-| 2022-12-28 | 2 | 45 | 
 

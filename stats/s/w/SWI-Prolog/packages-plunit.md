@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-plunit - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6 | 12 | 
 | 2023-01-26 | 6 | 12 | 
 | 2023-01-24 | 6 | 12 | 
 | 2023-01-23 | 6 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 6 | 12 | 
 | 2022-12-31 | 6 | 12 | 
 | 2022-12-29 | 5 | 12 | 
-| 2022-12-28 | 5 | 12 | 
 

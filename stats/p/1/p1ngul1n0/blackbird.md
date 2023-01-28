@@ -1,10 +1,10 @@
 # p1ngul1n0/blackbird - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 197
+☋ Forks: 198
 
-★ Stars: 1424
+★ Stars: 1426
 
 [Open repository](https://github.com/p1ngul1n0/blackbird)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1426 | 198 | 
 | 2023-01-26 | 1424 | 197 | 
 | 2023-01-25 | 1424 | 197 | 
 | 2023-01-24 | 1420 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1364 | 187 | 
 | 2022-12-30 | 1356 | 187 | 
 | 2022-12-29 | 1349 | 184 | 
-| 2022-12-28 | 1342 | 184 | 
 

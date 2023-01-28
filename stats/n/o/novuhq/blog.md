@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 27
 
-☋ Forks: 222
+☋ Forks: 223
 
-★ Stars: 311
+★ Stars: 314
 
 [Open repository](https://github.com/novuhq/blog)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-27 | 311 | 222 | 
+| 2023-01-27 | 314 | 223 | 
 | 2023-01-26 | 311 | 222 | 
 

@@ -1,10 +1,10 @@
 # ros/meta-ros - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 212
 
-★ Stars: 303
+★ Stars: 304
 
 [Open repository](https://github.com/ros/meta-ros)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 304 | 212 | 
 | 2023-01-26 | 303 | 212 | 
 | 2023-01-25 | 303 | 212 | 
 | 2023-01-24 | 303 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 299 | 211 | 
 | 2022-12-31 | 299 | 210 | 
 | 2022-12-30 | 299 | 210 | 
-| 2022-12-29 | 299 | 210 | 
 

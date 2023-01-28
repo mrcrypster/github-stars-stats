@@ -1,10 +1,10 @@
 # mixmark-io/turndown - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 755
 
-★ Stars: 6576
+★ Stars: 6578
 
 [Open repository](https://github.com/mixmark-io/turndown)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6578 | 755 | 
 | 2023-01-26 | 6576 | 755 | 
 | 2023-01-25 | 6575 | 755 | 
 | 2023-01-24 | 6574 | 755 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 6532 | 756 | 
 | 2022-12-30 | 6531 | 756 | 
 | 2022-12-29 | 6531 | 756 | 
-| 2022-12-28 | 6529 | 756 | 
 

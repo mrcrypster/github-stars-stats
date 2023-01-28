@@ -1,6 +1,6 @@
 # Freaky/Compactor - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 880 | 36 | 
 | 2023-01-27 | 880 | 36 | 
 | 2023-01-25 | 879 | 36 | 
 | 2023-01-24 | 878 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | 863 | 36 | 
 | 2022-12-30 | 862 | 37 | 
 | 2022-12-29 | 862 | 37 | 
-| 2022-12-28 | 861 | 37 | 
 

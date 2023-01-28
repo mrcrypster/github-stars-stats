@@ -1,6 +1,6 @@
 # dorongold/gradle-task-tree - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 756 | 52 | 
 | 2023-01-26 | 756 | 52 | 
 | 2023-01-25 | 756 | 52 | 
 | 2023-01-24 | 755 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 749 | 52 | 
 | 2022-12-30 | 748 | 52 | 
 | 2022-12-29 | 748 | 52 | 
-| 2022-12-28 | 748 | 52 | 
 

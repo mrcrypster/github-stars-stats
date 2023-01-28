@@ -1,6 +1,6 @@
 # ent/ent - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 743
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 12818 | 743 | 
 | 2023-01-26 | 12818 | 743 | 
 | 2023-01-25 | 12814 | 744 | 
 | 2023-01-23 | 12807 | 744 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 12653 | 735 | 
 | 2022-12-30 | 12648 | 735 | 
 | 2022-12-29 | 12644 | 735 | 
-| 2022-12-28 | 12625 | 734 | 
 

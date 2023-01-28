@@ -1,10 +1,10 @@
 # matiassingers/awesome-readme - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 3544
 
-★ Stars: 13742
+★ Stars: 13753
 
 [Open repository](https://github.com/matiassingers/awesome-readme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 13753 | 3544 | 
 | 2023-01-26 | 13742 | 3544 | 
 | 2023-01-25 | 13734 | 3540 | 
 | 2023-01-24 | 13725 | 3537 | 

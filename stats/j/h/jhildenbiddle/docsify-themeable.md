@@ -1,6 +1,6 @@
 # jhildenbiddle/docsify-themeable - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 433 | 269 | 
 | 2023-01-26 | 433 | 269 | 
 | 2023-01-25 | 433 | 269 | 
 | 2023-01-24 | 433 | 269 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 424 | 267 | 
 | 2022-12-30 | 425 | 267 | 
 | 2022-12-29 | 425 | 267 | 
-| 2022-12-28 | 425 | 267 | 
 

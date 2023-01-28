@@ -1,0 +1,17 @@
+# UCLAdeepvision/CS188-Projects-2023Winter - stars & forks statistics
+
+Stats updated on Jan 2023, 27
+
+☋ Forks: 20
+
+★ Stars: 0
+
+[Open repository](https://github.com/UCLAdeepvision/CS188-Projects-2023Winter)
+
+[Open detailed stats for UCLAdeepvision/CS188-Projects-2023Winter](https://reviewgithub.com/rep/UCLAdeepvision/CS188-Projects-2023Winter)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-27 | - | 20 | 
+

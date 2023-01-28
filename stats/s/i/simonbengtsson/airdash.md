@@ -1,6 +1,6 @@
 # simonbengtsson/airdash - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 252 | 55 | 
 | 2023-01-26 | 252 | 55 | 
 | 2023-01-25 | 251 | 55 | 
 | 2023-01-24 | 250 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 205 | 41 | 
 | 2022-12-30 | 203 | 40 | 
 | 2022-12-29 | 201 | 40 | 
-| 2022-12-28 | 199 | 40 | 
 

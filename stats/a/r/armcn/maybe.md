@@ -1,6 +1,6 @@
 # armcn/maybe - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 44 | - | 
 | 2023-01-26 | 44 | - | 
 | 2023-01-25 | 44 | - | 
 | 2023-01-24 | 44 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 44 | - | 
 | 2022-12-30 | 44 | - | 
 | 2022-12-29 | 44 | - | 
-| 2022-12-28 | 44 | - | 
 

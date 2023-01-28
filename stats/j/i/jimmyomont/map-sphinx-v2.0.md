@@ -1,10 +1,10 @@
 # jimmyomont/map-sphinx-v2.0 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/jimmyomont/map-sphinx-v2.0)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1 | - | 
 | 2023-01-26 | - | - | 
 | 2023-01-25 | - | - | 
 | 2023-01-24 | - | - | 

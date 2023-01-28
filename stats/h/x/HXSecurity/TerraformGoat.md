@@ -1,10 +1,10 @@
 # HXSecurity/TerraformGoat - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 61
 
-★ Stars: 338
+★ Stars: 340
 
 [Open repository](https://github.com/HXSecurity/TerraformGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 340 | 61 | 
 | 2023-01-27 | 338 | 61 | 
 | 2023-01-26 | 336 | 60 | 
 | 2023-01-24 | 335 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 311 | 59 | 
 | 2022-12-30 | 311 | 59 | 
 | 2022-12-29 | 311 | 59 | 
-| 2022-12-28 | 310 | 59 | 
 

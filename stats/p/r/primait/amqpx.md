@@ -1,6 +1,6 @@
 # primait/amqpx - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 9 | 1 | 
+| 2023-01-27 | 9 | 1 | 
 | 2023-01-26 | 9 | 1 | 
 | 2023-01-25 | 9 | 2 | 
 | 2023-01-24 | 9 | 2 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 8 | 2 | 
 | 2022-12-30 | 8 | 2 | 
 | 2022-12-29 | 8 | 2 | 
-| 2022-12-28 | 8 | 2 | 
 

@@ -1,8 +1,8 @@
 # spatie/laravel-activitylog - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 654
+☋ Forks: 653
 
 ★ Stars: 4674
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 4674 | 653 | 
 | 2023-01-26 | 4674 | 654 | 
 | 2023-01-25 | 4672 | 654 | 
 | 2023-01-24 | 4671 | 653 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 4641 | 652 | 
 | 2022-12-30 | 4642 | 652 | 
 | 2022-12-29 | 4639 | 652 | 
-| 2022-12-28 | 4636 | 652 | 
 

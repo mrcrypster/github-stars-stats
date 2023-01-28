@@ -1,10 +1,10 @@
 # zelon88/HRConvert2 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 28
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/zelon88/HRConvert2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 401 | 28 | 
 | 2023-01-26 | 400 | 28 | 
 | 2023-01-25 | 400 | 28 | 
 | 2023-01-24 | 400 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 388 | 27 | 
 | 2022-12-30 | 388 | 27 | 
 | 2022-12-29 | 388 | 27 | 
-| 2022-12-28 | 388 | 27 | 
 

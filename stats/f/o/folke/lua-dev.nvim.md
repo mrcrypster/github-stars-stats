@@ -1,10 +1,10 @@
 # folke/lua-dev.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 34
 
-★ Stars: 823
+★ Stars: 826
 
 [Open repository](https://github.com/folke/lua-dev.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 826 | 34 | 
 | 2023-01-26 | 823 | 34 | 
 | 2023-01-25 | 816 | 34 | 
 | 2023-01-24 | 814 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 711 | 30 | 
 | 2022-12-30 | 708 | 30 | 
 | 2022-12-29 | 705 | 30 | 
-| 2022-12-28 | 701 | 30 | 
 

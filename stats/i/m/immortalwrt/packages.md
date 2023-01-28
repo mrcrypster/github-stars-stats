@@ -1,6 +1,6 @@
 # immortalwrt/packages - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 77 | 105 | 
 | 2023-01-27 | 77 | 105 | 
 | 2023-01-26 | 77 | 104 | 
 | 2023-01-24 | 76 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 70 | 97 | 
 | 2022-12-31 | 70 | 97 | 
 | 2022-12-30 | 70 | 97 | 
-| 2022-12-29 | 70 | 97 | 
 

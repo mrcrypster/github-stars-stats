@@ -1,6 +1,6 @@
 # SciML/Integrals.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 139 | 17 | 
 | 2023-01-26 | 139 | 17 | 
 | 2023-01-25 | 139 | 17 | 
 | 2023-01-24 | 139 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 138 | 17 | 
 | 2022-12-30 | 138 | 17 | 
 | 2022-12-29 | 138 | 17 | 
-| 2022-12-28 | 138 | 17 | 
 

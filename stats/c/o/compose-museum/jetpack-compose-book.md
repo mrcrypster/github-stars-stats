@@ -1,6 +1,6 @@
 # compose-museum/jetpack-compose-book - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 879 | 102 | 
 | 2023-01-26 | 879 | 102 | 
 | 2023-01-25 | 878 | 102 | 
 | 2023-01-24 | 878 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 873 | 101 | 
 | 2022-12-30 | 873 | 101 | 
 | 2022-12-29 | 873 | 101 | 
-| 2022-12-28 | 872 | 101 | 
 

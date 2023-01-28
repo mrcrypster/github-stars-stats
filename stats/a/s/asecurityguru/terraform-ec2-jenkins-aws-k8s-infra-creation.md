@@ -1,8 +1,8 @@
 # asecurityguru/terraform-ec2-jenkins-aws-k8s-infra-creation - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 57
+☋ Forks: 59
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1 | 59 | 
 | 2023-01-26 | 1 | 57 | 
 | 2023-01-25 | 1 | 57 | 
 | 2023-01-24 | 1 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | - | 37 | 
 | 2022-12-30 | - | 37 | 
 | 2022-12-29 | - | 36 | 
-| 2022-12-28 | - | 35 | 
 

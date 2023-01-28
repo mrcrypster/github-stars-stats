@@ -1,10 +1,10 @@
 # ethereum/hevm - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 100
+★ Stars: 103
 
 [Open repository](https://github.com/ethereum/hevm)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 103 | 6 | 
+| 2023-01-27 | 103 | 6 | 
 | 2023-01-26 | 100 | 6 | 
 | 2023-01-25 | 97 | 6 | 
 | 2023-01-24 | 89 | 6 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 60 | 3 | 
 | 2022-12-30 | 60 | 3 | 
 | 2022-12-29 | 60 | 3 | 
-| 2022-12-28 | 60 | 3 | 
 

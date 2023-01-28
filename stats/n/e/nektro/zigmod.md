@@ -1,6 +1,6 @@
 # nektro/zigmod - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 425 | 31 | 
 | 2023-01-26 | 425 | 31 | 
 | 2023-01-25 | 425 | 31 | 
 | 2023-01-24 | 425 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 410 | 32 | 
 | 2022-12-31 | 410 | 32 | 
 | 2022-12-30 | 409 | 32 | 
-| 2022-12-29 | 409 | 32 | 
 

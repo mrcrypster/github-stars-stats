@@ -1,6 +1,6 @@
 # stackblitz/webcontainer-core - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2538 | 102 | 
 | 2023-01-26 | 2538 | 102 | 
 | 2023-01-25 | 2536 | 102 | 
 | 2023-01-24 | 2535 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2478 | 100 | 
 | 2022-12-30 | 2478 | 100 | 
 | 2022-12-29 | 2477 | 100 | 
-| 2022-12-28 | 2475 | 100 | 
 

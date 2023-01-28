@@ -1,6 +1,6 @@
 # racket/zuo - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 164 | 9 | 
 | 2023-01-26 | 164 | 9 | 
 | 2023-01-25 | 164 | 9 | 
 | 2023-01-24 | 164 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 162 | 9 | 
 | 2022-12-30 | 162 | 9 | 
 | 2022-12-29 | 162 | 9 | 
-| 2022-12-28 | 162 | 9 | 
 

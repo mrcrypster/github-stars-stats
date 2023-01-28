@@ -1,10 +1,10 @@
 # yu-steven/openit - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 338
 
-★ Stars: 2783
+★ Stars: 2782
 
 [Open repository](https://github.com/yu-steven/openit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 2782 | 338 | 
 | 2023-01-26 | 2783 | 338 | 
 | 2023-01-25 | 2785 | 338 | 
 | 2023-01-24 | 2787 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 2839 | 341 | 
 | 2022-12-30 | 2841 | 340 | 
 | 2022-12-29 | 2843 | 340 | 
-| 2022-12-28 | 2847 | 340 | 
 

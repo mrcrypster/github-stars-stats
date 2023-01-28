@@ -1,6 +1,6 @@
 # purcell/inheritenv - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 32 | 1 | 
 | 2023-01-26 | 32 | 1 | 
 | 2023-01-25 | 32 | 1 | 
 | 2023-01-24 | 32 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 32 | 1 | 
 | 2022-12-30 | 32 | 1 | 
 | 2022-12-29 | 32 | 1 | 
-| 2022-12-28 | 32 | 1 | 
 

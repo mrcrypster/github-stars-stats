@@ -1,6 +1,6 @@
 # AncientJames/uGrey - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 80 | 6 | 
 | 2023-01-26 | 80 | 6 | 
 | 2023-01-25 | 78 | 6 | 
 | 2023-01-24 | 78 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 56 | 5 | 
 | 2022-12-30 | 53 | 5 | 
 | 2022-12-29 | 50 | 5 | 
-| 2022-12-28 | 49 | 5 | 
 

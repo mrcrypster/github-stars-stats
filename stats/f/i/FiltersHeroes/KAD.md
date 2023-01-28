@@ -1,6 +1,6 @@
 # FiltersHeroes/KAD - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 52 | 10 | 
 | 2023-01-26 | 52 | 10 | 
 | 2023-01-25 | 52 | 10 | 
 | 2023-01-24 | 52 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 51 | 10 | 
 | 2022-12-30 | 51 | 10 | 
 | 2022-12-29 | 51 | 10 | 
-| 2022-12-28 | 51 | 10 | 
 

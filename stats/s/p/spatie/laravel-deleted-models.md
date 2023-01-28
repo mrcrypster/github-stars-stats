@@ -1,10 +1,10 @@
 # spatie/laravel-deleted-models - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 8
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/spatie/laravel-deleted-models)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 192 | 8 | 
 | 2023-01-26 | 191 | 8 | 
 | 2023-01-25 | 187 | 8 | 
 | 2023-01-24 | 183 | 8 | 

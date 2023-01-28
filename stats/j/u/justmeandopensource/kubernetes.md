@@ -1,10 +1,10 @@
 # justmeandopensource/kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2619
 
-★ Stars: 1401
+★ Stars: 1400
 
 [Open repository](https://github.com/justmeandopensource/kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1400 | 2619 | 
 | 2023-01-26 | 1401 | 2619 | 
 | 2023-01-25 | 1398 | 2615 | 
 | 2023-01-24 | 1398 | 2613 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1378 | 2585 | 
 | 2022-12-30 | 1375 | 2582 | 
 | 2022-12-29 | 1374 | 2580 | 
-| 2022-12-28 | 1373 | 2579 | 
 

@@ -1,6 +1,6 @@
 # asyncvlsi/summer2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 12 | 3 | 
 | 2023-01-26 | 12 | 3 | 
 | 2023-01-25 | 12 | 3 | 
 | 2023-01-23 | 12 | 3 | 

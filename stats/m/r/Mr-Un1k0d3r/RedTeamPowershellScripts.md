@@ -1,10 +1,10 @@
 # Mr-Un1k0d3r/RedTeamPowershellScripts - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 239
 
-★ Stars: 818
+★ Stars: 819
 
 [Open repository](https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 819 | 239 | 
 | 2023-01-26 | 818 | 239 | 
 | 2023-01-25 | 817 | 238 | 
 | 2023-01-24 | 814 | 238 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 810 | 237 | 
 | 2022-12-30 | 810 | 237 | 
 | 2022-12-29 | 810 | 237 | 
-| 2022-12-28 | 809 | 237 | 
 

@@ -1,10 +1,10 @@
 # cypress-io/github-action - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 255
 
-★ Stars: 1038
+★ Stars: 1040
 
 [Open repository](https://github.com/cypress-io/github-action)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1040 | 255 | 
 | 2023-01-26 | 1038 | 255 | 
 | 2023-01-25 | 1036 | 255 | 
 | 2023-01-24 | 1035 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1018 | 250 | 
 | 2022-12-30 | 1018 | 250 | 
 | 2022-12-29 | 1017 | 248 | 
-| 2022-12-28 | 1016 | 248 | 
 

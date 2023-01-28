@@ -1,6 +1,6 @@
 # montrd2022/ngrok-rdp-reupload - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | - | 14 | 
 | 2023-01-27 | - | 14 | 
 | 2023-01-25 | - | 14 | 
 | 2023-01-24 | - | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2022-12-31 | - | 10 | 
 | 2022-12-30 | - | 10 | 
 | 2022-12-29 | - | 10 | 
-| 2022-12-28 | - | 10 | 
 

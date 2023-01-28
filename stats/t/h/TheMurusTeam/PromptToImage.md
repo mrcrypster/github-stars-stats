@@ -1,10 +1,10 @@
 # TheMurusTeam/PromptToImage - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/TheMurusTeam/PromptToImage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 80 | 9 | 
 | 2023-01-26 | 79 | 8 | 
 | 2023-01-25 | 78 | 8 | 
 | 2023-01-24 | 77 | 7 | 

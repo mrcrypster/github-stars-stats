@@ -1,6 +1,6 @@
 # blasty/printer-cracktro - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 31 | 8 | 
 | 2023-01-26 | 31 | 8 | 
 | 2023-01-25 | 31 | 8 | 
 | 2023-01-24 | 31 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 30 | 7 | 
 | 2022-12-30 | 29 | 7 | 
 | 2022-12-29 | 29 | 7 | 
-| 2022-12-28 | 29 | 7 | 
 

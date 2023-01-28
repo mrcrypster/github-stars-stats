@@ -1,6 +1,6 @@
 # mehedirm6244/My_XFCE_dotties - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 207 | 22 | 
 | 2023-01-26 | 207 | 22 | 
 | 2023-01-25 | 208 | 22 | 
 | 2023-01-24 | 208 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 200 | 21 | 
 | 2022-12-30 | 200 | 20 | 
 | 2022-12-29 | 202 | 20 | 
-| 2022-12-28 | 202 | 19 | 
 

@@ -1,6 +1,6 @@
 # liu673cn/biubiu - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 824 | 124 | 
 | 2023-01-26 | 824 | 124 | 
 | 2023-01-25 | 825 | 124 | 
 | 2023-01-24 | 826 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 820 | 121 | 
 | 2022-12-30 | 820 | 121 | 
 | 2022-12-29 | 818 | 121 | 
-| 2022-12-28 | 818 | 121 | 
 

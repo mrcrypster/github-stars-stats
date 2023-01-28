@@ -1,10 +1,10 @@
 # inancgumus/learngo - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 2227
 
-★ Stars: 16803
+★ Stars: 16806
 
 [Open repository](https://github.com/inancgumus/learngo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 16806 | 2227 | 
 | 2023-01-26 | 16803 | 2227 | 
 | 2023-01-25 | 16799 | 2224 | 
 | 2023-01-24 | 16796 | 2222 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 16699 | 2186 | 
 | 2022-12-30 | 16692 | 2185 | 
 | 2022-12-29 | 16688 | 2182 | 
-| 2022-12-28 | 16683 | 2182 | 
 

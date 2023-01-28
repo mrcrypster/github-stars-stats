@@ -1,10 +1,10 @@
 # Creality3DPrinting/Ender-3 - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 637
 
-★ Stars: 1595
+★ Stars: 1596
 
 [Open repository](https://github.com/Creality3DPrinting/Ender-3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 1596 | 637 | 
 | 2023-01-26 | 1595 | 637 | 
 | 2023-01-25 | 1594 | 637 | 
 | 2023-01-24 | 1594 | 637 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 1574 | 636 | 
 | 2022-12-30 | 1573 | 635 | 
 | 2022-12-29 | 1572 | 634 | 
-| 2022-12-28 | 1571 | 634 | 
 

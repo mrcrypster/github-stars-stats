@@ -1,6 +1,6 @@
 # Immediate-Mode-UI/Nuklear - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 420
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 6921 | 420 | 
 | 2023-01-26 | 6921 | 420 | 
 | 2023-01-25 | 6919 | 420 | 
 | 2023-01-24 | 6916 | 420 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 6826 | 415 | 
 | 2022-12-30 | 6818 | 414 | 
 | 2022-12-29 | 6807 | 414 | 
-| 2022-12-28 | 6793 | 412 | 
 

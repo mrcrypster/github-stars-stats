@@ -1,8 +1,8 @@
 # EsotericSoftware/kryo - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 797
+☋ Forks: 798
 
 ★ Stars: 5691
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5691 | 798 | 
 | 2023-01-26 | 5691 | 797 | 
 | 2023-01-25 | 5690 | 797 | 
 | 2023-01-24 | 5690 | 796 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 5677 | 795 | 
 | 2022-12-31 | 5677 | 796 | 
 | 2022-12-30 | 5675 | 796 | 
-| 2022-12-29 | 5672 | 796 | 
 

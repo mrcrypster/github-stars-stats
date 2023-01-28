@@ -1,10 +1,10 @@
 # calcom/cal.com - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
-☋ Forks: 1911
+☋ Forks: 1913
 
-★ Stars: 16138
+★ Stars: 16168
 
 [Open repository](https://github.com/calcom/cal.com)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 16168 | 1913 | 
 | 2023-01-26 | 16138 | 1911 | 
 | 2023-01-25 | 16053 | 1909 | 
 | 2023-01-24 | 15834 | 1897 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 14867 | 1812 | 
 | 2022-12-30 | 14853 | 1811 | 
 | 2022-12-29 | 14838 | 1807 | 
-| 2022-12-28 | 14827 | 1805 | 
 

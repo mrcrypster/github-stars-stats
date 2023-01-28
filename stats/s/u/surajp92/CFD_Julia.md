@@ -1,10 +1,10 @@
 # surajp92/CFD_Julia - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 125
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/surajp92/CFD_Julia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 351 | 125 | 
 | 2023-01-26 | 350 | 125 | 
 | 2023-01-25 | 350 | 125 | 
 | 2023-01-24 | 350 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 344 | 121 | 
 | 2022-12-30 | 344 | 121 | 
 | 2022-12-29 | 344 | 122 | 
-| 2022-12-28 | 344 | 122 | 
 

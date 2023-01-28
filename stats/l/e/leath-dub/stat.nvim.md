@@ -1,10 +1,10 @@
 # leath-dub/stat.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/leath-dub/stat.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 13 | - | 
 | 2023-01-26 | 12 | - | 
 | 2023-01-25 | 12 | - | 
 | 2023-01-23 | 12 | - | 

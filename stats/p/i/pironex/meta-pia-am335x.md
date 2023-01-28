@@ -1,6 +1,6 @@
 # pironex/meta-pia-am335x - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2 | - | 
 | 2023-01-26 | 2 | - | 
 | 2023-01-25 | 2 | - | 
 | 2023-01-24 | 2 | - | 

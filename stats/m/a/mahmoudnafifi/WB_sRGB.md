@@ -1,6 +1,6 @@
 # mahmoudnafifi/WB_sRGB - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 231 | 56 | 
 | 2023-01-26 | 231 | 56 | 
 | 2023-01-25 | 231 | 56 | 
 | 2023-01-24 | 231 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 227 | 56 | 
 | 2022-12-30 | 227 | 56 | 
 | 2022-12-29 | 227 | 56 | 
-| 2022-12-28 | 227 | 56 | 
 

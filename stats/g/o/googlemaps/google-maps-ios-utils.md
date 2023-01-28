@@ -1,6 +1,6 @@
 # googlemaps/google-maps-ios-utils - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 367
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 653 | 367 | 
 | 2023-01-26 | 653 | 367 | 
 | 2023-01-25 | 652 | 367 | 
 | 2023-01-24 | 652 | 367 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 647 | 367 | 
 | 2022-12-30 | 647 | 367 | 
 | 2022-12-29 | 645 | 367 | 
-| 2022-12-28 | 645 | 367 | 
 

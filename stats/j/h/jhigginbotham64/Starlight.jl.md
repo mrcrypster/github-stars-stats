@@ -1,6 +1,6 @@
 # jhigginbotham64/Starlight.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 120 | 9 | 
 | 2023-01-27 | 120 | 9 | 
 | 2023-01-25 | 120 | 9 | 
 | 2023-01-24 | 120 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 119 | 8 | 
 | 2022-12-31 | 119 | 8 | 
 | 2022-12-29 | 119 | 8 | 
-| 2022-12-28 | 119 | 8 | 
 

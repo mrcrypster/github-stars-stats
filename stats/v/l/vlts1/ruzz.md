@@ -1,6 +1,6 @@
 # vlts1/ruzz - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 78 | 1 | 
 | 2023-01-26 | 78 | 1 | 
 | 2023-01-25 | 78 | 1 | 
 | 2023-01-24 | 77 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 79 | 1 | 
 | 2022-12-30 | 79 | 1 | 
 | 2022-12-29 | 79 | 1 | 
-| 2022-12-28 | 79 | 1 | 
 

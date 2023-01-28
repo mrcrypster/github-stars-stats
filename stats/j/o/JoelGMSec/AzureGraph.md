@@ -1,10 +1,10 @@
 # JoelGMSec/AzureGraph - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/JoelGMSec/AzureGraph)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 60 | 9 | 
 | 2023-01-26 | 59 | 9 | 
 | 2023-01-25 | 59 | 9 | 
 | 2023-01-24 | 59 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2023-01-01 | 55 | 7 | 
 | 2022-12-31 | 55 | 7 | 
 | 2022-12-29 | 55 | 7 | 
-| 2022-12-28 | 55 | 7 | 
 

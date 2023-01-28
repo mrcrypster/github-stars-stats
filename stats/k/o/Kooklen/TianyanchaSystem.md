@@ -1,6 +1,6 @@
 # Kooklen/TianyanchaSystem - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 124 | 21 | 
 | 2023-01-26 | 124 | 21 | 
 | 2023-01-25 | 124 | 21 | 
 | 2023-01-24 | 124 | 21 | 

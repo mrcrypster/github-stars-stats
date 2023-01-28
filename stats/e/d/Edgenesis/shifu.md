@@ -1,6 +1,6 @@
 # Edgenesis/shifu - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 399 | 32 | 
 | 2023-01-26 | 399 | 32 | 
 | 2023-01-25 | 395 | 32 | 
 | 2023-01-24 | 391 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 314 | 28 | 
 | 2022-12-30 | 314 | 28 | 
 | 2022-12-29 | 312 | 29 | 
-| 2022-12-28 | 307 | 28 | 
 

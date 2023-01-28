@@ -1,10 +1,10 @@
 # XAMPPRocky/tokei - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 398
 
-★ Stars: 7617
+★ Stars: 7623
 
 [Open repository](https://github.com/XAMPPRocky/tokei)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 7623 | 398 | 
 | 2023-01-26 | 7617 | 398 | 
 | 2023-01-25 | 7607 | 398 | 
 | 2023-01-24 | 7601 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 7508 | 400 | 
 | 2022-12-30 | 7505 | 400 | 
 | 2022-12-29 | 7498 | 398 | 
-| 2022-12-28 | 7493 | 398 | 
 

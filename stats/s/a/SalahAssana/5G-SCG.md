@@ -1,6 +1,6 @@
 # SalahAssana/5G-SCG - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 54 | 46 | 
 | 2023-01-26 | 54 | 46 | 
 | 2023-01-25 | 54 | 46 | 
 | 2023-01-24 | 54 | 46 | 

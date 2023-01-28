@@ -1,10 +1,10 @@
 # teaxyz/cli - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+Stats updated on Jan 2023, 27
 
 ☋ Forks: 351
 
-★ Stars: 5557
+★ Stars: 5572
 
 [Open repository](https://github.com/teaxyz/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-27 | 5572 | 351 | 
 | 2023-01-26 | 5557 | 351 | 
 | 2023-01-25 | 5548 | 349 | 
 | 2023-01-24 | 5535 | 344 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 26
 | 2022-12-31 | 5050 | 333 | 
 | 2022-12-30 | 5045 | 333 | 
 | 2022-12-29 | 5052 | 331 | 
-| 2022-12-28 | 5046 | 331 | 
 
