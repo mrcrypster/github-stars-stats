@@ -1,6 +1,6 @@
 # alibaba/havenask - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 965 | 189 | 
 | 2023-01-27 | 965 | 189 | 
 | 2023-01-26 | 965 | 189 | 
 | 2023-01-25 | 966 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 939 | 184 | 
 | 2022-12-31 | 938 | 184 | 
 | 2022-12-30 | 937 | 183 | 
-| 2022-12-29 | 932 | 183 | 
 

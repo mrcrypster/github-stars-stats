@@ -1,6 +1,6 @@
 # zhuyingda/webster - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 446 | 58 | 
 | 2023-01-27 | 446 | 58 | 
 | 2023-01-26 | 446 | 58 | 
 | 2023-01-25 | 446 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 445 | 57 | 
 | 2022-12-31 | 445 | 57 | 
 | 2022-12-30 | 445 | 57 | 
-| 2022-12-29 | 445 | 57 | 
 

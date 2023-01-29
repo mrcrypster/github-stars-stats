@@ -1,10 +1,10 @@
 # karfly/chatgpt_telegram_bot - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 216
+★ Stars: 220
 
 [Open repository](https://github.com/karfly/chatgpt_telegram_bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 220 | 35 | 
 | 2023-01-27 | 216 | 34 | 
 | 2023-01-26 | 210 | 33 | 
 | 2023-01-25 | 200 | 29 | 

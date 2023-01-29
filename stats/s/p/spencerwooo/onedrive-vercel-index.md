@@ -1,10 +1,10 @@
 # spencerwooo/onedrive-vercel-index - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 2509
+☋ Forks: 2512
 
-★ Stars: 2150
+★ Stars: 2156
 
 [Open repository](https://github.com/spencerwooo/onedrive-vercel-index)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2156 | 2512 | 
 | 2023-01-27 | 2150 | 2509 | 
 | 2023-01-26 | 2144 | 2500 | 
 | 2023-01-25 | 2141 | 2496 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2031 | 2365 | 
 | 2022-12-31 | 2028 | 2360 | 
 | 2022-12-30 | 2026 | 2360 | 
-| 2022-12-29 | 2024 | 2354 | 
 

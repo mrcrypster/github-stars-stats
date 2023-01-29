@@ -1,10 +1,10 @@
 # leftwm/leftwm - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 156
 
-★ Stars: 2197
+★ Stars: 2198
 
 [Open repository](https://github.com/leftwm/leftwm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2198 | 156 | 
 | 2023-01-27 | 2197 | 156 | 
 | 2023-01-26 | 2197 | 154 | 
 | 2023-01-25 | 2197 | 154 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2159 | 152 | 
 | 2022-12-31 | 2158 | 152 | 
 | 2022-12-30 | 2157 | 152 | 
-| 2022-12-29 | 2157 | 149 | 
 

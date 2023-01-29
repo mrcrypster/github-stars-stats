@@ -1,6 +1,6 @@
 # obsproject/obs-plugintemplate - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 120 | 62 | 
 | 2023-01-27 | 120 | 62 | 
 | 2023-01-26 | 120 | 62 | 
 | 2023-01-25 | 119 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 116 | 56 | 
 | 2022-12-31 | 116 | 56 | 
 | 2022-12-30 | 116 | 56 | 
-| 2022-12-29 | 116 | 56 | 
 

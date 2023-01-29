@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-sinatra-with-active-record-get - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1522
+☋ Forks: 1523
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1 | 1523 | 
 | 2023-01-27 | 1 | 1522 | 
 | 2023-01-26 | 1 | 1521 | 
 | 2023-01-25 | 1 | 1521 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1 | 1472 | 
 | 2022-12-31 | 1 | 1469 | 
 | 2022-12-30 | 1 | 1466 | 
-| 2022-12-29 | 1 | 1462 | 
 

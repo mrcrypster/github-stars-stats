@@ -1,8 +1,8 @@
 # campforce/auto-parts-retail - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2 | 6 | 
 | 2023-01-27 | 2 | 5 | 
 | 2023-01-26 | 2 | 5 | 
 | 2023-01-25 | 2 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 3 | 5 | 
 | 2022-12-31 | 3 | 5 | 
 | 2022-12-30 | 3 | 5 | 
-| 2022-12-29 | 3 | 5 | 
 

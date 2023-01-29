@@ -1,10 +1,10 @@
 # harblaith7/Nuxt-Crash-Course - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 689
+☋ Forks: 690
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/harblaith7/Nuxt-Crash-Course)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 122 | 690 | 
 | 2023-01-27 | 121 | 689 | 
 | 2023-01-26 | 121 | 689 | 
 | 2023-01-25 | 121 | 689 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 120 | 695 | 
 | 2022-12-31 | 120 | 695 | 
 | 2022-12-30 | 120 | 695 | 
-| 2022-12-29 | 120 | 695 | 
 

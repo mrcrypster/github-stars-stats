@@ -1,10 +1,10 @@
 # tasks/tasks - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 423
 
-★ Stars: 2513
+★ Stars: 2514
 
 [Open repository](https://github.com/tasks/tasks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2514 | 423 | 
 | 2023-01-27 | 2513 | 423 | 
 | 2023-01-26 | 2510 | 423 | 
 | 2023-01-25 | 2507 | 423 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2476 | 418 | 
 | 2022-12-31 | 2476 | 418 | 
 | 2022-12-30 | 2474 | 418 | 
-| 2022-12-29 | 2474 | 417 | 
 

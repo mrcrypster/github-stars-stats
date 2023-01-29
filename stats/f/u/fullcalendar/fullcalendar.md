@@ -1,10 +1,10 @@
 # fullcalendar/fullcalendar - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 3464
+☋ Forks: 3466
 
-★ Stars: 15893
+★ Stars: 15899
 
 [Open repository](https://github.com/fullcalendar/fullcalendar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 15899 | 3466 | 
 | 2023-01-27 | 15893 | 3464 | 
 | 2023-01-26 | 15887 | 3464 | 
 | 2023-01-25 | 15878 | 3464 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 15790 | 3450 | 
 | 2022-12-31 | 15788 | 3449 | 
 | 2022-12-30 | 15789 | 3449 | 
-| 2022-12-29 | 15787 | 3448 | 
 

@@ -1,8 +1,8 @@
 # postgres-cn/pgdoc-cn - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 370
+☋ Forks: 371
 
 ★ Stars: 1604
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1604 | 371 | 
 | 2023-01-27 | 1604 | 370 | 
 | 2023-01-26 | 1603 | 370 | 
 | 2023-01-25 | 1603 | 370 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1595 | 369 | 
 | 2022-12-31 | 1595 | 369 | 
 | 2022-12-30 | 1595 | 369 | 
-| 2022-12-29 | 1595 | 369 | 
 

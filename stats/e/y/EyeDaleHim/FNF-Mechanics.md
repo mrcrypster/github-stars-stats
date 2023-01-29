@@ -1,6 +1,6 @@
 # EyeDaleHim/FNF-Mechanics - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 13 | 10 | 
 | 2023-01-27 | 13 | 10 | 
 | 2023-01-26 | 13 | 10 | 
 | 2023-01-24 | 13 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 14 | 10 | 
 | 2023-01-01 | 14 | 10 | 
 | 2022-12-31 | 14 | 10 | 
-| 2022-12-30 | 14 | 10 | 
 

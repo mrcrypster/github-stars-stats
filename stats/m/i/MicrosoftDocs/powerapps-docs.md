@@ -1,10 +1,10 @@
 # MicrosoftDocs/powerapps-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 639
 
-★ Stars: 337
+★ Stars: 339
 
 [Open repository](https://github.com/MicrosoftDocs/powerapps-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 339 | 639 | 
 | 2023-01-27 | 337 | 639 | 
 | 2023-01-26 | 337 | 639 | 
 | 2023-01-25 | 337 | 639 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 334 | 628 | 
 | 2022-12-31 | 333 | 628 | 
 | 2022-12-30 | 332 | 628 | 
-| 2022-12-29 | 332 | 626 | 
 

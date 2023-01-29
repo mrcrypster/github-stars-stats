@@ -1,10 +1,10 @@
 # symfony/http-foundation - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 286
 
-★ Stars: 8367
+★ Stars: 8368
 
 [Open repository](https://github.com/symfony/http-foundation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8368 | 286 | 
 | 2023-01-27 | 8367 | 286 | 
 | 2023-01-26 | 8364 | 286 | 
 | 2023-01-25 | 8364 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 8343 | 284 | 
 | 2022-12-31 | 8343 | 284 | 
 | 2022-12-30 | 8343 | 284 | 
-| 2022-12-29 | 8343 | 284 | 
 

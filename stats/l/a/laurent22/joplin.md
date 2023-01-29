@@ -1,10 +1,10 @@
 # laurent22/joplin - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 3779
+☋ Forks: 3780
 
-★ Stars: 34157
+★ Stars: 34177
 
 [Open repository](https://github.com/laurent22/joplin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 34177 | 3780 | 
 | 2023-01-27 | 34157 | 3779 | 
 | 2023-01-26 | 34138 | 3778 | 
 | 2023-01-25 | 34125 | 3775 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 33667 | 3760 | 
 | 2022-12-31 | 33658 | 3757 | 
 | 2022-12-30 | 33649 | 3758 | 
-| 2022-12-29 | 33639 | 3755 | 
 

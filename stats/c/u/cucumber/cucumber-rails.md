@@ -1,6 +1,6 @@
 # cucumber/cucumber-rails - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 330
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1004 | 330 | 
 | 2023-01-27 | 1004 | 330 | 
 | 2023-01-26 | 1004 | 330 | 
 | 2023-01-25 | 1004 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1003 | 333 | 
 | 2022-12-31 | 1003 | 333 | 
 | 2022-12-30 | 1003 | 333 | 
-| 2022-12-29 | 1003 | 333 | 
 

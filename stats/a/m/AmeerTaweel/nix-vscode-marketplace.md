@@ -1,8 +1,8 @@
 # AmeerTaweel/nix-vscode-marketplace - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 34 | 2 | 
 | 2023-01-27 | 34 | 1 | 
 | 2023-01-26 | 34 | 1 | 
 | 2023-01-25 | 34 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 33 | 1 | 
 | 2023-01-01 | 33 | 1 | 
 | 2022-12-31 | 33 | 1 | 
-| 2022-12-30 | 33 | 1 | 
 

@@ -1,10 +1,10 @@
 # openscad/emacs-scad-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/openscad/emacs-scad-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 11 | - | 
 | 2023-01-27 | 10 | - | 
 | 2023-01-26 | 10 | - | 
 | 2023-01-25 | 10 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 9 | - | 
 | 2022-12-31 | 9 | - | 
 | 2022-12-30 | 9 | - | 
-| 2022-12-29 | 9 | - | 
 

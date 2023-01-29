@@ -1,6 +1,6 @@
 # aguaviva/articles - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 71 | 3 | 
 | 2023-01-27 | 71 | 3 | 
 | 2023-01-26 | 71 | 3 | 
 | 2023-01-25 | 71 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 71 | 3 | 
 | 2022-12-31 | 71 | 3 | 
 | 2022-12-30 | 71 | 3 | 
-| 2022-12-29 | 71 | 3 | 
 

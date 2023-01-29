@@ -1,6 +1,6 @@
 # Frameio/ex_limiter - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 34 | 2 | 
 | 2023-01-27 | 34 | 2 | 
 | 2023-01-26 | 34 | 2 | 
 | 2023-01-25 | 34 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 34 | 3 | 
 | 2022-12-31 | 34 | 3 | 
 | 2022-12-30 | 34 | 3 | 
-| 2022-12-29 | 34 | 3 | 
 

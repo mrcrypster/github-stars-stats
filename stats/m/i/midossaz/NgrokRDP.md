@@ -1,8 +1,8 @@
 # midossaz/NgrokRDP - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 92
+☋ Forks: 93
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | - | 93 | 
 | 2023-01-27 | - | 92 | 
 | 2023-01-26 | - | 92 | 
 | 2023-01-25 | - | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | - | 88 | 
 | 2022-12-31 | - | 88 | 
 | 2022-12-30 | - | 88 | 
-| 2022-12-29 | - | 87 | 
 

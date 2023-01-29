@@ -1,10 +1,10 @@
 # tpope/vim-obsession - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 64
 
-★ Stars: 1524
+★ Stars: 1525
 
 [Open repository](https://github.com/tpope/vim-obsession)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1525 | 64 | 
 | 2023-01-27 | 1524 | 64 | 
 | 2023-01-26 | 1524 | 64 | 
 | 2023-01-25 | 1523 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1514 | 64 | 
 | 2022-12-31 | 1514 | 64 | 
 | 2022-12-30 | 1514 | 64 | 
-| 2022-12-29 | 1514 | 64 | 
 

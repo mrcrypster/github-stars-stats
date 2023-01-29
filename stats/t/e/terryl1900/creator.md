@@ -1,10 +1,10 @@
 # terryl1900/creator - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/terryl1900/creator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 190 | 15 | 
 | 2023-01-27 | 189 | 14 | 
 | 2023-01-26 | 189 | 14 | 
 | 2023-01-25 | 189 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 181 | 14 | 
 | 2022-12-31 | 181 | 14 | 
 | 2022-12-30 | 181 | 14 | 
-| 2022-12-29 | 181 | 14 | 
 

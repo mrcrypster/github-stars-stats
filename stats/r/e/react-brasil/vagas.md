@@ -1,10 +1,10 @@
 # react-brasil/vagas - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 74
 
-★ Stars: 2719
+★ Stars: 2720
 
 [Open repository](https://github.com/react-brasil/vagas)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2720 | 74 | 
 | 2023-01-27 | 2719 | 74 | 
 | 2023-01-26 | 2714 | 74 | 
 | 2023-01-25 | 2708 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2659 | 71 | 
 | 2022-12-31 | 2657 | 71 | 
 | 2022-12-30 | 2654 | 71 | 
-| 2022-12-29 | 2655 | 71 | 
 

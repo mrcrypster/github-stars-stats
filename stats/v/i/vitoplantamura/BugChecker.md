@@ -1,10 +1,10 @@
 # vitoplantamura/BugChecker - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 91
 
-★ Stars: 692
+★ Stars: 694
 
 [Open repository](https://github.com/vitoplantamura/BugChecker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 694 | 91 | 
 | 2023-01-27 | 692 | 91 | 
 | 2023-01-26 | 689 | 90 | 
 | 2023-01-25 | 687 | 90 | 

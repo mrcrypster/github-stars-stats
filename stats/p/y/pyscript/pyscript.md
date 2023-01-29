@@ -1,10 +1,10 @@
 # pyscript/pyscript - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1137
+☋ Forks: 1138
 
-★ Stars: 15343
+★ Stars: 15346
 
 [Open repository](https://github.com/pyscript/pyscript)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 15346 | 1138 | 
 | 2023-01-27 | 15343 | 1137 | 
 | 2023-01-26 | 15338 | 1136 | 
 | 2023-01-25 | 15333 | 1136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 15229 | 1121 | 
 | 2022-12-31 | 15226 | 1121 | 
 | 2022-12-30 | 15219 | 1121 | 
-| 2022-12-29 | 15214 | 1121 | 
 

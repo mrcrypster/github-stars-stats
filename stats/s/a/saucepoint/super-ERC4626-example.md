@@ -1,10 +1,10 @@
 # saucepoint/super-ERC4626-example - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/saucepoint/super-ERC4626-example)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 33 | - | 
 | 2023-01-27 | 32 | - | 
 | 2023-01-26 | 32 | - | 
 | 2023-01-25 | 32 | - | 

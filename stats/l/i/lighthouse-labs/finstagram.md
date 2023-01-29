@@ -1,6 +1,6 @@
 # lighthouse-labs/finstagram - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1560
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 17 | 1560 | 
 | 2023-01-27 | 17 | 1560 | 
 | 2023-01-26 | 17 | 1560 | 
 | 2023-01-24 | 17 | 1560 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 17 | 1547 | 
 | 2023-01-01 | 17 | 1547 | 
 | 2022-12-31 | 17 | 1547 | 
-| 2022-12-30 | 17 | 1547 | 
 

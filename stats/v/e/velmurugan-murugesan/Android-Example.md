@@ -1,8 +1,8 @@
 # velmurugan-murugesan/Android-Example - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 600
+☋ Forks: 598
 
 ★ Stars: 399
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 399 | 598 | 
 | 2023-01-27 | 399 | 600 | 
 | 2023-01-26 | 398 | 599 | 
 | 2023-01-25 | 397 | 598 | 

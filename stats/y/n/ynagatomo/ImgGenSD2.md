@@ -1,8 +1,8 @@
 # ynagatomo/ImgGenSD2 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 218
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 218 | 14 | 
 | 2023-01-27 | 218 | 13 | 
 | 2023-01-26 | 218 | 13 | 
 | 2023-01-25 | 219 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 200 | 13 | 
 | 2022-12-31 | 196 | 11 | 
 | 2022-12-30 | 195 | 11 | 
-| 2022-12-29 | 192 | 11 | 
 

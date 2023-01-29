@@ -1,10 +1,10 @@
 # SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 209
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 30 | 209 | 
 | 2023-01-27 | 29 | 209 | 
 | 2023-01-26 | 29 | 209 | 
 | 2023-01-25 | 29 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 29 | 206 | 
 | 2022-12-31 | 29 | 206 | 
 | 2022-12-30 | 29 | 206 | 
-| 2022-12-29 | 29 | 206 | 
 

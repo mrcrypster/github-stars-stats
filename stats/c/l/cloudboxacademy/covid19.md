@@ -1,6 +1,6 @@
 # cloudboxacademy/covid19 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 110 | 281 | 
 | 2023-01-27 | 110 | 281 | 
 | 2023-01-26 | 110 | 281 | 
 | 2023-01-25 | 110 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 106 | 268 | 
 | 2022-12-31 | 106 | 268 | 
 | 2022-12-30 | 106 | 268 | 
-| 2022-12-29 | 106 | 268 | 
 

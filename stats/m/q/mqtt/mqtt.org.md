@@ -1,6 +1,6 @@
 # mqtt/mqtt.org - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 925
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 4974 | 925 | 
 | 2023-01-27 | 4974 | 925 | 
 | 2023-01-26 | 4973 | 925 | 
 | 2023-01-25 | 4974 | 925 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 4965 | 922 | 
 | 2022-12-31 | 4965 | 923 | 
 | 2022-12-30 | 4965 | 923 | 
-| 2022-12-29 | 4963 | 922 | 
 

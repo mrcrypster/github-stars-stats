@@ -1,10 +1,10 @@
 # kedro-org/kedro - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 756
+☋ Forks: 757
 
-★ Stars: 8039
+★ Stars: 8040
 
 [Open repository](https://github.com/kedro-org/kedro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8040 | 757 | 
 | 2023-01-27 | 8039 | 756 | 
 | 2023-01-26 | 8033 | 756 | 
 | 2023-01-25 | 8032 | 756 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 7922 | 749 | 
 | 2022-12-31 | 7920 | 748 | 
 | 2022-12-30 | 7916 | 748 | 
-| 2022-12-29 | 7915 | 748 | 
 

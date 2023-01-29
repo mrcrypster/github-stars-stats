@@ -1,10 +1,10 @@
 # unpoly/unpoly - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 54
 
-★ Stars: 1388
+★ Stars: 1390
 
 [Open repository](https://github.com/unpoly/unpoly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1390 | 54 | 
 | 2023-01-27 | 1388 | 54 | 
 | 2023-01-26 | 1388 | 54 | 
 | 2023-01-25 | 1388 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1366 | 51 | 
 | 2022-12-31 | 1366 | 51 | 
 | 2022-12-30 | 1365 | 51 | 
-| 2022-12-29 | 1364 | 51 | 
 

@@ -1,6 +1,6 @@
 # yicm/CMakeCppProjectTemplate - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 79 | 24 | 
 | 2023-01-28 | 79 | 24 | 
 | 2023-01-26 | 79 | 24 | 
 | 2023-01-25 | 79 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-01 | 76 | 24 | 
 | 2022-12-31 | 76 | 24 | 
 | 2022-12-30 | 76 | 24 | 
-| 2022-12-29 | 76 | 24 | 
 

@@ -1,6 +1,6 @@
 # Xidrovo/calculadoraESPOL - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1 | - | 
+| 2023-01-28 | 1 | - | 
 | 2023-01-27 | 1 | - | 
 | 2023-01-26 | 1 | - | 
 | 2023-01-25 | 1 | - | 

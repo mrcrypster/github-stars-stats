@@ -1,10 +1,10 @@
 # haxi0/TrollLock-Reborn - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/haxi0/TrollLock-Reborn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 115 | 6 | 
 | 2023-01-27 | 114 | 6 | 
 | 2023-01-26 | 113 | 6 | 
 | 2023-01-25 | 112 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 46 | 5 | 
 | 2022-12-31 | 42 | 5 | 
 | 2022-12-30 | 40 | 6 | 
-| 2022-12-29 | 37 | 5 | 
 

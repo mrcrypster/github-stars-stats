@@ -1,10 +1,10 @@
 # origin0110/OriginShader - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 131
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/origin0110/OriginShader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 273 | 131 | 
 | 2023-01-28 | 272 | 131 | 
 | 2023-01-27 | 272 | 131 | 
 | 2023-01-25 | 272 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 268 | 129 | 
 | 2023-01-01 | 268 | 129 | 
 | 2022-12-31 | 268 | 129 | 
-| 2022-12-29 | 268 | 129 | 
 

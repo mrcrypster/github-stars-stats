@@ -1,8 +1,8 @@
 # qwj/python-proxy - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 260
+☋ Forks: 262
 
 ★ Stars: 1470
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1470 | 262 | 
 | 2023-01-27 | 1470 | 260 | 
 | 2023-01-26 | 1469 | 260 | 
 | 2023-01-25 | 1469 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1445 | 258 | 
 | 2022-12-31 | 1444 | 258 | 
 | 2022-12-30 | 1443 | 258 | 
-| 2022-12-29 | 1443 | 258 | 
 

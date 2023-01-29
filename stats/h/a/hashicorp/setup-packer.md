@@ -1,6 +1,6 @@
 # hashicorp/setup-packer - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 101 | 78 | 
 | 2023-01-27 | 101 | 78 | 
 | 2023-01-26 | 101 | 79 | 
 | 2023-01-25 | 101 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 97 | 76 | 
 | 2022-12-31 | 97 | 76 | 
 | 2022-12-30 | 97 | 76 | 
-| 2022-12-29 | 96 | 76 | 
 

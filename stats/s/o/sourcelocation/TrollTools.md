@@ -1,10 +1,10 @@
 # sourcelocation/TrollTools - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 23
 
-★ Stars: 279
+★ Stars: 283
 
 [Open repository](https://github.com/sourcelocation/TrollTools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 283 | 23 | 
 | 2023-01-27 | 279 | 23 | 
 | 2023-01-26 | 279 | 23 | 
 | 2023-01-25 | 279 | 23 | 

@@ -1,10 +1,10 @@
 # mikeizbicki/cmc-csci046 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
-☋ Forks: 152
+☋ Forks: 154
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/mikeizbicki/cmc-csci046)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 37 | 154 | 
+| 2023-01-28 | 37 | 154 | 
 | 2023-01-27 | 36 | 152 | 
 | 2023-01-26 | 36 | 152 | 
 | 2023-01-25 | 36 | 152 | 

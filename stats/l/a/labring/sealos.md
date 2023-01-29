@@ -1,10 +1,10 @@
 # labring/sealos - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1654
 
-★ Stars: 9924
+★ Stars: 9926
 
 [Open repository](https://github.com/labring/sealos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 9926 | 1654 | 
 | 2023-01-27 | 9924 | 1654 | 
 | 2023-01-26 | 9924 | 1654 | 
 | 2023-01-25 | 9923 | 1655 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 9880 | 1644 | 
 | 2023-01-01 | 9880 | 1644 | 
 | 2022-12-31 | 9878 | 1644 | 
-| 2022-12-30 | 9872 | 1644 | 
 

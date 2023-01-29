@@ -1,6 +1,6 @@
 # dokan-dev/dokany - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 605
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 4556 | 605 | 
 | 2023-01-27 | 4556 | 605 | 
 | 2023-01-26 | 4555 | 605 | 
 | 2023-01-25 | 4554 | 604 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 4530 | 601 | 
 | 2023-01-01 | 4530 | 601 | 
 | 2022-12-31 | 4530 | 601 | 
-| 2022-12-30 | 4530 | 601 | 
 

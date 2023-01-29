@@ -1,8 +1,8 @@
 # Unity-Technologies/Graphics - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 661
+☋ Forks: 662
 
 ★ Stars: 1954
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1954 | 662 | 
 | 2023-01-27 | 1954 | 661 | 
 | 2023-01-26 | 1954 | 659 | 
 | 2023-01-25 | 1953 | 658 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1918 | 650 | 
 | 2022-12-31 | 1918 | 650 | 
 | 2022-12-30 | 1918 | 650 | 
-| 2022-12-29 | 1917 | 650 | 
 

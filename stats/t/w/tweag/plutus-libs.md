@@ -1,10 +1,10 @@
 # tweag/plutus-libs - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/tweag/plutus-libs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 31 | 11 | 
 | 2023-01-27 | 30 | 11 | 
 | 2023-01-26 | 29 | 11 | 
 | 2023-01-25 | 29 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 25 | 10 | 
 | 2022-12-31 | 25 | 10 | 
 | 2022-12-30 | 25 | 10 | 
-| 2022-12-29 | 25 | 10 | 
 

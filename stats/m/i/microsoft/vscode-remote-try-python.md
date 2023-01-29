@@ -1,10 +1,10 @@
 # microsoft/vscode-remote-try-python - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 453
+☋ Forks: 456
 
-★ Stars: 494
+★ Stars: 495
 
 [Open repository](https://github.com/microsoft/vscode-remote-try-python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 495 | 456 | 
 | 2023-01-27 | 494 | 453 | 
 | 2023-01-26 | 494 | 452 | 
 | 2023-01-25 | 494 | 447 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 470 | 431 | 
 | 2022-12-31 | 470 | 430 | 
 | 2022-12-30 | 470 | 430 | 
-| 2022-12-29 | 470 | 430 | 
 

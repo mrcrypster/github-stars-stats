@@ -1,10 +1,10 @@
 # questdb/questdb - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 625
 
-★ Stars: 10028
+★ Stars: 10030
 
 [Open repository](https://github.com/questdb/questdb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 10030 | 625 | 
 | 2023-01-27 | 10028 | 625 | 
 | 2023-01-26 | 10025 | 624 | 
 | 2023-01-25 | 10022 | 624 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 9917 | 615 | 
 | 2022-12-31 | 9915 | 615 | 
 | 2022-12-30 | 9913 | 615 | 
-| 2022-12-29 | 9906 | 614 | 
 

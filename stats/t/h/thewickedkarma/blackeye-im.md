@@ -1,10 +1,10 @@
 # thewickedkarma/blackeye-im - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 219
+☋ Forks: 220
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/thewickedkarma/blackeye-im)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 400 | 220 | 
 | 2023-01-27 | 399 | 219 | 
 | 2023-01-26 | 399 | 218 | 
 | 2023-01-25 | 398 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 394 | 213 | 
 | 2022-12-31 | 394 | 213 | 
 | 2022-12-30 | 394 | 213 | 
-| 2022-12-29 | 394 | 213 | 
 

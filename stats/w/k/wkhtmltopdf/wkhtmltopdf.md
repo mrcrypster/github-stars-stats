@@ -1,6 +1,6 @@
 # wkhtmltopdf/wkhtmltopdf - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1660
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 12991 | 1660 | 
 | 2023-01-27 | 12991 | 1660 | 
 | 2023-01-26 | 12990 | 1660 | 
 | 2023-01-25 | 12990 | 1661 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 12953 | 1655 | 
 | 2022-12-31 | 12954 | 1655 | 
 | 2022-12-30 | 12953 | 1655 | 
-| 2022-12-29 | 12943 | 1655 | 
 

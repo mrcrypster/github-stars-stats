@@ -1,6 +1,6 @@
 # ducminh-phan/reformat-gherkin - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 18 | 12 | 
 | 2023-01-27 | 18 | 12 | 
 | 2023-01-26 | 18 | 12 | 
 | 2023-01-25 | 18 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 17 | 12 | 
 | 2022-12-31 | 17 | 12 | 
 | 2022-12-30 | 17 | 12 | 
-| 2022-12-29 | 17 | 12 | 
 

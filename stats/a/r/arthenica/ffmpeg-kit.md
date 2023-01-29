@@ -1,10 +1,10 @@
 # arthenica/ffmpeg-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 311
 
-★ Stars: 2260
+★ Stars: 2262
 
 [Open repository](https://github.com/arthenica/ffmpeg-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2262 | 311 | 
 | 2023-01-27 | 2260 | 311 | 
 | 2023-01-26 | 2258 | 311 | 
 | 2023-01-25 | 2256 | 311 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2189 | 307 | 
 | 2022-12-31 | 2189 | 307 | 
 | 2022-12-30 | 2188 | 307 | 
-| 2022-12-29 | 2186 | 307 | 
 

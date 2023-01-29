@@ -1,6 +1,6 @@
 # HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 199 | 38 | 
 | 2023-01-28 | 199 | 38 | 
 | 2023-01-27 | 199 | 38 | 
 | 2023-01-25 | 199 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 195 | 38 | 
 | 2023-01-01 | 195 | 38 | 
 | 2022-12-31 | 195 | 38 | 
-| 2022-12-29 | 193 | 38 | 
 

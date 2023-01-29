@@ -1,8 +1,8 @@
 # electronicarts/CnC_Remastered_Collection - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 4320
+☋ Forks: 4321
 
 ★ Stars: 16423
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 16423 | 4321 | 
 | 2023-01-27 | 16423 | 4320 | 
 | 2023-01-26 | 16424 | 4320 | 
 | 2023-01-25 | 16422 | 4320 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 16394 | 4321 | 
 | 2022-12-31 | 16394 | 4321 | 
 | 2022-12-30 | 16394 | 4321 | 
-| 2022-12-29 | 16392 | 4322 | 
 

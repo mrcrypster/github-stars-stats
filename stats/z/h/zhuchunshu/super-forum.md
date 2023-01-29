@@ -1,10 +1,10 @@
 # zhuchunshu/super-forum - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 24
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/zhuchunshu/super-forum)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 116 | 24 | 
 | 2023-01-27 | 115 | 24 | 
 | 2023-01-26 | 114 | 24 | 
 | 2023-01-24 | 113 | 24 | 

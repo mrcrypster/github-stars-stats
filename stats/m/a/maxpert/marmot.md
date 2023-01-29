@@ -1,10 +1,10 @@
 # maxpert/marmot - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 24
 
-★ Stars: 723
+★ Stars: 725
 
 [Open repository](https://github.com/maxpert/marmot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 725 | 24 | 
 | 2023-01-27 | 723 | 24 | 
 | 2023-01-26 | 722 | 24 | 
 | 2023-01-25 | 720 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 694 | 23 | 
 | 2022-12-31 | 692 | 22 | 
 | 2022-12-30 | 690 | 22 | 
-| 2022-12-29 | 684 | 22 | 
 

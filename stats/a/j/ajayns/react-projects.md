@@ -1,10 +1,10 @@
 # ajayns/react-projects - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 584
 
-★ Stars: 1299
+★ Stars: 1302
 
 [Open repository](https://github.com/ajayns/react-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1302 | 584 | 
 | 2023-01-27 | 1299 | 584 | 
 | 2023-01-26 | 1297 | 584 | 
 | 2023-01-25 | 1294 | 583 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1257 | 578 | 
 | 2022-12-31 | 1257 | 576 | 
 | 2022-12-30 | 1257 | 576 | 
-| 2022-12-29 | 1256 | 576 | 
 

@@ -1,6 +1,6 @@
 # jorgecarleitao/arrow2 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 747 | 163 | 
 | 2023-01-27 | 747 | 163 | 
 | 2023-01-26 | 746 | 162 | 
 | 2023-01-25 | 745 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 708 | 156 | 
 | 2022-12-31 | 708 | 156 | 
 | 2022-12-30 | 708 | 156 | 
-| 2022-12-29 | 707 | 155 | 
 

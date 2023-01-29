@@ -1,8 +1,8 @@
 # codestates-seb/fe-dom-practice - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 226
+☋ Forks: 225
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | - | 225 | 
 | 2023-01-27 | - | 226 | 
 | 2023-01-26 | - | 226 | 
 | 2023-01-25 | - | 226 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | - | 175 | 
 | 2023-01-01 | - | 175 | 
 | 2022-12-31 | - | 175 | 
-| 2022-12-30 | - | 175 | 
 

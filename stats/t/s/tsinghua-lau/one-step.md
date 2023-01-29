@@ -1,10 +1,10 @@
 # tsinghua-lau/one-step - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 23
 
 [Open repository](https://github.com/tsinghua-lau/one-step)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 23 | 2 | 
 | 2023-01-27 | 20 | 1 | 
 | 2023-01-26 | 20 | 1 | 
 | 2023-01-25 | 19 | - | 

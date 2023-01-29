@@ -1,6 +1,6 @@
 # AllStarCodeOrg/week3.day1.userInput - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 316
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | - | 316 | 
 | 2023-01-27 | - | 316 | 
 | 2023-01-26 | - | 316 | 
 | 2023-01-25 | - | 316 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | - | 317 | 
 | 2022-12-31 | - | 317 | 
 | 2022-12-30 | - | 317 | 
-| 2022-12-29 | - | 317 | 
 

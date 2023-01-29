@@ -1,10 +1,10 @@
 # cisco/ChezScheme - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 964
 
-★ Stars: 6533
+★ Stars: 6532
 
 [Open repository](https://github.com/cisco/ChezScheme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 6532 | 964 | 
 | 2023-01-27 | 6533 | 964 | 
 | 2023-01-26 | 6531 | 964 | 
 | 2023-01-25 | 6532 | 963 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 6523 | 964 | 
 | 2022-12-31 | 6523 | 965 | 
 | 2022-12-30 | 6523 | 965 | 
-| 2022-12-29 | 6524 | 965 | 
 

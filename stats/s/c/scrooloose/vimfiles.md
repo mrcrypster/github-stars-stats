@@ -1,6 +1,6 @@
 # scrooloose/vimfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 484
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 775 | 484 | 
 | 2023-01-27 | 775 | 484 | 
 | 2023-01-26 | 774 | 484 | 
 | 2023-01-25 | 774 | 484 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 775 | 485 | 
 | 2022-12-31 | 775 | 485 | 
 | 2022-12-30 | 775 | 485 | 
-| 2022-12-29 | 775 | 485 | 
 

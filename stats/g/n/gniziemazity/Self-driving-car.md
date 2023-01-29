@@ -1,10 +1,10 @@
 # gniziemazity/Self-driving-car - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 228
+☋ Forks: 229
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/gniziemazity/Self-driving-car)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 433 | 229 | 
 | 2023-01-27 | 432 | 228 | 
 | 2023-01-26 | 432 | 228 | 
 | 2023-01-24 | 432 | 228 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 422 | 227 | 
 | 2022-12-31 | 421 | 227 | 
 | 2022-12-30 | 420 | 227 | 
-| 2022-12-29 | 420 | 227 | 
 

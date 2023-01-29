@@ -1,6 +1,6 @@
 # comigor/artemis - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 484 | 98 | 
 | 2023-01-27 | 484 | 98 | 
 | 2023-01-26 | 484 | 98 | 
 | 2023-01-25 | 483 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 481 | 96 | 
 | 2022-12-31 | 481 | 96 | 
 | 2022-12-30 | 481 | 96 | 
-| 2022-12-29 | 481 | 96 | 
 

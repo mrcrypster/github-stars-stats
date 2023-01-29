@@ -1,10 +1,10 @@
 # restsharp/RestSharp - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 2271
+☋ Forks: 2272
 
-★ Stars: 8864
+★ Stars: 8865
 
 [Open repository](https://github.com/restsharp/RestSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8865 | 2272 | 
 | 2023-01-27 | 8864 | 2271 | 
 | 2023-01-26 | 8864 | 2271 | 
 | 2023-01-25 | 8862 | 2271 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 8831 | 2272 | 
 | 2022-12-31 | 8831 | 2272 | 
 | 2022-12-30 | 8831 | 2271 | 
-| 2022-12-29 | 8829 | 2270 | 
 

@@ -1,6 +1,6 @@
 # qt/qtquicktimeline - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 19 | 16 | 
 | 2023-01-27 | 19 | 16 | 
 | 2023-01-26 | 19 | 16 | 
 | 2023-01-24 | 19 | 16 | 

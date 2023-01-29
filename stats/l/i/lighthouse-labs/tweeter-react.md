@@ -1,6 +1,6 @@
 # lighthouse-labs/tweeter-react - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 4 | 186 | 
 | 2023-01-27 | 4 | 186 | 
 | 2023-01-26 | 4 | 186 | 
 | 2023-01-25 | 4 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 4 | 175 | 
 | 2023-01-01 | 4 | 175 | 
 | 2022-12-31 | 4 | 175 | 
-| 2022-12-30 | 4 | 175 | 
 

@@ -1,8 +1,8 @@
 # FelixKratz/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 262
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 262 | 40 | 
 | 2023-01-27 | 262 | 39 | 
 | 2023-01-26 | 260 | 39 | 
 | 2023-01-25 | 259 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 227 | 33 | 
 | 2022-12-31 | 225 | 33 | 
 | 2022-12-30 | 225 | 33 | 
-| 2022-12-29 | 222 | 31 | 
 

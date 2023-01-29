@@ -1,10 +1,10 @@
 # code-423n4/2023-01-timeswap - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 15
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/code-423n4/2023-01-timeswap)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 9 | 15 | 
+| 2023-01-28 | 9 | 15 | 
 | 2023-01-27 | 8 | 15 | 
 | 2023-01-26 | 8 | 14 | 
 | 2023-01-25 | 8 | 13 | 

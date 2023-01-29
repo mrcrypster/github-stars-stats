@@ -1,10 +1,10 @@
 # TideSec/BypassAntiVirus - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1038
 
-★ Stars: 3310
+★ Stars: 3311
 
 [Open repository](https://github.com/TideSec/BypassAntiVirus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 3311 | 1038 | 
 | 2023-01-27 | 3310 | 1038 | 
 | 2023-01-26 | 3310 | 1038 | 
 | 2023-01-25 | 3309 | 1038 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 3282 | 1035 | 
 | 2022-12-31 | 3279 | 1035 | 
 | 2022-12-30 | 3279 | 1035 | 
-| 2022-12-29 | 3278 | 1035 | 
 

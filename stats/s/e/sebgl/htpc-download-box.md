@@ -1,10 +1,10 @@
 # sebgl/htpc-download-box - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 287
+☋ Forks: 288
 
-★ Stars: 1504
+★ Stars: 1505
 
 [Open repository](https://github.com/sebgl/htpc-download-box)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1505 | 288 | 
 | 2023-01-27 | 1504 | 287 | 
 | 2023-01-26 | 1503 | 287 | 
 | 2023-01-25 | 1503 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1467 | 284 | 
 | 2022-12-31 | 1466 | 284 | 
 | 2022-12-30 | 1465 | 283 | 
-| 2022-12-29 | 1463 | 283 | 
 

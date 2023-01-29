@@ -1,10 +1,10 @@
 # denistreshchev/Voiles - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/denistreshchev/Voiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 38 | - | 
 | 2023-01-27 | 37 | - | 
 | 2023-01-26 | 37 | - | 
 | 2023-01-25 | 37 | - | 

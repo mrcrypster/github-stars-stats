@@ -1,10 +1,10 @@
 # EmilHvitfeldt/paletteer - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 43
 
-★ Stars: 745
+★ Stars: 746
 
 [Open repository](https://github.com/EmilHvitfeldt/paletteer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 746 | 43 | 
 | 2023-01-27 | 745 | 43 | 
 | 2023-01-26 | 744 | 43 | 
 | 2023-01-25 | 743 | 43 | 

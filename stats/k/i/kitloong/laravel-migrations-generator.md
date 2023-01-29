@@ -1,10 +1,10 @@
 # kitloong/laravel-migrations-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 1485
+★ Stars: 1487
 
 [Open repository](https://github.com/kitloong/laravel-migrations-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1487 | 193 | 
 | 2023-01-27 | 1485 | 192 | 
 | 2023-01-26 | 1485 | 192 | 
 | 2023-01-25 | 1484 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1449 | 185 | 
 | 2022-12-31 | 1447 | 185 | 
 | 2022-12-30 | 1446 | 185 | 
-| 2022-12-29 | 1446 | 185 | 
 

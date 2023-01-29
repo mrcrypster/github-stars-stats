@@ -1,6 +1,6 @@
 # NimbusKit/sockit - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 426 | 50 | 
 | 2023-01-27 | 426 | 50 | 
 | 2023-01-26 | 426 | 50 | 
 | 2023-01-25 | 426 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 427 | 50 | 
 | 2022-12-31 | 427 | 50 | 
 | 2022-12-30 | 427 | 50 | 
-| 2022-12-29 | 427 | 50 | 
 

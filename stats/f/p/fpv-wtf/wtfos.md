@@ -1,10 +1,10 @@
 # fpv-wtf/wtfos - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 7
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/fpv-wtf/wtfos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 166 | 7 | 
 | 2023-01-27 | 165 | 7 | 
 | 2023-01-26 | 164 | 7 | 
 | 2023-01-25 | 164 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 152 | 7 | 
 | 2022-12-31 | 151 | 7 | 
 | 2022-12-30 | 149 | 7 | 
-| 2022-12-29 | 148 | 7 | 
 

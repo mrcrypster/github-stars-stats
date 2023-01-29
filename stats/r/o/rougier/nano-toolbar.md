@@ -1,10 +1,10 @@
 # rougier/nano-toolbar - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/rougier/nano-toolbar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 25 | 1 | 
 | 2023-01-27 | 24 | 1 | 
 | 2023-01-26 | 24 | 1 | 
 | 2023-01-25 | 24 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 24 | 1 | 
 | 2022-12-31 | 24 | 1 | 
 | 2022-12-30 | 23 | 1 | 
-| 2022-12-29 | 23 | 1 | 
 

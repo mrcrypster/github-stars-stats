@@ -1,10 +1,10 @@
 # kojino/120-Data-Science-Interview-Questions - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1238
 
-★ Stars: 3225
+★ Stars: 3226
 
 [Open repository](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 3226 | 1238 | 
 | 2023-01-27 | 3225 | 1238 | 
 | 2023-01-26 | 3223 | 1238 | 
 | 2023-01-25 | 3222 | 1238 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 3202 | 1235 | 
 | 2022-12-31 | 3201 | 1235 | 
 | 2022-12-30 | 3197 | 1235 | 
-| 2022-12-29 | 3195 | 1234 | 
 

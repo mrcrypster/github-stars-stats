@@ -1,6 +1,6 @@
 # whamtet/redlobster - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 49 | 5 | 
 | 2023-01-27 | 49 | 5 | 
 | 2023-01-26 | 49 | 5 | 
 | 2023-01-24 | 49 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 49 | 5 | 
 | 2023-01-01 | 49 | 5 | 
 | 2022-12-30 | 49 | 5 | 
-| 2022-12-29 | 49 | 5 | 
 

@@ -1,10 +1,10 @@
 # NorfairKing/really-safe-money - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/NorfairKing/really-safe-money)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 35 | 1 | 
 | 2023-01-27 | 34 | 1 | 
 | 2023-01-26 | 34 | 1 | 
 | 2023-01-25 | 34 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 33 | 1 | 
 | 2022-12-31 | 33 | 1 | 
 | 2022-12-30 | 32 | 1 | 
-| 2022-12-29 | 32 | 1 | 
 

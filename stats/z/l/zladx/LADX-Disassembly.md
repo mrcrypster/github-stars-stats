@@ -1,10 +1,10 @@
 # zladx/LADX-Disassembly - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 57
 
-★ Stars: 710
+★ Stars: 711
 
 [Open repository](https://github.com/zladx/LADX-Disassembly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 711 | 57 | 
 | 2023-01-27 | 710 | 57 | 
 | 2023-01-26 | 710 | 57 | 
 | 2023-01-25 | 710 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 363 | 52 | 
 | 2022-12-31 | 363 | 52 | 
 | 2022-12-30 | 363 | 52 | 
-| 2022-12-29 | 363 | 52 | 
 

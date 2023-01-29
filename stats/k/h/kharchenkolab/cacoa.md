@@ -1,6 +1,6 @@
 # kharchenkolab/cacoa - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 38 | 3 | 
 | 2023-01-27 | 38 | 3 | 
 | 2023-01-26 | 38 | 3 | 
 | 2023-01-24 | 38 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 37 | 4 | 
 | 2022-12-31 | 37 | 4 | 
 | 2022-12-30 | 37 | 4 | 
-| 2022-12-29 | 37 | 4 | 
 

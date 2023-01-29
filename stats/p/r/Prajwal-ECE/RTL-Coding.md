@@ -1,10 +1,10 @@
 # Prajwal-ECE/RTL-Coding - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Prajwal-ECE/RTL-Coding)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 12 | 2 | 
 | 2023-01-27 | 11 | 2 | 
 | 2023-01-26 | 11 | 2 | 
 | 2023-01-25 | 11 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 10 | 1 | 
 | 2022-12-31 | 10 | 1 | 
 | 2022-12-30 | 10 | 1 | 
-| 2022-12-29 | 10 | 1 | 
 

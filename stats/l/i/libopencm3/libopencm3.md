@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 950
 
-★ Stars: 2560
+★ Stars: 2561
 
 [Open repository](https://github.com/libopencm3/libopencm3)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 2560 | 950 | 
+| 2023-01-28 | 2561 | 950 | 
 | 2023-01-27 | 2560 | 950 | 
 | 2023-01-26 | 2560 | 950 | 
 | 2023-01-25 | 2559 | 949 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-01 | 2542 | 943 | 
 | 2022-12-31 | 2542 | 943 | 
 | 2022-12-30 | 2540 | 943 | 
-| 2022-12-29 | 2539 | 944 | 
 

@@ -1,6 +1,6 @@
 # zehuamama/tinyrpc - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 742 | 113 | 
 | 2023-01-27 | 742 | 113 | 
 | 2023-01-26 | 740 | 112 | 
 | 2023-01-25 | 739 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 722 | 109 | 
 | 2022-12-31 | 721 | 109 | 
 | 2022-12-30 | 720 | 109 | 
-| 2022-12-29 | 718 | 109 | 
 

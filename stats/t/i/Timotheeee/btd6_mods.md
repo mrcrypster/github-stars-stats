@@ -1,6 +1,6 @@
 # Timotheeee/btd6_mods - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 449
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 78 | 449 | 
 | 2023-01-27 | 78 | 449 | 
 | 2023-01-26 | 78 | 449 | 
 | 2023-01-25 | 78 | 449 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 76 | 433 | 
 | 2022-12-31 | 75 | 431 | 
 | 2022-12-30 | 75 | 431 | 
-| 2022-12-29 | 74 | 427 | 
 

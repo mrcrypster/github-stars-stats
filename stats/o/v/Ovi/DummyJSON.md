@@ -1,10 +1,10 @@
 # Ovi/DummyJSON - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 60
 
-★ Stars: 381
+★ Stars: 387
 
 [Open repository](https://github.com/Ovi/DummyJSON)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 387 | 60 | 
 | 2023-01-27 | 381 | 60 | 
 | 2023-01-26 | 378 | 60 | 
 | 2023-01-25 | 368 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 308 | 53 | 
 | 2022-12-31 | 306 | 53 | 
 | 2022-12-30 | 305 | 53 | 
-| 2022-12-29 | 304 | 53 | 
 

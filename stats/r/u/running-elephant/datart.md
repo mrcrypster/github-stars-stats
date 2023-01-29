@@ -1,6 +1,6 @@
 # running-elephant/datart - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1116 | 387 | 
 | 2023-01-27 | 1116 | 387 | 
 | 2023-01-26 | 1116 | 387 | 
 | 2023-01-25 | 1116 | 387 | 

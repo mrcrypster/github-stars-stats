@@ -1,10 +1,10 @@
 # CTSRD-CHERI/sail-cheri-riscv - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 12
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/CTSRD-CHERI/sail-cheri-riscv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 39 | 12 | 
 | 2023-01-27 | 38 | 12 | 
 | 2023-01-26 | 38 | 12 | 
 | 2023-01-25 | 38 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 38 | 12 | 
 | 2022-12-31 | 38 | 12 | 
 | 2022-12-30 | 38 | 12 | 
-| 2022-12-29 | 38 | 12 | 
 

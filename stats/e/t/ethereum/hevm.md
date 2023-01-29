@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/ethereum/hevm)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 103 | 6 | 
+| 2023-01-28 | 104 | 6 | 
 | 2023-01-27 | 103 | 6 | 
 | 2023-01-26 | 100 | 6 | 
 | 2023-01-25 | 97 | 6 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-01 | 61 | 3 | 
 | 2022-12-31 | 60 | 3 | 
 | 2022-12-30 | 60 | 3 | 
-| 2022-12-29 | 60 | 3 | 
 

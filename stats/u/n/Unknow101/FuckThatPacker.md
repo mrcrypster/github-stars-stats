@@ -1,10 +1,10 @@
 # Unknow101/FuckThatPacker - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 88
 
-★ Stars: 570
+★ Stars: 571
 
 [Open repository](https://github.com/Unknow101/FuckThatPacker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 571 | 88 | 
 | 2023-01-27 | 570 | 88 | 
 | 2023-01-25 | 570 | 88 | 
 | 2023-01-24 | 570 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 565 | 87 | 
 | 2023-01-01 | 565 | 87 | 
 | 2022-12-31 | 564 | 86 | 
-| 2022-12-30 | 563 | 86 | 
 

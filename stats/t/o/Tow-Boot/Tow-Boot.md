@@ -1,6 +1,6 @@
 # Tow-Boot/Tow-Boot - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 321 | 67 | 
 | 2023-01-27 | 321 | 67 | 
 | 2023-01-26 | 318 | 67 | 
 | 2023-01-25 | 317 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 308 | 60 | 
 | 2022-12-31 | 308 | 60 | 
 | 2022-12-30 | 306 | 59 | 
-| 2022-12-29 | 305 | 58 | 
 

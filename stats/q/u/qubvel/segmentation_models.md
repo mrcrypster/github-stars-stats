@@ -1,10 +1,10 @@
 # qubvel/segmentation_models - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 960
+☋ Forks: 959
 
-★ Stars: 4185
+★ Stars: 4187
 
 [Open repository](https://github.com/qubvel/segmentation_models)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 4187 | 959 | 
 | 2023-01-27 | 4185 | 960 | 
 | 2023-01-26 | 4182 | 960 | 
 | 2023-01-24 | 4180 | 960 | 

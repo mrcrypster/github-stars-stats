@@ -1,6 +1,6 @@
 # ochococo/Design-Patterns-In-Swift - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1649
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 13940 | 1649 | 
 | 2023-01-27 | 13940 | 1649 | 
 | 2023-01-26 | 13939 | 1649 | 
 | 2023-01-25 | 13937 | 1648 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 13894 | 1645 | 
 | 2022-12-31 | 13890 | 1645 | 
 | 2022-12-30 | 13889 | 1645 | 
-| 2022-12-29 | 13887 | 1645 | 
 

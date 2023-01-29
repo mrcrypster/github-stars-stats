@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 28
 
-☋ Forks: 90
+☋ Forks: 95
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/tutorrdeckk08/ngrok-rdp-1)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | - | 90 | 
+| 2023-01-28 | 1 | 95 | 
 | 2023-01-27 | - | 90 | 
 | 2023-01-26 | - | 75 | 
 | 2023-01-25 | - | 67 | 

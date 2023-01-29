@@ -1,6 +1,6 @@
 # cloudhan/jax-windows-builder - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 219 | 13 | 
 | 2023-01-27 | 219 | 13 | 
 | 2023-01-26 | 219 | 13 | 
 | 2023-01-25 | 218 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 208 | 13 | 
 | 2022-12-31 | 207 | 12 | 
 | 2022-12-30 | 206 | 12 | 
-| 2022-12-29 | 206 | 12 | 
 

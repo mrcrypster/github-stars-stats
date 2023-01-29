@@ -1,8 +1,8 @@
 # alanopaixao/word_cup_cards - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1 | 9 | 
 | 2023-01-27 | 1 | 8 | 
 | 2023-01-26 | 1 | 8 | 
 | 2023-01-25 | 1 | 8 | 

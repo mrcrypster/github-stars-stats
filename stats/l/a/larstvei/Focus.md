@@ -1,10 +1,10 @@
 # larstvei/Focus - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 12
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/larstvei/Focus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 393 | 12 | 
 | 2023-01-27 | 392 | 12 | 
 | 2023-01-26 | 392 | 12 | 
 | 2023-01-25 | 392 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 391 | 12 | 
 | 2022-12-31 | 391 | 12 | 
 | 2022-12-30 | 391 | 12 | 
-| 2022-12-29 | 391 | 12 | 
 

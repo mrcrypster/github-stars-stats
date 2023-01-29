@@ -1,6 +1,6 @@
 # DISREL/Ring0VBA - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 45 | 9 | 
 | 2023-01-27 | 45 | 9 | 
 | 2023-01-26 | 45 | 9 | 
 | 2023-01-24 | 45 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 46 | 9 | 
 | 2023-01-01 | 46 | 9 | 
 | 2022-12-31 | 46 | 9 | 
-| 2022-12-30 | 46 | 9 | 
 

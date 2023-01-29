@@ -1,10 +1,10 @@
 # sd-webui/stable-diffusion-webui - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 722
+☋ Forks: 723
 
-★ Stars: 6211
+★ Stars: 6218
 
 [Open repository](https://github.com/sd-webui/stable-diffusion-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 6218 | 723 | 
 | 2023-01-27 | 6211 | 722 | 
 | 2023-01-26 | 6205 | 720 | 
 | 2023-01-25 | 6203 | 719 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 6088 | 708 | 
 | 2022-12-31 | 6082 | 708 | 
 | 2022-12-30 | 6080 | 708 | 
-| 2022-12-29 | 6078 | 708 | 
 

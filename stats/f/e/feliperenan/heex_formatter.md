@@ -1,10 +1,10 @@
 # feliperenan/heex_formatter - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 8
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/feliperenan/heex_formatter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 195 | 8 | 
 | 2023-01-27 | 194 | 8 | 
 | 2023-01-26 | 194 | 8 | 
 | 2023-01-25 | 194 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 194 | 8 | 
 | 2022-12-31 | 194 | 8 | 
 | 2022-12-30 | 194 | 8 | 
-| 2022-12-29 | 194 | 8 | 
 

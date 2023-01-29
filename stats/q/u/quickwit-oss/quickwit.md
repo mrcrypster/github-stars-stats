@@ -1,10 +1,10 @@
 # quickwit-oss/quickwit - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 153
 
-★ Stars: 2955
+★ Stars: 2959
 
 [Open repository](https://github.com/quickwit-oss/quickwit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2959 | 153 | 
 | 2023-01-27 | 2955 | 153 | 
 | 2023-01-26 | 2948 | 153 | 
 | 2023-01-25 | 2941 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2857 | 145 | 
 | 2022-12-31 | 2858 | 145 | 
 | 2022-12-30 | 2856 | 145 | 
-| 2022-12-29 | 2853 | 145 | 
 

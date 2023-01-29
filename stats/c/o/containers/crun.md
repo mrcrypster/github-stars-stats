@@ -1,10 +1,10 @@
 # containers/crun - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 224
 
-★ Stars: 2015
+★ Stars: 2018
 
 [Open repository](https://github.com/containers/crun)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2018 | 224 | 
 | 2023-01-27 | 2015 | 224 | 
 | 2023-01-26 | 2013 | 224 | 
 | 2023-01-25 | 2009 | 224 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1968 | 218 | 
 | 2022-12-31 | 1966 | 218 | 
 | 2022-12-30 | 1967 | 218 | 
-| 2022-12-29 | 1965 | 218 | 
 

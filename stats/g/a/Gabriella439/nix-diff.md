@@ -1,6 +1,6 @@
 # Gabriella439/nix-diff - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 212 | 14 | 
 | 2023-01-27 | 212 | 14 | 
 | 2023-01-26 | 212 | 14 | 
 | 2023-01-24 | 212 | 14 | 

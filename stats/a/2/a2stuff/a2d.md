@@ -1,6 +1,6 @@
 # a2stuff/a2d - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 210 | 15 | 
 | 2023-01-27 | 210 | 15 | 
 | 2023-01-26 | 210 | 15 | 
 | 2023-01-25 | 210 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 205 | 14 | 
 | 2022-12-31 | 204 | 14 | 
 | 2022-12-30 | 203 | 14 | 
-| 2022-12-29 | 203 | 14 | 
 

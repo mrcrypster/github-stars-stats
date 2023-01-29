@@ -1,6 +1,6 @@
 # tentin-quarantino/wykop-the-best-style - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 41 | 12 | 
 | 2023-01-27 | 41 | 12 | 
 | 2023-01-26 | 41 | 12 | 
 | 2023-01-25 | 41 | 12 | 

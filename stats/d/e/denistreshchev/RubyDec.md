@@ -1,10 +1,10 @@
 # denistreshchev/RubyDec - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/denistreshchev/RubyDec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 40 | - | 
 | 2023-01-27 | 39 | - | 
 | 2023-01-26 | 39 | - | 
 | 2023-01-25 | 39 | - | 

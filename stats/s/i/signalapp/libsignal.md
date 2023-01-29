@@ -1,10 +1,10 @@
 # signalapp/libsignal - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 214
+☋ Forks: 213
 
-★ Stars: 1718
+★ Stars: 1722
 
 [Open repository](https://github.com/signalapp/libsignal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1722 | 213 | 
 | 2023-01-27 | 1718 | 214 | 
 | 2023-01-26 | 1717 | 214 | 
 | 2023-01-25 | 1714 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1677 | 210 | 
 | 2022-12-31 | 1676 | 210 | 
 | 2022-12-30 | 1676 | 211 | 
-| 2022-12-29 | 1672 | 211 | 
 

@@ -1,10 +1,10 @@
 # Shopify/gh-action-hadolint - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Shopify/gh-action-hadolint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 3 | 3 | 
 | 2023-01-27 | 2 | 1 | 
 | 2023-01-26 | 2 | 1 | 
 | 2023-01-25 | 2 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2 | 1 | 
 | 2022-12-31 | 2 | 1 | 
 | 2022-12-30 | 2 | 1 | 
-| 2022-12-29 | 2 | 1 | 
 

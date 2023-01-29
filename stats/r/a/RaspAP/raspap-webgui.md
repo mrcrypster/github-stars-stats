@@ -1,10 +1,10 @@
 # RaspAP/raspap-webgui - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 750
 
-★ Stars: 3875
+★ Stars: 3876
 
 [Open repository](https://github.com/RaspAP/raspap-webgui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 3876 | 750 | 
 | 2023-01-27 | 3875 | 750 | 
 | 2023-01-26 | 3874 | 749 | 
 | 2023-01-25 | 3873 | 749 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 3849 | 748 | 
 | 2022-12-31 | 3850 | 748 | 
 | 2022-12-30 | 3849 | 748 | 
-| 2022-12-29 | 3848 | 748 | 
 

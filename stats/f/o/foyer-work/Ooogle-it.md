@@ -1,10 +1,10 @@
 # foyer-work/Ooogle-it - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 26
 
-★ Stars: 97
+★ Stars: 104
 
 [Open repository](https://github.com/foyer-work/Ooogle-it)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 104 | 26 | 
+| 2023-01-28 | 104 | 26 | 
 | 2023-01-27 | 97 | 26 | 
 | 2023-01-26 | 95 | 26 | 
 | 2023-01-25 | 89 | 27 | 

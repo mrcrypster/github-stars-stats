@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 33
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/ziglibs/zgl)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 164 | 33 | 
+| 2023-01-28 | 165 | 33 | 
 | 2023-01-27 | 164 | 33 | 
 

@@ -1,8 +1,8 @@
 # adrianhajdin/project_video_chat - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 271
+☋ Forks: 272
 
 ★ Stars: 621
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 621 | 272 | 
 | 2023-01-27 | 621 | 271 | 
 | 2023-01-26 | 622 | 271 | 
 | 2023-01-24 | 621 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 608 | 267 | 
 | 2023-01-01 | 608 | 265 | 
 | 2022-12-31 | 609 | 266 | 
-| 2022-12-29 | 609 | 265 | 
 

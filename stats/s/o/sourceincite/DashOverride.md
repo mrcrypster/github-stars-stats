@@ -1,10 +1,10 @@
 # sourceincite/DashOverride - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/sourceincite/DashOverride)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 44 | 16 | 
 | 2023-01-27 | 43 | 15 | 
 | 2023-01-26 | 43 | 15 | 
 | 2023-01-25 | 43 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 43 | 15 | 
 | 2022-12-31 | 43 | 15 | 
 | 2022-12-30 | 43 | 15 | 
-| 2022-12-29 | 43 | 15 | 
 

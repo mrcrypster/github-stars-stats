@@ -1,6 +1,6 @@
 # 0xToshii/mr-steal-yo-crypto-ctf - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 53 | 4 | 
 | 2023-01-27 | 53 | 4 | 
 | 2023-01-26 | 53 | 4 | 
 | 2023-01-24 | 53 | 4 | 

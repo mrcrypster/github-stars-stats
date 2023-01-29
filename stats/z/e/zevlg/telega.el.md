@@ -1,10 +1,10 @@
 # zevlg/telega.el - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 67
 
-★ Stars: 934
+★ Stars: 935
 
 [Open repository](https://github.com/zevlg/telega.el)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 935 | 67 | 
 | 2023-01-27 | 934 | 67 | 
 | 2023-01-26 | 932 | 67 | 
 | 2023-01-25 | 931 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 922 | 67 | 
 | 2022-12-31 | 922 | 66 | 
 | 2022-12-30 | 920 | 66 | 
-| 2022-12-29 | 921 | 66 | 
 

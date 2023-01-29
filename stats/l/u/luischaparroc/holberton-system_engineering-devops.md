@@ -1,8 +1,8 @@
 # luischaparroc/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 412
+☋ Forks: 416
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 100 | 416 | 
 | 2023-01-27 | 100 | 412 | 
 | 2023-01-26 | 100 | 411 | 
 | 2023-01-25 | 100 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 100 | 417 | 
 | 2022-12-31 | 100 | 417 | 
 | 2022-12-30 | 100 | 417 | 
-| 2022-12-29 | 99 | 417 | 
 

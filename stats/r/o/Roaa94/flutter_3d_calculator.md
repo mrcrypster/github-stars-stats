@@ -1,8 +1,8 @@
 # Roaa94/flutter_3d_calculator - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 142
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 142 | 9 | 
 | 2023-01-27 | 142 | 8 | 
 | 2023-01-26 | 142 | 8 | 
 | 2023-01-25 | 142 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 141 | 8 | 
 | 2022-12-31 | 141 | 8 | 
 | 2022-12-30 | 140 | 8 | 
-| 2022-12-29 | 140 | 8 | 
 

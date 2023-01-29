@@ -1,10 +1,10 @@
 # HarukaMa/aleo-prover - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 92
+☋ Forks: 94
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/HarukaMa/aleo-prover)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 96 | 94 | 
 | 2023-01-27 | 94 | 92 | 
 | 2023-01-26 | 94 | 92 | 
 | 2023-01-24 | 94 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 91 | 88 | 
 | 2023-01-01 | 91 | 88 | 
 | 2022-12-31 | 91 | 88 | 
-| 2022-12-30 | 91 | 88 | 
 

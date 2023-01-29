@@ -1,10 +1,10 @@
 # scicloj/clay - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/scicloj/clay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 50 | 4 | 
 | 2023-01-27 | 49 | 4 | 
 | 2023-01-26 | 49 | 4 | 
 | 2023-01-25 | 49 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 49 | 4 | 
 | 2022-12-31 | 48 | 4 | 
 | 2022-12-30 | 48 | 4 | 
-| 2022-12-29 | 48 | 4 | 
 

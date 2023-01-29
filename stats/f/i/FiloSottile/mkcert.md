@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 2002
 
-★ Stars: 39347
+★ Stars: 39352
 
 [Open repository](https://github.com/FiloSottile/mkcert)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 39347 | 2002 | 
+| 2023-01-28 | 39352 | 2002 | 
 | 2023-01-27 | 39348 | 2002 | 
 | 2023-01-26 | 39314 | 2001 | 
 | 2023-01-25 | 39309 | 1999 | 

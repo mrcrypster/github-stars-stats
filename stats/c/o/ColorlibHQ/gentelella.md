@@ -1,10 +1,10 @@
 # ColorlibHQ/gentelella - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 6832
 
-★ Stars: 20689
+★ Stars: 20690
 
 [Open repository](https://github.com/ColorlibHQ/gentelella)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 20690 | 6832 | 
 | 2023-01-27 | 20689 | 6832 | 
 | 2023-01-26 | 20689 | 6832 | 
 | 2023-01-25 | 20689 | 6832 | 

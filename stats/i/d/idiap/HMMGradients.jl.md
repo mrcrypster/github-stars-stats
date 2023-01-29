@@ -1,10 +1,10 @@
 # idiap/HMMGradients.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/idiap/HMMGradients.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 20 | - | 
 | 2023-01-27 | 19 | - | 
 | 2023-01-26 | 19 | - | 
 | 2023-01-25 | 19 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 17 | - | 
 | 2022-12-31 | 17 | - | 
 | 2022-12-30 | 17 | - | 
-| 2022-12-29 | 17 | - | 
 

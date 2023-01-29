@@ -1,10 +1,10 @@
 # kelleyma49/PSFzf - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 25
 
-★ Stars: 485
+★ Stars: 486
 
 [Open repository](https://github.com/kelleyma49/PSFzf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 486 | 25 | 
 | 2023-01-27 | 485 | 25 | 
 | 2023-01-26 | 485 | 25 | 
 | 2023-01-25 | 485 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 474 | 25 | 
 | 2022-12-31 | 474 | 25 | 
 | 2022-12-30 | 474 | 25 | 
-| 2022-12-29 | 473 | 25 | 
 

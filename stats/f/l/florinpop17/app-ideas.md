@@ -1,10 +1,10 @@
 # florinpop17/app-ideas - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 8157
+☋ Forks: 8161
 
-★ Stars: 61885
+★ Stars: 61914
 
 [Open repository](https://github.com/florinpop17/app-ideas)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 61914 | 8161 | 
 | 2023-01-27 | 61885 | 8157 | 
 | 2023-01-26 | 61854 | 8156 | 
 | 2023-01-25 | 61841 | 8153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 61148 | 8096 | 
 | 2022-12-31 | 61126 | 8093 | 
 | 2022-12-30 | 61100 | 8090 | 
-| 2022-12-29 | 61068 | 8084 | 
 

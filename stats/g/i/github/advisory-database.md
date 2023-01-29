@@ -1,8 +1,8 @@
 # github/advisory-database - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 159
+☋ Forks: 160
 
 ★ Stars: 1287
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1287 | 160 | 
 | 2023-01-27 | 1287 | 159 | 
 | 2023-01-25 | 1287 | 159 | 
 | 2023-01-24 | 1286 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1254 | 151 | 
 | 2022-12-31 | 1252 | 151 | 
 | 2022-12-30 | 1252 | 151 | 
-| 2022-12-29 | 1252 | 151 | 
 

@@ -1,6 +1,6 @@
 # dimitri/el-get - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 469
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1607 | 469 | 
 | 2023-01-27 | 1607 | 469 | 
 | 2023-01-26 | 1607 | 469 | 
 | 2023-01-25 | 1607 | 469 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1606 | 468 | 
 | 2022-12-31 | 1605 | 468 | 
 | 2022-12-30 | 1605 | 468 | 
-| 2022-12-29 | 1605 | 468 | 
 

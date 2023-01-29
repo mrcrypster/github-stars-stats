@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 20
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/alanleedev/KoreaSecurityApps)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 235 | 20 | 
+| 2023-01-28 | 236 | 20 | 
 | 2023-01-27 | 235 | 20 | 
 | 2023-01-26 | 227 | 19 | 
 

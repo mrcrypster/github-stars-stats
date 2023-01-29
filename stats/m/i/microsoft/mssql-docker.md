@@ -1,10 +1,10 @@
 # microsoft/mssql-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 694
 
-★ Stars: 1448
+★ Stars: 1449
 
 [Open repository](https://github.com/microsoft/mssql-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1449 | 694 | 
 | 2023-01-27 | 1448 | 694 | 
 | 2023-01-26 | 1448 | 693 | 
 | 2023-01-25 | 1447 | 693 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1437 | 688 | 
 | 2022-12-31 | 1437 | 688 | 
 | 2022-12-30 | 1435 | 688 | 
-| 2022-12-29 | 1435 | 688 | 
 

@@ -1,6 +1,6 @@
 # emtrax-ltd/Cura2MoonrakerPlugin - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 218 | 21 | 
 | 2023-01-27 | 218 | 21 | 
 | 2023-01-26 | 218 | 21 | 
 | 2023-01-25 | 218 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 213 | 21 | 
 | 2022-12-31 | 214 | 21 | 
 | 2022-12-30 | 214 | 21 | 
-| 2022-12-29 | 214 | 21 | 
 

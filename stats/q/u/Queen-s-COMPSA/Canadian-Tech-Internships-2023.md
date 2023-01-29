@@ -1,10 +1,10 @@
 # Queen-s-COMPSA/Canadian-Tech-Internships-2023 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 19
 
-★ Stars: 307
+★ Stars: 310
 
 [Open repository](https://github.com/Queen-s-COMPSA/Canadian-Tech-Internships-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 310 | 19 | 
 | 2023-01-27 | 307 | 19 | 
 | 2023-01-26 | 305 | 19 | 
 | 2023-01-25 | 304 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 223 | 14 | 
 | 2022-12-31 | 223 | 14 | 
 | 2022-12-30 | 223 | 14 | 
-| 2022-12-29 | 223 | 14 | 
 

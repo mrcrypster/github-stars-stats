@@ -1,6 +1,6 @@
 # kdchambers/music_player - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 11 | - | 
 | 2023-01-27 | 11 | - | 
 | 2023-01-26 | 11 | - | 
 | 2023-01-24 | 11 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 11 | - | 
 | 2023-01-01 | 11 | - | 
 | 2022-12-31 | 11 | - | 
-| 2022-12-30 | 11 | - | 
 

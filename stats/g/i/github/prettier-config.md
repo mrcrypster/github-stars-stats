@@ -1,10 +1,10 @@
 # github/prettier-config - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 14
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/github/prettier-config)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 26 | 14 | 
 | 2023-01-27 | 25 | 14 | 
 | 2023-01-26 | 25 | 14 | 
 | 2023-01-25 | 25 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 23 | 13 | 
 | 2022-12-31 | 23 | 13 | 
 | 2022-12-30 | 23 | 13 | 
-| 2022-12-29 | 23 | 13 | 
 

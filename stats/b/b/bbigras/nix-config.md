@@ -1,6 +1,6 @@
 # bbigras/nix-config - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 42 | 2 | 
 | 2023-01-27 | 42 | 2 | 
 | 2023-01-25 | 42 | 2 | 
 | 2023-01-24 | 42 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 40 | 2 | 
 | 2022-12-31 | 40 | 2 | 
 | 2022-12-30 | 40 | 2 | 
-| 2022-12-29 | 40 | 2 | 
 

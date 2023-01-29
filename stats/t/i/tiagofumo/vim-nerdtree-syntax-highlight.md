@@ -1,6 +1,6 @@
 # tiagofumo/vim-nerdtree-syntax-highlight - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 737 | 42 | 
 | 2023-01-27 | 737 | 42 | 
 | 2023-01-26 | 736 | 42 | 
 | 2023-01-25 | 735 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 728 | 42 | 
 | 2022-12-31 | 728 | 42 | 
 | 2022-12-30 | 728 | 42 | 
-| 2022-12-29 | 728 | 42 | 
 

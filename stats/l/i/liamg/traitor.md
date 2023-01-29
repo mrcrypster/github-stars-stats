@@ -1,10 +1,10 @@
 # liamg/traitor - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 396
 
-★ Stars: 5610
+★ Stars: 5614
 
 [Open repository](https://github.com/liamg/traitor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 5614 | 396 | 
 | 2023-01-27 | 5610 | 396 | 
 | 2023-01-26 | 5605 | 396 | 
 | 2023-01-25 | 5605 | 396 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 5548 | 392 | 
 | 2022-12-31 | 5546 | 391 | 
 | 2022-12-30 | 5545 | 391 | 
-| 2022-12-29 | 5545 | 391 | 
 

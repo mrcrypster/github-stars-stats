@@ -1,10 +1,10 @@
 # tremorlabs/tremor - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 126
 
-★ Stars: 6012
+★ Stars: 6022
 
 [Open repository](https://github.com/tremorlabs/tremor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 6022 | 126 | 
 | 2023-01-27 | 6012 | 126 | 
 | 2023-01-26 | 6005 | 126 | 
 | 2023-01-25 | 5990 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 5347 | 111 | 
 | 2022-12-31 | 5342 | 111 | 
 | 2022-12-30 | 5333 | 111 | 
-| 2022-12-29 | 5322 | 111 | 
 

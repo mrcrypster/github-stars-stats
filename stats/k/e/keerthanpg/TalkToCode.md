@@ -1,10 +1,10 @@
 # keerthanpg/TalkToCode - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/keerthanpg/TalkToCode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 148 | 11 | 
 | 2023-01-27 | 146 | 11 | 
 | 2023-01-26 | 144 | 10 | 
 | 2023-01-25 | 142 | 9 | 

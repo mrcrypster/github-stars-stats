@@ -1,6 +1,6 @@
 # luno-lang/luno - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 19 | 1 | 
 | 2023-01-27 | 19 | 1 | 
 | 2023-01-26 | 19 | 1 | 
 | 2023-01-24 | 19 | 1 | 

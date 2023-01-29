@@ -1,10 +1,10 @@
 # i18next/react-i18next - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1010
 
-★ Stars: 7967
+★ Stars: 7969
 
 [Open repository](https://github.com/i18next/react-i18next)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 7969 | 1010 | 
 | 2023-01-27 | 7967 | 1010 | 
 | 2023-01-26 | 7965 | 1010 | 
 | 2023-01-25 | 7961 | 1009 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 7907 | 1009 | 
 | 2022-12-31 | 7906 | 1008 | 
 | 2022-12-30 | 7902 | 1007 | 
-| 2022-12-29 | 7900 | 1007 | 
 

@@ -1,10 +1,10 @@
 # olOwOlo/hugo-theme-even - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 697
 
-★ Stars: 1892
+★ Stars: 1893
 
 [Open repository](https://github.com/olOwOlo/hugo-theme-even)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1893 | 697 | 
 | 2023-01-27 | 1892 | 697 | 
 | 2023-01-26 | 1892 | 697 | 
 | 2023-01-25 | 1892 | 697 | 

@@ -1,6 +1,6 @@
 # immerrr/lua-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 294 | 72 | 
 | 2023-01-27 | 294 | 72 | 
 | 2023-01-26 | 294 | 72 | 
 | 2023-01-25 | 294 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 294 | 71 | 
 | 2022-12-31 | 294 | 71 | 
 | 2022-12-30 | 294 | 71 | 
-| 2022-12-29 | 293 | 71 | 
 

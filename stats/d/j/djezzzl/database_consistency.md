@@ -1,6 +1,6 @@
 # djezzzl/database_consistency - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 765 | 27 | 
 | 2023-01-27 | 765 | 27 | 
 | 2023-01-26 | 764 | 27 | 
 | 2023-01-25 | 759 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 706 | 25 | 
 | 2022-12-31 | 703 | 25 | 
 | 2022-12-30 | 703 | 25 | 
-| 2022-12-29 | 700 | 25 | 
 

@@ -1,10 +1,10 @@
 # JuliaMath/Roots.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 50
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/JuliaMath/Roots.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 241 | 50 | 
 | 2023-01-27 | 240 | 50 | 
 | 2023-01-26 | 240 | 50 | 
 | 2023-01-25 | 240 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 233 | 50 | 
 | 2022-12-31 | 233 | 50 | 
 | 2022-12-30 | 233 | 50 | 
-| 2022-12-29 | 231 | 50 | 
 

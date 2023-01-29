@@ -1,8 +1,8 @@
 # nextcloud/news - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 167
+☋ Forks: 168
 
 ★ Stars: 690
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 690 | 168 | 
 | 2023-01-27 | 690 | 167 | 
 | 2023-01-26 | 690 | 167 | 
 | 2023-01-25 | 689 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 685 | 166 | 
 | 2022-12-31 | 684 | 166 | 
 | 2022-12-30 | 684 | 166 | 
-| 2022-12-29 | 684 | 166 | 
 

@@ -1,8 +1,8 @@
 # cmsc389T-winter23/cmsc389T-web-template - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 30
+☋ Forks: 29
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | - | 29 | 
 | 2023-01-27 | - | 30 | 
 | 2023-01-26 | - | 30 | 
 | 2023-01-25 | - | 30 | 

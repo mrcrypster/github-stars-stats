@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-log-export - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 59 | 79 | 
 | 2023-01-27 | 59 | 79 | 
 | 2023-01-26 | 59 | 79 | 
 | 2023-01-25 | 59 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 56 | 79 | 
 | 2022-12-31 | 56 | 79 | 
 | 2022-12-30 | 56 | 79 | 
-| 2022-12-29 | 56 | 79 | 
 

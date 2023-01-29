@@ -1,10 +1,10 @@
 # symfony/polyfill-mbstring - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 37
 
-★ Stars: 7597
+★ Stars: 7598
 
 [Open repository](https://github.com/symfony/polyfill-mbstring)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 7598 | 37 | 
 | 2023-01-27 | 7597 | 37 | 
 | 2023-01-26 | 7595 | 37 | 
 | 2023-01-25 | 7594 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 7577 | 37 | 
 | 2022-12-31 | 7577 | 37 | 
 | 2022-12-30 | 7577 | 37 | 
-| 2022-12-29 | 7576 | 37 | 
 

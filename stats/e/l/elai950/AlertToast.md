@@ -1,10 +1,10 @@
 # elai950/AlertToast - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 1175
+★ Stars: 1176
 
 [Open repository](https://github.com/elai950/AlertToast)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1176 | 96 | 
 | 2023-01-27 | 1175 | 95 | 
 | 2023-01-26 | 1175 | 95 | 
 | 2023-01-25 | 1174 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1144 | 94 | 
 | 2022-12-31 | 1144 | 92 | 
 | 2022-12-30 | 1145 | 92 | 
-| 2022-12-29 | 1142 | 92 | 
 

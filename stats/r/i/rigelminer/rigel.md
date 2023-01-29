@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/rigelminer/rigel)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 33 | 1 | 
+| 2023-01-28 | 35 | 1 | 
 | 2023-01-27 | 33 | 1 | 
 

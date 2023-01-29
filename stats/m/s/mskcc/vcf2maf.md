@@ -1,6 +1,6 @@
 # mskcc/vcf2maf - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 311 | 201 | 
 | 2023-01-27 | 311 | 201 | 
 | 2023-01-26 | 311 | 201 | 
 | 2023-01-25 | 310 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 310 | 200 | 
 | 2022-12-31 | 309 | 200 | 
 | 2022-12-30 | 309 | 200 | 
-| 2022-12-29 | 309 | 200 | 
 

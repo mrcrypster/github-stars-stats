@@ -1,10 +1,10 @@
 # gatelabNW/csf_aging - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/gatelabNW/csf_aging)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 19 | 12 | 
 | 2023-01-27 | 17 | 10 | 
 | 2023-01-26 | 14 | 7 | 
 | 2023-01-25 | 14 | 7 | 

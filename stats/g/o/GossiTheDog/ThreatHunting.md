@@ -1,6 +1,6 @@
 # GossiTheDog/ThreatHunting - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 443 | 47 | 
 | 2023-01-27 | 443 | 47 | 
 | 2023-01-26 | 443 | 47 | 
 | 2023-01-25 | 443 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 442 | 46 | 
 | 2023-01-01 | 442 | 46 | 
 | 2022-12-31 | 441 | 46 | 
-| 2022-12-29 | 441 | 46 | 
 

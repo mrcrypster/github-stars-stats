@@ -1,10 +1,10 @@
 # boazbk/tcs - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 164
 
-★ Stars: 810
+★ Stars: 812
 
 [Open repository](https://github.com/boazbk/tcs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 812 | 164 | 
 | 2023-01-27 | 810 | 164 | 
 | 2023-01-26 | 810 | 164 | 
 | 2023-01-25 | 810 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 803 | 163 | 
 | 2022-12-31 | 803 | 163 | 
 | 2022-12-30 | 803 | 163 | 
-| 2022-12-29 | 802 | 163 | 
 

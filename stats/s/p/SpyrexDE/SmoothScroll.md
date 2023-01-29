@@ -1,8 +1,8 @@
 # SpyrexDE/SmoothScroll - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 48 | 4 | 
 | 2023-01-27 | 48 | 3 | 
 | 2023-01-26 | 48 | 3 | 
 | 2023-01-25 | 48 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 43 | 3 | 
 | 2022-12-31 | 43 | 3 | 
 | 2022-12-30 | 43 | 3 | 
-| 2022-12-29 | 43 | 3 | 
 

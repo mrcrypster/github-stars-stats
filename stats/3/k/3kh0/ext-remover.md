@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 28
 
-☋ Forks: 141
+☋ Forks: 142
 
-★ Stars: 150
+★ Stars: 154
 
 [Open repository](https://github.com/3kh0/ext-remover)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 150 | 141 | 
+| 2023-01-28 | 154 | 142 | 
 | 2023-01-27 | 150 | 140 | 
 | 2023-01-26 | 148 | 137 | 
 | 2023-01-25 | 146 | 134 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 119 | 110 | 
 | 2023-01-01 | 119 | 110 | 
 | 2022-12-31 | 119 | 110 | 
-| 2022-12-29 | 119 | 109 | 
 

@@ -1,10 +1,10 @@
 # brendt/php-sparkline - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 303
+★ Stars: 304
 
 [Open repository](https://github.com/brendt/php-sparkline)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 304 | 5 | 
 | 2023-01-27 | 303 | 5 | 
 | 2023-01-26 | 303 | 5 | 
 | 2023-01-25 | 303 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 260 | 4 | 
 | 2022-12-31 | 260 | 4 | 
 | 2022-12-30 | 260 | 4 | 
-| 2022-12-29 | 258 | 4 | 
 

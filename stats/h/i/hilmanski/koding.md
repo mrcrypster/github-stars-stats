@@ -1,8 +1,8 @@
 # hilmanski/koding - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 72 | 16 | 
 | 2023-01-27 | 72 | 15 | 
 | 2023-01-26 | 71 | 15 | 
 | 2023-01-25 | 71 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 56 | 9 | 
 | 2022-12-31 | 55 | 9 | 
 | 2022-12-30 | 54 | 6 | 
-| 2022-12-29 | 54 | 6 | 
 

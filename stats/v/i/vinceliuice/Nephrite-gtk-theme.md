@@ -1,10 +1,10 @@
 # vinceliuice/Nephrite-gtk-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/vinceliuice/Nephrite-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 157 | 4 | 
 | 2023-01-27 | 156 | 4 | 
 | 2023-01-26 | 156 | 4 | 
 | 2023-01-25 | 156 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 149 | 4 | 
 | 2023-01-01 | 149 | 4 | 
 | 2022-12-31 | 149 | 4 | 
-| 2022-12-30 | 148 | 4 | 
 

@@ -1,6 +1,6 @@
 # Vuthakral/Draconic_Base - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 15 | - | 
 | 2023-01-27 | 15 | - | 
 | 2023-01-26 | 15 | - | 
 

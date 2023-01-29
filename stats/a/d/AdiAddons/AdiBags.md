@@ -1,6 +1,6 @@
 # AdiAddons/AdiBags - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 133 | 105 | 
 | 2023-01-27 | 133 | 105 | 
 | 2023-01-26 | 133 | 105 | 
 | 2023-01-25 | 133 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 131 | 103 | 
 | 2023-01-01 | 131 | 103 | 
 | 2022-12-31 | 131 | 103 | 
-| 2022-12-30 | 131 | 103 | 
 

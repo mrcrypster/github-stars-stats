@@ -1,6 +1,6 @@
 # clojure-finance/clojure-heap - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 17 | - | 
 | 2023-01-27 | 17 | - | 
 | 2023-01-26 | 17 | - | 
 | 2023-01-24 | 17 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 16 | - | 
 | 2023-01-01 | 16 | - | 
 | 2022-12-31 | 16 | - | 
-| 2022-12-29 | 16 | - | 
 

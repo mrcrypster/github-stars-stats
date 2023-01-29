@@ -1,10 +1,10 @@
 # xiaoleGun/KernelSU_Action - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 67
+☋ Forks: 73
 
-★ Stars: 50
+★ Stars: 53
 
 [Open repository](https://github.com/xiaoleGun/KernelSU_Action)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 53 | 73 | 
 | 2023-01-27 | 50 | 67 | 
 | 2023-01-26 | 48 | 58 | 
 | 2023-01-25 | 43 | 52 | 

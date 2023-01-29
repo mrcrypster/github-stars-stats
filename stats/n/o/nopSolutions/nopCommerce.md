@@ -1,10 +1,10 @@
 # nopSolutions/nopCommerce - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 4433
+☋ Forks: 4436
 
-★ Stars: 7841
+★ Stars: 7843
 
 [Open repository](https://github.com/nopSolutions/nopCommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 7843 | 4436 | 
 | 2023-01-27 | 7841 | 4433 | 
 | 2023-01-26 | 7838 | 4436 | 
 | 2023-01-25 | 7838 | 4437 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 7770 | 4384 | 
 | 2022-12-31 | 7770 | 4384 | 
 | 2022-12-30 | 7768 | 4384 | 
-| 2022-12-29 | 7765 | 4383 | 
 

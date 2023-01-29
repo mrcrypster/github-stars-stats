@@ -1,10 +1,10 @@
 # Kong/insomnia - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1407
+☋ Forks: 1408
 
-★ Stars: 26272
+★ Stars: 26281
 
 [Open repository](https://github.com/Kong/insomnia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 26281 | 1408 | 
 | 2023-01-27 | 26272 | 1407 | 
 | 2023-01-26 | 26255 | 1406 | 
 | 2023-01-25 | 26247 | 1406 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 25727 | 1384 | 
 | 2022-12-31 | 25715 | 1384 | 
 | 2022-12-30 | 25712 | 1384 | 
-| 2022-12-29 | 25697 | 1381 | 
 

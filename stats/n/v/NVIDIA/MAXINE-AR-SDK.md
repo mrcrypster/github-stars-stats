@@ -1,10 +1,10 @@
 # NVIDIA/MAXINE-AR-SDK - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 69
 
-★ Stars: 517
+★ Stars: 523
 
 [Open repository](https://github.com/NVIDIA/MAXINE-AR-SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 523 | 69 | 
 | 2023-01-27 | 517 | 69 | 
 | 2023-01-26 | 517 | 68 | 
 | 2023-01-25 | 516 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 376 | 51 | 
 | 2022-12-31 | 374 | 50 | 
 | 2022-12-30 | 365 | 48 | 
-| 2022-12-29 | 361 | 48 | 
 

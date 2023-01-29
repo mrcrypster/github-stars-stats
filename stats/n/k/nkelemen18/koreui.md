@@ -1,10 +1,10 @@
 # nkelemen18/koreui - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/nkelemen18/koreui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8 | - | 
 | 2023-01-27 | 7 | - | 
 | 2023-01-26 | 7 | - | 
 | 2023-01-25 | 7 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 7 | - | 
 | 2022-12-31 | 7 | - | 
 | 2022-12-30 | 7 | - | 
-| 2022-12-29 | 7 | - | 
 

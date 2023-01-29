@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 56
+★ Stars: 60
 
 [Open repository](https://github.com/SciML/EasyModelAnalysis.jl)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 56 | 5 | 
+| 2023-01-28 | 60 | 5 | 
 | 2023-01-27 | 56 | 5 | 
 

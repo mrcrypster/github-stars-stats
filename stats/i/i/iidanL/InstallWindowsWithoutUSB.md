@@ -1,8 +1,8 @@
 # iidanL/InstallWindowsWithoutUSB - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 91 | 38 | 
 | 2023-01-27 | 91 | 37 | 
 | 2023-01-26 | 91 | 37 | 
 | 2023-01-24 | 91 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 83 | 33 | 
 | 2022-12-31 | 83 | 33 | 
 | 2022-12-30 | 83 | 32 | 
-| 2022-12-29 | 82 | 32 | 
 

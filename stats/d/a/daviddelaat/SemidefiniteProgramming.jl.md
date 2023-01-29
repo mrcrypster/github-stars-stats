@@ -1,10 +1,10 @@
 # daviddelaat/SemidefiniteProgramming.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/daviddelaat/SemidefiniteProgramming.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 15 | 5 | 
 | 2023-01-27 | 16 | 5 | 
 | 2023-01-26 | 16 | 5 | 
 | 2023-01-25 | 16 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 17 | 5 | 
 | 2022-12-31 | 17 | 5 | 
 | 2022-12-30 | 17 | 5 | 
-| 2022-12-29 | 17 | 5 | 
 

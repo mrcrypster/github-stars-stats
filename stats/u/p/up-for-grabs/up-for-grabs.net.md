@@ -1,10 +1,10 @@
 # up-for-grabs/up-for-grabs.net - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1625
+☋ Forks: 1626
 
-★ Stars: 4367
+★ Stars: 4370
 
 [Open repository](https://github.com/up-for-grabs/up-for-grabs.net)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 4370 | 1626 | 
 | 2023-01-27 | 4367 | 1625 | 
 | 2023-01-26 | 4362 | 1619 | 
 | 2023-01-25 | 4363 | 1619 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 4243 | 1600 | 
 | 2022-12-31 | 4237 | 1596 | 
 | 2022-12-30 | 4226 | 1595 | 
-| 2022-12-29 | 4216 | 1592 | 
 

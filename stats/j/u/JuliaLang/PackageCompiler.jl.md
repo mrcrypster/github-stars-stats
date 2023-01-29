@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 160
 
-★ Stars: 1223
+★ Stars: 1224
 
 [Open repository](https://github.com/JuliaLang/PackageCompiler.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 1223 | 160 | 
+| 2023-01-28 | 1224 | 160 | 
 | 2023-01-27 | 1223 | 160 | 
 | 2023-01-26 | 1222 | 159 | 
 | 2023-01-25 | 1222 | 159 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-01 | 1213 | 157 | 
 | 2022-12-31 | 1213 | 157 | 
 | 2022-12-30 | 1212 | 157 | 
-| 2022-12-29 | 1212 | 157 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/QodotPlugin/Qodot)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 29 | 3 | 
+| 2023-01-28 | 31 | 3 | 
 | 2023-01-27 | 29 | 3 | 
 | 2023-01-26 | 28 | 3 | 
 | 2023-01-25 | 19 | 3 | 

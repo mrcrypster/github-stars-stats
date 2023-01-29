@@ -1,10 +1,10 @@
 # mytechnotalent/Hacking-Windows - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 88
 
-★ Stars: 1082
+★ Stars: 1081
 
 [Open repository](https://github.com/mytechnotalent/Hacking-Windows)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1081 | 88 | 
 | 2023-01-28 | 1082 | 88 | 
 | 2023-01-27 | 1079 | 88 | 
 | 2023-01-25 | 1079 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1067 | 85 | 
 | 2023-01-01 | 1067 | 85 | 
 | 2022-12-31 | 1067 | 85 | 
-| 2022-12-29 | 1067 | 85 | 
 

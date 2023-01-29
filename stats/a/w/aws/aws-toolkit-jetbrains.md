@@ -1,8 +1,8 @@
 # aws/aws-toolkit-jetbrains - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 130
+☋ Forks: 131
 
 ★ Stars: 635
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 635 | 131 | 
 | 2023-01-27 | 635 | 130 | 
 | 2023-01-25 | 634 | 130 | 
 | 2023-01-24 | 634 | 130 | 

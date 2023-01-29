@@ -1,10 +1,10 @@
 # operator-framework/operator-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1623
+☋ Forks: 1622
 
-★ Stars: 6253
+★ Stars: 6256
 
 [Open repository](https://github.com/operator-framework/operator-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 6256 | 1622 | 
 | 2023-01-27 | 6253 | 1623 | 
 | 2023-01-26 | 6252 | 1623 | 
 | 2023-01-25 | 6251 | 1623 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 6203 | 1617 | 
 | 2022-12-31 | 6202 | 1617 | 
 | 2022-12-30 | 6200 | 1617 | 
-| 2022-12-29 | 6198 | 1616 | 
 

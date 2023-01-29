@@ -1,10 +1,10 @@
 # JamshedVesuna/vim-markdown-preview - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 93
 
-★ Stars: 567
+★ Stars: 568
 
 [Open repository](https://github.com/JamshedVesuna/vim-markdown-preview)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 568 | 93 | 
 | 2023-01-28 | 567 | 93 | 
 | 2023-01-26 | 567 | 93 | 
 | 2023-01-25 | 566 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 566 | 93 | 
 | 2022-12-31 | 566 | 93 | 
 | 2022-12-30 | 566 | 93 | 
-| 2022-12-29 | 566 | 93 | 
 

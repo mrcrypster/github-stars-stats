@@ -1,6 +1,6 @@
 # irshadmd/Awesome-CSS-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 47 | 98 | 
 | 2023-01-27 | 47 | 98 | 
 | 2023-01-26 | 47 | 98 | 
 | 2023-01-25 | 47 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 44 | 101 | 
 | 2023-01-01 | 44 | 101 | 
 | 2022-12-31 | 44 | 101 | 
-| 2022-12-30 | 44 | 101 | 
 

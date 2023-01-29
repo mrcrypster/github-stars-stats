@@ -1,8 +1,8 @@
 # rikky0611/teach-PUI-2023S - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1 | 17 | 
 | 2023-01-27 | 1 | 16 | 
 | 2023-01-26 | 1 | 16 | 
 

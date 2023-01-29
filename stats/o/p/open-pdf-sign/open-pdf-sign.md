@@ -1,10 +1,10 @@
 # open-pdf-sign/open-pdf-sign - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 668
+★ Stars: 669
 
 [Open repository](https://github.com/open-pdf-sign/open-pdf-sign)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 669 | 18 | 
 | 2023-01-27 | 668 | 17 | 
 | 2023-01-26 | 669 | 18 | 
 | 2023-01-25 | 669 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 647 | 17 | 
 | 2022-12-31 | 645 | 17 | 
 | 2022-12-30 | 642 | 17 | 
-| 2022-12-29 | 639 | 17 | 
 

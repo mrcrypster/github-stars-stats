@@ -1,10 +1,10 @@
 # xiph/flac - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 229
 
-★ Stars: 1081
+★ Stars: 1085
 
 [Open repository](https://github.com/xiph/flac)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1085 | 229 | 
 | 2023-01-27 | 1081 | 229 | 
 | 2023-01-26 | 1081 | 229 | 
 | 2023-01-25 | 1080 | 229 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1058 | 230 | 
 | 2022-12-31 | 1058 | 230 | 
 | 2022-12-30 | 1058 | 230 | 
-| 2022-12-29 | 1056 | 230 | 
 

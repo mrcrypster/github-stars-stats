@@ -1,10 +1,10 @@
 # symfony/demo - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 1646
+☋ Forks: 1645
 
-★ Stars: 2253
+★ Stars: 2254
 
 [Open repository](https://github.com/symfony/demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2254 | 1645 | 
 | 2023-01-27 | 2253 | 1646 | 
 | 2023-01-26 | 2254 | 1646 | 
 | 2023-01-25 | 2253 | 1648 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2246 | 1639 | 
 | 2022-12-31 | 2246 | 1639 | 
 | 2022-12-30 | 2246 | 1637 | 
-| 2022-12-29 | 2246 | 1637 | 
 

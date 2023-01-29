@@ -1,10 +1,10 @@
 # simple-icons/simple-icons - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 2126
 
-★ Stars: 14865
+★ Stars: 14872
 
 [Open repository](https://github.com/simple-icons/simple-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 14872 | 2126 | 
 | 2023-01-27 | 14865 | 2126 | 
 | 2023-01-26 | 14861 | 2126 | 
 | 2023-01-25 | 14858 | 2126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 14731 | 2106 | 
 | 2022-12-31 | 14727 | 2108 | 
 | 2022-12-30 | 14719 | 2106 | 
-| 2022-12-29 | 14716 | 2106 | 
 

@@ -1,10 +1,10 @@
 # Hacker0x01/react-datepicker - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 2064
+☋ Forks: 2065
 
-★ Stars: 7028
+★ Stars: 7030
 
 [Open repository](https://github.com/Hacker0x01/react-datepicker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 7030 | 2065 | 
 | 2023-01-27 | 7028 | 2064 | 
 | 2023-01-25 | 7028 | 2061 | 
 | 2023-01-24 | 7024 | 2059 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 6990 | 2040 | 
 | 2022-12-31 | 6990 | 2040 | 
 | 2022-12-30 | 6987 | 2040 | 
-| 2022-12-29 | 6983 | 2039 | 
 

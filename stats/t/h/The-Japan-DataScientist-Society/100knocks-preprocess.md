@@ -1,6 +1,6 @@
 # The-Japan-DataScientist-Society/100knocks-preprocess - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 319
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1957 | 319 | 
 | 2023-01-27 | 1957 | 319 | 
 | 2023-01-26 | 1956 | 318 | 
 | 2023-01-25 | 1954 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1895 | 310 | 
 | 2022-12-31 | 1895 | 309 | 
 | 2022-12-30 | 1896 | 309 | 
-| 2022-12-29 | 1896 | 309 | 
 

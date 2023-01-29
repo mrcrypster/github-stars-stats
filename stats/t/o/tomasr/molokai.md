@@ -1,10 +1,10 @@
 # tomasr/molokai - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1715
 
-★ Stars: 3511
+★ Stars: 3513
 
 [Open repository](https://github.com/tomasr/molokai)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 3513 | 1715 | 
 | 2023-01-27 | 3511 | 1715 | 
 | 2023-01-26 | 3511 | 1715 | 
 | 2023-01-25 | 3511 | 1715 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 3505 | 1712 | 
 | 2022-12-31 | 3505 | 1712 | 
 | 2022-12-30 | 3505 | 1714 | 
-| 2022-12-29 | 3505 | 1714 | 
 

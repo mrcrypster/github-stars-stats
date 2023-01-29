@@ -1,6 +1,6 @@
 # shibing624/python-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1077 | 267 | 
 | 2023-01-27 | 1077 | 267 | 
 | 2023-01-26 | 1076 | 267 | 
 | 2023-01-25 | 1076 | 267 | 

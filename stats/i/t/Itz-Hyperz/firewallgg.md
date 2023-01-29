@@ -1,6 +1,6 @@
 # Itz-Hyperz/firewallgg - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 40 | 17 | 
 | 2023-01-27 | 40 | 17 | 
 | 2023-01-26 | 40 | 17 | 
 | 2023-01-25 | 40 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 39 | 17 | 
 | 2022-12-31 | 40 | 17 | 
 | 2022-12-30 | 40 | 17 | 
-| 2022-12-29 | 40 | 16 | 
 

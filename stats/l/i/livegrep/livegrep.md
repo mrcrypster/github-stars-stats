@@ -1,6 +1,6 @@
 # livegrep/livegrep - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1389 | 153 | 
 | 2023-01-27 | 1389 | 153 | 
 | 2023-01-26 | 1388 | 153 | 
 | 2023-01-25 | 1387 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1374 | 151 | 
 | 2022-12-31 | 1373 | 150 | 
 | 2022-12-30 | 1373 | 150 | 
-| 2022-12-29 | 1373 | 150 | 
 

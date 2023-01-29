@@ -1,6 +1,6 @@
 # tkf/emacs-request - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 561 | 88 | 
 | 2023-01-27 | 561 | 88 | 
 | 2023-01-26 | 561 | 88 | 
 | 2023-01-25 | 561 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 556 | 88 | 
 | 2022-12-31 | 556 | 88 | 
 | 2022-12-30 | 556 | 88 | 
-| 2022-12-29 | 556 | 88 | 
 

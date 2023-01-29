@@ -1,10 +1,10 @@
 # frones/ACBr - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 148
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/frones/ACBr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 123 | 148 | 
 | 2023-01-27 | 122 | 148 | 
 | 2023-01-26 | 121 | 147 | 
 | 2023-01-25 | 121 | 147 | 

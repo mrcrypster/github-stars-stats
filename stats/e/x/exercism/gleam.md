@@ -1,8 +1,8 @@
 # exercism/gleam - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 40 | 17 | 
 | 2023-01-27 | 40 | 16 | 
 | 2023-01-26 | 39 | 16 | 
 | 2023-01-25 | 39 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 34 | 16 | 
 | 2022-12-31 | 34 | 16 | 
 | 2022-12-30 | 34 | 16 | 
-| 2022-12-29 | 34 | 16 | 
 

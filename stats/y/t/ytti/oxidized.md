@@ -1,6 +1,6 @@
 # ytti/oxidized - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 790
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2172 | 790 | 
 | 2023-01-27 | 2172 | 790 | 
 | 2023-01-26 | 2171 | 790 | 
 | 2023-01-25 | 2168 | 790 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2152 | 790 | 
 | 2022-12-31 | 2150 | 789 | 
 | 2022-12-30 | 2148 | 789 | 
-| 2022-12-29 | 2147 | 789 | 
 

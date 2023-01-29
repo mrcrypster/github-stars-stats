@@ -1,8 +1,8 @@
 # letscontrolit/ESPEasy - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 2067
+☋ Forks: 2068
 
 ★ Stars: 2875
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2875 | 2068 | 
 | 2023-01-27 | 2875 | 2067 | 
 | 2023-01-26 | 2874 | 2067 | 
 | 2023-01-25 | 2874 | 2065 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2857 | 2055 | 
 | 2022-12-31 | 2856 | 2055 | 
 | 2022-12-30 | 2856 | 2055 | 
-| 2022-12-29 | 2854 | 2054 | 
 

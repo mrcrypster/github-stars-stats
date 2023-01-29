@@ -1,6 +1,6 @@
 # googlefonts/morisawa-biz-ud-gothic - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 537 | 17 | 
 | 2023-01-27 | 537 | 17 | 
 | 2023-01-26 | 536 | 17 | 
 | 2023-01-25 | 536 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 535 | 16 | 
 | 2022-12-31 | 535 | 16 | 
 | 2022-12-30 | 535 | 16 | 
-| 2022-12-29 | 535 | 16 | 
 

@@ -1,6 +1,6 @@
 # joe-scotto/keyboards - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 257 | 13 | 
 | 2023-01-27 | 257 | 13 | 
 | 2023-01-26 | 256 | 13 | 
 | 2023-01-25 | 255 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 229 | 11 | 
 | 2022-12-31 | 223 | 11 | 
 | 2022-12-30 | 220 | 11 | 
-| 2022-12-29 | 220 | 11 | 
 

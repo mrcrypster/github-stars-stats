@@ -1,10 +1,10 @@
 # Activiti/Activiti - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 6838
 
-★ Stars: 9168
+★ Stars: 9172
 
 [Open repository](https://github.com/Activiti/Activiti)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 9172 | 6838 | 
 | 2023-01-27 | 9168 | 6838 | 
 | 2023-01-26 | 9168 | 6837 | 
 | 2023-01-25 | 9168 | 6838 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 9139 | 6831 | 
 | 2022-12-31 | 9138 | 6831 | 
 | 2022-12-30 | 9138 | 6831 | 
-| 2022-12-29 | 9135 | 6830 | 
 

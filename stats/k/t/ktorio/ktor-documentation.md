@@ -1,8 +1,8 @@
 # ktorio/ktor-documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 193
+☋ Forks: 194
 
 ★ Stars: 244
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 244 | 194 | 
 | 2023-01-27 | 244 | 193 | 
 | 2023-01-26 | 244 | 191 | 
 | 2023-01-25 | 243 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 231 | 184 | 
 | 2022-12-31 | 231 | 182 | 
 | 2022-12-30 | 230 | 182 | 
-| 2022-12-29 | 229 | 182 | 
 

@@ -1,6 +1,6 @@
 # pal-robotics/pmb2_robot - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 6 | 9 | 
 | 2023-01-27 | 6 | 9 | 
 | 2023-01-26 | 6 | 9 | 
 | 2023-01-25 | 6 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 6 | 10 | 
 | 2022-12-31 | 6 | 10 | 
 | 2022-12-30 | 6 | 9 | 
-| 2022-12-29 | 6 | 9 | 
 

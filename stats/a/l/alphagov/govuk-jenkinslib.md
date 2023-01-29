@@ -1,6 +1,6 @@
 # alphagov/govuk-jenkinslib - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 5 | 3 | 
 | 2023-01-27 | 5 | 3 | 
 | 2023-01-26 | 5 | 3 | 
 | 2023-01-25 | 5 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 5 | 4 | 
 | 2023-01-01 | 5 | 4 | 
 | 2022-12-31 | 5 | 4 | 
-| 2022-12-30 | 5 | 4 | 
 

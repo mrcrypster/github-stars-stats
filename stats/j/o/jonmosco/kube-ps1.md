@@ -1,10 +1,10 @@
 # jonmosco/kube-ps1 - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 321
 
-★ Stars: 2993
+★ Stars: 2994
 
 [Open repository](https://github.com/jonmosco/kube-ps1)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2994 | 321 | 
 | 2023-01-27 | 2993 | 321 | 
 | 2023-01-26 | 2992 | 321 | 
 | 2023-01-25 | 2990 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2966 | 318 | 
 | 2022-12-31 | 2966 | 318 | 
 | 2022-12-30 | 2966 | 318 | 
-| 2022-12-29 | 2966 | 318 | 
 

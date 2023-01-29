@@ -1,8 +1,8 @@
 # disnake-ru/guide - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 11 | 12 | 
 | 2023-01-27 | 11 | 11 | 
 | 2023-01-26 | 11 | 11 | 
 | 2023-01-25 | 11 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 11 | 9 | 
 | 2022-12-31 | 11 | 9 | 
 | 2022-12-30 | 11 | 9 | 
-| 2022-12-29 | 11 | 9 | 
 

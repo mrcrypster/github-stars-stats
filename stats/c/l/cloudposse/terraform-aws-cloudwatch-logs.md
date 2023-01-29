@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-cloudwatch-logs - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 55 | 21 | 
 | 2023-01-28 | 55 | 21 | 
 | 2023-01-27 | 55 | 20 | 
 | 2023-01-25 | 56 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-01 | 55 | 20 | 
 | 2022-12-31 | 55 | 20 | 
 | 2022-12-30 | 55 | 20 | 
-| 2022-12-29 | 55 | 20 | 
 

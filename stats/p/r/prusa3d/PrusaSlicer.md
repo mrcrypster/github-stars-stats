@@ -1,10 +1,10 @@
 # prusa3d/PrusaSlicer - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1463
+☋ Forks: 1464
 
-★ Stars: 5236
+★ Stars: 5247
 
 [Open repository](https://github.com/prusa3d/PrusaSlicer)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 5236 | 1463 | 
+| 2023-01-29 | 5247 | 1464 | 
+| 2023-01-28 | 5244 | 1464 | 
 | 2023-01-27 | 5234 | 1463 | 
 | 2023-01-26 | 5222 | 1460 | 
 | 2023-01-25 | 5213 | 1460 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 5109 | 1437 | 
 | 2022-12-31 | 5108 | 1437 | 
 | 2022-12-30 | 5103 | 1435 | 
-| 2022-12-29 | 5098 | 1434 | 
 

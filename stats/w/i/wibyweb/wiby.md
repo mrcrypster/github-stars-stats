@@ -1,10 +1,10 @@
 # wibyweb/wiby - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/wibyweb/wiby)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 221 | 6 | 
 | 2023-01-27 | 220 | 6 | 
 | 2023-01-26 | 220 | 6 | 
 | 2023-01-24 | 220 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 222 | 6 | 
 | 2023-01-01 | 222 | 6 | 
 | 2022-12-31 | 221 | 6 | 
-| 2022-12-29 | 221 | 6 | 
 

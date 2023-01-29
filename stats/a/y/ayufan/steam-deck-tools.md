@@ -1,10 +1,10 @@
 # ayufan/steam-deck-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 19
 
-★ Stars: 239
+★ Stars: 246
 
 [Open repository](https://github.com/ayufan/steam-deck-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 246 | 19 | 
 | 2023-01-27 | 239 | 19 | 
 | 2023-01-26 | 237 | 19 | 
 | 2023-01-25 | 233 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 163 | 13 | 
 | 2022-12-31 | 161 | 13 | 
 | 2022-12-30 | 155 | 13 | 
-| 2022-12-29 | 152 | 13 | 
 

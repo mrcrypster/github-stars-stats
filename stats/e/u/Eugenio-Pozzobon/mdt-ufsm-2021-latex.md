@@ -1,10 +1,10 @@
 # Eugenio-Pozzobon/mdt-ufsm-2021-latex - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/Eugenio-Pozzobon/mdt-ufsm-2021-latex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 25 | 4 | 
 | 2023-01-27 | 23 | 4 | 
 | 2023-01-26 | 23 | 4 | 
 | 2023-01-25 | 23 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 13 | 1 | 
 | 2022-12-31 | 13 | 1 | 
 | 2022-12-30 | 12 | 1 | 
-| 2022-12-29 | 12 | 1 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/MARD1NO/FxxkCUDA)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-28 | 34 | 1 | 
+| 2023-01-28 | 35 | 1 | 
 | 2023-01-27 | 34 | 1 | 
 | 2023-01-26 | 34 | 1 | 
 | 2023-01-25 | 32 | 1 | 

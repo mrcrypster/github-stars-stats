@@ -1,10 +1,10 @@
 # 1inch/erc20-pods - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/1inch/erc20-pods)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 26 | 1 | 
 | 2023-01-27 | 25 | 1 | 
 | 2023-01-26 | 25 | 1 | 
 | 2023-01-25 | 25 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 23 | - | 
 | 2022-12-31 | 23 | - | 
 | 2022-12-30 | 20 | - | 
-| 2022-12-29 | 20 | - | 
 

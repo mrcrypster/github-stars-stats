@@ -1,6 +1,6 @@
 # isovector/marlo - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 17 | - | 
 | 2023-01-27 | 17 | - | 
 | 2023-01-26 | 17 | - | 
 | 2023-01-25 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 17 | - | 
 | 2022-12-31 | 17 | - | 
 | 2022-12-30 | 17 | - | 
-| 2022-12-29 | 17 | - | 
 

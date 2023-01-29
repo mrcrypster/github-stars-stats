@@ -1,10 +1,10 @@
 # StarikTenger/Chipollino - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/StarikTenger/Chipollino)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 9 | 2 | 
 | 2023-01-27 | 8 | 2 | 
 | 2023-01-26 | 8 | 1 | 
 | 2023-01-25 | 8 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 6 | - | 
 | 2022-12-31 | 6 | - | 
 | 2022-12-30 | 6 | - | 
-| 2022-12-29 | 6 | - | 
 

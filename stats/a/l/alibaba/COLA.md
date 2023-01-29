@@ -1,10 +1,10 @@
 # alibaba/COLA - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
-☋ Forks: 2409
+☋ Forks: 2410
 
-★ Stars: 8944
+★ Stars: 8953
 
 [Open repository](https://github.com/alibaba/COLA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 8953 | 2410 | 
 | 2023-01-27 | 8944 | 2409 | 
 | 2023-01-26 | 8944 | 2411 | 
 | 2023-01-25 | 8944 | 2411 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 8878 | 2391 | 
 | 2022-12-31 | 8878 | 2390 | 
 | 2022-12-30 | 8877 | 2389 | 
-| 2022-12-29 | 8875 | 2388 | 
 

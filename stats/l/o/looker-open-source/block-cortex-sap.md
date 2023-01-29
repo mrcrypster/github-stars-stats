@@ -1,6 +1,6 @@
 # looker-open-source/block-cortex-sap - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 4 | 30 | 
 | 2023-01-27 | 4 | 30 | 
 | 2023-01-26 | 4 | 30 | 
 | 2023-01-25 | 4 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 3 | 23 | 
 | 2022-12-31 | 3 | 23 | 
 | 2022-12-30 | 4 | 23 | 
-| 2022-12-29 | 4 | 23 | 
 

@@ -1,10 +1,10 @@
 # almandin/fuxploider - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 459
 
-★ Stars: 2412
+★ Stars: 2413
 
 [Open repository](https://github.com/almandin/fuxploider)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2413 | 459 | 
 | 2023-01-27 | 2412 | 459 | 
 | 2023-01-26 | 2410 | 458 | 
 | 2023-01-25 | 2410 | 458 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 2395 | 455 | 
 | 2022-12-31 | 2395 | 455 | 
 | 2022-12-30 | 2394 | 455 | 
-| 2022-12-29 | 2394 | 455 | 
 

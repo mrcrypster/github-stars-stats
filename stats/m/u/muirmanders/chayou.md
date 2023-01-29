@@ -1,6 +1,6 @@
 # muirmanders/chayou - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3 | 1 | 
 | 2023-01-27 | 3 | 1 | 
 | 2023-01-26 | 3 | 1 | 
 | 2023-01-25 | 3 | 1 | 

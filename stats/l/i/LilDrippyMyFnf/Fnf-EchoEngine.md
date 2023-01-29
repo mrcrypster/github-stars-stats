@@ -1,10 +1,10 @@
 # LilDrippyMyFnf/Fnf-EchoEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 7
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/LilDrippyMyFnf/Fnf-EchoEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 11 | 7 | 
 | 2023-01-27 | 10 | 7 | 
 | 2023-01-26 | 10 | 7 | 
 | 2023-01-25 | 10 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 8 | 5 | 
 | 2022-12-31 | 6 | 3 | 
 | 2022-12-30 | 6 | 3 | 
-| 2022-12-29 | 6 | 2 | 
 

@@ -1,6 +1,6 @@
 # mpenet/mina - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 34 | - | 
 | 2023-01-27 | 34 | - | 
 | 2023-01-26 | 34 | - | 
 | 2023-01-24 | 34 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-02 | 25 | - | 
 | 2023-01-01 | 25 | - | 
 | 2022-12-30 | 25 | - | 
-| 2022-12-29 | 25 | - | 
 

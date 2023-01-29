@@ -1,6 +1,6 @@
 # dom96/jester - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1414 | 113 | 
 | 2023-01-27 | 1414 | 113 | 
 | 2023-01-26 | 1414 | 113 | 
 | 2023-01-25 | 1414 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1402 | 112 | 
 | 2022-12-31 | 1402 | 112 | 
 | 2022-12-30 | 1403 | 112 | 
-| 2022-12-29 | 1400 | 112 | 
 

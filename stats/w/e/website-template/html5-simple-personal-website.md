@@ -1,10 +1,10 @@
 # website-template/html5-simple-personal-website - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 79
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/website-template/html5-simple-personal-website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 37 | 79 | 
 | 2023-01-27 | 36 | 79 | 
 | 2023-01-26 | 36 | 79 | 
 | 2023-01-25 | 36 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 34 | 78 | 
 | 2022-12-31 | 34 | 78 | 
 | 2022-12-30 | 34 | 78 | 
-| 2022-12-29 | 34 | 78 | 
 

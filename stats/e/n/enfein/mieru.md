@@ -1,10 +1,10 @@
 # enfein/mieru - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 66
 
-★ Stars: 486
+★ Stars: 488
 
 [Open repository](https://github.com/enfein/mieru)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 488 | 66 | 
 | 2023-01-27 | 486 | 66 | 
 | 2023-01-26 | 484 | 66 | 
 | 2023-01-25 | 484 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 467 | 65 | 
 | 2022-12-31 | 466 | 65 | 
 | 2022-12-30 | 466 | 65 | 
-| 2022-12-29 | 463 | 65 | 
 

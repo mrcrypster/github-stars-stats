@@ -1,6 +1,6 @@
 # jscl-project/jscl - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 810 | 101 | 
 | 2023-01-28 | 810 | 101 | 
 | 2023-01-27 | 810 | 101 | 
 | 2023-01-25 | 810 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 809 | 101 | 
 | 2022-12-31 | 808 | 101 | 
 | 2022-12-30 | 807 | 101 | 
-| 2022-12-29 | 807 | 101 | 
 

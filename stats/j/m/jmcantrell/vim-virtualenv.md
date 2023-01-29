@@ -1,10 +1,10 @@
 # jmcantrell/vim-virtualenv - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 51
 
-★ Stars: 577
+★ Stars: 576
 
 [Open repository](https://github.com/jmcantrell/vim-virtualenv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 576 | 51 | 
 | 2023-01-27 | 577 | 51 | 
 | 2023-01-26 | 577 | 51 | 
 | 2023-01-24 | 577 | 51 | 

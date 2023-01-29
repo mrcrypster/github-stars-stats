@@ -1,10 +1,10 @@
 # dfinke/ImportExcel - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 356
 
-★ Stars: 2049
+★ Stars: 2050
 
 [Open repository](https://github.com/dfinke/ImportExcel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 2050 | 356 | 
 | 2023-01-27 | 2049 | 356 | 
 | 2023-01-26 | 2049 | 356 | 
 | 2023-01-25 | 2048 | 356 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 2027 | 355 | 
 | 2022-12-31 | 2026 | 355 | 
 | 2022-12-30 | 2025 | 355 | 
-| 2022-12-29 | 2024 | 354 | 
 

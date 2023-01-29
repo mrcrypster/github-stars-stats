@@ -1,6 +1,6 @@
 # gko/vim-coloresque - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 347 | 66 | 
 | 2023-01-27 | 347 | 66 | 
 | 2023-01-26 | 347 | 66 | 
 | 2023-01-25 | 347 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 345 | 65 | 
 | 2022-12-31 | 345 | 65 | 
 | 2022-12-30 | 345 | 65 | 
-| 2022-12-29 | 345 | 65 | 
 

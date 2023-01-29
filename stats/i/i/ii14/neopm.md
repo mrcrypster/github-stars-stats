@@ -1,6 +1,6 @@
 # ii14/neopm - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 53 | - | 
 | 2023-01-27 | 53 | - | 
 | 2023-01-26 | 53 | - | 
 | 2023-01-25 | 53 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 52 | - | 
 | 2022-12-31 | 52 | - | 
 | 2022-12-30 | 52 | - | 
-| 2022-12-29 | 52 | - | 
 

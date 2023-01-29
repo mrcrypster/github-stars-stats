@@ -1,6 +1,6 @@
 # rhysd/vim-clang-format - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 1007 | 112 | 
 | 2023-01-27 | 1007 | 112 | 
 | 2023-01-26 | 1006 | 112 | 
 | 2023-01-25 | 1006 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 1004 | 112 | 
 | 2022-12-31 | 1004 | 112 | 
 | 2022-12-30 | 1004 | 112 | 
-| 2022-12-29 | 1003 | 112 | 
 

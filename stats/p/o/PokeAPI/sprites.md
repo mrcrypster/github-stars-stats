@@ -1,6 +1,6 @@
 # PokeAPI/sprites - stars & forks statistics
 
-Stats updated on Jan 2023, 27
+Stats updated on Jan 2023, 28
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-28 | 652 | 176 | 
 | 2023-01-27 | 652 | 176 | 
 | 2023-01-26 | 651 | 176 | 
 | 2023-01-25 | 650 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 27
 | 2023-01-01 | 635 | 169 | 
 | 2022-12-31 | 634 | 169 | 
 | 2022-12-30 | 634 | 169 | 
-| 2022-12-29 | 634 | 169 | 
 
