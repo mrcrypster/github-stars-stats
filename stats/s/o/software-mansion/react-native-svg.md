@@ -1,10 +1,10 @@
 # software-mansion/react-native-svg - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 999
+☋ Forks: 1000
 
-★ Stars: 6549
+★ Stars: 6554
 
 [Open repository](https://github.com/software-mansion/react-native-svg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 6554 | 1000 | 
 | 2023-01-28 | 6549 | 999 | 
 | 2023-01-27 | 6550 | 999 | 
 | 2023-01-26 | 6548 | 998 | 

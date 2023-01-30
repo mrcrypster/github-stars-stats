@@ -1,10 +1,10 @@
 # google/rune - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 45
 
-★ Stars: 1885
+★ Stars: 1887
 
 [Open repository](https://github.com/google/rune)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1887 | 45 | 
 | 2023-01-28 | 1885 | 45 | 
 | 2023-01-27 | 1885 | 45 | 
 | 2023-01-26 | 1884 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1811 | 45 | 
 | 2023-01-01 | 1808 | 44 | 
 | 2022-12-31 | 1808 | 44 | 
-| 2022-12-30 | 1806 | 44 | 
 

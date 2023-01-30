@@ -1,10 +1,10 @@
 # FelixKrueger/TrimGalore - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 133
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/FelixKrueger/TrimGalore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 362 | 133 | 
 | 2023-01-28 | 361 | 133 | 
 | 2023-01-27 | 360 | 133 | 
 | 2023-01-26 | 360 | 133 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 356 | 131 | 
 | 2023-01-01 | 356 | 131 | 
 | 2022-12-31 | 356 | 131 | 
-| 2022-12-30 | 356 | 130 | 
 

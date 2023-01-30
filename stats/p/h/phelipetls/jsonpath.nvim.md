@@ -1,6 +1,6 @@
 # phelipetls/jsonpath.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 100 | 1 | 
 | 2023-01-28 | 100 | 1 | 
 | 2023-01-27 | 100 | 1 | 
 | 2023-01-26 | 100 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 100 | 1 | 
 | 2023-01-01 | 100 | 1 | 
 | 2022-12-31 | 100 | 1 | 
-| 2022-12-30 | 100 | 1 | 
 

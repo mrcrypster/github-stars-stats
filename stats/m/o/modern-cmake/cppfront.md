@@ -1,6 +1,6 @@
 # modern-cmake/cppfront - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 40 | - | 
 | 2023-01-28 | 40 | - | 
 | 2023-01-27 | 40 | - | 
 | 2023-01-26 | 40 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 36 | - | 
 | 2023-01-01 | 35 | - | 
 | 2022-12-31 | 34 | - | 
-| 2022-12-30 | 34 | - | 
 

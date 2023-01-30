@@ -1,6 +1,6 @@
 # Macjutsu/super - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 310 | 41 | 
 | 2023-01-28 | 310 | 41 | 
 | 2023-01-27 | 310 | 41 | 
 | 2023-01-26 | 309 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 290 | 32 | 
 | 2023-01-01 | 288 | 31 | 
 | 2022-12-31 | 288 | 31 | 
-| 2022-12-30 | 288 | 31 | 
 

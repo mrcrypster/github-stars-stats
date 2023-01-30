@@ -1,10 +1,10 @@
 # SkyTubeTeam/SkyTube - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 302
 
-★ Stars: 1844
+★ Stars: 1845
 
 [Open repository](https://github.com/SkyTubeTeam/SkyTube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1845 | 302 | 
 | 2023-01-28 | 1844 | 302 | 
 | 2023-01-27 | 1843 | 302 | 
 | 2023-01-26 | 1843 | 302 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1821 | 301 | 
 | 2023-01-01 | 1820 | 301 | 
 | 2022-12-31 | 1819 | 302 | 
-| 2022-12-30 | 1818 | 302 | 
 

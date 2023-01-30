@@ -1,10 +1,10 @@
 # pharo-project/pharo-vm - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 36
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/pharo-project/pharo-vm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 85 | 36 | 
 | 2023-01-28 | 84 | 36 | 
 | 2023-01-27 | 84 | 36 | 
 | 2023-01-26 | 84 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 80 | 36 | 
 | 2023-01-01 | 80 | 36 | 
 | 2022-12-31 | 80 | 36 | 
-| 2022-12-30 | 80 | 36 | 
 

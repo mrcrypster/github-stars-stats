@@ -1,10 +1,10 @@
 # titaniumnetwork-dev/Ultraviolet - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 486
+☋ Forks: 491
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/titaniumnetwork-dev/Ultraviolet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 94 | 491 | 
 | 2023-01-28 | 93 | 486 | 
 | 2023-01-27 | 92 | 478 | 
 | 2023-01-26 | 91 | 465 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 63 | 287 | 
 | 2023-01-01 | 61 | 286 | 
 | 2022-12-31 | 61 | 283 | 
-| 2022-12-30 | 60 | 281 | 
 

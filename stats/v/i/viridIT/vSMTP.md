@@ -1,10 +1,10 @@
 # viridIT/vSMTP - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 18
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/viridIT/vSMTP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 403 | 18 | 
 | 2023-01-28 | 402 | 18 | 
 | 2023-01-27 | 402 | 18 | 
 | 2023-01-26 | 402 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 391 | 15 | 
 | 2023-01-01 | 390 | 15 | 
 | 2022-12-31 | 390 | 14 | 
-| 2022-12-30 | 390 | 14 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 29
 
-☋ Forks: 49
+☋ Forks: 53
 
-★ Stars: 965
+★ Stars: 987
 
 [Open repository](https://github.com/DGP-Studio/Snap.Hutao)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 965 | 49 | 
+| 2023-01-29 | 987 | 53 | 
 | 2023-01-28 | 964 | 49 | 
 | 2023-01-27 | 930 | 47 | 
 | 2023-01-26 | 896 | 45 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 732 | 35 | 
 | 2023-01-02 | 728 | 34 | 
 | 2023-01-01 | 726 | 33 | 
-| 2022-12-31 | 726 | 33 | 
 

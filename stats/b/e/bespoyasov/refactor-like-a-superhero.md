@@ -1,6 +1,6 @@
 # bespoyasov/refactor-like-a-superhero - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 709 | 57 | 
 | 2023-01-28 | 709 | 57 | 
 | 2023-01-27 | 709 | 57 | 
 | 2023-01-26 | 707 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 666 | 53 | 
 | 2023-01-01 | 662 | 53 | 
 | 2022-12-31 | 661 | 52 | 
-| 2022-12-30 | 660 | 53 | 
 

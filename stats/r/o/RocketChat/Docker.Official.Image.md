@@ -1,6 +1,6 @@
 # RocketChat/Docker.Official.Image - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 209 | 163 | 
 | 2023-01-28 | 209 | 163 | 
 | 2023-01-27 | 209 | 163 | 
 | 2023-01-26 | 209 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 209 | 159 | 
 | 2023-01-01 | 209 | 160 | 
 | 2022-12-31 | 209 | 160 | 
-| 2022-12-30 | 209 | 160 | 
 

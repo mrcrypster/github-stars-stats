@@ -1,6 +1,6 @@
 # argvchs/hexo-theme-particlex - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 114 | 18 | 
 | 2023-01-28 | 114 | 18 | 
 | 2023-01-27 | 114 | 18 | 
 | 2023-01-26 | 113 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 104 | 17 | 
 | 2023-01-02 | 104 | 17 | 
 | 2023-01-01 | 104 | 18 | 
-| 2022-12-31 | 104 | 18 | 
 

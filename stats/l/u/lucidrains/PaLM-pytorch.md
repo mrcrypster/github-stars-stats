@@ -1,10 +1,10 @@
 # lucidrains/PaLM-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 51
 
-★ Stars: 514
+★ Stars: 515
 
 [Open repository](https://github.com/lucidrains/PaLM-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 515 | 51 | 
 | 2023-01-28 | 514 | 51 | 
 | 2023-01-27 | 513 | 51 | 
 | 2023-01-26 | 513 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 497 | 47 | 
 | 2023-01-01 | 497 | 47 | 
 | 2022-12-31 | 492 | 47 | 
-| 2022-12-30 | 485 | 46 | 
 

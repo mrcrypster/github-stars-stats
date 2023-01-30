@@ -1,10 +1,10 @@
 # gelguy/wilder.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 16
 
-★ Stars: 917
+★ Stars: 918
 
 [Open repository](https://github.com/gelguy/wilder.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 918 | 16 | 
 | 2023-01-28 | 917 | 16 | 
 | 2023-01-27 | 913 | 16 | 
 | 2023-01-26 | 910 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 883 | 14 | 
 | 2023-01-01 | 882 | 14 | 
 | 2022-12-31 | 882 | 14 | 
-| 2022-12-30 | 882 | 14 | 
 

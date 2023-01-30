@@ -1,6 +1,6 @@
 # psywave-games/coco-battle-royale-2 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 17 | - | 
 | 2023-01-28 | 17 | - | 
 | 2023-01-27 | 17 | - | 
 | 2023-01-26 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 18 | - | 
 | 2023-01-01 | 18 | - | 
 | 2022-12-31 | 18 | - | 
-| 2022-12-30 | 18 | - | 
 

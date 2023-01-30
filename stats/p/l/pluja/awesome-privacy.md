@@ -1,10 +1,10 @@
 # pluja/awesome-privacy - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 356
+☋ Forks: 358
 
-★ Stars: 7974
+★ Stars: 7985
 
 [Open repository](https://github.com/pluja/awesome-privacy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7985 | 358 | 
 | 2023-01-28 | 7974 | 356 | 
 | 2023-01-27 | 7969 | 355 | 
 | 2023-01-26 | 7960 | 355 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 7637 | 337 | 
 | 2023-01-01 | 7619 | 337 | 
 | 2022-12-31 | 7605 | 337 | 
-| 2022-12-30 | 7597 | 337 | 
 

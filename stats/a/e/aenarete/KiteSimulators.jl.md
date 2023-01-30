@@ -1,6 +1,6 @@
 # aenarete/KiteSimulators.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 9 | 1 | 
 | 2023-01-28 | 9 | 1 | 
 | 2023-01-27 | 9 | 1 | 
 | 2023-01-26 | 9 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 9 | 1 | 
 | 2023-01-01 | 9 | 1 | 
 | 2022-12-31 | 9 | 1 | 
-| 2022-12-30 | 9 | 1 | 
 

@@ -1,6 +1,6 @@
 # deepmind/mujoco_mpc - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 260 | 23 | 
 | 2023-01-28 | 260 | 23 | 
 | 2023-01-27 | 259 | 23 | 
 | 2023-01-26 | 259 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 159 | 11 | 
 | 2023-01-01 | 158 | 11 | 
 | 2022-12-31 | 158 | 11 | 
-| 2022-12-30 | 158 | 11 | 
 

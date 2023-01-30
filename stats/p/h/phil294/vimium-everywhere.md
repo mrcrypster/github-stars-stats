@@ -1,6 +1,6 @@
 # phil294/vimium-everywhere - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 18 | 1 | 
 | 2023-01-28 | 18 | 1 | 
 | 2023-01-27 | 18 | 1 | 
 | 2023-01-26 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 15 | 1 | 
 | 2023-01-01 | 15 | 1 | 
 | 2022-12-31 | 15 | 1 | 
-| 2022-12-30 | 15 | 1 | 
 

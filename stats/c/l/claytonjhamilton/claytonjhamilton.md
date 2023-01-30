@@ -1,6 +1,6 @@
 # claytonjhamilton/claytonjhamilton - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 12 | 33 | 
 | 2023-01-28 | 12 | 33 | 
 | 2023-01-27 | 12 | 33 | 
 | 2023-01-26 | 12 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 11 | 35 | 
 | 2023-01-01 | 11 | 35 | 
 | 2022-12-31 | 11 | 35 | 
-| 2022-12-30 | 11 | 35 | 
 

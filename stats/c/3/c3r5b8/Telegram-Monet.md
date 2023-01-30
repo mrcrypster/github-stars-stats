@@ -1,10 +1,10 @@
 # c3r5b8/Telegram-Monet - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 12
 
-★ Stars: 332
+★ Stars: 336
 
 [Open repository](https://github.com/c3r5b8/Telegram-Monet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 336 | 12 | 
 | 2023-01-28 | 332 | 12 | 
 | 2023-01-27 | 332 | 12 | 
 | 2023-01-26 | 332 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 309 | 13 | 
 | 2023-01-01 | 307 | 13 | 
 | 2022-12-31 | 307 | 13 | 
-| 2022-12-30 | 306 | 13 | 
 

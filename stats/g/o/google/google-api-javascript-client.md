@@ -1,6 +1,6 @@
 # google/google-api-javascript-client - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1035
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2600 | 1035 | 
 | 2023-01-28 | 2600 | 1035 | 
 | 2023-01-27 | 2599 | 1035 | 
 | 2023-01-26 | 2598 | 1034 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2567 | 1028 | 
 | 2023-01-01 | 2567 | 1028 | 
 | 2022-12-31 | 2565 | 1028 | 
-| 2022-12-30 | 2565 | 1028 | 
 

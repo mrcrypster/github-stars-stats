@@ -1,10 +1,10 @@
 # ruricolist/cloture - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 6
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/ruricolist/cloture)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 341 | 6 | 
 | 2023-01-28 | 340 | 6 | 
 | 2023-01-27 | 340 | 6 | 
 | 2023-01-26 | 340 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 337 | 6 | 
 | 2023-01-02 | 337 | 6 | 
 | 2022-12-31 | 337 | 6 | 
-| 2022-12-30 | 337 | 6 | 
 

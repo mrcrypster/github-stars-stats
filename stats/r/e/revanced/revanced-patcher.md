@@ -1,10 +1,10 @@
 # revanced/revanced-patcher - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 1829
+★ Stars: 1830
 
 [Open repository](https://github.com/revanced/revanced-patcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1830 | 146 | 
 | 2023-01-28 | 1829 | 145 | 
 | 2023-01-27 | 1827 | 145 | 
 | 2023-01-26 | 1828 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 1809 | 141 | 
 | 2023-01-02 | 1809 | 141 | 
 | 2023-01-01 | 1806 | 141 | 
-| 2022-12-31 | 1805 | 142 | 
 

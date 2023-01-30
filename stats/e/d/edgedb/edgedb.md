@@ -1,10 +1,10 @@
 # edgedb/edgedb - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 295
 
-★ Stars: 10083
+★ Stars: 10090
 
 [Open repository](https://github.com/edgedb/edgedb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 10090 | 295 | 
 | 2023-01-28 | 10083 | 295 | 
 | 2023-01-27 | 10081 | 294 | 
 | 2023-01-26 | 10075 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 9946 | 288 | 
 | 2023-01-01 | 9937 | 288 | 
 | 2022-12-31 | 9929 | 288 | 
-| 2022-12-30 | 9905 | 287 | 
 

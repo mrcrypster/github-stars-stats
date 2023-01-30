@@ -1,8 +1,8 @@
 # datadicts/Intro-to-R-2ed - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 552
+☋ Forks: 553
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3 | 553 | 
 | 2023-01-28 | 3 | 552 | 
 | 2023-01-27 | 3 | 552 | 
 | 2023-01-26 | 3 | 552 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3 | 551 | 
 | 2023-01-01 | 3 | 551 | 
 | 2022-12-31 | 3 | 551 | 
-| 2022-12-30 | 3 | 551 | 
 

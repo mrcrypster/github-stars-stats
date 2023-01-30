@@ -1,10 +1,10 @@
 # BrentOzarULTD/SQL-Server-First-Responder-Kit - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 886
 
-★ Stars: 2815
+★ Stars: 2816
 
 [Open repository](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2816 | 886 | 
 | 2023-01-28 | 2815 | 886 | 
 | 2023-01-27 | 2815 | 886 | 
 | 2023-01-26 | 2815 | 886 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2794 | 875 | 
 | 2023-01-01 | 2794 | 875 | 
 | 2022-12-31 | 2794 | 875 | 
-| 2022-12-30 | 2794 | 875 | 
 

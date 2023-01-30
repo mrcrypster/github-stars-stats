@@ -1,10 +1,10 @@
 # cn-terraform/terraform-aws-ecs-fargate-service - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 45
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/cn-terraform/terraform-aws-ecs-fargate-service)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 59 | 45 | 
 | 2023-01-28 | 58 | 45 | 
 | 2023-01-27 | 58 | 45 | 
 | 2023-01-25 | 58 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 55 | 45 | 
 | 2023-01-02 | 55 | 45 | 
 | 2023-01-01 | 55 | 45 | 
-| 2022-12-31 | 55 | 45 | 
 

@@ -1,10 +1,10 @@
 # Eversmile12/create-web3-dapp - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 116
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/Eversmile12/create-web3-dapp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 376 | 116 | 
 | 2023-01-28 | 375 | 116 | 
 | 2023-01-27 | 372 | 114 | 
 | 2023-01-26 | 370 | 114 | 

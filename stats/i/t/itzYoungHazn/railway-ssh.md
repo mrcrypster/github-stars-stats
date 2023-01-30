@@ -1,10 +1,10 @@
 # itzYoungHazn/railway-ssh - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 33
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/itzYoungHazn/railway-ssh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 13 | 33 | 
 | 2023-01-28 | 12 | 33 | 
 | 2023-01-27 | 12 | 33 | 
 | 2023-01-26 | 12 | 33 | 

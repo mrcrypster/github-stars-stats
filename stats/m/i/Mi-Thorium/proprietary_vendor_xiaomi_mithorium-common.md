@@ -1,6 +1,6 @@
 # Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | - | 13 | 
 | 2023-01-28 | - | 13 | 
 | 2023-01-27 | - | 13 | 
 | 2023-01-26 | - | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | - | 10 | 
 | 2023-01-01 | - | 10 | 
 | 2022-12-31 | - | 10 | 
-| 2022-12-30 | - | 10 | 
 

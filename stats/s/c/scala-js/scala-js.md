@@ -1,10 +1,10 @@
 # scala-js/scala-js - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 384
 
-★ Stars: 4398
+★ Stars: 4400
 
 [Open repository](https://github.com/scala-js/scala-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 4400 | 384 | 
 | 2023-01-28 | 4398 | 384 | 
 | 2023-01-27 | 4397 | 384 | 
 | 2023-01-26 | 4397 | 384 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 4385 | 384 | 
 | 2023-01-01 | 4385 | 384 | 
 | 2022-12-31 | 4384 | 384 | 
-| 2022-12-30 | 4384 | 384 | 
 

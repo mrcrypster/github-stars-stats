@@ -1,6 +1,6 @@
 # emacsorphanage/pkg-info - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 54 | 8 | 
 | 2023-01-28 | 54 | 8 | 
 | 2023-01-27 | 54 | 8 | 
 | 2023-01-25 | 54 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 54 | 8 | 
 | 2023-01-02 | 54 | 8 | 
 | 2023-01-01 | 54 | 8 | 
-| 2022-12-31 | 54 | 8 | 
 

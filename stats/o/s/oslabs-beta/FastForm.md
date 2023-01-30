@@ -1,6 +1,6 @@
 # oslabs-beta/FastForm - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 43 | 6 | 
 | 2023-01-28 | 43 | 6 | 
 | 2023-01-27 | 43 | 6 | 
 | 2023-01-25 | 43 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 43 | 6 | 
 | 2023-01-02 | 43 | 6 | 
 | 2023-01-01 | 43 | 6 | 
-| 2022-12-31 | 43 | 6 | 
 

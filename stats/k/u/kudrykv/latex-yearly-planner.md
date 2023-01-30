@@ -1,6 +1,6 @@
 # kudrykv/latex-yearly-planner - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 429 | 48 | 
 | 2023-01-28 | 429 | 48 | 
 | 2023-01-27 | 427 | 47 | 
 | 2023-01-26 | 423 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 391 | 46 | 
 | 2023-01-01 | 387 | 46 | 
 | 2022-12-31 | 385 | 45 | 
-| 2022-12-30 | 382 | 44 | 
 

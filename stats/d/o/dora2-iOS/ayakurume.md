@@ -1,6 +1,6 @@
 # dora2-iOS/ayakurume - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 134 | 12 | 
 | 2023-01-28 | 134 | 12 | 
 | 2023-01-27 | 134 | 12 | 
 | 2023-01-25 | 133 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 132 | 12 | 
 | 2023-01-02 | 132 | 12 | 
 | 2023-01-01 | 132 | 12 | 
-| 2022-12-31 | 132 | 12 | 
 

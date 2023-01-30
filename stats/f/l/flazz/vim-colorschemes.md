@@ -1,6 +1,6 @@
 # flazz/vim-colorschemes - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 640
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3339 | 640 | 
 | 2023-01-28 | 3339 | 640 | 
 | 2023-01-27 | 3339 | 640 | 
 | 2023-01-26 | 3339 | 640 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3331 | 640 | 
 | 2023-01-01 | 3330 | 640 | 
 | 2022-12-31 | 3330 | 640 | 
-| 2022-12-30 | 3328 | 640 | 
 

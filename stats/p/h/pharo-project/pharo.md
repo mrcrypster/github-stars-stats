@@ -1,10 +1,10 @@
 # pharo-project/pharo - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 304
 
-★ Stars: 981
+★ Stars: 982
 
 [Open repository](https://github.com/pharo-project/pharo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 982 | 304 | 
 | 2023-01-28 | 981 | 304 | 
 | 2023-01-27 | 981 | 304 | 
 | 2023-01-26 | 981 | 304 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 973 | 304 | 
 | 2023-01-01 | 973 | 304 | 
 | 2022-12-31 | 972 | 304 | 
-| 2022-12-30 | 972 | 304 | 
 

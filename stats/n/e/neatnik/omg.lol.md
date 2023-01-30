@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 29
 
 ☋ Forks: 40
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/neatnik/omg.lol)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 263 | 40 | 
+| 2023-01-29 | 264 | 40 | 
 | 2023-01-28 | 263 | 40 | 
 | 2023-01-27 | 256 | 41 | 
 | 2023-01-26 | 255 | 41 | 

@@ -1,6 +1,6 @@
 # cp6/my-idlers - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 129 | 23 | 
 | 2023-01-28 | 129 | 23 | 
 | 2023-01-27 | 128 | 22 | 
 | 2023-01-26 | 128 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 125 | 20 | 
 | 2023-01-01 | 125 | 20 | 
 | 2022-12-31 | 125 | 20 | 
-| 2022-12-30 | 125 | 20 | 
 

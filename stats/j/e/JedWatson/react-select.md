@@ -1,10 +1,10 @@
 # JedWatson/react-select - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 3990
+☋ Forks: 3991
 
-★ Stars: 25698
+★ Stars: 25701
 
 [Open repository](https://github.com/JedWatson/react-select)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 25701 | 3991 | 
 | 2023-01-28 | 25698 | 3990 | 
 | 2023-01-27 | 25697 | 3990 | 
 | 2023-01-26 | 25699 | 3990 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 25615 | 3982 | 
 | 2023-01-01 | 25611 | 3982 | 
 | 2022-12-31 | 25608 | 3982 | 
-| 2022-12-30 | 25606 | 3982 | 
 

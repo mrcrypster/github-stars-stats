@@ -1,10 +1,10 @@
 # FengYun27/Sheep_Hair - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 49
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/FengYun27/Sheep_Hair)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 100 | 49 | 
 | 2023-01-28 | 99 | 49 | 
 | 2023-01-27 | 99 | 49 | 
 | 2023-01-26 | 99 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 99 | 50 | 
 | 2023-01-01 | 99 | 50 | 
 | 2022-12-31 | 99 | 50 | 
-| 2022-12-30 | 99 | 50 | 
 

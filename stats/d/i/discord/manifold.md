@@ -1,10 +1,10 @@
 # discord/manifold - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 59
 
-★ Stars: 1540
+★ Stars: 1539
 
 [Open repository](https://github.com/discord/manifold)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1539 | 59 | 
 | 2023-01-28 | 1540 | 59 | 
 | 2023-01-27 | 1540 | 59 | 
 | 2023-01-26 | 1540 | 59 | 

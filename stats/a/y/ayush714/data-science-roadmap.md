@@ -1,10 +1,10 @@
 # ayush714/data-science-roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 392
+★ Stars: 395
 
 [Open repository](https://github.com/ayush714/data-science-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 395 | 57 | 
 | 2023-01-28 | 392 | 56 | 
 | 2023-01-27 | 389 | 56 | 
 | 2023-01-26 | 387 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 361 | 55 | 
 | 2023-01-01 | 361 | 54 | 
 | 2022-12-31 | 361 | 52 | 
-| 2022-12-30 | 361 | 51 | 
 

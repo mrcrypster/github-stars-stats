@@ -1,6 +1,6 @@
 # divanov11/mumble2 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 87 | 64 | 
 | 2023-01-28 | 87 | 64 | 
 | 2023-01-27 | 87 | 63 | 
 | 2023-01-26 | 87 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 82 | 61 | 
 | 2023-01-01 | 82 | 61 | 
 | 2022-12-31 | 82 | 61 | 
-| 2022-12-30 | 82 | 61 | 
 

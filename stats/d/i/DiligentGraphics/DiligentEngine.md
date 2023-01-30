@@ -1,6 +1,6 @@
 # DiligentGraphics/DiligentEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2680 | 265 | 
 | 2023-01-28 | 2680 | 265 | 
 | 2023-01-27 | 2679 | 265 | 
 | 2023-01-26 | 2677 | 265 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2642 | 264 | 
 | 2023-01-01 | 2639 | 264 | 
 | 2022-12-31 | 2637 | 263 | 
-| 2022-12-30 | 2637 | 263 | 
 

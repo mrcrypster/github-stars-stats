@@ -1,10 +1,10 @@
 # tensorflow/tflite-micro - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 535
+☋ Forks: 536
 
-★ Stars: 1026
+★ Stars: 1029
 
 [Open repository](https://github.com/tensorflow/tflite-micro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1029 | 536 | 
 | 2023-01-28 | 1026 | 535 | 
 | 2023-01-27 | 1026 | 535 | 
 | 2023-01-26 | 1026 | 535 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 997 | 531 | 
 | 2023-01-01 | 997 | 531 | 
 | 2022-12-31 | 996 | 530 | 
-| 2022-12-30 | 995 | 530 | 
 

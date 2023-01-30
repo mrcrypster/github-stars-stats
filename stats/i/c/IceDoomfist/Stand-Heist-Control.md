@@ -1,10 +1,10 @@
 # IceDoomfist/Stand-Heist-Control - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 5
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/IceDoomfist/Stand-Heist-Control)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 15 | 5 | 
 | 2023-01-28 | 16 | 5 | 
 | 2023-01-27 | 16 | 5 | 
 | 2023-01-26 | 16 | 5 | 

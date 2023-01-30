@@ -1,10 +1,10 @@
 # microsoft/mimalloc - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 594
+☋ Forks: 595
 
-★ Stars: 7749
+★ Stars: 7754
 
 [Open repository](https://github.com/microsoft/mimalloc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7754 | 595 | 
 | 2023-01-28 | 7749 | 594 | 
 | 2023-01-27 | 7745 | 593 | 
 | 2023-01-26 | 7741 | 592 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 7624 | 581 | 
 | 2023-01-01 | 7617 | 581 | 
 | 2022-12-31 | 7614 | 581 | 
-| 2022-12-30 | 7612 | 581 | 
 

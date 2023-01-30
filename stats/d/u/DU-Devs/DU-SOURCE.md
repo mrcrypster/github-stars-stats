@@ -1,10 +1,10 @@
 # DU-Devs/DU-SOURCE - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/DU-Devs/DU-SOURCE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 2 | 5 | 
+| 2023-01-30 | 3 | 5 | 
+| 2023-01-29 | 3 | 5 | 
 | 2023-01-28 | 2 | 5 | 
 

@@ -1,10 +1,10 @@
 # aleksanderwozniak/table_calendar - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 758
+☋ Forks: 760
 
-★ Stars: 1481
+★ Stars: 1483
 
 [Open repository](https://github.com/aleksanderwozniak/table_calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1483 | 760 | 
 | 2023-01-28 | 1481 | 758 | 
 | 2023-01-27 | 1480 | 756 | 
 | 2023-01-26 | 1480 | 755 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1463 | 745 | 
 | 2023-01-01 | 1463 | 745 | 
 | 2022-12-31 | 1462 | 745 | 
-| 2022-12-30 | 1462 | 743 | 
 

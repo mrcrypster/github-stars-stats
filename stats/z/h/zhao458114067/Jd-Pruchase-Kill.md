@@ -1,10 +1,10 @@
 # zhao458114067/Jd-Pruchase-Kill - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/zhao458114067/Jd-Pruchase-Kill)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 67 | 30 | 
 | 2023-01-28 | 66 | 29 | 
 | 2023-01-27 | 64 | 28 | 
 | 2023-01-26 | 64 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 62 | 25 | 
 | 2023-01-01 | 62 | 25 | 
 | 2022-12-31 | 62 | 26 | 
-| 2022-12-30 | 62 | 26 | 
 

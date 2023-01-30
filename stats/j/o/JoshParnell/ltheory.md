@@ -1,10 +1,10 @@
 # JoshParnell/ltheory - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 65
 
-★ Stars: 291
+★ Stars: 292
 
 [Open repository](https://github.com/JoshParnell/ltheory)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 292 | 65 | 
 | 2023-01-28 | 291 | 65 | 
 | 2023-01-27 | 291 | 65 | 
 | 2023-01-26 | 291 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 288 | 64 | 
 | 2023-01-01 | 288 | 63 | 
 | 2022-12-31 | 288 | 63 | 
-| 2022-12-30 | 288 | 63 | 
 

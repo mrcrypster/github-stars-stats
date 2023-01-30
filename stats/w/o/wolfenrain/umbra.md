@@ -1,10 +1,10 @@
 # wolfenrain/umbra - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 10
 
-★ Stars: 192
+★ Stars: 194
 
 [Open repository](https://github.com/wolfenrain/umbra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 194 | 10 | 
 | 2023-01-28 | 192 | 10 | 
 | 2023-01-27 | 192 | 10 | 
 | 2023-01-26 | 191 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 189 | 9 | 
 | 2023-01-01 | 189 | 9 | 
 | 2022-12-31 | 189 | 9 | 
-| 2022-12-30 | 189 | 9 | 
 

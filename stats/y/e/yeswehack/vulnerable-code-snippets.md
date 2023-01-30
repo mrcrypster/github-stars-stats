@@ -1,10 +1,10 @@
 # yeswehack/vulnerable-code-snippets - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 38
 
-★ Stars: 508
+★ Stars: 509
 
 [Open repository](https://github.com/yeswehack/vulnerable-code-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 509 | 38 | 
 | 2023-01-28 | 508 | 38 | 
 | 2023-01-27 | 507 | 38 | 
 | 2023-01-26 | 505 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 456 | 31 | 
 | 2023-01-01 | 455 | 31 | 
 | 2022-12-31 | 454 | 31 | 
-| 2022-12-30 | 451 | 31 | 
 

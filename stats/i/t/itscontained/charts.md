@@ -1,6 +1,6 @@
 # itscontained/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 9 | 9 | 
 | 2023-01-28 | 9 | 9 | 
 | 2023-01-27 | 9 | 9 | 
 | 2023-01-26 | 9 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 9 | 8 | 
 | 2023-01-01 | 9 | 8 | 
 | 2022-12-31 | 9 | 8 | 
-| 2022-12-30 | 9 | 8 | 
 

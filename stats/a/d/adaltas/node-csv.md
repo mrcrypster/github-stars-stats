@@ -1,10 +1,10 @@
 # adaltas/node-csv - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 245
 
-★ Stars: 3457
+★ Stars: 3458
 
 [Open repository](https://github.com/adaltas/node-csv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3458 | 245 | 
 | 2023-01-28 | 3457 | 245 | 
 | 2023-01-27 | 3457 | 245 | 
 | 2023-01-26 | 3456 | 245 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3429 | 243 | 
 | 2023-01-01 | 3428 | 243 | 
 | 2022-12-31 | 3428 | 243 | 
-| 2022-12-30 | 3425 | 242 | 
 

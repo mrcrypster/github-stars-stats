@@ -1,10 +1,10 @@
 # codeigniter4/CodeIgniter4 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
-☋ Forks: 1714
+☋ Forks: 1715
 
-★ Stars: 4527
+★ Stars: 4528
 
 [Open repository](https://github.com/codeigniter4/CodeIgniter4)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 4528 | 1715 | 
 | 2023-01-28 | 4527 | 1714 | 
 | 2023-01-27 | 4525 | 1714 | 
 | 2023-01-26 | 4524 | 1712 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 4484 | 1707 | 
 | 2023-01-01 | 4483 | 1707 | 
 | 2022-12-31 | 4484 | 1706 | 
-| 2022-12-30 | 4484 | 1707 | 
 

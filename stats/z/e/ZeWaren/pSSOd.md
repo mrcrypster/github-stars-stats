@@ -1,6 +1,6 @@
 # ZeWaren/pSSOd - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 12 | 4 | 
 | 2023-01-29 | 12 | 4 | 
 | 2023-01-27 | 12 | 4 | 
 | 2023-01-26 | 12 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-02 | 12 | 4 | 
 | 2023-01-01 | 12 | 4 | 
 | 2022-12-31 | 12 | 4 | 
-| 2022-12-30 | 12 | 4 | 
 

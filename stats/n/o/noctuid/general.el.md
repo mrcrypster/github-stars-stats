@@ -1,10 +1,10 @@
 # noctuid/general.el - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 37
 
-★ Stars: 802
+★ Stars: 803
 
 [Open repository](https://github.com/noctuid/general.el)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 803 | 37 | 
+| 2023-01-29 | 803 | 37 | 
 | 2023-01-28 | 802 | 37 | 
 | 2023-01-27 | 802 | 37 | 
 | 2023-01-26 | 801 | 37 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 791 | 38 | 
 | 2023-01-01 | 791 | 38 | 
 | 2022-12-31 | 791 | 38 | 
-| 2022-12-30 | 789 | 38 | 
 

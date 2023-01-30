@@ -1,8 +1,8 @@
 # mikhama/async-race-api - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
-☋ Forks: 297
+☋ Forks: 296
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 20 | 296 | 
 | 2023-01-28 | 20 | 297 | 
 | 2023-01-27 | 20 | 297 | 
 | 2023-01-26 | 20 | 297 | 

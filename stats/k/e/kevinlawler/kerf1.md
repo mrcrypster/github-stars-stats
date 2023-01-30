@@ -1,10 +1,10 @@
 # kevinlawler/kerf1 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 36
 
-★ Stars: 523
+★ Stars: 524
 
 [Open repository](https://github.com/kevinlawler/kerf1)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 524 | 36 | 
 | 2023-01-28 | 523 | 36 | 
 | 2023-01-27 | 523 | 36 | 
 | 2023-01-26 | 523 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 520 | 36 | 
 | 2023-01-01 | 520 | 36 | 
 | 2022-12-31 | 520 | 36 | 
-| 2022-12-30 | 520 | 36 | 
 

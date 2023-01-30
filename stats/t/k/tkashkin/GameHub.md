@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 29
 
 ☋ Forks: 108
 
-★ Stars: 1967
+★ Stars: 1968
 
 [Open repository](https://github.com/tkashkin/GameHub)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 1967 | 108 | 
+| 2023-01-29 | 1968 | 108 | 
 | 2023-01-28 | 1967 | 108 | 
 | 2023-01-27 | 1966 | 108 | 
 | 2023-01-26 | 1966 | 108 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-02 | 1952 | 107 | 
 | 2023-01-01 | 1952 | 107 | 
 | 2022-12-31 | 1950 | 106 | 
-| 2022-12-30 | 1950 | 106 | 
 

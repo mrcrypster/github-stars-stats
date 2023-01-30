@@ -1,6 +1,6 @@
 # sweirich/pi-forall - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 458 | 79 | 
 | 2023-01-28 | 458 | 79 | 
 | 2023-01-27 | 457 | 79 | 
 | 2023-01-26 | 457 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 455 | 79 | 
 | 2023-01-01 | 455 | 79 | 
 | 2022-12-31 | 455 | 79 | 
-| 2022-12-30 | 455 | 79 | 
 

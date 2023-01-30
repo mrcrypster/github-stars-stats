@@ -1,10 +1,10 @@
 # andrewheiss/evalf22.classes.andrewheiss.com - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 14
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 44 | 14 | 
 | 2023-01-28 | 43 | 14 | 
 | 2023-01-27 | 43 | 14 | 
 | 2023-01-26 | 43 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 43 | 13 | 
 | 2023-01-01 | 43 | 13 | 
 | 2022-12-31 | 43 | 13 | 
-| 2022-12-30 | 43 | 13 | 
 

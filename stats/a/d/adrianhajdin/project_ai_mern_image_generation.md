@@ -1,10 +1,10 @@
 # adrianhajdin/project_ai_mern_image_generation - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 76
+☋ Forks: 79
 
-★ Stars: 266
+★ Stars: 273
 
 [Open repository](https://github.com/adrianhajdin/project_ai_mern_image_generation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 273 | 79 | 
 | 2023-01-28 | 266 | 76 | 
 | 2023-01-27 | 258 | 77 | 
 | 2023-01-26 | 243 | 75 | 

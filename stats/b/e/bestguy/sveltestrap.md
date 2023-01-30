@@ -1,6 +1,6 @@
 # bestguy/sveltestrap - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1134 | 164 | 
 | 2023-01-28 | 1134 | 164 | 
 | 2023-01-27 | 1135 | 165 | 
 | 2023-01-26 | 1133 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1115 | 165 | 
 | 2023-01-01 | 1114 | 165 | 
 | 2022-12-31 | 1111 | 165 | 
-| 2022-12-30 | 1110 | 165 | 
 

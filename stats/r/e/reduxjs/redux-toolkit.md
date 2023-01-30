@@ -1,10 +1,10 @@
 # reduxjs/redux-toolkit - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 885
+☋ Forks: 886
 
-★ Stars: 9061
+★ Stars: 9068
 
 [Open repository](https://github.com/reduxjs/redux-toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 9068 | 886 | 
 | 2023-01-28 | 9061 | 885 | 
 | 2023-01-27 | 9060 | 885 | 
 | 2023-01-26 | 9059 | 884 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 8955 | 863 | 
 | 2023-01-01 | 8951 | 864 | 
 | 2022-12-31 | 8946 | 864 | 
-| 2022-12-30 | 8938 | 863 | 
 

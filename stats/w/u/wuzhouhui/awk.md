@@ -1,10 +1,10 @@
 # wuzhouhui/awk - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 260
 
-★ Stars: 1252
+★ Stars: 1253
 
 [Open repository](https://github.com/wuzhouhui/awk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1253 | 260 | 
 | 2023-01-28 | 1252 | 260 | 
 | 2023-01-27 | 1252 | 260 | 
 | 2023-01-26 | 1252 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1245 | 257 | 
 | 2023-01-01 | 1245 | 257 | 
 | 2022-12-31 | 1245 | 257 | 
-| 2022-12-30 | 1245 | 257 | 
 

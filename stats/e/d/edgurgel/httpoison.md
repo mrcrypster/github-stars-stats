@@ -1,6 +1,6 @@
 # edgurgel/httpoison - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 346
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2110 | 346 | 
 | 2023-01-29 | 2110 | 346 | 
 | 2023-01-27 | 2110 | 346 | 
 | 2023-01-26 | 2110 | 346 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-02 | 2108 | 345 | 
 | 2023-01-01 | 2108 | 345 | 
 | 2022-12-31 | 2108 | 346 | 
-| 2022-12-30 | 2108 | 346 | 
 

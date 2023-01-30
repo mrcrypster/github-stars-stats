@@ -1,8 +1,8 @@
 # maykbrito/nlw-copa-card - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 15
+☋ Forks: 14
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 34 | 14 | 
 | 2023-01-28 | 34 | 15 | 
 | 2023-01-27 | 34 | 15 | 
 | 2023-01-26 | 34 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 34 | 14 | 
 | 2023-01-01 | 34 | 14 | 
 | 2022-12-31 | 34 | 14 | 
-| 2022-12-30 | 34 | 14 | 
 

@@ -1,10 +1,10 @@
 # BurntSushi/ripgrep - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1590
+☋ Forks: 1589
 
-★ Stars: 35440
+★ Stars: 35458
 
 [Open repository](https://github.com/BurntSushi/ripgrep)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 35458 | 1589 | 
 | 2023-01-28 | 35440 | 1590 | 
 | 2023-01-27 | 35417 | 1589 | 
 | 2023-01-26 | 35413 | 1588 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 35009 | 1564 | 
 | 2023-01-01 | 34999 | 1563 | 
 | 2022-12-31 | 34986 | 1561 | 
-| 2022-12-30 | 34975 | 1561 | 
 

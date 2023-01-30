@@ -1,10 +1,10 @@
 # bradleyq/mc_vanilla_shaders - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 4
 
-★ Stars: 139
+★ Stars: 141
 
 [Open repository](https://github.com/bradleyq/mc_vanilla_shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 141 | 4 | 
 | 2023-01-28 | 139 | 4 | 
 | 2023-01-27 | 139 | 4 | 
 | 2023-01-26 | 139 | 4 | 

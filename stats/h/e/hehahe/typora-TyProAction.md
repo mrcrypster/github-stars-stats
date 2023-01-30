@@ -1,10 +1,10 @@
 # hehahe/typora-TyProAction - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 20
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/hehahe/typora-TyProAction)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 28 | 20 | 
 | 2023-01-28 | 27 | 20 | 
 | 2023-01-27 | 27 | 20 | 
 | 2023-01-26 | 27 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 27 | 20 | 
 | 2023-01-01 | 27 | 20 | 
 | 2022-12-31 | 27 | 20 | 
-| 2022-12-30 | 27 | 20 | 
 

@@ -1,6 +1,6 @@
 # vullabs/Crassus - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 265 | 34 | 
 | 2023-01-28 | 265 | 34 | 
 | 2023-01-27 | 261 | 33 | 
 | 2023-01-26 | 258 | 32 | 

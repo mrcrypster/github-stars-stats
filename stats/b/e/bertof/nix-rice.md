@@ -1,6 +1,6 @@
 # bertof/nix-rice - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 61 | 1 | 
 | 2023-01-28 | 61 | 1 | 
 | 2023-01-27 | 61 | 1 | 
 | 2023-01-26 | 61 | 1 | 

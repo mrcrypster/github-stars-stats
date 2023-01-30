@@ -1,6 +1,6 @@
 # RNCryptor/RNCryptor-objc - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 242 | 64 | 
 | 2023-01-28 | 242 | 64 | 
 | 2023-01-27 | 242 | 64 | 
 | 2023-01-26 | 242 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 241 | 64 | 
 | 2023-01-01 | 241 | 64 | 
 | 2022-12-31 | 241 | 64 | 
-| 2022-12-30 | 241 | 64 | 
 

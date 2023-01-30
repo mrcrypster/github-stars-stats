@@ -1,10 +1,10 @@
 # ceres-solver/ceres-solver - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 921
 
-★ Stars: 2967
+★ Stars: 2968
 
 [Open repository](https://github.com/ceres-solver/ceres-solver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2968 | 921 | 
 | 2023-01-28 | 2967 | 921 | 
 | 2023-01-27 | 2966 | 921 | 
 | 2023-01-26 | 2966 | 921 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2938 | 919 | 
 | 2023-01-01 | 2938 | 920 | 
 | 2022-12-31 | 2936 | 920 | 
-| 2022-12-30 | 2936 | 920 | 
 

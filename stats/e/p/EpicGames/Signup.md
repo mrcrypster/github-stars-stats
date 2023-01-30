@@ -1,8 +1,8 @@
 # EpicGames/Signup - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 2664
+☋ Forks: 2665
 
 ★ Stars: 2639
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2639 | 2665 | 
 | 2023-01-28 | 2639 | 2664 | 
 | 2023-01-27 | 2638 | 2664 | 
 | 2023-01-26 | 2638 | 2664 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2630 | 2658 | 
 | 2023-01-01 | 2630 | 2657 | 
 | 2022-12-31 | 2629 | 2657 | 
-| 2022-12-30 | 2626 | 2657 | 
 

@@ -1,6 +1,6 @@
 # aiheihe/WeNeedHome - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 141 | 13 | 
 | 2023-01-28 | 141 | 13 | 
 | 2023-01-27 | 141 | 13 | 
 | 2023-01-26 | 141 | 13 | 

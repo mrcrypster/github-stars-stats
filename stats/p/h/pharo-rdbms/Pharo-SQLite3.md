@@ -1,6 +1,6 @@
 # pharo-rdbms/Pharo-SQLite3 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 19 | 17 | 
 | 2023-01-28 | 19 | 17 | 
 | 2023-01-27 | 19 | 17 | 
 | 2023-01-26 | 19 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 19 | 17 | 
 | 2023-01-01 | 19 | 17 | 
 | 2022-12-31 | 19 | 17 | 
-| 2022-12-30 | 19 | 17 | 
 

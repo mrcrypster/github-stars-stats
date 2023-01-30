@@ -1,10 +1,10 @@
 # Shopify/polaris - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1021
+☋ Forks: 1020
 
-★ Stars: 5172
+★ Stars: 5173
 
 [Open repository](https://github.com/Shopify/polaris)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 5173 | 1020 | 
 | 2023-01-28 | 5172 | 1021 | 
 | 2023-01-27 | 5170 | 1021 | 
 | 2023-01-26 | 5169 | 1021 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 5131 | 1008 | 
 | 2023-01-01 | 5126 | 1008 | 
 | 2022-12-31 | 5126 | 1007 | 
-| 2022-12-30 | 5124 | 1007 | 
 

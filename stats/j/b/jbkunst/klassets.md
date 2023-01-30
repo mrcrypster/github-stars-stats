@@ -1,6 +1,6 @@
 # jbkunst/klassets - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 64 | 9 | 
 | 2023-01-28 | 64 | 9 | 
 | 2023-01-27 | 64 | 9 | 
 | 2023-01-26 | 64 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 64 | 9 | 
 | 2023-01-01 | 64 | 9 | 
 | 2022-12-31 | 64 | 9 | 
-| 2022-12-30 | 64 | 9 | 
 

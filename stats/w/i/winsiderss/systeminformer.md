@@ -1,10 +1,10 @@
 # winsiderss/systeminformer - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1173
 
-★ Stars: 8449
+★ Stars: 8452
 
 [Open repository](https://github.com/winsiderss/systeminformer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 8452 | 1173 | 
 | 2023-01-29 | 8449 | 1173 | 
 | 2023-01-27 | 8446 | 1173 | 
 | 2023-01-26 | 8444 | 1172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 8353 | 1163 | 
 | 2023-01-02 | 8349 | 1162 | 
 | 2023-01-01 | 8348 | 1162 | 
-| 2022-12-31 | 8344 | 1162 | 
 

@@ -1,10 +1,10 @@
 # holoviz/panel - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 314
 
-★ Stars: 2530
+★ Stars: 2534
 
 [Open repository](https://github.com/holoviz/panel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2534 | 314 | 
 | 2023-01-28 | 2530 | 314 | 
 | 2023-01-27 | 2522 | 314 | 
 | 2023-01-26 | 2517 | 314 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2458 | 314 | 
 | 2023-01-01 | 2457 | 313 | 
 | 2022-12-31 | 2457 | 314 | 
-| 2022-12-30 | 2456 | 314 | 
 

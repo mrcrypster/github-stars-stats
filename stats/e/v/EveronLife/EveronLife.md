@@ -1,8 +1,8 @@
 # EveronLife/EveronLife - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 40
+☋ Forks: 39
 
 ★ Stars: 95
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 95 | 39 | 
 | 2023-01-28 | 95 | 40 | 
 | 2023-01-27 | 95 | 40 | 
 | 2023-01-26 | 95 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 95 | 39 | 
 | 2023-01-01 | 94 | 39 | 
 | 2022-12-31 | 94 | 39 | 
-| 2022-12-30 | 94 | 39 | 
 

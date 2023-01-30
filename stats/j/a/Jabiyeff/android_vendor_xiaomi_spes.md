@@ -1,6 +1,6 @@
 # Jabiyeff/android_vendor_xiaomi_spes - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6 | 14 | 
 | 2023-01-28 | 6 | 14 | 
 | 2023-01-27 | 6 | 14 | 
 | 2023-01-26 | 6 | 14 | 

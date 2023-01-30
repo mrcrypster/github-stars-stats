@@ -1,6 +1,6 @@
 # tianocore/edk2-non-osi - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 45 | 62 | 
 | 2023-01-28 | 45 | 62 | 
 | 2023-01-27 | 45 | 62 | 
 | 2023-01-26 | 45 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 45 | 62 | 
 | 2023-01-02 | 45 | 62 | 
 | 2023-01-01 | 45 | 62 | 
-| 2022-12-31 | 45 | 62 | 
 

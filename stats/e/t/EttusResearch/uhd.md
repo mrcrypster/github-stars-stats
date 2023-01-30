@@ -1,10 +1,10 @@
 # EttusResearch/uhd - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 585
+☋ Forks: 584
 
-★ Stars: 747
+★ Stars: 748
 
 [Open repository](https://github.com/EttusResearch/uhd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 748 | 584 | 
 | 2023-01-28 | 747 | 585 | 
 | 2023-01-27 | 747 | 586 | 
 | 2023-01-26 | 747 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 738 | 583 | 
 | 2023-01-01 | 738 | 582 | 
 | 2022-12-31 | 738 | 582 | 
-| 2022-12-30 | 738 | 582 | 
 

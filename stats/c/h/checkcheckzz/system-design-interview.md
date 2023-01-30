@@ -1,10 +1,10 @@
 # checkcheckzz/system-design-interview - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 4761
 
-★ Stars: 19362
+★ Stars: 19365
 
 [Open repository](https://github.com/checkcheckzz/system-design-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 19365 | 4761 | 
 | 2023-01-28 | 19362 | 4761 | 
 | 2023-01-27 | 19357 | 4763 | 
 | 2023-01-26 | 19353 | 4763 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 19248 | 4755 | 
 | 2023-01-01 | 19242 | 4754 | 
 | 2022-12-31 | 19239 | 4753 | 
-| 2022-12-30 | 19237 | 4752 | 
 

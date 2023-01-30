@@ -1,6 +1,6 @@
 # ucsd-progsys/liquid-fixpoint - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 49
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 107 | 49 | 
+| 2023-01-29 | 107 | 49 | 
 | 2023-01-28 | 107 | 49 | 
 | 2023-01-27 | 107 | 49 | 
 | 2023-01-26 | 107 | 49 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 107 | 49 | 
 | 2023-01-01 | 107 | 48 | 
 | 2022-12-31 | 107 | 48 | 
-| 2022-12-30 | 107 | 48 | 
 

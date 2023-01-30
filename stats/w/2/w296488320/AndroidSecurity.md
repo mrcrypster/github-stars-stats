@@ -1,10 +1,10 @@
 # w296488320/AndroidSecurity - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 44
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/w296488320/AndroidSecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 137 | 44 | 
 | 2023-01-28 | 136 | 44 | 
 | 2023-01-27 | 136 | 44 | 
 | 2023-01-26 | 136 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 135 | 42 | 
 | 2023-01-01 | 135 | 42 | 
 | 2022-12-31 | 135 | 42 | 
-| 2022-12-30 | 135 | 42 | 
 

@@ -1,6 +1,6 @@
 # mortberg/cubicaltt - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 529 | 75 | 
 | 2023-01-28 | 529 | 75 | 
 | 2023-01-27 | 529 | 75 | 
 | 2023-01-26 | 529 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 529 | 74 | 
 | 2023-01-01 | 529 | 74 | 
 | 2022-12-31 | 529 | 74 | 
-| 2022-12-30 | 529 | 74 | 
 

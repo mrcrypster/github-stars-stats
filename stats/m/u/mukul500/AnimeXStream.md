@@ -1,10 +1,10 @@
 # mukul500/AnimeXStream - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 200
 
-★ Stars: 2259
+★ Stars: 2260
 
 [Open repository](https://github.com/mukul500/AnimeXStream)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2260 | 200 | 
 | 2023-01-28 | 2259 | 200 | 
 | 2023-01-27 | 2259 | 200 | 
 | 2023-01-26 | 2258 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2228 | 198 | 
 | 2023-01-01 | 2226 | 198 | 
 | 2022-12-31 | 2225 | 198 | 
-| 2022-12-30 | 2225 | 198 | 
 

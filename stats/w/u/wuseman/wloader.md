@@ -1,6 +1,6 @@
 # wuseman/wloader - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 161 | 39 | 
 | 2023-01-28 | 161 | 39 | 
 | 2023-01-27 | 161 | 39 | 
 | 2023-01-25 | 161 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 159 | 39 | 
 | 2023-01-02 | 159 | 39 | 
 | 2023-01-01 | 159 | 39 | 
-| 2022-12-31 | 159 | 39 | 
 

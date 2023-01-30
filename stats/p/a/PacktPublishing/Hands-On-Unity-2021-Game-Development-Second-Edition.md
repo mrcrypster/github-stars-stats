@@ -1,6 +1,6 @@
 # PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 32 | 16 | 
 | 2023-01-28 | 32 | 16 | 
 | 2023-01-27 | 32 | 16 | 
 | 2023-01-26 | 32 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 31 | 14 | 
 | 2023-01-01 | 31 | 14 | 
 | 2022-12-31 | 30 | 14 | 
-| 2022-12-30 | 30 | 14 | 
 

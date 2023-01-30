@@ -1,10 +1,10 @@
 # PatilShreyas/NotyKT - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 195
 
-★ Stars: 1424
+★ Stars: 1425
 
 [Open repository](https://github.com/PatilShreyas/NotyKT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1425 | 195 | 
 | 2023-01-28 | 1424 | 195 | 
 | 2023-01-27 | 1424 | 195 | 
 | 2023-01-26 | 1424 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1397 | 192 | 
 | 2023-01-01 | 1394 | 191 | 
 | 2022-12-31 | 1393 | 191 | 
-| 2022-12-30 | 1392 | 191 | 
 

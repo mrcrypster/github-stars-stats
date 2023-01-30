@@ -1,10 +1,10 @@
 # utkusen/socialhunter - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 44
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/utkusen/socialhunter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 395 | 44 | 
 | 2023-01-28 | 394 | 44 | 
 | 2023-01-27 | 391 | 44 | 
 | 2023-01-25 | 391 | 44 | 

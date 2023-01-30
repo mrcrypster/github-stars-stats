@@ -1,10 +1,10 @@
 # dark-kingA/superSearchPlus - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 21
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/dark-kingA/superSearchPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 272 | 21 | 
 | 2023-01-28 | 271 | 21 | 
 | 2023-01-27 | 271 | 21 | 
 | 2023-01-26 | 271 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 256 | 21 | 
 | 2023-01-01 | 253 | 21 | 
 | 2022-12-31 | 252 | 21 | 
-| 2022-12-30 | 249 | 21 | 
 

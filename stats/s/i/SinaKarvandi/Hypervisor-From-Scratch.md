@@ -1,10 +1,10 @@
 # SinaKarvandi/Hypervisor-From-Scratch - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 228
 
-★ Stars: 1416
+★ Stars: 1417
 
 [Open repository](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1417 | 228 | 
 | 2023-01-28 | 1416 | 228 | 
 | 2023-01-27 | 1415 | 228 | 
 | 2023-01-26 | 1415 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1396 | 227 | 
 | 2023-01-01 | 1394 | 226 | 
 | 2022-12-31 | 1394 | 225 | 
-| 2022-12-30 | 1394 | 225 | 
 

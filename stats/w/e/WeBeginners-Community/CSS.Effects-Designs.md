@@ -1,10 +1,10 @@
 # WeBeginners-Community/CSS.Effects-Designs - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/WeBeginners-Community/CSS.Effects-Designs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 104 | 174 | 
 | 2023-01-28 | 103 | 173 | 
 | 2023-01-27 | 102 | 171 | 
 | 2023-01-26 | 102 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 75 | 120 | 
 | 2023-01-01 | 71 | 116 | 
 | 2022-12-31 | 71 | 116 | 
-| 2022-12-30 | 70 | 116 | 
 

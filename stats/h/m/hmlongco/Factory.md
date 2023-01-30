@@ -1,10 +1,10 @@
 # hmlongco/Factory - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 47
 
-★ Stars: 667
+★ Stars: 668
 
 [Open repository](https://github.com/hmlongco/Factory)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 668 | 47 | 
 | 2023-01-28 | 667 | 47 | 
 | 2023-01-27 | 664 | 47 | 
 | 2023-01-26 | 659 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 572 | 43 | 
 | 2023-01-01 | 572 | 43 | 
 | 2022-12-31 | 571 | 43 | 
-| 2022-12-30 | 569 | 43 | 
 

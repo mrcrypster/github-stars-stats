@@ -1,6 +1,6 @@
 # prabirshrestha/asyncomplete-buffer.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 40 | 11 | 
 | 2023-01-28 | 40 | 11 | 
 | 2023-01-27 | 39 | 11 | 
 | 2023-01-26 | 39 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 38 | 12 | 
 | 2023-01-01 | 38 | 12 | 
 | 2022-12-31 | 38 | 12 | 
-| 2022-12-30 | 38 | 12 | 
 

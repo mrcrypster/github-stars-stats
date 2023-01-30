@@ -1,6 +1,6 @@
 # victor-iyif/ferventdeserte - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 246 | 113 | 
 | 2023-01-28 | 246 | 113 | 
 | 2023-01-27 | 246 | 113 | 
 | 2023-01-26 | 246 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 246 | 113 | 
 | 2023-01-01 | 246 | 113 | 
 | 2022-12-31 | 246 | 113 | 
-| 2022-12-30 | 246 | 113 | 
 

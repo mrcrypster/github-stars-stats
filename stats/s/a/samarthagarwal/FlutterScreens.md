@@ -1,10 +1,10 @@
 # samarthagarwal/FlutterScreens - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1268
 
-★ Stars: 5019
+★ Stars: 5023
 
 [Open repository](https://github.com/samarthagarwal/FlutterScreens)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 5023 | 1268 | 
 | 2023-01-28 | 5019 | 1268 | 
 | 2023-01-27 | 5020 | 1267 | 
 | 2023-01-26 | 5022 | 1268 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 5000 | 1256 | 
 | 2023-01-01 | 5000 | 1256 | 
 | 2022-12-31 | 5000 | 1256 | 
-| 2022-12-30 | 4997 | 1255 | 
 

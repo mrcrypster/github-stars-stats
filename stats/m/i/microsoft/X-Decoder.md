@@ -1,10 +1,10 @@
 # microsoft/X-Decoder - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 20
 
-★ Stars: 321
+★ Stars: 322
 
 [Open repository](https://github.com/microsoft/X-Decoder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 322 | 20 | 
 | 2023-01-28 | 321 | 20 | 
 | 2023-01-27 | 320 | 20 | 
 | 2023-01-26 | 316 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 260 | 16 | 
 | 2023-01-01 | 258 | 16 | 
 | 2022-12-31 | 249 | 16 | 
-| 2022-12-30 | 242 | 16 | 
 

@@ -1,6 +1,6 @@
 # EngineersNeedArt/Adam74 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 41 | - | 
 | 2023-01-29 | 41 | - | 
 | 2023-01-28 | 41 | - | 
 | 2023-01-26 | 41 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 41 | - | 
 | 2023-01-02 | 41 | - | 
 | 2022-12-31 | 41 | - | 
-| 2022-12-30 | 41 | - | 
 

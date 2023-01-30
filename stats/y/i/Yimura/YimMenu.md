@@ -1,8 +1,8 @@
 # Yimura/YimMenu - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
-☋ Forks: 157
+☋ Forks: 155
 
 ★ Stars: 364
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 364 | 155 | 
 | 2023-01-28 | 364 | 157 | 
 | 2023-01-27 | 363 | 157 | 
 | 2023-01-26 | 361 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 319 | 147 | 
 | 2023-01-01 | 317 | 147 | 
 | 2022-12-31 | 311 | 148 | 
-| 2022-12-30 | 307 | 147 | 
 

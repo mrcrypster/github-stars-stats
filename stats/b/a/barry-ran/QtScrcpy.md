@@ -1,10 +1,10 @@
 # barry-ran/QtScrcpy - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1477
+☋ Forks: 1476
 
-★ Stars: 8628
+★ Stars: 8643
 
 [Open repository](https://github.com/barry-ran/QtScrcpy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 8643 | 1476 | 
 | 2023-01-28 | 8628 | 1477 | 
 | 2023-01-27 | 8621 | 1476 | 
 | 2023-01-26 | 8614 | 1476 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 8453 | 1460 | 
 | 2023-01-01 | 8445 | 1461 | 
 | 2022-12-31 | 8438 | 1461 | 
-| 2022-12-30 | 8431 | 1461 | 
 

@@ -1,6 +1,6 @@
 # nathanreyes/v-calendar - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 746
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3698 | 746 | 
 | 2023-01-28 | 3698 | 746 | 
 | 2023-01-27 | 3696 | 746 | 
 | 2023-01-26 | 3695 | 746 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 3671 | 736 | 
 | 2023-01-02 | 3671 | 734 | 
 | 2022-12-31 | 3671 | 734 | 
-| 2022-12-30 | 3670 | 734 | 
 

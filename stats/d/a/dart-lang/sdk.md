@@ -1,8 +1,8 @@
 # dart-lang/sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1386
+☋ Forks: 1388
 
 ★ Stars: 8801
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 8801 | 1388 | 
 | 2023-01-28 | 8801 | 1386 | 
 | 2023-01-27 | 8796 | 1386 | 
 | 2023-01-26 | 8792 | 1386 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 8733 | 1371 | 
 | 2023-01-01 | 8733 | 1371 | 
 | 2022-12-31 | 8731 | 1371 | 
-| 2022-12-30 | 8724 | 1370 | 
 

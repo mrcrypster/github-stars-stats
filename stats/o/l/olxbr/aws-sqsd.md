@@ -1,6 +1,6 @@
 # olxbr/aws-sqsd - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6 | 2 | 
 | 2023-01-28 | 6 | 2 | 
 | 2023-01-27 | 6 | 2 | 
 | 2023-01-26 | 6 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 6 | 2 | 
 | 2023-01-02 | 6 | 2 | 
 | 2023-01-01 | 6 | 2 | 
-| 2022-12-31 | 6 | 2 | 
 

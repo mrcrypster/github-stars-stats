@@ -1,10 +1,10 @@
 # WebAssembly/wabt - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 571
 
-★ Stars: 5119
+★ Stars: 5121
 
 [Open repository](https://github.com/WebAssembly/wabt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 5121 | 571 | 
 | 2023-01-28 | 5119 | 571 | 
 | 2023-01-27 | 5117 | 570 | 
 | 2023-01-26 | 5112 | 570 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 5046 | 564 | 
 | 2023-01-02 | 5046 | 564 | 
 | 2023-01-01 | 5045 | 564 | 
-| 2022-12-31 | 5043 | 564 | 
 

@@ -1,6 +1,6 @@
 # TheStrechh/android_vendor_xiaomi_surya - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1 | 2 | 
 | 2023-01-28 | 1 | 2 | 
 | 2023-01-27 | 1 | 2 | 
 | 2023-01-26 | 1 | 1 | 

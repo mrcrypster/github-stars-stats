@@ -1,10 +1,10 @@
 # elk-zone/elk - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 174
+☋ Forks: 185
 
-★ Stars: 2412
+★ Stars: 2448
 
 [Open repository](https://github.com/elk-zone/elk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2448 | 185 | 
 | 2023-01-28 | 2412 | 174 | 
 | 2023-01-27 | 2405 | 173 | 
 | 2023-01-26 | 2381 | 171 | 

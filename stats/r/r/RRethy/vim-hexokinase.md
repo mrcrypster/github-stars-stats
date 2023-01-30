@@ -1,10 +1,10 @@
 # RRethy/vim-hexokinase - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 17
 
-★ Stars: 956
+★ Stars: 955
 
 [Open repository](https://github.com/RRethy/vim-hexokinase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 955 | 17 | 
 | 2023-01-28 | 956 | 17 | 
 | 2023-01-27 | 956 | 17 | 
 | 2023-01-26 | 957 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 953 | 17 | 
 | 2023-01-01 | 954 | 17 | 
 | 2022-12-31 | 954 | 17 | 
-| 2022-12-30 | 954 | 17 | 
 

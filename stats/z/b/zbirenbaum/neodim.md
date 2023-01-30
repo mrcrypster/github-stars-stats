@@ -1,6 +1,6 @@
 # zbirenbaum/neodim - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 140 | 5 | 
 | 2023-01-28 | 140 | 5 | 
 | 2023-01-27 | 139 | 5 | 
 | 2023-01-26 | 139 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 124 | 5 | 
 | 2023-01-02 | 124 | 5 | 
 | 2023-01-01 | 122 | 5 | 
-| 2022-12-31 | 119 | 5 | 
 

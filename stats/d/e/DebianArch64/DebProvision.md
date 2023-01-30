@@ -1,10 +1,10 @@
 # DebianArch64/DebProvision - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 48
 
-★ Stars: 432
+★ Stars: 436
 
 [Open repository](https://github.com/DebianArch64/DebProvision)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 436 | 48 | 
 | 2023-01-28 | 432 | 48 | 
 | 2023-01-27 | 431 | 48 | 
 | 2023-01-26 | 431 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 374 | 36 | 
 | 2023-01-01 | 372 | 36 | 
 | 2022-12-31 | 370 | 36 | 
-| 2022-12-30 | 368 | 36 | 
 

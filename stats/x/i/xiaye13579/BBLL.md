@@ -1,10 +1,10 @@
 # xiaye13579/BBLL - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 2218
+★ Stars: 2316
 
 [Open repository](https://github.com/xiaye13579/BBLL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2316 | 63 | 
 | 2023-01-28 | 2218 | 62 | 
 | 2023-01-27 | 2111 | 61 | 
 | 2023-01-26 | 2035 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 375 | 11 | 
 | 2023-01-01 | 353 | 11 | 
 | 2022-12-31 | 328 | 9 | 
-| 2022-12-30 | 317 | 9 | 
 

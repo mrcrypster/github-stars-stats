@@ -1,10 +1,10 @@
 # Oak-Harbor-Kits/Starter-Kit-V4-Eleventy - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/Oak-Harbor-Kits/Starter-Kit-V4-Eleventy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 80 | 28 | 
 | 2023-01-28 | 79 | 27 | 
 | 2023-01-27 | 79 | 27 | 
 | 2023-01-26 | 78 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 61 | 16 | 
 | 2023-01-01 | 61 | 16 | 
 | 2022-12-31 | 60 | 16 | 
-| 2022-12-30 | 60 | 16 | 
 

@@ -1,6 +1,6 @@
 # JSsixtyfour/smashremix - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 426 | 35 | 
 | 2023-01-28 | 426 | 35 | 
 | 2023-01-27 | 426 | 35 | 
 | 2023-01-26 | 426 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 420 | 36 | 
 | 2023-01-01 | 420 | 36 | 
 | 2022-12-31 | 420 | 36 | 
-| 2022-12-30 | 420 | 36 | 
 

@@ -1,10 +1,10 @@
 # spaceship-prompt/spaceship-prompt - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 952
 
-★ Stars: 17944
+★ Stars: 17947
 
 [Open repository](https://github.com/spaceship-prompt/spaceship-prompt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 17947 | 952 | 
 | 2023-01-28 | 17944 | 952 | 
 | 2023-01-27 | 17938 | 952 | 
 | 2023-01-26 | 17936 | 952 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 17869 | 951 | 
 | 2023-01-01 | 17863 | 951 | 
 | 2022-12-31 | 17863 | 951 | 
-| 2022-12-30 | 17862 | 951 | 
 

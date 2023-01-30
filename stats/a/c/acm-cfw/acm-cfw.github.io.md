@@ -1,6 +1,6 @@
 # acm-cfw/acm-cfw.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 34 | - | 
 | 2023-01-28 | 34 | - | 
 | 2023-01-27 | 34 | - | 
 | 2023-01-26 | 33 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 26 | - | 
 | 2023-01-01 | 25 | - | 
 | 2022-12-31 | 24 | - | 
-| 2022-12-30 | 21 | - | 
 

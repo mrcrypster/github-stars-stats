@@ -1,6 +1,6 @@
 # raphaelfabeni/css-loader - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1201 | 152 | 
 | 2023-01-28 | 1201 | 152 | 
 | 2023-01-27 | 1200 | 152 | 
 | 2023-01-26 | 1200 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1198 | 152 | 
 | 2023-01-01 | 1198 | 152 | 
 | 2022-12-31 | 1198 | 152 | 
-| 2022-12-30 | 1198 | 152 | 
 

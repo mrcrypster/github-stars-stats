@@ -1,6 +1,6 @@
 # yaroslav-n/tweetGPT - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 475 | 55 | 
 | 2023-01-28 | 475 | 55 | 
 | 2023-01-27 | 475 | 55 | 
 | 2023-01-26 | 474 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 278 | 32 | 
 | 2023-01-01 | 278 | 32 | 
 | 2022-12-31 | 278 | 32 | 
-| 2022-12-30 | 277 | 32 | 
 

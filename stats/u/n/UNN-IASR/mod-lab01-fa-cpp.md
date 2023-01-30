@@ -1,6 +1,6 @@
 # UNN-IASR/mod-lab01-fa-cpp - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | - | 42 | 
 | 2023-01-28 | - | 42 | 
 | 2023-01-27 | - | 42 | 
 | 2023-01-26 | - | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | - | 43 | 
 | 2023-01-01 | - | 43 | 
 | 2022-12-31 | - | 43 | 
-| 2022-12-30 | - | 43 | 
 

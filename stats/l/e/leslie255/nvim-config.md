@@ -1,10 +1,10 @@
 # leslie255/nvim-config - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 43
 
-★ Stars: 267
+★ Stars: 266
 
 [Open repository](https://github.com/leslie255/nvim-config)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 266 | 43 | 
 | 2023-01-28 | 267 | 43 | 
 | 2023-01-27 | 266 | 43 | 
 | 2023-01-26 | 265 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 250 | 40 | 
 | 2023-01-01 | 250 | 40 | 
 | 2022-12-31 | 250 | 40 | 
-| 2022-12-30 | 250 | 40 | 
 

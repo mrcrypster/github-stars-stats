@@ -1,10 +1,10 @@
 # tusharkhatriofficial/Blogify - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 8
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/tusharkhatriofficial/Blogify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 10 | 8 | 
 | 2023-01-28 | 9 | 8 | 
 | 2023-01-27 | 9 | 8 | 
 | 2023-01-26 | 9 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 9 | 8 | 
 | 2023-01-01 | 9 | 8 | 
 | 2022-12-31 | 9 | 8 | 
-| 2022-12-30 | 9 | 8 | 
 

@@ -1,6 +1,6 @@
 # Drakenwolf/Nft_Staking_System - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 52 | 34 | 
 | 2023-01-28 | 52 | 34 | 
 | 2023-01-27 | 52 | 34 | 
 | 2023-01-26 | 52 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 51 | 33 | 
 | 2023-01-01 | 51 | 33 | 
 | 2022-12-31 | 50 | 33 | 
-| 2022-12-30 | 50 | 33 | 
 

@@ -1,6 +1,6 @@
 # mentat-collective/leva.cljs - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 20 | 1 | 
 | 2023-01-28 | 20 | 1 | 
 | 2023-01-27 | 20 | 1 | 
 | 2023-01-26 | 20 | 1 | 

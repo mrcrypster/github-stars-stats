@@ -1,8 +1,8 @@
 # AayushBiswas/hacktoberfest_2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 34
+☋ Forks: 33
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 12 | 33 | 
 | 2023-01-28 | 12 | 34 | 
 | 2023-01-27 | 12 | 34 | 
 | 2023-01-26 | 12 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 12 | 34 | 
 | 2023-01-01 | 12 | 35 | 
 | 2022-12-31 | 12 | 35 | 
-| 2022-12-30 | 12 | 35 | 
 

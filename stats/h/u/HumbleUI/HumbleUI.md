@@ -1,10 +1,10 @@
 # HumbleUI/HumbleUI - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 24
 
-★ Stars: 725
+★ Stars: 728
 
 [Open repository](https://github.com/HumbleUI/HumbleUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 728 | 24 | 
 | 2023-01-28 | 725 | 24 | 
 | 2023-01-27 | 725 | 24 | 
 | 2023-01-26 | 725 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 685 | 24 | 
 | 2023-01-01 | 685 | 24 | 
 | 2022-12-31 | 685 | 24 | 
-| 2022-12-30 | 685 | 24 | 
 

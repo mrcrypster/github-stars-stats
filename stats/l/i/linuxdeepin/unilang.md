@@ -1,8 +1,8 @@
 # linuxdeepin/unilang - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 34
+☋ Forks: 36
 
 ★ Stars: 544
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 544 | 36 | 
 | 2023-01-28 | 544 | 34 | 
 | 2023-01-27 | 543 | 34 | 
 | 2023-01-26 | 543 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 538 | 32 | 
 | 2023-01-01 | 538 | 32 | 
 | 2022-12-31 | 538 | 32 | 
-| 2022-12-30 | 537 | 32 | 
 

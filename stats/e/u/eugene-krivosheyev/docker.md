@@ -1,6 +1,6 @@
 # eugene-krivosheyev/docker - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3 | 64 | 
 | 2023-01-28 | 3 | 64 | 
 | 2023-01-27 | 3 | 64 | 
 | 2023-01-26 | 3 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3 | 64 | 
 | 2023-01-01 | 3 | 64 | 
 | 2022-12-31 | 3 | 64 | 
-| 2022-12-30 | 3 | 64 | 
 

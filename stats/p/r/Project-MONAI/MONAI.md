@@ -1,10 +1,10 @@
 # Project-MONAI/MONAI - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 715
 
-★ Stars: 3741
+★ Stars: 3742
 
 [Open repository](https://github.com/Project-MONAI/MONAI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3742 | 715 | 
 | 2023-01-28 | 3741 | 715 | 
 | 2023-01-27 | 3741 | 715 | 
 | 2023-01-26 | 3739 | 714 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3683 | 704 | 
 | 2023-01-01 | 3681 | 704 | 
 | 2022-12-31 | 3680 | 704 | 
-| 2022-12-30 | 3680 | 703 | 
 

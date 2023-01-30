@@ -1,6 +1,6 @@
 # mclear-tools/bespoke-themes - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 179 | 12 | 
 | 2023-01-28 | 179 | 12 | 
 | 2023-01-27 | 179 | 12 | 
 | 2023-01-26 | 179 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 177 | 12 | 
 | 2023-01-02 | 177 | 12 | 
 | 2022-12-31 | 177 | 12 | 
-| 2022-12-30 | 176 | 12 | 
 

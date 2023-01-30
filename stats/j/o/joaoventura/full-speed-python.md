@@ -1,6 +1,6 @@
 # joaoventura/full-speed-python - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 570
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3815 | 570 | 
 | 2023-01-28 | 3815 | 570 | 
 | 2023-01-27 | 3815 | 570 | 
 | 2023-01-26 | 3814 | 570 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 3778 | 566 | 
 | 2023-01-01 | 3777 | 565 | 
 | 2022-12-31 | 3778 | 565 | 
-| 2022-12-30 | 3779 | 565 | 
 

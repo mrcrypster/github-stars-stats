@@ -1,8 +1,8 @@
 # VictorGordan/opengl-tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 361
+☋ Forks: 363
 
 ★ Stars: 650
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 650 | 363 | 
 | 2023-01-28 | 650 | 361 | 
 | 2023-01-27 | 649 | 361 | 
 | 2023-01-26 | 646 | 360 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 628 | 349 | 
 | 2023-01-01 | 627 | 349 | 
 | 2022-12-31 | 625 | 348 | 
-| 2022-12-30 | 625 | 348 | 
 

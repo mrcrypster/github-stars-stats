@@ -1,6 +1,6 @@
 # mayank-prasoon/world-maker - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 90 | 3 | 
 | 2023-01-28 | 90 | 3 | 
 | 2023-01-27 | 90 | 3 | 
 | 2023-01-26 | 90 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 89 | 2 | 
 | 2023-01-01 | 89 | 2 | 
 | 2022-12-31 | 89 | 2 | 
-| 2022-12-30 | 88 | 2 | 
 

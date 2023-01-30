@@ -1,6 +1,6 @@
 # endroid/qr-code - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 687
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3937 | 687 | 
 | 2023-01-28 | 3937 | 687 | 
 | 2023-01-27 | 3934 | 687 | 
 | 2023-01-26 | 3931 | 687 | 

@@ -1,6 +1,6 @@
 # cmss13-devs/cmss13 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 28 | 190 | 
 | 2023-01-28 | 28 | 190 | 
 | 2023-01-27 | 28 | 189 | 
 | 2023-01-26 | 28 | 189 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 25 | 176 | 
 | 2023-01-01 | 25 | 176 | 
 | 2022-12-31 | 25 | 176 | 
-| 2022-12-30 | 25 | 176 | 
 

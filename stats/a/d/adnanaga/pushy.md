@@ -1,6 +1,6 @@
 # adnanaga/pushy - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 355 | 9 | 
 | 2023-01-28 | 355 | 9 | 
 | 2023-01-27 | 355 | 9 | 
 | 2023-01-26 | 355 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 355 | 9 | 
 | 2023-01-01 | 355 | 9 | 
 | 2022-12-31 | 354 | 9 | 
-| 2022-12-30 | 354 | 9 | 
 

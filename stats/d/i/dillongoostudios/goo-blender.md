@@ -1,10 +1,10 @@
 # dillongoostudios/goo-blender - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 443
+★ Stars: 444
 
 [Open repository](https://github.com/dillongoostudios/goo-blender)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 444 | 48 | 
 | 2023-01-28 | 443 | 47 | 
 | 2023-01-27 | 443 | 47 | 
 | 2023-01-26 | 443 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 416 | 44 | 
 | 2023-01-01 | 410 | 44 | 
 | 2022-12-31 | 408 | 44 | 
-| 2022-12-30 | 408 | 44 | 
 

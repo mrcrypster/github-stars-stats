@@ -1,10 +1,10 @@
 # ml-tooling/best-of-ml-python - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1919
 
-★ Stars: 12530
+★ Stars: 12536
 
 [Open repository](https://github.com/ml-tooling/best-of-ml-python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 12536 | 1919 | 
 | 2023-01-28 | 12530 | 1919 | 
 | 2023-01-27 | 12525 | 1918 | 
 | 2023-01-26 | 12520 | 1918 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 12159 | 1857 | 
 | 2023-01-02 | 12153 | 1857 | 
 | 2022-12-31 | 12145 | 1857 | 
-| 2022-12-30 | 12139 | 1856 | 
 

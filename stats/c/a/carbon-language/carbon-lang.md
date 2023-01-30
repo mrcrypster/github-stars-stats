@@ -1,10 +1,10 @@
 # carbon-language/carbon-lang - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1237
+☋ Forks: 1238
 
-★ Stars: 29462
+★ Stars: 29469
 
 [Open repository](https://github.com/carbon-language/carbon-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 29469 | 1238 | 
 | 2023-01-28 | 29462 | 1237 | 
 | 2023-01-27 | 29453 | 1238 | 
 | 2023-01-26 | 29445 | 1237 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 29223 | 1231 | 
 | 2023-01-01 | 29205 | 1230 | 
 | 2022-12-31 | 29193 | 1230 | 
-| 2022-12-30 | 29192 | 1230 | 
 

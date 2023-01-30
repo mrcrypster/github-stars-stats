@@ -1,6 +1,6 @@
 # lighthouse-labs/album-search - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 361
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 8 | 361 | 
 | 2023-01-28 | 8 | 361 | 
 | 2023-01-27 | 8 | 361 | 
 | 2023-01-26 | 8 | 361 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 7 | 353 | 
 | 2023-01-02 | 7 | 353 | 
 | 2023-01-01 | 7 | 353 | 
-| 2022-12-31 | 7 | 352 | 
 

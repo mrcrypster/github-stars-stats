@@ -1,6 +1,6 @@
 # DoganK01/YOLOV7-OBJECT-COUNTER-V1.2 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 68 | 19 | 
 | 2023-01-28 | 68 | 19 | 
 | 2023-01-27 | 68 | 19 | 
 | 2023-01-26 | 67 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 66 | 19 | 
 | 2023-01-01 | 66 | 19 | 
 | 2022-12-31 | 66 | 19 | 
-| 2022-12-30 | 66 | 19 | 
 

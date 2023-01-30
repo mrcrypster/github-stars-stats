@@ -1,10 +1,10 @@
 # imteekay/functional-programming-learning-path - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 84
 
-★ Stars: 890
+★ Stars: 891
 
 [Open repository](https://github.com/imteekay/functional-programming-learning-path)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 891 | 84 | 
 | 2023-01-28 | 890 | 84 | 
 | 2023-01-27 | 890 | 84 | 
 | 2023-01-26 | 890 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 868 | 82 | 
 | 2023-01-01 | 866 | 82 | 
 | 2022-12-31 | 864 | 82 | 
-| 2022-12-30 | 862 | 82 | 
 

@@ -1,8 +1,8 @@
 # screetsec/Brutal - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 256
+☋ Forks: 257
 
 ★ Stars: 890
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 890 | 257 | 
 | 2023-01-28 | 890 | 256 | 
 | 2023-01-27 | 890 | 256 | 
 | 2023-01-26 | 890 | 255 | 

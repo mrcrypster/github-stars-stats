@@ -1,6 +1,6 @@
 # shajidhasan/batname - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 325 | 54 | 
 | 2023-01-28 | 325 | 54 | 
 | 2023-01-27 | 325 | 54 | 
 | 2023-01-26 | 325 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 325 | 52 | 
 | 2023-01-01 | 325 | 52 | 
 | 2022-12-31 | 325 | 52 | 
-| 2022-12-30 | 325 | 52 | 
 

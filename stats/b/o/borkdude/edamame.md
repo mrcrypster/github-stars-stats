@@ -1,6 +1,6 @@
 # borkdude/edamame - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 140 | 13 | 
 | 2023-01-28 | 140 | 13 | 
 | 2023-01-27 | 139 | 13 | 
 | 2023-01-26 | 139 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 138 | 13 | 
 | 2023-01-01 | 138 | 13 | 
 | 2022-12-31 | 138 | 13 | 
-| 2022-12-30 | 138 | 13 | 
 

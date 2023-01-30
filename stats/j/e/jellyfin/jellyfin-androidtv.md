@@ -1,10 +1,10 @@
 # jellyfin/jellyfin-androidtv - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 260
+☋ Forks: 262
 
-★ Stars: 1163
+★ Stars: 1165
 
 [Open repository](https://github.com/jellyfin/jellyfin-androidtv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1165 | 262 | 
 | 2023-01-28 | 1163 | 260 | 
 | 2023-01-27 | 1160 | 260 | 
 | 2023-01-26 | 1159 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1113 | 255 | 
 | 2023-01-01 | 1109 | 255 | 
 | 2022-12-31 | 1105 | 255 | 
-| 2022-12-30 | 1101 | 255 | 
 

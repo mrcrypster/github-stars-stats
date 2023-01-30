@@ -1,6 +1,6 @@
 # mitchellh/zig-js - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 112 | 1 | 
 | 2023-01-28 | 112 | 1 | 
 | 2023-01-27 | 112 | 1 | 
 | 2023-01-26 | 112 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 110 | 1 | 
 | 2023-01-01 | 110 | 1 | 
 | 2022-12-31 | 109 | 1 | 
-| 2022-12-30 | 107 | 1 | 
 

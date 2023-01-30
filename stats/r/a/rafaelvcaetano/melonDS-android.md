@@ -1,10 +1,10 @@
 # rafaelvcaetano/melonDS-android - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 38
 
-★ Stars: 430
+★ Stars: 433
 
 [Open repository](https://github.com/rafaelvcaetano/melonDS-android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 433 | 38 | 
 | 2023-01-28 | 430 | 38 | 
 | 2023-01-27 | 428 | 38 | 
 | 2023-01-26 | 425 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 412 | 36 | 
 | 2023-01-01 | 412 | 36 | 
 | 2022-12-31 | 412 | 36 | 
-| 2022-12-30 | 412 | 36 | 
 

@@ -1,10 +1,10 @@
 # hathora/hathora - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 33
 
-★ Stars: 494
+★ Stars: 495
 
 [Open repository](https://github.com/hathora/hathora)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 495 | 33 | 
 | 2023-01-28 | 494 | 33 | 
 | 2023-01-27 | 493 | 33 | 
 | 2023-01-26 | 493 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 488 | 31 | 
 | 2023-01-01 | 488 | 31 | 
 | 2022-12-31 | 488 | 31 | 
-| 2022-12-30 | 488 | 31 | 
 

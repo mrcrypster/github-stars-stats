@@ -1,6 +1,6 @@
 # hshatti/TONNXRuntime - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 10 | 2 | 
 | 2023-01-28 | 10 | 2 | 
 | 2023-01-27 | 10 | 2 | 
 | 2023-01-26 | 10 | 2 | 

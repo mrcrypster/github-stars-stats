@@ -1,8 +1,8 @@
 # bedimcode/responsive-sushi-website - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 40 | 30 | 
 | 2023-01-28 | 40 | 29 | 
 | 2023-01-27 | 40 | 29 | 
 | 2023-01-26 | 40 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 36 | 25 | 
 | 2023-01-02 | 36 | 25 | 
 | 2023-01-01 | 36 | 25 | 
-| 2022-12-31 | 36 | 25 | 
 

@@ -1,6 +1,6 @@
 # chronoxor/NetCoreServer - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1837 | 424 | 
 | 2023-01-28 | 1837 | 424 | 
 | 2023-01-27 | 1834 | 424 | 
 | 2023-01-26 | 1830 | 424 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1800 | 420 | 
 | 2023-01-01 | 1798 | 419 | 
 | 2022-12-31 | 1799 | 419 | 
-| 2022-12-30 | 1798 | 419 | 
 

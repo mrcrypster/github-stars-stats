@@ -1,10 +1,10 @@
 # EaniaHuui/android_tool - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 86
 
-★ Stars: 454
+★ Stars: 456
 
 [Open repository](https://github.com/EaniaHuui/android_tool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 456 | 86 | 
 | 2023-01-28 | 454 | 86 | 
 | 2023-01-27 | 454 | 86 | 
 | 2023-01-26 | 454 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 445 | 85 | 
 | 2023-01-01 | 444 | 85 | 
 | 2022-12-31 | 444 | 85 | 
-| 2022-12-30 | 443 | 85 | 
 

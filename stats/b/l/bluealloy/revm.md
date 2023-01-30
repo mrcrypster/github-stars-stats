@@ -1,10 +1,10 @@
 # bluealloy/revm - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 84
+☋ Forks: 83
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/bluealloy/revm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 546 | 83 | 
 | 2023-01-28 | 545 | 84 | 
 | 2023-01-27 | 543 | 84 | 
 | 2023-01-26 | 539 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 513 | 75 | 
 | 2023-01-01 | 513 | 75 | 
 | 2022-12-31 | 511 | 75 | 
-| 2022-12-30 | 508 | 75 | 
 

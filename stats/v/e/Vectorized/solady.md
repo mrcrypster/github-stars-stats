@@ -1,6 +1,6 @@
 # Vectorized/solady - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 786 | 58 | 
 | 2023-01-28 | 786 | 58 | 
 | 2023-01-27 | 786 | 58 | 
 | 2023-01-26 | 786 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 624 | 49 | 
 | 2023-01-01 | 619 | 49 | 
 | 2022-12-31 | 614 | 49 | 
-| 2022-12-30 | 614 | 49 | 
 

@@ -1,10 +1,10 @@
 # Vonng/ddia - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 3630
+☋ Forks: 3631
 
-★ Stars: 16629
+★ Stars: 16637
 
 [Open repository](https://github.com/Vonng/ddia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 16637 | 3631 | 
 | 2023-01-28 | 16629 | 3630 | 
 | 2023-01-27 | 16626 | 3625 | 
 | 2023-01-26 | 16618 | 3624 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 16484 | 3598 | 
 | 2023-01-01 | 16477 | 3597 | 
 | 2022-12-31 | 16472 | 3596 | 
-| 2022-12-30 | 16472 | 3596 | 
 

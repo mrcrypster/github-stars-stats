@@ -1,10 +1,10 @@
 # drshahizan/Python_EDA - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 46
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/drshahizan/Python_EDA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 42 | 46 | 
 | 2023-01-28 | 41 | 46 | 
 | 2023-01-27 | 41 | 46 | 
 | 2023-01-26 | 39 | 45 | 

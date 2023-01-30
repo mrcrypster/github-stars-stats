@@ -1,10 +1,10 @@
 # lodash/lodash - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 6783
+☋ Forks: 6784
 
-★ Stars: 55475
+★ Stars: 55482
 
 [Open repository](https://github.com/lodash/lodash)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 55482 | 6784 | 
 | 2023-01-29 | 55475 | 6783 | 
 | 2023-01-27 | 55471 | 6783 | 
 | 2023-01-26 | 55463 | 6779 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-02 | 55268 | 6764 | 
 | 2023-01-01 | 55259 | 6764 | 
 | 2022-12-31 | 55259 | 6763 | 
-| 2022-12-30 | 55255 | 6762 | 
 

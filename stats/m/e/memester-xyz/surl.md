@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 29
 
 ☋ Forks: 14
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/memester-xyz/surl)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 263 | 14 | 
+| 2023-01-29 | 264 | 14 | 
 | 2023-01-28 | 263 | 14 | 
 | 2023-01-27 | 263 | 14 | 
 | 2023-01-26 | 257 | 14 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-02 | 249 | 13 | 
 | 2023-01-01 | 249 | 13 | 
 | 2022-12-31 | 249 | 13 | 
-| 2022-12-30 | 249 | 13 | 
 

@@ -1,10 +1,10 @@
 # acheong08/Diffusion-WebUI - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 35
 
-★ Stars: 285
+★ Stars: 287
 
 [Open repository](https://github.com/acheong08/Diffusion-WebUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 287 | 35 | 
 | 2023-01-28 | 285 | 35 | 
 | 2023-01-27 | 285 | 35 | 
 | 2023-01-26 | 284 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 258 | 34 | 
 | 2023-01-02 | 257 | 32 | 
 | 2023-01-01 | 256 | 32 | 
-| 2022-12-31 | 256 | 32 | 
 

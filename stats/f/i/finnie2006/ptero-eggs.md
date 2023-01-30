@@ -1,6 +1,6 @@
 # finnie2006/ptero-eggs - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 26 | 43 | 
 | 2023-01-28 | 26 | 43 | 
 | 2023-01-27 | 26 | 43 | 
 | 2023-01-26 | 25 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 21 | 37 | 
 | 2023-01-02 | 21 | 37 | 
 | 2023-01-01 | 21 | 37 | 
-| 2022-12-31 | 21 | 37 | 
 

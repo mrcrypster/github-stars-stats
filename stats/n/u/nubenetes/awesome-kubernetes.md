@@ -1,6 +1,6 @@
 # nubenetes/awesome-kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 395 | 81 | 
 | 2023-01-28 | 395 | 81 | 
 | 2023-01-27 | 394 | 81 | 
 | 2023-01-26 | 394 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 380 | 76 | 
 | 2023-01-01 | 380 | 76 | 
 | 2022-12-31 | 380 | 76 | 
-| 2022-12-30 | 380 | 76 | 
 

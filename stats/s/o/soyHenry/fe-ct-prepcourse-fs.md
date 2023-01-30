@@ -1,8 +1,8 @@
 # soyHenry/fe-ct-prepcourse-fs - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 2733
+☋ Forks: 2813
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 31 | 2813 | 
 | 2023-01-28 | 31 | 2733 | 
 | 2023-01-27 | 32 | 2611 | 
 | 2023-01-25 | 31 | 2509 | 

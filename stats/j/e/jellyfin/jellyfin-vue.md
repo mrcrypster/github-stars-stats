@@ -1,10 +1,10 @@
 # jellyfin/jellyfin-vue - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 132
 
-★ Stars: 500
+★ Stars: 501
 
 [Open repository](https://github.com/jellyfin/jellyfin-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 501 | 132 | 
 | 2023-01-28 | 500 | 132 | 
 | 2023-01-27 | 500 | 131 | 
 | 2023-01-26 | 500 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 442 | 128 | 
 | 2023-01-01 | 442 | 128 | 
 | 2022-12-31 | 440 | 128 | 
-| 2022-12-30 | 440 | 128 | 
 

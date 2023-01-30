@@ -1,10 +1,10 @@
 # OrderN/CONQUEST-release - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 15
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/OrderN/CONQUEST-release)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 67 | 15 | 
 | 2023-01-28 | 66 | 15 | 
 | 2023-01-27 | 66 | 15 | 
 

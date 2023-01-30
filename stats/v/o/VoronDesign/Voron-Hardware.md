@@ -1,10 +1,10 @@
 # VoronDesign/Voron-Hardware - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 283
+☋ Forks: 284
 
-★ Stars: 584
+★ Stars: 585
 
 [Open repository](https://github.com/VoronDesign/Voron-Hardware)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 585 | 284 | 
 | 2023-01-28 | 584 | 283 | 
 | 2023-01-27 | 584 | 283 | 
 | 2023-01-26 | 584 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 559 | 278 | 
 | 2023-01-01 | 558 | 278 | 
 | 2022-12-31 | 557 | 278 | 
-| 2022-12-30 | 557 | 278 | 
 

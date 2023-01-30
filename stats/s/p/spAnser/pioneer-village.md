@@ -1,10 +1,10 @@
 # spAnser/pioneer-village - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 10
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/spAnser/pioneer-village)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 27 | 10 | 
 | 2023-01-28 | 28 | 10 | 
 | 2023-01-27 | 28 | 10 | 
 | 2023-01-25 | 28 | 10 | 

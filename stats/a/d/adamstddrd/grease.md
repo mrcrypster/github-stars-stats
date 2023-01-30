@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 29
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/adamstddrd/grease)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 54 | 3 | 
+| 2023-01-29 | 55 | 3 | 
 | 2023-01-28 | 54 | 3 | 
 

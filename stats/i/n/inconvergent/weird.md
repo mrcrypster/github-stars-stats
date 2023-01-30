@@ -1,6 +1,6 @@
 # inconvergent/weird - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1499 | 50 | 
 | 2023-01-28 | 1499 | 50 | 
 | 2023-01-27 | 1499 | 50 | 
 | 2023-01-26 | 1499 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1489 | 49 | 
 | 2023-01-01 | 1487 | 49 | 
 | 2022-12-31 | 1487 | 49 | 
-| 2022-12-30 | 1486 | 49 | 
 

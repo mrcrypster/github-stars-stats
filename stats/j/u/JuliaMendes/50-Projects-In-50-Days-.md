@@ -1,6 +1,6 @@
 # JuliaMendes/50-Projects-In-50-Days- - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 239 | 55 | 
 | 2023-01-28 | 239 | 55 | 
 | 2023-01-27 | 239 | 55 | 
 | 2023-01-26 | 239 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 236 | 55 | 
 | 2023-01-01 | 236 | 55 | 
 | 2022-12-31 | 236 | 55 | 
-| 2022-12-30 | 237 | 54 | 
 

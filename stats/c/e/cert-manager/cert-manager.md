@@ -1,10 +1,10 @@
 # cert-manager/cert-manager - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1803
+☋ Forks: 1802
 
-★ Stars: 9895
+★ Stars: 9898
 
 [Open repository](https://github.com/cert-manager/cert-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 9898 | 1802 | 
 | 2023-01-28 | 9895 | 1803 | 
 | 2023-01-27 | 9891 | 1803 | 
 | 2023-01-26 | 9886 | 1803 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 9779 | 1788 | 
 | 2023-01-01 | 9777 | 1788 | 
 | 2022-12-31 | 9777 | 1788 | 
-| 2022-12-30 | 9775 | 1787 | 
 

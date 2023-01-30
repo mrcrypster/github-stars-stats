@@ -1,8 +1,8 @@
 # changeweb/Unifiedtransform - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
-☋ Forks: 1087
+☋ Forks: 1088
 
 ★ Stars: 2537
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2537 | 1088 | 
 | 2023-01-28 | 2537 | 1087 | 
 | 2023-01-27 | 2537 | 1087 | 
 | 2023-01-26 | 2537 | 1087 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2515 | 1074 | 
 | 2023-01-01 | 2514 | 1074 | 
 | 2022-12-31 | 2514 | 1074 | 
-| 2022-12-30 | 2514 | 1074 | 
 

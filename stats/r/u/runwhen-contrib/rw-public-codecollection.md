@@ -1,6 +1,6 @@
 # runwhen-contrib/rw-public-codecollection - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 17 | 2 | 
 | 2023-01-28 | 17 | 2 | 
 

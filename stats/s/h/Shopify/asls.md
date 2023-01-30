@@ -1,6 +1,6 @@
 # Shopify/asls - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 55 | 4 | 
 | 2023-01-28 | 55 | 4 | 
 | 2023-01-27 | 55 | 4 | 
 | 2023-01-26 | 55 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 53 | 2 | 
 | 2023-01-01 | 53 | 2 | 
 | 2022-12-31 | 53 | 2 | 
-| 2022-12-30 | 53 | 2 | 
 

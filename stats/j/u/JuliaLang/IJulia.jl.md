@@ -1,6 +1,6 @@
 # JuliaLang/IJulia.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 399
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2571 | 399 | 
 | 2023-01-28 | 2571 | 399 | 
 | 2023-01-27 | 2571 | 399 | 
 | 2023-01-26 | 2570 | 399 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2555 | 397 | 
 | 2023-01-01 | 2555 | 397 | 
 | 2022-12-31 | 2553 | 397 | 
-| 2022-12-30 | 2552 | 397 | 
 

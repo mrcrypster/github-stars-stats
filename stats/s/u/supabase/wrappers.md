@@ -1,6 +1,6 @@
 # supabase/wrappers - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 204 | 13 | 
 | 2023-01-28 | 204 | 13 | 
 | 2023-01-27 | 204 | 13 | 
 | 2023-01-26 | 204 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 162 | 12 | 
 | 2023-01-01 | 162 | 12 | 
 | 2022-12-31 | 162 | 12 | 
-| 2022-12-30 | 161 | 12 | 
 

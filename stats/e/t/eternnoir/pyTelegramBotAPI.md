@@ -1,10 +1,10 @@
 # eternnoir/pyTelegramBotAPI - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1731
 
-★ Stars: 6478
+★ Stars: 6481
 
 [Open repository](https://github.com/eternnoir/pyTelegramBotAPI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 6481 | 1731 | 
 | 2023-01-28 | 6478 | 1731 | 
 | 2023-01-27 | 6474 | 1729 | 
 | 2023-01-26 | 6473 | 1728 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 6390 | 1698 | 
 | 2023-01-02 | 6388 | 1695 | 
 | 2023-01-01 | 6389 | 1696 | 
-| 2022-12-31 | 6389 | 1696 | 
 

@@ -1,10 +1,10 @@
 # adrianhajdin/project_youtube_clone - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 195
 
-★ Stars: 669
+★ Stars: 671
 
 [Open repository](https://github.com/adrianhajdin/project_youtube_clone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 671 | 195 | 
 | 2023-01-28 | 669 | 195 | 
 | 2023-01-27 | 666 | 195 | 
 | 2023-01-26 | 663 | 193 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 523 | 149 | 
 | 2023-01-02 | 523 | 149 | 
 | 2022-12-31 | 522 | 147 | 
-| 2022-12-30 | 522 | 147 | 
 

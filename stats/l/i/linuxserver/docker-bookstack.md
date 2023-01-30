@@ -1,6 +1,6 @@
 # linuxserver/docker-bookstack - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 420 | 81 | 
 | 2023-01-28 | 420 | 81 | 
 | 2023-01-27 | 419 | 81 | 
 | 2023-01-26 | 419 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 406 | 80 | 
 | 2023-01-01 | 406 | 80 | 
 | 2022-12-31 | 406 | 80 | 
-| 2022-12-30 | 405 | 80 | 
 

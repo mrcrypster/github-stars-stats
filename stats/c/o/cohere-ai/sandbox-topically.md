@@ -1,10 +1,10 @@
 # cohere-ai/sandbox-topically - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 12
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/cohere-ai/sandbox-topically)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 169 | 12 | 
 | 2023-01-28 | 168 | 12 | 
 | 2023-01-27 | 168 | 12 | 
 | 2023-01-26 | 168 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 163 | 12 | 
 | 2023-01-01 | 163 | 12 | 
 | 2022-12-31 | 163 | 12 | 
-| 2022-12-30 | 163 | 12 | 
 

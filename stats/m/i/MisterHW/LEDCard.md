@@ -1,10 +1,10 @@
 # MisterHW/LEDCard - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 2
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/MisterHW/LEDCard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 45 | 2 | 
 | 2023-01-28 | 43 | 2 | 
 | 2023-01-27 | 43 | 2 | 
 | 2023-01-26 | 43 | 2 | 

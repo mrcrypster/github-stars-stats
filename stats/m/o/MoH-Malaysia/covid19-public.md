@@ -1,6 +1,6 @@
 # MoH-Malaysia/covid19-public - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 646
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 947 | 646 | 
 | 2023-01-28 | 947 | 646 | 
 | 2023-01-27 | 947 | 645 | 
 | 2023-01-26 | 947 | 645 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 945 | 637 | 
 | 2023-01-01 | 945 | 638 | 
 | 2022-12-31 | 945 | 638 | 
-| 2022-12-30 | 945 | 638 | 
 

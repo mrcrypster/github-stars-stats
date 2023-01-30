@@ -1,8 +1,8 @@
 # kongruksiamza/programmer-class-room - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 391
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 391 | 128 | 
 | 2023-01-28 | 391 | 127 | 
 | 2023-01-27 | 388 | 126 | 
 | 2023-01-26 | 388 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 371 | 122 | 
 | 2023-01-01 | 371 | 122 | 
 | 2022-12-31 | 370 | 122 | 
-| 2022-12-30 | 370 | 122 | 
 

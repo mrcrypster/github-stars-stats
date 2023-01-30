@@ -1,10 +1,10 @@
 # xiaoxian521/pure-admin-thin - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 400
+☋ Forks: 402
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/xiaoxian521/pure-admin-thin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 468 | 402 | 
 | 2023-01-28 | 467 | 400 | 
 | 2023-01-27 | 463 | 394 | 
 | 2023-01-26 | 461 | 392 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 409 | 352 | 
 | 2023-01-01 | 406 | 352 | 
 | 2022-12-31 | 404 | 352 | 
-| 2022-12-30 | 400 | 351 | 
 

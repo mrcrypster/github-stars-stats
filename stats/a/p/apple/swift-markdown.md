@@ -1,6 +1,6 @@
 # apple/swift-markdown - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2032 | 118 | 
 | 2023-01-28 | 2032 | 118 | 
 | 2023-01-27 | 2031 | 118 | 
 | 2023-01-26 | 2031 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2014 | 117 | 
 | 2023-01-01 | 2014 | 117 | 
 | 2022-12-31 | 2013 | 117 | 
-| 2022-12-30 | 2013 | 116 | 
 

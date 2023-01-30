@@ -1,10 +1,10 @@
 # danielgross/whatsapp-gpt - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 336
+☋ Forks: 340
 
-★ Stars: 2195
+★ Stars: 2207
 
 [Open repository](https://github.com/danielgross/whatsapp-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2207 | 340 | 
 | 2023-01-28 | 2195 | 336 | 
 | 2023-01-27 | 2176 | 334 | 
 | 2023-01-26 | 2159 | 332 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1165 | 144 | 
 | 2023-01-01 | 1156 | 143 | 
 | 2022-12-31 | 1149 | 142 | 
-| 2022-12-30 | 1143 | 141 | 
 

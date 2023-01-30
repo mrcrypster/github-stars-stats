@@ -1,10 +1,10 @@
 # corretto/corretto-8 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 214
 
-★ Stars: 2037
+★ Stars: 2038
 
 [Open repository](https://github.com/corretto/corretto-8)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 2038 | 214 | 
 | 2023-01-28 | 2037 | 214 | 
 | 2023-01-27 | 2037 | 214 | 
 | 2023-01-26 | 2038 | 214 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 2032 | 213 | 
 | 2023-01-01 | 2032 | 213 | 
 | 2022-12-31 | 2032 | 213 | 
-| 2022-12-30 | 2032 | 213 | 
 

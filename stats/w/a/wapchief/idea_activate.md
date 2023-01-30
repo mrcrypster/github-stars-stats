@@ -1,10 +1,10 @@
 # wapchief/idea_activate - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 34
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/wapchief/idea_activate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 172 | 34 | 
 | 2023-01-28 | 170 | 34 | 
 | 2023-01-26 | 167 | 34 | 
 | 2023-01-25 | 164 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 127 | 26 | 
 | 2023-01-01 | 126 | 26 | 
 | 2022-12-31 | 125 | 26 | 
-| 2022-12-30 | 125 | 26 | 
 

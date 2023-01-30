@@ -1,8 +1,8 @@
 # qbcore-framework/qb-menu - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 192
+☋ Forks: 193
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 23 | 193 | 
 | 2023-01-28 | 23 | 192 | 
 | 2023-01-27 | 23 | 192 | 
 | 2023-01-26 | 23 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 21 | 191 | 
 | 2023-01-02 | 21 | 190 | 
 | 2022-12-31 | 21 | 190 | 
-| 2022-12-30 | 21 | 190 | 
 

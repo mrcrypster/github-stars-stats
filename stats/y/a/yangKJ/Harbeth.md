@@ -1,10 +1,10 @@
 # yangKJ/Harbeth - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 29
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/yangKJ/Harbeth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 215 | 29 | 
 | 2023-01-28 | 214 | 29 | 
 | 2023-01-27 | 213 | 29 | 
 | 2023-01-26 | 213 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 203 | 26 | 
 | 2023-01-01 | 202 | 25 | 
 | 2022-12-31 | 202 | 25 | 
-| 2022-12-30 | 201 | 25 | 
 

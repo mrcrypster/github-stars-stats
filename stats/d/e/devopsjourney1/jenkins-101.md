@@ -1,8 +1,8 @@
 # devopsjourney1/jenkins-101 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 192
+☋ Forks: 194
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 36 | 194 | 
 | 2023-01-28 | 36 | 192 | 
 | 2023-01-27 | 34 | 190 | 
 | 2023-01-26 | 33 | 184 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 26 | 129 | 
 | 2023-01-01 | 26 | 129 | 
 | 2022-12-31 | 26 | 129 | 
-| 2022-12-30 | 26 | 128 | 
 

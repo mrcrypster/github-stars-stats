@@ -1,6 +1,6 @@
 # nealmckee/penumbra - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1062 | 18 | 
 | 2023-01-28 | 1062 | 18 | 
 | 2023-01-27 | 1062 | 18 | 
 | 2023-01-26 | 1062 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1058 | 18 | 
 | 2023-01-01 | 1058 | 18 | 
 | 2022-12-31 | 1057 | 18 | 
-| 2022-12-30 | 1057 | 18 | 
 

@@ -1,10 +1,10 @@
 # evershopcommerce/evershop - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 72
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/evershopcommerce/evershop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 347 | 72 | 
 | 2023-01-28 | 346 | 72 | 
 | 2023-01-27 | 346 | 71 | 
 | 2023-01-26 | 345 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 261 | 53 | 
 | 2023-01-01 | 256 | 52 | 
 | 2022-12-31 | 249 | 51 | 
-| 2022-12-30 | 230 | 51 | 
 

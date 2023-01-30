@@ -1,6 +1,6 @@
 # petergoldstein/dalli - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 432
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3066 | 432 | 
 | 2023-01-28 | 3066 | 432 | 
 | 2023-01-27 | 3066 | 432 | 
 | 2023-01-26 | 3066 | 432 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3063 | 429 | 
 | 2023-01-01 | 3064 | 429 | 
 | 2022-12-31 | 3064 | 429 | 
-| 2022-12-30 | 3064 | 429 | 
 

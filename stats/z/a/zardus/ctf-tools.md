@@ -1,10 +1,10 @@
 # zardus/ctf-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1770
 
-★ Stars: 7174
+★ Stars: 7175
 
 [Open repository](https://github.com/zardus/ctf-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7175 | 1770 | 
 | 2023-01-28 | 7174 | 1770 | 
 | 2023-01-27 | 7165 | 1769 | 
 | 2023-01-26 | 7164 | 1769 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 7122 | 1770 | 
 | 2023-01-01 | 7122 | 1770 | 
 | 2022-12-31 | 7122 | 1770 | 
-| 2022-12-30 | 7119 | 1769 | 
 

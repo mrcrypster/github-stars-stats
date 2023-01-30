@@ -1,10 +1,10 @@
 # root-tanishq/userefuzz - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 236
+★ Stars: 240
 
 [Open repository](https://github.com/root-tanishq/userefuzz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 240 | 38 | 
 | 2023-01-28 | 236 | 37 | 
 | 2023-01-27 | 236 | 37 | 
 | 2023-01-26 | 236 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 223 | 35 | 
 | 2023-01-01 | 222 | 35 | 
 | 2022-12-31 | 221 | 35 | 
-| 2022-12-30 | 221 | 35 | 
 

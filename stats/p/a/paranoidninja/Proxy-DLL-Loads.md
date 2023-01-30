@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 29
 
 ☋ Forks: 14
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/paranoidninja/Proxy-DLL-Loads)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 68 | 14 | 
+| 2023-01-29 | 69 | 14 | 
 | 2023-01-28 | 67 | 14 | 
 

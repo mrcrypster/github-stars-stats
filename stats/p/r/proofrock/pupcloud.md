@@ -1,6 +1,6 @@
 # proofrock/pupcloud - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 125 | 5 | 
 | 2023-01-28 | 125 | 5 | 
 | 2023-01-27 | 126 | 5 | 
 | 2023-01-26 | 126 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 121 | 5 | 
 | 2023-01-01 | 121 | 5 | 
 | 2022-12-31 | 121 | 5 | 
-| 2022-12-30 | 120 | 5 | 
 

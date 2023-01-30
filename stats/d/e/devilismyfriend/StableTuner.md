@@ -1,10 +1,10 @@
 # devilismyfriend/StableTuner - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 28
 
-★ Stars: 335
+★ Stars: 336
 
 [Open repository](https://github.com/devilismyfriend/StableTuner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 336 | 28 | 
 | 2023-01-28 | 335 | 28 | 
 | 2023-01-27 | 334 | 27 | 
 | 2023-01-26 | 334 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 251 | 23 | 
 | 2023-01-01 | 245 | 23 | 
 | 2022-12-31 | 243 | 22 | 
-| 2022-12-30 | 241 | 22 | 
 

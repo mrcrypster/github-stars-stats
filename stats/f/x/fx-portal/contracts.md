@@ -1,6 +1,6 @@
 # fx-portal/contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 112 | 65 | 
 | 2023-01-28 | 112 | 65 | 
 | 2023-01-27 | 112 | 65 | 
 | 2023-01-26 | 112 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 111 | 64 | 
 | 2023-01-01 | 111 | 64 | 
 | 2022-12-31 | 111 | 63 | 
-| 2022-12-30 | 111 | 63 | 
 

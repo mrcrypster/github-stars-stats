@@ -1,6 +1,6 @@
 # Olstyle/MBus - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 25 | 2 | 
 | 2023-01-28 | 25 | 2 | 
 | 2023-01-27 | 25 | 2 | 
 | 2023-01-26 | 25 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 25 | 2 | 
 | 2023-01-01 | 25 | 2 | 
 | 2022-12-31 | 25 | 2 | 
-| 2022-12-30 | 25 | 2 | 
 

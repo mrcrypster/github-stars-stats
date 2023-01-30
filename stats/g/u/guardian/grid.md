@@ -1,6 +1,6 @@
 # guardian/grid - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1428 | 122 | 
 | 2023-01-28 | 1428 | 122 | 
 | 2023-01-27 | 1428 | 122 | 
 | 2023-01-26 | 1428 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 1427 | 123 | 
 | 2023-01-01 | 1427 | 123 | 
 | 2022-12-31 | 1427 | 123 | 
-| 2022-12-30 | 1427 | 123 | 
 

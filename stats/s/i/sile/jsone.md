@@ -1,10 +1,10 @@
 # sile/jsone - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 64
 
-★ Stars: 267
+★ Stars: 266
 
 [Open repository](https://github.com/sile/jsone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 266 | 64 | 
 | 2023-01-28 | 267 | 64 | 
 | 2023-01-27 | 267 | 64 | 
 | 2023-01-26 | 266 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 264 | 64 | 
 | 2023-01-01 | 264 | 64 | 
 | 2022-12-31 | 264 | 64 | 
-| 2022-12-30 | 264 | 64 | 
 

@@ -1,10 +1,10 @@
 # kubernetes/client-go - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 2636
 
-★ Stars: 7268
+★ Stars: 7269
 
 [Open repository](https://github.com/kubernetes/client-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7269 | 2636 | 
 | 2023-01-28 | 7268 | 2636 | 
 | 2023-01-27 | 7265 | 2636 | 
 | 2023-01-26 | 7263 | 2635 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 7175 | 2620 | 
 | 2023-01-01 | 7173 | 2620 | 
 | 2022-12-31 | 7173 | 2619 | 
-| 2022-12-30 | 7173 | 2620 | 
 

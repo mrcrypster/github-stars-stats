@@ -1,6 +1,6 @@
 # TinaXing2012/nodejs_examples - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 33 | 69 | 
 | 2023-01-28 | 33 | 69 | 
 | 2023-01-27 | 33 | 69 | 
 | 2023-01-26 | 33 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 30 | 66 | 
 | 2023-01-01 | 30 | 66 | 
 | 2022-12-31 | 30 | 66 | 
-| 2022-12-30 | 29 | 66 | 
 

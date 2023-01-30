@@ -1,10 +1,10 @@
 # karpathy/makemore - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 136
+☋ Forks: 139
 
-★ Stars: 725
+★ Stars: 732
 
 [Open repository](https://github.com/karpathy/makemore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 732 | 139 | 
 | 2023-01-28 | 725 | 136 | 
 | 2023-01-27 | 718 | 133 | 
 | 2023-01-26 | 712 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 628 | 104 | 
 | 2023-01-01 | 625 | 104 | 
 | 2022-12-31 | 623 | 104 | 
-| 2022-12-30 | 620 | 104 | 
 

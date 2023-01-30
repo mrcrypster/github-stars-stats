@@ -1,10 +1,10 @@
 # Bssn520/AnimationAutoUpdate - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 374
+★ Stars: 379
 
 [Open repository](https://github.com/Bssn520/AnimationAutoUpdate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 379 | 21 | 
 | 2023-01-28 | 374 | 20 | 
 | 2023-01-27 | 368 | 19 | 
 | 2023-01-26 | 364 | 19 | 

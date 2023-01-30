@@ -1,10 +1,10 @@
 # Rob--W/cors-anywhere - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 4388
+☋ Forks: 4392
 
-★ Stars: 7334
+★ Stars: 7335
 
 [Open repository](https://github.com/Rob--W/cors-anywhere)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7335 | 4392 | 
 | 2023-01-28 | 7334 | 4388 | 
 | 2023-01-27 | 7329 | 4383 | 
 | 2023-01-26 | 7329 | 4381 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 7269 | 4293 | 
 | 2023-01-01 | 7267 | 4285 | 
 | 2022-12-31 | 7267 | 4282 | 
-| 2022-12-30 | 7266 | 4280 | 
 

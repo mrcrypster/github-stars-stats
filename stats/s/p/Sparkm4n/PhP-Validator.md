@@ -1,8 +1,8 @@
 # Sparkm4n/PhP-Validator - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 83 | 41 | 
 | 2023-01-28 | 83 | 40 | 
 | 2023-01-27 | 83 | 40 | 
 | 2023-01-26 | 83 | 40 | 

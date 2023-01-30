@@ -1,10 +1,10 @@
 # bzsome/idcard_generator - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 124
 
-★ Stars: 487
+★ Stars: 489
 
 [Open repository](https://github.com/bzsome/idcard_generator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 489 | 124 | 
 | 2023-01-28 | 487 | 124 | 
 | 2023-01-27 | 486 | 124 | 
 | 2023-01-26 | 485 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 408 | 110 | 
 | 2023-01-01 | 407 | 110 | 
 | 2022-12-31 | 407 | 110 | 
-| 2022-12-30 | 406 | 110 | 
 

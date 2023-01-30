@@ -1,10 +1,10 @@
 # signalapp/Signal-Android - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 5653
+☋ Forks: 5654
 
-★ Stars: 23241
+★ Stars: 23242
 
 [Open repository](https://github.com/signalapp/Signal-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 23242 | 5654 | 
 | 2023-01-28 | 23241 | 5653 | 
 | 2023-01-27 | 23238 | 5653 | 
 | 2023-01-26 | 23234 | 5654 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 23168 | 5636 | 
 | 2023-01-01 | 23167 | 5634 | 
 | 2022-12-31 | 23166 | 5635 | 
-| 2022-12-30 | 23159 | 5635 | 
 

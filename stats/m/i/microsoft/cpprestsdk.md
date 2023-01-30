@@ -1,10 +1,10 @@
 # microsoft/cpprestsdk - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 1576
 
-★ Stars: 7185
+★ Stars: 7184
 
 [Open repository](https://github.com/microsoft/cpprestsdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7184 | 1576 | 
 | 2023-01-28 | 7185 | 1576 | 
 | 2023-01-27 | 7185 | 1576 | 
 | 2023-01-26 | 7186 | 1576 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 7155 | 1570 | 
 | 2023-01-01 | 7155 | 1570 | 
 | 2022-12-31 | 7154 | 1569 | 
-| 2022-12-30 | 7152 | 1570 | 
 

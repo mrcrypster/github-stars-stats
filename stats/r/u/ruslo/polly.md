@@ -1,6 +1,6 @@
 # ruslo/polly - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 830 | 198 | 
 | 2023-01-28 | 830 | 198 | 
 | 2023-01-27 | 830 | 198 | 
 | 2023-01-26 | 830 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 830 | 196 | 
 | 2023-01-01 | 830 | 196 | 
 | 2022-12-31 | 830 | 196 | 
-| 2022-12-30 | 830 | 196 | 
 

@@ -1,10 +1,10 @@
 # lucide-icons/lucide - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 179
+☋ Forks: 181
 
-★ Stars: 3424
+★ Stars: 3436
 
 [Open repository](https://github.com/lucide-icons/lucide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 3436 | 181 | 
 | 2023-01-28 | 3424 | 179 | 
 | 2023-01-27 | 3405 | 177 | 
 | 2023-01-26 | 3356 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 3010 | 161 | 
 | 2023-01-01 | 3004 | 161 | 
 | 2022-12-31 | 3002 | 160 | 
-| 2022-12-30 | 3000 | 160 | 
 

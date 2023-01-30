@@ -1,10 +1,10 @@
 # Morizeyao/GPT2-Chinese - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 1340
+☋ Forks: 1341
 
-★ Stars: 5680
+★ Stars: 5684
 
 [Open repository](https://github.com/Morizeyao/GPT2-Chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 5684 | 1341 | 
 | 2023-01-28 | 5680 | 1340 | 
 | 2023-01-27 | 5676 | 1340 | 
 | 2023-01-26 | 5673 | 1341 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 5584 | 1329 | 
 | 2023-01-01 | 5582 | 1329 | 
 | 2022-12-31 | 5581 | 1330 | 
-| 2022-12-30 | 5580 | 1329 | 
 

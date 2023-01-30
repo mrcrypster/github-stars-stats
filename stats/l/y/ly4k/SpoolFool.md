@@ -1,10 +1,10 @@
 # ly4k/SpoolFool - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 145
 
-★ Stars: 684
+★ Stars: 685
 
 [Open repository](https://github.com/ly4k/SpoolFool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 685 | 145 | 
 | 2023-01-28 | 684 | 145 | 
 | 2023-01-27 | 684 | 145 | 
 | 2023-01-26 | 684 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 676 | 144 | 
 | 2023-01-01 | 676 | 144 | 
 | 2022-12-31 | 675 | 143 | 
-| 2022-12-30 | 674 | 143 | 
 

@@ -1,10 +1,10 @@
 # aws-observability/terraform-aws-observability-accelerator - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 19
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/aws-observability/terraform-aws-observability-accelerator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 89 | 19 | 
 | 2023-01-28 | 88 | 19 | 
 | 2023-01-27 | 87 | 19 | 
 | 2023-01-26 | 86 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 77 | 11 | 
 | 2023-01-01 | 77 | 11 | 
 | 2022-12-31 | 77 | 11 | 
-| 2022-12-30 | 77 | 11 | 
 

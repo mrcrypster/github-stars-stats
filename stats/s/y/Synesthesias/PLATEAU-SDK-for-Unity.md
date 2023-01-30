@@ -1,8 +1,8 @@
 # Synesthesias/PLATEAU-SDK-for-Unity - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 54 | 1 | 
 | 2023-01-28 | 54 | - | 
 | 2023-01-27 | 54 | - | 
 | 2023-01-26 | 54 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 49 | - | 
 | 2023-01-01 | 48 | - | 
 | 2022-12-31 | 48 | - | 
-| 2022-12-30 | 48 | - | 
 

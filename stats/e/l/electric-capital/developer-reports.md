@@ -1,10 +1,10 @@
 # electric-capital/developer-reports - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 16
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/electric-capital/developer-reports)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 199 | 16 | 
 | 2023-01-28 | 198 | 16 | 
 | 2023-01-27 | 197 | 16 | 
 | 2023-01-26 | 197 | 15 | 

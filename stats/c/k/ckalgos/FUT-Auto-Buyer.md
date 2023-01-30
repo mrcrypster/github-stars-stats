@@ -1,10 +1,10 @@
 # ckalgos/FUT-Auto-Buyer - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 168
 
-★ Stars: 549
+★ Stars: 550
 
 [Open repository](https://github.com/ckalgos/FUT-Auto-Buyer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 550 | 168 | 
 | 2023-01-28 | 549 | 168 | 
 | 2023-01-27 | 549 | 168 | 
 | 2023-01-26 | 548 | 168 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 535 | 164 | 
 | 2023-01-01 | 534 | 163 | 
 | 2022-12-31 | 534 | 163 | 
-| 2022-12-30 | 533 | 163 | 
 

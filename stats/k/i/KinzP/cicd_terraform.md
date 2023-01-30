@@ -1,6 +1,6 @@
 # KinzP/cicd_terraform - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 7 | 16 | 
 | 2023-01-28 | 7 | 16 | 
 | 2023-01-27 | 7 | 16 | 
 | 2023-01-26 | 7 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 7 | 12 | 
 | 2023-01-02 | 7 | 12 | 
 | 2023-01-01 | 7 | 12 | 
-| 2022-12-31 | 7 | 12 | 
 

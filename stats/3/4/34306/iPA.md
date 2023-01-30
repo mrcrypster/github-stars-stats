@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 29
 
 ☋ Forks: 5
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/34306/iPA)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-29 | 36 | 5 | 
+| 2023-01-29 | 37 | 5 | 
 | 2023-01-28 | 36 | 5 | 
 | 2023-01-27 | 36 | 5 | 
 

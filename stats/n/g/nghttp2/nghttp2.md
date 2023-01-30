@@ -1,10 +1,10 @@
 # nghttp2/nghttp2 - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 837
 
-★ Stars: 4176
+★ Stars: 4177
 
 [Open repository](https://github.com/nghttp2/nghttp2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 4177 | 837 | 
 | 2023-01-28 | 4176 | 837 | 
 | 2023-01-27 | 4176 | 837 | 
 | 2023-01-26 | 4175 | 837 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 4163 | 837 | 
 | 2023-01-01 | 4163 | 837 | 
 | 2022-12-31 | 4162 | 837 | 
-| 2022-12-30 | 4162 | 837 | 
 

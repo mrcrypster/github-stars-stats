@@ -1,10 +1,10 @@
 # taikoxyz/simple-taiko-node - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 108
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/taikoxyz/simple-taiko-node)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 126 | 108 | 
 | 2023-01-28 | 125 | 108 | 
 | 2023-01-27 | 124 | 108 | 
 | 2023-01-26 | 122 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 53 | 50 | 
 | 2023-01-01 | 52 | 46 | 
 | 2022-12-31 | 49 | 43 | 
-| 2022-12-30 | 41 | 33 | 
 

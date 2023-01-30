@@ -1,10 +1,10 @@
 # bcgit/bc-csharp - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 454
 
-★ Stars: 1191
+★ Stars: 1194
 
 [Open repository](https://github.com/bcgit/bc-csharp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 1194 | 454 | 
 | 2023-01-28 | 1191 | 454 | 
 | 2023-01-27 | 1191 | 454 | 
 | 2023-01-26 | 1191 | 454 | 

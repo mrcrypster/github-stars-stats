@@ -1,10 +1,10 @@
 # WTFAcademy/WTF-Cairo - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
 ☋ Forks: 6
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/WTFAcademy/WTF-Cairo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 22 | 6 | 
 | 2023-01-28 | 21 | 6 | 
 | 2023-01-27 | 21 | 6 | 
 | 2023-01-26 | 21 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 17 | 5 | 
 | 2023-01-01 | 17 | 5 | 
 | 2022-12-31 | 17 | 5 | 
-| 2022-12-30 | 17 | 5 | 
 

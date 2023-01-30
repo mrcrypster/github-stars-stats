@@ -1,8 +1,8 @@
 # Allaman/nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 29
 
-☋ Forks: 54
+☋ Forks: 55
 
 ★ Stars: 347
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-29 | 347 | 55 | 
 | 2023-01-28 | 347 | 54 | 
 | 2023-01-27 | 346 | 54 | 
 | 2023-01-26 | 346 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-02 | 324 | 48 | 
 | 2023-01-01 | 323 | 48 | 
 | 2022-12-31 | 323 | 48 | 
-| 2022-12-30 | 322 | 47 | 
 
