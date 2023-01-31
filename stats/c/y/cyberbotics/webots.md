@@ -1,10 +1,10 @@
 # cyberbotics/webots - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 1319
+☋ Forks: 1321
 
-★ Stars: 2396
+★ Stars: 2399
 
 [Open repository](https://github.com/cyberbotics/webots)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2399 | 1321 | 
 | 2023-01-29 | 2396 | 1319 | 
 | 2023-01-28 | 2396 | 1317 | 
 | 2023-01-27 | 2396 | 1314 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 2350 | 1279 | 
 | 2023-01-03 | 2347 | 1278 | 
 | 2023-01-02 | 2346 | 1278 | 
-| 2022-12-31 | 2345 | 1276 | 
 

@@ -1,6 +1,6 @@
 # tidymodels/TMwR - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 486 | 197 | 
 | 2023-01-29 | 486 | 197 | 
 | 2023-01-28 | 486 | 196 | 
 | 2023-01-26 | 486 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 482 | 193 | 
 | 2023-01-02 | 483 | 193 | 
 | 2023-01-01 | 483 | 193 | 
-| 2022-12-31 | 483 | 193 | 
 

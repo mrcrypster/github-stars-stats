@@ -1,10 +1,10 @@
 # stevana/armstrong-distributed-systems - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/stevana/armstrong-distributed-systems)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 208 | 15 | 
 | 2023-01-29 | 207 | 13 | 
 

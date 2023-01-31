@@ -1,10 +1,10 @@
 # greg7mdp/parallel-hashmap - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 172
 
-★ Stars: 1733
+★ Stars: 1736
 
 [Open repository](https://github.com/greg7mdp/parallel-hashmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1736 | 172 | 
 | 2023-01-29 | 1733 | 172 | 
 | 2023-01-28 | 1733 | 172 | 
 | 2023-01-27 | 1734 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1708 | 171 | 
 | 2023-01-02 | 1706 | 171 | 
 | 2023-01-01 | 1706 | 171 | 
-| 2022-12-31 | 1706 | 171 | 
 

@@ -1,6 +1,6 @@
 # eimtechnology/STEPFPGA-MXO2Core - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 21 | 3 | 
 | 2023-01-29 | 21 | 3 | 
 | 2023-01-28 | 21 | 3 | 
 | 2023-01-26 | 21 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 21 | 3 | 
 | 2023-01-03 | 21 | 3 | 
 | 2023-01-02 | 21 | 3 | 
-| 2023-01-01 | 21 | 3 | 
 

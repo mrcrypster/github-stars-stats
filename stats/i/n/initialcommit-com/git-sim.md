@@ -1,10 +1,10 @@
 # initialcommit-com/git-sim - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 52
+☋ Forks: 59
 
-★ Stars: 1899
+★ Stars: 2025
 
 [Open repository](https://github.com/initialcommit-com/git-sim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2025 | 59 | 
 | 2023-01-29 | 1899 | 52 | 
 | 2023-01-28 | 1821 | 51 | 
 | 2023-01-27 | 1776 | 49 | 

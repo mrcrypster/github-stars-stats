@@ -1,6 +1,6 @@
 # fastai/diffusion-nbs - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 264 | 105 | 
 | 2023-01-29 | 264 | 105 | 
 | 2023-01-28 | 263 | 104 | 
 | 2023-01-27 | 263 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 244 | 100 | 
 | 2023-01-02 | 243 | 99 | 
 | 2023-01-01 | 242 | 98 | 
-| 2022-12-31 | 241 | 96 | 
 

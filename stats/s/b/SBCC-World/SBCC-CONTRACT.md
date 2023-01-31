@@ -1,6 +1,6 @@
 # SBCC-World/SBCC-CONTRACT - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 184 | - | 
 | 2023-01-29 | 184 | - | 
 | 2023-01-28 | 184 | - | 
 | 2023-01-27 | 184 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 184 | - | 
 | 2023-01-02 | 184 | - | 
 | 2023-01-01 | 184 | - | 
-| 2022-12-31 | 184 | - | 
 

@@ -1,10 +1,10 @@
 # oslabs-beta/colada - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 13
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/oslabs-beta/colada)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 85 | 13 | 
 | 2023-01-29 | 84 | 13 | 
 | 2023-01-28 | 84 | 13 | 
 | 2023-01-27 | 84 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 83 | 13 | 
 | 2023-01-03 | 82 | 12 | 
 | 2023-01-02 | 81 | 12 | 
-| 2023-01-01 | 81 | 12 | 
 

@@ -1,6 +1,6 @@
 # AnimeSwap/airdrop - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 36 | 196 | 
 | 2023-01-29 | 36 | 196 | 
 | 2023-01-28 | 36 | 196 | 
 | 2023-01-27 | 36 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 37 | 195 | 
 | 2023-01-02 | 37 | 195 | 
 | 2023-01-01 | 36 | 195 | 
-| 2022-12-31 | 36 | 195 | 
 

@@ -1,6 +1,6 @@
 # znsio/getting-started-with-karate - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2 | 20 | 
 | 2023-01-29 | 2 | 20 | 
 | 2023-01-28 | 2 | 20 | 
 | 2023-01-27 | 2 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | - | 19 | 
 | 2023-01-02 | - | 18 | 
 | 2023-01-01 | - | 18 | 
-| 2022-12-31 | - | 18 | 
 

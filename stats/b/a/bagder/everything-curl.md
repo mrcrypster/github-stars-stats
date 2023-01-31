@@ -1,6 +1,6 @@
 # bagder/everything-curl - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1653 | 285 | 
 | 2023-01-29 | 1653 | 285 | 
 | 2023-01-28 | 1648 | 285 | 
 | 2023-01-26 | 1647 | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1632 | 285 | 
 | 2023-01-02 | 1631 | 285 | 
 | 2023-01-01 | 1631 | 285 | 
-| 2022-12-31 | 1630 | 285 | 
 

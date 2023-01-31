@@ -1,6 +1,6 @@
 # tonylampada/eleicoes22 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 23 | 6 | 
 | 2023-01-29 | 23 | 6 | 
 | 2023-01-28 | 23 | 6 | 
 | 2023-01-27 | 23 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 23 | 5 | 
 | 2023-01-03 | 23 | 5 | 
 | 2023-01-02 | 23 | 5 | 
-| 2023-01-01 | 23 | 5 | 
 

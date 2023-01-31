@@ -1,10 +1,10 @@
 # jenkinsci/JenkinsPipelineUnit - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 368
 
-★ Stars: 1392
+★ Stars: 1393
 
 [Open repository](https://github.com/jenkinsci/JenkinsPipelineUnit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1393 | 368 | 
 | 2023-01-29 | 1392 | 368 | 
 | 2023-01-28 | 1392 | 368 | 
 | 2023-01-27 | 1392 | 368 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1378 | 365 | 
 | 2023-01-02 | 1378 | 365 | 
 | 2023-01-01 | 1377 | 365 | 
-| 2022-12-31 | 1377 | 365 | 
 

@@ -1,6 +1,6 @@
 # splunk/splunk-app-cisco-ironport-email-security - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1 | 5 | 
 | 2023-01-29 | 1 | 5 | 
 | 2023-01-28 | 1 | 5 | 
 | 2023-01-27 | 1 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1 | 5 | 
 | 2023-01-02 | 1 | 5 | 
 | 2023-01-01 | 1 | 5 | 
-| 2022-12-31 | 1 | 5 | 
 

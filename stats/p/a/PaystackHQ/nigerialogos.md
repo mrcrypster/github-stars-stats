@@ -1,6 +1,6 @@
 # PaystackHQ/nigerialogos - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 254 | 250 | 
 | 2023-01-29 | 254 | 250 | 
 | 2023-01-27 | 253 | 250 | 
 | 2023-01-26 | 253 | 250 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 253 | 250 | 
 | 2023-01-03 | 253 | 250 | 
 | 2023-01-02 | 252 | 250 | 
-| 2022-12-31 | 252 | 250 | 
 

@@ -1,6 +1,6 @@
 # corpnewt/ProperTree - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2014 | 365 | 
 | 2023-01-29 | 2014 | 365 | 
 | 2023-01-28 | 2013 | 365 | 
 | 2023-01-27 | 2013 | 365 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1991 | 360 | 
 | 2023-01-02 | 1990 | 360 | 
 | 2023-01-01 | 1989 | 360 | 
-| 2022-12-31 | 1987 | 360 | 
 

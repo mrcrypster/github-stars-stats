@@ -1,10 +1,10 @@
 # integral-dw/org-superstar-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 19
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/integral-dw/org-superstar-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 430 | 19 | 
 | 2023-01-29 | 429 | 19 | 
 | 2023-01-28 | 428 | 19 | 
 | 2023-01-27 | 428 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 424 | 20 | 
 | 2023-01-02 | 423 | 20 | 
 | 2023-01-01 | 423 | 20 | 
-| 2022-12-31 | 422 | 20 | 
 

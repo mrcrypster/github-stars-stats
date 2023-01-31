@@ -1,10 +1,10 @@
 # markdown-it/markdown-it - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1609
 
-★ Stars: 14761
+★ Stars: 14772
 
 [Open repository](https://github.com/markdown-it/markdown-it)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 14772 | 1609 | 
 | 2023-01-29 | 14761 | 1609 | 
 | 2023-01-28 | 14759 | 1609 | 
 | 2023-01-27 | 14755 | 1610 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 14650 | 1594 | 
 | 2023-01-03 | 14646 | 1593 | 
 | 2023-01-02 | 14644 | 1591 | 
-| 2023-01-01 | 14643 | 1592 | 
 

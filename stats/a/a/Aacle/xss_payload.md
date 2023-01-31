@@ -1,6 +1,6 @@
 # Aacle/xss_payload - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 143 | 31 | 
 | 2023-01-30 | 143 | 31 | 
 | 2023-01-28 | 143 | 31 | 
 | 2023-01-27 | 143 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-03 | 137 | 31 | 
 | 2023-01-02 | 137 | 31 | 
 | 2023-01-01 | 136 | 31 | 
-| 2022-12-31 | 136 | 31 | 
 

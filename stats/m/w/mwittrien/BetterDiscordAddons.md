@@ -1,10 +1,10 @@
 # mwittrien/BetterDiscordAddons - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 3278
+☋ Forks: 3286
 
-★ Stars: 1690
+★ Stars: 1691
 
 [Open repository](https://github.com/mwittrien/BetterDiscordAddons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1691 | 3286 | 
 | 2023-01-29 | 1690 | 3278 | 
 | 2023-01-28 | 1690 | 3278 | 
 | 2023-01-27 | 1689 | 3282 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 1661 | 3255 | 
 | 2023-01-03 | 1660 | 3256 | 
 | 2023-01-02 | 1659 | 3256 | 
-| 2023-01-01 | 1658 | 3257 | 
 

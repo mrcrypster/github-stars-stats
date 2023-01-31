@@ -1,10 +1,10 @@
 # Abyssaledge/TorchEx - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/Abyssaledge/TorchEx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 37 | 2 | 
 | 2023-01-29 | 36 | 2 | 
 | 2023-01-28 | 36 | 2 | 
 | 2023-01-27 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 33 | 2 | 
 | 2023-01-02 | 33 | 2 | 
 | 2023-01-01 | 33 | 2 | 
-| 2022-12-31 | 33 | 2 | 
 

@@ -1,6 +1,6 @@
 # microsoft/powerplatform-dev-day - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 13 | - | 
 | 2023-01-29 | 13 | - | 
 | 2023-01-28 | 13 | - | 
 | 2023-01-27 | 13 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 12 | - | 
 | 2023-01-03 | 12 | - | 
 | 2023-01-02 | 12 | - | 
-| 2023-01-01 | 12 | - | 
 

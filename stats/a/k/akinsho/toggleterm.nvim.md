@@ -1,6 +1,6 @@
 # akinsho/toggleterm.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2149 | 112 | 
 | 2023-01-29 | 2149 | 112 | 
 | 2023-01-28 | 2145 | 112 | 
 | 2023-01-27 | 2146 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2037 | 109 | 
 | 2023-01-02 | 2035 | 109 | 
 | 2023-01-01 | 2027 | 110 | 
-| 2022-12-31 | 2022 | 111 | 
 

@@ -1,10 +1,10 @@
 # nikhilbadyal/docker-py-revanced - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 245
+☋ Forks: 247
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/nikhilbadyal/docker-py-revanced)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 128 | 247 | 
 | 2023-01-29 | 127 | 245 | 
 | 2023-01-28 | 126 | 244 | 
 | 2023-01-26 | 124 | 244 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 117 | 239 | 
 | 2023-01-03 | 116 | 238 | 
 | 2023-01-01 | 116 | 238 | 
-| 2022-12-31 | 115 | 237 | 
 

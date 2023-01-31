@@ -1,10 +1,10 @@
 # PowerJob/PowerJob - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 814
+☋ Forks: 815
 
-★ Stars: 4659
+★ Stars: 4664
 
 [Open repository](https://github.com/PowerJob/PowerJob)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 4664 | 815 | 
 | 2023-01-29 | 4659 | 814 | 
 | 2023-01-28 | 4655 | 811 | 
 | 2023-01-27 | 4649 | 810 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 4508 | 798 | 
 | 2023-01-02 | 4497 | 795 | 
 | 2023-01-01 | 4496 | 794 | 
-| 2022-12-31 | 4493 | 794 | 
 

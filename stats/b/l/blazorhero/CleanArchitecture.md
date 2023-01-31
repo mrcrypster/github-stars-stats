@@ -1,10 +1,10 @@
 # blazorhero/CleanArchitecture - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 615
+☋ Forks: 616
 
-★ Stars: 2952
+★ Stars: 2956
 
 [Open repository](https://github.com/blazorhero/CleanArchitecture)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2956 | 616 | 
 | 2023-01-29 | 2952 | 615 | 
 | 2023-01-28 | 2952 | 615 | 
 | 2023-01-27 | 2949 | 613 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2929 | 603 | 
 | 2023-01-02 | 2929 | 604 | 
 | 2023-01-01 | 2929 | 603 | 
-| 2022-12-31 | 2929 | 603 | 
 

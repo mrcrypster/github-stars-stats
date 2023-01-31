@@ -1,6 +1,6 @@
 # Esonhugh/Attack_Code - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 339 | 33 | 
 | 2023-01-29 | 339 | 33 | 
 | 2023-01-28 | 339 | 32 | 
 | 2023-01-27 | 338 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 329 | 31 | 
 | 2023-01-02 | 328 | 31 | 
 | 2023-01-01 | 328 | 31 | 
-| 2022-12-31 | 328 | 31 | 
 

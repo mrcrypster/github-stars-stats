@@ -1,6 +1,6 @@
 # Nalen98/GhidraEmu - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 203 | 15 | 
 | 2023-01-29 | 203 | 15 | 
 | 2023-01-28 | 203 | 15 | 
 | 2023-01-27 | 203 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 182 | 15 | 
 | 2023-01-02 | 181 | 15 | 
 | 2023-01-01 | 180 | 15 | 
-| 2022-12-31 | 180 | 15 | 
 

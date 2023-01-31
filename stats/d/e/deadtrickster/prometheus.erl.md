@@ -1,6 +1,6 @@
 # deadtrickster/prometheus.erl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 321 | 101 | 
 | 2023-01-30 | 321 | 101 | 
 | 2023-01-29 | 321 | 101 | 
 | 2023-01-27 | 321 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 322 | 100 | 
 | 2023-01-03 | 322 | 100 | 
 | 2023-01-02 | 322 | 100 | 
-| 2023-01-01 | 322 | 100 | 
 

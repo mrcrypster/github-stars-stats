@@ -1,10 +1,10 @@
 # Delt06/urp-toon-shader - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 17
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/Delt06/urp-toon-shader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 216 | 17 | 
 | 2023-01-29 | 215 | 17 | 
 | 2023-01-28 | 215 | 17 | 
 | 2023-01-27 | 215 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 211 | 16 | 
 | 2023-01-02 | 211 | 16 | 
 | 2023-01-01 | 211 | 15 | 
-| 2022-12-31 | 211 | 15 | 
 

@@ -1,10 +1,10 @@
 # slowkow/ggrepel - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 89
 
-★ Stars: 1060
+★ Stars: 1059
 
 [Open repository](https://github.com/slowkow/ggrepel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1059 | 89 | 
 | 2023-01-29 | 1060 | 89 | 
 | 2023-01-28 | 1060 | 89 | 
 | 2023-01-27 | 1060 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1056 | 89 | 
 | 2023-01-02 | 1056 | 89 | 
 | 2023-01-01 | 1055 | 89 | 
-| 2022-12-31 | 1055 | 89 | 
 

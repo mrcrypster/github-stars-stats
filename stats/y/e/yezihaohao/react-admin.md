@@ -1,10 +1,10 @@
 # yezihaohao/react-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1819
 
-★ Stars: 6295
+★ Stars: 6297
 
 [Open repository](https://github.com/yezihaohao/react-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6297 | 1819 | 
 | 2023-01-29 | 6295 | 1819 | 
 | 2023-01-28 | 6295 | 1819 | 
 | 2023-01-27 | 6294 | 1819 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 6289 | 1821 | 
 | 2023-01-03 | 6286 | 1821 | 
 | 2023-01-02 | 6284 | 1821 | 
-| 2023-01-01 | 6283 | 1821 | 
 

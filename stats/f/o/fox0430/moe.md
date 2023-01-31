@@ -1,10 +1,10 @@
 # fox0430/moe - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 27
 
-★ Stars: 480
+★ Stars: 482
 
 [Open repository](https://github.com/fox0430/moe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 482 | 27 | 
 | 2023-01-29 | 480 | 27 | 
 | 2023-01-28 | 480 | 27 | 
 | 2023-01-27 | 480 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 472 | 27 | 
 | 2023-01-02 | 472 | 27 | 
 | 2023-01-01 | 472 | 27 | 
-| 2022-12-31 | 473 | 27 | 
 

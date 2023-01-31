@@ -1,8 +1,8 @@
 # microsoft/referencesource - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 1206
+☋ Forks: 1207
 
 ★ Stars: 2864
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2864 | 1207 | 
 | 2023-01-29 | 2864 | 1206 | 
 | 2023-01-28 | 2864 | 1205 | 
 | 2023-01-27 | 2863 | 1205 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 2847 | 1195 | 
 | 2023-01-03 | 2846 | 1196 | 
 | 2023-01-02 | 2844 | 1195 | 
-| 2022-12-31 | 2844 | 1195 | 
 

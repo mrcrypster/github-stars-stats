@@ -1,10 +1,10 @@
 # garmeeh/next-seo - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 320
+☋ Forks: 322
 
-★ Stars: 6104
+★ Stars: 6111
 
 [Open repository](https://github.com/garmeeh/next-seo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6111 | 322 | 
 | 2023-01-29 | 6104 | 320 | 
 | 2023-01-28 | 6103 | 320 | 
 | 2023-01-27 | 6100 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 5977 | 313 | 
 | 2023-01-02 | 5972 | 313 | 
 | 2023-01-01 | 5971 | 313 | 
-| 2022-12-31 | 5970 | 312 | 
 

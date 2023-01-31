@@ -1,10 +1,10 @@
 # cortexproject/cortex - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 709
 
-★ Stars: 4963
+★ Stars: 4964
 
 [Open repository](https://github.com/cortexproject/cortex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 4964 | 709 | 
 | 2023-01-29 | 4963 | 709 | 
 | 2023-01-28 | 4963 | 709 | 
 | 2023-01-27 | 4962 | 708 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 4948 | 706 | 
 | 2023-01-02 | 4946 | 706 | 
 | 2023-01-01 | 4946 | 706 | 
-| 2022-12-31 | 4945 | 706 | 
 

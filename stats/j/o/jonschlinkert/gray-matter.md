@@ -1,10 +1,10 @@
 # jonschlinkert/gray-matter - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 128
 
-★ Stars: 2992
+★ Stars: 2996
 
 [Open repository](https://github.com/jonschlinkert/gray-matter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2996 | 128 | 
 | 2023-01-29 | 2992 | 128 | 
 | 2023-01-28 | 2988 | 128 | 
 | 2023-01-27 | 2986 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2943 | 124 | 
 | 2023-01-02 | 2942 | 124 | 
 | 2023-01-01 | 2941 | 124 | 
-| 2022-12-31 | 2940 | 124 | 
 

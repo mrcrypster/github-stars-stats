@@ -1,10 +1,10 @@
 # CuCodersCommunity/cucoderscommunity.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/CuCodersCommunity/cucoderscommunity.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 21 | 8 | 
 | 2023-01-29 | 20 | 8 | 
 | 2023-01-28 | 19 | 8 | 
 | 2023-01-27 | 19 | 8 | 

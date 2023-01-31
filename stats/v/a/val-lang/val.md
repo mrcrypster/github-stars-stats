@@ -1,6 +1,6 @@
 # val-lang/val - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 366 | 16 | 
 | 2023-01-29 | 366 | 16 | 
 | 2023-01-28 | 362 | 16 | 
 | 2023-01-27 | 362 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 319 | 12 | 
 | 2023-01-02 | 314 | 12 | 
 | 2023-01-01 | 302 | 10 | 
-| 2022-12-31 | 301 | 10 | 
 

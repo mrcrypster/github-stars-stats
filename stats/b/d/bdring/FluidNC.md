@@ -1,10 +1,10 @@
 # bdring/FluidNC - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 203
+☋ Forks: 204
 
-★ Stars: 749
+★ Stars: 752
 
 [Open repository](https://github.com/bdring/FluidNC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 752 | 204 | 
 | 2023-01-29 | 749 | 203 | 
 | 2023-01-28 | 746 | 203 | 
 | 2023-01-27 | 742 | 203 | 

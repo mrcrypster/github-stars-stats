@@ -1,10 +1,10 @@
 # SmallRuralDog/vue3-music - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 190
+☋ Forks: 191
 
-★ Stars: 811
+★ Stars: 814
 
 [Open repository](https://github.com/SmallRuralDog/vue3-music)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 814 | 191 | 
 | 2023-01-29 | 811 | 190 | 
 | 2023-01-28 | 812 | 190 | 
 | 2023-01-27 | 810 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 779 | 182 | 
 | 2023-01-02 | 778 | 181 | 
 | 2023-01-01 | 777 | 181 | 
-| 2022-12-31 | 777 | 181 | 
 

@@ -1,6 +1,6 @@
 # bazel-ios/rules_ios - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 218 | 71 | 
 | 2023-01-29 | 218 | 71 | 
 | 2023-01-28 | 218 | 71 | 
 | 2023-01-27 | 218 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 210 | 70 | 
 | 2023-01-02 | 210 | 70 | 
 | 2023-01-01 | 210 | 70 | 
-| 2022-12-31 | 210 | 70 | 
 

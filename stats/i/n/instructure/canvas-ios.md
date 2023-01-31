@@ -1,8 +1,8 @@
 # instructure/canvas-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 561
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 561 | 79 | 
 | 2023-01-29 | 561 | 78 | 
 | 2023-01-28 | 561 | 78 | 
 | 2023-01-27 | 560 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 543 | 79 | 
 | 2023-01-02 | 542 | 78 | 
 | 2023-01-01 | 542 | 78 | 
-| 2022-12-31 | 542 | 78 | 
 

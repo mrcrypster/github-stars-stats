@@ -1,10 +1,10 @@
 # lrusso/ArduinoSimulator - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/lrusso/ArduinoSimulator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 53 | 2 | 
 | 2023-01-29 | 52 | 2 | 
 | 2023-01-28 | 52 | 2 | 
 | 2023-01-27 | 49 | 2 | 

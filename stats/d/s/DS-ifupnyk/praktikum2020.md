@@ -1,6 +1,6 @@
 # DS-ifupnyk/praktikum2020 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 5 | 265 | 
 | 2023-01-29 | 5 | 265 | 
 | 2023-01-28 | 5 | 265 | 
 | 2023-01-27 | 5 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 5 | 265 | 
 | 2023-01-02 | 5 | 265 | 
 | 2023-01-01 | 5 | 265 | 
-| 2022-12-31 | 5 | 265 | 
 

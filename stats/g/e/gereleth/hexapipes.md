@@ -1,10 +1,10 @@
 # gereleth/hexapipes - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 10
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/gereleth/hexapipes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 154 | 10 | 
 | 2023-01-29 | 153 | 10 | 
 | 2023-01-28 | 153 | 10 | 
 | 2023-01-27 | 153 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 154 | 10 | 
 | 2023-01-02 | 154 | 10 | 
 | 2023-01-01 | 154 | 10 | 
-| 2022-12-31 | 153 | 10 | 
 

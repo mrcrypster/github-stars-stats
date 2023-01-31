@@ -1,10 +1,10 @@
 # JaeYeopHan/Interview_Question_for_Beginner - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 4034
+☋ Forks: 4036
 
-★ Stars: 15213
+★ Stars: 15226
 
 [Open repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 15226 | 4036 | 
 | 2023-01-29 | 15213 | 4034 | 
 | 2023-01-28 | 15205 | 4032 | 
 | 2023-01-27 | 15204 | 4032 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 14926 | 3976 | 
 | 2023-01-02 | 14908 | 3973 | 
 | 2023-01-01 | 14893 | 3973 | 
-| 2022-12-31 | 14885 | 3973 | 
 

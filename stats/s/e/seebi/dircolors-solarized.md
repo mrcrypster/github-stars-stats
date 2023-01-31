@@ -1,6 +1,6 @@
 # seebi/dircolors-solarized - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 458
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2751 | 458 | 
 | 2023-01-29 | 2751 | 458 | 
 | 2023-01-28 | 2751 | 458 | 
 | 2023-01-27 | 2750 | 458 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2749 | 459 | 
 | 2023-01-02 | 2749 | 460 | 
 | 2023-01-01 | 2749 | 460 | 
-| 2022-12-31 | 2749 | 460 | 
 

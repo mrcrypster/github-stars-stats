@@ -1,6 +1,6 @@
 # fengguangbin/spring-rce-war - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 86 | 135 | 
 | 2023-01-29 | 86 | 135 | 
 | 2023-01-28 | 86 | 135 | 
 | 2023-01-27 | 86 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 86 | 135 | 
 | 2023-01-02 | 86 | 135 | 
 | 2023-01-01 | 86 | 135 | 
-| 2022-12-31 | 86 | 135 | 
 

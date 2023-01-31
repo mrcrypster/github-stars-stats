@@ -1,10 +1,10 @@
 # tinyobjloader/tinyobjloader - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 547
+☋ Forks: 548
 
-★ Stars: 2773
+★ Stars: 2774
 
 [Open repository](https://github.com/tinyobjloader/tinyobjloader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2774 | 548 | 
 | 2023-01-30 | 2773 | 547 | 
 | 2023-01-28 | 2772 | 547 | 
 | 2023-01-27 | 2773 | 547 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2752 | 545 | 
 | 2023-01-03 | 2749 | 545 | 
 | 2023-01-02 | 2747 | 545 | 
-| 2022-12-31 | 2747 | 546 | 
 

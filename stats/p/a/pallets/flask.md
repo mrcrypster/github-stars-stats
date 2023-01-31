@@ -1,10 +1,10 @@
 # pallets/flask - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 15420
+☋ Forks: 15424
 
-★ Stars: 61714
+★ Stars: 61730
 
 [Open repository](https://github.com/pallets/flask)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 61730 | 15424 | 
 | 2023-01-30 | 61714 | 15420 | 
 | 2023-01-28 | 61704 | 15418 | 
 | 2023-01-27 | 61686 | 15419 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 61462 | 15376 | 
 | 2023-01-02 | 61451 | 15376 | 
 | 2023-01-01 | 61435 | 15376 | 
-| 2022-12-31 | 61426 | 15375 | 
 

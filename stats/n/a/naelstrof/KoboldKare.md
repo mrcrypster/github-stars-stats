@@ -1,6 +1,6 @@
 # naelstrof/KoboldKare - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 36 | 39 | 
 | 2023-01-29 | 36 | 39 | 
 | 2023-01-28 | 36 | 39 | 
 | 2023-01-27 | 36 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 33 | 26 | 
 | 2023-01-02 | 33 | 26 | 
 | 2023-01-01 | 33 | 26 | 
-| 2022-12-31 | 32 | 26 | 
 

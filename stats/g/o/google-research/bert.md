@@ -1,10 +1,10 @@
 # google-research/bert - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 9007
+☋ Forks: 9010
 
-★ Stars: 33011
+★ Stars: 33017
 
 [Open repository](https://github.com/google-research/bert)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 33017 | 9010 | 
 | 2023-01-29 | 33011 | 9007 | 
 | 2023-01-28 | 33006 | 9005 | 
 | 2023-01-27 | 33000 | 9004 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 32886 | 8982 | 
 | 2023-01-02 | 32874 | 8981 | 
 | 2023-01-01 | 32861 | 8982 | 
-| 2022-12-31 | 32858 | 8978 | 
 

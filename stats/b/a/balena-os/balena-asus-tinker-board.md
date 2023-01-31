@@ -1,6 +1,6 @@
 # balena-os/balena-asus-tinker-board - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 8 | - | 
 | 2023-01-29 | 8 | - | 
 | 2023-01-28 | 8 | - | 
 | 2023-01-27 | 8 | - | 

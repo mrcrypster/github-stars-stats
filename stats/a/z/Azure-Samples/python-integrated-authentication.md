@@ -1,10 +1,10 @@
 # Azure-Samples/python-integrated-authentication - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 8
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Azure-Samples/python-integrated-authentication)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 5 | 8 | 
 | 2023-01-29 | 4 | 8 | 
 | 2023-01-28 | 4 | 8 | 
 | 2023-01-27 | 4 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 4 | 8 | 
 | 2023-01-02 | 4 | 8 | 
 | 2023-01-01 | 4 | 8 | 
-| 2022-12-31 | 4 | 8 | 
 

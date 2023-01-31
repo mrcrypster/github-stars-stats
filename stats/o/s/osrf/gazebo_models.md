@@ -1,6 +1,6 @@
 # osrf/gazebo_models - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 784
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 511 | 784 | 
 | 2023-01-29 | 511 | 784 | 
 | 2023-01-28 | 511 | 783 | 
 | 2023-01-27 | 511 | 783 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 501 | 778 | 
 | 2023-01-02 | 501 | 778 | 
 | 2023-01-01 | 501 | 778 | 
-| 2022-12-31 | 501 | 777 | 
 

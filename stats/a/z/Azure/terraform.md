@@ -1,6 +1,6 @@
 # Azure/terraform - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 496
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 376 | 496 | 
 | 2023-01-29 | 376 | 496 | 
 | 2023-01-28 | 376 | 495 | 
 | 2023-01-27 | 373 | 494 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 360 | 483 | 
 | 2023-01-02 | 360 | 484 | 
 | 2023-01-01 | 360 | 484 | 
-| 2022-12-31 | 360 | 484 | 
 

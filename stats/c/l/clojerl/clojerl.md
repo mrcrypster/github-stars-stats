@@ -1,6 +1,6 @@
 # clojerl/clojerl - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1577 | 36 | 
 | 2023-01-29 | 1577 | 36 | 
 | 2023-01-28 | 1576 | 36 | 
 | 2023-01-26 | 1576 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 1571 | 36 | 
 | 2023-01-03 | 1571 | 36 | 
 | 2023-01-01 | 1570 | 36 | 
-| 2022-12-31 | 1569 | 36 | 
 

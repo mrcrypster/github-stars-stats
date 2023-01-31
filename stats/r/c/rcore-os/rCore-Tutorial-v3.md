@@ -1,10 +1,10 @@
 # rcore-os/rCore-Tutorial-v3 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 261
 
-★ Stars: 817
+★ Stars: 818
 
 [Open repository](https://github.com/rcore-os/rCore-Tutorial-v3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 818 | 261 | 
 | 2023-01-29 | 817 | 261 | 
 | 2023-01-28 | 814 | 262 | 
 | 2023-01-26 | 810 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 786 | 259 | 
 | 2023-01-02 | 784 | 259 | 
 | 2023-01-01 | 784 | 259 | 
-| 2022-12-31 | 784 | 259 | 
 

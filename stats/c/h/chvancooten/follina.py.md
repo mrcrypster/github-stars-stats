@@ -1,6 +1,6 @@
 # chvancooten/follina.py - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 249
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1073 | 249 | 
 | 2023-01-29 | 1073 | 249 | 
 | 2023-01-28 | 1073 | 249 | 
 | 2023-01-27 | 1073 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1067 | 250 | 
 | 2023-01-02 | 1067 | 250 | 
 | 2023-01-01 | 1067 | 250 | 
-| 2022-12-31 | 1067 | 250 | 
 

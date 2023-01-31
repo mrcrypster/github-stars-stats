@@ -1,10 +1,10 @@
 # plexus/chemacs2 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 47
 
-★ Stars: 619
+★ Stars: 620
 
 [Open repository](https://github.com/plexus/chemacs2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 620 | 47 | 
 | 2023-01-29 | 619 | 47 | 
 | 2023-01-28 | 618 | 47 | 
 | 2023-01-27 | 618 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 611 | 44 | 
 | 2023-01-02 | 611 | 44 | 
 | 2023-01-01 | 611 | 44 | 
-| 2022-12-31 | 610 | 44 | 
 

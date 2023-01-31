@@ -1,6 +1,6 @@
 # kharchenkolab/numbat - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 90 | 13 | 
 | 2023-01-29 | 90 | 13 | 
 | 2023-01-27 | 89 | 13 | 
 | 2023-01-26 | 89 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 86 | 12 | 
 | 2023-01-03 | 87 | 12 | 
 | 2023-01-01 | 87 | 12 | 
-| 2022-12-31 | 87 | 12 | 
 

@@ -1,6 +1,6 @@
 # s0md3v/Smap - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2317 | 191 | 
 | 2023-01-30 | 2317 | 191 | 
 | 2023-01-28 | 2316 | 191 | 
 | 2023-01-27 | 2314 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2287 | 187 | 
 | 2023-01-03 | 2285 | 187 | 
 | 2023-01-02 | 2286 | 187 | 
-| 2023-01-01 | 2286 | 187 | 
 

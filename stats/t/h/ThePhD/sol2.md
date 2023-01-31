@@ -1,10 +1,10 @@
 # ThePhD/sol2 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 376
 
-★ Stars: 3292
+★ Stars: 3294
 
 [Open repository](https://github.com/ThePhD/sol2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3294 | 376 | 
 | 2023-01-29 | 3292 | 376 | 
 | 2023-01-28 | 3291 | 376 | 
 | 2023-01-27 | 3287 | 376 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 3269 | 372 | 
 | 2023-01-02 | 3268 | 372 | 
 | 2023-01-01 | 3267 | 372 | 
-| 2022-12-31 | 3267 | 374 | 
 

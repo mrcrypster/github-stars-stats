@@ -1,10 +1,10 @@
 # beetlehr/beetlehr - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 54
+☋ Forks: 57
 
-★ Stars: 157
+★ Stars: 167
 
 [Open repository](https://github.com/beetlehr/beetlehr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 167 | 57 | 
 | 2023-01-29 | 157 | 54 | 
 | 2023-01-28 | 151 | 49 | 
 | 2023-01-27 | 137 | 46 | 

@@ -1,6 +1,6 @@
 # ramsey/collection - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 874 | 55 | 
 | 2023-01-29 | 874 | 55 | 
 | 2023-01-28 | 874 | 55 | 
 | 2023-01-27 | 873 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 856 | 53 | 
 | 2023-01-02 | 855 | 53 | 
 | 2023-01-01 | 854 | 53 | 
-| 2022-12-31 | 853 | 52 | 
 

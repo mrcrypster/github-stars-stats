@@ -1,10 +1,10 @@
 # fuzhengwei/small-spring - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 1070
+☋ Forks: 1072
 
-★ Stars: 3633
+★ Stars: 3638
 
 [Open repository](https://github.com/fuzhengwei/small-spring)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3638 | 1072 | 
 | 2023-01-29 | 3633 | 1070 | 
 | 2023-01-28 | 3631 | 1070 | 
 | 2023-01-27 | 3629 | 1070 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 3607 | 1063 | 
 | 2023-01-02 | 3603 | 1060 | 
 | 2023-01-01 | 3602 | 1060 | 
-| 2022-12-31 | 3602 | 1060 | 
 

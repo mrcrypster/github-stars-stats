@@ -1,10 +1,10 @@
 # 19801201/SpinalHDL_CNN_Accelerator - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 17
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/19801201/SpinalHDL_CNN_Accelerator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 61 | 17 | 
 | 2023-01-29 | 60 | 17 | 
 | 2023-01-28 | 60 | 17 | 
 | 2023-01-27 | 60 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 59 | 16 | 
 | 2023-01-03 | 59 | 16 | 
 | 2023-01-02 | 59 | 16 | 
-| 2023-01-01 | 59 | 16 | 
 

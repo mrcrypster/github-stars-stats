@@ -1,6 +1,6 @@
 # LooksRare/contracts-libs - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 27 | 6 | 
 | 2023-01-29 | 27 | 6 | 
 | 2023-01-28 | 27 | 6 | 
 | 2023-01-27 | 27 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 24 | 6 | 
 | 2023-01-02 | 24 | 6 | 
 | 2023-01-01 | 24 | 6 | 
-| 2022-12-31 | 24 | 6 | 
 

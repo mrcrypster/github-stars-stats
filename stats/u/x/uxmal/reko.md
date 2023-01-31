@@ -1,10 +1,10 @@
 # uxmal/reko - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 213
 
-★ Stars: 1637
+★ Stars: 1639
 
 [Open repository](https://github.com/uxmal/reko)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1639 | 213 | 
 | 2023-01-29 | 1637 | 213 | 
 | 2023-01-28 | 1638 | 213 | 
 | 2023-01-27 | 1635 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1627 | 212 | 
 | 2023-01-02 | 1626 | 212 | 
 | 2023-01-01 | 1626 | 212 | 
-| 2022-12-31 | 1626 | 212 | 
 

@@ -1,6 +1,6 @@
 # Kotlin/kotlinx-kover - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 813 | 30 | 
 | 2023-01-29 | 813 | 30 | 
 | 2023-01-28 | 813 | 30 | 
 | 2023-01-26 | 812 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 799 | 30 | 
 | 2023-01-03 | 796 | 30 | 
 | 2023-01-02 | 796 | 30 | 
-| 2023-01-01 | 796 | 30 | 
 

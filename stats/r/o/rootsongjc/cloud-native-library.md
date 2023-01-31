@@ -1,6 +1,6 @@
 # rootsongjc/cloud-native-library - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 169 | 28 | 
 | 2023-01-29 | 169 | 28 | 
 | 2023-01-28 | 169 | 28 | 
 | 2023-01-27 | 169 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 161 | 25 | 
 | 2023-01-02 | 159 | 25 | 
 | 2023-01-01 | 159 | 25 | 
-| 2022-12-31 | 158 | 25 | 
 

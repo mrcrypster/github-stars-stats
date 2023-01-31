@@ -1,10 +1,10 @@
 # BuddiesOfBudgie/budgie-backgrounds - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/BuddiesOfBudgie/budgie-backgrounds)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 10 | 3 | 
 | 2023-01-29 | 9 | 3 | 
 | 2023-01-28 | 9 | 3 | 
 | 2023-01-27 | 9 | 3 | 

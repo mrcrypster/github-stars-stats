@@ -1,6 +1,6 @@
 # Lakr233/SwiftCourse - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 282 | 5 | 
 | 2023-01-29 | 282 | 5 | 
 | 2023-01-28 | 282 | 5 | 
 | 2023-01-27 | 282 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 280 | 5 | 
 | 2023-01-02 | 280 | 5 | 
 | 2023-01-01 | 280 | 5 | 
-| 2022-12-31 | 280 | 5 | 
 

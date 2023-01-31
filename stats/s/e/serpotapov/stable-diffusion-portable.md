@@ -1,6 +1,6 @@
 # serpotapov/stable-diffusion-portable - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 68 | 7 | 
 | 2023-01-29 | 68 | 7 | 
 | 2023-01-28 | 66 | 7 | 
 | 2023-01-27 | 59 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 36 | 3 | 
 | 2023-01-02 | 36 | 3 | 
 | 2023-01-01 | 36 | 3 | 
-| 2022-12-31 | 36 | 3 | 
 

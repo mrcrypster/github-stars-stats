@@ -1,6 +1,6 @@
 # rocketseat-education/nlw-06-elixir - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 76 | 61 | 
 | 2023-01-29 | 76 | 61 | 
 | 2023-01-28 | 76 | 61 | 
 | 2023-01-27 | 76 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 77 | 62 | 
 | 2023-01-02 | 77 | 62 | 
 | 2023-01-01 | 77 | 62 | 
-| 2022-12-31 | 77 | 62 | 
 

@@ -1,6 +1,6 @@
 # MrAnonymous09/hacktoberfest-solutions-submissions - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 20 | 23 | 
 | 2023-01-29 | 20 | 23 | 
 | 2023-01-28 | 20 | 23 | 
 | 2023-01-27 | 20 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 20 | 23 | 
 | 2023-01-03 | 20 | 23 | 
 | 2023-01-02 | 20 | 23 | 
-| 2023-01-01 | 20 | 23 | 
 

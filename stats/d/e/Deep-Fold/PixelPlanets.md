@@ -1,10 +1,10 @@
 # Deep-Fold/PixelPlanets - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 89
 
-★ Stars: 687
+★ Stars: 689
 
 [Open repository](https://github.com/Deep-Fold/PixelPlanets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 689 | 89 | 
 | 2023-01-29 | 687 | 89 | 
 | 2023-01-28 | 685 | 89 | 
 | 2023-01-27 | 685 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 675 | 88 | 
 | 2023-01-02 | 675 | 88 | 
 | 2023-01-01 | 675 | 88 | 
-| 2022-12-31 | 675 | 88 | 
 

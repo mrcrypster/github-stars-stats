@@ -1,10 +1,10 @@
 # googlefonts/morisawa-biz-ud-gothic - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 17
 
-★ Stars: 537
+★ Stars: 538
 
 [Open repository](https://github.com/googlefonts/morisawa-biz-ud-gothic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 538 | 17 | 
 | 2023-01-29 | 537 | 17 | 
 | 2023-01-28 | 537 | 17 | 
 | 2023-01-27 | 537 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 535 | 16 | 
 | 2023-01-02 | 535 | 16 | 
 | 2023-01-01 | 535 | 16 | 
-| 2022-12-31 | 535 | 16 | 
 

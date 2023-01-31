@@ -1,10 +1,10 @@
 # jessepollak/card - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1474
 
-★ Stars: 11501
+★ Stars: 11500
 
 [Open repository](https://github.com/jessepollak/card)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 11500 | 1474 | 
 | 2023-01-29 | 11501 | 1474 | 
 | 2023-01-28 | 11501 | 1474 | 
 | 2023-01-27 | 11501 | 1474 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 11487 | 1476 | 
 | 2023-01-02 | 11488 | 1476 | 
 | 2023-01-01 | 11488 | 1476 | 
-| 2022-12-31 | 11487 | 1476 | 
 

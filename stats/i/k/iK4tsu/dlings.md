@@ -1,10 +1,10 @@
 # iK4tsu/dlings - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/iK4tsu/dlings)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 17 | 2 | 
 | 2023-01-29 | 16 | 2 | 
 | 2023-01-28 | 16 | 2 | 
 | 2023-01-27 | 16 | 2 | 

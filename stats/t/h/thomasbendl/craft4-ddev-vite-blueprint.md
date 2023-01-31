@@ -1,6 +1,6 @@
 # thomasbendl/craft4-ddev-vite-blueprint - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 22 | 4 | 
 | 2023-01-29 | 22 | 4 | 
 | 2023-01-28 | 22 | 4 | 
 | 2023-01-27 | 22 | 4 | 

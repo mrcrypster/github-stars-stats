@@ -1,10 +1,10 @@
 # ophub/amlogic-s9xxx-armbian - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 740
 
-★ Stars: 2098
+★ Stars: 2112
 
 [Open repository](https://github.com/ophub/amlogic-s9xxx-armbian)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2112 | 740 | 
 | 2023-01-29 | 2098 | 740 | 
 | 2023-01-28 | 2079 | 737 | 
 | 2023-01-27 | 2067 | 737 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1882 | 687 | 
 | 2023-01-02 | 1878 | 683 | 
 | 2023-01-01 | 1873 | 681 | 
-| 2022-12-31 | 1868 | 681 | 
 

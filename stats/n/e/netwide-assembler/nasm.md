@@ -1,10 +1,10 @@
 # netwide-assembler/nasm - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 181
+☋ Forks: 182
 
-★ Stars: 1497
+★ Stars: 1499
 
 [Open repository](https://github.com/netwide-assembler/nasm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1499 | 182 | 
 | 2023-01-29 | 1497 | 181 | 
 | 2023-01-28 | 1497 | 180 | 
 | 2023-01-27 | 1495 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1469 | 176 | 
 | 2023-01-02 | 1468 | 176 | 
 | 2023-01-01 | 1465 | 176 | 
-| 2022-12-31 | 1464 | 176 | 
 

@@ -1,10 +1,10 @@
 # AFNetworking/AFNetworking - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 10258
+☋ Forks: 10259
 
-★ Stars: 33351
+★ Stars: 33352
 
 [Open repository](https://github.com/AFNetworking/AFNetworking)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 33352 | 10259 | 
 | 2023-01-29 | 33351 | 10258 | 
 | 2023-01-28 | 33349 | 10259 | 
 | 2023-01-27 | 33349 | 10258 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 33346 | 10230 | 
 | 2023-01-02 | 33346 | 10229 | 
 | 2023-01-01 | 33346 | 10228 | 
-| 2022-12-31 | 33346 | 10228 | 
 

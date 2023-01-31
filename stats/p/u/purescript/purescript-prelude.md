@@ -1,6 +1,6 @@
 # purescript/purescript-prelude - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 157 | 89 | 
 | 2023-01-29 | 157 | 89 | 
 | 2023-01-28 | 157 | 89 | 
 | 2023-01-27 | 157 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 157 | 89 | 
 | 2023-01-02 | 157 | 89 | 
 | 2023-01-01 | 156 | 88 | 
-| 2022-12-31 | 156 | 88 | 
 

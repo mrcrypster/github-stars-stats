@@ -1,6 +1,6 @@
 # kuutsav/information-retrieval - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 118 | 14 | 
 | 2023-01-29 | 118 | 14 | 
 | 2023-01-28 | 118 | 14 | 
 | 2023-01-26 | 117 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 114 | 13 | 
 | 2023-01-03 | 114 | 13 | 
 | 2023-01-01 | 114 | 13 | 
-| 2022-12-31 | 114 | 13 | 
 

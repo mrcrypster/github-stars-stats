@@ -1,10 +1,10 @@
 # sail-tunnel/sail - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 99
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/sail-tunnel/sail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 203 | 99 | 
 | 2023-01-29 | 202 | 99 | 
 | 2023-01-28 | 200 | 98 | 
 | 2023-01-27 | 200 | 98 | 

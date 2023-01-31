@@ -1,6 +1,6 @@
 # rafaballerini/rafaballerini - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 17210
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2142 | 17210 | 
 | 2023-01-29 | 2142 | 17210 | 
 | 2023-01-28 | 2142 | 17192 | 
 | 2023-01-27 | 2141 | 17180 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2111 | 16830 | 
 | 2023-01-02 | 2108 | 16797 | 
 | 2023-01-01 | 2107 | 16782 | 
-| 2022-12-31 | 2108 | 16774 | 
 

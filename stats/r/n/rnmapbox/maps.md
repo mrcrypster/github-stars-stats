@@ -1,10 +1,10 @@
 # rnmapbox/maps - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 715
 
-★ Stars: 1593
+★ Stars: 1594
 
 [Open repository](https://github.com/rnmapbox/maps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1594 | 715 | 
 | 2023-01-29 | 1593 | 715 | 
 | 2023-01-28 | 1592 | 715 | 
 | 2023-01-27 | 1591 | 715 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1565 | 706 | 
 | 2023-01-02 | 1564 | 707 | 
 | 2023-01-01 | 1563 | 707 | 
-| 2022-12-31 | 1563 | 707 | 
 

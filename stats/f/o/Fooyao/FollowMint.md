@@ -1,10 +1,10 @@
 # Fooyao/FollowMint - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 70
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/Fooyao/FollowMint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 99 | 70 | 
 | 2023-01-29 | 98 | 70 | 
 | 2023-01-28 | 98 | 70 | 
 | 2023-01-27 | 98 | 70 | 

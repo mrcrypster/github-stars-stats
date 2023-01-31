@@ -1,6 +1,6 @@
 # JupiterBroadcasting/jupiterbroadcasting.com - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 80 | 36 | 
 | 2023-01-30 | 80 | 36 | 
 | 2023-01-28 | 79 | 36 | 
 | 2023-01-27 | 79 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-03 | 71 | 35 | 
 | 2023-01-02 | 70 | 35 | 
 | 2023-01-01 | 70 | 35 | 
-| 2022-12-31 | 70 | 35 | 
 

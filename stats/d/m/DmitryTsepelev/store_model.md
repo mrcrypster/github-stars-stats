@@ -1,10 +1,10 @@
 # DmitryTsepelev/store_model - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 61
 
-★ Stars: 730
+★ Stars: 731
 
 [Open repository](https://github.com/DmitryTsepelev/store_model)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 731 | 61 | 
 | 2023-01-29 | 730 | 61 | 
 | 2023-01-28 | 730 | 61 | 
 | 2023-01-27 | 728 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 685 | 60 | 
 | 2023-01-02 | 685 | 60 | 
 | 2023-01-01 | 685 | 60 | 
-| 2022-12-31 | 685 | 60 | 
 

@@ -1,6 +1,6 @@
 # stevebauman/laravel-husk - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 85 | 1 | 
 | 2023-01-28 | 85 | 1 | 
 | 2023-01-27 | 85 | 1 | 
 | 2023-01-26 | 84 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 85 | - | 
 | 2023-01-02 | 85 | - | 
 | 2023-01-01 | 85 | - | 
-| 2022-12-31 | 85 | - | 
 

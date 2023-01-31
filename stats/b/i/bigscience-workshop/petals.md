@@ -1,10 +1,10 @@
 # bigscience-workshop/petals - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 2936
+★ Stars: 2947
 
 [Open repository](https://github.com/bigscience-workshop/petals)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2947 | 85 | 
 | 2023-01-29 | 2936 | 84 | 
 | 2023-01-28 | 2925 | 84 | 
 | 2023-01-27 | 2912 | 84 | 

@@ -1,6 +1,6 @@
 # Bhupesh-V/ugit - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1063 | 39 | 
 | 2023-01-28 | 1063 | 39 | 
 | 2023-01-27 | 1063 | 39 | 
 | 2023-01-26 | 1064 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 1050 | 39 | 
 | 2023-01-02 | 1049 | 39 | 
 | 2023-01-01 | 1048 | 39 | 
-| 2022-12-31 | 1047 | 39 | 
 

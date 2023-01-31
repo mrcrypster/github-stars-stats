@@ -1,10 +1,10 @@
 # olafhartong/MDE-AuditCheck - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/olafhartong/MDE-AuditCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 83 | 5 | 
 | 2023-01-29 | 82 | 5 | 
 | 2023-01-28 | 82 | 5 | 
 | 2023-01-27 | 82 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 82 | 5 | 
 | 2023-01-02 | 82 | 5 | 
 | 2023-01-01 | 82 | 5 | 
-| 2022-12-31 | 82 | 5 | 
 

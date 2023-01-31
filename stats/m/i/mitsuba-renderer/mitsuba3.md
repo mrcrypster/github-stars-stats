@@ -1,10 +1,10 @@
 # mitsuba-renderer/mitsuba3 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 90
 
-★ Stars: 1167
+★ Stars: 1168
 
 [Open repository](https://github.com/mitsuba-renderer/mitsuba3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1168 | 90 | 
 | 2023-01-29 | 1167 | 90 | 
 | 2023-01-28 | 1166 | 90 | 
 | 2023-01-27 | 1162 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1125 | 85 | 
 | 2023-01-02 | 1125 | 85 | 
 | 2023-01-01 | 1125 | 85 | 
-| 2022-12-31 | 1126 | 85 | 
 

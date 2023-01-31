@@ -1,10 +1,10 @@
 # OpenIntelWireless/itlwm - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 571
 
-★ Stars: 5978
+★ Stars: 5983
 
 [Open repository](https://github.com/OpenIntelWireless/itlwm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 5983 | 571 | 
 | 2023-01-29 | 5978 | 571 | 
 | 2023-01-28 | 5974 | 571 | 
 | 2023-01-27 | 5976 | 570 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 5929 | 568 | 
 | 2023-01-02 | 5930 | 568 | 
 | 2023-01-01 | 5930 | 568 | 
-| 2022-12-31 | 5929 | 568 | 
 

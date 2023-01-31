@@ -1,8 +1,8 @@
 # cirulls/hands-on-jenkins - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 597
+☋ Forks: 598
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 64 | 598 | 
 | 2023-01-29 | 64 | 597 | 
 | 2023-01-28 | 64 | 594 | 
 | 2023-01-27 | 64 | 594 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 64 | 591 | 
 | 2023-01-02 | 64 | 591 | 
 | 2023-01-01 | 64 | 591 | 
-| 2022-12-31 | 64 | 591 | 
 

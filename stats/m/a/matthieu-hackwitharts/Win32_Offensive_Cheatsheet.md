@@ -1,6 +1,6 @@
 # matthieu-hackwitharts/Win32_Offensive_Cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 280 | 50 | 
 | 2023-01-29 | 280 | 50 | 
 | 2023-01-28 | 278 | 50 | 
 | 2023-01-27 | 278 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 263 | 50 | 
 | 2023-01-02 | 263 | 50 | 
 | 2023-01-01 | 263 | 50 | 
-| 2022-12-31 | 263 | 50 | 
 

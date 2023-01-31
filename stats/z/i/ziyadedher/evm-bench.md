@@ -1,6 +1,6 @@
 # ziyadedher/evm-bench - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 104 | 5 | 
 | 2023-01-29 | 104 | 5 | 
 | 2023-01-28 | 103 | 5 | 
 | 2023-01-27 | 103 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 100 | 4 | 
 | 2023-01-02 | 98 | 4 | 
 | 2023-01-01 | 98 | 4 | 
-| 2022-12-31 | 98 | 4 | 
 

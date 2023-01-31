@@ -1,10 +1,10 @@
 # moyix/fauxpilot - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 340
 
-★ Stars: 7593
+★ Stars: 7600
 
 [Open repository](https://github.com/moyix/fauxpilot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 7600 | 340 | 
 | 2023-01-29 | 7593 | 340 | 
 | 2023-01-28 | 7583 | 341 | 
 | 2023-01-27 | 7581 | 342 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 7385 | 327 | 
 | 2023-01-02 | 7379 | 327 | 
 | 2023-01-01 | 7366 | 325 | 
-| 2022-12-31 | 7355 | 324 | 
 

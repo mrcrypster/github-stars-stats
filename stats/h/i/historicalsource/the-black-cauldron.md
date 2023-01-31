@@ -1,6 +1,6 @@
 # historicalsource/the-black-cauldron - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 12 | - | 
 | 2023-01-29 | 12 | - | 
 | 2023-01-28 | 12 | - | 
 | 2023-01-27 | 12 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 11 | - | 
 | 2023-01-02 | 11 | - | 
 | 2023-01-01 | 10 | - | 
-| 2022-12-31 | 10 | - | 
 

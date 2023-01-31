@@ -1,10 +1,10 @@
 # ml874/Data-Science-Cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 594
 
-★ Stars: 2268
+★ Stars: 2269
 
 [Open repository](https://github.com/ml874/Data-Science-Cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2269 | 594 | 
 | 2023-01-29 | 2268 | 594 | 
 | 2023-01-28 | 2268 | 593 | 
 | 2023-01-27 | 2267 | 593 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2254 | 591 | 
 | 2023-01-02 | 2250 | 590 | 
 | 2023-01-01 | 2249 | 590 | 
-| 2022-12-31 | 2248 | 589 | 
 

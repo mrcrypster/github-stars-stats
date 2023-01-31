@@ -1,6 +1,6 @@
 # sbasu7241/AWS-Threat-Simulation-and-Detection - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 225 | 34 | 
 | 2023-01-29 | 225 | 34 | 
 | 2023-01-28 | 225 | 34 | 
 | 2023-01-27 | 225 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 223 | 33 | 
 | 2023-01-02 | 223 | 33 | 
 | 2023-01-01 | 223 | 32 | 
-| 2022-12-31 | 223 | 32 | 
 

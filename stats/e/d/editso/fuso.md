@@ -1,6 +1,6 @@
 # editso/fuso - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1312 | 149 | 
 | 2023-01-29 | 1312 | 149 | 
 | 2023-01-28 | 1312 | 149 | 
 | 2023-01-27 | 1311 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1301 | 148 | 
 | 2023-01-02 | 1301 | 148 | 
 | 2023-01-01 | 1301 | 148 | 
-| 2022-12-31 | 1301 | 148 | 
 

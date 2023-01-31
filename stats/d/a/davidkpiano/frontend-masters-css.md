@@ -1,6 +1,6 @@
 # davidkpiano/frontend-masters-css - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 117 | 105 | 
 | 2023-01-29 | 117 | 105 | 
 | 2023-01-28 | 117 | 105 | 
 | 2023-01-27 | 117 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 108 | 99 | 
 | 2023-01-02 | 107 | 99 | 
 | 2023-01-01 | 107 | 99 | 
-| 2022-12-31 | 107 | 98 | 
 

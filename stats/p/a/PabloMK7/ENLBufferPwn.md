@@ -1,6 +1,6 @@
 # PabloMK7/ENLBufferPwn - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 210 | 10 | 
 | 2023-01-29 | 210 | 10 | 
 | 2023-01-28 | 210 | 10 | 
 | 2023-01-27 | 209 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 187 | 7 | 
 | 2023-01-02 | 181 | 5 | 
 | 2023-01-01 | 172 | 5 | 
-| 2022-12-31 | 150 | 5 | 
 

@@ -1,10 +1,10 @@
 # TranslucentTB/TranslucentTB - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 918
 
-★ Stars: 10623
+★ Stars: 10626
 
 [Open repository](https://github.com/TranslucentTB/TranslucentTB)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 10626 | 918 | 
 | 2023-01-29 | 10623 | 918 | 
 | 2023-01-28 | 10617 | 917 | 
 | 2023-01-27 | 10614 | 916 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 10440 | 914 | 
 | 2023-01-02 | 10437 | 913 | 
 | 2023-01-01 | 10420 | 911 | 
-| 2022-12-31 | 10418 | 911 | 
 

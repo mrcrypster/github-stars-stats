@@ -1,6 +1,6 @@
 # n6il/nitros9 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 15 | 3 | 
 | 2023-01-29 | 15 | 3 | 
 | 2023-01-28 | 15 | 3 | 
 | 2023-01-27 | 15 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 12 | 3 | 
 | 2023-01-02 | 12 | 3 | 
 | 2023-01-01 | 12 | 3 | 
-| 2022-12-31 | 12 | 3 | 
 

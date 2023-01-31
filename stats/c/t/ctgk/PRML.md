@@ -1,10 +1,10 @@
 # ctgk/PRML - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3209
 
-★ Stars: 10872
+★ Stars: 10875
 
 [Open repository](https://github.com/ctgk/PRML)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 10875 | 3209 | 
 | 2023-01-29 | 10872 | 3209 | 
 | 2023-01-28 | 10870 | 3209 | 
 | 2023-01-27 | 10870 | 3207 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 10853 | 3205 | 
 | 2023-01-02 | 10853 | 3205 | 
 | 2023-01-01 | 10848 | 3204 | 
-| 2022-12-31 | 10847 | 3204 | 
 

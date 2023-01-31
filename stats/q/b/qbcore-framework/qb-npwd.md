@@ -1,8 +1,8 @@
 # qbcore-framework/qb-npwd - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 16 | 60 | 
 | 2023-01-29 | 16 | 59 | 
 | 2023-01-28 | 16 | 59 | 
 | 2023-01-27 | 16 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 15 | 60 | 
 | 2023-01-03 | 15 | 60 | 
 | 2023-01-02 | 15 | 60 | 
-| 2023-01-01 | 15 | 60 | 
 

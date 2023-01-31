@@ -1,10 +1,10 @@
 # Sam5440/Genshin_Impact_Teleport - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 201
+☋ Forks: 204
 
-★ Stars: 433
+★ Stars: 443
 
 [Open repository](https://github.com/Sam5440/Genshin_Impact_Teleport)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 443 | 204 | 
 | 2023-01-29 | 433 | 201 | 
 | 2023-01-28 | 426 | 201 | 
 | 2023-01-27 | 422 | 197 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 254 | 117 | 
 | 2023-01-02 | 252 | 117 | 
 | 2023-01-01 | 249 | 114 | 
-| 2022-12-31 | 244 | 108 | 
 

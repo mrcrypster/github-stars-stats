@@ -1,6 +1,6 @@
 # ARM-software/LLVM-embedded-toolchain-for-Arm - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 207 | 58 | 
 | 2023-01-29 | 207 | 58 | 
 | 2023-01-28 | 207 | 58 | 
 | 2023-01-27 | 206 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 196 | 56 | 
 | 2023-01-03 | 195 | 56 | 
 | 2023-01-01 | 195 | 56 | 
-| 2022-12-31 | 195 | 56 | 
 

@@ -1,10 +1,10 @@
 # chubin/awesome-console-services - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 297
 
-★ Stars: 4474
+★ Stars: 4477
 
 [Open repository](https://github.com/chubin/awesome-console-services)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 4477 | 297 | 
 | 2023-01-29 | 4474 | 297 | 
 | 2023-01-28 | 4472 | 298 | 
 | 2023-01-27 | 4471 | 298 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 4433 | 293 | 
 | 2023-01-02 | 4430 | 293 | 
 | 2023-01-01 | 4430 | 293 | 
-| 2022-12-31 | 4431 | 293 | 
 

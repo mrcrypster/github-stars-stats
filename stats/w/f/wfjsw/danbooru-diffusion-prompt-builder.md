@@ -1,10 +1,10 @@
 # wfjsw/danbooru-diffusion-prompt-builder - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 27
 
-★ Stars: 300
+★ Stars: 302
 
 [Open repository](https://github.com/wfjsw/danbooru-diffusion-prompt-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 302 | 27 | 
 | 2023-01-29 | 300 | 27 | 
 | 2023-01-28 | 298 | 27 | 
 | 2023-01-27 | 298 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 279 | 25 | 
 | 2023-01-03 | 278 | 25 | 
 | 2023-01-02 | 278 | 25 | 
-| 2023-01-01 | 276 | 25 | 
 

@@ -1,10 +1,10 @@
 # AbdurRKhalid/Design-Patterns - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 22
 
-★ Stars: 453
+★ Stars: 454
 
 [Open repository](https://github.com/AbdurRKhalid/Design-Patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 454 | 22 | 
 | 2023-01-29 | 453 | 22 | 
 | 2023-01-28 | 453 | 22 | 
 | 2023-01-27 | 453 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 448 | 21 | 
 | 2023-01-02 | 448 | 20 | 
 | 2023-01-01 | 448 | 20 | 
-| 2022-12-31 | 448 | 20 | 
 

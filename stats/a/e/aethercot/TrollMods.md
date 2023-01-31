@@ -1,10 +1,10 @@
 # aethercot/TrollMods - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 36
 
 [Open repository](https://github.com/aethercot/TrollMods)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 36 | 2 | 
 | 2023-01-29 | 38 | 2 | 
 | 2023-01-27 | 38 | 2 | 
 | 2023-01-26 | 38 | 2 | 

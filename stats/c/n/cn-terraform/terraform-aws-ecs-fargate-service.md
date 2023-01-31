@@ -1,6 +1,6 @@
 # cn-terraform/terraform-aws-ecs-fargate-service - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 59 | 45 | 
 | 2023-01-29 | 59 | 45 | 
 | 2023-01-28 | 58 | 45 | 
 | 2023-01-27 | 58 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 55 | 45 | 
 | 2023-01-03 | 55 | 45 | 
 | 2023-01-02 | 55 | 45 | 
-| 2023-01-01 | 55 | 45 | 
 

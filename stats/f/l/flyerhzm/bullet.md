@@ -1,10 +1,10 @@
 # flyerhzm/bullet - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 397
 
-★ Stars: 6750
+★ Stars: 6751
 
 [Open repository](https://github.com/flyerhzm/bullet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 6751 | 397 | 
 | 2023-01-29 | 6750 | 397 | 
 | 2023-01-28 | 6749 | 397 | 
 | 2023-01-27 | 6747 | 397 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 6719 | 395 | 
 | 2023-01-02 | 6708 | 393 | 
 | 2023-01-01 | 6708 | 393 | 
-| 2022-12-31 | 6707 | 393 | 
 

@@ -1,6 +1,6 @@
 # edbeeching/godot_rl_agents - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 348 | 23 | 
 | 2023-01-29 | 348 | 23 | 
 | 2023-01-28 | 348 | 23 | 
 | 2023-01-27 | 346 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 326 | 20 | 
 | 2023-01-02 | 327 | 19 | 
 | 2023-01-01 | 327 | 19 | 
-| 2022-12-31 | 326 | 19 | 
 

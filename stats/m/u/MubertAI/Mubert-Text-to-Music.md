@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 30
 
-☋ Forks: 193
+☋ Forks: 195
 
-★ Stars: 2315
+★ Stars: 2324
 
 [Open repository](https://github.com/MubertAI/Mubert-Text-to-Music)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-30 | 2315 | 193 | 
+| 2023-01-30 | 2324 | 195 | 
 | 2023-01-29 | 2314 | 193 | 
 | 2023-01-28 | 2303 | 192 | 
 | 2023-01-27 | 2289 | 192 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-03 | 2255 | 184 | 
 | 2023-01-02 | 2249 | 183 | 
 | 2023-01-01 | 2246 | 183 | 
-| 2022-12-31 | 2245 | 183 | 
 

@@ -1,6 +1,6 @@
 # enclosed-money/contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 14 | 7 | 
 | 2023-01-29 | 14 | 7 | 
 | 2023-01-28 | 14 | 7 | 
 | 2023-01-27 | 14 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 14 | 7 | 
 | 2023-01-02 | 14 | 7 | 
 | 2023-01-01 | 14 | 7 | 
-| 2022-12-31 | 14 | 7 | 
 

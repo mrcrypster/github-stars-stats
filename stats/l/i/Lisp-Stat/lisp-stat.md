@@ -1,6 +1,6 @@
 # Lisp-Stat/lisp-stat - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 118 | 9 | 
 | 2023-01-29 | 118 | 9 | 
 | 2023-01-28 | 118 | 9 | 
 | 2023-01-27 | 118 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 117 | 9 | 
 | 2023-01-02 | 117 | 9 | 
 | 2023-01-01 | 117 | 9 | 
-| 2022-12-31 | 117 | 9 | 
 

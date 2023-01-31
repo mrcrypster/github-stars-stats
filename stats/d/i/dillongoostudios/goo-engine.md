@@ -1,10 +1,10 @@
 # dillongoostudios/goo-engine - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 444
+★ Stars: 446
 
 [Open repository](https://github.com/dillongoostudios/goo-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 446 | 48 | 
 | 2023-01-29 | 444 | 47 | 
 | 2023-01-28 | 443 | 47 | 
 | 2023-01-27 | 443 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 424 | 44 | 
 | 2023-01-03 | 421 | 44 | 
 | 2023-01-01 | 415 | 44 | 
-| 2022-12-31 | 409 | 44 | 
 

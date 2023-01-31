@@ -1,6 +1,6 @@
 # a16z/a16z-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 240 | 41 | 
 | 2023-01-29 | 240 | 41 | 
 | 2023-01-27 | 240 | 41 | 
 | 2023-01-26 | 240 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 238 | 41 | 
 | 2023-01-02 | 238 | 41 | 
 | 2023-01-01 | 238 | 41 | 
-| 2022-12-31 | 238 | 41 | 
 

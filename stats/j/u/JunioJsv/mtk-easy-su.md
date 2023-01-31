@@ -1,10 +1,10 @@
 # JunioJsv/mtk-easy-su - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 140
 
-★ Stars: 634
+★ Stars: 635
 
 [Open repository](https://github.com/JunioJsv/mtk-easy-su)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 635 | 140 | 
 | 2023-01-29 | 634 | 140 | 
 | 2023-01-28 | 631 | 140 | 
 | 2023-01-27 | 631 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 620 | 137 | 
 | 2023-01-02 | 620 | 137 | 
 | 2023-01-01 | 620 | 137 | 
-| 2022-12-31 | 620 | 137 | 
 

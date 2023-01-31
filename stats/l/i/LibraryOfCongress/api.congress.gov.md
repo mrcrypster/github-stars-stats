@@ -1,6 +1,6 @@
 # LibraryOfCongress/api.congress.gov - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 445 | 16 | 
 | 2023-01-29 | 445 | 16 | 
 | 2023-01-28 | 445 | 16 | 
 | 2023-01-27 | 446 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 437 | 14 | 
 | 2023-01-02 | 437 | 14 | 
 | 2023-01-01 | 437 | 14 | 
-| 2022-12-31 | 437 | 14 | 
 

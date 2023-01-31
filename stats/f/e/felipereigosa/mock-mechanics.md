@@ -1,6 +1,6 @@
 # felipereigosa/mock-mechanics - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 143 | 6 | 
 | 2023-01-29 | 143 | 6 | 
 | 2023-01-28 | 143 | 6 | 
 | 2023-01-27 | 143 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 141 | 6 | 
 | 2023-01-03 | 141 | 6 | 
 | 2023-01-02 | 141 | 6 | 
-| 2022-12-31 | 141 | 6 | 
 

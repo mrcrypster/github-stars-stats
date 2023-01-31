@@ -1,8 +1,8 @@
 # FISCO-BCOS/FISCO-BCOS - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 642
+☋ Forks: 643
 
 ★ Stars: 1949
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1949 | 643 | 
 | 2023-01-29 | 1949 | 642 | 
 | 2023-01-28 | 1948 | 642 | 
 | 2023-01-27 | 1947 | 642 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1929 | 642 | 
 | 2023-01-02 | 1928 | 642 | 
 | 2023-01-01 | 1928 | 642 | 
-| 2022-12-31 | 1928 | 642 | 
 

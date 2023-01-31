@@ -1,10 +1,10 @@
 # leonjovanovic/water-shader-unity - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/leonjovanovic/water-shader-unity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 28 | 3 | 
 | 2023-01-29 | 26 | 3 | 
 | 2023-01-28 | 25 | 3 | 
 | 2023-01-27 | 24 | 3 | 

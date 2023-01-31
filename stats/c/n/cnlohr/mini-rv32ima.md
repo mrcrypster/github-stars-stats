@@ -1,6 +1,6 @@
 # cnlohr/mini-rv32ima - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 746 | 41 | 
 | 2023-01-29 | 746 | 41 | 
 | 2023-01-28 | 745 | 41 | 
 | 2023-01-27 | 745 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 709 | 39 | 
 | 2023-01-02 | 709 | 38 | 
 | 2023-01-01 | 707 | 37 | 
-| 2022-12-31 | 706 | 37 | 
 

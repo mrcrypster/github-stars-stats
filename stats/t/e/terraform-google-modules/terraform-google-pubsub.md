@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-pubsub - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 58 | 106 | 
 | 2023-01-30 | 58 | 106 | 
 | 2023-01-28 | 58 | 106 | 
 | 2023-01-27 | 58 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 57 | 104 | 
 | 2023-01-03 | 57 | 104 | 
 | 2023-01-02 | 57 | 104 | 
-| 2022-12-31 | 57 | 104 | 
 

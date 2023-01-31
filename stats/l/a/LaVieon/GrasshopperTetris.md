@@ -1,6 +1,6 @@
 # LaVieon/GrasshopperTetris - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 107 | 30 | 
 | 2023-01-29 | 107 | 30 | 
 | 2023-01-28 | 107 | 30 | 
 | 2023-01-27 | 107 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 107 | 30 | 
 | 2023-01-03 | 107 | 30 | 
 | 2023-01-02 | 107 | 30 | 
-| 2023-01-01 | 107 | 30 | 
 

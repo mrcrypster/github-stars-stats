@@ -1,6 +1,6 @@
 # jigar-sable/instagram-mern - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 341 | 88 | 
 | 2023-01-29 | 341 | 88 | 
 | 2023-01-28 | 341 | 88 | 
 | 2023-01-27 | 342 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 326 | 80 | 
 | 2023-01-02 | 326 | 79 | 
 | 2023-01-01 | 326 | 78 | 
-| 2022-12-31 | 326 | 78 | 
 

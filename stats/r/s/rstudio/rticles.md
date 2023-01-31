@@ -1,6 +1,6 @@
 # rstudio/rticles - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 501
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1282 | 501 | 
 | 2023-01-29 | 1282 | 501 | 
 | 2023-01-28 | 1282 | 501 | 
 | 2023-01-27 | 1282 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1277 | 498 | 
 | 2023-01-02 | 1277 | 498 | 
 | 2023-01-01 | 1276 | 498 | 
-| 2022-12-31 | 1276 | 498 | 
 

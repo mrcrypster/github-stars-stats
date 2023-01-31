@@ -1,10 +1,10 @@
 # minbrowser/min - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 573
 
-★ Stars: 6326
+★ Stars: 6328
 
 [Open repository](https://github.com/minbrowser/min)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6328 | 573 | 
 | 2023-01-29 | 6326 | 573 | 
 | 2023-01-28 | 6319 | 573 | 
 | 2023-01-27 | 6313 | 572 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 6232 | 569 | 
 | 2023-01-02 | 6233 | 569 | 
 | 2023-01-01 | 6233 | 569 | 
-| 2022-12-31 | 6231 | 569 | 
 

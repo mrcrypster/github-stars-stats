@@ -1,8 +1,8 @@
 # Anish-Agnihotri/punk-nftx-meebit-arb - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 242
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 242 | 48 | 
 | 2023-01-29 | 242 | 47 | 
 | 2023-01-28 | 242 | 47 | 
 | 2023-01-27 | 242 | 47 | 

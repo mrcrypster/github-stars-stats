@@ -1,10 +1,10 @@
 # spatie/laravel-query-builder - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 340
 
-★ Stars: 3529
+★ Stars: 3530
 
 [Open repository](https://github.com/spatie/laravel-query-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3530 | 340 | 
 | 2023-01-29 | 3529 | 340 | 
 | 2023-01-28 | 3529 | 340 | 
 | 2023-01-27 | 3527 | 340 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 3487 | 332 | 
 | 2023-01-02 | 3486 | 331 | 
 | 2023-01-01 | 3486 | 331 | 
-| 2022-12-31 | 3487 | 331 | 
 

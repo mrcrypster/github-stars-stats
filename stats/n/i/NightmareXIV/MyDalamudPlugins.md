@@ -1,6 +1,6 @@
 # NightmareXIV/MyDalamudPlugins - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 50 | 5 | 
 | 2023-01-30 | 50 | 5 | 
 | 2023-01-29 | 49 | 5 | 
 | 2023-01-27 | 49 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 44 | 5 | 
 | 2023-01-02 | 44 | 5 | 
 | 2023-01-01 | 44 | 5 | 
-| 2022-12-31 | 44 | 5 | 
 

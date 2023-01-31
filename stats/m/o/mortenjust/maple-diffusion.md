@@ -1,6 +1,6 @@
 # mortenjust/maple-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 436 | 28 | 
 | 2023-01-29 | 436 | 28 | 
 | 2023-01-28 | 436 | 28 | 
 | 2023-01-27 | 434 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 427 | 26 | 
 | 2023-01-02 | 426 | 26 | 
 | 2023-01-01 | 426 | 26 | 
-| 2022-12-31 | 426 | 26 | 
 

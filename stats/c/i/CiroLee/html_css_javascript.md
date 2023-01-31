@@ -1,6 +1,6 @@
 # CiroLee/html_css_javascript - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 62 | 16 | 
 | 2023-01-29 | 62 | 16 | 
 | 2023-01-28 | 62 | 16 | 
 | 2023-01-27 | 62 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 63 | 16 | 
 | 2023-01-02 | 63 | 16 | 
 | 2023-01-01 | 63 | 16 | 
-| 2022-12-31 | 63 | 16 | 
 

@@ -1,6 +1,6 @@
 # hacks-guide/Guide_3DS - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 284
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1235 | 284 | 
+| 2023-01-30 | 1235 | 284 | 
 | 2023-01-29 | 1235 | 284 | 
 | 2023-01-28 | 1234 | 284 | 
 | 2023-01-27 | 1234 | 284 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1226 | 283 | 
 | 2023-01-02 | 1226 | 283 | 
 | 2023-01-01 | 1226 | 283 | 
-| 2022-12-31 | 1226 | 282 | 
 

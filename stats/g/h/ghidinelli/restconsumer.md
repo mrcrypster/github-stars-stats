@@ -1,6 +1,6 @@
 # ghidinelli/restconsumer - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 8 | 5 | 
 | 2023-01-29 | 8 | 5 | 
 | 2023-01-28 | 8 | 5 | 
 | 2023-01-27 | 8 | 5 | 

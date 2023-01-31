@@ -1,10 +1,10 @@
 # symfony/validator - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 92
 
-★ Stars: 2422
+★ Stars: 2423
 
 [Open repository](https://github.com/symfony/validator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2423 | 92 | 
 | 2023-01-29 | 2422 | 92 | 
 | 2023-01-28 | 2421 | 92 | 
 | 2023-01-27 | 2421 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2404 | 91 | 
 | 2023-01-02 | 2404 | 91 | 
 | 2023-01-01 | 2404 | 91 | 
-| 2022-12-31 | 2405 | 91 | 
 

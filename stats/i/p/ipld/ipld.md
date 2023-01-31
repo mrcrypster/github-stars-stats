@@ -1,10 +1,10 @@
 # ipld/ipld - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 153
 
-★ Stars: 1142
+★ Stars: 1144
 
 [Open repository](https://github.com/ipld/ipld)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1144 | 153 | 
 | 2023-01-29 | 1142 | 153 | 
 | 2023-01-28 | 1142 | 153 | 
 | 2023-01-27 | 1141 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1125 | 150 | 
 | 2023-01-02 | 1125 | 150 | 
 | 2023-01-01 | 1124 | 150 | 
-| 2022-12-31 | 1124 | 150 | 
 

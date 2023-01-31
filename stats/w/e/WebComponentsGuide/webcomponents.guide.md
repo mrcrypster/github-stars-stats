@@ -1,10 +1,10 @@
 # WebComponentsGuide/webcomponents.guide - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
-★ Stars: 53
+★ Stars: 52
 
 [Open repository](https://github.com/WebComponentsGuide/webcomponents.guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 52 | 3 | 
 | 2023-01-30 | 53 | 3 | 
 | 2023-01-28 | 53 | 3 | 
 | 2023-01-27 | 49 | 3 | 

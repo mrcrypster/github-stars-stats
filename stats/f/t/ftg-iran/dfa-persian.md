@@ -1,6 +1,6 @@
 # ftg-iran/dfa-persian - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 165 | 40 | 
 | 2023-01-29 | 165 | 40 | 
 | 2023-01-28 | 164 | 40 | 
 | 2023-01-27 | 164 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 159 | 38 | 
 | 2023-01-02 | 159 | 38 | 
 | 2023-01-01 | 159 | 38 | 
-| 2022-12-31 | 159 | 38 | 
 

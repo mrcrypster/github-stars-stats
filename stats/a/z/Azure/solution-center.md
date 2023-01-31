@@ -1,10 +1,10 @@
 # Azure/solution-center - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 14
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/Azure/solution-center)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 10 | 14 | 
 | 2023-01-29 | 11 | 14 | 
 | 2023-01-28 | 11 | 14 | 
 | 2023-01-27 | 11 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 11 | 14 | 
 | 2023-01-02 | 11 | 14 | 
 | 2023-01-01 | 11 | 14 | 
-| 2022-12-31 | 11 | 14 | 
 

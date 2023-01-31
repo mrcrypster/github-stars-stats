@@ -1,6 +1,6 @@
 # nielsmouthaan/ejectify-macos - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 250 | 35 | 
 | 2023-01-28 | 250 | 35 | 
 | 2023-01-27 | 250 | 35 | 
 | 2023-01-26 | 250 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-04 | 245 | 35 | 
 | 2023-01-03 | 245 | 35 | 
 | 2023-01-02 | 245 | 35 | 
-| 2023-01-01 | 245 | 35 | 
 

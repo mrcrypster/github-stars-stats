@@ -1,10 +1,10 @@
 # codePerfectPlus/awesomeScripts - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 253
 
-★ Stars: 465
+★ Stars: 466
 
 [Open repository](https://github.com/codePerfectPlus/awesomeScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 466 | 253 | 
 | 2023-01-29 | 465 | 253 | 
 | 2023-01-28 | 464 | 253 | 
 | 2023-01-27 | 464 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2 | 254 | 
 | 2023-01-02 | 2 | 254 | 
 | 2023-01-01 | 2 | 254 | 
-| 2022-12-31 | 2 | 254 | 
 

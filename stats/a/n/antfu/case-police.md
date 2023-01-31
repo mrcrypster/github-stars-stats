@@ -1,10 +1,10 @@
 # antfu/case-police - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 73
 
-★ Stars: 951
+★ Stars: 952
 
 [Open repository](https://github.com/antfu/case-police)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 952 | 73 | 
 | 2023-01-29 | 951 | 73 | 
 | 2023-01-28 | 951 | 73 | 
 | 2023-01-27 | 951 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 944 | 73 | 
 | 2023-01-02 | 944 | 73 | 
 | 2023-01-01 | 944 | 73 | 
-| 2022-12-31 | 944 | 73 | 
 

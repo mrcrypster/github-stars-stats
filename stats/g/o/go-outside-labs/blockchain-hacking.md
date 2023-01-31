@@ -1,8 +1,8 @@
 # go-outside-labs/blockchain-hacking - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 164
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 164 | 35 | 
 | 2023-01-29 | 164 | 34 | 
 | 2023-01-28 | 163 | 34 | 
 | 2023-01-27 | 163 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 158 | 33 | 
 | 2023-01-02 | 157 | 33 | 
 | 2023-01-01 | 157 | 33 | 
-| 2022-12-31 | 157 | 33 | 
 

@@ -1,6 +1,6 @@
 # kektram/Keks-menu - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 74 | 32 | 
 | 2023-01-29 | 74 | 32 | 
 | 2023-01-27 | 74 | 32 | 
 | 2023-01-26 | 74 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 74 | 31 | 
 | 2023-01-03 | 74 | 31 | 
 | 2023-01-01 | 73 | 31 | 
-| 2022-12-31 | 73 | 31 | 
 

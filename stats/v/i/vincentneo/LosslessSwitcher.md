@@ -1,10 +1,10 @@
 # vincentneo/LosslessSwitcher - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 32
 
-★ Stars: 396
+★ Stars: 397
 
 [Open repository](https://github.com/vincentneo/LosslessSwitcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 397 | 32 | 
 | 2023-01-29 | 396 | 32 | 
 | 2023-01-28 | 395 | 32 | 
 | 2023-01-26 | 394 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 375 | 29 | 
 | 2023-01-03 | 375 | 29 | 
 | 2023-01-01 | 375 | 29 | 
-| 2022-12-31 | 374 | 29 | 
 

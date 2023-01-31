@@ -1,6 +1,6 @@
 # djezzzl/n1_loader - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 178 | 3 | 
 | 2023-01-29 | 178 | 3 | 
 | 2023-01-27 | 178 | 3 | 
 | 2023-01-26 | 178 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 173 | 3 | 
 | 2023-01-03 | 172 | 3 | 
 | 2023-01-01 | 171 | 3 | 
-| 2022-12-31 | 171 | 3 | 
 

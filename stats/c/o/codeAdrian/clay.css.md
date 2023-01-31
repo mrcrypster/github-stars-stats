@@ -1,10 +1,10 @@
 # codeAdrian/clay.css - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 22
 
-★ Stars: 513
+★ Stars: 515
 
 [Open repository](https://github.com/codeAdrian/clay.css)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 515 | 22 | 
 | 2023-01-30 | 513 | 22 | 
 | 2023-01-28 | 513 | 22 | 
 | 2023-01-27 | 513 | 22 | 

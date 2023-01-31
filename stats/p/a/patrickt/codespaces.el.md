@@ -1,6 +1,6 @@
 # patrickt/codespaces.el - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 42 | 4 | 
 | 2023-01-30 | 42 | 4 | 
 | 2023-01-28 | 42 | 4 | 
 | 2023-01-27 | 42 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-03 | 41 | 4 | 
 | 2023-01-02 | 42 | 4 | 
 | 2023-01-01 | 42 | 4 | 
-| 2022-12-31 | 42 | 4 | 
 

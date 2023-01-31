@@ -1,10 +1,10 @@
 # glottolog/glottolog - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 129
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/glottolog/glottolog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 109 | 129 | 
 | 2023-01-29 | 108 | 129 | 
 | 2023-01-28 | 108 | 129 | 
 | 2023-01-27 | 108 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 106 | 128 | 
 | 2023-01-02 | 106 | 128 | 
 | 2023-01-01 | 106 | 128 | 
-| 2022-12-31 | 105 | 128 | 
 

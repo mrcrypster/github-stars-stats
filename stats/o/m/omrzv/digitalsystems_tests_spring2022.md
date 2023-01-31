@@ -1,6 +1,6 @@
 # omrzv/digitalsystems_tests_spring2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | - | 15 | 
 | 2023-01-29 | - | 15 | 
 | 2023-01-28 | - | 15 | 
 | 2023-01-27 | - | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | - | 9 | 
 | 2023-01-02 | - | 9 | 
 | 2023-01-01 | - | 9 | 
-| 2022-12-31 | - | 9 | 
 

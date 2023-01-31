@@ -1,10 +1,10 @@
 # DerKoun/bsnes-hd - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 30
 
-★ Stars: 536
+★ Stars: 535
 
 [Open repository](https://github.com/DerKoun/bsnes-hd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 535 | 30 | 
 | 2023-01-29 | 536 | 30 | 
 | 2023-01-28 | 536 | 30 | 
 | 2023-01-27 | 536 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 524 | 31 | 
 | 2023-01-02 | 524 | 31 | 
 | 2023-01-01 | 524 | 31 | 
-| 2022-12-31 | 524 | 31 | 
 

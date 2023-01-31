@@ -1,6 +1,6 @@
 # ipfs/js-ipfs - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1348
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 7265 | 1348 | 
 | 2023-01-29 | 7265 | 1348 | 
 | 2023-01-28 | 7262 | 1347 | 
 | 2023-01-27 | 7261 | 1347 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 7229 | 1339 | 
 | 2023-01-02 | 7228 | 1337 | 
 | 2023-01-01 | 7230 | 1336 | 
-| 2022-12-31 | 7230 | 1336 | 
 

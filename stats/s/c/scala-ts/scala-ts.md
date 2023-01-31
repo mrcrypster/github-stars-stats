@@ -1,6 +1,6 @@
 # scala-ts/scala-ts - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 218 | 29 | 
 | 2023-01-29 | 218 | 29 | 
 | 2023-01-28 | 218 | 29 | 
 | 2023-01-27 | 218 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 215 | 30 | 
 | 2023-01-02 | 215 | 30 | 
 | 2023-01-01 | 215 | 30 | 
-| 2022-12-31 | 215 | 30 | 
 

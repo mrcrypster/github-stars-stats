@@ -1,10 +1,10 @@
 # baggepinnen/juliacourse2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/baggepinnen/juliacourse2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 11 | 3 | 
 | 2023-01-29 | 10 | 3 | 
 | 2023-01-28 | 10 | 3 | 
 | 2023-01-27 | 10 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 10 | 3 | 
 | 2023-01-02 | 10 | 3 | 
 | 2023-01-01 | 10 | 3 | 
-| 2022-12-31 | 10 | 3 | 
 

@@ -1,10 +1,10 @@
 # trevermock/save-load-system - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 19
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/trevermock/save-load-system)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 31 | 19 | 
 | 2023-01-29 | 30 | 19 | 
 | 2023-01-28 | 30 | 19 | 
 | 2023-01-27 | 30 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 26 | 17 | 
 | 2023-01-02 | 26 | 17 | 
 | 2023-01-01 | 26 | 17 | 
-| 2022-12-31 | 26 | 17 | 
 

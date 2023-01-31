@@ -1,10 +1,10 @@
 # Trusted-AI/adversarial-robustness-toolbox - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
-☋ Forks: 935
+☋ Forks: 936
 
-★ Stars: 3438
+★ Stars: 3439
 
 [Open repository](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3439 | 936 | 
 | 2023-01-29 | 3438 | 935 | 
 | 2023-01-28 | 3437 | 935 | 
 | 2023-01-27 | 3436 | 934 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 3405 | 923 | 
 | 2023-01-02 | 3404 | 923 | 
 | 2023-01-01 | 3403 | 923 | 
-| 2022-12-31 | 3401 | 923 | 
 

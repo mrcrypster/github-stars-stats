@@ -1,6 +1,6 @@
 # web3-Nick/bot - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 27 | 9 | 
 | 2023-01-30 | 27 | 9 | 
 | 2023-01-28 | 26 | 8 | 
 | 2023-01-27 | 26 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 26 | 8 | 
 | 2023-01-02 | 26 | 8 | 
 | 2023-01-01 | 26 | 8 | 
-| 2022-12-31 | 26 | 8 | 
 

@@ -1,10 +1,10 @@
 # dievus/lnkbomb - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 45
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/dievus/lnkbomb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 222 | 45 | 
 | 2023-01-29 | 221 | 45 | 
 | 2023-01-28 | 220 | 45 | 
 | 2023-01-27 | 219 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 212 | 44 | 
 | 2023-01-02 | 212 | 44 | 
 | 2023-01-01 | 211 | 44 | 
-| 2022-12-31 | 211 | 43 | 
 

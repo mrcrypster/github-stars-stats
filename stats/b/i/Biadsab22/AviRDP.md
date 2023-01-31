@@ -1,6 +1,6 @@
 # Biadsab22/AviRDP - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2 | 207 | 
 | 2023-01-29 | 2 | 207 | 
 | 2023-01-28 | 2 | 206 | 
 | 2023-01-27 | 2 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2 | 199 | 
 | 2023-01-02 | 2 | 199 | 
 | 2023-01-01 | 2 | 199 | 
-| 2022-12-31 | 2 | 199 | 
 

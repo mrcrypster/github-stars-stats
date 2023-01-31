@@ -1,8 +1,8 @@
 # Britishgaming/GMTK-Unity-Tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 11 | 12 | 
 | 2023-01-29 | 11 | 11 | 
 | 2023-01-28 | 11 | 11 | 
 | 2023-01-27 | 11 | 11 | 

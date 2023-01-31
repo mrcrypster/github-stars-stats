@@ -1,10 +1,10 @@
 # jgthms/bulma - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 3920
+☋ Forks: 3921
 
-★ Stars: 46715
+★ Stars: 46724
 
 [Open repository](https://github.com/jgthms/bulma)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 46724 | 3921 | 
 | 2023-01-29 | 46715 | 3920 | 
 | 2023-01-28 | 46709 | 3923 | 
 | 2023-01-27 | 46700 | 3923 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 46610 | 3923 | 
 | 2023-01-02 | 46604 | 3923 | 
 | 2023-01-01 | 46602 | 3923 | 
-| 2022-12-31 | 46600 | 3924 | 
 

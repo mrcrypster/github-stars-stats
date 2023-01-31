@@ -1,10 +1,10 @@
 # maxmarcon/live_select - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/maxmarcon/live_select)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 49 | 2 | 
+| 2023-01-30 | 49 | 2 | 
 | 2023-01-29 | 47 | 2 | 
 | 2023-01-28 | 47 | 2 | 
 | 2023-01-27 | 47 | 2 | 

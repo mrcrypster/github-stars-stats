@@ -1,6 +1,6 @@
 # giffon/charleywong - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 17 | 7 | 
 | 2023-01-29 | 17 | 7 | 
 | 2023-01-28 | 17 | 7 | 
 | 2023-01-26 | 17 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 16 | 7 | 
 | 2023-01-02 | 16 | 7 | 
 | 2023-01-01 | 16 | 7 | 
-| 2022-12-31 | 16 | 7 | 
 

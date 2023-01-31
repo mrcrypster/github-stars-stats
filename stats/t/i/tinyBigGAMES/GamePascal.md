@@ -1,10 +1,10 @@
 # tinyBigGAMES/GamePascal - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/tinyBigGAMES/GamePascal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 17 | 1 | 
 | 2023-01-29 | 15 | 1 | 
 | 2023-01-28 | 15 | 1 | 
 | 2023-01-27 | 15 | 1 | 

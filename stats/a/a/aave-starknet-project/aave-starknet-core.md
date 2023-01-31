@@ -1,6 +1,6 @@
 # aave-starknet-project/aave-starknet-core - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 36 | 4 | 
 | 2023-01-30 | 36 | 4 | 
 | 2023-01-28 | 36 | 4 | 
 | 2023-01-27 | 36 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 36 | 5 | 
 | 2023-01-03 | 36 | 5 | 
 | 2023-01-01 | 36 | 5 | 
-| 2022-12-31 | 36 | 5 | 
 

@@ -1,10 +1,10 @@
 # kafkaex/kafka_ex - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 157
 
-★ Stars: 551
+★ Stars: 552
 
 [Open repository](https://github.com/kafkaex/kafka_ex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 552 | 157 | 
 | 2023-01-29 | 551 | 157 | 
 | 2023-01-28 | 551 | 157 | 
 | 2023-01-27 | 551 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 548 | 156 | 
 | 2023-01-02 | 548 | 156 | 
 | 2023-01-01 | 548 | 156 | 
-| 2022-12-31 | 548 | 156 | 
 

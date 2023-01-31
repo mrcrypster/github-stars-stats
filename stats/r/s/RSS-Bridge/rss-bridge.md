@@ -1,10 +1,10 @@
 # RSS-Bridge/rss-bridge - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 946
+☋ Forks: 947
 
-★ Stars: 5531
+★ Stars: 5536
 
 [Open repository](https://github.com/RSS-Bridge/rss-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 5536 | 947 | 
 | 2023-01-29 | 5531 | 946 | 
 | 2023-01-28 | 5529 | 947 | 
 | 2023-01-27 | 5527 | 947 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 5479 | 941 | 
 | 2023-01-02 | 5476 | 941 | 
 | 2023-01-01 | 5473 | 941 | 
-| 2022-12-31 | 5466 | 941 | 
 

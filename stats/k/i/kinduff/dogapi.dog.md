@@ -1,10 +1,10 @@
 # kinduff/dogapi.dog - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 6
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/kinduff/dogapi.dog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 106 | 6 | 
 | 2023-01-29 | 105 | 6 | 
 | 2023-01-28 | 105 | 6 | 
 | 2023-01-27 | 105 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 92 | 5 | 
 | 2023-01-02 | 89 | 5 | 
 | 2023-01-01 | 88 | 4 | 
-| 2022-12-31 | 83 | 4 | 
 

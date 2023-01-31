@@ -1,10 +1,10 @@
 # JJConsulting/JJMasterData - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 11
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/JJConsulting/JJMasterData)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 105 | 11 | 
 | 2023-01-29 | 104 | 11 | 
 | 2023-01-28 | 104 | 11 | 
 | 2023-01-27 | 104 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 89 | 10 | 
 | 2023-01-02 | 89 | 11 | 
 | 2023-01-01 | 89 | 11 | 
-| 2022-12-31 | 89 | 11 | 
 

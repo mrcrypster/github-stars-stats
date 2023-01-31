@@ -1,10 +1,10 @@
 # mjbommar/gpt-takes-the-bar-exam - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 17
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/mjbommar/gpt-takes-the-bar-exam)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 127 | 17 | 
 | 2023-01-29 | 126 | 17 | 
 | 2023-01-28 | 126 | 17 | 
 | 2023-01-27 | 126 | 17 | 

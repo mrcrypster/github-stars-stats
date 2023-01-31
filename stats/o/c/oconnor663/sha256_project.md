@@ -1,6 +1,6 @@
 # oconnor663/sha256_project - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 515 | 22 | 
 | 2023-01-29 | 515 | 22 | 
 | 2023-01-28 | 515 | 22 | 
 | 2023-01-27 | 515 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 509 | 23 | 
 | 2023-01-02 | 510 | 23 | 
 | 2023-01-01 | 510 | 23 | 
-| 2022-12-31 | 510 | 23 | 
 

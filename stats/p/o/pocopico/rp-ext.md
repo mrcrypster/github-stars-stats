@@ -1,6 +1,6 @@
 # pocopico/rp-ext - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 454 | 305 | 
 | 2023-01-29 | 454 | 305 | 
 | 2023-01-28 | 454 | 305 | 
 | 2023-01-27 | 454 | 303 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 442 | 291 | 
 | 2023-01-02 | 441 | 292 | 
 | 2023-01-01 | 439 | 292 | 
-| 2022-12-31 | 439 | 292 | 
 

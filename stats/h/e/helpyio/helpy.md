@@ -1,6 +1,6 @@
 # helpyio/helpy - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 489
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2260 | 489 | 
 | 2023-01-30 | 2260 | 489 | 
 | 2023-01-28 | 2260 | 489 | 
 | 2023-01-27 | 2260 | 489 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2253 | 490 | 
 | 2023-01-03 | 2252 | 490 | 
 | 2023-01-01 | 2252 | 490 | 
-| 2022-12-31 | 2253 | 490 | 
 

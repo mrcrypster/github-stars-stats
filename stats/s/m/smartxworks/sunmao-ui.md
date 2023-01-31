@@ -1,10 +1,10 @@
 # smartxworks/sunmao-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 73
 
-★ Stars: 1109
+★ Stars: 1110
 
 [Open repository](https://github.com/smartxworks/sunmao-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1110 | 73 | 
 | 2023-01-29 | 1109 | 73 | 
 | 2023-01-28 | 1108 | 73 | 
 | 2023-01-27 | 1105 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1088 | 73 | 
 | 2023-01-02 | 1086 | 73 | 
 | 2023-01-01 | 1085 | 73 | 
-| 2022-12-31 | 1085 | 73 | 
 

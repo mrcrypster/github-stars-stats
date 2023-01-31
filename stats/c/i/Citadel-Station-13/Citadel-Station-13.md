@@ -1,8 +1,8 @@
 # Citadel-Station-13/Citadel-Station-13 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
-☋ Forks: 413
+☋ Forks: 412
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 73 | 412 | 
 | 2023-01-29 | 73 | 413 | 
 | 2023-01-28 | 73 | 413 | 
 | 2023-01-27 | 73 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 71 | 412 | 
 | 2023-01-02 | 71 | 412 | 
 | 2023-01-01 | 70 | 412 | 
-| 2022-12-31 | 70 | 412 | 
 

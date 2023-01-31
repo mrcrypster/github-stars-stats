@@ -1,10 +1,10 @@
 # fruiframework/frui - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 20
 
-★ Stars: 1093
+★ Stars: 1095
 
 [Open repository](https://github.com/fruiframework/frui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1095 | 20 | 
 | 2023-01-30 | 1093 | 20 | 
 | 2023-01-29 | 1093 | 20 | 
 | 2023-01-27 | 1094 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1097 | 18 | 
 | 2023-01-02 | 1097 | 18 | 
 | 2023-01-01 | 1096 | 18 | 
-| 2022-12-31 | 1096 | 18 | 
 

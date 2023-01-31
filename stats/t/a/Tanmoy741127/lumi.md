@@ -1,6 +1,6 @@
 # Tanmoy741127/lumi - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 635 | 22 | 
 | 2023-01-29 | 635 | 22 | 
 | 2023-01-28 | 633 | 22 | 
 | 2023-01-27 | 632 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 620 | 21 | 
 | 2023-01-02 | 619 | 21 | 
 | 2023-01-01 | 618 | 21 | 
-| 2022-12-31 | 618 | 21 | 
 

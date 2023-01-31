@@ -1,8 +1,8 @@
 # nanakuryana41/RDPNanaGratis - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 164
+☋ Forks: 165
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2 | 165 | 
 | 2023-01-29 | 2 | 164 | 
 | 2023-01-28 | 2 | 164 | 
 | 2023-01-27 | 2 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 2 | 160 | 
 | 2023-01-03 | 2 | 160 | 
 | 2023-01-02 | 2 | 160 | 
-| 2023-01-01 | 2 | 160 | 
 

@@ -1,10 +1,10 @@
 # openwrt/packages - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 3002
+☋ Forks: 3003
 
-★ Stars: 3353
+★ Stars: 3354
 
 [Open repository](https://github.com/openwrt/packages)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3354 | 3003 | 
 | 2023-01-29 | 3353 | 3002 | 
 | 2023-01-28 | 3351 | 3001 | 
 | 2023-01-27 | 3349 | 3000 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 3331 | 2985 | 
 | 2023-01-02 | 3331 | 2984 | 
 | 2023-01-01 | 3328 | 2982 | 
-| 2022-12-31 | 3327 | 2984 | 
 

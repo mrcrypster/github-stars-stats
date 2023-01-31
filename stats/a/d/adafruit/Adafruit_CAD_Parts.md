@@ -1,6 +1,6 @@
 # adafruit/Adafruit_CAD_Parts - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 174
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 764 | 174 | 
+| 2023-01-30 | 764 | 174 | 
 | 2023-01-29 | 764 | 174 | 
 | 2023-01-28 | 763 | 174 | 
 | 2023-01-27 | 763 | 174 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 755 | 173 | 
 | 2023-01-02 | 754 | 173 | 
 | 2023-01-01 | 754 | 172 | 
-| 2022-12-31 | 754 | 172 | 
 

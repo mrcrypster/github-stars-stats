@@ -1,10 +1,10 @@
 # pytorch/xla - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
-☋ Forks: 302
+☋ Forks: 303
 
-★ Stars: 1828
+★ Stars: 1827
 
 [Open repository](https://github.com/pytorch/xla)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1827 | 303 | 
 | 2023-01-29 | 1828 | 302 | 
 | 2023-01-28 | 1828 | 302 | 
 | 2023-01-27 | 1828 | 302 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1814 | 296 | 
 | 2023-01-02 | 1814 | 296 | 
 | 2023-01-01 | 1814 | 298 | 
-| 2022-12-31 | 1816 | 298 | 
 

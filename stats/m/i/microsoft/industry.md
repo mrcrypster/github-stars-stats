@@ -1,10 +1,10 @@
 # microsoft/industry - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 49
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/microsoft/industry)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 172 | 49 | 
 | 2023-01-29 | 171 | 49 | 
 | 2023-01-27 | 170 | 49 | 
 | 2023-01-26 | 170 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 166 | 47 | 
 | 2023-01-02 | 166 | 47 | 
 | 2023-01-01 | 166 | 47 | 
-| 2022-12-31 | 166 | 47 | 
 

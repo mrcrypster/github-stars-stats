@@ -1,10 +1,10 @@
 # SelfhostedPro/Yacht - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 121
+☋ Forks: 122
 
-★ Stars: 2369
+★ Stars: 2374
 
 [Open repository](https://github.com/SelfhostedPro/Yacht)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2374 | 122 | 
 | 2023-01-29 | 2369 | 121 | 
 | 2023-01-28 | 2369 | 121 | 
 | 2023-01-27 | 2364 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2296 | 119 | 
 | 2023-01-02 | 2293 | 119 | 
 | 2023-01-01 | 2284 | 118 | 
-| 2022-12-31 | 2280 | 118 | 
 

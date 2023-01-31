@@ -1,10 +1,10 @@
 # yungifez/skuul - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 43
 
-★ Stars: 172
+★ Stars: 171
 
 [Open repository](https://github.com/yungifez/skuul)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 171 | 43 | 
 | 2023-01-29 | 172 | 43 | 
 | 2023-01-28 | 171 | 43 | 
 | 2023-01-27 | 171 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 162 | 42 | 
 | 2023-01-02 | 161 | 42 | 
 | 2023-01-01 | 160 | 42 | 
-| 2022-12-31 | 161 | 42 | 
 

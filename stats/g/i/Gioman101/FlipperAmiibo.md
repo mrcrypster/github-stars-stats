@@ -1,10 +1,10 @@
 # Gioman101/FlipperAmiibo - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 69
+☋ Forks: 68
 
-★ Stars: 774
+★ Stars: 775
 
 [Open repository](https://github.com/Gioman101/FlipperAmiibo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 775 | 68 | 
 | 2023-01-29 | 774 | 69 | 
 | 2023-01-28 | 771 | 69 | 
 | 2023-01-27 | 769 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 697 | 65 | 
 | 2023-01-02 | 691 | 65 | 
 | 2023-01-01 | 686 | 63 | 
-| 2022-12-31 | 680 | 63 | 
 

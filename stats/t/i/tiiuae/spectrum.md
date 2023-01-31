@@ -1,6 +1,6 @@
 # tiiuae/spectrum - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 5 | 14 | 
 | 2023-01-29 | 5 | 14 | 
 | 2023-01-27 | 5 | 14 | 
 | 2023-01-26 | 5 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 5 | 14 | 
 | 2023-01-02 | 5 | 14 | 
 | 2023-01-01 | 5 | 14 | 
-| 2022-12-31 | 5 | 14 | 
 

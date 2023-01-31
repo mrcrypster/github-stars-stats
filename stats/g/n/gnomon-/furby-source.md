@@ -1,8 +1,8 @@
 # gnomon-/furby-source - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 81 | 9 | 
 | 2023-01-30 | 81 | 8 | 
 | 2023-01-28 | 81 | 8 | 
 | 2023-01-27 | 81 | 8 | 

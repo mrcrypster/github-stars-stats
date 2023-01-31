@@ -1,10 +1,10 @@
 # os-autoinst/os-autoinst - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 186
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/os-autoinst/os-autoinst)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 132 | 186 | 
 | 2023-01-28 | 131 | 186 | 
 | 2023-01-27 | 130 | 186 | 
 | 2023-01-26 | 130 | 186 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-04 | 129 | 184 | 
 | 2023-01-03 | 129 | 184 | 
 | 2023-01-02 | 129 | 184 | 
-| 2023-01-01 | 129 | 184 | 
 

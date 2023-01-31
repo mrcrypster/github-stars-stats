@@ -1,8 +1,8 @@
 # hugo-toha/toha - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 458
+☋ Forks: 459
 
 ★ Stars: 717
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 717 | 459 | 
 | 2023-01-29 | 717 | 458 | 
 | 2023-01-28 | 717 | 457 | 
 | 2023-01-27 | 717 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 697 | 448 | 
 | 2023-01-02 | 697 | 448 | 
 | 2023-01-01 | 697 | 448 | 
-| 2022-12-31 | 694 | 445 | 
 

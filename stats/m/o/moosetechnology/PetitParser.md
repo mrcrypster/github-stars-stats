@@ -1,8 +1,8 @@
 # moosetechnology/PetitParser - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 36
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 36 | 10 | 
+| 2023-01-30 | 36 | 9 | 
 | 2023-01-29 | 36 | 9 | 
 | 2023-01-28 | 36 | 9 | 
 | 2023-01-27 | 36 | 9 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 35 | 10 | 
 | 2023-01-02 | 35 | 10 | 
 | 2023-01-01 | 35 | 10 | 
-| 2022-12-31 | 35 | 10 | 
 

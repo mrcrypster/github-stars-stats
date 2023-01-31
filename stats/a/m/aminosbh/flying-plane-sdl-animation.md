@@ -1,10 +1,10 @@
 # aminosbh/flying-plane-sdl-animation - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/aminosbh/flying-plane-sdl-animation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 30 | 5 | 
 | 2023-01-29 | 29 | 5 | 
 | 2023-01-28 | 29 | 5 | 
 | 2023-01-27 | 29 | 5 | 

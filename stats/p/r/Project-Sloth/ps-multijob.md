@@ -1,8 +1,8 @@
 # Project-Sloth/ps-multijob - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 15
+☋ Forks: 17
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 23 | 17 | 
 | 2023-01-29 | 23 | 15 | 
 | 2023-01-28 | 22 | 15 | 
 | 2023-01-27 | 22 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 20 | 13 | 
 | 2023-01-02 | 19 | 13 | 
 | 2023-01-01 | 19 | 13 | 
-| 2022-12-31 | 17 | 13 | 
 

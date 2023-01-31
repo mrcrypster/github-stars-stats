@@ -1,10 +1,10 @@
 # status-im/nim-web3 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 13
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/status-im/nim-web3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 37 | 13 | 
 | 2023-01-29 | 36 | 13 | 
 | 2023-01-28 | 36 | 13 | 
 | 2023-01-27 | 36 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 35 | 12 | 
 | 2023-01-02 | 35 | 12 | 
 | 2023-01-01 | 35 | 12 | 
-| 2022-12-31 | 35 | 12 | 
 

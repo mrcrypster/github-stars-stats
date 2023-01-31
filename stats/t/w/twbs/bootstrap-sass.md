@@ -1,10 +1,10 @@
 # twbs/bootstrap-sass - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 3646
+☋ Forks: 3648
 
-★ Stars: 12689
+★ Stars: 12690
 
 [Open repository](https://github.com/twbs/bootstrap-sass)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 12690 | 3648 | 
 | 2023-01-29 | 12689 | 3646 | 
 | 2023-01-28 | 12689 | 3646 | 
 | 2023-01-27 | 12690 | 3647 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 12686 | 3653 | 
 | 2023-01-02 | 12686 | 3653 | 
 | 2023-01-01 | 12685 | 3653 | 
-| 2022-12-31 | 12684 | 3653 | 
 

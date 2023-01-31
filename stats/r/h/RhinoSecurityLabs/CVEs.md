@@ -1,10 +1,10 @@
 # RhinoSecurityLabs/CVEs - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 206
+☋ Forks: 207
 
-★ Stars: 628
+★ Stars: 629
 
 [Open repository](https://github.com/RhinoSecurityLabs/CVEs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 629 | 207 | 
 | 2023-01-29 | 628 | 206 | 
 | 2023-01-28 | 628 | 206 | 
 | 2023-01-27 | 628 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 625 | 202 | 
 | 2023-01-02 | 624 | 202 | 
 | 2023-01-01 | 623 | 202 | 
-| 2022-12-31 | 623 | 202 | 
 

@@ -1,10 +1,10 @@
 # airsquared/blobsaver - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 130
 
-★ Stars: 1424
+★ Stars: 1426
 
 [Open repository](https://github.com/airsquared/blobsaver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1426 | 130 | 
 | 2023-01-29 | 1424 | 130 | 
 | 2023-01-28 | 1422 | 130 | 
 | 2023-01-27 | 1420 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1382 | 125 | 
 | 2023-01-02 | 1381 | 125 | 
 | 2023-01-01 | 1380 | 125 | 
-| 2022-12-31 | 1380 | 125 | 
 

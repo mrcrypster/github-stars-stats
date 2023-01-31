@@ -1,10 +1,10 @@
 # microsoft/RulesEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 419
 
-★ Stars: 2395
+★ Stars: 2398
 
 [Open repository](https://github.com/microsoft/RulesEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2398 | 419 | 
 | 2023-01-29 | 2395 | 419 | 
 | 2023-01-28 | 2393 | 419 | 
 | 2023-01-27 | 2392 | 419 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2281 | 408 | 
 | 2023-01-02 | 2278 | 408 | 
 | 2023-01-01 | 2278 | 408 | 
-| 2022-12-31 | 2278 | 408 | 
 

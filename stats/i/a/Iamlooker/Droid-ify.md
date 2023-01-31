@@ -1,10 +1,10 @@
 # Iamlooker/Droid-ify - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 24
 
-★ Stars: 829
+★ Stars: 831
 
 [Open repository](https://github.com/Iamlooker/Droid-ify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 831 | 24 | 
 | 2023-01-29 | 829 | 24 | 
 | 2023-01-28 | 827 | 24 | 
 | 2023-01-27 | 821 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 753 | 21 | 
 | 2023-01-02 | 749 | 21 | 
 | 2023-01-01 | 744 | 21 | 
-| 2022-12-31 | 741 | 20 | 
 

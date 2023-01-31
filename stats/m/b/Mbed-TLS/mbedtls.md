@@ -1,10 +1,10 @@
 # Mbed-TLS/mbedtls - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 2188
+☋ Forks: 2190
 
-★ Stars: 3966
+★ Stars: 3968
 
 [Open repository](https://github.com/Mbed-TLS/mbedtls)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3968 | 2190 | 
 | 2023-01-29 | 3966 | 2188 | 
 | 2023-01-28 | 3966 | 2187 | 
 | 2023-01-27 | 3961 | 2187 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 3916 | 2167 | 
 | 2023-01-03 | 3914 | 2167 | 
 | 2023-01-01 | 3914 | 2167 | 
-| 2022-12-31 | 3911 | 2166 | 
 

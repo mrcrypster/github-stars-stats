@@ -1,6 +1,6 @@
 # biggerduck/RedTeamNotes - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 908 | 173 | 
 | 2023-01-29 | 908 | 173 | 
 | 2023-01-28 | 907 | 173 | 
 | 2023-01-27 | 905 | 172 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 882 | 164 | 
 | 2023-01-03 | 867 | 162 | 
 | 2023-01-02 | 864 | 161 | 
-| 2023-01-01 | 864 | 161 | 
 

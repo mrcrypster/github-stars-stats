@@ -1,10 +1,10 @@
 # bvschaik/julius - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 238
+☋ Forks: 239
 
-★ Stars: 2261
+★ Stars: 2264
 
 [Open repository](https://github.com/bvschaik/julius)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2264 | 239 | 
 | 2023-01-29 | 2261 | 238 | 
 | 2023-01-28 | 2261 | 238 | 
 | 2023-01-27 | 2259 | 238 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2243 | 230 | 
 | 2023-01-02 | 2243 | 230 | 
 | 2023-01-01 | 2240 | 230 | 
-| 2022-12-31 | 2242 | 230 | 
 

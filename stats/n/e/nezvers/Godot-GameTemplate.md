@@ -1,10 +1,10 @@
 # nezvers/Godot-GameTemplate - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 52
 
-★ Stars: 791
+★ Stars: 792
 
 [Open repository](https://github.com/nezvers/Godot-GameTemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 792 | 52 | 
 | 2023-01-29 | 791 | 52 | 
 | 2023-01-28 | 791 | 52 | 
 | 2023-01-27 | 791 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 778 | 53 | 
 | 2023-01-02 | 778 | 53 | 
 | 2023-01-01 | 778 | 53 | 
-| 2022-12-31 | 778 | 53 | 
 

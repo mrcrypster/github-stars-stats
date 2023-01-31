@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-alb-single-listener - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 11 | 40 | 
 | 2023-01-29 | 11 | 40 | 
 | 2023-01-28 | 11 | 40 | 
 | 2023-01-27 | 11 | 40 | 

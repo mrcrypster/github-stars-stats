@@ -1,10 +1,10 @@
 # Anuken/animdustry - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 11
 
-★ Stars: 183
+★ Stars: 182
 
 [Open repository](https://github.com/Anuken/animdustry)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 182 | 11 | 
 | 2023-01-29 | 183 | 11 | 
 | 2023-01-28 | 183 | 11 | 
 | 2023-01-27 | 183 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 177 | 9 | 
 | 2023-01-02 | 177 | 9 | 
 | 2023-01-01 | 177 | 9 | 
-| 2022-12-31 | 177 | 9 | 
 

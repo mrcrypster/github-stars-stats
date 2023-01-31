@@ -1,6 +1,6 @@
 # gakonst/save-noun11 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 14 | 1 | 
 | 2023-01-29 | 14 | 1 | 
 | 2023-01-27 | 14 | 1 | 
 | 2023-01-26 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 14 | 1 | 
 | 2023-01-02 | 14 | 1 | 
 | 2023-01-01 | 14 | 1 | 
-| 2022-12-31 | 14 | 1 | 
 

@@ -1,10 +1,10 @@
 # commaai/openpilot - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 6940
+☋ Forks: 6945
 
-★ Stars: 38242
+★ Stars: 38261
 
 [Open repository](https://github.com/commaai/openpilot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 38261 | 6945 | 
 | 2023-01-29 | 38242 | 6940 | 
 | 2023-01-28 | 38227 | 6937 | 
 | 2023-01-27 | 38217 | 6936 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 38044 | 6882 | 
 | 2023-01-02 | 38039 | 6881 | 
 | 2023-01-01 | 38022 | 6878 | 
-| 2022-12-31 | 38014 | 6879 | 
 

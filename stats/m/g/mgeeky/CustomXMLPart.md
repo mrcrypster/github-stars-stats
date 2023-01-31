@@ -1,6 +1,6 @@
 # mgeeky/CustomXMLPart - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 28 | 5 | 
 | 2023-01-29 | 28 | 5 | 
 | 2023-01-28 | 28 | 5 | 
 | 2023-01-27 | 28 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 28 | 5 | 
 | 2023-01-02 | 28 | 5 | 
 | 2023-01-01 | 28 | 5 | 
-| 2022-12-31 | 28 | 5 | 
 

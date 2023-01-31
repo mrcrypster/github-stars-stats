@@ -1,10 +1,10 @@
 # machdyne/kakao - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/machdyne/kakao)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 15 | - | 
 | 2023-01-29 | 14 | - | 
 | 2023-01-28 | 14 | - | 
 | 2023-01-27 | 12 | - | 

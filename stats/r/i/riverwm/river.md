@@ -1,10 +1,10 @@
 # riverwm/river - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 2049
+★ Stars: 2051
 
 [Open repository](https://github.com/riverwm/river)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2051 | 115 | 
 | 2023-01-29 | 2049 | 114 | 
 | 2023-01-28 | 2048 | 115 | 
 | 2023-01-27 | 2043 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2012 | 113 | 
 | 2023-01-02 | 2010 | 113 | 
 | 2023-01-01 | 2004 | 113 | 
-| 2022-12-31 | 2002 | 113 | 
 

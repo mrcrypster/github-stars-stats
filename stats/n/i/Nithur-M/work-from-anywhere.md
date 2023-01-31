@@ -1,8 +1,8 @@
 # Nithur-M/work-from-anywhere - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 628
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 628 | 15 | 
 | 2023-01-29 | 628 | 14 | 
 | 2023-01-28 | 628 | 14 | 
 | 2023-01-26 | 628 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 625 | 14 | 
 | 2023-01-03 | 623 | 14 | 
 | 2023-01-01 | 623 | 14 | 
-| 2022-12-31 | 623 | 14 | 
 

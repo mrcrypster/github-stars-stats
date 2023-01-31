@@ -1,6 +1,6 @@
 # aspect-build/bazel-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 30
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 49 | 30 | 
+| 2023-01-30 | 49 | 30 | 
 | 2023-01-29 | 49 | 30 | 
 | 2023-01-28 | 49 | 30 | 
 | 2023-01-27 | 49 | 29 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 43 | 26 | 
 | 2023-01-02 | 43 | 26 | 
 | 2023-01-01 | 43 | 26 | 
-| 2022-12-31 | 43 | 26 | 
 

@@ -1,10 +1,10 @@
 # webhdx/PicoBoot - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 73
 
-★ Stars: 992
+★ Stars: 993
 
 [Open repository](https://github.com/webhdx/PicoBoot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 993 | 73 | 
 | 2023-01-29 | 992 | 73 | 
 | 2023-01-28 | 989 | 71 | 
 | 2023-01-27 | 987 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 947 | 65 | 
 | 2023-01-02 | 943 | 65 | 
 | 2023-01-01 | 942 | 65 | 
-| 2022-12-31 | 941 | 65 | 
 

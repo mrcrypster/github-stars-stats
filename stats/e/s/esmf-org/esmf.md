@@ -1,6 +1,6 @@
 # esmf-org/esmf - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 102 | 43 | 
 | 2023-01-29 | 102 | 43 | 
 | 2023-01-28 | 102 | 43 | 
 | 2023-01-27 | 102 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 99 | 41 | 
 | 2023-01-02 | 99 | 41 | 
 | 2023-01-01 | 98 | 41 | 
-| 2022-12-31 | 97 | 41 | 
 

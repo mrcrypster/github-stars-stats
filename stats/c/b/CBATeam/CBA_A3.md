@@ -1,6 +1,6 @@
 # CBATeam/CBA_A3 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 336 | 136 | 
 | 2023-01-29 | 336 | 136 | 
 | 2023-01-28 | 336 | 136 | 
 | 2023-01-27 | 336 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 334 | 135 | 
 | 2023-01-02 | 334 | 135 | 
 | 2023-01-01 | 333 | 135 | 
-| 2022-12-31 | 333 | 135 | 
 

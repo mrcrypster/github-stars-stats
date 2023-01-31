@@ -1,10 +1,10 @@
 # ytti/oxidized - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 789
+☋ Forks: 791
 
-★ Stars: 2174
+★ Stars: 2177
 
 [Open repository](https://github.com/ytti/oxidized)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2177 | 791 | 
 | 2023-01-29 | 2174 | 789 | 
 | 2023-01-28 | 2172 | 790 | 
 | 2023-01-27 | 2172 | 790 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2152 | 790 | 
 | 2023-01-02 | 2152 | 790 | 
 | 2023-01-01 | 2152 | 790 | 
-| 2022-12-31 | 2150 | 789 | 
 

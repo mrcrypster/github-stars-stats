@@ -1,6 +1,6 @@
 # jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4 | 50 | 
 | 2023-01-30 | 4 | 50 | 
 | 2023-01-28 | 4 | 50 | 
 | 2023-01-27 | 4 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-03 | 5 | 50 | 
 | 2023-01-02 | 5 | 50 | 
 | 2023-01-01 | 5 | 50 | 
-| 2022-12-31 | 5 | 50 | 
 

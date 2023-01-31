@@ -1,10 +1,10 @@
 # midudev/aprendiendo-react - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 251
+☋ Forks: 252
 
-★ Stars: 843
+★ Stars: 849
 
 [Open repository](https://github.com/midudev/aprendiendo-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 849 | 252 | 
 | 2023-01-29 | 843 | 251 | 
 | 2023-01-28 | 836 | 248 | 
 | 2023-01-27 | 828 | 245 | 

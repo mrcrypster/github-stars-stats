@@ -1,6 +1,6 @@
 # German969/books-challenge - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2 | 28 | 
 | 2023-01-29 | 2 | 28 | 
 | 2023-01-28 | 2 | 28 | 
 | 2023-01-27 | 2 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2 | 20 | 
 | 2023-01-02 | 2 | 20 | 
 | 2023-01-01 | 2 | 20 | 
-| 2022-12-31 | 2 | 20 | 
 

@@ -1,6 +1,6 @@
 # viktor998/edusogno-esercizio - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1 | 42 | 
 | 2023-01-29 | 1 | 42 | 
 | 2023-01-28 | 1 | 42 | 
 | 2023-01-27 | 1 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | - | 40 | 
 | 2023-01-02 | - | 40 | 
 | 2023-01-01 | - | 40 | 
-| 2022-12-31 | - | 40 | 
 

@@ -1,10 +1,10 @@
 # ChristianLempa/videos - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 108
+☋ Forks: 109
 
-★ Stars: 243
+★ Stars: 246
 
 [Open repository](https://github.com/ChristianLempa/videos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 246 | 109 | 
 | 2023-01-29 | 243 | 108 | 
 | 2023-01-28 | 242 | 108 | 
 | 2023-01-27 | 242 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 198 | 91 | 
 | 2023-01-02 | 197 | 91 | 
 | 2023-01-01 | 193 | 89 | 
-| 2022-12-31 | 192 | 89 | 
 

@@ -1,8 +1,8 @@
 # w3tecch/express-typescript-boilerplate - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 782
+☋ Forks: 783
 
 ★ Stars: 2837
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2837 | 783 | 
 | 2023-01-29 | 2837 | 782 | 
 | 2023-01-28 | 2836 | 782 | 
 | 2023-01-27 | 2836 | 782 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2801 | 781 | 
 | 2023-01-02 | 2801 | 781 | 
 | 2023-01-01 | 2800 | 781 | 
-| 2022-12-31 | 2800 | 781 | 
 

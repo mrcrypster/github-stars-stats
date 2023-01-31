@@ -1,10 +1,10 @@
 # Zverik/every_door - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 224
+★ Stars: 227
 
 [Open repository](https://github.com/Zverik/every_door)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 227 | 25 | 
 | 2023-01-29 | 224 | 24 | 
 | 2023-01-28 | 224 | 24 | 
 | 2023-01-27 | 223 | 24 | 

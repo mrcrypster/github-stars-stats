@@ -1,6 +1,6 @@
 # MTDL9/vim-log-highlighting - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 165 | 29 | 
 | 2023-01-29 | 165 | 29 | 
 | 2023-01-28 | 165 | 29 | 
 | 2023-01-27 | 165 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 165 | 29 | 
 | 2023-01-02 | 164 | 29 | 
 | 2023-01-01 | 164 | 29 | 
-| 2022-12-31 | 164 | 29 | 
 

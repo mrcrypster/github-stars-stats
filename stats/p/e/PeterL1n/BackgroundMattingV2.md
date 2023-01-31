@@ -1,10 +1,10 @@
 # PeterL1n/BackgroundMattingV2 - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 890
 
-★ Stars: 6109
+★ Stars: 6110
 
 [Open repository](https://github.com/PeterL1n/BackgroundMattingV2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6110 | 890 | 
 | 2023-01-29 | 6109 | 890 | 
 | 2023-01-28 | 6107 | 889 | 
 | 2023-01-27 | 6106 | 889 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 6083 | 886 | 
 | 2023-01-02 | 6080 | 885 | 
 | 2023-01-01 | 6080 | 884 | 
-| 2022-12-31 | 6080 | 884 | 
 

@@ -1,10 +1,10 @@
 # skytable/skytable - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 57
 
-★ Stars: 1440
+★ Stars: 1441
 
 [Open repository](https://github.com/skytable/skytable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1441 | 57 | 
 | 2023-01-28 | 1440 | 57 | 
 | 2023-01-27 | 1439 | 56 | 
 | 2023-01-26 | 1436 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 1410 | 53 | 
 | 2023-01-02 | 1409 | 53 | 
 | 2023-01-01 | 1406 | 53 | 
-| 2022-12-31 | 1406 | 53 | 
 

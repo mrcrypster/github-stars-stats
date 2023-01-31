@@ -1,10 +1,10 @@
 # ludovicchabant/vim-gutentags - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 160
 
-★ Stars: 2154
+★ Stars: 2155
 
 [Open repository](https://github.com/ludovicchabant/vim-gutentags)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2155 | 160 | 
 | 2023-01-29 | 2154 | 160 | 
 | 2023-01-28 | 2154 | 160 | 
 | 2023-01-27 | 2152 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2140 | 159 | 
 | 2023-01-02 | 2141 | 159 | 
 | 2023-01-01 | 2140 | 159 | 
-| 2022-12-31 | 2139 | 159 | 
 

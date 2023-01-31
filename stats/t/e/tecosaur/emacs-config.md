@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 30
 
-☋ Forks: 126
+☋ Forks: 127
 
-★ Stars: 891
+★ Stars: 894
 
 [Open repository](https://github.com/tecosaur/emacs-config)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-30 | 891 | 126 | 
+| 2023-01-30 | 894 | 127 | 
 | 2023-01-28 | 891 | 126 | 
 | 2023-01-27 | 891 | 126 | 
 | 2023-01-26 | 891 | 126 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-03 | 883 | 124 | 
 | 2023-01-02 | 882 | 123 | 
 | 2023-01-01 | 881 | 123 | 
-| 2022-12-31 | 881 | 123 | 
 

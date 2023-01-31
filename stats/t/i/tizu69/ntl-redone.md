@@ -1,10 +1,10 @@
 # tizu69/ntl-redone - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 11
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/tizu69/ntl-redone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 34 | 11 | 
 | 2023-01-29 | 33 | 11 | 
 | 2023-01-28 | 33 | 11 | 
 | 2023-01-27 | 33 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 28 | 11 | 
 | 2023-01-02 | 25 | 10 | 
 | 2023-01-01 | 24 | 10 | 
-| 2022-12-31 | 22 | 9 | 
 

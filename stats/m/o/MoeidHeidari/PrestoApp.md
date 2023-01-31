@@ -1,6 +1,6 @@
 # MoeidHeidari/PrestoApp - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 19 | - | 
 | 2023-01-29 | 19 | - | 
 | 2023-01-27 | 19 | - | 
 | 2023-01-26 | 19 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 19 | - | 
 | 2023-01-03 | 19 | - | 
 | 2023-01-02 | 19 | - | 
-| 2023-01-01 | 19 | - | 
 

@@ -1,6 +1,6 @@
 # hrsh7th/cmp-calc - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 75 | 1 | 
 | 2023-01-29 | 75 | 1 | 
 | 2023-01-28 | 75 | 1 | 
 | 2023-01-27 | 75 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 72 | 1 | 
 | 2023-01-02 | 72 | 1 | 
 | 2023-01-01 | 72 | 1 | 
-| 2022-12-31 | 72 | 1 | 
 

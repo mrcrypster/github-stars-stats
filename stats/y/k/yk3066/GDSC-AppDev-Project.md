@@ -1,6 +1,6 @@
 # yk3066/GDSC-AppDev-Project - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2 | 11 | 
 | 2023-01-29 | 2 | 11 | 
 | 2023-01-28 | 2 | 11 | 
 | 2023-01-27 | 2 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1 | 11 | 
 | 2023-01-02 | 1 | 11 | 
 | 2023-01-01 | 1 | 11 | 
-| 2022-12-31 | 1 | 11 | 
 

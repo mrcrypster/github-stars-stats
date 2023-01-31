@@ -1,6 +1,6 @@
 # ghcarlalan/graveler - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 28 | 4 | 
 | 2023-01-29 | 28 | 4 | 
 | 2023-01-28 | 28 | 4 | 
 | 2023-01-26 | 28 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 28 | 4 | 
 | 2023-01-02 | 27 | 4 | 
 | 2023-01-01 | 27 | 4 | 
-| 2022-12-31 | 27 | 4 | 
 

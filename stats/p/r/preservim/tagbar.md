@@ -1,6 +1,6 @@
 # preservim/tagbar - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 482
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 5803 | 482 | 
 | 2023-01-29 | 5803 | 482 | 
 | 2023-01-28 | 5803 | 482 | 
 | 2023-01-27 | 5803 | 482 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 5777 | 484 | 
 | 2023-01-02 | 5775 | 484 | 
 | 2023-01-01 | 5775 | 484 | 
-| 2022-12-31 | 5774 | 484 | 
 

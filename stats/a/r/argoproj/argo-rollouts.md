@@ -1,10 +1,10 @@
 # argoproj/argo-rollouts - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 559
 
-★ Stars: 1885
+★ Stars: 1887
 
 [Open repository](https://github.com/argoproj/argo-rollouts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1887 | 559 | 
 | 2023-01-29 | 1885 | 559 | 
 | 2023-01-28 | 1885 | 558 | 
 | 2023-01-27 | 1884 | 558 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 1852 | 546 | 
 | 2023-01-03 | 1852 | 547 | 
 | 2023-01-02 | 1851 | 548 | 
-| 2023-01-01 | 1851 | 548 | 
 

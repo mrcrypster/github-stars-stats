@@ -1,6 +1,6 @@
 # ParkKyuSeon/Maplestory_DPM - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 49 | 19 | 
 | 2023-01-29 | 49 | 19 | 
 | 2023-01-28 | 49 | 19 | 
 | 2023-01-27 | 49 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 48 | 19 | 
 | 2023-01-02 | 48 | 19 | 
 | 2023-01-01 | 48 | 19 | 
-| 2022-12-31 | 48 | 19 | 
 

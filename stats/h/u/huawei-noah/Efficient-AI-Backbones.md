@@ -1,6 +1,6 @@
 # huawei-noah/Efficient-AI-Backbones - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 614
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 3019 | 614 | 
 | 2023-01-29 | 3019 | 614 | 
 | 2023-01-28 | 3019 | 612 | 
 | 2023-01-27 | 3018 | 612 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2986 | 603 | 
 | 2023-01-02 | 2981 | 602 | 
 | 2023-01-01 | 2981 | 601 | 
-| 2022-12-31 | 2980 | 601 | 
 

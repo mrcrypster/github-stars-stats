@@ -1,10 +1,10 @@
 # ayusharma/birthday - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 2242
+☋ Forks: 2245
 
-★ Stars: 652
+★ Stars: 653
 
 [Open repository](https://github.com/ayusharma/birthday)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 653 | 2245 | 
 | 2023-01-29 | 652 | 2242 | 
 | 2023-01-28 | 652 | 2239 | 
 | 2023-01-26 | 651 | 2238 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 646 | 2208 | 
 | 2023-01-03 | 646 | 2207 | 
 | 2023-01-02 | 644 | 2207 | 
-| 2022-12-31 | 644 | 2204 | 
 

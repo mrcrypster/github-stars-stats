@@ -1,10 +1,10 @@
 # kentcdodds/react-fundamentals - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
-☋ Forks: 2879
+☋ Forks: 2882
 
-★ Stars: 4740
+★ Stars: 4748
 
 [Open repository](https://github.com/kentcdodds/react-fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4748 | 2882 | 
 | 2023-01-29 | 4740 | 2879 | 
 | 2023-01-28 | 4738 | 2876 | 
 | 2023-01-27 | 4733 | 2877 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 4659 | 2804 | 
 | 2023-01-02 | 4654 | 2802 | 
 | 2023-01-01 | 4649 | 2798 | 
-| 2022-12-31 | 4646 | 2797 | 
 

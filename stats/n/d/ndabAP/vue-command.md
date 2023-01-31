@@ -1,6 +1,6 @@
 # ndabAP/vue-command - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 224 | 45 | 
 | 2023-01-29 | 224 | 45 | 
 | 2023-01-28 | 224 | 45 | 
 | 2023-01-27 | 224 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 218 | 44 | 
 | 2023-01-02 | 219 | 44 | 
 | 2023-01-01 | 219 | 44 | 
-| 2022-12-31 | 219 | 44 | 
 

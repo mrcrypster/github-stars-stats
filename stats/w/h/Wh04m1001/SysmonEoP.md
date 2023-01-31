@@ -1,6 +1,6 @@
 # Wh04m1001/SysmonEoP - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 169 | 30 | 
 | 2023-01-29 | 169 | 30 | 
 | 2023-01-28 | 169 | 30 | 
 | 2023-01-27 | 169 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 163 | 27 | 
 | 2023-01-02 | 163 | 27 | 
 | 2023-01-01 | 163 | 27 | 
-| 2022-12-31 | 162 | 26 | 
 

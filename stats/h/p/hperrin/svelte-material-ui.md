@@ -1,10 +1,10 @@
 # hperrin/svelte-material-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 261
 
-★ Stars: 2819
+★ Stars: 2820
 
 [Open repository](https://github.com/hperrin/svelte-material-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 2820 | 261 | 
 | 2023-01-29 | 2819 | 261 | 
 | 2023-01-28 | 2818 | 261 | 
 | 2023-01-27 | 2815 | 261 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 2768 | 261 | 
 | 2023-01-02 | 2766 | 261 | 
 | 2023-01-01 | 2765 | 259 | 
-| 2022-12-31 | 2762 | 260 | 
 

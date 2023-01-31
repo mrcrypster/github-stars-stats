@@ -1,10 +1,10 @@
 # ixinzhi/loving-books - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 638
+☋ Forks: 639
 
-★ Stars: 1601
+★ Stars: 1605
 
 [Open repository](https://github.com/ixinzhi/loving-books)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1605 | 639 | 
 | 2023-01-29 | 1601 | 638 | 
 | 2023-01-28 | 1601 | 637 | 
 | 2023-01-27 | 1601 | 636 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1573 | 631 | 
 | 2023-01-02 | 1572 | 629 | 
 | 2023-01-01 | 1572 | 627 | 
-| 2022-12-31 | 1571 | 627 | 
 

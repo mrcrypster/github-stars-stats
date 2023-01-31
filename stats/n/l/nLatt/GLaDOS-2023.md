@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 4
 
 [Open repository](https://github.com/nLatt/GLaDOS-2023)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-30 | 2 | - | 
+| 2023-01-30 | 4 | - | 
 | 2023-01-29 | 2 | - | 
 | 2023-01-28 | 2 | - | 
 | 2023-01-27 | 2 | - | 

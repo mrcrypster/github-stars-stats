@@ -1,6 +1,6 @@
 # fastjs-team/fastjs-next - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 291 | 34 | 
 | 2023-01-29 | 291 | 34 | 
 | 2023-01-28 | 291 | 34 | 
 | 2023-01-27 | 292 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 264 | 30 | 
 | 2023-01-02 | 253 | 27 | 
 | 2023-01-01 | 241 | 27 | 
-| 2022-12-31 | 226 | 24 | 
 

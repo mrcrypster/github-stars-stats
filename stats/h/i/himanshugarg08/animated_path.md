@@ -1,6 +1,6 @@
 # himanshugarg08/animated_path - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 61 | - | 
 | 2023-01-28 | 61 | - | 
 | 2023-01-27 | 61 | - | 
 | 2023-01-26 | 61 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-04 | 58 | - | 
 | 2023-01-02 | 58 | - | 
 | 2023-01-01 | 58 | - | 
-| 2022-12-31 | 58 | - | 
 

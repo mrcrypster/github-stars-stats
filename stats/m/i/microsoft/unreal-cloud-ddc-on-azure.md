@@ -1,6 +1,6 @@
 # microsoft/unreal-cloud-ddc-on-azure - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 8 | 1 | 
+| 2023-01-30 | 8 | 1 | 
 | 2023-01-29 | 8 | 1 | 
 | 2023-01-28 | 8 | 1 | 
 | 2023-01-27 | 8 | 1 | 

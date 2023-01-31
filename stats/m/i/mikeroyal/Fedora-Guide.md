@@ -1,6 +1,6 @@
 # mikeroyal/Fedora-Guide - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 166 | 5 | 
 | 2023-01-29 | 166 | 5 | 
 | 2023-01-28 | 166 | 5 | 
 | 2023-01-27 | 165 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 158 | 5 | 
 | 2023-01-02 | 158 | 5 | 
 | 2023-01-01 | 158 | 5 | 
-| 2022-12-31 | 158 | 5 | 
 

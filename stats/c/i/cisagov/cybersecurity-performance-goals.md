@@ -1,6 +1,6 @@
 # cisagov/cybersecurity-performance-goals - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 53 | 2 | 
 | 2023-01-29 | 53 | 2 | 
 | 2023-01-28 | 52 | 2 | 
 | 2023-01-27 | 51 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 46 | 2 | 
 | 2023-01-02 | 46 | 2 | 
 | 2023-01-01 | 46 | 2 | 
-| 2022-12-31 | 46 | 2 | 
 

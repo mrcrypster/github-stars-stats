@@ -1,6 +1,6 @@
 # Magisk-Modules-Alt-Repo/NoStorageRestrict - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 90 | 17 | 
 | 2023-01-29 | 90 | 17 | 
 | 2023-01-28 | 90 | 17 | 
 | 2023-01-27 | 90 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 80 | 16 | 
 | 2023-01-02 | 79 | 16 | 
 | 2023-01-01 | 77 | 16 | 
-| 2022-12-31 | 77 | 16 | 
 

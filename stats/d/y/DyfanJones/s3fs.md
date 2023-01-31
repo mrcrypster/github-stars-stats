@@ -1,6 +1,6 @@
 # DyfanJones/s3fs - stars & forks statistics
 
-Stats updated on Jan 2023, 28
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 18 | - | 
 | 2023-01-28 | 18 | - | 
 | 2023-01-27 | 18 | - | 
 | 2023-01-26 | 18 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 28
 | 2023-01-03 | 17 | - | 
 | 2023-01-02 | 17 | - | 
 | 2023-01-01 | 17 | - | 
-| 2022-12-31 | 17 | - | 
 

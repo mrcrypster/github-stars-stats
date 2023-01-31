@@ -1,10 +1,10 @@
 # contiki-ng/contiki-ng - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 611
+☋ Forks: 612
 
-★ Stars: 1021
+★ Stars: 1022
 
 [Open repository](https://github.com/contiki-ng/contiki-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1022 | 612 | 
 | 2023-01-29 | 1021 | 611 | 
 | 2023-01-28 | 1018 | 611 | 
 | 2023-01-27 | 1018 | 610 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 1006 | 607 | 
 | 2023-01-02 | 1006 | 607 | 
 | 2023-01-01 | 1006 | 607 | 
-| 2022-12-31 | 1006 | 607 | 
 

@@ -1,6 +1,6 @@
 # shadlyd15/NesUEFI - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 152 | 8 | 
 | 2023-01-29 | 152 | 8 | 
 | 2023-01-28 | 152 | 8 | 
 | 2023-01-27 | 153 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 155 | 8 | 
 | 2023-01-03 | 155 | 8 | 
 | 2023-01-02 | 155 | 8 | 
-| 2023-01-01 | 155 | 8 | 
 

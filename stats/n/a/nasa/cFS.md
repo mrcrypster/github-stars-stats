@@ -1,6 +1,6 @@
 # nasa/cFS - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 491 | 165 | 
 | 2023-01-29 | 491 | 165 | 
 | 2023-01-28 | 491 | 165 | 
 | 2023-01-27 | 491 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 481 | 163 | 
 | 2023-01-02 | 481 | 163 | 
 | 2023-01-01 | 481 | 163 | 
-| 2022-12-31 | 482 | 164 | 
 

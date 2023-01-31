@@ -1,8 +1,8 @@
 # sfvsfv/Mathematical-modeling - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 82 | 28 | 
 | 2023-01-29 | 82 | 27 | 
 | 2023-01-28 | 81 | 27 | 
 | 2023-01-27 | 81 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 77 | 26 | 
 | 2023-01-02 | 77 | 25 | 
 | 2023-01-01 | 77 | 24 | 
-| 2022-12-31 | 76 | 24 | 
 

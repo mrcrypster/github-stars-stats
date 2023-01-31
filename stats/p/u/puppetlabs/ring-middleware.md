@@ -1,6 +1,6 @@
 # puppetlabs/ring-middleware - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 9 | 20 | 
 | 2023-01-29 | 9 | 20 | 
 | 2023-01-28 | 9 | 20 | 
 | 2023-01-27 | 8 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 8 | 20 | 
 | 2023-01-02 | 8 | 20 | 
 | 2023-01-01 | 8 | 20 | 
-| 2022-12-31 | 8 | 20 | 
 

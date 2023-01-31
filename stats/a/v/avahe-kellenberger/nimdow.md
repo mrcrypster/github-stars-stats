@@ -1,10 +1,10 @@
 # avahe-kellenberger/nimdow - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 19
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/avahe-kellenberger/nimdow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 280 | 19 | 
 | 2023-01-29 | 279 | 19 | 
 | 2023-01-28 | 278 | 19 | 
 | 2023-01-27 | 278 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 278 | 19 | 
 | 2023-01-03 | 278 | 19 | 
 | 2023-01-02 | 278 | 19 | 
-| 2023-01-01 | 278 | 19 | 
 

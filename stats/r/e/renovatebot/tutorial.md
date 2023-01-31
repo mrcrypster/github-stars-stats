@@ -1,8 +1,8 @@
 # renovatebot/tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 110
+☋ Forks: 112
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 47 | 112 | 
 | 2023-01-29 | 47 | 110 | 
 | 2023-01-28 | 46 | 110 | 
 | 2023-01-27 | 45 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 37 | 86 | 
 | 2023-01-02 | 37 | 85 | 
 | 2023-01-01 | 37 | 85 | 
-| 2022-12-31 | 37 | 85 | 
 

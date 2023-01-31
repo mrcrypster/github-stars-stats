@@ -1,6 +1,6 @@
 # koishijs/chatgpt-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 49 | 7 | 
 | 2023-01-29 | 49 | 7 | 
 | 2023-01-28 | 49 | 7 | 
 | 2023-01-27 | 49 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 42 | 6 | 
 | 2023-01-02 | 42 | 6 | 
 | 2023-01-01 | 42 | 6 | 
-| 2022-12-31 | 42 | 6 | 
 

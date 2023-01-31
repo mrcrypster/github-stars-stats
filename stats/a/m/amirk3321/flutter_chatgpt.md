@@ -1,10 +1,10 @@
 # amirk3321/flutter_chatgpt - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/amirk3321/flutter_chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 31 | 15 | 
 | 2023-01-29 | 30 | 14 | 
 | 2023-01-28 | 30 | 14 | 
 | 2023-01-27 | 30 | 13 | 

@@ -1,6 +1,6 @@
 # jurassicjs/avantage - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 69 | 7 | 
 | 2023-01-29 | 69 | 7 | 
 | 2023-01-27 | 69 | 7 | 
 | 2023-01-26 | 69 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 60 | 7 | 
 | 2023-01-03 | 60 | 7 | 
 | 2023-01-02 | 60 | 6 | 
-| 2022-12-31 | 60 | 6 | 
 

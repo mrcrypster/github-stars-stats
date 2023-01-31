@@ -1,6 +1,6 @@
 # herumi/mcl - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 367 | 136 | 
 | 2023-01-29 | 367 | 136 | 
 | 2023-01-28 | 366 | 136 | 
 | 2023-01-27 | 366 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 362 | 137 | 
 | 2023-01-02 | 362 | 137 | 
 | 2023-01-01 | 362 | 137 | 
-| 2022-12-31 | 363 | 137 | 
 

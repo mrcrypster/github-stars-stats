@@ -1,10 +1,10 @@
 # imsnif/bandwhich - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 234
 
-★ Stars: 7636
+★ Stars: 7637
 
 [Open repository](https://github.com/imsnif/bandwhich)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 7637 | 234 | 
 | 2023-01-29 | 7636 | 234 | 
 | 2023-01-28 | 7633 | 234 | 
 | 2023-01-27 | 7624 | 234 | 

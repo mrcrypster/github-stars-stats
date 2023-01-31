@@ -1,10 +1,10 @@
 # jart/disaster - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 30
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/jart/disaster)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 253 | 30 | 
 | 2023-01-29 | 252 | 30 | 
 | 2023-01-28 | 252 | 30 | 
 | 2023-01-27 | 252 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 248 | 30 | 
 | 2023-01-02 | 248 | 30 | 
 | 2023-01-01 | 248 | 30 | 
-| 2022-12-31 | 248 | 30 | 
 

@@ -1,10 +1,10 @@
 # pharmapsychotic/clip-interrogator - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 159
+☋ Forks: 160
 
-★ Stars: 772
+★ Stars: 776
 
 [Open repository](https://github.com/pharmapsychotic/clip-interrogator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 776 | 160 | 
 | 2023-01-29 | 772 | 159 | 
 | 2023-01-28 | 767 | 158 | 
 | 2023-01-27 | 761 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 667 | 125 | 
 | 2023-01-02 | 664 | 125 | 
 | 2023-01-01 | 660 | 125 | 
-| 2022-12-31 | 660 | 125 | 
 

@@ -1,10 +1,10 @@
 # Mood-al/svelte-tabs-scrollable - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Mood-al/svelte-tabs-scrollable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 12 | - | 
 | 2023-01-29 | 11 | - | 
 | 2023-01-28 | 11 | - | 
 | 2023-01-27 | 11 | - | 

@@ -1,10 +1,10 @@
 # dotnetcore/CAP - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1181
+☋ Forks: 1180
 
-★ Stars: 5861
+★ Stars: 5863
 
 [Open repository](https://github.com/dotnetcore/CAP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5863 | 1180 | 
 | 2023-01-30 | 5861 | 1181 | 
 | 2023-01-28 | 5861 | 1181 | 
 | 2023-01-27 | 5860 | 1181 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5833 | 1175 | 
 | 2023-01-03 | 5834 | 1175 | 
 | 2023-01-02 | 5834 | 1175 | 
-| 2023-01-01 | 5834 | 1175 | 
 

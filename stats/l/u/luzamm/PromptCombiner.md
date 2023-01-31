@@ -1,10 +1,10 @@
 # luzamm/PromptCombiner - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/luzamm/PromptCombiner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 52 | 3 | 
 | 2023-01-29 | 51 | 3 | 
 | 2023-01-28 | 51 | 3 | 
 | 2023-01-27 | 51 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 51 | 3 | 
 | 2023-01-02 | 51 | 3 | 
 | 2023-01-01 | 51 | 3 | 
-| 2022-12-31 | 51 | 3 | 
 

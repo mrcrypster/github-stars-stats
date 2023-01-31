@@ -1,8 +1,8 @@
 # Czechitas-JavaScript-1/lekce2-udalosti-api - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | - | 72 | 
 | 2023-01-29 | - | 71 | 
 | 2023-01-28 | - | 70 | 
 | 2023-01-27 | - | 70 | 

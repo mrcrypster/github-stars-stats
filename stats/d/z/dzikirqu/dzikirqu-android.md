@@ -1,6 +1,6 @@
 # dzikirqu/dzikirqu-android - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 112 | 31 | 
 | 2023-01-29 | 112 | 31 | 
 | 2023-01-28 | 112 | 31 | 
 | 2023-01-27 | 112 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 112 | 31 | 
 | 2023-01-02 | 112 | 31 | 
 | 2023-01-01 | 112 | 31 | 
-| 2022-12-31 | 112 | 31 | 
 

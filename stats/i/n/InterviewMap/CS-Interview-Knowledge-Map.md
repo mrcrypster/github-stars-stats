@@ -1,6 +1,6 @@
 # InterviewMap/CS-Interview-Knowledge-Map - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 2603
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 18037 | 2603 | 
 | 2023-01-29 | 18037 | 2603 | 
 | 2023-01-28 | 18036 | 2603 | 
 | 2023-01-27 | 18035 | 2603 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 18020 | 2605 | 
 | 2023-01-02 | 18020 | 2605 | 
 | 2023-01-01 | 18021 | 2605 | 
-| 2022-12-31 | 18021 | 2605 | 
 

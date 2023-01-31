@@ -1,8 +1,8 @@
 # apinske/virt - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 105 | 7 | 
 | 2023-01-29 | 105 | 6 | 
 | 2023-01-28 | 105 | 6 | 
 | 2023-01-27 | 105 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 104 | 6 | 
 | 2023-01-02 | 104 | 6 | 
 | 2023-01-01 | 104 | 6 | 
-| 2022-12-31 | 103 | 6 | 
 

@@ -1,10 +1,10 @@
 # wppconnect-team/wppconnect - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 1199
+★ Stars: 1203
 
 [Open repository](https://github.com/wppconnect-team/wppconnect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 1203 | 157 | 
 | 2023-01-29 | 1199 | 156 | 
 | 2023-01-28 | 1199 | 156 | 
 | 2023-01-27 | 1199 | 155 | 

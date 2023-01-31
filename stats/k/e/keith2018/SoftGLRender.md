@@ -1,6 +1,6 @@
 # keith2018/SoftGLRender - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 500 | 81 | 
 | 2023-01-29 | 500 | 81 | 
 | 2023-01-28 | 500 | 81 | 
 | 2023-01-27 | 499 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 488 | 81 | 
 | 2023-01-02 | 488 | 81 | 
 | 2023-01-01 | 488 | 81 | 
-| 2022-12-31 | 488 | 81 | 
 

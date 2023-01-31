@@ -1,10 +1,10 @@
 # steven-tey/extrapolate - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 174
+★ Stars: 178
 
 [Open repository](https://github.com/steven-tey/extrapolate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 178 | 14 | 
 | 2023-01-29 | 174 | 13 | 
 | 2023-01-28 | 172 | 13 | 
 | 2023-01-27 | 160 | 11 | 

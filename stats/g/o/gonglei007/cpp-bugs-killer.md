@@ -1,6 +1,6 @@
 # gonglei007/cpp-bugs-killer - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 20 | 3 | 
 | 2023-01-29 | 20 | 3 | 
 | 2023-01-28 | 20 | 3 | 
 | 2023-01-27 | 20 | 2 | 

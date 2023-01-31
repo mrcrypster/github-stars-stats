@@ -1,10 +1,10 @@
 # cosmos/gaia - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 588
+☋ Forks: 592
 
-★ Stars: 283
+★ Stars: 284
 
 [Open repository](https://github.com/cosmos/gaia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 284 | 592 | 
 | 2023-01-29 | 283 | 588 | 
 | 2023-01-28 | 282 | 588 | 
 | 2023-01-27 | 281 | 588 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 276 | 576 | 
 | 2023-01-02 | 276 | 576 | 
 | 2023-01-01 | 276 | 576 | 
-| 2022-12-31 | 277 | 576 | 
 

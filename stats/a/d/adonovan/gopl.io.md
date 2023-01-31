@@ -1,10 +1,10 @@
 # adonovan/gopl.io - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
-☋ Forks: 2555
+☋ Forks: 2557
 
-★ Stars: 6682
+★ Stars: 6684
 
 [Open repository](https://github.com/adonovan/gopl.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 6684 | 2557 | 
 | 2023-01-29 | 6682 | 2555 | 
 | 2023-01-28 | 6680 | 2555 | 
 | 2023-01-27 | 6677 | 2555 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 6627 | 2551 | 
 | 2023-01-02 | 6626 | 2551 | 
 | 2023-01-01 | 6625 | 2550 | 
-| 2022-12-31 | 6624 | 2550 | 
 

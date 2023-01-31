@@ -1,10 +1,10 @@
 # heartexlabs/labelImg - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 5742
 
-★ Stars: 19075
+★ Stars: 19079
 
 [Open repository](https://github.com/heartexlabs/labelImg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 19079 | 5742 | 
 | 2023-01-29 | 19075 | 5742 | 
 | 2023-01-28 | 19070 | 5738 | 
 | 2023-01-27 | 19062 | 5738 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-04 | 18940 | 5710 | 
 | 2023-01-03 | 18938 | 5709 | 
 | 2023-01-01 | 18938 | 5709 | 
-| 2022-12-31 | 18936 | 5708 | 
 

@@ -1,6 +1,6 @@
 # firemodels/fds - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 472
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 453 | 472 | 
 | 2023-01-29 | 453 | 472 | 
 | 2023-01-28 | 452 | 471 | 
 | 2023-01-27 | 452 | 471 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 448 | 469 | 
 | 2023-01-02 | 448 | 468 | 
 | 2023-01-01 | 448 | 468 | 
-| 2022-12-31 | 448 | 468 | 
 

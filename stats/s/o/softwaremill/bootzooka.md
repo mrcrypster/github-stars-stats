@@ -1,10 +1,10 @@
 # softwaremill/bootzooka - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 147
 
-★ Stars: 661
+★ Stars: 662
 
 [Open repository](https://github.com/softwaremill/bootzooka)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 662 | 147 | 
 | 2023-01-29 | 661 | 147 | 
 | 2023-01-28 | 661 | 147 | 
 | 2023-01-27 | 661 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 661 | 146 | 
 | 2023-01-02 | 661 | 146 | 
 | 2023-01-01 | 661 | 146 | 
-| 2022-12-31 | 661 | 146 | 
 

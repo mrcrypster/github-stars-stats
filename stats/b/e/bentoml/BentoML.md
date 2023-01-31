@@ -1,10 +1,10 @@
 # bentoml/BentoML - stars & forks statistics
 
-Stats updated on Jan 2023, 29
+Stats updated on Jan 2023, 30
 
 ☋ Forks: 518
 
-★ Stars: 4477
+★ Stars: 4482
 
 [Open repository](https://github.com/bentoml/BentoML)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-30 | 4482 | 518 | 
 | 2023-01-29 | 4477 | 518 | 
 | 2023-01-28 | 4476 | 518 | 
 | 2023-01-27 | 4473 | 518 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 29
 | 2023-01-03 | 4368 | 506 | 
 | 2023-01-02 | 4363 | 504 | 
 | 2023-01-01 | 4363 | 503 | 
-| 2022-12-31 | 4362 | 502 | 
 
