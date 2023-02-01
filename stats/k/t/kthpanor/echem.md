@@ -1,10 +1,10 @@
 # kthpanor/echem - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 11
 
-★ Stars: 36
+★ Stars: 35
 
 [Open repository](https://github.com/kthpanor/echem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 35 | 11 | 
 | 2023-01-31 | 36 | 11 | 
 | 2023-01-30 | 36 | 11 | 
 | 2023-01-28 | 36 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 32 | 11 | 
 | 2023-01-03 | 32 | 11 | 
 | 2023-01-02 | 32 | 11 | 
-| 2023-01-01 | 32 | 11 | 
 

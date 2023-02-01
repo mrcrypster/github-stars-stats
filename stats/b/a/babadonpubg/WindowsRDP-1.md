@@ -1,8 +1,8 @@
 # babadonpubg/WindowsRDP-1 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 300
+☋ Forks: 303
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3 | 303 | 
 | 2023-01-30 | 3 | 300 | 
 | 2023-01-29 | 3 | 298 | 
 | 2023-01-27 | 3 | 298 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3 | 285 | 
 | 2023-01-03 | 3 | 285 | 
 | 2023-01-02 | 3 | 285 | 
-| 2023-01-01 | 3 | 284 | 
 

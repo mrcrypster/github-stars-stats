@@ -1,10 +1,10 @@
 # TheAlgorithms/F-Sharp - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 41
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/TheAlgorithms/F-Sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 171 | 41 | 
 | 2023-01-30 | 170 | 41 | 
 | 2023-01-29 | 170 | 41 | 
 | 2023-01-28 | 170 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 167 | 40 | 
 | 2023-01-03 | 167 | 40 | 
 | 2023-01-02 | 167 | 40 | 
-| 2023-01-01 | 167 | 40 | 
 

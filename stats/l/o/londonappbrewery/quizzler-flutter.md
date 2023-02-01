@@ -1,8 +1,8 @@
 # londonappbrewery/quizzler-flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 825
+☋ Forks: 824
 
 ★ Stars: 169
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 169 | 824 | 
 | 2023-01-30 | 169 | 825 | 
 | 2023-01-29 | 169 | 823 | 
 | 2023-01-28 | 169 | 823 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 169 | 824 | 
 | 2023-01-03 | 169 | 824 | 
 | 2023-01-02 | 169 | 823 | 
-| 2023-01-01 | 169 | 823 | 
 

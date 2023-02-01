@@ -1,6 +1,6 @@
 # microsoft/csuite - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 28 | 3 | 
 | 2023-01-30 | 28 | 3 | 
 | 2023-01-29 | 28 | 3 | 
 | 2023-01-28 | 28 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 28 | 2 | 
 | 2023-01-04 | 28 | 2 | 
 | 2023-01-03 | 28 | 2 | 
-| 2023-01-02 | 28 | 2 | 
 

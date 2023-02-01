@@ -1,6 +1,6 @@
 # google/paranoid_crypto - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 748 | 42 | 
 | 2023-01-30 | 748 | 42 | 
 | 2023-01-29 | 748 | 42 | 
 | 2023-01-27 | 748 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 748 | 42 | 
 | 2023-01-04 | 748 | 42 | 
 | 2023-01-03 | 748 | 42 | 
-| 2023-01-02 | 747 | 42 | 
 

@@ -1,10 +1,10 @@
 # Datalux/Osintgram - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1239
+☋ Forks: 1241
 
-★ Stars: 5926
+★ Stars: 5928
 
 [Open repository](https://github.com/Datalux/Osintgram)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5928 | 1241 | 
 | 2023-01-30 | 5926 | 1239 | 
 | 2023-01-29 | 5924 | 1237 | 
 | 2023-01-28 | 5916 | 1234 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5731 | 1197 | 
 | 2023-01-03 | 5727 | 1196 | 
 | 2023-01-02 | 5723 | 1191 | 
-| 2023-01-01 | 5721 | 1186 | 
 

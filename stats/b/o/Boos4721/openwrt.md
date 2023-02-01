@@ -1,10 +1,10 @@
 # Boos4721/openwrt - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 104
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/Boos4721/openwrt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 212 | 104 | 
 | 2023-01-30 | 211 | 104 | 
 | 2023-01-29 | 211 | 104 | 
 | 2023-01-28 | 211 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 205 | 104 | 
 | 2023-01-03 | 207 | 102 | 
 | 2023-01-02 | 206 | 102 | 
-| 2023-01-01 | 206 | 101 | 
 

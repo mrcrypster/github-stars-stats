@@ -1,6 +1,6 @@
 # CodeYourFuture/cyf-react - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 6 | 12 | 
 | 2023-01-30 | 6 | 12 | 
 | 2023-01-29 | 6 | 12 | 
 | 2023-01-28 | 6 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 6 | 12 | 
 | 2023-01-03 | 6 | 12 | 
 | 2023-01-02 | 6 | 12 | 
-| 2023-01-01 | 6 | 12 | 
 

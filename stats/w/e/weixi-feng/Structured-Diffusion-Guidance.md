@@ -1,10 +1,10 @@
 # weixi-feng/Structured-Diffusion-Guidance - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
-★ Stars: 175
+★ Stars: 174
 
 [Open repository](https://github.com/weixi-feng/Structured-Diffusion-Guidance)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 174 | 7 | 
 | 2023-01-30 | 175 | 7 | 
 | 2023-01-29 | 174 | 8 | 
 | 2023-01-28 | 174 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 156 | 6 | 
 | 2023-01-03 | 156 | 6 | 
 | 2023-01-02 | 156 | 6 | 
-| 2023-01-01 | 156 | 6 | 
 

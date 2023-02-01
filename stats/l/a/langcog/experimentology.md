@@ -1,10 +1,10 @@
 # langcog/experimentology - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/langcog/experimentology)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 13 | 9 | 
 | 2023-01-30 | 12 | 9 | 
 | 2023-01-29 | 12 | 9 | 
 | 2023-01-28 | 12 | 8 | 

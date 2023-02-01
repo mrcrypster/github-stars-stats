@@ -1,10 +1,10 @@
 # leandromoreira/redlock-rb - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 66
+☋ Forks: 68
 
-★ Stars: 538
+★ Stars: 541
 
 [Open repository](https://github.com/leandromoreira/redlock-rb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 541 | 68 | 
 | 2023-01-30 | 538 | 66 | 
 | 2023-01-29 | 538 | 66 | 
 | 2023-01-28 | 538 | 66 | 

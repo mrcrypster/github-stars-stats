@@ -1,10 +1,10 @@
 # organicmaps/organicmaps - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 410
 
-★ Stars: 4554
+★ Stars: 4563
 
 [Open repository](https://github.com/organicmaps/organicmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4563 | 410 | 
 | 2023-01-30 | 4554 | 410 | 
 | 2023-01-29 | 4544 | 409 | 
 | 2023-01-28 | 4540 | 409 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 4391 | 384 | 
 | 2023-01-03 | 4367 | 382 | 
 | 2023-01-02 | 4355 | 379 | 
-| 2023-01-01 | 4351 | 378 | 
 

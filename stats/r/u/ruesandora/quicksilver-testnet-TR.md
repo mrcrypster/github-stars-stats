@@ -1,6 +1,6 @@
 # ruesandora/quicksilver-testnet-TR - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 94 | 141 | 
 | 2023-01-30 | 94 | 141 | 
 | 2023-01-29 | 94 | 141 | 
 | 2023-01-28 | 94 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 94 | 140 | 
 | 2023-01-03 | 94 | 140 | 
 | 2023-01-02 | 94 | 140 | 
-| 2023-01-01 | 94 | 140 | 
 

@@ -1,10 +1,10 @@
 # Sergio0694/PolySharp - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 24
 
-★ Stars: 1005
+★ Stars: 1010
 
 [Open repository](https://github.com/Sergio0694/PolySharp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1010 | 24 | 
 | 2023-01-30 | 1005 | 24 | 
 | 2023-01-29 | 997 | 24 | 
 | 2023-01-27 | 996 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 354 | 6 | 
 | 2023-01-03 | 355 | 6 | 
 | 2023-01-02 | 354 | 6 | 
-| 2023-01-01 | 354 | 6 | 
 

@@ -1,10 +1,10 @@
 # odnoletkov/advent-of-code-jq - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
-★ Stars: 182
+★ Stars: 181
 
 [Open repository](https://github.com/odnoletkov/advent-of-code-jq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 181 | 3 | 
 | 2023-01-30 | 182 | 3 | 
 | 2023-01-29 | 182 | 3 | 
 | 2023-01-28 | 182 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 181 | 3 | 
 | 2023-01-03 | 181 | 3 | 
 | 2023-01-02 | 181 | 3 | 
-| 2023-01-01 | 181 | 3 | 
 

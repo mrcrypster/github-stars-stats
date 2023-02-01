@@ -1,10 +1,10 @@
 # Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5 | - | 
 | 2023-01-30 | 6 | - | 
 | 2023-01-29 | 6 | - | 
 | 2023-01-28 | 6 | - | 

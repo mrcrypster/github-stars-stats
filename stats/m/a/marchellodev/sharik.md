@@ -1,10 +1,10 @@
 # marchellodev/sharik - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 84
 
-★ Stars: 867
+★ Stars: 868
 
 [Open repository](https://github.com/marchellodev/sharik)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 868 | 84 | 
 | 2023-01-30 | 867 | 84 | 
 | 2023-01-29 | 867 | 84 | 
 | 2023-01-28 | 867 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 845 | 84 | 
 | 2023-01-03 | 844 | 84 | 
 | 2023-01-02 | 844 | 84 | 
-| 2023-01-01 | 842 | 84 | 
 

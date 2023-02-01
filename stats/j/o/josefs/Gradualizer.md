@@ -1,6 +1,6 @@
 # josefs/Gradualizer - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 537 | 28 | 
 | 2023-01-30 | 537 | 28 | 
 | 2023-01-29 | 536 | 28 | 
 | 2023-01-28 | 535 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 526 | 27 | 
 | 2023-01-03 | 525 | 27 | 
 | 2023-01-02 | 525 | 27 | 
-| 2023-01-01 | 525 | 27 | 
 

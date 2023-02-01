@@ -1,6 +1,6 @@
 # leochen-g/wechat-assistant-pro - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 651 | 124 | 
 | 2023-01-30 | 651 | 124 | 
 | 2023-01-29 | 647 | 124 | 
 | 2023-01-28 | 645 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 625 | 120 | 
 | 2023-01-03 | 624 | 120 | 
 | 2023-01-02 | 624 | 120 | 
-| 2023-01-01 | 624 | 120 | 
 

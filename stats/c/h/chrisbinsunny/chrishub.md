@@ -1,10 +1,10 @@
 # chrisbinsunny/chrishub - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/chrisbinsunny/chrishub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 62 | 8 | 
 | 2023-01-30 | 61 | 8 | 
 | 2023-01-29 | 59 | 8 | 
 | 2023-01-28 | 59 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 49 | 4 | 
 | 2023-01-03 | 49 | 4 | 
 | 2023-01-02 | 49 | 4 | 
-| 2023-01-01 | 49 | 4 | 
 

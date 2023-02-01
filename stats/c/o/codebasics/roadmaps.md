@@ -1,8 +1,8 @@
 # codebasics/roadmaps - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 280
+☋ Forks: 279
 
 ★ Stars: 540
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 540 | 279 | 
 | 2023-01-30 | 540 | 280 | 
 | 2023-01-29 | 538 | 279 | 
 | 2023-01-28 | 538 | 279 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 522 | 278 | 
 | 2023-01-03 | 521 | 279 | 
 | 2023-01-02 | 521 | 279 | 
-| 2023-01-01 | 519 | 279 | 
 

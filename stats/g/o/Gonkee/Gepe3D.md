@@ -1,10 +1,10 @@
 # Gonkee/Gepe3D - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 25
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/Gonkee/Gepe3D)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 403 | 25 | 
 | 2023-01-30 | 402 | 25 | 
 | 2023-01-29 | 402 | 25 | 
 | 2023-01-28 | 402 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 397 | 24 | 
 | 2023-01-03 | 395 | 24 | 
 | 2023-01-02 | 393 | 24 | 
-| 2023-01-01 | 393 | 24 | 
 

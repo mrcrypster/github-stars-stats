@@ -1,6 +1,6 @@
 # timholy/PkgImages.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 18 | - | 
 | 2023-01-30 | 18 | - | 
 | 2023-01-29 | 18 | - | 
 | 2023-01-28 | 18 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 15 | - | 
 | 2023-01-03 | 15 | - | 
 | 2023-01-02 | 15 | - | 
-| 2023-01-01 | 15 | - | 
 

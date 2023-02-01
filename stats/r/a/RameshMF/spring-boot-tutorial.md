@@ -1,10 +1,10 @@
 # RameshMF/spring-boot-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1569
+☋ Forks: 1570
 
-★ Stars: 1213
+★ Stars: 1216
 
 [Open repository](https://github.com/RameshMF/spring-boot-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1216 | 1570 | 
 | 2023-01-30 | 1213 | 1569 | 
 | 2023-01-29 | 1212 | 1567 | 
 | 2023-01-28 | 1211 | 1566 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 1189 | 1554 | 
 | 2023-01-04 | 1189 | 1554 | 
 | 2023-01-03 | 1189 | 1553 | 
-| 2023-01-02 | 1188 | 1553 | 
 

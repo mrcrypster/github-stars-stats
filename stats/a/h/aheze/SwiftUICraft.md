@@ -1,8 +1,8 @@
 # aheze/SwiftUICraft - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 17
+☋ Forks: 16
 
 ★ Stars: 214
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 214 | 16 | 
 | 2023-01-30 | 214 | 17 | 
 | 2023-01-29 | 214 | 17 | 
 | 2023-01-28 | 214 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 204 | 15 | 
 | 2023-01-03 | 204 | 15 | 
 | 2023-01-02 | 204 | 15 | 
-| 2023-01-01 | 204 | 15 | 
 

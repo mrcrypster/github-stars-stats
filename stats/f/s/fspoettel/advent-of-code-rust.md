@@ -1,6 +1,6 @@
 # fspoettel/advent-of-code-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 346 | 13 | 
 | 2023-01-30 | 346 | 13 | 
 | 2023-01-29 | 345 | 13 | 
 | 2023-01-28 | 345 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 342 | 12 | 
 | 2023-01-03 | 341 | 12 | 
 | 2023-01-02 | 340 | 11 | 
-| 2023-01-01 | 340 | 11 | 
 

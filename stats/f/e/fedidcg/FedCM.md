@@ -1,10 +1,10 @@
 # fedidcg/FedCM - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 58
 
-★ Stars: 253
+★ Stars: 252
 
 [Open repository](https://github.com/fedidcg/FedCM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 252 | 58 | 
 | 2023-01-30 | 253 | 58 | 
 | 2023-01-29 | 253 | 58 | 
 | 2023-01-28 | 253 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 249 | 55 | 
 | 2023-01-03 | 249 | 55 | 
 | 2023-01-02 | 249 | 55 | 
-| 2023-01-01 | 249 | 55 | 
 

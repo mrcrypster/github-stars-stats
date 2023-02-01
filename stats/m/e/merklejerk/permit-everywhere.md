@@ -1,10 +1,10 @@
 # merklejerk/permit-everywhere - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/merklejerk/permit-everywhere)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 100 | 6 | 
 | 2023-01-30 | 99 | 6 | 
 | 2023-01-29 | 99 | 6 | 
 | 2023-01-28 | 98 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 95 | 6 | 
 | 2023-01-03 | 95 | 6 | 
 | 2023-01-02 | 94 | 6 | 
-| 2023-01-01 | 94 | 6 | 
 

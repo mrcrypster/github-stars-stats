@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 77
 
-★ Stars: 199
+★ Stars: 198
 
 [Open repository](https://github.com/msgpack/msgpack-erlang)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 199 | 77 | 
+| 2023-01-31 | 198 | 77 | 
 | 2023-01-30 | 199 | 77 | 
 

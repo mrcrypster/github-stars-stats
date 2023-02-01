@@ -1,6 +1,6 @@
 # othree/javascript-libraries-syntax.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 629 | 36 | 
 | 2023-01-30 | 629 | 36 | 
 | 2023-01-29 | 629 | 36 | 
 | 2023-01-28 | 629 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 630 | 36 | 
 | 2023-01-03 | 630 | 36 | 
 | 2023-01-02 | 630 | 36 | 
-| 2023-01-01 | 630 | 36 | 
 

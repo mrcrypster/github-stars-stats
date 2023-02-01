@@ -1,8 +1,8 @@
 # Tinkoff/investAPI - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 105
+☋ Forks: 106
 
 ★ Stars: 270
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 270 | 106 | 
 | 2023-01-30 | 270 | 105 | 
 | 2023-01-29 | 269 | 105 | 
 | 2023-01-28 | 269 | 105 | 

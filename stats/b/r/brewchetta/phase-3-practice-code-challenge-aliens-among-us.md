@@ -1,8 +1,8 @@
 # brewchetta/phase-3-practice-code-challenge-aliens-among-us - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 94
+☋ Forks: 93
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | - | 93 | 
 | 2023-01-30 | - | 94 | 
 | 2023-01-29 | - | 94 | 
 | 2023-01-28 | - | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | - | 89 | 
 | 2023-01-03 | - | 89 | 
 | 2023-01-02 | - | 89 | 
-| 2023-01-01 | - | 89 | 
 

@@ -1,10 +1,10 @@
 # BSLang/BS - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
-★ Stars: 175
+★ Stars: 177
 
 [Open repository](https://github.com/BSLang/BS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 177 | 8 | 
 | 2023-01-30 | 175 | 8 | 
 | 2023-01-29 | 175 | 8 | 
 | 2023-01-28 | 175 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 174 | 8 | 
 | 2023-01-04 | 174 | 8 | 
 | 2023-01-02 | 174 | 8 | 
-| 2023-01-01 | 174 | 8 | 
 

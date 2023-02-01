@@ -1,10 +1,10 @@
 # Sterlingg/json-snatcher - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 13
 
-★ Stars: 87
+★ Stars: 86
 
 [Open repository](https://github.com/Sterlingg/json-snatcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 86 | 13 | 
 | 2023-01-30 | 87 | 13 | 
 | 2023-01-29 | 87 | 13 | 
 | 2023-01-28 | 87 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 87 | 13 | 
 | 2023-01-03 | 87 | 13 | 
 | 2023-01-02 | 87 | 13 | 
-| 2023-01-01 | 87 | 13 | 
 

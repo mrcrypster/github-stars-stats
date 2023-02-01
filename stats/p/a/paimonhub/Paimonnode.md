@@ -1,6 +1,6 @@
 # paimonhub/Paimonnode - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 631 | 76 | 
 | 2023-01-30 | 631 | 76 | 
 | 2023-01-29 | 630 | 75 | 
 | 2023-01-28 | 627 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 445 | 67 | 
 | 2023-01-03 | 442 | 65 | 
 | 2023-01-02 | 438 | 64 | 
-| 2023-01-01 | 435 | 63 | 
 

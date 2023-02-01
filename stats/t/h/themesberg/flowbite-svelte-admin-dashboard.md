@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/themesberg/flowbite-svelte-admin-dashboard)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 5 | 1 | 
+| 2023-01-31 | 6 | 1 | 
 | 2023-01-30 | 5 | 1 | 
 

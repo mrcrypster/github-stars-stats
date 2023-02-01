@@ -1,6 +1,6 @@
 # SpecularL2/specular - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 14 | 6 | 
 | 2023-01-30 | 14 | 6 | 
 | 2023-01-29 | 14 | 6 | 
 | 2023-01-28 | 14 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 12 | 4 | 
 | 2023-01-03 | 12 | 4 | 
 | 2023-01-02 | 12 | 4 | 
-| 2023-01-01 | 12 | 4 | 
 

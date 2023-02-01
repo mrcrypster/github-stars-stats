@@ -1,10 +1,10 @@
 # Magisk-Modules-Repo/HideNavBar - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 52
 
-★ Stars: 417
+★ Stars: 418
 
 [Open repository](https://github.com/Magisk-Modules-Repo/HideNavBar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 418 | 52 | 
 | 2023-01-30 | 417 | 52 | 
 | 2023-01-29 | 416 | 52 | 
 | 2023-01-28 | 416 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 408 | 52 | 
 | 2023-01-03 | 408 | 52 | 
 | 2023-01-02 | 407 | 52 | 
-| 2023-01-01 | 407 | 52 | 
 

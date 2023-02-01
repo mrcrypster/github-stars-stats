@@ -1,8 +1,8 @@
 # localstack/localstack-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
-☋ Forks: 12
+☋ Forks: 11
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 21 | 11 | 
 | 2023-01-30 | 21 | 12 | 
 | 2023-01-29 | 21 | 11 | 
 | 2023-01-28 | 21 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 17 | 9 | 
 | 2023-01-03 | 17 | 9 | 
 | 2023-01-02 | 17 | 9 | 
-| 2023-01-01 | 17 | 9 | 
 

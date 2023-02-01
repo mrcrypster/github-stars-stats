@@ -1,10 +1,10 @@
 # fosslk/Campus-Club - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 33
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/fosslk/Campus-Club)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 4 | 33 | 
 | 2023-01-30 | 5 | 33 | 
 | 2023-01-29 | 5 | 33 | 
 | 2023-01-28 | 5 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 5 | 32 | 
 | 2023-01-04 | 5 | 32 | 
 | 2023-01-02 | 5 | 32 | 
-| 2023-01-01 | 5 | 32 | 
 

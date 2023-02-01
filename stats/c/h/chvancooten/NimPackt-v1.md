@@ -1,6 +1,6 @@
 # chvancooten/NimPackt-v1 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 366 | 62 | 
 | 2023-01-30 | 366 | 62 | 
 | 2023-01-29 | 366 | 62 | 
 | 2023-01-28 | 366 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 362 | 61 | 
 | 2023-01-03 | 361 | 60 | 
 | 2023-01-02 | 361 | 60 | 
-| 2023-01-01 | 361 | 60 | 
 

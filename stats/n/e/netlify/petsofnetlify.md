@@ -1,6 +1,6 @@
 # netlify/petsofnetlify - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 45 | 32 | 
 | 2023-01-30 | 45 | 32 | 
 | 2023-01-29 | 45 | 32 | 
 | 2023-01-28 | 45 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 45 | 33 | 
 | 2023-01-03 | 45 | 33 | 
 | 2023-01-02 | 45 | 33 | 
-| 2023-01-01 | 45 | 33 | 
 

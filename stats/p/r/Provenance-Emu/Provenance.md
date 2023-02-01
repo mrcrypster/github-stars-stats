@@ -1,10 +1,10 @@
 # Provenance-Emu/Provenance - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 642
 
-★ Stars: 5113
+★ Stars: 5117
 
 [Open repository](https://github.com/Provenance-Emu/Provenance)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5117 | 642 | 
 | 2023-01-30 | 5113 | 642 | 
 | 2023-01-29 | 5112 | 642 | 
 | 2023-01-28 | 5111 | 642 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5071 | 639 | 
 | 2023-01-03 | 5069 | 639 | 
 | 2023-01-02 | 5068 | 638 | 
-| 2023-01-01 | 5068 | 638 | 
 

@@ -1,6 +1,6 @@
 # asjadnaqvi/Stata-schemes - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 125 | 38 | 
 | 2023-01-31 | 125 | 38 | 
 | 2023-01-29 | 124 | 37 | 
 | 2023-01-28 | 124 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 120 | 38 | 
 | 2023-01-04 | 120 | 38 | 
 | 2023-01-02 | 120 | 38 | 
-| 2023-01-01 | 120 | 38 | 
 

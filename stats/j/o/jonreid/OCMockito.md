@@ -1,6 +1,6 @@
 # jonreid/OCMockito - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 986 | 119 | 
 | 2023-01-30 | 986 | 119 | 
 | 2023-01-29 | 986 | 119 | 
 | 2023-01-28 | 985 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 987 | 119 | 
 | 2023-01-03 | 987 | 119 | 
 | 2023-01-02 | 987 | 119 | 
-| 2023-01-01 | 987 | 119 | 
 

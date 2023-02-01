@@ -1,10 +1,10 @@
 # statsd/statsd - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1984
 
-★ Stars: 16861
+★ Stars: 16864
 
 [Open repository](https://github.com/statsd/statsd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 16864 | 1984 | 
 | 2023-01-30 | 16861 | 1984 | 
 | 2023-01-29 | 16859 | 1984 | 
 | 2023-01-27 | 16858 | 1984 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 16814 | 1987 | 
 | 2023-01-03 | 16812 | 1987 | 
 | 2023-01-02 | 16811 | 1987 | 
-| 2023-01-01 | 16810 | 1987 | 
 

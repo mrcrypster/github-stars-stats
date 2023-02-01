@@ -1,10 +1,10 @@
 # goccy/bigquery-emulator - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 24
 
-★ Stars: 341
+★ Stars: 344
 
 [Open repository](https://github.com/goccy/bigquery-emulator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 344 | 24 | 
 | 2023-01-30 | 341 | 24 | 
 | 2023-01-29 | 341 | 24 | 
 | 2023-01-28 | 341 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 322 | 23 | 
 | 2023-01-03 | 321 | 23 | 
 | 2023-01-02 | 321 | 23 | 
-| 2023-01-01 | 321 | 23 | 
 

@@ -1,8 +1,8 @@
 # JuliaDiff/ChainRules.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 72
+☋ Forks: 71
 
 ★ Stars: 336
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 336 | 71 | 
 | 2023-01-30 | 336 | 72 | 
 | 2023-01-29 | 337 | 72 | 
 | 2023-01-28 | 337 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 334 | 71 | 
 | 2023-01-03 | 334 | 71 | 
 | 2023-01-02 | 334 | 71 | 
-| 2023-01-01 | 334 | 71 | 
 

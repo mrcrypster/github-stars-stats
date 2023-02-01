@@ -1,8 +1,8 @@
 # create-go-app/cli - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 226
+☋ Forks: 225
 
 ★ Stars: 1801
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1801 | 225 | 
 | 2023-01-30 | 1801 | 226 | 
 | 2023-01-29 | 1799 | 227 | 
 | 2023-01-28 | 1798 | 227 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1758 | 216 | 
 | 2023-01-03 | 1757 | 216 | 
 | 2023-01-02 | 1754 | 216 | 
-| 2023-01-01 | 1750 | 215 | 
 

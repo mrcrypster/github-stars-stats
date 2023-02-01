@@ -1,10 +1,10 @@
 # Mokshit06/typewind - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 18
 
-★ Stars: 1449
+★ Stars: 1489
 
 [Open repository](https://github.com/Mokshit06/typewind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1489 | 18 | 
 | 2023-01-30 | 1449 | 18 | 
 | 2023-01-29 | 1401 | 14 | 
 | 2023-01-28 | 1322 | 14 | 

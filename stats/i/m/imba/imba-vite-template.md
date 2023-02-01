@@ -1,8 +1,8 @@
 # imba/imba-vite-template - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 3
+☋ Forks: 2
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 38 | 2 | 
 | 2023-01-30 | 38 | 3 | 
 | 2023-01-29 | 38 | 3 | 
 | 2023-01-28 | 38 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 38 | 3 | 
 | 2023-01-03 | 38 | 3 | 
 | 2023-01-02 | 38 | 3 | 
-| 2023-01-01 | 38 | 3 | 
 

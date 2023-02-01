@@ -1,10 +1,10 @@
 # slaclab/surf - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 41
 
-★ Stars: 198
+★ Stars: 197
 
 [Open repository](https://github.com/slaclab/surf)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 198 | 41 | 
+| 2023-02-01 | 197 | 41 | 
+| 2023-01-31 | 197 | 41 | 
 | 2023-01-30 | 198 | 41 | 
 | 2023-01-29 | 198 | 41 | 
 | 2023-01-28 | 198 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 196 | 41 | 
 | 2023-01-04 | 196 | 41 | 
 | 2023-01-03 | 196 | 41 | 
-| 2023-01-02 | 196 | 41 | 
 

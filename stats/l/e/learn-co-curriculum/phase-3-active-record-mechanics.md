@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-active-record-mechanics - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 506
+☋ Forks: 507
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1 | 507 | 
 | 2023-01-30 | 1 | 506 | 
 | 2023-01-29 | 1 | 506 | 
 | 2023-01-28 | 1 | 505 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1 | 498 | 
 | 2023-01-03 | 1 | 498 | 
 | 2023-01-02 | 1 | 498 | 
-| 2023-01-01 | 1 | 498 | 
 

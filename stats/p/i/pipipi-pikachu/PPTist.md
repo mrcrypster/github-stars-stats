@@ -1,10 +1,10 @@
 # pipipi-pikachu/PPTist - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
-☋ Forks: 706
+☋ Forks: 707
 
-★ Stars: 3789
+★ Stars: 3798
 
 [Open repository](https://github.com/pipipi-pikachu/PPTist)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3798 | 707 | 
+| 2023-01-31 | 3798 | 707 | 
 | 2023-01-30 | 3789 | 706 | 
 | 2023-01-29 | 3785 | 705 | 
 | 2023-01-28 | 3780 | 705 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3694 | 693 | 
 | 2023-01-03 | 3688 | 692 | 
 | 2023-01-02 | 3685 | 691 | 
-| 2023-01-01 | 3683 | 691 | 
 

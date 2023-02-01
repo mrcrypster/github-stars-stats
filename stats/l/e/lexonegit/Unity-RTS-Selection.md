@@ -1,6 +1,6 @@
 # lexonegit/Unity-RTS-Selection - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 60 | 7 | 
 | 2023-01-30 | 60 | 7 | 
 | 2023-01-29 | 60 | 7 | 
 | 2023-01-28 | 60 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 60 | 7 | 
 | 2023-01-03 | 60 | 7 | 
 | 2023-01-02 | 60 | 7 | 
-| 2023-01-01 | 60 | 7 | 
 

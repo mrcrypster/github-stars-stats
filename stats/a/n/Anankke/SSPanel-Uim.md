@@ -1,10 +1,10 @@
 # Anankke/SSPanel-Uim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 3216
+☋ Forks: 3217
 
-★ Stars: 7545
+★ Stars: 7547
 
 [Open repository](https://github.com/Anankke/SSPanel-Uim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 7547 | 3217 | 
 | 2023-01-30 | 7545 | 3216 | 
 | 2023-01-29 | 7537 | 3215 | 
 | 2023-01-28 | 7536 | 3215 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 7461 | 3207 | 
 | 2023-01-03 | 7456 | 3207 | 
 | 2023-01-02 | 7454 | 3207 | 
-| 2023-01-01 | 7451 | 3207 | 
 

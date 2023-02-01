@@ -1,10 +1,10 @@
 # FreshRSS/FreshRSS - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 586
 
-★ Stars: 5469
+★ Stars: 5472
 
 [Open repository](https://github.com/FreshRSS/FreshRSS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5472 | 586 | 
 | 2023-01-30 | 5469 | 586 | 
 | 2023-01-29 | 5467 | 587 | 
 | 2023-01-28 | 5454 | 583 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5311 | 576 | 
 | 2023-01-03 | 5307 | 577 | 
 | 2023-01-02 | 5304 | 577 | 
-| 2023-01-01 | 5293 | 577 | 
 

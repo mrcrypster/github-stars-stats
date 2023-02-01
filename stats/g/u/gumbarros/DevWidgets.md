@@ -1,6 +1,6 @@
 # gumbarros/DevWidgets - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 97 | 6 | 
 | 2023-01-30 | 97 | 6 | 
 | 2023-01-29 | 95 | 6 | 
 | 2023-01-28 | 95 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 90 | 5 | 
 | 2023-01-04 | 90 | 5 | 
 | 2023-01-03 | 90 | 5 | 
-| 2023-01-02 | 90 | 5 | 
 

@@ -1,10 +1,10 @@
 # tildearrow/furnace - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 88
 
-★ Stars: 701
+★ Stars: 706
 
 [Open repository](https://github.com/tildearrow/furnace)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 706 | 88 | 
 | 2023-01-30 | 701 | 88 | 
 | 2023-01-29 | 695 | 88 | 
 | 2023-01-28 | 693 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 640 | 83 | 
 | 2023-01-03 | 638 | 83 | 
 | 2023-01-02 | 639 | 83 | 
-| 2023-01-01 | 636 | 83 | 
 

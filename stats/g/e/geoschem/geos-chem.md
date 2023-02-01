@@ -1,6 +1,6 @@
 # geoschem/geos-chem - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 122 | 127 | 
 | 2023-01-30 | 122 | 127 | 
 | 2023-01-29 | 122 | 127 | 
 | 2023-01-28 | 122 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 119 | 126 | 
 | 2023-01-03 | 119 | 126 | 
 | 2023-01-02 | 119 | 126 | 
-| 2023-01-01 | 119 | 126 | 
 

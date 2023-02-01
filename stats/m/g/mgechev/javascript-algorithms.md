@@ -1,10 +1,10 @@
 # mgechev/javascript-algorithms - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1296
 
-★ Stars: 7598
+★ Stars: 7599
 
 [Open repository](https://github.com/mgechev/javascript-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 7599 | 1296 | 
 | 2023-01-30 | 7598 | 1296 | 
 | 2023-01-29 | 7598 | 1296 | 
 | 2023-01-28 | 7598 | 1296 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 7587 | 1295 | 
 | 2023-01-03 | 7584 | 1294 | 
 | 2023-01-02 | 7585 | 1294 | 
-| 2023-01-01 | 7581 | 1293 | 
 

@@ -1,10 +1,10 @@
 # SWI-Prolog/packages-pcre - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/SWI-Prolog/packages-pcre)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3 | 5 | 
 | 2023-01-30 | 4 | 5 | 
 | 2023-01-29 | 3 | 5 | 
 | 2023-01-28 | 3 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3 | 5 | 
 | 2023-01-03 | 3 | 5 | 
 | 2023-01-02 | 3 | 5 | 
-| 2023-01-01 | 3 | 5 | 
 

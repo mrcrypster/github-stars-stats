@@ -1,6 +1,6 @@
 # Mixtape-Sessions/Machine-Learning - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 88 | 34 | 
 | 2023-01-30 | 88 | 34 | 
 | 2023-01-29 | 88 | 34 | 
 | 2023-01-28 | 89 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 85 | 27 | 
 | 2023-01-03 | 85 | 27 | 
 | 2023-01-02 | 84 | 27 | 
-| 2023-01-01 | 84 | 27 | 
 

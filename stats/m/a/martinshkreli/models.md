@@ -1,6 +1,6 @@
 # martinshkreli/models - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 514 | 69 | 
 | 2023-01-30 | 514 | 69 | 
 | 2023-01-29 | 513 | 69 | 
 | 2023-01-28 | 511 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 490 | 65 | 
 | 2023-01-03 | 489 | 65 | 
 | 2023-01-02 | 488 | 65 | 
-| 2023-01-01 | 487 | 65 | 
 

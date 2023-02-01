@@ -1,8 +1,8 @@
 # AArnott/Library.Template - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 103 | 18 | 
 | 2023-01-30 | 103 | 17 | 
 | 2023-01-29 | 103 | 17 | 
 | 2023-01-28 | 103 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 102 | 17 | 
 | 2023-01-03 | 101 | 17 | 
 | 2023-01-02 | 101 | 17 | 
-| 2023-01-01 | 101 | 17 | 
 

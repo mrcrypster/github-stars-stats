@@ -1,10 +1,10 @@
 # terryma/vim-expand-region - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 42
 
-★ Stars: 1037
+★ Stars: 1038
 
 [Open repository](https://github.com/terryma/vim-expand-region)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1038 | 42 | 
 | 2023-01-30 | 1037 | 42 | 
 | 2023-01-29 | 1036 | 42 | 
 | 2023-01-28 | 1036 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 1033 | 42 | 
 | 2023-01-04 | 1033 | 42 | 
 | 2023-01-03 | 1033 | 42 | 
-| 2023-01-02 | 1033 | 42 | 
 

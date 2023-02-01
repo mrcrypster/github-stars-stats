@@ -1,10 +1,10 @@
 # google/silifuzz - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 17
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/google/silifuzz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 327 | 17 | 
 | 2023-01-30 | 326 | 17 | 
 | 2023-01-29 | 326 | 17 | 
 | 2023-01-28 | 326 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 323 | 16 | 
 | 2023-01-03 | 323 | 16 | 
 | 2023-01-02 | 323 | 16 | 
-| 2023-01-01 | 323 | 16 | 
 

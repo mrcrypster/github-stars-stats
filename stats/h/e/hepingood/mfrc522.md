@@ -1,10 +1,10 @@
 # hepingood/mfrc522 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 51
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/hepingood/mfrc522)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 157 | 51 | 
 | 2023-01-30 | 156 | 51 | 
 | 2023-01-29 | 156 | 51 | 
 | 2023-01-28 | 156 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 156 | 51 | 
 | 2023-01-03 | 156 | 51 | 
 | 2023-01-02 | 156 | 51 | 
-| 2023-01-01 | 156 | 51 | 
 

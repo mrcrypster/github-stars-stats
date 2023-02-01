@@ -1,6 +1,6 @@
 # priya42bagde/JavaScriptCodingInterviewQuestions - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 298 | 148 | 
 | 2023-01-30 | 298 | 148 | 
 | 2023-01-29 | 298 | 148 | 
 | 2023-01-28 | 296 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 290 | 141 | 
 | 2023-01-03 | 290 | 140 | 
 | 2023-01-02 | 290 | 140 | 
-| 2023-01-01 | 289 | 139 | 
 

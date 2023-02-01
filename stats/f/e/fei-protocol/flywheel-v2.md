@@ -1,6 +1,6 @@
 # fei-protocol/flywheel-v2 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 55 | 13 | 
 | 2023-01-30 | 55 | 13 | 
 | 2023-01-29 | 55 | 14 | 
 | 2023-01-28 | 55 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 55 | 14 | 
 | 2023-01-03 | 55 | 14 | 
 | 2023-01-02 | 55 | 14 | 
-| 2023-01-01 | 55 | 14 | 
 

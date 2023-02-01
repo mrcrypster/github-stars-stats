@@ -1,10 +1,10 @@
 # lucidrains/audiolm-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 643
+★ Stars: 655
 
 [Open repository](https://github.com/lucidrains/audiolm-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 655 | 66 | 
 | 2023-01-30 | 643 | 65 | 
 | 2023-01-29 | 601 | 56 | 
 | 2023-01-28 | 570 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 457 | 39 | 
 | 2023-01-03 | 455 | 39 | 
 | 2023-01-02 | 451 | 39 | 
-| 2023-01-01 | 450 | 39 | 
 

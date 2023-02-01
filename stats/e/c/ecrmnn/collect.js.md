@@ -1,10 +1,10 @@
 # ecrmnn/collect.js - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 324
+☋ Forks: 325
 
-★ Stars: 6233
+★ Stars: 6240
 
 [Open repository](https://github.com/ecrmnn/collect.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 6240 | 325 | 
 | 2023-01-30 | 6233 | 324 | 
 | 2023-01-29 | 6221 | 324 | 
 | 2023-01-28 | 6206 | 324 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 6135 | 321 | 
 | 2023-01-03 | 6134 | 320 | 
 | 2023-01-02 | 6134 | 320 | 
-| 2023-01-01 | 6133 | 320 | 
 

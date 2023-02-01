@@ -1,10 +1,10 @@
 # awesome-devblog/awesome-devblog - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 667
+☋ Forks: 669
 
-★ Stars: 3043
+★ Stars: 3044
 
 [Open repository](https://github.com/awesome-devblog/awesome-devblog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3044 | 669 | 
 | 2023-01-30 | 3043 | 667 | 
 | 2023-01-29 | 3043 | 667 | 
 | 2023-01-28 | 3043 | 666 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2985 | 661 | 
 | 2023-01-03 | 2985 | 661 | 
 | 2023-01-02 | 2984 | 661 | 
-| 2023-01-01 | 2981 | 660 | 
 

@@ -1,10 +1,10 @@
 # magmide/magmide - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 10
 
-★ Stars: 709
+★ Stars: 711
 
 [Open repository](https://github.com/magmide/magmide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 711 | 10 | 
 | 2023-01-30 | 709 | 10 | 
 | 2023-01-29 | 709 | 10 | 
 | 2023-01-28 | 709 | 10 | 

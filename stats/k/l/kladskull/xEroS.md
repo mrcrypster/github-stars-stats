@@ -1,6 +1,6 @@
 # kladskull/xEroS - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 79 | 8 | 
 | 2023-01-30 | 79 | 8 | 
 | 2023-01-29 | 79 | 8 | 
 | 2023-01-27 | 79 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 79 | 8 | 
 | 2023-01-04 | 79 | 8 | 
 | 2023-01-03 | 79 | 8 | 
-| 2023-01-02 | 79 | 8 | 
 

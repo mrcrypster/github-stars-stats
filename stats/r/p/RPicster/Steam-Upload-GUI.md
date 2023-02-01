@@ -1,10 +1,10 @@
 # RPicster/Steam-Upload-GUI - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/RPicster/Steam-Upload-GUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 37 | 1 | 
 | 2023-01-30 | 36 | 1 | 
 | 2023-01-29 | 36 | 1 | 
 | 2023-01-28 | 36 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 34 | 1 | 
 | 2023-01-03 | 34 | 1 | 
 | 2023-01-02 | 34 | 1 | 
-| 2023-01-01 | 34 | 1 | 
 

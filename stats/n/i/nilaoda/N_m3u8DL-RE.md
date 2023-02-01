@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 31
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 852
+★ Stars: 853
 
 [Open repository](https://github.com/nilaoda/N_m3u8DL-RE)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 852 | 94 | 
+| 2023-01-31 | 853 | 95 | 
 | 2023-01-30 | 852 | 94 | 
 | 2023-01-29 | 840 | 92 | 
 | 2023-01-28 | 832 | 92 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 716 | 82 | 
 | 2023-01-04 | 707 | 82 | 
 | 2023-01-03 | 699 | 81 | 
-| 2023-01-02 | 695 | 80 | 
 

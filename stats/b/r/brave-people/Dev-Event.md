@@ -1,10 +1,10 @@
 # brave-people/Dev-Event - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 323
 
-★ Stars: 4460
+★ Stars: 4465
 
 [Open repository](https://github.com/brave-people/Dev-Event)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4465 | 323 | 
 | 2023-01-30 | 4460 | 323 | 
 | 2023-01-28 | 4455 | 323 | 
 | 2023-01-27 | 4453 | 323 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 4358 | 317 | 
 | 2023-01-03 | 4347 | 317 | 
 | 2023-01-02 | 4340 | 314 | 
-| 2023-01-01 | 4335 | 314 | 
 

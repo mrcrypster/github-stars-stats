@@ -1,6 +1,6 @@
 # heidesebastiao95/CMS-Panel - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 13 | 6 | 
 | 2023-01-30 | 13 | 6 | 
 | 2023-01-28 | 13 | 6 | 
 | 2023-01-27 | 13 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 13 | 6 | 
 | 2023-01-04 | 13 | 6 | 
 | 2023-01-03 | 13 | 6 | 
-| 2023-01-02 | 13 | 6 | 
 

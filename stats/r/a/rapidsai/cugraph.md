@@ -1,6 +1,6 @@
 # rapidsai/cugraph - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1195 | 226 | 
 | 2023-01-30 | 1195 | 226 | 
 | 2023-01-29 | 1195 | 225 | 
 | 2023-01-28 | 1195 | 225 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1177 | 223 | 
 | 2023-01-03 | 1176 | 223 | 
 | 2023-01-02 | 1176 | 223 | 
-| 2023-01-01 | 1175 | 223 | 
 

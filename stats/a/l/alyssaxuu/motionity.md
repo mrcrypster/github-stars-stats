@@ -1,10 +1,10 @@
 # alyssaxuu/motionity - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 156
+☋ Forks: 158
 
-★ Stars: 2499
+★ Stars: 2504
 
 [Open repository](https://github.com/alyssaxuu/motionity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2504 | 158 | 
 | 2023-01-30 | 2499 | 156 | 
 | 2023-01-29 | 2494 | 155 | 
 | 2023-01-28 | 2490 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2439 | 150 | 
 | 2023-01-03 | 2437 | 150 | 
 | 2023-01-02 | 2437 | 150 | 
-| 2023-01-01 | 2436 | 150 | 
 

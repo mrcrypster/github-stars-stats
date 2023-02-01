@@ -1,10 +1,10 @@
 # bigcommerce/cornerstone - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 541
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/bigcommerce/cornerstone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 252 | 541 | 
 | 2023-01-30 | 251 | 541 | 
 | 2023-01-29 | 251 | 542 | 
 | 2023-01-28 | 251 | 542 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 248 | 539 | 
 | 2023-01-03 | 248 | 538 | 
 | 2023-01-02 | 248 | 536 | 
-| 2023-01-01 | 248 | 536 | 
 

@@ -1,10 +1,10 @@
 # r0oth3x49/ghauri - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 82
 
-★ Stars: 597
+★ Stars: 599
 
 [Open repository](https://github.com/r0oth3x49/ghauri)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 599 | 82 | 
 | 2023-01-30 | 597 | 82 | 
 | 2023-01-29 | 593 | 81 | 
 | 2023-01-28 | 593 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 517 | 73 | 
 | 2023-01-03 | 516 | 73 | 
 | 2023-01-02 | 516 | 73 | 
-| 2023-01-01 | 515 | 73 | 
 

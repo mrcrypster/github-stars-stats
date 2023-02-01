@@ -1,10 +1,10 @@
 # tomhuang12/awesome-k8s-resources - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 252
+☋ Forks: 253
 
-★ Stars: 1847
+★ Stars: 1852
 
 [Open repository](https://github.com/tomhuang12/awesome-k8s-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1852 | 253 | 
 | 2023-01-30 | 1847 | 252 | 
 | 2023-01-29 | 1846 | 251 | 
 | 2023-01-28 | 1845 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1815 | 242 | 
 | 2023-01-03 | 1812 | 242 | 
 | 2023-01-02 | 1810 | 242 | 
-| 2023-01-01 | 1810 | 242 | 
 

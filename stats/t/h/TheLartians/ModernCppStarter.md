@@ -1,10 +1,10 @@
 # TheLartians/ModernCppStarter - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 276
+☋ Forks: 277
 
-★ Stars: 3206
+★ Stars: 3211
 
 [Open repository](https://github.com/TheLartians/ModernCppStarter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3211 | 277 | 
 | 2023-01-30 | 3206 | 276 | 
 | 2023-01-29 | 3198 | 274 | 
 | 2023-01-28 | 3196 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3125 | 267 | 
 | 2023-01-03 | 3121 | 267 | 
 | 2023-01-02 | 3114 | 266 | 
-| 2023-01-01 | 3113 | 265 | 
 

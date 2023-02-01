@@ -1,6 +1,6 @@
 # helium/sibyl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4 | 5 | 
 | 2023-01-30 | 4 | 5 | 
 | 2023-01-28 | 4 | 5 | 
 | 2023-01-27 | 4 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 4 | 5 | 
 | 2023-01-04 | 4 | 5 | 
 | 2023-01-03 | 4 | 5 | 
-| 2023-01-01 | 4 | 5 | 
 

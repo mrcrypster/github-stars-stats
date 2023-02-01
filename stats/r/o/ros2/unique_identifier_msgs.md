@@ -1,6 +1,6 @@
 # ros2/unique_identifier_msgs - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4 | 8 | 
 | 2023-01-30 | 4 | 8 | 
 | 2023-01-29 | 4 | 8 | 
 | 2023-01-27 | 4 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 4 | 8 | 
 | 2023-01-04 | 4 | 8 | 
 | 2023-01-03 | 4 | 8 | 
-| 2023-01-01 | 4 | 8 | 
 

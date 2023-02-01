@@ -1,10 +1,10 @@
 # stathissideris/spectacles - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/stathissideris/spectacles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 88 | 1 | 
 | 2023-01-30 | 87 | 1 | 
 | 2023-01-28 | 87 | 1 | 
 | 2023-01-27 | 87 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 87 | 1 | 
 | 2023-01-04 | 87 | 1 | 
 | 2023-01-03 | 87 | 1 | 
-| 2023-01-02 | 87 | 1 | 
 

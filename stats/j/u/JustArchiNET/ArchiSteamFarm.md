@@ -1,10 +1,10 @@
 # JustArchiNET/ArchiSteamFarm - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 984
 
-★ Stars: 8974
+★ Stars: 8978
 
 [Open repository](https://github.com/JustArchiNET/ArchiSteamFarm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 8978 | 984 | 
 | 2023-01-30 | 8974 | 984 | 
 | 2023-01-29 | 8969 | 983 | 
 | 2023-01-28 | 8963 | 983 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 8886 | 980 | 
 | 2023-01-03 | 8881 | 977 | 
 | 2023-01-02 | 8876 | 977 | 
-| 2023-01-01 | 8873 | 976 | 
 

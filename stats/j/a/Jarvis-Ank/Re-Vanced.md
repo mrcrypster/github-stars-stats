@@ -1,10 +1,10 @@
 # Jarvis-Ank/Re-Vanced - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 16
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/Jarvis-Ank/Re-Vanced)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 88 | 16 | 
 | 2023-01-30 | 87 | 16 | 
 | 2023-01-29 | 87 | 16 | 
 | 2023-01-28 | 87 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 87 | 16 | 
 | 2023-01-03 | 87 | 16 | 
 | 2023-01-02 | 87 | 16 | 
-| 2023-01-01 | 87 | 16 | 
 

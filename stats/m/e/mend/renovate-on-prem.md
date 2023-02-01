@@ -1,6 +1,6 @@
 # mend/renovate-on-prem - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 103 | 39 | 
 | 2023-01-30 | 103 | 39 | 
 | 2023-01-29 | 103 | 39 | 
 | 2023-01-28 | 103 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 100 | 39 | 
 | 2023-01-03 | 99 | 39 | 
 | 2023-01-02 | 99 | 39 | 
-| 2023-01-01 | 99 | 39 | 
 

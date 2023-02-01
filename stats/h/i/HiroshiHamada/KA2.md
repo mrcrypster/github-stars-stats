@@ -1,6 +1,6 @@
 # HiroshiHamada/KA2 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 31 | 1 | 
 | 2023-01-30 | 31 | 1 | 
 | 2023-01-29 | 31 | 1 | 
 | 2023-01-28 | 31 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 31 | 1 | 
 | 2023-01-03 | 31 | 1 | 
 | 2023-01-02 | 31 | 1 | 
-| 2023-01-01 | 31 | 1 | 
 

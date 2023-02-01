@@ -1,10 +1,10 @@
 # JuliaIO/JLD2.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 71
 
-★ Stars: 423
+★ Stars: 422
 
 [Open repository](https://github.com/JuliaIO/JLD2.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 422 | 71 | 
 | 2023-01-30 | 423 | 71 | 
 | 2023-01-29 | 423 | 71 | 
 | 2023-01-28 | 423 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 415 | 70 | 
 | 2023-01-04 | 415 | 70 | 
 | 2023-01-02 | 414 | 70 | 
-| 2023-01-01 | 414 | 70 | 
 

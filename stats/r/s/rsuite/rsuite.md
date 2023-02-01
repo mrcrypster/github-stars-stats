@@ -1,10 +1,10 @@
 # rsuite/rsuite - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 857
 
-★ Stars: 7322
+★ Stars: 7324
 
 [Open repository](https://github.com/rsuite/rsuite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 7324 | 857 | 
 | 2023-01-30 | 7322 | 857 | 
 | 2023-01-29 | 7321 | 855 | 
 | 2023-01-28 | 7319 | 855 | 

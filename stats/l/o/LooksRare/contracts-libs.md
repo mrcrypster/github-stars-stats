@@ -1,10 +1,10 @@
 # LooksRare/contracts-libs - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 27
+★ Stars: 29
 
 [Open repository](https://github.com/LooksRare/contracts-libs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 29 | 6 | 
 | 2023-01-30 | 27 | 6 | 
 | 2023-01-29 | 27 | 6 | 
 | 2023-01-28 | 27 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 24 | 6 | 
 | 2023-01-03 | 24 | 6 | 
 | 2023-01-02 | 24 | 6 | 
-| 2023-01-01 | 24 | 6 | 
 

@@ -1,10 +1,10 @@
 # babashka/bbin - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 4
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/babashka/bbin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 81 | 4 | 
 | 2023-01-30 | 80 | 4 | 
 | 2023-01-29 | 80 | 4 | 
 | 2023-01-28 | 80 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 72 | 3 | 
 | 2023-01-03 | 72 | 3 | 
 | 2023-01-02 | 72 | 3 | 
-| 2023-01-01 | 72 | 3 | 
 

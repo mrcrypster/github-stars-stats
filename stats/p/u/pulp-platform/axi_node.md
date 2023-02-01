@@ -1,6 +1,6 @@
 # pulp-platform/axi_node - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 17 | 35 | 
 | 2023-01-30 | 17 | 35 | 
 | 2023-01-29 | 17 | 35 | 
 | 2023-01-28 | 17 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 16 | 35 | 
 | 2023-01-03 | 16 | 35 | 
 | 2023-01-02 | 16 | 35 | 
-| 2023-01-01 | 16 | 35 | 
 

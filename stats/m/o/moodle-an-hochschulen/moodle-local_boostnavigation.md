@@ -1,6 +1,6 @@
 # moodle-an-hochschulen/moodle-local_boostnavigation - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 37 | 34 | 
 | 2023-01-30 | 37 | 34 | 
 | 2023-01-29 | 37 | 33 | 
 | 2023-01-28 | 37 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 36 | 33 | 
 | 2023-01-03 | 36 | 33 | 
 | 2023-01-02 | 36 | 33 | 
-| 2023-01-01 | 36 | 33 | 
 

@@ -1,10 +1,10 @@
 # bcgov/cas-ciip-portal - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/bcgov/cas-ciip-portal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 11 | 2 | 
 | 2023-01-30 | 12 | 2 | 
 | 2023-01-29 | 12 | 2 | 
 | 2023-01-28 | 12 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 12 | 2 | 
 | 2023-01-03 | 12 | 2 | 
 | 2023-01-02 | 12 | 2 | 
-| 2023-01-01 | 12 | 2 | 
 

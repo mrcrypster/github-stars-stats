@@ -1,10 +1,10 @@
 # beacon-biosignals/Lighthouse.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/beacon-biosignals/Lighthouse.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 10 | 2 | 
 | 2023-01-30 | 11 | 2 | 
 | 2023-01-29 | 11 | 2 | 
 | 2023-01-28 | 11 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 8 | 2 | 
 | 2023-01-03 | 8 | 2 | 
 | 2023-01-02 | 8 | 2 | 
-| 2023-01-01 | 8 | 2 | 
 

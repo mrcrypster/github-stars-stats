@@ -1,10 +1,10 @@
 # cuixiaorui/vue3-dida - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 87
+☋ Forks: 88
 
-★ Stars: 128
+★ Stars: 131
 
 [Open repository](https://github.com/cuixiaorui/vue3-dida)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 131 | 88 | 
 | 2023-01-30 | 128 | 87 | 
 | 2023-01-29 | 126 | 85 | 
 | 2023-01-28 | 123 | 84 | 

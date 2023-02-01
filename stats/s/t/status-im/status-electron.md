@@ -1,6 +1,6 @@
 # status-im/status-electron - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 27 | 9 | 
 | 2023-01-30 | 27 | 9 | 
 | 2023-01-29 | 27 | 9 | 
 | 2023-01-27 | 27 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 27 | 10 | 
 | 2023-01-04 | 27 | 10 | 
 | 2023-01-03 | 27 | 10 | 
-| 2023-01-01 | 27 | 10 | 
 

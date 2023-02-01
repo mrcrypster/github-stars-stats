@@ -1,10 +1,10 @@
 # shmilylty/SharpHostInfo - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 36
 
-★ Stars: 364
+★ Stars: 368
 
 [Open repository](https://github.com/shmilylty/SharpHostInfo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 368 | 36 | 
 | 2023-01-30 | 364 | 36 | 
 | 2023-01-29 | 360 | 35 | 
 | 2023-01-28 | 360 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 357 | 34 | 
 | 2023-01-03 | 356 | 35 | 
 | 2023-01-02 | 356 | 35 | 
-| 2023-01-01 | 355 | 35 | 
 

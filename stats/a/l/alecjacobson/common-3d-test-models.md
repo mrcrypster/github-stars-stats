@@ -1,10 +1,10 @@
 # alecjacobson/common-3d-test-models - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 98
 
-★ Stars: 722
+★ Stars: 723
 
 [Open repository](https://github.com/alecjacobson/common-3d-test-models)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 723 | 98 | 
 | 2023-01-30 | 722 | 98 | 
 | 2023-01-29 | 722 | 97 | 
 | 2023-01-28 | 720 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 704 | 95 | 
 | 2023-01-03 | 704 | 95 | 
 | 2023-01-02 | 704 | 95 | 
-| 2023-01-01 | 704 | 94 | 
 

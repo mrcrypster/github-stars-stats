@@ -1,10 +1,10 @@
 # Marshxan/qb-inventoryfood - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 12
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/Marshxan/qb-inventoryfood)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 27 | 12 | 
 | 2023-01-30 | 26 | 12 | 
 | 2023-01-29 | 25 | 12 | 
 | 2023-01-28 | 25 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 21 | 12 | 
 | 2023-01-03 | 21 | 11 | 
 | 2023-01-02 | 21 | 10 | 
-| 2023-01-01 | 22 | 10 | 
 

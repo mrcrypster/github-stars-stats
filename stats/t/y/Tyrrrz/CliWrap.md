@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 206
 
-★ Stars: 3312
+★ Stars: 3314
 
 [Open repository](https://github.com/Tyrrrz/CliWrap)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 3312 | 206 | 
+| 2023-01-31 | 3314 | 206 | 
 | 2023-01-30 | 3311 | 206 | 
 | 2023-01-29 | 3296 | 205 | 
 | 2023-01-28 | 3266 | 203 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 3180 | 201 | 
 | 2023-01-03 | 3178 | 201 | 
 | 2023-01-02 | 3175 | 200 | 
-| 2023-01-01 | 3173 | 200 | 
 

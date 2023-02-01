@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 40
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/wojtekmach/req)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 451 | 40 | 
+| 2023-01-31 | 452 | 40 | 
 | 2023-01-30 | 451 | 40 | 
 | 2023-01-29 | 449 | 40 | 
 | 2023-01-28 | 447 | 40 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 428 | 39 | 
 | 2023-01-03 | 428 | 39 | 
 | 2023-01-02 | 428 | 39 | 
-| 2023-01-01 | 428 | 39 | 
 

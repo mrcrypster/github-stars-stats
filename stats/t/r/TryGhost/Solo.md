@@ -1,8 +1,8 @@
 # TryGhost/Solo - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 14 | 16 | 
 | 2023-01-30 | 14 | 15 | 
 | 2023-01-29 | 14 | 15 | 
 | 2023-01-28 | 14 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 11 | 12 | 
 | 2023-01-03 | 11 | 12 | 
 | 2023-01-02 | 11 | 12 | 
-| 2023-01-01 | 11 | 12 | 
 

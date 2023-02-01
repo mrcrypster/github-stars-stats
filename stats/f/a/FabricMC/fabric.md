@@ -1,10 +1,10 @@
 # FabricMC/fabric - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 321
 
-★ Stars: 1629
+★ Stars: 1630
 
 [Open repository](https://github.com/FabricMC/fabric)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1630 | 321 | 
 | 2023-01-30 | 1629 | 321 | 
 | 2023-01-29 | 1626 | 321 | 
 | 2023-01-28 | 1626 | 322 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1589 | 322 | 
 | 2023-01-03 | 1588 | 322 | 
 | 2023-01-02 | 1588 | 322 | 
-| 2023-01-01 | 1587 | 322 | 
 

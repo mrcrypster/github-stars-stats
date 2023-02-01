@@ -1,10 +1,10 @@
 # HexRaysSA/goomba - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 282
+★ Stars: 294
 
 [Open repository](https://github.com/HexRaysSA/goomba)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 294 | 22 | 
 | 2023-01-30 | 282 | 21 | 
 | 2023-01-29 | 272 | 17 | 
 | 2023-01-28 | 242 | 17 | 

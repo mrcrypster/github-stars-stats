@@ -1,6 +1,6 @@
 # pages-themes/architect - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 651
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 250 | 651 | 
 | 2023-01-30 | 250 | 651 | 
 | 2023-01-29 | 249 | 651 | 
 | 2023-01-28 | 249 | 650 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 246 | 641 | 
 | 2023-01-03 | 246 | 640 | 
 | 2023-01-02 | 244 | 640 | 
-| 2023-01-01 | 244 | 640 | 
 

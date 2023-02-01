@@ -1,6 +1,6 @@
 # barracudanetworks/lighthouse - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 54 | 1 | 
 | 2023-01-30 | 54 | 1 | 
 | 2023-01-29 | 54 | 1 | 
 | 2023-01-28 | 54 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 53 | 1 | 
 | 2023-01-04 | 52 | 1 | 
 | 2023-01-03 | 52 | 1 | 
-| 2023-01-02 | 52 | 1 | 
 

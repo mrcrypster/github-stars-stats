@@ -1,6 +1,6 @@
 # linguo2625469/YangLeGeYang_web - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 43 | 6 | 
 | 2023-01-30 | 43 | 6 | 
 | 2023-01-29 | 43 | 6 | 
 | 2023-01-28 | 43 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 44 | 6 | 
 | 2023-01-03 | 44 | 6 | 
 | 2023-01-02 | 44 | 6 | 
-| 2023-01-01 | 44 | 6 | 
 

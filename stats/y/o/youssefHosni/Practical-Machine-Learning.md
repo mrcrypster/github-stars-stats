@@ -1,6 +1,6 @@
 # youssefHosni/Practical-Machine-Learning - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 161 | 29 | 
 | 2023-01-30 | 161 | 29 | 
 | 2023-01-29 | 161 | 29 | 
 | 2023-01-27 | 161 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 157 | 28 | 
 | 2023-01-04 | 157 | 28 | 
 | 2023-01-03 | 157 | 28 | 
-| 2023-01-02 | 157 | 28 | 
 

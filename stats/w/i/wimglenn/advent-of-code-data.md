@@ -1,8 +1,8 @@
 # wimglenn/advent-of-code-data - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 393
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 393 | 46 | 
 | 2023-01-30 | 393 | 45 | 
 | 2023-01-29 | 393 | 45 | 
 | 2023-01-28 | 393 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 389 | 44 | 
 | 2023-01-03 | 389 | 44 | 
 | 2023-01-02 | 388 | 44 | 
-| 2023-01-01 | 388 | 44 | 
 

@@ -1,6 +1,6 @@
 # patsie75/awk-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 167 | 5 | 
 | 2023-01-30 | 167 | 5 | 
 | 2023-01-29 | 167 | 5 | 
 | 2023-01-28 | 167 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 164 | 5 | 
 | 2023-01-03 | 164 | 5 | 
 | 2023-01-02 | 164 | 5 | 
-| 2023-01-01 | 164 | 5 | 
 

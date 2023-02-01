@@ -1,6 +1,6 @@
 # ilyakurdyukov/micro-lzmadec - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 35 | 4 | 
 | 2023-01-30 | 35 | 4 | 
 | 2023-01-29 | 35 | 4 | 
 | 2023-01-28 | 35 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 35 | 4 | 
 | 2023-01-03 | 35 | 4 | 
 | 2023-01-02 | 35 | 4 | 
-| 2023-01-01 | 35 | 4 | 
 

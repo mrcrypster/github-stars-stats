@@ -1,8 +1,8 @@
 # jose-elias-alvarez/null-ls.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 610
+☋ Forks: 612
 
 ★ Stars: 2681
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2681 | 612 | 
 | 2023-01-30 | 2681 | 610 | 
 | 2023-01-29 | 2674 | 609 | 
 | 2023-01-28 | 2665 | 607 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2553 | 577 | 
 | 2023-01-03 | 2546 | 580 | 
 | 2023-01-02 | 2543 | 582 | 
-| 2023-01-01 | 2534 | 582 | 
 

@@ -1,6 +1,6 @@
 # laylacodes/cheatsheets - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 388 | 39 | 
 | 2023-01-30 | 388 | 39 | 
 | 2023-01-29 | 388 | 39 | 
 | 2023-01-28 | 388 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 388 | 39 | 
 | 2023-01-03 | 388 | 39 | 
 | 2023-01-02 | 388 | 39 | 
-| 2023-01-01 | 388 | 39 | 
 

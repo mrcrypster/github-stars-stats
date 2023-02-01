@@ -1,8 +1,8 @@
 # wangruohui/OpenMMLabCourse - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 8 | 67 | 
 | 2023-01-30 | 8 | 66 | 
 | 2023-01-29 | 8 | 65 | 
 | 2023-01-28 | 8 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 8 | 62 | 
 | 2023-01-03 | 8 | 62 | 
 | 2023-01-02 | 8 | 61 | 
-| 2023-01-01 | 8 | 61 | 
 

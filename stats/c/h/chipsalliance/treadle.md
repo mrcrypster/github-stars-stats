@@ -1,10 +1,10 @@
 # chipsalliance/treadle - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 28
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/chipsalliance/treadle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 130 | 28 | 
 | 2023-01-30 | 129 | 28 | 
 | 2023-01-29 | 129 | 28 | 
 | 2023-01-28 | 129 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 129 | 28 | 
 | 2023-01-03 | 129 | 28 | 
 | 2023-01-02 | 129 | 28 | 
-| 2023-01-01 | 129 | 28 | 
 

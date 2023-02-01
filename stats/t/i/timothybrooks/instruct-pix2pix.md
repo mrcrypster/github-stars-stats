@@ -1,10 +1,10 @@
 # timothybrooks/instruct-pix2pix - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 236
+☋ Forks: 242
 
-★ Stars: 2841
+★ Stars: 2914
 
 [Open repository](https://github.com/timothybrooks/instruct-pix2pix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2914 | 242 | 
 | 2023-01-30 | 2841 | 236 | 
 | 2023-01-29 | 2744 | 230 | 
 | 2023-01-28 | 2669 | 217 | 

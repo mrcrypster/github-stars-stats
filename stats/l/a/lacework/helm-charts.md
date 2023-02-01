@@ -1,8 +1,8 @@
 # lacework/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 6 | 27 | 
 | 2023-01-30 | 6 | 26 | 
 | 2023-01-29 | 6 | 26 | 
 | 2023-01-28 | 6 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 6 | 25 | 
 | 2023-01-03 | 6 | 24 | 
 | 2023-01-02 | 6 | 24 | 
-| 2023-01-01 | 6 | 24 | 
 

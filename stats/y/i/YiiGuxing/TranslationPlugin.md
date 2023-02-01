@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 692
 
-★ Stars: 9495
+★ Stars: 9502
 
 [Open repository](https://github.com/YiiGuxing/TranslationPlugin)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 9495 | 692 | 
+| 2023-01-31 | 9502 | 692 | 
 | 2023-01-30 | 9489 | 692 | 
 | 2023-01-28 | 9487 | 692 | 
 | 2023-01-27 | 9482 | 692 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 9426 | 689 | 
 | 2023-01-03 | 9417 | 688 | 
 | 2023-01-02 | 9406 | 687 | 
-| 2023-01-01 | 9406 | 687 | 
 

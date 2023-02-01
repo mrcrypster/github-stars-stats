@@ -1,6 +1,6 @@
 # rafaelvleite/centipawn_loss_calculator - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 52 | 26 | 
 | 2023-01-30 | 52 | 26 | 
 | 2023-01-29 | 52 | 26 | 
 | 2023-01-28 | 52 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 52 | 26 | 
 | 2023-01-03 | 52 | 26 | 
 | 2023-01-02 | 52 | 26 | 
-| 2023-01-01 | 52 | 26 | 
 

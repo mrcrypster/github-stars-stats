@@ -1,10 +1,10 @@
 # chillzhuang/SpringBlade - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1259
 
-★ Stars: 5882
+★ Stars: 5880
 
 [Open repository](https://github.com/chillzhuang/SpringBlade)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5880 | 1259 | 
 | 2023-01-31 | 5882 | 1259 | 
 | 2023-01-30 | 5882 | 1259 | 
 | 2023-01-28 | 5881 | 1257 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 5868 | 1257 | 
 | 2023-01-03 | 5868 | 1257 | 
 | 2023-01-02 | 5866 | 1257 | 
-| 2023-01-01 | 5866 | 1257 | 
 

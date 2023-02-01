@@ -1,10 +1,10 @@
 # heisenburgh/pixarch - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/heisenburgh/pixarch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 25 | 3 | 
 | 2023-01-30 | 24 | 3 | 
 | 2023-01-29 | 23 | 2 | 
 | 2023-01-28 | 23 | 2 | 

@@ -1,6 +1,6 @@
 # bazelbuild/examples - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 655 | 430 | 
 | 2023-01-30 | 655 | 430 | 
 | 2023-01-29 | 655 | 431 | 
 | 2023-01-28 | 655 | 431 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 646 | 427 | 
 | 2023-01-03 | 646 | 426 | 
 | 2023-01-02 | 645 | 426 | 
-| 2023-01-01 | 645 | 426 | 
 

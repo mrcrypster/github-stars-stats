@@ -1,10 +1,10 @@
 # foundry-rs/forge-std - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 112
 
-★ Stars: 499
+★ Stars: 500
 
 [Open repository](https://github.com/foundry-rs/forge-std)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 500 | 112 | 
 | 2023-01-30 | 499 | 112 | 
 | 2023-01-29 | 499 | 112 | 
 | 2023-01-28 | 498 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 469 | 107 | 
 | 2023-01-03 | 465 | 107 | 
 | 2023-01-02 | 465 | 106 | 
-| 2023-01-01 | 465 | 106 | 
 

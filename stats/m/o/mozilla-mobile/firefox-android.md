@@ -1,8 +1,8 @@
 # mozilla-mobile/firefox-android - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 76
+☋ Forks: 77
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 120 | 77 | 
 | 2023-01-30 | 120 | 76 | 
 | 2023-01-29 | 120 | 75 | 
 | 2023-01-28 | 117 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 92 | 63 | 
 | 2023-01-03 | 91 | 62 | 
 | 2023-01-02 | 91 | 62 | 
-| 2023-01-01 | 89 | 62 | 
 

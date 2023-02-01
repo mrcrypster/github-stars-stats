@@ -1,10 +1,10 @@
 # purescript/purescript-const - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/purescript/purescript-const)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 12 | 9 | 
 | 2023-01-30 | 13 | 9 | 
 | 2023-01-29 | 13 | 9 | 
 | 2023-01-28 | 13 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 11 | 8 | 
 | 2023-01-03 | 11 | 8 | 
 | 2023-01-02 | 11 | 8 | 
-| 2023-01-01 | 11 | 8 | 
 

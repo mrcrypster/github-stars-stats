@@ -1,10 +1,10 @@
 # tecosaur/org-glossary - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 71
+★ Stars: 70
 
 [Open repository](https://github.com/tecosaur/org-glossary)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 70 | 2 | 
 | 2023-01-30 | 71 | 2 | 
 | 2023-01-29 | 70 | 2 | 
 | 2023-01-28 | 70 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 70 | 1 | 
 | 2023-01-03 | 70 | 1 | 
 | 2023-01-02 | 70 | 1 | 
-| 2023-01-01 | 70 | 1 | 
 

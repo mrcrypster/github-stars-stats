@@ -1,10 +1,10 @@
 # webspace-sdk/webspace-sdk.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/webspace-sdk/webspace-sdk.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 39 | 25 | 
 | 2023-01-30 | 38 | 24 | 
 | 2023-01-29 | 38 | 24 | 
 | 2023-01-28 | 38 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 32 | 22 | 
 | 2023-01-03 | 32 | 21 | 
 | 2023-01-02 | 32 | 21 | 
-| 2023-01-01 | 32 | 21 | 
 

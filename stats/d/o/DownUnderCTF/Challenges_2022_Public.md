@@ -1,6 +1,6 @@
 # DownUnderCTF/Challenges_2022_Public - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 193 | 28 | 
 | 2023-01-30 | 193 | 28 | 
 | 2023-01-29 | 192 | 28 | 
 | 2023-01-28 | 192 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 165 | 26 | 
 | 2023-01-04 | 165 | 26 | 
 | 2023-01-03 | 165 | 26 | 
-| 2023-01-02 | 165 | 26 | 
 

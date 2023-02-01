@@ -1,10 +1,10 @@
 # microsoft/FHIR-Analytics-Pipelines - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 18
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/microsoft/FHIR-Analytics-Pipelines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 62 | 18 | 
 | 2023-01-30 | 61 | 18 | 
 | 2023-01-29 | 61 | 18 | 
 | 2023-01-28 | 61 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 60 | 18 | 
 | 2023-01-04 | 59 | 18 | 
 | 2023-01-03 | 59 | 18 | 
-| 2023-01-02 | 59 | 18 | 
 

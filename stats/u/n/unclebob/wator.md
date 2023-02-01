@@ -1,10 +1,10 @@
 # unclebob/wator - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/unclebob/wator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 15 | 1 | 
 | 2023-01-30 | 14 | 1 | 
 | 2023-01-29 | 14 | 1 | 
 | 2023-01-28 | 14 | 1 | 

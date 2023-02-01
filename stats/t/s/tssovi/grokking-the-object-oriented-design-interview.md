@@ -1,10 +1,10 @@
 # tssovi/grokking-the-object-oriented-design-interview - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1598
+☋ Forks: 1602
 
-★ Stars: 2685
+★ Stars: 2691
 
 [Open repository](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2691 | 1602 | 
 | 2023-01-30 | 2685 | 1598 | 
 | 2023-01-29 | 2680 | 1597 | 
 | 2023-01-28 | 2676 | 1595 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2619 | 1570 | 
 | 2023-01-03 | 2615 | 1564 | 
 | 2023-01-02 | 2612 | 1562 | 
-| 2023-01-01 | 2610 | 1562 | 
 

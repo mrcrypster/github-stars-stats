@@ -1,6 +1,6 @@
 # Netflix/atlas - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 273
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3188 | 273 | 
 | 2023-01-30 | 3188 | 273 | 
 | 2023-01-29 | 3187 | 273 | 
 | 2023-01-28 | 3187 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3181 | 272 | 
 | 2023-01-03 | 3181 | 272 | 
 | 2023-01-02 | 3181 | 272 | 
-| 2023-01-01 | 3181 | 272 | 
 

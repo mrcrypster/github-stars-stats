@@ -1,6 +1,6 @@
 # danyaberezun/compilers-supplementary - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5 | 87 | 
 | 2023-01-30 | 5 | 87 | 
 | 2023-01-29 | 5 | 87 | 
 | 2023-01-28 | 5 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5 | 88 | 
 | 2023-01-03 | 4 | 88 | 
 | 2023-01-02 | 4 | 88 | 
-| 2023-01-01 | 4 | 88 | 
 

@@ -1,6 +1,6 @@
 # debugloop/telescope-undo.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 136 | 3 | 
 | 2023-01-30 | 136 | 3 | 
 | 2023-01-29 | 136 | 3 | 
 | 2023-01-28 | 136 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 109 | 2 | 
 | 2023-01-03 | 109 | 2 | 
 | 2023-01-02 | 106 | 2 | 
-| 2023-01-01 | 107 | 2 | 
 

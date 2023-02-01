@@ -1,6 +1,6 @@
 # Shiotsukikaedesari/three-vis-display-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 64 | 21 | 
 | 2023-01-30 | 64 | 21 | 
 | 2023-01-29 | 64 | 21 | 
 | 2023-01-28 | 64 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 56 | 19 | 
 | 2023-01-03 | 55 | 19 | 
 | 2023-01-02 | 55 | 19 | 
-| 2023-01-01 | 56 | 19 | 
 

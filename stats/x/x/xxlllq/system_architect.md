@@ -1,10 +1,10 @@
 # xxlllq/system_architect - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1301
+☋ Forks: 1304
 
-★ Stars: 3737
+★ Stars: 3744
 
 [Open repository](https://github.com/xxlllq/system_architect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3744 | 1304 | 
 | 2023-01-30 | 3737 | 1301 | 
 | 2023-01-29 | 3729 | 1299 | 
 | 2023-01-28 | 3718 | 1297 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3662 | 1288 | 
 | 2023-01-03 | 3658 | 1287 | 
 | 2023-01-02 | 3652 | 1286 | 
-| 2023-01-01 | 3652 | 1285 | 
 

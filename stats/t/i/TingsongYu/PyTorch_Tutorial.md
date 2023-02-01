@@ -1,6 +1,6 @@
 # TingsongYu/PyTorch_Tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1529
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5701 | 1529 | 
 | 2023-01-30 | 5701 | 1529 | 
 | 2023-01-29 | 5697 | 1528 | 
 | 2023-01-28 | 5694 | 1527 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5593 | 1508 | 
 | 2023-01-03 | 5577 | 1506 | 
 | 2023-01-02 | 5570 | 1506 | 
-| 2023-01-01 | 5560 | 1504 | 
 

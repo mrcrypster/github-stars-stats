@@ -1,8 +1,8 @@
 # hwxi/CS320-2023-Spring - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2 | 32 | 
 | 2023-01-30 | 2 | 31 | 
 | 2023-01-29 | 2 | 31 | 
 | 2023-01-28 | 1 | 31 | 

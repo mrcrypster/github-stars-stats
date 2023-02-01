@@ -1,10 +1,10 @@
 # krzyzanowskim/CryptoSwift - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1101
+☋ Forks: 1100
 
-★ Stars: 9395
+★ Stars: 9398
 
 [Open repository](https://github.com/krzyzanowskim/CryptoSwift)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 9398 | 1100 | 
 | 2023-01-30 | 9395 | 1101 | 
 | 2023-01-29 | 9395 | 1101 | 
 | 2023-01-28 | 9395 | 1101 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 9368 | 1099 | 
 | 2023-01-03 | 9367 | 1099 | 
 | 2023-01-02 | 9365 | 1100 | 
-| 2023-01-01 | 9365 | 1100 | 
 

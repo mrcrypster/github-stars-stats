@@ -1,10 +1,10 @@
 # yiisoft/yii2 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 7022
 
-★ Stars: 14052
+★ Stars: 14056
 
 [Open repository](https://github.com/yiisoft/yii2)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 14056 | 7022 | 
+| 2023-01-31 | 14056 | 7022 | 
 | 2023-01-30 | 14052 | 7022 | 
 | 2023-01-29 | 14053 | 7022 | 
 | 2023-01-28 | 14054 | 7023 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 14042 | 7025 | 
 | 2023-01-03 | 14043 | 7027 | 
 | 2023-01-02 | 14044 | 7027 | 
-| 2023-01-01 | 14042 | 7027 | 
 

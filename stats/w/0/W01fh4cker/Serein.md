@@ -1,6 +1,6 @@
 # W01fh4cker/Serein - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 905 | 159 | 
 | 2023-01-30 | 905 | 159 | 
 | 2023-01-29 | 904 | 159 | 
 | 2023-01-28 | 904 | 159 | 

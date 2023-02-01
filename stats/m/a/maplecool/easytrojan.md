@@ -1,10 +1,10 @@
 # maplecool/easytrojan - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 136
+☋ Forks: 138
 
-★ Stars: 665
+★ Stars: 672
 
 [Open repository](https://github.com/maplecool/easytrojan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 672 | 138 | 
 | 2023-01-30 | 665 | 136 | 
 | 2023-01-29 | 662 | 136 | 
 | 2023-01-28 | 663 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 601 | 123 | 
 | 2023-01-03 | 596 | 123 | 
 | 2023-01-02 | 586 | 123 | 
-| 2023-01-01 | 579 | 121 | 
 

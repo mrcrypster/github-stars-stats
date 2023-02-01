@@ -1,10 +1,10 @@
 # hyb1996/Auto.js - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 3847
+☋ Forks: 3848
 
-★ Stars: 12448
+★ Stars: 12461
 
 [Open repository](https://github.com/hyb1996/Auto.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 12461 | 3848 | 
 | 2023-01-30 | 12448 | 3847 | 
 | 2023-01-29 | 12445 | 3845 | 
 | 2023-01-28 | 12440 | 3844 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 12374 | 3838 | 
 | 2023-01-03 | 12371 | 3838 | 
 | 2023-01-02 | 12369 | 3838 | 
-| 2023-01-01 | 12367 | 3838 | 
 

@@ -1,6 +1,6 @@
 # ROBOTIS-GIT/dynamixel-workbench-msgs - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 10 | 30 | 
 | 2023-01-30 | 10 | 30 | 
 | 2023-01-29 | 10 | 30 | 
 | 2023-01-28 | 10 | 30 | 

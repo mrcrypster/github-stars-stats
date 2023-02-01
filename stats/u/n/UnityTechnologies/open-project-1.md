@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 1916
 
-★ Stars: 5068
+★ Stars: 5069
 
 [Open repository](https://github.com/UnityTechnologies/open-project-1)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 5068 | 1916 | 
+| 2023-01-31 | 5069 | 1916 | 
 | 2023-01-30 | 5068 | 1916 | 
 | 2023-01-29 | 5066 | 1915 | 
 | 2023-01-28 | 5066 | 1914 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 5028 | 1911 | 
 | 2023-01-03 | 5025 | 1910 | 
 | 2023-01-02 | 5024 | 1910 | 
-| 2023-01-01 | 5025 | 1910 | 
 

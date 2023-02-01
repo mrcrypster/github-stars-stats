@@ -1,6 +1,6 @@
 # Reecepbcups/ibc-anywhere-webapp - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 11 | 4 | 
 | 2023-01-30 | 11 | 4 | 
 | 2023-01-29 | 11 | 4 | 
 | 2023-01-28 | 11 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 11 | 2 | 
 | 2023-01-03 | 11 | 2 | 
 | 2023-01-02 | 10 | 2 | 
-| 2023-01-01 | 10 | 2 | 
 

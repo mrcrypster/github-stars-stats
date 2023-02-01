@@ -1,6 +1,6 @@
 # TheWii/auto-utilities-vein-mining - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 9 | 5 | 
 | 2023-01-30 | 9 | 5 | 
 | 2023-01-29 | 9 | 5 | 
 | 2023-01-28 | 9 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 9 | 5 | 
 | 2023-01-03 | 9 | 5 | 
 | 2023-01-02 | 9 | 5 | 
-| 2023-01-01 | 9 | 5 | 
 

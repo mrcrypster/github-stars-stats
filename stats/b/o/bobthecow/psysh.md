@@ -1,10 +1,10 @@
 # bobthecow/psysh - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 295
 
-★ Stars: 9466
+★ Stars: 9468
 
 [Open repository](https://github.com/bobthecow/psysh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 9468 | 295 | 
 | 2023-01-30 | 9466 | 295 | 
 | 2023-01-29 | 9465 | 295 | 
 | 2023-01-28 | 9464 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 9442 | 295 | 
 | 2023-01-04 | 9442 | 295 | 
 | 2023-01-03 | 9444 | 295 | 
-| 2023-01-02 | 9442 | 295 | 
 

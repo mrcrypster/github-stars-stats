@@ -1,10 +1,10 @@
 # pocketbase/js-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 58
 
-★ Stars: 837
+★ Stars: 842
 
 [Open repository](https://github.com/pocketbase/js-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 842 | 58 | 
 | 2023-01-30 | 837 | 58 | 
 | 2023-01-29 | 834 | 58 | 
 | 2023-01-28 | 827 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 738 | 52 | 
 | 2023-01-03 | 732 | 52 | 
 | 2023-01-02 | 727 | 53 | 
-| 2023-01-01 | 723 | 53 | 
 

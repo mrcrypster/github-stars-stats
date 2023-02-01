@@ -1,8 +1,8 @@
 # codemistic/Web3 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 28
+☋ Forks: 27
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 17 | 27 | 
 | 2023-01-30 | 17 | 28 | 
 | 2023-01-29 | 17 | 28 | 
 | 2023-01-28 | 17 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 17 | 28 | 
 | 2023-01-03 | 17 | 28 | 
 | 2023-01-02 | 15 | 28 | 
-| 2023-01-01 | 15 | 28 | 
 

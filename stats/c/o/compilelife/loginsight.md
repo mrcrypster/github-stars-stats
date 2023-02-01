@@ -1,6 +1,6 @@
 # compilelife/loginsight - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 188 | 33 | 
 | 2023-01-30 | 188 | 33 | 
 | 2023-01-29 | 188 | 33 | 
 | 2023-01-28 | 188 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 187 | 32 | 
 | 2023-01-03 | 187 | 32 | 
 | 2023-01-02 | 187 | 32 | 
-| 2023-01-01 | 187 | 32 | 
 

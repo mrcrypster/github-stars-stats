@@ -1,10 +1,10 @@
 # makermoekoe/Picoclick-C3 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 73
 
-★ Stars: 678
+★ Stars: 682
 
 [Open repository](https://github.com/makermoekoe/Picoclick-C3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 682 | 73 | 
 | 2023-01-30 | 678 | 73 | 
 | 2023-01-29 | 675 | 73 | 
 | 2023-01-28 | 672 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 632 | 74 | 
 | 2023-01-03 | 632 | 74 | 
 | 2023-01-02 | 632 | 74 | 
-| 2023-01-01 | 630 | 74 | 
 

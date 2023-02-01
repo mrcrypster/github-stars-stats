@@ -1,10 +1,10 @@
 # NethermindEth/nethermind - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 253
 
-★ Stars: 816
+★ Stars: 819
 
 [Open repository](https://github.com/NethermindEth/nethermind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 819 | 253 | 
 | 2023-01-30 | 816 | 253 | 
 | 2023-01-29 | 816 | 253 | 
 | 2023-01-28 | 816 | 253 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 797 | 247 | 
 | 2023-01-03 | 796 | 246 | 
 | 2023-01-02 | 797 | 246 | 
-| 2023-01-01 | 798 | 247 | 
 

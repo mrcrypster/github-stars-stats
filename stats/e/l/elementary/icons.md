@@ -1,8 +1,8 @@
 # elementary/icons - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 519
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 519 | 80 | 
 | 2023-01-30 | 519 | 79 | 
 | 2023-01-29 | 519 | 79 | 
 | 2023-01-28 | 519 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 520 | 79 | 
 | 2023-01-03 | 520 | 79 | 
 | 2023-01-02 | 520 | 79 | 
-| 2023-01-01 | 520 | 79 | 
 

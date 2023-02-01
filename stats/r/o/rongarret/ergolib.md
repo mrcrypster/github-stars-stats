@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/rongarret/ergolib)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 125 | 8 | 
+| 2023-01-31 | 126 | 8 | 
 | 2023-01-30 | 125 | 8 | 
 

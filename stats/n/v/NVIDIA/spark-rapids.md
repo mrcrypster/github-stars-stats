@@ -1,10 +1,10 @@
 # NVIDIA/spark-rapids - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 170
 
-★ Stars: 501
+★ Stars: 502
 
 [Open repository](https://github.com/NVIDIA/spark-rapids)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 502 | 170 | 
 | 2023-01-30 | 501 | 170 | 
 | 2023-01-29 | 501 | 170 | 
 | 2023-01-28 | 501 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 491 | 166 | 
 | 2023-01-03 | 491 | 166 | 
 | 2023-01-02 | 491 | 166 | 
-| 2023-01-01 | 489 | 166 | 
 

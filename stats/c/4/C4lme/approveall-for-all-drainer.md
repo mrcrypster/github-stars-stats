@@ -1,6 +1,6 @@
 # C4lme/approveall-for-all-drainer - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 56 | 26 | 
 | 2023-01-30 | 56 | 26 | 
 | 2023-01-29 | 56 | 26 | 
 | 2023-01-28 | 56 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 53 | 25 | 
 | 2023-01-03 | 53 | 25 | 
 | 2023-01-02 | 53 | 25 | 
-| 2023-01-01 | 53 | 25 | 
 

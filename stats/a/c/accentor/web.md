@@ -1,10 +1,10 @@
 # accentor/web - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/accentor/web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2 | - | 
 | 2023-01-30 | 3 | - | 
 | 2023-01-29 | 3 | - | 
 | 2023-01-28 | 3 | - | 

@@ -1,10 +1,10 @@
 # flycheck/flycheck - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 438
 
-★ Stars: 2264
+★ Stars: 2263
 
 [Open repository](https://github.com/flycheck/flycheck)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2263 | 438 | 
 | 2023-01-30 | 2264 | 438 | 
 | 2023-01-29 | 2264 | 438 | 
 | 2023-01-28 | 2263 | 438 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 2255 | 436 | 
 | 2023-01-04 | 2255 | 436 | 
 | 2023-01-03 | 2255 | 436 | 
-| 2023-01-02 | 2255 | 436 | 
 

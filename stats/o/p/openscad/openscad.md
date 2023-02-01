@@ -1,10 +1,10 @@
 # openscad/openscad - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1063
 
-★ Stars: 5303
+★ Stars: 5305
 
 [Open repository](https://github.com/openscad/openscad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5305 | 1063 | 
 | 2023-01-30 | 5303 | 1063 | 
 | 2023-01-29 | 5300 | 1063 | 
 | 2023-01-28 | 5297 | 1063 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 5251 | 1054 | 
 | 2023-01-04 | 5249 | 1054 | 
 | 2023-01-03 | 5244 | 1054 | 
-| 2023-01-01 | 5242 | 1054 | 
 

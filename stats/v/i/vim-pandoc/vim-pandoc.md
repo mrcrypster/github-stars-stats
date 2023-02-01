@@ -1,10 +1,10 @@
 # vim-pandoc/vim-pandoc - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 100
 
-★ Stars: 891
+★ Stars: 892
 
 [Open repository](https://github.com/vim-pandoc/vim-pandoc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 892 | 100 | 
 | 2023-01-30 | 891 | 100 | 
 | 2023-01-29 | 891 | 100 | 
 | 2023-01-28 | 889 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 884 | 100 | 
 | 2023-01-03 | 884 | 100 | 
 | 2023-01-02 | 884 | 100 | 
-| 2023-01-01 | 883 | 100 | 
 

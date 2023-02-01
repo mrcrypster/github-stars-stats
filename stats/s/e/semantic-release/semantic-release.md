@@ -1,10 +1,10 @@
 # semantic-release/semantic-release - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1652
+☋ Forks: 1653
 
-★ Stars: 17154
+★ Stars: 17166
 
 [Open repository](https://github.com/semantic-release/semantic-release)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 17166 | 1653 | 
 | 2023-01-30 | 17154 | 1652 | 
 | 2023-01-29 | 17150 | 1651 | 
 | 2023-01-28 | 17145 | 1651 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 17011 | 1633 | 
 | 2023-01-04 | 17005 | 1632 | 
 | 2023-01-03 | 16997 | 1631 | 
-| 2023-01-02 | 16991 | 1631 | 
 

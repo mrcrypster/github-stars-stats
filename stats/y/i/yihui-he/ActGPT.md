@@ -1,10 +1,10 @@
 # yihui-he/ActGPT - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 23
 
-★ Stars: 198
+★ Stars: 213
 
 [Open repository](https://github.com/yihui-he/ActGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 213 | 23 | 
 | 2023-01-30 | 198 | 23 | 
 | 2023-01-29 | 184 | 21 | 
 | 2023-01-28 | 180 | 19 | 

@@ -1,6 +1,6 @@
 # TheSadError/NIVOSITE - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 9 | 31 | 
 | 2023-01-30 | 9 | 31 | 
 | 2023-01-29 | 9 | 31 | 
 | 2023-01-28 | 9 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 9 | 31 | 
 | 2023-01-03 | 9 | 31 | 
 | 2023-01-02 | 9 | 31 | 
-| 2023-01-01 | 9 | 31 | 
 

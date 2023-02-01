@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 13
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/ChrisTitusTech/hyprland-titus)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 68 | 13 | 
+| 2023-01-31 | 69 | 13 | 
 | 2023-01-30 | 67 | 13 | 
 | 2023-01-29 | 61 | 11 | 
 | 2023-01-28 | 48 | 7 | 

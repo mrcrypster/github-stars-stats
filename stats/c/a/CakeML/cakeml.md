@@ -1,10 +1,10 @@
 # CakeML/cakeml - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 72
 
-★ Stars: 791
+★ Stars: 792
 
 [Open repository](https://github.com/CakeML/cakeml)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 792 | 72 | 
+| 2023-01-31 | 792 | 72 | 
 | 2023-01-30 | 791 | 72 | 
 | 2023-01-29 | 791 | 72 | 
 | 2023-01-28 | 791 | 72 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 783 | 70 | 
 | 2023-01-03 | 783 | 70 | 
 | 2023-01-02 | 783 | 70 | 
-| 2023-01-01 | 783 | 70 | 
 

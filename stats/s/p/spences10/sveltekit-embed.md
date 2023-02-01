@@ -1,10 +1,10 @@
 # spences10/sveltekit-embed - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/spences10/sveltekit-embed)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 111 | 6 | 
 | 2023-01-30 | 110 | 6 | 
 | 2023-01-29 | 109 | 6 | 
 | 2023-01-28 | 109 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 98 | 5 | 
 | 2023-01-03 | 98 | 5 | 
 | 2023-01-02 | 98 | 5 | 
-| 2023-01-01 | 98 | 5 | 
 

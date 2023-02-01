@@ -1,6 +1,6 @@
 # kiminzajnr/alx-system_engineering-devops - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 11 | 47 | 
 | 2023-01-30 | 11 | 47 | 
 | 2023-01-29 | 11 | 47 | 
 | 2023-01-28 | 11 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 11 | 47 | 
 | 2023-01-03 | 11 | 47 | 
 | 2023-01-02 | 11 | 47 | 
-| 2023-01-01 | 11 | 47 | 
 

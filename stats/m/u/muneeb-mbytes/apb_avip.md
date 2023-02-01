@@ -1,6 +1,6 @@
 # muneeb-mbytes/apb_avip - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 20 | 9 | 
 | 2023-01-30 | 20 | 9 | 
 | 2023-01-29 | 20 | 9 | 
 | 2023-01-28 | 20 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 20 | 9 | 
 | 2023-01-04 | 20 | 9 | 
 | 2023-01-03 | 20 | 9 | 
-| 2023-01-02 | 20 | 9 | 
 

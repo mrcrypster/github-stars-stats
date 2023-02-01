@@ -1,10 +1,10 @@
 # creativetimofficial/soft-ui-dashboard-laravel-livewire - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 88
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/creativetimofficial/soft-ui-dashboard-laravel-livewire)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 57 | 88 | 
 | 2023-01-30 | 56 | 88 | 
 | 2023-01-29 | 56 | 88 | 
 | 2023-01-28 | 56 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 52 | 77 | 
 | 2023-01-03 | 52 | 77 | 
 | 2023-01-02 | 52 | 76 | 
-| 2023-01-01 | 52 | 76 | 
 

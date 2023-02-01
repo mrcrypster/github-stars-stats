@@ -1,10 +1,10 @@
 # OpenHFT/Chronicle-Wire - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 107
 
-★ Stars: 351
+★ Stars: 352
 
 [Open repository](https://github.com/OpenHFT/Chronicle-Wire)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 352 | 107 | 
 | 2023-01-30 | 351 | 107 | 
 | 2023-01-29 | 351 | 107 | 
 | 2023-01-28 | 350 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 347 | 106 | 
 | 2023-01-04 | 347 | 106 | 
 | 2023-01-03 | 347 | 106 | 
-| 2023-01-02 | 347 | 106 | 
 

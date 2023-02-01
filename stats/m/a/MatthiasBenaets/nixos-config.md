@@ -1,6 +1,6 @@
 # MatthiasBenaets/nixos-config - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 181 | 31 | 
 | 2023-01-30 | 181 | 31 | 
 | 2023-01-29 | 180 | 31 | 
 | 2023-01-28 | 174 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 147 | 29 | 
 | 2023-01-03 | 146 | 29 | 
 | 2023-01-02 | 145 | 29 | 
-| 2023-01-01 | 143 | 29 | 
 

@@ -1,6 +1,6 @@
 # nyoom-engineering/nyoom.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 679 | 56 | 
 | 2023-01-30 | 679 | 56 | 
 | 2023-01-29 | 672 | 56 | 
 | 2023-01-28 | 672 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 600 | 60 | 
 | 2023-01-03 | 597 | 60 | 
 | 2023-01-02 | 598 | 60 | 
-| 2023-01-01 | 597 | 60 | 
 

@@ -1,10 +1,10 @@
 # randyrossi/vicii-kawari - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/randyrossi/vicii-kawari)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 71 | 7 | 
 | 2023-01-30 | 70 | 7 | 
 | 2023-01-29 | 70 | 7 | 
 | 2023-01-28 | 69 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 62 | 6 | 
 | 2023-01-03 | 62 | 6 | 
 | 2023-01-02 | 62 | 6 | 
-| 2023-01-01 | 62 | 6 | 
 

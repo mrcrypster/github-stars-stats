@@ -1,8 +1,8 @@
 # hacspec/hacspec - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 171 | 35 | 
 | 2023-01-30 | 171 | 34 | 
 | 2023-01-29 | 171 | 34 | 
 | 2023-01-28 | 171 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 163 | 34 | 
 | 2023-01-03 | 162 | 34 | 
 | 2023-01-02 | 162 | 34 | 
-| 2023-01-01 | 162 | 34 | 
 

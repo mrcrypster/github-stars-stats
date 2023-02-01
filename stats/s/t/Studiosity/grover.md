@@ -1,10 +1,10 @@
 # Studiosity/grover - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 71
 
-★ Stars: 584
+★ Stars: 585
 
 [Open repository](https://github.com/Studiosity/grover)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 585 | 71 | 
 | 2023-01-30 | 584 | 71 | 
 | 2023-01-29 | 584 | 71 | 
 | 2023-01-28 | 584 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 571 | 68 | 
 | 2023-01-03 | 571 | 68 | 
 | 2023-01-02 | 571 | 68 | 
-| 2023-01-01 | 571 | 67 | 
 

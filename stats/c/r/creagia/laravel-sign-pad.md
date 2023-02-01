@@ -1,6 +1,6 @@
 # creagia/laravel-sign-pad - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 276 | 11 | 
 | 2023-01-30 | 276 | 11 | 
 | 2023-01-29 | 275 | 11 | 
 | 2023-01-28 | 275 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 264 | 10 | 
 | 2023-01-03 | 262 | 10 | 
 | 2023-01-02 | 262 | 10 | 
-| 2023-01-01 | 262 | 10 | 
 

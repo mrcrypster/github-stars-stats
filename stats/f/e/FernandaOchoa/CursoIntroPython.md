@@ -1,6 +1,6 @@
 # FernandaOchoa/CursoIntroPython - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1396
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 211 | 1396 | 
 | 2023-01-30 | 211 | 1396 | 
 | 2023-01-29 | 211 | 1397 | 
 | 2023-01-28 | 211 | 1397 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 211 | 1397 | 
 | 2023-01-03 | 211 | 1397 | 
 | 2023-01-02 | 211 | 1398 | 
-| 2023-01-01 | 210 | 1398 | 
 

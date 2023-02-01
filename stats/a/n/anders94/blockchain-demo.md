@@ -1,6 +1,6 @@
 # anders94/blockchain-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2355
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 4726 | 2355 | 
 | 2023-01-30 | 4726 | 2355 | 
 | 2023-01-29 | 4723 | 2354 | 
 | 2023-01-28 | 4722 | 2353 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 4706 | 2335 | 
 | 2023-01-03 | 4706 | 2333 | 
 | 2023-01-02 | 4705 | 2333 | 
-| 2023-01-01 | 4705 | 2333 | 
 

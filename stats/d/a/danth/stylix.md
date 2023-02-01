@@ -1,10 +1,10 @@
 # danth/stylix - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/danth/stylix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 111 | 7 | 
 | 2023-01-30 | 110 | 6 | 
 | 2023-01-28 | 110 | 6 | 
 | 2023-01-27 | 110 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 94 | 4 | 
 | 2023-01-04 | 94 | 4 | 
 | 2023-01-03 | 94 | 4 | 
-| 2023-01-01 | 91 | 3 | 
 

@@ -1,10 +1,10 @@
 # streetsidesoftware/cspell-cli - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/streetsidesoftware/cspell-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 25 | 5 | 
 | 2023-01-30 | 24 | 5 | 
 | 2023-01-29 | 24 | 5 | 
 | 2023-01-28 | 24 | 5 | 

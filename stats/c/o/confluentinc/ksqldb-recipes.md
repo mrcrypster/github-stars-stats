@@ -1,6 +1,6 @@
 # confluentinc/ksqldb-recipes - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 7 | 8 | 
 | 2023-01-30 | 7 | 8 | 
 | 2023-01-29 | 7 | 8 | 
 | 2023-01-28 | 7 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 7 | 8 | 
 | 2023-01-03 | 7 | 8 | 
 | 2023-01-02 | 7 | 8 | 
-| 2023-01-01 | 7 | 8 | 
 

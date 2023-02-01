@@ -1,10 +1,10 @@
 # tansuotv/tansuotv - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/tansuotv/tansuotv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 88 | 31 | 
 | 2023-01-30 | 87 | 30 | 
 | 2023-01-29 | 87 | 30 | 
 | 2023-01-28 | 87 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 85 | 30 | 
 | 2023-01-03 | 85 | 30 | 
 | 2023-01-02 | 85 | 30 | 
-| 2023-01-01 | 85 | 30 | 
 

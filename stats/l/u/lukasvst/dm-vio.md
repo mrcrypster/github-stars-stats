@@ -1,10 +1,10 @@
 # lukasvst/dm-vio - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 114
 
-★ Stars: 607
+★ Stars: 608
 
 [Open repository](https://github.com/lukasvst/dm-vio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 608 | 114 | 
 | 2023-01-30 | 607 | 114 | 
 | 2023-01-29 | 606 | 114 | 
 | 2023-01-28 | 606 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 568 | 111 | 
 | 2023-01-03 | 568 | 111 | 
 | 2023-01-02 | 568 | 111 | 
-| 2023-01-01 | 568 | 111 | 
 

@@ -1,10 +1,10 @@
 # MetaMask/metamask-mobile - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 717
+☋ Forks: 718
 
-★ Stars: 1448
+★ Stars: 1450
 
 [Open repository](https://github.com/MetaMask/metamask-mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1450 | 718 | 
 | 2023-01-30 | 1448 | 717 | 
 | 2023-01-29 | 1445 | 717 | 
 | 2023-01-28 | 1442 | 714 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1415 | 700 | 
 | 2023-01-03 | 1415 | 700 | 
 | 2023-01-02 | 1414 | 699 | 
-| 2023-01-01 | 1414 | 700 | 
 

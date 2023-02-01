@@ -1,10 +1,10 @@
 # api-platform/api-platform - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 927
 
-★ Stars: 7767
+★ Stars: 7769
 
 [Open repository](https://github.com/api-platform/api-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 7769 | 927 | 
 | 2023-01-30 | 7767 | 927 | 
 | 2023-01-29 | 7765 | 926 | 
 | 2023-01-28 | 7764 | 926 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 7722 | 920 | 
 | 2023-01-04 | 7722 | 920 | 
 | 2023-01-03 | 7721 | 920 | 
-| 2023-01-01 | 7720 | 921 | 
 

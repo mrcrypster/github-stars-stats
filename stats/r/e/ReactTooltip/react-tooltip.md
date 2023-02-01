@@ -1,10 +1,10 @@
 # ReactTooltip/react-tooltip - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 501
 
-★ Stars: 3016
+★ Stars: 3020
 
 [Open repository](https://github.com/ReactTooltip/react-tooltip)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3020 | 501 | 
 | 2023-01-30 | 3016 | 501 | 
 | 2023-01-29 | 3015 | 501 | 
 | 2023-01-28 | 3014 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2969 | 494 | 
 | 2023-01-03 | 2967 | 492 | 
 | 2023-01-02 | 2968 | 492 | 
-| 2023-01-01 | 2966 | 492 | 
 

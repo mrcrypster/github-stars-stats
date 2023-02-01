@@ -1,10 +1,10 @@
 # Team364/BaseFalconSwerve - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 55
+☋ Forks: 57
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/Team364/BaseFalconSwerve)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 73 | 57 | 
 | 2023-01-30 | 72 | 55 | 
 | 2023-01-28 | 72 | 54 | 
 | 2023-01-27 | 72 | 51 | 

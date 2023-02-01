@@ -1,10 +1,10 @@
 # P1xt/p1xt-guides - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1715
 
-★ Stars: 6548
+★ Stars: 6549
 
 [Open repository](https://github.com/P1xt/p1xt-guides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 6549 | 1715 | 
 | 2023-01-30 | 6548 | 1715 | 
 | 2023-01-29 | 6547 | 1716 | 
 | 2023-01-28 | 6547 | 1716 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 6508 | 1713 | 
 | 2023-01-03 | 6508 | 1713 | 
 | 2023-01-02 | 6509 | 1713 | 
-| 2023-01-01 | 6508 | 1714 | 
 

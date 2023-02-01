@@ -1,10 +1,10 @@
 # webtoon/ReadMoreTextView - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/webtoon/ReadMoreTextView)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 121 | 6 | 
 | 2023-01-30 | 120 | 6 | 
 | 2023-01-29 | 120 | 6 | 
 | 2023-01-28 | 120 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 114 | 6 | 
 | 2023-01-03 | 114 | 6 | 
 | 2023-01-02 | 114 | 6 | 
-| 2023-01-01 | 114 | 6 | 
 

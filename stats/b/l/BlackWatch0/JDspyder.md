@@ -1,10 +1,10 @@
 # BlackWatch0/JDspyder - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 51
 
-★ Stars: 234
+★ Stars: 235
 
 [Open repository](https://github.com/BlackWatch0/JDspyder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 235 | 51 | 
 | 2023-01-30 | 234 | 51 | 
 | 2023-01-29 | 234 | 50 | 
 | 2023-01-28 | 235 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 229 | 49 | 
 | 2023-01-03 | 230 | 49 | 
 | 2023-01-02 | 230 | 49 | 
-| 2023-01-01 | 230 | 49 | 
 

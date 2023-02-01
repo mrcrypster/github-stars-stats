@@ -1,10 +1,10 @@
 # noob-hackers/infect - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 240
 
-★ Stars: 1495
+★ Stars: 1497
 
 [Open repository](https://github.com/noob-hackers/infect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1497 | 240 | 
 | 2023-01-30 | 1495 | 240 | 
 | 2023-01-29 | 1495 | 240 | 
 | 2023-01-27 | 1494 | 240 | 

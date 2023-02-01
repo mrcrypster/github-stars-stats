@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 31
 
 ☋ Forks: 41
 
-★ Stars: 1044
+★ Stars: 1048
 
 [Open repository](https://github.com/fzyzcjy/flutter_smooth)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-31 | 1044 | 41 | 
+| 2023-01-31 | 1048 | 41 | 
 | 2023-01-30 | 1044 | 41 | 
 | 2023-01-29 | 1036 | 40 | 
 | 2023-01-28 | 1027 | 40 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 992 | 41 | 
 | 2023-01-03 | 991 | 41 | 
 | 2023-01-02 | 989 | 41 | 
-| 2023-01-01 | 988 | 40 | 
 

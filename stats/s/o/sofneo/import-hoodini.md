@@ -1,10 +1,10 @@
 # sofneo/import-hoodini - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 11
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/sofneo/import-hoodini)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 48 | 11 | 
 | 2023-01-30 | 47 | 11 | 
 | 2023-01-29 | 47 | 11 | 
 | 2023-01-28 | 47 | 11 | 

@@ -1,10 +1,10 @@
 # jeffshrager/elizagen.org - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 30
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/jeffshrager/elizagen.org)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 187 | 30 | 
 | 2023-01-30 | 186 | 30 | 
 | 2023-01-29 | 185 | 30 | 
 | 2023-01-28 | 185 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 184 | 30 | 
 | 2023-01-04 | 184 | 30 | 
 | 2023-01-03 | 184 | 30 | 
-| 2023-01-02 | 184 | 30 | 
 

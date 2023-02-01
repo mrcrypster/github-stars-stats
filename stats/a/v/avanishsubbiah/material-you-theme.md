@@ -1,10 +1,10 @@
 # avanishsubbiah/material-you-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 15
 
-★ Stars: 191
+★ Stars: 194
 
 [Open repository](https://github.com/avanishsubbiah/material-you-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 194 | 15 | 
 | 2023-01-30 | 191 | 15 | 
 | 2023-01-29 | 191 | 15 | 
 | 2023-01-28 | 191 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 187 | 15 | 
 | 2023-01-03 | 187 | 15 | 
 | 2023-01-02 | 186 | 15 | 
-| 2023-01-01 | 186 | 15 | 
 

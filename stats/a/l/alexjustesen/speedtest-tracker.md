@@ -1,10 +1,10 @@
 # alexjustesen/speedtest-tracker - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 22
 
-★ Stars: 493
+★ Stars: 494
 
 [Open repository](https://github.com/alexjustesen/speedtest-tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 494 | 22 | 
 | 2023-01-30 | 493 | 22 | 
 | 2023-01-29 | 486 | 22 | 
 | 2023-01-28 | 484 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 355 | 13 | 
 | 2023-01-03 | 350 | 13 | 
 | 2023-01-02 | 346 | 13 | 
-| 2023-01-01 | 343 | 11 | 
 

@@ -1,6 +1,6 @@
 # badtuxx/DescomplicandoDocker - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 517
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3071 | 517 | 
 | 2023-01-30 | 3071 | 517 | 
 | 2023-01-29 | 3071 | 517 | 
 | 2023-01-28 | 3071 | 517 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3041 | 508 | 
 | 2023-01-03 | 3038 | 508 | 
 | 2023-01-02 | 3034 | 508 | 
-| 2023-01-01 | 3034 | 508 | 
 

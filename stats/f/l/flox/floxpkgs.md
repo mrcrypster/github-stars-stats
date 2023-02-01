@@ -1,10 +1,10 @@
 # flox/floxpkgs - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/flox/floxpkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 8 | - | 
 | 2023-01-30 | 7 | - | 
 | 2023-01-29 | 7 | - | 
 | 2023-01-28 | 7 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 6 | - | 
 | 2023-01-03 | 6 | - | 
 | 2023-01-02 | 6 | - | 
-| 2023-01-01 | 6 | - | 
 

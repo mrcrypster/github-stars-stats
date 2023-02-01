@@ -1,6 +1,6 @@
 # open-policy-agent/gatekeeper-library - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 263
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 496 | 263 | 
 | 2023-01-30 | 496 | 263 | 
 | 2023-01-29 | 496 | 263 | 
 | 2023-01-28 | 495 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 490 | 259 | 
 | 2023-01-03 | 491 | 259 | 
 | 2023-01-02 | 489 | 259 | 
-| 2023-01-01 | 489 | 259 | 
 

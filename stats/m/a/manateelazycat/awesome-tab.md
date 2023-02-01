@@ -1,6 +1,6 @@
 # manateelazycat/awesome-tab - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 355 | 39 | 
 | 2023-01-30 | 355 | 39 | 
 | 2023-01-29 | 355 | 39 | 
 | 2023-01-28 | 355 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 352 | 39 | 
 | 2023-01-03 | 351 | 39 | 
 | 2023-01-02 | 348 | 39 | 
-| 2023-01-01 | 348 | 39 | 
 

@@ -1,10 +1,10 @@
 # mouredev/Weekly-Challenge-2022-Kotlin - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 943
+☋ Forks: 944
 
-★ Stars: 1330
+★ Stars: 1332
 
 [Open repository](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1332 | 944 | 
 | 2023-01-30 | 1330 | 943 | 
 | 2023-01-29 | 1329 | 941 | 
 | 2023-01-28 | 1328 | 941 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1222 | 913 | 
 | 2023-01-03 | 1221 | 913 | 
 | 2023-01-02 | 1213 | 913 | 
-| 2023-01-01 | 1209 | 912 | 
 

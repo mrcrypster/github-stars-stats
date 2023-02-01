@@ -1,6 +1,6 @@
 # ghik/zerowaste - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 56 | 3 | 
 | 2023-01-30 | 56 | 3 | 
 | 2023-01-29 | 56 | 3 | 
 | 2023-01-28 | 56 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 51 | 1 | 
 | 2023-01-03 | 51 | 1 | 
 | 2023-01-02 | 50 | 1 | 
-| 2023-01-01 | 50 | 1 | 
 

@@ -1,10 +1,10 @@
 # alebcay/awesome-shell - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2219
 
-★ Stars: 26366
+★ Stars: 26380
 
 [Open repository](https://github.com/alebcay/awesome-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 26380 | 2219 | 
 | 2023-01-30 | 26366 | 2219 | 
 | 2023-01-29 | 26350 | 2218 | 
 | 2023-01-28 | 26339 | 2218 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 26042 | 2210 | 
 | 2023-01-03 | 26025 | 2208 | 
 | 2023-01-02 | 26011 | 2208 | 
-| 2023-01-01 | 25998 | 2207 | 
 

@@ -1,10 +1,10 @@
 # yihui/knitr - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 853
 
-★ Stars: 2236
+★ Stars: 2237
 
 [Open repository](https://github.com/yihui/knitr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2237 | 853 | 
 | 2023-01-30 | 2236 | 853 | 
 | 2023-01-29 | 2235 | 853 | 
 | 2023-01-28 | 2235 | 853 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2226 | 853 | 
 | 2023-01-03 | 2226 | 853 | 
 | 2023-01-02 | 2226 | 853 | 
-| 2023-01-01 | 2226 | 853 | 
 

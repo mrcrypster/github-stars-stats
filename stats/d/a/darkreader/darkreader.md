@@ -1,10 +1,10 @@
 # darkreader/darkreader - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 2066
+☋ Forks: 2065
 
-★ Stars: 15892
+★ Stars: 15904
 
 [Open repository](https://github.com/darkreader/darkreader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 15904 | 2065 | 
 | 2023-01-30 | 15892 | 2066 | 
 | 2023-01-29 | 15881 | 2066 | 
 | 2023-01-28 | 15874 | 2064 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 15698 | 2040 | 
 | 2023-01-03 | 15687 | 2040 | 
 | 2023-01-02 | 15683 | 2039 | 
-| 2023-01-01 | 15676 | 2039 | 
 

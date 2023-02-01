@@ -1,6 +1,6 @@
 # jigsaw-4277821/VirusR-Psych-Engine-Recreation - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 7 | 6 | 
 | 2023-01-30 | 7 | 6 | 
 | 2023-01-28 | 7 | 6 | 
 | 2023-01-27 | 7 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 7 | 6 | 
 | 2023-01-03 | 7 | 6 | 
 | 2023-01-02 | 7 | 6 | 
-| 2023-01-01 | 7 | 6 | 
 

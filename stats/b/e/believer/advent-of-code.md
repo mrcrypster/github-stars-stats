@@ -1,6 +1,6 @@
 # believer/advent-of-code - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 40 | 3 | 
 | 2023-01-30 | 40 | 3 | 
 | 2023-01-29 | 40 | 3 | 
 | 2023-01-28 | 40 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 39 | 3 | 
 | 2023-01-03 | 39 | 3 | 
 | 2023-01-02 | 38 | 3 | 
-| 2023-01-01 | 38 | 3 | 
 

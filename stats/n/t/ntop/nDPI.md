@@ -1,10 +1,10 @@
 # ntop/nDPI - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 811
 
-★ Stars: 3133
+★ Stars: 3134
 
 [Open repository](https://github.com/ntop/nDPI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3134 | 811 | 
 | 2023-01-31 | 3133 | 811 | 
 | 2023-01-29 | 3131 | 811 | 
 | 2023-01-28 | 3131 | 810 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 3094 | 810 | 
 | 2023-01-03 | 3094 | 810 | 
 | 2023-01-02 | 3095 | 811 | 
-| 2023-01-01 | 3093 | 811 | 
 

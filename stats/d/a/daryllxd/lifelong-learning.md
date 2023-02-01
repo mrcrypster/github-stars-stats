@@ -1,10 +1,10 @@
 # daryllxd/lifelong-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 74
 
-★ Stars: 527
+★ Stars: 528
 
 [Open repository](https://github.com/daryllxd/lifelong-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 528 | 74 | 
 | 2023-01-30 | 527 | 74 | 
 | 2023-01-29 | 527 | 74 | 
 | 2023-01-28 | 526 | 74 | 

@@ -1,10 +1,10 @@
 # SOMAS2022/SOMAS2022-Final-Report - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/SOMAS2022/SOMAS2022-Final-Report)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1 | 4 | 
 | 2023-01-30 | 2 | 4 | 
 | 2023-01-29 | 2 | 4 | 
 | 2023-01-28 | 2 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 2 | 3 | 
 | 2023-01-03 | 2 | 3 | 
 | 2023-01-02 | 2 | 3 | 
-| 2023-01-01 | 2 | 3 | 
 

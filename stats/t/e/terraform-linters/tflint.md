@@ -1,10 +1,10 @@
 # terraform-linters/tflint - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 305
 
-★ Stars: 3617
+★ Stars: 3622
 
 [Open repository](https://github.com/terraform-linters/tflint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3622 | 305 | 
 | 2023-01-30 | 3617 | 305 | 
 | 2023-01-29 | 3616 | 305 | 
 | 2023-01-28 | 3612 | 305 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3559 | 300 | 
 | 2023-01-03 | 3555 | 300 | 
 | 2023-01-02 | 3554 | 300 | 
-| 2023-01-01 | 3554 | 300 | 
 

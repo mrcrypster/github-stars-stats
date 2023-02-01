@@ -1,10 +1,10 @@
 # tweekmonster/helpful.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2
 
-★ Stars: 151
+★ Stars: 150
 
 [Open repository](https://github.com/tweekmonster/helpful.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 150 | 2 | 
 | 2023-01-30 | 151 | 2 | 
 | 2023-01-29 | 151 | 2 | 
 | 2023-01-28 | 151 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 147 | 2 | 
 | 2023-01-03 | 147 | 2 | 
 | 2023-01-02 | 146 | 2 | 
-| 2023-01-01 | 146 | 2 | 
 

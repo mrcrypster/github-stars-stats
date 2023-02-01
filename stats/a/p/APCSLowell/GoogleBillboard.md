@@ -1,8 +1,8 @@
 # APCSLowell/GoogleBillboard - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
-☋ Forks: 904
+☋ Forks: 906
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2 | 906 | 
 | 2023-01-30 | 2 | 904 | 
 | 2023-01-29 | 2 | 904 | 
 | 2023-01-28 | 2 | 904 | 

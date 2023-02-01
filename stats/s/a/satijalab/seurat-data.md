@@ -1,6 +1,6 @@
 # satijalab/seurat-data - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 80 | 27 | 
 | 2023-01-30 | 80 | 27 | 
 | 2023-01-29 | 80 | 27 | 
 | 2023-01-27 | 80 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 79 | 26 | 
 | 2023-01-04 | 79 | 26 | 
 | 2023-01-03 | 78 | 26 | 
-| 2023-01-02 | 78 | 26 | 
 

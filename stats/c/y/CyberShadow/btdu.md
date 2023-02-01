@@ -1,6 +1,6 @@
 # CyberShadow/btdu - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 209 | 2 | 
 | 2023-01-30 | 209 | 2 | 
 | 2023-01-29 | 209 | 2 | 
 | 2023-01-28 | 209 | 2 | 

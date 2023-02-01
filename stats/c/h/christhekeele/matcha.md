@@ -1,6 +1,6 @@
 # christhekeele/matcha - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 60 | 3 | 
 | 2023-01-30 | 60 | 3 | 
 | 2023-01-29 | 60 | 3 | 
 | 2023-01-28 | 60 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 54 | 2 | 
 | 2023-01-03 | 54 | 2 | 
 | 2023-01-02 | 53 | 2 | 
-| 2023-01-01 | 53 | 2 | 
 

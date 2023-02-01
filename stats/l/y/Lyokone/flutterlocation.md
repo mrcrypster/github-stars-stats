@@ -1,10 +1,10 @@
 # Lyokone/flutterlocation - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 608
+☋ Forks: 611
 
-★ Stars: 960
+★ Stars: 961
 
 [Open repository](https://github.com/Lyokone/flutterlocation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 961 | 611 | 
 | 2023-01-30 | 960 | 608 | 
 | 2023-01-29 | 959 | 606 | 
 | 2023-01-28 | 959 | 606 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 955 | 596 | 
 | 2023-01-03 | 955 | 595 | 
 | 2023-01-02 | 954 | 596 | 
-| 2023-01-01 | 953 | 595 | 
 

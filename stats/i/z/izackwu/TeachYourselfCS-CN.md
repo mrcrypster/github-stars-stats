@@ -1,10 +1,10 @@
 # izackwu/TeachYourselfCS-CN - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 3051
+☋ Forks: 3050
 
-★ Stars: 16922
+★ Stars: 16926
 
 [Open repository](https://github.com/izackwu/TeachYourselfCS-CN)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 16926 | 3050 | 
 | 2023-01-30 | 16922 | 3051 | 
 | 2023-01-29 | 16912 | 3050 | 
 | 2023-01-28 | 16899 | 3049 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 16732 | 3042 | 
 | 2023-01-03 | 16719 | 3041 | 
 | 2023-01-02 | 16712 | 3042 | 
-| 2023-01-01 | 16710 | 3040 | 
 

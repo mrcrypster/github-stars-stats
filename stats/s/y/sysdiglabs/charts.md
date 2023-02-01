@@ -1,10 +1,10 @@
 # sysdiglabs/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 98
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/sysdiglabs/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 33 | 98 | 
 | 2023-01-30 | 34 | 98 | 
 | 2023-01-29 | 34 | 98 | 
 | 2023-01-28 | 34 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 31 | 97 | 
 | 2023-01-03 | 31 | 97 | 
 | 2023-01-02 | 31 | 97 | 
-| 2023-01-01 | 31 | 97 | 
 

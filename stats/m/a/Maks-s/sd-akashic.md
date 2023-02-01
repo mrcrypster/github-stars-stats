@@ -1,10 +1,10 @@
 # Maks-s/sd-akashic - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 69
 
-★ Stars: 1286
+★ Stars: 1287
 
 [Open repository](https://github.com/Maks-s/sd-akashic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1287 | 69 | 
 | 2023-01-30 | 1286 | 69 | 
 | 2023-01-29 | 1284 | 69 | 
 | 2023-01-28 | 1283 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1234 | 66 | 
 | 2023-01-03 | 1230 | 64 | 
 | 2023-01-02 | 1228 | 64 | 
-| 2023-01-01 | 1227 | 64 | 
 

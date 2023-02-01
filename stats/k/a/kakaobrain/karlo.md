@@ -1,10 +1,10 @@
 # kakaobrain/karlo - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 26
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/kakaobrain/karlo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 391 | 26 | 
 | 2023-01-30 | 390 | 26 | 
 | 2023-01-29 | 388 | 26 | 
 | 2023-01-28 | 387 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 329 | 23 | 
 | 2023-01-03 | 326 | 22 | 
 | 2023-01-02 | 317 | 22 | 
-| 2023-01-01 | 313 | 22 | 
 

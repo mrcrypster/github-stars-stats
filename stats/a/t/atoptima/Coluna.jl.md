@@ -1,10 +1,10 @@
 # atoptima/Coluna.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 37
 
-★ Stars: 156
+★ Stars: 155
 
 [Open repository](https://github.com/atoptima/Coluna.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 155 | 37 | 
 | 2023-01-30 | 156 | 37 | 
 | 2023-01-29 | 156 | 37 | 
 | 2023-01-28 | 156 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 154 | 36 | 
 | 2023-01-03 | 154 | 36 | 
 | 2023-01-02 | 154 | 36 | 
-| 2023-01-01 | 154 | 36 | 
 

@@ -1,10 +1,10 @@
 # gyroflow/gyroflow - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 172
 
-★ Stars: 3941
+★ Stars: 3943
 
 [Open repository](https://github.com/gyroflow/gyroflow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3943 | 172 | 
 | 2023-01-30 | 3941 | 172 | 
 | 2023-01-29 | 3934 | 172 | 
 | 2023-01-28 | 3930 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3874 | 168 | 
 | 2023-01-03 | 3874 | 168 | 
 | 2023-01-02 | 3872 | 168 | 
-| 2023-01-01 | 3870 | 167 | 
 

@@ -1,8 +1,8 @@
 # vitobotta/hetzner-k3s - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 623
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 623 | 48 | 
 | 2023-01-30 | 623 | 47 | 
 | 2023-01-29 | 621 | 47 | 
 | 2023-01-28 | 621 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 546 | 40 | 
 | 2023-01-03 | 532 | 40 | 
 | 2023-01-02 | 492 | 38 | 
-| 2023-01-01 | 485 | 38 | 
 

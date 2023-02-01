@@ -1,6 +1,6 @@
 # gongo/json-reformat - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 167 | 21 | 
 | 2023-01-30 | 167 | 21 | 
 | 2023-01-29 | 167 | 21 | 
 | 2023-01-28 | 167 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 166 | 21 | 
 | 2023-01-04 | 166 | 21 | 
 | 2023-01-03 | 166 | 21 | 
-| 2023-01-02 | 166 | 21 | 
 

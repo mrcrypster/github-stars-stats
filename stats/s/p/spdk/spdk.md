@@ -1,10 +1,10 @@
 # spdk/spdk - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 934
+☋ Forks: 935
 
-★ Stars: 2296
+★ Stars: 2299
 
 [Open repository](https://github.com/spdk/spdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 2299 | 935 | 
 | 2023-01-30 | 2296 | 934 | 
 | 2023-01-29 | 2296 | 933 | 
 | 2023-01-28 | 2296 | 933 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 2281 | 924 | 
 | 2023-01-04 | 2279 | 923 | 
 | 2023-01-03 | 2277 | 923 | 
-| 2023-01-01 | 2278 | 922 | 
 

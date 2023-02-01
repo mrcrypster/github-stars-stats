@@ -1,10 +1,10 @@
 # aws-samples/reinvent2020-aim404-productionize-r-using-amazon-sagemaker - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/aws-samples/reinvent2020-aim404-productionize-r-using-amazon-sagemaker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 15 | 8 | 
 | 2023-01-30 | 14 | 8 | 
 | 2023-01-29 | 14 | 8 | 
 | 2023-01-28 | 14 | 8 | 

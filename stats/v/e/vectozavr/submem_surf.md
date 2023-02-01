@@ -1,6 +1,6 @@
 # vectozavr/submem_surf - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 38 | 27 | 
 | 2023-01-30 | 38 | 27 | 
 | 2023-01-29 | 38 | 26 | 
 | 2023-01-28 | 38 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 28 | 22 | 
 | 2023-01-03 | 28 | 21 | 
 | 2023-01-02 | 28 | 21 | 
-| 2023-01-01 | 28 | 21 | 
 

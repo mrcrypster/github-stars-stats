@@ -1,10 +1,10 @@
 # chaharnishant11/CodeIn10DSA - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 42
 
-★ Stars: 175
+★ Stars: 174
 
 [Open repository](https://github.com/chaharnishant11/CodeIn10DSA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 174 | 42 | 
 | 2023-01-30 | 175 | 42 | 
 | 2023-01-29 | 176 | 43 | 
 | 2023-01-28 | 176 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 175 | 43 | 
 | 2023-01-03 | 175 | 43 | 
 | 2023-01-02 | 175 | 43 | 
-| 2023-01-01 | 175 | 43 | 
 

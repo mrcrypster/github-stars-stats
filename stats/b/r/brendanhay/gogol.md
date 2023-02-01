@@ -1,10 +1,10 @@
 # brendanhay/gogol - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 102
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/brendanhay/gogol)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 272 | 102 | 
 | 2023-01-30 | 271 | 102 | 
 | 2023-01-29 | 271 | 102 | 
 | 2023-01-28 | 271 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 271 | 102 | 
 | 2023-01-03 | 271 | 102 | 
 | 2023-01-02 | 271 | 102 | 
-| 2023-01-01 | 271 | 102 | 
 

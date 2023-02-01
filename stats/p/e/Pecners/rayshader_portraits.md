@@ -1,10 +1,10 @@
 # Pecners/rayshader_portraits - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 54
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/Pecners/rayshader_portraits)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 213 | 54 | 
 | 2023-01-30 | 212 | 54 | 
 | 2023-01-29 | 210 | 54 | 
 | 2023-01-28 | 208 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 134 | 33 | 
 | 2023-01-03 | 127 | 32 | 
 | 2023-01-02 | 110 | 26 | 
-| 2023-01-01 | 105 | 26 | 
 

@@ -1,6 +1,6 @@
 # emacscollective/packed - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 17 | 3 | 
 | 2023-01-30 | 17 | 3 | 
 | 2023-01-29 | 17 | 3 | 
 | 2023-01-28 | 17 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 17 | 3 | 
 | 2023-01-03 | 17 | 3 | 
 | 2023-01-02 | 17 | 3 | 
-| 2023-01-01 | 17 | 3 | 
 

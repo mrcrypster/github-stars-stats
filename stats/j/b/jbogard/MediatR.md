@@ -1,10 +1,10 @@
 # jbogard/MediatR - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1034
+☋ Forks: 1033
 
-★ Stars: 9017
+★ Stars: 9025
 
 [Open repository](https://github.com/jbogard/MediatR)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 9025 | 1033 | 
 | 2023-01-30 | 9017 | 1034 | 
 | 2023-01-29 | 9015 | 1034 | 
 | 2023-01-28 | 9013 | 1034 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 8938 | 1029 | 
 | 2023-01-03 | 8933 | 1029 | 
 | 2023-01-02 | 8926 | 1027 | 
-| 2023-01-01 | 8926 | 1026 | 
 

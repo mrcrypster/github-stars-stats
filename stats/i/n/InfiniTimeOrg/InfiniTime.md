@@ -1,6 +1,6 @@
 # InfiniTimeOrg/InfiniTime - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 704
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1988 | 704 | 
 | 2023-01-30 | 1988 | 704 | 
 | 2023-01-29 | 1985 | 703 | 
 | 2023-01-28 | 1984 | 703 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1933 | 692 | 
 | 2023-01-03 | 1932 | 692 | 
 | 2023-01-02 | 1931 | 691 | 
-| 2023-01-01 | 1931 | 690 | 
 

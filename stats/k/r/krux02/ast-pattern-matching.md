@@ -1,6 +1,6 @@
 # krux02/ast-pattern-matching - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 92 | 8 | 
 | 2023-01-30 | 92 | 8 | 
 | 2023-01-29 | 92 | 8 | 
 | 2023-01-27 | 92 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 92 | 8 | 
 | 2023-01-04 | 92 | 8 | 
 | 2023-01-02 | 92 | 8 | 
-| 2023-01-01 | 92 | 8 | 
 

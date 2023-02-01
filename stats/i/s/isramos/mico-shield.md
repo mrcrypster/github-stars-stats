@@ -1,8 +1,8 @@
 # isramos/mico-shield - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 136
+☋ Forks: 135
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 21 | 135 | 
 | 2023-01-30 | 21 | 136 | 
 | 2023-01-29 | 21 | 136 | 
 | 2023-01-28 | 21 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 21 | 136 | 
 | 2023-01-03 | 21 | 136 | 
 | 2023-01-02 | 21 | 136 | 
-| 2023-01-01 | 21 | 136 | 
 

@@ -1,10 +1,10 @@
 # h2database/h2database - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1095
+☋ Forks: 1096
 
-★ Stars: 3586
+★ Stars: 3588
 
 [Open repository](https://github.com/h2database/h2database)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3588 | 1096 | 
 | 2023-01-30 | 3586 | 1095 | 
 | 2023-01-28 | 3583 | 1093 | 
 | 2023-01-27 | 3583 | 1094 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 3555 | 1085 | 
 | 2023-01-04 | 3553 | 1084 | 
 | 2023-01-02 | 3553 | 1084 | 
-| 2023-01-01 | 3552 | 1083 | 
 

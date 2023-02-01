@@ -1,10 +1,10 @@
 # quickemu-project/quickemu - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 298
 
-★ Stars: 5717
+★ Stars: 5725
 
 [Open repository](https://github.com/quickemu-project/quickemu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5725 | 298 | 
 | 2023-01-30 | 5717 | 298 | 
 | 2023-01-29 | 5712 | 298 | 
 | 2023-01-28 | 5705 | 298 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5626 | 294 | 
 | 2023-01-03 | 5621 | 294 | 
 | 2023-01-02 | 5616 | 294 | 
-| 2023-01-01 | 5613 | 293 | 
 

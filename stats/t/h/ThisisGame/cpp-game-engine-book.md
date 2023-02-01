@@ -1,10 +1,10 @@
 # ThisisGame/cpp-game-engine-book - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 201
+☋ Forks: 202
 
-★ Stars: 1628
+★ Stars: 1642
 
 [Open repository](https://github.com/ThisisGame/cpp-game-engine-book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1642 | 202 | 
 | 2023-01-30 | 1628 | 201 | 
 | 2023-01-29 | 1621 | 200 | 
 | 2023-01-28 | 1617 | 200 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 1562 | 191 | 
 | 2023-01-04 | 1560 | 190 | 
 | 2023-01-02 | 1558 | 190 | 
-| 2023-01-01 | 1557 | 189 | 
 

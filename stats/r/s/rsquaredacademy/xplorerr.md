@@ -1,6 +1,6 @@
 # rsquaredacademy/xplorerr - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 33 | 12 | 
 | 2023-01-30 | 33 | 12 | 
 | 2023-01-29 | 33 | 12 | 
 | 2023-01-28 | 33 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 33 | 12 | 
 | 2023-01-03 | 33 | 12 | 
 | 2023-01-02 | 33 | 12 | 
-| 2023-01-01 | 33 | 12 | 
 

@@ -1,10 +1,10 @@
 # FlipsideCrypto/ethereum-models - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/FlipsideCrypto/ethereum-models)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 12 | 2 | 
 | 2023-01-30 | 13 | 2 | 
 | 2023-01-29 | 13 | 2 | 
 | 2023-01-28 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 8 | 2 | 
 | 2023-01-03 | 8 | 2 | 
 | 2023-01-02 | 8 | 2 | 
-| 2023-01-01 | 8 | 2 | 
 

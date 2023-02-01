@@ -1,10 +1,10 @@
 # NEST-Protocol/NEST-Oracle-V4.0 - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 5
 
-★ Stars: 396
+★ Stars: 397
 
 [Open repository](https://github.com/NEST-Protocol/NEST-Oracle-V4.0)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 397 | 5 | 
 | 2023-01-30 | 396 | 5 | 
 | 2023-01-29 | 396 | 5 | 
 | 2023-01-28 | 394 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 380 | 4 | 
 | 2023-01-03 | 379 | 4 | 
 | 2023-01-02 | 378 | 4 | 
-| 2023-01-01 | 374 | 4 | 
 

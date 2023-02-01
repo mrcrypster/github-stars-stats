@@ -1,10 +1,10 @@
 # DataDog/terraform-provider-datadog - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 319
+☋ Forks: 320
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/DataDog/terraform-provider-datadog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 313 | 320 | 
 | 2023-01-30 | 312 | 319 | 
 | 2023-01-29 | 312 | 319 | 
 | 2023-01-28 | 312 | 319 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 310 | 311 | 
 | 2023-01-04 | 310 | 311 | 
 | 2023-01-02 | 310 | 311 | 
-| 2023-01-01 | 310 | 311 | 
 

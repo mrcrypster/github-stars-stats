@@ -1,6 +1,6 @@
 # tmhglnd/mercury - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 203 | 12 | 
 | 2023-01-30 | 203 | 12 | 
 | 2023-01-29 | 203 | 12 | 
 | 2023-01-28 | 203 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 200 | 12 | 
 | 2023-01-04 | 200 | 12 | 
 | 2023-01-03 | 200 | 12 | 
-| 2023-01-02 | 200 | 12 | 
 

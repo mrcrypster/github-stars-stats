@@ -1,10 +1,10 @@
 # SwiftOnSecurity/sysmon-config - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1490
+☋ Forks: 1492
 
-★ Stars: 3931
+★ Stars: 3930
 
 [Open repository](https://github.com/SwiftOnSecurity/sysmon-config)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3930 | 1492 | 
 | 2023-01-30 | 3931 | 1490 | 
 | 2023-01-29 | 3931 | 1490 | 
 | 2023-01-28 | 3929 | 1491 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3903 | 1472 | 
 | 2023-01-03 | 3902 | 1470 | 
 | 2023-01-02 | 3901 | 1470 | 
-| 2023-01-01 | 3898 | 1471 | 
 

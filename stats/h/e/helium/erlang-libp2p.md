@@ -1,10 +1,10 @@
 # helium/erlang-libp2p - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 33
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/helium/erlang-libp2p)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 111 | 33 | 
 | 2023-01-30 | 110 | 33 | 
 | 2023-01-29 | 110 | 33 | 
 | 2023-01-28 | 110 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 110 | 33 | 
 | 2023-01-03 | 110 | 33 | 
 | 2023-01-02 | 110 | 33 | 
-| 2023-01-01 | 110 | 33 | 
 

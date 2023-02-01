@@ -1,10 +1,10 @@
 # AssetRipper/AssetRipper - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 199
 
-★ Stars: 1271
+★ Stars: 1272
 
 [Open repository](https://github.com/AssetRipper/AssetRipper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1272 | 199 | 
 | 2023-01-30 | 1271 | 199 | 
 | 2023-01-29 | 1266 | 199 | 
 | 2023-01-28 | 1264 | 199 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1209 | 195 | 
 | 2023-01-03 | 1206 | 194 | 
 | 2023-01-02 | 1204 | 194 | 
-| 2023-01-01 | 1200 | 194 | 
 

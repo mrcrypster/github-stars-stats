@@ -1,10 +1,10 @@
 # sendgrid/sendgrid-php - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 627
+☋ Forks: 628
 
-★ Stars: 1398
+★ Stars: 1399
 
 [Open repository](https://github.com/sendgrid/sendgrid-php)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1399 | 628 | 
 | 2023-01-30 | 1398 | 627 | 
 | 2023-01-29 | 1398 | 627 | 
 | 2023-01-28 | 1398 | 627 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1389 | 625 | 
 | 2023-01-03 | 1389 | 625 | 
 | 2023-01-02 | 1389 | 625 | 
-| 2023-01-01 | 1388 | 625 | 
 

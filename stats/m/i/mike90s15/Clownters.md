@@ -1,10 +1,10 @@
 # mike90s15/Clownters - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/mike90s15/Clownters)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 59 | 9 | 
 | 2023-01-30 | 58 | 9 | 
 | 2023-01-29 | 58 | 9 | 
 | 2023-01-28 | 58 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 57 | 9 | 
 | 2023-01-03 | 57 | 9 | 
 | 2023-01-02 | 57 | 9 | 
-| 2023-01-01 | 57 | 9 | 
 

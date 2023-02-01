@@ -1,8 +1,8 @@
 # Momo707577045/media-source-extract - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 335
+☋ Forks: 336
 
 ★ Stars: 858
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 858 | 336 | 
 | 2023-01-30 | 858 | 335 | 
 | 2023-01-29 | 856 | 335 | 
 | 2023-01-28 | 855 | 334 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 815 | 321 | 
 | 2023-01-04 | 814 | 321 | 
 | 2023-01-03 | 813 | 321 | 
-| 2023-01-01 | 811 | 321 | 
 

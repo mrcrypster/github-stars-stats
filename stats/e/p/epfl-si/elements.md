@@ -1,10 +1,10 @@
 # epfl-si/elements - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 9
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/epfl-si/elements)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 13 | 9 | 
 | 2023-01-30 | 14 | 9 | 
 | 2023-01-29 | 14 | 9 | 
 | 2023-01-28 | 14 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 13 | 9 | 
 | 2023-01-03 | 13 | 9 | 
 | 2023-01-02 | 13 | 9 | 
-| 2023-01-01 | 13 | 9 | 
 

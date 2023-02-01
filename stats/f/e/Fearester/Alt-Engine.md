@@ -1,10 +1,10 @@
 # Fearester/Alt-Engine - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/Fearester/Alt-Engine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 9 | 1 | 
 | 2023-01-30 | 10 | 1 | 
 | 2023-01-29 | 10 | 1 | 
 | 2023-01-28 | 10 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 7 | 1 | 
 | 2023-01-03 | 6 | 1 | 
 | 2023-01-02 | 6 | 1 | 
-| 2023-01-01 | 6 | 1 | 
 

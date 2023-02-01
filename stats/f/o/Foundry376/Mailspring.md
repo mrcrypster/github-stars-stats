@@ -1,10 +1,10 @@
 # Foundry376/Mailspring - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 855
+☋ Forks: 857
 
-★ Stars: 13710
+★ Stars: 13718
 
 [Open repository](https://github.com/Foundry376/Mailspring)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 13718 | 857 | 
 | 2023-01-30 | 13710 | 855 | 
 | 2023-01-29 | 13708 | 855 | 
 | 2023-01-28 | 13706 | 855 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 13625 | 852 | 
 | 2023-01-03 | 13617 | 850 | 
 | 2023-01-02 | 13607 | 850 | 
-| 2023-01-01 | 13605 | 849 | 
 

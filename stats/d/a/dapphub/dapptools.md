@@ -1,10 +1,10 @@
 # dapphub/dapptools - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 315
 
-★ Stars: 1852
+★ Stars: 1856
 
 [Open repository](https://github.com/dapphub/dapptools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1856 | 315 | 
 | 2023-01-30 | 1852 | 315 | 
 | 2023-01-29 | 1852 | 315 | 
 | 2023-01-28 | 1852 | 315 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1833 | 313 | 
 | 2023-01-03 | 1833 | 313 | 
 | 2023-01-02 | 1829 | 312 | 
-| 2023-01-01 | 1827 | 312 | 
 

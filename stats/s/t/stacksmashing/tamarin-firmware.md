@@ -1,10 +1,10 @@
 # stacksmashing/tamarin-firmware - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 28
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/stacksmashing/tamarin-firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 255 | 28 | 
 | 2023-01-30 | 254 | 28 | 
 | 2023-01-29 | 253 | 28 | 
 | 2023-01-28 | 253 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 241 | 23 | 
 | 2023-01-03 | 240 | 23 | 
 | 2023-01-02 | 240 | 23 | 
-| 2023-01-01 | 239 | 23 | 
 

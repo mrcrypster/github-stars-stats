@@ -1,10 +1,10 @@
 # Azure/CanadaPubSecALZ - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 60
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/Azure/CanadaPubSecALZ)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 79 | 60 | 
 | 2023-01-30 | 78 | 60 | 
 | 2023-01-29 | 78 | 60 | 
 | 2023-01-28 | 78 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 76 | 61 | 
 | 2023-01-04 | 76 | 61 | 
 | 2023-01-03 | 76 | 61 | 
-| 2023-01-02 | 76 | 61 | 
 

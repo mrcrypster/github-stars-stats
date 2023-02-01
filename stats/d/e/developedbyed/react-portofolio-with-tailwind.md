@@ -1,10 +1,10 @@
 # developedbyed/react-portofolio-with-tailwind - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 247
+☋ Forks: 251
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/developedbyed/react-portofolio-with-tailwind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 288 | 251 | 
 | 2023-01-30 | 287 | 247 | 
 | 2023-01-29 | 286 | 243 | 
 | 2023-01-28 | 283 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 254 | 203 | 
 | 2023-01-03 | 253 | 196 | 
 | 2023-01-02 | 253 | 193 | 
-| 2023-01-01 | 251 | 193 | 
 

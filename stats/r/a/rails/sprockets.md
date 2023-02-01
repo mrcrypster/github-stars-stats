@@ -1,10 +1,10 @@
 # rails/sprockets - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 798
+☋ Forks: 801
 
-★ Stars: 878
+★ Stars: 879
 
 [Open repository](https://github.com/rails/sprockets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 879 | 801 | 
 | 2023-01-30 | 878 | 798 | 
 | 2023-01-29 | 878 | 798 | 
 | 2023-01-28 | 878 | 798 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 873 | 796 | 
 | 2023-01-03 | 873 | 796 | 
 | 2023-01-02 | 873 | 795 | 
-| 2023-01-01 | 873 | 795 | 
 

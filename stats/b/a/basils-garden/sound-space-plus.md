@@ -1,10 +1,10 @@
 # basils-garden/sound-space-plus - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/basils-garden/sound-space-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5 | 7 | 
 | 2023-01-30 | 6 | 7 | 
 | 2023-01-29 | 6 | 7 | 
 | 2023-01-28 | 6 | 7 | 

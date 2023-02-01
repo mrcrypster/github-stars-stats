@@ -1,10 +1,10 @@
 # rubycdp/cuprite - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 73
 
-★ Stars: 1020
+★ Stars: 1021
 
 [Open repository](https://github.com/rubycdp/cuprite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1021 | 73 | 
 | 2023-01-30 | 1020 | 73 | 
 | 2023-01-29 | 1020 | 73 | 
 | 2023-01-28 | 1020 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1005 | 72 | 
 | 2023-01-03 | 1005 | 72 | 
 | 2023-01-02 | 1005 | 72 | 
-| 2023-01-01 | 1005 | 72 | 
 

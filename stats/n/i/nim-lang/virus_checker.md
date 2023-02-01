@@ -1,10 +1,10 @@
 # nim-lang/virus_checker - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/nim-lang/virus_checker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 23 | 1 | 
 | 2023-01-30 | 22 | 1 | 
 | 2023-01-29 | 22 | 1 | 
 | 2023-01-28 | 22 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 21 | 1 | 
 | 2023-01-03 | 21 | 1 | 
 | 2023-01-02 | 21 | 1 | 
-| 2023-01-01 | 21 | 1 | 
 

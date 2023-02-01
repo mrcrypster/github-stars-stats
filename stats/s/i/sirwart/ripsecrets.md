@@ -1,6 +1,6 @@
 # sirwart/ripsecrets - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 599 | 13 | 
 | 2023-01-30 | 599 | 13 | 
 | 2023-01-29 | 597 | 13 | 
 | 2023-01-28 | 596 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 588 | 14 | 
 | 2023-01-03 | 587 | 14 | 
 | 2023-01-02 | 588 | 14 | 
-| 2023-01-01 | 588 | 14 | 
 

@@ -1,10 +1,10 @@
 # bumble-tech/appyx - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 38
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/bumble-tech/appyx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 642 | 38 | 
 | 2023-01-30 | 641 | 38 | 
 | 2023-01-29 | 638 | 38 | 
 | 2023-01-28 | 636 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 596 | 38 | 
 | 2023-01-03 | 593 | 38 | 
 | 2023-01-02 | 591 | 38 | 
-| 2023-01-01 | 591 | 38 | 
 

@@ -1,10 +1,10 @@
 # jump-dev/MutableArithmetics.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 8
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/jump-dev/MutableArithmetics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 41 | 8 | 
 | 2023-01-30 | 39 | 8 | 
 | 2023-01-29 | 39 | 8 | 
 | 2023-01-28 | 39 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 39 | 7 | 
 | 2023-01-03 | 39 | 7 | 
 | 2023-01-02 | 39 | 7 | 
-| 2023-01-01 | 39 | 7 | 
 

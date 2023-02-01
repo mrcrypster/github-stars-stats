@@ -1,6 +1,6 @@
 # Kara-Zor-El/JellyBook - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 106 | 1 | 
 | 2023-01-30 | 106 | 1 | 
 | 2023-01-29 | 106 | 1 | 
 | 2023-01-28 | 106 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 80 | - | 
 | 2023-01-04 | 80 | - | 
 | 2023-01-03 | 79 | - | 
-| 2023-01-02 | 79 | - | 
 

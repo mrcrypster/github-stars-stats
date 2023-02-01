@@ -1,10 +1,10 @@
 # pret/pokered - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 669
+☋ Forks: 670
 
-★ Stars: 3316
+★ Stars: 3317
 
 [Open repository](https://github.com/pret/pokered)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3317 | 670 | 
 | 2023-01-30 | 3316 | 669 | 
 | 2023-01-29 | 3316 | 669 | 
 | 2023-01-28 | 3316 | 668 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3290 | 655 | 
 | 2023-01-03 | 3287 | 655 | 
 | 2023-01-02 | 3284 | 655 | 
-| 2023-01-01 | 3282 | 656 | 
 

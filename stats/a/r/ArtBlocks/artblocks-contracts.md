@@ -1,6 +1,6 @@
 # ArtBlocks/artblocks-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 36 | 7 | 
 | 2023-01-30 | 36 | 7 | 
 | 2023-01-29 | 36 | 7 | 
 | 2023-01-28 | 36 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 33 | 6 | 
 | 2023-01-04 | 32 | 6 | 
 | 2023-01-03 | 31 | 6 | 
-| 2023-01-02 | 31 | 6 | 
 

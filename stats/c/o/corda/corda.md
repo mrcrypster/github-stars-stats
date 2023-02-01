@@ -1,10 +1,10 @@
 # corda/corda - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 1084
 
-★ Stars: 3912
+★ Stars: 3913
 
 [Open repository](https://github.com/corda/corda)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 3913 | 1084 | 
 | 2023-01-30 | 3912 | 1084 | 
 | 2023-01-28 | 3911 | 1083 | 
 | 2023-01-27 | 3911 | 1083 | 

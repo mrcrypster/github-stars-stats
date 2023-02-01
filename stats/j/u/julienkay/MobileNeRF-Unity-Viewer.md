@@ -1,6 +1,6 @@
 # julienkay/MobileNeRF-Unity-Viewer - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 268 | 27 | 
 | 2023-01-30 | 268 | 27 | 
 | 2023-01-29 | 268 | 27 | 
 | 2023-01-28 | 268 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 257 | 26 | 
 | 2023-01-03 | 257 | 26 | 
 | 2023-01-02 | 256 | 26 | 
-| 2023-01-01 | 256 | 26 | 
 

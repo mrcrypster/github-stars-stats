@@ -1,8 +1,8 @@
 # webpwnized/mutillidae - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 286
+☋ Forks: 288
 
 ★ Stars: 937
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 937 | 288 | 
 | 2023-01-30 | 937 | 286 | 
 | 2023-01-29 | 936 | 286 | 
 | 2023-01-28 | 936 | 286 | 

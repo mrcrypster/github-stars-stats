@@ -1,8 +1,8 @@
 # kottans/frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 371
+☋ Forks: 372
 
 ★ Stars: 1164
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1164 | 372 | 
 | 2023-01-30 | 1164 | 371 | 
 | 2023-01-29 | 1164 | 371 | 
 | 2023-01-28 | 1164 | 371 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 1160 | 373 | 
 | 2023-01-04 | 1160 | 373 | 
 | 2023-01-03 | 1160 | 373 | 
-| 2023-01-02 | 1159 | 373 | 
 

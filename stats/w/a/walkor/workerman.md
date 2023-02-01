@@ -1,6 +1,6 @@
 # walkor/workerman - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 2237
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 10261 | 2237 | 
 | 2023-01-30 | 10261 | 2237 | 
 | 2023-01-29 | 10262 | 2237 | 
 | 2023-01-28 | 10263 | 2237 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 10243 | 2232 | 
 | 2023-01-03 | 10240 | 2230 | 
 | 2023-01-02 | 10240 | 2229 | 
-| 2023-01-01 | 10238 | 2229 | 
 

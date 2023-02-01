@@ -1,10 +1,10 @@
 # SwipeCellKit/SwipeCellKit - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 768
 
-★ Stars: 5957
+★ Stars: 5956
 
 [Open repository](https://github.com/SwipeCellKit/SwipeCellKit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5956 | 768 | 
 | 2023-01-30 | 5957 | 768 | 
 | 2023-01-29 | 5957 | 768 | 
 | 2023-01-28 | 5956 | 767 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 5949 | 766 | 
 | 2023-01-03 | 5947 | 767 | 
 | 2023-01-02 | 5946 | 768 | 
-| 2023-01-01 | 5945 | 768 | 
 

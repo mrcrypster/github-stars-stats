@@ -1,10 +1,10 @@
 # ArulselvanMadhavan/diffusers-ocaml - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/ArulselvanMadhavan/diffusers-ocaml)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 19 | 1 | 
 | 2023-01-31 | 20 | 1 | 
 | 2023-01-30 | 20 | 1 | 
 | 2023-01-28 | 20 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 19 | 1 | 
 | 2023-01-03 | 19 | 1 | 
 | 2023-01-02 | 18 | 1 | 
-| 2023-01-01 | 18 | 1 | 
 

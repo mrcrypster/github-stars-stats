@@ -1,6 +1,6 @@
 # ORCx41/KnownDllUnhook - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 228 | 32 | 
 | 2023-01-30 | 228 | 32 | 
 | 2023-01-29 | 228 | 32 | 
 | 2023-01-28 | 228 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 223 | 31 | 
 | 2023-01-03 | 223 | 31 | 
 | 2023-01-02 | 223 | 31 | 
-| 2023-01-01 | 223 | 31 | 
 

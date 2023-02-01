@@ -1,10 +1,10 @@
 # wasabirobby/fivem-appearance - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 31
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/wasabirobby/fivem-appearance)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 33 | 31 | 
 | 2023-01-30 | 34 | 31 | 
 | 2023-01-29 | 34 | 31 | 
 | 2023-01-28 | 34 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 31 | 28 | 
 | 2023-01-03 | 31 | 28 | 
 | 2023-01-02 | 31 | 27 | 
-| 2023-01-01 | 30 | 27 | 
 

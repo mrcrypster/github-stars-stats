@@ -1,10 +1,10 @@
 # marmotedu/miniblog - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 12
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/marmotedu/miniblog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 44 | 12 | 
 | 2023-01-30 | 43 | 12 | 
 | 2023-01-29 | 43 | 12 | 
 | 2023-01-28 | 42 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 31 | 9 | 
 | 2023-01-03 | 31 | 9 | 
 | 2023-01-02 | 30 | 9 | 
-| 2023-01-01 | 30 | 6 | 
 

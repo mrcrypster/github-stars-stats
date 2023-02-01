@@ -1,10 +1,10 @@
 # lichess-org/lila - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1824
+☋ Forks: 1826
 
-★ Stars: 12650
+★ Stars: 12652
 
 [Open repository](https://github.com/lichess-org/lila)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 12652 | 1826 | 
 | 2023-01-30 | 12650 | 1824 | 
 | 2023-01-29 | 12647 | 1824 | 
 | 2023-01-28 | 12641 | 1823 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 12511 | 1805 | 
 | 2023-01-03 | 12510 | 1805 | 
 | 2023-01-02 | 12507 | 1806 | 
-| 2023-01-01 | 12498 | 1806 | 
 

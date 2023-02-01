@@ -1,6 +1,6 @@
 # huebicode/abuselookup-gui - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 62 | 8 | 
 | 2023-01-30 | 62 | 8 | 
 | 2023-01-29 | 62 | 8 | 
 | 2023-01-28 | 62 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 62 | 8 | 
 | 2023-01-03 | 62 | 8 | 
 | 2023-01-02 | 62 | 8 | 
-| 2023-01-01 | 63 | 8 | 
 

@@ -1,6 +1,6 @@
 # FokersBoolean/AliceBot - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 72 | 12 | 
 | 2023-01-30 | 72 | 12 | 
 | 2023-01-29 | 72 | 12 | 
 | 2023-01-28 | 72 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 71 | 11 | 
 | 2023-01-04 | 71 | 11 | 
 | 2023-01-03 | 71 | 11 | 
-| 2023-01-02 | 70 | 11 | 
 

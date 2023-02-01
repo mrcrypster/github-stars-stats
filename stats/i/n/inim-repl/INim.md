@@ -1,6 +1,6 @@
 # inim-repl/INim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 569 | 22 | 
 | 2023-01-30 | 569 | 22 | 
 | 2023-01-29 | 568 | 22 | 
 | 2023-01-28 | 567 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 559 | 22 | 
 | 2023-01-03 | 558 | 22 | 
 | 2023-01-02 | 558 | 22 | 
-| 2023-01-01 | 558 | 22 | 
 

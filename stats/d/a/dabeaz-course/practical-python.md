@@ -1,10 +1,10 @@
 # dabeaz-course/practical-python - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 5056
+☋ Forks: 5057
 
-★ Stars: 8400
+★ Stars: 8403
 
 [Open repository](https://github.com/dabeaz-course/practical-python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 8403 | 5057 | 
 | 2023-01-30 | 8400 | 5056 | 
 | 2023-01-29 | 8396 | 5054 | 
 | 2023-01-28 | 8393 | 5054 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 8306 | 4998 | 
 | 2023-01-03 | 8302 | 4996 | 
 | 2023-01-02 | 8301 | 4991 | 
-| 2023-01-01 | 8301 | 4988 | 
 

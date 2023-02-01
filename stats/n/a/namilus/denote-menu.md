@@ -1,6 +1,6 @@
 # namilus/denote-menu - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 9 | 3 | 
 | 2023-01-30 | 9 | 3 | 
 | 2023-01-29 | 9 | 3 | 
 | 2023-01-28 | 8 | 3 | 

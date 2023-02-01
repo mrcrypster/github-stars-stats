@@ -1,8 +1,8 @@
 # liquibase/docker - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 49 | 65 | 
 | 2023-01-30 | 49 | 64 | 
 | 2023-01-29 | 49 | 63 | 
 | 2023-01-28 | 49 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 49 | 60 | 
 | 2023-01-03 | 49 | 60 | 
 | 2023-01-02 | 49 | 60 | 
-| 2023-01-01 | 49 | 60 | 
 

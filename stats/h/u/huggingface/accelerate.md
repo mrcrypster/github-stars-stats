@@ -1,10 +1,10 @@
 # huggingface/accelerate - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
-☋ Forks: 316
+☋ Forks: 318
 
-★ Stars: 3584
+★ Stars: 3588
 
 [Open repository](https://github.com/huggingface/accelerate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3588 | 318 | 
 | 2023-01-30 | 3584 | 316 | 
 | 2023-01-29 | 3578 | 316 | 
 | 2023-01-28 | 3573 | 313 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3459 | 298 | 
 | 2023-01-03 | 3456 | 297 | 
 | 2023-01-02 | 3453 | 297 | 
-| 2023-01-01 | 3451 | 297 | 
 

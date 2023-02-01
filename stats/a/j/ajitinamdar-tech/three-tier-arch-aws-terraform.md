@@ -1,10 +1,10 @@
 # ajitinamdar-tech/three-tier-arch-aws-terraform - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 19
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/ajitinamdar-tech/three-tier-arch-aws-terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 5 | 19 | 
 | 2023-01-30 | 4 | 19 | 
 | 2023-01-29 | 4 | 19 | 
 | 2023-01-27 | 4 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 3 | 14 | 
 | 2023-01-03 | 3 | 14 | 
 | 2023-01-02 | 3 | 14 | 
-| 2023-01-01 | 3 | 14 | 
 

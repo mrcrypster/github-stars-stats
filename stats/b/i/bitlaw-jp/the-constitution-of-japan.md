@@ -1,10 +1,10 @@
 # bitlaw-jp/the-constitution-of-japan - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 7
 
-★ Stars: 401
+★ Stars: 403
 
 [Open repository](https://github.com/bitlaw-jp/the-constitution-of-japan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 403 | 7 | 
 | 2023-01-30 | 401 | 7 | 
 | 2023-01-29 | 400 | 7 | 
 | 2023-01-28 | 400 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 398 | 7 | 
 | 2023-01-03 | 398 | 7 | 
 | 2023-01-02 | 398 | 7 | 
-| 2023-01-01 | 398 | 7 | 
 

@@ -1,8 +1,8 @@
 # kosukeimai/qss - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 206
+☋ Forks: 207
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 193 | 207 | 
 | 2023-01-30 | 193 | 206 | 
 | 2023-01-29 | 193 | 206 | 
 | 2023-01-28 | 192 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 186 | 200 | 
 | 2023-01-03 | 186 | 200 | 
 | 2023-01-02 | 186 | 200 | 
-| 2023-01-01 | 186 | 200 | 
 

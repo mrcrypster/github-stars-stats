@@ -1,10 +1,10 @@
 # TBD54566975/ssi-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 40
 
-★ Stars: 149
+★ Stars: 148
 
 [Open repository](https://github.com/TBD54566975/ssi-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 148 | 40 | 
 | 2023-01-30 | 149 | 40 | 
 | 2023-01-29 | 148 | 40 | 
 | 2023-01-28 | 148 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 148 | 36 | 
 | 2023-01-03 | 148 | 36 | 
 | 2023-01-02 | 148 | 36 | 
-| 2023-01-01 | 148 | 36 | 
 

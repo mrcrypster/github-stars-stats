@@ -1,6 +1,6 @@
 # austin-starks/NextTrade - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 234 | 46 | 
 | 2023-01-30 | 234 | 46 | 
 | 2023-01-29 | 212 | 41 | 
 | 2023-01-28 | 212 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 209 | 40 | 
 | 2023-01-03 | 209 | 40 | 
 | 2023-01-02 | 208 | 39 | 
-| 2023-01-01 | 208 | 39 | 
 

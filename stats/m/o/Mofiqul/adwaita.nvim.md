@@ -1,8 +1,8 @@
 # Mofiqul/adwaita.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 125 | 12 | 
 | 2023-01-30 | 125 | 11 | 
 | 2023-01-29 | 125 | 11 | 
 | 2023-01-28 | 125 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-05 | 120 | 12 | 
 | 2023-01-04 | 120 | 12 | 
 | 2023-01-03 | 120 | 12 | 
-| 2023-01-02 | 120 | 12 | 
 

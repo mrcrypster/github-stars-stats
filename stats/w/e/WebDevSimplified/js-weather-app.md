@@ -1,8 +1,8 @@
 # WebDevSimplified/js-weather-app - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 35 | 38 | 
 | 2023-01-30 | 35 | 37 | 
 | 2023-01-29 | 35 | 37 | 
 | 2023-01-28 | 35 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 30 | 21 | 
 | 2023-01-03 | 29 | 21 | 
 | 2023-01-02 | 29 | 21 | 
-| 2023-01-01 | 26 | 21 | 
 

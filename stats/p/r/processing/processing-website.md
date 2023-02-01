@@ -1,10 +1,10 @@
 # processing/processing-website - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 44
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/processing/processing-website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 36 | 44 | 
 | 2023-01-30 | 37 | 44 | 
 | 2023-01-29 | 37 | 44 | 
 | 2023-01-28 | 37 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 34 | 42 | 
 | 2023-01-03 | 34 | 42 | 
 | 2023-01-02 | 34 | 42 | 
-| 2023-01-01 | 34 | 42 | 
 

@@ -1,10 +1,10 @@
 # beeware/Python-Apple-support - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 125
 
-★ Stars: 813
+★ Stars: 815
 
 [Open repository](https://github.com/beeware/Python-Apple-support)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 815 | 125 | 
 | 2023-01-30 | 813 | 125 | 
 | 2023-01-29 | 812 | 125 | 
 | 2023-01-28 | 812 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 797 | 125 | 
 | 2023-01-03 | 796 | 125 | 
 | 2023-01-02 | 795 | 125 | 
-| 2023-01-01 | 795 | 125 | 
 

@@ -1,10 +1,10 @@
 # xtermjs/xterm.js - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 1412
+☋ Forks: 1411
 
-★ Stars: 14387
+★ Stars: 14389
 
 [Open repository](https://github.com/xtermjs/xterm.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 14389 | 1411 | 
 | 2023-01-30 | 14387 | 1412 | 
 | 2023-01-29 | 14383 | 1412 | 
 | 2023-01-28 | 14378 | 1412 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 14261 | 1403 | 
 | 2023-01-03 | 14258 | 1403 | 
 | 2023-01-02 | 14252 | 1403 | 
-| 2023-01-01 | 14250 | 1403 | 
 

@@ -1,6 +1,6 @@
 # ElemeFE/node-interview - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1560
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 10346 | 1560 | 
 | 2023-01-31 | 10346 | 1560 | 
 | 2023-01-29 | 10345 | 1560 | 
 | 2023-01-28 | 10344 | 1560 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-04 | 10336 | 1558 | 
 | 2023-01-03 | 10335 | 1558 | 
 | 2023-01-02 | 10335 | 1559 | 
-| 2023-01-01 | 10335 | 1559 | 
 

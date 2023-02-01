@@ -1,10 +1,10 @@
 # erikdarlingdata/DarlingData - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 81
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/erikdarlingdata/DarlingData)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 295 | 81 | 
 | 2023-01-30 | 294 | 81 | 
 | 2023-01-29 | 293 | 81 | 
 | 2023-01-28 | 293 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 291 | 80 | 
 | 2023-01-03 | 291 | 80 | 
 | 2023-01-02 | 291 | 80 | 
-| 2023-01-01 | 291 | 80 | 
 

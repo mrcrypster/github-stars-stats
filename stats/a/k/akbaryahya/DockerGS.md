@@ -1,10 +1,10 @@
 # akbaryahya/DockerGS - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 87
 
-★ Stars: 350
+★ Stars: 354
 
 [Open repository](https://github.com/akbaryahya/DockerGS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 354 | 87 | 
 | 2023-01-30 | 350 | 87 | 
 | 2023-01-29 | 350 | 87 | 
 | 2023-01-28 | 351 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 335 | 86 | 
 | 2023-01-03 | 335 | 86 | 
 | 2023-01-02 | 335 | 86 | 
-| 2023-01-01 | 335 | 86 | 
 

@@ -1,8 +1,8 @@
 # APCSLowell/PalindromeChecker - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Feb 2023, 01
 
-☋ Forks: 835
+☋ Forks: 836
 
 ★ Stars: 1
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1 | 836 | 
+| 2023-01-31 | 1 | 836 | 
 | 2023-01-30 | 1 | 835 | 
 | 2023-01-29 | 1 | 835 | 
 

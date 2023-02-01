@@ -1,6 +1,6 @@
 # surya-dev-singh/BITB-framwork - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 220 | 77 | 
 | 2023-01-30 | 220 | 77 | 
 | 2023-01-29 | 219 | 77 | 
 | 2023-01-28 | 219 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 217 | 75 | 
 | 2023-01-03 | 217 | 74 | 
 | 2023-01-02 | 217 | 74 | 
-| 2023-01-01 | 217 | 74 | 
 

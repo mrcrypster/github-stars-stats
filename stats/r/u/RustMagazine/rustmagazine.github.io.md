@@ -1,10 +1,10 @@
 # RustMagazine/rustmagazine.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 6
+☋ Forks: 9
 
-★ Stars: 188
+★ Stars: 200
 
 [Open repository](https://github.com/RustMagazine/rustmagazine.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 200 | 9 | 
 | 2023-01-30 | 188 | 6 | 
 | 2023-01-29 | 183 | 5 | 
 | 2023-01-28 | 183 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 168 | 3 | 
 | 2023-01-03 | 166 | 3 | 
 | 2023-01-02 | 164 | 3 | 
-| 2023-01-01 | 164 | 3 | 
 

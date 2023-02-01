@@ -1,10 +1,10 @@
 # facebookexperimental/object-introspection - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
 ☋ Forks: 6
 
-★ Stars: 33
+★ Stars: 32
 
 [Open repository](https://github.com/facebookexperimental/object-introspection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 32 | 6 | 
 | 2023-01-30 | 33 | 6 | 
 | 2023-01-29 | 33 | 6 | 
 | 2023-01-28 | 33 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 30 | 6 | 
 | 2023-01-03 | 30 | 6 | 
 | 2023-01-02 | 30 | 6 | 
-| 2023-01-01 | 30 | 6 | 
 

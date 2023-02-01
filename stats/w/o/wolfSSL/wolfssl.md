@@ -1,8 +1,8 @@
 # wolfSSL/wolfssl - stars & forks statistics
 
-Stats updated on Jan 2023, 30
+Stats updated on Jan 2023, 31
 
-☋ Forks: 674
+☋ Forks: 675
 
 ★ Stars: 1823
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-31 | 1823 | 675 | 
 | 2023-01-30 | 1823 | 674 | 
 | 2023-01-29 | 1823 | 674 | 
 | 2023-01-28 | 1822 | 674 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 30
 | 2023-01-04 | 1806 | 669 | 
 | 2023-01-03 | 1806 | 670 | 
 | 2023-01-02 | 1804 | 669 | 
-| 2023-01-01 | 1802 | 669 | 
 
