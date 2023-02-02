@@ -1,10 +1,10 @@
 # Roaa94/movies_app - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 56
 
-★ Stars: 291
+★ Stars: 293
 
 [Open repository](https://github.com/Roaa94/movies_app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 293 | 56 | 
 | 2023-01-31 | 291 | 56 | 
 | 2023-01-29 | 290 | 55 | 
 | 2023-01-28 | 289 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 285 | 50 | 
 | 2023-01-05 | 284 | 50 | 
 | 2023-01-03 | 284 | 50 | 
-| 2023-01-02 | 283 | 50 | 
 

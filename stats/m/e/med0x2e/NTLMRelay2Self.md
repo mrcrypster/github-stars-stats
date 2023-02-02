@@ -1,10 +1,10 @@
 # med0x2e/NTLMRelay2Self - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 299
+★ Stars: 300
 
 [Open repository](https://github.com/med0x2e/NTLMRelay2Self)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 300 | 38 | 
 | 2023-01-31 | 299 | 37 | 
 | 2023-01-30 | 299 | 37 | 
 | 2023-01-29 | 299 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 295 | 37 | 
 | 2023-01-05 | 295 | 37 | 
 | 2023-01-04 | 295 | 37 | 
-| 2023-01-03 | 295 | 37 | 
 

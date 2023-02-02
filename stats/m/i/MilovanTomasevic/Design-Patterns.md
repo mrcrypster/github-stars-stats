@@ -1,10 +1,10 @@
 # MilovanTomasevic/Design-Patterns - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 6
 
-★ Stars: 105
+★ Stars: 104
 
 [Open repository](https://github.com/MilovanTomasevic/Design-Patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 104 | 6 | 
 | 2023-01-31 | 105 | 6 | 
 | 2023-01-30 | 104 | 6 | 
 | 2023-01-29 | 104 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 102 | 5 | 
 | 2023-01-04 | 102 | 5 | 
 | 2023-01-03 | 101 | 5 | 
-| 2023-01-02 | 100 | 5 | 
 

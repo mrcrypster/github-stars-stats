@@ -1,6 +1,6 @@
 # shadeed/rtl-styling - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 313 | 17 | 
 | 2023-01-31 | 313 | 17 | 
 | 2023-01-30 | 313 | 17 | 
 | 2023-01-29 | 312 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 312 | 16 | 
 | 2023-01-04 | 311 | 16 | 
 | 2023-01-03 | 307 | 16 | 
-| 2023-01-02 | 305 | 16 | 
 

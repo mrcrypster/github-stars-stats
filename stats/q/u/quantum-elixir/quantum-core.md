@@ -1,10 +1,10 @@
 # quantum-elixir/quantum-core - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 141
 
-★ Stars: 2068
+★ Stars: 2069
 
 [Open repository](https://github.com/quantum-elixir/quantum-core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2069 | 141 | 
 | 2023-01-31 | 2068 | 141 | 
 | 2023-01-30 | 2068 | 141 | 
 | 2023-01-29 | 2068 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2058 | 141 | 
 | 2023-01-04 | 2058 | 141 | 
 | 2023-01-03 | 2058 | 141 | 
-| 2023-01-02 | 2059 | 141 | 
 

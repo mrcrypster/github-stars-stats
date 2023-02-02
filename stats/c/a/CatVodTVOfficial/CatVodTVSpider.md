@@ -1,10 +1,10 @@
 # CatVodTVOfficial/CatVodTVSpider - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 881
+☋ Forks: 885
 
-★ Stars: 1522
+★ Stars: 1527
 
 [Open repository](https://github.com/CatVodTVOfficial/CatVodTVSpider)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1527 | 885 | 
 | 2023-01-31 | 1522 | 881 | 
 | 2023-01-30 | 1521 | 881 | 
 | 2023-01-29 | 1520 | 880 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1503 | 869 | 
 | 2023-01-04 | 1504 | 870 | 
 | 2023-01-03 | 1504 | 870 | 
-| 2023-01-02 | 1503 | 871 | 
 

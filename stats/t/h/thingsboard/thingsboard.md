@@ -1,10 +1,10 @@
 # thingsboard/thingsboard - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4128
 
-★ Stars: 12986
+★ Stars: 12992
 
 [Open repository](https://github.com/thingsboard/thingsboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 12992 | 4128 | 
 | 2023-01-31 | 12986 | 4128 | 
 | 2023-01-29 | 12974 | 4127 | 
 | 2023-01-28 | 12970 | 4126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 12851 | 4111 | 
 | 2023-01-04 | 12850 | 4107 | 
 | 2023-01-03 | 12847 | 4107 | 
-| 2023-01-02 | 12842 | 4105 | 
 

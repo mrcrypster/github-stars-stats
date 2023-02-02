@@ -1,10 +1,10 @@
 # gnunn1/tilix - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 284
 
-★ Stars: 5019
+★ Stars: 5021
 
 [Open repository](https://github.com/gnunn1/tilix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5021 | 284 | 
 | 2023-01-31 | 5019 | 284 | 
 | 2023-01-30 | 5019 | 284 | 
 | 2023-01-29 | 5019 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 4998 | 283 | 
 | 2023-01-04 | 4998 | 283 | 
 | 2023-01-03 | 4998 | 283 | 
-| 2023-01-02 | 4996 | 283 | 
 

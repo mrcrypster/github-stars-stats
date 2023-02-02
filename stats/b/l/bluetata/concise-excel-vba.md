@@ -1,10 +1,10 @@
 # bluetata/concise-excel-vba - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 118
 
-★ Stars: 380
+★ Stars: 381
 
 [Open repository](https://github.com/bluetata/concise-excel-vba)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 381 | 118 | 
 | 2023-01-31 | 380 | 118 | 
 | 2023-01-30 | 379 | 118 | 
 | 2023-01-29 | 379 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 373 | 116 | 
 | 2023-01-04 | 373 | 116 | 
 | 2023-01-03 | 373 | 116 | 
-| 2023-01-02 | 373 | 116 | 
 

@@ -1,10 +1,10 @@
 # Azure-Samples/function-app-arm-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/Azure-Samples/function-app-arm-templates)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 19 | 39 | 
+| 2023-02-01 | 19 | 39 | 
 | 2023-01-31 | 20 | 38 | 
 | 2023-01-30 | 20 | 37 | 
 | 2023-01-29 | 20 | 37 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 20 | 33 | 
 | 2023-01-04 | 20 | 31 | 
 | 2023-01-03 | 20 | 31 | 
-| 2023-01-02 | 20 | 31 | 
 

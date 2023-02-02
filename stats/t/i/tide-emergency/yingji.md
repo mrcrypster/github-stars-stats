@@ -1,10 +1,10 @@
 # tide-emergency/yingji - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 245
 
-★ Stars: 861
+★ Stars: 865
 
 [Open repository](https://github.com/tide-emergency/yingji)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 865 | 245 | 
 | 2023-01-31 | 861 | 245 | 
 | 2023-01-30 | 860 | 244 | 
 | 2023-01-29 | 860 | 244 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 858 | 242 | 
 | 2023-01-04 | 858 | 242 | 
 | 2023-01-03 | 858 | 242 | 
-| 2023-01-02 | 858 | 242 | 
 

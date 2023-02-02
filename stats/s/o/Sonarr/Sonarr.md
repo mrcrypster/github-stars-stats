@@ -1,10 +1,10 @@
 # Sonarr/Sonarr - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1103
 
-★ Stars: 8198
+★ Stars: 8201
 
 [Open repository](https://github.com/Sonarr/Sonarr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 8201 | 1103 | 
 | 2023-01-31 | 8198 | 1103 | 
 | 2023-01-30 | 8192 | 1103 | 
 | 2023-01-29 | 8189 | 1102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 8092 | 1087 | 
 | 2023-01-04 | 8082 | 1087 | 
 | 2023-01-03 | 8080 | 1087 | 
-| 2023-01-02 | 8073 | 1086 | 
 

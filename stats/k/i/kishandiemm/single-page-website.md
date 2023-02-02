@@ -1,6 +1,6 @@
 # kishandiemm/single-page-website - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 26 | 23 | 
 | 2023-02-01 | 26 | 23 | 
 | 2023-01-31 | 26 | 23 | 
 | 2023-01-29 | 26 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 26 | 23 | 
 | 2023-01-04 | 26 | 23 | 
 | 2023-01-03 | 26 | 23 | 
-| 2023-01-02 | 26 | 23 | 
 

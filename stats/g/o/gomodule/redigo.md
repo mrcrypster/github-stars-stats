@@ -1,10 +1,10 @@
 # gomodule/redigo - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1265
 
-★ Stars: 9412
+★ Stars: 9410
 
 [Open repository](https://github.com/gomodule/redigo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 9410 | 1265 | 
 | 2023-01-31 | 9412 | 1265 | 
 | 2023-01-30 | 9412 | 1265 | 
 | 2023-01-29 | 9410 | 1264 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 9398 | 1267 | 
 | 2023-01-04 | 9396 | 1267 | 
 | 2023-01-03 | 9396 | 1266 | 
-| 2023-01-02 | 9395 | 1266 | 
 

@@ -1,10 +1,10 @@
 # thecloudcircle/graphster - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/thecloudcircle/graphster)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 157 | 12 | 
 | 2023-01-31 | 156 | 12 | 
 | 2023-01-30 | 156 | 12 | 
 | 2023-01-29 | 156 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 158 | 12 | 
 | 2023-01-04 | 159 | 12 | 
 | 2023-01-03 | 159 | 12 | 
-| 2023-01-02 | 159 | 12 | 
 

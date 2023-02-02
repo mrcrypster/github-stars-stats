@@ -1,10 +1,10 @@
 # renancaraujo/glow_stuff_with_flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 11
 
-★ Stars: 128
+★ Stars: 130
 
 [Open repository](https://github.com/renancaraujo/glow_stuff_with_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 130 | 11 | 
 | 2023-01-31 | 128 | 11 | 
 | 2023-01-30 | 128 | 10 | 
 | 2023-01-29 | 127 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 106 | 9 | 
 | 2023-01-05 | 106 | 8 | 
 | 2023-01-04 | 105 | 8 | 
-| 2023-01-03 | 105 | 8 | 
 

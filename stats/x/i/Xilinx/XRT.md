@@ -1,10 +1,10 @@
 # Xilinx/XRT - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 390
+☋ Forks: 389
 
-★ Stars: 415
+★ Stars: 414
 
 [Open repository](https://github.com/Xilinx/XRT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 414 | 389 | 
 | 2023-01-31 | 415 | 390 | 
 | 2023-01-30 | 414 | 390 | 
 | 2023-01-28 | 414 | 390 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 412 | 388 | 
 | 2023-01-05 | 412 | 388 | 
 | 2023-01-04 | 412 | 388 | 
-| 2023-01-03 | 412 | 388 | 
 

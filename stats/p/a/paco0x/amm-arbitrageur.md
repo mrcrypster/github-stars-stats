@@ -1,10 +1,10 @@
 # paco0x/amm-arbitrageur - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 606
+☋ Forks: 607
 
-★ Stars: 1421
+★ Stars: 1422
 
 [Open repository](https://github.com/paco0x/amm-arbitrageur)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1422 | 607 | 
 | 2023-01-31 | 1421 | 606 | 
 | 2023-01-30 | 1420 | 605 | 
 | 2023-01-29 | 1420 | 605 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1395 | 593 | 
 | 2023-01-04 | 1394 | 591 | 
 | 2023-01-03 | 1393 | 589 | 
-| 2023-01-02 | 1392 | 589 | 
 

@@ -1,10 +1,10 @@
 # datawhalechina/thorough-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 799
+★ Stars: 800
 
 [Open repository](https://github.com/datawhalechina/thorough-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 800 | 218 | 
 | 2023-01-31 | 799 | 217 | 
 | 2023-01-30 | 798 | 217 | 
 | 2023-01-29 | 797 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 780 | 214 | 
 | 2023-01-05 | 777 | 214 | 
 | 2023-01-04 | 775 | 215 | 
-| 2023-01-03 | 775 | 215 | 
 

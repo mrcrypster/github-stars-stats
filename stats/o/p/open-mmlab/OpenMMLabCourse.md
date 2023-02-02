@@ -1,10 +1,10 @@
 # open-mmlab/OpenMMLabCourse - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 412
+★ Stars: 417
 
 [Open repository](https://github.com/open-mmlab/OpenMMLabCourse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 417 | 67 | 
 | 2023-01-31 | 412 | 66 | 
 | 2023-01-30 | 408 | 65 | 
 | 2023-01-29 | 405 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 382 | 62 | 
 | 2023-01-04 | 382 | 62 | 
 | 2023-01-03 | 380 | 62 | 
-| 2023-01-02 | 375 | 61 | 
 

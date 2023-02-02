@@ -1,10 +1,10 @@
 # chvin/react-tetris - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1753
+☋ Forks: 1755
 
-★ Stars: 7350
+★ Stars: 7354
 
 [Open repository](https://github.com/chvin/react-tetris)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 7354 | 1755 | 
 | 2023-01-31 | 7350 | 1753 | 
 | 2023-01-30 | 7350 | 1752 | 
 | 2023-01-29 | 7348 | 1752 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 7332 | 1747 | 
 | 2023-01-04 | 7329 | 1747 | 
 | 2023-01-03 | 7329 | 1746 | 
-| 2023-01-02 | 7326 | 1744 | 
 

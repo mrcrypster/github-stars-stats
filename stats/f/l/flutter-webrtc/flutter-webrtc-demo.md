@@ -1,10 +1,10 @@
 # flutter-webrtc/flutter-webrtc-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 380
+☋ Forks: 381
 
-★ Stars: 984
+★ Stars: 985
 
 [Open repository](https://github.com/flutter-webrtc/flutter-webrtc-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 985 | 381 | 
 | 2023-01-31 | 984 | 380 | 
 | 2023-01-30 | 983 | 380 | 
 | 2023-01-29 | 982 | 380 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 978 | 373 | 
 | 2023-01-04 | 977 | 373 | 
 | 2023-01-03 | 977 | 373 | 
-| 2023-01-02 | 977 | 373 | 
 

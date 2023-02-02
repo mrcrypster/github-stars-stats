@@ -1,6 +1,6 @@
 # IBM/docker-hive - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 61 | 34 | 
 | 2023-02-01 | 61 | 34 | 
 | 2023-01-30 | 60 | 34 | 
 | 2023-01-29 | 60 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 58 | 34 | 
 | 2023-01-04 | 58 | 34 | 
 | 2023-01-03 | 57 | 34 | 
-| 2023-01-02 | 57 | 34 | 
 

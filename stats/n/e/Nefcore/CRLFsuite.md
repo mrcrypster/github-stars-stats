@@ -1,6 +1,6 @@
 # Nefcore/CRLFsuite - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 345 | 61 | 
 | 2023-01-31 | 345 | 61 | 
 | 2023-01-30 | 345 | 61 | 
 | 2023-01-29 | 345 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 340 | 61 | 
 | 2023-01-04 | 340 | 61 | 
 | 2023-01-03 | 339 | 61 | 
-| 2023-01-02 | 339 | 61 | 
 

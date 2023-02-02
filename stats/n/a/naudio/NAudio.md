@@ -1,10 +1,10 @@
 # naudio/NAudio - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1023
 
-★ Stars: 4410
+★ Stars: 4415
 
 [Open repository](https://github.com/naudio/NAudio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 4415 | 1023 | 
 | 2023-01-31 | 4410 | 1023 | 
 | 2023-01-30 | 4403 | 1022 | 
 | 2023-01-29 | 4400 | 1021 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 4363 | 1021 | 
 | 2023-01-04 | 4360 | 1021 | 
 | 2023-01-03 | 4353 | 1022 | 
-| 2023-01-02 | 4347 | 1021 | 
 

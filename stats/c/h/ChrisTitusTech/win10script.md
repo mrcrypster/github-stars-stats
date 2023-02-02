@@ -1,10 +1,10 @@
 # ChrisTitusTech/win10script - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1108
 
-★ Stars: 3392
+★ Stars: 3395
 
 [Open repository](https://github.com/ChrisTitusTech/win10script)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3395 | 1108 | 
 | 2023-01-31 | 3392 | 1108 | 
 | 2023-01-30 | 3392 | 1107 | 
 | 2023-01-29 | 3392 | 1107 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 3395 | 1104 | 
 | 2023-01-04 | 3395 | 1104 | 
 | 2023-01-03 | 3393 | 1104 | 
-| 2023-01-02 | 3393 | 1104 | 
 

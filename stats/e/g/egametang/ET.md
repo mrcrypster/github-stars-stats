@@ -1,10 +1,10 @@
 # egametang/ET - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 2445
+☋ Forks: 2446
 
-★ Stars: 6622
+★ Stars: 6625
 
 [Open repository](https://github.com/egametang/ET)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 6622 | 2445 | 
+| 2023-02-02 | 6625 | 2446 | 
+| 2023-02-01 | 6624 | 2446 | 
 | 2023-01-30 | 6615 | 2444 | 
 | 2023-01-29 | 6611 | 2445 | 
 | 2023-01-28 | 6607 | 2445 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 6545 | 2433 | 
 | 2023-01-04 | 6542 | 2433 | 
 | 2023-01-03 | 6535 | 2431 | 
-| 2023-01-02 | 6532 | 2430 | 
 

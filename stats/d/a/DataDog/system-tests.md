@@ -1,10 +1,10 @@
 # DataDog/system-tests - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/DataDog/system-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 12 | 4 | 
 | 2023-01-31 | 13 | 4 | 
 | 2023-01-29 | 13 | 4 | 
 | 2023-01-28 | 13 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 11 | 3 | 
 | 2023-01-04 | 11 | 3 | 
 | 2023-01-03 | 11 | 3 | 
-| 2023-01-02 | 11 | 3 | 
 

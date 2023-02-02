@@ -1,10 +1,10 @@
 # jonathandata1/pegasus_spyware - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 449
 
-★ Stars: 1631
+★ Stars: 1632
 
 [Open repository](https://github.com/jonathandata1/pegasus_spyware)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1632 | 449 | 
 | 2023-01-31 | 1631 | 449 | 
 | 2023-01-30 | 1630 | 449 | 
 | 2023-01-29 | 1628 | 449 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1612 | 447 | 
 | 2023-01-04 | 1612 | 446 | 
 | 2023-01-03 | 1612 | 446 | 
-| 2023-01-02 | 1610 | 446 | 
 

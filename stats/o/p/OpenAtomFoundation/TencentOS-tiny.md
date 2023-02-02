@@ -1,10 +1,10 @@
 # OpenAtomFoundation/TencentOS-tiny - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1513
+☋ Forks: 1515
 
-★ Stars: 5769
+★ Stars: 5770
 
 [Open repository](https://github.com/OpenAtomFoundation/TencentOS-tiny)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5770 | 1515 | 
 | 2023-01-31 | 5769 | 1513 | 
 | 2023-01-30 | 5768 | 1513 | 
 | 2023-01-29 | 5768 | 1512 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 5760 | 1508 | 
 | 2023-01-04 | 5759 | 1507 | 
 | 2023-01-03 | 5761 | 1507 | 
-| 2023-01-02 | 5761 | 1507 | 
 

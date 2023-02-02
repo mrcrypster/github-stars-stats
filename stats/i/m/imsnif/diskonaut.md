@@ -1,10 +1,10 @@
 # imsnif/diskonaut - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 55
 
-★ Stars: 1625
+★ Stars: 1628
 
 [Open repository](https://github.com/imsnif/diskonaut)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1628 | 55 | 
 | 2023-01-31 | 1625 | 55 | 
 | 2023-01-30 | 1624 | 55 | 
 | 2023-01-29 | 1624 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1597 | 54 | 
 | 2023-01-04 | 1597 | 54 | 
 | 2023-01-03 | 1597 | 54 | 
-| 2023-01-02 | 1597 | 54 | 
 

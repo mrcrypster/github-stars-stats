@@ -1,10 +1,10 @@
 # import-js/eslint-plugin-import - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1471
+☋ Forks: 1473
 
-★ Stars: 4576
+★ Stars: 4578
 
 [Open repository](https://github.com/import-js/eslint-plugin-import)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 4578 | 1473 | 
 | 2023-01-31 | 4576 | 1471 | 
 | 2023-01-30 | 4574 | 1470 | 
 | 2023-01-28 | 4573 | 1470 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 4516 | 1463 | 
 | 2023-01-04 | 4514 | 1464 | 
 | 2023-01-03 | 4509 | 1458 | 
-| 2023-01-02 | 4502 | 1458 | 
 

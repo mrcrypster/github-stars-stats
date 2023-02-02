@@ -1,10 +1,10 @@
 # moby/moby - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 18473
+☋ Forks: 18472
 
-★ Stars: 65002
+★ Stars: 65007
 
 [Open repository](https://github.com/moby/moby)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 65007 | 18472 | 
 | 2023-01-31 | 65002 | 18473 | 
 | 2023-01-30 | 64995 | 18467 | 
 | 2023-01-29 | 64993 | 18465 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 64857 | 18451 | 
 | 2023-01-04 | 64845 | 18443 | 
 | 2023-01-03 | 64837 | 18444 | 
-| 2023-01-02 | 64829 | 18441 | 
 

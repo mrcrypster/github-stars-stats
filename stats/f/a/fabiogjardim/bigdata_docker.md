@@ -1,10 +1,10 @@
 # fabiogjardim/bigdata_docker - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 219
 
-★ Stars: 282
+★ Stars: 284
 
 [Open repository](https://github.com/fabiogjardim/bigdata_docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 284 | 219 | 
 | 2023-01-31 | 282 | 219 | 
 | 2023-01-30 | 282 | 220 | 
 | 2023-01-29 | 281 | 220 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 278 | 216 | 
 | 2023-01-05 | 278 | 216 | 
 | 2023-01-04 | 278 | 216 | 
-| 2023-01-03 | 278 | 216 | 
 

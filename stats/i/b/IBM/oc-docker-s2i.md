@@ -1,8 +1,8 @@
 # IBM/oc-docker-s2i - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 108
+☋ Forks: 111
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | - | 111 | 
 | 2023-01-31 | - | 108 | 
 | 2023-01-29 | - | 107 | 
 | 2023-01-28 | - | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | - | 101 | 
 | 2023-01-04 | - | 101 | 
 | 2023-01-03 | - | 101 | 
-| 2023-01-02 | - | 101 | 
 

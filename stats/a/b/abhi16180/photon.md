@@ -1,10 +1,10 @@
 # abhi16180/photon - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 26
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/abhi16180/photon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 234 | 26 | 
 | 2023-01-31 | 233 | 26 | 
 | 2023-01-30 | 233 | 26 | 
 | 2023-01-29 | 228 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 162 | 24 | 
 | 2023-01-04 | 161 | 24 | 
 | 2023-01-03 | 161 | 24 | 
-| 2023-01-02 | 161 | 23 | 
 

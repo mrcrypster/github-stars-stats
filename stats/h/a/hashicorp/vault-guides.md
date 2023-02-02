@@ -1,8 +1,8 @@
 # hashicorp/vault-guides - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 569
+☋ Forks: 570
 
 ★ Stars: 920
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 920 | 570 | 
 | 2023-01-31 | 920 | 569 | 
 | 2023-01-30 | 920 | 568 | 
 | 2023-01-28 | 920 | 568 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 917 | 563 | 
 | 2023-01-05 | 916 | 562 | 
 | 2023-01-04 | 916 | 560 | 
-| 2023-01-02 | 915 | 560 | 
 

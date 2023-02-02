@@ -1,10 +1,10 @@
 # terry3041/pyChatGPT - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 149
 
-★ Stars: 759
+★ Stars: 769
 
 [Open repository](https://github.com/terry3041/pyChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 769 | 149 | 
 | 2023-01-31 | 759 | 149 | 
 | 2023-01-30 | 755 | 149 | 
 | 2023-01-29 | 746 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 514 | 96 | 
 | 2023-01-04 | 501 | 94 | 
 | 2023-01-03 | 492 | 93 | 
-| 2023-01-02 | 478 | 90 | 
 

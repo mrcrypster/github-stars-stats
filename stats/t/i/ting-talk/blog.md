@@ -1,10 +1,10 @@
 # ting-talk/blog - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 13
 
-★ Stars: 105
+★ Stars: 108
 
 [Open repository](https://github.com/ting-talk/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 108 | 13 | 
 | 2023-01-31 | 105 | 13 | 
 | 2023-01-30 | 105 | 13 | 
 | 2023-01-29 | 105 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 103 | 13 | 
 | 2023-01-04 | 102 | 13 | 
 | 2023-01-03 | 102 | 13 | 
-| 2023-01-02 | 101 | 13 | 
 

@@ -1,6 +1,6 @@
 # ElvisQin/thegibook - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 891 | 141 | 
 | 2023-01-31 | 891 | 141 | 
 | 2023-01-30 | 889 | 141 | 
 | 2023-01-29 | 889 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 884 | 139 | 
 | 2023-01-05 | 883 | 139 | 
 | 2023-01-04 | 883 | 139 | 
-| 2023-01-03 | 883 | 137 | 
 

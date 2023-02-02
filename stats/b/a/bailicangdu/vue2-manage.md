@@ -1,10 +1,10 @@
 # bailicangdu/vue2-manage - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 4216
+☋ Forks: 4217
 
-★ Stars: 12494
+★ Stars: 12499
 
 [Open repository](https://github.com/bailicangdu/vue2-manage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 12499 | 4217 | 
 | 2023-01-31 | 12494 | 4216 | 
 | 2023-01-30 | 12489 | 4214 | 
 | 2023-01-29 | 12488 | 4216 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 12467 | 4216 | 
 | 2023-01-04 | 12463 | 4216 | 
 | 2023-01-03 | 12462 | 4216 | 
-| 2023-01-02 | 12462 | 4214 | 
 

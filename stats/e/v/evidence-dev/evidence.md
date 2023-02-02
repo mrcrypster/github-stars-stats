@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 01
 
 ☋ Forks: 73
 
-★ Stars: 965
+★ Stars: 966
 
 [Open repository](https://github.com/evidence-dev/evidence)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 965 | 73 | 
+| 2023-02-01 | 966 | 73 | 
 | 2023-01-31 | 965 | 73 | 
 | 2023-01-30 | 961 | 73 | 
 | 2023-01-29 | 953 | 73 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 932 | 69 | 
 | 2023-01-04 | 932 | 69 | 
 | 2023-01-03 | 930 | 69 | 
-| 2023-01-02 | 930 | 69 | 
 

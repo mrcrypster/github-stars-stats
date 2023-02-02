@@ -1,10 +1,10 @@
 # lando/lando - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 545
 
-★ Stars: 3636
+★ Stars: 3637
 
 [Open repository](https://github.com/lando/lando)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3637 | 545 | 
 | 2023-01-31 | 3636 | 545 | 
 | 2023-01-29 | 3634 | 545 | 
 | 2023-01-28 | 3633 | 545 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 3614 | 544 | 
 | 2023-01-05 | 3612 | 544 | 
 | 2023-01-04 | 3612 | 544 | 
-| 2023-01-03 | 3611 | 544 | 
 

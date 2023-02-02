@@ -1,8 +1,8 @@
 # mgwidmann/scrivener_html - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 180
+☋ Forks: 181
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 120 | 181 | 
 | 2023-01-31 | 120 | 180 | 
 | 2023-01-30 | 120 | 180 | 
 | 2023-01-29 | 120 | 180 | 

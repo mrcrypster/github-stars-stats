@@ -1,10 +1,10 @@
 # ruanyf/weekly - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 2125
+☋ Forks: 2126
 
-★ Stars: 28932
+★ Stars: 28958
 
 [Open repository](https://github.com/ruanyf/weekly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 28958 | 2126 | 
 | 2023-01-31 | 28932 | 2125 | 
 | 2023-01-30 | 28914 | 2124 | 
 | 2023-01-29 | 28896 | 2122 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 28646 | 2099 | 
 | 2023-01-04 | 28636 | 2098 | 
 | 2023-01-03 | 28624 | 2099 | 
-| 2023-01-02 | 28617 | 2100 | 
 

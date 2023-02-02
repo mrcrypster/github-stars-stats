@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 01
 
-☋ Forks: 859
+☋ Forks: 861
 
-★ Stars: 2670
+★ Stars: 2674
 
 [Open repository](https://github.com/vuejs/router)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 2670 | 859 | 
+| 2023-02-01 | 2674 | 861 | 
 | 2023-01-31 | 2670 | 859 | 
 | 2023-01-30 | 2669 | 858 | 
 | 2023-01-29 | 2664 | 857 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 2622 | 834 | 
 | 2023-01-04 | 2619 | 833 | 
 | 2023-01-03 | 2616 | 832 | 
-| 2023-01-02 | 2614 | 830 | 
 

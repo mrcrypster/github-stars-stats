@@ -1,10 +1,10 @@
 # karma9874/AndroRAT - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 634
+☋ Forks: 633
 
-★ Stars: 1554
+★ Stars: 1555
 
 [Open repository](https://github.com/karma9874/AndroRAT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1555 | 633 | 
 | 2023-01-31 | 1554 | 634 | 
 | 2023-01-30 | 1553 | 633 | 
 | 2023-01-29 | 1549 | 630 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1476 | 598 | 
 | 2023-01-04 | 1472 | 596 | 
 | 2023-01-03 | 1466 | 592 | 
-| 2023-01-02 | 1463 | 590 | 
 

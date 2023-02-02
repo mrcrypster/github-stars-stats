@@ -1,10 +1,10 @@
 # WowLegacyCore/HermesProxy - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 48
 
-★ Stars: 138
+★ Stars: 137
 
 [Open repository](https://github.com/WowLegacyCore/HermesProxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 137 | 48 | 
 | 2023-01-31 | 138 | 48 | 
 | 2023-01-30 | 138 | 47 | 
 | 2023-01-29 | 134 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 123 | 48 | 
 | 2023-01-04 | 123 | 48 | 
 | 2023-01-03 | 123 | 48 | 
-| 2023-01-02 | 122 | 47 | 
 

@@ -1,10 +1,10 @@
 # themeselection/sneat-html-laravel-admin-template-free - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 55
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/themeselection/sneat-html-laravel-admin-template-free)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 178 | 55 | 
 | 2023-01-31 | 177 | 55 | 
 | 2023-01-30 | 177 | 55 | 
 | 2023-01-29 | 177 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 171 | 48 | 
 | 2023-01-04 | 169 | 48 | 
 | 2023-01-03 | 169 | 48 | 
-| 2023-01-02 | 169 | 48 | 
 

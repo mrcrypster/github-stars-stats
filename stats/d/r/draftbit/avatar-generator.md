@@ -1,6 +1,6 @@
 # draftbit/avatar-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1135 | 110 | 
 | 2023-01-31 | 1135 | 110 | 
 | 2023-01-30 | 1136 | 109 | 
 | 2023-01-28 | 1135 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 1125 | 109 | 
 | 2023-01-05 | 1125 | 109 | 
 | 2023-01-04 | 1125 | 109 | 
-| 2023-01-03 | 1124 | 109 | 
 

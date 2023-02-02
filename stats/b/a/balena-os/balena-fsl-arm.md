@@ -1,10 +1,10 @@
 # balena-os/balena-fsl-arm - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 7
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/balena-os/balena-fsl-arm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5 | 7 | 
 | 2023-01-31 | 6 | 7 | 
 | 2023-01-30 | 6 | 7 | 
 | 2023-01-29 | 6 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 6 | 7 | 
 | 2023-01-04 | 6 | 7 | 
 | 2023-01-03 | 6 | 7 | 
-| 2023-01-02 | 6 | 7 | 
 

@@ -1,10 +1,10 @@
 # running-libo/Tiktok - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 586
+☋ Forks: 587
 
-★ Stars: 2063
+★ Stars: 2064
 
 [Open repository](https://github.com/running-libo/Tiktok)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2064 | 587 | 
 | 2023-01-31 | 2063 | 586 | 
 | 2023-01-30 | 2059 | 585 | 
 | 2023-01-29 | 2058 | 585 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 2048 | 582 | 
 | 2023-01-05 | 2047 | 583 | 
 | 2023-01-04 | 2045 | 583 | 
-| 2023-01-03 | 2045 | 583 | 
 

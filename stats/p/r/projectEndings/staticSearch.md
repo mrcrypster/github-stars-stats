@@ -1,10 +1,10 @@
 # projectEndings/staticSearch - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 19
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/projectEndings/staticSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 38 | 19 | 
 | 2023-01-31 | 36 | 19 | 
 | 2023-01-30 | 36 | 19 | 
 | 2023-01-29 | 36 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 36 | 19 | 
 | 2023-01-04 | 36 | 19 | 
 | 2023-01-03 | 36 | 19 | 
-| 2023-01-02 | 36 | 19 | 
 

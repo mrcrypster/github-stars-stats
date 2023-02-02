@@ -1,6 +1,6 @@
 # AbdesamedBendjeddou/Rusty-CS - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 630 | 31 | 
 | 2023-01-31 | 630 | 31 | 
 | 2023-01-30 | 630 | 31 | 
 | 2023-01-29 | 630 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 613 | 32 | 
 | 2023-01-04 | 613 | 32 | 
 | 2023-01-03 | 610 | 32 | 
-| 2023-01-02 | 609 | 32 | 
 

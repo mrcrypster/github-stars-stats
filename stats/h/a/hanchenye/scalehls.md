@@ -1,10 +1,10 @@
 # hanchenye/scalehls - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/hanchenye/scalehls)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 121 | 25 | 
 | 2023-01-31 | 120 | 25 | 
 | 2023-01-30 | 121 | 25 | 
 | 2023-01-29 | 121 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 114 | 25 | 
 | 2023-01-04 | 113 | 25 | 
 | 2023-01-03 | 112 | 24 | 
-| 2023-01-02 | 112 | 24 | 
 

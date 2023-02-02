@@ -1,10 +1,10 @@
 # ivan-sincek/penetration-testing-cheat-sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 85
 
-★ Stars: 360
+★ Stars: 361
 
 [Open repository](https://github.com/ivan-sincek/penetration-testing-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 361 | 85 | 
 | 2023-01-31 | 360 | 85 | 
 | 2023-01-30 | 360 | 85 | 
 | 2023-01-29 | 359 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 345 | 81 | 
 | 2023-01-04 | 345 | 80 | 
 | 2023-01-03 | 344 | 80 | 
-| 2023-01-02 | 344 | 80 | 
 

@@ -1,6 +1,6 @@
 # javtube/javtube-sdk-go - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 476 | 50 | 
 | 2023-01-31 | 476 | 50 | 
 | 2023-01-30 | 475 | 50 | 
 | 2023-01-29 | 476 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 466 | 46 | 
 | 2023-01-04 | 466 | 46 | 
 | 2023-01-03 | 466 | 46 | 
-| 2023-01-02 | 465 | 46 | 
 

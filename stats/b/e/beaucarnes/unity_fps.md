@@ -1,8 +1,8 @@
 # beaucarnes/unity_fps - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 716
+☋ Forks: 717
 
 ★ Stars: 191
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 191 | 717 | 
 | 2023-01-31 | 191 | 716 | 
 | 2023-01-30 | 191 | 716 | 
 | 2023-01-29 | 191 | 716 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 191 | 715 | 
 | 2023-01-04 | 191 | 715 | 
 | 2023-01-03 | 191 | 714 | 
-| 2023-01-02 | 191 | 714 | 
 

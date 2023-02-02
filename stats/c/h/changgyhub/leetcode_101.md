@@ -1,10 +1,10 @@
 # changgyhub/leetcode_101 - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1046
 
-★ Stars: 7044
+★ Stars: 7049
 
 [Open repository](https://github.com/changgyhub/leetcode_101)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 7049 | 1046 | 
 | 2023-01-31 | 7044 | 1046 | 
 | 2023-01-30 | 7041 | 1046 | 
 | 2023-01-28 | 7038 | 1046 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 6987 | 1042 | 
 | 2023-01-05 | 6984 | 1041 | 
 | 2023-01-04 | 6980 | 1041 | 
-| 2023-01-02 | 6978 | 1041 | 
 

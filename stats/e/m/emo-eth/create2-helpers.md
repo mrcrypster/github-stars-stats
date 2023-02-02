@@ -1,10 +1,10 @@
 # emo-eth/create2-helpers - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 35
 
 [Open repository](https://github.com/emo-eth/create2-helpers)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 35 | 2 | 
 | 2023-01-31 | 36 | 2 | 
 | 2023-01-30 | 36 | 2 | 
 | 2023-01-29 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 34 | 2 | 
 | 2023-01-04 | 34 | 2 | 
 | 2023-01-03 | 34 | 2 | 
-| 2023-01-02 | 34 | 2 | 
 

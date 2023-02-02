@@ -1,10 +1,10 @@
 # opuntiaOS-Project/opuntiaOS - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 29
 
-★ Stars: 592
+★ Stars: 593
 
 [Open repository](https://github.com/opuntiaOS-Project/opuntiaOS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 593 | 29 | 
 | 2023-01-31 | 592 | 29 | 
 | 2023-01-30 | 592 | 29 | 
 | 2023-01-29 | 591 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 578 | 28 | 
 | 2023-01-04 | 577 | 28 | 
 | 2023-01-03 | 576 | 28 | 
-| 2023-01-02 | 576 | 28 | 
 

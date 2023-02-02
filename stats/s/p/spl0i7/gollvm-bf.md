@@ -1,6 +1,6 @@
 # spl0i7/gollvm-bf - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 10 | 2 | 
 | 2023-01-31 | 10 | 2 | 
 | 2023-01-30 | 10 | 2 | 
 | 2023-01-29 | 10 | 2 | 

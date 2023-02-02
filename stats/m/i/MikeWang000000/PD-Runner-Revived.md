@@ -1,10 +1,10 @@
 # MikeWang000000/PD-Runner-Revived - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 267
 
-★ Stars: 1115
+★ Stars: 1114
 
 [Open repository](https://github.com/MikeWang000000/PD-Runner-Revived)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1114 | 267 | 
 | 2023-01-31 | 1115 | 267 | 
 | 2023-01-30 | 1115 | 267 | 
 | 2023-01-29 | 1113 | 267 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1084 | 352 | 
 | 2023-01-04 | 1079 | 350 | 
 | 2023-01-03 | 1078 | 350 | 
-| 2023-01-02 | 1069 | 349 | 
 

@@ -1,6 +1,6 @@
 # marklcrns/vim-smartq - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 43 | - | 
 | 2023-01-31 | 43 | - | 
 | 2023-01-30 | 43 | - | 
 | 2023-01-28 | 43 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 40 | - | 
 | 2023-01-05 | 40 | - | 
 | 2023-01-03 | 40 | - | 
-| 2023-01-02 | 40 | - | 
 

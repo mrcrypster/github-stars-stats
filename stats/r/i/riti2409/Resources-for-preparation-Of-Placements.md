@@ -1,10 +1,10 @@
 # riti2409/Resources-for-preparation-Of-Placements - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 510
 
-★ Stars: 1759
+★ Stars: 1760
 
 [Open repository](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1760 | 510 | 
 | 2023-01-31 | 1759 | 510 | 
 | 2023-01-30 | 1759 | 510 | 
 | 2023-01-29 | 1758 | 510 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1657 | 491 | 
 | 2023-01-04 | 1657 | 490 | 
 | 2023-01-03 | 1654 | 490 | 
-| 2023-01-02 | 1651 | 489 | 
 

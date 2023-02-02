@@ -1,8 +1,8 @@
 # JusticeRage/Manalyze - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 162
+☋ Forks: 161
 
 ★ Stars: 895
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 895 | 161 | 
 | 2023-01-31 | 895 | 162 | 
 | 2023-01-30 | 895 | 162 | 
 | 2023-01-29 | 895 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 891 | 162 | 
 | 2023-01-04 | 891 | 162 | 
 | 2023-01-03 | 889 | 162 | 
-| 2023-01-02 | 889 | 162 | 
 

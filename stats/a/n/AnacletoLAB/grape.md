@@ -1,10 +1,10 @@
 # AnacletoLAB/grape - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 20
 
-★ Stars: 213
+★ Stars: 216
 
 [Open repository](https://github.com/AnacletoLAB/grape)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 216 | 20 | 
 | 2023-01-31 | 213 | 20 | 
 | 2023-01-30 | 209 | 20 | 
 | 2023-01-29 | 209 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 202 | 20 | 
 | 2023-01-04 | 201 | 20 | 
 | 2023-01-03 | 201 | 20 | 
-| 2023-01-02 | 200 | 20 | 
 

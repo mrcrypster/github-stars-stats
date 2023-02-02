@@ -1,10 +1,10 @@
 # ifmeorg/ifme - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 730
 
-★ Stars: 1361
+★ Stars: 1362
 
 [Open repository](https://github.com/ifmeorg/ifme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1362 | 730 | 
 | 2023-01-31 | 1361 | 730 | 
 | 2023-01-30 | 1361 | 730 | 
 | 2023-01-29 | 1359 | 730 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1355 | 728 | 
 | 2023-01-04 | 1355 | 729 | 
 | 2023-01-03 | 1355 | 729 | 
-| 2023-01-02 | 1354 | 728 | 
 

@@ -1,10 +1,10 @@
 # swarm-game/swarm - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 35
 
-★ Stars: 674
+★ Stars: 675
 
 [Open repository](https://github.com/swarm-game/swarm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 675 | 35 | 
 | 2023-01-31 | 674 | 35 | 
 | 2023-01-30 | 674 | 35 | 
 | 2023-01-29 | 672 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 668 | 35 | 
 | 2023-01-05 | 664 | 35 | 
 | 2023-01-04 | 661 | 35 | 
-| 2023-01-02 | 661 | 36 | 
 

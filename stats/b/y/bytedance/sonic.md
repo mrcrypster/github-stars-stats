@@ -1,10 +1,10 @@
 # bytedance/sonic - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 192
 
-★ Stars: 3967
+★ Stars: 3969
 
 [Open repository](https://github.com/bytedance/sonic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3969 | 192 | 
 | 2023-01-31 | 3967 | 192 | 
 | 2023-01-30 | 3966 | 192 | 
 | 2023-01-29 | 3956 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 3887 | 186 | 
 | 2023-01-04 | 3880 | 185 | 
 | 2023-01-03 | 3872 | 185 | 
-| 2023-01-02 | 3871 | 185 | 
 

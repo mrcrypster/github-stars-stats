@@ -1,6 +1,6 @@
 # actions/download-artifact - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 319
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 860 | 319 | 
 | 2023-01-31 | 860 | 319 | 
 | 2023-01-30 | 858 | 319 | 
 | 2023-01-29 | 856 | 319 | 

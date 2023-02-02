@@ -1,10 +1,10 @@
 # nightmare-space/speed_share - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 64
 
-★ Stars: 518
+★ Stars: 519
 
 [Open repository](https://github.com/nightmare-space/speed_share)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 519 | 64 | 
 | 2023-01-31 | 518 | 64 | 
 | 2023-01-30 | 515 | 63 | 
 | 2023-01-28 | 511 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 479 | 61 | 
 | 2023-01-04 | 477 | 61 | 
 | 2023-01-03 | 477 | 61 | 
-| 2023-01-02 | 477 | 61 | 
 

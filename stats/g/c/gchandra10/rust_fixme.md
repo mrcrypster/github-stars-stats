@@ -1,6 +1,6 @@
 # gchandra10/rust_fixme - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 48 | 57 | 
 | 2023-01-31 | 48 | 57 | 
 | 2023-01-30 | 48 | 57 | 
 | 2023-01-29 | 48 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 48 | 58 | 
 | 2023-01-04 | 48 | 58 | 
 | 2023-01-03 | 48 | 58 | 
-| 2023-01-02 | 48 | 58 | 
 

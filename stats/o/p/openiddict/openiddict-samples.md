@@ -1,10 +1,10 @@
 # openiddict/openiddict-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 234
 
-★ Stars: 498
+★ Stars: 497
 
 [Open repository](https://github.com/openiddict/openiddict-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 497 | 234 | 
 | 2023-01-31 | 498 | 234 | 
 | 2023-01-30 | 498 | 233 | 
 | 2023-01-29 | 498 | 233 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 491 | 229 | 
 | 2023-01-04 | 491 | 229 | 
 | 2023-01-03 | 491 | 229 | 
-| 2023-01-02 | 491 | 229 | 
 

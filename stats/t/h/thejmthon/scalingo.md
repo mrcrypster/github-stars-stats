@@ -1,10 +1,10 @@
 # thejmthon/scalingo - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 5
+★ Stars: 3
 
 [Open repository](https://github.com/thejmthon/scalingo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3 | 8 | 
 | 2023-01-31 | 5 | 8 | 
 | 2023-01-30 | 5 | 8 | 
 | 2023-01-29 | 5 | 8 | 

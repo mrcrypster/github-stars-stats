@@ -1,10 +1,10 @@
 # zkSNACKs/WasabiScripts - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/zkSNACKs/WasabiScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 8 | 2 | 
 | 2023-01-31 | 7 | 2 | 
 | 2023-01-29 | 7 | 2 | 
 | 2023-01-28 | 7 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 7 | 2 | 
 | 2023-01-04 | 7 | 2 | 
 | 2023-01-03 | 7 | 2 | 
-| 2023-01-02 | 7 | 2 | 
 

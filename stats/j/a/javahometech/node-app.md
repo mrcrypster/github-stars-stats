@@ -1,6 +1,6 @@
 # javahometech/node-app - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1274
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 43 | 1274 | 
 | 2023-01-31 | 43 | 1274 | 
 | 2023-01-30 | 43 | 1272 | 
 | 2023-01-29 | 43 | 1270 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 41 | 1257 | 
 | 2023-01-04 | 41 | 1257 | 
 | 2023-01-03 | 41 | 1256 | 
-| 2023-01-02 | 41 | 1253 | 
 

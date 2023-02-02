@@ -1,6 +1,6 @@
 # zehfernandes/wordnote - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 600 | 30 | 
 | 2023-01-31 | 600 | 30 | 
 | 2023-01-30 | 600 | 30 | 
 | 2023-01-29 | 600 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 597 | 30 | 
 | 2023-01-04 | 597 | 30 | 
 | 2023-01-03 | 598 | 30 | 
-| 2023-01-02 | 597 | 30 | 
 

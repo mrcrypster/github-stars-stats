@@ -1,10 +1,10 @@
 # p4gefau1t/trojan-go - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1329
 
-★ Stars: 5884
+★ Stars: 5891
 
 [Open repository](https://github.com/p4gefau1t/trojan-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5891 | 1329 | 
 | 2023-01-31 | 5884 | 1329 | 
 | 2023-01-30 | 5871 | 1328 | 
 | 2023-01-29 | 5867 | 1327 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 5744 | 1317 | 
 | 2023-01-04 | 5735 | 1316 | 
 | 2023-01-03 | 5723 | 1316 | 
-| 2023-01-02 | 5721 | 1314 | 
 

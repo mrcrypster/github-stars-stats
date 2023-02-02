@@ -1,6 +1,6 @@
 # md-siam/scalable_app_architecture - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 63 | 22 | 
 | 2023-01-31 | 63 | 22 | 
 | 2023-01-30 | 63 | 22 | 
 | 2023-01-29 | 63 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 62 | 22 | 
 | 2023-01-04 | 62 | 22 | 
 | 2023-01-03 | 62 | 22 | 
-| 2023-01-02 | 62 | 22 | 
 

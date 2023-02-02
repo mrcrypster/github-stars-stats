@@ -1,8 +1,8 @@
 # bazelbuild/rules_apple - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 201
+☋ Forks: 202
 
 ★ Stars: 365
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 365 | 202 | 
 | 2023-01-31 | 365 | 201 | 
 | 2023-01-30 | 365 | 201 | 
 | 2023-01-29 | 365 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 358 | 201 | 
 | 2023-01-04 | 358 | 201 | 
 | 2023-01-03 | 358 | 201 | 
-| 2023-01-02 | 358 | 201 | 
 

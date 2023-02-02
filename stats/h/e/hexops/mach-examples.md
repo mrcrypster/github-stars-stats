@@ -1,10 +1,10 @@
 # hexops/mach-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/hexops/mach-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 43 | 12 | 
 | 2023-01-31 | 44 | 12 | 
 | 2023-01-30 | 44 | 12 | 
 | 2023-01-29 | 44 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 41 | 11 | 
 | 2023-01-04 | 40 | 11 | 
 | 2023-01-03 | 40 | 11 | 
-| 2023-01-02 | 40 | 11 | 
 

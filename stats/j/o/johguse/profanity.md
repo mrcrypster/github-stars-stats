@@ -1,6 +1,6 @@
 # johguse/profanity - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 809 | 252 | 
 | 2023-01-31 | 809 | 252 | 
 | 2023-01-30 | 809 | 252 | 
 | 2023-01-29 | 808 | 248 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 803 | 241 | 
 | 2023-01-04 | 803 | 242 | 
 | 2023-01-03 | 803 | 241 | 
-| 2023-01-02 | 803 | 241 | 
 

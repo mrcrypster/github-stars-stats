@@ -1,10 +1,10 @@
 # transmission/transmission - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1018
+☋ Forks: 1020
 
-★ Stars: 8500
+★ Stars: 8501
 
 [Open repository](https://github.com/transmission/transmission)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 8501 | 1020 | 
 | 2023-01-31 | 8500 | 1018 | 
 | 2023-01-30 | 8489 | 1016 | 
 | 2023-01-29 | 8485 | 1017 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 8353 | 1012 | 
 | 2023-01-05 | 8350 | 1012 | 
 | 2023-01-04 | 8339 | 1012 | 
-| 2023-01-03 | 8331 | 1013 | 
 

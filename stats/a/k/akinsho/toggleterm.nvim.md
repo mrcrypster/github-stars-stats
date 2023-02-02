@@ -1,10 +1,10 @@
 # akinsho/toggleterm.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 112
+☋ Forks: 111
 
-★ Stars: 2153
+★ Stars: 2159
 
 [Open repository](https://github.com/akinsho/toggleterm.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2159 | 111 | 
 | 2023-01-31 | 2153 | 112 | 
 | 2023-01-30 | 2149 | 112 | 
 | 2023-01-29 | 2149 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2048 | 110 | 
 | 2023-01-04 | 2045 | 109 | 
 | 2023-01-03 | 2037 | 109 | 
-| 2023-01-02 | 2035 | 109 | 
 

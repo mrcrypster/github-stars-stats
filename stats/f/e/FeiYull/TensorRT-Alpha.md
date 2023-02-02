@@ -1,10 +1,10 @@
 # FeiYull/TensorRT-Alpha - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 57
+☋ Forks: 61
 
-★ Stars: 273
+★ Stars: 298
 
 [Open repository](https://github.com/FeiYull/TensorRT-Alpha)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 298 | 61 | 
 | 2023-01-31 | 273 | 57 | 
 | 2023-01-30 | 264 | 55 | 
 | 2023-01-29 | 254 | 50 | 

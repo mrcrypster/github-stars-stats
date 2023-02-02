@@ -1,6 +1,6 @@
 # YoYoGames/GameMaker-HTML5 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 156 | 25 | 
 | 2023-02-01 | 156 | 25 | 
 | 2023-01-30 | 157 | 25 | 
 | 2023-01-29 | 157 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 147 | 23 | 
 | 2023-01-04 | 147 | 23 | 
 | 2023-01-03 | 147 | 23 | 
-| 2023-01-02 | 148 | 23 | 
 

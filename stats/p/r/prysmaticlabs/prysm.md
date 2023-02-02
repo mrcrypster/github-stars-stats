@@ -1,6 +1,6 @@
 # prysmaticlabs/prysm - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 740
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2984 | 740 | 
 | 2023-01-31 | 2984 | 740 | 
 | 2023-01-30 | 2985 | 739 | 
 | 2023-01-29 | 2984 | 739 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2956 | 728 | 
 | 2023-01-04 | 2955 | 728 | 
 | 2023-01-03 | 2953 | 728 | 
-| 2023-01-02 | 2949 | 728 | 
 

@@ -1,6 +1,6 @@
 # bedimcode/responsive-portfolio-website-chris - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 67 | 40 | 
 | 2023-01-31 | 67 | 40 | 
 | 2023-01-30 | 66 | 39 | 
 | 2023-01-29 | 65 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 59 | 36 | 
 | 2023-01-04 | 59 | 35 | 
 | 2023-01-03 | 59 | 34 | 
-| 2023-01-02 | 59 | 34 | 
 

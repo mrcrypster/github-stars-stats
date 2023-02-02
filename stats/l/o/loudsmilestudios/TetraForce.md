@@ -1,6 +1,6 @@
 # loudsmilestudios/TetraForce - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 497 | 64 | 
 | 2023-01-31 | 497 | 64 | 
 | 2023-01-30 | 497 | 64 | 
 | 2023-01-29 | 497 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 495 | 64 | 
 | 2023-01-04 | 495 | 63 | 
 | 2023-01-03 | 495 | 63 | 
-| 2023-01-02 | 495 | 63 | 
 

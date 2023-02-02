@@ -1,10 +1,10 @@
 # GTA-ASM/SanAndreasUnity - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 272
+☋ Forks: 273
 
-★ Stars: 1534
+★ Stars: 1535
 
 [Open repository](https://github.com/GTA-ASM/SanAndreasUnity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1535 | 273 | 
 | 2023-01-31 | 1534 | 272 | 
 | 2023-01-30 | 1534 | 272 | 
 | 2023-01-29 | 1532 | 271 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1510 | 265 | 
 | 2023-01-04 | 1507 | 265 | 
 | 2023-01-03 | 1500 | 265 | 
-| 2023-01-02 | 1500 | 264 | 
 

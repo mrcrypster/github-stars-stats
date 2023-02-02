@@ -1,6 +1,6 @@
 # rmcelreath/PhD_planning_template - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 89 | 14 | 
 | 2023-01-31 | 89 | 14 | 
 | 2023-01-30 | 89 | 14 | 
 | 2023-01-28 | 89 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 88 | 14 | 
 | 2023-01-04 | 88 | 14 | 
 | 2023-01-03 | 88 | 14 | 
-| 2023-01-02 | 88 | 13 | 
 

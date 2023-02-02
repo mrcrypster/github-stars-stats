@@ -1,10 +1,10 @@
 # kristoff-it/bork - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 11
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/kristoff-it/bork)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 131 | 11 | 
 | 2023-01-31 | 130 | 11 | 
 | 2023-01-30 | 128 | 11 | 
 | 2023-01-29 | 127 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 124 | 11 | 
 | 2023-01-04 | 124 | 11 | 
 | 2023-01-03 | 124 | 11 | 
-| 2023-01-02 | 124 | 11 | 
 

@@ -1,10 +1,10 @@
 # RandalLinden/DOOM-FX - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 106
 
-★ Stars: 1120
+★ Stars: 1121
 
 [Open repository](https://github.com/RandalLinden/DOOM-FX)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1121 | 106 | 
 | 2023-01-31 | 1120 | 106 | 
 | 2023-01-30 | 1120 | 106 | 
 | 2023-01-29 | 1120 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1116 | 106 | 
 | 2023-01-04 | 1116 | 106 | 
 | 2023-01-03 | 1116 | 106 | 
-| 2023-01-02 | 1116 | 106 | 
 

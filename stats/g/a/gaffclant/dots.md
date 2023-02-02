@@ -1,10 +1,10 @@
 # gaffclant/dots - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 5
 
-★ Stars: 76
+★ Stars: 75
 
 [Open repository](https://github.com/gaffclant/dots)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 75 | 5 | 
 | 2023-01-31 | 76 | 5 | 
 | 2023-01-30 | 76 | 5 | 
 | 2023-01-29 | 75 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 74 | 5 | 
 | 2023-01-04 | 72 | 5 | 
 | 2023-01-03 | 72 | 5 | 
-| 2023-01-02 | 72 | 5 | 
 

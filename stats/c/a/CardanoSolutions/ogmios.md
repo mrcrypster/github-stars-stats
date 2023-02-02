@@ -1,8 +1,8 @@
 # CardanoSolutions/ogmios - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 254
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 254 | 70 | 
 | 2023-01-31 | 254 | 69 | 
 | 2023-01-30 | 254 | 69 | 
 | 2023-01-29 | 254 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 249 | 70 | 
 | 2023-01-04 | 249 | 70 | 
 | 2023-01-03 | 248 | 70 | 
-| 2023-01-02 | 248 | 70 | 
 

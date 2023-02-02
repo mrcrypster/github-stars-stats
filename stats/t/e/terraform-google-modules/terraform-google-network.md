@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-network - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1064
+☋ Forks: 1062
 
-★ Stars: 307
+★ Stars: 306
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-network)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 306 | 1062 | 
 | 2023-01-31 | 307 | 1064 | 
 | 2023-01-30 | 307 | 1061 | 
 | 2023-01-29 | 307 | 1060 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 300 | 1051 | 
 | 2023-01-04 | 300 | 1052 | 
 | 2023-01-03 | 300 | 1051 | 
-| 2023-01-02 | 301 | 1052 | 
 

@@ -1,10 +1,10 @@
 # Aizener/hexo-theme-cola - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Aizener/hexo-theme-cola)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 10 | 1 | 
 | 2023-01-31 | 9 | 1 | 
 | 2023-01-30 | 9 | 1 | 
 | 2023-01-29 | 9 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 8 | 1 | 
 | 2023-01-04 | 8 | 1 | 
 | 2023-01-03 | 8 | 1 | 
-| 2023-01-02 | 8 | 1 | 
 

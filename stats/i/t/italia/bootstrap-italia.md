@@ -1,10 +1,10 @@
 # italia/bootstrap-italia - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 144
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/italia/bootstrap-italia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 267 | 144 | 
 | 2023-01-31 | 266 | 144 | 
 | 2023-01-29 | 265 | 144 | 
 | 2023-01-28 | 265 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 264 | 143 | 
 | 2023-01-04 | 264 | 142 | 
 | 2023-01-03 | 264 | 141 | 
-| 2023-01-02 | 264 | 141 | 
 

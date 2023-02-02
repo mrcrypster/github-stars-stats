@@ -1,6 +1,6 @@
 # zacharee/CameraXInfo - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 73 | 3 | 
 | 2023-01-31 | 73 | 3 | 
 | 2023-01-30 | 73 | 3 | 
 | 2023-01-29 | 73 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 73 | 3 | 
 | 2023-01-04 | 72 | 3 | 
 | 2023-01-03 | 71 | 3 | 
-| 2023-01-02 | 71 | 3 | 
 

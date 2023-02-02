@@ -1,10 +1,10 @@
 # OWASP/wstg - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1078
+☋ Forks: 1079
 
-★ Stars: 5254
+★ Stars: 5257
 
 [Open repository](https://github.com/OWASP/wstg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 5257 | 1079 | 
 | 2023-01-31 | 5254 | 1078 | 
 | 2023-01-30 | 5249 | 1078 | 
 | 2023-01-29 | 5247 | 1077 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 5170 | 1057 | 
 | 2023-01-04 | 5169 | 1055 | 
 | 2023-01-03 | 5164 | 1056 | 
-| 2023-01-02 | 5158 | 1055 | 
 

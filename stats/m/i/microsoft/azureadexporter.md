@@ -1,6 +1,6 @@
 # microsoft/azureadexporter - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 311 | 43 | 
 | 2023-01-31 | 311 | 43 | 
 | 2023-01-30 | 311 | 43 | 
 | 2023-01-28 | 311 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 309 | 43 | 
 | 2023-01-04 | 309 | 43 | 
 | 2023-01-03 | 309 | 43 | 
-| 2023-01-02 | 309 | 43 | 
 

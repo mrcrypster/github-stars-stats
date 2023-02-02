@@ -1,10 +1,10 @@
 # nf-core/clipseq - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 19
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/nf-core/clipseq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 12 | 19 | 
 | 2023-01-31 | 11 | 19 | 
 | 2023-01-30 | 11 | 19 | 
 | 2023-01-29 | 11 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 11 | 19 | 
 | 2023-01-04 | 11 | 19 | 
 | 2023-01-03 | 11 | 19 | 
-| 2023-01-02 | 11 | 19 | 
 

@@ -1,6 +1,6 @@
 # influxdata/influxdb_iox - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1508 | 153 | 
 | 2023-01-31 | 1508 | 153 | 
 | 2023-01-30 | 1504 | 153 | 
 | 2023-01-29 | 1501 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1472 | 152 | 
 | 2023-01-04 | 1472 | 151 | 
 | 2023-01-03 | 1471 | 151 | 
-| 2023-01-02 | 1468 | 151 | 
 

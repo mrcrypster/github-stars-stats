@@ -1,10 +1,10 @@
 # alt-romes/ghengin - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/alt-romes/ghengin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 18 | - | 
 | 2023-01-31 | 17 | - | 
 | 2023-01-30 | 17 | - | 
 | 2023-01-29 | 17 | - | 

@@ -1,10 +1,10 @@
 # xero/figlet-fonts - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 197
 
-★ Stars: 730
+★ Stars: 731
 
 [Open repository](https://github.com/xero/figlet-fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 731 | 197 | 
 | 2023-01-31 | 730 | 197 | 
 | 2023-01-30 | 730 | 197 | 
 | 2023-01-29 | 729 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 710 | 191 | 
 | 2023-01-04 | 710 | 191 | 
 | 2023-01-03 | 709 | 191 | 
-| 2023-01-02 | 708 | 191 | 
 

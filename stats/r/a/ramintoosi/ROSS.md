@@ -1,10 +1,10 @@
 # ramintoosi/ROSS - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 81
+★ Stars: 85
 
 [Open repository](https://github.com/ramintoosi/ROSS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 85 | 1 | 
 | 2023-01-31 | 81 | 1 | 
 | 2023-01-30 | 81 | 1 | 
 | 2023-01-29 | 81 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 77 | 1 | 
 | 2023-01-05 | 77 | 1 | 
 | 2023-01-04 | 77 | 1 | 
-| 2023-01-03 | 76 | 1 | 
 

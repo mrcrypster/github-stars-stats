@@ -1,10 +1,10 @@
 # SuperManito/LinuxMirrors - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 174
+☋ Forks: 175
 
-★ Stars: 848
+★ Stars: 849
 
 [Open repository](https://github.com/SuperManito/LinuxMirrors)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 849 | 175 | 
 | 2023-01-31 | 848 | 174 | 
 | 2023-01-30 | 848 | 174 | 
 | 2023-01-29 | 846 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 813 | 172 | 
 | 2023-01-04 | 810 | 171 | 
 | 2023-01-03 | 807 | 171 | 
-| 2023-01-02 | 807 | 170 | 
 

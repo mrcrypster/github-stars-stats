@@ -1,10 +1,10 @@
 # NVIDIA/CUDALibrarySamples - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 179
 
-★ Stars: 612
+★ Stars: 615
 
 [Open repository](https://github.com/NVIDIA/CUDALibrarySamples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 615 | 179 | 
 | 2023-01-31 | 612 | 179 | 
 | 2023-01-30 | 612 | 179 | 
 | 2023-01-29 | 611 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 592 | 178 | 
 | 2023-01-04 | 592 | 177 | 
 | 2023-01-03 | 591 | 177 | 
-| 2023-01-02 | 591 | 177 | 
 

@@ -1,10 +1,10 @@
 # enricobottazzi/ZK-SBT - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 20
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/enricobottazzi/ZK-SBT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 121 | 20 | 
 | 2023-01-31 | 120 | 20 | 
 | 2023-01-30 | 120 | 20 | 
 | 2023-01-29 | 119 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 115 | 20 | 
 | 2023-01-04 | 115 | 20 | 
 | 2023-01-03 | 115 | 20 | 
-| 2023-01-02 | 115 | 20 | 
 

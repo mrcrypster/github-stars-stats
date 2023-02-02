@@ -1,10 +1,10 @@
 # aza547/wow-recorder - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 16
 
-★ Stars: 86
+★ Stars: 85
 
 [Open repository](https://github.com/aza547/wow-recorder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 85 | 16 | 
 | 2023-01-31 | 86 | 16 | 
 | 2023-01-30 | 86 | 17 | 
 | 2023-01-29 | 86 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 80 | 14 | 
 | 2023-01-04 | 80 | 14 | 
 | 2023-01-03 | 78 | 14 | 
-| 2023-01-02 | 78 | 14 | 
 

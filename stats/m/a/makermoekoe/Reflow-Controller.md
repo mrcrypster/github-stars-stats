@@ -1,6 +1,6 @@
 # makermoekoe/Reflow-Controller - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 170 | 35 | 
 | 2023-01-31 | 170 | 35 | 
 | 2023-01-30 | 170 | 35 | 
 | 2023-01-28 | 170 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 165 | 36 | 
 | 2023-01-04 | 164 | 36 | 
 | 2023-01-03 | 163 | 36 | 
-| 2023-01-02 | 163 | 36 | 
 

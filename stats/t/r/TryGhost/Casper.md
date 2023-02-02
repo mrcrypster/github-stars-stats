@@ -1,10 +1,10 @@
 # TryGhost/Casper - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2713
 
-★ Stars: 2429
+★ Stars: 2428
 
 [Open repository](https://github.com/TryGhost/Casper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2428 | 2713 | 
 | 2023-01-31 | 2429 | 2713 | 
 | 2023-01-30 | 2429 | 2711 | 
 | 2023-01-29 | 2429 | 2711 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2421 | 2705 | 
 | 2023-01-04 | 2421 | 2702 | 
 | 2023-01-03 | 2419 | 2701 | 
-| 2023-01-02 | 2420 | 2699 | 
 

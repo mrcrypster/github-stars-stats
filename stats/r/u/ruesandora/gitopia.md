@@ -1,6 +1,6 @@
 # ruesandora/gitopia - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 76 | 166 | 
 | 2023-01-31 | 76 | 166 | 
 | 2023-01-30 | 76 | 166 | 
 | 2023-01-28 | 76 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 77 | 163 | 
 | 2023-01-04 | 77 | 163 | 
 | 2023-01-03 | 77 | 162 | 
-| 2023-01-02 | 77 | 162 | 
 

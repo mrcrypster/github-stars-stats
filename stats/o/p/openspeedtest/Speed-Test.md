@@ -1,10 +1,10 @@
 # openspeedtest/Speed-Test - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 74
 
-★ Stars: 734
+★ Stars: 735
 
 [Open repository](https://github.com/openspeedtest/Speed-Test)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 735 | 74 | 
 | 2023-01-31 | 734 | 74 | 
 | 2023-01-30 | 731 | 74 | 
 | 2023-01-29 | 731 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 673 | 67 | 
 | 2023-01-04 | 671 | 67 | 
 | 2023-01-03 | 669 | 65 | 
-| 2023-01-02 | 668 | 65 | 
 

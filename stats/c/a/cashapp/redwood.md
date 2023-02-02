@@ -1,10 +1,10 @@
 # cashapp/redwood - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 16
 
-★ Stars: 735
+★ Stars: 737
 
 [Open repository](https://github.com/cashapp/redwood)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 737 | 16 | 
 | 2023-01-31 | 735 | 16 | 
 | 2023-01-30 | 731 | 16 | 
 | 2023-01-29 | 731 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 702 | 15 | 
 | 2023-01-04 | 700 | 14 | 
 | 2023-01-03 | 697 | 14 | 
-| 2023-01-02 | 697 | 14 | 
 

@@ -1,10 +1,10 @@
 # Pulover/PuloversMacroCreator - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 206
 
-★ Stars: 1279
+★ Stars: 1280
 
 [Open repository](https://github.com/Pulover/PuloversMacroCreator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1280 | 206 | 
 | 2023-01-31 | 1279 | 206 | 
 | 2023-01-30 | 1279 | 206 | 
 | 2023-01-29 | 1279 | 206 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1256 | 205 | 
 | 2023-01-04 | 1255 | 205 | 
 | 2023-01-03 | 1255 | 205 | 
-| 2023-01-02 | 1254 | 205 | 
 

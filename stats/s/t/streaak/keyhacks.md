@@ -1,10 +1,10 @@
 # streaak/keyhacks - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 815
+☋ Forks: 816
 
-★ Stars: 3449
+★ Stars: 3451
 
 [Open repository](https://github.com/streaak/keyhacks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3451 | 816 | 
 | 2023-01-31 | 3449 | 815 | 
 | 2023-01-30 | 3446 | 815 | 
 | 2023-01-29 | 3446 | 815 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 3378 | 801 | 
 | 2023-01-04 | 3375 | 801 | 
 | 2023-01-03 | 3372 | 801 | 
-| 2023-01-02 | 3370 | 799 | 
 

@@ -1,10 +1,10 @@
 # tistory-projects/tistory-skin-hELLO - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 53
 
-★ Stars: 1236
+★ Stars: 1244
 
 [Open repository](https://github.com/tistory-projects/tistory-skin-hELLO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1244 | 53 | 
 | 2023-01-31 | 1236 | 53 | 
 | 2023-01-30 | 1232 | 53 | 
 | 2023-01-29 | 1232 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1184 | 51 | 
 | 2023-01-04 | 1182 | 50 | 
 | 2023-01-03 | 1181 | 50 | 
-| 2023-01-02 | 1183 | 48 | 
 

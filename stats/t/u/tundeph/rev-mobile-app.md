@@ -1,10 +1,10 @@
 # tundeph/rev-mobile-app - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 156
 
-★ Stars: 122
+★ Stars: 9
 
 [Open repository](https://github.com/tundeph/rev-mobile-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 9 | 156 | 
 | 2023-01-31 | 122 | 156 | 
 | 2023-01-30 | 209 | 156 | 
 | 2023-01-29 | 165 | 111 | 

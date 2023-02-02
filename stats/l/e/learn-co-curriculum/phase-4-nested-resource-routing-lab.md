@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-nested-resource-routing-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1454
+☋ Forks: 1457
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1 | 1457 | 
 | 2023-01-31 | 1 | 1454 | 
 | 2023-01-30 | 1 | 1453 | 
 | 2023-01-29 | 1 | 1451 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1 | 1396 | 
 | 2023-01-04 | 1 | 1394 | 
 | 2023-01-03 | 1 | 1394 | 
-| 2023-01-02 | 1 | 1393 | 
 

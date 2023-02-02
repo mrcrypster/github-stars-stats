@@ -1,6 +1,6 @@
 # agda/cubical - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 350 | 116 | 
 | 2023-01-31 | 350 | 116 | 
 | 2023-01-30 | 349 | 116 | 
 | 2023-01-29 | 350 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 342 | 115 | 
 | 2023-01-04 | 341 | 115 | 
 | 2023-01-03 | 341 | 115 | 
-| 2023-01-02 | 342 | 115 | 
 

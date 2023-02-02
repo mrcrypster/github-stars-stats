@@ -1,10 +1,10 @@
 # paperless-ngx/paperless-ngx - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 332
+☋ Forks: 336
 
-★ Stars: 6094
+★ Stars: 6231
 
 [Open repository](https://github.com/paperless-ngx/paperless-ngx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 6231 | 336 | 
 | 2023-01-31 | 6094 | 332 | 
 | 2023-01-30 | 6009 | 327 | 
 | 2023-01-29 | 5773 | 316 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 5190 | 277 | 
 | 2023-01-04 | 5174 | 276 | 
 | 2023-01-03 | 5168 | 276 | 
-| 2023-01-02 | 5133 | 275 | 
 

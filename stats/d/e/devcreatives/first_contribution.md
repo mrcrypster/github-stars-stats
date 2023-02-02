@@ -1,6 +1,6 @@
 # devcreatives/first_contribution - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 33 | 88 | 
 | 2023-02-01 | 33 | 88 | 
 | 2023-01-30 | 33 | 88 | 
 | 2023-01-29 | 33 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 33 | 90 | 
 | 2023-01-04 | 33 | 90 | 
 | 2023-01-03 | 33 | 90 | 
-| 2023-01-02 | 33 | 90 | 
 

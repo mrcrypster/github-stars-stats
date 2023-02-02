@@ -1,8 +1,8 @@
 # ProjectOpenSea/stream-js - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 34
+☋ Forks: 33
 
 ★ Stars: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 130 | 33 | 
 | 2023-01-31 | 130 | 34 | 
 | 2023-01-30 | 131 | 34 | 
 | 2023-01-29 | 131 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 128 | 32 | 
 | 2023-01-04 | 128 | 32 | 
 | 2023-01-03 | 128 | 31 | 
-| 2023-01-02 | 128 | 31 | 
 

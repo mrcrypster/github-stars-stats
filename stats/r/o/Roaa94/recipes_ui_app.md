@@ -1,6 +1,6 @@
 # Roaa94/recipes_ui_app - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 397 | 96 | 
 | 2023-01-31 | 397 | 96 | 
 | 2023-01-30 | 396 | 95 | 
 | 2023-01-28 | 395 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 387 | 88 | 
 | 2023-01-05 | 387 | 88 | 
 | 2023-01-04 | 387 | 88 | 
-| 2023-01-03 | 387 | 88 | 
 

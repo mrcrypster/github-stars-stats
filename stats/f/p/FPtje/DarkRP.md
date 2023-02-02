@@ -1,6 +1,6 @@
 # FPtje/DarkRP - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 706
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 412 | 706 | 
 | 2023-01-31 | 412 | 706 | 
 | 2023-01-30 | 412 | 706 | 
 | 2023-01-29 | 412 | 707 | 

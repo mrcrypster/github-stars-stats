@@ -1,10 +1,10 @@
 # auctors/free-lunch - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 57
 
-★ Stars: 1271
+★ Stars: 1273
 
 [Open repository](https://github.com/auctors/free-lunch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1273 | 57 | 
 | 2023-01-31 | 1271 | 57 | 
 | 2023-01-30 | 1271 | 57 | 
 | 2023-01-29 | 1270 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1254 | 57 | 
 | 2023-01-04 | 1253 | 57 | 
 | 2023-01-03 | 1252 | 57 | 
-| 2023-01-02 | 1250 | 56 | 
 

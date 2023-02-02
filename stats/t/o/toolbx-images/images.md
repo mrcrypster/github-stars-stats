@@ -1,8 +1,8 @@
 # toolbx-images/images - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 109 | 12 | 
 | 2023-01-31 | 109 | 11 | 
 | 2023-01-30 | 107 | 11 | 
 | 2023-01-29 | 106 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 88 | 9 | 
 | 2023-01-04 | 87 | 9 | 
 | 2023-01-03 | 88 | 9 | 
-| 2023-01-02 | 86 | 9 | 
 

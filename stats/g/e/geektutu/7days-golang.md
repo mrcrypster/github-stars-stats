@@ -1,10 +1,10 @@
 # geektutu/7days-golang - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 2039
+☋ Forks: 2042
 
-★ Stars: 12361
+★ Stars: 12365
 
 [Open repository](https://github.com/geektutu/7days-golang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 12365 | 2042 | 
 | 2023-01-31 | 12361 | 2039 | 
 | 2023-01-30 | 12349 | 2038 | 
 | 2023-01-29 | 12342 | 2035 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 12220 | 2013 | 
 | 2023-01-04 | 12214 | 2011 | 
 | 2023-01-03 | 12206 | 2010 | 
-| 2023-01-02 | 12201 | 2010 | 
 

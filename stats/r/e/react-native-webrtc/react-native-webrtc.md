@@ -1,8 +1,8 @@
 # react-native-webrtc/react-native-webrtc - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1149
+☋ Forks: 1148
 
 ★ Stars: 4166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 4166 | 1148 | 
 | 2023-01-31 | 4166 | 1149 | 
 | 2023-01-30 | 4165 | 1147 | 
 | 2023-01-29 | 4165 | 1148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 4132 | 1131 | 
 | 2023-01-04 | 4132 | 1130 | 
 | 2023-01-03 | 4131 | 1130 | 
-| 2023-01-02 | 4127 | 1130 | 
 

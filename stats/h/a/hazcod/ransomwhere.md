@@ -1,10 +1,10 @@
 # hazcod/ransomwhere - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 30
 
-★ Stars: 183
+★ Stars: 182
 
 [Open repository](https://github.com/hazcod/ransomwhere)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 182 | 30 | 
 | 2023-01-31 | 183 | 30 | 
 | 2023-01-30 | 184 | 30 | 
 | 2023-01-29 | 184 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 181 | 27 | 
 | 2023-01-04 | 181 | 27 | 
 | 2023-01-03 | 180 | 27 | 
-| 2023-01-02 | 178 | 27 | 
 

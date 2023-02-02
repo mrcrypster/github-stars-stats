@@ -1,10 +1,10 @@
 # nextcloud/helm - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 191
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/nextcloud/helm)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 164 | 191 | 
+| 2023-02-02 | 165 | 191 | 
+| 2023-02-01 | 165 | 191 | 
 | 2023-01-31 | 164 | 191 | 
 | 2023-01-30 | 165 | 191 | 
 | 2023-01-29 | 164 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 163 | 187 | 
 | 2023-01-04 | 163 | 187 | 
 | 2023-01-03 | 163 | 186 | 
-| 2023-01-02 | 163 | 186 | 
 

@@ -1,10 +1,10 @@
 # srid/neuron - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 148
 
-★ Stars: 1448
+★ Stars: 1449
 
 [Open repository](https://github.com/srid/neuron)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1449 | 148 | 
 | 2023-01-31 | 1448 | 148 | 
 | 2023-01-30 | 1447 | 149 | 
 | 2023-01-29 | 1447 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1439 | 150 | 
 | 2023-01-04 | 1439 | 150 | 
 | 2023-01-03 | 1440 | 150 | 
-| 2023-01-02 | 1440 | 150 | 
 

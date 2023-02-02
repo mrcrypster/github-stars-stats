@@ -1,8 +1,8 @@
 # raselupm/desh-curiar - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1 | 7 | 
 | 2023-01-31 | 1 | 6 | 
 | 2023-01-30 | 1 | 6 | 
 | 2023-01-29 | 1 | 6 | 

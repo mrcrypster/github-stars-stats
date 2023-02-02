@@ -1,10 +1,10 @@
 # loganoz/horses3d - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/loganoz/horses3d)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 38 | 8 | 
 | 2023-01-31 | 37 | 8 | 
 | 2023-01-30 | 37 | 8 | 
 | 2023-01-29 | 37 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 36 | 8 | 
 | 2023-01-04 | 36 | 8 | 
 | 2023-01-03 | 36 | 7 | 
-| 2023-01-02 | 36 | 7 | 
 

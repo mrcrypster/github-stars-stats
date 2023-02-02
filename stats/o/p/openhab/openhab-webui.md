@@ -1,10 +1,10 @@
 # openhab/openhab-webui - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 188
 
-★ Stars: 177
+★ Stars: 176
 
 [Open repository](https://github.com/openhab/openhab-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 176 | 188 | 
 | 2023-01-31 | 177 | 188 | 
 | 2023-01-30 | 177 | 188 | 
 | 2023-01-29 | 177 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 175 | 184 | 
 | 2023-01-04 | 175 | 184 | 
 | 2023-01-03 | 175 | 184 | 
-| 2023-01-02 | 175 | 183 | 
 

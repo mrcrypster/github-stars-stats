@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 01
 
 ☋ Forks: 25
 
-★ Stars: 1728
+★ Stars: 1731
 
 [Open repository](https://github.com/linearmouse/linearmouse)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 1728 | 25 | 
+| 2023-02-01 | 1731 | 25 | 
 | 2023-01-31 | 1727 | 25 | 
 | 2023-01-30 | 1724 | 25 | 
 | 2023-01-29 | 1715 | 25 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 1638 | 23 | 
 | 2023-01-04 | 1636 | 23 | 
 | 2023-01-03 | 1632 | 23 | 
-| 2023-01-02 | 1628 | 23 | 
 

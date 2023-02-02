@@ -1,10 +1,10 @@
 # SI3DL/psi3d - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 1
+★ Stars: 3
 
 [Open repository](https://github.com/SI3DL/psi3d)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3 | 4 | 
 | 2023-01-31 | 1 | 4 | 
 | 2023-01-30 | 1 | 4 | 
 | 2023-01-29 | 1 | 4 | 

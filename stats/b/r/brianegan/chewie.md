@@ -1,6 +1,6 @@
 # brianegan/chewie - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 817
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1618 | 817 | 
 | 2023-01-31 | 1618 | 817 | 
 | 2023-01-30 | 1618 | 817 | 
 | 2023-01-29 | 1618 | 817 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1606 | 809 | 
 | 2023-01-04 | 1606 | 809 | 
 | 2023-01-03 | 1606 | 808 | 
-| 2023-01-02 | 1606 | 808 | 
 

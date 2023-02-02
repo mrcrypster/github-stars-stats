@@ -1,6 +1,6 @@
 # tot0p/Hello-World - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 6 | 4 | 
 | 2023-01-31 | 6 | 4 | 
 | 2023-01-29 | 6 | 4 | 
 | 2023-01-28 | 6 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 6 | 4 | 
 | 2023-01-05 | 6 | 4 | 
 | 2023-01-03 | 6 | 4 | 
-| 2023-01-02 | 6 | 4 | 
 

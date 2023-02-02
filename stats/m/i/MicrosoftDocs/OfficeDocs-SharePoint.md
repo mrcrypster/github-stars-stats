@@ -1,10 +1,10 @@
 # MicrosoftDocs/OfficeDocs-SharePoint - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 542
 
-★ Stars: 345
+★ Stars: 347
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 347 | 542 | 
 | 2023-01-31 | 345 | 542 | 
 | 2023-01-30 | 346 | 542 | 
 | 2023-01-29 | 346 | 542 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 343 | 539 | 
 | 2023-01-04 | 343 | 538 | 
 | 2023-01-03 | 343 | 538 | 
-| 2023-01-02 | 343 | 538 | 
 

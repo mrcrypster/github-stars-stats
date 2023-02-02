@@ -1,10 +1,10 @@
 # nestjs/nest-cli - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 294
+☋ Forks: 295
 
-★ Stars: 1521
+★ Stars: 1522
 
 [Open repository](https://github.com/nestjs/nest-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1522 | 295 | 
 | 2023-01-31 | 1521 | 294 | 
 | 2023-01-30 | 1520 | 294 | 
 | 2023-01-29 | 1519 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1503 | 288 | 
 | 2023-01-04 | 1502 | 288 | 
 | 2023-01-03 | 1501 | 288 | 
-| 2023-01-02 | 1500 | 289 | 
 

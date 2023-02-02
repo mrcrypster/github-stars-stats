@@ -1,8 +1,8 @@
 # MicrosoftDocs/office-docs-powershell - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1102
+☋ Forks: 1103
 
 ★ Stars: 525
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 525 | 1103 | 
 | 2023-01-31 | 525 | 1102 | 
 | 2023-01-30 | 526 | 1102 | 
 | 2023-01-29 | 526 | 1102 | 

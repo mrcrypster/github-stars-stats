@@ -1,10 +1,10 @@
 # LimeSurvey/LimeSurvey - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 899
+☋ Forks: 900
 
-★ Stars: 2161
+★ Stars: 2162
 
 [Open repository](https://github.com/LimeSurvey/LimeSurvey)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2162 | 900 | 
 | 2023-01-31 | 2161 | 899 | 
 | 2023-01-30 | 2161 | 899 | 
 | 2023-01-29 | 2161 | 900 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2155 | 896 | 
 | 2023-01-04 | 2155 | 896 | 
 | 2023-01-03 | 2153 | 896 | 
-| 2023-01-02 | 2152 | 897 | 
 

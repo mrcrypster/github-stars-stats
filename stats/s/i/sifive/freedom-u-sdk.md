@@ -1,6 +1,6 @@
 # sifive/freedom-u-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 241 | 122 | 
 | 2023-01-31 | 241 | 122 | 
 | 2023-01-29 | 241 | 122 | 
 | 2023-01-28 | 241 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 240 | 122 | 
 | 2023-01-05 | 240 | 122 | 
 | 2023-01-03 | 240 | 122 | 
-| 2023-01-02 | 240 | 122 | 
 

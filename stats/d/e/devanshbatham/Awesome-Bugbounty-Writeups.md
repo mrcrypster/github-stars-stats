@@ -1,10 +1,10 @@
 # devanshbatham/Awesome-Bugbounty-Writeups - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 780
+☋ Forks: 790
 
-★ Stars: 3255
+★ Stars: 3352
 
 [Open repository](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3352 | 790 | 
 | 2023-01-31 | 3255 | 780 | 
 | 2023-01-30 | 3236 | 776 | 
 | 2023-01-29 | 3221 | 775 | 

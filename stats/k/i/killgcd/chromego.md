@@ -1,8 +1,8 @@
 # killgcd/chromego - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 708
+☋ Forks: 707
 
 ★ Stars: 1883
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1883 | 707 | 
 | 2023-01-31 | 1883 | 708 | 
 | 2023-01-30 | 1883 | 708 | 
 | 2023-01-29 | 1883 | 708 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1881 | 709 | 
 | 2023-01-04 | 1881 | 710 | 
 | 2023-01-03 | 1881 | 710 | 
-| 2023-01-02 | 1881 | 710 | 
 

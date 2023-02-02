@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 01
 
 ☋ Forks: 49
 
-★ Stars: 683
+★ Stars: 682
 
 [Open repository](https://github.com/alvan/vim-closetag)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 683 | 49 | 
+| 2023-02-01 | 682 | 49 | 
 | 2023-01-31 | 683 | 49 | 
 | 2023-01-30 | 683 | 49 | 
 | 2023-01-28 | 682 | 49 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 679 | 51 | 
 | 2023-01-04 | 679 | 51 | 
 | 2023-01-03 | 678 | 51 | 
-| 2023-01-02 | 677 | 51 | 
 

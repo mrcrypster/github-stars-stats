@@ -1,10 +1,10 @@
 # FSpaceCore/SpaceCore - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 29
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/FSpaceCore/SpaceCore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 144 | 29 | 
 | 2023-01-31 | 143 | 29 | 
 | 2023-01-29 | 143 | 29 | 
 | 2023-01-28 | 142 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 133 | 27 | 
 | 2023-01-04 | 133 | 27 | 
 | 2023-01-03 | 133 | 26 | 
-| 2023-01-02 | 133 | 26 | 
 

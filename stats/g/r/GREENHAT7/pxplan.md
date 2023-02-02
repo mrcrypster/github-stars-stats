@@ -1,6 +1,6 @@
 # GREENHAT7/pxplan - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 380 | 160 | 
 | 2023-02-01 | 380 | 160 | 
 | 2023-01-30 | 379 | 160 | 
 | 2023-01-29 | 379 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 378 | 161 | 
 | 2023-01-04 | 377 | 161 | 
 | 2023-01-03 | 377 | 161 | 
-| 2023-01-02 | 377 | 161 | 
 

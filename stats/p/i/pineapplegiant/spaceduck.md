@@ -1,10 +1,10 @@
 # pineapplegiant/spaceduck - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 701
+★ Stars: 700
 
 [Open repository](https://github.com/pineapplegiant/spaceduck)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 700 | 24 | 
 | 2023-01-31 | 701 | 25 | 
 | 2023-01-30 | 700 | 25 | 
 | 2023-01-29 | 700 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 692 | 25 | 
 | 2023-01-04 | 692 | 24 | 
 | 2023-01-03 | 691 | 24 | 
-| 2023-01-02 | 691 | 24 | 
 

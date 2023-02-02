@@ -1,8 +1,8 @@
 # alibaba/flutter_boost - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1123
+☋ Forks: 1124
 
 ★ Stars: 6328
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 6328 | 1124 | 
 | 2023-01-31 | 6328 | 1123 | 
 | 2023-01-30 | 6327 | 1123 | 
 | 2023-01-29 | 6324 | 1122 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 6304 | 1117 | 
 | 2023-01-04 | 6304 | 1117 | 
 | 2023-01-03 | 6304 | 1116 | 
-| 2023-01-02 | 6300 | 1116 | 
 

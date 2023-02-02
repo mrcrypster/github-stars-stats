@@ -1,6 +1,6 @@
 # lassik/emacs-format-all-the-code - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 491 | 101 | 
 | 2023-01-31 | 491 | 101 | 
 | 2023-01-30 | 490 | 101 | 
 | 2023-01-29 | 489 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 486 | 101 | 
 | 2023-01-04 | 486 | 101 | 
 | 2023-01-03 | 485 | 101 | 
-| 2023-01-02 | 485 | 101 | 
 

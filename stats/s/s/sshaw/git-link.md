@@ -1,6 +1,6 @@
 # sshaw/git-link - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 334 | 62 | 
 | 2023-01-31 | 334 | 62 | 
 | 2023-01-30 | 334 | 62 | 
 | 2023-01-29 | 334 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 331 | 59 | 
 | 2023-01-04 | 331 | 58 | 
 | 2023-01-03 | 331 | 58 | 
-| 2023-01-02 | 331 | 58 | 
 

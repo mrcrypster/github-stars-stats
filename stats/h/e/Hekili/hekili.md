@@ -1,10 +1,10 @@
 # Hekili/hekili - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 96
 
-★ Stars: 215
+★ Stars: 214
 
 [Open repository](https://github.com/Hekili/hekili)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 214 | 96 | 
 | 2023-01-31 | 215 | 96 | 
 | 2023-01-30 | 214 | 97 | 
 | 2023-01-29 | 214 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 207 | 94 | 
 | 2023-01-05 | 206 | 94 | 
 | 2023-01-04 | 206 | 94 | 
-| 2023-01-02 | 205 | 94 | 
 

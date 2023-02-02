@@ -1,10 +1,10 @@
 # runwhen-contrib/rw-public-codecollection - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/runwhen-contrib/rw-public-codecollection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 17 | 2 | 
 | 2023-01-31 | 18 | 2 | 
 | 2023-01-30 | 18 | 2 | 
 | 2023-01-29 | 17 | 2 | 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 01
 
 ☋ Forks: 9852
 
-★ Stars: 45902
+★ Stars: 46006
 
 [Open repository](https://github.com/scrapy/scrapy)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 45902 | 9852 | 
+| 2023-02-01 | 46006 | 9852 | 
 | 2023-01-31 | 45869 | 9852 | 
 | 2023-01-30 | 45736 | 9847 | 
 | 2023-01-29 | 45729 | 9848 | 

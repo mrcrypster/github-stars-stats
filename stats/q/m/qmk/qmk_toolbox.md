@@ -1,6 +1,6 @@
 # qmk/qmk_toolbox - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 440
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1820 | 440 | 
 | 2023-01-31 | 1820 | 440 | 
 | 2023-01-30 | 1820 | 440 | 
 | 2023-01-29 | 1819 | 440 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1794 | 437 | 
 | 2023-01-04 | 1792 | 437 | 
 | 2023-01-03 | 1790 | 437 | 
-| 2023-01-02 | 1789 | 436 | 
 

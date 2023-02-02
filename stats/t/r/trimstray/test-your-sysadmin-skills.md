@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 01
 
 ☋ Forks: 1243
 
-★ Stars: 9481
+★ Stars: 9506
 
 [Open repository](https://github.com/trimstray/test-your-sysadmin-skills)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 9481 | 1243 | 
+| 2023-02-01 | 9506 | 1243 | 
 | 2023-01-31 | 9475 | 1242 | 
 

@@ -1,6 +1,6 @@
 # mvllow/modes.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 300 | 6 | 
 | 2023-01-31 | 300 | 6 | 
 | 2023-01-30 | 300 | 6 | 
 | 2023-01-29 | 299 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 291 | 6 | 
 | 2023-01-04 | 291 | 6 | 
 | 2023-01-03 | 291 | 6 | 
-| 2023-01-02 | 291 | 6 | 
 

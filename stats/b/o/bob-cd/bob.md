@@ -1,6 +1,6 @@
 # bob-cd/bob - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 175 | 15 | 
 | 2023-01-31 | 175 | 15 | 
 | 2023-01-30 | 175 | 15 | 
 | 2023-01-29 | 175 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 174 | 13 | 
 | 2023-01-04 | 174 | 13 | 
 | 2023-01-03 | 173 | 13 | 
-| 2023-01-02 | 173 | 13 | 
 

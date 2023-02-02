@@ -1,10 +1,10 @@
 # pronist/hELLO - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 53
 
-★ Stars: 1235
+★ Stars: 1241
 
 [Open repository](https://github.com/pronist/hELLO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1241 | 53 | 
 | 2023-01-31 | 1235 | 53 | 
 | 2023-01-30 | 1232 | 53 | 
 | 2023-01-29 | 1231 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 1184 | 51 | 
 | 2023-01-05 | 1185 | 50 | 
 | 2023-01-04 | 1181 | 50 | 
-| 2023-01-03 | 1183 | 48 | 
 

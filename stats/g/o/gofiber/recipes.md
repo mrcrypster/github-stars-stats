@@ -1,10 +1,10 @@
 # gofiber/recipes - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 347
 
-★ Stars: 2060
+★ Stars: 2066
 
 [Open repository](https://github.com/gofiber/recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2066 | 347 | 
 | 2023-01-31 | 2060 | 347 | 
 | 2023-01-30 | 2059 | 346 | 
 | 2023-01-29 | 2059 | 346 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1964 | 346 | 
 | 2023-01-04 | 1963 | 344 | 
 | 2023-01-03 | 1961 | 344 | 
-| 2023-01-02 | 1960 | 342 | 
 

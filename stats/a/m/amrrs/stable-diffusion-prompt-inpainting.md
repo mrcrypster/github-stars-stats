@@ -1,10 +1,10 @@
 # amrrs/stable-diffusion-prompt-inpainting - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 22
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/amrrs/stable-diffusion-prompt-inpainting)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 317 | 22 | 
 | 2023-01-31 | 316 | 22 | 
 | 2023-01-30 | 316 | 22 | 
 | 2023-01-29 | 316 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 313 | 21 | 
 | 2023-01-04 | 313 | 21 | 
 | 2023-01-03 | 313 | 21 | 
-| 2023-01-02 | 313 | 21 | 
 

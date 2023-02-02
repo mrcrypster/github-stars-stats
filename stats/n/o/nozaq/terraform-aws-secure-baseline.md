@@ -1,10 +1,10 @@
 # nozaq/terraform-aws-secure-baseline - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 328
 
-★ Stars: 970
+★ Stars: 971
 
 [Open repository](https://github.com/nozaq/terraform-aws-secure-baseline)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 971 | 328 | 
 | 2023-01-31 | 970 | 328 | 
 | 2023-01-30 | 969 | 326 | 
 | 2023-01-29 | 969 | 326 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 957 | 325 | 
 | 2023-01-04 | 957 | 325 | 
 | 2023-01-03 | 957 | 325 | 
-| 2023-01-02 | 957 | 325 | 
 

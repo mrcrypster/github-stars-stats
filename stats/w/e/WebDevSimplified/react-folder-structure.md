@@ -1,8 +1,8 @@
 # WebDevSimplified/react-folder-structure - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 122
+☋ Forks: 123
 
 ★ Stars: 296
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 296 | 123 | 
 | 2023-01-31 | 296 | 122 | 
 | 2023-01-30 | 295 | 121 | 
 | 2023-01-29 | 295 | 121 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 282 | 116 | 
 | 2023-01-05 | 281 | 116 | 
 | 2023-01-04 | 281 | 116 | 
-| 2023-01-03 | 281 | 116 | 
 

@@ -1,6 +1,6 @@
 # DevInsideYou/scala-seed - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 15 | 1 | 
 | 2023-01-31 | 15 | 1 | 
 | 2023-01-30 | 15 | 1 | 
 | 2023-01-29 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 10 | - | 
 | 2023-01-04 | 10 | - | 
 | 2023-01-03 | 10 | - | 
-| 2023-01-02 | 8 | - | 
 

@@ -1,6 +1,6 @@
 # dair-ai/Mathematics-for-ML - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 278
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 3391 | 278 | 
 | 2023-01-31 | 3391 | 278 | 
 | 2023-01-30 | 3392 | 277 | 
 | 2023-01-29 | 3391 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 3315 | 259 | 
 | 2023-01-04 | 3314 | 259 | 
 | 2023-01-03 | 3313 | 259 | 
-| 2023-01-02 | 3311 | 259 | 
 

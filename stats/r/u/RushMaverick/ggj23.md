@@ -1,0 +1,18 @@
+# RushMaverick/ggj23 - stars & forks statistics
+
+Stats updated on Feb 2023, 02
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/RushMaverick/ggj23)
+
+[Open detailed stats for RushMaverick/ggj23](https://reviewgithub.com/rep/RushMaverick/ggj23)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-02 | 2 | - | 
+| 2023-02-01 | 2 | - | 
+

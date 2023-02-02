@@ -1,10 +1,10 @@
 # gajus/slonik - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 114
 
-★ Stars: 3624
+★ Stars: 3629
 
 [Open repository](https://github.com/gajus/slonik)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3629 | 114 | 
 | 2023-01-31 | 3624 | 114 | 
 | 2023-01-30 | 3623 | 114 | 
 | 2023-01-29 | 3622 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 3573 | 116 | 
 | 2023-01-04 | 3571 | 116 | 
 | 2023-01-03 | 3567 | 116 | 
-| 2023-01-02 | 3563 | 116 | 
 

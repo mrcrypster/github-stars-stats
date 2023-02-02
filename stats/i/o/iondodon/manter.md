@@ -1,10 +1,10 @@
 # iondodon/manter - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 102
+★ Stars: 101
 
 [Open repository](https://github.com/iondodon/manter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 101 | 4 | 
 | 2023-01-31 | 102 | 4 | 
 | 2023-01-30 | 102 | 4 | 
 | 2023-01-29 | 101 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 62 | 4 | 
 | 2023-01-04 | 62 | 4 | 
 | 2023-01-03 | 62 | 4 | 
-| 2023-01-02 | 62 | 4 | 
 

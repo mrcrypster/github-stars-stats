@@ -1,6 +1,6 @@
 # Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 244 | 57 | 
 | 2023-01-31 | 244 | 57 | 
 | 2023-01-30 | 244 | 57 | 
 | 2023-01-29 | 242 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 218 | 50 | 
 | 2023-01-04 | 217 | 50 | 
 | 2023-01-03 | 217 | 50 | 
-| 2023-01-02 | 217 | 50 | 
 

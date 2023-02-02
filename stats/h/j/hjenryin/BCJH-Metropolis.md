@@ -1,10 +1,10 @@
 # hjenryin/BCJH-Metropolis - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 446
+☋ Forks: 481
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/hjenryin/BCJH-Metropolis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 41 | 481 | 
 | 2023-01-31 | 42 | 446 | 
 | 2023-01-30 | 39 | 423 | 
 | 2023-01-29 | 39 | 401 | 

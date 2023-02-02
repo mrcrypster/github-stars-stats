@@ -1,10 +1,10 @@
 # jbx-protocol/juice-nft-rewards - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 6
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/jbx-protocol/juice-nft-rewards)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 17 | 6 | 
 | 2023-01-31 | 18 | 6 | 
 | 2023-01-30 | 18 | 6 | 
 | 2023-01-29 | 18 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 17 | 6 | 
 | 2023-01-04 | 17 | 6 | 
 | 2023-01-03 | 17 | 6 | 
-| 2023-01-02 | 17 | 6 | 
 

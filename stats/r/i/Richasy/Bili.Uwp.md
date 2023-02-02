@@ -1,10 +1,10 @@
 # Richasy/Bili.Uwp - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 471
 
-★ Stars: 7068
+★ Stars: 7071
 
 [Open repository](https://github.com/Richasy/Bili.Uwp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 7071 | 471 | 
 | 2023-01-31 | 7068 | 471 | 
 | 2023-01-30 | 7066 | 471 | 
 | 2023-01-29 | 7066 | 471 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 7014 | 469 | 
 | 2023-01-04 | 7010 | 470 | 
 | 2023-01-03 | 7006 | 469 | 
-| 2023-01-02 | 7003 | 469 | 
 

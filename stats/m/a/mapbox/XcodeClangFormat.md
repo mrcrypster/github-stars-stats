@@ -1,6 +1,6 @@
 # mapbox/XcodeClangFormat - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 788 | 101 | 
 | 2023-01-31 | 788 | 101 | 
 | 2023-01-30 | 788 | 101 | 
 | 2023-01-29 | 788 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 785 | 101 | 
 | 2023-01-04 | 785 | 101 | 
 | 2023-01-03 | 785 | 101 | 
-| 2023-01-02 | 785 | 101 | 
 

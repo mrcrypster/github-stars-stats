@@ -1,10 +1,10 @@
 # mostafa-saad/ArabicCompetitiveProgramming - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 483
 
-★ Stars: 1152
+★ Stars: 1153
 
 [Open repository](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1153 | 483 | 
 | 2023-01-31 | 1152 | 483 | 
 | 2023-01-30 | 1151 | 482 | 
 | 2023-01-29 | 1151 | 480 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1134 | 474 | 
 | 2023-01-04 | 1133 | 474 | 
 | 2023-01-03 | 1133 | 474 | 
-| 2023-01-02 | 1133 | 473 | 
 

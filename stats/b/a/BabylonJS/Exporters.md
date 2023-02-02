@@ -1,10 +1,10 @@
 # BabylonJS/Exporters - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 298
 
-★ Stars: 493
+★ Stars: 494
 
 [Open repository](https://github.com/BabylonJS/Exporters)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 494 | 298 | 
 | 2023-01-31 | 493 | 298 | 
 | 2023-01-30 | 493 | 298 | 
 | 2023-01-29 | 493 | 298 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 490 | 297 | 
 | 2023-01-04 | 490 | 297 | 
 | 2023-01-03 | 490 | 297 | 
-| 2023-01-02 | 489 | 297 | 
 

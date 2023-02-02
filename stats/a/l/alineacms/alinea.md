@@ -1,6 +1,6 @@
 # alineacms/alinea - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 657 | 32 | 
 | 2023-01-31 | 657 | 32 | 
 | 2023-01-30 | 657 | 32 | 
 | 2023-01-29 | 657 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 655 | 32 | 
 | 2023-01-05 | 655 | 32 | 
 | 2023-01-04 | 655 | 32 | 
-| 2023-01-02 | 653 | 32 | 
 

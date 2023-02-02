@@ -1,10 +1,10 @@
 # ReFirmLabs/binwalk - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1361
 
-★ Stars: 8937
+★ Stars: 8938
 
 [Open repository](https://github.com/ReFirmLabs/binwalk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 8938 | 1361 | 
 | 2023-01-31 | 8937 | 1361 | 
 | 2023-01-30 | 8931 | 1361 | 
 | 2023-01-29 | 8931 | 1361 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 8814 | 1342 | 
 | 2023-01-04 | 8808 | 1342 | 
 | 2023-01-03 | 8807 | 1342 | 
-| 2023-01-02 | 8806 | 1342 | 
 

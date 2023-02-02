@@ -1,10 +1,10 @@
 # dynastic/place - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 83
 
-★ Stars: 266
+★ Stars: 265
 
 [Open repository](https://github.com/dynastic/place)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 265 | 83 | 
 | 2023-01-31 | 266 | 83 | 
 | 2023-01-30 | 266 | 83 | 
 | 2023-01-28 | 266 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 264 | 82 | 
 | 2023-01-05 | 264 | 82 | 
 | 2023-01-04 | 265 | 82 | 
-| 2023-01-02 | 265 | 82 | 
 

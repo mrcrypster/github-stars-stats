@@ -1,10 +1,10 @@
 # uclahs-cds/public-R-BoutrosLab-plotting-general - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/uclahs-cds/public-R-BoutrosLab-plotting-general)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2 | 3 | 
 | 2023-01-31 | 3 | 3 | 
 | 2023-01-30 | 3 | 3 | 
 | 2023-01-28 | 3 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 3 | 2 | 
 | 2023-01-05 | 3 | 2 | 
 | 2023-01-04 | 3 | 2 | 
-| 2023-01-02 | 2 | 2 | 
 

@@ -1,8 +1,8 @@
 # lem-project/lem - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 93
+☋ Forks: 92
 
 ★ Stars: 1344
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1344 | 92 | 
+| 2023-02-01 | 1344 | 92 | 
 | 2023-01-31 | 1344 | 93 | 
 | 2023-01-30 | 1343 | 93 | 
 | 2023-01-29 | 1343 | 93 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1336 | 93 | 
 | 2023-01-04 | 1336 | 93 | 
 | 2023-01-03 | 1336 | 93 | 
-| 2023-01-02 | 1336 | 93 | 
 

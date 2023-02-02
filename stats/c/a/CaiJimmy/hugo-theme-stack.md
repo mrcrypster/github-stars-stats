@@ -1,6 +1,6 @@
 # CaiJimmy/hugo-theme-stack - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 747
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2975 | 747 | 
 | 2023-01-31 | 2975 | 747 | 
 | 2023-01-30 | 2973 | 745 | 
 | 2023-01-29 | 2971 | 741 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2905 | 719 | 
 | 2023-01-04 | 2898 | 712 | 
 | 2023-01-03 | 2897 | 711 | 
-| 2023-01-02 | 2895 | 711 | 
 

@@ -1,10 +1,10 @@
 # juanmanzanero/fastest-lap - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 31
 
-★ Stars: 438
+★ Stars: 436
 
 [Open repository](https://github.com/juanmanzanero/fastest-lap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 436 | 31 | 
 | 2023-01-31 | 438 | 31 | 
 | 2023-01-30 | 438 | 31 | 
 | 2023-01-29 | 438 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 391 | 26 | 
 | 2023-01-04 | 390 | 26 | 
 | 2023-01-03 | 390 | 26 | 
-| 2023-01-02 | 389 | 26 | 
 

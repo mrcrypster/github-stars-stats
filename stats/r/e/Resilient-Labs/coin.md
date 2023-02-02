@@ -1,10 +1,10 @@
 # Resilient-Labs/coin - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 21
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/Resilient-Labs/coin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 14 | 21 | 
 | 2023-01-31 | 15 | 21 | 
 | 2023-01-30 | 15 | 21 | 
 | 2023-01-29 | 15 | 21 | 

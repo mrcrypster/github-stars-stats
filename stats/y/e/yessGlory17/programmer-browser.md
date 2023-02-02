@@ -1,6 +1,6 @@
 # yessGlory17/programmer-browser - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 569 | 11 | 
 | 2023-01-31 | 569 | 11 | 
 | 2023-01-30 | 570 | 11 | 
 | 2023-01-29 | 569 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 571 | 11 | 
 | 2023-01-04 | 571 | 11 | 
 | 2023-01-03 | 571 | 11 | 
-| 2023-01-02 | 571 | 11 | 
 

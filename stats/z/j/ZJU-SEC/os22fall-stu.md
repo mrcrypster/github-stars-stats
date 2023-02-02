@@ -1,6 +1,6 @@
 # ZJU-SEC/os22fall-stu - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 56 | 26 | 
 | 2023-01-31 | 56 | 26 | 
 | 2023-01-29 | 56 | 26 | 
 | 2023-01-28 | 56 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 57 | 23 | 
 | 2023-01-05 | 57 | 23 | 
 | 2023-01-04 | 58 | 22 | 
-| 2023-01-02 | 58 | 22 | 
 

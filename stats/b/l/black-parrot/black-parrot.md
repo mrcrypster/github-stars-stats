@@ -1,10 +1,10 @@
 # black-parrot/black-parrot - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 162
 
-★ Stars: 371
+★ Stars: 370
 
 [Open repository](https://github.com/black-parrot/black-parrot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 370 | 162 | 
 | 2023-01-31 | 371 | 162 | 
 | 2023-01-30 | 370 | 161 | 
 | 2023-01-29 | 370 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 361 | 161 | 
 | 2023-01-05 | 361 | 161 | 
 | 2023-01-04 | 362 | 161 | 
-| 2023-01-02 | 361 | 161 | 
 

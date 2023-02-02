@@ -1,10 +1,10 @@
 # KingRainbow44/Open-Shen - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 15
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/KingRainbow44/Open-Shen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 70 | 15 | 
 | 2023-01-31 | 69 | 15 | 
 | 2023-01-30 | 69 | 15 | 
 | 2023-01-28 | 69 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 68 | 15 | 
 | 2023-01-05 | 68 | 15 | 
 | 2023-01-03 | 68 | 15 | 
-| 2023-01-02 | 68 | 15 | 
 

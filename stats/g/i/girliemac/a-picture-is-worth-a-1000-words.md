@@ -1,6 +1,6 @@
 # girliemac/a-picture-is-worth-a-1000-words - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 705
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 10212 | 705 | 
 | 2023-01-31 | 10212 | 705 | 
 | 2023-01-30 | 10208 | 704 | 
 | 2023-01-28 | 10204 | 705 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 10158 | 698 | 
 | 2023-01-04 | 10157 | 699 | 
 | 2023-01-03 | 10157 | 700 | 
-| 2023-01-02 | 10155 | 700 | 
 

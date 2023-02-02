@@ -1,6 +1,6 @@
 # RetroPie/RetroPie-Setup - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1377
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 9649 | 1377 | 
 | 2023-01-31 | 9649 | 1377 | 
 | 2023-01-30 | 9647 | 1378 | 
 | 2023-01-29 | 9645 | 1378 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 9624 | 1375 | 
 | 2023-01-04 | 9623 | 1375 | 
 | 2023-01-03 | 9622 | 1375 | 
-| 2023-01-02 | 9622 | 1373 | 
 

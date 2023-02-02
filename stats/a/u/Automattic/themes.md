@@ -1,10 +1,10 @@
 # Automattic/themes - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 299
 
-★ Stars: 652
+★ Stars: 651
 
 [Open repository](https://github.com/Automattic/themes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 651 | 299 | 
 | 2023-01-31 | 652 | 299 | 
 | 2023-01-30 | 651 | 299 | 
 | 2023-01-29 | 651 | 299 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 644 | 295 | 
 | 2023-01-04 | 643 | 295 | 
 | 2023-01-03 | 643 | 294 | 
-| 2023-01-02 | 643 | 294 | 
 

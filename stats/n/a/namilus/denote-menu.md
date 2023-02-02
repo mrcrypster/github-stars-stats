@@ -1,10 +1,10 @@
 # namilus/denote-menu - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/namilus/denote-menu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 10 | 3 | 
 | 2023-02-01 | 9 | 3 | 
 | 2023-01-30 | 9 | 3 | 
 | 2023-01-29 | 9 | 3 | 

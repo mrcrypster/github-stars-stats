@@ -1,10 +1,10 @@
 # fyne-io/fyne - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1081
+☋ Forks: 1080
 
-★ Stars: 19337
+★ Stars: 19333
 
 [Open repository](https://github.com/fyne-io/fyne)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 19333 | 1080 | 
 | 2023-01-31 | 19337 | 1081 | 
 | 2023-01-30 | 19327 | 1081 | 
 | 2023-01-29 | 19312 | 1078 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 19110 | 1058 | 
 | 2023-01-04 | 19094 | 1058 | 
 | 2023-01-03 | 19082 | 1058 | 
-| 2023-01-02 | 19075 | 1057 | 
 

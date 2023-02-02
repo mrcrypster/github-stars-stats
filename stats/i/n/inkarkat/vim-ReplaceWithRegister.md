@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/inkarkat/vim-ReplaceWithRegister)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 62 | 2 | 
+| 2023-02-01 | 63 | 2 | 
 | 2023-01-31 | 62 | 2 | 
 | 2023-01-30 | 62 | 2 | 
 | 2023-01-29 | 62 | 2 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-05 | 62 | 2 | 
 | 2023-01-04 | 62 | 2 | 
 | 2023-01-03 | 62 | 2 | 
-| 2023-01-02 | 62 | 2 | 
 

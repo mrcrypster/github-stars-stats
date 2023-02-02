@@ -1,10 +1,10 @@
 # react-native-image-picker/react-native-image-picker - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 1992
 
-★ Stars: 7893
+★ Stars: 7894
 
 [Open repository](https://github.com/react-native-image-picker/react-native-image-picker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 7894 | 1992 | 
 | 2023-01-31 | 7893 | 1992 | 
 | 2023-01-30 | 7893 | 1993 | 
 | 2023-01-29 | 7893 | 1993 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 7868 | 1990 | 
 | 2023-01-04 | 7866 | 1990 | 
 | 2023-01-03 | 7863 | 1990 | 
-| 2023-01-02 | 7860 | 1990 | 
 

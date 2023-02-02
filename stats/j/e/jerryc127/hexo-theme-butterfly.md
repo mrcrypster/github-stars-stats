@@ -1,10 +1,10 @@
 # jerryc127/hexo-theme-butterfly - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 978
 
-★ Stars: 4909
+★ Stars: 4916
 
 [Open repository](https://github.com/jerryc127/hexo-theme-butterfly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 4916 | 978 | 
 | 2023-01-31 | 4909 | 978 | 
 | 2023-01-30 | 4906 | 975 | 
 | 2023-01-29 | 4905 | 975 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 4819 | 963 | 
 | 2023-01-04 | 4815 | 963 | 
 | 2023-01-03 | 4811 | 961 | 
-| 2023-01-02 | 4803 | 959 | 
 

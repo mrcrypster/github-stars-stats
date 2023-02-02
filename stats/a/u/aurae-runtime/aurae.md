@@ -1,10 +1,10 @@
 # aurae-runtime/aurae - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 1299
+★ Stars: 1300
 
 [Open repository](https://github.com/aurae-runtime/aurae)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1300 | 62 | 
 | 2023-01-31 | 1299 | 61 | 
 | 2023-01-30 | 1299 | 61 | 
 | 2023-01-29 | 1293 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1156 | 49 | 
 | 2023-01-04 | 1154 | 49 | 
 | 2023-01-03 | 1146 | 50 | 
-| 2023-01-02 | 1141 | 50 | 
 

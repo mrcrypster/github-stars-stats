@@ -1,10 +1,10 @@
 # uvdesk/community-skeleton - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 341
+☋ Forks: 342
 
-★ Stars: 1001
+★ Stars: 1002
 
 [Open repository](https://github.com/uvdesk/community-skeleton)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1002 | 342 | 
 | 2023-01-31 | 1001 | 341 | 
 | 2023-01-30 | 1001 | 341 | 
 | 2023-01-28 | 1001 | 341 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 985 | 338 | 
 | 2023-01-05 | 984 | 338 | 
 | 2023-01-03 | 984 | 337 | 
-| 2023-01-02 | 984 | 337 | 
 

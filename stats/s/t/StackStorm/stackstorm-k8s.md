@@ -1,8 +1,8 @@
 # StackStorm/stackstorm-k8s - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 89 | 89 | 
 | 2023-01-31 | 89 | 88 | 
 | 2023-01-30 | 90 | 88 | 
 | 2023-01-29 | 90 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 88 | 86 | 
 | 2023-01-04 | 88 | 86 | 
 | 2023-01-03 | 88 | 86 | 
-| 2023-01-02 | 88 | 86 | 
 

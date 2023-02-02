@@ -1,10 +1,10 @@
 # HO-CTO/sre-monitoring-as-code - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 11
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/HO-CTO/sre-monitoring-as-code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 14 | 11 | 
 | 2023-01-31 | 15 | 11 | 
 | 2023-01-30 | 15 | 11 | 
 | 2023-01-29 | 15 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 15 | 11 | 
 | 2023-01-04 | 15 | 11 | 
 | 2023-01-03 | 15 | 11 | 
-| 2023-01-02 | 15 | 11 | 
 

@@ -1,8 +1,8 @@
 # MicrosoftDocs/WindowsCommunityToolkitDocs - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 149
+☋ Forks: 148
 
 ★ Stars: 155
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 155 | 148 | 
 | 2023-01-31 | 155 | 149 | 
 | 2023-01-30 | 155 | 149 | 
 | 2023-01-29 | 154 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 148 | 148 | 
 | 2023-01-04 | 148 | 148 | 
 | 2023-01-03 | 148 | 148 | 
-| 2023-01-02 | 148 | 148 | 
 

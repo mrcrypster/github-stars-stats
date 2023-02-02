@@ -1,6 +1,6 @@
 # em432/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 24 | 158 | 
 | 2023-01-31 | 24 | 158 | 
 | 2023-01-30 | 24 | 158 | 
 | 2023-01-29 | 24 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 23 | 163 | 
 | 2023-01-05 | 23 | 164 | 
 | 2023-01-04 | 23 | 163 | 
-| 2023-01-02 | 23 | 163 | 
 

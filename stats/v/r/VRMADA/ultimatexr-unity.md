@@ -1,6 +1,6 @@
 # VRMADA/ultimatexr-unity - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 332 | 36 | 
 | 2023-01-31 | 332 | 36 | 
 | 2023-01-30 | 332 | 36 | 
 | 2023-01-29 | 332 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 310 | 32 | 
 | 2023-01-05 | 310 | 32 | 
 | 2023-01-04 | 310 | 32 | 
-| 2023-01-03 | 308 | 32 | 
 

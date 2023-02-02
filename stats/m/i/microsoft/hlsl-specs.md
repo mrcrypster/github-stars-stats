@@ -1,10 +1,10 @@
 # microsoft/hlsl-specs - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 46
 
 [Open repository](https://github.com/microsoft/hlsl-specs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 46 | 2 | 
 | 2023-01-31 | 47 | 2 | 
 | 2023-01-30 | 47 | 2 | 
 | 2023-01-29 | 46 | 2 | 

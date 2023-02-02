@@ -1,10 +1,10 @@
 # dotnet/arcade - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 319
 
-★ Stars: 591
+★ Stars: 590
 
 [Open repository](https://github.com/dotnet/arcade)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 590 | 319 | 
 | 2023-01-31 | 591 | 319 | 
 | 2023-01-30 | 591 | 318 | 
 | 2023-01-29 | 591 | 318 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 586 | 316 | 
 | 2023-01-04 | 586 | 316 | 
 | 2023-01-03 | 585 | 316 | 
-| 2023-01-02 | 584 | 316 | 
 

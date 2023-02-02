@@ -1,10 +1,10 @@
 # lucas-clemente/quic-go - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1046
+☋ Forks: 1048
 
-★ Stars: 7727
+★ Stars: 7729
 
 [Open repository](https://github.com/lucas-clemente/quic-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 7729 | 1048 | 
 | 2023-01-31 | 7727 | 1046 | 
 | 2023-01-30 | 7722 | 1046 | 
 | 2023-01-29 | 7718 | 1046 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 7667 | 1036 | 
 | 2023-01-04 | 7659 | 1036 | 
 | 2023-01-03 | 7655 | 1035 | 
-| 2023-01-02 | 7654 | 1033 | 
 

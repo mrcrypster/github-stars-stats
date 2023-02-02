@@ -1,6 +1,6 @@
 # leonardoalt/yools - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 112 | 4 | 
 | 2023-01-31 | 112 | 4 | 
 | 2023-01-30 | 112 | 4 | 
 | 2023-01-29 | 112 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 108 | 4 | 
 | 2023-01-04 | 108 | 4 | 
 | 2023-01-03 | 106 | 4 | 
-| 2023-01-02 | 106 | 4 | 
 

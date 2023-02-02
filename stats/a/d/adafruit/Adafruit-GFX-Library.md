@@ -1,8 +1,8 @@
 # adafruit/Adafruit-GFX-Library - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
-☋ Forks: 1435
+☋ Forks: 1436
 
 ★ Stars: 1980
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 1980 | 1436 | 
 | 2023-01-31 | 1980 | 1435 | 
 | 2023-01-30 | 1980 | 1435 | 
 | 2023-01-29 | 1980 | 1435 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 1960 | 1429 | 
 | 2023-01-04 | 1959 | 1430 | 
 | 2023-01-03 | 1958 | 1430 | 
-| 2023-01-02 | 1958 | 1429 | 
 

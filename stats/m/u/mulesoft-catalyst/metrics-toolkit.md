@@ -1,10 +1,10 @@
 # mulesoft-catalyst/metrics-toolkit - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 89
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/mulesoft-catalyst/metrics-toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 70 | 89 | 
 | 2023-01-31 | 69 | 89 | 
 | 2023-01-30 | 69 | 89 | 
 | 2023-01-29 | 69 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 67 | 88 | 
 | 2023-01-04 | 67 | 88 | 
 | 2023-01-03 | 67 | 88 | 
-| 2023-01-02 | 67 | 87 | 
 

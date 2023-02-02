@@ -1,10 +1,10 @@
 # BioTurboNick/AbbreviatedStackTraces.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 7
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/BioTurboNick/AbbreviatedStackTraces.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 109 | 7 | 
 | 2023-01-31 | 108 | 7 | 
 | 2023-01-30 | 108 | 7 | 
 | 2023-01-29 | 108 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 92 | 6 | 
 | 2023-01-04 | 92 | 6 | 
 | 2023-01-03 | 92 | 6 | 
-| 2023-01-02 | 92 | 6 | 
 

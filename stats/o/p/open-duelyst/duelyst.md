@@ -1,10 +1,10 @@
 # open-duelyst/duelyst - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 416
 
-★ Stars: 2970
+★ Stars: 2989
 
 [Open repository](https://github.com/open-duelyst/duelyst)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2989 | 416 | 
 | 2023-01-31 | 2970 | 416 | 
 | 2023-01-29 | 2948 | 412 | 
 | 2023-01-28 | 2941 | 407 | 

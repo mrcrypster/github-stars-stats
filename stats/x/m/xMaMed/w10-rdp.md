@@ -1,6 +1,6 @@
 # xMaMed/w10-rdp - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 2 | 82 | 
 | 2023-01-31 | 2 | 82 | 
 | 2023-01-30 | 2 | 82 | 
 | 2023-01-29 | 2 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 2 | 78 | 
 | 2023-01-04 | 2 | 77 | 
 | 2023-01-03 | 2 | 77 | 
-| 2023-01-02 | 2 | 76 | 
 

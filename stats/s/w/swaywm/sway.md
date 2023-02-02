@@ -1,10 +1,10 @@
 # swaywm/sway - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 01
 
 ☋ Forks: 977
 
-★ Stars: 11829
+★ Stars: 11828
 
 [Open repository](https://github.com/swaywm/sway)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-01 | 11828 | 977 | 
 | 2023-01-31 | 11829 | 977 | 
 | 2023-01-30 | 11826 | 977 | 
 | 2023-01-29 | 11823 | 978 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-05 | 11693 | 971 | 
 | 2023-01-04 | 11686 | 970 | 
 | 2023-01-03 | 11683 | 970 | 
-| 2023-01-02 | 11680 | 970 | 
 
