@@ -1,10 +1,10 @@
 # jessesquires/Foil - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 20
 
-★ Stars: 360
+★ Stars: 361
 
 [Open repository](https://github.com/jessesquires/Foil)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 361 | 20 | 
 | 2023-02-01 | 360 | 20 | 
 | 2023-01-31 | 360 | 20 | 
 | 2023-01-30 | 360 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 356 | 20 | 
 | 2023-01-05 | 356 | 20 | 
 | 2023-01-04 | 356 | 19 | 
-| 2023-01-03 | 355 | 19 | 
 

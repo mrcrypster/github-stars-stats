@@ -1,6 +1,6 @@
 # salesforce-marketingcloud/MarketingCloudSDK-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 44 | 47 | 
 | 2023-02-01 | 44 | 47 | 
 | 2023-01-31 | 43 | 47 | 
 | 2023-01-30 | 43 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 42 | 46 | 
 | 2023-01-05 | 42 | 45 | 
 | 2023-01-04 | 42 | 45 | 
-| 2023-01-03 | 42 | 45 | 
 

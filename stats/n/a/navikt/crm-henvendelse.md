@@ -1,6 +1,6 @@
 # navikt/crm-henvendelse - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | - | 1 | 
 | 2023-02-01 | - | 1 | 
 | 2023-01-31 | - | 1 | 
 | 2023-01-30 | - | 1 | 

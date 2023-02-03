@@ -1,10 +1,10 @@
 # deadtrickster/ssl_verify_fun.erl - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 42
 
-★ Stars: 86
+★ Stars: 85
 
 [Open repository](https://github.com/deadtrickster/ssl_verify_fun.erl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 85 | 42 | 
 | 2023-02-01 | 86 | 42 | 
 | 2023-01-31 | 86 | 42 | 
 | 2023-01-30 | 86 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 84 | 41 | 
 | 2023-01-05 | 84 | 41 | 
 | 2023-01-04 | 84 | 41 | 
-| 2023-01-03 | 84 | 41 | 
 

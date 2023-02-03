@@ -1,10 +1,10 @@
 # Unity-Technologies/com.unity.multiplayer.samples.coop - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 333
+☋ Forks: 334
 
-★ Stars: 1115
+★ Stars: 1118
 
 [Open repository](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1118 | 334 | 
 | 2023-02-01 | 1115 | 333 | 
 | 2023-01-31 | 1113 | 332 | 
 | 2023-01-30 | 1112 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 1095 | 323 | 
 | 2023-01-06 | 1094 | 322 | 
 | 2023-01-05 | 1093 | 322 | 
-| 2023-01-03 | 1092 | 322 | 
 

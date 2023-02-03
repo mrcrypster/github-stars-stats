@@ -1,8 +1,8 @@
 # jremmen/vim-ripgrep - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 93
+☋ Forks: 94
 
 ★ Stars: 505
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 505 | 94 | 
 | 2023-02-01 | 505 | 93 | 
 | 2023-01-31 | 505 | 93 | 
 | 2023-01-30 | 505 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 501 | 93 | 
 | 2023-01-05 | 501 | 93 | 
 | 2023-01-04 | 501 | 93 | 
-| 2023-01-03 | 499 | 93 | 
 

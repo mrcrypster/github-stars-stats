@@ -1,6 +1,6 @@
 # edson-acordi/4bit-microcomputer - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 42 | 2 | 
 | 2023-01-31 | 42 | 2 | 
 | 2023-01-30 | 42 | 2 | 
 | 2023-01-29 | 42 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 39 | 2 | 
 | 2023-01-05 | 39 | 2 | 
 | 2023-01-04 | 39 | 2 | 
-| 2023-01-03 | 37 | 2 | 
 

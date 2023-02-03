@@ -1,10 +1,10 @@
 # archinetai/audio-ai-timeline - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
-☋ Forks: 14
+☋ Forks: 22
 
-★ Stars: 604
+★ Stars: 790
 
 [Open repository](https://github.com/archinetai/audio-ai-timeline)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 790 | 22 | 
+| 2023-02-02 | 783 | 22 | 
 | 2023-02-01 | 604 | 14 | 
 | 2023-01-31 | 400 | 9 | 
 

@@ -1,6 +1,6 @@
 # bigskysoftware/grugbrain.dev - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 64 | 5 | 
 | 2023-02-02 | 64 | 5 | 
 | 2023-01-31 | 64 | 5 | 
 | 2023-01-30 | 64 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 63 | 4 | 
 | 2023-01-05 | 61 | 4 | 
 | 2023-01-04 | 61 | 4 | 
-| 2023-01-03 | 61 | 4 | 
 

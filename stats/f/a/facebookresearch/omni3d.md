@@ -1,8 +1,8 @@
 # facebookresearch/omni3d - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 404
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 404 | 40 | 
 | 2023-02-01 | 404 | 39 | 
 | 2023-01-31 | 403 | 38 | 
 | 2023-01-30 | 403 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 388 | 37 | 
 | 2023-01-05 | 388 | 37 | 
 | 2023-01-04 | 388 | 37 | 
-| 2023-01-03 | 387 | 37 | 
 

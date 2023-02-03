@@ -1,10 +1,10 @@
 # helpsystems/nanodump - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 157
 
-★ Stars: 1092
+★ Stars: 1095
 
 [Open repository](https://github.com/helpsystems/nanodump)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1095 | 157 | 
 | 2023-02-01 | 1092 | 157 | 
 | 2023-01-31 | 1091 | 157 | 
 | 2023-01-30 | 1089 | 157 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 1075 | 155 | 
 | 2023-01-06 | 1075 | 155 | 
 | 2023-01-05 | 1074 | 155 | 
-| 2023-01-04 | 1074 | 155 | 
 

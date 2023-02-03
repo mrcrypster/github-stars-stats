@@ -1,6 +1,6 @@
 # ambionics/phpggc - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2529 | 430 | 
 | 2023-02-01 | 2529 | 430 | 
 | 2023-01-31 | 2525 | 430 | 
 | 2023-01-30 | 2525 | 430 | 

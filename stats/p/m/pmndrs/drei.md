@@ -1,10 +1,10 @@
 # pmndrs/drei - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 388
+☋ Forks: 387
 
-★ Stars: 4534
+★ Stars: 4544
 
 [Open repository](https://github.com/pmndrs/drei)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4544 | 387 | 
 | 2023-02-01 | 4534 | 388 | 
 | 2023-01-31 | 4525 | 387 | 
 | 2023-01-30 | 4515 | 386 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 4345 | 372 | 
 | 2023-01-05 | 4330 | 371 | 
 | 2023-01-04 | 4311 | 371 | 
-| 2023-01-03 | 4303 | 371 | 
 

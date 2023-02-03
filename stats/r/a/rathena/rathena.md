@@ -1,10 +1,10 @@
 # rathena/rathena - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
-☋ Forks: 1970
+☋ Forks: 1972
 
-★ Stars: 2275
+★ Stars: 2276
 
 [Open repository](https://github.com/rathena/rathena)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2276 | 1972 | 
 | 2023-02-01 | 2275 | 1970 | 
 | 2023-01-31 | 2272 | 1970 | 
 | 2023-01-30 | 2272 | 1969 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2224 | 1945 | 
 | 2023-01-05 | 2225 | 1943 | 
 | 2023-01-04 | 2223 | 1943 | 
-| 2023-01-03 | 2221 | 1942 | 
 

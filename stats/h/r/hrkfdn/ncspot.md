@@ -1,10 +1,10 @@
 # hrkfdn/ncspot - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 155
 
-★ Stars: 3476
+★ Stars: 3479
 
 [Open repository](https://github.com/hrkfdn/ncspot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3479 | 155 | 
 | 2023-02-01 | 3476 | 155 | 
 | 2023-01-31 | 3470 | 154 | 
 | 2023-01-30 | 3470 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3419 | 147 | 
 | 2023-01-05 | 3418 | 147 | 
 | 2023-01-04 | 3417 | 147 | 
-| 2023-01-03 | 3413 | 147 | 
 

@@ -1,6 +1,6 @@
 # adaptyteam/AdaptySDK-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 342 | 30 | 
 | 2023-02-01 | 342 | 30 | 
 | 2023-01-31 | 342 | 30 | 
 | 2023-01-30 | 344 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 338 | 30 | 
 | 2023-01-05 | 338 | 30 | 
 | 2023-01-04 | 338 | 30 | 
-| 2023-01-03 | 339 | 30 | 
 

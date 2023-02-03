@@ -1,6 +1,6 @@
 # ArrowOS/android_vendor_arrow - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 18 | 59 | 
 | 2023-02-01 | 18 | 59 | 
 | 2023-01-30 | 18 | 59 | 
 | 2023-01-29 | 18 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 17 | 59 | 
 | 2023-01-05 | 17 | 60 | 
 | 2023-01-04 | 17 | 60 | 
-| 2023-01-03 | 17 | 60 | 
 

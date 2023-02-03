@@ -1,10 +1,10 @@
 # dreamRs/esquisse - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 213
 
-★ Stars: 1586
+★ Stars: 1588
 
 [Open repository](https://github.com/dreamRs/esquisse)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1588 | 213 | 
 | 2023-02-01 | 1586 | 213 | 
 | 2023-01-31 | 1586 | 213 | 
 | 2023-01-30 | 1586 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1580 | 212 | 
 | 2023-01-05 | 1580 | 212 | 
 | 2023-01-04 | 1579 | 212 | 
-| 2023-01-03 | 1579 | 212 | 
 

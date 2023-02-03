@@ -1,6 +1,6 @@
 # Qazeer/OffensivePythonPipeline - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 60 | 9 | 
 | 2023-02-01 | 60 | 9 | 
 | 2023-01-31 | 60 | 9 | 
 | 2023-01-30 | 60 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 59 | 7 | 
 | 2023-01-05 | 59 | 7 | 
 | 2023-01-04 | 59 | 7 | 
-| 2023-01-03 | 58 | 7 | 
 

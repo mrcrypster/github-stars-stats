@@ -1,8 +1,8 @@
 # PlutoSolutions/AbyssOSS - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 30 | 11 | 
 | 2023-02-01 | 30 | 10 | 
 | 2023-01-31 | 29 | 10 | 
 | 2023-01-30 | 29 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 28 | 9 | 
 | 2023-01-05 | 28 | 8 | 
 | 2023-01-04 | 28 | 8 | 
-| 2023-01-03 | 28 | 8 | 
 

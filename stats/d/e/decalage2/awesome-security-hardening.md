@@ -1,10 +1,10 @@
 # decalage2/awesome-security-hardening - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 457
+☋ Forks: 458
 
-★ Stars: 4144
+★ Stars: 4146
 
 [Open repository](https://github.com/decalage2/awesome-security-hardening)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4146 | 458 | 
 | 2023-02-01 | 4144 | 457 | 
 | 2023-01-31 | 4143 | 456 | 
 | 2023-01-30 | 4140 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 4068 | 450 | 
 | 2023-01-05 | 4065 | 450 | 
 | 2023-01-04 | 4063 | 449 | 
-| 2023-01-03 | 4059 | 449 | 
 

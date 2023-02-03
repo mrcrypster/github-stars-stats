@@ -1,10 +1,10 @@
 # Pecners/kontur_rayshader_tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 8
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Pecners/kontur_rayshader_tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 14 | 8 | 
 | 2023-02-01 | 13 | 8 | 
 | 2023-01-31 | 13 | 8 | 
 | 2023-01-30 | 13 | 6 | 

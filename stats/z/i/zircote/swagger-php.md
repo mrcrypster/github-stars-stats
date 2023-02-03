@@ -1,10 +1,10 @@
 # zircote/swagger-php - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 912
+☋ Forks: 913
 
-★ Stars: 4650
+★ Stars: 4653
 
 [Open repository](https://github.com/zircote/swagger-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4653 | 913 | 
 | 2023-02-01 | 4650 | 912 | 
 | 2023-01-31 | 4650 | 912 | 
 | 2023-01-30 | 4649 | 912 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 4631 | 908 | 
 | 2023-01-05 | 4632 | 908 | 
 | 2023-01-04 | 4629 | 907 | 
-| 2023-01-03 | 4629 | 907 | 
 

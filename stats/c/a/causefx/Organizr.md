@@ -1,10 +1,10 @@
 # causefx/Organizr - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 277
 
-★ Stars: 4207
+★ Stars: 4208
 
 [Open repository](https://github.com/causefx/Organizr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4208 | 277 | 
 | 2023-02-01 | 4207 | 277 | 
 | 2023-01-31 | 4203 | 277 | 
 | 2023-01-30 | 4201 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 4162 | 275 | 
 | 2023-01-05 | 4161 | 275 | 
 | 2023-01-04 | 4159 | 275 | 
-| 2023-01-03 | 4155 | 276 | 
 

@@ -1,10 +1,10 @@
 # Tencent/Hippy - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 858
 
-★ Stars: 7269
+★ Stars: 7271
 
 [Open repository](https://github.com/Tencent/Hippy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 7271 | 858 | 
 | 2023-02-01 | 7269 | 858 | 
 | 2023-01-31 | 7267 | 858 | 
 | 2023-01-30 | 7266 | 859 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 7246 | 857 | 
 | 2023-01-05 | 7245 | 857 | 
 | 2023-01-04 | 7244 | 857 | 
-| 2023-01-03 | 7242 | 855 | 
 

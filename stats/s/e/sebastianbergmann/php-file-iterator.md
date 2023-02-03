@@ -1,6 +1,6 @@
 # sebastianbergmann/php-file-iterator - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 7176 | 47 | 
 | 2023-02-01 | 7176 | 47 | 
 | 2023-01-31 | 7176 | 47 | 
 | 2023-01-30 | 7172 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 7147 | 47 | 
 | 2023-01-05 | 7145 | 47 | 
 | 2023-01-04 | 7145 | 47 | 
-| 2023-01-03 | 7145 | 47 | 
 

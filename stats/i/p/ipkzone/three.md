@@ -1,6 +1,6 @@
 # ipkzone/three - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 22 | 18 | 
 | 2023-02-01 | 22 | 18 | 
 | 2023-01-31 | 22 | 18 | 
 | 2023-01-30 | 22 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 21 | 18 | 
 | 2023-01-05 | 21 | 18 | 
 | 2023-01-04 | 21 | 18 | 
-| 2023-01-03 | 21 | 18 | 
 

@@ -1,10 +1,10 @@
 # TeslaFly01/SmartSqlT - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 23
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/TeslaFly01/SmartSqlT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 158 | 23 | 
 | 2023-02-01 | 157 | 23 | 
 | 2023-01-31 | 156 | 23 | 
 | 2023-01-30 | 156 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 155 | 21 | 
 | 2023-01-06 | 155 | 21 | 
 | 2023-01-05 | 155 | 21 | 
-| 2023-01-03 | 153 | 21 | 
 

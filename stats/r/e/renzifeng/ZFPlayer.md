@@ -1,6 +1,6 @@
 # renzifeng/ZFPlayer - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1710
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 6860 | 1710 | 
 | 2023-02-01 | 6860 | 1710 | 
 | 2023-01-31 | 6859 | 1710 | 
 | 2023-01-30 | 6859 | 1710 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6854 | 1706 | 
 | 2023-01-05 | 6853 | 1705 | 
 | 2023-01-04 | 6853 | 1707 | 
-| 2023-01-03 | 6853 | 1706 | 
 

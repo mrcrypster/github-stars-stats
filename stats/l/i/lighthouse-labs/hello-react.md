@@ -1,6 +1,6 @@
 # lighthouse-labs/hello-react - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4 | 82 | 
 | 2023-02-01 | 4 | 82 | 
 | 2023-01-31 | 4 | 82 | 
 | 2023-01-30 | 4 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 4 | 74 | 
 | 2023-01-06 | 4 | 74 | 
 | 2023-01-05 | 4 | 74 | 
-| 2023-01-04 | 4 | 74 | 
 

@@ -1,10 +1,10 @@
 # flutterchina/flutter_in_action_2nd - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 191
+☋ Forks: 190
 
-★ Stars: 1153
+★ Stars: 1156
 
 [Open repository](https://github.com/flutterchina/flutter_in_action_2nd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1156 | 190 | 
 | 2023-02-01 | 1153 | 191 | 
 | 2023-01-31 | 1153 | 191 | 
 | 2023-01-30 | 1147 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1101 | 187 | 
 | 2023-01-05 | 1098 | 187 | 
 | 2023-01-04 | 1098 | 187 | 
-| 2023-01-03 | 1096 | 186 | 
 

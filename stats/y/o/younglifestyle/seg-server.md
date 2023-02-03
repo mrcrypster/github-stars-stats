@@ -1,6 +1,6 @@
 # younglifestyle/seg-server - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 66 | 9 | 
 | 2023-02-01 | 66 | 9 | 
 | 2023-01-31 | 65 | 9 | 
 | 2023-01-29 | 65 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 66 | 9 | 
 | 2023-01-06 | 66 | 9 | 
 | 2023-01-04 | 66 | 9 | 
-| 2023-01-03 | 66 | 9 | 
 

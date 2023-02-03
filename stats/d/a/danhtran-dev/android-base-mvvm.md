@@ -1,6 +1,6 @@
 # danhtran-dev/android-base-mvvm - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 29 | 22 | 
 | 2023-02-01 | 29 | 22 | 
 | 2023-01-31 | 29 | 22 | 
 | 2023-01-30 | 29 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 29 | 22 | 
 | 2023-01-05 | 29 | 22 | 
 | 2023-01-04 | 29 | 22 | 
-| 2023-01-03 | 29 | 22 | 
 

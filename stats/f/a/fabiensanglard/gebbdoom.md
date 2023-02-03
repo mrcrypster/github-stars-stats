@@ -1,10 +1,10 @@
 # fabiensanglard/gebbdoom - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 47
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/fabiensanglard/gebbdoom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 546 | 47 | 
 | 2023-02-01 | 545 | 47 | 
 | 2023-01-31 | 545 | 47 | 
 | 2023-01-30 | 545 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 541 | 47 | 
 | 2023-01-05 | 541 | 47 | 
 | 2023-01-04 | 540 | 47 | 
-| 2023-01-03 | 540 | 47 | 
 

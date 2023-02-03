@@ -1,8 +1,8 @@
 # flutter/codelabs - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1006
+☋ Forks: 1007
 
 ★ Stars: 1124
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1124 | 1007 | 
 | 2023-02-01 | 1124 | 1006 | 
 | 2023-01-31 | 1123 | 1004 | 
 | 2023-01-30 | 1122 | 1002 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1039 | 946 | 
 | 2023-01-05 | 1038 | 944 | 
 | 2023-01-04 | 1034 | 943 | 
-| 2023-01-03 | 1033 | 943 | 
 

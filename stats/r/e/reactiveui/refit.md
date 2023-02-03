@@ -1,10 +1,10 @@
 # reactiveui/refit - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 679
 
-★ Stars: 6771
+★ Stars: 6775
 
 [Open repository](https://github.com/reactiveui/refit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 6775 | 679 | 
 | 2023-02-01 | 6771 | 679 | 
 | 2023-01-31 | 6771 | 679 | 
 | 2023-01-30 | 6765 | 679 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6711 | 677 | 
 | 2023-01-05 | 6711 | 677 | 
 | 2023-01-04 | 6709 | 677 | 
-| 2023-01-03 | 6707 | 677 | 
 

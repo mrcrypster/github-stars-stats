@@ -1,10 +1,10 @@
 # zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 22
 
-★ Stars: 254
+★ Stars: 253
 
 [Open repository](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 253 | 22 | 
 | 2023-02-01 | 254 | 22 | 
 | 2023-01-30 | 254 | 22 | 
 | 2023-01-29 | 254 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 251 | 22 | 
 | 2023-01-05 | 251 | 22 | 
 | 2023-01-04 | 250 | 22 | 
-| 2023-01-03 | 250 | 22 | 
 

@@ -1,10 +1,10 @@
 # mbdavid/LiteDB - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1085
+☋ Forks: 1088
 
-★ Stars: 7189
+★ Stars: 7197
 
 [Open repository](https://github.com/mbdavid/LiteDB)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 7197 | 1088 | 
 | 2023-02-01 | 7189 | 1085 | 
 | 2023-01-31 | 7186 | 1081 | 
 | 2023-01-30 | 7182 | 1081 | 

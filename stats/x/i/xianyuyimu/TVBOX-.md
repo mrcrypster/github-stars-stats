@@ -1,10 +1,10 @@
 # xianyuyimu/TVBOX- - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 55
+☋ Forks: 57
 
-★ Stars: 325
+★ Stars: 337
 
 [Open repository](https://github.com/xianyuyimu/TVBOX-)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 337 | 57 | 
 | 2023-02-01 | 325 | 55 | 
 | 2023-01-31 | 307 | 50 | 
 | 2023-01-30 | 299 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 151 | 26 | 
 | 2023-01-05 | 140 | 26 | 
 | 2023-01-04 | 124 | 25 | 
-| 2023-01-03 | 117 | 24 | 
 

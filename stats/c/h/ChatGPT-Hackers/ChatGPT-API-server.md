@@ -1,10 +1,10 @@
 # ChatGPT-Hackers/ChatGPT-API-server - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/ChatGPT-Hackers/ChatGPT-API-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 34 | 93 | 
 | 2023-02-01 | 33 | 92 | 
 | 2023-01-31 | 34 | 92 | 
 | 2023-01-30 | 30 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 499 | 58 | 
 | 2023-01-05 | 482 | 56 | 
 | 2023-01-04 | 461 | 53 | 
-| 2023-01-03 | 439 | 52 | 
 

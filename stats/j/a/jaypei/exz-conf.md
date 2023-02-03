@@ -1,6 +1,6 @@
 # jaypei/exz-conf - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 7 | 9 | 
 | 2023-02-01 | 7 | 9 | 
 | 2023-01-31 | 7 | 9 | 
 | 2023-01-29 | 7 | 9 | 

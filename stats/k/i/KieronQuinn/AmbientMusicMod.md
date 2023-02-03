@@ -1,10 +1,10 @@
 # KieronQuinn/AmbientMusicMod - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 20
 
-★ Stars: 938
+★ Stars: 942
 
 [Open repository](https://github.com/KieronQuinn/AmbientMusicMod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 942 | 20 | 
 | 2023-02-01 | 938 | 20 | 
 | 2023-01-31 | 937 | 20 | 
 | 2023-01-30 | 932 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 875 | 19 | 
 | 2023-01-05 | 874 | 19 | 
 | 2023-01-04 | 871 | 19 | 
-| 2023-01-03 | 870 | 19 | 
 

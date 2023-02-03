@@ -1,6 +1,6 @@
 # BunxMaker/Vs-Papyrus-FULL-WEEK- - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1 | 10 | 
 | 2023-02-01 | 1 | 10 | 
 | 2023-01-31 | 1 | 10 | 
 | 2023-01-30 | 1 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 2 | 10 | 
 | 2023-01-06 | 2 | 10 | 
 | 2023-01-04 | 2 | 10 | 
-| 2023-01-03 | 2 | 10 | 
 

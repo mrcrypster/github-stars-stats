@@ -1,8 +1,8 @@
 # Foundation-19/Foundation-19 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 112
+☋ Forks: 111
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 16 | 111 | 
 | 2023-02-01 | 16 | 112 | 
 | 2023-01-31 | 17 | 112 | 
 | 2023-01-30 | 17 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 17 | 111 | 
 | 2023-01-05 | 17 | 111 | 
 | 2023-01-04 | 17 | 111 | 
-| 2023-01-03 | 17 | 111 | 
 

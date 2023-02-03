@@ -1,6 +1,6 @@
 # sdkman/sdkman-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 592
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5081 | 592 | 
 | 2023-02-01 | 5081 | 592 | 
 | 2023-01-31 | 5080 | 592 | 
 | 2023-01-30 | 5077 | 592 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5036 | 589 | 
 | 2023-01-05 | 5035 | 588 | 
 | 2023-01-04 | 5034 | 588 | 
-| 2023-01-03 | 5032 | 588 | 
 

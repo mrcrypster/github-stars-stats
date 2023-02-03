@@ -1,10 +1,10 @@
 # KotlinGeekDev/Nosky - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/KotlinGeekDev/Nosky)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 78 | 9 | 
 | 2023-02-01 | 77 | 9 | 
 | 2023-01-31 | 76 | 9 | 
 | 2023-01-30 | 76 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 70 | 6 | 
 | 2023-01-05 | 68 | 6 | 
 | 2023-01-04 | 67 | 6 | 
-| 2023-01-03 | 66 | 6 | 
 

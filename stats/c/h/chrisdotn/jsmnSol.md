@@ -1,10 +1,10 @@
 # chrisdotn/jsmnSol - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 29
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/chrisdotn/jsmnSol)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 123 | 29 | 
 | 2023-02-01 | 122 | 29 | 
 | 2023-01-31 | 122 | 29 | 
 | 2023-01-30 | 122 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 121 | 29 | 
 | 2023-01-05 | 121 | 29 | 
 | 2023-01-04 | 121 | 29 | 
-| 2023-01-03 | 121 | 29 | 
 

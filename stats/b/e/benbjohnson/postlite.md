@@ -1,6 +1,6 @@
 # benbjohnson/postlite - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1133 | 26 | 
 | 2023-02-01 | 1133 | 26 | 
 | 2023-01-31 | 1130 | 26 | 
 | 2023-01-30 | 1127 | 26 | 

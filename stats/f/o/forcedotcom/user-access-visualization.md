@@ -1,6 +1,6 @@
 # forcedotcom/user-access-visualization - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 46 | 33 | 
 | 2023-02-01 | 46 | 33 | 
 | 2023-01-30 | 46 | 33 | 
 | 2023-01-29 | 46 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 45 | 33 | 
 | 2023-01-05 | 45 | 33 | 
 | 2023-01-04 | 45 | 33 | 
-| 2023-01-03 | 45 | 33 | 
 

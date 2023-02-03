@@ -1,10 +1,10 @@
 # john-smilga/node-express-course - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 2415
+☋ Forks: 2417
 
-★ Stars: 2275
+★ Stars: 2280
 
 [Open repository](https://github.com/john-smilga/node-express-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2280 | 2417 | 
 | 2023-02-01 | 2275 | 2415 | 
 | 2023-01-31 | 2275 | 2414 | 
 | 2023-01-30 | 2272 | 2409 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2201 | 2289 | 
 | 2023-01-05 | 2194 | 2282 | 
 | 2023-01-04 | 2193 | 2278 | 
-| 2023-01-03 | 2184 | 2273 | 
 

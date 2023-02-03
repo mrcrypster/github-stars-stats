@@ -1,10 +1,10 @@
 # opengapps/opengapps - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 977
+☋ Forks: 978
 
-★ Stars: 5500
+★ Stars: 5501
 
 [Open repository](https://github.com/opengapps/opengapps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5501 | 978 | 
 | 2023-02-01 | 5500 | 977 | 
 | 2023-01-31 | 5497 | 977 | 
 | 2023-01-30 | 5497 | 977 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5469 | 970 | 
 | 2023-01-05 | 5467 | 970 | 
 | 2023-01-04 | 5466 | 971 | 
-| 2023-01-03 | 5465 | 971 | 
 

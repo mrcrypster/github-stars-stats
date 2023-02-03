@@ -1,10 +1,10 @@
 # aolofsson/awesome-opensource-hardware - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 23
 
-★ Stars: 298
+★ Stars: 299
 
 [Open repository](https://github.com/aolofsson/awesome-opensource-hardware)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 299 | 23 | 
 | 2023-02-01 | 298 | 23 | 
 | 2023-01-31 | 298 | 23 | 
 | 2023-01-30 | 298 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 273 | 21 | 
 | 2023-01-05 | 270 | 20 | 
 | 2023-01-04 | 259 | 19 | 
-| 2023-01-03 | 257 | 19 | 
 

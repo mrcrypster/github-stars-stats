@@ -1,6 +1,6 @@
 # tenderlove/refreshing - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 71 | - | 
 | 2023-02-01 | 71 | - | 
 | 2023-01-30 | 71 | - | 
 | 2023-01-29 | 71 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 71 | - | 
 | 2023-01-06 | 71 | - | 
 | 2023-01-05 | 71 | - | 
-| 2023-01-03 | 71 | - | 
 

@@ -1,10 +1,10 @@
 # badmojr/1Hosts - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 41
 
-★ Stars: 682
+★ Stars: 684
 
 [Open repository](https://github.com/badmojr/1Hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 684 | 41 | 
 | 2023-02-01 | 682 | 41 | 
 | 2023-01-31 | 679 | 41 | 
 | 2023-01-30 | 678 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 637 | 39 | 
 | 2023-01-05 | 636 | 39 | 
 | 2023-01-04 | 634 | 39 | 
-| 2023-01-03 | 634 | 39 | 
 

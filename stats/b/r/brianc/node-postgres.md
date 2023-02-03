@@ -1,8 +1,8 @@
 # brianc/node-postgres - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1146
+☋ Forks: 1147
 
 ★ Stars: 10940
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 10940 | 1147 | 
 | 2023-02-01 | 10940 | 1146 | 
 | 2023-01-31 | 10939 | 1144 | 
 | 2023-01-30 | 10937 | 1144 | 

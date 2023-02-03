@@ -1,10 +1,10 @@
 # Just-A-Visitor/Algorithmic-Pseudocode - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 155
 
-★ Stars: 674
+★ Stars: 675
 
 [Open repository](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 675 | 155 | 
 | 2023-02-01 | 674 | 155 | 
 | 2023-01-31 | 674 | 155 | 
 | 2023-01-30 | 674 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 666 | 153 | 
 | 2023-01-05 | 666 | 153 | 
 | 2023-01-04 | 666 | 153 | 
-| 2023-01-03 | 664 | 153 | 
 

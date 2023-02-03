@@ -1,10 +1,10 @@
 # genepi/nf-gwas - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/genepi/nf-gwas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 28 | 9 | 
 | 2023-02-01 | 27 | 9 | 
 | 2023-01-31 | 27 | 9 | 
 | 2023-01-30 | 26 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 26 | 8 | 
 | 2023-01-06 | 26 | 8 | 
 | 2023-01-05 | 26 | 8 | 
-| 2023-01-04 | 26 | 8 | 
 

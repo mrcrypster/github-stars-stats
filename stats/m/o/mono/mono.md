@@ -1,10 +1,10 @@
 # mono/mono - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 3765
 
-★ Stars: 10281
+★ Stars: 10280
 
 [Open repository](https://github.com/mono/mono)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 10280 | 3765 | 
 | 2023-02-01 | 10281 | 3765 | 
 | 2023-01-31 | 10282 | 3765 | 
 | 2023-01-30 | 10281 | 3765 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 10242 | 3763 | 
 | 2023-01-05 | 10241 | 3764 | 
 | 2023-01-04 | 10241 | 3764 | 
-| 2023-01-03 | 10241 | 3764 | 
 

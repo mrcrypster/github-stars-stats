@@ -1,6 +1,6 @@
 # gruntwork-io/terraform-kubernetes-helm - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 65 | 52 | 
 | 2023-02-01 | 65 | 52 | 
 | 2023-01-30 | 65 | 52 | 
 | 2023-01-29 | 65 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 64 | 52 | 
 | 2023-01-05 | 64 | 52 | 
 | 2023-01-04 | 64 | 52 | 
-| 2023-01-03 | 64 | 52 | 
 

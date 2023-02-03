@@ -1,10 +1,10 @@
 # subconsciousnetwork/noosphere - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 21
 
-★ Stars: 413
+★ Stars: 414
 
 [Open repository](https://github.com/subconsciousnetwork/noosphere)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 414 | 21 | 
 | 2023-02-01 | 413 | 21 | 
 | 2023-01-31 | 413 | 21 | 
 | 2023-01-30 | 412 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 398 | 21 | 
 | 2023-01-05 | 396 | 21 | 
 | 2023-01-04 | 395 | 20 | 
-| 2023-01-03 | 395 | 20 | 
 

@@ -1,8 +1,8 @@
 # Toxinum/rdp - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3 | 82 | 
 | 2023-02-01 | 3 | 81 | 
 | 2023-01-31 | 3 | 75 | 
 | 2023-01-30 | 3 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2 | 34 | 
 | 2023-01-05 | 2 | 32 | 
 | 2023-01-04 | 2 | 32 | 
-| 2023-01-03 | 2 | 30 | 
 

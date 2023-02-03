@@ -1,6 +1,6 @@
 # AlbanCrepel/compiiile - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 66 | 2 | 
 | 2023-02-01 | 66 | 2 | 
 | 2023-01-31 | 66 | 2 | 
 | 2023-01-30 | 65 | 2 | 

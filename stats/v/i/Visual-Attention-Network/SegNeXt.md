@@ -1,6 +1,6 @@
 # Visual-Attention-Network/SegNeXt - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 574 | 60 | 
 | 2023-02-02 | 574 | 60 | 
 | 2023-01-31 | 575 | 60 | 
 | 2023-01-30 | 575 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 565 | 59 | 
 | 2023-01-05 | 565 | 59 | 
 | 2023-01-04 | 562 | 59 | 
-| 2023-01-03 | 561 | 59 | 
 

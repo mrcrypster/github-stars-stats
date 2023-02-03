@@ -1,6 +1,6 @@
 # ZQCard/kratos-base-project - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 47 | 8 | 
 | 2023-02-01 | 47 | 8 | 
 | 2023-01-31 | 47 | 8 | 
 | 2023-01-30 | 47 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 46 | 6 | 
 | 2023-01-05 | 45 | 6 | 
 | 2023-01-04 | 46 | 6 | 
-| 2023-01-03 | 46 | 6 | 
 

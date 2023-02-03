@@ -1,6 +1,6 @@
 # Lorenzooone/M3_Eng_1_3 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3 | 1 | 
 | 2023-02-01 | 3 | 1 | 
 | 2023-01-31 | 3 | 1 | 
 | 2023-01-30 | 3 | 1 | 

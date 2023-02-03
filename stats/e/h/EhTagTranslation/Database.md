@@ -1,10 +1,10 @@
 # EhTagTranslation/Database - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 53
 
-★ Stars: 492
+★ Stars: 493
 
 [Open repository](https://github.com/EhTagTranslation/Database)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 493 | 53 | 
 | 2023-02-01 | 492 | 53 | 
 | 2023-01-31 | 493 | 53 | 
 | 2023-01-30 | 492 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 479 | 52 | 
 | 2023-01-05 | 480 | 52 | 
 | 2023-01-04 | 481 | 52 | 
-| 2023-01-03 | 482 | 52 | 
 

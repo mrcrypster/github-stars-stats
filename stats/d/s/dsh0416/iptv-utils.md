@@ -1,6 +1,6 @@
 # dsh0416/iptv-utils - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 32 | 4 | 
 | 2023-02-01 | 32 | 4 | 
 | 2023-01-31 | 32 | 4 | 
 | 2023-01-30 | 32 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 31 | 4 | 
 | 2023-01-05 | 31 | 4 | 
 | 2023-01-04 | 31 | 4 | 
-| 2023-01-03 | 31 | 4 | 
 

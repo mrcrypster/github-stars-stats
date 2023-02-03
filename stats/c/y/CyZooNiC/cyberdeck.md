@@ -1,6 +1,6 @@
 # CyZooNiC/cyberdeck - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 105 | 6 | 
 | 2023-02-01 | 105 | 6 | 
 | 2023-01-31 | 105 | 6 | 
 | 2023-01-30 | 105 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 101 | 5 | 
 | 2023-01-06 | 101 | 5 | 
 | 2023-01-05 | 101 | 5 | 
-| 2023-01-04 | 101 | 5 | 
 

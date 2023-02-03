@@ -1,10 +1,10 @@
 # CodelyTV/php-ddd-example - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 934
 
-★ Stars: 2537
+★ Stars: 2539
 
 [Open repository](https://github.com/CodelyTV/php-ddd-example)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2539 | 934 | 
 | 2023-02-01 | 2537 | 934 | 
 | 2023-01-31 | 2533 | 933 | 
 | 2023-01-30 | 2528 | 930 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2499 | 921 | 
 | 2023-01-05 | 2499 | 921 | 
 | 2023-01-04 | 2499 | 920 | 
-| 2023-01-03 | 2498 | 919 | 
 

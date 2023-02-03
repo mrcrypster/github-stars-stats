@@ -1,10 +1,10 @@
 # limbopro/Adblock4limbo - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 140
 
-★ Stars: 1702
+★ Stars: 1703
 
 [Open repository](https://github.com/limbopro/Adblock4limbo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1703 | 140 | 
 | 2023-02-01 | 1702 | 140 | 
 | 2023-01-31 | 1700 | 140 | 
 | 2023-01-30 | 1699 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1656 | 138 | 
 | 2023-01-05 | 1651 | 138 | 
 | 2023-01-04 | 1648 | 138 | 
-| 2023-01-03 | 1647 | 138 | 
 

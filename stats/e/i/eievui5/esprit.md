@@ -1,10 +1,10 @@
 # eievui5/esprit - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/eievui5/esprit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 21 | - | 
 | 2023-02-01 | 20 | - | 
 | 2023-01-31 | 20 | - | 
 | 2023-01-30 | 20 | - | 

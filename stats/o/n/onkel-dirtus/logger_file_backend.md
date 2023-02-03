@@ -1,6 +1,6 @@
 # onkel-dirtus/logger_file_backend - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 291 | 115 | 
 | 2023-02-01 | 291 | 115 | 
 | 2023-01-30 | 291 | 115 | 
 | 2023-01-29 | 291 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 289 | 115 | 
 | 2023-01-05 | 289 | 115 | 
 | 2023-01-04 | 289 | 115 | 
-| 2023-01-03 | 289 | 115 | 
 

@@ -1,10 +1,10 @@
 # teej/sf-funnels - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/teej/sf-funnels)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 66 | 6 | 
 | 2023-02-01 | 65 | 6 | 
 | 2023-01-31 | 65 | 6 | 
 | 2023-01-30 | 65 | 6 | 

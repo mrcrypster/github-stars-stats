@@ -1,6 +1,6 @@
 # wimpysworld/deb-get - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 864 | 99 | 
 | 2023-02-01 | 864 | 99 | 
 | 2023-01-31 | 864 | 99 | 
 | 2023-01-30 | 863 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 843 | 97 | 
 | 2023-01-05 | 843 | 97 | 
 | 2023-01-04 | 844 | 97 | 
-| 2023-01-03 | 845 | 97 | 
 

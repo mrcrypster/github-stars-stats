@@ -1,10 +1,10 @@
 # AmaiKinono/puni - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 14
 
-★ Stars: 284
+★ Stars: 285
 
 [Open repository](https://github.com/AmaiKinono/puni)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 285 | 14 | 
 | 2023-02-01 | 284 | 14 | 
 | 2023-01-31 | 284 | 14 | 
 | 2023-01-30 | 284 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 258 | 13 | 
 | 2023-01-05 | 258 | 13 | 
 | 2023-01-04 | 258 | 13 | 
-| 2023-01-03 | 258 | 13 | 
 

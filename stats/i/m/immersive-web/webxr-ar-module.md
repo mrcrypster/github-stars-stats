@@ -1,6 +1,6 @@
 # immersive-web/webxr-ar-module - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 105 | 19 | 
 | 2023-02-01 | 105 | 19 | 
 | 2023-01-30 | 105 | 19 | 
 | 2023-01-29 | 105 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 105 | 19 | 
 | 2023-01-05 | 104 | 19 | 
 | 2023-01-04 | 104 | 19 | 
-| 2023-01-03 | 104 | 19 | 
 

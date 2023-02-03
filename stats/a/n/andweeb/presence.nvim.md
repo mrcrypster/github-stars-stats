@@ -1,10 +1,10 @@
 # andweeb/presence.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 22
 
-★ Stars: 483
+★ Stars: 485
 
 [Open repository](https://github.com/andweeb/presence.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 485 | 22 | 
 | 2023-02-01 | 483 | 22 | 
 | 2023-01-31 | 483 | 22 | 
 | 2023-01-30 | 483 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 458 | 19 | 
 | 2023-01-05 | 457 | 19 | 
 | 2023-01-04 | 457 | 19 | 
-| 2023-01-03 | 458 | 19 | 
 

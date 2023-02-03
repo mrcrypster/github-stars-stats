@@ -1,10 +1,10 @@
 # webraybtl/CodeQLpy - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 160
+★ Stars: 164
 
 [Open repository](https://github.com/webraybtl/CodeQLpy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 164 | 20 | 
 | 2023-02-01 | 160 | 19 | 
 | 2023-01-31 | 155 | 19 | 
 | 2023-01-30 | 152 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 29 | 4 | 
 | 2023-01-05 | 15 | 1 | 
 | 2023-01-04 | 15 | 1 | 
-| 2023-01-03 | 11 | 1 | 
 

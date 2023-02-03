@@ -1,10 +1,10 @@
 # myspotontheweb/gitops-workloads-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/myspotontheweb/gitops-workloads-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 32 | 9 | 
 | 2023-02-01 | 31 | 9 | 
 | 2023-01-31 | 31 | 9 | 
 | 2023-01-30 | 31 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 29 | 9 | 
 | 2023-01-05 | 29 | 9 | 
 | 2023-01-04 | 29 | 9 | 
-| 2023-01-03 | 29 | 9 | 
 

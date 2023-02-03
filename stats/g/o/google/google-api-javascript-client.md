@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 1037
 
-★ Stars: 2608
+★ Stars: 2614
 
 [Open repository](https://github.com/google/google-api-javascript-client)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 2608 | 1037 | 
+| 2023-02-02 | 2614 | 1037 | 
 | 2023-02-01 | 2608 | 1037 | 
 | 2023-01-31 | 2605 | 1036 | 
 | 2023-01-30 | 2602 | 1036 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 2572 | 1030 | 
 | 2023-01-05 | 2570 | 1031 | 
 | 2023-01-04 | 2568 | 1029 | 
-| 2023-01-03 | 2567 | 1028 | 
 

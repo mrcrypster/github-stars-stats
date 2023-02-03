@@ -1,6 +1,6 @@
 # alfg/docker-nginx-rtmp - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 372
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 910 | 372 | 
 | 2023-02-01 | 910 | 372 | 
 | 2023-01-31 | 908 | 371 | 
 | 2023-01-30 | 905 | 371 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 901 | 370 | 
 | 2023-01-05 | 901 | 370 | 
 | 2023-01-04 | 899 | 370 | 
-| 2023-01-03 | 899 | 370 | 
 

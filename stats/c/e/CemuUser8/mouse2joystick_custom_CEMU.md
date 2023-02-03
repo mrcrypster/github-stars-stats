@@ -1,6 +1,6 @@
 # CemuUser8/mouse2joystick_custom_CEMU - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 128 | 41 | 
 | 2023-02-01 | 128 | 41 | 
 | 2023-01-31 | 128 | 41 | 
 | 2023-01-30 | 128 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 126 | 42 | 
 | 2023-01-05 | 125 | 42 | 
 | 2023-01-04 | 125 | 42 | 
-| 2023-01-03 | 125 | 42 | 
 

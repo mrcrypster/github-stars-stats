@@ -1,6 +1,6 @@
 # sinasab/MergeSplitTokens - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 43 | 3 | 
 | 2023-02-01 | 43 | 3 | 
 | 2023-01-31 | 43 | 3 | 
 | 2023-01-30 | 43 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 43 | 3 | 
 | 2023-01-05 | 43 | 3 | 
 | 2023-01-04 | 44 | 3 | 
-| 2023-01-03 | 44 | 3 | 
 

@@ -1,10 +1,10 @@
 # bgkatz/3phase_integrated - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 181
 
-★ Stars: 418
+★ Stars: 419
 
 [Open repository](https://github.com/bgkatz/3phase_integrated)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 419 | 181 | 
 | 2023-02-01 | 418 | 181 | 
 | 2023-01-31 | 417 | 180 | 
 | 2023-01-30 | 417 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 415 | 178 | 
 | 2023-01-05 | 414 | 177 | 
 | 2023-01-04 | 414 | 177 | 
-| 2023-01-03 | 414 | 177 | 
 

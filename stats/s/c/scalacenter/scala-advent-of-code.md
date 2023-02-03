@@ -1,6 +1,6 @@
 # scalacenter/scala-advent-of-code - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 36 | 31 | 
 | 2023-02-01 | 36 | 31 | 
 | 2023-01-31 | 36 | 31 | 
 | 2023-01-30 | 37 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 36 | 32 | 
 | 2023-01-05 | 36 | 32 | 
 | 2023-01-04 | 36 | 32 | 
-| 2023-01-03 | 36 | 32 | 
 

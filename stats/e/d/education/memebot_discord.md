@@ -1,10 +1,10 @@
 # education/memebot_discord - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 17
 
-★ Stars: 41
+★ Stars: 43
 
 [Open repository](https://github.com/education/memebot_discord)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 43 | 17 | 
 | 2023-02-01 | 41 | 17 | 
 | 2023-01-31 | 40 | 17 | 
 | 2023-01-30 | 40 | 17 | 

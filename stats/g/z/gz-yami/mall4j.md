@@ -1,10 +1,10 @@
 # gz-yami/mall4j - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 895
+☋ Forks: 897
 
-★ Stars: 3390
+★ Stars: 3393
 
 [Open repository](https://github.com/gz-yami/mall4j)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3393 | 897 | 
 | 2023-02-01 | 3390 | 895 | 
 | 2023-01-31 | 3389 | 895 | 
 | 2023-01-30 | 3386 | 893 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3354 | 884 | 
 | 2023-01-05 | 3347 | 881 | 
 | 2023-01-04 | 3330 | 877 | 
-| 2023-01-03 | 3316 | 874 | 
 

@@ -1,6 +1,6 @@
 # Kobe972/ustc_course_plus - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 16 | 3 | 
 | 2023-02-01 | 16 | 3 | 
 | 2023-01-31 | 16 | 3 | 
 | 2023-01-30 | 16 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 14 | 3 | 
 | 2023-01-05 | 14 | 3 | 
 | 2023-01-04 | 14 | 3 | 
-| 2023-01-03 | 14 | 3 | 
 

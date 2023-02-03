@@ -1,8 +1,8 @@
 # 3arthqu4ke/3arthh4ck - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 155
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 155 | 57 | 
 | 2023-02-01 | 155 | 56 | 
 | 2023-01-31 | 155 | 53 | 
 | 2023-01-30 | 155 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 145 | 50 | 
 | 2023-01-05 | 145 | 50 | 
 | 2023-01-04 | 145 | 50 | 
-| 2023-01-03 | 145 | 50 | 
 

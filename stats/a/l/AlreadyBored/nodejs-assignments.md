@@ -1,8 +1,8 @@
 # AlreadyBored/nodejs-assignments - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 336
+☋ Forks: 337
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 36 | 337 | 
 | 2023-02-01 | 36 | 336 | 
 | 2023-01-31 | 37 | 335 | 
 | 2023-01-30 | 37 | 335 | 

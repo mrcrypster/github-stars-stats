@@ -1,10 +1,10 @@
 # kokke/tiny-AES-c - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1175
 
-★ Stars: 3437
+★ Stars: 3439
 
 [Open repository](https://github.com/kokke/tiny-AES-c)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3439 | 1175 | 
 | 2023-02-01 | 3437 | 1175 | 
 | 2023-01-31 | 3436 | 1175 | 
 | 2023-01-30 | 3434 | 1175 | 

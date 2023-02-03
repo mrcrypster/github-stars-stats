@@ -1,10 +1,10 @@
 # davidjconnelly/trongate-framework - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 86
+☋ Forks: 87
 
-★ Stars: 738
+★ Stars: 741
 
 [Open repository](https://github.com/davidjconnelly/trongate-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 741 | 87 | 
 | 2023-02-01 | 738 | 86 | 
 | 2023-01-31 | 737 | 86 | 
 | 2023-01-30 | 737 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 710 | 83 | 
 | 2023-01-05 | 710 | 83 | 
 | 2023-01-04 | 710 | 83 | 
-| 2023-01-03 | 708 | 83 | 
 

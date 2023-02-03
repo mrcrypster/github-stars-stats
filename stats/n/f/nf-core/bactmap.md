@@ -1,10 +1,10 @@
 # nf-core/bactmap - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 21
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/nf-core/bactmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 38 | 21 | 
 | 2023-01-31 | 37 | 21 | 
 | 2023-01-30 | 37 | 21 | 
 | 2023-01-29 | 37 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 37 | 21 | 
 | 2023-01-05 | 37 | 21 | 
 | 2023-01-04 | 37 | 21 | 
-| 2023-01-03 | 37 | 21 | 
 

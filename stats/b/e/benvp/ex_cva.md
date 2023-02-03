@@ -1,6 +1,6 @@
 # benvp/ex_cva - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 71 | 1 | 
 | 2023-02-01 | 71 | 1 | 
 | 2023-01-31 | 71 | 1 | 
 | 2023-01-30 | 71 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 65 | 1 | 
 | 2023-01-05 | 65 | 1 | 
 | 2023-01-04 | 64 | 1 | 
-| 2023-01-03 | 64 | 1 | 
 

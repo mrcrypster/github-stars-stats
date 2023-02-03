@@ -1,6 +1,6 @@
 # unicode-org/icu4x - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 931 | 104 | 
 | 2023-02-01 | 931 | 104 | 
 | 2023-01-31 | 932 | 104 | 
 | 2023-01-30 | 932 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 906 | 103 | 
 | 2023-01-05 | 905 | 103 | 
 | 2023-01-04 | 905 | 103 | 
-| 2023-01-03 | 904 | 103 | 
 

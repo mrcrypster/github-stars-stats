@@ -1,10 +1,10 @@
 # backend-br/vagas - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 203
 
-★ Stars: 5798
+★ Stars: 5800
 
 [Open repository](https://github.com/backend-br/vagas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5800 | 203 | 
 | 2023-02-01 | 5798 | 203 | 
 | 2023-01-31 | 5793 | 202 | 
 | 2023-01-30 | 5789 | 202 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5704 | 201 | 
 | 2023-01-05 | 5698 | 201 | 
 | 2023-01-04 | 5691 | 202 | 
-| 2023-01-03 | 5691 | 202 | 
 

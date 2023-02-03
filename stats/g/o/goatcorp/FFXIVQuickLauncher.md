@@ -1,6 +1,6 @@
 # goatcorp/FFXIVQuickLauncher - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 273
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2145 | 273 | 
 | 2023-02-01 | 2145 | 273 | 
 | 2023-01-31 | 2145 | 273 | 
 | 2023-01-30 | 2143 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2076 | 266 | 
 | 2023-01-05 | 2075 | 266 | 
 | 2023-01-04 | 2073 | 265 | 
-| 2023-01-03 | 2072 | 265 | 
 

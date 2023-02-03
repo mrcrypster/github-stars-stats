@@ -1,10 +1,10 @@
 # apache/nuttx - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 657
+☋ Forks: 659
 
-★ Stars: 1232
+★ Stars: 1234
 
 [Open repository](https://github.com/apache/nuttx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1234 | 659 | 
 | 2023-02-02 | 1232 | 657 | 
 | 2023-01-31 | 1231 | 656 | 
 | 2023-01-30 | 1232 | 656 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 1204 | 645 | 
 | 2023-01-05 | 1202 | 645 | 
 | 2023-01-04 | 1201 | 645 | 
-| 2023-01-03 | 1200 | 645 | 
 

@@ -1,6 +1,6 @@
 # ifrankandrade/fifa-world-cup-2022-prediction - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 170 | 111 | 
 | 2023-01-31 | 170 | 111 | 
 | 2023-01-30 | 170 | 111 | 
 | 2023-01-29 | 170 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-06 | 165 | 109 | 
 | 2023-01-05 | 164 | 109 | 
 | 2023-01-04 | 163 | 109 | 
-| 2023-01-03 | 163 | 109 | 
 

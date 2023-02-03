@@ -1,10 +1,10 @@
 # orangepi-xunlong/orangepi-build - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 124
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/orangepi-xunlong/orangepi-build)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 211 | 124 | 
 | 2023-02-01 | 210 | 124 | 
 | 2023-01-31 | 209 | 123 | 
 | 2023-01-30 | 209 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 196 | 116 | 
 | 2023-01-05 | 196 | 116 | 
 | 2023-01-04 | 195 | 116 | 
-| 2023-01-03 | 192 | 115 | 
 

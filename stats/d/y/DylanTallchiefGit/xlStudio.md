@@ -1,6 +1,6 @@
 # DylanTallchiefGit/xlStudio - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 226 | 13 | 
 | 2023-02-02 | 226 | 13 | 
 | 2023-01-31 | 226 | 13 | 
 | 2023-01-30 | 226 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 227 | 13 | 
 | 2023-01-05 | 227 | 13 | 
 | 2023-01-04 | 227 | 13 | 
-| 2023-01-03 | 227 | 13 | 
 

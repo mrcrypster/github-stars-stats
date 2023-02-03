@@ -1,10 +1,10 @@
 # adam-james-v/solenoid - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/adam-james-v/solenoid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 51 | - | 
 | 2023-02-01 | 49 | - | 
 | 2023-01-31 | 49 | - | 
 | 2023-01-30 | 48 | - | 

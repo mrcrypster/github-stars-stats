@@ -1,8 +1,8 @@
 # AOSPA/android_device_qcom_common - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 14 | 80 | 
 | 2023-02-02 | 14 | 79 | 
 | 2023-01-31 | 14 | 78 | 
 | 2023-01-30 | 13 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 12 | 74 | 
 | 2023-01-05 | 12 | 73 | 
 | 2023-01-04 | 12 | 73 | 
-| 2023-01-03 | 12 | 73 | 
 

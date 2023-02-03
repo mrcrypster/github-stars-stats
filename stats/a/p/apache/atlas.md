@@ -1,10 +1,10 @@
 # apache/atlas - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 761
 
-★ Stars: 1449
+★ Stars: 1450
 
 [Open repository](https://github.com/apache/atlas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1450 | 761 | 
 | 2023-02-01 | 1449 | 761 | 
 | 2023-01-31 | 1447 | 761 | 
 | 2023-01-30 | 1445 | 761 | 

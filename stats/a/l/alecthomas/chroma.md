@@ -1,6 +1,6 @@
 # alecthomas/chroma - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 321
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3614 | 321 | 
 | 2023-02-01 | 3614 | 321 | 
 | 2023-01-31 | 3614 | 321 | 
 | 2023-01-30 | 3611 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3585 | 315 | 
 | 2023-01-05 | 3584 | 315 | 
 | 2023-01-04 | 3578 | 315 | 
-| 2023-01-03 | 3577 | 315 | 
 

@@ -1,6 +1,6 @@
 # brocodev/flutter_projects - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 506 | 140 | 
 | 2023-02-01 | 506 | 140 | 
 | 2023-01-31 | 506 | 140 | 
 | 2023-01-29 | 505 | 140 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 502 | 140 | 
 | 2023-01-06 | 502 | 140 | 
 | 2023-01-05 | 502 | 140 | 
-| 2023-01-04 | 502 | 140 | 
 

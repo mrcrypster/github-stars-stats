@@ -1,6 +1,6 @@
 # NekoSilverFox/Assembly - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 137 | 38 | 
 | 2023-02-01 | 137 | 38 | 
 | 2023-01-31 | 138 | 38 | 
 | 2023-01-30 | 138 | 38 | 

@@ -1,6 +1,6 @@
 # CaffeineMC/lithium-fabric - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1609 | 154 | 
 | 2023-02-01 | 1609 | 154 | 
 | 2023-01-31 | 1611 | 154 | 
 | 2023-01-30 | 1610 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1590 | 154 | 
 | 2023-01-05 | 1589 | 154 | 
 | 2023-01-04 | 1588 | 153 | 
-| 2023-01-03 | 1587 | 153 | 
 

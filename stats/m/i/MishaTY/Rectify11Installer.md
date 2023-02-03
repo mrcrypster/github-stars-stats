@@ -1,10 +1,10 @@
 # MishaTY/Rectify11Installer - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 50
 
-★ Stars: 399
+★ Stars: 403
 
 [Open repository](https://github.com/MishaTY/Rectify11Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 403 | 50 | 
 | 2023-02-01 | 399 | 50 | 
 | 2023-01-31 | 399 | 50 | 
 | 2023-01-30 | 397 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 359 | 46 | 
 | 2023-01-05 | 358 | 46 | 
 | 2023-01-04 | 355 | 45 | 
-| 2023-01-03 | 352 | 45 | 
 

@@ -1,10 +1,10 @@
 # clickbar/laravel-magellan - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 69
+★ Stars: 68
 
 [Open repository](https://github.com/clickbar/laravel-magellan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 68 | 1 | 
 | 2023-02-01 | 69 | 1 | 
 | 2023-01-31 | 69 | 1 | 
 | 2023-01-30 | 69 | 1 | 

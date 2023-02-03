@@ -1,10 +1,10 @@
 # magento/magento-coding-standard - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 142
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/magento/magento-coding-standard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 294 | 142 | 
 | 2023-02-01 | 293 | 142 | 
 | 2023-01-31 | 293 | 142 | 
 | 2023-01-30 | 293 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 290 | 142 | 
 | 2023-01-05 | 290 | 142 | 
 | 2023-01-04 | 290 | 142 | 
-| 2023-01-03 | 290 | 142 | 
 

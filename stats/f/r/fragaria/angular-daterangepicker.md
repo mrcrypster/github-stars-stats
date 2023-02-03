@@ -1,6 +1,6 @@
 # fragaria/angular-daterangepicker - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 377
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 523 | 377 | 
 | 2023-02-01 | 523 | 377 | 
 | 2023-01-31 | 523 | 377 | 
 | 2023-01-30 | 523 | 377 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 522 | 376 | 
 | 2023-01-05 | 522 | 376 | 
 | 2023-01-04 | 522 | 376 | 
-| 2023-01-03 | 522 | 376 | 
 

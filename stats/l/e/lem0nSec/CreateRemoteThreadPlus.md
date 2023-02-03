@@ -1,10 +1,10 @@
 # lem0nSec/CreateRemoteThreadPlus - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/lem0nSec/CreateRemoteThreadPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 70 | 9 | 
 | 2023-02-01 | 69 | 9 | 
 | 2023-01-31 | 69 | 9 | 
 | 2023-01-30 | 68 | 9 | 

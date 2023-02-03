@@ -1,10 +1,10 @@
 # biopython/biopython - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
-☋ Forks: 1574
+☋ Forks: 1575
 
-★ Stars: 3422
+★ Stars: 3423
 
 [Open repository](https://github.com/biopython/biopython)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3423 | 1575 | 
 | 2023-02-01 | 3422 | 1574 | 
 | 2023-01-31 | 3420 | 1574 | 
 | 2023-01-30 | 3421 | 1573 | 

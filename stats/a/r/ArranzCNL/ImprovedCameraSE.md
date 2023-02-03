@@ -1,10 +1,10 @@
 # ArranzCNL/ImprovedCameraSE - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/ArranzCNL/ImprovedCameraSE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 123 | 12 | 
 | 2023-02-01 | 122 | 12 | 
 | 2023-01-31 | 119 | 12 | 
 | 2023-01-30 | 117 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 101 | 11 | 
 | 2023-01-05 | 101 | 11 | 
 | 2023-01-04 | 101 | 11 | 
-| 2023-01-03 | 100 | 11 | 
 

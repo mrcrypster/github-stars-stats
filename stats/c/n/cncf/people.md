@@ -1,8 +1,8 @@
 # cncf/people - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 62
+☋ Forks: 64
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 27 | 64 | 
 | 2023-02-01 | 27 | 62 | 
 | 2023-01-31 | 27 | 62 | 
 

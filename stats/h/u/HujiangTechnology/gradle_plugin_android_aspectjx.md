@@ -1,10 +1,10 @@
 # HujiangTechnology/gradle_plugin_android_aspectjx - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 535
 
-★ Stars: 3806
+★ Stars: 3807
 
 [Open repository](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3807 | 535 | 
 | 2023-02-01 | 3806 | 535 | 
 | 2023-01-31 | 3806 | 534 | 
 | 2023-01-30 | 3807 | 534 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3802 | 533 | 
 | 2023-01-05 | 3801 | 533 | 
 | 2023-01-04 | 3801 | 533 | 
-| 2023-01-03 | 3800 | 533 | 
 

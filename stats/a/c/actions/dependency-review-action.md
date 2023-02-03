@@ -1,10 +1,10 @@
 # actions/dependency-review-action - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 63
 
-★ Stars: 337
+★ Stars: 338
 
 [Open repository](https://github.com/actions/dependency-review-action)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 338 | 63 | 
 | 2023-02-01 | 337 | 63 | 
 | 2023-01-31 | 338 | 63 | 
 | 2023-01-30 | 337 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 326 | 61 | 
 | 2023-01-06 | 324 | 61 | 
 | 2023-01-05 | 324 | 61 | 
-| 2023-01-04 | 324 | 60 | 
 

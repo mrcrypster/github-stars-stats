@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 13
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/utilyre/barbecue.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 143 | 13 | 
+| 2023-02-02 | 144 | 13 | 
 | 2023-02-01 | 143 | 13 | 
 | 2023-01-31 | 142 | 13 | 
 | 2023-01-30 | 142 | 12 | 

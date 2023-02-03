@@ -1,6 +1,6 @@
 # Shougo/neocomplete.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2741 | 207 | 
 | 2023-02-01 | 2741 | 207 | 
 | 2023-01-31 | 2741 | 208 | 
 | 2023-01-29 | 2741 | 208 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 2746 | 208 | 
 | 2023-01-06 | 2746 | 209 | 
 | 2023-01-05 | 2747 | 209 | 
-| 2023-01-04 | 2747 | 209 | 
 

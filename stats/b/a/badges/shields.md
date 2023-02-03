@@ -1,10 +1,10 @@
 # badges/shields - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 5259
+☋ Forks: 5263
 
-★ Stars: 18979
+★ Stars: 18986
 
 [Open repository](https://github.com/badges/shields)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 18986 | 5263 | 
 | 2023-02-01 | 18979 | 5259 | 
 | 2023-01-31 | 18967 | 5254 | 
 | 2023-01-30 | 18957 | 5252 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 18747 | 5204 | 
 | 2023-01-05 | 18739 | 5203 | 
 | 2023-01-04 | 18722 | 5197 | 
-| 2023-01-03 | 18711 | 5192 | 
 

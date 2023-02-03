@@ -1,8 +1,8 @@
 # total-typescript/type-transformations-workshop - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 97
+☋ Forks: 98
 
 ★ Stars: 602
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 602 | 98 | 
 | 2023-02-01 | 602 | 97 | 
 | 2023-01-31 | 600 | 94 | 
 | 2023-01-30 | 599 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 572 | 87 | 
 | 2023-01-05 | 570 | 86 | 
 | 2023-01-04 | 569 | 85 | 
-| 2023-01-03 | 567 | 84 | 
 

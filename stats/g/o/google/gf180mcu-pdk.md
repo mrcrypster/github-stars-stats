@@ -1,6 +1,6 @@
 # google/gf180mcu-pdk - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 231 | 41 | 
 | 2023-02-01 | 231 | 41 | 
 | 2023-01-31 | 230 | 40 | 
 | 2023-01-30 | 230 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 222 | 39 | 
 | 2023-01-05 | 222 | 39 | 
 | 2023-01-04 | 222 | 39 | 
-| 2023-01-03 | 221 | 39 | 
 

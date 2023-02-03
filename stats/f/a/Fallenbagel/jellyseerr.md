@@ -1,10 +1,10 @@
 # Fallenbagel/jellyseerr - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 57
 
-★ Stars: 979
+★ Stars: 984
 
 [Open repository](https://github.com/Fallenbagel/jellyseerr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 984 | 57 | 
 | 2023-02-01 | 979 | 57 | 
 | 2023-01-31 | 975 | 57 | 
 | 2023-01-30 | 971 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 889 | 52 | 
 | 2023-01-05 | 883 | 50 | 
 | 2023-01-04 | 877 | 50 | 
-| 2023-01-03 | 876 | 50 | 
 

@@ -1,10 +1,10 @@
 # justcoding121/advanced-algorithms - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 257
+☋ Forks: 258
 
-★ Stars: 1110
+★ Stars: 1114
 
 [Open repository](https://github.com/justcoding121/advanced-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1114 | 258 | 
 | 2023-02-01 | 1110 | 257 | 
 | 2023-01-31 | 1105 | 256 | 
 | 2023-01-30 | 1104 | 256 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1078 | 247 | 
 | 2023-01-05 | 1075 | 247 | 
 | 2023-01-04 | 1074 | 247 | 
-| 2023-01-03 | 1073 | 247 | 
 

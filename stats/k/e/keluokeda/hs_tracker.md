@@ -1,6 +1,6 @@
 # keluokeda/hs_tracker - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 210 | 30 | 
 | 2023-02-01 | 210 | 30 | 
 | 2023-01-31 | 210 | 30 | 
 | 2023-01-30 | 210 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 212 | 30 | 
 | 2023-01-05 | 212 | 30 | 
 | 2023-01-04 | 211 | 30 | 
-| 2023-01-03 | 211 | 30 | 
 

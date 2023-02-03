@@ -1,10 +1,10 @@
 # ceph/ceph - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 5263
+☋ Forks: 5266
 
-★ Stars: 11457
+★ Stars: 11458
 
 [Open repository](https://github.com/ceph/ceph)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 11458 | 5266 | 
 | 2023-02-01 | 11457 | 5263 | 
 | 2023-01-31 | 11453 | 5262 | 
 | 2023-01-30 | 11448 | 5263 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 11390 | 5238 | 
 | 2023-01-05 | 11388 | 5239 | 
 | 2023-01-04 | 11386 | 5239 | 
-| 2023-01-03 | 11380 | 5238 | 
 

@@ -1,8 +1,8 @@
 # zivong/jekyll-theme-hamilton - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 200
+☋ Forks: 201
 
 ★ Stars: 158
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 158 | 201 | 
 | 2023-02-01 | 158 | 200 | 
 | 2023-01-31 | 158 | 200 | 
 | 2023-01-30 | 158 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 158 | 198 | 
 | 2023-01-05 | 158 | 198 | 
 | 2023-01-04 | 158 | 198 | 
-| 2023-01-03 | 158 | 198 | 
 

@@ -1,6 +1,6 @@
 # dbgate/dbgate - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2102 | 124 | 
 | 2023-02-01 | 2102 | 124 | 
 | 2023-01-31 | 2098 | 123 | 
 | 2023-01-30 | 2095 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2033 | 119 | 
 | 2023-01-05 | 2030 | 119 | 
 | 2023-01-04 | 2027 | 119 | 
-| 2023-01-03 | 2027 | 118 | 
 

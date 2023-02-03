@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/RushMaverick/ggj23)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 2 | - | 
+| 2023-02-02 | 3 | - | 
 | 2023-02-01 | 2 | - | 
 

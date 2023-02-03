@@ -1,10 +1,10 @@
 # cloudxeus/terraform-azure - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 120
+☋ Forks: 121
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/cloudxeus/terraform-azure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 30 | 121 | 
 | 2023-02-01 | 29 | 120 | 
 | 2023-01-31 | 29 | 120 | 
 | 2023-01-30 | 29 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 26 | 115 | 
 | 2023-01-05 | 26 | 115 | 
 | 2023-01-04 | 26 | 115 | 
-| 2023-01-03 | 26 | 114 | 
 

@@ -1,6 +1,6 @@
 # princejoogie/dir-telescope.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 80 | 1 | 
 | 2023-02-01 | 80 | 1 | 
 | 2023-01-31 | 80 | 1 | 
 | 2023-01-30 | 80 | 1 | 

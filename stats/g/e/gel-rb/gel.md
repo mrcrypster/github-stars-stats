@@ -1,10 +1,10 @@
 # gel-rb/gel - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 752
+★ Stars: 753
 
 [Open repository](https://github.com/gel-rb/gel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 753 | 25 | 
 | 2023-02-01 | 752 | 25 | 
 | 2023-01-31 | 752 | 25 | 
 | 2023-01-30 | 753 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 752 | 25 | 
 | 2023-01-05 | 752 | 25 | 
 | 2023-01-04 | 752 | 25 | 
-| 2023-01-03 | 752 | 25 | 
 

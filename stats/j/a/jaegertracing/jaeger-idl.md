@@ -1,6 +1,6 @@
 # jaegertracing/jaeger-idl - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 68 | 64 | 
 | 2023-02-01 | 68 | 64 | 
 | 2023-01-31 | 68 | 64 | 
 | 2023-01-30 | 68 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 68 | 63 | 
 | 2023-01-05 | 67 | 63 | 
 | 2023-01-04 | 67 | 63 | 
-| 2023-01-03 | 67 | 63 | 
 

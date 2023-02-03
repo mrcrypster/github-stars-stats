@@ -1,10 +1,10 @@
 # microsoft/TypeScript-Node-Starter - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2753
 
-★ Stars: 10931
+★ Stars: 10934
 
 [Open repository](https://github.com/microsoft/TypeScript-Node-Starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 10934 | 2753 | 
 | 2023-02-01 | 10931 | 2753 | 
 | 2023-01-31 | 10930 | 2753 | 
 | 2023-01-30 | 10927 | 2754 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 10907 | 2747 | 
 | 2023-01-05 | 10907 | 2749 | 
 | 2023-01-04 | 10906 | 2744 | 
-| 2023-01-03 | 10905 | 2744 | 
 

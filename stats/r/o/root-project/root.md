@@ -1,10 +1,10 @@
 # root-project/root - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1098
+☋ Forks: 1100
 
-★ Stars: 2025
+★ Stars: 2026
 
 [Open repository](https://github.com/root-project/root)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2026 | 1100 | 
 | 2023-02-01 | 2025 | 1098 | 
 | 2023-01-31 | 2025 | 1098 | 
 | 2023-01-30 | 2025 | 1098 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 2009 | 1101 | 
 | 2023-01-06 | 2009 | 1100 | 
 | 2023-01-05 | 2009 | 1100 | 
-| 2023-01-04 | 2006 | 1100 | 
 

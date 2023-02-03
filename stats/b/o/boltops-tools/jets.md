@@ -1,10 +1,10 @@
 # boltops-tools/jets - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 166
 
-★ Stars: 2339
+★ Stars: 2343
 
 [Open repository](https://github.com/boltops-tools/jets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2343 | 166 | 
 | 2023-02-01 | 2339 | 166 | 
 | 2023-01-31 | 2336 | 166 | 
 | 2023-01-30 | 2334 | 166 | 

@@ -1,6 +1,6 @@
 # lukechampine/blake3 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 291 | 18 | 
+| 2023-02-02 | 291 | 18 | 
 | 2023-02-01 | 291 | 18 | 
 | 2023-01-31 | 291 | 18 | 
 | 2023-01-30 | 291 | 18 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 290 | 18 | 
 | 2023-01-05 | 290 | 18 | 
 | 2023-01-04 | 290 | 18 | 
-| 2023-01-03 | 289 | 18 | 
 

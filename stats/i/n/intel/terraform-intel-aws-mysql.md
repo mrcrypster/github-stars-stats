@@ -1,10 +1,10 @@
 # intel/terraform-intel-aws-mysql - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/intel/terraform-intel-aws-mysql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 9 | - | 
 | 2023-02-01 | 8 | - | 
 | 2023-01-31 | 8 | - | 
 | 2023-01-30 | 8 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 7 | - | 
 | 2023-01-06 | 7 | - | 
 | 2023-01-04 | 7 | - | 
-| 2023-01-03 | 7 | - | 
 

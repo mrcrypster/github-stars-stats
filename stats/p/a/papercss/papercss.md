@@ -1,6 +1,6 @@
 # papercss/papercss - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 213
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3821 | 213 | 
 | 2023-02-01 | 3821 | 213 | 
 | 2023-01-31 | 3820 | 213 | 
 | 2023-01-30 | 3820 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3799 | 210 | 
 | 2023-01-05 | 3797 | 210 | 
 | 2023-01-04 | 3798 | 210 | 
-| 2023-01-03 | 3797 | 210 | 
 

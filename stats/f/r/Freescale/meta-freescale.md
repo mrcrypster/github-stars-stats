@@ -1,8 +1,8 @@
 # Freescale/meta-freescale - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 192
+☋ Forks: 193
 
 ★ Stars: 134
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 134 | 193 | 
 | 2023-02-01 | 134 | 192 | 
 | 2023-01-31 | 135 | 192 | 
 | 2023-01-30 | 135 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 134 | 189 | 
 | 2023-01-05 | 133 | 189 | 
 | 2023-01-04 | 133 | 189 | 
-| 2023-01-03 | 132 | 189 | 
 

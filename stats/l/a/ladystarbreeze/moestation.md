@@ -1,6 +1,6 @@
 # ladystarbreeze/moestation - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 28 | - | 
 | 2023-02-01 | 28 | - | 
 | 2023-01-31 | 28 | - | 
 | 2023-01-29 | 28 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 28 | - | 
 | 2023-01-06 | 28 | - | 
 | 2023-01-05 | 28 | - | 
-| 2023-01-04 | 28 | - | 
 

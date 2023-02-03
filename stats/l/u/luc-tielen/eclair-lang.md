@@ -1,6 +1,6 @@
 # luc-tielen/eclair-lang - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 128 | 7 | 
 | 2023-02-01 | 128 | 7 | 
 | 2023-01-31 | 128 | 7 | 
 | 2023-01-30 | 129 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 120 | 7 | 
 | 2023-01-05 | 120 | 7 | 
 | 2023-01-04 | 120 | 7 | 
-| 2023-01-03 | 120 | 7 | 
 

@@ -1,10 +1,10 @@
 # yacineMTB/scribepod - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 114
+★ Stars: 116
 
 [Open repository](https://github.com/yacineMTB/scribepod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 116 | 12 | 
 | 2023-02-01 | 114 | 12 | 
 | 2023-01-31 | 112 | 12 | 
 | 2023-01-30 | 111 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 53 | 6 | 
 | 2023-01-05 | 52 | 5 | 
 | 2023-01-04 | 44 | 3 | 
-| 2023-01-03 | 44 | 3 | 
 

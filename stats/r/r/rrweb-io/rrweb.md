@@ -1,10 +1,10 @@
 # rrweb-io/rrweb - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1114
 
-★ Stars: 12672
+★ Stars: 12680
 
 [Open repository](https://github.com/rrweb-io/rrweb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 12680 | 1114 | 
 | 2023-02-01 | 12672 | 1114 | 
 | 2023-01-31 | 12667 | 1113 | 
 | 2023-01-30 | 12667 | 1113 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 12582 | 1109 | 
 | 2023-01-05 | 12579 | 1106 | 
 | 2023-01-04 | 12577 | 1106 | 
-| 2023-01-03 | 12572 | 1106 | 
 

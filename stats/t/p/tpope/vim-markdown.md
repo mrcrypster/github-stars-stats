@@ -1,6 +1,6 @@
 # tpope/vim-markdown - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1179 | 195 | 
 | 2023-02-01 | 1179 | 195 | 
 | 2023-01-31 | 1179 | 195 | 
 | 2023-01-30 | 1179 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 1180 | 195 | 
 | 2023-01-06 | 1180 | 195 | 
 | 2023-01-05 | 1180 | 195 | 
-| 2023-01-04 | 1179 | 195 | 
 

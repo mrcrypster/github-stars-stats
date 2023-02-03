@@ -1,10 +1,10 @@
 # badafans/better-cloudflare-ip - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 508
+☋ Forks: 509
 
-★ Stars: 1438
+★ Stars: 1442
 
 [Open repository](https://github.com/badafans/better-cloudflare-ip)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1442 | 509 | 
 | 2023-02-01 | 1438 | 508 | 
 | 2023-01-31 | 1436 | 507 | 
 | 2023-01-30 | 1435 | 505 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1342 | 482 | 
 | 2023-01-05 | 1337 | 481 | 
 | 2023-01-04 | 1322 | 479 | 
-| 2023-01-03 | 1322 | 479 | 
 

@@ -1,10 +1,10 @@
 # nf-core/ssds - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/nf-core/ssds)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1 | 2 | 
 | 2023-02-01 | - | 2 | 
 | 2023-01-31 | - | 2 | 
 | 2023-01-30 | - | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | - | 2 | 
 | 2023-01-05 | - | 2 | 
 | 2023-01-04 | - | 2 | 
-| 2023-01-03 | - | 2 | 
 

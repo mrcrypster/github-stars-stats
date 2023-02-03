@@ -1,10 +1,10 @@
 # chaos-zhu/easynode - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 95
 
-★ Stars: 594
+★ Stars: 595
 
 [Open repository](https://github.com/chaos-zhu/easynode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 595 | 95 | 
 | 2023-02-01 | 594 | 95 | 
 | 2023-01-31 | 594 | 95 | 
 | 2023-01-30 | 595 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 587 | 95 | 
 | 2023-01-05 | 587 | 95 | 
 | 2023-01-04 | 586 | 95 | 
-| 2023-01-03 | 584 | 95 | 
 

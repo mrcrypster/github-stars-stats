@@ -1,10 +1,10 @@
 # romainthomas/reverse-engineering-workshop - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 22
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/romainthomas/reverse-engineering-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 153 | 22 | 
 | 2023-02-01 | 152 | 22 | 
 | 2023-01-31 | 152 | 22 | 
 | 2023-01-30 | 152 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 145 | 20 | 
 | 2023-01-05 | 144 | 20 | 
 | 2023-01-04 | 144 | 20 | 
-| 2023-01-03 | 144 | 20 | 
 

@@ -1,6 +1,6 @@
 # PolarisSS13/Polaris - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 64 | 294 | 
 | 2023-02-01 | 64 | 294 | 
 | 2023-01-31 | 64 | 295 | 
 | 2023-01-30 | 62 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 62 | 295 | 
 | 2023-01-05 | 62 | 295 | 
 | 2023-01-04 | 62 | 295 | 
-| 2023-01-03 | 62 | 295 | 
 

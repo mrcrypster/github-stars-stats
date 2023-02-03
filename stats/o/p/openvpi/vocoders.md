@@ -1,10 +1,10 @@
 # openvpi/vocoders - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 5
 
-★ Stars: 104
+★ Stars: 108
 
 [Open repository](https://github.com/openvpi/vocoders)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 108 | 5 | 
 | 2023-02-01 | 104 | 5 | 
 | 2023-01-31 | 101 | 5 | 
 | 2023-01-30 | 98 | 4 | 

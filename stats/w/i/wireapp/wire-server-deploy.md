@@ -1,6 +1,6 @@
 # wireapp/wire-server-deploy - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 80 | 40 | 
 | 2023-02-01 | 80 | 40 | 
 | 2023-01-30 | 80 | 39 | 
 | 2023-01-29 | 80 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 80 | 39 | 
 | 2023-01-06 | 80 | 39 | 
 | 2023-01-04 | 80 | 39 | 
-| 2023-01-03 | 80 | 39 | 
 

@@ -1,10 +1,10 @@
 # catchorg/Catch2 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 2770
+☋ Forks: 2769
 
-★ Stars: 16173
+★ Stars: 16178
 
 [Open repository](https://github.com/catchorg/Catch2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 16178 | 2769 | 
 | 2023-02-01 | 16173 | 2770 | 
 | 2023-01-31 | 16170 | 2768 | 
 | 2023-01-30 | 16161 | 2767 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 16015 | 2738 | 
 | 2023-01-05 | 16013 | 2738 | 
 | 2023-01-04 | 16011 | 2737 | 
-| 2023-01-03 | 16006 | 2737 | 
 

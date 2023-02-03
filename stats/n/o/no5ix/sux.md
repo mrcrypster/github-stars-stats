@@ -1,10 +1,10 @@
 # no5ix/sux - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 7
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/no5ix/sux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 77 | 7 | 
 | 2023-02-01 | 76 | 7 | 
 | 2023-01-30 | 75 | 7 | 
 | 2023-01-29 | 75 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 64 | 6 | 
 | 2023-01-05 | 64 | 6 | 
 | 2023-01-04 | 63 | 6 | 
-| 2023-01-03 | 63 | 6 | 
 

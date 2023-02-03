@@ -1,6 +1,6 @@
 # Janithsadanuwan/Dragonx-Whatsapp-Bot - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 10 | 61 | 
 | 2023-02-01 | 10 | 61 | 
 | 2023-01-31 | 10 | 61 | 
 | 2023-01-30 | 10 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 9 | 59 | 
 | 2023-01-05 | 9 | 59 | 
 | 2023-01-04 | 9 | 59 | 
-| 2023-01-03 | 9 | 59 | 
 

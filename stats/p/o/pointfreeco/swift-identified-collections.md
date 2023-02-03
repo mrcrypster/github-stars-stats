@@ -1,10 +1,10 @@
 # pointfreeco/swift-identified-collections - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 28
 
-★ Stars: 337
+★ Stars: 342
 
 [Open repository](https://github.com/pointfreeco/swift-identified-collections)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 342 | 28 | 
 | 2023-02-01 | 337 | 28 | 
 | 2023-01-31 | 337 | 28 | 
 | 2023-01-30 | 334 | 28 | 

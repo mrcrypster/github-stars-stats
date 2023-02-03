@@ -1,6 +1,6 @@
 # ClickHouse/icudata - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 7 | 7 | 
 | 2023-02-01 | 7 | 7 | 
 | 2023-01-31 | 7 | 7 | 
 | 2023-01-30 | 7 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 7 | 6 | 
 | 2023-01-05 | 7 | 6 | 
 | 2023-01-04 | 7 | 6 | 
-| 2023-01-03 | 7 | 6 | 
 

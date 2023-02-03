@@ -1,10 +1,10 @@
 # parcel-bundler/parcel-css - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 94
 
-★ Stars: 3240
+★ Stars: 3242
 
 [Open repository](https://github.com/parcel-bundler/parcel-css)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3242 | 94 | 
 | 2023-02-01 | 3240 | 94 | 
 | 2023-01-31 | 3238 | 94 | 
 | 2023-01-30 | 3231 | 94 | 

@@ -1,10 +1,10 @@
 # SamPandey001/Secktor-Md - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 2518
+☋ Forks: 2525
 
-★ Stars: 186
+★ Stars: 188
 
 [Open repository](https://github.com/SamPandey001/Secktor-Md)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 188 | 2525 | 
 | 2023-02-01 | 186 | 2518 | 
 | 2023-01-31 | 186 | 2512 | 
 | 2023-01-30 | 186 | 2502 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 167 | 2331 | 
 | 2023-01-05 | 166 | 2310 | 
 | 2023-01-04 | 166 | 2305 | 
-| 2023-01-03 | 165 | 2288 | 
 

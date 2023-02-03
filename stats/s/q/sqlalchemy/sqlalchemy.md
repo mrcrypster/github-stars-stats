@@ -1,10 +1,10 @@
 # sqlalchemy/sqlalchemy - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1051
+☋ Forks: 1056
 
-★ Stars: 6665
+★ Stars: 6675
 
 [Open repository](https://github.com/sqlalchemy/sqlalchemy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 6675 | 1056 | 
 | 2023-02-01 | 6665 | 1051 | 
 | 2023-01-31 | 6661 | 1049 | 
 | 2023-01-30 | 6650 | 1046 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6502 | 1031 | 
 | 2023-01-05 | 6496 | 1030 | 
 | 2023-01-04 | 6488 | 1029 | 
-| 2023-01-03 | 6488 | 1030 | 
 

@@ -1,8 +1,8 @@
 # huyentranbg/ngrokL53doDlWFDgjhZZCu - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | - | 13 | 
 | 2023-02-01 | - | 12 | 
 | 2023-01-31 | - | 10 | 
 | 2023-01-29 | - | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | - | 9 | 
 | 2023-01-06 | - | 9 | 
 | 2023-01-04 | - | 9 | 
-| 2023-01-03 | - | 9 | 
 

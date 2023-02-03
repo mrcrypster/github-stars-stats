@@ -1,6 +1,6 @@
 # ARUN-M-S/Photo-Galerry - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 13 | - | 
 | 2023-02-01 | 13 | - | 
 | 2023-01-31 | 13 | - | 
 | 2023-01-30 | 13 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 13 | - | 
 | 2023-01-06 | 13 | - | 
 | 2023-01-04 | 13 | - | 
-| 2023-01-03 | 13 | - | 
 

@@ -1,6 +1,6 @@
 # sebastianbergmann/global-state - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 6329 | 18 | 
 | 2023-02-01 | 6329 | 18 | 
 | 2023-01-31 | 6329 | 18 | 
 | 2023-01-30 | 6325 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6297 | 18 | 
 | 2023-01-05 | 6296 | 18 | 
 | 2023-01-04 | 6295 | 18 | 
-| 2023-01-03 | 6295 | 18 | 
 

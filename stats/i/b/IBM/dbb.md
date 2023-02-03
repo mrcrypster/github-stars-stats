@@ -1,6 +1,6 @@
 # IBM/dbb - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 46 | 110 | 
 | 2023-02-01 | 46 | 110 | 
 | 2023-01-31 | 47 | 110 | 
 | 2023-01-30 | 47 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 47 | 109 | 
 | 2023-01-05 | 47 | 109 | 
 | 2023-01-04 | 47 | 109 | 
-| 2023-01-03 | 47 | 109 | 
 

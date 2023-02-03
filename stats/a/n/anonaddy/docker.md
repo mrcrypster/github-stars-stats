@@ -1,10 +1,10 @@
 # anonaddy/docker - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 37
 
-★ Stars: 291
+★ Stars: 292
 
 [Open repository](https://github.com/anonaddy/docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 292 | 37 | 
 | 2023-02-01 | 291 | 37 | 
 | 2023-01-31 | 290 | 37 | 
 | 2023-01-30 | 290 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 285 | 36 | 
 | 2023-01-05 | 284 | 36 | 
 | 2023-01-04 | 283 | 36 | 
-| 2023-01-03 | 283 | 36 | 
 

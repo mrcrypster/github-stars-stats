@@ -1,6 +1,6 @@
 # robinsloan/spring-83 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 229 | 9 | 
 | 2023-02-01 | 229 | 9 | 
 | 2023-01-31 | 229 | 9 | 
 | 2023-01-30 | 229 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 223 | 9 | 
 | 2023-01-06 | 222 | 9 | 
 | 2023-01-04 | 222 | 9 | 
-| 2023-01-03 | 220 | 9 | 
 

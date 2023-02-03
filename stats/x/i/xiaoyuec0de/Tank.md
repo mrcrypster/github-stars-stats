@@ -1,6 +1,6 @@
 # xiaoyuec0de/Tank - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 62 | 15 | 
 | 2023-02-01 | 62 | 15 | 
 | 2023-01-31 | 62 | 14 | 
 | 2023-01-29 | 62 | 14 | 

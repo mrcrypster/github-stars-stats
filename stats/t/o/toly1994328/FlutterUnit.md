@@ -1,10 +1,10 @@
 # toly1994328/FlutterUnit - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 948
 
-★ Stars: 5765
+★ Stars: 5769
 
 [Open repository](https://github.com/toly1994328/FlutterUnit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5769 | 948 | 
 | 2023-02-01 | 5765 | 948 | 
 | 2023-01-31 | 5755 | 947 | 
 | 2023-01-30 | 5753 | 947 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5697 | 942 | 
 | 2023-01-05 | 5694 | 942 | 
 | 2023-01-04 | 5694 | 943 | 
-| 2023-01-03 | 5686 | 942 | 
 

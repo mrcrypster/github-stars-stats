@@ -1,10 +1,10 @@
 # Rangi42/polishedcrystal - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 139
 
-★ Stars: 684
+★ Stars: 685
 
 [Open repository](https://github.com/Rangi42/polishedcrystal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 685 | 139 | 
 | 2023-02-01 | 684 | 139 | 
 | 2023-01-31 | 683 | 139 | 
 | 2023-01-30 | 683 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 661 | 135 | 
 | 2023-01-05 | 656 | 135 | 
 | 2023-01-04 | 655 | 135 | 
-| 2023-01-03 | 655 | 135 | 
 

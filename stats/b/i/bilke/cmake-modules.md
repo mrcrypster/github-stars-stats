@@ -1,6 +1,6 @@
 # bilke/cmake-modules - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 461 | 204 | 
 | 2023-02-01 | 461 | 204 | 
 | 2023-01-31 | 461 | 204 | 
 | 2023-01-30 | 461 | 204 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 455 | 202 | 
 | 2023-01-05 | 455 | 202 | 
 | 2023-01-04 | 454 | 202 | 
-| 2023-01-03 | 454 | 201 | 
 

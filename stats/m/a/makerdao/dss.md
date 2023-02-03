@@ -1,10 +1,10 @@
 # makerdao/dss - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 354
+☋ Forks: 355
 
-★ Stars: 637
+★ Stars: 639
 
 [Open repository](https://github.com/makerdao/dss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 639 | 355 | 
 | 2023-02-01 | 637 | 354 | 
 | 2023-01-31 | 637 | 353 | 
 | 2023-01-30 | 637 | 353 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 635 | 347 | 
 | 2023-01-05 | 632 | 347 | 
 | 2023-01-04 | 630 | 347 | 
-| 2023-01-03 | 629 | 346 | 
 

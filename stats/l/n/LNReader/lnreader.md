@@ -1,10 +1,10 @@
 # LNReader/lnreader - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 82
 
-★ Stars: 728
+★ Stars: 729
 
 [Open repository](https://github.com/LNReader/lnreader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 729 | 82 | 
 | 2023-02-01 | 728 | 82 | 
 | 2023-01-31 | 727 | 82 | 
 | 2023-01-30 | 727 | 81 | 

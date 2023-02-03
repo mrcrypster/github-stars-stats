@@ -1,10 +1,10 @@
 # edugca/xlRcode - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/edugca/xlRcode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 31 | - | 
 | 2023-02-02 | 30 | - | 
 | 2023-01-31 | 29 | - | 
 | 2023-01-30 | 29 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 29 | - | 
 | 2023-01-05 | 29 | - | 
 | 2023-01-04 | 29 | - | 
-| 2023-01-03 | 29 | - | 
 

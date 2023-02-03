@@ -1,6 +1,6 @@
 # joweich/chat-miner - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 453 | 47 | 
 | 2023-02-01 | 453 | 47 | 
 | 2023-01-31 | 453 | 47 | 
 | 2023-01-30 | 452 | 47 | 

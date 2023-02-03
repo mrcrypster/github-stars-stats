@@ -1,6 +1,6 @@
 # AmpersandTarski/Ampersand - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 39 | 8 | 
 | 2023-02-01 | 39 | 8 | 
 | 2023-01-31 | 39 | 8 | 
 | 2023-01-29 | 39 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 39 | 8 | 
 | 2023-01-05 | 39 | 8 | 
 | 2023-01-04 | 39 | 8 | 
-| 2023-01-03 | 39 | 8 | 
 

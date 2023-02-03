@@ -1,6 +1,6 @@
 # getyourguide/paparazzi-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 142 | 2 | 
 | 2023-02-01 | 142 | 2 | 
 | 2023-01-31 | 142 | 2 | 
 | 2023-01-30 | 141 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 139 | 2 | 
 | 2023-01-05 | 139 | 2 | 
 | 2023-01-04 | 139 | 2 | 
-| 2023-01-03 | 138 | 1 | 
 

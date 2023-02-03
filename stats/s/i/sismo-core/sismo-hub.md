@@ -1,10 +1,10 @@
 # sismo-core/sismo-hub - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 108
+☋ Forks: 109
 
-★ Stars: 749
+★ Stars: 751
 
 [Open repository](https://github.com/sismo-core/sismo-hub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 751 | 109 | 
 | 2023-02-01 | 749 | 108 | 
 | 2023-01-31 | 747 | 107 | 
 | 2023-01-30 | 741 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 213 | 55 | 
 | 2023-01-05 | 200 | 53 | 
 | 2023-01-04 | 197 | 51 | 
-| 2023-01-03 | 196 | 51 | 
 

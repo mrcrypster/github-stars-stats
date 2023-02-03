@@ -1,10 +1,10 @@
 # hwchase17/notion-qa - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 168
+★ Stars: 176
 
 [Open repository](https://github.com/hwchase17/notion-qa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 176 | 33 | 
 | 2023-02-01 | 168 | 32 | 
 | 2023-01-31 | 153 | 31 | 
 | 2023-01-30 | 150 | 31 | 

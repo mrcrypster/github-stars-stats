@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 02
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/luxe/unilang)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 33 | 11 | 
+| 2023-02-02 | 34 | 12 | 
 | 2023-02-01 | 33 | 11 | 
 | 2023-01-31 | 33 | 11 | 
 | 2023-01-30 | 33 | 11 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 33 | 11 | 
 | 2023-01-05 | 33 | 11 | 
 | 2023-01-04 | 33 | 11 | 
-| 2023-01-03 | 33 | 11 | 
 

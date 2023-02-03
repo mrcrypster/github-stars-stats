@@ -1,10 +1,10 @@
 # frappe/gantt - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 793
 
-★ Stars: 3508
+★ Stars: 3511
 
 [Open repository](https://github.com/frappe/gantt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 3511 | 793 | 
 | 2023-02-01 | 3508 | 793 | 
 | 2023-01-31 | 3509 | 791 | 
 | 2023-01-30 | 3506 | 790 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3469 | 781 | 
 | 2023-01-05 | 3468 | 781 | 
 | 2023-01-04 | 3465 | 781 | 
-| 2023-01-03 | 3462 | 781 | 
 

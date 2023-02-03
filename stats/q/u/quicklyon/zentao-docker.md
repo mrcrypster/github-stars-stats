@@ -1,10 +1,10 @@
 # quicklyon/zentao-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/quicklyon/zentao-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 9 | 6 | 
 | 2023-02-01 | 8 | 6 | 
 | 2023-01-31 | 8 | 6 | 
 | 2023-01-30 | 8 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6 | 5 | 
 | 2023-01-05 | 6 | 5 | 
 | 2023-01-04 | 6 | 5 | 
-| 2023-01-03 | 6 | 5 | 
 

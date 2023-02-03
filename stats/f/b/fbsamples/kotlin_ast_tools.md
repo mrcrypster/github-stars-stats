@@ -1,10 +1,10 @@
 # fbsamples/kotlin_ast_tools - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 8
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/fbsamples/kotlin_ast_tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 131 | 8 | 
 | 2023-02-01 | 130 | 8 | 
 | 2023-01-31 | 130 | 8 | 
 | 2023-01-30 | 129 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 129 | 8 | 
 | 2023-01-06 | 129 | 8 | 
 | 2023-01-04 | 129 | 8 | 
-| 2023-01-03 | 130 | 8 | 
 

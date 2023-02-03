@@ -1,10 +1,10 @@
 # Shopify/homebrew-shopify - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 20
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/Shopify/homebrew-shopify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 38 | 20 | 
 | 2023-02-01 | 36 | 20 | 
 | 2023-01-31 | 37 | 20 | 
 | 2023-01-30 | 37 | 20 | 

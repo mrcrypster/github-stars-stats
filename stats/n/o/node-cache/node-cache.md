@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 134
 
-★ Stars: 1924
+★ Stars: 1925
 
 [Open repository](https://github.com/node-cache/node-cache)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 1924 | 134 | 
+| 2023-02-02 | 1925 | 134 | 
 | 2023-02-01 | 1924 | 134 | 
 | 2023-01-31 | 1924 | 134 | 
 | 2023-01-30 | 1920 | 134 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 1903 | 132 | 
 | 2023-01-05 | 1903 | 132 | 
 | 2023-01-04 | 1903 | 131 | 
-| 2023-01-03 | 1903 | 131 | 
 

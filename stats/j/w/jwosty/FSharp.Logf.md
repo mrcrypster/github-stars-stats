@@ -1,6 +1,6 @@
 # jwosty/FSharp.Logf - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 17 | - | 
 | 2023-02-01 | 17 | - | 
 | 2023-01-31 | 18 | - | 
 | 2023-01-30 | 18 | - | 

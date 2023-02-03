@@ -1,10 +1,10 @@
 # jackmichalak/phishim - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/jackmichalak/phishim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 87 | 12 | 
 | 2023-02-01 | 86 | 12 | 
 | 2023-01-31 | 83 | 12 | 
 | 2023-01-30 | 83 | 12 | 

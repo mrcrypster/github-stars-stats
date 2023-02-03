@@ -1,6 +1,6 @@
 # kacos2000/WinEDB - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 35 | 3 | 
 | 2023-02-01 | 35 | 3 | 
 | 2023-01-30 | 34 | 3 | 
 | 2023-01-29 | 34 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 30 | 3 | 
 | 2023-01-05 | 30 | 3 | 
 | 2023-01-04 | 29 | 3 | 
-| 2023-01-03 | 28 | 3 | 
 

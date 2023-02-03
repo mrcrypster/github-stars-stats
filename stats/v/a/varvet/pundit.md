@@ -1,6 +1,6 @@
 # varvet/pundit - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 605
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 7851 | 605 | 
 | 2023-02-01 | 7851 | 605 | 
 | 2023-01-31 | 7852 | 605 | 
 | 2023-01-30 | 7850 | 605 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 7829 | 602 | 
 | 2023-01-05 | 7828 | 602 | 
 | 2023-01-04 | 7829 | 602 | 
-| 2023-01-03 | 7828 | 602 | 
 

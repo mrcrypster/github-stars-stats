@@ -1,6 +1,6 @@
 # lukaszkrzywizna/learn-fsharp - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 44 | 2 | 
 | 2023-02-01 | 44 | 2 | 
 | 2023-01-31 | 44 | 2 | 
 | 2023-01-30 | 44 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 44 | 2 | 
 | 2023-01-05 | 44 | 2 | 
 | 2023-01-04 | 44 | 2 | 
-| 2023-01-03 | 44 | 2 | 
 

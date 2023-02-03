@@ -1,6 +1,6 @@
 # shortishly/any - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2 | 3 | 
 | 2023-02-01 | 2 | 3 | 
 | 2023-01-31 | 2 | 3 | 
 | 2023-01-30 | 2 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 2 | 3 | 
 | 2023-01-06 | 2 | 3 | 
 | 2023-01-05 | 2 | 3 | 
-| 2023-01-04 | 2 | 3 | 
 

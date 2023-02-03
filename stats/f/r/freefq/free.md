@@ -1,10 +1,10 @@
 # freefq/free - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 5286
+☋ Forks: 5289
 
-★ Stars: 27474
+★ Stars: 27520
 
 [Open repository](https://github.com/freefq/free)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 27520 | 5289 | 
 | 2023-02-01 | 27474 | 5286 | 
 | 2023-01-31 | 27443 | 5282 | 
 | 2023-01-30 | 27368 | 5272 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 26630 | 5175 | 
 | 2023-01-05 | 26606 | 5171 | 
 | 2023-01-04 | 26582 | 5168 | 
-| 2023-01-03 | 26556 | 5169 | 
 

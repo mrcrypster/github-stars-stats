@@ -1,10 +1,10 @@
 # wkhtmltopdf/wkhtmltopdf - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1661
 
-★ Stars: 12993
+★ Stars: 12995
 
 [Open repository](https://github.com/wkhtmltopdf/wkhtmltopdf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 12995 | 1661 | 
 | 2023-02-01 | 12993 | 1661 | 
 | 2023-01-31 | 12993 | 1661 | 
 | 2023-01-30 | 12991 | 1660 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 12957 | 1655 | 
 | 2023-01-05 | 12956 | 1655 | 
 | 2023-01-04 | 12953 | 1655 | 
-| 2023-01-03 | 12954 | 1655 | 
 

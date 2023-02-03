@@ -1,6 +1,6 @@
 # ChartsCSS/charts.css - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5681 | 136 | 
 | 2023-02-01 | 5681 | 136 | 
 | 2023-01-31 | 5680 | 136 | 
 | 2023-01-30 | 5678 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5659 | 138 | 
 | 2023-01-05 | 5659 | 139 | 
 | 2023-01-04 | 5657 | 139 | 
-| 2023-01-03 | 5657 | 139 | 
 

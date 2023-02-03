@@ -1,8 +1,8 @@
 # Interkarma/daggerfall-unity - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 273
+☋ Forks: 272
 
 ★ Stars: 1671
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1671 | 272 | 
 | 2023-02-01 | 1671 | 273 | 
 | 2023-01-31 | 1668 | 273 | 
 | 2023-01-30 | 1668 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1655 | 270 | 
 | 2023-01-05 | 1654 | 270 | 
 | 2023-01-04 | 1655 | 270 | 
-| 2023-01-03 | 1652 | 270 | 
 

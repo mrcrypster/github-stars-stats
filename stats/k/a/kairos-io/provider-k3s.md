@@ -1,6 +1,6 @@
 # kairos-io/provider-k3s - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | - | 7 | 
 | 2023-02-01 | - | 7 | 
 | 2023-01-31 | - | 7 | 
 | 2023-01-30 | - | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | - | 5 | 
 | 2023-01-05 | - | 5 | 
 | 2023-01-04 | - | 5 | 
-| 2023-01-03 | - | 5 | 
 

@@ -1,6 +1,6 @@
 # raushan8586/raushan_simplilearn_repo - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4 | 68 | 
 | 2023-02-01 | 4 | 68 | 
 | 2023-01-31 | 4 | 68 | 
 | 2023-01-30 | 4 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 3 | 63 | 
 | 2023-01-05 | 3 | 63 | 
 | 2023-01-04 | 3 | 63 | 
-| 2023-01-03 | 3 | 63 | 
 

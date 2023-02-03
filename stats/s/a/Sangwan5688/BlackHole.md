@@ -1,10 +1,10 @@
 # Sangwan5688/BlackHole - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 604
+☋ Forks: 605
 
-★ Stars: 4402
+★ Stars: 4407
 
 [Open repository](https://github.com/Sangwan5688/BlackHole)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4407 | 605 | 
 | 2023-02-01 | 4402 | 604 | 
 | 2023-01-31 | 4397 | 603 | 
 | 2023-01-30 | 4393 | 603 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 4212 | 581 | 
 | 2023-01-05 | 4204 | 581 | 
 | 2023-01-04 | 4194 | 582 | 
-| 2023-01-03 | 4186 | 582 | 
 

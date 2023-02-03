@@ -1,10 +1,10 @@
 # DinkDonk/kitty-icon - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 8
 
-★ Stars: 206
+★ Stars: 208
 
 [Open repository](https://github.com/DinkDonk/kitty-icon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 208 | 8 | 
 | 2023-02-01 | 206 | 8 | 
 | 2023-01-31 | 206 | 8 | 
 | 2023-01-30 | 206 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 199 | 6 | 
 | 2023-01-06 | 199 | 6 | 
 | 2023-01-04 | 198 | 6 | 
-| 2023-01-03 | 198 | 6 | 
 

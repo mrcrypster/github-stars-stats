@@ -1,8 +1,8 @@
 # yakaz/yamerl - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 195 | 52 | 
 | 2023-02-01 | 195 | 53 | 
 | 2023-01-31 | 195 | 53 | 
 | 2023-01-30 | 195 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 194 | 53 | 
 | 2023-01-05 | 194 | 53 | 
 | 2023-01-04 | 194 | 53 | 
-| 2023-01-03 | 194 | 53 | 
 

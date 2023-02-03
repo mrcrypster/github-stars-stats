@@ -1,10 +1,10 @@
 # zijie0/HumanSystemOptimization - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 507
+☋ Forks: 508
 
-★ Stars: 7275
+★ Stars: 7279
 
 [Open repository](https://github.com/zijie0/HumanSystemOptimization)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 7279 | 508 | 
 | 2023-02-02 | 7275 | 507 | 
 | 2023-01-31 | 7268 | 507 | 
 | 2023-01-30 | 7266 | 507 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 7208 | 504 | 
 | 2023-01-05 | 7205 | 505 | 
 | 2023-01-04 | 7203 | 505 | 
-| 2023-01-03 | 7201 | 504 | 
 

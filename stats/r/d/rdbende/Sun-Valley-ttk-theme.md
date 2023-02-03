@@ -1,6 +1,6 @@
 # rdbende/Sun-Valley-ttk-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1046 | 65 | 
 | 2023-02-01 | 1046 | 65 | 
 | 2023-01-31 | 1045 | 65 | 
 | 2023-01-30 | 1043 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1020 | 61 | 
 | 2023-01-05 | 1017 | 61 | 
 | 2023-01-04 | 1017 | 61 | 
-| 2023-01-03 | 1017 | 61 | 
 

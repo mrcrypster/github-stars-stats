@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 13
 
-★ Stars: 258
+★ Stars: 277
 
 [Open repository](https://github.com/cxasm/cc-compare)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 258 | 13 | 
+| 2023-02-02 | 277 | 13 | 
 | 2023-02-01 | 257 | 13 | 
 

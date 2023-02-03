@@ -1,10 +1,10 @@
 # JuliaIO/HDF5.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 126
 
-★ Stars: 330
+★ Stars: 331
 
 [Open repository](https://github.com/JuliaIO/HDF5.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 331 | 126 | 
 | 2023-02-01 | 330 | 126 | 
 | 2023-01-31 | 330 | 126 | 
 | 2023-01-30 | 330 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 326 | 126 | 
 | 2023-01-05 | 326 | 126 | 
 | 2023-01-04 | 326 | 126 | 
-| 2023-01-03 | 326 | 126 | 
 

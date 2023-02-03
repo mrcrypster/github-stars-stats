@@ -1,6 +1,6 @@
 # santiaguf/node-todo-app - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 12 | 148 | 
 | 2023-02-01 | 12 | 148 | 
 | 2023-01-31 | 12 | 147 | 
 | 2023-01-30 | 12 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 11 | 142 | 
 | 2023-01-05 | 11 | 142 | 
 | 2023-01-04 | 11 | 142 | 
-| 2023-01-03 | 11 | 142 | 
 

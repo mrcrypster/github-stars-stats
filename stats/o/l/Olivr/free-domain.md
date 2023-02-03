@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 02
 
-☋ Forks: 235
+☋ Forks: 236
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/Olivr/free-domain)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 300 | 235 | 
+| 2023-02-02 | 301 | 236 | 
 | 2023-02-01 | 300 | 235 | 
 | 2023-01-31 | 300 | 235 | 
 | 2023-01-30 | 293 | 234 | 

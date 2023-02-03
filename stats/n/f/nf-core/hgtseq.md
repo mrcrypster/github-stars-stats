@@ -1,10 +1,10 @@
 # nf-core/hgtseq - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/nf-core/hgtseq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 15 | 2 | 
 | 2023-02-01 | 14 | 2 | 
 | 2023-01-31 | 14 | 2 | 
 | 2023-01-30 | 14 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 14 | 2 | 
 | 2023-01-06 | 14 | 2 | 
 | 2023-01-05 | 14 | 2 | 
-| 2023-01-04 | 14 | 2 | 
 

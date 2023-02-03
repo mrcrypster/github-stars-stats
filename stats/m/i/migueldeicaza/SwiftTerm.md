@@ -1,10 +1,10 @@
 # migueldeicaza/SwiftTerm - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 90
 
-★ Stars: 672
+★ Stars: 673
 
 [Open repository](https://github.com/migueldeicaza/SwiftTerm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 673 | 90 | 
 | 2023-02-01 | 672 | 90 | 
 | 2023-01-31 | 672 | 90 | 
 | 2023-01-30 | 673 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 662 | 87 | 
 | 2023-01-06 | 661 | 87 | 
 | 2023-01-05 | 660 | 87 | 
-| 2023-01-04 | 660 | 87 | 
 

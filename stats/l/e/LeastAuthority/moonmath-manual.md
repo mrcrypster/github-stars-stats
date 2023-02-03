@@ -1,8 +1,8 @@
 # LeastAuthority/moonmath-manual - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 76 | 17 | 
 | 2023-02-01 | 76 | 16 | 
 | 2023-01-31 | 76 | 16 | 
 | 2023-01-30 | 70 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 56 | 12 | 
 | 2023-01-05 | 55 | 12 | 
 | 2023-01-04 | 45 | 11 | 
-| 2023-01-03 | 44 | 11 | 
 

@@ -1,10 +1,10 @@
 # zitadel/zitadel - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 131
+☋ Forks: 132
 
-★ Stars: 2431
+★ Stars: 2445
 
 [Open repository](https://github.com/zitadel/zitadel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2445 | 132 | 
 | 2023-02-01 | 2431 | 131 | 
 | 2023-01-31 | 2415 | 131 | 
 | 2023-01-29 | 2400 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1997 | 117 | 
 | 2023-01-05 | 1991 | 117 | 
 | 2023-01-04 | 1973 | 115 | 
-| 2023-01-03 | 1970 | 115 | 
 

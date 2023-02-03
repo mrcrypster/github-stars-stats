@@ -1,10 +1,10 @@
 # HamsterHelper/HamsterHelper - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/HamsterHelper/HamsterHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 35 | 1 | 
 | 2023-02-01 | 34 | 1 | 
 | 2023-01-31 | 35 | 1 | 
 | 2023-01-30 | 35 | 1 | 

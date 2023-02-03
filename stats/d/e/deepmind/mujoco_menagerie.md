@@ -1,10 +1,10 @@
 # deepmind/mujoco_menagerie - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 40
 
-★ Stars: 452
+★ Stars: 454
 
 [Open repository](https://github.com/deepmind/mujoco_menagerie)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 454 | 40 | 
 | 2023-02-01 | 452 | 40 | 
 | 2023-01-31 | 452 | 40 | 
 | 2023-01-30 | 451 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 439 | 36 | 
 | 2023-01-05 | 438 | 36 | 
 | 2023-01-04 | 438 | 36 | 
-| 2023-01-03 | 436 | 36 | 
 

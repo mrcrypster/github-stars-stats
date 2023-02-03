@@ -1,6 +1,6 @@
 # pulp-platform/snitch - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 165 | 30 | 
 | 2023-02-01 | 165 | 30 | 
 | 2023-01-31 | 165 | 30 | 
 | 2023-01-30 | 165 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 158 | 29 | 
 | 2023-01-05 | 158 | 29 | 
 | 2023-01-04 | 158 | 29 | 
-| 2023-01-03 | 158 | 29 | 
 

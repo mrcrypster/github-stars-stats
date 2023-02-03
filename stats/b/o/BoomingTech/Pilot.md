@@ -1,10 +1,10 @@
 # BoomingTech/Pilot - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1411
+☋ Forks: 1412
 
-★ Stars: 4149
+★ Stars: 4154
 
 [Open repository](https://github.com/BoomingTech/Pilot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4154 | 1412 | 
 | 2023-02-01 | 4149 | 1411 | 
 | 2023-01-31 | 4142 | 1409 | 
 | 2023-01-30 | 4138 | 1405 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 4048 | 1382 | 
 | 2023-01-05 | 4042 | 1381 | 
 | 2023-01-04 | 4037 | 1377 | 
-| 2023-01-03 | 4031 | 1376 | 
 

@@ -1,10 +1,10 @@
 # akaunting/akaunting - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 2023
+☋ Forks: 2024
 
-★ Stars: 5901
+★ Stars: 5905
 
 [Open repository](https://github.com/akaunting/akaunting)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5905 | 2024 | 
 | 2023-02-01 | 5901 | 2023 | 
 | 2023-01-31 | 5897 | 2024 | 
 | 2023-01-30 | 5891 | 2023 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5830 | 1994 | 
 | 2023-01-05 | 5825 | 1993 | 
 | 2023-01-04 | 5819 | 1995 | 
-| 2023-01-03 | 5812 | 1995 | 
 

@@ -1,6 +1,6 @@
 # n0k0m3/revanced-build-template - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 128 | 149 | 
 | 2023-02-01 | 128 | 149 | 
 | 2023-01-31 | 127 | 148 | 
 | 2023-01-30 | 127 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 124 | 146 | 
 | 2023-01-06 | 124 | 145 | 
 | 2023-01-04 | 124 | 144 | 
-| 2023-01-03 | 124 | 145 | 
 

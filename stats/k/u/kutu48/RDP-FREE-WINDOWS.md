@@ -1,8 +1,8 @@
 # kutu48/RDP-FREE-WINDOWS - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 134
+☋ Forks: 139
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | - | 139 | 
 | 2023-02-01 | - | 134 | 
 | 2023-01-31 | - | 131 | 
 | 2023-01-30 | - | 130 | 

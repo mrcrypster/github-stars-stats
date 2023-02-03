@@ -1,10 +1,10 @@
 # nf-core/crisprvar - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/nf-core/crisprvar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5 | 4 | 
 | 2023-02-01 | 4 | 4 | 
 | 2023-01-31 | 4 | 4 | 
 | 2023-01-29 | 4 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 4 | 4 | 
 | 2023-01-06 | 4 | 4 | 
 | 2023-01-04 | 4 | 4 | 
-| 2023-01-03 | 4 | 4 | 
 

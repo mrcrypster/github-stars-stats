@@ -1,6 +1,6 @@
 # kleo/evilportals - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 588 | 151 | 
 | 2023-02-01 | 588 | 151 | 
 | 2023-01-31 | 587 | 150 | 
 | 2023-01-30 | 587 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 579 | 148 | 
 | 2023-01-05 | 579 | 148 | 
 | 2023-01-04 | 579 | 148 | 
-| 2023-01-03 | 578 | 148 | 
 

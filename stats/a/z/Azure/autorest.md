@@ -1,10 +1,10 @@
 # Azure/autorest - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 727
+☋ Forks: 728
 
-★ Stars: 4079
+★ Stars: 4081
 
 [Open repository](https://github.com/Azure/autorest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4081 | 728 | 
 | 2023-02-01 | 4079 | 727 | 
 | 2023-01-31 | 4075 | 727 | 
 | 2023-01-30 | 4075 | 727 | 

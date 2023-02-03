@@ -1,10 +1,10 @@
 # wushangbin/MGFN - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 21
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/wushangbin/MGFN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 203 | 21 | 
 | 2023-02-01 | 202 | 21 | 
 | 2023-01-31 | 202 | 21 | 
 | 2023-01-30 | 202 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 202 | 21 | 
 | 2023-01-06 | 202 | 21 | 
 | 2023-01-05 | 202 | 21 | 
-| 2023-01-04 | 202 | 21 | 
 

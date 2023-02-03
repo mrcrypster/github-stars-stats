@@ -1,10 +1,10 @@
 # crisprss/Extracted_WD_VDM - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/crisprss/Extracted_WD_VDM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 36 | 9 | 
 | 2023-02-01 | 35 | 9 | 
 | 2023-01-31 | 35 | 9 | 
 | 2023-01-30 | 35 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 34 | 10 | 
 | 2023-01-05 | 34 | 10 | 
 | 2023-01-04 | 34 | 10 | 
-| 2023-01-03 | 34 | 10 | 
 

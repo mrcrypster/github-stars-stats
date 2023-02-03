@@ -1,10 +1,10 @@
 # EasyRecon/Hunt3r - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 18
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/EasyRecon/Hunt3r)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 121 | 18 | 
 | 2023-02-01 | 120 | 18 | 
 | 2023-01-31 | 120 | 18 | 
 | 2023-01-30 | 119 | 18 | 

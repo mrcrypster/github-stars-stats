@@ -1,10 +1,10 @@
 # davidfowl/YarpTunnelDemo - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/davidfowl/YarpTunnelDemo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 120 | 18 | 
 | 2023-02-01 | 119 | 18 | 
 | 2023-01-31 | 119 | 18 | 
 | 2023-01-30 | 119 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 116 | 18 | 
 | 2023-01-05 | 116 | 18 | 
 | 2023-01-04 | 116 | 18 | 
-| 2023-01-03 | 116 | 18 | 
 

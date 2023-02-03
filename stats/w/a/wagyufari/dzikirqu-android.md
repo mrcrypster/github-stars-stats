@@ -1,6 +1,6 @@
 # wagyufari/dzikirqu-android - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 112 | 31 | 
 | 2023-02-01 | 112 | 31 | 
 | 2023-01-31 | 112 | 31 | 
 | 2023-01-30 | 112 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 112 | 31 | 
 | 2023-01-05 | 112 | 31 | 
 | 2023-01-04 | 112 | 31 | 
-| 2023-01-03 | 112 | 31 | 
 

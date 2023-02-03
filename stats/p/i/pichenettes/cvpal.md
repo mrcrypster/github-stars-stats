@@ -1,6 +1,6 @@
 # pichenettes/cvpal - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 33
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 62 | 33 | 
 | 2023-02-01 | 62 | 33 | 
 

@@ -1,6 +1,6 @@
 # AndyGlx/FullControl-GCode-Designer - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 387 | 55 | 
 | 2023-02-01 | 387 | 55 | 
 | 2023-01-31 | 387 | 54 | 
 | 2023-01-30 | 386 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 382 | 54 | 
 | 2023-01-05 | 381 | 54 | 
 | 2023-01-04 | 381 | 54 | 
-| 2023-01-03 | 381 | 54 | 
 

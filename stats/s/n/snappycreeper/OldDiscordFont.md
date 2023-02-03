@@ -1,10 +1,10 @@
 # snappycreeper/OldDiscordFont - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/snappycreeper/OldDiscordFont)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 60 | 33 | 
 | 2023-02-01 | 59 | 32 | 
 | 2023-01-31 | 59 | 32 | 
 | 2023-01-30 | 59 | 32 | 

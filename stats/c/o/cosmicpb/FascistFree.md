@@ -1,10 +1,10 @@
 # cosmicpb/FascistFree - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 21
 
-★ Stars: 151
+★ Stars: 150
 
 [Open repository](https://github.com/cosmicpb/FascistFree)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 150 | 21 | 
 | 2023-02-01 | 151 | 21 | 
 | 2023-01-31 | 152 | 21 | 
 | 2023-01-30 | 152 | 21 | 

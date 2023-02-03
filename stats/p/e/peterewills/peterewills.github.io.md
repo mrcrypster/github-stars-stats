@@ -1,6 +1,6 @@
 # peterewills/peterewills.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 11 | 21 | 
 | 2023-02-01 | 11 | 21 | 
 | 2023-01-30 | 11 | 21 | 
 | 2023-01-29 | 11 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 11 | 21 | 
 | 2023-01-05 | 11 | 21 | 
 | 2023-01-04 | 11 | 21 | 
-| 2023-01-03 | 11 | 21 | 
 

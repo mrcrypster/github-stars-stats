@@ -1,10 +1,10 @@
 # li-xiaojun/XPopup - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 1090
+☋ Forks: 1092
 
-★ Stars: 6854
+★ Stars: 6858
 
 [Open repository](https://github.com/li-xiaojun/XPopup)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 6858 | 1092 | 
 | 2023-02-01 | 6854 | 1090 | 
 | 2023-01-31 | 6853 | 1090 | 
 | 2023-01-30 | 6850 | 1090 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6833 | 1091 | 
 | 2023-01-05 | 6831 | 1090 | 
 | 2023-01-04 | 6830 | 1090 | 
-| 2023-01-03 | 6829 | 1090 | 
 

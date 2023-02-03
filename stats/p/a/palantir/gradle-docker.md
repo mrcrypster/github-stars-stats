@@ -1,10 +1,10 @@
 # palantir/gradle-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 154
 
-★ Stars: 694
+★ Stars: 695
 
 [Open repository](https://github.com/palantir/gradle-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 695 | 154 | 
 | 2023-02-01 | 694 | 154 | 
 | 2023-01-31 | 694 | 154 | 
 | 2023-01-30 | 692 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 690 | 154 | 
 | 2023-01-05 | 690 | 154 | 
 | 2023-01-04 | 690 | 154 | 
-| 2023-01-03 | 690 | 154 | 
 

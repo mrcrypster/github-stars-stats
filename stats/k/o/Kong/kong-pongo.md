@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 43
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/Kong/kong-pongo)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 107 | 43 | 
+| 2023-02-02 | 108 | 43 | 
 | 2023-02-01 | 107 | 43 | 
 | 2023-01-31 | 107 | 43 | 
 | 2023-01-30 | 107 | 43 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 104 | 43 | 
 | 2023-01-05 | 104 | 43 | 
 | 2023-01-04 | 104 | 43 | 
-| 2023-01-03 | 103 | 43 | 
 

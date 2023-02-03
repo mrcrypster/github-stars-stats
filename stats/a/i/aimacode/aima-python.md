@@ -1,10 +1,10 @@
 # aimacode/aima-python - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 3347
+☋ Forks: 3346
 
-★ Stars: 6906
+★ Stars: 6908
 
 [Open repository](https://github.com/aimacode/aima-python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 6908 | 3346 | 
 | 2023-02-01 | 6906 | 3347 | 
 | 2023-01-31 | 6898 | 3345 | 
 | 2023-01-30 | 6894 | 3343 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 6824 | 3313 | 
 | 2023-01-05 | 6824 | 3314 | 
 | 2023-01-04 | 6822 | 3313 | 
-| 2023-01-03 | 6821 | 3314 | 
 

@@ -1,6 +1,6 @@
 # Yenthe666/InstallScript - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1346
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 870 | 1346 | 
 | 2023-02-01 | 870 | 1346 | 
 | 2023-01-31 | 870 | 1345 | 
 | 2023-01-30 | 869 | 1344 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 858 | 1333 | 
 | 2023-01-05 | 855 | 1332 | 
 | 2023-01-04 | 854 | 1332 | 
-| 2023-01-03 | 854 | 1330 | 
 

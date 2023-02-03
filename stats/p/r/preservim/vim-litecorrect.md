@@ -1,6 +1,6 @@
 # preservim/vim-litecorrect - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 102 | 4 | 
 | 2023-02-01 | 102 | 4 | 
 | 2023-01-31 | 102 | 4 | 
 | 2023-01-30 | 102 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 101 | 4 | 
 | 2023-01-05 | 101 | 4 | 
 | 2023-01-04 | 101 | 4 | 
-| 2023-01-03 | 101 | 4 | 
 

@@ -1,6 +1,6 @@
 # qbcore-framework/qb-bankrobbery - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 23 | 183 | 
 | 2023-02-02 | 23 | 183 | 
 | 2023-01-31 | 22 | 183 | 
 | 2023-01-30 | 22 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 22 | 183 | 
 | 2023-01-05 | 21 | 182 | 
 | 2023-01-04 | 21 | 182 | 
-| 2023-01-03 | 21 | 182 | 
 

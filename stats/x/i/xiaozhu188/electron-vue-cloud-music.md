@@ -1,6 +1,6 @@
 # xiaozhu188/electron-vue-cloud-music - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 663
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2215 | 663 | 
 | 2023-02-01 | 2215 | 663 | 
 | 2023-01-31 | 2214 | 663 | 
 | 2023-01-29 | 2215 | 663 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2204 | 662 | 
 | 2023-01-05 | 2203 | 662 | 
 | 2023-01-04 | 2202 | 662 | 
-| 2023-01-03 | 2201 | 661 | 
 

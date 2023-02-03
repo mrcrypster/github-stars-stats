@@ -1,10 +1,10 @@
 # GLScene/GLScene - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 26
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/GLScene/GLScene)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 158 | 26 | 
 | 2023-02-01 | 157 | 26 | 
 | 2023-01-31 | 157 | 26 | 
 | 2023-01-30 | 157 | 26 | 

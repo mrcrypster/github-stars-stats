@@ -1,10 +1,10 @@
 # silverbulletmd/silverbullet - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 60
 
-★ Stars: 1003
+★ Stars: 1005
 
 [Open repository](https://github.com/silverbulletmd/silverbullet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1005 | 60 | 
 | 2023-02-01 | 1003 | 60 | 
 | 2023-01-31 | 1002 | 60 | 
 | 2023-01-30 | 1002 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 917 | 56 | 
 | 2023-01-05 | 915 | 56 | 
 | 2023-01-04 | 908 | 56 | 
-| 2023-01-03 | 906 | 56 | 
 

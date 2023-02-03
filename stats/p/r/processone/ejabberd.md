@@ -1,10 +1,10 @@
 # processone/ejabberd - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 1503
 
-★ Stars: 5423
+★ Stars: 5426
 
 [Open repository](https://github.com/processone/ejabberd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 5426 | 1503 | 
 | 2023-02-01 | 5423 | 1503 | 
 | 2023-01-31 | 5424 | 1502 | 
 | 2023-01-30 | 5423 | 1502 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 5409 | 1500 | 
 | 2023-01-05 | 5408 | 1500 | 
 | 2023-01-04 | 5408 | 1501 | 
-| 2023-01-03 | 5408 | 1501 | 
 

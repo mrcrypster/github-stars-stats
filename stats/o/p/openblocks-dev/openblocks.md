@@ -1,10 +1,10 @@
 # openblocks-dev/openblocks - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 131
 
-★ Stars: 4042
+★ Stars: 4046
 
 [Open repository](https://github.com/openblocks-dev/openblocks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 4046 | 131 | 
 | 2023-02-01 | 4042 | 131 | 
 | 2023-01-31 | 4038 | 131 | 
 | 2023-01-30 | 4034 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 3874 | 120 | 
 | 2023-01-06 | 3863 | 119 | 
 | 2023-01-04 | 3853 | 118 | 
-| 2023-01-03 | 3843 | 118 | 
 

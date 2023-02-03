@@ -1,6 +1,6 @@
 # suaicloud/docker-app - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1 | 75 | 
 | 2023-02-01 | 1 | 75 | 
 | 2023-01-31 | 2 | 75 | 
 | 2023-01-30 | 2 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2 | 75 | 
 | 2023-01-05 | 2 | 76 | 
 | 2023-01-04 | 2 | 76 | 
-| 2023-01-03 | 2 | 76 | 
 

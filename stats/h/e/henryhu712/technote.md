@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 02
 
 ☋ Forks: 14
 
-★ Stars: 136
+★ Stars: 153
 
 [Open repository](https://github.com/henryhu712/technote)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 136 | 14 | 
+| 2023-02-02 | 153 | 14 | 
 | 2023-02-01 | 136 | 14 | 
 | 2023-01-31 | 125 | 12 | 
 | 2023-01-30 | 99 | 9 | 

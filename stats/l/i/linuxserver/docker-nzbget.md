@@ -1,6 +1,6 @@
 # linuxserver/docker-nzbget - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 144 | 71 | 
 | 2023-02-01 | 144 | 71 | 
 | 2023-01-31 | 144 | 71 | 
 | 2023-01-30 | 144 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 142 | 68 | 
 | 2023-01-05 | 142 | 68 | 
 | 2023-01-04 | 142 | 68 | 
-| 2023-01-03 | 142 | 68 | 
 

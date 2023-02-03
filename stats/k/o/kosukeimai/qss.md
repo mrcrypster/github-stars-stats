@@ -1,10 +1,10 @@
 # kosukeimai/qss - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 207
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/kosukeimai/qss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 194 | 207 | 
 | 2023-02-01 | 193 | 207 | 
 | 2023-01-31 | 193 | 207 | 
 | 2023-01-30 | 193 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 186 | 200 | 
 | 2023-01-05 | 186 | 200 | 
 | 2023-01-04 | 186 | 200 | 
-| 2023-01-03 | 186 | 200 | 
 

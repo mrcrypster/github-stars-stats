@@ -1,10 +1,10 @@
 # CPU-Code-School/cpu-biz-scenario - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/CPU-Code-School/cpu-biz-scenario)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1 | 24 | 
 | 2023-02-01 | - | 23 | 
 | 2023-01-31 | - | 23 | 
 | 2023-01-30 | - | 23 | 

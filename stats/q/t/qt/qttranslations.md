@@ -1,6 +1,6 @@
 # qt/qttranslations - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 14 | 37 | 
 | 2023-02-01 | 14 | 37 | 
 | 2023-01-31 | 14 | 37 | 
 | 2023-01-29 | 14 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-07 | 14 | 37 | 
 | 2023-01-06 | 14 | 37 | 
 | 2023-01-05 | 14 | 37 | 
-| 2023-01-04 | 14 | 37 | 
 

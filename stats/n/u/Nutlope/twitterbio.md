@@ -1,10 +1,10 @@
 # Nutlope/twitterbio - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 476
+★ Stars: 488
 
 [Open repository](https://github.com/Nutlope/twitterbio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 488 | 65 | 
 | 2023-02-01 | 476 | 64 | 
 | 2023-01-31 | 403 | 52 | 
 | 2023-01-30 | 386 | 50 | 

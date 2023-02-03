@@ -1,8 +1,8 @@
 # mathgames66/mathgames66.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 31
+Stats updated on Feb 2023, 02
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 30 | 79 | 
 | 2023-01-31 | 30 | 78 | 
 | 2023-01-30 | 30 | 76 | 
 | 2023-01-29 | 30 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 31
 | 2023-01-07 | 29 | 65 | 
 | 2023-01-06 | 29 | 65 | 
 | 2023-01-04 | 28 | 65 | 
-| 2023-01-03 | 28 | 65 | 
 

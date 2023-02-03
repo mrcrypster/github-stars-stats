@@ -1,10 +1,10 @@
 # Azure-Samples/active-directory-dotnetcore-daemon-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 141
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 199 | 141 | 
 | 2023-02-01 | 198 | 141 | 
 | 2023-01-31 | 199 | 141 | 
 | 2023-01-30 | 198 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 195 | 139 | 
 | 2023-01-05 | 194 | 139 | 
 | 2023-01-04 | 194 | 139 | 
-| 2023-01-03 | 194 | 139 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 02
 
-☋ Forks: 1487
+☋ Forks: 1488
 
-★ Stars: 9546
+★ Stars: 9555
 
 [Open repository](https://github.com/sumatrapdfreader/sumatrapdf)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-02 | 9546 | 1487 | 
+| 2023-02-02 | 9555 | 1488 | 
 | 2023-02-01 | 9546 | 1487 | 
 | 2023-01-31 | 9534 | 1486 | 
 | 2023-01-30 | 9508 | 1484 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-06 | 9337 | 1480 | 
 | 2023-01-05 | 9335 | 1480 | 
 | 2023-01-04 | 9328 | 1480 | 
-| 2023-01-03 | 9323 | 1481 | 
 

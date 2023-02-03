@@ -1,10 +1,10 @@
 # Jackpopc/CS-Books-Store - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 454
+☋ Forks: 456
 
-★ Stars: 2390
+★ Stars: 2392
 
 [Open repository](https://github.com/Jackpopc/CS-Books-Store)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2392 | 456 | 
 | 2023-02-01 | 2390 | 454 | 
 | 2023-01-31 | 2388 | 454 | 
 | 2023-01-30 | 2378 | 452 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 2244 | 428 | 
 | 2023-01-05 | 2242 | 428 | 
 | 2023-01-04 | 2238 | 427 | 
-| 2023-01-03 | 2237 | 427 | 
 

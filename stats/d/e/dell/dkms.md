@@ -1,10 +1,10 @@
 # dell/dkms - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 131
 
-★ Stars: 501
+★ Stars: 500
 
 [Open repository](https://github.com/dell/dkms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 500 | 131 | 
 | 2023-02-01 | 501 | 131 | 
 | 2023-01-31 | 501 | 131 | 
 | 2023-01-30 | 500 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 493 | 132 | 
 | 2023-01-05 | 493 | 132 | 
 | 2023-01-04 | 493 | 132 | 
-| 2023-01-03 | 493 | 132 | 
 

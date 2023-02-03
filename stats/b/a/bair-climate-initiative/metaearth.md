@@ -1,10 +1,10 @@
 # bair-climate-initiative/metaearth - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 14
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/bair-climate-initiative/metaearth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 144 | 14 | 
 | 2023-02-01 | 143 | 14 | 
 | 2023-01-31 | 142 | 14 | 
 | 2023-01-30 | 142 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 139 | 12 | 
 | 2023-01-05 | 139 | 12 | 
 | 2023-01-04 | 139 | 12 | 
-| 2023-01-03 | 139 | 12 | 
 

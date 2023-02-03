@@ -1,10 +1,10 @@
 # Cyril0563/lanjing_live - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 299
+☋ Forks: 304
 
-★ Stars: 2026
+★ Stars: 2078
 
 [Open repository](https://github.com/Cyril0563/lanjing_live)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2078 | 304 | 
 | 2023-02-01 | 2026 | 299 | 
 | 2023-01-31 | 1986 | 292 | 
 | 2023-01-30 | 1961 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1195 | 251 | 
 | 2023-01-05 | 1188 | 251 | 
 | 2023-01-04 | 1180 | 252 | 
-| 2023-01-03 | 1169 | 250 | 
 

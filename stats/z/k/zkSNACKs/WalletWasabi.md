@@ -1,10 +1,10 @@
 # zkSNACKs/WalletWasabi - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
-☋ Forks: 428
+☋ Forks: 427
 
-★ Stars: 1755
+★ Stars: 1757
 
 [Open repository](https://github.com/zkSNACKs/WalletWasabi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 1757 | 427 | 
 | 2023-02-01 | 1755 | 428 | 
 | 2023-01-31 | 1757 | 428 | 
 | 2023-01-30 | 1754 | 427 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 1728 | 423 | 
 | 2023-01-05 | 1727 | 423 | 
 | 2023-01-04 | 1727 | 422 | 
-| 2023-01-03 | 1724 | 423 | 
 

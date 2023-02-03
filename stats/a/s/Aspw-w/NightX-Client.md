@@ -1,6 +1,6 @@
 # Aspw-w/NightX-Client - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 54 | 26 | 
 | 2023-02-01 | 54 | 26 | 
 | 2023-01-31 | 56 | 27 | 
 | 2023-01-30 | 56 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 35 | 20 | 
 | 2023-01-05 | 35 | 20 | 
 | 2023-01-04 | 34 | 20 | 
-| 2023-01-03 | 33 | 20 | 
 

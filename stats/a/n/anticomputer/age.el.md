@@ -1,10 +1,10 @@
 # anticomputer/age.el - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/anticomputer/age.el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 31 | 3 | 
 | 2023-02-01 | 30 | 3 | 
 | 2023-01-31 | 31 | 3 | 
 | 2023-01-30 | 31 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-06 | 21 | - | 
 | 2023-01-05 | 21 | - | 
 | 2023-01-04 | 20 | - | 
-| 2023-01-03 | 20 | - | 
 

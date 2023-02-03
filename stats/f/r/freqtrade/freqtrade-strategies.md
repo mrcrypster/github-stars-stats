@@ -1,10 +1,10 @@
 # freqtrade/freqtrade-strategies - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 02
 
 ☋ Forks: 901
 
-★ Stars: 2395
+★ Stars: 2397
 
 [Open repository](https://github.com/freqtrade/freqtrade-strategies)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-02 | 2397 | 901 | 
 | 2023-02-01 | 2395 | 901 | 
 | 2023-01-31 | 2396 | 900 | 
 | 2023-01-30 | 2394 | 900 | 
