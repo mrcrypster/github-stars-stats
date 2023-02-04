@@ -1,10 +1,10 @@
 # alibaba/GraphScope - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 257
 
-★ Stars: 2225
+★ Stars: 2228
 
 [Open repository](https://github.com/alibaba/GraphScope)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2228 | 257 | 
 | 2023-02-02 | 2225 | 257 | 
 | 2023-02-01 | 2222 | 257 | 
 | 2023-01-31 | 2219 | 258 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2201 | 256 | 
 | 2023-01-06 | 2198 | 256 | 
 | 2023-01-05 | 2193 | 256 | 
-| 2023-01-04 | 2189 | 256 | 
 

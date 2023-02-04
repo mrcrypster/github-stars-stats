@@ -1,10 +1,10 @@
 # clementchadebec/benchmark_VAE - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 100
 
-★ Stars: 1168
+★ Stars: 1171
 
 [Open repository](https://github.com/clementchadebec/benchmark_VAE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1171 | 100 | 
 | 2023-02-02 | 1168 | 100 | 
 | 2023-02-01 | 1168 | 99 | 
 | 2023-01-31 | 1167 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1133 | 98 | 
 | 2023-01-06 | 1133 | 98 | 
 | 2023-01-05 | 1133 | 98 | 
-| 2023-01-04 | 1131 | 97 | 
 

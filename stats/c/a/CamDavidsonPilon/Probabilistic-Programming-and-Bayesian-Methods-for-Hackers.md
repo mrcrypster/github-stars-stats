@@ -1,10 +1,10 @@
 # CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 7724
+☋ Forks: 7725
 
-★ Stars: 25224
+★ Stars: 25228
 
 [Open repository](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 25228 | 7725 | 
 | 2023-02-02 | 25224 | 7724 | 
 | 2023-02-01 | 25223 | 7724 | 
 | 2023-01-31 | 25220 | 7723 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 25141 | 7707 | 
 | 2023-01-06 | 25141 | 7708 | 
 | 2023-01-05 | 25136 | 7708 | 
-| 2023-01-04 | 25133 | 7706 | 
 

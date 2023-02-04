@@ -1,8 +1,8 @@
 # qtile/qtile - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 654
+☋ Forks: 653
 
 ★ Stars: 3842
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3842 | 653 | 
 | 2023-02-02 | 3842 | 654 | 
 | 2023-02-01 | 3842 | 654 | 
 | 2023-01-31 | 3837 | 652 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3787 | 644 | 
 | 2023-01-06 | 3784 | 641 | 
 | 2023-01-05 | 3782 | 641 | 
-| 2023-01-04 | 3781 | 640 | 
 

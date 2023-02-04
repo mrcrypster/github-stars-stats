@@ -1,6 +1,6 @@
 # LoneStarF13/LoneStar - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 8 | 70 | 
 | 2023-02-02 | 8 | 70 | 
 | 2023-02-01 | 8 | 70 | 
 | 2023-01-30 | 8 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 8 | 71 | 
 | 2023-01-07 | 8 | 71 | 
 | 2023-01-06 | 8 | 71 | 
-| 2023-01-04 | 8 | 71 | 
 

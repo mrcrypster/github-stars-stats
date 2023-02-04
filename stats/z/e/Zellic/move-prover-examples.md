@@ -1,10 +1,10 @@
 # Zellic/move-prover-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Zellic/move-prover-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 24 | 3 | 
 | 2023-02-02 | 23 | 2 | 
 | 2023-02-01 | 23 | 2 | 
 | 2023-01-31 | 23 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 21 | 2 | 
 | 2023-01-06 | 21 | 2 | 
 | 2023-01-05 | 21 | 2 | 
-| 2023-01-04 | 21 | 2 | 
 

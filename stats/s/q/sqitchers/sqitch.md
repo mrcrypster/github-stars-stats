@@ -1,10 +1,10 @@
 # sqitchers/sqitch - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 205
 
-★ Stars: 2526
+★ Stars: 2527
 
 [Open repository](https://github.com/sqitchers/sqitch)
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2527 | 205 | 
+| 2023-02-03 | 2527 | 205 | 
 | 2023-02-02 | 2526 | 205 | 
 

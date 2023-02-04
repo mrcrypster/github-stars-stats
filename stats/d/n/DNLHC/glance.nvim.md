@@ -1,10 +1,10 @@
 # DNLHC/glance.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/DNLHC/glance.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 246 | 10 | 
 | 2023-02-02 | 245 | 10 | 
 | 2023-02-01 | 244 | 10 | 
 | 2023-01-31 | 242 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 217 | 7 | 
 | 2023-01-06 | 217 | 7 | 
 | 2023-01-05 | 216 | 7 | 
-| 2023-01-04 | 216 | 7 | 
 

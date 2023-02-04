@@ -1,6 +1,6 @@
 # pfpt-andrew/Rapid-Response-Reporting - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 34 | 4 | 
 | 2023-02-02 | 34 | 4 | 
 | 2023-02-01 | 34 | 4 | 
 | 2023-01-31 | 34 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 34 | 4 | 
 | 2023-01-06 | 34 | 4 | 
 | 2023-01-05 | 34 | 4 | 
-| 2023-01-04 | 34 | 4 | 
 

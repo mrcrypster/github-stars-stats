@@ -1,6 +1,6 @@
 # Debian/devscripts - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 31 | 10 | 
 | 2023-02-02 | 31 | 10 | 
 | 2023-02-01 | 31 | 10 | 
 | 2023-01-31 | 31 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 31 | 10 | 
 | 2023-01-06 | 31 | 10 | 
 | 2023-01-05 | 31 | 10 | 
-| 2023-01-04 | 31 | 10 | 
 

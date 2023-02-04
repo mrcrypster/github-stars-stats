@@ -1,10 +1,10 @@
 # mazzzystar/disco-diffusion-wrapper - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 94
 
-★ Stars: 528
+★ Stars: 527
 
 [Open repository](https://github.com/mazzzystar/disco-diffusion-wrapper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 527 | 94 | 
 | 2023-02-02 | 528 | 94 | 
 | 2023-02-01 | 527 | 94 | 
 | 2023-01-31 | 527 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 527 | 93 | 
 | 2023-01-07 | 527 | 93 | 
 | 2023-01-05 | 527 | 93 | 
-| 2023-01-04 | 528 | 93 | 
 

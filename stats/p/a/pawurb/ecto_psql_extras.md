@@ -1,10 +1,10 @@
 # pawurb/ecto_psql_extras - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 20
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/pawurb/ecto_psql_extras)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 323 | 20 | 
 | 2023-02-02 | 322 | 20 | 
 | 2023-01-31 | 322 | 20 | 
 | 2023-01-30 | 322 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 319 | 20 | 
 | 2023-01-07 | 319 | 20 | 
 | 2023-01-05 | 319 | 20 | 
-| 2023-01-04 | 319 | 20 | 
 

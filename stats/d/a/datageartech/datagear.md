@@ -1,6 +1,6 @@
 # datageartech/datagear - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 835 | 250 | 
 | 2023-02-02 | 835 | 250 | 
 | 2023-02-01 | 834 | 249 | 
 | 2023-01-31 | 834 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 811 | 246 | 
 | 2023-01-06 | 811 | 246 | 
 | 2023-01-05 | 808 | 246 | 
-| 2023-01-04 | 809 | 246 | 
 

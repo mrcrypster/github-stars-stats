@@ -1,10 +1,10 @@
 # altercation/vim-colors-solarized - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1784
 
-★ Stars: 6458
+★ Stars: 6459
 
 [Open repository](https://github.com/altercation/vim-colors-solarized)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 6459 | 1784 | 
 | 2023-02-02 | 6458 | 1784 | 
 | 2023-02-01 | 6458 | 1783 | 
 | 2023-01-31 | 6457 | 1783 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 6449 | 1786 | 
 | 2023-01-06 | 6450 | 1785 | 
 | 2023-01-05 | 6449 | 1787 | 
-| 2023-01-04 | 6450 | 1788 | 
 

@@ -1,10 +1,10 @@
 # cabol/nebulex - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 56
 
-★ Stars: 1007
+★ Stars: 1008
 
 [Open repository](https://github.com/cabol/nebulex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1008 | 56 | 
 | 2023-02-02 | 1007 | 56 | 
 | 2023-02-01 | 1006 | 56 | 
 | 2023-01-31 | 1006 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 982 | 55 | 
 | 2023-01-06 | 981 | 55 | 
 | 2023-01-05 | 981 | 55 | 
-| 2023-01-04 | 981 | 55 | 
 

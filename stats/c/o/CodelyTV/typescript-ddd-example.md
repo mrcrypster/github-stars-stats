@@ -1,6 +1,6 @@
 # CodelyTV/typescript-ddd-example - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 921 | 177 | 
 | 2023-02-02 | 921 | 177 | 
 | 2023-02-01 | 921 | 177 | 
 | 2023-01-31 | 918 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 898 | 174 | 
 | 2023-01-06 | 896 | 174 | 
 | 2023-01-05 | 896 | 174 | 
-| 2023-01-04 | 896 | 174 | 
 

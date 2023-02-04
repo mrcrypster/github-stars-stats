@@ -1,10 +1,10 @@
 # kcp-dev/kcp - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 312
+☋ Forks: 313
 
-★ Stars: 1877
+★ Stars: 1880
 
 [Open repository](https://github.com/kcp-dev/kcp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1880 | 313 | 
 | 2023-02-02 | 1877 | 312 | 
 | 2023-02-01 | 1875 | 312 | 
 | 2023-01-30 | 1874 | 311 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 1846 | 299 | 
 | 2023-01-06 | 1846 | 299 | 
 | 2023-01-05 | 1845 | 299 | 
-| 2023-01-04 | 1840 | 298 | 
 

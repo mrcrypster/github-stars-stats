@@ -1,6 +1,6 @@
 # hashicorp/learn-terraform-github-actions - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1729
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 111 | 1729 | 
 | 2023-02-02 | 111 | 1729 | 
 | 2023-02-01 | 111 | 1725 | 
 | 2023-01-31 | 111 | 1717 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 103 | 1664 | 
 | 2023-01-06 | 103 | 1664 | 
 | 2023-01-05 | 102 | 1664 | 
-| 2023-01-04 | 102 | 1666 | 
 

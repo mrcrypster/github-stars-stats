@@ -1,10 +1,10 @@
 # dnl-blkv/mcdowell-cv - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 623
 
-★ Stars: 1459
+★ Stars: 1461
 
 [Open repository](https://github.com/dnl-blkv/mcdowell-cv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1461 | 623 | 
 | 2023-02-02 | 1459 | 623 | 
 | 2023-02-01 | 1455 | 623 | 
 | 2023-01-31 | 1456 | 623 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1430 | 611 | 
 | 2023-01-06 | 1430 | 611 | 
 | 2023-01-05 | 1430 | 611 | 
-| 2023-01-04 | 1428 | 611 | 
 

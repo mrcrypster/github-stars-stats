@@ -1,8 +1,8 @@
 # apache/iceberg-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 34 | 66 | 
 | 2023-02-02 | 34 | 65 | 
 | 2023-01-31 | 34 | 64 | 
 | 2023-01-30 | 34 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 33 | 61 | 
 | 2023-01-06 | 33 | 61 | 
 | 2023-01-05 | 33 | 61 | 
-| 2023-01-04 | 33 | 61 | 
 

@@ -1,6 +1,6 @@
 # LineageOS/android_system_sepolicy - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 19 | 216 | 
 | 2023-02-02 | 19 | 216 | 
 | 2023-02-01 | 19 | 215 | 
 | 2023-01-31 | 19 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 17 | 216 | 
 | 2023-01-06 | 17 | 216 | 
 | 2023-01-05 | 17 | 216 | 
-| 2023-01-04 | 17 | 214 | 
 

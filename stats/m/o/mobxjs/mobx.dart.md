@@ -1,10 +1,10 @@
 # mobxjs/mobx.dart - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 295
 
-★ Stars: 2239
+★ Stars: 2240
 
 [Open repository](https://github.com/mobxjs/mobx.dart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2240 | 295 | 
 | 2023-02-02 | 2239 | 295 | 
 | 2023-02-01 | 2239 | 295 | 
 | 2023-01-31 | 2239 | 295 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 2226 | 296 | 
 | 2023-01-07 | 2226 | 296 | 
 | 2023-01-06 | 2226 | 297 | 
-| 2023-01-05 | 2225 | 297 | 
 

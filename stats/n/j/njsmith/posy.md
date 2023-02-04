@@ -1,10 +1,10 @@
 # njsmith/posy - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/njsmith/posy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 150 | 9 | 
 | 2023-02-02 | 149 | 9 | 
 | 2023-02-01 | 143 | 9 | 
 | 2023-01-31 | 143 | 9 | 

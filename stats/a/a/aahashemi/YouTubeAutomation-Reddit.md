@@ -1,10 +1,10 @@
 # aahashemi/YouTubeAutomation-Reddit - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/aahashemi/YouTubeAutomation-Reddit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 62 | 15 | 
 | 2023-02-02 | 61 | 15 | 
 | 2023-02-01 | 60 | 15 | 
 | 2023-01-31 | 60 | 14 | 

@@ -1,10 +1,10 @@
 # ElliotG/coder-oss-tf - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 23
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/ElliotG/coder-oss-tf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 72 | 23 | 
 | 2023-02-02 | 70 | 23 | 
 | 2023-02-01 | 66 | 22 | 
 | 2023-01-31 | 67 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 60 | 22 | 
 | 2023-01-06 | 60 | 21 | 
 | 2023-01-05 | 60 | 21 | 
-| 2023-01-04 | 60 | 21 | 
 

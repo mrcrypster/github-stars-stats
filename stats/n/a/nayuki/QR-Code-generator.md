@@ -1,10 +1,10 @@
 # nayuki/QR-Code-generator - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 913
 
-★ Stars: 3389
+★ Stars: 3392
 
 [Open repository](https://github.com/nayuki/QR-Code-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3392 | 913 | 
 | 2023-02-02 | 3389 | 913 | 
 | 2023-02-01 | 3386 | 913 | 
 | 2023-01-31 | 3385 | 912 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3320 | 907 | 
 | 2023-01-06 | 3316 | 907 | 
 | 2023-01-05 | 3314 | 907 | 
-| 2023-01-04 | 3313 | 907 | 
 

@@ -1,6 +1,6 @@
 # chatwoot/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 20 | 21 | 
 | 2023-02-02 | 20 | 21 | 
 | 2023-02-01 | 20 | 21 | 
 | 2023-01-31 | 20 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 20 | 20 | 
 | 2023-01-06 | 20 | 20 | 
 | 2023-01-05 | 20 | 20 | 
-| 2023-01-04 | 20 | 20 | 
 

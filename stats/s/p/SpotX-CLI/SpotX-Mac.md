@@ -1,8 +1,8 @@
 # SpotX-CLI/SpotX-Mac - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 410
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 410 | 23 | 
 | 2023-02-02 | 410 | 22 | 
 | 2023-01-31 | 407 | 22 | 
 | 2023-01-30 | 404 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 332 | 19 | 
 | 2023-01-06 | 326 | 19 | 
 | 2023-01-05 | 325 | 19 | 
-| 2023-01-04 | 324 | 18 | 
 

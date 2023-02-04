@@ -1,10 +1,10 @@
 # Pocco81/auto-save.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 43
 
-★ Stars: 361
+★ Stars: 363
 
 [Open repository](https://github.com/Pocco81/auto-save.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 363 | 43 | 
 | 2023-02-02 | 361 | 43 | 
 | 2023-02-01 | 361 | 42 | 
 | 2023-01-31 | 360 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 340 | 40 | 
 | 2023-01-06 | 338 | 40 | 
 | 2023-01-05 | 337 | 40 | 
-| 2023-01-04 | 336 | 40 | 
 

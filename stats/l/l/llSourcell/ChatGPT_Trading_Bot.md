@@ -1,10 +1,10 @@
 # llSourcell/ChatGPT_Trading_Bot - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 112
+☋ Forks: 119
 
-★ Stars: 247
+★ Stars: 256
 
 [Open repository](https://github.com/llSourcell/ChatGPT_Trading_Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 256 | 119 | 
 | 2023-02-02 | 247 | 112 | 
 | 2023-02-01 | 240 | 105 | 
 | 2023-01-31 | 230 | 102 | 

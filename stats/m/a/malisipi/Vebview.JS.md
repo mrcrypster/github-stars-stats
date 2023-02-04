@@ -1,6 +1,6 @@
 # malisipi/Vebview.JS - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 40 | - | 
 | 2023-02-02 | 40 | - | 
 | 2023-01-31 | 40 | - | 
 | 2023-01-30 | 40 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 35 | - | 
 | 2023-01-06 | 35 | - | 
 | 2023-01-05 | 34 | - | 
-| 2023-01-04 | 34 | - | 
 

@@ -1,6 +1,6 @@
 # inikep/lizard - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 582 | 40 | 
 | 2023-02-02 | 582 | 40 | 
 | 2023-02-01 | 581 | 40 | 
 | 2023-01-31 | 581 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 580 | 40 | 
 | 2023-01-06 | 580 | 40 | 
 | 2023-01-05 | 580 | 40 | 
-| 2023-01-04 | 580 | 40 | 
 

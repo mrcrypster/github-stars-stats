@@ -1,10 +1,10 @@
 # DylanCope/Evolving-Protozoa - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 98
+★ Stars: 100
 
 [Open repository](https://github.com/DylanCope/Evolving-Protozoa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 100 | 8 | 
 | 2023-02-02 | 98 | 8 | 
 | 2023-02-01 | 98 | 7 | 
 | 2023-01-31 | 95 | 6 | 

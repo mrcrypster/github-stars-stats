@@ -1,10 +1,10 @@
 # alexforencich/verilog-ethernet - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 456
+☋ Forks: 457
 
-★ Stars: 1357
+★ Stars: 1358
 
 [Open repository](https://github.com/alexforencich/verilog-ethernet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1358 | 457 | 
 | 2023-02-02 | 1357 | 456 | 
 | 2023-02-01 | 1356 | 456 | 
 | 2023-01-31 | 1355 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1335 | 449 | 
 | 2023-01-06 | 1334 | 449 | 
 | 2023-01-05 | 1333 | 449 | 
-| 2023-01-04 | 1331 | 449 | 
 

@@ -1,10 +1,10 @@
 # apertureless/vue-chartjs - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 765
 
-★ Stars: 5029
+★ Stars: 5030
 
 [Open repository](https://github.com/apertureless/vue-chartjs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 5030 | 765 | 
 | 2023-02-02 | 5029 | 765 | 
 | 2023-02-01 | 5029 | 765 | 
 | 2023-01-31 | 5026 | 766 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 4995 | 766 | 
 | 2023-01-06 | 4994 | 767 | 
 | 2023-01-05 | 4992 | 766 | 
-| 2023-01-04 | 4992 | 765 | 
 

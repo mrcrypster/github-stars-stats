@@ -1,8 +1,8 @@
 # TakosThings/Fluent-Discord - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 214
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 214 | 20 | 
 | 2023-02-01 | 214 | 19 | 
 | 2023-01-31 | 214 | 19 | 
 | 2023-01-30 | 215 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-08 | 210 | 15 | 
 | 2023-01-06 | 209 | 15 | 
 | 2023-01-05 | 209 | 14 | 
-| 2023-01-04 | 208 | 14 | 
 

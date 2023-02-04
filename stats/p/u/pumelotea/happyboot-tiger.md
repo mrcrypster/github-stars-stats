@@ -1,6 +1,6 @@
 # pumelotea/happyboot-tiger - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 306 | 23 | 
 | 2023-02-02 | 306 | 23 | 
 | 2023-02-01 | 305 | 23 | 
 | 2023-01-31 | 304 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 286 | 23 | 
 | 2023-01-06 | 287 | 23 | 
 | 2023-01-05 | 285 | 23 | 
-| 2023-01-04 | 283 | 23 | 
 

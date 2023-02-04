@@ -1,6 +1,6 @@
 # pontem-network/faucet - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 10 | 7 | 
 | 2023-02-02 | 10 | 7 | 
 | 2023-02-01 | 10 | 7 | 
 | 2023-01-31 | 10 | 7 | 

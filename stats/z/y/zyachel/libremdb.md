@@ -1,10 +1,10 @@
 # zyachel/libremdb - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/zyachel/libremdb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 127 | 18 | 
 | 2023-02-02 | 126 | 18 | 
 | 2023-02-01 | 125 | 18 | 
 | 2023-01-31 | 125 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 117 | 17 | 
 | 2023-01-06 | 117 | 17 | 
 | 2023-01-05 | 117 | 17 | 
-| 2023-01-04 | 117 | 17 | 
 

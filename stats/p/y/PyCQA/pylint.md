@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 03
 
-☋ Forks: 964
+☋ Forks: 965
 
-★ Stars: 4468
+★ Stars: 4475
 
 [Open repository](https://github.com/PyCQA/pylint)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-03 | 4468 | 964 | 
+| 2023-02-03 | 4475 | 965 | 
 | 2023-02-02 | 4463 | 965 | 
 | 2023-01-31 | 4459 | 964 | 
 | 2023-01-30 | 4461 | 962 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 4427 | 954 | 
 | 2023-01-06 | 4426 | 955 | 
 | 2023-01-05 | 4424 | 955 | 
-| 2023-01-04 | 4422 | 956 | 
 

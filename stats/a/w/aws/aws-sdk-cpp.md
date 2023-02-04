@@ -1,8 +1,8 @@
 # aws/aws-sdk-cpp - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 950
+☋ Forks: 951
 
 ★ Stars: 1616
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1616 | 951 | 
 | 2023-02-02 | 1616 | 950 | 
 | 2023-02-01 | 1615 | 949 | 
 | 2023-01-31 | 1615 | 948 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1601 | 939 | 
 | 2023-01-06 | 1601 | 939 | 
 | 2023-01-05 | 1601 | 939 | 
-| 2023-01-04 | 1601 | 939 | 
 

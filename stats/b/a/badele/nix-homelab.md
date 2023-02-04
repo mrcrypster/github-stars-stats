@@ -1,10 +1,10 @@
 # badele/nix-homelab - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/badele/nix-homelab)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 15 | - | 
 | 2023-02-02 | 14 | - | 
 | 2023-02-01 | 14 | - | 
 | 2023-01-31 | 14 | - | 

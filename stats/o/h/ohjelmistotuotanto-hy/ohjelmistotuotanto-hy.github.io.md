@@ -1,8 +1,8 @@
 # ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 89
+☋ Forks: 88
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 5 | 88 | 
 | 2023-02-02 | 5 | 89 | 
 | 2023-02-01 | 5 | 89 | 
 | 2023-01-31 | 5 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 5 | 87 | 
 | 2023-01-06 | 5 | 86 | 
 | 2023-01-05 | 5 | 86 | 
-| 2023-01-04 | 5 | 86 | 
 

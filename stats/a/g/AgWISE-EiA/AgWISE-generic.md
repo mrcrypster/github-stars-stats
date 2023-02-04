@@ -1,6 +1,6 @@
 # AgWISE-EiA/AgWISE-generic - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1 | 7 | 
 | 2023-02-03 | 1 | 7 | 
 | 2023-02-01 | 1 | 6 | 
 | 2023-01-31 | 1 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 2 | 6 | 
 | 2023-01-06 | 2 | 6 | 
 | 2023-01-05 | 2 | 6 | 
-| 2023-01-04 | 2 | 6 | 
 

@@ -1,6 +1,6 @@
 # JuliaLang/JuliaSyntax.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 189 | 9 | 
 | 2023-02-02 | 189 | 9 | 
 | 2023-01-31 | 189 | 9 | 
 | 2023-01-30 | 188 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 179 | 8 | 
 | 2023-01-06 | 179 | 8 | 
 | 2023-01-05 | 179 | 8 | 
-| 2023-01-04 | 178 | 8 | 
 

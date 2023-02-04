@@ -1,10 +1,10 @@
 # bazel-ios/rules_ios - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 71
+☋ Forks: 73
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/bazel-ios/rules_ios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 219 | 73 | 
 | 2023-02-02 | 218 | 71 | 
 | 2023-02-01 | 218 | 71 | 
 | 2023-01-31 | 218 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 213 | 70 | 
 | 2023-01-06 | 211 | 70 | 
 | 2023-01-05 | 211 | 70 | 
-| 2023-01-04 | 211 | 70 | 
 

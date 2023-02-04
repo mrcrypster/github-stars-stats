@@ -1,10 +1,10 @@
 # viascom/nanoid-postgres - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/viascom/nanoid-postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 48 | 3 | 
 | 2023-02-02 | 47 | 3 | 
 | 2023-02-01 | 47 | 3 | 
 | 2023-01-31 | 45 | 3 | 

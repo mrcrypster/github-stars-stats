@@ -1,10 +1,10 @@
 # termux/termux-packages - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 2565
 
-★ Stars: 9771
+★ Stars: 9776
 
 [Open repository](https://github.com/termux/termux-packages)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 9776 | 2565 | 
 | 2023-02-02 | 9771 | 2565 | 
 | 2023-02-01 | 9770 | 2566 | 
 | 2023-01-31 | 9765 | 2566 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 9608 | 2545 | 
 | 2023-01-06 | 9602 | 2544 | 
 | 2023-01-05 | 9596 | 2543 | 
-| 2023-01-04 | 9593 | 2542 | 
 

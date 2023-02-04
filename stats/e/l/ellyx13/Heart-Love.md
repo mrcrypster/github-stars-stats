@@ -1,6 +1,6 @@
 # ellyx13/Heart-Love - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 14 | 45 | 
 | 2023-02-02 | 14 | 45 | 
 | 2023-02-01 | 14 | 45 | 
 | 2023-01-31 | 14 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 13 | 44 | 
 | 2023-01-06 | 13 | 44 | 
 | 2023-01-05 | 13 | 45 | 
-| 2023-01-04 | 13 | 45 | 
 

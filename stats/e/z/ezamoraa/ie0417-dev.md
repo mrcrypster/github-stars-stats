@@ -1,6 +1,6 @@
 # ezamoraa/ie0417-dev - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | - | 14 | 
 | 2023-02-02 | - | 14 | 
 | 2023-02-01 | - | 14 | 
 | 2023-01-31 | - | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | - | 14 | 
 | 2023-01-06 | - | 14 | 
 | 2023-01-05 | - | 15 | 
-| 2023-01-04 | - | 15 | 
 

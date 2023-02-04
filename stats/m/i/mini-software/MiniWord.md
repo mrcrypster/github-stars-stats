@@ -1,10 +1,10 @@
 # mini-software/MiniWord - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 25
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/mini-software/MiniWord)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 272 | 25 | 
 | 2023-02-02 | 271 | 25 | 
 | 2023-02-01 | 271 | 25 | 
 | 2023-01-30 | 271 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 262 | 23 | 
 | 2023-01-06 | 262 | 23 | 
 | 2023-01-05 | 261 | 23 | 
-| 2023-01-04 | 260 | 23 | 
 

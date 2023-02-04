@@ -1,10 +1,10 @@
 # get-iplayer/get_iplayer - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 192
 
-★ Stars: 1790
+★ Stars: 1791
 
 [Open repository](https://github.com/get-iplayer/get_iplayer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1791 | 192 | 
 | 2023-02-02 | 1790 | 192 | 
 | 2023-02-01 | 1789 | 192 | 
 | 2023-01-31 | 1790 | 192 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1765 | 190 | 
 | 2023-01-06 | 1763 | 190 | 
 | 2023-01-05 | 1762 | 190 | 
-| 2023-01-04 | 1761 | 190 | 
 

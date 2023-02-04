@@ -1,8 +1,8 @@
 # OpenSourceAP/CrossSection - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 170
+☋ Forks: 171
 
 ★ Stars: 428
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 428 | 171 | 
 | 2023-02-02 | 428 | 170 | 
 | 2023-02-01 | 428 | 170 | 
 | 2023-01-31 | 428 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 421 | 169 | 
 | 2023-01-06 | 421 | 169 | 
 | 2023-01-05 | 420 | 169 | 
-| 2023-01-04 | 420 | 169 | 
 

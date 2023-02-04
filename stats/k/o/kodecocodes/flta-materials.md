@@ -1,10 +1,10 @@
 # kodecocodes/flta-materials - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 1226
+☋ Forks: 1227
 
-★ Stars: 2313
+★ Stars: 2314
 
 [Open repository](https://github.com/kodecocodes/flta-materials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2314 | 1227 | 
 | 2023-02-02 | 2313 | 1226 | 
 | 2023-02-01 | 2313 | 1228 | 
 | 2023-01-31 | 2311 | 1228 | 

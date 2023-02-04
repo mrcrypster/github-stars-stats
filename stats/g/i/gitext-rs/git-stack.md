@@ -1,6 +1,6 @@
 # gitext-rs/git-stack - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 350 | 11 | 
 | 2023-02-02 | 350 | 11 | 
 | 2023-02-01 | 350 | 11 | 
 | 2023-01-31 | 349 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 334 | 11 | 
 | 2023-01-06 | 334 | 11 | 
 | 2023-01-05 | 333 | 11 | 
-| 2023-01-04 | 333 | 11 | 
 

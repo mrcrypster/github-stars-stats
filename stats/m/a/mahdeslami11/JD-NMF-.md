@@ -1,10 +1,10 @@
 # mahdeslami11/JD-NMF- - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/mahdeslami11/JD-NMF-)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 29 | - | 
 | 2023-02-02 | 30 | - | 
 | 2023-01-31 | 30 | - | 
 | 2023-01-30 | 30 | - | 

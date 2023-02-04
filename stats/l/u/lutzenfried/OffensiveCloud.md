@@ -1,6 +1,6 @@
 # lutzenfried/OffensiveCloud - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 157 | 22 | 
 | 2023-02-02 | 157 | 22 | 
 | 2023-02-01 | 157 | 22 | 
 | 2023-01-31 | 158 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 149 | 21 | 
 | 2023-01-06 | 149 | 21 | 
 | 2023-01-05 | 148 | 21 | 
-| 2023-01-04 | 148 | 21 | 
 

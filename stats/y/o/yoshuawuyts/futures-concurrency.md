@@ -1,10 +1,10 @@
 # yoshuawuyts/futures-concurrency - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 17
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/yoshuawuyts/futures-concurrency)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 172 | 17 | 
 | 2023-02-02 | 171 | 17 | 
 | 2023-02-01 | 171 | 17 | 
 | 2023-01-31 | 171 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 171 | 17 | 
 | 2023-01-07 | 171 | 17 | 
 | 2023-01-06 | 171 | 17 | 
-| 2023-01-05 | 171 | 17 | 
 

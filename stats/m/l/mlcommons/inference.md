@@ -1,8 +1,8 @@
 # mlcommons/inference - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 400
+☋ Forks: 401
 
 ★ Stars: 792
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 792 | 401 | 
 | 2023-02-02 | 792 | 400 | 
 | 2023-02-01 | 790 | 400 | 
 | 2023-01-31 | 791 | 400 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 788 | 401 | 
 | 2023-01-06 | 786 | 401 | 
 | 2023-01-05 | 786 | 401 | 
-| 2023-01-04 | 786 | 401 | 
 

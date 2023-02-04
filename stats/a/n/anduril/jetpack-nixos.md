@@ -1,6 +1,6 @@
 # anduril/jetpack-nixos - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 36 | 13 | 
 | 2023-02-02 | 36 | 13 | 
 | 2023-02-01 | 36 | 13 | 
 | 2023-01-31 | 37 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 31 | 9 | 
 | 2023-01-06 | 31 | 9 | 
 | 2023-01-05 | 31 | 8 | 
-| 2023-01-04 | 31 | 8 | 
 

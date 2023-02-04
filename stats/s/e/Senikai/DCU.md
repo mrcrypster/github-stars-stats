@@ -1,6 +1,6 @@
 # Senikai/DCU - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 27 | 3 | 
 | 2023-02-02 | 27 | 3 | 
 | 2023-02-01 | 27 | 3 | 
 | 2023-01-31 | 27 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 24 | 2 | 
 | 2023-01-06 | 24 | 2 | 
 | 2023-01-05 | 24 | 2 | 
-| 2023-01-04 | 24 | 2 | 
 

@@ -1,6 +1,6 @@
 # code-423n4/2023-01-astaria - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 11 | 12 | 
 | 2023-02-02 | 11 | 12 | 
 | 2023-02-01 | 11 | 12 | 
 | 2023-01-31 | 11 | 12 | 

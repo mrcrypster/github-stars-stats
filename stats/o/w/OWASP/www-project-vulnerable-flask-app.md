@@ -1,10 +1,10 @@
 # OWASP/www-project-vulnerable-flask-app - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 23
 
 [Open repository](https://github.com/OWASP/www-project-vulnerable-flask-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 23 | 3 | 
 | 2023-02-02 | 34 | 3 | 
 | 2023-02-01 | 34 | 3 | 
 | 2023-01-31 | 35 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 52 | 3 | 
 | 2023-01-06 | 52 | 3 | 
 | 2023-01-05 | 52 | 3 | 
-| 2023-01-04 | 52 | 3 | 
 

@@ -1,10 +1,10 @@
 # Dimsmary/Dactyl-HelloWord - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/Dimsmary/Dactyl-HelloWord)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 32 | 4 | 
 | 2023-02-02 | 31 | 4 | 
 | 2023-02-01 | 30 | 4 | 
 | 2023-01-31 | 30 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 29 | 4 | 
 | 2023-01-06 | 29 | 4 | 
 | 2023-01-05 | 29 | 4 | 
-| 2023-01-04 | 29 | 4 | 
 

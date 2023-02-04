@@ -1,6 +1,6 @@
 # cami-la/sacola-api_IFOOD_DEV_WEEK - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 153 | 30 | 
 | 2023-02-03 | 153 | 30 | 
 | 2023-02-01 | 153 | 30 | 
 | 2023-01-31 | 153 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 152 | 29 | 
 | 2023-01-06 | 152 | 29 | 
 | 2023-01-05 | 152 | 29 | 
-| 2023-01-04 | 152 | 29 | 
 

@@ -1,6 +1,6 @@
 # AyselAydin/Python-MachineLearning-DeepLearning-Resources - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 90 | 1 | 
 | 2023-02-02 | 90 | 1 | 
 | 2023-02-01 | 90 | 1 | 
 | 2023-01-31 | 89 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 79 | 1 | 
 | 2023-01-06 | 79 | 1 | 
 | 2023-01-05 | 79 | 1 | 
-| 2023-01-04 | 79 | 1 | 
 

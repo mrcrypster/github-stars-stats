@@ -1,10 +1,10 @@
 # fivethirtyeight/guns-data - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 275
 
-★ Stars: 298
+★ Stars: 299
 
 [Open repository](https://github.com/fivethirtyeight/guns-data)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 299 | 275 | 
 | 2023-02-02 | 298 | 275 | 
 | 2023-02-01 | 298 | 275 | 
 | 2023-01-31 | 298 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 297 | 275 | 
 | 2023-01-06 | 297 | 275 | 
 | 2023-01-05 | 297 | 276 | 
-| 2023-01-04 | 297 | 276 | 
 

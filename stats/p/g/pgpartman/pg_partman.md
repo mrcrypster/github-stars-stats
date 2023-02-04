@@ -1,10 +1,10 @@
 # pgpartman/pg_partman - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 254
 
-★ Stars: 1480
+★ Stars: 1481
 
 [Open repository](https://github.com/pgpartman/pg_partman)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1481 | 254 | 
 | 2023-02-02 | 1480 | 254 | 
 | 2023-02-01 | 1479 | 254 | 
 | 2023-01-31 | 1479 | 254 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1461 | 253 | 
 | 2023-01-06 | 1461 | 253 | 
 | 2023-01-05 | 1461 | 252 | 
-| 2023-01-04 | 1459 | 252 | 
 

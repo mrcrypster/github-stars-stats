@@ -1,10 +1,10 @@
 # nicolaskruchten/pivottable - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1041
 
-★ Stars: 4042
+★ Stars: 4041
 
 [Open repository](https://github.com/nicolaskruchten/pivottable)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 4041 | 1041 | 
 | 2023-02-02 | 4042 | 1041 | 
 | 2023-02-01 | 4042 | 1041 | 
 | 2023-01-31 | 4041 | 1041 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 4011 | 1036 | 
 | 2023-01-06 | 4011 | 1036 | 
 | 2023-01-05 | 4011 | 1036 | 
-| 2023-01-04 | 4010 | 1036 | 
 

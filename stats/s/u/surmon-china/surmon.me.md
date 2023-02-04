@@ -1,10 +1,10 @@
 # surmon-china/surmon.me - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 591
+☋ Forks: 590
 
-★ Stars: 1959
+★ Stars: 1960
 
 [Open repository](https://github.com/surmon-china/surmon.me)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1960 | 590 | 
 | 2023-02-02 | 1959 | 591 | 
 | 2023-02-01 | 1960 | 591 | 
 | 2023-01-31 | 1960 | 591 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1957 | 591 | 
 | 2023-01-06 | 1956 | 591 | 
 | 2023-01-05 | 1955 | 591 | 
-| 2023-01-04 | 1955 | 590 | 
 

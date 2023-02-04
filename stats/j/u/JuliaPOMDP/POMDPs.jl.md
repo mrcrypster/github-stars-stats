@@ -1,6 +1,6 @@
 # JuliaPOMDP/POMDPs.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 557 | 87 | 
 | 2023-02-02 | 557 | 87 | 
 | 2023-01-31 | 555 | 87 | 
 | 2023-01-30 | 554 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 548 | 85 | 
 | 2023-01-06 | 548 | 85 | 
 | 2023-01-05 | 548 | 85 | 
-| 2023-01-04 | 548 | 85 | 
 

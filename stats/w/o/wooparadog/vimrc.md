@@ -1,6 +1,6 @@
 # wooparadog/vimrc - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 4 | 3 | 
 | 2023-02-02 | 4 | 3 | 
 | 2023-02-01 | 4 | 3 | 
 | 2023-01-31 | 4 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 3 | 3 | 
 | 2023-01-07 | 3 | 3 | 
 | 2023-01-06 | 3 | 3 | 
-| 2023-01-05 | 3 | 3 | 
 

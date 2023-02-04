@@ -1,10 +1,10 @@
 # java-decompiler/jd-gui - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 2194
+☋ Forks: 2195
 
-★ Stars: 12106
+★ Stars: 12109
 
 [Open repository](https://github.com/java-decompiler/jd-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 12109 | 2195 | 
 | 2023-02-02 | 12106 | 2194 | 
 | 2023-02-01 | 12098 | 2193 | 
 | 2023-01-31 | 12095 | 2192 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 12035 | 2186 | 
 | 2023-01-06 | 12031 | 2186 | 
 | 2023-01-05 | 12024 | 2182 | 
-| 2023-01-04 | 12014 | 2180 | 
 

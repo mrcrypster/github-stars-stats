@@ -1,10 +1,10 @@
 # Chuanyok/Variable-Sampling-Region-RRT - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 25
 
 [Open repository](https://github.com/Chuanyok/Variable-Sampling-Region-RRT)
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 25 | 3 | 
+| 2023-02-03 | 25 | 3 | 
 | 2023-02-02 | 21 | 2 | 
 

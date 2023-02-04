@@ -1,6 +1,6 @@
 # composer-unused/composer-unused - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1277 | 50 | 
 | 2023-02-02 | 1277 | 50 | 
 | 2023-02-01 | 1277 | 50 | 
 | 2023-01-31 | 1275 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 1268 | 49 | 
 | 2023-01-07 | 1267 | 49 | 
 | 2023-01-06 | 1265 | 49 | 
-| 2023-01-05 | 1264 | 49 | 
 

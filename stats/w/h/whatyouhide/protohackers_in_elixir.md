@@ -1,10 +1,10 @@
 # whatyouhide/protohackers_in_elixir - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/whatyouhide/protohackers_in_elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 26 | - | 
 | 2023-02-02 | 24 | - | 
 | 2023-02-01 | 24 | - | 
 | 2023-01-31 | 24 | - | 

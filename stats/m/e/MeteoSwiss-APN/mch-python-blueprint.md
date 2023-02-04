@@ -1,6 +1,6 @@
 # MeteoSwiss-APN/mch-python-blueprint - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5 | 4 | 
 | 2023-02-02 | 5 | 4 | 
 | 2023-02-01 | 5 | 4 | 
 | 2023-01-31 | 5 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 4 | 3 | 
 | 2023-01-06 | 4 | 3 | 
 | 2023-01-05 | 4 | 3 | 
-| 2023-01-04 | 4 | 3 | 
 

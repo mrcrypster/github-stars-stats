@@ -1,10 +1,10 @@
 # charlotte-ruby/impressionist - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 314
 
-★ Stars: 1496
+★ Stars: 1495
 
 [Open repository](https://github.com/charlotte-ruby/impressionist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1495 | 314 | 
 | 2023-02-02 | 1496 | 314 | 
 | 2023-02-01 | 1496 | 314 | 
 | 2023-01-31 | 1496 | 314 | 

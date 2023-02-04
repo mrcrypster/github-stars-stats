@@ -1,6 +1,6 @@
 # AvicennaJr/Nuru - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 130 | 13 | 
 | 2023-02-02 | 130 | 13 | 
 | 2023-02-01 | 130 | 13 | 
 | 2023-01-31 | 128 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 126 | 9 | 
 | 2023-01-07 | 126 | 9 | 
 | 2023-01-05 | 126 | 9 | 
-| 2023-01-04 | 126 | 9 | 
 

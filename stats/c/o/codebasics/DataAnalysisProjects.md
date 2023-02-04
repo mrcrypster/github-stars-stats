@@ -1,10 +1,10 @@
 # codebasics/DataAnalysisProjects - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 672
+☋ Forks: 674
 
-★ Stars: 285
+★ Stars: 287
 
 [Open repository](https://github.com/codebasics/DataAnalysisProjects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 287 | 674 | 
 | 2023-02-02 | 285 | 672 | 
 | 2023-02-01 | 284 | 673 | 
 | 2023-01-31 | 284 | 673 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 03
 
-☋ Forks: 2156
+☋ Forks: 2160
 
-★ Stars: 18868
+★ Stars: 18927
 
 [Open repository](https://github.com/GitHubDaily/GitHubDaily)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-03 | 18868 | 2156 | 
+| 2023-02-03 | 18927 | 2160 | 
 | 2023-02-02 | 18865 | 2156 | 
 | 2023-02-01 | 18732 | 2147 | 
 | 2023-01-31 | 18649 | 2141 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 18156 | 2088 | 
 | 2023-01-06 | 18145 | 2085 | 
 | 2023-01-05 | 18126 | 2080 | 
-| 2023-01-04 | 18111 | 2079 | 
 

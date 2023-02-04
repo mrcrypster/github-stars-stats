@@ -1,8 +1,8 @@
 # terraform-google-modules/terraform-google-service-accounts - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 80 | 83 | 
 | 2023-02-02 | 80 | 82 | 
 | 2023-02-01 | 80 | 82 | 
 | 2023-01-31 | 79 | 83 | 

@@ -1,6 +1,6 @@
 # WeblateOrg/helm - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 22 | 37 | 
 | 2023-02-02 | 22 | 37 | 
 | 2023-02-01 | 22 | 37 | 
 | 2023-01-31 | 22 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 22 | 36 | 
 | 2023-01-06 | 22 | 36 | 
 | 2023-01-05 | 22 | 36 | 
-| 2023-01-04 | 22 | 36 | 
 

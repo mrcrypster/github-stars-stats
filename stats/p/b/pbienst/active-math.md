@@ -1,10 +1,10 @@
 # pbienst/active-math - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/pbienst/active-math)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 29 | 1 | 
 | 2023-02-02 | 28 | 1 | 
 | 2023-02-01 | 28 | 1 | 
 | 2023-01-31 | 27 | 1 | 

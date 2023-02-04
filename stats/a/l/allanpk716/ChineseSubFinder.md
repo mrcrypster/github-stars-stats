@@ -1,10 +1,10 @@
 # allanpk716/ChineseSubFinder - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 173
 
-★ Stars: 2092
+★ Stars: 2098
 
 [Open repository](https://github.com/allanpk716/ChineseSubFinder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2098 | 173 | 
 | 2023-02-02 | 2092 | 173 | 
 | 2023-02-01 | 2089 | 173 | 
 | 2023-01-31 | 2084 | 172 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 2004 | 169 | 
 | 2023-01-07 | 2001 | 169 | 
 | 2023-01-06 | 1992 | 169 | 
-| 2023-01-04 | 1991 | 167 | 
 

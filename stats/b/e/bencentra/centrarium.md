@@ -1,6 +1,6 @@
 # bencentra/centrarium - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 601
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 381 | 601 | 
 | 2023-02-02 | 381 | 601 | 
 | 2023-02-01 | 381 | 601 | 
 | 2023-01-31 | 380 | 602 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 376 | 596 | 
 | 2023-01-07 | 376 | 596 | 
 | 2023-01-06 | 376 | 595 | 
-| 2023-01-05 | 376 | 593 | 
 

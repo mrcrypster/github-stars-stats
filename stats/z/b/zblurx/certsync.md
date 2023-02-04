@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 03
 
-☋ Forks: 31
+☋ Forks: 34
 
-★ Stars: 247
+★ Stars: 291
 
 [Open repository](https://github.com/zblurx/certsync)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-03 | 247 | 31 | 
+| 2023-02-03 | 291 | 34 | 
 | 2023-02-02 | 238 | 31 | 
 

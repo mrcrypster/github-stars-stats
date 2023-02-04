@@ -1,8 +1,8 @@
 # PatrickAlphaC/simple-storage-fcc - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 64 | 67 | 
 | 2023-02-02 | 64 | 66 | 
 | 2023-02-01 | 64 | 66 | 
 | 2023-01-31 | 64 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 61 | 67 | 
 | 2023-01-06 | 61 | 67 | 
 | 2023-01-05 | 61 | 68 | 
-| 2023-01-04 | 61 | 68 | 
 

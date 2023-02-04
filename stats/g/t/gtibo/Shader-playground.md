@@ -1,6 +1,6 @@
 # gtibo/Shader-playground - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 243 | 13 | 
 | 2023-02-02 | 243 | 13 | 
 | 2023-02-01 | 243 | 13 | 
 | 2023-01-31 | 242 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 237 | 13 | 
 | 2023-01-06 | 237 | 13 | 
 | 2023-01-05 | 237 | 13 | 
-| 2023-01-04 | 237 | 13 | 
 

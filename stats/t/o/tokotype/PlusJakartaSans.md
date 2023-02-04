@@ -1,10 +1,10 @@
 # tokotype/PlusJakartaSans - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 38
 
-★ Stars: 693
+★ Stars: 694
 
 [Open repository](https://github.com/tokotype/PlusJakartaSans)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 694 | 38 | 
 | 2023-02-02 | 693 | 38 | 
 | 2023-02-01 | 693 | 38 | 
 | 2023-01-30 | 693 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 678 | 38 | 
 | 2023-01-07 | 678 | 38 | 
 | 2023-01-06 | 678 | 38 | 
-| 2023-01-04 | 678 | 38 | 
 

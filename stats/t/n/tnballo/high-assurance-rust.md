@@ -1,6 +1,6 @@
 # tnballo/high-assurance-rust - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1103 | 24 | 
 | 2023-02-02 | 1103 | 24 | 
 | 2023-02-01 | 1103 | 24 | 
 | 2023-01-31 | 1102 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1082 | 24 | 
 | 2023-01-06 | 1082 | 24 | 
 | 2023-01-05 | 1080 | 24 | 
-| 2023-01-04 | 1080 | 24 | 
 

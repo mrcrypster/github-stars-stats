@@ -1,10 +1,10 @@
 # answerdev/answer - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 311
 
-★ Stars: 6085
+★ Stars: 6092
 
 [Open repository](https://github.com/answerdev/answer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 6092 | 311 | 
 | 2023-02-02 | 6085 | 311 | 
 | 2023-02-01 | 6074 | 310 | 
 | 2023-01-31 | 6052 | 308 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 5704 | 285 | 
 | 2023-01-06 | 5682 | 285 | 
 | 2023-01-05 | 5655 | 282 | 
-| 2023-01-04 | 5613 | 279 | 
 

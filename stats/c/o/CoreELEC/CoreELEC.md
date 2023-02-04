@@ -1,8 +1,8 @@
 # CoreELEC/CoreELEC - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 729
+☋ Forks: 730
 
 ★ Stars: 1063
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1063 | 730 | 
 | 2023-02-02 | 1063 | 729 | 
 | 2023-02-01 | 1063 | 729 | 
 | 2023-01-31 | 1062 | 729 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1046 | 715 | 
 | 2023-01-06 | 1045 | 715 | 
 | 2023-01-05 | 1045 | 714 | 
-| 2023-01-04 | 1043 | 713 | 
 

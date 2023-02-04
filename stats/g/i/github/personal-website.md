@@ -1,10 +1,10 @@
 # github/personal-website - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 6742
+☋ Forks: 6740
 
-★ Stars: 7159
+★ Stars: 7160
 
 [Open repository](https://github.com/github/personal-website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 7160 | 6740 | 
 | 2023-02-02 | 7159 | 6742 | 
 | 2023-02-01 | 7160 | 6743 | 
 | 2023-01-31 | 7161 | 6744 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 7149 | 6748 | 
 | 2023-01-06 | 7150 | 6745 | 
 | 2023-01-05 | 7149 | 6746 | 
-| 2023-01-04 | 7146 | 6749 | 
 

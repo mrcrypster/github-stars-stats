@@ -1,10 +1,10 @@
 # Esonhugh/sshd_backdoor - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 233
+★ Stars: 237
 
 [Open repository](https://github.com/Esonhugh/sshd_backdoor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 237 | 26 | 
 | 2023-02-02 | 233 | 24 | 
 | 2023-02-01 | 231 | 24 | 
 | 2023-01-31 | 214 | 23 | 

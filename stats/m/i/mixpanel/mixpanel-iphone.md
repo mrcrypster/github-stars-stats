@@ -1,10 +1,10 @@
 # mixpanel/mixpanel-iphone - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 559
+☋ Forks: 558
 
-★ Stars: 995
+★ Stars: 996
 
 [Open repository](https://github.com/mixpanel/mixpanel-iphone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 996 | 558 | 
 | 2023-02-03 | 995 | 559 | 
 | 2023-02-01 | 995 | 559 | 
 | 2023-01-31 | 995 | 559 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 995 | 556 | 
 | 2023-01-06 | 995 | 556 | 
 | 2023-01-05 | 995 | 556 | 
-| 2023-01-04 | 995 | 556 | 
 

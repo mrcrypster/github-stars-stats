@@ -1,6 +1,6 @@
 # Hapenia-Lans/gdextension-nim - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 35 | 2 | 
 | 2023-02-02 | 35 | 2 | 
 | 2023-02-01 | 35 | 2 | 
 | 2023-01-31 | 35 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 31 | 2 | 
 | 2023-01-07 | 31 | 2 | 
 | 2023-01-05 | 31 | 2 | 
-| 2023-01-04 | 31 | 2 | 
 

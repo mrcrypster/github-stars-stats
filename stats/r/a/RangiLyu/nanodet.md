@@ -1,10 +1,10 @@
 # RangiLyu/nanodet - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 938
+☋ Forks: 940
 
-★ Stars: 4875
+★ Stars: 4879
 
 [Open repository](https://github.com/RangiLyu/nanodet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 4879 | 940 | 
 | 2023-02-02 | 4875 | 938 | 
 | 2023-02-01 | 4870 | 938 | 
 | 2023-01-31 | 4869 | 937 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 4829 | 932 | 
 | 2023-01-06 | 4824 | 931 | 
 | 2023-01-05 | 4824 | 930 | 
-| 2023-01-04 | 4822 | 929 | 
 

@@ -1,10 +1,10 @@
 # YichengDWu/Sophon.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/YichengDWu/Sophon.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 31 | 2 | 
 | 2023-02-02 | 30 | 2 | 
 | 2023-02-01 | 30 | 2 | 
 | 2023-01-31 | 30 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 30 | 2 | 
 | 2023-01-06 | 30 | 2 | 
 | 2023-01-05 | 30 | 2 | 
-| 2023-01-04 | 30 | 2 | 
 

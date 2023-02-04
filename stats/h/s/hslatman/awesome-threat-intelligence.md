@@ -1,10 +1,10 @@
 # hslatman/awesome-threat-intelligence - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 1242
+☋ Forks: 1245
 
-★ Stars: 5745
+★ Stars: 5748
 
 [Open repository](https://github.com/hslatman/awesome-threat-intelligence)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 5748 | 1245 | 
 | 2023-02-02 | 5745 | 1242 | 
 | 2023-02-01 | 5741 | 1242 | 
 | 2023-01-31 | 5732 | 1239 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 5671 | 1226 | 
 | 2023-01-06 | 5670 | 1226 | 
 | 2023-01-05 | 5665 | 1227 | 
-| 2023-01-04 | 5663 | 1228 | 
 

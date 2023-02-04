@@ -1,6 +1,6 @@
 # Sirox228/Impostor-V4-Fanmade - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1 | 7 | 
 | 2023-02-03 | 1 | 7 | 
 | 2023-02-01 | 1 | 7 | 
 | 2023-01-31 | 1 | 7 | 

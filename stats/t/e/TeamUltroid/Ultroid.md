@@ -1,8 +1,8 @@
 # TeamUltroid/Ultroid - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 8311
+☋ Forks: 8313
 
 ★ Stars: 2382
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2382 | 8313 | 
 | 2023-02-02 | 2382 | 8311 | 
 | 2023-02-01 | 2381 | 8309 | 
 | 2023-01-31 | 2381 | 8306 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2355 | 8186 | 
 | 2023-01-06 | 2354 | 8182 | 
 | 2023-01-05 | 2354 | 8178 | 
-| 2023-01-04 | 2355 | 8176 | 
 

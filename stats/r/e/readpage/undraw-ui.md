@@ -1,10 +1,10 @@
 # readpage/undraw-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/readpage/undraw-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 256 | 7 | 
 | 2023-02-02 | 255 | 7 | 
 | 2023-02-01 | 255 | 7 | 
 | 2023-01-31 | 255 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 230 | 6 | 
 | 2023-01-06 | 228 | 6 | 
 | 2023-01-05 | 227 | 6 | 
-| 2023-01-04 | 226 | 6 | 
 

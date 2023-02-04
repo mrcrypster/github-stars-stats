@@ -1,6 +1,6 @@
 # evilpenguin/SSLBypass - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 227 | 46 | 
 | 2023-02-02 | 227 | 46 | 
 | 2023-02-01 | 226 | 46 | 
 | 2023-01-31 | 226 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 224 | 46 | 
 | 2023-01-07 | 225 | 46 | 
 | 2023-01-06 | 225 | 46 | 
-| 2023-01-05 | 225 | 46 | 
 

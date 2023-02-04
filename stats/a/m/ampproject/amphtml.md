@@ -1,10 +1,10 @@
 # ampproject/amphtml - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 4040
 
-★ Stars: 14943
+★ Stars: 14944
 
 [Open repository](https://github.com/ampproject/amphtml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 14944 | 4040 | 
 | 2023-02-02 | 14943 | 4040 | 
 | 2023-02-01 | 14944 | 4039 | 
 | 2023-01-31 | 14945 | 4036 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 14938 | 4035 | 
 | 2023-01-06 | 14938 | 4035 | 
 | 2023-01-05 | 14935 | 4034 | 
-| 2023-01-04 | 14935 | 4033 | 
 

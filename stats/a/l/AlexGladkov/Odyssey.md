@@ -1,10 +1,10 @@
 # AlexGladkov/Odyssey - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/AlexGladkov/Odyssey)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 181 | 15 | 
 | 2023-02-02 | 180 | 15 | 
 | 2023-02-01 | 179 | 15 | 
 | 2023-01-31 | 180 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 168 | 12 | 
 | 2023-01-06 | 168 | 12 | 
 | 2023-01-05 | 167 | 12 | 
-| 2023-01-04 | 167 | 12 | 
 

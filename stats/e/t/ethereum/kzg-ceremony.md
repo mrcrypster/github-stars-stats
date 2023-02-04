@@ -1,10 +1,10 @@
 # ethereum/kzg-ceremony - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 157
+☋ Forks: 160
 
-★ Stars: 361
+★ Stars: 363
 
 [Open repository](https://github.com/ethereum/kzg-ceremony)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 363 | 160 | 
 | 2023-02-02 | 361 | 157 | 
 | 2023-02-01 | 359 | 157 | 
 | 2023-01-31 | 359 | 157 | 

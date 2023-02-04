@@ -1,6 +1,6 @@
 # DanLoboCastro/AnalyzeR - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 24 | 3 | 
 | 2023-02-02 | 24 | 3 | 
 | 2023-02-01 | 24 | 3 | 
 | 2023-01-31 | 24 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 22 | 3 | 
 | 2023-01-06 | 21 | 3 | 
 | 2023-01-05 | 20 | 3 | 
-| 2023-01-04 | 16 | 1 | 
 

@@ -1,10 +1,10 @@
 # 11ty/eleventy - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 425
 
-★ Stars: 13645
+★ Stars: 13653
 
 [Open repository](https://github.com/11ty/eleventy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 13653 | 425 | 
 | 2023-02-02 | 13645 | 425 | 
 | 2023-02-01 | 13644 | 426 | 
 | 2023-01-31 | 13637 | 426 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 13435 | 425 | 
 | 2023-01-06 | 13430 | 425 | 
 | 2023-01-05 | 13424 | 425 | 
-| 2023-01-04 | 13409 | 426 | 
 

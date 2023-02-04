@@ -1,6 +1,6 @@
 # lucperkins/colossus - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 985 | 63 | 
 | 2023-02-02 | 985 | 63 | 
 | 2023-02-01 | 985 | 63 | 
 | 2023-01-31 | 985 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 982 | 63 | 
 | 2023-01-06 | 982 | 63 | 
 | 2023-01-05 | 982 | 63 | 
-| 2023-01-04 | 982 | 63 | 
 

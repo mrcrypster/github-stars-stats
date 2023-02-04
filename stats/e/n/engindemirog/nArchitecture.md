@@ -1,8 +1,8 @@
 # engindemirog/nArchitecture - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 192
+☋ Forks: 191
 
 ★ Stars: 454
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 454 | 191 | 
 | 2023-02-02 | 454 | 192 | 
 | 2023-02-01 | 454 | 192 | 
 | 2023-01-31 | 454 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 449 | 195 | 
 | 2023-01-06 | 449 | 195 | 
 | 2023-01-05 | 449 | 196 | 
-| 2023-01-04 | 449 | 196 | 
 

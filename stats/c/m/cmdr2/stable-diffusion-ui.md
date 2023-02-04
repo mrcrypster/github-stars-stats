@@ -1,10 +1,10 @@
 # cmdr2/stable-diffusion-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 321
+☋ Forks: 323
 
-★ Stars: 3983
+★ Stars: 3995
 
 [Open repository](https://github.com/cmdr2/stable-diffusion-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3995 | 323 | 
 | 2023-02-02 | 3983 | 321 | 
 | 2023-02-01 | 3965 | 321 | 
 | 2023-01-31 | 3949 | 319 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3628 | 288 | 
 | 2023-01-06 | 3614 | 285 | 
 | 2023-01-05 | 3599 | 285 | 
-| 2023-01-04 | 3592 | 284 | 
 

@@ -1,6 +1,6 @@
 # facebook/ThreatExchange - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1009 | 275 | 
 | 2023-02-02 | 1009 | 275 | 
 | 2023-01-31 | 1009 | 275 | 
 | 2023-01-30 | 1009 | 276 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 1003 | 275 | 
 | 2023-01-06 | 1003 | 275 | 
 | 2023-01-05 | 1003 | 274 | 
-| 2023-01-04 | 1003 | 274 | 
 

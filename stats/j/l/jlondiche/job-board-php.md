@@ -1,10 +1,10 @@
 # jlondiche/job-board-php - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 44
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/jlondiche/job-board-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 366 | 44 | 
 | 2023-02-02 | 365 | 44 | 
 | 2023-02-01 | 365 | 44 | 
 | 2023-01-31 | 365 | 44 | 

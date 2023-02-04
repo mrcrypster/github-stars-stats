@@ -1,10 +1,10 @@
 # dandavison/delta - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 16296
+★ Stars: 16334
 
 [Open repository](https://github.com/dandavison/delta)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 16334 | 279 | 
 | 2023-02-02 | 16296 | 278 | 
 | 2023-02-01 | 16270 | 277 | 
 | 2023-01-31 | 16259 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 16065 | 274 | 
 | 2023-01-06 | 16056 | 274 | 
 | 2023-01-05 | 16041 | 274 | 
-| 2023-01-04 | 16029 | 274 | 
 

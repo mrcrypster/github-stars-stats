@@ -1,6 +1,6 @@
 # binary-com/translations-websockets-api - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2 | 31 | 
 | 2023-02-02 | 2 | 31 | 
 | 2023-02-01 | 2 | 31 | 
 | 2023-01-31 | 3 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3 | 30 | 
 | 2023-01-06 | 3 | 30 | 
 | 2023-01-05 | 3 | 30 | 
-| 2023-01-04 | 3 | 30 | 
 

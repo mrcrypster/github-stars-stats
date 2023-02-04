@@ -1,10 +1,10 @@
 # Querz/mcaselector - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 143
 
-★ Stars: 2115
+★ Stars: 2117
 
 [Open repository](https://github.com/Querz/mcaselector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2117 | 143 | 
 | 2023-02-02 | 2115 | 143 | 
 | 2023-02-01 | 2113 | 143 | 
 | 2023-01-30 | 2113 | 143 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2074 | 143 | 
 | 2023-01-06 | 2073 | 143 | 
 | 2023-01-05 | 2069 | 143 | 
-| 2023-01-04 | 2066 | 143 | 
 

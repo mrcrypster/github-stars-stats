@@ -1,10 +1,10 @@
 # asins/vim - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 44
 
-★ Stars: 87
+★ Stars: 86
 
 [Open repository](https://github.com/asins/vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 86 | 44 | 
 | 2023-02-02 | 87 | 44 | 
 | 2023-02-01 | 87 | 44 | 
 | 2023-01-31 | 87 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 87 | 44 | 
 | 2023-01-06 | 87 | 44 | 
 | 2023-01-05 | 87 | 44 | 
-| 2023-01-04 | 87 | 44 | 
 

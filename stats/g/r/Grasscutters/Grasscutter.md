@@ -1,10 +1,10 @@
 # Grasscutters/Grasscutter - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3960
 
-★ Stars: 12422
+★ Stars: 12430
 
 [Open repository](https://github.com/Grasscutters/Grasscutter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 12430 | 3960 | 
 | 2023-02-02 | 12422 | 3960 | 
 | 2023-02-01 | 12406 | 3956 | 
 | 2023-01-31 | 12401 | 3952 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 12166 | 3890 | 
 | 2023-01-06 | 12154 | 3891 | 
 | 2023-01-05 | 12143 | 3887 | 
-| 2023-01-04 | 12135 | 3886 | 
 

@@ -1,10 +1,10 @@
 # erlang/otp - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 2839
+☋ Forks: 2841
 
-★ Stars: 10255
+★ Stars: 10257
 
 [Open repository](https://github.com/erlang/otp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 10257 | 2841 | 
 | 2023-02-02 | 10255 | 2839 | 
 | 2023-02-01 | 10250 | 2838 | 
 | 2023-01-31 | 10250 | 2838 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 10199 | 2826 | 
 | 2023-01-06 | 10198 | 2826 | 
 | 2023-01-05 | 10199 | 2825 | 
-| 2023-01-04 | 10197 | 2825 | 
 

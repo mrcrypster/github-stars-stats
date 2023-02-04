@@ -1,6 +1,6 @@
 # jarrekk/Jalpc - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1097
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 965 | 1097 | 
 | 2023-02-02 | 965 | 1097 | 
 | 2023-02-01 | 965 | 1096 | 
 | 2023-01-31 | 965 | 1095 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 962 | 1095 | 
 | 2023-01-06 | 961 | 1095 | 
 | 2023-01-05 | 961 | 1094 | 
-| 2023-01-04 | 961 | 1096 | 
 

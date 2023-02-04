@@ -1,10 +1,10 @@
 # dotansimha/graphql-code-generator - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1170
 
-★ Stars: 9670
+★ Stars: 9672
 
 [Open repository](https://github.com/dotansimha/graphql-code-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 9672 | 1170 | 
 | 2023-02-02 | 9670 | 1170 | 
 | 2023-02-01 | 9669 | 1171 | 
 | 2023-01-31 | 9665 | 1170 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 9607 | 1153 | 
 | 2023-01-06 | 9603 | 1153 | 
 | 2023-01-05 | 9601 | 1152 | 
-| 2023-01-04 | 9599 | 1153 | 
 

@@ -1,6 +1,6 @@
 # GavinLonDigital/HuntTheAceJSGame - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 36 | 36 | 
 | 2023-02-02 | 36 | 36 | 
 | 2023-02-01 | 36 | 37 | 
 | 2023-01-30 | 35 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 29 | 33 | 
 | 2023-01-07 | 29 | 33 | 
 | 2023-01-06 | 29 | 33 | 
-| 2023-01-04 | 29 | 33 | 
 

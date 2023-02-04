@@ -1,6 +1,6 @@
 # terraform-module/terraform-helm-release - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 13 | 22 | 
 | 2023-02-02 | 13 | 22 | 
 | 2023-02-01 | 13 | 22 | 
 | 2023-01-31 | 13 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 13 | 21 | 
 | 2023-01-07 | 12 | 21 | 
 | 2023-01-06 | 12 | 21 | 
-| 2023-01-05 | 12 | 21 | 
 

@@ -1,6 +1,6 @@
 # osintbrazuca/osint-brazuca-regex - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 800 | 58 | 
 | 2023-02-02 | 800 | 58 | 
 | 2023-02-01 | 798 | 58 | 
 | 2023-01-31 | 796 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 778 | 57 | 
 | 2023-01-06 | 778 | 57 | 
 | 2023-01-05 | 777 | 57 | 
-| 2023-01-04 | 777 | 57 | 
 

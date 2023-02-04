@@ -1,6 +1,6 @@
 # nbuntsch/exercice-maquette-mobile-architecture - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | - | 37 | 
 | 2023-02-02 | - | 37 | 
 | 2023-01-31 | - | 37 | 
 | 2023-01-30 | - | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | - | 37 | 
 | 2023-01-07 | - | 37 | 
 | 2023-01-06 | - | 37 | 
-| 2023-01-05 | - | 37 | 
 

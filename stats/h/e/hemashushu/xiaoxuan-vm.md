@@ -1,6 +1,6 @@
 # hemashushu/xiaoxuan-vm - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 89 | 3 | 
 | 2023-02-02 | 89 | 3 | 
 | 2023-02-01 | 89 | 3 | 
 | 2023-01-31 | 89 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 88 | 3 | 
 | 2023-01-06 | 88 | 3 | 
 | 2023-01-05 | 88 | 3 | 
-| 2023-01-04 | 88 | 3 | 
 

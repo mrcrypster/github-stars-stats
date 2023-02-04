@@ -1,10 +1,10 @@
 # pivotal/paving - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 43
 
-★ Stars: 43
+★ Stars: 41
 
 [Open repository](https://github.com/pivotal/paving)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 41 | 43 | 
 | 2023-02-02 | 43 | 43 | 
 | 2023-02-01 | 43 | 43 | 
 | 2023-01-31 | 43 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 43 | 42 | 
 | 2023-01-06 | 43 | 42 | 
 | 2023-01-05 | 43 | 42 | 
-| 2023-01-04 | 43 | 42 | 
 

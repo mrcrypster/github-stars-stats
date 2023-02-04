@@ -1,10 +1,10 @@
 # facebookresearch/DensePose - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1263
 
-★ Stars: 6418
+★ Stars: 6420
 
 [Open repository](https://github.com/facebookresearch/DensePose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 6420 | 1263 | 
 | 2023-02-02 | 6418 | 1263 | 
 | 2023-01-31 | 6417 | 1263 | 
 | 2023-01-30 | 6415 | 1263 | 

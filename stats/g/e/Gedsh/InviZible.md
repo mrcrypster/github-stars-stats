@@ -1,10 +1,10 @@
 # Gedsh/InviZible - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 66
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/Gedsh/InviZible)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 778 | 66 | 
 | 2023-02-02 | 777 | 66 | 
 | 2023-02-01 | 776 | 66 | 
 | 2023-01-31 | 775 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 754 | 63 | 
 | 2023-01-06 | 753 | 63 | 
 | 2023-01-05 | 746 | 63 | 
-| 2023-01-04 | 743 | 63 | 
 

@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ssm-parameter-store - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 87 | 57 | 
 | 2023-02-02 | 87 | 57 | 
 | 2023-01-31 | 87 | 57 | 
 | 2023-01-30 | 87 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 87 | 56 | 
 | 2023-01-06 | 87 | 56 | 
 | 2023-01-05 | 87 | 56 | 
-| 2023-01-04 | 87 | 57 | 
 

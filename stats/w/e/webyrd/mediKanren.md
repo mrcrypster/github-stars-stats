@@ -1,6 +1,6 @@
 # webyrd/mediKanren - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 281 | 45 | 
 | 2023-02-03 | 281 | 45 | 
 | 2023-02-01 | 281 | 45 | 
 | 2023-01-31 | 281 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 280 | 45 | 
 | 2023-01-06 | 280 | 45 | 
 | 2023-01-05 | 280 | 45 | 
-| 2023-01-04 | 280 | 45 | 
 

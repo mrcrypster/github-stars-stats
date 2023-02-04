@@ -1,10 +1,10 @@
 # intel/terraform-intel-aws-postgresql - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 9
 
 [Open repository](https://github.com/intel/terraform-intel-aws-postgresql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 9 | - | 
 | 2023-02-02 | 7 | - | 
 | 2023-02-01 | 6 | - | 
 | 2023-01-31 | 6 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 6 | - | 
 | 2023-01-06 | 6 | - | 
 | 2023-01-05 | 6 | - | 
-| 2023-01-04 | 6 | - | 
 

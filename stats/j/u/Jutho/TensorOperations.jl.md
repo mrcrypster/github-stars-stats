@@ -1,10 +1,10 @@
 # Jutho/TensorOperations.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 46
 
-★ Stars: 317
+★ Stars: 318
 
 [Open repository](https://github.com/Jutho/TensorOperations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 318 | 46 | 
 | 2023-02-02 | 317 | 46 | 
 | 2023-02-01 | 317 | 46 | 
 | 2023-01-31 | 317 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 316 | 46 | 
 | 2023-01-06 | 316 | 46 | 
 | 2023-01-05 | 316 | 46 | 
-| 2023-01-04 | 316 | 46 | 
 

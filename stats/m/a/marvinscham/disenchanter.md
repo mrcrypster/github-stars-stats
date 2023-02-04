@@ -1,10 +1,10 @@
 # marvinscham/disenchanter - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/marvinscham/disenchanter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 58 | 5 | 
 | 2023-02-02 | 57 | 5 | 
 | 2023-02-01 | 56 | 5 | 
 | 2023-01-31 | 55 | 5 | 

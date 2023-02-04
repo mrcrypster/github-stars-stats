@@ -1,10 +1,10 @@
 # seglo/kafka-lag-exporter - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 163
 
-★ Stars: 549
+★ Stars: 551
 
 [Open repository](https://github.com/seglo/kafka-lag-exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 551 | 163 | 
 | 2023-02-02 | 549 | 163 | 
 | 2023-01-31 | 549 | 163 | 
 | 2023-01-30 | 549 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 545 | 163 | 
 | 2023-01-06 | 545 | 163 | 
 | 2023-01-05 | 544 | 164 | 
-| 2023-01-04 | 543 | 164 | 
 

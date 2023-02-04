@@ -1,10 +1,10 @@
 # A-poc/RedTeam-Tools - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 182
+☋ Forks: 213
 
-★ Stars: 1580
+★ Stars: 1760
 
 [Open repository](https://github.com/A-poc/RedTeam-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1760 | 213 | 
 | 2023-02-02 | 1580 | 182 | 
 | 2023-02-01 | 1483 | 168 | 
 | 2023-01-31 | 1482 | 168 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1269 | 126 | 
 | 2023-01-06 | 1238 | 121 | 
 | 2023-01-05 | 1190 | 113 | 
-| 2023-01-04 | 1173 | 111 | 
 

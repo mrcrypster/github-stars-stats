@@ -1,10 +1,10 @@
 # neurosnap/neovimcraft - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 23
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/neurosnap/neovimcraft)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 167 | 23 | 
 | 2023-02-02 | 166 | 23 | 
 | 2023-02-01 | 166 | 23 | 
 | 2023-01-31 | 165 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 158 | 22 | 
 | 2023-01-06 | 157 | 22 | 
 | 2023-01-05 | 157 | 22 | 
-| 2023-01-04 | 158 | 22 | 
 

@@ -1,10 +1,10 @@
 # FluxML/FluxTraining.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/FluxML/FluxTraining.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 90 | 18 | 
 | 2023-02-02 | 89 | 18 | 
 | 2023-02-01 | 89 | 18 | 
 | 2023-01-31 | 87 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 86 | 17 | 
 | 2023-01-06 | 86 | 17 | 
 | 2023-01-05 | 86 | 17 | 
-| 2023-01-04 | 86 | 17 | 
 

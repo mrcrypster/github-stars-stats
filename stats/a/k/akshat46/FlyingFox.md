@@ -1,6 +1,6 @@
 # akshat46/FlyingFox - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1399 | 82 | 
 | 2023-02-02 | 1399 | 82 | 
 | 2023-02-01 | 1397 | 82 | 
 | 2023-01-31 | 1397 | 82 | 

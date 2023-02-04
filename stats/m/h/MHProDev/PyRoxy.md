@@ -1,8 +1,8 @@
 # MHProDev/PyRoxy - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 46
+☋ Forks: 45
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 29 | 45 | 
 | 2023-02-02 | 29 | 46 | 
 | 2023-02-01 | 29 | 46 | 
 | 2023-01-31 | 29 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 29 | 47 | 
 | 2023-01-06 | 30 | 47 | 
 | 2023-01-05 | 30 | 47 | 
-| 2023-01-04 | 30 | 47 | 
 

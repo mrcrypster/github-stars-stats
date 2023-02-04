@@ -1,6 +1,6 @@
 # vinceliuice/Fluent-gtk-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 720 | 46 | 
 | 2023-02-02 | 720 | 46 | 
 | 2023-02-01 | 717 | 46 | 
 | 2023-01-31 | 716 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 703 | 45 | 
 | 2023-01-06 | 702 | 45 | 
 | 2023-01-05 | 703 | 45 | 
-| 2023-01-04 | 702 | 45 | 
 

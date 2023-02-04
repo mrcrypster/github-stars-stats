@@ -1,6 +1,6 @@
 # bnb-chain/BEPs - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 506 | 327 | 
 | 2023-02-02 | 506 | 327 | 
 | 2023-02-01 | 506 | 327 | 
 | 2023-01-31 | 505 | 327 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 485 | 321 | 
 | 2023-01-06 | 482 | 320 | 
 | 2023-01-05 | 482 | 320 | 
-| 2023-01-04 | 482 | 319 | 
 

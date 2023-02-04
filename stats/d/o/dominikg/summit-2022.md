@@ -1,6 +1,6 @@
 # dominikg/summit-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 16 | 3 | 
 | 2023-02-02 | 16 | 3 | 
 | 2023-02-01 | 16 | 3 | 
 | 2023-01-31 | 16 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 16 | 2 | 
 | 2023-01-07 | 16 | 2 | 
 | 2023-01-06 | 16 | 2 | 
-| 2023-01-05 | 16 | 2 | 
 

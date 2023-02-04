@@ -1,10 +1,10 @@
 # soyHenry/Python-Prep - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 3513
+☋ Forks: 3524
 
-★ Stars: 388
+★ Stars: 390
 
 [Open repository](https://github.com/soyHenry/Python-Prep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 390 | 3524 | 
 | 2023-02-02 | 388 | 3513 | 
 | 2023-02-01 | 386 | 3499 | 
 | 2023-01-31 | 380 | 3488 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 316 | 3114 | 
 | 2023-01-06 | 315 | 3098 | 
 | 2023-01-05 | 315 | 3076 | 
-| 2023-01-04 | 311 | 3055 | 
 

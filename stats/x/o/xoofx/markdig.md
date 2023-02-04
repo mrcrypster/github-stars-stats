@@ -1,10 +1,10 @@
 # xoofx/markdig - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 393
 
-★ Stars: 3388
+★ Stars: 3393
 
 [Open repository](https://github.com/xoofx/markdig)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3393 | 393 | 
 | 2023-02-02 | 3388 | 393 | 
 | 2023-02-01 | 3384 | 391 | 
 | 2023-01-31 | 3383 | 391 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3346 | 392 | 
 | 2023-01-06 | 3345 | 392 | 
 | 2023-01-05 | 3344 | 393 | 
-| 2023-01-04 | 3339 | 393 | 
 

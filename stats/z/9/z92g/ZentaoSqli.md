@@ -1,6 +1,6 @@
 # z92g/ZentaoSqli - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 70 | 20 | 
 | 2023-02-02 | 70 | 20 | 
 | 2023-02-01 | 70 | 20 | 
 | 2023-01-31 | 70 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 69 | 19 | 
 | 2023-01-06 | 68 | 19 | 
 | 2023-01-05 | 68 | 19 | 
-| 2023-01-04 | 68 | 19 | 
 

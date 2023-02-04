@@ -1,10 +1,10 @@
 # vaticle/bazel-distribution - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/vaticle/bazel-distribution)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 136 | 49 | 
 | 2023-02-02 | 135 | 48 | 
 | 2023-02-01 | 135 | 48 | 
 | 2023-01-31 | 135 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 132 | 47 | 
 | 2023-01-06 | 132 | 47 | 
 | 2023-01-05 | 132 | 47 | 
-| 2023-01-04 | 132 | 47 | 
 

@@ -1,6 +1,6 @@
 # 9bie/Slacker - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 79 | 3 | 
 | 2023-02-02 | 79 | 3 | 
 | 2023-02-01 | 79 | 3 | 
 | 2023-01-31 | 77 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 74 | 3 | 
 | 2023-01-06 | 74 | 3 | 
 | 2023-01-05 | 73 | 3 | 
-| 2023-01-04 | 72 | 3 | 
 

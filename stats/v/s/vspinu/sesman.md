@@ -1,6 +1,6 @@
 # vspinu/sesman - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 59 | 6 | 
 | 2023-02-02 | 59 | 6 | 
 | 2023-02-01 | 59 | 6 | 
 | 2023-01-31 | 59 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 59 | 6 | 
 | 2023-01-07 | 59 | 6 | 
 | 2023-01-06 | 59 | 6 | 
-| 2023-01-05 | 59 | 6 | 
 

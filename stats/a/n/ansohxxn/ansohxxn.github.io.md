@@ -1,8 +1,8 @@
 # ansohxxn/ansohxxn.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 119
+☋ Forks: 118
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 72 | 118 | 
 | 2023-02-02 | 72 | 119 | 
 | 2023-02-01 | 71 | 117 | 
 | 2023-01-31 | 70 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 67 | 107 | 
 | 2023-01-06 | 66 | 108 | 
 | 2023-01-05 | 66 | 105 | 
-| 2023-01-04 | 66 | 104 | 
 

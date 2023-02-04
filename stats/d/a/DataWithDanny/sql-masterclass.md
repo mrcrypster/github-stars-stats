@@ -1,10 +1,10 @@
 # DataWithDanny/sql-masterclass - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 415
+☋ Forks: 416
 
-★ Stars: 1926
+★ Stars: 1925
 
 [Open repository](https://github.com/DataWithDanny/sql-masterclass)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1925 | 416 | 
 | 2023-02-02 | 1926 | 415 | 
 | 2023-02-01 | 1925 | 414 | 
 | 2023-01-31 | 1924 | 413 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 1911 | 411 | 
 | 2023-01-07 | 1909 | 411 | 
 | 2023-01-06 | 1909 | 411 | 
-| 2023-01-05 | 1908 | 409 | 
 

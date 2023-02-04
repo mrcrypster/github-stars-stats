@@ -1,6 +1,6 @@
 # DanijelkMSFT/ThisandThat - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 12 | 19 | 
 | 2023-02-02 | 12 | 19 | 
 | 2023-02-01 | 12 | 18 | 
 | 2023-01-31 | 12 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 10 | 14 | 
 | 2023-01-06 | 10 | 14 | 
 | 2023-01-05 | 10 | 13 | 
-| 2023-01-04 | 10 | 13 | 
 

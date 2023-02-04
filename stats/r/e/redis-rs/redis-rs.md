@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 03
 
 ☋ Forks: 431
 
-★ Stars: 2854
+★ Stars: 2859
 
 [Open repository](https://github.com/redis-rs/redis-rs)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-03 | 2854 | 431 | 
+| 2023-02-03 | 2859 | 431 | 
 | 2023-02-02 | 2850 | 429 | 
 | 2023-01-31 | 2847 | 428 | 
 | 2023-01-30 | 2845 | 426 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2812 | 423 | 
 | 2023-01-07 | 2810 | 423 | 
 | 2023-01-05 | 2809 | 423 | 
-| 2023-01-04 | 2807 | 423 | 
 

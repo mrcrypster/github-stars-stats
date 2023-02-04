@@ -1,6 +1,6 @@
 # Bryan-Herrera-DEV/status-for-my-web-pages - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 6 | - | 
 | 2023-02-02 | 6 | - | 
 | 2023-02-01 | 6 | - | 
 | 2023-01-31 | 6 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 5 | - | 
 | 2023-01-06 | 5 | - | 
 | 2023-01-05 | 5 | - | 
-| 2023-01-04 | 5 | - | 
 

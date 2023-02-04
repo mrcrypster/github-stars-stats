@@ -1,10 +1,10 @@
 # opa334/u0Launcher - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/opa334/u0Launcher)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 56 | 1 | 
 | 2023-02-02 | 55 | 1 | 
 | 2023-02-01 | 55 | 1 | 
 | 2023-01-31 | 55 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 54 | 1 | 
 | 2023-01-06 | 54 | 1 | 
 | 2023-01-05 | 54 | 1 | 
-| 2023-01-04 | 55 | 1 | 
 

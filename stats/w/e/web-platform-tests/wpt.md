@@ -1,10 +1,10 @@
 # web-platform-tests/wpt - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 2891
+☋ Forks: 2898
 
-★ Stars: 4187
+★ Stars: 4191
 
 [Open repository](https://github.com/web-platform-tests/wpt)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 4191 | 2898 | 
+| 2023-02-03 | 4190 | 2897 | 
 | 2023-02-02 | 4187 | 2891 | 
 | 2023-02-01 | 4187 | 2890 | 
 | 2023-01-30 | 4189 | 2887 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 4172 | 2871 | 
 | 2023-01-06 | 4168 | 2872 | 
 | 2023-01-05 | 4165 | 2872 | 
-| 2023-01-04 | 4164 | 2869 | 
 

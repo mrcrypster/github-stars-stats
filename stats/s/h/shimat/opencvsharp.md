@@ -1,6 +1,6 @@
 # shimat/opencvsharp - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 980
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 4327 | 980 | 
 | 2023-02-02 | 4327 | 980 | 
 | 2023-02-01 | 4326 | 979 | 
 | 2023-01-31 | 4325 | 979 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 4290 | 977 | 
 | 2023-01-06 | 4289 | 977 | 
 | 2023-01-05 | 4288 | 976 | 
-| 2023-01-04 | 4287 | 976 | 
 

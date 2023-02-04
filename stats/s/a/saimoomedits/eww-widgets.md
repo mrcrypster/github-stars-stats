@@ -1,10 +1,10 @@
 # saimoomedits/eww-widgets - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 17
 
-★ Stars: 202
+★ Stars: 201
 
 [Open repository](https://github.com/saimoomedits/eww-widgets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 201 | 17 | 
 | 2023-02-02 | 202 | 17 | 
 | 2023-02-01 | 202 | 17 | 
 | 2023-01-31 | 202 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 183 | 14 | 
 | 2023-01-06 | 182 | 14 | 
 | 2023-01-05 | 181 | 14 | 
-| 2023-01-04 | 180 | 14 | 
 

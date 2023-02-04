@@ -1,10 +1,10 @@
 # HBUTHUANGPX/Hbut_LC_sentry - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 18
 
 [Open repository](https://github.com/HBUTHUANGPX/Hbut_LC_sentry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 18 | - | 
 | 2023-02-02 | 15 | - | 
 | 2023-02-01 | 15 | - | 
 | 2023-01-31 | 15 | - | 

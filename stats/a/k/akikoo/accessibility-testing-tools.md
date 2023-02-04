@@ -1,10 +1,10 @@
 # akikoo/accessibility-testing-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 12
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/akikoo/accessibility-testing-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 105 | 12 | 
 | 2023-02-02 | 104 | 12 | 
 | 2023-02-01 | 100 | 11 | 
 | 2023-01-31 | 93 | 10 | 

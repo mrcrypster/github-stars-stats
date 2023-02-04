@@ -1,10 +1,10 @@
 # Machine-Hum/ovrdrive - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 66
+★ Stars: 65
 
 [Open repository](https://github.com/Machine-Hum/ovrdrive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 65 | 3 | 
 | 2023-02-02 | 66 | 3 | 
 | 2023-02-01 | 66 | 3 | 
 | 2023-01-31 | 66 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 61 | 2 | 
 | 2023-01-06 | 61 | 2 | 
 | 2023-01-05 | 61 | 2 | 
-| 2023-01-04 | 61 | 2 | 
 

@@ -1,6 +1,6 @@
 # devxp-projects/github-project-manager - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | - | 11 | 
 | 2023-02-02 | - | 11 | 
 | 2023-02-01 | - | 10 | 
 | 2023-01-31 | - | 10 | 

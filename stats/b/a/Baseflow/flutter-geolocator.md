@@ -1,8 +1,8 @@
 # Baseflow/flutter-geolocator - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 494
+☋ Forks: 495
 
 ★ Stars: 1053
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1053 | 495 | 
+| 2023-02-03 | 1053 | 495 | 
 | 2023-02-02 | 1053 | 494 | 
 | 2023-02-01 | 1052 | 491 | 
 | 2023-01-31 | 1051 | 491 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1045 | 483 | 
 | 2023-01-06 | 1045 | 483 | 
 | 2023-01-05 | 1044 | 483 | 
-| 2023-01-04 | 1044 | 484 | 
 

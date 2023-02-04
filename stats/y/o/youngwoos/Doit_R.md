@@ -1,8 +1,8 @@
 # youngwoos/Doit_R - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 431
+☋ Forks: 432
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 186 | 432 | 
 | 2023-02-02 | 186 | 431 | 
 | 2023-02-01 | 185 | 430 | 
 | 2023-01-31 | 185 | 430 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 185 | 428 | 
 | 2023-01-07 | 185 | 427 | 
 | 2023-01-06 | 185 | 427 | 
-| 2023-01-05 | 185 | 427 | 
 

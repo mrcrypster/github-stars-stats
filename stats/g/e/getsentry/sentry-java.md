@@ -1,10 +1,10 @@
 # getsentry/sentry-java - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 402
 
-★ Stars: 921
+★ Stars: 922
 
 [Open repository](https://github.com/getsentry/sentry-java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 922 | 402 | 
 | 2023-02-02 | 921 | 402 | 
 | 2023-02-01 | 921 | 402 | 
 | 2023-01-31 | 922 | 402 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 912 | 396 | 
 | 2023-01-07 | 912 | 396 | 
 | 2023-01-05 | 912 | 395 | 
-| 2023-01-04 | 912 | 396 | 
 

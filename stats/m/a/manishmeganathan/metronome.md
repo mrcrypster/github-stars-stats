@@ -1,6 +1,6 @@
 # manishmeganathan/metronome - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 38 | 10 | 
 | 2023-02-02 | 38 | 10 | 
 | 2023-02-01 | 38 | 10 | 
 | 2023-01-31 | 38 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 37 | 9 | 
 | 2023-01-06 | 37 | 9 | 
 | 2023-01-05 | 37 | 9 | 
-| 2023-01-04 | 37 | 9 | 
 

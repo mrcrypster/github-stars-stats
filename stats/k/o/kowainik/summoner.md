@@ -1,10 +1,10 @@
 # kowainik/summoner - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 71
 
-★ Stars: 673
+★ Stars: 674
 
 [Open repository](https://github.com/kowainik/summoner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 674 | 71 | 
 | 2023-02-02 | 673 | 71 | 
 | 2023-02-01 | 672 | 71 | 
 | 2023-01-31 | 672 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 670 | 71 | 
 | 2023-01-06 | 670 | 71 | 
 | 2023-01-05 | 670 | 71 | 
-| 2023-01-04 | 670 | 71 | 
 

@@ -1,10 +1,10 @@
 # buzz-language/buzz - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/buzz-language/buzz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 522 | 9 | 
 | 2023-02-02 | 521 | 9 | 
 | 2023-02-01 | 521 | 9 | 
 | 2023-01-31 | 522 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 511 | 7 | 
 | 2023-01-06 | 511 | 7 | 
 | 2023-01-05 | 511 | 7 | 
-| 2023-01-04 | 511 | 7 | 
 

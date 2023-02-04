@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 03
 
-☋ Forks: 6228
+☋ Forks: 6229
 
-★ Stars: 6106
+★ Stars: 6107
 
 [Open repository](https://github.com/P3TERX/Actions-OpenWrt)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-03 | 6106 | 6228 | 
+| 2023-02-03 | 6107 | 6229 | 
 | 2023-02-02 | 6106 | 6228 | 
 | 2023-02-01 | 6100 | 6231 | 
 | 2023-01-31 | 6096 | 6223 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 6024 | 6180 | 
 | 2023-01-06 | 6024 | 6180 | 
 | 2023-01-05 | 6021 | 6176 | 
-| 2023-01-04 | 6021 | 6175 | 
 

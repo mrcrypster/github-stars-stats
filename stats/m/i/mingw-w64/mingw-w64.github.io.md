@@ -1,8 +1,8 @@
 # mingw-w64/mingw-w64.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 350
+☋ Forks: 353
 
 ★ Stars: 243
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 243 | 353 | 
+| 2023-02-03 | 243 | 353 | 
 | 2023-02-02 | 243 | 350 | 
 | 2023-01-31 | 243 | 346 | 
 | 2023-01-30 | 241 | 346 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 232 | 337 | 
 | 2023-01-06 | 232 | 337 | 
 | 2023-01-05 | 232 | 336 | 
-| 2023-01-04 | 232 | 336 | 
 

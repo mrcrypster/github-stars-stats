@@ -1,6 +1,6 @@
 # qb-0/pyMeow - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 100 | 12 | 
 | 2023-02-02 | 100 | 12 | 
 | 2023-02-01 | 100 | 12 | 
 | 2023-01-31 | 100 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 87 | 9 | 
 | 2023-01-06 | 87 | 9 | 
 | 2023-01-05 | 87 | 9 | 
-| 2023-01-04 | 87 | 9 | 
 

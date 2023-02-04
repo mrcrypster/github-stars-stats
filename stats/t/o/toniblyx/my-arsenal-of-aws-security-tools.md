@@ -1,10 +1,10 @@
 # toniblyx/my-arsenal-of-aws-security-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 1351
+☋ Forks: 1354
 
-★ Stars: 7859
+★ Stars: 7866
 
 [Open repository](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 7866 | 1354 | 
 | 2023-02-02 | 7859 | 1351 | 
 | 2023-02-01 | 7851 | 1349 | 
 | 2023-01-31 | 7845 | 1346 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 7733 | 1326 | 
 | 2023-01-07 | 7732 | 1326 | 
 | 2023-01-06 | 7730 | 1326 | 
-| 2023-01-04 | 7729 | 1325 | 
 

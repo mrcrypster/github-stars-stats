@@ -1,10 +1,10 @@
 # Xe/xn--ts9h - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 147
+★ Stars: 149
 
 [Open repository](https://github.com/Xe/xn--ts9h)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 149 | 4 | 
+| 2023-02-03 | 149 | 4 | 
 | 2023-02-02 | 147 | 4 | 
 | 2023-02-01 | 143 | 5 | 
 | 2023-01-31 | 142 | 5 | 

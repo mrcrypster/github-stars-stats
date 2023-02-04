@@ -1,10 +1,10 @@
 # buckyos/CYFS - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 275
 
-★ Stars: 2022
+★ Stars: 2025
 
 [Open repository](https://github.com/buckyos/CYFS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2025 | 275 | 
 | 2023-02-02 | 2022 | 275 | 
 | 2023-02-01 | 2022 | 275 | 
 | 2023-01-31 | 2023 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2022 | 275 | 
 | 2023-01-06 | 2022 | 275 | 
 | 2023-01-05 | 2022 | 275 | 
-| 2023-01-04 | 2021 | 275 | 
 

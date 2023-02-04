@@ -1,10 +1,10 @@
 # BiglySoftware/BiglyBT - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 1198
+★ Stars: 1199
 
 [Open repository](https://github.com/BiglySoftware/BiglyBT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1199 | 129 | 
 | 2023-02-02 | 1198 | 128 | 
 | 2023-02-01 | 1197 | 127 | 
 | 2023-01-31 | 1196 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 1191 | 125 | 
 | 2023-01-07 | 1190 | 125 | 
 | 2023-01-06 | 1187 | 125 | 
-| 2023-01-05 | 1187 | 125 | 
 

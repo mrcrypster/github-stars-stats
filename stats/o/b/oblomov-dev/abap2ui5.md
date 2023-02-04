@@ -1,10 +1,10 @@
 # oblomov-dev/abap2ui5 - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/oblomov-dev/abap2ui5)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 42 | 3 | 
 | 2023-02-02 | 41 | 3 | 
 | 2023-02-01 | 41 | 3 | 
 | 2023-01-31 | 40 | 3 | 

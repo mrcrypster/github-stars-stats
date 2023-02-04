@@ -1,10 +1,10 @@
 # Shopify/packwerk - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 83
 
-★ Stars: 1087
+★ Stars: 1089
 
 [Open repository](https://github.com/Shopify/packwerk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1089 | 83 | 
 | 2023-02-02 | 1087 | 83 | 
 | 2023-02-01 | 1084 | 83 | 
 | 2023-01-31 | 1084 | 83 | 

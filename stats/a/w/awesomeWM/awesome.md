@@ -1,6 +1,6 @@
 # awesomeWM/awesome - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 549
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 5383 | 549 | 
 | 2023-02-02 | 5383 | 549 | 
 | 2023-02-01 | 5380 | 548 | 
 | 2023-01-31 | 5380 | 548 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 5328 | 548 | 
 | 2023-01-06 | 5325 | 548 | 
 | 2023-01-05 | 5324 | 548 | 
-| 2023-01-04 | 5321 | 548 | 
 

@@ -1,10 +1,10 @@
 # Behat/Behat - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 608
 
-★ Stars: 3806
+★ Stars: 3805
 
 [Open repository](https://github.com/Behat/Behat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3805 | 608 | 
 | 2023-02-02 | 3806 | 608 | 
 | 2023-02-01 | 3806 | 608 | 
 | 2023-01-31 | 3807 | 608 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3799 | 605 | 
 | 2023-01-06 | 3797 | 605 | 
 | 2023-01-05 | 3797 | 605 | 
-| 2023-01-04 | 3797 | 605 | 
 

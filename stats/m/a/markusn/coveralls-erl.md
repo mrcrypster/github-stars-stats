@@ -1,6 +1,6 @@
 # markusn/coveralls-erl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 41 | 32 | 
 | 2023-02-02 | 41 | 32 | 
 | 2023-01-31 | 41 | 32 | 
 | 2023-01-30 | 41 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 41 | 32 | 
 | 2023-01-07 | 41 | 32 | 
 | 2023-01-05 | 41 | 32 | 
-| 2023-01-04 | 41 | 32 | 
 

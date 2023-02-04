@@ -1,6 +1,6 @@
 # iiop123/workers-image-hosting - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 63 | 25 | 
 | 2023-02-02 | 63 | 25 | 
 | 2023-02-01 | 63 | 25 | 
 | 2023-01-31 | 63 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 59 | 26 | 
 | 2023-01-06 | 59 | 26 | 
 | 2023-01-05 | 59 | 26 | 
-| 2023-01-04 | 59 | 26 | 
 

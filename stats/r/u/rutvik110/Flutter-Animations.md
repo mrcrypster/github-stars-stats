@@ -1,10 +1,10 @@
 # rutvik110/Flutter-Animations - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 24
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/rutvik110/Flutter-Animations)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 131 | 24 | 
 | 2023-02-02 | 130 | 24 | 
 | 2023-02-01 | 128 | 23 | 
 | 2023-01-31 | 128 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 108 | 16 | 
 | 2023-01-06 | 108 | 16 | 
 | 2023-01-05 | 108 | 16 | 
-| 2023-01-04 | 108 | 16 | 
 

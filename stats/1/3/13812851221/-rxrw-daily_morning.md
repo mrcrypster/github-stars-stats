@@ -1,8 +1,8 @@
 # 13812851221/-rxrw-daily_morning - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 1907
+☋ Forks: 1909
 
 ★ Stars: 510
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 510 | 1909 | 
 | 2023-02-02 | 510 | 1907 | 
 | 2023-02-01 | 510 | 1907 | 
 | 2023-01-31 | 510 | 1907 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 504 | 1891 | 
 | 2023-01-06 | 503 | 1889 | 
 | 2023-01-05 | 503 | 1886 | 
-| 2023-01-04 | 502 | 1884 | 
 

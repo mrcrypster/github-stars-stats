@@ -1,8 +1,8 @@
 # bootc/netbox-chart - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 99
+☋ Forks: 100
 
 ★ Stars: 133
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 133 | 100 | 
 | 2023-02-02 | 133 | 99 | 
 | 2023-02-01 | 133 | 99 | 
 | 2023-01-31 | 133 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 128 | 102 | 
 | 2023-01-06 | 128 | 103 | 
 | 2023-01-05 | 128 | 103 | 
-| 2023-01-04 | 128 | 103 | 
 

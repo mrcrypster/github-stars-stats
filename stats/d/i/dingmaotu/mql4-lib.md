@@ -1,6 +1,6 @@
 # dingmaotu/mql4-lib - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 421 | 205 | 
 | 2023-02-02 | 421 | 205 | 
 | 2023-02-01 | 421 | 205 | 
 | 2023-01-30 | 421 | 205 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 419 | 204 | 
 | 2023-01-07 | 419 | 204 | 
 | 2023-01-05 | 419 | 203 | 
-| 2023-01-04 | 419 | 203 | 
 

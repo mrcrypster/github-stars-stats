@@ -1,10 +1,10 @@
 # sisl/AA228-CS238-Student - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 72
+☋ Forks: 74
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/sisl/AA228-CS238-Student)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 12 | 74 | 
+| 2023-02-03 | 11 | 74 | 
 | 2023-02-02 | 11 | 72 | 
 | 2023-02-01 | 11 | 68 | 
 | 2023-01-31 | 11 | 62 | 

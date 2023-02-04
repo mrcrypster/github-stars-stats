@@ -1,10 +1,10 @@
 # actions/typescript-action - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 342
+☋ Forks: 346
 
-★ Stars: 1318
+★ Stars: 1322
 
 [Open repository](https://github.com/actions/typescript-action)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1322 | 346 | 
 | 2023-02-02 | 1318 | 342 | 
 | 2023-02-01 | 1319 | 342 | 
 | 2023-01-31 | 1316 | 342 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1293 | 331 | 
 | 2023-01-06 | 1292 | 330 | 
 | 2023-01-05 | 1290 | 330 | 
-| 2023-01-04 | 1288 | 329 | 
 

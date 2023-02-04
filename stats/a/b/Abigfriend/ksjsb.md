@@ -1,6 +1,6 @@
 # Abigfriend/ksjsb - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 40 | 53 | 
 | 2023-02-02 | 40 | 53 | 
 | 2023-02-01 | 40 | 53 | 
 | 2023-01-31 | 40 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 41 | 53 | 
 | 2023-01-06 | 41 | 53 | 
 | 2023-01-05 | 41 | 53 | 
-| 2023-01-04 | 41 | 53 | 
 

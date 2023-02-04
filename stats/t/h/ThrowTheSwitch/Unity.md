@@ -1,6 +1,6 @@
 # ThrowTheSwitch/Unity - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 808
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2851 | 808 | 
 | 2023-02-02 | 2851 | 808 | 
 | 2023-02-01 | 2848 | 808 | 
 | 2023-01-31 | 2845 | 803 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2811 | 803 | 
 | 2023-01-06 | 2811 | 803 | 
 | 2023-01-05 | 2810 | 803 | 
-| 2023-01-04 | 2809 | 805 | 
 

@@ -1,10 +1,10 @@
 # NikolayS/postgres_dba - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 90
 
-★ Stars: 716
+★ Stars: 718
 
 [Open repository](https://github.com/NikolayS/postgres_dba)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 718 | 90 | 
 | 2023-02-02 | 716 | 90 | 
 | 2023-02-01 | 716 | 90 | 
 | 2023-01-31 | 717 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 712 | 90 | 
 | 2023-01-06 | 712 | 90 | 
 | 2023-01-05 | 712 | 90 | 
-| 2023-01-04 | 712 | 90 | 
 

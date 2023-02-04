@@ -1,6 +1,6 @@
 # goldmansachs/gs-quant - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 339
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1647 | 339 | 
 | 2023-02-02 | 1647 | 339 | 
 | 2023-02-01 | 1645 | 339 | 
 | 2023-01-31 | 1647 | 339 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1584 | 333 | 
 | 2023-01-06 | 1584 | 333 | 
 | 2023-01-05 | 1582 | 332 | 
-| 2023-01-04 | 1581 | 332 | 
 

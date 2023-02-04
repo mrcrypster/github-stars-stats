@@ -1,6 +1,6 @@
 # Speek-App/Speek - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 588 | 63 | 
 | 2023-02-02 | 588 | 63 | 
 | 2023-02-01 | 588 | 63 | 
 | 2023-01-31 | 587 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 581 | 61 | 
 | 2023-01-06 | 581 | 61 | 
 | 2023-01-05 | 580 | 60 | 
-| 2023-01-04 | 580 | 60 | 
 

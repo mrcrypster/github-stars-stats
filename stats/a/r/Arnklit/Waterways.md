@@ -1,6 +1,6 @@
 # Arnklit/Waterways - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 645 | 38 | 
 | 2023-02-02 | 645 | 38 | 
 | 2023-02-01 | 643 | 38 | 
 | 2023-01-31 | 643 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 636 | 39 | 
 | 2023-01-06 | 636 | 39 | 
 | 2023-01-05 | 634 | 38 | 
-| 2023-01-04 | 634 | 38 | 
 

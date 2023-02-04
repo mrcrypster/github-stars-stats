@@ -1,10 +1,10 @@
 # codiume/the-tap-stack - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/codiume/the-tap-stack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 25 | - | 
 | 2023-02-02 | 24 | - | 
 | 2023-02-01 | 24 | - | 
 | 2023-01-30 | 24 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 24 | - | 
 | 2023-01-06 | 24 | - | 
 | 2023-01-05 | 24 | - | 
-| 2023-01-04 | 24 | - | 
 

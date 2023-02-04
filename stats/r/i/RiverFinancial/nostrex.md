@@ -1,10 +1,10 @@
 # RiverFinancial/nostrex - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/RiverFinancial/nostrex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 39 | 3 | 
 | 2023-02-02 | 38 | 3 | 
 | 2023-02-01 | 37 | 3 | 
 | 2023-01-30 | 37 | 3 | 

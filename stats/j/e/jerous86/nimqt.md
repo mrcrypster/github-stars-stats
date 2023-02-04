@@ -1,6 +1,6 @@
 # jerous86/nimqt - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 42 | 3 | 
 | 2023-02-02 | 42 | 3 | 
 | 2023-02-01 | 38 | 3 | 
 | 2023-01-31 | 37 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 28 | 2 | 
 | 2023-01-06 | 27 | 2 | 
 | 2023-01-05 | 26 | 2 | 
-| 2023-01-04 | 24 | 2 | 
 

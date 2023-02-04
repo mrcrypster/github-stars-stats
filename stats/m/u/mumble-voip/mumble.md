@@ -1,10 +1,10 @@
 # mumble-voip/mumble - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1016
 
-★ Stars: 5230
+★ Stars: 5229
 
 [Open repository](https://github.com/mumble-voip/mumble)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 5229 | 1016 | 
 | 2023-02-02 | 5230 | 1016 | 
 | 2023-01-31 | 5227 | 1016 | 
 | 2023-01-30 | 5225 | 1016 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 5190 | 1015 | 
 | 2023-01-06 | 5187 | 1015 | 
 | 2023-01-05 | 5187 | 1015 | 
-| 2023-01-04 | 5184 | 1015 | 
 

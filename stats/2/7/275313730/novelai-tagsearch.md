@@ -1,10 +1,10 @@
 # 275313730/novelai-tagsearch - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/275313730/novelai-tagsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 63 | 7 | 
 | 2023-02-02 | 62 | 7 | 
 | 2023-02-01 | 62 | 7 | 
 | 2023-01-31 | 62 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 62 | 7 | 
 | 2023-01-06 | 62 | 7 | 
 | 2023-01-05 | 62 | 7 | 
-| 2023-01-04 | 62 | 7 | 
 

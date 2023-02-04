@@ -1,10 +1,10 @@
 # mahdeslami11/Narges-rezaeei - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 30
 
 [Open repository](https://github.com/mahdeslami11/Narges-rezaeei)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 30 | - | 
 | 2023-02-02 | 31 | - | 
 | 2023-01-31 | 31 | - | 
 | 2023-01-30 | 31 | - | 

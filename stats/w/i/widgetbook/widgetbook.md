@@ -1,10 +1,10 @@
 # widgetbook/widgetbook - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 80
 
-★ Stars: 368
+★ Stars: 370
 
 [Open repository](https://github.com/widgetbook/widgetbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 370 | 80 | 
 | 2023-02-02 | 368 | 80 | 
 | 2023-02-01 | 367 | 80 | 
 | 2023-01-31 | 366 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 312 | 75 | 
 | 2023-01-07 | 312 | 75 | 
 | 2023-01-06 | 312 | 75 | 
-| 2023-01-04 | 312 | 75 | 
 

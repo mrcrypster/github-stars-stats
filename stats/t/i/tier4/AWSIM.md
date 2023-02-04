@@ -1,10 +1,10 @@
 # tier4/AWSIM - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 23
 
-★ Stars: 224
+★ Stars: 225
 
 [Open repository](https://github.com/tier4/AWSIM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 225 | 23 | 
 | 2023-02-02 | 224 | 23 | 
 | 2023-02-01 | 224 | 23 | 
 | 2023-01-31 | 225 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 215 | 22 | 
 | 2023-01-06 | 215 | 22 | 
 | 2023-01-05 | 215 | 22 | 
-| 2023-01-04 | 215 | 22 | 
 

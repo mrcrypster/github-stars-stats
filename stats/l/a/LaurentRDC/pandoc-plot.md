@@ -1,10 +1,10 @@
 # LaurentRDC/pandoc-plot - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/LaurentRDC/pandoc-plot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 166 | 6 | 
 | 2023-02-02 | 165 | 6 | 
 | 2023-02-01 | 165 | 6 | 
 | 2023-01-31 | 163 | 6 | 

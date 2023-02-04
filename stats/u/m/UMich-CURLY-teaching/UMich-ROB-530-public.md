@@ -1,10 +1,10 @@
 # UMich-CURLY-teaching/UMich-ROB-530-public - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 78
 
-★ Stars: 436
+★ Stars: 437
 
 [Open repository](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 437 | 78 | 
 | 2023-02-02 | 436 | 78 | 
 | 2023-02-01 | 436 | 78 | 
 | 2023-01-31 | 436 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 405 | 75 | 
 | 2023-01-06 | 404 | 75 | 
 | 2023-01-05 | 403 | 75 | 
-| 2023-01-04 | 397 | 75 | 
 

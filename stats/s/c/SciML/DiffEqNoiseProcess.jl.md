@@ -1,6 +1,6 @@
 # SciML/DiffEqNoiseProcess.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 54 | 24 | 
 | 2023-02-01 | 54 | 24 | 
 | 2023-01-31 | 54 | 24 | 
 | 2023-01-30 | 54 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 01
 | 2023-01-08 | 51 | 24 | 
 | 2023-01-06 | 51 | 24 | 
 | 2023-01-05 | 51 | 24 | 
-| 2023-01-04 | 51 | 24 | 
 

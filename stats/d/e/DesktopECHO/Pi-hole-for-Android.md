@@ -1,10 +1,10 @@
 # DesktopECHO/Pi-hole-for-Android - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 23
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/DesktopECHO/Pi-hole-for-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 190 | 23 | 
 | 2023-02-02 | 189 | 23 | 
 | 2023-02-01 | 188 | 22 | 
 | 2023-01-31 | 188 | 22 | 

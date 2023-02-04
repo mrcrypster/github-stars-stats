@@ -1,10 +1,10 @@
 # PyO3/maturin - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 139
 
-★ Stars: 1709
+★ Stars: 1715
 
 [Open repository](https://github.com/PyO3/maturin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1715 | 139 | 
 | 2023-02-02 | 1709 | 139 | 
 | 2023-02-01 | 1702 | 139 | 
 | 2023-01-31 | 1701 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1615 | 133 | 
 | 2023-01-06 | 1615 | 133 | 
 | 2023-01-05 | 1611 | 132 | 
-| 2023-01-04 | 1610 | 132 | 
 

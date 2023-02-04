@@ -1,6 +1,6 @@
 # w2sft/Ty2yAntiVirus - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 148 | 32 | 
 | 2023-02-02 | 148 | 32 | 
 | 2023-01-31 | 148 | 32 | 
 | 2023-01-30 | 148 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 147 | 32 | 
 | 2023-01-06 | 147 | 32 | 
 | 2023-01-05 | 147 | 32 | 
-| 2023-01-04 | 147 | 32 | 
 

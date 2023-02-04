@@ -1,10 +1,10 @@
 # postgis/postgis - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 351
+☋ Forks: 350
 
-★ Stars: 1307
+★ Stars: 1309
 
 [Open repository](https://github.com/postgis/postgis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1309 | 350 | 
 | 2023-02-02 | 1307 | 351 | 
 | 2023-02-01 | 1307 | 351 | 
 | 2023-01-31 | 1307 | 351 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1289 | 347 | 
 | 2023-01-06 | 1289 | 347 | 
 | 2023-01-05 | 1289 | 347 | 
-| 2023-01-04 | 1289 | 347 | 
 

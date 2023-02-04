@@ -1,10 +1,10 @@
 # asg017/sqlite-html - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 327
+★ Stars: 328
 
 [Open repository](https://github.com/asg017/sqlite-html)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 328 | 10 | 
 | 2023-02-02 | 327 | 10 | 
 | 2023-02-01 | 327 | 10 | 
 | 2023-01-31 | 327 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 320 | 10 | 
 | 2023-01-06 | 320 | 10 | 
 | 2023-01-05 | 320 | 10 | 
-| 2023-01-04 | 320 | 10 | 
 

@@ -1,6 +1,6 @@
 # pluralsh/plural - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 839 | 33 | 
 | 2023-02-02 | 839 | 33 | 
 | 2023-02-01 | 837 | 33 | 
 | 2023-01-31 | 837 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 816 | 33 | 
 | 2023-01-06 | 815 | 33 | 
 | 2023-01-05 | 810 | 33 | 
-| 2023-01-04 | 809 | 33 | 
 

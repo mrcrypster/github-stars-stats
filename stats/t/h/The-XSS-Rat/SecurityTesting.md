@@ -1,6 +1,6 @@
 # The-XSS-Rat/SecurityTesting - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 692 | 207 | 
 | 2023-02-02 | 692 | 207 | 
 | 2023-02-01 | 692 | 207 | 
 | 2023-01-31 | 691 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 687 | 204 | 
 | 2023-01-06 | 687 | 204 | 
 | 2023-01-05 | 687 | 204 | 
-| 2023-01-04 | 686 | 205 | 
 

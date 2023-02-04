@@ -1,6 +1,6 @@
 # Lakens/statistical_inferences - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 120 | 44 | 
 | 2023-02-02 | 120 | 44 | 
 | 2023-02-01 | 120 | 44 | 
 | 2023-01-31 | 120 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 120 | 44 | 
 | 2023-01-06 | 120 | 44 | 
 | 2023-01-05 | 120 | 44 | 
-| 2023-01-04 | 120 | 44 | 
 

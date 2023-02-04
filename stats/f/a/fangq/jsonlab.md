@@ -1,6 +1,6 @@
 # fangq/jsonlab - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 264 | 110 | 
 | 2023-02-02 | 264 | 110 | 
 | 2023-02-01 | 264 | 110 | 
 | 2023-01-31 | 264 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 259 | 109 | 
 | 2023-01-06 | 259 | 109 | 
 | 2023-01-05 | 259 | 109 | 
-| 2023-01-04 | 259 | 109 | 
 

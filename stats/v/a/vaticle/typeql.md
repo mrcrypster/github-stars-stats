@@ -1,10 +1,10 @@
 # vaticle/typeql - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 38
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/vaticle/typeql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 184 | 38 | 
 | 2023-02-02 | 183 | 38 | 
 | 2023-02-01 | 183 | 38 | 
 | 2023-01-31 | 182 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 177 | 38 | 
 | 2023-01-06 | 176 | 38 | 
 | 2023-01-05 | 176 | 38 | 
-| 2023-01-04 | 176 | 38 | 
 

@@ -1,6 +1,6 @@
 # CydVilla/RC-Cohort2022a - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | - | 7 | 
 | 2023-02-03 | - | 7 | 
 | 2023-02-01 | - | 7 | 
 | 2023-01-31 | - | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | - | 7 | 
 | 2023-01-06 | - | 7 | 
 | 2023-01-05 | - | 7 | 
-| 2023-01-04 | - | 7 | 
 

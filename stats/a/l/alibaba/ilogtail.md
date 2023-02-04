@@ -1,6 +1,6 @@
 # alibaba/ilogtail - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1097 | 190 | 
 | 2023-02-02 | 1097 | 190 | 
 | 2023-02-01 | 1095 | 189 | 
 | 2023-01-31 | 1093 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1072 | 184 | 
 | 2023-01-06 | 1072 | 184 | 
 | 2023-01-05 | 1072 | 184 | 
-| 2023-01-04 | 1071 | 184 | 
 

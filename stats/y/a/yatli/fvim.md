@@ -1,6 +1,6 @@
 # yatli/fvim - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1068 | 22 | 
 | 2023-02-02 | 1068 | 22 | 
 | 2023-02-01 | 1066 | 22 | 
 | 2023-01-30 | 1066 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1049 | 23 | 
 | 2023-01-06 | 1049 | 23 | 
 | 2023-01-05 | 1046 | 23 | 
-| 2023-01-04 | 1046 | 23 | 
 

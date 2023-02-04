@@ -1,10 +1,10 @@
 # displus/UlichatOpenAI - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/displus/UlichatOpenAI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 10 | 1 | 
 | 2023-02-02 | 9 | 1 | 
 | 2023-02-01 | 9 | 1 | 
 | 2023-01-31 | 9 | 1 | 

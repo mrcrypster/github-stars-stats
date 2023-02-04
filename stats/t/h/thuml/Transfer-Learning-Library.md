@@ -1,10 +1,10 @@
 # thuml/Transfer-Learning-Library - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 429
+☋ Forks: 430
 
-★ Stars: 2207
+★ Stars: 2213
 
 [Open repository](https://github.com/thuml/Transfer-Learning-Library)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2213 | 430 | 
 | 2023-02-02 | 2207 | 429 | 
 | 2023-01-31 | 2205 | 430 | 
 | 2023-01-30 | 2201 | 428 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2164 | 422 | 
 | 2023-01-06 | 2160 | 421 | 
 | 2023-01-05 | 2158 | 420 | 
-| 2023-01-04 | 2158 | 420 | 
 

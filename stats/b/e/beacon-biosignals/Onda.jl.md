@@ -1,10 +1,10 @@
 # beacon-biosignals/Onda.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/beacon-biosignals/Onda.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 63 | 3 | 
 | 2023-02-02 | 62 | 3 | 
 | 2023-02-01 | 62 | 3 | 
 | 2023-01-31 | 62 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 61 | 3 | 
 | 2023-01-06 | 61 | 3 | 
 | 2023-01-05 | 61 | 3 | 
-| 2023-01-04 | 61 | 3 | 
 

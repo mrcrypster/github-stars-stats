@@ -1,10 +1,10 @@
 # cb-linux/breath - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 42
 
-★ Stars: 280
+★ Stars: 279
 
 [Open repository](https://github.com/cb-linux/breath)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 279 | 42 | 
 | 2023-02-02 | 280 | 42 | 
 | 2023-02-01 | 279 | 42 | 
 | 2023-01-31 | 279 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 277 | 40 | 
 | 2023-01-06 | 277 | 40 | 
 | 2023-01-05 | 277 | 41 | 
-| 2023-01-04 | 277 | 41 | 
 

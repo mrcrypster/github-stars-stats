@@ -1,6 +1,6 @@
 # LineageOS/android_external_chromium-webview - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 13 | 8 | 
 | 2023-02-02 | 13 | 8 | 
 | 2023-02-01 | 13 | 8 | 
 | 2023-01-31 | 12 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 12 | 8 | 
 | 2023-01-06 | 12 | 8 | 
 | 2023-01-05 | 12 | 8 | 
-| 2023-01-04 | 12 | 8 | 
 

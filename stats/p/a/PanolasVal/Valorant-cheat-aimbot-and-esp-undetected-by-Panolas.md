@@ -1,10 +1,10 @@
 # PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 71
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 99 | 71 | 
 | 2023-02-02 | 100 | 71 | 
 | 2023-02-01 | 100 | 71 | 
 | 2023-01-31 | 289 | 71 | 

@@ -1,10 +1,10 @@
 # microsoft/AzureMonitorCommunity - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 316
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/microsoft/AzureMonitorCommunity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 698 | 316 | 
 | 2023-02-02 | 697 | 316 | 
 | 2023-02-01 | 697 | 316 | 
 | 2023-01-31 | 697 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 678 | 308 | 
 | 2023-01-06 | 678 | 308 | 
 | 2023-01-05 | 678 | 306 | 
-| 2023-01-04 | 677 | 306 | 
 

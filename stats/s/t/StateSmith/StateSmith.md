@@ -1,10 +1,10 @@
 # StateSmith/StateSmith - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/StateSmith/StateSmith)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 216 | 18 | 
 | 2023-02-02 | 215 | 18 | 
 | 2023-02-01 | 215 | 18 | 
 | 2023-01-31 | 217 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 212 | 18 | 
 | 2023-01-06 | 212 | 18 | 
 | 2023-01-05 | 212 | 17 | 
-| 2023-01-04 | 213 | 17 | 
 

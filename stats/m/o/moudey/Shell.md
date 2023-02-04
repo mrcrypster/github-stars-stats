@@ -1,10 +1,10 @@
 # moudey/Shell - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 380
+★ Stars: 392
 
 [Open repository](https://github.com/moudey/Shell)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 392 | 13 | 
+| 2023-02-03 | 391 | 13 | 
 | 2023-02-02 | 380 | 12 | 
 | 2023-02-01 | 376 | 12 | 
 | 2023-01-31 | 377 | 12 | 

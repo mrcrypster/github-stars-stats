@@ -1,6 +1,6 @@
 # tinevez/matlab-tree - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 42 | 33 | 
 | 2023-02-02 | 42 | 33 | 
 | 2023-01-31 | 42 | 33 | 
 | 2023-01-30 | 42 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 42 | 33 | 
 | 2023-01-06 | 42 | 33 | 
 | 2023-01-05 | 42 | 33 | 
-| 2023-01-04 | 42 | 33 | 
 

@@ -1,6 +1,6 @@
 # Fukki-Z/nodefree - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 599 | 35 | 
 | 2023-02-02 | 599 | 35 | 
 | 2023-02-01 | 597 | 35 | 
 | 2023-01-31 | 598 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 531 | 34 | 
 | 2023-01-06 | 530 | 34 | 
 | 2023-01-05 | 530 | 34 | 
-| 2023-01-04 | 528 | 34 | 
 

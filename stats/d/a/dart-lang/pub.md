@@ -1,8 +1,8 @@
 # dart-lang/pub - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 217
+☋ Forks: 218
 
 ★ Stars: 936
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 936 | 218 | 
 | 2023-02-02 | 936 | 217 | 
 | 2023-01-31 | 934 | 217 | 
 | 2023-01-30 | 935 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 923 | 214 | 
 | 2023-01-06 | 922 | 214 | 
 | 2023-01-05 | 922 | 214 | 
-| 2023-01-04 | 922 | 214 | 
 

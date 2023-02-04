@@ -1,6 +1,6 @@
 # Infineon/recipe-make-cat1a - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1 | 3 | 
+| 2023-02-03 | 1 | 3 | 
 | 2023-02-02 | 1 | 3 | 
 | 2023-02-01 | 1 | 3 | 
 | 2023-01-31 | 1 | 3 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1 | 2 | 
 | 2023-01-06 | 1 | 2 | 
 | 2023-01-05 | 1 | 2 | 
-| 2023-01-04 | 1 | 2 | 
 

@@ -1,10 +1,10 @@
 # riramar/Web-Attack-Cheat-Sheet - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 518
+☋ Forks: 517
 
-★ Stars: 3474
+★ Stars: 3476
 
 [Open repository](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 3476 | 517 | 
 | 2023-02-02 | 3474 | 518 | 
 | 2023-02-01 | 3474 | 518 | 
 | 2023-01-31 | 3473 | 518 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 3451 | 515 | 
 | 2023-01-06 | 3451 | 515 | 
 | 2023-01-05 | 3449 | 513 | 
-| 2023-01-04 | 3447 | 513 | 
 

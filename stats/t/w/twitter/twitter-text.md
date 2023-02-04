@@ -1,6 +1,6 @@
 # twitter/twitter-text - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 480
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 2919 | 480 | 
 | 2023-02-02 | 2919 | 480 | 
 | 2023-02-01 | 2919 | 480 | 
 | 2023-01-31 | 2919 | 481 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 2911 | 479 | 
 | 2023-01-06 | 2910 | 479 | 
 | 2023-01-05 | 2910 | 479 | 
-| 2023-01-04 | 2911 | 479 | 
 

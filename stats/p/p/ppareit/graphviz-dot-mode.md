@@ -1,10 +1,10 @@
 # ppareit/graphviz-dot-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/ppareit/graphviz-dot-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 195 | 46 | 
 | 2023-02-02 | 194 | 45 | 
 | 2023-02-01 | 194 | 45 | 
 | 2023-01-31 | 194 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 193 | 44 | 
 | 2023-01-06 | 193 | 44 | 
 | 2023-01-05 | 193 | 44 | 
-| 2023-01-04 | 193 | 44 | 
 

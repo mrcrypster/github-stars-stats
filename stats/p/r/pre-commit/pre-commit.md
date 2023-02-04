@@ -1,10 +1,10 @@
 # pre-commit/pre-commit - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 701
+☋ Forks: 702
 
-★ Stars: 9670
+★ Stars: 9680
 
 [Open repository](https://github.com/pre-commit/pre-commit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 9680 | 702 | 
 | 2023-02-02 | 9670 | 701 | 
 | 2023-02-01 | 9661 | 701 | 
 | 2023-01-31 | 9651 | 701 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 9492 | 686 | 
 | 2023-01-06 | 9484 | 686 | 
 | 2023-01-05 | 9477 | 686 | 
-| 2023-01-04 | 9473 | 687 | 
 

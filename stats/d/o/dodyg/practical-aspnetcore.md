@@ -1,10 +1,10 @@
 # dodyg/practical-aspnetcore - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
-☋ Forks: 993
+☋ Forks: 994
 
-★ Stars: 7515
+★ Stars: 7518
 
 [Open repository](https://github.com/dodyg/practical-aspnetcore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 7518 | 994 | 
 | 2023-02-02 | 7515 | 993 | 
 | 2023-02-01 | 7511 | 993 | 
 | 2023-01-31 | 7511 | 993 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-08 | 7325 | 965 | 
 | 2023-01-06 | 7321 | 965 | 
 | 2023-01-05 | 7319 | 964 | 
-| 2023-01-04 | 7319 | 964 | 
 

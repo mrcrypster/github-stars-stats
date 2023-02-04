@@ -1,10 +1,10 @@
 # pucherot/Pi.Alert - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 151
 
-★ Stars: 1361
+★ Stars: 1363
 
 [Open repository](https://github.com/pucherot/Pi.Alert)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 1363 | 151 | 
 | 2023-02-02 | 1361 | 151 | 
 | 2023-02-01 | 1361 | 151 | 
 | 2023-01-31 | 1360 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 1327 | 149 | 
 | 2023-01-06 | 1325 | 149 | 
 | 2023-01-05 | 1323 | 149 | 
-| 2023-01-04 | 1323 | 149 | 
 

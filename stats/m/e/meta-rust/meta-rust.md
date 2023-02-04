@@ -1,6 +1,6 @@
 # meta-rust/meta-rust - stars & forks statistics
 
-Stats updated on Feb 2023, 02
+Stats updated on Feb 2023, 03
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-03 | 164 | 105 | 
 | 2023-02-02 | 164 | 105 | 
 | 2023-02-01 | 163 | 105 | 
 | 2023-01-31 | 163 | 105 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 02
 | 2023-01-07 | 163 | 104 | 
 | 2023-01-06 | 163 | 104 | 
 | 2023-01-05 | 163 | 104 | 
-| 2023-01-04 | 163 | 103 | 
 

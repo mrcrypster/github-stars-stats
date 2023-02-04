@@ -1,6 +1,6 @@
 # magit/magit-popup - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 45 | 12 | 
 | 2023-02-03 | 45 | 12 | 
 | 2023-02-02 | 45 | 12 | 
 | 2023-01-31 | 45 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-07 | 44 | 12 | 
 | 2023-01-06 | 44 | 12 | 
 | 2023-01-05 | 44 | 12 | 
-| 2023-01-04 | 44 | 12 | 
 
