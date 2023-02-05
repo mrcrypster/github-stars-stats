@@ -1,10 +1,10 @@
 # Ryzee119/OpenXenium - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 35
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/Ryzee119/OpenXenium)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 182 | 35 | 
 | 2023-02-03 | 181 | 35 | 
 | 2023-02-02 | 181 | 35 | 
 | 2023-01-31 | 181 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 181 | 35 | 
 | 2023-01-07 | 181 | 35 | 
 | 2023-01-06 | 181 | 35 | 
-| 2023-01-05 | 181 | 35 | 
 

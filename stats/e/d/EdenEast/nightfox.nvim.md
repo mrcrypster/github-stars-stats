@@ -1,10 +1,10 @@
 # EdenEast/nightfox.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
-☋ Forks: 93
+☋ Forks: 94
 
-★ Stars: 1837
+★ Stars: 1838
 
 [Open repository](https://github.com/EdenEast/nightfox.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1838 | 94 | 
 | 2023-02-03 | 1837 | 93 | 
 | 2023-02-02 | 1832 | 93 | 
 | 2023-02-01 | 1828 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1716 | 93 | 
 | 2023-01-07 | 1711 | 92 | 
 | 2023-01-06 | 1706 | 91 | 
-| 2023-01-05 | 1704 | 92 | 
 

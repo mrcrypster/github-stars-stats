@@ -1,10 +1,10 @@
 # mcmanigle/OxThesis - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 73
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/mcmanigle/OxThesis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 142 | 73 | 
 | 2023-02-03 | 141 | 73 | 
 | 2023-02-02 | 141 | 73 | 
 | 2023-01-31 | 141 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 140 | 71 | 
 | 2023-01-07 | 140 | 71 | 
 | 2023-01-06 | 140 | 71 | 
-| 2023-01-05 | 140 | 71 | 
 

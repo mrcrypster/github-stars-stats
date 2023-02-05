@@ -1,10 +1,10 @@
 # db-ui/core - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/db-ui/core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 15 | 1 | 
 | 2023-02-03 | 14 | 1 | 
 | 2023-02-02 | 14 | 1 | 
 | 2023-02-01 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 14 | 1 | 
 | 2023-01-08 | 14 | 1 | 
 | 2023-01-07 | 14 | 1 | 
-| 2023-01-06 | 14 | 1 | 
 

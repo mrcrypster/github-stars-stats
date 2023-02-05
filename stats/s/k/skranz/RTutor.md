@@ -1,6 +1,6 @@
 # skranz/RTutor - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 190 | 56 | 
 | 2023-02-03 | 190 | 56 | 
 | 2023-02-02 | 190 | 56 | 
 | 2023-01-31 | 190 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 185 | 56 | 
 | 2023-01-07 | 185 | 56 | 
 | 2023-01-06 | 185 | 56 | 
-| 2023-01-05 | 185 | 56 | 
 

@@ -1,6 +1,6 @@
 # getmanfred/mac - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 525 | 28 | 
 | 2023-02-03 | 525 | 28 | 
 | 2023-02-02 | 524 | 27 | 
 | 2023-01-31 | 524 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 521 | 29 | 
 | 2023-01-08 | 520 | 29 | 
 | 2023-01-06 | 520 | 29 | 
-| 2023-01-05 | 520 | 29 | 
 

@@ -1,8 +1,8 @@
 # CarlosZBent/Directorio_trabajos_tech - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 10
+☋ Forks: 12
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 9 | 12 | 
 | 2023-02-03 | 9 | 10 | 
 | 2023-02-02 | 9 | 10 | 
 | 2023-02-01 | 8 | 10 | 

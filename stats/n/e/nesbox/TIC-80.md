@@ -1,10 +1,10 @@
 # nesbox/TIC-80 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 363
+☋ Forks: 362
 
-★ Stars: 3838
+★ Stars: 3841
 
 [Open repository](https://github.com/nesbox/TIC-80)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3841 | 362 | 
 | 2023-02-03 | 3838 | 363 | 
 | 2023-02-02 | 3837 | 363 | 
 | 2023-02-01 | 3832 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 3778 | 360 | 
 | 2023-01-07 | 3775 | 360 | 
 | 2023-01-06 | 3775 | 359 | 
-| 2023-01-05 | 3774 | 359 | 
 

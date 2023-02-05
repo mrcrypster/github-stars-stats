@@ -1,10 +1,10 @@
 # nodejs/undici - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 324
 
-★ Stars: 4503
+★ Stars: 4508
 
 [Open repository](https://github.com/nodejs/undici)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 4508 | 324 | 
 | 2023-02-03 | 4503 | 324 | 
 | 2023-02-01 | 4502 | 324 | 
 | 2023-01-31 | 4500 | 324 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 4453 | 318 | 
 | 2023-01-07 | 4452 | 318 | 
 | 2023-01-06 | 4449 | 318 | 
-| 2023-01-05 | 4447 | 318 | 
 

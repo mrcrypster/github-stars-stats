@@ -1,6 +1,6 @@
 # GuMengYu/music-you - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 171 | 29 | 
 | 2023-02-03 | 171 | 29 | 
 | 2023-02-02 | 170 | 29 | 
 | 2023-01-31 | 169 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 154 | 25 | 
 | 2023-01-08 | 154 | 25 | 
 | 2023-01-07 | 154 | 25 | 
-| 2023-01-06 | 153 | 25 | 
 

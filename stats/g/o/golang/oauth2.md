@@ -1,10 +1,10 @@
 # golang/oauth2 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 916
 
-★ Stars: 4535
+★ Stars: 4537
 
 [Open repository](https://github.com/golang/oauth2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 4537 | 916 | 
 | 2023-02-03 | 4535 | 916 | 
 | 2023-02-02 | 4535 | 916 | 
 | 2023-02-01 | 4534 | 916 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 4478 | 912 | 
 | 2023-01-08 | 4477 | 912 | 
 | 2023-01-07 | 4474 | 912 | 
-| 2023-01-05 | 4473 | 912 | 
 

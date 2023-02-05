@@ -1,10 +1,10 @@
 # neuml/txtai - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 284
+☋ Forks: 286
 
-★ Stars: 3297
+★ Stars: 3316
 
 [Open repository](https://github.com/neuml/txtai)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3316 | 286 | 
 | 2023-02-03 | 3297 | 284 | 
 | 2023-02-02 | 3260 | 282 | 
 | 2023-02-01 | 3253 | 282 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 3149 | 278 | 
 | 2023-01-08 | 3148 | 278 | 
 | 2023-01-07 | 3145 | 278 | 
-| 2023-01-06 | 3140 | 278 | 
 

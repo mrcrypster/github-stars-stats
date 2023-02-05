@@ -1,6 +1,6 @@
 # tsinghua-lau/one-step - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 25 | 2 | 
 | 2023-02-03 | 25 | 2 | 
 | 2023-02-02 | 25 | 2 | 
 | 2023-01-31 | 25 | 2 | 

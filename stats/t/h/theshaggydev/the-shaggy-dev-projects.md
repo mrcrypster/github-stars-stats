@@ -1,10 +1,10 @@
 # theshaggydev/the-shaggy-dev-projects - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 49
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/theshaggydev/the-shaggy-dev-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 57 | 49 | 
 | 2023-02-03 | 56 | 49 | 
 | 2023-02-02 | 56 | 49 | 
 | 2023-02-01 | 56 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 53 | 41 | 
 | 2023-01-07 | 52 | 41 | 
 | 2023-01-06 | 52 | 41 | 
-| 2023-01-05 | 52 | 41 | 
 

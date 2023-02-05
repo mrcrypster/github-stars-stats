@@ -1,6 +1,6 @@
 # samchon/typescript-json - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2137 | 76 | 
 | 2023-02-03 | 2137 | 76 | 
 | 2023-02-02 | 2134 | 77 | 
 | 2023-02-01 | 2134 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2070 | 75 | 
 | 2023-01-07 | 2069 | 75 | 
 | 2023-01-06 | 2065 | 75 | 
-| 2023-01-05 | 2059 | 75 | 
 

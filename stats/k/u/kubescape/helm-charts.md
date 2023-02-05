@@ -1,10 +1,10 @@
 # kubescape/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/kubescape/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 9 | 12 | 
 | 2023-02-03 | 8 | 11 | 
 | 2023-02-02 | 7 | 11 | 
 | 2023-02-01 | 7 | 11 | 

@@ -1,6 +1,6 @@
 # sifive/meta-sifive - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 39 | 31 | 
 | 2023-02-03 | 39 | 31 | 
 | 2023-02-01 | 39 | 31 | 
 | 2023-01-31 | 39 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 39 | 31 | 
 | 2023-01-07 | 39 | 31 | 
 | 2023-01-06 | 39 | 31 | 
-| 2023-01-05 | 39 | 31 | 
 

@@ -1,10 +1,10 @@
 # everspy/everspy - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 116
+★ Stars: 115
 
 [Open repository](https://github.com/everspy/everspy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 115 | 10 | 
 | 2023-02-03 | 116 | 10 | 
 | 2023-02-02 | 115 | 10 | 
 | 2023-02-01 | 115 | 10 | 

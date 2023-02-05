@@ -1,8 +1,8 @@
 # css-for-js/huckleberry - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 1651
+☋ Forks: 1652
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 62 | 1652 | 
 | 2023-02-03 | 62 | 1651 | 
 | 2023-02-02 | 62 | 1649 | 
 | 2023-02-01 | 62 | 1648 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 61 | 1596 | 
 | 2023-01-08 | 61 | 1594 | 
 | 2023-01-07 | 61 | 1593 | 
-| 2023-01-05 | 61 | 1588 | 
 

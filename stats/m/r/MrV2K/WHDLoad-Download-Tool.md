@@ -1,10 +1,10 @@
 # MrV2K/WHDLoad-Download-Tool - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/MrV2K/WHDLoad-Download-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 61 | 4 | 
 | 2023-02-03 | 60 | 4 | 
 | 2023-02-02 | 60 | 4 | 
 | 2023-02-01 | 60 | 4 | 

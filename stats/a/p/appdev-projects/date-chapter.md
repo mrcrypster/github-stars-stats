@@ -1,6 +1,6 @@
 # appdev-projects/date-chapter - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 758
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | - | 758 | 
 | 2023-02-03 | - | 758 | 
 | 2023-02-02 | - | 758 | 
 | 2023-02-01 | - | 757 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | - | 674 | 
 | 2023-01-07 | - | 674 | 
 | 2023-01-06 | - | 674 | 
-| 2023-01-05 | - | 674 | 
 

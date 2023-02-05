@@ -1,10 +1,10 @@
 # liaozhelin/yds-charger - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 98
 
-★ Stars: 426
+★ Stars: 427
 
 [Open repository](https://github.com/liaozhelin/yds-charger)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 427 | 98 | 
 | 2023-02-03 | 426 | 98 | 
 | 2023-02-02 | 426 | 98 | 
 | 2023-02-01 | 425 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 418 | 96 | 
 | 2023-01-07 | 418 | 96 | 
 | 2023-01-06 | 418 | 96 | 
-| 2023-01-05 | 417 | 95 | 
 

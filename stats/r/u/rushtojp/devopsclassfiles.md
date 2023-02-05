@@ -1,6 +1,6 @@
 # rushtojp/devopsclassfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 369
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 21 | 369 | 
 | 2023-02-03 | 21 | 369 | 
 | 2023-02-02 | 21 | 368 | 
 | 2023-01-31 | 21 | 367 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 20 | 355 | 
 | 2023-01-07 | 20 | 355 | 
 | 2023-01-06 | 20 | 354 | 
-| 2023-01-05 | 20 | 353 | 
 

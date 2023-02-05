@@ -1,10 +1,10 @@
 # tuhinmallick/InsiderTrader - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 30
 
-★ Stars: 6
+★ Stars: 3
 
 [Open repository](https://github.com/tuhinmallick/InsiderTrader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3 | 30 | 
 | 2023-02-03 | 6 | 30 | 
 | 2023-02-02 | 6 | 30 | 
 | 2023-02-01 | 6 | 30 | 

@@ -1,10 +1,10 @@
 # fluent/fluentd-kubernetes-daemonset - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 956
+☋ Forks: 957
 
-★ Stars: 1144
+★ Stars: 1143
 
 [Open repository](https://github.com/fluent/fluentd-kubernetes-daemonset)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1143 | 957 | 
 | 2023-02-03 | 1144 | 956 | 
 | 2023-02-02 | 1144 | 956 | 
 | 2023-01-31 | 1144 | 956 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 1140 | 951 | 
 | 2023-01-07 | 1140 | 950 | 
 | 2023-01-06 | 1140 | 950 | 
-| 2023-01-05 | 1140 | 950 | 
 

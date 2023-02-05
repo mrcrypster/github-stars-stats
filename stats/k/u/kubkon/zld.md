@@ -1,10 +1,10 @@
 # kubkon/zld - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/kubkon/zld)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 143 | 10 | 
 | 2023-02-03 | 142 | 10 | 
 | 2023-02-02 | 142 | 10 | 
 | 2023-02-01 | 142 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 141 | 10 | 
 | 2023-01-07 | 141 | 10 | 
 | 2023-01-06 | 141 | 10 | 
-| 2023-01-05 | 141 | 10 | 
 

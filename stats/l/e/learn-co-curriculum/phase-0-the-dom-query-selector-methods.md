@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-0-the-dom-query-selector-methods - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
-☋ Forks: 805
+☋ Forks: 806
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2 | 806 | 
 | 2023-02-03 | 2 | 805 | 
 | 2023-02-02 | 2 | 803 | 
 | 2023-02-01 | 2 | 803 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2 | 770 | 
 | 2023-01-07 | 2 | 770 | 
 | 2023-01-06 | 2 | 770 | 
-| 2023-01-05 | 2 | 770 | 
 

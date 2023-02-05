@@ -1,10 +1,10 @@
 # keepassxreboot/keepassxc - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1170
 
-★ Stars: 14944
+★ Stars: 14953
 
 [Open repository](https://github.com/keepassxreboot/keepassxc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 14953 | 1170 | 
 | 2023-02-04 | 14944 | 1170 | 
 | 2023-02-02 | 14935 | 1170 | 
 | 2023-02-01 | 14924 | 1169 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-08 | 14724 | 1159 | 
 | 2023-01-07 | 14717 | 1158 | 
 | 2023-01-06 | 14704 | 1157 | 
-| 2023-01-05 | 14694 | 1157 | 
 

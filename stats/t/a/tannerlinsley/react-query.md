@@ -1,10 +1,10 @@
 # tannerlinsley/react-query - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 2054
+☋ Forks: 2057
 
-★ Stars: 32731
+★ Stars: 32761
 
 [Open repository](https://github.com/tannerlinsley/react-query)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 32761 | 2057 | 
 | 2023-02-03 | 32731 | 2054 | 
 | 2023-02-02 | 32704 | 2050 | 
 | 2023-02-01 | 32675 | 2043 | 

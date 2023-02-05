@@ -1,6 +1,6 @@
 # LMP88959/NTSC-CRT - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 333 | 16 | 
 | 2023-02-03 | 333 | 16 | 
 | 2023-02-02 | 332 | 16 | 
 | 2023-02-01 | 331 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 296 | 14 | 
 | 2023-01-07 | 294 | 14 | 
 | 2023-01-06 | 293 | 14 | 
-| 2023-01-05 | 292 | 14 | 
 

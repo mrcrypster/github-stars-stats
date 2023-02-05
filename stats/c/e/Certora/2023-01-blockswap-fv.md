@@ -1,8 +1,8 @@
 # Certora/2023-01-blockswap-fv - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3 | 13 | 
 | 2023-02-03 | 3 | 12 | 
 | 2023-02-02 | 3 | 12 | 
 

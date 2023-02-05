@@ -1,6 +1,6 @@
 # outfoxx/PotentCodables - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 39 | 9 | 
 | 2023-02-03 | 39 | 9 | 
 | 2023-02-02 | 39 | 9 | 
 | 2023-01-31 | 39 | 9 | 

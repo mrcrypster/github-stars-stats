@@ -1,10 +1,10 @@
 # lgwebdream/FE-Interview - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 850
+☋ Forks: 852
 
-★ Stars: 5990
+★ Stars: 5993
 
 [Open repository](https://github.com/lgwebdream/FE-Interview)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5993 | 852 | 
 | 2023-02-03 | 5990 | 850 | 
 | 2023-02-02 | 5987 | 850 | 
 | 2023-02-01 | 5981 | 850 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 5923 | 844 | 
 | 2023-01-07 | 5922 | 843 | 
 | 2023-01-06 | 5917 | 843 | 
-| 2023-01-05 | 5917 | 842 | 
 

@@ -1,10 +1,10 @@
 # sim642/odep - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/sim642/odep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 20 | - | 
 | 2023-02-03 | 19 | - | 
 | 2023-02-02 | 19 | - | 
 | 2023-02-01 | 19 | - | 

@@ -1,10 +1,10 @@
 # adrianhajdin/project_travel_advisor - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 356
 
-★ Stars: 1594
+★ Stars: 1595
 
 [Open repository](https://github.com/adrianhajdin/project_travel_advisor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1595 | 356 | 
 | 2023-02-03 | 1594 | 356 | 
 | 2023-02-02 | 1594 | 355 | 
 | 2023-02-01 | 1593 | 356 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1573 | 353 | 
 | 2023-01-07 | 1570 | 351 | 
 | 2023-01-06 | 1569 | 351 | 
-| 2023-01-05 | 1568 | 350 | 
 

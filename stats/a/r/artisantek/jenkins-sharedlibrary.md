@@ -1,8 +1,8 @@
 # artisantek/jenkins-sharedlibrary - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | - | 13 | 
 | 2023-02-03 | - | 12 | 
 | 2023-02-02 | - | 12 | 
 | 2023-02-01 | - | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | - | 9 | 
 | 2023-01-07 | - | 9 | 
 | 2023-01-06 | - | 9 | 
-| 2023-01-05 | - | 9 | 
 

@@ -1,10 +1,10 @@
 # readysettech/readyset - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 39
 
-★ Stars: 1831
+★ Stars: 1832
 
 [Open repository](https://github.com/readysettech/readyset)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1832 | 39 | 
 | 2023-02-03 | 1831 | 39 | 
 | 2023-02-02 | 1828 | 39 | 
 | 2023-02-01 | 1827 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1736 | 37 | 
 | 2023-01-07 | 1732 | 37 | 
 | 2023-01-06 | 1730 | 36 | 
-| 2023-01-05 | 1724 | 36 | 
 

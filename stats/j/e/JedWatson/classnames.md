@@ -1,10 +1,10 @@
 # JedWatson/classnames - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 570
 
-★ Stars: 16372
+★ Stars: 16375
 
 [Open repository](https://github.com/JedWatson/classnames)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 16375 | 570 | 
 | 2023-02-03 | 16372 | 570 | 
 | 2023-02-02 | 16370 | 570 | 
 | 2023-02-01 | 16365 | 569 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 16289 | 565 | 
 | 2023-01-07 | 16285 | 565 | 
 | 2023-01-06 | 16283 | 564 | 
-| 2023-01-05 | 16280 | 564 | 
 

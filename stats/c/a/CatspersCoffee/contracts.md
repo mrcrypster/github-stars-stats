@@ -1,10 +1,10 @@
 # CatspersCoffee/contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 26
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/CatspersCoffee/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 15 | 26 | 
 | 2023-02-03 | 14 | 26 | 
 | 2023-02-02 | 14 | 26 | 
 | 2023-02-01 | 14 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 10 | 26 | 
 | 2023-01-07 | 10 | 26 | 
 | 2023-01-06 | 10 | 26 | 
-| 2023-01-05 | 10 | 26 | 
 

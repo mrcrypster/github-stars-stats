@@ -1,10 +1,10 @@
 # gi11es/equal-pay-for-equal-work - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/gi11es/equal-pay-for-equal-work)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 439 | 9 | 
 | 2023-02-03 | 438 | 9 | 
 | 2023-02-02 | 438 | 9 | 
 | 2023-02-01 | 438 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 425 | 9 | 
 | 2023-01-07 | 425 | 9 | 
 | 2023-01-06 | 425 | 9 | 
-| 2023-01-05 | 425 | 9 | 
 

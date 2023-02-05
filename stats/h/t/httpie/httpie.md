@@ -1,10 +1,10 @@
 # httpie/httpie - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 3745
+☋ Forks: 3746
 
-★ Stars: 26225
+★ Stars: 26232
 
 [Open repository](https://github.com/httpie/httpie)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 26232 | 3746 | 
 | 2023-02-03 | 26225 | 3745 | 
 | 2023-02-02 | 26202 | 3743 | 
 | 2023-02-01 | 26188 | 3743 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 25670 | 3733 | 
 | 2023-01-07 | 25622 | 3731 | 
 | 2023-01-06 | 25610 | 3729 | 
-| 2023-01-05 | 25462 | 3726 | 
 

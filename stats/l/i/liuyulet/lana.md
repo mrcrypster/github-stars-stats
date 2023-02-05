@@ -1,10 +1,10 @@
 # liuyulet/lana - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 29
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/liuyulet/lana)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 139 | 29 | 
 | 2023-02-03 | 138 | 29 | 
 | 2023-02-02 | 138 | 29 | 
 | 2023-02-01 | 138 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 57 | 19 | 
 | 2023-01-07 | 57 | 19 | 
 | 2023-01-06 | 57 | 19 | 
-| 2023-01-05 | 57 | 19 | 
 

@@ -1,10 +1,10 @@
 # adrianhajdin/project_hoobank - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 479
+☋ Forks: 482
 
-★ Stars: 1308
+★ Stars: 1315
 
 [Open repository](https://github.com/adrianhajdin/project_hoobank)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1315 | 482 | 
 | 2023-02-03 | 1308 | 479 | 
 | 2023-02-02 | 1305 | 473 | 
 | 2023-02-01 | 1298 | 471 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1178 | 412 | 
 | 2023-01-07 | 1168 | 410 | 
 | 2023-01-06 | 1164 | 408 | 
-| 2023-01-05 | 1160 | 409 | 
 

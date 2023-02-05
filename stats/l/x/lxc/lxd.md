@@ -1,10 +1,10 @@
 # lxc/lxd - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 823
 
-★ Stars: 3668
+★ Stars: 3673
 
 [Open repository](https://github.com/lxc/lxd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3673 | 823 | 
 | 2023-02-03 | 3668 | 823 | 
 | 2023-02-02 | 3666 | 821 | 
 | 2023-02-01 | 3665 | 821 | 

@@ -1,10 +1,10 @@
 # erusev/parsedown - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1091
 
-★ Stars: 14315
+★ Stars: 14316
 
 [Open repository](https://github.com/erusev/parsedown)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 14316 | 1091 | 
 | 2023-02-03 | 14315 | 1091 | 
 | 2023-02-01 | 14314 | 1091 | 
 | 2023-01-31 | 14314 | 1091 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 14298 | 1092 | 
 | 2023-01-07 | 14296 | 1093 | 
 | 2023-01-06 | 14294 | 1093 | 
-| 2023-01-05 | 14292 | 1093 | 
 

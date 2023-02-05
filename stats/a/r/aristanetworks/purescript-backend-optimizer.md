@@ -1,10 +1,10 @@
 # aristanetworks/purescript-backend-optimizer - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/aristanetworks/purescript-backend-optimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 140 | 6 | 
 | 2023-02-03 | 139 | 6 | 
 | 2023-02-02 | 139 | 6 | 
 | 2023-02-01 | 139 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 137 | 7 | 
 | 2023-01-07 | 136 | 7 | 
 | 2023-01-06 | 136 | 7 | 
-| 2023-01-05 | 136 | 7 | 
 

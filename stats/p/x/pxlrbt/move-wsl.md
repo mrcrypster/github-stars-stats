@@ -1,10 +1,10 @@
 # pxlrbt/move-wsl - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 110
 
-★ Stars: 985
+★ Stars: 986
 
 [Open repository](https://github.com/pxlrbt/move-wsl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 986 | 110 | 
 | 2023-02-03 | 985 | 110 | 
 | 2023-02-02 | 983 | 110 | 
 | 2023-02-01 | 982 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 966 | 106 | 
 | 2023-01-07 | 965 | 106 | 
 | 2023-01-06 | 965 | 106 | 
-| 2023-01-05 | 965 | 106 | 
 

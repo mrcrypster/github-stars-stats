@@ -1,10 +1,10 @@
 # AdrianLopezGue/daruma-frontend - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/AdrianLopezGue/daruma-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 34 | 38 | 
 | 2023-02-03 | 33 | 37 | 
 | 2023-02-02 | 33 | 37 | 
 | 2023-02-01 | 33 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 31 | 37 | 
 | 2023-01-08 | 31 | 37 | 
 | 2023-01-06 | 31 | 37 | 
-| 2023-01-05 | 31 | 37 | 
 

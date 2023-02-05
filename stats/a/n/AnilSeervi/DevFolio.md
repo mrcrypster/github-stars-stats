@@ -1,6 +1,6 @@
 # AnilSeervi/DevFolio - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 170 | 55 | 
 | 2023-02-03 | 170 | 55 | 
 | 2023-02-02 | 170 | 55 | 
 | 2023-01-31 | 170 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 155 | 51 | 
 | 2023-01-07 | 155 | 51 | 
 | 2023-01-06 | 154 | 51 | 
-| 2023-01-05 | 154 | 50 | 
 

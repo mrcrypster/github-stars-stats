@@ -1,10 +1,10 @@
 # notepad-plus-plus/notepad-plus-plus - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 3985
+☋ Forks: 3986
 
-★ Stars: 18501
+★ Stars: 18514
 
 [Open repository](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 18514 | 3986 | 
 | 2023-02-03 | 18501 | 3985 | 
 | 2023-02-02 | 18485 | 3986 | 
 | 2023-02-01 | 18453 | 3982 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 18127 | 3927 | 
 | 2023-01-07 | 18120 | 3924 | 
 | 2023-01-06 | 18114 | 3925 | 
-| 2023-01-05 | 18108 | 3925 | 
 

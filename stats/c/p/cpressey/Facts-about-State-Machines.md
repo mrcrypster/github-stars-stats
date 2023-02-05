@@ -1,6 +1,6 @@
 # cpressey/Facts-about-State-Machines - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 692 | 15 | 
 | 2023-02-03 | 692 | 15 | 
 | 2023-02-02 | 692 | 15 | 
 | 2023-02-01 | 692 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 683 | 15 | 
 | 2023-01-07 | 682 | 15 | 
 | 2023-01-06 | 682 | 15 | 
-| 2023-01-05 | 681 | 15 | 
 

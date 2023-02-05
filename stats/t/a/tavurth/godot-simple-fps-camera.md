@@ -1,6 +1,6 @@
 # tavurth/godot-simple-fps-camera - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 39 | 6 | 
 | 2023-02-03 | 39 | 6 | 
 | 2023-02-02 | 39 | 6 | 
 | 2023-01-31 | 39 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 37 | 6 | 
 | 2023-01-07 | 37 | 6 | 
 | 2023-01-06 | 36 | 6 | 
-| 2023-01-05 | 36 | 6 | 
 

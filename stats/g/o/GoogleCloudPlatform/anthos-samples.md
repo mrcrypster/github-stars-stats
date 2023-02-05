@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/anthos-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 67 | 92 | 
 | 2023-02-03 | 67 | 92 | 
 | 2023-02-02 | 67 | 92 | 
 | 2023-01-31 | 67 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 66 | 89 | 
 | 2023-01-07 | 66 | 89 | 
 | 2023-01-06 | 66 | 89 | 
-| 2023-01-05 | 66 | 89 | 
 

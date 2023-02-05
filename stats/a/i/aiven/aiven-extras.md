@@ -1,6 +1,6 @@
 # aiven/aiven-extras - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 12 | 7 | 
 | 2023-02-03 | 12 | 7 | 
 | 2023-02-02 | 12 | 7 | 
 | 2023-01-31 | 12 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 12 | 7 | 
 | 2023-01-07 | 12 | 7 | 
 | 2023-01-06 | 12 | 7 | 
-| 2023-01-05 | 12 | 7 | 
 

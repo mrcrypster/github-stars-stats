@@ -1,10 +1,10 @@
 # pages-themes/cayman - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 2806
+☋ Forks: 2809
 
-★ Stars: 965
+★ Stars: 970
 
 [Open repository](https://github.com/pages-themes/cayman)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 970 | 2809 | 
 | 2023-02-03 | 965 | 2806 | 
 | 2023-02-02 | 965 | 2806 | 
 | 2023-02-01 | 965 | 2805 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 957 | 2786 | 
 | 2023-01-07 | 957 | 2786 | 
 | 2023-01-06 | 956 | 2784 | 
-| 2023-01-05 | 956 | 2784 | 
 

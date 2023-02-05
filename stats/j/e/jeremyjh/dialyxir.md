@@ -1,6 +1,6 @@
 # jeremyjh/dialyxir - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1510 | 125 | 
 | 2023-02-03 | 1510 | 125 | 
 | 2023-02-02 | 1510 | 125 | 
 | 2023-02-01 | 1510 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1508 | 124 | 
 | 2023-01-07 | 1507 | 124 | 
 | 2023-01-06 | 1507 | 124 | 
-| 2023-01-05 | 1506 | 124 | 
 

@@ -1,6 +1,6 @@
 # benwr/soanm - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 41 | - | 
 | 2023-02-03 | 41 | - | 
 | 2023-02-02 | 41 | - | 
 | 2023-02-01 | 41 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 42 | - | 
 | 2023-01-07 | 41 | - | 
 | 2023-01-06 | 41 | - | 
-| 2023-01-05 | 41 | - | 
 

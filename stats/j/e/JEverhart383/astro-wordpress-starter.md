@@ -1,8 +1,8 @@
 # JEverhart383/astro-wordpress-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 40 | 2 | 
 | 2023-02-03 | 40 | 1 | 
 | 2023-02-02 | 40 | 1 | 
 | 2023-02-01 | 39 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 29 | - | 
 | 2023-01-08 | 29 | - | 
 | 2023-01-06 | 29 | - | 
-| 2023-01-05 | 29 | - | 
 

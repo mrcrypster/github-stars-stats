@@ -1,6 +1,6 @@
 # VicaYang/THU-Exam-LaTeX-Template - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 21 | 2 | 
 | 2023-02-03 | 21 | 2 | 
 | 2023-02-02 | 21 | 2 | 
 | 2023-02-01 | 21 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 21 | 1 | 
 | 2023-01-08 | 21 | 1 | 
 | 2023-01-07 | 21 | 1 | 
-| 2023-01-06 | 21 | 1 | 
 

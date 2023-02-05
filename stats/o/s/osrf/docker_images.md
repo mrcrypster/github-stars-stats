@@ -1,10 +1,10 @@
 # osrf/docker_images - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 142
 
-★ Stars: 372
+★ Stars: 373
 
 [Open repository](https://github.com/osrf/docker_images)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 373 | 142 | 
 | 2023-02-03 | 372 | 142 | 
 | 2023-02-02 | 371 | 142 | 
 | 2023-02-01 | 370 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 366 | 141 | 
 | 2023-01-07 | 366 | 141 | 
 | 2023-01-06 | 366 | 141 | 
-| 2023-01-05 | 366 | 141 | 
 

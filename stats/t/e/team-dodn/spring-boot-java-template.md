@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 51
+★ Stars: 56
 
 [Open repository](https://github.com/team-dodn/spring-boot-java-template)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-04 | 51 | 6 | 
+| 2023-02-04 | 56 | 6 | 
 | 2023-02-03 | 51 | 6 | 
 

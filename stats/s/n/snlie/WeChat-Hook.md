@@ -1,10 +1,10 @@
 # snlie/WeChat-Hook - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 152
 
-★ Stars: 369
+★ Stars: 371
 
 [Open repository](https://github.com/snlie/WeChat-Hook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 371 | 152 | 
 | 2023-02-03 | 369 | 152 | 
 | 2023-02-02 | 367 | 150 | 
 | 2023-02-01 | 362 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 332 | 141 | 
 | 2023-01-08 | 333 | 141 | 
 | 2023-01-07 | 331 | 141 | 
-| 2023-01-06 | 331 | 141 | 
 

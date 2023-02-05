@@ -1,6 +1,6 @@
 # bitwalker/timex - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1648 | 355 | 
 | 2023-02-03 | 1648 | 355 | 
 | 2023-02-02 | 1647 | 355 | 
 | 2023-02-01 | 1647 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 1638 | 355 | 
 | 2023-01-07 | 1638 | 355 | 
 | 2023-01-06 | 1638 | 355 | 
-| 2023-01-05 | 1638 | 355 | 
 

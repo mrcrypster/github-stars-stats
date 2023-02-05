@@ -1,10 +1,10 @@
 # JetBrains/intellij-platform-plugin-template - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 388
+☋ Forks: 389
 
-★ Stars: 1980
+★ Stars: 1981
 
 [Open repository](https://github.com/JetBrains/intellij-platform-plugin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1981 | 389 | 
 | 2023-02-03 | 1980 | 388 | 
 | 2023-02-02 | 1980 | 388 | 
 | 2023-02-01 | 1981 | 386 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1930 | 375 | 
 | 2023-01-07 | 1930 | 375 | 
 | 2023-01-06 | 1929 | 373 | 
-| 2023-01-05 | 1927 | 373 | 
 

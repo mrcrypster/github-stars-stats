@@ -1,6 +1,6 @@
 # noraj/OSCP-Exam-Report-Template-Markdown - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 639
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2714 | 639 | 
 | 2023-02-03 | 2714 | 639 | 
 | 2023-02-02 | 2712 | 640 | 
 | 2023-02-01 | 2710 | 640 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 2672 | 634 | 
 | 2023-01-07 | 2671 | 633 | 
 | 2023-01-06 | 2666 | 633 | 
-| 2023-01-05 | 2662 | 633 | 
 

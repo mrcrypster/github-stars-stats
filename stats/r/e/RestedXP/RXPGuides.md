@@ -1,6 +1,6 @@
 # RestedXP/RXPGuides - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 68 | 35 | 
 | 2023-02-03 | 68 | 35 | 
 | 2023-02-01 | 68 | 35 | 
 | 2023-01-31 | 68 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 69 | 35 | 
 | 2023-01-07 | 69 | 35 | 
 | 2023-01-06 | 69 | 35 | 
-| 2023-01-05 | 69 | 35 | 
 

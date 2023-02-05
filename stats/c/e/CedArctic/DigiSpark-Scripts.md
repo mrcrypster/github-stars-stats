@@ -1,6 +1,6 @@
 # CedArctic/DigiSpark-Scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 555
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1428 | 555 | 
 | 2023-02-03 | 1428 | 555 | 
 | 2023-02-02 | 1426 | 553 | 
 | 2023-02-01 | 1426 | 553 | 

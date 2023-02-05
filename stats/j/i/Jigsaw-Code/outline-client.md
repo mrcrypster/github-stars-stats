@@ -1,8 +1,8 @@
 # Jigsaw-Code/outline-client - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 1264
+☋ Forks: 1265
 
 ★ Stars: 7416
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 7416 | 1265 | 
 | 2023-02-03 | 7416 | 1264 | 
 | 2023-02-02 | 7413 | 1264 | 
 | 2023-02-01 | 7411 | 1263 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 7364 | 1260 | 
 | 2023-01-07 | 7363 | 1260 | 
 | 2023-01-06 | 7354 | 1260 | 
-| 2023-01-05 | 7352 | 1259 | 
 

@@ -1,10 +1,10 @@
 # BDHU/minimalist - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/BDHU/minimalist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 72 | 89 | 
 | 2023-02-03 | 70 | 88 | 
 | 2023-02-02 | 70 | 88 | 
 | 2023-02-01 | 70 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 69 | 82 | 
 | 2023-01-07 | 69 | 82 | 
 | 2023-01-06 | 69 | 82 | 
-| 2023-01-05 | 69 | 82 | 
 

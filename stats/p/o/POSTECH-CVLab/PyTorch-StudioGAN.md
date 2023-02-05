@@ -1,10 +1,10 @@
 # POSTECH-CVLab/PyTorch-StudioGAN - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 295
 
-★ Stars: 3068
+★ Stars: 3069
 
 [Open repository](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3069 | 295 | 
 | 2023-02-03 | 3068 | 295 | 
 | 2023-02-02 | 3067 | 295 | 
 | 2023-02-01 | 3064 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 3048 | 294 | 
 | 2023-01-07 | 3049 | 293 | 
 | 2023-01-06 | 3049 | 293 | 
-| 2023-01-05 | 3050 | 294 | 
 

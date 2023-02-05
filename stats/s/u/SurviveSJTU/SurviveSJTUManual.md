@@ -1,10 +1,10 @@
 # SurviveSJTU/SurviveSJTUManual - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 261
 
-★ Stars: 1911
+★ Stars: 1913
 
 [Open repository](https://github.com/SurviveSJTU/SurviveSJTUManual)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1913 | 261 | 
 | 2023-02-03 | 1911 | 261 | 
 | 2023-02-02 | 1908 | 260 | 
 | 2023-02-01 | 1904 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1791 | 242 | 
 | 2023-01-07 | 1784 | 242 | 
 | 2023-01-06 | 1782 | 241 | 
-| 2023-01-05 | 1778 | 241 | 
 

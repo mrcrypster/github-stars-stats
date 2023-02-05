@@ -1,10 +1,10 @@
 # Ruzim/NSFC-application-template-latex - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 71
 
-★ Stars: 347
+★ Stars: 349
 
 [Open repository](https://github.com/Ruzim/NSFC-application-template-latex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 349 | 71 | 
 | 2023-02-03 | 347 | 71 | 
 | 2023-02-02 | 344 | 70 | 
 | 2023-02-01 | 343 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 269 | 58 | 
 | 2023-01-07 | 263 | 56 | 
 | 2023-01-06 | 250 | 55 | 
-| 2023-01-05 | 225 | 51 | 
 

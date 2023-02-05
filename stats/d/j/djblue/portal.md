@@ -1,10 +1,10 @@
 # djblue/portal - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 61
 
-★ Stars: 680
+★ Stars: 681
 
 [Open repository](https://github.com/djblue/portal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 681 | 61 | 
 | 2023-02-03 | 680 | 61 | 
 | 2023-02-02 | 679 | 61 | 
 | 2023-02-01 | 678 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 665 | 60 | 
 | 2023-01-07 | 665 | 60 | 
 | 2023-01-06 | 665 | 60 | 
-| 2023-01-05 | 664 | 60 | 
 

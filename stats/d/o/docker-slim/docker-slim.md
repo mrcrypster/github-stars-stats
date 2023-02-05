@@ -1,10 +1,10 @@
 # docker-slim/docker-slim - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 607
+☋ Forks: 608
 
-★ Stars: 16070
+★ Stars: 16076
 
 [Open repository](https://github.com/docker-slim/docker-slim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 16076 | 608 | 
 | 2023-02-03 | 16070 | 607 | 
 | 2023-02-02 | 16059 | 607 | 
 | 2023-02-01 | 16059 | 607 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 15834 | 598 | 
 | 2023-01-07 | 15808 | 597 | 
 | 2023-01-06 | 15786 | 596 | 
-| 2023-01-05 | 15734 | 593 | 
 

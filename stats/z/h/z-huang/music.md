@@ -1,8 +1,8 @@
 # z-huang/music - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 74
+☋ Forks: 73
 
 ★ Stars: 957
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 957 | 73 | 
 | 2023-02-03 | 957 | 74 | 
 | 2023-02-02 | 953 | 74 | 
 | 2023-02-01 | 946 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 867 | 65 | 
 | 2023-01-07 | 863 | 64 | 
 | 2023-01-06 | 859 | 64 | 
-| 2023-01-05 | 853 | 63 | 
 

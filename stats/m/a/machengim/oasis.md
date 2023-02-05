@@ -1,10 +1,10 @@
 # machengim/oasis - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/machengim/oasis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 246 | 8 | 
 | 2023-02-03 | 245 | 8 | 
 | 2023-02-02 | 245 | 8 | 
 | 2023-02-01 | 244 | 8 | 

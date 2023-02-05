@@ -1,8 +1,8 @@
 # kevwan/tproxy - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 179
+☋ Forks: 180
 
 ★ Stars: 2567
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2567 | 180 | 
 | 2023-02-03 | 2567 | 179 | 
 | 2023-02-02 | 2567 | 179 | 
 | 2023-02-01 | 2567 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2550 | 177 | 
 | 2023-01-07 | 2550 | 177 | 
 | 2023-01-06 | 2550 | 177 | 
-| 2023-01-05 | 2550 | 177 | 
 

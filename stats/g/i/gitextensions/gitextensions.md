@@ -1,10 +1,10 @@
 # gitextensions/gitextensions - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1986
 
-★ Stars: 6770
+★ Stars: 6771
 
 [Open repository](https://github.com/gitextensions/gitextensions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 6771 | 1986 | 
 | 2023-02-03 | 6770 | 1986 | 
 | 2023-02-02 | 6769 | 1986 | 
 | 2023-02-01 | 6764 | 1984 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 6713 | 1978 | 
 | 2023-01-07 | 6712 | 1978 | 
 | 2023-01-06 | 6710 | 1978 | 
-| 2023-01-05 | 6707 | 1977 | 
 

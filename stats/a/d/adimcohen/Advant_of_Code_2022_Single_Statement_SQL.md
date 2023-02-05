@@ -1,6 +1,6 @@
 # adimcohen/Advant_of_Code_2022_Single_Statement_SQL - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5 | - | 
 | 2023-02-03 | 5 | - | 
 | 2023-02-02 | 5 | - | 
 | 2023-02-01 | 5 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 4 | - | 
 | 2023-01-07 | 4 | - | 
 | 2023-01-06 | 4 | - | 
-| 2023-01-05 | 4 | - | 
 

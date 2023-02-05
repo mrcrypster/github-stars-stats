@@ -1,6 +1,6 @@
 # astrosites/template - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 402
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 7 | 402 | 
 | 2023-02-03 | 7 | 402 | 
 | 2023-02-02 | 7 | 402 | 
 | 2023-02-01 | 7 | 403 | 

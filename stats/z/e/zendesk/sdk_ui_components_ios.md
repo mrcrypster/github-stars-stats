@@ -1,6 +1,6 @@
 # zendesk/sdk_ui_components_ios - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2 | 1 | 
 | 2023-02-03 | 2 | 1 | 
 | 2023-02-02 | 2 | 1 | 
 | 2023-02-01 | 2 | 1 | 

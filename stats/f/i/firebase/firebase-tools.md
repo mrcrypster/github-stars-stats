@@ -1,10 +1,10 @@
 # firebase/firebase-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 846
+☋ Forks: 845
 
-★ Stars: 3629
+★ Stars: 3627
 
 [Open repository](https://github.com/firebase/firebase-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3627 | 845 | 
 | 2023-02-03 | 3629 | 846 | 
 | 2023-02-02 | 3628 | 845 | 
 | 2023-02-01 | 3628 | 843 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 3606 | 833 | 
 | 2023-01-07 | 3604 | 831 | 
 | 2023-01-06 | 3603 | 829 | 
-| 2023-01-05 | 3601 | 829 | 
 

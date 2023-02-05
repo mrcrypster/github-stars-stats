@@ -1,6 +1,6 @@
 # stassa/nests-and-insects - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 47 | 2 | 
 | 2023-02-03 | 47 | 2 | 
 | 2023-02-01 | 47 | 2 | 
 | 2023-01-31 | 47 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 48 | 2 | 
 | 2023-01-07 | 48 | 2 | 
 | 2023-01-06 | 48 | 2 | 
-| 2023-01-05 | 48 | 2 | 
 

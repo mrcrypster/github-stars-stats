@@ -1,6 +1,6 @@
 # pantelis/data-mining - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 24 | 9 | 
 | 2023-02-03 | 24 | 9 | 
 | 2023-02-02 | 24 | 8 | 
 | 2023-02-01 | 24 | 8 | 

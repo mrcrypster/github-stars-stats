@@ -1,6 +1,6 @@
 # hellodigua/vue-danmaku - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 279 | 41 | 
 | 2023-02-03 | 279 | 41 | 
 | 2023-02-02 | 278 | 41 | 
 | 2023-01-31 | 277 | 41 | 

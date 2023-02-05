@@ -1,6 +1,6 @@
 # MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 751
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 381 | 751 | 
 | 2023-02-03 | 381 | 751 | 
 | 2023-02-02 | 381 | 751 | 
 | 2023-02-01 | 382 | 746 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 376 | 724 | 
 | 2023-01-07 | 376 | 724 | 
 | 2023-01-06 | 376 | 724 | 
-| 2023-01-05 | 376 | 724 | 
 

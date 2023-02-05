@@ -1,6 +1,6 @@
 # katafrakt/zig-ruby - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 45 | - | 
 | 2023-02-03 | 45 | - | 
 | 2023-02-02 | 45 | - | 
 | 2023-01-31 | 45 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 34 | - | 
 | 2023-01-07 | 33 | - | 
 | 2023-01-06 | 31 | - | 
-| 2023-01-05 | 30 | - | 
 

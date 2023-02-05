@@ -1,10 +1,10 @@
 # Hamza417/Inure - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/Hamza417/Inure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 374 | 24 | 
 | 2023-02-03 | 373 | 25 | 
 | 2023-02-02 | 368 | 25 | 
 | 2023-02-01 | 362 | 25 | 

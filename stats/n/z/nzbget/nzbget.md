@@ -1,10 +1,10 @@
 # nzbget/nzbget - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 175
 
-★ Stars: 1126
+★ Stars: 1127
 
 [Open repository](https://github.com/nzbget/nzbget)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1127 | 175 | 
 | 2023-02-03 | 1126 | 175 | 
 | 2023-02-02 | 1125 | 175 | 
 | 2023-02-01 | 1123 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1120 | 174 | 
 | 2023-01-07 | 1121 | 174 | 
 | 2023-01-06 | 1120 | 174 | 
-| 2023-01-05 | 1119 | 173 | 
 

@@ -1,10 +1,10 @@
 # joanhey/AdapterMan - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 297
+★ Stars: 300
 
 [Open repository](https://github.com/joanhey/AdapterMan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 300 | 12 | 
 | 2023-02-03 | 297 | 11 | 
 | 2023-02-02 | 295 | 11 | 
 | 2023-01-31 | 294 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 263 | 9 | 
 | 2023-01-07 | 263 | 9 | 
 | 2023-01-06 | 260 | 9 | 
-| 2023-01-05 | 254 | 9 | 
 

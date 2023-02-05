@@ -1,6 +1,6 @@
 # striderxfossility/tppmodcyberpunk - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 25 | 3 | 
 | 2023-02-03 | 25 | 3 | 
 | 2023-02-02 | 25 | 3 | 
 | 2023-02-01 | 25 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 24 | 3 | 
 | 2023-01-07 | 24 | 3 | 
 | 2023-01-06 | 24 | 3 | 
-| 2023-01-05 | 24 | 3 | 
 

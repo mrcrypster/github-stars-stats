@@ -1,6 +1,6 @@
 # CervantesSec/cervantes - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 181 | 23 | 
 | 2023-02-03 | 181 | 23 | 
 | 2023-02-02 | 181 | 23 | 
 | 2023-02-01 | 181 | 22 | 

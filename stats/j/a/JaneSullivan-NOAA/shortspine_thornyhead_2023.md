@@ -1,10 +1,10 @@
 # JaneSullivan-NOAA/shortspine_thornyhead_2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/JaneSullivan-NOAA/shortspine_thornyhead_2023)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2 | 1 | 
 | 2023-02-03 | 1 | 1 | 
 | 2023-02-02 | 1 | 1 | 
 | 2023-02-01 | 1 | 1 | 

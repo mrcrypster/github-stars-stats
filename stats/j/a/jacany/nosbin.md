@@ -1,10 +1,10 @@
 # jacany/nosbin - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/jacany/nosbin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 24 | - | 
 | 2023-02-03 | 23 | - | 
 | 2023-02-02 | 22 | - | 
 | 2023-02-01 | 22 | - | 

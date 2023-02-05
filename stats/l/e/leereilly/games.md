@@ -1,10 +1,10 @@
 # leereilly/games - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 2712
+☋ Forks: 2711
 
-★ Stars: 20534
+★ Stars: 20542
 
 [Open repository](https://github.com/leereilly/games)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 20542 | 2711 | 
 | 2023-02-03 | 20534 | 2712 | 
 | 2023-02-02 | 20526 | 2712 | 
 | 2023-02-01 | 20522 | 2711 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 20448 | 2703 | 
 | 2023-01-07 | 20444 | 2702 | 
 | 2023-01-06 | 20441 | 2699 | 
-| 2023-01-05 | 20435 | 2699 | 
 

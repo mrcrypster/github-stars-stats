@@ -1,8 +1,8 @@
 # FISH549/pisaster - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 13
+☋ Forks: 15
 
 ★ Stars: 0
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | - | 15 | 
 | 2023-02-03 | - | 13 | 
 

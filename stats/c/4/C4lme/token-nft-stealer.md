@@ -1,10 +1,10 @@
 # C4lme/token-nft-stealer - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 22
 
-★ Stars: 31
+★ Stars: 30
 
 [Open repository](https://github.com/C4lme/token-nft-stealer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 30 | 22 | 
 | 2023-02-03 | 31 | 22 | 
 | 2023-02-02 | 31 | 22 | 
 | 2023-02-01 | 31 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 31 | 21 | 
 | 2023-01-08 | 31 | 21 | 
 | 2023-01-07 | 30 | 21 | 
-| 2023-01-06 | 30 | 21 | 
 

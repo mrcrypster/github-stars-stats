@@ -1,10 +1,10 @@
 # ventoy/Ventoy - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 3190
+☋ Forks: 3192
 
-★ Stars: 44786
+★ Stars: 44824
 
 [Open repository](https://github.com/ventoy/Ventoy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 44824 | 3192 | 
 | 2023-02-03 | 44786 | 3190 | 
 | 2023-02-02 | 44750 | 3190 | 
 | 2023-02-01 | 44709 | 3188 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 43704 | 3127 | 
 | 2023-01-07 | 43537 | 3117 | 
 | 2023-01-06 | 43507 | 3112 | 
-| 2023-01-05 | 43476 | 3111 | 
 

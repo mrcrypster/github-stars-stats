@@ -1,6 +1,6 @@
 # vapor/validation - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 54 | 22 | 
 | 2023-02-03 | 54 | 22 | 
 | 2023-02-02 | 54 | 22 | 
 | 2023-01-31 | 54 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 54 | 22 | 
 | 2023-01-07 | 54 | 22 | 
 | 2023-01-06 | 54 | 22 | 
-| 2023-01-05 | 54 | 22 | 
 

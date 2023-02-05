@@ -1,10 +1,10 @@
 # tobiasahlin/SpinKit - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1847
 
-★ Stars: 19076
+★ Stars: 19081
 
 [Open repository](https://github.com/tobiasahlin/SpinKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 19081 | 1847 | 
 | 2023-02-03 | 19076 | 1847 | 
 | 2023-02-01 | 19076 | 1847 | 
 | 2023-01-31 | 19076 | 1846 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 19055 | 1847 | 
 | 2023-01-07 | 19054 | 1845 | 
 | 2023-01-06 | 19053 | 1844 | 
-| 2023-01-05 | 19053 | 1844 | 
 

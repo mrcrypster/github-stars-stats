@@ -1,6 +1,6 @@
 # vim-autoformat/vim-autoformat - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 174
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2140 | 174 | 
 | 2023-02-03 | 2140 | 174 | 
 | 2023-02-02 | 2140 | 174 | 
 | 2023-02-01 | 2139 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2133 | 174 | 
 | 2023-01-07 | 2133 | 175 | 
 | 2023-01-06 | 2132 | 175 | 
-| 2023-01-05 | 2132 | 175 | 
 

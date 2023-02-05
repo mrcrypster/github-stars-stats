@@ -1,6 +1,6 @@
 # aptos-labs/aptos-networks - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 24 | 24 | 
 | 2023-02-03 | 24 | 24 | 
 | 2023-02-02 | 24 | 24 | 
 | 2023-02-01 | 24 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 23 | 21 | 
 | 2023-01-08 | 23 | 21 | 
 | 2023-01-07 | 23 | 21 | 
-| 2023-01-05 | 23 | 21 | 
 

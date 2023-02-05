@@ -1,8 +1,8 @@
 # SaWooWon/Algorithm_study - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | - | 9 | 
 | 2023-02-03 | - | 8 | 
 | 2023-02-01 | - | 8 | 
 | 2023-01-31 | - | 8 | 

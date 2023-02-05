@@ -1,6 +1,6 @@
 # acmerindex/acmer-info - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 44 | 13 | 
 | 2023-02-03 | 44 | 13 | 
 | 2023-02-02 | 44 | 13 | 
 | 2023-02-01 | 44 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 42 | 10 | 
 | 2023-01-07 | 42 | 10 | 
 | 2023-01-06 | 42 | 10 | 
-| 2023-01-05 | 42 | 10 | 
 

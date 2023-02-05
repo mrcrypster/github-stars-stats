@@ -1,8 +1,8 @@
 # kaysalawu/azure-network-terraform - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 19 | 13 | 
 | 2023-02-03 | 19 | 12 | 
 | 2023-02-02 | 19 | 12 | 
 | 2023-02-01 | 19 | 12 | 

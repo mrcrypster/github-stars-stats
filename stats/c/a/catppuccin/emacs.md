@@ -1,6 +1,6 @@
 # catppuccin/emacs - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 99 | 19 | 
 | 2023-02-03 | 99 | 19 | 
 | 2023-02-02 | 99 | 19 | 
 | 2023-02-01 | 99 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 83 | 14 | 
 | 2023-01-07 | 82 | 14 | 
 | 2023-01-06 | 82 | 13 | 
-| 2023-01-05 | 82 | 13 | 
 

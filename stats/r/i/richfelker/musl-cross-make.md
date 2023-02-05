@@ -1,10 +1,10 @@
 # richfelker/musl-cross-make - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 201
 
-★ Stars: 972
+★ Stars: 973
 
 [Open repository](https://github.com/richfelker/musl-cross-make)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 973 | 201 | 
 | 2023-02-03 | 972 | 201 | 
 | 2023-02-02 | 971 | 201 | 
 | 2023-02-01 | 971 | 201 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 965 | 200 | 
 | 2023-01-07 | 965 | 200 | 
 | 2023-01-06 | 965 | 200 | 
-| 2023-01-05 | 964 | 201 | 
 

@@ -1,8 +1,8 @@
 # cruip/tailwind-dashboard-template - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 372
+☋ Forks: 373
 
 ★ Stars: 1552
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1552 | 373 | 
 | 2023-02-03 | 1552 | 372 | 
 | 2023-02-02 | 1550 | 372 | 
 | 2023-02-01 | 1547 | 372 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 1514 | 358 | 
 | 2023-01-08 | 1513 | 358 | 
 | 2023-01-07 | 1513 | 358 | 
-| 2023-01-06 | 1513 | 358 | 
 

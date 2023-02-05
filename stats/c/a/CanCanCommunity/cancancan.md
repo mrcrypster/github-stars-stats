@@ -1,10 +1,10 @@
 # CanCanCommunity/cancancan - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 606
 
-★ Stars: 5280
+★ Stars: 5282
 
 [Open repository](https://github.com/CanCanCommunity/cancancan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5282 | 606 | 
 | 2023-02-03 | 5280 | 606 | 
 | 2023-02-02 | 5279 | 606 | 
 | 2023-02-01 | 5279 | 605 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 5269 | 600 | 
 | 2023-01-07 | 5271 | 600 | 
 | 2023-01-06 | 5271 | 600 | 
-| 2023-01-05 | 5269 | 600 | 
 

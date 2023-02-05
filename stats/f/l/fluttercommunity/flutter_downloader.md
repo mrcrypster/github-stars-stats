@@ -1,8 +1,8 @@
 # fluttercommunity/flutter_downloader - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 435
+☋ Forks: 436
 
 ★ Stars: 797
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 797 | 436 | 
 | 2023-02-03 | 797 | 435 | 
 | 2023-02-02 | 797 | 433 | 
 | 2023-01-31 | 797 | 433 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 789 | 429 | 
 | 2023-01-08 | 789 | 429 | 
 | 2023-01-07 | 789 | 428 | 
-| 2023-01-05 | 789 | 428 | 
 

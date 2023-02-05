@@ -1,10 +1,10 @@
 # glepnir/lspsaga.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 188
+☋ Forks: 191
 
-★ Stars: 2483
+★ Stars: 2493
 
 [Open repository](https://github.com/glepnir/lspsaga.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2493 | 191 | 
 | 2023-02-03 | 2483 | 188 | 
 | 2023-02-02 | 2481 | 186 | 
 | 2023-02-01 | 2471 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2349 | 163 | 
 | 2023-01-07 | 2347 | 162 | 
 | 2023-01-06 | 2341 | 160 | 
-| 2023-01-05 | 2339 | 160 | 
 

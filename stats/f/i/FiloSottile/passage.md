@@ -1,6 +1,6 @@
 # FiloSottile/passage - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 575 | 27 | 
 | 2023-02-03 | 575 | 27 | 
 | 2023-02-02 | 572 | 26 | 
 | 2023-02-01 | 572 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 540 | 22 | 
 | 2023-01-07 | 538 | 22 | 
 | 2023-01-06 | 537 | 22 | 
-| 2023-01-05 | 535 | 22 | 
 

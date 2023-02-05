@@ -1,6 +1,6 @@
 # SymbiFlow/yosys-f4pga-plugins - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 62 | 38 | 
 | 2023-02-03 | 62 | 38 | 
 | 2023-02-02 | 62 | 38 | 
 | 2023-02-01 | 62 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 61 | 38 | 
 | 2023-01-07 | 61 | 38 | 
 | 2023-01-06 | 61 | 38 | 
-| 2023-01-05 | 61 | 38 | 
 

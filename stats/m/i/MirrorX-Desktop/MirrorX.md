@@ -1,8 +1,8 @@
 # MirrorX-Desktop/MirrorX - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 37
+☋ Forks: 36
 
 ★ Stars: 645
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 645 | 36 | 
 | 2023-02-03 | 645 | 37 | 
 | 2023-02-02 | 645 | 37 | 
 | 2023-02-01 | 644 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 626 | 35 | 
 | 2023-01-07 | 625 | 35 | 
 | 2023-01-06 | 624 | 35 | 
-| 2023-01-05 | 624 | 35 | 
 

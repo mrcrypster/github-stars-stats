@@ -1,10 +1,10 @@
 # SpexGuy/Zig-AoC-Template - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/SpexGuy/Zig-AoC-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 69 | 9 | 
 | 2023-02-03 | 68 | 9 | 
 | 2023-02-02 | 68 | 9 | 
 | 2023-02-01 | 68 | 9 | 

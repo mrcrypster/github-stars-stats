@@ -1,8 +1,8 @@
 # ryansolid/astro-solid-hackernews - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 50 | 7 | 
 | 2023-02-03 | 50 | 8 | 
 | 2023-02-02 | 50 | 8 | 
 | 2023-02-01 | 50 | 8 | 

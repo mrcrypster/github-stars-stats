@@ -1,8 +1,8 @@
 # deepmind/dramatron - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 658
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 658 | 63 | 
 | 2023-02-03 | 658 | 62 | 
 | 2023-02-02 | 654 | 59 | 
 | 2023-02-01 | 652 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 618 | 48 | 
 | 2023-01-07 | 616 | 48 | 
 | 2023-01-06 | 615 | 48 | 
-| 2023-01-05 | 615 | 48 | 
 

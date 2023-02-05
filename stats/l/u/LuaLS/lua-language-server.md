@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 04
 
 ☋ Forks: 192
 
-★ Stars: 1996
+★ Stars: 1997
 
 [Open repository](https://github.com/LuaLS/lua-language-server)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-04 | 1996 | 192 | 
+| 2023-02-04 | 1997 | 192 | 
 | 2023-02-03 | 1996 | 192 | 
 

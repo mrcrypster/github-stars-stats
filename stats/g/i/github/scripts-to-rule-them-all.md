@@ -1,10 +1,10 @@
 # github/scripts-to-rule-them-all - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 266
 
-★ Stars: 2747
+★ Stars: 2751
 
 [Open repository](https://github.com/github/scripts-to-rule-them-all)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2751 | 266 | 
 | 2023-02-03 | 2747 | 266 | 
 | 2023-02-02 | 2744 | 266 | 
 | 2023-02-01 | 2744 | 266 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 2727 | 265 | 
 | 2023-01-08 | 2726 | 264 | 
 | 2023-01-07 | 2726 | 264 | 
-| 2023-01-06 | 2726 | 264 | 
 

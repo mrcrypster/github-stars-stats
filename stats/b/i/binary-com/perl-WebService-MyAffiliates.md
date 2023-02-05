@@ -1,8 +1,8 @@
 # binary-com/perl-WebService-MyAffiliates - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | - | 16 | 
 | 2023-02-03 | - | 15 | 
 | 2023-02-02 | - | 15 | 
 | 2023-02-01 | - | 15 | 

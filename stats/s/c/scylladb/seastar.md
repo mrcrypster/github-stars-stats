@@ -1,10 +1,10 @@
 # scylladb/seastar - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 1389
+☋ Forks: 1390
 
-★ Stars: 7162
+★ Stars: 7163
 
 [Open repository](https://github.com/scylladb/seastar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 7163 | 1390 | 
 | 2023-02-03 | 7162 | 1389 | 
 | 2023-02-02 | 7162 | 1389 | 
 | 2023-02-01 | 7161 | 1389 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 7123 | 1387 | 
 | 2023-01-07 | 7123 | 1387 | 
 | 2023-01-06 | 7121 | 1386 | 
-| 2023-01-05 | 7120 | 1386 | 
 

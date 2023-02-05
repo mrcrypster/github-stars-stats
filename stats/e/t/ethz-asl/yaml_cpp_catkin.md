@@ -1,10 +1,10 @@
 # ethz-asl/yaml_cpp_catkin - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 23
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/ethz-asl/yaml_cpp_catkin)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 6 | 23 | 
+| 2023-02-04 | 5 | 23 | 
 | 2023-02-03 | 5 | 23 | 
 | 2023-02-02 | 5 | 23 | 
 | 2023-02-01 | 5 | 23 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 5 | 23 | 
 | 2023-01-07 | 5 | 23 | 
 | 2023-01-06 | 5 | 23 | 
-| 2023-01-05 | 5 | 23 | 
 

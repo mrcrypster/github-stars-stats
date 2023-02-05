@@ -1,8 +1,8 @@
 # status-im/nimbus-eth2 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 149
+☋ Forks: 150
 
 ★ Stars: 390
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 390 | 150 | 
 | 2023-02-03 | 390 | 149 | 
 | 2023-02-02 | 389 | 147 | 
 | 2023-02-01 | 389 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 378 | 141 | 
 | 2023-01-07 | 377 | 141 | 
 | 2023-01-06 | 375 | 142 | 
-| 2023-01-05 | 375 | 142 | 
 

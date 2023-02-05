@@ -1,10 +1,10 @@
 # simplepleb/laravel-email-templates - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 34
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/simplepleb/laravel-email-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 53 | 34 | 
 | 2023-02-03 | 52 | 34 | 
 | 2023-02-02 | 51 | 33 | 
 | 2023-02-01 | 51 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 46 | 32 | 
 | 2023-01-07 | 46 | 32 | 
 | 2023-01-06 | 46 | 32 | 
-| 2023-01-05 | 46 | 32 | 
 

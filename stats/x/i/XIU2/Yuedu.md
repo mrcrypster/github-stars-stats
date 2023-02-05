@@ -1,10 +1,10 @@
 # XIU2/Yuedu - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 334
 
-★ Stars: 3302
+★ Stars: 3309
 
 [Open repository](https://github.com/XIU2/Yuedu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3309 | 334 | 
 | 2023-02-03 | 3302 | 334 | 
 | 2023-02-02 | 3290 | 332 | 
 | 2023-01-31 | 3283 | 331 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 3169 | 327 | 
 | 2023-01-07 | 3168 | 327 | 
 | 2023-01-06 | 3163 | 327 | 
-| 2023-01-05 | 3154 | 326 | 
 

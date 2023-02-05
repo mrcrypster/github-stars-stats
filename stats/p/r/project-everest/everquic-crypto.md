@@ -1,6 +1,6 @@
 # project-everest/everquic-crypto - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 8 | 5 | 
 | 2023-02-03 | 8 | 5 | 
 | 2023-02-02 | 8 | 5 | 
 | 2023-02-01 | 8 | 5 | 

@@ -1,6 +1,6 @@
 # purescript-halogen/purescript-halogen - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1434 | 214 | 
 | 2023-02-03 | 1434 | 214 | 
 | 2023-02-02 | 1432 | 214 | 
 | 2023-02-01 | 1432 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 1429 | 214 | 
 | 2023-01-08 | 1429 | 214 | 
 | 2023-01-07 | 1429 | 214 | 
-| 2023-01-05 | 1429 | 214 | 
 

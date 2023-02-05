@@ -1,10 +1,10 @@
 # Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 27 | 3 | 
 | 2023-02-03 | 26 | 3 | 
 | 2023-02-02 | 26 | 3 | 
 | 2023-02-01 | 26 | 3 | 

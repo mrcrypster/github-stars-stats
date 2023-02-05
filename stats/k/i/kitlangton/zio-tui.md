@@ -1,6 +1,6 @@
 # kitlangton/zio-tui - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 47 | 6 | 
 | 2023-02-03 | 47 | 6 | 
 | 2023-02-01 | 47 | 6 | 
 | 2023-01-31 | 47 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 47 | 6 | 
 | 2023-01-07 | 47 | 6 | 
 | 2023-01-06 | 47 | 6 | 
-| 2023-01-05 | 47 | 6 | 
 

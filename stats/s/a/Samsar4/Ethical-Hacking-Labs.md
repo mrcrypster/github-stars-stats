@@ -1,10 +1,10 @@
 # Samsar4/Ethical-Hacking-Labs - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 273
+☋ Forks: 274
 
-★ Stars: 1125
+★ Stars: 1130
 
 [Open repository](https://github.com/Samsar4/Ethical-Hacking-Labs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1130 | 274 | 
 | 2023-02-03 | 1125 | 273 | 
 | 2023-02-02 | 1117 | 271 | 
 | 2023-01-31 | 1105 | 269 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 820 | 234 | 
 | 2023-01-07 | 819 | 233 | 
 | 2023-01-06 | 814 | 233 | 
-| 2023-01-05 | 814 | 232 | 
 

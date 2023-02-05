@@ -1,10 +1,10 @@
 # rsubtil/controller_icons - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/rsubtil/controller_icons)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 56 | 7 | 
 | 2023-02-03 | 55 | 7 | 
 | 2023-02-02 | 55 | 7 | 
 | 2023-02-01 | 55 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 46 | 6 | 
 | 2023-01-07 | 44 | 6 | 
 | 2023-01-06 | 44 | 6 | 
-| 2023-01-05 | 44 | 6 | 
 

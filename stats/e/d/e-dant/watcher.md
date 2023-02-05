@@ -1,6 +1,6 @@
 # e-dant/watcher - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 586 | 23 | 
 | 2023-02-03 | 586 | 23 | 
 | 2023-02-02 | 586 | 23 | 
 | 2023-02-01 | 586 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 581 | 23 | 
 | 2023-01-07 | 581 | 23 | 
 | 2023-01-06 | 580 | 23 | 
-| 2023-01-05 | 580 | 23 | 
 

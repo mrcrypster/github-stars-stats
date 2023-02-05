@@ -1,6 +1,6 @@
 # kognise/arpchat - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1292 | 27 | 
 | 2023-02-03 | 1292 | 27 | 
 | 2023-02-02 | 1292 | 27 | 
 | 2023-01-31 | 1292 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 1291 | 27 | 
 | 2023-01-08 | 1291 | 27 | 
 | 2023-01-06 | 1291 | 27 | 
-| 2023-01-05 | 1291 | 27 | 
 

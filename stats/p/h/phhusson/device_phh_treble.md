@@ -1,8 +1,8 @@
 # phhusson/device_phh_treble - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 274
+☋ Forks: 275
 
 ★ Stars: 166
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 166 | 275 | 
 | 2023-02-03 | 166 | 274 | 
 | 2023-02-02 | 166 | 274 | 
 | 2023-02-01 | 166 | 274 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 165 | 272 | 
 | 2023-01-08 | 165 | 272 | 
 | 2023-01-06 | 165 | 272 | 
-| 2023-01-05 | 165 | 272 | 
 

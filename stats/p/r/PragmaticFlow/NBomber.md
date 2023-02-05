@@ -1,6 +1,6 @@
 # PragmaticFlow/NBomber - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1755 | 104 | 
 | 2023-02-03 | 1755 | 104 | 
 | 2023-02-02 | 1754 | 104 | 
 | 2023-02-01 | 1753 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1735 | 104 | 
 | 2023-01-07 | 1735 | 104 | 
 | 2023-01-06 | 1734 | 104 | 
-| 2023-01-05 | 1733 | 104 | 
 

@@ -1,8 +1,8 @@
 # SwiftGen/SwiftGenPlugin - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 50 | 18 | 
 | 2023-02-03 | 50 | 17 | 
 | 2023-02-01 | 50 | 16 | 
 | 2023-01-31 | 50 | 16 | 

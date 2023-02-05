@@ -1,8 +1,8 @@
 # joyqi/sfz - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 148
+☋ Forks: 149
 
 ★ Stars: 317
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 317 | 149 | 
 | 2023-02-03 | 317 | 148 | 
 | 2023-02-02 | 317 | 148 | 
 | 2023-02-01 | 317 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 313 | 145 | 
 | 2023-01-07 | 313 | 145 | 
 | 2023-01-06 | 313 | 145 | 
-| 2023-01-05 | 313 | 145 | 
 

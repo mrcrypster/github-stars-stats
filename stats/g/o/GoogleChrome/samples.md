@@ -1,10 +1,10 @@
 # GoogleChrome/samples - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 2477
 
-★ Stars: 5584
+★ Stars: 5585
 
 [Open repository](https://github.com/GoogleChrome/samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5585 | 2477 | 
 | 2023-02-03 | 5584 | 2477 | 
 | 2023-02-02 | 5584 | 2477 | 
 | 2023-02-01 | 5583 | 2477 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 5568 | 2479 | 
 | 2023-01-07 | 5568 | 2479 | 
 | 2023-01-06 | 5567 | 2478 | 
-| 2023-01-05 | 5567 | 2478 | 
 

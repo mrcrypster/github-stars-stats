@@ -1,10 +1,10 @@
 # OneSizeFitsQuorum/MIT6.824-2021 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 809
+★ Stars: 811
 
 [Open repository](https://github.com/OneSizeFitsQuorum/MIT6.824-2021)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 811 | 190 | 
 | 2023-02-03 | 809 | 189 | 
 | 2023-02-02 | 809 | 187 | 
 | 2023-01-31 | 806 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 790 | 184 | 
 | 2023-01-08 | 790 | 184 | 
 | 2023-01-07 | 789 | 184 | 
-| 2023-01-06 | 788 | 184 | 
 

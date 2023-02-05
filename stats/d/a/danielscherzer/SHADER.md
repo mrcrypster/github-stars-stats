@@ -1,10 +1,10 @@
 # danielscherzer/SHADER - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/danielscherzer/SHADER)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 26 | 4 | 
 | 2023-02-03 | 25 | 4 | 
 | 2023-02-02 | 25 | 4 | 
 | 2023-02-01 | 25 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 25 | 3 | 
 | 2023-01-07 | 25 | 3 | 
 | 2023-01-06 | 25 | 3 | 
-| 2023-01-05 | 25 | 3 | 
 

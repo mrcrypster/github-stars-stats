@@ -1,8 +1,8 @@
 # IBM/plex - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 538
+☋ Forks: 539
 
 ★ Stars: 8326
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 8326 | 539 | 
 | 2023-02-03 | 8326 | 538 | 
 | 2023-02-02 | 8323 | 538 | 
 | 2023-01-31 | 8320 | 538 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 8284 | 529 | 
 | 2023-01-07 | 8281 | 529 | 
 | 2023-01-06 | 8278 | 529 | 
-| 2023-01-05 | 8277 | 529 | 
 

@@ -1,6 +1,6 @@
 # msolefonte/vco - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 13 | 2 | 
 | 2023-02-03 | 13 | 2 | 
 | 2023-02-01 | 13 | 2 | 
 | 2023-01-31 | 13 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 13 | 2 | 
 | 2023-01-08 | 12 | 2 | 
 | 2023-01-07 | 12 | 2 | 
-| 2023-01-06 | 12 | 2 | 
 

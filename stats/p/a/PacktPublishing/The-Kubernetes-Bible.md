@@ -1,6 +1,6 @@
 # PacktPublishing/The-Kubernetes-Bible - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 47 | 44 | 
 | 2023-02-03 | 47 | 44 | 
 | 2023-02-02 | 47 | 44 | 
 | 2023-02-01 | 47 | 43 | 

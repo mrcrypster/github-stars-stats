@@ -1,6 +1,6 @@
 # FrankMittelbach/tlc3-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 11 | 4 | 
 | 2023-02-03 | 11 | 4 | 
 | 2023-02-02 | 11 | 4 | 
 | 2023-02-01 | 11 | 4 | 

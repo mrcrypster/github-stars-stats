@@ -1,6 +1,6 @@
 # jediswaplabs/JediSwap - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 36 | 13 | 
 | 2023-02-03 | 36 | 13 | 
 | 2023-02-02 | 36 | 13 | 
 | 2023-02-01 | 36 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 30 | 9 | 
 | 2023-01-07 | 30 | 9 | 
 | 2023-01-06 | 30 | 9 | 
-| 2023-01-05 | 30 | 9 | 
 

@@ -1,10 +1,10 @@
 # Geal/nom - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 741
+☋ Forks: 743
 
-★ Stars: 7671
+★ Stars: 7675
 
 [Open repository](https://github.com/Geal/nom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 7675 | 743 | 
 | 2023-02-03 | 7671 | 741 | 
 | 2023-02-02 | 7662 | 742 | 
 | 2023-02-01 | 7657 | 742 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 7568 | 735 | 
 | 2023-01-07 | 7567 | 735 | 
 | 2023-01-06 | 7562 | 735 | 
-| 2023-01-05 | 7558 | 735 | 
 

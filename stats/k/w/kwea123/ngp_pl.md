@@ -1,10 +1,10 @@
 # kwea123/ngp_pl - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 89
 
-★ Stars: 719
+★ Stars: 720
 
 [Open repository](https://github.com/kwea123/ngp_pl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 720 | 89 | 
 | 2023-02-03 | 719 | 89 | 
 | 2023-02-02 | 719 | 89 | 
 | 2023-02-01 | 718 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 686 | 83 | 
 | 2023-01-07 | 685 | 83 | 
 | 2023-01-06 | 685 | 81 | 
-| 2023-01-05 | 684 | 80 | 
 

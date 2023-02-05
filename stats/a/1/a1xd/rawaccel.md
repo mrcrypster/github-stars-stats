@@ -1,10 +1,10 @@
 # a1xd/rawaccel - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 144
+☋ Forks: 145
 
-★ Stars: 880
+★ Stars: 883
 
 [Open repository](https://github.com/a1xd/rawaccel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 883 | 145 | 
 | 2023-02-03 | 880 | 144 | 
 | 2023-02-02 | 877 | 144 | 
 | 2023-02-01 | 874 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 835 | 141 | 
 | 2023-01-07 | 834 | 141 | 
 | 2023-01-06 | 831 | 141 | 
-| 2023-01-05 | 825 | 141 | 
 

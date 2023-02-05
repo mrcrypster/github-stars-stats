@@ -1,10 +1,10 @@
 # HudsonGTV/STILLALI - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/HudsonGTV/STILLALI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 22 | 3 | 
 | 2023-02-03 | 21 | 3 | 
 | 2023-02-01 | 20 | 3 | 
 | 2023-01-31 | 20 | 3 | 

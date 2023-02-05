@@ -1,10 +1,10 @@
 # sveltejs/svelte - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 3191
+☋ Forks: 3194
 
-★ Stars: 65273
+★ Stars: 65303
 
 [Open repository](https://github.com/sveltejs/svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 65303 | 3194 | 
 | 2023-02-03 | 65273 | 3191 | 
 | 2023-02-01 | 65242 | 3187 | 
 | 2023-01-31 | 65208 | 3185 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 64555 | 3159 | 
 | 2023-01-07 | 64536 | 3157 | 
 | 2023-01-06 | 64502 | 3157 | 
-| 2023-01-05 | 64458 | 3152 | 
 

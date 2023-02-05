@@ -1,10 +1,10 @@
 # userver-framework/service_template - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 18
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/userver-framework/service_template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 66 | 18 | 
 | 2023-02-03 | 65 | 18 | 
 | 2023-02-02 | 65 | 18 | 
 | 2023-02-01 | 65 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 65 | 18 | 
 | 2023-01-07 | 65 | 18 | 
 | 2023-01-06 | 65 | 18 | 
-| 2023-01-05 | 64 | 18 | 
 

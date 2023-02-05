@@ -1,6 +1,6 @@
 # Tinkoff/muffin - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 36 | 5 | 
 | 2023-02-03 | 36 | 5 | 
 | 2023-02-02 | 36 | 5 | 
 | 2023-02-01 | 36 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 34 | 5 | 
 | 2023-01-08 | 34 | 5 | 
 | 2023-01-07 | 34 | 5 | 
-| 2023-01-05 | 34 | 5 | 
 

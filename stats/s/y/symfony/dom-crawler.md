@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 04
 
 ☋ Forks: 123
 
-★ Stars: 3734
+★ Stars: 3735
 
 [Open repository](https://github.com/symfony/dom-crawler)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-04 | 3734 | 123 | 
+| 2023-02-04 | 3735 | 123 | 
 | 2023-02-03 | 3733 | 123 | 
 

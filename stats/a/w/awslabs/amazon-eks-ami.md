@@ -1,8 +1,8 @@
 # awslabs/amazon-eks-ami - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 973
+☋ Forks: 974
 
 ★ Stars: 2028
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2028 | 974 | 
 | 2023-02-03 | 2028 | 973 | 
 | 2023-02-02 | 2027 | 973 | 
 | 2023-02-01 | 2025 | 972 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1988 | 960 | 
 | 2023-01-07 | 1988 | 960 | 
 | 2023-01-06 | 1988 | 960 | 
-| 2023-01-05 | 1987 | 959 | 
 

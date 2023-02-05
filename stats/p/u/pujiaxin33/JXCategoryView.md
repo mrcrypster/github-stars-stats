@@ -1,6 +1,6 @@
 # pujiaxin33/JXCategoryView - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1131
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5846 | 1131 | 
 | 2023-02-03 | 5846 | 1131 | 
 | 2023-02-02 | 5845 | 1131 | 
 | 2023-02-01 | 5843 | 1131 | 

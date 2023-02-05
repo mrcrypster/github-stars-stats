@@ -1,10 +1,10 @@
 # NVIDIA/NeMo - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 1362
+☋ Forks: 1365
 
-★ Stars: 5499
+★ Stars: 5509
 
 [Open repository](https://github.com/NVIDIA/NeMo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 5509 | 1365 | 
 | 2023-02-03 | 5499 | 1362 | 
 | 2023-02-02 | 5495 | 1360 | 
 | 2023-02-01 | 5486 | 1357 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 5354 | 1320 | 
 | 2023-01-07 | 5352 | 1320 | 
 | 2023-01-06 | 5341 | 1317 | 
-| 2023-01-05 | 5333 | 1316 | 
 

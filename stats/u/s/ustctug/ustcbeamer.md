@@ -1,6 +1,6 @@
 # ustctug/ustcbeamer - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 187 | 53 | 
 | 2023-02-03 | 187 | 53 | 
 | 2023-02-02 | 187 | 53 | 
 | 2023-02-01 | 187 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 186 | 54 | 
 | 2023-01-07 | 186 | 54 | 
 | 2023-01-06 | 186 | 54 | 
-| 2023-01-05 | 186 | 54 | 
 

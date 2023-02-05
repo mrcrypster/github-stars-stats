@@ -1,6 +1,6 @@
 # prometheus/client_model - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 57 | 64 | 
 | 2023-02-03 | 57 | 64 | 
 | 2023-02-02 | 57 | 64 | 
 | 2023-02-01 | 56 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 57 | 63 | 
 | 2023-01-07 | 57 | 63 | 
 | 2023-01-06 | 57 | 63 | 
-| 2023-01-05 | 57 | 63 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 04
 
 ☋ Forks: 153
 
-★ Stars: 975
+★ Stars: 976
 
 [Open repository](https://github.com/jonbhanson/flutter_native_splash)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-04 | 975 | 153 | 
+| 2023-02-04 | 976 | 153 | 
 | 2023-02-03 | 975 | 153 | 
 | 2023-02-01 | 975 | 152 | 
 | 2023-01-31 | 974 | 152 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-08 | 952 | 145 | 
 | 2023-01-07 | 952 | 145 | 
 | 2023-01-06 | 952 | 143 | 
-| 2023-01-05 | 950 | 143 | 
 

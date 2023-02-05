@@ -1,6 +1,6 @@
 # MicrosoftDocs/OfficeDocs-Support - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 338
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 107 | 338 | 
 | 2023-02-03 | 107 | 338 | 
 | 2023-02-02 | 106 | 338 | 
 | 2023-02-01 | 107 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 107 | 336 | 
 | 2023-01-07 | 107 | 335 | 
 | 2023-01-06 | 107 | 334 | 
-| 2023-01-05 | 107 | 334 | 
 

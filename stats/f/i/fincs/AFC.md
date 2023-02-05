@@ -1,6 +1,6 @@
 # fincs/AFC - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 18 | 6 | 
 | 2023-02-03 | 18 | 6 | 
 | 2023-02-02 | 18 | 6 | 
 | 2023-02-01 | 18 | 6 | 

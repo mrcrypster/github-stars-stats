@@ -1,10 +1,10 @@
 # charliermarsh/ruff - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 231
+☋ Forks: 232
 
-★ Stars: 7653
+★ Stars: 7724
 
 [Open repository](https://github.com/charliermarsh/ruff)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 7724 | 232 | 
 | 2023-02-03 | 7653 | 231 | 
 | 2023-02-02 | 7569 | 229 | 
 | 2023-02-01 | 7501 | 227 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 5588 | 142 | 
 | 2023-01-07 | 5550 | 141 | 
 | 2023-01-06 | 5508 | 140 | 
-| 2023-01-05 | 5435 | 138 | 
 

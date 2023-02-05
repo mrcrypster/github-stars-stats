@@ -1,6 +1,6 @@
 # soundcloud/cosine-lsh-join-spark - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 173 | 45 | 
 | 2023-02-03 | 173 | 45 | 
 | 2023-02-02 | 173 | 45 | 
 | 2023-02-01 | 173 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 172 | 45 | 
 | 2023-01-07 | 172 | 45 | 
 | 2023-01-06 | 172 | 45 | 
-| 2023-01-05 | 172 | 45 | 
 

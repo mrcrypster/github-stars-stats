@@ -1,6 +1,6 @@
 # agerlach/Flowstar.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3 | - | 
 | 2023-02-03 | 3 | - | 
 | 2023-02-02 | 3 | - | 
 | 2023-02-01 | 3 | - | 

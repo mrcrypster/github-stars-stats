@@ -1,10 +1,10 @@
 # picotorrent/picotorrent - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 170
 
-★ Stars: 2336
+★ Stars: 2337
 
 [Open repository](https://github.com/picotorrent/picotorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2337 | 170 | 
 | 2023-02-03 | 2336 | 170 | 
 | 2023-02-02 | 2336 | 170 | 
 | 2023-02-01 | 2335 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2325 | 169 | 
 | 2023-01-07 | 2324 | 169 | 
 | 2023-01-06 | 2323 | 169 | 
-| 2023-01-05 | 2322 | 169 | 
 

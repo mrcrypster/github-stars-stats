@@ -1,10 +1,10 @@
 # rbenv/rbenv - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1397
 
-★ Stars: 14778
+★ Stars: 14777
 
 [Open repository](https://github.com/rbenv/rbenv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 14777 | 1397 | 
 | 2023-02-03 | 14778 | 1397 | 
 | 2023-02-02 | 14774 | 1396 | 
 | 2023-02-01 | 14771 | 1395 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 14701 | 1389 | 
 | 2023-01-07 | 14700 | 1389 | 
 | 2023-01-06 | 14700 | 1390 | 
-| 2023-01-05 | 14697 | 1390 | 
 

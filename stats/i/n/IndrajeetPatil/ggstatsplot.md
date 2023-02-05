@@ -1,10 +1,10 @@
 # IndrajeetPatil/ggstatsplot - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 170
 
-★ Stars: 1640
+★ Stars: 1641
 
 [Open repository](https://github.com/IndrajeetPatil/ggstatsplot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1641 | 170 | 
 | 2023-02-03 | 1640 | 170 | 
 | 2023-02-02 | 1639 | 170 | 
 | 2023-02-01 | 1638 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1625 | 172 | 
 | 2023-01-07 | 1625 | 172 | 
 | 2023-01-06 | 1625 | 172 | 
-| 2023-01-05 | 1624 | 172 | 
 

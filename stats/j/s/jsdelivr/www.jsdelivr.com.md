@@ -1,6 +1,6 @@
 # jsdelivr/www.jsdelivr.com - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 114 | 64 | 
 | 2023-02-03 | 114 | 64 | 
 | 2023-02-02 | 114 | 64 | 
 | 2023-02-01 | 114 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 114 | 65 | 
 | 2023-01-07 | 114 | 65 | 
 | 2023-01-06 | 113 | 65 | 
-| 2023-01-05 | 113 | 65 | 
 

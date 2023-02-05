@@ -1,10 +1,10 @@
 # geekcomputers/Python - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 11362
+☋ Forks: 11363
 
-★ Stars: 27064
+★ Stars: 27065
 
 [Open repository](https://github.com/geekcomputers/Python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 27065 | 11363 | 
 | 2023-02-03 | 27064 | 11362 | 
 | 2023-02-02 | 27056 | 11359 | 
 | 2023-02-01 | 27051 | 11357 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 26957 | 11329 | 
 | 2023-01-07 | 26951 | 11329 | 
 | 2023-01-06 | 26946 | 11328 | 
-| 2023-01-05 | 26939 | 11326 | 
 

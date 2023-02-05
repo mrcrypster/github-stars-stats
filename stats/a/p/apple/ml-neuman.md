@@ -1,6 +1,6 @@
 # apple/ml-neuman - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 958 | 115 | 
 | 2023-02-03 | 958 | 115 | 
 | 2023-02-02 | 956 | 115 | 
 | 2023-02-01 | 956 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 943 | 113 | 
 | 2023-01-07 | 943 | 113 | 
 | 2023-01-06 | 943 | 112 | 
-| 2023-01-05 | 941 | 111 | 
 

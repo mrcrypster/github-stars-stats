@@ -1,10 +1,10 @@
 # JideGuru/FlutterEbookApp - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 636
 
-★ Stars: 1929
+★ Stars: 1932
 
 [Open repository](https://github.com/JideGuru/FlutterEbookApp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1932 | 636 | 
 | 2023-02-03 | 1929 | 636 | 
 | 2023-02-02 | 1924 | 634 | 
 | 2023-02-01 | 1922 | 634 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1888 | 616 | 
 | 2023-01-07 | 1887 | 616 | 
 | 2023-01-06 | 1887 | 616 | 
-| 2023-01-05 | 1882 | 616 | 
 

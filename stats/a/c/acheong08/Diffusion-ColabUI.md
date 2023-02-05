@@ -1,8 +1,8 @@
 # acheong08/Diffusion-ColabUI - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 292
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 292 | 37 | 
 | 2023-02-03 | 292 | 36 | 
 | 2023-02-02 | 292 | 36 | 
 | 2023-02-01 | 290 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 264 | 34 | 
 | 2023-01-07 | 264 | 34 | 
 | 2023-01-06 | 259 | 34 | 
-| 2023-01-05 | 258 | 34 | 
 

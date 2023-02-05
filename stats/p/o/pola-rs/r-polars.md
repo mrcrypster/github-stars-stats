@@ -1,10 +1,10 @@
 # pola-rs/r-polars - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/pola-rs/r-polars)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 101 | 5 | 
 | 2023-02-03 | 100 | 5 | 
 | 2023-02-02 | 99 | 5 | 
 | 2023-02-01 | 97 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 65 | 2 | 
 | 2023-01-07 | 62 | 2 | 
 | 2023-01-06 | 59 | 3 | 
-| 2023-01-05 | 57 | 2 | 
 

@@ -1,6 +1,6 @@
 # nextauthjs/sveltekit-auth-example - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 119 | 10 | 
 | 2023-02-03 | 119 | 10 | 
 | 2023-02-02 | 119 | 10 | 
 | 2023-02-01 | 117 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 87 | 4 | 
 | 2023-01-07 | 85 | 4 | 
 | 2023-01-06 | 81 | 4 | 
-| 2023-01-05 | 81 | 4 | 
 

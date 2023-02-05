@@ -1,10 +1,10 @@
 # Paramchoudhary/30-days-30-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 4
 
-★ Stars: 63
+★ Stars: 62
 
 [Open repository](https://github.com/Paramchoudhary/30-days-30-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 62 | 4 | 
 | 2023-02-03 | 63 | 4 | 
 | 2023-02-02 | 63 | 4 | 
 | 2023-02-01 | 63 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 63 | 4 | 
 | 2023-01-07 | 63 | 4 | 
 | 2023-01-06 | 62 | 4 | 
-| 2023-01-05 | 62 | 4 | 
 

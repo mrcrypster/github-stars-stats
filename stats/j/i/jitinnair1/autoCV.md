@@ -1,6 +1,6 @@
 # jitinnair1/autoCV - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 42 | 23 | 
 | 2023-02-03 | 42 | 23 | 
 | 2023-02-01 | 42 | 23 | 
 | 2023-01-31 | 42 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 35 | 22 | 
 | 2023-01-07 | 35 | 22 | 
 | 2023-01-06 | 34 | 22 | 
-| 2023-01-05 | 34 | 22 | 
 

@@ -1,10 +1,10 @@
 # elementary/icons - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 80
 
-★ Stars: 523
+★ Stars: 524
 
 [Open repository](https://github.com/elementary/icons)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 524 | 80 | 
 | 2023-02-03 | 523 | 80 | 
 | 2023-02-02 | 523 | 80 | 
 | 2023-02-01 | 521 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 521 | 79 | 
 | 2023-01-07 | 521 | 79 | 
 | 2023-01-06 | 520 | 79 | 
-| 2023-01-05 | 520 | 79 | 
 

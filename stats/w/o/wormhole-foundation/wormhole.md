@@ -1,10 +1,10 @@
 # wormhole-foundation/wormhole - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 398
 
-★ Stars: 952
+★ Stars: 953
 
 [Open repository](https://github.com/wormhole-foundation/wormhole)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 953 | 398 | 
 | 2023-02-03 | 952 | 398 | 
 | 2023-02-02 | 951 | 397 | 
 | 2023-02-01 | 949 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 941 | 395 | 
 | 2023-01-07 | 940 | 395 | 
 | 2023-01-06 | 940 | 395 | 
-| 2023-01-05 | 940 | 396 | 
 

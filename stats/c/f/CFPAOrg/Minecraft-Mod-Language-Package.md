@@ -1,10 +1,10 @@
 # CFPAOrg/Minecraft-Mod-Language-Package - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 639
+☋ Forks: 640
 
-★ Stars: 683
+★ Stars: 685
 
 [Open repository](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 685 | 640 | 
 | 2023-02-03 | 683 | 639 | 
 | 2023-02-02 | 681 | 633 | 
 | 2023-02-01 | 679 | 632 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 665 | 596 | 
 | 2023-01-07 | 664 | 595 | 
 | 2023-01-06 | 664 | 595 | 
-| 2023-01-05 | 664 | 593 | 
 

@@ -1,10 +1,10 @@
 # antonkomarev/github-profile-views-counter - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 272
 
-★ Stars: 2557
+★ Stars: 2558
 
 [Open repository](https://github.com/antonkomarev/github-profile-views-counter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2558 | 272 | 
 | 2023-02-03 | 2557 | 272 | 
 | 2023-02-02 | 2558 | 272 | 
 | 2023-02-01 | 2552 | 272 | 

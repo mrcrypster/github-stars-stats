@@ -1,10 +1,10 @@
 # iggredible/Learn-Vim - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 878
 
-★ Stars: 9255
+★ Stars: 9264
 
 [Open repository](https://github.com/iggredible/Learn-Vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 9264 | 878 | 
 | 2023-02-03 | 9255 | 878 | 
 | 2023-02-02 | 9247 | 877 | 
 | 2023-02-01 | 9237 | 874 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 9114 | 864 | 
 | 2023-01-07 | 9114 | 862 | 
 | 2023-01-06 | 9109 | 859 | 
-| 2023-01-05 | 9102 | 858 | 
 

@@ -1,10 +1,10 @@
 # Urban-Coalition/ArcCW_UD - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 16
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/Urban-Coalition/ArcCW_UD)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 27 | 16 | 
 | 2023-02-03 | 28 | 16 | 
 | 2023-02-02 | 28 | 16 | 
 | 2023-02-01 | 28 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 29 | 17 | 
 | 2023-01-08 | 29 | 17 | 
 | 2023-01-07 | 29 | 17 | 
-| 2023-01-06 | 29 | 17 | 
 

@@ -1,6 +1,6 @@
 # jreybert/vimagit - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1260 | 49 | 
 | 2023-02-03 | 1260 | 49 | 
 | 2023-02-02 | 1259 | 49 | 
 | 2023-02-01 | 1259 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1256 | 49 | 
 | 2023-01-07 | 1256 | 49 | 
 | 2023-01-06 | 1256 | 49 | 
-| 2023-01-05 | 1255 | 49 | 
 

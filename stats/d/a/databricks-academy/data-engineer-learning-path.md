@@ -1,10 +1,10 @@
 # databricks-academy/data-engineer-learning-path - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 194
+☋ Forks: 196
 
-★ Stars: 389
+★ Stars: 392
 
 [Open repository](https://github.com/databricks-academy/data-engineer-learning-path)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 392 | 196 | 
 | 2023-02-03 | 389 | 194 | 
 | 2023-02-02 | 387 | 193 | 
 | 2023-02-01 | 383 | 190 | 

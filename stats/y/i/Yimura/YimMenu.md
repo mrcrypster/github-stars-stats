@@ -1,10 +1,10 @@
 # Yimura/YimMenu - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 158
 
-★ Stars: 369
+★ Stars: 375
 
 [Open repository](https://github.com/Yimura/YimMenu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 375 | 158 | 
 | 2023-02-03 | 369 | 158 | 
 | 2023-02-02 | 367 | 158 | 
 | 2023-02-01 | 363 | 157 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 323 | 150 | 
 | 2023-01-07 | 322 | 150 | 
 | 2023-01-06 | 322 | 149 | 
-| 2023-01-05 | 323 | 147 | 
 

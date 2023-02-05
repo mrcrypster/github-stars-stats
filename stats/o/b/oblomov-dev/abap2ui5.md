@@ -1,6 +1,6 @@
 # oblomov-dev/abap2ui5 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 42 | 3 | 
 | 2023-02-03 | 42 | 3 | 
 | 2023-02-02 | 41 | 3 | 
 | 2023-02-01 | 41 | 3 | 

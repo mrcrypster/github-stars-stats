@@ -1,6 +1,6 @@
 # olofk/serv - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 915 | 134 | 
 | 2023-02-03 | 915 | 134 | 
 | 2023-02-02 | 914 | 134 | 
 | 2023-02-01 | 914 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 906 | 133 | 
 | 2023-01-07 | 904 | 133 | 
 | 2023-01-06 | 904 | 133 | 
-| 2023-01-05 | 904 | 133 | 
 

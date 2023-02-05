@@ -1,10 +1,10 @@
 # openai/gpt-discord-bot - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
-☋ Forks: 239
+☋ Forks: 243
 
-★ Stars: 788
+★ Stars: 801
 
 [Open repository](https://github.com/openai/gpt-discord-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 801 | 243 | 
 | 2023-02-03 | 788 | 239 | 
 | 2023-02-02 | 780 | 234 | 
 | 2023-02-01 | 774 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 555 | 110 | 
 | 2023-01-07 | 544 | 106 | 
 | 2023-01-06 | 534 | 100 | 
-| 2023-01-05 | 523 | 95 | 
 

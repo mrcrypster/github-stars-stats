@@ -1,10 +1,10 @@
 # simc/crimson - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/simc/crimson)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 162 | 2 | 
 | 2023-02-03 | 161 | 2 | 
 | 2023-02-02 | 160 | 2 | 
 | 2023-02-01 | 159 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 145 | 1 | 
 | 2023-01-07 | 145 | 1 | 
 | 2023-01-06 | 144 | 1 | 
-| 2023-01-05 | 144 | 1 | 
 

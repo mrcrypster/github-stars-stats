@@ -1,6 +1,6 @@
 # netspooky/xx - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 315 | 17 | 
 | 2023-02-03 | 315 | 17 | 
 | 2023-02-01 | 315 | 17 | 
 | 2023-01-31 | 314 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 310 | 17 | 
 | 2023-01-08 | 310 | 17 | 
 | 2023-01-07 | 310 | 17 | 
-| 2023-01-06 | 310 | 17 | 
 

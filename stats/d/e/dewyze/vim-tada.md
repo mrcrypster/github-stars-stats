@@ -1,6 +1,6 @@
 # dewyze/vim-tada - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 78 | 1 | 
 | 2023-02-03 | 78 | 1 | 
 | 2023-02-01 | 78 | 1 | 
 | 2023-01-31 | 78 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 80 | 1 | 
 | 2023-01-07 | 80 | 1 | 
 | 2023-01-06 | 80 | 1 | 
-| 2023-01-05 | 80 | 1 | 
 

@@ -1,6 +1,6 @@
 # petyosi/react-virtuoso - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3294 | 208 | 
 | 2023-02-03 | 3294 | 208 | 
 | 2023-02-02 | 3287 | 208 | 
 | 2023-02-01 | 3286 | 208 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 3232 | 205 | 
 | 2023-01-07 | 3231 | 205 | 
 | 2023-01-06 | 3227 | 205 | 
-| 2023-01-05 | 3227 | 205 | 
 

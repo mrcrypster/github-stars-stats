@@ -1,10 +1,10 @@
 # jynew/jynew - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 1398
 
-★ Stars: 6373
+★ Stars: 6374
 
 [Open repository](https://github.com/jynew/jynew)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 6374 | 1398 | 
 | 2023-02-03 | 6373 | 1398 | 
 | 2023-02-02 | 6367 | 1396 | 
 | 2023-02-01 | 6366 | 1395 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 6281 | 1380 | 
 | 2023-01-07 | 6278 | 1380 | 
 | 2023-01-06 | 6272 | 1380 | 
-| 2023-01-05 | 6264 | 1379 | 
 

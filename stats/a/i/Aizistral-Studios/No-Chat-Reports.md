@@ -1,6 +1,6 @@
 # Aizistral-Studios/No-Chat-Reports - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 845 | 70 | 
 | 2023-02-03 | 845 | 70 | 
 | 2023-02-02 | 845 | 70 | 
 | 2023-02-01 | 845 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 831 | 70 | 
 | 2023-01-07 | 831 | 69 | 
 | 2023-01-06 | 830 | 70 | 
-| 2023-01-05 | 830 | 70 | 
 

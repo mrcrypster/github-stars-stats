@@ -1,10 +1,10 @@
 # harfbuzz/harfbuzz - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 529
 
-★ Stars: 2833
+★ Stars: 2836
 
 [Open repository](https://github.com/harfbuzz/harfbuzz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 2836 | 529 | 
 | 2023-02-03 | 2833 | 529 | 
 | 2023-02-02 | 2830 | 529 | 
 | 2023-01-31 | 2828 | 529 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 2797 | 525 | 
 | 2023-01-07 | 2795 | 525 | 
 | 2023-01-06 | 2794 | 525 | 
-| 2023-01-05 | 2790 | 525 | 
 

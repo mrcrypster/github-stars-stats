@@ -1,10 +1,10 @@
 # hissssst/tria - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/hissssst/tria)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 23 | - | 
 | 2023-02-03 | 22 | - | 
 | 2023-02-01 | 21 | - | 
 | 2023-01-31 | 20 | - | 

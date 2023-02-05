@@ -1,10 +1,10 @@
 # StormSurgeLive/asgs - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 24
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/StormSurgeLive/asgs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 33 | 24 | 
 | 2023-02-03 | 32 | 24 | 
 | 2023-02-01 | 32 | 24 | 
 | 2023-01-31 | 32 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 31 | 24 | 
 | 2023-01-07 | 31 | 24 | 
 | 2023-01-06 | 31 | 24 | 
-| 2023-01-05 | 31 | 24 | 
 

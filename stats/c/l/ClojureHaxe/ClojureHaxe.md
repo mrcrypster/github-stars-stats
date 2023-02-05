@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 04
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/ClojureHaxe/ClojureHaxe)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-04 | 49 | 1 | 
+| 2023-02-04 | 51 | 2 | 
 | 2023-02-03 | 47 | 1 | 
 

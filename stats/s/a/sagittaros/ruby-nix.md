@@ -1,6 +1,6 @@
 # sagittaros/ruby-nix - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 59 | 1 | 
 | 2023-02-03 | 59 | 1 | 
 | 2023-02-02 | 59 | 1 | 
 | 2023-02-01 | 59 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 52 | 1 | 
 | 2023-01-07 | 52 | 1 | 
 | 2023-01-06 | 51 | 1 | 
-| 2023-01-05 | 51 | 1 | 
 

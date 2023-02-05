@@ -1,10 +1,10 @@
 # espressif/esp-idf - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 6144
+☋ Forks: 6145
 
-★ Stars: 9856
+★ Stars: 9863
 
 [Open repository](https://github.com/espressif/esp-idf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 9863 | 6145 | 
 | 2023-02-03 | 9856 | 6144 | 
 | 2023-02-02 | 9853 | 6142 | 
 | 2023-02-01 | 9843 | 6143 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 9696 | 6072 | 
 | 2023-01-07 | 9691 | 6069 | 
 | 2023-01-06 | 9685 | 6067 | 
-| 2023-01-05 | 9680 | 6063 | 
 

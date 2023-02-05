@@ -1,6 +1,6 @@
 # riti2409/DBMS_SQL-Notes - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 393 | 142 | 
 | 2023-02-03 | 393 | 142 | 
 | 2023-02-02 | 393 | 142 | 
 | 2023-01-31 | 393 | 142 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 373 | 133 | 
 | 2023-01-08 | 373 | 133 | 
 | 2023-01-07 | 372 | 133 | 
-| 2023-01-06 | 372 | 133 | 
 

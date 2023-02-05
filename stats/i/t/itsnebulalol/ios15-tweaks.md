@@ -1,10 +1,10 @@
 # itsnebulalol/ios15-tweaks - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 44
 
-★ Stars: 308
+★ Stars: 311
 
 [Open repository](https://github.com/itsnebulalol/ios15-tweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 311 | 44 | 
 | 2023-02-03 | 308 | 44 | 
 | 2023-02-02 | 304 | 44 | 
 | 2023-02-01 | 300 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 258 | 42 | 
 | 2023-01-07 | 256 | 42 | 
 | 2023-01-06 | 255 | 42 | 
-| 2023-01-05 | 246 | 40 | 
 

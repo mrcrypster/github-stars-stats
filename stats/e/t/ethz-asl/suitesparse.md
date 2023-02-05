@@ -1,10 +1,10 @@
 # ethz-asl/suitesparse - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 12
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/ethz-asl/suitesparse)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 10 | 12 | 
+| 2023-02-04 | 9 | 12 | 
 | 2023-02-03 | 9 | 12 | 
 | 2023-02-02 | 9 | 12 | 
 | 2023-02-01 | 9 | 12 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 8 | 12 | 
 | 2023-01-07 | 8 | 12 | 
 | 2023-01-06 | 8 | 12 | 
-| 2023-01-05 | 8 | 12 | 
 

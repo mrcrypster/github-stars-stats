@@ -1,6 +1,6 @@
 # nbuntsch/exercice-maquette-mobile-dungeon-dragon - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | - | 33 | 
 | 2023-02-03 | - | 33 | 
 | 2023-02-02 | - | 33 | 
 | 2023-02-01 | - | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | - | 33 | 
 | 2023-01-07 | - | 33 | 
 | 2023-01-06 | - | 33 | 
-| 2023-01-05 | - | 33 | 
 

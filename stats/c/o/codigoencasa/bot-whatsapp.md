@@ -1,10 +1,10 @@
 # codigoencasa/bot-whatsapp - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 319
+☋ Forks: 320
 
-★ Stars: 1054
+★ Stars: 1057
 
 [Open repository](https://github.com/codigoencasa/bot-whatsapp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1057 | 320 | 
 | 2023-02-03 | 1054 | 319 | 
 | 2023-02-02 | 1050 | 318 | 
 | 2023-02-01 | 1048 | 316 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 950 | 292 | 
 | 2023-01-07 | 947 | 292 | 
 | 2023-01-06 | 946 | 293 | 
-| 2023-01-05 | 943 | 293 | 
 

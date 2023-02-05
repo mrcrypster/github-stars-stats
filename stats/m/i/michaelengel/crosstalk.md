@@ -1,6 +1,6 @@
 # michaelengel/crosstalk - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 323 | 17 | 
 | 2023-02-03 | 323 | 17 | 
 | 2023-02-02 | 323 | 17 | 
 | 2023-02-01 | 323 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 321 | 16 | 
 | 2023-01-07 | 320 | 16 | 
 | 2023-01-06 | 319 | 16 | 
-| 2023-01-05 | 318 | 16 | 
 

@@ -1,10 +1,10 @@
 # luoyily/MoeTTS - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 61
 
-★ Stars: 737
+★ Stars: 740
 
 [Open repository](https://github.com/luoyily/MoeTTS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 740 | 61 | 
 | 2023-02-03 | 737 | 61 | 
 | 2023-02-02 | 734 | 60 | 
 | 2023-02-01 | 734 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 691 | 54 | 
 | 2023-01-07 | 687 | 54 | 
 | 2023-01-06 | 685 | 54 | 
-| 2023-01-05 | 684 | 53 | 
 

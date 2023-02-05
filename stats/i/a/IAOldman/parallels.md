@@ -1,6 +1,6 @@
 # IAOldman/parallels - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 40 | 21 | 
 | 2023-02-03 | 40 | 21 | 
 | 2023-02-01 | 40 | 21 | 
 | 2023-01-31 | 39 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 34 | 20 | 
 | 2023-01-07 | 34 | 20 | 
 | 2023-01-06 | 34 | 20 | 
-| 2023-01-05 | 34 | 20 | 
 

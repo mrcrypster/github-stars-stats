@@ -1,10 +1,10 @@
 # ArisGuimera/SimpleAndroidMVVM - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 52
 
-★ Stars: 1064
+★ Stars: 1065
 
 [Open repository](https://github.com/ArisGuimera/SimpleAndroidMVVM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1065 | 52 | 
 | 2023-02-03 | 1064 | 52 | 
 | 2023-02-02 | 1062 | 51 | 
 | 2023-02-01 | 1060 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 991 | 48 | 
 | 2023-01-07 | 991 | 48 | 
 | 2023-01-06 | 991 | 48 | 
-| 2023-01-05 | 990 | 48 | 
 

@@ -1,6 +1,6 @@
 # algorithm-archivists/algorithm-archive - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 339
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2128 | 339 | 
+| 2023-02-04 | 2128 | 339 | 
 | 2023-02-03 | 2128 | 339 | 
 | 2023-02-02 | 2125 | 339 | 
 | 2023-02-01 | 2121 | 339 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 2108 | 338 | 
 | 2023-01-07 | 2109 | 338 | 
 | 2023-01-06 | 2107 | 338 | 
-| 2023-01-05 | 2105 | 338 | 
 

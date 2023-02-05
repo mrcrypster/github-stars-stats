@@ -1,6 +1,6 @@
 # norgepaul/DUDS - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 68 | 33 | 
 | 2023-02-03 | 68 | 33 | 
 | 2023-02-02 | 68 | 32 | 
 | 2023-02-01 | 68 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 67 | 31 | 
 | 2023-01-07 | 67 | 31 | 
 | 2023-01-06 | 67 | 31 | 
-| 2023-01-05 | 67 | 31 | 
 

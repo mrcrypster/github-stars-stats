@@ -1,6 +1,6 @@
 # iampawan/VelocityX - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1172 | 164 | 
 | 2023-02-03 | 1172 | 164 | 
 | 2023-02-02 | 1172 | 163 | 
 | 2023-02-01 | 1172 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1164 | 163 | 
 | 2023-01-07 | 1162 | 163 | 
 | 2023-01-06 | 1161 | 163 | 
-| 2023-01-05 | 1161 | 163 | 
 

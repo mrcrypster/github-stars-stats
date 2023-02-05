@@ -1,10 +1,10 @@
 # atelier-anchor/smiley-sans - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 302
 
-★ Stars: 9900
+★ Stars: 9910
 
 [Open repository](https://github.com/atelier-anchor/smiley-sans)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 9910 | 302 | 
 | 2023-02-03 | 9900 | 302 | 
 | 2023-02-02 | 9884 | 303 | 
 | 2023-02-01 | 9871 | 302 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 9450 | 289 | 
 | 2023-01-07 | 9425 | 289 | 
 | 2023-01-06 | 9403 | 288 | 
-| 2023-01-05 | 9386 | 288 | 
 

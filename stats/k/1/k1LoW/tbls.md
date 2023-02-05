@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 04
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 1777
+★ Stars: 1799
 
 [Open repository](https://github.com/k1LoW/tbls)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-04 | 1777 | 123 | 
+| 2023-02-04 | 1799 | 124 | 
 | 2023-02-03 | 1759 | 123 | 
 

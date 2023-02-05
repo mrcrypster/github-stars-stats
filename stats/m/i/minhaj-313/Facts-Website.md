@@ -1,10 +1,10 @@
 # minhaj-313/Facts-Website - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 38
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/minhaj-313/Facts-Website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 22 | 38 | 
 | 2023-02-04 | 23 | 38 | 
 | 2023-02-02 | 23 | 38 | 
 | 2023-02-01 | 23 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-08 | 23 | 37 | 
 | 2023-01-07 | 23 | 37 | 
 | 2023-01-06 | 23 | 37 | 
-| 2023-01-05 | 24 | 37 | 
 

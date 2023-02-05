@@ -1,6 +1,6 @@
 # capy-ui/capy - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 659 | 20 | 
 | 2023-02-03 | 659 | 20 | 
 | 2023-02-02 | 657 | 20 | 
 | 2023-02-01 | 656 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 620 | 19 | 
 | 2023-01-07 | 618 | 19 | 
 | 2023-01-06 | 616 | 19 | 
-| 2023-01-05 | 615 | 19 | 
 

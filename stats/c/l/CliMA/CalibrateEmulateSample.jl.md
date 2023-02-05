@@ -1,10 +1,10 @@
 # CliMA/CalibrateEmulateSample.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/CliMA/CalibrateEmulateSample.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 51 | 9 | 
 | 2023-02-03 | 50 | 9 | 
 | 2023-02-02 | 50 | 9 | 
 | 2023-02-01 | 50 | 9 | 

@@ -1,6 +1,6 @@
 # Bharathgopal/M1_March_2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 23 | 81 | 
 | 2023-02-03 | 23 | 81 | 
 | 2023-02-02 | 23 | 81 | 
 | 2023-02-01 | 23 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 23 | 81 | 
 | 2023-01-08 | 23 | 81 | 
 | 2023-01-07 | 23 | 81 | 
-| 2023-01-05 | 23 | 81 | 
 

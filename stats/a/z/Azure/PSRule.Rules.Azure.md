@@ -1,10 +1,10 @@
 # Azure/PSRule.Rules.Azure - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 62
 
-★ Stars: 262
+★ Stars: 261
 
 [Open repository](https://github.com/Azure/PSRule.Rules.Azure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 261 | 62 | 
 | 2023-02-03 | 262 | 62 | 
 | 2023-02-02 | 261 | 62 | 
 | 2023-02-01 | 261 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 250 | 62 | 
 | 2023-01-07 | 250 | 62 | 
 | 2023-01-06 | 250 | 62 | 
-| 2023-01-05 | 250 | 62 | 
 

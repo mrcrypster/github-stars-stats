@@ -1,10 +1,10 @@
 # antfu/handle - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 143
 
-★ Stars: 1045
+★ Stars: 1046
 
 [Open repository](https://github.com/antfu/handle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1046 | 143 | 
 | 2023-02-03 | 1045 | 143 | 
 | 2023-02-02 | 1045 | 143 | 
 | 2023-02-01 | 1045 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1041 | 143 | 
 | 2023-01-07 | 1041 | 142 | 
 | 2023-01-06 | 1041 | 142 | 
-| 2023-01-05 | 1039 | 142 | 
 

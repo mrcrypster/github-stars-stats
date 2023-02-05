@@ -1,6 +1,6 @@
 # polarismesh/polaris - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 316
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1864 | 316 | 
 | 2023-02-03 | 1864 | 316 | 
 | 2023-02-02 | 1862 | 315 | 
 | 2023-02-01 | 1861 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 1824 | 309 | 
 | 2023-01-07 | 1821 | 309 | 
 | 2023-01-06 | 1820 | 309 | 
-| 2023-01-05 | 1817 | 309 | 
 

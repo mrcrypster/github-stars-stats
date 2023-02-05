@@ -1,10 +1,10 @@
 # alexankitty/FancyTasks - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 3
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/alexankitty/FancyTasks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 60 | 3 | 
 | 2023-02-03 | 59 | 3 | 
 | 2023-02-02 | 59 | 3 | 
 | 2023-02-01 | 59 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 56 | 2 | 
 | 2023-01-07 | 56 | 2 | 
 | 2023-01-06 | 56 | 2 | 
-| 2023-01-05 | 56 | 2 | 
 

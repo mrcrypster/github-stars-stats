@@ -1,6 +1,6 @@
 # lucasgiovannibr/canaryaac - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 10 | 17 | 
 | 2023-02-03 | 10 | 17 | 
 | 2023-02-02 | 9 | 17 | 
 | 2023-02-01 | 9 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 9 | 18 | 
 | 2023-01-08 | 9 | 19 | 
 | 2023-01-07 | 9 | 19 | 
-| 2023-01-06 | 9 | 19 | 
 

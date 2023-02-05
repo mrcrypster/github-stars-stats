@@ -1,10 +1,10 @@
 # jeessy2/ddns-go - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
-☋ Forks: 620
+☋ Forks: 621
 
-★ Stars: 3822
+★ Stars: 3832
 
 [Open repository](https://github.com/jeessy2/ddns-go)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3832 | 621 | 
 | 2023-02-03 | 3822 | 620 | 
 | 2023-02-02 | 3811 | 619 | 
 | 2023-02-01 | 3799 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 3618 | 604 | 
 | 2023-01-07 | 3612 | 600 | 
 | 2023-01-06 | 3605 | 600 | 
-| 2023-01-05 | 3601 | 599 | 
 

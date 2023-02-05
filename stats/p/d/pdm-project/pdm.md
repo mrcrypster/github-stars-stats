@@ -1,10 +1,10 @@
 # pdm-project/pdm - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 187
 
-★ Stars: 3831
+★ Stars: 3837
 
 [Open repository](https://github.com/pdm-project/pdm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 3837 | 187 | 
 | 2023-02-03 | 3831 | 187 | 
 | 2023-02-02 | 3826 | 187 | 
 | 2023-01-31 | 3808 | 187 | 

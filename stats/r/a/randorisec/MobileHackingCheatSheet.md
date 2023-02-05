@@ -1,10 +1,10 @@
 # randorisec/MobileHackingCheatSheet - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 169
 
-★ Stars: 1006
+★ Stars: 1005
 
 [Open repository](https://github.com/randorisec/MobileHackingCheatSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 1005 | 169 | 
 | 2023-02-03 | 1006 | 169 | 
 | 2023-02-02 | 1006 | 169 | 
 | 2023-02-01 | 1004 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 998 | 170 | 
 | 2023-01-07 | 998 | 170 | 
 | 2023-01-06 | 998 | 170 | 
-| 2023-01-05 | 998 | 170 | 
 

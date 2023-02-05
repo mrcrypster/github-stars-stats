@@ -1,10 +1,10 @@
 # mgdm/htmlq - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 97
 
-★ Stars: 6366
+★ Stars: 6368
 
 [Open repository](https://github.com/mgdm/htmlq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 6368 | 97 | 
 | 2023-02-03 | 6366 | 97 | 
 | 2023-02-02 | 6354 | 97 | 
 | 2023-02-01 | 6349 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-08 | 6305 | 97 | 
 | 2023-01-07 | 6305 | 97 | 
 | 2023-01-06 | 6303 | 97 | 
-| 2023-01-05 | 6302 | 97 | 
 

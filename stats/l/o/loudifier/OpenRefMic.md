@@ -1,10 +1,10 @@
 # loudifier/OpenRefMic - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/loudifier/OpenRefMic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-04 | 87 | 6 | 
 | 2023-02-03 | 86 | 6 | 
 | 2023-02-02 | 86 | 6 | 
 | 2023-02-01 | 86 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 86 | 5 | 
 | 2023-01-08 | 86 | 5 | 
 | 2023-01-07 | 86 | 5 | 
-| 2023-01-06 | 86 | 5 | 
 
