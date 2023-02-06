@@ -1,10 +1,10 @@
 # jessevig/bertviz - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 657
 
-★ Stars: 4807
+★ Stars: 4812
 
 [Open repository](https://github.com/jessevig/bertviz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4812 | 657 | 
 | 2023-02-04 | 4807 | 657 | 
 | 2023-02-03 | 4806 | 657 | 
 | 2023-02-02 | 4804 | 657 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 4744 | 658 | 
 | 2023-01-08 | 4741 | 658 | 
 | 2023-01-07 | 4738 | 658 | 
-| 2023-01-06 | 4737 | 656 | 
 

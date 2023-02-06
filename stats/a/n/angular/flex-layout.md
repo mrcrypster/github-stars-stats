@@ -1,6 +1,6 @@
 # angular/flex-layout - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 781
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 5915 | 781 | 
 | 2023-02-04 | 5915 | 781 | 
 | 2023-02-03 | 5914 | 781 | 
 | 2023-02-02 | 5913 | 781 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 5917 | 782 | 
 | 2023-01-08 | 5916 | 782 | 
 | 2023-01-07 | 5917 | 782 | 
-| 2023-01-06 | 5917 | 782 | 
 

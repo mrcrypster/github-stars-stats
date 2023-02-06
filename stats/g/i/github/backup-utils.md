@@ -1,10 +1,10 @@
 # github/backup-utils - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 703
+☋ Forks: 704
 
-★ Stars: 1073
+★ Stars: 1074
 
 [Open repository](https://github.com/github/backup-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1074 | 704 | 
 | 2023-02-04 | 1073 | 703 | 
 | 2023-02-03 | 1073 | 702 | 
 | 2023-02-02 | 1072 | 700 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 1063 | 701 | 
 | 2023-01-08 | 1062 | 700 | 
 | 2023-01-07 | 1062 | 700 | 
-| 2023-01-06 | 1062 | 700 | 
 

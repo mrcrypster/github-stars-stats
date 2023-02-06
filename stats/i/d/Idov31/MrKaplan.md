@@ -1,10 +1,10 @@
 # Idov31/MrKaplan - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 38
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/Idov31/MrKaplan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 175 | 38 | 
 | 2023-02-04 | 174 | 38 | 
 | 2023-02-03 | 174 | 38 | 
 | 2023-02-02 | 173 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 172 | 35 | 
 | 2023-01-08 | 172 | 35 | 
 | 2023-01-07 | 171 | 35 | 
-| 2023-01-06 | 171 | 35 | 
 

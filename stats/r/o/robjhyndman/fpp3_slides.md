@@ -1,10 +1,10 @@
 # robjhyndman/fpp3_slides - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/robjhyndman/fpp3_slides)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 25 | 5 | 
 | 2023-02-04 | 24 | 5 | 
 | 2023-02-03 | 24 | 5 | 
 | 2023-02-02 | 24 | 5 | 

@@ -1,10 +1,10 @@
 # philoskim/debux - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 17
 
-★ Stars: 434
+★ Stars: 438
 
 [Open repository](https://github.com/philoskim/debux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 438 | 17 | 
 | 2023-02-04 | 434 | 17 | 
 | 2023-02-03 | 434 | 17 | 
 | 2023-02-02 | 434 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 433 | 17 | 
 | 2023-01-08 | 433 | 17 | 
 | 2023-01-07 | 433 | 17 | 
-| 2023-01-06 | 433 | 17 | 
 

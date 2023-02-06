@@ -1,6 +1,6 @@
 # uvm-plaid/programming-dp - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 136 | 51 | 
 | 2023-02-04 | 136 | 51 | 
 | 2023-02-03 | 134 | 51 | 
 | 2023-02-02 | 133 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 129 | 51 | 
 | 2023-01-09 | 128 | 51 | 
 | 2023-01-08 | 128 | 50 | 
-| 2023-01-07 | 128 | 50 | 
 

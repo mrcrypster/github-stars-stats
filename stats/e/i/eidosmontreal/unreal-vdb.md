@@ -1,10 +1,10 @@
 # eidosmontreal/unreal-vdb - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 62
 
-★ Stars: 427
+★ Stars: 428
 
 [Open repository](https://github.com/eidosmontreal/unreal-vdb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 428 | 62 | 
 | 2023-02-04 | 427 | 62 | 
 | 2023-02-03 | 427 | 62 | 
 | 2023-02-02 | 426 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 419 | 60 | 
 | 2023-01-08 | 418 | 60 | 
 | 2023-01-07 | 416 | 60 | 
-| 2023-01-06 | 414 | 60 | 
 

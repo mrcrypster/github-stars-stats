@@ -1,10 +1,10 @@
 # BetaSu/just-react - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 469
 
-★ Stars: 5138
+★ Stars: 5139
 
 [Open repository](https://github.com/BetaSu/just-react)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 5139 | 469 | 
 | 2023-02-04 | 5138 | 469 | 
 | 2023-02-03 | 5132 | 469 | 
 | 2023-02-02 | 5129 | 469 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 5086 | 468 | 
 | 2023-01-09 | 5086 | 468 | 
 | 2023-01-08 | 5085 | 468 | 
-| 2023-01-07 | 5083 | 468 | 
 

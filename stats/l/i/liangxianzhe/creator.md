@@ -1,6 +1,6 @@
 # liangxianzhe/creator - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 191 | 15 | 
 | 2023-02-04 | 191 | 15 | 
 | 2023-02-03 | 191 | 15 | 
 | 2023-02-02 | 191 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 181 | 14 | 
 | 2023-01-08 | 181 | 14 | 
 | 2023-01-07 | 181 | 14 | 
-| 2023-01-06 | 181 | 14 | 
 

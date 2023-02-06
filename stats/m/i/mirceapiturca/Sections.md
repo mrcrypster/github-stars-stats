@@ -1,10 +1,10 @@
 # mirceapiturca/Sections - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/mirceapiturca/Sections)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 126 | 69 | 
 | 2023-02-04 | 125 | 68 | 
 | 2023-02-03 | 125 | 68 | 
 | 2023-02-02 | 125 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 121 | 63 | 
 | 2023-01-08 | 121 | 63 | 
 | 2023-01-07 | 121 | 63 | 
-| 2023-01-06 | 121 | 63 | 
 

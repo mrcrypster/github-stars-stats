@@ -1,10 +1,10 @@
 # socketsupply/socket - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 11
 
-★ Stars: 417
+★ Stars: 418
 
 [Open repository](https://github.com/socketsupply/socket)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 418 | 11 | 
 | 2023-02-04 | 417 | 11 | 
 | 2023-02-03 | 417 | 11 | 
 | 2023-02-02 | 416 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 340 | 11 | 
 | 2023-01-09 | 339 | 11 | 
 | 2023-01-08 | 339 | 11 | 
-| 2023-01-07 | 339 | 11 | 
 

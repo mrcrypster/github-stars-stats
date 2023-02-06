@@ -1,6 +1,6 @@
 # toimc-team/vue3-toimc-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 52 | 32 | 
 | 2023-02-04 | 52 | 32 | 
 | 2023-02-03 | 52 | 32 | 
 | 2023-02-01 | 51 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 51 | 32 | 
 | 2023-01-09 | 51 | 32 | 
 | 2023-01-07 | 51 | 32 | 
-| 2023-01-06 | 51 | 32 | 
 

@@ -1,8 +1,8 @@
 # DAOStartup/TheDAOProject - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 12
+☋ Forks: 11
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 7 | 11 | 
 | 2023-02-04 | 7 | 12 | 
 | 2023-02-03 | 7 | 12 | 
 | 2023-02-02 | 7 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 7 | 12 | 
 | 2023-01-08 | 7 | 12 | 
 | 2023-01-07 | 7 | 12 | 
-| 2023-01-06 | 7 | 12 | 
 

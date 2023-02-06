@@ -1,10 +1,10 @@
 # streamlit/streamlit - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 2005
 
-★ Stars: 22435
+★ Stars: 22447
 
 [Open repository](https://github.com/streamlit/streamlit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 22447 | 2005 | 
 | 2023-02-04 | 22435 | 2005 | 
 | 2023-02-03 | 22406 | 2004 | 
 | 2023-02-02 | 22395 | 2004 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 22046 | 1978 | 
 | 2023-01-08 | 22037 | 1974 | 
 | 2023-01-07 | 22031 | 1973 | 
-| 2023-01-06 | 22020 | 1972 | 
 

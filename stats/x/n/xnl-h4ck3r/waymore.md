@@ -1,10 +1,10 @@
 # xnl-h4ck3r/waymore - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 84
 
-★ Stars: 636
+★ Stars: 637
 
 [Open repository](https://github.com/xnl-h4ck3r/waymore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 637 | 84 | 
 | 2023-02-04 | 636 | 84 | 
 | 2023-02-03 | 636 | 84 | 
 | 2023-02-02 | 636 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 567 | 79 | 
 | 2023-01-08 | 567 | 79 | 
 | 2023-01-07 | 565 | 79 | 
-| 2023-01-06 | 564 | 79 | 
 

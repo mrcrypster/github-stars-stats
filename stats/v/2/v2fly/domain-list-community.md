@@ -1,10 +1,10 @@
 # v2fly/domain-list-community - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 452
+☋ Forks: 454
 
-★ Stars: 2027
+★ Stars: 2034
 
 [Open repository](https://github.com/v2fly/domain-list-community)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2034 | 454 | 
 | 2023-02-05 | 2027 | 452 | 
 | 2023-02-03 | 2019 | 452 | 
 | 2023-02-02 | 2017 | 452 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1935 | 428 | 
 | 2023-01-08 | 1929 | 427 | 
 | 2023-01-07 | 1927 | 426 | 
-| 2023-01-06 | 1924 | 426 | 
 

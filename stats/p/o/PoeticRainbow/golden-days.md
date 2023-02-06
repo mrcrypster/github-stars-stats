@@ -1,10 +1,10 @@
 # PoeticRainbow/golden-days - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 7
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/PoeticRainbow/golden-days)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 81 | 7 | 
 | 2023-02-04 | 80 | 7 | 
 | 2023-02-03 | 80 | 7 | 
 | 2023-02-02 | 80 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 79 | 7 | 
 | 2023-01-08 | 79 | 7 | 
 | 2023-01-07 | 79 | 7 | 
-| 2023-01-06 | 79 | 7 | 
 

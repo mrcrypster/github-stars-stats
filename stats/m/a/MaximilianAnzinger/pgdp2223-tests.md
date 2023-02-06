@@ -1,8 +1,8 @@
 # MaximilianAnzinger/pgdp2223-tests - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 120 | 114 | 
 | 2023-02-04 | 120 | 113 | 
 | 2023-02-03 | 120 | 113 | 
 | 2023-02-02 | 120 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 114 | 94 | 
 | 2023-01-08 | 114 | 92 | 
 | 2023-01-07 | 114 | 91 | 
-| 2023-01-06 | 114 | 91 | 
 

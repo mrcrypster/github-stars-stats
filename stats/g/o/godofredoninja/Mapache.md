@@ -1,10 +1,10 @@
 # godofredoninja/Mapache - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 214
+☋ Forks: 213
 
-★ Stars: 591
+★ Stars: 592
 
 [Open repository](https://github.com/godofredoninja/Mapache)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 592 | 213 | 
 | 2023-02-04 | 591 | 214 | 
 | 2023-02-03 | 591 | 214 | 
 | 2023-02-02 | 592 | 214 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 586 | 212 | 
 | 2023-01-08 | 586 | 212 | 
 | 2023-01-07 | 586 | 212 | 
-| 2023-01-06 | 586 | 212 | 
 

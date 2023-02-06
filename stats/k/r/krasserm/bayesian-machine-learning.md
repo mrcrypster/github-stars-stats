@@ -1,10 +1,10 @@
 # krasserm/bayesian-machine-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 430
 
-★ Stars: 1591
+★ Stars: 1592
 
 [Open repository](https://github.com/krasserm/bayesian-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1592 | 430 | 
 | 2023-02-05 | 1591 | 430 | 
 | 2023-02-03 | 1591 | 430 | 
 | 2023-02-02 | 1587 | 429 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 1574 | 428 | 
 | 2023-01-08 | 1573 | 427 | 
 | 2023-01-07 | 1573 | 427 | 
-| 2023-01-06 | 1573 | 427 | 
 

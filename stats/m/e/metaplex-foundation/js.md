@@ -1,6 +1,6 @@
 # metaplex-foundation/js - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 276 | 114 | 
 | 2023-02-04 | 276 | 114 | 
 | 2023-02-03 | 275 | 113 | 
 | 2023-02-02 | 275 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 271 | 107 | 
 | 2023-01-09 | 270 | 107 | 
 | 2023-01-08 | 269 | 107 | 
-| 2023-01-07 | 268 | 106 | 
 

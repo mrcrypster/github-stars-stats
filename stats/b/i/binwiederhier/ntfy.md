@@ -1,10 +1,10 @@
 # binwiederhier/ntfy - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 291
+☋ Forks: 293
 
-★ Stars: 9217
+★ Stars: 9234
 
 [Open repository](https://github.com/binwiederhier/ntfy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 9234 | 293 | 
 | 2023-02-04 | 9217 | 291 | 
 | 2023-02-03 | 9207 | 291 | 
 | 2023-02-02 | 9192 | 291 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 8895 | 276 | 
 | 2023-01-08 | 8877 | 274 | 
 | 2023-01-07 | 8866 | 274 | 
-| 2023-01-06 | 8850 | 275 | 
 

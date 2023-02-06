@@ -1,6 +1,6 @@
 # ire4ever1190/ponairi - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 11 | 1 | 
 | 2023-02-04 | 11 | 1 | 
 | 2023-02-03 | 11 | 1 | 
 | 2023-02-02 | 11 | 1 | 

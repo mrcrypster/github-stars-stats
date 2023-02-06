@@ -1,6 +1,6 @@
 # DanielMoralisSamples/28_Defi_Intro - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 49 | 62 | 
 | 2023-02-04 | 49 | 62 | 
 | 2023-02-02 | 49 | 62 | 
 | 2023-02-01 | 49 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 49 | 61 | 
 | 2023-01-08 | 49 | 61 | 
 | 2023-01-07 | 49 | 61 | 
-| 2023-01-06 | 49 | 61 | 
 

@@ -1,10 +1,10 @@
 # sudofox/shell-mommy - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 4
 
-★ Stars: 142
+★ Stars: 141
 
 [Open repository](https://github.com/sudofox/shell-mommy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 141 | 4 | 
 | 2023-02-04 | 142 | 4 | 
 | 2023-02-03 | 142 | 4 | 
 | 2023-02-02 | 142 | 4 | 

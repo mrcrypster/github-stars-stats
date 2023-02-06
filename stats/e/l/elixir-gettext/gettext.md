@@ -1,6 +1,6 @@
 # elixir-gettext/gettext - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 394 | 82 | 
 | 2023-02-04 | 394 | 82 | 
 | 2023-02-03 | 393 | 82 | 
 | 2023-02-01 | 392 | 82 | 

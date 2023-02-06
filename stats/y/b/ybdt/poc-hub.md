@@ -1,6 +1,6 @@
 # ybdt/poc-hub - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 641 | 149 | 
 | 2023-02-04 | 641 | 149 | 
 | 2023-02-03 | 641 | 149 | 
 | 2023-02-01 | 640 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 632 | 149 | 
 | 2023-01-09 | 631 | 148 | 
 | 2023-01-07 | 631 | 148 | 
-| 2023-01-06 | 631 | 148 | 
 

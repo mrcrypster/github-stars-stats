@@ -1,10 +1,10 @@
 # academind/100-days-of-web-development - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 918
+☋ Forks: 922
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/academind/100-days-of-web-development)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 564 | 922 | 
 | 2023-02-04 | 563 | 918 | 
 | 2023-02-03 | 563 | 917 | 
 | 2023-02-02 | 562 | 916 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 537 | 864 | 
 | 2023-01-08 | 534 | 860 | 
 | 2023-01-07 | 531 | 859 | 
-| 2023-01-06 | 531 | 856 | 
 

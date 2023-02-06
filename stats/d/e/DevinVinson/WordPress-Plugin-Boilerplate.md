@@ -1,10 +1,10 @@
 # DevinVinson/WordPress-Plugin-Boilerplate - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 2149
 
-★ Stars: 7211
+★ Stars: 7212
 
 [Open repository](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 7212 | 2149 | 
 | 2023-02-04 | 7211 | 2149 | 
 | 2023-02-03 | 7209 | 2148 | 
 | 2023-02-02 | 7208 | 2147 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 7184 | 2141 | 
 | 2023-01-08 | 7183 | 2142 | 
 | 2023-01-07 | 7183 | 2142 | 
-| 2023-01-06 | 7179 | 2142 | 
 

@@ -1,10 +1,10 @@
 # FiloSottile/passage - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 27
 
-★ Stars: 575
+★ Stars: 578
 
 [Open repository](https://github.com/FiloSottile/passage)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 578 | 27 | 
 | 2023-02-04 | 575 | 27 | 
 | 2023-02-03 | 575 | 27 | 
 | 2023-02-02 | 572 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 543 | 22 | 
 | 2023-01-08 | 540 | 22 | 
 | 2023-01-07 | 538 | 22 | 
-| 2023-01-06 | 537 | 22 | 
 

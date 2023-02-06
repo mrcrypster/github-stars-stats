@@ -1,10 +1,10 @@
 # aaa1115910/bv - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 562
+★ Stars: 569
 
 [Open repository](https://github.com/aaa1115910/bv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 569 | 48 | 
 | 2023-02-04 | 562 | 47 | 
 | 2023-02-03 | 559 | 45 | 
 | 2023-02-02 | 551 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 285 | 16 | 
 | 2023-01-08 | 277 | 16 | 
 | 2023-01-07 | 258 | 16 | 
-| 2023-01-06 | 251 | 16 | 
 

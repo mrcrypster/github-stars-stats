@@ -1,10 +1,10 @@
 # rxsweet/useProxies - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/rxsweet/useProxies)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 7 | 2 | 
 | 2023-02-04 | 6 | 2 | 
 | 2023-02-03 | 6 | 2 | 
 | 2023-02-02 | 6 | 2 | 

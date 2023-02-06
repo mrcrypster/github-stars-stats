@@ -1,10 +1,10 @@
 # tybenz/vim-scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/tybenz/vim-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2 | - | 
 | 2023-02-04 | 1 | - | 
 | 2023-02-03 | 1 | - | 
 | 2023-02-02 | 1 | - | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | - | - | 
 | 2023-01-08 | - | - | 
 | 2023-01-07 | - | - | 
-| 2023-01-06 | - | - | 
 

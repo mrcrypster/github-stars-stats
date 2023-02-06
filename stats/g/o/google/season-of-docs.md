@@ -1,10 +1,10 @@
 # google/season-of-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 657
+☋ Forks: 662
 
-★ Stars: 332
+★ Stars: 335
 
 [Open repository](https://github.com/google/season-of-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 335 | 662 | 
 | 2023-02-05 | 332 | 657 | 
 | 2023-02-03 | 331 | 652 | 
 | 2023-02-02 | 331 | 649 | 

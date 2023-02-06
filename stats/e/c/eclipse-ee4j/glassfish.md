@@ -1,8 +1,8 @@
 # eclipse-ee4j/glassfish - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 141
+☋ Forks: 138
 
 ★ Stars: 315
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 315 | 138 | 
 | 2023-02-04 | 315 | 141 | 
 | 2023-02-03 | 315 | 140 | 
 | 2023-02-02 | 315 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 314 | 137 | 
 | 2023-01-08 | 314 | 137 | 
 | 2023-01-07 | 314 | 137 | 
-| 2023-01-06 | 314 | 137 | 
 

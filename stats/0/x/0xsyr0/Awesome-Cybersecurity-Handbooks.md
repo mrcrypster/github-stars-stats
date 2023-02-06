@@ -1,10 +1,10 @@
 # 0xsyr0/Awesome-Cybersecurity-Handbooks - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 54
 
-★ Stars: 398
+★ Stars: 400
 
 [Open repository](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 400 | 54 | 
 | 2023-02-04 | 398 | 54 | 
 | 2023-02-03 | 397 | 54 | 
 | 2023-02-02 | 396 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 220 | 29 | 
 | 2023-01-09 | 221 | 29 | 
 | 2023-01-08 | 220 | 29 | 
-| 2023-01-07 | 220 | 29 | 
 

@@ -1,8 +1,8 @@
 # elastic/go-elasticsearch - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 526
+☋ Forks: 527
 
 ★ Stars: 4715
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 4715 | 527 | 
 | 2023-02-04 | 4715 | 526 | 
 | 2023-02-03 | 4715 | 525 | 
 | 2023-02-01 | 4712 | 525 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 4672 | 522 | 
 | 2023-01-08 | 4670 | 521 | 
 | 2023-01-07 | 4669 | 520 | 
-| 2023-01-06 | 4668 | 520 | 
 

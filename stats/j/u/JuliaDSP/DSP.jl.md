@@ -1,10 +1,10 @@
 # JuliaDSP/DSP.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 97
 
-★ Stars: 324
+★ Stars: 323
 
 [Open repository](https://github.com/JuliaDSP/DSP.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 323 | 97 | 
 | 2023-02-04 | 324 | 97 | 
 | 2023-02-03 | 324 | 97 | 
 | 2023-02-02 | 324 | 97 | 

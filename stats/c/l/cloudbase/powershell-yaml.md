@@ -1,8 +1,8 @@
 # cloudbase/powershell-yaml - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 67
+☋ Forks: 66
 
 ★ Stars: 322
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 322 | 66 | 
 | 2023-02-04 | 322 | 67 | 
 | 2023-02-03 | 322 | 66 | 
 | 2023-02-01 | 321 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 315 | 66 | 
 | 2023-01-08 | 314 | 66 | 
 | 2023-01-07 | 314 | 66 | 
-| 2023-01-06 | 314 | 66 | 
 

@@ -1,6 +1,6 @@
 # mark-when/markwhen - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2218 | 86 | 
 | 2023-02-05 | 2218 | 86 | 
 | 2023-02-03 | 2217 | 86 | 
 | 2023-02-02 | 2216 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 2155 | 84 | 
 | 2023-01-08 | 2153 | 84 | 
 | 2023-01-07 | 2153 | 83 | 
-| 2023-01-06 | 2151 | 83 | 
 

@@ -1,10 +1,10 @@
 # eddiechu/File-Smuggling - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 17
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/eddiechu/File-Smuggling)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 153 | 17 | 
 | 2023-02-04 | 152 | 17 | 
 | 2023-02-03 | 152 | 17 | 
 | 2023-02-02 | 147 | 15 | 

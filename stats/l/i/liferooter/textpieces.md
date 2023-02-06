@@ -1,6 +1,6 @@
 # liferooter/textpieces - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 131 | 17 | 
 | 2023-02-04 | 131 | 17 | 
 | 2023-02-03 | 131 | 17 | 
 | 2023-02-02 | 131 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 126 | 17 | 
 | 2023-01-08 | 126 | 17 | 
 | 2023-01-07 | 126 | 17 | 
-| 2023-01-06 | 125 | 17 | 
 

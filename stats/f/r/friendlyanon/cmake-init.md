@@ -1,10 +1,10 @@
 # friendlyanon/cmake-init - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 45
 
-★ Stars: 1106
+★ Stars: 1108
 
 [Open repository](https://github.com/friendlyanon/cmake-init)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1108 | 45 | 
 | 2023-02-04 | 1106 | 45 | 
 | 2023-02-03 | 1103 | 45 | 
 | 2023-02-02 | 1103 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 1064 | 43 | 
 | 2023-01-08 | 1062 | 43 | 
 | 2023-01-07 | 1056 | 44 | 
-| 2023-01-06 | 1055 | 44 | 
 

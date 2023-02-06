@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 602
 
-★ Stars: 4198
+★ Stars: 4199
 
 [Open repository](https://github.com/ChilliCream/graphql-platform)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 4198 | 602 | 
+| 2023-02-05 | 4199 | 602 | 
 | 2023-02-04 | 4198 | 602 | 
 | 2023-02-03 | 4194 | 601 | 
 | 2023-02-02 | 4190 | 600 | 

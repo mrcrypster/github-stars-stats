@@ -1,10 +1,10 @@
 # below/HelloSilicon - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 163
 
-★ Stars: 2427
+★ Stars: 2439
 
 [Open repository](https://github.com/below/HelloSilicon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2439 | 163 | 
 | 2023-02-04 | 2427 | 163 | 
 | 2023-02-03 | 2427 | 163 | 
 | 2023-02-02 | 2426 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 2362 | 155 | 
 | 2023-01-08 | 2357 | 155 | 
 | 2023-01-07 | 2353 | 155 | 
-| 2023-01-06 | 2347 | 155 | 
 

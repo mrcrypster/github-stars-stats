@@ -1,6 +1,6 @@
 # DLarisa/FMI-Materials-BachelorDegree-UniBuc - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 88 | 27 | 
 | 2023-02-04 | 88 | 27 | 
 | 2023-02-03 | 88 | 27 | 
 | 2023-02-02 | 87 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 84 | 27 | 
 | 2023-01-08 | 84 | 27 | 
 | 2023-01-07 | 84 | 27 | 
-| 2023-01-06 | 84 | 27 | 
 

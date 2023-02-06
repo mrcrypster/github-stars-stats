@@ -1,6 +1,6 @@
 # yisar/asta - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 690 | 65 | 
 | 2023-02-04 | 690 | 65 | 
 | 2023-02-03 | 690 | 65 | 
 | 2023-02-02 | 690 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 686 | 65 | 
 | 2023-01-08 | 686 | 65 | 
 | 2023-01-07 | 686 | 65 | 
-| 2023-01-06 | 686 | 65 | 
 

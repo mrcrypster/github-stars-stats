@@ -1,10 +1,10 @@
 # vinceliuice/Orchis-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 179
+☋ Forks: 180
 
-★ Stars: 1979
+★ Stars: 1983
 
 [Open repository](https://github.com/vinceliuice/Orchis-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1983 | 180 | 
 | 2023-02-04 | 1979 | 179 | 
 | 2023-02-03 | 1976 | 179 | 
 | 2023-02-02 | 1966 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 1932 | 177 | 
 | 2023-01-08 | 1932 | 178 | 
 | 2023-01-07 | 1929 | 178 | 
-| 2023-01-06 | 1929 | 179 | 
 

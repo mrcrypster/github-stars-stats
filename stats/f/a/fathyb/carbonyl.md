@@ -1,10 +1,10 @@
 # fathyb/carbonyl - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 213
+☋ Forks: 216
 
-★ Stars: 9056
+★ Stars: 9195
 
 [Open repository](https://github.com/fathyb/carbonyl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 9195 | 216 | 
 | 2023-02-04 | 9056 | 213 | 
 | 2023-02-03 | 8913 | 212 | 
 | 2023-02-02 | 8794 | 210 | 

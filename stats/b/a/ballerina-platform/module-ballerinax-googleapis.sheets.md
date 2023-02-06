@@ -1,6 +1,6 @@
 # ballerina-platform/module-ballerinax-googleapis.sheets - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3 | 39 | 
 | 2023-02-04 | 3 | 39 | 
 | 2023-02-03 | 3 | 39 | 
 | 2023-02-02 | 3 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 4 | 39 | 
 | 2023-01-08 | 4 | 39 | 
 | 2023-01-07 | 4 | 39 | 
-| 2023-01-06 | 4 | 39 | 
 

@@ -1,6 +1,6 @@
 # HEP-FCC/EventProducer - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 3 | 16 | 
 | 2023-02-04 | 3 | 16 | 
 | 2023-02-03 | 4 | 16 | 
 | 2023-02-02 | 4 | 16 | 

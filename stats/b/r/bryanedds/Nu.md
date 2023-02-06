@@ -1,8 +1,8 @@
 # bryanedds/Nu - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 107
+☋ Forks: 108
 
 ★ Stars: 886
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 886 | 108 | 
 | 2023-02-04 | 886 | 107 | 
 | 2023-02-03 | 885 | 107 | 
 | 2023-02-01 | 882 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 879 | 105 | 
 | 2023-01-09 | 879 | 105 | 
 | 2023-01-08 | 880 | 105 | 
-| 2023-01-07 | 880 | 105 | 
 

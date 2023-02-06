@@ -1,10 +1,10 @@
 # godot-rust/godot-rust - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 198
 
-★ Stars: 3219
+★ Stars: 3221
 
 [Open repository](https://github.com/godot-rust/godot-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 3221 | 198 | 
 | 2023-02-04 | 3219 | 198 | 
 | 2023-02-03 | 3218 | 198 | 
 | 2023-02-01 | 3217 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 3167 | 196 | 
 | 2023-01-08 | 3165 | 196 | 
 | 2023-01-07 | 3162 | 196 | 
-| 2023-01-06 | 3162 | 196 | 
 

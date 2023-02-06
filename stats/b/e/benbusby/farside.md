@@ -1,10 +1,10 @@
 # benbusby/farside - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 28
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/benbusby/farside)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 356 | 28 | 
 | 2023-02-04 | 355 | 28 | 
 | 2023-02-03 | 355 | 28 | 
 | 2023-02-02 | 351 | 28 | 

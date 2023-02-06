@@ -1,10 +1,10 @@
 # samisalkosuo/elite-for-emacs - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 10
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/samisalkosuo/elite-for-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 129 | 10 | 
 | 2023-02-04 | 128 | 10 | 
 | 2023-02-03 | 128 | 10 | 
 | 2023-02-02 | 127 | 10 | 

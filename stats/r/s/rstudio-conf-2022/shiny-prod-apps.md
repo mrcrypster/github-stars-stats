@@ -1,6 +1,6 @@
 # rstudio-conf-2022/shiny-prod-apps - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 56 | 23 | 
 | 2023-02-04 | 56 | 23 | 
 | 2023-02-03 | 56 | 23 | 
 | 2023-02-02 | 56 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 54 | 24 | 
 | 2023-01-08 | 54 | 24 | 
 | 2023-01-07 | 54 | 24 | 
-| 2023-01-06 | 54 | 24 | 
 

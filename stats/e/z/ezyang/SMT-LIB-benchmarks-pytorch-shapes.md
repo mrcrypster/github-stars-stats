@@ -1,6 +1,6 @@
 # ezyang/SMT-LIB-benchmarks-pytorch-shapes - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 17 | - | 
 | 2023-02-04 | 17 | - | 
 | 2023-02-03 | 16 | - | 
 | 2023-02-01 | 16 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 16 | - | 
 | 2023-01-08 | 16 | - | 
 | 2023-01-07 | 16 | - | 
-| 2023-01-06 | 16 | - | 
 

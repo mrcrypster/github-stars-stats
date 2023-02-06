@@ -1,6 +1,6 @@
 # bastibe/org-journal - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1088 | 118 | 
 | 2023-02-04 | 1088 | 118 | 
 | 2023-02-03 | 1084 | 118 | 
 | 2023-02-02 | 1084 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1078 | 118 | 
 | 2023-01-09 | 1077 | 118 | 
 | 2023-01-08 | 1077 | 118 | 
-| 2023-01-07 | 1077 | 118 | 
 

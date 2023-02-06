@@ -1,6 +1,6 @@
 # Appsilon/shiny.fluent - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 223 | 28 | 
 | 2023-02-04 | 223 | 28 | 
 | 2023-02-03 | 223 | 28 | 
 | 2023-02-02 | 223 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 204 | 26 | 
 | 2023-01-08 | 204 | 26 | 
 | 2023-01-07 | 204 | 26 | 
-| 2023-01-06 | 204 | 26 | 
 

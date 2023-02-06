@@ -1,10 +1,10 @@
 # TeamVanced/VancedStore - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 180
 
-★ Stars: 571
+★ Stars: 573
 
 [Open repository](https://github.com/TeamVanced/VancedStore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 573 | 180 | 
 | 2023-02-04 | 571 | 180 | 
 | 2023-02-03 | 571 | 180 | 
 | 2023-02-02 | 570 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 562 | 178 | 
 | 2023-01-08 | 562 | 178 | 
 | 2023-01-07 | 561 | 178 | 
-| 2023-01-06 | 561 | 178 | 
 

@@ -1,10 +1,10 @@
 # flix/flix - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 112
 
-★ Stars: 1645
+★ Stars: 1646
 
 [Open repository](https://github.com/flix/flix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1646 | 112 | 
 | 2023-02-04 | 1645 | 112 | 
 | 2023-02-03 | 1645 | 112 | 
 | 2023-02-02 | 1645 | 112 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1629 | 113 | 
 | 2023-01-09 | 1629 | 113 | 
 | 2023-01-08 | 1628 | 113 | 
-| 2023-01-07 | 1629 | 113 | 
 

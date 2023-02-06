@@ -1,10 +1,10 @@
 # ErrorErrorError/AnimeNow - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 13
 
-★ Stars: 283
+★ Stars: 285
 
 [Open repository](https://github.com/ErrorErrorError/AnimeNow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 285 | 13 | 
 | 2023-02-03 | 283 | 13 | 
 | 2023-02-02 | 281 | 12 | 
 | 2023-02-01 | 278 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-10 | 238 | 13 | 
 | 2023-01-08 | 235 | 13 | 
 | 2023-01-07 | 230 | 13 | 
-| 2023-01-06 | 226 | 13 | 
 

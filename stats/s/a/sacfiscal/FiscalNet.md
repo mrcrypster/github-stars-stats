@@ -1,6 +1,6 @@
 # sacfiscal/FiscalNet - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 78 | 22 | 
 | 2023-02-04 | 78 | 22 | 
 | 2023-02-03 | 78 | 22 | 
 | 2023-02-02 | 78 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 78 | 22 | 
 | 2023-01-08 | 78 | 22 | 
 | 2023-01-07 | 77 | 22 | 
-| 2023-01-06 | 77 | 22 | 
 

@@ -1,10 +1,10 @@
 # docker/compose - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 4711
+☋ Forks: 4715
 
-★ Stars: 28461
+★ Stars: 28473
 
 [Open repository](https://github.com/docker/compose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 28473 | 4715 | 
 | 2023-02-04 | 28461 | 4711 | 
 | 2023-02-03 | 28449 | 4713 | 
 | 2023-02-02 | 28438 | 4710 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 28230 | 4690 | 
 | 2023-01-08 | 28217 | 4689 | 
 | 2023-01-07 | 28214 | 4688 | 
-| 2023-01-06 | 28201 | 4686 | 
 

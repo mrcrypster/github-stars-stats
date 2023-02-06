@@ -1,6 +1,6 @@
 # gotgit/gotgithub - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 528
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1468 | 528 | 
 | 2023-02-05 | 1468 | 528 | 
 | 2023-02-04 | 1468 | 528 | 
 | 2023-02-02 | 1468 | 528 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 1466 | 527 | 
 | 2023-01-08 | 1465 | 527 | 
 | 2023-01-07 | 1465 | 527 | 
-| 2023-01-06 | 1465 | 527 | 
 

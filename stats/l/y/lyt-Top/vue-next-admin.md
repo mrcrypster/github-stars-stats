@@ -1,8 +1,8 @@
 # lyt-Top/vue-next-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 151
+☋ Forks: 152
 
 ★ Stars: 843
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 843 | 152 | 
 | 2023-02-04 | 843 | 151 | 
 | 2023-02-03 | 843 | 150 | 
 | 2023-02-02 | 838 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 798 | 140 | 
 | 2023-01-09 | 797 | 139 | 
 | 2023-01-08 | 797 | 139 | 
-| 2023-01-07 | 796 | 139 | 
 

@@ -1,8 +1,8 @@
 # nutonomy/nuscenes-devkit - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 521
+☋ Forks: 522
 
 ★ Stars: 1598
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1598 | 522 | 
 | 2023-02-04 | 1598 | 521 | 
 | 2023-02-03 | 1598 | 521 | 
 | 2023-02-01 | 1597 | 520 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1577 | 521 | 
 | 2023-01-09 | 1576 | 521 | 
 | 2023-01-07 | 1576 | 521 | 
-| 2023-01-06 | 1575 | 520 | 
 

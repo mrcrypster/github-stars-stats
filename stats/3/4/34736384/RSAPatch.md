@@ -1,10 +1,10 @@
 # 34736384/RSAPatch - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 53
 
-★ Stars: 174
+★ Stars: 176
 
 [Open repository](https://github.com/34736384/RSAPatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 176 | 53 | 
 | 2023-02-04 | 174 | 53 | 
 | 2023-02-03 | 173 | 53 | 
 | 2023-02-02 | 173 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 144 | 46 | 
 | 2023-01-08 | 141 | 46 | 
 | 2023-01-07 | 136 | 43 | 
-| 2023-01-06 | 133 | 43 | 
 

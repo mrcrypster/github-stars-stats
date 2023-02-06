@@ -1,10 +1,10 @@
 # koutto/pi-pwnbox-rogueap - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 140
 
-★ Stars: 1139
+★ Stars: 1142
 
 [Open repository](https://github.com/koutto/pi-pwnbox-rogueap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1142 | 140 | 
 | 2023-02-04 | 1139 | 140 | 
 | 2023-02-03 | 1136 | 140 | 
 | 2023-02-02 | 1134 | 138 | 

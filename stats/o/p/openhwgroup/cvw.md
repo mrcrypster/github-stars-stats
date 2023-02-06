@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 30
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/openhwgroup/cvw)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 25 | 30 | 
+| 2023-02-05 | 26 | 30 | 
 | 2023-02-04 | 25 | 30 | 
 | 2023-02-03 | 25 | 30 | 
 | 2023-02-02 | 25 | 29 | 

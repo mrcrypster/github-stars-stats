@@ -1,6 +1,6 @@
 # brantou/emacs-go-tag - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 50 | 3 | 
 | 2023-02-04 | 50 | 3 | 
 | 2023-02-03 | 50 | 3 | 
 | 2023-02-02 | 50 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 49 | 3 | 
 | 2023-01-09 | 49 | 3 | 
 | 2023-01-08 | 49 | 3 | 
-| 2023-01-07 | 49 | 3 | 
 

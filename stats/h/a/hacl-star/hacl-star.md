@@ -1,6 +1,6 @@
 # hacl-star/hacl-star - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1463 | 151 | 
 | 2023-02-04 | 1463 | 151 | 
 | 2023-02-03 | 1462 | 151 | 
 | 2023-02-02 | 1461 | 151 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1460 | 150 | 
 | 2023-01-09 | 1460 | 149 | 
 | 2023-01-08 | 1459 | 149 | 
-| 2023-01-07 | 1459 | 149 | 
 

@@ -1,6 +1,6 @@
 # PetrKryslUCSD/Sparspak.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 31 | 4 | 
 | 2023-02-04 | 31 | 4 | 
 | 2023-02-03 | 31 | 4 | 
 | 2023-02-01 | 31 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 30 | 4 | 
 | 2023-01-08 | 30 | 4 | 
 | 2023-01-07 | 30 | 4 | 
-| 2023-01-06 | 30 | 4 | 
 

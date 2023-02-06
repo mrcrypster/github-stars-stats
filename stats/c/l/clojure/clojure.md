@@ -1,10 +1,10 @@
 # clojure/clojure - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1455
 
-★ Stars: 9854
+★ Stars: 9852
 
 [Open repository](https://github.com/clojure/clojure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 9852 | 1455 | 
 | 2023-02-04 | 9854 | 1455 | 
 | 2023-02-03 | 9853 | 1455 | 
 | 2023-02-02 | 9848 | 1456 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 9822 | 1451 | 
 | 2023-01-08 | 9821 | 1451 | 
 | 2023-01-07 | 9820 | 1452 | 
-| 2023-01-06 | 9818 | 1452 | 
 

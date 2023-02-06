@@ -1,8 +1,8 @@
 # antoniojmsjr/FastReportPrinter - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 16 | 8 | 
 | 2023-02-04 | 16 | 7 | 
 | 2023-02-03 | 16 | 7 | 
 | 2023-02-02 | 16 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 16 | 7 | 
 | 2023-01-09 | 16 | 7 | 
 | 2023-01-07 | 16 | 7 | 
-| 2023-01-06 | 16 | 7 | 
 

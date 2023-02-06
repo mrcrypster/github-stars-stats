@@ -1,10 +1,10 @@
 # Flutterando/forum - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/Flutterando/forum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 157 | 2 | 
 | 2023-02-04 | 156 | 2 | 
 | 2023-02-03 | 155 | 2 | 
 | 2023-02-01 | 155 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 149 | 2 | 
 | 2023-01-08 | 149 | 2 | 
 | 2023-01-07 | 149 | 2 | 
-| 2023-01-06 | 149 | 2 | 
 

@@ -1,10 +1,10 @@
 # jbeder/yaml-cpp - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1463
 
-★ Stars: 3878
+★ Stars: 3879
 
 [Open repository](https://github.com/jbeder/yaml-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 3879 | 1463 | 
 | 2023-02-04 | 3878 | 1463 | 
 | 2023-02-03 | 3878 | 1462 | 
 | 2023-02-02 | 3874 | 1462 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 3839 | 1437 | 
 | 2023-01-08 | 3838 | 1435 | 
 | 2023-01-07 | 3839 | 1435 | 
-| 2023-01-06 | 3835 | 1434 | 
 

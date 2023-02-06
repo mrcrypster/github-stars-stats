@@ -1,10 +1,10 @@
 # gaganode/gaga_android_sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 172
+★ Stars: 175
 
 [Open repository](https://github.com/gaganode/gaga_android_sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 175 | 25 | 
 | 2023-02-04 | 172 | 24 | 
 | 2023-02-03 | 172 | 24 | 
 | 2023-02-02 | 172 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 121 | 15 | 
 | 2023-01-08 | 116 | 15 | 
 | 2023-01-07 | 112 | 14 | 
-| 2023-01-06 | 109 | 14 | 
 

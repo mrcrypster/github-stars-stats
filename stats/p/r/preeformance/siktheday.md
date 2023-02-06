@@ -1,6 +1,6 @@
 # preeformance/siktheday - stars & forks statistics
 
-Stats updated on Feb 2023, 03
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 22 | - | 
 | 2023-02-03 | 22 | - | 
 | 2023-02-02 | 22 | - | 
 | 2023-02-01 | 22 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 03
 | 2023-01-09 | 22 | - | 
 | 2023-01-08 | 22 | - | 
 | 2023-01-07 | 22 | - | 
-| 2023-01-06 | 22 | - | 
 

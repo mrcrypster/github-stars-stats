@@ -1,10 +1,10 @@
 # dimforge/nalgebra - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 371
 
-★ Stars: 3052
+★ Stars: 3057
 
 [Open repository](https://github.com/dimforge/nalgebra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 3057 | 371 | 
 | 2023-02-04 | 3052 | 371 | 
 | 2023-02-03 | 3051 | 371 | 
 | 2023-02-02 | 3049 | 371 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 2998 | 367 | 
 | 2023-01-08 | 2993 | 367 | 
 | 2023-01-07 | 2991 | 367 | 
-| 2023-01-06 | 2990 | 367 | 
 

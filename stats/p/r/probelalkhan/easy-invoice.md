@@ -1,6 +1,6 @@
 # probelalkhan/easy-invoice - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 37 | 8 | 
 | 2023-02-04 | 37 | 8 | 
 | 2023-02-03 | 37 | 8 | 
 | 2023-02-02 | 37 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 36 | 7 | 
 | 2023-01-08 | 36 | 7 | 
 | 2023-01-07 | 36 | 7 | 
-| 2023-01-06 | 36 | 7 | 
 

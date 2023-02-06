@@ -1,6 +1,6 @@
 # marcoslucianops/DeepStream-Yolo - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 784 | 240 | 
 | 2023-02-04 | 784 | 240 | 
 | 2023-02-03 | 781 | 240 | 
 | 2023-02-02 | 780 | 239 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 751 | 230 | 
 | 2023-01-09 | 749 | 229 | 
 | 2023-01-08 | 748 | 229 | 
-| 2023-01-07 | 748 | 229 | 
 

@@ -1,10 +1,10 @@
 # mit-han-lab/tinyengine - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 57
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/mit-han-lab/tinyengine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 425 | 57 | 
 | 2023-02-04 | 424 | 57 | 
 | 2023-02-03 | 424 | 57 | 
 | 2023-02-02 | 423 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 405 | 52 | 
 | 2023-01-09 | 405 | 52 | 
 | 2023-01-08 | 403 | 51 | 
-| 2023-01-06 | 403 | 51 | 
 

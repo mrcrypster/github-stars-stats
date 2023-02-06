@@ -1,8 +1,8 @@
 # Cyb0r9/SocialBox - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 454
+☋ Forks: 453
 
 ★ Stars: 1113
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1113 | 453 | 
 | 2023-02-04 | 1113 | 454 | 
 | 2023-02-02 | 1113 | 454 | 
 | 2023-02-01 | 1113 | 453 | 

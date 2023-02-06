@@ -1,10 +1,10 @@
 # davidz-yt/desk-controller - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 14
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/davidz-yt/desk-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 164 | 14 | 
 | 2023-02-04 | 163 | 14 | 
 | 2023-02-03 | 162 | 14 | 
 | 2023-02-02 | 162 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 133 | 12 | 
 | 2023-01-08 | 131 | 12 | 
 | 2023-01-07 | 130 | 12 | 
-| 2023-01-06 | 126 | 12 | 
 

@@ -1,8 +1,8 @@
 # vueComponent/ant-design-vue - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 3374
+☋ Forks: 3375
 
 ★ Stars: 17672
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 17672 | 3375 | 
 | 2023-02-04 | 17672 | 3374 | 
 | 2023-02-03 | 17670 | 3373 | 
 | 2023-02-02 | 17663 | 3371 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 17601 | 3362 | 
 | 2023-01-08 | 17602 | 3359 | 
 | 2023-01-07 | 17600 | 3358 | 
-| 2023-01-06 | 17598 | 3359 | 
 

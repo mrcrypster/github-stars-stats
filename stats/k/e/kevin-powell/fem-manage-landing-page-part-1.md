@@ -1,10 +1,10 @@
 # kevin-powell/fem-manage-landing-page-part-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 38
 
-★ Stars: 22
+★ Stars: 21
 
 [Open repository](https://github.com/kevin-powell/fem-manage-landing-page-part-1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 21 | 38 | 
 | 2023-02-04 | 22 | 38 | 
 | 2023-02-03 | 22 | 38 | 
 | 2023-02-02 | 23 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 20 | 37 | 
 | 2023-01-08 | 20 | 36 | 
 | 2023-01-07 | 20 | 35 | 
-| 2023-01-06 | 20 | 35 | 
 

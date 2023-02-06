@@ -1,8 +1,8 @@
 # neelk19450/RDP-FREE - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 184
+☋ Forks: 185
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2 | 185 | 
 | 2023-02-04 | 2 | 184 | 
 | 2023-02-03 | 2 | 183 | 
 | 2023-02-02 | 2 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 2 | 88 | 
 | 2023-01-08 | 2 | 88 | 
 | 2023-01-07 | 2 | 87 | 
-| 2023-01-06 | 2 | 86 | 
 

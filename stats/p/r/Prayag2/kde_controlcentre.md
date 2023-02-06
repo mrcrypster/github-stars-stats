@@ -1,6 +1,6 @@
 # Prayag2/kde_controlcentre - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 244 | 16 | 
 | 2023-02-04 | 244 | 16 | 
 | 2023-02-03 | 245 | 16 | 
 | 2023-02-01 | 245 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 240 | 14 | 
 | 2023-01-09 | 240 | 14 | 
 | 2023-01-07 | 240 | 14 | 
-| 2023-01-06 | 240 | 14 | 
 

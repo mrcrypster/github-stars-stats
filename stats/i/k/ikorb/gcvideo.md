@@ -1,10 +1,10 @@
 # ikorb/gcvideo - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 76
 
-★ Stars: 534
+★ Stars: 535
 
 [Open repository](https://github.com/ikorb/gcvideo)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 535 | 76 | 
+| 2023-02-05 | 535 | 76 | 
 | 2023-02-04 | 534 | 76 | 
 | 2023-02-03 | 534 | 76 | 
 | 2023-02-02 | 533 | 76 | 

@@ -1,6 +1,6 @@
 # pyodide/pyodide - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 623
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 9573 | 623 | 
 | 2023-02-04 | 9573 | 623 | 
 | 2023-02-03 | 9566 | 622 | 
 | 2023-02-01 | 9561 | 622 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 9475 | 619 | 
 | 2023-01-08 | 9471 | 619 | 
 | 2023-01-07 | 9467 | 618 | 
-| 2023-01-06 | 9463 | 618 | 
 

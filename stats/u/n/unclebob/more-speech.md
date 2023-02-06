@@ -1,10 +1,10 @@
 # unclebob/more-speech - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 19
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/unclebob/more-speech)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 175 | 19 | 
 | 2023-02-04 | 174 | 19 | 
 | 2023-02-03 | 174 | 19 | 
 | 2023-02-02 | 174 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 162 | 18 | 
 | 2023-01-08 | 162 | 18 | 
 | 2023-01-07 | 162 | 18 | 
-| 2023-01-06 | 161 | 18 | 
 

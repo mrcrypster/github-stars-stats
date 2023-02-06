@@ -1,6 +1,6 @@
 # ralismark/opsort.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 29 | - | 
 | 2023-02-04 | 29 | - | 
 | 2023-02-03 | 29 | - | 
 | 2023-02-02 | 29 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 29 | - | 
 | 2023-01-08 | 29 | - | 
 | 2023-01-07 | 29 | - | 
-| 2023-01-06 | 29 | - | 
 

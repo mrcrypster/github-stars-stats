@@ -1,10 +1,10 @@
 # Security-Onion-Solutions/securityonion - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 329
+☋ Forks: 330
 
-★ Stars: 1704
+★ Stars: 1707
 
 [Open repository](https://github.com/Security-Onion-Solutions/securityonion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1707 | 330 | 
 | 2023-02-04 | 1704 | 329 | 
 | 2023-02-03 | 1701 | 329 | 
 | 2023-02-02 | 1700 | 329 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1650 | 324 | 
 | 2023-01-09 | 1648 | 324 | 
 | 2023-01-08 | 1648 | 323 | 
-| 2023-01-07 | 1646 | 323 | 
 

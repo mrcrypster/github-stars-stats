@@ -1,6 +1,6 @@
 # zero-proxy/zero-proxy - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 289 | 19 | 
 | 2023-02-04 | 289 | 19 | 
 | 2023-02-03 | 289 | 19 | 
 | 2023-02-02 | 289 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 289 | 19 | 
 | 2023-01-09 | 289 | 19 | 
 | 2023-01-08 | 289 | 19 | 
-| 2023-01-07 | 289 | 19 | 
 

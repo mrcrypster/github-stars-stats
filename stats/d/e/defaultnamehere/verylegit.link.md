@@ -1,10 +1,10 @@
 # defaultnamehere/verylegit.link - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 44
 
-★ Stars: 1211
+★ Stars: 1221
 
 [Open repository](https://github.com/defaultnamehere/verylegit.link)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1221 | 44 | 
 | 2023-02-04 | 1211 | 44 | 
 | 2023-02-03 | 1206 | 43 | 
 

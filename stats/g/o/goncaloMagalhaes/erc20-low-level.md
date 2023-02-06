@@ -1,6 +1,6 @@
 # goncaloMagalhaes/erc20-low-level - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 42 | 2 | 
 | 2023-02-04 | 42 | 2 | 
 | 2023-02-03 | 42 | 2 | 
 | 2023-02-01 | 42 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 40 | 2 | 
 | 2023-01-08 | 39 | 2 | 
 | 2023-01-07 | 37 | 2 | 
-| 2023-01-06 | 36 | 2 | 
 

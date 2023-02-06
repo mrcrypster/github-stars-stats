@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 806
 
-★ Stars: 1856
+★ Stars: 1857
 
 [Open repository](https://github.com/markshust/docker-magento)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 1856 | 806 | 
+| 2023-02-05 | 1857 | 806 | 
 | 2023-02-04 | 1856 | 806 | 
 | 2023-02-03 | 1854 | 806 | 
 | 2023-02-02 | 1850 | 803 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 1835 | 804 | 
 | 2023-01-08 | 1833 | 804 | 
 | 2023-01-07 | 1833 | 804 | 
-| 2023-01-06 | 1833 | 804 | 
 

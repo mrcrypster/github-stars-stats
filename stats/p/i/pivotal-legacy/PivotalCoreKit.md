@@ -1,6 +1,6 @@
 # pivotal-legacy/PivotalCoreKit - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 172 | 87 | 
 | 2023-02-04 | 172 | 87 | 
 | 2023-02-03 | 172 | 87 | 
 | 2023-02-02 | 172 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 171 | 87 | 
 | 2023-01-08 | 171 | 87 | 
 | 2023-01-07 | 171 | 87 | 
-| 2023-01-06 | 171 | 87 | 
 

@@ -1,10 +1,10 @@
 # Jaysmito101/TerraForge3D - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 707
+★ Stars: 708
 
 [Open repository](https://github.com/Jaysmito101/TerraForge3D)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 708 | 71 | 
 | 2023-02-04 | 707 | 70 | 
 | 2023-02-03 | 707 | 69 | 
 | 2023-02-01 | 707 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 691 | 67 | 
 | 2023-01-09 | 690 | 67 | 
 | 2023-01-07 | 690 | 67 | 
-| 2023-01-06 | 690 | 67 | 
 

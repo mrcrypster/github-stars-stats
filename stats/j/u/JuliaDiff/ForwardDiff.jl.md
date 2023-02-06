@@ -1,6 +1,6 @@
 # JuliaDiff/ForwardDiff.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 735 | 127 | 
 | 2023-02-04 | 735 | 127 | 
 | 2023-02-03 | 735 | 127 | 
 | 2023-02-02 | 734 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 727 | 126 | 
 | 2023-01-08 | 727 | 126 | 
 | 2023-01-07 | 727 | 126 | 
-| 2023-01-06 | 727 | 126 | 
 

@@ -1,8 +1,8 @@
 # deepmind/alphatensor - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 198
+☋ Forks: 199
 
 ★ Stars: 2371
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2371 | 199 | 
 | 2023-02-04 | 2371 | 198 | 
 | 2023-02-03 | 2369 | 197 | 
 | 2023-02-02 | 2369 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 2332 | 187 | 
 | 2023-01-08 | 2332 | 187 | 
 | 2023-01-07 | 2330 | 186 | 
-| 2023-01-06 | 2329 | 186 | 
 

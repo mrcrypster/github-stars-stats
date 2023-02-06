@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 735
 
-★ Stars: 6106
+★ Stars: 6107
 
 [Open repository](https://github.com/ankane/searchkick)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 6106 | 735 | 
+| 2023-02-05 | 6107 | 735 | 
 | 2023-02-04 | 6106 | 735 | 
 | 2023-02-03 | 6106 | 735 | 
 | 2023-02-02 | 6102 | 734 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 6086 | 732 | 
 | 2023-01-08 | 6085 | 732 | 
 | 2023-01-07 | 6085 | 732 | 
-| 2023-01-06 | 6084 | 732 | 
 

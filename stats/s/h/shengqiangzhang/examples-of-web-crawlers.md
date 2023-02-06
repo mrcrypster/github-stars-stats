@@ -1,10 +1,10 @@
 # shengqiangzhang/examples-of-web-crawlers - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 3573
 
-★ Stars: 11793
+★ Stars: 11796
 
 [Open repository](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 11796 | 3573 | 
 | 2023-02-04 | 11793 | 3573 | 
 | 2023-02-03 | 11791 | 3572 | 
 | 2023-02-02 | 11790 | 3569 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 11742 | 3561 | 
 | 2023-01-08 | 11742 | 3560 | 
 | 2023-01-07 | 11736 | 3560 | 
-| 2023-01-06 | 11736 | 3560 | 
 

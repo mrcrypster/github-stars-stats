@@ -1,6 +1,6 @@
 # sachindu443/Temp - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1 | 24 | 
 | 2023-02-04 | 1 | 24 | 
 | 2023-02-03 | 1 | 24 | 
 | 2023-02-02 | 1 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1 | 24 | 
 | 2023-01-08 | 1 | 24 | 
 | 2023-01-07 | 1 | 24 | 
-| 2023-01-06 | 1 | 24 | 
 

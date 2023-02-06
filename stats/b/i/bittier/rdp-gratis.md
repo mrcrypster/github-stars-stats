@@ -1,8 +1,8 @@
 # bittier/rdp-gratis - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 0
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | - | 15 | 
+| 2023-02-06 | - | 16 | 
+| 2023-02-05 | - | 16 | 
 | 2023-02-03 | - | 13 | 
 | 2023-02-02 | - | 12 | 
 | 2023-02-01 | - | 12 | 

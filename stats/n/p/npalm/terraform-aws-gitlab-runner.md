@@ -1,6 +1,6 @@
 # npalm/terraform-aws-gitlab-runner - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 277
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 465 | 277 | 
 | 2023-02-04 | 465 | 277 | 
 | 2023-02-03 | 465 | 277 | 
 | 2023-02-02 | 463 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 459 | 272 | 
 | 2023-01-08 | 459 | 272 | 
 | 2023-01-07 | 459 | 272 | 
-| 2023-01-06 | 458 | 272 | 
 

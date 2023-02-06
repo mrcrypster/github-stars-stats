@@ -1,8 +1,8 @@
 # darinpope/jenkins-example-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 214
+☋ Forks: 215
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 27 | 215 | 
 | 2023-02-04 | 27 | 214 | 
 | 2023-02-03 | 27 | 214 | 
 | 2023-02-02 | 27 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 25 | 195 | 
 | 2023-01-08 | 25 | 194 | 
 | 2023-01-07 | 25 | 194 | 
-| 2023-01-06 | 25 | 194 | 
 

@@ -1,10 +1,10 @@
 # Ark2000/PankuConsole - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/Ark2000/PankuConsole)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 168 | 6 | 
 | 2023-02-04 | 167 | 6 | 
 | 2023-02-03 | 166 | 6 | 
 | 2023-02-02 | 151 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 107 | 4 | 
 | 2023-01-08 | 107 | 4 | 
 | 2023-01-07 | 101 | 4 | 
-| 2023-01-06 | 98 | 4 | 
 

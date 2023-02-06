@@ -1,10 +1,10 @@
 # mrjones2014/legendary.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/mrjones2014/legendary.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 679 | 12 | 
 | 2023-02-04 | 678 | 11 | 
 | 2023-02-03 | 678 | 11 | 
 | 2023-02-01 | 676 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 653 | 11 | 
 | 2023-01-09 | 651 | 11 | 
 | 2023-01-08 | 652 | 11 | 
-| 2023-01-07 | 651 | 11 | 
 

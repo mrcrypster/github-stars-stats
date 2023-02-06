@@ -1,10 +1,10 @@
 # Nigh/I-wanna-clean-keyboard - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 23
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/Nigh/I-wanna-clean-keyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 289 | 23 | 
 | 2023-02-04 | 288 | 23 | 
 | 2023-02-03 | 288 | 23 | 
 | 2023-02-02 | 288 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 288 | 23 | 
 | 2023-01-08 | 288 | 23 | 
 | 2023-01-07 | 288 | 23 | 
-| 2023-01-06 | 288 | 23 | 
 

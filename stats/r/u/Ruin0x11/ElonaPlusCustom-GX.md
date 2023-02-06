@@ -1,6 +1,6 @@
 # Ruin0x11/ElonaPlusCustom-GX - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 93 | 8 | 
 | 2023-02-04 | 93 | 8 | 
 | 2023-02-03 | 93 | 8 | 
 | 2023-02-02 | 93 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 88 | 8 | 
 | 2023-01-08 | 88 | 8 | 
 | 2023-01-07 | 88 | 8 | 
-| 2023-01-06 | 88 | 8 | 
 

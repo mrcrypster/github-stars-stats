@@ -1,6 +1,6 @@
 # kumu/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 403
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 23 | 403 | 
 | 2023-02-04 | 23 | 403 | 
 | 2023-02-02 | 22 | 403 | 
 | 2023-02-01 | 22 | 404 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 22 | 397 | 
 | 2023-01-08 | 21 | 398 | 
 | 2023-01-07 | 21 | 398 | 
-| 2023-01-06 | 21 | 396 | 
 

@@ -1,10 +1,10 @@
 # kubernetes-sigs/kind - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 1300
+☋ Forks: 1301
 
-★ Stars: 11075
+★ Stars: 11078
 
 [Open repository](https://github.com/kubernetes-sigs/kind)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 11078 | 1301 | 
 | 2023-02-04 | 11075 | 1300 | 
 | 2023-02-03 | 11070 | 1297 | 
 | 2023-02-02 | 11061 | 1296 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 10973 | 1286 | 
 | 2023-01-08 | 10971 | 1285 | 
 | 2023-01-07 | 10970 | 1284 | 
-| 2023-01-06 | 10962 | 1285 | 
 

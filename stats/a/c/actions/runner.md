@@ -1,10 +1,10 @@
 # actions/runner - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 771
 
-★ Stars: 3473
+★ Stars: 3476
 
 [Open repository](https://github.com/actions/runner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 3476 | 771 | 
 | 2023-02-04 | 3473 | 771 | 
 | 2023-02-03 | 3471 | 771 | 
 | 2023-02-02 | 3468 | 771 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 3383 | 760 | 
 | 2023-01-08 | 3380 | 759 | 
 | 2023-01-07 | 3376 | 758 | 
-| 2023-01-06 | 3374 | 757 | 
 

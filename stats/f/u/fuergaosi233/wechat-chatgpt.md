@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 05
 
-☋ Forks: 1348
+☋ Forks: 1359
 
-★ Stars: 5901
+★ Stars: 5923
 
 [Open repository](https://github.com/fuergaosi233/wechat-chatgpt)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 5901 | 1348 | 
+| 2023-02-05 | 5923 | 1359 | 
 | 2023-02-04 | 5899 | 1347 | 
 | 2023-02-03 | 5857 | 1333 | 
 | 2023-02-02 | 5775 | 1303 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 5195 | 1130 | 
 | 2023-01-08 | 5159 | 1124 | 
 | 2023-01-07 | 5138 | 1121 | 
-| 2023-01-06 | 5108 | 1115 | 
 

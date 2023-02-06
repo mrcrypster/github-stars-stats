@@ -1,10 +1,10 @@
 # vihangayt0/Astro-MD-V2 - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 1502
+☋ Forks: 1505
 
-★ Stars: 431
+★ Stars: 432
 
 [Open repository](https://github.com/vihangayt0/Astro-MD-V2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 432 | 1505 | 
 | 2023-02-04 | 431 | 1502 | 
 | 2023-02-03 | 431 | 1502 | 
 | 2023-02-02 | 431 | 1501 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 421 | 1434 | 
 | 2023-01-08 | 421 | 1432 | 
 | 2023-01-07 | 421 | 1429 | 
-| 2023-01-06 | 421 | 1424 | 
 

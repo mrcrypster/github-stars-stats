@@ -1,10 +1,10 @@
 # landgraf-dev/openai-delphi - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 48
+★ Stars: 51
 
 [Open repository](https://github.com/landgraf-dev/openai-delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 51 | 11 | 
 | 2023-02-04 | 48 | 10 | 
 | 2023-02-03 | 47 | 10 | 
 | 2023-02-02 | 47 | 10 | 

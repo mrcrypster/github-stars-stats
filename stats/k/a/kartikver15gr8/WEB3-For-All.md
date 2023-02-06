@@ -1,0 +1,18 @@
+# kartikver15gr8/WEB3-For-All - stars & forks statistics
+
+Stats updated on Feb 2023, 06
+
+☋ Forks: 7
+
+★ Stars: 25
+
+[Open repository](https://github.com/kartikver15gr8/WEB3-For-All)
+
+[Open detailed stats for kartikver15gr8/WEB3-For-All](https://reviewgithub.com/rep/kartikver15gr8/WEB3-For-All)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-06 | 25 | 7 | 
+| 2023-02-05 | 25 | 7 | 
+

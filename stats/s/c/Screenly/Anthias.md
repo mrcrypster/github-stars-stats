@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 544
 
-★ Stars: 1662
+★ Stars: 1663
 
 [Open repository](https://github.com/Screenly/Anthias)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 1662 | 544 | 
+| 2023-02-05 | 1663 | 544 | 
 | 2023-02-04 | 1660 | 544 | 
 | 2023-02-03 | 1653 | 543 | 
 | 2023-02-01 | 1653 | 543 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 1582 | 539 | 
 | 2023-01-08 | 1581 | 539 | 
 | 2023-01-07 | 1581 | 539 | 
-| 2023-01-06 | 1579 | 539 | 
 

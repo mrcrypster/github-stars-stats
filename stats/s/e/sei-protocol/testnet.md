@@ -1,8 +1,8 @@
 # sei-protocol/testnet - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 1651
+☋ Forks: 1652
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 125 | 1652 | 
 | 2023-02-04 | 125 | 1651 | 
 | 2023-02-03 | 125 | 1651 | 
 | 2023-02-02 | 125 | 1652 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 126 | 1645 | 
 | 2023-01-08 | 126 | 1644 | 
 | 2023-01-07 | 124 | 1643 | 
-| 2023-01-06 | 124 | 1642 | 
 

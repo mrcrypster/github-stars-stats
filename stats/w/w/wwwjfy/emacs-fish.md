@@ -1,10 +1,10 @@
 # wwwjfy/emacs-fish - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 14
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/wwwjfy/emacs-fish)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 82 | 14 | 
 | 2023-02-04 | 81 | 14 | 
 | 2023-02-03 | 81 | 14 | 
 | 2023-02-02 | 81 | 14 | 

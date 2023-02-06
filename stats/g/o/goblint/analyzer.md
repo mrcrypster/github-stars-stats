@@ -1,6 +1,6 @@
 # goblint/analyzer - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 109 | 52 | 
 | 2023-02-04 | 109 | 52 | 
 | 2023-02-03 | 109 | 52 | 
 | 2023-02-02 | 109 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 106 | 51 | 
 | 2023-01-08 | 106 | 51 | 
 | 2023-01-07 | 106 | 51 | 
-| 2023-01-06 | 105 | 51 | 
 

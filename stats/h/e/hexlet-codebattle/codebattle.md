@@ -1,10 +1,10 @@
 # hexlet-codebattle/codebattle - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 163
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/hexlet-codebattle/codebattle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 279 | 163 | 
 | 2023-02-04 | 278 | 163 | 
 | 2023-02-03 | 278 | 163 | 
 | 2023-02-02 | 277 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 275 | 158 | 
 | 2023-01-08 | 275 | 158 | 
 | 2023-01-07 | 275 | 158 | 
-| 2023-01-06 | 275 | 158 | 
 

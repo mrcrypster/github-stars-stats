@@ -1,10 +1,10 @@
 # ityouknow/spring-boot-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 12169
 
-★ Stars: 28443
+★ Stars: 28448
 
 [Open repository](https://github.com/ityouknow/spring-boot-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 28448 | 12169 | 
 | 2023-02-04 | 28443 | 12169 | 
 | 2023-02-02 | 28436 | 12167 | 
 | 2023-02-01 | 28430 | 12165 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 28368 | 12150 | 
 | 2023-01-08 | 28362 | 12149 | 
 | 2023-01-07 | 28359 | 12148 | 
-| 2023-01-06 | 28354 | 12148 | 
 

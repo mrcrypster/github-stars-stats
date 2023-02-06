@@ -1,6 +1,6 @@
 # input-output-hk/typed-protocols - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4 | 4 | 
 | 2023-02-05 | 4 | 4 | 
 | 2023-02-03 | 4 | 4 | 
 | 2023-02-02 | 4 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 3 | 3 | 
 | 2023-01-08 | 3 | 3 | 
 | 2023-01-07 | 3 | 3 | 
-| 2023-01-06 | 3 | 3 | 
 

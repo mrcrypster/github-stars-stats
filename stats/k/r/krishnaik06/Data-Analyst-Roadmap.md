@@ -1,10 +1,10 @@
 # krishnaik06/Data-Analyst-Roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 129
 
-★ Stars: 231
+★ Stars: 234
 
 [Open repository](https://github.com/krishnaik06/Data-Analyst-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 234 | 129 | 
 | 2023-02-04 | 231 | 129 | 
 | 2023-02-03 | 230 | 129 | 
 | 2023-02-02 | 227 | 127 | 

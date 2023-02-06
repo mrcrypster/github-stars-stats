@@ -1,10 +1,10 @@
 # googleapis/google-cloud-php - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 417
 
-★ Stars: 962
+★ Stars: 963
 
 [Open repository](https://github.com/googleapis/google-cloud-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 963 | 417 | 
 | 2023-02-04 | 962 | 417 | 
 | 2023-02-03 | 962 | 417 | 
 | 2023-02-02 | 962 | 417 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 957 | 417 | 
 | 2023-01-08 | 957 | 417 | 
 | 2023-01-07 | 957 | 417 | 
-| 2023-01-06 | 957 | 417 | 
 

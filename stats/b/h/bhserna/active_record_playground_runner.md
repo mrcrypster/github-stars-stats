@@ -1,6 +1,6 @@
 # bhserna/active_record_playground_runner - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 53 | 1 | 
 | 2023-02-05 | 53 | 1 | 
 | 2023-02-03 | 53 | 1 | 
 | 2023-02-02 | 53 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 52 | 1 | 
 | 2023-01-08 | 52 | 1 | 
 | 2023-01-07 | 52 | 1 | 
-| 2023-01-06 | 52 | 1 | 
 

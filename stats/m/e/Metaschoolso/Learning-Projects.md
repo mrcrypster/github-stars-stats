@@ -1,6 +1,6 @@
 # Metaschoolso/Learning-Projects - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 224 | 89 | 
 | 2023-02-04 | 224 | 89 | 
 | 2023-02-03 | 223 | 89 | 
 | 2023-02-02 | 224 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 218 | 83 | 
 | 2023-01-08 | 218 | 82 | 
 | 2023-01-07 | 217 | 81 | 
-| 2023-01-06 | 216 | 81 | 
 

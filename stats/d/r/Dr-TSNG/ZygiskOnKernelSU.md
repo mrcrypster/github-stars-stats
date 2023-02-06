@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 8
 
-★ Stars: 101
+★ Stars: 108
 
 [Open repository](https://github.com/Dr-TSNG/ZygiskOnKernelSU)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 101 | 8 | 
+| 2023-02-05 | 108 | 8 | 
 | 2023-02-04 | 99 | 8 | 
 

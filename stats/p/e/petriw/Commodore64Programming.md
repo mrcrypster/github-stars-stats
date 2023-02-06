@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 42
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/petriw/Commodore64Programming)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 258 | 42 | 
+| 2023-02-05 | 259 | 42 | 
 | 2023-02-04 | 258 | 42 | 
 

@@ -1,10 +1,10 @@
 # mhanberg/temple - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 15
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/mhanberg/temple)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 409 | 15 | 
 | 2023-02-04 | 408 | 15 | 
 | 2023-02-03 | 408 | 15 | 
 | 2023-02-02 | 408 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 403 | 15 | 
 | 2023-01-09 | 403 | 15 | 
 | 2023-01-08 | 403 | 15 | 
-| 2023-01-06 | 403 | 15 | 
 

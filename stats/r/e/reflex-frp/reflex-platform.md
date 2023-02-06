@@ -1,6 +1,6 @@
 # reflex-frp/reflex-platform - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 680 | 160 | 
 | 2023-02-04 | 680 | 160 | 
 | 2023-02-03 | 680 | 160 | 
 | 2023-02-02 | 680 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 679 | 160 | 
 | 2023-01-08 | 679 | 160 | 
 | 2023-01-07 | 679 | 160 | 
-| 2023-01-06 | 679 | 160 | 
 

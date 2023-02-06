@@ -1,6 +1,6 @@
 # fsprojects/FAKE - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 576
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1235 | 576 | 
 | 2023-02-04 | 1235 | 576 | 
 | 2023-02-03 | 1236 | 576 | 
 | 2023-02-01 | 1236 | 576 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 1235 | 578 | 
 | 2023-01-08 | 1235 | 579 | 
 | 2023-01-07 | 1235 | 579 | 
-| 2023-01-06 | 1236 | 579 | 
 

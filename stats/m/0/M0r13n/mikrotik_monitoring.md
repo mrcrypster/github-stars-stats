@@ -1,6 +1,6 @@
 # M0r13n/mikrotik_monitoring - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 98 | 9 | 
 | 2023-02-04 | 98 | 9 | 
 | 2023-02-03 | 95 | 8 | 
 | 2023-02-02 | 95 | 8 | 

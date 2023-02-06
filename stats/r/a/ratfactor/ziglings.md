@@ -1,10 +1,10 @@
 # ratfactor/ziglings - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 256
+☋ Forks: 254
 
-★ Stars: 2121
+★ Stars: 2124
 
 [Open repository](https://github.com/ratfactor/ziglings)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2124 | 254 | 
 | 2023-02-04 | 2121 | 256 | 
 | 2023-02-03 | 2118 | 256 | 
 | 2023-02-02 | 2113 | 255 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 2040 | 247 | 
 | 2023-01-08 | 2040 | 247 | 
 | 2023-01-07 | 2039 | 247 | 
-| 2023-01-06 | 2036 | 247 | 
 

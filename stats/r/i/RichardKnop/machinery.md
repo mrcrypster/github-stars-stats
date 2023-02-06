@@ -1,6 +1,6 @@
 # RichardKnop/machinery - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 854
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 6699 | 854 | 
 | 2023-02-04 | 6699 | 854 | 
 | 2023-02-03 | 6698 | 854 | 
 | 2023-02-02 | 6697 | 855 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 6667 | 851 | 
 | 2023-01-08 | 6667 | 851 | 
 | 2023-01-07 | 6667 | 851 | 
-| 2023-01-06 | 6665 | 850 | 
 

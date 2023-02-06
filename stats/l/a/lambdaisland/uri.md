@@ -1,10 +1,10 @@
 # lambdaisland/uri - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 19
 
-★ Stars: 219
+★ Stars: 221
 
 [Open repository](https://github.com/lambdaisland/uri)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 221 | 19 | 
 | 2023-02-04 | 219 | 19 | 
 | 2023-02-03 | 219 | 19 | 
 | 2023-02-02 | 219 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 218 | 18 | 
 | 2023-01-08 | 218 | 18 | 
 | 2023-01-07 | 218 | 18 | 
-| 2023-01-06 | 218 | 18 | 
 

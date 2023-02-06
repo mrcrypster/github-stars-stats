@@ -1,10 +1,10 @@
 # autonomousvision/unimatch - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 31
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/autonomousvision/unimatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 354 | 31 | 
 | 2023-02-04 | 353 | 31 | 
 | 2023-02-03 | 352 | 30 | 
 | 2023-02-02 | 352 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 328 | 24 | 
 | 2023-01-09 | 327 | 24 | 
 | 2023-01-08 | 327 | 24 | 
-| 2023-01-07 | 328 | 24 | 
 

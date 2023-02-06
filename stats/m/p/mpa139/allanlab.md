@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 802
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/mpa139/allanlab)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 195 | 802 | 
+| 2023-02-05 | 196 | 802 | 
 | 2023-02-04 | 195 | 802 | 
 | 2023-02-03 | 195 | 802 | 
 | 2023-02-02 | 195 | 803 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 192 | 798 | 
 | 2023-01-08 | 192 | 797 | 
 | 2023-01-07 | 192 | 797 | 
-| 2023-01-06 | 192 | 796 | 
 

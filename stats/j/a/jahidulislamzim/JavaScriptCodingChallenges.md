@@ -1,10 +1,10 @@
 # jahidulislamzim/JavaScriptCodingChallenges - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 39
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/jahidulislamzim/JavaScriptCodingChallenges)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 213 | 39 | 
 | 2023-02-04 | 212 | 39 | 
 | 2023-02-03 | 212 | 39 | 
 | 2023-02-02 | 211 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 163 | 31 | 
 | 2023-01-08 | 161 | 30 | 
 | 2023-01-07 | 159 | 30 | 
-| 2023-01-06 | 153 | 29 | 
 

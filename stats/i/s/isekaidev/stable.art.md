@@ -1,10 +1,10 @@
 # isekaidev/stable.art - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 430
+★ Stars: 437
 
 [Open repository](https://github.com/isekaidev/stable.art)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 437 | 25 | 
 | 2023-02-04 | 430 | 24 | 
 | 2023-02-03 | 419 | 24 | 
 | 2023-02-02 | 404 | 21 | 

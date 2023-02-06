@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 135
+★ Stars: 138
 
 [Open repository](https://github.com/withastro/houston.astro.build)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 135 | 5 | 
+| 2023-02-05 | 138 | 5 | 
 | 2023-02-04 | 135 | 5 | 
 | 2023-02-03 | 132 | 5 | 
 | 2023-02-02 | 132 | 5 | 

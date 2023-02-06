@@ -1,10 +1,10 @@
 # akveo/ngx-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 7709
+☋ Forks: 7710
 
-★ Stars: 24220
+★ Stars: 24223
 
 [Open repository](https://github.com/akveo/ngx-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 24223 | 7710 | 
 | 2023-02-04 | 24220 | 7709 | 
 | 2023-02-03 | 24218 | 7708 | 
 | 2023-02-02 | 24217 | 7709 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 24162 | 7690 | 
 | 2023-01-08 | 24159 | 7690 | 
 | 2023-01-07 | 24156 | 7689 | 
-| 2023-01-06 | 24158 | 7689 | 
 

@@ -1,10 +1,10 @@
 # rodgetech/cron-ai - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 107
+★ Stars: 110
 
 [Open repository](https://github.com/rodgetech/cron-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 110 | 12 | 
 | 2023-02-04 | 107 | 11 | 
 | 2023-02-03 | 101 | 8 | 
 | 2023-02-02 | 98 | 7 | 

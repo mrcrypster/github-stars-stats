@@ -1,10 +1,10 @@
 # mobile-dev-inc/dadb - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 53
 
-★ Stars: 805
+★ Stars: 806
 
 [Open repository](https://github.com/mobile-dev-inc/dadb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 806 | 53 | 
 | 2023-02-04 | 805 | 53 | 
 | 2023-02-03 | 805 | 53 | 
 | 2023-02-02 | 803 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 796 | 51 | 
 | 2023-01-08 | 795 | 51 | 
 | 2023-01-07 | 794 | 51 | 
-| 2023-01-06 | 794 | 51 | 
 

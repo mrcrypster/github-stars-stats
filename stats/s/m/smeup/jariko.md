@@ -1,6 +1,6 @@
 # smeup/jariko - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 54 | 13 | 
 | 2023-02-04 | 54 | 13 | 
 | 2023-02-02 | 54 | 13 | 
 | 2023-02-01 | 54 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 53 | 13 | 
 | 2023-01-09 | 53 | 13 | 
 | 2023-01-08 | 53 | 13 | 
-| 2023-01-07 | 53 | 13 | 
 

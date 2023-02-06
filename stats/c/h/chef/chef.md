@@ -1,6 +1,6 @@
 # chef/chef - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 2570
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 7129 | 2570 | 
 | 2023-02-04 | 7129 | 2570 | 
 | 2023-02-03 | 7128 | 2570 | 
 | 2023-02-02 | 7124 | 2569 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 7103 | 2571 | 
 | 2023-01-08 | 7103 | 2571 | 
 | 2023-01-07 | 7103 | 2571 | 
-| 2023-01-06 | 7103 | 2571 | 
 

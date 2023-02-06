@@ -1,6 +1,6 @@
 # CatVodTVOfficial/CatVodTVJsonEditor - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 125 | 242 | 
 | 2023-02-04 | 125 | 242 | 
 | 2023-02-03 | 125 | 242 | 
 | 2023-02-02 | 124 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 118 | 238 | 
 | 2023-01-08 | 118 | 238 | 
 | 2023-01-07 | 118 | 238 | 
-| 2023-01-06 | 118 | 238 | 
 

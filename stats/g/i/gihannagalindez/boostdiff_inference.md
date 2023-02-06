@@ -1,10 +1,10 @@
 # gihannagalindez/boostdiff_inference - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 11
 
 [Open repository](https://github.com/gihannagalindez/boostdiff_inference)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 11 | 1 | 
 | 2023-02-04 | 9 | 1 | 
 | 2023-02-03 | 9 | 1 | 
 | 2023-02-02 | 9 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 9 | 1 | 
 | 2023-01-09 | 9 | 1 | 
 | 2023-01-08 | 9 | 1 | 
-| 2023-01-07 | 9 | 1 | 
 

@@ -1,10 +1,10 @@
 # sullo/nikto - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1014
 
-★ Stars: 6430
+★ Stars: 6433
 
 [Open repository](https://github.com/sullo/nikto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 6433 | 1014 | 
 | 2023-02-04 | 6430 | 1014 | 
 | 2023-02-03 | 6422 | 1013 | 
 | 2023-02-02 | 6421 | 1013 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 6360 | 1005 | 
 | 2023-01-08 | 6360 | 1005 | 
 | 2023-01-07 | 6358 | 1003 | 
-| 2023-01-06 | 6355 | 1003 | 
 

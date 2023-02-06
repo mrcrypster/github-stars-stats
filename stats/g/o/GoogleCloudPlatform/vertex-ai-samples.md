@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/vertex-ai-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 398
 
-★ Stars: 589
+★ Stars: 588
 
 [Open repository](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 588 | 398 | 
 | 2023-02-04 | 589 | 398 | 
 | 2023-02-03 | 588 | 398 | 
 | 2023-02-02 | 587 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 565 | 379 | 
 | 2023-01-08 | 565 | 379 | 
 | 2023-01-07 | 565 | 379 | 
-| 2023-01-06 | 564 | 379 | 
 

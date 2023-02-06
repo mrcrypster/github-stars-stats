@@ -1,10 +1,10 @@
 # playframework/playframework - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 4085
 
-★ Stars: 12310
+★ Stars: 12311
 
 [Open repository](https://github.com/playframework/playframework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 12311 | 4085 | 
 | 2023-02-04 | 12310 | 4085 | 
 | 2023-02-03 | 12310 | 4087 | 
 | 2023-02-02 | 12308 | 4087 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 12300 | 4081 | 
 | 2023-01-08 | 12300 | 4080 | 
 | 2023-01-07 | 12299 | 4080 | 
-| 2023-01-06 | 12299 | 4080 | 
 

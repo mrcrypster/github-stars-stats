@@ -1,8 +1,8 @@
 # racket/htdp - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 59
+☋ Forks: 58
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 80 | 58 | 
 | 2023-02-05 | 80 | 59 | 
 | 2023-02-03 | 80 | 59 | 
 | 2023-02-02 | 80 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 79 | 58 | 
 | 2023-01-08 | 79 | 58 | 
 | 2023-01-07 | 79 | 58 | 
-| 2023-01-06 | 79 | 58 | 
 

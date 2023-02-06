@@ -1,10 +1,10 @@
 # Nyr/openvpn-install - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 4424
 
-★ Stars: 16524
+★ Stars: 16531
 
 [Open repository](https://github.com/Nyr/openvpn-install)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 16531 | 4424 | 
 | 2023-02-04 | 16524 | 4424 | 
 | 2023-02-03 | 16518 | 4422 | 
 | 2023-02-02 | 16509 | 4421 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 16384 | 4385 | 
 | 2023-01-08 | 16375 | 4387 | 
 | 2023-01-07 | 16369 | 4386 | 
-| 2023-01-06 | 16365 | 4384 | 
 

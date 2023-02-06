@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 2246
 
-★ Stars: 7721
+★ Stars: 7720
 
 [Open repository](https://github.com/railsadminteam/rails_admin)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 7721 | 2246 | 
+| 2023-02-05 | 7720 | 2246 | 
 | 2023-02-04 | 7721 | 2246 | 
 | 2023-02-03 | 7718 | 2246 | 
 | 2023-02-02 | 7719 | 2246 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 7711 | 2243 | 
 | 2023-01-08 | 7710 | 2243 | 
 | 2023-01-07 | 7710 | 2243 | 
-| 2023-01-06 | 7710 | 2244 | 
 

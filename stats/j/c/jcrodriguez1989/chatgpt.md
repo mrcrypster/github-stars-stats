@@ -1,6 +1,6 @@
 # jcrodriguez1989/chatgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 37 | 7 | 
 | 2023-02-04 | 37 | 7 | 
 | 2023-02-03 | 37 | 7 | 
 | 2023-02-02 | 36 | 6 | 

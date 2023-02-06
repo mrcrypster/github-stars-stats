@@ -1,10 +1,10 @@
 # jackMort/ChatGPT.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 35
 
-★ Stars: 728
+★ Stars: 734
 
 [Open repository](https://github.com/jackMort/ChatGPT.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 734 | 35 | 
 | 2023-02-04 | 728 | 35 | 
 | 2023-02-03 | 725 | 35 | 
 | 2023-02-02 | 724 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 604 | 20 | 
 | 2023-01-08 | 602 | 20 | 
 | 2023-01-07 | 597 | 20 | 
-| 2023-01-06 | 595 | 19 | 
 

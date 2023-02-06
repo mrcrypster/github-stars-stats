@@ -1,10 +1,10 @@
 # electron/electronjs.org - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 723
 
-★ Stars: 1549
+★ Stars: 1551
 
 [Open repository](https://github.com/electron/electronjs.org)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1551 | 723 | 
 | 2023-02-04 | 1549 | 723 | 
 | 2023-02-03 | 1549 | 723 | 
 | 2023-02-02 | 1550 | 723 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1551 | 725 | 
 | 2023-01-08 | 1551 | 725 | 
 | 2023-01-07 | 1551 | 725 | 
-| 2023-01-06 | 1550 | 725 | 
 

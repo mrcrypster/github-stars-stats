@@ -1,8 +1,8 @@
 # dotnet/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 5531
+☋ Forks: 5533
 
 ★ Stars: 3669
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 3669 | 5533 | 
 | 2023-02-04 | 3669 | 5531 | 
 | 2023-02-03 | 3667 | 5531 | 
 | 2023-02-02 | 3667 | 5531 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 3640 | 5488 | 
 | 2023-01-08 | 3638 | 5485 | 
 | 2023-01-07 | 3638 | 5485 | 
-| 2023-01-06 | 3639 | 5484 | 
 

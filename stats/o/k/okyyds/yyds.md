@@ -1,6 +1,6 @@
 # okyyds/yyds - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 179 | 114 | 
 | 2023-02-04 | 179 | 114 | 
 | 2023-02-03 | 179 | 114 | 
 | 2023-02-02 | 179 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 175 | 114 | 
 | 2023-01-08 | 175 | 114 | 
 | 2023-01-07 | 173 | 113 | 
-| 2023-01-06 | 173 | 113 | 
 

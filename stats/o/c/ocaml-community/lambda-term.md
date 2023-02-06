@@ -1,6 +1,6 @@
 # ocaml-community/lambda-term - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 194 | 39 | 
 | 2023-02-04 | 194 | 39 | 
 | 2023-02-03 | 194 | 39 | 
 | 2023-02-02 | 194 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 194 | 39 | 
 | 2023-01-08 | 194 | 39 | 
 | 2023-01-07 | 194 | 39 | 
-| 2023-01-06 | 194 | 39 | 
 

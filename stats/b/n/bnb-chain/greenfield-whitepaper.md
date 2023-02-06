@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 12
 
-★ Stars: 108
+★ Stars: 107
 
 [Open repository](https://github.com/bnb-chain/greenfield-whitepaper)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 108 | 12 | 
+| 2023-02-05 | 107 | 12 | 
 | 2023-02-04 | 109 | 12 | 
 | 2023-02-03 | 84 | 11 | 
 

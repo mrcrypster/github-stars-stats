@@ -1,8 +1,8 @@
 # obsidiandynamics/kafdrop - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 665
+☋ Forks: 666
 
 ★ Stars: 4269
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 4269 | 666 | 
 | 2023-02-04 | 4269 | 665 | 
 | 2023-02-03 | 4263 | 665 | 
 | 2023-02-02 | 4261 | 666 | 

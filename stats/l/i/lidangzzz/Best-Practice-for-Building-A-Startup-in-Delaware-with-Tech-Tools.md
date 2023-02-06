@@ -1,6 +1,6 @@
 # lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 530 | 31 | 
 | 2023-02-04 | 530 | 31 | 
 | 2023-02-03 | 530 | 31 | 
 | 2023-02-02 | 530 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 525 | 31 | 
 | 2023-01-09 | 525 | 31 | 
 | 2023-01-08 | 525 | 31 | 
-| 2023-01-07 | 525 | 31 | 
 

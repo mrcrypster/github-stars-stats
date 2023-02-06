@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 05
 
 ☋ Forks: 285
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/netlify-templates/one-click-hugo-cms)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 422 | 285 | 
+| 2023-02-05 | 423 | 285 | 
 | 2023-02-04 | 422 | 285 | 
 | 2023-02-03 | 422 | 283 | 
 | 2023-02-02 | 421 | 282 | 

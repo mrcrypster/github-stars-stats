@@ -1,10 +1,10 @@
 # kyazdani42/nvim-web-devicons - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 99
 
-★ Stars: 992
+★ Stars: 993
 
 [Open repository](https://github.com/kyazdani42/nvim-web-devicons)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 993 | 99 | 
 | 2023-02-04 | 992 | 99 | 
 | 2023-02-03 | 989 | 99 | 
 | 2023-02-02 | 989 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 948 | 93 | 
 | 2023-01-08 | 945 | 93 | 
 | 2023-01-07 | 942 | 92 | 
-| 2023-01-06 | 941 | 92 | 
 

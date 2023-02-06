@@ -1,10 +1,10 @@
 # nostr-protocol/nostr - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 160
+☋ Forks: 175
 
-★ Stars: 5589
+★ Stars: 5873
 
 [Open repository](https://github.com/nostr-protocol/nostr)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-05 | 5589 | 160 | 
+| 2023-02-06 | 5873 | 175 | 
+| 2023-02-05 | 5821 | 168 | 
 | 2023-02-04 | 5563 | 159 | 
 | 2023-02-03 | 5331 | 152 | 
 | 2023-02-02 | 4969 | 133 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 3853 | 99 | 
 | 2023-01-08 | 3836 | 99 | 
 | 2023-01-07 | 3821 | 100 | 
-| 2023-01-06 | 3812 | 99 | 
 

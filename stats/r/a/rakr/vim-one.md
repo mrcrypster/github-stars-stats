@@ -1,8 +1,8 @@
 # rakr/vim-one - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 197
+☋ Forks: 198
 
 ★ Stars: 1935
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1935 | 198 | 
 | 2023-02-04 | 1935 | 197 | 
 | 2023-02-03 | 1935 | 197 | 
 | 2023-02-02 | 1935 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 1936 | 195 | 
 | 2023-01-08 | 1937 | 195 | 
 | 2023-01-07 | 1937 | 195 | 
-| 2023-01-06 | 1937 | 195 | 
 

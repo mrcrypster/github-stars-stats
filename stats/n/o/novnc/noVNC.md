@@ -1,6 +1,6 @@
 # novnc/noVNC - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 1969
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 9459 | 1969 | 
 | 2023-02-04 | 9459 | 1969 | 
 | 2023-02-03 | 9456 | 1969 | 
 | 2023-02-02 | 9449 | 1968 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 9357 | 1953 | 
 | 2023-01-08 | 9356 | 1953 | 
 | 2023-01-07 | 9355 | 1953 | 
-| 2023-01-06 | 9352 | 1954 | 
 

@@ -1,6 +1,6 @@
 # CorentinGC/reddit-place-kcorp - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 138 | 75 | 
 | 2023-02-05 | 138 | 75 | 
 | 2023-02-03 | 139 | 75 | 
 | 2023-02-02 | 139 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 138 | 75 | 
 | 2023-01-08 | 138 | 75 | 
 | 2023-01-07 | 138 | 75 | 
-| 2023-01-06 | 138 | 75 | 
 

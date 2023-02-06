@@ -1,10 +1,10 @@
 # JonPSmith/AuthPermissions.AspNetCore - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 111
 
-★ Stars: 544
+★ Stars: 545
 
 [Open repository](https://github.com/JonPSmith/AuthPermissions.AspNetCore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 545 | 111 | 
 | 2023-02-04 | 544 | 111 | 
 | 2023-02-03 | 541 | 110 | 
 | 2023-02-02 | 541 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 523 | 102 | 
 | 2023-01-08 | 520 | 101 | 
 | 2023-01-07 | 518 | 100 | 
-| 2023-01-06 | 518 | 99 | 
 

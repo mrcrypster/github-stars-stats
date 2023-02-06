@@ -1,6 +1,6 @@
 # fort-nix/nix-bitcoin - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 291 | 71 | 
 | 2023-02-04 | 291 | 71 | 
 | 2023-02-03 | 290 | 71 | 
 | 2023-02-02 | 289 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 283 | 69 | 
 | 2023-01-09 | 283 | 69 | 
 | 2023-01-08 | 283 | 69 | 
-| 2023-01-07 | 283 | 69 | 
 

@@ -1,6 +1,6 @@
 # chronicle/GCTI - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 412 | 58 | 
 | 2023-02-04 | 412 | 58 | 
 | 2023-02-03 | 410 | 57 | 
 | 2023-02-02 | 410 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 402 | 54 | 
 | 2023-01-09 | 402 | 54 | 
 | 2023-01-08 | 401 | 54 | 
-| 2023-01-06 | 401 | 54 | 
 

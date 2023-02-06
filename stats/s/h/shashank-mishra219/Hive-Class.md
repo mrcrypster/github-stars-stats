@@ -1,8 +1,8 @@
 # shashank-mishra219/Hive-Class - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
-☋ Forks: 122
+☋ Forks: 123
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 39 | 123 | 
 | 2023-02-04 | 39 | 122 | 
 | 2023-02-03 | 39 | 122 | 
 | 2023-02-02 | 39 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 36 | 118 | 
 | 2023-01-08 | 36 | 118 | 
 | 2023-01-07 | 36 | 117 | 
-| 2023-01-06 | 36 | 117 | 
 

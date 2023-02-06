@@ -1,10 +1,10 @@
 # argoflow/argoflow - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 231
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/argoflow/argoflow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 130 | 231 | 
 | 2023-02-04 | 129 | 231 | 
 | 2023-02-03 | 129 | 231 | 
 | 2023-02-02 | 129 | 231 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 123 | 226 | 
 | 2023-01-09 | 123 | 226 | 
 | 2023-01-07 | 123 | 226 | 
-| 2023-01-06 | 123 | 226 | 
 

@@ -1,6 +1,6 @@
 # qbcore-framework/qb-policejob - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 43 | 368 | 
 | 2023-02-04 | 43 | 368 | 
 | 2023-02-03 | 43 | 368 | 
 | 2023-02-02 | 43 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 41 | 374 | 
 | 2023-01-08 | 42 | 374 | 
 | 2023-01-07 | 42 | 373 | 
-| 2023-01-06 | 42 | 373 | 
 

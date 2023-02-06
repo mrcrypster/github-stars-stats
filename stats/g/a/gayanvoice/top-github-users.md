@@ -1,10 +1,10 @@
 # gayanvoice/top-github-users - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 416
+☋ Forks: 417
 
-★ Stars: 2136
+★ Stars: 2138
 
 [Open repository](https://github.com/gayanvoice/top-github-users)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2138 | 417 | 
 | 2023-02-05 | 2136 | 416 | 
 | 2023-02-03 | 2136 | 415 | 
 | 2023-02-02 | 2134 | 414 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 2051 | 393 | 
 | 2023-01-08 | 2047 | 393 | 
 | 2023-01-07 | 2046 | 393 | 
-| 2023-01-06 | 2043 | 392 | 
 

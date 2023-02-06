@@ -1,6 +1,6 @@
 # benphelps/homepage-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 2 | 14 | 
 | 2023-02-04 | 2 | 14 | 
 | 2023-02-02 | 2 | 14 | 
 | 2023-02-01 | 2 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 3 | 9 | 
 | 2023-01-08 | 3 | 8 | 
 | 2023-01-07 | 3 | 6 | 
-| 2023-01-06 | 3 | 6 | 
 

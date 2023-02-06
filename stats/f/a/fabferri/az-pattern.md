@@ -1,10 +1,10 @@
 # fabferri/az-pattern - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 43
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/fabferri/az-pattern)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 89 | 43 | 
 | 2023-02-04 | 88 | 43 | 
 | 2023-02-03 | 88 | 43 | 
 | 2023-02-02 | 88 | 43 | 

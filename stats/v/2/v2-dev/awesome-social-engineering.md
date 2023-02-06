@@ -1,10 +1,10 @@
 # v2-dev/awesome-social-engineering - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 324
 
-★ Stars: 1819
+★ Stars: 1820
 
 [Open repository](https://github.com/v2-dev/awesome-social-engineering)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1820 | 324 | 
 | 2023-02-04 | 1819 | 324 | 
 | 2023-02-03 | 1818 | 323 | 
 | 2023-02-02 | 1817 | 323 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 1787 | 321 | 
 | 2023-01-09 | 1786 | 321 | 
 | 2023-01-08 | 1786 | 321 | 
-| 2023-01-07 | 1785 | 321 | 
 

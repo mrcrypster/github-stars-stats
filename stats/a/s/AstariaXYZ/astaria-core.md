@@ -1,10 +1,10 @@
 # AstariaXYZ/astaria-core - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 94
+★ Stars: 93
 
 [Open repository](https://github.com/AstariaXYZ/astaria-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 93 | 6 | 
 | 2023-02-04 | 94 | 6 | 
 | 2023-02-02 | 94 | 6 | 
 | 2023-02-01 | 94 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 76 | 4 | 
 | 2023-01-08 | 72 | 4 | 
 | 2023-01-07 | 64 | 4 | 
-| 2023-01-06 | 64 | 4 | 
 

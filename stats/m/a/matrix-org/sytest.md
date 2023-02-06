@@ -1,6 +1,6 @@
 # matrix-org/sytest - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 68 | 56 | 
 | 2023-02-05 | 68 | 56 | 
 | 2023-02-03 | 68 | 56 | 
 | 2023-02-02 | 68 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-09 | 65 | 56 | 
 | 2023-01-08 | 65 | 56 | 
 | 2023-01-07 | 65 | 56 | 
-| 2023-01-06 | 65 | 56 | 
 

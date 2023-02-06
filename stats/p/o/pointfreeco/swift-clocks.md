@@ -1,6 +1,6 @@
 # pointfreeco/swift-clocks - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 145 | 4 | 
 | 2023-02-04 | 145 | 4 | 
 | 2023-02-03 | 145 | 4 | 
 | 2023-02-02 | 145 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 136 | 3 | 
 | 2023-01-09 | 136 | 3 | 
 | 2023-01-08 | 136 | 3 | 
-| 2023-01-07 | 136 | 3 | 
 

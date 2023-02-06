@@ -1,6 +1,6 @@
 # devrimgunduz/pagila - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 654 | 215 | 
 | 2023-02-04 | 654 | 215 | 
 | 2023-02-03 | 654 | 215 | 
 | 2023-02-02 | 655 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 629 | 203 | 
 | 2023-01-08 | 629 | 203 | 
 | 2023-01-07 | 628 | 203 | 
-| 2023-01-06 | 628 | 203 | 
 

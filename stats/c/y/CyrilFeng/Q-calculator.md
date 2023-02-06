@@ -1,6 +1,6 @@
 # CyrilFeng/Q-calculator - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 1031 | 73 | 
 | 2023-02-04 | 1031 | 73 | 
 | 2023-02-03 | 1031 | 72 | 
 | 2023-02-02 | 1031 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 1022 | 71 | 
 | 2023-01-08 | 1021 | 71 | 
 | 2023-01-07 | 1020 | 71 | 
-| 2023-01-06 | 1017 | 71 | 
 

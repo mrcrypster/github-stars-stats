@@ -1,10 +1,10 @@
 # hashcat/hashcat - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 2475
 
-★ Stars: 16533
+★ Stars: 16542
 
 [Open repository](https://github.com/hashcat/hashcat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 16542 | 2475 | 
 | 2023-02-04 | 16533 | 2475 | 
 | 2023-02-03 | 16530 | 2473 | 
 | 2023-02-02 | 16524 | 2470 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-10 | 16371 | 2450 | 
 | 2023-01-09 | 16364 | 2449 | 
 | 2023-01-07 | 16363 | 2448 | 
-| 2023-01-06 | 16360 | 2448 | 
 

@@ -1,10 +1,10 @@
 # xtyxtyx/sorry - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 796
 
-★ Stars: 6384
+★ Stars: 6383
 
 [Open repository](https://github.com/xtyxtyx/sorry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 6383 | 796 | 
 | 2023-02-04 | 6384 | 796 | 
 | 2023-02-03 | 6384 | 796 | 
 | 2023-02-02 | 6383 | 795 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 6383 | 794 | 
 | 2023-01-08 | 6383 | 794 | 
 | 2023-01-07 | 6383 | 794 | 
-| 2023-01-06 | 6383 | 794 | 
 

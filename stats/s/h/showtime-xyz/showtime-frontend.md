@@ -1,10 +1,10 @@
 # showtime-xyz/showtime-frontend - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 66
 
-★ Stars: 440
+★ Stars: 442
 
 [Open repository](https://github.com/showtime-xyz/showtime-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 442 | 66 | 
 | 2023-02-04 | 440 | 66 | 
 | 2023-02-03 | 438 | 66 | 
 | 2023-02-02 | 438 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 413 | 63 | 
 | 2023-01-08 | 407 | 63 | 
 | 2023-01-07 | 403 | 63 | 
-| 2023-01-06 | 400 | 63 | 
 

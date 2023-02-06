@@ -1,10 +1,10 @@
 # yk/gpt-4chan-public - stars & forks statistics
 
-Stats updated on Feb 2023, 04
+Stats updated on Feb 2023, 05
 
 ☋ Forks: 52
 
-★ Stars: 458
+★ Stars: 460
 
 [Open repository](https://github.com/yk/gpt-4chan-public)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-05 | 460 | 52 | 
 | 2023-02-04 | 458 | 52 | 
 | 2023-02-03 | 458 | 52 | 
 | 2023-02-02 | 456 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 04
 | 2023-01-09 | 418 | 47 | 
 | 2023-01-08 | 417 | 47 | 
 | 2023-01-07 | 417 | 47 | 
-| 2023-01-06 | 417 | 47 | 
 
