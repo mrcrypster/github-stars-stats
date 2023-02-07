@@ -1,10 +1,10 @@
 # xiph/rav1e - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 220
+☋ Forks: 221
 
-★ Stars: 3089
+★ Stars: 3092
 
 [Open repository](https://github.com/xiph/rav1e)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3092 | 221 | 
 | 2023-02-05 | 3089 | 220 | 
 | 2023-02-04 | 3088 | 220 | 
 | 2023-02-03 | 3087 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 3055 | 218 | 
 | 2023-01-09 | 3053 | 218 | 
 | 2023-01-08 | 3052 | 218 | 
-| 2023-01-07 | 3051 | 219 | 
 

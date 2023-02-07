@@ -1,10 +1,10 @@
 # optiv/ScareCrow - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 377
 
-★ Stars: 2161
+★ Stars: 2162
 
 [Open repository](https://github.com/optiv/ScareCrow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2162 | 377 | 
 | 2023-02-06 | 2161 | 377 | 
 | 2023-02-04 | 2161 | 376 | 
 | 2023-02-03 | 2161 | 376 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 2124 | 370 | 
 | 2023-01-09 | 2123 | 369 | 
 | 2023-01-08 | 2123 | 369 | 
-| 2023-01-07 | 2122 | 369 | 
 

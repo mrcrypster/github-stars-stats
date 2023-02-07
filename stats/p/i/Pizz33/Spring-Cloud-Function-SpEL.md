@@ -1,6 +1,6 @@
 # Pizz33/Spring-Cloud-Function-SpEL - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 24 | 10 | 
 | 2023-02-05 | 24 | 10 | 
 | 2023-02-04 | 24 | 10 | 
 | 2023-02-03 | 24 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 23 | 9 | 
 | 2023-01-09 | 23 | 9 | 
 | 2023-01-08 | 23 | 9 | 
-| 2023-01-07 | 23 | 9 | 
 

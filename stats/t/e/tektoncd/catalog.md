@@ -1,10 +1,10 @@
 # tektoncd/catalog - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 500
+☋ Forks: 501
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/tektoncd/catalog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 564 | 501 | 
 | 2023-02-05 | 563 | 500 | 
 | 2023-02-04 | 563 | 500 | 
 | 2023-02-03 | 563 | 500 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 561 | 492 | 
 | 2023-01-09 | 561 | 490 | 
 | 2023-01-08 | 560 | 490 | 
-| 2023-01-07 | 560 | 490 | 
 

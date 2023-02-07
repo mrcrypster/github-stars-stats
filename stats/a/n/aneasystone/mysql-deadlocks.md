@@ -1,10 +1,10 @@
 # aneasystone/mysql-deadlocks - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 273
 
-★ Stars: 1212
+★ Stars: 1213
 
 [Open repository](https://github.com/aneasystone/mysql-deadlocks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1213 | 273 | 
 | 2023-02-05 | 1212 | 273 | 
 | 2023-02-04 | 1212 | 273 | 
 | 2023-02-03 | 1211 | 273 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1205 | 271 | 
 | 2023-01-10 | 1205 | 272 | 
 | 2023-01-09 | 1205 | 272 | 
-| 2023-01-08 | 1204 | 272 | 
 

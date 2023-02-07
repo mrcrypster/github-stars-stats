@@ -1,10 +1,10 @@
 # briansmith/ring - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 543
 
-★ Stars: 2996
+★ Stars: 2998
 
 [Open repository](https://github.com/briansmith/ring)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2998 | 543 | 
 | 2023-02-05 | 2996 | 543 | 
 | 2023-02-04 | 2994 | 542 | 
 | 2023-02-03 | 2994 | 542 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2976 | 538 | 
 | 2023-01-09 | 2975 | 537 | 
 | 2023-01-08 | 2975 | 537 | 
-| 2023-01-07 | 2974 | 537 | 
 

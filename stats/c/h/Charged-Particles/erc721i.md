@@ -1,6 +1,6 @@
 # Charged-Particles/erc721i - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 44 | 7 | 
 | 2023-02-06 | 44 | 7 | 
 | 2023-02-04 | 45 | 7 | 
 | 2023-02-03 | 44 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 44 | 7 | 
 | 2023-01-09 | 44 | 7 | 
 | 2023-01-08 | 44 | 7 | 
-| 2023-01-07 | 44 | 7 | 
 

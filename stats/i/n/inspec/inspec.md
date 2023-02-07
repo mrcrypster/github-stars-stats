@@ -1,6 +1,6 @@
 # inspec/inspec - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 675
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2626 | 675 | 
 | 2023-02-05 | 2626 | 675 | 
 | 2023-02-04 | 2626 | 675 | 
 | 2023-02-03 | 2625 | 675 | 

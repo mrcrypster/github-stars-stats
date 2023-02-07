@@ -1,10 +1,10 @@
 # eievui5/vuiiger-engine - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/eievui5/vuiiger-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 22 | - | 
 | 2023-02-05 | 21 | - | 
 | 2023-02-04 | 21 | - | 
 | 2023-02-03 | 21 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 19 | - | 
 | 2023-01-09 | 19 | - | 
 | 2023-01-08 | 19 | - | 
-| 2023-01-07 | 19 | - | 
 

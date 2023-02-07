@@ -1,10 +1,10 @@
 # liamoc/holbert - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/liamoc/holbert)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 151 | 6 | 
 | 2023-02-05 | 150 | 6 | 
 | 2023-02-04 | 150 | 6 | 
 | 2023-02-03 | 150 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 149 | 6 | 
 | 2023-01-09 | 149 | 6 | 
 | 2023-01-08 | 149 | 6 | 
-| 2023-01-07 | 149 | 6 | 
 

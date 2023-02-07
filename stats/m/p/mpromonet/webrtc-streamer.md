@@ -1,10 +1,10 @@
 # mpromonet/webrtc-streamer - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 495
 
-★ Stars: 2062
+★ Stars: 2065
 
 [Open repository](https://github.com/mpromonet/webrtc-streamer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2065 | 495 | 
 | 2023-02-05 | 2062 | 495 | 
 | 2023-02-04 | 2061 | 495 | 
 | 2023-02-03 | 2060 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2033 | 497 | 
 | 2023-01-09 | 2031 | 497 | 
 | 2023-01-08 | 2029 | 497 | 
-| 2023-01-07 | 2029 | 497 | 
 

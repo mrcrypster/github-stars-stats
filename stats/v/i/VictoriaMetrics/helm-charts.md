@@ -1,6 +1,6 @@
 # VictoriaMetrics/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 188 | 219 | 
 | 2023-02-05 | 188 | 219 | 
 | 2023-02-04 | 188 | 218 | 
 | 2023-02-03 | 188 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 188 | 209 | 
 | 2023-01-09 | 188 | 209 | 
 | 2023-01-08 | 188 | 209 | 
-| 2023-01-07 | 188 | 208 | 
 

@@ -1,6 +1,6 @@
 # koreader/koreader-base - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 101 | 89 | 
 | 2023-02-05 | 101 | 89 | 
 | 2023-02-04 | 101 | 89 | 
 | 2023-02-03 | 101 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 102 | 89 | 
 | 2023-01-10 | 102 | 89 | 
 | 2023-01-09 | 102 | 89 | 
-| 2023-01-07 | 102 | 89 | 
 

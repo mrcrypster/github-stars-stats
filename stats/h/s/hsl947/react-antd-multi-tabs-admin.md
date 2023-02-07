@@ -1,10 +1,10 @@
 # hsl947/react-antd-multi-tabs-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 104
 
-★ Stars: 406
+★ Stars: 407
 
 [Open repository](https://github.com/hsl947/react-antd-multi-tabs-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 407 | 104 | 
 | 2023-02-05 | 406 | 104 | 
 | 2023-02-04 | 405 | 103 | 
 | 2023-02-03 | 405 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 396 | 103 | 
 | 2023-01-09 | 394 | 103 | 
 | 2023-01-08 | 394 | 103 | 
-| 2023-01-07 | 394 | 103 | 
 

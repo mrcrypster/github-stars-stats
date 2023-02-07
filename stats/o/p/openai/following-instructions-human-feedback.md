@@ -1,10 +1,10 @@
 # openai/following-instructions-human-feedback - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 75
+☋ Forks: 77
 
-★ Stars: 599
+★ Stars: 608
 
 [Open repository](https://github.com/openai/following-instructions-human-feedback)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 608 | 77 | 
 | 2023-02-05 | 599 | 75 | 
 | 2023-02-04 | 596 | 75 | 
 | 2023-02-03 | 590 | 74 | 

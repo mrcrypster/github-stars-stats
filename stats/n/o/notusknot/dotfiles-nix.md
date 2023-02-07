@@ -1,10 +1,10 @@
 # notusknot/dotfiles-nix - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 21
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/notusknot/dotfiles-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 155 | 21 | 
 | 2023-02-05 | 154 | 21 | 
 | 2023-02-04 | 154 | 21 | 
 | 2023-02-03 | 153 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 148 | 21 | 
 | 2023-01-09 | 147 | 20 | 
 | 2023-01-08 | 146 | 20 | 
-| 2023-01-07 | 146 | 20 | 
 

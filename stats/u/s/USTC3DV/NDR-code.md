@@ -1,10 +1,10 @@
 # USTC3DV/NDR-code - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 55
 
-★ Stars: 446
+★ Stars: 447
 
 [Open repository](https://github.com/USTC3DV/NDR-code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 447 | 55 | 
 | 2023-02-05 | 446 | 55 | 
 | 2023-02-04 | 446 | 55 | 
 | 2023-02-03 | 445 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 437 | 53 | 
 | 2023-01-09 | 436 | 52 | 
 | 2023-01-08 | 435 | 52 | 
-| 2023-01-07 | 434 | 52 | 
 

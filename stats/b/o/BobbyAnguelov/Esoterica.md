@@ -1,8 +1,8 @@
 # BobbyAnguelov/Esoterica - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 621
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 621 | 36 | 
 | 2023-02-05 | 621 | 35 | 
 | 2023-02-04 | 621 | 35 | 
 | 2023-02-03 | 621 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 606 | 34 | 
 | 2023-01-09 | 606 | 34 | 
 | 2023-01-08 | 605 | 34 | 
-| 2023-01-07 | 604 | 34 | 
 

@@ -1,10 +1,10 @@
 # ColinLeung-NiloCat/UnityURP-BillboardLensFlareShader - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 63
 
-★ Stars: 327
+★ Stars: 328
 
 [Open repository](https://github.com/ColinLeung-NiloCat/UnityURP-BillboardLensFlareShader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 328 | 63 | 
 | 2023-02-05 | 327 | 63 | 
 | 2023-02-04 | 327 | 63 | 
 | 2023-02-03 | 327 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 324 | 63 | 
 | 2023-01-10 | 324 | 63 | 
 | 2023-01-09 | 324 | 63 | 
-| 2023-01-08 | 324 | 63 | 
 

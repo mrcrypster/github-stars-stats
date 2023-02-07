@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/teunbrand/ggarrow)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 14 | - | 
+| 2023-02-06 | 15 | - | 
 | 2023-02-05 | 13 | - | 
 

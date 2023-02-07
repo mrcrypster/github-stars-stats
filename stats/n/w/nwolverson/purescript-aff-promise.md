@@ -1,6 +1,6 @@
 # nwolverson/purescript-aff-promise - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 42 | 14 | 
 | 2023-02-06 | 42 | 14 | 
 | 2023-02-04 | 42 | 14 | 
 | 2023-02-03 | 42 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 42 | 14 | 
 | 2023-01-09 | 42 | 14 | 
 | 2023-01-08 | 42 | 14 | 
-| 2023-01-07 | 42 | 14 | 
 

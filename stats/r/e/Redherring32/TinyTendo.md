@@ -1,10 +1,10 @@
 # Redherring32/TinyTendo - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/Redherring32/TinyTendo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 79 | 2 | 
 | 2023-02-05 | 78 | 2 | 
 | 2023-02-04 | 78 | 2 | 
 | 2023-02-03 | 78 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 76 | 1 | 
 | 2023-01-10 | 76 | 1 | 
 | 2023-01-09 | 76 | 1 | 
-| 2023-01-08 | 76 | 1 | 
 

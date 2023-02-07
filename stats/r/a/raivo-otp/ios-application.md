@@ -1,10 +1,10 @@
 # raivo-otp/ios-application - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 55
 
-★ Stars: 792
+★ Stars: 793
 
 [Open repository](https://github.com/raivo-otp/ios-application)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 793 | 55 | 
 | 2023-02-05 | 792 | 55 | 
 | 2023-02-04 | 792 | 55 | 
 | 2023-02-03 | 792 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 774 | 54 | 
 | 2023-01-09 | 773 | 54 | 
 | 2023-01-08 | 770 | 54 | 
-| 2023-01-07 | 767 | 54 | 
 

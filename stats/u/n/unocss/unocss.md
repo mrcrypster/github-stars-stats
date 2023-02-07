@@ -1,10 +1,10 @@
 # unocss/unocss - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 405
+☋ Forks: 406
 
-★ Stars: 8924
+★ Stars: 8932
 
 [Open repository](https://github.com/unocss/unocss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 8932 | 406 | 
 | 2023-02-05 | 8924 | 405 | 
 | 2023-02-04 | 8908 | 405 | 
 | 2023-02-03 | 8883 | 405 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 8341 | 394 | 
 | 2023-01-09 | 8305 | 389 | 
 | 2023-01-08 | 8267 | 388 | 
-| 2023-01-07 | 8241 | 387 | 
 

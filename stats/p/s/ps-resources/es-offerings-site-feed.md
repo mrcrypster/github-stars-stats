@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/ps-resources/es-offerings-site-feed)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 2 | 1 | 
+| 2023-02-06 | 3 | 1 | 
 | 2023-02-05 | 2 | 1 | 
 

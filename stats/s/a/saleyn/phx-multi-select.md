@@ -1,10 +1,10 @@
 # saleyn/phx-multi-select - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/saleyn/phx-multi-select)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 13 | - | 
 | 2023-02-05 | 12 | - | 
 | 2023-02-04 | 11 | - | 
 | 2023-02-03 | 11 | - | 

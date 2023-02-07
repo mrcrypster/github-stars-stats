@@ -1,6 +1,6 @@
 # lsyncd/lsyncd - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 451
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 5171 | 451 | 
 | 2023-02-05 | 5171 | 451 | 
 | 2023-02-04 | 5170 | 451 | 
 | 2023-02-03 | 5169 | 451 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 5119 | 449 | 
 | 2023-01-10 | 5115 | 448 | 
 | 2023-01-09 | 5115 | 448 | 
-| 2023-01-08 | 5113 | 448 | 
 

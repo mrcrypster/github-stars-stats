@@ -1,10 +1,10 @@
 # opencurve/curve - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 345
+☋ Forks: 347
 
-★ Stars: 1718
+★ Stars: 1720
 
 [Open repository](https://github.com/opencurve/curve)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1720 | 347 | 
 | 2023-02-05 | 1718 | 345 | 
 | 2023-02-04 | 1716 | 345 | 
 | 2023-02-03 | 1716 | 345 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1699 | 343 | 
 | 2023-01-09 | 1699 | 342 | 
 | 2023-01-08 | 1699 | 341 | 
-| 2023-01-07 | 1698 | 341 | 
 

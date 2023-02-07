@@ -1,6 +1,6 @@
 # TalEliyahu/Threat_Model_Examples - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 249 | 35 | 
 | 2023-02-05 | 249 | 35 | 
 | 2023-02-04 | 248 | 34 | 
 | 2023-02-03 | 248 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 241 | 34 | 
 | 2023-01-10 | 241 | 34 | 
 | 2023-01-09 | 240 | 34 | 
-| 2023-01-08 | 239 | 34 | 
 

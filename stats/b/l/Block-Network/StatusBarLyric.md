@@ -1,8 +1,8 @@
 # Block-Network/StatusBarLyric - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 452
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 452 | 22 | 
 | 2023-02-05 | 452 | 21 | 
 | 2023-02-04 | 452 | 21 | 
 | 2023-02-03 | 450 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 421 | 19 | 
 | 2023-01-09 | 419 | 19 | 
 | 2023-01-08 | 419 | 20 | 
-| 2023-01-07 | 418 | 20 | 
 

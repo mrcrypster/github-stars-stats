@@ -1,6 +1,6 @@
 # brightcove/brightcove-player-sdk-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 113 | 47 | 
 | 2023-02-05 | 113 | 47 | 
 | 2023-02-04 | 113 | 47 | 
 | 2023-02-03 | 113 | 47 | 

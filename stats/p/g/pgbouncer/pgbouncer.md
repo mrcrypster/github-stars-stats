@@ -1,8 +1,8 @@
 # pgbouncer/pgbouncer - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 357
+☋ Forks: 358
 
 ★ Stars: 1894
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1894 | 358 | 
 | 2023-02-05 | 1894 | 357 | 
 | 2023-02-04 | 1892 | 357 | 
 | 2023-02-03 | 1890 | 357 | 

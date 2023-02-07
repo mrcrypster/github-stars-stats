@@ -1,10 +1,10 @@
 # Aris-t2/CustomCSSforFx - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 171
 
-★ Stars: 1588
+★ Stars: 1589
 
 [Open repository](https://github.com/Aris-t2/CustomCSSforFx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1589 | 171 | 
 | 2023-02-05 | 1588 | 171 | 
 | 2023-02-04 | 1589 | 171 | 
 | 2023-02-03 | 1588 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1573 | 170 | 
 | 2023-01-10 | 1573 | 170 | 
 | 2023-01-09 | 1573 | 171 | 
-| 2023-01-07 | 1572 | 170 | 
 

@@ -1,10 +1,10 @@
 # TavernAI/TavernAI - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 21
 
-★ Stars: 77
+★ Stars: 85
 
 [Open repository](https://github.com/TavernAI/TavernAI)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 85 | 21 | 
+| 2023-02-06 | 83 | 22 | 
 | 2023-02-05 | 77 | 21 | 
 | 2023-02-04 | 72 | 18 | 
 | 2023-02-03 | 71 | 18 | 

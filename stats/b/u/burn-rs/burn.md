@@ -1,8 +1,8 @@
 # burn-rs/burn - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 1419
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1419 | 44 | 
 | 2023-02-05 | 1419 | 43 | 
 | 2023-02-04 | 1418 | 43 | 
 | 2023-02-03 | 1415 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1310 | 37 | 
 | 2023-01-09 | 1287 | 36 | 
 | 2023-01-08 | 1260 | 35 | 
-| 2023-01-07 | 1229 | 34 | 
 

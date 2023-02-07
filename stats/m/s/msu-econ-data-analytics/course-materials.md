@@ -1,10 +1,10 @@
 # msu-econ-data-analytics/course-materials - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 51
 
-★ Stars: 193
+★ Stars: 195
 
 [Open repository](https://github.com/msu-econ-data-analytics/course-materials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 195 | 51 | 
 | 2023-02-05 | 193 | 51 | 
 | 2023-02-04 | 193 | 51 | 
 | 2023-02-03 | 193 | 51 | 

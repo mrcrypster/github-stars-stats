@@ -1,10 +1,10 @@
 # OpenRadioss/OpenRadioss - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 148
 
-★ Stars: 379
+★ Stars: 383
 
 [Open repository](https://github.com/OpenRadioss/OpenRadioss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 383 | 148 | 
 | 2023-02-05 | 379 | 148 | 
 | 2023-02-04 | 379 | 148 | 
 | 2023-02-03 | 379 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 370 | 138 | 
 | 2023-01-10 | 370 | 138 | 
 | 2023-01-08 | 369 | 138 | 
-| 2023-01-07 | 369 | 138 | 
 

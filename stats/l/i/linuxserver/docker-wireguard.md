@@ -1,6 +1,6 @@
 # linuxserver/docker-wireguard - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1586 | 228 | 
 | 2023-02-05 | 1586 | 228 | 
 | 2023-02-04 | 1581 | 228 | 
 | 2023-02-03 | 1578 | 228 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1523 | 217 | 
 | 2023-01-09 | 1523 | 217 | 
 | 2023-01-08 | 1518 | 217 | 
-| 2023-01-07 | 1518 | 216 | 
 

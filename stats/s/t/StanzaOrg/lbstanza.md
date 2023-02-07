@@ -1,6 +1,6 @@
 # StanzaOrg/lbstanza - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 219 | 22 | 
 | 2023-02-05 | 219 | 22 | 
 | 2023-02-04 | 219 | 22 | 
 | 2023-02-03 | 219 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 219 | 22 | 
 | 2023-01-10 | 219 | 22 | 
 | 2023-01-09 | 219 | 22 | 
-| 2023-01-08 | 219 | 22 | 
 

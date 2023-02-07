@@ -1,10 +1,10 @@
 # acmesh-official/acme.sh - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 4168
+☋ Forks: 4169
 
-★ Stars: 30215
+★ Stars: 30227
 
 [Open repository](https://github.com/acmesh-official/acme.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 30227 | 4169 | 
 | 2023-02-05 | 30215 | 4168 | 
 | 2023-02-04 | 30201 | 4168 | 
 | 2023-02-03 | 30188 | 4166 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 29908 | 4125 | 
 | 2023-01-09 | 29892 | 4126 | 
 | 2023-01-08 | 29876 | 4124 | 
-| 2023-01-07 | 29867 | 4122 | 
 

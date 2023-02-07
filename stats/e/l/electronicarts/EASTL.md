@@ -1,10 +1,10 @@
 # electronicarts/EASTL - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 832
 
-★ Stars: 6945
+★ Stars: 6946
 
 [Open repository](https://github.com/electronicarts/EASTL)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 6946 | 832 | 
 | 2023-02-05 | 6945 | 832 | 
 | 2023-02-04 | 6943 | 832 | 
 | 2023-02-03 | 6941 | 832 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 6893 | 827 | 
 | 2023-01-09 | 6892 | 827 | 
 | 2023-01-08 | 6889 | 826 | 
-| 2023-01-07 | 6888 | 826 | 
 

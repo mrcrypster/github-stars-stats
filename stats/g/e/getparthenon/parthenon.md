@@ -1,6 +1,6 @@
 # getparthenon/parthenon - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 67 | 4 | 
 | 2023-02-06 | 67 | 4 | 
 | 2023-02-04 | 67 | 4 | 
 | 2023-02-03 | 66 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 54 | 3 | 
 | 2023-01-09 | 54 | 3 | 
 | 2023-01-08 | 54 | 3 | 
-| 2023-01-07 | 51 | 3 | 
 

@@ -1,10 +1,10 @@
 # JuliaGraphs/Graphs.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 54
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/JuliaGraphs/Graphs.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 327 | 54 | 
 | 2023-02-05 | 326 | 54 | 
 | 2023-02-04 | 326 | 54 | 
 | 2023-02-03 | 327 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 322 | 54 | 
 | 2023-01-10 | 322 | 54 | 
 | 2023-01-09 | 321 | 54 | 
-| 2023-01-08 | 321 | 54 | 
 

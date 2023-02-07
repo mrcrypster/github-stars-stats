@@ -1,10 +1,10 @@
 # openmlsys/openmlsys-zh - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 303
+☋ Forks: 304
 
-★ Stars: 2320
+★ Stars: 2323
 
 [Open repository](https://github.com/openmlsys/openmlsys-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2323 | 304 | 
 | 2023-02-05 | 2320 | 303 | 
 | 2023-02-04 | 2320 | 303 | 
 | 2023-02-03 | 2319 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2240 | 294 | 
 | 2023-01-09 | 2240 | 294 | 
 | 2023-01-08 | 2240 | 294 | 
-| 2023-01-07 | 2238 | 294 | 
 

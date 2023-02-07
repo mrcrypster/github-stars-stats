@@ -1,6 +1,6 @@
 # mentorchita/my_yourname_site - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | - | 141 | 
 | 2023-02-05 | - | 141 | 
 | 2023-02-04 | - | 141 | 
 | 2023-02-03 | - | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | - | 113 | 
 | 2023-01-09 | - | 113 | 
 | 2023-01-08 | - | 113 | 
-| 2023-01-07 | - | 113 | 
 

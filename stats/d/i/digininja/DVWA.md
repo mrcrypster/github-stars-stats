@@ -1,10 +1,10 @@
 # digininja/DVWA - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 2430
+☋ Forks: 2432
 
-★ Stars: 7134
+★ Stars: 7136
 
 [Open repository](https://github.com/digininja/DVWA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 7136 | 2432 | 
 | 2023-02-05 | 7134 | 2430 | 
 | 2023-02-04 | 7133 | 2429 | 
 | 2023-02-03 | 7127 | 2428 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 7046 | 2389 | 
 | 2023-01-09 | 7043 | 2388 | 
 | 2023-01-08 | 7034 | 2386 | 
-| 2023-01-07 | 7031 | 2383 | 
 

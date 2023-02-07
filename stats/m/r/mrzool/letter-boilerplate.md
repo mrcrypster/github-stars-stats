@@ -1,10 +1,10 @@
 # mrzool/letter-boilerplate - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 77
 
-★ Stars: 440
+★ Stars: 441
 
 [Open repository](https://github.com/mrzool/letter-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 441 | 77 | 
 | 2023-02-05 | 440 | 77 | 
 | 2023-02-04 | 440 | 77 | 
 | 2023-02-02 | 440 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 434 | 77 | 
 | 2023-01-09 | 434 | 77 | 
 | 2023-01-08 | 434 | 77 | 
-| 2023-01-07 | 434 | 77 | 
 

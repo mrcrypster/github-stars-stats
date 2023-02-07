@@ -1,10 +1,10 @@
 # ChristianLempa/boilerplates - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 732
+☋ Forks: 733
 
-★ Stars: 1596
+★ Stars: 1601
 
 [Open repository](https://github.com/ChristianLempa/boilerplates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1601 | 733 | 
 | 2023-02-05 | 1596 | 732 | 
 | 2023-02-04 | 1588 | 729 | 
 | 2023-02-03 | 1587 | 729 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1489 | 691 | 
 | 2023-01-09 | 1487 | 689 | 
 | 2023-01-08 | 1485 | 690 | 
-| 2023-01-07 | 1483 | 689 | 
 

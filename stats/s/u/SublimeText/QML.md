@@ -1,0 +1,17 @@
+# SublimeText/QML - stars & forks statistics
+
+Stats updated on Feb 2023, 06
+
+☋ Forks: 4
+
+★ Stars: 24
+
+[Open repository](https://github.com/SublimeText/QML)
+
+[Open detailed stats for SublimeText/QML](https://reviewgithub.com/rep/SublimeText/QML)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-06 | 24 | 4 | 
+

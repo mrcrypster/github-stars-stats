@@ -1,10 +1,10 @@
 # jfjelstul/englishfootball - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/jfjelstul/englishfootball)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 36 | 2 | 
 | 2023-02-05 | 35 | 2 | 
 | 2023-02-04 | 34 | 2 | 
 | 2023-02-03 | 34 | 2 | 

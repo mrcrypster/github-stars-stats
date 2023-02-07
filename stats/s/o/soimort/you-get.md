@@ -1,10 +1,10 @@
 # soimort/you-get - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 9158
+☋ Forks: 9162
 
-★ Stars: 46622
+★ Stars: 46629
 
 [Open repository](https://github.com/soimort/you-get)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 46629 | 9162 | 
 | 2023-02-05 | 46622 | 9158 | 
 | 2023-02-04 | 46618 | 9160 | 
 | 2023-02-03 | 46609 | 9160 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 46442 | 9133 | 
 | 2023-01-09 | 46432 | 9135 | 
 | 2023-01-08 | 46428 | 9136 | 
-| 2023-01-07 | 46422 | 9137 | 
 

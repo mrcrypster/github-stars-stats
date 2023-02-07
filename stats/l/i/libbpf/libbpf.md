@@ -1,6 +1,6 @@
 # libbpf/libbpf - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1274 | 309 | 
 | 2023-02-05 | 1274 | 309 | 
 | 2023-02-04 | 1274 | 309 | 
 | 2023-02-03 | 1273 | 309 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1240 | 300 | 
 | 2023-01-09 | 1240 | 300 | 
 | 2023-01-08 | 1239 | 300 | 
-| 2023-01-07 | 1238 | 300 | 
 

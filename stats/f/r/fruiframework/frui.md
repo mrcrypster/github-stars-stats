@@ -1,6 +1,6 @@
 # fruiframework/frui - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1097 | 20 | 
 | 2023-02-05 | 1097 | 20 | 
 | 2023-02-04 | 1097 | 20 | 
 | 2023-02-03 | 1096 | 20 | 

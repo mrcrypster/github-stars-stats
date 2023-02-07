@@ -1,10 +1,10 @@
 # kxxt/aspeak - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 43
 
-★ Stars: 369
+★ Stars: 371
 
 [Open repository](https://github.com/kxxt/aspeak)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 371 | 43 | 
 | 2023-02-05 | 369 | 43 | 
 | 2023-02-04 | 369 | 43 | 
 | 2023-02-03 | 369 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 360 | 42 | 
 | 2023-01-09 | 361 | 42 | 
 | 2023-01-08 | 361 | 42 | 
-| 2023-01-07 | 361 | 42 | 
 

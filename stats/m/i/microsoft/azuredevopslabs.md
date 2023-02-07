@@ -1,10 +1,10 @@
 # microsoft/azuredevopslabs - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 745
+☋ Forks: 746
 
-★ Stars: 672
+★ Stars: 673
 
 [Open repository](https://github.com/microsoft/azuredevopslabs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 673 | 746 | 
 | 2023-02-05 | 672 | 745 | 
 | 2023-02-03 | 672 | 745 | 
 | 2023-02-02 | 671 | 745 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 665 | 739 | 
 | 2023-01-09 | 665 | 740 | 
 | 2023-01-08 | 664 | 740 | 
-| 2023-01-07 | 664 | 740 | 
 

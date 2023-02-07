@@ -1,10 +1,10 @@
 # Face-scroll-keyboard/lightink - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 45
 
-★ Stars: 335
+★ Stars: 336
 
 [Open repository](https://github.com/Face-scroll-keyboard/lightink)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 336 | 45 | 
 | 2023-02-05 | 335 | 45 | 
 | 2023-02-04 | 335 | 45 | 
 | 2023-02-03 | 334 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 324 | 45 | 
 | 2023-01-09 | 324 | 45 | 
 | 2023-01-08 | 323 | 45 | 
-| 2023-01-07 | 322 | 45 | 
 

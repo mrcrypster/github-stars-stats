@@ -1,10 +1,10 @@
 # purescript-contrib/purescript-argonaut-traversals - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 17
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/purescript-contrib/purescript-argonaut-traversals)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 11 | 17 | 
 | 2023-02-05 | 10 | 17 | 
 | 2023-02-04 | 10 | 17 | 
 | 2023-02-03 | 10 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 10 | 16 | 
 | 2023-01-10 | 10 | 16 | 
 | 2023-01-09 | 10 | 16 | 
-| 2023-01-08 | 10 | 16 | 
 

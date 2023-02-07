@@ -1,6 +1,6 @@
 # ankane/pghero - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 406
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 6835 | 406 | 
 | 2023-02-05 | 6835 | 406 | 
 | 2023-02-04 | 6833 | 406 | 
 | 2023-02-03 | 6832 | 406 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 6786 | 405 | 
 | 2023-01-09 | 6783 | 405 | 
 | 2023-01-08 | 6783 | 405 | 
-| 2023-01-07 | 6782 | 405 | 
 

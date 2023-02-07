@@ -1,6 +1,6 @@
 # eguatech/egua - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 771 | 38 | 
 | 2023-02-05 | 771 | 38 | 
 | 2023-02-04 | 772 | 38 | 
 | 2023-02-03 | 772 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 724 | 36 | 
 | 2023-01-09 | 714 | 37 | 
 | 2023-01-08 | 707 | 37 | 
-| 2023-01-07 | 702 | 35 | 
 

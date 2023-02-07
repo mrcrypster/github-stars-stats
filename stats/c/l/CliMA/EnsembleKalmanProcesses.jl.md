@@ -1,6 +1,6 @@
 # CliMA/EnsembleKalmanProcesses.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 47 | 14 | 
 | 2023-02-05 | 47 | 14 | 
 | 2023-02-04 | 47 | 14 | 
 | 2023-02-03 | 47 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 48 | 15 | 
 | 2023-01-09 | 48 | 15 | 
 | 2023-01-08 | 48 | 15 | 
-| 2023-01-07 | 48 | 15 | 
 

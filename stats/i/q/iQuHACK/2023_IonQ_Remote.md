@@ -1,8 +1,8 @@
 # iQuHACK/2023_IonQ_Remote - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 247
+☋ Forks: 248
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 24 | 248 | 
 | 2023-02-05 | 24 | 247 | 
 | 2023-02-04 | 24 | 247 | 
 | 2023-02-03 | 24 | 246 | 

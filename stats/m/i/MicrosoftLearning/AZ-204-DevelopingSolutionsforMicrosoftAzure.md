@@ -1,10 +1,10 @@
 # MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 1387
+☋ Forks: 1389
 
-★ Stars: 1728
+★ Stars: 1731
 
 [Open repository](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1731 | 1389 | 
 | 2023-02-05 | 1728 | 1387 | 
 | 2023-02-04 | 1725 | 1387 | 
 | 2023-02-03 | 1725 | 1386 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1699 | 1370 | 
 | 2023-01-09 | 1698 | 1370 | 
 | 2023-01-08 | 1697 | 1370 | 
-| 2023-01-07 | 1697 | 1371 | 
 

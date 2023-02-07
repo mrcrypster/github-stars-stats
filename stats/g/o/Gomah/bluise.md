@@ -1,8 +1,8 @@
 # Gomah/bluise - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
-☋ Forks: 111
+☋ Forks: 110
 
 ★ Stars: 140
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 140 | 110 | 
 | 2023-02-05 | 140 | 111 | 
 | 2023-02-04 | 140 | 111 | 
 | 2023-02-03 | 140 | 111 | 

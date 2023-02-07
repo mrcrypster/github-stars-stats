@@ -1,10 +1,10 @@
 # mfussenegger/nvim-jdtls - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 536
+★ Stars: 537
 
 [Open repository](https://github.com/mfussenegger/nvim-jdtls)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 537 | 30 | 
 | 2023-02-05 | 536 | 30 | 
 | 2023-02-04 | 537 | 29 | 
 | 2023-02-02 | 535 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 512 | 28 | 
 | 2023-01-09 | 512 | 28 | 
 | 2023-01-08 | 509 | 28 | 
-| 2023-01-07 | 509 | 28 | 
 

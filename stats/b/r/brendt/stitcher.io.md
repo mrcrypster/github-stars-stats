@@ -1,6 +1,6 @@
 # brendt/stitcher.io - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 149 | 127 | 
 | 2023-02-05 | 149 | 127 | 
 | 2023-02-04 | 149 | 127 | 
 | 2023-02-03 | 149 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 147 | 125 | 
 | 2023-01-09 | 147 | 125 | 
 | 2023-01-08 | 147 | 125 | 
-| 2023-01-07 | 147 | 125 | 
 

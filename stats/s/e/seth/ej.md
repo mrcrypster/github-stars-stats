@@ -1,6 +1,6 @@
 # seth/ej - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 175 | 47 | 
 | 2023-02-05 | 175 | 47 | 
 | 2023-02-04 | 175 | 47 | 
 | 2023-02-03 | 175 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 176 | 47 | 
 | 2023-01-09 | 176 | 47 | 
 | 2023-01-08 | 176 | 47 | 
-| 2023-01-07 | 176 | 47 | 
 

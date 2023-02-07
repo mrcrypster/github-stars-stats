@@ -1,10 +1,10 @@
 # LearningJournal/SparkProgrammingInScala - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 118
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/LearningJournal/SparkProgrammingInScala)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 70 | 118 | 
 | 2023-02-05 | 69 | 118 | 
 | 2023-02-04 | 69 | 118 | 
 | 2023-02-03 | 69 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 69 | 113 | 
 | 2023-01-09 | 69 | 113 | 
 | 2023-01-08 | 69 | 113 | 
-| 2023-01-07 | 69 | 113 | 
 

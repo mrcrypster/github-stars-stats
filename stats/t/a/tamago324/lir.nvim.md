@@ -1,10 +1,10 @@
 # tamago324/lir.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 15
 
-★ Stars: 282
+★ Stars: 281
 
 [Open repository](https://github.com/tamago324/lir.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 281 | 15 | 
 | 2023-02-05 | 282 | 15 | 
 | 2023-02-04 | 282 | 15 | 
 | 2023-02-03 | 282 | 15 | 

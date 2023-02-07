@@ -1,6 +1,6 @@
 # sysengineer13/ServiceNever - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 127 | 34 | 
 | 2023-02-05 | 127 | 34 | 
 | 2023-02-04 | 127 | 34 | 
 | 2023-02-03 | 127 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 127 | 36 | 
 | 2023-01-10 | 127 | 36 | 
 | 2023-01-09 | 127 | 36 | 
-| 2023-01-08 | 127 | 36 | 
 

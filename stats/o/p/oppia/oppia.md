@@ -1,10 +1,10 @@
 # oppia/oppia - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 2781
+☋ Forks: 2785
 
-★ Stars: 4860
+★ Stars: 4862
 
 [Open repository](https://github.com/oppia/oppia)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4862 | 2785 | 
 | 2023-02-05 | 4860 | 2781 | 
 | 2023-02-03 | 4860 | 2777 | 
 | 2023-02-02 | 4856 | 2770 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 4762 | 2617 | 
 | 2023-01-09 | 4761 | 2612 | 
 | 2023-01-08 | 4760 | 2605 | 
-| 2023-01-07 | 4759 | 2603 | 
 

@@ -1,6 +1,6 @@
 # iiop123/dingding - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 119 | 42 | 
 | 2023-02-05 | 119 | 42 | 
 | 2023-02-04 | 119 | 42 | 
 | 2023-02-02 | 119 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 116 | 43 | 
 | 2023-01-09 | 115 | 43 | 
 | 2023-01-08 | 115 | 43 | 
-| 2023-01-07 | 115 | 43 | 
 

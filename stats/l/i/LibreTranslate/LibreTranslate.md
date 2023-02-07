@@ -1,10 +1,10 @@
 # LibreTranslate/LibreTranslate - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 372
+☋ Forks: 371
 
-★ Stars: 3651
+★ Stars: 3656
 
 [Open repository](https://github.com/LibreTranslate/LibreTranslate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3656 | 371 | 
 | 2023-02-05 | 3651 | 372 | 
 | 2023-02-04 | 3643 | 371 | 
 | 2023-02-03 | 3638 | 370 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 3520 | 351 | 
 | 2023-01-09 | 3514 | 350 | 
 | 2023-01-08 | 3514 | 349 | 
-| 2023-01-07 | 3510 | 349 | 
 

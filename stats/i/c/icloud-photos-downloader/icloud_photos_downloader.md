@@ -1,10 +1,10 @@
 # icloud-photos-downloader/icloud_photos_downloader - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 419
+☋ Forks: 420
 
-★ Stars: 4059
+★ Stars: 4060
 
 [Open repository](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4060 | 420 | 
 | 2023-02-05 | 4059 | 419 | 
 | 2023-02-04 | 4056 | 419 | 
 | 2023-02-03 | 4051 | 420 | 

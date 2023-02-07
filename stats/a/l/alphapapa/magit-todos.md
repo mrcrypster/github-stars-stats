@@ -1,6 +1,6 @@
 # alphapapa/magit-todos - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 549 | 35 | 
 | 2023-02-05 | 549 | 35 | 
 | 2023-02-04 | 549 | 35 | 
 | 2023-02-03 | 549 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 547 | 35 | 
 | 2023-01-09 | 547 | 35 | 
 | 2023-01-08 | 547 | 35 | 
-| 2023-01-07 | 547 | 35 | 
 

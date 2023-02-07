@@ -1,10 +1,10 @@
 # yidongnan/grpc-spring-boot-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 695
 
-★ Stars: 2807
+★ Stars: 2808
 
 [Open repository](https://github.com/yidongnan/grpc-spring-boot-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2808 | 695 | 
 | 2023-02-05 | 2807 | 695 | 
 | 2023-02-04 | 2807 | 694 | 
 | 2023-02-03 | 2806 | 694 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2774 | 690 | 
 | 2023-01-09 | 2773 | 690 | 
 | 2023-01-08 | 2768 | 690 | 
-| 2023-01-07 | 2767 | 690 | 
 

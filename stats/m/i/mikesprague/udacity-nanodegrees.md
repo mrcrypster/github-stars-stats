@@ -1,6 +1,6 @@
 # mikesprague/udacity-nanodegrees - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 2240
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 6147 | 2240 | 
 | 2023-02-05 | 6147 | 2240 | 
 | 2023-02-04 | 6146 | 2240 | 
 | 2023-02-03 | 6144 | 2240 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 6130 | 2240 | 
 | 2023-01-09 | 6130 | 2240 | 
 | 2023-01-08 | 6129 | 2239 | 
-| 2023-01-07 | 6128 | 2239 | 
 

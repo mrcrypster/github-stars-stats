@@ -1,6 +1,6 @@
 # cornell-ece4750/ece4750-tut3-verilog - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | - | 82 | 
 | 2023-02-05 | - | 82 | 
 | 2023-02-04 | - | 82 | 
 | 2023-02-03 | - | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | - | 76 | 
 | 2023-01-09 | - | 76 | 
 | 2023-01-08 | - | 76 | 
-| 2023-01-07 | - | 76 | 
 

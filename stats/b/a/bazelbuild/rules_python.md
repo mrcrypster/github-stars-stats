@@ -1,6 +1,6 @@
 # bazelbuild/rules_python - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 418
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 416 | 418 | 
 | 2023-02-05 | 416 | 418 | 
 | 2023-02-04 | 416 | 418 | 
 | 2023-02-03 | 415 | 417 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 406 | 408 | 
 | 2023-01-09 | 406 | 408 | 
 | 2023-01-08 | 406 | 408 | 
-| 2023-01-07 | 406 | 408 | 
 

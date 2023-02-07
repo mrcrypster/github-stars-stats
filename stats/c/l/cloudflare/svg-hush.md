@@ -1,6 +1,6 @@
 # cloudflare/svg-hush - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 296 | 8 | 
 | 2023-02-05 | 296 | 8 | 
 | 2023-02-04 | 296 | 8 | 
 | 2023-02-03 | 296 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 290 | 8 | 
 | 2023-01-09 | 290 | 8 | 
 | 2023-01-08 | 290 | 8 | 
-| 2023-01-07 | 288 | 8 | 
 

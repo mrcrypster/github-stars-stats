@@ -1,10 +1,10 @@
 # DantuNandiniDevi/iiitb_freqdiv - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 12
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/DantuNandiniDevi/iiitb_freqdiv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4 | 12 | 
 | 2023-02-05 | 3 | 12 | 
 | 2023-02-04 | 3 | 12 | 
 | 2023-02-03 | 3 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1 | 11 | 
 | 2023-01-09 | 1 | 11 | 
 | 2023-01-08 | 1 | 11 | 
-| 2023-01-07 | 1 | 11 | 
 

@@ -1,6 +1,6 @@
 # fouita/tailwind-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 270 | 27 | 
 | 2023-02-05 | 270 | 27 | 
 | 2023-02-04 | 269 | 27 | 
 | 2023-02-03 | 268 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 259 | 27 | 
 | 2023-01-09 | 258 | 27 | 
 | 2023-01-08 | 258 | 27 | 
-| 2023-01-07 | 258 | 27 | 
 

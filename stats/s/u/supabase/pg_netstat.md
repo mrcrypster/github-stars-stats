@@ -1,10 +1,10 @@
 # supabase/pg_netstat - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 235
+★ Stars: 234
 
 [Open repository](https://github.com/supabase/pg_netstat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 234 | 3 | 
 | 2023-02-05 | 235 | 3 | 
 | 2023-02-04 | 235 | 3 | 
 | 2023-02-02 | 235 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 233 | 3 | 
 | 2023-01-09 | 232 | 3 | 
 | 2023-01-08 | 232 | 3 | 
-| 2023-01-07 | 232 | 3 | 
 

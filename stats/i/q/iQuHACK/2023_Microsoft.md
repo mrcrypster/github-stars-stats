@@ -1,6 +1,6 @@
 # iQuHACK/2023_Microsoft - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 15 | 157 | 
 | 2023-02-05 | 15 | 157 | 
 | 2023-02-04 | 15 | 157 | 
 | 2023-02-03 | 15 | 157 | 

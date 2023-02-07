@@ -1,10 +1,10 @@
 # jespercockx/agda-core - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/jespercockx/agda-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 9 | - | 
 | 2023-02-05 | 8 | - | 
 | 2023-02-04 | 8 | - | 
 | 2023-02-03 | 8 | - | 

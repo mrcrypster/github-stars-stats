@@ -1,10 +1,10 @@
 # yanue/V2rayU - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 2427
+☋ Forks: 2429
 
-★ Stars: 15233
+★ Stars: 15244
 
 [Open repository](https://github.com/yanue/V2rayU)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 15244 | 2429 | 
 | 2023-02-05 | 15233 | 2427 | 
 | 2023-02-04 | 15228 | 2427 | 
 | 2023-02-03 | 15222 | 2424 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 15100 | 2413 | 
 | 2023-01-09 | 15096 | 2413 | 
 | 2023-01-08 | 15091 | 2412 | 
-| 2023-01-07 | 15090 | 2413 | 
 

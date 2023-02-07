@@ -1,10 +1,10 @@
 # emacs-citar/citar-org-roam - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/emacs-citar/citar-org-roam)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 49 | 3 | 
 | 2023-02-05 | 48 | 3 | 
 | 2023-02-04 | 48 | 3 | 
 | 2023-02-03 | 48 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 48 | 3 | 
 | 2023-01-09 | 48 | 3 | 
 | 2023-01-08 | 48 | 3 | 
-| 2023-01-07 | 48 | 3 | 
 

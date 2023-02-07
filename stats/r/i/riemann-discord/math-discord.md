@@ -1,0 +1,17 @@
+# riemann-discord/math-discord - stars & forks statistics
+
+Stats updated on Feb 2023, 06
+
+☋ Forks: 5
+
+★ Stars: 1
+
+[Open repository](https://github.com/riemann-discord/math-discord)
+
+[Open detailed stats for riemann-discord/math-discord](https://reviewgithub.com/rep/riemann-discord/math-discord)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-06 | 1 | 5 | 
+

@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/NimShellcodeFluctuation - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 67 | 9 | 
 | 2023-02-05 | 67 | 9 | 
 | 2023-02-03 | 67 | 9 | 
 | 2023-02-02 | 67 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 65 | 9 | 
 | 2023-01-09 | 65 | 9 | 
 | 2023-01-08 | 65 | 9 | 
-| 2023-01-07 | 65 | 9 | 
 

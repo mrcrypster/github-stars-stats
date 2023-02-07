@@ -1,10 +1,10 @@
 # Ihtram-Magno/ihtram-magno.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/Ihtram-Magno/ihtram-magno.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 91 | 21 | 
 | 2023-02-05 | 90 | 20 | 
 | 2023-02-04 | 88 | 18 | 
 | 2023-02-03 | 87 | 17 | 

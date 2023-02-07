@@ -1,10 +1,10 @@
 # vinceliuice/Jasper-gtk-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 156
+★ Stars: 158
 
 [Open repository](https://github.com/vinceliuice/Jasper-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 158 | 4 | 
 | 2023-02-05 | 156 | 4 | 
 | 2023-02-04 | 156 | 4 | 
 | 2023-02-03 | 157 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 149 | 4 | 
 | 2023-01-10 | 149 | 4 | 
 | 2023-01-09 | 149 | 4 | 
-| 2023-01-08 | 149 | 4 | 
 

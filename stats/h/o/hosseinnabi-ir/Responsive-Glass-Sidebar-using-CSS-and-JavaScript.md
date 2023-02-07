@@ -1,6 +1,6 @@
 # hosseinnabi-ir/Responsive-Glass-Sidebar-using-CSS-and-JavaScript - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 60 | 37 | 
 | 2023-02-05 | 60 | 37 | 
 | 2023-02-04 | 60 | 37 | 
 | 2023-02-02 | 60 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 58 | 38 | 
 | 2023-01-09 | 58 | 38 | 
 | 2023-01-08 | 58 | 38 | 
-| 2023-01-07 | 58 | 38 | 
 

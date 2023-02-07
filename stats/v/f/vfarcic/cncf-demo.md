@@ -1,10 +1,10 @@
 # vfarcic/cncf-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 11
+☋ Forks: 10
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/vfarcic/cncf-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 24 | 10 | 
 | 2023-02-05 | 22 | 11 | 
 | 2023-02-04 | 22 | 10 | 
 | 2023-02-03 | 17 | 10 | 

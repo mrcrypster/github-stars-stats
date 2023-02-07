@@ -1,10 +1,10 @@
 # google/WebFundamentals - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 2720
 
-★ Stars: 13694
+★ Stars: 13695
 
 [Open repository](https://github.com/google/WebFundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 13695 | 2720 | 
 | 2023-02-05 | 13694 | 2720 | 
 | 2023-02-04 | 13690 | 2720 | 
 | 2023-02-03 | 13689 | 2720 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 13672 | 2722 | 
 | 2023-01-09 | 13668 | 2722 | 
 | 2023-01-08 | 13666 | 2722 | 
-| 2023-01-07 | 13662 | 2721 | 
 

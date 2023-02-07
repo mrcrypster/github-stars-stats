@@ -1,10 +1,10 @@
 # microsoft/terminal - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 7663
+☋ Forks: 7665
 
-★ Stars: 87426
+★ Stars: 87449
 
 [Open repository](https://github.com/microsoft/terminal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 87449 | 7665 | 
 | 2023-02-05 | 87426 | 7663 | 
 | 2023-02-04 | 87415 | 7663 | 
 | 2023-02-03 | 87405 | 7663 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 87000 | 7637 | 
 | 2023-01-09 | 86976 | 7635 | 
 | 2023-01-08 | 86969 | 7633 | 
-| 2023-01-07 | 86961 | 7631 | 
 

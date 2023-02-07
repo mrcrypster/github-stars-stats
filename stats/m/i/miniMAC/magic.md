@@ -1,6 +1,6 @@
 # miniMAC/magic - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 7916 | 1175 | 
 | 2023-02-05 | 7916 | 1175 | 
 | 2023-02-03 | 7913 | 1174 | 
 | 2023-02-02 | 7914 | 1174 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 7887 | 1175 | 
 | 2023-01-09 | 7886 | 1175 | 
 | 2023-01-08 | 7885 | 1175 | 
-| 2023-01-07 | 7885 | 1175 | 
 

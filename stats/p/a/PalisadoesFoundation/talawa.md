@@ -1,8 +1,8 @@
 # PalisadoesFoundation/talawa - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 252
+☋ Forks: 255
 
 ★ Stars: 167
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 167 | 255 | 
 | 2023-02-05 | 167 | 252 | 
 | 2023-02-04 | 167 | 252 | 
 | 2023-02-03 | 167 | 252 | 

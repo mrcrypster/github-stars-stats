@@ -1,6 +1,6 @@
 # petargyurov/virtual-bookshelf - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 389 | 47 | 
 | 2023-02-05 | 389 | 47 | 
 | 2023-02-04 | 389 | 47 | 
 | 2023-02-03 | 389 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 389 | 47 | 
 | 2023-01-09 | 390 | 47 | 
 | 2023-01-08 | 390 | 46 | 
-| 2023-01-07 | 387 | 46 | 
 

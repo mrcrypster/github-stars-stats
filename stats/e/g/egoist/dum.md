@@ -1,10 +1,10 @@
 # egoist/dum - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 27
 
-★ Stars: 1343
+★ Stars: 1356
 
 [Open repository](https://github.com/egoist/dum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1356 | 27 | 
 | 2023-02-05 | 1343 | 27 | 
 | 2023-02-04 | 1333 | 27 | 
 | 2023-02-03 | 1332 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1307 | 26 | 
 | 2023-01-09 | 1307 | 26 | 
 | 2023-01-08 | 1308 | 26 | 
-| 2023-01-07 | 1308 | 26 | 
 

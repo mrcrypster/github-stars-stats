@@ -1,8 +1,8 @@
 # swkeep/keep-oilwell - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 35
+☋ Forks: 34
 
 ★ Stars: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 71 | 34 | 
 | 2023-02-05 | 71 | 35 | 
 | 2023-02-04 | 71 | 36 | 
 | 2023-02-03 | 70 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 68 | 35 | 
 | 2023-01-09 | 68 | 35 | 
 | 2023-01-08 | 68 | 35 | 
-| 2023-01-07 | 68 | 35 | 
 

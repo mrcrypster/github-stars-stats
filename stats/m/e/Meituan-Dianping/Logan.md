@@ -1,10 +1,10 @@
 # Meituan-Dianping/Logan - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 769
 
-★ Stars: 4762
+★ Stars: 4765
 
 [Open repository](https://github.com/Meituan-Dianping/Logan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4765 | 769 | 
 | 2023-02-05 | 4762 | 769 | 
 | 2023-02-04 | 4762 | 769 | 
 | 2023-02-03 | 4762 | 769 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 4729 | 761 | 
 | 2023-01-09 | 4730 | 761 | 
 | 2023-01-08 | 4729 | 761 | 
-| 2023-01-07 | 4729 | 761 | 
 

@@ -1,10 +1,10 @@
 # ory/hydra - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1323
 
-★ Stars: 13695
+★ Stars: 13698
 
 [Open repository](https://github.com/ory/hydra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 13698 | 1323 | 
 | 2023-02-05 | 13695 | 1323 | 
 | 2023-02-04 | 13695 | 1321 | 
 | 2023-02-03 | 13690 | 1319 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 13606 | 1315 | 
 | 2023-01-10 | 13603 | 1315 | 
 | 2023-01-09 | 13600 | 1315 | 
-| 2023-01-08 | 13597 | 1315 | 
 

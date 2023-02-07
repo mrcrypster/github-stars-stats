@@ -1,6 +1,6 @@
 # nebulatgs/zeppelin-railway - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4 | 20 | 
 | 2023-02-05 | 4 | 20 | 
 | 2023-02-04 | 4 | 20 | 
 | 2023-02-03 | 4 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 4 | 20 | 
 | 2023-01-10 | 4 | 20 | 
 | 2023-01-08 | 4 | 20 | 
-| 2023-01-07 | 4 | 21 | 
 

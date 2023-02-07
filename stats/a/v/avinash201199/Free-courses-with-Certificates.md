@@ -1,6 +1,6 @@
 # avinash201199/Free-courses-with-Certificates - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 163 | 156 | 
 | 2023-02-05 | 163 | 156 | 
 | 2023-02-04 | 163 | 157 | 
 | 2023-02-03 | 162 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 162 | 155 | 
 | 2023-01-09 | 162 | 155 | 
 | 2023-01-08 | 162 | 155 | 
-| 2023-01-07 | 162 | 155 | 
 

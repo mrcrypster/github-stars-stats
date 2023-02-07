@@ -1,6 +1,6 @@
 # jackluson/fund-morning-star-crawler - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 262 | 150 | 
 | 2023-02-05 | 262 | 150 | 
 | 2023-02-04 | 261 | 150 | 
 | 2023-02-03 | 260 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 259 | 152 | 
 | 2023-01-09 | 259 | 152 | 
 | 2023-01-08 | 259 | 152 | 
-| 2023-01-07 | 259 | 152 | 
 

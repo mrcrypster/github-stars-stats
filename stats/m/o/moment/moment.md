@@ -1,10 +1,10 @@
 # moment/moment - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 7121
+☋ Forks: 7118
 
-★ Stars: 47200
+★ Stars: 47201
 
 [Open repository](https://github.com/moment/moment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 47201 | 7118 | 
 | 2023-02-05 | 47200 | 7121 | 
 | 2023-02-04 | 47196 | 7121 | 
 | 2023-02-03 | 47193 | 7120 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 47161 | 7116 | 
 | 2023-01-09 | 47156 | 7116 | 
 | 2023-01-08 | 47152 | 7117 | 
-| 2023-01-07 | 47152 | 7116 | 
 

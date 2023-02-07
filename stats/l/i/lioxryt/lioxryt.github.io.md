@@ -1,10 +1,10 @@
 # lioxryt/lioxryt.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 82
+☋ Forks: 84
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/lioxryt/lioxryt.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 24 | 84 | 
 | 2023-02-05 | 23 | 82 | 
 | 2023-02-04 | 23 | 81 | 
 

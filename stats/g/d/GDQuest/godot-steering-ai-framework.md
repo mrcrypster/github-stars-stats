@@ -1,6 +1,6 @@
 # GDQuest/godot-steering-ai-framework - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 763 | 65 | 
 | 2023-02-05 | 763 | 65 | 
 | 2023-02-04 | 763 | 65 | 
 | 2023-02-03 | 763 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 752 | 64 | 
 | 2023-01-10 | 750 | 64 | 
 | 2023-01-09 | 748 | 63 | 
-| 2023-01-07 | 748 | 64 | 
 

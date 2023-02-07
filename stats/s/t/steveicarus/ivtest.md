@@ -1,6 +1,6 @@
 # steveicarus/ivtest - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 113 | 50 | 
 | 2023-02-05 | 113 | 50 | 
 | 2023-02-03 | 113 | 50 | 
 | 2023-02-02 | 113 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 112 | 49 | 
 | 2023-01-09 | 112 | 49 | 
 | 2023-01-08 | 112 | 49 | 
-| 2023-01-07 | 112 | 49 | 
 

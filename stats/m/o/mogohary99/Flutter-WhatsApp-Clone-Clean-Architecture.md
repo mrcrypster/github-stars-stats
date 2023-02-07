@@ -1,10 +1,10 @@
 # mogohary99/Flutter-WhatsApp-Clone-Clean-Architecture - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 34
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/mogohary99/Flutter-WhatsApp-Clone-Clean-Architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 118 | 34 | 
 | 2023-02-05 | 117 | 34 | 
 | 2023-02-04 | 116 | 34 | 
 | 2023-02-03 | 116 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 105 | 30 | 
 | 2023-01-09 | 105 | 30 | 
 | 2023-01-08 | 104 | 30 | 
-| 2023-01-07 | 101 | 29 | 
 

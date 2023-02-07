@@ -1,10 +1,10 @@
 # Mojang/bedrock-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 206
+★ Stars: 208
 
 [Open repository](https://github.com/Mojang/bedrock-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 208 | 41 | 
 | 2023-02-05 | 206 | 40 | 
 | 2023-02-04 | 206 | 40 | 
 | 2023-02-03 | 205 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 183 | 36 | 
 | 2023-01-09 | 179 | 35 | 
 | 2023-01-08 | 177 | 35 | 
-| 2023-01-07 | 177 | 35 | 
 

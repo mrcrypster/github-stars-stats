@@ -1,10 +1,10 @@
 # arainko/ducktape - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 200
+★ Stars: 203
 
 [Open repository](https://github.com/arainko/ducktape)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 203 | 4 | 
 | 2023-02-05 | 200 | 4 | 
 | 2023-02-04 | 200 | 4 | 
 | 2023-02-03 | 199 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 191 | 4 | 
 | 2023-01-09 | 191 | 4 | 
 | 2023-01-08 | 190 | 4 | 
-| 2023-01-07 | 190 | 4 | 
 

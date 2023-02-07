@@ -1,10 +1,10 @@
 # Rdmo1/Rdmo1-Multi-Tool - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 84
 
-★ Stars: 122
+★ Stars: 124
 
 [Open repository](https://github.com/Rdmo1/Rdmo1-Multi-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 124 | 84 | 
 | 2023-02-05 | 122 | 84 | 
 | 2023-02-04 | 122 | 83 | 
 | 2023-02-03 | 119 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 103 | 78 | 
 | 2023-01-09 | 101 | 78 | 
 | 2023-01-08 | 101 | 78 | 
-| 2023-01-07 | 100 | 77 | 
 

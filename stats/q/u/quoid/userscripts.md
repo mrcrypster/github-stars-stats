@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 76
 
-★ Stars: 1681
+★ Stars: 1682
 
 [Open repository](https://github.com/quoid/userscripts)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 1681 | 76 | 
+| 2023-02-06 | 1682 | 76 | 
 | 2023-02-05 | 1680 | 76 | 
 | 2023-02-04 | 1677 | 76 | 
 | 2023-02-03 | 1673 | 76 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 1602 | 72 | 
 | 2023-01-09 | 1600 | 72 | 
 | 2023-01-08 | 1601 | 72 | 
-| 2023-01-07 | 1600 | 72 | 
 

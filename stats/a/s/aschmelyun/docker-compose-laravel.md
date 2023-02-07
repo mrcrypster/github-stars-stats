@@ -1,10 +1,10 @@
 # aschmelyun/docker-compose-laravel - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1041
 
-★ Stars: 2211
+★ Stars: 2212
 
 [Open repository](https://github.com/aschmelyun/docker-compose-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2212 | 1041 | 
 | 2023-02-05 | 2211 | 1041 | 
 | 2023-02-04 | 2211 | 1042 | 
 | 2023-02-03 | 2210 | 1039 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2185 | 1032 | 
 | 2023-01-09 | 2185 | 1032 | 
 | 2023-01-08 | 2184 | 1032 | 
-| 2023-01-07 | 2183 | 1028 | 
 

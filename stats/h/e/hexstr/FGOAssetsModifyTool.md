@@ -1,6 +1,6 @@
 # hexstr/FGOAssetsModifyTool - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 385 | 55 | 
 | 2023-02-05 | 385 | 55 | 
 | 2023-02-04 | 385 | 55 | 
 | 2023-02-03 | 385 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 378 | 55 | 
 | 2023-01-09 | 378 | 55 | 
 | 2023-01-08 | 377 | 55 | 
-| 2023-01-07 | 377 | 55 | 
 

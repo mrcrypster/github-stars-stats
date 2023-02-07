@@ -1,10 +1,10 @@
 # emmabostian/developer-portfolios - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
-☋ Forks: 1023
+☋ Forks: 1025
 
-★ Stars: 4309
+★ Stars: 4311
 
 [Open repository](https://github.com/emmabostian/developer-portfolios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4311 | 1025 | 
 | 2023-02-05 | 4309 | 1023 | 
 | 2023-02-04 | 4303 | 1021 | 
 | 2023-02-03 | 4300 | 1022 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 4195 | 999 | 
 | 2023-01-09 | 4193 | 998 | 
 | 2023-01-08 | 4192 | 997 | 
-| 2023-01-07 | 4187 | 997 | 
 

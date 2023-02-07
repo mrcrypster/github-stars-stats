@@ -1,8 +1,8 @@
 # linuxserver/docker-mastodon - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 11
+☋ Forks: 10
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 43 | 10 | 
 | 2023-02-06 | 43 | 11 | 
 | 2023-02-04 | 41 | 10 | 
 | 2023-02-03 | 41 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 37 | 9 | 
 | 2023-01-09 | 37 | 9 | 
 | 2023-01-08 | 36 | 8 | 
-| 2023-01-07 | 36 | 8 | 
 

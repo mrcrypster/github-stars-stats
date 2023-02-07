@@ -1,8 +1,8 @@
 # metaplex-foundation/sugar - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 156
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 156 | 92 | 
 | 2023-02-05 | 156 | 91 | 
 | 2023-02-04 | 156 | 90 | 
 | 2023-02-03 | 156 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 155 | 91 | 
 | 2023-01-09 | 154 | 91 | 
 | 2023-01-08 | 153 | 91 | 
-| 2023-01-07 | 153 | 91 | 
 

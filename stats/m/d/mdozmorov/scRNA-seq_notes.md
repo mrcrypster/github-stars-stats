@@ -1,6 +1,6 @@
 # mdozmorov/scRNA-seq_notes - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 361 | 101 | 
 | 2023-02-05 | 361 | 101 | 
 | 2023-02-04 | 361 | 101 | 
 | 2023-02-03 | 361 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 359 | 100 | 
 | 2023-01-10 | 359 | 100 | 
 | 2023-01-08 | 358 | 99 | 
-| 2023-01-07 | 358 | 99 | 
 

@@ -1,10 +1,10 @@
 # hashicorp/consul-k8s - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 255
 
-★ Stars: 579
+★ Stars: 580
 
 [Open repository](https://github.com/hashicorp/consul-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 580 | 255 | 
 | 2023-02-05 | 579 | 255 | 
 | 2023-02-04 | 579 | 255 | 
 | 2023-02-03 | 579 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 576 | 251 | 
 | 2023-01-09 | 576 | 250 | 
 | 2023-01-08 | 576 | 250 | 
-| 2023-01-07 | 576 | 250 | 
 

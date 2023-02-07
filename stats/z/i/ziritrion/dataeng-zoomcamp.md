@@ -1,10 +1,10 @@
 # ziritrion/dataeng-zoomcamp - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 124
+☋ Forks: 128
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/ziritrion/dataeng-zoomcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 196 | 128 | 
 | 2023-02-06 | 195 | 124 | 
 | 2023-02-04 | 194 | 122 | 
 | 2023-02-03 | 192 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 161 | 96 | 
 | 2023-01-09 | 161 | 95 | 
 | 2023-01-08 | 161 | 95 | 
-| 2023-01-07 | 161 | 95 | 
 

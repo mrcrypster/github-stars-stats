@@ -1,10 +1,10 @@
 # camunda/camunda-bpm-platform - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 1282
+☋ Forks: 1284
 
-★ Stars: 3092
+★ Stars: 3096
 
 [Open repository](https://github.com/camunda/camunda-bpm-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3096 | 1284 | 
 | 2023-02-05 | 3092 | 1282 | 
 | 2023-02-04 | 3091 | 1281 | 
 | 2023-02-03 | 3090 | 1281 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 3051 | 1267 | 
 | 2023-01-09 | 3051 | 1267 | 
 | 2023-01-08 | 3052 | 1266 | 
-| 2023-01-07 | 3052 | 1266 | 
 

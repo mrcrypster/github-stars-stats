@@ -1,8 +1,8 @@
 # pointfreeco/standups - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 65 | 15 | 
 | 2023-02-05 | 65 | 14 | 
 | 2023-02-04 | 65 | 14 | 
 | 2023-02-03 | 65 | 14 | 

@@ -1,6 +1,6 @@
 # ruesandora/sei-atlantic-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 243
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 101 | 243 | 
 | 2023-02-05 | 101 | 243 | 
 | 2023-02-04 | 101 | 243 | 
 | 2023-02-03 | 101 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 99 | 238 | 
 | 2023-01-09 | 99 | 238 | 
 | 2023-01-08 | 99 | 238 | 
-| 2023-01-07 | 99 | 238 | 
 

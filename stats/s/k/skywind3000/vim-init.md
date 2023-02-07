@@ -1,6 +1,6 @@
 # skywind3000/vim-init - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 373
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 814 | 373 | 
 | 2023-02-05 | 814 | 373 | 
 | 2023-02-04 | 814 | 373 | 
 | 2023-02-03 | 814 | 373 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 812 | 372 | 
 | 2023-01-09 | 812 | 372 | 
 | 2023-01-08 | 812 | 372 | 
-| 2023-01-07 | 810 | 372 | 
 

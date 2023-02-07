@@ -1,10 +1,10 @@
 # vantage-sh/ec2instances.info - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 549
+☋ Forks: 550
 
-★ Stars: 4192
+★ Stars: 4194
 
 [Open repository](https://github.com/vantage-sh/ec2instances.info)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4194 | 550 | 
 | 2023-02-05 | 4192 | 549 | 
 | 2023-02-04 | 4192 | 549 | 
 | 2023-02-03 | 4191 | 549 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 4144 | 546 | 
 | 2023-01-09 | 4141 | 546 | 
 | 2023-01-08 | 4138 | 546 | 
-| 2023-01-07 | 4134 | 546 | 
 

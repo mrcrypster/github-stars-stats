@@ -1,6 +1,6 @@
 # TILOS-AI-Institute/MacroPlacement - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 76 | 13 | 
 | 2023-02-05 | 76 | 13 | 
 | 2023-02-04 | 76 | 13 | 
 | 2023-02-02 | 76 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 68 | 11 | 
 | 2023-01-10 | 68 | 11 | 
 | 2023-01-08 | 68 | 11 | 
-| 2023-01-07 | 68 | 11 | 
 

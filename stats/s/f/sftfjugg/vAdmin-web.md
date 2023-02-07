@@ -1,6 +1,6 @@
 # sftfjugg/vAdmin-web - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 22 | 4 | 
 | 2023-02-05 | 22 | 4 | 
 | 2023-02-04 | 22 | 4 | 
 | 2023-02-03 | 22 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 22 | 4 | 
 | 2023-01-09 | 22 | 4 | 
 | 2023-01-08 | 22 | 4 | 
-| 2023-01-07 | 22 | 4 | 
 

@@ -1,10 +1,10 @@
 # lambda-client/lambda - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 136
 
-★ Stars: 436
+★ Stars: 435
 
 [Open repository](https://github.com/lambda-client/lambda)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 435 | 136 | 
 | 2023-02-05 | 436 | 136 | 
 | 2023-02-04 | 435 | 135 | 
 | 2023-02-03 | 434 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 413 | 134 | 
 | 2023-01-09 | 413 | 134 | 
 | 2023-01-08 | 413 | 134 | 
-| 2023-01-07 | 412 | 134 | 
 

@@ -1,6 +1,6 @@
 # skelly37/nupac - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 17 | - | 
 | 2023-02-05 | 17 | - | 
 | 2023-02-04 | 17 | - | 
 | 2023-02-02 | 17 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 18 | - | 
 | 2023-01-09 | 18 | - | 
 | 2023-01-08 | 18 | - | 
-| 2023-01-07 | 18 | - | 
 

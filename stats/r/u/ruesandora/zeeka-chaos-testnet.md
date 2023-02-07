@@ -1,6 +1,6 @@
 # ruesandora/zeeka-chaos-testnet - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 85 | 167 | 
 | 2023-02-05 | 85 | 167 | 
 | 2023-02-03 | 85 | 167 | 
 | 2023-02-02 | 85 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 85 | 169 | 
 | 2023-01-09 | 85 | 169 | 
 | 2023-01-08 | 85 | 169 | 
-| 2023-01-07 | 85 | 169 | 
 

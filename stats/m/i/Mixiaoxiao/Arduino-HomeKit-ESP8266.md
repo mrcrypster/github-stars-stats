@@ -1,10 +1,10 @@
 # Mixiaoxiao/Arduino-HomeKit-ESP8266 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 243
 
-★ Stars: 1200
+★ Stars: 1199
 
 [Open repository](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1199 | 243 | 
 | 2023-02-05 | 1200 | 243 | 
 | 2023-02-04 | 1198 | 243 | 
 | 2023-02-03 | 1195 | 242 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1174 | 237 | 
 | 2023-01-09 | 1173 | 235 | 
 | 2023-01-08 | 1170 | 235 | 
-| 2023-01-07 | 1169 | 235 | 
 

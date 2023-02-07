@@ -1,10 +1,10 @@
 # xiaop1/Verilog-Practice - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 133
 
-★ Stars: 414
+★ Stars: 415
 
 [Open repository](https://github.com/xiaop1/Verilog-Practice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 415 | 133 | 
 | 2023-02-05 | 414 | 133 | 
 | 2023-02-04 | 414 | 133 | 
 | 2023-02-03 | 413 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 405 | 132 | 
 | 2023-01-09 | 405 | 132 | 
 | 2023-01-08 | 404 | 132 | 
-| 2023-01-07 | 404 | 132 | 
 

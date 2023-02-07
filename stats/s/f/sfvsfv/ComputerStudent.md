@@ -1,10 +1,10 @@
 # sfvsfv/ComputerStudent - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 247
+☋ Forks: 248
 
-★ Stars: 572
+★ Stars: 573
 
 [Open repository](https://github.com/sfvsfv/ComputerStudent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 573 | 248 | 
 | 2023-02-05 | 572 | 247 | 
 | 2023-02-04 | 568 | 247 | 
 | 2023-02-03 | 568 | 246 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 557 | 247 | 
 | 2023-01-09 | 557 | 247 | 
 | 2023-01-08 | 557 | 247 | 
-| 2023-01-07 | 556 | 247 | 
 

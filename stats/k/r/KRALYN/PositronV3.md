@@ -1,10 +1,10 @@
 # KRALYN/PositronV3 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 1646
+★ Stars: 1648
 
 [Open repository](https://github.com/KRALYN/PositronV3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1648 | 187 | 
 | 2023-02-05 | 1646 | 186 | 
 | 2023-02-04 | 1645 | 185 | 
 | 2023-02-03 | 1643 | 183 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1524 | 169 | 
 | 2023-01-10 | 1514 | 168 | 
 | 2023-01-09 | 1506 | 168 | 
-| 2023-01-08 | 1500 | 168 | 
 

@@ -1,10 +1,10 @@
 # hazelgrove/hazel - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 40
 
-★ Stars: 549
+★ Stars: 550
 
 [Open repository](https://github.com/hazelgrove/hazel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 550 | 40 | 
 | 2023-02-05 | 549 | 40 | 
 | 2023-02-04 | 548 | 40 | 
 | 2023-02-03 | 548 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 541 | 37 | 
 | 2023-01-09 | 541 | 37 | 
 | 2023-01-08 | 541 | 37 | 
-| 2023-01-07 | 541 | 37 | 
 

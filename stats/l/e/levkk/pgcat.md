@@ -1,6 +1,6 @@
 # levkk/pgcat - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1211 | 36 | 
 | 2023-02-05 | 1211 | 36 | 
 | 2023-02-04 | 1212 | 36 | 
 | 2023-02-03 | 1212 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1186 | 34 | 
 | 2023-01-09 | 1186 | 34 | 
 | 2023-01-08 | 1186 | 34 | 
-| 2023-01-07 | 1185 | 34 | 
 

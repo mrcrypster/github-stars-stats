@@ -1,6 +1,6 @@
 # ldc-developers/dmd-testsuite - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 3 | 18 | 
 | 2023-02-05 | 3 | 18 | 
 | 2023-02-04 | 3 | 18 | 
 | 2023-02-03 | 3 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 3 | 18 | 
 | 2023-01-09 | 3 | 18 | 
 | 2023-01-08 | 3 | 18 | 
-| 2023-01-07 | 3 | 18 | 
 

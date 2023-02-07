@@ -1,10 +1,10 @@
 # dino/dino - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 216
 
-★ Stars: 1942
+★ Stars: 1944
 
 [Open repository](https://github.com/dino/dino)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1944 | 216 | 
 | 2023-02-05 | 1942 | 216 | 
 | 2023-02-04 | 1943 | 216 | 
 | 2023-02-03 | 1942 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1926 | 215 | 
 | 2023-01-09 | 1926 | 215 | 
 | 2023-01-08 | 1926 | 214 | 
-| 2023-01-07 | 1924 | 214 | 
 

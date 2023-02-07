@@ -1,10 +1,10 @@
 # brucefan1983/CUDA-Programming - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 197
 
-★ Stars: 762
+★ Stars: 764
 
 [Open repository](https://github.com/brucefan1983/CUDA-Programming)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 764 | 197 | 
+| 2023-02-06 | 764 | 197 | 
 | 2023-02-05 | 762 | 197 | 
 | 2023-02-04 | 760 | 197 | 
 | 2023-02-03 | 743 | 194 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 734 | 191 | 
 | 2023-01-10 | 733 | 190 | 
 | 2023-01-09 | 732 | 190 | 
-| 2023-01-08 | 732 | 190 | 
 

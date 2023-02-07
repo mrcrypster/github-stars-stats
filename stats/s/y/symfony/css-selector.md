@@ -1,6 +1,6 @@
 # symfony/css-selector - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 7201 | 42 | 
 | 2023-02-05 | 7201 | 42 | 
 | 2023-02-04 | 7201 | 42 | 
 | 2023-02-03 | 7199 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 7175 | 42 | 
 | 2023-01-09 | 7172 | 42 | 
 | 2023-01-08 | 7171 | 42 | 
-| 2023-01-07 | 7171 | 42 | 
 

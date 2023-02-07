@@ -1,10 +1,10 @@
 # aws-samples/aws-serverless-airline-booking - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 1098
+☋ Forks: 1100
 
-★ Stars: 1908
+★ Stars: 1909
 
 [Open repository](https://github.com/aws-samples/aws-serverless-airline-booking)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1909 | 1100 | 
 | 2023-02-05 | 1908 | 1098 | 
 | 2023-02-04 | 1908 | 1098 | 
 | 2023-02-03 | 1908 | 1099 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1893 | 1084 | 
 | 2023-01-10 | 1893 | 1083 | 
 | 2023-01-09 | 1891 | 1081 | 
-| 2023-01-08 | 1891 | 1080 | 
 

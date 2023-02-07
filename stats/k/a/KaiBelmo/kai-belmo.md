@@ -1,10 +1,10 @@
 # KaiBelmo/kai-belmo - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/KaiBelmo/kai-belmo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 23 | - | 
 | 2023-02-05 | 22 | - | 
 | 2023-02-04 | 22 | - | 
 | 2023-02-03 | 22 | - | 

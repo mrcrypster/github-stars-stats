@@ -1,10 +1,10 @@
 # JuliaPoo/Artfuscator - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 37
 
-★ Stars: 756
+★ Stars: 755
 
 [Open repository](https://github.com/JuliaPoo/Artfuscator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 755 | 37 | 
 | 2023-02-05 | 756 | 37 | 
 | 2023-02-04 | 756 | 37 | 
 | 2023-02-03 | 755 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 751 | 37 | 
 | 2023-01-09 | 751 | 37 | 
 | 2023-01-08 | 749 | 37 | 
-| 2023-01-07 | 748 | 37 | 
 

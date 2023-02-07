@@ -1,10 +1,10 @@
 # balena-os/balena-raspberrypi - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 57
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/balena-os/balena-raspberrypi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 174 | 57 | 
 | 2023-02-05 | 173 | 57 | 
 | 2023-02-04 | 172 | 57 | 
 | 2023-02-03 | 172 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 170 | 56 | 
 | 2023-01-09 | 170 | 56 | 
 | 2023-01-08 | 170 | 56 | 
-| 2023-01-07 | 170 | 56 | 
 

@@ -1,10 +1,10 @@
 # indygreg/PyOxidizer - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 195
 
-★ Stars: 4505
+★ Stars: 4506
 
 [Open repository](https://github.com/indygreg/PyOxidizer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4506 | 195 | 
 | 2023-02-05 | 4505 | 195 | 
 | 2023-02-04 | 4504 | 195 | 
 | 2023-02-03 | 4500 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 4465 | 192 | 
 | 2023-01-09 | 4462 | 192 | 
 | 2023-01-08 | 4462 | 192 | 
-| 2023-01-07 | 4458 | 192 | 
 

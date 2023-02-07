@@ -1,6 +1,6 @@
 # distributethe6ix/70DaysOfServiceMesh - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 171 | 26 | 
 | 2023-02-05 | 171 | 26 | 
 | 2023-02-04 | 170 | 26 | 
 | 2023-02-03 | 169 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 98 | 15 | 
 | 2023-01-09 | 95 | 15 | 
 | 2023-01-08 | 92 | 13 | 
-| 2023-01-07 | 91 | 13 | 
 

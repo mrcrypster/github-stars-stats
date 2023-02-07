@@ -1,6 +1,6 @@
 # learn-co-curriculum/react-hooks-intro-to-npm-readme - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2 | 241 | 
 | 2023-02-05 | 2 | 241 | 
 | 2023-02-04 | 2 | 241 | 
 | 2023-02-03 | 2 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2 | 220 | 
 | 2023-01-09 | 2 | 217 | 
 | 2023-01-08 | 2 | 215 | 
-| 2023-01-07 | 2 | 211 | 
 

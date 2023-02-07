@@ -1,10 +1,10 @@
 # noraj/OSCP-Exam-Report-Template-Markdown - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 639
 
-★ Stars: 2717
+★ Stars: 2718
 
 [Open repository](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2718 | 639 | 
 | 2023-02-05 | 2717 | 639 | 
 | 2023-02-04 | 2714 | 639 | 
 | 2023-02-03 | 2714 | 639 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 2681 | 636 | 
 | 2023-01-10 | 2674 | 636 | 
 | 2023-01-09 | 2672 | 634 | 
-| 2023-01-07 | 2671 | 633 | 
 

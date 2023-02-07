@@ -1,10 +1,10 @@
 # ultralytics/yolov5 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 12699
+☋ Forks: 12712
 
-★ Stars: 35011
+★ Stars: 35045
 
 [Open repository](https://github.com/ultralytics/yolov5)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 35045 | 12712 | 
 | 2023-02-05 | 35011 | 12699 | 
 | 2023-02-04 | 35004 | 12697 | 
 | 2023-02-03 | 34953 | 12672 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 34394 | 12477 | 
 | 2023-01-09 | 34289 | 12458 | 
 | 2023-01-08 | 34261 | 12446 | 
-| 2023-01-07 | 34238 | 12443 | 
 

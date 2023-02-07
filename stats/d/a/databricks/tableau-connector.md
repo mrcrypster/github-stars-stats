@@ -1,6 +1,6 @@
 # databricks/tableau-connector - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 11 | 14 | 
 | 2023-02-05 | 11 | 14 | 
 | 2023-02-04 | 11 | 14 | 
 | 2023-02-02 | 11 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 12 | 14 | 
 | 2023-01-09 | 12 | 14 | 
 | 2023-01-08 | 12 | 14 | 
-| 2023-01-07 | 12 | 14 | 
 

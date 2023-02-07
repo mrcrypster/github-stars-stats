@@ -1,10 +1,10 @@
 # helblazer811/ManimML - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 65
+☋ Forks: 67
 
-★ Stars: 1099
+★ Stars: 1117
 
 [Open repository](https://github.com/helblazer811/ManimML)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1117 | 67 | 
 | 2023-02-05 | 1099 | 65 | 
 | 2023-02-04 | 1081 | 65 | 
 | 2023-02-03 | 1067 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 509 | 37 | 
 | 2023-01-09 | 459 | 33 | 
 | 2023-01-08 | 452 | 34 | 
-| 2023-01-07 | 429 | 34 | 
 

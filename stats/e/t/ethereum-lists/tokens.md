@@ -1,10 +1,10 @@
 # ethereum-lists/tokens - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 512
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/ethereum-lists/tokens)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 374 | 512 | 
 | 2023-02-05 | 373 | 512 | 
 | 2023-02-04 | 373 | 512 | 
 | 2023-02-03 | 373 | 512 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 368 | 512 | 
 | 2023-01-10 | 369 | 512 | 
 | 2023-01-09 | 369 | 512 | 
-| 2023-01-08 | 369 | 513 | 
 

@@ -1,6 +1,6 @@
 # ant-design/ant-design-mini - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 220 | 51 | 
 | 2023-02-05 | 220 | 51 | 
 | 2023-02-04 | 220 | 51 | 
 | 2023-02-02 | 219 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 213 | 50 | 
 | 2023-01-09 | 212 | 50 | 
 | 2023-01-08 | 212 | 50 | 
-| 2023-01-07 | 212 | 50 | 
 

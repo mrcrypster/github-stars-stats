@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 55
 
-★ Stars: 329
+★ Stars: 330
 
 [Open repository](https://github.com/Shra1V32/TataSky-Playlist-AutoUpdater)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 329 | 55 | 
+| 2023-02-06 | 330 | 55 | 
 | 2023-02-05 | 329 | 55 | 
 | 2023-02-04 | 327 | 52 | 
 

@@ -1,10 +1,10 @@
 # confluentinc/kafka-connect-storage-cloud - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 294
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/confluentinc/kafka-connect-storage-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 231 | 294 | 
 | 2023-02-05 | 230 | 294 | 
 | 2023-02-04 | 230 | 294 | 
 | 2023-02-03 | 229 | 293 | 

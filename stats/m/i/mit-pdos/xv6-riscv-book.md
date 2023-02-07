@@ -1,6 +1,6 @@
 # mit-pdos/xv6-riscv-book - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 396 | 92 | 
 | 2023-02-05 | 396 | 92 | 
 | 2023-02-04 | 395 | 92 | 
 | 2023-02-03 | 395 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 389 | 93 | 
 | 2023-01-10 | 389 | 93 | 
 | 2023-01-09 | 389 | 93 | 
-| 2023-01-08 | 389 | 93 | 
 

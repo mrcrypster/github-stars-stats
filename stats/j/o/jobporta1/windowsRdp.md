@@ -1,8 +1,8 @@
 # jobporta1/windowsRdp - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 92
+☋ Forks: 93
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | - | 93 | 
 | 2023-02-05 | - | 92 | 
 | 2023-02-04 | - | 92 | 
 | 2023-02-03 | - | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | - | 83 | 
 | 2023-01-09 | - | 83 | 
 | 2023-01-08 | - | 83 | 
-| 2023-01-07 | - | 83 | 
 

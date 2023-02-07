@@ -1,6 +1,6 @@
 # scottbez1/splitflap - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2527 | 208 | 
 | 2023-02-05 | 2527 | 208 | 
 | 2023-02-04 | 2527 | 208 | 
 | 2023-02-03 | 2527 | 208 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 2500 | 205 | 
 | 2023-01-10 | 2498 | 204 | 
 | 2023-01-09 | 2499 | 204 | 
-| 2023-01-08 | 2499 | 204 | 
 

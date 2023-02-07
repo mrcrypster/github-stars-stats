@@ -1,6 +1,6 @@
 # adeemm/WinAPI-Fun - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 441 | 9 | 
 | 2023-02-05 | 441 | 9 | 
 | 2023-02-04 | 441 | 8 | 
 | 2023-02-03 | 439 | 8 | 

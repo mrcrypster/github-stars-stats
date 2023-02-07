@@ -1,10 +1,10 @@
 # MaterializeInc/materialize - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 392
 
-★ Stars: 4804
+★ Stars: 4810
 
 [Open repository](https://github.com/MaterializeInc/materialize)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 4810 | 392 | 
 | 2023-02-05 | 4804 | 392 | 
 | 2023-02-04 | 4798 | 392 | 
 | 2023-02-03 | 4796 | 392 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 4741 | 383 | 
 | 2023-01-09 | 4737 | 383 | 
 | 2023-01-08 | 4736 | 383 | 
-| 2023-01-07 | 4734 | 383 | 
 

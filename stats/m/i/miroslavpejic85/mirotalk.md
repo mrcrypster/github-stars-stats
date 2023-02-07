@@ -1,10 +1,10 @@
 # miroslavpejic85/mirotalk - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 326
+☋ Forks: 327
 
-★ Stars: 1582
+★ Stars: 1584
 
 [Open repository](https://github.com/miroslavpejic85/mirotalk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1584 | 327 | 
 | 2023-02-05 | 1582 | 326 | 
 | 2023-02-04 | 1581 | 326 | 
 | 2023-02-03 | 1580 | 325 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1517 | 305 | 
 | 2023-01-09 | 1511 | 305 | 
 | 2023-01-08 | 1489 | 301 | 
-| 2023-01-07 | 1472 | 300 | 
 

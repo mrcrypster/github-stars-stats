@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSlim - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1270 | 305 | 
 | 2023-02-05 | 1270 | 305 | 
 | 2023-02-04 | 1270 | 305 | 
 | 2023-02-03 | 1271 | 305 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1261 | 303 | 
 | 2023-01-09 | 1261 | 302 | 
 | 2023-01-08 | 1259 | 301 | 
-| 2023-01-07 | 1259 | 301 | 
 

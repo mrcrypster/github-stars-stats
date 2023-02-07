@@ -1,6 +1,6 @@
 # kwsch/PKHeX - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 535
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2714 | 535 | 
 | 2023-02-05 | 2714 | 535 | 
 | 2023-02-04 | 2712 | 535 | 
 | 2023-02-03 | 2710 | 534 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2635 | 517 | 
 | 2023-01-09 | 2633 | 517 | 
 | 2023-01-08 | 2632 | 515 | 
-| 2023-01-07 | 2630 | 515 | 
 

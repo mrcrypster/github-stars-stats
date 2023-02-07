@@ -1,10 +1,10 @@
 # NaiboWang/EasySpider - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 110
+☋ Forks: 112
 
-★ Stars: 1012
+★ Stars: 1042
 
 [Open repository](https://github.com/NaiboWang/EasySpider)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1042 | 112 | 
 | 2023-02-05 | 1012 | 110 | 
 | 2023-02-04 | 1000 | 98 | 
 

@@ -1,8 +1,8 @@
 # svenfuchs/rails-i18n - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 2816
+☋ Forks: 2817
 
 ★ Stars: 3890
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3890 | 2817 | 
 | 2023-02-05 | 3890 | 2816 | 
 | 2023-02-04 | 3890 | 2816 | 
 | 2023-02-03 | 3890 | 2816 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 3885 | 2810 | 
 | 2023-01-09 | 3884 | 2810 | 
 | 2023-01-08 | 3884 | 2810 | 
-| 2023-01-07 | 3884 | 2810 | 
 

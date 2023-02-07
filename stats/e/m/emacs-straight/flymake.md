@@ -1,6 +1,6 @@
 # emacs-straight/flymake - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2 | 3 | 
+| 2023-02-06 | 2 | 3 | 
 | 2023-02-05 | 2 | 3 | 
 | 2023-02-04 | 2 | 3 | 
 | 2023-02-03 | 2 | 3 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2 | 3 | 
 | 2023-01-09 | 2 | 3 | 
 | 2023-01-08 | 2 | 3 | 
-| 2023-01-07 | 2 | 3 | 
 

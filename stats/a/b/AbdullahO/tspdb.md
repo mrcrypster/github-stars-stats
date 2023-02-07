@@ -1,10 +1,10 @@
 # AbdullahO/tspdb - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 53
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/AbdullahO/tspdb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 171 | 53 | 
 | 2023-02-05 | 170 | 53 | 
 | 2023-02-04 | 170 | 53 | 
 | 2023-02-03 | 170 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 170 | 53 | 
 | 2023-01-09 | 170 | 53 | 
 | 2023-01-08 | 170 | 53 | 
-| 2023-01-07 | 170 | 53 | 
 

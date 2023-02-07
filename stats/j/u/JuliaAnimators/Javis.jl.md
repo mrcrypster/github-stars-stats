@@ -1,6 +1,6 @@
 # JuliaAnimators/Javis.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 753 | 47 | 
 | 2023-02-05 | 753 | 47 | 
 | 2023-02-04 | 753 | 47 | 
 | 2023-02-02 | 752 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 741 | 47 | 
 | 2023-01-09 | 741 | 47 | 
 | 2023-01-08 | 741 | 47 | 
-| 2023-01-07 | 742 | 47 | 
 

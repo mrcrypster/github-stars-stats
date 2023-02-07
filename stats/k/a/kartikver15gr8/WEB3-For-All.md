@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/kartikver15gr8/WEB3-For-All)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 25 | 7 | 
+| 2023-02-06 | 26 | 7 | 
 | 2023-02-05 | 25 | 7 | 
 

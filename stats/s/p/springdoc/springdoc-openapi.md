@@ -1,10 +1,10 @@
 # springdoc/springdoc-openapi - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 358
 
-★ Stars: 2342
+★ Stars: 2343
 
 [Open repository](https://github.com/springdoc/springdoc-openapi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2343 | 358 | 
 | 2023-02-05 | 2342 | 358 | 
 | 2023-02-04 | 2342 | 358 | 
 | 2023-02-03 | 2341 | 358 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2309 | 352 | 
 | 2023-01-09 | 2307 | 352 | 
 | 2023-01-08 | 2306 | 352 | 
-| 2023-01-07 | 2304 | 352 | 
 

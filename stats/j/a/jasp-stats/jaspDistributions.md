@@ -1,6 +1,6 @@
 # jasp-stats/jaspDistributions - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3 | 8 | 
 | 2023-02-05 | 3 | 8 | 
 | 2023-02-04 | 3 | 8 | 
 | 2023-02-03 | 3 | 8 | 

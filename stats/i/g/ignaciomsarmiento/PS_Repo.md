@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 12
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/ignaciomsarmiento/PS_Repo)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | - | 12 | 
+| 2023-02-06 | 1 | 12 | 
 | 2023-02-05 | - | 12 | 
 | 2023-02-04 | - | 10 | 
 | 2023-02-03 | - | 10 | 

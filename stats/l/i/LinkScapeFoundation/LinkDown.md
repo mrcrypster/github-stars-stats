@@ -1,8 +1,8 @@
 # LinkScapeFoundation/LinkDown - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 28 | 2 | 
 | 2023-02-05 | 28 | 1 | 
 | 2023-02-04 | 28 | 1 | 
 | 2023-02-03 | 28 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 24 | - | 
 | 2023-01-09 | 24 | - | 
 | 2023-01-08 | 13 | - | 
-| 2023-01-07 | 13 | - | 
 

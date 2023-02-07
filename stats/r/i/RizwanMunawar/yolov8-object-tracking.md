@@ -1,10 +1,10 @@
 # RizwanMunawar/yolov8-object-tracking - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 13
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/RizwanMunawar/yolov8-object-tracking)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 91 | 13 | 
 | 2023-02-05 | 90 | 13 | 
 | 2023-02-04 | 90 | 13 | 
 | 2023-02-03 | 87 | 12 | 

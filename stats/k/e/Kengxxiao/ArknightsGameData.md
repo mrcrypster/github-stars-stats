@@ -1,10 +1,10 @@
 # Kengxxiao/ArknightsGameData - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 215
+☋ Forks: 216
 
-★ Stars: 970
+★ Stars: 972
 
 [Open repository](https://github.com/Kengxxiao/ArknightsGameData)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 972 | 216 | 
 | 2023-02-05 | 970 | 215 | 
 | 2023-02-04 | 968 | 213 | 
 | 2023-02-03 | 967 | 212 | 

@@ -1,8 +1,8 @@
 # cashapp/pranadb - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 608
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 608 | 21 | 
 | 2023-02-05 | 608 | 20 | 
 | 2023-02-04 | 608 | 20 | 
 | 2023-02-03 | 608 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 605 | 20 | 
 | 2023-01-09 | 605 | 20 | 
 | 2023-01-08 | 605 | 20 | 
-| 2023-01-07 | 605 | 20 | 
 

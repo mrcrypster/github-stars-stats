@@ -1,6 +1,6 @@
 # michaeltyson/TPKeyboardAvoiding - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 945
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 5810 | 945 | 
 | 2023-02-05 | 5810 | 945 | 
 | 2023-02-04 | 5810 | 945 | 
 | 2023-02-02 | 5810 | 945 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 5807 | 945 | 
 | 2023-01-09 | 5807 | 945 | 
 | 2023-01-08 | 5807 | 945 | 
-| 2023-01-07 | 5807 | 946 | 
 

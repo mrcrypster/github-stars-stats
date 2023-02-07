@@ -1,10 +1,10 @@
 # reorx/sui2 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 41
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/reorx/sui2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 370 | 41 | 
 | 2023-02-05 | 369 | 41 | 
 | 2023-02-04 | 369 | 41 | 
 | 2023-02-03 | 369 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 367 | 41 | 
 | 2023-01-09 | 367 | 41 | 
 | 2023-01-08 | 366 | 41 | 
-| 2023-01-07 | 365 | 41 | 
 

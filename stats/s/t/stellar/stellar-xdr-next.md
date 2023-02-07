@@ -1,10 +1,10 @@
 # stellar/stellar-xdr-next - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 9
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/stellar/stellar-xdr-next)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 8 | 9 | 
 | 2023-02-05 | 7 | 9 | 
 | 2023-02-04 | 6 | 9 | 
 | 2023-02-03 | 6 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 6 | 9 | 
 | 2023-01-09 | 6 | 9 | 
 | 2023-01-08 | 6 | 9 | 
-| 2023-01-07 | 6 | 9 | 
 

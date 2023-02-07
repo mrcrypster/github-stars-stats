@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 140
 
-★ Stars: 1258
+★ Stars: 1259
 
 [Open repository](https://github.com/XITRIX/iTorrent)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 1258 | 140 | 
+| 2023-02-06 | 1259 | 140 | 
 | 2023-02-05 | 1258 | 140 | 
 | 2023-02-04 | 1256 | 140 | 
 | 2023-02-03 | 1252 | 140 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 1215 | 137 | 
 | 2023-01-09 | 1214 | 137 | 
 | 2023-01-08 | 1212 | 137 | 
-| 2023-01-07 | 1207 | 137 | 
 

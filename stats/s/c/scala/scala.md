@@ -1,8 +1,8 @@
 # scala/scala - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 3160
+☋ Forks: 3162
 
 ★ Stars: 14007
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 14007 | 3162 | 
 | 2023-02-05 | 14007 | 3160 | 
 | 2023-02-04 | 14006 | 3160 | 
 | 2023-02-03 | 14006 | 3160 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 13976 | 3161 | 
 | 2023-01-09 | 13974 | 3161 | 
 | 2023-01-08 | 13972 | 3162 | 
-| 2023-01-07 | 13970 | 3161 | 
 

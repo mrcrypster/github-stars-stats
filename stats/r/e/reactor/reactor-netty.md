@@ -1,10 +1,10 @@
 # reactor/reactor-netty - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 584
+☋ Forks: 583
 
-★ Stars: 2191
+★ Stars: 2192
 
 [Open repository](https://github.com/reactor/reactor-netty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2192 | 583 | 
 | 2023-02-05 | 2191 | 584 | 
 | 2023-02-04 | 2191 | 584 | 
 | 2023-02-03 | 2187 | 583 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2164 | 578 | 
 | 2023-01-09 | 2162 | 578 | 
 | 2023-01-08 | 2162 | 578 | 
-| 2023-01-07 | 2161 | 578 | 
 

@@ -1,6 +1,6 @@
 # takanaweb5/EasyLout - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 12 | 1 | 
 | 2023-02-05 | 12 | 1 | 
 | 2023-02-04 | 12 | 1 | 
 | 2023-02-03 | 12 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 12 | 1 | 
 | 2023-01-09 | 12 | 1 | 
 | 2023-01-08 | 12 | 1 | 
-| 2023-01-07 | 12 | 1 | 
 

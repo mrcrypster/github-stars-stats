@@ -1,6 +1,6 @@
 # ebarlas/project-loom-c5m - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 324 | 9 | 
 | 2023-02-05 | 324 | 9 | 
 | 2023-02-04 | 324 | 9 | 
 | 2023-02-03 | 324 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 322 | 9 | 
 | 2023-01-09 | 322 | 9 | 
 | 2023-01-08 | 321 | 9 | 
-| 2023-01-07 | 321 | 9 | 
 

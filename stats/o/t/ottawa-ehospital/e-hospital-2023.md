@@ -1,8 +1,8 @@
 # ottawa-ehospital/e-hospital-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 36
+☋ Forks: 38
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1 | 38 | 
 | 2023-02-05 | 1 | 36 | 
 | 2023-02-04 | 1 | 36 | 
 | 2023-02-03 | 1 | 36 | 

@@ -1,6 +1,6 @@
 # bitonic/pipes-speed-test - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 111 | 10 | 
 | 2023-02-05 | 111 | 10 | 
 | 2023-02-04 | 111 | 10 | 
 | 2023-02-03 | 111 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 109 | 10 | 
 | 2023-01-09 | 109 | 10 | 
 | 2023-01-08 | 109 | 10 | 
-| 2023-01-07 | 109 | 10 | 
 

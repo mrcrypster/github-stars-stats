@@ -1,10 +1,10 @@
 # aditya-shri/VPN - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1226
 
-★ Stars: 317
+★ Stars: 319
 
 [Open repository](https://github.com/aditya-shri/VPN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 319 | 1226 | 
 | 2023-02-05 | 317 | 1226 | 
 | 2023-02-04 | 316 | 1226 | 
 | 2023-02-03 | 316 | 1224 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 298 | 1226 | 
 | 2023-01-09 | 298 | 1226 | 
 | 2023-01-08 | 297 | 1225 | 
-| 2023-01-07 | 295 | 1226 | 
 

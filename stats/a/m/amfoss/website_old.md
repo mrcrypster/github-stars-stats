@@ -1,6 +1,6 @@
 # amfoss/website_old - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 555 | 12 | 
 | 2023-02-05 | 555 | 12 | 
 | 2023-02-04 | 555 | 12 | 
 | 2023-02-03 | 556 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 557 | 12 | 
 | 2023-01-09 | 557 | 12 | 
 | 2023-01-08 | 557 | 12 | 
-| 2023-01-07 | 557 | 12 | 
 

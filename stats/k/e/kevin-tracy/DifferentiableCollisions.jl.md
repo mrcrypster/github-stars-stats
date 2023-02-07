@@ -1,6 +1,6 @@
 # kevin-tracy/DifferentiableCollisions.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 62 | 1 | 
 | 2023-02-05 | 62 | 1 | 
 | 2023-02-04 | 62 | 1 | 
 | 2023-02-03 | 62 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 28 | 1 | 
 | 2023-01-09 | 28 | 1 | 
 | 2023-01-08 | 28 | 1 | 
-| 2023-01-07 | 28 | 1 | 
 

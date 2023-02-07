@@ -1,6 +1,6 @@
 # terryl1900/creator - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 191 | 15 | 
 | 2023-02-05 | 191 | 15 | 
 | 2023-02-04 | 191 | 15 | 
 | 2023-02-03 | 191 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 181 | 14 | 
 | 2023-01-10 | 181 | 14 | 
 | 2023-01-09 | 181 | 14 | 
-| 2023-01-08 | 181 | 14 | 
 

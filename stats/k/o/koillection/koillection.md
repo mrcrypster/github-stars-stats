@@ -1,10 +1,10 @@
 # koillection/koillection - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 10
 
-★ Stars: 259
+★ Stars: 261
 
 [Open repository](https://github.com/koillection/koillection)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 261 | 10 | 
 | 2023-02-05 | 259 | 10 | 
 | 2023-02-04 | 258 | 10 | 
 | 2023-02-03 | 258 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 248 | 10 | 
 | 2023-01-09 | 247 | 10 | 
 | 2023-01-08 | 247 | 10 | 
-| 2023-01-07 | 247 | 10 | 
 

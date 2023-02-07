@@ -1,10 +1,10 @@
 # lambdaclass/julia_koans - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/lambdaclass/julia_koans)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 29 | 4 | 
 | 2023-02-06 | 30 | 4 | 
 | 2023-02-04 | 30 | 4 | 
 | 2023-02-03 | 30 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 31 | 4 | 
 | 2023-01-09 | 31 | 4 | 
 | 2023-01-08 | 31 | 4 | 
-| 2023-01-07 | 31 | 4 | 
 

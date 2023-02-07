@@ -1,10 +1,10 @@
 # stefa168/guida_degli_studenti_di - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 35
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/stefa168/guida_degli_studenti_di)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 88 | 35 | 
 | 2023-02-05 | 87 | 35 | 
 | 2023-02-04 | 87 | 35 | 
 | 2023-02-03 | 87 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 79 | 31 | 
 | 2023-01-09 | 79 | 30 | 
 | 2023-01-08 | 79 | 30 | 
-| 2023-01-07 | 79 | 30 | 
 

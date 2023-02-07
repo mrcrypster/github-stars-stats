@@ -1,10 +1,10 @@
 # vs454545/WindowsRDP-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 124
+☋ Forks: 126
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/vs454545/WindowsRDP-1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2 | 126 | 
 | 2023-02-05 | 1 | 124 | 
 | 2023-02-04 | 1 | 124 | 
 | 2023-02-03 | 1 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1 | 116 | 
 | 2023-01-09 | 1 | 116 | 
 | 2023-01-08 | 1 | 116 | 
-| 2023-01-07 | 1 | 116 | 
 

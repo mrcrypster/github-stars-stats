@@ -1,10 +1,10 @@
 # google-research/t5x - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 159
+☋ Forks: 160
 
-★ Stars: 1207
+★ Stars: 1211
 
 [Open repository](https://github.com/google-research/t5x)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1211 | 160 | 
 | 2023-02-05 | 1207 | 159 | 
 | 2023-02-04 | 1204 | 159 | 
 | 2023-02-03 | 1195 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1072 | 144 | 
 | 2023-01-09 | 1071 | 144 | 
 | 2023-01-08 | 1066 | 142 | 
-| 2023-01-07 | 1063 | 140 | 
 

@@ -1,10 +1,10 @@
 # purescript-contrib/purescript-formatters - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 28
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/purescript-contrib/purescript-formatters)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 39 | 28 | 
 | 2023-02-05 | 38 | 28 | 
 | 2023-02-04 | 38 | 28 | 
 | 2023-02-03 | 38 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 38 | 28 | 
 | 2023-01-09 | 38 | 28 | 
 | 2023-01-08 | 38 | 28 | 
-| 2023-01-07 | 38 | 28 | 
 

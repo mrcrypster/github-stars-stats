@@ -1,6 +1,6 @@
 # fslongjin/This-repo-has-266-stars - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1383 | 40 | 
 | 2023-02-05 | 1383 | 40 | 
 | 2023-02-04 | 1382 | 40 | 
 | 2023-02-03 | 1382 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1381 | 41 | 
 | 2023-01-10 | 1383 | 41 | 
 | 2023-01-09 | 1382 | 41 | 
-| 2023-01-08 | 1383 | 41 | 
 

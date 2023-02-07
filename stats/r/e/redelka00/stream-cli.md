@@ -1,10 +1,10 @@
 # redelka00/stream-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 24
 
-★ Stars: 378
+★ Stars: 379
 
 [Open repository](https://github.com/redelka00/stream-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 379 | 24 | 
 | 2023-02-05 | 378 | 24 | 
 | 2023-02-04 | 378 | 25 | 
 | 2023-02-03 | 378 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 380 | 25 | 
 | 2023-01-10 | 380 | 25 | 
 | 2023-01-08 | 380 | 25 | 
-| 2023-01-07 | 379 | 25 | 
 

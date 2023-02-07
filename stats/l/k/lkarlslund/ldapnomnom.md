@@ -1,6 +1,6 @@
 # lkarlslund/ldapnomnom - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 618 | 50 | 
 | 2023-02-05 | 618 | 50 | 
 | 2023-02-04 | 618 | 50 | 
 | 2023-02-03 | 615 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 609 | 50 | 
 | 2023-01-09 | 608 | 50 | 
 | 2023-01-08 | 607 | 50 | 
-| 2023-01-07 | 607 | 50 | 
 

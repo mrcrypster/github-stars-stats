@@ -1,10 +1,10 @@
 # go-kit/kit - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2383
 
-★ Stars: 24511
+★ Stars: 24518
 
 [Open repository](https://github.com/go-kit/kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 24518 | 2383 | 
 | 2023-02-06 | 24511 | 2383 | 
 | 2023-02-04 | 24509 | 2384 | 
 | 2023-02-03 | 24505 | 2384 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 24401 | 2382 | 
 | 2023-01-09 | 24397 | 2383 | 
 | 2023-01-08 | 24397 | 2383 | 
-| 2023-01-07 | 24391 | 2383 | 
 

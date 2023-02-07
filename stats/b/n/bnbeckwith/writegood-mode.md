@@ -1,10 +1,10 @@
 # bnbeckwith/writegood-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 34
 
-★ Stars: 421
+★ Stars: 420
 
 [Open repository](https://github.com/bnbeckwith/writegood-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 420 | 34 | 
 | 2023-02-05 | 421 | 34 | 
 | 2023-02-04 | 421 | 34 | 
 | 2023-02-03 | 421 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 421 | 34 | 
 | 2023-01-09 | 421 | 34 | 
 | 2023-01-08 | 421 | 34 | 
-| 2023-01-07 | 421 | 34 | 
 

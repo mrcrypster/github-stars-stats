@@ -1,6 +1,6 @@
 # codewithsadee/dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 133 | 29 | 
 | 2023-02-05 | 133 | 29 | 
 | 2023-02-04 | 133 | 29 | 
 | 2023-02-03 | 133 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 131 | 27 | 
 | 2023-01-09 | 131 | 27 | 
 | 2023-01-08 | 131 | 27 | 
-| 2023-01-07 | 131 | 27 | 
 

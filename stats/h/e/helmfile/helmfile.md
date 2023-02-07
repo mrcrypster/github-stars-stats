@@ -1,10 +1,10 @@
 # helmfile/helmfile - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 1566
+★ Stars: 1575
 
 [Open repository](https://github.com/helmfile/helmfile)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1575 | 115 | 
 | 2023-02-05 | 1566 | 114 | 
 | 2023-02-04 | 1565 | 114 | 
 | 2023-02-03 | 1564 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1462 | 104 | 
 | 2023-01-09 | 1457 | 101 | 
 | 2023-01-08 | 1455 | 101 | 
-| 2023-01-07 | 1450 | 101 | 
 

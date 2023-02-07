@@ -1,10 +1,10 @@
 # purescript-contrib/purescript-argonaut-core - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/purescript-contrib/purescript-argonaut-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 47 | 30 | 
 | 2023-02-05 | 46 | 30 | 
 | 2023-02-04 | 46 | 30 | 
 | 2023-02-03 | 46 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 45 | 29 | 
 | 2023-01-09 | 45 | 29 | 
 | 2023-01-08 | 45 | 29 | 
-| 2023-01-07 | 45 | 29 | 
 

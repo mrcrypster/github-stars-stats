@@ -1,6 +1,6 @@
 # vvyoko/SmartZip - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 145 | 2 | 
 | 2023-02-05 | 145 | 2 | 
 | 2023-02-04 | 143 | 2 | 
 | 2023-02-03 | 142 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 134 | 2 | 
 | 2023-01-09 | 133 | 2 | 
 | 2023-01-08 | 133 | 2 | 
-| 2023-01-07 | 133 | 2 | 
 

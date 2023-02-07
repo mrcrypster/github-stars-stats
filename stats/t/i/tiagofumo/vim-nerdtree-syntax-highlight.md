@@ -1,10 +1,10 @@
 # tiagofumo/vim-nerdtree-syntax-highlight - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 42
 
-★ Stars: 739
+★ Stars: 740
 
 [Open repository](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 740 | 42 | 
 | 2023-02-05 | 739 | 42 | 
 | 2023-02-04 | 739 | 42 | 
 | 2023-02-03 | 738 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 732 | 42 | 
 | 2023-01-09 | 731 | 42 | 
 | 2023-01-08 | 731 | 42 | 
-| 2023-01-07 | 730 | 42 | 
 

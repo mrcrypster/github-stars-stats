@@ -1,6 +1,6 @@
 # Kritika30032002/Top_Secrets - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 9 | 19 | 
 | 2023-02-05 | 9 | 19 | 
 | 2023-02-04 | 9 | 20 | 
 | 2023-02-03 | 9 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 9 | 22 | 
 | 2023-01-09 | 9 | 22 | 
 | 2023-01-08 | 9 | 22 | 
-| 2023-01-07 | 9 | 22 | 
 

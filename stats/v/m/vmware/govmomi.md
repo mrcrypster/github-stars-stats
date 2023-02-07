@@ -1,10 +1,10 @@
 # vmware/govmomi - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 832
 
-★ Stars: 2041
+★ Stars: 2042
 
 [Open repository](https://github.com/vmware/govmomi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2042 | 832 | 
 | 2023-02-05 | 2041 | 832 | 
 | 2023-02-04 | 2041 | 832 | 
 | 2023-02-03 | 2041 | 832 | 

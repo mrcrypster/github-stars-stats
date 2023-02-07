@@ -1,6 +1,6 @@
 # luislavena/radix - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 99 | 11 | 
+| 2023-02-06 | 99 | 11 | 
 | 2023-02-05 | 99 | 11 | 
 | 2023-02-04 | 99 | 11 | 
 | 2023-02-03 | 99 | 11 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 100 | 12 | 
 | 2023-01-09 | 100 | 12 | 
 | 2023-01-08 | 100 | 12 | 
-| 2023-01-07 | 100 | 12 | 
 

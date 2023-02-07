@@ -1,6 +1,6 @@
 # haesleinhuepf/BioImageAnalysisNotebooks - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 50 | 14 | 
 | 2023-02-05 | 50 | 14 | 
 | 2023-02-04 | 50 | 14 | 
 | 2023-02-03 | 50 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 48 | 14 | 
 | 2023-01-09 | 48 | 13 | 
 | 2023-01-08 | 47 | 13 | 
-| 2023-01-07 | 47 | 13 | 
 

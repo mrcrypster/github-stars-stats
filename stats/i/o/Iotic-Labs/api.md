@@ -1,6 +1,6 @@
 # Iotic-Labs/api - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 6 | - | 
 | 2023-02-05 | 6 | - | 
 | 2023-02-03 | 6 | - | 
 | 2023-02-02 | 6 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 6 | 1 | 
 | 2023-01-09 | 6 | 1 | 
 | 2023-01-08 | 6 | 1 | 
-| 2023-01-07 | 6 | 1 | 
 

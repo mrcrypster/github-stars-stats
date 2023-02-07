@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 06
 
 ☋ Forks: 198
 
-★ Stars: 2025
+★ Stars: 2026
 
 [Open repository](https://github.com/Orbmu2k/nvidiaProfileInspector)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-06 | 2025 | 198 | 
+| 2023-02-06 | 2026 | 198 | 
 | 2023-02-05 | 2025 | 198 | 
 | 2023-02-04 | 2013 | 198 | 
 | 2023-02-03 | 2003 | 198 | 

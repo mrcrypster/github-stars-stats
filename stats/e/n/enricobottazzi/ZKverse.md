@@ -1,10 +1,10 @@
 # enricobottazzi/ZKverse - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 18
 
-★ Stars: 204
+★ Stars: 206
 
 [Open repository](https://github.com/enricobottazzi/ZKverse)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 206 | 18 | 
 | 2023-02-06 | 204 | 18 | 
 | 2023-02-04 | 204 | 18 | 
 | 2023-02-03 | 204 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 201 | 18 | 
 | 2023-01-09 | 201 | 18 | 
 | 2023-01-08 | 201 | 18 | 
-| 2023-01-07 | 201 | 18 | 
 

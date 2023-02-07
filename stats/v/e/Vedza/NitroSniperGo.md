@@ -1,10 +1,10 @@
 # Vedza/NitroSniperGo - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 651
+☋ Forks: 650
 
-★ Stars: 384
+★ Stars: 386
 
 [Open repository](https://github.com/Vedza/NitroSniperGo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 386 | 650 | 
 | 2023-02-05 | 384 | 651 | 
 | 2023-02-04 | 384 | 651 | 
 | 2023-02-03 | 385 | 652 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 377 | 645 | 
 | 2023-01-09 | 377 | 646 | 
 | 2023-01-08 | 377 | 646 | 
-| 2023-01-07 | 376 | 644 | 
 

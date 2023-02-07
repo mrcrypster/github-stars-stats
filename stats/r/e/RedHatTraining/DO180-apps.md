@@ -1,10 +1,10 @@
 # RedHatTraining/DO180-apps - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 39684
+☋ Forks: 39742
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/RedHatTraining/DO180-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 248 | 39742 | 
 | 2023-02-05 | 247 | 39684 | 
 | 2023-02-04 | 247 | 39676 | 
 | 2023-02-03 | 247 | 39666 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 241 | 38908 | 
 | 2023-01-09 | 240 | 38829 | 
 | 2023-01-08 | 240 | 38779 | 
-| 2023-01-07 | 240 | 38779 | 
 

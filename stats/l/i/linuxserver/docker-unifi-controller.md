@@ -1,10 +1,10 @@
 # linuxserver/docker-unifi-controller - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 114
 
-★ Stars: 788
+★ Stars: 789
 
 [Open repository](https://github.com/linuxserver/docker-unifi-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 789 | 114 | 
 | 2023-02-05 | 788 | 114 | 
 | 2023-02-04 | 787 | 114 | 
 | 2023-02-03 | 787 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 773 | 110 | 
 | 2023-01-09 | 772 | 110 | 
 | 2023-01-08 | 772 | 110 | 
-| 2023-01-07 | 772 | 109 | 
 

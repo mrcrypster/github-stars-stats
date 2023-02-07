@@ -1,10 +1,10 @@
 # WeakAuras/WeakAuras-Companion - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 47
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/WeakAuras/WeakAuras-Companion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 122 | 47 | 
 | 2023-02-05 | 121 | 47 | 
 | 2023-02-04 | 121 | 47 | 
 | 2023-02-03 | 121 | 46 | 

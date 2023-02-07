@@ -1,10 +1,10 @@
 # merlinmann/wisdom - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 36
 
-★ Stars: 614
+★ Stars: 616
 
 [Open repository](https://github.com/merlinmann/wisdom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 616 | 36 | 
 | 2023-02-05 | 614 | 36 | 
 | 2023-02-04 | 613 | 36 | 
 | 2023-02-03 | 612 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 601 | 36 | 
 | 2023-01-09 | 601 | 36 | 
 | 2023-01-08 | 601 | 36 | 
-| 2023-01-07 | 601 | 36 | 
 

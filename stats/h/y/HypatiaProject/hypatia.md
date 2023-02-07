@@ -1,6 +1,6 @@
 # HypatiaProject/hypatia - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 47 | 3 | 
 | 2023-02-05 | 47 | 3 | 
 | 2023-02-04 | 47 | 3 | 
 | 2023-02-03 | 47 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 48 | 3 | 
 | 2023-01-10 | 48 | 3 | 
 | 2023-01-09 | 48 | 3 | 
-| 2023-01-08 | 48 | 3 | 
 

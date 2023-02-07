@@ -1,10 +1,10 @@
 # superfly/litefs - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 51
 
-★ Stars: 2353
+★ Stars: 2355
 
 [Open repository](https://github.com/superfly/litefs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2355 | 51 | 
 | 2023-02-05 | 2353 | 51 | 
 | 2023-02-04 | 2350 | 51 | 
 | 2023-02-02 | 2346 | 50 | 

@@ -1,10 +1,10 @@
 # donato-fiore/GameSeagull - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 19
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/donato-fiore/GameSeagull)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 138 | 19 | 
 | 2023-02-05 | 137 | 19 | 
 | 2023-02-04 | 136 | 19 | 
 | 2023-02-03 | 136 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 127 | 18 | 
 | 2023-01-09 | 127 | 18 | 
 | 2023-01-08 | 127 | 18 | 
-| 2023-01-07 | 127 | 18 | 
 

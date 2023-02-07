@@ -1,10 +1,10 @@
 # cachix/cachix - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 36
 
-★ Stars: 533
+★ Stars: 534
 
 [Open repository](https://github.com/cachix/cachix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 534 | 36 | 
 | 2023-02-05 | 533 | 36 | 
 | 2023-02-04 | 533 | 36 | 
 | 2023-02-03 | 533 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 520 | 36 | 
 | 2023-01-10 | 520 | 35 | 
 | 2023-01-09 | 521 | 35 | 
-| 2023-01-07 | 521 | 35 | 
 

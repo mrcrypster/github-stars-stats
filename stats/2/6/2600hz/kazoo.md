@@ -1,6 +1,6 @@
 # 2600hz/kazoo - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 454
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 889 | 454 | 
 | 2023-02-05 | 889 | 454 | 
 | 2023-02-04 | 889 | 454 | 
 | 2023-02-03 | 888 | 454 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 888 | 454 | 
 | 2023-01-09 | 888 | 454 | 
 | 2023-01-08 | 888 | 454 | 
-| 2023-01-07 | 888 | 454 | 
 

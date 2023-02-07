@@ -1,6 +1,6 @@
 # Nightmre/swAPI-XSS - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 40 | 7 | 
 | 2023-02-05 | 40 | 7 | 
 | 2023-02-03 | 40 | 7 | 
 | 2023-02-02 | 40 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 40 | 7 | 
 | 2023-01-09 | 39 | 7 | 
 | 2023-01-08 | 39 | 7 | 
-| 2023-01-07 | 39 | 7 | 
 

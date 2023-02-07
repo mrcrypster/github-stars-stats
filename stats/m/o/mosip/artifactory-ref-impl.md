@@ -1,6 +1,6 @@
 # mosip/artifactory-ref-impl - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1 | 52 | 
 | 2023-02-05 | 1 | 52 | 
 | 2023-02-03 | 1 | 52 | 
 | 2023-02-02 | 1 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2 | 50 | 
 | 2023-01-09 | 2 | 50 | 
 | 2023-01-08 | 2 | 50 | 
-| 2023-01-07 | 2 | 50 | 
 

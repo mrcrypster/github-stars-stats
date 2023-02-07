@@ -1,10 +1,10 @@
 # antonputra/tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 1083
+☋ Forks: 1086
 
-★ Stars: 910
+★ Stars: 920
 
 [Open repository](https://github.com/antonputra/tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 920 | 1086 | 
 | 2023-02-05 | 910 | 1083 | 
 | 2023-02-04 | 901 | 1079 | 
 | 2023-02-03 | 893 | 1075 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 783 | 1009 | 
 | 2023-01-09 | 780 | 1008 | 
 | 2023-01-08 | 772 | 1004 | 
-| 2023-01-07 | 755 | 1002 | 
 

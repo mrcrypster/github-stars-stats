@@ -1,10 +1,10 @@
 # jogboms/flutter_spinkit - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 283
 
-★ Stars: 2687
+★ Stars: 2688
 
 [Open repository](https://github.com/jogboms/flutter_spinkit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2688 | 283 | 
 | 2023-02-05 | 2687 | 283 | 
 | 2023-02-04 | 2686 | 283 | 
 | 2023-02-03 | 2686 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2676 | 280 | 
 | 2023-01-09 | 2677 | 279 | 
 | 2023-01-08 | 2676 | 279 | 
-| 2023-01-07 | 2676 | 279 | 
 

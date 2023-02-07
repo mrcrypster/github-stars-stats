@@ -1,6 +1,6 @@
 # pili-engineering/QNRTC-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 54 | 33 | 
 | 2023-02-06 | 54 | 33 | 
 | 2023-02-04 | 54 | 33 | 
 | 2023-02-03 | 54 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-10 | 54 | 34 | 
 | 2023-01-09 | 54 | 33 | 
 | 2023-01-08 | 54 | 33 | 
-| 2023-01-07 | 54 | 33 | 
 

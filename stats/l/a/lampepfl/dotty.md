@@ -1,10 +1,10 @@
 # lampepfl/dotty - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 914
+☋ Forks: 915
 
-★ Stars: 5221
+★ Stars: 5222
 
 [Open repository](https://github.com/lampepfl/dotty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 5222 | 915 | 
 | 2023-02-05 | 5221 | 914 | 
 | 2023-02-04 | 5219 | 914 | 
 | 2023-02-03 | 5217 | 914 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 5177 | 905 | 
 | 2023-01-09 | 5172 | 904 | 
 | 2023-01-08 | 5170 | 904 | 
-| 2023-01-07 | 5171 | 903 | 
 

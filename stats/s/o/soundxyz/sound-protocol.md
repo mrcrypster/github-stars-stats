@@ -1,10 +1,10 @@
 # soundxyz/sound-protocol - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 14
 
-★ Stars: 114
+★ Stars: 116
 
 [Open repository](https://github.com/soundxyz/sound-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 116 | 14 | 
 | 2023-02-05 | 114 | 14 | 
 | 2023-02-04 | 114 | 14 | 
 | 2023-02-03 | 114 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 111 | 14 | 
 | 2023-01-10 | 111 | 14 | 
 | 2023-01-09 | 111 | 13 | 
-| 2023-01-08 | 111 | 13 | 
 

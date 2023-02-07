@@ -1,6 +1,6 @@
 # noflo/noflo-restfulmetrics - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1 | 6 | 
 | 2023-02-05 | 1 | 6 | 
 | 2023-02-03 | 1 | 6 | 
 | 2023-02-02 | 1 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 1 | 6 | 
 | 2023-01-09 | 1 | 6 | 
 | 2023-01-08 | 1 | 6 | 
-| 2023-01-07 | 1 | 6 | 
 

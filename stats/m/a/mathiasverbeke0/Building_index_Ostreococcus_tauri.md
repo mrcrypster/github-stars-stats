@@ -1,6 +1,6 @@
 # mathiasverbeke0/Building_index_Ostreococcus_tauri - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3 | 6 | 
 | 2023-02-05 | 3 | 6 | 
 | 2023-02-04 | 3 | 6 | 
 | 2023-02-03 | 3 | 7 | 

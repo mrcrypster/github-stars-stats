@@ -1,10 +1,10 @@
 # spyboy-productions/r4ven - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 37
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/spyboy-productions/r4ven)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 194 | 37 | 
 | 2023-02-05 | 193 | 37 | 
 | 2023-02-04 | 192 | 37 | 
 | 2023-02-03 | 184 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 166 | 27 | 
 | 2023-01-09 | 166 | 27 | 
 | 2023-01-08 | 165 | 27 | 
-| 2023-01-07 | 164 | 26 | 
 

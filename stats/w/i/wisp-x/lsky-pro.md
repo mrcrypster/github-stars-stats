@@ -1,10 +1,10 @@
 # wisp-x/lsky-pro - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 521
+☋ Forks: 522
 
-★ Stars: 2922
+★ Stars: 2925
 
 [Open repository](https://github.com/wisp-x/lsky-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 2925 | 522 | 
 | 2023-02-05 | 2922 | 521 | 
 | 2023-02-04 | 2918 | 520 | 
 | 2023-02-03 | 2914 | 518 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 2853 | 514 | 
 | 2023-01-09 | 2847 | 514 | 
 | 2023-01-08 | 2844 | 514 | 
-| 2023-01-07 | 2839 | 514 | 
 

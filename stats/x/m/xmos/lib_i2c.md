@@ -1,6 +1,6 @@
 # xmos/lib_i2c - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 1 | 15 | 
 | 2023-02-05 | 1 | 15 | 
 | 2023-02-04 | 1 | 15 | 
 | 2023-02-03 | 1 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 1 | 15 | 
 | 2023-01-10 | 1 | 15 | 
 | 2023-01-09 | 1 | 15 | 
-| 2023-01-07 | 1 | 15 | 
 

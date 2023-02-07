@@ -1,6 +1,6 @@
 # greglook/clj-hiera - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 55 | 6 | 
 | 2023-02-05 | 55 | 6 | 
 | 2023-02-03 | 55 | 6 | 
 | 2023-02-02 | 55 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 55 | 6 | 
 | 2023-01-09 | 55 | 6 | 
 | 2023-01-08 | 55 | 6 | 
-| 2023-01-07 | 55 | 6 | 
 

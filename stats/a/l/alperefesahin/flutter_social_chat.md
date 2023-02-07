@@ -1,6 +1,6 @@
 # alperefesahin/flutter_social_chat - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 56 | 5 | 
 | 2023-02-05 | 56 | 5 | 
 | 2023-02-04 | 55 | 4 | 
 | 2023-02-03 | 54 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 51 | 2 | 
 | 2023-01-09 | 49 | 2 | 
 | 2023-01-08 | 45 | 2 | 
-| 2023-01-07 | 41 | 2 | 
 

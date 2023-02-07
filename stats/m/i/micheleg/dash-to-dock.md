@@ -1,6 +1,6 @@
 # micheleg/dash-to-dock - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 459
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 3423 | 459 | 
 | 2023-02-05 | 3423 | 459 | 
 | 2023-02-04 | 3423 | 460 | 
 | 2023-02-03 | 3423 | 460 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 3405 | 460 | 
 | 2023-01-09 | 3405 | 459 | 
 | 2023-01-08 | 3404 | 458 | 
-| 2023-01-07 | 3403 | 458 | 
 

@@ -1,10 +1,10 @@
 # LukeShortCloud/winesapOS - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 24
 
-★ Stars: 501
+★ Stars: 502
 
 [Open repository](https://github.com/LukeShortCloud/winesapOS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 502 | 24 | 
 | 2023-02-05 | 501 | 24 | 
 | 2023-02-04 | 499 | 24 | 
 | 2023-02-03 | 498 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 485 | 24 | 
 | 2023-01-09 | 483 | 24 | 
 | 2023-01-08 | 481 | 24 | 
-| 2023-01-07 | 479 | 24 | 
 

@@ -1,6 +1,6 @@
 # voxpupuli/puppet-amanda - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 8 | 27 | 
 | 2023-02-05 | 8 | 27 | 
 | 2023-02-04 | 8 | 27 | 
 | 2023-02-03 | 8 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 8 | 27 | 
 | 2023-01-09 | 8 | 27 | 
 | 2023-01-08 | 8 | 27 | 
-| 2023-01-07 | 8 | 27 | 
 

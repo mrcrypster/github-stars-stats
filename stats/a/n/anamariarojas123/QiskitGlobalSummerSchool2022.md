@@ -1,6 +1,6 @@
 # anamariarojas123/QiskitGlobalSummerSchool2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 44 | 30 | 
 | 2023-02-05 | 44 | 30 | 
 | 2023-02-04 | 44 | 30 | 
 | 2023-02-03 | 44 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 45 | 30 | 
 | 2023-01-10 | 45 | 30 | 
 | 2023-01-09 | 45 | 30 | 
-| 2023-01-08 | 45 | 30 | 
 

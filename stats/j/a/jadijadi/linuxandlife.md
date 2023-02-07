@@ -1,10 +1,10 @@
 # jadijadi/linuxandlife - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 62
 
-★ Stars: 418
+★ Stars: 420
 
 [Open repository](https://github.com/jadijadi/linuxandlife)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 420 | 62 | 
 | 2023-02-05 | 418 | 62 | 
 | 2023-02-04 | 418 | 62 | 
 | 2023-02-03 | 418 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 404 | 61 | 
 | 2023-01-09 | 404 | 61 | 
 | 2023-01-08 | 403 | 61 | 
-| 2023-01-07 | 403 | 61 | 
 

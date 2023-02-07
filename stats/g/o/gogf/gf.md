@@ -1,10 +1,10 @@
 # gogf/gf - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
-☋ Forks: 1269
+☋ Forks: 1271
 
-★ Stars: 8807
+★ Stars: 8812
 
 [Open repository](https://github.com/gogf/gf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 8812 | 1271 | 
 | 2023-02-05 | 8807 | 1269 | 
 | 2023-02-04 | 8805 | 1269 | 
 | 2023-02-03 | 8799 | 1268 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 8708 | 1257 | 
 | 2023-01-09 | 8704 | 1257 | 
 | 2023-01-08 | 8699 | 1257 | 
-| 2023-01-07 | 8697 | 1256 | 
 

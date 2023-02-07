@@ -1,6 +1,6 @@
 # zqqw/pakku - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-06 | 28 | 4 | 
 | 2023-02-05 | 28 | 4 | 
 | 2023-02-04 | 28 | 4 | 
 | 2023-02-03 | 28 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-10 | 28 | 4 | 
 | 2023-01-09 | 28 | 4 | 
 | 2023-01-08 | 28 | 4 | 
-| 2023-01-07 | 28 | 4 | 
 
