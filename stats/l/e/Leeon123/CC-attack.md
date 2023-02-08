@@ -1,10 +1,10 @@
 # Leeon123/CC-attack - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 350
 
-★ Stars: 660
+★ Stars: 661
 
 [Open repository](https://github.com/Leeon123/CC-attack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 661 | 350 | 
 | 2023-02-06 | 660 | 350 | 
 | 2023-02-05 | 659 | 350 | 
 | 2023-02-04 | 658 | 350 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 643 | 339 | 
 | 2023-01-10 | 643 | 339 | 
 | 2023-01-09 | 643 | 338 | 
-| 2023-01-08 | 642 | 340 | 
 

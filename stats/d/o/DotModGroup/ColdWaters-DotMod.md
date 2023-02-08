@@ -1,10 +1,10 @@
 # DotModGroup/ColdWaters-DotMod - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 19
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/DotModGroup/ColdWaters-DotMod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 97 | 19 | 
 | 2023-02-06 | 96 | 19 | 
 | 2023-02-05 | 95 | 19 | 
 | 2023-02-04 | 95 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 93 | 19 | 
 | 2023-01-10 | 93 | 18 | 
 | 2023-01-09 | 93 | 18 | 
-| 2023-01-08 | 93 | 18 | 
 

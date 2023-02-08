@@ -1,10 +1,10 @@
 # JetBrains/MPS - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 267
 
-★ Stars: 1399
+★ Stars: 1400
 
 [Open repository](https://github.com/JetBrains/MPS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1400 | 267 | 
 | 2023-02-06 | 1399 | 267 | 
 | 2023-02-05 | 1399 | 267 | 
 | 2023-02-04 | 1398 | 267 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1393 | 267 | 
 | 2023-01-10 | 1392 | 267 | 
 | 2023-01-09 | 1392 | 267 | 
-| 2023-01-08 | 1392 | 267 | 
 

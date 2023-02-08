@@ -1,6 +1,6 @@
 # OSCPU/NutShell - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1123 | 194 | 
 | 2023-02-06 | 1123 | 194 | 
 | 2023-02-05 | 1123 | 194 | 
 | 2023-02-04 | 1123 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1115 | 194 | 
 | 2023-01-10 | 1113 | 194 | 
 | 2023-01-09 | 1108 | 194 | 
-| 2023-01-08 | 1107 | 194 | 
 

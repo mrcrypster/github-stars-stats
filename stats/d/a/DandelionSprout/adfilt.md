@@ -1,10 +1,10 @@
 # DandelionSprout/adfilt - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 115
+☋ Forks: 116
 
-★ Stars: 819
+★ Stars: 822
 
 [Open repository](https://github.com/DandelionSprout/adfilt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 822 | 116 | 
 | 2023-02-06 | 819 | 115 | 
 | 2023-02-05 | 819 | 115 | 
 | 2023-02-04 | 817 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 791 | 111 | 
 | 2023-01-10 | 792 | 111 | 
 | 2023-01-09 | 791 | 111 | 
-| 2023-01-08 | 790 | 111 | 
 

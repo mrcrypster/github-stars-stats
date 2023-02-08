@@ -1,10 +1,10 @@
 # iiijam/ice_live_viewer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 236
+★ Stars: 239
 
 [Open repository](https://github.com/iiijam/ice_live_viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 239 | 28 | 
 | 2023-02-06 | 236 | 27 | 
 | 2023-02-05 | 235 | 28 | 
 | 2023-02-04 | 235 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 208 | 12 | 
 | 2023-01-10 | 208 | 12 | 
 | 2023-01-09 | 207 | 11 | 
-| 2023-01-08 | 204 | 11 | 
 

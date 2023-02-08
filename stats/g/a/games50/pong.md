@@ -1,8 +1,8 @@
 # games50/pong - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 978
+☋ Forks: 979
 
 ★ Stars: 682
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 682 | 979 | 
 | 2023-02-06 | 682 | 978 | 
 | 2023-02-05 | 682 | 977 | 
 | 2023-02-04 | 680 | 975 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 667 | 957 | 
 | 2023-01-10 | 667 | 957 | 
 | 2023-01-09 | 665 | 957 | 
-| 2023-01-08 | 663 | 957 | 
 

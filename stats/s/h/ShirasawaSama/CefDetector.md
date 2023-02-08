@@ -1,6 +1,6 @@
 # ShirasawaSama/CefDetector - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 596 | 7 | 
 | 2023-02-06 | 596 | 7 | 
 | 2023-02-05 | 595 | 7 | 
 | 2023-02-04 | 592 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 540 | 6 | 
 | 2023-01-10 | 535 | 6 | 
 | 2023-01-09 | 532 | 6 | 
-| 2023-01-08 | 528 | 6 | 
 

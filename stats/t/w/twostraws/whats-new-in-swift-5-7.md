@@ -1,6 +1,6 @@
 # twostraws/whats-new-in-swift-5-7 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 115 | 1 | 
 | 2023-02-06 | 115 | 1 | 
 | 2023-02-05 | 115 | 1 | 
 | 2023-02-04 | 115 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 115 | 1 | 
 | 2023-01-11 | 115 | 1 | 
 | 2023-01-10 | 115 | 1 | 
-| 2023-01-09 | 115 | 1 | 
 

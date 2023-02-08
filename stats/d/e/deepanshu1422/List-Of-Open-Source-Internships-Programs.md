@@ -1,6 +1,6 @@
 # deepanshu1422/List-Of-Open-Source-Internships-Programs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2685 | 424 | 
 | 2023-02-06 | 2685 | 424 | 
 | 2023-02-05 | 2684 | 424 | 
 | 2023-02-03 | 2683 | 423 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2635 | 422 | 
 | 2023-01-11 | 2630 | 422 | 
 | 2023-01-09 | 2628 | 422 | 
-| 2023-01-08 | 2627 | 422 | 
 

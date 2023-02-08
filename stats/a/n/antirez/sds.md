@@ -1,10 +1,10 @@
 # antirez/sds - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 430
 
-★ Stars: 4173
+★ Stars: 4174
 
 [Open repository](https://github.com/antirez/sds)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4174 | 430 | 
 | 2023-02-06 | 4173 | 430 | 
 | 2023-02-05 | 4173 | 430 | 
 | 2023-02-04 | 4173 | 431 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 4153 | 428 | 
 | 2023-01-10 | 4151 | 428 | 
 | 2023-01-09 | 4150 | 428 | 
-| 2023-01-08 | 4148 | 427 | 
 

@@ -1,6 +1,6 @@
 # thoughtbot/administrate - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1065
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 5523 | 1065 | 
 | 2023-02-06 | 5523 | 1065 | 
 | 2023-02-05 | 5522 | 1063 | 
 | 2023-02-04 | 5522 | 1064 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 5508 | 1058 | 
 | 2023-01-10 | 5508 | 1057 | 
 | 2023-01-09 | 5506 | 1057 | 
-| 2023-01-08 | 5505 | 1057 | 
 

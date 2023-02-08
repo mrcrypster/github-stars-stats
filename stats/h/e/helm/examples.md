@@ -1,8 +1,8 @@
 # helm/examples - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
-☋ Forks: 84
+☋ Forks: 85
 
 ★ Stars: 30
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 30 | 85 | 
+| 2023-02-07 | 30 | 85 | 
 | 2023-02-06 | 30 | 84 | 
 | 2023-02-05 | 30 | 84 | 
 | 2023-02-04 | 30 | 83 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 27 | 79 | 
 | 2023-01-10 | 27 | 79 | 
 | 2023-01-09 | 27 | 79 | 
-| 2023-01-08 | 27 | 79 | 
 

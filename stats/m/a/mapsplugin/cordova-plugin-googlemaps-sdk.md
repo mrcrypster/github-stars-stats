@@ -1,6 +1,6 @@
 # mapsplugin/cordova-plugin-googlemaps-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 9 | 36 | 
 | 2023-02-07 | 9 | 36 | 
 | 2023-02-05 | 9 | 36 | 
 | 2023-02-04 | 9 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 9 | 36 | 
 | 2023-01-10 | 9 | 36 | 
 | 2023-01-09 | 9 | 36 | 
-| 2023-01-08 | 9 | 36 | 
 

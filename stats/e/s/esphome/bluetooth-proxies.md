@@ -1,6 +1,6 @@
 # esphome/bluetooth-proxies - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 90 | 36 | 
 | 2023-02-06 | 90 | 36 | 
 | 2023-02-05 | 88 | 36 | 
 | 2023-02-03 | 88 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 80 | 33 | 
 | 2023-01-10 | 80 | 33 | 
 | 2023-01-09 | 79 | 33 | 
-| 2023-01-08 | 79 | 33 | 
 

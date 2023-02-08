@@ -1,10 +1,10 @@
 # yumouqiu/DS202-classexample1 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 47
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/yumouqiu/DS202-classexample1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1 | 47 | 
 | 2023-02-06 | - | 47 | 
 | 2023-02-05 | - | 47 | 
 | 2023-02-04 | - | 47 | 

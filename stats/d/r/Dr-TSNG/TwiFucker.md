@@ -1,10 +1,10 @@
 # Dr-TSNG/TwiFucker - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 560
+★ Stars: 565
 
 [Open repository](https://github.com/Dr-TSNG/TwiFucker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 565 | 21 | 
 | 2023-02-06 | 560 | 21 | 
 | 2023-02-05 | 557 | 21 | 
 | 2023-02-04 | 556 | 21 | 

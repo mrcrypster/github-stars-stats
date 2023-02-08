@@ -1,10 +1,10 @@
 # ucupumar/ucupaint - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 11
 
-★ Stars: 202
+★ Stars: 205
 
 [Open repository](https://github.com/ucupumar/ucupaint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 205 | 11 | 
 | 2023-02-06 | 202 | 11 | 
 | 2023-02-05 | 201 | 11 | 
 | 2023-02-04 | 200 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 196 | 10 | 
 | 2023-01-11 | 196 | 10 | 
 | 2023-01-09 | 196 | 10 | 
-| 2023-01-08 | 196 | 10 | 
 

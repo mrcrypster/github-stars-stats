@@ -1,10 +1,10 @@
 # jamigibbs/phantom - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 312
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/jamigibbs/phantom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 274 | 312 | 
 | 2023-02-06 | 273 | 312 | 
 | 2023-02-05 | 273 | 309 | 
 | 2023-02-04 | 272 | 309 | 

@@ -1,6 +1,6 @@
 # Pocco81/true-zen.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 736 | 16 | 
 | 2023-02-06 | 736 | 16 | 
 | 2023-02-05 | 735 | 16 | 
 | 2023-02-03 | 733 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 717 | 13 | 
 | 2023-01-10 | 717 | 13 | 
 | 2023-01-09 | 717 | 13 | 
-| 2023-01-08 | 716 | 13 | 
 

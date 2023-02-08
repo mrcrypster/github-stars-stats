@@ -1,6 +1,6 @@
 # sickill/vim-monokai - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 608
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1367 | 608 | 
 | 2023-02-06 | 1367 | 608 | 
 | 2023-02-05 | 1367 | 608 | 
 | 2023-02-04 | 1366 | 608 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 1363 | 608 | 
 | 2023-01-11 | 1362 | 608 | 
 | 2023-01-09 | 1362 | 608 | 
-| 2023-01-08 | 1362 | 609 | 
 

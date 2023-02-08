@@ -1,10 +1,10 @@
 # htadashi/GPT3-AHK - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/htadashi/GPT3-AHK)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 20 | 4 | 
 | 2023-02-06 | 19 | 4 | 
 | 2023-02-05 | 17 | 4 | 
 | 2023-02-04 | 17 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 15 | 2 | 
 | 2023-01-11 | 15 | 2 | 
 | 2023-01-10 | 15 | 2 | 
-| 2023-01-08 | 14 | 2 | 
 

@@ -1,6 +1,6 @@
 # mdn/browser-compat-data - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1986
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4399 | 1986 | 
 | 2023-02-06 | 4399 | 1986 | 
 | 2023-02-05 | 4398 | 1986 | 
 | 2023-02-04 | 4395 | 1985 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 4360 | 1970 | 
 | 2023-01-10 | 4359 | 1967 | 
 | 2023-01-09 | 4358 | 1967 | 
-| 2023-01-08 | 4358 | 1967 | 
 

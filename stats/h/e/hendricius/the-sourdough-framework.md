@@ -1,6 +1,6 @@
 # hendricius/the-sourdough-framework - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 187 | 29 | 
 | 2023-02-06 | 187 | 29 | 
 | 2023-02-05 | 187 | 29 | 
 | 2023-02-04 | 186 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 174 | 25 | 
 | 2023-01-10 | 174 | 25 | 
 | 2023-01-09 | 172 | 24 | 
-| 2023-01-08 | 171 | 24 | 
 

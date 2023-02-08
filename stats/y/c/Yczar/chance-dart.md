@@ -1,6 +1,6 @@
 # Yczar/chance-dart - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 60 | 20 | 
 | 2023-02-06 | 60 | 20 | 
 | 2023-02-05 | 60 | 20 | 
 | 2023-02-04 | 60 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 56 | 19 | 
 | 2023-01-11 | 55 | 19 | 
 | 2023-01-09 | 55 | 19 | 
-| 2023-01-08 | 55 | 19 | 
 

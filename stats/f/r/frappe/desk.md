@@ -1,6 +1,6 @@
 # frappe/desk - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 162 | 73 | 
 | 2023-02-06 | 162 | 73 | 
 | 2023-02-05 | 160 | 73 | 
 | 2023-02-04 | 159 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 145 | 69 | 
 | 2023-01-11 | 142 | 68 | 
 | 2023-01-10 | 141 | 68 | 
-| 2023-01-08 | 141 | 68 | 
 

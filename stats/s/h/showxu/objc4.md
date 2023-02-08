@@ -1,6 +1,6 @@
 # showxu/objc4 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 508 | 88 | 
 | 2023-02-06 | 508 | 88 | 
 | 2023-02-05 | 507 | 87 | 
 | 2023-02-04 | 507 | 87 | 

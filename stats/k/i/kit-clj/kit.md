@@ -1,10 +1,10 @@
 # kit-clj/kit - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 24
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/kit-clj/kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 317 | 24 | 
 | 2023-02-07 | 316 | 24 | 
 | 2023-02-05 | 316 | 24 | 
 | 2023-02-04 | 316 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 307 | 23 | 
 | 2023-01-10 | 305 | 23 | 
 | 2023-01-09 | 305 | 23 | 
-| 2023-01-08 | 305 | 23 | 
 

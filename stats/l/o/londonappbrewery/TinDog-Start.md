@@ -1,6 +1,6 @@
 # londonappbrewery/TinDog-Start - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1756
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1289 | 1756 | 
 | 2023-02-06 | 1289 | 1756 | 
 | 2023-02-05 | 1288 | 1756 | 
 | 2023-02-04 | 1286 | 1750 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1253 | 1705 | 
 | 2023-01-10 | 1251 | 1700 | 
 | 2023-01-09 | 1247 | 1695 | 
-| 2023-01-08 | 1247 | 1692 | 
 

@@ -1,10 +1,10 @@
 # ToyoDAdoubi/doubi - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2560
 
-★ Stars: 4494
+★ Stars: 4493
 
 [Open repository](https://github.com/ToyoDAdoubi/doubi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4493 | 2560 | 
 | 2023-02-06 | 4494 | 2560 | 
 | 2023-02-05 | 4494 | 2560 | 
 | 2023-02-04 | 4494 | 2560 | 

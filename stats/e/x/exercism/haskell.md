@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 169
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/exercism/haskell)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 425 | 169 | 
+| 2023-02-07 | 426 | 169 | 
 | 2023-02-06 | 425 | 169 | 
 | 2023-02-05 | 425 | 169 | 
 | 2023-02-04 | 425 | 167 | 

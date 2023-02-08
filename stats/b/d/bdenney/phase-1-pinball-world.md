@@ -1,8 +1,8 @@
 # bdenney/phase-1-pinball-world - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 91
+☋ Forks: 95
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1 | 95 | 
 | 2023-02-06 | 1 | 91 | 
 | 2023-02-05 | 1 | 91 | 
 | 2023-02-04 | 1 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1 | 74 | 
 | 2023-01-10 | 1 | 74 | 
 | 2023-01-09 | 1 | 74 | 
-| 2023-01-08 | 1 | 74 | 
 

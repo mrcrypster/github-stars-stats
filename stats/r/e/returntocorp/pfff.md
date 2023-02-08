@@ -1,6 +1,6 @@
 # returntocorp/pfff - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 189 | 28 | 
 | 2023-02-06 | 189 | 28 | 
 | 2023-02-04 | 189 | 28 | 
 | 2023-02-03 | 189 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 189 | 27 | 
 | 2023-01-10 | 189 | 27 | 
 | 2023-01-09 | 189 | 27 | 
-| 2023-01-08 | 189 | 27 | 
 

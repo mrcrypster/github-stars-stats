@@ -1,10 +1,10 @@
 # dbarzin/mercator - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 18
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/dbarzin/mercator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 96 | 18 | 
 | 2023-02-06 | 95 | 18 | 
 | 2023-02-05 | 91 | 18 | 
 | 2023-02-04 | 87 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 82 | 17 | 
 | 2023-01-11 | 82 | 17 | 
 | 2023-01-10 | 82 | 17 | 
-| 2023-01-09 | 82 | 17 | 
 

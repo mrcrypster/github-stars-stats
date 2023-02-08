@@ -1,10 +1,10 @@
 # mindslab-ai/phaseaug - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/mindslab-ai/phaseaug)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 127 | 9 | 
 | 2023-02-06 | 126 | 9 | 
 | 2023-02-05 | 126 | 9 | 
 | 2023-02-04 | 125 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 118 | 9 | 
 | 2023-01-10 | 117 | 9 | 
 | 2023-01-09 | 116 | 9 | 
-| 2023-01-08 | 116 | 9 | 
 

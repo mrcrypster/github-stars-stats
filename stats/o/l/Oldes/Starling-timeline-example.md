@@ -1,6 +1,6 @@
 # Oldes/Starling-timeline-example - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6 | 4 | 
 | 2023-02-07 | 6 | 4 | 
 | 2023-02-05 | 6 | 4 | 
 | 2023-02-04 | 6 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 6 | 4 | 
 | 2023-01-10 | 6 | 4 | 
 | 2023-01-09 | 6 | 4 | 
-| 2023-01-08 | 6 | 4 | 
 

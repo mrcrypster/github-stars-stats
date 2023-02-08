@@ -1,10 +1,10 @@
 # baomidou/mybatis-plus - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 3805
+☋ Forks: 3803
 
-★ Stars: 13992
+★ Stars: 13995
 
 [Open repository](https://github.com/baomidou/mybatis-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 13995 | 3803 | 
 | 2023-02-06 | 13992 | 3805 | 
 | 2023-02-05 | 13990 | 3804 | 
 | 2023-02-04 | 13991 | 3803 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 13926 | 3788 | 
 | 2023-01-10 | 13921 | 3788 | 
 | 2023-01-09 | 13916 | 3786 | 
-| 2023-01-08 | 13915 | 3786 | 
 

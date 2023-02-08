@@ -1,8 +1,8 @@
 # kangoka/tiktodv3 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 253
+☋ Forks: 254
 
 ★ Stars: 418
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 418 | 254 | 
 | 2023-02-06 | 418 | 253 | 
 | 2023-02-05 | 418 | 253 | 
 | 2023-02-04 | 416 | 253 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 409 | 246 | 
 | 2023-01-10 | 409 | 246 | 
 | 2023-01-09 | 409 | 247 | 
-| 2023-01-08 | 408 | 247 | 
 

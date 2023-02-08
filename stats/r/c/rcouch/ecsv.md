@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 34
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/rcouch/ecsv)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 27 | 34 | 
+| 2023-02-07 | 28 | 34 | 
 | 2023-02-06 | 27 | 34 | 
 | 2023-02-05 | 27 | 34 | 
 | 2023-02-04 | 27 | 34 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 27 | 34 | 
 | 2023-01-10 | 27 | 34 | 
 | 2023-01-09 | 27 | 34 | 
-| 2023-01-08 | 27 | 34 | 
 

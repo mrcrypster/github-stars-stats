@@ -1,10 +1,10 @@
 # Kadenio/Pancakeswap-Sniper-Bot-Free - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 249
+☋ Forks: 268
 
-★ Stars: 489
+★ Stars: 506
 
 [Open repository](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 506 | 268 | 
 | 2023-02-06 | 489 | 249 | 
 | 2023-02-05 | 474 | 244 | 
 | 2023-02-04 | 473 | 244 | 

@@ -1,10 +1,10 @@
 # jsuarezruiz/figma-to-maui-graphics - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/jsuarezruiz/figma-to-maui-graphics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 244 | 17 | 
 | 2023-02-06 | 243 | 17 | 
 | 2023-02-05 | 243 | 17 | 
 | 2023-02-04 | 243 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 234 | 17 | 
 | 2023-01-10 | 234 | 18 | 
 | 2023-01-09 | 233 | 17 | 
-| 2023-01-08 | 233 | 17 | 
 

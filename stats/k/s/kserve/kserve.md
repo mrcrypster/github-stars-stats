@@ -1,10 +1,10 @@
 # kserve/kserve - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 726
+☋ Forks: 728
 
-★ Stars: 1961
+★ Stars: 1963
 
 [Open repository](https://github.com/kserve/kserve)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1963 | 728 | 
 | 2023-02-06 | 1961 | 726 | 
 | 2023-02-05 | 1959 | 724 | 
 | 2023-02-04 | 1959 | 722 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1916 | 709 | 
 | 2023-01-10 | 1914 | 708 | 
 | 2023-01-09 | 1909 | 707 | 
-| 2023-01-08 | 1908 | 707 | 
 

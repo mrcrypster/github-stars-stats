@@ -1,10 +1,10 @@
 # maple-labs/erc20 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 9
 
-★ Stars: 62
+★ Stars: 61
 
 [Open repository](https://github.com/maple-labs/erc20)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 61 | 9 | 
 | 2023-02-06 | 62 | 9 | 
 | 2023-02-04 | 62 | 9 | 
 | 2023-02-03 | 62 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 59 | 9 | 
 | 2023-01-10 | 59 | 9 | 
 | 2023-01-09 | 59 | 9 | 
-| 2023-01-08 | 59 | 9 | 
 

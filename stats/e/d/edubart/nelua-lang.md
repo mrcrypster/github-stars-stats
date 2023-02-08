@@ -1,6 +1,6 @@
 # edubart/nelua-lang - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1440 | 43 | 
 | 2023-02-06 | 1440 | 43 | 
 | 2023-02-05 | 1441 | 43 | 
 | 2023-02-04 | 1440 | 42 | 

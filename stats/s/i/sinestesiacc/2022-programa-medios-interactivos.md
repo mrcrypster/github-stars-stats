@@ -1,6 +1,6 @@
 # sinestesiacc/2022-programa-medios-interactivos - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 13 | 15 | 
 | 2023-02-06 | 13 | 15 | 
 | 2023-02-05 | 13 | 15 | 
 | 2023-02-04 | 13 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 13 | 15 | 
 | 2023-01-10 | 13 | 15 | 
 | 2023-01-09 | 13 | 15 | 
-| 2023-01-08 | 13 | 15 | 
 

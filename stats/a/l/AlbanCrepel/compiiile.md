@@ -1,10 +1,10 @@
 # AlbanCrepel/compiiile - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/AlbanCrepel/compiiile)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 68 | 2 | 
 | 2023-02-06 | 67 | 2 | 
 | 2023-02-05 | 67 | 2 | 
 | 2023-02-04 | 67 | 2 | 

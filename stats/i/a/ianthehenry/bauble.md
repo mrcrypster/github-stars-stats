@@ -1,10 +1,10 @@
 # ianthehenry/bauble - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 234
+★ Stars: 240
 
 [Open repository](https://github.com/ianthehenry/bauble)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 240 | 3 | 
 | 2023-02-06 | 234 | 2 | 
 | 2023-02-05 | 233 | 2 | 
 | 2023-02-04 | 233 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 232 | 2 | 
 | 2023-01-11 | 232 | 2 | 
 | 2023-01-10 | 232 | 2 | 
-| 2023-01-09 | 233 | 2 | 
 

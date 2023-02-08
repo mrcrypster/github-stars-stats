@@ -1,10 +1,10 @@
 # Skepfyr/little-loadshedder - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 115
+★ Stars: 119
 
 [Open repository](https://github.com/Skepfyr/little-loadshedder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 119 | - | 
 | 2023-02-06 | 115 | - | 
 | 2023-02-05 | 107 | - | 
 | 2023-02-04 | 104 | - | 

@@ -1,10 +1,10 @@
 # MoonbaseOtago/vroom - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 11
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/MoonbaseOtago/vroom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 310 | 11 | 
 | 2023-02-06 | 309 | 11 | 
 | 2023-02-05 | 309 | 11 | 
 | 2023-02-04 | 309 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 304 | 10 | 
 | 2023-01-10 | 304 | 10 | 
 | 2023-01-09 | 303 | 10 | 
-| 2023-01-08 | 303 | 10 | 
 

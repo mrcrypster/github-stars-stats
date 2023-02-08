@@ -1,10 +1,10 @@
 # JackJiang2011/MobileIMSDK - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
-☋ Forks: 1165
+☋ Forks: 1166
 
-★ Stars: 4595
+★ Stars: 4602
 
 [Open repository](https://github.com/JackJiang2011/MobileIMSDK)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4602 | 1166 | 
+| 2023-02-07 | 4602 | 1166 | 
 | 2023-02-06 | 4595 | 1165 | 
 | 2023-02-05 | 4590 | 1164 | 
 | 2023-02-04 | 4589 | 1164 | 

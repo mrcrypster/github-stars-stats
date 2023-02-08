@@ -1,10 +1,10 @@
 # DefinitelyTyped/DefinitelyTyped - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 28633
+☋ Forks: 28637
 
-★ Stars: 42659
+★ Stars: 42685
 
 [Open repository](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 42685 | 28637 | 
 | 2023-02-06 | 42659 | 28633 | 
 | 2023-02-04 | 42648 | 28629 | 
 | 2023-02-03 | 42635 | 28627 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 42322 | 28511 | 
 | 2023-01-10 | 42284 | 28494 | 
 | 2023-01-09 | 42245 | 28496 | 
-| 2023-01-08 | 42232 | 28493 | 
 

@@ -1,6 +1,6 @@
 # zbirenbaum/copilot-cmp - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 320 | 10 | 
 | 2023-02-06 | 320 | 10 | 
 | 2023-02-05 | 320 | 10 | 
 | 2023-02-04 | 315 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 287 | 10 | 
 | 2023-01-10 | 286 | 10 | 
 | 2023-01-09 | 283 | 10 | 
-| 2023-01-08 | 283 | 10 | 
 

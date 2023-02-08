@@ -1,8 +1,8 @@
 # octobercms/october - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2272
+☋ Forks: 2273
 
 ★ Stars: 10838
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 10838 | 2273 | 
 | 2023-02-06 | 10838 | 2272 | 
 | 2023-02-05 | 10837 | 2272 | 
 | 2023-02-04 | 10837 | 2272 | 

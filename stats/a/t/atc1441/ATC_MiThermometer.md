@@ -1,10 +1,10 @@
 # atc1441/ATC_MiThermometer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 381
+☋ Forks: 382
 
-★ Stars: 2174
+★ Stars: 2175
 
 [Open repository](https://github.com/atc1441/ATC_MiThermometer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2175 | 382 | 
 | 2023-02-06 | 2174 | 381 | 
 | 2023-02-05 | 2174 | 381 | 
 | 2023-02-04 | 2173 | 381 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2139 | 379 | 
 | 2023-01-11 | 2137 | 379 | 
 | 2023-01-09 | 2133 | 377 | 
-| 2023-01-08 | 2128 | 376 | 
 

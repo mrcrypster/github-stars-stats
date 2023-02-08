@@ -1,6 +1,6 @@
 # iamtsm/tl-ops-manage - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 181 | 25 | 
 | 2023-02-06 | 181 | 25 | 
 | 2023-02-05 | 181 | 25 | 
 | 2023-02-04 | 181 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 176 | 25 | 
 | 2023-01-11 | 176 | 25 | 
 | 2023-01-09 | 176 | 25 | 
-| 2023-01-08 | 176 | 25 | 
 

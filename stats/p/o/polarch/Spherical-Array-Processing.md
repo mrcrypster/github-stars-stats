@@ -1,6 +1,6 @@
 # polarch/Spherical-Array-Processing - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 125 | 55 | 
 | 2023-02-06 | 125 | 55 | 
 | 2023-02-05 | 125 | 55 | 
 | 2023-02-04 | 125 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 124 | 55 | 
 | 2023-01-10 | 124 | 55 | 
 | 2023-01-09 | 124 | 55 | 
-| 2023-01-08 | 124 | 55 | 
 

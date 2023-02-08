@@ -1,10 +1,10 @@
 # scalameta/metals - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 275
 
-★ Stars: 1842
+★ Stars: 1843
 
 [Open repository](https://github.com/scalameta/metals)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1843 | 275 | 
 | 2023-02-06 | 1842 | 275 | 
 | 2023-02-05 | 1842 | 275 | 
 | 2023-02-04 | 1840 | 275 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1825 | 274 | 
 | 2023-01-10 | 1825 | 274 | 
 | 2023-01-09 | 1825 | 273 | 
-| 2023-01-08 | 1825 | 273 | 
 

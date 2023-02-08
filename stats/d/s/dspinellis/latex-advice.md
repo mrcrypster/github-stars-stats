@@ -1,10 +1,10 @@
 # dspinellis/latex-advice - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 101
 
-★ Stars: 862
+★ Stars: 863
 
 [Open repository](https://github.com/dspinellis/latex-advice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 863 | 101 | 
 | 2023-02-06 | 862 | 101 | 
 | 2023-02-05 | 862 | 100 | 
 | 2023-02-04 | 862 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 853 | 100 | 
 | 2023-01-11 | 853 | 100 | 
 | 2023-01-10 | 853 | 100 | 
-| 2023-01-09 | 853 | 100 | 
 

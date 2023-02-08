@@ -1,10 +1,10 @@
 # aspect-build/rules_js - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 163
+★ Stars: 165
 
 [Open repository](https://github.com/aspect-build/rules_js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 165 | 49 | 
 | 2023-02-06 | 163 | 48 | 
 | 2023-02-05 | 163 | 47 | 
 | 2023-02-04 | 163 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 157 | 39 | 
 | 2023-01-10 | 156 | 39 | 
 | 2023-01-09 | 155 | 39 | 
-| 2023-01-08 | 155 | 39 | 
 

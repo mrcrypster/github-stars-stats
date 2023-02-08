@@ -1,6 +1,6 @@
 # SivanLaai/rime-pure - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 494 | 67 | 
 | 2023-02-06 | 494 | 67 | 
 | 2023-02-05 | 493 | 67 | 
 | 2023-02-04 | 493 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 476 | 65 | 
 | 2023-01-10 | 472 | 65 | 
 | 2023-01-09 | 471 | 65 | 
-| 2023-01-08 | 468 | 65 | 
 

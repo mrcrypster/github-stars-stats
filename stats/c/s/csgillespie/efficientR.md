@@ -1,10 +1,10 @@
 # csgillespie/efficientR - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 371
 
-★ Stars: 695
+★ Stars: 696
 
 [Open repository](https://github.com/csgillespie/efficientR)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 696 | 371 | 
 | 2023-02-06 | 695 | 371 | 
 | 2023-02-05 | 695 | 371 | 
 | 2023-02-04 | 695 | 371 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 692 | 368 | 
 | 2023-01-11 | 692 | 368 | 
 | 2023-01-10 | 692 | 368 | 
-| 2023-01-08 | 692 | 368 | 
 

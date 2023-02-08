@@ -1,10 +1,10 @@
 # dotnet/maui - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 1200
+☋ Forks: 1202
 
-★ Stars: 18191
+★ Stars: 18195
 
 [Open repository](https://github.com/dotnet/maui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 18195 | 1202 | 
 | 2023-02-06 | 18191 | 1200 | 
 | 2023-02-05 | 18189 | 1200 | 
 | 2023-02-04 | 18182 | 1198 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 18045 | 1168 | 
 | 2023-01-10 | 18038 | 1165 | 
 | 2023-01-09 | 18024 | 1165 | 
-| 2023-01-08 | 18022 | 1164 | 
 

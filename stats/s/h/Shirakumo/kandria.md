@@ -1,6 +1,6 @@
 # Shirakumo/kandria - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 327 | 20 | 
 | 2023-02-06 | 327 | 20 | 
 | 2023-02-05 | 324 | 20 | 
 | 2023-02-03 | 322 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 147 | 11 | 
 | 2023-01-10 | 145 | 11 | 
 | 2023-01-09 | 143 | 11 | 
-| 2023-01-08 | 143 | 11 | 
 

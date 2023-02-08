@@ -1,6 +1,6 @@
 # DaiGoTGaming/Northgard - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 10 | 1 | 
 | 2023-02-06 | 10 | 1 | 
 | 2023-02-05 | 10 | 1 | 
 | 2023-02-04 | 10 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 9 | 1 | 
 | 2023-01-11 | 9 | 1 | 
 | 2023-01-09 | 9 | 1 | 
-| 2023-01-08 | 9 | 1 | 
 

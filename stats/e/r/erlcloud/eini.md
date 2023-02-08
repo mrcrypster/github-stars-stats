@@ -1,10 +1,10 @@
 # erlcloud/eini - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/erlcloud/eini)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 22 | 17 | 
 | 2023-02-06 | 21 | 17 | 
 | 2023-02-05 | 21 | 17 | 
 | 2023-02-04 | 21 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 21 | 17 | 
 | 2023-01-10 | 21 | 17 | 
 | 2023-01-09 | 21 | 17 | 
-| 2023-01-08 | 21 | 17 | 
 

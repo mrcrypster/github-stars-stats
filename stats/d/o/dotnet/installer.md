@@ -1,10 +1,10 @@
 # dotnet/installer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 422
 
-★ Stars: 1106
+★ Stars: 1107
 
 [Open repository](https://github.com/dotnet/installer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1107 | 422 | 
 | 2023-02-06 | 1106 | 422 | 
 | 2023-02-05 | 1105 | 422 | 
 | 2023-02-04 | 1105 | 422 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 1088 | 415 | 
 | 2023-01-11 | 1088 | 415 | 
 | 2023-01-10 | 1088 | 416 | 
-| 2023-01-09 | 1086 | 415 | 
 

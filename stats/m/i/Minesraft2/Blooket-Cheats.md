@@ -1,10 +1,10 @@
 # Minesraft2/Blooket-Cheats - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 374
+☋ Forks: 380
 
-★ Stars: 183
+★ Stars: 187
 
 [Open repository](https://github.com/Minesraft2/Blooket-Cheats)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 187 | 380 | 
 | 2023-02-06 | 183 | 374 | 
 | 2023-02-05 | 182 | 371 | 
 | 2023-02-04 | 182 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 104 | 179 | 
 | 2023-01-10 | 100 | 175 | 
 | 2023-01-09 | 100 | 172 | 
-| 2023-01-08 | 98 | 172 | 
 

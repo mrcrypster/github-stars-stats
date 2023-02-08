@@ -1,8 +1,8 @@
 # qbcore-framework/qb-radialmenu - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 251
+☋ Forks: 252
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 27 | 252 | 
 | 2023-02-06 | 27 | 251 | 
 | 2023-02-05 | 27 | 253 | 
 | 2023-02-04 | 27 | 254 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 27 | 250 | 
 | 2023-01-10 | 27 | 250 | 
 | 2023-01-09 | 27 | 249 | 
-| 2023-01-08 | 28 | 250 | 
 

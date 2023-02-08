@@ -1,10 +1,10 @@
 # ruby/rbs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 167
 
-★ Stars: 1633
+★ Stars: 1634
 
 [Open repository](https://github.com/ruby/rbs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1634 | 167 | 
 | 2023-02-06 | 1633 | 167 | 
 | 2023-02-05 | 1632 | 167 | 
 | 2023-02-04 | 1632 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1618 | 163 | 
 | 2023-01-10 | 1618 | 163 | 
 | 2023-01-09 | 1617 | 163 | 
-| 2023-01-08 | 1617 | 163 | 
 

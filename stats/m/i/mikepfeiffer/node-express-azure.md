@@ -1,6 +1,6 @@
 # mikepfeiffer/node-express-azure - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1463
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 32 | 1463 | 
 | 2023-02-06 | 32 | 1463 | 
 | 2023-02-05 | 32 | 1463 | 
 | 2023-02-04 | 32 | 1463 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 32 | 1462 | 
 | 2023-01-10 | 32 | 1462 | 
 | 2023-01-09 | 32 | 1462 | 
-| 2023-01-08 | 32 | 1462 | 
 

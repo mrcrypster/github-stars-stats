@@ -1,10 +1,10 @@
 # trinodb/trino - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2165
+☋ Forks: 2167
 
-★ Stars: 7165
+★ Stars: 7171
 
 [Open repository](https://github.com/trinodb/trino)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 7165 | 2165 | 
+| 2023-02-08 | 7171 | 2167 | 
+| 2023-02-07 | 7171 | 2167 | 
 | 2023-02-05 | 7155 | 2160 | 
 | 2023-02-04 | 7151 | 2158 | 
 | 2023-02-03 | 7143 | 2157 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 6991 | 2124 | 
 | 2023-01-10 | 6980 | 2123 | 
 | 2023-01-09 | 6973 | 2123 | 
-| 2023-01-08 | 6968 | 2121 | 
 

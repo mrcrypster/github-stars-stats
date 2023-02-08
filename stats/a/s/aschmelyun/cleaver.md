@@ -1,6 +1,6 @@
 # aschmelyun/cleaver - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 258 | 20 | 
 | 2023-02-06 | 258 | 20 | 
 | 2023-02-05 | 258 | 20 | 
 | 2023-02-04 | 258 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 253 | 19 | 
 | 2023-01-10 | 253 | 19 | 
 | 2023-01-09 | 253 | 19 | 
-| 2023-01-08 | 253 | 19 | 
 

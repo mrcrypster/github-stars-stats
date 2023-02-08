@@ -1,6 +1,6 @@
 # sainnhe/sonokai - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1120 | 98 | 
 | 2023-02-06 | 1120 | 98 | 
 | 2023-02-05 | 1117 | 98 | 
 | 2023-02-04 | 1116 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1086 | 98 | 
 | 2023-01-10 | 1087 | 98 | 
 | 2023-01-09 | 1086 | 98 | 
-| 2023-01-08 | 1083 | 98 | 
 

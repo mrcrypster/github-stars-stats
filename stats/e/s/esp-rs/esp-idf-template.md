@@ -1,6 +1,6 @@
 # esp-rs/esp-idf-template - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 153 | 17 | 
 | 2023-02-06 | 153 | 17 | 
 | 2023-02-05 | 153 | 17 | 
 | 2023-02-04 | 152 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 146 | 17 | 
 | 2023-01-10 | 141 | 17 | 
 | 2023-01-09 | 140 | 17 | 
-| 2023-01-08 | 140 | 17 | 
 

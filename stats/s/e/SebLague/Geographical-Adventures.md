@@ -1,10 +1,10 @@
 # SebLague/Geographical-Adventures - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 358
 
-★ Stars: 2696
+★ Stars: 2697
 
 [Open repository](https://github.com/SebLague/Geographical-Adventures)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2697 | 358 | 
 | 2023-02-06 | 2696 | 358 | 
 | 2023-02-05 | 2695 | 358 | 
 | 2023-02-04 | 2693 | 357 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2662 | 352 | 
 | 2023-01-10 | 2662 | 349 | 
 | 2023-01-09 | 2660 | 349 | 
-| 2023-01-08 | 2659 | 349 | 
 

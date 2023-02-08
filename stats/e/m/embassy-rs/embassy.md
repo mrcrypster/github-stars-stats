@@ -1,10 +1,10 @@
 # embassy-rs/embassy - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 200
+☋ Forks: 201
 
-★ Stars: 1498
+★ Stars: 1499
 
 [Open repository](https://github.com/embassy-rs/embassy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1499 | 201 | 
 | 2023-02-06 | 1498 | 200 | 
 | 2023-02-05 | 1492 | 198 | 
 | 2023-02-04 | 1489 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1422 | 184 | 
 | 2023-01-10 | 1418 | 183 | 
 | 2023-01-09 | 1401 | 183 | 
-| 2023-01-08 | 1388 | 182 | 
 

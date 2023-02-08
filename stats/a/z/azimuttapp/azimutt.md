@@ -1,10 +1,10 @@
 # azimuttapp/azimutt - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 36
 
-★ Stars: 461
+★ Stars: 464
 
 [Open repository](https://github.com/azimuttapp/azimutt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 464 | 36 | 
 | 2023-02-06 | 461 | 36 | 
 | 2023-02-05 | 458 | 36 | 
 | 2023-02-04 | 458 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 437 | 33 | 
 | 2023-01-10 | 437 | 33 | 
 | 2023-01-09 | 436 | 33 | 
-| 2023-01-08 | 435 | 33 | 
 

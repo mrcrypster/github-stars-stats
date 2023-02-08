@@ -1,6 +1,6 @@
 # octol/vim-cpp-enhanced-highlight - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1024 | 159 | 
 | 2023-02-06 | 1024 | 159 | 
 | 2023-02-05 | 1023 | 158 | 
 | 2023-02-04 | 1023 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1023 | 157 | 
 | 2023-01-10 | 1023 | 157 | 
 | 2023-01-09 | 1023 | 157 | 
-| 2023-01-08 | 1023 | 157 | 
 

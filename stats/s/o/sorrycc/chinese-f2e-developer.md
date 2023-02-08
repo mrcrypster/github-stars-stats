@@ -1,6 +1,6 @@
 # sorrycc/chinese-f2e-developer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 763 | 43 | 
 | 2023-02-06 | 763 | 43 | 
 | 2023-02-05 | 762 | 43 | 
 | 2023-02-04 | 762 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 756 | 43 | 
 | 2023-01-10 | 754 | 44 | 
 | 2023-01-09 | 754 | 44 | 
-| 2023-01-08 | 754 | 44 | 
 

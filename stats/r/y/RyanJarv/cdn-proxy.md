@@ -1,10 +1,10 @@
 # RyanJarv/cdn-proxy - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 22
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/RyanJarv/cdn-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 191 | 22 | 
 | 2023-02-06 | 190 | 22 | 
 | 2023-02-05 | 190 | 22 | 
 | 2023-02-04 | 190 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 189 | 22 | 
 | 2023-01-10 | 189 | 22 | 
 | 2023-01-09 | 189 | 22 | 
-| 2023-01-08 | 189 | 22 | 
 

@@ -1,6 +1,6 @@
 # BivinSadler/MSDS_6371_Stat_Foundations - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 27 | 63 | 
 | 2023-02-06 | 27 | 63 | 
 | 2023-02-05 | 27 | 63 | 
 | 2023-02-04 | 27 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 27 | 60 | 
 | 2023-01-10 | 27 | 60 | 
 | 2023-01-09 | 27 | 60 | 
-| 2023-01-08 | 27 | 60 | 
 

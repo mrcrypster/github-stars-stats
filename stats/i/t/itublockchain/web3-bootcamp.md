@@ -1,10 +1,10 @@
 # itublockchain/web3-bootcamp - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 59
 
-★ Stars: 231
+★ Stars: 230
 
 [Open repository](https://github.com/itublockchain/web3-bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 230 | 59 | 
 | 2023-02-06 | 231 | 59 | 
 | 2023-02-05 | 230 | 59 | 
 | 2023-02-04 | 230 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 226 | 53 | 
 | 2023-01-11 | 226 | 53 | 
 | 2023-01-10 | 226 | 53 | 
-| 2023-01-08 | 226 | 53 | 
 

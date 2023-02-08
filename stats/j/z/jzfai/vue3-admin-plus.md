@@ -1,10 +1,10 @@
 # jzfai/vue3-admin-plus - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 148
+☋ Forks: 149
 
-★ Stars: 640
+★ Stars: 642
 
 [Open repository](https://github.com/jzfai/vue3-admin-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 642 | 149 | 
 | 2023-02-06 | 640 | 148 | 
 | 2023-02-05 | 638 | 147 | 
 | 2023-02-04 | 638 | 147 | 

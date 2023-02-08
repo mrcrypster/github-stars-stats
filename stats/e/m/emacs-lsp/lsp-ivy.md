@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-ivy - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 124 | 17 | 
 | 2023-02-06 | 124 | 17 | 
 | 2023-02-05 | 124 | 17 | 
 | 2023-02-04 | 124 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 123 | 17 | 
 | 2023-01-10 | 122 | 17 | 
 | 2023-01-09 | 122 | 17 | 
-| 2023-01-08 | 122 | 17 | 
 

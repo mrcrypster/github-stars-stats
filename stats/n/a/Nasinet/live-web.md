@@ -1,10 +1,10 @@
 # Nasinet/live-web - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 44
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/Nasinet/live-web)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 147 | 44 | 
 | 2023-02-06 | 146 | 44 | 
 | 2023-02-05 | 146 | 44 | 
 | 2023-02-04 | 146 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 145 | 43 | 
 | 2023-01-11 | 145 | 43 | 
 | 2023-01-10 | 145 | 43 | 
-| 2023-01-08 | 145 | 43 | 
 

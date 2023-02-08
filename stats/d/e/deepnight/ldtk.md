@@ -1,10 +1,10 @@
 # deepnight/ldtk - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 138
 
-★ Stars: 2382
+★ Stars: 2383
 
 [Open repository](https://github.com/deepnight/ldtk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2383 | 138 | 
 | 2023-02-06 | 2382 | 138 | 
 | 2023-02-05 | 2382 | 138 | 
 | 2023-02-04 | 2379 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2320 | 134 | 
 | 2023-01-10 | 2319 | 134 | 
 | 2023-01-09 | 2315 | 134 | 
-| 2023-01-08 | 2312 | 133 | 
 

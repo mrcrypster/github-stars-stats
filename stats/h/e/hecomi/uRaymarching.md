@@ -1,10 +1,10 @@
 # hecomi/uRaymarching - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 124
 
-★ Stars: 1146
+★ Stars: 1147
 
 [Open repository](https://github.com/hecomi/uRaymarching)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1147 | 124 | 
 | 2023-02-06 | 1146 | 124 | 
 | 2023-02-05 | 1145 | 124 | 
 | 2023-02-04 | 1144 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1128 | 120 | 
 | 2023-01-10 | 1128 | 120 | 
 | 2023-01-09 | 1128 | 120 | 
-| 2023-01-08 | 1128 | 120 | 
 

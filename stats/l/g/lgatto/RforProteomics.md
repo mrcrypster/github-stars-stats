@@ -1,10 +1,10 @@
 # lgatto/RforProteomics - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 33
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/lgatto/RforProteomics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 68 | 33 | 
 | 2023-02-06 | 67 | 33 | 
 | 2023-02-05 | 67 | 33 | 
 | 2023-02-04 | 67 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 66 | 33 | 
 | 2023-01-10 | 66 | 33 | 
 | 2023-01-09 | 66 | 33 | 
-| 2023-01-08 | 66 | 33 | 
 

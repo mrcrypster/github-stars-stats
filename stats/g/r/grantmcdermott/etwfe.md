@@ -1,6 +1,6 @@
 # grantmcdermott/etwfe - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 31 | 8 | 
 | 2023-02-06 | 31 | 8 | 
 | 2023-02-05 | 31 | 8 | 
 | 2023-02-04 | 31 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 29 | 6 | 
 | 2023-01-11 | 29 | 6 | 
 | 2023-01-09 | 29 | 6 | 
-| 2023-01-08 | 29 | 6 | 
 

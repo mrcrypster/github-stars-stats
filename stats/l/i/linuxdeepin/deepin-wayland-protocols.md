@@ -1,8 +1,8 @@
 # linuxdeepin/deepin-wayland-protocols - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2 | 3 | 
 | 2023-02-06 | 2 | 2 | 
 | 2023-02-05 | 2 | 2 | 
 | 2023-02-04 | 2 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2 | 2 | 
 | 2023-01-10 | 1 | 2 | 
 | 2023-01-09 | 1 | 1 | 
-| 2023-01-08 | 1 | - | 
 

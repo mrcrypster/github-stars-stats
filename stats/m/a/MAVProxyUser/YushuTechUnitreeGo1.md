@@ -1,10 +1,10 @@
 # MAVProxyUser/YushuTechUnitreeGo1 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 16
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/MAVProxyUser/YushuTechUnitreeGo1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 93 | 16 | 
 | 2023-02-06 | 92 | 16 | 
 | 2023-02-05 | 91 | 16 | 
 | 2023-02-04 | 90 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 80 | 13 | 
 | 2023-01-10 | 78 | 13 | 
 | 2023-01-09 | 77 | 13 | 
-| 2023-01-08 | 76 | 12 | 
 

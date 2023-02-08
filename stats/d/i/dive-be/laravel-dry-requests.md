@@ -1,8 +1,8 @@
 # dive-be/laravel-dry-requests - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 204
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 204 | 4 | 
 | 2023-02-06 | 204 | 3 | 
 | 2023-02-05 | 203 | 3 | 
 | 2023-02-04 | 203 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 202 | 3 | 
 | 2023-01-10 | 202 | 3 | 
 | 2023-01-09 | 202 | 3 | 
-| 2023-01-08 | 202 | 3 | 
 

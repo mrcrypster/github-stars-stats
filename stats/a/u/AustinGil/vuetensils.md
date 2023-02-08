@@ -1,10 +1,10 @@
 # AustinGil/vuetensils - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 40
 
-★ Stars: 624
+★ Stars: 625
 
 [Open repository](https://github.com/AustinGil/vuetensils)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 625 | 40 | 
 | 2023-02-06 | 624 | 40 | 
 | 2023-02-05 | 623 | 40 | 
 | 2023-02-04 | 623 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 621 | 40 | 
 | 2023-01-10 | 620 | 40 | 
 | 2023-01-09 | 620 | 40 | 
-| 2023-01-08 | 618 | 40 | 
 

@@ -1,10 +1,10 @@
 # lambdalisue/fern-renderer-nerdfont.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/lambdalisue/fern-renderer-nerdfont.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 62 | 5 | 
 | 2023-02-05 | 61 | 5 | 
 | 2023-02-04 | 61 | 5 | 
 | 2023-02-03 | 61 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 59 | 5 | 
 | 2023-01-10 | 59 | 5 | 
 | 2023-01-09 | 59 | 5 | 
-| 2023-01-08 | 59 | 5 | 
 

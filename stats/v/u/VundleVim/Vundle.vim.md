@@ -1,10 +1,10 @@
 # VundleVim/Vundle.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2569
+☋ Forks: 2570
 
-★ Stars: 23408
+★ Stars: 23410
 
 [Open repository](https://github.com/VundleVim/Vundle.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 23410 | 2570 | 
 | 2023-02-06 | 23408 | 2569 | 
 | 2023-02-05 | 23408 | 2569 | 
 | 2023-02-04 | 23410 | 2569 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 23386 | 2567 | 
 | 2023-01-10 | 23389 | 2565 | 
 | 2023-01-09 | 23386 | 2565 | 
-| 2023-01-08 | 23385 | 2565 | 
 

@@ -1,10 +1,10 @@
 # elm/compiler - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 648
 
-★ Stars: 7099
+★ Stars: 7101
 
 [Open repository](https://github.com/elm/compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 7101 | 648 | 
 | 2023-02-06 | 7099 | 648 | 
 | 2023-02-05 | 7097 | 648 | 
 | 2023-02-04 | 7095 | 646 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 7071 | 645 | 
 | 2023-01-10 | 7070 | 642 | 
 | 2023-01-09 | 7064 | 643 | 
-| 2023-01-08 | 7064 | 643 | 
 

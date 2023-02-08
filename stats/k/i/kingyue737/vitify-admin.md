@@ -1,6 +1,6 @@
 # kingyue737/vitify-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 64 | 9 | 
 | 2023-02-06 | 64 | 9 | 
 | 2023-02-05 | 64 | 9 | 
 | 2023-02-04 | 64 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 60 | 9 | 
 | 2023-01-10 | 60 | 9 | 
 | 2023-01-09 | 58 | 9 | 
-| 2023-01-08 | 58 | 9 | 
 

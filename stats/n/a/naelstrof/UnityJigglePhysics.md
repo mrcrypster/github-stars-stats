@@ -1,10 +1,10 @@
 # naelstrof/UnityJigglePhysics - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/naelstrof/UnityJigglePhysics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 139 | 15 | 
 | 2023-02-06 | 138 | 15 | 
 | 2023-02-05 | 138 | 15 | 
 | 2023-02-03 | 138 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 135 | 15 | 
 | 2023-01-10 | 135 | 15 | 
 | 2023-01-09 | 134 | 15 | 
-| 2023-01-08 | 134 | 15 | 
 

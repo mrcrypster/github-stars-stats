@@ -1,10 +1,10 @@
 # mrdbourke/machine-learning-roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 1030
+☋ Forks: 1031
 
-★ Stars: 6182
+★ Stars: 6183
 
 [Open repository](https://github.com/mrdbourke/machine-learning-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 6183 | 1031 | 
 | 2023-02-06 | 6182 | 1030 | 
 | 2023-02-05 | 6181 | 1031 | 
 | 2023-02-04 | 6176 | 1031 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 6110 | 1023 | 
 | 2023-01-10 | 6109 | 1023 | 
 | 2023-01-09 | 6104 | 1022 | 
-| 2023-01-08 | 6095 | 1020 | 
 

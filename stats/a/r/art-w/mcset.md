@@ -1,10 +1,10 @@
 # art-w/mcset - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/art-w/mcset)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 31 | - | 
 | 2023-02-06 | 30 | - | 
 | 2023-02-05 | 30 | - | 
 | 2023-02-04 | 30 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 28 | - | 
 | 2023-01-10 | 28 | - | 
 | 2023-01-09 | 28 | - | 
-| 2023-01-08 | 28 | - | 
 

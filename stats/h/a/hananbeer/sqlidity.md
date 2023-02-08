@@ -1,6 +1,6 @@
 # hananbeer/sqlidity - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 94 | 4 | 
 | 2023-02-06 | 94 | 4 | 
 | 2023-02-05 | 92 | 4 | 
 | 2023-02-04 | 92 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 91 | 4 | 
 | 2023-01-10 | 91 | 4 | 
 | 2023-01-09 | 91 | 4 | 
-| 2023-01-08 | 91 | 4 | 
 

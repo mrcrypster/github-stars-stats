@@ -1,6 +1,6 @@
 # HEP-FCC/FCC-config - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1 | 12 | 
 | 2023-02-07 | 1 | 12 | 
 | 2023-02-05 | 1 | 12 | 
 | 2023-02-04 | 1 | 12 | 

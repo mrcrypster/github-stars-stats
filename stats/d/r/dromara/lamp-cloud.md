@@ -1,6 +1,6 @@
 # dromara/lamp-cloud - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1543
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4732 | 1543 | 
 | 2023-02-06 | 4732 | 1543 | 
 | 2023-02-05 | 4730 | 1541 | 
 | 2023-02-04 | 4729 | 1541 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 4701 | 1536 | 
 | 2023-01-10 | 4698 | 1536 | 
 | 2023-01-09 | 4699 | 1536 | 
-| 2023-01-08 | 4696 | 1536 | 
 

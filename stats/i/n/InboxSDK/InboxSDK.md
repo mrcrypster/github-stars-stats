@@ -1,10 +1,10 @@
 # InboxSDK/InboxSDK - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 22
 
-★ Stars: 602
+★ Stars: 603
 
 [Open repository](https://github.com/InboxSDK/InboxSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 603 | 22 | 
 | 2023-02-06 | 602 | 22 | 
 | 2023-02-05 | 602 | 22 | 
 | 2023-02-03 | 602 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 592 | 22 | 
 | 2023-01-10 | 592 | 22 | 
 | 2023-01-09 | 588 | 22 | 
-| 2023-01-08 | 586 | 22 | 
 

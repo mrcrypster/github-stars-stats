@@ -1,6 +1,6 @@
 # bigskysoftware/missing - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 203 | 7 | 
 | 2023-02-06 | 203 | 7 | 
 | 2023-02-05 | 203 | 7 | 
 | 2023-02-04 | 203 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 196 | 7 | 
 | 2023-01-11 | 196 | 7 | 
 | 2023-01-10 | 195 | 7 | 
-| 2023-01-08 | 193 | 7 | 
 

@@ -1,10 +1,10 @@
 # LukeMathWalker/pavex - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 359
+★ Stars: 365
 
 [Open repository](https://github.com/LukeMathWalker/pavex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 365 | 6 | 
 | 2023-02-06 | 359 | 6 | 
 | 2023-02-05 | 358 | 6 | 
 | 2023-02-04 | 358 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 340 | 6 | 
 | 2023-01-10 | 337 | 6 | 
 | 2023-01-09 | 335 | 6 | 
-| 2023-01-08 | 334 | 6 | 
 

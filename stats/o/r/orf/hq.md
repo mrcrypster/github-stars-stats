@@ -1,6 +1,6 @@
 # orf/hq - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 524 | 4 | 
 | 2023-02-06 | 524 | 4 | 
 | 2023-02-05 | 523 | 4 | 
 | 2023-02-04 | 523 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 512 | 3 | 
 | 2023-01-10 | 512 | 3 | 
 | 2023-01-09 | 512 | 3 | 
-| 2023-01-08 | 512 | 2 | 
 

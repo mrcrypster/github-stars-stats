@@ -1,6 +1,6 @@
 # racket/rackunit - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 16 | 24 | 
 | 2023-02-06 | 16 | 24 | 
 | 2023-02-05 | 16 | 24 | 
 | 2023-02-04 | 15 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 15 | 24 | 
 | 2023-01-10 | 15 | 24 | 
 | 2023-01-09 | 15 | 24 | 
-| 2023-01-08 | 15 | 24 | 
 

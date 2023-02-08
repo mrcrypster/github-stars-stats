@@ -1,10 +1,10 @@
 # FaridSafi/react-native-gifted-chat - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3445
 
-★ Stars: 12172
+★ Stars: 12177
 
 [Open repository](https://github.com/FaridSafi/react-native-gifted-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 12177 | 3445 | 
 | 2023-02-06 | 12172 | 3445 | 
 | 2023-02-05 | 12172 | 3445 | 
 | 2023-02-04 | 12171 | 3445 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 12129 | 3430 | 
 | 2023-01-10 | 12124 | 3430 | 
 | 2023-01-09 | 12122 | 3429 | 
-| 2023-01-08 | 12116 | 3428 | 
 

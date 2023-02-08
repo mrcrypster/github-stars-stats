@@ -1,10 +1,10 @@
 # safing/portmaster - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 179
 
-★ Stars: 6150
+★ Stars: 6156
 
 [Open repository](https://github.com/safing/portmaster)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 6156 | 179 | 
 | 2023-02-06 | 6150 | 179 | 
 | 2023-02-05 | 6147 | 179 | 
 | 2023-02-04 | 6145 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 5992 | 173 | 
 | 2023-01-10 | 5991 | 173 | 
 | 2023-01-09 | 5994 | 174 | 
-| 2023-01-08 | 5989 | 174 | 
 

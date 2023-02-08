@@ -1,6 +1,6 @@
 # bp2008/BetterClearTypeTuner - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 436 | 12 | 
 | 2023-02-06 | 436 | 12 | 
 | 2023-02-05 | 435 | 12 | 
 | 2023-02-04 | 432 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 416 | 12 | 
 | 2023-01-11 | 415 | 12 | 
 | 2023-01-10 | 414 | 12 | 
-| 2023-01-09 | 409 | 12 | 
 

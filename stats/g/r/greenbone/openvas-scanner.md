@@ -1,10 +1,10 @@
 # greenbone/openvas-scanner - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 486
+☋ Forks: 487
 
-★ Stars: 2002
+★ Stars: 2008
 
 [Open repository](https://github.com/greenbone/openvas-scanner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2008 | 487 | 
 | 2023-02-06 | 2002 | 486 | 
 | 2023-02-05 | 2000 | 486 | 
 | 2023-02-04 | 1999 | 486 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1967 | 476 | 
 | 2023-01-10 | 1966 | 476 | 
 | 2023-01-09 | 1964 | 474 | 
-| 2023-01-08 | 1961 | 474 | 
 

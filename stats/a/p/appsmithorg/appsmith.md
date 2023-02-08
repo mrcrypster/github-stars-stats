@@ -1,10 +1,10 @@
 # appsmithorg/appsmith - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2211
+☋ Forks: 2218
 
-★ Stars: 24634
+★ Stars: 24670
 
 [Open repository](https://github.com/appsmithorg/appsmith)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 24670 | 2218 | 
 | 2023-02-06 | 24634 | 2211 | 
 | 2023-02-05 | 24603 | 2208 | 
 | 2023-02-04 | 24594 | 2208 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 24144 | 2151 | 
 | 2023-01-10 | 24111 | 2144 | 
 | 2023-01-09 | 24084 | 2140 | 
-| 2023-01-08 | 24066 | 2137 | 
 

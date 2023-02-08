@@ -1,10 +1,10 @@
 # 0xbug/Hawkeye - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 595
 
-★ Stars: 1864
+★ Stars: 1865
 
 [Open repository](https://github.com/0xbug/Hawkeye)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1865 | 595 | 
 | 2023-02-06 | 1864 | 595 | 
 | 2023-02-05 | 1864 | 595 | 
 | 2023-02-03 | 1864 | 595 | 

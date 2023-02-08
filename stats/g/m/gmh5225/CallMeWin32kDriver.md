@@ -1,6 +1,6 @@
 # gmh5225/CallMeWin32kDriver - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 179 | 64 | 
 | 2023-02-06 | 179 | 64 | 
 | 2023-02-05 | 179 | 64 | 
 | 2023-02-04 | 179 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 178 | 65 | 
 | 2023-01-10 | 178 | 65 | 
 | 2023-01-09 | 178 | 65 | 
-| 2023-01-08 | 178 | 65 | 
 

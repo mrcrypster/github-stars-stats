@@ -1,10 +1,10 @@
 # reasonml/reason - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 445
+☋ Forks: 444
 
-★ Stars: 9796
+★ Stars: 9798
 
 [Open repository](https://github.com/reasonml/reason)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 9798 | 444 | 
 | 2023-02-06 | 9796 | 445 | 
 | 2023-02-05 | 9795 | 445 | 
 | 2023-02-04 | 9796 | 445 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 9784 | 443 | 
 | 2023-01-10 | 9783 | 443 | 
 | 2023-01-09 | 9780 | 443 | 
-| 2023-01-08 | 9778 | 443 | 
 

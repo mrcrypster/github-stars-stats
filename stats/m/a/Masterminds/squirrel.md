@@ -1,10 +1,10 @@
 # Masterminds/squirrel - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 418
 
-★ Stars: 5512
+★ Stars: 5514
 
 [Open repository](https://github.com/Masterminds/squirrel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 5514 | 418 | 
 | 2023-02-06 | 5512 | 418 | 
 | 2023-02-05 | 5510 | 419 | 
 | 2023-02-04 | 5507 | 419 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 5448 | 413 | 
 | 2023-01-10 | 5446 | 413 | 
 | 2023-01-09 | 5445 | 412 | 
-| 2023-01-08 | 5444 | 412 | 
 

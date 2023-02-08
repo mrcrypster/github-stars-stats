@@ -1,6 +1,6 @@
 # JSorngard/cosmic_ray_detection - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 105 | 4 | 
 | 2023-02-06 | 105 | 4 | 
 | 2023-02-05 | 105 | 3 | 
 | 2023-02-04 | 105 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 107 | 3 | 
 | 2023-01-10 | 107 | 3 | 
 | 2023-01-09 | 107 | 3 | 
-| 2023-01-08 | 106 | 3 | 
 

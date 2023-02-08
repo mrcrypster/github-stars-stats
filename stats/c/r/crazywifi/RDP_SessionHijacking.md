@@ -1,6 +1,6 @@
 # crazywifi/RDP_SessionHijacking - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 258
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 57 | 258 | 
 | 2023-02-06 | 57 | 258 | 
 | 2023-02-05 | 57 | 257 | 
 | 2023-02-04 | 57 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 57 | 247 | 
 | 2023-01-10 | 57 | 247 | 
 | 2023-01-09 | 57 | 247 | 
-| 2023-01-08 | 57 | 246 | 
 

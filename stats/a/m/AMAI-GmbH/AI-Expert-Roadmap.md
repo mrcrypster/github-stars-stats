@@ -1,10 +1,10 @@
 # AMAI-GmbH/AI-Expert-Roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2080
 
-★ Stars: 23703
+★ Stars: 23720
 
 [Open repository](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 23720 | 2080 | 
 | 2023-02-06 | 23703 | 2080 | 
 | 2023-02-05 | 23687 | 2080 | 
 | 2023-02-03 | 23680 | 2077 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 23425 | 2064 | 
 | 2023-01-10 | 23413 | 2062 | 
 | 2023-01-09 | 23397 | 2062 | 
-| 2023-01-08 | 23378 | 2063 | 
 

@@ -1,8 +1,8 @@
 # vveg26/share - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 7 | 8 | 
 | 2023-02-06 | 7 | 7 | 
 | 2023-02-05 | 7 | 7 | 
 | 2023-02-03 | 7 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 5 | 6 | 
 | 2023-01-10 | 5 | 5 | 
 | 2023-01-09 | 5 | 5 | 
-| 2023-01-08 | 5 | 6 | 
 

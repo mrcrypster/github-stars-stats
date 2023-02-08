@@ -1,6 +1,6 @@
 # jmascia/KLCPopup - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1698 | 238 | 
 | 2023-02-06 | 1698 | 238 | 
 | 2023-02-05 | 1698 | 238 | 
 | 2023-02-04 | 1699 | 238 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 1700 | 238 | 
 | 2023-01-11 | 1700 | 238 | 
 | 2023-01-10 | 1700 | 238 | 
-| 2023-01-09 | 1700 | 238 | 
 

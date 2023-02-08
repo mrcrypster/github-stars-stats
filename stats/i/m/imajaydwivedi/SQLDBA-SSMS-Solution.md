@@ -1,10 +1,10 @@
 # imajaydwivedi/SQLDBA-SSMS-Solution - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 35
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/imajaydwivedi/SQLDBA-SSMS-Solution)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 41 | 35 | 
 | 2023-02-06 | 40 | 35 | 
 | 2023-02-05 | 40 | 35 | 
 | 2023-02-04 | 40 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 40 | 35 | 
 | 2023-01-11 | 40 | 35 | 
 | 2023-01-10 | 40 | 35 | 
-| 2023-01-08 | 40 | 35 | 
 

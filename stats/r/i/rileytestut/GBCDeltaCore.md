@@ -1,8 +1,8 @@
 # rileytestut/GBCDeltaCore - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 21 | 5 | 
 | 2023-02-06 | 21 | 4 | 
 | 2023-02-05 | 21 | 4 | 
 | 2023-02-04 | 21 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 20 | 4 | 
 | 2023-01-10 | 20 | 4 | 
 | 2023-01-09 | 20 | 4 | 
-| 2023-01-08 | 20 | 4 | 
 

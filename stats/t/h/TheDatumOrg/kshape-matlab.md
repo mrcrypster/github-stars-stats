@@ -1,6 +1,6 @@
 # TheDatumOrg/kshape-matlab - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 51 | 47 | 
 | 2023-02-06 | 51 | 47 | 
 | 2023-02-05 | 51 | 47 | 
 | 2023-02-04 | 51 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 50 | 47 | 
 | 2023-01-10 | 50 | 48 | 
 | 2023-01-09 | 50 | 48 | 
-| 2023-01-08 | 50 | 48 | 
 

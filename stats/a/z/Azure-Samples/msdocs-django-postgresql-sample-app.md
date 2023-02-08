@@ -1,8 +1,8 @@
 # Azure-Samples/msdocs-django-postgresql-sample-app - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 155
+☋ Forks: 157
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11 | 157 | 
 | 2023-02-06 | 11 | 155 | 
 | 2023-02-05 | 10 | 153 | 
 | 2023-02-04 | 10 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 9 | 125 | 
 | 2023-01-10 | 9 | 123 | 
 | 2023-01-09 | 9 | 123 | 
-| 2023-01-08 | 9 | 123 | 
 

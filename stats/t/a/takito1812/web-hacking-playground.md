@@ -1,6 +1,6 @@
 # takito1812/web-hacking-playground - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 97 | 15 | 
 | 2023-02-06 | 97 | 15 | 
 | 2023-02-05 | 97 | 15 | 
 | 2023-02-04 | 97 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 90 | 16 | 
 | 2023-01-10 | 90 | 16 | 
 | 2023-01-09 | 90 | 16 | 
-| 2023-01-08 | 90 | 15 | 
 

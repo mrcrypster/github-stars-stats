@@ -1,6 +1,6 @@
 # yegappan/lsp - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 200 | 17 | 
 | 2023-02-06 | 200 | 17 | 
 | 2023-02-05 | 199 | 17 | 
 | 2023-02-04 | 198 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 192 | 17 | 
 | 2023-01-10 | 191 | 17 | 
 | 2023-01-09 | 191 | 17 | 
-| 2023-01-08 | 189 | 17 | 
 

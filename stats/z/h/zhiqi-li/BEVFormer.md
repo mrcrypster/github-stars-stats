@@ -1,8 +1,8 @@
 # zhiqi-li/BEVFormer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4 | 1 | 
 | 2023-02-06 | 4 | - | 
 | 2023-02-05 | 4 | - | 
 | 2023-02-04 | 4 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2 | - | 
 | 2023-01-10 | 2 | - | 
 | 2023-01-09 | 2 | - | 
-| 2023-01-08 | 2 | - | 
 

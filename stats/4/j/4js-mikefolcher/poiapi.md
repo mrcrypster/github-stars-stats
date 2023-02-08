@@ -1,8 +1,8 @@
 # 4js-mikefolcher/poiapi - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | - | 6 | 
 | 2023-02-06 | - | 5 | 
 | 2023-02-05 | - | 5 | 
 | 2023-02-04 | - | 5 | 

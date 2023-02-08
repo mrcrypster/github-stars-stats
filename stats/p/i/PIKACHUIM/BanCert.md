@@ -1,6 +1,6 @@
 # PIKACHUIM/BanCert - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 125 | 6 | 
 | 2023-02-06 | 125 | 6 | 
 | 2023-02-05 | 125 | 6 | 
 | 2023-02-04 | 125 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 122 | 6 | 
 | 2023-01-10 | 122 | 6 | 
 | 2023-01-09 | 122 | 6 | 
-| 2023-01-08 | 122 | 6 | 
 

@@ -1,10 +1,10 @@
 # basecamp/trix - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1060
 
-★ Stars: 17403
+★ Stars: 17407
 
 [Open repository](https://github.com/basecamp/trix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 17407 | 1060 | 
 | 2023-02-06 | 17403 | 1060 | 
 | 2023-02-05 | 17403 | 1060 | 
 | 2023-02-04 | 17404 | 1060 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 17338 | 1056 | 
 | 2023-01-10 | 17332 | 1056 | 
 | 2023-01-09 | 17331 | 1056 | 
-| 2023-01-08 | 17329 | 1056 | 
 

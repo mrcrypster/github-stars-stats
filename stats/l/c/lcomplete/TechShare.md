@@ -1,10 +1,10 @@
 # lcomplete/TechShare - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 67
 
-★ Stars: 663
+★ Stars: 662
 
 [Open repository](https://github.com/lcomplete/TechShare)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 662 | 67 | 
 | 2023-02-06 | 663 | 67 | 
 | 2023-02-05 | 662 | 67 | 
 | 2023-02-04 | 661 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 656 | 66 | 
 | 2023-01-10 | 656 | 66 | 
 | 2023-01-09 | 657 | 66 | 
-| 2023-01-08 | 657 | 66 | 
 

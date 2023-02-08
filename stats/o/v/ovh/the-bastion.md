@@ -1,10 +1,10 @@
 # ovh/the-bastion - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 72
 
-★ Stars: 1187
+★ Stars: 1188
 
 [Open repository](https://github.com/ovh/the-bastion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1188 | 72 | 
 | 2023-02-06 | 1187 | 72 | 
 | 2023-02-05 | 1186 | 72 | 
 | 2023-02-04 | 1186 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1173 | 71 | 
 | 2023-01-10 | 1173 | 71 | 
 | 2023-01-09 | 1173 | 71 | 
-| 2023-01-08 | 1173 | 71 | 
 

@@ -1,6 +1,6 @@
 # jgm/djot - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1152 | 30 | 
 | 2023-02-06 | 1152 | 30 | 
 | 2023-02-05 | 1153 | 30 | 
 | 2023-02-04 | 1153 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1126 | 30 | 
 | 2023-01-10 | 1126 | 30 | 
 | 2023-01-09 | 1125 | 30 | 
-| 2023-01-08 | 1124 | 30 | 
 

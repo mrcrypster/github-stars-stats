@@ -1,10 +1,10 @@
 # Reference-LAPACK/lapack - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 346
+☋ Forks: 347
 
-★ Stars: 1081
+★ Stars: 1082
 
 [Open repository](https://github.com/Reference-LAPACK/lapack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1082 | 347 | 
 | 2023-02-06 | 1081 | 346 | 
 | 2023-02-05 | 1080 | 346 | 
 | 2023-02-03 | 1080 | 346 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 1066 | 342 | 
 | 2023-01-11 | 1066 | 342 | 
 | 2023-01-09 | 1066 | 342 | 
-| 2023-01-08 | 1066 | 341 | 
 

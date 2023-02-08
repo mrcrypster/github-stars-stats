@@ -1,6 +1,6 @@
 # farag2/Office - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 100 | 18 | 
 | 2023-02-06 | 100 | 18 | 
 | 2023-02-05 | 98 | 18 | 
 | 2023-02-04 | 98 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 97 | 15 | 
 | 2023-01-10 | 96 | 15 | 
 | 2023-01-09 | 96 | 15 | 
-| 2023-01-08 | 96 | 15 | 
 

@@ -1,10 +1,10 @@
 # timacdonald/json-api - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 24
 
-★ Stars: 291
+★ Stars: 295
 
 [Open repository](https://github.com/timacdonald/json-api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 295 | 24 | 
 | 2023-02-06 | 291 | 24 | 
 | 2023-02-05 | 283 | 24 | 
 | 2023-02-04 | 282 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 242 | 19 | 
 | 2023-01-11 | 242 | 19 | 
 | 2023-01-09 | 241 | 19 | 
-| 2023-01-08 | 241 | 19 | 
 

@@ -1,10 +1,10 @@
 # layou233/NeverIdle - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 58
+☋ Forks: 62
 
-★ Stars: 197
+★ Stars: 206
 
 [Open repository](https://github.com/layou233/NeverIdle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 206 | 62 | 
 | 2023-02-06 | 197 | 58 | 
 | 2023-02-05 | 186 | 52 | 
 | 2023-02-04 | 180 | 47 | 

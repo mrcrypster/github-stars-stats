@@ -1,10 +1,10 @@
 # team-alembic/ash_authentication - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 8
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/team-alembic/ash_authentication)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 37 | 8 | 
 | 2023-02-06 | 36 | 8 | 
 | 2023-02-05 | 36 | 7 | 
 | 2023-02-04 | 36 | 7 | 

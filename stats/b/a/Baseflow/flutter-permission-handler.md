@@ -1,6 +1,6 @@
 # Baseflow/flutter-permission-handler - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 672
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1723 | 672 | 
 | 2023-02-06 | 1723 | 672 | 
 | 2023-02-05 | 1721 | 672 | 
 | 2023-02-04 | 1721 | 673 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1709 | 670 | 
 | 2023-01-10 | 1709 | 670 | 
 | 2023-01-09 | 1709 | 670 | 
-| 2023-01-08 | 1709 | 670 | 
 

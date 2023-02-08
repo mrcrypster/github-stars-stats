@@ -1,10 +1,10 @@
 # rjp5th/SWTPCSequencer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/rjp5th/SWTPCSequencer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 24 | - | 
 | 2023-02-06 | 23 | - | 
 | 2023-02-05 | 23 | - | 
 | 2023-02-04 | 23 | - | 

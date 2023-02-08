@@ -1,6 +1,6 @@
 # dievus/lnkbomb - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 223 | 45 | 
 | 2023-02-06 | 223 | 45 | 
 | 2023-02-05 | 223 | 45 | 
 | 2023-02-04 | 223 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 217 | 44 | 
 | 2023-01-10 | 217 | 44 | 
 | 2023-01-09 | 217 | 44 | 
-| 2023-01-08 | 216 | 44 | 
 

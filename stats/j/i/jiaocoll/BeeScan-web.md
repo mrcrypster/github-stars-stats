@@ -1,10 +1,10 @@
 # jiaocoll/BeeScan-web - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 44
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/jiaocoll/BeeScan-web)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 277 | 44 | 
 | 2023-02-06 | 276 | 44 | 
 | 2023-02-05 | 276 | 43 | 
 | 2023-02-04 | 276 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 273 | 43 | 
 | 2023-01-10 | 273 | 43 | 
 | 2023-01-09 | 273 | 43 | 
-| 2023-01-08 | 272 | 43 | 
 

@@ -1,10 +1,10 @@
 # linux-nvme/nvme-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 554
+☋ Forks: 553
 
-★ Stars: 1121
+★ Stars: 1122
 
 [Open repository](https://github.com/linux-nvme/nvme-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1122 | 553 | 
 | 2023-02-06 | 1121 | 554 | 
 | 2023-02-05 | 1121 | 554 | 
 | 2023-02-04 | 1119 | 553 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1096 | 547 | 
 | 2023-01-10 | 1095 | 547 | 
 | 2023-01-09 | 1092 | 546 | 
-| 2023-01-08 | 1092 | 546 | 
 

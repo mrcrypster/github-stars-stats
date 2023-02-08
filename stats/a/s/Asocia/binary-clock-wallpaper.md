@@ -1,10 +1,10 @@
 # Asocia/binary-clock-wallpaper - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 103
+★ Stars: 102
 
 [Open repository](https://github.com/Asocia/binary-clock-wallpaper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 102 | 5 | 
 | 2023-02-06 | 103 | 5 | 
 | 2023-02-05 | 103 | 5 | 
 | 2023-02-04 | 103 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 103 | 5 | 
 | 2023-01-10 | 103 | 5 | 
 | 2023-01-09 | 103 | 5 | 
-| 2023-01-08 | 103 | 5 | 
 

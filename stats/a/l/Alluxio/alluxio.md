@@ -1,10 +1,10 @@
 # Alluxio/alluxio - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2786
+☋ Forks: 2787
 
-★ Stars: 6076
+★ Stars: 6078
 
 [Open repository](https://github.com/Alluxio/alluxio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 6078 | 2787 | 
 | 2023-02-06 | 6076 | 2786 | 
 | 2023-02-05 | 6070 | 2786 | 
 | 2023-02-04 | 6069 | 2786 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 6043 | 2783 | 
 | 2023-01-10 | 6042 | 2783 | 
 | 2023-01-09 | 6041 | 2783 | 
-| 2023-01-08 | 6037 | 2783 | 
 

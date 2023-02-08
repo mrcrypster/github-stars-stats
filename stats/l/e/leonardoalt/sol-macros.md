@@ -1,10 +1,10 @@
 # leonardoalt/sol-macros - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/leonardoalt/sol-macros)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 30 | 1 | 
 | 2023-02-06 | 29 | 1 | 
 | 2023-02-05 | 29 | 1 | 
 | 2023-02-04 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 28 | 1 | 
 | 2023-01-10 | 28 | 1 | 
 | 2023-01-09 | 28 | 1 | 
-| 2023-01-08 | 28 | 1 | 
 

@@ -1,6 +1,6 @@
 # python-discord/code-jam-qualifier-9 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 99 | 85 | 
 | 2023-02-06 | 99 | 85 | 
 | 2023-02-05 | 99 | 85 | 
 | 2023-02-04 | 99 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 99 | 87 | 
 | 2023-01-11 | 99 | 87 | 
 | 2023-01-10 | 99 | 87 | 
-| 2023-01-09 | 99 | 87 | 
 

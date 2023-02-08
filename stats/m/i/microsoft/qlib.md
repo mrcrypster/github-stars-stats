@@ -1,10 +1,10 @@
 # microsoft/qlib - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 1833
+☋ Forks: 1834
 
-★ Stars: 10252
+★ Stars: 10256
 
 [Open repository](https://github.com/microsoft/qlib)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 10256 | 1834 | 
 | 2023-02-06 | 10252 | 1833 | 
 | 2023-02-05 | 10244 | 1832 | 
 | 2023-02-04 | 10239 | 1831 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 10144 | 1811 | 
 | 2023-01-10 | 10140 | 1811 | 
 | 2023-01-09 | 10136 | 1807 | 
-| 2023-01-08 | 10132 | 1807 | 
 

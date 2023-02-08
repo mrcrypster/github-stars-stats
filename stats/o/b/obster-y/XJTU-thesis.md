@@ -1,6 +1,6 @@
 # obster-y/XJTU-thesis - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 102 | 27 | 
 | 2023-02-06 | 102 | 27 | 
 | 2023-02-05 | 102 | 27 | 
 | 2023-02-04 | 102 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 98 | 27 | 
 | 2023-01-10 | 98 | 27 | 
 | 2023-01-09 | 97 | 27 | 
-| 2023-01-08 | 97 | 27 | 
 

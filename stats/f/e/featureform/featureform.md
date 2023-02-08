@@ -1,10 +1,10 @@
 # featureform/featureform - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 46
 
-★ Stars: 1190
+★ Stars: 1191
 
 [Open repository](https://github.com/featureform/featureform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1191 | 46 | 
 | 2023-02-06 | 1190 | 46 | 
 | 2023-02-05 | 1187 | 47 | 
 | 2023-02-04 | 1187 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1171 | 46 | 
 | 2023-01-10 | 1169 | 46 | 
 | 2023-01-09 | 1169 | 45 | 
-| 2023-01-08 | 1169 | 45 | 
 

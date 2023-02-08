@@ -1,6 +1,6 @@
 # NghiepCoder16/NghiepCoder16 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 13 | 25 | 
 | 2023-02-06 | 13 | 25 | 
 | 2023-02-05 | 13 | 25 | 
 | 2023-02-04 | 13 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 13 | 20 | 
 | 2023-01-10 | 12 | 20 | 
 | 2023-01-09 | 12 | 20 | 
-| 2023-01-08 | 12 | 19 | 
 

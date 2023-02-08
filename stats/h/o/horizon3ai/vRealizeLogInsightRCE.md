@@ -1,10 +1,10 @@
 # horizon3ai/vRealizeLogInsightRCE - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 21
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/horizon3ai/vRealizeLogInsightRCE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 117 | 21 | 
 | 2023-02-06 | 116 | 21 | 
 | 2023-02-05 | 115 | 21 | 
 | 2023-02-04 | 112 | 21 | 

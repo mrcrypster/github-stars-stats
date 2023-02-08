@@ -1,6 +1,6 @@
 # itorr/magi - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 82 | 1 | 
 | 2023-02-06 | 82 | 1 | 
 | 2023-02-05 | 82 | 1 | 
 | 2023-02-04 | 82 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 81 | 1 | 
 | 2023-01-10 | 81 | 1 | 
 | 2023-01-09 | 81 | 1 | 
-| 2023-01-08 | 81 | 1 | 
 

@@ -1,6 +1,6 @@
 # countercept/detectree - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 113 | 7 | 
 | 2023-02-06 | 113 | 7 | 
 | 2023-02-05 | 113 | 7 | 
 | 2023-02-04 | 113 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 112 | 6 | 
 | 2023-01-10 | 112 | 6 | 
 | 2023-01-09 | 112 | 6 | 
-| 2023-01-08 | 112 | 6 | 
 

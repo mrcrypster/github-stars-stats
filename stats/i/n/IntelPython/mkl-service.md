@@ -1,6 +1,6 @@
 # IntelPython/mkl-service - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 50 | 25 | 
 | 2023-02-06 | 50 | 25 | 
 | 2023-02-05 | 50 | 25 | 
 | 2023-02-04 | 50 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 49 | 24 | 
 | 2023-01-10 | 49 | 24 | 
 | 2023-01-09 | 49 | 24 | 
-| 2023-01-08 | 49 | 24 | 
 

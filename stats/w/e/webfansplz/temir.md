@@ -1,6 +1,6 @@
 # webfansplz/temir - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 954 | 34 | 
 | 2023-02-06 | 954 | 34 | 
 | 2023-02-05 | 953 | 34 | 
 | 2023-02-04 | 953 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 944 | 34 | 
 | 2023-01-10 | 943 | 34 | 
 | 2023-01-09 | 944 | 34 | 
-| 2023-01-08 | 943 | 34 | 
 

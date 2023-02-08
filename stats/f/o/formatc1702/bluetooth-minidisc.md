@@ -1,6 +1,6 @@
 # formatc1702/bluetooth-minidisc - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 13 | 2 | 
 | 2023-02-06 | 13 | 2 | 
 | 2023-02-05 | 12 | 2 | 
 | 2023-02-04 | 11 | 2 | 

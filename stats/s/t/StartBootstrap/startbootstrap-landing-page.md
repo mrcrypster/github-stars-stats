@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-landing-page - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
-☋ Forks: 1630
+☋ Forks: 1631
 
-★ Stars: 1447
+★ Stars: 1446
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-landing-page)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1446 | 1631 | 
 | 2023-02-06 | 1447 | 1630 | 
 | 2023-02-05 | 1447 | 1630 | 
 | 2023-02-04 | 1447 | 1629 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1444 | 1627 | 
 | 2023-01-10 | 1444 | 1627 | 
 | 2023-01-09 | 1445 | 1627 | 
-| 2023-01-08 | 1445 | 1627 | 
 

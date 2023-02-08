@@ -1,10 +1,10 @@
 # Teamwork/node-auto-launch - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 865
+★ Stars: 866
 
 [Open repository](https://github.com/Teamwork/node-auto-launch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 866 | 108 | 
 | 2023-02-06 | 865 | 107 | 
 | 2023-02-05 | 865 | 107 | 
 | 2023-02-04 | 865 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 863 | 107 | 
 | 2023-01-10 | 863 | 107 | 
 | 2023-01-09 | 863 | 107 | 
-| 2023-01-08 | 863 | 107 | 
 

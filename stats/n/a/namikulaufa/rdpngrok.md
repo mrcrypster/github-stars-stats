@@ -1,8 +1,8 @@
 # namikulaufa/rdpngrok - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
-☋ Forks: 686
+☋ Forks: 691
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 8 | 691 | 
 | 2023-02-06 | 8 | 686 | 
 | 2023-02-05 | 8 | 681 | 
 | 2023-02-04 | 9 | 678 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 7 | 584 | 
 | 2023-01-10 | 7 | 578 | 
 | 2023-01-09 | 7 | 578 | 
-| 2023-01-08 | 7 | 578 | 
 

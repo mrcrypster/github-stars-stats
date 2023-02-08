@@ -1,8 +1,8 @@
 # hackacc/shakrdp - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 239
+☋ Forks: 240
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2 | 240 | 
 | 2023-02-06 | 2 | 239 | 
 | 2023-02-05 | 2 | 229 | 
 | 2023-02-04 | 1 | 224 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1 | 160 | 
 | 2023-01-10 | 1 | 160 | 
 | 2023-01-09 | 1 | 159 | 
-| 2023-01-08 | 1 | 159 | 
 

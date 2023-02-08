@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 347
 
-★ Stars: 534
+★ Stars: 535
 
 [Open repository](https://github.com/exercism/elixir)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 534 | 347 | 
+| 2023-02-07 | 535 | 347 | 
 | 2023-02-06 | 534 | 347 | 
 | 2023-02-05 | 534 | 346 | 
 | 2023-02-04 | 534 | 346 | 

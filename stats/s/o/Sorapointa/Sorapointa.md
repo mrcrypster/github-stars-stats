@@ -1,6 +1,6 @@
 # Sorapointa/Sorapointa - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 132 | 27 | 
 | 2023-02-06 | 132 | 27 | 
 | 2023-02-05 | 132 | 27 | 
 | 2023-02-04 | 132 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 114 | 26 | 
 | 2023-01-10 | 114 | 26 | 
 | 2023-01-09 | 114 | 26 | 
-| 2023-01-08 | 114 | 26 | 
 

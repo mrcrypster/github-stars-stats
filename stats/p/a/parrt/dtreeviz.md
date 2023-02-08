@@ -1,10 +1,10 @@
 # parrt/dtreeviz - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 295
 
-★ Stars: 2413
+★ Stars: 2414
 
 [Open repository](https://github.com/parrt/dtreeviz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2414 | 295 | 
 | 2023-02-06 | 2413 | 295 | 
 | 2023-02-05 | 2412 | 295 | 
 | 2023-02-03 | 2412 | 295 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2378 | 294 | 
 | 2023-01-10 | 2376 | 294 | 
 | 2023-01-09 | 2376 | 294 | 
-| 2023-01-08 | 2375 | 294 | 
 

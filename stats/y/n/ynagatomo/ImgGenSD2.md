@@ -1,10 +1,10 @@
 # ynagatomo/ImgGenSD2 - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 221
+★ Stars: 225
 
 [Open repository](https://github.com/ynagatomo/ImgGenSD2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 225 | 15 | 
 | 2023-02-06 | 221 | 15 | 
 | 2023-02-05 | 221 | 15 | 
 | 2023-02-04 | 221 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 216 | 13 | 
 | 2023-01-11 | 214 | 13 | 
 | 2023-01-10 | 213 | 13 | 
-| 2023-01-09 | 210 | 13 | 
 

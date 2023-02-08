@@ -1,10 +1,10 @@
 # PySimpleGUI/PySimpleGUI - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 1662
+☋ Forks: 1663
 
-★ Stars: 11176
+★ Stars: 11185
 
 [Open repository](https://github.com/PySimpleGUI/PySimpleGUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11185 | 1663 | 
 | 2023-02-06 | 11176 | 1662 | 
 | 2023-02-05 | 11169 | 1662 | 
 | 2023-02-04 | 11169 | 1662 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 11080 | 1646 | 
 | 2023-01-11 | 11071 | 1645 | 
 | 2023-01-09 | 11063 | 1644 | 
-| 2023-01-08 | 11060 | 1642 | 
 

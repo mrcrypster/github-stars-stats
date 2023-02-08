@@ -1,10 +1,10 @@
 # cxlisme/FPGA-proj - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 30
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/cxlisme/FPGA-proj)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 106 | 30 | 
 | 2023-02-06 | 105 | 30 | 
 | 2023-02-05 | 105 | 30 | 
 | 2023-02-04 | 105 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 102 | 30 | 
 | 2023-01-10 | 102 | 30 | 
 | 2023-01-09 | 102 | 30 | 
-| 2023-01-08 | 102 | 30 | 
 

@@ -1,10 +1,10 @@
 # EnergizedProtection/block - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 184
+☋ Forks: 185
 
-★ Stars: 2367
+★ Stars: 2368
 
 [Open repository](https://github.com/EnergizedProtection/block)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2368 | 185 | 
 | 2023-02-06 | 2367 | 184 | 
 | 2023-02-05 | 2366 | 184 | 
 | 2023-02-03 | 2365 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2350 | 181 | 
 | 2023-01-10 | 2350 | 181 | 
 | 2023-01-09 | 2350 | 181 | 
-| 2023-01-08 | 2348 | 181 | 
 

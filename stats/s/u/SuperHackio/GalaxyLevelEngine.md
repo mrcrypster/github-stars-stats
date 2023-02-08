@@ -1,10 +1,10 @@
 # SuperHackio/GalaxyLevelEngine - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/SuperHackio/GalaxyLevelEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 34 | 3 | 
 | 2023-02-06 | 33 | 3 | 
 | 2023-02-05 | 33 | 3 | 
 | 2023-02-04 | 33 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 32 | 3 | 
 | 2023-01-10 | 32 | 3 | 
 | 2023-01-09 | 32 | 3 | 
-| 2023-01-08 | 32 | 3 | 
 

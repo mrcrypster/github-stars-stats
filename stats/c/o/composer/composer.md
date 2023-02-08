@@ -1,10 +1,10 @@
 # composer/composer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 6517
+☋ Forks: 6515
 
-★ Stars: 27333
+★ Stars: 27338
 
 [Open repository](https://github.com/composer/composer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 27338 | 6515 | 
 | 2023-02-06 | 27333 | 6517 | 
 | 2023-02-05 | 27332 | 6517 | 
 | 2023-02-04 | 27328 | 6516 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 27247 | 6507 | 
 | 2023-01-10 | 27243 | 6506 | 
 | 2023-01-09 | 27239 | 6505 | 
-| 2023-01-08 | 27236 | 6505 | 
 

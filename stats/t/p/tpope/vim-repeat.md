@@ -1,10 +1,10 @@
 # tpope/vim-repeat - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 80
 
-★ Stars: 2324
+★ Stars: 2326
 
 [Open repository](https://github.com/tpope/vim-repeat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2326 | 80 | 
 | 2023-02-06 | 2324 | 80 | 
 | 2023-02-05 | 2324 | 80 | 
 | 2023-02-04 | 2322 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2308 | 79 | 
 | 2023-01-10 | 2307 | 78 | 
 | 2023-01-09 | 2306 | 78 | 
-| 2023-01-08 | 2306 | 78 | 
 

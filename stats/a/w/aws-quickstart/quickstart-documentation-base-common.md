@@ -1,8 +1,8 @@
 # aws-quickstart/quickstart-documentation-base-common - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 13 | 20 | 
 | 2023-02-06 | 13 | 19 | 
 | 2023-02-05 | 13 | 19 | 
 | 2023-02-04 | 13 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 13 | 19 | 
 | 2023-01-10 | 13 | 19 | 
 | 2023-01-09 | 13 | 19 | 
-| 2023-01-08 | 13 | 19 | 
 

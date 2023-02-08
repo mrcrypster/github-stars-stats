@@ -1,10 +1,10 @@
 # gardener/gardener - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 410
 
-★ Stars: 2393
+★ Stars: 2394
 
 [Open repository](https://github.com/gardener/gardener)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2394 | 410 | 
 | 2023-02-06 | 2393 | 410 | 
 | 2023-02-05 | 2393 | 410 | 
 | 2023-02-04 | 2392 | 410 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2382 | 411 | 
 | 2023-01-11 | 2381 | 411 | 
 | 2023-01-09 | 2381 | 411 | 
-| 2023-01-08 | 2378 | 410 | 
 

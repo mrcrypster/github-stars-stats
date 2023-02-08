@@ -1,10 +1,10 @@
 # HZFE/awesome-interview - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 164
+☋ Forks: 165
 
-★ Stars: 2096
+★ Stars: 2099
 
 [Open repository](https://github.com/HZFE/awesome-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2099 | 165 | 
 | 2023-02-06 | 2096 | 164 | 
 | 2023-02-05 | 2096 | 164 | 
 | 2023-02-04 | 2094 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2079 | 163 | 
 | 2023-01-10 | 2079 | 163 | 
 | 2023-01-09 | 2076 | 162 | 
-| 2023-01-08 | 2074 | 162 | 
 

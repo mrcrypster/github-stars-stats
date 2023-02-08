@@ -1,10 +1,10 @@
 # srsran/srsRAN - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 974
+☋ Forks: 975
 
-★ Stars: 2929
+★ Stars: 2932
 
 [Open repository](https://github.com/srsran/srsRAN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2932 | 975 | 
 | 2023-02-06 | 2929 | 974 | 
 | 2023-02-05 | 2929 | 974 | 
 | 2023-02-04 | 2928 | 973 | 

@@ -1,10 +1,10 @@
 # ziglibs/known-folders - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/ziglibs/known-folders)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 148 | 15 | 
 | 2023-02-06 | 147 | 15 | 
 | 2023-02-05 | 147 | 14 | 
 | 2023-02-04 | 147 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 140 | 12 | 
 | 2023-01-10 | 140 | 12 | 
 | 2023-01-09 | 140 | 12 | 
-| 2023-01-08 | 139 | 12 | 
 

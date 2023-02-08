@@ -1,6 +1,6 @@
 # filtron/MarkovKernels.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 17 | - | 
 | 2023-02-06 | 17 | - | 
 | 2023-02-05 | 17 | - | 
 | 2023-02-04 | 17 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 17 | - | 
 | 2023-01-11 | 17 | - | 
 | 2023-01-10 | 17 | - | 
-| 2023-01-08 | 17 | - | 
 

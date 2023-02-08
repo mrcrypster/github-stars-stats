@@ -1,10 +1,10 @@
 # huangyz0918/Hackintosh-Installer-University - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1029
 
-★ Stars: 3873
+★ Stars: 3874
 
 [Open repository](https://github.com/huangyz0918/Hackintosh-Installer-University)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 3874 | 1029 | 
 | 2023-02-06 | 3873 | 1029 | 
 | 2023-02-05 | 3873 | 1029 | 
 | 2023-02-04 | 3873 | 1029 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 3866 | 1025 | 
 | 2023-01-10 | 3866 | 1024 | 
 | 2023-01-09 | 3866 | 1024 | 
-| 2023-01-08 | 3867 | 1024 | 
 

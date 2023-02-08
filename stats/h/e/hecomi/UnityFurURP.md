@@ -1,6 +1,6 @@
 # hecomi/UnityFurURP - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 591 | 91 | 
 | 2023-02-06 | 591 | 91 | 
 | 2023-02-05 | 591 | 91 | 
 | 2023-02-04 | 591 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 576 | 87 | 
 | 2023-01-10 | 575 | 87 | 
 | 2023-01-09 | 573 | 86 | 
-| 2023-01-08 | 573 | 85 | 
 

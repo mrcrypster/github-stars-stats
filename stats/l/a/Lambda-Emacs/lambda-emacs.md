@@ -1,6 +1,6 @@
 # Lambda-Emacs/lambda-emacs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 73 | 6 | 
 | 2023-02-06 | 73 | 6 | 
 | 2023-02-05 | 73 | 6 | 
 | 2023-02-04 | 73 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 72 | 6 | 
 | 2023-01-10 | 72 | 6 | 
 | 2023-01-09 | 72 | 6 | 
-| 2023-01-08 | 72 | 6 | 
 

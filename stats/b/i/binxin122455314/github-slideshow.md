@@ -1,6 +1,6 @@
 # binxin122455314/github-slideshow - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 54 | 22 | 
 | 2023-02-06 | 54 | 22 | 
 | 2023-02-05 | 54 | 22 | 
 | 2023-02-04 | 54 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 54 | 22 | 
 | 2023-01-10 | 54 | 22 | 
 | 2023-01-09 | 54 | 22 | 
-| 2023-01-08 | 54 | 22 | 
 

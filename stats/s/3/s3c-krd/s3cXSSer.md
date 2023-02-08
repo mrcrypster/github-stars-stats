@@ -1,10 +1,10 @@
 # s3c-krd/s3cXSSer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 19
 
-★ Stars: 138
+★ Stars: 137
 
 [Open repository](https://github.com/s3c-krd/s3cXSSer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 137 | 19 | 
 | 2023-02-06 | 138 | 19 | 
 | 2023-02-05 | 138 | 19 | 
 | 2023-02-04 | 137 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 132 | 17 | 
 | 2023-01-10 | 132 | 17 | 
 | 2023-01-09 | 132 | 17 | 
-| 2023-01-08 | 132 | 17 | 
 

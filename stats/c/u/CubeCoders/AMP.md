@@ -1,10 +1,10 @@
 # CubeCoders/AMP - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 34
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/CubeCoders/AMP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 178 | 34 | 
 | 2023-02-06 | 177 | 34 | 
 | 2023-02-05 | 177 | 35 | 
 | 2023-02-03 | 177 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 175 | 36 | 
 | 2023-01-10 | 176 | 36 | 
 | 2023-01-09 | 176 | 36 | 
-| 2023-01-08 | 176 | 36 | 
 

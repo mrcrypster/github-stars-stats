@@ -1,6 +1,6 @@
 # groupoid/alonzo - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 13 | 1 | 
 | 2023-02-06 | 13 | 1 | 
 | 2023-02-05 | 13 | 1 | 
 | 2023-02-04 | 13 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 14 | 1 | 
 | 2023-01-10 | 14 | 1 | 
 | 2023-01-09 | 14 | 1 | 
-| 2023-01-08 | 14 | 1 | 
 

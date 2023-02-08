@@ -1,6 +1,6 @@
 # hchbaw/textobj-motionmotion.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4 | 2 | 
 | 2023-02-06 | 4 | 2 | 
 | 2023-02-05 | 4 | 2 | 
 | 2023-02-04 | 4 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 4 | 2 | 
 | 2023-01-10 | 4 | 2 | 
 | 2023-01-09 | 4 | 2 | 
-| 2023-01-08 | 4 | 2 | 
 

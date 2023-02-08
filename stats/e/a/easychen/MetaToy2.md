@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/easychen/MetaToy2)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 13 | 1 | 
+| 2023-02-07 | 14 | 1 | 
 | 2023-02-06 | 13 | 1 | 
 

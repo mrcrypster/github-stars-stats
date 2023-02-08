@@ -1,6 +1,6 @@
 # breakthecode2/neo - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 144 | 60 | 
 | 2023-02-06 | 144 | 60 | 
 | 2023-02-05 | 144 | 61 | 
 | 2023-02-04 | 144 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 144 | 62 | 
 | 2023-01-11 | 144 | 62 | 
 | 2023-01-09 | 144 | 62 | 
-| 2023-01-08 | 144 | 62 | 
 

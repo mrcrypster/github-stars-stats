@@ -1,10 +1,10 @@
 # NameLi/muying-weapp - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 10
 
-★ Stars: 47
+★ Stars: 46
 
 [Open repository](https://github.com/NameLi/muying-weapp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 46 | 10 | 
 | 2023-02-06 | 47 | 10 | 
 | 2023-02-05 | 47 | 10 | 
 | 2023-02-04 | 45 | 8 | 

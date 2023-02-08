@@ -1,10 +1,10 @@
 # nostr-protocol/nips - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 155
+☋ Forks: 158
 
-★ Stars: 854
+★ Stars: 890
 
 [Open repository](https://github.com/nostr-protocol/nips)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 890 | 158 | 
 | 2023-02-06 | 854 | 155 | 
 | 2023-02-05 | 787 | 147 | 
 | 2023-02-04 | 736 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 413 | 94 | 
 | 2023-01-10 | 404 | 94 | 
 | 2023-01-09 | 400 | 92 | 
-| 2023-01-08 | 396 | 90 | 
 

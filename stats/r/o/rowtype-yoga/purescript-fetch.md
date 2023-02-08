@@ -1,10 +1,10 @@
 # rowtype-yoga/purescript-fetch - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/rowtype-yoga/purescript-fetch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 18 | 1 | 
 | 2023-02-06 | 17 | 1 | 
 | 2023-02-05 | 17 | 1 | 
 | 2023-02-04 | 17 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 17 | 1 | 
 | 2023-01-10 | 17 | 1 | 
 | 2023-01-09 | 17 | 1 | 
-| 2023-01-08 | 17 | 1 | 
 

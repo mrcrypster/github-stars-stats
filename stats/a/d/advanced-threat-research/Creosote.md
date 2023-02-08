@@ -1,10 +1,10 @@
 # advanced-threat-research/Creosote - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/advanced-threat-research/Creosote)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 84 | 14 | 
 | 2023-02-06 | 83 | 14 | 
 | 2023-02-05 | 83 | 14 | 
 | 2023-02-04 | 83 | 14 | 

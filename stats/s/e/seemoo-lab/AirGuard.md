@@ -1,10 +1,10 @@
 # seemoo-lab/AirGuard - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 79
 
-★ Stars: 1464
+★ Stars: 1466
 
 [Open repository](https://github.com/seemoo-lab/AirGuard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1466 | 79 | 
 | 2023-02-06 | 1464 | 79 | 
 | 2023-02-05 | 1462 | 79 | 
 | 2023-02-04 | 1462 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1432 | 78 | 
 | 2023-01-10 | 1431 | 77 | 
 | 2023-01-09 | 1430 | 77 | 
-| 2023-01-08 | 1429 | 77 | 
 

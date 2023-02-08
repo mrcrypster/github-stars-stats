@@ -1,6 +1,6 @@
 # mRs-/Black-Friday-Deals - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1378 | 240 | 
 | 2023-02-06 | 1378 | 240 | 
 | 2023-02-05 | 1378 | 240 | 
 | 2023-02-04 | 1379 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1377 | 240 | 
 | 2023-01-10 | 1377 | 240 | 
 | 2023-01-09 | 1377 | 240 | 
-| 2023-01-08 | 1376 | 240 | 
 

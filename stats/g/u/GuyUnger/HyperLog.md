@@ -1,6 +1,6 @@
 # GuyUnger/HyperLog - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 69 | 6 | 
 | 2023-02-06 | 69 | 6 | 
 | 2023-02-05 | 69 | 6 | 
 | 2023-02-04 | 69 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 67 | 6 | 
 | 2023-01-10 | 66 | 6 | 
 | 2023-01-09 | 66 | 6 | 
-| 2023-01-08 | 66 | 6 | 
 

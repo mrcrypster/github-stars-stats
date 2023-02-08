@@ -1,10 +1,10 @@
 # conda-forge/miniforge - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 196
 
-★ Stars: 3244
+★ Stars: 3248
 
 [Open repository](https://github.com/conda-forge/miniforge)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 3248 | 196 | 
 | 2023-02-06 | 3244 | 196 | 
 | 2023-02-05 | 3236 | 196 | 
 | 2023-02-04 | 3236 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 3142 | 192 | 
 | 2023-01-10 | 3136 | 192 | 
 | 2023-01-09 | 3133 | 191 | 
-| 2023-01-08 | 3132 | 191 | 
 

@@ -1,10 +1,10 @@
 # Qihoo360/safe-rules - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 173
+☋ Forks: 177
 
-★ Stars: 1124
+★ Stars: 1159
 
 [Open repository](https://github.com/Qihoo360/safe-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1159 | 177 | 
 | 2023-02-06 | 1124 | 173 | 
 | 2023-02-05 | 1064 | 165 | 
 | 2023-02-04 | 1064 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 883 | 148 | 
 | 2023-01-10 | 878 | 148 | 
 | 2023-01-09 | 877 | 147 | 
-| 2023-01-08 | 873 | 146 | 
 

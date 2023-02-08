@@ -1,6 +1,6 @@
 # yogstation13/Yogstation - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 357
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 101 | 357 | 
 | 2023-02-06 | 101 | 357 | 
 | 2023-02-05 | 101 | 357 | 
 | 2023-02-04 | 101 | 357 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 100 | 349 | 
 | 2023-01-10 | 100 | 349 | 
 | 2023-01-09 | 100 | 350 | 
-| 2023-01-08 | 100 | 351 | 
 

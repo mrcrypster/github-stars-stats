@@ -1,6 +1,6 @@
 # visualpartnership/my_launchx_blog - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 858
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 44 | 858 | 
 | 2023-02-06 | 44 | 858 | 
 | 2023-02-04 | 44 | 858 | 
 | 2023-02-03 | 44 | 858 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 44 | 861 | 
 | 2023-01-10 | 44 | 861 | 
 | 2023-01-09 | 44 | 861 | 
-| 2023-01-08 | 44 | 861 | 
 

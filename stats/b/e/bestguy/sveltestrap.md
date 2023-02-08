@@ -1,10 +1,10 @@
 # bestguy/sveltestrap - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 165
 
-★ Stars: 1140
+★ Stars: 1141
 
 [Open repository](https://github.com/bestguy/sveltestrap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1141 | 165 | 
 | 2023-02-06 | 1140 | 165 | 
 | 2023-02-05 | 1139 | 165 | 
 | 2023-02-04 | 1138 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1122 | 165 | 
 | 2023-01-10 | 1122 | 165 | 
 | 2023-01-09 | 1121 | 165 | 
-| 2023-01-08 | 1121 | 165 | 
 

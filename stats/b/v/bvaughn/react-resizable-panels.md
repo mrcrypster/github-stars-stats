@@ -1,10 +1,10 @@
 # bvaughn/react-resizable-panels - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 36
+☋ Forks: 35
 
-★ Stars: 1285
+★ Stars: 1293
 
 [Open repository](https://github.com/bvaughn/react-resizable-panels)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1293 | 35 | 
 | 2023-02-06 | 1285 | 36 | 
 | 2023-02-05 | 1278 | 36 | 
 | 2023-02-03 | 1278 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1105 | 28 | 
 | 2023-01-10 | 1087 | 28 | 
 | 2023-01-09 | 1065 | 28 | 
-| 2023-01-08 | 1031 | 28 | 
 

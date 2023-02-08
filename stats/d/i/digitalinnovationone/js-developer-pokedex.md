@@ -1,6 +1,6 @@
 # digitalinnovationone/js-developer-pokedex - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 796
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 91 | 796 | 
 | 2023-02-06 | 91 | 796 | 
 | 2023-02-04 | 91 | 796 | 
 | 2023-02-03 | 90 | 794 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 87 | 778 | 
 | 2023-01-10 | 87 | 777 | 
 | 2023-01-09 | 87 | 774 | 
-| 2023-01-08 | 87 | 769 | 
 

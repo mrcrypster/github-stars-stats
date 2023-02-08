@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 07
 
-☋ Forks: 247
+☋ Forks: 273
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/MR-RIKI/AzureWin10)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 3 | 247 | 
+| 2023-02-07 | 4 | 273 | 
 | 2023-02-06 | 3 | 244 | 
 | 2023-02-05 | 2 | 216 | 
 | 2023-02-04 | - | 168 | 

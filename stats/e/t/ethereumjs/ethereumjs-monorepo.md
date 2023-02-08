@@ -1,10 +1,10 @@
 # ethereumjs/ethereumjs-monorepo - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 627
 
-★ Stars: 2147
+★ Stars: 2148
 
 [Open repository](https://github.com/ethereumjs/ethereumjs-monorepo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2148 | 627 | 
 | 2023-02-06 | 2147 | 627 | 
 | 2023-02-05 | 2144 | 627 | 
 | 2023-02-04 | 2144 | 627 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2122 | 621 | 
 | 2023-01-10 | 2122 | 620 | 
 | 2023-01-09 | 2120 | 619 | 
-| 2023-01-08 | 2117 | 619 | 
 

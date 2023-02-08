@@ -1,6 +1,6 @@
 # discord/erlpack - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 207 | 67 | 
 | 2023-02-06 | 207 | 67 | 
 | 2023-02-05 | 206 | 67 | 
 | 2023-02-04 | 206 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 204 | 66 | 
 | 2023-01-10 | 204 | 66 | 
 | 2023-01-09 | 204 | 66 | 
-| 2023-01-08 | 204 | 66 | 
 

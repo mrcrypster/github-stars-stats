@@ -1,6 +1,6 @@
 # FransBouma/OtisFX - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 78 | 26 | 
 | 2023-02-06 | 78 | 26 | 
 | 2023-02-05 | 78 | 26 | 
 | 2023-02-04 | 78 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 77 | 24 | 
 | 2023-01-11 | 76 | 24 | 
 | 2023-01-10 | 76 | 24 | 
-| 2023-01-08 | 76 | 24 | 
 

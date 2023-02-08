@@ -1,6 +1,6 @@
 # KristofferC/OhMyREPL.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 647 | 51 | 
 | 2023-02-06 | 647 | 51 | 
 | 2023-02-05 | 647 | 51 | 
 | 2023-02-04 | 647 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 638 | 50 | 
 | 2023-01-11 | 637 | 50 | 
 | 2023-01-09 | 637 | 50 | 
-| 2023-01-08 | 637 | 50 | 
 

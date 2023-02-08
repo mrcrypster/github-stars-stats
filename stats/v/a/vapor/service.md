@@ -1,6 +1,6 @@
 # vapor/service - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 81 | 10 | 
 | 2023-02-06 | 81 | 10 | 
 | 2023-02-05 | 81 | 10 | 
 | 2023-02-04 | 81 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 82 | 10 | 
 | 2023-01-10 | 82 | 10 | 
 | 2023-01-09 | 83 | 10 | 
-| 2023-01-08 | 83 | 10 | 
 

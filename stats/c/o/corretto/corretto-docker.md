@@ -1,10 +1,10 @@
 # corretto/corretto-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 46
 
-★ Stars: 92
+★ Stars: 94
 
 [Open repository](https://github.com/corretto/corretto-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 94 | 46 | 
 | 2023-02-06 | 92 | 46 | 
 | 2023-02-05 | 91 | 46 | 
 | 2023-02-04 | 91 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 92 | 46 | 
 | 2023-01-11 | 92 | 46 | 
 | 2023-01-10 | 91 | 46 | 
-| 2023-01-09 | 91 | 46 | 
 

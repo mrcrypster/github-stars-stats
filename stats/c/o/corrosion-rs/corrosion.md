@@ -1,6 +1,6 @@
 # corrosion-rs/corrosion - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 594 | 56 | 
 | 2023-02-06 | 594 | 56 | 
 | 2023-02-05 | 592 | 56 | 
 | 2023-02-04 | 589 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 500 | 53 | 
 | 2023-01-10 | 499 | 53 | 
 | 2023-01-09 | 498 | 53 | 
-| 2023-01-08 | 495 | 53 | 
 

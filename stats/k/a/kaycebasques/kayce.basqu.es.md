@@ -1,8 +1,8 @@
 # kaycebasques/kayce.basqu.es - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 10 | 8 | 
 | 2023-02-06 | 10 | 7 | 
 | 2023-02-05 | 10 | 7 | 
 

@@ -1,10 +1,10 @@
 # neo4j/neo4j - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2230
+☋ Forks: 2231
 
-★ Stars: 11013
+★ Stars: 11023
 
 [Open repository](https://github.com/neo4j/neo4j)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11023 | 2231 | 
 | 2023-02-06 | 11013 | 2230 | 
 | 2023-02-05 | 11007 | 2230 | 
 | 2023-02-03 | 11002 | 2230 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 10768 | 2217 | 
 | 2023-01-11 | 10766 | 2217 | 
 | 2023-01-10 | 10765 | 2215 | 
-| 2023-01-09 | 10764 | 2216 | 
 

@@ -1,6 +1,6 @@
 # Bad-ptr/persp-mode.el - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 352 | 42 | 
 | 2023-02-06 | 352 | 42 | 
 | 2023-02-05 | 352 | 42 | 
 | 2023-02-04 | 352 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 348 | 42 | 
 | 2023-01-10 | 348 | 42 | 
 | 2023-01-09 | 348 | 43 | 
-| 2023-01-08 | 348 | 43 | 
 

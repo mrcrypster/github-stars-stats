@@ -1,6 +1,6 @@
 # Delcos/Hentai-Diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 156 | 12 | 
 | 2023-02-06 | 156 | 12 | 
 | 2023-02-05 | 154 | 12 | 
 | 2023-02-04 | 152 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 148 | 12 | 
 | 2023-01-10 | 148 | 12 | 
 | 2023-01-09 | 147 | 12 | 
-| 2023-01-08 | 145 | 12 | 
 

@@ -1,6 +1,6 @@
 # zhanghao-njmu/SCP - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 74 | 9 | 
 | 2023-02-06 | 74 | 9 | 
 | 2023-02-05 | 74 | 9 | 
 | 2023-02-04 | 74 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 63 | 9 | 
 | 2023-01-10 | 62 | 9 | 
 | 2023-01-09 | 62 | 9 | 
-| 2023-01-08 | 62 | 9 | 
 

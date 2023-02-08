@@ -1,6 +1,6 @@
 # rust-embedded/meta-rust-bin - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 73 | 45 | 
 | 2023-02-06 | 73 | 45 | 
 | 2023-02-05 | 73 | 45 | 
 | 2023-02-04 | 73 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 71 | 45 | 
 | 2023-01-11 | 71 | 45 | 
 | 2023-01-09 | 71 | 44 | 
-| 2023-01-08 | 71 | 44 | 
 

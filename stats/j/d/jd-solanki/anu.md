@@ -1,10 +1,10 @@
 # jd-solanki/anu - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 633
+★ Stars: 636
 
 [Open repository](https://github.com/jd-solanki/anu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 636 | 31 | 
 | 2023-02-06 | 633 | 30 | 
 | 2023-02-05 | 633 | 30 | 
 | 2023-02-03 | 631 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 600 | 30 | 
 | 2023-01-10 | 599 | 30 | 
 | 2023-01-09 | 598 | 30 | 
-| 2023-01-08 | 597 | 29 | 
 

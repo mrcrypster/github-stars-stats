@@ -1,10 +1,10 @@
 # bigby-the-wolf/WebApiTest - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/bigby-the-wolf/WebApiTest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 45 | 3 | 
 | 2023-02-06 | 44 | 3 | 
 | 2023-02-05 | 44 | 3 | 
 | 2023-02-04 | 44 | 3 | 

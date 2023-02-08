@@ -1,6 +1,6 @@
 # codeartx/awesome-kubernetes - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 171 | 4 | 
 | 2023-02-06 | 171 | 4 | 
 | 2023-02-05 | 171 | 4 | 
 | 2023-02-03 | 171 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 170 | 4 | 
 | 2023-01-10 | 170 | 4 | 
 | 2023-01-09 | 170 | 4 | 
-| 2023-01-08 | 170 | 4 | 
 

@@ -1,6 +1,6 @@
 # hidayatullah94/webTorche - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1 | 3 | 
 | 2023-02-06 | 1 | 3 | 
 | 2023-02-05 | 1 | 3 | 
 | 2023-02-04 | 1 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1 | 3 | 
 | 2023-01-10 | 1 | 3 | 
 | 2023-01-09 | 1 | 3 | 
-| 2023-01-08 | 1 | 3 | 
 

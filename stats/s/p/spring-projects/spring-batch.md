@@ -1,10 +1,10 @@
 # spring-projects/spring-batch - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2133
 
-★ Stars: 2288
+★ Stars: 2289
 
 [Open repository](https://github.com/spring-projects/spring-batch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2289 | 2133 | 
 | 2023-02-06 | 2288 | 2133 | 
 | 2023-02-05 | 2288 | 2132 | 
 | 2023-02-04 | 2288 | 2132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2271 | 2121 | 
 | 2023-01-11 | 2270 | 2118 | 
 | 2023-01-10 | 2272 | 2118 | 
-| 2023-01-09 | 2270 | 2118 | 
 

@@ -1,10 +1,10 @@
 # dotnet-architecture/eshop-mobile-client - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 112
 
-★ Stars: 302
+★ Stars: 303
 
 [Open repository](https://github.com/dotnet-architecture/eshop-mobile-client)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 303 | 112 | 
 | 2023-02-06 | 302 | 112 | 
 | 2023-02-05 | 302 | 112 | 
 | 2023-02-04 | 302 | 112 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 284 | 107 | 
 | 2023-01-11 | 283 | 107 | 
 | 2023-01-09 | 283 | 107 | 
-| 2023-01-08 | 283 | 106 | 
 

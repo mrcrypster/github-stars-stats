@@ -1,6 +1,6 @@
 # StefanSchroeder/Golang-Regex-Tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1135 | 142 | 
 | 2023-02-06 | 1135 | 142 | 
 | 2023-02-05 | 1135 | 142 | 
 | 2023-02-04 | 1135 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1130 | 142 | 
 | 2023-01-10 | 1130 | 142 | 
 | 2023-01-09 | 1130 | 142 | 
-| 2023-01-08 | 1130 | 142 | 
 

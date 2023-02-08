@@ -1,10 +1,10 @@
 # parkervcp/eggs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 2109
+☋ Forks: 2110
 
-★ Stars: 1688
+★ Stars: 1692
 
 [Open repository](https://github.com/parkervcp/eggs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1692 | 2110 | 
 | 2023-02-06 | 1688 | 2109 | 
 | 2023-02-05 | 1687 | 2108 | 
 | 2023-02-04 | 1683 | 2103 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1628 | 2066 | 
 | 2023-01-10 | 1624 | 2065 | 
 | 2023-01-09 | 1623 | 2064 | 
-| 2023-01-08 | 1622 | 2064 | 
 

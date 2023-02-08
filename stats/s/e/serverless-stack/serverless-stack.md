@@ -1,10 +1,10 @@
 # serverless-stack/serverless-stack - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 979
+☋ Forks: 981
 
-★ Stars: 11383
+★ Stars: 11404
 
 [Open repository](https://github.com/serverless-stack/serverless-stack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11404 | 981 | 
 | 2023-02-06 | 11383 | 979 | 
 | 2023-02-05 | 11359 | 975 | 
 | 2023-02-04 | 11347 | 976 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 10794 | 907 | 
 | 2023-01-10 | 10784 | 905 | 
 | 2023-01-09 | 10762 | 905 | 
-| 2023-01-08 | 10753 | 904 | 
 

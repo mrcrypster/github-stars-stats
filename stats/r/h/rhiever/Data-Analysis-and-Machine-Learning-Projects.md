@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 07
 
-☋ Forks: 1976
+☋ Forks: 1978
 
-★ Stars: 5478
+★ Stars: 5481
 
 [Open repository](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 5478 | 1976 | 
+| 2023-02-07 | 5481 | 1978 | 
 | 2023-02-06 | 5478 | 1976 | 
 | 2023-02-05 | 5467 | 1976 | 
 | 2023-02-04 | 5459 | 1974 | 

@@ -1,6 +1,6 @@
 # johncpalmer/LevelNFT - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 25 | 3 | 
 | 2023-02-06 | 25 | 3 | 
 | 2023-02-05 | 25 | 3 | 
 | 2023-02-04 | 25 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 25 | 3 | 
 | 2023-01-10 | 25 | 3 | 
 | 2023-01-09 | 25 | 3 | 
-| 2023-01-08 | 25 | 3 | 
 

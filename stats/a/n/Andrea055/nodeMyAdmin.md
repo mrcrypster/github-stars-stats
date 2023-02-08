@@ -1,6 +1,6 @@
 # Andrea055/nodeMyAdmin - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 79 | 6 | 
 | 2023-02-06 | 79 | 6 | 
 | 2023-02-05 | 79 | 6 | 
 | 2023-02-04 | 78 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 75 | 6 | 
 | 2023-01-10 | 75 | 6 | 
 | 2023-01-09 | 75 | 5 | 
-| 2023-01-08 | 75 | 5 | 
 

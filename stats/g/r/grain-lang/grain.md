@@ -1,10 +1,10 @@
 # grain-lang/grain - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 109
 
-★ Stars: 2803
+★ Stars: 2804
 
 [Open repository](https://github.com/grain-lang/grain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2804 | 109 | 
 | 2023-02-06 | 2803 | 109 | 
 | 2023-02-05 | 2802 | 109 | 
 | 2023-02-04 | 2801 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2768 | 107 | 
 | 2023-01-10 | 2766 | 107 | 
 | 2023-01-09 | 2764 | 106 | 
-| 2023-01-08 | 2762 | 105 | 
 

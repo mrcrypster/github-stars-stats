@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 80
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/UserName1080Alyner/AlynerRDP)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 2 | 80 | 
+| 2023-02-07 | 3 | 80 | 
 | 2023-02-06 | 2 | 79 | 
 | 2023-02-04 | 2 | 79 | 
 | 2023-02-03 | 2 | 78 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 2 | 70 | 
 | 2023-01-10 | 2 | 69 | 
 | 2023-01-09 | 2 | 69 | 
-| 2023-01-08 | 2 | 69 | 
 

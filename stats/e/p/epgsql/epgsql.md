@@ -1,10 +1,10 @@
 # epgsql/epgsql - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 149
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/epgsql/epgsql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 378 | 149 | 
 | 2023-02-06 | 377 | 149 | 
 | 2023-02-05 | 377 | 149 | 
 | 2023-02-04 | 377 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 376 | 149 | 
 | 2023-01-10 | 375 | 149 | 
 | 2023-01-09 | 375 | 149 | 
-| 2023-01-08 | 375 | 149 | 
 

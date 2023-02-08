@@ -1,6 +1,6 @@
 # maciejwalkowiak/yolo - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 26 | 7 | 
 | 2023-02-06 | 26 | 7 | 
 | 2023-02-05 | 26 | 7 | 
 | 2023-02-04 | 26 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 26 | 7 | 
 | 2023-01-10 | 26 | 7 | 
 | 2023-01-09 | 26 | 7 | 
-| 2023-01-08 | 26 | 7 | 
 

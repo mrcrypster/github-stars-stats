@@ -1,6 +1,6 @@
 # inpla/inpla - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 60 | 4 | 
 | 2023-02-06 | 60 | 4 | 
 | 2023-02-05 | 60 | 4 | 
 | 2023-02-04 | 60 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 41 | 2 | 
 | 2023-01-11 | 41 | 2 | 
 | 2023-01-10 | 41 | 1 | 
-| 2023-01-08 | 40 | 1 | 
 

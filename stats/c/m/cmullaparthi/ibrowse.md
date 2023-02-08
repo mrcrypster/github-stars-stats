@@ -1,6 +1,6 @@
 # cmullaparthi/ibrowse - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 514 | 195 | 
 | 2023-02-06 | 514 | 195 | 
 | 2023-02-05 | 514 | 195 | 
 | 2023-02-04 | 514 | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 516 | 194 | 
 | 2023-01-10 | 516 | 194 | 
 | 2023-01-09 | 516 | 194 | 
-| 2023-01-08 | 516 | 194 | 
 

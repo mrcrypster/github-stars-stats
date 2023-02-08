@@ -1,10 +1,10 @@
 # phase1geo/Minder - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 76
 
-★ Stars: 783
+★ Stars: 784
 
 [Open repository](https://github.com/phase1geo/Minder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 784 | 76 | 
 | 2023-02-06 | 783 | 76 | 
 | 2023-02-05 | 783 | 76 | 
 | 2023-02-04 | 783 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 774 | 75 | 
 | 2023-01-11 | 771 | 75 | 
 | 2023-01-10 | 771 | 75 | 
-| 2023-01-09 | 770 | 75 | 
 

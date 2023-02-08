@@ -1,6 +1,6 @@
 # zzsza/Boostcamp-AI-Tech-Product-Serving - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 284
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 279 | 284 | 
 | 2023-02-06 | 279 | 284 | 
 | 2023-02-05 | 279 | 285 | 
 | 2023-02-04 | 279 | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 274 | 252 | 
 | 2023-01-10 | 271 | 240 | 
 | 2023-01-09 | 269 | 197 | 
-| 2023-01-08 | 269 | 194 | 
 

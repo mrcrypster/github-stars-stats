@@ -1,10 +1,10 @@
 # typestack/class-transformer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 426
+☋ Forks: 427
 
-★ Stars: 5558
+★ Stars: 5563
 
 [Open repository](https://github.com/typestack/class-transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 5563 | 427 | 
 | 2023-02-06 | 5558 | 426 | 
 | 2023-02-05 | 5558 | 426 | 
 | 2023-02-04 | 5555 | 426 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 5487 | 424 | 
 | 2023-01-11 | 5484 | 424 | 
 | 2023-01-09 | 5479 | 424 | 
-| 2023-01-08 | 5478 | 423 | 
 

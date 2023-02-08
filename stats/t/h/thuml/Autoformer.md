@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 223
 
-★ Stars: 879
+★ Stars: 880
 
 [Open repository](https://github.com/thuml/Autoformer)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 879 | 223 | 
+| 2023-02-07 | 880 | 223 | 
 | 2023-02-06 | 878 | 223 | 
 

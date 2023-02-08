@@ -1,6 +1,6 @@
 # FluxML/Metalhead.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 291 | 62 | 
 | 2023-02-06 | 291 | 62 | 
 | 2023-02-05 | 291 | 62 | 
 | 2023-02-04 | 291 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 289 | 60 | 
 | 2023-01-11 | 289 | 60 | 
 | 2023-01-10 | 288 | 60 | 
-| 2023-01-08 | 288 | 60 | 
 

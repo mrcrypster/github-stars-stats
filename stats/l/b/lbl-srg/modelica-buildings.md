@@ -1,6 +1,6 @@
 # lbl-srg/modelica-buildings - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 168 | 131 | 
 | 2023-02-06 | 168 | 131 | 
 | 2023-02-05 | 168 | 131 | 
 | 2023-02-04 | 167 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 167 | 130 | 
 | 2023-01-10 | 166 | 130 | 
 | 2023-01-09 | 166 | 130 | 
-| 2023-01-08 | 166 | 130 | 
 

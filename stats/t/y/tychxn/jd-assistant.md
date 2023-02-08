@@ -1,10 +1,10 @@
 # tychxn/jd-assistant - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1894
 
-★ Stars: 4808
+★ Stars: 4809
 
 [Open repository](https://github.com/tychxn/jd-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4809 | 1894 | 
 | 2023-02-06 | 4808 | 1894 | 
 | 2023-02-05 | 4806 | 1893 | 
 | 2023-02-04 | 4806 | 1893 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 4799 | 1885 | 
 | 2023-01-10 | 4798 | 1885 | 
 | 2023-01-09 | 4798 | 1884 | 
-| 2023-01-08 | 4797 | 1884 | 
 

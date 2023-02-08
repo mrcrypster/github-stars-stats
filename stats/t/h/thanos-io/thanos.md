@@ -1,10 +1,10 @@
 # thanos-io/thanos - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 1794
+☋ Forks: 1795
 
-★ Stars: 11406
+★ Stars: 11409
 
 [Open repository](https://github.com/thanos-io/thanos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11409 | 1795 | 
 | 2023-02-06 | 11406 | 1794 | 
 | 2023-02-05 | 11403 | 1794 | 
 | 2023-02-04 | 11402 | 1794 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 11350 | 1773 | 
 | 2023-01-10 | 11349 | 1772 | 
 | 2023-01-09 | 11348 | 1773 | 
-| 2023-01-08 | 11345 | 1772 | 
 

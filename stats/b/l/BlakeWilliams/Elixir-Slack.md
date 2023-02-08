@@ -1,6 +1,6 @@
 # BlakeWilliams/Elixir-Slack - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 642 | 177 | 
 | 2023-02-06 | 642 | 177 | 
 | 2023-02-05 | 642 | 177 | 
 | 2023-02-04 | 642 | 177 | 

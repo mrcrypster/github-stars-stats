@@ -1,6 +1,6 @@
 # jonatan-ivanov/local-services - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 333 | 35 | 
 | 2023-02-06 | 333 | 35 | 
 | 2023-02-05 | 332 | 34 | 
 | 2023-02-04 | 331 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 316 | 31 | 
 | 2023-01-10 | 314 | 31 | 
 | 2023-01-09 | 313 | 31 | 
-| 2023-01-08 | 313 | 31 | 
 

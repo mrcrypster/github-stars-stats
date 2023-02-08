@@ -1,6 +1,6 @@
 # Shougo/neosnippet.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1106 | 109 | 
 | 2023-02-06 | 1106 | 109 | 
 | 2023-02-05 | 1106 | 109 | 
 | 2023-02-04 | 1106 | 109 | 

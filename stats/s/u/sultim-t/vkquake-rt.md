@@ -1,6 +1,6 @@
 # sultim-t/vkquake-rt - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 266 | 11 | 
 | 2023-02-06 | 266 | 11 | 
 | 2023-02-05 | 265 | 11 | 
 | 2023-02-04 | 264 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 255 | 11 | 
 | 2023-01-10 | 254 | 11 | 
 | 2023-01-09 | 254 | 11 | 
-| 2023-01-08 | 253 | 11 | 
 

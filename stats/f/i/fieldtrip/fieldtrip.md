@@ -1,8 +1,8 @@
 # fieldtrip/fieldtrip - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 668
+☋ Forks: 670
 
 ★ Stars: 688
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 688 | 670 | 
 | 2023-02-06 | 688 | 668 | 
 | 2023-02-05 | 688 | 667 | 
 | 2023-02-04 | 688 | 666 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 687 | 660 | 
 | 2023-01-10 | 687 | 660 | 
 | 2023-01-09 | 687 | 659 | 
-| 2023-01-08 | 687 | 659 | 
 

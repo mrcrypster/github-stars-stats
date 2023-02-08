@@ -1,6 +1,6 @@
 # MisterHW/LEDCard - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 47 | 2 | 
 | 2023-02-06 | 47 | 2 | 
 | 2023-02-05 | 47 | 2 | 
 | 2023-02-04 | 47 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 38 | 2 | 
 | 2023-01-10 | 37 | 2 | 
 | 2023-01-09 | 37 | 2 | 
-| 2023-01-08 | 36 | 2 | 
 

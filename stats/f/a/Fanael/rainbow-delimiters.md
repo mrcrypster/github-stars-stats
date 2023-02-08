@@ -1,6 +1,6 @@
 # Fanael/rainbow-delimiters - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 592 | 29 | 
 | 2023-02-06 | 592 | 29 | 
 | 2023-02-05 | 592 | 29 | 
 | 2023-02-04 | 592 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 585 | 29 | 
 | 2023-01-10 | 585 | 29 | 
 | 2023-01-09 | 586 | 29 | 
-| 2023-01-08 | 585 | 29 | 
 

@@ -1,10 +1,10 @@
 # XTLS/Xray-install - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 294
+☋ Forks: 295
 
-★ Stars: 831
+★ Stars: 832
 
 [Open repository](https://github.com/XTLS/Xray-install)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 832 | 295 | 
 | 2023-02-06 | 831 | 294 | 
 | 2023-02-05 | 829 | 294 | 
 | 2023-02-04 | 826 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 804 | 288 | 
 | 2023-01-10 | 805 | 288 | 
 | 2023-01-09 | 803 | 288 | 
-| 2023-01-08 | 803 | 287 | 
 

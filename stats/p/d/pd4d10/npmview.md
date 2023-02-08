@@ -1,6 +1,6 @@
 # pd4d10/npmview - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 118 | 11 | 
 | 2023-02-06 | 118 | 11 | 
 | 2023-02-05 | 118 | 11 | 
 | 2023-02-04 | 118 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 118 | 12 | 
 | 2023-01-10 | 118 | 12 | 
 | 2023-01-09 | 117 | 12 | 
-| 2023-01-08 | 117 | 12 | 
 

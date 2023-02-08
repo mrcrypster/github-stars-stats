@@ -1,10 +1,10 @@
 # cryptoc0ding/pancakeswap-prediction - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 67
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/cryptoc0ding/pancakeswap-prediction)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 85 | 67 | 
 | 2023-02-06 | 84 | 67 | 
 | 2023-02-05 | 84 | 67 | 
 | 2023-02-04 | 84 | 67 | 

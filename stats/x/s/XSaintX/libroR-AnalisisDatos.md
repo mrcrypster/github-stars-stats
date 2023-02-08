@@ -1,10 +1,10 @@
 # XSaintX/libroR-AnalisisDatos - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/XSaintX/libroR-AnalisisDatos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 283 | 2 | 
 | 2023-02-06 | 282 | 2 | 
 | 2023-02-05 | 282 | 2 | 
 | 2023-02-04 | 282 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 106 | 1 | 
 | 2023-01-10 | 104 | 1 | 
 | 2023-01-09 | 78 | 1 | 
-| 2023-01-08 | 75 | 1 | 
 

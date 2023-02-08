@@ -1,10 +1,10 @@
 # Mazamars312/Analogue_Pocket_Neogeo - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/Mazamars312/Analogue_Pocket_Neogeo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 224 | 7 | 
 | 2023-02-06 | 223 | 7 | 
 | 2023-02-05 | 223 | 7 | 
 | 2023-02-03 | 223 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 214 | 6 | 
 | 2023-01-10 | 214 | 6 | 
 | 2023-01-09 | 214 | 6 | 
-| 2023-01-08 | 213 | 6 | 
 

@@ -1,6 +1,6 @@
 # NOAA-EMC/GSI - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 41 | 120 | 
 | 2023-02-06 | 41 | 120 | 
 | 2023-02-05 | 41 | 120 | 
 | 2023-02-04 | 41 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 42 | 119 | 
 | 2023-01-10 | 42 | 119 | 
 | 2023-01-09 | 42 | 119 | 
-| 2023-01-08 | 42 | 119 | 
 

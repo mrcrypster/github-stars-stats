@@ -1,10 +1,10 @@
 # EnzymeAD/Enzyme - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 63
 
-★ Stars: 884
+★ Stars: 886
 
 [Open repository](https://github.com/EnzymeAD/Enzyme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 886 | 63 | 
 | 2023-02-06 | 884 | 63 | 
 | 2023-02-05 | 884 | 63 | 
 | 2023-02-03 | 884 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 874 | 60 | 
 | 2023-01-10 | 874 | 60 | 
 | 2023-01-09 | 874 | 60 | 
-| 2023-01-08 | 874 | 60 | 
 

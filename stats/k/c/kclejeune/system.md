@@ -1,6 +1,6 @@
 # kclejeune/system - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 295 | 37 | 
 | 2023-02-06 | 295 | 37 | 
 | 2023-02-05 | 295 | 37 | 
 | 2023-02-04 | 294 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 289 | 39 | 
 | 2023-01-10 | 288 | 39 | 
 | 2023-01-09 | 287 | 38 | 
-| 2023-01-08 | 286 | 38 | 
 

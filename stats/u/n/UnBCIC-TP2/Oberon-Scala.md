@@ -1,10 +1,10 @@
 # UnBCIC-TP2/Oberon-Scala - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 85
 
-★ Stars: 41
+★ Stars: 40
 
 [Open repository](https://github.com/UnBCIC-TP2/Oberon-Scala)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 40 | 85 | 
 | 2023-02-06 | 41 | 85 | 
 | 2023-02-05 | 41 | 85 | 
 | 2023-02-03 | 41 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 42 | 83 | 
 | 2023-01-10 | 42 | 83 | 
 | 2023-01-09 | 42 | 83 | 
-| 2023-01-08 | 42 | 83 | 
 

@@ -1,10 +1,10 @@
 # cloudposse/terraform-aws-alb - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 108
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/cloudposse/terraform-aws-alb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 82 | 108 | 
 | 2023-02-06 | 81 | 108 | 
 | 2023-02-05 | 81 | 108 | 
 | 2023-02-04 | 81 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 81 | 109 | 
 | 2023-01-11 | 81 | 109 | 
 | 2023-01-09 | 81 | 109 | 
-| 2023-01-08 | 81 | 109 | 
 

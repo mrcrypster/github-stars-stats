@@ -1,6 +1,6 @@
 # drshahizan/Python_EDA - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 47 | 46 | 
 | 2023-02-06 | 47 | 46 | 
 | 2023-02-05 | 47 | 46 | 
 | 2023-02-04 | 47 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 23 | 41 | 
 | 2023-01-10 | 22 | 41 | 
 | 2023-01-09 | 22 | 41 | 
-| 2023-01-08 | 21 | 41 | 
 

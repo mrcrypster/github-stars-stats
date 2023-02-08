@@ -1,10 +1,10 @@
 # ocurrent/solver-service - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 8
+★ Stars: 11
 
 [Open repository](https://github.com/ocurrent/solver-service)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11 | 6 | 
 | 2023-02-06 | 8 | 6 | 
 | 2023-02-05 | 8 | 6 | 
 | 2023-02-03 | 8 | 6 | 

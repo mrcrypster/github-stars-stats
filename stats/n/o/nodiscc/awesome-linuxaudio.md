@@ -1,10 +1,10 @@
 # nodiscc/awesome-linuxaudio - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 68
 
-★ Stars: 1059
+★ Stars: 1060
 
 [Open repository](https://github.com/nodiscc/awesome-linuxaudio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1060 | 68 | 
 | 2023-02-06 | 1059 | 68 | 
 | 2023-02-05 | 1059 | 68 | 
 | 2023-02-04 | 1059 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1047 | 68 | 
 | 2023-01-10 | 1046 | 68 | 
 | 2023-01-09 | 1046 | 68 | 
-| 2023-01-08 | 1045 | 68 | 
 

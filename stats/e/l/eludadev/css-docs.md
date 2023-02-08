@@ -1,6 +1,6 @@
 # eludadev/css-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 235 | 39 | 
 | 2023-02-06 | 235 | 39 | 
 | 2023-02-05 | 235 | 39 | 
 | 2023-02-04 | 234 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 225 | 37 | 
 | 2023-01-11 | 224 | 37 | 
 | 2023-01-10 | 224 | 37 | 
-| 2023-01-08 | 224 | 37 | 
 

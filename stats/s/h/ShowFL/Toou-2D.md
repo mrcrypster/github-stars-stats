@@ -1,10 +1,10 @@
 # ShowFL/Toou-2D - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 181
 
-★ Stars: 667
+★ Stars: 668
 
 [Open repository](https://github.com/ShowFL/Toou-2D)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 668 | 181 | 
 | 2023-02-06 | 667 | 181 | 
 | 2023-02-05 | 666 | 181 | 
 | 2023-02-04 | 665 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 662 | 181 | 
 | 2023-01-11 | 661 | 181 | 
 | 2023-01-10 | 661 | 181 | 
-| 2023-01-09 | 661 | 181 | 
 

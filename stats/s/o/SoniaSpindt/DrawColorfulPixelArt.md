@@ -1,6 +1,6 @@
 # SoniaSpindt/DrawColorfulPixelArt - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | - | 19 | 
 | 2023-02-06 | - | 19 | 
 | 2023-02-05 | - | 19 | 
 | 2023-02-04 | - | 19 | 

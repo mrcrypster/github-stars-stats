@@ -1,10 +1,10 @@
 # confluentinc/cp-helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 791
+☋ Forks: 792
 
-★ Stars: 740
+★ Stars: 741
 
 [Open repository](https://github.com/confluentinc/cp-helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 741 | 792 | 
 | 2023-02-06 | 740 | 791 | 
 | 2023-02-05 | 740 | 792 | 
 | 2023-02-04 | 740 | 792 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 738 | 785 | 
 | 2023-01-10 | 738 | 784 | 
 | 2023-01-09 | 738 | 784 | 
-| 2023-01-08 | 738 | 784 | 
 

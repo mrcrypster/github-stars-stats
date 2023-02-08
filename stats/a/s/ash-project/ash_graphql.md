@@ -1,10 +1,10 @@
 # ash-project/ash_graphql - stars & forks statistics
 
-Stats updated on Feb 2023, 05
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 18
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/ash-project/ash_graphql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 27 | 18 | 
 | 2023-02-05 | 26 | 18 | 
 | 2023-02-04 | 26 | 18 | 
 | 2023-02-03 | 26 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 05
 | 2023-01-11 | 22 | 16 | 
 | 2023-01-10 | 22 | 16 | 
 | 2023-01-09 | 21 | 16 | 
-| 2023-01-08 | 21 | 16 | 
 

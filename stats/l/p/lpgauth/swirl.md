@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/lpgauth/swirl)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 56 | 7 | 
+| 2023-02-07 | 57 | 7 | 
 | 2023-02-06 | 56 | 7 | 
 | 2023-02-05 | 56 | 7 | 
 | 2023-02-04 | 56 | 7 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 55 | 7 | 
 | 2023-01-10 | 55 | 7 | 
 | 2023-01-09 | 55 | 7 | 
-| 2023-01-08 | 55 | 7 | 
 

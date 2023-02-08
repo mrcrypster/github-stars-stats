@@ -1,6 +1,6 @@
 # underscoreio/essential-slick-code - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 82 | 50 | 
 | 2023-02-06 | 82 | 50 | 
 | 2023-02-05 | 82 | 50 | 
 | 2023-02-04 | 82 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 82 | 49 | 
 | 2023-01-10 | 82 | 49 | 
 | 2023-01-09 | 82 | 49 | 
-| 2023-01-08 | 82 | 49 | 
 

@@ -1,10 +1,10 @@
 # TraderGalax/java-wallet - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 38
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/TraderGalax/java-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 100 | 38 | 
 | 2023-02-06 | 99 | 38 | 
 | 2023-02-05 | 99 | 38 | 
 | 2023-02-04 | 99 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 98 | 37 | 
 | 2023-01-10 | 98 | 37 | 
 | 2023-01-09 | 98 | 37 | 
-| 2023-01-08 | 98 | 37 | 
 

@@ -1,6 +1,6 @@
 # dato-ai/dato.rss - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 607 | 15 | 
 | 2023-02-06 | 607 | 15 | 
 | 2023-02-05 | 607 | 15 | 
 | 2023-02-04 | 607 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 604 | 15 | 
 | 2023-01-10 | 604 | 15 | 
 | 2023-01-09 | 605 | 15 | 
-| 2023-01-08 | 605 | 15 | 
 

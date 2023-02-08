@@ -1,10 +1,10 @@
 # albertlauncher/albert - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 291
 
-★ Stars: 6612
+★ Stars: 6614
 
 [Open repository](https://github.com/albertlauncher/albert)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 6614 | 291 | 
 | 2023-02-06 | 6612 | 291 | 
 | 2023-02-05 | 6609 | 291 | 
 | 2023-02-04 | 6608 | 290 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 6562 | 291 | 
 | 2023-01-10 | 6560 | 292 | 
 | 2023-01-09 | 6558 | 292 | 
-| 2023-01-08 | 6554 | 292 | 
 

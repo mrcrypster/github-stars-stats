@@ -1,6 +1,6 @@
 # nystudio107/craft - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 285 | 92 | 
 | 2023-02-06 | 285 | 92 | 
 | 2023-02-05 | 285 | 92 | 
 | 2023-02-04 | 285 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 285 | 91 | 
 | 2023-01-10 | 285 | 91 | 
 | 2023-01-09 | 285 | 91 | 
-| 2023-01-08 | 285 | 91 | 
 

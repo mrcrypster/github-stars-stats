@@ -1,10 +1,10 @@
 # iranxray/hope - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 51
+☋ Forks: 55
 
-★ Stars: 589
+★ Stars: 604
 
 [Open repository](https://github.com/iranxray/hope)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 604 | 55 | 
 | 2023-02-06 | 589 | 51 | 
 | 2023-02-05 | 588 | 51 | 
 | 2023-02-04 | 563 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 445 | 35 | 
 | 2023-01-10 | 440 | 35 | 
 | 2023-01-09 | 431 | 35 | 
-| 2023-01-08 | 421 | 35 | 
 

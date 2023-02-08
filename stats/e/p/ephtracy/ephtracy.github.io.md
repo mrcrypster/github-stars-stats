@@ -1,6 +1,6 @@
 # ephtracy/ephtracy.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 283
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2244 | 283 | 
 | 2023-02-06 | 2244 | 283 | 
 | 2023-02-05 | 2242 | 283 | 
 | 2023-02-04 | 2240 | 283 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2212 | 281 | 
 | 2023-01-10 | 2212 | 281 | 
 | 2023-01-09 | 2211 | 281 | 
-| 2023-01-08 | 2210 | 281 | 
 

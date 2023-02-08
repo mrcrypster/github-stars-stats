@@ -1,10 +1,10 @@
 # BehaviorTree/BehaviorTree.CPP - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 474
+☋ Forks: 475
 
-★ Stars: 1861
+★ Stars: 1862
 
 [Open repository](https://github.com/BehaviorTree/BehaviorTree.CPP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1862 | 475 | 
 | 2023-02-06 | 1861 | 474 | 
 | 2023-02-05 | 1860 | 474 | 
 | 2023-02-04 | 1860 | 474 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1838 | 467 | 
 | 2023-01-10 | 1836 | 467 | 
 | 2023-01-09 | 1835 | 466 | 
-| 2023-01-08 | 1834 | 466 | 
 

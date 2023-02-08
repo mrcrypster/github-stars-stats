@@ -1,6 +1,6 @@
 # zeromq/cppzmq - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 721
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1497 | 721 | 
 | 2023-02-06 | 1497 | 721 | 
 | 2023-02-05 | 1493 | 721 | 
 | 2023-02-04 | 1493 | 721 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1476 | 718 | 
 | 2023-01-10 | 1475 | 718 | 
 | 2023-01-09 | 1473 | 718 | 
-| 2023-01-08 | 1473 | 717 | 
 

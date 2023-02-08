@@ -1,6 +1,6 @@
 # cloudnloud/weekly-cloud-engineer-interview-program - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 23 | 35 | 
 | 2023-02-06 | 23 | 35 | 
 | 2023-02-05 | 23 | 35 | 
 | 2023-02-04 | 23 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 19 | 26 | 
 | 2023-01-10 | 19 | 26 | 
 | 2023-01-09 | 18 | 26 | 
-| 2023-01-08 | 18 | 26 | 
 

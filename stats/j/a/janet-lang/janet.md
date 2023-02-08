@@ -1,6 +1,6 @@
 # janet-lang/janet - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2680 | 186 | 
 | 2023-02-06 | 2680 | 186 | 
 | 2023-02-05 | 2677 | 186 | 
 | 2023-02-04 | 2676 | 186 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2660 | 184 | 
 | 2023-01-11 | 2660 | 183 | 
 | 2023-01-10 | 2659 | 183 | 
-| 2023-01-08 | 2659 | 184 | 
 

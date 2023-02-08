@@ -1,10 +1,10 @@
 # prateekmedia/pstube - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 47
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/prateekmedia/pstube)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 272 | 47 | 
 | 2023-02-06 | 271 | 47 | 
 | 2023-02-05 | 271 | 47 | 
 | 2023-02-04 | 271 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 260 | 46 | 
 | 2023-01-10 | 258 | 46 | 
 | 2023-01-09 | 257 | 46 | 
-| 2023-01-08 | 256 | 46 | 
 

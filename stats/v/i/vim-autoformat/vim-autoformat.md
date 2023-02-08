@@ -1,10 +1,10 @@
 # vim-autoformat/vim-autoformat - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 173
 
-★ Stars: 2139
+★ Stars: 2140
 
 [Open repository](https://github.com/vim-autoformat/vim-autoformat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2140 | 173 | 
 | 2023-02-06 | 2139 | 173 | 
 | 2023-02-05 | 2139 | 173 | 
 | 2023-02-04 | 2140 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 2134 | 174 | 
 | 2023-01-11 | 2134 | 174 | 
 | 2023-01-09 | 2134 | 174 | 
-| 2023-01-08 | 2133 | 174 | 
 

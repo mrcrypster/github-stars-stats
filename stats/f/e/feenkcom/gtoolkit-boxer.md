@@ -1,10 +1,10 @@
 # feenkcom/gtoolkit-boxer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/feenkcom/gtoolkit-boxer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 6 | 1 | 
 | 2023-02-06 | 5 | 1 | 
 | 2023-02-05 | 5 | 1 | 
 | 2023-02-04 | 5 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 3 | 1 | 
 | 2023-01-10 | 3 | 1 | 
 | 2023-01-09 | 3 | 1 | 
-| 2023-01-08 | 3 | 1 | 
 

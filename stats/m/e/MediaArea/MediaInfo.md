@@ -1,10 +1,10 @@
 # MediaArea/MediaInfo - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 116
 
-★ Stars: 917
+★ Stars: 916
 
 [Open repository](https://github.com/MediaArea/MediaInfo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 916 | 116 | 
 | 2023-02-06 | 917 | 116 | 
 | 2023-02-05 | 917 | 116 | 
 | 2023-02-04 | 917 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 898 | 117 | 
 | 2023-01-10 | 898 | 117 | 
 | 2023-01-09 | 897 | 117 | 
-| 2023-01-08 | 896 | 117 | 
 

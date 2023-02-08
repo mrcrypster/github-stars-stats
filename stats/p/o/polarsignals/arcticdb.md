@@ -1,10 +1,10 @@
 # polarsignals/arcticdb - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 860
+★ Stars: 862
 
 [Open repository](https://github.com/polarsignals/arcticdb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 862 | 51 | 
 | 2023-02-06 | 860 | 50 | 
 | 2023-02-05 | 859 | 50 | 
 | 2023-02-04 | 859 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 842 | 49 | 
 | 2023-01-10 | 842 | 49 | 
 | 2023-01-09 | 842 | 49 | 
-| 2023-01-08 | 842 | 49 | 
 

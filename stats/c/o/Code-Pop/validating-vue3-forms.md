@@ -1,6 +1,6 @@
 # Code-Pop/validating-vue3-forms - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 38 | 50 | 
 | 2023-02-06 | 38 | 50 | 
 | 2023-02-05 | 38 | 50 | 
 | 2023-02-04 | 38 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 38 | 50 | 
 | 2023-01-10 | 38 | 50 | 
 | 2023-01-09 | 38 | 50 | 
-| 2023-01-08 | 38 | 50 | 
 

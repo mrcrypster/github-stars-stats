@@ -1,10 +1,10 @@
 # dnfield/flutter_svg - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 397
 
-★ Stars: 1486
+★ Stars: 1487
 
 [Open repository](https://github.com/dnfield/flutter_svg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1487 | 397 | 
 | 2023-02-06 | 1486 | 397 | 
 | 2023-02-05 | 1486 | 397 | 
 | 2023-02-03 | 1487 | 397 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1477 | 391 | 
 | 2023-01-10 | 1476 | 391 | 
 | 2023-01-09 | 1475 | 391 | 
-| 2023-01-08 | 1475 | 391 | 
 

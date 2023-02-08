@@ -1,6 +1,6 @@
 # render-examples/metabase - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 10 | 105 | 
 | 2023-02-06 | 10 | 105 | 
 | 2023-02-05 | 10 | 103 | 
 | 2023-02-04 | 10 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 10 | 102 | 
 | 2023-01-10 | 10 | 102 | 
 | 2023-01-09 | 10 | 102 | 
-| 2023-01-08 | 10 | 102 | 
 

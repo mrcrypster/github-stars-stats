@@ -1,6 +1,6 @@
 # LovelyWhite/ddmc - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 68 | 30 | 
 | 2023-02-06 | 68 | 30 | 
 | 2023-02-05 | 68 | 30 | 
 | 2023-02-04 | 68 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 68 | 30 | 
 | 2023-01-11 | 68 | 30 | 
 | 2023-01-10 | 68 | 30 | 
-| 2023-01-09 | 68 | 30 | 
 

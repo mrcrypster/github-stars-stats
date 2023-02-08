@@ -1,10 +1,10 @@
 # ivanvorobei/SwiftUI - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 469
 
-★ Stars: 4184
+★ Stars: 4186
 
 [Open repository](https://github.com/ivanvorobei/SwiftUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 4186 | 469 | 
 | 2023-02-06 | 4184 | 469 | 
 | 2023-02-05 | 4182 | 469 | 
 | 2023-02-04 | 4181 | 468 | 

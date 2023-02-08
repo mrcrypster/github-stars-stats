@@ -1,10 +1,10 @@
 # feenkcom/gt4pharo - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/feenkcom/gt4pharo)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 5 | 3 | 
+| 2023-02-08 | 6 | 3 | 
+| 2023-02-07 | 6 | 3 | 
 | 2023-02-05 | 5 | 3 | 
 | 2023-02-04 | 5 | 3 | 
 | 2023-02-03 | 5 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 5 | 3 | 
 | 2023-01-10 | 5 | 3 | 
 | 2023-01-09 | 5 | 3 | 
-| 2023-01-08 | 5 | 3 | 
 

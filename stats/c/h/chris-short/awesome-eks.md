@@ -1,6 +1,6 @@
 # chris-short/awesome-eks - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 64 | 19 | 
 | 2023-02-06 | 64 | 19 | 
 | 2023-02-05 | 64 | 19 | 
 | 2023-02-04 | 64 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 64 | 19 | 
 | 2023-01-10 | 64 | 19 | 
 | 2023-01-09 | 64 | 19 | 
-| 2023-01-08 | 64 | 19 | 
 

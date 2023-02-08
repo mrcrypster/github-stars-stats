@@ -1,6 +1,6 @@
 # mlampros/fuzzywuzzyR - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 35 | 4 | 
 | 2023-02-06 | 35 | 4 | 
 | 2023-02-05 | 35 | 4 | 
 | 2023-02-03 | 35 | 4 | 

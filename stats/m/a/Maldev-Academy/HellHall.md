@@ -1,10 +1,10 @@
 # Maldev-Academy/HellHall - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 27
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/Maldev-Academy/HellHall)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 165 | 27 | 
 | 2023-02-06 | 164 | 27 | 
 | 2023-02-05 | 161 | 24 | 
 | 2023-02-04 | 160 | 24 | 

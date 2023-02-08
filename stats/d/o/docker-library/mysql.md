@@ -1,10 +1,10 @@
 # docker-library/mysql - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 2138
 
-★ Stars: 2233
+★ Stars: 2234
 
 [Open repository](https://github.com/docker-library/mysql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 2234 | 2138 | 
 | 2023-02-06 | 2233 | 2138 | 
 | 2023-02-05 | 2233 | 2138 | 
 | 2023-02-04 | 2232 | 2138 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 2226 | 2130 | 
 | 2023-01-10 | 2225 | 2129 | 
 | 2023-01-09 | 2225 | 2128 | 
-| 2023-01-08 | 2227 | 2128 | 
 

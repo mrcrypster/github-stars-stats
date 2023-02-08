@@ -1,6 +1,6 @@
 # domtronn/all-the-icons.el - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1318 | 158 | 
 | 2023-02-06 | 1318 | 158 | 
 | 2023-02-05 | 1318 | 158 | 
 | 2023-02-04 | 1317 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 1304 | 155 | 
 | 2023-01-10 | 1304 | 155 | 
 | 2023-01-09 | 1303 | 155 | 
-| 2023-01-08 | 1303 | 155 | 
 

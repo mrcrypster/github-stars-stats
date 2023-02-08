@@ -1,6 +1,6 @@
 # scubaandre/SmartThings-Styrbar - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 8 | 43 | 
 | 2023-02-06 | 8 | 43 | 
 | 2023-02-05 | 8 | 43 | 
 | 2023-02-04 | 8 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 8 | 42 | 
 | 2023-01-10 | 8 | 42 | 
 | 2023-01-09 | 8 | 42 | 
-| 2023-01-08 | 8 | 42 | 
 

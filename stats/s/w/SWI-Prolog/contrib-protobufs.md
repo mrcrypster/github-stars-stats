@@ -1,6 +1,6 @@
 # SWI-Prolog/contrib-protobufs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 7 | 6 | 
 | 2023-02-06 | 7 | 6 | 
 | 2023-02-05 | 6 | 6 | 
 | 2023-02-03 | 6 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 6 | 6 | 
 | 2023-01-11 | 6 | 6 | 
 | 2023-01-09 | 6 | 6 | 
-| 2023-01-08 | 6 | 6 | 
 

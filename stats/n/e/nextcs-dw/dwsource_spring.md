@@ -1,6 +1,6 @@
 # nextcs-dw/dwsource_spring - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | - | 8 | 
 | 2023-02-06 | - | 8 | 
 | 2023-02-05 | - | 8 | 
 | 2023-02-04 | - | 8 | 

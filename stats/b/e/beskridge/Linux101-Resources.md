@@ -1,6 +1,6 @@
 # beskridge/Linux101-Resources - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 150 | 45 | 
 | 2023-02-06 | 150 | 45 | 
 | 2023-02-05 | 150 | 45 | 
 | 2023-02-04 | 150 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 141 | 44 | 
 | 2023-01-10 | 140 | 44 | 
 | 2023-01-09 | 140 | 44 | 
-| 2023-01-08 | 139 | 44 | 
 

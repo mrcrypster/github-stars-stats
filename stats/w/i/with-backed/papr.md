@@ -1,6 +1,6 @@
 # with-backed/papr - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 8 | 3 | 
 | 2023-02-06 | 8 | 3 | 
 | 2023-02-05 | 8 | 3 | 
 | 2023-02-04 | 8 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 3 | 3 | 
 | 2023-01-11 | 3 | 3 | 
 | 2023-01-09 | 3 | 3 | 
-| 2023-01-08 | 2 | 3 | 
 

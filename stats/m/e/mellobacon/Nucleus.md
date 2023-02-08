@@ -1,10 +1,10 @@
 # mellobacon/Nucleus - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 19
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/mellobacon/Nucleus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 67 | 19 | 
 | 2023-02-06 | 65 | 19 | 
 | 2023-02-05 | 64 | 19 | 
 | 2023-02-04 | 64 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 62 | 19 | 
 | 2023-01-10 | 61 | 18 | 
 | 2023-01-09 | 61 | 18 | 
-| 2023-01-08 | 61 | 18 | 
 

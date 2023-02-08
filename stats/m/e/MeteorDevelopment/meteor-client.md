@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 07
 
 ☋ Forks: 480
 
-★ Stars: 1210
+★ Stars: 1212
 
 [Open repository](https://github.com/MeteorDevelopment/meteor-client)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-07 | 1210 | 480 | 
+| 2023-02-07 | 1212 | 480 | 
 | 2023-02-06 | 1210 | 480 | 
 | 2023-02-05 | 1206 | 479 | 
 | 2023-02-03 | 1200 | 474 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 1153 | 456 | 
 | 2023-01-10 | 1150 | 456 | 
 | 2023-01-09 | 1150 | 453 | 
-| 2023-01-08 | 1149 | 453 | 
 

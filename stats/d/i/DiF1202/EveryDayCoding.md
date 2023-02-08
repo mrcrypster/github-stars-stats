@@ -1,6 +1,6 @@
 # DiF1202/EveryDayCoding - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 77 | 7 | 
 | 2023-02-06 | 77 | 7 | 
 | 2023-02-05 | 77 | 7 | 
 | 2023-02-03 | 77 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 72 | 8 | 
 | 2023-01-10 | 72 | 8 | 
 | 2023-01-09 | 72 | 8 | 
-| 2023-01-08 | 72 | 8 | 
 

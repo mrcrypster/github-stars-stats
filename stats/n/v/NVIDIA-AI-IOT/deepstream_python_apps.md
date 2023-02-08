@@ -1,6 +1,6 @@
 # NVIDIA-AI-IOT/deepstream_python_apps - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 977 | 375 | 
 | 2023-02-06 | 977 | 375 | 
 | 2023-02-05 | 975 | 374 | 
 | 2023-02-03 | 975 | 373 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 962 | 370 | 
 | 2023-01-10 | 960 | 368 | 
 | 2023-01-09 | 960 | 368 | 
-| 2023-01-08 | 960 | 369 | 
 

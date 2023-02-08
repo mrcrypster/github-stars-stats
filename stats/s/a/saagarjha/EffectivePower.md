@@ -1,10 +1,10 @@
 # saagarjha/EffectivePower - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/saagarjha/EffectivePower)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 135 | 7 | 
 | 2023-02-06 | 134 | 7 | 
 | 2023-02-05 | 133 | 7 | 
 | 2023-02-04 | 133 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 133 | 7 | 
 | 2023-01-10 | 133 | 7 | 
 | 2023-01-09 | 133 | 7 | 
-| 2023-01-08 | 133 | 7 | 
 

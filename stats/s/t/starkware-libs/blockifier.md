@@ -1,10 +1,10 @@
 # starkware-libs/blockifier - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 46
+★ Stars: 48
 
 [Open repository](https://github.com/starkware-libs/blockifier)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 48 | 3 | 
 | 2023-02-06 | 46 | 3 | 
 | 2023-02-05 | 45 | 3 | 
 | 2023-02-04 | 38 | 3 | 

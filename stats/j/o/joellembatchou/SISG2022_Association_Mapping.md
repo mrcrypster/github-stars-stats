@@ -1,6 +1,6 @@
 # joellembatchou/SISG2022_Association_Mapping - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 1 | 4 | 
 | 2023-02-06 | 1 | 4 | 
 | 2023-02-05 | 1 | 4 | 
 | 2023-02-04 | 1 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 1 | 4 | 
 | 2023-01-11 | - | 4 | 
 | 2023-01-10 | - | 4 | 
-| 2023-01-09 | - | 4 | 
 

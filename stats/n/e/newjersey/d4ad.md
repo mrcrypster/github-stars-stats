@@ -1,6 +1,6 @@
 # newjersey/d4ad - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 6 | - | 
 | 2023-02-06 | 6 | - | 
 | 2023-02-05 | 6 | - | 
 | 2023-02-03 | 6 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 7 | - | 
 | 2023-01-10 | 7 | - | 
 | 2023-01-09 | 7 | - | 
-| 2023-01-08 | 7 | - | 
 

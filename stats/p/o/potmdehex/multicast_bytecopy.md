@@ -1,6 +1,6 @@
 # potmdehex/multicast_bytecopy - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 245 | 36 | 
 | 2023-02-06 | 245 | 36 | 
 | 2023-02-05 | 244 | 36 | 
 | 2023-02-04 | 243 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 243 | 36 | 
 | 2023-01-10 | 243 | 36 | 
 | 2023-01-09 | 243 | 36 | 
-| 2023-01-08 | 243 | 36 | 
 

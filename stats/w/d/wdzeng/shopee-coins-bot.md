@@ -1,10 +1,10 @@
 # wdzeng/shopee-coins-bot - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 699
+☋ Forks: 701
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/wdzeng/shopee-coins-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 343 | 701 | 
 | 2023-02-06 | 342 | 699 | 
 | 2023-02-05 | 341 | 701 | 
 | 2023-02-04 | 340 | 701 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 333 | 692 | 
 | 2023-01-10 | 333 | 691 | 
 | 2023-01-09 | 333 | 689 | 
-| 2023-01-08 | 332 | 688 | 
 

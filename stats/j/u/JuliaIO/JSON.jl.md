@@ -1,6 +1,6 @@
 # JuliaIO/JSON.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 279 | 95 | 
 | 2023-02-06 | 279 | 95 | 
 | 2023-02-05 | 279 | 95 | 
 | 2023-02-04 | 279 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 274 | 95 | 
 | 2023-01-10 | 274 | 95 | 
 | 2023-01-09 | 274 | 95 | 
-| 2023-01-08 | 274 | 95 | 
 

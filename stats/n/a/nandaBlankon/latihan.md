@@ -1,6 +1,6 @@
 # nandaBlankon/latihan - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | - | 24 | 
 | 2023-02-06 | - | 24 | 
 | 2023-02-05 | - | 24 | 
 | 2023-02-04 | - | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | - | 24 | 
 | 2023-01-10 | - | 24 | 
 | 2023-01-09 | - | 23 | 
-| 2023-01-08 | - | 23 | 
 

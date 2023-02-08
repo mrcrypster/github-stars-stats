@@ -1,10 +1,10 @@
 # alexlenail/NN-SVG - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 402
+☋ Forks: 403
 
-★ Stars: 3229
+★ Stars: 3233
 
 [Open repository](https://github.com/alexlenail/NN-SVG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 3233 | 403 | 
 | 2023-02-06 | 3229 | 402 | 
 | 2023-02-05 | 3226 | 402 | 
 | 2023-02-03 | 3225 | 403 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 3204 | 401 | 
 | 2023-01-10 | 3203 | 401 | 
 | 2023-01-09 | 3204 | 401 | 
-| 2023-01-08 | 3202 | 401 | 
 

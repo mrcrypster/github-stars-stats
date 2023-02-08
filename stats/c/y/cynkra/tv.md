@@ -1,6 +1,6 @@
 # cynkra/tv - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 14 | 1 | 
 | 2023-02-06 | 14 | 1 | 
 | 2023-02-05 | 14 | 1 | 
 | 2023-02-03 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 15 | 1 | 
 | 2023-01-10 | 15 | 1 | 
 | 2023-01-09 | 15 | 1 | 
-| 2023-01-08 | 15 | 1 | 
 

@@ -1,10 +1,10 @@
 # HMC2910/loveVanHa - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 94
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/HMC2910/loveVanHa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 36 | 94 | 
 | 2023-02-06 | 35 | 94 | 
 | 2023-02-05 | 35 | 94 | 
 | 2023-02-03 | 35 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 35 | 93 | 
 | 2023-01-10 | 35 | 93 | 
 | 2023-01-09 | 35 | 93 | 
-| 2023-01-08 | 35 | 93 | 
 

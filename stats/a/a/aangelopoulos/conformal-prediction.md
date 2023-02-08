@@ -1,10 +1,10 @@
 # aangelopoulos/conformal-prediction - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 35
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/aangelopoulos/conformal-prediction)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 288 | 35 | 
 | 2023-02-06 | 287 | 35 | 
 | 2023-02-05 | 287 | 35 | 
 | 2023-02-04 | 287 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 262 | 32 | 
 | 2023-01-11 | 261 | 32 | 
 | 2023-01-10 | 261 | 32 | 
-| 2023-01-09 | 261 | 32 | 
 

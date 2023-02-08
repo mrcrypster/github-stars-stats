@@ -1,10 +1,10 @@
 # ender-zhao/Clash-for-Windows_Chinese - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 471
+☋ Forks: 474
 
-★ Stars: 5266
+★ Stars: 5287
 
 [Open repository](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 5287 | 474 | 
 | 2023-02-06 | 5266 | 471 | 
 | 2023-02-05 | 5250 | 471 | 
 | 2023-02-04 | 5234 | 469 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 4934 | 456 | 
 | 2023-01-10 | 4926 | 455 | 
 | 2023-01-09 | 4910 | 454 | 
-| 2023-01-08 | 4901 | 454 | 
 

@@ -1,10 +1,10 @@
 # atigger/COC-Helper - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/atigger/COC-Helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 17 | 7 | 
 | 2023-02-06 | 16 | 7 | 
 | 2023-02-05 | 16 | 7 | 
 | 2023-02-04 | 16 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 14 | 7 | 
 | 2023-01-10 | 14 | 7 | 
 | 2023-01-09 | 14 | 7 | 
-| 2023-01-08 | 14 | 7 | 
 

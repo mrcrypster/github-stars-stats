@@ -1,10 +1,10 @@
 # ethereum/EIPs - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 07
 
-☋ Forks: 4208
+☋ Forks: 4214
 
-★ Stars: 11108
+★ Stars: 11111
 
 [Open repository](https://github.com/ethereum/EIPs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-07 | 11111 | 4214 | 
 | 2023-02-06 | 11108 | 4208 | 
 | 2023-02-05 | 11102 | 4201 | 
 | 2023-02-04 | 11100 | 4198 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-11 | 10985 | 4138 | 
 | 2023-01-10 | 10984 | 4136 | 
 | 2023-01-09 | 10977 | 4135 | 
-| 2023-01-08 | 10970 | 4131 | 
 

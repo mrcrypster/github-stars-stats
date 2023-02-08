@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-acm-request-certificate - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 87 | 61 | 
 | 2023-02-07 | 87 | 61 | 
 | 2023-02-05 | 87 | 61 | 
 | 2023-02-04 | 87 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-11 | 85 | 60 | 
 | 2023-01-10 | 85 | 60 | 
 | 2023-01-09 | 85 | 60 | 
-| 2023-01-08 | 85 | 60 | 
 
