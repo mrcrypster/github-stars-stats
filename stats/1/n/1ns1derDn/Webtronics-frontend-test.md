@@ -1,6 +1,6 @@
 # 1ns1derDn/Webtronics-frontend-test - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2 | 20 | 
 | 2023-02-07 | 2 | 20 | 
 | 2023-02-06 | 2 | 20 | 
 | 2023-02-05 | 2 | 20 | 

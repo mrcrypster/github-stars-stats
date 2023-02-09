@@ -1,10 +1,10 @@
 # toss/yarn-standard-workspace - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 36
+★ Stars: 40
 
 [Open repository](https://github.com/toss/yarn-standard-workspace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 40 | 6 | 
 | 2023-02-07 | 36 | 6 | 
 | 2023-02-06 | 36 | 5 | 
 | 2023-02-05 | 34 | 5 | 

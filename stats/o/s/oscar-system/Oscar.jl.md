@@ -1,10 +1,10 @@
 # oscar-system/Oscar.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 69
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/oscar-system/Oscar.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 190 | 69 | 
 | 2023-02-07 | 189 | 69 | 
 | 2023-02-05 | 189 | 69 | 
 | 2023-02-04 | 189 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 184 | 63 | 
 | 2023-01-12 | 184 | 63 | 
 | 2023-01-11 | 184 | 62 | 
-| 2023-01-09 | 184 | 62 | 
 

@@ -1,10 +1,10 @@
 # jasontaylordev/CleanArchitecture - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2476
+☋ Forks: 2479
 
-★ Stars: 10913
+★ Stars: 10934
 
 [Open repository](https://github.com/jasontaylordev/CleanArchitecture)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 10934 | 2479 | 
 | 2023-02-07 | 10913 | 2476 | 
 | 2023-02-06 | 10901 | 2472 | 
 | 2023-02-05 | 10899 | 2471 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 10680 | 2428 | 
 | 2023-01-11 | 10667 | 2427 | 
 | 2023-01-10 | 10642 | 2416 | 
-| 2023-01-09 | 10640 | 2416 | 
 

@@ -1,10 +1,10 @@
 # java-native-access/jna - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1619
 
-★ Stars: 7629
+★ Stars: 7630
 
 [Open repository](https://github.com/java-native-access/jna)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 7630 | 1619 | 
 | 2023-02-07 | 7629 | 1619 | 
 | 2023-02-06 | 7627 | 1619 | 
 | 2023-02-05 | 7626 | 1619 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 7589 | 1613 | 
 | 2023-01-11 | 7583 | 1613 | 
 | 2023-01-10 | 7580 | 1611 | 
-| 2023-01-09 | 7577 | 1611 | 
 

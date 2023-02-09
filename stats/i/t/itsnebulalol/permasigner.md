@@ -1,8 +1,8 @@
 # itsnebulalol/permasigner - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 151
+☋ Forks: 152
 
 ★ Stars: 412
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 412 | 152 | 
 | 2023-02-07 | 412 | 151 | 
 | 2023-02-05 | 412 | 151 | 
 | 2023-02-04 | 412 | 151 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 407 | 148 | 
 | 2023-01-11 | 407 | 147 | 
 | 2023-01-10 | 407 | 147 | 
-| 2023-01-09 | 406 | 147 | 
 

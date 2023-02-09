@@ -1,10 +1,10 @@
 # oegedijk/explainerdashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 208
 
-★ Stars: 1573
+★ Stars: 1575
 
 [Open repository](https://github.com/oegedijk/explainerdashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1575 | 208 | 
 | 2023-02-07 | 1573 | 208 | 
 | 2023-02-06 | 1571 | 208 | 
 | 2023-02-05 | 1570 | 208 | 

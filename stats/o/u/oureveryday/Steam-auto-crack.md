@@ -1,10 +1,10 @@
 # oureveryday/Steam-auto-crack - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 20
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/oureveryday/Steam-auto-crack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 282 | 20 | 
 | 2023-02-07 | 281 | 20 | 
 | 2023-02-06 | 277 | 20 | 
 | 2023-02-05 | 276 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 258 | 18 | 
 | 2023-01-11 | 259 | 18 | 
 | 2023-01-10 | 259 | 18 | 
-| 2023-01-09 | 259 | 18 | 
 

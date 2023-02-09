@@ -1,10 +1,10 @@
 # biratdatta/Webpage-Maker - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 147
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/biratdatta/Webpage-Maker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 53 | 147 | 
 | 2023-02-07 | 52 | 147 | 
 | 2023-02-05 | 52 | 147 | 
 | 2023-02-04 | 52 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 52 | 148 | 
 | 2023-01-11 | 52 | 148 | 
 | 2023-01-10 | 52 | 148 | 
-| 2023-01-09 | 52 | 148 | 
 

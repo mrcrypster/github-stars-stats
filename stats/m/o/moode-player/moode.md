@@ -1,10 +1,10 @@
 # moode-player/moode - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 148
 
-★ Stars: 703
+★ Stars: 702
 
 [Open repository](https://github.com/moode-player/moode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 702 | 148 | 
 | 2023-02-07 | 703 | 148 | 
 | 2023-02-06 | 703 | 148 | 
 | 2023-02-05 | 703 | 148 | 

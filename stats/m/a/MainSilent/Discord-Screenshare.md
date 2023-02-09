@@ -1,6 +1,6 @@
 # MainSilent/Discord-Screenshare - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 273 | 88 | 
 | 2023-02-07 | 273 | 88 | 
 | 2023-02-05 | 273 | 88 | 
 | 2023-02-04 | 272 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 270 | 81 | 
 | 2023-01-11 | 269 | 81 | 
 | 2023-01-10 | 269 | 81 | 
-| 2023-01-09 | 267 | 81 | 
 

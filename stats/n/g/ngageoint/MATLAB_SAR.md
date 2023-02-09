@@ -1,6 +1,6 @@
 # ngageoint/MATLAB_SAR - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 147 | 66 | 
 | 2023-02-07 | 147 | 66 | 
 | 2023-02-06 | 146 | 66 | 
 | 2023-02-05 | 146 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 146 | 65 | 
 | 2023-01-11 | 146 | 65 | 
 | 2023-01-10 | 146 | 65 | 
-| 2023-01-09 | 146 | 65 | 
 

@@ -1,6 +1,6 @@
 # duytq94/cross-platform-how-it-works - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 32 | 15 | 
 | 2023-02-07 | 32 | 15 | 
 | 2023-02-06 | 32 | 15 | 
 | 2023-02-05 | 32 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 32 | 15 | 
 | 2023-01-11 | 32 | 15 | 
 | 2023-01-10 | 32 | 15 | 
-| 2023-01-09 | 32 | 15 | 
 

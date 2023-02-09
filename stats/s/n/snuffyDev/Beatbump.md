@@ -1,10 +1,10 @@
 # snuffyDev/Beatbump - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 54
 
-★ Stars: 604
+★ Stars: 605
 
 [Open repository](https://github.com/snuffyDev/Beatbump)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 605 | 54 | 
 | 2023-02-07 | 604 | 54 | 
 | 2023-02-06 | 602 | 53 | 
 | 2023-02-05 | 600 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 548 | 49 | 
 | 2023-01-11 | 549 | 50 | 
 | 2023-01-10 | 547 | 50 | 
-| 2023-01-09 | 543 | 50 | 
 

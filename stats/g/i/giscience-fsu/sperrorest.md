@@ -1,10 +1,10 @@
 # giscience-fsu/sperrorest - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/giscience-fsu/sperrorest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 15 | 4 | 
 | 2023-02-06 | 14 | 4 | 
 | 2023-02-05 | 14 | 4 | 
 | 2023-02-04 | 14 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 14 | 4 | 
 | 2023-01-11 | 14 | 4 | 
 | 2023-01-10 | 14 | 4 | 
-| 2023-01-09 | 14 | 4 | 
 

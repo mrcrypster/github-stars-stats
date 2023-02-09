@@ -1,6 +1,6 @@
 # marler8997/ziglibc - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 95 | 4 | 
 | 2023-02-07 | 95 | 4 | 
 | 2023-02-06 | 95 | 4 | 
 | 2023-02-05 | 95 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 93 | 4 | 
 | 2023-01-11 | 93 | 4 | 
 | 2023-01-10 | 93 | 4 | 
-| 2023-01-09 | 94 | 4 | 
 

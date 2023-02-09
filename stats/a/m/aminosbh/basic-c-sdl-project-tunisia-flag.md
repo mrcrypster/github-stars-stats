@@ -1,10 +1,10 @@
 # aminosbh/basic-c-sdl-project-tunisia-flag - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/aminosbh/basic-c-sdl-project-tunisia-flag)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 29 | - | 
 | 2023-02-07 | 28 | - | 
 | 2023-02-06 | 28 | - | 
 | 2023-02-04 | 28 | - | 

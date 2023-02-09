@@ -1,10 +1,10 @@
 # wuchangming/chat-gpt-ask-question-engineer-handbook - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 456
+★ Stars: 468
 
 [Open repository](https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 468 | 15 | 
 | 2023-02-07 | 456 | 15 | 
 | 2023-02-05 | 442 | 14 | 
 | 2023-02-04 | 438 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 413 | 12 | 
 | 2023-01-11 | 412 | 12 | 
 | 2023-01-10 | 412 | 12 | 
-| 2023-01-09 | 411 | 10 | 
 

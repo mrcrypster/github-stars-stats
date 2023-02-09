@@ -1,6 +1,6 @@
 # chipsalliance/Cores-SweRV-EL2 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 162 | 47 | 
 | 2023-02-07 | 162 | 47 | 
 | 2023-02-06 | 162 | 47 | 
 | 2023-02-05 | 162 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 161 | 46 | 
 | 2023-01-11 | 161 | 46 | 
 | 2023-01-10 | 161 | 46 | 
-| 2023-01-09 | 161 | 46 | 
 

@@ -1,10 +1,10 @@
 # rose-pine/neovim - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 64
 
-★ Stars: 753
+★ Stars: 758
 
 [Open repository](https://github.com/rose-pine/neovim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 758 | 64 | 
 | 2023-02-07 | 753 | 64 | 
 | 2023-02-06 | 749 | 64 | 
 | 2023-02-05 | 747 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 676 | 59 | 
 | 2023-01-11 | 674 | 58 | 
 | 2023-01-10 | 673 | 58 | 
-| 2023-01-09 | 671 | 57 | 
 

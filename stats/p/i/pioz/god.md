@@ -1,10 +1,10 @@
 # pioz/god - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 207
+★ Stars: 206
 
 [Open repository](https://github.com/pioz/god)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 206 | 11 | 
 | 2023-02-07 | 207 | 11 | 
 | 2023-02-06 | 207 | 11 | 
 | 2023-02-05 | 207 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 207 | 11 | 
 | 2023-01-11 | 207 | 11 | 
 | 2023-01-10 | 207 | 11 | 
-| 2023-01-09 | 207 | 11 | 
 

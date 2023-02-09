@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 08
 
-☋ Forks: 252
+☋ Forks: 276
 
-★ Stars: 1704
+★ Stars: 1804
 
 [Open repository](https://github.com/wangrongding/wechat-bot)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 1704 | 252 | 
+| 2023-02-08 | 1804 | 276 | 
 | 2023-02-07 | 1702 | 251 | 
 | 2023-02-06 | 1622 | 228 | 
 | 2023-02-05 | 1520 | 213 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 1133 | 164 | 
 | 2023-01-11 | 1127 | 165 | 
 | 2023-01-10 | 1117 | 160 | 
-| 2023-01-09 | 1111 | 159 | 
 

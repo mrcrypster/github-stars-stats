@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 54 | 7 | 
+| 2023-02-08 | 55 | 7 | 
 | 2023-02-07 | 54 | 7 | 
 

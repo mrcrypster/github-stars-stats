@@ -1,10 +1,10 @@
 # Dzaky0/Rdp-Free - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 354
+☋ Forks: 360
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Dzaky0/Rdp-Free)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 2 | 354 | 
+| 2023-02-09 | 3 | 360 | 
+| 2023-02-08 | 3 | 358 | 
 | 2023-02-06 | 1 | 343 | 
 | 2023-02-05 | 1 | 335 | 
 | 2023-02-04 | 1 | 320 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | - | 134 | 
 | 2023-01-11 | - | 133 | 
 | 2023-01-10 | - | 133 | 
-| 2023-01-09 | - | 133 | 
 

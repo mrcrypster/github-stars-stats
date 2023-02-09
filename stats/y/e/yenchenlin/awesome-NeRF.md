@@ -1,10 +1,10 @@
 # yenchenlin/awesome-NeRF - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 435
 
-★ Stars: 4030
+★ Stars: 4038
 
 [Open repository](https://github.com/yenchenlin/awesome-NeRF)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4038 | 435 | 
 | 2023-02-07 | 4030 | 435 | 
 | 2023-02-06 | 4024 | 434 | 
 | 2023-02-05 | 4017 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3916 | 428 | 
 | 2023-01-11 | 3912 | 428 | 
 | 2023-01-10 | 3909 | 428 | 
-| 2023-01-09 | 3904 | 428 | 
 

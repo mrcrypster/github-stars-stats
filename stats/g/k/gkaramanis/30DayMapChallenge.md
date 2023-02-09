@@ -1,6 +1,6 @@
 # gkaramanis/30DayMapChallenge - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 59 | 8 | 
 | 2023-02-07 | 59 | 8 | 
 | 2023-02-06 | 59 | 8 | 
 | 2023-02-05 | 59 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 57 | 8 | 
 | 2023-01-11 | 57 | 8 | 
 | 2023-01-10 | 57 | 8 | 
-| 2023-01-09 | 57 | 8 | 
 

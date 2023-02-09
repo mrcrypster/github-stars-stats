@@ -1,8 +1,8 @@
 # kweatherman/yara4ida - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 41 | 7 | 
 | 2023-02-07 | 41 | 6 | 
 | 2023-02-06 | 41 | 6 | 
 | 2023-02-05 | 40 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 39 | 6 | 
 | 2023-01-11 | 39 | 6 | 
 | 2023-01-10 | 38 | 6 | 
-| 2023-01-09 | 38 | 6 | 
 

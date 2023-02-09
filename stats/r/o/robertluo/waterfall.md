@@ -1,10 +1,10 @@
 # robertluo/waterfall - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/robertluo/waterfall)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 16 | - | 
 | 2023-02-07 | 15 | - | 
 | 2023-02-06 | 15 | - | 
 | 2023-02-05 | 15 | - | 

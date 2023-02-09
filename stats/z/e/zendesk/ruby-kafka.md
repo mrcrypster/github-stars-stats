@@ -1,6 +1,6 @@
 # zendesk/ruby-kafka - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 347
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1229 | 347 | 
 | 2023-02-07 | 1229 | 347 | 
 | 2023-02-06 | 1229 | 346 | 
 | 2023-02-05 | 1229 | 346 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1227 | 342 | 
 | 2023-01-11 | 1227 | 342 | 
 | 2023-01-10 | 1227 | 342 | 
-| 2023-01-09 | 1227 | 341 | 
 

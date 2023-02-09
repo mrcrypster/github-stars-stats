@@ -1,10 +1,10 @@
 # laravel-filament/filament - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 834
+☋ Forks: 833
 
-★ Stars: 5681
+★ Stars: 5691
 
 [Open repository](https://github.com/laravel-filament/filament)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 5691 | 833 | 
 | 2023-02-07 | 5681 | 834 | 
 | 2023-02-06 | 5676 | 832 | 
 | 2023-02-05 | 5665 | 832 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 5478 | 802 | 
 | 2023-01-12 | 5468 | 800 | 
 | 2023-01-11 | 5462 | 798 | 
-| 2023-01-10 | 5448 | 796 | 
 

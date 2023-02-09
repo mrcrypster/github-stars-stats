@@ -1,6 +1,6 @@
 # chroblert/JC-jEnv - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 69 | 25 | 
 | 2023-02-07 | 69 | 25 | 
 | 2023-02-06 | 69 | 25 | 
 | 2023-02-05 | 69 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 67 | 25 | 
 | 2023-01-11 | 65 | 25 | 
 | 2023-01-10 | 64 | 25 | 
-| 2023-01-09 | 64 | 25 | 
 

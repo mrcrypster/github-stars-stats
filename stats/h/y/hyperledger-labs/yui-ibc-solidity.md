@@ -1,10 +1,10 @@
 # hyperledger-labs/yui-ibc-solidity - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 38
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/hyperledger-labs/yui-ibc-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 79 | 38 | 
 | 2023-02-07 | 78 | 38 | 
 | 2023-02-06 | 78 | 38 | 
 | 2023-02-05 | 78 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 77 | 35 | 
 | 2023-01-11 | 77 | 35 | 
 | 2023-01-10 | 77 | 34 | 
-| 2023-01-09 | 77 | 34 | 
 

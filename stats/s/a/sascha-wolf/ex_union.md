@@ -1,6 +1,6 @@
 # sascha-wolf/ex_union - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 35 | 1 | 
 | 2023-02-07 | 35 | 1 | 
 | 2023-02-06 | 34 | 1 | 
 | 2023-02-05 | 33 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 30 | 1 | 
 | 2023-01-12 | 30 | 1 | 
 | 2023-01-11 | 30 | 1 | 
-| 2023-01-09 | 30 | 1 | 
 

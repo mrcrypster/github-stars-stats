@@ -1,6 +1,6 @@
 # abel-otegbola/clock-app - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 19 | 35 | 
 | 2023-02-07 | 19 | 35 | 
 | 2023-02-05 | 19 | 35 | 
 | 2023-02-04 | 19 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 19 | 35 | 
 | 2023-01-11 | 19 | 35 | 
 | 2023-01-10 | 19 | 35 | 
-| 2023-01-09 | 19 | 35 | 
 

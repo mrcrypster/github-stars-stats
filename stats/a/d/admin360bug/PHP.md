@@ -1,8 +1,8 @@
 # admin360bug/PHP - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 237
+☋ Forks: 238
 
 ★ Stars: 610
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 610 | 238 | 
 | 2023-02-07 | 610 | 237 | 
 | 2023-02-06 | 610 | 237 | 
 | 2023-02-05 | 610 | 237 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 607 | 237 | 
 | 2023-01-11 | 607 | 237 | 
 | 2023-01-10 | 607 | 237 | 
-| 2023-01-09 | 607 | 237 | 
 

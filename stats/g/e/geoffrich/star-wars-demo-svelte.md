@@ -1,6 +1,6 @@
 # geoffrich/star-wars-demo-svelte - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 22 | 2 | 
 | 2023-02-07 | 22 | 2 | 
 | 2023-02-06 | 22 | 2 | 
 | 2023-02-05 | 22 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 21 | 2 | 
 | 2023-01-12 | 21 | 2 | 
 | 2023-01-11 | 21 | 2 | 
-| 2023-01-10 | 21 | 2 | 
 

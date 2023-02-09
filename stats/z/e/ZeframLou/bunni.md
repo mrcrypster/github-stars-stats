@@ -1,6 +1,6 @@
 # ZeframLou/bunni - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 90 | 11 | 
 | 2023-02-07 | 90 | 11 | 
 | 2023-02-06 | 90 | 11 | 
 | 2023-02-05 | 90 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 86 | 9 | 
 | 2023-01-11 | 86 | 9 | 
 | 2023-01-10 | 86 | 9 | 
-| 2023-01-09 | 86 | 9 | 
 

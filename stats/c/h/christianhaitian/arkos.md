@@ -1,10 +1,10 @@
 # christianhaitian/arkos - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 63
 
-★ Stars: 651
+★ Stars: 654
 
 [Open repository](https://github.com/christianhaitian/arkos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 654 | 63 | 
 | 2023-02-07 | 651 | 63 | 
 | 2023-02-06 | 650 | 63 | 
 | 2023-02-05 | 650 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 629 | 59 | 
 | 2023-01-12 | 629 | 59 | 
 | 2023-01-10 | 626 | 59 | 
-| 2023-01-09 | 624 | 59 | 
 

@@ -1,6 +1,6 @@
 # intechstudio/grid-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 16 | 2 | 
 | 2023-02-07 | 16 | 2 | 
 | 2023-02-06 | 16 | 2 | 
 

@@ -1,10 +1,10 @@
 # apple-oss-distributions/objc4 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 32
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/apple-oss-distributions/objc4)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 174 | 32 | 
 | 2023-02-07 | 173 | 32 | 
 | 2023-02-06 | 172 | 32 | 
 | 2023-02-04 | 171 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 165 | 30 | 
 | 2023-01-11 | 165 | 30 | 
 | 2023-01-10 | 164 | 30 | 
-| 2023-01-09 | 162 | 30 | 
 

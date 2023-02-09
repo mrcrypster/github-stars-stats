@@ -1,10 +1,10 @@
 # Gabriella439/bench - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 19
 
-★ Stars: 819
+★ Stars: 820
 
 [Open repository](https://github.com/Gabriella439/bench)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 820 | 19 | 
 | 2023-02-07 | 819 | 19 | 
 | 2023-02-06 | 819 | 19 | 
 | 2023-02-05 | 819 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 815 | 19 | 
 | 2023-01-11 | 815 | 19 | 
 | 2023-01-10 | 815 | 19 | 
-| 2023-01-09 | 815 | 19 | 
 

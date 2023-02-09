@@ -1,10 +1,10 @@
 # stasi009/TakeHomeDataChallenges - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 518
 
-★ Stars: 921
+★ Stars: 922
 
 [Open repository](https://github.com/stasi009/TakeHomeDataChallenges)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 922 | 518 | 
 | 2023-02-07 | 921 | 518 | 
 | 2023-02-06 | 921 | 517 | 
 | 2023-02-05 | 921 | 517 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 910 | 509 | 
 | 2023-01-11 | 910 | 509 | 
 | 2023-01-10 | 909 | 509 | 
-| 2023-01-09 | 909 | 509 | 
 

@@ -1,10 +1,10 @@
 # duckietown/challenge-aido_LF-baseline-duckietown - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/duckietown/challenge-aido_LF-baseline-duckietown)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6 | 15 | 
 | 2023-02-07 | 5 | 15 | 
 | 2023-02-06 | 5 | 15 | 
 | 2023-02-05 | 5 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 5 | 15 | 
 | 2023-01-11 | 5 | 15 | 
 | 2023-01-10 | 5 | 15 | 
-| 2023-01-09 | 5 | 15 | 
 

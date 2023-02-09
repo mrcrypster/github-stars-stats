@@ -1,10 +1,10 @@
 # Qiantigers/qq_fanghong - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 11
+☋ Forks: 13
 
-★ Stars: 4
+★ Stars: 6
 
 [Open repository](https://github.com/Qiantigers/qq_fanghong)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6 | 13 | 
 | 2023-02-07 | 4 | 11 | 
 | 2023-02-06 | 4 | 11 | 
 | 2023-02-05 | 4 | 11 | 

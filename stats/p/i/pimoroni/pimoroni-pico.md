@@ -1,10 +1,10 @@
 # pimoroni/pimoroni-pico - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 325
 
-★ Stars: 810
+★ Stars: 811
 
 [Open repository](https://github.com/pimoroni/pimoroni-pico)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 811 | 325 | 
 | 2023-02-07 | 810 | 325 | 
 | 2023-02-06 | 808 | 323 | 
 | 2023-02-05 | 807 | 323 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 784 | 310 | 
 | 2023-01-12 | 781 | 309 | 
 | 2023-01-11 | 780 | 307 | 
-| 2023-01-09 | 779 | 305 | 
 

@@ -1,8 +1,8 @@
 # t3n/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 53 | 67 | 
 | 2023-02-07 | 53 | 66 | 
 | 2023-02-06 | 53 | 66 | 
 | 2023-02-05 | 53 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 51 | 66 | 
 | 2023-01-11 | 51 | 66 | 
 | 2023-01-10 | 51 | 66 | 
-| 2023-01-09 | 50 | 66 | 
 

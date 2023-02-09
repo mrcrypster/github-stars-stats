@@ -1,10 +1,10 @@
 # claabs/epicgames-freegames-node - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 81
 
-★ Stars: 890
+★ Stars: 892
 
 [Open repository](https://github.com/claabs/epicgames-freegames-node)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 892 | 81 | 
 | 2023-02-07 | 890 | 81 | 
 | 2023-02-06 | 889 | 81 | 
 | 2023-02-05 | 887 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 862 | 79 | 
 | 2023-01-11 | 862 | 79 | 
 | 2023-01-10 | 859 | 78 | 
-| 2023-01-09 | 858 | 78 | 
 

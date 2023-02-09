@@ -1,8 +1,8 @@
 # bia-technologies/yaxunit - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 106
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 106 | 22 | 
 | 2023-02-07 | 106 | 21 | 
 | 2023-02-06 | 106 | 21 | 
 | 2023-02-05 | 106 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 69 | 14 | 
 | 2023-01-11 | 69 | 14 | 
 | 2023-01-10 | 67 | 14 | 
-| 2023-01-09 | 67 | 14 | 
 

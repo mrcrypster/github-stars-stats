@@ -1,6 +1,6 @@
 # CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | - | 45 | 
 | 2023-02-07 | - | 45 | 
 | 2023-02-06 | - | 45 | 
 | 2023-02-05 | - | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | - | 42 | 
 | 2023-01-11 | - | 42 | 
 | 2023-01-10 | - | 42 | 
-| 2023-01-09 | - | 42 | 
 

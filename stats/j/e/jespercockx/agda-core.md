@@ -1,6 +1,6 @@
 # jespercockx/agda-core - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 9 | - | 
 | 2023-02-07 | 9 | - | 
 | 2023-02-06 | 9 | - | 
 | 2023-02-05 | 8 | - | 

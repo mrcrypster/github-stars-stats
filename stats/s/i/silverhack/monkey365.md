@@ -1,6 +1,6 @@
 # silverhack/monkey365 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 497 | 49 | 
 | 2023-02-07 | 497 | 49 | 
 | 2023-02-05 | 497 | 49 | 
 | 2023-02-04 | 496 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 493 | 48 | 
 | 2023-01-11 | 492 | 48 | 
 | 2023-01-10 | 490 | 48 | 
-| 2023-01-09 | 490 | 48 | 
 

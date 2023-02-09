@@ -1,6 +1,6 @@
 # hodgesmr/mastodon_digest - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 403 | 52 | 
 | 2023-02-07 | 403 | 52 | 
 | 2023-02-06 | 402 | 52 | 
 | 2023-02-05 | 400 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 337 | 41 | 
 | 2023-01-11 | 336 | 39 | 
 | 2023-01-10 | 333 | 40 | 
-| 2023-01-09 | 331 | 39 | 
 

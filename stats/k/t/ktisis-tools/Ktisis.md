@@ -1,6 +1,6 @@
 # ktisis-tools/Ktisis - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 115 | 31 | 
 | 2023-02-07 | 115 | 31 | 
 | 2023-02-06 | 112 | 31 | 
 | 2023-02-05 | 112 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 100 | 31 | 
 | 2023-01-12 | 99 | 31 | 
 | 2023-01-11 | 94 | 31 | 
-| 2023-01-10 | 94 | 31 | 
 

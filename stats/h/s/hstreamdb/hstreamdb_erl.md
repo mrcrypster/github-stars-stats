@@ -1,6 +1,6 @@
 # hstreamdb/hstreamdb_erl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6 | 5 | 
 | 2023-02-07 | 6 | 5 | 
 | 2023-02-06 | 6 | 5 | 
 | 2023-02-05 | 6 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 5 | 5 | 
 | 2023-01-11 | 5 | 5 | 
 | 2023-01-10 | 5 | 5 | 
-| 2023-01-09 | 5 | 5 | 
 

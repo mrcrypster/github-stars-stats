@@ -1,8 +1,8 @@
 # smartbugs/smartbugs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 98
+☋ Forks: 99
 
 ★ Stars: 359
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 359 | 99 | 
 | 2023-02-07 | 359 | 98 | 
 | 2023-02-06 | 359 | 96 | 
 | 2023-02-05 | 358 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 342 | 94 | 
 | 2023-01-11 | 342 | 94 | 
 | 2023-01-10 | 342 | 94 | 
-| 2023-01-09 | 342 | 93 | 
 

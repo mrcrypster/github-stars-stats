@@ -1,10 +1,10 @@
 # nocodb/nocodb - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2122
+☋ Forks: 2123
 
-★ Stars: 34232
+★ Stars: 34251
 
 [Open repository](https://github.com/nocodb/nocodb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 34251 | 2123 | 
 | 2023-02-07 | 34232 | 2122 | 
 | 2023-02-06 | 34205 | 2119 | 
 | 2023-02-05 | 34192 | 2118 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 33607 | 2081 | 
 | 2023-01-12 | 33489 | 2073 | 
 | 2023-01-10 | 33465 | 2070 | 
-| 2023-01-09 | 33446 | 2070 | 
 

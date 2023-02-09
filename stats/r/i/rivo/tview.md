@@ -1,10 +1,10 @@
 # rivo/tview - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 457
+☋ Forks: 458
 
-★ Stars: 7910
+★ Stars: 7919
 
 [Open repository](https://github.com/rivo/tview)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 7919 | 458 | 
 | 2023-02-07 | 7910 | 457 | 
 | 2023-02-06 | 7902 | 457 | 
 | 2023-02-05 | 7897 | 456 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 7828 | 450 | 
 | 2023-01-12 | 7828 | 450 | 
 | 2023-01-11 | 7826 | 449 | 
-| 2023-01-09 | 7823 | 449 | 
 

@@ -1,10 +1,10 @@
 # JuliaDiff/SparseDiffTools.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/JuliaDiff/SparseDiffTools.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 169 | 35 | 
 | 2023-02-07 | 168 | 35 | 
 | 2023-02-06 | 168 | 35 | 
 | 2023-02-05 | 168 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 167 | 34 | 
 | 2023-01-11 | 167 | 34 | 
 | 2023-01-10 | 167 | 34 | 
-| 2023-01-09 | 166 | 34 | 
 

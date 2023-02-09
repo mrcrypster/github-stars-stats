@@ -1,10 +1,10 @@
 # rakutentech/laravel-request-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 332
+★ Stars: 333
 
 [Open repository](https://github.com/rakutentech/laravel-request-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 333 | 59 | 
 | 2023-02-07 | 332 | 58 | 
 | 2023-02-06 | 332 | 58 | 
 | 2023-02-05 | 332 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 317 | 56 | 
 | 2023-01-12 | 317 | 56 | 
 | 2023-01-11 | 316 | 56 | 
-| 2023-01-09 | 315 | 56 | 
 

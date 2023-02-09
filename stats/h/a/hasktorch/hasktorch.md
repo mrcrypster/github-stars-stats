@@ -1,10 +1,10 @@
 # hasktorch/hasktorch - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 926
+★ Stars: 927
 
 [Open repository](https://github.com/hasktorch/hasktorch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 927 | 93 | 
 | 2023-02-07 | 926 | 92 | 
 | 2023-02-06 | 926 | 92 | 
 | 2023-02-05 | 927 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 922 | 93 | 
 | 2023-01-11 | 922 | 93 | 
 | 2023-01-10 | 922 | 93 | 
-| 2023-01-09 | 922 | 93 | 
 

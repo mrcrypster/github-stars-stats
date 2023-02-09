@@ -1,10 +1,10 @@
 # radicle-dev/radicle-interface - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 17
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/radicle-dev/radicle-interface)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 58 | 17 | 
 | 2023-02-07 | 57 | 17 | 
 

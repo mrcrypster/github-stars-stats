@@ -1,10 +1,10 @@
 # hamidkazemi22/vit-visualization - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/hamidkazemi22/vit-visualization)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 118 | 5 | 
 | 2023-02-07 | 117 | 5 | 
 | 2023-02-06 | 117 | 5 | 
 | 2023-02-05 | 117 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 113 | 4 | 
 | 2023-01-12 | 113 | 4 | 
 | 2023-01-11 | 111 | 4 | 
-| 2023-01-09 | 108 | 4 | 
 

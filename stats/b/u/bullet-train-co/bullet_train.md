@@ -1,10 +1,10 @@
 # bullet-train-co/bullet_train - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 139
 
-★ Stars: 806
+★ Stars: 807
 
 [Open repository](https://github.com/bullet-train-co/bullet_train)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 807 | 139 | 
 | 2023-02-07 | 806 | 139 | 
 | 2023-02-06 | 804 | 139 | 
 | 2023-02-05 | 803 | 139 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 785 | 133 | 
 | 2023-01-11 | 784 | 133 | 
 | 2023-01-10 | 783 | 132 | 
-| 2023-01-09 | 781 | 131 | 
 

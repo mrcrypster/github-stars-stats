@@ -1,10 +1,10 @@
 # vnsmoreira/api-distancep - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 18
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/vnsmoreira/api-distancep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 449 | 18 | 
 | 2023-02-07 | 448 | 18 | 
 | 2023-02-06 | 448 | 18 | 
 | 2023-02-05 | 448 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 444 | 17 | 
 | 2023-01-11 | 445 | 17 | 
 | 2023-01-10 | 445 | 17 | 
-| 2023-01-09 | 445 | 17 | 
 

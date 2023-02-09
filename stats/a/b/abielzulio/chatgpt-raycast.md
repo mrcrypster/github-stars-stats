@@ -1,10 +1,10 @@
 # abielzulio/chatgpt-raycast - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 226
+★ Stars: 229
 
 [Open repository](https://github.com/abielzulio/chatgpt-raycast)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 229 | 13 | 
 | 2023-02-07 | 226 | 13 | 
 | 2023-02-06 | 225 | 13 | 
 | 2023-02-05 | 224 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 213 | 10 | 
 | 2023-01-11 | 213 | 10 | 
 | 2023-01-10 | 211 | 10 | 
-| 2023-01-09 | 211 | 11 | 
 

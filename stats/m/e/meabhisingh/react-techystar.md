@@ -1,10 +1,10 @@
 # meabhisingh/react-techystar - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 38
+☋ Forks: 41
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/meabhisingh/react-techystar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 15 | 41 | 
 | 2023-02-07 | 14 | 38 | 
 | 2023-02-06 | 14 | 39 | 
 | 2023-02-05 | 13 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 11 | 23 | 
 | 2023-01-11 | 11 | 22 | 
 | 2023-01-10 | 11 | 22 | 
-| 2023-01-09 | 11 | 21 | 
 

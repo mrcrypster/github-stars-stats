@@ -1,10 +1,10 @@
 # syncthing/syncthing - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 3665
+☋ Forks: 3667
 
-★ Stars: 49219
+★ Stars: 49239
 
 [Open repository](https://github.com/syncthing/syncthing)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 49239 | 3667 | 
 | 2023-02-07 | 49219 | 3665 | 
 | 2023-02-06 | 49191 | 3662 | 
 | 2023-02-05 | 49164 | 3662 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 48675 | 3651 | 
 | 2023-01-11 | 48668 | 3650 | 
 | 2023-01-10 | 48647 | 3650 | 
-| 2023-01-09 | 48629 | 3649 | 
 

@@ -1,10 +1,10 @@
 # bids-standard/bids-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/bids-standard/bids-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 127 | 118 | 
 | 2023-02-07 | 126 | 117 | 
 | 2023-02-06 | 126 | 117 | 
 | 2023-02-05 | 126 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 126 | 116 | 
 | 2023-01-11 | 126 | 116 | 
 | 2023-01-10 | 126 | 116 | 
-| 2023-01-09 | 126 | 115 | 
 

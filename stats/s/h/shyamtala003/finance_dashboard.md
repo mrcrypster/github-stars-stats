@@ -1,10 +1,10 @@
 # shyamtala003/finance_dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 10
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/shyamtala003/finance_dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 19 | 10 | 
 | 2023-02-07 | 18 | 10 | 
 | 2023-02-06 | 18 | 10 | 
 | 2023-02-05 | 18 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 16 | 9 | 
 | 2023-01-11 | 16 | 9 | 
 | 2023-01-10 | 14 | 8 | 
-| 2023-01-09 | 13 | 8 | 
 

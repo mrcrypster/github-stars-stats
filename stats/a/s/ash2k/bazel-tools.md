@@ -1,8 +1,8 @@
 # ash2k/bazel-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 48 | 20 | 
 | 2023-02-07 | 48 | 19 | 
 | 2023-02-06 | 48 | 19 | 
 | 2023-02-05 | 48 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 46 | 18 | 
 | 2023-01-11 | 46 | 18 | 
 | 2023-01-10 | 46 | 18 | 
-| 2023-01-09 | 46 | 18 | 
 

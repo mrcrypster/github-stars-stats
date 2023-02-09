@@ -1,10 +1,10 @@
 # monoxgas/sRDI - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 395
 
-★ Stars: 1589
+★ Stars: 1590
 
 [Open repository](https://github.com/monoxgas/sRDI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1590 | 395 | 
 | 2023-02-07 | 1589 | 395 | 
 | 2023-02-06 | 1588 | 395 | 
 | 2023-02-05 | 1588 | 395 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1564 | 393 | 
 | 2023-01-11 | 1564 | 393 | 
 | 2023-01-10 | 1564 | 393 | 
-| 2023-01-09 | 1563 | 393 | 
 

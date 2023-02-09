@@ -1,10 +1,10 @@
 # fsharp-mobile/Fabulous.Avalonia - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/fsharp-mobile/Fabulous.Avalonia)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 36 | 4 | 
 | 2023-02-07 | 35 | 4 | 
 | 2023-02-06 | 35 | 4 | 
 | 2023-02-05 | 35 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 25 | 3 | 
 | 2023-01-11 | 25 | 3 | 
 | 2023-01-10 | 25 | 3 | 
-| 2023-01-09 | 25 | 3 | 
 

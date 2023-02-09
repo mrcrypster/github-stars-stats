@@ -1,6 +1,6 @@
 # Roaa94/flutter_cool_card_swiper - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 288 | 51 | 
 | 2023-02-08 | 288 | 51 | 
 | 2023-02-06 | 288 | 51 | 
 | 2023-02-05 | 288 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 288 | 51 | 
 | 2023-01-11 | 288 | 50 | 
 | 2023-01-10 | 288 | 50 | 
-| 2023-01-09 | 288 | 50 | 
 

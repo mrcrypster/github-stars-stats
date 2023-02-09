@@ -1,10 +1,10 @@
 # brockelmore/how_to_foundry_2.0 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 58
+★ Stars: 61
 
 [Open repository](https://github.com/brockelmore/how_to_foundry_2.0)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 61 | - | 
 | 2023-02-07 | 58 | - | 
 | 2023-02-06 | 43 | - | 
 | 2023-02-05 | 42 | - | 

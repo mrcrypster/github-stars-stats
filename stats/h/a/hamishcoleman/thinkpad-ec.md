@@ -1,6 +1,6 @@
 # hamishcoleman/thinkpad-ec - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 936 | 110 | 
 | 2023-02-07 | 936 | 110 | 
 | 2023-02-06 | 935 | 110 | 
 | 2023-02-05 | 934 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 929 | 111 | 
 | 2023-01-11 | 929 | 111 | 
 | 2023-01-10 | 929 | 111 | 
-| 2023-01-09 | 929 | 111 | 
 

@@ -1,10 +1,10 @@
 # ROCmSoftwarePlatform/MIOpen - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 163
 
-★ Stars: 765
+★ Stars: 764
 
 [Open repository](https://github.com/ROCmSoftwarePlatform/MIOpen)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 764 | 163 | 
+| 2023-02-08 | 764 | 163 | 
 | 2023-02-07 | 765 | 163 | 
 | 2023-02-06 | 764 | 163 | 
 | 2023-02-05 | 764 | 163 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 759 | 163 | 
 | 2023-01-12 | 758 | 163 | 
 | 2023-01-11 | 757 | 163 | 
-| 2023-01-10 | 755 | 163 | 
 

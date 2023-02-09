@@ -1,6 +1,6 @@
 # fortune13-ss13/thewasteland - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 9 | 78 | 
 | 2023-02-07 | 9 | 78 | 
 | 2023-02-06 | 9 | 78 | 
 | 2023-02-05 | 9 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 9 | 78 | 
 | 2023-01-11 | 9 | 78 | 
 | 2023-01-10 | 9 | 78 | 
-| 2023-01-09 | 9 | 78 | 
 

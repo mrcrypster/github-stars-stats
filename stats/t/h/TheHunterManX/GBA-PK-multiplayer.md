@@ -1,10 +1,10 @@
 # TheHunterManX/GBA-PK-multiplayer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 10
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/TheHunterManX/GBA-PK-multiplayer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 111 | 10 | 
 | 2023-02-06 | 110 | 10 | 
 | 2023-02-05 | 110 | 10 | 
 | 2023-02-04 | 110 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-13 | 102 | 10 | 
 | 2023-01-12 | 101 | 10 | 
 | 2023-01-11 | 101 | 10 | 
-| 2023-01-09 | 101 | 10 | 
 

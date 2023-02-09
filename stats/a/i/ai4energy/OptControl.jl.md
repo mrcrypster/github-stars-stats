@@ -1,6 +1,6 @@
 # ai4energy/OptControl.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 17 | 4 | 
 | 2023-02-07 | 17 | 4 | 
 | 2023-02-06 | 17 | 4 | 
 | 2023-02-05 | 17 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 15 | 4 | 
 | 2023-01-12 | 15 | 4 | 
 | 2023-01-11 | 15 | 4 | 
-| 2023-01-10 | 15 | 4 | 
 

@@ -1,6 +1,6 @@
 # WilliamStaudenmeier/WilliamStaudenmeier.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 22 | 8 | 
 | 2023-02-07 | 22 | 8 | 
 | 2023-02-06 | 22 | 8 | 
 | 2023-02-05 | 22 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 22 | 8 | 
 | 2023-01-11 | 22 | 8 | 
 | 2023-01-10 | 22 | 8 | 
-| 2023-01-09 | 22 | 8 | 
 

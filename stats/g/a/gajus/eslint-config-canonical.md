@@ -1,10 +1,10 @@
 # gajus/eslint-config-canonical - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 23
 
-★ Stars: 486
+★ Stars: 490
 
 [Open repository](https://github.com/gajus/eslint-config-canonical)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 490 | 23 | 
 | 2023-02-07 | 486 | 23 | 
 | 2023-02-06 | 481 | 24 | 
 | 2023-02-05 | 474 | 24 | 

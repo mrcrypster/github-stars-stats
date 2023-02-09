@@ -1,6 +1,6 @@
 # leonjovanovic/water-shader-unity - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 29 | 3 | 
 | 2023-02-07 | 29 | 3 | 
 | 2023-02-06 | 29 | 3 | 
 | 2023-02-05 | 28 | 3 | 

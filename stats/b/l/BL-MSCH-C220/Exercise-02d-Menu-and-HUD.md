@@ -1,8 +1,8 @@
 # BL-MSCH-C220/Exercise-02d-Menu-and-HUD - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 21
+☋ Forks: 34
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | - | 34 | 
 | 2023-02-07 | - | 21 | 
 | 2023-02-06 | - | 10 | 
 | 2023-02-05 | - | 7 | 

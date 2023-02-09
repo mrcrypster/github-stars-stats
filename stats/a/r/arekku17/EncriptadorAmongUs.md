@@ -1,8 +1,8 @@
 # arekku17/EncriptadorAmongUs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 1
+☋ Forks: 0
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 28 | - | 
 | 2023-02-07 | 28 | 1 | 
 | 2023-02-05 | 26 | 1 | 
 | 2023-02-04 | 26 | 1 | 

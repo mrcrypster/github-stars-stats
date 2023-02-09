@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/camptocamp/demo_geomapfish)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 7 | 15 | 
+| 2023-02-08 | 8 | 15 | 
 | 2023-02-07 | 7 | 15 | 
 | 2023-02-06 | 7 | 15 | 
 | 2023-02-05 | 7 | 15 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 8 | 15 | 
 | 2023-01-11 | 8 | 15 | 
 | 2023-01-10 | 8 | 15 | 
-| 2023-01-09 | 8 | 15 | 
 

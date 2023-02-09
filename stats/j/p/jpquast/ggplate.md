@@ -1,10 +1,10 @@
 # jpquast/ggplate - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/jpquast/ggplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 56 | 2 | 
 | 2023-02-07 | 55 | 2 | 
 | 2023-02-06 | 55 | 2 | 
 | 2023-02-04 | 54 | 2 | 

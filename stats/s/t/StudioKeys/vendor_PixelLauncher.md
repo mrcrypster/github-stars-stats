@@ -1,10 +1,10 @@
 # StudioKeys/vendor_PixelLauncher - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/StudioKeys/vendor_PixelLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 17 | 7 | 
 | 2023-02-07 | 16 | 7 | 
 | 2023-02-06 | 16 | 7 | 
 | 2023-02-05 | 16 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 18 | 7 | 
 | 2023-01-11 | 18 | 7 | 
 | 2023-01-10 | 18 | 7 | 
-| 2023-01-09 | 18 | 7 | 
 

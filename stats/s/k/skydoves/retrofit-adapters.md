@@ -1,10 +1,10 @@
 # skydoves/retrofit-adapters - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 301
+★ Stars: 303
 
 [Open repository](https://github.com/skydoves/retrofit-adapters)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 303 | 11 | 
 | 2023-02-07 | 301 | 11 | 
 | 2023-02-06 | 301 | 11 | 
 | 2023-02-05 | 301 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 294 | 11 | 
 | 2023-01-11 | 294 | 11 | 
 | 2023-01-10 | 294 | 11 | 
-| 2023-01-09 | 293 | 11 | 
 

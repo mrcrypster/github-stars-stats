@@ -1,6 +1,6 @@
 # byrnereese/mt-plugin-autoprefs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 7 | 2 | 
 | 2023-02-07 | 7 | 2 | 
 | 2023-02-06 | 7 | 2 | 
 | 2023-02-05 | 7 | 2 | 

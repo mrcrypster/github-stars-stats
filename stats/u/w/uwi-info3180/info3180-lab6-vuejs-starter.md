@@ -1,6 +1,6 @@
 # uwi-info3180/info3180-lab6-vuejs-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | - | 87 | 
 | 2023-02-07 | - | 87 | 
 | 2023-02-06 | - | 87 | 
 | 2023-02-05 | - | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | - | 87 | 
 | 2023-01-12 | - | 87 | 
 | 2023-01-11 | - | 87 | 
-| 2023-01-10 | - | 87 | 
 

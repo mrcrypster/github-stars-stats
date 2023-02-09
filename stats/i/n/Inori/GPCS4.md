@@ -1,6 +1,6 @@
 # Inori/GPCS4 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1821 | 134 | 
 | 2023-02-07 | 1821 | 134 | 
 | 2023-02-06 | 1820 | 134 | 
 | 2023-02-05 | 1819 | 134 | 

@@ -1,6 +1,6 @@
 # Sikarii/movementhud - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 15 | 4 | 
 | 2023-02-07 | 15 | 4 | 
 | 2023-02-06 | 15 | 4 | 
 | 2023-02-04 | 15 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 15 | 4 | 
 | 2023-01-11 | 15 | 4 | 
 | 2023-01-10 | 15 | 4 | 
-| 2023-01-09 | 15 | 4 | 
 

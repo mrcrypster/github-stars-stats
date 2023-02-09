@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-tfstate-backend - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 323 | 150 | 
 | 2023-02-07 | 323 | 150 | 
 | 2023-02-06 | 323 | 150 | 
 | 2023-02-05 | 324 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 322 | 148 | 
 | 2023-01-11 | 322 | 149 | 
 | 2023-01-10 | 321 | 148 | 
-| 2023-01-09 | 320 | 148 | 
 

@@ -1,10 +1,10 @@
 # Amovane/aptos-NFT-marketplace - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 39
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/Amovane/aptos-NFT-marketplace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 52 | 39 | 
 | 2023-02-07 | 50 | 39 | 
 | 2023-02-06 | 50 | 39 | 
 | 2023-02-05 | 49 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 46 | 39 | 
 | 2023-01-11 | 46 | 39 | 
 | 2023-01-10 | 46 | 39 | 
-| 2023-01-09 | 46 | 39 | 
 

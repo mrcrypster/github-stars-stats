@@ -1,8 +1,8 @@
 # SurajGupta/r-source - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 196
+☋ Forks: 197
 
 ★ Stars: 351
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 351 | 197 | 
 | 2023-02-07 | 351 | 196 | 
 | 2023-02-06 | 351 | 197 | 
 | 2023-02-05 | 350 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 349 | 195 | 
 | 2023-01-11 | 349 | 195 | 
 | 2023-01-10 | 349 | 195 | 
-| 2023-01-09 | 349 | 195 | 
 

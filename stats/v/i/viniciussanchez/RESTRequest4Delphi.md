@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 08
 
 ☋ Forks: 108
 
-★ Stars: 368
+★ Stars: 369
 
 [Open repository](https://github.com/viniciussanchez/RESTRequest4Delphi)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 368 | 108 | 
+| 2023-02-08 | 369 | 108 | 
 | 2023-02-07 | 368 | 108 | 
 | 2023-02-06 | 367 | 108 | 
 | 2023-02-05 | 367 | 108 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 360 | 107 | 
 | 2023-01-11 | 360 | 107 | 
 | 2023-01-10 | 359 | 107 | 
-| 2023-01-09 | 359 | 107 | 
 

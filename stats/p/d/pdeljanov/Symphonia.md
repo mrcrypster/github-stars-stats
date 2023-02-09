@@ -1,10 +1,10 @@
 # pdeljanov/Symphonia - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 1382
+★ Stars: 1387
 
 [Open repository](https://github.com/pdeljanov/Symphonia)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1387 | 79 | 
 | 2023-02-07 | 1382 | 78 | 
 | 2023-02-05 | 1380 | 77 | 
 | 2023-02-04 | 1376 | 77 | 

@@ -1,10 +1,10 @@
 # gkjohnson/three-gpu-pathtracer - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 82
 
-★ Stars: 822
+★ Stars: 826
 
 [Open repository](https://github.com/gkjohnson/three-gpu-pathtracer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 826 | 82 | 
 | 2023-02-07 | 822 | 82 | 
 | 2023-02-06 | 821 | 82 | 
 | 2023-02-05 | 820 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 796 | 76 | 
 | 2023-01-12 | 793 | 75 | 
 | 2023-01-11 | 792 | 75 | 
-| 2023-01-09 | 792 | 74 | 
 

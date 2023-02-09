@@ -1,6 +1,6 @@
 # patcg-individual-drafts/topics - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 75
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 411 | 75 | 
 | 2023-02-07 | 411 | 75 | 
 

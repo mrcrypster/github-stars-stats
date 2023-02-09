@@ -1,10 +1,10 @@
 # jakobmattsson/locke-store-mem - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/jakobmattsson/locke-store-mem)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1 | - | 
 | 2023-02-07 | - | - | 
 | 2023-02-06 | - | - | 
 | 2023-02-05 | - | - | 

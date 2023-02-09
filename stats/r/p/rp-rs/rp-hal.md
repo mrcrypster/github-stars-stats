@@ -1,6 +1,6 @@
 # rp-rs/rp-hal - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 743 | 162 | 
 | 2023-02-07 | 743 | 162 | 
 | 2023-02-06 | 741 | 162 | 
 | 2023-02-05 | 740 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 714 | 159 | 
 | 2023-01-11 | 711 | 159 | 
 | 2023-01-10 | 707 | 159 | 
-| 2023-01-09 | 707 | 159 | 
 

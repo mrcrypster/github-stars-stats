@@ -1,6 +1,6 @@
 # FrederickHuangLin/ANCOM - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 54 | 39 | 
 | 2023-02-07 | 54 | 39 | 
 | 2023-02-06 | 54 | 39 | 
 | 2023-02-05 | 54 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 54 | 39 | 
 | 2023-01-11 | 54 | 39 | 
 | 2023-01-10 | 54 | 39 | 
-| 2023-01-09 | 54 | 39 | 
 

@@ -1,10 +1,10 @@
 # inconshreveable/ngrok - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 4163
+☋ Forks: 4164
 
-★ Stars: 22552
+★ Stars: 22554
 
 [Open repository](https://github.com/inconshreveable/ngrok)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 22554 | 4164 | 
 | 2023-02-07 | 22552 | 4163 | 
 | 2023-02-05 | 22547 | 4162 | 
 | 2023-02-04 | 22546 | 4162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 22478 | 4146 | 
 | 2023-01-11 | 22473 | 4146 | 
 | 2023-01-10 | 22470 | 4145 | 
-| 2023-01-09 | 22465 | 4144 | 
 

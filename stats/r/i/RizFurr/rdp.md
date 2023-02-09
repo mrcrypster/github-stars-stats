@@ -1,10 +1,10 @@
 # RizFurr/rdp - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 153
+☋ Forks: 160
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/RizFurr/rdp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4 | 160 | 
 | 2023-02-07 | 3 | 153 | 
 | 2023-02-06 | 2 | 150 | 
 | 2023-02-05 | 2 | 133 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2 | 40 | 
 | 2023-01-11 | 2 | 37 | 
 | 2023-01-10 | 2 | 36 | 
-| 2023-01-09 | 2 | 35 | 
 

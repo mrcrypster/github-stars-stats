@@ -1,10 +1,10 @@
 # canva-public/js2nix - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/canva-public/js2nix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 28 | 5 | 
 | 2023-02-07 | 27 | 5 | 
 | 2023-02-06 | 27 | 5 | 
 | 2023-02-05 | 27 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 26 | 3 | 
 | 2023-01-12 | 26 | 3 | 
 | 2023-01-11 | 26 | 3 | 
-| 2023-01-10 | 26 | 3 | 
 

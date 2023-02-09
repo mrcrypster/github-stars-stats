@@ -1,10 +1,10 @@
 # Orange-Cyberdefense/KeePwn - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 10
 
-★ Stars: 201
+★ Stars: 204
 
 [Open repository](https://github.com/Orange-Cyberdefense/KeePwn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 204 | 10 | 
 | 2023-02-07 | 201 | 10 | 
 | 2023-02-06 | 198 | 10 | 
 | 2023-02-05 | 198 | 10 | 

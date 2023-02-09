@@ -1,6 +1,6 @@
 # OlympusDAO/olympus-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 942
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 715 | 942 | 
 | 2023-02-06 | 715 | 942 | 
 | 2023-02-05 | 715 | 942 | 
 | 2023-02-04 | 715 | 942 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 710 | 937 | 
 | 2023-01-11 | 709 | 938 | 
 | 2023-01-10 | 709 | 938 | 
-| 2023-01-09 | 709 | 939 | 
 

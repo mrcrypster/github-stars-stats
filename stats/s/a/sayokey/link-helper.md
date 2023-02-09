@@ -1,10 +1,10 @@
 # sayokey/link-helper - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 103
 
-★ Stars: 530
+★ Stars: 531
 
 [Open repository](https://github.com/sayokey/link-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 531 | 103 | 
 | 2023-02-06 | 530 | 103 | 
 | 2023-02-05 | 530 | 103 | 
 | 2023-02-04 | 530 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 522 | 101 | 
 | 2023-01-11 | 521 | 101 | 
 | 2023-01-10 | 522 | 102 | 
-| 2023-01-09 | 520 | 101 | 
 

@@ -1,6 +1,6 @@
 # couchbase/docker - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 132 | 154 | 
 | 2023-02-07 | 132 | 154 | 
 | 2023-02-06 | 132 | 153 | 
 | 2023-02-05 | 132 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 133 | 153 | 
 | 2023-01-11 | 133 | 153 | 
 | 2023-01-10 | 133 | 153 | 
-| 2023-01-09 | 133 | 153 | 
 

@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleNLP - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 1998
+☋ Forks: 2010
 
-★ Stars: 7326
+★ Stars: 7348
 
 [Open repository](https://github.com/PaddlePaddle/PaddleNLP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 7348 | 2010 | 
 | 2023-02-07 | 7326 | 1998 | 
 | 2023-02-06 | 7309 | 1990 | 
 | 2023-02-05 | 7298 | 1989 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 7079 | 1941 | 
 | 2023-01-11 | 7061 | 1939 | 
 | 2023-01-10 | 7051 | 1936 | 
-| 2023-01-09 | 7033 | 1935 | 
 

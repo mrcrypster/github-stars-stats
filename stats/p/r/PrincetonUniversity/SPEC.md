@@ -1,8 +1,8 @@
 # PrincetonUniversity/SPEC - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 14 | 3 | 
 | 2023-02-07 | 14 | 2 | 
 | 2023-02-06 | 14 | 2 | 
 | 2023-02-05 | 14 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 14 | 2 | 
 | 2023-01-12 | 14 | 2 | 
 | 2023-01-11 | 14 | 2 | 
-| 2023-01-09 | 14 | 2 | 
 

@@ -1,10 +1,10 @@
 # Jonathan-LeRoux/IguanaTex - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 48
 
-★ Stars: 403
+★ Stars: 406
 
 [Open repository](https://github.com/Jonathan-LeRoux/IguanaTex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 406 | 48 | 
 | 2023-02-07 | 403 | 48 | 
 | 2023-02-06 | 403 | 48 | 
 | 2023-02-05 | 402 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 397 | 46 | 
 | 2023-01-12 | 396 | 46 | 
 | 2023-01-11 | 396 | 46 | 
-| 2023-01-09 | 395 | 46 | 
 

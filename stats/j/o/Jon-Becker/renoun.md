@@ -1,10 +1,10 @@
 # Jon-Becker/renoun - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/Jon-Becker/renoun)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 81 | 12 | 
 | 2023-02-07 | 82 | 12 | 
 | 2023-02-06 | 82 | 12 | 
 | 2023-02-04 | 82 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 77 | 12 | 
 | 2023-01-11 | 77 | 12 | 
 | 2023-01-10 | 77 | 12 | 
-| 2023-01-09 | 77 | 12 | 
 

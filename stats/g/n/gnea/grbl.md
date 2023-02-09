@@ -1,10 +1,10 @@
 # gnea/grbl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1463
 
-★ Stars: 3529
+★ Stars: 3531
 
 [Open repository](https://github.com/gnea/grbl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3531 | 1463 | 
 | 2023-02-07 | 3529 | 1463 | 
 | 2023-02-06 | 3528 | 1463 | 
 | 2023-02-05 | 3525 | 1463 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3495 | 1459 | 
 | 2023-01-11 | 3494 | 1459 | 
 | 2023-01-10 | 3490 | 1459 | 
-| 2023-01-09 | 3489 | 1457 | 
 

@@ -1,10 +1,10 @@
 # weopenprojects/WeOpen-Star - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/weopenprojects/WeOpen-Star)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 219 | 35 | 
 | 2023-02-07 | 218 | 35 | 
 | 2023-02-06 | 218 | 35 | 
 | 2023-02-05 | 218 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 214 | 35 | 
 | 2023-01-11 | 214 | 35 | 
 | 2023-01-10 | 214 | 35 | 
-| 2023-01-09 | 214 | 35 | 
 

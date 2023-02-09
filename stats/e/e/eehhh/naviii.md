@@ -1,10 +1,10 @@
 # eehhh/naviii - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 15
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/eehhh/naviii)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 100 | 15 | 
 | 2023-02-07 | 99 | 15 | 
 | 2023-02-06 | 97 | 15 | 
 | 2023-02-05 | 97 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 96 | 15 | 
 | 2023-01-11 | 96 | 15 | 
 | 2023-01-10 | 96 | 15 | 
-| 2023-01-09 | 94 | 15 | 
 

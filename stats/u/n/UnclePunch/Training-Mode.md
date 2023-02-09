@@ -1,8 +1,8 @@
 # UnclePunch/Training-Mode - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 46
+☋ Forks: 45
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 253 | 45 | 
 | 2023-02-07 | 253 | 46 | 
 | 2023-02-06 | 253 | 46 | 
 | 2023-02-05 | 253 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 246 | 46 | 
 | 2023-01-11 | 245 | 46 | 
 | 2023-01-10 | 245 | 46 | 
-| 2023-01-09 | 245 | 46 | 
 

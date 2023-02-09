@@ -1,10 +1,10 @@
 # oceanlvr/ChatGPT-ProBot - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 251
+★ Stars: 256
 
 [Open repository](https://github.com/oceanlvr/ChatGPT-ProBot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 256 | 21 | 
 | 2023-02-07 | 251 | 21 | 
 | 2023-02-05 | 248 | 19 | 
 | 2023-02-04 | 246 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 228 | 12 | 
 | 2023-01-11 | 228 | 12 | 
 | 2023-01-10 | 227 | 12 | 
-| 2023-01-09 | 226 | 12 | 
 

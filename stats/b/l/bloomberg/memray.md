@@ -1,10 +1,10 @@
 # bloomberg/memray - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 10079
+★ Stars: 10085
 
 [Open repository](https://github.com/bloomberg/memray)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 10085 | 279 | 
 | 2023-02-07 | 10079 | 278 | 
 | 2023-02-06 | 10073 | 278 | 
 | 2023-02-05 | 10069 | 278 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 9919 | 275 | 
 | 2023-01-11 | 9908 | 275 | 
 | 2023-01-10 | 9900 | 275 | 
-| 2023-01-09 | 9893 | 275 | 
 

@@ -1,10 +1,10 @@
 # loft-sh/devspace - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 293
+☋ Forks: 294
 
-★ Stars: 3332
+★ Stars: 3340
 
 [Open repository](https://github.com/loft-sh/devspace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3340 | 294 | 
 | 2023-02-08 | 3332 | 293 | 
 | 2023-02-06 | 3328 | 293 | 
 | 2023-02-05 | 3326 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 3289 | 288 | 
 | 2023-01-11 | 3282 | 287 | 
 | 2023-01-10 | 3279 | 287 | 
-| 2023-01-09 | 3277 | 286 | 
 

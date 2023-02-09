@@ -1,8 +1,8 @@
 # elastic/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 316
+☋ Forks: 317
 
 ★ Stars: 224
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 224 | 317 | 
 | 2023-02-07 | 224 | 316 | 
 | 2023-02-06 | 224 | 316 | 
 | 2023-02-05 | 224 | 316 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 225 | 313 | 
 | 2023-01-11 | 225 | 313 | 
 | 2023-01-10 | 225 | 313 | 
-| 2023-01-09 | 225 | 312 | 
 

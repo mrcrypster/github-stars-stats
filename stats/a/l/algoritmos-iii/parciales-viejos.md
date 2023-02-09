@@ -1,6 +1,6 @@
 # algoritmos-iii/parciales-viejos - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4 | 13 | 
 | 2023-02-07 | 4 | 13 | 
 | 2023-02-06 | 4 | 13 | 
 | 2023-02-05 | 4 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 4 | 13 | 
 | 2023-01-12 | 4 | 13 | 
 | 2023-01-11 | 4 | 13 | 
-| 2023-01-10 | 4 | 13 | 
 

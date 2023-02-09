@@ -1,6 +1,6 @@
 # samoht/toc - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 16 | - | 
 | 2023-02-07 | 16 | - | 
 | 2023-02-06 | 16 | - | 
 | 2023-02-05 | 16 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 16 | - | 
 | 2023-01-11 | 16 | - | 
 | 2023-01-10 | 16 | - | 
-| 2023-01-09 | 16 | - | 
 

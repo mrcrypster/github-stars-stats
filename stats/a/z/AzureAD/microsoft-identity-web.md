@@ -1,10 +1,10 @@
 # AzureAD/microsoft-identity-web - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 169
 
-★ Stars: 548
+★ Stars: 549
 
 [Open repository](https://github.com/AzureAD/microsoft-identity-web)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 549 | 169 | 
 | 2023-02-07 | 548 | 169 | 
 | 2023-02-06 | 548 | 169 | 
 | 2023-02-05 | 547 | 169 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 539 | 169 | 
 | 2023-01-12 | 539 | 169 | 
 | 2023-01-11 | 539 | 169 | 
-| 2023-01-10 | 539 | 169 | 
 

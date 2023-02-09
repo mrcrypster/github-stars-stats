@@ -1,10 +1,10 @@
 # jthuraisamy/SysWhispers2 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 1203
+★ Stars: 1204
 
 [Open repository](https://github.com/jthuraisamy/SysWhispers2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1204 | 199 | 
 | 2023-02-07 | 1203 | 198 | 
 | 2023-02-06 | 1203 | 198 | 
 | 2023-02-04 | 1202 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1186 | 196 | 
 | 2023-01-11 | 1186 | 196 | 
 | 2023-01-10 | 1186 | 196 | 
-| 2023-01-09 | 1186 | 196 | 
 

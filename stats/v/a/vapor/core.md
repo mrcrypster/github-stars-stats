@@ -1,6 +1,6 @@
 # vapor/core - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 73 | 51 | 
 | 2023-02-07 | 73 | 51 | 
 | 2023-02-06 | 73 | 51 | 
 | 2023-02-04 | 73 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 72 | 51 | 
 | 2023-01-11 | 72 | 51 | 
 | 2023-01-10 | 72 | 51 | 
-| 2023-01-09 | 72 | 51 | 
 

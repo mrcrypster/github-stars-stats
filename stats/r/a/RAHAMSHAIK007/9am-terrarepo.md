@@ -1,0 +1,17 @@
+# RAHAMSHAIK007/9am-terrarepo - stars & forks statistics
+
+Stats updated on Feb 2023, 08
+
+☋ Forks: 5
+
+★ Stars: 1
+
+[Open repository](https://github.com/RAHAMSHAIK007/9am-terrarepo)
+
+[Open detailed stats for RAHAMSHAIK007/9am-terrarepo](https://reviewgithub.com/rep/RAHAMSHAIK007/9am-terrarepo)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-08 | 1 | 5 | 
+

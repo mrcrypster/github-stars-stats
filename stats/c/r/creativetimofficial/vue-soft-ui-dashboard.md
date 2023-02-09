@@ -1,10 +1,10 @@
 # creativetimofficial/vue-soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/creativetimofficial/vue-soft-ui-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 63 | 104 | 
 | 2023-02-07 | 62 | 103 | 
 | 2023-02-06 | 61 | 103 | 
 | 2023-02-05 | 61 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 58 | 96 | 
 | 2023-01-11 | 58 | 96 | 
 | 2023-01-10 | 58 | 96 | 
-| 2023-01-09 | 58 | 95 | 
 

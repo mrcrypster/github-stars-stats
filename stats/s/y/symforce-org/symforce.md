@@ -1,10 +1,10 @@
 # symforce-org/symforce - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 112
 
-★ Stars: 1103
+★ Stars: 1107
 
 [Open repository](https://github.com/symforce-org/symforce)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1107 | 112 | 
 | 2023-02-07 | 1103 | 112 | 
 | 2023-02-06 | 1103 | 112 | 
 | 2023-02-05 | 1102 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1076 | 108 | 
 | 2023-01-11 | 1076 | 108 | 
 | 2023-01-10 | 1076 | 108 | 
-| 2023-01-09 | 1076 | 108 | 
 

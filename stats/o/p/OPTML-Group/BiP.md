@@ -1,6 +1,6 @@
 # OPTML-Group/BiP - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 123 | 32 | 
 | 2023-02-07 | 123 | 32 | 
 | 2023-02-06 | 123 | 32 | 
 | 2023-02-05 | 123 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 122 | 32 | 
 | 2023-01-11 | 122 | 32 | 
 | 2023-01-10 | 122 | 32 | 
-| 2023-01-09 | 122 | 32 | 
 

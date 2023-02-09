@@ -1,8 +1,8 @@
 # OpenIMSDK/Open-IM-SDK-Flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 183
+☋ Forks: 182
 
 ★ Stars: 281
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 281 | 182 | 
 | 2023-02-07 | 281 | 183 | 
 | 2023-02-06 | 281 | 183 | 
 | 2023-02-05 | 281 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 279 | 182 | 
 | 2023-01-11 | 278 | 182 | 
 | 2023-01-10 | 278 | 182 | 
-| 2023-01-09 | 278 | 182 | 
 

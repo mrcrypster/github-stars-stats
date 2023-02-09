@@ -1,10 +1,10 @@
 # flora-pm/flora-server - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/flora-pm/flora-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 82 | 24 | 
 | 2023-02-07 | 81 | 23 | 
 | 2023-02-06 | 81 | 23 | 
 | 2023-02-05 | 79 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 79 | 23 | 
 | 2023-01-11 | 79 | 23 | 
 | 2023-01-10 | 79 | 23 | 
-| 2023-01-09 | 79 | 23 | 
 

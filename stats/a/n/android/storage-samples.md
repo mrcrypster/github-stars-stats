@@ -1,10 +1,10 @@
 # android/storage-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 531
 
-★ Stars: 1306
+★ Stars: 1307
 
 [Open repository](https://github.com/android/storage-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1307 | 531 | 
 | 2023-02-07 | 1306 | 531 | 
 | 2023-02-06 | 1306 | 531 | 
 | 2023-02-05 | 1306 | 530 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1301 | 524 | 
 | 2023-01-11 | 1300 | 524 | 
 | 2023-01-10 | 1299 | 523 | 
-| 2023-01-09 | 1300 | 523 | 
 

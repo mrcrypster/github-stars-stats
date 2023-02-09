@@ -1,6 +1,6 @@
 # hsousa/HCSStarRatingView - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1279 | 196 | 
 | 2023-02-07 | 1279 | 196 | 
 | 2023-02-06 | 1279 | 196 | 
 | 2023-02-05 | 1279 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 1279 | 194 | 
 | 2023-01-11 | 1279 | 193 | 
 | 2023-01-10 | 1279 | 193 | 
-| 2023-01-09 | 1279 | 193 | 
 

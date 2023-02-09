@@ -1,8 +1,8 @@
 # JohnSundell/ShellOut - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 81
+☋ Forks: 80
 
 ★ Stars: 783
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 783 | 80 | 
 | 2023-02-07 | 783 | 81 | 
 | 2023-02-06 | 783 | 81 | 
 | 2023-02-05 | 783 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 779 | 81 | 
 | 2023-01-11 | 779 | 81 | 
 | 2023-01-10 | 778 | 81 | 
-| 2023-01-09 | 777 | 81 | 
 

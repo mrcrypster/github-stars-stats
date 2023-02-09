@@ -1,10 +1,10 @@
 # zalky/runway - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/zalky/runway)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 15 | - | 
+| 2023-02-08 | 15 | - | 
 | 2023-02-07 | 14 | - | 
 | 2023-02-06 | 12 | - | 
 | 2023-02-05 | 12 | - | 

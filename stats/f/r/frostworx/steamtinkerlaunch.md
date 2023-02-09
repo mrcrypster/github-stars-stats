@@ -1,10 +1,10 @@
 # frostworx/steamtinkerlaunch - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 42
 
-★ Stars: 1284
+★ Stars: 1285
 
 [Open repository](https://github.com/frostworx/steamtinkerlaunch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1285 | 42 | 
 | 2023-02-07 | 1284 | 42 | 
 | 2023-02-06 | 1284 | 42 | 
 | 2023-02-05 | 1281 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1229 | 42 | 
 | 2023-01-11 | 1228 | 42 | 
 | 2023-01-10 | 1224 | 42 | 
-| 2023-01-09 | 1219 | 43 | 
 

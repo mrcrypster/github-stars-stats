@@ -1,6 +1,6 @@
 # vlang/msgpack - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 16 | 1 | 
 | 2023-02-07 | 16 | 1 | 
 | 2023-02-05 | 16 | 1 | 
 | 2023-02-04 | 15 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 15 | 1 | 
 | 2023-01-11 | 15 | 1 | 
 | 2023-01-10 | 15 | 1 | 
-| 2023-01-09 | 15 | 1 | 
 

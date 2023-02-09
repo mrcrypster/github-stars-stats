@@ -1,6 +1,6 @@
 # amrvac/amrvac - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 54 | 32 | 
 | 2023-02-07 | 54 | 32 | 
 | 2023-02-06 | 53 | 32 | 
 | 2023-02-05 | 53 | 32 | 

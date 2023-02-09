@@ -1,10 +1,10 @@
 # NVIDIA/nvidia-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2016
+☋ Forks: 2015
 
-★ Stars: 15711
+★ Stars: 15713
 
 [Open repository](https://github.com/NVIDIA/nvidia-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 15713 | 2015 | 
 | 2023-02-07 | 15711 | 2016 | 
 | 2023-02-06 | 15710 | 2016 | 
 | 2023-02-05 | 15708 | 2016 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 15625 | 2007 | 
 | 2023-01-11 | 15624 | 2007 | 
 | 2023-01-10 | 15617 | 2007 | 
-| 2023-01-09 | 15608 | 2006 | 
 

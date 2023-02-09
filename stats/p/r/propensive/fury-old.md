@@ -1,6 +1,6 @@
 # propensive/fury-old - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 400 | 34 | 
 | 2023-02-07 | 400 | 34 | 
 | 2023-02-06 | 400 | 34 | 
 | 2023-02-05 | 400 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 400 | 34 | 
 | 2023-01-11 | 400 | 34 | 
 | 2023-01-10 | 400 | 34 | 
-| 2023-01-09 | 400 | 34 | 
 

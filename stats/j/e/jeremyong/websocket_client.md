@@ -1,6 +1,6 @@
 # jeremyong/websocket_client - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 177 | 129 | 
 | 2023-02-07 | 177 | 129 | 
 | 2023-02-06 | 177 | 129 | 
 | 2023-02-05 | 177 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 177 | 129 | 
 | 2023-01-11 | 177 | 129 | 
 | 2023-01-10 | 177 | 129 | 
-| 2023-01-09 | 177 | 129 | 
 

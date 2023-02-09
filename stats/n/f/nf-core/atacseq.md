@@ -1,10 +1,10 @@
 # nf-core/atacseq - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/nf-core/atacseq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 132 | 91 | 
 | 2023-02-07 | 131 | 90 | 
 | 2023-02-06 | 131 | 90 | 
 | 2023-02-05 | 130 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 127 | 87 | 
 | 2023-01-12 | 127 | 87 | 
 | 2023-01-11 | 127 | 86 | 
-| 2023-01-10 | 127 | 86 | 
 

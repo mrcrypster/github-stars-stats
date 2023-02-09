@@ -1,10 +1,10 @@
 # dominikbraun/graph - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 45
 
-★ Stars: 1086
+★ Stars: 1089
 
 [Open repository](https://github.com/dominikbraun/graph)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1089 | 45 | 
 | 2023-02-07 | 1086 | 45 | 
 | 2023-02-06 | 1084 | 45 | 
 | 2023-02-05 | 1083 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 832 | 37 | 
 | 2023-01-11 | 831 | 37 | 
 | 2023-01-10 | 831 | 37 | 
-| 2023-01-09 | 831 | 37 | 
 

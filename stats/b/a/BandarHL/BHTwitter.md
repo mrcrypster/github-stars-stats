@@ -1,10 +1,10 @@
 # BandarHL/BHTwitter - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 509
+★ Stars: 514
 
 [Open repository](https://github.com/BandarHL/BHTwitter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 514 | 35 | 
 | 2023-02-07 | 509 | 35 | 
 | 2023-02-06 | 507 | 35 | 
 | 2023-02-05 | 506 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 430 | 30 | 
 | 2023-01-11 | 428 | 29 | 
 | 2023-01-10 | 426 | 29 | 
-| 2023-01-09 | 426 | 29 | 
 

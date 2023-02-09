@@ -1,6 +1,6 @@
 # minad/cape - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 311 | 14 | 
 | 2023-02-07 | 311 | 14 | 
 | 2023-02-06 | 311 | 14 | 
 | 2023-02-05 | 309 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 300 | 13 | 
 | 2023-01-11 | 299 | 13 | 
 | 2023-01-10 | 299 | 13 | 
-| 2023-01-09 | 299 | 13 | 
 

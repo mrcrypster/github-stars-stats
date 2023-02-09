@@ -1,6 +1,6 @@
 # lthms/spatial-sway - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 14 | - | 
 | 2023-02-06 | 14 | - | 
 | 2023-02-05 | 14 | - | 
 | 2023-02-04 | 14 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 14 | - | 
 | 2023-01-11 | 14 | - | 
 | 2023-01-10 | 14 | - | 
-| 2023-01-09 | 14 | - | 
 

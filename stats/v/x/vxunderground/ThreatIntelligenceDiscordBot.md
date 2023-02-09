@@ -1,10 +1,10 @@
 # vxunderground/ThreatIntelligenceDiscordBot - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 48
 
-★ Stars: 222
+★ Stars: 223
 
 [Open repository](https://github.com/vxunderground/ThreatIntelligenceDiscordBot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 223 | 48 | 
 | 2023-02-07 | 222 | 48 | 
 | 2023-02-06 | 222 | 48 | 
 | 2023-02-05 | 222 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 217 | 45 | 
 | 2023-01-11 | 216 | 45 | 
 | 2023-01-10 | 216 | 45 | 
-| 2023-01-09 | 215 | 44 | 
 

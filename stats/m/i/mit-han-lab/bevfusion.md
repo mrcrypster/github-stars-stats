@@ -1,10 +1,10 @@
 # mit-han-lab/bevfusion - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 174
+☋ Forks: 176
 
-★ Stars: 975
+★ Stars: 979
 
 [Open repository](https://github.com/mit-han-lab/bevfusion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 979 | 176 | 
 | 2023-02-07 | 975 | 174 | 
 | 2023-02-06 | 972 | 174 | 
 | 2023-02-05 | 971 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 948 | 164 | 
 | 2023-01-11 | 947 | 163 | 
 | 2023-01-10 | 945 | 163 | 
-| 2023-01-09 | 941 | 161 | 
 

@@ -1,10 +1,10 @@
 # github/codeql-go - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 164
 
-★ Stars: 455
+★ Stars: 456
 
 [Open repository](https://github.com/github/codeql-go)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 456 | 164 | 
 | 2023-02-07 | 455 | 164 | 
 | 2023-02-06 | 455 | 164 | 
 | 2023-02-05 | 455 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 455 | 165 | 
 | 2023-01-11 | 455 | 165 | 
 | 2023-01-10 | 455 | 165 | 
-| 2023-01-09 | 455 | 165 | 
 

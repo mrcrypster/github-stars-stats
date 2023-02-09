@@ -1,6 +1,6 @@
 # r-lib/httr - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2014
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 965 | 2014 | 
 | 2023-02-07 | 965 | 2014 | 
 | 2023-02-05 | 965 | 2014 | 
 | 2023-02-04 | 965 | 2015 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 963 | 2013 | 
 | 2023-01-11 | 963 | 2013 | 
 | 2023-01-10 | 963 | 2013 | 
-| 2023-01-09 | 963 | 2013 | 
 

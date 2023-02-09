@@ -1,6 +1,6 @@
 # esteininger/vector-search - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 90 | 5 | 
 | 2023-02-07 | 90 | 5 | 
 | 2023-02-06 | 89 | 5 | 
 | 2023-02-05 | 88 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 70 | 5 | 
 | 2023-01-11 | 70 | 5 | 
 | 2023-01-10 | 70 | 5 | 
-| 2023-01-09 | 68 | 5 | 
 

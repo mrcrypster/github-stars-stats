@@ -1,10 +1,10 @@
 # remote-android/redroid-doc - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 155
 
-★ Stars: 1824
+★ Stars: 1828
 
 [Open repository](https://github.com/remote-android/redroid-doc)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 1824 | 155 | 
+| 2023-02-09 | 1828 | 155 | 
+| 2023-02-08 | 1828 | 155 | 
 | 2023-02-07 | 1822 | 155 | 
 | 2023-02-06 | 1810 | 154 | 
 | 2023-02-05 | 1797 | 154 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1748 | 151 | 
 | 2023-01-12 | 1746 | 149 | 
 | 2023-01-11 | 1740 | 147 | 
-| 2023-01-10 | 1737 | 146 | 
 

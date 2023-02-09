@@ -1,6 +1,6 @@
 # iilegacyyii/ExportDumper - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 59 | 7 | 
 | 2023-02-07 | 59 | 7 | 
 | 2023-02-06 | 59 | 7 | 
 | 2023-02-05 | 59 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 59 | 7 | 
 | 2023-01-11 | 59 | 7 | 
 | 2023-01-10 | 59 | 7 | 
-| 2023-01-09 | 59 | 7 | 
 

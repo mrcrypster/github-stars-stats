@@ -1,10 +1,10 @@
 # tauri-apps/awesome-tauri - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 87
 
-★ Stars: 1462
+★ Stars: 1467
 
 [Open repository](https://github.com/tauri-apps/awesome-tauri)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1467 | 87 | 
 | 2023-02-07 | 1462 | 87 | 
 | 2023-02-05 | 1460 | 86 | 
 | 2023-02-04 | 1458 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 1365 | 78 | 
 | 2023-01-12 | 1361 | 78 | 
 | 2023-01-11 | 1353 | 77 | 
-| 2023-01-09 | 1347 | 77 | 
 

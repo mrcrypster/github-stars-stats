@@ -1,6 +1,6 @@
 # locationtech/geotrellis - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1254 | 368 | 
 | 2023-02-07 | 1254 | 368 | 
 | 2023-02-06 | 1254 | 367 | 
 | 2023-02-05 | 1254 | 367 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1251 | 366 | 
 | 2023-01-11 | 1249 | 366 | 
 | 2023-01-10 | 1249 | 365 | 
-| 2023-01-09 | 1249 | 365 | 
 

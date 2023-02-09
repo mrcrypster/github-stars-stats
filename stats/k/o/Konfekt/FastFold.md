@@ -1,6 +1,6 @@
 # Konfekt/FastFold - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 690 | 24 | 
 | 2023-02-07 | 690 | 24 | 
 | 2023-02-05 | 690 | 24 | 
 | 2023-02-04 | 690 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 689 | 24 | 
 | 2023-01-11 | 689 | 24 | 
 | 2023-01-10 | 689 | 24 | 
-| 2023-01-09 | 689 | 24 | 
 

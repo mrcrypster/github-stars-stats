@@ -1,10 +1,10 @@
 # microsoft/Power-Platform-App-Dev-in-a-Day-KR - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/microsoft/Power-Platform-App-Dev-in-a-Day-KR)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6 | 1 | 
 | 2023-02-07 | 7 | 1 | 
 | 2023-02-06 | 7 | 1 | 
 | 2023-02-05 | 7 | 1 | 

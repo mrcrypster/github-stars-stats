@@ -1,10 +1,10 @@
 # ifreund/waylock - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 14
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/ifreund/waylock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 218 | 14 | 
 | 2023-02-07 | 217 | 14 | 
 | 2023-02-06 | 216 | 14 | 
 | 2023-02-05 | 216 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 206 | 13 | 
 | 2023-01-11 | 205 | 13 | 
 | 2023-01-10 | 205 | 13 | 
-| 2023-01-09 | 204 | 13 | 
 

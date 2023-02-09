@@ -1,6 +1,6 @@
 # DioxusLabs/taffy - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 712 | 41 | 
 | 2023-02-07 | 712 | 41 | 
 | 2023-02-06 | 711 | 41 | 
 | 2023-02-05 | 710 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 695 | 43 | 
 | 2023-01-11 | 691 | 43 | 
 | 2023-01-10 | 689 | 42 | 
-| 2023-01-09 | 688 | 42 | 
 

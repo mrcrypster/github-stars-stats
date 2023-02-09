@@ -1,6 +1,6 @@
 # tiredofit/docker-db-backup - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 381 | 86 | 
 | 2023-02-07 | 381 | 86 | 
 | 2023-02-06 | 381 | 85 | 
 | 2023-02-04 | 381 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 365 | 85 | 
 | 2023-01-11 | 364 | 85 | 
 | 2023-01-10 | 361 | 85 | 
-| 2023-01-09 | 359 | 83 | 
 

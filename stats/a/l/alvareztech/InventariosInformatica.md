@@ -1,10 +1,10 @@
 # alvareztech/InventariosInformatica - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/alvareztech/InventariosInformatica)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1 | 1 | 
 | 2023-02-07 | - | 1 | 
 | 2023-02-06 | - | 1 | 
 | 2023-02-05 | - | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | - | 1 | 
 | 2023-01-12 | - | 1 | 
 | 2023-01-11 | - | 1 | 
-| 2023-01-09 | - | 1 | 
 

@@ -1,6 +1,6 @@
 # nextjournal/clerk-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 136 | 19 | 
 | 2023-02-07 | 136 | 19 | 
 | 2023-02-06 | 135 | 19 | 
 | 2023-02-05 | 135 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 130 | 19 | 
 | 2023-01-11 | 130 | 19 | 
 | 2023-01-10 | 130 | 19 | 
-| 2023-01-09 | 130 | 19 | 
 

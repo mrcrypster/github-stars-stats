@@ -1,10 +1,10 @@
 # alifcommunity/webui - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 14
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/alifcommunity/webui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 242 | 14 | 
 | 2023-02-07 | 241 | 14 | 
 | 2023-02-06 | 240 | 14 | 
 | 2023-02-05 | 241 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 231 | 14 | 
 | 2023-01-11 | 229 | 14 | 
 | 2023-01-10 | 227 | 14 | 
-| 2023-01-09 | 227 | 14 | 
 

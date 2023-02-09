@@ -1,8 +1,8 @@
 # probberechts/hexo-theme-cactus - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 697
+☋ Forks: 696
 
 ★ Stars: 2570
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2570 | 696 | 
 | 2023-02-07 | 2570 | 697 | 
 | 2023-02-06 | 2570 | 697 | 
 | 2023-02-05 | 2568 | 696 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2541 | 692 | 
 | 2023-01-11 | 2541 | 692 | 
 | 2023-01-10 | 2538 | 692 | 
-| 2023-01-09 | 2538 | 692 | 
 

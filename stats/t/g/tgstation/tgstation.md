@@ -1,10 +1,10 @@
 # tgstation/tgstation - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 4106
+☋ Forks: 4108
 
-★ Stars: 1408
+★ Stars: 1409
 
 [Open repository](https://github.com/tgstation/tgstation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1409 | 4108 | 
 | 2023-02-07 | 1408 | 4106 | 
 | 2023-02-06 | 1408 | 4105 | 
 | 2023-02-05 | 1407 | 4107 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1397 | 4079 | 
 | 2023-01-11 | 1396 | 4078 | 
 | 2023-01-10 | 1396 | 4077 | 
-| 2023-01-09 | 1396 | 4075 | 
 

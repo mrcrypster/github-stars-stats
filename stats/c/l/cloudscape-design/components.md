@@ -1,6 +1,6 @@
 # cloudscape-design/components - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1905 | 96 | 
 | 2023-02-07 | 1905 | 96 | 
 | 2023-02-06 | 1903 | 97 | 
 | 2023-02-05 | 1902 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1883 | 93 | 
 | 2023-01-11 | 1882 | 93 | 
 | 2023-01-10 | 1879 | 93 | 
-| 2023-01-09 | 1878 | 93 | 
 

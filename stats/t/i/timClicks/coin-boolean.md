@@ -1,6 +1,6 @@
 # timClicks/coin-boolean - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 50 | - | 
 | 2023-02-07 | 50 | - | 
 | 2023-02-06 | 50 | - | 
 | 2023-02-05 | 50 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 50 | - | 
 | 2023-01-11 | 50 | - | 
 | 2023-01-10 | 50 | - | 
-| 2023-01-09 | 50 | - | 
 

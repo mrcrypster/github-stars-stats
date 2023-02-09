@@ -1,8 +1,8 @@
 # Gaius-Augustus/BRAKER - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 208
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 208 | 68 | 
 | 2023-02-07 | 208 | 67 | 
 | 2023-02-05 | 208 | 67 | 
 | 2023-02-04 | 207 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 201 | 64 | 
 | 2023-01-11 | 200 | 64 | 
 | 2023-01-10 | 199 | 64 | 
-| 2023-01-09 | 199 | 64 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 08
 
-☋ Forks: 76
+☋ Forks: 80
 
-★ Stars: 290
+★ Stars: 316
 
 [Open repository](https://github.com/TheRamU/Fay)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 290 | 76 | 
+| 2023-02-08 | 316 | 80 | 
 | 2023-02-07 | 289 | 76 | 
 

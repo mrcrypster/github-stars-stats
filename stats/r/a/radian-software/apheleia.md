@@ -1,6 +1,6 @@
 # radian-software/apheleia - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 320 | 42 | 
 | 2023-02-07 | 320 | 42 | 
 | 2023-02-06 | 318 | 42 | 
 | 2023-02-05 | 316 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 308 | 39 | 
 | 2023-01-11 | 308 | 39 | 
 | 2023-01-10 | 306 | 39 | 
-| 2023-01-09 | 306 | 39 | 
 

@@ -1,10 +1,10 @@
 # peng-zhihui/Project-Quantum - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 706
+☋ Forks: 707
 
-★ Stars: 2668
+★ Stars: 2671
 
 [Open repository](https://github.com/peng-zhihui/Project-Quantum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2671 | 707 | 
 | 2023-02-07 | 2668 | 706 | 
 | 2023-02-05 | 2667 | 707 | 
 | 2023-02-04 | 2666 | 706 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2646 | 702 | 
 | 2023-01-11 | 2643 | 702 | 
 | 2023-01-10 | 2641 | 701 | 
-| 2023-01-09 | 2640 | 701 | 
 

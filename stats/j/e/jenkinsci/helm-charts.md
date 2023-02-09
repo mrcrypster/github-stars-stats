@@ -1,8 +1,8 @@
 # jenkinsci/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 763
+☋ Forks: 764
 
 ★ Stars: 428
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 428 | 764 | 
 | 2023-02-07 | 428 | 763 | 
 | 2023-02-06 | 427 | 758 | 
 | 2023-02-05 | 427 | 758 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 423 | 753 | 
 | 2023-01-11 | 423 | 753 | 
 | 2023-01-10 | 421 | 751 | 
-| 2023-01-09 | 420 | 750 | 
 

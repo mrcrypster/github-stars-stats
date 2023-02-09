@@ -1,10 +1,10 @@
 # jekyll/minima - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 3182
+☋ Forks: 3186
 
-★ Stars: 2845
+★ Stars: 2852
 
 [Open repository](https://github.com/jekyll/minima)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2852 | 3186 | 
 | 2023-02-07 | 2845 | 3182 | 
 | 2023-02-06 | 2843 | 3181 | 
 | 2023-02-05 | 2842 | 3181 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2802 | 3122 | 
 | 2023-01-11 | 2798 | 3115 | 
 | 2023-01-10 | 2798 | 3114 | 
-| 2023-01-09 | 2798 | 3114 | 
 

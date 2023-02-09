@@ -1,10 +1,10 @@
 # PaddlePaddle/FastDeploy - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 207
+☋ Forks: 209
 
-★ Stars: 1507
+★ Stars: 1513
 
 [Open repository](https://github.com/PaddlePaddle/FastDeploy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1513 | 209 | 
 | 2023-02-07 | 1507 | 207 | 
 | 2023-02-06 | 1504 | 206 | 
 | 2023-02-05 | 1498 | 206 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1387 | 189 | 
 | 2023-01-11 | 1381 | 189 | 
 | 2023-01-10 | 1374 | 188 | 
-| 2023-01-09 | 1370 | 186 | 
 

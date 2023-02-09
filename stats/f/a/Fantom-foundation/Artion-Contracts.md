@@ -1,6 +1,6 @@
 # Fantom-foundation/Artion-Contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 92 | 81 | 
 | 2023-02-07 | 92 | 81 | 
 | 2023-02-06 | 92 | 81 | 
 | 2023-02-05 | 92 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 91 | 80 | 
 | 2023-01-11 | 91 | 79 | 
 | 2023-01-10 | 91 | 79 | 
-| 2023-01-09 | 91 | 79 | 
 

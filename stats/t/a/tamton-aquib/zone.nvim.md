@@ -1,6 +1,6 @@
 # tamton-aquib/zone.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 152 | 2 | 
 | 2023-02-06 | 152 | 2 | 
 | 2023-02-05 | 152 | 2 | 
 | 2023-02-04 | 152 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 147 | 2 | 
 | 2023-01-11 | 147 | 2 | 
 | 2023-01-10 | 147 | 2 | 
-| 2023-01-09 | 148 | 2 | 
 

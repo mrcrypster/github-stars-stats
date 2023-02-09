@@ -1,10 +1,10 @@
 # feenkcom/gtoolkit-pager - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/feenkcom/gtoolkit-pager)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4 | 1 | 
 | 2023-02-07 | 3 | 1 | 
 | 2023-02-06 | 3 | 1 | 
 | 2023-02-05 | 3 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 4 | 1 | 
 | 2023-01-11 | 4 | 1 | 
 | 2023-01-10 | 4 | 1 | 
-| 2023-01-09 | 4 | 1 | 
 

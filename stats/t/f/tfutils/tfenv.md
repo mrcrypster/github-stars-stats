@@ -1,10 +1,10 @@
 # tfutils/tfenv - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 371
 
-★ Stars: 3614
+★ Stars: 3620
 
 [Open repository](https://github.com/tfutils/tfenv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3620 | 371 | 
 | 2023-02-07 | 3614 | 371 | 
 | 2023-02-06 | 3612 | 371 | 
 | 2023-02-05 | 3611 | 371 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3568 | 365 | 
 | 2023-01-11 | 3566 | 364 | 
 | 2023-01-10 | 3564 | 363 | 
-| 2023-01-09 | 3561 | 363 | 
 

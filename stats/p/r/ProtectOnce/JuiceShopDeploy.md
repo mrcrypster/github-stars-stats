@@ -1,8 +1,8 @@
 # ProtectOnce/JuiceShopDeploy - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | - | 7 | 
 | 2023-02-07 | - | 8 | 
 | 2023-02-06 | - | 8 | 
 | 2023-02-05 | - | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | - | 8 | 
 | 2023-01-11 | - | 8 | 
 | 2023-01-10 | - | 8 | 
-| 2023-01-09 | - | 8 | 
 

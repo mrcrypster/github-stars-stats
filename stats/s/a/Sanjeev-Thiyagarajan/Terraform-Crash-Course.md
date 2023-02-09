@@ -1,10 +1,10 @@
 # Sanjeev-Thiyagarajan/Terraform-Crash-Course - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 339
 
-★ Stars: 126
+★ Stars: 125
 
 [Open repository](https://github.com/Sanjeev-Thiyagarajan/Terraform-Crash-Course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 125 | 339 | 
 | 2023-02-07 | 126 | 339 | 
 | 2023-02-06 | 126 | 339 | 
 | 2023-02-05 | 126 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 124 | 329 | 
 | 2023-01-11 | 124 | 329 | 
 | 2023-01-10 | 124 | 329 | 
-| 2023-01-09 | 124 | 329 | 
 

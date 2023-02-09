@@ -1,8 +1,8 @@
 # niudai/How-to-be-a-good-programmer - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 711
+☋ Forks: 710
 
 ★ Stars: 3728
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3728 | 710 | 
 | 2023-02-07 | 3728 | 711 | 
 | 2023-02-06 | 3726 | 711 | 
 | 2023-02-05 | 3724 | 710 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3687 | 710 | 
 | 2023-01-11 | 3683 | 709 | 
 | 2023-01-10 | 3683 | 709 | 
-| 2023-01-09 | 3684 | 709 | 
 

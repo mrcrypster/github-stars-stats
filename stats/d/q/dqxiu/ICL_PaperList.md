@@ -1,10 +1,10 @@
 # dqxiu/ICL_PaperList - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 12
+☋ Forks: 15
 
-★ Stars: 230
+★ Stars: 233
 
 [Open repository](https://github.com/dqxiu/ICL_PaperList)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 233 | 15 | 
 | 2023-02-07 | 230 | 12 | 
 | 2023-02-06 | 227 | 11 | 
 | 2023-02-05 | 224 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 173 | 6 | 
 | 2023-01-11 | 166 | 6 | 
 | 2023-01-10 | 157 | 6 | 
-| 2023-01-09 | 151 | 6 | 
 

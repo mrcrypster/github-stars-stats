@@ -1,8 +1,8 @@
 # holbertonschool/make_magic_happen - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 171
+☋ Forks: 170
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 15 | 170 | 
 | 2023-02-07 | 15 | 171 | 
 | 2023-02-05 | 15 | 171 | 
 | 2023-02-04 | 15 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 15 | 171 | 
 | 2023-01-11 | 15 | 171 | 
 | 2023-01-10 | 15 | 171 | 
-| 2023-01-09 | 15 | 171 | 
 

@@ -1,8 +1,8 @@
 # Valheim-Modding/JotunnModStub - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 159
+☋ Forks: 160
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 15 | 160 | 
 | 2023-02-07 | 15 | 159 | 
 | 2023-02-06 | 15 | 158 | 
 | 2023-02-05 | 15 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 14 | 143 | 
 | 2023-01-11 | 14 | 143 | 
 | 2023-01-10 | 14 | 143 | 
-| 2023-01-09 | 14 | 143 | 
 

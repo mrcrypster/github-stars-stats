@@ -1,6 +1,6 @@
 # libp2p/blog - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 9 | 3 | 
 | 2023-02-07 | 9 | 3 | 
 | 2023-02-06 | 9 | 3 | 
 | 2023-02-05 | 9 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 8 | 2 | 
 | 2023-01-11 | 8 | 2 | 
 | 2023-01-10 | 7 | 2 | 
-| 2023-01-09 | 5 | 2 | 
 

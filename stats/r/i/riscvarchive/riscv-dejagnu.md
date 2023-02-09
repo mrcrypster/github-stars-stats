@@ -1,10 +1,10 @@
 # riscvarchive/riscv-dejagnu - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 84
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/riscvarchive/riscv-dejagnu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 13 | 84 | 
 | 2023-02-07 | 12 | 84 | 
 | 2023-02-06 | 12 | 84 | 
 | 2023-02-05 | 12 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 11 | 84 | 
 | 2023-01-11 | 11 | 84 | 
 | 2023-01-10 | 11 | 84 | 
-| 2023-01-09 | 11 | 84 | 
 

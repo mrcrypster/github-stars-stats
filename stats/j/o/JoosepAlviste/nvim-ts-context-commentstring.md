@@ -1,6 +1,6 @@
 # JoosepAlviste/nvim-ts-context-commentstring - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 712 | 15 | 
 | 2023-02-07 | 712 | 15 | 
 | 2023-02-05 | 710 | 15 | 
 | 2023-02-04 | 709 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 693 | 13 | 
 | 2023-01-11 | 690 | 13 | 
 | 2023-01-10 | 688 | 13 | 
-| 2023-01-09 | 687 | 13 | 
 

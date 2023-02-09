@@ -1,6 +1,6 @@
 # coq-community/reglang - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 31 | 5 | 
 | 2023-02-07 | 31 | 5 | 
 | 2023-02-06 | 30 | 5 | 
 | 2023-02-05 | 30 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 29 | 4 | 
 | 2023-01-12 | 29 | 4 | 
 | 2023-01-11 | 29 | 4 | 
-| 2023-01-10 | 29 | 4 | 
 

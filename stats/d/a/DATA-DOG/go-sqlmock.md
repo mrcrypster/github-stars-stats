@@ -1,10 +1,10 @@
 # DATA-DOG/go-sqlmock - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 376
 
-★ Stars: 4987
+★ Stars: 4993
 
 [Open repository](https://github.com/DATA-DOG/go-sqlmock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4993 | 376 | 
 | 2023-02-07 | 4987 | 376 | 
 | 2023-02-06 | 4986 | 375 | 
 | 2023-02-05 | 4983 | 375 | 

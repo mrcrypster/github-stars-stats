@@ -1,10 +1,10 @@
 # orhun/systeroid - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 796
+★ Stars: 795
 
 [Open repository](https://github.com/orhun/systeroid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 795 | 11 | 
 | 2023-02-07 | 796 | 11 | 
 | 2023-02-06 | 796 | 11 | 
 | 2023-02-05 | 796 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 785 | 10 | 
 | 2023-01-12 | 785 | 10 | 
 | 2023-01-11 | 784 | 10 | 
-| 2023-01-10 | 784 | 10 | 
 

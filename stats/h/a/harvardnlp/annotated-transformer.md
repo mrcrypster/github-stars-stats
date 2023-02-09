@@ -1,10 +1,10 @@
 # harvardnlp/annotated-transformer - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 779
 
-★ Stars: 3389
+★ Stars: 3390
 
 [Open repository](https://github.com/harvardnlp/annotated-transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3390 | 779 | 
 | 2023-02-06 | 3389 | 779 | 
 | 2023-02-05 | 3387 | 779 | 
 | 2023-02-04 | 3385 | 778 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 3339 | 768 | 
 | 2023-01-11 | 3339 | 768 | 
 | 2023-01-10 | 3336 | 769 | 
-| 2023-01-09 | 3335 | 769 | 
 

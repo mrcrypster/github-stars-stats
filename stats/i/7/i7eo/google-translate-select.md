@@ -1,6 +1,6 @@
 # i7eo/google-translate-select - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 261 | 60 | 
 | 2023-02-07 | 261 | 60 | 
 | 2023-02-06 | 260 | 60 | 
 | 2023-02-05 | 260 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 216 | 49 | 
 | 2023-01-11 | 204 | 47 | 
 | 2023-01-10 | 195 | 44 | 
-| 2023-01-09 | 175 | 41 | 
 

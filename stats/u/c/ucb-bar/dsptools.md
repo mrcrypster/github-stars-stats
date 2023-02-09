@@ -1,6 +1,6 @@
 # ucb-bar/dsptools - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 180 | 32 | 
 | 2023-02-07 | 180 | 32 | 
 | 2023-02-06 | 180 | 32 | 
 | 2023-02-05 | 180 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 176 | 33 | 
 | 2023-01-11 | 176 | 33 | 
 | 2023-01-10 | 176 | 33 | 
-| 2023-01-09 | 176 | 33 | 
 

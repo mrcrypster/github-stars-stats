@@ -1,10 +1,10 @@
 # canonical/cloud-init - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 675
+☋ Forks: 676
 
-★ Stars: 2005
+★ Stars: 2006
 
 [Open repository](https://github.com/canonical/cloud-init)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2006 | 676 | 
 | 2023-02-07 | 2005 | 675 | 
 | 2023-02-06 | 2001 | 674 | 
 | 2023-02-05 | 2000 | 674 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 1975 | 667 | 
 | 2023-01-12 | 1973 | 667 | 
 | 2023-01-10 | 1971 | 667 | 
-| 2023-01-09 | 1971 | 667 | 
 

@@ -1,10 +1,10 @@
 # wrf-model/WRF - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 534
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/wrf-model/WRF)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 906 | 534 | 
 | 2023-02-07 | 905 | 534 | 
 | 2023-02-06 | 905 | 534 | 
 | 2023-02-05 | 904 | 533 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 894 | 532 | 
 | 2023-01-11 | 893 | 532 | 
 | 2023-01-10 | 893 | 532 | 
-| 2023-01-09 | 893 | 532 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 136
+★ Stars: 141
 
 [Open repository](https://github.com/JakeWharton/cite)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 136 | 2 | 
+| 2023-02-08 | 141 | 3 | 
 | 2023-02-07 | 136 | 2 | 
 

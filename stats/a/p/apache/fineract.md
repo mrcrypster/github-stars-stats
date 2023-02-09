@@ -1,8 +1,8 @@
 # apache/fineract - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1163
+☋ Forks: 1164
 
 ★ Stars: 864
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 864 | 1164 | 
 | 2023-02-07 | 864 | 1163 | 
 | 2023-02-06 | 862 | 1161 | 
 | 2023-02-05 | 862 | 1161 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 847 | 1137 | 
 | 2023-01-11 | 847 | 1136 | 
 | 2023-01-10 | 847 | 1136 | 
-| 2023-01-09 | 847 | 1136 | 
 

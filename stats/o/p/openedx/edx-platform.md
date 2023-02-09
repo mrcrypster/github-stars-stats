@@ -1,10 +1,10 @@
 # openedx/edx-platform - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 3413
+☋ Forks: 3414
 
-★ Stars: 6261
+★ Stars: 6263
 
 [Open repository](https://github.com/openedx/edx-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6263 | 3414 | 
 | 2023-02-07 | 6261 | 3413 | 
 | 2023-02-05 | 6261 | 3411 | 
 | 2023-02-04 | 6261 | 3412 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 6230 | 3398 | 
 | 2023-01-11 | 6226 | 3397 | 
 | 2023-01-10 | 6223 | 3395 | 
-| 2023-01-09 | 6222 | 3394 | 
 

@@ -1,6 +1,6 @@
 # JideGuru/flutter_drawing_board - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 139 | 30 | 
 | 2023-02-07 | 139 | 30 | 
 | 2023-02-06 | 139 | 30 | 
 | 2023-02-05 | 139 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 133 | 26 | 
 | 2023-01-11 | 132 | 26 | 
 | 2023-01-10 | 132 | 26 | 
-| 2023-01-09 | 132 | 25 | 
 

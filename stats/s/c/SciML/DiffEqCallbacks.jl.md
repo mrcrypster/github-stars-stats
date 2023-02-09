@@ -1,8 +1,8 @@
 # SciML/DiffEqCallbacks.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 44 | 28 | 
 | 2023-02-07 | 44 | 27 | 
 | 2023-02-06 | 44 | 27 | 
 | 2023-02-05 | 44 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 43 | 27 | 
 | 2023-01-11 | 43 | 27 | 
 | 2023-01-10 | 43 | 27 | 
-| 2023-01-09 | 43 | 27 | 
 

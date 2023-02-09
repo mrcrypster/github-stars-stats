@@ -1,10 +1,10 @@
 # py-why/dowhy - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 807
 
-★ Stars: 5649
+★ Stars: 5656
 
 [Open repository](https://github.com/py-why/dowhy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 5656 | 807 | 
 | 2023-02-07 | 5649 | 807 | 
 | 2023-02-06 | 5645 | 807 | 
 | 2023-02-05 | 5643 | 805 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 5587 | 791 | 
 | 2023-01-11 | 5582 | 790 | 
 | 2023-01-10 | 5578 | 787 | 
-| 2023-01-09 | 5573 | 786 | 
 

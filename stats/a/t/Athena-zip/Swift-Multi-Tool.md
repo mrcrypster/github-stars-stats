@@ -1,10 +1,10 @@
 # Athena-zip/Swift-Multi-Tool - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 85
 
-★ Stars: 126
+★ Stars: 128
 
 [Open repository](https://github.com/Athena-zip/Swift-Multi-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 128 | 85 | 
 | 2023-02-08 | 126 | 85 | 
 | 2023-02-06 | 124 | 85 | 
 | 2023-02-05 | 122 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 105 | 78 | 
 | 2023-01-11 | 104 | 78 | 
 | 2023-01-10 | 102 | 78 | 
-| 2023-01-09 | 101 | 78 | 
 

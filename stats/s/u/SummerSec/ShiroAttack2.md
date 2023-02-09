@@ -1,6 +1,6 @@
 # SummerSec/ShiroAttack2 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1331 | 211 | 
 | 2023-02-07 | 1331 | 211 | 
 | 2023-02-06 | 1330 | 211 | 
 | 2023-02-05 | 1328 | 211 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1312 | 210 | 
 | 2023-01-11 | 1312 | 210 | 
 | 2023-01-10 | 1309 | 210 | 
-| 2023-01-09 | 1307 | 210 | 
 

@@ -1,10 +1,10 @@
 # lightrun-platform/koolkits - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 10
 
-★ Stars: 284
+★ Stars: 285
 
 [Open repository](https://github.com/lightrun-platform/koolkits)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 285 | 10 | 
 | 2023-02-07 | 284 | 10 | 
 | 2023-02-06 | 284 | 10 | 
 | 2023-02-05 | 284 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 280 | 10 | 
 | 2023-01-11 | 279 | 10 | 
 | 2023-01-10 | 279 | 10 | 
-| 2023-01-09 | 279 | 10 | 
 

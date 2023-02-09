@@ -1,10 +1,10 @@
 # zdennis/activerecord-import - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 612
+☋ Forks: 611
 
-★ Stars: 3807
+★ Stars: 3808
 
 [Open repository](https://github.com/zdennis/activerecord-import)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3808 | 611 | 
 | 2023-02-07 | 3807 | 612 | 
 | 2023-02-06 | 3807 | 612 | 
 | 2023-02-05 | 3808 | 612 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3801 | 611 | 
 | 2023-01-11 | 3798 | 611 | 
 | 2023-01-10 | 3798 | 611 | 
-| 2023-01-09 | 3797 | 611 | 
 

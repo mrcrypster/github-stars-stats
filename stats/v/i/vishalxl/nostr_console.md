@@ -1,10 +1,10 @@
 # vishalxl/nostr_console - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 27
 
-★ Stars: 343
+★ Stars: 347
 
 [Open repository](https://github.com/vishalxl/nostr_console)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 347 | 27 | 
 | 2023-02-07 | 343 | 27 | 
 | 2023-02-06 | 338 | 26 | 
 | 2023-02-05 | 333 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 275 | 22 | 
 | 2023-01-11 | 273 | 22 | 
 | 2023-01-10 | 271 | 22 | 
-| 2023-01-09 | 265 | 22 | 
 

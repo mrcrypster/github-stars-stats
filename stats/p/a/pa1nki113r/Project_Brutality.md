@@ -1,10 +1,10 @@
 # pa1nki113r/Project_Brutality - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 378
 
-★ Stars: 910
+★ Stars: 909
 
 [Open repository](https://github.com/pa1nki113r/Project_Brutality)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 909 | 378 | 
 | 2023-02-07 | 910 | 378 | 
 | 2023-02-06 | 910 | 378 | 
 | 2023-02-05 | 908 | 378 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 902 | 375 | 
 | 2023-01-11 | 902 | 375 | 
 | 2023-01-10 | 902 | 375 | 
-| 2023-01-09 | 902 | 375 | 
 

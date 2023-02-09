@@ -1,6 +1,6 @@
 # dotnet/orleans - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1960
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 9113 | 1960 | 
 | 2023-02-07 | 9113 | 1960 | 
 | 2023-02-06 | 9113 | 1960 | 
 | 2023-02-05 | 9111 | 1960 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 9067 | 1953 | 
 | 2023-01-12 | 9065 | 1952 | 
 | 2023-01-11 | 9060 | 1952 | 
-| 2023-01-10 | 9059 | 1951 | 
 

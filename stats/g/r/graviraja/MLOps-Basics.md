@@ -1,6 +1,6 @@
 # graviraja/MLOps-Basics - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 590
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3297 | 590 | 
 | 2023-02-07 | 3297 | 590 | 
 | 2023-02-06 | 3297 | 589 | 
 | 2023-02-05 | 3297 | 589 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 3288 | 586 | 
 | 2023-01-12 | 3287 | 586 | 
 | 2023-01-11 | 3286 | 585 | 
-| 2023-01-10 | 3284 | 583 | 
 

@@ -1,6 +1,6 @@
 # p0dalirius/windows-coerced-authentication-methods - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 335 | 44 | 
 | 2023-02-07 | 335 | 44 | 
 | 2023-02-06 | 333 | 43 | 
 | 2023-02-05 | 332 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 324 | 41 | 
 | 2023-01-11 | 324 | 41 | 
 | 2023-01-10 | 324 | 41 | 
-| 2023-01-09 | 324 | 41 | 
 

@@ -1,10 +1,10 @@
 # mastodon/chart - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 37
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/mastodon/chart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 65 | 37 | 
 | 2023-02-07 | 64 | 37 | 
 | 2023-02-06 | 63 | 37 | 
 | 2023-02-05 | 61 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 46 | 31 | 
 | 2023-01-11 | 45 | 31 | 
 | 2023-01-10 | 44 | 30 | 
-| 2023-01-09 | 44 | 29 | 
 

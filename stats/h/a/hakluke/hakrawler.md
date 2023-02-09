@@ -1,10 +1,10 @@
 # hakluke/hakrawler - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 422
 
-★ Stars: 3488
+★ Stars: 3487
 
 [Open repository](https://github.com/hakluke/hakrawler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3487 | 422 | 
 | 2023-02-07 | 3488 | 422 | 
 | 2023-02-06 | 3489 | 422 | 
 | 2023-02-05 | 3488 | 422 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3449 | 421 | 
 | 2023-01-11 | 3447 | 421 | 
 | 2023-01-10 | 3442 | 421 | 
-| 2023-01-09 | 3437 | 421 | 
 

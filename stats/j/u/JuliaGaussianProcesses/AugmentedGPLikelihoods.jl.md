@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/JuliaGaussianProcesses/AugmentedGPLikelihoods.jl)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 16 | 2 | 
+| 2023-02-08 | 17 | 2 | 
 | 2023-02-07 | 16 | 2 | 
 

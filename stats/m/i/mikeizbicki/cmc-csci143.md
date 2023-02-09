@@ -1,6 +1,6 @@
 # mikeizbicki/cmc-csci143 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 59
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 33 | 59 | 
+| 2023-02-08 | 33 | 59 | 
 | 2023-02-07 | 33 | 59 | 
 | 2023-02-06 | 33 | 58 | 
 | 2023-02-05 | 33 | 57 | 

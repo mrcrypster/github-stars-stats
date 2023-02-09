@@ -1,10 +1,10 @@
 # baokhanhvps/khanhvps - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 307
+☋ Forks: 317
 
-★ Stars: 0
+★ Stars: 2
 
 [Open repository](https://github.com/baokhanhvps/khanhvps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2 | 317 | 
 | 2023-02-07 | - | 307 | 
 | 2023-02-06 | - | 293 | 
 | 2023-02-05 | - | 290 | 

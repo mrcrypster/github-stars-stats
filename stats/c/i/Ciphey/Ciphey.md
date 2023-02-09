@@ -1,10 +1,10 @@
 # Ciphey/Ciphey - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 726
+☋ Forks: 727
 
-★ Stars: 11361
+★ Stars: 11373
 
 [Open repository](https://github.com/Ciphey/Ciphey)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 11373 | 727 | 
 | 2023-02-07 | 11361 | 726 | 
 | 2023-02-06 | 11351 | 726 | 
 | 2023-02-05 | 11347 | 725 | 

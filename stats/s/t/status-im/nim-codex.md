@@ -1,6 +1,6 @@
 # status-im/nim-codex - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 30 | 12 | 
 | 2023-02-07 | 30 | 12 | 
 | 2023-02-06 | 30 | 12 | 
 | 2023-02-05 | 30 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 28 | 11 | 
 | 2023-01-12 | 28 | 11 | 
 | 2023-01-11 | 26 | 11 | 
-| 2023-01-10 | 26 | 11 | 
 

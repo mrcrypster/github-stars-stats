@@ -1,10 +1,10 @@
 # mrdbourke/tensorflow-deep-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 1645
+☋ Forks: 1648
 
-★ Stars: 3543
+★ Stars: 3551
 
 [Open repository](https://github.com/mrdbourke/tensorflow-deep-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3551 | 1648 | 
 | 2023-02-07 | 3543 | 1645 | 
 | 2023-02-06 | 3537 | 1644 | 
 | 2023-02-05 | 3523 | 1638 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 3433 | 1598 | 
 | 2023-01-11 | 3429 | 1596 | 
 | 2023-01-10 | 3427 | 1595 | 
-| 2023-01-09 | 3424 | 1594 | 
 

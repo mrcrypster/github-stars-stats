@@ -1,10 +1,10 @@
 # prettier/vim-prettier - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 122
 
-★ Stars: 1645
+★ Stars: 1647
 
 [Open repository](https://github.com/prettier/vim-prettier)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1647 | 122 | 
 | 2023-02-07 | 1645 | 122 | 
 | 2023-02-06 | 1645 | 122 | 
 | 2023-02-05 | 1645 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1636 | 122 | 
 | 2023-01-11 | 1636 | 122 | 
 | 2023-01-10 | 1635 | 122 | 
-| 2023-01-09 | 1635 | 122 | 
 

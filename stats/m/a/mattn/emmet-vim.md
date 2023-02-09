@@ -1,10 +1,10 @@
 # mattn/emmet-vim - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 413
 
-★ Stars: 6177
+★ Stars: 6179
 
 [Open repository](https://github.com/mattn/emmet-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6179 | 413 | 
 | 2023-02-07 | 6177 | 413 | 
 | 2023-02-06 | 6177 | 413 | 
 | 2023-02-05 | 6175 | 413 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 6151 | 411 | 
 | 2023-01-11 | 6150 | 411 | 
 | 2023-01-10 | 6147 | 411 | 
-| 2023-01-09 | 6147 | 410 | 
 

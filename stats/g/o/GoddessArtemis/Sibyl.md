@@ -1,10 +1,10 @@
 # GoddessArtemis/Sibyl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/GoddessArtemis/Sibyl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2 | 1 | 
 | 2023-02-07 | 1 | 1 | 
 | 2023-02-06 | 1 | 1 | 
 | 2023-02-05 | 1 | 1 | 

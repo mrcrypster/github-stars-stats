@@ -1,6 +1,6 @@
 # movebit/movectf-6 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3 | 4 | 
 | 2023-02-07 | 3 | 4 | 
 | 2023-02-06 | 3 | 4 | 
 | 2023-02-05 | 3 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2 | 4 | 
 | 2023-01-11 | 2 | 4 | 
 | 2023-01-10 | 2 | 4 | 
-| 2023-01-09 | 2 | 4 | 
 

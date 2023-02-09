@@ -1,10 +1,10 @@
 # bhrugen/Bulky - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 196
+☋ Forks: 197
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/bhrugen/Bulky)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 187 | 197 | 
 | 2023-02-07 | 186 | 196 | 
 | 2023-02-06 | 185 | 196 | 
 | 2023-02-05 | 185 | 194 | 

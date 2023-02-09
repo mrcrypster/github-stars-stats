@@ -1,10 +1,10 @@
 # stevana/property-based-testing-stateful-systems-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/stevana/property-based-testing-stateful-systems-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 44 | - | 
 | 2023-02-07 | 43 | - | 
 | 2023-02-06 | 43 | - | 
 | 2023-02-05 | 43 | - | 

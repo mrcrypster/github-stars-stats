@@ -1,0 +1,18 @@
+# possan/rfidgame - stars & forks statistics
+
+Stats updated on Feb 2023, 09
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/possan/rfidgame)
+
+[Open detailed stats for possan/rfidgame](https://reviewgithub.com/rep/possan/rfidgame)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-09 | 1 | - | 
+| 2023-02-08 | 1 | - | 
+

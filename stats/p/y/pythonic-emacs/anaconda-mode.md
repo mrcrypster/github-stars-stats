@@ -1,10 +1,10 @@
 # pythonic-emacs/anaconda-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 85
 
-★ Stars: 679
+★ Stars: 680
 
 [Open repository](https://github.com/pythonic-emacs/anaconda-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 680 | 85 | 
 | 2023-02-07 | 679 | 85 | 
 | 2023-02-06 | 679 | 85 | 
 | 2023-02-05 | 679 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 675 | 85 | 
 | 2023-01-12 | 675 | 85 | 
 | 2023-01-10 | 675 | 85 | 
-| 2023-01-09 | 675 | 85 | 
 

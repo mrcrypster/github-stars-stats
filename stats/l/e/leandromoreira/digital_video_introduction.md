@@ -1,10 +1,10 @@
 # leandromoreira/digital_video_introduction - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1167
 
-★ Stars: 13329
+★ Stars: 13335
 
 [Open repository](https://github.com/leandromoreira/digital_video_introduction)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 13335 | 1167 | 
 | 2023-02-07 | 13329 | 1167 | 
 | 2023-02-06 | 13327 | 1167 | 
 | 2023-02-05 | 13323 | 1166 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 13280 | 1161 | 
 | 2023-01-12 | 13277 | 1161 | 
 | 2023-01-11 | 13275 | 1162 | 
-| 2023-01-10 | 13272 | 1162 | 
 

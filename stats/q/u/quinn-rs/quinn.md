@@ -1,10 +1,10 @@
 # quinn-rs/quinn - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 239
 
-★ Stars: 2596
+★ Stars: 2598
 
 [Open repository](https://github.com/quinn-rs/quinn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2598 | 239 | 
 | 2023-02-07 | 2596 | 239 | 
 | 2023-02-06 | 2594 | 239 | 
 | 2023-02-05 | 2591 | 239 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2565 | 233 | 
 | 2023-01-11 | 2565 | 232 | 
 | 2023-01-10 | 2561 | 232 | 
-| 2023-01-09 | 2557 | 232 | 
 

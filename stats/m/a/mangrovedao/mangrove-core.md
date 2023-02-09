@@ -1,6 +1,6 @@
 # mangrovedao/mangrove-core - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 13 | 2 | 
 | 2023-02-07 | 13 | 2 | 
 | 2023-02-06 | 13 | 2 | 
 | 2023-02-05 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 14 | 2 | 
 | 2023-01-11 | 14 | 2 | 
 | 2023-01-10 | 14 | 2 | 
-| 2023-01-09 | 14 | 2 | 
 

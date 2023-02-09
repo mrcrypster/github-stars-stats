@@ -1,6 +1,6 @@
 # jhuckaby/webcamjs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1120
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2448 | 1120 | 
 | 2023-02-07 | 2448 | 1120 | 
 | 2023-02-06 | 2447 | 1121 | 
 | 2023-02-05 | 2447 | 1120 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2447 | 1120 | 
 | 2023-01-11 | 2447 | 1120 | 
 | 2023-01-10 | 2447 | 1120 | 
-| 2023-01-09 | 2447 | 1120 | 
 

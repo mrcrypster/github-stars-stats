@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/go-jet/jet-test-data)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 2 | 4 | 
+| 2023-02-08 | 3 | 4 | 
 | 2023-02-07 | 2 | 4 | 
 

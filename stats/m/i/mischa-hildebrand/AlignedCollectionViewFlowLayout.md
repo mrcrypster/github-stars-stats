@@ -1,6 +1,6 @@
 # mischa-hildebrand/AlignedCollectionViewFlowLayout - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1077 | 184 | 
 | 2023-02-07 | 1077 | 184 | 
 | 2023-02-06 | 1076 | 184 | 
 | 2023-02-05 | 1076 | 184 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1069 | 184 | 
 | 2023-01-11 | 1068 | 184 | 
 | 2023-01-10 | 1069 | 184 | 
-| 2023-01-09 | 1070 | 184 | 
 

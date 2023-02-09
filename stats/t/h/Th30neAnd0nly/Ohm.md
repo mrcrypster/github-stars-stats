@@ -1,10 +1,10 @@
 # Th30neAnd0nly/Ohm - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 140
 
-★ Stars: 348
+★ Stars: 349
 
 [Open repository](https://github.com/Th30neAnd0nly/Ohm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 349 | 140 | 
 | 2023-02-07 | 348 | 140 | 
 | 2023-02-06 | 348 | 139 | 
 | 2023-02-05 | 348 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 338 | 135 | 
 | 2023-01-11 | 337 | 135 | 
 | 2023-01-10 | 337 | 135 | 
-| 2023-01-09 | 337 | 134 | 
 

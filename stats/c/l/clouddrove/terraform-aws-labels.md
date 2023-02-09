@@ -1,6 +1,6 @@
 # clouddrove/terraform-aws-labels - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 32 | 20 | 
 | 2023-02-07 | 32 | 20 | 
 | 2023-02-06 | 32 | 20 | 
 | 2023-02-05 | 32 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 32 | 19 | 
 | 2023-01-12 | 32 | 19 | 
 | 2023-01-11 | 31 | 19 | 
-| 2023-01-10 | 31 | 19 | 
 

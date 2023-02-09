@@ -1,8 +1,8 @@
 # gravitee-io/issues - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 64 | 26 | 
 | 2023-02-07 | 64 | 25 | 
 | 2023-02-06 | 64 | 25 | 
 | 2023-02-05 | 64 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 66 | 25 | 
 | 2023-01-11 | 66 | 25 | 
 | 2023-01-10 | 66 | 25 | 
-| 2023-01-09 | 66 | 25 | 
 

@@ -1,10 +1,10 @@
 # CyC2018/Markdown-Resume - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 1362
+☋ Forks: 1364
 
-★ Stars: 2386
+★ Stars: 2387
 
 [Open repository](https://github.com/CyC2018/Markdown-Resume)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2387 | 1364 | 
 | 2023-02-07 | 2386 | 1362 | 
 | 2023-02-06 | 2385 | 1361 | 
 | 2023-02-05 | 2383 | 1362 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2357 | 1355 | 
 | 2023-01-11 | 2356 | 1353 | 
 | 2023-01-10 | 2355 | 1353 | 
-| 2023-01-09 | 2355 | 1353 | 
 

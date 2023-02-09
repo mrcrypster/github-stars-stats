@@ -1,6 +1,6 @@
 # NvChad/example_config - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 30 | 33 | 
 | 2023-02-07 | 30 | 33 | 
 | 2023-02-06 | 30 | 33 | 
 | 2023-02-05 | 29 | 33 | 

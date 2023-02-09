@@ -1,10 +1,10 @@
 # minexew/Shrine - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 69
 
-★ Stars: 1312
+★ Stars: 1313
 
 [Open repository](https://github.com/minexew/Shrine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1313 | 69 | 
 | 2023-02-07 | 1312 | 69 | 
 | 2023-02-06 | 1310 | 69 | 
 | 2023-02-05 | 1309 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1306 | 68 | 
 | 2023-01-11 | 1308 | 68 | 
 | 2023-01-10 | 1308 | 68 | 
-| 2023-01-09 | 1308 | 68 | 
 

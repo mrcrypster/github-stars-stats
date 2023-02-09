@@ -1,10 +1,10 @@
 # Robert-van-Engelen/tinylisp - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 29
 
-★ Stars: 642
+★ Stars: 643
 
 [Open repository](https://github.com/Robert-van-Engelen/tinylisp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 643 | 29 | 
 | 2023-02-07 | 642 | 29 | 
 | 2023-02-06 | 642 | 29 | 
 | 2023-02-05 | 642 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 627 | 27 | 
 | 2023-01-11 | 627 | 27 | 
 | 2023-01-10 | 625 | 27 | 
-| 2023-01-09 | 621 | 27 | 
 

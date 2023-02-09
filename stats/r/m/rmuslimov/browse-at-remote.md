@@ -1,10 +1,10 @@
 # rmuslimov/browse-at-remote - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 49
 
-★ Stars: 210
+★ Stars: 212
 
 [Open repository](https://github.com/rmuslimov/browse-at-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 212 | 49 | 
 | 2023-02-07 | 210 | 49 | 
 | 2023-02-06 | 210 | 49 | 
 | 2023-02-05 | 210 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 205 | 49 | 
 | 2023-01-11 | 205 | 49 | 
 | 2023-01-10 | 205 | 49 | 
-| 2023-01-09 | 205 | 49 | 
 

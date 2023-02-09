@@ -1,6 +1,6 @@
 # gabriel-sztejnworcel/pipe-intercept - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 146 | 16 | 
 | 2023-02-07 | 146 | 16 | 
 | 2023-02-06 | 146 | 16 | 
 | 2023-02-05 | 146 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 144 | 15 | 
 | 2023-01-11 | 144 | 15 | 
 | 2023-01-10 | 144 | 15 | 
-| 2023-01-09 | 144 | 15 | 
 

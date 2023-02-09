@@ -1,6 +1,6 @@
 # Homebrew/formulae.brew.sh - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 465
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1061 | 465 | 
 | 2023-02-07 | 1061 | 465 | 
 | 2023-02-06 | 1059 | 464 | 
 | 2023-02-04 | 1060 | 464 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1033 | 453 | 
 | 2023-01-11 | 1032 | 453 | 
 | 2023-01-10 | 1032 | 453 | 
-| 2023-01-09 | 1032 | 453 | 
 

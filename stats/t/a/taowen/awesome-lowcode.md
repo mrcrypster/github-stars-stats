@@ -1,10 +1,10 @@
 # taowen/awesome-lowcode - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1277
 
-★ Stars: 10803
+★ Stars: 10818
 
 [Open repository](https://github.com/taowen/awesome-lowcode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 10818 | 1277 | 
 | 2023-02-07 | 10803 | 1277 | 
 | 2023-02-06 | 10792 | 1275 | 
 | 2023-02-05 | 10790 | 1275 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 10653 | 1259 | 
 | 2023-01-11 | 10632 | 1259 | 
 | 2023-01-10 | 10619 | 1255 | 
-| 2023-01-09 | 10611 | 1254 | 
 

@@ -1,6 +1,6 @@
 # ueberauth/ueberauth_example - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 212 | 77 | 
 | 2023-02-07 | 212 | 77 | 
 | 2023-02-06 | 212 | 77 | 
 | 2023-02-05 | 212 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 212 | 76 | 
 | 2023-01-12 | 212 | 76 | 
 | 2023-01-11 | 212 | 76 | 
-| 2023-01-10 | 212 | 76 | 
 

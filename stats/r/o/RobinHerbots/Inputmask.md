@@ -1,8 +1,8 @@
 # RobinHerbots/Inputmask - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 2250
+☋ Forks: 2249
 
 ★ Stars: 6074
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 6074 | 2249 | 
 | 2023-02-07 | 6074 | 2250 | 
 | 2023-02-06 | 6073 | 2250 | 
 | 2023-02-05 | 6071 | 2249 | 

@@ -1,6 +1,6 @@
 # cube2222/octosql - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 4340 | 185 | 
 | 2023-02-07 | 4340 | 185 | 
 | 2023-02-06 | 4334 | 185 | 
 | 2023-02-05 | 4330 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 4263 | 182 | 
 | 2023-01-11 | 4262 | 182 | 
 | 2023-01-10 | 4261 | 181 | 
-| 2023-01-09 | 4259 | 181 | 
 

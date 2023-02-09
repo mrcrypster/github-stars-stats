@@ -1,10 +1,10 @@
 # Project-Sloth/ps-hugs - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/Project-Sloth/ps-hugs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 9 | 9 | 
 | 2023-02-07 | 8 | 9 | 
 | 2023-02-06 | 8 | 9 | 
 | 2023-02-05 | 8 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 8 | 10 | 
 | 2023-01-11 | 8 | 10 | 
 | 2023-01-10 | 8 | 10 | 
-| 2023-01-09 | 8 | 10 | 
 

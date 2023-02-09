@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 08
 
 ☋ Forks: 308
 
-★ Stars: 2874
+★ Stars: 2878
 
 [Open repository](https://github.com/build-trust/ockam)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-08 | 2874 | 308 | 
+| 2023-02-08 | 2878 | 308 | 
 | 2023-02-07 | 2873 | 308 | 
 | 2023-02-06 | 2867 | 307 | 
 | 2023-02-05 | 2859 | 304 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 2811 | 289 | 
 | 2023-01-11 | 2806 | 290 | 
 | 2023-01-10 | 2804 | 290 | 
-| 2023-01-09 | 2801 | 289 | 
 

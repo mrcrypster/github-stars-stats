@@ -1,10 +1,10 @@
 # Fnoberz/Valorant-Spoofer - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/Fnoberz/Valorant-Spoofer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 100 | 25 | 
 | 2023-02-07 | 99 | 25 | 
 | 2023-02-06 | 99 | 25 | 
 | 2023-02-05 | 99 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 98 | 22 | 
 | 2023-01-11 | 97 | 22 | 
 | 2023-01-10 | 96 | 21 | 
-| 2023-01-09 | 96 | 21 | 
 

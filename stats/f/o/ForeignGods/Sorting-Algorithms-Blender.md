@@ -1,6 +1,6 @@
 # ForeignGods/Sorting-Algorithms-Blender - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 623 | 23 | 
 | 2023-02-08 | 623 | 23 | 
 | 2023-02-06 | 623 | 23 | 
 | 2023-02-05 | 623 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 618 | 23 | 
 | 2023-01-11 | 618 | 23 | 
 | 2023-01-10 | 618 | 23 | 
-| 2023-01-09 | 617 | 23 | 
 

@@ -1,6 +1,6 @@
 # ItzEpicstickman/VsEvilCorruptedDaveDay3Final - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 23 | 73 | 
 | 2023-02-07 | 23 | 73 | 
 | 2023-02-05 | 23 | 74 | 
 | 2023-02-04 | 23 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 23 | 69 | 
 | 2023-01-12 | 23 | 69 | 
 | 2023-01-10 | 23 | 69 | 
-| 2023-01-09 | 23 | 69 | 
 

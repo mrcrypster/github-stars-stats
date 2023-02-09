@@ -1,8 +1,8 @@
 # mitre/cti - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 355
+☋ Forks: 356
 
 ★ Stars: 1310
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1310 | 356 | 
 | 2023-02-07 | 1310 | 355 | 
 | 2023-02-05 | 1310 | 355 | 
 | 2023-02-04 | 1310 | 355 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1298 | 350 | 
 | 2023-01-11 | 1297 | 350 | 
 | 2023-01-10 | 1297 | 350 | 
-| 2023-01-09 | 1297 | 350 | 
 

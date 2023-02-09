@@ -1,6 +1,6 @@
 # benwbooth/cleo - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 8 | 1 | 
 | 2023-02-07 | 8 | 1 | 
 | 2023-02-05 | 8 | 1 | 
 | 2023-02-04 | 8 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 7 | 1 | 
 | 2023-01-11 | 7 | 1 | 
 | 2023-01-10 | 7 | 1 | 
-| 2023-01-09 | 7 | 1 | 
 

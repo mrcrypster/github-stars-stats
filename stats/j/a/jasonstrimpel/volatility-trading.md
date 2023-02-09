@@ -1,6 +1,6 @@
 # jasonstrimpel/volatility-trading - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 291
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1125 | 291 | 
 | 2023-02-07 | 1125 | 291 | 
 | 2023-02-06 | 1124 | 291 | 
 | 2023-02-05 | 1122 | 291 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1116 | 289 | 
 | 2023-01-11 | 1116 | 289 | 
 | 2023-01-10 | 1116 | 289 | 
-| 2023-01-09 | 1112 | 290 | 
 

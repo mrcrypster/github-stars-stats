@@ -1,8 +1,8 @@
 # raywenderlich/flta-materials - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1228
+☋ Forks: 1229
 
 ★ Stars: 2315
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2315 | 1229 | 
 | 2023-02-07 | 2315 | 1228 | 
 | 2023-02-06 | 2315 | 1227 | 
 | 2023-02-05 | 2315 | 1227 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 2304 | 1221 | 
 | 2023-01-11 | 2302 | 1220 | 
 | 2023-01-10 | 2300 | 1221 | 
-| 2023-01-09 | 2300 | 1221 | 
 

@@ -1,10 +1,10 @@
 # QuincyC379/liangongbao - stars & forks statistics
 
-Stats updated on Feb 2023, 06
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/QuincyC379/liangongbao)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 52 | 35 | 
 | 2023-02-06 | 51 | 35 | 
 | 2023-02-05 | 51 | 35 | 
 | 2023-02-04 | 51 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 06
 | 2023-01-12 | 51 | 35 | 
 | 2023-01-11 | 51 | 35 | 
 | 2023-01-10 | 51 | 35 | 
-| 2023-01-09 | 51 | 35 | 
 

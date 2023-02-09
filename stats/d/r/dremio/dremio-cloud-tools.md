@@ -1,6 +1,6 @@
 # dremio/dremio-cloud-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 136 | 142 | 
 | 2023-02-07 | 136 | 142 | 
 | 2023-02-06 | 136 | 142 | 
 | 2023-02-04 | 136 | 142 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 134 | 140 | 
 | 2023-01-11 | 134 | 140 | 
 | 2023-01-10 | 133 | 140 | 
-| 2023-01-09 | 133 | 140 | 
 

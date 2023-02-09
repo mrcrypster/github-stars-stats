@@ -1,6 +1,6 @@
 # pharo-ide/Ghost - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 3 | 5 | 
 | 2023-02-07 | 3 | 5 | 
 | 2023-02-05 | 3 | 5 | 
 | 2023-02-04 | 3 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 3 | 5 | 
 | 2023-01-12 | 3 | 5 | 
 | 2023-01-11 | 3 | 5 | 
-| 2023-01-09 | 3 | 5 | 
 

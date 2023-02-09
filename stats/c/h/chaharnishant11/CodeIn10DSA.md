@@ -1,6 +1,6 @@
 # chaharnishant11/CodeIn10DSA - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 175 | 42 | 
 | 2023-02-07 | 175 | 42 | 
 | 2023-02-06 | 175 | 42 | 
 | 2023-02-05 | 175 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 175 | 43 | 
 | 2023-01-11 | 175 | 43 | 
 | 2023-01-10 | 175 | 43 | 
-| 2023-01-09 | 175 | 43 | 
 

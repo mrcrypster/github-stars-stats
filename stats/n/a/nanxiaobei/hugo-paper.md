@@ -1,10 +1,10 @@
 # nanxiaobei/hugo-paper - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 305
+☋ Forks: 306
 
-★ Stars: 1357
+★ Stars: 1356
 
 [Open repository](https://github.com/nanxiaobei/hugo-paper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1356 | 306 | 
 | 2023-02-07 | 1357 | 305 | 
 | 2023-02-06 | 1356 | 304 | 
 | 2023-02-05 | 1350 | 302 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1323 | 290 | 
 | 2023-01-11 | 1320 | 290 | 
 | 2023-01-10 | 1320 | 291 | 
-| 2023-01-09 | 1319 | 291 | 
 

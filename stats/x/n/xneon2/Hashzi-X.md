@@ -1,8 +1,8 @@
 # xneon2/Hashzi-X - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 455
+☋ Forks: 457
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 49 | 457 | 
 | 2023-02-07 | 49 | 455 | 
 | 2023-02-06 | 49 | 455 | 
 | 2023-02-05 | 49 | 455 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 49 | 454 | 
 | 2023-01-12 | 49 | 454 | 
 | 2023-01-11 | 49 | 454 | 
-| 2023-01-10 | 49 | 455 | 
 

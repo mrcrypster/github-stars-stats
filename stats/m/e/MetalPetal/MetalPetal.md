@@ -1,10 +1,10 @@
 # MetalPetal/MetalPetal - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 210
+☋ Forks: 211
 
-★ Stars: 1552
+★ Stars: 1553
 
 [Open repository](https://github.com/MetalPetal/MetalPetal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1553 | 211 | 
 | 2023-02-07 | 1552 | 210 | 
 | 2023-02-06 | 1552 | 210 | 
 | 2023-02-05 | 1552 | 210 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1531 | 208 | 
 | 2023-01-11 | 1531 | 208 | 
 | 2023-01-10 | 1531 | 208 | 
-| 2023-01-09 | 1531 | 208 | 
 

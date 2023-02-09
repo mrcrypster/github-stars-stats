@@ -1,6 +1,6 @@
 # Gabriella439/grace - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 333 | 25 | 
 | 2023-02-07 | 333 | 25 | 
 | 2023-02-06 | 333 | 25 | 
 | 2023-02-05 | 333 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 331 | 25 | 
 | 2023-01-11 | 331 | 25 | 
 | 2023-01-10 | 331 | 25 | 
-| 2023-01-09 | 331 | 25 | 
 

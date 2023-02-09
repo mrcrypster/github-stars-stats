@@ -1,10 +1,10 @@
 # doitintl/kube-no-trouble - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 88
 
-★ Stars: 1531
+★ Stars: 1532
 
 [Open repository](https://github.com/doitintl/kube-no-trouble)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1532 | 88 | 
 | 2023-02-07 | 1531 | 88 | 
 | 2023-02-06 | 1529 | 88 | 
 | 2023-02-05 | 1527 | 88 | 

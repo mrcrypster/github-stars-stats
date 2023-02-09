@@ -1,6 +1,6 @@
 # rev1si0n/another-tmp-mailbox - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 190 | 53 | 
 | 2023-02-07 | 190 | 53 | 
 | 2023-02-05 | 190 | 53 | 
 | 2023-02-04 | 190 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 190 | 53 | 
 | 2023-01-11 | 190 | 53 | 
 | 2023-01-10 | 190 | 53 | 
-| 2023-01-09 | 189 | 53 | 
 

@@ -1,10 +1,10 @@
 # otwcode/otwarchive - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 396
+☋ Forks: 397
 
-★ Stars: 1018
+★ Stars: 1020
 
 [Open repository](https://github.com/otwcode/otwarchive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1020 | 397 | 
 | 2023-02-07 | 1018 | 396 | 
 | 2023-02-06 | 1018 | 396 | 
 | 2023-02-05 | 1018 | 396 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1007 | 394 | 
 | 2023-01-11 | 1005 | 394 | 
 | 2023-01-10 | 1003 | 394 | 
-| 2023-01-09 | 1003 | 394 | 
 

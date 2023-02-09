@@ -1,6 +1,6 @@
 # MicrosoftEdge/MSEdgeExplainers - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 1137 | 178 | 
 | 2023-02-07 | 1137 | 178 | 
 | 2023-02-06 | 1137 | 178 | 
 | 2023-02-05 | 1137 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 1136 | 176 | 
 | 2023-01-11 | 1135 | 176 | 
 | 2023-01-10 | 1136 | 176 | 
-| 2023-01-09 | 1136 | 175 | 
 

@@ -1,8 +1,8 @@
 # creativetimofficial/argon-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
-☋ Forks: 569
+☋ Forks: 576
 
 ★ Stars: 576
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 576 | 576 | 
 | 2023-02-07 | 576 | 569 | 
 | 2023-02-06 | 576 | 569 | 
 | 2023-02-05 | 574 | 564 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 568 | 519 | 
 | 2023-01-11 | 568 | 515 | 
 | 2023-01-10 | 567 | 515 | 
-| 2023-01-09 | 567 | 515 | 
 

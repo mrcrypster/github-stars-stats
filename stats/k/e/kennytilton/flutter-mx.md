@@ -1,10 +1,10 @@
 # kennytilton/flutter-mx - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/kennytilton/flutter-mx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 77 | 3 | 
 | 2023-02-07 | 76 | 3 | 
 | 2023-02-06 | 76 | 3 | 
 | 2023-02-05 | 76 | 3 | 

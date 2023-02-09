@@ -1,10 +1,10 @@
 # l1mey112/stas - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/l1mey112/stas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 36 | 2 | 
 | 2023-02-07 | 35 | 2 | 
 | 2023-02-06 | 35 | 2 | 
 | 2023-02-05 | 35 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 29 | 2 | 
 | 2023-01-11 | 29 | 2 | 
 | 2023-01-10 | 29 | 2 | 
-| 2023-01-09 | 29 | 2 | 
 

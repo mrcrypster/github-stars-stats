@@ -1,6 +1,6 @@
 # NodeBB/nodebb-theme-persona - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 89 | 238 | 
 | 2023-02-08 | 89 | 238 | 
 | 2023-02-06 | 89 | 238 | 
 | 2023-02-05 | 89 | 237 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-12 | 87 | 238 | 
 | 2023-01-11 | 87 | 238 | 
 | 2023-01-10 | 87 | 238 | 
-| 2023-01-09 | 87 | 238 | 
 

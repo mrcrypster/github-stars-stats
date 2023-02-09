@@ -1,10 +1,10 @@
 # containers/skopeo - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 648
 
-★ Stars: 5647
+★ Stars: 5653
 
 [Open repository](https://github.com/containers/skopeo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 5653 | 648 | 
 | 2023-02-07 | 5647 | 648 | 
 | 2023-02-06 | 5641 | 647 | 
 | 2023-02-05 | 5637 | 645 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 5555 | 629 | 
 | 2023-01-11 | 5549 | 629 | 
 | 2023-01-10 | 5547 | 629 | 
-| 2023-01-09 | 5543 | 629 | 
 

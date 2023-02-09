@@ -1,10 +1,10 @@
 # Gamua/Starling-Framework - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 839
 
-★ Stars: 2624
+★ Stars: 2625
 
 [Open repository](https://github.com/Gamua/Starling-Framework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 2625 | 839 | 
 | 2023-02-07 | 2624 | 839 | 
 | 2023-02-06 | 2622 | 839 | 
 | 2023-02-05 | 2621 | 839 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 2607 | 837 | 
 | 2023-01-12 | 2607 | 837 | 
 | 2023-01-11 | 2606 | 837 | 
-| 2023-01-09 | 2605 | 837 | 
 

@@ -1,10 +1,10 @@
 # tonsky/datascript - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 288
 
-★ Stars: 5040
+★ Stars: 5039
 
 [Open repository](https://github.com/tonsky/datascript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 5039 | 288 | 
 | 2023-02-07 | 5040 | 288 | 
 | 2023-02-06 | 5040 | 288 | 
 | 2023-02-05 | 5039 | 288 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 5010 | 289 | 
 | 2023-01-11 | 5008 | 289 | 
 | 2023-01-10 | 5005 | 289 | 
-| 2023-01-09 | 5004 | 289 | 
 

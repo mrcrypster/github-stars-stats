@@ -1,10 +1,10 @@
 # lstprjct/IDM-Activation-Script - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 55
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/lstprjct/IDM-Activation-Script)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 213 | 55 | 
 | 2023-02-07 | 212 | 55 | 
 | 2023-02-06 | 210 | 54 | 
 | 2023-02-05 | 209 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 186 | 47 | 
 | 2023-01-11 | 183 | 46 | 
 | 2023-01-10 | 183 | 46 | 
-| 2023-01-09 | 183 | 46 | 
 

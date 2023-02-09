@@ -1,6 +1,6 @@
 # gogo/protobuf - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 08
 
 ☋ Forks: 755
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-08 | 5506 | 755 | 
 | 2023-02-07 | 5506 | 755 | 
 | 2023-02-06 | 5506 | 755 | 
 | 2023-02-05 | 5505 | 755 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-12 | 5493 | 753 | 
 | 2023-01-11 | 5491 | 753 | 
 | 2023-01-10 | 5491 | 753 | 
-| 2023-01-09 | 5493 | 753 | 
 
