@@ -1,6 +1,6 @@
 # FrSkyRC/ETHOS-Feedback-Community - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 113 | 76 | 
 | 2023-02-08 | 113 | 76 | 
 | 2023-02-07 | 113 | 77 | 
 | 2023-02-06 | 112 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 109 | 74 | 
 | 2023-01-12 | 109 | 74 | 
 | 2023-01-11 | 108 | 74 | 
-| 2023-01-10 | 108 | 74 | 
 

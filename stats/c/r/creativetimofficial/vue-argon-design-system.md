@@ -1,10 +1,10 @@
 # creativetimofficial/vue-argon-design-system - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 444
 
-★ Stars: 809
+★ Stars: 810
 
 [Open repository](https://github.com/creativetimofficial/vue-argon-design-system)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 810 | 444 | 
 | 2023-02-08 | 809 | 444 | 
 | 2023-02-07 | 809 | 442 | 
 | 2023-02-05 | 809 | 439 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 805 | 419 | 
 | 2023-01-12 | 805 | 419 | 
 | 2023-01-11 | 805 | 418 | 
-| 2023-01-10 | 805 | 418 | 
 

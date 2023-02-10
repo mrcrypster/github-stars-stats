@@ -1,6 +1,6 @@
 # xijaja/love-you - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 12 | 11 | 
 | 2023-02-08 | 12 | 11 | 
 | 2023-02-06 | 12 | 11 | 
 | 2023-02-05 | 12 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 11 | 10 | 
 | 2023-01-12 | 11 | 10 | 
 | 2023-01-11 | 11 | 10 | 
-| 2023-01-10 | 11 | 10 | 
 

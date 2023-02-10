@@ -1,10 +1,10 @@
 # codeyso/CodeTest - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 68
 
-★ Stars: 273
+★ Stars: 272
 
 [Open repository](https://github.com/codeyso/CodeTest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 272 | 68 | 
 | 2023-02-08 | 273 | 68 | 
 | 2023-02-07 | 273 | 68 | 
 | 2023-02-06 | 273 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 267 | 67 | 
 | 2023-01-12 | 267 | 67 | 
 | 2023-01-11 | 267 | 67 | 
-| 2023-01-10 | 267 | 67 | 
 

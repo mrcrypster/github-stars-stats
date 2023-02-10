@@ -1,10 +1,10 @@
 # omerbsezer/Fast-Kubernetes - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 267
+☋ Forks: 268
 
-★ Stars: 720
+★ Stars: 721
 
 [Open repository](https://github.com/omerbsezer/Fast-Kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 721 | 268 | 
 | 2023-02-08 | 720 | 267 | 
 | 2023-02-07 | 720 | 267 | 
 | 2023-02-05 | 720 | 267 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 689 | 260 | 
 | 2023-01-12 | 687 | 259 | 
 | 2023-01-11 | 686 | 257 | 
-| 2023-01-10 | 686 | 253 | 
 

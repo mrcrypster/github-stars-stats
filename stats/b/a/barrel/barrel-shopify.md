@@ -1,8 +1,8 @@
 # barrel/barrel-shopify - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 67 | 15 | 
 | 2023-02-08 | 67 | 14 | 
 | 2023-02-07 | 67 | 14 | 
 | 2023-02-06 | 67 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 64 | 14 | 
 | 2023-01-12 | 63 | 14 | 
 | 2023-01-11 | 61 | 14 | 
-| 2023-01-10 | 61 | 13 | 
 

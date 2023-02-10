@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/OutOfTheVoid/AS3-8-bit-VM)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 5 | 1 | 
+| 2023-02-09 | 6 | 1 | 
 | 2023-02-08 | 5 | 1 | 
 

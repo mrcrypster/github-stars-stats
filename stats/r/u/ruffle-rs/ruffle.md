@@ -1,10 +1,10 @@
 # ruffle-rs/ruffle - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 574
+☋ Forks: 575
 
-★ Stars: 11446
+★ Stars: 11450
 
 [Open repository](https://github.com/ruffle-rs/ruffle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 11450 | 575 | 
 | 2023-02-08 | 11446 | 574 | 
 | 2023-02-06 | 11436 | 574 | 
 | 2023-02-05 | 11427 | 573 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 11268 | 561 | 
 | 2023-01-12 | 11264 | 561 | 
 | 2023-01-11 | 11257 | 561 | 
-| 2023-01-10 | 11253 | 559 | 
 

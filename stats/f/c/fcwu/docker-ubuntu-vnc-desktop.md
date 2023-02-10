@@ -1,10 +1,10 @@
 # fcwu/docker-ubuntu-vnc-desktop - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1317
+☋ Forks: 1320
 
-★ Stars: 3255
+★ Stars: 3258
 
 [Open repository](https://github.com/fcwu/docker-ubuntu-vnc-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3258 | 1320 | 
 | 2023-02-08 | 3255 | 1317 | 
 | 2023-02-07 | 3253 | 1317 | 
 | 2023-02-05 | 3253 | 1318 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3217 | 1301 | 
 | 2023-01-12 | 3216 | 1300 | 
 | 2023-01-11 | 3215 | 1300 | 
-| 2023-01-10 | 3215 | 1300 | 
 

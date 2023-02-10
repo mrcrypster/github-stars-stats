@@ -1,8 +1,8 @@
 # ebonelli/PLaF - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 21
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 21 | 20 | 
+| 2023-02-09 | 21 | 20 | 
 | 2023-02-08 | 21 | 19 | 
 

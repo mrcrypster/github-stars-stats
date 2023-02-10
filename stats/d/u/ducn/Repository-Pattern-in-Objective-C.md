@@ -1,6 +1,6 @@
 # ducn/Repository-Pattern-in-Objective-C - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 20 | 1 | 
 | 2023-02-08 | 20 | 1 | 
 | 2023-02-07 | 20 | 1 | 
 | 2023-02-06 | 20 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 20 | 1 | 
 | 2023-01-13 | 20 | 1 | 
 | 2023-01-12 | 20 | 1 | 
-| 2023-01-10 | 20 | 1 | 
 

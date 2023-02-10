@@ -1,6 +1,6 @@
 # Aidoku/Aidoku - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 520 | 36 | 
 | 2023-02-08 | 520 | 36 | 
 | 2023-02-07 | 516 | 36 | 
 | 2023-02-06 | 513 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 460 | 34 | 
 | 2023-01-12 | 455 | 34 | 
 | 2023-01-11 | 447 | 34 | 
-| 2023-01-10 | 443 | 34 | 
 

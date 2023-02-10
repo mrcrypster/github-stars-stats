@@ -1,6 +1,6 @@
 # akeneo/pim-api-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 64
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 31 | 64 | 
+| 2023-02-09 | 31 | 64 | 
 | 2023-02-08 | 31 | 64 | 
 | 2023-02-07 | 31 | 64 | 
 | 2023-02-05 | 31 | 64 | 

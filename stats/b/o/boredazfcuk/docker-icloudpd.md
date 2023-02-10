@@ -1,10 +1,10 @@
 # boredazfcuk/docker-icloudpd - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 695
+★ Stars: 697
 
 [Open repository](https://github.com/boredazfcuk/docker-icloudpd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 697 | 95 | 
 | 2023-02-08 | 695 | 94 | 
 | 2023-02-07 | 696 | 94 | 
 | 2023-02-06 | 696 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 665 | 87 | 
 | 2023-01-13 | 664 | 87 | 
 | 2023-01-12 | 662 | 87 | 
-| 2023-01-11 | 660 | 87 | 
 

@@ -1,10 +1,10 @@
 # mrjbq7/ta-lib - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1456
+☋ Forks: 1457
 
-★ Stars: 7414
+★ Stars: 7422
 
 [Open repository](https://github.com/mrjbq7/ta-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 7422 | 1457 | 
 | 2023-02-08 | 7414 | 1456 | 
 | 2023-02-07 | 7408 | 1455 | 
 | 2023-02-06 | 7403 | 1453 | 
@@ -40,6 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 7306 | 1440 | 
 | 2023-01-13 | 7300 | 1439 | 
 | 2023-01-12 | 7296 | 1438 | 
-| 2023-01-11 | 7292 | 1436 | 
-| 2023-01-10 | 7292 | 1436 | 
 

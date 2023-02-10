@@ -1,10 +1,10 @@
 # rime/home - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 205
+☋ Forks: 206
 
-★ Stars: 3507
+★ Stars: 3512
 
 [Open repository](https://github.com/rime/home)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3512 | 206 | 
 | 2023-02-08 | 3507 | 205 | 
 | 2023-02-07 | 3504 | 205 | 
 | 2023-02-06 | 3499 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3475 | 204 | 
 | 2023-01-12 | 3473 | 204 | 
 | 2023-01-11 | 3472 | 204 | 
-| 2023-01-10 | 3469 | 204 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/Mazamars312/openfpga-pcengine-cd)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 17 | 4 | 
+| 2023-02-09 | 19 | 4 | 
 | 2023-02-08 | 17 | 4 | 
 

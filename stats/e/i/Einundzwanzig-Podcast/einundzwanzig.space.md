@@ -1,6 +1,6 @@
 # Einundzwanzig-Podcast/einundzwanzig.space - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 22 | 116 | 
 | 2023-02-08 | 22 | 116 | 
 | 2023-02-06 | 22 | 116 | 
 | 2023-02-05 | 22 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 23 | 113 | 
 | 2023-01-12 | 23 | 113 | 
 | 2023-01-11 | 24 | 112 | 
-| 2023-01-10 | 24 | 112 | 
 

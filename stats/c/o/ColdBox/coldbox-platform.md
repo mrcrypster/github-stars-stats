@@ -1,10 +1,10 @@
 # ColdBox/coldbox-platform - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 167
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/ColdBox/coldbox-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 279 | 167 | 
 | 2023-02-08 | 278 | 167 | 
 | 2023-02-07 | 277 | 167 | 
 | 2023-02-06 | 277 | 167 | 

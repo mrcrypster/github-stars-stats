@@ -1,10 +1,10 @@
 # raphamorim/rio - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/raphamorim/rio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 109 | 9 | 
 | 2023-02-07 | 108 | 8 | 
 | 2023-02-06 | 108 | 8 | 
 | 2023-02-05 | 108 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 91 | 8 | 
 | 2023-01-12 | 90 | 8 | 
 | 2023-01-11 | 90 | 8 | 
-| 2023-01-10 | 90 | 8 | 
 

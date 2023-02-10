@@ -1,6 +1,6 @@
 # hse-project/hse - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 657 | 60 | 
 | 2023-02-08 | 657 | 60 | 
 | 2023-02-07 | 657 | 60 | 
 | 2023-02-06 | 657 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 658 | 59 | 
 | 2023-01-12 | 658 | 59 | 
 | 2023-01-11 | 658 | 59 | 
-| 2023-01-10 | 658 | 59 | 
 

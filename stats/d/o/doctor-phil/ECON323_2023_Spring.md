@@ -1,6 +1,6 @@
 # doctor-phil/ECON323_2023_Spring - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 18 | 32 | 
 | 2023-02-08 | 18 | 32 | 
 | 2023-02-07 | 18 | 32 | 
 | 2023-02-06 | 18 | 32 | 

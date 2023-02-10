@@ -1,10 +1,10 @@
 # zealotCE/America-Against-America - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 292
 
-★ Stars: 2211
+★ Stars: 2212
 
 [Open repository](https://github.com/zealotCE/America-Against-America)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2212 | 292 | 
 | 2023-02-07 | 2211 | 292 | 
 | 2023-02-06 | 2212 | 292 | 
 | 2023-02-05 | 2210 | 292 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 2202 | 292 | 
 | 2023-01-12 | 2202 | 292 | 
 | 2023-01-11 | 2203 | 292 | 
-| 2023-01-10 | 2202 | 292 | 
 

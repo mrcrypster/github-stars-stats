@@ -1,6 +1,6 @@
 # mhgolkar/Arrow - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 578 | 29 | 
 | 2023-02-08 | 578 | 29 | 
 | 2023-02-07 | 577 | 29 | 
 | 2023-02-06 | 576 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 572 | 29 | 
 | 2023-01-12 | 570 | 29 | 
 | 2023-01-11 | 570 | 29 | 
-| 2023-01-10 | 570 | 29 | 
 

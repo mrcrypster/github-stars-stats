@@ -1,10 +1,10 @@
 # diasurgical/devilutionX - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 655
 
-★ Stars: 6226
+★ Stars: 6228
 
 [Open repository](https://github.com/diasurgical/devilutionX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6228 | 655 | 
 | 2023-02-08 | 6226 | 655 | 
 | 2023-02-07 | 6226 | 655 | 
 | 2023-02-06 | 6223 | 655 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 6181 | 649 | 
 | 2023-01-12 | 6178 | 649 | 
 | 2023-01-11 | 6178 | 649 | 
-| 2023-01-10 | 6175 | 650 | 
 

@@ -1,10 +1,10 @@
 # facebook/react-native - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 22911
+☋ Forks: 22913
 
-★ Stars: 107538
+★ Stars: 107543
 
 [Open repository](https://github.com/facebook/react-native)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 107543 | 22913 | 
 | 2023-02-08 | 107538 | 22911 | 
 | 2023-02-07 | 107507 | 22906 | 
 | 2023-02-06 | 107477 | 22896 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 106972 | 22768 | 
 | 2023-01-12 | 106947 | 22762 | 
 | 2023-01-11 | 106926 | 22760 | 
-| 2023-01-10 | 106924 | 22760 | 
 

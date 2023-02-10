@@ -1,6 +1,6 @@
 # trussworks/terraform-aws-alb-web-containers - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 4 | 8 | 
 | 2023-02-08 | 4 | 8 | 
 | 2023-02-07 | 4 | 8 | 
 | 2023-02-06 | 4 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 4 | 8 | 
 | 2023-01-12 | 4 | 8 | 
 | 2023-01-11 | 4 | 8 | 
-| 2023-01-10 | 4 | 8 | 
 

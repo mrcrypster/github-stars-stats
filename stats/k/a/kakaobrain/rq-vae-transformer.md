@@ -1,10 +1,10 @@
 # kakaobrain/rq-vae-transformer - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 60
 
-★ Stars: 531
+★ Stars: 532
 
 [Open repository](https://github.com/kakaobrain/rq-vae-transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 532 | 60 | 
 | 2023-02-08 | 531 | 60 | 
 | 2023-02-07 | 531 | 60 | 
 | 2023-02-06 | 531 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 531 | 60 | 
 | 2023-01-13 | 531 | 60 | 
 | 2023-01-12 | 531 | 60 | 
-| 2023-01-11 | 531 | 60 | 
 

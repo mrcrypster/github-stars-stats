@@ -1,6 +1,6 @@
 # cmusatyalab/openface - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3598
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 14588 | 3598 | 
 | 2023-02-08 | 14588 | 3598 | 
 | 2023-02-07 | 14588 | 3598 | 
 | 2023-02-06 | 14587 | 3598 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 14587 | 3597 | 
 | 2023-01-12 | 14586 | 3596 | 
 | 2023-01-11 | 14585 | 3596 | 
-| 2023-01-10 | 14585 | 3596 | 
 

@@ -1,10 +1,10 @@
 # nv-tlabs/GET3D - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 221
 
-★ Stars: 2861
+★ Stars: 2867
 
 [Open repository](https://github.com/nv-tlabs/GET3D)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2867 | 221 | 
 | 2023-02-08 | 2861 | 221 | 
 | 2023-02-07 | 2859 | 219 | 
 | 2023-02-06 | 2852 | 219 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2753 | 203 | 
 | 2023-01-13 | 2744 | 200 | 
 | 2023-01-12 | 2735 | 199 | 
-| 2023-01-10 | 2728 | 199 | 
 

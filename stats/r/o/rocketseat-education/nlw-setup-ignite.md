@@ -1,8 +1,8 @@
 # rocketseat-education/nlw-setup-ignite - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 251
+☋ Forks: 248
 
 ★ Stars: 504
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 504 | 248 | 
 | 2023-02-08 | 504 | 251 | 
 | 2023-02-07 | 504 | 250 | 
 | 2023-02-06 | 502 | 249 | 

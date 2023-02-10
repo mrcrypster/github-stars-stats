@@ -1,10 +1,10 @@
 # aduros/ai.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/aduros/ai.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 148 | 4 | 
 | 2023-02-08 | 146 | 4 | 
 | 2023-02-07 | 145 | 4 | 
 | 2023-02-06 | 143 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 135 | 5 | 
 | 2023-01-12 | 135 | 5 | 
 | 2023-01-11 | 135 | 5 | 
-| 2023-01-10 | 134 | 5 | 
 

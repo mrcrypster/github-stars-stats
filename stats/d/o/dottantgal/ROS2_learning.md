@@ -1,10 +1,10 @@
 # dottantgal/ROS2_learning - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 45
 
-★ Stars: 371
+★ Stars: 372
 
 [Open repository](https://github.com/dottantgal/ROS2_learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 372 | 45 | 
 | 2023-02-08 | 371 | 45 | 
 | 2023-02-07 | 371 | 45 | 
 | 2023-02-06 | 369 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 269 | 39 | 
 | 2023-01-13 | 269 | 39 | 
 | 2023-01-12 | 269 | 39 | 
-| 2023-01-11 | 269 | 39 | 
 

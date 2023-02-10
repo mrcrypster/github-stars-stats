@@ -1,6 +1,6 @@
 # project-sunbird/knowledge-platform-jobs - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3 | 46 | 
 | 2023-02-08 | 3 | 46 | 
 | 2023-02-07 | 3 | 46 | 
 | 2023-02-06 | 3 | 46 | 

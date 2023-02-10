@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 09
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 14
+★ Stars: 22
 
 [Open repository](https://github.com/rdi-berkeley/zkp-course-lecture3-code)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 14 | 9 | 
+| 2023-02-09 | 22 | 10 | 
 | 2023-02-08 | 13 | 9 | 
 

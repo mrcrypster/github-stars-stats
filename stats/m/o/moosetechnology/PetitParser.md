@@ -1,10 +1,10 @@
 # moosetechnology/PetitParser - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 10
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/moosetechnology/PetitParser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 37 | 10 | 
 | 2023-02-08 | 36 | 10 | 
 | 2023-02-07 | 36 | 10 | 
 | 2023-02-06 | 36 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 36 | 9 | 
 | 2023-01-13 | 36 | 9 | 
 | 2023-01-12 | 36 | 9 | 
-| 2023-01-10 | 36 | 9 | 
 

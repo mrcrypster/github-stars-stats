@@ -1,6 +1,6 @@
 # sheganinans/Smoosh - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 10 | 1 | 
 | 2023-02-08 | 10 | 1 | 
 | 2023-02-07 | 10 | 1 | 
 | 2023-02-05 | 10 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 7 | 1 | 
 | 2023-01-12 | 7 | 1 | 
 | 2023-01-11 | 7 | 1 | 
-| 2023-01-10 | 7 | 1 | 
 

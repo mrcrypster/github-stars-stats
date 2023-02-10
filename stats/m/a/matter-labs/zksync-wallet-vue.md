@@ -1,6 +1,6 @@
 # matter-labs/zksync-wallet-vue - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 121 | 73 | 
 | 2023-02-08 | 121 | 73 | 
 | 2023-02-07 | 121 | 73 | 
 | 2023-02-05 | 121 | 73 | 

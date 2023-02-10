@@ -1,10 +1,10 @@
 # Flexiana/framework - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 9
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/Flexiana/framework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 56 | 9 | 
 | 2023-02-08 | 55 | 9 | 
 | 2023-02-07 | 54 | 9 | 
 | 2023-02-06 | 54 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 53 | 9 | 
 | 2023-01-12 | 53 | 9 | 
 | 2023-01-11 | 53 | 9 | 
-| 2023-01-10 | 53 | 9 | 
 

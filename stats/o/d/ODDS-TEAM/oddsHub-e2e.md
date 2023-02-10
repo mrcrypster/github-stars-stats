@@ -1,0 +1,17 @@
+# ODDS-TEAM/oddsHub-e2e - stars & forks statistics
+
+Stats updated on Feb 2023, 09
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/ODDS-TEAM/oddsHub-e2e)
+
+[Open detailed stats for ODDS-TEAM/oddsHub-e2e](https://reviewgithub.com/rep/ODDS-TEAM/oddsHub-e2e)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-09 | - | - | 
+

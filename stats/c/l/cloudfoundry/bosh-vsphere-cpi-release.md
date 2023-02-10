@@ -1,6 +1,6 @@
 # cloudfoundry/bosh-vsphere-cpi-release - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 30 | 34 | 
 | 2023-02-08 | 30 | 34 | 
 | 2023-02-07 | 30 | 34 | 
 | 2023-02-06 | 30 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 29 | 34 | 
 | 2023-01-13 | 29 | 34 | 
 | 2023-01-12 | 29 | 34 | 
-| 2023-01-11 | 29 | 34 | 
 

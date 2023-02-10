@@ -1,10 +1,10 @@
 # yerfor/GeneFace - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 17
+☋ Forks: 19
 
-★ Stars: 139
+★ Stars: 159
 
 [Open repository](https://github.com/yerfor/GeneFace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 159 | 19 | 
 | 2023-02-08 | 139 | 17 | 
 | 2023-02-07 | 123 | 13 | 
 

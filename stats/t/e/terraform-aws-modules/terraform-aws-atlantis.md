@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-atlantis - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 317
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 441 | 317 | 
 | 2023-02-08 | 441 | 317 | 
 | 2023-02-07 | 441 | 316 | 
 | 2023-02-06 | 441 | 316 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 438 | 312 | 
 | 2023-01-12 | 438 | 312 | 
 | 2023-01-11 | 438 | 312 | 
-| 2023-01-10 | 436 | 312 | 
 

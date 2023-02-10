@@ -1,6 +1,6 @@
 # ricardo-aires/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 15 | 8 | 
 | 2023-02-09 | 15 | 8 | 
 | 2023-02-07 | 15 | 8 | 
 | 2023-02-06 | 15 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 14 | 7 | 
 | 2023-01-12 | 14 | 7 | 
 | 2023-01-11 | 14 | 7 | 
-| 2023-01-10 | 14 | 7 | 
 

@@ -1,10 +1,10 @@
 # mektigboy/evm-chad - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/mektigboy/evm-chad)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 210 | 29 | 
 | 2023-02-08 | 209 | 28 | 
 | 2023-02-07 | 206 | 28 | 
 | 2023-02-05 | 204 | 23 | 

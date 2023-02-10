@@ -1,6 +1,6 @@
 # twbs/rfs - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3103 | 207 | 
 | 2023-02-08 | 3103 | 207 | 
 | 2023-02-07 | 3102 | 207 | 
 | 2023-02-06 | 3101 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3095 | 206 | 
 | 2023-01-12 | 3093 | 206 | 
 | 2023-01-11 | 3093 | 206 | 
-| 2023-01-10 | 3093 | 206 | 
 

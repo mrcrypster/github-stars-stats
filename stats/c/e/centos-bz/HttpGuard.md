@@ -1,6 +1,6 @@
 # centos-bz/HttpGuard - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 265 | 156 | 
 | 2023-02-08 | 265 | 156 | 
 | 2023-02-07 | 265 | 156 | 
 | 2023-02-06 | 264 | 155 | 

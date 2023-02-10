@@ -1,6 +1,6 @@
 # dannycandle/FluidFox - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 30 | 2 | 
 | 2023-02-08 | 30 | 2 | 
 | 2023-02-06 | 30 | 2 | 
 | 2023-02-05 | 30 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 29 | 2 | 
 | 2023-01-12 | 29 | 2 | 
 | 2023-01-11 | 29 | 2 | 
-| 2023-01-10 | 29 | 2 | 
 

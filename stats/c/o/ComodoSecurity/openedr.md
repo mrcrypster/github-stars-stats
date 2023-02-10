@@ -1,8 +1,8 @@
 # ComodoSecurity/openedr - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 343
+☋ Forks: 345
 
 ★ Stars: 1702
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1702 | 345 | 
 | 2023-02-09 | 1702 | 343 | 
 | 2023-02-07 | 1699 | 343 | 
 | 2023-02-06 | 1695 | 343 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 1677 | 337 | 
 | 2023-01-12 | 1674 | 336 | 
 | 2023-01-11 | 1674 | 335 | 
-| 2023-01-10 | 1670 | 334 | 
 

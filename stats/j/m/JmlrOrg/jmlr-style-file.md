@@ -1,0 +1,17 @@
+# JmlrOrg/jmlr-style-file - stars & forks statistics
+
+Stats updated on Feb 2023, 09
+
+☋ Forks: 83
+
+★ Stars: 64
+
+[Open repository](https://github.com/JmlrOrg/jmlr-style-file)
+
+[Open detailed stats for JmlrOrg/jmlr-style-file](https://reviewgithub.com/rep/JmlrOrg/jmlr-style-file)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-09 | 64 | 83 | 
+

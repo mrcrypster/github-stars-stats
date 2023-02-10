@@ -1,8 +1,8 @@
 # theAIGuysCode/yolov4-deepsort - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 688
+☋ Forks: 687
 
 ★ Stars: 1120
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1120 | 687 | 
 | 2023-02-08 | 1120 | 688 | 
 | 2023-02-07 | 1120 | 686 | 
 | 2023-02-06 | 1120 | 685 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 1116 | 675 | 
 | 2023-01-13 | 1116 | 676 | 
 | 2023-01-12 | 1113 | 675 | 
-| 2023-01-10 | 1112 | 674 | 
 

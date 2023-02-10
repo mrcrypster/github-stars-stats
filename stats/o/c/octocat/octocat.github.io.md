@@ -1,6 +1,6 @@
 # octocat/octocat.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 324 | 247 | 
 | 2023-02-08 | 324 | 247 | 
 | 2023-02-07 | 324 | 247 | 
 | 2023-02-05 | 325 | 247 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 312 | 239 | 
 | 2023-01-12 | 312 | 238 | 
 | 2023-01-11 | 311 | 238 | 
-| 2023-01-10 | 310 | 238 | 
 

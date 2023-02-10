@@ -1,6 +1,6 @@
 # ParthJadhav/Verve - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 289 | 8 | 
 | 2023-02-08 | 289 | 8 | 
 | 2023-02-07 | 287 | 8 | 
 | 2023-02-06 | 286 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 244 | 7 | 
 | 2023-01-12 | 242 | 7 | 
 | 2023-01-11 | 240 | 7 | 
-| 2023-01-10 | 238 | 7 | 
 

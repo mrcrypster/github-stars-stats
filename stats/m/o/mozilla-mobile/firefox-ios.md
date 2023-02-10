@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 2659
 
-★ Stars: 11204
+★ Stars: 11205
 
 [Open repository](https://github.com/mozilla-mobile/firefox-ios)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 11204 | 2659 | 
+| 2023-02-09 | 11205 | 2659 | 
 | 2023-02-07 | 11200 | 2659 | 
 | 2023-02-06 | 11195 | 2659 | 
 | 2023-02-05 | 11194 | 2658 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 11167 | 2641 | 
 | 2023-01-12 | 11164 | 2640 | 
 | 2023-01-11 | 11162 | 2640 | 
-| 2023-01-10 | 11160 | 2641 | 
 

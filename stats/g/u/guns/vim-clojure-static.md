@@ -1,6 +1,6 @@
 # guns/vim-clojure-static - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 423 | 49 | 
 | 2023-02-08 | 423 | 49 | 
 | 2023-02-07 | 423 | 49 | 
 | 2023-02-06 | 423 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 423 | 50 | 
 | 2023-01-12 | 423 | 51 | 
 | 2023-01-11 | 423 | 51 | 
-| 2023-01-10 | 423 | 51 | 
 

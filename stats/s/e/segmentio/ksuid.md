@@ -1,10 +1,10 @@
 # segmentio/ksuid - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 158
 
-★ Stars: 3937
+★ Stars: 3941
 
 [Open repository](https://github.com/segmentio/ksuid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3941 | 158 | 
 | 2023-02-08 | 3937 | 158 | 
 | 2023-02-07 | 3937 | 158 | 
 | 2023-02-06 | 3934 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 3891 | 155 | 
 | 2023-01-12 | 3889 | 155 | 
 | 2023-01-11 | 3882 | 155 | 
-| 2023-01-10 | 3880 | 155 | 
 

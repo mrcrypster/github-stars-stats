@@ -1,10 +1,10 @@
 # 360NENZ/Taiga74164-Akebi-GC - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 37
 
-★ Stars: 125
+★ Stars: 124
 
 [Open repository](https://github.com/360NENZ/Taiga74164-Akebi-GC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 124 | 37 | 
 | 2023-02-08 | 125 | 37 | 
 | 2023-02-07 | 122 | 37 | 
 | 2023-02-06 | 121 | 37 | 

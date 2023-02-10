@@ -1,10 +1,10 @@
 # yyx990803/vite-vs-next-turbo-hmr - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 29
 
-★ Stars: 890
+★ Stars: 891
 
 [Open repository](https://github.com/yyx990803/vite-vs-next-turbo-hmr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 891 | 29 | 
 | 2023-02-07 | 890 | 29 | 
 | 2023-02-06 | 889 | 29 | 
 | 2023-02-05 | 888 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 881 | 29 | 
 | 2023-01-12 | 881 | 29 | 
 | 2023-01-11 | 881 | 29 | 
-| 2023-01-10 | 881 | 29 | 
 

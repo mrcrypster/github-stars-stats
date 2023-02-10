@@ -1,6 +1,6 @@
 # valentinacupac/banking-kata-java - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 237 | 67 | 
 | 2023-02-08 | 237 | 67 | 
 | 2023-02-07 | 234 | 67 | 
 | 2023-02-06 | 233 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 192 | 57 | 
 | 2023-01-12 | 192 | 57 | 
 | 2023-01-11 | 192 | 57 | 
-| 2023-01-10 | 192 | 57 | 
 

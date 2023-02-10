@@ -1,6 +1,6 @@
 # ProgrammingHero1/developer-portfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 18 | 7 | 
 | 2023-02-08 | 18 | 7 | 
 | 2023-02-07 | 18 | 6 | 
 | 2023-02-06 | 18 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 18 | 5 | 
 | 2023-01-12 | 17 | 4 | 
 | 2023-01-11 | 15 | 4 | 
-| 2023-01-10 | 16 | 4 | 
 

@@ -1,6 +1,6 @@
 # Omkar2310/LP3 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 12 | 15 | 
 | 2023-02-08 | 12 | 15 | 
 | 2023-02-07 | 12 | 15 | 
 | 2023-02-06 | 12 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 12 | 15 | 
 | 2023-01-12 | 12 | 15 | 
 | 2023-01-11 | 12 | 15 | 
-| 2023-01-10 | 12 | 15 | 
 

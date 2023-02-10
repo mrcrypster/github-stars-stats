@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/usnistgov/hugo-uswds)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 27 | 11 | 
+| 2023-02-09 | 28 | 11 | 
 | 2023-02-08 | 27 | 11 | 
 | 2023-02-07 | 27 | 11 | 
 | 2023-02-06 | 27 | 11 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 26 | 11 | 
 | 2023-01-12 | 26 | 11 | 
 | 2023-01-11 | 26 | 11 | 
-| 2023-01-10 | 26 | 11 | 
 

@@ -1,10 +1,10 @@
 # ahmadalwareh/Python_Interview_Questions - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/ahmadalwareh/Python_Interview_Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 15 | 2 | 
 | 2023-02-08 | 14 | 2 | 
 | 2023-02-06 | 14 | 2 | 
 | 2023-02-05 | 14 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 16 | 2 | 
 | 2023-01-12 | 16 | 2 | 
 | 2023-01-11 | 16 | - | 
-| 2023-01-10 | 15 | - | 
 

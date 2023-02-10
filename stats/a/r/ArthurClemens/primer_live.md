@@ -1,10 +1,10 @@
 # ArthurClemens/primer_live - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/ArthurClemens/primer_live)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 51 | 3 | 
 | 2023-02-08 | 50 | 3 | 
 | 2023-02-06 | 50 | 3 | 
 | 2023-02-05 | 50 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 47 | 2 | 
 | 2023-01-12 | 47 | 2 | 
 | 2023-01-11 | 47 | 2 | 
-| 2023-01-10 | 47 | 2 | 
 

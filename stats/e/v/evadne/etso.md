@@ -1,6 +1,6 @@
 # evadne/etso - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 326 | 24 | 
 | 2023-02-08 | 326 | 24 | 
 | 2023-02-07 | 326 | 24 | 
 | 2023-02-05 | 326 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 326 | 24 | 
 | 2023-01-12 | 326 | 24 | 
 | 2023-01-11 | 326 | 24 | 
-| 2023-01-10 | 326 | 24 | 
 

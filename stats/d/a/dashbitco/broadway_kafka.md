@@ -1,8 +1,8 @@
 # dashbitco/broadway_kafka - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 186 | 44 | 
 | 2023-02-08 | 186 | 43 | 
 | 2023-02-07 | 186 | 43 | 
 | 2023-02-06 | 186 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 184 | 43 | 
 | 2023-01-12 | 184 | 43 | 
 | 2023-01-11 | 184 | 43 | 
-| 2023-01-10 | 184 | 43 | 
 

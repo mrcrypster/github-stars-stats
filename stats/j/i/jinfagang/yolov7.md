@@ -1,6 +1,6 @@
 # jinfagang/yolov7 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 471
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3012 | 471 | 
 | 2023-02-08 | 3012 | 471 | 
 | 2023-02-07 | 3013 | 471 | 
 | 2023-02-06 | 3012 | 470 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3002 | 468 | 
 | 2023-01-12 | 3002 | 467 | 
 | 2023-01-11 | 3001 | 467 | 
-| 2023-01-10 | 3001 | 467 | 
 

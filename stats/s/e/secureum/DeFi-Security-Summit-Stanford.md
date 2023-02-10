@@ -1,6 +1,6 @@
 # secureum/DeFi-Security-Summit-Stanford - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 133 | 19 | 
 | 2023-02-08 | 133 | 19 | 
 | 2023-02-07 | 133 | 19 | 
 | 2023-02-06 | 133 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 125 | 18 | 
 | 2023-01-12 | 124 | 18 | 
 | 2023-01-11 | 124 | 18 | 
-| 2023-01-10 | 124 | 18 | 
 

@@ -1,10 +1,10 @@
 # Melledy/Grasscutter - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 3976
+☋ Forks: 3978
 
-★ Stars: 12472
+★ Stars: 12483
 
 [Open repository](https://github.com/Melledy/Grasscutter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 12483 | 3978 | 
 | 2023-02-08 | 12472 | 3976 | 
 | 2023-02-06 | 12460 | 3974 | 
 | 2023-02-05 | 12455 | 3970 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 12230 | 3907 | 
 | 2023-01-12 | 12222 | 3907 | 
 | 2023-01-11 | 12212 | 3903 | 
-| 2023-01-10 | 12200 | 3901 | 
 

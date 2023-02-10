@@ -1,6 +1,6 @@
 # laravel/pint - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2275 | 76 | 
 | 2023-02-08 | 2275 | 76 | 
 | 2023-02-07 | 2275 | 76 | 
 | 2023-02-06 | 2275 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2225 | 70 | 
 | 2023-01-12 | 2210 | 72 | 
 | 2023-01-11 | 2209 | 72 | 
-| 2023-01-10 | 2207 | 73 | 
 

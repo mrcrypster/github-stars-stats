@@ -1,10 +1,10 @@
 # hotmeteor/receiver - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 9
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/hotmeteor/receiver)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 279 | 9 | 
 | 2023-02-08 | 278 | 9 | 
 | 2023-02-07 | 278 | 9 | 
 | 2023-02-06 | 278 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 272 | 7 | 
 | 2023-01-12 | 272 | 7 | 
 | 2023-01-11 | 272 | 7 | 
-| 2023-01-10 | 271 | 7 | 
 

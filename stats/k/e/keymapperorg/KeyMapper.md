@@ -1,8 +1,8 @@
 # keymapperorg/KeyMapper - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 124
+☋ Forks: 125
 
 ★ Stars: 580
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 580 | 125 | 
 | 2023-02-08 | 580 | 124 | 
 | 2023-02-06 | 580 | 124 | 
 | 2023-02-05 | 580 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 567 | 120 | 
 | 2023-01-12 | 566 | 120 | 
 | 2023-01-11 | 567 | 120 | 
-| 2023-01-10 | 568 | 120 | 
 

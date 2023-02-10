@@ -1,10 +1,10 @@
 # ohnemax/kernwaffen-in-russland - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/ohnemax/kernwaffen-in-russland)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 11 | 3 | 
 | 2023-02-08 | 10 | 3 | 
 | 2023-02-07 | 10 | 3 | 
 | 2023-02-06 | 10 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 10 | 3 | 
 | 2023-01-12 | 10 | 3 | 
 | 2023-01-11 | 10 | 3 | 
-| 2023-01-10 | 10 | 3 | 
 

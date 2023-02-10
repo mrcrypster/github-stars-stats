@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 171
 
-★ Stars: 848
+★ Stars: 850
 
 [Open repository](https://github.com/delta-io/delta-rs)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 848 | 171 | 
+| 2023-02-09 | 850 | 171 | 
 | 2023-02-08 | 848 | 171 | 
 | 2023-02-07 | 843 | 171 | 
 | 2023-02-06 | 841 | 169 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 801 | 163 | 
 | 2023-01-12 | 800 | 163 | 
 | 2023-01-11 | 796 | 162 | 
-| 2023-01-10 | 795 | 162 | 
 

@@ -1,10 +1,10 @@
 # pure-css/pure - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2534
 
-★ Stars: 22861
+★ Stars: 22862
 
 [Open repository](https://github.com/pure-css/pure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 22862 | 2534 | 
 | 2023-02-08 | 22861 | 2534 | 
 | 2023-02-07 | 22858 | 2533 | 
 | 2023-02-06 | 22857 | 2534 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 22746 | 2527 | 
 | 2023-01-13 | 22744 | 2527 | 
 | 2023-01-12 | 22745 | 2527 | 
-| 2023-01-11 | 22743 | 2526 | 
 

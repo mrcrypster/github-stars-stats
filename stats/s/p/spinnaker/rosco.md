@@ -1,6 +1,6 @@
 # spinnaker/rosco - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 639
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 88 | 639 | 
 | 2023-02-08 | 88 | 639 | 
 | 2023-02-07 | 88 | 639 | 
 | 2023-02-06 | 88 | 639 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 88 | 635 | 
 | 2023-01-12 | 88 | 635 | 
 | 2023-01-11 | 88 | 635 | 
-| 2023-01-10 | 88 | 635 | 
 

@@ -1,6 +1,6 @@
 # courselab/snaskii22 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 9 | 12 | 
 | 2023-02-08 | 9 | 12 | 
 | 2023-02-07 | 9 | 12 | 
 | 2023-02-06 | 9 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 10 | 12 | 
 | 2023-01-12 | 10 | 12 | 
 | 2023-01-11 | 10 | 12 | 
-| 2023-01-10 | 10 | 12 | 
 

@@ -1,10 +1,10 @@
 # jenkins-x/jx-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/jenkins-x/jx-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6 | 7 | 
 | 2023-02-08 | 5 | 7 | 
 | 2023-02-07 | 5 | 7 | 
 | 2023-02-06 | 5 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 4 | 8 | 
 | 2023-01-12 | 4 | 8 | 
 | 2023-01-11 | 4 | 8 | 
-| 2023-01-10 | 4 | 8 | 
 

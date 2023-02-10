@@ -1,10 +1,10 @@
 # tao12345666333/vim - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 196
 
-★ Stars: 564
+★ Stars: 563
 
 [Open repository](https://github.com/tao12345666333/vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 563 | 196 | 
 | 2023-02-08 | 564 | 196 | 
 | 2023-02-07 | 564 | 196 | 
 | 2023-02-05 | 564 | 196 | 

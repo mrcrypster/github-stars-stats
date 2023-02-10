@@ -1,6 +1,6 @@
 # mvukov/rules_ros2 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 34 | 20 | 
 | 2023-02-08 | 34 | 20 | 
 | 2023-02-07 | 34 | 20 | 
 | 2023-02-06 | 33 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 26 | 17 | 
 | 2023-01-12 | 26 | 17 | 
 | 2023-01-11 | 26 | 17 | 
-| 2023-01-10 | 26 | 17 | 
 

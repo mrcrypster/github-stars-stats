@@ -1,10 +1,10 @@
 # 520coding/confuse - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 162
 
-★ Stars: 1152
+★ Stars: 1154
 
 [Open repository](https://github.com/520coding/confuse)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1154 | 162 | 
 | 2023-02-08 | 1152 | 162 | 
 | 2023-02-07 | 1145 | 162 | 
 | 2023-02-06 | 1144 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1116 | 159 | 
 | 2023-01-12 | 1109 | 159 | 
 | 2023-01-11 | 1109 | 158 | 
-| 2023-01-10 | 1103 | 157 | 
 

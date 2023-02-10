@@ -1,10 +1,10 @@
 # NorthDevelopment/NorthClient - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/NorthDevelopment/NorthClient)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 52 | 5 | 
 | 2023-02-07 | 51 | 5 | 
 | 2023-02-06 | 51 | 5 | 
 | 2023-02-05 | 47 | 5 | 

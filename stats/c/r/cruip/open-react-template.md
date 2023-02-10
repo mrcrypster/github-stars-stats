@@ -1,8 +1,8 @@
 # cruip/open-react-template - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1130
+☋ Forks: 1129
 
 ★ Stars: 2445
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2445 | 1129 | 
 | 2023-02-08 | 2445 | 1130 | 
 | 2023-02-07 | 2443 | 1130 | 
 | 2023-02-06 | 2443 | 1130 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2420 | 1117 | 
 | 2023-01-12 | 2419 | 1116 | 
 | 2023-01-11 | 2417 | 1114 | 
-| 2023-01-10 | 2415 | 1112 | 
 

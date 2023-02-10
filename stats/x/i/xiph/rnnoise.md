@@ -1,10 +1,10 @@
 # xiph/rnnoise - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 790
 
-★ Stars: 2888
+★ Stars: 2890
 
 [Open repository](https://github.com/xiph/rnnoise)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2890 | 790 | 
 | 2023-02-08 | 2888 | 790 | 
 | 2023-02-07 | 2885 | 789 | 
 | 2023-02-05 | 2883 | 789 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2857 | 789 | 
 | 2023-01-12 | 2853 | 788 | 
 | 2023-01-11 | 2851 | 789 | 
-| 2023-01-10 | 2849 | 789 | 
 

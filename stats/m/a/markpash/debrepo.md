@@ -1,10 +1,10 @@
 # markpash/debrepo - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/markpash/debrepo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 52 | 1 | 
 | 2023-02-08 | 51 | 1 | 
 | 2023-02-07 | 51 | 1 | 
 | 2023-02-05 | 51 | 1 | 

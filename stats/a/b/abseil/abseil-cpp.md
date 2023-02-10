@@ -1,10 +1,10 @@
 # abseil/abseil-cpp - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 2192
+☋ Forks: 2193
 
-★ Stars: 11629
+★ Stars: 11632
 
 [Open repository](https://github.com/abseil/abseil-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 11632 | 2193 | 
 | 2023-02-08 | 11629 | 2192 | 
 | 2023-02-07 | 11626 | 2191 | 
 | 2023-02-06 | 11623 | 2189 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 11539 | 2169 | 
 | 2023-01-12 | 11536 | 2169 | 
 | 2023-01-11 | 11532 | 2167 | 
-| 2023-01-10 | 11531 | 2166 | 
 

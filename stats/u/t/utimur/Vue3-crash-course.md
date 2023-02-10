@@ -1,6 +1,6 @@
 # utimur/Vue3-crash-course - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 127 | 62 | 
 | 2023-02-08 | 127 | 62 | 
 | 2023-02-07 | 127 | 62 | 
 | 2023-02-06 | 127 | 62 | 

@@ -1,10 +1,10 @@
 # GEOS-ESM/GEOSradiation_GridComp - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/GEOS-ESM/GEOSradiation_GridComp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3 | - | 
 | 2023-02-08 | 2 | - | 
 | 2023-02-07 | 2 | - | 
 | 2023-02-06 | 2 | - | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1 | - | 
 | 2023-01-12 | 1 | - | 
 | 2023-01-11 | 1 | - | 
-| 2023-01-10 | 1 | - | 
 

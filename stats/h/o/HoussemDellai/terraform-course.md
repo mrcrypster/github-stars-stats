@@ -1,10 +1,10 @@
 # HoussemDellai/terraform-course - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 690
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/HoussemDellai/terraform-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 199 | 690 | 
 | 2023-02-08 | 198 | 690 | 
 | 2023-02-07 | 198 | 689 | 
 | 2023-02-06 | 198 | 687 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 188 | 674 | 
 | 2023-01-12 | 188 | 674 | 
 | 2023-01-11 | 188 | 671 | 
-| 2023-01-10 | 186 | 670 | 
 

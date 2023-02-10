@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/QAInsights/UpTime)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 2 | - | 
+| 2023-02-09 | 3 | - | 
 | 2023-02-08 | 2 | - | 
 | 2023-02-07 | 2 | - | 
 | 2023-02-06 | 2 | - | 

@@ -1,10 +1,10 @@
 # filecoin-project/lotus - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1207
+☋ Forks: 1206
 
-★ Stars: 2538
+★ Stars: 2541
 
 [Open repository](https://github.com/filecoin-project/lotus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2541 | 1206 | 
 | 2023-02-08 | 2538 | 1207 | 
 | 2023-02-06 | 2538 | 1206 | 
 | 2023-02-05 | 2537 | 1207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2520 | 1196 | 
 | 2023-01-12 | 2518 | 1195 | 
 | 2023-01-11 | 2516 | 1196 | 
-| 2023-01-10 | 2515 | 1196 | 
 

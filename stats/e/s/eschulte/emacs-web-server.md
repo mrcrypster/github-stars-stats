@@ -1,10 +1,10 @@
 # eschulte/emacs-web-server - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 27
 
-★ Stars: 164
+★ Stars: 163
 
 [Open repository](https://github.com/eschulte/emacs-web-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 163 | 27 | 
 | 2023-02-08 | 164 | 27 | 
 | 2023-02-07 | 164 | 27 | 
 | 2023-02-06 | 164 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 164 | 27 | 
 | 2023-01-12 | 164 | 27 | 
 | 2023-01-11 | 164 | 27 | 
-| 2023-01-10 | 164 | 27 | 
 

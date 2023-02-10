@@ -1,10 +1,10 @@
 # actions/starter-workflows - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 5518
+☋ Forks: 5521
 
-★ Stars: 7135
+★ Stars: 7139
 
 [Open repository](https://github.com/actions/starter-workflows)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 7139 | 5521 | 
 | 2023-02-08 | 7135 | 5518 | 
 | 2023-02-07 | 7131 | 5516 | 
 | 2023-02-06 | 7121 | 5513 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 7050 | 5469 | 
 | 2023-01-13 | 7047 | 5464 | 
 | 2023-01-11 | 7042 | 5461 | 
-| 2023-01-10 | 7038 | 5459 | 
 

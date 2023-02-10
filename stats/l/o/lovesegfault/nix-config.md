@@ -1,6 +1,6 @@
 # lovesegfault/nix-config - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 120 | 10 | 
 | 2023-02-08 | 120 | 10 | 
 | 2023-02-07 | 119 | 10 | 
 | 2023-02-06 | 119 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 112 | 9 | 
 | 2023-01-12 | 111 | 8 | 
 | 2023-01-11 | 111 | 8 | 
-| 2023-01-10 | 110 | 8 | 
 

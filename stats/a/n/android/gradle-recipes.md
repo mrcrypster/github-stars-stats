@@ -1,10 +1,10 @@
 # android/gradle-recipes - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 129
 
-★ Stars: 1432
+★ Stars: 1435
 
 [Open repository](https://github.com/android/gradle-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1435 | 129 | 
 | 2023-02-08 | 1432 | 129 | 
 | 2023-02-07 | 1429 | 129 | 
 | 2023-02-06 | 1428 | 129 | 

@@ -1,10 +1,8 @@
 # OpmUbed/RDPfree - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+☋ Forks: 
 
-☋ Forks: 53
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/OpmUbed/RDPfree)
 
@@ -13,5 +11,4 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | - | 53 | 
 

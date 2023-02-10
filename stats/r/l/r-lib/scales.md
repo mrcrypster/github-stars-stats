@@ -1,6 +1,6 @@
 # r-lib/scales - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 350 | 99 | 
 | 2023-02-08 | 350 | 99 | 
 | 2023-02-06 | 350 | 99 | 
 | 2023-02-05 | 350 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 349 | 99 | 
 | 2023-01-12 | 349 | 99 | 
 | 2023-01-11 | 349 | 99 | 
-| 2023-01-10 | 349 | 99 | 
 

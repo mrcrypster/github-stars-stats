@@ -1,10 +1,10 @@
 # ShaunLawrie/PwshPaint - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/ShaunLawrie/PwshPaint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 178 | 4 | 
 | 2023-02-09 | 177 | 4 | 
 | 2023-02-07 | 177 | 4 | 
 | 2023-02-06 | 177 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 176 | 4 | 
 | 2023-01-12 | 176 | 4 | 
 | 2023-01-11 | 176 | 4 | 
-| 2023-01-10 | 176 | 4 | 
 

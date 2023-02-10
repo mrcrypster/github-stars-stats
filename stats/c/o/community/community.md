@@ -1,10 +1,10 @@
 # community/community - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 2027
+☋ Forks: 2031
 
-★ Stars: 5371
+★ Stars: 5377
 
 [Open repository](https://github.com/community/community)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5377 | 2031 | 
 | 2023-02-08 | 5371 | 2027 | 
 | 2023-02-07 | 5355 | 2025 | 
 | 2023-02-06 | 5335 | 2016 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 5172 | 1899 | 
 | 2023-01-12 | 5167 | 1895 | 
 | 2023-01-11 | 5163 | 1891 | 
-| 2023-01-10 | 5151 | 1885 | 
 

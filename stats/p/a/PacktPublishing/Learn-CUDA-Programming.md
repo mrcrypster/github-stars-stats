@@ -1,10 +1,10 @@
 # PacktPublishing/Learn-CUDA-Programming - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 170
 
-★ Stars: 578
+★ Stars: 587
 
 [Open repository](https://github.com/PacktPublishing/Learn-CUDA-Programming)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 587 | 170 | 
 | 2023-02-08 | 578 | 170 | 
 | 2023-02-07 | 562 | 168 | 
 | 2023-02-06 | 554 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 543 | 161 | 
 | 2023-01-12 | 541 | 161 | 
 | 2023-01-11 | 541 | 161 | 
-| 2023-01-10 | 540 | 161 | 
 

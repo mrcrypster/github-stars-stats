@@ -1,0 +1,18 @@
+# redraiment/eml - stars & forks statistics
+
+Stats updated on Feb 2023, 10
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/redraiment/eml)
+
+[Open detailed stats for redraiment/eml](https://reviewgithub.com/rep/redraiment/eml)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-10 | 1 | - | 
+| 2023-02-09 | 1 | - | 
+

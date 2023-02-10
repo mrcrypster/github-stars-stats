@@ -1,10 +1,10 @@
 # brendenlake/omniglot - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 356
 
-★ Stars: 1226
+★ Stars: 1227
 
 [Open repository](https://github.com/brendenlake/omniglot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1227 | 356 | 
 | 2023-02-08 | 1226 | 356 | 
 | 2023-02-07 | 1226 | 356 | 
 | 2023-02-06 | 1226 | 356 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1222 | 357 | 
 | 2023-01-12 | 1222 | 357 | 
 | 2023-01-11 | 1222 | 357 | 
-| 2023-01-10 | 1222 | 357 | 
 

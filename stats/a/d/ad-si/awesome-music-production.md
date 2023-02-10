@@ -1,10 +1,10 @@
 # ad-si/awesome-music-production - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 65
 
-★ Stars: 646
+★ Stars: 647
 
 [Open repository](https://github.com/ad-si/awesome-music-production)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 647 | 65 | 
 | 2023-02-08 | 646 | 65 | 
 | 2023-02-07 | 641 | 65 | 
 | 2023-02-06 | 636 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 598 | 64 | 
 | 2023-01-12 | 597 | 64 | 
 | 2023-01-11 | 597 | 64 | 
-| 2023-01-10 | 594 | 64 | 
 

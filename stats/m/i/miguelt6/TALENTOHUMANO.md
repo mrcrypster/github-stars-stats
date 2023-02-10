@@ -1,0 +1,17 @@
+# miguelt6/TALENTOHUMANO - stars & forks statistics
+
+Stats updated on Feb 2023, 09
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/miguelt6/TALENTOHUMANO)
+
+[Open detailed stats for miguelt6/TALENTOHUMANO](https://reviewgithub.com/rep/miguelt6/TALENTOHUMANO)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-09 | - | - | 
+

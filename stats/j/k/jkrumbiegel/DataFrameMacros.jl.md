@@ -1,6 +1,6 @@
 # jkrumbiegel/DataFrameMacros.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 61 | 2 | 
 | 2023-02-07 | 61 | 2 | 
 | 2023-02-06 | 61 | 2 | 
 | 2023-02-05 | 61 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 58 | 2 | 
 | 2023-01-12 | 58 | 2 | 
 | 2023-01-11 | 58 | 2 | 
-| 2023-01-10 | 58 | 2 | 
 

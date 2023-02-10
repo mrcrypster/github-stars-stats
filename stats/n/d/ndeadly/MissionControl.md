@@ -1,10 +1,10 @@
 # ndeadly/MissionControl - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 95
 
-★ Stars: 1542
+★ Stars: 1545
 
 [Open repository](https://github.com/ndeadly/MissionControl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1545 | 95 | 
 | 2023-02-08 | 1542 | 95 | 
 | 2023-02-07 | 1542 | 95 | 
 | 2023-02-06 | 1541 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 1498 | 94 | 
 | 2023-01-13 | 1499 | 94 | 
 | 2023-01-12 | 1496 | 94 | 
-| 2023-01-11 | 1495 | 94 | 
 

@@ -1,6 +1,6 @@
 # netlify-templates/one-click-hugo-cms - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 423 | 286 | 
 | 2023-02-08 | 423 | 286 | 
 | 2023-02-07 | 423 | 286 | 
 | 2023-02-06 | 423 | 286 | 

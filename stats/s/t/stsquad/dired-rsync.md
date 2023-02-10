@@ -1,10 +1,10 @@
 # stsquad/dired-rsync - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 14
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/stsquad/dired-rsync)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 100 | 14 | 
 | 2023-02-08 | 99 | 14 | 
 | 2023-02-07 | 99 | 14 | 
 | 2023-02-06 | 99 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 99 | 14 | 
 | 2023-01-12 | 99 | 14 | 
 | 2023-01-11 | 99 | 14 | 
-| 2023-01-10 | 99 | 14 | 
 

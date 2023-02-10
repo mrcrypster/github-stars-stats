@@ -1,10 +1,10 @@
 # JFormDesigner/FlatLaf - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 193
 
-★ Stars: 2176
+★ Stars: 2178
 
 [Open repository](https://github.com/JFormDesigner/FlatLaf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2178 | 193 | 
 | 2023-02-08 | 2176 | 193 | 
 | 2023-02-07 | 2175 | 192 | 
 | 2023-02-06 | 2174 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2113 | 188 | 
 | 2023-01-12 | 2112 | 188 | 
 | 2023-01-11 | 2109 | 189 | 
-| 2023-01-10 | 2106 | 189 | 
 

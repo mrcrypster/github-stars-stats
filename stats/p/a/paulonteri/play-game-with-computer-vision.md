@@ -1,6 +1,6 @@
 # paulonteri/play-game-with-computer-vision - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 89 | 7 | 
 | 2023-02-08 | 89 | 7 | 
 | 2023-02-07 | 89 | 7 | 
 | 2023-02-06 | 89 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 82 | 7 | 
 | 2023-01-12 | 80 | 7 | 
 | 2023-01-11 | 80 | 7 | 
-| 2023-01-10 | 80 | 7 | 
 

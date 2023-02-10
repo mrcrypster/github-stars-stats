@@ -1,6 +1,6 @@
 # NoahZinsmeister/franchiser - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 86 | 9 | 
 | 2023-02-08 | 86 | 9 | 
 | 2023-02-07 | 86 | 9 | 
 | 2023-02-06 | 86 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 86 | 9 | 
 | 2023-01-13 | 85 | 8 | 
 | 2023-01-12 | 85 | 7 | 
-| 2023-01-11 | 85 | 7 | 
 

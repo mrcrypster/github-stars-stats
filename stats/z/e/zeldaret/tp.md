@@ -1,6 +1,6 @@
 # zeldaret/tp - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 346 | 45 | 
 | 2023-02-08 | 346 | 45 | 
 | 2023-02-07 | 346 | 45 | 
 | 2023-02-06 | 346 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 333 | 45 | 
 | 2023-01-12 | 333 | 45 | 
 | 2023-01-11 | 333 | 45 | 
-| 2023-01-10 | 331 | 45 | 
 

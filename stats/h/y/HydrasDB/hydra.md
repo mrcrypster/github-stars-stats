@@ -1,10 +1,10 @@
 # HydrasDB/hydra - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 809
+★ Stars: 816
 
 [Open repository](https://github.com/HydrasDB/hydra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 816 | 19 | 
 | 2023-02-08 | 809 | 18 | 
 | 2023-02-07 | 790 | 18 | 
 | 2023-02-06 | 784 | 18 | 

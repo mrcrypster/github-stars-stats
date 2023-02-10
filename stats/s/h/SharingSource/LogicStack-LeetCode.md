@@ -1,10 +1,10 @@
 # SharingSource/LogicStack-LeetCode - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 825
 
-★ Stars: 5915
+★ Stars: 5918
 
 [Open repository](https://github.com/SharingSource/LogicStack-LeetCode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5918 | 825 | 
 | 2023-02-08 | 5915 | 825 | 
 | 2023-02-07 | 5907 | 825 | 
 | 2023-02-06 | 5901 | 825 | 

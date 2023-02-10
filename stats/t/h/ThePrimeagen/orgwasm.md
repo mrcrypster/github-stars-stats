@@ -1,10 +1,10 @@
 # ThePrimeagen/orgwasm - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/ThePrimeagen/orgwasm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 40 | 1 | 
 | 2023-02-08 | 39 | 1 | 
 | 2023-02-07 | 39 | 1 | 
 | 2023-02-06 | 39 | 1 | 

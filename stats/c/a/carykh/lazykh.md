@@ -1,8 +1,8 @@
 # carykh/lazykh - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 230
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 230 | 37 | 
 | 2023-02-08 | 230 | 36 | 
 | 2023-02-07 | 230 | 36 | 
 | 2023-02-06 | 230 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 222 | 36 | 
 | 2023-01-12 | 222 | 36 | 
 | 2023-01-11 | 223 | 36 | 
-| 2023-01-10 | 223 | 36 | 
 

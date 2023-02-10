@@ -1,10 +1,10 @@
 # microsoft/WhatTheHack - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 696
 
-★ Stars: 1376
+★ Stars: 1377
 
 [Open repository](https://github.com/microsoft/WhatTheHack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1377 | 696 | 
 | 2023-02-08 | 1376 | 696 | 
 | 2023-02-07 | 1375 | 696 | 
 | 2023-02-06 | 1375 | 696 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 1353 | 678 | 
 | 2023-01-13 | 1352 | 676 | 
 | 2023-01-12 | 1351 | 676 | 
-| 2023-01-11 | 1351 | 675 | 
 

@@ -1,10 +1,10 @@
 # crytic/not-so-smart-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 288
 
-★ Stars: 1884
+★ Stars: 1886
 
 [Open repository](https://github.com/crytic/not-so-smart-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1886 | 288 | 
 | 2023-02-08 | 1884 | 288 | 
 | 2023-02-07 | 1882 | 288 | 
 | 2023-02-06 | 1882 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1856 | 283 | 
 | 2023-01-12 | 1854 | 282 | 
 | 2023-01-11 | 1852 | 282 | 
-| 2023-01-10 | 1852 | 282 | 
 

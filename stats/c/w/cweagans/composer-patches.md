@@ -1,10 +1,10 @@
 # cweagans/composer-patches - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 235
 
-★ Stars: 1323
+★ Stars: 1324
 
 [Open repository](https://github.com/cweagans/composer-patches)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1324 | 235 | 
 | 2023-02-08 | 1323 | 235 | 
 | 2023-02-07 | 1322 | 234 | 
 | 2023-02-06 | 1320 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1311 | 236 | 
 | 2023-01-12 | 1311 | 236 | 
 | 2023-01-11 | 1307 | 237 | 
-| 2023-01-10 | 1307 | 237 | 
 

@@ -1,6 +1,6 @@
 # spring-projects/spring-webflow-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 594
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 392 | 594 | 
 | 2023-02-08 | 392 | 594 | 
 | 2023-02-07 | 391 | 593 | 
 | 2023-02-06 | 390 | 593 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 389 | 592 | 
 | 2023-01-13 | 389 | 592 | 
 | 2023-01-12 | 389 | 592 | 
-| 2023-01-10 | 389 | 592 | 
 

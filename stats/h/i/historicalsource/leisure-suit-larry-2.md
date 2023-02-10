@@ -1,6 +1,6 @@
 # historicalsource/leisure-suit-larry-2 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 14 | 1 | 
 | 2023-02-07 | 14 | 1 | 
 | 2023-02-06 | 14 | 1 | 
 | 2023-02-05 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 12 | - | 
 | 2023-01-12 | 12 | - | 
 | 2023-01-11 | 12 | - | 
-| 2023-01-10 | 11 | - | 
 

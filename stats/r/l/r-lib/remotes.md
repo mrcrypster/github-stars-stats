@@ -1,6 +1,6 @@
 # r-lib/remotes - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 284 | 146 | 
 | 2023-02-08 | 284 | 146 | 
 | 2023-02-07 | 284 | 146 | 
 | 2023-02-05 | 284 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 285 | 147 | 
 | 2023-01-12 | 285 | 147 | 
 | 2023-01-11 | 285 | 147 | 
-| 2023-01-10 | 285 | 147 | 
 

@@ -1,6 +1,6 @@
 # johnboiles/obs-mac-virtualcam - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4081 | 163 | 
 | 2023-02-08 | 4081 | 163 | 
 | 2023-02-07 | 4081 | 163 | 
 | 2023-02-06 | 4081 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 4077 | 163 | 
 | 2023-01-12 | 4076 | 163 | 
 | 2023-01-11 | 4076 | 163 | 
-| 2023-01-10 | 4076 | 163 | 
 

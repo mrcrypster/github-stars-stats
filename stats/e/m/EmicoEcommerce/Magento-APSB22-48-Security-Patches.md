@@ -1,6 +1,6 @@
 # EmicoEcommerce/Magento-APSB22-48-Security-Patches - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 39 | 10 | 
 | 2023-02-08 | 39 | 10 | 
 | 2023-02-07 | 39 | 10 | 
 | 2023-02-06 | 39 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 38 | 10 | 
 | 2023-01-12 | 38 | 10 | 
 | 2023-01-11 | 38 | 10 | 
-| 2023-01-10 | 38 | 10 | 
 

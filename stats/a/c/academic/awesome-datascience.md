@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 09
 
-☋ Forks: 5365
+☋ Forks: 5366
 
-★ Stars: 20636
+★ Stars: 20642
 
 [Open repository](https://github.com/academic/awesome-datascience)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 20636 | 5365 | 
+| 2023-02-09 | 20642 | 5366 | 
 | 2023-02-08 | 20635 | 5363 | 
 | 2023-02-07 | 20618 | 5357 | 
 | 2023-02-06 | 20573 | 5345 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 20366 | 5310 | 
 | 2023-01-12 | 20354 | 5308 | 
 | 2023-01-11 | 20349 | 5308 | 
-| 2023-01-10 | 20343 | 5306 | 
 

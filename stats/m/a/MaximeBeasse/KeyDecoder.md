@@ -1,10 +1,10 @@
 # MaximeBeasse/KeyDecoder - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 164
 
-★ Stars: 2571
+★ Stars: 2574
 
 [Open repository](https://github.com/MaximeBeasse/KeyDecoder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2574 | 164 | 
 | 2023-02-08 | 2571 | 164 | 
 | 2023-02-07 | 2566 | 163 | 
 | 2023-02-06 | 2556 | 162 | 

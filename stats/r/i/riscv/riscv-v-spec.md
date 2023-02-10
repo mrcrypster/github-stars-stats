@@ -1,10 +1,10 @@
 # riscv/riscv-v-spec - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 241
+☋ Forks: 243
 
-★ Stars: 676
+★ Stars: 681
 
 [Open repository](https://github.com/riscv/riscv-v-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 681 | 243 | 
 | 2023-02-08 | 676 | 241 | 
 | 2023-02-07 | 676 | 241 | 
 | 2023-02-06 | 676 | 240 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 660 | 232 | 
 | 2023-01-12 | 660 | 232 | 
 | 2023-01-11 | 660 | 232 | 
-| 2023-01-10 | 659 | 232 | 
 

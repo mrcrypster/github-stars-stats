@@ -1,10 +1,10 @@
 # solana-mobile/solana-mobile-stack-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/solana-mobile/solana-mobile-stack-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 487 | 45 | 
 | 2023-02-08 | 486 | 44 | 
 | 2023-02-07 | 484 | 44 | 
 | 2023-02-06 | 484 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 460 | 42 | 
 | 2023-01-12 | 452 | 42 | 
 | 2023-01-11 | 447 | 42 | 
-| 2023-01-10 | 447 | 42 | 
 

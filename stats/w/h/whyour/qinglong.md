@@ -1,10 +1,10 @@
 # whyour/qinglong - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 2224
+☋ Forks: 2227
 
-★ Stars: 8931
+★ Stars: 8965
 
 [Open repository](https://github.com/whyour/qinglong)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 8965 | 2227 | 
 | 2023-02-08 | 8931 | 2224 | 
 | 2023-02-07 | 8915 | 2221 | 
 | 2023-02-06 | 8907 | 2220 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 8656 | 2203 | 
 | 2023-01-12 | 8640 | 2202 | 
 | 2023-01-11 | 8634 | 2203 | 
-| 2023-01-10 | 8626 | 2200 | 
 

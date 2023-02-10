@@ -1,6 +1,6 @@
 # OpsMx/enterprise-argo - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | - | 6 | 
 | 2023-02-08 | - | 6 | 
 | 2023-02-07 | - | 6 | 
 | 2023-02-05 | - | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | - | 5 | 
 | 2023-01-12 | - | 5 | 
 | 2023-01-11 | - | 5 | 
-| 2023-01-10 | - | 5 | 
 

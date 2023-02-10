@@ -1,8 +1,8 @@
 # BharathSharath/cicd-for-webapp - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | - | 26 | 
 | 2023-02-08 | - | 25 | 
 | 2023-02-06 | - | 25 | 
 | 2023-02-05 | - | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | - | 19 | 
 | 2023-01-12 | - | 19 | 
 | 2023-01-11 | - | 19 | 
-| 2023-01-10 | - | 19 | 
 

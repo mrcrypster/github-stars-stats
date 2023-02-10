@@ -1,10 +1,10 @@
 # E3SM-Project/Ocean-BGC - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/E3SM-Project/Ocean-BGC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4 | 3 | 
 | 2023-02-08 | 3 | 3 | 
 | 2023-02-07 | 3 | 3 | 
 | 2023-02-06 | 2 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2 | 2 | 
 | 2023-01-12 | 2 | 2 | 
 | 2023-01-11 | 2 | 2 | 
-| 2023-01-10 | 2 | 2 | 
 

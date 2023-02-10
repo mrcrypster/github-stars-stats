@@ -1,10 +1,10 @@
 # onflow/flow-nft - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 160
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/onflow/flow-nft)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 433 | 160 | 
 | 2023-02-08 | 432 | 160 | 
 | 2023-02-07 | 433 | 160 | 
 | 2023-02-06 | 433 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 431 | 160 | 
 | 2023-01-12 | 431 | 160 | 
 | 2023-01-11 | 431 | 160 | 
-| 2023-01-10 | 431 | 160 | 
 

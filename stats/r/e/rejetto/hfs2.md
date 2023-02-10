@@ -1,10 +1,10 @@
 # rejetto/hfs2 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 112
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/rejetto/hfs2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 522 | 112 | 
 | 2023-02-08 | 521 | 112 | 
 | 2023-02-07 | 521 | 111 | 
 | 2023-02-06 | 521 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 508 | 111 | 
 | 2023-01-12 | 508 | 111 | 
 | 2023-01-11 | 508 | 111 | 
-| 2023-01-10 | 508 | 111 | 
 

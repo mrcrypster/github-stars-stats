@@ -1,6 +1,6 @@
 # mcandre/vimrc-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 42 | 12 | 
 | 2023-02-08 | 42 | 12 | 
 | 2023-02-07 | 42 | 12 | 
 | 2023-02-06 | 42 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 42 | 12 | 
 | 2023-01-12 | 42 | 12 | 
 | 2023-01-11 | 42 | 12 | 
-| 2023-01-10 | 42 | 12 | 
 

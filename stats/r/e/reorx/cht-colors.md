@@ -1,10 +1,10 @@
 # reorx/cht-colors - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/reorx/cht-colors)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 171 | 21 | 
 | 2023-02-08 | 170 | 21 | 
 | 2023-02-07 | 170 | 21 | 
 | 2023-02-06 | 170 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 160 | 20 | 
 | 2023-01-12 | 160 | 20 | 
 | 2023-01-11 | 160 | 20 | 
-| 2023-01-10 | 160 | 20 | 
 

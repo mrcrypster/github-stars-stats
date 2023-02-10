@@ -1,10 +1,10 @@
 # alldritt/UIBrowser4 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/alldritt/UIBrowser4)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 198 | 11 | 
 | 2023-02-08 | 197 | 11 | 
 | 2023-02-07 | 197 | 11 | 
 | 2023-02-06 | 197 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 190 | 11 | 
 | 2023-01-12 | 189 | 11 | 
 | 2023-01-11 | 189 | 11 | 
-| 2023-01-10 | 189 | 11 | 
 

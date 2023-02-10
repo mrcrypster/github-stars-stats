@@ -1,10 +1,10 @@
 # hansonkd/puff - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/hansonkd/puff)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 297 | 8 | 
 | 2023-02-08 | 296 | 8 | 
 | 2023-02-07 | 296 | 8 | 
 | 2023-02-06 | 295 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 292 | 8 | 
 | 2023-01-12 | 292 | 8 | 
 | 2023-01-11 | 291 | 8 | 
-| 2023-01-10 | 290 | 8 | 
 

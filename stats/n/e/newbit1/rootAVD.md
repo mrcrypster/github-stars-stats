@@ -1,10 +1,10 @@
 # newbit1/rootAVD - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 70
 
-★ Stars: 622
+★ Stars: 623
 
 [Open repository](https://github.com/newbit1/rootAVD)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 623 | 70 | 
 | 2023-02-08 | 622 | 70 | 
 | 2023-02-07 | 621 | 70 | 
 | 2023-02-06 | 620 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 595 | 67 | 
 | 2023-01-12 | 595 | 67 | 
 | 2023-01-11 | 592 | 67 | 
-| 2023-01-10 | 590 | 67 | 
 

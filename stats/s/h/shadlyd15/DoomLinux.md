@@ -1,6 +1,6 @@
 # shadlyd15/DoomLinux - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 137 | 12 | 
 | 2023-02-08 | 137 | 12 | 
 | 2023-02-07 | 137 | 12 | 
 | 2023-02-06 | 137 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 135 | 12 | 
 | 2023-01-13 | 135 | 12 | 
 | 2023-01-12 | 134 | 11 | 
-| 2023-01-11 | 134 | 11 | 
 

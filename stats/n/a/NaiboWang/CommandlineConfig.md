@@ -1,10 +1,10 @@
 # NaiboWang/CommandlineConfig - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 276
 
-★ Stars: 1998
+★ Stars: 2000
 
 [Open repository](https://github.com/NaiboWang/CommandlineConfig)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2000 | 276 | 
 | 2023-02-08 | 1998 | 276 | 
 | 2023-02-07 | 1998 | 276 | 
 | 2023-02-05 | 1998 | 276 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1984 | 274 | 
 | 2023-01-12 | 1965 | 274 | 
 | 2023-01-11 | 1959 | 274 | 
-| 2023-01-10 | 1959 | 274 | 
 

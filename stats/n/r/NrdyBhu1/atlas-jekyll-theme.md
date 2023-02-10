@@ -1,6 +1,6 @@
 # NrdyBhu1/atlas-jekyll-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 7 | 44 | 
 | 2023-02-07 | 7 | 44 | 
 | 2023-02-06 | 7 | 44 | 
 | 2023-02-05 | 6 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 6 | 43 | 
 | 2023-01-12 | 6 | 43 | 
 | 2023-01-11 | 6 | 43 | 
-| 2023-01-10 | 6 | 43 | 
 

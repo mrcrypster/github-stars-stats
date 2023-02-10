@@ -1,10 +1,10 @@
 # david-vanderson/gui - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/david-vanderson/gui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 43 | 7 | 
 | 2023-02-07 | 42 | 7 | 
 | 2023-02-06 | 42 | 7 | 
 | 2023-02-05 | 42 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 42 | 7 | 
 | 2023-01-12 | 41 | 7 | 
 | 2023-01-11 | 41 | 7 | 
-| 2023-01-10 | 41 | 7 | 
 

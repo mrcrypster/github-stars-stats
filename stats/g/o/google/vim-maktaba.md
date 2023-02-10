@@ -1,10 +1,10 @@
 # google/vim-maktaba - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 54
 
-★ Stars: 582
+★ Stars: 581
 
 [Open repository](https://github.com/google/vim-maktaba)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 581 | 54 | 
 | 2023-02-08 | 582 | 54 | 
 | 2023-02-07 | 582 | 54 | 
 | 2023-02-06 | 582 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 581 | 54 | 
 | 2023-01-13 | 581 | 54 | 
 | 2023-01-11 | 581 | 54 | 
-| 2023-01-10 | 581 | 54 | 
 

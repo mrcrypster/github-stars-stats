@@ -1,6 +1,6 @@
 # ShapeAI/Python-for-Data-Science- - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 124 | 79 | 
 | 2023-02-08 | 124 | 79 | 
 | 2023-02-06 | 124 | 79 | 
 | 2023-02-05 | 124 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 122 | 76 | 
 | 2023-01-12 | 122 | 76 | 
 | 2023-01-11 | 122 | 76 | 
-| 2023-01-10 | 122 | 75 | 
 

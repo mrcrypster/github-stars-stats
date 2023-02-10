@@ -1,10 +1,10 @@
 # TheD1rkMtr/D1rkLrd - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 30
+☋ Forks: 32
 
-★ Stars: 164
+★ Stars: 170
 
 [Open repository](https://github.com/TheD1rkMtr/D1rkLrd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 170 | 32 | 
 | 2023-02-08 | 164 | 30 | 
 | 2023-02-07 | 159 | 30 | 
 | 2023-02-06 | 154 | 30 | 

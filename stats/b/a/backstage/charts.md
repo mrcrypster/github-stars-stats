@@ -1,10 +1,10 @@
 # backstage/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 20
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/backstage/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 32 | 20 | 
 | 2023-02-08 | 30 | 20 | 
 | 2023-02-07 | 30 | 19 | 
 | 2023-02-06 | 30 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 20 | 15 | 
 | 2023-01-12 | 20 | 15 | 
 | 2023-01-11 | 18 | 15 | 
-| 2023-01-10 | 18 | 15 | 
 

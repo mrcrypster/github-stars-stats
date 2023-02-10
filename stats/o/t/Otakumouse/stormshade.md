@@ -1,6 +1,6 @@
 # Otakumouse/stormshade - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 62
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 105 | 62 | 
+| 2023-02-09 | 105 | 62 | 
 | 2023-02-08 | 105 | 62 | 
 | 2023-02-07 | 105 | 61 | 
 | 2023-02-06 | 100 | 61 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 100 | 61 | 
 | 2023-01-12 | 100 | 61 | 
 | 2023-01-11 | 100 | 61 | 
-| 2023-01-10 | 100 | 61 | 
 

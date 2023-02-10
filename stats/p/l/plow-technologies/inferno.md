@@ -1,6 +1,6 @@
 # plow-technologies/inferno - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4 | 1 | 
 | 2023-02-08 | 4 | 1 | 
 | 2023-02-07 | 4 | 1 | 
 | 2023-02-05 | 4 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 5 | 1 | 
 | 2023-01-12 | 5 | 1 | 
 | 2023-01-11 | 5 | 1 | 
-| 2023-01-10 | 5 | 1 | 
 

@@ -1,6 +1,6 @@
 # projectcontour/contour - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 611
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3316 | 611 | 
 | 2023-02-08 | 3316 | 611 | 
 | 2023-02-07 | 3314 | 610 | 
 | 2023-02-06 | 3314 | 609 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3302 | 607 | 
 | 2023-01-12 | 3302 | 606 | 
 | 2023-01-11 | 3300 | 607 | 
-| 2023-01-10 | 3300 | 606 | 
 

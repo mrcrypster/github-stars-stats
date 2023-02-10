@@ -1,6 +1,6 @@
 # php-telegram-bot/core - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 918
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3433 | 918 | 
 | 2023-02-08 | 3433 | 918 | 
 | 2023-02-07 | 3432 | 918 | 
 | 2023-02-06 | 3433 | 919 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 3408 | 916 | 
 | 2023-01-13 | 3405 | 916 | 
 | 2023-01-12 | 3405 | 916 | 
-| 2023-01-11 | 3405 | 916 | 
 

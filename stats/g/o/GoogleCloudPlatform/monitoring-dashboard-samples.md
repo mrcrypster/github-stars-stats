@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/monitoring-dashboard-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 228
 
-★ Stars: 325
+★ Stars: 326
 
 [Open repository](https://github.com/GoogleCloudPlatform/monitoring-dashboard-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 326 | 228 | 
 | 2023-02-08 | 325 | 228 | 
 | 2023-02-07 | 324 | 228 | 
 | 2023-02-06 | 323 | 227 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 319 | 223 | 
 | 2023-01-12 | 319 | 222 | 
 | 2023-01-11 | 316 | 220 | 
-| 2023-01-10 | 315 | 219 | 
 

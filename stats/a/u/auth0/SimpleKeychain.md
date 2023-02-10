@@ -1,10 +1,10 @@
 # auth0/SimpleKeychain - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 70
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/auth0/SimpleKeychain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 434 | 70 | 
 | 2023-02-08 | 433 | 70 | 
 | 2023-02-07 | 433 | 70 | 
 | 2023-02-06 | 433 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 430 | 70 | 
 | 2023-01-12 | 430 | 70 | 
 | 2023-01-11 | 430 | 70 | 
-| 2023-01-10 | 430 | 70 | 
 

@@ -1,10 +1,10 @@
 # kusumi/netbsd_hammer2 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/kusumi/netbsd_hammer2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 43 | 2 | 
 | 2023-02-08 | 42 | 2 | 
 | 2023-02-07 | 42 | 2 | 
 | 2023-02-06 | 41 | 2 | 

@@ -1,10 +1,10 @@
 # lwch/natpass - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 377
 
-★ Stars: 3333
+★ Stars: 3338
 
 [Open repository](https://github.com/lwch/natpass)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3338 | 377 | 
 | 2023-02-08 | 3333 | 377 | 
 | 2023-02-07 | 3334 | 377 | 
 | 2023-02-06 | 3326 | 378 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3153 | 366 | 
 | 2023-01-12 | 3150 | 366 | 
 | 2023-01-11 | 3146 | 366 | 
-| 2023-01-10 | 3145 | 366 | 
 

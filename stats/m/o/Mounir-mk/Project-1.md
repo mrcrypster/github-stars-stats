@@ -1,6 +1,6 @@
 # Mounir-mk/Project-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1 | 5 | 
 | 2023-02-09 | 1 | 5 | 
 | 2023-02-07 | 1 | 5 | 
 | 2023-02-06 | 1 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 1 | 5 | 
 | 2023-01-12 | 1 | 5 | 
 | 2023-01-11 | 1 | 5 | 
-| 2023-01-10 | 1 | 4 | 
 

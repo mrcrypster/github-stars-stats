@@ -1,10 +1,10 @@
 # jgraph/drawio - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 6500
+☋ Forks: 6504
 
-★ Stars: 33045
+★ Stars: 33065
 
 [Open repository](https://github.com/jgraph/drawio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 33065 | 6504 | 
 | 2023-02-08 | 33045 | 6500 | 
 | 2023-02-07 | 33033 | 6499 | 
 | 2023-02-05 | 33018 | 6498 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 32768 | 6459 | 
 | 2023-01-12 | 32755 | 6458 | 
 | 2023-01-11 | 32740 | 6459 | 
-| 2023-01-10 | 32730 | 6457 | 
 

@@ -1,10 +1,10 @@
 # ToxSylph/SeaOfChoros - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/ToxSylph/SeaOfChoros)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 32 | 26 | 
 | 2023-02-07 | 31 | 25 | 
 | 2023-02-06 | 30 | 25 | 
 | 2023-02-05 | 29 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 27 | 22 | 
 | 2023-01-12 | 27 | 22 | 
 | 2023-01-11 | 27 | 22 | 
-| 2023-01-10 | 27 | 22 | 
 

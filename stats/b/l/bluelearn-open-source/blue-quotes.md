@@ -1,10 +1,10 @@
 # bluelearn-open-source/blue-quotes - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 122
 
-★ Stars: 55
+★ Stars: 54
 
 [Open repository](https://github.com/bluelearn-open-source/blue-quotes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 54 | 122 | 
 | 2023-02-08 | 55 | 122 | 
 | 2023-02-07 | 55 | 122 | 
 | 2023-02-06 | 55 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 57 | 123 | 
 | 2023-01-12 | 57 | 123 | 
 | 2023-01-11 | 57 | 123 | 
-| 2023-01-10 | 57 | 123 | 
 

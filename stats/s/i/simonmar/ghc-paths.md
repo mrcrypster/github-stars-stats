@@ -1,8 +1,8 @@
 # simonmar/ghc-paths - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 10 | 18 | 
 | 2023-02-08 | 10 | 17 | 
 | 2023-02-07 | 10 | 17 | 
 | 2023-02-06 | 10 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 10 | 17 | 
 | 2023-01-12 | 10 | 17 | 
 | 2023-01-11 | 10 | 17 | 
-| 2023-01-10 | 10 | 17 | 
 

@@ -1,10 +1,10 @@
 # kevquirk/simple.css - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 168
 
-★ Stars: 3225
+★ Stars: 3226
 
 [Open repository](https://github.com/kevquirk/simple.css)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3226 | 168 | 
 | 2023-02-08 | 3225 | 168 | 
 | 2023-02-07 | 3221 | 169 | 
 | 2023-02-06 | 3219 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3151 | 163 | 
 | 2023-01-12 | 3148 | 163 | 
 | 2023-01-11 | 3142 | 162 | 
-| 2023-01-10 | 3127 | 162 | 
 

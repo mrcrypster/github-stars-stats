@@ -1,10 +1,10 @@
 # MarceauKa/shaark - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 496
+★ Stars: 497
 
 [Open repository](https://github.com/MarceauKa/shaark)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 497 | 56 | 
 | 2023-02-08 | 496 | 55 | 
 | 2023-02-07 | 495 | 55 | 
 | 2023-02-06 | 495 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 488 | 54 | 
 | 2023-01-12 | 488 | 54 | 
 | 2023-01-11 | 488 | 54 | 
-| 2023-01-10 | 486 | 54 | 
 

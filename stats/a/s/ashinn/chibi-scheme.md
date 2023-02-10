@@ -1,10 +1,10 @@
 # ashinn/chibi-scheme - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 131
 
-★ Stars: 1030
+★ Stars: 1031
 
 [Open repository](https://github.com/ashinn/chibi-scheme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1031 | 131 | 
 | 2023-02-08 | 1030 | 131 | 
 | 2023-02-07 | 1030 | 131 | 
 | 2023-02-06 | 1030 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1025 | 131 | 
 | 2023-01-12 | 1025 | 131 | 
 | 2023-01-11 | 1025 | 132 | 
-| 2023-01-10 | 1025 | 132 | 
 

@@ -1,10 +1,10 @@
 # ARM-software/arm-trusted-firmware - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1167
 
-★ Stars: 1539
+★ Stars: 1540
 
 [Open repository](https://github.com/ARM-software/arm-trusted-firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1540 | 1167 | 
 | 2023-02-08 | 1539 | 1167 | 
 | 2023-02-07 | 1538 | 1167 | 
 | 2023-02-06 | 1538 | 1166 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1535 | 1164 | 
 | 2023-01-12 | 1534 | 1164 | 
 | 2023-01-11 | 1533 | 1162 | 
-| 2023-01-10 | 1532 | 1162 | 
 

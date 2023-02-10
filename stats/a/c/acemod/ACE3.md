@@ -1,6 +1,6 @@
 # acemod/ACE3 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 700
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 927 | 700 | 
 | 2023-02-08 | 927 | 700 | 
 | 2023-02-07 | 927 | 700 | 
 | 2023-02-06 | 927 | 700 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 929 | 700 | 
 | 2023-01-12 | 929 | 700 | 
 | 2023-01-11 | 928 | 699 | 
-| 2023-01-10 | 928 | 700 | 
 

@@ -1,6 +1,6 @@
 # oriansj/stage0 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 814 | 48 | 
 | 2023-02-08 | 814 | 48 | 
 | 2023-02-07 | 812 | 47 | 
 | 2023-02-06 | 811 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 800 | 46 | 
 | 2023-01-12 | 800 | 46 | 
 | 2023-01-11 | 800 | 46 | 
-| 2023-01-10 | 800 | 46 | 
 

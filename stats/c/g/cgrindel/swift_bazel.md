@@ -1,10 +1,10 @@
 # cgrindel/swift_bazel - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/cgrindel/swift_bazel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 25 | - | 
 | 2023-02-08 | 24 | - | 
 | 2023-02-07 | 24 | - | 
 | 2023-02-06 | 23 | - | 

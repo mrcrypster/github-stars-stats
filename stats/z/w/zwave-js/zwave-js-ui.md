@@ -1,8 +1,8 @@
 # zwave-js/zwave-js-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 149
+☋ Forks: 150
 
 ★ Stars: 688
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 688 | 150 | 
 | 2023-02-08 | 688 | 149 | 
 | 2023-02-06 | 689 | 149 | 
 | 2023-02-05 | 689 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 676 | 149 | 
 | 2023-01-12 | 675 | 149 | 
 | 2023-01-11 | 674 | 149 | 
-| 2023-01-10 | 673 | 148 | 
 

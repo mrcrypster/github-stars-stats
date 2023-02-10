@@ -1,10 +1,10 @@
 # clojure-emacs/clojure-ts-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/clojure-emacs/clojure-ts-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 36 | - | 
 | 2023-02-08 | 34 | - | 
 | 2023-02-07 | 28 | - | 
 | 2023-02-06 | 28 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 26 | - | 
 | 2023-01-13 | 26 | - | 
 | 2023-01-11 | 26 | - | 
-| 2023-01-10 | 26 | - | 
 

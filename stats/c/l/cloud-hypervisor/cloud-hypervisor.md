@@ -1,10 +1,10 @@
 # cloud-hypervisor/cloud-hypervisor - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 322
 
-★ Stars: 2466
+★ Stars: 2468
 
 [Open repository](https://github.com/cloud-hypervisor/cloud-hypervisor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2468 | 322 | 
 | 2023-02-08 | 2466 | 322 | 
 | 2023-02-07 | 2462 | 321 | 
 | 2023-02-06 | 2461 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2412 | 315 | 
 | 2023-01-12 | 2412 | 315 | 
 | 2023-01-11 | 2410 | 315 | 
-| 2023-01-10 | 2409 | 315 | 
 

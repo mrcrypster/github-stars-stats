@@ -1,10 +1,10 @@
 # svenstaro/miniserve - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 232
 
-★ Stars: 4263
+★ Stars: 4269
 
 [Open repository](https://github.com/svenstaro/miniserve)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 4269 | 232 | 
 | 2023-02-08 | 4263 | 232 | 
 | 2023-02-07 | 4259 | 231 | 
 | 2023-02-06 | 4255 | 231 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 4183 | 225 | 
 | 2023-01-12 | 4180 | 224 | 
 | 2023-01-11 | 4174 | 224 | 
-| 2023-01-10 | 4170 | 224 | 
 

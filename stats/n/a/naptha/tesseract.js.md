@@ -1,10 +1,10 @@
 # naptha/tesseract.js - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1972
 
-★ Stars: 29426
+★ Stars: 29430
 
 [Open repository](https://github.com/naptha/tesseract.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 29430 | 1972 | 
 | 2023-02-08 | 29426 | 1972 | 
 | 2023-02-07 | 29421 | 1972 | 
 | 2023-02-06 | 29413 | 1972 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 29271 | 1961 | 
 | 2023-01-13 | 29265 | 1960 | 
 | 2023-01-12 | 29257 | 1960 | 
-| 2023-01-10 | 29244 | 1958 | 
 

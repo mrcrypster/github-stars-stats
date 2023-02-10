@@ -1,6 +1,6 @@
 # avik-pal/Lux.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 262 | 20 | 
 | 2023-02-08 | 262 | 20 | 
 | 2023-02-07 | 262 | 20 | 
 | 2023-02-06 | 262 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 258 | 18 | 
 | 2023-01-12 | 256 | 18 | 
 | 2023-01-11 | 256 | 18 | 
-| 2023-01-10 | 256 | 18 | 
 

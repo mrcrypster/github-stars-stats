@@ -1,10 +1,10 @@
 # LukasMasuch/best-of-react - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 32
 
-★ Stars: 383
+★ Stars: 385
 
 [Open repository](https://github.com/LukasMasuch/best-of-react)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 385 | 32 | 
 | 2023-02-08 | 383 | 32 | 
 | 2023-02-07 | 383 | 32 | 
 | 2023-02-05 | 382 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 370 | 30 | 
 | 2023-01-12 | 368 | 30 | 
 | 2023-01-11 | 368 | 30 | 
-| 2023-01-10 | 368 | 30 | 
 

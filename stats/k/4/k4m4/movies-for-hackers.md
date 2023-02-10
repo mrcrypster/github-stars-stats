@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 885
 
-★ Stars: 9511
+★ Stars: 9513
 
 [Open repository](https://github.com/k4m4/movies-for-hackers)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 9511 | 885 | 
+| 2023-02-09 | 9513 | 885 | 
 | 2023-02-08 | 9511 | 885 | 
 | 2023-02-07 | 9506 | 883 | 
 | 2023-02-06 | 9504 | 882 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 9475 | 880 | 
 | 2023-01-12 | 9475 | 880 | 
 | 2023-01-11 | 9474 | 880 | 
-| 2023-01-10 | 9468 | 881 | 
 

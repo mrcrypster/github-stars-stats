@@ -1,10 +1,10 @@
 # zhsitao/gi-bin-output - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 85
 
-★ Stars: 62
+★ Stars: 61
 
 [Open repository](https://github.com/zhsitao/gi-bin-output)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 61 | 85 | 
 | 2023-02-08 | 62 | 85 | 
 | 2023-02-07 | 62 | 85 | 
 | 2023-02-06 | 62 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 62 | 85 | 
 | 2023-01-12 | 62 | 85 | 
 | 2023-01-11 | 62 | 85 | 
-| 2023-01-10 | 62 | 85 | 
 

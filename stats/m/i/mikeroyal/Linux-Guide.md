@@ -1,10 +1,10 @@
 # mikeroyal/Linux-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/mikeroyal/Linux-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 158 | 8 | 
 | 2023-02-08 | 157 | 8 | 
 | 2023-02-07 | 157 | 8 | 
 | 2023-02-06 | 156 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 145 | 9 | 
 | 2023-01-12 | 145 | 9 | 
 | 2023-01-11 | 145 | 9 | 
-| 2023-01-10 | 144 | 9 | 
 

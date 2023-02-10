@@ -1,6 +1,6 @@
 # don-tnowe/godot-resources-as-sheets-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 60 | 2 | 
 | 2023-02-07 | 60 | 2 | 
 | 2023-02-06 | 60 | 2 | 
 | 2023-02-05 | 59 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 53 | 2 | 
 | 2023-01-12 | 53 | 2 | 
 | 2023-01-11 | 53 | 2 | 
-| 2023-01-10 | 53 | 2 | 
 

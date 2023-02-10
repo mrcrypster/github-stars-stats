@@ -1,6 +1,6 @@
 # allegheny-college-cmpsc-202-spring-2023/class-materials - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | - | 15 | 
 | 2023-02-08 | - | 15 | 
 | 2023-02-07 | - | 13 | 
 | 2023-02-06 | - | 13 | 

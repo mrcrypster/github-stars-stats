@@ -1,10 +1,10 @@
 # microsoft/xdp-for-windows - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 26
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/microsoft/xdp-for-windows)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 245 | 26 | 
 | 2023-02-08 | 244 | 26 | 
 | 2023-02-07 | 244 | 25 | 
 | 2023-02-05 | 244 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 234 | 24 | 
 | 2023-01-12 | 234 | 24 | 
 | 2023-01-11 | 233 | 24 | 
-| 2023-01-10 | 233 | 24 | 
 

@@ -1,6 +1,6 @@
 # ar33zy/Nimjector - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 35 | 1 | 
 | 2023-02-08 | 35 | 1 | 
 | 2023-02-06 | 35 | 1 | 
 | 2023-02-05 | 35 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 33 | 1 | 
 | 2023-01-13 | 32 | 1 | 
 | 2023-01-11 | 32 | 1 | 
-| 2023-01-10 | 32 | 1 | 
 

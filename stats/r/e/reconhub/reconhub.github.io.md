@@ -1,6 +1,6 @@
 # reconhub/reconhub.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 27 | 68 | 
 | 2023-02-08 | 27 | 68 | 
 | 2023-02-07 | 27 | 68 | 
 | 2023-02-06 | 27 | 68 | 

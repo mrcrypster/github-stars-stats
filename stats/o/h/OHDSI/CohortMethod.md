@@ -1,10 +1,10 @@
 # OHDSI/CohortMethod - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 54
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/OHDSI/CohortMethod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 71 | 54 | 
 | 2023-02-09 | 70 | 54 | 
 | 2023-02-07 | 70 | 54 | 
 | 2023-02-06 | 70 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-13 | 69 | 53 | 
 | 2023-01-12 | 69 | 53 | 
 | 2023-01-11 | 69 | 53 | 
-| 2023-01-10 | 69 | 53 | 
 

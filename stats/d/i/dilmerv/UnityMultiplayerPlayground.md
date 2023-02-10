@@ -1,6 +1,6 @@
 # dilmerv/UnityMultiplayerPlayground - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 99 | 56 | 
 | 2023-02-07 | 99 | 56 | 
 | 2023-02-06 | 99 | 56 | 
 | 2023-02-05 | 98 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 97 | 55 | 
 | 2023-01-12 | 97 | 55 | 
 | 2023-01-11 | 97 | 55 | 
-| 2023-01-10 | 97 | 55 | 
 

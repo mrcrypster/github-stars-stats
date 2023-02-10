@@ -1,10 +1,10 @@
 # capnproto/capnproto - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 817
 
-★ Stars: 9635
+★ Stars: 9638
 
 [Open repository](https://github.com/capnproto/capnproto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 9638 | 817 | 
 | 2023-02-08 | 9635 | 817 | 
 | 2023-02-07 | 9632 | 816 | 
 | 2023-02-06 | 9627 | 815 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 9529 | 806 | 
 | 2023-01-12 | 9526 | 806 | 
 | 2023-01-11 | 9524 | 807 | 
-| 2023-01-10 | 9521 | 807 | 
 

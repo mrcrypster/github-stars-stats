@@ -1,10 +1,10 @@
 # Fluvian/tpp - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 18
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/Fluvian/tpp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 94 | 18 | 
 | 2023-02-07 | 93 | 18 | 
 | 2023-02-06 | 93 | 18 | 
 | 2023-02-05 | 93 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 91 | 18 | 
 | 2023-01-12 | 91 | 18 | 
 | 2023-01-11 | 91 | 18 | 
-| 2023-01-10 | 89 | 18 | 
 

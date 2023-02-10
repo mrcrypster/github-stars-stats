@@ -1,6 +1,6 @@
 # weiweihuanghuang/fragment-mono - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 514 | 5 | 
 | 2023-02-07 | 514 | 5 | 
 | 2023-02-06 | 513 | 5 | 
 | 2023-02-05 | 512 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 502 | 5 | 
 | 2023-01-12 | 502 | 5 | 
 | 2023-01-11 | 501 | 5 | 
-| 2023-01-10 | 499 | 5 | 
 

@@ -1,10 +1,10 @@
 # ntoskrnl7/crtsys - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 23
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/ntoskrnl7/crtsys)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 133 | 23 | 
 | 2023-02-08 | 132 | 23 | 
 | 2023-02-07 | 130 | 23 | 
 | 2023-02-06 | 130 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 123 | 23 | 
 | 2023-01-12 | 123 | 23 | 
 | 2023-01-11 | 123 | 23 | 
-| 2023-01-10 | 123 | 23 | 
 

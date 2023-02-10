@@ -1,6 +1,6 @@
 # f4llenz/tse-dados-abertos - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 20 | 10 | 
 | 2023-02-08 | 20 | 10 | 
 | 2023-02-07 | 20 | 10 | 
 | 2023-02-06 | 20 | 10 | 

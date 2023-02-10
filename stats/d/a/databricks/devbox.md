@@ -1,6 +1,6 @@
 # databricks/devbox - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 37 | 13 | 
 | 2023-02-08 | 37 | 13 | 
 | 2023-02-07 | 37 | 13 | 
 | 2023-02-06 | 37 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 37 | 13 | 
 | 2023-01-13 | 37 | 13 | 
 | 2023-01-12 | 37 | 13 | 
-| 2023-01-10 | 37 | 13 | 
 

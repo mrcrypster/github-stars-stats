@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 155
 
-★ Stars: 1828
+★ Stars: 1830
 
 [Open repository](https://github.com/remote-android/redroid-doc)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 1828 | 155 | 
+| 2023-02-09 | 1830 | 155 | 
 | 2023-02-08 | 1828 | 155 | 
 | 2023-02-07 | 1822 | 155 | 
 | 2023-02-06 | 1810 | 154 | 

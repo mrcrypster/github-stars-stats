@@ -1,10 +1,10 @@
 # YunaBraska/nats-server-embedded - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 67
+☋ Forks: 94
 
-★ Stars: 140
+★ Stars: 167
 
 [Open repository](https://github.com/YunaBraska/nats-server-embedded)
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 167 | 94 | 
+| 2023-02-09 | 167 | 94 | 
 | 2023-02-08 | 140 | 67 | 
 

@@ -1,10 +1,10 @@
 # Palakis/obs-ndi - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 300
 
-★ Stars: 2519
+★ Stars: 2522
 
 [Open repository](https://github.com/Palakis/obs-ndi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2522 | 300 | 
 | 2023-02-08 | 2519 | 300 | 
 | 2023-02-07 | 2518 | 300 | 
 | 2023-02-06 | 2517 | 300 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2485 | 295 | 
 | 2023-01-13 | 2484 | 295 | 
 | 2023-01-12 | 2481 | 296 | 
-| 2023-01-10 | 2480 | 296 | 
 

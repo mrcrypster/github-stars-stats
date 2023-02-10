@@ -1,10 +1,10 @@
 # parallax-labs-team/optimus - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/parallax-labs-team/optimus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1 | - | 
 | 2023-02-08 | - | - | 
 | 2023-02-07 | - | - | 
 | 2023-02-06 | - | - | 

@@ -1,10 +1,10 @@
 # guilhermeonrails/desafios_da_imerssao - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 26
+☋ Forks: 28
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/guilhermeonrails/desafios_da_imerssao)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 42 | 28 | 
 | 2023-02-08 | 40 | 26 | 
 | 2023-02-07 | 38 | 26 | 
 | 2023-02-06 | 31 | 18 | 

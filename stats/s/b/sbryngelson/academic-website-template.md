@@ -1,10 +1,10 @@
 # sbryngelson/academic-website-template - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 85
 
-★ Stars: 56
+★ Stars: 58
 
 [Open repository](https://github.com/sbryngelson/academic-website-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 58 | 85 | 
 | 2023-02-08 | 56 | 85 | 
 | 2023-02-07 | 56 | 85 | 
 | 2023-02-06 | 56 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 49 | 76 | 
 | 2023-01-12 | 48 | 76 | 
 | 2023-01-11 | 48 | 75 | 
-| 2023-01-10 | 48 | 75 | 
 

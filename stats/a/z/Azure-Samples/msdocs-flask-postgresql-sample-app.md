@@ -1,10 +1,10 @@
 # Azure-Samples/msdocs-flask-postgresql-sample-app - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/Azure-Samples/msdocs-flask-postgresql-sample-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 17 | 143 | 
 | 2023-02-08 | 15 | 142 | 
 | 2023-02-07 | 15 | 141 | 
 | 2023-02-06 | 14 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 13 | 122 | 
 | 2023-01-12 | 13 | 122 | 
 | 2023-01-11 | 13 | 120 | 
-| 2023-01-10 | 13 | 119 | 
 

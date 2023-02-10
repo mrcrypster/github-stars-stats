@@ -1,10 +1,10 @@
 # esp8266/Arduino - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 13082
+☋ Forks: 13084
 
-★ Stars: 14714
+★ Stars: 14715
 
 [Open repository](https://github.com/esp8266/Arduino)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 14715 | 13084 | 
 | 2023-02-08 | 14714 | 13082 | 
 | 2023-02-06 | 14712 | 13081 | 
 | 2023-02-05 | 14710 | 13071 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 14663 | 13014 | 
 | 2023-01-13 | 14661 | 13011 | 
 | 2023-01-11 | 14654 | 13004 | 
-| 2023-01-10 | 14650 | 13003 | 
 

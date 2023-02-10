@@ -1,6 +1,6 @@
 # arch-linux-gui/arch-linux-gui-plasma - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 23 | 12 | 
 | 2023-02-08 | 23 | 12 | 
 | 2023-02-07 | 23 | 12 | 
 | 2023-02-06 | 23 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 22 | 11 | 
 | 2023-01-12 | 22 | 11 | 
 | 2023-01-11 | 22 | 11 | 
-| 2023-01-10 | 22 | 11 | 
 

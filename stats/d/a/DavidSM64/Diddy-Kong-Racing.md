@@ -1,6 +1,6 @@
 # DavidSM64/Diddy-Kong-Racing - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 108 | 12 | 
 | 2023-02-08 | 108 | 12 | 
 | 2023-02-07 | 108 | 12 | 
 | 2023-02-06 | 108 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 99 | 12 | 
 | 2023-01-12 | 98 | 12 | 
 | 2023-01-11 | 98 | 12 | 
-| 2023-01-10 | 97 | 12 | 
 

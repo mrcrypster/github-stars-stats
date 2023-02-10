@@ -1,10 +1,10 @@
 # hibernate/hibernate-orm - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3202
 
-★ Stars: 5274
+★ Stars: 5275
 
 [Open repository](https://github.com/hibernate/hibernate-orm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5275 | 3202 | 
 | 2023-02-08 | 5274 | 3202 | 
 | 2023-02-07 | 5274 | 3202 | 
 | 2023-02-06 | 5273 | 3202 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 5237 | 3197 | 
 | 2023-01-12 | 5233 | 3197 | 
 | 2023-01-11 | 5227 | 3196 | 
-| 2023-01-10 | 5226 | 3196 | 
 

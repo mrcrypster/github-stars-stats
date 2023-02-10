@@ -1,10 +1,10 @@
 # froala/wysiwyg-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 654
 
-★ Stars: 5037
+★ Stars: 5038
 
 [Open repository](https://github.com/froala/wysiwyg-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5038 | 654 | 
 | 2023-02-08 | 5037 | 654 | 
 | 2023-02-07 | 5034 | 654 | 
 | 2023-02-06 | 5033 | 654 | 

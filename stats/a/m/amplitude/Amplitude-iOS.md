@@ -1,6 +1,6 @@
 # amplitude/Amplitude-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 270 | 175 | 
 | 2023-02-08 | 270 | 175 | 
 | 2023-02-07 | 269 | 174 | 
 | 2023-02-06 | 269 | 174 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 266 | 174 | 
 | 2023-01-12 | 266 | 174 | 
 | 2023-01-11 | 266 | 174 | 
-| 2023-01-10 | 266 | 174 | 
 

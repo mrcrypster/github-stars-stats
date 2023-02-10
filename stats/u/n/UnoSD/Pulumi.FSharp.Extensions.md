@@ -1,6 +1,6 @@
 # UnoSD/Pulumi.FSharp.Extensions - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 81 | 4 | 
 | 2023-02-07 | 81 | 4 | 
 | 2023-02-06 | 81 | 4 | 
 | 2023-02-05 | 81 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 81 | 4 | 
 | 2023-01-12 | 81 | 4 | 
 | 2023-01-11 | 80 | 4 | 
-| 2023-01-10 | 79 | 4 | 
 

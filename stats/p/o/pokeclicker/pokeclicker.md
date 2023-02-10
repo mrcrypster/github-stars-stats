@@ -1,8 +1,8 @@
 # pokeclicker/pokeclicker - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 263
+☋ Forks: 262
 
 ★ Stars: 405
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 405 | 262 | 
 | 2023-02-08 | 405 | 263 | 
 | 2023-02-07 | 404 | 263 | 
 | 2023-02-06 | 404 | 264 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 398 | 258 | 
 | 2023-01-12 | 398 | 258 | 
 | 2023-01-11 | 397 | 258 | 
-| 2023-01-10 | 397 | 258 | 
 

@@ -1,10 +1,10 @@
 # Fizzadar/pyinfra - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 302
 
-★ Stars: 2181
+★ Stars: 2182
 
 [Open repository](https://github.com/Fizzadar/pyinfra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2182 | 302 | 
 | 2023-02-08 | 2181 | 302 | 
 | 2023-02-07 | 2181 | 302 | 
 | 2023-02-06 | 2179 | 301 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2140 | 300 | 
 | 2023-01-12 | 2139 | 300 | 
 | 2023-01-11 | 2136 | 300 | 
-| 2023-01-10 | 2133 | 300 | 
 

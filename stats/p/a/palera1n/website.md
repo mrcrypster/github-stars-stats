@@ -1,10 +1,10 @@
 # palera1n/website - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/palera1n/website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6 | 1 | 
 | 2023-02-08 | 5 | 1 | 
 | 2023-02-07 | 4 | 1 | 
 | 2023-02-06 | 4 | 1 | 

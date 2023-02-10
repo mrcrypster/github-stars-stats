@@ -1,8 +1,8 @@
 # crisostomi/gladia-website - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6 | 17 | 
 | 2023-02-08 | 6 | 16 | 
 | 2023-02-07 | 4 | 13 | 
 | 2023-02-06 | 4 | 13 | 

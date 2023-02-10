@@ -1,6 +1,6 @@
 # krakendio/krakend-ce - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 359
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1115 | 359 | 
 | 2023-02-08 | 1115 | 359 | 
 | 2023-02-07 | 1114 | 358 | 
 | 2023-02-06 | 1113 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1084 | 354 | 
 | 2023-01-12 | 1083 | 353 | 
 | 2023-01-11 | 1083 | 353 | 
-| 2023-01-10 | 1082 | 353 | 
 

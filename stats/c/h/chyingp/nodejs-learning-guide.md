@@ -1,6 +1,6 @@
 # chyingp/nodejs-learning-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1197
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6680 | 1197 | 
 | 2023-02-08 | 6680 | 1197 | 
 | 2023-02-07 | 6678 | 1197 | 
 | 2023-02-06 | 6678 | 1197 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 6678 | 1196 | 
 | 2023-01-13 | 6677 | 1197 | 
 | 2023-01-12 | 6676 | 1197 | 
-| 2023-01-11 | 6675 | 1197 | 
 

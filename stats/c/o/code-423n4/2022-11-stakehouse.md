@@ -1,6 +1,6 @@
 # code-423n4/2022-11-stakehouse - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2 | 6 | 
 | 2023-02-08 | 2 | 6 | 
 | 2023-02-07 | 2 | 6 | 
 | 2023-02-06 | 2 | 6 | 

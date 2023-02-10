@@ -1,6 +1,6 @@
 # spring-projects/spring-authorization-server - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1003
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4132 | 1003 | 
 | 2023-02-07 | 4132 | 1003 | 
 | 2023-02-06 | 4129 | 1004 | 
 | 2023-02-05 | 4126 | 1005 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 4105 | 988 | 
 | 2023-01-12 | 4098 | 986 | 
 | 2023-01-11 | 4096 | 985 | 
-| 2023-01-10 | 4095 | 985 | 
 

@@ -1,10 +1,10 @@
 # docker/docker-bench-security - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 950
 
-★ Stars: 8191
+★ Stars: 8193
 
 [Open repository](https://github.com/docker/docker-bench-security)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 8193 | 950 | 
 | 2023-02-08 | 8191 | 950 | 
 | 2023-02-07 | 8185 | 949 | 
 | 2023-02-06 | 8182 | 949 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 8148 | 945 | 
 | 2023-01-12 | 8147 | 944 | 
 | 2023-01-11 | 8145 | 944 | 
-| 2023-01-10 | 8143 | 943 | 
 

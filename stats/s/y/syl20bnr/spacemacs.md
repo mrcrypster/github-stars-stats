@@ -1,10 +1,10 @@
 # syl20bnr/spacemacs - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 4944
+☋ Forks: 4945
 
-★ Stars: 22796
+★ Stars: 22800
 
 [Open repository](https://github.com/syl20bnr/spacemacs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 22800 | 4945 | 
 | 2023-02-08 | 22796 | 4944 | 
 | 2023-02-07 | 22793 | 4944 | 
 | 2023-02-06 | 22790 | 4943 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 22746 | 4946 | 
 | 2023-01-12 | 22744 | 4946 | 
 | 2023-01-11 | 22746 | 4946 | 
-| 2023-01-10 | 22742 | 4944 | 
 

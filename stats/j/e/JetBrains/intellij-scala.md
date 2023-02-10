@@ -1,10 +1,10 @@
 # JetBrains/intellij-scala - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 387
 
-★ Stars: 1101
+★ Stars: 1102
 
 [Open repository](https://github.com/JetBrains/intellij-scala)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1102 | 387 | 
 | 2023-02-08 | 1101 | 387 | 
 | 2023-02-07 | 1101 | 387 | 
 | 2023-02-06 | 1101 | 387 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1101 | 387 | 
 | 2023-01-12 | 1101 | 387 | 
 | 2023-01-11 | 1101 | 387 | 
-| 2023-01-10 | 1101 | 388 | 
 

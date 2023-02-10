@@ -1,8 +1,8 @@
 # woodrush/lambda-8cc - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 548
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 548 | 11 | 
 | 2023-02-08 | 548 | 10 | 
 | 2023-02-07 | 548 | 10 | 
 | 2023-02-06 | 548 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 547 | 10 | 
 | 2023-01-12 | 546 | 10 | 
 | 2023-01-11 | 546 | 10 | 
-| 2023-01-10 | 546 | 10 | 
 

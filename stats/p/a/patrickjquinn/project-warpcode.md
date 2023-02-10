@@ -1,6 +1,6 @@
 # patrickjquinn/project-warpcode - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 34 | 3 | 
 | 2023-02-08 | 34 | 3 | 
 | 2023-02-06 | 34 | 3 | 
 | 2023-02-05 | 34 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 33 | 1 | 
 | 2023-01-12 | 32 | - | 
 | 2023-01-11 | 32 | - | 
-| 2023-01-10 | 32 | - | 
 

@@ -1,10 +1,10 @@
 # dshekhalev/FEC - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/dshekhalev/FEC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 22 | 5 | 
 | 2023-02-08 | 21 | 5 | 
 | 2023-02-07 | 21 | 5 | 
 | 2023-02-06 | 21 | 5 | 

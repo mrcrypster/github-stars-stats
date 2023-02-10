@@ -1,6 +1,6 @@
 # bachmitre/tabmanager - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 46 | 1 | 
 | 2023-02-08 | 46 | 1 | 
 | 2023-02-07 | 46 | 1 | 
 | 2023-02-06 | 46 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 45 | 1 | 
 | 2023-01-12 | 45 | 1 | 
 | 2023-01-11 | 45 | 1 | 
-| 2023-01-10 | 45 | 1 | 
 

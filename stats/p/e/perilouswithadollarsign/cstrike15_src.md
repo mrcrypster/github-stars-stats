@@ -1,10 +1,10 @@
 # perilouswithadollarsign/cstrike15_src - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 681
 
-★ Stars: 1176
+★ Stars: 1177
 
 [Open repository](https://github.com/perilouswithadollarsign/cstrike15_src)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1177 | 681 | 
 | 2023-02-08 | 1176 | 681 | 
 | 2023-02-07 | 1173 | 681 | 
 | 2023-02-06 | 1171 | 680 | 

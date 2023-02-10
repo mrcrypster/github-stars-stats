@@ -1,10 +1,10 @@
 # jorgef/engineeringladders - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 435
+☋ Forks: 436
 
-★ Stars: 6944
+★ Stars: 6948
 
 [Open repository](https://github.com/jorgef/engineeringladders)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 6948 | 436 | 
 | 2023-02-08 | 6944 | 435 | 
 | 2023-02-07 | 6942 | 435 | 
 | 2023-02-06 | 6936 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 6883 | 430 | 
 | 2023-01-12 | 6880 | 427 | 
 | 2023-01-11 | 6873 | 425 | 
-| 2023-01-10 | 6868 | 425 | 
 

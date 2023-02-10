@@ -1,10 +1,10 @@
 # ApiGen/ApiGen - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 320
 
-★ Stars: 2119
+★ Stars: 2120
 
 [Open repository](https://github.com/ApiGen/ApiGen)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2120 | 320 | 
 | 2023-02-08 | 2119 | 320 | 
 | 2023-02-07 | 2118 | 320 | 
 | 2023-02-06 | 2117 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2112 | 321 | 
 | 2023-01-12 | 2112 | 321 | 
 | 2023-01-11 | 2112 | 321 | 
-| 2023-01-10 | 2111 | 321 | 
 

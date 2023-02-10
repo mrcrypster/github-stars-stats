@@ -1,6 +1,6 @@
 # liamoc/holbert - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 151 | 6 | 
 | 2023-02-08 | 151 | 6 | 
 | 2023-02-07 | 151 | 6 | 
 | 2023-02-06 | 151 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 149 | 6 | 
 | 2023-01-12 | 149 | 6 | 
 | 2023-01-11 | 149 | 6 | 
-| 2023-01-10 | 149 | 6 | 
 

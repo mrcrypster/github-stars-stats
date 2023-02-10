@@ -1,10 +1,10 @@
 # major/MySQLTuner-perl - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1226
+☋ Forks: 1227
 
-★ Stars: 7948
+★ Stars: 7949
 
 [Open repository](https://github.com/major/MySQLTuner-perl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 7949 | 1227 | 
 | 2023-02-08 | 7948 | 1226 | 
 | 2023-02-07 | 7946 | 1226 | 
 | 2023-02-06 | 7942 | 1224 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 7894 | 1218 | 
 | 2023-01-12 | 7894 | 1218 | 
 | 2023-01-11 | 7888 | 1217 | 
-| 2023-01-10 | 7886 | 1217 | 
 

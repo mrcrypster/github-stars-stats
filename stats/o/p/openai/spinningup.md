@@ -1,10 +1,10 @@
 # openai/spinningup - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1814
+☋ Forks: 1818
 
-★ Stars: 7779
+★ Stars: 7788
 
 [Open repository](https://github.com/openai/spinningup)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 7788 | 1818 | 
 | 2023-02-08 | 7779 | 1814 | 
 | 2023-02-07 | 7767 | 1813 | 
 | 2023-02-06 | 7753 | 1811 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 7640 | 1782 | 
 | 2023-01-12 | 7636 | 1781 | 
 | 2023-01-11 | 7632 | 1779 | 
-| 2023-01-10 | 7629 | 1776 | 
 

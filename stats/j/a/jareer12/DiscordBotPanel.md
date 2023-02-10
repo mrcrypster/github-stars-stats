@@ -1,10 +1,10 @@
 # jareer12/DiscordBotPanel - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 28
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/jareer12/DiscordBotPanel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 249 | 28 | 
 | 2023-02-08 | 248 | 28 | 
 | 2023-02-07 | 248 | 28 | 
 | 2023-02-06 | 249 | 28 | 

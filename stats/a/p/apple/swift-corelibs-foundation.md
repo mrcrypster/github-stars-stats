@@ -1,8 +1,8 @@
 # apple/swift-corelibs-foundation - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1099
+☋ Forks: 1100
 
 ★ Stars: 4875
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4875 | 1100 | 
 | 2023-02-08 | 4875 | 1099 | 
 | 2023-02-07 | 4873 | 1098 | 
 | 2023-02-06 | 4871 | 1098 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 4854 | 1093 | 
 | 2023-01-12 | 4852 | 1093 | 
 | 2023-01-11 | 4846 | 1093 | 
-| 2023-01-10 | 4842 | 1092 | 
 

@@ -1,10 +1,10 @@
 # Magisk-Modules-Repo/MagiskHidePropsConf - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 231
+☋ Forks: 232
 
-★ Stars: 1556
+★ Stars: 1560
 
 [Open repository](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1560 | 232 | 
 | 2023-02-08 | 1556 | 231 | 
 | 2023-02-07 | 1555 | 230 | 
 | 2023-02-06 | 1555 | 230 | 

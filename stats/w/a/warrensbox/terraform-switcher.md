@@ -1,10 +1,10 @@
 # warrensbox/terraform-switcher - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 112
 
-★ Stars: 1091
+★ Stars: 1092
 
 [Open repository](https://github.com/warrensbox/terraform-switcher)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1092 | 112 | 
 | 2023-02-08 | 1091 | 112 | 
 | 2023-02-07 | 1091 | 112 | 
 | 2023-02-06 | 1091 | 112 | 

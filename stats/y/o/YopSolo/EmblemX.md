@@ -1,8 +1,8 @@
 # YopSolo/EmblemX - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2 | 18 | 
 | 2023-02-08 | 2 | 17 | 
 | 2023-02-07 | 2 | 17 | 
 | 2023-02-06 | 2 | 17 | 

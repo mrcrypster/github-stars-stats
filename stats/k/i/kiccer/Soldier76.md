@@ -1,10 +1,10 @@
 # kiccer/Soldier76 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 270
+☋ Forks: 271
 
-★ Stars: 1062
+★ Stars: 1060
 
 [Open repository](https://github.com/kiccer/Soldier76)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1060 | 271 | 
 | 2023-02-08 | 1062 | 270 | 
 | 2023-02-07 | 1062 | 270 | 
 | 2023-02-06 | 1060 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1033 | 270 | 
 | 2023-01-12 | 1033 | 269 | 
 | 2023-01-11 | 1034 | 268 | 
-| 2023-01-10 | 1033 | 269 | 
 

@@ -1,10 +1,10 @@
 # akoutmos/ecto_dbg - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/akoutmos/ecto_dbg)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 52 | - | 
+| 2023-02-09 | 51 | - | 
 | 2023-02-08 | 51 | - | 
 | 2023-02-07 | 46 | - | 
 | 2023-02-06 | 42 | - | 

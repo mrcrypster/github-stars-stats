@@ -1,10 +1,10 @@
 # optonaut/ActiveLabel.swift - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 662
 
-★ Stars: 4236
+★ Stars: 4238
 
 [Open repository](https://github.com/optonaut/ActiveLabel.swift)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4238 | 662 | 
 | 2023-02-08 | 4236 | 662 | 
 | 2023-02-07 | 4235 | 662 | 
 | 2023-02-06 | 4232 | 662 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 4218 | 657 | 
 | 2023-01-13 | 4218 | 656 | 
 | 2023-01-12 | 4217 | 656 | 
-| 2023-01-11 | 4216 | 656 | 
 

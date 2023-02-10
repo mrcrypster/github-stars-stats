@@ -1,10 +1,10 @@
 # openhwgroup/core-v-verif - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 146
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/openhwgroup/core-v-verif)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 261 | 146 | 
 | 2023-02-08 | 260 | 146 | 
 | 2023-02-07 | 258 | 145 | 
 | 2023-02-06 | 258 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 250 | 143 | 
 | 2023-01-12 | 248 | 143 | 
 | 2023-01-11 | 248 | 143 | 
-| 2023-01-10 | 248 | 142 | 
 

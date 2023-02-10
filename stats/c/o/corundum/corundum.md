@@ -1,6 +1,6 @@
 # corundum/corundum - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1041 | 269 | 
 | 2023-02-08 | 1041 | 269 | 
 | 2023-02-07 | 1041 | 269 | 
 | 2023-02-06 | 1041 | 269 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 1027 | 267 | 
 | 2023-01-13 | 1026 | 266 | 
 | 2023-01-12 | 1026 | 266 | 
-| 2023-01-11 | 1025 | 265 | 
 

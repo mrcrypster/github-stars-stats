@@ -1,6 +1,6 @@
 # euler0/sublime-glsl - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 114 | 18 | 
 | 2023-02-08 | 114 | 18 | 
 | 2023-02-07 | 114 | 18 | 
 | 2023-02-06 | 114 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 114 | 18 | 
 | 2023-01-12 | 114 | 18 | 
 | 2023-01-11 | 114 | 18 | 
-| 2023-01-10 | 114 | 18 | 
 

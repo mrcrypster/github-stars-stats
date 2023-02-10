@@ -1,10 +1,10 @@
 # yonggekkk/doprax-xray - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 2664
+☋ Forks: 2714
 
-★ Stars: 627
+★ Stars: 643
 
 [Open repository](https://github.com/yonggekkk/doprax-xray)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 643 | 2714 | 
 | 2023-02-08 | 627 | 2664 | 
 | 2023-02-07 | 611 | 2609 | 
 | 2023-02-06 | 598 | 2568 | 

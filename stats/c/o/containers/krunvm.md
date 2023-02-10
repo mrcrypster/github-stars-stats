@@ -1,10 +1,10 @@
 # containers/krunvm - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 30
 
-★ Stars: 1132
+★ Stars: 1133
 
 [Open repository](https://github.com/containers/krunvm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1133 | 30 | 
 | 2023-02-08 | 1132 | 30 | 
 | 2023-02-07 | 1130 | 30 | 
 | 2023-02-06 | 1130 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 1122 | 30 | 
 | 2023-01-12 | 1120 | 29 | 
 | 2023-01-11 | 1118 | 29 | 
-| 2023-01-10 | 1117 | 29 | 
 

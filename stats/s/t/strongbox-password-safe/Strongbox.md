@@ -1,6 +1,6 @@
 # strongbox-password-safe/Strongbox - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1004 | 81 | 
 | 2023-02-08 | 1004 | 81 | 
 | 2023-02-06 | 1004 | 80 | 
 | 2023-02-05 | 1003 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 990 | 79 | 
 | 2023-01-12 | 988 | 79 | 
 | 2023-01-11 | 988 | 79 | 
-| 2023-01-10 | 987 | 79 | 
 

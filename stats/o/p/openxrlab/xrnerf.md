@@ -1,10 +1,10 @@
 # openxrlab/xrnerf - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 390
+★ Stars: 393
 
 [Open repository](https://github.com/openxrlab/xrnerf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 393 | 31 | 
 | 2023-02-08 | 390 | 30 | 
 | 2023-02-07 | 389 | 30 | 
 | 2023-02-05 | 389 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 260 | 19 | 
 | 2023-01-12 | 260 | 17 | 
 | 2023-01-11 | 260 | 17 | 
-| 2023-01-10 | 259 | 17 | 
 

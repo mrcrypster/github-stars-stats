@@ -1,10 +1,10 @@
 # Alcibiades-Capital/mev_bundle_generator - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 109
 
-★ Stars: 513
+★ Stars: 512
 
 [Open repository](https://github.com/Alcibiades-Capital/mev_bundle_generator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 512 | 109 | 
 | 2023-02-08 | 513 | 109 | 
 | 2023-02-07 | 513 | 109 | 
 | 2023-02-06 | 513 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 512 | 107 | 
 | 2023-01-12 | 512 | 107 | 
 | 2023-01-11 | 512 | 108 | 
-| 2023-01-10 | 512 | 108 | 
 

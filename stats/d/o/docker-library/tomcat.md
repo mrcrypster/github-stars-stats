@@ -1,6 +1,6 @@
 # docker-library/tomcat - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 706
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 578 | 706 | 
 | 2023-02-08 | 578 | 706 | 
 | 2023-02-07 | 578 | 705 | 
 | 2023-02-06 | 578 | 704 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 573 | 703 | 
 | 2023-01-12 | 573 | 703 | 
 | 2023-01-11 | 573 | 703 | 
-| 2023-01-10 | 573 | 699 | 
 

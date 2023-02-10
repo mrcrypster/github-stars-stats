@@ -1,6 +1,6 @@
 # rezaghz/loutos - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 207 | 4 | 
 | 2023-02-08 | 207 | 4 | 
 | 2023-02-07 | 207 | 4 | 
 | 2023-02-06 | 207 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 208 | 5 | 
 | 2023-01-12 | 208 | 5 | 
 | 2023-01-11 | 208 | 5 | 
-| 2023-01-10 | 207 | 5 | 
 

@@ -1,10 +1,10 @@
 # rawandahmad698/PyChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 293
+☋ Forks: 299
 
-★ Stars: 3166
+★ Stars: 3203
 
 [Open repository](https://github.com/rawandahmad698/PyChatGPT)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3203 | 299 | 
+| 2023-02-09 | 3199 | 299 | 
 | 2023-02-08 | 3166 | 293 | 
 | 2023-02-07 | 3125 | 285 | 
 | 2023-02-06 | 3096 | 282 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2607 | 221 | 
 | 2023-01-13 | 2592 | 218 | 
 | 2023-01-11 | 2571 | 218 | 
-| 2023-01-10 | 2556 | 215 | 
 

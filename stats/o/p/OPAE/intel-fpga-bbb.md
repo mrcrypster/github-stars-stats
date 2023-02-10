@@ -1,6 +1,6 @@
 # OPAE/intel-fpga-bbb - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 101 | 31 | 
 | 2023-02-08 | 101 | 31 | 
 | 2023-02-07 | 101 | 31 | 
 | 2023-02-06 | 101 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 101 | 31 | 
 | 2023-01-13 | 101 | 31 | 
 | 2023-01-12 | 101 | 31 | 
-| 2023-01-11 | 101 | 31 | 
 

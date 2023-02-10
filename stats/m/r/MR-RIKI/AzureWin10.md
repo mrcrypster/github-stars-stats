@@ -1,8 +1,8 @@
 # MR-RIKI/AzureWin10 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 288
+☋ Forks: 305
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5 | 305 | 
 | 2023-02-08 | 5 | 288 | 
 | 2023-02-07 | 4 | 273 | 
 | 2023-02-06 | 3 | 244 | 

@@ -1,10 +1,10 @@
 # tower-rs/tower - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 198
 
-★ Stars: 2503
+★ Stars: 2504
 
 [Open repository](https://github.com/tower-rs/tower)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2504 | 198 | 
 | 2023-02-08 | 2503 | 198 | 
 | 2023-02-06 | 2501 | 198 | 
 | 2023-02-05 | 2497 | 197 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2456 | 193 | 
 | 2023-01-12 | 2455 | 193 | 
 | 2023-01-11 | 2452 | 193 | 
-| 2023-01-10 | 2450 | 193 | 
 

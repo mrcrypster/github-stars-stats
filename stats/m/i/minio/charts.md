@@ -1,6 +1,6 @@
 # minio/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5 | 22 | 
 | 2023-02-08 | 5 | 22 | 
 | 2023-02-07 | 5 | 22 | 
 | 2023-02-05 | 5 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 3 | 23 | 
 | 2023-01-13 | 3 | 23 | 
 | 2023-01-11 | 3 | 23 | 
-| 2023-01-10 | 3 | 23 | 
 

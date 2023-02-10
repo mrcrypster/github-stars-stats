@@ -1,10 +1,10 @@
 # dragen1860/Deep-Learning-with-TensorFlow-book - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 4098
 
-★ Stars: 12869
+★ Stars: 12871
 
 [Open repository](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 12871 | 4098 | 
 | 2023-02-08 | 12869 | 4098 | 
 | 2023-02-07 | 12866 | 4097 | 
 | 2023-02-06 | 12865 | 4097 | 

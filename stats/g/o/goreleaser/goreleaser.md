@@ -1,10 +1,10 @@
 # goreleaser/goreleaser - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 790
 
-★ Stars: 11199
+★ Stars: 11202
 
 [Open repository](https://github.com/goreleaser/goreleaser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 11202 | 790 | 
 | 2023-02-08 | 11199 | 790 | 
 | 2023-02-07 | 11195 | 789 | 
 | 2023-02-06 | 11193 | 789 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 11114 | 787 | 
 | 2023-01-13 | 11112 | 787 | 
 | 2023-01-12 | 11107 | 786 | 
-| 2023-01-10 | 11102 | 786 | 
 

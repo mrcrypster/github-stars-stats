@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 45
+★ Stars: 49
 
 [Open repository](https://github.com/darrenjw/fp-ssc-course)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 45 | 1 | 
+| 2023-02-09 | 49 | 1 | 
 | 2023-02-08 | 45 | 1 | 
 | 2023-02-07 | 37 | - | 
 

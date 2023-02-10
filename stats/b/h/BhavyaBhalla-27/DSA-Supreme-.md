@@ -1,6 +1,6 @@
 # BhavyaBhalla-27/DSA-Supreme- - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 57 | 12 | 
 | 2023-02-08 | 57 | 12 | 
 | 2023-02-07 | 54 | 11 | 
 | 2023-02-06 | 54 | 11 | 

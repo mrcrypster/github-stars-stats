@@ -1,6 +1,6 @@
 # typelevel/fabric - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 100 | 3 | 
 | 2023-02-08 | 100 | 3 | 
 | 2023-02-07 | 100 | 3 | 
 | 2023-02-06 | 100 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 95 | 3 | 
 | 2023-01-12 | 95 | 3 | 
 | 2023-01-11 | 92 | 3 | 
-| 2023-01-10 | 90 | 3 | 
 

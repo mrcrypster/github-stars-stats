@@ -1,10 +1,10 @@
 # growthbook/growthbook - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 240
+☋ Forks: 241
 
-★ Stars: 4090
+★ Stars: 4107
 
 [Open repository](https://github.com/growthbook/growthbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 4107 | 241 | 
 | 2023-02-08 | 4090 | 240 | 
 | 2023-02-07 | 4078 | 240 | 
 | 2023-02-06 | 4072 | 240 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 4003 | 230 | 
 | 2023-01-12 | 4002 | 230 | 
 | 2023-01-11 | 3996 | 229 | 
-| 2023-01-10 | 3994 | 229 | 
 

@@ -1,6 +1,6 @@
 # luluco250/FXShaders - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 63 | 35 | 
 | 2023-02-08 | 63 | 35 | 
 | 2023-02-07 | 63 | 35 | 
 | 2023-02-06 | 63 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 63 | 33 | 
 | 2023-01-12 | 63 | 33 | 
 | 2023-01-11 | 63 | 33 | 
-| 2023-01-10 | 63 | 33 | 
 

@@ -1,10 +1,10 @@
 # this-is-bennyk/Funkin-VR - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/this-is-bennyk/Funkin-VR)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 32 | 13 | 
 | 2023-02-08 | 30 | 13 | 
 | 2023-02-07 | 30 | 13 | 
 | 2023-02-06 | 30 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 28 | 12 | 
 | 2023-01-12 | 28 | 12 | 
 | 2023-01-11 | 28 | 12 | 
-| 2023-01-10 | 28 | 12 | 
 

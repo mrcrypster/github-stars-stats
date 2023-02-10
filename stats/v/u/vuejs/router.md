@@ -1,10 +1,10 @@
 # vuejs/router - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 869
+☋ Forks: 873
 
-★ Stars: 2686
+★ Stars: 2687
 
 [Open repository](https://github.com/vuejs/router)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2687 | 873 | 
 | 2023-02-08 | 2686 | 869 | 
 | 2023-02-07 | 2685 | 867 | 
 | 2023-02-06 | 2683 | 865 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2639 | 842 | 
 | 2023-01-13 | 2638 | 840 | 
 | 2023-01-11 | 2632 | 839 | 
-| 2023-01-10 | 2629 | 837 | 
 

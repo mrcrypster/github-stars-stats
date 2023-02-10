@@ -1,8 +1,8 @@
 # DavidWhitlock/PortlandStateJavaKatasWinter2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1 | 4 | 
 | 2023-02-08 | 1 | 3 | 
 | 2023-02-07 | 1 | 3 | 
 | 2023-02-05 | 1 | 3 | 

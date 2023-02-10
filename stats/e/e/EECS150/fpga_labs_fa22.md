@@ -1,6 +1,6 @@
 # EECS150/fpga_labs_fa22 - stars & forks statistics
 
-Stats updated on Feb 2023, 07
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 9 | 29 | 
 | 2023-02-07 | 9 | 29 | 
 | 2023-02-06 | 9 | 29 | 
 | 2023-02-05 | 9 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 07
 | 2023-01-13 | 7 | 29 | 
 | 2023-01-12 | 7 | 29 | 
 | 2023-01-11 | 7 | 29 | 
-| 2023-01-10 | 6 | 29 | 
 

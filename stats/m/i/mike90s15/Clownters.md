@@ -1,6 +1,6 @@
 # mike90s15/Clownters - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 61 | 9 | 
 | 2023-02-08 | 61 | 9 | 
 | 2023-02-07 | 59 | 9 | 
 | 2023-02-06 | 59 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 58 | 8 | 
 | 2023-01-12 | 58 | 8 | 
 | 2023-01-11 | 58 | 8 | 
-| 2023-01-10 | 58 | 8 | 
 

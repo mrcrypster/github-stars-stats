@@ -1,6 +1,6 @@
 # Shopify/theme-extension-getting-started - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 69 | 35 | 
 | 2023-02-08 | 69 | 35 | 
 | 2023-02-07 | 69 | 35 | 
 | 2023-02-06 | 69 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 66 | 33 | 
 | 2023-01-12 | 65 | 33 | 
 | 2023-01-11 | 65 | 33 | 
-| 2023-01-10 | 65 | 33 | 
 

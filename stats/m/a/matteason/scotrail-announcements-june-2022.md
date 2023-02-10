@@ -1,6 +1,6 @@
 # matteason/scotrail-announcements-june-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 43 | 5 | 
 | 2023-02-08 | 43 | 5 | 
 | 2023-02-07 | 43 | 5 | 
 | 2023-02-05 | 43 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 43 | 5 | 
 | 2023-01-12 | 43 | 5 | 
 | 2023-01-11 | 43 | 5 | 
-| 2023-01-10 | 43 | 5 | 
 

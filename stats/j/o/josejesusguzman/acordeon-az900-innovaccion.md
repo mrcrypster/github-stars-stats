@@ -1,6 +1,6 @@
 # josejesusguzman/acordeon-az900-innovaccion - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 407 | 279 | 
 | 2023-02-08 | 407 | 279 | 
 | 2023-02-07 | 407 | 279 | 
 | 2023-02-06 | 407 | 279 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 407 | 279 | 
 | 2023-01-13 | 407 | 279 | 
 | 2023-01-11 | 407 | 279 | 
-| 2023-01-10 | 407 | 279 | 
 

@@ -1,10 +1,10 @@
 # evrone/postcss-px-to-viewport - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 363
+☋ Forks: 365
 
-★ Stars: 2553
+★ Stars: 2555
 
 [Open repository](https://github.com/evrone/postcss-px-to-viewport)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2555 | 365 | 
 | 2023-02-08 | 2553 | 363 | 
 | 2023-02-07 | 2553 | 363 | 
 | 2023-02-06 | 2552 | 363 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2534 | 359 | 
 | 2023-01-12 | 2532 | 359 | 
 | 2023-01-11 | 2532 | 360 | 
-| 2023-01-10 | 2531 | 360 | 
 

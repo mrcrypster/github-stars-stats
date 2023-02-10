@@ -1,6 +1,6 @@
 # Kochava/Apple-SwiftPackage-KochavaTracker - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 4 | 1 | 
 | 2023-02-08 | 4 | 1 | 
 | 2023-02-07 | 4 | 1 | 
 | 2023-02-06 | 4 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 3 | 1 | 
 | 2023-01-12 | 3 | 1 | 
 | 2023-01-11 | 3 | 1 | 
-| 2023-01-10 | 3 | 1 | 
 

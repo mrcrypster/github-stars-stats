@@ -1,6 +1,6 @@
 # tjdevries/monkey.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 13 | 1 | 
 | 2023-02-08 | 13 | 1 | 
 | 2023-02-07 | 13 | 1 | 
 | 2023-02-06 | 13 | 1 | 

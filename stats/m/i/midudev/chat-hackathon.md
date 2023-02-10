@@ -1,6 +1,6 @@
 # midudev/chat-hackathon - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 19 | 2 | 
 | 2023-02-08 | 19 | 2 | 
 | 2023-02-07 | 19 | 2 | 
 | 2023-02-06 | 19 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 19 | 2 | 
 | 2023-01-12 | 19 | 2 | 
 | 2023-01-11 | 19 | 2 | 
-| 2023-01-10 | 19 | 2 | 
 

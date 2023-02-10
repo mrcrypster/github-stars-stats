@@ -1,10 +1,10 @@
 # keras-team/keras-io - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1729
+☋ Forks: 1732
 
-★ Stars: 2088
+★ Stars: 2090
 
 [Open repository](https://github.com/keras-team/keras-io)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2090 | 1732 | 
+| 2023-02-09 | 2090 | 1732 | 
 | 2023-02-08 | 2088 | 1729 | 
 | 2023-02-07 | 2081 | 1723 | 
 | 2023-02-06 | 2081 | 1722 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2049 | 1697 | 
 | 2023-01-13 | 2047 | 1695 | 
 | 2023-01-12 | 2046 | 1695 | 
-| 2023-01-10 | 2044 | 1694 | 
 

@@ -1,6 +1,6 @@
 # elmoallistair/google-data-analytics - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 355 | 196 | 
 | 2023-02-08 | 355 | 196 | 
 | 2023-02-07 | 353 | 194 | 
 | 2023-02-06 | 353 | 193 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 332 | 182 | 
 | 2023-01-13 | 332 | 182 | 
 | 2023-01-11 | 331 | 182 | 
-| 2023-01-10 | 330 | 182 | 
 

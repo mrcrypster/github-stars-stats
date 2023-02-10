@@ -1,10 +1,10 @@
 # Flow-Launcher/Flow.Launcher - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 138
+☋ Forks: 139
 
-★ Stars: 2996
+★ Stars: 3006
 
 [Open repository](https://github.com/Flow-Launcher/Flow.Launcher)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 3006 | 139 | 
 | 2023-02-08 | 2996 | 138 | 
 | 2023-02-07 | 2988 | 139 | 
 | 2023-02-06 | 2987 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2856 | 132 | 
 | 2023-01-13 | 2853 | 132 | 
 | 2023-01-12 | 2849 | 132 | 
-| 2023-01-11 | 2843 | 131 | 
 

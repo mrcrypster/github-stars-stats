@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 173
+★ Stars: 175
 
 [Open repository](https://github.com/abstractart/how-to-develop-perfect-crud)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-09 | 173 | 8 | 
+| 2023-02-09 | 175 | 8 | 
 | 2023-02-08 | 172 | 8 | 
 

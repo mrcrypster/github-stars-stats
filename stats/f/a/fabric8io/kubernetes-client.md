@@ -1,10 +1,10 @@
 # fabric8io/kubernetes-client - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 1313
+☋ Forks: 1314
 
-★ Stars: 2835
+★ Stars: 2838
 
 [Open repository](https://github.com/fabric8io/kubernetes-client)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 2838 | 1314 | 
 | 2023-02-08 | 2835 | 1313 | 
 | 2023-02-07 | 2832 | 1313 | 
 | 2023-02-06 | 2829 | 1312 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 2797 | 1296 | 
 | 2023-01-12 | 2797 | 1295 | 
 | 2023-01-11 | 2790 | 1293 | 
-| 2023-01-10 | 2783 | 1291 | 
 

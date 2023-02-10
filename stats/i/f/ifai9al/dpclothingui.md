@@ -1,6 +1,6 @@
 # ifai9al/dpclothingui - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5 | 9 | 
 | 2023-02-08 | 5 | 9 | 
 | 2023-02-07 | 5 | 9 | 
 | 2023-02-06 | 5 | 9 | 

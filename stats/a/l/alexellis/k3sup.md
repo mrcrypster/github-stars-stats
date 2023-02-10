@@ -1,10 +1,10 @@
 # alexellis/k3sup - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 335
 
-★ Stars: 5055
+★ Stars: 5059
 
 [Open repository](https://github.com/alexellis/k3sup)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 5059 | 335 | 
 | 2023-02-08 | 5055 | 335 | 
 | 2023-02-07 | 5051 | 335 | 
 | 2023-02-06 | 5049 | 335 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 5003 | 327 | 
 | 2023-01-13 | 5002 | 327 | 
 | 2023-01-12 | 4999 | 327 | 
-| 2023-01-11 | 4999 | 327 | 
 

@@ -1,10 +1,10 @@
 # sp00n/corecycler - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 22
 
-★ Stars: 368
+★ Stars: 369
 
 [Open repository](https://github.com/sp00n/corecycler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 369 | 22 | 
 | 2023-02-08 | 368 | 22 | 
 | 2023-02-07 | 368 | 22 | 
 | 2023-02-06 | 368 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-13 | 355 | 21 | 
 | 2023-01-12 | 355 | 21 | 
 | 2023-01-11 | 353 | 21 | 
-| 2023-01-10 | 352 | 21 | 
 

@@ -1,6 +1,6 @@
 # pontem-network/liquidswap - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 122 | 52 | 
 | 2023-02-08 | 122 | 52 | 
 | 2023-02-07 | 122 | 52 | 
 | 2023-02-06 | 120 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 110 | 50 | 
 | 2023-01-12 | 110 | 50 | 
 | 2023-01-11 | 109 | 49 | 
-| 2023-01-10 | 109 | 49 | 
 

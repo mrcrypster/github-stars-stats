@@ -1,8 +1,8 @@
 # natelannan-osu/dldspring2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 1 | 9 | 
 | 2023-02-08 | 1 | 8 | 
 | 2023-02-07 | 1 | 8 | 
 | 2023-02-06 | 1 | 8 | 

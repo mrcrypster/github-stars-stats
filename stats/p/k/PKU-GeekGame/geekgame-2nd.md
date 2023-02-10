@@ -1,6 +1,6 @@
 # PKU-GeekGame/geekgame-2nd - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-09 | 44 | 5 | 
 | 2023-02-08 | 44 | 5 | 
 | 2023-02-07 | 44 | 5 | 
 | 2023-02-06 | 43 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 38 | 4 | 
 | 2023-01-13 | 37 | 4 | 
 | 2023-01-12 | 37 | 4 | 
-| 2023-01-11 | 37 | 4 | 
 
