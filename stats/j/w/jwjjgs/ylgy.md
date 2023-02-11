@@ -1,6 +1,6 @@
 # jwjjgs/ylgy - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 28 | 14 | 
 | 2023-02-09 | 28 | 14 | 
 | 2023-02-08 | 28 | 14 | 
 | 2023-02-07 | 28 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 28 | 14 | 
 | 2023-01-13 | 28 | 14 | 
 | 2023-01-12 | 28 | 14 | 
-| 2023-01-11 | 28 | 14 | 
 

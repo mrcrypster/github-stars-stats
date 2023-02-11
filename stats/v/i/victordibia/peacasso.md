@@ -1,6 +1,6 @@
 # victordibia/peacasso - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 312 | 39 | 
 | 2023-02-09 | 312 | 39 | 
 | 2023-02-08 | 311 | 39 | 
 | 2023-02-07 | 310 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 304 | 39 | 
 | 2023-01-13 | 305 | 39 | 
 | 2023-01-12 | 304 | 39 | 
-| 2023-01-11 | 303 | 39 | 
 

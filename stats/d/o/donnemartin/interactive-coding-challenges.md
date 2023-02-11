@@ -1,10 +1,10 @@
 # donnemartin/interactive-coding-challenges - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4300
 
-★ Stars: 26860
+★ Stars: 26861
 
 [Open repository](https://github.com/donnemartin/interactive-coding-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 26861 | 4300 | 
 | 2023-02-09 | 26860 | 4300 | 
 | 2023-02-08 | 26855 | 4299 | 
 | 2023-02-07 | 26846 | 4299 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 26749 | 4291 | 
 | 2023-01-14 | 26744 | 4290 | 
 | 2023-01-13 | 26742 | 4291 | 
-| 2023-01-11 | 26740 | 4290 | 
 

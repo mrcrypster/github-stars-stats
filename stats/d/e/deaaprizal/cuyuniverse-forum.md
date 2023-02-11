@@ -1,10 +1,10 @@
 # deaaprizal/cuyuniverse-forum - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 141
 
-★ Stars: 172
+★ Stars: 174
 
 [Open repository](https://github.com/deaaprizal/cuyuniverse-forum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 174 | 141 | 
 | 2023-02-09 | 172 | 141 | 
 | 2023-02-08 | 172 | 141 | 
 | 2023-02-07 | 172 | 141 | 

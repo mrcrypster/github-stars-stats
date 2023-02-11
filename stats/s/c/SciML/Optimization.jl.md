@@ -1,10 +1,10 @@
 # SciML/Optimization.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 56
 
-★ Stars: 458
+★ Stars: 460
 
 [Open repository](https://github.com/SciML/Optimization.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 460 | 56 | 
 | 2023-02-09 | 458 | 56 | 
 | 2023-02-08 | 458 | 56 | 
 | 2023-02-07 | 458 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 453 | 56 | 
 | 2023-01-13 | 451 | 56 | 
 | 2023-01-12 | 452 | 56 | 
-| 2023-01-11 | 452 | 55 | 
 

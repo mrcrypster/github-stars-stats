@@ -1,10 +1,10 @@
 # vic/params - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 36
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/vic/params)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 316 | 36 | 
 | 2023-02-09 | 315 | 36 | 
 | 2023-02-08 | 315 | 36 | 
 | 2023-02-07 | 315 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 313 | 35 | 
 | 2023-01-13 | 314 | 35 | 
 | 2023-01-12 | 314 | 35 | 
-| 2023-01-11 | 313 | 35 | 
 

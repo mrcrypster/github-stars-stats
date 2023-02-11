@@ -1,10 +1,10 @@
 # geekq/workflow - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 208
 
-★ Stars: 1701
+★ Stars: 1703
 
 [Open repository](https://github.com/geekq/workflow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1703 | 208 | 
 | 2023-02-10 | 1701 | 208 | 
 | 2023-02-08 | 1701 | 208 | 
 | 2023-02-07 | 1700 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 1697 | 208 | 
 | 2023-01-13 | 1697 | 208 | 
 | 2023-01-12 | 1697 | 208 | 
-| 2023-01-11 | 1696 | 208 | 
 

@@ -1,0 +1,18 @@
+# nkohari/express-dispatch - stars & forks statistics
+
+Stats updated on Feb 2023, 11
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/nkohari/express-dispatch)
+
+[Open detailed stats for nkohari/express-dispatch](https://reviewgithub.com/rep/nkohari/express-dispatch)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-11 | 2 | - | 
+| 2023-02-10 | 2 | - | 
+

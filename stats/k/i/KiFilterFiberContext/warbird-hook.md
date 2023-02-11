@@ -1,6 +1,6 @@
 # KiFilterFiberContext/warbird-hook - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 181 | 21 | 
 | 2023-02-09 | 181 | 21 | 
 | 2023-02-08 | 181 | 21 | 
 | 2023-02-07 | 181 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 173 | 21 | 
 | 2023-01-14 | 173 | 21 | 
 | 2023-01-12 | 172 | 21 | 
-| 2023-01-11 | 172 | 21 | 
 

@@ -1,6 +1,6 @@
 # ErikReider/SwayNotificationCenter - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 487 | 33 | 
+| 2023-02-10 | 487 | 33 | 
 | 2023-02-09 | 487 | 33 | 
 | 2023-02-08 | 485 | 33 | 
 | 2023-02-07 | 485 | 33 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 462 | 33 | 
 | 2023-01-13 | 460 | 32 | 
 | 2023-01-12 | 459 | 30 | 
-| 2023-01-11 | 457 | 30 | 
 

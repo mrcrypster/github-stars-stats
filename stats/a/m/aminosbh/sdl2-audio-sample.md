@@ -1,6 +1,6 @@
 # aminosbh/sdl2-audio-sample - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 31 | - | 
 | 2023-02-10 | 31 | - | 
 | 2023-02-08 | 31 | - | 
 | 2023-02-07 | 31 | - | 

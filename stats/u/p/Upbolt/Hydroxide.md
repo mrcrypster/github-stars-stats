@@ -1,10 +1,10 @@
 # Upbolt/Hydroxide - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 90
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/Upbolt/Hydroxide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 251 | 90 | 
 | 2023-02-09 | 250 | 90 | 
 | 2023-02-08 | 248 | 90 | 
 | 2023-02-07 | 248 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 243 | 93 | 
 | 2023-01-14 | 244 | 93 | 
 | 2023-01-13 | 242 | 93 | 
-| 2023-01-12 | 241 | 93 | 
 

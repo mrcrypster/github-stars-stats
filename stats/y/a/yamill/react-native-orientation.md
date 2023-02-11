@@ -1,10 +1,10 @@
 # yamill/react-native-orientation - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 781
 
-★ Stars: 1691
+★ Stars: 1690
 
 [Open repository](https://github.com/yamill/react-native-orientation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1690 | 781 | 
 | 2023-02-09 | 1691 | 781 | 
 | 2023-02-08 | 1691 | 781 | 
 | 2023-02-07 | 1691 | 781 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 1690 | 776 | 
 | 2023-01-14 | 1689 | 776 | 
 | 2023-01-12 | 1689 | 775 | 
-| 2023-01-11 | 1689 | 775 | 
 

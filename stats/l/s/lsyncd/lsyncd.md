@@ -1,10 +1,10 @@
 # lsyncd/lsyncd - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 451
 
-★ Stars: 5172
+★ Stars: 5173
 
 [Open repository](https://github.com/lsyncd/lsyncd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 5173 | 451 | 
 | 2023-02-09 | 5172 | 451 | 
 | 2023-02-08 | 5172 | 451 | 
 | 2023-02-07 | 5171 | 451 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 5124 | 449 | 
 | 2023-01-13 | 5122 | 449 | 
 | 2023-01-12 | 5120 | 449 | 
-| 2023-01-11 | 5119 | 449 | 
 

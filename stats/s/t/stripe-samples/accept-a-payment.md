@@ -1,10 +1,10 @@
 # stripe-samples/accept-a-payment - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 296
 
-★ Stars: 351
+★ Stars: 350
 
 [Open repository](https://github.com/stripe-samples/accept-a-payment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 350 | 296 | 
 | 2023-02-09 | 351 | 296 | 
 | 2023-02-08 | 351 | 296 | 
 | 2023-02-07 | 351 | 296 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 339 | 289 | 
 | 2023-01-13 | 339 | 289 | 
 | 2023-01-12 | 339 | 289 | 
-| 2023-01-11 | 339 | 288 | 
 

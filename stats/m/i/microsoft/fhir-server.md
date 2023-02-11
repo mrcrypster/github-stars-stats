@@ -1,8 +1,8 @@
 # microsoft/fhir-server - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 418
+☋ Forks: 419
 
 ★ Stars: 946
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 946 | 419 | 
+| 2023-02-10 | 946 | 419 | 
 | 2023-02-09 | 946 | 418 | 
 | 2023-02-08 | 945 | 418 | 
 | 2023-02-07 | 945 | 417 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 940 | 411 | 
 | 2023-01-13 | 939 | 410 | 
 | 2023-01-12 | 939 | 410 | 
-| 2023-01-11 | 938 | 410 | 
 

@@ -1,6 +1,6 @@
 # StartBootstrap/startbootstrap-new-age - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1004
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1002 | 1004 | 
 | 2023-02-09 | 1002 | 1004 | 
 | 2023-02-07 | 1002 | 1004 | 
 | 2023-02-06 | 1002 | 1004 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 997 | 1000 | 
 | 2023-01-13 | 997 | 1000 | 
 | 2023-01-12 | 996 | 1000 | 
-| 2023-01-11 | 997 | 1000 | 
 

@@ -1,10 +1,10 @@
 # pechorin/any-jump.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 38
 
-★ Stars: 976
+★ Stars: 975
 
 [Open repository](https://github.com/pechorin/any-jump.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 975 | 38 | 
 | 2023-02-09 | 976 | 38 | 
 | 2023-02-08 | 976 | 38 | 
 | 2023-02-06 | 976 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 973 | 38 | 
 | 2023-01-13 | 973 | 38 | 
 | 2023-01-12 | 973 | 38 | 
-| 2023-01-11 | 972 | 38 | 
 

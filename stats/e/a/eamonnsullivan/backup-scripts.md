@@ -1,6 +1,6 @@
 # eamonnsullivan/backup-scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 188 | 8 | 
 | 2023-02-09 | 188 | 8 | 
 | 2023-02-08 | 188 | 8 | 
 | 2023-02-07 | 188 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 190 | 8 | 
 | 2023-01-14 | 190 | 8 | 
 | 2023-01-12 | 191 | 8 | 
-| 2023-01-11 | 191 | 8 | 
 

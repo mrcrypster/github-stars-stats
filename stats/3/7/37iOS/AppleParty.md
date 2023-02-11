@@ -1,10 +1,10 @@
 # 37iOS/AppleParty - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 43
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/37iOS/AppleParty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 183 | 43 | 
 | 2023-02-09 | 182 | 43 | 
 | 2023-02-08 | 181 | 43 | 
 | 2023-02-07 | 181 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 178 | 43 | 
 | 2023-01-13 | 178 | 43 | 
 | 2023-01-12 | 177 | 43 | 
-| 2023-01-11 | 176 | 43 | 
 

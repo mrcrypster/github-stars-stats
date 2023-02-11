@@ -1,6 +1,6 @@
 # m-clark/mixed-models-with-R - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 108 | 37 | 
 | 2023-02-09 | 108 | 37 | 
 | 2023-02-08 | 108 | 37 | 
 | 2023-02-07 | 108 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 108 | 37 | 
 | 2023-01-13 | 108 | 37 | 
 | 2023-01-12 | 108 | 37 | 
-| 2023-01-11 | 108 | 37 | 
 

@@ -1,10 +1,10 @@
 # hcymysql/redis_monitor - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/hcymysql/redis_monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14 | 4 | 
 | 2023-02-09 | 13 | 4 | 
 | 2023-02-08 | 13 | 4 | 
 | 2023-02-07 | 13 | 4 | 

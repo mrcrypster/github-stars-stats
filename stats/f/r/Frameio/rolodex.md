@@ -1,6 +1,6 @@
 # Frameio/rolodex - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 36 | 2 | 
 | 2023-02-09 | 36 | 2 | 
 | 2023-02-08 | 36 | 2 | 
 | 2023-02-07 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 36 | 2 | 
 | 2023-01-13 | 36 | 2 | 
 | 2023-01-12 | 36 | 2 | 
-| 2023-01-11 | 36 | 2 | 
 

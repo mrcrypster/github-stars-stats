@@ -1,10 +1,10 @@
 # MicrosoftDocs/architecture-center - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1503
+☋ Forks: 1505
 
-★ Stars: 1632
+★ Stars: 1633
 
 [Open repository](https://github.com/MicrosoftDocs/architecture-center)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1633 | 1505 | 
 | 2023-02-09 | 1632 | 1503 | 
 | 2023-02-08 | 1629 | 1502 | 
 | 2023-02-07 | 1629 | 1501 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1620 | 1485 | 
 | 2023-01-13 | 1619 | 1485 | 
 | 2023-01-12 | 1618 | 1484 | 
-| 2023-01-11 | 1618 | 1482 | 
 

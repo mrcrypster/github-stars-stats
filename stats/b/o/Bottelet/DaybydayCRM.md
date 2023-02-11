@@ -1,6 +1,6 @@
 # Bottelet/DaybydayCRM - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 739
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2097 | 739 | 
 | 2023-02-09 | 2097 | 739 | 
 | 2023-02-07 | 2096 | 739 | 
 | 2023-02-06 | 2096 | 739 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 2087 | 737 | 
 | 2023-01-13 | 2087 | 737 | 
 | 2023-01-12 | 2087 | 737 | 
-| 2023-01-11 | 2087 | 737 | 
 

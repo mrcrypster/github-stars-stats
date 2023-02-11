@@ -1,10 +1,10 @@
 # linuxserver/docker-feed2toot - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/linuxserver/docker-feed2toot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 4 | - | 
 | 2023-02-09 | 3 | - | 
 | 2023-02-08 | 3 | - | 
 | 2023-02-07 | 3 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2 | - | 
 | 2023-01-14 | 2 | - | 
 | 2023-01-13 | 2 | - | 
-| 2023-01-12 | 2 | - | 
 

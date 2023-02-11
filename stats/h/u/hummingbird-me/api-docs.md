@@ -1,8 +1,8 @@
 # hummingbird-me/api-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 164
+☋ Forks: 163
 
 ★ Stars: 102
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 102 | 163 | 
 | 2023-02-10 | 102 | 164 | 
 | 2023-02-08 | 102 | 164 | 
 | 2023-02-07 | 102 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 102 | 160 | 
 | 2023-01-13 | 102 | 160 | 
 | 2023-01-12 | 102 | 160 | 
-| 2023-01-11 | 102 | 160 | 
 

@@ -1,10 +1,10 @@
 # rust-in-action/code - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 312
+☋ Forks: 313
 
-★ Stars: 1388
+★ Stars: 1389
 
 [Open repository](https://github.com/rust-in-action/code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1389 | 313 | 
 | 2023-02-09 | 1388 | 312 | 
 | 2023-02-08 | 1386 | 312 | 
 | 2023-02-07 | 1384 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1340 | 300 | 
 | 2023-01-13 | 1339 | 299 | 
 | 2023-01-12 | 1332 | 299 | 
-| 2023-01-11 | 1331 | 299 | 
 

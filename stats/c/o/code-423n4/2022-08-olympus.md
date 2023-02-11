@@ -1,6 +1,6 @@
 # code-423n4/2022-08-olympus - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14 | 5 | 
 | 2023-02-09 | 14 | 5 | 
 | 2023-02-08 | 14 | 5 | 
 | 2023-02-07 | 14 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 14 | 5 | 
 | 2023-01-13 | 14 | 5 | 
 | 2023-01-12 | 14 | 5 | 
-| 2023-01-11 | 14 | 5 | 
 

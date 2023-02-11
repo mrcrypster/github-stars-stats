@@ -1,10 +1,10 @@
 # googleapis/google-api-go-client - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1039
 
-★ Stars: 3352
+★ Stars: 3353
 
 [Open repository](https://github.com/googleapis/google-api-go-client)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3353 | 1039 | 
 | 2023-02-09 | 3352 | 1039 | 
 | 2023-02-08 | 3351 | 1038 | 
 | 2023-02-07 | 3351 | 1038 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3329 | 1034 | 
 | 2023-01-13 | 3328 | 1034 | 
 | 2023-01-12 | 3328 | 1034 | 
-| 2023-01-11 | 3327 | 1034 | 
 

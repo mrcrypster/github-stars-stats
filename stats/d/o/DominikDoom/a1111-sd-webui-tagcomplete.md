@@ -1,10 +1,10 @@
 # DominikDoom/a1111-sd-webui-tagcomplete - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 47
 
-★ Stars: 559
+★ Stars: 561
 
 [Open repository](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 561 | 47 | 
 | 2023-02-09 | 559 | 47 | 
 | 2023-02-08 | 555 | 47 | 
 | 2023-02-07 | 552 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 519 | 46 | 
 | 2023-01-13 | 517 | 46 | 
 | 2023-01-12 | 515 | 46 | 
-| 2023-01-11 | 514 | 46 | 
 

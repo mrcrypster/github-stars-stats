@@ -1,6 +1,6 @@
 # EzequielRamis/dotfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 26 | - | 
 | 2023-02-09 | 26 | - | 
 | 2023-02-08 | 26 | - | 
 | 2023-02-07 | 26 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 27 | - | 
 | 2023-01-13 | 27 | - | 
 | 2023-01-12 | 27 | - | 
-| 2023-01-11 | 27 | - | 
 

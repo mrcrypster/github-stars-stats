@@ -1,6 +1,6 @@
 # Daily-Datapackers/datapack - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 7 | 4 | 
 | 2023-02-10 | 7 | 4 | 
 | 2023-02-08 | 7 | 4 | 
 | 2023-02-07 | 7 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 8 | 4 | 
 | 2023-01-13 | 8 | 4 | 
 | 2023-01-12 | 8 | 4 | 
-| 2023-01-11 | 8 | 4 | 
 

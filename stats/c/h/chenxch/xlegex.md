@@ -1,6 +1,6 @@
 # chenxch/xlegex - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 153 | 54 | 
 | 2023-02-09 | 153 | 54 | 
 | 2023-02-08 | 153 | 54 | 
 | 2023-02-07 | 153 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 152 | 51 | 
 | 2023-01-13 | 151 | 51 | 
 | 2023-01-12 | 151 | 51 | 
-| 2023-01-11 | 149 | 51 | 
 

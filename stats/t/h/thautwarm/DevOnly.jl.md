@@ -1,10 +1,10 @@
 # thautwarm/DevOnly.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/thautwarm/DevOnly.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 18 | - | 
 | 2023-02-09 | 17 | - | 
 | 2023-02-07 | 17 | - | 
 | 2023-02-06 | 17 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 14 | - | 
 | 2023-01-13 | 14 | - | 
 | 2023-01-12 | 14 | - | 
-| 2023-01-11 | 14 | - | 
 

@@ -1,6 +1,6 @@
 # HexFiend/HexFiend - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 397
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 4666 | 397 | 
 | 2023-02-09 | 4666 | 397 | 
 | 2023-02-08 | 4663 | 397 | 
 | 2023-02-07 | 4662 | 397 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 4642 | 394 | 
 | 2023-01-13 | 4641 | 394 | 
 | 2023-01-12 | 4640 | 394 | 
-| 2023-01-11 | 4640 | 394 | 
 

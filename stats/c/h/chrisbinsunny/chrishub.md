@@ -1,8 +1,8 @@
 # chrisbinsunny/chrishub - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 63 | 9 | 
 | 2023-02-09 | 63 | 8 | 
 | 2023-02-07 | 63 | 8 | 
 | 2023-02-06 | 63 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 57 | 8 | 
 | 2023-01-13 | 57 | 8 | 
 | 2023-01-12 | 57 | 8 | 
-| 2023-01-11 | 57 | 8 | 
 

@@ -1,10 +1,10 @@
 # fermoya/SwiftUIPager - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 931
+★ Stars: 932
 
 [Open repository](https://github.com/fermoya/SwiftUIPager)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 932 | 124 | 
 | 2023-02-08 | 931 | 123 | 
 | 2023-02-07 | 930 | 123 | 
 | 2023-02-06 | 929 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 920 | 122 | 
 | 2023-01-13 | 919 | 122 | 
 | 2023-01-12 | 918 | 122 | 
-| 2023-01-11 | 918 | 121 | 
 

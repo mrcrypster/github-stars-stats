@@ -1,10 +1,10 @@
 # mikeroyal/Open-Source-Security-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 60
 
-★ Stars: 658
+★ Stars: 659
 
 [Open repository](https://github.com/mikeroyal/Open-Source-Security-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 659 | 60 | 
 | 2023-02-09 | 658 | 60 | 
 | 2023-02-08 | 658 | 60 | 
 | 2023-02-07 | 658 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 643 | 59 | 
 | 2023-01-13 | 642 | 59 | 
 | 2023-01-12 | 641 | 59 | 
-| 2023-01-11 | 641 | 59 | 
 

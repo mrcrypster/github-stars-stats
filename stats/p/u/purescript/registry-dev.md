@@ -1,8 +1,8 @@
 # purescript/registry-dev - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 78
+☋ Forks: 77
 
 ★ Stars: 94
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 94 | 77 | 
 | 2023-02-09 | 94 | 78 | 
 | 2023-02-08 | 94 | 78 | 
 | 2023-02-07 | 94 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 94 | 78 | 
 | 2023-01-13 | 94 | 78 | 
 | 2023-01-12 | 94 | 78 | 
-| 2023-01-11 | 93 | 78 | 
 

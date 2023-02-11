@@ -1,6 +1,6 @@
 # microsoft/ImagineCup - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 527 | 177 | 
 | 2023-02-09 | 527 | 177 | 
 | 2023-02-08 | 526 | 178 | 
 | 2023-02-07 | 526 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 514 | 175 | 
 | 2023-01-13 | 513 | 174 | 
 | 2023-01-12 | 511 | 174 | 
-| 2023-01-11 | 510 | 175 | 
 

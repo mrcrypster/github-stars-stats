@@ -1,6 +1,6 @@
 # 0xfoobar/token-delegation - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 113 | 27 | 
 | 2023-02-09 | 113 | 27 | 
 | 2023-02-08 | 112 | 27 | 
 | 2023-02-07 | 111 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 93 | 22 | 
 | 2023-01-13 | 91 | 22 | 
 | 2023-01-12 | 89 | 22 | 
-| 2023-01-11 | 86 | 23 | 
 

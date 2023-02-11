@@ -1,10 +1,10 @@
 # paritytech/polkadot - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1469
+☋ Forks: 1468
 
-★ Stars: 6566
+★ Stars: 6568
 
 [Open repository](https://github.com/paritytech/polkadot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 6568 | 1468 | 
 | 2023-02-09 | 6566 | 1469 | 
 | 2023-02-08 | 6565 | 1468 | 
 | 2023-02-07 | 6562 | 1467 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 6482 | 1442 | 
 | 2023-01-13 | 6479 | 1440 | 
 | 2023-01-12 | 6478 | 1439 | 
-| 2023-01-11 | 6477 | 1437 | 
 

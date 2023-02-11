@@ -1,10 +1,10 @@
 # Unity-Technologies/ml-agents - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 3704
+☋ Forks: 3706
 
-★ Stars: 14066
+★ Stars: 14067
 
 [Open repository](https://github.com/Unity-Technologies/ml-agents)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14067 | 3706 | 
 | 2023-02-09 | 14066 | 3704 | 
 | 2023-02-08 | 14056 | 3701 | 
 | 2023-02-07 | 14051 | 3698 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 13928 | 3668 | 
 | 2023-01-13 | 13927 | 3669 | 
 | 2023-01-12 | 13925 | 3669 | 
-| 2023-01-11 | 13915 | 3668 | 
 

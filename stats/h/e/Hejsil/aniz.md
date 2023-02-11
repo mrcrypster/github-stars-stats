@@ -1,10 +1,10 @@
 # Hejsil/aniz - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 10
 
 [Open repository](https://github.com/Hejsil/aniz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 10 | 1 | 
 | 2023-02-09 | 8 | 1 | 
 | 2023-02-08 | 8 | 1 | 
 | 2023-02-07 | 8 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 8 | 1 | 
 | 2023-01-13 | 8 | 1 | 
 | 2023-01-12 | 8 | 1 | 
-| 2023-01-11 | 8 | 1 | 
 

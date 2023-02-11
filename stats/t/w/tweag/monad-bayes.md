@@ -1,6 +1,6 @@
 # tweag/monad-bayes - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 363 | 61 | 
 | 2023-02-09 | 363 | 61 | 
 | 2023-02-08 | 363 | 61 | 
 | 2023-02-07 | 363 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 358 | 61 | 
 | 2023-01-13 | 358 | 61 | 
 | 2023-01-12 | 358 | 61 | 
-| 2023-01-11 | 358 | 61 | 
 

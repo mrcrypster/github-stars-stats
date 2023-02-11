@@ -1,10 +1,10 @@
 # h2y/Shadowrocket-ADBlock-Rules - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 2313
+☋ Forks: 2316
 
-★ Stars: 14392
+★ Stars: 14400
 
 [Open repository](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14400 | 2316 | 
 | 2023-02-09 | 14392 | 2313 | 
 | 2023-02-08 | 14387 | 2312 | 
 | 2023-02-06 | 14382 | 2310 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 14295 | 2305 | 
 | 2023-01-13 | 14291 | 2304 | 
 | 2023-01-12 | 14289 | 2302 | 
-| 2023-01-11 | 14282 | 2302 | 
 

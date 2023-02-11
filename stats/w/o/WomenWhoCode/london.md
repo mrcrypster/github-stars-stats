@@ -1,8 +1,8 @@
 # WomenWhoCode/london - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 5 | 9 | 
 | 2023-02-09 | 5 | 8 | 
 | 2023-02-08 | 5 | 8 | 
 | 2023-02-07 | 4 | 8 | 

@@ -1,10 +1,10 @@
 # splitbrain/dokuwiki - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 799
 
-★ Stars: 3628
+★ Stars: 3629
 
 [Open repository](https://github.com/splitbrain/dokuwiki)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3629 | 799 | 
 | 2023-02-09 | 3628 | 799 | 
 | 2023-02-08 | 3625 | 799 | 
 | 2023-02-06 | 3625 | 799 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3615 | 795 | 
 | 2023-01-13 | 3615 | 796 | 
 | 2023-01-12 | 3615 | 796 | 
-| 2023-01-11 | 3612 | 796 | 
 

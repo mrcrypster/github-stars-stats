@@ -1,8 +1,8 @@
 # BVLC/caffe - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 18980
+☋ Forks: 18979
 
 ★ Stars: 33108
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 33108 | 18979 | 
 | 2023-02-08 | 33108 | 18980 | 
 | 2023-02-07 | 33106 | 18979 | 
 | 2023-02-06 | 33104 | 18979 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 33065 | 18983 | 
 | 2023-01-13 | 33064 | 18983 | 
 | 2023-01-12 | 33059 | 18985 | 
-| 2023-01-11 | 33058 | 18986 | 
 

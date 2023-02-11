@@ -1,8 +1,8 @@
 # ovflowd/ecommerce - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 32
+☋ Forks: 31
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 16 | 31 | 
 | 2023-02-09 | 16 | 32 | 
 | 2023-02-08 | 16 | 32 | 
 | 2023-02-07 | 16 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 16 | 31 | 
 | 2023-01-13 | 16 | 31 | 
 | 2023-01-12 | 16 | 31 | 
-| 2023-01-11 | 16 | 31 | 
 

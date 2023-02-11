@@ -1,8 +1,8 @@
 # devopsdays/devopsdays-web - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 572
+☋ Forks: 573
 
 ★ Stars: 141
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 141 | 573 | 
 | 2023-02-09 | 141 | 572 | 
 | 2023-02-08 | 141 | 572 | 
 | 2023-02-07 | 141 | 571 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 142 | 570 | 
 | 2023-01-13 | 142 | 570 | 
 | 2023-01-12 | 142 | 570 | 
-| 2023-01-11 | 142 | 570 | 
 

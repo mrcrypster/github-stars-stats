@@ -1,10 +1,10 @@
 # elixir-nx/bumblebee - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 27
 
-★ Stars: 629
+★ Stars: 634
 
 [Open repository](https://github.com/elixir-nx/bumblebee)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 634 | 27 | 
 | 2023-02-09 | 629 | 27 | 
 | 2023-02-08 | 625 | 27 | 
 | 2023-02-07 | 620 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 573 | 23 | 
 | 2023-01-13 | 570 | 21 | 
 | 2023-01-12 | 569 | 21 | 
-| 2023-01-11 | 567 | 21 | 
 

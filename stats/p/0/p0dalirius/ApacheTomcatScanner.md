@@ -1,6 +1,6 @@
 # p0dalirius/ApacheTomcatScanner - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 355 | 43 | 
 | 2023-02-09 | 355 | 43 | 
 | 2023-02-08 | 355 | 43 | 
 | 2023-02-07 | 354 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 340 | 41 | 
 | 2023-01-13 | 340 | 41 | 
 | 2023-01-12 | 340 | 41 | 
-| 2023-01-11 | 339 | 41 | 
 

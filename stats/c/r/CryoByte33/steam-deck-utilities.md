@@ -1,10 +1,10 @@
 # CryoByte33/steam-deck-utilities - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 16
 
-★ Stars: 753
+★ Stars: 756
 
 [Open repository](https://github.com/CryoByte33/steam-deck-utilities)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 756 | 16 | 
 | 2023-02-09 | 753 | 16 | 
 | 2023-02-08 | 751 | 16 | 
 | 2023-02-07 | 746 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 677 | 15 | 
 | 2023-01-14 | 675 | 15 | 
 | 2023-01-13 | 671 | 15 | 
-| 2023-01-12 | 667 | 15 | 
 

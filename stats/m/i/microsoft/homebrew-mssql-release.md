@@ -1,6 +1,6 @@
 # microsoft/homebrew-mssql-release - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 81 | 33 | 
 | 2023-02-09 | 81 | 33 | 
 | 2023-02-08 | 81 | 33 | 
 | 2023-02-07 | 81 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 81 | 33 | 
 | 2023-01-13 | 81 | 33 | 
 | 2023-01-12 | 81 | 33 | 
-| 2023-01-11 | 81 | 33 | 
 

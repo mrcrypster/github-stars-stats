@@ -1,6 +1,6 @@
 # SummerSigh/TheVrMLEyeToolbox - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 344 | 16 | 
 | 2023-02-08 | 344 | 16 | 
 | 2023-02-07 | 344 | 16 | 
 | 2023-02-06 | 344 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 343 | 17 | 
 | 2023-01-13 | 343 | 17 | 
 | 2023-01-12 | 343 | 17 | 
-| 2023-01-11 | 343 | 17 | 
 

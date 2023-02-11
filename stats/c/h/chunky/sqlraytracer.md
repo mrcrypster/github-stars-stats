@@ -1,6 +1,6 @@
 # chunky/sqlraytracer - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 139 | 2 | 
 | 2023-02-09 | 139 | 2 | 
 | 2023-02-08 | 139 | 2 | 
 | 2023-02-07 | 139 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 138 | 2 | 
 | 2023-01-13 | 138 | 2 | 
 | 2023-01-12 | 138 | 2 | 
-| 2023-01-11 | 138 | 2 | 
 

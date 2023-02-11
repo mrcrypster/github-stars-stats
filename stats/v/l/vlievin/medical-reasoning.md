@@ -1,10 +1,10 @@
 # vlievin/medical-reasoning - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 38
+★ Stars: 42
 
 [Open repository](https://github.com/vlievin/medical-reasoning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 42 | 4 | 
 | 2023-02-09 | 38 | 4 | 
 | 2023-02-08 | 38 | 4 | 
 | 2023-02-06 | 38 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 34 | 4 | 
 | 2023-01-13 | 34 | 4 | 
 | 2023-01-12 | 34 | 4 | 
-| 2023-01-11 | 34 | 4 | 
 

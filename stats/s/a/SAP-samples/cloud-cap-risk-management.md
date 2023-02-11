@@ -1,8 +1,8 @@
 # SAP-samples/cloud-cap-risk-management - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 70
+☋ Forks: 71
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 43 | 71 | 
 | 2023-02-09 | 43 | 70 | 
 | 2023-02-08 | 43 | 70 | 
 | 2023-02-07 | 43 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 42 | 69 | 
 | 2023-01-13 | 42 | 68 | 
 | 2023-01-12 | 42 | 68 | 
-| 2023-01-11 | 42 | 68 | 
 

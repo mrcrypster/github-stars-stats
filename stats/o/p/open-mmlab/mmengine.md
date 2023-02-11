@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 10
 
-☋ Forks: 118
+☋ Forks: 121
 
-★ Stars: 426
+★ Stars: 429
 
 [Open repository](https://github.com/open-mmlab/mmengine)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-10 | 426 | 118 | 
+| 2023-02-10 | 429 | 121 | 
 | 2023-02-09 | 424 | 118 | 
 | 2023-02-08 | 415 | 117 | 
 | 2023-02-07 | 412 | 114 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 385 | 106 | 
 | 2023-01-13 | 381 | 104 | 
 | 2023-01-12 | 381 | 102 | 
-| 2023-01-11 | 381 | 101 | 
 

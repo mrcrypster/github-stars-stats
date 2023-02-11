@@ -1,6 +1,6 @@
 # ecmwf-ifs/ectrans - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 10 | 15 | 
 | 2023-02-09 | 10 | 15 | 
 | 2023-02-08 | 10 | 15 | 
 | 2023-02-07 | 10 | 15 | 

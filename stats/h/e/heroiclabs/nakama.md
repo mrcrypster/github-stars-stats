@@ -1,10 +1,10 @@
 # heroiclabs/nakama - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 850
 
-★ Stars: 6776
+★ Stars: 6783
 
 [Open repository](https://github.com/heroiclabs/nakama)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 6783 | 850 | 
 | 2023-02-09 | 6776 | 850 | 
 | 2023-02-08 | 6767 | 850 | 
 | 2023-02-07 | 6766 | 850 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 6665 | 842 | 
 | 2023-01-13 | 6658 | 841 | 
 | 2023-01-12 | 6653 | 841 | 
-| 2023-01-11 | 6647 | 839 | 
 

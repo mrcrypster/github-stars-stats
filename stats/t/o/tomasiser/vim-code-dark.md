@@ -1,6 +1,6 @@
 # tomasiser/vim-code-dark - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 826 | 179 | 
 | 2023-02-09 | 826 | 179 | 
 | 2023-02-08 | 824 | 179 | 
 | 2023-02-07 | 823 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 819 | 177 | 
 | 2023-01-14 | 818 | 177 | 
 | 2023-01-13 | 817 | 177 | 
-| 2023-01-12 | 817 | 177 | 
 

@@ -1,10 +1,10 @@
 # spf13/spf13-vim - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 3735
+☋ Forks: 3736
 
-★ Stars: 15459
+★ Stars: 15460
 
 [Open repository](https://github.com/spf13/spf13-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 15460 | 3736 | 
 | 2023-02-09 | 15459 | 3735 | 
 | 2023-02-08 | 15460 | 3735 | 
 | 2023-02-07 | 15460 | 3735 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 15438 | 3738 | 
 | 2023-01-13 | 15438 | 3738 | 
 | 2023-01-12 | 15437 | 3736 | 
-| 2023-01-11 | 15434 | 3736 | 
 

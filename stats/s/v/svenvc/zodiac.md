@@ -1,6 +1,6 @@
 # svenvc/zodiac - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 8 | 11 | 
 | 2023-02-09 | 8 | 11 | 
 | 2023-02-08 | 8 | 11 | 
 | 2023-02-07 | 8 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 8 | 12 | 
 | 2023-01-14 | 8 | 12 | 
 | 2023-01-13 | 8 | 12 | 
-| 2023-01-11 | 8 | 12 | 
 

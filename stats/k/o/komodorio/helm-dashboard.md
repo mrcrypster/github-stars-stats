@@ -1,10 +1,10 @@
 # komodorio/helm-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 3072
+★ Stars: 3078
 
 [Open repository](https://github.com/komodorio/helm-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3078 | 126 | 
 | 2023-02-09 | 3072 | 125 | 
 | 2023-02-08 | 3067 | 125 | 
 | 2023-02-07 | 3063 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2919 | 116 | 
 | 2023-01-14 | 2916 | 116 | 
 | 2023-01-13 | 2912 | 116 | 
-| 2023-01-12 | 2907 | 115 | 
 

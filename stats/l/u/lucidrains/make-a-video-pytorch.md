@@ -1,6 +1,6 @@
 # lucidrains/make-a-video-pytorch - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1084 | 76 | 
 | 2023-02-09 | 1084 | 76 | 
 | 2023-02-08 | 1079 | 76 | 
 | 2023-02-07 | 1076 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 1036 | 69 | 
 | 2023-01-14 | 1035 | 69 | 
 | 2023-01-13 | 1031 | 69 | 
-| 2023-01-12 | 1027 | 68 | 
 

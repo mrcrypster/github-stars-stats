@@ -1,10 +1,10 @@
 # sacshadow/3D_ChineseInkPaintingStyleShader - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 22
+☋ Forks: 26
 
-★ Stars: 84
+★ Stars: 86
 
 [Open repository](https://github.com/sacshadow/3D_ChineseInkPaintingStyleShader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 86 | 26 | 
 | 2023-02-09 | 84 | 22 | 
 | 2023-02-08 | 75 | 19 | 
 | 2023-02-07 | 66 | 18 | 

@@ -1,8 +1,8 @@
 # Gghbocil/RDP - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 343
+☋ Forks: 348
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2 | 348 | 
 | 2023-02-09 | 2 | 343 | 
 | 2023-02-08 | 2 | 329 | 
 | 2023-02-07 | 1 | 312 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | - | 129 | 
 | 2023-01-13 | - | 127 | 
 | 2023-01-12 | - | 127 | 
-| 2023-01-11 | - | 125 | 
 

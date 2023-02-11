@@ -1,10 +1,10 @@
 # FaztWeb/first-node-express-app - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 68
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/FaztWeb/first-node-express-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 64 | 68 | 
 | 2023-02-09 | 65 | 68 | 
 | 2023-02-08 | 65 | 68 | 
 | 2023-02-06 | 65 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 63 | 69 | 
 | 2023-01-13 | 63 | 69 | 
 | 2023-01-12 | 63 | 69 | 
-| 2023-01-11 | 63 | 69 | 
 

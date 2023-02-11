@@ -1,6 +1,6 @@
 # apache/couchdb-mochiweb - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 5 | 13 | 
 | 2023-02-09 | 5 | 13 | 
 | 2023-02-08 | 5 | 13 | 
 | 2023-02-07 | 5 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 5 | 13 | 
 | 2023-01-14 | 5 | 13 | 
 | 2023-01-13 | 5 | 13 | 
-| 2023-01-12 | 5 | 13 | 
 

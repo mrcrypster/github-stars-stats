@@ -1,10 +1,10 @@
 # enhorse/java-interview - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1499
+☋ Forks: 1502
 
-★ Stars: 3648
+★ Stars: 3652
 
 [Open repository](https://github.com/enhorse/java-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3652 | 1502 | 
 | 2023-02-09 | 3648 | 1499 | 
 | 2023-02-08 | 3644 | 1497 | 
 | 2023-02-07 | 3637 | 1497 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3543 | 1461 | 
 | 2023-01-13 | 3542 | 1460 | 
 | 2023-01-12 | 3540 | 1456 | 
-| 2023-01-11 | 3537 | 1454 | 
 

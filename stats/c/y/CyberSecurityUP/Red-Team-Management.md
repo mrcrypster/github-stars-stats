@@ -1,10 +1,10 @@
 # CyberSecurityUP/Red-Team-Management - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 68
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/CyberSecurityUP/Red-Team-Management)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 297 | 68 | 
 | 2023-02-09 | 296 | 68 | 
 | 2023-02-08 | 296 | 68 | 
 | 2023-02-07 | 296 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 253 | 58 | 
 | 2023-01-13 | 252 | 58 | 
 | 2023-01-12 | 252 | 57 | 
-| 2023-01-11 | 252 | 57 | 
 

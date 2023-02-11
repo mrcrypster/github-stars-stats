@@ -1,10 +1,10 @@
 # hunar4321/particle-life - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 195
 
-★ Stars: 1689
+★ Stars: 1690
 
 [Open repository](https://github.com/hunar4321/particle-life)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1690 | 195 | 
 | 2023-02-09 | 1689 | 195 | 
 | 2023-02-08 | 1687 | 194 | 
 | 2023-02-07 | 1687 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1670 | 190 | 
 | 2023-01-13 | 1669 | 190 | 
 | 2023-01-12 | 1668 | 190 | 
-| 2023-01-11 | 1668 | 190 | 
 

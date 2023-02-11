@@ -1,6 +1,6 @@
 # cognitedata/oryx - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 195 | 12 | 
 | 2023-02-09 | 195 | 12 | 
 | 2023-02-08 | 195 | 12 | 
 | 2023-02-07 | 195 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 195 | 12 | 
 | 2023-01-14 | 195 | 12 | 
 | 2023-01-13 | 195 | 12 | 
-| 2023-01-11 | 195 | 12 | 
 

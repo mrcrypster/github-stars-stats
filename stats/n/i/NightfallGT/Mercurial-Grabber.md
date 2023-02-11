@@ -1,10 +1,10 @@
 # NightfallGT/Mercurial-Grabber - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 268
 
-★ Stars: 335
+★ Stars: 333
 
 [Open repository](https://github.com/NightfallGT/Mercurial-Grabber)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 333 | 268 | 
 | 2023-02-09 | 335 | 268 | 
 | 2023-02-08 | 334 | 269 | 
 | 2023-02-07 | 334 | 269 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 327 | 266 | 
 | 2023-01-13 | 327 | 266 | 
 | 2023-01-12 | 327 | 266 | 
-| 2023-01-11 | 327 | 266 | 
 

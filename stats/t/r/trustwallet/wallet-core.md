@@ -1,10 +1,10 @@
 # trustwallet/wallet-core - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1298
+☋ Forks: 1300
 
-★ Stars: 2117
+★ Stars: 2120
 
 [Open repository](https://github.com/trustwallet/wallet-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2120 | 1300 | 
 | 2023-02-09 | 2117 | 1298 | 
 | 2023-02-08 | 2117 | 1296 | 
 | 2023-02-07 | 2116 | 1294 | 

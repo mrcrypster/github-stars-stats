@@ -1,6 +1,6 @@
 # envkey/envkey - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 387 | 20 | 
 | 2023-02-09 | 387 | 20 | 
 | 2023-02-08 | 387 | 20 | 
 | 2023-02-06 | 387 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 363 | 20 | 
 | 2023-01-13 | 363 | 20 | 
 | 2023-01-12 | 362 | 20 | 
-| 2023-01-11 | 362 | 20 | 
 

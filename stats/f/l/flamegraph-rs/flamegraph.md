@@ -1,10 +1,10 @@
 # flamegraph-rs/flamegraph - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 118
 
-★ Stars: 3139
+★ Stars: 3144
 
 [Open repository](https://github.com/flamegraph-rs/flamegraph)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3144 | 118 | 
 | 2023-02-09 | 3139 | 118 | 
 | 2023-02-08 | 3138 | 118 | 
 | 2023-02-07 | 3135 | 119 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 3082 | 119 | 
 | 2023-01-14 | 3080 | 119 | 
 | 2023-01-13 | 3075 | 119 | 
-| 2023-01-12 | 3074 | 119 | 
 

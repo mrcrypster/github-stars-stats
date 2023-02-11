@@ -1,6 +1,6 @@
 # abhi1kumar/DEVIANT - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 134 | 22 | 
 | 2023-02-09 | 134 | 22 | 
 | 2023-02-07 | 132 | 22 | 
 | 2023-02-06 | 131 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 128 | 21 | 
 | 2023-01-13 | 128 | 21 | 
 | 2023-01-12 | 128 | 21 | 
-| 2023-01-11 | 128 | 21 | 
 

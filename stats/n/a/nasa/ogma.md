@@ -1,6 +1,6 @@
 # nasa/ogma - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 230 | 17 | 
 | 2023-02-09 | 230 | 17 | 
 | 2023-02-08 | 230 | 17 | 
 | 2023-02-07 | 230 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 228 | 17 | 
 | 2023-01-13 | 228 | 17 | 
 | 2023-01-12 | 228 | 17 | 
-| 2023-01-11 | 228 | 17 | 
 

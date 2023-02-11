@@ -1,10 +1,10 @@
 # pymumu/smartdns - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 899
+☋ Forks: 898
 
-★ Stars: 5820
+★ Stars: 5826
 
 [Open repository](https://github.com/pymumu/smartdns)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 5826 | 898 | 
 | 2023-02-09 | 5820 | 899 | 
 | 2023-02-08 | 5817 | 899 | 
 | 2023-02-07 | 5813 | 899 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 5718 | 888 | 
 | 2023-01-13 | 5715 | 888 | 
 | 2023-01-12 | 5711 | 887 | 
-| 2023-01-11 | 5706 | 887 | 
 

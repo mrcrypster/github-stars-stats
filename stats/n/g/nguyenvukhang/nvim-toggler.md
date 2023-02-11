@@ -1,10 +1,10 @@
 # nguyenvukhang/nvim-toggler - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 3
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/nguyenvukhang/nvim-toggler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 83 | 3 | 
 | 2023-02-09 | 82 | 3 | 
 | 2023-02-08 | 82 | 3 | 
 | 2023-02-07 | 82 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 83 | 4 | 
 | 2023-01-13 | 82 | 4 | 
 | 2023-01-12 | 82 | 4 | 
-| 2023-01-11 | 82 | 4 | 
 

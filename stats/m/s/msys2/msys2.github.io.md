@@ -1,10 +1,10 @@
 # msys2/msys2.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 203
 
-★ Stars: 1487
+★ Stars: 1491
 
 [Open repository](https://github.com/msys2/msys2.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1491 | 203 | 
 | 2023-02-09 | 1487 | 203 | 
 | 2023-02-08 | 1486 | 202 | 
 | 2023-02-07 | 1486 | 200 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 1452 | 194 | 
 | 2023-01-14 | 1452 | 195 | 
 | 2023-01-12 | 1448 | 195 | 
-| 2023-01-11 | 1446 | 195 | 
 

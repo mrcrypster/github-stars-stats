@@ -1,6 +1,6 @@
 # IBM/IBM-Z-zOS - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 290 | 161 | 
 | 2023-02-09 | 290 | 161 | 
 | 2023-02-08 | 290 | 161 | 
 | 2023-02-07 | 290 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 287 | 162 | 
 | 2023-01-13 | 287 | 161 | 
 | 2023-01-12 | 287 | 161 | 
-| 2023-01-11 | 286 | 161 | 
 

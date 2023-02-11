@@ -1,6 +1,6 @@
 # lira1705/mentoria-typescript - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 298
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 253 | 298 | 
 | 2023-02-09 | 253 | 298 | 
 | 2023-02-08 | 253 | 298 | 
 | 2023-02-07 | 253 | 299 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 253 | 299 | 
 | 2023-01-13 | 253 | 299 | 
 | 2023-01-12 | 254 | 299 | 
-| 2023-01-11 | 254 | 299 | 
 

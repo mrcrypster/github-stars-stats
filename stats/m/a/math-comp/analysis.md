@@ -1,6 +1,6 @@
 # math-comp/analysis - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 145 | 35 | 
 | 2023-02-09 | 145 | 35 | 
 | 2023-02-08 | 145 | 35 | 
 | 2023-02-07 | 145 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 140 | 35 | 
 | 2023-01-13 | 140 | 35 | 
 | 2023-01-12 | 140 | 35 | 
-| 2023-01-11 | 140 | 35 | 
 

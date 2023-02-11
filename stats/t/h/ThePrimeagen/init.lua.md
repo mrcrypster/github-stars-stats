@@ -1,10 +1,10 @@
 # ThePrimeagen/init.lua - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 176
+☋ Forks: 177
 
-★ Stars: 970
+★ Stars: 974
 
 [Open repository](https://github.com/ThePrimeagen/init.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 974 | 177 | 
 | 2023-02-09 | 970 | 176 | 
 | 2023-02-08 | 965 | 176 | 
 | 2023-02-07 | 964 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 813 | 132 | 
 | 2023-01-13 | 802 | 129 | 
 | 2023-01-12 | 790 | 127 | 
-| 2023-01-11 | 785 | 126 | 
 

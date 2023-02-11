@@ -1,6 +1,6 @@
 # for-GET/know-your-http-well - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2305 | 160 | 
 | 2023-02-09 | 2305 | 160 | 
 | 2023-02-08 | 2304 | 160 | 
 | 2023-02-07 | 2304 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 2294 | 159 | 
 | 2023-01-13 | 2293 | 160 | 
 | 2023-01-12 | 2293 | 160 | 
-| 2023-01-11 | 2294 | 160 | 
 

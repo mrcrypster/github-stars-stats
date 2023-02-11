@@ -1,6 +1,6 @@
 # maHidaka/ros_face - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1111 | 55 | 
 | 2023-02-09 | 1111 | 55 | 
 | 2023-02-08 | 1112 | 55 | 
 | 2023-02-07 | 1109 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1102 | 55 | 
 | 2023-01-13 | 1102 | 55 | 
 | 2023-01-12 | 1101 | 55 | 
-| 2023-01-11 | 1101 | 55 | 
 

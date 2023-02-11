@@ -1,6 +1,6 @@
 # apple/swift-installer-scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 47 | 23 | 
 | 2023-02-09 | 47 | 23 | 
 | 2023-02-08 | 47 | 23 | 
 | 2023-02-07 | 46 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 43 | 21 | 
 | 2023-01-13 | 43 | 21 | 
 | 2023-01-12 | 42 | 21 | 
-| 2023-01-11 | 42 | 21 | 
 

@@ -1,6 +1,6 @@
 # topepo/caret - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 634
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1509 | 634 | 
 | 2023-02-09 | 1509 | 634 | 
 | 2023-02-08 | 1509 | 634 | 
 | 2023-02-07 | 1508 | 634 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1502 | 636 | 
 | 2023-01-13 | 1501 | 636 | 
 | 2023-01-12 | 1501 | 636 | 
-| 2023-01-11 | 1501 | 636 | 
 

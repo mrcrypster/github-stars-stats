@@ -1,10 +1,10 @@
 # komeilmehranfar/visa-sponsers-companies-for-iranians - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 75
 
-★ Stars: 984
+★ Stars: 987
 
 [Open repository](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 987 | 75 | 
 | 2023-02-09 | 984 | 75 | 
 | 2023-02-08 | 983 | 74 | 
 | 2023-02-07 | 969 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 638 | 39 | 
 | 2023-01-13 | 624 | 37 | 
 | 2023-01-12 | 413 | 24 | 
-| 2023-01-11 | 395 | 21 | 
 

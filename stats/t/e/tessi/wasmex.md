@@ -1,10 +1,10 @@
 # tessi/wasmex - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 17
 
-★ Stars: 336
+★ Stars: 337
 
 [Open repository](https://github.com/tessi/wasmex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 337 | 17 | 
 | 2023-02-09 | 336 | 17 | 
 | 2023-02-08 | 336 | 17 | 
 | 2023-02-07 | 336 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 328 | 15 | 
 | 2023-01-13 | 327 | 15 | 
 | 2023-01-12 | 325 | 15 | 
-| 2023-01-11 | 325 | 14 | 
 

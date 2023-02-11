@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-java - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 643
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1429 | 643 | 
 | 2023-02-09 | 1429 | 643 | 
 | 2023-02-08 | 1426 | 642 | 
 | 2023-02-07 | 1424 | 641 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1406 | 635 | 
 | 2023-01-13 | 1405 | 635 | 
 | 2023-01-12 | 1404 | 635 | 
-| 2023-01-11 | 1404 | 636 | 
 

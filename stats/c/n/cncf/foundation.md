@@ -1,10 +1,10 @@
 # cncf/foundation - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 401
+☋ Forks: 402
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/cncf/foundation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 425 | 402 | 
 | 2023-02-09 | 424 | 401 | 
 | 2023-02-08 | 424 | 401 | 
 | 2023-02-07 | 421 | 401 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 415 | 389 | 
 | 2023-01-13 | 415 | 389 | 
 | 2023-01-12 | 415 | 389 | 
-| 2023-01-11 | 415 | 389 | 
 

@@ -1,10 +1,10 @@
 # microsoft/playwright-java - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 123
 
-★ Stars: 667
+★ Stars: 668
 
 [Open repository](https://github.com/microsoft/playwright-java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 668 | 123 | 
 | 2023-02-09 | 667 | 123 | 
 | 2023-02-08 | 666 | 123 | 
 | 2023-02-06 | 664 | 123 | 

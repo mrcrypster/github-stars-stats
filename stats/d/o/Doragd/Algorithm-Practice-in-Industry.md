@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 10
 
-☋ Forks: 42
+☋ Forks: 45
 
-★ Stars: 293
+★ Stars: 323
 
 [Open repository](https://github.com/Doragd/Algorithm-Practice-in-Industry)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-10 | 293 | 42 | 
+| 2023-02-10 | 323 | 45 | 
 | 2023-02-09 | 289 | 42 | 
 

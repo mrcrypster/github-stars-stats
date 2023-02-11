@@ -1,6 +1,6 @@
 # WhatsDownYT/VDAB-DefinitiveEdition - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 9 | 12 | 
 | 2023-02-09 | 9 | 12 | 
 | 2023-02-08 | 9 | 11 | 
 | 2023-02-07 | 9 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 4 | 10 | 
 | 2023-01-13 | 4 | 9 | 
 | 2023-01-12 | 4 | 8 | 
-| 2023-01-11 | 4 | 7 | 
 

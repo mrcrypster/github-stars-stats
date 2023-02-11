@@ -1,10 +1,10 @@
 # dotfiles/dotfiles.github.com - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 129
 
-★ Stars: 1335
+★ Stars: 1336
 
 [Open repository](https://github.com/dotfiles/dotfiles.github.com)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1336 | 129 | 
 | 2023-02-09 | 1335 | 129 | 
 | 2023-02-08 | 1335 | 128 | 
 | 2023-02-07 | 1335 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1330 | 126 | 
 | 2023-01-13 | 1330 | 126 | 
 | 2023-01-12 | 1330 | 126 | 
-| 2023-01-11 | 1330 | 126 | 
 

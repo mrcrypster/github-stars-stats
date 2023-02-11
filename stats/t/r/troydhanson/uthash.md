@@ -1,10 +1,10 @@
 # troydhanson/uthash - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 811
 
-★ Stars: 3375
+★ Stars: 3378
 
 [Open repository](https://github.com/troydhanson/uthash)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3378 | 811 | 
 | 2023-02-09 | 3375 | 811 | 
 | 2023-02-07 | 3375 | 811 | 
 | 2023-02-06 | 3371 | 811 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3338 | 810 | 
 | 2023-01-13 | 3334 | 810 | 
 | 2023-01-12 | 3328 | 810 | 
-| 2023-01-11 | 3328 | 810 | 
 

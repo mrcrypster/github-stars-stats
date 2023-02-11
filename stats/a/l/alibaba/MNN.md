@@ -1,10 +1,10 @@
 # alibaba/MNN - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1491
+☋ Forks: 1492
 
-★ Stars: 7339
+★ Stars: 7341
 
 [Open repository](https://github.com/alibaba/MNN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 7341 | 1492 | 
 | 2023-02-09 | 7339 | 1491 | 
 | 2023-02-08 | 7333 | 1488 | 
 | 2023-02-07 | 7328 | 1486 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 7285 | 1476 | 
 | 2023-01-13 | 7284 | 1476 | 
 | 2023-01-12 | 7283 | 1477 | 
-| 2023-01-11 | 7280 | 1476 | 
 

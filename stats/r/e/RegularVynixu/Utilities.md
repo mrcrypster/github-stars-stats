@@ -1,8 +1,8 @@
 # RegularVynixu/Utilities - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 10 | 52 | 
 | 2023-02-09 | 10 | 53 | 
 | 2023-02-08 | 10 | 52 | 
 | 2023-02-07 | 10 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 10 | 47 | 
 | 2023-01-13 | 10 | 46 | 
 | 2023-01-12 | 10 | 46 | 
-| 2023-01-11 | 10 | 46 | 
 

@@ -1,6 +1,6 @@
 # dhall-lang/dhall-haskell - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 849 | 195 | 
 | 2023-02-09 | 849 | 195 | 
 | 2023-02-08 | 849 | 195 | 
 | 2023-02-07 | 848 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 848 | 194 | 
 | 2023-01-13 | 848 | 194 | 
 | 2023-01-12 | 848 | 194 | 
-| 2023-01-11 | 848 | 194 | 
 

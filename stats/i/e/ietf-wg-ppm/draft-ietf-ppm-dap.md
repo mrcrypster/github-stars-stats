@@ -1,6 +1,6 @@
 # ietf-wg-ppm/draft-ietf-ppm-dap - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 30 | 20 | 
 | 2023-02-09 | 30 | 20 | 
 | 2023-02-08 | 30 | 20 | 
 | 2023-02-07 | 29 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 29 | 20 | 
 | 2023-01-14 | 29 | 20 | 
 | 2023-01-12 | 29 | 20 | 
-| 2023-01-11 | 29 | 20 | 
 

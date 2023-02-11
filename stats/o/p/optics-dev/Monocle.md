@@ -1,10 +1,10 @@
 # optics-dev/Monocle - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 202
 
-★ Stars: 1560
+★ Stars: 1562
 
 [Open repository](https://github.com/optics-dev/Monocle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1562 | 202 | 
 | 2023-02-09 | 1560 | 202 | 
 | 2023-02-08 | 1560 | 202 | 
 | 2023-02-06 | 1559 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1553 | 202 | 
 | 2023-01-13 | 1553 | 202 | 
 | 2023-01-12 | 1552 | 202 | 
-| 2023-01-11 | 1552 | 202 | 
 

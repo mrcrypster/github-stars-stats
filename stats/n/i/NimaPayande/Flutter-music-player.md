@@ -1,6 +1,6 @@
 # NimaPayande/Flutter-music-player - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 55 | 15 | 
 | 2023-02-09 | 55 | 15 | 
 | 2023-02-08 | 55 | 15 | 
 | 2023-02-07 | 55 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 53 | 14 | 
 | 2023-01-13 | 52 | 14 | 
 | 2023-01-12 | 52 | 14 | 
-| 2023-01-11 | 51 | 14 | 
 

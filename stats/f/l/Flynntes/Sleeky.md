@@ -1,10 +1,10 @@
 # Flynntes/Sleeky - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 86
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/Flynntes/Sleeky)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 412 | 86 | 
 | 2023-02-09 | 411 | 86 | 
 | 2023-02-08 | 410 | 86 | 
 | 2023-02-07 | 410 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 407 | 86 | 
 | 2023-01-13 | 406 | 86 | 
 | 2023-01-12 | 405 | 86 | 
-| 2023-01-11 | 404 | 86 | 
 

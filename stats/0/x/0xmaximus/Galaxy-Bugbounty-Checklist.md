@@ -1,10 +1,10 @@
 # 0xmaximus/Galaxy-Bugbounty-Checklist - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 209
+☋ Forks: 211
 
-★ Stars: 978
+★ Stars: 979
 
 [Open repository](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 979 | 211 | 
 | 2023-02-09 | 978 | 209 | 
 | 2023-02-08 | 977 | 208 | 
 | 2023-02-07 | 976 | 207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 933 | 195 | 
 | 2023-01-14 | 930 | 195 | 
 | 2023-01-13 | 925 | 193 | 
-| 2023-01-12 | 925 | 193 | 
 

@@ -1,10 +1,10 @@
 # hvesalai/emacs-scala-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 66
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/hvesalai/emacs-scala-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 358 | 66 | 
 | 2023-02-09 | 357 | 66 | 
 | 2023-02-08 | 357 | 66 | 
 | 2023-02-06 | 357 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 357 | 65 | 
 | 2023-01-13 | 357 | 65 | 
 | 2023-01-12 | 357 | 65 | 
-| 2023-01-11 | 357 | 65 | 
 

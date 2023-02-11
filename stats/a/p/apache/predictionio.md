@@ -1,6 +1,6 @@
 # apache/predictionio - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2018
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 12549 | 2018 | 
 | 2023-02-09 | 12549 | 2018 | 
 | 2023-02-08 | 12548 | 2018 | 
 | 2023-02-06 | 12546 | 2018 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 12543 | 2018 | 
 | 2023-01-13 | 12543 | 2018 | 
 | 2023-01-12 | 12542 | 2018 | 
-| 2023-01-11 | 12542 | 2018 | 
 

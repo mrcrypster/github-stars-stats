@@ -1,10 +1,10 @@
 # AmiBlitz/AmiBlitz3 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/AmiBlitz/AmiBlitz3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 94 | 8 | 
 | 2023-02-09 | 93 | 8 | 
 | 2023-02-08 | 93 | 8 | 
 | 2023-02-07 | 93 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 91 | 8 | 
 | 2023-01-14 | 91 | 8 | 
 | 2023-01-13 | 91 | 8 | 
-| 2023-01-12 | 91 | 8 | 
 

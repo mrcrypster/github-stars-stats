@@ -1,6 +1,6 @@
 # fengdu78/WZU-machine-learning-course - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 547
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1242 | 547 | 
 | 2023-02-09 | 1242 | 547 | 
 | 2023-02-08 | 1241 | 547 | 
 | 2023-02-06 | 1241 | 547 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1233 | 544 | 
 | 2023-01-13 | 1233 | 544 | 
 | 2023-01-12 | 1233 | 543 | 
-| 2023-01-11 | 1232 | 543 | 
 

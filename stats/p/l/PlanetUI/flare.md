@@ -1,8 +1,8 @@
 # PlanetUI/flare - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3 | 4 | 
 | 2023-02-09 | 3 | 3 | 
 | 2023-02-08 | 3 | 3 | 
 | 2023-02-07 | 3 | 3 | 

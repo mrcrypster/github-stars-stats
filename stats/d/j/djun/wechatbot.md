@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 10
 
-☋ Forks: 390
+☋ Forks: 428
 
-★ Stars: 229
+★ Stars: 285
 
 [Open repository](https://github.com/djun/wechatbot)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-10 | 229 | 390 | 
+| 2023-02-10 | 285 | 428 | 
 | 2023-02-09 | 227 | 389 | 
 | 2023-02-08 | 179 | 367 | 
 | 2023-02-07 | 140 | 346 | 

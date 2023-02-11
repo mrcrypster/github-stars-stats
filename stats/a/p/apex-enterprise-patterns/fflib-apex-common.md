@@ -1,10 +1,10 @@
 # apex-enterprise-patterns/fflib-apex-common - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 462
 
-★ Stars: 760
+★ Stars: 762
 
 [Open repository](https://github.com/apex-enterprise-patterns/fflib-apex-common)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 762 | 462 | 
 | 2023-02-09 | 760 | 462 | 
 | 2023-02-08 | 759 | 462 | 
 | 2023-02-07 | 757 | 460 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 747 | 456 | 
 | 2023-01-13 | 747 | 456 | 
 | 2023-01-12 | 747 | 456 | 
-| 2023-01-11 | 747 | 456 | 
 

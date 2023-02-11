@@ -1,8 +1,8 @@
 # PolarityWorks/zmk-config-adv360 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 114
+☋ Forks: 115
 
 ★ Stars: 9
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 9 | 115 | 
+| 2023-02-10 | 9 | 115 | 
 | 2023-02-09 | 9 | 114 | 
 | 2023-02-08 | 9 | 113 | 
 | 2023-02-06 | 9 | 113 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 9 | 110 | 
 | 2023-01-13 | 9 | 110 | 
 | 2023-01-12 | 9 | 110 | 
-| 2023-01-11 | 9 | 110 | 
 

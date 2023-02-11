@@ -1,6 +1,6 @@
 # phrase/ios-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14 | 2 | 
 | 2023-02-09 | 14 | 2 | 
 | 2023-02-08 | 14 | 2 | 
 | 2023-02-07 | 14 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 13 | 2 | 
 | 2023-01-14 | 13 | 2 | 
 | 2023-01-12 | 13 | 2 | 
-| 2023-01-11 | 13 | 2 | 
 

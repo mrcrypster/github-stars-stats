@@ -1,6 +1,6 @@
 # fwonggh/Bthub - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 926 | 65 | 
 | 2023-02-09 | 926 | 65 | 
 | 2023-02-08 | 925 | 65 | 
 | 2023-02-07 | 924 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 919 | 65 | 
 | 2023-01-13 | 917 | 65 | 
 | 2023-01-12 | 915 | 65 | 
-| 2023-01-11 | 913 | 65 | 
 

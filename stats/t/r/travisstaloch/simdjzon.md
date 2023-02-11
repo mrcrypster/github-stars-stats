@@ -1,6 +1,6 @@
 # travisstaloch/simdjzon - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 48 | 2 | 
 | 2023-02-08 | 48 | 2 | 
 | 2023-02-07 | 48 | 2 | 
 | 2023-02-06 | 48 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 47 | 2 | 
 | 2023-01-13 | 47 | 2 | 
 | 2023-01-12 | 47 | 2 | 
-| 2023-01-11 | 47 | 2 | 
 

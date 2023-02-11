@@ -1,0 +1,18 @@
+# ChicoState/cpp-container - stars & forks statistics
+
+Stats updated on Feb 2023, 11
+
+☋ Forks: 5
+
+★ Stars: 0
+
+[Open repository](https://github.com/ChicoState/cpp-container)
+
+[Open detailed stats for ChicoState/cpp-container](https://reviewgithub.com/rep/ChicoState/cpp-container)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-11 | - | 5 | 
+| 2023-02-10 | - | 5 | 
+

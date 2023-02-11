@@ -1,10 +1,10 @@
 # Cracked5pider/KaynStrike - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 55
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/Cracked5pider/KaynStrike)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 321 | 55 | 
 | 2023-02-09 | 320 | 55 | 
 | 2023-02-08 | 320 | 55 | 
 | 2023-02-07 | 319 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 315 | 54 | 
 | 2023-01-13 | 315 | 54 | 
 | 2023-01-12 | 315 | 54 | 
-| 2023-01-11 | 315 | 54 | 
 

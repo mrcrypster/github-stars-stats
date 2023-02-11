@@ -1,10 +1,10 @@
 # be5invis/Iosevka - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 522
+☋ Forks: 521
 
-★ Stars: 15360
+★ Stars: 15369
 
 [Open repository](https://github.com/be5invis/Iosevka)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 15369 | 521 | 
 | 2023-02-09 | 15360 | 522 | 
 | 2023-02-08 | 15353 | 521 | 
 | 2023-02-07 | 15344 | 521 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 15202 | 513 | 
 | 2023-01-14 | 15192 | 513 | 
 | 2023-01-13 | 15191 | 513 | 
-| 2023-01-11 | 15187 | 513 | 
 

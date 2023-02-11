@@ -1,6 +1,6 @@
 # zzossig/hugo-theme-zzo - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 670 | 245 | 
 | 2023-02-09 | 670 | 245 | 
 | 2023-02-08 | 670 | 245 | 
 | 2023-02-07 | 670 | 244 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 664 | 243 | 
 | 2023-01-14 | 663 | 245 | 
 | 2023-01-13 | 663 | 245 | 
-| 2023-01-12 | 663 | 245 | 
 

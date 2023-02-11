@@ -1,6 +1,6 @@
 # u-root/u-root - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 350
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2141 | 350 | 
 | 2023-02-08 | 2141 | 350 | 
 | 2023-02-07 | 2139 | 350 | 
 | 2023-02-06 | 2129 | 350 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 2108 | 347 | 
 | 2023-01-13 | 2107 | 346 | 
 | 2023-01-12 | 2106 | 346 | 
-| 2023-01-11 | 2106 | 346 | 
 

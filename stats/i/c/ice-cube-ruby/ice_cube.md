@@ -1,10 +1,10 @@
 # ice-cube-ruby/ice_cube - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 328
 
-★ Stars: 2161
+★ Stars: 2162
 
 [Open repository](https://github.com/ice-cube-ruby/ice_cube)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2162 | 328 | 
 | 2023-02-10 | 2161 | 328 | 
 | 2023-02-08 | 2161 | 328 | 
 | 2023-02-07 | 2161 | 328 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 2160 | 325 | 
 | 2023-01-13 | 2160 | 325 | 
 | 2023-01-12 | 2160 | 325 | 
-| 2023-01-11 | 2160 | 325 | 
 

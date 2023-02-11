@@ -1,10 +1,10 @@
 # python-telegram-bot/python-telegram-bot - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 4606
+☋ Forks: 4609
 
-★ Stars: 20960
+★ Stars: 20966
 
 [Open repository](https://github.com/python-telegram-bot/python-telegram-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 20966 | 4609 | 
 | 2023-02-09 | 20960 | 4606 | 
 | 2023-02-08 | 20947 | 4603 | 
 | 2023-02-07 | 20941 | 4600 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 20709 | 4564 | 
 | 2023-01-14 | 20699 | 4562 | 
 | 2023-01-12 | 20679 | 4556 | 
-| 2023-01-11 | 20675 | 4553 | 
 

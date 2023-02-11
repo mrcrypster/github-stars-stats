@@ -1,6 +1,6 @@
 # f0ng/JavaFileDict - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 191 | 16 | 
 | 2023-02-09 | 191 | 16 | 
 | 2023-02-08 | 190 | 16 | 
 | 2023-02-07 | 190 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 177 | 15 | 
 | 2023-01-14 | 177 | 15 | 
 | 2023-01-12 | 170 | 15 | 
-| 2023-01-11 | 140 | 13 | 
 

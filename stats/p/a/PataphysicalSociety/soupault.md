@@ -1,10 +1,10 @@
 # PataphysicalSociety/soupault - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 16
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/PataphysicalSociety/soupault)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 279 | 16 | 
 | 2023-02-09 | 278 | 16 | 
 | 2023-02-08 | 278 | 16 | 
 | 2023-02-07 | 278 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 271 | 16 | 
 | 2023-01-13 | 271 | 16 | 
 | 2023-01-12 | 271 | 16 | 
-| 2023-01-11 | 271 | 16 | 
 

@@ -1,6 +1,6 @@
 # TrevorFrench/cryptotrackr - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14 | 4 | 
 | 2023-02-09 | 14 | 4 | 
 | 2023-02-08 | 14 | 4 | 
 | 2023-02-07 | 14 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 15 | 3 | 
 | 2023-01-13 | 15 | 3 | 
 | 2023-01-12 | 15 | 3 | 
-| 2023-01-11 | 15 | 3 | 
 

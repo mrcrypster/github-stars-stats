@@ -1,10 +1,10 @@
 # MapsterMapper/Mapster - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 263
+☋ Forks: 264
 
-★ Stars: 3306
+★ Stars: 3308
 
 [Open repository](https://github.com/MapsterMapper/Mapster)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3308 | 264 | 
 | 2023-02-09 | 3306 | 263 | 
 | 2023-02-08 | 3305 | 263 | 
 | 2023-02-07 | 3303 | 263 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3260 | 264 | 
 | 2023-01-13 | 3258 | 264 | 
 | 2023-01-12 | 3255 | 264 | 
-| 2023-01-11 | 3250 | 262 | 
 

@@ -1,0 +1,18 @@
+# justjake/mousetile-gnome - stars & forks statistics
+
+Stats updated on Feb 2023, 11
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/justjake/mousetile-gnome)
+
+[Open detailed stats for justjake/mousetile-gnome](https://reviewgithub.com/rep/justjake/mousetile-gnome)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-11 | - | - | 
+| 2023-02-10 | - | - | 
+

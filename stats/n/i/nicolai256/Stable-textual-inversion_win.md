@@ -1,6 +1,6 @@
 # nicolai256/Stable-textual-inversion_win - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 213 | 40 | 
 | 2023-02-09 | 213 | 40 | 
 | 2023-02-08 | 213 | 40 | 
 | 2023-02-07 | 213 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 207 | 38 | 
 | 2023-01-13 | 207 | 38 | 
 | 2023-01-12 | 206 | 37 | 
-| 2023-01-11 | 205 | 37 | 
 

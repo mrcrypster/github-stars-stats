@@ -1,10 +1,10 @@
 # MicrosoftLearning/DP-203-Data-Engineer - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
-☋ Forks: 402
+☋ Forks: 403
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/MicrosoftLearning/DP-203-Data-Engineer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 410 | 403 | 
 | 2023-02-08 | 409 | 402 | 
 | 2023-02-07 | 408 | 402 | 
 | 2023-02-06 | 407 | 401 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 393 | 391 | 
 | 2023-01-13 | 392 | 389 | 
 | 2023-01-12 | 392 | 389 | 
-| 2023-01-11 | 391 | 388 | 
 

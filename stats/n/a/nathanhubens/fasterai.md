@@ -1,6 +1,6 @@
 # nathanhubens/fasterai - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 197 | 15 | 
 | 2023-02-09 | 197 | 15 | 
 | 2023-02-08 | 197 | 15 | 
 | 2023-02-07 | 197 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 197 | 14 | 
 | 2023-01-14 | 197 | 14 | 
 | 2023-01-13 | 196 | 14 | 
-| 2023-01-12 | 196 | 14 | 
 

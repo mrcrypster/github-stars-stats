@@ -1,6 +1,6 @@
 # d3ckx1/OLa - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 451 | 71 | 
 | 2023-02-09 | 451 | 71 | 
 | 2023-02-08 | 448 | 71 | 
 | 2023-02-07 | 447 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 439 | 70 | 
 | 2023-01-13 | 439 | 70 | 
 | 2023-01-12 | 437 | 70 | 
-| 2023-01-11 | 437 | 70 | 
 

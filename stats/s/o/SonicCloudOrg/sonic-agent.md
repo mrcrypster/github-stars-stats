@@ -1,10 +1,10 @@
 # SonicCloudOrg/sonic-agent - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 430
 
-★ Stars: 1472
+★ Stars: 1478
 
 [Open repository](https://github.com/SonicCloudOrg/sonic-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1478 | 430 | 
 | 2023-02-09 | 1472 | 430 | 
 | 2023-02-08 | 1464 | 430 | 
 | 2023-02-07 | 1457 | 429 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 1327 | 422 | 
 | 2023-01-14 | 1327 | 422 | 
 | 2023-01-13 | 1327 | 422 | 
-| 2023-01-12 | 1323 | 417 | 
 

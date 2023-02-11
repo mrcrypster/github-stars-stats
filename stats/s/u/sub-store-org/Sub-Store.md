@@ -1,6 +1,6 @@
 # sub-store-org/Sub-Store - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2176 | 189 | 
 | 2023-02-09 | 2176 | 189 | 
 | 2023-02-08 | 2177 | 189 | 
 | 2023-02-07 | 2172 | 188 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2130 | 188 | 
 | 2023-01-14 | 2129 | 189 | 
 | 2023-01-13 | 2127 | 189 | 
-| 2023-01-12 | 2123 | 187 | 
 

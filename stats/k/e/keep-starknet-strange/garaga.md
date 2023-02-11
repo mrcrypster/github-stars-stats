@@ -1,8 +1,8 @@
 # keep-starknet-strange/garaga - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 44 | 9 | 
 | 2023-02-09 | 44 | 8 | 
 | 2023-02-08 | 43 | 8 | 
 | 2023-02-07 | 43 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 35 | 1 | 
 | 2023-01-13 | 35 | 1 | 
 | 2023-01-12 | 29 | 1 | 
-| 2023-01-11 | 28 | 1 | 
 

@@ -1,6 +1,6 @@
 # confluentinc/confluent-kubernetes-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 95 | 132 | 
 | 2023-02-09 | 95 | 132 | 
 | 2023-02-08 | 94 | 133 | 
 | 2023-02-07 | 92 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 87 | 128 | 
 | 2023-01-13 | 87 | 128 | 
 | 2023-01-12 | 87 | 127 | 
-| 2023-01-11 | 87 | 127 | 
 

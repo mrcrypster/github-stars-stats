@@ -1,6 +1,6 @@
 # DV1231/ccIPD-Arena-Tracker - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1 | 101 | 
 | 2023-02-09 | 1 | 101 | 
 | 2023-02-08 | 1 | 101 | 
 | 2023-02-07 | 1 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | - | 98 | 
 | 2023-01-13 | - | 98 | 
 | 2023-01-12 | - | 96 | 
-| 2023-01-11 | - | 96 | 
 

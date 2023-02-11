@@ -1,8 +1,8 @@
 # terraform-aws-modules/terraform-aws-s3-bucket - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 2761
+☋ Forks: 2764
 
 ★ Stars: 372
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 372 | 2764 | 
 | 2023-02-09 | 372 | 2761 | 
 | 2023-02-08 | 372 | 2759 | 
 | 2023-02-07 | 372 | 2758 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 365 | 2689 | 
 | 2023-01-13 | 365 | 2688 | 
 | 2023-01-12 | 365 | 2687 | 
-| 2023-01-11 | 365 | 2686 | 
 

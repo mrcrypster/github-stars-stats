@@ -1,10 +1,10 @@
 # AppsFlyerSDK/segment-appsflyer-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 51
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/AppsFlyerSDK/segment-appsflyer-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 17 | 51 | 
 | 2023-02-09 | 18 | 51 | 
 | 2023-02-08 | 18 | 51 | 
 | 2023-02-07 | 18 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 18 | 50 | 
 | 2023-01-13 | 18 | 50 | 
 | 2023-01-12 | 18 | 50 | 
-| 2023-01-11 | 18 | 50 | 
 

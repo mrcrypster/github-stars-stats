@@ -1,10 +1,10 @@
 # ElegantLaTeX/ElegantBook - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 321
+☋ Forks: 322
 
-★ Stars: 1615
+★ Stars: 1616
 
 [Open repository](https://github.com/ElegantLaTeX/ElegantBook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1616 | 322 | 
 | 2023-02-09 | 1615 | 321 | 
 | 2023-02-08 | 1615 | 321 | 
 | 2023-02-07 | 1615 | 321 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1589 | 313 | 
 | 2023-01-13 | 1588 | 313 | 
 | 2023-01-12 | 1585 | 313 | 
-| 2023-01-11 | 1583 | 313 | 
 

@@ -1,8 +1,8 @@
 # docker-archive/toolbox - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1252
+☋ Forks: 1251
 
 ★ Stars: 3157
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3157 | 1251 | 
 | 2023-02-09 | 3157 | 1252 | 
 | 2023-02-08 | 3157 | 1252 | 
 | 2023-02-06 | 3156 | 1251 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3154 | 1249 | 
 | 2023-01-13 | 3154 | 1249 | 
 | 2023-01-12 | 3154 | 1249 | 
-| 2023-01-11 | 3154 | 1248 | 
 

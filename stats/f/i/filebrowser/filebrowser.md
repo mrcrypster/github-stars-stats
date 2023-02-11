@@ -1,10 +1,10 @@
 # filebrowser/filebrowser - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 2268
+☋ Forks: 2270
 
-★ Stars: 18645
+★ Stars: 18661
 
 [Open repository](https://github.com/filebrowser/filebrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 18661 | 2270 | 
 | 2023-02-09 | 18645 | 2268 | 
 | 2023-02-08 | 18635 | 2269 | 
 | 2023-02-06 | 18626 | 2269 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 18380 | 2247 | 
 | 2023-01-13 | 18375 | 2244 | 
 | 2023-01-12 | 18362 | 2244 | 
-| 2023-01-11 | 18349 | 2243 | 
 

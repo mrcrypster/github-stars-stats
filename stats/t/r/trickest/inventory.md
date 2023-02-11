@@ -1,10 +1,10 @@
 # trickest/inventory - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 119
 
-★ Stars: 648
+★ Stars: 650
 
 [Open repository](https://github.com/trickest/inventory)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 650 | 119 | 
 | 2023-02-09 | 648 | 119 | 
 | 2023-02-08 | 641 | 118 | 
 | 2023-02-07 | 640 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 599 | 112 | 
 | 2023-01-13 | 599 | 111 | 
 | 2023-01-12 | 599 | 110 | 
-| 2023-01-11 | 596 | 110 | 
 

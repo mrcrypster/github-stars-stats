@@ -1,10 +1,10 @@
 # opqdonut/hash-f - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/opqdonut/hash-f)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 29 | - | 
 | 2023-02-09 | 30 | - | 
 | 2023-02-08 | 30 | - | 
 | 2023-02-07 | 30 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 30 | - | 
 | 2023-01-14 | 30 | - | 
 | 2023-01-13 | 29 | - | 
-| 2023-01-12 | 29 | - | 
 

@@ -1,8 +1,8 @@
 # gitdagray/mern_stack_course - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 224
+☋ Forks: 227
 
 ★ Stars: 232
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 232 | 227 | 
 | 2023-02-09 | 232 | 224 | 
 | 2023-02-08 | 231 | 221 | 
 | 2023-02-07 | 230 | 221 | 

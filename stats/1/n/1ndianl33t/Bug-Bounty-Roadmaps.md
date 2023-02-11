@@ -1,10 +1,10 @@
 # 1ndianl33t/Bug-Bounty-Roadmaps - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 276
 
-★ Stars: 1333
+★ Stars: 1335
 
 [Open repository](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1335 | 276 | 
 | 2023-02-09 | 1333 | 276 | 
 | 2023-02-08 | 1331 | 276 | 
 | 2023-02-07 | 1331 | 276 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1319 | 275 | 
 | 2023-01-13 | 1319 | 275 | 
 | 2023-01-12 | 1319 | 275 | 
-| 2023-01-11 | 1319 | 275 | 
 

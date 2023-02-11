@@ -1,8 +1,8 @@
 # mikeroyal/RISC-V-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 20
+☋ Forks: 19
 
 ★ Stars: 274
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 274 | 19 | 
 | 2023-02-09 | 274 | 20 | 
 | 2023-02-08 | 274 | 20 | 
 | 2023-02-06 | 274 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 247 | 20 | 
 | 2023-01-13 | 247 | 20 | 
 | 2023-01-12 | 247 | 20 | 
-| 2023-01-11 | 246 | 20 | 
 

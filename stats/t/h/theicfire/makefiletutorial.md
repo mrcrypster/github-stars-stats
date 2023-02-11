@@ -1,10 +1,10 @@
 # theicfire/makefiletutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 189
 
-★ Stars: 2914
+★ Stars: 2919
 
 [Open repository](https://github.com/theicfire/makefiletutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2919 | 189 | 
 | 2023-02-09 | 2914 | 189 | 
 | 2023-02-08 | 2912 | 189 | 
 | 2023-02-07 | 2908 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 2834 | 185 | 
 | 2023-01-13 | 2834 | 185 | 
 | 2023-01-12 | 2830 | 185 | 
-| 2023-01-11 | 2825 | 185 | 
 

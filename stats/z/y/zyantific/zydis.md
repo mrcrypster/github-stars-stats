@@ -1,6 +1,6 @@
 # zyantific/zydis - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2657 | 375 | 
 | 2023-02-09 | 2657 | 375 | 
 | 2023-02-08 | 2656 | 374 | 
 | 2023-02-07 | 2654 | 374 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 2624 | 366 | 
 | 2023-01-13 | 2624 | 366 | 
 | 2023-01-12 | 2624 | 366 | 
-| 2023-01-11 | 2621 | 366 | 
 

@@ -1,10 +1,10 @@
 # RanzzID/RDP-FREE- - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 30
+☋ Forks: 36
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/RanzzID/RDP-FREE-)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2 | 36 | 
 | 2023-02-09 | 1 | 30 | 
 | 2023-02-08 | 1 | 28 | 
 | 2023-02-07 | 1 | 24 | 

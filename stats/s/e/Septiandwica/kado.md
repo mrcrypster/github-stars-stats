@@ -1,8 +1,8 @@
 # Septiandwica/kado - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 103
+☋ Forks: 104
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 51 | 104 | 
 | 2023-02-09 | 51 | 103 | 
 | 2023-02-08 | 49 | 102 | 
 | 2023-02-07 | 48 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 40 | 83 | 
 | 2023-01-13 | 40 | 81 | 
 | 2023-01-12 | 40 | 81 | 
-| 2023-01-11 | 40 | 81 | 
 

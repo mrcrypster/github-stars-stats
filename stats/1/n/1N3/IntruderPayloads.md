@@ -1,10 +1,10 @@
 # 1N3/IntruderPayloads - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1167
+☋ Forks: 1169
 
-★ Stars: 3257
+★ Stars: 3259
 
 [Open repository](https://github.com/1N3/IntruderPayloads)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3259 | 1169 | 
 | 2023-02-09 | 3257 | 1167 | 
 | 2023-02-08 | 3255 | 1167 | 
 | 2023-02-07 | 3255 | 1167 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3195 | 1159 | 
 | 2023-01-13 | 3195 | 1159 | 
 | 2023-01-12 | 3194 | 1160 | 
-| 2023-01-11 | 3195 | 1160 | 
 

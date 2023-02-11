@@ -1,6 +1,6 @@
 # JuliaLang/MbedTLS.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 34 | 46 | 
 | 2023-02-09 | 34 | 46 | 
 | 2023-02-08 | 34 | 46 | 
 | 2023-02-07 | 34 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 34 | 46 | 
 | 2023-01-13 | 34 | 46 | 
 | 2023-01-12 | 34 | 46 | 
-| 2023-01-11 | 34 | 46 | 
 

@@ -1,6 +1,6 @@
 # crystal-bit/godot-game-template - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 357 | 33 | 
 | 2023-02-09 | 357 | 33 | 
 | 2023-02-08 | 357 | 33 | 
 | 2023-02-07 | 357 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 350 | 31 | 
 | 2023-01-13 | 350 | 31 | 
 | 2023-01-12 | 350 | 31 | 
-| 2023-01-11 | 350 | 31 | 
 

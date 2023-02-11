@@ -1,10 +1,10 @@
 # apache/superset - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 10116
+☋ Forks: 10125
 
-★ Stars: 50452
+★ Stars: 50466
 
 [Open repository](https://github.com/apache/superset)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 50466 | 10125 | 
 | 2023-02-09 | 50452 | 10116 | 
 | 2023-02-08 | 50436 | 10111 | 
 | 2023-02-07 | 50417 | 10108 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 50100 | 10013 | 
 | 2023-01-13 | 50096 | 10009 | 
 | 2023-01-12 | 50079 | 10003 | 
-| 2023-01-11 | 50054 | 10000 | 
 

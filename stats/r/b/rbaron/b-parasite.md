@@ -1,10 +1,10 @@
 # rbaron/b-parasite - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 93
 
-★ Stars: 1372
+★ Stars: 1373
 
 [Open repository](https://github.com/rbaron/b-parasite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1373 | 93 | 
 | 2023-02-09 | 1372 | 93 | 
 | 2023-02-08 | 1370 | 93 | 
 | 2023-02-06 | 1369 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1343 | 91 | 
 | 2023-01-13 | 1343 | 91 | 
 | 2023-01-12 | 1342 | 91 | 
-| 2023-01-11 | 1340 | 88 | 
 

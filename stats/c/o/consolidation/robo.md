@@ -1,10 +1,10 @@
 # consolidation/robo - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 303
 
-★ Stars: 2596
+★ Stars: 2595
 
 [Open repository](https://github.com/consolidation/robo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2595 | 303 | 
 | 2023-02-09 | 2596 | 303 | 
 | 2023-02-08 | 2596 | 303 | 
 | 2023-02-07 | 2595 | 303 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2591 | 304 | 
 | 2023-01-14 | 2591 | 304 | 
 | 2023-01-13 | 2591 | 304 | 
-| 2023-01-12 | 2591 | 304 | 
 

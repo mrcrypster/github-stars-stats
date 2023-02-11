@@ -1,10 +1,10 @@
 # macports/macports-ports - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1166
+☋ Forks: 1167
 
-★ Stars: 1238
+★ Stars: 1239
 
 [Open repository](https://github.com/macports/macports-ports)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1239 | 1167 | 
 | 2023-02-09 | 1238 | 1166 | 
 | 2023-02-08 | 1237 | 1167 | 
 | 2023-02-07 | 1236 | 1167 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1223 | 1155 | 
 | 2023-01-13 | 1223 | 1156 | 
 | 2023-01-12 | 1223 | 1156 | 
-| 2023-01-11 | 1220 | 1154 | 
 

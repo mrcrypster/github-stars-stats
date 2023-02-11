@@ -1,10 +1,10 @@
 # adrianhajdin/project_modern_ui_ux_restaurant - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 216
 
-★ Stars: 906
+★ Stars: 905
 
 [Open repository](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 905 | 216 | 
 | 2023-02-09 | 906 | 216 | 
 | 2023-02-08 | 906 | 218 | 
 | 2023-02-07 | 905 | 218 | 

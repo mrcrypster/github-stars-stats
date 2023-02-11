@@ -1,10 +1,10 @@
 # Octoberfest7/Inline-Execute-PE - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 46
+☋ Forks: 49
 
-★ Stars: 323
+★ Stars: 327
 
 [Open repository](https://github.com/Octoberfest7/Inline-Execute-PE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 327 | 49 | 
 | 2023-02-09 | 323 | 46 | 
 | 2023-02-08 | 319 | 46 | 
 | 2023-02-07 | 317 | 46 | 

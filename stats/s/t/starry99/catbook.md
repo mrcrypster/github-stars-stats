@@ -1,6 +1,6 @@
 # starry99/catbook - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 59 | 123 | 
 | 2023-02-09 | 59 | 123 | 
 | 2023-02-08 | 59 | 123 | 
 | 2023-02-07 | 59 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 60 | 122 | 
 | 2023-01-13 | 60 | 122 | 
 | 2023-01-12 | 60 | 122 | 
-| 2023-01-11 | 60 | 121 | 
 

@@ -1,6 +1,6 @@
 # int128/terraform-aws-nat-instance - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 126 | 63 | 
 | 2023-02-09 | 126 | 63 | 
 | 2023-02-08 | 126 | 62 | 
 | 2023-02-07 | 126 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 126 | 61 | 
 | 2023-01-14 | 126 | 61 | 
 | 2023-01-12 | 126 | 61 | 
-| 2023-01-11 | 126 | 61 | 
 

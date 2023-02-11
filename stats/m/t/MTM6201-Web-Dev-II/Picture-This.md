@@ -1,8 +1,8 @@
 # MTM6201-Web-Dev-II/Picture-This - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 286
+☋ Forks: 288
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1 | 288 | 
 | 2023-02-09 | 1 | 286 | 
 | 2023-02-08 | 1 | 281 | 
 | 2023-02-07 | 1 | 266 | 

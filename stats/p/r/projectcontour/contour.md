@@ -1,10 +1,10 @@
 # projectcontour/contour - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 611
 
-★ Stars: 3316
+★ Stars: 3318
 
 [Open repository](https://github.com/projectcontour/contour)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3318 | 611 | 
 | 2023-02-10 | 3316 | 611 | 
 | 2023-02-08 | 3316 | 611 | 
 | 2023-02-07 | 3314 | 610 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 3302 | 607 | 
 | 2023-01-13 | 3302 | 607 | 
 | 2023-01-12 | 3302 | 606 | 
-| 2023-01-11 | 3300 | 607 | 
 

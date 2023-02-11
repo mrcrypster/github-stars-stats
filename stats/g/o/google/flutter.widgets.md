@@ -1,10 +1,10 @@
 # google/flutter.widgets - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 354
+☋ Forks: 355
 
-★ Stars: 1100
+★ Stars: 1101
 
 [Open repository](https://github.com/google/flutter.widgets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1101 | 355 | 
 | 2023-02-09 | 1100 | 354 | 
 | 2023-02-08 | 1099 | 354 | 
 | 2023-02-07 | 1098 | 353 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1087 | 347 | 
 | 2023-01-13 | 1086 | 347 | 
 | 2023-01-12 | 1084 | 345 | 
-| 2023-01-11 | 1083 | 343 | 
 

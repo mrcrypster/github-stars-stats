@@ -1,6 +1,6 @@
 # Lyx0912/XY-MQ - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 119 | 20 | 
 | 2023-02-09 | 119 | 20 | 
 | 2023-02-08 | 119 | 20 | 
 | 2023-02-07 | 119 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 118 | 20 | 
 | 2023-01-13 | 118 | 20 | 
 | 2023-01-12 | 118 | 20 | 
-| 2023-01-11 | 118 | 20 | 
 

@@ -1,10 +1,10 @@
 # MrSmith33/vox - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 18
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/MrSmith33/vox)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 288 | 18 | 
 | 2023-02-09 | 287 | 18 | 
 | 2023-02-08 | 287 | 18 | 
 | 2023-02-07 | 286 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 285 | 19 | 
 | 2023-01-13 | 285 | 19 | 
 | 2023-01-12 | 285 | 19 | 
-| 2023-01-11 | 285 | 19 | 
 

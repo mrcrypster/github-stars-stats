@@ -1,8 +1,8 @@
 # mate-academy/Potr_Pots - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 137
+☋ Forks: 140
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1 | 140 | 
 | 2023-02-09 | 1 | 137 | 
 | 2023-02-08 | 1 | 137 | 
 | 2023-02-07 | 1 | 137 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | - | 131 | 
 | 2023-01-14 | - | 131 | 
 | 2023-01-13 | - | 131 | 
-| 2023-01-11 | - | 130 | 
 

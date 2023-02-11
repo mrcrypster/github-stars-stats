@@ -1,10 +1,10 @@
 # mochreach/midi-surf - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/mochreach/midi-surf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 19 | - | 
 | 2023-02-09 | 17 | - | 
 | 2023-02-08 | 17 | - | 
 | 2023-02-07 | 17 | - | 

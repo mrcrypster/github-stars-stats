@@ -1,10 +1,10 @@
 # NYAN-x-CAT/Bypass-Windows-Defender-VBS - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 43
 
-★ Stars: 86
+★ Stars: 88
 
 [Open repository](https://github.com/NYAN-x-CAT/Bypass-Windows-Defender-VBS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 88 | 43 | 
 | 2023-02-09 | 86 | 43 | 
 | 2023-02-08 | 86 | 43 | 
 | 2023-02-07 | 86 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 83 | 42 | 
 | 2023-01-14 | 83 | 42 | 
 | 2023-01-12 | 83 | 42 | 
-| 2023-01-11 | 82 | 42 | 
 

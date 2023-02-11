@@ -1,10 +1,10 @@
 # Lkruitwagen/global-fossil-fuel-supply-chain - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 12
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 165 | 12 | 
 | 2023-02-09 | 164 | 12 | 
 | 2023-02-08 | 164 | 12 | 
 | 2023-02-07 | 164 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 161 | 12 | 
 | 2023-01-13 | 161 | 12 | 
 | 2023-01-12 | 161 | 12 | 
-| 2023-01-11 | 161 | 12 | 
 

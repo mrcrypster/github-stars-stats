@@ -1,6 +1,6 @@
 # Loyalists/gflh2 - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 22 | 1 | 
 | 2023-02-08 | 22 | 1 | 
 | 2023-02-07 | 21 | 1 | 
 | 2023-02-06 | 21 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 18 | 1 | 
 | 2023-01-13 | 18 | 1 | 
 | 2023-01-12 | 18 | 1 | 
-| 2023-01-11 | 18 | 1 | 
 

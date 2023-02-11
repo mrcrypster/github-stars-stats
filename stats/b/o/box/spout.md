@@ -1,6 +1,6 @@
 # box/spout - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 597
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4177 | 597 | 
 | 2023-02-10 | 4177 | 597 | 
 | 2023-02-08 | 4176 | 597 | 
 | 2023-02-07 | 4177 | 597 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 4174 | 598 | 
 | 2023-01-13 | 4174 | 598 | 
 | 2023-01-12 | 4173 | 597 | 
-| 2023-01-11 | 4172 | 596 | 
 

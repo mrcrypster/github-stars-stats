@@ -1,0 +1,18 @@
+# wlaurance/Criminology - stars & forks statistics
+
+Stats updated on Feb 2023, 11
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/wlaurance/Criminology)
+
+[Open detailed stats for wlaurance/Criminology](https://reviewgithub.com/rep/wlaurance/Criminology)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-11 | 1 | - | 
+| 2023-02-10 | 1 | - | 
+

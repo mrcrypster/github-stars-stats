@@ -1,6 +1,6 @@
 # jamesfang8499/math2 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 20 | 20 | 
 | 2023-02-09 | 20 | 20 | 
 | 2023-02-07 | 20 | 20 | 
 | 2023-02-06 | 20 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 19 | 19 | 
 | 2023-01-13 | 19 | 19 | 
 | 2023-01-12 | 19 | 19 | 
-| 2023-01-11 | 19 | 19 | 
 

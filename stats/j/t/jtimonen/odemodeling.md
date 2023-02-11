@@ -1,6 +1,6 @@
 # jtimonen/odemodeling - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 22 | 1 | 
 | 2023-02-09 | 22 | 1 | 
 | 2023-02-08 | 22 | 1 | 
 | 2023-02-07 | 22 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 22 | 1 | 
 | 2023-01-13 | 22 | 1 | 
 | 2023-01-12 | 22 | 1 | 
-| 2023-01-11 | 22 | 1 | 
 

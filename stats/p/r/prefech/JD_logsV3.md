@@ -1,10 +1,10 @@
 # prefech/JD_logsV3 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/prefech/JD_logsV3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 35 | 18 | 
 | 2023-02-09 | 34 | 18 | 
 | 2023-02-08 | 34 | 18 | 
 | 2023-02-07 | 34 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 35 | 18 | 
 | 2023-01-13 | 34 | 18 | 
 | 2023-01-12 | 33 | 18 | 
-| 2023-01-11 | 33 | 18 | 
 

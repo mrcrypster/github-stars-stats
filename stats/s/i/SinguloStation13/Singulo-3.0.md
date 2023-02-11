@@ -1,6 +1,6 @@
 # SinguloStation13/Singulo-3.0 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4 | 7 | 
 | 2023-02-09 | 4 | 7 | 
 | 2023-02-08 | 4 | 7 | 
 | 2023-02-07 | 4 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 4 | 7 | 
 | 2023-01-13 | 4 | 7 | 
 | 2023-01-12 | 4 | 7 | 
-| 2023-01-11 | 4 | 7 | 
 

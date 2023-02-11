@@ -1,6 +1,6 @@
 # esc0rtd3w/wifi-hacker - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 723
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1921 | 723 | 
 | 2023-02-09 | 1921 | 723 | 
 | 2023-02-08 | 1921 | 724 | 
 | 2023-02-07 | 1921 | 724 | 

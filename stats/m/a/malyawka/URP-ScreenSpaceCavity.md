@@ -1,10 +1,10 @@
 # malyawka/URP-ScreenSpaceCavity - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 10
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/malyawka/URP-ScreenSpaceCavity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 115 | 10 | 
 | 2023-02-09 | 114 | 10 | 
 | 2023-02-08 | 114 | 10 | 
 | 2023-02-07 | 114 | 10 | 

@@ -1,6 +1,6 @@
 # aws-observability/aws-otel-helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 27 | 31 | 
 | 2023-02-09 | 27 | 31 | 
 | 2023-02-08 | 27 | 31 | 
 | 2023-02-07 | 27 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 25 | 30 | 
 | 2023-01-13 | 25 | 30 | 
 | 2023-01-12 | 22 | 30 | 
-| 2023-01-11 | 22 | 30 | 
 

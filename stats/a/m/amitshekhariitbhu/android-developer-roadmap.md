@@ -1,10 +1,10 @@
 # amitshekhariitbhu/android-developer-roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 471
 
-★ Stars: 2465
+★ Stars: 2466
 
 [Open repository](https://github.com/amitshekhariitbhu/android-developer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2466 | 471 | 
 | 2023-02-09 | 2465 | 471 | 
 | 2023-02-08 | 2464 | 472 | 
 | 2023-02-07 | 2464 | 472 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 2438 | 470 | 
 | 2023-01-13 | 2418 | 467 | 
 | 2023-01-12 | 2416 | 467 | 
-| 2023-01-11 | 2417 | 466 | 
 

@@ -1,10 +1,10 @@
 # straight-tamago/NoCameraSound - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 3
 
-★ Stars: 81
+★ Stars: 83
 
 [Open repository](https://github.com/straight-tamago/NoCameraSound)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 83 | 3 | 
 | 2023-02-09 | 81 | 3 | 
 | 2023-02-08 | 82 | 3 | 
 | 2023-02-07 | 81 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 70 | 3 | 
 | 2023-01-13 | 70 | 3 | 
 | 2023-01-12 | 70 | 3 | 
-| 2023-01-11 | 70 | 3 | 
 

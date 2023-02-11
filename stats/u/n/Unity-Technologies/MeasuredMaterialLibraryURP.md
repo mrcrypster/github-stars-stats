@@ -1,10 +1,10 @@
 # Unity-Technologies/MeasuredMaterialLibraryURP - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 72
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 311 | 72 | 
 | 2023-02-09 | 310 | 72 | 
 | 2023-02-08 | 310 | 72 | 
 | 2023-02-07 | 309 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 303 | 71 | 
 | 2023-01-13 | 304 | 71 | 
 | 2023-01-12 | 304 | 69 | 
-| 2023-01-11 | 304 | 69 | 
 

@@ -1,6 +1,6 @@
 # WHULuoJiaTeam/luojianet - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 119 | 26 | 
 | 2023-02-09 | 119 | 26 | 
 | 2023-02-08 | 119 | 26 | 
 | 2023-02-07 | 119 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 115 | 26 | 
 | 2023-01-13 | 115 | 26 | 
 | 2023-01-12 | 115 | 26 | 
-| 2023-01-11 | 115 | 26 | 
 

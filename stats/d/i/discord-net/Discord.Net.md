@@ -1,8 +1,8 @@
 # discord-net/Discord.Net - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 696
+☋ Forks: 697
 
 ★ Stars: 2870
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2870 | 697 | 
 | 2023-02-09 | 2870 | 696 | 
 | 2023-02-08 | 2870 | 695 | 
 | 2023-02-07 | 2869 | 695 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 2856 | 693 | 
 | 2023-01-13 | 2856 | 693 | 
 | 2023-01-12 | 2854 | 691 | 
-| 2023-01-11 | 2851 | 692 | 
 

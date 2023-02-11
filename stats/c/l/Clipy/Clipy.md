@@ -1,10 +1,10 @@
 # Clipy/Clipy - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 545
 
-★ Stars: 6579
+★ Stars: 6583
 
 [Open repository](https://github.com/Clipy/Clipy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 6583 | 545 | 
 | 2023-02-09 | 6579 | 545 | 
 | 2023-02-07 | 6576 | 545 | 
 | 2023-02-06 | 6576 | 544 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 6537 | 538 | 
 | 2023-01-13 | 6537 | 538 | 
 | 2023-01-12 | 6535 | 538 | 
-| 2023-01-11 | 6534 | 537 | 
 

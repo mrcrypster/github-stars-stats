@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 10
 
 ☋ Forks: 972
 
-★ Stars: 2294
+★ Stars: 2297
 
 [Open repository](https://github.com/tachiyomiorg/tachiyomi-extensions)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-10 | 2294 | 972 | 
+| 2023-02-10 | 2297 | 972 | 
 | 2023-02-09 | 2293 | 973 | 
 | 2023-02-08 | 2293 | 973 | 
 | 2023-02-07 | 2287 | 969 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 2255 | 950 | 
 | 2023-01-13 | 2254 | 950 | 
 | 2023-01-12 | 2250 | 950 | 
-| 2023-01-11 | 2252 | 950 | 
 

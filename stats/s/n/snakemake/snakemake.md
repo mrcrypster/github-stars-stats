@@ -1,8 +1,8 @@
 # snakemake/snakemake - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 399
+☋ Forks: 401
 
 ★ Stars: 1590
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1590 | 401 | 
 | 2023-02-09 | 1590 | 399 | 
 | 2023-02-08 | 1587 | 399 | 
 | 2023-02-07 | 1587 | 399 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1567 | 394 | 
 | 2023-01-13 | 1565 | 394 | 
 | 2023-01-12 | 1564 | 394 | 
-| 2023-01-11 | 1562 | 394 | 
 

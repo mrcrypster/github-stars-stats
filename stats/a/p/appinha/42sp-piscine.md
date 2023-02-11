@@ -1,6 +1,6 @@
 # appinha/42sp-piscine - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 208 | 86 | 
 | 2023-02-09 | 208 | 86 | 
 | 2023-02-08 | 209 | 86 | 
 | 2023-02-07 | 207 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 197 | 87 | 
 | 2023-01-14 | 197 | 87 | 
 | 2023-01-12 | 197 | 87 | 
-| 2023-01-11 | 195 | 87 | 
 

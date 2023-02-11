@@ -1,10 +1,10 @@
 # ThioJoe/Auto-Synced-Translated-Dubs - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 86
 
-★ Stars: 1002
+★ Stars: 1007
 
 [Open repository](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1007 | 86 | 
 | 2023-02-09 | 1002 | 86 | 
 | 2023-02-08 | 1000 | 86 | 
 | 2023-02-06 | 997 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 936 | 80 | 
 | 2023-01-13 | 931 | 79 | 
 | 2023-01-12 | 925 | 77 | 
-| 2023-01-11 | 915 | 76 | 
 

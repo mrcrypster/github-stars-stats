@@ -1,10 +1,10 @@
 # sunym1993/flash-linux0.11-talk - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 2033
+☋ Forks: 2036
 
-★ Stars: 15444
+★ Stars: 15450
 
 [Open repository](https://github.com/sunym1993/flash-linux0.11-talk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 15450 | 2036 | 
 | 2023-02-09 | 15444 | 2033 | 
 | 2023-02-08 | 15431 | 2029 | 
 | 2023-02-07 | 15423 | 2027 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 15302 | 2004 | 
 | 2023-01-13 | 15295 | 2004 | 
 | 2023-01-12 | 15284 | 2003 | 
-| 2023-01-11 | 15281 | 2000 | 
 

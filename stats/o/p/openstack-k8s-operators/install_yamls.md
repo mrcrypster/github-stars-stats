@@ -1,8 +1,8 @@
 # openstack-k8s-operators/install_yamls - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 8 | 43 | 
 | 2023-02-09 | 8 | 42 | 
 | 2023-02-08 | 8 | 42 | 
 | 2023-02-07 | 8 | 41 | 

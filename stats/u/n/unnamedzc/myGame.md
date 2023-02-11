@@ -1,10 +1,10 @@
 # unnamedzc/myGame - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/unnamedzc/myGame)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1 | - | 
 | 2023-02-09 | - | - | 
 | 2023-02-08 | - | - | 
 | 2023-02-06 | - | - | 

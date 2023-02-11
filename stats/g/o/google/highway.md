@@ -1,10 +1,10 @@
 # google/highway - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 157
 
-★ Stars: 2238
+★ Stars: 2239
 
 [Open repository](https://github.com/google/highway)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2239 | 157 | 
 | 2023-02-09 | 2238 | 157 | 
 | 2023-02-08 | 2237 | 157 | 
 | 2023-02-07 | 2234 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2192 | 154 | 
 | 2023-01-14 | 2182 | 153 | 
 | 2023-01-13 | 2178 | 153 | 
-| 2023-01-12 | 2097 | 147 | 
 

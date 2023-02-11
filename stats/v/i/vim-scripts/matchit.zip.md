@@ -1,10 +1,10 @@
 # vim-scripts/matchit.zip - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 44
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/vim-scripts/matchit.zip)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 150 | 44 | 
 | 2023-02-09 | 149 | 44 | 
 | 2023-02-08 | 149 | 44 | 
 | 2023-02-07 | 149 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 148 | 44 | 
 | 2023-01-13 | 148 | 44 | 
 | 2023-01-12 | 148 | 44 | 
-| 2023-01-11 | 148 | 44 | 
 

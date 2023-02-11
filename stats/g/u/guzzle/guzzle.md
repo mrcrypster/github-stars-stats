@@ -1,8 +1,8 @@
 # guzzle/guzzle - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 2362
+☋ Forks: 2361
 
 ★ Stars: 22362
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 22362 | 2361 | 
 | 2023-02-09 | 22362 | 2362 | 
 | 2023-02-08 | 22361 | 2362 | 
 | 2023-02-07 | 22358 | 2362 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 22292 | 2360 | 
 | 2023-01-13 | 22291 | 2359 | 
 | 2023-01-12 | 22290 | 2359 | 
-| 2023-01-11 | 22289 | 2358 | 
 

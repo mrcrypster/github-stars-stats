@@ -1,10 +1,10 @@
 # Klocman/Bulk-Crap-Uninstaller - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 187
+☋ Forks: 188
 
-★ Stars: 3539
+★ Stars: 3546
 
 [Open repository](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 3546 | 188 | 
 | 2023-02-09 | 3539 | 187 | 
 | 2023-02-08 | 3532 | 186 | 
 | 2023-02-07 | 3528 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 3411 | 181 | 
 | 2023-01-13 | 3407 | 181 | 
 | 2023-01-12 | 3402 | 180 | 
-| 2023-01-11 | 3398 | 180 | 
 

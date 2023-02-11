@@ -1,10 +1,10 @@
 # presidentbeef/brakeman - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 721
+☋ Forks: 722
 
-★ Stars: 6573
+★ Stars: 6576
 
 [Open repository](https://github.com/presidentbeef/brakeman)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 6576 | 722 | 
 | 2023-02-09 | 6573 | 721 | 
 | 2023-02-08 | 6572 | 721 | 
 | 2023-02-07 | 6571 | 721 | 

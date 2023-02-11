@@ -1,10 +1,10 @@
 # danielgatis/rembg - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1040
+☋ Forks: 1042
 
-★ Stars: 8212
+★ Stars: 8224
 
 [Open repository](https://github.com/danielgatis/rembg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 8224 | 1042 | 
 | 2023-02-09 | 8212 | 1040 | 
 | 2023-02-08 | 8199 | 1038 | 
 | 2023-02-07 | 8184 | 1037 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 7932 | 1002 | 
 | 2023-01-13 | 7922 | 1001 | 
 | 2023-01-12 | 7903 | 997 | 
-| 2023-01-11 | 7885 | 996 | 
 

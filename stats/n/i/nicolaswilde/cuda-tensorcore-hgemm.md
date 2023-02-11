@@ -1,10 +1,10 @@
 # nicolaswilde/cuda-tensorcore-hgemm - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/nicolaswilde/cuda-tensorcore-hgemm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 25 | 9 | 
 | 2023-02-09 | 24 | 9 | 
 | 2023-02-08 | 23 | 9 | 
 | 2023-02-07 | 23 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 21 | 9 | 
 | 2023-01-14 | 21 | 9 | 
 | 2023-01-12 | 20 | 9 | 
-| 2023-01-11 | 19 | 8 | 
 

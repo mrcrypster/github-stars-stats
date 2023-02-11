@@ -1,10 +1,10 @@
 # Betterbird/thunderbird-patches - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 199
+★ Stars: 202
 
 [Open repository](https://github.com/Betterbird/thunderbird-patches)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 202 | 13 | 
 | 2023-02-09 | 199 | 13 | 
 | 2023-02-08 | 198 | 13 | 
 | 2023-02-07 | 198 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 195 | 10 | 
 | 2023-01-13 | 195 | 10 | 
 | 2023-01-12 | 194 | 10 | 
-| 2023-01-11 | 194 | 10 | 
 

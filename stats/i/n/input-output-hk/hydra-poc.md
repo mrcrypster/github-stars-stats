@@ -1,10 +1,10 @@
 # input-output-hk/hydra-poc - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 56
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/input-output-hk/hydra-poc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 184 | 56 | 
 | 2023-02-09 | 183 | 56 | 
 | 2023-02-08 | 183 | 56 | 
 | 2023-02-07 | 183 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 175 | 52 | 
 | 2023-01-13 | 175 | 52 | 
 | 2023-01-12 | 175 | 52 | 
-| 2023-01-11 | 175 | 52 | 
 

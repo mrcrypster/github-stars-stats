@@ -1,6 +1,6 @@
 # knela96/Dynamic-Parkour-System - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 964 | 147 | 
 | 2023-02-09 | 964 | 147 | 
 | 2023-02-08 | 964 | 145 | 
 | 2023-02-07 | 964 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 958 | 144 | 
 | 2023-01-13 | 957 | 144 | 
 | 2023-01-12 | 957 | 144 | 
-| 2023-01-11 | 957 | 144 | 
 

@@ -1,6 +1,6 @@
 # files-community/Website - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 257 | 111 | 
 | 2023-02-09 | 257 | 111 | 
 | 2023-02-08 | 257 | 110 | 
 | 2023-02-07 | 257 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 244 | 110 | 
 | 2023-01-14 | 243 | 110 | 
 | 2023-01-13 | 243 | 110 | 
-| 2023-01-12 | 243 | 110 | 
 

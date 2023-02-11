@@ -1,10 +1,10 @@
 # brokenhandsio/are-we-server-yet - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/brokenhandsio/are-we-server-yet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 34 | 2 | 
 | 2023-02-09 | 33 | 2 | 
 | 2023-02-08 | 32 | 2 | 
 | 2023-02-07 | 32 | 2 | 

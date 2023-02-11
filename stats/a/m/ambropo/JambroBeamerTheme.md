@@ -1,10 +1,10 @@
 # ambropo/JambroBeamerTheme - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 21
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/ambropo/JambroBeamerTheme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 100 | 21 | 
 | 2023-02-09 | 99 | 21 | 
 | 2023-02-08 | 99 | 21 | 
 | 2023-02-07 | 99 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 96 | 21 | 
 | 2023-01-13 | 96 | 21 | 
 | 2023-01-12 | 96 | 21 | 
-| 2023-01-11 | 96 | 21 | 
 

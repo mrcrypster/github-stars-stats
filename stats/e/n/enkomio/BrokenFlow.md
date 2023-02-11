@@ -1,6 +1,6 @@
 # enkomio/BrokenFlow - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 108 | 19 | 
 | 2023-02-09 | 108 | 19 | 
 | 2023-02-08 | 107 | 18 | 
 | 2023-02-07 | 107 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 107 | 18 | 
 | 2023-01-13 | 107 | 18 | 
 | 2023-01-12 | 107 | 18 | 
-| 2023-01-11 | 107 | 18 | 
 

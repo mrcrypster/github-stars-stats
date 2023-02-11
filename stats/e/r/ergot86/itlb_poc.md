@@ -1,6 +1,6 @@
 # ergot86/itlb_poc - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 29 | 3 | 
 | 2023-02-09 | 29 | 3 | 
 | 2023-02-08 | 29 | 3 | 
 | 2023-02-07 | 29 | 3 | 

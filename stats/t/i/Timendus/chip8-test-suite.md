@@ -1,6 +1,6 @@
 # Timendus/chip8-test-suite - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 78 | 1 | 
 | 2023-02-09 | 78 | 1 | 
 | 2023-02-08 | 76 | 1 | 
 | 2023-02-07 | 76 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 71 | 1 | 
 | 2023-01-13 | 71 | 1 | 
 | 2023-01-12 | 71 | 1 | 
-| 2023-01-11 | 70 | 1 | 
 

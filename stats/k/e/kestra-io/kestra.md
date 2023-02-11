@@ -1,8 +1,8 @@
 # kestra-io/kestra - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 184
+☋ Forks: 185
 
 ★ Stars: 3145
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3145 | 185 | 
 | 2023-02-10 | 3145 | 184 | 
 | 2023-02-08 | 3142 | 184 | 
 | 2023-02-07 | 3141 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 3099 | 177 | 
 | 2023-01-13 | 3097 | 177 | 
 | 2023-01-12 | 3097 | 177 | 
-| 2023-01-11 | 3095 | 177 | 
 

@@ -1,8 +1,8 @@
 # determined-ai/determined - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 279
+☋ Forks: 281
 
 ★ Stars: 2035
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2035 | 281 | 
 | 2023-02-09 | 2035 | 279 | 
 | 2023-02-08 | 2035 | 279 | 
 | 2023-02-07 | 2035 | 277 | 

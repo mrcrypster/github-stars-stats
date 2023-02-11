@@ -1,10 +1,10 @@
 # visgl/deck.gl - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 1922
+☋ Forks: 1925
 
-★ Stars: 10579
+★ Stars: 10581
 
 [Open repository](https://github.com/visgl/deck.gl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 10581 | 1925 | 
 | 2023-02-09 | 10579 | 1922 | 
 | 2023-02-08 | 10575 | 1921 | 
 | 2023-02-06 | 10575 | 1918 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 10538 | 1900 | 
 | 2023-01-13 | 10538 | 1900 | 
 | 2023-01-12 | 10537 | 1899 | 
-| 2023-01-11 | 10532 | 1899 | 
 

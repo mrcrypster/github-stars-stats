@@ -1,10 +1,10 @@
 # TheAlgorithms/Scala - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 351
 
-★ Stars: 938
+★ Stars: 939
 
 [Open repository](https://github.com/TheAlgorithms/Scala)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 939 | 351 | 
 | 2023-02-09 | 938 | 351 | 
 | 2023-02-08 | 939 | 351 | 
 | 2023-02-07 | 938 | 351 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 935 | 349 | 
 | 2023-01-13 | 935 | 349 | 
 | 2023-01-12 | 935 | 348 | 
-| 2023-01-11 | 934 | 346 | 
 

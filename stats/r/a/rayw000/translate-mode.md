@@ -1,6 +1,6 @@
 # rayw000/translate-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 24 | 4 | 
 | 2023-02-09 | 24 | 4 | 
 | 2023-02-08 | 24 | 4 | 
 | 2023-02-06 | 24 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 24 | 4 | 
 | 2023-01-13 | 24 | 4 | 
 | 2023-01-12 | 24 | 4 | 
-| 2023-01-11 | 24 | 4 | 
 

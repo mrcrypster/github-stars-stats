@@ -1,10 +1,10 @@
 # twpayne/chezmoi - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 407
 
-★ Stars: 8506
+★ Stars: 8509
 
 [Open repository](https://github.com/twpayne/chezmoi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 8509 | 407 | 
 | 2023-02-09 | 8506 | 407 | 
 | 2023-02-08 | 8502 | 407 | 
 | 2023-02-06 | 8494 | 407 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 8312 | 394 | 
 | 2023-01-13 | 8308 | 394 | 
 | 2023-01-12 | 8303 | 392 | 
-| 2023-01-11 | 8292 | 392 | 
 

@@ -1,6 +1,6 @@
 # robertluo/waterfall - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 16 | - | 
 | 2023-02-09 | 16 | - | 
 | 2023-02-08 | 16 | - | 
 | 2023-02-07 | 15 | - | 

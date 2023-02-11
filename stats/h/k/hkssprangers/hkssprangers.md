@@ -1,0 +1,17 @@
+# hkssprangers/hkssprangers - stars & forks statistics
+
+Stats updated on Feb 2023, 10
+
+☋ Forks: 2
+
+★ Stars: 3
+
+[Open repository](https://github.com/hkssprangers/hkssprangers)
+
+[Open detailed stats for hkssprangers/hkssprangers](https://reviewgithub.com/rep/hkssprangers/hkssprangers)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-10 | 3 | 2 | 
+

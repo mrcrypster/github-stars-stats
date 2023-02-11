@@ -1,10 +1,10 @@
 # vbenjs/vben-admin-thin-next - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 814
 
-★ Stars: 1767
+★ Stars: 1766
 
 [Open repository](https://github.com/vbenjs/vben-admin-thin-next)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1766 | 814 | 
 | 2023-02-09 | 1767 | 814 | 
 | 2023-02-08 | 1764 | 814 | 
 | 2023-02-07 | 1764 | 814 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 1762 | 805 | 
 | 2023-01-14 | 1761 | 805 | 
 | 2023-01-12 | 1761 | 805 | 
-| 2023-01-11 | 1761 | 807 | 
 

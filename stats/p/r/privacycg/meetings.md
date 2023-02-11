@@ -1,0 +1,17 @@
+# privacycg/meetings - stars & forks statistics
+
+Stats updated on Feb 2023, 10
+
+☋ Forks: 21
+
+★ Stars: 82
+
+[Open repository](https://github.com/privacycg/meetings)
+
+[Open detailed stats for privacycg/meetings](https://reviewgithub.com/rep/privacycg/meetings)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-10 | 82 | 21 | 
+

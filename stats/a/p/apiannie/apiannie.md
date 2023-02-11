@@ -1,6 +1,6 @@
 # apiannie/apiannie - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 153 | 15 | 
 | 2023-02-09 | 153 | 15 | 
 | 2023-02-08 | 153 | 15 | 
 | 2023-02-07 | 153 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 154 | 16 | 
 | 2023-01-13 | 154 | 15 | 
 | 2023-01-12 | 154 | 15 | 
-| 2023-01-11 | 154 | 15 | 
 

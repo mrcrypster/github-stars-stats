@@ -1,6 +1,6 @@
 # zeek/bifcl - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2 | 6 | 
 | 2023-02-08 | 2 | 6 | 
 | 2023-02-07 | 2 | 6 | 
 | 2023-02-06 | 2 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-15 | 2 | 6 | 
 | 2023-01-14 | 2 | 6 | 
 | 2023-01-13 | 2 | 6 | 
-| 2023-01-12 | 2 | 6 | 
 

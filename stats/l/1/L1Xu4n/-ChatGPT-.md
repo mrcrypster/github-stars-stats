@@ -1,10 +1,10 @@
 # L1Xu4n/-ChatGPT- - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 27
 
-★ Stars: 328
+★ Stars: 347
 
 [Open repository](https://github.com/L1Xu4n/-ChatGPT-)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 347 | 27 | 
 | 2023-02-09 | 328 | 27 | 
 | 2023-02-08 | 295 | 22 | 
 | 2023-02-07 | 225 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 151 | 12 | 
 | 2023-01-14 | 148 | 10 | 
 | 2023-01-13 | 144 | 10 | 
-| 2023-01-12 | 142 | 10 | 
 

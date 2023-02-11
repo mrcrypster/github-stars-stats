@@ -1,6 +1,6 @@
 # watzon/arg_parser - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 15 | 1 | 
 | 2023-02-09 | 15 | 1 | 
 | 2023-02-08 | 15 | 1 | 
 | 2023-02-07 | 15 | 1 | 

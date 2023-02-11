@@ -1,10 +1,10 @@
 # alan-turing-institute/the-turing-way - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 548
+☋ Forks: 549
 
-★ Stars: 1499
+★ Stars: 1501
 
 [Open repository](https://github.com/alan-turing-institute/the-turing-way)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1501 | 549 | 
 | 2023-02-09 | 1499 | 548 | 
 | 2023-02-08 | 1498 | 548 | 
 | 2023-02-07 | 1497 | 548 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1479 | 543 | 
 | 2023-01-13 | 1479 | 543 | 
 | 2023-01-12 | 1477 | 542 | 
-| 2023-01-11 | 1476 | 542 | 
 

@@ -1,10 +1,10 @@
 # testcontainers/testcontainers-dotnet - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 2558
+★ Stars: 2559
 
 [Open repository](https://github.com/testcontainers/testcontainers-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2559 | 143 | 
 | 2023-02-09 | 2558 | 142 | 
 | 2023-02-08 | 2556 | 141 | 
 | 2023-02-07 | 2540 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2470 | 136 | 
 | 2023-01-14 | 2467 | 136 | 
 | 2023-01-13 | 2465 | 136 | 
-| 2023-01-12 | 2463 | 135 | 
 

@@ -1,10 +1,10 @@
 # 42Paris/42header - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 181
+★ Stars: 180
 
 [Open repository](https://github.com/42Paris/42header)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 180 | 97 | 
+| 2023-02-10 | 180 | 97 | 
 | 2023-02-09 | 181 | 96 | 
 | 2023-02-08 | 180 | 96 | 
 | 2023-02-07 | 180 | 97 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 174 | 90 | 
 | 2023-01-13 | 174 | 90 | 
 | 2023-01-12 | 174 | 90 | 
-| 2023-01-11 | 174 | 90 | 
 

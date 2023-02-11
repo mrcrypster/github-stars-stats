@@ -1,10 +1,10 @@
 # vinceliuice/Tela-icon-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 72
 
-★ Stars: 1150
+★ Stars: 1151
 
 [Open repository](https://github.com/vinceliuice/Tela-icon-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1151 | 72 | 
 | 2023-02-09 | 1150 | 72 | 
 | 2023-02-08 | 1146 | 72 | 
 | 2023-02-07 | 1145 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1131 | 73 | 
 | 2023-01-13 | 1131 | 72 | 
 | 2023-01-12 | 1131 | 72 | 
-| 2023-01-11 | 1130 | 72 | 
 

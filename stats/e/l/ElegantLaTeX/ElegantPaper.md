@@ -1,6 +1,6 @@
 # ElegantLaTeX/ElegantPaper - stars & forks statistics
 
-Stats updated on Feb 2023, 08
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1075 | 226 | 
 | 2023-02-08 | 1075 | 226 | 
 | 2023-02-07 | 1075 | 226 | 
 | 2023-02-06 | 1074 | 225 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 08
 | 2023-01-14 | 1065 | 216 | 
 | 2023-01-13 | 1063 | 216 | 
 | 2023-01-12 | 1061 | 216 | 
-| 2023-01-11 | 1059 | 216 | 
 

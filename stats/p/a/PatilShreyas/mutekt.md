@@ -1,10 +1,10 @@
 # PatilShreyas/mutekt - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/PatilShreyas/mutekt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 181 | 4 | 
 | 2023-02-09 | 180 | 4 | 
 | 2023-02-08 | 180 | 4 | 
 | 2023-02-06 | 180 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 180 | 3 | 
 | 2023-01-13 | 180 | 3 | 
 | 2023-01-12 | 180 | 3 | 
-| 2023-01-11 | 179 | 3 | 
 

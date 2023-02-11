@@ -1,6 +1,6 @@
 # decafsucks/decafsucks - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 43 | - | 
 | 2023-02-09 | 43 | - | 
 | 2023-02-08 | 43 | - | 
 | 2023-02-07 | 43 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 41 | - | 
 | 2023-01-14 | 41 | - | 
 | 2023-01-12 | 41 | - | 
-| 2023-01-11 | 41 | - | 
 

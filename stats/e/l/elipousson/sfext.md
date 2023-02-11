@@ -1,10 +1,10 @@
 # elipousson/sfext - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/elipousson/sfext)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 14 | - | 
 | 2023-02-09 | 13 | - | 
 | 2023-02-08 | 13 | - | 
 | 2023-02-07 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 13 | - | 
 | 2023-01-13 | 13 | - | 
 | 2023-01-12 | 13 | - | 
-| 2023-01-11 | 13 | - | 
 

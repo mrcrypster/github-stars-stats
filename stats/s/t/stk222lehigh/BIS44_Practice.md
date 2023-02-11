@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 10
 
-☋ Forks: 301
+☋ Forks: 302
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/stk222lehigh/BIS44_Practice)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-10 | - | 301 | 
+| 2023-02-10 | 1 | 302 | 
 | 2023-02-09 | - | 300 | 
 | 2023-02-08 | - | 298 | 
 | 2023-02-07 | - | 253 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | - | 161 | 
 | 2023-01-13 | - | 161 | 
 | 2023-01-12 | - | 161 | 
-| 2023-01-11 | - | 161 | 
 

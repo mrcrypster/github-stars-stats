@@ -1,10 +1,10 @@
 # libmir/mir-algorithm - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 35
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/libmir/mir-algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 168 | 35 | 
 | 2023-02-09 | 167 | 35 | 
 | 2023-02-08 | 167 | 35 | 
 | 2023-02-07 | 167 | 35 | 

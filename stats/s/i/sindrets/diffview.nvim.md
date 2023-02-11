@@ -1,10 +1,10 @@
 # sindrets/diffview.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 47
 
-★ Stars: 1940
+★ Stars: 1945
 
 [Open repository](https://github.com/sindrets/diffview.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1945 | 47 | 
 | 2023-02-10 | 1940 | 47 | 
 | 2023-02-08 | 1939 | 47 | 
 | 2023-02-07 | 1937 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-14 | 1818 | 43 | 
 | 2023-01-13 | 1815 | 43 | 
 | 2023-01-12 | 1813 | 43 | 
-| 2023-01-11 | 1808 | 43 | 
 

@@ -1,6 +1,6 @@
 # NCSC-NL/OpenSSL-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 531 | 108 | 
 | 2023-02-09 | 531 | 108 | 
 | 2023-02-08 | 531 | 108 | 
 | 2023-02-07 | 531 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 534 | 107 | 
 | 2023-01-13 | 534 | 107 | 
 | 2023-01-12 | 534 | 107 | 
-| 2023-01-11 | 534 | 109 | 
 

@@ -1,10 +1,10 @@
 # leoloobeek/LAPSToolkit - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 101
 
-★ Stars: 543
+★ Stars: 544
 
 [Open repository](https://github.com/leoloobeek/LAPSToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 544 | 101 | 
 | 2023-02-09 | 543 | 101 | 
 | 2023-02-08 | 542 | 101 | 
 | 2023-02-06 | 538 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 535 | 101 | 
 | 2023-01-13 | 535 | 101 | 
 | 2023-01-12 | 535 | 101 | 
-| 2023-01-11 | 535 | 101 | 
 

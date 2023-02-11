@@ -1,6 +1,6 @@
 # doctrine/deprecations - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 1236 | 11 | 
 | 2023-02-09 | 1236 | 11 | 
 | 2023-02-08 | 1235 | 11 | 
 | 2023-02-07 | 1233 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 1195 | 10 | 
 | 2023-01-13 | 1195 | 10 | 
 | 2023-01-12 | 1194 | 10 | 
-| 2023-01-11 | 1188 | 10 | 
 

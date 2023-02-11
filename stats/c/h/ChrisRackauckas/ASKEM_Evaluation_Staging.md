@@ -1,10 +1,10 @@
 # ChrisRackauckas/ASKEM_Evaluation_Staging - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/ChrisRackauckas/ASKEM_Evaluation_Staging)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 5 | 2 | 
 | 2023-02-09 | 4 | 2 | 
 | 2023-02-08 | 4 | 2 | 
 | 2023-02-07 | 4 | 2 | 

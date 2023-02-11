@@ -1,10 +1,10 @@
 # sindresorhus/p-queue - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
 ☋ Forks: 162
 
-★ Stars: 2443
+★ Stars: 2445
 
 [Open repository](https://github.com/sindresorhus/p-queue)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 2445 | 162 | 
 | 2023-02-09 | 2443 | 162 | 
 | 2023-02-08 | 2440 | 162 | 
 | 2023-02-07 | 2435 | 162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-15 | 2391 | 162 | 
 | 2023-01-14 | 2390 | 162 | 
 | 2023-01-13 | 2388 | 162 | 
-| 2023-01-12 | 2387 | 162 | 
 

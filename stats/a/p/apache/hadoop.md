@@ -1,10 +1,10 @@
 # apache/hadoop - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 8211
+☋ Forks: 8212
 
-★ Stars: 13239
+★ Stars: 13242
 
 [Open repository](https://github.com/apache/hadoop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 13242 | 8212 | 
 | 2023-02-09 | 13239 | 8211 | 
 | 2023-02-07 | 13239 | 8210 | 
 | 2023-02-06 | 13236 | 8207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 13202 | 8184 | 
 | 2023-01-13 | 13200 | 8183 | 
 | 2023-01-12 | 13195 | 8180 | 
-| 2023-01-11 | 13194 | 8177 | 
 

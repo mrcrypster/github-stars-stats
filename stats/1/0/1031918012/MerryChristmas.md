@@ -1,8 +1,8 @@
 # 1031918012/MerryChristmas - stars & forks statistics
 
-Stats updated on Feb 2023, 09
+Stats updated on Feb 2023, 10
 
-☋ Forks: 26
+☋ Forks: 25
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-10 | 7 | 25 | 
 | 2023-02-09 | 7 | 26 | 
 | 2023-02-08 | 7 | 26 | 
 | 2023-02-06 | 7 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 09
 | 2023-01-14 | 7 | 26 | 
 | 2023-01-13 | 7 | 26 | 
 | 2023-01-12 | 7 | 26 | 
-| 2023-01-11 | 7 | 26 | 
 
