@@ -1,10 +1,10 @@
 # tysam-code/hlb-CIFAR10 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 757
+★ Stars: 761
 
 [Open repository](https://github.com/tysam-code/hlb-CIFAR10)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 761 | 35 | 
 | 2023-02-10 | 757 | 34 | 
 | 2023-02-09 | 743 | 34 | 
 | 2023-02-08 | 723 | 34 | 

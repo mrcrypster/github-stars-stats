@@ -1,10 +1,10 @@
 # milvus-io/milvus - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1947
 
-★ Stars: 14928
+★ Stars: 14938
 
 [Open repository](https://github.com/milvus-io/milvus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 14938 | 1947 | 
 | 2023-02-10 | 14928 | 1947 | 
 | 2023-02-09 | 14913 | 1946 | 
 | 2023-02-08 | 14901 | 1946 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 14700 | 1929 | 
 | 2023-01-15 | 14692 | 1929 | 
 | 2023-01-14 | 14688 | 1928 | 
-| 2023-01-13 | 14680 | 1927 | 
 

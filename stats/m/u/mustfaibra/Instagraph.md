@@ -1,6 +1,6 @@
 # mustfaibra/Instagraph - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 117 | 18 | 
 | 2023-02-10 | 117 | 18 | 
 | 2023-02-08 | 117 | 18 | 
 | 2023-02-07 | 117 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 117 | 18 | 
 | 2023-01-14 | 117 | 18 | 
 | 2023-01-13 | 117 | 18 | 
-| 2023-01-12 | 117 | 18 | 
 

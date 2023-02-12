@@ -1,6 +1,6 @@
 # romainneutron/MediaVorus - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 28 | 9 | 
 | 2023-02-10 | 28 | 9 | 
 | 2023-02-09 | 28 | 9 | 
 | 2023-02-08 | 28 | 9 | 

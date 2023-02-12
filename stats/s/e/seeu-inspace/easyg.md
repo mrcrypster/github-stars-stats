@@ -1,6 +1,6 @@
 # seeu-inspace/easyg - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 75 | 20 | 
 | 2023-02-11 | 75 | 20 | 
 | 2023-02-10 | 75 | 20 | 
 | 2023-02-08 | 75 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 74 | 19 | 
 | 2023-01-14 | 74 | 19 | 
 | 2023-01-13 | 74 | 19 | 
-| 2023-01-12 | 74 | 19 | 
 

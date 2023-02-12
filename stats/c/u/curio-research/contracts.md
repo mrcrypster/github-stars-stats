@@ -1,6 +1,6 @@
 # curio-research/contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 49 | 1 | 
 | 2023-02-11 | 49 | 1 | 
 | 2023-02-09 | 49 | 1 | 
 | 2023-02-08 | 49 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 48 | 1 | 
 | 2023-01-14 | 48 | 1 | 
 | 2023-01-13 | 48 | 1 | 
-| 2023-01-12 | 48 | 1 | 
 

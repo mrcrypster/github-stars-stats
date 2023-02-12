@@ -1,10 +1,10 @@
 # foosinn/Solo4Framework - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/foosinn/Solo4Framework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 6 | - | 
 | 2023-02-10 | 5 | - | 
 | 2023-02-09 | 5 | - | 
 | 2023-02-08 | 5 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 5 | - | 
 | 2023-01-14 | 5 | - | 
 | 2023-01-13 | 5 | - | 
-| 2023-01-12 | 5 | - | 
 

@@ -1,6 +1,6 @@
 # tj-actions/changed-files - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 854 | 115 | 
 | 2023-02-10 | 854 | 115 | 
 | 2023-02-09 | 853 | 115 | 
 | 2023-02-08 | 850 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 804 | 108 | 
 | 2023-01-14 | 803 | 108 | 
 | 2023-01-13 | 798 | 106 | 
-| 2023-01-12 | 797 | 106 | 
 

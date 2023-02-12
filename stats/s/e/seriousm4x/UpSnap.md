@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/seriousm4x/UpSnap)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 277 | 11 | 
+| 2023-02-11 | 278 | 11 | 
 | 2023-02-10 | 277 | 11 | 
 | 2023-02-09 | 271 | 11 | 
 | 2023-02-08 | 259 | 10 | 

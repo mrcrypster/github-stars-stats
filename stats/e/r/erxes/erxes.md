@@ -1,6 +1,6 @@
 # erxes/erxes - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 981
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2699 | 981 | 
 | 2023-02-10 | 2699 | 981 | 
 | 2023-02-09 | 2699 | 978 | 
 | 2023-02-08 | 2698 | 980 | 

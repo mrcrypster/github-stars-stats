@@ -1,10 +1,10 @@
 # chaos-mesh/chaos-mesh - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 689
 
-★ Stars: 5494
+★ Stars: 5498
 
 [Open repository](https://github.com/chaos-mesh/chaos-mesh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 5498 | 689 | 
 | 2023-02-10 | 5494 | 689 | 
 | 2023-02-09 | 5491 | 689 | 
 | 2023-02-07 | 5489 | 687 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 5442 | 685 | 
 | 2023-01-14 | 5441 | 685 | 
 | 2023-01-13 | 5439 | 685 | 
-| 2023-01-12 | 5438 | 685 | 
 

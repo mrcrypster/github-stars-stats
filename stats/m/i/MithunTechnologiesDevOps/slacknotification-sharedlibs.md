@@ -1,6 +1,6 @@
 # MithunTechnologiesDevOps/slacknotification-sharedlibs - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 463
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2 | 463 | 
 | 2023-02-10 | 2 | 463 | 
 | 2023-02-09 | 2 | 462 | 
 | 2023-02-08 | 2 | 462 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2 | 452 | 
 | 2023-01-14 | 2 | 452 | 
 | 2023-01-13 | 2 | 452 | 
-| 2023-01-12 | 2 | 450 | 
 

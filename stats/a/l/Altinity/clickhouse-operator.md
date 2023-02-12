@@ -1,10 +1,10 @@
 # Altinity/clickhouse-operator - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 334
 
-★ Stars: 1204
+★ Stars: 1205
 
 [Open repository](https://github.com/Altinity/clickhouse-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1205 | 334 | 
 | 2023-02-10 | 1204 | 334 | 
 | 2023-02-09 | 1204 | 334 | 
 | 2023-02-08 | 1204 | 333 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1182 | 328 | 
 | 2023-01-14 | 1181 | 328 | 
 | 2023-01-13 | 1180 | 328 | 
-| 2023-01-12 | 1180 | 328 | 
 

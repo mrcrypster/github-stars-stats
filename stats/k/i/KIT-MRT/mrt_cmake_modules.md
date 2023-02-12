@@ -1,6 +1,6 @@
 # KIT-MRT/mrt_cmake_modules - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 35 | 17 | 
 | 2023-02-10 | 35 | 17 | 
 | 2023-02-09 | 34 | 17 | 
 | 2023-02-08 | 34 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 34 | 17 | 
 | 2023-01-14 | 34 | 17 | 
 | 2023-01-13 | 34 | 17 | 
-| 2023-01-12 | 34 | 17 | 
 

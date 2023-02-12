@@ -1,10 +1,10 @@
 # otterkit/otterkit - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 141
+★ Stars: 148
 
 [Open repository](https://github.com/otterkit/otterkit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 148 | 6 | 
 | 2023-02-10 | 141 | 6 | 
 | 2023-02-09 | 136 | 6 | 
 | 2023-02-08 | 135 | 6 | 

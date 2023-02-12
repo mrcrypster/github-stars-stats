@@ -1,6 +1,6 @@
 # mmmdbybyd/CLNC - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 361 | 141 | 
 | 2023-02-10 | 361 | 141 | 
 | 2023-02-09 | 361 | 141 | 
 | 2023-02-08 | 362 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 354 | 141 | 
 | 2023-01-14 | 354 | 141 | 
 | 2023-01-13 | 354 | 141 | 
-| 2023-01-12 | 354 | 141 | 
 

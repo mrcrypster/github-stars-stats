@@ -1,6 +1,6 @@
 # LianjiaTech/bruno - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 349
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2326 | 349 | 
 | 2023-02-10 | 2326 | 349 | 
 | 2023-02-08 | 2323 | 349 | 
 | 2023-02-07 | 2318 | 349 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2261 | 341 | 
 | 2023-01-14 | 2261 | 341 | 
 | 2023-01-13 | 2259 | 341 | 
-| 2023-01-12 | 2255 | 341 | 
 

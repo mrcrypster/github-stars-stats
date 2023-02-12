@@ -1,6 +1,6 @@
 # hexops/mach-glfw - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 208 | 17 | 
 | 2023-02-10 | 208 | 17 | 
 | 2023-02-09 | 208 | 17 | 
 | 2023-02-08 | 206 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 204 | 15 | 
 | 2023-01-14 | 204 | 15 | 
 | 2023-01-13 | 204 | 15 | 
-| 2023-01-12 | 203 | 15 | 
 

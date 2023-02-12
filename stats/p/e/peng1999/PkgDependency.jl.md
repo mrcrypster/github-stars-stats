@@ -1,10 +1,10 @@
 # peng1999/PkgDependency.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 71
+★ Stars: 70
 
 [Open repository](https://github.com/peng1999/PkgDependency.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 70 | 2 | 
 | 2023-02-10 | 71 | 2 | 
 | 2023-02-09 | 71 | 2 | 
 | 2023-02-08 | 71 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 71 | 2 | 
 | 2023-01-14 | 71 | 2 | 
 | 2023-01-13 | 71 | 2 | 
-| 2023-01-12 | 71 | 2 | 
 

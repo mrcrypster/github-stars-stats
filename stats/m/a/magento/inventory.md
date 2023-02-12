@@ -1,6 +1,6 @@
 # magento/inventory - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 309 | 232 | 
 | 2023-02-10 | 309 | 232 | 
 | 2023-02-09 | 309 | 233 | 
 | 2023-02-08 | 309 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 310 | 232 | 
 | 2023-01-14 | 310 | 232 | 
 | 2023-01-13 | 310 | 232 | 
-| 2023-01-12 | 310 | 232 | 
 

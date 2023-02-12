@@ -1,6 +1,6 @@
 # Bert-JanP/Hunting-Queries-Detection-Rules - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 338 | 50 | 
 | 2023-02-10 | 338 | 50 | 
 | 2023-02-09 | 337 | 50 | 
 | 2023-02-08 | 329 | 50 | 

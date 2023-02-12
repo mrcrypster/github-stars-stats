@@ -1,6 +1,6 @@
 # recastnavigation/recastnavigation - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1396
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 5300 | 1396 | 
 | 2023-02-10 | 5300 | 1396 | 
 | 2023-02-09 | 5299 | 1395 | 
 | 2023-02-08 | 5296 | 1393 | 

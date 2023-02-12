@@ -1,10 +1,10 @@
 # robusta-dev/kubernetes-chatgpt-bot - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 43
 
-★ Stars: 427
+★ Stars: 431
 
 [Open repository](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 431 | 43 | 
 | 2023-02-10 | 427 | 43 | 
 | 2023-02-09 | 417 | 41 | 
 | 2023-02-08 | 411 | 40 | 

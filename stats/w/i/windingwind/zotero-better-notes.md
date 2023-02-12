@@ -1,10 +1,10 @@
 # windingwind/zotero-better-notes - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 70
 
-★ Stars: 1449
+★ Stars: 1460
 
 [Open repository](https://github.com/windingwind/zotero-better-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1460 | 70 | 
 | 2023-02-11 | 1449 | 70 | 
 | 2023-02-09 | 1444 | 69 | 
 | 2023-02-08 | 1440 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 1355 | 66 | 
 | 2023-01-14 | 1354 | 66 | 
 | 2023-01-13 | 1350 | 66 | 
-| 2023-01-12 | 1344 | 65 | 
 

@@ -1,6 +1,6 @@
 # szermatt/emacs-bash-completion - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 270 | 33 | 
 | 2023-02-10 | 270 | 33 | 
 | 2023-02-09 | 270 | 33 | 
 | 2023-02-08 | 270 | 33 | 

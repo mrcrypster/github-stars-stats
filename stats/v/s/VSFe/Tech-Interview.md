@@ -1,6 +1,6 @@
 # VSFe/Tech-Interview - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 365 | 46 | 
 | 2023-02-10 | 365 | 46 | 
 | 2023-02-09 | 363 | 45 | 
 | 2023-02-08 | 358 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 288 | 32 | 
 | 2023-01-14 | 288 | 32 | 
 | 2023-01-13 | 286 | 32 | 
-| 2023-01-12 | 286 | 32 | 
 

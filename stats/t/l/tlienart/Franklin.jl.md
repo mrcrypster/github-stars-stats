@@ -1,6 +1,6 @@
 # tlienart/Franklin.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 811 | 99 | 
 | 2023-02-10 | 811 | 99 | 
 | 2023-02-09 | 810 | 99 | 
 | 2023-02-08 | 810 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 803 | 99 | 
 | 2023-01-14 | 803 | 99 | 
 | 2023-01-13 | 802 | 99 | 
-| 2023-01-12 | 802 | 99 | 
 

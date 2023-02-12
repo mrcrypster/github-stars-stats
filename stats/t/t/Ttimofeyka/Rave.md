@@ -1,10 +1,10 @@
 # Ttimofeyka/Rave - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/Ttimofeyka/Rave)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 44 | 3 | 
 | 2023-02-10 | 43 | 1 | 
 | 2023-02-09 | 41 | 1 | 
 | 2023-02-08 | 41 | 1 | 

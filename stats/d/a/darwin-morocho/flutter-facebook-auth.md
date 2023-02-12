@@ -1,6 +1,6 @@
 # darwin-morocho/flutter-facebook-auth - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 159 | 88 | 
 | 2023-02-10 | 159 | 88 | 
 | 2023-02-09 | 159 | 88 | 
 | 2023-02-08 | 158 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 157 | 86 | 
 | 2023-01-14 | 157 | 86 | 
 | 2023-01-13 | 157 | 86 | 
-| 2023-01-12 | 157 | 86 | 
 

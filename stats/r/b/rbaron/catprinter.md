@@ -1,10 +1,10 @@
 # rbaron/catprinter - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 45
 
-★ Stars: 676
+★ Stars: 677
 
 [Open repository](https://github.com/rbaron/catprinter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 677 | 45 | 
 | 2023-02-10 | 676 | 45 | 
 | 2023-02-09 | 676 | 45 | 
 | 2023-02-08 | 676 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 672 | 45 | 
 | 2023-01-14 | 672 | 45 | 
 | 2023-01-13 | 672 | 45 | 
-| 2023-01-12 | 672 | 45 | 
 

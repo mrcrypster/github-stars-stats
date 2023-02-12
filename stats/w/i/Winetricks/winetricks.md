@@ -1,10 +1,10 @@
 # Winetricks/winetricks - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 344
 
-★ Stars: 2168
+★ Stars: 2167
 
 [Open repository](https://github.com/Winetricks/winetricks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2167 | 344 | 
 | 2023-02-10 | 2168 | 344 | 
 | 2023-02-09 | 2168 | 344 | 
 | 2023-02-08 | 2167 | 343 | 

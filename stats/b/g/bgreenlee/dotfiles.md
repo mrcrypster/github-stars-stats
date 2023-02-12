@@ -1,6 +1,6 @@
 # bgreenlee/dotfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | - | 1 | 
 | 2023-02-10 | - | 1 | 
 | 2023-02-08 | - | 1 | 
 | 2023-02-07 | - | 1 | 

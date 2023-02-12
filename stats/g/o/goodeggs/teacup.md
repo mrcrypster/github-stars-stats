@@ -1,6 +1,6 @@
 # goodeggs/teacup - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 121 | 19 | 
 | 2023-02-10 | 121 | 19 | 
 | 2023-02-09 | 121 | 19 | 
 | 2023-02-07 | 121 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 120 | 19 | 
 | 2023-01-14 | 120 | 19 | 
 | 2023-01-13 | 120 | 19 | 
-| 2023-01-12 | 120 | 19 | 
 

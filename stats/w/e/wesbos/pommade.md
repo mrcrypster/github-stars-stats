@@ -1,6 +1,6 @@
 # wesbos/pommade - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 155 | 11 | 
 | 2023-02-10 | 155 | 11 | 
 | 2023-02-09 | 155 | 10 | 
 | 2023-02-08 | 154 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 153 | 10 | 
 | 2023-01-14 | 153 | 10 | 
 | 2023-01-13 | 153 | 10 | 
-| 2023-01-12 | 152 | 10 | 
 

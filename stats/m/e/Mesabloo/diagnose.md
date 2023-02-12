@@ -1,6 +1,6 @@
 # Mesabloo/diagnose - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 170 | 10 | 
 | 2023-02-10 | 170 | 10 | 
 | 2023-02-09 | 170 | 10 | 
 | 2023-02-08 | 170 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 169 | 9 | 
 | 2023-01-14 | 169 | 9 | 
 | 2023-01-13 | 168 | 9 | 
-| 2023-01-12 | 168 | 9 | 
 

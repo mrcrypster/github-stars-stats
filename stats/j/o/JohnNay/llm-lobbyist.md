@@ -1,6 +1,6 @@
 # JohnNay/llm-lobbyist - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 97 | 8 | 
 | 2023-02-10 | 97 | 8 | 
 | 2023-02-09 | 96 | 8 | 
 | 2023-02-08 | 96 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 74 | 6 | 
 | 2023-01-14 | 73 | 6 | 
 | 2023-01-13 | 73 | 5 | 
-| 2023-01-12 | 73 | 5 | 
 

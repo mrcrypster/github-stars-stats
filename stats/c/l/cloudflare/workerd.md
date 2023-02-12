@@ -1,10 +1,10 @@
 # cloudflare/workerd - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 135
+☋ Forks: 136
 
-★ Stars: 4393
+★ Stars: 4394
 
 [Open repository](https://github.com/cloudflare/workerd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4394 | 136 | 
 | 2023-02-10 | 4393 | 135 | 
 | 2023-02-09 | 4389 | 135 | 
 | 2023-02-08 | 4384 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 4259 | 124 | 
 | 2023-01-15 | 4259 | 124 | 
 | 2023-01-14 | 4257 | 124 | 
-| 2023-01-12 | 4256 | 124 | 
 

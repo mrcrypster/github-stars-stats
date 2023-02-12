@@ -1,10 +1,10 @@
 # habamax/vim-godot - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/habamax/vim-godot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 332 | 13 | 
 | 2023-02-10 | 331 | 12 | 
 | 2023-02-09 | 332 | 12 | 
 | 2023-02-08 | 332 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 324 | 12 | 
 | 2023-01-14 | 322 | 12 | 
 | 2023-01-13 | 322 | 12 | 
-| 2023-01-12 | 322 | 12 | 
 

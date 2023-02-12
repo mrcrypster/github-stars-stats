@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/asmaloney/GDExtensionTemplate)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 45 | 2 | 
+| 2023-02-11 | 46 | 2 | 
 | 2023-02-10 | 45 | 2 | 
 

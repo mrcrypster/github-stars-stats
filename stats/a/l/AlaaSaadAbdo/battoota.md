@@ -1,10 +1,10 @@
 # AlaaSaadAbdo/battoota - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 66
+★ Stars: 69
 
 [Open repository](https://github.com/AlaaSaadAbdo/battoota)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 69 | 4 | 
 | 2023-02-10 | 66 | 4 | 
 | 2023-02-09 | 66 | 4 | 
 | 2023-02-08 | 66 | 4 | 

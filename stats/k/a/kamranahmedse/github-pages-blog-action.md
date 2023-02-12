@@ -1,10 +1,10 @@
 # kamranahmedse/github-pages-blog-action - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/kamranahmedse/github-pages-blog-action)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 55 | 8 | 
 | 2023-02-10 | 53 | 8 | 
 | 2023-02-09 | 53 | 8 | 
 | 2023-02-08 | 53 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 48 | 6 | 
 | 2023-01-14 | 48 | 6 | 
 | 2023-01-13 | 48 | 6 | 
-| 2023-01-12 | 48 | 6 | 
 

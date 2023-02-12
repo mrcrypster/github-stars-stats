@@ -1,6 +1,6 @@
 # MangosExtras/MangosZero_Localised - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 63 | 42 | 
 | 2023-02-10 | 63 | 42 | 
 | 2023-02-09 | 63 | 42 | 
 | 2023-02-08 | 63 | 42 | 

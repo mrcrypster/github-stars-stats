@@ -1,6 +1,6 @@
 # nLatt/GLaDOS-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5 | - | 
 | 2023-02-10 | 5 | - | 
 | 2023-02-09 | 4 | - | 
 | 2023-02-08 | 4 | - | 

@@ -1,10 +1,10 @@
 # py-pdf/PyPDF2 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1162
 
-★ Stars: 5172
+★ Stars: 5175
 
 [Open repository](https://github.com/py-pdf/PyPDF2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 5175 | 1162 | 
 | 2023-02-10 | 5172 | 1162 | 
 | 2023-02-09 | 5166 | 1162 | 
 | 2023-02-08 | 5161 | 1162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 5057 | 1151 | 
 | 2023-01-15 | 5056 | 1150 | 
 | 2023-01-14 | 5052 | 1151 | 
-| 2023-01-13 | 5052 | 1151 | 
 

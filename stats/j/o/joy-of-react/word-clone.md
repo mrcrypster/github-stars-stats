@@ -1,8 +1,8 @@
 # joy-of-react/word-clone - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 147
+☋ Forks: 162
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 14 | 162 | 
 | 2023-02-10 | 14 | 147 | 
 | 2023-02-09 | 13 | 138 | 
 | 2023-02-08 | 12 | 129 | 

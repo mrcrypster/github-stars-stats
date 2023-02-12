@@ -1,10 +1,10 @@
 # redevRx/Flutter-ChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/redevRx/Flutter-ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 44 | 33 | 
 | 2023-02-10 | 43 | 33 | 
 | 2023-02-09 | 42 | 32 | 
 | 2023-02-08 | 42 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 30 | 17 | 
 | 2023-01-14 | 30 | 15 | 
 | 2023-01-13 | 28 | 15 | 
-| 2023-01-12 | 22 | 13 | 
 

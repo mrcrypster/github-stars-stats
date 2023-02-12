@@ -1,6 +1,6 @@
 # apollographql/apollo-kotlin - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 626
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3367 | 626 | 
 | 2023-02-10 | 3367 | 626 | 
 | 2023-02-09 | 3365 | 624 | 
 | 2023-02-08 | 3365 | 624 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3334 | 619 | 
 | 2023-01-14 | 3333 | 619 | 
 | 2023-01-13 | 3333 | 620 | 
-| 2023-01-12 | 3333 | 620 | 
 

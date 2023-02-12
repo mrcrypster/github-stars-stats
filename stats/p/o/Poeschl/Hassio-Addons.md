@@ -1,6 +1,6 @@
 # Poeschl/Hassio-Addons - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 218 | 77 | 
 | 2023-02-10 | 218 | 77 | 
 | 2023-02-09 | 218 | 77 | 
 | 2023-02-08 | 218 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 212 | 74 | 
 | 2023-01-14 | 212 | 74 | 
 | 2023-01-13 | 210 | 74 | 
-| 2023-01-12 | 209 | 74 | 
 

@@ -1,10 +1,10 @@
 # k1LoW/tbls - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 128
 
-★ Stars: 1897
+★ Stars: 1901
 
 [Open repository](https://github.com/k1LoW/tbls)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1901 | 128 | 
 | 2023-02-10 | 1897 | 128 | 
 | 2023-02-09 | 1890 | 128 | 
 | 2023-02-08 | 1879 | 127 | 

@@ -1,6 +1,6 @@
 # opendilab/DI-sheep - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 313 | 19 | 
 | 2023-02-10 | 313 | 19 | 
 | 2023-02-09 | 313 | 19 | 
 | 2023-02-07 | 313 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 308 | 19 | 
 | 2023-01-14 | 308 | 19 | 
 | 2023-01-13 | 308 | 19 | 
-| 2023-01-12 | 307 | 19 | 
 

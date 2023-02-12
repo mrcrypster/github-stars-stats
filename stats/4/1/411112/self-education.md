@@ -1,6 +1,6 @@
 # 411112/self-education - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 101 | 2 | 
 | 2023-02-10 | 101 | 2 | 
 | 2023-02-09 | 100 | 2 | 
 | 2023-02-08 | 96 | 2 | 

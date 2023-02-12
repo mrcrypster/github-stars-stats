@@ -1,10 +1,10 @@
 # xfangfang/wiliwili - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 84
 
-★ Stars: 1434
+★ Stars: 1439
 
 [Open repository](https://github.com/xfangfang/wiliwili)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1439 | 84 | 
 | 2023-02-10 | 1434 | 84 | 
 | 2023-02-09 | 1421 | 84 | 
 | 2023-02-07 | 1406 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 877 | 65 | 
 | 2023-01-15 | 877 | 65 | 
 | 2023-01-14 | 875 | 65 | 
-| 2023-01-12 | 875 | 65 | 
 

@@ -1,10 +1,10 @@
 # alexislozano/salaires.dev - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 59
+★ Stars: 63
 
 [Open repository](https://github.com/alexislozano/salaires.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 63 | - | 
 | 2023-02-11 | 59 | - | 
 | 2023-02-09 | 59 | - | 
 | 2023-02-08 | 59 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 59 | - | 
 | 2023-01-14 | 59 | - | 
 | 2023-01-13 | 59 | - | 
-| 2023-01-12 | 59 | - | 
 

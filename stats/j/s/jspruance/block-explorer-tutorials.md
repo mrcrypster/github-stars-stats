@@ -1,6 +1,6 @@
 # jspruance/block-explorer-tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 77 | 82 | 
 | 2023-02-10 | 77 | 82 | 
 | 2023-02-09 | 77 | 82 | 
 | 2023-02-08 | 77 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 77 | 84 | 
 | 2023-01-14 | 77 | 84 | 
 | 2023-01-13 | 77 | 84 | 
-| 2023-01-12 | 77 | 84 | 
 

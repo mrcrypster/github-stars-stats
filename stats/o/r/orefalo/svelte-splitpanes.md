@@ -1,10 +1,10 @@
 # orefalo/svelte-splitpanes - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 10
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/orefalo/svelte-splitpanes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 155 | 10 | 
 | 2023-02-10 | 154 | 10 | 
 | 2023-02-09 | 153 | 10 | 
 | 2023-02-08 | 153 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 147 | 10 | 
 | 2023-01-14 | 147 | 10 | 
 | 2023-01-13 | 146 | 10 | 
-| 2023-01-12 | 144 | 10 | 
 

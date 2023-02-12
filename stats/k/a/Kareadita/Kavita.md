@@ -1,10 +1,10 @@
 # Kareadita/Kavita - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 129
 
-★ Stars: 2166
+★ Stars: 2173
 
 [Open repository](https://github.com/Kareadita/Kavita)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2173 | 129 | 
 | 2023-02-10 | 2166 | 129 | 
 | 2023-02-09 | 2160 | 128 | 
 | 2023-02-07 | 2157 | 128 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2057 | 117 | 
 | 2023-01-14 | 2053 | 117 | 
 | 2023-01-13 | 2050 | 117 | 
-| 2023-01-12 | 2046 | 116 | 
 

@@ -1,10 +1,10 @@
 # AssemblyAI-Examples/ML-Study-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/AssemblyAI-Examples/ML-Study-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 341 | 67 | 
 | 2023-02-10 | 340 | 66 | 
 | 2023-02-09 | 335 | 65 | 
 | 2023-02-08 | 330 | 66 | 

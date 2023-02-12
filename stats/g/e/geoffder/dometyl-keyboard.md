@@ -1,10 +1,10 @@
 # geoffder/dometyl-keyboard - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 16
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/geoffder/dometyl-keyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 141 | 16 | 
 | 2023-02-10 | 140 | 16 | 
 | 2023-02-09 | 140 | 16 | 
 | 2023-02-08 | 140 | 16 | 

@@ -1,10 +1,10 @@
 # dundunnp/auto_xuexiqiangguo - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 882
+☋ Forks: 884
 
-★ Stars: 2257
+★ Stars: 2259
 
 [Open repository](https://github.com/dundunnp/auto_xuexiqiangguo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2259 | 884 | 
 | 2023-02-10 | 2257 | 882 | 
 | 2023-02-09 | 2251 | 882 | 
 | 2023-02-08 | 2242 | 880 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2173 | 853 | 
 | 2023-01-14 | 2171 | 851 | 
 | 2023-01-13 | 2167 | 852 | 
-| 2023-01-12 | 2164 | 851 | 
 

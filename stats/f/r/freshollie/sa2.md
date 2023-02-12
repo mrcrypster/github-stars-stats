@@ -1,6 +1,6 @@
 # freshollie/sa2 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 52 | 4 | 
 | 2023-02-10 | 52 | 4 | 
 | 2023-02-09 | 52 | 4 | 
 | 2023-02-08 | 52 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 50 | 4 | 
 | 2023-01-15 | 50 | 4 | 
 | 2023-01-14 | 50 | 4 | 
-| 2023-01-13 | 50 | 4 | 
 

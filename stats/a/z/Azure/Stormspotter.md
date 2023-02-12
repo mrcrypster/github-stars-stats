@@ -1,6 +1,6 @@
 # Azure/Stormspotter - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1245 | 167 | 
 | 2023-02-10 | 1245 | 167 | 
 | 2023-02-09 | 1245 | 167 | 
 | 2023-02-08 | 1244 | 167 | 

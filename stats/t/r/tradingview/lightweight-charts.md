@@ -1,10 +1,10 @@
 # tradingview/lightweight-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1167
+☋ Forks: 1169
 
-★ Stars: 5974
+★ Stars: 5981
 
 [Open repository](https://github.com/tradingview/lightweight-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 5981 | 1169 | 
 | 2023-02-10 | 5974 | 1167 | 
 | 2023-02-09 | 5970 | 1166 | 
 | 2023-02-08 | 5964 | 1164 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 5831 | 1146 | 
 | 2023-01-14 | 5827 | 1146 | 
 | 2023-01-13 | 5825 | 1146 | 
-| 2023-01-12 | 5821 | 1146 | 
 

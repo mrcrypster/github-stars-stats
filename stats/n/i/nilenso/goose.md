@@ -1,6 +1,6 @@
 # nilenso/goose - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 171 | 4 | 
 | 2023-02-10 | 171 | 4 | 
 | 2023-02-09 | 171 | 4 | 
 | 2023-02-08 | 171 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 167 | 4 | 
 | 2023-01-14 | 167 | 4 | 
 | 2023-01-13 | 167 | 4 | 
-| 2023-01-12 | 167 | 4 | 
 

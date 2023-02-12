@@ -1,10 +1,10 @@
 # infinitered/reactotron - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 921
 
-★ Stars: 13911
+★ Stars: 13913
 
 [Open repository](https://github.com/infinitered/reactotron)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 13913 | 921 | 
 | 2023-02-10 | 13911 | 921 | 
 | 2023-02-09 | 13910 | 920 | 
 | 2023-02-08 | 13909 | 920 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 13871 | 915 | 
 | 2023-01-14 | 13869 | 915 | 
 | 2023-01-13 | 13869 | 915 | 
-| 2023-01-12 | 13870 | 915 | 
 

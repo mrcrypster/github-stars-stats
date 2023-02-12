@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleSlim - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 305
 
-★ Stars: 1274
+★ Stars: 1276
 
 [Open repository](https://github.com/PaddlePaddle/PaddleSlim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1276 | 305 | 
 | 2023-02-10 | 1274 | 305 | 
 | 2023-02-09 | 1270 | 305 | 
 | 2023-02-08 | 1270 | 305 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1263 | 304 | 
 | 2023-01-14 | 1262 | 304 | 
 | 2023-01-13 | 1262 | 303 | 
-| 2023-01-12 | 1262 | 303 | 
 

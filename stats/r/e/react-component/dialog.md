@@ -1,6 +1,6 @@
 # react-component/dialog - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 397 | 163 | 
 | 2023-02-10 | 397 | 163 | 
 | 2023-02-09 | 396 | 163 | 
 | 2023-02-08 | 396 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 391 | 163 | 
 | 2023-01-14 | 391 | 163 | 
 | 2023-01-13 | 391 | 163 | 
-| 2023-01-12 | 391 | 163 | 
 

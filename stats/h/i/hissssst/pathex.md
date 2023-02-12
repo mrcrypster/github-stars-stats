@@ -1,10 +1,10 @@
 # hissssst/pathex - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 259
+★ Stars: 260
 
 [Open repository](https://github.com/hissssst/pathex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 260 | 14 | 
 | 2023-02-10 | 259 | 14 | 
 | 2023-02-09 | 259 | 14 | 
 | 2023-02-08 | 259 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 254 | 14 | 
 | 2023-01-14 | 254 | 14 | 
 | 2023-01-13 | 254 | 14 | 
-| 2023-01-12 | 254 | 14 | 
 

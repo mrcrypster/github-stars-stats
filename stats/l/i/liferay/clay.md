@@ -1,6 +1,6 @@
 # liferay/clay - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 404
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 199 | 404 | 
 | 2023-02-10 | 199 | 404 | 
 | 2023-02-09 | 200 | 404 | 
 | 2023-02-08 | 201 | 404 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 201 | 402 | 
 | 2023-01-14 | 201 | 402 | 
 | 2023-01-13 | 201 | 402 | 
-| 2023-01-12 | 201 | 402 | 
 

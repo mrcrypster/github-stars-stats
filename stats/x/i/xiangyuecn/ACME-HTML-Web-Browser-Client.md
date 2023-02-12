@@ -1,6 +1,6 @@
 # xiangyuecn/ACME-HTML-Web-Browser-Client - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 173 | 30 | 
 | 2023-02-10 | 173 | 30 | 
 | 2023-02-09 | 173 | 30 | 
 | 2023-02-08 | 172 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 166 | 28 | 
 | 2023-01-14 | 165 | 28 | 
 | 2023-01-13 | 165 | 28 | 
-| 2023-01-12 | 165 | 28 | 
 

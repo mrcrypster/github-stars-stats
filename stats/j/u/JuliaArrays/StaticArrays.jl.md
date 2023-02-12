@@ -1,10 +1,10 @@
 # JuliaArrays/StaticArrays.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 130
 
-★ Stars: 619
+★ Stars: 618
 
 [Open repository](https://github.com/JuliaArrays/StaticArrays.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 618 | 130 | 
 | 2023-02-10 | 619 | 130 | 
 | 2023-02-09 | 619 | 130 | 
 | 2023-02-08 | 619 | 130 | 

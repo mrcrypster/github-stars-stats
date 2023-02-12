@@ -1,6 +1,6 @@
 # AndrewRadev/linediff.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 407 | 26 | 
 | 2023-02-10 | 407 | 26 | 
 | 2023-02-09 | 407 | 26 | 
 | 2023-02-08 | 407 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 406 | 26 | 
 | 2023-01-14 | 405 | 26 | 
 | 2023-01-13 | 405 | 26 | 
-| 2023-01-12 | 405 | 26 | 
 

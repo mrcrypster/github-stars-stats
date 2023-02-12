@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-sqs - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 167
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-sqs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 81 | 167 | 
 | 2023-02-10 | 80 | 167 | 
 | 2023-02-09 | 80 | 166 | 
 | 2023-02-08 | 80 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 77 | 163 | 
 | 2023-01-14 | 77 | 163 | 
 | 2023-01-13 | 77 | 163 | 
-| 2023-01-12 | 77 | 163 | 
 

@@ -1,10 +1,10 @@
 # rbmm/NtDetours - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/rbmm/NtDetours)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 62 | 8 | 
 | 2023-02-10 | 61 | 8 | 
 | 2023-02-09 | 60 | 8 | 
 | 2023-02-08 | 59 | 8 | 

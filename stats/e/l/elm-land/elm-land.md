@@ -1,6 +1,6 @@
 # elm-land/elm-land - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 163 | 10 | 
 | 2023-02-10 | 163 | 10 | 
 | 2023-02-09 | 163 | 10 | 
 | 2023-02-08 | 162 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 155 | 9 | 
 | 2023-01-15 | 155 | 9 | 
 | 2023-01-14 | 155 | 9 | 
-| 2023-01-12 | 154 | 9 | 
 

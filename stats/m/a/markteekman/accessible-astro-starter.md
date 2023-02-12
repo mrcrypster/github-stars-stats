@@ -1,6 +1,6 @@
 # markteekman/accessible-astro-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 132 | 12 | 
 | 2023-02-10 | 132 | 12 | 
 | 2023-02-09 | 132 | 12 | 
 | 2023-02-08 | 132 | 12 | 

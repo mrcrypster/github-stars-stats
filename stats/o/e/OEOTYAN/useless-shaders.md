@@ -1,6 +1,6 @@
 # OEOTYAN/useless-shaders - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 42 | 1 | 
 | 2023-02-10 | 42 | 1 | 
 | 2023-02-09 | 42 | 1 | 
 | 2023-02-07 | 42 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 42 | 1 | 
 | 2023-01-14 | 42 | 1 | 
 | 2023-01-13 | 41 | 1 | 
-| 2023-01-12 | 41 | 1 | 
 

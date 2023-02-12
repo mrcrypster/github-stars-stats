@@ -1,10 +1,10 @@
 # bborn/howdoi.ai - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/bborn/howdoi.ai)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 135 | 12 | 
 | 2023-02-10 | 134 | 12 | 
 | 2023-02-09 | 134 | 12 | 
 | 2023-02-08 | 133 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 106 | 6 | 
 | 2023-01-15 | 105 | 6 | 
 | 2023-01-14 | 104 | 5 | 
-| 2023-01-12 | 104 | 5 | 
 

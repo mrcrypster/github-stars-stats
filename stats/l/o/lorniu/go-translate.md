@@ -1,10 +1,10 @@
 # lorniu/go-translate - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 22
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/lorniu/go-translate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 198 | 22 | 
 | 2023-02-10 | 197 | 22 | 
 | 2023-02-09 | 196 | 22 | 
 | 2023-02-08 | 196 | 22 | 

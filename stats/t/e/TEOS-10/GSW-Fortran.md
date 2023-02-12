@@ -1,6 +1,6 @@
 # TEOS-10/GSW-Fortran - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 12 | 13 | 
 | 2023-02-10 | 12 | 13 | 
 | 2023-02-09 | 12 | 13 | 
 | 2023-02-08 | 12 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 11 | 13 | 
 | 2023-01-14 | 11 | 13 | 
 | 2023-01-13 | 11 | 13 | 
-| 2023-01-12 | 11 | 13 | 
 

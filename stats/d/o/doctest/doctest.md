@@ -1,6 +1,6 @@
 # doctest/doctest - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 558
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4550 | 558 | 
 | 2023-02-10 | 4550 | 558 | 
 | 2023-02-09 | 4549 | 558 | 
 | 2023-02-08 | 4535 | 558 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 4485 | 556 | 
 | 2023-01-14 | 4483 | 556 | 
 | 2023-01-13 | 4483 | 556 | 
-| 2023-01-12 | 4480 | 555 | 
 

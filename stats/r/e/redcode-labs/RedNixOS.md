@@ -1,6 +1,6 @@
 # redcode-labs/RedNixOS - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 135 | 6 | 
 | 2023-02-10 | 135 | 6 | 
 | 2023-02-09 | 136 | 6 | 
 | 2023-02-07 | 135 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 132 | 6 | 
 | 2023-01-14 | 132 | 6 | 
 | 2023-01-13 | 132 | 6 | 
-| 2023-01-12 | 132 | 6 | 
 

@@ -1,6 +1,6 @@
 # srg320/Saturn_MiSTer - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 90 | 13 | 
 | 2023-02-10 | 90 | 13 | 
 | 2023-02-09 | 90 | 13 | 
 | 2023-02-08 | 89 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 83 | 15 | 
 | 2023-01-14 | 83 | 15 | 
 | 2023-01-13 | 83 | 15 | 
-| 2023-01-12 | 83 | 15 | 
 

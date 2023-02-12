@@ -1,10 +1,10 @@
 # nemanjarogic/DesignPatternsLibrary - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 161
 
-★ Stars: 1656
+★ Stars: 1655
 
 [Open repository](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1655 | 161 | 
 | 2023-02-10 | 1656 | 161 | 
 | 2023-02-09 | 1657 | 161 | 
 | 2023-02-07 | 1656 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1617 | 155 | 
 | 2023-01-14 | 1616 | 155 | 
 | 2023-01-13 | 1614 | 155 | 
-| 2023-01-12 | 1613 | 155 | 
 

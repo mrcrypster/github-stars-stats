@@ -1,10 +1,10 @@
 # cxasm/notepad-- - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
-☋ Forks: 59
+☋ Forks: 61
 
-★ Stars: 1785
+★ Stars: 1795
 
 [Open repository](https://github.com/cxasm/notepad--)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1795 | 61 | 
 | 2023-02-10 | 1785 | 59 | 
 | 2023-02-09 | 1764 | 58 | 
 | 2023-02-08 | 1742 | 58 | 

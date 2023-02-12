@@ -1,10 +1,10 @@
 # RealCorebb/bbLaser - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 23
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/RealCorebb/bbLaser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 189 | 23 | 
 | 2023-02-10 | 188 | 23 | 
 | 2023-02-09 | 188 | 23 | 
 | 2023-02-07 | 186 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 178 | 23 | 
 | 2023-01-14 | 178 | 23 | 
 | 2023-01-13 | 178 | 22 | 
-| 2023-01-12 | 177 | 21 | 
 

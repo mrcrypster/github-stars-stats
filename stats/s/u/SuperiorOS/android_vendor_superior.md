@@ -1,6 +1,6 @@
 # SuperiorOS/android_vendor_superior - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 17 | 45 | 
 | 2023-02-10 | 17 | 45 | 
 | 2023-02-09 | 17 | 45 | 
 | 2023-02-08 | 17 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 16 | 39 | 
 | 2023-01-15 | 16 | 39 | 
 | 2023-01-13 | 16 | 39 | 
-| 2023-01-12 | 16 | 39 | 
 

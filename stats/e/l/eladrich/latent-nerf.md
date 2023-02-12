@@ -1,10 +1,10 @@
 # eladrich/latent-nerf - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 353
+★ Stars: 358
 
 [Open repository](https://github.com/eladrich/latent-nerf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 358 | 18 | 
 | 2023-02-10 | 353 | 18 | 
 | 2023-02-09 | 350 | 18 | 
 | 2023-02-08 | 350 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 333 | 15 | 
 | 2023-01-14 | 332 | 15 | 
 | 2023-01-13 | 330 | 15 | 
-| 2023-01-12 | 327 | 15 | 
 

@@ -1,10 +1,10 @@
 # Zakarialabib/myStockMaster - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/Zakarialabib/myStockMaster)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 51 | 21 | 
 | 2023-02-10 | 50 | 20 | 
 | 2023-02-09 | 50 | 20 | 
 | 2023-02-08 | 50 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 46 | 18 | 
 | 2023-01-15 | 45 | 18 | 
 | 2023-01-14 | 45 | 18 | 
-| 2023-01-13 | 45 | 18 | 
 

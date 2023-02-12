@@ -1,6 +1,6 @@
 # coq-community/topology - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 40 | 9 | 
 | 2023-02-10 | 40 | 9 | 
 | 2023-02-09 | 40 | 9 | 
 | 2023-02-08 | 40 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 39 | 8 | 
 | 2023-01-15 | 39 | 8 | 
 | 2023-01-14 | 39 | 8 | 
-| 2023-01-12 | 39 | 8 | 
 

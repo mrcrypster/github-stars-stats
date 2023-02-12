@@ -1,6 +1,6 @@
 # s-cart/s-cart - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 483 | 288 | 
 | 2023-02-10 | 483 | 288 | 
 | 2023-02-09 | 483 | 288 | 
 | 2023-02-08 | 483 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 481 | 285 | 
 | 2023-01-14 | 481 | 286 | 
 | 2023-01-13 | 481 | 286 | 
-| 2023-01-12 | 481 | 286 | 
 

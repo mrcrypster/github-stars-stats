@@ -1,10 +1,10 @@
 # TermiT/Flycut - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 189
 
-★ Stars: 2166
+★ Stars: 2165
 
 [Open repository](https://github.com/TermiT/Flycut)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2165 | 189 | 
 | 2023-02-10 | 2166 | 189 | 
 | 2023-02-08 | 2165 | 189 | 
 | 2023-02-07 | 2163 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2154 | 189 | 
 | 2023-01-14 | 2153 | 189 | 
 | 2023-01-13 | 2152 | 189 | 
-| 2023-01-12 | 2151 | 189 | 
 

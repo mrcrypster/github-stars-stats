@@ -1,6 +1,6 @@
 # fcampelo/EC-Bestiary - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 502 | 53 | 
 | 2023-02-10 | 502 | 53 | 
 | 2023-02-09 | 502 | 53 | 
 | 2023-02-08 | 502 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 497 | 52 | 
 | 2023-01-14 | 496 | 52 | 
 | 2023-01-13 | 496 | 52 | 
-| 2023-01-12 | 496 | 52 | 
 

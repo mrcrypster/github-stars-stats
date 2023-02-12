@@ -1,10 +1,10 @@
 # ChenYFan/blog - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 35
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/ChenYFan/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 110 | 35 | 
 | 2023-02-10 | 109 | 35 | 
 | 2023-02-09 | 108 | 35 | 
 | 2023-02-08 | 108 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 103 | 35 | 
 | 2023-01-14 | 103 | 35 | 
 | 2023-01-13 | 102 | 35 | 
-| 2023-01-12 | 102 | 35 | 
 

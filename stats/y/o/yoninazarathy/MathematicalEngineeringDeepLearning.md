@@ -1,10 +1,10 @@
 # yoninazarathy/MathematicalEngineeringDeepLearning - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 49
 
-★ Stars: 311
+★ Stars: 310
 
 [Open repository](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 310 | 49 | 
 | 2023-02-10 | 311 | 49 | 
 | 2023-02-09 | 311 | 49 | 
 | 2023-02-08 | 311 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 308 | 49 | 
 | 2023-01-14 | 308 | 49 | 
 | 2023-01-13 | 308 | 49 | 
-| 2023-01-12 | 308 | 49 | 
 

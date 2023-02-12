@@ -1,10 +1,10 @@
 # agda/cubical - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 118
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/agda/cubical)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 354 | 118 | 
 | 2023-02-10 | 353 | 118 | 
 | 2023-02-09 | 353 | 118 | 
 | 2023-02-08 | 352 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 345 | 116 | 
 | 2023-01-14 | 345 | 116 | 
 | 2023-01-13 | 344 | 116 | 
-| 2023-01-12 | 344 | 116 | 
 

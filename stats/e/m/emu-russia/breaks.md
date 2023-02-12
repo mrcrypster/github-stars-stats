@@ -1,10 +1,10 @@
 # emu-russia/breaks - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/emu-russia/breaks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 119 | 12 | 
 | 2023-02-10 | 118 | 12 | 
 | 2023-02-09 | 117 | 12 | 
 | 2023-02-08 | 117 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 117 | 11 | 
 | 2023-01-15 | 117 | 11 | 
 | 2023-01-14 | 117 | 11 | 
-| 2023-01-13 | 116 | 11 | 
 

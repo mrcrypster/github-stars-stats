@@ -1,6 +1,6 @@
 # SysBind/moodle-atto_wordcount - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3 | 4 | 
 | 2023-02-10 | 3 | 4 | 
 | 2023-02-09 | 3 | 4 | 
 | 2023-02-08 | 3 | 4 | 

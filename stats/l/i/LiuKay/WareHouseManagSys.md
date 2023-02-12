@@ -1,10 +1,10 @@
 # LiuKay/WareHouseManagSys - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 34
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/LiuKay/WareHouseManagSys)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 109 | 34 | 
 | 2023-02-10 | 108 | 34 | 
 | 2023-02-09 | 108 | 34 | 
 | 2023-02-08 | 108 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 108 | 34 | 
 | 2023-01-15 | 108 | 34 | 
 | 2023-01-14 | 108 | 34 | 
-| 2023-01-13 | 108 | 34 | 
 

@@ -1,10 +1,10 @@
 # tpope/vim-dispatch - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 139
 
-★ Stars: 2476
+★ Stars: 2477
 
 [Open repository](https://github.com/tpope/vim-dispatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2477 | 139 | 
 | 2023-02-10 | 2476 | 139 | 
 | 2023-02-09 | 2476 | 139 | 
 | 2023-02-08 | 2476 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2467 | 140 | 
 | 2023-01-14 | 2467 | 140 | 
 | 2023-01-13 | 2466 | 140 | 
-| 2023-01-12 | 2465 | 140 | 
 

@@ -1,10 +1,10 @@
 # Asabeneh/30-Days-Of-Python - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 4271
+☋ Forks: 4277
 
-★ Stars: 18924
+★ Stars: 18954
 
 [Open repository](https://github.com/Asabeneh/30-Days-Of-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 18954 | 4277 | 
 | 2023-02-10 | 18924 | 4271 | 
 | 2023-02-09 | 18892 | 4268 | 
 | 2023-02-08 | 18862 | 4263 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 17908 | 4086 | 
 | 2023-01-15 | 17889 | 4082 | 
 | 2023-01-13 | 17872 | 4082 | 
-| 2023-01-12 | 17843 | 4079 | 
 

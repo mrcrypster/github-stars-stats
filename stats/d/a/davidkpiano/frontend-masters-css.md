@@ -1,10 +1,10 @@
 # davidkpiano/frontend-masters-css - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 109
 
-★ Stars: 120
+★ Stars: 119
 
 [Open repository](https://github.com/davidkpiano/frontend-masters-css)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 119 | 109 | 
 | 2023-02-10 | 120 | 109 | 
 | 2023-02-08 | 120 | 109 | 
 | 2023-02-07 | 120 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 113 | 100 | 
 | 2023-01-14 | 113 | 100 | 
 | 2023-01-13 | 112 | 99 | 
-| 2023-01-12 | 112 | 99 | 
 

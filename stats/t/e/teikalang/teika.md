@@ -1,10 +1,10 @@
 # teikalang/teika - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/teikalang/teika)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 228 | 5 | 
 | 2023-02-10 | 227 | 5 | 
 | 2023-02-09 | 227 | 5 | 
 | 2023-02-08 | 226 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 217 | 4 | 
 | 2023-01-14 | 217 | 4 | 
 | 2023-01-13 | 216 | 4 | 
-| 2023-01-12 | 215 | 4 | 
 

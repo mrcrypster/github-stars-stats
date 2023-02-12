@@ -1,10 +1,10 @@
 # WoeUSB/WoeUSB - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 94
 
-★ Stars: 1515
+★ Stars: 1517
 
 [Open repository](https://github.com/WoeUSB/WoeUSB)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1517 | 94 | 
 | 2023-02-10 | 1515 | 94 | 
 | 2023-02-09 | 1515 | 94 | 
 | 2023-02-08 | 1514 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1485 | 92 | 
 | 2023-01-14 | 1485 | 92 | 
 | 2023-01-13 | 1483 | 92 | 
-| 2023-01-12 | 1482 | 92 | 
 

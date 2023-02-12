@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 2000
 
-★ Stars: 10490
+★ Stars: 10491
 
 [Open repository](https://github.com/openresty/lua-nginx-module)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 10490 | 2000 | 
+| 2023-02-11 | 10491 | 2000 | 
 | 2023-02-10 | 10489 | 2000 | 
 | 2023-02-09 | 10486 | 1999 | 
 | 2023-02-08 | 10481 | 1999 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 10445 | 1986 | 
 | 2023-01-14 | 10444 | 1986 | 
 | 2023-01-13 | 10442 | 1986 | 
-| 2023-01-12 | 10436 | 1986 | 
 

@@ -1,6 +1,6 @@
 # NetSPI/PowerUpSQL - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 435
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2051 | 435 | 
 | 2023-02-10 | 2051 | 435 | 
 | 2023-02-09 | 2050 | 435 | 
 | 2023-02-07 | 2049 | 435 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2032 | 434 | 
 | 2023-01-14 | 2030 | 434 | 
 | 2023-01-13 | 2030 | 433 | 
-| 2023-01-12 | 2029 | 433 | 
 

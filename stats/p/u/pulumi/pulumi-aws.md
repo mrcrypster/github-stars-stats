@@ -1,8 +1,8 @@
 # pulumi/pulumi-aws - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 125
+☋ Forks: 127
 
 ★ Stars: 326
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 326 | 127 | 
 | 2023-02-10 | 326 | 125 | 
 | 2023-02-09 | 326 | 126 | 
 | 2023-02-08 | 326 | 126 | 

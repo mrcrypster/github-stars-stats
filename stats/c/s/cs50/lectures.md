@@ -1,10 +1,10 @@
 # cs50/lectures - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 99
 
-★ Stars: 158
+★ Stars: 160
 
 [Open repository](https://github.com/cs50/lectures)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 160 | 99 | 
 | 2023-02-10 | 158 | 99 | 
 | 2023-02-09 | 158 | 99 | 
 | 2023-02-08 | 158 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 157 | 98 | 
 | 2023-01-14 | 156 | 98 | 
 | 2023-01-13 | 156 | 97 | 
-| 2023-01-12 | 156 | 96 | 
 

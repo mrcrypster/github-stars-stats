@@ -1,6 +1,6 @@
 # hms-dbmi/UpSetR - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 657 | 134 | 
 | 2023-02-10 | 657 | 134 | 
 | 2023-02-09 | 657 | 134 | 
 | 2023-02-08 | 656 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 653 | 133 | 
 | 2023-01-14 | 653 | 133 | 
 | 2023-01-13 | 652 | 133 | 
-| 2023-01-12 | 652 | 133 | 
 

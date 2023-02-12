@@ -1,6 +1,6 @@
 # render-examples/mysql - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 11 | 180 | 
 | 2023-02-10 | 11 | 180 | 
 | 2023-02-09 | 11 | 180 | 
 | 2023-02-08 | 11 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 10 | 166 | 
 | 2023-01-14 | 10 | 164 | 
 | 2023-01-13 | 10 | 163 | 
-| 2023-01-12 | 10 | 163 | 
 

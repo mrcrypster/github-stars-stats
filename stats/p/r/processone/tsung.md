@@ -1,6 +1,6 @@
 # processone/tsung - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 411
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2392 | 411 | 
 | 2023-02-10 | 2392 | 411 | 
 | 2023-02-09 | 2391 | 411 | 
 | 2023-02-08 | 2391 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2385 | 412 | 
 | 2023-01-14 | 2384 | 412 | 
 | 2023-01-13 | 2384 | 412 | 
-| 2023-01-12 | 2384 | 412 | 
 

@@ -1,10 +1,10 @@
 # beerandcodeteam/olw-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/beerandcodeteam/olw-1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 17 | 18 | 
 | 2023-02-10 | 16 | 18 | 
 | 2023-02-09 | 14 | 18 | 
 | 2023-02-08 | 14 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 14 | 18 | 
 | 2023-01-14 | 14 | 18 | 
 | 2023-01-13 | 14 | 18 | 
-| 2023-01-12 | 14 | 18 | 
 

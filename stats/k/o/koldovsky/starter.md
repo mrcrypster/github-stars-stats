@@ -1,8 +1,8 @@
 # koldovsky/starter - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 90
+☋ Forks: 91
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | - | 91 | 
 | 2023-02-10 | - | 90 | 
 | 2023-02-09 | - | 90 | 
 | 2023-02-08 | - | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | - | 18 | 
 | 2023-01-14 | - | 18 | 
 | 2023-01-13 | - | 18 | 
-| 2023-01-12 | - | 18 | 
 

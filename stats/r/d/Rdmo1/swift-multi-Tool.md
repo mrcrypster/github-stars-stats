@@ -1,10 +1,10 @@
 # Rdmo1/swift-multi-Tool - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/Rdmo1/swift-multi-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 130 | 89 | 
 | 2023-02-10 | 129 | 88 | 
 | 2023-02-09 | 128 | 85 | 
 | 2023-02-08 | 126 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 108 | 79 | 
 | 2023-01-14 | 107 | 79 | 
 | 2023-01-13 | 105 | 78 | 
-| 2023-01-12 | 105 | 78 | 
 

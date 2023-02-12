@@ -1,10 +1,10 @@
 # yannh/kubeconform - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 75
 
-★ Stars: 981
+★ Stars: 983
 
 [Open repository](https://github.com/yannh/kubeconform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 983 | 75 | 
 | 2023-02-10 | 981 | 75 | 
 | 2023-02-09 | 978 | 74 | 
 | 2023-02-08 | 977 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 891 | 70 | 
 | 2023-01-15 | 890 | 69 | 
 | 2023-01-14 | 889 | 69 | 
-| 2023-01-13 | 881 | 69 | 
 

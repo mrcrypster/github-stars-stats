@@ -1,10 +1,10 @@
 # eazybytes/springsecurity6 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 102
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/eazybytes/springsecurity6)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 66 | 102 | 
 | 2023-02-10 | 65 | 102 | 
 | 2023-02-09 | 65 | 99 | 
 | 2023-02-08 | 66 | 99 | 

@@ -1,6 +1,6 @@
 # AdheelAhmed-D3CD/Random-Quotes - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | - | 25 | 
 | 2023-02-10 | - | 25 | 
 | 2023-02-09 | - | 25 | 
 | 2023-02-08 | - | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | - | 25 | 
 | 2023-01-15 | - | 25 | 
 | 2023-01-13 | - | 25 | 
-| 2023-01-12 | - | 25 | 
 

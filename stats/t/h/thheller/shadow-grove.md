@@ -1,6 +1,6 @@
 # thheller/shadow-grove - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 172 | 7 | 
 | 2023-02-10 | 172 | 7 | 
 | 2023-02-09 | 169 | 7 | 
 | 2023-02-08 | 169 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 167 | 7 | 
 | 2023-01-14 | 166 | 7 | 
 | 2023-01-13 | 166 | 7 | 
-| 2023-01-12 | 166 | 7 | 
 

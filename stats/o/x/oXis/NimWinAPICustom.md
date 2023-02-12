@@ -1,6 +1,6 @@
 # oXis/NimWinAPICustom - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 31 | 6 | 
 | 2023-02-10 | 31 | 6 | 
 | 2023-02-09 | 31 | 6 | 
 | 2023-02-07 | 31 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 31 | 6 | 
 | 2023-01-14 | 31 | 6 | 
 | 2023-01-13 | 31 | 6 | 
-| 2023-01-12 | 31 | 6 | 
 

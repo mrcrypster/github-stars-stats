@@ -1,6 +1,6 @@
 # star-start/Beating_heart - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 61 | 43 | 
 | 2023-02-10 | 61 | 43 | 
 | 2023-02-09 | 61 | 43 | 
 | 2023-02-08 | 61 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 61 | 42 | 
 | 2023-01-14 | 61 | 42 | 
 | 2023-01-13 | 60 | 42 | 
-| 2023-01-12 | 60 | 42 | 
 

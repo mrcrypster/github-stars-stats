@@ -1,6 +1,6 @@
 # graphhopper/graphhopper - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1366
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4004 | 1366 | 
 | 2023-02-10 | 4004 | 1366 | 
 | 2023-02-09 | 4003 | 1365 | 
 | 2023-02-08 | 4000 | 1365 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3967 | 1356 | 
 | 2023-01-14 | 3967 | 1356 | 
 | 2023-01-13 | 3967 | 1356 | 
-| 2023-01-12 | 3967 | 1356 | 
 

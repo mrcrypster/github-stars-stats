@@ -1,10 +1,10 @@
 # ocaml-batteries-team/batteries-included - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 110
 
-★ Stars: 472
+★ Stars: 473
 
 [Open repository](https://github.com/ocaml-batteries-team/batteries-included)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 473 | 110 | 
 | 2023-02-10 | 472 | 110 | 
 | 2023-02-09 | 468 | 110 | 
 | 2023-02-08 | 463 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 463 | 110 | 
 | 2023-01-14 | 463 | 110 | 
 | 2023-01-13 | 463 | 110 | 
-| 2023-01-12 | 463 | 110 | 
 

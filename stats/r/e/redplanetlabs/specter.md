@@ -1,6 +1,6 @@
 # redplanetlabs/specter - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2392 | 96 | 
 | 2023-02-10 | 2392 | 96 | 
 | 2023-02-08 | 2392 | 96 | 
 | 2023-02-07 | 2393 | 96 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2390 | 96 | 
 | 2023-01-14 | 2390 | 96 | 
 | 2023-01-13 | 2390 | 96 | 
-| 2023-01-12 | 2389 | 96 | 
 

@@ -1,8 +1,8 @@
 # JaiTrieTree/Kubernetes-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2 | 37 | 
 | 2023-02-10 | 2 | 36 | 
 | 2023-02-09 | 2 | 34 | 
 | 2023-02-08 | 2 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2 | 11 | 
 | 2023-01-14 | 2 | 11 | 
 | 2023-01-13 | 2 | 11 | 
-| 2023-01-12 | 2 | 11 | 
 

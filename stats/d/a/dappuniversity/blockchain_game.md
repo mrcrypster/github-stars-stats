@@ -1,10 +1,10 @@
 # dappuniversity/blockchain_game - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 133
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/dappuniversity/blockchain_game)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 103 | 133 | 
 | 2023-02-10 | 102 | 133 | 
 | 2023-02-09 | 102 | 133 | 
 | 2023-02-08 | 102 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 99 | 130 | 
 | 2023-01-14 | 99 | 130 | 
 | 2023-01-13 | 99 | 130 | 
-| 2023-01-12 | 99 | 130 | 
 

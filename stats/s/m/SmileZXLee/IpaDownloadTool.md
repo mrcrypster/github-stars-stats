@@ -1,10 +1,10 @@
 # SmileZXLee/IpaDownloadTool - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 55
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/SmileZXLee/IpaDownloadTool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 334 | 55 | 
 | 2023-02-10 | 333 | 55 | 
 | 2023-02-09 | 333 | 55 | 
 | 2023-02-08 | 334 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 326 | 54 | 
 | 2023-01-14 | 324 | 54 | 
 | 2023-01-13 | 323 | 54 | 
-| 2023-01-12 | 323 | 54 | 
 

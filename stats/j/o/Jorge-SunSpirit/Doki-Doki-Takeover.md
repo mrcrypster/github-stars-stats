@@ -1,6 +1,6 @@
 # Jorge-SunSpirit/Doki-Doki-Takeover - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 37 | 47 | 
 | 2023-02-10 | 37 | 47 | 
 | 2023-02-09 | 37 | 47 | 
 | 2023-02-08 | 37 | 47 | 

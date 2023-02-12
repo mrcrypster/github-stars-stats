@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 11
 
-☋ Forks: 17
+☋ Forks: 19
 
-★ Stars: 185
+★ Stars: 209
 
 [Open repository](https://github.com/dalinvip/Awesome-ChatGPT)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 185 | 17 | 
+| 2023-02-11 | 209 | 19 | 
 | 2023-02-10 | 185 | 17 | 
 

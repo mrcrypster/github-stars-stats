@@ -1,10 +1,10 @@
 # circlefin/evm-cctp-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/circlefin/evm-cctp-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 40 | 7 | 
 | 2023-02-10 | 39 | 7 | 
 | 2023-02-09 | 37 | 6 | 
 | 2023-02-08 | 37 | 6 | 

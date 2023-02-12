@@ -1,10 +1,10 @@
 # rlleshi/phar - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 15
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/rlleshi/phar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 122 | 15 | 
 | 2023-02-10 | 121 | 15 | 
 | 2023-02-08 | 121 | 15 | 
 | 2023-02-07 | 121 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 117 | 15 | 
 | 2023-01-14 | 117 | 15 | 
 | 2023-01-13 | 117 | 15 | 
-| 2023-01-12 | 116 | 15 | 
 

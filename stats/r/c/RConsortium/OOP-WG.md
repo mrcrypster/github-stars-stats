@@ -1,10 +1,10 @@
 # RConsortium/OOP-WG - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 26
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/RConsortium/OOP-WG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 201 | 26 | 
 | 2023-02-10 | 200 | 26 | 
 | 2023-02-09 | 200 | 26 | 
 | 2023-02-08 | 199 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 197 | 26 | 
 | 2023-01-15 | 197 | 26 | 
 | 2023-01-14 | 197 | 26 | 
-| 2023-01-13 | 197 | 25 | 
 

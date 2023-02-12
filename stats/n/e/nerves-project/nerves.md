@@ -1,10 +1,10 @@
 # nerves-project/nerves - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 164
+☋ Forks: 165
 
-★ Stars: 1973
+★ Stars: 1974
 
 [Open repository](https://github.com/nerves-project/nerves)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1974 | 165 | 
 | 2023-02-10 | 1973 | 164 | 
 | 2023-02-09 | 1972 | 164 | 
 | 2023-02-08 | 1972 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1959 | 164 | 
 | 2023-01-14 | 1959 | 164 | 
 | 2023-01-13 | 1958 | 164 | 
-| 2023-01-12 | 1957 | 164 | 
 

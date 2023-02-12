@@ -1,6 +1,6 @@
 # Azure1210/elegantbook-magic-revision - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 35 | 8 | 
 | 2023-02-10 | 35 | 8 | 
 | 2023-02-09 | 34 | 8 | 
 | 2023-02-07 | 33 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 31 | 8 | 
 | 2023-01-14 | 31 | 8 | 
 | 2023-01-13 | 31 | 8 | 
-| 2023-01-12 | 31 | 8 | 
 

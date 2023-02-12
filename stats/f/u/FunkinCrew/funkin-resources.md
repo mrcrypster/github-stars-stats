@@ -1,6 +1,6 @@
 # FunkinCrew/funkin-resources - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 86 | 41 | 
 | 2023-02-10 | 86 | 41 | 
 | 2023-02-09 | 85 | 41 | 
 | 2023-02-08 | 83 | 41 | 

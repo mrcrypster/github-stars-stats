@@ -1,10 +1,10 @@
 # sadanandpai/git-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 426
+★ Stars: 427
 
 [Open repository](https://github.com/sadanandpai/git-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 427 | 62 | 
 | 2023-02-10 | 426 | 61 | 
 | 2023-02-09 | 426 | 61 | 
 | 2023-02-08 | 426 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 424 | 60 | 
 | 2023-01-14 | 423 | 60 | 
 | 2023-01-13 | 423 | 60 | 
-| 2023-01-12 | 422 | 60 | 
 

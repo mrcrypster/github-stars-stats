@@ -1,10 +1,10 @@
 # ferd/recon - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 269
 
-★ Stars: 1255
+★ Stars: 1256
 
 [Open repository](https://github.com/ferd/recon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1256 | 269 | 
 | 2023-02-10 | 1255 | 269 | 
 | 2023-02-09 | 1254 | 269 | 
 | 2023-02-08 | 1253 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1253 | 268 | 
 | 2023-01-14 | 1253 | 268 | 
 | 2023-01-13 | 1253 | 268 | 
-| 2023-01-12 | 1251 | 268 | 
 

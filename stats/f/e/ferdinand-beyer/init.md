@@ -1,10 +1,10 @@
 # ferdinand-beyer/init - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/ferdinand-beyer/init)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 47 | - | 
 | 2023-02-10 | 46 | - | 
 | 2023-02-09 | 46 | - | 
 | 2023-02-08 | 46 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 44 | - | 
 | 2023-01-15 | 44 | - | 
 | 2023-01-14 | 44 | - | 
-| 2023-01-13 | 44 | - | 
 

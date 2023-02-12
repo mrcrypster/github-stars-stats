@@ -1,6 +1,6 @@
 # 0xJs/RedTeaming_CheatSheet - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 734 | 111 | 
 | 2023-02-10 | 734 | 111 | 
 | 2023-02-09 | 729 | 110 | 
 | 2023-02-08 | 729 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 699 | 106 | 
 | 2023-01-15 | 696 | 106 | 
 | 2023-01-14 | 694 | 105 | 
-| 2023-01-13 | 691 | 104 | 
 

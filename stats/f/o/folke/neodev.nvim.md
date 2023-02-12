@@ -1,10 +1,10 @@
 # folke/neodev.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 38
 
-★ Stars: 888
+★ Stars: 890
 
 [Open repository](https://github.com/folke/neodev.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 890 | 38 | 
 | 2023-02-10 | 888 | 38 | 
 | 2023-02-09 | 881 | 39 | 
 | 2023-02-08 | 878 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 779 | 32 | 
 | 2023-01-14 | 778 | 32 | 
 | 2023-01-13 | 777 | 32 | 
-| 2023-01-12 | 771 | 32 | 
 

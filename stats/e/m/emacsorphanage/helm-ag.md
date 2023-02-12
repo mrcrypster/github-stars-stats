@@ -1,6 +1,6 @@
 # emacsorphanage/helm-ag - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 471 | 78 | 
 | 2023-02-10 | 471 | 78 | 
 | 2023-02-09 | 471 | 77 | 
 | 2023-02-08 | 471 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 470 | 77 | 
 | 2023-01-14 | 470 | 77 | 
 | 2023-01-13 | 470 | 77 | 
-| 2023-01-12 | 470 | 77 | 
 

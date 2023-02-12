@@ -1,10 +1,10 @@
 # NielsRogge/Transformers-Tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 572
+☋ Forks: 574
 
-★ Stars: 3705
+★ Stars: 3710
 
 [Open repository](https://github.com/NielsRogge/Transformers-Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3710 | 574 | 
 | 2023-02-10 | 3705 | 572 | 
 | 2023-02-09 | 3697 | 571 | 
 | 2023-02-08 | 3687 | 571 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3561 | 539 | 
 | 2023-01-14 | 3558 | 539 | 
 | 2023-01-13 | 3556 | 539 | 
-| 2023-01-12 | 3551 | 538 | 
 

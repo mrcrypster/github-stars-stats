@@ -1,10 +1,10 @@
 # processone/fast_xml - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 45
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/processone/fast_xml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 122 | 45 | 
 | 2023-02-10 | 121 | 45 | 
 | 2023-02-09 | 121 | 45 | 
 | 2023-02-07 | 121 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 119 | 46 | 
 | 2023-01-14 | 119 | 46 | 
 | 2023-01-13 | 119 | 46 | 
-| 2023-01-12 | 119 | 46 | 
 

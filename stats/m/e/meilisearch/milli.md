@@ -1,10 +1,10 @@
 # meilisearch/milli - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 87
 
-★ Stars: 443
+★ Stars: 445
 
 [Open repository](https://github.com/meilisearch/milli)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 445 | 87 | 
 | 2023-02-10 | 443 | 87 | 
 | 2023-02-09 | 443 | 87 | 
 | 2023-02-08 | 443 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 443 | 89 | 
 | 2023-01-14 | 442 | 88 | 
 | 2023-01-13 | 440 | 88 | 
-| 2023-01-12 | 438 | 88 | 
 

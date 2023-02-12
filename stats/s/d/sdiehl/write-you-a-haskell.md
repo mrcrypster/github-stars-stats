@@ -1,6 +1,6 @@
 # sdiehl/write-you-a-haskell - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 253
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3217 | 253 | 
 | 2023-02-10 | 3217 | 253 | 
 | 2023-02-09 | 3216 | 253 | 
 | 2023-02-08 | 3217 | 253 | 

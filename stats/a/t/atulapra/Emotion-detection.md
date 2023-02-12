@@ -1,10 +1,10 @@
 # atulapra/Emotion-detection - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 394
 
-★ Stars: 872
+★ Stars: 873
 
 [Open repository](https://github.com/atulapra/Emotion-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 873 | 394 | 
 | 2023-02-10 | 872 | 394 | 
 | 2023-02-09 | 871 | 393 | 
 | 2023-02-08 | 869 | 393 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 866 | 386 | 
 | 2023-01-14 | 866 | 386 | 
 | 2023-01-13 | 866 | 386 | 
-| 2023-01-12 | 865 | 386 | 
 

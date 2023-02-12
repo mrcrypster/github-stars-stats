@@ -1,6 +1,6 @@
 # lunduniversity/webprog - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 8 | 17 | 
 | 2023-02-10 | 8 | 17 | 
 | 2023-02-09 | 8 | 17 | 
 | 2023-02-08 | 8 | 17 | 

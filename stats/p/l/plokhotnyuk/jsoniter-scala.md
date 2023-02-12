@@ -1,10 +1,10 @@
 # plokhotnyuk/jsoniter-scala - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 606
+★ Stars: 607
 
 [Open repository](https://github.com/plokhotnyuk/jsoniter-scala)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 607 | 74 | 
 | 2023-02-10 | 606 | 73 | 
 | 2023-02-09 | 606 | 73 | 
 | 2023-02-08 | 606 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 598 | 74 | 
 | 2023-01-14 | 594 | 74 | 
 | 2023-01-13 | 593 | 73 | 
-| 2023-01-12 | 592 | 73 | 
 

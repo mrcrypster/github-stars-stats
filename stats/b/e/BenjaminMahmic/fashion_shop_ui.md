@@ -1,6 +1,6 @@
 # BenjaminMahmic/fashion_shop_ui - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 114 | 37 | 
 | 2023-02-10 | 114 | 37 | 
 | 2023-02-09 | 114 | 37 | 
 | 2023-02-07 | 114 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 113 | 37 | 
 | 2023-01-14 | 113 | 37 | 
 | 2023-01-13 | 113 | 37 | 
-| 2023-01-12 | 113 | 37 | 
 

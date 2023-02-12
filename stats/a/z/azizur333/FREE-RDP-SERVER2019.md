@@ -1,10 +1,8 @@
 # azizur333/FREE-RDP-SERVER2019 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+☋ Forks: 
 
-☋ Forks: 68
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/azizur333/FREE-RDP-SERVER2019)
 
@@ -13,5 +11,4 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | - | 68 | 
 

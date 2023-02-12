@@ -1,10 +1,10 @@
 # emacscollective/auto-compile - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 16
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/emacscollective/auto-compile)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 148 | 16 | 
 | 2023-02-10 | 147 | 16 | 
 | 2023-02-09 | 147 | 16 | 
 | 2023-02-08 | 147 | 16 | 

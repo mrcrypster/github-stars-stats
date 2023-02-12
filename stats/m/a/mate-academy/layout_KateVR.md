@@ -1,6 +1,6 @@
 # mate-academy/layout_KateVR - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | - | 112 | 
 | 2023-02-10 | - | 112 | 
 | 2023-02-09 | - | 111 | 
 | 2023-02-08 | - | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | - | 107 | 
 | 2023-01-14 | - | 107 | 
 | 2023-01-13 | - | 107 | 
-| 2023-01-12 | - | 106 | 
 

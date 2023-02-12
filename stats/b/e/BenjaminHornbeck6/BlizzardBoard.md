@@ -1,6 +1,6 @@
 # BenjaminHornbeck6/BlizzardBoard - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 60 | 3 | 
 | 2023-02-10 | 60 | 3 | 
 | 2023-02-09 | 60 | 3 | 
 | 2023-02-08 | 60 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 58 | 3 | 
 | 2023-01-14 | 58 | 3 | 
 | 2023-01-13 | 58 | 3 | 
-| 2023-01-12 | 58 | 3 | 
 

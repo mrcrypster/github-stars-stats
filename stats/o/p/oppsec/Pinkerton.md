@@ -1,8 +1,8 @@
 # oppsec/Pinkerton - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 185
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 185 | 29 | 
 | 2023-02-10 | 185 | 28 | 
 | 2023-02-09 | 185 | 28 | 
 | 2023-02-08 | 185 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 184 | 28 | 
 | 2023-01-14 | 184 | 28 | 
 | 2023-01-13 | 184 | 28 | 
-| 2023-01-12 | 184 | 28 | 
 

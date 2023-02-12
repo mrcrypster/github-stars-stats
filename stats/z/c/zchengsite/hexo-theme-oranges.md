@@ -1,6 +1,6 @@
 # zchengsite/hexo-theme-oranges - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 314 | 54 | 
 | 2023-02-10 | 314 | 54 | 
 | 2023-02-09 | 314 | 54 | 
 | 2023-02-08 | 314 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 309 | 52 | 
 | 2023-01-15 | 307 | 52 | 
 | 2023-01-14 | 307 | 52 | 
-| 2023-01-12 | 307 | 52 | 
 

@@ -1,6 +1,6 @@
 # yugabyte/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 17 | 32 | 
 | 2023-02-10 | 17 | 32 | 
 | 2023-02-09 | 17 | 32 | 
 | 2023-02-07 | 17 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 17 | 32 | 
 | 2023-01-14 | 17 | 32 | 
 | 2023-01-13 | 17 | 32 | 
-| 2023-01-12 | 17 | 32 | 
 

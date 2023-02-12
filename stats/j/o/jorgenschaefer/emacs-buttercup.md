@@ -1,6 +1,6 @@
 # jorgenschaefer/emacs-buttercup - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 332 | 40 | 
 | 2023-02-10 | 332 | 40 | 
 | 2023-02-09 | 332 | 40 | 
 | 2023-02-08 | 332 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 328 | 40 | 
 | 2023-01-14 | 328 | 40 | 
 | 2023-01-13 | 327 | 40 | 
-| 2023-01-12 | 327 | 40 | 
 

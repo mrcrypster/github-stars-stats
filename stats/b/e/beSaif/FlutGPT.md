@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 11
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 43
+★ Stars: 46
 
 [Open repository](https://github.com/beSaif/FlutGPT)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 43 | 13 | 
+| 2023-02-11 | 46 | 14 | 
 | 2023-02-10 | 41 | 12 | 
 

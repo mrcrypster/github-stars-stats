@@ -1,10 +1,10 @@
 # Compile7/ResumeBuilder - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Compile7/ResumeBuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3 | 5 | 
 | 2023-02-10 | 2 | 5 | 
 | 2023-02-09 | 1 | 5 | 
 | 2023-02-08 | 1 | 5 | 

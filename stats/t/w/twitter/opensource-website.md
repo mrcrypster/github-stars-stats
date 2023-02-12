@@ -1,10 +1,10 @@
 # twitter/opensource-website - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 623
 
-★ Stars: 2010
+★ Stars: 2011
 
 [Open repository](https://github.com/twitter/opensource-website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2011 | 623 | 
 | 2023-02-10 | 2010 | 623 | 
 | 2023-02-08 | 2008 | 623 | 
 | 2023-02-07 | 2007 | 623 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1990 | 621 | 
 | 2023-01-14 | 1989 | 621 | 
 | 2023-01-13 | 1987 | 621 | 
-| 2023-01-12 | 1987 | 621 | 
 

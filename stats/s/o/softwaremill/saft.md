@@ -1,10 +1,10 @@
 # softwaremill/saft - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/softwaremill/saft)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 33 | 2 | 
 | 2023-02-10 | 32 | 1 | 
 | 2023-02-09 | 32 | 1 | 
 | 2023-02-08 | 32 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 32 | 1 | 
 | 2023-01-14 | 32 | 1 | 
 | 2023-01-13 | 32 | 1 | 
-| 2023-01-12 | 32 | 1 | 
 

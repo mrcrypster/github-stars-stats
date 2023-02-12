@@ -1,6 +1,6 @@
 # dgrbrady/nvim-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 101 | - | 
 | 2023-02-10 | 101 | - | 
 | 2023-02-09 | 101 | - | 
 | 2023-02-07 | 101 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 100 | - | 
 | 2023-01-14 | 99 | - | 
 | 2023-01-13 | 99 | - | 
-| 2023-01-12 | 99 | - | 
 

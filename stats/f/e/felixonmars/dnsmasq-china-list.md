@@ -1,10 +1,10 @@
 # felixonmars/dnsmasq-china-list - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 732
+☋ Forks: 735
 
-★ Stars: 4617
+★ Stars: 4618
 
 [Open repository](https://github.com/felixonmars/dnsmasq-china-list)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4618 | 735 | 
 | 2023-02-10 | 4617 | 732 | 
 | 2023-02-09 | 4615 | 732 | 
 | 2023-02-08 | 4611 | 732 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 4574 | 726 | 
 | 2023-01-14 | 4573 | 726 | 
 | 2023-01-13 | 4573 | 727 | 
-| 2023-01-12 | 4571 | 726 | 
 

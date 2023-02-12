@@ -1,10 +1,10 @@
 # fuhsjr00/bug.n - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 221
 
-★ Stars: 3125
+★ Stars: 3126
 
 [Open repository](https://github.com/fuhsjr00/bug.n)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3126 | 221 | 
 | 2023-02-10 | 3125 | 221 | 
 | 2023-02-09 | 3126 | 221 | 
 | 2023-02-08 | 3125 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3108 | 221 | 
 | 2023-01-14 | 3108 | 221 | 
 | 2023-01-13 | 3108 | 220 | 
-| 2023-01-12 | 3109 | 220 | 
 

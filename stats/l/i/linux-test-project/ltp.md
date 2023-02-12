@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 918
 
-★ Stars: 1965
+★ Stars: 1968
 
 [Open repository](https://github.com/linux-test-project/ltp)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 1965 | 918 | 
+| 2023-02-11 | 1968 | 918 | 
 | 2023-02-10 | 1965 | 918 | 
 | 2023-02-09 | 1964 | 918 | 
 | 2023-02-08 | 1961 | 917 | 

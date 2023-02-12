@@ -1,8 +1,8 @@
 # mikeroyal/AWS-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 46
+☋ Forks: 47
 
 ★ Stars: 233
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 233 | 47 | 
 | 2023-02-10 | 233 | 46 | 
 | 2023-02-09 | 233 | 46 | 
 | 2023-02-08 | 232 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 135 | 34 | 
 | 2023-01-14 | 135 | 34 | 
 | 2023-01-13 | 135 | 34 | 
-| 2023-01-12 | 135 | 34 | 
 

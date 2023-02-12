@@ -1,10 +1,10 @@
 # MichelNivard/gptstudio - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 31
 
-★ Stars: 273
+★ Stars: 277
 
 [Open repository](https://github.com/MichelNivard/gptstudio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 277 | 31 | 
 | 2023-02-10 | 273 | 31 | 
 | 2023-02-09 | 271 | 30 | 
 | 2023-02-08 | 268 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 228 | 18 | 
 | 2023-01-14 | 228 | 18 | 
 | 2023-01-13 | 228 | 18 | 
-| 2023-01-12 | 225 | 18 | 
 

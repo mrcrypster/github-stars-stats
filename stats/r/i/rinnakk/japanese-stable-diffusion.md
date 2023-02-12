@@ -1,6 +1,6 @@
 # rinnakk/japanese-stable-diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 258 | 12 | 
 | 2023-02-10 | 258 | 12 | 
 | 2023-02-09 | 258 | 12 | 
 | 2023-02-08 | 258 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 253 | 11 | 
 | 2023-01-14 | 253 | 11 | 
 | 2023-01-13 | 252 | 11 | 
-| 2023-01-12 | 252 | 11 | 
 

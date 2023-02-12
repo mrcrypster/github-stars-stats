@@ -1,6 +1,6 @@
 # openmultiplayer/server-beta - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 192 | 20 | 
 | 2023-02-10 | 192 | 20 | 
 | 2023-02-09 | 191 | 20 | 
 | 2023-02-08 | 190 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 151 | 17 | 
 | 2023-01-15 | 143 | 16 | 
 | 2023-01-14 | 136 | 17 | 
-| 2023-01-13 | 130 | 14 | 
 

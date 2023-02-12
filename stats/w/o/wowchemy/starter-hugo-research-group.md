@@ -1,10 +1,10 @@
 # wowchemy/starter-hugo-research-group - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 246
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/wowchemy/starter-hugo-research-group)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 171 | 246 | 
 | 2023-02-10 | 170 | 246 | 
 | 2023-02-09 | 170 | 246 | 
 | 2023-02-08 | 170 | 246 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 161 | 241 | 
 | 2023-01-14 | 161 | 241 | 
 | 2023-01-13 | 162 | 240 | 
-| 2023-01-12 | 162 | 240 | 
 

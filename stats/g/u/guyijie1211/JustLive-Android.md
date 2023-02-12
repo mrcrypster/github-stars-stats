@@ -1,10 +1,10 @@
 # guyijie1211/JustLive-Android - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 82
 
-★ Stars: 1005
+★ Stars: 1007
 
 [Open repository](https://github.com/guyijie1211/JustLive-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1007 | 82 | 
 | 2023-02-10 | 1005 | 82 | 
 | 2023-02-09 | 1005 | 82 | 
 | 2023-02-08 | 1004 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 969 | 77 | 
 | 2023-01-14 | 969 | 77 | 
 | 2023-01-13 | 968 | 76 | 
-| 2023-01-12 | 967 | 76 | 
 

@@ -1,10 +1,10 @@
 # alp1x/um-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 35
+★ Stars: 34
 
 [Open repository](https://github.com/alp1x/um-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 34 | 12 | 
 | 2023-02-10 | 35 | 12 | 
 | 2023-02-09 | 35 | 12 | 
 | 2023-02-08 | 34 | 11 | 

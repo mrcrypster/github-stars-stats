@@ -1,6 +1,6 @@
 # jeremyevans/sequel - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1071
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4727 | 1071 | 
 | 2023-02-10 | 4727 | 1071 | 
 | 2023-02-09 | 4727 | 1070 | 
 | 2023-02-08 | 4726 | 1070 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 4717 | 1070 | 
 | 2023-01-14 | 4718 | 1070 | 
 | 2023-01-13 | 4717 | 1070 | 
-| 2023-01-12 | 4717 | 1068 | 
 

@@ -1,10 +1,10 @@
 # Suprcode/mir-eternal - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/Suprcode/mir-eternal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 133 | 104 | 
 | 2023-02-10 | 132 | 103 | 
 | 2023-02-09 | 132 | 103 | 
 | 2023-02-08 | 132 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 129 | 100 | 
 | 2023-01-14 | 129 | 101 | 
 | 2023-01-13 | 128 | 101 | 
-| 2023-01-12 | 128 | 101 | 
 

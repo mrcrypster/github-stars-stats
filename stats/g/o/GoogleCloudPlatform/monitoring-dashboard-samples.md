@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/monitoring-dashboard-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 326 | 228 | 
 | 2023-02-10 | 326 | 228 | 
 | 2023-02-09 | 326 | 228 | 
 | 2023-02-08 | 325 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 319 | 224 | 
 | 2023-01-14 | 319 | 223 | 
 | 2023-01-13 | 319 | 223 | 
-| 2023-01-12 | 319 | 222 | 
 

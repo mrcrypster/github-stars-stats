@@ -1,8 +1,8 @@
 # redhat-developer/helm-backstage - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 41 | 15 | 
 | 2023-02-10 | 41 | 14 | 
 | 2023-02-09 | 41 | 14 | 
 | 2023-02-08 | 41 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 38 | 13 | 
 | 2023-01-14 | 39 | 13 | 
 | 2023-01-13 | 39 | 13 | 
-| 2023-01-12 | 38 | 12 | 
 

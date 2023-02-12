@@ -1,10 +1,10 @@
 # Roll20/roll20-character-sheets - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 3933
 
-★ Stars: 1080
+★ Stars: 1081
 
 [Open repository](https://github.com/Roll20/roll20-character-sheets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1081 | 3933 | 
 | 2023-02-10 | 1080 | 3933 | 
 | 2023-02-09 | 1080 | 3933 | 
 | 2023-02-08 | 1080 | 3933 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1074 | 3904 | 
 | 2023-01-14 | 1074 | 3904 | 
 | 2023-01-13 | 1074 | 3905 | 
-| 2023-01-12 | 1074 | 3905 | 
 

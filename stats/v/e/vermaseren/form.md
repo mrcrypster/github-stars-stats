@@ -1,6 +1,6 @@
 # vermaseren/form - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 395 | 41 | 
 | 2023-02-10 | 395 | 41 | 
 | 2023-02-09 | 395 | 41 | 
 | 2023-02-08 | 394 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 386 | 40 | 
 | 2023-01-14 | 386 | 40 | 
 | 2023-01-13 | 385 | 40 | 
-| 2023-01-12 | 384 | 40 | 
 

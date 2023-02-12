@@ -1,10 +1,10 @@
 # beerandcodeteam/olw-iac - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/beerandcodeteam/olw-iac)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3 | 8 | 
 | 2023-02-10 | 2 | 8 | 
 | 2023-02-09 | 2 | 8 | 
 | 2023-02-08 | 2 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2 | 8 | 
 | 2023-01-14 | 2 | 8 | 
 | 2023-01-13 | 2 | 8 | 
-| 2023-01-12 | 2 | 8 | 
 

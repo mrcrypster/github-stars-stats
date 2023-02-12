@@ -1,10 +1,10 @@
 # awslabs/aws-sdk-rust - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 173
 
-★ Stars: 2080
+★ Stars: 2085
 
 [Open repository](https://github.com/awslabs/aws-sdk-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2085 | 173 | 
 | 2023-02-10 | 2080 | 173 | 
 | 2023-02-09 | 2080 | 173 | 
 | 2023-02-08 | 2078 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2035 | 169 | 
 | 2023-01-14 | 2031 | 169 | 
 | 2023-01-13 | 2031 | 169 | 
-| 2023-01-12 | 2028 | 169 | 
 

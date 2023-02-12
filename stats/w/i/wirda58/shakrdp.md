@@ -1,6 +1,6 @@
 # wirda58/shakrdp - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | - | 143 | 
 | 2023-02-10 | - | 143 | 
 | 2023-02-08 | - | 142 | 
 | 2023-02-07 | - | 140 | 

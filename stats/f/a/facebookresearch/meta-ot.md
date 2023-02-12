@@ -1,6 +1,6 @@
 # facebookresearch/meta-ot - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 82 | 5 | 
 | 2023-02-10 | 82 | 5 | 
 | 2023-02-08 | 82 | 5 | 
 | 2023-02-07 | 82 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 83 | 5 | 
 | 2023-01-14 | 83 | 5 | 
 | 2023-01-13 | 83 | 5 | 
-| 2023-01-12 | 83 | 5 | 
 

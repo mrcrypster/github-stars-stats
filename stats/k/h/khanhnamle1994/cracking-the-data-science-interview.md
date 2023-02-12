@@ -1,10 +1,10 @@
 # khanhnamle1994/cracking-the-data-science-interview - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 774
+☋ Forks: 776
 
-★ Stars: 2587
+★ Stars: 2590
 
 [Open repository](https://github.com/khanhnamle1994/cracking-the-data-science-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2590 | 776 | 
 | 2023-02-10 | 2587 | 774 | 
 | 2023-02-09 | 2583 | 774 | 
 | 2023-02-08 | 2581 | 774 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 2508 | 765 | 
 | 2023-01-15 | 2502 | 765 | 
 | 2023-01-14 | 2500 | 765 | 
-| 2023-01-12 | 2500 | 762 | 
 

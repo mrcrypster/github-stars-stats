@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 80
 
-★ Stars: 501
+★ Stars: 517
 
 [Open repository](https://github.com/huajian-pro/resume-design)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 501 | 80 | 
+| 2023-02-11 | 517 | 80 | 
 | 2023-02-10 | 501 | 80 | 
 | 2023-02-09 | 426 | 73 | 
 | 2023-02-08 | 413 | 72 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 382 | 68 | 
 | 2023-01-14 | 382 | 68 | 
 | 2023-01-13 | 377 | 68 | 
-| 2023-01-12 | 376 | 67 | 
 

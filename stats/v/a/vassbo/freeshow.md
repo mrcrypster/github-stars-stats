@@ -1,10 +1,10 @@
 # vassbo/freeshow - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/vassbo/freeshow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 191 | 18 | 
 | 2023-02-10 | 190 | 18 | 
 | 2023-02-09 | 190 | 18 | 
 | 2023-02-08 | 190 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 187 | 17 | 
 | 2023-01-14 | 187 | 17 | 
 | 2023-01-13 | 187 | 17 | 
-| 2023-01-12 | 187 | 17 | 
 

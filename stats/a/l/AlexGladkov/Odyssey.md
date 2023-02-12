@@ -1,6 +1,6 @@
 # AlexGladkov/Odyssey - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 187 | 15 | 
 | 2023-02-10 | 187 | 15 | 
 | 2023-02-09 | 187 | 15 | 
 | 2023-02-07 | 185 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 169 | 12 | 
 | 2023-01-14 | 169 | 12 | 
 | 2023-01-13 | 169 | 12 | 
-| 2023-01-12 | 168 | 12 | 
 

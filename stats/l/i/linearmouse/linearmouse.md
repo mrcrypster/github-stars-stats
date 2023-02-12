@@ -1,10 +1,10 @@
 # linearmouse/linearmouse - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 26
 
-★ Stars: 1753
+★ Stars: 1756
 
 [Open repository](https://github.com/linearmouse/linearmouse)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1756 | 26 | 
 | 2023-02-10 | 1753 | 26 | 
 | 2023-02-08 | 1751 | 26 | 
 | 2023-02-07 | 1751 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 1669 | 23 | 
 | 2023-01-15 | 1664 | 23 | 
 | 2023-01-14 | 1662 | 23 | 
-| 2023-01-13 | 1660 | 23 | 
 

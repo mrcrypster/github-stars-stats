@@ -1,6 +1,6 @@
 # GDQuest/godot-platformer-2d - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 506 | 54 | 
 | 2023-02-10 | 506 | 54 | 
 | 2023-02-09 | 506 | 54 | 
 | 2023-02-08 | 506 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 502 | 53 | 
 | 2023-01-14 | 502 | 53 | 
 | 2023-01-13 | 502 | 53 | 
-| 2023-01-12 | 502 | 53 | 
 

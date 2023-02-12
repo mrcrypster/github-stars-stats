@@ -1,10 +1,10 @@
 # microsoft/fast-blazor - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 1147
+★ Stars: 1154
 
 [Open repository](https://github.com/microsoft/fast-blazor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1154 | 103 | 
 | 2023-02-10 | 1147 | 102 | 
 | 2023-02-09 | 1134 | 101 | 
 | 2023-02-08 | 1132 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1106 | 96 | 
 | 2023-01-14 | 1106 | 96 | 
 | 2023-01-13 | 1104 | 96 | 
-| 2023-01-12 | 1102 | 96 | 
 

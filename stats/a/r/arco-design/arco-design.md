@@ -1,10 +1,10 @@
 # arco-design/arco-design - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 462
 
-★ Stars: 3709
+★ Stars: 3710
 
 [Open repository](https://github.com/arco-design/arco-design)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3710 | 462 | 
 | 2023-02-10 | 3709 | 462 | 
 | 2023-02-09 | 3707 | 462 | 
 | 2023-02-08 | 3706 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3681 | 453 | 
 | 2023-01-14 | 3679 | 453 | 
 | 2023-01-13 | 3679 | 453 | 
-| 2023-01-12 | 3677 | 453 | 
 

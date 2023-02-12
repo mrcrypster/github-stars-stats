@@ -1,10 +1,10 @@
 # chandrikadeb7/Face-Mask-Detection - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 795
+☋ Forks: 796
 
-★ Stars: 1399
+★ Stars: 1401
 
 [Open repository](https://github.com/chandrikadeb7/Face-Mask-Detection)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1401 | 796 | 
 | 2023-02-10 | 1399 | 795 | 
 | 2023-02-09 | 1399 | 795 | 
 | 2023-02-07 | 1399 | 795 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1392 | 792 | 
 | 2023-01-14 | 1391 | 792 | 
 | 2023-01-13 | 1391 | 791 | 
-| 2023-01-12 | 1390 | 791 | 
 

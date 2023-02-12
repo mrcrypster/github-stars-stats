@@ -1,6 +1,6 @@
 # sqlkata/querybuilder - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 439
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2598 | 439 | 
 | 2023-02-10 | 2598 | 439 | 
 | 2023-02-09 | 2596 | 439 | 
 | 2023-02-08 | 2592 | 439 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2564 | 436 | 
 | 2023-01-14 | 2564 | 436 | 
 | 2023-01-13 | 2562 | 435 | 
-| 2023-01-12 | 2559 | 435 | 
 

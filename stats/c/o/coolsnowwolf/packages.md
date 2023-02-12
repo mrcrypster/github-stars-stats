@@ -1,6 +1,6 @@
 # coolsnowwolf/packages - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 455
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 134 | 455 | 
+| 2023-02-11 | 134 | 455 | 
 | 2023-02-10 | 134 | 455 | 
 | 2023-02-09 | 134 | 453 | 
 | 2023-02-08 | 134 | 454 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 134 | 446 | 
 | 2023-01-14 | 134 | 446 | 
 | 2023-01-13 | 134 | 446 | 
-| 2023-01-12 | 134 | 445 | 
 

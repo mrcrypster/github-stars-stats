@@ -1,10 +1,10 @@
 # facebookincubator/AITemplate - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 215
 
-★ Stars: 2912
+★ Stars: 2914
 
 [Open repository](https://github.com/facebookincubator/AITemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2914 | 215 | 
 | 2023-02-10 | 2912 | 215 | 
 | 2023-02-09 | 2910 | 214 | 
 | 2023-02-08 | 2909 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2844 | 194 | 
 | 2023-01-14 | 2842 | 194 | 
 | 2023-01-13 | 2842 | 195 | 
-| 2023-01-12 | 2837 | 195 | 
 

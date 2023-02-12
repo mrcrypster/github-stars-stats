@@ -1,8 +1,8 @@
 # smarty-php/smarty - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 685
+☋ Forks: 686
 
 ★ Stars: 2071
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2071 | 686 | 
 | 2023-02-10 | 2071 | 685 | 
 | 2023-02-09 | 2071 | 684 | 
 | 2023-02-08 | 2072 | 683 | 

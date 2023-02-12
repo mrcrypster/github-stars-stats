@@ -1,6 +1,6 @@
 # voxpupuli/puppet-mrepo - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 17 | 46 | 
 | 2023-02-10 | 17 | 46 | 
 | 2023-02-09 | 17 | 46 | 
 | 2023-02-08 | 17 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 17 | 46 | 
 | 2023-01-14 | 17 | 46 | 
 | 2023-01-13 | 17 | 46 | 
-| 2023-01-12 | 17 | 46 | 
 

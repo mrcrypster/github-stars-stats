@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/Nectres/animos)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 122 | 12 | 
+| 2023-02-11 | 123 | 12 | 
 | 2023-02-10 | 122 | 12 | 
 | 2023-02-09 | 118 | 12 | 
 | 2023-02-08 | 115 | 12 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 94 | 11 | 
 | 2023-01-14 | 92 | 11 | 
 | 2023-01-13 | 92 | 11 | 
-| 2023-01-12 | 91 | 11 | 
 

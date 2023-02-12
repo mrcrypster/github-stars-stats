@@ -1,10 +1,10 @@
 # R3nzTheCodeGOD/R3nzSkin - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 171
 
-★ Stars: 911
+★ Stars: 935
 
 [Open repository](https://github.com/R3nzTheCodeGOD/R3nzSkin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 935 | 171 | 
 | 2023-02-10 | 911 | 171 | 
 | 2023-02-09 | 867 | 162 | 
 | 2023-02-08 | 853 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 683 | 132 | 
 | 2023-01-14 | 672 | 131 | 
 | 2023-01-13 | 668 | 131 | 
-| 2023-01-12 | 644 | 131 | 
 

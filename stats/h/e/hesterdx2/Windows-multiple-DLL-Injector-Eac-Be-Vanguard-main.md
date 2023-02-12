@@ -1,6 +1,6 @@
 # hesterdx2/Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 61 | 30 | 
 | 2023-02-10 | 61 | 30 | 
 | 2023-02-09 | 61 | 30 | 
 | 2023-02-08 | 61 | 30 | 

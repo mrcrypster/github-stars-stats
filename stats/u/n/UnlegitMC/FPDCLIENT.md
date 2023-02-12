@@ -1,6 +1,6 @@
 # UnlegitMC/FPDCLIENT - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 69 | 83 | 
 | 2023-02-10 | 69 | 83 | 
 | 2023-02-09 | 69 | 83 | 
 | 2023-02-08 | 69 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 69 | 82 | 
 | 2023-01-14 | 69 | 82 | 
 | 2023-01-13 | 69 | 82 | 
-| 2023-01-12 | 69 | 82 | 
 

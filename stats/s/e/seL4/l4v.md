@@ -1,6 +1,6 @@
 # seL4/l4v - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 445 | 90 | 
 | 2023-02-10 | 445 | 90 | 
 | 2023-02-09 | 445 | 90 | 
 | 2023-02-07 | 445 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 442 | 90 | 
 | 2023-01-14 | 442 | 90 | 
 | 2023-01-13 | 442 | 90 | 
-| 2023-01-12 | 442 | 90 | 
 

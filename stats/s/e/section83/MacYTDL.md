@@ -1,10 +1,10 @@
 # section83/MacYTDL - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 12
 
-★ Stars: 261
+★ Stars: 262
 
 [Open repository](https://github.com/section83/MacYTDL)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 262 | 12 | 
 | 2023-02-10 | 261 | 12 | 
 | 2023-02-09 | 261 | 12 | 
 | 2023-02-08 | 260 | 12 | 

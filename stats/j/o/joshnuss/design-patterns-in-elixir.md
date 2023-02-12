@@ -1,10 +1,10 @@
 # joshnuss/design-patterns-in-elixir - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 46
 
-★ Stars: 570
+★ Stars: 571
 
 [Open repository](https://github.com/joshnuss/design-patterns-in-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 571 | 46 | 
 | 2023-02-10 | 570 | 46 | 
 | 2023-02-09 | 569 | 45 | 
 | 2023-02-07 | 569 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 565 | 45 | 
 | 2023-01-14 | 566 | 45 | 
 | 2023-01-13 | 566 | 45 | 
-| 2023-01-12 | 566 | 45 | 
 

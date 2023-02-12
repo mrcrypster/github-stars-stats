@@ -1,10 +1,10 @@
 # snowplow/snowplow - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1208
 
-★ Stars: 6338
+★ Stars: 6339
 
 [Open repository](https://github.com/snowplow/snowplow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 6339 | 1208 | 
 | 2023-02-10 | 6338 | 1208 | 
 | 2023-02-08 | 6334 | 1209 | 
 | 2023-02-07 | 6332 | 1208 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 6306 | 1206 | 
 | 2023-01-14 | 6306 | 1206 | 
 | 2023-01-13 | 6305 | 1204 | 
-| 2023-01-12 | 6305 | 1204 | 
 

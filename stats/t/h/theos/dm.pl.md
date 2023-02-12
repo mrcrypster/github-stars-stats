@@ -1,6 +1,6 @@
 # theos/dm.pl - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 38 | 22 | 
 | 2023-02-10 | 38 | 22 | 
 | 2023-02-09 | 38 | 22 | 
 | 2023-02-08 | 38 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 38 | 22 | 
 | 2023-01-15 | 38 | 22 | 
 | 2023-01-14 | 38 | 22 | 
-| 2023-01-13 | 38 | 22 | 
 

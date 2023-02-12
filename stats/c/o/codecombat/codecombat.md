@@ -1,8 +1,8 @@
 # codecombat/codecombat - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 4045
+☋ Forks: 4046
 
 ★ Stars: 7722
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 7722 | 4046 | 
 | 2023-02-10 | 7722 | 4045 | 
 | 2023-02-09 | 7722 | 4045 | 
 | 2023-02-08 | 7721 | 4044 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 7702 | 4041 | 
 | 2023-01-14 | 7700 | 4039 | 
 | 2023-01-13 | 7700 | 4040 | 
-| 2023-01-12 | 7698 | 4040 | 
 

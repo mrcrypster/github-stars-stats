@@ -1,10 +1,10 @@
 # ToniRV/NeRF-SLAM - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 59
+☋ Forks: 61
 
-★ Stars: 507
+★ Stars: 508
 
 [Open repository](https://github.com/ToniRV/NeRF-SLAM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 508 | 61 | 
 | 2023-02-10 | 507 | 59 | 
 | 2023-02-09 | 506 | 59 | 
 | 2023-02-08 | 501 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 428 | 44 | 
 | 2023-01-14 | 422 | 41 | 
 | 2023-01-13 | 415 | 40 | 
-| 2023-01-12 | 403 | 40 | 
 

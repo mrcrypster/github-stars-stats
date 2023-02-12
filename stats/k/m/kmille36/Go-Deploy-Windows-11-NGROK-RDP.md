@@ -1,8 +1,8 @@
 # kmille36/Go-Deploy-Windows-11-NGROK-RDP - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 237
+☋ Forks: 239
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 17 | 239 | 
 | 2023-02-10 | 17 | 237 | 
 | 2023-02-09 | 17 | 237 | 
 | 2023-02-08 | 17 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 17 | 171 | 
 | 2023-01-14 | 17 | 168 | 
 | 2023-01-13 | 17 | 165 | 
-| 2023-01-12 | 17 | 160 | 
 

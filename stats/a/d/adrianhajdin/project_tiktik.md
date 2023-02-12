@@ -1,10 +1,10 @@
 # adrianhajdin/project_tiktik - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 133
 
-★ Stars: 480
+★ Stars: 481
 
 [Open repository](https://github.com/adrianhajdin/project_tiktik)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 481 | 133 | 
 | 2023-02-10 | 480 | 133 | 
 | 2023-02-09 | 479 | 133 | 
 | 2023-02-08 | 479 | 133 | 

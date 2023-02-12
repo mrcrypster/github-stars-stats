@@ -1,6 +1,6 @@
 # spinnaker/spinnaker - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1186
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 8802 | 1186 | 
 | 2023-02-10 | 8802 | 1186 | 
 | 2023-02-09 | 8800 | 1186 | 
 | 2023-02-08 | 8801 | 1186 | 

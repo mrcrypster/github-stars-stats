@@ -1,6 +1,6 @@
 # pichillilorenzo/flutter_inappwebview - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1009
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2387 | 1009 | 
 | 2023-02-10 | 2387 | 1009 | 
 | 2023-02-09 | 2385 | 1006 | 
 | 2023-02-08 | 2384 | 1005 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2343 | 995 | 
 | 2023-01-14 | 2344 | 995 | 
 | 2023-01-13 | 2342 | 995 | 
-| 2023-01-12 | 2342 | 995 | 
 

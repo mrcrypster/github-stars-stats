@@ -1,6 +1,6 @@
 # gruntwork-io/terraform-kubernetes-namespace - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 15 | 26 | 
 | 2023-02-10 | 15 | 26 | 
 | 2023-02-09 | 15 | 26 | 
 | 2023-02-07 | 15 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 15 | 24 | 
 | 2023-01-14 | 15 | 24 | 
 | 2023-01-13 | 15 | 24 | 
-| 2023-01-12 | 15 | 24 | 
 

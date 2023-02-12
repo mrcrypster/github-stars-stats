@@ -1,10 +1,10 @@
 # MVIG-SJTU/AlphaPose - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1827
 
-★ Stars: 6777
+★ Stars: 6778
 
 [Open repository](https://github.com/MVIG-SJTU/AlphaPose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 6778 | 1827 | 
 | 2023-02-10 | 6777 | 1827 | 
 | 2023-02-08 | 6774 | 1824 | 
 | 2023-02-07 | 6772 | 1823 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 6729 | 1820 | 
 | 2023-01-14 | 6729 | 1820 | 
 | 2023-01-13 | 6729 | 1821 | 
-| 2023-01-12 | 6728 | 1821 | 
 

@@ -1,10 +1,10 @@
 # burntcarrot/notifiex - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 3
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/burntcarrot/notifiex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 53 | 3 | 
 | 2023-02-10 | 52 | 3 | 
 | 2023-02-09 | 52 | 3 | 
 | 2023-02-08 | 52 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 51 | 3 | 
 | 2023-01-14 | 51 | 3 | 
 | 2023-01-13 | 51 | 3 | 
-| 2023-01-12 | 51 | 3 | 
 

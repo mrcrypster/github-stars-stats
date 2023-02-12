@@ -1,10 +1,10 @@
 # second-state/microservice-rust-mysql - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 24
 
-★ Stars: 213
+★ Stars: 215
 
 [Open repository](https://github.com/second-state/microservice-rust-mysql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 215 | 24 | 
 | 2023-02-10 | 213 | 24 | 
 | 2023-02-09 | 213 | 24 | 
 | 2023-02-08 | 213 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 192 | 24 | 
 | 2023-01-14 | 192 | 24 | 
 | 2023-01-13 | 190 | 24 | 
-| 2023-01-12 | 190 | 24 | 
 

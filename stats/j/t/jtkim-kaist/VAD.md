@@ -1,10 +1,10 @@
 # jtkim-kaist/VAD - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 225
 
-★ Stars: 760
+★ Stars: 761
 
 [Open repository](https://github.com/jtkim-kaist/VAD)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 761 | 225 | 
 | 2023-02-10 | 760 | 225 | 
 | 2023-02-09 | 760 | 225 | 
 | 2023-02-07 | 758 | 224 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 756 | 223 | 
 | 2023-01-14 | 756 | 223 | 
 | 2023-01-13 | 756 | 223 | 
-| 2023-01-12 | 756 | 223 | 
 

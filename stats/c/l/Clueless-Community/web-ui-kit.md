@@ -1,10 +1,10 @@
 # Clueless-Community/web-ui-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 204
+☋ Forks: 208
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/Clueless-Community/web-ui-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 209 | 208 | 
 | 2023-02-10 | 208 | 204 | 
 | 2023-02-09 | 205 | 202 | 
 | 2023-02-08 | 203 | 201 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 188 | 183 | 
 | 2023-01-15 | 187 | 184 | 
 | 2023-01-14 | 188 | 183 | 
-| 2023-01-13 | 188 | 183 | 
 

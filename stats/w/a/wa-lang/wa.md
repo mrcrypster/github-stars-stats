@@ -1,10 +1,10 @@
 # wa-lang/wa - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/wa-lang/wa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 559 | 33 | 
 | 2023-02-10 | 558 | 33 | 
 | 2023-02-09 | 558 | 33 | 
 | 2023-02-08 | 557 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 545 | 30 | 
 | 2023-01-14 | 545 | 30 | 
 | 2023-01-13 | 545 | 30 | 
-| 2023-01-12 | 545 | 30 | 
 

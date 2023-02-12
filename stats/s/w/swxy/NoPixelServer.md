@@ -1,10 +1,10 @@
 # swxy/NoPixelServer - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 769
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/swxy/NoPixelServer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 259 | 769 | 
 | 2023-02-10 | 258 | 769 | 
 | 2023-02-09 | 258 | 767 | 
 | 2023-02-08 | 258 | 766 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 256 | 760 | 
 | 2023-01-14 | 256 | 760 | 
 | 2023-01-13 | 256 | 760 | 
-| 2023-01-12 | 257 | 760 | 
 

@@ -1,6 +1,6 @@
 # nolanlawson/fuite - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3417 | 59 | 
 | 2023-02-11 | 3417 | 59 | 
 | 2023-02-09 | 3417 | 59 | 
 | 2023-02-08 | 3418 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 3413 | 58 | 
 | 2023-01-14 | 3412 | 58 | 
 | 2023-01-13 | 3412 | 58 | 
-| 2023-01-12 | 3413 | 58 | 
 

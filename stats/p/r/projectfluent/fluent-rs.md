@@ -1,6 +1,6 @@
 # projectfluent/fluent-rs - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 779 | 76 | 
 | 2023-02-10 | 779 | 76 | 
 | 2023-02-09 | 779 | 76 | 
 | 2023-02-08 | 779 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 755 | 74 | 
 | 2023-01-14 | 755 | 74 | 
 | 2023-01-13 | 755 | 74 | 
-| 2023-01-12 | 754 | 74 | 
 

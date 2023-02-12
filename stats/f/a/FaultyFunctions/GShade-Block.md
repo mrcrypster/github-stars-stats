@@ -1,10 +1,10 @@
 # FaultyFunctions/GShade-Block - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/FaultyFunctions/GShade-Block)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 8 | - | 
 | 2023-02-10 | 7 | - | 
 | 2023-02-09 | 7 | - | 
 | 2023-02-08 | 7 | - | 

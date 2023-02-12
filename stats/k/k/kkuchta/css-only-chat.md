@@ -1,6 +1,6 @@
 # kkuchta/css-only-chat - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 271
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 5934 | 271 | 
 | 2023-02-10 | 5934 | 271 | 
 | 2023-02-09 | 5931 | 271 | 
 | 2023-02-08 | 5932 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 5925 | 271 | 
 | 2023-01-15 | 5926 | 271 | 
 | 2023-01-14 | 5923 | 271 | 
-| 2023-01-13 | 5923 | 271 | 
 

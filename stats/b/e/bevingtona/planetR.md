@@ -1,6 +1,6 @@
 # bevingtona/planetR - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 40 | 11 | 
 | 2023-02-10 | 40 | 11 | 
 | 2023-02-09 | 40 | 11 | 
 | 2023-02-08 | 40 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 39 | 11 | 
 | 2023-01-14 | 39 | 11 | 
 | 2023-01-13 | 39 | 11 | 
-| 2023-01-12 | 39 | 11 | 
 

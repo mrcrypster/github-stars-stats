@@ -1,10 +1,10 @@
 # bitwarden/server - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1004
+☋ Forks: 1007
 
-★ Stars: 11906
+★ Stars: 11916
 
 [Open repository](https://github.com/bitwarden/server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 11916 | 1007 | 
 | 2023-02-10 | 11906 | 1004 | 
 | 2023-02-09 | 11898 | 1005 | 
 | 2023-02-08 | 11891 | 1004 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 11690 | 981 | 
 | 2023-01-14 | 11685 | 980 | 
 | 2023-01-13 | 11677 | 979 | 
-| 2023-01-12 | 11669 | 977 | 
 

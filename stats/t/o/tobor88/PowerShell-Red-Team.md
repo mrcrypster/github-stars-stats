@@ -1,10 +1,10 @@
 # tobor88/PowerShell-Red-Team - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 75
 
-★ Stars: 356
+★ Stars: 357
 
 [Open repository](https://github.com/tobor88/PowerShell-Red-Team)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 357 | 75 | 
 | 2023-02-10 | 356 | 75 | 
 | 2023-02-09 | 355 | 75 | 
 | 2023-02-08 | 353 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 344 | 74 | 
 | 2023-01-14 | 343 | 74 | 
 | 2023-01-13 | 341 | 74 | 
-| 2023-01-12 | 340 | 74 | 
 

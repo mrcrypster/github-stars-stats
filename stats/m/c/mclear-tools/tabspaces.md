@@ -1,0 +1,17 @@
+# mclear-tools/tabspaces - stars & forks statistics
+
+Stats updated on Feb 2023, 11
+
+☋ Forks: 5
+
+★ Stars: 98
+
+[Open repository](https://github.com/mclear-tools/tabspaces)
+
+[Open detailed stats for mclear-tools/tabspaces](https://reviewgithub.com/rep/mclear-tools/tabspaces)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-11 | 98 | 5 | 
+

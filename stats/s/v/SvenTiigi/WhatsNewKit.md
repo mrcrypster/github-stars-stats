@@ -1,10 +1,10 @@
 # SvenTiigi/WhatsNewKit - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 148
 
-★ Stars: 2894
+★ Stars: 2895
 
 [Open repository](https://github.com/SvenTiigi/WhatsNewKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2895 | 148 | 
 | 2023-02-10 | 2894 | 148 | 
 | 2023-02-09 | 2893 | 148 | 
 | 2023-02-08 | 2893 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2865 | 147 | 
 | 2023-01-14 | 2863 | 147 | 
 | 2023-01-13 | 2861 | 146 | 
-| 2023-01-12 | 2860 | 146 | 
 

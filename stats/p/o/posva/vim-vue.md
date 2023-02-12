@@ -1,10 +1,10 @@
 # posva/vim-vue - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 110
 
-★ Stars: 1286
+★ Stars: 1285
 
 [Open repository](https://github.com/posva/vim-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1285 | 110 | 
 | 2023-02-10 | 1286 | 110 | 
 | 2023-02-09 | 1286 | 110 | 
 | 2023-02-08 | 1286 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1285 | 111 | 
 | 2023-01-14 | 1285 | 111 | 
 | 2023-01-13 | 1285 | 111 | 
-| 2023-01-12 | 1285 | 111 | 
 

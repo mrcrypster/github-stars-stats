@@ -1,10 +1,10 @@
 # lambdaworks/zio-elasticsearch - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/lambdaworks/zio-elasticsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 38 | 4 | 
 | 2023-02-10 | 37 | 4 | 
 | 2023-02-09 | 36 | 4 | 
 | 2023-02-08 | 35 | 4 | 

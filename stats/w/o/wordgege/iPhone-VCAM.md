@@ -1,6 +1,6 @@
 # wordgege/iPhone-VCAM - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 35 | 28 | 
 | 2023-02-10 | 35 | 28 | 
 | 2023-02-09 | 35 | 28 | 
 | 2023-02-08 | 35 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 34 | 26 | 
 | 2023-01-14 | 34 | 26 | 
 | 2023-01-13 | 34 | 26 | 
-| 2023-01-12 | 33 | 25 | 
 

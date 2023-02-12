@@ -1,10 +1,10 @@
 # rootpencariilmu/Redlinestealer2020 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 38
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/rootpencariilmu/Redlinestealer2020)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 75 | 38 | 
 | 2023-02-10 | 74 | 38 | 
 | 2023-02-09 | 74 | 38 | 
 | 2023-02-08 | 73 | 38 | 

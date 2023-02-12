@@ -1,6 +1,6 @@
 # mcaceresb/stata-honestdid - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 36 | 7 | 
 | 2023-02-11 | 36 | 7 | 
 | 2023-02-09 | 36 | 7 | 
 | 2023-02-08 | 36 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 34 | 6 | 
 | 2023-01-14 | 34 | 6 | 
 | 2023-01-13 | 34 | 6 | 
-| 2023-01-12 | 34 | 6 | 
 

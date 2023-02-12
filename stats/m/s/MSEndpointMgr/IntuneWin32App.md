@@ -1,10 +1,10 @@
 # MSEndpointMgr/IntuneWin32App - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 44
 
-★ Stars: 165
+★ Stars: 168
 
 [Open repository](https://github.com/MSEndpointMgr/IntuneWin32App)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 168 | 44 | 
 | 2023-02-10 | 165 | 44 | 
 | 2023-02-09 | 165 | 44 | 
 | 2023-02-08 | 163 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 156 | 43 | 
 | 2023-01-15 | 156 | 43 | 
 | 2023-01-14 | 156 | 43 | 
-| 2023-01-13 | 156 | 43 | 
 

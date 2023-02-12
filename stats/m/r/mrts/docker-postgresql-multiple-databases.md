@@ -1,10 +1,10 @@
 # mrts/docker-postgresql-multiple-databases - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 238
 
-★ Stars: 507
+★ Stars: 508
 
 [Open repository](https://github.com/mrts/docker-postgresql-multiple-databases)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 508 | 238 | 
 | 2023-02-10 | 507 | 238 | 
 | 2023-02-09 | 506 | 238 | 
 | 2023-02-08 | 505 | 237 | 

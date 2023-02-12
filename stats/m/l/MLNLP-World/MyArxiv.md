@@ -1,10 +1,10 @@
 # MLNLP-World/MyArxiv - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/MLNLP-World/MyArxiv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 69 | 9 | 
 | 2023-02-10 | 67 | 8 | 
 | 2023-02-09 | 65 | 8 | 
 | 2023-02-08 | 65 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 64 | 6 | 
 | 2023-01-14 | 64 | 6 | 
 | 2023-01-13 | 63 | 6 | 
-| 2023-01-12 | 63 | 6 | 
 

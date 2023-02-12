@@ -1,10 +1,10 @@
 # lgirdk/meta-virtualization - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/lgirdk/meta-virtualization)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3 | 5 | 
 | 2023-02-10 | 2 | 5 | 
 | 2023-02-09 | 2 | 4 | 
 | 2023-02-08 | 2 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2 | 3 | 
 | 2023-01-14 | 2 | 3 | 
 | 2023-01-13 | 2 | 3 | 
-| 2023-01-12 | 2 | 3 | 
 

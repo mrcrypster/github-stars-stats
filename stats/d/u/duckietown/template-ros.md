@@ -1,6 +1,6 @@
 # duckietown/template-ros - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 6 | 104 | 
 | 2023-02-10 | 6 | 104 | 
 | 2023-02-09 | 5 | 104 | 
 | 2023-02-08 | 5 | 103 | 

@@ -1,6 +1,6 @@
 # Groovy-Emacs-Modes/groovy-emacs-modes - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 76 | 37 | 
 | 2023-02-10 | 76 | 37 | 
 | 2023-02-09 | 76 | 37 | 
 | 2023-02-08 | 76 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 76 | 38 | 
 | 2023-01-14 | 76 | 38 | 
 | 2023-01-13 | 76 | 38 | 
-| 2023-01-12 | 76 | 38 | 
 

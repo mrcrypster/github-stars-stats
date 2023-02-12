@@ -1,6 +1,6 @@
 # photoview/photoview - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 3516 | 279 | 
 | 2023-02-10 | 3516 | 279 | 
 | 2023-02-09 | 3513 | 277 | 
 | 2023-02-08 | 3510 | 277 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 3443 | 267 | 
 | 2023-01-15 | 3441 | 267 | 
 | 2023-01-14 | 3437 | 266 | 
-| 2023-01-13 | 3434 | 266 | 
 

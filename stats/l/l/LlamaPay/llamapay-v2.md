@@ -1,6 +1,6 @@
 # LlamaPay/llamapay-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 35 | 4 | 
 | 2023-02-10 | 35 | 4 | 
 | 2023-02-09 | 35 | 4 | 
 | 2023-02-07 | 35 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 13 | 2 | 
 | 2023-01-14 | 12 | 2 | 
 | 2023-01-13 | 12 | 2 | 
-| 2023-01-12 | 12 | 2 | 
 

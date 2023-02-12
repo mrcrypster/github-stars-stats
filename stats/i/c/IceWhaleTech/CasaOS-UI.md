@@ -1,6 +1,6 @@
 # IceWhaleTech/CasaOS-UI - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 51 | 37 | 
 | 2023-02-10 | 51 | 37 | 
 | 2023-02-09 | 51 | 37 | 
 | 2023-02-08 | 51 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 50 | 39 | 
 | 2023-01-15 | 50 | 39 | 
 | 2023-01-14 | 50 | 39 | 
-| 2023-01-13 | 50 | 39 | 
 

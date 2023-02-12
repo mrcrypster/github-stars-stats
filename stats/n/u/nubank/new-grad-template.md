@@ -1,6 +1,6 @@
 # nubank/new-grad-template - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 8 | 2 | 
 | 2023-02-10 | 8 | 2 | 
 | 2023-02-09 | 8 | 2 | 
 | 2023-02-07 | 8 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 8 | 2 | 
 | 2023-01-14 | 8 | 2 | 
 | 2023-01-13 | 8 | 2 | 
-| 2023-01-12 | 8 | 2 | 
 

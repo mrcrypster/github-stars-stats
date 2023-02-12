@@ -1,10 +1,10 @@
 # danurbanowicz/eleventy-netlify-boilerplate - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 183
 
-★ Stars: 478
+★ Stars: 479
 
 [Open repository](https://github.com/danurbanowicz/eleventy-netlify-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 479 | 183 | 
 | 2023-02-11 | 478 | 183 | 
 | 2023-02-09 | 478 | 183 | 
 | 2023-02-08 | 475 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 474 | 184 | 
 | 2023-01-14 | 473 | 184 | 
 | 2023-01-13 | 473 | 184 | 
-| 2023-01-12 | 473 | 184 | 
 

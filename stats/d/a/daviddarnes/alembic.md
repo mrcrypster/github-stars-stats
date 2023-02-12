@@ -1,10 +1,10 @@
 # daviddarnes/alembic - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 776
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/daviddarnes/alembic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 666 | 776 | 
 | 2023-02-10 | 665 | 776 | 
 | 2023-02-09 | 665 | 777 | 
 | 2023-02-08 | 664 | 776 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 660 | 760 | 
 | 2023-01-14 | 659 | 757 | 
 | 2023-01-13 | 658 | 756 | 
-| 2023-01-12 | 658 | 756 | 
 

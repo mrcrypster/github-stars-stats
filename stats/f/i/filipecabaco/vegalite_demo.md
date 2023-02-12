@@ -1,10 +1,10 @@
 # filipecabaco/vegalite_demo - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/filipecabaco/vegalite_demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 32 | 1 | 
 | 2023-02-10 | 31 | 1 | 
 | 2023-02-09 | 31 | 1 | 
 | 2023-02-08 | 31 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 31 | 1 | 
 | 2023-01-14 | 30 | 1 | 
 | 2023-01-13 | 30 | 1 | 
-| 2023-01-12 | 30 | 1 | 
 

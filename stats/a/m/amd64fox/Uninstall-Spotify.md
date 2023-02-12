@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/amd64fox/Uninstall-Spotify)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 26 | 4 | 
+| 2023-02-11 | 27 | 4 | 
 | 2023-02-10 | 25 | 4 | 
 

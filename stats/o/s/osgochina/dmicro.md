@@ -1,10 +1,10 @@
 # osgochina/dmicro - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 250
+★ Stars: 249
 
 [Open repository](https://github.com/osgochina/dmicro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 249 | 33 | 
 | 2023-02-10 | 250 | 33 | 
 | 2023-02-09 | 250 | 33 | 
 | 2023-02-08 | 250 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 250 | 32 | 
 | 2023-01-14 | 250 | 32 | 
 | 2023-01-13 | 250 | 32 | 
-| 2023-01-12 | 250 | 32 | 
 

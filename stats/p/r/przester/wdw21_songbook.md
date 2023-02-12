@@ -1,6 +1,6 @@
 # przester/wdw21_songbook - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2 | 7 | 
 | 2023-02-10 | 2 | 7 | 
 | 2023-02-09 | 2 | 7 | 
 | 2023-02-08 | 2 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3 | 6 | 
 | 2023-01-14 | 3 | 6 | 
 | 2023-01-13 | 3 | 6 | 
-| 2023-01-12 | 3 | 6 | 
 

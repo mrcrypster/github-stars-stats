@@ -1,8 +1,8 @@
 # portra400nc/ModelChanger - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 70 | 21 | 
 | 2023-02-10 | 70 | 20 | 
 | 2023-02-09 | 70 | 20 | 
 | 2023-02-08 | 70 | 20 | 

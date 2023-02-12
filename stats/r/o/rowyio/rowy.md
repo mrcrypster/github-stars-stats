@@ -1,10 +1,10 @@
 # rowyio/rowy - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 299
+☋ Forks: 300
 
-★ Stars: 4278
+★ Stars: 4284
 
 [Open repository](https://github.com/rowyio/rowy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4284 | 300 | 
 | 2023-02-11 | 4278 | 299 | 
 | 2023-02-09 | 4271 | 299 | 
 | 2023-02-08 | 4270 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-15 | 4168 | 294 | 
 | 2023-01-14 | 4165 | 294 | 
 | 2023-01-13 | 4160 | 294 | 
-| 2023-01-12 | 4158 | 294 | 
 

@@ -1,10 +1,10 @@
 # renovatebot/renovate - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1510
+☋ Forks: 1513
 
-★ Stars: 11102
+★ Stars: 11112
 
 [Open repository](https://github.com/renovatebot/renovate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 11112 | 1513 | 
 | 2023-02-10 | 11102 | 1510 | 
 | 2023-02-09 | 11086 | 1507 | 
 | 2023-02-08 | 11070 | 1504 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 10807 | 1466 | 
 | 2023-01-14 | 10806 | 1467 | 
 | 2023-01-13 | 10800 | 1467 | 
-| 2023-01-12 | 10767 | 1464 | 
 

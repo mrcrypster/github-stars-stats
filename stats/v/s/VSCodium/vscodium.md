@@ -1,10 +1,10 @@
 # VSCodium/vscodium - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 804
 
-★ Stars: 19136
+★ Stars: 19144
 
 [Open repository](https://github.com/VSCodium/vscodium)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 19144 | 804 | 
 | 2023-02-10 | 19136 | 804 | 
 | 2023-02-09 | 19122 | 804 | 
 | 2023-02-08 | 19109 | 804 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 18882 | 794 | 
 | 2023-01-14 | 18867 | 794 | 
 | 2023-01-13 | 18855 | 794 | 
-| 2023-01-12 | 18849 | 794 | 
 

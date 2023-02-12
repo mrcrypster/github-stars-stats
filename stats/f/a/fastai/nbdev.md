@@ -1,10 +1,10 @@
 # fastai/nbdev - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 425
 
-★ Stars: 4030
+★ Stars: 4031
 
 [Open repository](https://github.com/fastai/nbdev)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4031 | 425 | 
 | 2023-02-10 | 4030 | 425 | 
 | 2023-02-09 | 4027 | 425 | 
 | 2023-02-08 | 4025 | 425 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3983 | 422 | 
 | 2023-01-14 | 3983 | 422 | 
 | 2023-01-13 | 3983 | 421 | 
-| 2023-01-12 | 3979 | 420 | 
 

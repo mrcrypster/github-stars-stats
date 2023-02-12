@@ -1,6 +1,6 @@
 # diversenok/TokenUniverse - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 346 | 46 | 
 | 2023-02-10 | 346 | 46 | 
 | 2023-02-09 | 345 | 46 | 
 | 2023-02-07 | 345 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 345 | 44 | 
 | 2023-01-14 | 345 | 44 | 
 | 2023-01-13 | 345 | 44 | 
-| 2023-01-12 | 345 | 44 | 
 

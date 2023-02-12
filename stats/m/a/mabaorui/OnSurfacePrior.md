@@ -1,6 +1,6 @@
 # mabaorui/OnSurfacePrior - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 156 | 22 | 
 | 2023-02-10 | 156 | 22 | 
 | 2023-02-09 | 156 | 22 | 
 | 2023-02-08 | 156 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 153 | 22 | 
 | 2023-01-15 | 153 | 22 | 
 | 2023-01-14 | 153 | 22 | 
-| 2023-01-12 | 153 | 22 | 
 

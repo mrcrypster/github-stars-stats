@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 11
 
-☋ Forks: 3617
+☋ Forks: 3618
 
-★ Stars: 14513
+★ Stars: 14518
 
 [Open repository](https://github.com/apache/brpc)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-11 | 14513 | 3617 | 
+| 2023-02-11 | 14518 | 3618 | 
 | 2023-02-10 | 14512 | 3617 | 
 | 2023-02-09 | 14496 | 3615 | 
 | 2023-02-08 | 14473 | 3612 | 

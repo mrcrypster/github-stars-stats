@@ -1,10 +1,10 @@
 # DenisGrachev/Ringo-8 - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/DenisGrachev/Ringo-8)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 33 | 2 | 
 | 2023-02-10 | 32 | 2 | 
 | 2023-02-09 | 32 | 2 | 
 | 2023-02-08 | 32 | 2 | 

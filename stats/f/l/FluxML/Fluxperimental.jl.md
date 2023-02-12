@@ -1,10 +1,10 @@
 # FluxML/Fluxperimental.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/FluxML/Fluxperimental.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 10 | 1 | 
 | 2023-02-10 | 9 | - | 
 | 2023-02-09 | 9 | - | 
 | 2023-02-08 | 9 | - | 

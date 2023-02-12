@@ -1,6 +1,6 @@
 # johnpatrickmorgan/FlowStacks - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 490 | 32 | 
 | 2023-02-10 | 490 | 32 | 
 | 2023-02-09 | 490 | 32 | 
 | 2023-02-08 | 490 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 476 | 31 | 
 | 2023-01-14 | 476 | 31 | 
 | 2023-01-13 | 474 | 31 | 
-| 2023-01-12 | 473 | 31 | 
 

@@ -1,8 +1,8 @@
 # digitalinnovationone/trilha-net-banco-de-dados-desafio - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1 | 72 | 
 | 2023-02-10 | 1 | 71 | 
 | 2023-02-09 | 1 | 71 | 
 | 2023-02-08 | 1 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | - | 57 | 
 | 2023-01-14 | - | 57 | 
 | 2023-01-13 | - | 57 | 
-| 2023-01-12 | - | 57 | 
 

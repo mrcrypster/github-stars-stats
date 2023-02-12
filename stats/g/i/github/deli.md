@@ -1,6 +1,6 @@
 # github/deli - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 164 | 9 | 
+| 2023-02-11 | 164 | 9 | 
 | 2023-02-10 | 164 | 9 | 
 | 2023-02-09 | 164 | 9 | 
 | 2023-02-08 | 164 | 9 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 161 | 9 | 
 | 2023-01-14 | 161 | 9 | 
 | 2023-01-13 | 161 | 9 | 
-| 2023-01-12 | 161 | 9 | 
 

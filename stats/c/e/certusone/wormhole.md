@@ -1,10 +1,10 @@
 # certusone/wormhole - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 400
+☋ Forks: 401
 
-★ Stars: 957
+★ Stars: 958
 
 [Open repository](https://github.com/certusone/wormhole)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 958 | 401 | 
 | 2023-02-10 | 957 | 400 | 
 | 2023-02-09 | 957 | 400 | 
 | 2023-02-08 | 956 | 400 | 

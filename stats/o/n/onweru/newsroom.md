@@ -1,6 +1,6 @@
 # onweru/newsroom - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 94
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 220 | 94 | 
+| 2023-02-11 | 220 | 94 | 
 | 2023-02-10 | 220 | 94 | 
 | 2023-02-09 | 220 | 93 | 
 | 2023-02-08 | 220 | 93 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 209 | 93 | 
 | 2023-01-14 | 209 | 93 | 
 | 2023-01-13 | 208 | 93 | 
-| 2023-01-12 | 208 | 93 | 
 

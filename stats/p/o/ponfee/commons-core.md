@@ -1,10 +1,10 @@
 # ponfee/commons-core - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 22
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/ponfee/commons-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 173 | 22 | 
 | 2023-02-10 | 172 | 22 | 
 | 2023-02-09 | 170 | 22 | 
 | 2023-02-08 | 170 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 111 | 23 | 
 | 2023-01-14 | 109 | 23 | 
 | 2023-01-13 | 104 | 21 | 
-| 2023-01-12 | 99 | 20 | 
 

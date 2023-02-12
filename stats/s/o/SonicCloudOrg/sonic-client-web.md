@@ -1,6 +1,6 @@
 # SonicCloudOrg/sonic-client-web - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 621 | 211 | 
 | 2023-02-10 | 621 | 211 | 
 | 2023-02-09 | 621 | 211 | 
 | 2023-02-08 | 620 | 211 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 616 | 203 | 
 | 2023-01-14 | 616 | 203 | 
 | 2023-01-13 | 616 | 203 | 
-| 2023-01-12 | 615 | 201 | 
 

@@ -1,10 +1,10 @@
 # wire-elements/modal - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 89
 
-★ Stars: 836
+★ Stars: 837
 
 [Open repository](https://github.com/wire-elements/modal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 837 | 89 | 
 | 2023-02-10 | 836 | 89 | 
 | 2023-02-09 | 836 | 89 | 
 | 2023-02-08 | 834 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 822 | 85 | 
 | 2023-01-14 | 822 | 85 | 
 | 2023-01-13 | 821 | 85 | 
-| 2023-01-12 | 818 | 85 | 
 

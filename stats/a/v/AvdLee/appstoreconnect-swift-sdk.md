@@ -1,10 +1,10 @@
 # AvdLee/appstoreconnect-swift-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 1104
+★ Stars: 1105
 
 [Open repository](https://github.com/AvdLee/appstoreconnect-swift-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1105 | 146 | 
 | 2023-02-10 | 1104 | 145 | 
 | 2023-02-09 | 1102 | 145 | 
 | 2023-02-08 | 1100 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1080 | 143 | 
 | 2023-01-14 | 1080 | 143 | 
 | 2023-01-13 | 1079 | 143 | 
-| 2023-01-12 | 1077 | 142 | 
 

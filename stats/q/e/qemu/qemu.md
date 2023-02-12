@@ -1,10 +1,10 @@
 # qemu/qemu - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 4457
+☋ Forks: 4455
 
-★ Stars: 7374
+★ Stars: 7376
 
 [Open repository](https://github.com/qemu/qemu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 7376 | 4455 | 
 | 2023-02-10 | 7374 | 4457 | 
 | 2023-02-09 | 7371 | 4452 | 
 | 2023-02-07 | 7367 | 4453 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 7271 | 4423 | 
 | 2023-01-14 | 7265 | 4422 | 
 | 2023-01-13 | 7263 | 4420 | 
-| 2023-01-12 | 7254 | 4418 | 
 

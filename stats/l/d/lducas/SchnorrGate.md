@@ -1,10 +1,10 @@
 # lducas/SchnorrGate - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 16
 
-★ Stars: 299
+★ Stars: 298
 
 [Open repository](https://github.com/lducas/SchnorrGate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 298 | 16 | 
 | 2023-02-10 | 299 | 16 | 
 | 2023-02-08 | 299 | 16 | 
 | 2023-02-07 | 299 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 295 | 17 | 
 | 2023-01-14 | 295 | 17 | 
 | 2023-01-13 | 295 | 17 | 
-| 2023-01-12 | 294 | 17 | 
 

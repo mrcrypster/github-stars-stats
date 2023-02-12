@@ -1,6 +1,6 @@
 # iamteles/yunglixo-rework - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3 | 6 | 
 | 2023-02-10 | 3 | 6 | 
 | 2023-02-09 | 3 | 6 | 
 | 2023-02-08 | 3 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 3 | 5 | 
 | 2023-01-14 | 3 | 5 | 
 | 2023-01-13 | 3 | 5 | 
-| 2023-01-12 | 3 | 5 | 
 

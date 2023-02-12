@@ -1,10 +1,10 @@
 # airbnb/HorizonCalendar - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 165
 
-★ Stars: 2271
+★ Stars: 2270
 
 [Open repository](https://github.com/airbnb/HorizonCalendar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 2270 | 165 | 
 | 2023-02-10 | 2271 | 165 | 
 | 2023-02-09 | 2270 | 165 | 
 | 2023-02-08 | 2270 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 2247 | 164 | 
 | 2023-01-14 | 2245 | 164 | 
 | 2023-01-13 | 2243 | 164 | 
-| 2023-01-12 | 2244 | 163 | 
 

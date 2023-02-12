@@ -1,10 +1,10 @@
 # takenobu-hs/cpu-assembly-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 41
+★ Stars: 40
 
 [Open repository](https://github.com/takenobu-hs/cpu-assembly-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 40 | 2 | 
 | 2023-02-10 | 41 | 2 | 
 | 2023-02-09 | 38 | 2 | 
 | 2023-02-08 | 38 | 2 | 

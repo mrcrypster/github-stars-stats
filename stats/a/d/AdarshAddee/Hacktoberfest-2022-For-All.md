@@ -1,6 +1,6 @@
 # AdarshAddee/Hacktoberfest-2022-For-All - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 28 | 107 | 
 | 2023-02-10 | 28 | 107 | 
 | 2023-02-09 | 28 | 107 | 
 | 2023-02-08 | 28 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 29 | 108 | 
 | 2023-01-14 | 29 | 109 | 
 | 2023-01-13 | 29 | 109 | 
-| 2023-01-12 | 29 | 109 | 
 

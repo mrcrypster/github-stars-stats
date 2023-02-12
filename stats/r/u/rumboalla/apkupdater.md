@@ -1,10 +1,10 @@
 # rumboalla/apkupdater - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 149
 
-★ Stars: 1451
+★ Stars: 1453
 
 [Open repository](https://github.com/rumboalla/apkupdater)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1453 | 149 | 
 | 2023-02-10 | 1451 | 149 | 
 | 2023-02-09 | 1451 | 149 | 
 | 2023-02-08 | 1450 | 149 | 

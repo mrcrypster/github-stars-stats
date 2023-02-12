@@ -1,6 +1,6 @@
 # mhamilton723/STEGO - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 516 | 95 | 
 | 2023-02-10 | 516 | 95 | 
 | 2023-02-09 | 515 | 95 | 
 | 2023-02-08 | 512 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 490 | 90 | 
 | 2023-01-14 | 488 | 90 | 
 | 2023-01-13 | 486 | 90 | 
-| 2023-01-12 | 481 | 90 | 
 

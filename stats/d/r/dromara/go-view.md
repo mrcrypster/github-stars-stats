@@ -1,6 +1,6 @@
 # dromara/go-view - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 99 | 22 | 
 | 2023-02-10 | 99 | 22 | 
 | 2023-02-09 | 98 | 22 | 
 | 2023-02-08 | 96 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 86 | 18 | 
 | 2023-01-14 | 85 | 18 | 
 | 2023-01-13 | 83 | 18 | 
-| 2023-01-12 | 82 | 18 | 
 

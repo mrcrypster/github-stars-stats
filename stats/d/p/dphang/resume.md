@@ -1,8 +1,8 @@
 # dphang/resume - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 39
+☋ Forks: 38
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 65 | 38 | 
 | 2023-02-10 | 65 | 39 | 
 | 2023-02-09 | 65 | 39 | 
 | 2023-02-08 | 65 | 39 | 

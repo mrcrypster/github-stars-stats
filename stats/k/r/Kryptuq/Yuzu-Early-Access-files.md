@@ -1,10 +1,10 @@
 # Kryptuq/Yuzu-Early-Access-files - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 41
 
-★ Stars: 568
+★ Stars: 570
 
 [Open repository](https://github.com/Kryptuq/Yuzu-Early-Access-files)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 570 | 41 | 
 | 2023-02-10 | 568 | 41 | 
 | 2023-02-09 | 565 | 41 | 
 | 2023-02-08 | 565 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 546 | 40 | 
 | 2023-01-15 | 546 | 40 | 
 | 2023-01-14 | 546 | 40 | 
-| 2023-01-12 | 546 | 40 | 
 

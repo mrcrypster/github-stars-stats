@@ -1,8 +1,8 @@
 # fiatjaf/branle - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 72
+☋ Forks: 71
 
 ★ Stars: 107
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 107 | 71 | 
 | 2023-02-10 | 107 | 72 | 
 | 2023-02-09 | 107 | 72 | 
 | 2023-02-08 | 106 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 75 | 66 | 
 | 2023-01-15 | 75 | 65 | 
 | 2023-01-14 | 75 | 64 | 
-| 2023-01-13 | 74 | 64 | 
 

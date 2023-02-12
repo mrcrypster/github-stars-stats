@@ -1,10 +1,10 @@
 # WinTweakers/WindowsToolbox - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 58
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/WinTweakers/WindowsToolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 132 | 58 | 
 | 2023-02-10 | 131 | 58 | 
 | 2023-02-09 | 130 | 58 | 
 | 2023-02-08 | 130 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 121 | 56 | 
 | 2023-01-14 | 121 | 56 | 
 | 2023-01-13 | 121 | 55 | 
-| 2023-01-12 | 121 | 55 | 
 

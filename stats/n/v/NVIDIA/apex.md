@@ -1,10 +1,10 @@
 # NVIDIA/apex - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1144
 
-★ Stars: 6940
+★ Stars: 6939
 
 [Open repository](https://github.com/NVIDIA/apex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 6939 | 1144 | 
 | 2023-02-10 | 6940 | 1144 | 
 | 2023-02-09 | 6938 | 1144 | 
 | 2023-02-07 | 6938 | 1144 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 6892 | 1128 | 
 | 2023-01-14 | 6891 | 1128 | 
 | 2023-01-13 | 6890 | 1127 | 
-| 2023-01-12 | 6885 | 1127 | 
 

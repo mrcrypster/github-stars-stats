@@ -1,6 +1,6 @@
 # awakesecurity/proto3-wire - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 24
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 18 | 24 | 
 | 2023-02-10 | 18 | 24 | 
 

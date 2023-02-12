@@ -1,6 +1,6 @@
 # utrains/utrains_terraform_three_tiers - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | - | 160 | 
 | 2023-02-10 | - | 160 | 
 | 2023-02-09 | - | 160 | 
 | 2023-02-08 | - | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | - | 155 | 
 | 2023-01-14 | - | 155 | 
 | 2023-01-13 | - | 155 | 
-| 2023-01-12 | - | 155 | 
 

@@ -1,10 +1,10 @@
 # AshlinHarris/Spinners.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/AshlinHarris/Spinners.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 13 | 1 | 
 | 2023-02-10 | 14 | 1 | 
 | 2023-02-09 | 14 | 1 | 
 | 2023-02-08 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 13 | 1 | 
 | 2023-01-14 | 13 | 1 | 
 | 2023-01-13 | 13 | 1 | 
-| 2023-01-12 | 13 | 1 | 
 

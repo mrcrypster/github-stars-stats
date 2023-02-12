@@ -1,6 +1,6 @@
 # ruesandora/sui-devnet - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 331
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 144 | 331 | 
 | 2023-02-10 | 144 | 331 | 
 | 2023-02-09 | 144 | 331 | 
 | 2023-02-07 | 144 | 331 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 144 | 330 | 
 | 2023-01-14 | 144 | 330 | 
 | 2023-01-13 | 144 | 330 | 
-| 2023-01-12 | 144 | 330 | 
 

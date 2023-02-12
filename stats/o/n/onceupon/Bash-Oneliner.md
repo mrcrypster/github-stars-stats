@@ -1,10 +1,10 @@
 # onceupon/Bash-Oneliner - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 506
 
-★ Stars: 7569
+★ Stars: 7572
 
 [Open repository](https://github.com/onceupon/Bash-Oneliner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 7572 | 506 | 
 | 2023-02-10 | 7569 | 506 | 
 | 2023-02-09 | 7567 | 506 | 
 | 2023-02-08 | 7566 | 506 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 7516 | 504 | 
 | 2023-01-14 | 7514 | 504 | 
 | 2023-01-13 | 7512 | 504 | 
-| 2023-01-12 | 7510 | 504 | 
 

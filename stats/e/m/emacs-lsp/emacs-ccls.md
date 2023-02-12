@@ -1,6 +1,6 @@
 # emacs-lsp/emacs-ccls - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 185 | 27 | 
 | 2023-02-10 | 185 | 27 | 
 | 2023-02-09 | 185 | 27 | 
 | 2023-02-08 | 185 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 185 | 27 | 
 | 2023-01-14 | 185 | 27 | 
 | 2023-01-13 | 185 | 27 | 
-| 2023-01-12 | 185 | 27 | 
 

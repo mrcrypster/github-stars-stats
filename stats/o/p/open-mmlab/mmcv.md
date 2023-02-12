@@ -1,10 +1,10 @@
 # open-mmlab/mmcv - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 1378
+☋ Forks: 1379
 
-★ Stars: 4672
+★ Stars: 4675
 
 [Open repository](https://github.com/open-mmlab/mmcv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 4675 | 1379 | 
 | 2023-02-10 | 4672 | 1378 | 
 | 2023-02-08 | 4670 | 1376 | 
 | 2023-02-07 | 4664 | 1372 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 4622 | 1349 | 
 | 2023-01-14 | 4617 | 1347 | 
 | 2023-01-13 | 4616 | 1346 | 
-| 2023-01-12 | 4618 | 1344 | 
 

@@ -1,10 +1,10 @@
 # j178/leetgo - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 273
+★ Stars: 276
 
 [Open repository](https://github.com/j178/leetgo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 276 | 14 | 
 | 2023-02-10 | 273 | 14 | 
 | 2023-02-08 | 268 | 12 | 
 | 2023-02-07 | 259 | 12 | 

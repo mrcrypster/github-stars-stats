@@ -1,10 +1,10 @@
 # TPC-Council/HammerDB - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/TPC-Council/HammerDB)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 378 | 80 | 
 | 2023-02-10 | 377 | 79 | 
 | 2023-02-09 | 376 | 79 | 
 | 2023-02-08 | 373 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 365 | 78 | 
 | 2023-01-15 | 365 | 78 | 
 | 2023-01-14 | 365 | 78 | 
-| 2023-01-12 | 365 | 78 | 
 

@@ -1,10 +1,10 @@
 # aistra0528/Hail - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 34
 
-★ Stars: 487
+★ Stars: 490
 
 [Open repository](https://github.com/aistra0528/Hail)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 490 | 34 | 
 | 2023-02-10 | 487 | 34 | 
 | 2023-02-09 | 481 | 35 | 
 | 2023-02-08 | 477 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 427 | 35 | 
 | 2023-01-14 | 427 | 35 | 
 | 2023-01-13 | 426 | 35 | 
-| 2023-01-12 | 425 | 35 | 
 

@@ -1,6 +1,6 @@
 # Pericles001/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 31 | 122 | 
 | 2023-02-10 | 31 | 122 | 
 | 2023-02-09 | 31 | 122 | 
 | 2023-02-08 | 31 | 122 | 

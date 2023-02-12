@@ -1,6 +1,6 @@
 # HashLips/hashlips_nft_contract - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
 ☋ Forks: 676
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 798 | 676 | 
 | 2023-02-10 | 798 | 676 | 
 | 2023-02-08 | 798 | 676 | 
 | 2023-02-07 | 798 | 676 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 793 | 676 | 
 | 2023-01-14 | 793 | 677 | 
 | 2023-01-13 | 793 | 676 | 
-| 2023-01-12 | 792 | 676 | 
 

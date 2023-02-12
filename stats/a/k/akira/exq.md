@@ -1,8 +1,8 @@
 # akira/exq - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 178
+☋ Forks: 177
 
 ★ Stars: 1402
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1402 | 177 | 
 | 2023-02-10 | 1402 | 178 | 
 | 2023-02-09 | 1400 | 178 | 
 | 2023-02-08 | 1399 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 1393 | 177 | 
 | 2023-01-14 | 1393 | 177 | 
 | 2023-01-13 | 1393 | 177 | 
-| 2023-01-12 | 1393 | 177 | 
 

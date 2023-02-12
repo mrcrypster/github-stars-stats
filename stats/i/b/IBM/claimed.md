@@ -1,10 +1,10 @@
 # IBM/claimed - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 11
 
-☋ Forks: 3513
+☋ Forks: 3516
 
-★ Stars: 1969
+★ Stars: 1971
 
 [Open repository](https://github.com/IBM/claimed)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-11 | 1971 | 3516 | 
 | 2023-02-10 | 1969 | 3513 | 
 | 2023-02-09 | 1967 | 3513 | 
 | 2023-02-08 | 1966 | 3511 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-15 | 1914 | 3433 | 
 | 2023-01-14 | 1912 | 3433 | 
 | 2023-01-13 | 1910 | 3430 | 
-| 2023-01-12 | 1910 | 3428 | 
 
