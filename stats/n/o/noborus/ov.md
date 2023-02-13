@@ -1,10 +1,10 @@
 # noborus/ov - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 28
+☋ Forks: 27
 
-★ Stars: 910
+★ Stars: 912
 
 [Open repository](https://github.com/noborus/ov)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 912 | 27 | 
 | 2023-02-11 | 910 | 28 | 
 | 2023-02-10 | 909 | 28 | 
 | 2023-02-09 | 906 | 28 | 

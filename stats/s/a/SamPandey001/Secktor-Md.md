@@ -1,8 +1,8 @@
 # SamPandey001/Secktor-Md - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 2590
+☋ Forks: 2595
 
 ★ Stars: 190
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 190 | 2595 | 
 | 2023-02-11 | 190 | 2590 | 
 | 2023-02-10 | 189 | 2585 | 
 | 2023-02-09 | 189 | 2584 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 174 | 2402 | 
 | 2023-01-15 | 173 | 2397 | 
 | 2023-01-14 | 173 | 2382 | 
-| 2023-01-13 | 172 | 2375 | 
 

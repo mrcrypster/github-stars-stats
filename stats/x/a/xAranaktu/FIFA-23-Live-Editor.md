@@ -1,10 +1,10 @@
 # xAranaktu/FIFA-23-Live-Editor - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 55
+★ Stars: 57
 
 [Open repository](https://github.com/xAranaktu/FIFA-23-Live-Editor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 57 | 9 | 
 | 2023-02-11 | 55 | 9 | 
 | 2023-02-10 | 55 | 8 | 
 | 2023-02-09 | 55 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 43 | 4 | 
 | 2023-01-15 | 40 | 4 | 
 | 2023-01-14 | 38 | 4 | 
-| 2023-01-13 | 38 | 4 | 
 

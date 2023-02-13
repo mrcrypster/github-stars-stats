@@ -1,6 +1,6 @@
 # aws/graph-explorer - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 130 | 13 | 
 | 2023-02-11 | 130 | 13 | 
 | 2023-02-10 | 130 | 13 | 
 | 2023-02-08 | 130 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 119 | 5 | 
 | 2023-01-15 | 118 | 5 | 
 | 2023-01-14 | 117 | 5 | 
-| 2023-01-13 | 113 | 5 | 
 

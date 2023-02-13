@@ -1,6 +1,6 @@
 # openucx/ucx - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 333
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 790 | 333 | 
 | 2023-02-11 | 790 | 333 | 
 | 2023-02-10 | 789 | 333 | 
 | 2023-02-09 | 789 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 784 | 326 | 
 | 2023-01-15 | 783 | 325 | 
 | 2023-01-14 | 782 | 325 | 
-| 2023-01-13 | 782 | 325 | 
 

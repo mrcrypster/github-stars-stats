@@ -1,10 +1,10 @@
 # xmu-xiaoma666/External-Attention-pytorch - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1517
+☋ Forks: 1521
 
-★ Stars: 7882
+★ Stars: 7890
 
 [Open repository](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 7890 | 1521 | 
 | 2023-02-11 | 7882 | 1517 | 
 | 2023-02-10 | 7878 | 1516 | 
 | 2023-02-09 | 7870 | 1515 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 7763 | 1498 | 
 | 2023-01-16 | 7744 | 1497 | 
 | 2023-01-15 | 7739 | 1496 | 
-| 2023-01-14 | 7737 | 1496 | 
 

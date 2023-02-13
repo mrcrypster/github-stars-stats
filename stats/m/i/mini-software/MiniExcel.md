@@ -1,10 +1,10 @@
 # mini-software/MiniExcel - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 166
 
-★ Stars: 1491
+★ Stars: 1494
 
 [Open repository](https://github.com/mini-software/MiniExcel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1494 | 166 | 
 | 2023-02-11 | 1491 | 166 | 
 | 2023-02-10 | 1490 | 166 | 
 | 2023-02-09 | 1489 | 165 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 1447 | 161 | 
 | 2023-01-16 | 1442 | 161 | 
 | 2023-01-14 | 1440 | 161 | 
-| 2023-01-13 | 1439 | 161 | 
 

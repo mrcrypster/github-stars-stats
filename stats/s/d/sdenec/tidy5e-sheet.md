@@ -1,10 +1,10 @@
 # sdenec/tidy5e-sheet - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 79
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/sdenec/tidy5e-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 80 | 79 | 
 | 2023-02-11 | 79 | 79 | 
 | 2023-02-10 | 79 | 79 | 
 | 2023-02-09 | 79 | 79 | 

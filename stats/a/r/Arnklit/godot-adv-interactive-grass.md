@@ -1,6 +1,6 @@
 # Arnklit/godot-adv-interactive-grass - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 23 | 2 | 
 | 2023-02-11 | 23 | 2 | 
 | 2023-02-10 | 23 | 2 | 
 | 2023-02-09 | 23 | 2 | 

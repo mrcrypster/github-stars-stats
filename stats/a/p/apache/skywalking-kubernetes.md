@@ -1,10 +1,10 @@
 # apache/skywalking-kubernetes - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 175
 
-★ Stars: 398
+★ Stars: 399
 
 [Open repository](https://github.com/apache/skywalking-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 399 | 175 | 
 | 2023-02-11 | 398 | 175 | 
 | 2023-02-10 | 398 | 175 | 
 | 2023-02-09 | 396 | 174 | 

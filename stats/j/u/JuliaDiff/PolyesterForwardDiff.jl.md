@@ -1,10 +1,10 @@
 # JuliaDiff/PolyesterForwardDiff.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 20
 
 [Open repository](https://github.com/JuliaDiff/PolyesterForwardDiff.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 20 | - | 
 | 2023-02-11 | 18 | - | 
 | 2023-02-10 | 18 | - | 
 | 2023-02-09 | 18 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 18 | - | 
 | 2023-01-15 | 18 | - | 
 | 2023-01-14 | 18 | - | 
-| 2023-01-13 | 18 | - | 
 

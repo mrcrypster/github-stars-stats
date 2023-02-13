@@ -1,10 +1,10 @@
 # LuaLS/lua-language-server - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 195
+☋ Forks: 194
 
-★ Stars: 2015
+★ Stars: 2022
 
 [Open repository](https://github.com/LuaLS/lua-language-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2022 | 194 | 
 | 2023-02-11 | 2015 | 195 | 
 | 2023-02-10 | 2015 | 195 | 
 | 2023-02-09 | 2014 | 195 | 

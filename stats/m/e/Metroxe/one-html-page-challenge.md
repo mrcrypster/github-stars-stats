@@ -1,6 +1,6 @@
 # Metroxe/one-html-page-challenge - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 272
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 840 | 272 | 
 | 2023-02-11 | 840 | 272 | 
 | 2023-02-10 | 840 | 272 | 
 | 2023-02-09 | 838 | 272 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 822 | 267 | 
 | 2023-01-15 | 820 | 266 | 
 | 2023-01-14 | 818 | 263 | 
-| 2023-01-13 | 816 | 263 | 
 

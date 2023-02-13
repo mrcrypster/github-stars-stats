@@ -1,6 +1,6 @@
 # Unity-Technologies/unitysimulation-coronavirus-example - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 77 | 23 | 
+| 2023-02-12 | 77 | 23 | 
 | 2023-02-11 | 77 | 23 | 
 | 2023-02-10 | 78 | 23 | 
 | 2023-02-09 | 78 | 23 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 78 | 23 | 
 | 2023-01-16 | 78 | 23 | 
 | 2023-01-15 | 78 | 23 | 
-| 2023-01-14 | 78 | 23 | 
 

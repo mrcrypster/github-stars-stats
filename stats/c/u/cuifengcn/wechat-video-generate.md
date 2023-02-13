@@ -1,6 +1,6 @@
 # cuifengcn/wechat-video-generate - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 238 | 68 | 
 | 2023-02-11 | 238 | 68 | 
 | 2023-02-10 | 237 | 68 | 
 | 2023-02-09 | 231 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 196 | 56 | 
 | 2023-01-15 | 194 | 55 | 
 | 2023-01-14 | 190 | 53 | 
-| 2023-01-13 | 186 | 52 | 
 

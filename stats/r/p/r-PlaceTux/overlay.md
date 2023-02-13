@@ -1,6 +1,6 @@
 # r-PlaceTux/overlay - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 24 | 12 | 
 | 2023-02-11 | 24 | 12 | 
 | 2023-02-10 | 24 | 12 | 
 | 2023-02-09 | 24 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 25 | 12 | 
 | 2023-01-15 | 25 | 12 | 
 | 2023-01-14 | 25 | 12 | 
-| 2023-01-13 | 25 | 12 | 
 

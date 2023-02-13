@@ -1,6 +1,6 @@
 # thelfer/tfel - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 72 | 32 | 
 | 2023-02-11 | 72 | 32 | 
 | 2023-02-10 | 72 | 32 | 
 | 2023-02-09 | 72 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 70 | 32 | 
 | 2023-01-15 | 70 | 32 | 
 | 2023-01-14 | 70 | 32 | 
-| 2023-01-13 | 70 | 32 | 
 

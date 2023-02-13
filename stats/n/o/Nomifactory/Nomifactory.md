@@ -1,6 +1,6 @@
 # Nomifactory/Nomifactory - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 227 | 88 | 
 | 2023-02-11 | 227 | 88 | 
 | 2023-02-10 | 227 | 88 | 
 | 2023-02-09 | 227 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 223 | 89 | 
 | 2023-01-15 | 223 | 89 | 
 | 2023-01-14 | 223 | 89 | 
-| 2023-01-13 | 223 | 89 | 
 

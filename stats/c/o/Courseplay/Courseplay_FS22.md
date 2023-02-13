@@ -1,6 +1,6 @@
 # Courseplay/Courseplay_FS22 - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 674 | 157 | 
 | 2023-02-11 | 674 | 157 | 
 | 2023-02-10 | 674 | 157 | 
 | 2023-02-09 | 674 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 669 | 158 | 
 | 2023-01-15 | 669 | 157 | 
 | 2023-01-14 | 669 | 157 | 
-| 2023-01-13 | 668 | 157 | 
 

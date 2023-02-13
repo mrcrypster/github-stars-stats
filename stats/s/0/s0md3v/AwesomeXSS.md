@@ -1,6 +1,6 @@
 # s0md3v/AwesomeXSS - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 727
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4228 | 727 | 
 | 2023-02-10 | 4228 | 727 | 
 | 2023-02-09 | 4227 | 726 | 
 | 2023-02-08 | 4226 | 725 | 

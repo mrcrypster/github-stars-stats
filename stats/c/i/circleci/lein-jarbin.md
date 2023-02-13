@@ -1,6 +1,6 @@
 # circleci/lein-jarbin - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 13 | 9 | 
 | 2023-02-11 | 13 | 9 | 
 | 2023-02-10 | 13 | 9 | 
 | 2023-02-09 | 13 | 9 | 

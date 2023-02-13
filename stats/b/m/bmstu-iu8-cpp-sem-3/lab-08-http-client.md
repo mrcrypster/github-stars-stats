@@ -1,6 +1,6 @@
 # bmstu-iu8-cpp-sem-3/lab-08-http-client - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1 | 24 | 
 | 2023-02-11 | 1 | 24 | 
 | 2023-02-10 | 1 | 24 | 
 | 2023-02-09 | 1 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1 | 24 | 
 | 2023-01-15 | 1 | 24 | 
 | 2023-01-14 | 1 | 24 | 
-| 2023-01-13 | 1 | 24 | 
 

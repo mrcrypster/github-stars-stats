@@ -1,10 +1,10 @@
 # app-generator/django-material-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 36
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/app-generator/django-material-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 51 | 36 | 
 | 2023-02-11 | 50 | 36 | 
 | 2023-02-10 | 50 | 36 | 
 | 2023-02-09 | 50 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 50 | 33 | 
 | 2023-01-15 | 50 | 33 | 
 | 2023-01-14 | 49 | 33 | 
-| 2023-01-13 | 49 | 33 | 
 

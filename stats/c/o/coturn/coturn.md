@@ -1,10 +1,10 @@
 # coturn/coturn - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1763
 
-★ Stars: 8766
+★ Stars: 8770
 
 [Open repository](https://github.com/coturn/coturn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 8770 | 1763 | 
 | 2023-02-11 | 8766 | 1763 | 
 | 2023-02-10 | 8763 | 1762 | 
 | 2023-02-09 | 8757 | 1760 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 8664 | 1752 | 
 | 2023-01-15 | 8662 | 1752 | 
 | 2023-01-14 | 8660 | 1752 | 
-| 2023-01-13 | 8657 | 1752 | 
 

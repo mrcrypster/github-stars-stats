@@ -1,10 +1,10 @@
 # neoslab/blackbuntu - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 52
+★ Stars: 55
 
 [Open repository](https://github.com/neoslab/blackbuntu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 55 | 15 | 
 | 2023-02-12 | 52 | 15 | 
 | 2023-02-10 | 49 | 15 | 
 | 2023-02-09 | 45 | 15 | 

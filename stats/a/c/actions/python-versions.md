@@ -1,6 +1,6 @@
 # actions/python-versions - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 123 | 80 | 
 | 2023-02-11 | 123 | 80 | 
 | 2023-02-10 | 123 | 80 | 
 | 2023-02-09 | 123 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 123 | 77 | 
 | 2023-01-15 | 123 | 77 | 
 | 2023-01-14 | 122 | 77 | 
-| 2023-01-13 | 122 | 77 | 
 

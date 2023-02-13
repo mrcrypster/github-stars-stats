@@ -1,10 +1,10 @@
 # wsvincent/awesome-django - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1008
+☋ Forks: 1007
 
-★ Stars: 6612
+★ Stars: 6616
 
 [Open repository](https://github.com/wsvincent/awesome-django)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 6616 | 1007 | 
 | 2023-02-11 | 6612 | 1008 | 
 | 2023-02-10 | 6607 | 1007 | 
 | 2023-02-09 | 6605 | 1008 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 6493 | 994 | 
 | 2023-01-15 | 6492 | 995 | 
 | 2023-01-14 | 6487 | 995 | 
-| 2023-01-13 | 6487 | 996 | 
 

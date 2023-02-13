@@ -1,10 +1,10 @@
 # FreyaHolmer/Mathfs - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 138
 
-★ Stars: 1805
+★ Stars: 1807
 
 [Open repository](https://github.com/FreyaHolmer/Mathfs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1807 | 138 | 
 | 2023-02-11 | 1805 | 138 | 
 | 2023-02-10 | 1804 | 138 | 
 | 2023-02-09 | 1804 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 1756 | 132 | 
 | 2023-01-16 | 1754 | 132 | 
 | 2023-01-15 | 1751 | 132 | 
-| 2023-01-14 | 1750 | 132 | 
 

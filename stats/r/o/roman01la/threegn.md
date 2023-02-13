@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 12
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 176
+★ Stars: 178
 
 [Open repository](https://github.com/roman01la/threegn)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 176 | 10 | 
+| 2023-02-12 | 178 | 11 | 
 | 2023-02-11 | 176 | 9 | 
 

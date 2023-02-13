@@ -1,6 +1,6 @@
 # SparebankenVest/public-helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 24 | 40 | 
 | 2023-02-11 | 24 | 40 | 
 | 2023-02-10 | 24 | 40 | 
 | 2023-02-09 | 24 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 23 | 40 | 
 | 2023-01-15 | 22 | 40 | 
 | 2023-01-14 | 22 | 40 | 
-| 2023-01-13 | 22 | 40 | 
 

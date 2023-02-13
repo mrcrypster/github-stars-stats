@@ -1,6 +1,6 @@
 # jthomasmock/gtExtras - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 142 | 15 | 
 | 2023-02-11 | 142 | 15 | 
 | 2023-02-10 | 142 | 15 | 
 | 2023-02-09 | 142 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 142 | 15 | 
 | 2023-01-15 | 142 | 15 | 
 | 2023-01-14 | 142 | 15 | 
-| 2023-01-13 | 142 | 14 | 
 

@@ -1,6 +1,6 @@
 # gh0x0st/wanderer - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 119 | 10 | 
 | 2023-02-11 | 119 | 10 | 
 | 2023-02-10 | 119 | 10 | 
 | 2023-02-09 | 119 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 110 | 9 | 
 | 2023-01-15 | 110 | 9 | 
 | 2023-01-14 | 110 | 9 | 
-| 2023-01-13 | 110 | 9 | 
 

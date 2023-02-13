@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 12
 
 ☋ Forks: 1649
 
-★ Stars: 9731
+★ Stars: 9732
 
 [Open repository](https://github.com/jojoldu/junior-recruit-scheduler)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 9731 | 1649 | 
+| 2023-02-12 | 9732 | 1649 | 
 | 2023-02-11 | 9730 | 1649 | 
 | 2023-02-10 | 9727 | 1647 | 
 | 2023-02-09 | 9705 | 1637 | 

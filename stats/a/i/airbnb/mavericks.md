@@ -1,6 +1,6 @@
 # airbnb/mavericks - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 435
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5209 | 435 | 
 | 2023-02-11 | 5209 | 435 | 
 | 2023-02-10 | 5207 | 434 | 
 | 2023-02-09 | 5204 | 434 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 5181 | 432 | 
 | 2023-01-15 | 5181 | 432 | 
 | 2023-01-14 | 5179 | 432 | 
-| 2023-01-13 | 5179 | 432 | 
 

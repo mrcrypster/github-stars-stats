@@ -1,8 +1,8 @@
 # wasimreja/book-finder - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 134
+☋ Forks: 137
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 83 | 137 | 
 | 2023-02-11 | 83 | 134 | 
 | 2023-02-10 | 78 | 130 | 
 | 2023-02-09 | 79 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 80 | 130 | 
 | 2023-01-15 | 80 | 130 | 
 | 2023-01-14 | 80 | 131 | 
-| 2023-01-13 | 80 | 131 | 
 

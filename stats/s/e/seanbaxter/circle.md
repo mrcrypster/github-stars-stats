@@ -1,10 +1,10 @@
 # seanbaxter/circle - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 58
 
-★ Stars: 1696
+★ Stars: 1700
 
 [Open repository](https://github.com/seanbaxter/circle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1700 | 58 | 
 | 2023-02-11 | 1696 | 58 | 
 | 2023-02-10 | 1689 | 59 | 
 | 2023-02-09 | 1677 | 58 | 

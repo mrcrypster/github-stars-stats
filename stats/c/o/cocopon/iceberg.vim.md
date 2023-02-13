@@ -1,10 +1,10 @@
 # cocopon/iceberg.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 127
+☋ Forks: 126
 
-★ Stars: 1971
+★ Stars: 1972
 
 [Open repository](https://github.com/cocopon/iceberg.vim)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1972 | 126 | 
+| 2023-02-12 | 1971 | 126 | 
 | 2023-02-11 | 1971 | 127 | 
 | 2023-02-10 | 1971 | 127 | 
 | 2023-02-09 | 1971 | 127 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1954 | 127 | 
 | 2023-01-15 | 1954 | 127 | 
 | 2023-01-14 | 1954 | 127 | 
-| 2023-01-13 | 1953 | 127 | 
 

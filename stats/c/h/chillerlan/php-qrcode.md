@@ -1,10 +1,10 @@
 # chillerlan/php-qrcode - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 207
 
-★ Stars: 1239
+★ Stars: 1240
 
 [Open repository](https://github.com/chillerlan/php-qrcode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1240 | 207 | 
 | 2023-02-11 | 1239 | 207 | 
 | 2023-02-10 | 1238 | 206 | 
 | 2023-02-09 | 1238 | 206 | 

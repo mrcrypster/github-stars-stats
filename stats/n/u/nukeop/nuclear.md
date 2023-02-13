@@ -1,10 +1,10 @@
 # nukeop/nuclear - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 897
 
-★ Stars: 9823
+★ Stars: 9828
 
 [Open repository](https://github.com/nukeop/nuclear)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 9828 | 897 | 
 | 2023-02-11 | 9823 | 897 | 
 | 2023-02-10 | 9818 | 896 | 
 | 2023-02-09 | 9817 | 896 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 9722 | 884 | 
 | 2023-01-15 | 9720 | 884 | 
 | 2023-01-14 | 9716 | 884 | 
-| 2023-01-13 | 9714 | 883 | 
 

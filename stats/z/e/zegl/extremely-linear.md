@@ -1,6 +1,6 @@
 # zegl/extremely-linear - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 338 | 7 | 
 | 2023-02-11 | 338 | 7 | 
 | 2023-02-10 | 337 | 7 | 
 | 2023-02-09 | 337 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 325 | 7 | 
 | 2023-01-15 | 325 | 7 | 
 | 2023-01-14 | 325 | 7 | 
-| 2023-01-13 | 324 | 7 | 
 

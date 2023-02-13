@@ -1,10 +1,10 @@
 # google/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 989
 
-★ Stars: 2784
+★ Stars: 2785
 
 [Open repository](https://github.com/google/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2785 | 989 | 
 | 2023-02-11 | 2784 | 989 | 
 | 2023-02-10 | 2784 | 989 | 
 | 2023-02-09 | 2784 | 988 | 

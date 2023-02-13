@@ -1,10 +1,10 @@
 # vmware-samples/euc-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 142
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/vmware-samples/euc-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 236 | 142 | 
 | 2023-02-11 | 235 | 142 | 
 | 2023-02-10 | 235 | 142 | 
 | 2023-02-08 | 235 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 234 | 141 | 
 | 2023-01-15 | 234 | 141 | 
 | 2023-01-14 | 234 | 141 | 
-| 2023-01-13 | 234 | 141 | 
 

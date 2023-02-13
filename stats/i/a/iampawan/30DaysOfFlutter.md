@@ -1,6 +1,6 @@
 # iampawan/30DaysOfFlutter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 335 | 309 | 
 | 2023-02-11 | 335 | 309 | 
 | 2023-02-10 | 335 | 308 | 
 | 2023-02-09 | 336 | 308 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 331 | 303 | 
 | 2023-01-15 | 331 | 303 | 
 | 2023-01-14 | 330 | 303 | 
-| 2023-01-13 | 330 | 303 | 
 

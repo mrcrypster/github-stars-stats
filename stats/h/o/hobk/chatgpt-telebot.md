@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 12
 
 ☋ Forks: 35
 
-★ Stars: 141
+★ Stars: 144
 
 [Open repository](https://github.com/hobk/chatgpt-telebot)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 141 | 35 | 
+| 2023-02-12 | 144 | 35 | 
 | 2023-02-11 | 141 | 35 | 
 

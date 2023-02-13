@@ -1,10 +1,10 @@
 # gushmazuko/metasploit_in_termux - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 220
 
-★ Stars: 1016
+★ Stars: 1018
 
 [Open repository](https://github.com/gushmazuko/metasploit_in_termux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1018 | 220 | 
 | 2023-02-11 | 1016 | 220 | 
 | 2023-02-10 | 1015 | 220 | 
 | 2023-02-09 | 1015 | 220 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 991 | 214 | 
 | 2023-01-15 | 991 | 214 | 
 | 2023-01-14 | 990 | 214 | 
-| 2023-01-13 | 989 | 214 | 
 

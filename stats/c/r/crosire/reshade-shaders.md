@@ -1,10 +1,10 @@
 # crosire/reshade-shaders - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 344
+☋ Forks: 345
 
-★ Stars: 803
+★ Stars: 807
 
 [Open repository](https://github.com/crosire/reshade-shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 807 | 345 | 
 | 2023-02-11 | 803 | 344 | 
 | 2023-02-10 | 803 | 343 | 
 | 2023-02-09 | 803 | 343 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 788 | 335 | 
 | 2023-01-15 | 787 | 335 | 
 | 2023-01-14 | 787 | 335 | 
-| 2023-01-13 | 786 | 335 | 
 

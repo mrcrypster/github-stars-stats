@@ -1,6 +1,6 @@
 # wp-cli/media-command - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 40 | 33 | 
 | 2023-02-11 | 40 | 33 | 
 | 2023-02-09 | 40 | 33 | 
 | 2023-02-08 | 40 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 40 | 33 | 
 | 2023-01-15 | 40 | 33 | 
 | 2023-01-14 | 40 | 33 | 
-| 2023-01-13 | 40 | 33 | 
 

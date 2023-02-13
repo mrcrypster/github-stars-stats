@@ -1,8 +1,8 @@
 # InvisiblePro/Hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 143
+☋ Forks: 142
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 31 | 142 | 
 | 2023-02-11 | 31 | 143 | 
 | 2023-02-10 | 31 | 143 | 
 | 2023-02-09 | 31 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 31 | 147 | 
 | 2023-01-16 | 31 | 147 | 
 | 2023-01-15 | 31 | 147 | 
-| 2023-01-13 | 31 | 147 | 
 

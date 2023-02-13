@@ -1,10 +1,10 @@
 # Vectopus/Atlas-icons-font - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 7
 
-★ Stars: 185
+★ Stars: 187
 
 [Open repository](https://github.com/Vectopus/Atlas-icons-font)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 187 | 7 | 
 | 2023-02-11 | 185 | 7 | 
 | 2023-02-10 | 183 | 7 | 
 | 2023-02-09 | 181 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 74 | 2 | 
 | 2023-01-15 | 71 | 2 | 
 | 2023-01-14 | 70 | 2 | 
-| 2023-01-13 | 70 | 2 | 
 

@@ -1,6 +1,6 @@
 # kubernetes/node-problem-detector - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 526
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2236 | 526 | 
 | 2023-02-11 | 2236 | 526 | 
 | 2023-02-10 | 2235 | 527 | 
 | 2023-02-09 | 2235 | 527 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 2205 | 522 | 
 | 2023-01-15 | 2204 | 522 | 
 | 2023-01-14 | 2203 | 522 | 
-| 2023-01-13 | 2201 | 521 | 
 

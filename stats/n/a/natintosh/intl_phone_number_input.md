@@ -1,10 +1,10 @@
 # natintosh/intl_phone_number_input - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 345
+☋ Forks: 347
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/natintosh/intl_phone_number_input)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 139 | 347 | 
 | 2023-02-11 | 138 | 345 | 
 | 2023-02-10 | 138 | 345 | 
 | 2023-02-09 | 138 | 346 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 138 | 340 | 
 | 2023-01-15 | 138 | 340 | 
 | 2023-01-14 | 138 | 340 | 
-| 2023-01-13 | 138 | 340 | 
 

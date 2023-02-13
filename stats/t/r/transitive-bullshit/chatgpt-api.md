@@ -1,10 +1,10 @@
 # transitive-bullshit/chatgpt-api - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 896
+☋ Forks: 919
 
-★ Stars: 7809
+★ Stars: 7948
 
 [Open repository](https://github.com/transitive-bullshit/chatgpt-api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 7948 | 919 | 
 | 2023-02-11 | 7809 | 896 | 
 | 2023-02-10 | 7697 | 878 | 
 | 2023-02-09 | 7587 | 861 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 5351 | 568 | 
 | 2023-01-15 | 5307 | 565 | 
 | 2023-01-14 | 5267 | 561 | 
-| 2023-01-13 | 5213 | 556 | 
 

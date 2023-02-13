@@ -1,10 +1,10 @@
 # hehonghui/awesome-english-ebooks - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 371
+☋ Forks: 370
 
-★ Stars: 4513
+★ Stars: 4526
 
 [Open repository](https://github.com/hehonghui/awesome-english-ebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4526 | 370 | 
 | 2023-02-11 | 4513 | 371 | 
 | 2023-02-10 | 4505 | 369 | 
 | 2023-02-09 | 4501 | 369 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 4165 | 331 | 
 | 2023-01-15 | 4135 | 328 | 
 | 2023-01-14 | 4110 | 326 | 
-| 2023-01-13 | 4088 | 324 | 
 

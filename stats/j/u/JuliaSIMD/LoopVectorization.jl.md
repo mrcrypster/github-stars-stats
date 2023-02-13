@@ -1,10 +1,10 @@
 # JuliaSIMD/LoopVectorization.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 54
 
-★ Stars: 638
+★ Stars: 637
 
 [Open repository](https://github.com/JuliaSIMD/LoopVectorization.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 637 | 54 | 
 | 2023-02-11 | 638 | 54 | 
 | 2023-02-10 | 638 | 54 | 
 | 2023-02-08 | 638 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 625 | 56 | 
 | 2023-01-15 | 625 | 56 | 
 | 2023-01-14 | 625 | 56 | 
-| 2023-01-13 | 625 | 56 | 
 

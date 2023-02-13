@@ -1,6 +1,6 @@
 # kubeflow/pipelines - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1377
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3099 | 1377 | 
 | 2023-02-11 | 3099 | 1377 | 
 | 2023-02-10 | 3099 | 1376 | 
 | 2023-02-09 | 3098 | 1376 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3085 | 1371 | 
 | 2023-01-15 | 3084 | 1371 | 
 | 2023-01-14 | 3084 | 1371 | 
-| 2023-01-13 | 3084 | 1371 | 
 

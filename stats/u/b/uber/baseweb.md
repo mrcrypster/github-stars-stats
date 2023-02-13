@@ -1,10 +1,10 @@
 # uber/baseweb - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 797
+☋ Forks: 798
 
-★ Stars: 8177
+★ Stars: 8180
 
 [Open repository](https://github.com/uber/baseweb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 8180 | 798 | 
 | 2023-02-11 | 8177 | 797 | 
 | 2023-02-10 | 8176 | 797 | 
 | 2023-02-09 | 8175 | 797 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 8151 | 792 | 
 | 2023-01-15 | 8147 | 792 | 
 | 2023-01-14 | 8146 | 792 | 
-| 2023-01-13 | 8143 | 791 | 
 

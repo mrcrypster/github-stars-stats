@@ -1,6 +1,6 @@
 # chall32/LDWin - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 271 | 36 | 
 | 2023-02-11 | 271 | 36 | 
 | 2023-02-10 | 271 | 36 | 
 | 2023-02-09 | 270 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 266 | 36 | 
 | 2023-01-15 | 266 | 36 | 
 | 2023-01-14 | 266 | 36 | 
-| 2023-01-13 | 265 | 36 | 
 

@@ -1,10 +1,10 @@
 # KasRoudra/CamHacker - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 77
 
-★ Stars: 668
+★ Stars: 669
 
 [Open repository](https://github.com/KasRoudra/CamHacker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 669 | 77 | 
 | 2023-02-11 | 668 | 77 | 
 | 2023-02-10 | 667 | 77 | 
 | 2023-02-09 | 667 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 640 | 70 | 
 | 2023-01-15 | 639 | 70 | 
 | 2023-01-14 | 639 | 70 | 
-| 2023-01-13 | 637 | 70 | 
 

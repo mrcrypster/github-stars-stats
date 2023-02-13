@@ -1,6 +1,6 @@
 # sikaeducation/dom-calculator - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | - | 19 | 
 | 2023-02-11 | - | 19 | 
 | 2023-02-10 | - | 19 | 
 | 2023-02-08 | - | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | - | 19 | 
 | 2023-01-15 | - | 19 | 
 | 2023-01-14 | - | 19 | 
-| 2023-01-13 | - | 19 | 
 

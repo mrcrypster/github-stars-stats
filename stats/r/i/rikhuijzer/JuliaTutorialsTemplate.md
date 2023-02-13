@@ -1,10 +1,10 @@
 # rikhuijzer/JuliaTutorialsTemplate - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/rikhuijzer/JuliaTutorialsTemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 58 | 2 | 
 | 2023-02-11 | 57 | 2 | 
 | 2023-02-10 | 57 | 2 | 
 | 2023-02-09 | 56 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 55 | 2 | 
 | 2023-01-15 | 55 | 2 | 
 | 2023-01-14 | 55 | 2 | 
-| 2023-01-13 | 55 | 2 | 
 

@@ -1,10 +1,10 @@
 # sahat/hackathon-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 8070
+☋ Forks: 8069
 
-★ Stars: 34011
+★ Stars: 34014
 
 [Open repository](https://github.com/sahat/hackathon-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 34014 | 8069 | 
 | 2023-02-11 | 34011 | 8070 | 
 | 2023-02-10 | 34010 | 8069 | 
 | 2023-02-09 | 34010 | 8067 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 33979 | 8057 | 
 | 2023-01-15 | 33977 | 8057 | 
 | 2023-01-14 | 33977 | 8058 | 
-| 2023-01-13 | 33976 | 8056 | 
 

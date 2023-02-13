@@ -1,6 +1,6 @@
 # actions/runner - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 776
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3498 | 776 | 
 | 2023-02-11 | 3498 | 776 | 
 | 2023-02-10 | 3496 | 776 | 
 | 2023-02-09 | 3492 | 773 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3400 | 762 | 
 | 2023-01-15 | 3398 | 761 | 
 | 2023-01-14 | 3397 | 760 | 
-| 2023-01-13 | 3396 | 760 | 
 

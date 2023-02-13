@@ -1,10 +1,10 @@
 # ossu/data-science - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 2825
+☋ Forks: 2824
 
-★ Stars: 16227
+★ Stars: 16230
 
 [Open repository](https://github.com/ossu/data-science)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 16230 | 2824 | 
 | 2023-02-11 | 16227 | 2825 | 
 | 2023-02-10 | 16224 | 2825 | 
 | 2023-02-08 | 16217 | 2823 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 16090 | 2811 | 
 | 2023-01-15 | 16084 | 2810 | 
 | 2023-01-14 | 16081 | 2810 | 
-| 2023-01-13 | 16074 | 2809 | 
 

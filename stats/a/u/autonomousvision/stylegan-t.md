@@ -1,10 +1,10 @@
 # autonomousvision/stylegan-t - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 10
 
-★ Stars: 425
+★ Stars: 427
 
 [Open repository](https://github.com/autonomousvision/stylegan-t)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 427 | 10 | 
 | 2023-02-11 | 425 | 10 | 
 | 2023-02-10 | 424 | 10 | 
 | 2023-02-09 | 422 | 10 | 

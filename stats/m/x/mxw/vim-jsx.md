@@ -1,6 +1,6 @@
 # mxw/vim-jsx - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1590 | 99 | 
 | 2023-02-11 | 1590 | 99 | 
 | 2023-02-10 | 1590 | 99 | 
 | 2023-02-09 | 1589 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 1591 | 99 | 
 | 2023-01-16 | 1591 | 99 | 
 | 2023-01-14 | 1591 | 99 | 
-| 2023-01-13 | 1591 | 99 | 
 

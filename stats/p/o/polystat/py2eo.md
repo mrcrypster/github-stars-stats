@@ -1,6 +1,6 @@
 # polystat/py2eo - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 9 | 5 | 
 | 2023-02-11 | 9 | 5 | 
 | 2023-02-09 | 9 | 5 | 
 | 2023-02-08 | 9 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 9 | 5 | 
 | 2023-01-15 | 9 | 5 | 
 | 2023-01-14 | 9 | 5 | 
-| 2023-01-13 | 9 | 5 | 
 

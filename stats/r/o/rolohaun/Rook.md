@@ -1,10 +1,10 @@
 # rolohaun/Rook - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/rolohaun/Rook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 254 | 32 | 
 | 2023-02-11 | 253 | 31 | 
 | 2023-02-10 | 253 | 31 | 
 | 2023-02-09 | 252 | 31 | 

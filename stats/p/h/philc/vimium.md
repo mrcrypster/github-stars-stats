@@ -1,10 +1,10 @@
 # philc/vimium - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 2353
+☋ Forks: 2355
 
-★ Stars: 19491
+★ Stars: 19494
 
 [Open repository](https://github.com/philc/vimium)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 19494 | 2355 | 
 | 2023-02-11 | 19491 | 2353 | 
 | 2023-02-09 | 19483 | 2352 | 
 | 2023-02-08 | 19480 | 2351 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 19347 | 2343 | 
 | 2023-01-15 | 19343 | 2343 | 
 | 2023-01-14 | 19338 | 2343 | 
-| 2023-01-13 | 19328 | 2341 | 
 

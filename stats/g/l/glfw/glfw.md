@@ -1,10 +1,10 @@
 # glfw/glfw - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 4109
+☋ Forks: 4114
 
-★ Stars: 10207
+★ Stars: 10211
 
 [Open repository](https://github.com/glfw/glfw)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 10211 | 4114 | 
 | 2023-02-11 | 10207 | 4109 | 
 | 2023-02-10 | 10203 | 4108 | 
 | 2023-02-09 | 10197 | 4107 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 10094 | 4074 | 
 | 2023-01-15 | 10090 | 4071 | 
 | 2023-01-14 | 10085 | 4071 | 
-| 2023-01-13 | 10086 | 4071 | 
 

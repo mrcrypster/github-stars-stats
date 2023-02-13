@@ -1,10 +1,10 @@
 # leizongmin/js-xss - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 630
 
-★ Stars: 4805
+★ Stars: 4806
 
 [Open repository](https://github.com/leizongmin/js-xss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4806 | 630 | 
 | 2023-02-11 | 4805 | 630 | 
 | 2023-02-10 | 4805 | 630 | 
 | 2023-02-09 | 4803 | 630 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 4790 | 630 | 
 | 2023-01-16 | 4789 | 629 | 
 | 2023-01-15 | 4788 | 629 | 
-| 2023-01-14 | 4787 | 629 | 
 

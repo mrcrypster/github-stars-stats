@@ -1,6 +1,6 @@
 # sni/Thruk - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 383 | 147 | 
 | 2023-02-11 | 383 | 147 | 
 | 2023-02-10 | 383 | 147 | 
 | 2023-02-09 | 383 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 385 | 147 | 
 | 2023-01-15 | 385 | 147 | 
 | 2023-01-14 | 385 | 147 | 
-| 2023-01-13 | 386 | 147 | 
 

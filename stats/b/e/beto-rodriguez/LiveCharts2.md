@@ -1,10 +1,10 @@
 # beto-rodriguez/LiveCharts2 - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 352
 
-★ Stars: 2551
+★ Stars: 2555
 
 [Open repository](https://github.com/beto-rodriguez/LiveCharts2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2555 | 352 | 
 | 2023-02-11 | 2551 | 352 | 
 | 2023-02-10 | 2549 | 351 | 
 | 2023-02-09 | 2546 | 351 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 2486 | 343 | 
 | 2023-01-15 | 2481 | 342 | 
 | 2023-01-14 | 2479 | 342 | 
-| 2023-01-13 | 2476 | 342 | 
 

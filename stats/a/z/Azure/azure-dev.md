@@ -1,10 +1,10 @@
 # Azure/azure-dev - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 67
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/Azure/azure-dev)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 189 | 67 | 
 | 2023-02-11 | 188 | 67 | 
 | 2023-02-10 | 188 | 67 | 
 | 2023-02-09 | 188 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 179 | 65 | 
 | 2023-01-15 | 179 | 65 | 
 | 2023-01-14 | 179 | 65 | 
-| 2023-01-13 | 179 | 64 | 
 

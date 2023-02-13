@@ -1,6 +1,6 @@
 # kiedtl/roguelike - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 51 | 3 | 
 | 2023-02-11 | 51 | 3 | 
 | 2023-02-10 | 52 | 3 | 
 | 2023-02-08 | 52 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 48 | 3 | 
 | 2023-01-15 | 48 | 3 | 
 | 2023-01-14 | 48 | 3 | 
-| 2023-01-13 | 48 | 3 | 
 

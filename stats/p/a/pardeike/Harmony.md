@@ -1,10 +1,10 @@
 # pardeike/Harmony - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 383
+☋ Forks: 384
 
-★ Stars: 3735
+★ Stars: 3737
 
 [Open repository](https://github.com/pardeike/Harmony)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3737 | 384 | 
 | 2023-02-11 | 3735 | 383 | 
 | 2023-02-10 | 3732 | 382 | 
 | 2023-02-09 | 3729 | 381 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 3692 | 378 | 
 | 2023-01-16 | 3689 | 378 | 
 | 2023-01-15 | 3685 | 377 | 
-| 2023-01-13 | 3684 | 376 | 
 

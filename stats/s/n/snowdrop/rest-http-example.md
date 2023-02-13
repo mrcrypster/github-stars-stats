@@ -1,6 +1,6 @@
 # snowdrop/rest-http-example - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 11 | 93 | 
 | 2023-02-11 | 11 | 93 | 
 | 2023-02-10 | 11 | 93 | 
 | 2023-02-09 | 11 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 10 | 91 | 
 | 2023-01-15 | 10 | 91 | 
 | 2023-01-14 | 10 | 91 | 
-| 2023-01-13 | 10 | 91 | 
 

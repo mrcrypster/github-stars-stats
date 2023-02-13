@@ -1,10 +1,10 @@
 # SWI-Prolog/packages-http - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/SWI-Prolog/packages-http)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 21 | 18 | 
 | 2023-02-11 | 20 | 18 | 
 | 2023-02-10 | 20 | 18 | 
 | 2023-02-09 | 20 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 21 | 18 | 
 | 2023-01-15 | 21 | 18 | 
 | 2023-01-14 | 21 | 18 | 
-| 2023-01-13 | 21 | 18 | 
 

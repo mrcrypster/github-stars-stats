@@ -1,10 +1,10 @@
 # odroe/prisma-dart - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 181
+★ Stars: 183
 
 [Open repository](https://github.com/odroe/prisma-dart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 183 | 6 | 
 | 2023-02-11 | 181 | 6 | 
 | 2023-02-10 | 181 | 6 | 
 | 2023-02-09 | 179 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 169 | 7 | 
 | 2023-01-15 | 169 | 6 | 
 | 2023-01-14 | 167 | 6 | 
-| 2023-01-13 | 166 | 6 | 
 

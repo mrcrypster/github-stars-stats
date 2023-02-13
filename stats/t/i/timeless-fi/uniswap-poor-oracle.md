@@ -1,6 +1,6 @@
 # timeless-fi/uniswap-poor-oracle - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 47 | 3 | 
 | 2023-02-11 | 47 | 3 | 
 | 2023-02-10 | 47 | 3 | 
 | 2023-02-08 | 47 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 46 | 3 | 
 | 2023-01-15 | 46 | 3 | 
 | 2023-01-14 | 46 | 3 | 
-| 2023-01-13 | 45 | 3 | 
 

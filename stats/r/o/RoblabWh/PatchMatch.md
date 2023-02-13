@@ -1,10 +1,10 @@
 # RoblabWh/PatchMatch - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/RoblabWh/PatchMatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 30 | 3 | 
 | 2023-02-11 | 29 | 3 | 
 | 2023-02-10 | 29 | 3 | 
 | 2023-02-09 | 29 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 25 | 2 | 
 | 2023-01-15 | 25 | 2 | 
 | 2023-01-14 | 25 | 2 | 
-| 2023-01-13 | 25 | 2 | 
 

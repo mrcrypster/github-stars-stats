@@ -1,10 +1,10 @@
 # marklawlor/nativewind - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 99
 
-★ Stars: 1831
+★ Stars: 1833
 
 [Open repository](https://github.com/marklawlor/nativewind)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1833 | 99 | 
 | 2023-02-11 | 1831 | 99 | 
 | 2023-02-10 | 1822 | 97 | 
 | 2023-02-09 | 1813 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1656 | 81 | 
 | 2023-01-15 | 1654 | 79 | 
 | 2023-01-14 | 1647 | 79 | 
-| 2023-01-13 | 1645 | 79 | 
 

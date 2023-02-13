@@ -1,10 +1,10 @@
 # 5balloons/laravel-smart-ads - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 171
+★ Stars: 173
 
 [Open repository](https://github.com/5balloons/laravel-smart-ads)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 173 | 13 | 
 | 2023-02-11 | 171 | 12 | 
 | 2023-02-10 | 171 | 12 | 
 | 2023-02-09 | 171 | 12 | 

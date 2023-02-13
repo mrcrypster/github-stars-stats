@@ -1,10 +1,10 @@
 # facebookresearch/CutLER - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 359
+★ Stars: 361
 
 [Open repository](https://github.com/facebookresearch/CutLER)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 361 | 28 | 
 | 2023-02-11 | 359 | 27 | 
 | 2023-02-10 | 352 | 25 | 
 | 2023-02-09 | 339 | 21 | 

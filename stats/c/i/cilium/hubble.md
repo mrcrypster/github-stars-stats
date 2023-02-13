@@ -1,10 +1,10 @@
 # cilium/hubble - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 187
 
-★ Stars: 2481
+★ Stars: 2484
 
 [Open repository](https://github.com/cilium/hubble)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2484 | 187 | 
 | 2023-02-11 | 2481 | 187 | 
 | 2023-02-10 | 2477 | 186 | 
 | 2023-02-09 | 2471 | 186 | 

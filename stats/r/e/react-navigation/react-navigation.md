@@ -1,10 +1,10 @@
 # react-navigation/react-navigation - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 4847
+☋ Forks: 4848
 
-★ Stars: 22114
+★ Stars: 22118
 
 [Open repository](https://github.com/react-navigation/react-navigation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 22118 | 4848 | 
 | 2023-02-11 | 22114 | 4847 | 
 | 2023-02-10 | 22112 | 4847 | 
 | 2023-02-09 | 22107 | 4847 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 22018 | 4831 | 
 | 2023-01-15 | 22015 | 4832 | 
 | 2023-01-14 | 22014 | 4832 | 
-| 2023-01-13 | 22008 | 4832 | 
 

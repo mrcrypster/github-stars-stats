@@ -1,6 +1,6 @@
 # vmware-archive/salt-vim - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 249 | 69 | 
 | 2023-02-11 | 249 | 69 | 
 | 2023-02-10 | 249 | 69 | 
 | 2023-02-09 | 249 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 249 | 69 | 
 | 2023-01-15 | 249 | 69 | 
 | 2023-01-14 | 249 | 69 | 
-| 2023-01-13 | 249 | 69 | 
 

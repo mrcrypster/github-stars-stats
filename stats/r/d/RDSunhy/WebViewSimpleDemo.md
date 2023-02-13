@@ -1,6 +1,6 @@
 # RDSunhy/WebViewSimpleDemo - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 56 | 14 | 
 | 2023-02-11 | 56 | 14 | 
 | 2023-02-10 | 56 | 14 | 
 | 2023-02-09 | 56 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 52 | 13 | 
 | 2023-01-15 | 52 | 13 | 
 | 2023-01-14 | 51 | 13 | 
-| 2023-01-13 | 50 | 13 | 
 

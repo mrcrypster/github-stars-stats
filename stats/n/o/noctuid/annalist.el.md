@@ -1,6 +1,6 @@
 # noctuid/annalist.el - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 25 | 5 | 
 | 2023-02-11 | 25 | 5 | 
 | 2023-02-10 | 25 | 5 | 
 | 2023-02-09 | 25 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 25 | 5 | 
 | 2023-01-15 | 25 | 5 | 
 | 2023-01-14 | 25 | 5 | 
-| 2023-01-13 | 25 | 5 | 
 

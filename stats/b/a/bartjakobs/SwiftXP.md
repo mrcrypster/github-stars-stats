@@ -1,10 +1,10 @@
 # bartjakobs/SwiftXP - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/bartjakobs/SwiftXP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 93 | 3 | 
 | 2023-02-11 | 92 | 3 | 
 | 2023-02-10 | 92 | 3 | 
 | 2023-02-09 | 91 | 3 | 

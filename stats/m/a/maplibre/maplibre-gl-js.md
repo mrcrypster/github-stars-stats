@@ -1,6 +1,6 @@
 # maplibre/maplibre-gl-js - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 395
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4022 | 395 | 
 | 2023-02-11 | 4022 | 395 | 
 | 2023-02-10 | 4020 | 395 | 
 | 2023-02-09 | 4014 | 395 | 

@@ -1,10 +1,10 @@
 # simondevyoutube/Shaders_Clouds1 - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/simondevyoutube/Shaders_Clouds1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 40 | 9 | 
 | 2023-02-11 | 39 | 9 | 
 | 2023-02-10 | 38 | 9 | 
 | 2023-02-09 | 38 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 35 | 9 | 
 | 2023-01-15 | 35 | 9 | 
 | 2023-01-14 | 35 | 9 | 
-| 2023-01-13 | 35 | 9 | 
 

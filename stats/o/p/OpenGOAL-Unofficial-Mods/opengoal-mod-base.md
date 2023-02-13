@@ -1,6 +1,6 @@
 # OpenGOAL-Unofficial-Mods/opengoal-mod-base - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5 | 20 | 
 | 2023-02-11 | 5 | 20 | 
 | 2023-02-10 | 5 | 19 | 
 | 2023-02-09 | 5 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 4 | 17 | 
 | 2023-01-15 | 4 | 17 | 
 | 2023-01-14 | 4 | 17 | 
-| 2023-01-13 | 4 | 17 | 
 

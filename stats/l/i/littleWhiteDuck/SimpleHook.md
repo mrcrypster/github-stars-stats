@@ -1,10 +1,10 @@
 # littleWhiteDuck/SimpleHook - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 29
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/littleWhiteDuck/SimpleHook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 253 | 29 | 
 | 2023-02-11 | 252 | 29 | 
 | 2023-02-10 | 250 | 28 | 
 | 2023-02-09 | 251 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 219 | 28 | 
 | 2023-01-15 | 216 | 28 | 
 | 2023-01-14 | 216 | 28 | 
-| 2023-01-13 | 214 | 28 | 
 

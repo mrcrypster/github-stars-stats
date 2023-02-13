@@ -1,10 +1,10 @@
 # leminlimez/Cowabunga - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 18
 
-★ Stars: 361
+★ Stars: 422
 
 [Open repository](https://github.com/leminlimez/Cowabunga)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 422 | 18 | 
 | 2023-02-11 | 361 | 18 | 
 | 2023-02-10 | 323 | 14 | 
 | 2023-02-09 | 302 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 129 | 2 | 
 | 2023-01-15 | 127 | 2 | 
 | 2023-01-14 | 125 | 2 | 
-| 2023-01-13 | 106 | 2 | 
 

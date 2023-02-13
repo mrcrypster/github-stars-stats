@@ -1,10 +1,10 @@
 # koenverburg/peepsight.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/koenverburg/peepsight.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 59 | - | 
 | 2023-02-11 | 58 | - | 
 | 2023-02-10 | 57 | - | 
 | 2023-02-09 | 57 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 57 | - | 
 | 2023-01-15 | 57 | - | 
 | 2023-01-14 | 57 | - | 
-| 2023-01-13 | 57 | - | 
 

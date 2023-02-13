@@ -1,10 +1,10 @@
 # Dr-TSNG/Hide-My-Applist - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
-☋ Forks: 122
+☋ Forks: 124
 
-★ Stars: 1318
+★ Stars: 1319
 
 [Open repository](https://github.com/Dr-TSNG/Hide-My-Applist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1319 | 124 | 
 | 2023-02-10 | 1318 | 122 | 
 | 2023-02-09 | 1315 | 122 | 
 | 2023-02-08 | 1314 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 1265 | 115 | 
 | 2023-01-15 | 1263 | 115 | 
 | 2023-01-14 | 1260 | 115 | 
-| 2023-01-13 | 1259 | 115 | 
 

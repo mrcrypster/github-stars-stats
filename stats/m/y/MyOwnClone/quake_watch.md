@@ -1,10 +1,10 @@
 # MyOwnClone/quake_watch - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 30
 
-★ Stars: 724
+★ Stars: 725
 
 [Open repository](https://github.com/MyOwnClone/quake_watch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 725 | 30 | 
 | 2023-02-11 | 724 | 30 | 
 | 2023-02-10 | 724 | 30 | 
 | 2023-02-09 | 724 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 724 | 29 | 
 | 2023-01-15 | 724 | 29 | 
 | 2023-01-14 | 724 | 29 | 
-| 2023-01-13 | 721 | 29 | 
 

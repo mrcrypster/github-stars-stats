@@ -1,10 +1,10 @@
 # itorr/eva-title - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 616
+★ Stars: 617
 
 [Open repository](https://github.com/itorr/eva-title)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 617 | 30 | 
 | 2023-02-11 | 616 | 30 | 
 | 2023-02-10 | 616 | 30 | 
 | 2023-02-09 | 614 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 592 | 29 | 
 | 2023-01-15 | 592 | 29 | 
 | 2023-01-14 | 592 | 29 | 
-| 2023-01-13 | 591 | 29 | 
 

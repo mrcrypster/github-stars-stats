@@ -1,6 +1,6 @@
 # ihaveamac/ctr-no-timeoffset - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 128 | 9 | 
 | 2023-02-11 | 128 | 9 | 
 | 2023-02-10 | 128 | 9 | 
 | 2023-02-09 | 128 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 127 | 9 | 
 | 2023-01-15 | 127 | 9 | 
 | 2023-01-14 | 127 | 9 | 
-| 2023-01-13 | 127 | 9 | 
 

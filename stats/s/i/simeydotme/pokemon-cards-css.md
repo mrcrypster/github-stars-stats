@@ -1,10 +1,10 @@
 # simeydotme/pokemon-cards-css - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 315
+☋ Forks: 316
 
-★ Stars: 3462
+★ Stars: 3465
 
 [Open repository](https://github.com/simeydotme/pokemon-cards-css)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3465 | 316 | 
 | 2023-02-11 | 3462 | 315 | 
 | 2023-02-10 | 3462 | 313 | 
 | 2023-02-09 | 3458 | 313 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3325 | 299 | 
 | 2023-01-15 | 3315 | 295 | 
 | 2023-01-14 | 3302 | 294 | 
-| 2023-01-13 | 3289 | 293 | 
 

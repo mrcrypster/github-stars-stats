@@ -1,6 +1,6 @@
 # devbyaccident/demo-shared-pipeline - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 15 | 251 | 
 | 2023-02-11 | 15 | 251 | 
 | 2023-02-10 | 15 | 251 | 
 | 2023-02-08 | 15 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 15 | 249 | 
 | 2023-01-15 | 15 | 250 | 
 | 2023-01-14 | 15 | 250 | 
-| 2023-01-13 | 15 | 250 | 
 

@@ -1,10 +1,10 @@
 # RamiKrispin/uselectricity-etl - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 24
+★ Stars: 23
 
 [Open repository](https://github.com/RamiKrispin/uselectricity-etl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 23 | 2 | 
 | 2023-02-11 | 24 | 2 | 
 | 2023-02-10 | 24 | 2 | 
 | 2023-02-08 | 24 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 24 | 2 | 
 | 2023-01-15 | 24 | 2 | 
 | 2023-01-14 | 24 | 2 | 
-| 2023-01-13 | 24 | 2 | 
 

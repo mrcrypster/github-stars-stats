@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 12
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 26
+★ Stars: 29
 
 [Open repository](https://github.com/RodrigoSantanaFerreira/bootcamp-de-01)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 26 | 21 | 
+| 2023-02-12 | 29 | 25 | 
 | 2023-02-11 | 25 | 20 | 
 

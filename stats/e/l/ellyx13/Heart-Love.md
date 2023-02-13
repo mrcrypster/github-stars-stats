@@ -1,10 +1,10 @@
 # ellyx13/Heart-Love - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 45
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/ellyx13/Heart-Love)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 15 | 45 | 
 | 2023-02-11 | 14 | 45 | 
 | 2023-02-10 | 14 | 45 | 
 | 2023-02-09 | 14 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 13 | 45 | 
 | 2023-01-15 | 13 | 45 | 
 | 2023-01-14 | 13 | 45 | 
-| 2023-01-13 | 13 | 45 | 
 

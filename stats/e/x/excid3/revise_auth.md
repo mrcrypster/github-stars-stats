@@ -1,10 +1,10 @@
 # excid3/revise_auth - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 171
+★ Stars: 177
 
 [Open repository](https://github.com/excid3/revise_auth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 177 | 15 | 
 | 2023-02-11 | 171 | 15 | 
 | 2023-02-09 | 170 | 14 | 
 | 2023-02-08 | 168 | 14 | 

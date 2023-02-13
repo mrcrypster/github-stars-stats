@@ -1,6 +1,6 @@
 # abhisheks008/DL-Simplified - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 61 | 78 | 
 | 2023-02-11 | 61 | 78 | 
 | 2023-02-10 | 61 | 78 | 
 | 2023-02-09 | 61 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 56 | 70 | 
 | 2023-01-15 | 56 | 70 | 
 | 2023-01-14 | 56 | 69 | 
-| 2023-01-13 | 56 | 68 | 
 

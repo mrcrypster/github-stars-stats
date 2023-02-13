@@ -1,6 +1,6 @@
 # oe-alliance/oe-alliance-core - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 156 | 175 | 
 | 2023-02-11 | 156 | 175 | 
 | 2023-02-10 | 155 | 174 | 
 | 2023-02-09 | 155 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 152 | 174 | 
 | 2023-01-15 | 150 | 176 | 
 | 2023-01-14 | 150 | 175 | 
-| 2023-01-13 | 150 | 175 | 
 

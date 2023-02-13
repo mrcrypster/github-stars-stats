@@ -1,10 +1,10 @@
 # medusajs/medusa - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1150
+☋ Forks: 1151
 
-★ Stars: 16940
+★ Stars: 16956
 
 [Open repository](https://github.com/medusajs/medusa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 16956 | 1151 | 
 | 2023-02-11 | 16940 | 1150 | 
 | 2023-02-10 | 16928 | 1150 | 
 | 2023-02-09 | 16858 | 1144 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 16311 | 1082 | 
 | 2023-01-15 | 16289 | 1081 | 
 | 2023-01-14 | 16271 | 1079 | 
-| 2023-01-13 | 16254 | 1077 | 
 

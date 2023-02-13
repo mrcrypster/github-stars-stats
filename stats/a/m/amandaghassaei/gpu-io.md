@@ -1,10 +1,10 @@
 # amandaghassaei/gpu-io - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 29
 
-★ Stars: 958
+★ Stars: 959
 
 [Open repository](https://github.com/amandaghassaei/gpu-io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 959 | 29 | 
 | 2023-02-11 | 958 | 29 | 
 | 2023-02-10 | 954 | 29 | 
 | 2023-02-09 | 953 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 784 | 24 | 
 | 2023-01-16 | 782 | 24 | 
 | 2023-01-15 | 782 | 24 | 
-| 2023-01-14 | 781 | 24 | 
 

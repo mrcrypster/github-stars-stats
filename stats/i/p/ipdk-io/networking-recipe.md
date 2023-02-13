@@ -1,6 +1,6 @@
 # ipdk-io/networking-recipe - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 14 | 8 | 
 | 2023-02-11 | 14 | 8 | 
 | 2023-02-10 | 14 | 8 | 
 | 2023-02-09 | 14 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 12 | 6 | 
 | 2023-01-15 | 12 | 6 | 
 | 2023-01-14 | 12 | 6 | 
-| 2023-01-13 | 12 | 6 | 
 

@@ -1,6 +1,6 @@
 # BIC-MNI/bic-pipelines - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 12 | 5 | 
 | 2023-02-11 | 12 | 5 | 
 | 2023-02-10 | 12 | 5 | 
 | 2023-02-09 | 12 | 5 | 

@@ -1,10 +1,10 @@
 # GoldenCheetah/GoldenCheetah - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 435
 
-★ Stars: 1552
+★ Stars: 1553
 
 [Open repository](https://github.com/GoldenCheetah/GoldenCheetah)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1553 | 435 | 
 | 2023-02-11 | 1552 | 435 | 
 | 2023-02-10 | 1551 | 435 | 
 | 2023-02-09 | 1550 | 435 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1540 | 432 | 
 | 2023-01-15 | 1536 | 432 | 
 | 2023-01-14 | 1533 | 432 | 
-| 2023-01-13 | 1533 | 432 | 
 

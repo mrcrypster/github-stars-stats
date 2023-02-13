@@ -1,6 +1,6 @@
 # sparanoid/almace-scaffolding - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 307 | 180 | 
 | 2023-02-11 | 307 | 180 | 
 | 2023-02-10 | 307 | 180 | 
 | 2023-02-09 | 307 | 180 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 304 | 181 | 
 | 2023-01-15 | 304 | 181 | 
 | 2023-01-14 | 304 | 181 | 
-| 2023-01-13 | 304 | 180 | 
 

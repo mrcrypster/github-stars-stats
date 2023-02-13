@@ -1,6 +1,6 @@
 # navinlabcode/CellTrek - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 62 | 16 | 
 | 2023-02-11 | 62 | 16 | 
 | 2023-02-10 | 62 | 16 | 
 | 2023-02-08 | 62 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 60 | 17 | 
 | 2023-01-15 | 60 | 17 | 
 | 2023-01-14 | 60 | 17 | 
-| 2023-01-13 | 60 | 17 | 
 

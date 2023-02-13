@@ -1,8 +1,8 @@
 # kubernetes-sigs/controller-runtime - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 915
+☋ Forks: 916
 
 ★ Stars: 1846
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1846 | 916 | 
 | 2023-02-11 | 1846 | 915 | 
 | 2023-02-10 | 1846 | 915 | 
 | 2023-02-09 | 1844 | 915 | 

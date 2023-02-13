@@ -1,10 +1,10 @@
 # Clowfoe/IMPOSTOR-UPDATE - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/Clowfoe/IMPOSTOR-UPDATE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 71 | 126 | 
 | 2023-02-11 | 70 | 125 | 
 | 2023-02-10 | 67 | 124 | 
 | 2023-02-09 | 67 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 50 | 87 | 
 | 2023-01-15 | 50 | 85 | 
 | 2023-01-14 | 45 | 84 | 
-| 2023-01-13 | 42 | 82 | 
 

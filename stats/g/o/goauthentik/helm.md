@@ -1,6 +1,6 @@
 # goauthentik/helm - stars & forks statistics
 
-Stats updated on Feb 2023, 10
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 39 | 25 | 
 | 2023-02-10 | 39 | 25 | 
 | 2023-02-09 | 39 | 25 | 
 | 2023-02-08 | 39 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 10
 | 2023-01-16 | 39 | 25 | 
 | 2023-01-15 | 39 | 25 | 
 | 2023-01-14 | 39 | 25 | 
-| 2023-01-13 | 39 | 25 | 
 

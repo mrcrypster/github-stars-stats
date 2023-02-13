@@ -1,6 +1,6 @@
 # enblacar/SCpubr - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 56 | 2 | 
 | 2023-02-11 | 56 | 2 | 
 | 2023-02-10 | 55 | 2 | 
 | 2023-02-09 | 54 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 50 | 2 | 
 | 2023-01-15 | 50 | 2 | 
 | 2023-01-14 | 50 | 2 | 
-| 2023-01-13 | 50 | 2 | 
 

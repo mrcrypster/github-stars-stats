@@ -1,8 +1,8 @@
 # sosedoff/pgweb - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 642
+☋ Forks: 643
 
 ★ Stars: 7657
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 7657 | 643 | 
 | 2023-02-11 | 7657 | 642 | 
 | 2023-02-10 | 7657 | 642 | 
 | 2023-02-09 | 7656 | 641 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 7635 | 633 | 
 | 2023-01-15 | 7634 | 631 | 
 | 2023-01-14 | 7633 | 631 | 
-| 2023-01-13 | 7632 | 631 | 
 

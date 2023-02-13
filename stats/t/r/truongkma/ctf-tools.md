@@ -1,10 +1,10 @@
 # truongkma/ctf-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 434
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/truongkma/ctf-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 616 | 434 | 
 | 2023-02-11 | 615 | 434 | 
 | 2023-02-10 | 615 | 434 | 
 | 2023-02-09 | 615 | 433 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 609 | 433 | 
 | 2023-01-15 | 609 | 433 | 
 | 2023-01-14 | 609 | 433 | 
-| 2023-01-13 | 609 | 433 | 
 

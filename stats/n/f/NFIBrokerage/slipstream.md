@@ -1,10 +1,10 @@
 # NFIBrokerage/slipstream - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/NFIBrokerage/slipstream)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 107 | 11 | 
 | 2023-02-11 | 106 | 11 | 
 | 2023-02-10 | 106 | 11 | 
 | 2023-02-09 | 106 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 101 | 11 | 
 | 2023-01-15 | 101 | 11 | 
 | 2023-01-14 | 101 | 11 | 
-| 2023-01-13 | 101 | 11 | 
 

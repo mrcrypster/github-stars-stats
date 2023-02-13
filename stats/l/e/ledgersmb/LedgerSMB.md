@@ -1,10 +1,10 @@
 # ledgersmb/LedgerSMB - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 133
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/ledgersmb/LedgerSMB)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 311 | 133 | 
 | 2023-02-11 | 310 | 133 | 
 | 2023-02-10 | 310 | 133 | 
 | 2023-02-09 | 311 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 311 | 132 | 
 | 2023-01-15 | 310 | 133 | 
 | 2023-01-14 | 310 | 133 | 
-| 2023-01-13 | 310 | 133 | 
 

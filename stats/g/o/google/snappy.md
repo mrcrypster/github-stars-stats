@@ -1,8 +1,8 @@
 # google/snappy - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 947
+☋ Forks: 946
 
 ★ Stars: 5548
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5548 | 946 | 
 | 2023-02-11 | 5548 | 947 | 
 | 2023-02-10 | 5546 | 946 | 
 | 2023-02-09 | 5546 | 945 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 5524 | 936 | 
 | 2023-01-15 | 5523 | 936 | 
 | 2023-01-14 | 5522 | 936 | 
-| 2023-01-13 | 5522 | 936 | 
 

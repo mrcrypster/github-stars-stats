@@ -1,10 +1,10 @@
 # abecodes/tabout.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 453
+★ Stars: 454
 
 [Open repository](https://github.com/abecodes/tabout.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 454 | 9 | 
 | 2023-02-11 | 453 | 9 | 
 | 2023-02-09 | 452 | 9 | 
 | 2023-02-08 | 451 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 446 | 9 | 
 | 2023-01-15 | 445 | 9 | 
 | 2023-01-14 | 445 | 9 | 
-| 2023-01-13 | 445 | 9 | 
 

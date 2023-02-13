@@ -1,10 +1,10 @@
 # emacs-tree-sitter/elisp-tree-sitter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 65
 
-★ Stars: 748
+★ Stars: 749
 
 [Open repository](https://github.com/emacs-tree-sitter/elisp-tree-sitter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 749 | 65 | 
 | 2023-02-11 | 748 | 65 | 
 | 2023-02-10 | 748 | 65 | 
 | 2023-02-09 | 748 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 742 | 66 | 
 | 2023-01-15 | 740 | 66 | 
 | 2023-01-14 | 739 | 66 | 
-| 2023-01-13 | 739 | 66 | 
 

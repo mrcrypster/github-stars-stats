@@ -1,10 +1,10 @@
 # chidiwilliams/buzz - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 117
+☋ Forks: 119
 
-★ Stars: 2351
+★ Stars: 2370
 
 [Open repository](https://github.com/chidiwilliams/buzz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2370 | 119 | 
 | 2023-02-11 | 2351 | 117 | 
 | 2023-02-10 | 2324 | 115 | 
 | 2023-02-09 | 2305 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1769 | 92 | 
 | 2023-01-15 | 1759 | 91 | 
 | 2023-01-14 | 1755 | 90 | 
-| 2023-01-13 | 1749 | 89 | 
 

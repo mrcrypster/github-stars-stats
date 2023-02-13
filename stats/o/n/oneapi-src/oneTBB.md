@@ -1,10 +1,10 @@
 # oneapi-src/oneTBB - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 839
 
-★ Stars: 4274
+★ Stars: 4275
 
 [Open repository](https://github.com/oneapi-src/oneTBB)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4275 | 839 | 
 | 2023-02-11 | 4274 | 839 | 
 | 2023-02-10 | 4270 | 839 | 
 | 2023-02-09 | 4268 | 838 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 4220 | 830 | 
 | 2023-01-15 | 4218 | 831 | 
 | 2023-01-14 | 4215 | 831 | 
-| 2023-01-13 | 4215 | 831 | 
 

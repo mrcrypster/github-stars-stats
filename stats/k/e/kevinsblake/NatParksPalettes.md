@@ -1,6 +1,6 @@
 # kevinsblake/NatParksPalettes - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 192 | 1 | 
 | 2023-02-11 | 192 | 1 | 
 | 2023-02-10 | 191 | 1 | 
 | 2023-02-09 | 191 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 188 | 1 | 
 | 2023-01-15 | 188 | 1 | 
 | 2023-01-14 | 188 | 1 | 
-| 2023-01-13 | 188 | 1 | 
 

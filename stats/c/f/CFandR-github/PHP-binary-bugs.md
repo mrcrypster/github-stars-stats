@@ -1,6 +1,6 @@
 # CFandR-github/PHP-binary-bugs - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 172 | 37 | 
 | 2023-02-12 | 172 | 37 | 
 | 2023-02-10 | 172 | 37 | 
 | 2023-02-09 | 172 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-16 | 169 | 37 | 
 | 2023-01-15 | 169 | 37 | 
 | 2023-01-14 | 169 | 37 | 
-| 2023-01-13 | 169 | 37 | 
 

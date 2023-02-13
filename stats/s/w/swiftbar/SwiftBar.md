@@ -1,6 +1,6 @@
 # swiftbar/SwiftBar - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2034 | 69 | 
 | 2023-02-11 | 2034 | 69 | 
 | 2023-02-10 | 2036 | 69 | 
 | 2023-02-09 | 2035 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 2002 | 66 | 
 | 2023-01-15 | 2002 | 66 | 
 | 2023-01-14 | 1999 | 66 | 
-| 2023-01-13 | 1998 | 66 | 
 

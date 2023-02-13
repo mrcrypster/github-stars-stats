@@ -1,10 +1,10 @@
 # mrousavy/react-native-blurhash - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 47
 
-★ Stars: 1451
+★ Stars: 1452
 
 [Open repository](https://github.com/mrousavy/react-native-blurhash)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1452 | 47 | 
 | 2023-02-11 | 1451 | 47 | 
 | 2023-02-10 | 1451 | 47 | 
 | 2023-02-09 | 1450 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1432 | 46 | 
 | 2023-01-15 | 1430 | 46 | 
 | 2023-01-14 | 1428 | 46 | 
-| 2023-01-13 | 1428 | 46 | 
 

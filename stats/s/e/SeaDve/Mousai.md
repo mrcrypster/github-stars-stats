@@ -1,10 +1,10 @@
 # SeaDve/Mousai - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 30
 
-★ Stars: 673
+★ Stars: 676
 
 [Open repository](https://github.com/SeaDve/Mousai)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 676 | 30 | 
 | 2023-02-11 | 673 | 30 | 
 | 2023-02-10 | 671 | 29 | 
 | 2023-02-09 | 670 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 664 | 28 | 
 | 2023-01-15 | 664 | 28 | 
 | 2023-01-14 | 663 | 28 | 
-| 2023-01-13 | 662 | 28 | 
 

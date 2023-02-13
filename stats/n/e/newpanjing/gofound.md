@@ -1,10 +1,10 @@
 # newpanjing/gofound - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 148
 
-★ Stars: 1309
+★ Stars: 1310
 
 [Open repository](https://github.com/newpanjing/gofound)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1310 | 148 | 
 | 2023-02-11 | 1309 | 148 | 
 | 2023-02-10 | 1308 | 148 | 
 | 2023-02-09 | 1308 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1299 | 145 | 
 | 2023-01-15 | 1295 | 144 | 
 | 2023-01-14 | 1295 | 144 | 
-| 2023-01-13 | 1294 | 144 | 
 

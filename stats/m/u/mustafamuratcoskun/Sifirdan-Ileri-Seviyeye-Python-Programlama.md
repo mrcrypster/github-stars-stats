@@ -1,6 +1,6 @@
 # mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 740
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1635 | 740 | 
 | 2023-02-11 | 1635 | 740 | 
 | 2023-02-10 | 1633 | 740 | 
 | 2023-02-09 | 1633 | 740 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1608 | 732 | 
 | 2023-01-15 | 1608 | 730 | 
 | 2023-01-14 | 1608 | 730 | 
-| 2023-01-13 | 1606 | 731 | 
 

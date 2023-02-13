@@ -1,10 +1,10 @@
 # gaoxiang12/slambook-en - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 196
 
-★ Stars: 960
+★ Stars: 961
 
 [Open repository](https://github.com/gaoxiang12/slambook-en)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 961 | 196 | 
 | 2023-02-11 | 960 | 196 | 
 | 2023-02-09 | 957 | 195 | 
 | 2023-02-08 | 957 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 948 | 192 | 
 | 2023-01-15 | 947 | 191 | 
 | 2023-01-14 | 945 | 190 | 
-| 2023-01-13 | 943 | 190 | 
 

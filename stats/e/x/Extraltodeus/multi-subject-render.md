@@ -1,10 +1,10 @@
 # Extraltodeus/multi-subject-render - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 18
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/Extraltodeus/multi-subject-render)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 250 | 18 | 
 | 2023-02-11 | 249 | 18 | 
 | 2023-02-09 | 248 | 18 | 
 | 2023-02-08 | 246 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 158 | 14 | 
 | 2023-01-15 | 156 | 13 | 
 | 2023-01-14 | 156 | 13 | 
-| 2023-01-13 | 155 | 13 | 
 

@@ -1,10 +1,10 @@
 # micronaut-projects/static-website - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 20
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/micronaut-projects/static-website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4 | 20 | 
 | 2023-02-11 | 3 | 20 | 
 | 2023-02-10 | 3 | 20 | 
 | 2023-02-09 | 3 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3 | 21 | 
 | 2023-01-15 | 3 | 21 | 
 | 2023-01-14 | 3 | 21 | 
-| 2023-01-13 | 3 | 21 | 
 

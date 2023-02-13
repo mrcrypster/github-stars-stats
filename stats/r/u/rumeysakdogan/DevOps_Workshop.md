@@ -1,8 +1,8 @@
 # rumeysakdogan/DevOps_Workshop - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 43
+☋ Forks: 42
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 12 | 42 | 
 | 2023-02-11 | 12 | 43 | 
 | 2023-02-10 | 12 | 43 | 
 | 2023-02-09 | 12 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 11 | 41 | 
 | 2023-01-15 | 11 | 41 | 
 | 2023-01-14 | 11 | 41 | 
-| 2023-01-13 | 10 | 41 | 
 

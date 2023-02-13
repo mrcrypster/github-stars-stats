@@ -1,6 +1,6 @@
 # cunzaizhuyi/awesome-fe-sites - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 193 | 16 | 
 | 2023-02-11 | 193 | 16 | 
 | 2023-02-10 | 191 | 16 | 
 | 2023-02-09 | 189 | 16 | 

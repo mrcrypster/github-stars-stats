@@ -1,6 +1,6 @@
 # meta-cancer/scPLC - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 21 | 10 | 
 | 2023-02-11 | 21 | 10 | 
 | 2023-02-10 | 21 | 10 | 
 | 2023-02-09 | 21 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 19 | 10 | 
 | 2023-01-15 | 19 | 10 | 
 | 2023-01-14 | 19 | 10 | 
-| 2023-01-13 | 19 | 10 | 
 

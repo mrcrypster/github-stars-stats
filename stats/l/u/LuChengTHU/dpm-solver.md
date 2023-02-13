@@ -1,10 +1,10 @@
 # LuChengTHU/dpm-solver - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 67
 
-★ Stars: 723
+★ Stars: 724
 
 [Open repository](https://github.com/LuChengTHU/dpm-solver)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 724 | 67 | 
 | 2023-02-11 | 723 | 67 | 
 | 2023-02-10 | 721 | 67 | 
 | 2023-02-09 | 720 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 684 | 58 | 
 | 2023-01-15 | 680 | 57 | 
 | 2023-01-14 | 678 | 57 | 
-| 2023-01-13 | 678 | 57 | 
 

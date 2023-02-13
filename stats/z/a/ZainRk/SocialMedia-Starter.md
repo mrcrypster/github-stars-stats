@@ -1,6 +1,6 @@
 # ZainRk/SocialMedia-Starter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 21 | 35 | 
 | 2023-02-11 | 21 | 35 | 
 | 2023-02-10 | 21 | 35 | 
 | 2023-02-09 | 21 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 18 | 35 | 
 | 2023-01-15 | 18 | 35 | 
 | 2023-01-14 | 18 | 35 | 
-| 2023-01-13 | 18 | 35 | 
 

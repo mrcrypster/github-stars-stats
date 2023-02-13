@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 12
 
 ☋ Forks: 395
 
-★ Stars: 2001
+★ Stars: 2002
 
 [Open repository](https://github.com/JetBrains/intellij-platform-plugin-template)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 2001 | 395 | 
+| 2023-02-12 | 2002 | 395 | 
 | 2023-02-10 | 1997 | 391 | 
 | 2023-02-09 | 1994 | 391 | 
 | 2023-02-08 | 1992 | 391 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-16 | 1949 | 380 | 
 | 2023-01-15 | 1947 | 380 | 
 | 2023-01-14 | 1945 | 381 | 
-| 2023-01-13 | 1944 | 381 | 
 

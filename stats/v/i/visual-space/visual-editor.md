@@ -1,10 +1,10 @@
 # visual-space/visual-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 23
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/visual-space/visual-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 195 | 23 | 
 | 2023-02-11 | 194 | 23 | 
 | 2023-02-10 | 194 | 23 | 
 | 2023-02-09 | 194 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 192 | 22 | 
 | 2023-01-15 | 192 | 22 | 
 | 2023-01-14 | 191 | 22 | 
-| 2023-01-13 | 191 | 22 | 
 

@@ -1,10 +1,10 @@
 # blinksh/blink - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 548
+☋ Forks: 547
 
-★ Stars: 5612
+★ Stars: 5615
 
 [Open repository](https://github.com/blinksh/blink)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5615 | 547 | 
 | 2023-02-11 | 5612 | 548 | 
 | 2023-02-10 | 5612 | 548 | 
 | 2023-02-09 | 5614 | 548 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 5575 | 542 | 
 | 2023-01-15 | 5574 | 542 | 
 | 2023-01-14 | 5573 | 542 | 
-| 2023-01-13 | 5570 | 542 | 
 

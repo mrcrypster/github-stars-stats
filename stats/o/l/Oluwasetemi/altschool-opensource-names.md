@@ -1,6 +1,6 @@
 # Oluwasetemi/altschool-opensource-names - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 624
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 53 | 624 | 
 | 2023-02-11 | 53 | 624 | 
 | 2023-02-10 | 53 | 624 | 
 | 2023-02-09 | 53 | 624 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 53 | 623 | 
 | 2023-01-15 | 53 | 623 | 
 | 2023-01-14 | 53 | 623 | 
-| 2023-01-13 | 53 | 623 | 
 

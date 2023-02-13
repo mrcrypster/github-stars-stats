@@ -1,10 +1,10 @@
 # daveverwer/iOSDevDirectory - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 513
 
-★ Stars: 617
+★ Stars: 618
 
 [Open repository](https://github.com/daveverwer/iOSDevDirectory)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 618 | 513 | 
 | 2023-02-11 | 617 | 513 | 
 | 2023-02-09 | 617 | 513 | 
 | 2023-02-08 | 616 | 514 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 605 | 509 | 
 | 2023-01-15 | 605 | 509 | 
 | 2023-01-14 | 605 | 509 | 
-| 2023-01-13 | 605 | 509 | 
 

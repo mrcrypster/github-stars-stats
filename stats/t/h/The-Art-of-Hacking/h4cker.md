@@ -1,10 +1,10 @@
 # The-Art-of-Hacking/h4cker - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 2178
+☋ Forks: 2180
 
-★ Stars: 12726
+★ Stars: 12730
 
 [Open repository](https://github.com/The-Art-of-Hacking/h4cker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 12730 | 2180 | 
 | 2023-02-11 | 12726 | 2178 | 
 | 2023-02-10 | 12721 | 2176 | 
 | 2023-02-09 | 12712 | 2178 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 12591 | 2162 | 
 | 2023-01-15 | 12583 | 2159 | 
 | 2023-01-14 | 12577 | 2159 | 
-| 2023-01-13 | 12574 | 2159 | 
 

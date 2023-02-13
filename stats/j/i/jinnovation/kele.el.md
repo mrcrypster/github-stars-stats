@@ -1,10 +1,10 @@
 # jinnovation/kele.el - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/jinnovation/kele.el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 36 | 2 | 
 | 2023-02-11 | 35 | 2 | 
 | 2023-02-10 | 35 | 2 | 
 | 2023-02-09 | 35 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 24 | 2 | 
 | 2023-01-15 | 22 | 2 | 
 | 2023-01-14 | 22 | 2 | 
-| 2023-01-13 | 21 | 2 | 
 

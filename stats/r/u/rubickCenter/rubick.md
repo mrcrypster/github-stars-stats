@@ -1,10 +1,10 @@
 # rubickCenter/rubick - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 462
+☋ Forks: 461
 
-★ Stars: 3956
+★ Stars: 3955
 
 [Open repository](https://github.com/rubickCenter/rubick)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3955 | 461 | 
 | 2023-02-11 | 3956 | 462 | 
 | 2023-02-10 | 3955 | 463 | 
 | 2023-02-09 | 3952 | 462 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 3900 | 452 | 
 | 2023-01-16 | 3898 | 452 | 
 | 2023-01-15 | 3897 | 452 | 
-| 2023-01-13 | 3894 | 453 | 
 

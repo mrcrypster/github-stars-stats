@@ -1,10 +1,10 @@
 # zhanghao5683934/MeihuBeautifyFilter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 64
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/zhanghao5683934/MeihuBeautifyFilter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 256 | 64 | 
 | 2023-02-11 | 255 | 64 | 
 | 2023-02-10 | 255 | 64 | 
 | 2023-02-09 | 255 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 237 | 60 | 
 | 2023-01-15 | 237 | 60 | 
 | 2023-01-14 | 237 | 59 | 
-| 2023-01-13 | 237 | 59 | 
 

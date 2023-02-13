@@ -1,6 +1,6 @@
 # Simon-Initiative/oli-torus - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 58 | 31 | 
 | 2023-02-11 | 58 | 31 | 
 | 2023-02-10 | 58 | 31 | 
 | 2023-02-09 | 58 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 59 | 30 | 
 | 2023-01-15 | 59 | 30 | 
 | 2023-01-14 | 59 | 30 | 
-| 2023-01-13 | 59 | 30 | 
 

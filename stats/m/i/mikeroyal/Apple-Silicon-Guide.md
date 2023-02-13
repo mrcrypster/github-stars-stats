@@ -1,10 +1,10 @@
 # mikeroyal/Apple-Silicon-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 44
 
-★ Stars: 933
+★ Stars: 934
 
 [Open repository](https://github.com/mikeroyal/Apple-Silicon-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 934 | 44 | 
 | 2023-02-11 | 933 | 44 | 
 | 2023-02-10 | 933 | 44 | 
 | 2023-02-09 | 933 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 886 | 44 | 
 | 2023-01-15 | 885 | 44 | 
 | 2023-01-14 | 883 | 44 | 
-| 2023-01-13 | 880 | 44 | 
 

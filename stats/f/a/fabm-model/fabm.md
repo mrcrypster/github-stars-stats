@@ -1,6 +1,6 @@
 # fabm-model/fabm - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 56 | 34 | 
 | 2023-02-11 | 56 | 34 | 
 | 2023-02-10 | 56 | 34 | 
 | 2023-02-09 | 56 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 54 | 34 | 
 | 2023-01-16 | 54 | 34 | 
 | 2023-01-15 | 54 | 34 | 
-| 2023-01-14 | 54 | 34 | 
 

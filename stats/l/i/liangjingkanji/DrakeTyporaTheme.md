@@ -1,10 +1,10 @@
 # liangjingkanji/DrakeTyporaTheme - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 213
 
-★ Stars: 1756
+★ Stars: 1759
 
 [Open repository](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1759 | 213 | 
 | 2023-02-11 | 1756 | 213 | 
 | 2023-02-10 | 1750 | 213 | 
 | 2023-02-09 | 1752 | 213 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1705 | 213 | 
 | 2023-01-15 | 1701 | 214 | 
 | 2023-01-14 | 1696 | 214 | 
-| 2023-01-13 | 1694 | 213 | 
 

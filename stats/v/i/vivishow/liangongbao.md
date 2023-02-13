@@ -1,6 +1,6 @@
 # vivishow/liangongbao - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 20 | 9 | 
 | 2023-02-11 | 20 | 9 | 
 | 2023-02-10 | 20 | 9 | 
 | 2023-02-09 | 20 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 20 | 9 | 
 | 2023-01-15 | 20 | 9 | 
 | 2023-01-14 | 20 | 9 | 
-| 2023-01-13 | 20 | 9 | 
 

@@ -1,10 +1,10 @@
 # kubernetes-sigs/metrics-server - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1519
+☋ Forks: 1521
 
-★ Stars: 4480
+★ Stars: 4481
 
 [Open repository](https://github.com/kubernetes-sigs/metrics-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4481 | 1521 | 
 | 2023-02-11 | 4480 | 1519 | 
 | 2023-02-10 | 4480 | 1517 | 
 | 2023-02-09 | 4477 | 1514 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 4421 | 1488 | 
 | 2023-01-15 | 4419 | 1488 | 
 | 2023-01-14 | 4418 | 1487 | 
-| 2023-01-13 | 4417 | 1486 | 
 

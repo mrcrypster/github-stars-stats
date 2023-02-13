@@ -1,6 +1,6 @@
 # pubnub/objective-c - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 177 | 195 | 
 | 2023-02-11 | 177 | 195 | 
 | 2023-02-10 | 177 | 195 | 
 | 2023-02-08 | 177 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 177 | 195 | 
 | 2023-01-15 | 177 | 195 | 
 | 2023-01-14 | 177 | 195 | 
-| 2023-01-13 | 177 | 195 | 
 

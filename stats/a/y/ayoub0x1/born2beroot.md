@@ -1,6 +1,6 @@
 # ayoub0x1/born2beroot - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 67 | 20 | 
 | 2023-02-11 | 67 | 20 | 
 | 2023-02-10 | 67 | 20 | 
 | 2023-02-09 | 67 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 59 | 24 | 
 | 2023-01-15 | 59 | 24 | 
 | 2023-01-14 | 59 | 24 | 
-| 2023-01-13 | 59 | 24 | 
 

@@ -1,6 +1,6 @@
 # SirRamEsq/SmartShape2D - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 757 | 45 | 
 | 2023-02-11 | 757 | 45 | 
 | 2023-02-10 | 755 | 45 | 
 | 2023-02-08 | 755 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 750 | 44 | 
 | 2023-01-15 | 750 | 44 | 
 | 2023-01-14 | 750 | 44 | 
-| 2023-01-13 | 750 | 44 | 
 

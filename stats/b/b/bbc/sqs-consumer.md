@@ -1,10 +1,10 @@
 # bbc/sqs-consumer - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 312
 
-★ Stars: 1404
+★ Stars: 1405
 
 [Open repository](https://github.com/bbc/sqs-consumer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1405 | 312 | 
 | 2023-02-11 | 1404 | 312 | 
 | 2023-02-10 | 1404 | 312 | 
 | 2023-02-09 | 1402 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1390 | 310 | 
 | 2023-01-15 | 1388 | 310 | 
 | 2023-01-14 | 1388 | 310 | 
-| 2023-01-13 | 1388 | 310 | 
 

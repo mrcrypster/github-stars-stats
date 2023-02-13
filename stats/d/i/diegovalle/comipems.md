@@ -1,6 +1,6 @@
 # diegovalle/comipems - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5 | 2 | 
+| 2023-02-12 | 5 | 2 | 
 | 2023-02-11 | 5 | 2 | 
 | 2023-02-10 | 5 | 2 | 
 | 2023-02-09 | 5 | 2 | 

@@ -1,6 +1,6 @@
 # OCamlPro/ocplib-simplex - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 12 | 3 | 
 | 2023-02-11 | 12 | 3 | 
 | 2023-02-10 | 12 | 3 | 
 | 2023-02-09 | 12 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 11 | 2 | 
 | 2023-01-15 | 11 | 2 | 
 | 2023-01-14 | 11 | 2 | 
-| 2023-01-13 | 11 | 3 | 
 

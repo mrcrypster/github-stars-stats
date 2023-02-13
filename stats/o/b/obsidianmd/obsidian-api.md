@@ -1,10 +1,10 @@
 # obsidianmd/obsidian-api - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 133
 
-★ Stars: 1098
+★ Stars: 1100
 
 [Open repository](https://github.com/obsidianmd/obsidian-api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1100 | 133 | 
 | 2023-02-11 | 1098 | 133 | 
 | 2023-02-10 | 1097 | 132 | 
 | 2023-02-09 | 1093 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1057 | 126 | 
 | 2023-01-15 | 1054 | 126 | 
 | 2023-01-14 | 1051 | 125 | 
-| 2023-01-13 | 1050 | 125 | 
 

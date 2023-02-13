@@ -1,6 +1,6 @@
 # raimon49/requirements.txt.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 68 | 10 | 
 | 2023-02-11 | 68 | 10 | 
 | 2023-02-10 | 68 | 10 | 
 | 2023-02-09 | 68 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 66 | 10 | 
 | 2023-01-15 | 66 | 10 | 
 | 2023-01-14 | 66 | 10 | 
-| 2023-01-13 | 66 | 10 | 
 

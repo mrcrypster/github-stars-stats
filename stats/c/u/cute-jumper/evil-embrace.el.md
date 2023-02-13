@@ -1,6 +1,6 @@
 # cute-jumper/evil-embrace.el - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 46 | 5 | 
 | 2023-02-11 | 46 | 5 | 
 | 2023-02-10 | 46 | 5 | 
 | 2023-02-09 | 46 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 46 | 5 | 
 | 2023-01-15 | 46 | 5 | 
 | 2023-01-14 | 46 | 5 | 
-| 2023-01-13 | 46 | 5 | 
 

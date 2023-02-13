@@ -1,8 +1,8 @@
 # davidbombal/red-python-scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1536
+☋ Forks: 1537
 
 ★ Stars: 1714
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1714 | 1537 | 
 | 2023-02-11 | 1714 | 1536 | 
 | 2023-02-09 | 1714 | 1535 | 
 | 2023-02-08 | 1713 | 1533 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1694 | 1528 | 
 | 2023-01-15 | 1694 | 1527 | 
 | 2023-01-14 | 1692 | 1526 | 
-| 2023-01-13 | 1692 | 1525 | 
 

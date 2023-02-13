@@ -1,6 +1,6 @@
 # fast-algos/graphs-matrices-optimization - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 8 | 18 | 
 | 2023-02-11 | 8 | 18 | 
 | 2023-02-10 | 8 | 18 | 
 | 2023-02-09 | 8 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 8 | 18 | 
 | 2023-01-15 | 8 | 18 | 
 | 2023-01-14 | 8 | 18 | 
-| 2023-01-13 | 8 | 18 | 
 

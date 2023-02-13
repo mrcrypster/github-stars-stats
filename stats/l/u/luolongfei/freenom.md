@@ -1,10 +1,10 @@
 # luolongfei/freenom - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1809
+☋ Forks: 1814
 
-★ Stars: 2721
+★ Stars: 2728
 
 [Open repository](https://github.com/luolongfei/freenom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2728 | 1814 | 
 | 2023-02-11 | 2721 | 1809 | 
 | 2023-02-10 | 2717 | 1809 | 
 | 2023-02-09 | 2712 | 1805 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 2544 | 1758 | 
 | 2023-01-16 | 2538 | 1756 | 
 | 2023-01-15 | 2533 | 1756 | 
-| 2023-01-13 | 2528 | 1752 | 
 

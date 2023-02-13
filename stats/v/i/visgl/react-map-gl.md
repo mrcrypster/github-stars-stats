@@ -1,6 +1,6 @@
 # visgl/react-map-gl - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1290
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 6993 | 1290 | 
 | 2023-02-11 | 6993 | 1290 | 
 | 2023-02-10 | 6992 | 1290 | 
 | 2023-02-09 | 6991 | 1287 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 6948 | 1266 | 
 | 2023-01-15 | 6945 | 1264 | 
 | 2023-01-14 | 6945 | 1264 | 
-| 2023-01-13 | 6945 | 1264 | 
 

@@ -1,10 +1,10 @@
 # codebasics/potato-disease-classification - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 124
+☋ Forks: 125
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/codebasics/potato-disease-classification)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 101 | 125 | 
 | 2023-02-11 | 100 | 124 | 
 | 2023-02-10 | 100 | 123 | 
 | 2023-02-09 | 100 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 95 | 116 | 
 | 2023-01-15 | 95 | 115 | 
 | 2023-01-14 | 95 | 115 | 
-| 2023-01-13 | 95 | 114 | 
 

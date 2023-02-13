@@ -1,10 +1,10 @@
 # jart/blink - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 4769
+★ Stars: 4799
 
 [Open repository](https://github.com/jart/blink)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 4799 | 129 | 
 | 2023-02-11 | 4769 | 128 | 
 | 2023-02-10 | 4739 | 127 | 
 | 2023-02-09 | 4723 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3972 | 117 | 
 | 2023-01-15 | 3909 | 117 | 
 | 2023-01-14 | 3803 | 116 | 
-| 2023-01-13 | 3592 | 111 | 
 

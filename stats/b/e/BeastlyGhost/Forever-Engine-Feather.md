@@ -1,6 +1,6 @@
 # BeastlyGhost/Forever-Engine-Feather - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 21 | 15 | 
 | 2023-02-11 | 21 | 15 | 
 | 2023-02-10 | 21 | 15 | 
 | 2023-02-09 | 21 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 16 | 13 | 
 | 2023-01-15 | 16 | 13 | 
 | 2023-01-14 | 16 | 13 | 
-| 2023-01-13 | 16 | 13 | 
 

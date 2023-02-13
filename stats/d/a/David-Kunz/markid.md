@@ -1,6 +1,6 @@
 # David-Kunz/markid - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 121 | 3 | 
 | 2023-02-11 | 121 | 3 | 
 | 2023-02-09 | 121 | 3 | 
 | 2023-02-08 | 121 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 121 | 3 | 
 | 2023-01-15 | 121 | 3 | 
 | 2023-01-14 | 121 | 3 | 
-| 2023-01-13 | 120 | 3 | 
 

@@ -1,6 +1,6 @@
 # Financial-Times/chart-doctor - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 418
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2527 | 418 | 
 | 2023-02-11 | 2527 | 418 | 
 | 2023-02-10 | 2525 | 418 | 
 | 2023-02-09 | 2521 | 418 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 2510 | 414 | 
 | 2023-01-15 | 2510 | 414 | 
 | 2023-01-14 | 2510 | 414 | 
-| 2023-01-13 | 2510 | 413 | 
 

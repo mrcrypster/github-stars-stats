@@ -1,10 +1,10 @@
 # pixiv/charcoal-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/pixiv/charcoal-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 39 | - | 
 | 2023-02-11 | 38 | - | 
 | 2023-02-10 | 38 | - | 
 | 2023-02-09 | 38 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 19 | - | 
 | 2023-01-16 | 19 | - | 
 | 2023-01-14 | 19 | - | 
-| 2023-01-13 | 19 | - | 
 

@@ -1,6 +1,6 @@
 # casouri/lunarymacs - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 211 | 21 | 
 | 2023-02-11 | 211 | 21 | 
 | 2023-02-10 | 211 | 21 | 
 | 2023-02-09 | 212 | 21 | 

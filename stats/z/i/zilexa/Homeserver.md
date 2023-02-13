@@ -1,10 +1,10 @@
 # zilexa/Homeserver - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 39
 
-★ Stars: 568
+★ Stars: 571
 
 [Open repository](https://github.com/zilexa/Homeserver)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 571 | 39 | 
 | 2023-02-11 | 568 | 39 | 
 | 2023-02-09 | 567 | 39 | 
 | 2023-02-08 | 566 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 550 | 38 | 
 | 2023-01-15 | 550 | 38 | 
 | 2023-01-14 | 549 | 38 | 
-| 2023-01-13 | 549 | 37 | 
 

@@ -1,10 +1,10 @@
 # kevinhwang91/nvim-bqf - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 996
+★ Stars: 995
 
 [Open repository](https://github.com/kevinhwang91/nvim-bqf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 995 | 15 | 
 | 2023-02-11 | 996 | 15 | 
 | 2023-02-10 | 992 | 15 | 
 | 2023-02-09 | 990 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 963 | 13 | 
 | 2023-01-15 | 962 | 13 | 
 | 2023-01-14 | 961 | 13 | 
-| 2023-01-13 | 957 | 13 | 
 

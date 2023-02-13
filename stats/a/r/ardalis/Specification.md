@@ -1,6 +1,6 @@
 # ardalis/Specification - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1245 | 190 | 
 | 2023-02-11 | 1245 | 190 | 
 | 2023-02-10 | 1245 | 190 | 
 | 2023-02-09 | 1243 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1215 | 184 | 
 | 2023-01-15 | 1215 | 184 | 
 | 2023-01-14 | 1215 | 184 | 
-| 2023-01-13 | 1214 | 183 | 
 

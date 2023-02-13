@@ -1,6 +1,6 @@
 # altogic/altogic-flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 53 | 1 | 
 | 2023-02-11 | 53 | 1 | 
 | 2023-02-10 | 53 | 1 | 
 | 2023-02-09 | 53 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 56 | 1 | 
 | 2023-01-15 | 57 | 1 | 
 | 2023-01-14 | 57 | 1 | 
-| 2023-01-13 | 57 | 1 | 
 

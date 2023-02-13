@@ -1,6 +1,6 @@
 # SFDO-Community-Sprints/MembershipSchemaAndBenefits - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 17 | 11 | 
 | 2023-02-11 | 17 | 11 | 
 | 2023-02-10 | 17 | 11 | 
 | 2023-02-08 | 17 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 16 | 10 | 
 | 2023-01-15 | 16 | 10 | 
 | 2023-01-14 | 16 | 10 | 
-| 2023-01-13 | 16 | 10 | 
 

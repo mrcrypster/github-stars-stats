@@ -1,10 +1,10 @@
 # Crepe-Inc/Iridium - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 63
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/Crepe-Inc/Iridium)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 170 | 63 | 
 | 2023-02-11 | 169 | 63 | 
 | 2023-02-10 | 169 | 63 | 
 | 2023-02-08 | 169 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 166 | 63 | 
 | 2023-01-15 | 166 | 63 | 
 | 2023-01-14 | 166 | 63 | 
-| 2023-01-13 | 166 | 63 | 
 

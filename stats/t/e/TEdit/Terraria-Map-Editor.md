@@ -1,10 +1,10 @@
 # TEdit/Terraria-Map-Editor - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 331
 
-★ Stars: 1304
+★ Stars: 1306
 
 [Open repository](https://github.com/TEdit/Terraria-Map-Editor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1306 | 331 | 
 | 2023-02-11 | 1304 | 331 | 
 | 2023-02-10 | 1304 | 331 | 
 | 2023-02-09 | 1304 | 331 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1293 | 328 | 
 | 2023-01-15 | 1293 | 328 | 
 | 2023-01-14 | 1292 | 328 | 
-| 2023-01-13 | 1292 | 328 | 
 

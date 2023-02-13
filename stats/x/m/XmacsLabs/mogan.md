@@ -1,6 +1,6 @@
 # XmacsLabs/mogan - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 221 | 19 | 
 | 2023-02-11 | 221 | 19 | 
 | 2023-02-10 | 221 | 19 | 
 | 2023-02-09 | 220 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 218 | 18 | 
 | 2023-01-15 | 218 | 17 | 
 | 2023-01-14 | 216 | 17 | 
-| 2023-01-13 | 216 | 17 | 
 

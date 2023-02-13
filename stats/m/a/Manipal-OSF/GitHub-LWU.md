@@ -1,8 +1,8 @@
 # Manipal-OSF/GitHub-LWU - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 16
+☋ Forks: 18
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | - | 18 | 
 | 2023-02-11 | - | 16 | 
 | 2023-02-10 | - | 16 | 
 

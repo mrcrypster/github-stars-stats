@@ -1,6 +1,6 @@
 # rstudio/helm - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 19 | 19 | 
 | 2023-02-11 | 19 | 19 | 
 | 2023-02-10 | 19 | 19 | 
 | 2023-02-09 | 19 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 17 | 17 | 
 | 2023-01-15 | 17 | 17 | 
 | 2023-01-14 | 17 | 17 | 
-| 2023-01-13 | 17 | 17 | 
 

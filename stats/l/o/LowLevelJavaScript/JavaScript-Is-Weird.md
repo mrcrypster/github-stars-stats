@@ -1,8 +1,8 @@
 # LowLevelJavaScript/JavaScript-Is-Weird - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 72
+☋ Forks: 73
 
 ★ Stars: 282
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 282 | 73 | 
 | 2023-02-11 | 282 | 72 | 
 | 2023-02-10 | 282 | 72 | 
 | 2023-02-09 | 281 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 278 | 72 | 
 | 2023-01-15 | 278 | 72 | 
 | 2023-01-14 | 278 | 72 | 
-| 2023-01-13 | 278 | 72 | 
 

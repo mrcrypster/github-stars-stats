@@ -1,10 +1,10 @@
 # alyssaxuu/later - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 37
 
-★ Stars: 996
+★ Stars: 995
 
 [Open repository](https://github.com/alyssaxuu/later)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 995 | 37 | 
 | 2023-02-11 | 996 | 37 | 
 | 2023-02-10 | 995 | 37 | 
 | 2023-02-09 | 994 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 941 | 37 | 
 | 2023-01-15 | 936 | 37 | 
 | 2023-01-14 | 935 | 37 | 
-| 2023-01-13 | 932 | 37 | 
 

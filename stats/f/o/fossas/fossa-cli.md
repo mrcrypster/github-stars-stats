@@ -1,6 +1,6 @@
 # fossas/fossa-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1075 | 169 | 
 | 2023-02-11 | 1075 | 169 | 
 | 2023-02-10 | 1073 | 169 | 
 | 2023-02-09 | 1072 | 169 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1070 | 166 | 
 | 2023-01-15 | 1070 | 166 | 
 | 2023-01-14 | 1070 | 166 | 
-| 2023-01-13 | 1070 | 166 | 
 

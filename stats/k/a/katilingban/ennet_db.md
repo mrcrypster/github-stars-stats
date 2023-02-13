@@ -1,0 +1,18 @@
+# katilingban/ennet_db - stars & forks statistics
+
+Stats updated on Feb 2023, 13
+
+☋ Forks: 2
+
+★ Stars: 2
+
+[Open repository](https://github.com/katilingban/ennet_db)
+
+[Open detailed stats for katilingban/ennet_db](https://reviewgithub.com/rep/katilingban/ennet_db)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-13 | 2 | 2 | 
+| 2023-02-12 | 2 | 2 | 
+

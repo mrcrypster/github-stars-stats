@@ -1,6 +1,6 @@
 # bbepis/XUnity.AutoTranslator - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 868 | 177 | 
 | 2023-02-11 | 868 | 177 | 
 | 2023-02-10 | 867 | 177 | 
 | 2023-02-09 | 863 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 830 | 169 | 
 | 2023-01-15 | 829 | 169 | 
 | 2023-01-14 | 829 | 169 | 
-| 2023-01-13 | 828 | 168 | 
 

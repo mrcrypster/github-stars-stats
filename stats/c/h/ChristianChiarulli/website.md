@@ -1,6 +1,6 @@
 # ChristianChiarulli/website - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 17 | - | 
 | 2023-02-11 | 17 | - | 
 | 2023-02-10 | 17 | - | 
 | 2023-02-09 | 17 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 15 | 1 | 
 | 2023-01-15 | 14 | 1 | 
 | 2023-01-14 | 12 | 1 | 
-| 2023-01-13 | 12 | 1 | 
 

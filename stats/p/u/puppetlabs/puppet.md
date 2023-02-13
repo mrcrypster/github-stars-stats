@@ -1,10 +1,10 @@
 # puppetlabs/puppet - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2253
 
-★ Stars: 6828
+★ Stars: 6830
 
 [Open repository](https://github.com/puppetlabs/puppet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 6830 | 2253 | 
 | 2023-02-11 | 6828 | 2253 | 
 | 2023-02-10 | 6828 | 2253 | 
 | 2023-02-09 | 6827 | 2253 | 

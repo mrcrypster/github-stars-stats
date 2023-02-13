@@ -1,6 +1,6 @@
 # cagataycali/HSTP - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 138 | 8 | 
 | 2023-02-11 | 138 | 8 | 
 | 2023-02-10 | 138 | 8 | 
 | 2023-02-09 | 138 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 137 | 8 | 
 | 2023-01-15 | 137 | 8 | 
 | 2023-01-14 | 137 | 8 | 
-| 2023-01-13 | 137 | 8 | 
 

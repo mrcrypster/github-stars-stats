@@ -1,10 +1,10 @@
 # charmbracelet/glow - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 246
+☋ Forks: 245
 
-★ Stars: 11680
+★ Stars: 11690
 
 [Open repository](https://github.com/charmbracelet/glow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 11690 | 245 | 
 | 2023-02-11 | 11680 | 246 | 
 | 2023-02-09 | 11664 | 246 | 
 | 2023-02-08 | 11647 | 246 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 11458 | 244 | 
 | 2023-01-15 | 11448 | 243 | 
 | 2023-01-14 | 11445 | 243 | 
-| 2023-01-13 | 11434 | 243 | 
 

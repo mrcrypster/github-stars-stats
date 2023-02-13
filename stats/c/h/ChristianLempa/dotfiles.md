@@ -1,10 +1,10 @@
 # ChristianLempa/dotfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 266
+☋ Forks: 265
 
-★ Stars: 560
+★ Stars: 561
 
 [Open repository](https://github.com/ChristianLempa/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 561 | 265 | 
 | 2023-02-11 | 560 | 266 | 
 | 2023-02-10 | 557 | 265 | 
 | 2023-02-09 | 558 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 538 | 259 | 
 | 2023-01-15 | 538 | 260 | 
 | 2023-01-14 | 538 | 259 | 
-| 2023-01-13 | 536 | 259 | 
 

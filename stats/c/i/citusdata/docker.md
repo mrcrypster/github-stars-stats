@@ -1,6 +1,6 @@
 # citusdata/docker - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 213 | 92 | 
 | 2023-02-11 | 213 | 92 | 
 | 2023-02-10 | 213 | 92 | 
 | 2023-02-09 | 213 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 210 | 90 | 
 | 2023-01-16 | 210 | 90 | 
 | 2023-01-14 | 209 | 90 | 
-| 2023-01-13 | 209 | 90 | 
 

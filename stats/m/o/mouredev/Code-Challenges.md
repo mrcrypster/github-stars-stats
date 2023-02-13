@@ -1,8 +1,8 @@
 # mouredev/Code-Challenges - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 66
+☋ Forks: 65
 
 ★ Stars: 496
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 496 | 65 | 
 | 2023-02-11 | 496 | 66 | 
 | 2023-02-10 | 495 | 66 | 
 | 2023-02-09 | 496 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 480 | 64 | 
 | 2023-01-15 | 479 | 64 | 
 | 2023-01-14 | 478 | 64 | 
-| 2023-01-13 | 479 | 64 | 
 

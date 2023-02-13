@@ -1,8 +1,8 @@
 # cmsc330-umd/spring23 - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 39
+☋ Forks: 46
 
 ★ Stars: 10
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 10 | 46 | 
+| 2023-02-12 | 10 | 43 | 
 | 2023-02-11 | 10 | 39 | 
 | 2023-02-10 | 10 | 36 | 
 | 2023-02-09 | 9 | 30 | 

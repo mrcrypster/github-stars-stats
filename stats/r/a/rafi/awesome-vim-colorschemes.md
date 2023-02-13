@@ -1,6 +1,6 @@
 # rafi/awesome-vim-colorschemes - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 2360 | 157 | 
 | 2023-02-11 | 2360 | 157 | 
 | 2023-02-10 | 2361 | 157 | 
 | 2023-02-09 | 2359 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 2336 | 154 | 
 | 2023-01-15 | 2335 | 153 | 
 | 2023-01-14 | 2333 | 153 | 
-| 2023-01-13 | 2332 | 153 | 
 

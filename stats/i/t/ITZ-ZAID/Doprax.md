@@ -1,8 +1,8 @@
 # ITZ-ZAID/Doprax - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 79
+☋ Forks: 82
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5 | 82 | 
 | 2023-02-11 | 5 | 79 | 
 | 2023-02-10 | 5 | 71 | 
 | 2023-02-09 | 5 | 67 | 

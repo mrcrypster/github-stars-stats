@@ -1,10 +1,10 @@
 # jez/latex-homework-class - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 192
+☋ Forks: 194
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/jez/latex-homework-class)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 139 | 194 | 
+| 2023-02-12 | 139 | 194 | 
 | 2023-02-11 | 138 | 192 | 
 | 2023-02-10 | 138 | 192 | 
 | 2023-02-09 | 138 | 192 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 135 | 185 | 
 | 2023-01-15 | 135 | 185 | 
 | 2023-01-14 | 135 | 184 | 
-| 2023-01-13 | 134 | 183 | 
 

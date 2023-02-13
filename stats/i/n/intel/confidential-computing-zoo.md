@@ -1,6 +1,6 @@
 # intel/confidential-computing-zoo - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 213 | 37 | 
 | 2023-02-11 | 213 | 37 | 
 | 2023-02-10 | 212 | 37 | 
 | 2023-02-09 | 212 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 209 | 37 | 
 | 2023-01-15 | 209 | 37 | 
 | 2023-01-14 | 209 | 37 | 
-| 2023-01-13 | 207 | 36 | 
 

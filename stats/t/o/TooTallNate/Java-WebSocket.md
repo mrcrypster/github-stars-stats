@@ -1,10 +1,10 @@
 # TooTallNate/Java-WebSocket - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 2498
+☋ Forks: 2500
 
-★ Stars: 9572
+★ Stars: 9573
 
 [Open repository](https://github.com/TooTallNate/Java-WebSocket)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 9573 | 2500 | 
 | 2023-02-11 | 9572 | 2498 | 
 | 2023-02-10 | 9569 | 2498 | 
 | 2023-02-09 | 9568 | 2498 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 9535 | 2489 | 
 | 2023-01-15 | 9534 | 2489 | 
 | 2023-01-14 | 9533 | 2489 | 
-| 2023-01-13 | 9530 | 2488 | 
 

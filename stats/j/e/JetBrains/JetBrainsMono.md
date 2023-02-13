@@ -1,10 +1,10 @@
 # JetBrains/JetBrainsMono - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 263
 
-★ Stars: 8559
+★ Stars: 8563
 
 [Open repository](https://github.com/JetBrains/JetBrainsMono)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 8563 | 263 | 
 | 2023-02-11 | 8559 | 263 | 
 | 2023-02-10 | 8552 | 263 | 
 | 2023-02-09 | 8543 | 263 | 

@@ -1,6 +1,6 @@
 # ndortega/Oxygen.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 260 | 14 | 
 | 2023-02-11 | 260 | 14 | 
 | 2023-02-10 | 260 | 14 | 
 | 2023-02-09 | 259 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 246 | 11 | 
 | 2023-01-15 | 246 | 11 | 
 | 2023-01-14 | 246 | 11 | 
-| 2023-01-13 | 246 | 11 | 
 

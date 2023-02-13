@@ -1,10 +1,10 @@
 # Abracadabra-money/magic-internet-money - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 82
 
-★ Stars: 203
+★ Stars: 205
 
 [Open repository](https://github.com/Abracadabra-money/magic-internet-money)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 205 | 82 | 
 | 2023-02-11 | 203 | 82 | 
 | 2023-02-10 | 203 | 82 | 
 | 2023-02-09 | 203 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 202 | 82 | 
 | 2023-01-16 | 202 | 82 | 
 | 2023-01-15 | 202 | 82 | 
-| 2023-01-14 | 202 | 82 | 
 

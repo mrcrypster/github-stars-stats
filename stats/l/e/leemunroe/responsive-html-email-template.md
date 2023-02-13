@@ -1,6 +1,6 @@
 # leemunroe/responsive-html-email-template - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 4297
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 11940 | 4297 | 
 | 2023-02-11 | 11940 | 4297 | 
 | 2023-02-10 | 11935 | 4295 | 
 | 2023-02-09 | 11930 | 4293 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 11866 | 4257 | 
 | 2023-01-15 | 11865 | 4254 | 
 | 2023-01-14 | 11861 | 4253 | 
-| 2023-01-13 | 11857 | 4253 | 
 

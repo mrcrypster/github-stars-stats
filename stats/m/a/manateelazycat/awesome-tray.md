@@ -1,10 +1,10 @@
 # manateelazycat/awesome-tray - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 28
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/manateelazycat/awesome-tray)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 208 | 28 | 
 | 2023-02-11 | 207 | 28 | 
 | 2023-02-10 | 206 | 28 | 
 | 2023-02-09 | 206 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 203 | 28 | 
 | 2023-01-15 | 203 | 28 | 
 | 2023-01-14 | 203 | 28 | 
-| 2023-01-13 | 203 | 28 | 
 

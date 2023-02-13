@@ -1,0 +1,17 @@
+# ecomplus-stores/cristiane-resende-loja - stars & forks statistics
+
+Stats updated on Feb 2023, 12
+
+☋ Forks: 1
+
+★ Stars: 0
+
+[Open repository](https://github.com/ecomplus-stores/cristiane-resende-loja)
+
+[Open detailed stats for ecomplus-stores/cristiane-resende-loja](https://reviewgithub.com/rep/ecomplus-stores/cristiane-resende-loja)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-12 | - | 1 | 
+

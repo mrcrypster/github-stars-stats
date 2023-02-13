@@ -1,6 +1,6 @@
 # Seldaek/monolog - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1849
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 20159 | 1849 | 
 | 2023-02-11 | 20159 | 1849 | 
 | 2023-02-10 | 20158 | 1849 | 
 | 2023-02-09 | 20158 | 1849 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 20113 | 1844 | 
 | 2023-01-15 | 20112 | 1844 | 
 | 2023-01-14 | 20111 | 1844 | 
-| 2023-01-13 | 20111 | 1844 | 
 

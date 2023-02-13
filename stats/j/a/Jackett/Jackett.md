@@ -1,10 +1,10 @@
 # Jackett/Jackett - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1040
+☋ Forks: 1038
 
-★ Stars: 8603
+★ Stars: 8607
 
 [Open repository](https://github.com/Jackett/Jackett)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 8607 | 1038 | 
 | 2023-02-11 | 8603 | 1040 | 
 | 2023-02-10 | 8596 | 1038 | 
 | 2023-02-09 | 8590 | 1036 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 8478 | 1025 | 
 | 2023-01-15 | 8474 | 1025 | 
 | 2023-01-14 | 8464 | 1024 | 
-| 2023-01-13 | 8461 | 1024 | 
 

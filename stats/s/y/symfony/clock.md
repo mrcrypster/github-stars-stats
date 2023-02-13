@@ -1,10 +1,10 @@
 # symfony/clock - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 70
+★ Stars: 69
 
 [Open repository](https://github.com/symfony/clock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 69 | 2 | 
 | 2023-02-11 | 70 | 2 | 
 | 2023-02-10 | 70 | 2 | 
 | 2023-02-09 | 70 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 64 | 2 | 
 | 2023-01-15 | 64 | 2 | 
 | 2023-01-14 | 64 | 2 | 
-| 2023-01-13 | 64 | 2 | 
 

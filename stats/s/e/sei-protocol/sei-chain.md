@@ -1,8 +1,8 @@
 # sei-protocol/sei-chain - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 260
+☋ Forks: 261
 
 ★ Stars: 183
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 183 | 261 | 
 | 2023-02-11 | 183 | 260 | 
 | 2023-02-10 | 181 | 259 | 
 | 2023-02-08 | 181 | 259 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 173 | 254 | 
 | 2023-01-15 | 172 | 254 | 
 | 2023-01-14 | 172 | 254 | 
-| 2023-01-13 | 171 | 253 | 
 

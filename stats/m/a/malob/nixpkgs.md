@@ -1,6 +1,6 @@
 # malob/nixpkgs - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 260 | 23 | 
 | 2023-02-11 | 260 | 23 | 
 | 2023-02-10 | 260 | 22 | 
 | 2023-02-09 | 260 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 249 | 22 | 
 | 2023-01-15 | 249 | 22 | 
 | 2023-01-14 | 248 | 22 | 
-| 2023-01-13 | 248 | 22 | 
 

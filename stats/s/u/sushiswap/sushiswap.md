@@ -1,10 +1,10 @@
 # sushiswap/sushiswap - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 1367
+☋ Forks: 1368
 
-★ Stars: 1663
+★ Stars: 1667
 
 [Open repository](https://github.com/sushiswap/sushiswap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1667 | 1368 | 
 | 2023-02-11 | 1663 | 1367 | 
 | 2023-02-10 | 1662 | 1366 | 
 | 2023-02-09 | 1661 | 1365 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1657 | 1348 | 
 | 2023-01-15 | 1657 | 1347 | 
 | 2023-01-14 | 1656 | 1345 | 
-| 2023-01-13 | 1655 | 1345 | 
 

@@ -1,6 +1,6 @@
 # DuskieWhy/exe-2.5-code - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 32 | 42 | 
 | 2023-02-11 | 32 | 42 | 
 | 2023-02-10 | 32 | 42 | 
 | 2023-02-09 | 32 | 42 | 

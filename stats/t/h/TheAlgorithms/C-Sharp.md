@@ -1,10 +1,10 @@
 # TheAlgorithms/C-Sharp - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1130
 
-★ Stars: 5023
+★ Stars: 5026
 
 [Open repository](https://github.com/TheAlgorithms/C-Sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5026 | 1130 | 
 | 2023-02-11 | 5023 | 1130 | 
 | 2023-02-09 | 5017 | 1130 | 
 | 2023-02-08 | 5006 | 1129 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 4904 | 1112 | 
 | 2023-01-15 | 4901 | 1112 | 
 | 2023-01-14 | 4900 | 1112 | 
-| 2023-01-13 | 4876 | 1111 | 
 

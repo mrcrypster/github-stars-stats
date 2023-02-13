@@ -1,6 +1,6 @@
 # RanKKI/LawRefBook - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1747 | 145 | 
 | 2023-02-11 | 1747 | 145 | 
 | 2023-02-10 | 1746 | 145 | 
 | 2023-02-09 | 1746 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1744 | 144 | 
 | 2023-01-15 | 1743 | 144 | 
 | 2023-01-14 | 1743 | 144 | 
-| 2023-01-13 | 1742 | 144 | 
 

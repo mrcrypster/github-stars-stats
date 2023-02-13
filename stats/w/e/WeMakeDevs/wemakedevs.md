@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 12
 
-☋ Forks: 161
+☋ Forks: 162
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/WeMakeDevs/wemakedevs)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 247 | 161 | 
+| 2023-02-12 | 248 | 162 | 
 | 2023-02-11 | 246 | 161 | 
 | 2023-02-10 | 218 | 150 | 
 | 2023-02-09 | 176 | 140 | 

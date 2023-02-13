@@ -1,10 +1,10 @@
 # rstudio/bookdown - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1209
 
-★ Stars: 3266
+★ Stars: 3270
 
 [Open repository](https://github.com/rstudio/bookdown)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3270 | 1209 | 
 | 2023-02-11 | 3266 | 1209 | 
 | 2023-02-10 | 3266 | 1209 | 
 | 2023-02-09 | 3265 | 1209 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 3236 | 1204 | 
 | 2023-01-16 | 3234 | 1204 | 
 | 2023-01-14 | 3232 | 1204 | 
-| 2023-01-13 | 3231 | 1204 | 
 

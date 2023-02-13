@@ -1,6 +1,6 @@
 # zoooomie/zoomerlib - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 47 | 6 | 
 | 2023-02-11 | 47 | 6 | 
 | 2023-02-10 | 47 | 6 | 
 | 2023-02-08 | 47 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 41 | 5 | 
 | 2023-01-15 | 41 | 5 | 
 | 2023-01-14 | 41 | 5 | 
-| 2023-01-13 | 41 | 5 | 
 

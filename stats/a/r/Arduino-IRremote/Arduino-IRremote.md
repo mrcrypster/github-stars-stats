@@ -1,6 +1,6 @@
 # Arduino-IRremote/Arduino-IRremote - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1689
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3864 | 1689 | 
 | 2023-02-11 | 3864 | 1689 | 
 | 2023-02-10 | 3861 | 1688 | 
 | 2023-02-09 | 3858 | 1688 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 3841 | 1682 | 
 | 2023-01-16 | 3840 | 1682 | 
 | 2023-01-15 | 3838 | 1682 | 
-| 2023-01-14 | 3837 | 1681 | 
 

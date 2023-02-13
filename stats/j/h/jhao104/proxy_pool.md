@@ -1,10 +1,10 @@
 # jhao104/proxy_pool - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 4454
+☋ Forks: 4457
 
-★ Stars: 16984
+★ Stars: 16992
 
 [Open repository](https://github.com/jhao104/proxy_pool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 16992 | 4457 | 
 | 2023-02-11 | 16984 | 4454 | 
 | 2023-02-10 | 16980 | 4454 | 
 | 2023-02-09 | 16969 | 4454 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 16857 | 4433 | 
 | 2023-01-16 | 16857 | 4432 | 
 | 2023-01-15 | 16855 | 4432 | 
-| 2023-01-14 | 16852 | 4432 | 
 

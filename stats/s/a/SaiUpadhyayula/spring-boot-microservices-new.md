@@ -1,6 +1,6 @@
 # SaiUpadhyayula/spring-boot-microservices-new - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 184 | 169 | 
 | 2023-02-11 | 184 | 169 | 
 | 2023-02-10 | 183 | 167 | 
 | 2023-02-09 | 182 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 147 | 132 | 
 | 2023-01-16 | 145 | 132 | 
 | 2023-01-15 | 144 | 132 | 
-| 2023-01-14 | 143 | 132 | 
 

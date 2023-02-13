@@ -1,6 +1,6 @@
 # erlydtl/erlydtl - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 497 | 187 | 
 | 2023-02-11 | 497 | 187 | 
 | 2023-02-10 | 497 | 187 | 
 | 2023-02-09 | 497 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 497 | 187 | 
 | 2023-01-15 | 497 | 187 | 
 | 2023-01-14 | 497 | 187 | 
-| 2023-01-13 | 497 | 187 | 
 

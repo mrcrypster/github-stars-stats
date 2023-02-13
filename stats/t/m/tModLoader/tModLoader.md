@@ -1,10 +1,10 @@
 # tModLoader/tModLoader - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 1625
 
-★ Stars: 3141
+★ Stars: 3143
 
 [Open repository](https://github.com/tModLoader/tModLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 3143 | 1625 | 
 | 2023-02-11 | 3141 | 1625 | 
 | 2023-02-10 | 3138 | 1624 | 
 | 2023-02-09 | 3139 | 1624 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3098 | 1611 | 
 | 2023-01-15 | 3093 | 1607 | 
 | 2023-01-14 | 3092 | 1605 | 
-| 2023-01-13 | 3091 | 1605 | 
 

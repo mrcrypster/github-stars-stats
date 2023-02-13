@@ -1,6 +1,6 @@
 # feenkcom/gtoolkit-coder - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 5 | 4 | 
 | 2023-02-11 | 5 | 4 | 
 | 2023-02-09 | 5 | 4 | 
 | 2023-02-08 | 5 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 4 | 4 | 
 | 2023-01-15 | 4 | 4 | 
 | 2023-01-14 | 4 | 4 | 
-| 2023-01-13 | 4 | 4 | 
 

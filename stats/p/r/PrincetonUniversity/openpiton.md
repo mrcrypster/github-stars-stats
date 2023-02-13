@@ -1,8 +1,8 @@
 # PrincetonUniversity/openpiton - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 171
+☋ Forks: 172
 
 ★ Stars: 443
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 443 | 172 | 
 | 2023-02-11 | 443 | 171 | 
 | 2023-02-09 | 443 | 170 | 
 | 2023-02-08 | 443 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 439 | 170 | 
 | 2023-01-15 | 439 | 170 | 
 | 2023-01-14 | 437 | 170 | 
-| 2023-01-13 | 437 | 170 | 
 

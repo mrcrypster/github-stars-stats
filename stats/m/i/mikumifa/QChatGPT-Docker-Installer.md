@@ -1,8 +1,8 @@
 # mikumifa/QChatGPT-Docker-Installer - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 11
+☋ Forks: 13
 
 ★ Stars: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 70 | 13 | 
 | 2023-02-11 | 70 | 11 | 
 | 2023-02-10 | 69 | 10 | 
 | 2023-02-09 | 65 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 37 | 4 | 
 | 2023-01-15 | 37 | 4 | 
 | 2023-01-14 | 37 | 4 | 
-| 2023-01-13 | 35 | 4 | 
 

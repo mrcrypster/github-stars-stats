@@ -1,6 +1,6 @@
 # Azure/azure-sdk-vcpkg-betas - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4 | 4 | 
 | 2023-02-11 | 4 | 4 | 
 | 2023-02-10 | 4 | 4 | 
 | 2023-02-09 | 4 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 3 | 4 | 
 | 2023-01-15 | 3 | 4 | 
 | 2023-01-14 | 3 | 4 | 
-| 2023-01-13 | 3 | 4 | 
 

@@ -1,6 +1,6 @@
 # meterup/awdl_wifi_scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 49 | 4 | 
 | 2023-02-12 | 49 | 4 | 
 | 2023-02-10 | 49 | 4 | 
 | 2023-02-09 | 49 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-16 | 40 | 3 | 
 | 2023-01-15 | 40 | 3 | 
 | 2023-01-14 | 40 | 3 | 
-| 2023-01-13 | 40 | 3 | 
 

@@ -1,6 +1,6 @@
 # Zer0-bit/gaggiuino - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 922 | 112 | 
 | 2023-02-11 | 922 | 112 | 
 | 2023-02-10 | 921 | 112 | 
 | 2023-02-09 | 919 | 111 | 

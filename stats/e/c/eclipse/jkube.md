@@ -1,6 +1,6 @@
 # eclipse/jkube - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 289
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 469 | 289 | 
 | 2023-02-11 | 469 | 289 | 
 | 2023-02-10 | 469 | 287 | 
 | 2023-02-09 | 469 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 461 | 283 | 
 | 2023-01-15 | 461 | 283 | 
 | 2023-01-14 | 461 | 282 | 
-| 2023-01-13 | 461 | 282 | 
 

@@ -1,10 +1,10 @@
 # djhaled/Uiana-MapImporter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/djhaled/Uiana-MapImporter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 104 | 15 | 
 | 2023-02-11 | 103 | 15 | 
 | 2023-02-10 | 103 | 15 | 
 | 2023-02-09 | 103 | 15 | 

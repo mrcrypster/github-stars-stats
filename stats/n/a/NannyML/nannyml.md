@@ -1,10 +1,10 @@
 # NannyML/nannyml - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 96
 
-★ Stars: 1400
+★ Stars: 1401
 
 [Open repository](https://github.com/NannyML/nannyml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 1401 | 96 | 
 | 2023-02-11 | 1400 | 96 | 
 | 2023-02-10 | 1395 | 96 | 
 | 2023-02-09 | 1391 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 1343 | 90 | 
 | 2023-01-15 | 1338 | 89 | 
 | 2023-01-14 | 1337 | 89 | 
-| 2023-01-13 | 1331 | 89 | 
 

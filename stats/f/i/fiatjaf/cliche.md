@@ -1,10 +1,10 @@
 # fiatjaf/cliche - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/fiatjaf/cliche)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 40 | 6 | 
 | 2023-02-11 | 39 | 6 | 
 | 2023-02-10 | 39 | 6 | 
 | 2023-02-09 | 39 | 6 | 

@@ -1,8 +1,8 @@
 # zscole/canto-node-primer - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 19 | 9 | 
 | 2023-02-11 | 19 | 8 | 
 | 2023-02-10 | 19 | 8 | 
 | 2023-02-09 | 18 | 8 | 

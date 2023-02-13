@@ -1,8 +1,8 @@
 # HappyCerberus/book-cpp-algorithms - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 559
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 559 | 46 | 
 | 2023-02-11 | 559 | 45 | 
 | 2023-02-10 | 558 | 45 | 
 | 2023-02-09 | 552 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 420 | 33 | 
 | 2023-01-15 | 417 | 32 | 
 | 2023-01-14 | 417 | 32 | 
-| 2023-01-13 | 414 | 32 | 
 

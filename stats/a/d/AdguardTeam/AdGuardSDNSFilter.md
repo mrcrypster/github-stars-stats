@@ -1,10 +1,10 @@
 # AdguardTeam/AdGuardSDNSFilter - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 58
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 423 | 58 | 
 | 2023-02-11 | 422 | 58 | 
 | 2023-02-10 | 422 | 58 | 
 | 2023-02-08 | 422 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 407 | 57 | 
 | 2023-01-15 | 406 | 56 | 
 | 2023-01-14 | 406 | 56 | 
-| 2023-01-13 | 406 | 56 | 
 

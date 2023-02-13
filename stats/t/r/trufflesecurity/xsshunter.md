@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/trufflesecurity/xsshunter)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-12 | 130 | 15 | 
+| 2023-02-12 | 131 | 15 | 
 | 2023-02-11 | 130 | 15 | 
 | 2023-02-10 | 128 | 14 | 
 | 2023-02-09 | 124 | 12 | 

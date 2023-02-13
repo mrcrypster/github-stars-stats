@@ -1,10 +1,10 @@
 # easychen/CookieCloud - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 488
+★ Stars: 490
 
 [Open repository](https://github.com/easychen/CookieCloud)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 490 | 38 | 
 | 2023-02-11 | 488 | 37 | 
 | 2023-02-10 | 488 | 36 | 
 | 2023-02-09 | 478 | 35 | 

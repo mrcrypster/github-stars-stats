@@ -1,10 +1,10 @@
 # commercial-emacs/xlsp - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/commercial-emacs/xlsp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 19 | - | 
 | 2023-02-11 | 18 | - | 
 | 2023-02-10 | 18 | - | 
 | 2023-02-09 | 18 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 16 | - | 
 | 2023-01-15 | 16 | - | 
 | 2023-01-14 | 16 | - | 
-| 2023-01-13 | 16 | - | 
 

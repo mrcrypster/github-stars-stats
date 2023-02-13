@@ -1,8 +1,8 @@
 # diesel-rs/diesel - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
-☋ Forks: 875
+☋ Forks: 874
 
 ★ Stars: 9897
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 9897 | 874 | 
 | 2023-02-11 | 9897 | 875 | 
 | 2023-02-10 | 9893 | 875 | 
 | 2023-02-09 | 9889 | 875 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 9799 | 867 | 
 | 2023-01-15 | 9789 | 866 | 
 | 2023-01-14 | 9783 | 865 | 
-| 2023-01-13 | 9772 | 864 | 
 

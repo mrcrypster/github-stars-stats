@@ -1,6 +1,6 @@
 # fiberplane/fp-bindgen - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 399 | 15 | 
 | 2023-02-11 | 399 | 15 | 
 | 2023-02-10 | 397 | 15 | 
 | 2023-02-09 | 397 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 384 | 13 | 
 | 2023-01-15 | 383 | 13 | 
 | 2023-01-14 | 382 | 13 | 
-| 2023-01-13 | 382 | 13 | 
 

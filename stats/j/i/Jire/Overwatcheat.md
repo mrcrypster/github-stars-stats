@@ -1,6 +1,6 @@
 # Jire/Overwatcheat - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 305 | 87 | 
 | 2023-02-11 | 305 | 87 | 
 | 2023-02-10 | 305 | 87 | 
 | 2023-02-09 | 304 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 300 | 86 | 
 | 2023-01-15 | 300 | 86 | 
 | 2023-01-14 | 300 | 87 | 
-| 2023-01-13 | 300 | 87 | 
 

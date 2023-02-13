@@ -1,6 +1,6 @@
 # qiao/difflib.js - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 12
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-12 | 230 | 36 | 
 | 2023-02-11 | 230 | 36 | 
 | 2023-02-09 | 230 | 36 | 
 | 2023-02-08 | 230 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-16 | 229 | 36 | 
 | 2023-01-15 | 229 | 36 | 
 | 2023-01-14 | 229 | 36 | 
-| 2023-01-13 | 229 | 36 | 
 
