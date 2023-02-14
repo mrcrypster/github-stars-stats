@@ -1,10 +1,10 @@
 # reactjs/rfcs - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 542
 
-★ Stars: 4815
+★ Stars: 4817
 
 [Open repository](https://github.com/reactjs/rfcs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 4817 | 542 | 
 | 2023-02-12 | 4815 | 542 | 
 | 2023-02-11 | 4815 | 542 | 
 | 2023-02-10 | 4811 | 542 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 4748 | 534 | 
 | 2023-01-17 | 4748 | 533 | 
 | 2023-01-16 | 4746 | 533 | 
-| 2023-01-15 | 4744 | 533 | 
 

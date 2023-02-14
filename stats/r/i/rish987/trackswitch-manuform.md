@@ -1,10 +1,10 @@
 # rish987/trackswitch-manuform - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/rish987/trackswitch-manuform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 12 | - | 
 | 2023-02-12 | 11 | - | 
 | 2023-02-11 | 11 | - | 
 | 2023-02-10 | 11 | - | 

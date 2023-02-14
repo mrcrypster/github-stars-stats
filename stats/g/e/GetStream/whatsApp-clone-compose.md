@@ -1,10 +1,10 @@
 # GetStream/whatsApp-clone-compose - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 64
 
-★ Stars: 711
+★ Stars: 710
 
 [Open repository](https://github.com/GetStream/whatsApp-clone-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 710 | 64 | 
 | 2023-02-12 | 711 | 64 | 
 | 2023-02-11 | 711 | 64 | 
 | 2023-02-10 | 710 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 698 | 62 | 
 | 2023-01-16 | 697 | 62 | 
 | 2023-01-15 | 697 | 62 | 
-| 2023-01-14 | 697 | 62 | 
 

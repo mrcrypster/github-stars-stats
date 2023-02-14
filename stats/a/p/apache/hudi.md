@@ -1,10 +1,10 @@
 # apache/hudi - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 1788
+☋ Forks: 1787
 
-★ Stars: 3908
+★ Stars: 3909
 
 [Open repository](https://github.com/apache/hudi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3909 | 1787 | 
 | 2023-02-12 | 3908 | 1788 | 
 | 2023-02-10 | 3907 | 1788 | 
 | 2023-02-09 | 3901 | 1787 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3827 | 1755 | 
 | 2023-01-16 | 3821 | 1753 | 
 | 2023-01-15 | 3820 | 1751 | 
-| 2023-01-14 | 3817 | 1751 | 
 

@@ -1,6 +1,6 @@
 # morpho-dao/morpho-data-structures - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 83 | 6 | 
 | 2023-02-12 | 83 | 6 | 
 | 2023-02-11 | 83 | 6 | 
 | 2023-02-10 | 83 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 76 | 6 | 
 | 2023-01-16 | 76 | 6 | 
 | 2023-01-15 | 76 | 7 | 
-| 2023-01-14 | 76 | 7 | 
 

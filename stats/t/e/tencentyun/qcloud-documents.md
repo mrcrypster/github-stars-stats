@@ -1,10 +1,10 @@
 # tencentyun/qcloud-documents - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 3497
+☋ Forks: 3498
 
-★ Stars: 2139
+★ Stars: 2140
 
 [Open repository](https://github.com/tencentyun/qcloud-documents)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2140 | 3498 | 
 | 2023-02-12 | 2139 | 3497 | 
 | 2023-02-11 | 2139 | 3497 | 
 | 2023-02-09 | 2139 | 3496 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2119 | 3488 | 
 | 2023-01-16 | 2117 | 3488 | 
 | 2023-01-15 | 2116 | 3488 | 
-| 2023-01-14 | 2116 | 3488 | 
 

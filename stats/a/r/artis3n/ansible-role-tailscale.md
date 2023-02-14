@@ -1,10 +1,10 @@
 # artis3n/ansible-role-tailscale - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 36
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/artis3n/ansible-role-tailscale)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 172 | 36 | 
 | 2023-02-12 | 170 | 36 | 
 | 2023-02-11 | 170 | 36 | 
 | 2023-02-10 | 168 | 36 | 

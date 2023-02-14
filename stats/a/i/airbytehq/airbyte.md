@@ -1,10 +1,10 @@
 # airbytehq/airbyte - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 2381
+☋ Forks: 2386
 
-★ Stars: 9607
+★ Stars: 9631
 
 [Open repository](https://github.com/airbytehq/airbyte)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 9631 | 2386 | 
 | 2023-02-12 | 9607 | 2381 | 
 | 2023-02-11 | 9597 | 2377 | 
 | 2023-02-10 | 9570 | 2368 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 9202 | 2257 | 
 | 2023-01-16 | 9195 | 2250 | 
 | 2023-01-15 | 9187 | 2249 | 
-| 2023-01-14 | 9182 | 2246 | 
 

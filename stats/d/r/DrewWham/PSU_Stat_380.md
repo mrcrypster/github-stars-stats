@@ -1,6 +1,6 @@
 # DrewWham/PSU_Stat_380 - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 17 | 43 | 
 | 2023-02-13 | 17 | 43 | 
 | 2023-02-11 | 17 | 43 | 
 | 2023-02-10 | 17 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 17 | 39 | 
 | 2023-01-16 | 17 | 39 | 
 | 2023-01-15 | 17 | 39 | 
-| 2023-01-14 | 17 | 39 | 
 

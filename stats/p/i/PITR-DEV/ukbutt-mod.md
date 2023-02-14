@@ -1,10 +1,10 @@
 # PITR-DEV/ukbutt-mod - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/PITR-DEV/ukbutt-mod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 55 | 3 | 
 | 2023-02-12 | 54 | 3 | 
 | 2023-02-10 | 53 | 3 | 
 | 2023-02-09 | 53 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 47 | 2 | 
 | 2023-01-16 | 46 | 2 | 
 | 2023-01-15 | 45 | 2 | 
-| 2023-01-14 | 44 | 2 | 
 

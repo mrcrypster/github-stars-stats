@@ -1,10 +1,10 @@
 # universal-ctags/ctags - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 525
 
-★ Stars: 5363
+★ Stars: 5364
 
 [Open repository](https://github.com/universal-ctags/ctags)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5364 | 525 | 
 | 2023-02-12 | 5363 | 525 | 
 | 2023-02-10 | 5364 | 525 | 
 | 2023-02-09 | 5362 | 525 | 

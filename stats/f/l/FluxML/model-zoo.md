@@ -1,6 +1,6 @@
 # FluxML/model-zoo - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 816 | 327 | 
 | 2023-02-12 | 816 | 327 | 
 | 2023-02-11 | 815 | 327 | 
 | 2023-02-10 | 815 | 327 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 813 | 324 | 
 | 2023-01-16 | 813 | 324 | 
 | 2023-01-15 | 812 | 324 | 
-| 2023-01-14 | 811 | 324 | 
 

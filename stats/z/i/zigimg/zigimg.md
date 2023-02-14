@@ -1,10 +1,10 @@
 # zigimg/zigimg - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 37
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/zigimg/zigimg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 211 | 37 | 
 | 2023-02-13 | 210 | 37 | 
 | 2023-02-12 | 210 | 37 | 
 | 2023-02-11 | 209 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 203 | 36 | 
 | 2023-01-16 | 203 | 35 | 
 | 2023-01-15 | 203 | 35 | 
-| 2023-01-14 | 202 | 35 | 
 

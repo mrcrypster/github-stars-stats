@@ -1,6 +1,6 @@
 # keeganwitt/docker-gradle - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 123 | 60 | 
 | 2023-02-12 | 123 | 60 | 
 | 2023-02-11 | 123 | 60 | 
 | 2023-02-10 | 123 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 122 | 61 | 
 | 2023-01-16 | 122 | 61 | 
 | 2023-01-15 | 122 | 61 | 
-| 2023-01-14 | 122 | 61 | 
 

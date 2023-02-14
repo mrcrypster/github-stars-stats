@@ -1,10 +1,10 @@
 # coder2gwy/coder2gwy - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 3359
+☋ Forks: 3358
 
-★ Stars: 22579
+★ Stars: 22583
 
 [Open repository](https://github.com/coder2gwy/coder2gwy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 22583 | 3358 | 
 | 2023-02-12 | 22579 | 3359 | 
 | 2023-02-11 | 22578 | 3359 | 
 | 2023-02-10 | 22574 | 3359 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 22454 | 3343 | 
 | 2023-01-16 | 22454 | 3343 | 
 | 2023-01-15 | 22451 | 3342 | 
-| 2023-01-14 | 22449 | 3342 | 
 

@@ -1,6 +1,6 @@
 # strawberry-magic-pocket/Genetic-Algorithm - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 142 | 84 | 
 | 2023-02-11 | 142 | 84 | 
 | 2023-02-10 | 142 | 84 | 
 | 2023-02-09 | 142 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 142 | 84 | 
 | 2023-01-16 | 142 | 84 | 
 | 2023-01-15 | 142 | 84 | 
-| 2023-01-14 | 142 | 84 | 
 

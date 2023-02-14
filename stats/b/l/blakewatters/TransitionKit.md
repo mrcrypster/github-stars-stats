@@ -1,10 +1,10 @@
 # blakewatters/TransitionKit - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 136
 
-★ Stars: 1330
+★ Stars: 1329
 
 [Open repository](https://github.com/blakewatters/TransitionKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1329 | 136 | 
 | 2023-02-12 | 1330 | 136 | 
 | 2023-02-11 | 1330 | 137 | 
 | 2023-02-10 | 1330 | 137 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 1329 | 137 | 
 | 2023-01-17 | 1329 | 137 | 
 | 2023-01-16 | 1329 | 138 | 
-| 2023-01-15 | 1329 | 138 | 
 

@@ -1,8 +1,8 @@
 # pnp/List-Formatting - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 719
+☋ Forks: 720
 
 ★ Stars: 1269
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1269 | 720 | 
 | 2023-02-12 | 1269 | 719 | 
 | 2023-02-11 | 1268 | 719 | 
 | 2023-02-10 | 1262 | 719 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1231 | 712 | 
 | 2023-01-16 | 1230 | 712 | 
 | 2023-01-15 | 1230 | 711 | 
-| 2023-01-14 | 1228 | 711 | 
 

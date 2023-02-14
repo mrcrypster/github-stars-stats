@@ -1,6 +1,6 @@
 # architdate/PKHeX-Plugins - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 388 | 80 | 
 | 2023-02-12 | 388 | 80 | 
 | 2023-02-11 | 388 | 80 | 
 | 2023-02-10 | 388 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 368 | 73 | 
 | 2023-01-17 | 368 | 73 | 
 | 2023-01-16 | 366 | 73 | 
-| 2023-01-15 | 365 | 73 | 
 

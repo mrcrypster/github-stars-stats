@@ -1,10 +1,10 @@
 # TwitchRecover/TwitchRecover - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 122
 
-★ Stars: 780
+★ Stars: 781
 
 [Open repository](https://github.com/TwitchRecover/TwitchRecover)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 781 | 122 | 
 | 2023-02-12 | 780 | 122 | 
 | 2023-02-11 | 780 | 122 | 
 | 2023-02-10 | 780 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 757 | 117 | 
 | 2023-01-16 | 757 | 117 | 
 | 2023-01-15 | 755 | 117 | 
-| 2023-01-14 | 753 | 117 | 
 

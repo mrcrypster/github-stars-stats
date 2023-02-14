@@ -1,10 +1,10 @@
 # ZeframLou/universal-bridge - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/ZeframLou/universal-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 85 | 4 | 
 | 2023-02-12 | 84 | 4 | 
 | 2023-02-11 | 84 | 4 | 
 | 2023-02-10 | 83 | 4 | 

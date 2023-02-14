@@ -1,6 +1,6 @@
 # status-im/nim-json-rpc - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 79 | 18 | 
 | 2023-02-13 | 79 | 18 | 
 | 2023-02-11 | 79 | 18 | 
 | 2023-02-10 | 79 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 78 | 18 | 
 | 2023-01-16 | 78 | 18 | 
 | 2023-01-15 | 78 | 18 | 
-| 2023-01-14 | 78 | 18 | 
 

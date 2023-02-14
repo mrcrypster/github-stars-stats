@@ -1,10 +1,10 @@
 # srush/raspy - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 126
+★ Stars: 129
 
 [Open repository](https://github.com/srush/raspy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 129 | 12 | 
 | 2023-02-12 | 126 | 12 | 
 | 2023-02-11 | 125 | 12 | 
 | 2023-02-10 | 124 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 116 | 11 | 
 | 2023-01-16 | 114 | 11 | 
 | 2023-01-15 | 112 | 11 | 
-| 2023-01-14 | 111 | 9 | 
 

@@ -1,10 +1,10 @@
 # innnky/so-vits-svc - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 216
+☋ Forks: 225
 
-★ Stars: 1578
+★ Stars: 1657
 
 [Open repository](https://github.com/innnky/so-vits-svc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1657 | 225 | 
 | 2023-02-12 | 1578 | 216 | 
 | 2023-02-11 | 1533 | 213 | 
 | 2023-02-10 | 1485 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 559 | 91 | 
 | 2023-01-16 | 536 | 90 | 
 | 2023-01-15 | 520 | 88 | 
-| 2023-01-14 | 499 | 84 | 
 

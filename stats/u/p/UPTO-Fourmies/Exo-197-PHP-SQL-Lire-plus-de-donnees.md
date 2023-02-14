@@ -1,6 +1,6 @@
 # UPTO-Fourmies/Exo-197-PHP-SQL-Lire-plus-de-donnees - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | - | 4 | 
 | 2023-02-12 | - | 4 | 
 | 2023-02-11 | - | 4 | 
 

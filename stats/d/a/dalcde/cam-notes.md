@@ -1,6 +1,6 @@
 # dalcde/cam-notes - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 236
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 855 | 236 | 
 | 2023-02-13 | 855 | 236 | 
 | 2023-02-11 | 855 | 236 | 
 | 2023-02-10 | 855 | 236 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 843 | 236 | 
 | 2023-01-16 | 841 | 236 | 
 | 2023-01-15 | 841 | 236 | 
-| 2023-01-14 | 841 | 236 | 
 

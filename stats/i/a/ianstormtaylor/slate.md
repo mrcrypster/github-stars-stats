@@ -1,10 +1,10 @@
 # ianstormtaylor/slate - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 3048
+☋ Forks: 3049
 
-★ Stars: 26398
+★ Stars: 26407
 
 [Open repository](https://github.com/ianstormtaylor/slate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 26407 | 3049 | 
 | 2023-02-12 | 26398 | 3048 | 
 | 2023-02-11 | 26396 | 3047 | 
 | 2023-02-10 | 26389 | 3045 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 26244 | 3007 | 
 | 2023-01-16 | 26238 | 3006 | 
 | 2023-01-15 | 26236 | 3006 | 
-| 2023-01-14 | 26234 | 3002 | 
 

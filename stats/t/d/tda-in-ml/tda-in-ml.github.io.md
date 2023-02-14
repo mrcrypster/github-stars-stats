@@ -1,6 +1,6 @@
 # tda-in-ml/tda-in-ml.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 21 | 3 | 
 | 2023-02-12 | 21 | 3 | 
 | 2023-02-11 | 21 | 3 | 
 | 2023-02-10 | 21 | 3 | 

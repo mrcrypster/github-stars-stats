@@ -1,10 +1,10 @@
 # open-source-flash/open-source-flash - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 139
 
-★ Stars: 7385
+★ Stars: 7384
 
 [Open repository](https://github.com/open-source-flash/open-source-flash)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 7384 | 139 | 
 | 2023-02-11 | 7385 | 139 | 
 | 2023-02-10 | 7385 | 139 | 
 | 2023-02-09 | 7385 | 139 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 7382 | 140 | 
 | 2023-01-16 | 7383 | 140 | 
 | 2023-01-15 | 7383 | 140 | 
-| 2023-01-14 | 7383 | 140 | 
 

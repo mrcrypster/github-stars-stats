@@ -1,6 +1,6 @@
 # publichealthengland/coronavirus-dashboard-summary - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 54 | 1 | 
 | 2023-02-12 | 54 | 1 | 
 | 2023-02-10 | 54 | 1 | 
 | 2023-02-09 | 54 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 55 | 1 | 
 | 2023-01-16 | 55 | 1 | 
 | 2023-01-15 | 55 | 1 | 
-| 2023-01-14 | 55 | 1 | 
 

@@ -1,10 +1,10 @@
 # nlohmann/json - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 5799
+☋ Forks: 5801
 
-★ Stars: 33617
+★ Stars: 33629
 
 [Open repository](https://github.com/nlohmann/json)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 33629 | 5801 | 
 | 2023-02-12 | 33617 | 5799 | 
 | 2023-02-11 | 33615 | 5799 | 
 | 2023-02-10 | 33598 | 5795 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 33324 | 5751 | 
 | 2023-01-16 | 33296 | 5743 | 
 | 2023-01-15 | 33285 | 5742 | 
-| 2023-01-14 | 33283 | 5742 | 
 

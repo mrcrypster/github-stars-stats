@@ -1,10 +1,10 @@
 # microsoft/Data-Science-For-Beginners - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 3363
+☋ Forks: 3372
 
-★ Stars: 17898
+★ Stars: 17908
 
 [Open repository](https://github.com/microsoft/Data-Science-For-Beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 17908 | 3372 | 
 | 2023-02-12 | 17898 | 3363 | 
 | 2023-02-11 | 17879 | 3360 | 
 | 2023-02-10 | 17863 | 3359 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 17067 | 3240 | 
 | 2023-01-16 | 17050 | 3233 | 
 | 2023-01-15 | 17046 | 3229 | 
-| 2023-01-14 | 17039 | 3223 | 
 

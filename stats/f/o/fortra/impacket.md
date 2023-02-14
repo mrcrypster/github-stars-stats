@@ -1,10 +1,10 @@
 # fortra/impacket - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3033
+☋ Forks: 3035
 
-★ Stars: 10620
+★ Stars: 10625
 
 [Open repository](https://github.com/fortra/impacket)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 10625 | 3035 | 
 | 2023-02-12 | 10620 | 3033 | 
 | 2023-02-11 | 10619 | 3032 | 
 | 2023-02-10 | 10613 | 3031 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 10496 | 2995 | 
 | 2023-01-16 | 10480 | 2992 | 
 | 2023-01-15 | 10474 | 2992 | 
-| 2023-01-14 | 10471 | 2992 | 
 

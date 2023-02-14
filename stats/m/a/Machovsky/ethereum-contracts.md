@@ -1,10 +1,10 @@
 # Machovsky/ethereum-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/Machovsky/ethereum-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 125 | 3 | 
 | 2023-02-12 | 124 | 2 | 
 | 2023-02-11 | 124 | 2 | 
 | 2023-02-10 | 124 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 154 | 2 | 
 | 2023-01-16 | 154 | 2 | 
 | 2023-01-15 | 154 | 2 | 
-| 2023-01-14 | 154 | 2 | 
 

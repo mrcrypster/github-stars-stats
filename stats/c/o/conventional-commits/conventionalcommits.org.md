@@ -1,10 +1,10 @@
 # conventional-commits/conventionalcommits.org - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 434
+☋ Forks: 435
 
-★ Stars: 4974
+★ Stars: 4976
 
 [Open repository](https://github.com/conventional-commits/conventionalcommits.org)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4976 | 435 | 
 | 2023-02-11 | 4974 | 434 | 
 | 2023-02-10 | 4973 | 433 | 
 | 2023-02-09 | 4970 | 433 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 4874 | 429 | 
 | 2023-01-16 | 4873 | 428 | 
 | 2023-01-15 | 4870 | 428 | 
-| 2023-01-14 | 4871 | 428 | 
 

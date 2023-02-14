@@ -1,10 +1,10 @@
 # adriancooney/puppeteer-heap-snapshot - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 50
 
-★ Stars: 865
+★ Stars: 867
 
 [Open repository](https://github.com/adriancooney/puppeteer-heap-snapshot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 867 | 50 | 
 | 2023-02-12 | 865 | 50 | 
 | 2023-02-11 | 865 | 50 | 
 | 2023-02-10 | 864 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 862 | 50 | 
 | 2023-01-16 | 862 | 50 | 
 | 2023-01-15 | 862 | 50 | 
-| 2023-01-14 | 862 | 50 | 
 

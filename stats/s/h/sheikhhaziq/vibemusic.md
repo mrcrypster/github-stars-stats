@@ -1,10 +1,10 @@
 # sheikhhaziq/vibemusic - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 94
+★ Stars: 93
 
 [Open repository](https://github.com/sheikhhaziq/vibemusic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 93 | 12 | 
 | 2023-02-12 | 94 | 11 | 
 | 2023-02-11 | 94 | 11 | 
 | 2023-02-10 | 94 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 74 | 10 | 
 | 2023-01-16 | 72 | 10 | 
 | 2023-01-15 | 70 | 10 | 
-| 2023-01-14 | 66 | 9 | 
 

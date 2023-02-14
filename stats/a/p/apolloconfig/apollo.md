@@ -1,10 +1,10 @@
 # apolloconfig/apollo - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 10059
+☋ Forks: 10060
 
-★ Stars: 27721
+★ Stars: 27724
 
 [Open repository](https://github.com/apolloconfig/apollo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 27724 | 10060 | 
 | 2023-02-12 | 27721 | 10059 | 
 | 2023-02-11 | 27721 | 10059 | 
 | 2023-02-10 | 27720 | 10058 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 27663 | 10049 | 
 | 2023-01-16 | 27661 | 10049 | 
 | 2023-01-15 | 27658 | 10048 | 
-| 2023-01-14 | 27656 | 10049 | 
 

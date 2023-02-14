@@ -1,10 +1,10 @@
 # department-of-veterans-affairs/vets-api - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 56
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/department-of-veterans-affairs/vets-api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 141 | 56 | 
 | 2023-02-12 | 140 | 56 | 
 | 2023-02-11 | 140 | 56 | 
 | 2023-02-10 | 140 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 140 | 54 | 
 | 2023-01-16 | 140 | 54 | 
 | 2023-01-15 | 140 | 54 | 
-| 2023-01-14 | 140 | 54 | 
 

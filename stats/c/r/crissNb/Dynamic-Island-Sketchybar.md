@@ -1,10 +1,10 @@
 # crissNb/Dynamic-Island-Sketchybar - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/crissNb/Dynamic-Island-Sketchybar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 101 | 10 | 
 | 2023-02-12 | 100 | 10 | 
 | 2023-02-11 | 100 | 10 | 
 | 2023-02-10 | 100 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 94 | 9 | 
 | 2023-01-16 | 95 | 9 | 
 | 2023-01-15 | 95 | 9 | 
-| 2023-01-14 | 94 | 9 | 
 

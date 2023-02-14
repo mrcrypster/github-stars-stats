@@ -1,6 +1,6 @@
 # bors-ng/bors-ng - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 170
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1412 | 170 | 
+| 2023-02-13 | 1412 | 170 | 
 | 2023-02-12 | 1412 | 170 | 
 | 2023-02-11 | 1410 | 170 | 
 | 2023-02-10 | 1407 | 170 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1396 | 171 | 
 | 2023-01-16 | 1396 | 172 | 
 | 2023-01-15 | 1396 | 172 | 
-| 2023-01-14 | 1395 | 172 | 
 

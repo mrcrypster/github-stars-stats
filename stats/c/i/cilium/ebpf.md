@@ -1,10 +1,10 @@
 # cilium/ebpf - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 443
+☋ Forks: 444
 
-★ Stars: 4051
+★ Stars: 4053
 
 [Open repository](https://github.com/cilium/ebpf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4053 | 444 | 
 | 2023-02-12 | 4051 | 443 | 
 | 2023-02-11 | 4049 | 444 | 
 | 2023-02-10 | 4047 | 444 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 3846 | 430 | 
 | 2023-01-17 | 3779 | 426 | 
 | 2023-01-16 | 3759 | 422 | 
-| 2023-01-15 | 3756 | 421 | 
 

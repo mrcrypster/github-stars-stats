@@ -1,10 +1,10 @@
 # SelfControlApp/selfcontrol - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 399
 
-★ Stars: 3650
+★ Stars: 3651
 
 [Open repository](https://github.com/SelfControlApp/selfcontrol)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3651 | 399 | 
 | 2023-02-12 | 3650 | 399 | 
 | 2023-02-11 | 3649 | 399 | 
 | 2023-02-10 | 3648 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3629 | 399 | 
 | 2023-01-16 | 3629 | 399 | 
 | 2023-01-15 | 3628 | 398 | 
-| 2023-01-14 | 3628 | 398 | 
 

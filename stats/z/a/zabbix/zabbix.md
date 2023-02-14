@@ -1,10 +1,10 @@
 # zabbix/zabbix - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 790
 
-★ Stars: 2768
+★ Stars: 2769
 
 [Open repository](https://github.com/zabbix/zabbix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2769 | 790 | 
 | 2023-02-12 | 2768 | 790 | 
 | 2023-02-11 | 2768 | 790 | 
 | 2023-02-09 | 2767 | 790 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2728 | 782 | 
 | 2023-01-16 | 2728 | 782 | 
 | 2023-01-15 | 2726 | 781 | 
-| 2023-01-14 | 2724 | 781 | 
 

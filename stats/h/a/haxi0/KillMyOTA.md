@@ -1,10 +1,10 @@
 # haxi0/KillMyOTA - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 66
+★ Stars: 69
 
 [Open repository](https://github.com/haxi0/KillMyOTA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 69 | - | 
 | 2023-02-12 | 66 | - | 
 | 2023-02-10 | 66 | 1 | 
 | 2023-02-09 | 63 | 1 | 

@@ -1,6 +1,6 @@
 # ChrisTitusTech/block-razer - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 36 | 6 | 
 | 2023-02-12 | 36 | 6 | 
 | 2023-02-11 | 35 | 6 | 
 | 2023-02-10 | 35 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 31 | 4 | 
 | 2023-01-16 | 31 | 4 | 
 | 2023-01-15 | 31 | 4 | 
-| 2023-01-14 | 31 | 4 | 
 

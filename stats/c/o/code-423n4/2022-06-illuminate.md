@@ -1,6 +1,6 @@
 # code-423n4/2022-06-illuminate - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4 | 3 | 
 | 2023-02-11 | 4 | 3 | 
 | 2023-02-10 | 4 | 3 | 
 | 2023-02-09 | 4 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 4 | 3 | 
 | 2023-01-16 | 4 | 3 | 
 | 2023-01-15 | 4 | 3 | 
-| 2023-01-14 | 4 | 3 | 
 

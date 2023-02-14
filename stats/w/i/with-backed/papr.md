@@ -1,10 +1,10 @@
 # with-backed/papr - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/with-backed/papr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 9 | 4 | 
 | 2023-02-12 | 8 | 4 | 
 | 2023-02-11 | 8 | 4 | 
 | 2023-02-10 | 8 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 4 | 3 | 
 | 2023-01-16 | 3 | 3 | 
 | 2023-01-15 | 3 | 3 | 
-| 2023-01-14 | 3 | 3 | 
 

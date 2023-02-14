@@ -1,10 +1,10 @@
 # runfinch/finch-core - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/runfinch/finch-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 12 | 5 | 
 | 2023-02-12 | 11 | 5 | 
 | 2023-02-11 | 11 | 5 | 
 | 2023-02-09 | 11 | 5 | 

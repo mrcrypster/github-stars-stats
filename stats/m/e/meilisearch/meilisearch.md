@@ -1,10 +1,10 @@
 # meilisearch/meilisearch - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1196
 
-★ Stars: 33275
+★ Stars: 33380
 
 [Open repository](https://github.com/meilisearch/meilisearch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 33380 | 1196 | 
 | 2023-02-12 | 33275 | 1196 | 
 | 2023-02-11 | 33256 | 1196 | 
 | 2023-02-10 | 33176 | 1195 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 31988 | 1164 | 
 | 2023-01-16 | 31970 | 1164 | 
 | 2023-01-15 | 31940 | 1163 | 
-| 2023-01-14 | 31938 | 1162 | 
 

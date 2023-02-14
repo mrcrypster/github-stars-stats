@@ -1,6 +1,6 @@
 # vassbo/freeshow - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 191 | 18 | 
 | 2023-02-13 | 191 | 18 | 
 | 2023-02-11 | 191 | 18 | 
 | 2023-02-10 | 190 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 188 | 18 | 
 | 2023-01-16 | 187 | 18 | 
 | 2023-01-15 | 187 | 17 | 
-| 2023-01-14 | 187 | 17 | 
 

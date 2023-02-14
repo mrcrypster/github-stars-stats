@@ -1,10 +1,10 @@
 # Unity-Technologies/Megacity-Sample - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 25
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/Unity-Technologies/Megacity-Sample)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 103 | 25 | 
 | 2023-02-12 | 102 | 25 | 
 | 2023-02-11 | 101 | 25 | 
 | 2023-02-10 | 101 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 89 | 21 | 
 | 2023-01-17 | 88 | 21 | 
 | 2023-01-15 | 86 | 21 | 
-| 2023-01-14 | 85 | 21 | 
 

@@ -1,6 +1,6 @@
 # shardlab/discordrb - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 375 | 68 | 
 | 2023-02-12 | 375 | 68 | 
 | 2023-02-11 | 375 | 68 | 
 | 2023-02-10 | 375 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 370 | 65 | 
 | 2023-01-17 | 370 | 65 | 
 | 2023-01-15 | 369 | 65 | 
-| 2023-01-14 | 368 | 65 | 
 

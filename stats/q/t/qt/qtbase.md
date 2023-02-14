@@ -1,8 +1,8 @@
 # qt/qtbase - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 895
+☋ Forks: 896
 
 ★ Stars: 1906
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1906 | 896 | 
 | 2023-02-12 | 1906 | 895 | 
 | 2023-02-11 | 1903 | 895 | 
 | 2023-02-10 | 1903 | 896 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1872 | 888 | 
 | 2023-01-16 | 1871 | 886 | 
 | 2023-01-15 | 1869 | 886 | 
-| 2023-01-14 | 1868 | 886 | 
 

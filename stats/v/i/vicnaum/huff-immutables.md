@@ -1,10 +1,10 @@
 # vicnaum/huff-immutables - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/vicnaum/huff-immutables)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 15 | - | 
 | 2023-02-12 | 14 | - | 
 | 2023-02-11 | 14 | - | 
 | 2023-02-10 | 14 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 12 | - | 
 | 2023-01-16 | 11 | - | 
 | 2023-01-15 | 11 | - | 
-| 2023-01-14 | 11 | - | 
 

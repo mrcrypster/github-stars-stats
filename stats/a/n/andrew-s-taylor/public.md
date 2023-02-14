@@ -1,6 +1,6 @@
 # andrew-s-taylor/public - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 89 | 45 | 
 | 2023-02-12 | 89 | 45 | 
 | 2023-02-11 | 89 | 45 | 
 | 2023-02-10 | 88 | 45 | 

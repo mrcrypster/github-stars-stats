@@ -1,6 +1,6 @@
 # apache/age - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1475 | 171 | 
 | 2023-02-12 | 1475 | 171 | 
 | 2023-02-11 | 1474 | 171 | 
 | 2023-02-10 | 1472 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1418 | 161 | 
 | 2023-01-16 | 1417 | 160 | 
 | 2023-01-15 | 1417 | 160 | 
-| 2023-01-14 | 1413 | 160 | 
 

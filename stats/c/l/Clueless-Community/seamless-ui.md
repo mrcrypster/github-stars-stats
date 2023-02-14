@@ -1,8 +1,8 @@
 # Clueless-Community/seamless-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 207
+☋ Forks: 208
 
 ★ Stars: 209
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 209 | 208 | 
 | 2023-02-12 | 209 | 207 | 
 | 2023-02-11 | 209 | 208 | 
 

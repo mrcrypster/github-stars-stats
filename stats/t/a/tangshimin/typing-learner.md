@@ -1,10 +1,10 @@
 # tangshimin/typing-learner - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 47
 
-★ Stars: 804
+★ Stars: 806
 
 [Open repository](https://github.com/tangshimin/typing-learner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 806 | 47 | 
 | 2023-02-12 | 804 | 47 | 
 | 2023-02-11 | 802 | 47 | 
 | 2023-02-10 | 800 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 763 | 45 | 
 | 2023-01-17 | 762 | 45 | 
 | 2023-01-15 | 760 | 45 | 
-| 2023-01-14 | 760 | 45 | 
 

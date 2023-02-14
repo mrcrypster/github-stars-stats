@@ -1,6 +1,6 @@
 # spiritualized1997/openFPGA-GBA - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 423 | 3 | 
 | 2023-02-12 | 423 | 3 | 
 | 2023-02-10 | 422 | 3 | 
 | 2023-02-09 | 422 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 406 | 3 | 
 | 2023-01-16 | 406 | 3 | 
 | 2023-01-15 | 406 | 3 | 
-| 2023-01-14 | 406 | 3 | 
 

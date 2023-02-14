@@ -1,6 +1,6 @@
 # ftsf/nico - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 499 | 31 | 
 | 2023-02-12 | 499 | 31 | 
 | 2023-02-11 | 499 | 30 | 
 | 2023-02-10 | 498 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 491 | 29 | 
 | 2023-01-16 | 491 | 29 | 
 | 2023-01-15 | 491 | 29 | 
-| 2023-01-14 | 491 | 29 | 
 

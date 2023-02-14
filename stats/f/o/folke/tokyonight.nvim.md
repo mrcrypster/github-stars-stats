@@ -1,10 +1,10 @@
 # folke/tokyonight.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 219
+☋ Forks: 218
 
-★ Stars: 3073
+★ Stars: 3080
 
 [Open repository](https://github.com/folke/tokyonight.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3080 | 218 | 
 | 2023-02-12 | 3073 | 219 | 
 | 2023-02-11 | 3063 | 220 | 
 | 2023-02-10 | 3058 | 219 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2882 | 210 | 
 | 2023-01-16 | 2875 | 210 | 
 | 2023-01-15 | 2868 | 210 | 
-| 2023-01-14 | 2866 | 211 | 
 

@@ -1,10 +1,10 @@
 # telepresenceio/telepresence - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 446
 
-★ Stars: 5596
+★ Stars: 5603
 
 [Open repository](https://github.com/telepresenceio/telepresence)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5603 | 446 | 
 | 2023-02-12 | 5596 | 446 | 
 | 2023-02-11 | 5594 | 445 | 
 | 2023-02-10 | 5590 | 444 | 

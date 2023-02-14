@@ -1,10 +1,10 @@
 # KastnerRG/riffa - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 257
 
-★ Stars: 532
+★ Stars: 533
 
 [Open repository](https://github.com/KastnerRG/riffa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 533 | 257 | 
 | 2023-02-12 | 532 | 257 | 
 | 2023-02-11 | 531 | 257 | 
 | 2023-02-10 | 531 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 523 | 254 | 
 | 2023-01-16 | 523 | 254 | 
 | 2023-01-15 | 523 | 254 | 
-| 2023-01-14 | 522 | 254 | 
 

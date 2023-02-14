@@ -1,6 +1,6 @@
 # safe-global/safe-services-status - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 7 | 8 | 
 | 2023-02-12 | 7 | 8 | 
 | 2023-02-11 | 7 | 8 | 
 | 2023-02-10 | 7 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 5 | 6 | 
 | 2023-01-16 | 5 | 6 | 
 | 2023-01-15 | 5 | 6 | 
-| 2023-01-14 | 5 | 6 | 
 

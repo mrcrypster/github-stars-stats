@@ -1,6 +1,6 @@
 # yoanbernabeu/Cronify - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 147 | 18 | 
 | 2023-02-12 | 147 | 18 | 
 | 2023-02-11 | 147 | 18 | 
 | 2023-02-10 | 146 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 138 | 18 | 
 | 2023-01-16 | 138 | 17 | 
 | 2023-01-15 | 137 | 17 | 
-| 2023-01-14 | 137 | 17 | 
 

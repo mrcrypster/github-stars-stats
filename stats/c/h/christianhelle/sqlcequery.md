@@ -1,10 +1,10 @@
 # christianhelle/sqlcequery - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/christianhelle/sqlcequery)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 45 | 12 | 
 | 2023-02-12 | 44 | 12 | 
 | 2023-02-11 | 44 | 12 | 
 | 2023-02-10 | 44 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 43 | 12 | 
 | 2023-01-16 | 43 | 12 | 
 | 2023-01-15 | 43 | 12 | 
-| 2023-01-14 | 43 | 12 | 
 

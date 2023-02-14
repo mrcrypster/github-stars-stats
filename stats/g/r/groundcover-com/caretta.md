@@ -1,10 +1,10 @@
 # groundcover-com/caretta - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 32
 
-★ Stars: 1070
+★ Stars: 1077
 
 [Open repository](https://github.com/groundcover-com/caretta)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1077 | 32 | 
 | 2023-02-11 | 1070 | 32 | 
 | 2023-02-10 | 1066 | 32 | 
 | 2023-02-09 | 1061 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 457 | 14 | 
 | 2023-01-16 | 210 | 6 | 
 | 2023-01-15 | 182 | 5 | 
-| 2023-01-14 | 182 | 5 | 
 

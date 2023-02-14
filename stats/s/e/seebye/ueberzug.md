@@ -1,10 +1,10 @@
 # seebye/ueberzug - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 121
 
-★ Stars: 1231
+★ Stars: 1232
 
 [Open repository](https://github.com/seebye/ueberzug)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1232 | 121 | 
 | 2023-02-12 | 1231 | 121 | 
 | 2023-02-11 | 1230 | 121 | 
 | 2023-02-10 | 1230 | 121 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1229 | 117 | 
 | 2023-01-16 | 1229 | 117 | 
 | 2023-01-15 | 1230 | 117 | 
-| 2023-01-14 | 1230 | 117 | 
 

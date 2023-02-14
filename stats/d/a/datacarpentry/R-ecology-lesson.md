@@ -1,6 +1,6 @@
 # datacarpentry/R-ecology-lesson - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 476
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 265 | 476 | 
 | 2023-02-12 | 265 | 476 | 
 | 2023-02-11 | 265 | 476 | 
 | 2023-02-10 | 265 | 476 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 263 | 475 | 
 | 2023-01-16 | 263 | 475 | 
 | 2023-01-15 | 262 | 475 | 
-| 2023-01-14 | 262 | 475 | 
 

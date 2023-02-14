@@ -1,10 +1,10 @@
 # Pr-Mex/vanessa-automation - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 166
 
-★ Stars: 335
+★ Stars: 337
 
 [Open repository](https://github.com/Pr-Mex/vanessa-automation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 337 | 166 | 
 | 2023-02-12 | 335 | 166 | 
 | 2023-02-11 | 335 | 166 | 
 | 2023-02-10 | 335 | 166 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 319 | 167 | 
 | 2023-01-16 | 319 | 167 | 
 | 2023-01-15 | 318 | 167 | 
-| 2023-01-14 | 318 | 167 | 
 

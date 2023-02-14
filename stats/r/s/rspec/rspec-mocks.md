@@ -1,10 +1,10 @@
 # rspec/rspec-mocks - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 340
 
-★ Stars: 1104
+★ Stars: 1105
 
 [Open repository](https://github.com/rspec/rspec-mocks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1105 | 340 | 
 | 2023-02-12 | 1104 | 340 | 
 | 2023-02-11 | 1104 | 340 | 
 | 2023-02-10 | 1104 | 340 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1101 | 340 | 
 | 2023-01-16 | 1100 | 340 | 
 | 2023-01-15 | 1100 | 340 | 
-| 2023-01-14 | 1100 | 340 | 
 

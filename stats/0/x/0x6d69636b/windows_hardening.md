@@ -1,10 +1,10 @@
 # 0x6d69636b/windows_hardening - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 254
 
-★ Stars: 1740
+★ Stars: 1743
 
 [Open repository](https://github.com/0x6d69636b/windows_hardening)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1743 | 254 | 
 | 2023-02-12 | 1740 | 254 | 
 | 2023-02-11 | 1736 | 254 | 
 | 2023-02-10 | 1732 | 254 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1690 | 252 | 
 | 2023-01-16 | 1689 | 252 | 
 | 2023-01-15 | 1689 | 252 | 
-| 2023-01-14 | 1689 | 252 | 
 

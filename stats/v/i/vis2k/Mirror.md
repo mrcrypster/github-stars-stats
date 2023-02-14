@@ -1,10 +1,10 @@
 # vis2k/Mirror - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 637
 
-★ Stars: 3888
+★ Stars: 3892
 
 [Open repository](https://github.com/vis2k/Mirror)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3892 | 637 | 
 | 2023-02-12 | 3888 | 637 | 
 | 2023-02-11 | 3884 | 637 | 
 | 2023-02-10 | 3882 | 637 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3822 | 625 | 
 | 2023-01-16 | 3820 | 624 | 
 | 2023-01-15 | 3818 | 624 | 
-| 2023-01-14 | 3816 | 624 | 
 

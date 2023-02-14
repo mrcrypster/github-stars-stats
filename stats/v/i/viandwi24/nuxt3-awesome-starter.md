@@ -1,10 +1,10 @@
 # viandwi24/nuxt3-awesome-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 174
 
-★ Stars: 755
+★ Stars: 756
 
 [Open repository](https://github.com/viandwi24/nuxt3-awesome-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 756 | 174 | 
 | 2023-02-12 | 755 | 174 | 
 | 2023-02-11 | 752 | 174 | 
 | 2023-02-10 | 751 | 174 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 690 | 165 | 
 | 2023-01-16 | 690 | 164 | 
 | 2023-01-15 | 686 | 164 | 
-| 2023-01-14 | 684 | 163 | 
 

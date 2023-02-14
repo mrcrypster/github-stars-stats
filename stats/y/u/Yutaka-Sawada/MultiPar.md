@@ -1,10 +1,10 @@
 # Yutaka-Sawada/MultiPar - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 567
+★ Stars: 570
 
 [Open repository](https://github.com/Yutaka-Sawada/MultiPar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 570 | 27 | 
 | 2023-02-12 | 567 | 27 | 
 | 2023-02-11 | 566 | 27 | 
 | 2023-02-10 | 566 | 27 | 

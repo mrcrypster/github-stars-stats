@@ -1,10 +1,10 @@
 # G4lile0/Heimdall-WiFi-Radar - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 57
 
-★ Stars: 484
+★ Stars: 485
 
 [Open repository](https://github.com/G4lile0/Heimdall-WiFi-Radar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 485 | 57 | 
 | 2023-02-12 | 484 | 57 | 
 | 2023-02-11 | 484 | 57 | 
 | 2023-02-10 | 484 | 57 | 

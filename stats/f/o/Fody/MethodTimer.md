@@ -1,10 +1,10 @@
 # Fody/MethodTimer - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 53
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/Fody/MethodTimer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 423 | 53 | 
 | 2023-02-12 | 422 | 53 | 
 | 2023-02-11 | 421 | 53 | 
 | 2023-02-10 | 419 | 53 | 

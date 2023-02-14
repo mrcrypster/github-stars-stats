@@ -1,6 +1,6 @@
 # idaholab/virtual_test_bed - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 31 | 40 | 
 | 2023-02-12 | 31 | 40 | 
 | 2023-02-11 | 31 | 40 | 
 | 2023-02-10 | 31 | 40 | 

@@ -1,10 +1,10 @@
 # bupticybee/ChineseAiDungeonChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 840
+★ Stars: 847
 
 [Open repository](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 847 | 77 | 
 | 2023-02-12 | 840 | 76 | 
 | 2023-02-11 | 837 | 76 | 
 | 2023-02-10 | 821 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 743 | 63 | 
 | 2023-01-17 | 741 | 63 | 
 | 2023-01-15 | 737 | 61 | 
-| 2023-01-14 | 736 | 61 | 
 

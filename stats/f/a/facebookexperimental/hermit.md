@@ -1,6 +1,6 @@
 # facebookexperimental/hermit - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 444 | 16 | 
 | 2023-02-12 | 444 | 16 | 
 | 2023-02-11 | 444 | 16 | 
 | 2023-02-10 | 443 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 432 | 15 | 
 | 2023-01-16 | 431 | 15 | 
 | 2023-01-15 | 430 | 15 | 
-| 2023-01-14 | 430 | 15 | 
 

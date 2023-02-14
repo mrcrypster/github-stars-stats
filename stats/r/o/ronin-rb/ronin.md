@@ -1,10 +1,10 @@
 # ronin-rb/ronin - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 39
 
-★ Stars: 501
+★ Stars: 505
 
 [Open repository](https://github.com/ronin-rb/ronin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 505 | 39 | 
 | 2023-02-12 | 501 | 39 | 
 | 2023-02-11 | 499 | 39 | 
 | 2023-02-10 | 499 | 39 | 

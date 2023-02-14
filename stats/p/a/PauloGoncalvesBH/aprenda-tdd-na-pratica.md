@@ -1,10 +1,10 @@
 # PauloGoncalvesBH/aprenda-tdd-na-pratica - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 46
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 488 | 46 | 
 | 2023-02-12 | 487 | 46 | 
 | 2023-02-11 | 487 | 46 | 
 | 2023-02-10 | 487 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 483 | 47 | 
 | 2023-01-16 | 483 | 47 | 
 | 2023-01-15 | 482 | 47 | 
-| 2023-01-14 | 482 | 47 | 
 

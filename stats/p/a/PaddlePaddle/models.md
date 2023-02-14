@@ -1,10 +1,10 @@
 # PaddlePaddle/models - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 2968
 
-★ Stars: 6728
+★ Stars: 6729
 
 [Open repository](https://github.com/PaddlePaddle/models)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 6729 | 2968 | 
 | 2023-02-12 | 6728 | 2968 | 
 | 2023-02-11 | 6727 | 2967 | 
 | 2023-02-10 | 6727 | 2967 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 6720 | 2968 | 
 | 2023-01-16 | 6719 | 2968 | 
 | 2023-01-15 | 6719 | 2967 | 
-| 2023-01-14 | 6718 | 2967 | 
 

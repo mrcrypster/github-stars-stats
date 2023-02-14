@@ -1,6 +1,6 @@
 # corretto/corretto-8 - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2041 | 216 | 
 | 2023-02-12 | 2041 | 216 | 
 | 2023-02-11 | 2040 | 216 | 
 | 2023-02-10 | 2040 | 215 | 

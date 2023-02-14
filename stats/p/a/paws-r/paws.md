@@ -1,6 +1,6 @@
 # paws-r/paws - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 244 | 33 | 
 | 2023-02-13 | 244 | 33 | 
 | 2023-02-11 | 244 | 33 | 
 | 2023-02-10 | 244 | 33 | 

@@ -1,10 +1,10 @@
 # P3TERX/aria2.sh - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 734
 
-★ Stars: 2455
+★ Stars: 2454
 
 [Open repository](https://github.com/P3TERX/aria2.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2454 | 734 | 
 | 2023-02-12 | 2455 | 734 | 
 | 2023-02-11 | 2453 | 734 | 
 | 2023-02-10 | 2452 | 734 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2413 | 723 | 
 | 2023-01-16 | 2412 | 723 | 
 | 2023-01-15 | 2411 | 724 | 
-| 2023-01-14 | 2409 | 724 | 
 

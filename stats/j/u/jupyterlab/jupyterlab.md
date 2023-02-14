@@ -1,10 +1,10 @@
 # jupyterlab/jupyterlab - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 2545
 
-★ Stars: 12614
+★ Stars: 12618
 
 [Open repository](https://github.com/jupyterlab/jupyterlab)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 12618 | 2545 | 
 | 2023-02-12 | 12614 | 2545 | 
 | 2023-02-11 | 12610 | 2544 | 
 | 2023-02-10 | 12606 | 2542 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 12566 | 2536 | 
 | 2023-01-16 | 12562 | 2536 | 
 | 2023-01-15 | 12559 | 2533 | 
-| 2023-01-14 | 12557 | 2531 | 
 

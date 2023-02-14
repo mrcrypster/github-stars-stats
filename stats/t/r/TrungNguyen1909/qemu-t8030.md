@@ -1,6 +1,6 @@
 # TrungNguyen1909/qemu-t8030 - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1705 | 132 | 
 | 2023-02-12 | 1705 | 132 | 
 | 2023-02-11 | 1705 | 132 | 
 | 2023-02-09 | 1704 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1660 | 129 | 
 | 2023-01-16 | 1660 | 129 | 
 | 2023-01-15 | 1660 | 129 | 
-| 2023-01-14 | 1661 | 129 | 
 

@@ -1,6 +1,6 @@
 # naudio/NAudio - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1027
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4439 | 1027 | 
 | 2023-02-12 | 4439 | 1027 | 
 | 2023-02-11 | 4437 | 1027 | 
 | 2023-02-10 | 4434 | 1026 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 4385 | 1023 | 
 | 2023-01-16 | 4381 | 1023 | 
 | 2023-01-15 | 4378 | 1023 | 
-| 2023-01-14 | 4377 | 1022 | 
 

@@ -1,10 +1,10 @@
 # hlorus/CAD_Sketcher - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 73
 
-★ Stars: 1767
+★ Stars: 1775
 
 [Open repository](https://github.com/hlorus/CAD_Sketcher)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1775 | 73 | 
 | 2023-02-12 | 1767 | 73 | 
 | 2023-02-11 | 1766 | 73 | 
 | 2023-02-10 | 1764 | 73 | 

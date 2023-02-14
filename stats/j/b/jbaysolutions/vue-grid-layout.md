@@ -1,10 +1,10 @@
 # jbaysolutions/vue-grid-layout - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 1298
+☋ Forks: 1300
 
-★ Stars: 6134
+★ Stars: 6140
 
 [Open repository](https://github.com/jbaysolutions/vue-grid-layout)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 6140 | 1300 | 
 | 2023-02-12 | 6134 | 1298 | 
 | 2023-02-11 | 6132 | 1298 | 
 | 2023-02-10 | 6125 | 1298 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 6079 | 1286 | 
 | 2023-01-16 | 6076 | 1286 | 
 | 2023-01-15 | 6075 | 1287 | 
-| 2023-01-14 | 6074 | 1287 | 
 

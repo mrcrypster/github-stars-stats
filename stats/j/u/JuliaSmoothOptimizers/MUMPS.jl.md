@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/MUMPS.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/MUMPS.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 32 | 10 | 
 | 2023-02-12 | 31 | 10 | 
 | 2023-02-11 | 31 | 10 | 
 | 2023-02-10 | 31 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 31 | 10 | 
 | 2023-01-17 | 31 | 10 | 
 | 2023-01-16 | 31 | 10 | 
-| 2023-01-15 | 31 | 10 | 
 

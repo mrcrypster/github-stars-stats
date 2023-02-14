@@ -1,8 +1,8 @@
 # ZerioDev/Music-bot - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 984
+☋ Forks: 985
 
 ★ Stars: 783
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 783 | 985 | 
 | 2023-02-12 | 783 | 984 | 
 | 2023-02-11 | 783 | 983 | 
 | 2023-02-10 | 782 | 981 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 771 | 980 | 
 | 2023-01-17 | 770 | 980 | 
 | 2023-01-16 | 770 | 980 | 
-| 2023-01-15 | 768 | 978 | 
 

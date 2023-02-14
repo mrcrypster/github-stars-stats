@@ -1,6 +1,6 @@
 # JoelGMSec/PSRansom - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 303 | 77 | 
 | 2023-02-13 | 303 | 77 | 
 | 2023-02-11 | 303 | 77 | 
 | 2023-02-10 | 303 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 292 | 73 | 
 | 2023-01-16 | 292 | 73 | 
 | 2023-01-15 | 292 | 73 | 
-| 2023-01-14 | 291 | 73 | 
 

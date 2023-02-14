@@ -1,10 +1,10 @@
 # braziljs/eloquente-javascript - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1134
 
-★ Stars: 4668
+★ Stars: 4669
 
 [Open repository](https://github.com/braziljs/eloquente-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4669 | 1134 | 
 | 2023-02-12 | 4668 | 1134 | 
 | 2023-02-11 | 4668 | 1134 | 
 | 2023-02-10 | 4667 | 1134 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 4638 | 1131 | 
 | 2023-01-16 | 4637 | 1131 | 
 | 2023-01-15 | 4637 | 1130 | 
-| 2023-01-14 | 4636 | 1129 | 
 

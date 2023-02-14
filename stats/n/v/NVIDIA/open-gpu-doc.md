@@ -1,10 +1,10 @@
 # NVIDIA/open-gpu-doc - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 80
 
-★ Stars: 1139
+★ Stars: 1140
 
 [Open repository](https://github.com/NVIDIA/open-gpu-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1140 | 80 | 
 | 2023-02-12 | 1139 | 80 | 
 | 2023-02-10 | 1139 | 80 | 
 | 2023-02-09 | 1139 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1139 | 79 | 
 | 2023-01-16 | 1139 | 79 | 
 | 2023-01-15 | 1139 | 79 | 
-| 2023-01-14 | 1139 | 79 | 
 

@@ -1,10 +1,10 @@
 # m1guelpf/plz-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 41
 
-★ Stars: 1075
+★ Stars: 1077
 
 [Open repository](https://github.com/m1guelpf/plz-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1077 | 41 | 
 | 2023-02-12 | 1075 | 41 | 
 | 2023-02-11 | 1074 | 41 | 
 | 2023-02-10 | 1074 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1027 | 41 | 
 | 2023-01-16 | 1018 | 41 | 
 | 2023-01-15 | 1013 | 41 | 
-| 2023-01-14 | 1011 | 40 | 
 

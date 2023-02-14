@@ -1,10 +1,10 @@
 # walking-sunset/selection-task - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 104
+★ Stars: 103
 
 [Open repository](https://github.com/walking-sunset/selection-task)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 103 | 117 | 
 | 2023-02-12 | 104 | 116 | 
 | 2023-02-11 | 103 | 114 | 
 | 2023-02-10 | 101 | 112 | 

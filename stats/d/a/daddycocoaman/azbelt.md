@@ -1,10 +1,10 @@
 # daddycocoaman/azbelt - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 5
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/daddycocoaman/azbelt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 99 | 5 | 
 | 2023-02-12 | 97 | 5 | 
 | 2023-02-11 | 96 | 5 | 
 | 2023-02-10 | 96 | 5 | 

@@ -1,6 +1,6 @@
 # zcyzcy88/TagTable - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 396 | 48 | 
 | 2023-02-12 | 396 | 48 | 
 | 2023-02-11 | 396 | 48 | 
 | 2023-02-10 | 396 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 396 | 49 | 
 | 2023-01-16 | 396 | 49 | 
 | 2023-01-15 | 396 | 50 | 
-| 2023-01-14 | 395 | 49 | 
 

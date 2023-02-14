@@ -1,6 +1,6 @@
 # cornell-ece5745/ece5745-tut4-asic-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | - | 1 | 
 | 2023-02-13 | - | 1 | 
 | 2023-02-11 | - | 1 | 
 | 2023-02-10 | - | 1 | 

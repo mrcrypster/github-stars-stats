@@ -1,10 +1,10 @@
 # ish-app/ish - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 723
 
-★ Stars: 13422
+★ Stars: 13430
 
 [Open repository](https://github.com/ish-app/ish)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 13430 | 723 | 
+| 2023-02-13 | 13429 | 723 | 
 | 2023-02-12 | 13422 | 723 | 
 | 2023-02-11 | 13419 | 721 | 
 | 2023-02-10 | 13412 | 721 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 13304 | 714 | 
 | 2023-01-16 | 13298 | 714 | 
 | 2023-01-15 | 13296 | 714 | 
-| 2023-01-14 | 13289 | 714 | 
 

@@ -1,10 +1,10 @@
 # ConsenSys/quorum-kubernetes - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 84
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/ConsenSys/quorum-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 74 | 84 | 
 | 2023-02-12 | 73 | 84 | 
 | 2023-02-11 | 73 | 83 | 
 | 2023-02-10 | 73 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 73 | 79 | 
 | 2023-01-16 | 73 | 78 | 
 | 2023-01-15 | 73 | 78 | 
-| 2023-01-14 | 73 | 77 | 
 

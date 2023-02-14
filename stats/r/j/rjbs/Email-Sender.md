@@ -1,6 +1,6 @@
 # rjbs/Email-Sender - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 55 | 38 | 
 | 2023-02-12 | 55 | 38 | 
 | 2023-02-11 | 55 | 38 | 
 | 2023-02-10 | 55 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 52 | 38 | 
 | 2023-01-16 | 52 | 38 | 
 | 2023-01-15 | 52 | 38 | 
-| 2023-01-14 | 52 | 38 | 
 

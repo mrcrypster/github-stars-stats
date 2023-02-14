@@ -1,10 +1,10 @@
 # hacs/integration - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 892
 
-★ Stars: 3334
+★ Stars: 3341
 
 [Open repository](https://github.com/hacs/integration)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3341 | 892 | 
 | 2023-02-12 | 3334 | 892 | 
 | 2023-02-11 | 3330 | 892 | 
 | 2023-02-10 | 3329 | 891 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3258 | 869 | 
 | 2023-01-16 | 3253 | 869 | 
 | 2023-01-15 | 3254 | 868 | 
-| 2023-01-14 | 3250 | 867 | 
 

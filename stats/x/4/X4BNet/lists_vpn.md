@@ -1,10 +1,10 @@
 # X4BNet/lists_vpn - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 32
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/X4BNet/lists_vpn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 130 | 32 | 
 | 2023-02-12 | 129 | 32 | 
 | 2023-02-11 | 129 | 32 | 
 | 2023-02-10 | 128 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 114 | 29 | 
 | 2023-01-16 | 113 | 28 | 
 | 2023-01-15 | 113 | 28 | 
-| 2023-01-14 | 113 | 28 | 
 

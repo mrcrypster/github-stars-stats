@@ -1,10 +1,10 @@
 # AnkerLeng/Cpp-0-1-Resource - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1156
 
-★ Stars: 2780
+★ Stars: 2782
 
 [Open repository](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2782 | 1156 | 
 | 2023-02-12 | 2780 | 1156 | 
 | 2023-02-11 | 2780 | 1156 | 
 | 2023-02-10 | 2780 | 1155 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2766 | 1154 | 
 | 2023-01-16 | 2765 | 1154 | 
 | 2023-01-15 | 2764 | 1154 | 
-| 2023-01-14 | 2763 | 1154 | 
 

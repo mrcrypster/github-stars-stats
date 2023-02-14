@@ -1,10 +1,10 @@
 # BigJk/snd - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 364
+★ Stars: 365
 
 [Open repository](https://github.com/BigJk/snd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 365 | 12 | 
 | 2023-02-12 | 364 | 12 | 
 | 2023-02-11 | 364 | 12 | 
 | 2023-02-10 | 364 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 348 | 10 | 
 | 2023-01-17 | 347 | 10 | 
 | 2023-01-15 | 346 | 10 | 
-| 2023-01-14 | 346 | 10 | 
 

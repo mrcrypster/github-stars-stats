@@ -1,0 +1,18 @@
+# Azure-Samples/function-csharp-ai-textsummarize - stars & forks statistics
+
+Stats updated on Feb 2023, 14
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/Azure-Samples/function-csharp-ai-textsummarize)
+
+[Open detailed stats for Azure-Samples/function-csharp-ai-textsummarize](https://reviewgithub.com/rep/Azure-Samples/function-csharp-ai-textsummarize)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-14 | - | - | 
+| 2023-02-13 | - | - | 
+

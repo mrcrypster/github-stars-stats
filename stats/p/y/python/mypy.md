@@ -1,10 +1,10 @@
 # python/mypy - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 2441
+☋ Forks: 2442
 
-★ Stars: 14822
+★ Stars: 14835
 
 [Open repository](https://github.com/python/mypy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 14835 | 2442 | 
 | 2023-02-12 | 14822 | 2441 | 
 | 2023-02-11 | 14812 | 2440 | 
 | 2023-02-10 | 14806 | 2437 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 14491 | 2404 | 
 | 2023-01-16 | 14485 | 2403 | 
 | 2023-01-15 | 14484 | 2401 | 
-| 2023-01-14 | 14482 | 2399 | 
 

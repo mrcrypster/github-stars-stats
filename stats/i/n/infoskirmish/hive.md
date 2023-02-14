@@ -1,10 +1,10 @@
 # infoskirmish/hive - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 42
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/infoskirmish/hive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 124 | 42 | 
 | 2023-02-12 | 123 | 42 | 
 | 2023-02-10 | 123 | 42 | 
 | 2023-02-09 | 123 | 42 | 

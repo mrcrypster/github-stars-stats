@@ -1,10 +1,10 @@
 # jarnedemeulemeester/findroid - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 675
+★ Stars: 682
 
 [Open repository](https://github.com/jarnedemeulemeester/findroid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 682 | 58 | 
 | 2023-02-12 | 675 | 57 | 
 | 2023-02-10 | 672 | 58 | 
 | 2023-02-09 | 671 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 546 | 47 | 
 | 2023-01-16 | 545 | 46 | 
 | 2023-01-15 | 541 | 46 | 
-| 2023-01-14 | 540 | 46 | 
 

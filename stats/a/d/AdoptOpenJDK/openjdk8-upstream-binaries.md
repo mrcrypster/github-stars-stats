@@ -1,10 +1,10 @@
 # AdoptOpenJDK/openjdk8-upstream-binaries - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 19
 
-★ Stars: 135
+★ Stars: 134
 
 [Open repository](https://github.com/AdoptOpenJDK/openjdk8-upstream-binaries)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 134 | 19 | 
 | 2023-02-12 | 135 | 19 | 
 | 2023-02-11 | 135 | 19 | 
 | 2023-02-10 | 135 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 132 | 20 | 
 | 2023-01-17 | 132 | 20 | 
 | 2023-01-15 | 132 | 20 | 
-| 2023-01-14 | 132 | 20 | 
 

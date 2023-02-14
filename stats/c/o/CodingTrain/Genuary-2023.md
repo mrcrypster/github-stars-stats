@@ -1,10 +1,10 @@
 # CodingTrain/Genuary-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/CodingTrain/Genuary-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 16 | 3 | 
 | 2023-02-12 | 15 | 3 | 
 | 2023-02-10 | 14 | 3 | 
 | 2023-02-09 | 14 | 3 | 

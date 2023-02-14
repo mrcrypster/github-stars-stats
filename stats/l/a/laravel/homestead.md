@@ -1,8 +1,8 @@
 # laravel/homestead - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 1448
+☋ Forks: 1450
 
 ★ Stars: 3810
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3810 | 1450 | 
 | 2023-02-12 | 3810 | 1448 | 
 | 2023-02-11 | 3811 | 1447 | 
 | 2023-02-10 | 3811 | 1447 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3810 | 1449 | 
 | 2023-01-16 | 3810 | 1447 | 
 | 2023-01-15 | 3808 | 1448 | 
-| 2023-01-14 | 3808 | 1448 | 
 

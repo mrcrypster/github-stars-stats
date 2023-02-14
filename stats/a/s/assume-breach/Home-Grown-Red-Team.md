@@ -1,10 +1,10 @@
 # assume-breach/Home-Grown-Red-Team - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 46
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/assume-breach/Home-Grown-Red-Team)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 205 | 46 | 
 | 2023-02-12 | 204 | 46 | 
 | 2023-02-11 | 204 | 46 | 
 | 2023-02-10 | 203 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 168 | 38 | 
 | 2023-01-16 | 166 | 38 | 
 | 2023-01-15 | 166 | 38 | 
-| 2023-01-14 | 165 | 38 | 
 

@@ -1,6 +1,6 @@
 # oot-pc-port/oot-pc-port - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 33 | 1 | 
 | 2023-02-12 | 33 | 1 | 
 | 2023-02-11 | 33 | 1 | 
 | 2023-02-10 | 33 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 32 | 1 | 
 | 2023-01-16 | 32 | 1 | 
 | 2023-01-15 | 32 | 1 | 
-| 2023-01-14 | 32 | 1 | 
 

@@ -1,10 +1,10 @@
 # mozilla/gecko-dev - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1800
 
-★ Stars: 2698
+★ Stars: 2699
 
 [Open repository](https://github.com/mozilla/gecko-dev)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2699 | 1800 | 
 | 2023-02-12 | 2698 | 1800 | 
 | 2023-02-11 | 2699 | 1800 | 
 | 2023-02-10 | 2698 | 1800 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2669 | 1786 | 
 | 2023-01-16 | 2668 | 1786 | 
 | 2023-01-15 | 2666 | 1785 | 
-| 2023-01-14 | 2666 | 1785 | 
 

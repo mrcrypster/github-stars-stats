@@ -1,10 +1,10 @@
 # tunguz/TabularBenchmarks - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/tunguz/TabularBenchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 164 | 21 | 
 | 2023-02-12 | 163 | 21 | 
 | 2023-02-11 | 163 | 21 | 
 | 2023-02-10 | 163 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 157 | 20 | 
 | 2023-01-16 | 157 | 20 | 
 | 2023-01-15 | 156 | 20 | 
-| 2023-01-14 | 155 | 19 | 
 

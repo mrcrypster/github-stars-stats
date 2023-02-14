@@ -1,6 +1,6 @@
 # usdot-fhwa-stol/carma-msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5 | 8 | 
 | 2023-02-12 | 5 | 8 | 
 | 2023-02-11 | 5 | 8 | 
 | 2023-02-10 | 5 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 6 | 7 | 
 | 2023-01-16 | 6 | 7 | 
 | 2023-01-15 | 6 | 7 | 
-| 2023-01-14 | 6 | 7 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 13
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 70
+★ Stars: 81
 
 [Open repository](https://github.com/elleryqueenhomels/fast_neural_style_transfer)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 70 | 14 | 
+| 2023-02-13 | 81 | 16 | 
 | 2023-02-12 | 67 | 12 | 
 

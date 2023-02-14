@@ -1,10 +1,10 @@
 # flaviojmendes/trilhainfo - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 69
 
-★ Stars: 476
+★ Stars: 481
 
 [Open repository](https://github.com/flaviojmendes/trilhainfo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 481 | 69 | 
 | 2023-02-12 | 476 | 69 | 
 | 2023-02-11 | 477 | 69 | 
 | 2023-02-10 | 476 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 436 | 65 | 
 | 2023-01-16 | 436 | 64 | 
 | 2023-01-15 | 436 | 64 | 
-| 2023-01-14 | 436 | 64 | 
 

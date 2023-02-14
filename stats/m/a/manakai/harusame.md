@@ -1,0 +1,17 @@
+# manakai/harusame - stars & forks statistics
+
+Stats updated on Feb 2023, 13
+
+☋ Forks: 0
+
+★ Stars: 4
+
+[Open repository](https://github.com/manakai/harusame)
+
+[Open detailed stats for manakai/harusame](https://reviewgithub.com/rep/manakai/harusame)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-13 | 4 | - | 
+

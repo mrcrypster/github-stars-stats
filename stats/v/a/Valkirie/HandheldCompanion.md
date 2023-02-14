@@ -1,10 +1,10 @@
 # Valkirie/HandheldCompanion - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 16
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/Valkirie/HandheldCompanion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 259 | 16 | 
 | 2023-02-12 | 258 | 16 | 
 | 2023-02-11 | 255 | 16 | 
 | 2023-02-10 | 253 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 195 | 11 | 
 | 2023-01-16 | 192 | 11 | 
 | 2023-01-15 | 188 | 11 | 
-| 2023-01-14 | 184 | 11 | 
 

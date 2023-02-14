@@ -1,6 +1,6 @@
 # kowainik/colourista - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 59 | 14 | 
 | 2023-02-12 | 59 | 14 | 
 | 2023-02-11 | 59 | 14 | 
 | 2023-02-10 | 59 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 59 | 14 | 
 | 2023-01-16 | 59 | 14 | 
 | 2023-01-15 | 59 | 14 | 
-| 2023-01-14 | 59 | 14 | 
 

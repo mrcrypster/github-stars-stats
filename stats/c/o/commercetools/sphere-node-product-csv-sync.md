@@ -1,6 +1,6 @@
 # commercetools/sphere-node-product-csv-sync - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 12 | 11 | 
 | 2023-02-12 | 12 | 11 | 
 | 2023-02-10 | 12 | 11 | 
 | 2023-02-09 | 12 | 11 | 

@@ -1,6 +1,6 @@
 # SiftScience/sift-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 15 | 19 | 
 | 2023-02-12 | 15 | 19 | 
 | 2023-02-11 | 15 | 19 | 
 | 2023-02-10 | 15 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 15 | 19 | 
 | 2023-01-16 | 15 | 19 | 
 | 2023-01-15 | 15 | 19 | 
-| 2023-01-14 | 15 | 19 | 
 

@@ -1,10 +1,10 @@
 # Platane/snk - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
-☋ Forks: 463
+☋ Forks: 461
 
-★ Stars: 1987
+★ Stars: 1992
 
 [Open repository](https://github.com/Platane/snk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1992 | 461 | 
 | 2023-02-11 | 1987 | 463 | 
 | 2023-02-10 | 1982 | 459 | 
 | 2023-02-09 | 1981 | 455 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 1902 | 427 | 
 | 2023-01-16 | 1899 | 426 | 
 | 2023-01-15 | 1894 | 426 | 
-| 2023-01-14 | 1891 | 424 | 
 

@@ -1,10 +1,10 @@
 # PlusInsta/discord-plus - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 110
+☋ Forks: 112
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/PlusInsta/discord-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 218 | 112 | 
 | 2023-02-12 | 217 | 110 | 
 | 2023-02-11 | 217 | 109 | 
 | 2023-02-10 | 217 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 212 | 98 | 
 | 2023-01-16 | 212 | 98 | 
 | 2023-01-15 | 211 | 95 | 
-| 2023-01-14 | 211 | 96 | 
 

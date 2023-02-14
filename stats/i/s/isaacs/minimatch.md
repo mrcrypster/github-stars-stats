@@ -1,10 +1,10 @@
 # isaacs/minimatch - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 258
 
-★ Stars: 2894
+★ Stars: 2895
 
 [Open repository](https://github.com/isaacs/minimatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2895 | 258 | 
 | 2023-02-12 | 2894 | 258 | 
 | 2023-02-11 | 2894 | 258 | 
 | 2023-02-10 | 2894 | 258 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2879 | 256 | 
 | 2023-01-16 | 2880 | 256 | 
 | 2023-01-15 | 2878 | 255 | 
-| 2023-01-14 | 2877 | 255 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 13
 
-☋ Forks: 438
+☋ Forks: 471
 
-★ Stars: 2276
+★ Stars: 2372
 
 [Open repository](https://github.com/zhayujie/chatgpt-on-wechat)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 2276 | 438 | 
+| 2023-02-13 | 2372 | 471 | 
 | 2023-02-12 | 2273 | 436 | 
 | 2023-02-11 | 2114 | 390 | 
 | 2023-02-10 | 1931 | 353 | 

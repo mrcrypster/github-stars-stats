@@ -1,6 +1,6 @@
 # pytorch/pytorch_sphinx_theme - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 80 | 110 | 
 | 2023-02-12 | 80 | 110 | 
 | 2023-02-11 | 80 | 110 | 
 | 2023-02-10 | 80 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 80 | 110 | 
 | 2023-01-16 | 80 | 110 | 
 | 2023-01-15 | 79 | 109 | 
-| 2023-01-14 | 77 | 108 | 
 

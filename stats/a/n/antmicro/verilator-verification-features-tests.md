@@ -1,6 +1,6 @@
 # antmicro/verilator-verification-features-tests - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5 | 1 | 
 | 2023-02-12 | 5 | 1 | 
 | 2023-02-11 | 5 | 1 | 
 | 2023-02-10 | 5 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 4 | 1 | 
 | 2023-01-17 | 4 | 1 | 
 | 2023-01-16 | 4 | 1 | 
-| 2023-01-15 | 4 | 1 | 
 

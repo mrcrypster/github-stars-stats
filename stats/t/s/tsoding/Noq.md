@@ -1,6 +1,6 @@
 # tsoding/Noq - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 187 | 14 | 
 | 2023-02-12 | 187 | 14 | 
 | 2023-02-11 | 187 | 14 | 
 | 2023-02-10 | 187 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 187 | 13 | 
 | 2023-01-16 | 187 | 13 | 
 | 2023-01-15 | 187 | 13 | 
-| 2023-01-14 | 187 | 13 | 
 

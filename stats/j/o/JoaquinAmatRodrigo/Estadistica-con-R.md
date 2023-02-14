@@ -1,6 +1,6 @@
 # JoaquinAmatRodrigo/Estadistica-con-R - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 292 | 269 | 
 | 2023-02-12 | 292 | 269 | 
 | 2023-02-11 | 292 | 270 | 
 | 2023-02-10 | 291 | 270 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 284 | 264 | 
 | 2023-01-16 | 284 | 264 | 
 | 2023-01-15 | 284 | 264 | 
-| 2023-01-14 | 284 | 264 | 
 

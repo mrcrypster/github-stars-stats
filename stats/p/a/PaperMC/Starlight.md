@@ -1,8 +1,8 @@
 # PaperMC/Starlight - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 132
+☋ Forks: 131
 
 ★ Stars: 1190
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1190 | 131 | 
 | 2023-02-12 | 1190 | 132 | 
 | 2023-02-11 | 1189 | 132 | 
 | 2023-02-10 | 1188 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 1181 | 132 | 
 | 2023-01-17 | 1181 | 132 | 
 | 2023-01-16 | 1180 | 132 | 
-| 2023-01-15 | 1179 | 132 | 
 

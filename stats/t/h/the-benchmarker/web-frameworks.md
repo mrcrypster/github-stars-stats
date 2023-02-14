@@ -1,10 +1,10 @@
 # the-benchmarker/web-frameworks - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 589
 
-★ Stars: 6588
+★ Stars: 6589
 
 [Open repository](https://github.com/the-benchmarker/web-frameworks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 6589 | 589 | 
 | 2023-02-12 | 6588 | 589 | 
 | 2023-02-11 | 6588 | 589 | 
 | 2023-02-10 | 6587 | 589 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 6581 | 587 | 
 | 2023-01-16 | 6581 | 586 | 
 | 2023-01-15 | 6580 | 586 | 
-| 2023-01-14 | 6580 | 586 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 27
+★ Stars: 31
 
 [Open repository](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 27 | 6 | 
+| 2023-02-13 | 31 | 6 | 
 | 2023-02-12 | 27 | 6 | 
 

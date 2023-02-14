@@ -1,6 +1,6 @@
 # LunarVim/lunar.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 8 | 4 | 
 | 2023-02-12 | 8 | 4 | 
 | 2023-02-11 | 8 | 4 | 
 | 2023-02-10 | 8 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 5 | 2 | 
 | 2023-01-17 | 5 | 2 | 
 | 2023-01-16 | 5 | 2 | 
-| 2023-01-15 | 5 | 2 | 
 

@@ -1,10 +1,10 @@
 # schnommus/eurorack-pmod - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/schnommus/eurorack-pmod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 40 | - | 
 | 2023-02-12 | 39 | - | 
 | 2023-02-11 | 39 | - | 
 | 2023-02-10 | 35 | - | 

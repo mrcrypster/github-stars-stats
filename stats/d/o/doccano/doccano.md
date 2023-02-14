@@ -1,6 +1,6 @@
 # doccano/doccano - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1480
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 7313 | 1480 | 
 | 2023-02-12 | 7313 | 1480 | 
 | 2023-02-11 | 7313 | 1479 | 
 | 2023-02-09 | 7305 | 1479 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 7209 | 1471 | 
 | 2023-01-16 | 7206 | 1471 | 
 | 2023-01-15 | 7196 | 1468 | 
-| 2023-01-14 | 7196 | 1467 | 
 

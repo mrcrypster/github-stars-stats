@@ -1,6 +1,6 @@
 # OneSignal/OneSignal-Gradle-Plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 63 | 20 | 
 | 2023-02-12 | 63 | 20 | 
 | 2023-02-11 | 63 | 20 | 
 | 2023-02-10 | 63 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 63 | 20 | 
 | 2023-01-16 | 63 | 20 | 
 | 2023-01-15 | 63 | 20 | 
-| 2023-01-14 | 63 | 20 | 
 

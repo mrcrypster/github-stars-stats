@@ -1,8 +1,8 @@
 # facebookresearch/Mephisto - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 263
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 263 | 60 | 
 | 2023-02-12 | 263 | 59 | 
 | 2023-02-11 | 263 | 59 | 
 | 2023-02-10 | 263 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 259 | 57 | 
 | 2023-01-16 | 259 | 57 | 
 | 2023-01-15 | 259 | 57 | 
-| 2023-01-14 | 259 | 57 | 
 

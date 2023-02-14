@@ -1,6 +1,6 @@
 # layoutBox/PinLayout - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2097 | 128 | 
 | 2023-02-12 | 2097 | 128 | 
 | 2023-02-10 | 2097 | 127 | 
 | 2023-02-09 | 2097 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2092 | 127 | 
 | 2023-01-16 | 2092 | 127 | 
 | 2023-01-15 | 2092 | 127 | 
-| 2023-01-14 | 2091 | 127 | 
 

@@ -1,6 +1,6 @@
 # elixirschool/school_house - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 127 | 36 | 
 | 2023-02-12 | 127 | 36 | 
 | 2023-02-11 | 127 | 36 | 
 | 2023-02-10 | 127 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 125 | 36 | 
 | 2023-01-16 | 125 | 36 | 
 | 2023-01-15 | 125 | 36 | 
-| 2023-01-14 | 125 | 36 | 
 

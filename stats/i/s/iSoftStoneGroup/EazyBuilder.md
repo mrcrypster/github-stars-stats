@@ -1,10 +1,10 @@
 # iSoftStoneGroup/EazyBuilder - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 110
 
-★ Stars: 670
+★ Stars: 669
 
 [Open repository](https://github.com/iSoftStoneGroup/EazyBuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 669 | 110 | 
 | 2023-02-13 | 670 | 110 | 
 | 2023-02-11 | 669 | 110 | 
 | 2023-02-10 | 669 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 664 | 109 | 
 | 2023-01-16 | 662 | 109 | 
 | 2023-01-15 | 661 | 109 | 
-| 2023-01-14 | 661 | 109 | 
 

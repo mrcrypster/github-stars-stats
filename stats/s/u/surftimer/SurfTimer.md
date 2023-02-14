@@ -1,6 +1,6 @@
 # surftimer/SurfTimer - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 127 | 69 | 
 | 2023-02-11 | 127 | 69 | 
 | 2023-02-10 | 127 | 69 | 
 | 2023-02-09 | 127 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 126 | 68 | 
 | 2023-01-16 | 126 | 68 | 
 | 2023-01-15 | 126 | 68 | 
-| 2023-01-14 | 126 | 68 | 
 

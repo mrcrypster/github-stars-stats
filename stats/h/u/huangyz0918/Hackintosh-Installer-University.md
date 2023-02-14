@@ -1,6 +1,6 @@
 # huangyz0918/Hackintosh-Installer-University - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1027
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3876 | 1027 | 
 | 2023-02-12 | 3876 | 1027 | 
 | 2023-02-11 | 3877 | 1027 | 
 | 2023-02-10 | 3877 | 1028 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3869 | 1026 | 
 | 2023-01-16 | 3869 | 1026 | 
 | 2023-01-15 | 3867 | 1025 | 
-| 2023-01-14 | 3865 | 1025 | 
 

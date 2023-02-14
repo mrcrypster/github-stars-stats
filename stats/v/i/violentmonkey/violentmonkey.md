@@ -1,10 +1,10 @@
 # violentmonkey/violentmonkey - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 353
+☋ Forks: 354
 
-★ Stars: 3709
+★ Stars: 3719
 
 [Open repository](https://github.com/violentmonkey/violentmonkey)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 3719 | 354 | 
 | 2023-02-12 | 3709 | 353 | 
 | 2023-02-11 | 3704 | 353 | 
 | 2023-02-10 | 3703 | 353 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 3636 | 345 | 
 | 2023-01-16 | 3633 | 344 | 
 | 2023-01-15 | 3630 | 344 | 
-| 2023-01-14 | 3628 | 344 | 
 

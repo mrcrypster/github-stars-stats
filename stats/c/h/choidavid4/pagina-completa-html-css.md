@@ -1,6 +1,6 @@
 # choidavid4/pagina-completa-html-css - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 65 | 70 | 
 | 2023-02-12 | 65 | 70 | 
 | 2023-02-11 | 65 | 70 | 
 | 2023-02-10 | 64 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 59 | 64 | 
 | 2023-01-16 | 59 | 64 | 
 | 2023-01-15 | 59 | 64 | 
-| 2023-01-14 | 59 | 64 | 
 

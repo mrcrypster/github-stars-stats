@@ -1,10 +1,10 @@
 # panacloud-modern-global-apps/typescript-node-projects - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 78
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 99 | 78 | 
 | 2023-02-12 | 97 | 78 | 
 | 2023-02-10 | 97 | 78 | 
 | 2023-02-09 | 94 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 85 | 74 | 
 | 2023-01-16 | 85 | 74 | 
 | 2023-01-15 | 85 | 73 | 
-| 2023-01-14 | 85 | 72 | 
 

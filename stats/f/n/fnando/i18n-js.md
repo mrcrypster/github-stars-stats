@@ -1,10 +1,10 @@
 # fnando/i18n-js - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 529
 
-★ Stars: 3646
+★ Stars: 3647
 
 [Open repository](https://github.com/fnando/i18n-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3647 | 529 | 
 | 2023-02-13 | 3646 | 529 | 
 | 2023-02-11 | 3646 | 529 | 
 | 2023-02-10 | 3646 | 529 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 3635 | 529 | 
 | 2023-01-16 | 3632 | 529 | 
 | 2023-01-15 | 3632 | 529 | 
-| 2023-01-14 | 3632 | 529 | 
 

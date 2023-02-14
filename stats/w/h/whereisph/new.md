@@ -1,6 +1,6 @@
 # whereisph/new - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 150 | 10 | 
 | 2023-02-12 | 150 | 10 | 
 | 2023-02-11 | 149 | 10 | 
 | 2023-02-10 | 149 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 139 | 10 | 
 | 2023-01-16 | 138 | 10 | 
 | 2023-01-15 | 138 | 10 | 
-| 2023-01-14 | 138 | 10 | 
 

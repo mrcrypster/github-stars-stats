@@ -1,10 +1,10 @@
 # info-mono/diyfetch - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/info-mono/diyfetch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 156 | 3 | 
 | 2023-02-12 | 155 | 3 | 
 | 2023-02-11 | 156 | 3 | 
 | 2023-02-10 | 155 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 150 | 3 | 
 | 2023-01-16 | 150 | 3 | 
 | 2023-01-15 | 150 | 3 | 
-| 2023-01-14 | 150 | 3 | 
 

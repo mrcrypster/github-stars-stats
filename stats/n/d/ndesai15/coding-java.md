@@ -1,6 +1,6 @@
 # ndesai15/coding-java - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 58 | 55 | 
 | 2023-02-13 | 58 | 55 | 
 | 2023-02-11 | 58 | 55 | 
 | 2023-02-10 | 58 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 58 | 55 | 
 | 2023-01-16 | 58 | 55 | 
 | 2023-01-15 | 58 | 55 | 
-| 2023-01-14 | 58 | 55 | 
 

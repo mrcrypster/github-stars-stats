@@ -1,10 +1,10 @@
 # zigi/zigi - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 20
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/zigi/zigi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 46 | 20 | 
 | 2023-02-12 | 45 | 20 | 
 | 2023-02-11 | 45 | 20 | 
 | 2023-02-10 | 45 | 20 | 

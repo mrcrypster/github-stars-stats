@@ -1,6 +1,6 @@
 # ine-rmotr-curriculum/freecodecamp-intro-to-numpy - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1303
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 331 | 1303 | 
 | 2023-02-12 | 331 | 1303 | 
 | 2023-02-11 | 329 | 1299 | 
 | 2023-02-10 | 329 | 1299 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 318 | 1264 | 
 | 2023-01-16 | 318 | 1263 | 
 | 2023-01-15 | 318 | 1262 | 
-| 2023-01-14 | 318 | 1261 | 
 

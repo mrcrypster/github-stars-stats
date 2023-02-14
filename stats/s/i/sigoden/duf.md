@@ -1,10 +1,10 @@
 # sigoden/duf - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 92
 
-★ Stars: 2349
+★ Stars: 2358
 
 [Open repository](https://github.com/sigoden/duf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2358 | 92 | 
 | 2023-02-12 | 2349 | 92 | 
 | 2023-02-11 | 2342 | 92 | 
 | 2023-02-10 | 2330 | 92 | 

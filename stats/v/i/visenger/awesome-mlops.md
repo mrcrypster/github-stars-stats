@@ -1,10 +1,10 @@
 # visenger/awesome-mlops - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1510
 
-★ Stars: 9544
+★ Stars: 9550
 
 [Open repository](https://github.com/visenger/awesome-mlops)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 9550 | 1510 | 
 | 2023-02-12 | 9544 | 1510 | 
 | 2023-02-11 | 9538 | 1510 | 
 | 2023-02-10 | 9537 | 1507 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 9380 | 1487 | 
 | 2023-01-16 | 9377 | 1486 | 
 | 2023-01-15 | 9366 | 1486 | 
-| 2023-01-14 | 9363 | 1486 | 
 

@@ -1,10 +1,10 @@
 # msaug/cairo1-template - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 28
 
 [Open repository](https://github.com/msaug/cairo1-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 28 | - | 
 | 2023-02-12 | 24 | - | 
 | 2023-02-11 | 24 | - | 
 

@@ -1,10 +1,10 @@
 # asiekierka/almost-of-zzt - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/asiekierka/almost-of-zzt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 64 | 5 | 
 | 2023-02-12 | 63 | 5 | 
 | 2023-02-10 | 61 | 5 | 
 | 2023-02-09 | 61 | 5 | 

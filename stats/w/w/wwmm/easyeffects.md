@@ -1,10 +1,10 @@
 # wwmm/easyeffects - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 225
 
-★ Stars: 4456
+★ Stars: 4466
 
 [Open repository](https://github.com/wwmm/easyeffects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4466 | 225 | 
 | 2023-02-12 | 4456 | 225 | 
 | 2023-02-11 | 4450 | 223 | 
 | 2023-02-09 | 4444 | 224 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 4355 | 224 | 
 | 2023-01-16 | 4351 | 224 | 
 | 2023-01-15 | 4349 | 223 | 
-| 2023-01-14 | 4343 | 223 | 
 

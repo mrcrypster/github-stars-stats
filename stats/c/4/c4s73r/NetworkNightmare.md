@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 13
 
 ☋ Forks: 29
 
-★ Stars: 283
+★ Stars: 289
 
 [Open repository](https://github.com/c4s73r/NetworkNightmare)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 283 | 29 | 
+| 2023-02-13 | 289 | 29 | 
 | 2023-02-12 | 281 | 29 | 
 | 2023-02-11 | 268 | 27 | 
 | 2023-02-10 | 202 | 21 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 13
 
-☋ Forks: 449
+☋ Forks: 450
 
-★ Stars: 1065
+★ Stars: 1066
 
 [Open repository](https://github.com/scala-steward-org/scala-steward)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 1065 | 449 | 
+| 2023-02-13 | 1066 | 450 | 
 | 2023-02-11 | 1065 | 449 | 
 | 2023-02-10 | 1065 | 449 | 
 | 2023-02-09 | 1065 | 449 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 1058 | 449 | 
 | 2023-01-16 | 1057 | 448 | 
 | 2023-01-15 | 1057 | 448 | 
-| 2023-01-14 | 1057 | 448 | 
 

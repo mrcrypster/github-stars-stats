@@ -1,6 +1,6 @@
 # Booodaness/Scientific-Notes - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 31 | 2 | 
 | 2023-02-11 | 31 | 2 | 
 | 2023-02-10 | 30 | 2 | 
 | 2023-02-09 | 30 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 30 | 2 | 
 | 2023-01-16 | 31 | 2 | 
 | 2023-01-15 | 31 | 2 | 
-| 2023-01-14 | 31 | 2 | 
 

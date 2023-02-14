@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 13
 
 ☋ Forks: 6721
 
-★ Stars: 50713
+★ Stars: 50718
 
 [Open repository](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 50713 | 6721 | 
+| 2023-02-13 | 50718 | 6721 | 
 | 2023-02-12 | 50711 | 6722 | 
 | 2023-02-10 | 50682 | 6719 | 
 | 2023-02-09 | 50668 | 6719 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-17 | 50306 | 6665 | 
 | 2023-01-16 | 50292 | 6663 | 
 | 2023-01-15 | 50280 | 6663 | 
-| 2023-01-14 | 50266 | 6663 | 
 

@@ -1,6 +1,6 @@
 # TomHuynhSG/cosc2767-rmit-store - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | - | 16 | 
 | 2023-02-12 | - | 16 | 
 | 2023-02-11 | - | 16 | 
 | 2023-02-10 | - | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | - | 16 | 
 | 2023-01-16 | - | 16 | 
 | 2023-01-15 | - | 16 | 
-| 2023-01-14 | - | 16 | 
 

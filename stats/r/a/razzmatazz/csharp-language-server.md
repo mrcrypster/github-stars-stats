@@ -1,10 +1,10 @@
 # razzmatazz/csharp-language-server - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 179
+★ Stars: 181
 
 [Open repository](https://github.com/razzmatazz/csharp-language-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 181 | 10 | 
 | 2023-02-12 | 179 | 10 | 
 | 2023-02-11 | 179 | 10 | 
 | 2023-02-10 | 177 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 169 | 10 | 
 | 2023-01-16 | 169 | 10 | 
 | 2023-01-15 | 168 | 10 | 
-| 2023-01-14 | 167 | 10 | 
 

@@ -1,6 +1,6 @@
 # Octoberfest7/EventViewerUAC_BOF - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 122 | 27 | 
 | 2023-02-12 | 122 | 27 | 
 | 2023-02-10 | 122 | 27 | 
 | 2023-02-09 | 122 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 121 | 26 | 
 | 2023-01-16 | 121 | 26 | 
 | 2023-01-15 | 120 | 26 | 
-| 2023-01-14 | 120 | 26 | 
 

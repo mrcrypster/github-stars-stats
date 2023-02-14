@@ -1,10 +1,10 @@
 # localstack/localstack - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 3473
+☋ Forks: 3474
 
-★ Stars: 45843
+★ Stars: 45853
 
 [Open repository](https://github.com/localstack/localstack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 45853 | 3474 | 
 | 2023-02-12 | 45843 | 3473 | 
 | 2023-02-11 | 45832 | 3472 | 
 | 2023-02-10 | 45813 | 3469 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 45495 | 3428 | 
 | 2023-01-16 | 45481 | 3427 | 
 | 2023-01-15 | 45473 | 3427 | 
-| 2023-01-14 | 45460 | 3426 | 
 

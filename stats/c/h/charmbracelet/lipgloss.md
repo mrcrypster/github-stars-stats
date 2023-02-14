@@ -1,6 +1,6 @@
 # charmbracelet/lipgloss - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 5483 | 133 | 
 | 2023-02-12 | 5483 | 133 | 
 | 2023-02-11 | 5480 | 134 | 
 | 2023-02-10 | 5477 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 5408 | 133 | 
 | 2023-01-16 | 5409 | 133 | 
 | 2023-01-15 | 5407 | 133 | 
-| 2023-01-14 | 5402 | 133 | 
 

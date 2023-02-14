@@ -1,10 +1,10 @@
 # doctrine/dbal - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 1240
+☋ Forks: 1243
 
-★ Stars: 8966
+★ Stars: 8968
 
 [Open repository](https://github.com/doctrine/dbal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 8968 | 1243 | 
 | 2023-02-12 | 8966 | 1240 | 
 | 2023-02-11 | 8962 | 1240 | 
 | 2023-02-10 | 8961 | 1240 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 8927 | 1235 | 
 | 2023-01-16 | 8925 | 1235 | 
 | 2023-01-15 | 8923 | 1234 | 
-| 2023-01-14 | 8923 | 1234 | 
 

@@ -1,10 +1,10 @@
 # LagradOst/QuickNovel - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 35
 
-★ Stars: 547
+★ Stars: 549
 
 [Open repository](https://github.com/LagradOst/QuickNovel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 549 | 35 | 
 | 2023-02-11 | 547 | 35 | 
 | 2023-02-10 | 547 | 35 | 
 | 2023-02-09 | 545 | 35 | 

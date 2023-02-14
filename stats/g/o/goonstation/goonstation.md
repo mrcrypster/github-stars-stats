@@ -1,10 +1,10 @@
 # goonstation/goonstation - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 986
+☋ Forks: 987
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/goonstation/goonstation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 259 | 987 | 
 | 2023-02-12 | 258 | 986 | 
 | 2023-02-11 | 258 | 983 | 
 | 2023-02-10 | 258 | 984 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 254 | 960 | 
 | 2023-01-16 | 253 | 959 | 
 | 2023-01-15 | 253 | 957 | 
-| 2023-01-14 | 253 | 951 | 
 

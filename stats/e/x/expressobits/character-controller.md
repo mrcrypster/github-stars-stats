@@ -1,10 +1,10 @@
 # expressobits/character-controller - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 43
+★ Stars: 46
 
 [Open repository](https://github.com/expressobits/character-controller)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 46 | 3 | 
+| 2023-02-13 | 46 | 3 | 
 | 2023-02-12 | 43 | 2 | 
 | 2023-02-11 | 42 | 2 | 
 | 2023-02-10 | 41 | 2 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 28 | 1 | 
 | 2023-01-17 | 28 | 1 | 
 | 2023-01-16 | 28 | 1 | 
-| 2023-01-15 | 28 | 1 | 
 

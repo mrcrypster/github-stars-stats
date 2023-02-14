@@ -1,10 +1,10 @@
 # AgenMiChat19/Windows2019 - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/AgenMiChat19/Windows2019)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 4 | 6 | 
 | 2023-02-12 | 3 | 5 | 
 | 2023-02-11 | 3 | 5 | 
 | 2023-02-10 | 3 | 4 | 

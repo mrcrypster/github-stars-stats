@@ -1,8 +1,8 @@
 # x2Swiftz/Switch-Hub-Ultimate - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 4 | 11 | 
 | 2023-02-12 | 4 | 10 | 
 | 2023-02-11 | 4 | 10 | 
 | 2023-02-10 | 4 | 10 | 

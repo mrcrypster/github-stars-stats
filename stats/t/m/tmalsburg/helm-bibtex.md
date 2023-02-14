@@ -1,10 +1,10 @@
 # tmalsburg/helm-bibtex - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 68
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/tmalsburg/helm-bibtex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 426 | 68 | 
 | 2023-02-12 | 425 | 68 | 
 | 2023-02-10 | 425 | 68 | 
 | 2023-02-09 | 425 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 423 | 68 | 
 | 2023-01-16 | 423 | 68 | 
 | 2023-01-15 | 423 | 68 | 
-| 2023-01-14 | 423 | 68 | 
 

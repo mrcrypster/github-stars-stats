@@ -1,6 +1,6 @@
 # piercefreeman/cloud-gpu-reliability - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 54 | 8 | 
 | 2023-02-12 | 54 | 8 | 
 | 2023-02-11 | 54 | 8 | 
 | 2023-02-10 | 54 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 54 | 8 | 
 | 2023-01-16 | 54 | 8 | 
 | 2023-01-15 | 54 | 8 | 
-| 2023-01-14 | 54 | 8 | 
 

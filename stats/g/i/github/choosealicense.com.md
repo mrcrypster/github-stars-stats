@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 13
 
 ☋ Forks: 1410
 
-★ Stars: 3139
+★ Stars: 3140
 
 [Open repository](https://github.com/github/choosealicense.com)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-13 | 3139 | 1410 | 
+| 2023-02-13 | 3140 | 1410 | 
 | 2023-02-12 | 3139 | 1410 | 
 | 2023-02-11 | 3138 | 1410 | 
 | 2023-02-10 | 3138 | 1409 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 3120 | 1395 | 
 | 2023-01-17 | 3120 | 1395 | 
 | 2023-01-16 | 3122 | 1395 | 
-| 2023-01-15 | 3120 | 1395 | 
 

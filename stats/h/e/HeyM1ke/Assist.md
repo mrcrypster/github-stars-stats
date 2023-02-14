@@ -1,6 +1,6 @@
 # HeyM1ke/Assist - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 594 | 50 | 
 | 2023-02-12 | 594 | 50 | 
 | 2023-02-11 | 591 | 50 | 
 | 2023-02-10 | 591 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 567 | 49 | 
 | 2023-01-16 | 567 | 49 | 
 | 2023-01-15 | 565 | 49 | 
-| 2023-01-14 | 565 | 49 | 
 

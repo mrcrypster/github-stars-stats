@@ -1,10 +1,10 @@
 # kubernetes/k8s.io - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 586
 
-★ Stars: 440
+★ Stars: 441
 
 [Open repository](https://github.com/kubernetes/k8s.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 441 | 586 | 
 | 2023-02-12 | 440 | 586 | 
 | 2023-02-11 | 439 | 586 | 
 | 2023-02-10 | 438 | 585 | 

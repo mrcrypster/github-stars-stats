@@ -1,10 +1,10 @@
 # zalky/axle - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/zalky/axle)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 30 | 1 | 
+| 2023-02-13 | 30 | 1 | 
 | 2023-02-12 | 28 | 1 | 
 | 2023-02-11 | 27 | 1 | 
 | 2023-02-10 | 26 | 1 | 

@@ -1,10 +1,10 @@
 # positron-solutions/elisp-repo-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/positron-solutions/elisp-repo-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 33 | 5 | 
 | 2023-02-12 | 32 | 5 | 
 | 2023-02-11 | 32 | 5 | 
 | 2023-02-10 | 32 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 27 | 4 | 
 | 2023-01-16 | 27 | 4 | 
 | 2023-01-15 | 27 | 4 | 
-| 2023-01-14 | 27 | 4 | 
 

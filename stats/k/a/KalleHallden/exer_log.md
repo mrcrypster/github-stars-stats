@@ -1,10 +1,10 @@
 # KalleHallden/exer_log - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 91
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/KalleHallden/exer_log)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 316 | 91 | 
 | 2023-02-12 | 315 | 91 | 
 | 2023-02-11 | 315 | 91 | 
 | 2023-02-10 | 314 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 309 | 88 | 
 | 2023-01-16 | 309 | 88 | 
 | 2023-01-15 | 308 | 88 | 
-| 2023-01-14 | 308 | 88 | 
 

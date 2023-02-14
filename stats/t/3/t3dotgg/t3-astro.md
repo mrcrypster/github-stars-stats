@@ -1,6 +1,6 @@
 # t3dotgg/t3-astro - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 45 | 9 | 
 | 2023-02-11 | 45 | 9 | 
 | 2023-02-10 | 45 | 9 | 
 | 2023-02-09 | 45 | 9 | 

@@ -1,10 +1,10 @@
 # CypherpunkArmory/UserLAnd - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 315
 
-★ Stars: 2790
+★ Stars: 2791
 
 [Open repository](https://github.com/CypherpunkArmory/UserLAnd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 2791 | 315 | 
 | 2023-02-12 | 2790 | 315 | 
 | 2023-02-11 | 2791 | 314 | 
 | 2023-02-09 | 2790 | 314 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 2762 | 309 | 
 | 2023-01-16 | 2762 | 309 | 
 | 2023-01-15 | 2761 | 309 | 
-| 2023-01-14 | 2761 | 309 | 
 

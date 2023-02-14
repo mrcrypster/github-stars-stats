@@ -1,10 +1,10 @@
 # rlabbe/Kalman-and-Bayesian-Filters-in-Python - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3621
+☋ Forks: 3622
 
-★ Stars: 13212
+★ Stars: 13222
 
 [Open repository](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 13222 | 3622 | 
 | 2023-02-12 | 13212 | 3621 | 
 | 2023-02-11 | 13209 | 3621 | 
 | 2023-02-10 | 13205 | 3621 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 13090 | 3603 | 
 | 2023-01-16 | 13085 | 3603 | 
 | 2023-01-15 | 13077 | 3602 | 
-| 2023-01-14 | 13077 | 3602 | 
 

@@ -1,10 +1,10 @@
 # geerlingguy/ansible-role-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 740
 
-★ Stars: 1346
+★ Stars: 1348
 
 [Open repository](https://github.com/geerlingguy/ansible-role-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 1348 | 740 | 
 | 2023-02-12 | 1346 | 740 | 
 | 2023-02-11 | 1345 | 741 | 
 | 2023-02-09 | 1343 | 741 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 1326 | 739 | 
 | 2023-01-16 | 1325 | 739 | 
 | 2023-01-15 | 1324 | 739 | 
-| 2023-01-14 | 1324 | 738 | 
 

@@ -1,10 +1,10 @@
 # rad9800/TamperingSyscalls - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 383
+★ Stars: 390
 
 [Open repository](https://github.com/rad9800/TamperingSyscalls)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 390 | 59 | 
 | 2023-02-12 | 383 | 58 | 
 | 2023-02-11 | 375 | 57 | 
 | 2023-02-10 | 374 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 374 | 57 | 
 | 2023-01-17 | 374 | 57 | 
 | 2023-01-16 | 374 | 57 | 
-| 2023-01-15 | 374 | 57 | 
 

@@ -1,8 +1,8 @@
 # christikat/glow_crafting - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 21 | 26 | 
 | 2023-02-12 | 21 | 25 | 
 | 2023-02-11 | 21 | 25 | 
 | 2023-02-10 | 21 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 21 | 25 | 
 | 2023-01-16 | 21 | 25 | 
 | 2023-01-15 | 21 | 25 | 
-| 2023-01-14 | 21 | 25 | 
 

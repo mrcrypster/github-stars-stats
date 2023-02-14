@@ -1,6 +1,6 @@
 # JmlrOrg/jmlr-style-file - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 64 | 83 | 
 | 2023-02-12 | 64 | 83 | 
 | 2023-02-11 | 64 | 83 | 
 | 2023-02-10 | 64 | 83 | 

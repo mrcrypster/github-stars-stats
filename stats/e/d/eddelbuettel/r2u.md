@@ -1,10 +1,10 @@
 # eddelbuettel/r2u - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 108
+★ Stars: 110
 
 [Open repository](https://github.com/eddelbuettel/r2u)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 110 | 11 | 
 | 2023-02-12 | 108 | 11 | 
 | 2023-02-11 | 108 | 11 | 
 | 2023-02-10 | 108 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 98 | 9 | 
 | 2023-01-16 | 98 | 9 | 
 | 2023-01-15 | 98 | 9 | 
-| 2023-01-14 | 98 | 9 | 
 

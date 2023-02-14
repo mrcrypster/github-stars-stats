@@ -1,10 +1,10 @@
 # mvdan/sh - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 295
 
-★ Stars: 5594
+★ Stars: 5614
 
 [Open repository](https://github.com/mvdan/sh)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5614 | 295 | 
+| 2023-02-13 | 5612 | 295 | 
 | 2023-02-12 | 5594 | 295 | 
 | 2023-02-11 | 5484 | 294 | 
 | 2023-02-10 | 5482 | 294 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 5400 | 293 | 
 | 2023-01-16 | 5401 | 292 | 
 | 2023-01-15 | 5395 | 293 | 
-| 2023-01-14 | 5394 | 292 | 
 

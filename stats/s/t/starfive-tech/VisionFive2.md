@@ -1,10 +1,10 @@
 # starfive-tech/VisionFive2 - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 26
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/starfive-tech/VisionFive2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 179 | 26 | 
 | 2023-02-12 | 178 | 26 | 
 | 2023-02-11 | 178 | 26 | 
 | 2023-02-10 | 178 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 148 | 24 | 
 | 2023-01-16 | 145 | 23 | 
 | 2023-01-15 | 145 | 23 | 
-| 2023-01-14 | 143 | 23 | 
 

@@ -1,6 +1,6 @@
 # samjwill/nvim-unception - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 149 | 1 | 
 | 2023-02-11 | 149 | 1 | 
 | 2023-02-10 | 148 | 1 | 
 | 2023-02-09 | 147 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 11
 | 2023-01-17 | 136 | 2 | 
 | 2023-01-16 | 135 | 2 | 
 | 2023-01-15 | 135 | 2 | 
-| 2023-01-14 | 135 | 2 | 
 

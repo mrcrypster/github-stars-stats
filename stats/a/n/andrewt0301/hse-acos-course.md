@@ -1,10 +1,10 @@
 # andrewt0301/hse-acos-course - stars & forks statistics
 
-Stats updated on Feb 2023, 11
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/andrewt0301/hse-acos-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 9 | 21 | 
 | 2023-02-11 | 8 | 21 | 
 | 2023-02-10 | 8 | 21 | 
 | 2023-02-09 | 8 | 21 | 

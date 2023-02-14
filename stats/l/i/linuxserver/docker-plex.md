@@ -1,6 +1,6 @@
 # linuxserver/docker-plex - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 897 | 185 | 
 | 2023-02-12 | 897 | 185 | 
 | 2023-02-10 | 897 | 185 | 
 | 2023-02-09 | 897 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 887 | 185 | 
 | 2023-01-16 | 884 | 185 | 
 | 2023-01-15 | 884 | 185 | 
-| 2023-01-14 | 884 | 185 | 
 

@@ -1,8 +1,8 @@
 # 34306/iPA - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 39 | 4 | 
 | 2023-02-12 | 39 | 5 | 
 | 2023-02-11 | 39 | 5 | 
 | 2023-02-10 | 39 | 5 | 

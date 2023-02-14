@@ -1,6 +1,6 @@
 # skyline75489/what-happens-when-zh_CN - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 810
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 7591 | 810 | 
 | 2023-02-12 | 7591 | 810 | 
 | 2023-02-11 | 7591 | 810 | 
 | 2023-02-10 | 7590 | 810 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 7576 | 807 | 
 | 2023-01-16 | 7576 | 807 | 
 | 2023-01-15 | 7576 | 807 | 
-| 2023-01-14 | 7577 | 807 | 
 

@@ -1,10 +1,10 @@
 # sunshanpeng/wechaty-chatgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/sunshanpeng/wechaty-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 92 | 20 | 
 | 2023-02-12 | 91 | 19 | 
 | 2023-02-11 | 90 | 18 | 
 | 2023-02-09 | 85 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 75 | 15 | 
 | 2023-01-16 | 75 | 15 | 
 | 2023-01-15 | 75 | 15 | 
-| 2023-01-14 | 75 | 15 | 
 

@@ -1,10 +1,10 @@
 # WangXuan95/FPGA-USB-Device - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 13
 
 ☋ Forks: 22
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/WangXuan95/FPGA-USB-Device)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-13 | 122 | 22 | 
 | 2023-02-12 | 121 | 22 | 
 | 2023-02-11 | 121 | 22 | 
 | 2023-02-10 | 121 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-17 | 116 | 21 | 
 | 2023-01-16 | 116 | 21 | 
 | 2023-01-15 | 116 | 21 | 
-| 2023-01-14 | 116 | 21 | 
 
