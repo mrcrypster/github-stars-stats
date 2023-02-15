@@ -1,6 +1,6 @@
 # latentflip/violin - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 263 | 23 | 
 | 2023-02-13 | 263 | 23 | 
 | 2023-02-12 | 264 | 23 | 
 | 2023-02-11 | 264 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 264 | 23 | 
 | 2023-01-17 | 264 | 23 | 
 | 2023-01-16 | 264 | 23 | 
-| 2023-01-15 | 264 | 23 | 
 

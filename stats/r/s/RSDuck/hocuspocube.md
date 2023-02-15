@@ -1,6 +1,6 @@
 # RSDuck/hocuspocube - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 35 | 1 | 
 | 2023-02-14 | 35 | 1 | 
 | 2023-02-12 | 35 | 1 | 
 | 2023-02-11 | 35 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 33 | 1 | 
 | 2023-01-17 | 33 | 1 | 
 | 2023-01-16 | 33 | 1 | 
-| 2023-01-15 | 33 | 1 | 
 

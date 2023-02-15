@@ -1,10 +1,10 @@
 # aave/gho-core - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 103
+★ Stars: 107
 
 [Open repository](https://github.com/aave/gho-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 107 | 13 | 
 | 2023-02-13 | 103 | 12 | 
 | 2023-02-12 | 98 | 12 | 
 

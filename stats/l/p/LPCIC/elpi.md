@@ -1,10 +1,10 @@
 # LPCIC/elpi - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 27
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/LPCIC/elpi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 212 | 27 | 
 | 2023-02-13 | 211 | 27 | 
 | 2023-02-11 | 212 | 27 | 
 | 2023-02-10 | 212 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 211 | 26 | 
 | 2023-01-17 | 211 | 26 | 
 | 2023-01-16 | 211 | 26 | 
-| 2023-01-15 | 211 | 26 | 
 

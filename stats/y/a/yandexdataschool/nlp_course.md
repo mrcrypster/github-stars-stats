@@ -1,10 +1,10 @@
 # yandexdataschool/nlp_course - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 2313
+☋ Forks: 2312
 
-★ Stars: 8379
+★ Stars: 8384
 
 [Open repository](https://github.com/yandexdataschool/nlp_course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 8384 | 2312 | 
 | 2023-02-13 | 8379 | 2313 | 
 | 2023-02-12 | 8379 | 2312 | 
 | 2023-02-11 | 8375 | 2310 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 8317 | 2297 | 
 | 2023-01-17 | 8315 | 2297 | 
 | 2023-01-16 | 8313 | 2297 | 
-| 2023-01-15 | 8313 | 2297 | 
 

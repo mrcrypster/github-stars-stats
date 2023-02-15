@@ -1,10 +1,10 @@
 # arcticicestudio/nord-vim - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
-☋ Forks: 275
+☋ Forks: 273
 
-★ Stars: 2333
+★ Stars: 2338
 
 [Open repository](https://github.com/arcticicestudio/nord-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2338 | 273 | 
 | 2023-02-13 | 2333 | 275 | 
 | 2023-02-12 | 2332 | 274 | 
 | 2023-02-11 | 2331 | 274 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2321 | 272 | 
 | 2023-01-17 | 2321 | 272 | 
 | 2023-01-16 | 2321 | 272 | 
-| 2023-01-15 | 2323 | 271 | 
 

@@ -1,8 +1,8 @@
 # biaochenxuying/blog-vue-typescript - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 604
+☋ Forks: 605
 
 ★ Stars: 2322
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2322 | 605 | 
 | 2023-02-13 | 2322 | 604 | 
 | 2023-02-12 | 2322 | 604 | 
 | 2023-02-11 | 2321 | 604 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 2315 | 602 | 
 | 2023-01-18 | 2314 | 602 | 
 | 2023-01-17 | 2316 | 601 | 
-| 2023-01-15 | 2316 | 601 | 
 

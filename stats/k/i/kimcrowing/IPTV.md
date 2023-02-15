@@ -1,8 +1,8 @@
 # kimcrowing/IPTV - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 142
+☋ Forks: 143
 
 ★ Stars: 442
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 442 | 143 | 
 | 2023-02-13 | 442 | 142 | 
 | 2023-02-12 | 441 | 140 | 
 | 2023-02-11 | 439 | 142 | 

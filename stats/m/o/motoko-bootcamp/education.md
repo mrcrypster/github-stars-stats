@@ -1,6 +1,6 @@
 # motoko-bootcamp/education - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 55 | 13 | 
 | 2023-02-13 | 55 | 13 | 
 | 2023-02-12 | 55 | 13 | 
 | 2023-02-11 | 55 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 54 | 14 | 
 | 2023-01-17 | 54 | 14 | 
 | 2023-01-16 | 54 | 12 | 
-| 2023-01-15 | 54 | 12 | 
 

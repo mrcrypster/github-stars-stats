@@ -1,6 +1,6 @@
 # jackhumbert/let_there_be_flight - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 352 | 35 | 
 | 2023-02-13 | 352 | 35 | 
 | 2023-02-12 | 352 | 35 | 
 | 2023-02-11 | 352 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 349 | 34 | 
 | 2023-01-17 | 349 | 34 | 
 | 2023-01-16 | 349 | 34 | 
-| 2023-01-15 | 348 | 33 | 
 

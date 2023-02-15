@@ -1,10 +1,10 @@
 # shortcuts/no-neck-pain.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 204
+★ Stars: 206
 
 [Open repository](https://github.com/shortcuts/no-neck-pain.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 206 | 7 | 
 | 2023-02-13 | 204 | 7 | 
 | 2023-02-12 | 203 | 7 | 
 | 2023-02-11 | 202 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 162 | 7 | 
 | 2023-01-17 | 161 | 7 | 
 | 2023-01-16 | 160 | 8 | 
-| 2023-01-15 | 160 | 7 | 
 

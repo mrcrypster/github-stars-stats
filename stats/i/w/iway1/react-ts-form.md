@@ -1,10 +1,10 @@
 # iway1/react-ts-form - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 22
 
-★ Stars: 1699
+★ Stars: 1701
 
 [Open repository](https://github.com/iway1/react-ts-form)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1701 | 22 | 
 | 2023-02-13 | 1699 | 22 | 
 | 2023-02-12 | 1698 | 22 | 
 | 2023-02-11 | 1695 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1561 | 18 | 
 | 2023-01-17 | 1548 | 18 | 
 | 2023-01-16 | 1541 | 18 | 
-| 2023-01-15 | 1530 | 18 | 
 

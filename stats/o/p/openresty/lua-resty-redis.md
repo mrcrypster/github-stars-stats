@@ -1,10 +1,10 @@
 # openresty/lua-resty-redis - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 443
 
-★ Stars: 1779
+★ Stars: 1780
 
 [Open repository](https://github.com/openresty/lua-resty-redis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1780 | 443 | 
 | 2023-02-13 | 1779 | 443 | 
 | 2023-02-12 | 1779 | 443 | 
 | 2023-02-11 | 1779 | 443 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1772 | 442 | 
 | 2023-01-17 | 1772 | 442 | 
 | 2023-01-16 | 1772 | 442 | 
-| 2023-01-15 | 1772 | 442 | 
 

@@ -1,8 +1,8 @@
 # BemboLikePizza/VsDave - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6 | 80 | 
 | 2023-02-13 | 6 | 79 | 
 | 2023-02-12 | 6 | 79 | 
 | 2023-02-10 | 6 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | - | 77 | 
 | 2023-01-17 | - | 77 | 
 | 2023-01-16 | - | 77 | 
-| 2023-01-15 | - | 77 | 
 

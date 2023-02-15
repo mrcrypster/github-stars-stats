@@ -1,8 +1,8 @@
 # opencontainers/runc - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1897
+☋ Forks: 1898
 
 ★ Stars: 10000
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 10000 | 1898 | 
 | 2023-02-13 | 10000 | 1897 | 
 | 2023-02-12 | 9999 | 1897 | 
 | 2023-02-11 | 9997 | 1897 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 9924 | 1886 | 
 | 2023-01-17 | 9924 | 1884 | 
 | 2023-01-16 | 9920 | 1884 | 
-| 2023-01-15 | 9918 | 1883 | 
 

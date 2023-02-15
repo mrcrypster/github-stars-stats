@@ -1,0 +1,17 @@
+# Foundation-19/Big-Iron - stars & forks statistics
+
+Stats updated on Feb 2023, 14
+
+☋ Forks: 24
+
+★ Stars: 3
+
+[Open repository](https://github.com/Foundation-19/Big-Iron)
+
+[Open detailed stats for Foundation-19/Big-Iron](https://reviewgithub.com/rep/Foundation-19/Big-Iron)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-14 | 3 | 24 | 
+

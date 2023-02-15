@@ -1,10 +1,10 @@
 # ammarfaizi2/KlikBCA - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 25
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/ammarfaizi2/KlikBCA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 69 | 25 | 
 | 2023-02-13 | 68 | 25 | 
 | 2023-02-12 | 68 | 25 | 
 | 2023-02-11 | 68 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 68 | 25 | 
 | 2023-01-17 | 68 | 25 | 
 | 2023-01-16 | 68 | 25 | 
-| 2023-01-15 | 68 | 25 | 
 

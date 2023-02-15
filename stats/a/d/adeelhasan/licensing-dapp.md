@@ -1,6 +1,6 @@
 # adeelhasan/licensing-dapp - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5 | - | 
 | 2023-02-13 | 5 | - | 
 | 2023-02-12 | 5 | - | 
 | 2023-02-11 | 5 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | - | - | 
 | 2023-01-17 | - | - | 
 | 2023-01-16 | - | - | 
-| 2023-01-15 | - | - | 
 

@@ -1,6 +1,6 @@
 # capistrano/capistrano - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1818
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 12375 | 1818 | 
 | 2023-02-13 | 12375 | 1818 | 
 | 2023-02-12 | 12374 | 1818 | 
 | 2023-02-11 | 12373 | 1817 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 12357 | 1815 | 
 | 2023-01-17 | 12356 | 1815 | 
 | 2023-01-16 | 12356 | 1815 | 
-| 2023-01-15 | 12356 | 1815 | 
 

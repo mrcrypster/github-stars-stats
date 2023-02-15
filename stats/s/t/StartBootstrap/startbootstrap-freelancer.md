@@ -1,8 +1,8 @@
 # StartBootstrap/startbootstrap-freelancer - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3434
+☋ Forks: 3435
 
 ★ Stars: 2450
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2450 | 3435 | 
 | 2023-02-13 | 2450 | 3434 | 
 | 2023-02-12 | 2450 | 3434 | 
 | 2023-02-11 | 2451 | 3435 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2442 | 3430 | 
 | 2023-01-17 | 2442 | 3430 | 
 | 2023-01-16 | 2442 | 3430 | 
-| 2023-01-15 | 2440 | 3429 | 
 

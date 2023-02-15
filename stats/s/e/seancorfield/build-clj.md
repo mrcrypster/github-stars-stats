@@ -1,10 +1,10 @@
 # seancorfield/build-clj - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 152
+★ Stars: 155
 
 [Open repository](https://github.com/seancorfield/build-clj)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 155 | 7 | 
 | 2023-02-13 | 152 | 7 | 
 | 2023-02-12 | 152 | 7 | 
 | 2023-02-11 | 152 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 148 | 7 | 
 | 2023-01-17 | 148 | 7 | 
 | 2023-01-16 | 148 | 7 | 
-| 2023-01-15 | 148 | 7 | 
 

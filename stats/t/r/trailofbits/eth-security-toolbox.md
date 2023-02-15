@@ -1,10 +1,10 @@
 # trailofbits/eth-security-toolbox - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 75
 
-★ Stars: 494
+★ Stars: 493
 
 [Open repository](https://github.com/trailofbits/eth-security-toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 493 | 75 | 
 | 2023-02-13 | 494 | 75 | 
 | 2023-02-12 | 494 | 75 | 
 | 2023-02-11 | 494 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 472 | 70 | 
 | 2023-01-18 | 470 | 70 | 
 | 2023-01-16 | 468 | 69 | 
-| 2023-01-15 | 467 | 69 | 
 

@@ -1,6 +1,6 @@
 # NixOS/bundlers - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 48 | 8 | 
 | 2023-02-13 | 48 | 8 | 
 | 2023-02-12 | 47 | 8 | 
 | 2023-02-11 | 45 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 43 | 8 | 
 | 2023-01-17 | 43 | 8 | 
 | 2023-01-16 | 43 | 8 | 
-| 2023-01-15 | 43 | 8 | 
 

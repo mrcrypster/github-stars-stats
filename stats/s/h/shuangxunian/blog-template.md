@@ -1,6 +1,6 @@
 # shuangxunian/blog-template - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6 | 5 | 
 | 2023-02-13 | 6 | 5 | 
 | 2023-02-12 | 6 | 5 | 
 | 2023-02-11 | 6 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 5 | 4 | 
 | 2023-01-18 | 5 | 4 | 
 | 2023-01-17 | 5 | 4 | 
-| 2023-01-15 | 5 | 4 | 
 

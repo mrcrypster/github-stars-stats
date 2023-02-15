@@ -1,10 +1,10 @@
 # NebulaServices/Nebula - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 721
+☋ Forks: 736
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/NebulaServices/Nebula)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 75 | 736 | 
 | 2023-02-13 | 74 | 721 | 
 | 2023-02-12 | 74 | 718 | 
 | 2023-02-11 | 74 | 712 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 62 | 464 | 
 | 2023-01-17 | 62 | 442 | 
 | 2023-01-16 | 62 | 439 | 
-| 2023-01-15 | 62 | 432 | 
 

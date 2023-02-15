@@ -1,8 +1,8 @@
 # interfinetwork/project-delivery-data - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 6
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6 | 4 | 
+| 2023-02-14 | 6 | 4 | 
 | 2023-02-13 | 6 | 3 | 
 | 2023-02-12 | 6 | 3 | 
 | 2023-02-11 | 6 | 3 | 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/eval-exec/crazy-theme.el)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 29 | 2 | 
+| 2023-02-14 | 31 | 2 | 
 | 2023-02-13 | 29 | 2 | 
 

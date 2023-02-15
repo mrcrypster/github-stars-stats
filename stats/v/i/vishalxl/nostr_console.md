@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 361
+★ Stars: 363
 
 [Open repository](https://github.com/vishalxl/nostr_console)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 361 | 29 | 
+| 2023-02-14 | 363 | 29 | 
 | 2023-02-13 | 361 | 29 | 
 | 2023-02-12 | 359 | 29 | 
 | 2023-02-11 | 355 | 28 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 279 | 24 | 
 | 2023-01-18 | 279 | 24 | 
 | 2023-01-16 | 279 | 24 | 
-| 2023-01-15 | 278 | 24 | 
 

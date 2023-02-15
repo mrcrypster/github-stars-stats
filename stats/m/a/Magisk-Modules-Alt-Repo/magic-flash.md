@@ -1,6 +1,6 @@
 # Magisk-Modules-Alt-Repo/magic-flash - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 99 | 7 | 
 | 2023-02-13 | 99 | 7 | 
 | 2023-02-12 | 98 | 7 | 
 | 2023-02-11 | 98 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 98 | 7 | 
 | 2023-01-17 | 98 | 7 | 
 | 2023-01-16 | 98 | 7 | 
-| 2023-01-15 | 99 | 7 | 
 

@@ -1,10 +1,10 @@
 # gcanti/fp-ts - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 474
 
-★ Stars: 9055
+★ Stars: 9058
 
 [Open repository](https://github.com/gcanti/fp-ts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 9058 | 474 | 
 | 2023-02-13 | 9055 | 474 | 
 | 2023-02-12 | 9050 | 474 | 
 | 2023-02-11 | 9046 | 474 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 8939 | 472 | 
 | 2023-01-18 | 8932 | 472 | 
 | 2023-01-17 | 8927 | 472 | 
-| 2023-01-15 | 8919 | 472 | 
 

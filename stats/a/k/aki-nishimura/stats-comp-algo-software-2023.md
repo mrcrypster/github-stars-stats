@@ -1,0 +1,17 @@
+# aki-nishimura/stats-comp-algo-software-2023 - stars & forks statistics
+
+Stats updated on Feb 2023, 14
+
+☋ Forks: 13
+
+★ Stars: 0
+
+[Open repository](https://github.com/aki-nishimura/stats-comp-algo-software-2023)
+
+[Open detailed stats for aki-nishimura/stats-comp-algo-software-2023](https://reviewgithub.com/rep/aki-nishimura/stats-comp-algo-software-2023)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-14 | - | 13 | 
+

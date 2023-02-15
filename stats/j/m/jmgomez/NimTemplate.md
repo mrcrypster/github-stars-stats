@@ -1,8 +1,8 @@
 # jmgomez/NimTemplate - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 12 | 5 | 
 | 2023-02-13 | 12 | 4 | 
 | 2023-02-12 | 12 | 4 | 
 | 2023-02-11 | 12 | 4 | 

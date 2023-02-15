@@ -1,6 +1,6 @@
 # Hackerabad/Hackerabad-Website - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1 | 17 | 
 | 2023-02-13 | 1 | 17 | 
 | 2023-02-12 | 1 | 17 | 
 | 2023-02-11 | 1 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1 | 17 | 
 | 2023-01-17 | 1 | 17 | 
 | 2023-01-16 | 1 | 17 | 
-| 2023-01-15 | 1 | 17 | 
 

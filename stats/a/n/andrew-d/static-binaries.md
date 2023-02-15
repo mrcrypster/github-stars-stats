@@ -1,10 +1,10 @@
 # andrew-d/static-binaries - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 452
 
-★ Stars: 2397
+★ Stars: 2398
 
 [Open repository](https://github.com/andrew-d/static-binaries)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2398 | 452 | 
 | 2023-02-13 | 2397 | 452 | 
 | 2023-02-12 | 2394 | 452 | 
 | 2023-02-11 | 2390 | 452 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 2362 | 445 | 
 | 2023-01-17 | 2360 | 445 | 
 | 2023-01-16 | 2359 | 445 | 
-| 2023-01-15 | 2358 | 444 | 
 

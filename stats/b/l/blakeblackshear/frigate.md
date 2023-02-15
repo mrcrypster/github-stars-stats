@@ -1,10 +1,10 @@
 # blakeblackshear/frigate - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 731
 
-★ Stars: 7075
+★ Stars: 7079
 
 [Open repository](https://github.com/blakeblackshear/frigate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 7079 | 731 | 
 | 2023-02-13 | 7075 | 731 | 
 | 2023-02-12 | 7058 | 729 | 
 | 2023-02-11 | 7047 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6796 | 708 | 
 | 2023-01-17 | 6786 | 707 | 
 | 2023-01-16 | 6778 | 704 | 
-| 2023-01-15 | 6756 | 702 | 
 

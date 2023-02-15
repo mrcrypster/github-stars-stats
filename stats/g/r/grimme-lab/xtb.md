@@ -1,6 +1,6 @@
 # grimme-lab/xtb - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 390 | 110 | 
 | 2023-02-13 | 390 | 110 | 
 | 2023-02-12 | 391 | 110 | 
 | 2023-02-11 | 391 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 386 | 109 | 
 | 2023-01-17 | 386 | 109 | 
 | 2023-01-16 | 386 | 109 | 
-| 2023-01-15 | 386 | 109 | 
 

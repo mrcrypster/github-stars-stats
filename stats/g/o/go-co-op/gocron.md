@@ -1,10 +1,10 @@
 # go-co-op/gocron - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 193
+☋ Forks: 194
 
-★ Stars: 2832
+★ Stars: 2837
 
 [Open repository](https://github.com/go-co-op/gocron)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2837 | 194 | 
 | 2023-02-13 | 2832 | 193 | 
 | 2023-02-12 | 2830 | 193 | 
 | 2023-02-11 | 2828 | 193 | 

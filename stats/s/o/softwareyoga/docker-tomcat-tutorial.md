@@ -1,8 +1,8 @@
 # softwareyoga/docker-tomcat-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 234
+☋ Forks: 235
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 19 | 235 | 
 | 2023-02-12 | 19 | 234 | 
 | 2023-02-11 | 19 | 235 | 
 | 2023-02-10 | 19 | 235 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 18 | 228 | 
 | 2023-01-17 | 17 | 228 | 
 | 2023-01-16 | 17 | 228 | 
-| 2023-01-15 | 17 | 228 | 
 

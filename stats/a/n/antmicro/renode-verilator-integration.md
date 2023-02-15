@@ -1,6 +1,6 @@
 # antmicro/renode-verilator-integration - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 12 | 3 | 
 | 2023-02-14 | 12 | 3 | 
 | 2023-02-12 | 12 | 3 | 
 | 2023-02-11 | 12 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 11 | 3 | 
 | 2023-01-17 | 11 | 3 | 
 | 2023-01-16 | 11 | 3 | 
-| 2023-01-15 | 11 | 3 | 
 

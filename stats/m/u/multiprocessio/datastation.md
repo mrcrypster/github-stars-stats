@@ -1,10 +1,10 @@
 # multiprocessio/datastation - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 97
 
-★ Stars: 2666
+★ Stars: 2667
 
 [Open repository](https://github.com/multiprocessio/datastation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2667 | 97 | 
 | 2023-02-13 | 2666 | 97 | 
 | 2023-02-12 | 2665 | 97 | 
 | 2023-02-11 | 2665 | 97 | 

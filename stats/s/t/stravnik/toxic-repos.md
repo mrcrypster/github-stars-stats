@@ -1,10 +1,10 @@
 # stravnik/toxic-repos - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 27
 
-★ Stars: 454
+★ Stars: 455
 
 [Open repository](https://github.com/stravnik/toxic-repos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 455 | 27 | 
 | 2023-02-13 | 454 | 27 | 
 | 2023-02-12 | 454 | 27 | 
 | 2023-02-11 | 454 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 453 | 27 | 
 | 2023-01-17 | 453 | 27 | 
 | 2023-01-16 | 453 | 27 | 
-| 2023-01-15 | 453 | 27 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 14
 
 ☋ Forks: 47
 
-★ Stars: 1209
+★ Stars: 1231
 
 [Open repository](https://github.com/activepieces/activepieces)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 1209 | 47 | 
+| 2023-02-14 | 1231 | 47 | 
 | 2023-02-13 | 1199 | 47 | 
 | 2023-02-12 | 1125 | 45 | 
 | 2023-02-11 | 984 | 41 | 

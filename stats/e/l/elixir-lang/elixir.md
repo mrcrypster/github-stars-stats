@@ -1,10 +1,10 @@
 # elixir-lang/elixir - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 3006
 
-★ Stars: 21264
+★ Stars: 21273
 
 [Open repository](https://github.com/elixir-lang/elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 21273 | 3006 | 
 | 2023-02-13 | 21264 | 3006 | 
 | 2023-02-12 | 21257 | 3005 | 
 | 2023-02-11 | 21256 | 3004 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 21153 | 2992 | 
 | 2023-01-17 | 21152 | 2992 | 
 | 2023-01-16 | 21150 | 2992 | 
-| 2023-01-15 | 21148 | 2991 | 
 

@@ -1,6 +1,6 @@
 # kchmck/vim-coffee-script - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1773 | 204 | 
 | 2023-02-13 | 1773 | 204 | 
 | 2023-02-12 | 1773 | 204 | 
 | 2023-02-11 | 1773 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1770 | 204 | 
 | 2023-01-17 | 1770 | 204 | 
 | 2023-01-16 | 1770 | 204 | 
-| 2023-01-15 | 1770 | 204 | 
 

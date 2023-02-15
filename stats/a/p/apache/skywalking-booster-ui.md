@@ -1,10 +1,10 @@
 # apache/skywalking-booster-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 67
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/apache/skywalking-booster-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 99 | 67 | 
 | 2023-02-13 | 97 | 67 | 
 | 2023-02-12 | 97 | 66 | 
 | 2023-02-11 | 97 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 93 | 64 | 
 | 2023-01-17 | 93 | 64 | 
 | 2023-01-16 | 93 | 64 | 
-| 2023-01-15 | 93 | 63 | 
 

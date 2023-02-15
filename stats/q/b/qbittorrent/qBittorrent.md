@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 14
 
-☋ Forks: 3194
+☋ Forks: 3195
 
-★ Stars: 19027
+★ Stars: 19029
 
 [Open repository](https://github.com/qbittorrent/qBittorrent)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 19027 | 3194 | 
+| 2023-02-14 | 19029 | 3195 | 
 | 2023-02-13 | 19027 | 3195 | 
 | 2023-02-12 | 19006 | 3194 | 
 | 2023-02-11 | 18989 | 3194 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 18657 | 3163 | 
 | 2023-01-18 | 18644 | 3162 | 
 | 2023-01-17 | 18628 | 3158 | 
-| 2023-01-15 | 18612 | 3155 | 
 

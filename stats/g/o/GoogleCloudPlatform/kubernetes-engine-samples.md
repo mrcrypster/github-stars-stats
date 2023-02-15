@@ -1,8 +1,8 @@
 # GoogleCloudPlatform/kubernetes-engine-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1081
+☋ Forks: 1082
 
 ★ Stars: 1003
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1003 | 1082 | 
 | 2023-02-14 | 1003 | 1081 | 
 | 2023-02-12 | 1002 | 1081 | 
 | 2023-02-11 | 1002 | 1081 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 990 | 1074 | 
 | 2023-01-17 | 990 | 1074 | 
 | 2023-01-16 | 991 | 1073 | 
-| 2023-01-15 | 991 | 1072 | 
 

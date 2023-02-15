@@ -1,10 +1,10 @@
 # trufflesuite/ganache - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 616
+☋ Forks: 617
 
-★ Stars: 2240
+★ Stars: 2241
 
 [Open repository](https://github.com/trufflesuite/ganache)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2241 | 617 | 
 | 2023-02-13 | 2240 | 616 | 
 | 2023-02-12 | 2240 | 616 | 
 | 2023-02-11 | 2239 | 615 | 

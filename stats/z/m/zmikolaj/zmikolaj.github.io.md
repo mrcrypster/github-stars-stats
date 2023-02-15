@@ -1,8 +1,8 @@
 # zmikolaj/zmikolaj.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3
+☋ Forks: 2
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 4 | 2 | 
 | 2023-02-13 | 4 | 3 | 
 | 2023-02-12 | 4 | 3 | 
 | 2023-02-10 | 4 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 4 | 3 | 
 | 2023-01-17 | 4 | 3 | 
 | 2023-01-16 | 4 | 3 | 
-| 2023-01-15 | 4 | 3 | 
 

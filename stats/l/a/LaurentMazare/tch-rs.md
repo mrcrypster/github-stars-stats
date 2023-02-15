@@ -1,10 +1,10 @@
 # LaurentMazare/tch-rs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 197
 
-★ Stars: 2415
+★ Stars: 2418
 
 [Open repository](https://github.com/LaurentMazare/tch-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2418 | 197 | 
 | 2023-02-13 | 2415 | 197 | 
 | 2023-02-12 | 2410 | 197 | 
 | 2023-02-11 | 2407 | 197 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2323 | 192 | 
 | 2023-01-17 | 2319 | 192 | 
 | 2023-01-16 | 2316 | 192 | 
-| 2023-01-15 | 2311 | 192 | 
 

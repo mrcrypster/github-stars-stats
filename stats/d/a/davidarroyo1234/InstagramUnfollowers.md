@@ -1,10 +1,10 @@
 # davidarroyo1234/InstagramUnfollowers - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 592
+★ Stars: 599
 
 [Open repository](https://github.com/davidarroyo1234/InstagramUnfollowers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 599 | 68 | 
 | 2023-02-13 | 592 | 67 | 
 | 2023-02-12 | 588 | 67 | 
 | 2023-02-11 | 581 | 67 | 

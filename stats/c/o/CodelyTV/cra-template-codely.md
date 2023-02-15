@@ -1,10 +1,10 @@
 # CodelyTV/cra-template-codely - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 247
+★ Stars: 249
 
 [Open repository](https://github.com/CodelyTV/cra-template-codely)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 249 | 12 | 
 | 2023-02-13 | 247 | 12 | 
 | 2023-02-12 | 246 | 12 | 
 | 2023-02-11 | 245 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 209 | 10 | 
 | 2023-01-17 | 209 | 10 | 
 | 2023-01-16 | 204 | 10 | 
-| 2023-01-15 | 203 | 9 | 
 

@@ -1,10 +1,10 @@
 # corytertel/macrursors - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 28
 
 [Open repository](https://github.com/corytertel/macrursors)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 28 | 2 | 
 | 2023-02-12 | 20 | 2 | 
 | 2023-02-11 | 20 | 2 | 
 | 2023-02-10 | 20 | 1 | 

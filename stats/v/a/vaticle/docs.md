@@ -1,6 +1,6 @@
 # vaticle/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 26 | 65 | 
 | 2023-02-13 | 26 | 65 | 
 | 2023-02-12 | 26 | 65 | 
 | 2023-02-11 | 26 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 25 | 65 | 
 | 2023-01-17 | 25 | 65 | 
 | 2023-01-16 | 25 | 65 | 
-| 2023-01-15 | 25 | 65 | 
 

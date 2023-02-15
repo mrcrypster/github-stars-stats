@@ -1,6 +1,6 @@
 # trailheadapps/build-apps-with-lwc - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 29 | 148 | 
 | 2023-02-13 | 29 | 148 | 
 | 2023-02-12 | 29 | 148 | 
 | 2023-02-11 | 29 | 148 | 

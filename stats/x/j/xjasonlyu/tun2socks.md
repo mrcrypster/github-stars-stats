@@ -1,10 +1,10 @@
 # xjasonlyu/tun2socks - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 234
+☋ Forks: 235
 
-★ Stars: 1540
+★ Stars: 1543
 
 [Open repository](https://github.com/xjasonlyu/tun2socks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1543 | 235 | 
 | 2023-02-13 | 1540 | 234 | 
 | 2023-02-12 | 1538 | 234 | 
 | 2023-02-11 | 1533 | 234 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1463 | 226 | 
 | 2023-01-17 | 1459 | 226 | 
 | 2023-01-16 | 1453 | 226 | 
-| 2023-01-15 | 1453 | 226 | 
 

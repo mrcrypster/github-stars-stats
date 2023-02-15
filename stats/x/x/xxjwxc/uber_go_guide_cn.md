@@ -1,10 +1,10 @@
 # xxjwxc/uber_go_guide_cn - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1113
 
-★ Stars: 6216
+★ Stars: 6218
 
 [Open repository](https://github.com/xxjwxc/uber_go_guide_cn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6218 | 1113 | 
 | 2023-02-13 | 6216 | 1113 | 
 | 2023-02-12 | 6212 | 1111 | 
 | 2023-02-11 | 6211 | 1111 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6136 | 1106 | 
 | 2023-01-17 | 6124 | 1106 | 
 | 2023-01-16 | 6117 | 1106 | 
-| 2023-01-15 | 6112 | 1105 | 
 

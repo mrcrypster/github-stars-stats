@@ -1,10 +1,10 @@
 # sobolevbel/jdg - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 60
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/sobolevbel/jdg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 190 | 60 | 
 | 2023-02-13 | 189 | 60 | 
 | 2023-02-12 | 189 | 60 | 
 | 2023-02-11 | 189 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 174 | 53 | 
 | 2023-01-17 | 174 | 53 | 
 | 2023-01-16 | 174 | 53 | 
-| 2023-01-15 | 174 | 53 | 
 

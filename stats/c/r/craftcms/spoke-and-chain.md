@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 14
 
 ☋ Forks: 20
 
-★ Stars: 40
+★ Stars: 39
 
 [Open repository](https://github.com/craftcms/spoke-and-chain)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 40 | 20 | 
+| 2023-02-14 | 39 | 20 | 
 | 2023-02-13 | 40 | 20 | 
 | 2023-02-12 | 40 | 20 | 
 | 2023-02-11 | 40 | 20 | 

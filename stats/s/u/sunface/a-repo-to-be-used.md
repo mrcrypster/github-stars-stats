@@ -1,10 +1,10 @@
 # sunface/a-repo-to-be-used - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/sunface/a-repo-to-be-used)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 132 | 9 | 
 | 2023-02-13 | 131 | 9 | 
 | 2023-02-12 | 131 | 9 | 
 | 2023-02-11 | 132 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 129 | 9 | 
 | 2023-01-17 | 129 | 9 | 
 | 2023-01-16 | 129 | 9 | 
-| 2023-01-15 | 129 | 9 | 
 

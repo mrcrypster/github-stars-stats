@@ -1,10 +1,10 @@
 # yglukhov/nimx - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 69
 
-★ Stars: 941
+★ Stars: 942
 
 [Open repository](https://github.com/yglukhov/nimx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 942 | 69 | 
 | 2023-02-13 | 941 | 69 | 
 | 2023-02-12 | 940 | 69 | 
 | 2023-02-11 | 940 | 69 | 

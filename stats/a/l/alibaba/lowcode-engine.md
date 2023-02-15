@@ -1,10 +1,10 @@
 # alibaba/lowcode-engine - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1576
+☋ Forks: 1587
 
-★ Stars: 9399
+★ Stars: 9488
 
 [Open repository](https://github.com/alibaba/lowcode-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 9488 | 1587 | 
 | 2023-02-13 | 9399 | 1576 | 
 | 2023-02-12 | 9248 | 1566 | 
 | 2023-02-11 | 9201 | 1559 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 8897 | 1508 | 
 | 2023-01-17 | 8894 | 1508 | 
 | 2023-01-16 | 8887 | 1502 | 
-| 2023-01-15 | 8877 | 1499 | 
 

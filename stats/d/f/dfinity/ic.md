@@ -1,6 +1,6 @@
 # dfinity/ic - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1214 | 217 | 
 | 2023-02-13 | 1214 | 217 | 
 | 2023-02-11 | 1213 | 216 | 
 | 2023-02-10 | 1212 | 215 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1201 | 210 | 
 | 2023-01-17 | 1201 | 210 | 
 | 2023-01-16 | 1199 | 210 | 
-| 2023-01-15 | 1197 | 210 | 
 

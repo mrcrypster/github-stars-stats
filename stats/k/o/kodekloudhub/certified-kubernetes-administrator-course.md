@@ -1,10 +1,10 @@
 # kodekloudhub/certified-kubernetes-administrator-course - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
-☋ Forks: 4552
+☋ Forks: 4556
 
-★ Stars: 4822
+★ Stars: 4831
 
 [Open repository](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 4831 | 4556 | 
 | 2023-02-13 | 4822 | 4552 | 
 | 2023-02-12 | 4814 | 4547 | 
 | 2023-02-11 | 4808 | 4542 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 4690 | 4404 | 
 | 2023-01-17 | 4684 | 4400 | 
 | 2023-01-16 | 4683 | 4395 | 
-| 2023-01-15 | 4681 | 4392 | 
 

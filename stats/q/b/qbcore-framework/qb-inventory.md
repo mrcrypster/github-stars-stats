@@ -1,8 +1,8 @@
 # qbcore-framework/qb-inventory - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 349
+☋ Forks: 350
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 40 | 350 | 
 | 2023-02-13 | 40 | 349 | 
 | 2023-02-12 | 40 | 349 | 
 | 2023-02-11 | 40 | 349 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 39 | 345 | 
 | 2023-01-17 | 39 | 346 | 
 | 2023-01-16 | 39 | 346 | 
-| 2023-01-15 | 39 | 346 | 
 

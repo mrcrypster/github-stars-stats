@@ -1,10 +1,10 @@
 # elixir-protobuf/protobuf - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 125
 
-★ Stars: 701
+★ Stars: 702
 
 [Open repository](https://github.com/elixir-protobuf/protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 702 | 125 | 
 | 2023-02-13 | 701 | 125 | 
 | 2023-02-12 | 701 | 125 | 
 | 2023-02-11 | 701 | 125 | 

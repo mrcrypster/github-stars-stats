@@ -1,6 +1,6 @@
 # elementary/appcenter - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 516 | 102 | 
 | 2023-02-14 | 516 | 102 | 
 | 2023-02-12 | 516 | 102 | 
 | 2023-02-11 | 516 | 102 | 

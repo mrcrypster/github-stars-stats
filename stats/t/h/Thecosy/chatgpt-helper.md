@@ -1,10 +1,10 @@
 # Thecosy/chatgpt-helper - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/Thecosy/chatgpt-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 78 | 7 | 
 | 2023-02-13 | 76 | 6 | 
 | 2023-02-12 | 75 | 6 | 
 | 2023-02-11 | 75 | 6 | 

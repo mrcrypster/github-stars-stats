@@ -1,6 +1,6 @@
 # abishekaditya/DesignPatterns - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 528
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2011 | 528 | 
 | 2023-02-14 | 2011 | 528 | 
 | 2023-02-12 | 2009 | 528 | 
 | 2023-02-11 | 2009 | 528 | 

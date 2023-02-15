@@ -1,10 +1,10 @@
 # JakeWharton/cite - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/JakeWharton/cite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 165 | 3 | 
 | 2023-02-13 | 164 | 3 | 
 | 2023-02-12 | 164 | 3 | 
 | 2023-02-10 | 162 | 3 | 

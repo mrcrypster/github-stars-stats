@@ -1,10 +1,10 @@
 # ValveSoftware/steam-runtime - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 98
 
-★ Stars: 1035
+★ Stars: 1034
 
 [Open repository](https://github.com/ValveSoftware/steam-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1034 | 98 | 
 | 2023-02-13 | 1035 | 98 | 
 | 2023-02-12 | 1035 | 98 | 
 | 2023-02-11 | 1035 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 1030 | 98 | 
 | 2023-01-18 | 1031 | 97 | 
 | 2023-01-17 | 1031 | 97 | 
-| 2023-01-16 | 1031 | 97 | 
 

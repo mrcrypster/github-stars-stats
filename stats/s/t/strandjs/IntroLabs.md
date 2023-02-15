@@ -1,6 +1,6 @@
 # strandjs/IntroLabs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 405 | 136 | 
 | 2023-02-13 | 405 | 136 | 
 | 2023-02-11 | 405 | 136 | 
 | 2023-02-10 | 405 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 370 | 129 | 
 | 2023-01-17 | 370 | 128 | 
 | 2023-01-16 | 370 | 128 | 
-| 2023-01-15 | 370 | 128 | 
 

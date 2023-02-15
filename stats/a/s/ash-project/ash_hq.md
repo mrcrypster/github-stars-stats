@@ -1,8 +1,8 @@
 # ash-project/ash_hq - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 18 | 12 | 
 | 2023-02-12 | 18 | 11 | 
 | 2023-02-11 | 18 | 11 | 
 | 2023-02-10 | 18 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 9 | 12 | 
 | 2023-01-17 | 9 | 12 | 
 | 2023-01-16 | 9 | 12 | 
-| 2023-01-15 | 9 | 12 | 
 

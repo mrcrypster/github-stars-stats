@@ -1,10 +1,10 @@
 # eddycjy/go-gin-example - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1439
+☋ Forks: 1440
 
-★ Stars: 5982
+★ Stars: 5981
 
 [Open repository](https://github.com/eddycjy/go-gin-example)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5981 | 1440 | 
 | 2023-02-13 | 5982 | 1439 | 
 | 2023-02-12 | 5979 | 1439 | 
 | 2023-02-11 | 5979 | 1438 | 

@@ -1,10 +1,10 @@
 # aws/jsii - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 199
 
-★ Stars: 2213
+★ Stars: 2214
 
 [Open repository](https://github.com/aws/jsii)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2214 | 199 | 
 | 2023-02-13 | 2213 | 199 | 
 | 2023-02-12 | 2210 | 199 | 
 | 2023-02-11 | 2210 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 2182 | 194 | 
 | 2023-01-18 | 2182 | 194 | 
 | 2023-01-17 | 2181 | 194 | 
-| 2023-01-16 | 2180 | 194 | 
 

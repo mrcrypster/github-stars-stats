@@ -1,6 +1,6 @@
 # aquasecurity/chain-bench - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 620 | 49 | 
 | 2023-02-13 | 620 | 49 | 
 | 2023-02-12 | 620 | 49 | 
 | 2023-02-11 | 620 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 618 | 48 | 
 | 2023-01-18 | 618 | 48 | 
 | 2023-01-17 | 618 | 48 | 
-| 2023-01-16 | 618 | 47 | 
 

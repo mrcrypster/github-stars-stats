@@ -1,10 +1,10 @@
 # semaphore-protocol/semaphore - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 106
 
-★ Stars: 614
+★ Stars: 615
 
 [Open repository](https://github.com/semaphore-protocol/semaphore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 615 | 106 | 
 | 2023-02-13 | 614 | 106 | 
 | 2023-02-11 | 610 | 106 | 
 | 2023-02-10 | 610 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 592 | 103 | 
 | 2023-01-17 | 591 | 103 | 
 | 2023-01-16 | 590 | 103 | 
-| 2023-01-15 | 590 | 103 | 
 

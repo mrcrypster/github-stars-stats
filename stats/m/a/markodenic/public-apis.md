@@ -1,10 +1,10 @@
 # markodenic/public-apis - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 17
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/markodenic/public-apis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 144 | 17 | 
 | 2023-02-13 | 143 | 17 | 
 | 2023-02-12 | 143 | 17 | 
 | 2023-02-11 | 143 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 139 | 16 | 
 | 2023-01-18 | 139 | 16 | 
 | 2023-01-16 | 139 | 16 | 
-| 2023-01-15 | 139 | 16 | 
 

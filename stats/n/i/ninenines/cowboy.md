@@ -1,10 +1,10 @@
 # ninenines/cowboy - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1165
 
-★ Stars: 6858
+★ Stars: 6860
 
 [Open repository](https://github.com/ninenines/cowboy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6860 | 1165 | 
 | 2023-02-13 | 6858 | 1165 | 
 | 2023-02-12 | 6858 | 1164 | 
 | 2023-02-11 | 6858 | 1164 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6833 | 1161 | 
 | 2023-01-17 | 6834 | 1161 | 
 | 2023-01-16 | 6833 | 1161 | 
-| 2023-01-15 | 6831 | 1161 | 
 

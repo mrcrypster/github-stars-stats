@@ -1,10 +1,10 @@
 # ThePrimeagen/vim-be-good - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 56
 
-★ Stars: 1323
+★ Stars: 1326
 
 [Open repository](https://github.com/ThePrimeagen/vim-be-good)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1326 | 56 | 
 | 2023-02-13 | 1323 | 56 | 
 | 2023-02-12 | 1322 | 56 | 
 | 2023-02-11 | 1319 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 1276 | 54 | 
 | 2023-01-17 | 1272 | 52 | 
 | 2023-01-16 | 1271 | 52 | 
-| 2023-01-15 | 1269 | 52 | 
 

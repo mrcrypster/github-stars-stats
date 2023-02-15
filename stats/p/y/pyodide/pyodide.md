@@ -1,10 +1,10 @@
 # pyodide/pyodide - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 623
 
-★ Stars: 9600
+★ Stars: 9605
 
 [Open repository](https://github.com/pyodide/pyodide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 9605 | 623 | 
 | 2023-02-13 | 9600 | 623 | 
 | 2023-02-12 | 9593 | 623 | 
 | 2023-02-11 | 9591 | 623 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 9508 | 618 | 
 | 2023-01-17 | 9502 | 618 | 
 | 2023-01-16 | 9494 | 619 | 
-| 2023-01-15 | 9491 | 618 | 
 

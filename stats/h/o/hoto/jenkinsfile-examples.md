@@ -1,8 +1,8 @@
 # hoto/jenkinsfile-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 262
+☋ Forks: 263
 
 ★ Stars: 192
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 192 | 263 | 
 | 2023-02-14 | 192 | 262 | 
 | 2023-02-12 | 192 | 262 | 
 | 2023-02-11 | 192 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 190 | 258 | 
 | 2023-01-17 | 190 | 258 | 
 | 2023-01-16 | 190 | 257 | 
-| 2023-01-15 | 190 | 257 | 
 

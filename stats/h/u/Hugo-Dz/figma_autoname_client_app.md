@@ -1,8 +1,8 @@
 # Hugo-Dz/figma_autoname_client_app - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 4
+☋ Forks: 3
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 33 | 3 | 
 | 2023-02-13 | 33 | 4 | 
 | 2023-02-12 | 33 | 4 | 
 | 2023-02-11 | 33 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 33 | 4 | 
 | 2023-01-17 | 33 | 4 | 
 | 2023-01-16 | 32 | 4 | 
-| 2023-01-15 | 32 | 4 | 
 

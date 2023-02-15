@@ -1,10 +1,10 @@
 # alibaba/yalantinglibs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 434
+★ Stars: 439
 
 [Open repository](https://github.com/alibaba/yalantinglibs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 439 | 69 | 
 | 2023-02-13 | 434 | 68 | 
 | 2023-02-12 | 432 | 68 | 
 | 2023-02-11 | 429 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 379 | 60 | 
 | 2023-01-18 | 372 | 60 | 
 | 2023-01-17 | 369 | 60 | 
-| 2023-01-15 | 362 | 60 | 
 

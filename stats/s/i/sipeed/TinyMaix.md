@@ -1,10 +1,10 @@
 # sipeed/TinyMaix - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 654
+★ Stars: 655
 
 [Open repository](https://github.com/sipeed/TinyMaix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 655 | 96 | 
 | 2023-02-13 | 654 | 95 | 
 | 2023-02-12 | 653 | 95 | 
 | 2023-02-11 | 653 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 639 | 94 | 
 | 2023-01-17 | 636 | 94 | 
 | 2023-01-16 | 633 | 94 | 
-| 2023-01-15 | 633 | 93 | 
 

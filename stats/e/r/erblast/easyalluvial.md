@@ -1,10 +1,10 @@
 # erblast/easyalluvial - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/erblast/easyalluvial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 101 | 9 | 
 | 2023-02-13 | 100 | 9 | 
 | 2023-02-12 | 100 | 9 | 
 | 2023-02-11 | 100 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 100 | 9 | 
 | 2023-01-17 | 100 | 9 | 
 | 2023-01-16 | 100 | 9 | 
-| 2023-01-15 | 100 | 9 | 
 

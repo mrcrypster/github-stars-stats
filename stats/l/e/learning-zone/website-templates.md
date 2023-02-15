@@ -1,10 +1,10 @@
 # learning-zone/website-templates - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 2607
+☋ Forks: 2610
 
-★ Stars: 2981
+★ Stars: 2983
 
 [Open repository](https://github.com/learning-zone/website-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2983 | 2610 | 
 | 2023-02-13 | 2981 | 2607 | 
 | 2023-02-12 | 2974 | 2606 | 
 | 2023-02-11 | 2972 | 2601 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 2900 | 2547 | 
 | 2023-01-18 | 2898 | 2543 | 
 | 2023-01-17 | 2894 | 2537 | 
-| 2023-01-15 | 2890 | 2533 | 
 

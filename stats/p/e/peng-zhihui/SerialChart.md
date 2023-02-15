@@ -1,6 +1,6 @@
 # peng-zhihui/SerialChart - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 465 | 166 | 
 | 2023-02-13 | 465 | 166 | 
 | 2023-02-12 | 465 | 167 | 
 | 2023-02-11 | 465 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 460 | 165 | 
 | 2023-01-17 | 460 | 165 | 
 | 2023-01-16 | 460 | 166 | 
-| 2023-01-15 | 459 | 166 | 
 

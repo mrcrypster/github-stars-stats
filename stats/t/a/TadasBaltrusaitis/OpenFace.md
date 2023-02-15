@@ -1,10 +1,10 @@
 # TadasBaltrusaitis/OpenFace - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1728
 
-★ Stars: 5878
+★ Stars: 5879
 
 [Open repository](https://github.com/TadasBaltrusaitis/OpenFace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5879 | 1728 | 
 | 2023-02-13 | 5878 | 1728 | 
 | 2023-02-12 | 5878 | 1729 | 
 | 2023-02-11 | 5877 | 1729 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 5851 | 1724 | 
 | 2023-01-17 | 5851 | 1724 | 
 | 2023-01-16 | 5849 | 1724 | 
-| 2023-01-15 | 5843 | 1724 | 
 

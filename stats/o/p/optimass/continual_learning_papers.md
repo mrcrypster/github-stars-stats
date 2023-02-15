@@ -1,6 +1,6 @@
 # optimass/continual_learning_papers - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 623 | 75 | 
 | 2023-02-13 | 623 | 75 | 
 | 2023-02-11 | 623 | 75 | 
 | 2023-02-10 | 623 | 75 | 

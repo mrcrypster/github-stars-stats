@@ -1,10 +1,10 @@
 # tpoisot/ScientificComputingForTheRestOfUs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 115 | 12 | 
 | 2023-02-13 | 114 | 12 | 
 | 2023-02-12 | 113 | 12 | 
 | 2023-02-11 | 113 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 110 | 12 | 
 | 2023-01-18 | 109 | 12 | 
 | 2023-01-17 | 109 | 12 | 
-| 2023-01-15 | 109 | 12 | 
 

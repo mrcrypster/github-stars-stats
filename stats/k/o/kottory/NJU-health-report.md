@@ -1,10 +1,10 @@
 # kottory/NJU-health-report - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 395
+☋ Forks: 397
 
-★ Stars: 112
+★ Stars: 111
 
 [Open repository](https://github.com/kottory/NJU-health-report)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 111 | 397 | 
 | 2023-02-13 | 112 | 395 | 
 | 2023-02-12 | 112 | 395 | 
 | 2023-02-11 | 112 | 395 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 112 | 396 | 
 | 2023-01-18 | 112 | 396 | 
 | 2023-01-16 | 112 | 397 | 
-| 2023-01-15 | 112 | 397 | 
 

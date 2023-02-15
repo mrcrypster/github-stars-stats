@@ -1,6 +1,6 @@
 # bambosan/BSBE-Renewed - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 22 | 5 | 
 | 2023-02-13 | 22 | 5 | 
 | 2023-02-12 | 22 | 5 | 
 | 2023-02-11 | 22 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 19 | 5 | 
 | 2023-01-17 | 18 | 5 | 
 | 2023-01-16 | 18 | 5 | 
-| 2023-01-15 | 18 | 5 | 
 

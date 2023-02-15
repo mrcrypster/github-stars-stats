@@ -1,6 +1,6 @@
 # netlify/functions.netlify.com - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 508 | 132 | 
 | 2023-02-13 | 508 | 132 | 
 | 2023-02-12 | 508 | 132 | 
 | 2023-02-11 | 508 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 507 | 130 | 
 | 2023-01-17 | 507 | 130 | 
 | 2023-01-16 | 507 | 130 | 
-| 2023-01-15 | 507 | 130 | 
 

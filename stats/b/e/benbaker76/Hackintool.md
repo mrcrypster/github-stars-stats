@@ -1,8 +1,8 @@
 # benbaker76/Hackintool - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 207
+☋ Forks: 208
 
 ★ Stars: 2367
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2367 | 208 | 
 | 2023-02-13 | 2367 | 207 | 
 | 2023-02-12 | 2364 | 207 | 
 | 2023-02-11 | 2361 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2340 | 207 | 
 | 2023-01-17 | 2340 | 207 | 
 | 2023-01-16 | 2339 | 207 | 
-| 2023-01-15 | 2338 | 206 | 
 

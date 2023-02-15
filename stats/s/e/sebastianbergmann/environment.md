@@ -1,10 +1,10 @@
 # sebastianbergmann/environment - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 30
 
-★ Stars: 6492
+★ Stars: 6493
 
 [Open repository](https://github.com/sebastianbergmann/environment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6493 | 30 | 
 | 2023-02-13 | 6492 | 30 | 
 | 2023-02-12 | 6492 | 30 | 
 | 2023-02-11 | 6492 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6473 | 31 | 
 | 2023-01-17 | 6472 | 31 | 
 | 2023-01-16 | 6470 | 32 | 
-| 2023-01-15 | 6469 | 31 | 
 

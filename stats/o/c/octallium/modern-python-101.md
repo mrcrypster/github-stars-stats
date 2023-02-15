@@ -1,10 +1,10 @@
 # octallium/modern-python-101 - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 249
+★ Stars: 251
 
 [Open repository](https://github.com/octallium/modern-python-101)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 251 | 126 | 
 | 2023-02-13 | 249 | 125 | 
 | 2023-02-12 | 249 | 125 | 
 | 2023-02-11 | 249 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 244 | 123 | 
 | 2023-01-18 | 244 | 122 | 
 | 2023-01-17 | 244 | 122 | 
-| 2023-01-15 | 243 | 121 | 
 

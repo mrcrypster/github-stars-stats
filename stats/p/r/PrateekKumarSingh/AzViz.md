@@ -1,6 +1,6 @@
 # PrateekKumarSingh/AzViz - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 437 | 98 | 
 | 2023-02-13 | 437 | 98 | 
 | 2023-02-11 | 437 | 98 | 
 | 2023-02-10 | 437 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 430 | 95 | 
 | 2023-01-17 | 429 | 94 | 
 | 2023-01-16 | 429 | 93 | 
-| 2023-01-15 | 429 | 93 | 
 

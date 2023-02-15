@@ -1,8 +1,8 @@
 # lballabio/QuantLib - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1455
+☋ Forks: 1456
 
 ★ Stars: 3672
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3672 | 1456 | 
 | 2023-02-13 | 3672 | 1455 | 
 | 2023-02-12 | 3670 | 1455 | 
 | 2023-02-11 | 3668 | 1454 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 3609 | 1444 | 
 | 2023-01-17 | 3607 | 1444 | 
 | 2023-01-16 | 3603 | 1443 | 
-| 2023-01-15 | 3601 | 1442 | 
 

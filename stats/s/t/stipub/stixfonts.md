@@ -1,6 +1,6 @@
 # stipub/stixfonts - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 528 | 39 | 
 | 2023-02-13 | 528 | 39 | 
 | 2023-02-12 | 528 | 39 | 
 | 2023-02-11 | 528 | 39 | 

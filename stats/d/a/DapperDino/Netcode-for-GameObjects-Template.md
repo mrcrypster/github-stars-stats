@@ -1,6 +1,6 @@
 # DapperDino/Netcode-for-GameObjects-Template - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 16 | 3 | 
 | 2023-02-13 | 16 | 3 | 
 | 2023-02-12 | 16 | 3 | 
 | 2023-02-11 | 16 | 3 | 

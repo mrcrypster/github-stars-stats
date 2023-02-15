@@ -1,8 +1,8 @@
 # mostafaemara/real_time_vehicle_tracking_app - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 68 | 29 | 
 | 2023-02-13 | 68 | 28 | 
 | 2023-02-12 | 68 | 28 | 
 | 2023-02-11 | 68 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 65 | 27 | 
 | 2023-01-17 | 65 | 27 | 
 | 2023-01-16 | 64 | 27 | 
-| 2023-01-15 | 64 | 27 | 
 

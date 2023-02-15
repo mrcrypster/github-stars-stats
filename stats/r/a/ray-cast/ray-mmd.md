@@ -1,6 +1,6 @@
 # ray-cast/ray-mmd - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 550
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1426 | 550 | 
 | 2023-02-13 | 1426 | 550 | 
 | 2023-02-12 | 1426 | 550 | 
 | 2023-02-11 | 1424 | 550 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1412 | 546 | 
 | 2023-01-17 | 1412 | 546 | 
 | 2023-01-16 | 1412 | 546 | 
-| 2023-01-15 | 1412 | 546 | 
 

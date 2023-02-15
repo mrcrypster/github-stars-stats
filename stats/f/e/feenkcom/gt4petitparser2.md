@@ -1,6 +1,6 @@
 # feenkcom/gt4petitparser2 - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 3 | - | 
+| 2023-02-14 | 3 | - | 
 | 2023-02-12 | 3 | - | 
 | 2023-02-11 | 3 | - | 
 | 2023-02-10 | 3 | - | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 1 | - | 
 | 2023-01-17 | 1 | - | 
 | 2023-01-16 | 1 | - | 
-| 2023-01-15 | 1 | - | 
 

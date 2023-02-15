@@ -1,6 +1,6 @@
 # fladson/vim-kitty - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 123 | 8 | 
 | 2023-02-13 | 123 | 8 | 
 | 2023-02-12 | 123 | 8 | 
 | 2023-02-11 | 123 | 8 | 

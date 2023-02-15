@@ -1,10 +1,10 @@
 # superphiz/dashboards - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/superphiz/dashboards)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 91 | 9 | 
 | 2023-02-13 | 90 | 9 | 
 | 2023-02-12 | 88 | 9 | 
 | 2023-02-11 | 88 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 87 | 8 | 
 | 2023-01-17 | 87 | 8 | 
 | 2023-01-16 | 87 | 8 | 
-| 2023-01-15 | 87 | 8 | 
 

@@ -1,10 +1,10 @@
 # 1c7/chinese-independent-developer - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1943
+☋ Forks: 1946
 
-★ Stars: 21152
+★ Stars: 21171
 
 [Open repository](https://github.com/1c7/chinese-independent-developer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 21171 | 1946 | 
 | 2023-02-13 | 21152 | 1943 | 
 | 2023-02-12 | 21140 | 1944 | 
 | 2023-02-11 | 21125 | 1944 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 20011 | 1876 | 
 | 2023-01-17 | 19975 | 1875 | 
 | 2023-01-16 | 19943 | 1872 | 
-| 2023-01-15 | 19908 | 1867 | 
 

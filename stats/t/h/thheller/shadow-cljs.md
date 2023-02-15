@@ -1,10 +1,10 @@
 # thheller/shadow-cljs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 161
 
-★ Stars: 2038
+★ Stars: 2040
 
 [Open repository](https://github.com/thheller/shadow-cljs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2040 | 161 | 
 | 2023-02-13 | 2038 | 161 | 
 | 2023-02-12 | 2038 | 161 | 
 | 2023-02-10 | 2037 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2028 | 159 | 
 | 2023-01-17 | 2027 | 159 | 
 | 2023-01-16 | 2025 | 158 | 
-| 2023-01-15 | 2025 | 158 | 
 

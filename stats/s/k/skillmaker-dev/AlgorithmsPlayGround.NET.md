@@ -1,6 +1,6 @@
 # skillmaker-dev/AlgorithmsPlayGround.NET - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 93 | 3 | 
 | 2023-02-14 | 93 | 3 | 
 | 2023-02-12 | 93 | 3 | 
 | 2023-02-11 | 93 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 92 | 3 | 
 | 2023-01-17 | 92 | 3 | 
 | 2023-01-16 | 92 | 3 | 
-| 2023-01-15 | 92 | 3 | 
 

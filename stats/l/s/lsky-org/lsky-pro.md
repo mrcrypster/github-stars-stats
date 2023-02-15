@@ -1,10 +1,10 @@
 # lsky-org/lsky-pro - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 521
 
-★ Stars: 2938
+★ Stars: 2941
 
 [Open repository](https://github.com/lsky-org/lsky-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2941 | 521 | 
 | 2023-02-13 | 2938 | 521 | 
 | 2023-02-12 | 2932 | 521 | 
 | 2023-02-11 | 2933 | 520 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2876 | 517 | 
 | 2023-01-17 | 2875 | 516 | 
 | 2023-01-16 | 2874 | 516 | 
-| 2023-01-15 | 2867 | 515 | 
 

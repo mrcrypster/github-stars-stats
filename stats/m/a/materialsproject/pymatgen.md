@@ -1,8 +1,8 @@
 # materialsproject/pymatgen - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 729
+☋ Forks: 730
 
 ★ Stars: 1047
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1047 | 730 | 
 | 2023-02-13 | 1047 | 729 | 
 | 2023-02-12 | 1048 | 729 | 
 | 2023-02-11 | 1048 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1038 | 727 | 
 | 2023-01-17 | 1038 | 727 | 
 | 2023-01-16 | 1038 | 727 | 
-| 2023-01-15 | 1037 | 726 | 
 

@@ -1,10 +1,10 @@
 # cloudwu/skynet - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3937
+☋ Forks: 3938
 
-★ Stars: 11749
+★ Stars: 11753
 
 [Open repository](https://github.com/cloudwu/skynet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 11753 | 3938 | 
 | 2023-02-13 | 11749 | 3937 | 
 | 2023-02-12 | 11748 | 3936 | 
 | 2023-02-11 | 11747 | 3936 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 11717 | 3924 | 
 | 2023-01-17 | 11715 | 3924 | 
 | 2023-01-16 | 11711 | 3923 | 
-| 2023-01-15 | 11712 | 3921 | 
 

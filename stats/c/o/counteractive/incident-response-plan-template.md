@@ -1,10 +1,10 @@
 # counteractive/incident-response-plan-template - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 149
 
-★ Stars: 393
+★ Stars: 394
 
 [Open repository](https://github.com/counteractive/incident-response-plan-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 394 | 149 | 
 | 2023-02-13 | 393 | 149 | 
 | 2023-02-12 | 393 | 149 | 
 | 2023-02-11 | 393 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 381 | 143 | 
 | 2023-01-17 | 381 | 143 | 
 | 2023-01-16 | 380 | 143 | 
-| 2023-01-15 | 380 | 143 | 
 

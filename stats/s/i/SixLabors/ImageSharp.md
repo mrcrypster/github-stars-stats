@@ -1,10 +1,10 @@
 # SixLabors/ImageSharp - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 770
+☋ Forks: 771
 
-★ Stars: 6291
+★ Stars: 6293
 
 [Open repository](https://github.com/SixLabors/ImageSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6293 | 771 | 
 | 2023-02-14 | 6291 | 770 | 
 | 2023-02-12 | 6289 | 769 | 
 | 2023-02-11 | 6288 | 769 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 6223 | 766 | 
 | 2023-01-17 | 6220 | 765 | 
 | 2023-01-16 | 6216 | 765 | 
-| 2023-01-15 | 6214 | 765 | 
 

@@ -1,10 +1,10 @@
 # monero-project/monero-site - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 366
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/monero-project/monero-site)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 216 | 366 | 
 | 2023-02-13 | 215 | 366 | 
 | 2023-02-11 | 214 | 366 | 
 | 2023-02-10 | 214 | 365 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 209 | 365 | 
 | 2023-01-17 | 209 | 365 | 
 | 2023-01-16 | 210 | 365 | 
-| 2023-01-15 | 210 | 365 | 
 

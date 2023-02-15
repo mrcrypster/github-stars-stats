@@ -1,10 +1,10 @@
 # PaddlePaddle/ERNIE - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1196
+☋ Forks: 1197
 
-★ Stars: 5454
+★ Stars: 5458
 
 [Open repository](https://github.com/PaddlePaddle/ERNIE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5458 | 1197 | 
 | 2023-02-13 | 5454 | 1196 | 
 | 2023-02-12 | 5446 | 1196 | 
 | 2023-02-11 | 5444 | 1195 | 

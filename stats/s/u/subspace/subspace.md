@@ -1,10 +1,10 @@
 # subspace/subspace - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 179
 
-★ Stars: 199
+★ Stars: 200
 
 [Open repository](https://github.com/subspace/subspace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 200 | 179 | 
 | 2023-02-13 | 199 | 179 | 
 | 2023-02-11 | 198 | 179 | 
 | 2023-02-10 | 198 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 193 | 174 | 
 | 2023-01-17 | 192 | 174 | 
 | 2023-01-16 | 192 | 174 | 
-| 2023-01-15 | 192 | 174 | 
 

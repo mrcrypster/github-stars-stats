@@ -1,10 +1,10 @@
 # anonaddy/anonaddy - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 125
 
-★ Stars: 2153
+★ Stars: 2155
 
 [Open repository](https://github.com/anonaddy/anonaddy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2155 | 125 | 
 | 2023-02-13 | 2153 | 125 | 
 | 2023-02-12 | 2150 | 124 | 
 | 2023-02-11 | 2149 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2089 | 122 | 
 | 2023-01-17 | 2086 | 122 | 
 | 2023-01-16 | 2087 | 122 | 
-| 2023-01-15 | 2087 | 122 | 
 

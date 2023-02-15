@@ -1,6 +1,6 @@
 # openasic-org/xkISP - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 103 | 64 | 
 | 2023-02-13 | 103 | 64 | 
 | 2023-02-12 | 103 | 64 | 
 | 2023-02-11 | 103 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 100 | 62 | 
 | 2023-01-17 | 100 | 62 | 
 | 2023-01-16 | 100 | 62 | 
-| 2023-01-15 | 100 | 62 | 
 

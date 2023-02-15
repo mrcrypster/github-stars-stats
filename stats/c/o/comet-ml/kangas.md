@@ -1,10 +1,10 @@
 # comet-ml/kangas - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 34
 
-★ Stars: 733
+★ Stars: 734
 
 [Open repository](https://github.com/comet-ml/kangas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 734 | 34 | 
 | 2023-02-13 | 733 | 34 | 
 | 2023-02-12 | 732 | 34 | 
 | 2023-02-11 | 728 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 715 | 33 | 
 | 2023-01-17 | 716 | 32 | 
 | 2023-01-16 | 715 | 32 | 
-| 2023-01-15 | 715 | 32 | 
 

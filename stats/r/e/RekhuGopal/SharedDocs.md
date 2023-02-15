@@ -1,8 +1,8 @@
 # RekhuGopal/SharedDocs - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 122
+☋ Forks: 123
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 11 | 123 | 
 | 2023-02-14 | 11 | 122 | 
 | 2023-02-12 | 11 | 121 | 
 | 2023-02-11 | 11 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 10 | 112 | 
 | 2023-01-17 | 10 | 112 | 
 | 2023-01-16 | 10 | 112 | 
-| 2023-01-15 | 10 | 110 | 
 

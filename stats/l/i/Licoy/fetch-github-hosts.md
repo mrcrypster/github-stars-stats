@@ -1,10 +1,10 @@
 # Licoy/fetch-github-hosts - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 43
 
-★ Stars: 351
+★ Stars: 353
 
 [Open repository](https://github.com/Licoy/fetch-github-hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 353 | 43 | 
 | 2023-02-12 | 351 | 43 | 
 | 2023-02-11 | 350 | 42 | 
 | 2023-02-10 | 350 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 335 | 41 | 
 | 2023-01-17 | 335 | 41 | 
 | 2023-01-16 | 335 | 41 | 
-| 2023-01-15 | 335 | 41 | 
 

@@ -1,10 +1,10 @@
 # brainbackdoor/playground-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 28
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/brainbackdoor/playground-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 22 | 28 | 
 | 2023-02-13 | 21 | 28 | 
 | 2023-02-12 | 21 | 28 | 
 | 2023-02-11 | 21 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 20 | 27 | 
 | 2023-01-17 | 20 | 27 | 
 | 2023-01-16 | 20 | 27 | 
-| 2023-01-15 | 20 | 27 | 
 

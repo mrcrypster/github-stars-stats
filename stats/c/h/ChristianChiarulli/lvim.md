@@ -1,8 +1,8 @@
 # ChristianChiarulli/lvim - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 175 | 65 | 
 | 2023-02-13 | 175 | 64 | 
 | 2023-02-12 | 175 | 63 | 
 | 2023-02-10 | 172 | 63 | 

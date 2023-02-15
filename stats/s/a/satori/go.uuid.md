@@ -1,10 +1,10 @@
 # satori/go.uuid - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 597
 
-★ Stars: 4732
+★ Stars: 4733
 
 [Open repository](https://github.com/satori/go.uuid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 4733 | 597 | 
 | 2023-02-13 | 4732 | 597 | 
 | 2023-02-12 | 4730 | 597 | 
 | 2023-02-11 | 4730 | 597 | 

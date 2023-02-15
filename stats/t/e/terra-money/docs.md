@@ -1,8 +1,8 @@
 # terra-money/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 195
+☋ Forks: 196
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 105 | 196 | 
 | 2023-02-13 | 105 | 195 | 
 | 2023-02-12 | 105 | 195 | 
 | 2023-02-11 | 105 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 104 | 192 | 
 | 2023-01-17 | 104 | 191 | 
 | 2023-01-16 | 104 | 190 | 
-| 2023-01-15 | 104 | 190 | 
 

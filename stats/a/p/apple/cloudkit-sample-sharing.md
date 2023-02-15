@@ -1,10 +1,10 @@
 # apple/cloudkit-sample-sharing - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/apple/cloudkit-sample-sharing)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 249 | 31 | 
 | 2023-02-13 | 248 | 31 | 
 | 2023-02-12 | 248 | 31 | 
 | 2023-02-10 | 248 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 241 | 30 | 
 | 2023-01-17 | 241 | 30 | 
 | 2023-01-16 | 241 | 30 | 
-| 2023-01-15 | 241 | 30 | 
 

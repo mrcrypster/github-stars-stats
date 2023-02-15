@@ -1,6 +1,6 @@
 # winterheart/broadcom-bt-firmware - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 870 | 134 | 
 | 2023-02-13 | 870 | 134 | 
 | 2023-02-12 | 869 | 134 | 
 | 2023-02-11 | 868 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 859 | 134 | 
 | 2023-01-17 | 859 | 134 | 
 | 2023-01-16 | 859 | 134 | 
-| 2023-01-15 | 859 | 134 | 
 

@@ -1,10 +1,10 @@
 # wdsqjq/FengYunWeather - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 167
+☋ Forks: 168
 
-★ Stars: 1048
+★ Stars: 1051
 
 [Open repository](https://github.com/wdsqjq/FengYunWeather)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1051 | 168 | 
 | 2023-02-13 | 1048 | 167 | 
 | 2023-02-12 | 1047 | 167 | 
 | 2023-02-10 | 1046 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1008 | 163 | 
 | 2023-01-17 | 1006 | 162 | 
 | 2023-01-16 | 1003 | 162 | 
-| 2023-01-15 | 1000 | 162 | 
 

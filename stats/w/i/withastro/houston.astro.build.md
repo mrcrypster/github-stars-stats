@@ -1,10 +1,10 @@
 # withastro/houston.astro.build - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/withastro/houston.astro.build)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 150 | 8 | 
 | 2023-02-13 | 149 | 7 | 
 | 2023-02-12 | 149 | 7 | 
 | 2023-02-11 | 149 | 7 | 

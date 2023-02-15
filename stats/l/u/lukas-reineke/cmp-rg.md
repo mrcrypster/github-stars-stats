@@ -1,10 +1,10 @@
 # lukas-reineke/cmp-rg - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/lukas-reineke/cmp-rg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 212 | 9 | 
 | 2023-02-13 | 211 | 9 | 
 | 2023-02-12 | 211 | 9 | 
 | 2023-02-10 | 210 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 209 | 9 | 
 | 2023-01-17 | 209 | 9 | 
 | 2023-01-16 | 209 | 9 | 
-| 2023-01-15 | 210 | 9 | 
 

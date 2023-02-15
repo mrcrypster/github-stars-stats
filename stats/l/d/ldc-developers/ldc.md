@@ -1,6 +1,6 @@
 # ldc-developers/ldc - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 236
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1068 | 236 | 
 | 2023-02-13 | 1068 | 236 | 
 | 2023-02-12 | 1067 | 236 | 
 | 2023-02-11 | 1067 | 236 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1063 | 235 | 
 | 2023-01-17 | 1061 | 236 | 
 | 2023-01-16 | 1061 | 236 | 
-| 2023-01-15 | 1060 | 236 | 
 

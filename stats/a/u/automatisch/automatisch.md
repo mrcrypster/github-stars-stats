@@ -1,10 +1,10 @@
 # automatisch/automatisch - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 71
+☋ Forks: 73
 
-★ Stars: 1837
+★ Stars: 1852
 
 [Open repository](https://github.com/automatisch/automatisch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1852 | 73 | 
 | 2023-02-13 | 1837 | 71 | 
 | 2023-02-12 | 1818 | 71 | 
 | 2023-02-11 | 1808 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 653 | 37 | 
 | 2023-01-18 | 647 | 37 | 
 | 2023-01-17 | 641 | 37 | 
-| 2023-01-16 | 635 | 37 | 
 

@@ -1,6 +1,6 @@
 # leios/SoME_Topics - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 215 | 7 | 
 | 2023-02-13 | 215 | 7 | 
 | 2023-02-12 | 215 | 7 | 
 | 2023-02-11 | 215 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 214 | 8 | 
 | 2023-01-17 | 214 | 8 | 
 | 2023-01-16 | 214 | 8 | 
-| 2023-01-15 | 214 | 8 | 
 

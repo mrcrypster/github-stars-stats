@@ -1,6 +1,6 @@
 # niuhuan/jasmine - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1897 | 139 | 
 | 2023-02-13 | 1897 | 139 | 
 | 2023-02-12 | 1895 | 139 | 
 | 2023-02-11 | 1893 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1744 | 131 | 
 | 2023-01-17 | 1739 | 131 | 
 | 2023-01-16 | 1736 | 131 | 
-| 2023-01-15 | 1731 | 131 | 
 

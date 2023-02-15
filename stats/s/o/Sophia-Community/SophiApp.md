@@ -1,10 +1,10 @@
 # Sophia-Community/SophiApp - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 94
 
-★ Stars: 1956
+★ Stars: 1961
 
 [Open repository](https://github.com/Sophia-Community/SophiApp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1961 | 94 | 
 | 2023-02-12 | 1956 | 94 | 
 | 2023-02-11 | 1952 | 94 | 
 | 2023-02-10 | 1947 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 1874 | 92 | 
 | 2023-01-17 | 1872 | 92 | 
 | 2023-01-16 | 1869 | 91 | 
-| 2023-01-15 | 1865 | 91 | 
 

@@ -1,10 +1,10 @@
 # borkdude/jet - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 30
 
-★ Stars: 538
+★ Stars: 540
 
 [Open repository](https://github.com/borkdude/jet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 540 | 30 | 
 | 2023-02-13 | 538 | 30 | 
 | 2023-02-11 | 538 | 30 | 
 | 2023-02-10 | 536 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 518 | 30 | 
 | 2023-01-17 | 518 | 30 | 
 | 2023-01-16 | 518 | 30 | 
-| 2023-01-15 | 517 | 30 | 
 

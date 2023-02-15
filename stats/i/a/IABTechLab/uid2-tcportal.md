@@ -1,6 +1,6 @@
 # IABTechLab/uid2-tcportal - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5 | 6 | 
 | 2023-02-13 | 5 | 6 | 
 | 2023-02-12 | 5 | 6 | 
 | 2023-02-11 | 5 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 5 | 6 | 
 | 2023-01-17 | 5 | 6 | 
 | 2023-01-16 | 5 | 6 | 
-| 2023-01-15 | 5 | 6 | 
 

@@ -1,10 +1,10 @@
 # TheAlgorithms/Python - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 39028
+☋ Forks: 39037
 
-★ Stars: 152994
+★ Stars: 153049
 
 [Open repository](https://github.com/TheAlgorithms/Python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 153049 | 39037 | 
 | 2023-02-13 | 152994 | 39028 | 
 | 2023-02-12 | 152928 | 39022 | 
 | 2023-02-11 | 152869 | 39002 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 151150 | 38727 | 
 | 2023-01-17 | 151105 | 38727 | 
 | 2023-01-16 | 151060 | 38715 | 
-| 2023-01-15 | 151037 | 38712 | 
 

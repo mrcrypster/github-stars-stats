@@ -1,10 +1,10 @@
 # altercation/solarized - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3584
+☋ Forks: 3585
 
-★ Stars: 15425
+★ Stars: 15428
 
 [Open repository](https://github.com/altercation/solarized)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 15428 | 3585 | 
 | 2023-02-13 | 15425 | 3584 | 
 | 2023-02-12 | 15423 | 3584 | 
 | 2023-02-11 | 15422 | 3585 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 15403 | 3584 | 
 | 2023-01-17 | 15402 | 3584 | 
 | 2023-01-16 | 15402 | 3584 | 
-| 2023-01-15 | 15401 | 3585 | 
 

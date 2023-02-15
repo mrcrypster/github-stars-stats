@@ -1,10 +1,10 @@
 # devcontainers/templates - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 63
 
-★ Stars: 178
+★ Stars: 180
 
 [Open repository](https://github.com/devcontainers/templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 180 | 63 | 
 | 2023-02-13 | 178 | 63 | 
 | 2023-02-12 | 178 | 63 | 
 | 2023-02-11 | 177 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 132 | 49 | 
 | 2023-01-18 | 131 | 48 | 
 | 2023-01-17 | 129 | 48 | 
-| 2023-01-16 | 129 | 46 | 
 

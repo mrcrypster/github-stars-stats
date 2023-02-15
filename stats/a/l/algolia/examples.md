@@ -1,6 +1,6 @@
 # algolia/examples - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 76 | 99 | 
 | 2023-02-13 | 76 | 99 | 
 | 2023-02-11 | 76 | 99 | 
 | 2023-02-10 | 76 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 76 | 99 | 
 | 2023-01-17 | 76 | 99 | 
 | 2023-01-16 | 76 | 99 | 
-| 2023-01-15 | 76 | 99 | 
 

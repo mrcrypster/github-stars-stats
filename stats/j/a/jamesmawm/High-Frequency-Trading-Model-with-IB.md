@@ -1,6 +1,6 @@
 # jamesmawm/High-Frequency-Trading-Model-with-IB - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 621
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2136 | 621 | 
 | 2023-02-13 | 2136 | 621 | 
 | 2023-02-12 | 2136 | 620 | 
 | 2023-02-11 | 2136 | 619 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2127 | 617 | 
 | 2023-01-17 | 2127 | 617 | 
 | 2023-01-16 | 2125 | 617 | 
-| 2023-01-15 | 2125 | 617 | 
 

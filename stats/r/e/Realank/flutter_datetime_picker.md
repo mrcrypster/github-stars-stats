@@ -1,8 +1,8 @@
 # Realank/flutter_datetime_picker - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 583
+☋ Forks: 582
 
 ★ Stars: 570
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 570 | 582 | 
 | 2023-02-13 | 570 | 583 | 
 | 2023-02-12 | 570 | 583 | 
 | 2023-02-10 | 570 | 583 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 565 | 579 | 
 | 2023-01-18 | 564 | 578 | 
 | 2023-01-17 | 564 | 577 | 
-| 2023-01-16 | 563 | 576 | 
 

@@ -1,6 +1,6 @@
 # timescale/tobs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 521 | 59 | 
 | 2023-02-13 | 521 | 59 | 
 | 2023-02-11 | 521 | 59 | 
 | 2023-02-10 | 520 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 511 | 58 | 
 | 2023-01-17 | 511 | 58 | 
 | 2023-01-16 | 511 | 58 | 
-| 2023-01-15 | 511 | 58 | 
 

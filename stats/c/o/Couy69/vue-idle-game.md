@@ -1,10 +1,10 @@
 # Couy69/vue-idle-game - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 136
 
-★ Stars: 893
+★ Stars: 894
 
 [Open repository](https://github.com/Couy69/vue-idle-game)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 894 | 136 | 
 | 2023-02-13 | 893 | 136 | 
 | 2023-02-12 | 892 | 136 | 
 | 2023-02-11 | 892 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 884 | 134 | 
 | 2023-01-18 | 884 | 134 | 
 | 2023-01-17 | 883 | 134 | 
-| 2023-01-16 | 883 | 134 | 
 

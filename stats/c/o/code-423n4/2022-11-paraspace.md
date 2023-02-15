@@ -1,6 +1,6 @@
 # code-423n4/2022-11-paraspace - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 10 | 19 | 
 | 2023-02-13 | 10 | 19 | 
 | 2023-02-12 | 10 | 19 | 
 | 2023-02-11 | 9 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 9 | 19 | 
 | 2023-01-17 | 9 | 19 | 
 | 2023-01-16 | 9 | 19 | 
-| 2023-01-15 | 9 | 19 | 
 

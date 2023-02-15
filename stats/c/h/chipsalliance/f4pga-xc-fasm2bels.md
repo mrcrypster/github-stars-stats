@@ -1,6 +1,6 @@
 # chipsalliance/f4pga-xc-fasm2bels - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5 | 9 | 
 | 2023-02-12 | 5 | 9 | 
 | 2023-02-11 | 5 | 9 | 
 | 2023-02-10 | 5 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 5 | 9 | 
 | 2023-01-17 | 5 | 9 | 
 | 2023-01-16 | 5 | 9 | 
-| 2023-01-15 | 5 | 9 | 
 

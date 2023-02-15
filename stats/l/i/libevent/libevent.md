@@ -1,10 +1,10 @@
 # libevent/libevent - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 3179
 
-★ Stars: 9523
+★ Stars: 9525
 
 [Open repository](https://github.com/libevent/libevent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 9525 | 3179 | 
 | 2023-02-13 | 9523 | 3179 | 
 | 2023-02-12 | 9522 | 3179 | 
 | 2023-02-11 | 9519 | 3178 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 9472 | 3174 | 
 | 2023-01-17 | 9471 | 3174 | 
 | 2023-01-16 | 9468 | 3174 | 
-| 2023-01-15 | 9463 | 3174 | 
 

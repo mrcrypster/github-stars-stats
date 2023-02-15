@@ -1,6 +1,6 @@
 # cedille/ial - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 34 | 18 | 
 | 2023-02-13 | 34 | 18 | 
 | 2023-02-11 | 34 | 18 | 
 | 2023-02-10 | 34 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 33 | 18 | 
 | 2023-01-17 | 32 | 18 | 
 | 2023-01-16 | 32 | 18 | 
-| 2023-01-15 | 31 | 18 | 
 

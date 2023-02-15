@@ -1,6 +1,6 @@
 # sidekiq-cron/sidekiq-cron - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1690 | 261 | 
 | 2023-02-13 | 1690 | 261 | 
 | 2023-02-12 | 1688 | 260 | 
 | 2023-02-11 | 1688 | 260 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1683 | 260 | 
 | 2023-01-17 | 1682 | 260 | 
 | 2023-01-16 | 1682 | 260 | 
-| 2023-01-15 | 1682 | 260 | 
 

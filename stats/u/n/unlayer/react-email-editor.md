@@ -1,10 +1,10 @@
 # unlayer/react-email-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 643
 
-★ Stars: 3686
+★ Stars: 3688
 
 [Open repository](https://github.com/unlayer/react-email-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3688 | 643 | 
 | 2023-02-13 | 3686 | 643 | 
 | 2023-02-12 | 3684 | 643 | 
 | 2023-02-11 | 3682 | 641 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 3656 | 636 | 
 | 2023-01-17 | 3655 | 635 | 
 | 2023-01-16 | 3653 | 634 | 
-| 2023-01-15 | 3652 | 633 | 
 

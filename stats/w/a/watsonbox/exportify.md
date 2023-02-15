@@ -1,10 +1,10 @@
 # watsonbox/exportify - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 369
 
-★ Stars: 2331
+★ Stars: 2332
 
 [Open repository](https://github.com/watsonbox/exportify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2332 | 369 | 
 | 2023-02-13 | 2331 | 369 | 
 | 2023-02-11 | 2329 | 369 | 
 | 2023-02-10 | 2328 | 369 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2281 | 367 | 
 | 2023-01-17 | 2280 | 367 | 
 | 2023-01-16 | 2276 | 367 | 
-| 2023-01-15 | 2272 | 367 | 
 

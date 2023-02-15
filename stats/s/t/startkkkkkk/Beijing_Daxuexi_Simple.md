@@ -1,8 +1,8 @@
 # startkkkkkk/Beijing_Daxuexi_Simple - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
-☋ Forks: 657
+☋ Forks: 656
 
 ★ Stars: 327
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 327 | 656 | 
 | 2023-02-13 | 327 | 657 | 
 | 2023-02-12 | 326 | 657 | 
 | 2023-02-11 | 326 | 656 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 326 | 661 | 
 | 2023-01-17 | 326 | 661 | 
 | 2023-01-16 | 326 | 661 | 
-| 2023-01-15 | 326 | 661 | 
 

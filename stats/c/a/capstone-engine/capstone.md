@@ -1,10 +1,10 @@
 # capstone-engine/capstone - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1396
+☋ Forks: 1395
 
-★ Stars: 6172
+★ Stars: 6176
 
 [Open repository](https://github.com/capstone-engine/capstone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6176 | 1395 | 
 | 2023-02-13 | 6172 | 1396 | 
 | 2023-02-12 | 6174 | 1396 | 
 | 2023-02-11 | 6173 | 1396 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6119 | 1390 | 
 | 2023-01-17 | 6118 | 1388 | 
 | 2023-01-16 | 6117 | 1388 | 
-| 2023-01-15 | 6114 | 1388 | 
 

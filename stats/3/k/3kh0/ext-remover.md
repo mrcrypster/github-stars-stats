@@ -1,10 +1,10 @@
 # 3kh0/ext-remover - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 160
+☋ Forks: 161
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/3kh0/ext-remover)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 171 | 161 | 
 | 2023-02-13 | 170 | 160 | 
 | 2023-02-12 | 170 | 160 | 
 | 2023-02-11 | 170 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 136 | 123 | 
 | 2023-01-17 | 135 | 122 | 
 | 2023-01-16 | 134 | 120 | 
-| 2023-01-15 | 132 | 119 | 
 

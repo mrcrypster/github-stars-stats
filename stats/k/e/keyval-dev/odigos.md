@@ -1,10 +1,10 @@
 # keyval-dev/odigos - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 933
+★ Stars: 949
 
 [Open repository](https://github.com/keyval-dev/odigos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 949 | 28 | 
 | 2023-02-13 | 933 | 27 | 
 | 2023-02-12 | 924 | 27 | 
 | 2023-02-11 | 925 | 27 | 

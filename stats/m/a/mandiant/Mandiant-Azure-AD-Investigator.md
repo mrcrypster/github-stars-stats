@@ -1,10 +1,10 @@
 # mandiant/Mandiant-Azure-AD-Investigator - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 87
 
-★ Stars: 542
+★ Stars: 543
 
 [Open repository](https://github.com/mandiant/Mandiant-Azure-AD-Investigator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 543 | 87 | 
 | 2023-02-14 | 542 | 87 | 
 | 2023-02-12 | 542 | 87 | 
 | 2023-02-11 | 542 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 538 | 86 | 
 | 2023-01-17 | 538 | 86 | 
 | 2023-01-16 | 537 | 86 | 
-| 2023-01-15 | 536 | 86 | 
 

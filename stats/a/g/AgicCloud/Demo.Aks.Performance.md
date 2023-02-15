@@ -1,6 +1,6 @@
 # AgicCloud/Demo.Aks.Performance - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 8 | 10 | 
 | 2023-02-13 | 8 | 10 | 
 | 2023-02-12 | 8 | 10 | 
 | 2023-02-11 | 8 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 8 | 10 | 
 | 2023-01-17 | 8 | 10 | 
 | 2023-01-16 | 8 | 10 | 
-| 2023-01-15 | 8 | 10 | 
 

@@ -1,10 +1,10 @@
 # progschj/ThreadPool - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1944
+☋ Forks: 1945
 
-★ Stars: 6194
+★ Stars: 6197
 
 [Open repository](https://github.com/progschj/ThreadPool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6197 | 1945 | 
 | 2023-02-13 | 6194 | 1944 | 
 | 2023-02-12 | 6193 | 1944 | 
 | 2023-02-11 | 6188 | 1943 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 6137 | 1935 | 
 | 2023-01-18 | 6137 | 1934 | 
 | 2023-01-17 | 6137 | 1934 | 
-| 2023-01-16 | 6133 | 1933 | 
 

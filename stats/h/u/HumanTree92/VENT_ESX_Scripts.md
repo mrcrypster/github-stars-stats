@@ -1,6 +1,6 @@
 # HumanTree92/VENT_ESX_Scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 36 | 70 | 
 | 2023-02-13 | 36 | 70 | 
 | 2023-02-12 | 36 | 70 | 
 | 2023-02-11 | 36 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 35 | 68 | 
 | 2023-01-18 | 35 | 68 | 
 | 2023-01-17 | 35 | 68 | 
-| 2023-01-16 | 36 | 67 | 
 

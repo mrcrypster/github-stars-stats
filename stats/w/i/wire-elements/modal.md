@@ -1,6 +1,6 @@
 # wire-elements/modal - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 838 | 91 | 
 | 2023-02-13 | 838 | 91 | 
 | 2023-02-12 | 837 | 91 | 
 | 2023-02-11 | 837 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 823 | 88 | 
 | 2023-01-18 | 823 | 86 | 
 | 2023-01-17 | 823 | 85 | 
-| 2023-01-16 | 822 | 85 | 
 

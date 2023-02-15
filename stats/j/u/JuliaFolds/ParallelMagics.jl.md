@@ -1,6 +1,6 @@
 # JuliaFolds/ParallelMagics.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 48 | - | 
 | 2023-02-12 | 48 | - | 
 | 2023-02-11 | 48 | - | 
 | 2023-02-10 | 48 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 48 | - | 
 | 2023-01-17 | 48 | - | 
 | 2023-01-16 | 48 | - | 
-| 2023-01-15 | 48 | - | 
 

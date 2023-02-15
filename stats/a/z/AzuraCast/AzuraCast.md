@@ -1,10 +1,10 @@
 # AzuraCast/AzuraCast - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 493
+☋ Forks: 494
 
-★ Stars: 2279
+★ Stars: 2280
 
 [Open repository](https://github.com/AzuraCast/AzuraCast)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2280 | 494 | 
 | 2023-02-13 | 2279 | 493 | 
 | 2023-02-12 | 2278 | 491 | 
 | 2023-02-11 | 2275 | 490 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 2250 | 484 | 
 | 2023-01-18 | 2249 | 484 | 
 | 2023-01-17 | 2246 | 485 | 
-| 2023-01-15 | 2246 | 483 | 
 

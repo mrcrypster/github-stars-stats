@@ -1,10 +1,10 @@
 # gracco/sysadmin-interview-questions - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 334
+★ Stars: 335
 
 [Open repository](https://github.com/gracco/sysadmin-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 335 | 80 | 
 | 2023-02-13 | 334 | 79 | 
 | 2023-02-12 | 332 | 78 | 
 | 2023-02-11 | 332 | 78 | 

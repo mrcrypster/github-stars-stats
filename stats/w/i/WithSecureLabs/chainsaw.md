@@ -1,10 +1,10 @@
 # WithSecureLabs/chainsaw - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 166
 
-★ Stars: 1845
+★ Stars: 1849
 
 [Open repository](https://github.com/WithSecureLabs/chainsaw)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1849 | 166 | 
 | 2023-02-13 | 1845 | 166 | 
 | 2023-02-12 | 1845 | 166 | 
 | 2023-02-11 | 1844 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 1810 | 164 | 
 | 2023-01-17 | 1808 | 164 | 
 | 2023-01-16 | 1804 | 163 | 
-| 2023-01-15 | 1799 | 163 | 
 

@@ -1,8 +1,8 @@
 # foxglove/studio - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 183
+☋ Forks: 186
 
 ★ Stars: 1117
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1117 | 186 | 
 | 2023-02-13 | 1117 | 183 | 
 | 2023-02-11 | 1117 | 184 | 
 | 2023-02-10 | 1117 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1076 | 173 | 
 | 2023-01-17 | 1075 | 172 | 
 | 2023-01-16 | 1074 | 172 | 
-| 2023-01-15 | 1073 | 172 | 
 

@@ -1,6 +1,6 @@
 # takaxp/org-tree-slide - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 366 | 55 | 
 | 2023-02-12 | 366 | 55 | 
 | 2023-02-11 | 365 | 55 | 
 | 2023-02-10 | 365 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 363 | 55 | 
 | 2023-01-17 | 363 | 55 | 
 | 2023-01-16 | 363 | 55 | 
-| 2023-01-15 | 363 | 55 | 
 

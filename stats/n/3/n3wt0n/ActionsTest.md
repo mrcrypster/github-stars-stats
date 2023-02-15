@@ -1,6 +1,6 @@
 # n3wt0n/ActionsTest - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 47 | 87 | 
 | 2023-02-13 | 47 | 87 | 
 | 2023-02-12 | 47 | 87 | 
 | 2023-02-11 | 47 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 45 | 85 | 
 | 2023-01-18 | 45 | 85 | 
 | 2023-01-17 | 45 | 85 | 
-| 2023-01-16 | 45 | 85 | 
 

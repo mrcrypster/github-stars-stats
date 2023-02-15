@@ -1,8 +1,8 @@
 # mandar1jn/portfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3 | 2 | 
 | 2023-02-13 | 3 | 1 | 
 | 2023-02-12 | 3 | 1 | 
 | 2023-02-10 | 3 | 1 | 

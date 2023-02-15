@@ -1,10 +1,10 @@
 # kevin-powell/space-tourism - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 160
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/kevin-powell/space-tourism)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 264 | 160 | 
 | 2023-02-13 | 263 | 160 | 
 | 2023-02-11 | 263 | 158 | 
 | 2023-02-10 | 262 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 261 | 159 | 
 | 2023-01-17 | 261 | 159 | 
 | 2023-01-16 | 261 | 159 | 
-| 2023-01-15 | 260 | 159 | 
 

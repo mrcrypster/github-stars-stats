@@ -1,10 +1,10 @@
 # adrianhajdin/project_web3.0 - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 929
+☋ Forks: 930
 
-★ Stars: 3366
+★ Stars: 3371
 
 [Open repository](https://github.com/adrianhajdin/project_web3.0)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3371 | 930 | 
 | 2023-02-13 | 3366 | 929 | 
 | 2023-02-12 | 3360 | 928 | 
 | 2023-02-10 | 3358 | 927 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 3297 | 894 | 
 | 2023-01-17 | 3290 | 892 | 
 | 2023-01-16 | 3289 | 895 | 
-| 2023-01-15 | 3288 | 893 | 
 

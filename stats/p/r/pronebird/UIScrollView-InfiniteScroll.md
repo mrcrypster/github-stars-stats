@@ -1,6 +1,6 @@
 # pronebird/UIScrollView-InfiniteScroll - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1027 | 151 | 
 | 2023-02-13 | 1027 | 151 | 
 | 2023-02-12 | 1028 | 151 | 
 | 2023-02-11 | 1028 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1021 | 150 | 
 | 2023-01-17 | 1021 | 150 | 
 | 2023-01-16 | 1021 | 150 | 
-| 2023-01-15 | 1022 | 150 | 
 

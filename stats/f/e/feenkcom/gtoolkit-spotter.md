@@ -1,6 +1,6 @@
 # feenkcom/gtoolkit-spotter - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 4 | 2 | 
+| 2023-02-14 | 4 | 2 | 
 | 2023-02-13 | 4 | 2 | 
 | 2023-02-11 | 4 | 2 | 
 | 2023-02-10 | 4 | 2 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2 | 2 | 
 | 2023-01-17 | 2 | 2 | 
 | 2023-01-16 | 2 | 2 | 
-| 2023-01-15 | 2 | 2 | 
 

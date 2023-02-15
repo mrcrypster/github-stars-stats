@@ -1,10 +1,10 @@
 # didi/DoKit - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 2978
+☋ Forks: 2977
 
-★ Stars: 19280
+★ Stars: 19285
 
 [Open repository](https://github.com/didi/DoKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 19285 | 2977 | 
 | 2023-02-13 | 19280 | 2978 | 
 | 2023-02-12 | 19277 | 2976 | 
 | 2023-02-11 | 19279 | 2976 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 19243 | 2963 | 
 | 2023-01-18 | 19242 | 2963 | 
 | 2023-01-17 | 19243 | 2963 | 
-| 2023-01-16 | 19243 | 2963 | 
 

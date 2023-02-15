@@ -1,10 +1,10 @@
 # typescript-cheatsheets/react - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 3566
+☋ Forks: 3569
 
-★ Stars: 39481
+★ Stars: 39491
 
 [Open repository](https://github.com/typescript-cheatsheets/react)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 39491 | 3569 | 
 | 2023-02-13 | 39481 | 3566 | 
 | 2023-02-11 | 39463 | 3566 | 
 | 2023-02-10 | 39455 | 3565 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 39006 | 3506 | 
 | 2023-01-18 | 38988 | 3505 | 
 | 2023-01-17 | 38964 | 3505 | 
-| 2023-01-16 | 38949 | 3504 | 
 

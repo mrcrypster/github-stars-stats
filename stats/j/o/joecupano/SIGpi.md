@@ -1,6 +1,6 @@
 # joecupano/SIGpi - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 80 | 8 | 
 | 2023-02-13 | 80 | 8 | 
 | 2023-02-12 | 80 | 8 | 
 | 2023-02-11 | 80 | 8 | 

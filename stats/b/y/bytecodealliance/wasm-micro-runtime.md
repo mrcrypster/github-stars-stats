@@ -1,10 +1,10 @@
 # bytecodealliance/wasm-micro-runtime - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 444
+☋ Forks: 443
 
-★ Stars: 3483
+★ Stars: 3486
 
 [Open repository](https://github.com/bytecodealliance/wasm-micro-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3486 | 443 | 
 | 2023-02-13 | 3483 | 444 | 
 | 2023-02-12 | 3483 | 443 | 
 | 2023-02-11 | 3481 | 443 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 3418 | 435 | 
 | 2023-01-17 | 3416 | 434 | 
 | 2023-01-16 | 3412 | 435 | 
-| 2023-01-15 | 3411 | 434 | 
 

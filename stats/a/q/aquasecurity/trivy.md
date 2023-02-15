@@ -1,10 +1,10 @@
 # aquasecurity/trivy - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 1574
+☋ Forks: 1573
 
-★ Stars: 16195
+★ Stars: 16210
 
 [Open repository](https://github.com/aquasecurity/trivy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 16210 | 1573 | 
 | 2023-02-13 | 16195 | 1574 | 
 | 2023-02-12 | 16183 | 1574 | 
 | 2023-02-11 | 16153 | 1574 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 15719 | 1521 | 
 | 2023-01-17 | 15693 | 1514 | 
 | 2023-01-16 | 15672 | 1510 | 
-| 2023-01-15 | 15652 | 1508 | 
 

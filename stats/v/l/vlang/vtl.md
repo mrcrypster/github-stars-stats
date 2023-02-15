@@ -1,10 +1,10 @@
 # vlang/vtl - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 16
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/vlang/vtl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 93 | 16 | 
 | 2023-02-13 | 92 | 16 | 
 | 2023-02-12 | 92 | 16 | 
 | 2023-02-11 | 92 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 94 | 16 | 
 | 2023-01-17 | 94 | 16 | 
 | 2023-01-16 | 94 | 16 | 
-| 2023-01-15 | 94 | 16 | 
 

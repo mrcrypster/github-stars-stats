@@ -1,6 +1,6 @@
 # zouzhibin/vue-admin-perfect - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 390 | 76 | 
 | 2023-02-13 | 390 | 76 | 
 | 2023-02-12 | 388 | 76 | 
 | 2023-02-11 | 387 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 369 | 75 | 
 | 2023-01-18 | 368 | 75 | 
 | 2023-01-17 | 366 | 74 | 
-| 2023-01-15 | 366 | 74 | 
 

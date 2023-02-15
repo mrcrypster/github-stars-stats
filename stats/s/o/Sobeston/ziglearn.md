@@ -1,6 +1,6 @@
 # Sobeston/ziglearn - stars & forks statistics
 
-Stats updated on Feb 2023, 12
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 297 | 89 | 
 | 2023-02-12 | 297 | 89 | 
 | 2023-02-11 | 297 | 89 | 
 | 2023-02-10 | 296 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 12
 | 2023-01-18 | 289 | 87 | 
 | 2023-01-17 | 289 | 87 | 
 | 2023-01-16 | 289 | 87 | 
-| 2023-01-15 | 288 | 87 | 
 

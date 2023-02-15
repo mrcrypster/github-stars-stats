@@ -1,10 +1,10 @@
 # codeigniter4/shield - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/codeigniter4/shield)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 209 | 74 | 
 | 2023-02-13 | 208 | 73 | 
 | 2023-02-12 | 206 | 72 | 
 | 2023-02-11 | 205 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 195 | 69 | 
 | 2023-01-17 | 195 | 69 | 
 | 2023-01-16 | 195 | 70 | 
-| 2023-01-15 | 194 | 70 | 
 

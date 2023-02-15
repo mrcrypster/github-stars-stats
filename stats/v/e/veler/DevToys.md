@@ -1,10 +1,10 @@
 # veler/DevToys - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 697
+☋ Forks: 698
 
-★ Stars: 13267
+★ Stars: 13278
 
 [Open repository](https://github.com/veler/DevToys)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 13278 | 698 | 
 | 2023-02-13 | 13267 | 697 | 
 | 2023-02-12 | 13259 | 697 | 
 | 2023-02-11 | 13255 | 696 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 13006 | 681 | 
 | 2023-01-17 | 12978 | 676 | 
 | 2023-01-16 | 12967 | 677 | 
-| 2023-01-15 | 12954 | 677 | 
 

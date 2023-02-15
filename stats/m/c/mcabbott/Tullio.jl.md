@@ -1,6 +1,6 @@
 # mcabbott/Tullio.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 515 | 18 | 
 | 2023-02-13 | 515 | 18 | 
 | 2023-02-12 | 515 | 18 | 
 | 2023-02-11 | 515 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 508 | 16 | 
 | 2023-01-17 | 508 | 16 | 
 | 2023-01-16 | 508 | 16 | 
-| 2023-01-15 | 508 | 16 | 
 

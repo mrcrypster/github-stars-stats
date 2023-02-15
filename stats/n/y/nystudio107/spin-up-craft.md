@@ -1,10 +1,10 @@
 # nystudio107/spin-up-craft - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/nystudio107/spin-up-craft)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 23 | - | 
 | 2023-02-13 | 22 | - | 
 | 2023-02-12 | 22 | - | 
 | 2023-02-11 | 22 | - | 

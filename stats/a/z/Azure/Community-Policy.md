@@ -1,10 +1,10 @@
 # Azure/Community-Policy - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
-☋ Forks: 241
+☋ Forks: 242
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/Azure/Community-Policy)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 401 | 242 | 
+| 2023-02-14 | 401 | 242 | 
 | 2023-02-13 | 400 | 241 | 
 | 2023-02-12 | 400 | 239 | 
 | 2023-02-11 | 399 | 239 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 395 | 233 | 
 | 2023-01-17 | 395 | 231 | 
 | 2023-01-16 | 393 | 231 | 
-| 2023-01-15 | 393 | 231 | 
 

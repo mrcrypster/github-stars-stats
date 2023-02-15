@@ -1,10 +1,10 @@
 # sfvsfv/meisai - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 83
+★ Stars: 85
 
 [Open repository](https://github.com/sfvsfv/meisai)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 85 | 29 | 
 | 2023-02-13 | 83 | 29 | 
 | 2023-02-12 | 83 | 29 | 
 | 2023-02-11 | 83 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 81 | 26 | 
 | 2023-01-17 | 81 | 26 | 
 | 2023-01-16 | 81 | 26 | 
-| 2023-01-15 | 80 | 26 | 
 

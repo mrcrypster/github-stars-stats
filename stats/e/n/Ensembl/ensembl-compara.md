@@ -1,10 +1,10 @@
 # Ensembl/ensembl-compara - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 64
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/Ensembl/ensembl-compara)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 46 | 64 | 
 | 2023-02-13 | 45 | 64 | 
 | 2023-02-12 | 45 | 64 | 
 | 2023-02-11 | 45 | 64 | 

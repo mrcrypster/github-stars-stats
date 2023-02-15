@@ -1,10 +1,10 @@
 # duo001/evil.js - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 565
+☋ Forks: 567
 
-★ Stars: 1321
+★ Stars: 1322
 
 [Open repository](https://github.com/duo001/evil.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1322 | 567 | 
 | 2023-02-13 | 1321 | 565 | 
 | 2023-02-12 | 1316 | 565 | 
 | 2023-02-11 | 1316 | 565 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 1282 | 561 | 
 | 2023-01-18 | 1282 | 561 | 
 | 2023-01-17 | 1282 | 561 | 
-| 2023-01-15 | 1281 | 560 | 
 

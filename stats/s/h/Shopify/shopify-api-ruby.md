@@ -1,6 +1,6 @@
 # Shopify/shopify-api-ruby - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 420
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 934 | 420 | 
 | 2023-02-14 | 934 | 420 | 
 | 2023-02-12 | 934 | 419 | 
 | 2023-02-11 | 934 | 419 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 936 | 413 | 
 | 2023-01-17 | 936 | 411 | 
 | 2023-01-16 | 936 | 411 | 
-| 2023-01-15 | 936 | 411 | 
 

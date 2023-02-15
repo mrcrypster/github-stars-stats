@@ -1,10 +1,10 @@
 # dankrusi/WindowsVirtualDesktopHelper - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/dankrusi/WindowsVirtualDesktopHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 144 | 4 | 
 | 2023-02-13 | 143 | 4 | 
 | 2023-02-12 | 143 | 4 | 
 | 2023-02-11 | 142 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 110 | 4 | 
 | 2023-01-17 | 110 | 4 | 
 | 2023-01-16 | 108 | 4 | 
-| 2023-01-15 | 107 | 4 | 
 

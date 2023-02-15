@@ -1,10 +1,10 @@
 # EmbarkStudios/kajiya - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 133
 
-★ Stars: 3902
+★ Stars: 3904
 
 [Open repository](https://github.com/EmbarkStudios/kajiya)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3904 | 133 | 
 | 2023-02-13 | 3902 | 133 | 
 | 2023-02-12 | 3901 | 133 | 
 | 2023-02-11 | 3900 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 3859 | 126 | 
 | 2023-01-17 | 3859 | 126 | 
 | 2023-01-16 | 3857 | 126 | 
-| 2023-01-15 | 3856 | 125 | 
 

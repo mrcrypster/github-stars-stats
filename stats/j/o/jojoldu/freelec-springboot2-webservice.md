@@ -1,10 +1,10 @@
 # jojoldu/freelec-springboot2-webservice - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 431
+☋ Forks: 432
 
-★ Stars: 960
+★ Stars: 959
 
 [Open repository](https://github.com/jojoldu/freelec-springboot2-webservice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 959 | 432 | 
 | 2023-02-13 | 960 | 431 | 
 | 2023-02-12 | 960 | 432 | 
 | 2023-02-11 | 960 | 432 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 947 | 427 | 
 | 2023-01-17 | 947 | 428 | 
 | 2023-01-16 | 947 | 428 | 
-| 2023-01-15 | 945 | 427 | 
 

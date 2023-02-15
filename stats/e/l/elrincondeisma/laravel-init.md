@@ -1,6 +1,6 @@
 # elrincondeisma/laravel-init - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 7 | 23 | 
 | 2023-02-13 | 7 | 23 | 
 | 2023-02-12 | 7 | 21 | 
 | 2023-02-11 | 7 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6 | 18 | 
 | 2023-01-17 | 6 | 18 | 
 | 2023-01-16 | 6 | 18 | 
-| 2023-01-15 | 6 | 18 | 
 

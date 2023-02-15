@@ -1,10 +1,10 @@
 # petertriho/cmp-git - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 14
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/petertriho/cmp-git)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 229 | 14 | 
 | 2023-02-13 | 228 | 14 | 
 | 2023-02-12 | 227 | 14 | 
 | 2023-02-11 | 227 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 221 | 12 | 
 | 2023-01-17 | 221 | 12 | 
 | 2023-01-16 | 220 | 12 | 
-| 2023-01-15 | 220 | 12 | 
 

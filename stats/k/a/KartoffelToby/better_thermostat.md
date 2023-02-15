@@ -1,10 +1,10 @@
 # KartoffelToby/better_thermostat - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 72
 
-★ Stars: 362
+★ Stars: 364
 
 [Open repository](https://github.com/KartoffelToby/better_thermostat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 364 | 72 | 
 | 2023-02-13 | 362 | 72 | 
 | 2023-02-12 | 357 | 72 | 
 | 2023-02-11 | 356 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 318 | 65 | 
 | 2023-01-17 | 315 | 65 | 
 | 2023-01-16 | 313 | 64 | 
-| 2023-01-15 | 308 | 63 | 
 

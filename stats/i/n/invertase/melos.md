@@ -1,6 +1,6 @@
 # invertase/melos - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 754 | 128 | 
 | 2023-02-13 | 754 | 128 | 
 | 2023-02-12 | 752 | 128 | 
 | 2023-02-11 | 751 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 730 | 128 | 
 | 2023-01-17 | 728 | 128 | 
 | 2023-01-16 | 727 | 128 | 
-| 2023-01-15 | 725 | 128 | 
 

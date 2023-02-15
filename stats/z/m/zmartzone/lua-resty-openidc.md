@@ -1,6 +1,6 @@
 # zmartzone/lua-resty-openidc - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 817 | 228 | 
 | 2023-02-14 | 817 | 228 | 
 | 2023-02-12 | 817 | 228 | 
 | 2023-02-11 | 817 | 227 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 803 | 220 | 
 | 2023-01-17 | 803 | 220 | 
 | 2023-01-16 | 803 | 220 | 
-| 2023-01-15 | 802 | 220 | 
 

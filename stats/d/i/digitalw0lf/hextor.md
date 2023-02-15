@@ -1,6 +1,6 @@
 # digitalw0lf/hextor - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 53 | 7 | 
 | 2023-02-13 | 53 | 7 | 
 | 2023-02-12 | 53 | 7 | 
 | 2023-02-11 | 53 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 52 | 7 | 
 | 2023-01-17 | 52 | 7 | 
 | 2023-01-16 | 51 | 7 | 
-| 2023-01-15 | 51 | 7 | 
 

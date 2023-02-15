@@ -1,10 +1,10 @@
 # walkor/workerman - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 2240
 
-★ Stars: 10293
+★ Stars: 10295
 
 [Open repository](https://github.com/walkor/workerman)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 10295 | 2240 | 
 | 2023-02-13 | 10293 | 2240 | 
 | 2023-02-12 | 10292 | 2240 | 
 | 2023-02-10 | 10290 | 2239 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 10262 | 2235 | 
 | 2023-01-17 | 10260 | 2235 | 
 | 2023-01-16 | 10259 | 2235 | 
-| 2023-01-15 | 10256 | 2235 | 
 

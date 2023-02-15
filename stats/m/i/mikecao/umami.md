@@ -1,10 +1,10 @@
 # mikecao/umami - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 2381
+☋ Forks: 2386
 
-★ Stars: 14559
+★ Stars: 14569
 
 [Open repository](https://github.com/mikecao/umami)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 14569 | 2386 | 
 | 2023-02-13 | 14559 | 2381 | 
 | 2023-02-12 | 14545 | 2374 | 
 | 2023-02-11 | 14529 | 2368 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 14245 | 2285 | 
 | 2023-01-18 | 14233 | 2280 | 
 | 2023-01-17 | 14221 | 2278 | 
-| 2023-01-16 | 14205 | 2276 | 
 

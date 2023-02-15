@@ -1,6 +1,6 @@
 # Terry-Mao/goim - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1723
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6731 | 1723 | 
 | 2023-02-13 | 6731 | 1723 | 
 | 2023-02-12 | 6728 | 1723 | 
 | 2023-02-11 | 6728 | 1723 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 6707 | 1720 | 
 | 2023-01-17 | 6706 | 1719 | 
 | 2023-01-16 | 6703 | 1719 | 
-| 2023-01-15 | 6703 | 1719 | 
 

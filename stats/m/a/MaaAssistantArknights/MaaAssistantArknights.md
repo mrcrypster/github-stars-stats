@@ -1,10 +1,10 @@
 # MaaAssistantArknights/MaaAssistantArknights - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 790
+☋ Forks: 794
 
-★ Stars: 6323
+★ Stars: 6337
 
 [Open repository](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 6337 | 794 | 
 | 2023-02-13 | 6323 | 790 | 
 | 2023-02-12 | 6305 | 787 | 
 | 2023-02-11 | 6280 | 782 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 5650 | 694 | 
 | 2023-01-17 | 5630 | 691 | 
 | 2023-01-16 | 5611 | 684 | 
-| 2023-01-15 | 5593 | 679 | 
 

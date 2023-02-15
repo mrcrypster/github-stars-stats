@@ -1,6 +1,6 @@
 # maykbrito/nlw-10-copa - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 44 | 161 | 
 | 2023-02-13 | 44 | 161 | 
 | 2023-02-12 | 44 | 160 | 
 | 2023-02-10 | 44 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 43 | 150 | 
 | 2023-01-17 | 43 | 150 | 
 | 2023-01-16 | 43 | 149 | 
-| 2023-01-15 | 43 | 149 | 
 

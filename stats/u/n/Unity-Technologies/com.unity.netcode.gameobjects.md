@@ -1,10 +1,10 @@
 # Unity-Technologies/com.unity.netcode.gameobjects - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 368
+☋ Forks: 370
 
-★ Stars: 1792
+★ Stars: 1793
 
 [Open repository](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1793 | 370 | 
 | 2023-02-13 | 1792 | 368 | 
 | 2023-02-12 | 1792 | 368 | 
 | 2023-02-11 | 1792 | 368 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 1773 | 365 | 
 | 2023-01-17 | 1773 | 365 | 
 | 2023-01-16 | 1774 | 365 | 
-| 2023-01-15 | 1773 | 365 | 
 

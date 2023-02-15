@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 14
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 29
+★ Stars: 34
 
 [Open repository](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 29 | 13 | 
+| 2023-02-14 | 34 | 14 | 
 | 2023-02-13 | 28 | 13 | 
 

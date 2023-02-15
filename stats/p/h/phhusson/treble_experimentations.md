@@ -1,6 +1,6 @@
 # phhusson/treble_experimentations - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 620
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2761 | 620 | 
 | 2023-02-13 | 2761 | 620 | 
 | 2023-02-12 | 2760 | 620 | 
 | 2023-02-11 | 2759 | 620 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2711 | 614 | 
 | 2023-01-17 | 2709 | 613 | 
 | 2023-01-16 | 2706 | 613 | 
-| 2023-01-15 | 2705 | 613 | 
 

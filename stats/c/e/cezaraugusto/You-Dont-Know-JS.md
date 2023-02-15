@@ -1,10 +1,10 @@
 # cezaraugusto/You-Dont-Know-JS - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 841
+☋ Forks: 843
 
-★ Stars: 4906
+★ Stars: 4918
 
 [Open repository](https://github.com/cezaraugusto/You-Dont-Know-JS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 4918 | 843 | 
 | 2023-02-13 | 4906 | 841 | 
 | 2023-02-12 | 4894 | 840 | 
 | 2023-02-11 | 4893 | 839 | 

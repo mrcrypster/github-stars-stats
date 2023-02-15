@@ -1,10 +1,10 @@
 # misu2022/contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 49
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/misu2022/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 56 | 49 | 
 | 2023-02-13 | 55 | 49 | 
 | 2023-02-12 | 55 | 49 | 
 | 2023-02-11 | 55 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 53 | 49 | 
 | 2023-01-18 | 53 | 49 | 
 | 2023-01-17 | 53 | 49 | 
-| 2023-01-15 | 53 | 49 | 
 

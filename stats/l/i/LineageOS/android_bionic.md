@@ -1,10 +1,10 @@
 # LineageOS/android_bionic - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 150
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/LineageOS/android_bionic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 22 | 150 | 
 | 2023-02-13 | 21 | 150 | 
 | 2023-02-12 | 21 | 151 | 
 | 2023-02-11 | 21 | 151 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 20 | 149 | 
 | 2023-01-17 | 20 | 149 | 
 | 2023-01-16 | 20 | 150 | 
-| 2023-01-15 | 20 | 150 | 
 

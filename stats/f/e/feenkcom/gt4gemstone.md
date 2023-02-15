@@ -1,6 +1,6 @@
 # feenkcom/gt4gemstone - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 7 | 2 | 
+| 2023-02-14 | 7 | 2 | 
 | 2023-02-13 | 7 | 2 | 
 | 2023-02-11 | 7 | 2 | 
 | 2023-02-10 | 7 | 2 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 5 | 2 | 
 | 2023-01-17 | 5 | 2 | 
 | 2023-01-16 | 5 | 2 | 
-| 2023-01-15 | 5 | 2 | 
 

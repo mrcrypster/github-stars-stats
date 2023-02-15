@@ -1,10 +1,10 @@
 # PhilJay/MPAndroidChart - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 8887
+☋ Forks: 8889
 
-★ Stars: 36112
+★ Stars: 36116
 
 [Open repository](https://github.com/PhilJay/MPAndroidChart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 36116 | 8889 | 
 | 2023-02-13 | 36112 | 8887 | 
 | 2023-02-11 | 36110 | 8887 | 
 | 2023-02-10 | 36109 | 8886 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 14
 
-☋ Forks: 46
+☋ Forks: 48
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/ITZ-ZAID/Railway)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-14 | 3 | 46 | 
+| 2023-02-14 | 4 | 48 | 
 | 2023-02-13 | 3 | 46 | 
 | 2023-02-12 | 3 | 39 | 
 | 2023-02-11 | 3 | 39 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-18 | 2 | 15 | 
 | 2023-01-17 | 2 | 11 | 
 | 2023-01-16 | 2 | 11 | 
-| 2023-01-15 | 2 | 11 | 
 

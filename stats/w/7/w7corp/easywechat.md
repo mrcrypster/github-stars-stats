@@ -1,10 +1,10 @@
 # w7corp/easywechat - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 2428
 
-★ Stars: 9964
+★ Stars: 9966
 
 [Open repository](https://github.com/w7corp/easywechat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 9966 | 2428 | 
 | 2023-02-13 | 9964 | 2428 | 
 | 2023-02-12 | 9964 | 2428 | 
 | 2023-02-11 | 9962 | 2428 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 9955 | 2425 | 
 | 2023-01-17 | 9955 | 2425 | 
 | 2023-01-16 | 9954 | 2426 | 
-| 2023-01-15 | 9953 | 2426 | 
 

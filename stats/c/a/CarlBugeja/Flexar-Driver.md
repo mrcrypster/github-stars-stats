@@ -1,6 +1,6 @@
 # CarlBugeja/Flexar-Driver - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 20 | 5 | 
 | 2023-02-13 | 20 | 5 | 
 | 2023-02-12 | 20 | 5 | 
 | 2023-02-10 | 20 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 18 | 5 | 
 | 2023-01-17 | 17 | 5 | 
 | 2023-01-16 | 17 | 5 | 
-| 2023-01-15 | 17 | 5 | 
 

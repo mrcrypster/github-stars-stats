@@ -1,10 +1,10 @@
 # DuGuQiuBai/Java - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 4607
+☋ Forks: 4609
 
-★ Stars: 10730
+★ Stars: 10735
 
 [Open repository](https://github.com/DuGuQiuBai/Java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 10735 | 4609 | 
 | 2023-02-13 | 10730 | 4607 | 
 | 2023-02-12 | 10729 | 4607 | 
 | 2023-02-10 | 10728 | 4606 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 10664 | 4586 | 
 | 2023-01-18 | 10661 | 4581 | 
 | 2023-01-17 | 10661 | 4580 | 
-| 2023-01-16 | 10660 | 4579 | 
 

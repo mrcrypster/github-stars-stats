@@ -1,10 +1,10 @@
 # atmoz/sftp - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 711
 
-★ Stars: 1290
+★ Stars: 1291
 
 [Open repository](https://github.com/atmoz/sftp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1291 | 711 | 
 | 2023-02-13 | 1290 | 711 | 
 | 2023-02-12 | 1291 | 710 | 
 | 2023-02-11 | 1291 | 710 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1276 | 708 | 
 | 2023-01-17 | 1275 | 706 | 
 | 2023-01-16 | 1275 | 706 | 
-| 2023-01-15 | 1274 | 706 | 
 

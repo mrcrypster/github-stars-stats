@@ -1,10 +1,10 @@
 # google/cdc-file-transfer - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 2684
+★ Stars: 2686
 
 [Open repository](https://github.com/google/cdc-file-transfer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2686 | 70 | 
 | 2023-02-13 | 2684 | 69 | 
 | 2023-02-12 | 2684 | 69 | 
 | 2023-02-11 | 2683 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2574 | 65 | 
 | 2023-01-17 | 2555 | 65 | 
 | 2023-01-16 | 2528 | 62 | 
-| 2023-01-15 | 2483 | 61 | 
 

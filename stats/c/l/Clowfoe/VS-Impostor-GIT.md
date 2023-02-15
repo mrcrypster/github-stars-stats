@@ -1,10 +1,10 @@
 # Clowfoe/VS-Impostor-GIT - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/Clowfoe/VS-Impostor-GIT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 11 | 8 | 
 | 2023-02-13 | 10 | 8 | 
 | 2023-02-12 | 10 | 8 | 
 | 2023-02-11 | 10 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 9 | 7 | 
 | 2023-01-17 | 9 | 7 | 
 | 2023-01-16 | 9 | 7 | 
-| 2023-01-15 | 9 | 7 | 
 

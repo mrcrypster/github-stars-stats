@@ -1,6 +1,6 @@
 # Datomic/dev.datafy - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 13 | 1 | 
 | 2023-02-13 | 13 | 1 | 
 | 2023-02-12 | 13 | 1 | 
 | 2023-02-11 | 13 | 1 | 

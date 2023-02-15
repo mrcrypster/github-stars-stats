@@ -1,6 +1,6 @@
 # wibus-wee/chatgpt-bing-extension - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 8 | 1 | 
 | 2023-02-13 | 8 | 1 | 
 | 2023-02-12 | 8 | 1 | 
 | 2023-02-11 | 8 | 1 | 

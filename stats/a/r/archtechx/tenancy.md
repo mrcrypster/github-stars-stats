@@ -1,10 +1,10 @@
 # archtechx/tenancy - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 324
 
-★ Stars: 2794
+★ Stars: 2798
 
 [Open repository](https://github.com/archtechx/tenancy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2798 | 324 | 
 | 2023-02-13 | 2794 | 324 | 
 | 2023-02-12 | 2792 | 324 | 
 | 2023-02-11 | 2790 | 324 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 2754 | 316 | 
 | 2023-01-17 | 2754 | 316 | 
 | 2023-01-16 | 2754 | 316 | 
-| 2023-01-15 | 2752 | 316 | 
 

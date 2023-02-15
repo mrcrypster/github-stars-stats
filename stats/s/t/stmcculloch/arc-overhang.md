@@ -1,10 +1,10 @@
 # stmcculloch/arc-overhang - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 33
 
-★ Stars: 272
+★ Stars: 274
 
 [Open repository](https://github.com/stmcculloch/arc-overhang)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 274 | 33 | 
 | 2023-02-13 | 272 | 33 | 
 | 2023-02-12 | 272 | 33 | 
 | 2023-02-11 | 272 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 260 | 30 | 
 | 2023-01-17 | 260 | 30 | 
 | 2023-01-16 | 260 | 30 | 
-| 2023-01-15 | 257 | 30 | 
 

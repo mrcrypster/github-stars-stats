@@ -1,10 +1,10 @@
 # sylar-yin/sylar - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 733
+☋ Forks: 735
 
-★ Stars: 2467
+★ Stars: 2472
 
 [Open repository](https://github.com/sylar-yin/sylar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2472 | 735 | 
 | 2023-02-13 | 2467 | 733 | 
 | 2023-02-12 | 2459 | 733 | 
 | 2023-02-11 | 2456 | 732 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2414 | 723 | 
 | 2023-01-17 | 2415 | 723 | 
 | 2023-01-16 | 2412 | 722 | 
-| 2023-01-15 | 2407 | 721 | 
 

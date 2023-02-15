@@ -1,8 +1,8 @@
 # google/tf-quant-finance - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 483
+☋ Forks: 484
 
 ★ Stars: 3637
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 3637 | 484 | 
 | 2023-02-13 | 3637 | 483 | 
 | 2023-02-12 | 3633 | 482 | 
 | 2023-02-11 | 3630 | 483 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 3601 | 480 | 
 | 2023-01-18 | 3599 | 480 | 
 | 2023-01-16 | 3597 | 480 | 
-| 2023-01-15 | 3593 | 480 | 
 

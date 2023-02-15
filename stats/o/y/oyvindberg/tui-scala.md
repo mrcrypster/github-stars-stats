@@ -1,6 +1,6 @@
 # oyvindberg/tui-scala - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 69 | 2 | 
 | 2023-02-13 | 69 | 2 | 
 | 2023-02-12 | 68 | 2 | 
 | 2023-02-11 | 68 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 63 | 1 | 
 | 2023-01-17 | 63 | 1 | 
 | 2023-01-16 | 63 | 1 | 
-| 2023-01-15 | 63 | 1 | 
 

@@ -1,10 +1,10 @@
 # aasm/aasm - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 620
 
-★ Stars: 4705
+★ Stars: 4706
 
 [Open repository](https://github.com/aasm/aasm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 4706 | 620 | 
 | 2023-02-13 | 4705 | 620 | 
 | 2023-02-12 | 4706 | 620 | 
 | 2023-02-11 | 4706 | 620 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 4690 | 617 | 
 | 2023-01-17 | 4688 | 617 | 
 | 2023-01-16 | 4687 | 617 | 
-| 2023-01-15 | 4686 | 617 | 
 

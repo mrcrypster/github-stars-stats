@@ -1,10 +1,10 @@
 # molenzwiebel/Deceive - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 141
 
-★ Stars: 709
+★ Stars: 711
 
 [Open repository](https://github.com/molenzwiebel/Deceive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 711 | 141 | 
 | 2023-02-13 | 709 | 141 | 
 | 2023-02-11 | 709 | 141 | 
 | 2023-02-10 | 709 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 695 | 139 | 
 | 2023-01-17 | 695 | 139 | 
 | 2023-01-16 | 694 | 139 | 
-| 2023-01-15 | 692 | 139 | 
 

@@ -1,10 +1,10 @@
 # CommunityToolkit/WindowsCommunityToolkit - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1329
 
-★ Stars: 5321
+★ Stars: 5324
 
 [Open repository](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 5324 | 1329 | 
 | 2023-02-13 | 5321 | 1329 | 
 | 2023-02-12 | 5321 | 1328 | 
 | 2023-02-11 | 5320 | 1327 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 5289 | 1318 | 
 | 2023-01-17 | 5286 | 1318 | 
 | 2023-01-16 | 5284 | 1317 | 
-| 2023-01-15 | 5284 | 1317 | 
 

@@ -1,10 +1,10 @@
 # o0HalfLife0o/list - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 73
 
-★ Stars: 418
+★ Stars: 417
 
 [Open repository](https://github.com/o0HalfLife0o/list)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 417 | 73 | 
 | 2023-02-13 | 418 | 73 | 
 | 2023-02-12 | 421 | 72 | 
 | 2023-02-11 | 419 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 407 | 73 | 
 | 2023-01-17 | 407 | 73 | 
 | 2023-01-16 | 407 | 73 | 
-| 2023-01-15 | 407 | 73 | 
 

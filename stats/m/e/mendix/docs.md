@@ -1,6 +1,6 @@
 # mendix/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 604
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 103 | 604 | 
 | 2023-02-13 | 103 | 604 | 
 | 2023-02-12 | 102 | 605 | 
 | 2023-02-11 | 102 | 606 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 102 | 602 | 
 | 2023-01-17 | 102 | 601 | 
 | 2023-01-16 | 102 | 601 | 
-| 2023-01-15 | 102 | 601 | 
 

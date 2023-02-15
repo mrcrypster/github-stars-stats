@@ -1,6 +1,6 @@
 # myarist/DQLab - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 49 | 74 | 
 | 2023-02-13 | 49 | 74 | 
 | 2023-02-12 | 49 | 73 | 
 | 2023-02-11 | 49 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 48 | 70 | 
 | 2023-01-18 | 48 | 70 | 
 | 2023-01-16 | 48 | 70 | 
-| 2023-01-15 | 48 | 68 | 
 

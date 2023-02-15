@@ -1,8 +1,8 @@
 # declare-lab/multimodal-deep-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 107
+☋ Forks: 108
 
 ★ Stars: 416
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 416 | 108 | 
 | 2023-02-13 | 416 | 107 | 
 | 2023-02-12 | 416 | 107 | 
 | 2023-02-11 | 414 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 408 | 105 | 
 | 2023-01-17 | 407 | 105 | 
 | 2023-01-16 | 407 | 105 | 
-| 2023-01-15 | 405 | 105 | 
 

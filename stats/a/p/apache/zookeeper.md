@@ -1,10 +1,10 @@
 # apache/zookeeper - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 6897
 
-★ Stars: 11053
+★ Stars: 11057
 
 [Open repository](https://github.com/apache/zookeeper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 11057 | 6897 | 
 | 2023-02-13 | 11053 | 6897 | 
 | 2023-02-11 | 11050 | 6898 | 
 | 2023-02-10 | 11048 | 6898 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 11013 | 6886 | 
 | 2023-01-17 | 11012 | 6886 | 
 | 2023-01-16 | 11009 | 6886 | 
-| 2023-01-15 | 11008 | 6887 | 
 

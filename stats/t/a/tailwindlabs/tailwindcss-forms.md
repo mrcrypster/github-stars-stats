@@ -1,10 +1,10 @@
 # tailwindlabs/tailwindcss-forms - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 168
 
-★ Stars: 2928
+★ Stars: 2927
 
 [Open repository](https://github.com/tailwindlabs/tailwindcss-forms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2927 | 168 | 
 | 2023-02-13 | 2928 | 168 | 
 | 2023-02-12 | 2925 | 166 | 
 | 2023-02-11 | 2923 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2864 | 162 | 
 | 2023-01-17 | 2860 | 162 | 
 | 2023-01-16 | 2860 | 162 | 
-| 2023-01-15 | 2854 | 161 | 
 

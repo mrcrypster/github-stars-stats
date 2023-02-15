@@ -1,10 +1,10 @@
 # roman01la/threegn - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 11
 
-★ Stars: 187
+★ Stars: 196
 
 [Open repository](https://github.com/roman01la/threegn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 196 | 11 | 
 | 2023-02-13 | 187 | 11 | 
 | 2023-02-12 | 178 | 11 | 
 | 2023-02-11 | 176 | 9 | 

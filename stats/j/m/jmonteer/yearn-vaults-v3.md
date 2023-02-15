@@ -1,6 +1,6 @@
 # jmonteer/yearn-vaults-v3 - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 28 | 13 | 
 | 2023-02-13 | 28 | 13 | 
 | 2023-02-12 | 28 | 13 | 
 | 2023-02-11 | 28 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 25 | 9 | 
 | 2023-01-17 | 25 | 9 | 
 | 2023-01-16 | 25 | 9 | 
-| 2023-01-15 | 25 | 9 | 
 

@@ -1,6 +1,6 @@
 # cardano-foundation/CIPs - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 387 | 204 | 
 | 2023-02-13 | 387 | 204 | 
 | 2023-02-12 | 386 | 204 | 
 | 2023-02-11 | 386 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 381 | 199 | 
 | 2023-01-17 | 380 | 199 | 
 | 2023-01-16 | 379 | 198 | 
-| 2023-01-15 | 379 | 198 | 
 

@@ -1,10 +1,10 @@
 # Anugrahsr/Awesome-web3-Security - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 99
 
-★ Stars: 789
+★ Stars: 793
 
 [Open repository](https://github.com/Anugrahsr/Awesome-web3-Security)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 793 | 99 | 
 | 2023-02-13 | 789 | 99 | 
 | 2023-02-12 | 788 | 97 | 
 | 2023-02-11 | 789 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-19 | 756 | 94 | 
 | 2023-01-17 | 754 | 93 | 
 | 2023-01-16 | 752 | 93 | 
-| 2023-01-15 | 751 | 93 | 
 

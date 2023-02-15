@@ -1,6 +1,6 @@
 # pascaliske/infrastructure - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 11 | 2 | 
 | 2023-02-13 | 11 | 2 | 
 | 2023-02-12 | 11 | 2 | 
 | 2023-02-10 | 11 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 11 | 2 | 
 | 2023-01-17 | 9 | 2 | 
 | 2023-01-16 | 9 | 2 | 
-| 2023-01-15 | 9 | 2 | 
 

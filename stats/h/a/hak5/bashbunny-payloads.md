@@ -1,10 +1,10 @@
 # hak5/bashbunny-payloads - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1394
 
-★ Stars: 2249
+★ Stars: 2251
 
 [Open repository](https://github.com/hak5/bashbunny-payloads)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 2251 | 1394 | 
 | 2023-02-13 | 2249 | 1394 | 
 | 2023-02-12 | 2249 | 1395 | 
 | 2023-02-11 | 2247 | 1394 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 2235 | 1384 | 
 | 2023-01-17 | 2235 | 1383 | 
 | 2023-01-16 | 2233 | 1383 | 
-| 2023-01-15 | 2232 | 1382 | 
 

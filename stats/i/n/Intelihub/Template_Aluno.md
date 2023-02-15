@@ -1,8 +1,8 @@
 # Intelihub/Template_Aluno - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
-☋ Forks: 144
+☋ Forks: 143
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 1 | 143 | 
 | 2023-02-13 | 1 | 144 | 
 | 2023-02-12 | 1 | 144 | 
 | 2023-02-11 | 1 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 1 | 146 | 
 | 2023-01-17 | 1 | 146 | 
 | 2023-01-16 | 1 | 146 | 
-| 2023-01-15 | 1 | 146 | 
 

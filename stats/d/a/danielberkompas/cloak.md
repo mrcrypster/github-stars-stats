@@ -1,10 +1,10 @@
 # danielberkompas/cloak - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 54
 
-★ Stars: 510
+★ Stars: 511
 
 [Open repository](https://github.com/danielberkompas/cloak)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 511 | 54 | 
 | 2023-02-13 | 510 | 54 | 
 | 2023-02-12 | 510 | 53 | 
 | 2023-02-11 | 510 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 511 | 53 | 
 | 2023-01-17 | 511 | 53 | 
 | 2023-01-16 | 511 | 53 | 
-| 2023-01-15 | 511 | 53 | 
 

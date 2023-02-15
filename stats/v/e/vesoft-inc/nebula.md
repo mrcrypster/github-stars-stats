@@ -1,10 +1,10 @@
 # vesoft-inc/nebula - stars & forks statistics
 
-Stats updated on Feb 2023, 13
+Stats updated on Feb 2023, 14
 
 ☋ Forks: 1009
 
-★ Stars: 8590
+★ Stars: 8594
 
 [Open repository](https://github.com/vesoft-inc/nebula)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-14 | 8594 | 1009 | 
 | 2023-02-13 | 8590 | 1009 | 
 | 2023-02-12 | 8589 | 1009 | 
 | 2023-02-10 | 8585 | 1009 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 13
 | 2023-01-18 | 8474 | 957 | 
 | 2023-01-17 | 8469 | 955 | 
 | 2023-01-16 | 8463 | 955 | 
-| 2023-01-15 | 8459 | 954 | 
 
