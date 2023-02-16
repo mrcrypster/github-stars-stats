@@ -1,10 +1,10 @@
 # jerrykuku/luci-app-vssr - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 734
+☋ Forks: 735
 
-★ Stars: 2126
+★ Stars: 2129
 
 [Open repository](https://github.com/jerrykuku/luci-app-vssr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2129 | 735 | 
 | 2023-02-14 | 2126 | 734 | 
 | 2023-02-13 | 2127 | 734 | 
 | 2023-02-12 | 2128 | 734 | 

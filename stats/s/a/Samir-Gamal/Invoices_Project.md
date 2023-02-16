@@ -1,6 +1,6 @@
 # Samir-Gamal/Invoices_Project - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 64 | 81 | 
 | 2023-02-14 | 64 | 81 | 
 | 2023-02-13 | 64 | 81 | 
 | 2023-02-12 | 64 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 64 | 77 | 
 | 2023-01-18 | 64 | 77 | 
 | 2023-01-17 | 64 | 77 | 
-| 2023-01-16 | 64 | 78 | 
 

@@ -1,6 +1,6 @@
 # kellerkinderDE/devenv-shopware - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 27 | 3 | 
 | 2023-02-14 | 27 | 3 | 
 | 2023-02-13 | 25 | 3 | 
 | 2023-02-12 | 25 | 3 | 

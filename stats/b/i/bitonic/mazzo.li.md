@@ -1,10 +1,10 @@
 # bitonic/mazzo.li - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/bitonic/mazzo.li)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 17 | 4 | 
 | 2023-02-14 | 16 | 4 | 
 | 2023-02-13 | 16 | 4 | 
 | 2023-02-12 | 16 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 16 | 4 | 
 | 2023-01-19 | 16 | 4 | 
 | 2023-01-17 | 16 | 4 | 
-| 2023-01-16 | 16 | 4 | 
 

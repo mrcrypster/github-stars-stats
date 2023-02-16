@@ -1,10 +1,10 @@
 # LuckyPray/XAutoDaily - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 12
 
-★ Stars: 321
+★ Stars: 322
 
 [Open repository](https://github.com/LuckyPray/XAutoDaily)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 322 | 12 | 
 | 2023-02-15 | 321 | 12 | 
 | 2023-02-14 | 322 | 12 | 
 | 2023-02-12 | 321 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 297 | 10 | 
 | 2023-01-18 | 297 | 10 | 
 | 2023-01-17 | 297 | 10 | 
-| 2023-01-16 | 298 | 10 | 
 

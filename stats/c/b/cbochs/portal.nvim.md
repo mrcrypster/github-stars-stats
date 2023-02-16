@@ -1,10 +1,10 @@
 # cbochs/portal.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 122
+★ Stars: 121
 
 [Open repository](https://github.com/cbochs/portal.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 121 | 3 | 
 | 2023-02-14 | 122 | 3 | 
 | 2023-02-13 | 121 | 3 | 
 | 2023-02-12 | 120 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 117 | 3 | 
 | 2023-01-18 | 117 | 3 | 
 | 2023-01-17 | 116 | 3 | 
-| 2023-01-16 | 116 | 3 | 
 

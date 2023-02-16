@@ -1,10 +1,10 @@
 # DmitrySychev/docker-rails7-esbuild-tailwind-pgsql - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/DmitrySychev/docker-rails7-esbuild-tailwind-pgsql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 22 | 2 | 
 | 2023-02-14 | 21 | 2 | 
 | 2023-02-13 | 21 | 1 | 
 | 2023-02-12 | 21 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 21 | 1 | 
 | 2023-01-19 | 21 | 1 | 
 | 2023-01-18 | 21 | 1 | 
-| 2023-01-17 | 21 | 1 | 
 

@@ -1,6 +1,6 @@
 # chevdor/subwasm - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 53 | 17 | 
 | 2023-02-14 | 53 | 17 | 
 | 2023-02-13 | 53 | 17 | 
 | 2023-02-12 | 53 | 17 | 

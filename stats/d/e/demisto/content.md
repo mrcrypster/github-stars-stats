@@ -1,10 +1,10 @@
 # demisto/content - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1277
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/demisto/content)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 906 | 1277 | 
 | 2023-02-14 | 905 | 1277 | 
 | 2023-02-13 | 905 | 1276 | 
 | 2023-02-12 | 905 | 1276 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 893 | 1251 | 
 | 2023-01-18 | 893 | 1248 | 
 | 2023-01-17 | 893 | 1246 | 
-| 2023-01-16 | 893 | 1245 | 
 

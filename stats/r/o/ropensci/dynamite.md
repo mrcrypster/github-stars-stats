@@ -1,10 +1,10 @@
 # ropensci/dynamite - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ropensci/dynamite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 17 | 1 | 
 | 2023-02-14 | 16 | 1 | 
 | 2023-02-13 | 16 | 1 | 
 | 2023-02-12 | 15 | 1 | 

@@ -1,10 +1,10 @@
 # jashkenas/coffeescript - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2032
 
-★ Stars: 16309
+★ Stars: 16310
 
 [Open repository](https://github.com/jashkenas/coffeescript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 16310 | 2032 | 
 | 2023-02-14 | 16309 | 2032 | 
 | 2023-02-13 | 16309 | 2032 | 
 | 2023-02-12 | 16307 | 2032 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 16286 | 2032 | 
 | 2023-01-18 | 16285 | 2031 | 
 | 2023-01-17 | 16284 | 2031 | 
-| 2023-01-16 | 16284 | 2031 | 
 

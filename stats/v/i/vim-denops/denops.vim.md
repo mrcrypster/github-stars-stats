@@ -1,10 +1,10 @@
 # vim-denops/denops.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 503
+★ Stars: 504
 
 [Open repository](https://github.com/vim-denops/denops.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 504 | 25 | 
 | 2023-02-14 | 503 | 24 | 
 | 2023-02-13 | 503 | 24 | 
 | 2023-02-12 | 503 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 496 | 24 | 
 | 2023-01-18 | 496 | 24 | 
 | 2023-01-17 | 496 | 24 | 
-| 2023-01-16 | 496 | 24 | 
 

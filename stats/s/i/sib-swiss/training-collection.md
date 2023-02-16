@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 15
 
-☋ Forks: 142
+☋ Forks: 144
 
-★ Stars: 739
+★ Stars: 740
 
 [Open repository](https://github.com/sib-swiss/training-collection)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-15 | 739 | 142 | 
+| 2023-02-15 | 740 | 144 | 
 | 2023-02-14 | 739 | 142 | 
 | 2023-02-12 | 717 | 140 | 
 | 2023-02-11 | 714 | 140 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 693 | 134 | 
 | 2023-01-18 | 693 | 134 | 
 | 2023-01-17 | 692 | 134 | 
-| 2023-01-16 | 691 | 132 | 
 

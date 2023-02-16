@@ -1,6 +1,6 @@
 # ziglang/sublime-zig-language - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 56 | 20 | 
 | 2023-02-14 | 56 | 20 | 
 | 2023-02-13 | 56 | 20 | 
 | 2023-02-12 | 56 | 20 | 

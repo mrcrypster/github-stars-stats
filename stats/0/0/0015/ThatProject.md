@@ -1,10 +1,10 @@
 # 0015/ThatProject - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 733
+☋ Forks: 734
 
-★ Stars: 1200
+★ Stars: 1202
 
 [Open repository](https://github.com/0015/ThatProject)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1202 | 734 | 
 | 2023-02-14 | 1200 | 733 | 
 | 2023-02-13 | 1199 | 733 | 
 | 2023-02-12 | 1197 | 732 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1158 | 715 | 
 | 2023-01-18 | 1158 | 714 | 
 | 2023-01-17 | 1157 | 714 | 
-| 2023-01-16 | 1153 | 713 | 
 

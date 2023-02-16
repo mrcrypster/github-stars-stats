@@ -1,10 +1,10 @@
 # PRBonn/kiss-icp - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 48
 
-★ Stars: 570
+★ Stars: 571
 
 [Open repository](https://github.com/PRBonn/kiss-icp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 571 | 48 | 
 | 2023-02-14 | 570 | 48 | 
 | 2023-02-13 | 567 | 48 | 
 | 2023-02-12 | 559 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 450 | 33 | 
 | 2023-01-18 | 448 | 32 | 
 | 2023-01-17 | 445 | 32 | 
-| 2023-01-16 | 440 | 27 | 
 

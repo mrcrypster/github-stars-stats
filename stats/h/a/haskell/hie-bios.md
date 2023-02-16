@@ -1,10 +1,10 @@
 # haskell/hie-bios - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 57
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/haskell/hie-bios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 163 | 57 | 
 | 2023-02-14 | 162 | 57 | 
 | 2023-02-13 | 162 | 58 | 
 | 2023-02-12 | 161 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 160 | 59 | 
 | 2023-01-18 | 160 | 59 | 
 | 2023-01-17 | 160 | 59 | 
-| 2023-01-16 | 160 | 59 | 
 

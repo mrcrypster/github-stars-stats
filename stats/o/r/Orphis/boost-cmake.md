@@ -1,8 +1,8 @@
 # Orphis/boost-cmake - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 130
+☋ Forks: 131
 
 ★ Stars: 374
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 374 | 131 | 
 | 2023-02-14 | 374 | 130 | 
 | 2023-02-13 | 374 | 130 | 
 | 2023-02-12 | 374 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 374 | 129 | 
 | 2023-01-18 | 374 | 129 | 
 | 2023-01-17 | 374 | 129 | 
-| 2023-01-16 | 373 | 129 | 
 

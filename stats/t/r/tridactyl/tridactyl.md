@@ -1,10 +1,10 @@
 # tridactyl/tridactyl - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 371
 
-★ Stars: 4220
+★ Stars: 4223
 
 [Open repository](https://github.com/tridactyl/tridactyl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4223 | 371 | 
 | 2023-02-14 | 4220 | 371 | 
 | 2023-02-13 | 4219 | 371 | 
 | 2023-02-12 | 4217 | 371 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 4176 | 369 | 
 | 2023-01-18 | 4173 | 369 | 
 | 2023-01-17 | 4171 | 369 | 
-| 2023-01-16 | 4163 | 369 | 
 

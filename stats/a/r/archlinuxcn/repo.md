@@ -1,6 +1,6 @@
 # archlinuxcn/repo - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1239 | 238 | 
 | 2023-02-14 | 1239 | 238 | 
 | 2023-02-13 | 1236 | 238 | 
 | 2023-02-12 | 1233 | 238 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1227 | 230 | 
 | 2023-01-18 | 1225 | 230 | 
 | 2023-01-17 | 1225 | 230 | 
-| 2023-01-16 | 1224 | 230 | 
 

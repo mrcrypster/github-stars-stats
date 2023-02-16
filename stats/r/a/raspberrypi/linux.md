@@ -1,10 +1,10 @@
 # raspberrypi/linux - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 4407
+☋ Forks: 4408
 
-★ Stars: 9529
+★ Stars: 9532
 
 [Open repository](https://github.com/raspberrypi/linux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 9532 | 4408 | 
 | 2023-02-14 | 9529 | 4407 | 
 | 2023-02-13 | 9528 | 4403 | 
 | 2023-02-12 | 9526 | 4400 | 

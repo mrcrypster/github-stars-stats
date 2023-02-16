@@ -1,6 +1,6 @@
 # hashicorp/learn-terraform-run-triggers-network - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 206
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5 | 206 | 
 | 2023-02-14 | 5 | 206 | 
 | 2023-02-13 | 5 | 205 | 
 | 2023-02-11 | 5 | 205 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5 | 201 | 
 | 2023-01-18 | 5 | 200 | 
 | 2023-01-17 | 5 | 200 | 
-| 2023-01-16 | 5 | 200 | 
 

@@ -1,6 +1,6 @@
 # linuxacademy/content-source-control-git - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6 | 260 | 
 | 2023-02-14 | 6 | 260 | 
 | 2023-02-13 | 6 | 260 | 
 | 2023-02-12 | 6 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5 | 255 | 
 | 2023-01-18 | 5 | 255 | 
 | 2023-01-17 | 5 | 255 | 
-| 2023-01-16 | 5 | 255 | 
 

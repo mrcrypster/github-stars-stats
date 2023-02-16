@@ -1,10 +1,10 @@
 # actualbudget/actual - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 488
 
-★ Stars: 5907
+★ Stars: 5909
 
 [Open repository](https://github.com/actualbudget/actual)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5909 | 488 | 
 | 2023-02-14 | 5907 | 488 | 
 | 2023-02-13 | 5899 | 487 | 
 | 2023-02-12 | 5893 | 486 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5761 | 470 | 
 | 2023-01-18 | 5753 | 469 | 
 | 2023-01-17 | 5750 | 468 | 
-| 2023-01-16 | 5747 | 467 | 
 

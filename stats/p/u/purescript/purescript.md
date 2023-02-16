@@ -1,10 +1,10 @@
 # purescript/purescript - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 564
 
-★ Stars: 8018
+★ Stars: 8020
 
 [Open repository](https://github.com/purescript/purescript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 8020 | 564 | 
 | 2023-02-14 | 8018 | 564 | 
 | 2023-02-13 | 8017 | 564 | 
 | 2023-02-12 | 8016 | 564 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 7981 | 565 | 
 | 2023-01-18 | 7977 | 565 | 
 | 2023-01-17 | 7977 | 565 | 
-| 2023-01-16 | 7976 | 565 | 
 

@@ -1,10 +1,10 @@
 # koishijs/koishi - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 1747
+★ Stars: 1756
 
 [Open repository](https://github.com/koishijs/koishi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1756 | 118 | 
 | 2023-02-14 | 1747 | 117 | 
 | 2023-02-13 | 1743 | 117 | 
 | 2023-02-12 | 1732 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1630 | 114 | 
 | 2023-01-18 | 1629 | 113 | 
 | 2023-01-17 | 1624 | 112 | 
-| 2023-01-16 | 1622 | 112 | 
 

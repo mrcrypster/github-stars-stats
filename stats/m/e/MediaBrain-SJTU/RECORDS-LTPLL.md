@@ -1,6 +1,6 @@
 # MediaBrain-SJTU/RECORDS-LTPLL - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 36 | 6 | 
 | 2023-02-14 | 36 | 6 | 
 | 2023-02-13 | 31 | 6 | 
 | 2023-02-12 | 27 | 6 | 

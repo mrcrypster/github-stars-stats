@@ -1,6 +1,6 @@
 # XDream8/revanced-creator - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 212 | 67 | 
 | 2023-02-14 | 212 | 67 | 
 | 2023-02-13 | 212 | 67 | 
 | 2023-02-12 | 212 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 197 | 63 | 
 | 2023-01-18 | 197 | 63 | 
 | 2023-01-17 | 196 | 63 | 
-| 2023-01-16 | 196 | 63 | 
 

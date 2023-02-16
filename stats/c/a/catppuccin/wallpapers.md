@@ -1,10 +1,10 @@
 # catppuccin/wallpapers - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 54
 
-★ Stars: 859
+★ Stars: 860
 
 [Open repository](https://github.com/catppuccin/wallpapers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 860 | 54 | 
 | 2023-02-14 | 859 | 54 | 
 | 2023-02-13 | 856 | 54 | 
 | 2023-02-12 | 854 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 811 | 54 | 
 | 2023-01-18 | 808 | 54 | 
 | 2023-01-17 | 806 | 53 | 
-| 2023-01-16 | 805 | 53 | 
 

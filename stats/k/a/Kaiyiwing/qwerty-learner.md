@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 15
 
-☋ Forks: 613
+☋ Forks: 614
 
-★ Stars: 7896
+★ Stars: 7953
 
 [Open repository](https://github.com/Kaiyiwing/qwerty-learner)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-15 | 7896 | 613 | 
+| 2023-02-15 | 7953 | 614 | 
 | 2023-02-14 | 7895 | 613 | 
 | 2023-02-13 | 7844 | 608 | 
 | 2023-02-11 | 7693 | 597 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 7443 | 581 | 
 | 2023-01-18 | 7444 | 581 | 
 | 2023-01-17 | 7436 | 581 | 
-| 2023-01-16 | 7433 | 580 | 
 

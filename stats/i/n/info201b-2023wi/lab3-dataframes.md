@@ -1,6 +1,6 @@
 # info201b-2023wi/lab3-dataframes - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | - | 81 | 
 | 2023-02-14 | - | 81 | 
 | 2023-02-13 | - | 81 | 
 | 2023-02-12 | - | 81 | 

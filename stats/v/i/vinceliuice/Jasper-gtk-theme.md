@@ -1,6 +1,6 @@
 # vinceliuice/Jasper-gtk-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 160 | 4 | 
 | 2023-02-15 | 160 | 4 | 
 | 2023-02-13 | 160 | 4 | 
 | 2023-02-12 | 160 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 154 | 4 | 
 | 2023-01-18 | 153 | 4 | 
 | 2023-01-17 | 153 | 4 | 
-| 2023-01-16 | 153 | 4 | 
 

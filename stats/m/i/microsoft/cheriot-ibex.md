@@ -1,0 +1,17 @@
+# microsoft/cheriot-ibex - stars & forks statistics
+
+Stats updated on Feb 2023, 15
+
+☋ Forks: 3
+
+★ Stars: 19
+
+[Open repository](https://github.com/microsoft/cheriot-ibex)
+
+[Open detailed stats for microsoft/cheriot-ibex](https://reviewgithub.com/rep/microsoft/cheriot-ibex)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-15 | 19 | 3 | 
+

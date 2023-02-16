@@ -1,10 +1,10 @@
 # axboe/fio - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1079
 
-★ Stars: 4014
+★ Stars: 4016
 
 [Open repository](https://github.com/axboe/fio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 4016 | 1079 | 
 | 2023-02-14 | 4014 | 1079 | 
 | 2023-02-13 | 4011 | 1080 | 
 | 2023-02-12 | 4007 | 1080 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 3977 | 1072 | 
 | 2023-01-18 | 3976 | 1072 | 
 | 2023-01-17 | 3974 | 1072 | 
-| 2023-01-16 | 3973 | 1072 | 
 

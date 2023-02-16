@@ -1,6 +1,6 @@
 # brainfucksec/neovim-lua - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 670 | 106 | 
 | 2023-02-14 | 670 | 106 | 
 | 2023-02-13 | 667 | 106 | 
 | 2023-02-12 | 667 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 645 | 105 | 
 | 2023-01-18 | 645 | 105 | 
 | 2023-01-17 | 644 | 105 | 
-| 2023-01-16 | 644 | 104 | 
 

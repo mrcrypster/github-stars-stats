@@ -1,8 +1,8 @@
 # vinceliuice/Tela-icon-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 1160
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1160 | 74 | 
 | 2023-02-15 | 1160 | 73 | 
 | 2023-02-14 | 1158 | 72 | 
 | 2023-02-12 | 1156 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 1133 | 72 | 
 | 2023-01-18 | 1133 | 72 | 
 | 2023-01-17 | 1133 | 72 | 
-| 2023-01-16 | 1133 | 72 | 
 

@@ -1,6 +1,6 @@
 # FiltersHeroes/PolishAnnoyanceFilters - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 45 | 6 | 
 | 2023-02-14 | 45 | 6 | 
 | 2023-02-13 | 45 | 6 | 
 | 2023-02-12 | 45 | 6 | 

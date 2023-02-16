@@ -1,6 +1,6 @@
 # tmenier/Flurl - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 349
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 3472 | 349 | 
 | 2023-02-14 | 3472 | 349 | 
 | 2023-02-13 | 3472 | 349 | 
 | 2023-02-12 | 3471 | 349 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 3437 | 344 | 
 | 2023-01-18 | 3433 | 343 | 
 | 2023-01-17 | 3430 | 343 | 
-| 2023-01-16 | 3429 | 343 | 
 

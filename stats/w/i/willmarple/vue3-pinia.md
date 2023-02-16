@@ -1,10 +1,10 @@
 # willmarple/vue3-pinia - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/willmarple/vue3-pinia)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 22 | 1 | 
 | 2023-02-14 | 21 | 1 | 
 | 2023-02-13 | 21 | 1 | 
 | 2023-02-12 | 21 | 1 | 

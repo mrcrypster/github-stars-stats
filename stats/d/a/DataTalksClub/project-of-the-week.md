@@ -1,10 +1,10 @@
 # DataTalksClub/project-of-the-week - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 58
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/DataTalksClub/project-of-the-week)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 216 | 58 | 
 | 2023-02-14 | 215 | 58 | 
 | 2023-02-13 | 215 | 58 | 
 | 2023-02-11 | 215 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 186 | 47 | 
 | 2023-01-18 | 185 | 47 | 
 | 2023-01-17 | 183 | 45 | 
-| 2023-01-16 | 179 | 45 | 
 

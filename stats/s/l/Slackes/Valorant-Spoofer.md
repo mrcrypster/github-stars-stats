@@ -1,10 +1,10 @@
 # Slackes/Valorant-Spoofer - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 25
 
-★ Stars: 103
+★ Stars: 102
 
 [Open repository](https://github.com/Slackes/Valorant-Spoofer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 102 | 25 | 
 | 2023-02-14 | 103 | 25 | 
 | 2023-02-13 | 102 | 25 | 
 | 2023-02-12 | 101 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 99 | 23 | 
 | 2023-01-19 | 100 | 23 | 
 | 2023-01-18 | 100 | 23 | 
-| 2023-01-16 | 99 | 23 | 
 

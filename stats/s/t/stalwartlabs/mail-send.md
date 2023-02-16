@@ -1,10 +1,10 @@
 # stalwartlabs/mail-send - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/stalwartlabs/mail-send)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 131 | 8 | 
 | 2023-02-14 | 130 | 8 | 
 | 2023-02-13 | 130 | 8 | 
 | 2023-02-12 | 130 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 129 | 7 | 
 | 2023-01-18 | 129 | 7 | 
 | 2023-01-17 | 129 | 7 | 
-| 2023-01-16 | 129 | 7 | 
 

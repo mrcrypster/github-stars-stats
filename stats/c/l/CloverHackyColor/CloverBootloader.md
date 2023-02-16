@@ -1,10 +1,10 @@
 # CloverHackyColor/CloverBootloader - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 575
 
-★ Stars: 3794
+★ Stars: 3797
 
 [Open repository](https://github.com/CloverHackyColor/CloverBootloader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 3797 | 575 | 
 | 2023-02-14 | 3794 | 575 | 
 | 2023-02-13 | 3793 | 575 | 
 | 2023-02-12 | 3793 | 574 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 3761 | 572 | 
 | 2023-01-18 | 3760 | 572 | 
 | 2023-01-17 | 3761 | 572 | 
-| 2023-01-16 | 3753 | 573 | 
 

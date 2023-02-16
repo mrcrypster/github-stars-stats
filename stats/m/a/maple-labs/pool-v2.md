@@ -1,10 +1,10 @@
 # maple-labs/pool-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/maple-labs/pool-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 7 | 1 | 
 | 2023-02-14 | 6 | 1 | 
 | 2023-02-13 | 6 | 1 | 
 | 2023-02-12 | 6 | 1 | 

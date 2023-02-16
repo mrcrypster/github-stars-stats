@@ -1,10 +1,10 @@
 # lmc999/RegionRestrictionCheck - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 366
+☋ Forks: 370
 
-★ Stars: 2298
+★ Stars: 2303
 
 [Open repository](https://github.com/lmc999/RegionRestrictionCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2303 | 370 | 
 | 2023-02-15 | 2298 | 366 | 
 | 2023-02-13 | 2295 | 366 | 
 | 2023-02-12 | 2292 | 367 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 2211 | 361 | 
 | 2023-01-18 | 2206 | 360 | 
 | 2023-01-17 | 2201 | 358 | 
-| 2023-01-16 | 2200 | 358 | 
 

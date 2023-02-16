@@ -1,10 +1,10 @@
 # lucas-manuel/invariant-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 4
+☋ Forks: 6
 
-★ Stars: 72
+★ Stars: 88
 
 [Open repository](https://github.com/lucas-manuel/invariant-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 88 | 6 | 
 | 2023-02-14 | 72 | 4 | 
 | 2023-02-13 | 70 | 4 | 
 | 2023-02-12 | 67 | 4 | 

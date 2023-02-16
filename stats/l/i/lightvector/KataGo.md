@@ -1,10 +1,10 @@
 # lightvector/KataGo - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 431
+☋ Forks: 432
 
-★ Stars: 2209
+★ Stars: 2212
 
 [Open repository](https://github.com/lightvector/KataGo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2212 | 432 | 
 | 2023-02-14 | 2209 | 431 | 
 | 2023-02-13 | 2205 | 431 | 
 | 2023-02-12 | 2198 | 431 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 2143 | 426 | 
 | 2023-01-18 | 2141 | 426 | 
 | 2023-01-17 | 2138 | 425 | 
-| 2023-01-16 | 2135 | 425 | 
 

@@ -1,10 +1,10 @@
 # Leonidas-from-XIV/node-xml2js - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 562
 
-★ Stars: 4626
+★ Stars: 4627
 
 [Open repository](https://github.com/Leonidas-from-XIV/node-xml2js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 4627 | 562 | 
 | 2023-02-14 | 4626 | 562 | 
 | 2023-02-13 | 4623 | 562 | 
 | 2023-02-12 | 4623 | 562 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 4608 | 560 | 
 | 2023-01-18 | 4607 | 560 | 
 | 2023-01-17 | 4606 | 560 | 
-| 2023-01-16 | 4606 | 560 | 
 

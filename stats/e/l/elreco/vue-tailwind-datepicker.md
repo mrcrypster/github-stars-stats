@@ -1,10 +1,10 @@
 # elreco/vue-tailwind-datepicker - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 13
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/elreco/vue-tailwind-datepicker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 85 | 13 | 
 | 2023-02-14 | 84 | 13 | 
 | 2023-02-13 | 83 | 13 | 
 | 2023-02-12 | 83 | 13 | 

@@ -1,6 +1,6 @@
 # quadbiolab/Pando - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 53 | 12 | 
 | 2023-02-14 | 53 | 12 | 
 | 2023-02-13 | 53 | 12 | 
 | 2023-02-12 | 52 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 50 | 11 | 
 | 2023-01-18 | 50 | 11 | 
 | 2023-01-17 | 50 | 11 | 
-| 2023-01-16 | 50 | 11 | 
 

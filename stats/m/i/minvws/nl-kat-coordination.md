@@ -1,10 +1,10 @@
 # minvws/nl-kat-coordination - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/minvws/nl-kat-coordination)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 85 | 19 | 
 | 2023-02-14 | 84 | 18 | 
 | 2023-02-13 | 84 | 17 | 
 | 2023-02-12 | 84 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 76 | 15 | 
 | 2023-01-18 | 76 | 15 | 
 | 2023-01-17 | 76 | 15 | 
-| 2023-01-16 | 76 | 15 | 
 

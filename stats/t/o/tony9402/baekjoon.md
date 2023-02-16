@@ -1,10 +1,10 @@
 # tony9402/baekjoon - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 791
+☋ Forks: 794
 
-★ Stars: 3601
+★ Stars: 3604
 
 [Open repository](https://github.com/tony9402/baekjoon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 3604 | 794 | 
 | 2023-02-14 | 3601 | 791 | 
 | 2023-02-13 | 3596 | 791 | 
 | 2023-02-12 | 3588 | 791 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 3473 | 770 | 
 | 2023-01-19 | 3464 | 769 | 
 | 2023-01-18 | 3461 | 769 | 
-| 2023-01-16 | 3440 | 765 | 
 

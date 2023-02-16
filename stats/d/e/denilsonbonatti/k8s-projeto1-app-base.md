@@ -1,8 +1,8 @@
 # denilsonbonatti/k8s-projeto1-app-base - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 94
+☋ Forks: 93
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 8 | 93 | 
 | 2023-02-15 | 8 | 94 | 
 | 2023-02-14 | 8 | 94 | 
 | 2023-02-12 | 8 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 9 | 90 | 
 | 2023-01-18 | 9 | 90 | 
 | 2023-01-17 | 9 | 89 | 
-| 2023-01-16 | 9 | 87 | 
 

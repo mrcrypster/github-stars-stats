@@ -1,10 +1,10 @@
 # opensearch-project/project-website - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 195
+☋ Forks: 196
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/opensearch-project/project-website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 31 | 196 | 
 | 2023-02-14 | 30 | 195 | 
 | 2023-02-12 | 30 | 195 | 
 | 2023-02-11 | 30 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 29 | 187 | 
 | 2023-01-18 | 29 | 188 | 
 | 2023-01-17 | 29 | 188 | 
-| 2023-01-16 | 29 | 189 | 
 

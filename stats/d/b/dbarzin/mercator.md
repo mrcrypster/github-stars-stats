@@ -1,6 +1,6 @@
 # dbarzin/mercator - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 96 | 18 | 
 | 2023-02-14 | 96 | 18 | 
 | 2023-02-13 | 96 | 18 | 
 | 2023-02-12 | 96 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 84 | 17 | 
 | 2023-01-18 | 84 | 17 | 
 | 2023-01-17 | 84 | 17 | 
-| 2023-01-16 | 84 | 17 | 
 

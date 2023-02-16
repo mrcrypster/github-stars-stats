@@ -1,6 +1,6 @@
 # transmissions11/foundry-template - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 151 | 22 | 
 | 2023-02-14 | 151 | 22 | 
 | 2023-02-13 | 151 | 22 | 
 | 2023-02-12 | 149 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 142 | 21 | 
 | 2023-01-18 | 142 | 21 | 
 | 2023-01-17 | 141 | 21 | 
-| 2023-01-16 | 141 | 21 | 
 

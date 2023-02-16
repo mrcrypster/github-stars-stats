@@ -1,10 +1,10 @@
 # google/accompanist - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
-☋ Forks: 476
+☋ Forks: 478
 
-★ Stars: 6097
+★ Stars: 6105
 
 [Open repository](https://github.com/google/accompanist)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 6105 | 478 | 
+| 2023-02-15 | 6104 | 478 | 
 | 2023-02-14 | 6097 | 476 | 
 | 2023-02-12 | 6094 | 476 | 
 | 2023-02-11 | 6095 | 477 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5996 | 470 | 
 | 2023-01-18 | 5993 | 469 | 
 | 2023-01-17 | 5993 | 469 | 
-| 2023-01-16 | 5989 | 468 | 
 

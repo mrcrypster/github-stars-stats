@@ -1,8 +1,8 @@
 # cyclic-software/starter-vue - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
-☋ Forks: 202
+☋ Forks: 205
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3 | 205 | 
 | 2023-02-14 | 3 | 202 | 
 | 2023-02-13 | 3 | 201 | 
 | 2023-02-12 | 3 | 199 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 3 | 168 | 
 | 2023-01-18 | 3 | 165 | 
 | 2023-01-17 | 3 | 165 | 
-| 2023-01-16 | 3 | 164 | 
 

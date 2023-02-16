@@ -1,6 +1,6 @@
 # Whisparr/Whisparr - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 195 | 14 | 
 | 2023-02-14 | 195 | 14 | 
 | 2023-02-13 | 194 | 14 | 
 | 2023-02-12 | 192 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 183 | 12 | 
 | 2023-01-18 | 183 | 12 | 
 | 2023-01-17 | 182 | 12 | 
-| 2023-01-16 | 182 | 12 | 
 

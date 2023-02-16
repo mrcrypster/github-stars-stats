@@ -1,10 +1,10 @@
 # ranaroussi/yfinance - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1815
+☋ Forks: 1817
 
-★ Stars: 8927
+★ Stars: 8937
 
 [Open repository](https://github.com/ranaroussi/yfinance)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 8937 | 1817 | 
 | 2023-02-14 | 8927 | 1815 | 
 | 2023-02-13 | 8916 | 1813 | 
 | 2023-02-12 | 8908 | 1812 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 8535 | 1778 | 
 | 2023-01-18 | 8533 | 1778 | 
 | 2023-01-17 | 8526 | 1779 | 
-| 2023-01-16 | 8515 | 1779 | 
 

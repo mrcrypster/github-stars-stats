@@ -1,6 +1,6 @@
 # rescript-association/reanalyze - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 249 | 19 | 
 | 2023-02-14 | 249 | 19 | 
 | 2023-02-13 | 249 | 19 | 
 | 2023-02-12 | 249 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 247 | 18 | 
 | 2023-01-18 | 247 | 18 | 
 | 2023-01-17 | 247 | 18 | 
-| 2023-01-16 | 247 | 18 | 
 

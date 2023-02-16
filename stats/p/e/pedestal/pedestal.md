@@ -1,6 +1,6 @@
 # pedestal/pedestal - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2583 | 301 | 
 | 2023-02-14 | 2583 | 301 | 
 | 2023-02-13 | 2583 | 301 | 
 | 2023-02-12 | 2582 | 300 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 2575 | 299 | 
 | 2023-01-19 | 2576 | 299 | 
 | 2023-01-18 | 2576 | 299 | 
-| 2023-01-17 | 2577 | 299 | 
 

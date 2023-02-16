@@ -1,10 +1,10 @@
 # iamj0ker/bypass-403 - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 154
+☋ Forks: 156
 
-★ Stars: 711
+★ Stars: 717
 
 [Open repository](https://github.com/iamj0ker/bypass-403)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 717 | 156 | 
 | 2023-02-14 | 711 | 154 | 
 | 2023-02-13 | 705 | 153 | 
 | 2023-02-12 | 705 | 153 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 687 | 151 | 
 | 2023-01-18 | 685 | 151 | 
 | 2023-01-17 | 685 | 151 | 
-| 2023-01-16 | 684 | 151 | 
 

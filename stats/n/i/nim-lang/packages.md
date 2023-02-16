@@ -1,8 +1,8 @@
 # nim-lang/packages - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
-☋ Forks: 616
+☋ Forks: 617
 
 ★ Stars: 384
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 384 | 617 | 
+| 2023-02-15 | 384 | 617 | 
 | 2023-02-14 | 384 | 616 | 
 | 2023-02-13 | 384 | 616 | 
 | 2023-02-12 | 384 | 616 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 379 | 609 | 
 | 2023-01-18 | 379 | 608 | 
 | 2023-01-17 | 378 | 608 | 
-| 2023-01-16 | 378 | 608 | 
 

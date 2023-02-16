@@ -1,6 +1,6 @@
 # jakeyk11/football-data-analytics - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 99 | 17 | 
 | 2023-02-14 | 99 | 17 | 
 | 2023-02-13 | 99 | 17 | 
 | 2023-02-11 | 98 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 92 | 17 | 
 | 2023-01-18 | 89 | 17 | 
 | 2023-01-17 | 82 | 15 | 
-| 2023-01-16 | 70 | 15 | 
 

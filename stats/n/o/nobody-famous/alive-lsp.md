@@ -1,6 +1,6 @@
 # nobody-famous/alive-lsp - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 28 | 3 | 
 | 2023-02-14 | 28 | 3 | 
 | 2023-02-13 | 28 | 3 | 
 | 2023-02-12 | 27 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 27 | 3 | 
 | 2023-01-18 | 27 | 3 | 
 | 2023-01-17 | 27 | 3 | 
-| 2023-01-16 | 27 | 3 | 
 

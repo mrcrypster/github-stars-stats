@@ -1,10 +1,10 @@
 # sui-foundation/sui-move-intro-course - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 9
+☋ Forks: 8
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/sui-foundation/sui-move-intro-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 58 | 8 | 
 | 2023-02-14 | 57 | 9 | 
 | 2023-02-13 | 56 | 9 | 
 | 2023-02-12 | 56 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 34 | 6 | 
 | 2023-01-18 | 33 | 5 | 
 | 2023-01-17 | 32 | 5 | 
-| 2023-01-16 | 31 | 5 | 
 

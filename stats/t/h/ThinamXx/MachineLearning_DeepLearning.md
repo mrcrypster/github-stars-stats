@@ -1,6 +1,6 @@
 # ThinamXx/MachineLearning_DeepLearning - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 96 | 36 | 
 | 2023-02-14 | 96 | 36 | 
 | 2023-02-13 | 96 | 36 | 
 | 2023-02-12 | 96 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 93 | 30 | 
 | 2023-01-18 | 93 | 30 | 
 | 2023-01-17 | 92 | 30 | 
-| 2023-01-16 | 92 | 30 | 
 

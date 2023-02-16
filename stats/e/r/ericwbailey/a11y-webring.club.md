@@ -1,10 +1,10 @@
 # ericwbailey/a11y-webring.club - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/ericwbailey/a11y-webring.club)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 12 | 40 | 
+| 2023-02-15 | 12 | 40 | 
 | 2023-02-14 | 11 | 39 | 
 | 2023-02-13 | 11 | 39 | 
 | 2023-02-12 | 11 | 39 | 

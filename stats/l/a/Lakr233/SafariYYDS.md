@@ -1,6 +1,6 @@
 # Lakr233/SafariYYDS - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 259 | 4 | 
 | 2023-02-14 | 259 | 4 | 
 | 2023-02-13 | 258 | 4 | 
 | 2023-02-12 | 256 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 250 | 4 | 
 | 2023-01-18 | 249 | 4 | 
 | 2023-01-17 | 248 | 4 | 
-| 2023-01-16 | 248 | 4 | 
 

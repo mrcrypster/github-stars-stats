@@ -1,8 +1,8 @@
 # larymak/Python-project-Scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 624
+☋ Forks: 625
 
 ★ Stars: 672
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 672 | 625 | 
 | 2023-02-14 | 672 | 624 | 
 | 2023-02-13 | 672 | 626 | 
 | 2023-02-12 | 672 | 626 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 644 | 587 | 
 | 2023-01-18 | 643 | 587 | 
 | 2023-01-17 | 643 | 585 | 
-| 2023-01-16 | 643 | 585 | 
 

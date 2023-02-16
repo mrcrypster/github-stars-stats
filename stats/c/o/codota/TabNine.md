@@ -1,10 +1,10 @@
 # codota/TabNine - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 451
 
-★ Stars: 9734
+★ Stars: 9735
 
 [Open repository](https://github.com/codota/TabNine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 9735 | 451 | 
 | 2023-02-14 | 9734 | 451 | 
 | 2023-02-13 | 9729 | 451 | 
 | 2023-02-12 | 9730 | 451 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 9680 | 447 | 
 | 2023-01-18 | 9680 | 447 | 
 | 2023-01-17 | 9680 | 447 | 
-| 2023-01-16 | 9675 | 447 | 
 

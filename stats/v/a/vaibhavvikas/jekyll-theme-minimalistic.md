@@ -1,8 +1,8 @@
 # vaibhavvikas/jekyll-theme-minimalistic - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 23 | 29 | 
 | 2023-02-14 | 23 | 28 | 
 | 2023-02-13 | 23 | 28 | 
 | 2023-02-12 | 23 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 18 | 24 | 
 | 2023-01-18 | 18 | 22 | 
 | 2023-01-17 | 18 | 22 | 
-| 2023-01-16 | 18 | 22 | 
 

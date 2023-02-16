@@ -1,6 +1,6 @@
 # Kiwi233/Translation-of-GTNH - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 234 | 48 | 
 | 2023-02-14 | 234 | 48 | 
 | 2023-02-13 | 234 | 48 | 
 | 2023-02-12 | 233 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 223 | 46 | 
 | 2023-01-18 | 223 | 46 | 
 | 2023-01-17 | 223 | 46 | 
-| 2023-01-16 | 223 | 46 | 
 

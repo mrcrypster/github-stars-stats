@@ -1,10 +1,10 @@
 # wuchangming/chatgpt-query-engineer-handbook - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 20
 
-★ Stars: 506
+★ Stars: 508
 
 [Open repository](https://github.com/wuchangming/chatgpt-query-engineer-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 508 | 20 | 
 | 2023-02-15 | 506 | 20 | 
 | 2023-02-13 | 502 | 18 | 
 | 2023-02-12 | 497 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 417 | 12 | 
 | 2023-01-18 | 417 | 12 | 
 | 2023-01-17 | 416 | 12 | 
-| 2023-01-16 | 414 | 12 | 
 

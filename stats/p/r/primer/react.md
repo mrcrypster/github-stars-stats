@@ -1,10 +1,10 @@
 # primer/react - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 383
+☋ Forks: 382
 
-★ Stars: 2264
+★ Stars: 2265
 
 [Open repository](https://github.com/primer/react)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2265 | 382 | 
 | 2023-02-14 | 2264 | 383 | 
 | 2023-02-13 | 2262 | 383 | 
 | 2023-02-12 | 2259 | 382 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 2196 | 369 | 
 | 2023-01-18 | 2196 | 367 | 
 | 2023-01-17 | 2194 | 366 | 
-| 2023-01-16 | 2193 | 366 | 
 

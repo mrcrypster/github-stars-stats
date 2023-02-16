@@ -1,10 +1,10 @@
 # debasishg/tradeioZ2 - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/debasishg/tradeioZ2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 48 | 12 | 
 | 2023-02-14 | 47 | 12 | 
 | 2023-02-13 | 47 | 12 | 
 | 2023-02-12 | 47 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 46 | 12 | 
 | 2023-01-19 | 46 | 12 | 
 | 2023-01-18 | 46 | 12 | 
-| 2023-01-16 | 46 | 12 | 
 

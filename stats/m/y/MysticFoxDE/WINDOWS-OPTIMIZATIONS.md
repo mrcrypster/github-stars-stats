@@ -1,10 +1,10 @@
 # MysticFoxDE/WINDOWS-OPTIMIZATIONS - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 26 | 2 | 
 | 2023-02-15 | 24 | 2 | 
 | 2023-02-13 | 21 | 2 | 
 | 2023-02-12 | 21 | 2 | 

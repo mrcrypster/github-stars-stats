@@ -1,6 +1,6 @@
 # WICG/attribution-reporting-api - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 269 | 99 | 
 | 2023-02-14 | 269 | 99 | 
 | 2023-02-13 | 268 | 99 | 
 | 2023-02-12 | 268 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 266 | 95 | 
 | 2023-01-18 | 266 | 95 | 
 | 2023-01-17 | 266 | 95 | 
-| 2023-01-16 | 266 | 95 | 
 

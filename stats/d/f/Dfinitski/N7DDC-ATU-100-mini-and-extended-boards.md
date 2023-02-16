@@ -1,10 +1,10 @@
 # Dfinitski/N7DDC-ATU-100-mini-and-extended-boards - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 122
+☋ Forks: 123
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/Dfinitski/N7DDC-ATU-100-mini-and-extended-boards)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 239 | 123 | 
 | 2023-02-14 | 238 | 122 | 
 | 2023-02-13 | 238 | 122 | 
 | 2023-02-12 | 238 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 233 | 122 | 
 | 2023-01-18 | 233 | 121 | 
 | 2023-01-17 | 233 | 121 | 
-| 2023-01-16 | 232 | 121 | 
 

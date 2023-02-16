@@ -1,10 +1,10 @@
 # WebGLSamples/WebGLSamples.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 251
 
-★ Stars: 784
+★ Stars: 785
 
 [Open repository](https://github.com/WebGLSamples/WebGLSamples.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 785 | 251 | 
 | 2023-02-14 | 784 | 251 | 
 | 2023-02-12 | 784 | 251 | 
 | 2023-02-11 | 784 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 775 | 249 | 
 | 2023-01-18 | 775 | 249 | 
 | 2023-01-17 | 775 | 250 | 
-| 2023-01-16 | 775 | 249 | 
 

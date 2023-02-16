@@ -1,10 +1,10 @@
 # optuna/optuna - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 800
+☋ Forks: 801
 
-★ Stars: 7571
+★ Stars: 7574
 
 [Open repository](https://github.com/optuna/optuna)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 7574 | 801 | 
 | 2023-02-14 | 7571 | 800 | 
 | 2023-02-13 | 7568 | 799 | 
 | 2023-02-12 | 7559 | 798 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 7461 | 796 | 
 | 2023-01-18 | 7453 | 796 | 
 | 2023-01-17 | 7444 | 797 | 
-| 2023-01-16 | 7442 | 796 | 
 

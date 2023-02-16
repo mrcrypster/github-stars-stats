@@ -1,8 +1,8 @@
 # khushi-purwar/WebDev-ProjectKart - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 191
+☋ Forks: 193
 
 ★ Stars: 101
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 101 | 193 | 
 | 2023-02-14 | 101 | 191 | 
 | 2023-02-13 | 101 | 190 | 
 | 2023-02-11 | 101 | 191 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 100 | 191 | 
 | 2023-01-18 | 100 | 191 | 
 | 2023-01-17 | 100 | 191 | 
-| 2023-01-16 | 99 | 190 | 
 

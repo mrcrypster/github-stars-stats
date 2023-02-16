@@ -1,10 +1,10 @@
 # apachecn/ailearning - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 11014
+☋ Forks: 11013
 
-★ Stars: 34602
+★ Stars: 34611
 
 [Open repository](https://github.com/apachecn/ailearning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 34611 | 11013 | 
 | 2023-02-14 | 34602 | 11014 | 
 | 2023-02-13 | 34595 | 11011 | 
 | 2023-02-12 | 34586 | 11012 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 34496 | 10997 | 
 | 2023-01-19 | 34492 | 10998 | 
 | 2023-01-18 | 34489 | 10998 | 
-| 2023-01-17 | 34479 | 10998 | 
 

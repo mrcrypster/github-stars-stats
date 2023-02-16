@@ -1,10 +1,10 @@
 # sam-astro/Astro8-Computer - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 51
 
-★ Stars: 454
+★ Stars: 456
 
 [Open repository](https://github.com/sam-astro/Astro8-Computer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 456 | 51 | 
 | 2023-02-14 | 454 | 51 | 
 | 2023-02-13 | 453 | 51 | 
 | 2023-02-12 | 452 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 435 | 51 | 
 | 2023-01-18 | 434 | 52 | 
 | 2023-01-17 | 434 | 52 | 
-| 2023-01-16 | 433 | 52 | 
 

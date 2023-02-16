@@ -1,8 +1,8 @@
 # Codecademy/deploying-a-static-site-with-netlify-sample - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1879
+☋ Forks: 1878
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 18 | 1878 | 
 | 2023-02-14 | 18 | 1879 | 
 | 2023-02-13 | 18 | 1876 | 
 | 2023-02-12 | 18 | 1875 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 18 | 1805 | 
 | 2023-01-18 | 18 | 1804 | 
 | 2023-01-17 | 18 | 1800 | 
-| 2023-01-16 | 18 | 1798 | 
 

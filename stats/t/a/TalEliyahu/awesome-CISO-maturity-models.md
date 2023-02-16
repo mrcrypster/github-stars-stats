@@ -1,10 +1,10 @@
 # TalEliyahu/awesome-CISO-maturity-models - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 8
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/TalEliyahu/awesome-CISO-maturity-models)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 119 | 8 | 
 | 2023-02-14 | 118 | 8 | 
 | 2023-02-13 | 118 | 8 | 
 | 2023-02-12 | 118 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 118 | 8 | 
 | 2023-01-18 | 118 | 8 | 
 | 2023-01-17 | 118 | 8 | 
-| 2023-01-16 | 118 | 8 | 
 

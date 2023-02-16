@@ -1,10 +1,10 @@
 # JoelGMSec/Invoke-Transfer - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 33
+★ Stars: 41
 
 [Open repository](https://github.com/JoelGMSec/Invoke-Transfer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 41 | 4 | 
 | 2023-02-15 | 33 | 4 | 
 | 2023-02-13 | 25 | 2 | 
 | 2023-02-12 | 25 | 2 | 

@@ -1,10 +1,10 @@
 # VonHeikemen/lsp-zero.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 37
 
-★ Stars: 1456
+★ Stars: 1457
 
 [Open repository](https://github.com/VonHeikemen/lsp-zero.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1457 | 37 | 
 | 2023-02-14 | 1456 | 37 | 
 | 2023-02-13 | 1446 | 37 | 
 | 2023-02-12 | 1443 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1260 | 27 | 
 | 2023-01-18 | 1251 | 27 | 
 | 2023-01-17 | 1247 | 27 | 
-| 2023-01-16 | 1241 | 28 | 
 

@@ -1,10 +1,10 @@
 # bazelbuild/rules_proto - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 56
 
-★ Stars: 134
+★ Stars: 133
 
 [Open repository](https://github.com/bazelbuild/rules_proto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 133 | 56 | 
 | 2023-02-14 | 134 | 56 | 
 | 2023-02-13 | 134 | 56 | 
 | 2023-02-12 | 134 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 132 | 55 | 
 | 2023-01-18 | 132 | 55 | 
 | 2023-01-17 | 132 | 55 | 
-| 2023-01-16 | 132 | 55 | 
 

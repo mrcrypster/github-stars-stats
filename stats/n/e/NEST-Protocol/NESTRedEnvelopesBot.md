@@ -1,6 +1,6 @@
 # NEST-Protocol/NESTRedEnvelopesBot - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 403 | 2 | 
 | 2023-02-14 | 403 | 2 | 
 | 2023-02-13 | 403 | 2 | 
 | 2023-02-11 | 403 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 403 | 2 | 
 | 2023-01-18 | 404 | 2 | 
 | 2023-01-17 | 404 | 2 | 
-| 2023-01-16 | 403 | 2 | 
 

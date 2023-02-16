@@ -1,10 +1,10 @@
 # GoogleContainerTools/jib - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1341
 
-★ Stars: 12524
+★ Stars: 12531
 
 [Open repository](https://github.com/GoogleContainerTools/jib)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 12531 | 1341 | 
 | 2023-02-14 | 12524 | 1341 | 
 | 2023-02-13 | 12520 | 1341 | 
 | 2023-02-12 | 12513 | 1341 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 12445 | 1334 | 
 | 2023-01-18 | 12441 | 1333 | 
 | 2023-01-17 | 12441 | 1333 | 
-| 2023-01-16 | 12443 | 1333 | 
 

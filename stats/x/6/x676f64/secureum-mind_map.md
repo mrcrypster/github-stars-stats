@@ -1,10 +1,10 @@
 # x676f64/secureum-mind_map - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 169
 
-★ Stars: 738
+★ Stars: 741
 
 [Open repository](https://github.com/x676f64/secureum-mind_map)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 741 | 169 | 
 | 2023-02-14 | 738 | 169 | 
 | 2023-02-13 | 738 | 169 | 
 | 2023-02-12 | 736 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 621 | 153 | 
 | 2023-01-18 | 616 | 153 | 
 | 2023-01-17 | 613 | 153 | 
-| 2023-01-16 | 609 | 152 | 
 

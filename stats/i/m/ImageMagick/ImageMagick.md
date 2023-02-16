@@ -1,10 +1,10 @@
 # ImageMagick/ImageMagick - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1130
+☋ Forks: 1132
 
-★ Stars: 8474
+★ Stars: 8488
 
 [Open repository](https://github.com/ImageMagick/ImageMagick)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 8488 | 1132 | 
 | 2023-02-14 | 8474 | 1130 | 
 | 2023-02-13 | 8471 | 1129 | 
 | 2023-02-12 | 8468 | 1129 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 8334 | 1115 | 
 | 2023-01-18 | 8329 | 1114 | 
 | 2023-01-17 | 8323 | 1113 | 
-| 2023-01-16 | 8320 | 1112 | 
 

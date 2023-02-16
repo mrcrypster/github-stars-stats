@@ -1,10 +1,10 @@
 # Sija/backtracer.cr - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Sija/backtracer.cr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 14 | - | 
 | 2023-02-15 | 13 | - | 
 | 2023-02-13 | 13 | - | 
 | 2023-02-12 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 13 | - | 
 | 2023-01-18 | 13 | - | 
 | 2023-01-17 | 13 | - | 
-| 2023-01-16 | 13 | - | 
 

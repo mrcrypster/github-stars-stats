@@ -1,10 +1,10 @@
 # dell/iDRAC-Redfish-Scripting - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 225
 
-★ Stars: 454
+★ Stars: 455
 
 [Open repository](https://github.com/dell/iDRAC-Redfish-Scripting)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 455 | 225 | 
 | 2023-02-14 | 454 | 225 | 
 | 2023-02-13 | 453 | 225 | 
 | 2023-02-11 | 453 | 225 | 

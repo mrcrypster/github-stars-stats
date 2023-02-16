@@ -1,10 +1,10 @@
 # 4lT4lR/Windows-RDP-Control - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 79
+☋ Forks: 81
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/4lT4lR/Windows-RDP-Control)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 9 | 81 | 
 | 2023-02-14 | 8 | 79 | 
 | 2023-02-13 | 8 | 79 | 
 | 2023-02-12 | 8 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 6 | 61 | 
 | 2023-01-18 | 6 | 60 | 
 | 2023-01-17 | 6 | 60 | 
-| 2023-01-16 | 6 | 60 | 
 

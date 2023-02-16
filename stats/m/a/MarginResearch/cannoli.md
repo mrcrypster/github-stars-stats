@@ -1,6 +1,6 @@
 # MarginResearch/cannoli - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 393 | 18 | 
 | 2023-02-14 | 393 | 18 | 
 | 2023-02-13 | 393 | 18 | 
 | 2023-02-12 | 393 | 18 | 

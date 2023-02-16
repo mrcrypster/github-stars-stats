@@ -1,6 +1,6 @@
 # patrick-kidger/diffrax - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 757 | 58 | 
 | 2023-02-14 | 757 | 58 | 
 | 2023-02-13 | 755 | 58 | 
 | 2023-02-12 | 754 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 726 | 55 | 
 | 2023-01-18 | 724 | 55 | 
 | 2023-01-17 | 722 | 55 | 
-| 2023-01-16 | 721 | 55 | 
 

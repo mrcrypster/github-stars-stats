@@ -1,10 +1,10 @@
 # AtomGraph/LinkedDataHub - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 103
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/AtomGraph/LinkedDataHub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 390 | 103 | 
 | 2023-02-14 | 389 | 103 | 
 | 2023-02-13 | 389 | 103 | 
 | 2023-02-12 | 389 | 102 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 382 | 98 | 
 | 2023-01-18 | 382 | 98 | 
 | 2023-01-17 | 382 | 98 | 
-| 2023-01-16 | 382 | 97 | 
 

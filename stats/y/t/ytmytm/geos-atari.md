@@ -1,10 +1,10 @@
 # ytmytm/geos-atari - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/ytmytm/geos-atari)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 33 | 4 | 
 | 2023-02-14 | 32 | 4 | 
 | 2023-02-13 | 32 | 4 | 
 | 2023-02-12 | 32 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 31 | 4 | 
 | 2023-01-18 | 31 | 4 | 
 | 2023-01-17 | 31 | 4 | 
-| 2023-01-16 | 31 | 4 | 
 

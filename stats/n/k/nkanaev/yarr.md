@@ -1,10 +1,10 @@
 # nkanaev/yarr - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 118
+☋ Forks: 119
 
-★ Stars: 1771
+★ Stars: 1772
 
 [Open repository](https://github.com/nkanaev/yarr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1772 | 119 | 
 | 2023-02-14 | 1771 | 118 | 
 | 2023-02-13 | 1771 | 118 | 
 | 2023-02-12 | 1770 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1695 | 118 | 
 | 2023-01-18 | 1692 | 118 | 
 | 2023-01-17 | 1674 | 119 | 
-| 2023-01-16 | 1675 | 119 | 
 

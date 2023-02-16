@@ -1,10 +1,10 @@
 # gradle/gradle - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 4098
+☋ Forks: 4101
 
-★ Stars: 14370
+★ Stars: 14376
 
 [Open repository](https://github.com/gradle/gradle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 14376 | 4101 | 
 | 2023-02-14 | 14370 | 4098 | 
 | 2023-02-13 | 14368 | 4096 | 
 | 2023-02-12 | 14364 | 4096 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 14260 | 4085 | 
 | 2023-01-18 | 14256 | 4084 | 
 | 2023-01-17 | 14253 | 4083 | 
-| 2023-01-16 | 14249 | 4082 | 
 

@@ -1,6 +1,6 @@
 # rafaelvleite/fide_crawler - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 94 | 17 | 
 | 2023-02-14 | 94 | 17 | 
 | 2023-02-13 | 94 | 17 | 
 | 2023-02-12 | 94 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 94 | 17 | 
 | 2023-01-18 | 94 | 17 | 
 | 2023-01-17 | 94 | 17 | 
-| 2023-01-16 | 94 | 17 | 
 

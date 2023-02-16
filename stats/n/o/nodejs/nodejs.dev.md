@@ -1,6 +1,6 @@
 # nodejs/nodejs.dev - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 996
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2219 | 996 | 
 | 2023-02-14 | 2219 | 996 | 
 | 2023-02-13 | 2218 | 996 | 
 | 2023-02-12 | 2218 | 995 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 2204 | 985 | 
 | 2023-01-18 | 2204 | 985 | 
 | 2023-01-17 | 2204 | 984 | 
-| 2023-01-16 | 2202 | 981 | 
 

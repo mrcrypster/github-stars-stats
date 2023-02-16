@@ -1,6 +1,6 @@
 # Regalis11/Barotrauma - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1175 | 320 | 
 | 2023-02-14 | 1175 | 320 | 
 | 2023-02-13 | 1173 | 319 | 
 | 2023-02-12 | 1172 | 319 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1150 | 319 | 
 | 2023-01-18 | 1148 | 319 | 
 | 2023-01-17 | 1148 | 319 | 
-| 2023-01-16 | 1147 | 319 | 
 

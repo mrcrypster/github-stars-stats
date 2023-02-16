@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 15
 
 ☋ Forks: 22
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/pclubiitk/puppy-love)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-15 | 65 | 22 | 
+| 2023-02-15 | 66 | 22 | 
 | 2023-02-14 | 65 | 22 | 
 | 2023-02-13 | 65 | 22 | 
 | 2023-02-12 | 64 | 21 | 

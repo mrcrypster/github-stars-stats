@@ -1,6 +1,6 @@
 # divnix/digga - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 886 | 115 | 
 | 2023-02-14 | 886 | 115 | 
 | 2023-02-13 | 886 | 115 | 
 | 2023-02-12 | 887 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 872 | 114 | 
 | 2023-01-18 | 872 | 114 | 
 | 2023-01-17 | 871 | 113 | 
-| 2023-01-16 | 869 | 113 | 
 

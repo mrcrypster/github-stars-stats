@@ -1,8 +1,8 @@
 # ziglibs/zgl - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 33
+☋ Forks: 35
 
 ★ Stars: 170
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 170 | 35 | 
 | 2023-02-14 | 170 | 33 | 
 | 2023-02-13 | 170 | 33 | 
 | 2023-02-12 | 170 | 33 | 

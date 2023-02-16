@@ -1,6 +1,6 @@
 # nautobot/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 13 | 8 | 
 | 2023-02-14 | 13 | 8 | 
 | 2023-02-13 | 13 | 8 | 
 | 2023-02-12 | 13 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 12 | 8 | 
 | 2023-01-18 | 11 | 8 | 
 | 2023-01-17 | 11 | 8 | 
-| 2023-01-16 | 11 | 8 | 
 

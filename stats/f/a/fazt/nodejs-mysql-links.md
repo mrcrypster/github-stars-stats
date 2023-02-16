@@ -1,8 +1,8 @@
 # fazt/nodejs-mysql-links - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 158
+☋ Forks: 157
 
 ★ Stars: 182
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 182 | 157 | 
 | 2023-02-14 | 182 | 158 | 
 | 2023-02-13 | 182 | 158 | 
 | 2023-02-12 | 182 | 158 | 

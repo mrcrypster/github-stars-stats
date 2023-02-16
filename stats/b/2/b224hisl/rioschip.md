@@ -1,10 +1,10 @@
 # b224hisl/rioschip - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/b224hisl/rioschip)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 24 | 2 | 
 | 2023-02-14 | 23 | 2 | 
 | 2023-02-13 | 23 | 2 | 
 | 2023-02-12 | 23 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 23 | 2 | 
 | 2023-01-18 | 23 | 2 | 
 | 2023-01-17 | 23 | 2 | 
-| 2023-01-16 | 23 | 2 | 
 

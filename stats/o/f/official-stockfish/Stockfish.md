@@ -1,10 +1,10 @@
 # official-stockfish/Stockfish - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1801
 
-★ Stars: 7875
+★ Stars: 7887
 
 [Open repository](https://github.com/official-stockfish/Stockfish)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 7887 | 1801 | 
 | 2023-02-14 | 7875 | 1801 | 
 | 2023-02-13 | 7865 | 1800 | 
 | 2023-02-12 | 7861 | 1800 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 7635 | 1767 | 
 | 2023-01-18 | 7621 | 1766 | 
 | 2023-01-17 | 7606 | 1763 | 
-| 2023-01-16 | 7601 | 1760 | 
 

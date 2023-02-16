@@ -1,10 +1,10 @@
 # transitive-bullshit/yt-semantic-search - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 28
 
-★ Stars: 337
+★ Stars: 339
 
 [Open repository](https://github.com/transitive-bullshit/yt-semantic-search)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 339 | 28 | 
 | 2023-02-14 | 337 | 28 | 
 | 2023-02-13 | 334 | 28 | 
 | 2023-02-12 | 333 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 268 | 24 | 
 | 2023-01-18 | 267 | 23 | 
 | 2023-01-17 | 266 | 21 | 
-| 2023-01-16 | 265 | 20 | 
 

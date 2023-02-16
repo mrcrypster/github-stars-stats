@@ -1,6 +1,6 @@
 # ChicoState/cpp-container - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | - | 7 | 
+| 2023-02-15 | - | 7 | 
 | 2023-02-14 | - | 7 | 
 | 2023-02-13 | - | 5 | 
 | 2023-02-12 | - | 5 | 

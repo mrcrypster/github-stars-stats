@@ -1,8 +1,8 @@
 # Homebrew/homebrew-services - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 206
+☋ Forks: 205
 
 ★ Stars: 1800
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1800 | 205 | 
 | 2023-02-14 | 1800 | 206 | 
 | 2023-02-13 | 1798 | 206 | 
 | 2023-02-12 | 1798 | 206 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1792 | 205 | 
 | 2023-01-18 | 1792 | 205 | 
 | 2023-01-17 | 1792 | 203 | 
-| 2023-01-16 | 1792 | 203 | 
 

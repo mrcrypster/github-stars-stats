@@ -1,6 +1,6 @@
 # tobor88/PowerShell-Red-Team - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 361 | 75 | 
 | 2023-02-14 | 361 | 75 | 
 | 2023-02-13 | 359 | 75 | 
 | 2023-02-12 | 357 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 346 | 74 | 
 | 2023-01-19 | 345 | 74 | 
 | 2023-01-17 | 345 | 74 | 
-| 2023-01-16 | 344 | 74 | 
 

@@ -1,10 +1,10 @@
 # bits-by-brandon/whisper-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/bits-by-brandon/whisper-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 19 | 1 | 
 | 2023-02-14 | 18 | 1 | 
 | 2023-02-13 | 18 | 1 | 
 | 2023-02-12 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 10 | 1 | 
 | 2023-01-18 | 10 | 1 | 
 | 2023-01-17 | 10 | 1 | 
-| 2023-01-16 | 10 | 1 | 
 

@@ -1,6 +1,6 @@
 # zhongxinghong/PKUAutoElective - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 556 | 232 | 
 | 2023-02-14 | 556 | 232 | 
 | 2023-02-13 | 556 | 232 | 
 | 2023-02-12 | 555 | 231 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 556 | 231 | 
 | 2023-01-18 | 556 | 231 | 
 | 2023-01-17 | 556 | 231 | 
-| 2023-01-16 | 556 | 231 | 
 

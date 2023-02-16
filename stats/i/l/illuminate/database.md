@@ -1,10 +1,10 @@
 # illuminate/database - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 578
 
-★ Stars: 2525
+★ Stars: 2526
 
 [Open repository](https://github.com/illuminate/database)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2526 | 578 | 
 | 2023-02-14 | 2525 | 578 | 
 | 2023-02-13 | 2523 | 578 | 
 | 2023-02-12 | 2524 | 577 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 2515 | 579 | 
 | 2023-01-18 | 2514 | 579 | 
 | 2023-01-17 | 2514 | 578 | 
-| 2023-01-16 | 2513 | 578 | 
 

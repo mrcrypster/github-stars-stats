@@ -1,10 +1,10 @@
 # neodevpro/neodevhost - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 84
 
-★ Stars: 832
+★ Stars: 833
 
 [Open repository](https://github.com/neodevpro/neodevhost)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 833 | 84 | 
 | 2023-02-14 | 832 | 84 | 
 | 2023-02-13 | 832 | 84 | 
 | 2023-02-12 | 832 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 812 | 84 | 
 | 2023-01-18 | 813 | 84 | 
 | 2023-01-17 | 813 | 84 | 
-| 2023-01-16 | 813 | 84 | 
 

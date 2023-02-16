@@ -1,10 +1,10 @@
 # berty/berty - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 307
+☋ Forks: 308
 
-★ Stars: 6502
+★ Stars: 6503
 
 [Open repository](https://github.com/berty/berty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6503 | 308 | 
 | 2023-02-14 | 6502 | 307 | 
 | 2023-02-13 | 6502 | 307 | 
 | 2023-02-12 | 6496 | 307 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 6446 | 303 | 
 | 2023-01-19 | 6445 | 303 | 
 | 2023-01-18 | 6440 | 303 | 
-| 2023-01-17 | 6440 | 303 | 
 

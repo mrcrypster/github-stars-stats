@@ -1,10 +1,10 @@
 # softinio/scalanews - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/softinio/scalanews)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 25 | 6 | 
 | 2023-02-14 | 24 | 6 | 
 | 2023-02-13 | 24 | 6 | 
 | 2023-02-12 | 23 | 5 | 

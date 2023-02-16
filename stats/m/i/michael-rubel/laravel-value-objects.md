@@ -1,6 +1,6 @@
 # michael-rubel/laravel-value-objects - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 144 | 8 | 
 | 2023-02-14 | 144 | 8 | 
 | 2023-02-13 | 144 | 8 | 
 | 2023-02-11 | 144 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 142 | 8 | 
 | 2023-01-18 | 142 | 8 | 
 | 2023-01-17 | 141 | 8 | 
-| 2023-01-16 | 141 | 8 | 
 

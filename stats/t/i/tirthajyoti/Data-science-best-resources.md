@@ -1,10 +1,10 @@
 # tirthajyoti/Data-science-best-resources - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 864
+☋ Forks: 865
 
-★ Stars: 2343
+★ Stars: 2350
 
 [Open repository](https://github.com/tirthajyoti/Data-science-best-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2350 | 865 | 
 | 2023-02-14 | 2343 | 864 | 
 | 2023-02-13 | 2343 | 864 | 
 | 2023-02-12 | 2340 | 864 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 2214 | 828 | 
 | 2023-01-18 | 2213 | 828 | 
 | 2023-01-17 | 2213 | 828 | 
-| 2023-01-16 | 2211 | 829 | 
 

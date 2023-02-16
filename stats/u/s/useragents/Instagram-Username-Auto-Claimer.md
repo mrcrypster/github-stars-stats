@@ -1,6 +1,6 @@
 # useragents/Instagram-Username-Auto-Claimer - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 269 | 22 | 
 | 2023-02-14 | 269 | 22 | 
 | 2023-02-13 | 269 | 22 | 
 | 2023-02-12 | 269 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 270 | 22 | 
 | 2023-01-18 | 270 | 22 | 
 | 2023-01-17 | 269 | 22 | 
-| 2023-01-16 | 269 | 22 | 
 

@@ -1,6 +1,6 @@
 # projectdiscovery/fuzzing-templates - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 246 | 30 | 
 | 2023-02-14 | 246 | 30 | 
 | 2023-02-13 | 246 | 30 | 
 | 2023-02-12 | 246 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 235 | 25 | 
 | 2023-01-18 | 233 | 25 | 
 | 2023-01-17 | 233 | 25 | 
-| 2023-01-16 | 233 | 25 | 
 

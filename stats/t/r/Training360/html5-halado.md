@@ -1,6 +1,6 @@
 # Training360/html5-halado - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4 | 75 | 
 | 2023-02-14 | 4 | 75 | 
 | 2023-02-13 | 4 | 75 | 
 | 2023-02-12 | 4 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 4 | 74 | 
 | 2023-01-18 | 4 | 74 | 
 | 2023-01-17 | 4 | 73 | 
-| 2023-01-16 | 4 | 73 | 
 

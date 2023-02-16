@@ -1,6 +1,6 @@
 # tpemartin/111-1-R-final-project - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | - | 7 | 
 | 2023-02-14 | - | 7 | 
 | 2023-02-13 | - | 7 | 
 | 2023-02-12 | - | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1 | 7 | 
 | 2023-01-18 | 1 | 7 | 
 | 2023-01-17 | 1 | 7 | 
-| 2023-01-16 | 1 | 7 | 
 

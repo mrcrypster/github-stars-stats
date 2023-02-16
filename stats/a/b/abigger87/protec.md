@@ -1,10 +1,10 @@
 # abigger87/protec - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/abigger87/protec)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 44 | 2 | 
 | 2023-02-14 | 43 | 2 | 
 | 2023-02-13 | 43 | 2 | 
 | 2023-02-12 | 42 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 42 | 2 | 
 | 2023-01-18 | 42 | 2 | 
 | 2023-01-17 | 42 | 2 | 
-| 2023-01-16 | 42 | 2 | 
 

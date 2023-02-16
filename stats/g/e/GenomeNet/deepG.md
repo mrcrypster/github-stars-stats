@@ -1,10 +1,10 @@
 # GenomeNet/deepG - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/GenomeNet/deepG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 20 | 5 | 
 | 2023-02-14 | 19 | 5 | 
 | 2023-02-13 | 19 | 5 | 
 | 2023-02-12 | 19 | 5 | 

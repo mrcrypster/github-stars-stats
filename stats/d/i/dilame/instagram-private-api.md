@@ -1,10 +1,10 @@
 # dilame/instagram-private-api - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1056
 
-★ Stars: 5063
+★ Stars: 5064
 
 [Open repository](https://github.com/dilame/instagram-private-api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5064 | 1056 | 
 | 2023-02-14 | 5063 | 1056 | 
 | 2023-02-12 | 5058 | 1056 | 
 | 2023-02-11 | 5059 | 1056 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5015 | 1063 | 
 | 2023-01-18 | 5011 | 1063 | 
 | 2023-01-17 | 5010 | 1063 | 
-| 2023-01-16 | 5009 | 1064 | 
 

@@ -1,10 +1,10 @@
 # razrabs-media/journal - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 21
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/razrabs-media/journal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 120 | 21 | 
 | 2023-02-15 | 119 | 21 | 
 | 2023-02-13 | 119 | 21 | 
 | 2023-02-12 | 119 | 21 | 

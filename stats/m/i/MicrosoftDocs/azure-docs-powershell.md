@@ -1,6 +1,6 @@
 # MicrosoftDocs/azure-docs-powershell - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 185 | 365 | 
 | 2023-02-14 | 185 | 365 | 
 | 2023-02-13 | 185 | 365 | 
 | 2023-02-11 | 184 | 365 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 184 | 363 | 
 | 2023-01-18 | 183 | 363 | 
 | 2023-01-17 | 183 | 363 | 
-| 2023-01-16 | 183 | 363 | 
 

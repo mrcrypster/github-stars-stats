@@ -1,8 +1,8 @@
 # cloudacademy/static-website-example - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 494
+☋ Forks: 495
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 51 | 495 | 
 | 2023-02-15 | 51 | 494 | 
 | 2023-02-13 | 50 | 493 | 
 | 2023-02-12 | 50 | 493 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 50 | 487 | 
 | 2023-01-18 | 50 | 486 | 
 | 2023-01-17 | 50 | 486 | 
-| 2023-01-16 | 50 | 486 | 
 

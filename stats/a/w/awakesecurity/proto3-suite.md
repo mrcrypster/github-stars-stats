@@ -1,6 +1,6 @@
 # awakesecurity/proto3-suite - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 75 | 49 | 
 | 2023-02-14 | 75 | 49 | 
 | 2023-02-13 | 75 | 49 | 
 | 2023-02-12 | 75 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 75 | 47 | 
 | 2023-01-18 | 75 | 47 | 
 | 2023-01-17 | 75 | 47 | 
-| 2023-01-16 | 75 | 47 | 
 

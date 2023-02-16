@@ -1,10 +1,10 @@
 # jonico/awesome-runners - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 488
+★ Stars: 490
 
 [Open repository](https://github.com/jonico/awesome-runners)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 490 | 34 | 
 | 2023-02-14 | 488 | 33 | 
 | 2023-02-13 | 488 | 33 | 
 | 2023-02-12 | 488 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 466 | 29 | 
 | 2023-01-18 | 465 | 29 | 
 | 2023-01-17 | 465 | 29 | 
-| 2023-01-16 | 464 | 29 | 
 

@@ -1,8 +1,8 @@
 # kristerkari/react-native-svg-transformer - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 1218
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1218 | 105 | 
 | 2023-02-14 | 1218 | 104 | 
 | 2023-02-13 | 1216 | 104 | 
 | 2023-02-12 | 1216 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1183 | 104 | 
 | 2023-01-18 | 1176 | 103 | 
 | 2023-01-17 | 1175 | 103 | 
-| 2023-01-16 | 1175 | 103 | 
 

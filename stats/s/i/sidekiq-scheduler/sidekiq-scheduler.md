@@ -1,10 +1,10 @@
 # sidekiq-scheduler/sidekiq-scheduler - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 221
 
-★ Stars: 1577
+★ Stars: 1578
 
 [Open repository](https://github.com/sidekiq-scheduler/sidekiq-scheduler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1578 | 221 | 
 | 2023-02-14 | 1577 | 221 | 
 | 2023-02-13 | 1577 | 221 | 
 | 2023-02-11 | 1577 | 221 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1563 | 220 | 
 | 2023-01-18 | 1563 | 220 | 
 | 2023-01-17 | 1562 | 220 | 
-| 2023-01-16 | 1562 | 220 | 
 

@@ -1,10 +1,10 @@
 # AyraHikari/SamsungMusicPort - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/AyraHikari/SamsungMusicPort)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 26 | - | 
 | 2023-02-14 | 25 | - | 
 | 2023-02-13 | 24 | - | 
 | 2023-02-12 | 24 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 22 | - | 
 | 2023-01-18 | 22 | - | 
 | 2023-01-17 | 22 | - | 
-| 2023-01-16 | 22 | - | 
 

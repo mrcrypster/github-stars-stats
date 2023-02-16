@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 15
 
-☋ Forks: 199
+☋ Forks: 214
 
-★ Stars: 201
+★ Stars: 209
 
 [Open repository](https://github.com/alist-org/alist-replit)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-15 | 201 | 199 | 
+| 2023-02-15 | 209 | 214 | 
 | 2023-02-14 | 200 | 199 | 
 | 2023-02-13 | 190 | 186 | 
 | 2023-02-11 | 188 | 181 | 

@@ -1,10 +1,10 @@
 # microsoft/playwright - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 2344
+☋ Forks: 2346
 
-★ Stars: 47670
+★ Stars: 47721
 
 [Open repository](https://github.com/microsoft/playwright)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 47721 | 2346 | 
 | 2023-02-14 | 47670 | 2344 | 
 | 2023-02-13 | 47643 | 2340 | 
 | 2023-02-12 | 47619 | 2338 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 46815 | 2298 | 
 | 2023-01-18 | 46768 | 2293 | 
 | 2023-01-17 | 46723 | 2290 | 
-| 2023-01-16 | 46685 | 2287 | 
 

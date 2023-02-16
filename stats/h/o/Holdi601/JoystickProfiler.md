@@ -1,6 +1,6 @@
 # Holdi601/JoystickProfiler - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 81 | 8 | 
 | 2023-02-15 | 81 | 8 | 
 | 2023-02-13 | 81 | 8 | 
 | 2023-02-12 | 80 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 77 | 8 | 
 | 2023-01-18 | 77 | 8 | 
 | 2023-01-17 | 77 | 8 | 
-| 2023-01-16 | 77 | 8 | 
 

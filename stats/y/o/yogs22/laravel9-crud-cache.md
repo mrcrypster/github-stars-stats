@@ -1,6 +1,6 @@
 # yogs22/laravel9-crud-cache - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 47 | 14 | 
 | 2023-02-15 | 47 | 14 | 
 | 2023-02-13 | 47 | 14 | 
 | 2023-02-12 | 47 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 45 | 14 | 
 | 2023-01-18 | 45 | 14 | 
 | 2023-01-17 | 45 | 14 | 
-| 2023-01-16 | 45 | 14 | 
 

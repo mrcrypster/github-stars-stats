@@ -1,10 +1,10 @@
 # gytis-ivaskevicius/flake-utils-plus - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 31
 
-★ Stars: 317
+★ Stars: 318
 
 [Open repository](https://github.com/gytis-ivaskevicius/flake-utils-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 318 | 31 | 
 | 2023-02-14 | 317 | 31 | 
 | 2023-02-13 | 317 | 31 | 
 | 2023-02-12 | 315 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 307 | 30 | 
 | 2023-01-18 | 307 | 30 | 
 | 2023-01-17 | 307 | 30 | 
-| 2023-01-16 | 306 | 30 | 
 

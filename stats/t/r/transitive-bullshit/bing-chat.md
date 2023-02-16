@@ -1,10 +1,10 @@
 # transitive-bullshit/bing-chat - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 18
+☋ Forks: 21
 
-★ Stars: 291
+★ Stars: 309
 
 [Open repository](https://github.com/transitive-bullshit/bing-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 309 | 21 | 
 | 2023-02-14 | 291 | 18 | 
 | 2023-02-13 | 259 | 16 | 
 | 2023-02-12 | 233 | 16 | 

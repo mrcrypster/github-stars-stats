@@ -1,10 +1,10 @@
 # cldwalker/logseq-query - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/cldwalker/logseq-query)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 153 | 5 | 
 | 2023-02-14 | 152 | 5 | 
 | 2023-02-13 | 152 | 5 | 
 | 2023-02-12 | 152 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 142 | 5 | 
 | 2023-01-18 | 142 | 5 | 
 | 2023-01-17 | 142 | 5 | 
-| 2023-01-16 | 142 | 5 | 
 

@@ -1,10 +1,10 @@
 # pixelrogueart/fake-3D-pixel-art - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/pixelrogueart/fake-3D-pixel-art)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 12 | - | 
 | 2023-02-14 | 11 | - | 
 

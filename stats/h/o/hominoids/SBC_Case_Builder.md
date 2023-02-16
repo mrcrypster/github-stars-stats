@@ -1,6 +1,6 @@
 # hominoids/SBC_Case_Builder - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 168 | 15 | 
 | 2023-02-14 | 168 | 15 | 
 | 2023-02-13 | 168 | 15 | 
 | 2023-02-11 | 168 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 163 | 14 | 
 | 2023-01-18 | 162 | 14 | 
 | 2023-01-17 | 162 | 14 | 
-| 2023-01-16 | 162 | 14 | 
 

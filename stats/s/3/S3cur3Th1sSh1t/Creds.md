@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/Creds - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 811 | 193 | 
 | 2023-02-14 | 811 | 193 | 
 | 2023-02-13 | 810 | 193 | 
 | 2023-02-12 | 809 | 192 | 

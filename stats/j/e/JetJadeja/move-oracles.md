@@ -1,6 +1,6 @@
 # JetJadeja/move-oracles - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 50 | 2 | 
 | 2023-02-14 | 50 | 2 | 
 | 2023-02-13 | 50 | 2 | 
 | 2023-02-12 | 50 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 49 | 2 | 
 | 2023-01-18 | 49 | 2 | 
 | 2023-01-17 | 49 | 2 | 
-| 2023-01-16 | 49 | 2 | 
 

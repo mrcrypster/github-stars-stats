@@ -1,6 +1,6 @@
 # Shopify/skeleton-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 179 | 54 | 
 | 2023-02-14 | 179 | 54 | 
 | 2023-02-13 | 179 | 54 | 
 | 2023-02-12 | 180 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 180 | 52 | 
 | 2023-01-18 | 180 | 52 | 
 | 2023-01-17 | 180 | 52 | 
-| 2023-01-16 | 180 | 52 | 
 

@@ -1,10 +1,10 @@
 # microsoft/vscode-extension-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 2897
+☋ Forks: 2898
 
-★ Stars: 6584
+★ Stars: 6586
 
 [Open repository](https://github.com/microsoft/vscode-extension-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6586 | 2898 | 
 | 2023-02-14 | 6584 | 2897 | 
 | 2023-02-13 | 6576 | 2893 | 
 | 2023-02-12 | 6574 | 2890 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 6476 | 2847 | 
 | 2023-01-18 | 6476 | 2846 | 
 | 2023-01-17 | 6472 | 2843 | 
-| 2023-01-16 | 6467 | 2840 | 
 

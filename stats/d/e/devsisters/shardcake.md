@@ -1,6 +1,6 @@
 # devsisters/shardcake - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 298 | 17 | 
 | 2023-02-14 | 298 | 17 | 
 | 2023-02-13 | 297 | 17 | 
 | 2023-02-12 | 297 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 291 | 17 | 
 | 2023-01-18 | 291 | 17 | 
 | 2023-01-17 | 290 | 17 | 
-| 2023-01-16 | 287 | 17 | 
 

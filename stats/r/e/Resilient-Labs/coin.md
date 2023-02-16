@@ -1,6 +1,6 @@
 # Resilient-Labs/coin - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 14 | 21 | 
 | 2023-02-14 | 14 | 21 | 
 | 2023-02-13 | 14 | 21 | 
 | 2023-02-12 | 14 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 15 | 21 | 
 | 2023-01-18 | 15 | 21 | 
 | 2023-01-17 | 15 | 21 | 
-| 2023-01-16 | 15 | 21 | 
 

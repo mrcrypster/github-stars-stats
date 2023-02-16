@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 15
 
 ☋ Forks: 1318
 
-★ Stars: 8074
+★ Stars: 8075
 
 [Open repository](https://github.com/heartcombo/simple_form)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-15 | 8074 | 1318 | 
+| 2023-02-15 | 8075 | 1318 | 
 | 2023-02-14 | 8074 | 1318 | 
 | 2023-02-13 | 8072 | 1318 | 
 | 2023-02-12 | 8072 | 1316 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 8059 | 1314 | 
 | 2023-01-18 | 8059 | 1314 | 
 | 2023-01-17 | 8059 | 1314 | 
-| 2023-01-16 | 8057 | 1312 | 
 

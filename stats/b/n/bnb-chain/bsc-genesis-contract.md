@@ -1,6 +1,6 @@
 # bnb-chain/bsc-genesis-contract - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 535
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 410 | 535 | 
 | 2023-02-14 | 410 | 535 | 
 | 2023-02-13 | 410 | 534 | 
 | 2023-02-12 | 410 | 534 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 399 | 523 | 
 | 2023-01-18 | 397 | 522 | 
 | 2023-01-17 | 397 | 521 | 
-| 2023-01-16 | 396 | 521 | 
 

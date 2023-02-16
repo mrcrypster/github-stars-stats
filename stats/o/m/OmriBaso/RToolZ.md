@@ -1,10 +1,10 @@
 # OmriBaso/RToolZ - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 31
 
-★ Stars: 218
+★ Stars: 220
 
 [Open repository](https://github.com/OmriBaso/RToolZ)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 220 | 31 | 
 | 2023-02-14 | 218 | 31 | 
 | 2023-02-13 | 216 | 31 | 
 | 2023-02-12 | 214 | 30 | 

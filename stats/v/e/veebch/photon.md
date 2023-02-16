@@ -1,6 +1,6 @@
 # veebch/photon - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 334 | 19 | 
 | 2023-02-14 | 334 | 19 | 
 | 2023-02-13 | 334 | 19 | 
 | 2023-02-12 | 333 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 290 | 17 | 
 | 2023-01-19 | 290 | 17 | 
 | 2023-01-18 | 288 | 17 | 
-| 2023-01-17 | 288 | 17 | 
 

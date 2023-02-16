@@ -1,10 +1,10 @@
 # obiscr/ChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 278
+★ Stars: 288
 
 [Open repository](https://github.com/obiscr/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 288 | 48 | 
 | 2023-02-14 | 278 | 47 | 
 | 2023-02-13 | 270 | 46 | 
 | 2023-02-12 | 258 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 186 | 23 | 
 | 2023-01-18 | 185 | 23 | 
 | 2023-01-17 | 184 | 23 | 
-| 2023-01-16 | 182 | 22 | 
 

@@ -1,6 +1,6 @@
 # SPX372928/MyIPTV - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1854 | 522 | 
 | 2023-02-14 | 1854 | 522 | 
 | 2023-02-13 | 1852 | 522 | 
 | 2023-02-12 | 1849 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1792 | 502 | 
 | 2023-01-18 | 1789 | 501 | 
 | 2023-01-17 | 1788 | 500 | 
-| 2023-01-16 | 1786 | 499 | 
 

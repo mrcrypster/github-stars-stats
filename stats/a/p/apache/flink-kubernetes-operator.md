@@ -1,8 +1,8 @@
 # apache/flink-kubernetes-operator - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
-☋ Forks: 206
+☋ Forks: 208
 
 ★ Stars: 410
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 410 | 208 | 
 | 2023-02-14 | 410 | 206 | 
 | 2023-02-13 | 409 | 205 | 
 | 2023-02-12 | 407 | 203 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 396 | 193 | 
 | 2023-01-18 | 395 | 189 | 
 | 2023-01-17 | 394 | 188 | 
-| 2023-01-16 | 392 | 188 | 
 

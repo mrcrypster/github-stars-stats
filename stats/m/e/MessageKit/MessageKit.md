@@ -1,10 +1,10 @@
 # MessageKit/MessageKit - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1072
 
-★ Stars: 5424
+★ Stars: 5426
 
 [Open repository](https://github.com/MessageKit/MessageKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5426 | 1072 | 
 | 2023-02-14 | 5424 | 1072 | 
 | 2023-02-13 | 5424 | 1072 | 
 | 2023-02-12 | 5422 | 1071 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5405 | 1065 | 
 | 2023-01-18 | 5405 | 1065 | 
 | 2023-01-17 | 5402 | 1064 | 
-| 2023-01-16 | 5401 | 1064 | 
 

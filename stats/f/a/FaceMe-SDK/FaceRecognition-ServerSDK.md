@@ -1,6 +1,6 @@
 # FaceMe-SDK/FaceRecognition-ServerSDK - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 57 | 69 | 
 | 2023-02-14 | 57 | 69 | 
 | 2023-02-13 | 57 | 69 | 
 | 2023-02-11 | 57 | 69 | 

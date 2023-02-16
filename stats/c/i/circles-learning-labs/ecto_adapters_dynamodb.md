@@ -1,6 +1,6 @@
 # circles-learning-labs/ecto_adapters_dynamodb - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 57 | 14 | 
 | 2023-02-14 | 57 | 14 | 
 | 2023-02-13 | 57 | 14 | 
 | 2023-02-12 | 57 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 57 | 14 | 
 | 2023-01-18 | 57 | 13 | 
 | 2023-01-17 | 57 | 13 | 
-| 2023-01-16 | 56 | 13 | 
 

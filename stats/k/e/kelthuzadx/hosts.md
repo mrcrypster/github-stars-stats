@@ -1,10 +1,10 @@
 # kelthuzadx/hosts - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 7627
 
-★ Stars: 16560
+★ Stars: 16561
 
 [Open repository](https://github.com/kelthuzadx/hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 16561 | 7627 | 
 | 2023-02-14 | 16560 | 7627 | 
 | 2023-02-13 | 16560 | 7627 | 
 | 2023-02-12 | 16560 | 7627 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 16576 | 7631 | 
 | 2023-01-18 | 16576 | 7631 | 
 | 2023-01-17 | 16578 | 7629 | 
-| 2023-01-16 | 16578 | 7630 | 
 

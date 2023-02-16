@@ -1,10 +1,10 @@
 # stefan-jansen/machine-learning-for-trading - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 2765
+☋ Forks: 2768
 
-★ Stars: 7121
+★ Stars: 7131
 
 [Open repository](https://github.com/stefan-jansen/machine-learning-for-trading)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 7131 | 2768 | 
 | 2023-02-14 | 7121 | 2765 | 
 | 2023-02-13 | 7115 | 2762 | 
 | 2023-02-12 | 7102 | 2760 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 6626 | 2681 | 
 | 2023-01-18 | 6616 | 2678 | 
 | 2023-01-17 | 6613 | 2677 | 
-| 2023-01-16 | 6602 | 2674 | 
 

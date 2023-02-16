@@ -1,10 +1,10 @@
 # starikcetin/Eflatun.SceneReference - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 69
+★ Stars: 71
 
 [Open repository](https://github.com/starikcetin/Eflatun.SceneReference)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 71 | 6 | 
 | 2023-02-14 | 69 | 6 | 
 | 2023-02-13 | 69 | 6 | 
 | 2023-02-12 | 66 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 58 | 6 | 
 | 2023-01-18 | 57 | 6 | 
 | 2023-01-17 | 55 | 6 | 
-| 2023-01-16 | 55 | 6 | 
 

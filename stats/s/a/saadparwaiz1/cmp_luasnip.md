@@ -1,6 +1,6 @@
 # saadparwaiz1/cmp_luasnip - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 326 | 21 | 
 | 2023-02-14 | 326 | 21 | 
 | 2023-02-13 | 326 | 21 | 
 | 2023-02-12 | 325 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 308 | 20 | 
 | 2023-01-18 | 308 | 20 | 
 | 2023-01-17 | 306 | 20 | 
-| 2023-01-16 | 306 | 20 | 
 

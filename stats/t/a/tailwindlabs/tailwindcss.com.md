@@ -1,8 +1,8 @@
 # tailwindlabs/tailwindcss.com - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1269
+☋ Forks: 1272
 
 ★ Stars: 2143
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2143 | 1272 | 
 | 2023-02-15 | 2143 | 1269 | 
 | 2023-02-13 | 2141 | 1270 | 
 | 2023-02-12 | 2140 | 1270 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 2109 | 1241 | 
 | 2023-01-18 | 2107 | 1236 | 
 | 2023-01-17 | 2106 | 1237 | 
-| 2023-01-16 | 2103 | 1235 | 
 

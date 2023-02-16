@@ -1,10 +1,10 @@
 # ASML-Labs/PPTX.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/ASML-Labs/PPTX.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 45 | 4 | 
 | 2023-02-14 | 43 | 4 | 
 | 2023-02-13 | 42 | 4 | 
 | 2023-02-12 | 41 | 4 | 

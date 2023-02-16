@@ -1,10 +1,10 @@
 # alexandresanlim/Badges4-README.md-Profile - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1322
+☋ Forks: 1325
 
-★ Stars: 6854
+★ Stars: 6857
 
 [Open repository](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6857 | 1325 | 
 | 2023-02-14 | 6854 | 1322 | 
 | 2023-02-13 | 6850 | 1322 | 
 | 2023-02-12 | 6839 | 1321 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 6641 | 1300 | 
 | 2023-01-18 | 6636 | 1300 | 
 | 2023-01-17 | 6629 | 1300 | 
-| 2023-01-16 | 6623 | 1298 | 
 

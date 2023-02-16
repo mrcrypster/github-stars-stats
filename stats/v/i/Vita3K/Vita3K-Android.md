@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 242
+★ Stars: 294
 
 [Open repository](https://github.com/Vita3K/Vita3K-Android)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-15 | 242 | 6 | 
+| 2023-02-15 | 294 | 6 | 
 | 2023-02-14 | 242 | 6 | 
 

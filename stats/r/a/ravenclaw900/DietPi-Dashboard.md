@@ -1,10 +1,10 @@
 # ravenclaw900/DietPi-Dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 14
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/ravenclaw900/DietPi-Dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 76 | 14 | 
 | 2023-02-14 | 75 | 14 | 
 | 2023-02-13 | 74 | 14 | 
 | 2023-02-11 | 74 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 75 | 13 | 
 | 2023-01-19 | 75 | 13 | 
 | 2023-01-18 | 75 | 13 | 
-| 2023-01-17 | 75 | 13 | 
 

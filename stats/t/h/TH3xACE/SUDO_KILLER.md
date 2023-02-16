@@ -1,6 +1,6 @@
 # TH3xACE/SUDO_KILLER - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 225
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1817 | 225 | 
 | 2023-02-14 | 1817 | 225 | 
 | 2023-02-12 | 1816 | 224 | 
 | 2023-02-11 | 1815 | 224 | 

@@ -1,10 +1,10 @@
 # dagger8224/dagger.js - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 44
 
-★ Stars: 597
+★ Stars: 600
 
 [Open repository](https://github.com/dagger8224/dagger.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 600 | 44 | 
 | 2023-02-14 | 597 | 44 | 
 | 2023-02-13 | 596 | 44 | 
 | 2023-02-12 | 595 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 576 | 42 | 
 | 2023-01-18 | 575 | 42 | 
 | 2023-01-17 | 572 | 42 | 
-| 2023-01-16 | 572 | 42 | 
 

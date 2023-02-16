@@ -1,6 +1,6 @@
 # StarCitizenTools/mediawiki-skins-Citizen - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 106 | 27 | 
 | 2023-02-14 | 106 | 27 | 
 | 2023-02-13 | 106 | 26 | 
 | 2023-02-12 | 106 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 102 | 26 | 
 | 2023-01-19 | 102 | 26 | 
 | 2023-01-18 | 102 | 26 | 
-| 2023-01-17 | 102 | 26 | 
 

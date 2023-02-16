@@ -1,8 +1,8 @@
 # maateusilva/o-poder-do-js-recursos - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 141
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 141 | 66 | 
 | 2023-02-14 | 141 | 65 | 
 | 2023-02-13 | 140 | 65 | 
 | 2023-02-12 | 140 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 139 | 65 | 
 | 2023-01-18 | 139 | 65 | 
 | 2023-01-17 | 139 | 65 | 
-| 2023-01-16 | 139 | 65 | 
 

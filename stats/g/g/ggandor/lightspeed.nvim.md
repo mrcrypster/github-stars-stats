@@ -1,6 +1,6 @@
 # ggandor/lightspeed.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1465 | 29 | 
 | 2023-02-14 | 1465 | 29 | 
 | 2023-02-13 | 1465 | 29 | 
 | 2023-02-12 | 1465 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1457 | 28 | 
 | 2023-01-18 | 1458 | 28 | 
 | 2023-01-17 | 1456 | 28 | 
-| 2023-01-16 | 1456 | 28 | 
 

@@ -1,10 +1,10 @@
 # FedeClaudi/Term.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 26
 
-★ Stars: 360
+★ Stars: 363
 
 [Open repository](https://github.com/FedeClaudi/Term.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 363 | 26 | 
 | 2023-02-14 | 360 | 26 | 
 | 2023-02-13 | 360 | 26 | 
 | 2023-02-12 | 360 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 348 | 26 | 
 | 2023-01-18 | 347 | 26 | 
 | 2023-01-17 | 345 | 26 | 
-| 2023-01-16 | 344 | 26 | 
 

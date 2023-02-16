@@ -1,10 +1,10 @@
 # ruby/rake - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 637
+☋ Forks: 638
 
-★ Stars: 2202
+★ Stars: 2203
 
 [Open repository](https://github.com/ruby/rake)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2203 | 638 | 
 | 2023-02-14 | 2202 | 637 | 
 | 2023-02-13 | 2202 | 637 | 
 | 2023-02-12 | 2200 | 637 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 2191 | 634 | 
 | 2023-01-18 | 2191 | 634 | 
 | 2023-01-17 | 2191 | 634 | 
-| 2023-01-16 | 2191 | 634 | 
 

@@ -1,10 +1,10 @@
 # ckeditor/ckeditor5 - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3251
 
-★ Stars: 6813
+★ Stars: 6824
 
 [Open repository](https://github.com/ckeditor/ckeditor5)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6824 | 3251 | 
 | 2023-02-14 | 6813 | 3251 | 
 | 2023-02-12 | 6782 | 3248 | 
 | 2023-02-11 | 6781 | 3248 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 6737 | 3224 | 
 | 2023-01-18 | 6736 | 3224 | 
 | 2023-01-17 | 6733 | 3222 | 
-| 2023-01-16 | 6727 | 3222 | 
 

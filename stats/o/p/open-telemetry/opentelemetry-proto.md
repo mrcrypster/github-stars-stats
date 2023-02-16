@@ -1,8 +1,8 @@
 # open-telemetry/opentelemetry-proto - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 181
+☋ Forks: 182
 
 ★ Stars: 364
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 364 | 182 | 
 | 2023-02-14 | 364 | 181 | 
 | 2023-02-13 | 363 | 181 | 
 | 2023-02-12 | 362 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 354 | 179 | 
 | 2023-01-18 | 354 | 179 | 
 | 2023-01-17 | 354 | 179 | 
-| 2023-01-16 | 353 | 178 | 
 

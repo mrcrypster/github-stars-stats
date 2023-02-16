@@ -1,10 +1,10 @@
 # awesome-windows11/windows11 - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 47
 
-★ Stars: 617
+★ Stars: 618
 
 [Open repository](https://github.com/awesome-windows11/windows11)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 618 | 47 | 
 | 2023-02-14 | 617 | 47 | 
 | 2023-02-13 | 616 | 47 | 
 | 2023-02-12 | 613 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 569 | 46 | 
 | 2023-01-18 | 568 | 46 | 
 | 2023-01-17 | 563 | 45 | 
-| 2023-01-16 | 559 | 45 | 
 

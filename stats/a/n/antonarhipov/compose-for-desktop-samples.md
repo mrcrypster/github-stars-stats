@@ -1,10 +1,10 @@
 # antonarhipov/compose-for-desktop-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/antonarhipov/compose-for-desktop-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 55 | 3 | 
 | 2023-02-14 | 54 | 3 | 
 | 2023-02-13 | 53 | 3 | 
 | 2023-02-12 | 52 | 3 | 

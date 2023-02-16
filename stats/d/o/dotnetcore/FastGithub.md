@@ -1,10 +1,10 @@
 # dotnetcore/FastGithub - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1546
+☋ Forks: 1549
 
-★ Stars: 11342
+★ Stars: 11352
 
 [Open repository](https://github.com/dotnetcore/FastGithub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 11352 | 1549 | 
 | 2023-02-14 | 11342 | 1546 | 
 | 2023-02-12 | 11324 | 1544 | 
 | 2023-02-11 | 11313 | 1542 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 11000 | 1504 | 
 | 2023-01-19 | 10985 | 1505 | 
 | 2023-01-18 | 10971 | 1503 | 
-| 2023-01-17 | 10963 | 1499 | 
 

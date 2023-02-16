@@ -1,6 +1,6 @@
 # 526avijitgupta/gokarna - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 155 | 66 | 
 | 2023-02-14 | 155 | 66 | 
 | 2023-02-13 | 155 | 66 | 
 | 2023-02-12 | 155 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 147 | 64 | 
 | 2023-01-19 | 147 | 64 | 
 | 2023-01-17 | 146 | 64 | 
-| 2023-01-16 | 147 | 64 | 
 

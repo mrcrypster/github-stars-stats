@@ -1,6 +1,6 @@
 # imajaydwivedi/SQLMonitor - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 39 | 19 | 
 | 2023-02-14 | 39 | 19 | 
 | 2023-02-13 | 38 | 19 | 
 | 2023-02-12 | 38 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 37 | 18 | 
 | 2023-01-18 | 37 | 18 | 
 | 2023-01-17 | 37 | 18 | 
-| 2023-01-16 | 37 | 18 | 
 

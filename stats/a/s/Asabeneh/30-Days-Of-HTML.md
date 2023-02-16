@@ -1,10 +1,10 @@
 # Asabeneh/30-Days-Of-HTML - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 125
 
-★ Stars: 729
+★ Stars: 731
 
 [Open repository](https://github.com/Asabeneh/30-Days-Of-HTML)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 731 | 125 | 
 | 2023-02-14 | 729 | 125 | 
 | 2023-02-13 | 728 | 124 | 
 | 2023-02-12 | 727 | 124 | 

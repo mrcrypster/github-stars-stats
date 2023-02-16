@@ -1,10 +1,10 @@
 # supabase/wrappers - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/supabase/wrappers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 214 | 14 | 
 | 2023-02-15 | 213 | 14 | 
 | 2023-02-13 | 212 | 14 | 
 | 2023-02-12 | 211 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 200 | 13 | 
 | 2023-01-18 | 199 | 13 | 
 | 2023-01-17 | 198 | 13 | 
-| 2023-01-16 | 197 | 13 | 
 

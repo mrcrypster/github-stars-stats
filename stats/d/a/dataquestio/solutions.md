@@ -1,10 +1,10 @@
 # dataquestio/solutions - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 1528
+☋ Forks: 1525
 
-★ Stars: 1086
+★ Stars: 1087
 
 [Open repository](https://github.com/dataquestio/solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1087 | 1525 | 
 | 2023-02-14 | 1086 | 1528 | 
 | 2023-02-13 | 1086 | 1527 | 
 | 2023-02-12 | 1084 | 1525 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1076 | 1514 | 
 | 2023-01-18 | 1075 | 1512 | 
 | 2023-01-17 | 1073 | 1512 | 
-| 2023-01-16 | 1073 | 1511 | 
 

@@ -1,10 +1,10 @@
 # juniorforlife/react-native-animations - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 78
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/juniorforlife/react-native-animations)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 183 | 78 | 
 | 2023-02-14 | 182 | 78 | 
 | 2023-02-13 | 182 | 79 | 
 | 2023-02-12 | 182 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 177 | 77 | 
 | 2023-01-19 | 177 | 77 | 
 | 2023-01-18 | 178 | 77 | 
-| 2023-01-17 | 178 | 77 | 
 

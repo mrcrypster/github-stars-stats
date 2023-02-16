@@ -1,10 +1,10 @@
 # AnanyaKumar/transfer_learning - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/AnanyaKumar/transfer_learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 111 | 10 | 
 | 2023-02-14 | 110 | 10 | 
 | 2023-02-13 | 110 | 10 | 
 | 2023-02-12 | 110 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 107 | 10 | 
 | 2023-01-19 | 107 | 10 | 
 | 2023-01-17 | 107 | 10 | 
-| 2023-01-16 | 106 | 10 | 
 

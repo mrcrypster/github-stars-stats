@@ -1,6 +1,6 @@
 # softprops/hubcat - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 30 | 29 | 
 | 2023-02-15 | 30 | 29 | 
 | 2023-02-13 | 30 | 29 | 
 | 2023-02-12 | 30 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 30 | 29 | 
 | 2023-01-18 | 31 | 29 | 
 | 2023-01-17 | 31 | 29 | 
-| 2023-01-16 | 31 | 29 | 
 

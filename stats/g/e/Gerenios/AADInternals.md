@@ -1,10 +1,10 @@
 # Gerenios/AADInternals - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 145
 
-★ Stars: 702
+★ Stars: 704
 
 [Open repository](https://github.com/Gerenios/AADInternals)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 704 | 145 | 
 | 2023-02-14 | 702 | 145 | 
 | 2023-02-13 | 700 | 144 | 
 | 2023-02-12 | 698 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 663 | 138 | 
 | 2023-01-18 | 657 | 138 | 
 | 2023-01-17 | 654 | 136 | 
-| 2023-01-16 | 653 | 135 | 
 

@@ -1,10 +1,10 @@
 # wasabia/three_dart - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 43
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/wasabia/three_dart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 312 | 43 | 
 | 2023-02-14 | 311 | 43 | 
 | 2023-02-13 | 311 | 43 | 
 | 2023-02-12 | 311 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 300 | 37 | 
 | 2023-01-18 | 298 | 37 | 
 | 2023-01-17 | 298 | 37 | 
-| 2023-01-16 | 297 | 37 | 
 

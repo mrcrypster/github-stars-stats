@@ -1,10 +1,10 @@
 # castwide/solargraph - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 131
 
-★ Stars: 1677
+★ Stars: 1678
 
 [Open repository](https://github.com/castwide/solargraph)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1678 | 131 | 
 | 2023-02-14 | 1677 | 131 | 
 | 2023-02-13 | 1676 | 131 | 
 | 2023-02-12 | 1675 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1668 | 128 | 
 | 2023-01-18 | 1669 | 127 | 
 | 2023-01-17 | 1668 | 127 | 
-| 2023-01-16 | 1667 | 127 | 
 

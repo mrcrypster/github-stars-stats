@@ -1,10 +1,10 @@
 # Thinklab-SJTU/EDA-AI - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/Thinklab-SJTU/EDA-AI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 101 | 27 | 
 | 2023-02-14 | 100 | 26 | 
 | 2023-02-13 | 100 | 26 | 
 | 2023-02-12 | 100 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 93 | 27 | 
 | 2023-01-19 | 93 | 27 | 
 | 2023-01-18 | 93 | 28 | 
-| 2023-01-16 | 93 | 28 | 
 

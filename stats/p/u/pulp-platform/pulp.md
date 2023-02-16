@@ -1,6 +1,6 @@
 # pulp-platform/pulp - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 301 | 91 | 
 | 2023-02-14 | 301 | 91 | 
 | 2023-02-12 | 300 | 91 | 
 | 2023-02-11 | 300 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 297 | 90 | 
 | 2023-01-18 | 296 | 90 | 
 | 2023-01-17 | 295 | 90 | 
-| 2023-01-16 | 294 | 90 | 
 

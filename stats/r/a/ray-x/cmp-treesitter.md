@@ -1,10 +1,10 @@
 # ray-x/cmp-treesitter - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/ray-x/cmp-treesitter)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 138 | 3 | 
+| 2023-02-15 | 138 | 3 | 
 | 2023-02-14 | 137 | 3 | 
 | 2023-02-13 | 137 | 3 | 
 | 2023-02-11 | 137 | 3 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 132 | 3 | 
 | 2023-01-18 | 132 | 3 | 
 | 2023-01-17 | 132 | 3 | 
-| 2023-01-16 | 132 | 3 | 
 

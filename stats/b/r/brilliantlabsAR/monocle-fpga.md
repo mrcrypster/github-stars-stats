@@ -1,10 +1,10 @@
 # brilliantlabsAR/monocle-fpga - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/brilliantlabsAR/monocle-fpga)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 14 | 1 | 
 | 2023-02-14 | 13 | 1 | 
 | 2023-02-13 | 13 | 1 | 
 | 2023-02-12 | 13 | 1 | 

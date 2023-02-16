@@ -1,10 +1,10 @@
 # sqlparser-rs/sqlparser-rs - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 334
 
-★ Stars: 1668
+★ Stars: 1669
 
 [Open repository](https://github.com/sqlparser-rs/sqlparser-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1669 | 334 | 
 | 2023-02-14 | 1668 | 334 | 
 | 2023-02-13 | 1668 | 334 | 
 | 2023-02-12 | 1667 | 334 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1636 | 328 | 
 | 2023-01-18 | 1636 | 328 | 
 | 2023-01-17 | 1634 | 328 | 
-| 2023-01-16 | 1633 | 328 | 
 

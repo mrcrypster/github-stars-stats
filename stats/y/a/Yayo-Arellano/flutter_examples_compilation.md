@@ -1,6 +1,6 @@
 # Yayo-Arellano/flutter_examples_compilation - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 113 | 30 | 
 | 2023-02-14 | 113 | 30 | 
 | 2023-02-13 | 114 | 30 | 
 | 2023-02-12 | 114 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 113 | 28 | 
 | 2023-01-19 | 114 | 28 | 
 | 2023-01-17 | 114 | 28 | 
-| 2023-01-16 | 114 | 28 | 
 

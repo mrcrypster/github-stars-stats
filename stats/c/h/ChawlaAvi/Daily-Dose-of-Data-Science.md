@@ -1,6 +1,6 @@
 # ChawlaAvi/Daily-Dose-of-Data-Science - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 231 | 41 | 
 | 2023-02-14 | 231 | 41 | 
 | 2023-02-13 | 223 | 38 | 
 | 2023-02-12 | 215 | 37 | 

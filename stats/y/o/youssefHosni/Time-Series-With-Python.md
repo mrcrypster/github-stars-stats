@@ -1,10 +1,10 @@
 # youssefHosni/Time-Series-With-Python - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/youssefHosni/Time-Series-With-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 62 | 28 | 
 | 2023-02-14 | 61 | 27 | 
 | 2023-02-13 | 61 | 27 | 
 | 2023-02-12 | 60 | 27 | 

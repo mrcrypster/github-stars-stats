@@ -1,6 +1,6 @@
 # yeahdongcn/UIColor-Hex-Swift - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1214 | 146 | 
 | 2023-02-14 | 1214 | 146 | 
 | 2023-02-13 | 1214 | 146 | 
 | 2023-02-12 | 1214 | 146 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 1206 | 145 | 
 | 2023-01-19 | 1206 | 145 | 
 | 2023-01-18 | 1206 | 145 | 
-| 2023-01-17 | 1202 | 145 | 
 

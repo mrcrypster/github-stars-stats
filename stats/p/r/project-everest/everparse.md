@@ -1,6 +1,6 @@
 # project-everest/everparse - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 190 | 7 | 
 | 2023-02-14 | 190 | 7 | 
 | 2023-02-13 | 190 | 7 | 
 | 2023-02-12 | 190 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 186 | 7 | 
 | 2023-01-19 | 186 | 7 | 
 | 2023-01-18 | 186 | 7 | 
-| 2023-01-17 | 186 | 7 | 
 

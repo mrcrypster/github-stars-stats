@@ -1,6 +1,6 @@
 # imrannissar/Content-discovery - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 78 | 21 | 
 | 2023-02-14 | 78 | 21 | 
 | 2023-02-12 | 78 | 21 | 
 | 2023-02-11 | 78 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 77 | 21 | 
 | 2023-01-18 | 77 | 21 | 
 | 2023-01-17 | 77 | 21 | 
-| 2023-01-16 | 77 | 21 | 
 

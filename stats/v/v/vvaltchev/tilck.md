@@ -1,10 +1,10 @@
 # vvaltchev/tilck - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 82
 
-★ Stars: 1954
+★ Stars: 1955
 
 [Open repository](https://github.com/vvaltchev/tilck)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1955 | 82 | 
 | 2023-02-14 | 1954 | 82 | 
 | 2023-02-13 | 1954 | 82 | 
 | 2023-02-12 | 1954 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1922 | 79 | 
 | 2023-01-18 | 1917 | 79 | 
 | 2023-01-17 | 1914 | 79 | 
-| 2023-01-16 | 1908 | 78 | 
 

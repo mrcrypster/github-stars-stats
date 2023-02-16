@@ -1,10 +1,10 @@
 # Chudry/Xerror - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 102
 
-★ Stars: 436
+★ Stars: 438
 
 [Open repository](https://github.com/Chudry/Xerror)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 438 | 102 | 
 | 2023-02-14 | 436 | 102 | 
 | 2023-02-13 | 436 | 102 | 
 | 2023-02-12 | 436 | 102 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 431 | 100 | 
 | 2023-01-18 | 427 | 100 | 
 | 2023-01-17 | 425 | 100 | 
-| 2023-01-16 | 425 | 100 | 
 

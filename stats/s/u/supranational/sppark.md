@@ -1,6 +1,6 @@
 # supranational/sppark - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 77 | 22 | 
 | 2023-02-14 | 77 | 22 | 
 | 2023-02-13 | 77 | 22 | 
 | 2023-02-12 | 77 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 73 | 20 | 
 | 2023-01-18 | 73 | 20 | 
 | 2023-01-17 | 73 | 20 | 
-| 2023-01-16 | 72 | 20 | 
 

@@ -1,10 +1,10 @@
 # teunbrand/ggh4x - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 24
 
-★ Stars: 387
+★ Stars: 388
 
 [Open repository](https://github.com/teunbrand/ggh4x)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 388 | 24 | 
 | 2023-02-14 | 387 | 24 | 
 | 2023-02-13 | 387 | 24 | 
 | 2023-02-12 | 387 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 382 | 26 | 
 | 2023-01-18 | 382 | 25 | 
 | 2023-01-17 | 382 | 25 | 
-| 2023-01-16 | 382 | 25 | 
 

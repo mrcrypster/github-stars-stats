@@ -1,6 +1,6 @@
 # DreamingInBinary/Spend-Stack-Public - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 165 | 11 | 
 | 2023-02-14 | 165 | 11 | 
 | 2023-02-13 | 165 | 11 | 
 | 2023-02-12 | 164 | 11 | 

@@ -1,10 +1,10 @@
 # QuantEcon/book-networks - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 18
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/QuantEcon/book-networks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 46 | 18 | 
 | 2023-02-14 | 45 | 18 | 
 | 2023-02-12 | 45 | 18 | 
 | 2023-02-11 | 44 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 43 | 17 | 
 | 2023-01-18 | 43 | 17 | 
 | 2023-01-17 | 43 | 17 | 
-| 2023-01-16 | 43 | 17 | 
 

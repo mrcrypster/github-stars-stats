@@ -1,10 +1,10 @@
 # scalessec/Toast-Swift - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 511
 
-★ Stars: 3300
+★ Stars: 3302
 
 [Open repository](https://github.com/scalessec/Toast-Swift)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 3302 | 511 | 
 | 2023-02-14 | 3300 | 511 | 
 | 2023-02-13 | 3299 | 511 | 
 | 2023-02-11 | 3299 | 511 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 3292 | 508 | 
 | 2023-01-18 | 3291 | 508 | 
 | 2023-01-17 | 3291 | 508 | 
-| 2023-01-16 | 3291 | 508 | 
 

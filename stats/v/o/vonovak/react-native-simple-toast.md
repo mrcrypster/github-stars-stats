@@ -1,6 +1,6 @@
 # vonovak/react-native-simple-toast - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 186 | 22 | 
 | 2023-02-14 | 186 | 22 | 
 | 2023-02-13 | 186 | 22 | 
 | 2023-02-12 | 185 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 177 | 21 | 
 | 2023-01-18 | 177 | 21 | 
 | 2023-01-17 | 177 | 21 | 
-| 2023-01-16 | 177 | 21 | 
 

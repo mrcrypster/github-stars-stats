@@ -1,8 +1,8 @@
 # nmelhado/league-page - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 529
+☋ Forks: 530
 
 ★ Stars: 94
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 94 | 530 | 
 | 2023-02-14 | 94 | 529 | 
 | 2023-02-13 | 94 | 529 | 
 | 2023-02-12 | 94 | 529 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 93 | 524 | 
 | 2023-01-18 | 93 | 523 | 
 | 2023-01-17 | 93 | 523 | 
-| 2023-01-16 | 93 | 522 | 
 

@@ -1,6 +1,6 @@
 # alichraghi/zstd.zig - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 17 | - | 
 | 2023-02-14 | 17 | - | 
 | 2023-02-13 | 17 | - | 
 | 2023-02-12 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 17 | - | 
 | 2023-01-18 | 17 | - | 
 | 2023-01-17 | 17 | - | 
-| 2023-01-16 | 17 | - | 
 

@@ -1,10 +1,10 @@
 # stripe/stripe-terminal-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/stripe/stripe-terminal-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 73 | 46 | 
 | 2023-02-14 | 72 | 45 | 
 | 2023-02-13 | 72 | 45 | 
 | 2023-02-12 | 72 | 45 | 

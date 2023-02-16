@@ -1,8 +1,8 @@
 # MIDL-Conference/MIDLLatexTemplate - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 33 | 65 | 
 | 2023-02-14 | 33 | 64 | 
 | 2023-02-13 | 33 | 64 | 
 | 2023-02-12 | 33 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 33 | 66 | 
 | 2023-01-18 | 33 | 66 | 
 | 2023-01-17 | 33 | 66 | 
-| 2023-01-16 | 33 | 66 | 
 

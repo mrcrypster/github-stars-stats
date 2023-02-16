@@ -1,10 +1,10 @@
 # twitter/twitter-server - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 238
 
-★ Stars: 1416
+★ Stars: 1417
 
 [Open repository](https://github.com/twitter/twitter-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1417 | 238 | 
 | 2023-02-14 | 1416 | 238 | 
 | 2023-02-13 | 1416 | 238 | 
 | 2023-02-12 | 1415 | 237 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 1413 | 236 | 
 | 2023-01-19 | 1413 | 236 | 
 | 2023-01-18 | 1413 | 236 | 
-| 2023-01-17 | 1413 | 236 | 
 

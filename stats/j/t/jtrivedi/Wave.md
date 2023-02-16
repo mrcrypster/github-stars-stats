@@ -1,10 +1,10 @@
 # jtrivedi/Wave - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 29
 
-★ Stars: 1441
+★ Stars: 1444
 
 [Open repository](https://github.com/jtrivedi/Wave)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1444 | 29 | 
 | 2023-02-14 | 1441 | 29 | 
 | 2023-02-13 | 1439 | 29 | 
 | 2023-02-12 | 1432 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1338 | 25 | 
 | 2023-01-18 | 1320 | 25 | 
 | 2023-01-17 | 1268 | 25 | 
-| 2023-01-16 | 1202 | 25 | 
 

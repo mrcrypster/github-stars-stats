@@ -1,6 +1,6 @@
 # Creators-of-Create/Create - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 644
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1817 | 644 | 
 | 2023-02-14 | 1817 | 644 | 
 | 2023-02-13 | 1814 | 643 | 
 | 2023-02-12 | 1814 | 643 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 1772 | 623 | 
 | 2023-01-19 | 1767 | 620 | 
 | 2023-01-17 | 1764 | 619 | 
-| 2023-01-16 | 1761 | 619 | 
 

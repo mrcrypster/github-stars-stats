@@ -1,10 +1,10 @@
 # home-assistant/supervised-installer - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 514
+☋ Forks: 515
 
-★ Stars: 1245
+★ Stars: 1247
 
 [Open repository](https://github.com/home-assistant/supervised-installer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 1247 | 515 | 
 | 2023-02-14 | 1245 | 514 | 
 | 2023-02-13 | 1243 | 514 | 
 | 2023-02-12 | 1242 | 514 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 1216 | 513 | 
 | 2023-01-18 | 1212 | 510 | 
 | 2023-01-17 | 1213 | 510 | 
-| 2023-01-16 | 1212 | 510 | 
 

@@ -1,10 +1,10 @@
 # VideoTogether/VideoTogether - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 68
 
-★ Stars: 686
+★ Stars: 687
 
 [Open repository](https://github.com/VideoTogether/VideoTogether)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 687 | 68 | 
 | 2023-02-14 | 686 | 68 | 
 | 2023-02-13 | 686 | 68 | 
 | 2023-02-12 | 683 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 669 | 66 | 
 | 2023-01-18 | 669 | 66 | 
 | 2023-01-17 | 669 | 66 | 
-| 2023-01-16 | 665 | 66 | 
 

@@ -1,6 +1,6 @@
 # jupyterlite/xeus-python-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 20 | 4 | 
 | 2023-02-14 | 20 | 4 | 
 | 2023-02-13 | 20 | 4 | 
 | 2023-02-12 | 20 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 19 | 4 | 
 | 2023-01-18 | 19 | 4 | 
 | 2023-01-17 | 19 | 4 | 
-| 2023-01-16 | 19 | 4 | 
 

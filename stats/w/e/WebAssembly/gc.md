@@ -1,10 +1,10 @@
 # WebAssembly/gc - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 50
 
-★ Stars: 657
+★ Stars: 658
 
 [Open repository](https://github.com/WebAssembly/gc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 658 | 50 | 
 | 2023-02-14 | 657 | 50 | 
 | 2023-02-13 | 657 | 50 | 
 | 2023-02-12 | 657 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 635 | 49 | 
 | 2023-01-18 | 634 | 49 | 
 | 2023-01-17 | 633 | 49 | 
-| 2023-01-16 | 633 | 49 | 
 

@@ -1,10 +1,10 @@
 # cisagov/ESXiArgs-Recover - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 34
+☋ Forks: 36
 
-★ Stars: 243
+★ Stars: 246
 
 [Open repository](https://github.com/cisagov/ESXiArgs-Recover)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 246 | 36 | 
 | 2023-02-14 | 243 | 34 | 
 | 2023-02-13 | 237 | 32 | 
 | 2023-02-12 | 226 | 27 | 

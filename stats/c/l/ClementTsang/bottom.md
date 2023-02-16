@@ -1,10 +1,10 @@
 # ClementTsang/bottom - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 157
 
-★ Stars: 6144
+★ Stars: 6157
 
 [Open repository](https://github.com/ClementTsang/bottom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 6157 | 157 | 
 | 2023-02-14 | 6144 | 157 | 
 | 2023-02-13 | 6136 | 157 | 
 | 2023-02-12 | 6131 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5883 | 151 | 
 | 2023-01-18 | 5881 | 151 | 
 | 2023-01-17 | 5866 | 150 | 
-| 2023-01-16 | 5848 | 150 | 
 

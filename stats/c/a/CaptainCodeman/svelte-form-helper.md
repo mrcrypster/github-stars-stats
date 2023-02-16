@@ -1,10 +1,10 @@
 # CaptainCodeman/svelte-form-helper - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/CaptainCodeman/svelte-form-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 30 | 1 | 
 | 2023-02-14 | 29 | 1 | 
 | 2023-02-13 | 29 | 1 | 
 | 2023-02-12 | 29 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 20 | 1 | 
 | 2023-01-18 | 20 | 1 | 
 | 2023-01-17 | 19 | - | 
-| 2023-01-16 | 19 | - | 
 

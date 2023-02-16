@@ -1,8 +1,8 @@
 # Dorota1997/react-frontend-dev-portfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 445
+☋ Forks: 448
 
 ★ Stars: 672
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 672 | 448 | 
 | 2023-02-14 | 672 | 445 | 
 | 2023-02-13 | 672 | 445 | 
 | 2023-02-12 | 671 | 444 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 642 | 431 | 
 | 2023-01-18 | 643 | 431 | 
 | 2023-01-17 | 642 | 430 | 
-| 2023-01-16 | 642 | 430 | 
 

@@ -1,6 +1,6 @@
 # ros/ros_environment - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2 | 18 | 
+| 2023-02-15 | 2 | 18 | 
 | 2023-02-14 | 2 | 18 | 
 | 2023-02-13 | 2 | 18 | 
 | 2023-02-12 | 2 | 18 | 

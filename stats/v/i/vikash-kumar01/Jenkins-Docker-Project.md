@@ -1,8 +1,8 @@
 # vikash-kumar01/Jenkins-Docker-Project - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5 | 48 | 
 | 2023-02-14 | 5 | 47 | 
 | 2023-02-13 | 4 | 46 | 
 | 2023-02-11 | 4 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 3 | 28 | 
 | 2023-01-18 | 3 | 28 | 
 | 2023-01-17 | 3 | 28 | 
-| 2023-01-16 | 3 | 28 | 
 

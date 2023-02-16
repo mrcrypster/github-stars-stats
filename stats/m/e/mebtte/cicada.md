@@ -1,10 +1,10 @@
 # mebtte/cicada - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 33
 
-★ Stars: 455
+★ Stars: 454
 
 [Open repository](https://github.com/mebtte/cicada)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 454 | 33 | 
 | 2023-02-14 | 455 | 33 | 
 | 2023-02-13 | 455 | 33 | 
 | 2023-02-12 | 453 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 413 | 28 | 
 | 2023-01-19 | 411 | 27 | 
 | 2023-01-18 | 408 | 27 | 
-| 2023-01-17 | 403 | 26 | 
 

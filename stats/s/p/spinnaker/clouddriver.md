@@ -1,6 +1,6 @@
 # spinnaker/clouddriver - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1002
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 400 | 1002 | 
+| 2023-02-15 | 400 | 1003 | 
 | 2023-02-14 | 400 | 1002 | 
 | 2023-02-13 | 401 | 1003 | 
 | 2023-02-12 | 400 | 1003 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 397 | 996 | 
 | 2023-01-18 | 397 | 996 | 
 | 2023-01-17 | 397 | 996 | 
-| 2023-01-16 | 397 | 996 | 
 

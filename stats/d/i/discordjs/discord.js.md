@@ -1,10 +1,10 @@
 # discordjs/discord.js - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 3726
+☋ Forks: 3728
 
-★ Stars: 21805
+★ Stars: 21814
 
 [Open repository](https://github.com/discordjs/discord.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 21814 | 3728 | 
 | 2023-02-14 | 21805 | 3726 | 
 | 2023-02-13 | 21792 | 3728 | 
 | 2023-02-12 | 21789 | 3725 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 21657 | 3691 | 
 | 2023-01-19 | 21651 | 3686 | 
 | 2023-01-18 | 21639 | 3689 | 
-| 2023-01-17 | 21634 | 3685 | 
 

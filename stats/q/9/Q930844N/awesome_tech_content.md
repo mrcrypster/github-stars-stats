@@ -1,6 +1,6 @@
 # Q930844N/awesome_tech_content - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 199 | 30 | 
 | 2023-02-14 | 199 | 30 | 
 | 2023-02-13 | 199 | 30 | 
 | 2023-02-12 | 199 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-20 | 199 | 30 | 
 | 2023-01-19 | 199 | 30 | 
 | 2023-01-18 | 199 | 30 | 
-| 2023-01-16 | 199 | 30 | 
 

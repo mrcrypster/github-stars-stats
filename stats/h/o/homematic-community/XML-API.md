@@ -1,10 +1,10 @@
 # homematic-community/XML-API - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/homematic-community/XML-API)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 106 | 27 | 
 | 2023-02-14 | 105 | 27 | 
 | 2023-02-13 | 105 | 27 | 
 | 2023-02-12 | 105 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 107 | 26 | 
 | 2023-01-18 | 107 | 26 | 
 | 2023-01-17 | 107 | 26 | 
-| 2023-01-16 | 107 | 26 | 
 

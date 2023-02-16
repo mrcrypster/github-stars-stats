@@ -1,10 +1,10 @@
 # urql-graphql/urql - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 389
+☋ Forks: 391
 
-★ Stars: 7809
+★ Stars: 7811
 
 [Open repository](https://github.com/urql-graphql/urql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 7811 | 391 | 
 | 2023-02-14 | 7809 | 389 | 
 | 2023-02-13 | 7809 | 389 | 
 | 2023-02-12 | 7805 | 389 | 

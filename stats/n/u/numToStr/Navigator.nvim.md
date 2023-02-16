@@ -1,6 +1,6 @@
 # numToStr/Navigator.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 265 | 13 | 
 | 2023-02-15 | 265 | 13 | 
 | 2023-02-13 | 265 | 13 | 
 | 2023-02-12 | 265 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-19 | 253 | 12 | 
 | 2023-01-18 | 253 | 12 | 
 | 2023-01-17 | 252 | 12 | 
-| 2023-01-16 | 251 | 12 | 
 

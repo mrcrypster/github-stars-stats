@@ -1,10 +1,10 @@
 # tomnomnom/assetfinder - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 411
 
-★ Stars: 2260
+★ Stars: 2261
 
 [Open repository](https://github.com/tomnomnom/assetfinder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 2261 | 411 | 
 | 2023-02-14 | 2260 | 411 | 
 | 2023-02-13 | 2258 | 411 | 
 | 2023-02-12 | 2256 | 410 | 

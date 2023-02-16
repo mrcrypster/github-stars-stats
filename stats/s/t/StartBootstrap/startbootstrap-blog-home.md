@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-blog-home - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 307
+☋ Forks: 308
 
-★ Stars: 258
+★ Stars: 257
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-blog-home)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 257 | 308 | 
 | 2023-02-14 | 258 | 307 | 
 | 2023-02-13 | 258 | 307 | 
 | 2023-02-12 | 258 | 307 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 258 | 304 | 
 | 2023-01-18 | 258 | 304 | 
 | 2023-01-17 | 258 | 304 | 
-| 2023-01-16 | 258 | 305 | 
 

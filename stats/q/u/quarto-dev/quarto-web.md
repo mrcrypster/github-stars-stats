@@ -1,10 +1,10 @@
 # quarto-dev/quarto-web - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
-☋ Forks: 326
+☋ Forks: 327
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/quarto-dev/quarto-web)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 132 | 327 | 
 | 2023-02-14 | 130 | 326 | 
 | 2023-02-13 | 130 | 326 | 
 | 2023-02-12 | 130 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 123 | 303 | 
 | 2023-01-18 | 123 | 300 | 
 | 2023-01-17 | 121 | 301 | 
-| 2023-01-16 | 120 | 301 | 
 

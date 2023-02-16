@@ -1,10 +1,10 @@
 # jstedfast/MailKit - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 760
 
-★ Stars: 5213
+★ Stars: 5216
 
 [Open repository](https://github.com/jstedfast/MailKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 5216 | 760 | 
 | 2023-02-14 | 5213 | 760 | 
 | 2023-02-13 | 5213 | 760 | 
 | 2023-02-12 | 5213 | 760 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 5173 | 756 | 
 | 2023-01-18 | 5170 | 755 | 
 | 2023-01-17 | 5167 | 754 | 
-| 2023-01-16 | 5166 | 754 | 
 

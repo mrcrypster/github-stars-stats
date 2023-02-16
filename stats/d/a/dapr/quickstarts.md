@@ -1,6 +1,6 @@
 # dapr/quickstarts - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 15
 
 ☋ Forks: 419
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-15 | 854 | 419 | 
 | 2023-02-14 | 854 | 419 | 
 | 2023-02-13 | 852 | 418 | 
 | 2023-02-12 | 852 | 418 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 835 | 405 | 
 | 2023-01-18 | 835 | 405 | 
 | 2023-01-17 | 834 | 405 | 
-| 2023-01-16 | 832 | 404 | 
 

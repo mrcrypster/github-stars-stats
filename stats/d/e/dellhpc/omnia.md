@@ -1,6 +1,6 @@
 # dellhpc/omnia - stars & forks statistics
 
-Stats updated on Feb 2023, 14
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 151 | 81 | 
 | 2023-02-14 | 151 | 81 | 
 | 2023-02-13 | 151 | 81 | 
 | 2023-02-12 | 150 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 14
 | 2023-01-19 | 148 | 79 | 
 | 2023-01-18 | 148 | 79 | 
 | 2023-01-17 | 148 | 79 | 
-| 2023-01-16 | 147 | 79 | 
 
