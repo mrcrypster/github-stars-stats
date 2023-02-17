@@ -1,10 +1,10 @@
 # golang/vscode-go - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 624
+☋ Forks: 626
 
-★ Stars: 3240
+★ Stars: 3242
 
 [Open repository](https://github.com/golang/vscode-go)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3242 | 626 | 
 | 2023-02-15 | 3240 | 624 | 
 | 2023-02-14 | 3240 | 623 | 
 | 2023-02-13 | 3237 | 623 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3192 | 611 | 
 | 2023-01-19 | 3191 | 611 | 
 | 2023-01-18 | 3187 | 609 | 
-| 2023-01-17 | 3184 | 610 | 
 

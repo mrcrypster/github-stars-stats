@@ -1,6 +1,6 @@
 # purescript/purescript-catenable-lists - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 19 | 11 | 
 | 2023-02-16 | 19 | 11 | 
 | 2023-02-14 | 19 | 11 | 
 | 2023-02-13 | 19 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 19 | 11 | 
 | 2023-01-19 | 19 | 11 | 
 | 2023-01-18 | 19 | 11 | 
-| 2023-01-17 | 19 | 11 | 
 

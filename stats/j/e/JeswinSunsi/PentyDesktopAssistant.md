@@ -1,10 +1,10 @@
 # JeswinSunsi/PentyDesktopAssistant - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/JeswinSunsi/PentyDesktopAssistant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 81 | 10 | 
 | 2023-02-15 | 82 | 10 | 
 | 2023-02-14 | 83 | 10 | 
 | 2023-02-12 | 83 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 83 | 10 | 
 | 2023-01-19 | 83 | 10 | 
 | 2023-01-18 | 83 | 10 | 
-| 2023-01-17 | 83 | 10 | 
 

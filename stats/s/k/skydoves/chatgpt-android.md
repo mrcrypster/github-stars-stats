@@ -1,10 +1,10 @@
 # skydoves/chatgpt-android - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 165
+☋ Forks: 170
 
-★ Stars: 1582
+★ Stars: 1618
 
 [Open repository](https://github.com/skydoves/chatgpt-android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1618 | 170 | 
 | 2023-02-15 | 1582 | 165 | 
 | 2023-02-14 | 1555 | 163 | 
 | 2023-02-13 | 1527 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 957 | 93 | 
 | 2023-01-19 | 930 | 93 | 
 | 2023-01-18 | 904 | 89 | 
-| 2023-01-17 | 896 | 89 | 
 

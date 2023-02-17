@@ -1,6 +1,6 @@
 # r-spatial/rgee - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 512 | 135 | 
 | 2023-02-15 | 512 | 135 | 
 | 2023-02-14 | 511 | 135 | 
 | 2023-02-13 | 511 | 135 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 506 | 134 | 
 | 2023-01-19 | 505 | 134 | 
 | 2023-01-18 | 504 | 134 | 
-| 2023-01-17 | 503 | 134 | 
 

@@ -1,6 +1,6 @@
 # lem0nSec/CreateRemoteThreadPlus - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 72 | 10 | 
 | 2023-02-15 | 72 | 10 | 
 | 2023-02-14 | 72 | 10 | 
 | 2023-02-13 | 72 | 10 | 

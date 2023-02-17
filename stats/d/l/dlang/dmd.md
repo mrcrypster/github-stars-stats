@@ -1,10 +1,10 @@
 # dlang/dmd - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 612
 
-★ Stars: 2719
+★ Stars: 2720
 
 [Open repository](https://github.com/dlang/dmd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2720 | 612 | 
 | 2023-02-15 | 2719 | 612 | 
 | 2023-02-14 | 2719 | 612 | 
 | 2023-02-13 | 2718 | 612 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2710 | 611 | 
 | 2023-01-19 | 2708 | 611 | 
 | 2023-01-18 | 2704 | 611 | 
-| 2023-01-17 | 2703 | 612 | 
 

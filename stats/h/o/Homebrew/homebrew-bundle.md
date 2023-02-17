@@ -1,10 +1,10 @@
 # Homebrew/homebrew-bundle - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 287
 
-★ Stars: 4384
+★ Stars: 4385
 
 [Open repository](https://github.com/Homebrew/homebrew-bundle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4385 | 287 | 
 | 2023-02-15 | 4384 | 287 | 
 | 2023-02-14 | 4382 | 287 | 
 | 2023-02-12 | 4382 | 287 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 4350 | 284 | 
 | 2023-01-19 | 4349 | 284 | 
 | 2023-01-18 | 4348 | 284 | 
-| 2023-01-17 | 4345 | 283 | 
 

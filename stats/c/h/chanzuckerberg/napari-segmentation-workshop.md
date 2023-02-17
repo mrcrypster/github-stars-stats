@@ -1,10 +1,10 @@
 # chanzuckerberg/napari-segmentation-workshop - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/chanzuckerberg/napari-segmentation-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3 | 5 | 
 | 2023-02-15 | 2 | 5 | 
 | 2023-02-14 | 2 | 5 | 
 | 2023-02-13 | 2 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2 | 5 | 
 | 2023-01-19 | 2 | 5 | 
 | 2023-01-18 | 1 | 5 | 
-| 2023-01-17 | 1 | 5 | 
 

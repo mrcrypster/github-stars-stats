@@ -1,6 +1,6 @@
 # scambier/obsidian-omnisearch - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 449 | 23 | 
 | 2023-02-15 | 449 | 23 | 
 | 2023-02-14 | 444 | 23 | 
 | 2023-02-13 | 442 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 421 | 23 | 
 | 2023-01-19 | 420 | 23 | 
 | 2023-01-18 | 418 | 23 | 
-| 2023-01-17 | 418 | 23 | 
 

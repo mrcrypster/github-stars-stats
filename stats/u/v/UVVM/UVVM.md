@@ -1,10 +1,10 @@
 # UVVM/UVVM - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 79
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/UVVM/UVVM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 278 | 79 | 
 | 2023-02-15 | 277 | 79 | 
 | 2023-02-14 | 277 | 78 | 
 | 2023-02-13 | 277 | 78 | 

@@ -1,10 +1,10 @@
 # xiaoxian521/vue-pure-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1408
+☋ Forks: 1415
 
-★ Stars: 7115
+★ Stars: 7140
 
 [Open repository](https://github.com/xiaoxian521/vue-pure-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 7140 | 1415 | 
 | 2023-02-15 | 7115 | 1408 | 
 | 2023-02-14 | 7096 | 1400 | 
 | 2023-02-13 | 7076 | 1395 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 6495 | 1299 | 
 | 2023-01-19 | 6470 | 1296 | 
 | 2023-01-18 | 6460 | 1295 | 
-| 2023-01-17 | 6426 | 1289 | 
 

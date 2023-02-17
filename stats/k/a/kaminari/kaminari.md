@@ -1,6 +1,6 @@
 # kaminari/kaminari - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1077
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 8338 | 1077 | 
 | 2023-02-15 | 8338 | 1077 | 
 | 2023-02-14 | 8337 | 1077 | 
 | 2023-02-13 | 8337 | 1077 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 8321 | 1076 | 
 | 2023-01-19 | 8321 | 1076 | 
 | 2023-01-18 | 8321 | 1076 | 
-| 2023-01-17 | 8321 | 1077 | 
 

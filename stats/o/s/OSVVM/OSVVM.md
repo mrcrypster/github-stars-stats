@@ -1,6 +1,6 @@
 # OSVVM/OSVVM - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 51
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 183 | 51 | 
+| 2023-02-16 | 183 | 51 | 
 | 2023-02-15 | 183 | 51 | 
 | 2023-02-14 | 183 | 51 | 
 | 2023-02-13 | 183 | 51 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 182 | 51 | 
 | 2023-01-19 | 182 | 51 | 
 | 2023-01-18 | 182 | 51 | 
-| 2023-01-17 | 182 | 51 | 
 

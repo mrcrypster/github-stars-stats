@@ -1,10 +1,10 @@
 # pgRouting/pgrouting - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 363
 
-★ Stars: 985
+★ Stars: 986
 
 [Open repository](https://github.com/pgRouting/pgrouting)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 986 | 363 | 
 | 2023-02-15 | 985 | 363 | 
 | 2023-02-14 | 985 | 363 | 
 | 2023-02-13 | 984 | 363 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 977 | 361 | 
 | 2023-01-19 | 977 | 361 | 
 | 2023-01-18 | 977 | 361 | 
-| 2023-01-17 | 977 | 361 | 
 

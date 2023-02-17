@@ -1,10 +1,10 @@
 # DamionGans/ubuntu-wsl2-systemd-script - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 354
 
-★ Stars: 1455
+★ Stars: 1456
 
 [Open repository](https://github.com/DamionGans/ubuntu-wsl2-systemd-script)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1456 | 354 | 
 | 2023-02-15 | 1455 | 354 | 
 | 2023-02-14 | 1453 | 355 | 
 | 2023-02-12 | 1454 | 355 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1445 | 352 | 
 | 2023-01-19 | 1444 | 352 | 
 | 2023-01-18 | 1444 | 351 | 
-| 2023-01-17 | 1444 | 351 | 
 

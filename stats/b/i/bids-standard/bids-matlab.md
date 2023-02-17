@@ -1,0 +1,17 @@
+# bids-standard/bids-matlab - stars & forks statistics
+
+Stats updated on Feb 2023, 16
+
+☋ Forks: 26
+
+★ Stars: 40
+
+[Open repository](https://github.com/bids-standard/bids-matlab)
+
+[Open detailed stats for bids-standard/bids-matlab](https://reviewgithub.com/rep/bids-standard/bids-matlab)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-16 | 40 | 26 | 
+

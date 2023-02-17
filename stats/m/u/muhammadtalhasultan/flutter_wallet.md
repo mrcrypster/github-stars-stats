@@ -1,6 +1,6 @@
 # muhammadtalhasultan/flutter_wallet - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 90 | 43 | 
 | 2023-02-15 | 90 | 43 | 
 | 2023-02-14 | 90 | 43 | 
 | 2023-02-13 | 90 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 90 | 43 | 
 | 2023-01-20 | 90 | 43 | 
 | 2023-01-19 | 90 | 43 | 
-| 2023-01-18 | 90 | 43 | 
 

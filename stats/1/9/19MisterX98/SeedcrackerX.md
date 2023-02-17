@@ -1,6 +1,6 @@
 # 19MisterX98/SeedcrackerX - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 525 | 72 | 
 | 2023-02-15 | 525 | 72 | 
 | 2023-02-14 | 525 | 72 | 
 | 2023-02-13 | 525 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 502 | 70 | 
 | 2023-01-19 | 502 | 70 | 
 | 2023-01-18 | 501 | 70 | 
-| 2023-01-17 | 501 | 70 | 
 

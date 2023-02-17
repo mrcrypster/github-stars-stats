@@ -1,10 +1,10 @@
 # REDMED-X/OperatorsKit - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 151
+★ Stars: 157
 
 [Open repository](https://github.com/REDMED-X/OperatorsKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 157 | 25 | 
 | 2023-02-15 | 151 | 24 | 
 | 2023-02-14 | 149 | 22 | 
 | 2023-02-13 | 144 | 21 | 

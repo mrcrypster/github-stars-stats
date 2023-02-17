@@ -1,6 +1,6 @@
 # fubark/cosmic - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 266 | 10 | 
 | 2023-02-15 | 266 | 10 | 
 | 2023-02-14 | 265 | 10 | 
 | 2023-02-13 | 265 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 257 | 10 | 
 | 2023-01-19 | 255 | 10 | 
 | 2023-01-18 | 255 | 10 | 
-| 2023-01-17 | 254 | 10 | 
 

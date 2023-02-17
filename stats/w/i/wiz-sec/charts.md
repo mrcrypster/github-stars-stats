@@ -1,10 +1,10 @@
 # wiz-sec/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/wiz-sec/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3 | 3 | 
 | 2023-02-15 | 2 | 3 | 
 | 2023-02-14 | 2 | 3 | 
 | 2023-02-13 | 2 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2 | 4 | 
 | 2023-01-19 | 2 | 4 | 
 | 2023-01-18 | 2 | 4 | 
-| 2023-01-17 | 2 | 4 | 
 

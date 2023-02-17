@@ -1,10 +1,10 @@
 # kissgyorgy/redbean-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 18
 
-★ Stars: 309
+★ Stars: 311
 
 [Open repository](https://github.com/kissgyorgy/redbean-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 311 | 18 | 
 | 2023-02-15 | 309 | 18 | 
 | 2023-02-14 | 309 | 18 | 
 | 2023-02-13 | 308 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 275 | 13 | 
 | 2023-01-19 | 274 | 13 | 
 | 2023-01-18 | 271 | 13 | 
-| 2023-01-17 | 268 | 13 | 
 

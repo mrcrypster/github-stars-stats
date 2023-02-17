@@ -1,6 +1,6 @@
 # microsoft/vscode-cpptools - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1455
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4965 | 1455 | 
 | 2023-02-15 | 4965 | 1455 | 
 | 2023-02-14 | 4964 | 1453 | 
 | 2023-02-13 | 4964 | 1454 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 4928 | 1447 | 
 | 2023-01-19 | 4922 | 1446 | 
 | 2023-01-18 | 4922 | 1447 | 
-| 2023-01-17 | 4919 | 1447 | 
 

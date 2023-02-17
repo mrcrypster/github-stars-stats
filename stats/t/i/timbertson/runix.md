@@ -1,6 +1,6 @@
 # timbertson/runix - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 51 | - | 
 | 2023-02-15 | 51 | - | 
 | 2023-02-14 | 50 | - | 
 | 2023-02-12 | 50 | - | 

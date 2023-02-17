@@ -1,10 +1,10 @@
 # adoptium/jenkins-helper - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 21
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/adoptium/jenkins-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6 | 21 | 
 | 2023-02-16 | 7 | 21 | 
 | 2023-02-14 | 7 | 21 | 
 | 2023-02-13 | 7 | 21 | 

@@ -1,10 +1,10 @@
 # Paraworks/vits_with_chatgpt-gpt3 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 24
 
-★ Stars: 151
+★ Stars: 158
 
 [Open repository](https://github.com/Paraworks/vits_with_chatgpt-gpt3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 158 | 24 | 
 | 2023-02-15 | 151 | 24 | 
 | 2023-02-14 | 148 | 21 | 
 | 2023-02-13 | 145 | 20 | 

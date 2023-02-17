@@ -1,8 +1,8 @@
 # patrickloeber/chatbot-deployment - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 195
+☋ Forks: 194
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 121 | 194 | 
 | 2023-02-15 | 121 | 195 | 
 | 2023-02-14 | 121 | 193 | 
 | 2023-02-13 | 120 | 192 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 110 | 189 | 
 | 2023-01-19 | 110 | 188 | 
 | 2023-01-18 | 110 | 188 | 
-| 2023-01-17 | 110 | 188 | 
 

@@ -1,6 +1,6 @@
 # gvwilson/11-techbook - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 25 | - | 
 | 2023-02-15 | 25 | - | 
 | 2023-02-14 | 25 | - | 
 | 2023-02-13 | 25 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 23 | - | 
 | 2023-01-19 | 23 | - | 
 | 2023-01-18 | 23 | - | 
-| 2023-01-17 | 23 | - | 
 

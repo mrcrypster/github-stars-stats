@@ -1,6 +1,6 @@
 # microsoft/OpenXR-Unity-MixedReality-Samples - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 160 | 52 | 
 | 2023-02-15 | 160 | 52 | 
 | 2023-02-14 | 160 | 51 | 
 | 2023-02-13 | 160 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 151 | 50 | 
 | 2023-01-19 | 150 | 50 | 
 | 2023-01-18 | 149 | 50 | 
-| 2023-01-17 | 149 | 50 | 
 

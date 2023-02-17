@@ -1,8 +1,8 @@
 # codewithbas/resume - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 9 | 6 | 
 | 2023-02-15 | 9 | 7 | 
 | 2023-02-14 | 9 | 7 | 
 | 2023-02-13 | 8 | 7 | 

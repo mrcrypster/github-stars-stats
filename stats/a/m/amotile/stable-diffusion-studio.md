@@ -1,6 +1,6 @@
 # amotile/stable-diffusion-studio - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 446 | 28 | 
 | 2023-02-15 | 446 | 28 | 
 | 2023-02-14 | 445 | 28 | 
 | 2023-02-13 | 445 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 439 | 27 | 
 | 2023-01-19 | 437 | 27 | 
 | 2023-01-18 | 437 | 27 | 
-| 2023-01-17 | 437 | 27 | 
 

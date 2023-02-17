@@ -1,8 +1,8 @@
 # adelguen/L2IRS1 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
-☋ Forks: 5
+☋ Forks: 7
 
 ★ Stars: 2
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2 | 7 | 
+| 2023-02-16 | 2 | 7 | 
 | 2023-02-15 | 2 | 5 | 
 | 2023-02-14 | 2 | 5 | 
 

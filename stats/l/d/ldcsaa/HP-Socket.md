@@ -1,10 +1,10 @@
 # ldcsaa/HP-Socket - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1701
 
-★ Stars: 5078
+★ Stars: 5077
 
 [Open repository](https://github.com/ldcsaa/HP-Socket)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5077 | 1701 | 
 | 2023-02-15 | 5078 | 1701 | 
 | 2023-02-14 | 5077 | 1702 | 
 | 2023-02-13 | 5072 | 1701 | 

@@ -1,10 +1,10 @@
 # AhMyth/AhMyth-Android-RAT - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1540
 
-★ Stars: 3546
+★ Stars: 3547
 
 [Open repository](https://github.com/AhMyth/AhMyth-Android-RAT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3547 | 1540 | 
 | 2023-02-15 | 3546 | 1540 | 
 | 2023-02-14 | 3546 | 1540 | 
 | 2023-02-13 | 3546 | 1540 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3508 | 1533 | 
 | 2023-01-19 | 3507 | 1533 | 
 | 2023-01-18 | 3505 | 1533 | 
-| 2023-01-17 | 3504 | 1531 | 
 

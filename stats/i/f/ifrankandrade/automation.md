@@ -1,10 +1,10 @@
 # ifrankandrade/automation - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 231
+☋ Forks: 233
 
-★ Stars: 396
+★ Stars: 397
 
 [Open repository](https://github.com/ifrankandrade/automation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 397 | 233 | 
 | 2023-02-15 | 396 | 231 | 
 | 2023-02-14 | 396 | 231 | 
 | 2023-02-13 | 394 | 229 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 371 | 221 | 
 | 2023-01-20 | 368 | 219 | 
 | 2023-01-19 | 364 | 218 | 
-| 2023-01-18 | 361 | 216 | 
 

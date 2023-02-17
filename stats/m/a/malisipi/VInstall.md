@@ -1,0 +1,18 @@
+# malisipi/VInstall - stars & forks statistics
+
+Stats updated on Feb 2023, 17
+
+☋ Forks: 2
+
+★ Stars: 24
+
+[Open repository](https://github.com/malisipi/VInstall)
+
+[Open detailed stats for malisipi/VInstall](https://reviewgithub.com/rep/malisipi/VInstall)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-17 | 24 | 2 | 
+| 2023-02-16 | 24 | 2 | 
+

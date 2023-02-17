@@ -1,8 +1,8 @@
 # OliverBrotchie/CSS-Fingerprint - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 241
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 241 | 18 | 
 | 2023-02-15 | 241 | 17 | 
 | 2023-02-14 | 241 | 17 | 
 | 2023-02-13 | 241 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 235 | 16 | 
 | 2023-01-19 | 234 | 16 | 
 | 2023-01-18 | 232 | 17 | 
-| 2023-01-17 | 230 | 16 | 
 

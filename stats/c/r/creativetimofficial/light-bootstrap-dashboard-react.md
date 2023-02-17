@@ -1,8 +1,8 @@
 # creativetimofficial/light-bootstrap-dashboard-react - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 550
+☋ Forks: 552
 
 ★ Stars: 696
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 696 | 552 | 
 | 2023-02-15 | 696 | 550 | 
 | 2023-02-14 | 696 | 547 | 
 | 2023-02-12 | 696 | 546 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 690 | 515 | 
 | 2023-01-19 | 690 | 514 | 
 | 2023-01-18 | 690 | 513 | 
-| 2023-01-17 | 690 | 513 | 
 

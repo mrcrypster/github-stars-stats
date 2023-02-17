@@ -1,10 +1,10 @@
 # hackerxphantom/XPHISHER - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 8
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/hackerxphantom/XPHISHER)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 38 | 8 | 
 | 2023-02-15 | 37 | 8 | 
 | 2023-02-14 | 37 | 8 | 
 | 2023-02-13 | 37 | 8 | 

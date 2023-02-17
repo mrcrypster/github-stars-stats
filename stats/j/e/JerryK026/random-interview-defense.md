@@ -1,10 +1,10 @@
 # JerryK026/random-interview-defense - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 15
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/JerryK026/random-interview-defense)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 110 | 15 | 
 | 2023-02-15 | 109 | 15 | 
 | 2023-02-14 | 109 | 15 | 
 | 2023-02-13 | 107 | 15 | 

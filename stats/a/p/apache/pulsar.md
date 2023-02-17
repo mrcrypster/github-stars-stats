@@ -1,10 +1,10 @@
 # apache/pulsar - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 3211
+☋ Forks: 3212
 
-★ Stars: 12309
+★ Stars: 12313
 
 [Open repository](https://github.com/apache/pulsar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 12313 | 3212 | 
 | 2023-02-15 | 12309 | 3211 | 
 | 2023-02-14 | 12308 | 3209 | 
 | 2023-02-13 | 12303 | 3207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 12200 | 3193 | 
 | 2023-01-20 | 12194 | 3193 | 
 | 2023-01-19 | 12193 | 3193 | 
-| 2023-01-17 | 12184 | 3191 | 
 

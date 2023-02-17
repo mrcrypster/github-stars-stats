@@ -1,6 +1,6 @@
 # bennettfeely/ztext - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 288 | 16 | 
 | 2023-02-15 | 288 | 16 | 
 | 2023-02-14 | 287 | 16 | 
 | 2023-02-13 | 286 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 280 | 16 | 
 | 2023-01-20 | 280 | 16 | 
 | 2023-01-19 | 280 | 16 | 
-| 2023-01-17 | 279 | 16 | 
 

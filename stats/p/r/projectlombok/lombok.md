@@ -1,10 +1,10 @@
 # projectlombok/lombok - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 2216
+☋ Forks: 2215
 
-★ Stars: 11771
+★ Stars: 11774
 
 [Open repository](https://github.com/projectlombok/lombok)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 11774 | 2215 | 
 | 2023-02-15 | 11771 | 2216 | 
 | 2023-02-14 | 11768 | 2214 | 
 | 2023-02-13 | 11764 | 2213 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 11721 | 2204 | 
 | 2023-01-19 | 11717 | 2206 | 
 | 2023-01-18 | 11709 | 2206 | 
-| 2023-01-17 | 11711 | 2205 | 
 

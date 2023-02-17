@@ -1,10 +1,10 @@
 # muhammadtalhasultan/flutter_animations - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/muhammadtalhasultan/flutter_animations)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 32 | 10 | 
 | 2023-02-15 | 31 | 10 | 
 | 2023-02-14 | 31 | 10 | 
 | 2023-02-13 | 31 | 10 | 

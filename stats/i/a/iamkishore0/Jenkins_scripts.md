@@ -1,6 +1,6 @@
 # iamkishore0/Jenkins_scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1 | 17 | 
 | 2023-02-15 | 1 | 17 | 
 | 2023-02-14 | 1 | 16 | 
 | 2023-02-13 | 1 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1 | 16 | 
 | 2023-01-20 | 1 | 16 | 
 | 2023-01-19 | 1 | 16 | 
-| 2023-01-18 | 1 | 16 | 
 

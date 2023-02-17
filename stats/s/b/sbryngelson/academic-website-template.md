@@ -1,6 +1,6 @@
 # sbryngelson/academic-website-template - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 59 | 86 | 
 | 2023-02-15 | 59 | 86 | 
 | 2023-02-14 | 59 | 86 | 
 | 2023-02-13 | 58 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 50 | 80 | 
 | 2023-01-19 | 50 | 79 | 
 | 2023-01-18 | 49 | 79 | 
-| 2023-01-17 | 49 | 79 | 
 

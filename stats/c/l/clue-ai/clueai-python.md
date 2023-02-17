@@ -1,10 +1,10 @@
 # clue-ai/clueai-python - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 175
+★ Stars: 177
 
 [Open repository](https://github.com/clue-ai/clueai-python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 177 | 22 | 
 | 2023-02-15 | 175 | 22 | 
 | 2023-02-14 | 171 | 22 | 
 | 2023-02-13 | 168 | 21 | 

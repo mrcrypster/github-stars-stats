@@ -1,10 +1,10 @@
 # cnlohr/epaper_projects - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 13
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/cnlohr/epaper_projects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 117 | 13 | 
 | 2023-02-15 | 116 | 13 | 
 | 2023-02-14 | 116 | 13 | 
 | 2023-02-13 | 116 | 13 | 

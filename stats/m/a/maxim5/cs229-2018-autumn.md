@@ -1,6 +1,6 @@
 # maxim5/cs229-2018-autumn - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 399
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 746 | 399 | 
 | 2023-02-15 | 746 | 399 | 
 | 2023-02-14 | 745 | 399 | 
 | 2023-02-13 | 745 | 399 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 727 | 391 | 
 | 2023-01-20 | 727 | 391 | 
 | 2023-01-19 | 726 | 391 | 
-| 2023-01-18 | 725 | 391 | 
 

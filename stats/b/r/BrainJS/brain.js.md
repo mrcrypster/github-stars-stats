@@ -1,10 +1,10 @@
 # BrainJS/brain.js - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1074
+☋ Forks: 1073
 
-★ Stars: 13531
+★ Stars: 13530
 
 [Open repository](https://github.com/BrainJS/brain.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 13530 | 1073 | 
 | 2023-02-15 | 13531 | 1074 | 
 | 2023-02-14 | 13530 | 1074 | 
 | 2023-02-13 | 13527 | 1074 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 13473 | 1071 | 
 | 2023-01-19 | 13472 | 1071 | 
 | 2023-01-18 | 13471 | 1071 | 
-| 2023-01-17 | 13471 | 1070 | 
 

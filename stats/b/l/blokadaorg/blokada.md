@@ -1,10 +1,10 @@
 # blokadaorg/blokada - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 205
+☋ Forks: 204
 
-★ Stars: 2834
+★ Stars: 2833
 
 [Open repository](https://github.com/blokadaorg/blokada)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2833 | 204 | 
 | 2023-02-15 | 2834 | 205 | 
 | 2023-02-14 | 2835 | 205 | 
 | 2023-02-13 | 2834 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2831 | 205 | 
 | 2023-01-19 | 2827 | 204 | 
 | 2023-01-18 | 2825 | 203 | 
-| 2023-01-17 | 2826 | 203 | 
 

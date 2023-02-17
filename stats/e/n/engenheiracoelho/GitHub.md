@@ -1,10 +1,10 @@
 # engenheiracoelho/GitHub - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 88
+★ Stars: 87
 
 [Open repository](https://github.com/engenheiracoelho/GitHub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 87 | 5 | 
 | 2023-02-15 | 88 | 5 | 
 | 2023-02-14 | 88 | 5 | 
 | 2023-02-13 | 88 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 88 | 5 | 
 | 2023-01-19 | 88 | 5 | 
 | 2023-01-18 | 88 | 5 | 
-| 2023-01-17 | 88 | 5 | 
 

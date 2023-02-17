@@ -1,10 +1,10 @@
 # focus-creative-games/huatuo_trial - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 99
 
-★ Stars: 320
+★ Stars: 323
 
 [Open repository](https://github.com/focus-creative-games/huatuo_trial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 323 | 99 | 
 | 2023-02-15 | 320 | 99 | 
 | 2023-02-14 | 320 | 99 | 
 | 2023-02-13 | 317 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 280 | 92 | 
 | 2023-01-19 | 280 | 92 | 
 | 2023-01-18 | 279 | 92 | 
-| 2023-01-17 | 278 | 92 | 
 

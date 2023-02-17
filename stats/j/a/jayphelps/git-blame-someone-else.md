@@ -1,10 +1,10 @@
 # jayphelps/git-blame-someone-else - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 245
 
-★ Stars: 9561
+★ Stars: 9563
 
 [Open repository](https://github.com/jayphelps/git-blame-someone-else)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 9563 | 245 | 
 | 2023-02-15 | 9561 | 245 | 
 | 2023-02-14 | 9561 | 245 | 
 | 2023-02-13 | 9559 | 245 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 9538 | 244 | 
 | 2023-01-20 | 9539 | 244 | 
 | 2023-01-19 | 9539 | 244 | 
-| 2023-01-18 | 9538 | 244 | 
 

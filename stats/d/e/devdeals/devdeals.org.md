@@ -1,6 +1,6 @@
 # devdeals/devdeals.org - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 136 | 64 | 
 | 2023-02-15 | 136 | 64 | 
 | 2023-02-14 | 136 | 64 | 
 | 2023-02-13 | 136 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 144 | 64 | 
 | 2023-01-20 | 144 | 64 | 
 | 2023-01-19 | 146 | 64 | 
-| 2023-01-18 | 144 | 64 | 
 

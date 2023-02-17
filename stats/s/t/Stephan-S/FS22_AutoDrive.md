@@ -1,6 +1,6 @@
 # Stephan-S/FS22_AutoDrive - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 456 | 92 | 
 | 2023-02-15 | 456 | 92 | 
 | 2023-02-14 | 455 | 92 | 
 | 2023-02-13 | 455 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 453 | 91 | 
 | 2023-01-19 | 453 | 91 | 
 | 2023-01-18 | 453 | 91 | 
-| 2023-01-17 | 453 | 91 | 
 

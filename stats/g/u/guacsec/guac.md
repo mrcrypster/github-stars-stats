@@ -1,10 +1,10 @@
 # guacsec/guac - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 66
 
-★ Stars: 714
+★ Stars: 720
 
 [Open repository](https://github.com/guacsec/guac)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 720 | 66 | 
 | 2023-02-15 | 714 | 66 | 
 | 2023-02-14 | 714 | 65 | 
 | 2023-02-13 | 714 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 688 | 61 | 
 | 2023-01-19 | 688 | 60 | 
 | 2023-01-18 | 687 | 60 | 
-| 2023-01-17 | 687 | 61 | 
 

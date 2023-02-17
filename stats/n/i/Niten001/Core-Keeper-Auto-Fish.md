@@ -1,6 +1,6 @@
 # Niten001/Core-Keeper-Auto-Fish - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 11 | 6 | 
 | 2023-02-15 | 11 | 6 | 
 | 2023-02-14 | 11 | 6 | 
 | 2023-02-13 | 11 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 10 | 5 | 
 | 2023-01-20 | 10 | 5 | 
 | 2023-01-19 | 10 | 5 | 
-| 2023-01-18 | 10 | 5 | 
 

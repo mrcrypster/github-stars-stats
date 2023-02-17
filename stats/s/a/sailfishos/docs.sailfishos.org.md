@@ -1,6 +1,6 @@
 # sailfishos/docs.sailfishos.org - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 10 | 24 | 
 | 2023-02-15 | 10 | 24 | 
 | 2023-02-14 | 10 | 24 | 
 | 2023-02-13 | 10 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 11 | 22 | 
 | 2023-01-20 | 11 | 21 | 
 | 2023-01-19 | 11 | 21 | 
-| 2023-01-17 | 11 | 21 | 
 

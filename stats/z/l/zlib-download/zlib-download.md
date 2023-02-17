@@ -1,6 +1,6 @@
 # zlib-download/zlib-download - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 202 | 6 | 
 | 2023-02-15 | 202 | 6 | 
 | 2023-02-14 | 202 | 6 | 
 | 2023-02-13 | 202 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 200 | 6 | 
 | 2023-01-19 | 200 | 6 | 
 | 2023-01-18 | 200 | 6 | 
-| 2023-01-17 | 200 | 6 | 
 

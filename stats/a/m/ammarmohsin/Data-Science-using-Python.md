@@ -1,6 +1,6 @@
 # ammarmohsin/Data-Science-using-Python - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 23 | 7 | 
 | 2023-02-15 | 23 | 7 | 
 | 2023-02-14 | 23 | 7 | 
 | 2023-02-13 | 23 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 23 | 7 | 
 | 2023-01-19 | 23 | 7 | 
 | 2023-01-18 | 23 | 7 | 
-| 2023-01-17 | 23 | 7 | 
 

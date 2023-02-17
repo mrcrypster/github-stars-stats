@@ -1,10 +1,10 @@
 # uptrain-ai/uptrain - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 828
+★ Stars: 862
 
 [Open repository](https://github.com/uptrain-ai/uptrain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 862 | 83 | 
 | 2023-02-16 | 828 | 82 | 
 | 2023-02-15 | 825 | 76 | 
 | 2023-02-13 | 808 | 74 | 

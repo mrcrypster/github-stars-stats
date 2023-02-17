@@ -1,10 +1,10 @@
 # EmpireAssatoken/Pancakeswap-Predcition-Bot-new-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 130
+☋ Forks: 131
 
-★ Stars: 222
+★ Stars: 246
 
 [Open repository](https://github.com/EmpireAssatoken/Pancakeswap-Predcition-Bot-new-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 246 | 131 | 
 | 2023-02-15 | 222 | 130 | 
 | 2023-02-14 | 222 | 130 | 
 | 2023-02-13 | 218 | 130 | 

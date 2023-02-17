@@ -1,6 +1,6 @@
 # LucaCanali/sparkMeasure - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 529 | 122 | 
 | 2023-02-15 | 529 | 122 | 
 | 2023-02-14 | 529 | 122 | 
 | 2023-02-13 | 528 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 522 | 121 | 
 | 2023-01-19 | 521 | 121 | 
 | 2023-01-18 | 521 | 121 | 
-| 2023-01-17 | 521 | 121 | 
 

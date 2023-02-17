@@ -1,6 +1,6 @@
 # cbourke/ComputerScienceI - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 88 | 196 | 
 | 2023-02-15 | 88 | 196 | 
 | 2023-02-14 | 88 | 196 | 
 | 2023-02-13 | 88 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 87 | 196 | 
 | 2023-01-19 | 87 | 196 | 
 | 2023-01-18 | 87 | 196 | 
-| 2023-01-17 | 87 | 196 | 
 

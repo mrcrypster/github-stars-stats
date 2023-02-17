@@ -1,10 +1,10 @@
 # OpenZeppelin/damn-vulnerable-defi - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 828
+☋ Forks: 829
 
-★ Stars: 540
+★ Stars: 541
 
 [Open repository](https://github.com/OpenZeppelin/damn-vulnerable-defi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 541 | 829 | 
 | 2023-02-15 | 540 | 828 | 
 | 2023-02-14 | 540 | 828 | 
 | 2023-02-13 | 540 | 827 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 531 | 792 | 
 | 2023-01-19 | 531 | 791 | 
 | 2023-01-18 | 530 | 791 | 
-| 2023-01-17 | 530 | 790 | 
 

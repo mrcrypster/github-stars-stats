@@ -1,10 +1,10 @@
 # qeeqbox/social-analyzer - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 764
+☋ Forks: 765
 
-★ Stars: 9743
+★ Stars: 9749
 
 [Open repository](https://github.com/qeeqbox/social-analyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 9749 | 765 | 
 | 2023-02-15 | 9743 | 764 | 
 | 2023-02-14 | 9737 | 764 | 
 | 2023-02-13 | 9733 | 764 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 9672 | 754 | 
 | 2023-01-19 | 9667 | 753 | 
 | 2023-01-18 | 9667 | 753 | 
-| 2023-01-17 | 9664 | 753 | 
 

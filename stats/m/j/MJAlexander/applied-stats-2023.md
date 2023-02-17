@@ -1,8 +1,8 @@
 # MJAlexander/applied-stats-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3 | 8 | 
 | 2023-02-15 | 3 | 7 | 
 | 2023-02-14 | 3 | 7 | 
 | 2023-02-13 | 2 | 7 | 

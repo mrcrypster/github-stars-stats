@@ -1,6 +1,6 @@
 # manjaro/manjaro-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 105 | 23 | 
 | 2023-02-15 | 105 | 23 | 
 | 2023-02-14 | 104 | 23 | 
 | 2023-02-13 | 103 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 95 | 20 | 
 | 2023-01-20 | 95 | 20 | 
 | 2023-01-19 | 95 | 20 | 
-| 2023-01-18 | 95 | 20 | 
 

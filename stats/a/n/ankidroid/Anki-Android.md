@@ -1,10 +1,10 @@
 # ankidroid/Anki-Android - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1846
 
-★ Stars: 6025
+★ Stars: 6029
 
 [Open repository](https://github.com/ankidroid/Anki-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 6029 | 1846 | 
 | 2023-02-15 | 6025 | 1846 | 
 | 2023-02-14 | 6018 | 1843 | 
 | 2023-02-13 | 6018 | 1843 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 5897 | 1801 | 
 | 2023-01-19 | 5894 | 1797 | 
 | 2023-01-18 | 5892 | 1797 | 
-| 2023-01-17 | 5887 | 1795 | 
 

@@ -1,6 +1,6 @@
 # clojure-lsp/homebrew-brew - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 16 | 5 | 
 | 2023-02-15 | 16 | 5 | 
 | 2023-02-14 | 16 | 5 | 
 | 2023-02-13 | 16 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 16 | 5 | 
 | 2023-01-19 | 16 | 5 | 
 | 2023-01-18 | 16 | 5 | 
-| 2023-01-17 | 16 | 5 | 
 

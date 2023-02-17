@@ -1,10 +1,10 @@
 # GDQuest/godot-visual-effects - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 35
 
-★ Stars: 576
+★ Stars: 577
 
 [Open repository](https://github.com/GDQuest/godot-visual-effects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 577 | 35 | 
 | 2023-02-15 | 576 | 35 | 
 | 2023-02-14 | 575 | 35 | 
 | 2023-02-13 | 573 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 564 | 35 | 
 | 2023-01-19 | 564 | 35 | 
 | 2023-01-18 | 564 | 35 | 
-| 2023-01-17 | 563 | 35 | 
 

@@ -1,10 +1,10 @@
 # hsutter/cppfront - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 147
 
-★ Stars: 3504
+★ Stars: 3508
 
 [Open repository](https://github.com/hsutter/cppfront)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3508 | 147 | 
 | 2023-02-16 | 3504 | 147 | 
 | 2023-02-15 | 3500 | 147 | 
 | 2023-02-13 | 3495 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 3383 | 144 | 
 | 2023-01-19 | 3377 | 144 | 
 | 2023-01-18 | 3368 | 143 | 
-| 2023-01-17 | 3361 | 143 | 
 

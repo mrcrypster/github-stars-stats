@@ -1,8 +1,8 @@
 # aeternity/aeternity - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 236
+☋ Forks: 235
 
 ★ Stars: 1029
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1029 | 235 | 
 | 2023-02-15 | 1029 | 236 | 
 | 2023-02-14 | 1028 | 236 | 
 | 2023-02-13 | 1028 | 236 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1027 | 236 | 
 | 2023-01-19 | 1027 | 236 | 
 | 2023-01-18 | 1027 | 236 | 
-| 2023-01-17 | 1027 | 236 | 
 

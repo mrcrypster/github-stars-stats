@@ -1,10 +1,10 @@
 # Sayi/poi-tl - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 831
+☋ Forks: 833
 
-★ Stars: 3104
+★ Stars: 3109
 
 [Open repository](https://github.com/Sayi/poi-tl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3109 | 833 | 
 | 2023-02-15 | 3104 | 831 | 
 | 2023-02-14 | 3103 | 831 | 
 | 2023-02-13 | 3099 | 831 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3063 | 828 | 
 | 2023-01-19 | 3062 | 827 | 
 | 2023-01-18 | 3061 | 827 | 
-| 2023-01-17 | 3060 | 827 | 
 

@@ -1,10 +1,10 @@
 # neomutt/neomutt - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 268
 
-★ Stars: 2703
+★ Stars: 2705
 
 [Open repository](https://github.com/neomutt/neomutt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2705 | 268 | 
 | 2023-02-15 | 2703 | 268 | 
 | 2023-02-14 | 2700 | 269 | 
 | 2023-02-13 | 2696 | 268 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2673 | 268 | 
 | 2023-01-19 | 2673 | 268 | 
 | 2023-01-18 | 2672 | 267 | 
-| 2023-01-17 | 2672 | 267 | 
 

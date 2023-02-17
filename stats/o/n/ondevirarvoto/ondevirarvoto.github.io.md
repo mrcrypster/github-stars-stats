@@ -1,6 +1,6 @@
 # ondevirarvoto/ondevirarvoto.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 29 | 9 | 
 | 2023-02-15 | 29 | 9 | 
 | 2023-02-14 | 29 | 9 | 
 | 2023-02-13 | 29 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 28 | 9 | 
 | 2023-01-19 | 28 | 9 | 
 | 2023-01-18 | 28 | 9 | 
-| 2023-01-17 | 28 | 9 | 
 

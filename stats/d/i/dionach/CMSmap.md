@@ -1,10 +1,10 @@
 # dionach/CMSmap - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 229
 
-★ Stars: 774
+★ Stars: 776
 
 [Open repository](https://github.com/dionach/CMSmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 776 | 229 | 
 | 2023-02-15 | 774 | 229 | 
 | 2023-02-14 | 774 | 229 | 
 | 2023-02-13 | 774 | 228 | 

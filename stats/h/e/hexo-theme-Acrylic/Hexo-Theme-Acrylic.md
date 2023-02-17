@@ -1,10 +1,10 @@
 # hexo-theme-Acrylic/Hexo-Theme-Acrylic - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 15
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 36 | 15 | 
 | 2023-02-15 | 34 | 15 | 
 | 2023-02-14 | 34 | 14 | 
 | 2023-02-13 | 28 | 13 | 

@@ -1,10 +1,10 @@
 # dotnet/EntityFramework.Docs - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1834
+☋ Forks: 1836
 
-★ Stars: 1360
+★ Stars: 1361
 
 [Open repository](https://github.com/dotnet/EntityFramework.Docs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1361 | 1836 | 
 | 2023-02-15 | 1360 | 1834 | 
 | 2023-02-14 | 1360 | 1835 | 
 | 2023-02-13 | 1356 | 1834 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1340 | 1816 | 
 | 2023-01-19 | 1339 | 1815 | 
 | 2023-01-18 | 1336 | 1814 | 
-| 2023-01-17 | 1333 | 1812 | 
 

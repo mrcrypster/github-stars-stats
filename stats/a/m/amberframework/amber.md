@@ -1,6 +1,6 @@
 # amberframework/amber - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2462 | 186 | 
 | 2023-02-15 | 2462 | 186 | 
 | 2023-02-14 | 2461 | 186 | 
 | 2023-02-12 | 2460 | 186 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2451 | 185 | 
 | 2023-01-19 | 2451 | 185 | 
 | 2023-01-18 | 2451 | 185 | 
-| 2023-01-17 | 2451 | 185 | 
 

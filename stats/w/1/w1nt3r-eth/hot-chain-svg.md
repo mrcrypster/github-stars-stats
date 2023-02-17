@@ -1,10 +1,10 @@
 # w1nt3r-eth/hot-chain-svg - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 376
+★ Stars: 377
 
 [Open repository](https://github.com/w1nt3r-eth/hot-chain-svg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 377 | 44 | 
 | 2023-02-15 | 376 | 43 | 
 | 2023-02-14 | 376 | 43 | 
 | 2023-02-13 | 376 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 366 | 43 | 
 | 2023-01-19 | 366 | 43 | 
 | 2023-01-18 | 366 | 43 | 
-| 2023-01-17 | 366 | 43 | 
 

@@ -1,6 +1,6 @@
 # sunset-wasteland/sunset-wasteland - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 13 | 86 | 
 | 2023-02-15 | 13 | 86 | 
 | 2023-02-14 | 13 | 86 | 
 | 2023-02-12 | 13 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 13 | 86 | 
 | 2023-01-19 | 13 | 86 | 
 | 2023-01-18 | 13 | 86 | 
-| 2023-01-17 | 13 | 86 | 
 

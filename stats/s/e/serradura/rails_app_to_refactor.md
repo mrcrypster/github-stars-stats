@@ -1,10 +1,10 @@
 # serradura/rails_app_to_refactor - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 13
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/serradura/rails_app_to_refactor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 30 | 13 | 
 | 2023-02-15 | 28 | 13 | 
 | 2023-02-14 | 28 | 13 | 
 | 2023-02-13 | 27 | 12 | 

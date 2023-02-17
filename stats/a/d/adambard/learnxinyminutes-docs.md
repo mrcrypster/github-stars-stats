@@ -1,10 +1,10 @@
 # adambard/learnxinyminutes-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 3075
+☋ Forks: 3077
 
-★ Stars: 10435
+★ Stars: 10436
 
 [Open repository](https://github.com/adambard/learnxinyminutes-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 10436 | 3077 | 
 | 2023-02-15 | 10435 | 3075 | 
 | 2023-02-14 | 10432 | 3074 | 
 | 2023-02-13 | 10423 | 3074 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 10385 | 3057 | 
 | 2023-01-20 | 10383 | 3058 | 
 | 2023-01-19 | 10382 | 3059 | 
-| 2023-01-17 | 10378 | 3059 | 
 

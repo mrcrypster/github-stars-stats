@@ -1,6 +1,6 @@
 # Shubhamlmp/Programming-Practice - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 58 | 164 | 
 | 2023-02-15 | 58 | 164 | 
 | 2023-02-14 | 58 | 164 | 
 | 2023-02-13 | 58 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 58 | 165 | 
 | 2023-01-19 | 58 | 165 | 
 | 2023-01-18 | 58 | 165 | 
-| 2023-01-17 | 58 | 165 | 
 

@@ -1,10 +1,10 @@
 # cjyaddone/ChatWaifu - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 29
 
-★ Stars: 255
+★ Stars: 257
 
 [Open repository](https://github.com/cjyaddone/ChatWaifu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 257 | 29 | 
 | 2023-02-15 | 255 | 29 | 
 | 2023-02-14 | 253 | 29 | 
 | 2023-02-13 | 246 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 168 | 18 | 
 | 2023-01-20 | 165 | 17 | 
 | 2023-01-19 | 164 | 17 | 
-| 2023-01-17 | 160 | 16 | 
 

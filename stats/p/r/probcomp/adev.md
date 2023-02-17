@@ -1,10 +1,10 @@
 # probcomp/adev - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 43
 
 [Open repository](https://github.com/probcomp/adev)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 43 | - | 
 | 2023-02-15 | 31 | - | 
 | 2023-02-14 | 29 | - | 
 | 2023-02-13 | 28 | - | 

@@ -1,10 +1,10 @@
 # ethereum/research - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 405
+☋ Forks: 406
 
-★ Stars: 1572
+★ Stars: 1573
 
 [Open repository](https://github.com/ethereum/research)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1573 | 406 | 
 | 2023-02-15 | 1572 | 405 | 
 | 2023-02-14 | 1572 | 400 | 
 | 2023-02-13 | 1571 | 397 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1551 | 363 | 
 | 2023-01-20 | 1551 | 363 | 
 | 2023-01-19 | 1551 | 363 | 
-| 2023-01-17 | 1550 | 363 | 
 

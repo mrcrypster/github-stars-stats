@@ -1,10 +1,10 @@
 # tokio-rs/mio - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 637
 
-★ Stars: 5336
+★ Stars: 5337
 
 [Open repository](https://github.com/tokio-rs/mio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5337 | 637 | 
 | 2023-02-15 | 5336 | 637 | 
 | 2023-02-14 | 5331 | 636 | 
 | 2023-02-13 | 5329 | 636 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 5294 | 629 | 
 | 2023-01-20 | 5293 | 629 | 
 | 2023-01-19 | 5291 | 629 | 
-| 2023-01-18 | 5289 | 629 | 
 

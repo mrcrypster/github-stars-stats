@@ -1,10 +1,10 @@
 # WebGoat/WebGoat - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 3605
+☋ Forks: 3610
 
-★ Stars: 5422
+★ Stars: 5424
 
 [Open repository](https://github.com/WebGoat/WebGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5424 | 3610 | 
 | 2023-02-15 | 5422 | 3605 | 
 | 2023-02-14 | 5419 | 3600 | 
 | 2023-02-13 | 5417 | 3600 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 5380 | 3545 | 
 | 2023-01-20 | 5381 | 3544 | 
 | 2023-01-19 | 5380 | 3542 | 
-| 2023-01-18 | 5378 | 3541 | 
 

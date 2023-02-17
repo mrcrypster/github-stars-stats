@@ -1,10 +1,10 @@
 # WasmEdge/WasmEdge - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 474
+☋ Forks: 475
 
-★ Stars: 5388
+★ Stars: 5399
 
 [Open repository](https://github.com/WasmEdge/WasmEdge)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5399 | 475 | 
 | 2023-02-15 | 5388 | 474 | 
 | 2023-02-14 | 5377 | 473 | 
 | 2023-02-13 | 5367 | 473 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 5235 | 459 | 
 | 2023-01-20 | 5226 | 458 | 
 | 2023-01-19 | 5219 | 458 | 
-| 2023-01-18 | 5214 | 458 | 
 

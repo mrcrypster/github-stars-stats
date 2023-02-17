@@ -1,8 +1,8 @@
 # JavaOPs/topjava - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 2931
+☋ Forks: 2932
 
 ★ Stars: 281
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 281 | 2932 | 
 | 2023-02-15 | 281 | 2931 | 
 | 2023-02-14 | 281 | 2931 | 
 | 2023-02-13 | 281 | 2932 | 

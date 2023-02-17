@@ -1,10 +1,10 @@
 # antoniosarosi/Wallpapers - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 84
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/antoniosarosi/Wallpapers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 387 | 84 | 
 | 2023-02-15 | 386 | 84 | 
 | 2023-02-14 | 386 | 84 | 
 | 2023-02-13 | 386 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 383 | 82 | 
 | 2023-01-20 | 382 | 82 | 
 | 2023-01-19 | 382 | 82 | 
-| 2023-01-17 | 381 | 82 | 
 

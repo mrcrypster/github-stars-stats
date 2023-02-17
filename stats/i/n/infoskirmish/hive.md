@@ -1,6 +1,6 @@
 # infoskirmish/hive - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 126 | 43 | 
 | 2023-02-15 | 126 | 43 | 
 | 2023-02-14 | 124 | 42 | 
 | 2023-02-13 | 124 | 42 | 

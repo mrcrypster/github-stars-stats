@@ -1,8 +1,8 @@
 # mahmoud/awesome-python-applications - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 2487
+☋ Forks: 2488
 
 ★ Stars: 14279
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 14279 | 2488 | 
 | 2023-02-15 | 14279 | 2487 | 
 | 2023-02-14 | 14277 | 2486 | 
 | 2023-02-13 | 14275 | 2486 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 14210 | 2479 | 
 | 2023-01-19 | 14206 | 2479 | 
 | 2023-01-18 | 14201 | 2478 | 
-| 2023-01-17 | 14200 | 2478 | 
 

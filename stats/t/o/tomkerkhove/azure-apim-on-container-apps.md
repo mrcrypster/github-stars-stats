@@ -1,6 +1,6 @@
 # tomkerkhove/azure-apim-on-container-apps - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 51 | 9 | 
 | 2023-02-15 | 51 | 9 | 
 | 2023-02-14 | 51 | 9 | 
 | 2023-02-12 | 51 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 49 | 8 | 
 | 2023-01-19 | 49 | 8 | 
 | 2023-01-18 | 49 | 8 | 
-| 2023-01-17 | 49 | 8 | 
 

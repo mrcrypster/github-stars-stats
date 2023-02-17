@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 16
 
 ☋ Forks: 406
 
-★ Stars: 303
+★ Stars: 302
 
 [Open repository](https://github.com/JuliaLang/www.julialang.org)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-16 | 303 | 406 | 
+| 2023-02-16 | 302 | 406 | 
 | 2023-02-15 | 303 | 406 | 
 | 2023-02-14 | 303 | 405 | 
 | 2023-02-13 | 302 | 404 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 299 | 399 | 
 | 2023-01-19 | 299 | 398 | 
 | 2023-01-18 | 299 | 398 | 
-| 2023-01-17 | 300 | 396 | 
 

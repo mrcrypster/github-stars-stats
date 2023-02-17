@@ -1,10 +1,10 @@
 # fzakaria/nix-harden-needed - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/fzakaria/nix-harden-needed)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 24 | 3 | 
 | 2023-02-15 | 23 | 3 | 
 | 2023-02-14 | 23 | 3 | 
 | 2023-02-13 | 23 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 22 | 3 | 
 | 2023-01-20 | 22 | 3 | 
 | 2023-01-19 | 22 | 3 | 
-| 2023-01-18 | 22 | 3 | 
 

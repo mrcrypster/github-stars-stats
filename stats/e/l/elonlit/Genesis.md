@@ -1,10 +1,10 @@
 # elonlit/Genesis - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 1083
+★ Stars: 1085
 
 [Open repository](https://github.com/elonlit/Genesis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1085 | 19 | 
 | 2023-02-15 | 1083 | 19 | 
 | 2023-02-14 | 1083 | 19 | 
 | 2023-02-13 | 1084 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1080 | 18 | 
 | 2023-01-19 | 1080 | 18 | 
 | 2023-01-18 | 1080 | 18 | 
-| 2023-01-17 | 1080 | 18 | 
 

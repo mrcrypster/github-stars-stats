@@ -1,10 +1,10 @@
 # Blackymas/NSPanel_HA_Blueprint - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 309
+★ Stars: 315
 
 [Open repository](https://github.com/Blackymas/NSPanel_HA_Blueprint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 315 | 58 | 
 | 2023-02-15 | 309 | 57 | 
 | 2023-02-14 | 305 | 57 | 
 | 2023-02-13 | 300 | 56 | 

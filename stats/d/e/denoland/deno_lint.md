@@ -1,8 +1,8 @@
 # denoland/deno_lint - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 143
+☋ Forks: 145
 
 ★ Stars: 1399
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1399 | 145 | 
 | 2023-02-15 | 1399 | 143 | 
 | 2023-02-14 | 1398 | 143 | 
 | 2023-02-12 | 1398 | 143 | 

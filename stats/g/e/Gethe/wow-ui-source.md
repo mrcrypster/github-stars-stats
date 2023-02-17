@@ -1,10 +1,10 @@
 # Gethe/wow-ui-source - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 97
 
-★ Stars: 441
+★ Stars: 442
 
 [Open repository](https://github.com/Gethe/wow-ui-source)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 442 | 97 | 
 | 2023-02-15 | 441 | 97 | 
 | 2023-02-14 | 440 | 97 | 
 | 2023-02-13 | 438 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 431 | 93 | 
 | 2023-01-19 | 430 | 93 | 
 | 2023-01-18 | 430 | 93 | 
-| 2023-01-17 | 430 | 93 | 
 

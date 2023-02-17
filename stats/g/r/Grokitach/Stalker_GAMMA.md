@@ -1,6 +1,6 @@
 # Grokitach/Stalker_GAMMA - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 321 | 71 | 
 | 2023-02-15 | 321 | 71 | 
 | 2023-02-14 | 321 | 71 | 
 | 2023-02-13 | 320 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 296 | 64 | 
 | 2023-01-19 | 296 | 64 | 
 | 2023-01-18 | 294 | 63 | 
-| 2023-01-17 | 293 | 62 | 
 

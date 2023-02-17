@@ -1,6 +1,6 @@
 # xdebug/xdebug - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 544
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2813 | 544 | 
 | 2023-02-15 | 2813 | 544 | 
 | 2023-02-14 | 2811 | 544 | 
 | 2023-02-13 | 2811 | 544 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2787 | 542 | 
 | 2023-01-19 | 2786 | 542 | 
 | 2023-01-18 | 2785 | 541 | 
-| 2023-01-17 | 2784 | 541 | 
 

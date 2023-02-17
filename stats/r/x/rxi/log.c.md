@@ -1,10 +1,10 @@
 # rxi/log.c - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
-☋ Forks: 401
+☋ Forks: 402
 
-★ Stars: 1784
+★ Stars: 1787
 
 [Open repository](https://github.com/rxi/log.c)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1787 | 402 | 
 | 2023-02-15 | 1784 | 401 | 
 | 2023-02-14 | 1784 | 400 | 
 | 2023-02-13 | 1784 | 400 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1762 | 396 | 
 | 2023-01-19 | 1760 | 395 | 
 | 2023-01-18 | 1760 | 395 | 
-| 2023-01-17 | 1759 | 395 | 
 

@@ -1,6 +1,6 @@
 # apache/cordova-plugin-inappbrowser - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2079
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1081 | 2079 | 
 | 2023-02-15 | 1081 | 2079 | 
 | 2023-02-14 | 1080 | 2079 | 
 | 2023-02-13 | 1079 | 2080 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1074 | 2080 | 
 | 2023-01-19 | 1074 | 2080 | 
 | 2023-01-18 | 1074 | 2079 | 
-| 2023-01-17 | 1073 | 2079 | 
 

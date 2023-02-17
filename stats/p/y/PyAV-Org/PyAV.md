@@ -1,10 +1,10 @@
 # PyAV-Org/PyAV - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 302
 
-★ Stars: 1792
+★ Stars: 1794
 
 [Open repository](https://github.com/PyAV-Org/PyAV)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1794 | 302 | 
 | 2023-02-15 | 1792 | 302 | 
 | 2023-02-14 | 1792 | 302 | 
 | 2023-02-13 | 1789 | 302 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1767 | 301 | 
 | 2023-01-19 | 1767 | 301 | 
 | 2023-01-18 | 1766 | 300 | 
-| 2023-01-17 | 1766 | 300 | 
 

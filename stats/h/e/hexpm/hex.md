@@ -1,8 +1,8 @@
 # hexpm/hex - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 179
+☋ Forks: 180
 
 ★ Stars: 876
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 876 | 180 | 
 | 2023-02-15 | 876 | 179 | 
 | 2023-02-14 | 876 | 179 | 
 | 2023-02-13 | 876 | 179 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 873 | 178 | 
 | 2023-01-19 | 873 | 178 | 
 | 2023-01-18 | 873 | 178 | 
-| 2023-01-17 | 873 | 178 | 
 

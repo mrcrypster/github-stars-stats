@@ -1,6 +1,6 @@
 # timber/timber - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 501
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5197 | 501 | 
 | 2023-02-15 | 5197 | 501 | 
 | 2023-02-14 | 5196 | 501 | 
 | 2023-02-13 | 5195 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 5179 | 500 | 
 | 2023-01-19 | 5177 | 500 | 
 | 2023-01-18 | 5177 | 500 | 
-| 2023-01-17 | 5176 | 500 | 
 

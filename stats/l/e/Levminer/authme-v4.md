@@ -1,6 +1,6 @@
 # Levminer/authme-v4 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 20 | 2 | 
 | 2023-02-15 | 20 | 2 | 
 | 2023-02-14 | 20 | 2 | 
 | 2023-02-13 | 20 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 20 | 2 | 
 | 2023-01-20 | 20 | 2 | 
 | 2023-01-19 | 20 | 2 | 
-| 2023-01-17 | 20 | 2 | 
 

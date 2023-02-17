@@ -1,10 +1,10 @@
 # design-tokens/community-group - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 55
 
-★ Stars: 1131
+★ Stars: 1134
 
 [Open repository](https://github.com/design-tokens/community-group)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1134 | 55 | 
 | 2023-02-15 | 1131 | 55 | 
 | 2023-02-14 | 1127 | 55 | 
 | 2023-02-13 | 1121 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1093 | 54 | 
 | 2023-01-19 | 1089 | 54 | 
 | 2023-01-18 | 1085 | 54 | 
-| 2023-01-17 | 1084 | 53 | 
 

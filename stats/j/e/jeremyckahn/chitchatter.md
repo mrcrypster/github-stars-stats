@@ -1,6 +1,6 @@
 # jeremyckahn/chitchatter - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 755 | 59 | 
 | 2023-02-15 | 755 | 59 | 
 | 2023-02-14 | 755 | 58 | 
 | 2023-02-13 | 755 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 734 | 52 | 
 | 2023-01-19 | 734 | 52 | 
 | 2023-01-18 | 734 | 52 | 
-| 2023-01-17 | 734 | 52 | 
 

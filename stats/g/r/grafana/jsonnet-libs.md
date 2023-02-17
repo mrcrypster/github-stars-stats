@@ -1,10 +1,10 @@
 # grafana/jsonnet-libs - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 131
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/grafana/jsonnet-libs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 487 | 131 | 
 | 2023-02-15 | 486 | 131 | 
 | 2023-02-14 | 486 | 131 | 
 | 2023-02-12 | 486 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 482 | 128 | 
 | 2023-01-19 | 482 | 128 | 
 | 2023-01-18 | 482 | 128 | 
-| 2023-01-17 | 482 | 128 | 
 

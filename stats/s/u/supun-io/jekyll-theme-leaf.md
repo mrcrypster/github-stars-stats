@@ -1,8 +1,8 @@
 # supun-io/jekyll-theme-leaf - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 488
+☋ Forks: 489
 
 ★ Stars: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 99 | 489 | 
 | 2023-02-15 | 99 | 488 | 
 | 2023-02-14 | 99 | 488 | 
 | 2023-02-13 | 99 | 488 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 96 | 481 | 
 | 2023-01-19 | 95 | 481 | 
 | 2023-01-18 | 95 | 480 | 
-| 2023-01-17 | 95 | 480 | 
 

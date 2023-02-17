@@ -1,8 +1,8 @@
 # Jaysmito101/TerraForge3D - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 74
+☋ Forks: 75
 
 ★ Stars: 712
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 712 | 75 | 
 | 2023-02-15 | 712 | 74 | 
 | 2023-02-14 | 713 | 74 | 
 | 2023-02-13 | 712 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 698 | 68 | 
 | 2023-01-19 | 698 | 68 | 
 | 2023-01-18 | 698 | 68 | 
-| 2023-01-17 | 698 | 68 | 
 

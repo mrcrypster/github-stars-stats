@@ -1,10 +1,10 @@
 # kenbyte/rbloom - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/kenbyte/rbloom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 96 | 1 | 
 | 2023-02-15 | 94 | 1 | 
 | 2023-02-14 | 94 | 1 | 
 | 2023-02-13 | 94 | 1 | 

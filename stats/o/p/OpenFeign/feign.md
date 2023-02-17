@@ -1,10 +1,10 @@
 # OpenFeign/feign - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 1785
 
-★ Stars: 8617
+★ Stars: 8620
 
 [Open repository](https://github.com/OpenFeign/feign)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 8620 | 1785 | 
 | 2023-02-15 | 8617 | 1785 | 
 | 2023-02-14 | 8613 | 1785 | 
 | 2023-02-13 | 8611 | 1785 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 8555 | 1776 | 
 | 2023-01-19 | 8555 | 1776 | 
 | 2023-01-18 | 8554 | 1775 | 
-| 2023-01-17 | 8552 | 1775 | 
 

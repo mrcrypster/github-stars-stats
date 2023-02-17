@@ -1,10 +1,10 @@
 # sshuttle/sshuttle - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 637
+☋ Forks: 635
 
-★ Stars: 9589
+★ Stars: 9592
 
 [Open repository](https://github.com/sshuttle/sshuttle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 9592 | 635 | 
 | 2023-02-15 | 9589 | 637 | 
 | 2023-02-14 | 9581 | 637 | 
 | 2023-02-13 | 9577 | 636 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 9482 | 627 | 
 | 2023-01-19 | 9479 | 628 | 
 | 2023-01-18 | 9473 | 628 | 
-| 2023-01-17 | 9468 | 627 | 
 

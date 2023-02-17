@@ -1,8 +1,8 @@
 # sgentle/caniuse-cmd - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 1566
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1566 | 52 | 
 | 2023-02-15 | 1566 | 53 | 
 | 2023-02-14 | 1566 | 53 | 
 | 2023-02-13 | 1566 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1562 | 53 | 
 | 2023-01-20 | 1562 | 53 | 
 | 2023-01-19 | 1562 | 53 | 
-| 2023-01-17 | 1562 | 53 | 
 

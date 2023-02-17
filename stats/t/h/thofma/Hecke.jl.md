@@ -1,6 +1,6 @@
 # thofma/Hecke.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 158 | 52 | 
 | 2023-02-16 | 158 | 52 | 
 | 2023-02-14 | 158 | 52 | 
 | 2023-02-13 | 158 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 157 | 52 | 
 | 2023-01-19 | 157 | 52 | 
 | 2023-01-18 | 157 | 52 | 
-| 2023-01-17 | 157 | 52 | 
 

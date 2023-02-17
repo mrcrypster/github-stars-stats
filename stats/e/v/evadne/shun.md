@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 53
 
 [Open repository](https://github.com/evadne/shun)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-16 | 50 | 2 | 
+| 2023-02-16 | 53 | 2 | 
 | 2023-02-15 | 50 | 2 | 
 

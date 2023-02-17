@@ -1,10 +1,10 @@
 # MortezaBashsiz/CFScanner - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 67
+☋ Forks: 69
 
-★ Stars: 344
+★ Stars: 371
 
 [Open repository](https://github.com/MortezaBashsiz/CFScanner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 371 | 69 | 
 | 2023-02-15 | 344 | 67 | 
 | 2023-02-14 | 330 | 66 | 
 | 2023-02-13 | 312 | 64 | 

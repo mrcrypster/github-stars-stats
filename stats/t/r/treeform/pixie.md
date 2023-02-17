@@ -1,10 +1,10 @@
 # treeform/pixie - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 27
+☋ Forks: 26
 
-★ Stars: 624
+★ Stars: 623
 
 [Open repository](https://github.com/treeform/pixie)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 623 | 26 | 
 | 2023-02-15 | 624 | 27 | 
 | 2023-02-14 | 624 | 27 | 
 | 2023-02-12 | 624 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 609 | 27 | 
 | 2023-01-20 | 609 | 27 | 
 | 2023-01-19 | 608 | 27 | 
-| 2023-01-17 | 605 | 27 | 
 

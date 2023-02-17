@@ -1,10 +1,10 @@
 # aldostools/webMAN-MOD - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 160
 
-★ Stars: 917
+★ Stars: 918
 
 [Open repository](https://github.com/aldostools/webMAN-MOD)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 918 | 160 | 
 | 2023-02-15 | 917 | 160 | 
 | 2023-02-14 | 916 | 160 | 
 | 2023-02-13 | 916 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 903 | 158 | 
 | 2023-01-19 | 902 | 158 | 
 | 2023-01-18 | 903 | 158 | 
-| 2023-01-17 | 899 | 158 | 
 

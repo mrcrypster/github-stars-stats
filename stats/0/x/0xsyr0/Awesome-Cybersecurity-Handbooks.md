@@ -1,6 +1,6 @@
 # 0xsyr0/Awesome-Cybersecurity-Handbooks - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 418 | 55 | 
 | 2023-02-15 | 418 | 55 | 
 | 2023-02-14 | 416 | 55 | 
 | 2023-02-13 | 414 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 222 | 29 | 
 | 2023-01-19 | 222 | 29 | 
 | 2023-01-18 | 222 | 29 | 
-| 2023-01-17 | 221 | 29 | 
 

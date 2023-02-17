@@ -1,10 +1,10 @@
 # vernemq/vernemq - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 362
 
-★ Stars: 2942
+★ Stars: 2943
 
 [Open repository](https://github.com/vernemq/vernemq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2943 | 362 | 
 | 2023-02-15 | 2942 | 362 | 
 | 2023-02-14 | 2940 | 364 | 
 | 2023-02-13 | 2939 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2930 | 360 | 
 | 2023-01-19 | 2930 | 361 | 
 | 2023-01-18 | 2930 | 361 | 
-| 2023-01-17 | 2929 | 361 | 
 

@@ -1,10 +1,10 @@
 # secure-77/Perlite - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 44
 
-★ Stars: 442
+★ Stars: 445
 
 [Open repository](https://github.com/secure-77/Perlite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 445 | 44 | 
 | 2023-02-15 | 442 | 44 | 
 | 2023-02-14 | 442 | 45 | 
 | 2023-02-13 | 441 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 401 | 41 | 
 | 2023-01-19 | 398 | 41 | 
 | 2023-01-18 | 398 | 41 | 
-| 2023-01-17 | 396 | 41 | 
 

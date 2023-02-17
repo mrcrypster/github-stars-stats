@@ -1,10 +1,10 @@
 # wolfpld/tracy - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 370
 
-★ Stars: 5056
+★ Stars: 5059
 
 [Open repository](https://github.com/wolfpld/tracy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5059 | 370 | 
 | 2023-02-15 | 5056 | 370 | 
 | 2023-02-14 | 5044 | 370 | 
 | 2023-02-13 | 5037 | 370 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 4853 | 354 | 
 | 2023-01-19 | 4848 | 353 | 
 | 2023-01-18 | 4846 | 353 | 
-| 2023-01-17 | 4838 | 353 | 
 

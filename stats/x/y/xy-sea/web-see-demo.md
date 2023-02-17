@@ -1,10 +1,10 @@
 # xy-sea/web-see-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/xy-sea/web-see-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 49 | 36 | 
 | 2023-02-15 | 48 | 35 | 
 | 2023-02-14 | 47 | 34 | 
 | 2023-02-13 | 46 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 34 | 26 | 
 | 2023-01-19 | 34 | 26 | 
 | 2023-01-18 | 33 | 25 | 
-| 2023-01-17 | 30 | 24 | 
 

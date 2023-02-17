@@ -1,10 +1,10 @@
 # Assistant/ModAssistant - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 406
 
-★ Stars: 2069
+★ Stars: 2071
 
 [Open repository](https://github.com/Assistant/ModAssistant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2071 | 406 | 
 | 2023-02-15 | 2069 | 406 | 
 | 2023-02-14 | 2069 | 405 | 
 | 2023-02-13 | 2068 | 405 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 2040 | 403 | 
 | 2023-01-20 | 2038 | 402 | 
 | 2023-01-19 | 2037 | 402 | 
-| 2023-01-18 | 2037 | 402 | 
 

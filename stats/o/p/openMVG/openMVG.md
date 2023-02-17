@@ -1,10 +1,10 @@
 # openMVG/openMVG - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1528
+☋ Forks: 1529
 
-★ Stars: 4682
+★ Stars: 4685
 
 [Open repository](https://github.com/openMVG/openMVG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4685 | 1529 | 
 | 2023-02-15 | 4682 | 1528 | 
 | 2023-02-14 | 4681 | 1528 | 
 | 2023-02-13 | 4681 | 1528 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 4644 | 1519 | 
 | 2023-01-19 | 4643 | 1520 | 
 | 2023-01-18 | 4642 | 1520 | 
-| 2023-01-17 | 4641 | 1520 | 
 

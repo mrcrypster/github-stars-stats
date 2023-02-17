@@ -1,10 +1,10 @@
 # pow-auth/assent - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/pow-auth/assent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 217 | 30 | 
 | 2023-02-15 | 216 | 29 | 
 | 2023-02-14 | 216 | 29 | 
 | 2023-02-13 | 216 | 29 | 

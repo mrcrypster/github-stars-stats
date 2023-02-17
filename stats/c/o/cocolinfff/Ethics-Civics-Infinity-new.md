@@ -1,6 +1,6 @@
 # cocolinfff/Ethics-Civics-Infinity-new - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 8 | 13 | 
 | 2023-02-15 | 8 | 13 | 
 | 2023-02-14 | 8 | 13 | 
 | 2023-02-13 | 8 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 7 | 13 | 
 | 2023-01-20 | 7 | 13 | 
 | 2023-01-19 | 7 | 13 | 
-| 2023-01-18 | 7 | 13 | 
 

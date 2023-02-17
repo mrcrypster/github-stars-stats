@@ -1,10 +1,10 @@
 # aa342138039/JD-SHOPPER - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 576
 
-★ Stars: 105
+★ Stars: 107
 
 [Open repository](https://github.com/aa342138039/JD-SHOPPER)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 107 | 576 | 
 | 2023-02-16 | 105 | 576 | 
 | 2023-02-15 | 106 | 577 | 
 | 2023-02-13 | 106 | 577 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 104 | 578 | 
 | 2023-01-19 | 104 | 578 | 
 | 2023-01-18 | 104 | 578 | 
-| 2023-01-17 | 104 | 578 | 
 

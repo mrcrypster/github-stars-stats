@@ -1,10 +1,10 @@
 # x4nth055/pythoncode-tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1622
+☋ Forks: 1623
 
-★ Stars: 1484
+★ Stars: 1487
 
 [Open repository](https://github.com/x4nth055/pythoncode-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1487 | 1623 | 
 | 2023-02-15 | 1484 | 1622 | 
 | 2023-02-14 | 1482 | 1621 | 
 | 2023-02-13 | 1482 | 1620 | 

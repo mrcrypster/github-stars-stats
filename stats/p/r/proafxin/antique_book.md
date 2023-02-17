@@ -1,6 +1,6 @@
 # proafxin/antique_book - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 19 | 2 | 
 | 2023-02-15 | 19 | 2 | 
 | 2023-02-14 | 19 | 2 | 
 | 2023-02-13 | 19 | 2 | 

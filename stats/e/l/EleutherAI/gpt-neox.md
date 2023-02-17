@@ -1,10 +1,10 @@
 # EleutherAI/gpt-neox - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
-☋ Forks: 494
+☋ Forks: 499
 
-★ Stars: 3658
+★ Stars: 3707
 
 [Open repository](https://github.com/EleutherAI/gpt-neox)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3707 | 499 | 
+| 2023-02-16 | 3699 | 499 | 
 | 2023-02-15 | 3658 | 494 | 
 | 2023-02-14 | 3632 | 491 | 
 | 2023-02-13 | 3609 | 486 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 3273 | 437 | 
 | 2023-01-20 | 3262 | 435 | 
 | 2023-01-18 | 3246 | 434 | 
-| 2023-01-17 | 3226 | 434 | 
 

@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-unsafe-reference - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 8 | 9 | 
+| 2023-02-16 | 8 | 9 | 
 | 2023-02-15 | 8 | 9 | 
 | 2023-02-14 | 8 | 9 | 
 | 2023-02-13 | 8 | 9 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 7 | 9 | 
 | 2023-01-19 | 7 | 9 | 
 | 2023-01-18 | 7 | 9 | 
-| 2023-01-17 | 7 | 9 | 
 

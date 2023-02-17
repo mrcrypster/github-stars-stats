@@ -1,6 +1,6 @@
 # 8gears/n8n-helm-chart - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 77 | 32 | 
 | 2023-02-15 | 77 | 32 | 
 | 2023-02-14 | 77 | 32 | 
 | 2023-02-13 | 77 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 74 | 29 | 
 | 2023-01-19 | 74 | 29 | 
 | 2023-01-18 | 74 | 29 | 
-| 2023-01-17 | 74 | 28 | 
 

@@ -1,6 +1,6 @@
 # svenvc/ston - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 133 | 30 | 
 | 2023-02-15 | 133 | 30 | 
 | 2023-02-14 | 133 | 30 | 
 | 2023-02-13 | 134 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 134 | 30 | 
 | 2023-01-19 | 134 | 30 | 
 | 2023-01-18 | 134 | 30 | 
-| 2023-01-17 | 134 | 30 | 
 

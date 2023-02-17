@@ -1,6 +1,6 @@
 # thefrontside/frontmacs - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 488 | 24 | 
 | 2023-02-15 | 488 | 24 | 
 | 2023-02-14 | 488 | 24 | 
 | 2023-02-13 | 488 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 488 | 24 | 
 | 2023-01-19 | 488 | 24 | 
 | 2023-01-18 | 488 | 24 | 
-| 2023-01-17 | 488 | 24 | 
 

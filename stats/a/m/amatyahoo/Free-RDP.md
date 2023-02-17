@@ -1,8 +1,8 @@
 # amatyahoo/Free-RDP - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 108
+☋ Forks: 110
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | - | 110 | 
 | 2023-02-15 | - | 108 | 
 | 2023-02-14 | - | 105 | 
 | 2023-02-13 | - | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | - | 67 | 
 | 2023-01-19 | - | 67 | 
 | 2023-01-18 | - | 66 | 
-| 2023-01-17 | - | 64 | 
 

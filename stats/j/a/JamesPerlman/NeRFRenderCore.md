@@ -1,10 +1,10 @@
 # JamesPerlman/NeRFRenderCore - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 103
+★ Stars: 109
 
 [Open repository](https://github.com/JamesPerlman/NeRFRenderCore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 109 | 4 | 
 | 2023-02-15 | 103 | 4 | 
 | 2023-02-14 | 102 | 4 | 
 | 2023-02-13 | 102 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 48 | - | 
 | 2023-01-19 | 48 | - | 
 | 2023-01-18 | 48 | - | 
-| 2023-01-17 | 48 | - | 
 

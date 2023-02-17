@@ -1,6 +1,6 @@
 # EvisHome/Home-Assistant - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 106 | 7 | 
 | 2023-02-15 | 106 | 7 | 
 | 2023-02-14 | 106 | 7 | 
 | 2023-02-13 | 106 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 104 | 7 | 
 | 2023-01-20 | 103 | 7 | 
 | 2023-01-19 | 102 | 7 | 
-| 2023-01-18 | 102 | 7 | 
 

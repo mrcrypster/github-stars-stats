@@ -1,6 +1,6 @@
 # 420-PB3-SH/PB3-lab8-githubpages - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 10
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | - | 10 | 
 | 2023-02-15 | - | 10 | 
 

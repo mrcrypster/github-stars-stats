@@ -1,10 +1,10 @@
 # zhcosin/elementary-math - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 23
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/zhcosin/elementary-math)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 107 | 23 | 
 | 2023-02-15 | 106 | 23 | 
 | 2023-02-14 | 106 | 23 | 
 | 2023-02-13 | 106 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 105 | 23 | 
 | 2023-01-19 | 105 | 23 | 
 | 2023-01-18 | 105 | 23 | 
-| 2023-01-17 | 105 | 23 | 
 

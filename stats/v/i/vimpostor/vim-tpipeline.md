@@ -1,6 +1,6 @@
 # vimpostor/vim-tpipeline - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 252 | 5 | 
 | 2023-02-15 | 252 | 5 | 
 | 2023-02-14 | 251 | 5 | 
 | 2023-02-13 | 250 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 245 | 4 | 
 | 2023-01-19 | 240 | 4 | 
 | 2023-01-18 | 231 | 4 | 
-| 2023-01-17 | 231 | 4 | 
 

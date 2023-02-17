@@ -1,10 +1,10 @@
 # prysmaticlabs/prysm - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 747
 
-★ Stars: 2998
+★ Stars: 3000
 
 [Open repository](https://github.com/prysmaticlabs/prysm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3000 | 747 | 
 | 2023-02-15 | 2998 | 747 | 
 | 2023-02-14 | 2995 | 745 | 
 | 2023-02-13 | 2996 | 745 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2970 | 735 | 
 | 2023-01-19 | 2968 | 733 | 
 | 2023-01-18 | 2964 | 733 | 
-| 2023-01-17 | 2964 | 732 | 
 

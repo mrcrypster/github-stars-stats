@@ -1,6 +1,6 @@
 # Demindiro/agreper - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 644 | 24 | 
 | 2023-02-15 | 644 | 24 | 
 | 2023-02-14 | 644 | 24 | 
 | 2023-02-13 | 644 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 644 | 24 | 
 | 2023-01-20 | 644 | 24 | 
 | 2023-01-19 | 644 | 24 | 
-| 2023-01-18 | 642 | 24 | 
 

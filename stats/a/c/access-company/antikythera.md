@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/access-company/antikythera)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-16 | 176 | 17 | 
+| 2023-02-16 | 177 | 17 | 
 | 2023-02-14 | 176 | 17 | 
 | 2023-02-13 | 176 | 17 | 
 | 2023-02-12 | 176 | 17 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 174 | 17 | 
 | 2023-01-19 | 174 | 17 | 
 | 2023-01-18 | 174 | 17 | 
-| 2023-01-17 | 174 | 17 | 
 

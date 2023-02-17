@@ -1,6 +1,6 @@
 # pagopa/io.italia.it - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 23 | 21 | 
 | 2023-02-15 | 23 | 21 | 
 | 2023-02-14 | 23 | 21 | 
 | 2023-02-12 | 23 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 23 | 21 | 
 | 2023-01-19 | 23 | 21 | 
 | 2023-01-18 | 23 | 21 | 
-| 2023-01-17 | 23 | 21 | 
 

@@ -1,10 +1,10 @@
 # Azure/dev-community - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/Azure/dev-community)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 66 | 7 | 
 | 2023-02-15 | 65 | 7 | 
 | 2023-02-14 | 65 | 7 | 
 | 2023-02-12 | 65 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 65 | 7 | 
 | 2023-01-19 | 64 | 7 | 
 | 2023-01-18 | 64 | 7 | 
-| 2023-01-17 | 64 | 7 | 
 

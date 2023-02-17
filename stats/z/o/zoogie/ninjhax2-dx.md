@@ -1,8 +1,8 @@
 # zoogie/ninjhax2-dx - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 2
+☋ Forks: 1
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 18 | 1 | 
 | 2023-02-15 | 18 | 2 | 
 | 2023-02-14 | 18 | 1 | 
 | 2023-02-13 | 18 | 1 | 

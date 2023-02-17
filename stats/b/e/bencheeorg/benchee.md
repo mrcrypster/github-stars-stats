@@ -1,10 +1,10 @@
 # bencheeorg/benchee - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 53
 
-★ Stars: 1241
+★ Stars: 1242
 
 [Open repository](https://github.com/bencheeorg/benchee)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1242 | 53 | 
 | 2023-02-15 | 1241 | 53 | 
 | 2023-02-14 | 1241 | 53 | 
 | 2023-02-13 | 1240 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1234 | 53 | 
 | 2023-01-19 | 1233 | 53 | 
 | 2023-01-18 | 1232 | 53 | 
-| 2023-01-17 | 1232 | 53 | 
 

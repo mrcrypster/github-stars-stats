@@ -1,10 +1,10 @@
 # hashicorp/terraform-cdk - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 369
 
-★ Stars: 4228
+★ Stars: 4231
 
 [Open repository](https://github.com/hashicorp/terraform-cdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4231 | 369 | 
 | 2023-02-15 | 4228 | 369 | 
 | 2023-02-14 | 4224 | 370 | 
 | 2023-02-13 | 4222 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 4175 | 364 | 
 | 2023-01-19 | 4172 | 363 | 
 | 2023-01-18 | 4168 | 362 | 
-| 2023-01-17 | 4169 | 361 | 
 

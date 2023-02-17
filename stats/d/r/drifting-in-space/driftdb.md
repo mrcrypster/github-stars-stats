@@ -1,10 +1,10 @@
 # drifting-in-space/driftdb - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 732
+★ Stars: 748
 
 [Open repository](https://github.com/drifting-in-space/driftdb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 748 | 17 | 
 | 2023-02-15 | 732 | 15 | 
 | 2023-02-14 | 726 | 15 | 
 | 2023-02-13 | 717 | 15 | 

@@ -1,6 +1,6 @@
 # kspalaiologos/bzip3 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 502 | 27 | 
 | 2023-02-15 | 502 | 27 | 
 | 2023-02-13 | 502 | 27 | 
 | 2023-02-12 | 502 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 496 | 27 | 
 | 2023-01-19 | 496 | 27 | 
 | 2023-01-18 | 496 | 27 | 
-| 2023-01-17 | 496 | 27 | 
 

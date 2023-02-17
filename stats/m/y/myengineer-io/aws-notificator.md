@@ -1,10 +1,10 @@
 # myengineer-io/aws-notificator - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 8
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/myengineer-io/aws-notificator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 23 | 8 | 
 | 2023-02-15 | 22 | 8 | 
 | 2023-02-14 | 20 | 8 | 
 | 2023-02-13 | 15 | 8 | 

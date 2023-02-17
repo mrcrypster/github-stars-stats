@@ -1,6 +1,6 @@
 # tio/tio - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1161 | 123 | 
 | 2023-02-15 | 1161 | 123 | 
 | 2023-02-14 | 1159 | 123 | 
 | 2023-02-13 | 1157 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1136 | 123 | 
 | 2023-01-20 | 1135 | 123 | 
 | 2023-01-19 | 1135 | 123 | 
-| 2023-01-17 | 1134 | 123 | 
 

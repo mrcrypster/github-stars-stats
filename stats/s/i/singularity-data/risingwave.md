@@ -1,10 +1,10 @@
 # singularity-data/risingwave - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 320
+☋ Forks: 321
 
-★ Stars: 3972
+★ Stars: 3981
 
 [Open repository](https://github.com/singularity-data/risingwave)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3981 | 321 | 
 | 2023-02-15 | 3972 | 320 | 
 | 2023-02-14 | 3964 | 321 | 
 | 2023-02-13 | 3954 | 321 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 3761 | 313 | 
 | 2023-01-20 | 3760 | 313 | 
 | 2023-01-18 | 3755 | 313 | 
-| 2023-01-17 | 3754 | 313 | 
 

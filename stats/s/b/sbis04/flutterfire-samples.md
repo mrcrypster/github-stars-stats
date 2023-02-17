@@ -1,6 +1,6 @@
 # sbis04/flutterfire-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 193 | 119 | 
 | 2023-02-15 | 193 | 119 | 
 | 2023-02-14 | 193 | 119 | 
 | 2023-02-13 | 193 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 189 | 119 | 
 | 2023-01-19 | 189 | 119 | 
 | 2023-01-18 | 188 | 119 | 
-| 2023-01-17 | 188 | 119 | 
 

@@ -1,10 +1,10 @@
 # rayon-rs/rayon - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 406
 
-★ Stars: 8031
+★ Stars: 8037
 
 [Open repository](https://github.com/rayon-rs/rayon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 8037 | 406 | 
 | 2023-02-15 | 8031 | 406 | 
 | 2023-02-14 | 8025 | 405 | 
 | 2023-02-13 | 8016 | 405 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 7881 | 404 | 
 | 2023-01-19 | 7859 | 404 | 
 | 2023-01-18 | 7848 | 402 | 
-| 2023-01-17 | 7842 | 403 | 
 

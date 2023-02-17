@@ -1,10 +1,10 @@
 # flutter/holobooth - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/flutter/holobooth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 167 | 22 | 
 | 2023-02-15 | 166 | 22 | 
 | 2023-02-14 | 166 | 21 | 
 | 2023-02-13 | 166 | 20 | 

@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-oo-self-count-sentences-lab - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 2268
+☋ Forks: 2274
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | - | 2274 | 
 | 2023-02-15 | - | 2268 | 
 | 2023-02-14 | - | 2250 | 
 | 2023-02-13 | - | 2219 | 

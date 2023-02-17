@@ -1,6 +1,6 @@
 # modus-continens/modus - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 273 | 7 | 
 | 2023-02-15 | 273 | 7 | 
 | 2023-02-14 | 273 | 7 | 
 | 2023-02-13 | 273 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 272 | 7 | 
 | 2023-01-19 | 272 | 7 | 
 | 2023-01-18 | 272 | 7 | 
-| 2023-01-17 | 272 | 7 | 
 

@@ -1,8 +1,8 @@
 # bitbrain/jekyll-dash - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 100
+☋ Forks: 101
 
 ★ Stars: 235
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 235 | 101 | 
 | 2023-02-15 | 235 | 100 | 
 | 2023-02-14 | 234 | 100 | 
 | 2023-02-13 | 234 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 230 | 99 | 
 | 2023-01-20 | 230 | 99 | 
 | 2023-01-18 | 230 | 99 | 
-| 2023-01-17 | 230 | 100 | 
 

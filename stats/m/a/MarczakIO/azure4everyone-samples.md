@@ -1,6 +1,6 @@
 # MarczakIO/azure4everyone-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 997
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 212 | 997 | 
 | 2023-02-15 | 212 | 997 | 
 | 2023-02-14 | 212 | 997 | 
 | 2023-02-13 | 212 | 995 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 206 | 978 | 
 | 2023-01-19 | 206 | 978 | 
 | 2023-01-18 | 206 | 978 | 
-| 2023-01-17 | 206 | 976 | 
 

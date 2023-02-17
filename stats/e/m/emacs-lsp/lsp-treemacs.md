@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 16
 
 ☋ Forks: 41
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/emacs-lsp/lsp-treemacs)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-16 | 322 | 41 | 
+| 2023-02-16 | 323 | 41 | 
 | 2023-02-15 | 322 | 41 | 
 | 2023-02-14 | 322 | 41 | 
 | 2023-02-13 | 322 | 41 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 321 | 40 | 
 | 2023-01-19 | 321 | 40 | 
 | 2023-01-18 | 321 | 40 | 
-| 2023-01-17 | 321 | 40 | 
 

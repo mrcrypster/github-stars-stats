@@ -1,6 +1,6 @@
 # aminosbh/sdl2-mixer-sample - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 38 | 2 | 
 | 2023-02-15 | 38 | 2 | 
 | 2023-02-14 | 38 | 2 | 
 | 2023-02-13 | 38 | 2 | 

@@ -1,10 +1,10 @@
 # raphaelradna/xenos - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 70
+★ Stars: 77
 
 [Open repository](https://github.com/raphaelradna/xenos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 77 | 7 | 
 | 2023-02-15 | 70 | 7 | 
 | 2023-02-14 | 69 | 7 | 
 | 2023-02-13 | 63 | 5 | 

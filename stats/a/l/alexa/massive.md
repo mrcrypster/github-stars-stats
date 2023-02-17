@@ -1,6 +1,6 @@
 # alexa/massive - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 472 | 50 | 
 | 2023-02-15 | 472 | 50 | 
 | 2023-02-14 | 471 | 50 | 
 | 2023-02-13 | 471 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 467 | 50 | 
 | 2023-01-19 | 466 | 50 | 
 | 2023-01-18 | 466 | 50 | 
-| 2023-01-17 | 465 | 50 | 
 

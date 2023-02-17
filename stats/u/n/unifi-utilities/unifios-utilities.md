@@ -1,6 +1,6 @@
 # unifi-utilities/unifios-utilities - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3079 | 381 | 
 | 2023-02-16 | 3079 | 381 | 
 | 2023-02-15 | 3073 | 381 | 
 | 2023-02-14 | 3070 | 381 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 3025 | 375 | 
 | 2023-01-19 | 3026 | 375 | 
 | 2023-01-18 | 3023 | 375 | 
-| 2023-01-17 | 3023 | 376 | 
 

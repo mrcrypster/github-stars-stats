@@ -1,8 +1,8 @@
 # AlreadyBored/node-nodejs-basics - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1449
+☋ Forks: 1447
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 28 | 1447 | 
 | 2023-02-15 | 28 | 1449 | 
 | 2023-02-14 | 28 | 1449 | 
 | 2023-02-13 | 28 | 1449 | 

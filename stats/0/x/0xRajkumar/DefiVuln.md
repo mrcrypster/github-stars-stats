@@ -1,10 +1,10 @@
 # 0xRajkumar/DefiVuln - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/0xRajkumar/DefiVuln)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 43 | 3 | 
 | 2023-02-15 | 42 | 3 | 
 | 2023-02-14 | 41 | 3 | 
 | 2023-02-13 | 41 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 28 | 2 | 
 | 2023-01-19 | 28 | 2 | 
 | 2023-01-18 | 28 | 2 | 
-| 2023-01-17 | 28 | 2 | 
 

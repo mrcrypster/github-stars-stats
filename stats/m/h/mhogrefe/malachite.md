@@ -1,10 +1,10 @@
 # mhogrefe/malachite - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/mhogrefe/malachite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 362 | 5 | 
 | 2023-02-15 | 361 | 5 | 
 | 2023-02-14 | 361 | 5 | 
 | 2023-02-13 | 360 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 348 | 5 | 
 | 2023-01-19 | 349 | 5 | 
 | 2023-01-18 | 348 | 5 | 
-| 2023-01-17 | 349 | 5 | 
 

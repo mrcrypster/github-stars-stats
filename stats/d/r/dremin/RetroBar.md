@@ -1,10 +1,10 @@
 # dremin/RetroBar - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 136
 
-★ Stars: 1506
+★ Stars: 1509
 
 [Open repository](https://github.com/dremin/RetroBar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1509 | 136 | 
 | 2023-02-15 | 1506 | 136 | 
 | 2023-02-14 | 1506 | 136 | 
 | 2023-02-12 | 1497 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1462 | 128 | 
 | 2023-01-19 | 1459 | 128 | 
 | 2023-01-18 | 1460 | 128 | 
-| 2023-01-17 | 1457 | 128 | 
 

@@ -1,8 +1,8 @@
 # MomenSherif/react-oauth - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 475
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 475 | 53 | 
 | 2023-02-15 | 475 | 52 | 
 | 2023-02-14 | 473 | 52 | 
 | 2023-02-13 | 472 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 424 | 45 | 
 | 2023-01-19 | 424 | 45 | 
 | 2023-01-18 | 419 | 45 | 
-| 2023-01-17 | 416 | 45 | 
 

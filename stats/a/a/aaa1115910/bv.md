@@ -1,6 +1,6 @@
 # aaa1115910/bv - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 607 | 55 | 
 | 2023-02-15 | 607 | 55 | 
 | 2023-02-14 | 602 | 55 | 
 | 2023-02-13 | 600 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 501 | 36 | 
 | 2023-01-19 | 491 | 35 | 
 | 2023-01-18 | 479 | 34 | 
-| 2023-01-17 | 472 | 34 | 
 

@@ -1,6 +1,6 @@
 # 24pullrequests/24pullrequests - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 517
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1534 | 517 | 
 | 2023-02-15 | 1534 | 517 | 
 | 2023-02-14 | 1533 | 516 | 
 | 2023-02-13 | 1533 | 516 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1526 | 514 | 
 | 2023-01-20 | 1526 | 514 | 
 | 2023-01-19 | 1526 | 514 | 
-| 2023-01-18 | 1526 | 514 | 
 

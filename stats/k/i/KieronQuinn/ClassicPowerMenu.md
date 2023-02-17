@@ -1,10 +1,10 @@
 # KieronQuinn/ClassicPowerMenu - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/KieronQuinn/ClassicPowerMenu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 408 | 17 | 
 | 2023-02-15 | 407 | 17 | 
 | 2023-02-14 | 407 | 17 | 
 | 2023-02-13 | 408 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 394 | 16 | 
 | 2023-01-19 | 394 | 16 | 
 | 2023-01-18 | 391 | 16 | 
-| 2023-01-17 | 391 | 16 | 
 

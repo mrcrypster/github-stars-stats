@@ -1,6 +1,6 @@
 # shwestrick/smlfmt - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 53 | 6 | 
 | 2023-02-15 | 53 | 6 | 
 | 2023-02-14 | 53 | 6 | 
 | 2023-02-13 | 53 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 44 | 6 | 
 | 2023-01-20 | 43 | 6 | 
 | 2023-01-19 | 42 | 6 | 
-| 2023-01-17 | 41 | 6 | 
 

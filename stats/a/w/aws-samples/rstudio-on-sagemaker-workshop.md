@@ -1,10 +1,10 @@
 # aws-samples/rstudio-on-sagemaker-workshop - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 6
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/aws-samples/rstudio-on-sagemaker-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6 | 6 | 
 | 2023-02-16 | 5 | 6 | 
 | 2023-02-14 | 5 | 6 | 
 | 2023-02-13 | 5 | 6 | 

@@ -1,10 +1,10 @@
 # juancarlospaco/cliche - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/juancarlospaco/cliche)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 59 | 2 | 
 | 2023-02-15 | 58 | 2 | 
 | 2023-02-14 | 57 | 2 | 
 | 2023-02-13 | 57 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 40 | 2 | 
 | 2023-01-19 | 40 | 2 | 
 | 2023-01-18 | 40 | 2 | 
-| 2023-01-17 | 40 | 2 | 
 

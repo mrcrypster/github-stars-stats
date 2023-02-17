@@ -1,6 +1,6 @@
 # Shopify/livesys - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 8 | 5 | 
 | 2023-02-16 | 8 | 5 | 
 | 2023-02-14 | 8 | 5 | 
 | 2023-02-13 | 8 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 7 | 3 | 
 | 2023-01-19 | 7 | 3 | 
 | 2023-01-18 | 7 | 3 | 
-| 2023-01-17 | 7 | 3 | 
 

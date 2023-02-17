@@ -1,10 +1,10 @@
 # odedstein/sgi-introduction-course - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/odedstein/sgi-introduction-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 75 | 30 | 
 | 2023-02-15 | 74 | 29 | 
 | 2023-02-14 | 74 | 29 | 
 | 2023-02-13 | 74 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 70 | 29 | 
 | 2023-01-19 | 70 | 29 | 
 | 2023-01-18 | 70 | 29 | 
-| 2023-01-17 | 70 | 29 | 
 

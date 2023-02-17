@@ -1,6 +1,6 @@
 # ttscoff/hook_goodies - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 51 | 4 | 
 | 2023-02-15 | 51 | 4 | 
 | 2023-02-14 | 51 | 4 | 
 | 2023-02-13 | 51 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 48 | 4 | 
 | 2023-01-19 | 48 | 4 | 
 | 2023-01-18 | 48 | 4 | 
-| 2023-01-17 | 48 | 4 | 
 

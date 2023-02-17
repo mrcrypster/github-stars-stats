@@ -1,10 +1,10 @@
 # fire1ce/eicar-standard-antivirus-test-files - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/fire1ce/eicar-standard-antivirus-test-files)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 60 | 17 | 
 | 2023-02-15 | 59 | 16 | 
 | 2023-02-14 | 59 | 16 | 
 | 2023-02-13 | 57 | 16 | 

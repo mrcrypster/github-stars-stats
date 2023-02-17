@@ -1,10 +1,10 @@
 # SongTube/SongTube-App - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 124
 
-★ Stars: 823
+★ Stars: 824
 
 [Open repository](https://github.com/SongTube/SongTube-App)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 824 | 124 | 
 | 2023-02-15 | 823 | 124 | 
 | 2023-02-14 | 823 | 124 | 
 | 2023-02-13 | 823 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 811 | 123 | 
 | 2023-01-19 | 811 | 123 | 
 | 2023-01-18 | 811 | 123 | 
-| 2023-01-17 | 810 | 123 | 
 

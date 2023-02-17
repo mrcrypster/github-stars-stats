@@ -1,6 +1,6 @@
 # skylersaleh/SkyEmu - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 382 | 14 | 
 | 2023-02-15 | 382 | 14 | 
 | 2023-02-14 | 380 | 14 | 
 | 2023-02-12 | 374 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 346 | 11 | 
 | 2023-01-19 | 346 | 11 | 
 | 2023-01-18 | 344 | 11 | 
-| 2023-01-17 | 344 | 11 | 
 

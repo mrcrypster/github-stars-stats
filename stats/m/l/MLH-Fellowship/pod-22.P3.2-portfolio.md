@@ -1,6 +1,6 @@
 # MLH-Fellowship/pod-22.P3.2-portfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2 | 12 | 
 | 2023-02-15 | 2 | 12 | 
 | 2023-02-14 | 2 | 12 | 
 | 2023-02-13 | 2 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2 | 12 | 
 | 2023-01-19 | 2 | 12 | 
 | 2023-01-18 | 2 | 12 | 
-| 2023-01-17 | 2 | 12 | 
 

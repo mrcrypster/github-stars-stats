@@ -1,6 +1,6 @@
 # runvnc/dadsresume - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1712 | 25 | 
 | 2023-02-15 | 1712 | 25 | 
 | 2023-02-14 | 1712 | 25 | 
 | 2023-02-13 | 1712 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1710 | 25 | 
 | 2023-01-19 | 1709 | 25 | 
 | 2023-01-18 | 1709 | 25 | 
-| 2023-01-17 | 1709 | 25 | 
 

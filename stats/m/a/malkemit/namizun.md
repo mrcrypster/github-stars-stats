@@ -1,10 +1,10 @@
 # malkemit/namizun - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 49
+☋ Forks: 48
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/malkemit/namizun)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 366 | 48 | 
 | 2023-02-15 | 365 | 49 | 
 | 2023-02-14 | 364 | 50 | 
 | 2023-02-13 | 362 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 313 | 43 | 
 | 2023-01-20 | 310 | 43 | 
 | 2023-01-18 | 306 | 41 | 
-| 2023-01-17 | 305 | 40 | 
 

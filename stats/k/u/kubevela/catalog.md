@@ -1,6 +1,6 @@
 # kubevela/catalog - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 119 | 96 | 
 | 2023-02-15 | 119 | 96 | 
 | 2023-02-14 | 118 | 96 | 
 | 2023-02-13 | 118 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 111 | 86 | 
 | 2023-01-19 | 111 | 86 | 
 | 2023-01-18 | 111 | 86 | 
-| 2023-01-17 | 111 | 86 | 
 

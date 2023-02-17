@@ -1,10 +1,10 @@
 # Lakens/statistical_inferences - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 45
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/Lakens/statistical_inferences)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 124 | 45 | 
 | 2023-02-15 | 123 | 45 | 
 | 2023-02-14 | 123 | 45 | 
 | 2023-02-13 | 123 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 120 | 44 | 
 | 2023-01-20 | 120 | 44 | 
 | 2023-01-19 | 120 | 44 | 
-| 2023-01-18 | 120 | 44 | 
 

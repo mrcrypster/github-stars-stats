@@ -1,6 +1,6 @@
 # mhenrixon/sidekiq-unique-jobs - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1281 | 254 | 
 | 2023-02-15 | 1281 | 254 | 
 | 2023-02-14 | 1280 | 253 | 
 | 2023-02-13 | 1280 | 253 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1269 | 251 | 
 | 2023-01-19 | 1269 | 252 | 
 | 2023-01-18 | 1269 | 252 | 
-| 2023-01-17 | 1269 | 252 | 
 

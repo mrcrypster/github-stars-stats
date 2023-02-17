@@ -1,10 +1,10 @@
 # pmndrs/react-three-fiber - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1217
+☋ Forks: 1219
 
-★ Stars: 21387
+★ Stars: 21411
 
 [Open repository](https://github.com/pmndrs/react-three-fiber)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 21411 | 1219 | 
 | 2023-02-15 | 21387 | 1217 | 
 | 2023-02-14 | 21372 | 1216 | 
 | 2023-02-13 | 21363 | 1215 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 21057 | 1194 | 
 | 2023-01-19 | 21048 | 1194 | 
 | 2023-01-18 | 21034 | 1193 | 
-| 2023-01-17 | 21017 | 1191 | 
 

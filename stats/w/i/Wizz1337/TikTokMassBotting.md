@@ -1,6 +1,6 @@
 # Wizz1337/TikTokMassBotting - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 270
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 549 | 270 | 
 | 2023-02-15 | 549 | 270 | 
 | 2023-02-14 | 549 | 270 | 
 | 2023-02-13 | 549 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 543 | 268 | 
 | 2023-01-19 | 543 | 268 | 
 | 2023-01-18 | 543 | 268 | 
-| 2023-01-17 | 543 | 268 | 
 

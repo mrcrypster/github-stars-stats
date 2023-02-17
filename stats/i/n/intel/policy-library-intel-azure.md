@@ -1,10 +1,10 @@
 # intel/policy-library-intel-azure - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/intel/policy-library-intel-azure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 12 | - | 
 | 2023-02-15 | 11 | - | 
 | 2023-02-14 | 11 | - | 
 | 2023-02-13 | 11 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 5 | - | 
 | 2023-01-20 | 4 | - | 
 | 2023-01-19 | 4 | - | 
-| 2023-01-18 | 4 | - | 
 

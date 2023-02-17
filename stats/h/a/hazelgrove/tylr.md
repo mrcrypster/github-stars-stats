@@ -1,10 +1,10 @@
 # hazelgrove/tylr - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 232
+★ Stars: 233
 
 [Open repository](https://github.com/hazelgrove/tylr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 233 | 2 | 
 | 2023-02-15 | 232 | 2 | 
 | 2023-02-14 | 232 | 2 | 
 | 2023-02-13 | 232 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 229 | 2 | 
 | 2023-01-19 | 229 | 2 | 
 | 2023-01-18 | 229 | 2 | 
-| 2023-01-17 | 229 | 2 | 
 

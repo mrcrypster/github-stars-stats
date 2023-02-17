@@ -1,10 +1,10 @@
 # panjf2000/gnet - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 854
 
-★ Stars: 7377
+★ Stars: 7382
 
 [Open repository](https://github.com/panjf2000/gnet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 7382 | 854 | 
 | 2023-02-15 | 7377 | 854 | 
 | 2023-02-14 | 7372 | 854 | 
 | 2023-02-13 | 7368 | 853 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 7316 | 848 | 
 | 2023-01-19 | 7313 | 848 | 
 | 2023-01-18 | 7310 | 847 | 
-| 2023-01-17 | 7307 | 847 | 
 

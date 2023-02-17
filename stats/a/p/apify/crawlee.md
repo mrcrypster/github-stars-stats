@@ -1,8 +1,8 @@
 # apify/crawlee - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 348
+☋ Forks: 347
 
 ★ Stars: 7629
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 7629 | 347 | 
 | 2023-02-15 | 7629 | 348 | 
 | 2023-02-14 | 7624 | 348 | 
 | 2023-02-13 | 7621 | 348 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 7487 | 338 | 
 | 2023-01-20 | 7480 | 338 | 
 | 2023-01-19 | 7475 | 337 | 
-| 2023-01-17 | 7468 | 337 | 
 

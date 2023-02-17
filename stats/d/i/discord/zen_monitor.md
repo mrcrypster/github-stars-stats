@@ -1,6 +1,6 @@
 # discord/zen_monitor - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 151 | 11 | 
 | 2023-02-15 | 151 | 11 | 
 | 2023-02-14 | 151 | 11 | 
 | 2023-02-13 | 151 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 148 | 11 | 
 | 2023-01-19 | 148 | 11 | 
 | 2023-01-18 | 148 | 11 | 
-| 2023-01-17 | 148 | 11 | 
 

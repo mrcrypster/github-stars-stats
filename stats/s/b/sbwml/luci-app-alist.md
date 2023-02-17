@@ -1,10 +1,10 @@
 # sbwml/luci-app-alist - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
-☋ Forks: 87
+☋ Forks: 89
 
-★ Stars: 383
+★ Stars: 402
 
 [Open repository](https://github.com/sbwml/luci-app-alist)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 402 | 89 | 
+| 2023-02-16 | 402 | 89 | 
 | 2023-02-15 | 383 | 87 | 
 | 2023-02-14 | 330 | 83 | 
 | 2023-02-13 | 325 | 82 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 231 | 65 | 
 | 2023-01-19 | 227 | 63 | 
 | 2023-01-18 | 221 | 61 | 
-| 2023-01-17 | 220 | 60 | 
 

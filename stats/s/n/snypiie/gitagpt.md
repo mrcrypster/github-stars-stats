@@ -1,10 +1,10 @@
 # snypiie/gitagpt - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 106
+★ Stars: 108
 
 [Open repository](https://github.com/snypiie/gitagpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 108 | 29 | 
 | 2023-02-15 | 106 | 28 | 
 | 2023-02-14 | 103 | 24 | 
 | 2023-02-13 | 88 | 22 | 

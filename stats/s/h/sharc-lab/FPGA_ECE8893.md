@@ -1,6 +1,6 @@
 # sharc-lab/FPGA_ECE8893 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 10 | 15 | 
 | 2023-02-15 | 10 | 15 | 
 | 2023-02-14 | 10 | 15 | 
 | 2023-02-13 | 10 | 15 | 

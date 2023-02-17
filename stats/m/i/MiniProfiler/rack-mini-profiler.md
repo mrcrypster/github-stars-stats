@@ -1,10 +1,10 @@
 # MiniProfiler/rack-mini-profiler - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 382
 
-★ Stars: 3477
+★ Stars: 3478
 
 [Open repository](https://github.com/MiniProfiler/rack-mini-profiler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3478 | 382 | 
 | 2023-02-15 | 3477 | 382 | 
 | 2023-02-14 | 3476 | 382 | 
 | 2023-02-13 | 3475 | 382 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3474 | 380 | 
 | 2023-01-19 | 3473 | 380 | 
 | 2023-01-18 | 3472 | 380 | 
-| 2023-01-17 | 3471 | 380 | 
 

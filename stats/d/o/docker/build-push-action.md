@@ -1,10 +1,10 @@
 # docker/build-push-action - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 479
 
-★ Stars: 3069
+★ Stars: 3072
 
 [Open repository](https://github.com/docker/build-push-action)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3072 | 479 | 
 | 2023-02-15 | 3069 | 479 | 
 | 2023-02-14 | 3066 | 479 | 
 | 2023-02-13 | 3066 | 478 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 3000 | 474 | 
 | 2023-01-19 | 2998 | 474 | 
 | 2023-01-18 | 2993 | 473 | 
-| 2023-01-17 | 2990 | 473 | 
 

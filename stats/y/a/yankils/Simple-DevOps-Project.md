@@ -1,8 +1,8 @@
 # yankils/Simple-DevOps-Project - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 13672
+☋ Forks: 13684
 
 ★ Stars: 652
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 652 | 13684 | 
 | 2023-02-15 | 652 | 13672 | 
 | 2023-02-14 | 652 | 13670 | 
 | 2023-02-13 | 650 | 13654 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 633 | 13391 | 
 | 2023-01-19 | 633 | 13381 | 
 | 2023-01-18 | 632 | 13360 | 
-| 2023-01-17 | 632 | 13360 | 
 

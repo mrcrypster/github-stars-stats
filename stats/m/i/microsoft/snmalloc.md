@@ -1,10 +1,10 @@
 # microsoft/snmalloc - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 1142
+★ Stars: 1145
 
 [Open repository](https://github.com/microsoft/snmalloc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1145 | 89 | 
 | 2023-02-15 | 1142 | 88 | 
 | 2023-02-14 | 1134 | 87 | 
 | 2023-02-13 | 1134 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1122 | 85 | 
 | 2023-01-20 | 1121 | 85 | 
 | 2023-01-18 | 1120 | 85 | 
-| 2023-01-17 | 1119 | 85 | 
 

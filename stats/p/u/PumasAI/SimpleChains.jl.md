@@ -1,10 +1,10 @@
 # PumasAI/SimpleChains.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 8
 
-★ Stars: 177
+★ Stars: 176
 
 [Open repository](https://github.com/PumasAI/SimpleChains.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 176 | 8 | 
 | 2023-02-15 | 177 | 8 | 
 | 2023-02-14 | 176 | 8 | 
 | 2023-02-12 | 176 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 175 | 8 | 
 | 2023-01-19 | 175 | 8 | 
 | 2023-01-18 | 175 | 8 | 
-| 2023-01-17 | 175 | 8 | 
 

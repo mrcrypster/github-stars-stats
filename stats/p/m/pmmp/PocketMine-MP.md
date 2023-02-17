@@ -1,10 +1,10 @@
 # pmmp/PocketMine-MP - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1666
+☋ Forks: 1664
 
-★ Stars: 2989
+★ Stars: 2987
 
 [Open repository](https://github.com/pmmp/PocketMine-MP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2987 | 1664 | 
 | 2023-02-15 | 2989 | 1666 | 
 | 2023-02-14 | 2987 | 1667 | 
 | 2023-02-13 | 2987 | 1669 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2973 | 1654 | 
 | 2023-01-19 | 2972 | 1651 | 
 | 2023-01-18 | 2972 | 1651 | 
-| 2023-01-17 | 2973 | 1652 | 
 

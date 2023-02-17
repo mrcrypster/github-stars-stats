@@ -1,10 +1,10 @@
 # google/json_serializable.dart - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 354
 
-★ Stars: 1391
+★ Stars: 1392
 
 [Open repository](https://github.com/google/json_serializable.dart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1392 | 354 | 
 | 2023-02-15 | 1391 | 354 | 
 | 2023-02-14 | 1391 | 354 | 
 | 2023-02-13 | 1390 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 1385 | 354 | 
 | 2023-01-20 | 1384 | 356 | 
 | 2023-01-19 | 1384 | 356 | 
-| 2023-01-18 | 1384 | 356 | 
 

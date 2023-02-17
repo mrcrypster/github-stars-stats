@@ -1,10 +1,10 @@
 # michael-rubel/livewire-best-practices - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 30
 
-★ Stars: 520
+★ Stars: 522
 
 [Open repository](https://github.com/michael-rubel/livewire-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 522 | 30 | 
 | 2023-02-15 | 520 | 30 | 
 | 2023-02-14 | 520 | 30 | 
 | 2023-02-13 | 517 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 502 | 30 | 
 | 2023-01-20 | 502 | 30 | 
 | 2023-01-18 | 502 | 30 | 
-| 2023-01-17 | 501 | 29 | 
 

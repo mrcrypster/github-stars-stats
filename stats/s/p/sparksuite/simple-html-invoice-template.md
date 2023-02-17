@@ -1,10 +1,10 @@
 # sparksuite/simple-html-invoice-template - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1152
+☋ Forks: 1153
 
-★ Stars: 1362
+★ Stars: 1363
 
 [Open repository](https://github.com/sparksuite/simple-html-invoice-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1363 | 1153 | 
 | 2023-02-15 | 1362 | 1152 | 
 | 2023-02-14 | 1360 | 1151 | 
 | 2023-02-13 | 1360 | 1150 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1349 | 1149 | 
 | 2023-01-19 | 1348 | 1149 | 
 | 2023-01-18 | 1348 | 1148 | 
-| 2023-01-17 | 1348 | 1147 | 
 

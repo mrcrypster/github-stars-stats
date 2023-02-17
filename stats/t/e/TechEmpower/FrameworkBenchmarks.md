@@ -1,8 +1,8 @@
 # TechEmpower/FrameworkBenchmarks - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1833
+☋ Forks: 1834
 
 ★ Stars: 6813
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 6813 | 1834 | 
 | 2023-02-15 | 6813 | 1833 | 
 | 2023-02-14 | 6812 | 1832 | 
 | 2023-02-13 | 6812 | 1832 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 6787 | 1827 | 
 | 2023-01-19 | 6786 | 1828 | 
 | 2023-01-18 | 6786 | 1825 | 
-| 2023-01-17 | 6786 | 1826 | 
 

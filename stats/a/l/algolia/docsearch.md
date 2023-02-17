@@ -1,10 +1,10 @@
 # algolia/docsearch - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 309
+☋ Forks: 311
 
-★ Stars: 3200
+★ Stars: 3206
 
 [Open repository](https://github.com/algolia/docsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3206 | 311 | 
 | 2023-02-15 | 3200 | 309 | 
 | 2023-02-14 | 3200 | 309 | 
 | 2023-02-13 | 3197 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3165 | 305 | 
 | 2023-01-19 | 3166 | 305 | 
 | 2023-01-18 | 3166 | 304 | 
-| 2023-01-17 | 3161 | 303 | 
 

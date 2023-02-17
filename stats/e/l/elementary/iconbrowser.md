@@ -1,10 +1,10 @@
 # elementary/iconbrowser - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/elementary/iconbrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 13 | 1 | 
 | 2023-02-16 | 12 | 1 | 
 | 2023-02-14 | 12 | 1 | 
 | 2023-02-13 | 12 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 11 | 1 | 
 | 2023-01-19 | 11 | 1 | 
 | 2023-01-18 | 11 | 1 | 
-| 2023-01-17 | 11 | 1 | 
 

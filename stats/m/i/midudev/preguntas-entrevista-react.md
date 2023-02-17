@@ -1,10 +1,10 @@
 # midudev/preguntas-entrevista-react - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 480
+☋ Forks: 481
 
-★ Stars: 3940
+★ Stars: 3951
 
 [Open repository](https://github.com/midudev/preguntas-entrevista-react)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3951 | 481 | 
 | 2023-02-15 | 3940 | 480 | 
 | 2023-02-14 | 3940 | 479 | 
 | 2023-02-12 | 3935 | 478 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3720 | 452 | 
 | 2023-01-19 | 3712 | 451 | 
 | 2023-01-18 | 3667 | 443 | 
-| 2023-01-17 | 3572 | 433 | 
 

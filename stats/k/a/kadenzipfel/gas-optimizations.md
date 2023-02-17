@@ -1,10 +1,10 @@
 # kadenzipfel/gas-optimizations - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 17
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 531
+★ Stars: 532
 
 [Open repository](https://github.com/kadenzipfel/gas-optimizations)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 532 | 55 | 
 | 2023-02-15 | 531 | 54 | 
 | 2023-02-14 | 531 | 54 | 
 | 2023-02-13 | 530 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 517 | 53 | 
 | 2023-01-19 | 517 | 53 | 
 | 2023-01-18 | 517 | 52 | 
-| 2023-01-17 | 516 | 52 | 
 

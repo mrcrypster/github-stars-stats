@@ -1,6 +1,6 @@
 # misskey-dev/misskey-hub - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 126 | 88 | 
 | 2023-02-15 | 126 | 88 | 
 | 2023-02-14 | 125 | 87 | 
 | 2023-02-13 | 124 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 100 | 69 | 
 | 2023-01-19 | 98 | 69 | 
 | 2023-01-18 | 95 | 66 | 
-| 2023-01-17 | 95 | 67 | 
 

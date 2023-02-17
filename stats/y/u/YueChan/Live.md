@@ -1,10 +1,10 @@
 # YueChan/Live - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 74
 
-★ Stars: 528
+★ Stars: 529
 
 [Open repository](https://github.com/YueChan/Live)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 529 | 74 | 
 | 2023-02-15 | 528 | 74 | 
 | 2023-02-14 | 526 | 74 | 
 | 2023-02-13 | 525 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 481 | 70 | 
 | 2023-01-19 | 478 | 70 | 
 | 2023-01-18 | 474 | 69 | 
-| 2023-01-17 | 470 | 68 | 
 

@@ -1,10 +1,10 @@
 # MakeMagazinDE/3-in-1-Werkbank - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/MakeMagazinDE/3-in-1-Werkbank)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 13 | 3 | 
 | 2023-02-15 | 12 | 3 | 
 | 2023-02-14 | 12 | 3 | 
 | 2023-02-13 | 12 | 3 | 

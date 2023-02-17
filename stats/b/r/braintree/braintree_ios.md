@@ -1,6 +1,6 @@
 # braintree/braintree_ios - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 299
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 522 | 299 | 
 | 2023-02-15 | 522 | 299 | 
 | 2023-02-14 | 522 | 299 | 
 | 2023-02-13 | 522 | 298 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 520 | 296 | 
 | 2023-01-19 | 520 | 296 | 
 | 2023-01-18 | 520 | 296 | 
-| 2023-01-17 | 520 | 295 | 
 

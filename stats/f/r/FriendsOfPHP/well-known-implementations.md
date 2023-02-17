@@ -1,6 +1,6 @@
 # FriendsOfPHP/well-known-implementations - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 70 | 2 | 
 | 2023-02-15 | 70 | 2 | 
 | 2023-02-14 | 70 | 2 | 
 | 2023-02-13 | 70 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 71 | 2 | 
 | 2023-01-20 | 71 | 2 | 
 | 2023-01-19 | 71 | 2 | 
-| 2023-01-18 | 71 | 2 | 
 

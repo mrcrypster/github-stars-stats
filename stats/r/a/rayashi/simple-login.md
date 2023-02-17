@@ -1,6 +1,6 @@
 # rayashi/simple-login - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 56 | 12 | 
 | 2023-02-15 | 56 | 12 | 
 | 2023-02-14 | 56 | 12 | 
 | 2023-02-12 | 56 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 54 | 12 | 
 | 2023-01-19 | 54 | 12 | 
 | 2023-01-18 | 54 | 12 | 
-| 2023-01-17 | 54 | 12 | 
 

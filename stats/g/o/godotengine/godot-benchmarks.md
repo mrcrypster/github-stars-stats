@@ -1,6 +1,6 @@
 # godotengine/godot-benchmarks - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 67 | 9 | 
 | 2023-02-15 | 67 | 9 | 
 | 2023-02-14 | 67 | 9 | 
 | 2023-02-13 | 65 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 60 | 8 | 
 | 2023-01-19 | 60 | 8 | 
 | 2023-01-18 | 60 | 8 | 
-| 2023-01-17 | 60 | 8 | 
 

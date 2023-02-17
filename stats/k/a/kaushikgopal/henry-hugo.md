@@ -1,10 +1,10 @@
 # kaushikgopal/henry-hugo - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/kaushikgopal/henry-hugo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 34 | 4 | 
 | 2023-02-15 | 33 | 4 | 
 | 2023-02-14 | 33 | 4 | 
 | 2023-02-13 | 33 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 30 | 4 | 
 | 2023-01-19 | 29 | 4 | 
 | 2023-01-18 | 29 | 4 | 
-| 2023-01-17 | 28 | 4 | 
 

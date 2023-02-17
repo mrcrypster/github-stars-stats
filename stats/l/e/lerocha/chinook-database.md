@@ -1,6 +1,6 @@
 # lerocha/chinook-database - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 427
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1256 | 427 | 
 | 2023-02-15 | 1256 | 427 | 
 | 2023-02-14 | 1252 | 425 | 
 | 2023-02-13 | 1251 | 426 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1224 | 417 | 
 | 2023-01-19 | 1223 | 417 | 
 | 2023-01-18 | 1223 | 416 | 
-| 2023-01-17 | 1221 | 415 | 
 

@@ -1,10 +1,10 @@
 # SHI-Labs/OneFormer - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 42
 
-★ Stars: 528
+★ Stars: 530
 
 [Open repository](https://github.com/SHI-Labs/OneFormer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 530 | 42 | 
 | 2023-02-15 | 528 | 42 | 
 | 2023-02-14 | 528 | 42 | 
 | 2023-02-13 | 528 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 471 | 37 | 
 | 2023-01-19 | 469 | 37 | 
 | 2023-01-18 | 466 | 38 | 
-| 2023-01-17 | 465 | 37 | 
 

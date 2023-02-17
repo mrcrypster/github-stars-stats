@@ -1,10 +1,10 @@
 # OSGeo/gdal - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 2000
 
-★ Stars: 3594
+★ Stars: 3596
 
 [Open repository](https://github.com/OSGeo/gdal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3596 | 2000 | 
 | 2023-02-15 | 3594 | 2000 | 
 | 2023-02-14 | 3590 | 1997 | 
 | 2023-02-13 | 3585 | 1997 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3550 | 1981 | 
 | 2023-01-19 | 3547 | 1980 | 
 | 2023-01-18 | 3547 | 1980 | 
-| 2023-01-17 | 3543 | 1979 | 
 

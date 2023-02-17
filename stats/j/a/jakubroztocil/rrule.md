@@ -1,10 +1,10 @@
 # jakubroztocil/rrule - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 464
 
-★ Stars: 2647
+★ Stars: 2651
 
 [Open repository](https://github.com/jakubroztocil/rrule)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 2651 | 464 | 
 | 2023-02-15 | 2647 | 464 | 
 | 2023-02-14 | 2638 | 464 | 
 | 2023-02-13 | 2637 | 464 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 2614 | 462 | 
 | 2023-01-19 | 2614 | 460 | 
 | 2023-01-18 | 2613 | 460 | 
-| 2023-01-17 | 2613 | 460 | 
 

@@ -1,6 +1,6 @@
 # IntelRealSense/meta-intel-realsense - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 27 | 22 | 
 | 2023-02-15 | 27 | 22 | 
 | 2023-02-14 | 27 | 22 | 
 | 2023-02-13 | 27 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 26 | 20 | 
 | 2023-01-19 | 26 | 20 | 
 | 2023-01-18 | 26 | 20 | 
-| 2023-01-17 | 26 | 20 | 
 

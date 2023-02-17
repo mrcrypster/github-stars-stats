@@ -1,10 +1,10 @@
 # yuanxiaosc/Machine-Learning-Book - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 248
 
-★ Stars: 909
+★ Stars: 908
 
 [Open repository](https://github.com/yuanxiaosc/Machine-Learning-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 908 | 248 | 
 | 2023-02-15 | 909 | 248 | 
 | 2023-02-14 | 909 | 248 | 
 | 2023-02-13 | 909 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 904 | 248 | 
 | 2023-01-19 | 903 | 248 | 
 | 2023-01-18 | 903 | 248 | 
-| 2023-01-17 | 902 | 248 | 
 

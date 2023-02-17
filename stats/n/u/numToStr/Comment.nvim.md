@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 16
 
 ☋ Forks: 68
 
-★ Stars: 2024
+★ Stars: 2027
 
 [Open repository](https://github.com/numToStr/Comment.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-16 | 2024 | 68 | 
+| 2023-02-16 | 2027 | 68 | 
 | 2023-02-15 | 2024 | 68 | 
 | 2023-02-14 | 2011 | 69 | 
 | 2023-02-12 | 2007 | 69 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 1942 | 66 | 
 | 2023-01-19 | 1939 | 65 | 
 | 2023-01-18 | 1933 | 65 | 
-| 2023-01-17 | 1926 | 64 | 
 

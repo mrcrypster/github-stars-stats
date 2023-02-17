@@ -1,10 +1,10 @@
 # 03-Cyber/azure-security-survival-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 41
+★ Stars: 44
 
 [Open repository](https://github.com/03-Cyber/azure-security-survival-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 44 | 5 | 
 | 2023-02-15 | 41 | 5 | 
 | 2023-02-14 | 40 | 5 | 
 | 2023-02-13 | 40 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 26 | 3 | 
 | 2023-01-19 | 25 | 2 | 
 | 2023-01-18 | 23 | 2 | 
-| 2023-01-17 | 23 | 2 | 
 

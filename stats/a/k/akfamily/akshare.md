@@ -1,10 +1,10 @@
 # akfamily/akshare - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1344
+☋ Forks: 1347
 
-★ Stars: 5983
+★ Stars: 5992
 
 [Open repository](https://github.com/akfamily/akshare)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 5992 | 1347 | 
 | 2023-02-15 | 5983 | 1344 | 
 | 2023-02-14 | 5975 | 1345 | 
 | 2023-02-13 | 5966 | 1343 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 5854 | 1311 | 
 | 2023-01-19 | 5849 | 1310 | 
 | 2023-01-18 | 5843 | 1311 | 
-| 2023-01-17 | 5838 | 1311 | 
 

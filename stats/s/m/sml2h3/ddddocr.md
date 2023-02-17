@@ -1,10 +1,10 @@
 # sml2h3/ddddocr - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 960
+☋ Forks: 964
 
-★ Stars: 4675
+★ Stars: 4684
 
 [Open repository](https://github.com/sml2h3/ddddocr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4684 | 964 | 
 | 2023-02-15 | 4675 | 960 | 
 | 2023-02-14 | 4665 | 957 | 
 | 2023-02-13 | 4659 | 956 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 4533 | 930 | 
 | 2023-01-20 | 4527 | 929 | 
 | 2023-01-18 | 4523 | 929 | 
-| 2023-01-17 | 4516 | 929 | 
 

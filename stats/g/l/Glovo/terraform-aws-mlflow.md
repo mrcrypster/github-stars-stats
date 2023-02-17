@@ -1,6 +1,6 @@
 # Glovo/terraform-aws-mlflow - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 43 | 20 | 
 | 2023-02-15 | 43 | 20 | 
 | 2023-02-14 | 43 | 20 | 
 | 2023-02-13 | 43 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 43 | 20 | 
 | 2023-01-19 | 43 | 20 | 
 | 2023-01-18 | 43 | 20 | 
-| 2023-01-17 | 42 | 20 | 
 

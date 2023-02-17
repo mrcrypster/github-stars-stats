@@ -1,6 +1,6 @@
 # clickvisual/clickvisual - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1043 | 161 | 
 | 2023-02-15 | 1043 | 161 | 
 | 2023-02-14 | 1039 | 161 | 
 | 2023-02-13 | 1038 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1022 | 160 | 
 | 2023-01-19 | 1021 | 159 | 
 | 2023-01-18 | 1019 | 158 | 
-| 2023-01-17 | 1016 | 158 | 
 

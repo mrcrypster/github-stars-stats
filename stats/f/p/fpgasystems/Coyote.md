@@ -1,10 +1,10 @@
 # fpgasystems/Coyote - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 24
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/fpgasystems/Coyote)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 86 | 24 | 
 | 2023-02-15 | 85 | 24 | 
 | 2023-02-14 | 84 | 24 | 
 | 2023-02-13 | 83 | 23 | 

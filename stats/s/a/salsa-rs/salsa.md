@@ -1,10 +1,10 @@
 # salsa-rs/salsa - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 118
 
-★ Stars: 1708
+★ Stars: 1709
 
 [Open repository](https://github.com/salsa-rs/salsa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1709 | 118 | 
 | 2023-02-15 | 1708 | 118 | 
 | 2023-02-14 | 1707 | 118 | 
 | 2023-02-13 | 1705 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1684 | 116 | 
 | 2023-01-19 | 1682 | 116 | 
 | 2023-01-18 | 1682 | 116 | 
-| 2023-01-17 | 1681 | 116 | 
 

@@ -1,10 +1,10 @@
 # st--/annotate-equations - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 5
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/st--/annotate-equations)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 159 | 5 | 
 | 2023-02-16 | 158 | 5 | 
 | 2023-02-14 | 157 | 5 | 
 | 2023-02-13 | 156 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 150 | 4 | 
 | 2023-01-19 | 148 | 3 | 
 | 2023-01-18 | 148 | 3 | 
-| 2023-01-17 | 147 | 3 | 
 

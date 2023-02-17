@@ -1,10 +1,10 @@
 # wbkd/react-flow - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 909
 
-★ Stars: 13714
+★ Stars: 13726
 
 [Open repository](https://github.com/wbkd/react-flow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 13726 | 909 | 
 | 2023-02-15 | 13714 | 909 | 
 | 2023-02-14 | 13709 | 906 | 
 | 2023-02-13 | 13694 | 907 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 13414 | 878 | 
 | 2023-01-19 | 13399 | 878 | 
 | 2023-01-18 | 13386 | 878 | 
-| 2023-01-17 | 13369 | 876 | 
 

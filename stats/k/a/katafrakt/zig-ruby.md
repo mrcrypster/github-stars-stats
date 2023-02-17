@@ -1,10 +1,10 @@
 # katafrakt/zig-ruby - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/katafrakt/zig-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 46 | - | 
 | 2023-02-16 | 45 | - | 
 | 2023-02-14 | 45 | - | 
 | 2023-02-13 | 45 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 45 | - | 
 | 2023-01-19 | 45 | - | 
 | 2023-01-18 | 45 | - | 
-| 2023-01-17 | 45 | - | 
 

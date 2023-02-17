@@ -1,8 +1,8 @@
 # jbranchaud/til - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 657
+☋ Forks: 658
 
 ★ Stars: 10900
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 10900 | 658 | 
 | 2023-02-15 | 10900 | 657 | 
 | 2023-02-14 | 10901 | 657 | 
 | 2023-02-13 | 10900 | 657 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 10870 | 652 | 
 | 2023-01-19 | 10869 | 652 | 
 | 2023-01-18 | 10868 | 652 | 
-| 2023-01-17 | 10867 | 652 | 
 

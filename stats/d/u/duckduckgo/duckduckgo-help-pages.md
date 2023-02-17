@@ -1,6 +1,6 @@
 # duckduckgo/duckduckgo-help-pages - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 84 | 65 | 
 | 2023-02-15 | 84 | 65 | 
 | 2023-02-14 | 84 | 65 | 
 | 2023-02-13 | 83 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 81 | 63 | 
 | 2023-01-20 | 80 | 63 | 
 | 2023-01-18 | 80 | 63 | 
-| 2023-01-17 | 79 | 63 | 
 

@@ -1,6 +1,6 @@
 # MiSTer-devel/ao486_MiSTer - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 169 | 56 | 
 | 2023-02-15 | 169 | 56 | 
 | 2023-02-14 | 169 | 56 | 
 | 2023-02-13 | 169 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 168 | 55 | 
 | 2023-01-20 | 168 | 55 | 
 | 2023-01-19 | 167 | 55 | 
-| 2023-01-18 | 167 | 55 | 
 

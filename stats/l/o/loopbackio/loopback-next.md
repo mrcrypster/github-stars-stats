@@ -1,8 +1,8 @@
 # loopbackio/loopback-next - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 1013
+☋ Forks: 1015
 
 ★ Stars: 4429
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4429 | 1015 | 
 | 2023-02-15 | 4429 | 1013 | 
 | 2023-02-14 | 4428 | 1013 | 
 | 2023-02-13 | 4426 | 1013 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 4415 | 1005 | 
 | 2023-01-19 | 4415 | 1005 | 
 | 2023-01-18 | 4415 | 1004 | 
-| 2023-01-17 | 4414 | 1004 | 
 

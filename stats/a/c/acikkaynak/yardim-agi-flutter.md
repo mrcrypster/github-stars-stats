@@ -1,8 +1,8 @@
 # acikkaynak/yardim-agi-flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 69
+☋ Forks: 68
 
 ★ Stars: 182
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 182 | 68 | 
 | 2023-02-15 | 182 | 69 | 
 | 2023-02-14 | 180 | 69 | 
 | 2023-02-13 | 177 | 69 | 

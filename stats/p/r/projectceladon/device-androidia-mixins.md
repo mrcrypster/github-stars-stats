@@ -1,6 +1,6 @@
 # projectceladon/device-androidia-mixins - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 13 | 204 | 
 | 2023-02-15 | 13 | 204 | 
 | 2023-02-13 | 13 | 204 | 
 | 2023-02-12 | 13 | 204 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 14 | 203 | 
 | 2023-01-19 | 14 | 203 | 
 | 2023-01-18 | 14 | 203 | 
-| 2023-01-17 | 14 | 203 | 
 

@@ -1,6 +1,6 @@
 # cncf/udpa - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 214 | 74 | 
 | 2023-02-15 | 214 | 74 | 
 | 2023-02-14 | 214 | 74 | 
 | 2023-02-13 | 214 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 214 | 73 | 
 | 2023-01-19 | 214 | 73 | 
 | 2023-01-18 | 214 | 73 | 
-| 2023-01-17 | 214 | 73 | 
 

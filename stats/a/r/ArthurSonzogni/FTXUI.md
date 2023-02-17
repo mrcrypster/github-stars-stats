@@ -1,10 +1,10 @@
 # ArthurSonzogni/FTXUI - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 272
+☋ Forks: 273
 
-★ Stars: 4177
+★ Stars: 4178
 
 [Open repository](https://github.com/ArthurSonzogni/FTXUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 4178 | 273 | 
 | 2023-02-15 | 4177 | 272 | 
 | 2023-02-14 | 4170 | 272 | 
 | 2023-02-13 | 4163 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 4103 | 265 | 
 | 2023-01-19 | 4099 | 265 | 
 | 2023-01-18 | 4095 | 265 | 
-| 2023-01-17 | 4090 | 265 | 
 

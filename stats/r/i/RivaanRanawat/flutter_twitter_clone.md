@@ -1,10 +1,10 @@
 # RivaanRanawat/flutter_twitter_clone - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 26
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/RivaanRanawat/flutter_twitter_clone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 64 | 26 | 
 | 2023-02-15 | 63 | 26 | 
 | 2023-02-14 | 63 | 26 | 
 | 2023-02-13 | 63 | 26 | 

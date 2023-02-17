@@ -1,10 +1,10 @@
 # ferdium/ferdium-app - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 104
 
-★ Stars: 1420
+★ Stars: 1424
 
 [Open repository](https://github.com/ferdium/ferdium-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 1424 | 104 | 
 | 2023-02-15 | 1420 | 104 | 
 | 2023-02-14 | 1416 | 104 | 
 | 2023-02-13 | 1409 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 1312 | 100 | 
 | 2023-01-19 | 1304 | 99 | 
 | 2023-01-18 | 1301 | 99 | 
-| 2023-01-17 | 1297 | 99 | 
 

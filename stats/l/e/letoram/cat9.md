@@ -1,6 +1,6 @@
 # letoram/cat9 - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 398 | 11 | 
 | 2023-02-15 | 398 | 11 | 
 | 2023-02-14 | 398 | 11 | 
 | 2023-02-13 | 397 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 391 | 11 | 
 | 2023-01-19 | 391 | 11 | 
 | 2023-01-18 | 391 | 11 | 
-| 2023-01-17 | 391 | 11 | 
 

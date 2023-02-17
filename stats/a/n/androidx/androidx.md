@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 16
 
 ☋ Forks: 708
 
-★ Stars: 4281
+★ Stars: 4282
 
 [Open repository](https://github.com/androidx/androidx)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-16 | 4281 | 708 | 
+| 2023-02-16 | 4282 | 708 | 
 | 2023-02-15 | 4281 | 708 | 
 | 2023-02-14 | 4277 | 707 | 
 | 2023-02-13 | 4276 | 707 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-20 | 4228 | 696 | 
 | 2023-01-19 | 4225 | 696 | 
 | 2023-01-18 | 4223 | 697 | 
-| 2023-01-17 | 4223 | 696 | 
 

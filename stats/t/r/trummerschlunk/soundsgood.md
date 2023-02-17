@@ -1,6 +1,6 @@
 # trummerschlunk/soundsgood - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 145 | 5 | 
 | 2023-02-15 | 145 | 5 | 
 | 2023-02-14 | 145 | 5 | 
 | 2023-02-13 | 145 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 142 | 5 | 
 | 2023-01-19 | 142 | 5 | 
 | 2023-01-18 | 142 | 5 | 
-| 2023-01-17 | 141 | 5 | 
 

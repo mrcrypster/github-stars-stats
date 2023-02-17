@@ -1,10 +1,10 @@
 # eligrey/FileSaver.js - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 4412
 
-★ Stars: 20030
+★ Stars: 20035
 
 [Open repository](https://github.com/eligrey/FileSaver.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 20035 | 4412 | 
 | 2023-02-15 | 20030 | 4412 | 
 | 2023-02-14 | 20026 | 4413 | 
 | 2023-02-13 | 20023 | 4413 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 19947 | 4402 | 
 | 2023-01-19 | 19943 | 4401 | 
 | 2023-01-18 | 19941 | 4401 | 
-| 2023-01-17 | 19931 | 4400 | 
 

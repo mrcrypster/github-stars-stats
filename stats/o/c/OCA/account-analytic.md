@@ -1,8 +1,8 @@
 # OCA/account-analytic - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
-☋ Forks: 320
+☋ Forks: 321
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 80 | 321 | 
 | 2023-02-15 | 80 | 320 | 
 | 2023-02-14 | 80 | 320 | 
 | 2023-02-13 | 80 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 79 | 315 | 
 | 2023-01-19 | 79 | 315 | 
 | 2023-01-18 | 79 | 315 | 
-| 2023-01-17 | 79 | 315 | 
 

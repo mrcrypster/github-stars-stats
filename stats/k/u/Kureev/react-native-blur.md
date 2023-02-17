@@ -1,10 +1,10 @@
 # Kureev/react-native-blur - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 542
 
-★ Stars: 3463
+★ Stars: 3464
 
 [Open repository](https://github.com/Kureev/react-native-blur)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 3464 | 542 | 
 | 2023-02-15 | 3463 | 542 | 
 | 2023-02-14 | 3463 | 541 | 
 | 2023-02-13 | 3462 | 540 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 3440 | 533 | 
 | 2023-01-19 | 3438 | 531 | 
 | 2023-01-18 | 3438 | 530 | 
-| 2023-01-17 | 3438 | 530 | 
 

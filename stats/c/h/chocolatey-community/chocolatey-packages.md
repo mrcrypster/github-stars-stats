@@ -1,6 +1,6 @@
 # chocolatey-community/chocolatey-packages - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 340
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 390 | 340 | 
 | 2023-02-15 | 390 | 340 | 
 | 2023-02-14 | 390 | 339 | 
 | 2023-02-13 | 390 | 339 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-21 | 389 | 333 | 
 | 2023-01-20 | 389 | 333 | 
 | 2023-01-19 | 389 | 333 | 
-| 2023-01-18 | 389 | 333 | 
 

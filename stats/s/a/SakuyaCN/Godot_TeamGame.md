@@ -1,10 +1,10 @@
 # SakuyaCN/Godot_TeamGame - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 17
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/SakuyaCN/Godot_TeamGame)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 46 | 17 | 
 | 2023-02-15 | 45 | 17 | 
 | 2023-02-14 | 45 | 17 | 
 | 2023-02-13 | 45 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 15
 | 2023-01-20 | 42 | 18 | 
 | 2023-01-19 | 42 | 18 | 
 | 2023-01-18 | 42 | 18 | 
-| 2023-01-17 | 42 | 18 | 
 

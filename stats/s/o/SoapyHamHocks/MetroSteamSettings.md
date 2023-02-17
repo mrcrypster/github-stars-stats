@@ -1,10 +1,10 @@
 # SoapyHamHocks/MetroSteamSettings - stars & forks statistics
 
-Stats updated on Feb 2023, 15
+Stats updated on Feb 2023, 16
 
 ☋ Forks: 12
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/SoapyHamHocks/MetroSteamSettings)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-16 | 145 | 12 | 
 | 2023-02-15 | 144 | 12 | 
 | 2023-02-14 | 144 | 12 | 
 | 2023-02-12 | 144 | 12 | 
