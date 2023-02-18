@@ -1,10 +1,10 @@
 # abraunegg/onedrive - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 800
+☋ Forks: 802
 
-★ Stars: 7253
+★ Stars: 7257
 
 [Open repository](https://github.com/abraunegg/onedrive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 7257 | 802 | 
 | 2023-02-16 | 7253 | 800 | 
 | 2023-02-15 | 7239 | 800 | 
 | 2023-02-14 | 7239 | 800 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 7108 | 788 | 
 | 2023-01-20 | 7102 | 789 | 
 | 2023-01-19 | 7098 | 789 | 
-| 2023-01-18 | 7098 | 789 | 
 

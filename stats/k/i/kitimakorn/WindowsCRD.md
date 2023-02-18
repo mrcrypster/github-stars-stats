@@ -1,8 +1,8 @@
 # kitimakorn/WindowsCRD - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 497
+☋ Forks: 508
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 8 | 508 | 
 | 2023-02-17 | 8 | 497 | 
 | 2023-02-16 | 8 | 489 | 
 | 2023-02-14 | 8 | 476 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 6 | 278 | 
 | 2023-01-20 | 6 | 275 | 
 | 2023-01-19 | 6 | 274 | 
-| 2023-01-18 | 6 | 273 | 
 

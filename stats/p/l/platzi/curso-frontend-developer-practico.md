@@ -1,8 +1,8 @@
 # platzi/curso-frontend-developer-practico - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 3229
+☋ Forks: 3248
 
 ★ Stars: 224
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 224 | 3248 | 
 | 2023-02-16 | 224 | 3229 | 
 | 2023-02-15 | 224 | 3215 | 
 | 2023-02-14 | 224 | 3194 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 217 | 2897 | 
 | 2023-01-20 | 217 | 2877 | 
 | 2023-01-19 | 217 | 2859 | 
-| 2023-01-18 | 216 | 2840 | 
 

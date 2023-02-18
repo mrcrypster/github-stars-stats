@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 17
 
-☋ Forks: 47
+☋ Forks: 51
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/iranee/qnap-alist-webdav)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 411 | 47 | 
+| 2023-02-17 | 412 | 51 | 
 | 2023-02-16 | 410 | 47 | 
 | 2023-02-15 | 403 | 35 | 
 | 2023-02-14 | 398 | 28 | 

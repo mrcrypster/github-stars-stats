@@ -1,10 +1,10 @@
 # loudsmilestudios/TetraForce - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 65
 
-★ Stars: 503
+★ Stars: 504
 
 [Open repository](https://github.com/loudsmilestudios/TetraForce)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 504 | 65 | 
 | 2023-02-16 | 503 | 65 | 
 | 2023-02-15 | 501 | 64 | 
 | 2023-02-14 | 501 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 497 | 64 | 
 | 2023-01-20 | 497 | 64 | 
 | 2023-01-19 | 497 | 64 | 
-| 2023-01-18 | 498 | 64 | 
 

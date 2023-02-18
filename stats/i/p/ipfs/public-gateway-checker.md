@@ -1,10 +1,10 @@
 # ipfs/public-gateway-checker - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 237
 
-★ Stars: 794
+★ Stars: 797
 
 [Open repository](https://github.com/ipfs/public-gateway-checker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 797 | 237 | 
 | 2023-02-16 | 794 | 237 | 
 | 2023-02-15 | 792 | 236 | 
 | 2023-02-14 | 791 | 236 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 746 | 231 | 
 | 2023-01-20 | 745 | 230 | 
 | 2023-01-19 | 742 | 230 | 
-| 2023-01-18 | 739 | 230 | 
 

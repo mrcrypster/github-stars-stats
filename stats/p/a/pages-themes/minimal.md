@@ -1,10 +1,10 @@
 # pages-themes/minimal - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 4414
+☋ Forks: 4417
 
-★ Stars: 1148
+★ Stars: 1149
 
 [Open repository](https://github.com/pages-themes/minimal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1149 | 4417 | 
 | 2023-02-16 | 1148 | 4414 | 
 | 2023-02-15 | 1146 | 4410 | 
 | 2023-02-14 | 1146 | 4411 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1135 | 4312 | 
 | 2023-01-20 | 1134 | 4307 | 
 | 2023-01-19 | 1132 | 4305 | 
-| 2023-01-18 | 1132 | 4304 | 
 

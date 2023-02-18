@@ -1,10 +1,10 @@
 # neovim/neovim - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 4440
+☋ Forks: 4444
 
-★ Stars: 62395
+★ Stars: 62441
 
 [Open repository](https://github.com/neovim/neovim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 62441 | 4444 | 
 | 2023-02-16 | 62395 | 4440 | 
 | 2023-02-15 | 62301 | 4433 | 
 | 2023-02-14 | 62291 | 4433 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 61582 | 4356 | 
 | 2023-01-20 | 61568 | 4332 | 
 | 2023-01-19 | 61533 | 4311 | 
-| 2023-01-18 | 61486 | 4293 | 
 

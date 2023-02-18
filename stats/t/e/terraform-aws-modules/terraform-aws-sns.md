@@ -1,8 +1,8 @@
 # terraform-aws-modules/terraform-aws-sns - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 132
+☋ Forks: 133
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 72 | 133 | 
 | 2023-02-16 | 72 | 132 | 
 | 2023-02-15 | 72 | 132 | 
 | 2023-02-14 | 72 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 72 | 129 | 
 | 2023-01-21 | 72 | 129 | 
 | 2023-01-20 | 71 | 129 | 
-| 2023-01-18 | 71 | 129 | 
 

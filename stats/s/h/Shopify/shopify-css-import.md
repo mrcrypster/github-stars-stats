@@ -1,6 +1,6 @@
 # Shopify/shopify-css-import - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 81 | 19 | 
 | 2023-02-16 | 81 | 19 | 
 | 2023-02-15 | 81 | 19 | 
 | 2023-02-14 | 81 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 81 | 19 | 
 | 2023-01-20 | 80 | 17 | 
 | 2023-01-19 | 80 | 17 | 
-| 2023-01-18 | 80 | 17 | 
 

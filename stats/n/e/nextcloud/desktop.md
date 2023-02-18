@@ -1,10 +1,10 @@
 # nextcloud/desktop - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 676
 
-★ Stars: 2330
+★ Stars: 2333
 
 [Open repository](https://github.com/nextcloud/desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2333 | 676 | 
 | 2023-02-16 | 2330 | 676 | 
 | 2023-02-15 | 2329 | 675 | 
 | 2023-02-14 | 2329 | 674 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2302 | 668 | 
 | 2023-01-20 | 2301 | 668 | 
 | 2023-01-19 | 2298 | 668 | 
-| 2023-01-18 | 2296 | 667 | 
 

@@ -1,6 +1,6 @@
 # uber/cadence-idl - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6 | 20 | 
 | 2023-02-16 | 6 | 20 | 
 | 2023-02-15 | 6 | 20 | 
 | 2023-02-14 | 6 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 7 | 18 | 
 | 2023-01-20 | 7 | 18 | 
 | 2023-01-19 | 7 | 18 | 
-| 2023-01-18 | 7 | 18 | 
 

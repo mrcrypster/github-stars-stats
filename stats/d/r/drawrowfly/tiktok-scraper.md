@@ -1,6 +1,6 @@
 # drawrowfly/tiktok-scraper - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 689
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3347 | 689 | 
 | 2023-02-16 | 3347 | 689 | 
 | 2023-02-15 | 3345 | 690 | 
 | 2023-02-14 | 3344 | 690 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3285 | 686 | 
 | 2023-01-20 | 3284 | 686 | 
 | 2023-01-19 | 3283 | 685 | 
-| 2023-01-18 | 3281 | 683 | 
 

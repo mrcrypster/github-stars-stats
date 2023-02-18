@@ -1,10 +1,10 @@
 # tamjid0x01/SmartContracts-audit-checklist - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 46
 
-★ Stars: 333
+★ Stars: 337
 
 [Open repository](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 337 | 46 | 
 | 2023-02-16 | 333 | 46 | 
 | 2023-02-15 | 332 | 46 | 
 | 2023-02-14 | 330 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 314 | 41 | 
 | 2023-01-20 | 313 | 41 | 
 | 2023-01-19 | 310 | 40 | 
-| 2023-01-18 | 307 | 38 | 
 

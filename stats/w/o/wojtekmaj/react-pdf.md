@@ -1,10 +1,10 @@
 # wojtekmaj/react-pdf - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 716
 
-★ Stars: 6811
+★ Stars: 6815
 
 [Open repository](https://github.com/wojtekmaj/react-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6815 | 716 | 
 | 2023-02-17 | 6811 | 716 | 
 | 2023-02-16 | 6809 | 717 | 
 | 2023-02-15 | 6805 | 716 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 6721 | 710 | 
 | 2023-01-20 | 6718 | 710 | 
 | 2023-01-19 | 6714 | 709 | 
-| 2023-01-18 | 6707 | 707 | 
 

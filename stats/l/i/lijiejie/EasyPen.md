@@ -1,10 +1,10 @@
 # lijiejie/EasyPen - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 62
 
-★ Stars: 495
+★ Stars: 496
 
 [Open repository](https://github.com/lijiejie/EasyPen)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 496 | 62 | 
 | 2023-02-16 | 495 | 62 | 
 | 2023-02-15 | 495 | 62 | 
 | 2023-02-14 | 495 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 493 | 58 | 
 | 2023-01-20 | 493 | 58 | 
 | 2023-01-19 | 493 | 58 | 
-| 2023-01-18 | 493 | 58 | 
 

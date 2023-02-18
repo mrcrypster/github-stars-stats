@@ -1,10 +1,10 @@
 # facebook/facebook-php-business-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 501
 
-★ Stars: 733
+★ Stars: 732
 
 [Open repository](https://github.com/facebook/facebook-php-business-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 732 | 501 | 
 | 2023-02-16 | 733 | 501 | 
 | 2023-02-15 | 733 | 501 | 
 | 2023-02-14 | 732 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 726 | 500 | 
 | 2023-01-20 | 725 | 500 | 
 | 2023-01-19 | 725 | 500 | 
-| 2023-01-18 | 725 | 500 | 
 

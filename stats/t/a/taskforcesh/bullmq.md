@@ -1,10 +1,10 @@
 # taskforcesh/bullmq - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 249
 
-★ Stars: 3322
+★ Stars: 3327
 
 [Open repository](https://github.com/taskforcesh/bullmq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3327 | 249 | 
 | 2023-02-16 | 3322 | 249 | 
 | 2023-02-15 | 3319 | 249 | 
 | 2023-02-14 | 3318 | 248 | 

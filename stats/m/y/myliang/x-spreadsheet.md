@@ -1,10 +1,10 @@
 # myliang/x-spreadsheet - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1523
+☋ Forks: 1525
 
-★ Stars: 13077
+★ Stars: 13079
 
 [Open repository](https://github.com/myliang/x-spreadsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 13079 | 1525 | 
 | 2023-02-16 | 13077 | 1523 | 
 | 2023-02-15 | 13074 | 1523 | 
 | 2023-02-14 | 13071 | 1523 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 13021 | 1514 | 
 | 2023-01-20 | 13016 | 1514 | 
 | 2023-01-19 | 13016 | 1513 | 
-| 2023-01-18 | 13014 | 1513 | 
 

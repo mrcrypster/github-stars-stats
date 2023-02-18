@@ -1,10 +1,10 @@
 # onetrueawk/awk - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 139
+☋ Forks: 140
 
-★ Stars: 1578
+★ Stars: 1580
 
 [Open repository](https://github.com/onetrueawk/awk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1580 | 140 | 
 | 2023-02-16 | 1578 | 139 | 
 | 2023-02-15 | 1575 | 138 | 
 | 2023-02-14 | 1574 | 138 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1563 | 138 | 
 | 2023-01-20 | 1562 | 138 | 
 | 2023-01-19 | 1558 | 138 | 
-| 2023-01-18 | 1558 | 138 | 
 

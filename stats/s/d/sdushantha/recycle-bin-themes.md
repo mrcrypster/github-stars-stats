@@ -1,6 +1,6 @@
 # sdushantha/recycle-bin-themes - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 356 | 48 | 
 | 2023-02-16 | 356 | 48 | 
 | 2023-02-15 | 356 | 48 | 
 | 2023-02-14 | 358 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 349 | 47 | 
 | 2023-01-20 | 347 | 47 | 
 | 2023-01-19 | 347 | 47 | 
-| 2023-01-18 | 347 | 47 | 
 

@@ -1,8 +1,8 @@
 # arshsisodiya/helios-mirror - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1428
+☋ Forks: 1430
 
 ★ Stars: 366
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 366 | 1430 | 
 | 2023-02-16 | 366 | 1428 | 
 | 2023-02-15 | 366 | 1427 | 
 | 2023-02-14 | 366 | 1427 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 368 | 1414 | 
 | 2023-01-21 | 368 | 1414 | 
 | 2023-01-20 | 367 | 1413 | 
-| 2023-01-19 | 367 | 1409 | 
 

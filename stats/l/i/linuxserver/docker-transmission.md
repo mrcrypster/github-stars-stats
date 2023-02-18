@@ -1,10 +1,10 @@
 # linuxserver/docker-transmission - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 167
+☋ Forks: 168
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/linuxserver/docker-transmission)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 412 | 168 | 
 | 2023-02-16 | 411 | 167 | 
 | 2023-02-15 | 411 | 166 | 
 | 2023-02-14 | 411 | 166 | 

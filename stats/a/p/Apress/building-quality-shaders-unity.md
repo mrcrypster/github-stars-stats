@@ -1,6 +1,6 @@
 # Apress/building-quality-shaders-unity - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 97 | 3 | 
 | 2023-02-16 | 97 | 3 | 
 | 2023-02-15 | 96 | 3 | 
 | 2023-02-14 | 96 | 3 | 

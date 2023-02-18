@@ -1,6 +1,6 @@
 # beeyev/phpmyadmin-docker-lightweight - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 45 | - | 
 | 2023-02-16 | 45 | - | 
 | 2023-02-15 | 45 | - | 
 | 2023-02-14 | 45 | - | 

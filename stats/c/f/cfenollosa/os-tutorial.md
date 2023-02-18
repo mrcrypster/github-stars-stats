@@ -1,10 +1,10 @@
 # cfenollosa/os-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 3054
+☋ Forks: 3056
 
-★ Stars: 24513
+★ Stars: 24516
 
 [Open repository](https://github.com/cfenollosa/os-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 24516 | 3056 | 
 | 2023-02-16 | 24513 | 3054 | 
 | 2023-02-15 | 24506 | 3052 | 
 | 2023-02-14 | 24505 | 3052 | 

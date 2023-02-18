@@ -1,10 +1,10 @@
 # php-fig/log - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 172
 
-★ Stars: 10115
+★ Stars: 10116
 
 [Open repository](https://github.com/php-fig/log)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 10116 | 172 | 
 | 2023-02-16 | 10115 | 172 | 
 | 2023-02-15 | 10115 | 172 | 
 | 2023-02-14 | 10112 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 10088 | 172 | 
 | 2023-01-20 | 10086 | 172 | 
 | 2023-01-19 | 10086 | 172 | 
-| 2023-01-18 | 10086 | 172 | 
 

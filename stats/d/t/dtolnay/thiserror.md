@@ -1,10 +1,10 @@
 # dtolnay/thiserror - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 108
 
-★ Stars: 3039
+★ Stars: 3041
 
 [Open repository](https://github.com/dtolnay/thiserror)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3041 | 108 | 
 | 2023-02-16 | 3039 | 108 | 
 | 2023-02-15 | 3033 | 108 | 
 | 2023-02-14 | 3027 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2943 | 106 | 
 | 2023-01-20 | 2940 | 106 | 
 | 2023-01-19 | 2937 | 106 | 
-| 2023-01-18 | 2936 | 106 | 
 

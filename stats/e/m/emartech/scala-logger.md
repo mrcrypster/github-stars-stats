@@ -1,6 +1,6 @@
 # emartech/scala-logger - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 14 | 3 | 
 | 2023-02-16 | 14 | 3 | 
 | 2023-02-15 | 14 | 3 | 
 | 2023-02-14 | 14 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 14 | 3 | 
 | 2023-01-20 | 14 | 3 | 
 | 2023-01-19 | 14 | 3 | 
-| 2023-01-18 | 14 | 3 | 
 

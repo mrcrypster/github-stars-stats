@@ -1,6 +1,6 @@
 # SmartContractSecurity/SWC-registry - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 678 | 140 | 
 | 2023-02-16 | 678 | 140 | 
 | 2023-02-15 | 677 | 140 | 
 | 2023-02-14 | 677 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 665 | 138 | 
 | 2023-01-20 | 664 | 138 | 
 | 2023-01-19 | 664 | 138 | 
-| 2023-01-18 | 663 | 138 | 
 

@@ -1,10 +1,10 @@
 # monitoringartist/grafana-aws-cloudwatch-dashboards - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 717
+☋ Forks: 718
 
-★ Stars: 1723
+★ Stars: 1724
 
 [Open repository](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1724 | 718 | 
 | 2023-02-16 | 1723 | 717 | 
 | 2023-02-15 | 1723 | 718 | 
 | 2023-02-14 | 1722 | 718 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1702 | 715 | 
 | 2023-01-20 | 1702 | 715 | 
 | 2023-01-19 | 1701 | 712 | 
-| 2023-01-18 | 1701 | 712 | 
 

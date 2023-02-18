@@ -1,6 +1,6 @@
 # lihop/godot-xterm - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 62 | 8 | 
 | 2023-02-16 | 62 | 8 | 
 | 2023-02-15 | 61 | 8 | 
 | 2023-02-14 | 61 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 57 | 7 | 
 | 2023-01-21 | 57 | 7 | 
 | 2023-01-20 | 57 | 7 | 
-| 2023-01-18 | 57 | 7 | 
 

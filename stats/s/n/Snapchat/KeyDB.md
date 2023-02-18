@@ -1,10 +1,10 @@
 # Snapchat/KeyDB - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 408
 
-★ Stars: 6860
+★ Stars: 6873
 
 [Open repository](https://github.com/Snapchat/KeyDB)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6873 | 408 | 
 | 2023-02-16 | 6860 | 408 | 
 | 2023-02-15 | 6837 | 408 | 
 | 2023-02-14 | 6830 | 407 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 6564 | 397 | 
 | 2023-01-20 | 6562 | 397 | 
 | 2023-01-19 | 6558 | 397 | 
-| 2023-01-18 | 6549 | 397 | 
 

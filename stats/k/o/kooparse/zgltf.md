@@ -1,6 +1,6 @@
 # kooparse/zgltf - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 22 | - | 
 | 2023-02-16 | 22 | - | 
 | 2023-02-15 | 22 | - | 
 | 2023-02-14 | 22 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 21 | - | 
 | 2023-01-20 | 20 | - | 
 | 2023-01-19 | 20 | - | 
-| 2023-01-18 | 20 | - | 
 

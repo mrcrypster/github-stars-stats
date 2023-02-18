@@ -1,10 +1,10 @@
 # ee7/binary-size - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/ee7/binary-size)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 18 | - | 
 | 2023-02-16 | 17 | - | 
 | 2023-02-15 | 17 | - | 
 | 2023-02-14 | 16 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 16 | - | 
 | 2023-01-20 | 16 | - | 
 | 2023-01-19 | 16 | - | 
-| 2023-01-18 | 16 | - | 
 

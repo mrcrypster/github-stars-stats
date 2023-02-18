@@ -1,8 +1,8 @@
 # hashicorp/terraform-provider-google - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 1515
+☋ Forks: 1519
 
 ★ Stars: 1923
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1923 | 1519 | 
 | 2023-02-17 | 1923 | 1515 | 
 | 2023-02-15 | 1916 | 1515 | 
 | 2023-02-14 | 1915 | 1514 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 1900 | 1500 | 
 | 2023-01-20 | 1900 | 1500 | 
 | 2023-01-19 | 1897 | 1498 | 
-| 2023-01-18 | 1896 | 1499 | 
 

@@ -1,10 +1,10 @@
 # nubank/matcher-combinators - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 19
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/nubank/matcher-combinators)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 374 | 19 | 
+| 2023-02-17 | 374 | 19 | 
 | 2023-02-16 | 373 | 19 | 
 | 2023-02-15 | 373 | 19 | 
 | 2023-02-14 | 373 | 19 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 363 | 18 | 
 | 2023-01-20 | 362 | 18 | 
 | 2023-01-19 | 362 | 18 | 
-| 2023-01-18 | 362 | 18 | 
 

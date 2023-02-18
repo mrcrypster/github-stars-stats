@@ -1,10 +1,10 @@
 # MirrorNetworking/Mirror - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 637
 
-★ Stars: 3904
+★ Stars: 3908
 
 [Open repository](https://github.com/MirrorNetworking/Mirror)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3908 | 637 | 
 | 2023-02-16 | 3904 | 637 | 
 | 2023-02-15 | 3900 | 637 | 
 | 2023-02-14 | 3895 | 637 | 

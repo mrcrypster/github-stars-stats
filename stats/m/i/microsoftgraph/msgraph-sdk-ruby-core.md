@@ -1,10 +1,10 @@
 # microsoftgraph/msgraph-sdk-ruby-core - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/microsoftgraph/msgraph-sdk-ruby-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 5 | - | 
 | 2023-02-16 | 4 | - | 
 | 2023-02-15 | 4 | - | 
 | 2023-02-14 | 4 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 3 | - | 
 | 2023-01-21 | 3 | - | 
 | 2023-01-20 | 3 | - | 
-| 2023-01-19 | 3 | - | 
 

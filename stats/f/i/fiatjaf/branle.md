@@ -1,10 +1,10 @@
 # fiatjaf/branle - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 71
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/fiatjaf/branle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 108 | 71 | 
 | 2023-02-16 | 107 | 71 | 
 | 2023-02-15 | 107 | 71 | 
 | 2023-02-14 | 107 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 75 | 66 | 
 | 2023-01-20 | 75 | 66 | 
 | 2023-01-19 | 75 | 66 | 
-| 2023-01-18 | 75 | 66 | 
 

@@ -1,10 +1,10 @@
 # Kong/docs.konghq.com - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 530
 
-★ Stars: 177
+★ Stars: 176
 
 [Open repository](https://github.com/Kong/docs.konghq.com)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 176 | 530 | 
 | 2023-02-16 | 177 | 530 | 
 | 2023-02-15 | 177 | 529 | 
 | 2023-02-14 | 176 | 528 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 175 | 521 | 
 | 2023-01-21 | 175 | 521 | 
 | 2023-01-20 | 175 | 521 | 
-| 2023-01-19 | 175 | 521 | 
 

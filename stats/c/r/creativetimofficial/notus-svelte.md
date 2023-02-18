@@ -1,10 +1,10 @@
 # creativetimofficial/notus-svelte - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 227
+☋ Forks: 232
 
-★ Stars: 624
+★ Stars: 627
 
 [Open repository](https://github.com/creativetimofficial/notus-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 627 | 232 | 
 | 2023-02-16 | 624 | 227 | 
 | 2023-02-15 | 623 | 226 | 
 | 2023-02-14 | 622 | 225 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 596 | 210 | 
 | 2023-01-20 | 596 | 205 | 
 | 2023-01-19 | 592 | 205 | 
-| 2023-01-18 | 591 | 203 | 
 

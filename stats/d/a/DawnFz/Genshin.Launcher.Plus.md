@@ -1,10 +1,10 @@
 # DawnFz/Genshin.Launcher.Plus - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 53
+☋ Forks: 54
 
-★ Stars: 744
+★ Stars: 747
 
 [Open repository](https://github.com/DawnFz/Genshin.Launcher.Plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 747 | 54 | 
 | 2023-02-16 | 744 | 53 | 
 | 2023-02-15 | 747 | 53 | 
 | 2023-02-14 | 747 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 741 | 53 | 
 | 2023-01-20 | 741 | 53 | 
 | 2023-01-19 | 740 | 53 | 
-| 2023-01-18 | 739 | 53 | 
 

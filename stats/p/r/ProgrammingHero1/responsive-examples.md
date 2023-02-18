@@ -1,10 +1,10 @@
 # ProgrammingHero1/responsive-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/ProgrammingHero1/responsive-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 25 | 8 | 
 | 2023-02-16 | 24 | 8 | 
 | 2023-02-15 | 24 | 8 | 
 | 2023-02-14 | 24 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 24 | 7 | 
 | 2023-01-20 | 24 | 6 | 
 | 2023-01-19 | 24 | 5 | 
-| 2023-01-18 | 24 | 5 | 
 

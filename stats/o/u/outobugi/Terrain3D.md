@@ -1,8 +1,8 @@
 # outobugi/Terrain3D - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 58 | 6 | 
 | 2023-02-16 | 58 | 5 | 
 | 2023-02-15 | 57 | 5 | 
 | 2023-02-14 | 57 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 46 | 2 | 
 | 2023-01-20 | 45 | 2 | 
 | 2023-01-19 | 44 | 2 | 
-| 2023-01-18 | 41 | 2 | 
 

@@ -1,10 +1,10 @@
 # JuanLopezMartin/MRPCaseStudy - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/JuanLopezMartin/MRPCaseStudy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 27 | 8 | 
 | 2023-02-16 | 26 | 8 | 
 | 2023-02-15 | 26 | 8 | 
 | 2023-02-14 | 26 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 25 | 8 | 
 | 2023-01-21 | 25 | 8 | 
 | 2023-01-20 | 25 | 8 | 
-| 2023-01-19 | 25 | 8 | 
 

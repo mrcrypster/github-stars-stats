@@ -1,6 +1,6 @@
 # Dullage/flatnotes - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 155 | 6 | 
 | 2023-02-16 | 155 | 6 | 
 | 2023-02-15 | 152 | 6 | 
 | 2023-02-14 | 152 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 149 | 4 | 
 | 2023-01-20 | 148 | 4 | 
 | 2023-01-19 | 147 | 4 | 
-| 2023-01-18 | 147 | 4 | 
 

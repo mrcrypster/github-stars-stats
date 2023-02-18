@@ -1,10 +1,10 @@
 # octocat/Hello-World - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1952
 
-★ Stars: 2129
+★ Stars: 2128
 
 [Open repository](https://github.com/octocat/Hello-World)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2128 | 1952 | 
 | 2023-02-16 | 2129 | 1952 | 
 | 2023-02-15 | 2126 | 1949 | 
 | 2023-02-14 | 2125 | 1949 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 2110 | 1933 | 
 | 2023-01-20 | 2109 | 1933 | 
 | 2023-01-19 | 2108 | 1932 | 
-| 2023-01-18 | 2109 | 1932 | 
 

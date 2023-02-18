@@ -1,10 +1,10 @@
 # MadryLab/photoguard - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
-★ Stars: 157
+★ Stars: 159
 
 [Open repository](https://github.com/MadryLab/photoguard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 159 | 9 | 
 | 2023-02-16 | 157 | 9 | 
 | 2023-02-15 | 154 | 9 | 
 | 2023-02-14 | 145 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 142 | 8 | 
 | 2023-01-20 | 142 | 8 | 
 | 2023-01-19 | 141 | 8 | 
-| 2023-01-18 | 141 | 8 | 
 

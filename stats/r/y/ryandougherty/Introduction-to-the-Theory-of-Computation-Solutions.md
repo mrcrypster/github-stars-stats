@@ -1,8 +1,8 @@
 # ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 147
+☋ Forks: 148
 
 ★ Stars: 320
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 320 | 148 | 
 | 2023-02-16 | 320 | 147 | 
 | 2023-02-15 | 320 | 147 | 
 | 2023-02-14 | 320 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 318 | 146 | 
 | 2023-01-20 | 318 | 146 | 
 | 2023-01-19 | 318 | 147 | 
-| 2023-01-18 | 319 | 147 | 
 

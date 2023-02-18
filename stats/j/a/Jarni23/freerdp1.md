@@ -1,10 +1,10 @@
 # Jarni23/freerdp1 - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
-☋ Forks: 66
+☋ Forks: 68
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Jarni23/freerdp1)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1 | 68 | 
+| 2023-02-17 | 1 | 67 | 
 | 2023-02-16 | - | 66 | 
 | 2023-02-15 | - | 65 | 
 | 2023-02-14 | - | 65 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | - | 59 | 
 | 2023-01-20 | - | 59 | 
 | 2023-01-19 | - | 57 | 
-| 2023-01-18 | - | 57 | 
 

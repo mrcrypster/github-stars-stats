@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 17
 
 ☋ Forks: 120
 
-★ Stars: 7138
+★ Stars: 7139
 
 [Open repository](https://github.com/laravel/tinker)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 7138 | 120 | 
+| 2023-02-17 | 7139 | 120 | 
 | 2023-02-16 | 7138 | 120 | 
 

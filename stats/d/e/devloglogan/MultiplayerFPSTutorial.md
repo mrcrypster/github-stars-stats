@@ -1,6 +1,6 @@
 # devloglogan/MultiplayerFPSTutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 30 | 5 | 
 | 2023-02-16 | 30 | 5 | 
 | 2023-02-15 | 30 | 4 | 
 | 2023-02-14 | 31 | 4 | 

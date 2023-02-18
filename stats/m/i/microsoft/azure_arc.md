@@ -1,6 +1,6 @@
 # microsoft/azure_arc - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 398
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 548 | 398 | 
 | 2023-02-16 | 548 | 398 | 
 | 2023-02-15 | 547 | 397 | 
 | 2023-02-13 | 547 | 396 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 537 | 383 | 
 | 2023-01-20 | 537 | 383 | 
 | 2023-01-19 | 535 | 382 | 
-| 2023-01-18 | 534 | 382 | 
 

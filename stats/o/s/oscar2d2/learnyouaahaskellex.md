@@ -1,0 +1,17 @@
+# oscar2d2/learnyouaahaskellex - stars & forks statistics
+
+Stats updated on Feb 2023, 17
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/oscar2d2/learnyouaahaskellex)
+
+[Open detailed stats for oscar2d2/learnyouaahaskellex](https://reviewgithub.com/rep/oscar2d2/learnyouaahaskellex)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-17 | - | - | 
+

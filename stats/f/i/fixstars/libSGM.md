@@ -1,10 +1,10 @@
 # fixstars/libSGM - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 176
 
-★ Stars: 482
+★ Stars: 483
 
 [Open repository](https://github.com/fixstars/libSGM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 483 | 176 | 
 | 2023-02-16 | 482 | 176 | 
 | 2023-02-15 | 482 | 176 | 
 | 2023-02-14 | 482 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 480 | 176 | 
 | 2023-01-20 | 480 | 176 | 
 | 2023-01-19 | 480 | 176 | 
-| 2023-01-18 | 480 | 176 | 
 

@@ -1,10 +1,10 @@
 # go-micro/go-micro - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 2227
+☋ Forks: 2228
 
-★ Stars: 20053
+★ Stars: 20057
 
 [Open repository](https://github.com/go-micro/go-micro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 20057 | 2228 | 
 | 2023-02-17 | 20053 | 2227 | 
 | 2023-02-15 | 20047 | 2226 | 
 | 2023-02-14 | 20043 | 2226 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 19952 | 2219 | 
 | 2023-01-20 | 19950 | 2219 | 
 | 2023-01-19 | 19950 | 2219 | 
-| 2023-01-18 | 19946 | 2219 | 
 

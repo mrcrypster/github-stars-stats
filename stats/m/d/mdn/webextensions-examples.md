@@ -1,8 +1,8 @@
 # mdn/webextensions-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 2558
+☋ Forks: 2561
 
 ★ Stars: 3521
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3521 | 2561 | 
 | 2023-02-16 | 3521 | 2558 | 
 | 2023-02-15 | 3518 | 2557 | 
 | 2023-02-14 | 3517 | 2557 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3494 | 2530 | 
 | 2023-01-20 | 3494 | 2532 | 
 | 2023-01-19 | 3492 | 2531 | 
-| 2023-01-18 | 3491 | 2531 | 
 

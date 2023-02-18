@@ -1,10 +1,10 @@
 # koute/bytehound - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 145
 
-★ Stars: 3388
+★ Stars: 3398
 
 [Open repository](https://github.com/koute/bytehound)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3398 | 145 | 
 | 2023-02-16 | 3388 | 145 | 
 | 2023-02-15 | 3361 | 145 | 
 | 2023-02-14 | 3361 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3333 | 144 | 
 | 2023-01-20 | 3329 | 144 | 
 | 2023-01-19 | 3327 | 144 | 
-| 2023-01-18 | 3324 | 144 | 
 

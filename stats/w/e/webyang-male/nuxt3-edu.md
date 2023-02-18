@@ -1,10 +1,10 @@
 # webyang-male/nuxt3-edu - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 22
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/webyang-male/nuxt3-edu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 148 | 22 | 
 | 2023-02-16 | 147 | 22 | 
 | 2023-02-15 | 146 | 22 | 
 | 2023-02-14 | 146 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 144 | 19 | 
 | 2023-01-21 | 144 | 19 | 
 | 2023-01-20 | 143 | 19 | 
-| 2023-01-19 | 142 | 19 | 
 

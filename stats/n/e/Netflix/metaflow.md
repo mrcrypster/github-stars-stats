@@ -1,6 +1,6 @@
 # Netflix/metaflow - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 608
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6395 | 608 | 
 | 2023-02-16 | 6395 | 608 | 
 | 2023-02-15 | 6391 | 608 | 
 | 2023-02-14 | 6388 | 608 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 6334 | 600 | 
 | 2023-01-20 | 6330 | 598 | 
 | 2023-01-19 | 6319 | 598 | 
-| 2023-01-18 | 6311 | 597 | 
 

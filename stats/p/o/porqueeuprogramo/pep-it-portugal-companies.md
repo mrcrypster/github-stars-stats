@@ -1,6 +1,6 @@
 # porqueeuprogramo/pep-it-portugal-companies - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 41 | 5 | 
 | 2023-02-16 | 41 | 5 | 
 | 2023-02-15 | 40 | 5 | 
 | 2023-02-14 | 40 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 35 | 4 | 
 | 2023-01-20 | 35 | 4 | 
 | 2023-01-19 | 34 | 4 | 
-| 2023-01-18 | 34 | 4 | 
 

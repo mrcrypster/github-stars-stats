@@ -1,10 +1,10 @@
 # Moosync/Moosync - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 24
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/Moosync/Moosync)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 276 | 24 | 
 | 2023-02-16 | 275 | 24 | 
 | 2023-02-15 | 275 | 24 | 
 | 2023-02-14 | 274 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 262 | 23 | 
 | 2023-01-20 | 262 | 23 | 
 | 2023-01-19 | 262 | 23 | 
-| 2023-01-18 | 262 | 23 | 
 

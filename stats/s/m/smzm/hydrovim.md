@@ -1,10 +1,10 @@
 # smzm/hydrovim - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/smzm/hydrovim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 47 | 3 | 
 | 2023-02-16 | 46 | 3 | 
 | 2023-02-15 | 46 | 3 | 
 | 2023-02-14 | 46 | 3 | 

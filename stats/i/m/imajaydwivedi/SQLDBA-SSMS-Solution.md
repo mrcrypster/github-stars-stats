@@ -1,6 +1,6 @@
 # imajaydwivedi/SQLDBA-SSMS-Solution - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 41 | 35 | 
 | 2023-02-16 | 41 | 35 | 
 | 2023-02-15 | 41 | 35 | 
 | 2023-02-13 | 41 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 40 | 35 | 
 | 2023-01-20 | 40 | 35 | 
 | 2023-01-19 | 40 | 35 | 
-| 2023-01-18 | 40 | 35 | 
 

@@ -1,10 +1,10 @@
 # dqzboy/DevOps - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 12
+☋ Forks: 23
 
-★ Stars: 28
+★ Stars: 63
 
 [Open repository](https://github.com/dqzboy/DevOps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 63 | 23 | 
 | 2023-02-16 | 28 | 12 | 
 | 2023-02-15 | 27 | 12 | 
 | 2023-02-14 | 27 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 26 | 12 | 
 | 2023-01-20 | 26 | 12 | 
 | 2023-01-19 | 26 | 12 | 
-| 2023-01-18 | 26 | 12 | 
 

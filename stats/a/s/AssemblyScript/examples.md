@@ -1,6 +1,6 @@
 # AssemblyScript/examples - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 234 | 44 | 
 | 2023-02-16 | 234 | 44 | 
 | 2023-02-15 | 234 | 44 | 
 | 2023-02-14 | 234 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 232 | 44 | 
 | 2023-01-20 | 232 | 44 | 
 | 2023-01-19 | 231 | 44 | 
-| 2023-01-18 | 231 | 44 | 
 

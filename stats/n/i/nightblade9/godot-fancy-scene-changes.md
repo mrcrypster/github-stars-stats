@@ -1,10 +1,10 @@
 # nightblade9/godot-fancy-scene-changes - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/nightblade9/godot-fancy-scene-changes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 91 | 9 | 
 | 2023-02-16 | 90 | 9 | 
 | 2023-02-15 | 90 | 9 | 
 | 2023-02-14 | 90 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 87 | 8 | 
 | 2023-01-20 | 87 | 8 | 
 | 2023-01-19 | 87 | 8 | 
-| 2023-01-18 | 87 | 8 | 
 

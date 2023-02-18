@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 17
 
 ☋ Forks: 963
 
-★ Stars: 1502
+★ Stars: 1503
 
 [Open repository](https://github.com/Azure/azure-sdk-for-js)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 1502 | 963 | 
+| 2023-02-17 | 1503 | 963 | 
 | 2023-02-16 | 1501 | 961 | 
 | 2023-02-15 | 1495 | 957 | 
 | 2023-02-14 | 1495 | 955 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 1484 | 941 | 
 | 2023-01-20 | 1484 | 941 | 
 | 2023-01-19 | 1484 | 942 | 
-| 2023-01-18 | 1484 | 942 | 
 

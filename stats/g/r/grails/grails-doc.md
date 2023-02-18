@@ -1,8 +1,8 @@
 # grails/grails-doc - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 516
+☋ Forks: 517
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 195 | 517 | 
 | 2023-02-16 | 195 | 516 | 
 | 2023-02-15 | 195 | 516 | 
 | 2023-02-14 | 195 | 516 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 196 | 515 | 
 | 2023-01-21 | 196 | 515 | 
 | 2023-01-20 | 196 | 515 | 
-| 2023-01-19 | 196 | 515 | 
 

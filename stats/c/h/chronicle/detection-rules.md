@@ -1,10 +1,10 @@
 # chronicle/detection-rules - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 30
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/chronicle/detection-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 137 | 30 | 
 | 2023-02-16 | 136 | 30 | 
 | 2023-02-15 | 136 | 30 | 
 | 2023-02-14 | 136 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 133 | 30 | 
 | 2023-01-20 | 133 | 30 | 
 | 2023-01-19 | 132 | 30 | 
-| 2023-01-18 | 132 | 30 | 
 

@@ -1,10 +1,10 @@
 # justin-schroeder/arrow-js - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 16
 
-★ Stars: 1042
+★ Stars: 1045
 
 [Open repository](https://github.com/justin-schroeder/arrow-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1045 | 16 | 
 | 2023-02-16 | 1042 | 16 | 
 | 2023-02-15 | 1036 | 15 | 
 | 2023-02-14 | 1032 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 945 | 14 | 
 | 2023-01-20 | 946 | 14 | 
 | 2023-01-19 | 945 | 14 | 
-| 2023-01-18 | 944 | 14 | 
 

@@ -1,10 +1,10 @@
 # sansyrox/robyn - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 107
 
-★ Stars: 2355
+★ Stars: 2368
 
 [Open repository](https://github.com/sansyrox/robyn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2368 | 107 | 
 | 2023-02-16 | 2355 | 107 | 
 | 2023-02-15 | 2350 | 107 | 
 | 2023-02-14 | 2346 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 2170 | 96 | 
 | 2023-01-20 | 2167 | 96 | 
 | 2023-01-19 | 2161 | 96 | 
-| 2023-01-18 | 2155 | 96 | 
 

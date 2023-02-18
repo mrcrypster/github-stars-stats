@@ -1,6 +1,6 @@
 # JannsenYang/dingdong-helper - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 517
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1338 | 517 | 
 | 2023-02-16 | 1338 | 517 | 
 | 2023-02-15 | 1338 | 517 | 
 | 2023-02-14 | 1338 | 517 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1342 | 518 | 
 | 2023-01-20 | 1342 | 518 | 
 | 2023-01-19 | 1342 | 518 | 
-| 2023-01-18 | 1342 | 518 | 
 

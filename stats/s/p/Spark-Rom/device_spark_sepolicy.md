@@ -1,6 +1,6 @@
 # Spark-Rom/device_spark_sepolicy - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | - | 8 | 
 | 2023-02-16 | - | 8 | 
 | 2023-02-15 | - | 8 | 
 | 2023-02-14 | - | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | - | 9 | 
 | 2023-01-20 | - | 9 | 
 | 2023-01-19 | - | 9 | 
-| 2023-01-18 | - | 9 | 
 

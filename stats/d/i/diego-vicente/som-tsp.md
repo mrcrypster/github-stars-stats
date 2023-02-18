@@ -1,6 +1,6 @@
 # diego-vicente/som-tsp - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 498
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3169 | 498 | 
 | 2023-02-16 | 3169 | 498 | 
 | 2023-02-15 | 3167 | 498 | 
 | 2023-02-14 | 3167 | 498 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3088 | 489 | 
 | 2023-01-20 | 3086 | 489 | 
 | 2023-01-19 | 3087 | 489 | 
-| 2023-01-18 | 3086 | 489 | 
 

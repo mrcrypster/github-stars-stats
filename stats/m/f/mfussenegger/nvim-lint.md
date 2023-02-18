@@ -1,6 +1,6 @@
 # mfussenegger/nvim-lint - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 515 | 71 | 
 | 2023-02-16 | 515 | 71 | 
 | 2023-02-15 | 515 | 71 | 
 | 2023-02-14 | 515 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 502 | 68 | 
 | 2023-01-20 | 503 | 68 | 
 | 2023-01-19 | 503 | 68 | 
-| 2023-01-18 | 501 | 68 | 
 

@@ -1,6 +1,6 @@
 # A-Normal-User/NtSocket_NtClient_NtServer - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 76 | 28 | 
 | 2023-02-16 | 76 | 28 | 
 | 2023-02-15 | 76 | 28 | 
 | 2023-02-14 | 76 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 75 | 27 | 
 | 2023-01-20 | 75 | 27 | 
 | 2023-01-19 | 75 | 27 | 
-| 2023-01-18 | 75 | 27 | 
 

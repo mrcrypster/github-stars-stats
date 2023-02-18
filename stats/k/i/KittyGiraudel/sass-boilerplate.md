@@ -1,8 +1,8 @@
 # KittyGiraudel/sass-boilerplate - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 762
+☋ Forks: 763
 
 ★ Stars: 3137
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3137 | 763 | 
 | 2023-02-16 | 3137 | 762 | 
 | 2023-02-15 | 3135 | 762 | 
 | 2023-02-14 | 3137 | 761 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3109 | 755 | 
 | 2023-01-20 | 3107 | 754 | 
 | 2023-01-19 | 3105 | 753 | 
-| 2023-01-18 | 3105 | 753 | 
 

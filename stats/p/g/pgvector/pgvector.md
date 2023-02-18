@@ -1,10 +1,10 @@
 # pgvector/pgvector - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 43
 
-★ Stars: 1012
+★ Stars: 1016
 
 [Open repository](https://github.com/pgvector/pgvector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1016 | 43 | 
 | 2023-02-16 | 1012 | 43 | 
 | 2023-02-15 | 1006 | 42 | 
 | 2023-02-14 | 995 | 42 | 

@@ -1,10 +1,10 @@
 # seanpm2001/Bliss_Browser_BrightScript - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/seanpm2001/Bliss_Browser_BrightScript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 9 | 8 | 
 | 2023-02-16 | 8 | 8 | 
 | 2023-02-15 | 8 | 8 | 
 | 2023-02-14 | 8 | 7 | 

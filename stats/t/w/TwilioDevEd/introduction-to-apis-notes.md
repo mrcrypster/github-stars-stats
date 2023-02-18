@@ -1,10 +1,10 @@
 # TwilioDevEd/introduction-to-apis-notes - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 19
+☋ Forks: 23
 
-★ Stars: 76
+★ Stars: 83
 
 [Open repository](https://github.com/TwilioDevEd/introduction-to-apis-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 83 | 23 | 
 | 2023-02-16 | 76 | 19 | 
 | 2023-02-15 | 75 | 19 | 
 | 2023-02-14 | 68 | 16 | 

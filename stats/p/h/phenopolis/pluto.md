@@ -1,10 +1,10 @@
 # phenopolis/pluto - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/phenopolis/pluto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 36 | 2 | 
 | 2023-02-16 | 35 | 2 | 
 | 2023-02-15 | 35 | 2 | 
 | 2023-02-14 | 35 | 2 | 

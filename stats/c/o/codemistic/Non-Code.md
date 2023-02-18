@@ -1,10 +1,10 @@
 # codemistic/Non-Code - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 216
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/codemistic/Non-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 84 | 216 | 
 | 2023-02-16 | 83 | 216 | 
 | 2023-02-15 | 83 | 216 | 
 | 2023-02-14 | 83 | 216 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 84 | 220 | 
 | 2023-01-20 | 84 | 220 | 
 | 2023-01-19 | 84 | 220 | 
-| 2023-01-18 | 84 | 220 | 
 

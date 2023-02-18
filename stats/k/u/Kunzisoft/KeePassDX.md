@@ -1,10 +1,10 @@
 # Kunzisoft/KeePassDX - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 210
+☋ Forks: 211
 
-★ Stars: 2922
+★ Stars: 2925
 
 [Open repository](https://github.com/Kunzisoft/KeePassDX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2925 | 211 | 
 | 2023-02-16 | 2922 | 210 | 
 | 2023-02-15 | 2918 | 210 | 
 | 2023-02-14 | 2913 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2816 | 208 | 
 | 2023-01-20 | 2814 | 208 | 
 | 2023-01-19 | 2808 | 208 | 
-| 2023-01-18 | 2806 | 208 | 
 

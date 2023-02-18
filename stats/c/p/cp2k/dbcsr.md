@@ -1,10 +1,10 @@
 # cp2k/dbcsr - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 36
 
-★ Stars: 85
+★ Stars: 88
 
 [Open repository](https://github.com/cp2k/dbcsr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 88 | 36 | 
 | 2023-02-17 | 85 | 36 | 
 | 2023-02-16 | 85 | 36 | 
 | 2023-02-14 | 85 | 36 | 

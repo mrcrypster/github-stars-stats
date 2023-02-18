@@ -1,10 +1,10 @@
 # tailscale/tailscale - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 693
+☋ Forks: 694
 
-★ Stars: 10756
+★ Stars: 10768
 
 [Open repository](https://github.com/tailscale/tailscale)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 10768 | 694 | 
 | 2023-02-16 | 10756 | 693 | 
 | 2023-02-15 | 10746 | 693 | 
 | 2023-02-14 | 10727 | 693 | 

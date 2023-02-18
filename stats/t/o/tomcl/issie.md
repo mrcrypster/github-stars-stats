@@ -1,10 +1,10 @@
 # tomcl/issie - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 65
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/tomcl/issie)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 44 | 65 | 
 | 2023-02-16 | 43 | 65 | 
 | 2023-02-15 | 43 | 65 | 
 | 2023-02-14 | 43 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 38 | 44 | 
 | 2023-01-20 | 38 | 44 | 
 | 2023-01-19 | 38 | 44 | 
-| 2023-01-18 | 38 | 44 | 
 

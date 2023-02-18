@@ -1,10 +1,10 @@
 # brave/brave-core - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 694
 
-★ Stars: 1956
+★ Stars: 1955
 
 [Open repository](https://github.com/brave/brave-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1955 | 694 | 
 | 2023-02-16 | 1956 | 694 | 
 | 2023-02-15 | 1954 | 694 | 
 | 2023-02-14 | 1953 | 694 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 1932 | 679 | 
 | 2023-01-21 | 1932 | 679 | 
 | 2023-01-20 | 1931 | 678 | 
-| 2023-01-19 | 1930 | 677 | 
 

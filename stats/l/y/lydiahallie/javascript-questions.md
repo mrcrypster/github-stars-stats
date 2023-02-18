@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 17
 
 ☋ Forks: 7427
 
-★ Stars: 52450
+★ Stars: 52455
 
 [Open repository](https://github.com/lydiahallie/javascript-questions)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 52450 | 7427 | 
+| 2023-02-17 | 52455 | 7427 | 
 | 2023-02-16 | 52446 | 7426 | 
 | 2023-02-15 | 52414 | 7421 | 
 | 2023-02-14 | 52335 | 7406 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 51715 | 7310 | 
 | 2023-01-20 | 51626 | 7305 | 
 | 2023-01-19 | 51524 | 7297 | 
-| 2023-01-18 | 51441 | 7281 | 
 

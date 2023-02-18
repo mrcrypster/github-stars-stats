@@ -1,10 +1,10 @@
 # yihui/tinytex - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 103
 
-★ Stars: 830
+★ Stars: 831
 
 [Open repository](https://github.com/yihui/tinytex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 831 | 103 | 
 | 2023-02-16 | 830 | 103 | 
 | 2023-02-15 | 830 | 103 | 
 | 2023-02-14 | 830 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 825 | 103 | 
 | 2023-01-20 | 825 | 103 | 
 | 2023-01-19 | 824 | 103 | 
-| 2023-01-18 | 824 | 103 | 
 

@@ -1,0 +1,17 @@
+# kinjouj/my-sastruts-blank-gradle - stars & forks statistics
+
+Stats updated on Feb 2023, 17
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/kinjouj/my-sastruts-blank-gradle)
+
+[Open detailed stats for kinjouj/my-sastruts-blank-gradle](https://reviewgithub.com/rep/kinjouj/my-sastruts-blank-gradle)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-17 | 2 | - | 
+

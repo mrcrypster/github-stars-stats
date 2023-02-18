@@ -1,10 +1,10 @@
 # pix2pixzero/pix2pix-zero - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 21
+☋ Forks: 23
 
-★ Stars: 572
+★ Stars: 584
 
 [Open repository](https://github.com/pix2pixzero/pix2pix-zero)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 584 | 23 | 
 | 2023-02-16 | 572 | 21 | 
 | 2023-02-15 | 560 | 21 | 
 | 2023-02-14 | 464 | 16 | 

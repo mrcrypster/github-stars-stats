@@ -1,10 +1,10 @@
 # MeouSker77/ProgrammingRust - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 37
 
-★ Stars: 256
+★ Stars: 258
 
 [Open repository](https://github.com/MeouSker77/ProgrammingRust)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 258 | 37 | 
 | 2023-02-16 | 256 | 37 | 
 | 2023-02-15 | 256 | 37 | 
 | 2023-02-14 | 256 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 244 | 36 | 
 | 2023-01-20 | 244 | 36 | 
 | 2023-01-19 | 244 | 36 | 
-| 2023-01-18 | 244 | 36 | 
 

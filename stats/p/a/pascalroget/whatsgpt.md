@@ -1,10 +1,10 @@
 # pascalroget/whatsgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 22
+☋ Forks: 21
 
-★ Stars: 66
+★ Stars: 68
 
 [Open repository](https://github.com/pascalroget/whatsgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 68 | 21 | 
 | 2023-02-16 | 66 | 22 | 
 | 2023-02-15 | 66 | 22 | 
 | 2023-02-13 | 66 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 43 | 16 | 
 | 2023-01-20 | 43 | 16 | 
 | 2023-01-19 | 42 | 16 | 
-| 2023-01-18 | 42 | 15 | 
 

@@ -1,10 +1,10 @@
 # timbertson/runix - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/timbertson/runix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 52 | - | 
 | 2023-02-16 | 51 | - | 
 | 2023-02-15 | 51 | - | 
 | 2023-02-14 | 50 | - | 

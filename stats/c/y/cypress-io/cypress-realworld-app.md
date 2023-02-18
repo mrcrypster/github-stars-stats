@@ -1,10 +1,10 @@
 # cypress-io/cypress-realworld-app - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1417
+☋ Forks: 1421
 
-★ Stars: 4340
+★ Stars: 4342
 
 [Open repository](https://github.com/cypress-io/cypress-realworld-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 4342 | 1421 | 
 | 2023-02-16 | 4340 | 1417 | 
 | 2023-02-15 | 4338 | 1415 | 
 | 2023-02-14 | 4332 | 1411 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 4270 | 1377 | 
 | 2023-01-20 | 4269 | 1376 | 
 | 2023-01-19 | 4269 | 1374 | 
-| 2023-01-18 | 4266 | 1368 | 
 

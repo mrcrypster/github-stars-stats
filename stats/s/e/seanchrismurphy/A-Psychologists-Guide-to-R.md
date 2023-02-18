@@ -1,6 +1,6 @@
 # seanchrismurphy/A-Psychologists-Guide-to-R - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 128 | 29 | 
 | 2023-02-16 | 128 | 29 | 
 | 2023-02-15 | 128 | 29 | 
 | 2023-02-14 | 128 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 128 | 29 | 
 | 2023-01-20 | 128 | 29 | 
 | 2023-01-19 | 128 | 29 | 
-| 2023-01-18 | 128 | 29 | 
 

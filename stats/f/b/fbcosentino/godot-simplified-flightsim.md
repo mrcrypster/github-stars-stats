@@ -1,10 +1,10 @@
 # fbcosentino/godot-simplified-flightsim - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/fbcosentino/godot-simplified-flightsim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 20 | - | 
 | 2023-02-16 | 19 | - | 
 | 2023-02-15 | 19 | - | 
 | 2023-02-14 | 19 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 19 | - | 
 | 2023-01-20 | 19 | - | 
 | 2023-01-19 | 19 | - | 
-| 2023-01-18 | 19 | - | 
 

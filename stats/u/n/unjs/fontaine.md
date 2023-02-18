@@ -1,10 +1,10 @@
 # unjs/fontaine - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 13
 
-★ Stars: 930
+★ Stars: 933
 
 [Open repository](https://github.com/unjs/fontaine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 933 | 13 | 
 | 2023-02-16 | 930 | 13 | 
 | 2023-02-15 | 928 | 13 | 
 | 2023-02-14 | 928 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 916 | 11 | 
 | 2023-01-20 | 914 | 11 | 
 | 2023-01-19 | 913 | 11 | 
-| 2023-01-18 | 913 | 11 | 
 

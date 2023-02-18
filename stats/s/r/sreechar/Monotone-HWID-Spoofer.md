@@ -1,6 +1,6 @@
 # sreechar/Monotone-HWID-Spoofer - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 215 | 71 | 
 | 2023-02-16 | 215 | 71 | 
 | 2023-02-15 | 215 | 71 | 
 | 2023-02-14 | 215 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 208 | 69 | 
 | 2023-01-21 | 207 | 69 | 
 | 2023-01-20 | 207 | 69 | 
-| 2023-01-18 | 206 | 69 | 
 

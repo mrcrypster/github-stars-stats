@@ -1,6 +1,6 @@
 # cassidoo/astro-netlify-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 61 | 10 | 
 | 2023-02-16 | 61 | 10 | 
 | 2023-02-15 | 61 | 10 | 
 | 2023-02-14 | 61 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 58 | 10 | 
 | 2023-01-20 | 58 | 10 | 
 | 2023-01-19 | 57 | 10 | 
-| 2023-01-18 | 57 | 10 | 
 

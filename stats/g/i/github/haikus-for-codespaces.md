@@ -1,10 +1,10 @@
 # github/haikus-for-codespaces - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 2378
 
-★ Stars: 1115
+★ Stars: 1117
 
 [Open repository](https://github.com/github/haikus-for-codespaces)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1117 | 2378 | 
 | 2023-02-16 | 1115 | 2378 | 
 | 2023-02-15 | 1116 | 2375 | 
 | 2023-02-14 | 1106 | 2367 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1055 | 2222 | 
 | 2023-01-20 | 1054 | 2221 | 
 | 2023-01-19 | 1053 | 2221 | 
-| 2023-01-18 | 1051 | 2215 | 
 

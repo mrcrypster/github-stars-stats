@@ -1,6 +1,6 @@
 # andikacombat/rdpfree - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | - | 19 | 
 | 2023-02-16 | - | 19 | 
 | 2023-02-15 | - | 19 | 
 | 2023-02-14 | - | 19 | 

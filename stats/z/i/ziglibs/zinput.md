@@ -1,6 +1,6 @@
 # ziglibs/zinput - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 38 | 5 | 
 | 2023-02-16 | 38 | 5 | 
 | 2023-02-15 | 38 | 5 | 
 | 2023-02-14 | 38 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 37 | 5 | 
 | 2023-01-20 | 37 | 5 | 
 | 2023-01-19 | 37 | 5 | 
-| 2023-01-18 | 37 | 5 | 
 

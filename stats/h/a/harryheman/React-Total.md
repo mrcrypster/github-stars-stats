@@ -1,10 +1,10 @@
 # harryheman/React-Total - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 487
+☋ Forks: 489
 
-★ Stars: 2005
+★ Stars: 2003
 
 [Open repository](https://github.com/harryheman/React-Total)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2003 | 489 | 
 | 2023-02-16 | 2005 | 487 | 
 | 2023-02-15 | 2005 | 486 | 
 | 2023-02-14 | 2005 | 486 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1995 | 477 | 
 | 2023-01-20 | 1991 | 476 | 
 | 2023-01-19 | 1989 | 473 | 
-| 2023-01-18 | 1988 | 473 | 
 

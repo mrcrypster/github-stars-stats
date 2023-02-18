@@ -1,8 +1,8 @@
 # souravkl11/raganork-md - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 3219
+☋ Forks: 3223
 
 ★ Stars: 285
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 285 | 3223 | 
 | 2023-02-16 | 285 | 3219 | 
 | 2023-02-15 | 285 | 3213 | 
 | 2023-02-14 | 285 | 3208 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 281 | 3073 | 
 | 2023-01-20 | 281 | 3062 | 
 | 2023-01-19 | 281 | 3059 | 
-| 2023-01-18 | 278 | 3052 | 
 

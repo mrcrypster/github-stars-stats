@@ -1,10 +1,10 @@
 # praydog/REFramework - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 175
 
-★ Stars: 1333
+★ Stars: 1336
 
 [Open repository](https://github.com/praydog/REFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1336 | 175 | 
 | 2023-02-16 | 1333 | 175 | 
 | 2023-02-15 | 1332 | 175 | 
 | 2023-02-14 | 1331 | 175 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 1294 | 170 | 
 | 2023-01-21 | 1294 | 170 | 
 | 2023-01-20 | 1292 | 171 | 
-| 2023-01-19 | 1291 | 171 | 
 

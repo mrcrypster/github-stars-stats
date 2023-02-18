@@ -1,10 +1,10 @@
 # ganelson/intest - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/ganelson/intest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 32 | 9 | 
 | 2023-02-16 | 31 | 9 | 
 | 2023-02-15 | 31 | 9 | 
 | 2023-02-14 | 31 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 31 | 9 | 
 | 2023-01-20 | 31 | 9 | 
 | 2023-01-19 | 31 | 9 | 
-| 2023-01-18 | 31 | 9 | 
 

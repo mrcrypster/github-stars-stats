@@ -1,6 +1,6 @@
 # PProvost/vim-ps1 - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 302 | 42 | 
 | 2023-02-16 | 302 | 42 | 
 | 2023-02-15 | 302 | 42 | 
 | 2023-02-14 | 302 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 301 | 44 | 
 | 2023-01-20 | 301 | 44 | 
 | 2023-01-19 | 301 | 44 | 
-| 2023-01-18 | 301 | 44 | 
 

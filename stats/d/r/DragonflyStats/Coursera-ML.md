@@ -1,6 +1,6 @@
 # DragonflyStats/Coursera-ML - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 388 | 309 | 
 | 2023-02-16 | 388 | 309 | 
 | 2023-02-15 | 388 | 309 | 
 | 2023-02-14 | 388 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 387 | 308 | 
 | 2023-01-20 | 387 | 308 | 
 | 2023-01-19 | 387 | 308 | 
-| 2023-01-18 | 387 | 308 | 
 

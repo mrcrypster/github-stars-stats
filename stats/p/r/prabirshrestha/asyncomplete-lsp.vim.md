@@ -1,6 +1,6 @@
 # prabirshrestha/asyncomplete-lsp.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 110 | 13 | 
 | 2023-02-16 | 110 | 13 | 
 | 2023-02-15 | 110 | 13 | 
 | 2023-02-14 | 110 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 108 | 13 | 
 | 2023-01-20 | 108 | 13 | 
 | 2023-01-19 | 108 | 13 | 
-| 2023-01-18 | 108 | 13 | 
 

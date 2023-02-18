@@ -1,6 +1,6 @@
 # codiume/the-tap-stack - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 25 | - | 
 | 2023-02-16 | 25 | - | 
 | 2023-02-15 | 25 | - | 
 | 2023-02-14 | 25 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 24 | - | 
 | 2023-01-20 | 24 | - | 
 | 2023-01-19 | 24 | - | 
-| 2023-01-18 | 24 | - | 
 

@@ -1,10 +1,10 @@
 # GeyserMC/Geyser - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 541
+☋ Forks: 542
 
-★ Stars: 3743
+★ Stars: 3745
 
 [Open repository](https://github.com/GeyserMC/Geyser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3745 | 542 | 
 | 2023-02-16 | 3743 | 541 | 
 | 2023-02-15 | 3740 | 540 | 
 | 2023-02-14 | 3735 | 539 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3684 | 530 | 
 | 2023-01-20 | 3683 | 530 | 
 | 2023-01-19 | 3681 | 530 | 
-| 2023-01-18 | 3674 | 532 | 
 

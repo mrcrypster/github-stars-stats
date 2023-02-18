@@ -1,10 +1,10 @@
 # leits/MeetingBar - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 154
 
-★ Stars: 3541
+★ Stars: 3545
 
 [Open repository](https://github.com/leits/MeetingBar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3545 | 154 | 
 | 2023-02-16 | 3541 | 154 | 
 | 2023-02-15 | 3537 | 154 | 
 | 2023-02-14 | 3536 | 154 | 

@@ -1,6 +1,6 @@
 # MiSTer-devel/SNES_MiSTer - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 152 | 66 | 
 | 2023-02-16 | 152 | 66 | 
 | 2023-02-15 | 152 | 66 | 
 | 2023-02-14 | 152 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 147 | 66 | 
 | 2023-01-20 | 147 | 66 | 
 | 2023-01-19 | 147 | 66 | 
-| 2023-01-18 | 147 | 66 | 
 

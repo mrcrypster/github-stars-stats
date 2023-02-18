@@ -1,10 +1,10 @@
 # Patalin/HTML-CSS-Image-Hover-Effects - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/Patalin/HTML-CSS-Image-Hover-Effects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 31 | 8 | 
 | 2023-02-16 | 30 | 8 | 
 | 2023-02-15 | 30 | 8 | 
 | 2023-02-14 | 30 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 30 | 8 | 
 | 2023-01-20 | 30 | 8 | 
 | 2023-01-19 | 30 | 8 | 
-| 2023-01-18 | 30 | 8 | 
 

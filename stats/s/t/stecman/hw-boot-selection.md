@@ -1,6 +1,6 @@
 # stecman/hw-boot-selection - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 319 | 19 | 
 | 2023-02-16 | 319 | 19 | 
 | 2023-02-15 | 319 | 19 | 
 | 2023-02-14 | 319 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 318 | 19 | 
 | 2023-01-21 | 318 | 19 | 
 | 2023-01-20 | 318 | 19 | 
-| 2023-01-19 | 318 | 19 | 
 

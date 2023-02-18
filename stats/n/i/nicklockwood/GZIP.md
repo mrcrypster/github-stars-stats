@@ -1,10 +1,10 @@
 # nicklockwood/GZIP - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 162
 
-★ Stars: 955
+★ Stars: 956
 
 [Open repository](https://github.com/nicklockwood/GZIP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 956 | 162 | 
 | 2023-02-16 | 955 | 162 | 
 | 2023-02-15 | 955 | 162 | 
 | 2023-02-14 | 954 | 162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 953 | 162 | 
 | 2023-01-20 | 953 | 162 | 
 | 2023-01-19 | 953 | 161 | 
-| 2023-01-18 | 953 | 161 | 
 

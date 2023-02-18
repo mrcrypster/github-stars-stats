@@ -1,6 +1,6 @@
 # sczhou/Awesome-Face-Restoration - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 35 | 7 | 
 | 2023-02-16 | 35 | 7 | 
 | 2023-02-15 | 33 | 7 | 
 | 2023-02-14 | 33 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 28 | 7 | 
 | 2023-01-21 | 28 | 7 | 
 | 2023-01-20 | 28 | 7 | 
-| 2023-01-18 | 26 | 6 | 
 

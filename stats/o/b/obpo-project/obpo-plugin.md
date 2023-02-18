@@ -1,8 +1,8 @@
 # obpo-project/obpo-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 103
+☋ Forks: 104
 
 ★ Stars: 403
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 403 | 104 | 
 | 2023-02-16 | 403 | 103 | 
 | 2023-02-15 | 403 | 103 | 
 | 2023-02-14 | 401 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 399 | 102 | 
 | 2023-01-20 | 399 | 102 | 
 | 2023-01-19 | 398 | 102 | 
-| 2023-01-18 | 398 | 102 | 
 

@@ -1,8 +1,8 @@
 # samply/blaze - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 91 | 12 | 
 | 2023-02-16 | 91 | 11 | 
 | 2023-02-15 | 91 | 11 | 
 | 2023-02-14 | 91 | 11 | 

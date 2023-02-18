@@ -1,6 +1,6 @@
 # radix-ai/poetry-cookiecutter - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 74 | 13 | 
 | 2023-02-16 | 74 | 13 | 
 | 2023-02-15 | 74 | 13 | 
 | 2023-02-14 | 73 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 67 | 13 | 
 | 2023-01-20 | 66 | 13 | 
 | 2023-01-19 | 66 | 13 | 
-| 2023-01-18 | 66 | 13 | 
 

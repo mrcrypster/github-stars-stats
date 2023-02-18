@@ -1,6 +1,6 @@
 # tonarino/innernet - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 4196 | 151 | 
 | 2023-02-16 | 4196 | 151 | 
 | 2023-02-15 | 4194 | 151 | 
 | 2023-02-14 | 4192 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 4138 | 150 | 
 | 2023-01-20 | 4137 | 150 | 
 | 2023-01-19 | 4136 | 150 | 
-| 2023-01-18 | 4133 | 150 | 
 

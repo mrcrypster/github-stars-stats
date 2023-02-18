@@ -1,10 +1,10 @@
 # alibaba/fastjson2 - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 258
 
-★ Stars: 2413
+★ Stars: 2416
 
 [Open repository](https://github.com/alibaba/fastjson2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2416 | 258 | 
 | 2023-02-17 | 2413 | 258 | 
 | 2023-02-16 | 2407 | 259 | 
 | 2023-02-15 | 2403 | 259 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 2343 | 251 | 
 | 2023-01-20 | 2339 | 251 | 
 | 2023-01-19 | 2339 | 252 | 
-| 2023-01-18 | 2336 | 252 | 
 

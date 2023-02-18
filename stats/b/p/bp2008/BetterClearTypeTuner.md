@@ -1,10 +1,10 @@
 # bp2008/BetterClearTypeTuner - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 12
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/bp2008/BetterClearTypeTuner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 452 | 12 | 
 | 2023-02-16 | 451 | 12 | 
 | 2023-02-15 | 452 | 12 | 
 | 2023-02-14 | 451 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 425 | 12 | 
 | 2023-01-20 | 423 | 12 | 
 | 2023-01-19 | 423 | 12 | 
-| 2023-01-18 | 422 | 12 | 
 

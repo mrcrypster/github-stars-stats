@@ -1,10 +1,10 @@
 # abo-abo/hydra - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 105
 
-★ Stars: 1680
+★ Stars: 1682
 
 [Open repository](https://github.com/abo-abo/hydra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1682 | 105 | 
 | 2023-02-16 | 1680 | 105 | 
 | 2023-02-15 | 1679 | 105 | 
 | 2023-02-14 | 1678 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1669 | 104 | 
 | 2023-01-20 | 1669 | 104 | 
 | 2023-01-19 | 1669 | 104 | 
-| 2023-01-18 | 1669 | 104 | 
 

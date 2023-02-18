@@ -1,6 +1,6 @@
 # vapor/open-crypto - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 128 | 34 | 
 | 2023-02-16 | 128 | 34 | 
 | 2023-02-15 | 128 | 34 | 
 | 2023-02-14 | 128 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 128 | 34 | 
 | 2023-01-20 | 128 | 34 | 
 | 2023-01-19 | 128 | 34 | 
-| 2023-01-18 | 129 | 34 | 
 

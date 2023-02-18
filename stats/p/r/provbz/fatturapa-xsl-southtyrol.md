@@ -1,6 +1,6 @@
 # provbz/fatturapa-xsl-southtyrol - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 7 | 7 | 
+| 2023-02-17 | 7 | 7 | 
 | 2023-02-16 | 7 | 7 | 
 | 2023-02-15 | 7 | 7 | 
 | 2023-02-14 | 7 | 7 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 6 | 7 | 
 | 2023-01-20 | 6 | 7 | 
 | 2023-01-19 | 6 | 7 | 
-| 2023-01-18 | 6 | 7 | 
 

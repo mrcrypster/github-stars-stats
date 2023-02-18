@@ -1,10 +1,10 @@
 # InterviewReady/joy-of-system-design - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 12
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/InterviewReady/joy-of-system-design)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 111 | 12 | 
 | 2023-02-16 | 110 | 12 | 
 | 2023-02-15 | 110 | 12 | 
 | 2023-02-13 | 110 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 104 | 13 | 
 | 2023-01-20 | 101 | 13 | 
 | 2023-01-19 | 99 | 13 | 
-| 2023-01-18 | 99 | 13 | 
 

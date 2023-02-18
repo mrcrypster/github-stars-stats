@@ -1,10 +1,10 @@
 # karpathy/nn-zero-to-hero - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 621
+☋ Forks: 626
 
-★ Stars: 6886
+★ Stars: 6929
 
 [Open repository](https://github.com/karpathy/nn-zero-to-hero)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6929 | 626 | 
 | 2023-02-16 | 6886 | 621 | 
 | 2023-02-15 | 6845 | 616 | 
 | 2023-02-14 | 6811 | 610 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 4084 | 303 | 
 | 2023-01-20 | 4068 | 302 | 
 | 2023-01-19 | 4046 | 296 | 
-| 2023-01-18 | 4025 | 293 | 
 

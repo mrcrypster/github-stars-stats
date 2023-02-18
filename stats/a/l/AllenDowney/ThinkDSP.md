@@ -1,8 +1,8 @@
 # AllenDowney/ThinkDSP - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 2854
+☋ Forks: 2855
 
 ★ Stars: 3230
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3230 | 2855 | 
 | 2023-02-16 | 3230 | 2854 | 
 | 2023-02-15 | 3231 | 2854 | 
 | 2023-02-14 | 3229 | 2853 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 3197 | 2835 | 
 | 2023-01-20 | 3198 | 2835 | 
 | 2023-01-19 | 3197 | 2835 | 
-| 2023-01-18 | 3197 | 2836 | 
 

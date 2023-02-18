@@ -1,10 +1,10 @@
 # 4DVLab/Vision-Centric-BEV-Perception - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 46
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/4DVLab/Vision-Centric-BEV-Perception)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 426 | 46 | 
 | 2023-02-16 | 425 | 46 | 
 | 2023-02-15 | 422 | 45 | 
 | 2023-02-14 | 421 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 407 | 43 | 
 | 2023-01-20 | 407 | 43 | 
 | 2023-01-19 | 406 | 43 | 
-| 2023-01-18 | 406 | 43 | 
 

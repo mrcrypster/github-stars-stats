@@ -1,6 +1,6 @@
 # vblanco20-1/vulkan-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 563 | 129 | 
 | 2023-02-16 | 563 | 129 | 
 | 2023-02-15 | 562 | 129 | 
 | 2023-02-14 | 561 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 558 | 128 | 
 | 2023-01-20 | 556 | 127 | 
 | 2023-01-19 | 556 | 127 | 
-| 2023-01-18 | 554 | 126 | 
 

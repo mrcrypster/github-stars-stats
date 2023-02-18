@@ -1,6 +1,6 @@
 # hhvm/hack-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 10 | 8 | 
 | 2023-02-17 | 10 | 8 | 
 | 2023-02-15 | 10 | 8 | 
 | 2023-02-14 | 10 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 10 | 8 | 
 | 2023-01-20 | 10 | 8 | 
 | 2023-01-19 | 10 | 8 | 
-| 2023-01-18 | 10 | 8 | 
 

@@ -1,6 +1,6 @@
 # kirbyguy22/engine-sim-garage - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 47 | 27 | 
 | 2023-02-16 | 47 | 27 | 
 | 2023-02-15 | 47 | 26 | 
 | 2023-02-14 | 47 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 47 | 26 | 
 | 2023-01-20 | 47 | 26 | 
 | 2023-01-19 | 47 | 26 | 
-| 2023-01-18 | 47 | 25 | 
 

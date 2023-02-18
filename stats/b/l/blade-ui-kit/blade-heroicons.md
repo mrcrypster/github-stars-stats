@@ -1,10 +1,10 @@
 # blade-ui-kit/blade-heroicons - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 42
 
-★ Stars: 401
+★ Stars: 403
 
 [Open repository](https://github.com/blade-ui-kit/blade-heroicons)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 403 | 42 | 
 | 2023-02-16 | 401 | 42 | 
 | 2023-02-15 | 401 | 42 | 
 | 2023-02-14 | 401 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 393 | 44 | 
 | 2023-01-20 | 393 | 44 | 
 | 2023-01-19 | 391 | 44 | 
-| 2023-01-18 | 391 | 44 | 
 

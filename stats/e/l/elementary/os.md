@@ -1,6 +1,6 @@
 # elementary/os - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 833 | 95 | 
 | 2023-02-16 | 833 | 95 | 
 | 2023-02-15 | 833 | 95 | 
 | 2023-02-14 | 832 | 95 | 

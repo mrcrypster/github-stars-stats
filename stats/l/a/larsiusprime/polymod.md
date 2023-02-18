@@ -1,10 +1,10 @@
 # larsiusprime/polymod - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 55
+☋ Forks: 53
 
-★ Stars: 137
+★ Stars: 136
 
 [Open repository](https://github.com/larsiusprime/polymod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 136 | 53 | 
 | 2023-02-17 | 137 | 55 | 
 | 2023-02-16 | 137 | 55 | 
 | 2023-02-14 | 137 | 55 | 

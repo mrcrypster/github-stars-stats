@@ -1,6 +1,6 @@
 # waryas/KACE - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 179 | 64 | 
 | 2023-02-16 | 179 | 64 | 
 | 2023-02-15 | 179 | 64 | 
 | 2023-02-14 | 179 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 177 | 58 | 
 | 2023-01-20 | 177 | 58 | 
 | 2023-01-19 | 177 | 58 | 
-| 2023-01-18 | 175 | 57 | 
 

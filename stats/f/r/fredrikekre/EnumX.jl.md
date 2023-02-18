@@ -1,6 +1,6 @@
 # fredrikekre/EnumX.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 58 | - | 
 | 2023-02-16 | 58 | - | 
 | 2023-02-15 | 58 | - | 
 | 2023-02-14 | 58 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 59 | - | 
 | 2023-01-20 | 59 | - | 
 | 2023-01-19 | 59 | - | 
-| 2023-01-18 | 59 | - | 
 

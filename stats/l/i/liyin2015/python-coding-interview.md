@@ -1,6 +1,6 @@
 # liyin2015/python-coding-interview - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 418
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1845 | 418 | 
 | 2023-02-16 | 1845 | 418 | 
 | 2023-02-15 | 1844 | 418 | 
 | 2023-02-13 | 1844 | 418 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1834 | 417 | 
 | 2023-01-20 | 1832 | 417 | 
 | 2023-01-19 | 1831 | 417 | 
-| 2023-01-18 | 1830 | 417 | 
 

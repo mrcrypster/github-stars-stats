@@ -1,8 +1,8 @@
 # docker/docker.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 6312
+☋ Forks: 6314
 
 ★ Stars: 3754
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3754 | 6314 | 
 | 2023-02-16 | 3754 | 6312 | 
 | 2023-02-15 | 3753 | 6307 | 
 | 2023-02-14 | 3753 | 6308 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3731 | 6264 | 
 | 2023-01-20 | 3729 | 6260 | 
 | 2023-01-19 | 3729 | 6256 | 
-| 2023-01-18 | 3729 | 6253 | 
 

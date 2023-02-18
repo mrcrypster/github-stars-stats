@@ -1,10 +1,10 @@
 # umaranis/svelte-lexical - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/umaranis/svelte-lexical)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 107 | 9 | 
 | 2023-02-16 | 106 | 9 | 
 | 2023-02-15 | 105 | 9 | 
 | 2023-02-14 | 104 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 98 | 9 | 
 | 2023-01-21 | 98 | 9 | 
 | 2023-01-20 | 97 | 9 | 
-| 2023-01-19 | 97 | 9 | 
 

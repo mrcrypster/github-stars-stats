@@ -1,6 +1,6 @@
 # daledavies/jump - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 337 | 20 | 
 | 2023-02-17 | 337 | 20 | 
 | 2023-02-16 | 337 | 20 | 
 | 2023-02-14 | 338 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 319 | 18 | 
 | 2023-01-20 | 318 | 18 | 
 | 2023-01-19 | 318 | 18 | 
-| 2023-01-18 | 317 | 18 | 
 

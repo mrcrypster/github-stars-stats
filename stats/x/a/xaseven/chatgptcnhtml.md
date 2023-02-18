@@ -1,8 +1,8 @@
 # xaseven/chatgptcnhtml - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 26
+☋ Forks: 28
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 23 | 28 | 
 | 2023-02-16 | 23 | 26 | 
 | 2023-02-15 | 22 | 26 | 
 | 2023-02-14 | 22 | 25 | 

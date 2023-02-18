@@ -1,10 +1,10 @@
 # ResoCoder/flutter-tdd-clean-architecture-course - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 556
 
-★ Stars: 1689
+★ Stars: 1688
 
 [Open repository](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1688 | 556 | 
 | 2023-02-16 | 1689 | 556 | 
 | 2023-02-15 | 1689 | 556 | 
 | 2023-02-14 | 1688 | 556 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1675 | 550 | 
 | 2023-01-20 | 1674 | 550 | 
 | 2023-01-19 | 1671 | 550 | 
-| 2023-01-18 | 1671 | 549 | 
 

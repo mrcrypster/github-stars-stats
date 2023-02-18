@@ -1,8 +1,8 @@
 # NNTU-CS/ADS-0 - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
-☋ Forks: 17
+☋ Forks: 31
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | - | 31 | 
+| 2023-02-17 | - | 31 | 
 | 2023-02-16 | - | 17 | 
 | 2023-02-15 | - | 17 | 
 | 2023-02-14 | - | 16 | 

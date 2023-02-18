@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/ml-testing-accelerators - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 52
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/GoogleCloudPlatform/ml-testing-accelerators)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 50 | 52 | 
 | 2023-02-16 | 49 | 52 | 
 | 2023-02-15 | 49 | 52 | 
 | 2023-02-13 | 49 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 47 | 49 | 
 | 2023-01-21 | 47 | 49 | 
 | 2023-01-19 | 47 | 49 | 
-| 2023-01-18 | 47 | 49 | 
 

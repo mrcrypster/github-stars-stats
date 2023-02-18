@@ -1,10 +1,10 @@
 # techiescamp/kubernetes-learning-path - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
-☋ Forks: 367
+☋ Forks: 386
 
-★ Stars: 4395
+★ Stars: 4605
 
 [Open repository](https://github.com/techiescamp/kubernetes-learning-path)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4605 | 386 | 
+| 2023-02-17 | 4599 | 386 | 
 | 2023-02-16 | 4395 | 367 | 
 | 2023-02-15 | 4366 | 362 | 
 | 2023-02-13 | 4324 | 358 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 971 | 104 | 
 | 2023-01-20 | 966 | 103 | 
 | 2023-01-19 | 964 | 102 | 
-| 2023-01-18 | 961 | 100 | 
 

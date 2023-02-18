@@ -1,10 +1,10 @@
 # lime-desu/dootsfile - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 26
+★ Stars: 29
 
 [Open repository](https://github.com/lime-desu/dootsfile)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 29 | 6 | 
 | 2023-02-16 | 26 | 5 | 
 | 2023-02-15 | 24 | 5 | 
 | 2023-02-14 | 23 | 5 | 

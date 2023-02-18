@@ -1,8 +1,8 @@
 # devcontainers/features - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 129
+☋ Forks: 128
 
 ★ Stars: 321
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 321 | 128 | 
 | 2023-02-16 | 321 | 129 | 
 | 2023-02-15 | 320 | 128 | 
 | 2023-02-14 | 319 | 128 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 289 | 97 | 
 | 2023-01-20 | 287 | 97 | 
 | 2023-01-19 | 287 | 97 | 
-| 2023-01-18 | 286 | 97 | 
 

@@ -1,10 +1,10 @@
 # Infatuation-Fei/rule - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 152
 
-★ Stars: 860
+★ Stars: 859
 
 [Open repository](https://github.com/Infatuation-Fei/rule)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 859 | 152 | 
 | 2023-02-16 | 860 | 152 | 
 | 2023-02-15 | 859 | 152 | 
 | 2023-02-14 | 859 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 854 | 153 | 
 | 2023-01-20 | 854 | 153 | 
 | 2023-01-19 | 854 | 153 | 
-| 2023-01-18 | 855 | 152 | 
 

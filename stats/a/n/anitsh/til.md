@@ -1,10 +1,10 @@
 # anitsh/til - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 11
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/anitsh/til)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 64 | 11 | 
 | 2023-02-16 | 63 | 11 | 
 | 2023-02-15 | 63 | 11 | 
 | 2023-02-14 | 63 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 63 | 11 | 
 | 2023-01-21 | 63 | 11 | 
 | 2023-01-20 | 63 | 11 | 
-| 2023-01-19 | 63 | 11 | 
 

@@ -1,10 +1,10 @@
 # hossainchisty/Freshdesk-ERP-Platform - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 34
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 82 | 34 | 
 | 2023-02-16 | 81 | 34 | 
 | 2023-02-15 | 81 | 34 | 
 | 2023-02-14 | 81 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 72 | 28 | 
 | 2023-01-20 | 72 | 28 | 
 | 2023-01-19 | 72 | 28 | 
-| 2023-01-18 | 71 | 27 | 
 

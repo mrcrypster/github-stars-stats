@@ -1,6 +1,6 @@
 # nf-core/vipr - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 13 | 11 | 
 | 2023-02-16 | 13 | 11 | 
 | 2023-02-15 | 13 | 11 | 
 | 2023-02-14 | 13 | 11 | 

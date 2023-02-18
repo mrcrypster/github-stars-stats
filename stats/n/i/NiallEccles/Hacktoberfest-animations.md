@@ -1,6 +1,6 @@
 # NiallEccles/Hacktoberfest-animations - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 403
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 142 | 403 | 
 | 2023-02-16 | 142 | 403 | 
 | 2023-02-15 | 142 | 403 | 
 | 2023-02-14 | 142 | 403 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 142 | 405 | 
 | 2023-01-21 | 142 | 405 | 
 | 2023-01-19 | 142 | 405 | 
-| 2023-01-18 | 142 | 405 | 
 

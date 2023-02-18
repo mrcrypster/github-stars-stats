@@ -1,6 +1,6 @@
 # 2factorauth/twofactorauth - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1777
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3214 | 1777 | 
 | 2023-02-16 | 3214 | 1777 | 
 | 2023-02-15 | 3214 | 1778 | 
 | 2023-02-14 | 3214 | 1776 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3207 | 1767 | 
 | 2023-01-20 | 3206 | 1768 | 
 | 2023-01-19 | 3206 | 1767 | 
-| 2023-01-18 | 3205 | 1767 | 
 

@@ -1,10 +1,10 @@
 # firebase/quickstart-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1496
+☋ Forks: 1497
 
-★ Stars: 2559
+★ Stars: 2561
 
 [Open repository](https://github.com/firebase/quickstart-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2561 | 1497 | 
 | 2023-02-16 | 2559 | 1496 | 
 | 2023-02-15 | 2557 | 1495 | 
 | 2023-02-14 | 2557 | 1495 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2540 | 1496 | 
 | 2023-01-20 | 2539 | 1496 | 
 | 2023-01-19 | 2538 | 1496 | 
-| 2023-01-18 | 2540 | 1495 | 
 

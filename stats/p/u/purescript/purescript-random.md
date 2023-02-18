@@ -1,10 +1,10 @@
 # purescript/purescript-random - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 14
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/purescript/purescript-random)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 14 | 14 | 
 | 2023-02-16 | 13 | 14 | 
 | 2023-02-15 | 13 | 14 | 
 | 2023-02-14 | 13 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 13 | 14 | 
 | 2023-01-20 | 13 | 14 | 
 | 2023-01-19 | 13 | 14 | 
-| 2023-01-18 | 13 | 14 | 
 

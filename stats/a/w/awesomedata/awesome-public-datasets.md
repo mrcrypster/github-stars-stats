@@ -1,10 +1,10 @@
 # awesomedata/awesome-public-datasets - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
-☋ Forks: 9164
+☋ Forks: 9172
 
-★ Stars: 52952
+★ Stars: 52986
 
 [Open repository](https://github.com/awesomedata/awesome-public-datasets)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 52986 | 9172 | 
+| 2023-02-17 | 52986 | 9172 | 
 | 2023-02-16 | 52952 | 9164 | 
 | 2023-02-15 | 52922 | 9159 | 
 | 2023-02-14 | 52910 | 9155 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 52592 | 9118 | 
 | 2023-01-20 | 52583 | 9117 | 
 | 2023-01-19 | 52572 | 9114 | 
-| 2023-01-18 | 52563 | 9111 | 
 

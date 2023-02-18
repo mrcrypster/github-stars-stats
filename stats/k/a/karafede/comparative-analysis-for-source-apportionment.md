@@ -1,10 +1,10 @@
 # karafede/comparative-analysis-for-source-apportionment - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/karafede/comparative-analysis-for-source-apportionment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 5 | - | 
 | 2023-02-16 | 6 | - | 
 | 2023-02-15 | 6 | - | 
 | 2023-02-14 | 6 | - | 

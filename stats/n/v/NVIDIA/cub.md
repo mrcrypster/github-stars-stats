@@ -1,10 +1,10 @@
 # NVIDIA/cub - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 418
 
-★ Stars: 1368
+★ Stars: 1369
 
 [Open repository](https://github.com/NVIDIA/cub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1369 | 418 | 
 | 2023-02-16 | 1368 | 418 | 
 | 2023-02-15 | 1367 | 418 | 
 | 2023-02-14 | 1367 | 418 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1349 | 414 | 
 | 2023-01-20 | 1348 | 414 | 
 | 2023-01-19 | 1346 | 414 | 
-| 2023-01-18 | 1347 | 414 | 
 

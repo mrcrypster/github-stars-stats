@@ -1,10 +1,10 @@
 # alexeagleson/nextjs-fullstack-app-template - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 151
+☋ Forks: 152
 
-★ Stars: 480
+★ Stars: 481
 
 [Open repository](https://github.com/alexeagleson/nextjs-fullstack-app-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 481 | 152 | 
 | 2023-02-16 | 480 | 151 | 
 | 2023-02-15 | 479 | 150 | 
 | 2023-02-14 | 479 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 449 | 146 | 
 | 2023-01-20 | 449 | 145 | 
 | 2023-01-19 | 446 | 145 | 
-| 2023-01-18 | 446 | 145 | 
 

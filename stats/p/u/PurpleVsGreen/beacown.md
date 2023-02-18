@@ -1,6 +1,6 @@
 # PurpleVsGreen/beacown - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 125 | 12 | 
 | 2023-02-16 | 125 | 12 | 
 | 2023-02-15 | 125 | 12 | 
 | 2023-02-14 | 125 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 124 | 11 | 
 | 2023-01-20 | 123 | 11 | 
 | 2023-01-19 | 123 | 11 | 
-| 2023-01-18 | 123 | 11 | 
 

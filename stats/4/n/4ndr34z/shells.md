@@ -1,8 +1,8 @@
 # 4ndr34z/shells - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 260
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 260 | 53 | 
 | 2023-02-16 | 260 | 52 | 
 | 2023-02-15 | 260 | 52 | 
 | 2023-02-14 | 260 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 247 | 50 | 
 | 2023-01-20 | 246 | 50 | 
 | 2023-01-19 | 245 | 50 | 
-| 2023-01-18 | 244 | 50 | 
 

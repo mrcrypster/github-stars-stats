@@ -1,10 +1,10 @@
 # GhostPack/Rubeus - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 630
 
-★ Stars: 2998
+★ Stars: 3001
 
 [Open repository](https://github.com/GhostPack/Rubeus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3001 | 630 | 
 | 2023-02-16 | 2998 | 630 | 
 | 2023-02-15 | 2994 | 631 | 
 | 2023-02-14 | 2990 | 629 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2931 | 618 | 
 | 2023-01-20 | 2928 | 619 | 
 | 2023-01-19 | 2926 | 619 | 
-| 2023-01-18 | 2922 | 619 | 
 

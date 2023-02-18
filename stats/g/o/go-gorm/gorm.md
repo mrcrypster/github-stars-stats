@@ -1,10 +1,10 @@
 # go-gorm/gorm - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 3463
+☋ Forks: 3464
 
-★ Stars: 31451
+★ Stars: 31462
 
 [Open repository](https://github.com/go-gorm/gorm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 31462 | 3464 | 
 | 2023-02-16 | 31451 | 3463 | 
 | 2023-02-15 | 31431 | 3458 | 
 | 2023-02-14 | 31408 | 3455 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 31176 | 3442 | 
 | 2023-01-20 | 31167 | 3441 | 
 | 2023-01-19 | 31145 | 3441 | 
-| 2023-01-18 | 31133 | 3441 | 
 

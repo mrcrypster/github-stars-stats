@@ -1,10 +1,10 @@
 # Tesena-smart-testing/WatchUI - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 14
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/Tesena-smart-testing/WatchUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 46 | 14 | 
 | 2023-02-16 | 45 | 14 | 
 | 2023-02-15 | 45 | 14 | 
 | 2023-02-14 | 45 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 45 | 14 | 
 | 2023-01-20 | 45 | 14 | 
 | 2023-01-19 | 45 | 14 | 
-| 2023-01-18 | 45 | 14 | 
 

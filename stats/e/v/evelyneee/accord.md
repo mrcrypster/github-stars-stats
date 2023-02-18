@@ -1,10 +1,10 @@
 # evelyneee/accord - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 20
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/evelyneee/accord)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 296 | 20 | 
 | 2023-02-16 | 295 | 20 | 
 | 2023-02-15 | 295 | 20 | 
 | 2023-02-14 | 295 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 292 | 21 | 
 | 2023-01-20 | 292 | 21 | 
 | 2023-01-19 | 292 | 21 | 
-| 2023-01-18 | 291 | 21 | 
 

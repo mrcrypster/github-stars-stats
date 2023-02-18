@@ -1,10 +1,10 @@
 # shengxinjing/email-helper - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 109
+☋ Forks: 112
 
-★ Stars: 640
+★ Stars: 648
 
 [Open repository](https://github.com/shengxinjing/email-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 648 | 112 | 
 | 2023-02-16 | 640 | 109 | 
 | 2023-02-15 | 635 | 103 | 
 | 2023-02-14 | 632 | 102 | 

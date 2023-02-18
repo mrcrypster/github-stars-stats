@@ -1,6 +1,6 @@
 # rems-project/sail - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 412 | 59 | 
 | 2023-02-16 | 412 | 59 | 
 | 2023-02-15 | 412 | 59 | 
 | 2023-02-13 | 412 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 408 | 56 | 
 | 2023-01-20 | 408 | 56 | 
 | 2023-01-19 | 408 | 56 | 
-| 2023-01-18 | 408 | 56 | 
 

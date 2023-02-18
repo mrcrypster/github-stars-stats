@@ -1,6 +1,6 @@
 # spotify/scio - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 495
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2430 | 495 | 
 | 2023-02-16 | 2430 | 495 | 
 | 2023-02-15 | 2430 | 496 | 
 | 2023-02-14 | 2430 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2417 | 493 | 
 | 2023-01-20 | 2417 | 493 | 
 | 2023-01-19 | 2417 | 493 | 
-| 2023-01-18 | 2415 | 492 | 
 

@@ -1,6 +1,6 @@
 # shipshapecode/react-shepherd - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 456 | 30 | 
 | 2023-02-16 | 456 | 30 | 
 | 2023-02-15 | 456 | 30 | 
 | 2023-02-14 | 456 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 451 | 30 | 
 | 2023-01-21 | 450 | 30 | 
 | 2023-01-20 | 449 | 30 | 
-| 2023-01-18 | 449 | 30 | 
 

@@ -1,10 +1,10 @@
 # CarGuo/GSYVideoPlayer - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 3998
+☋ Forks: 3999
 
-★ Stars: 18262
+★ Stars: 18264
 
 [Open repository](https://github.com/CarGuo/GSYVideoPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 18264 | 3999 | 
 | 2023-02-16 | 18262 | 3998 | 
 | 2023-02-15 | 18254 | 3997 | 
 | 2023-02-14 | 18252 | 3997 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 18201 | 3988 | 
 | 2023-01-21 | 18201 | 3988 | 
 | 2023-01-20 | 18199 | 3987 | 
-| 2023-01-18 | 18196 | 3988 | 
 

@@ -1,6 +1,6 @@
 # caleb-bb/periscope - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 59 | 2 | 
 | 2023-02-16 | 59 | 2 | 
 | 2023-02-15 | 59 | 2 | 
 | 2023-02-14 | 59 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 59 | 2 | 
 | 2023-01-21 | 59 | 2 | 
 | 2023-01-20 | 59 | 2 | 
-| 2023-01-19 | 59 | 2 | 
 

@@ -1,10 +1,10 @@
 # labsyspharm/mcmicro - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 45
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/labsyspharm/mcmicro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 72 | 45 | 
 | 2023-02-16 | 71 | 45 | 
 | 2023-02-15 | 71 | 45 | 
 | 2023-02-14 | 71 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 65 | 44 | 
 | 2023-01-20 | 64 | 44 | 
 | 2023-01-19 | 64 | 44 | 
-| 2023-01-18 | 64 | 44 | 
 

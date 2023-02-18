@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 17
 
-☋ Forks: 104
+☋ Forks: 114
 
-★ Stars: 1433
+★ Stars: 1554
 
 [Open repository](https://github.com/deepmind/mctx)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 1433 | 104 | 
+| 2023-02-17 | 1554 | 114 | 
 | 2023-02-16 | 1413 | 102 | 
 

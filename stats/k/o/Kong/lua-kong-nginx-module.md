@@ -1,10 +1,10 @@
 # Kong/lua-kong-nginx-module - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 18
 
-★ Stars: 29
+★ Stars: 28
 
 [Open repository](https://github.com/Kong/lua-kong-nginx-module)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 28 | 18 | 
 | 2023-02-16 | 29 | 18 | 
 | 2023-02-15 | 29 | 18 | 
 | 2023-02-14 | 29 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 29 | 18 | 
 | 2023-01-20 | 29 | 18 | 
 | 2023-01-19 | 29 | 18 | 
-| 2023-01-18 | 29 | 18 | 
 

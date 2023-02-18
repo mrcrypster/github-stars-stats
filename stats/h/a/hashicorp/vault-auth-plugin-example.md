@@ -1,6 +1,6 @@
 # hashicorp/vault-auth-plugin-example - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 36 | 23 | 
 | 2023-02-16 | 36 | 23 | 
 | 2023-02-15 | 36 | 23 | 
 | 2023-02-14 | 36 | 23 | 

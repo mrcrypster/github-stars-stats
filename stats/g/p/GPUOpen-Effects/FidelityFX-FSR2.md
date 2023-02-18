@@ -1,10 +1,10 @@
 # GPUOpen-Effects/FidelityFX-FSR2 - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 122
+☋ Forks: 124
 
-★ Stars: 1360
+★ Stars: 1395
 
 [Open repository](https://github.com/GPUOpen-Effects/FidelityFX-FSR2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1395 | 124 | 
 | 2023-02-16 | 1360 | 122 | 
 | 2023-02-15 | 1348 | 122 | 
 | 2023-02-14 | 1349 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1320 | 119 | 
 | 2023-01-20 | 1320 | 119 | 
 | 2023-01-19 | 1318 | 119 | 
-| 2023-01-18 | 1317 | 119 | 
 

@@ -1,10 +1,10 @@
 # ectagithub/Jenkins_lab - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
-☋ Forks: 7
+☋ Forks: 11
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/ectagithub/Jenkins_lab)
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1 | 11 | 
+| 2023-02-17 | 1 | 11 | 
 | 2023-02-16 | - | 7 | 
 

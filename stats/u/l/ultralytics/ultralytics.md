@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 17
 
-☋ Forks: 608
+☋ Forks: 614
 
-★ Stars: 3874
+★ Stars: 3903
 
 [Open repository](https://github.com/ultralytics/ultralytics)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 3874 | 608 | 
+| 2023-02-17 | 3903 | 614 | 
 | 2023-02-16 | 3873 | 607 | 
 | 2023-02-15 | 3793 | 588 | 
 | 2023-02-14 | 3750 | 578 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 2775 | 356 | 
 | 2023-01-20 | 2733 | 343 | 
 | 2023-01-19 | 2676 | 330 | 
-| 2023-01-18 | 2606 | 313 | 
 

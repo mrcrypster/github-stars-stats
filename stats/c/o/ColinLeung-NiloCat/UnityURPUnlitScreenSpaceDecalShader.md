@@ -1,10 +1,10 @@
 # ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 116
 
-★ Stars: 996
+★ Stars: 997
 
 [Open repository](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 997 | 116 | 
 | 2023-02-16 | 996 | 116 | 
 | 2023-02-15 | 995 | 116 | 
 | 2023-02-14 | 995 | 116 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 989 | 116 | 
 | 2023-01-20 | 988 | 116 | 
 | 2023-01-19 | 988 | 116 | 
-| 2023-01-18 | 987 | 116 | 
 

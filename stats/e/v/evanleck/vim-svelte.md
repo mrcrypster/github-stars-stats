@@ -1,6 +1,6 @@
 # evanleck/vim-svelte - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 272 | 8 | 
 | 2023-02-16 | 272 | 8 | 
 | 2023-02-15 | 271 | 8 | 
 | 2023-02-14 | 271 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 269 | 8 | 
 | 2023-01-21 | 269 | 8 | 
 | 2023-01-20 | 269 | 8 | 
-| 2023-01-18 | 269 | 8 | 
 

@@ -1,6 +1,6 @@
 # generation-org/DB-MYSQL - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6 | 15 | 
 | 2023-02-16 | 6 | 15 | 
 | 2023-02-15 | 6 | 15 | 
 | 2023-02-14 | 6 | 15 | 

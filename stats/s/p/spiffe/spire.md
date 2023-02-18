@@ -1,8 +1,8 @@
 # spiffe/spire - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 353
+☋ Forks: 355
 
 ★ Stars: 1355
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1355 | 355 | 
 | 2023-02-16 | 1355 | 353 | 
 | 2023-02-15 | 1356 | 353 | 
 | 2023-02-14 | 1355 | 352 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 1344 | 346 | 
 | 2023-01-21 | 1344 | 346 | 
 | 2023-01-19 | 1344 | 346 | 
-| 2023-01-18 | 1343 | 346 | 
 

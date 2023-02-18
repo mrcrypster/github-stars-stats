@@ -1,10 +1,10 @@
 # 0xPolygon/account-binary-search-tree - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 40
+★ Stars: 43
 
 [Open repository](https://github.com/0xPolygon/account-binary-search-tree)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 43 | 1 | 
 | 2023-02-16 | 40 | 1 | 
 | 2023-02-15 | 38 | 1 | 
 

@@ -1,10 +1,10 @@
 # runfinch/finch - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 60
 
-★ Stars: 2569
+★ Stars: 2575
 
 [Open repository](https://github.com/runfinch/finch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2575 | 60 | 
 | 2023-02-16 | 2569 | 60 | 
 | 2023-02-15 | 2566 | 60 | 
 | 2023-02-14 | 2563 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 2429 | 58 | 
 | 2023-01-20 | 2429 | 58 | 
 | 2023-01-19 | 2425 | 57 | 
-| 2023-01-18 | 2420 | 57 | 
 

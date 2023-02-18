@@ -1,10 +1,10 @@
 # geogebra/geogebra - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 294
 
-★ Stars: 1093
+★ Stars: 1094
 
 [Open repository](https://github.com/geogebra/geogebra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1094 | 294 | 
 | 2023-02-16 | 1093 | 294 | 
 | 2023-02-15 | 1093 | 294 | 
 | 2023-02-14 | 1093 | 294 | 

@@ -1,8 +1,8 @@
 # jacoco/jacoco - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1007
+☋ Forks: 1008
 
 ★ Stars: 3522
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3522 | 1008 | 
 | 2023-02-16 | 3522 | 1007 | 
 | 2023-02-15 | 3520 | 1007 | 
 | 2023-02-14 | 3517 | 1007 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3486 | 1002 | 
 | 2023-01-20 | 3484 | 1002 | 
 | 2023-01-19 | 3480 | 1001 | 
-| 2023-01-18 | 3478 | 999 | 
 

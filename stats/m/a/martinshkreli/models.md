@@ -1,10 +1,10 @@
 # martinshkreli/models - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 72
+☋ Forks: 74
 
-★ Stars: 571
+★ Stars: 573
 
 [Open repository](https://github.com/martinshkreli/models)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 573 | 74 | 
 | 2023-02-16 | 571 | 72 | 
 | 2023-02-15 | 570 | 72 | 
 | 2023-02-14 | 566 | 72 | 

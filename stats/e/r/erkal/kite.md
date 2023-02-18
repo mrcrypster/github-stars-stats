@@ -1,6 +1,6 @@
 # erkal/kite - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 510 | 23 | 
 | 2023-02-16 | 510 | 23 | 
 | 2023-02-15 | 510 | 23 | 
 | 2023-02-14 | 510 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 507 | 23 | 
 | 2023-01-21 | 507 | 23 | 
 | 2023-01-20 | 507 | 23 | 
-| 2023-01-19 | 507 | 23 | 
 

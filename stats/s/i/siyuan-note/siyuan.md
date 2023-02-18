@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 17
 
 ☋ Forks: 674
 
-★ Stars: 8830
+★ Stars: 8840
 
 [Open repository](https://github.com/siyuan-note/siyuan)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 8830 | 674 | 
+| 2023-02-17 | 8840 | 674 | 
 | 2023-02-16 | 8828 | 674 | 
 | 2023-02-15 | 8818 | 673 | 
 | 2023-02-14 | 8811 | 670 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 8596 | 652 | 
 | 2023-01-20 | 8587 | 652 | 
 | 2023-01-19 | 8577 | 648 | 
-| 2023-01-18 | 8571 | 648 | 
 

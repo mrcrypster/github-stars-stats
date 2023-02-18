@@ -1,10 +1,10 @@
 # LouisBarranqueiro/hexo-theme-tranquilpeak - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 487
 
-★ Stars: 1783
+★ Stars: 1781
 
 [Open repository](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1781 | 487 | 
 | 2023-02-16 | 1783 | 487 | 
 | 2023-02-15 | 1783 | 487 | 
 | 2023-02-14 | 1782 | 487 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1780 | 488 | 
 | 2023-01-20 | 1780 | 488 | 
 | 2023-01-19 | 1779 | 488 | 
-| 2023-01-18 | 1779 | 488 | 
 

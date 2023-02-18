@@ -1,10 +1,10 @@
 # PlexPt/chatgpt-java - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 154
+☋ Forks: 160
 
-★ Stars: 783
+★ Stars: 797
 
 [Open repository](https://github.com/PlexPt/chatgpt-java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 797 | 160 | 
 | 2023-02-16 | 783 | 154 | 
 | 2023-02-15 | 748 | 139 | 
 | 2023-02-14 | 718 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 392 | 63 | 
 | 2023-01-20 | 391 | 62 | 
 | 2023-01-19 | 388 | 62 | 
-| 2023-01-18 | 386 | 62 | 
 

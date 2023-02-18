@@ -1,10 +1,10 @@
 # Azure/azure-quickstart-templates - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 15374
+☋ Forks: 15376
 
-★ Stars: 12650
+★ Stars: 12653
 
 [Open repository](https://github.com/Azure/azure-quickstart-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 12653 | 15376 | 
 | 2023-02-16 | 12650 | 15374 | 
 | 2023-02-15 | 12643 | 15372 | 
 | 2023-02-14 | 12637 | 15370 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 12560 | 15299 | 
 | 2023-01-20 | 12558 | 15297 | 
 | 2023-01-19 | 12556 | 15297 | 
-| 2023-01-18 | 12554 | 15296 | 
 

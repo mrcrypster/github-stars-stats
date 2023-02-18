@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/cloud-foundation-fabric - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 446
+☋ Forks: 448
 
-★ Stars: 835
+★ Stars: 837
 
 [Open repository](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 837 | 448 | 
 | 2023-02-16 | 835 | 446 | 
 | 2023-02-15 | 834 | 446 | 
 | 2023-02-14 | 830 | 444 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 799 | 424 | 
 | 2023-01-20 | 799 | 424 | 
 | 2023-01-19 | 797 | 424 | 
-| 2023-01-18 | 795 | 424 | 
 

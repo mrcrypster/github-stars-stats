@@ -1,10 +1,10 @@
 # fengyuanchen/viewerjs - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1218
 
-★ Stars: 6964
+★ Stars: 6966
 
 [Open repository](https://github.com/fengyuanchen/viewerjs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 6966 | 1218 | 
 | 2023-02-16 | 6964 | 1218 | 
 | 2023-02-15 | 6963 | 1216 | 
 | 2023-02-14 | 6962 | 1215 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 6939 | 1209 | 
 | 2023-01-20 | 6939 | 1208 | 
 | 2023-01-19 | 6939 | 1208 | 
-| 2023-01-18 | 6937 | 1208 | 
 

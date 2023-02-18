@@ -1,10 +1,10 @@
 # Sinotrade/Shioaji - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 57
+★ Stars: 59
 
 [Open repository](https://github.com/Sinotrade/Shioaji)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 59 | 1 | 
 | 2023-02-16 | 57 | 1 | 
 | 2023-02-15 | 57 | 1 | 
 | 2023-02-14 | 57 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 49 | - | 
 | 2023-01-20 | 49 | - | 
 | 2023-01-19 | 49 | - | 
-| 2023-01-18 | 48 | - | 
 

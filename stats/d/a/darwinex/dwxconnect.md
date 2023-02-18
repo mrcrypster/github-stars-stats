@@ -1,10 +1,10 @@
 # darwinex/dwxconnect - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 56
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/darwinex/dwxconnect)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 96 | 56 | 
 | 2023-02-16 | 95 | 56 | 
 | 2023-02-15 | 95 | 56 | 
 | 2023-02-14 | 94 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 90 | 51 | 
 | 2023-01-20 | 90 | 51 | 
 | 2023-01-19 | 89 | 51 | 
-| 2023-01-18 | 87 | 51 | 
 

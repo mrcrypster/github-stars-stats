@@ -1,6 +1,6 @@
 # nvim-telescope/telescope-frecency.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 435 | 22 | 
 | 2023-02-16 | 435 | 22 | 
 | 2023-02-15 | 435 | 22 | 
 | 2023-02-14 | 425 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 416 | 22 | 
 | 2023-01-20 | 414 | 22 | 
 | 2023-01-19 | 413 | 22 | 
-| 2023-01-18 | 413 | 22 | 
 

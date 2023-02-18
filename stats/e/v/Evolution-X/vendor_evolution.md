@@ -1,10 +1,10 @@
 # Evolution-X/vendor_evolution - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 49
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/Evolution-X/vendor_evolution)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 20 | 49 | 
 | 2023-02-16 | 21 | 49 | 
 | 2023-02-15 | 21 | 49 | 
 | 2023-02-14 | 21 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 21 | 51 | 
 | 2023-01-20 | 20 | 51 | 
 | 2023-01-19 | 20 | 51 | 
-| 2023-01-18 | 20 | 50 | 
 

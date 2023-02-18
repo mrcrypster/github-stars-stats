@@ -1,6 +1,6 @@
 # yeahhub/Hacking-Security-Ebooks - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 869
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3961 | 869 | 
 | 2023-02-16 | 3961 | 869 | 
 | 2023-02-15 | 3960 | 869 | 
 | 2023-02-14 | 3958 | 868 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 3922 | 863 | 
 | 2023-01-21 | 3921 | 863 | 
 | 2023-01-20 | 3917 | 862 | 
-| 2023-01-19 | 3915 | 862 | 
 

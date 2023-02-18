@@ -1,8 +1,8 @@
 # facebook/facebook-python-business-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 628
+☋ Forks: 629
 
 ★ Stars: 1092
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1092 | 629 | 
 | 2023-02-16 | 1092 | 628 | 
 | 2023-02-15 | 1091 | 628 | 
 | 2023-02-14 | 1091 | 628 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1077 | 622 | 
 | 2023-01-20 | 1077 | 622 | 
 | 2023-01-19 | 1077 | 622 | 
-| 2023-01-18 | 1077 | 622 | 
 

@@ -1,10 +1,10 @@
 # apache/incubator-nuttx - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 662
+☋ Forks: 664
 
-★ Stars: 1253
+★ Stars: 1255
 
 [Open repository](https://github.com/apache/incubator-nuttx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1255 | 664 | 
 | 2023-02-16 | 1253 | 662 | 
 | 2023-02-15 | 1252 | 662 | 
 | 2023-02-14 | 1252 | 662 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1220 | 651 | 
 | 2023-01-20 | 1219 | 651 | 
 | 2023-01-19 | 1219 | 651 | 
-| 2023-01-18 | 1218 | 650 | 
 

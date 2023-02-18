@@ -1,6 +1,6 @@
 # woowacourse-precourse/kotlin-onboarding - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 17 | 165 | 
 | 2023-02-16 | 17 | 165 | 
 | 2023-02-15 | 17 | 166 | 
 | 2023-02-14 | 17 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 17 | 168 | 
 | 2023-01-21 | 17 | 168 | 
 | 2023-01-20 | 17 | 168 | 
-| 2023-01-18 | 17 | 168 | 
 

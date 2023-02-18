@@ -1,10 +1,10 @@
 # gmx-io/gmx-synthetics - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 38
 
-★ Stars: 69
+★ Stars: 71
 
 [Open repository](https://github.com/gmx-io/gmx-synthetics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 71 | 38 | 
 | 2023-02-16 | 69 | 38 | 
 | 2023-02-15 | 68 | 38 | 
 | 2023-02-14 | 67 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 59 | 29 | 
 | 2023-01-20 | 59 | 29 | 
 | 2023-01-19 | 58 | 28 | 
-| 2023-01-18 | 58 | 28 | 
 

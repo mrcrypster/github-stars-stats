@@ -1,10 +1,10 @@
 # tsoding/turd - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/tsoding/turd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 27 | 1 | 
 | 2023-02-16 | 26 | 1 | 
 | 2023-02-15 | 26 | 1 | 
 | 2023-02-14 | 26 | 1 | 

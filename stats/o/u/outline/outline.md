@@ -1,10 +1,10 @@
 # outline/outline - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1546
+☋ Forks: 1545
 
-★ Stars: 18429
+★ Stars: 18444
 
 [Open repository](https://github.com/outline/outline)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 18444 | 1545 | 
 | 2023-02-16 | 18429 | 1546 | 
 | 2023-02-15 | 18416 | 1545 | 
 | 2023-02-14 | 18410 | 1545 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 18123 | 1519 | 
 | 2023-01-20 | 18113 | 1518 | 
 | 2023-01-19 | 18107 | 1518 | 
-| 2023-01-18 | 18103 | 1520 | 
 

@@ -1,6 +1,6 @@
 # GradienceTeam/Gradience - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 739 | 31 | 
 | 2023-02-16 | 739 | 31 | 
 | 2023-02-15 | 738 | 31 | 
 | 2023-02-14 | 738 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 698 | 31 | 
 | 2023-01-20 | 700 | 31 | 
 | 2023-01-19 | 698 | 31 | 
-| 2023-01-18 | 697 | 31 | 
 

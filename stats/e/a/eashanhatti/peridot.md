@@ -1,6 +1,6 @@
 # eashanhatti/peridot - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 390 | 5 | 
 | 2023-02-16 | 390 | 5 | 
 | 2023-02-15 | 390 | 5 | 
 | 2023-02-13 | 390 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 389 | 5 | 
 | 2023-01-20 | 389 | 5 | 
 | 2023-01-19 | 389 | 5 | 
-| 2023-01-18 | 389 | 5 | 
 

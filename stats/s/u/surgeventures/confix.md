@@ -1,6 +1,6 @@
 # surgeventures/confix - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 7 | 4 | 
 | 2023-02-16 | 7 | 4 | 
 | 2023-02-15 | 7 | 4 | 
 | 2023-02-14 | 7 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 7 | 4 | 
 | 2023-01-21 | 7 | 4 | 
 | 2023-01-19 | 7 | 4 | 
-| 2023-01-18 | 7 | 4 | 
 

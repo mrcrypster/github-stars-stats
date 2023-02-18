@@ -1,10 +1,10 @@
 # scalameta/scalafmt - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 267
 
-★ Stars: 1325
+★ Stars: 1324
 
 [Open repository](https://github.com/scalameta/scalafmt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1324 | 267 | 
 | 2023-02-16 | 1325 | 267 | 
 | 2023-02-15 | 1324 | 267 | 
 | 2023-02-14 | 1324 | 267 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1322 | 267 | 
 | 2023-01-20 | 1322 | 267 | 
 | 2023-01-19 | 1322 | 267 | 
-| 2023-01-18 | 1321 | 267 | 
 

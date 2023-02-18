@@ -1,10 +1,10 @@
 # yoshiko2/Movie_Data_Capture - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1106
 
-★ Stars: 5563
+★ Stars: 5574
 
 [Open repository](https://github.com/yoshiko2/Movie_Data_Capture)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 5574 | 1106 | 
 | 2023-02-16 | 5563 | 1106 | 
 | 2023-02-15 | 5554 | 1106 | 
 | 2023-02-14 | 5545 | 1105 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 5431 | 1095 | 
 | 2023-01-20 | 5423 | 1094 | 
 | 2023-01-19 | 5417 | 1094 | 
-| 2023-01-18 | 5410 | 1095 | 
 

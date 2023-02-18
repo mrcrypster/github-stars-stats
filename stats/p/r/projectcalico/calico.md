@@ -1,10 +1,10 @@
 # projectcalico/calico - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 994
+☋ Forks: 997
 
-★ Stars: 4313
+★ Stars: 4319
 
 [Open repository](https://github.com/projectcalico/calico)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 4319 | 997 | 
 | 2023-02-16 | 4313 | 994 | 
 | 2023-02-15 | 4306 | 991 | 
 | 2023-02-14 | 4299 | 990 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 4219 | 981 | 
 | 2023-01-20 | 4218 | 981 | 
 | 2023-01-19 | 4214 | 980 | 
-| 2023-01-18 | 4208 | 979 | 
 

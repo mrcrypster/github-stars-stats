@@ -1,10 +1,10 @@
 # ruby/racc - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 82
 
-★ Stars: 499
+★ Stars: 500
 
 [Open repository](https://github.com/ruby/racc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 500 | 82 | 
 | 2023-02-16 | 499 | 82 | 
 | 2023-02-15 | 499 | 82 | 
 | 2023-02-14 | 499 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 498 | 81 | 
 | 2023-01-20 | 498 | 81 | 
 | 2023-01-19 | 497 | 81 | 
-| 2023-01-18 | 497 | 81 | 
 

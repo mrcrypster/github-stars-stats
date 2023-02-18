@@ -1,10 +1,10 @@
 # 52CV/CVPR-2022-Papers - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 62
 
-★ Stars: 572
+★ Stars: 574
 
 [Open repository](https://github.com/52CV/CVPR-2022-Papers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 574 | 62 | 
 | 2023-02-16 | 572 | 62 | 
 | 2023-02-15 | 572 | 62 | 
 | 2023-02-14 | 572 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 568 | 63 | 
 | 2023-01-20 | 568 | 63 | 
 | 2023-01-19 | 568 | 63 | 
-| 2023-01-18 | 567 | 63 | 
 

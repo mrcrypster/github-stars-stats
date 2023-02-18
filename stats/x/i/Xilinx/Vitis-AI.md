@@ -1,10 +1,10 @@
 # Xilinx/Vitis-AI - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 556
 
-★ Stars: 1042
+★ Stars: 1043
 
 [Open repository](https://github.com/Xilinx/Vitis-AI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1043 | 556 | 
 | 2023-02-16 | 1042 | 556 | 
 | 2023-02-15 | 1042 | 556 | 
 | 2023-02-14 | 1040 | 556 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 1023 | 545 | 
 | 2023-01-20 | 1023 | 545 | 
 | 2023-01-19 | 1023 | 545 | 
-| 2023-01-18 | 1021 | 545 | 
 

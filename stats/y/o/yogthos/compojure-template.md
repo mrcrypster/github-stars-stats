@@ -1,6 +1,6 @@
 # yogthos/compojure-template - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 52 | 12 | 
 | 2023-02-16 | 52 | 12 | 
 | 2023-02-15 | 52 | 12 | 
 | 2023-02-14 | 52 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 52 | 12 | 
 | 2023-01-20 | 52 | 12 | 
 | 2023-01-19 | 52 | 12 | 
-| 2023-01-18 | 52 | 12 | 
 

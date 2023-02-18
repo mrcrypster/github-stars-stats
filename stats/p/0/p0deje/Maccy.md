@@ -1,10 +1,10 @@
 # p0deje/Maccy - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
-☋ Forks: 306
+☋ Forks: 309
 
-★ Stars: 6890
+★ Stars: 6893
 
 [Open repository](https://github.com/p0deje/Maccy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6893 | 309 | 
 | 2023-02-16 | 6890 | 306 | 
 | 2023-02-15 | 6884 | 306 | 
 | 2023-02-14 | 6874 | 306 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 6699 | 299 | 
 | 2023-01-20 | 6695 | 299 | 
 | 2023-01-19 | 6689 | 299 | 
-| 2023-01-18 | 6685 | 299 | 
 

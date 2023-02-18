@@ -1,10 +1,10 @@
 # chubin/cheat.sh - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 1664
 
-★ Stars: 34675
+★ Stars: 34690
 
 [Open repository](https://github.com/chubin/cheat.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 34690 | 1664 | 
 | 2023-02-17 | 34675 | 1664 | 
 | 2023-02-15 | 34670 | 1663 | 
 | 2023-02-14 | 34659 | 1663 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 34480 | 1655 | 
 | 2023-01-20 | 34472 | 1656 | 
 | 2023-01-19 | 34464 | 1656 | 
-| 2023-01-18 | 34449 | 1655 | 
 

@@ -1,6 +1,6 @@
 # MicrosoftDocs/PowerShell-Docs-Modules - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 19 | 24 | 
 | 2023-02-16 | 19 | 24 | 
 | 2023-02-15 | 19 | 24 | 
 | 2023-02-13 | 19 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 18 | 23 | 
 | 2023-01-20 | 18 | 23 | 
 | 2023-01-19 | 18 | 23 | 
-| 2023-01-18 | 18 | 23 | 
 

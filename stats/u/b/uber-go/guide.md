@@ -1,10 +1,10 @@
 # uber-go/guide - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1516
+☋ Forks: 1515
 
-★ Stars: 13157
+★ Stars: 13158
 
 [Open repository](https://github.com/uber-go/guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 13158 | 1515 | 
 | 2023-02-16 | 13157 | 1516 | 
 | 2023-02-15 | 13154 | 1514 | 
 | 2023-02-14 | 13153 | 1514 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 13032 | 1501 | 
 | 2023-01-20 | 13030 | 1500 | 
 | 2023-01-19 | 13024 | 1500 | 
-| 2023-01-18 | 13013 | 1500 | 
 

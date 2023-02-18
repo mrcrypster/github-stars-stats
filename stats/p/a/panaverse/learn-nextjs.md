@@ -1,10 +1,10 @@
 # panaverse/learn-nextjs - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 62
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/panaverse/learn-nextjs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 131 | 62 | 
 | 2023-02-16 | 130 | 62 | 
 | 2023-02-15 | 129 | 62 | 
 | 2023-02-14 | 129 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 117 | 55 | 
 | 2023-01-20 | 116 | 54 | 
 | 2023-01-19 | 116 | 54 | 
-| 2023-01-18 | 115 | 54 | 
 

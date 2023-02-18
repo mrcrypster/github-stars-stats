@@ -1,6 +1,6 @@
 # jarneson/godot-ply - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 190 | 14 | 
 | 2023-02-16 | 190 | 14 | 
 | 2023-02-15 | 188 | 14 | 
 | 2023-02-14 | 188 | 14 | 

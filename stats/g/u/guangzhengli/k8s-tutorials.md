@@ -1,10 +1,10 @@
 # guangzhengli/k8s-tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 205
+☋ Forks: 206
 
-★ Stars: 2384
+★ Stars: 2392
 
 [Open repository](https://github.com/guangzhengli/k8s-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 2392 | 206 | 
 | 2023-02-16 | 2384 | 205 | 
 | 2023-02-15 | 2379 | 204 | 
 | 2023-02-14 | 2368 | 203 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 2247 | 193 | 
 | 2023-01-20 | 2245 | 193 | 
 | 2023-01-19 | 2239 | 193 | 
-| 2023-01-18 | 2224 | 193 | 
 

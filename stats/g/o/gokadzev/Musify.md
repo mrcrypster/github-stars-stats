@@ -1,10 +1,10 @@
 # gokadzev/Musify - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 42
 
-★ Stars: 522
+★ Stars: 523
 
 [Open repository](https://github.com/gokadzev/Musify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 523 | 42 | 
 | 2023-02-16 | 522 | 42 | 
 | 2023-02-15 | 520 | 42 | 
 | 2023-02-14 | 518 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 468 | 38 | 
 | 2023-01-20 | 468 | 38 | 
 | 2023-01-19 | 468 | 38 | 
-| 2023-01-18 | 463 | 38 | 
 

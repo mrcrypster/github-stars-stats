@@ -1,10 +1,10 @@
 # antefinance/ante-community-tests - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 63
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/antefinance/ante-community-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 29 | 63 | 
 | 2023-02-16 | 28 | 63 | 
 | 2023-02-15 | 28 | 64 | 
 | 2023-02-14 | 28 | 64 | 

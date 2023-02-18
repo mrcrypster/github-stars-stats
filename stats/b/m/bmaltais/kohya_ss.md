@@ -1,10 +1,10 @@
 # bmaltais/kohya_ss - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 52
+☋ Forks: 56
 
-★ Stars: 443
+★ Stars: 470
 
 [Open repository](https://github.com/bmaltais/kohya_ss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 470 | 56 | 
 | 2023-02-16 | 443 | 52 | 
 | 2023-02-15 | 421 | 52 | 
 | 2023-02-14 | 409 | 51 | 

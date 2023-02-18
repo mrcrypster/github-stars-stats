@@ -1,6 +1,6 @@
 # guardianproject/orbot - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1334 | 310 | 
 | 2023-02-16 | 1334 | 310 | 
 | 2023-02-15 | 1332 | 309 | 
 | 2023-02-14 | 1331 | 308 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1298 | 303 | 
 | 2023-01-20 | 1296 | 303 | 
 | 2023-01-19 | 1293 | 302 | 
-| 2023-01-18 | 1290 | 301 | 
 

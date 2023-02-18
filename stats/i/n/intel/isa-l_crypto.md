@@ -1,6 +1,6 @@
 # intel/isa-l_crypto - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 218 | 73 | 
 | 2023-02-16 | 218 | 73 | 
 | 2023-02-15 | 216 | 73 | 
 | 2023-02-14 | 216 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 213 | 73 | 
 | 2023-01-20 | 213 | 73 | 
 | 2023-01-19 | 213 | 73 | 
-| 2023-01-18 | 212 | 73 | 
 

@@ -1,10 +1,10 @@
 # polkadot-fellows/manifesto - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 53
+★ Stars: 52
 
 [Open repository](https://github.com/polkadot-fellows/manifesto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 52 | 3 | 
 | 2023-02-16 | 53 | 3 | 
 | 2023-02-15 | 53 | 3 | 
 | 2023-02-14 | 52 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 47 | 3 | 
 | 2023-01-20 | 47 | 3 | 
 | 2023-01-19 | 47 | 3 | 
-| 2023-01-18 | 47 | 3 | 
 

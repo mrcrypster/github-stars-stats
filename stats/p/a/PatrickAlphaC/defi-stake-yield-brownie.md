@@ -1,6 +1,6 @@
 # PatrickAlphaC/defi-stake-yield-brownie - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 80 | 59 | 
 | 2023-02-16 | 80 | 59 | 
 | 2023-02-15 | 80 | 59 | 
 | 2023-02-14 | 80 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 80 | 59 | 
 | 2023-01-20 | 79 | 59 | 
 | 2023-01-19 | 79 | 59 | 
-| 2023-01-18 | 79 | 59 | 
 

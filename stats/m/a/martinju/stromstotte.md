@@ -1,6 +1,6 @@
 # martinju/stromstotte - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 45 | 2 | 
 | 2023-02-16 | 45 | 2 | 
 | 2023-02-15 | 45 | 2 | 
 | 2023-02-14 | 44 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 45 | 2 | 
 | 2023-01-21 | 44 | 2 | 
 | 2023-01-20 | 44 | 1 | 
-| 2023-01-19 | 44 | 1 | 
 

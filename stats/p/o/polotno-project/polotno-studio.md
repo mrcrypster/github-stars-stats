@@ -1,10 +1,10 @@
 # polotno-project/polotno-studio - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 110
+☋ Forks: 109
 
-★ Stars: 526
+★ Stars: 530
 
 [Open repository](https://github.com/polotno-project/polotno-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 530 | 109 | 
 | 2023-02-16 | 526 | 110 | 
 | 2023-02-15 | 526 | 110 | 
 | 2023-02-14 | 526 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 510 | 107 | 
 | 2023-01-21 | 509 | 107 | 
 | 2023-01-20 | 509 | 107 | 
-| 2023-01-19 | 509 | 107 | 
 

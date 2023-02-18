@@ -1,6 +1,6 @@
 # donato-fiore/GameSeagull - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 140 | 19 | 
 | 2023-02-16 | 140 | 19 | 
 | 2023-02-15 | 139 | 19 | 
 | 2023-02-14 | 139 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 128 | 18 | 
 | 2023-01-20 | 128 | 18 | 
 | 2023-01-19 | 128 | 18 | 
-| 2023-01-18 | 128 | 18 | 
 

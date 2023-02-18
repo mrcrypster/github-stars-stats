@@ -1,10 +1,10 @@
 # alelievr/libft-unit-test - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 87
 
-★ Stars: 389
+★ Stars: 388
 
 [Open repository](https://github.com/alelievr/libft-unit-test)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 388 | 87 | 
 | 2023-02-16 | 389 | 87 | 
 | 2023-02-15 | 389 | 87 | 
 | 2023-02-14 | 389 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 393 | 87 | 
 | 2023-01-20 | 393 | 88 | 
 | 2023-01-19 | 393 | 88 | 
-| 2023-01-18 | 393 | 87 | 
 

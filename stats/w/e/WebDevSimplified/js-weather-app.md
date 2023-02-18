@@ -1,10 +1,10 @@
 # WebDevSimplified/js-weather-app - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 43
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/WebDevSimplified/js-weather-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 37 | 43 | 
 | 2023-02-16 | 36 | 43 | 
 | 2023-02-15 | 36 | 43 | 
 | 2023-02-14 | 36 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 34 | 35 | 
 | 2023-01-21 | 35 | 34 | 
 | 2023-01-20 | 34 | 33 | 
-| 2023-01-19 | 34 | 33 | 
 

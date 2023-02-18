@@ -1,10 +1,10 @@
 # a16z/zkp-merkle-airdrop-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 70
 
-★ Stars: 655
+★ Stars: 656
 
 [Open repository](https://github.com/a16z/zkp-merkle-airdrop-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 656 | 70 | 
 | 2023-02-16 | 655 | 70 | 
 | 2023-02-15 | 653 | 70 | 
 | 2023-02-14 | 652 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 638 | 66 | 
 | 2023-01-20 | 638 | 66 | 
 | 2023-01-19 | 638 | 65 | 
-| 2023-01-18 | 638 | 65 | 
 

@@ -1,10 +1,10 @@
 # PixelToast/puro - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/PixelToast/puro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 42 | 1 | 
 | 2023-02-16 | 41 | 1 | 
 | 2023-02-15 | 41 | 1 | 
 | 2023-02-14 | 41 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 34 | 1 | 
 | 2023-01-20 | 34 | 1 | 
 | 2023-01-19 | 33 | 1 | 
-| 2023-01-18 | 33 | 1 | 
 

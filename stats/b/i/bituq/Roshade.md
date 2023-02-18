@@ -1,6 +1,6 @@
 # bituq/Roshade - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 33 | 14 | 
 | 2023-02-16 | 33 | 14 | 
 | 2023-02-15 | 33 | 14 | 
 | 2023-02-14 | 33 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 32 | 14 | 
 | 2023-01-20 | 32 | 14 | 
 | 2023-01-19 | 32 | 14 | 
-| 2023-01-18 | 32 | 14 | 
 

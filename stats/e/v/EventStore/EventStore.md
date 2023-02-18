@@ -1,10 +1,10 @@
 # EventStore/EventStore - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 628
 
-★ Stars: 4776
+★ Stars: 4778
 
 [Open repository](https://github.com/EventStore/EventStore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 4778 | 628 | 
 | 2023-02-16 | 4776 | 628 | 
 | 2023-02-15 | 4776 | 628 | 
 | 2023-02-14 | 4776 | 628 | 

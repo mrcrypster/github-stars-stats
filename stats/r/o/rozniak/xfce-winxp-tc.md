@@ -1,10 +1,10 @@
 # rozniak/xfce-winxp-tc - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 20
 
-★ Stars: 580
+★ Stars: 581
 
 [Open repository](https://github.com/rozniak/xfce-winxp-tc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 581 | 20 | 
 | 2023-02-16 | 580 | 20 | 
 | 2023-02-15 | 580 | 20 | 
 | 2023-02-14 | 579 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 570 | 20 | 
 | 2023-01-20 | 568 | 20 | 
 | 2023-01-19 | 568 | 20 | 
-| 2023-01-18 | 568 | 20 | 
 

@@ -1,6 +1,6 @@
 # evmos/evmos - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 619
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 1409 | 619 | 
 | 2023-02-16 | 1409 | 619 | 
 | 2023-02-15 | 1406 | 618 | 
 | 2023-02-14 | 1406 | 615 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 1397 | 600 | 
 | 2023-01-20 | 1395 | 600 | 
 | 2023-01-19 | 1394 | 600 | 
-| 2023-01-18 | 1395 | 600 | 
 

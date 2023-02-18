@@ -1,8 +1,8 @@
 # alura-challenges/challenge-one-encriptador-latam - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 472
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 472 | 111 | 
 | 2023-02-16 | 472 | 110 | 
 | 2023-02-15 | 472 | 110 | 
 | 2023-02-14 | 473 | 111 | 

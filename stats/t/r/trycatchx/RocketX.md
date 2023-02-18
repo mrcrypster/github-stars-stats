@@ -1,10 +1,10 @@
 # trycatchx/RocketX - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 87
 
-★ Stars: 719
+★ Stars: 721
 
 [Open repository](https://github.com/trycatchx/RocketX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 721 | 87 | 
 | 2023-02-16 | 719 | 87 | 
 | 2023-02-15 | 716 | 87 | 
 | 2023-02-14 | 716 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 708 | 86 | 
 | 2023-01-20 | 708 | 86 | 
 | 2023-01-19 | 708 | 86 | 
-| 2023-01-18 | 708 | 86 | 
 

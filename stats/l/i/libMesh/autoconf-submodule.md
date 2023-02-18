@@ -1,6 +1,6 @@
 # libMesh/autoconf-submodule - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3 | 4 | 
 | 2023-02-16 | 3 | 4 | 
 | 2023-02-15 | 3 | 4 | 
 | 2023-02-14 | 3 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3 | 4 | 
 | 2023-01-20 | 3 | 4 | 
 | 2023-01-19 | 3 | 4 | 
-| 2023-01-18 | 3 | 4 | 
 

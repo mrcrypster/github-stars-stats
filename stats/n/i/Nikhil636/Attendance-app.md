@@ -1,10 +1,10 @@
 # Nikhil636/Attendance-app - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 9
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Nikhil636/Attendance-app)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3 | 9 | 
 | 2023-02-16 | 2 | 9 | 
 

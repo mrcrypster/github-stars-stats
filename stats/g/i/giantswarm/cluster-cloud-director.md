@@ -1,10 +1,10 @@
 # giantswarm/cluster-cloud-director - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/giantswarm/cluster-cloud-director)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 4 | - | 
 | 2023-02-16 | 3 | - | 
 | 2023-02-15 | 3 | - | 
 | 2023-02-14 | 3 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 4 | - | 
 | 2023-01-21 | 4 | - | 
 | 2023-01-19 | 4 | - | 
-| 2023-01-18 | 4 | - | 
 

@@ -1,10 +1,10 @@
 # HattieTavares/mood-journal - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 11
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/HattieTavares/mood-journal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 7 | 11 | 
 | 2023-02-16 | 6 | 11 | 
 | 2023-02-15 | 6 | 11 | 
 | 2023-02-14 | 6 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-22 | 6 | 10 | 
 | 2023-01-21 | 6 | 10 | 
 | 2023-01-20 | 6 | 10 | 
-| 2023-01-18 | 6 | 10 | 
 

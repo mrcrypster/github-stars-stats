@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 17
 
 ☋ Forks: 381
 
-★ Stars: 3079
+★ Stars: 3080
 
 [Open repository](https://github.com/unifi-utilities/unifios-utilities)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-17 | 3079 | 381 | 
+| 2023-02-17 | 3080 | 381 | 
 | 2023-02-16 | 3079 | 381 | 
 | 2023-02-15 | 3073 | 381 | 
 | 2023-02-14 | 3070 | 381 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-21 | 3027 | 375 | 
 | 2023-01-20 | 3025 | 375 | 
 | 2023-01-19 | 3026 | 375 | 
-| 2023-01-18 | 3023 | 375 | 
 

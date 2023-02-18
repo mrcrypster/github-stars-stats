@@ -1,10 +1,10 @@
 # android-hacker/VirtualXposed - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2403
 
-★ Stars: 14136
+★ Stars: 14144
 
 [Open repository](https://github.com/android-hacker/VirtualXposed)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 14144 | 2403 | 
 | 2023-02-16 | 14136 | 2403 | 
 | 2023-02-15 | 14132 | 2403 | 
 | 2023-02-14 | 14132 | 2403 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 14069 | 2391 | 
 | 2023-01-20 | 14068 | 2390 | 
 | 2023-01-19 | 14065 | 2391 | 
-| 2023-01-18 | 14064 | 2392 | 
 

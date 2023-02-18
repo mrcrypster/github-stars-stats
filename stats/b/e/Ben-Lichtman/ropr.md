@@ -1,10 +1,10 @@
 # Ben-Lichtman/ropr - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 21
 
-★ Stars: 354
+★ Stars: 353
 
 [Open repository](https://github.com/Ben-Lichtman/ropr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 353 | 21 | 
 | 2023-02-16 | 354 | 21 | 
 | 2023-02-15 | 354 | 21 | 
 | 2023-02-14 | 354 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 347 | 21 | 
 | 2023-01-20 | 347 | 21 | 
 | 2023-01-19 | 347 | 21 | 
-| 2023-01-18 | 347 | 21 | 
 

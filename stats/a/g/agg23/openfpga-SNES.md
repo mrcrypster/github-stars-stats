@@ -1,6 +1,6 @@
 # agg23/openfpga-SNES - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 265 | 6 | 
 | 2023-02-16 | 265 | 6 | 
 | 2023-02-15 | 265 | 6 | 
 | 2023-02-14 | 265 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 252 | 6 | 
 | 2023-01-20 | 250 | 6 | 
 | 2023-01-19 | 249 | 6 | 
-| 2023-01-18 | 249 | 6 | 
 

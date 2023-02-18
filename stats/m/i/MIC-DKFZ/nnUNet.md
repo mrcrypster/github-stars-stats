@@ -1,10 +1,10 @@
 # MIC-DKFZ/nnUNet - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
-☋ Forks: 1147
+☋ Forks: 1149
 
-★ Stars: 3270
+★ Stars: 3272
 
 [Open repository](https://github.com/MIC-DKFZ/nnUNet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 3272 | 1149 | 
 | 2023-02-16 | 3270 | 1147 | 
 | 2023-02-15 | 3264 | 1147 | 
 | 2023-02-14 | 3260 | 1147 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 16
 | 2023-01-21 | 3214 | 1123 | 
 | 2023-01-20 | 3212 | 1123 | 
 | 2023-01-19 | 3210 | 1122 | 
-| 2023-01-18 | 3209 | 1122 | 
 

@@ -1,10 +1,10 @@
 # alexmercerind/window_plus - stars & forks statistics
 
-Stats updated on Feb 2023, 16
+Stats updated on Feb 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/alexmercerind/window_plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-17 | 23 | - | 
 | 2023-02-16 | 22 | - | 
 | 2023-02-15 | 22 | - | 
 | 2023-02-14 | 22 | - | 
