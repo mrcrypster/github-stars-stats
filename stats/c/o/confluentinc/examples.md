@@ -1,10 +1,10 @@
 # confluentinc/examples - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 1074
+☋ Forks: 1075
 
-★ Stars: 1679
+★ Stars: 1680
 
 [Open repository](https://github.com/confluentinc/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1680 | 1075 | 
 | 2023-02-17 | 1679 | 1074 | 
 | 2023-02-16 | 1678 | 1074 | 
 | 2023-02-15 | 1677 | 1073 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1666 | 1067 | 
 | 2023-01-21 | 1666 | 1067 | 
 | 2023-01-20 | 1666 | 1067 | 
-| 2023-01-19 | 1665 | 1067 | 
 

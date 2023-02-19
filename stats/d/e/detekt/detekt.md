@@ -1,6 +1,6 @@
 # detekt/detekt - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 708
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5187 | 708 | 
 | 2023-02-17 | 5187 | 708 | 
 | 2023-02-16 | 5185 | 708 | 
 | 2023-02-15 | 5178 | 707 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 5105 | 703 | 
 | 2023-01-21 | 5104 | 703 | 
 | 2023-01-20 | 5104 | 701 | 
-| 2023-01-19 | 5104 | 700 | 
 

@@ -1,8 +1,8 @@
 # gxttovds/gxtto2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 325
+☋ Forks: 348
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | - | 348 | 
 | 2023-02-17 | - | 325 | 
 | 2023-02-16 | - | 305 | 
 | 2023-02-15 | - | 277 | 

@@ -1,6 +1,6 @@
 # chrisbra/unicode.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 413 | 27 | 
 | 2023-02-17 | 413 | 27 | 
 | 2023-02-16 | 414 | 27 | 
 | 2023-02-15 | 414 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 410 | 26 | 
 | 2023-01-21 | 410 | 26 | 
 | 2023-01-20 | 410 | 26 | 
-| 2023-01-19 | 410 | 26 | 
 

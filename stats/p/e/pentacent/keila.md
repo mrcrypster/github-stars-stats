@@ -1,6 +1,6 @@
 # pentacent/keila - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 765 | 33 | 
 | 2023-02-17 | 765 | 33 | 
 | 2023-02-16 | 763 | 33 | 
 | 2023-02-15 | 763 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 744 | 31 | 
 | 2023-01-21 | 744 | 31 | 
 | 2023-01-20 | 744 | 31 | 
-| 2023-01-19 | 739 | 31 | 
 

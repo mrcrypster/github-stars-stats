@@ -1,8 +1,8 @@
 # mszep/pandoc_resume - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 693
+☋ Forks: 692
 
 ★ Stars: 1389
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1389 | 692 | 
 | 2023-02-17 | 1389 | 693 | 
 | 2023-02-16 | 1389 | 693 | 
 | 2023-02-15 | 1388 | 694 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1376 | 688 | 
 | 2023-01-21 | 1374 | 688 | 
 | 2023-01-20 | 1372 | 688 | 
-| 2023-01-19 | 1372 | 688 | 
 

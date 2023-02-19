@@ -1,10 +1,10 @@
 # Pradumnasaraf/Monitoring - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/Pradumnasaraf/Monitoring)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 8 | 2 | 
 | 2023-02-17 | 7 | 2 | 
 | 2023-02-16 | 7 | 2 | 
 | 2023-02-15 | 7 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 8 | 2 | 
 | 2023-01-21 | 8 | 2 | 
 | 2023-01-20 | 8 | 2 | 
-| 2023-01-19 | 8 | 2 | 
 

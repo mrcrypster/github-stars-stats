@@ -1,10 +1,10 @@
 # antonioCoco/JuicyPotatoNG - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 604
+★ Stars: 605
 
 [Open repository](https://github.com/antonioCoco/JuicyPotatoNG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 605 | 75 | 
 | 2023-02-17 | 604 | 74 | 
 | 2023-02-16 | 603 | 73 | 
 | 2023-02-15 | 601 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 590 | 74 | 
 | 2023-01-21 | 590 | 74 | 
 | 2023-01-20 | 590 | 74 | 
-| 2023-01-19 | 588 | 74 | 
 

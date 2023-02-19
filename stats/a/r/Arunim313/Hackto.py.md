@@ -1,6 +1,6 @@
 # Arunim313/Hackto.py - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 24 | 95 | 
 | 2023-02-17 | 24 | 95 | 
 | 2023-02-16 | 24 | 95 | 
 | 2023-02-15 | 24 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 24 | 96 | 
 | 2023-01-21 | 24 | 96 | 
 | 2023-01-20 | 24 | 96 | 
-| 2023-01-19 | 24 | 96 | 
 

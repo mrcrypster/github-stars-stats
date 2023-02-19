@@ -1,10 +1,10 @@
 # digitallyinduced/ihp - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 166
 
-★ Stars: 3852
+★ Stars: 3851
 
 [Open repository](https://github.com/digitallyinduced/ihp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3851 | 166 | 
 | 2023-02-17 | 3852 | 166 | 
 | 2023-02-16 | 3851 | 166 | 
 | 2023-02-15 | 3851 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 3822 | 164 | 
 | 2023-01-21 | 3820 | 164 | 
 | 2023-01-20 | 3820 | 164 | 
-| 2023-01-19 | 3817 | 164 | 
 

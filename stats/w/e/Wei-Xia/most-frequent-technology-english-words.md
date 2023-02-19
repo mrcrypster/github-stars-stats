@@ -1,6 +1,6 @@
 # Wei-Xia/most-frequent-technology-english-words - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 386
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5242 | 386 | 
 | 2023-02-17 | 5242 | 386 | 
 | 2023-02-16 | 5240 | 386 | 
 | 2023-02-15 | 5240 | 386 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 5211 | 384 | 
 | 2023-01-21 | 5209 | 384 | 
 | 2023-01-20 | 5209 | 384 | 
-| 2023-01-19 | 5207 | 384 | 
 

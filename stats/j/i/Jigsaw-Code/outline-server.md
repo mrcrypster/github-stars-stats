@@ -1,10 +1,10 @@
 # Jigsaw-Code/outline-server - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 694
 
-★ Stars: 4912
+★ Stars: 4914
 
 [Open repository](https://github.com/Jigsaw-Code/outline-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4914 | 694 | 
 | 2023-02-17 | 4912 | 694 | 
 | 2023-02-16 | 4908 | 692 | 
 | 2023-02-15 | 4906 | 692 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 4868 | 683 | 
 | 2023-01-21 | 4868 | 683 | 
 | 2023-01-20 | 4868 | 683 | 
-| 2023-01-19 | 4867 | 683 | 
 

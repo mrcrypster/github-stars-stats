@@ -1,6 +1,6 @@
 # TomyJan/hk4e-everything - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 25 | 29 | 
 | 2023-02-17 | 25 | 29 | 
 | 2023-02-16 | 25 | 28 | 
 | 2023-02-15 | 25 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 19 | 27 | 
 | 2023-01-21 | 20 | 27 | 
 | 2023-01-20 | 20 | 27 | 
-| 2023-01-19 | 20 | 27 | 
 

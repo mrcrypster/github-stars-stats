@@ -1,6 +1,6 @@
 # LineageOS/android_packages_providers_BookmarkProvider - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1 | 8 | 
 | 2023-02-17 | 1 | 8 | 
 | 2023-02-16 | 1 | 8 | 
 | 2023-02-15 | 1 | 8 | 

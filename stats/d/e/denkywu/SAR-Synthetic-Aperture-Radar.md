@@ -1,10 +1,10 @@
 # denkywu/SAR-Synthetic-Aperture-Radar - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 174
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 389 | 174 | 
 | 2023-02-17 | 388 | 174 | 
 | 2023-02-16 | 387 | 174 | 
 | 2023-02-15 | 387 | 173 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 378 | 169 | 
 | 2023-01-21 | 378 | 169 | 
 | 2023-01-20 | 378 | 169 | 
-| 2023-01-19 | 378 | 169 | 
 

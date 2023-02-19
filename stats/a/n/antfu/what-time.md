@@ -1,10 +1,10 @@
 # antfu/what-time - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 6
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/antfu/what-time)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 168 | 6 | 
 | 2023-02-17 | 167 | 6 | 
 | 2023-02-16 | 167 | 6 | 
 | 2023-02-15 | 167 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 166 | 6 | 
 | 2023-01-21 | 166 | 6 | 
 | 2023-01-20 | 166 | 6 | 
-| 2023-01-19 | 166 | 6 | 
 

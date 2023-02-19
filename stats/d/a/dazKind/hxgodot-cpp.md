@@ -1,10 +1,10 @@
 # dazKind/hxgodot-cpp - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 7
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/dazKind/hxgodot-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 123 | 7 | 
 | 2023-02-17 | 122 | 7 | 
 | 2023-02-16 | 122 | 7 | 
 | 2023-02-15 | 121 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 108 | 7 | 
 | 2023-01-22 | 103 | 6 | 
 | 2023-01-21 | 100 | 6 | 
-| 2023-01-20 | 98 | 5 | 
 

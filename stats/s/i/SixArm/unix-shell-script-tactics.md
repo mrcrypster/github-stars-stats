@@ -1,10 +1,10 @@
 # SixArm/unix-shell-script-tactics - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 7
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/SixArm/unix-shell-script-tactics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 253 | 7 | 
 | 2023-02-17 | 252 | 7 | 
 | 2023-02-16 | 252 | 7 | 
 | 2023-02-15 | 252 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 252 | 6 | 
 | 2023-01-21 | 252 | 6 | 
 | 2023-01-20 | 252 | 6 | 
-| 2023-01-19 | 252 | 7 | 
 

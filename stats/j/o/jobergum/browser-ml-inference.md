@@ -1,6 +1,6 @@
 # jobergum/browser-ml-inference - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 247 | 42 | 
 | 2023-02-17 | 247 | 42 | 
 | 2023-02-16 | 247 | 42 | 
 | 2023-02-15 | 247 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 243 | 41 | 
 | 2023-01-22 | 243 | 41 | 
 | 2023-01-21 | 244 | 41 | 
-| 2023-01-20 | 245 | 41 | 
 

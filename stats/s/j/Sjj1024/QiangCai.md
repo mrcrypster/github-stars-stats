@@ -1,6 +1,6 @@
 # Sjj1024/QiangCai - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 256 | 68 | 
 | 2023-02-17 | 256 | 68 | 
 | 2023-02-16 | 256 | 68 | 
 | 2023-02-15 | 256 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 252 | 69 | 
 | 2023-01-22 | 252 | 69 | 
 | 2023-01-21 | 253 | 69 | 
-| 2023-01-20 | 253 | 69 | 
 

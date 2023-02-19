@@ -1,10 +1,10 @@
 # libvips/libvips - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 580
 
-★ Stars: 7667
+★ Stars: 7673
 
 [Open repository](https://github.com/libvips/libvips)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 7673 | 580 | 
 | 2023-02-17 | 7667 | 580 | 
 | 2023-02-16 | 7662 | 579 | 
 | 2023-02-15 | 7661 | 579 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 7584 | 574 | 
 | 2023-01-21 | 7581 | 574 | 
 | 2023-01-20 | 7576 | 574 | 
-| 2023-01-19 | 7573 | 574 | 
 

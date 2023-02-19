@@ -1,6 +1,6 @@
 # allenai/pnp - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 75 | 22 | 
 | 2023-02-17 | 75 | 22 | 
 | 2023-02-16 | 75 | 22 | 
 | 2023-02-14 | 75 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 75 | 22 | 
 | 2023-01-21 | 75 | 22 | 
 | 2023-01-20 | 75 | 22 | 
-| 2023-01-19 | 75 | 22 | 
 

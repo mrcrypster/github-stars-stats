@@ -1,10 +1,10 @@
 # gita/Bhagavad-Gita-AI - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/gita/Bhagavad-Gita-AI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 37 | 14 | 
 | 2023-02-17 | 36 | 12 | 
 | 2023-02-16 | 35 | 12 | 
 | 2023-02-15 | 34 | 12 | 

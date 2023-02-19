@@ -1,10 +1,10 @@
 # zhuowei/WDBFontOverwrite - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 51
 
-★ Stars: 723
+★ Stars: 726
 
 [Open repository](https://github.com/zhuowei/WDBFontOverwrite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 726 | 51 | 
 | 2023-02-17 | 723 | 51 | 
 | 2023-02-16 | 723 | 51 | 
 | 2023-02-15 | 719 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 633 | 44 | 
 | 2023-01-22 | 625 | 44 | 
 | 2023-01-21 | 624 | 43 | 
-| 2023-01-20 | 624 | 43 | 
 

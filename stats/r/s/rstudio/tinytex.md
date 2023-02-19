@@ -1,6 +1,6 @@
 # rstudio/tinytex - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 831 | 104 | 
 | 2023-02-17 | 831 | 104 | 
 | 2023-02-16 | 830 | 103 | 
 | 2023-02-15 | 830 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 825 | 103 | 
 | 2023-01-21 | 825 | 103 | 
 | 2023-01-20 | 825 | 103 | 
-| 2023-01-19 | 824 | 103 | 
 

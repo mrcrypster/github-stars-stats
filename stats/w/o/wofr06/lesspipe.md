@@ -1,10 +1,10 @@
 # wofr06/lesspipe - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 40
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/wofr06/lesspipe)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 311 | 40 | 
 | 2023-02-17 | 310 | 40 | 
 | 2023-02-16 | 310 | 40 | 
 | 2023-02-15 | 310 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 303 | 38 | 
 | 2023-01-21 | 301 | 38 | 
 | 2023-01-20 | 301 | 38 | 
-| 2023-01-19 | 301 | 38 | 
 

@@ -1,10 +1,10 @@
 # SudhanPlayz/Discord-MusicBot - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 2437
+☋ Forks: 2436
 
-★ Stars: 2255
+★ Stars: 2258
 
 [Open repository](https://github.com/SudhanPlayz/Discord-MusicBot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2258 | 2436 | 
 | 2023-02-17 | 2255 | 2437 | 
 | 2023-02-16 | 2250 | 2434 | 
 | 2023-02-15 | 2250 | 2432 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2192 | 2396 | 
 | 2023-01-21 | 2189 | 2396 | 
 | 2023-01-20 | 2189 | 2393 | 
-| 2023-01-19 | 2183 | 2392 | 
 

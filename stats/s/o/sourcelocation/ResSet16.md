@@ -1,10 +1,10 @@
 # sourcelocation/ResSet16 - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/sourcelocation/ResSet16)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 112 | 2 | 
 | 2023-02-17 | 111 | 2 | 
 | 2023-02-16 | 111 | 2 | 
 | 2023-02-15 | 110 | 2 | 

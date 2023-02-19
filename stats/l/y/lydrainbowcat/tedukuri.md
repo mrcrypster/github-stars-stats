@@ -1,10 +1,10 @@
 # lydrainbowcat/tedukuri - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 558
+☋ Forks: 559
 
-★ Stars: 1887
+★ Stars: 1888
 
 [Open repository](https://github.com/lydrainbowcat/tedukuri)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1888 | 559 | 
 | 2023-02-17 | 1887 | 558 | 
 | 2023-02-16 | 1884 | 558 | 
 | 2023-02-15 | 1881 | 558 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1862 | 555 | 
 | 2023-01-21 | 1862 | 555 | 
 | 2023-01-20 | 1862 | 555 | 
-| 2023-01-19 | 1861 | 555 | 
 

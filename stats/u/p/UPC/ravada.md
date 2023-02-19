@@ -1,10 +1,10 @@
 # UPC/ravada - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 172
 
-★ Stars: 434
+★ Stars: 435
 
 [Open repository](https://github.com/UPC/ravada)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 435 | 172 | 
 | 2023-02-17 | 434 | 172 | 
 | 2023-02-16 | 434 | 172 | 
 | 2023-02-15 | 434 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 430 | 172 | 
 | 2023-01-21 | 430 | 172 | 
 | 2023-01-20 | 430 | 172 | 
-| 2023-01-19 | 430 | 172 | 
 

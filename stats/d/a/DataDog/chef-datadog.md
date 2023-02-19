@@ -1,8 +1,8 @@
 # DataDog/chef-datadog - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 259
+☋ Forks: 260
 
 ★ Stars: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 96 | 260 | 
 | 2023-02-17 | 96 | 259 | 
 | 2023-02-16 | 96 | 259 | 
 | 2023-02-15 | 96 | 259 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 97 | 257 | 
 | 2023-01-21 | 97 | 257 | 
 | 2023-01-20 | 97 | 257 | 
-| 2023-01-19 | 97 | 257 | 
 

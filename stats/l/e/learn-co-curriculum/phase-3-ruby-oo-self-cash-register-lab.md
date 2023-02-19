@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-oo-self-cash-register-lab - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 2236
+☋ Forks: 2240
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1 | 2240 | 
 | 2023-02-17 | 1 | 2236 | 
 | 2023-02-16 | 1 | 2226 | 
 | 2023-02-15 | 1 | 2216 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 1 | 1903 | 
 | 2023-01-21 | 1 | 1903 | 
 | 2023-01-20 | 1 | 1902 | 
-| 2023-01-19 | 1 | 1900 | 
 

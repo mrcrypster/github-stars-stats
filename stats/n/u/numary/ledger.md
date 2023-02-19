@@ -1,6 +1,6 @@
 # numary/ledger - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 586 | 77 | 
 | 2023-02-17 | 586 | 77 | 
 | 2023-02-16 | 585 | 77 | 
 | 2023-02-15 | 585 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 564 | 74 | 
 | 2023-01-21 | 564 | 74 | 
 | 2023-01-20 | 564 | 73 | 
-| 2023-01-19 | 563 | 72 | 
 

@@ -1,6 +1,6 @@
 # opendilab/DI-star - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1342 | 141 | 
 | 2023-02-18 | 1342 | 141 | 
 | 2023-02-16 | 1339 | 141 | 
 | 2023-02-15 | 1339 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 1335 | 141 | 
 | 2023-01-21 | 1335 | 141 | 
 | 2023-01-20 | 1335 | 141 | 
-| 2023-01-19 | 1335 | 141 | 
 

@@ -1,10 +1,10 @@
 # lastquestion/explain-pause-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/lastquestion/explain-pause-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 213 | 4 | 
 | 2023-02-17 | 212 | 4 | 
 | 2023-02-16 | 212 | 4 | 
 | 2023-02-15 | 212 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 211 | 4 | 
 | 2023-01-22 | 211 | 4 | 
 | 2023-01-21 | 211 | 4 | 
-| 2023-01-20 | 211 | 4 | 
 

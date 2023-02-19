@@ -1,6 +1,6 @@
 # 907th/vim-auto-save - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 434 | 34 | 
 | 2023-02-17 | 434 | 34 | 
 | 2023-02-16 | 434 | 34 | 
 | 2023-02-15 | 434 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 433 | 34 | 
 | 2023-01-21 | 433 | 34 | 
 | 2023-01-20 | 433 | 34 | 
-| 2023-01-19 | 432 | 34 | 
 

@@ -1,6 +1,6 @@
 # kiali/kiali - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 437
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3037 | 437 | 
 | 2023-02-17 | 3037 | 437 | 
 | 2023-02-16 | 3036 | 437 | 
 | 2023-02-15 | 3034 | 437 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 3016 | 433 | 
 | 2023-01-22 | 3015 | 433 | 
 | 2023-01-20 | 3015 | 433 | 
-| 2023-01-19 | 3014 | 432 | 
 

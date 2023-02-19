@@ -1,10 +1,10 @@
 # laorange/paper-assistant - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 7
 
-★ Stars: 108
+★ Stars: 115
 
 [Open repository](https://github.com/laorange/paper-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 115 | 7 | 
 | 2023-02-17 | 108 | 7 | 
 | 2023-02-16 | 100 | 6 | 
 | 2023-02-15 | 94 | 6 | 

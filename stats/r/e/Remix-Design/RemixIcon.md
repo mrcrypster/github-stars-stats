@@ -1,10 +1,10 @@
 # Remix-Design/RemixIcon - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 384
+☋ Forks: 385
 
-★ Stars: 5164
+★ Stars: 5168
 
 [Open repository](https://github.com/Remix-Design/RemixIcon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5168 | 385 | 
 | 2023-02-17 | 5164 | 384 | 
 | 2023-02-16 | 5164 | 385 | 
 | 2023-02-15 | 5159 | 385 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 5099 | 379 | 
 | 2023-01-21 | 5099 | 378 | 
 | 2023-01-20 | 5097 | 378 | 
-| 2023-01-19 | 5095 | 378 | 
 

@@ -1,10 +1,10 @@
 # casey/just - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 268
+☋ Forks: 269
 
-★ Stars: 10685
+★ Stars: 10697
 
 [Open repository](https://github.com/casey/just)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 10697 | 269 | 
 | 2023-02-17 | 10685 | 268 | 
 | 2023-02-16 | 10672 | 267 | 
 | 2023-02-15 | 10661 | 266 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 10129 | 250 | 
 | 2023-01-21 | 10105 | 249 | 
 | 2023-01-20 | 10077 | 249 | 
-| 2023-01-19 | 10043 | 248 | 
 

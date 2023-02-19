@@ -1,6 +1,6 @@
 # glass-brick/Scene-Manager - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 88 | 10 | 
 | 2023-02-17 | 88 | 10 | 
 | 2023-02-16 | 87 | 10 | 
 | 2023-02-14 | 87 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 83 | 10 | 
 | 2023-01-21 | 83 | 10 | 
 | 2023-01-20 | 83 | 10 | 
-| 2023-01-19 | 83 | 10 | 
 

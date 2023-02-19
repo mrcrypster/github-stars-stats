@@ -1,6 +1,6 @@
 # Rjndrkha/WorkingCode_HacktoberFest_2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 459
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 304 | 459 | 
 | 2023-02-17 | 304 | 459 | 
 | 2023-02-16 | 304 | 459 | 
 | 2023-02-15 | 304 | 459 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 306 | 465 | 
 | 2023-01-21 | 307 | 465 | 
 | 2023-01-20 | 307 | 466 | 
-| 2023-01-19 | 307 | 466 | 
 

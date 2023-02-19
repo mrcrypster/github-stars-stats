@@ -1,6 +1,6 @@
 # tpope/vim-sleuth - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1521 | 81 | 
 | 2023-02-17 | 1521 | 81 | 
 | 2023-02-16 | 1521 | 81 | 
 | 2023-02-15 | 1521 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1507 | 81 | 
 | 2023-01-21 | 1507 | 81 | 
 | 2023-01-20 | 1505 | 81 | 
-| 2023-01-19 | 1505 | 81 | 
 

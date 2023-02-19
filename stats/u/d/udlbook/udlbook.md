@@ -1,10 +1,10 @@
 # udlbook/udlbook - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 92
+☋ Forks: 91
 
-★ Stars: 782
+★ Stars: 787
 
 [Open repository](https://github.com/udlbook/udlbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 787 | 91 | 
 | 2023-02-17 | 782 | 92 | 
 | 2023-02-16 | 778 | 92 | 
 | 2023-02-15 | 774 | 91 | 

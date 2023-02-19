@@ -1,10 +1,10 @@
 # apache/hbase - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 3134
 
-★ Stars: 4769
+★ Stars: 4770
 
 [Open repository](https://github.com/apache/hbase)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4770 | 3134 | 
 | 2023-02-17 | 4769 | 3134 | 
 | 2023-02-16 | 4765 | 3132 | 
 | 2023-02-15 | 4763 | 3131 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 4752 | 3125 | 
 | 2023-01-21 | 4750 | 3126 | 
 | 2023-01-20 | 4750 | 3125 | 
-| 2023-01-19 | 4750 | 3124 | 
 

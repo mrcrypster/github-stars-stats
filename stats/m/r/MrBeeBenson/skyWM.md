@@ -1,8 +1,8 @@
 # MrBeeBenson/skyWM - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 75 | 6 | 
 | 2023-02-17 | 75 | 5 | 
 | 2023-02-16 | 75 | 5 | 
 | 2023-02-15 | 74 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 74 | 5 | 
 | 2023-01-22 | 74 | 5 | 
 | 2023-01-21 | 74 | 5 | 
-| 2023-01-20 | 74 | 5 | 
 

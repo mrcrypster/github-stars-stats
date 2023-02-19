@@ -1,10 +1,10 @@
 # valarchie/AgileBoot-Back-End - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 100
+☋ Forks: 101
 
-★ Stars: 467
+★ Stars: 470
 
 [Open repository](https://github.com/valarchie/AgileBoot-Back-End)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 470 | 101 | 
 | 2023-02-17 | 467 | 100 | 
 | 2023-02-16 | 464 | 100 | 
 | 2023-02-15 | 462 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 396 | 87 | 
 | 2023-01-21 | 396 | 87 | 
 | 2023-01-20 | 395 | 87 | 
-| 2023-01-19 | 393 | 87 | 
 

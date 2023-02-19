@@ -1,10 +1,10 @@
 # PlayingNumbers/ML_Process_Course - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 37
+☋ Forks: 39
 
-★ Stars: 98
+★ Stars: 100
 
 [Open repository](https://github.com/PlayingNumbers/ML_Process_Course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 100 | 39 | 
 | 2023-02-17 | 98 | 37 | 
 | 2023-02-16 | 95 | 37 | 
 | 2023-02-15 | 95 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 72 | 29 | 
 | 2023-01-21 | 70 | 29 | 
 | 2023-01-20 | 70 | 29 | 
-| 2023-01-19 | 70 | 28 | 
 

@@ -1,10 +1,10 @@
 # zeromicro/go-zero - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 3248
+☋ Forks: 3251
 
-★ Stars: 22712
+★ Stars: 22728
 
 [Open repository](https://github.com/zeromicro/go-zero)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 22728 | 3251 | 
 | 2023-02-17 | 22712 | 3248 | 
 | 2023-02-16 | 22695 | 3245 | 
 | 2023-02-15 | 22669 | 3242 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 22343 | 3197 | 
 | 2023-01-22 | 22336 | 3196 | 
 | 2023-01-21 | 22333 | 3196 | 
-| 2023-01-20 | 22331 | 3196 | 
 

@@ -1,8 +1,8 @@
 # vysecurity/LinkedInt - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 178
+☋ Forks: 179
 
 ★ Stars: 902
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 902 | 179 | 
 | 2023-02-17 | 902 | 178 | 
 | 2023-02-16 | 902 | 178 | 
 | 2023-02-15 | 902 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 887 | 173 | 
 | 2023-01-21 | 887 | 173 | 
 | 2023-01-20 | 886 | 172 | 
-| 2023-01-19 | 886 | 172 | 
 

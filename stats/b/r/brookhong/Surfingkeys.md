@@ -1,10 +1,10 @@
 # brookhong/Surfingkeys - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 449
 
-★ Stars: 4461
+★ Stars: 4464
 
 [Open repository](https://github.com/brookhong/Surfingkeys)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4464 | 449 | 
 | 2023-02-17 | 4461 | 449 | 
 | 2023-02-16 | 4456 | 449 | 
 | 2023-02-15 | 4454 | 449 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 4418 | 444 | 
 | 2023-01-21 | 4417 | 444 | 
 | 2023-01-20 | 4415 | 444 | 
-| 2023-01-19 | 4414 | 444 | 
 

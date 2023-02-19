@@ -1,10 +1,10 @@
 # exelban/stats - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 524
+☋ Forks: 525
 
-★ Stars: 14886
+★ Stars: 14898
 
 [Open repository](https://github.com/exelban/stats)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 14898 | 525 | 
 | 2023-02-17 | 14886 | 524 | 
 | 2023-02-16 | 14877 | 524 | 
 | 2023-02-15 | 14865 | 525 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 14517 | 517 | 
 | 2023-01-21 | 14516 | 517 | 
 | 2023-01-20 | 14504 | 517 | 
-| 2023-01-19 | 14487 | 517 | 
 

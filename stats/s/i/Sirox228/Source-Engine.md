@@ -1,10 +1,10 @@
 # Sirox228/Source-Engine - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Sirox228/Source-Engine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5 | 4 | 
 | 2023-02-17 | 6 | 4 | 
 | 2023-02-16 | 6 | 4 | 
 | 2023-02-15 | 6 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 6 | 4 | 
 | 2023-01-21 | 6 | 4 | 
 | 2023-01-20 | 6 | 4 | 
-| 2023-01-19 | 6 | 4 | 
 

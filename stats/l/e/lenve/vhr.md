@@ -1,10 +1,10 @@
 # lenve/vhr - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 10176
+☋ Forks: 10177
 
-★ Stars: 25525
+★ Stars: 25526
 
 [Open repository](https://github.com/lenve/vhr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 25526 | 10177 | 
 | 2023-02-17 | 25525 | 10176 | 
 | 2023-02-16 | 25517 | 10174 | 
 | 2023-02-15 | 25505 | 10173 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 25394 | 10148 | 
 | 2023-01-22 | 25394 | 10148 | 
 | 2023-01-20 | 25392 | 10148 | 
-| 2023-01-19 | 25389 | 10147 | 
 

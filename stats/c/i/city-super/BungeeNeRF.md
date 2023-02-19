@@ -1,10 +1,10 @@
 # city-super/BungeeNeRF - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 362
+★ Stars: 363
 
 [Open repository](https://github.com/city-super/BungeeNeRF)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 363 | 38 | 
 | 2023-02-17 | 362 | 37 | 
 | 2023-02-16 | 362 | 37 | 
 | 2023-02-15 | 360 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 352 | 34 | 
 | 2023-01-21 | 352 | 34 | 
 | 2023-01-20 | 352 | 34 | 
-| 2023-01-19 | 352 | 34 | 
 

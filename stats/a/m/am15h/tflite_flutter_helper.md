@@ -1,8 +1,8 @@
 # am15h/tflite_flutter_helper - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 181
+☋ Forks: 182
 
 ★ Stars: 123
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 123 | 182 | 
 | 2023-02-17 | 123 | 181 | 
 | 2023-02-16 | 123 | 181 | 
 | 2023-02-15 | 123 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 120 | 172 | 
 | 2023-01-21 | 120 | 172 | 
 | 2023-01-20 | 120 | 170 | 
-| 2023-01-19 | 120 | 169 | 
 

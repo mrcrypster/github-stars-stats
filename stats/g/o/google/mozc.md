@@ -1,10 +1,10 @@
 # google/mozc - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
-☋ Forks: 234
+☋ Forks: 235
 
-★ Stars: 1737
+★ Stars: 1739
 
 [Open repository](https://github.com/google/mozc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1739 | 235 | 
 | 2023-02-17 | 1737 | 234 | 
 | 2023-02-16 | 1738 | 234 | 
 | 2023-02-15 | 1736 | 234 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1702 | 229 | 
 | 2023-01-21 | 1697 | 229 | 
 | 2023-01-20 | 1692 | 229 | 
-| 2023-01-19 | 1688 | 229 | 
 

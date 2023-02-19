@@ -1,6 +1,6 @@
 # Allen98637/GalaxyMod - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 22 | 24 | 
 | 2023-02-17 | 22 | 24 | 
 | 2023-02-16 | 22 | 25 | 
 | 2023-02-15 | 22 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 21 | 25 | 
 | 2023-01-21 | 21 | 25 | 
 | 2023-01-20 | 21 | 25 | 
-| 2023-01-19 | 21 | 25 | 
 

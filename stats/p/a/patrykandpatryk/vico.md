@@ -1,6 +1,6 @@
 # patrykandpatryk/vico - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 633 | 28 | 
 | 2023-02-17 | 633 | 28 | 
 | 2023-02-16 | 633 | 28 | 
 | 2023-02-15 | 632 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 607 | 25 | 
 | 2023-01-21 | 607 | 25 | 
 | 2023-01-20 | 608 | 25 | 
-| 2023-01-19 | 605 | 25 | 
 

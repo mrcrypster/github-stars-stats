@@ -1,10 +1,10 @@
 # posit-conf-2023/workshops - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 16
 
-★ Stars: 17
+★ Stars: 20
 
 [Open repository](https://github.com/posit-conf-2023/workshops)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 20 | 16 | 
 | 2023-02-17 | 17 | 16 | 
 | 2023-02-16 | 17 | 16 | 
 | 2023-02-15 | 16 | 15 | 

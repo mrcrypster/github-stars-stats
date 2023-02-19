@@ -1,10 +1,10 @@
 # maplibre/maplibre-gl-js - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 399
 
-★ Stars: 4059
+★ Stars: 4089
 
 [Open repository](https://github.com/maplibre/maplibre-gl-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4089 | 399 | 
 | 2023-02-17 | 4059 | 399 | 
 | 2023-02-16 | 4037 | 397 | 
 | 2023-02-15 | 4034 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 3951 | 390 | 
 | 2023-01-21 | 3950 | 390 | 
 | 2023-01-20 | 3945 | 389 | 
-| 2023-01-19 | 3940 | 388 | 
 

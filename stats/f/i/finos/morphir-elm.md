@@ -1,6 +1,6 @@
 # finos/morphir-elm - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 31 | 40 | 
 | 2023-02-18 | 31 | 40 | 
 | 2023-02-16 | 31 | 40 | 
 | 2023-02-15 | 31 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 33 | 40 | 
 | 2023-01-21 | 33 | 40 | 
 | 2023-01-20 | 33 | 39 | 
-| 2023-01-19 | 33 | 39 | 
 

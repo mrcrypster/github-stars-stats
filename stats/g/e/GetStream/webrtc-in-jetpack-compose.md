@@ -1,10 +1,10 @@
 # GetStream/webrtc-in-jetpack-compose - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 16
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/GetStream/webrtc-in-jetpack-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 239 | 16 | 
 | 2023-02-17 | 238 | 16 | 
 | 2023-02-16 | 234 | 16 | 
 | 2023-02-15 | 231 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 184 | 10 | 
 | 2023-01-21 | 183 | 10 | 
 | 2023-01-20 | 181 | 8 | 
-| 2023-01-19 | 175 | 8 | 
 

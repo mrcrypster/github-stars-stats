@@ -1,10 +1,10 @@
 # ghosh/uiGradients - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 1329
+☋ Forks: 1330
 
-★ Stars: 5705
+★ Stars: 5704
 
 [Open repository](https://github.com/ghosh/uiGradients)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5704 | 1330 | 
 | 2023-02-17 | 5705 | 1329 | 
 | 2023-02-16 | 5704 | 1329 | 
 | 2023-02-15 | 5704 | 1329 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 5695 | 1329 | 
 | 2023-01-21 | 5694 | 1329 | 
 | 2023-01-20 | 5695 | 1329 | 
-| 2023-01-19 | 5694 | 1329 | 
 

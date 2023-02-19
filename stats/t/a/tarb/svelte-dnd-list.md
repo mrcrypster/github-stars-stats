@@ -1,10 +1,10 @@
 # tarb/svelte-dnd-list - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/tarb/svelte-dnd-list)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 24 | 1 | 
 | 2023-02-17 | 22 | 1 | 
 | 2023-02-16 | 22 | 1 | 
 | 2023-02-15 | 22 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 21 | 1 | 
 | 2023-01-21 | 20 | 1 | 
 | 2023-01-20 | 20 | 1 | 
-| 2023-01-19 | 20 | 1 | 
 

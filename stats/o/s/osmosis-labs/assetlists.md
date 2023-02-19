@@ -1,8 +1,8 @@
 # osmosis-labs/assetlists - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 124
+☋ Forks: 125
 
 ★ Stars: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 55 | 125 | 
 | 2023-02-17 | 55 | 124 | 
 | 2023-02-16 | 55 | 122 | 
 | 2023-02-15 | 55 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 50 | 115 | 
 | 2023-01-22 | 50 | 115 | 
 | 2023-01-21 | 50 | 115 | 
-| 2023-01-20 | 50 | 114 | 
 

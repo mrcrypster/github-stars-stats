@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 18
 
 ☋ Forks: 1600
 
-★ Stars: 4006
+★ Stars: 4009
 
 [Open repository](https://github.com/openvinotoolkit/openvino)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-18 | 4006 | 1600 | 
+| 2023-02-18 | 4009 | 1600 | 
 | 2023-02-17 | 4006 | 1600 | 
 | 2023-02-16 | 4003 | 1595 | 
 | 2023-02-15 | 3999 | 1594 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 3941 | 1588 | 
 | 2023-01-21 | 3940 | 1588 | 
 | 2023-01-20 | 3938 | 1585 | 
-| 2023-01-19 | 3935 | 1587 | 
 

@@ -1,10 +1,10 @@
 # NayamAmarshe/please - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 17
 
-★ Stars: 406
+★ Stars: 407
 
 [Open repository](https://github.com/NayamAmarshe/please)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 407 | 17 | 
 | 2023-02-17 | 406 | 17 | 
 | 2023-02-16 | 407 | 17 | 
 | 2023-02-15 | 407 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 367 | 14 | 
 | 2023-01-21 | 367 | 14 | 
 | 2023-01-20 | 367 | 14 | 
-| 2023-01-19 | 366 | 14 | 
 

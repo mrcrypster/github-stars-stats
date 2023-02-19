@@ -1,10 +1,10 @@
 # Kindelia/Wikind - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 26
 
-★ Stars: 55
+★ Stars: 54
 
 [Open repository](https://github.com/Kindelia/Wikind)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 54 | 26 | 
 | 2023-02-17 | 55 | 26 | 
 | 2023-02-16 | 54 | 26 | 
 | 2023-02-15 | 53 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 52 | 27 | 
 | 2023-01-21 | 51 | 27 | 
 | 2023-01-20 | 51 | 27 | 
-| 2023-01-19 | 51 | 27 | 
 

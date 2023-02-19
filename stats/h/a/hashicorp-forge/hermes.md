@@ -1,10 +1,10 @@
 # hashicorp-forge/hermes - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 1372
+★ Stars: 1382
 
 [Open repository](https://github.com/hashicorp-forge/hermes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1382 | 51 | 
 | 2023-02-17 | 1372 | 50 | 
 | 2023-02-16 | 1341 | 49 | 
 | 2023-02-15 | 1331 | 49 | 

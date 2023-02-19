@@ -1,10 +1,10 @@
 # intel/optimization-manual - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 59
 
-★ Stars: 550
+★ Stars: 552
 
 [Open repository](https://github.com/intel/optimization-manual)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 552 | 59 | 
+| 2023-02-18 | 552 | 59 | 
 | 2023-02-17 | 550 | 59 | 
 | 2023-02-16 | 549 | 59 | 
 | 2023-02-15 | 548 | 59 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 532 | 58 | 
 | 2023-01-21 | 530 | 58 | 
 | 2023-01-20 | 530 | 58 | 
-| 2023-01-19 | 530 | 58 | 
 

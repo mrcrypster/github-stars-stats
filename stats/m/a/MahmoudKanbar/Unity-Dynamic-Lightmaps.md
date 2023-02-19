@@ -1,6 +1,6 @@
 # MahmoudKanbar/Unity-Dynamic-Lightmaps - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 27 | 2 | 
 | 2023-02-17 | 27 | 2 | 
 | 2023-02-16 | 27 | 2 | 
 | 2023-02-15 | 27 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 26 | 2 | 
 | 2023-01-21 | 26 | 2 | 
 | 2023-01-20 | 26 | 2 | 
-| 2023-01-19 | 26 | 2 | 
 

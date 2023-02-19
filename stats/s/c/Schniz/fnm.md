@@ -1,10 +1,10 @@
 # Schniz/fnm - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 297
+☋ Forks: 298
 
-★ Stars: 10304
+★ Stars: 10310
 
 [Open repository](https://github.com/Schniz/fnm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 10310 | 298 | 
 | 2023-02-17 | 10304 | 297 | 
 | 2023-02-16 | 10295 | 297 | 
 | 2023-02-14 | 10279 | 294 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 10077 | 286 | 
 | 2023-01-21 | 10066 | 286 | 
 | 2023-01-20 | 10059 | 286 | 
-| 2023-01-19 | 10050 | 286 | 
 

@@ -1,8 +1,8 @@
 # Jessecar96/SteamDesktopAuthenticator - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 492
+☋ Forks: 493
 
 ★ Stars: 2287
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2287 | 493 | 
 | 2023-02-17 | 2287 | 492 | 
 | 2023-02-16 | 2285 | 492 | 
 | 2023-02-15 | 2285 | 492 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2270 | 486 | 
 | 2023-01-21 | 2269 | 486 | 
 | 2023-01-20 | 2269 | 486 | 
-| 2023-01-19 | 2268 | 486 | 
 

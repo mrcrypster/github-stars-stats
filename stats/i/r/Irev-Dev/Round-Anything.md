@@ -1,10 +1,10 @@
 # Irev-Dev/Round-Anything - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/Irev-Dev/Round-Anything)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 310 | 34 | 
 | 2023-02-17 | 309 | 33 | 
 | 2023-02-16 | 309 | 32 | 
 | 2023-02-15 | 309 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 303 | 31 | 
 | 2023-01-21 | 302 | 31 | 
 | 2023-01-20 | 302 | 31 | 
-| 2023-01-19 | 302 | 31 | 
 

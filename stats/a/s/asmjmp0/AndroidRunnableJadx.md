@@ -1,10 +1,10 @@
 # asmjmp0/AndroidRunnableJadx - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 10
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/asmjmp0/AndroidRunnableJadx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 29 | 10 | 
 | 2023-02-17 | 28 | 10 | 
 | 2023-02-16 | 26 | 10 | 
 | 2023-02-15 | 24 | 10 | 

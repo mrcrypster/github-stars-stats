@@ -1,10 +1,10 @@
 # xianfei/SysMocap - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 310
+☋ Forks: 311
 
-★ Stars: 1760
+★ Stars: 1763
 
 [Open repository](https://github.com/xianfei/SysMocap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1763 | 311 | 
 | 2023-02-17 | 1760 | 310 | 
 | 2023-02-16 | 1757 | 309 | 
 | 2023-02-14 | 1750 | 308 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1703 | 298 | 
 | 2023-01-21 | 1703 | 298 | 
 | 2023-01-20 | 1703 | 298 | 
-| 2023-01-19 | 1702 | 298 | 
 

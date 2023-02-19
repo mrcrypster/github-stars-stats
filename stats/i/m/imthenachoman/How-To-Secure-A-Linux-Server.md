@@ -1,10 +1,10 @@
 # imthenachoman/How-To-Secure-A-Linux-Server - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 889
 
-★ Stars: 13524
+★ Stars: 13526
 
 [Open repository](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 13526 | 889 | 
 | 2023-02-17 | 13524 | 889 | 
 | 2023-02-16 | 13523 | 889 | 
 | 2023-02-15 | 13520 | 888 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 13454 | 886 | 
 | 2023-01-22 | 13449 | 885 | 
 | 2023-01-21 | 13443 | 884 | 
-| 2023-01-20 | 13438 | 884 | 
 

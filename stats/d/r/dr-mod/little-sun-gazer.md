@@ -1,6 +1,6 @@
 # dr-mod/little-sun-gazer - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 345 | 20 | 
 | 2023-02-17 | 345 | 20 | 
 | 2023-02-16 | 345 | 20 | 
 | 2023-02-15 | 344 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 339 | 19 | 
 | 2023-01-21 | 338 | 19 | 
 | 2023-01-20 | 338 | 19 | 
-| 2023-01-19 | 338 | 19 | 
 

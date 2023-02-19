@@ -1,10 +1,10 @@
 # z-huang/InnerTune - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 990
+★ Stars: 1002
 
 [Open repository](https://github.com/z-huang/InnerTune)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1002 | 79 | 
 | 2023-02-17 | 990 | 78 | 
 | 2023-02-16 | 989 | 77 | 
 | 2023-02-14 | 988 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 920 | 71 | 
 | 2023-01-21 | 918 | 71 | 
 | 2023-01-20 | 913 | 70 | 
-| 2023-01-19 | 911 | 69 | 
 

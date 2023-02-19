@@ -1,6 +1,6 @@
 # SelfExplainML/PiML-Toolbox - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 510 | 61 | 
 | 2023-02-17 | 510 | 61 | 
 | 2023-02-16 | 509 | 61 | 
 | 2023-02-15 | 509 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 499 | 61 | 
 | 2023-01-21 | 496 | 60 | 
 | 2023-01-20 | 494 | 60 | 
-| 2023-01-19 | 491 | 59 | 
 

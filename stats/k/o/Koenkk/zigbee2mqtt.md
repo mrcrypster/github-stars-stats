@@ -1,10 +1,10 @@
 # Koenkk/zigbee2mqtt - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 1419
+☋ Forks: 1418
 
-★ Stars: 9303
+★ Stars: 9308
 
 [Open repository](https://github.com/Koenkk/zigbee2mqtt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 9308 | 1418 | 
 | 2023-02-17 | 9303 | 1419 | 
 | 2023-02-16 | 9299 | 1419 | 
 | 2023-02-15 | 9291 | 1420 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 9166 | 1408 | 
 | 2023-01-21 | 9160 | 1406 | 
 | 2023-01-20 | 9153 | 1403 | 
-| 2023-01-19 | 9144 | 1403 | 
 

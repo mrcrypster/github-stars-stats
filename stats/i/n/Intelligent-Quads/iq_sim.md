@@ -1,6 +1,6 @@
 # Intelligent-Quads/iq_sim - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 66 | 62 | 
 | 2023-02-17 | 66 | 62 | 
 | 2023-02-16 | 66 | 62 | 
 | 2023-02-15 | 66 | 62 | 

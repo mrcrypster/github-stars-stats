@@ -1,10 +1,10 @@
 # SmiteshP/nvim-navic - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 30
 
-★ Stars: 838
+★ Stars: 840
 
 [Open repository](https://github.com/SmiteshP/nvim-navic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 840 | 30 | 
 | 2023-02-17 | 838 | 30 | 
 | 2023-02-16 | 836 | 30 | 
 | 2023-02-15 | 834 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 736 | 30 | 
 | 2023-01-22 | 733 | 31 | 
 | 2023-01-21 | 731 | 31 | 
-| 2023-01-20 | 727 | 31 | 
 

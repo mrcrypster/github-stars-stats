@@ -1,10 +1,10 @@
 # mileszs/wicked_pdf - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 616
 
-★ Stars: 3398
+★ Stars: 3399
 
 [Open repository](https://github.com/mileszs/wicked_pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3399 | 616 | 
 | 2023-02-17 | 3398 | 616 | 
 | 2023-02-16 | 3398 | 616 | 
 | 2023-02-15 | 3397 | 616 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 3393 | 615 | 
 | 2023-01-21 | 3393 | 615 | 
 | 2023-01-20 | 3393 | 615 | 
-| 2023-01-19 | 3393 | 615 | 
 

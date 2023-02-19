@@ -1,10 +1,10 @@
 # actions/setup-node - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 987
+☋ Forks: 990
 
-★ Stars: 2723
+★ Stars: 2729
 
 [Open repository](https://github.com/actions/setup-node)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2729 | 990 | 
 | 2023-02-17 | 2723 | 987 | 
 | 2023-02-16 | 2724 | 987 | 
 | 2023-02-15 | 2722 | 985 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 2654 | 965 | 
 | 2023-01-21 | 2651 | 964 | 
 | 2023-01-20 | 2647 | 964 | 
-| 2023-01-19 | 2644 | 962 | 
 

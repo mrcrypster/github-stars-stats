@@ -1,10 +1,10 @@
 # OpenBB-finance/OpenBBTerminal - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2007
 
-★ Stars: 19259
+★ Stars: 19267
 
 [Open repository](https://github.com/OpenBB-finance/OpenBBTerminal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 19267 | 2007 | 
 | 2023-02-17 | 19259 | 2007 | 
 | 2023-02-16 | 19252 | 2008 | 
 | 2023-02-15 | 19245 | 2008 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 18930 | 1980 | 
 | 2023-01-21 | 18924 | 1978 | 
 | 2023-01-20 | 18919 | 1978 | 
-| 2023-01-19 | 18908 | 1975 | 
 

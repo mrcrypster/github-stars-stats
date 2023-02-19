@@ -1,6 +1,6 @@
 # mozilla-mobile/fenix - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 1311
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6689 | 1311 | 
 | 2023-02-17 | 6689 | 1311 | 
 | 2023-02-16 | 6696 | 1314 | 
 | 2023-02-15 | 6697 | 1314 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 6629 | 1302 | 
 | 2023-01-21 | 6618 | 1303 | 
 | 2023-01-20 | 6615 | 1301 | 
-| 2023-01-19 | 6615 | 1301 | 
 

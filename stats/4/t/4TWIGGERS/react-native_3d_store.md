@@ -1,8 +1,8 @@
 # 4TWIGGERS/react-native_3d_store - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 219
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 219 | 23 | 
 | 2023-02-17 | 219 | 22 | 
 | 2023-02-16 | 219 | 22 | 
 | 2023-02-15 | 219 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 217 | 22 | 
 | 2023-01-21 | 217 | 22 | 
 | 2023-01-20 | 217 | 22 | 
-| 2023-01-19 | 217 | 22 | 
 

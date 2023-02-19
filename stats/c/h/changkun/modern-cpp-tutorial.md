@@ -1,10 +1,10 @@
 # changkun/modern-cpp-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2684
 
-★ Stars: 19943
+★ Stars: 19949
 
 [Open repository](https://github.com/changkun/modern-cpp-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 19949 | 2684 | 
 | 2023-02-17 | 19943 | 2684 | 
 | 2023-02-16 | 19924 | 2683 | 
 | 2023-02-15 | 19913 | 2680 | 

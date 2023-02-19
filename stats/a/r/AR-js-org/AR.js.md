@@ -1,10 +1,10 @@
 # AR-js-org/AR.js - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 761
 
-★ Stars: 4342
+★ Stars: 4344
 
 [Open repository](https://github.com/AR-js-org/AR.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4344 | 761 | 
 | 2023-02-17 | 4342 | 761 | 
 | 2023-02-16 | 4340 | 760 | 
 | 2023-02-15 | 4336 | 760 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 4271 | 749 | 
 | 2023-01-22 | 4271 | 749 | 
 | 2023-01-20 | 4270 | 750 | 
-| 2023-01-19 | 4267 | 749 | 
 

@@ -1,6 +1,6 @@
 # mortenbra/alexandria-plsql-utils - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 699 | 305 | 
 | 2023-02-17 | 699 | 305 | 
 | 2023-02-16 | 698 | 305 | 
 | 2023-02-15 | 698 | 305 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 697 | 301 | 
 | 2023-01-21 | 697 | 301 | 
 | 2023-01-20 | 697 | 301 | 
-| 2023-01-19 | 696 | 301 | 
 

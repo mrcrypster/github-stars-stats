@@ -1,10 +1,10 @@
 # G-Research/ApiSurface - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/G-Research/ApiSurface)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4 | - | 
 | 2023-02-17 | 3 | - | 
 | 2023-02-16 | 3 | - | 
 | 2023-02-15 | 3 | - | 

@@ -1,6 +1,6 @@
 # SmileBuild/ChatGPT-Web - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 71 | 28 | 
 | 2023-02-17 | 71 | 28 | 
 | 2023-02-16 | 69 | 25 | 
 | 2023-02-15 | 66 | 24 | 

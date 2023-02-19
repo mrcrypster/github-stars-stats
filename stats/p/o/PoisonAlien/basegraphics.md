@@ -1,10 +1,10 @@
 # PoisonAlien/basegraphics - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 7
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/PoisonAlien/basegraphics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 42 | 7 | 
 | 2023-02-17 | 41 | 7 | 
 | 2023-02-16 | 41 | 7 | 
 | 2023-02-15 | 41 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 41 | 7 | 
 | 2023-01-21 | 41 | 7 | 
 | 2023-01-20 | 41 | 7 | 
-| 2023-01-19 | 41 | 7 | 
 

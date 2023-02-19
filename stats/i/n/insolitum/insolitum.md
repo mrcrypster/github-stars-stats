@@ -1,10 +1,10 @@
 # insolitum/insolitum - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 516
+☋ Forks: 517
 
-★ Stars: 402
+★ Stars: 412
 
 [Open repository](https://github.com/insolitum/insolitum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 412 | 517 | 
 | 2023-02-17 | 402 | 516 | 
 | 2023-02-16 | 400 | 512 | 
 | 2023-02-15 | 398 | 510 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 296 | 390 | 
 | 2023-01-22 | 290 | 377 | 
 | 2023-01-21 | 287 | 373 | 
-| 2023-01-19 | 283 | 361 | 
 

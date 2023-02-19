@@ -1,6 +1,6 @@
 # jonmason/meta-arm - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8 | 9 | 
 | 2023-02-18 | 8 | 9 | 
 | 2023-02-16 | 8 | 9 | 
 | 2023-02-15 | 8 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 6 | 9 | 
 | 2023-01-21 | 6 | 9 | 
 | 2023-01-20 | 6 | 9 | 
-| 2023-01-19 | 6 | 9 | 
 

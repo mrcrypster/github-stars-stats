@@ -1,10 +1,10 @@
 # adriankumpf/teslamate - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 496
+☋ Forks: 497
 
-★ Stars: 3570
+★ Stars: 3576
 
 [Open repository](https://github.com/adriankumpf/teslamate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3576 | 497 | 
 | 2023-02-17 | 3570 | 496 | 
 | 2023-02-16 | 3567 | 496 | 
 | 2023-02-15 | 3547 | 495 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 3485 | 490 | 
 | 2023-01-21 | 3485 | 490 | 
 | 2023-01-20 | 3481 | 489 | 
-| 2023-01-19 | 3478 | 489 | 
 

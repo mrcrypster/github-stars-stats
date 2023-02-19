@@ -1,6 +1,6 @@
 # laofo/SoftwareEngineeringAtGoogle - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 165 | 20 | 
 | 2023-02-17 | 165 | 20 | 
 | 2023-02-16 | 165 | 20 | 
 | 2023-02-15 | 164 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 163 | 20 | 
 | 2023-01-21 | 163 | 20 | 
 | 2023-01-20 | 163 | 20 | 
-| 2023-01-19 | 163 | 20 | 
 

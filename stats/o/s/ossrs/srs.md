@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 18
 
 ☋ Forks: 4845
 
-★ Stars: 20757
+★ Stars: 20760
 
 [Open repository](https://github.com/ossrs/srs)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-18 | 20757 | 4845 | 
+| 2023-02-18 | 20760 | 4845 | 
 | 2023-02-17 | 20754 | 4845 | 
 | 2023-02-16 | 20732 | 4845 | 
 | 2023-02-15 | 20723 | 4842 | 

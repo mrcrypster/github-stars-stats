@@ -1,10 +1,10 @@
 # macbian-linux/macos-subsystem-for-linux - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 10
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/macbian-linux/macos-subsystem-for-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 558 | 10 | 
 | 2023-02-17 | 557 | 10 | 
 | 2023-02-16 | 557 | 10 | 
 | 2023-02-15 | 557 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 557 | 10 | 
 | 2023-01-21 | 557 | 10 | 
 | 2023-01-20 | 557 | 10 | 
-| 2023-01-19 | 557 | 10 | 
 

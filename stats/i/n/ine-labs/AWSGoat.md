@@ -1,10 +1,10 @@
 # ine-labs/AWSGoat - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 435
+☋ Forks: 438
 
-★ Stars: 1154
+★ Stars: 1161
 
 [Open repository](https://github.com/ine-labs/AWSGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1161 | 438 | 
 | 2023-02-17 | 1154 | 435 | 
 | 2023-02-16 | 1154 | 432 | 
 | 2023-02-15 | 1151 | 430 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1037 | 386 | 
 | 2023-01-21 | 1033 | 385 | 
 | 2023-01-20 | 1030 | 382 | 
-| 2023-01-19 | 1028 | 380 | 
 

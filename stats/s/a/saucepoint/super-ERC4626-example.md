@@ -1,6 +1,6 @@
 # saucepoint/super-ERC4626-example - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 34 | - | 
 | 2023-02-17 | 34 | - | 
 | 2023-02-16 | 34 | - | 
 | 2023-02-15 | 34 | - | 

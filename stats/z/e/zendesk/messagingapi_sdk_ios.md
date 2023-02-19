@@ -1,6 +1,6 @@
 # zendesk/messagingapi_sdk_ios - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4 | 14 | 
 | 2023-02-18 | 4 | 14 | 
 | 2023-02-16 | 4 | 14 | 
 | 2023-02-15 | 4 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 4 | 14 | 
 | 2023-01-21 | 4 | 14 | 
 | 2023-01-20 | 4 | 14 | 
-| 2023-01-19 | 4 | 14 | 
 

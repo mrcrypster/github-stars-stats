@@ -1,10 +1,10 @@
 # nf-core/cutandrun - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 17
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/nf-core/cutandrun)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 38 | 17 | 
 | 2023-02-17 | 37 | 17 | 
 | 2023-02-16 | 37 | 17 | 
 | 2023-02-15 | 37 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 36 | 15 | 
 | 2023-01-21 | 36 | 15 | 
 | 2023-01-20 | 36 | 15 | 
-| 2023-01-19 | 36 | 15 | 
 

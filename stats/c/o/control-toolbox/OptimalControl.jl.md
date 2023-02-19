@@ -1,10 +1,10 @@
 # control-toolbox/OptimalControl.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/control-toolbox/OptimalControl.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1 | - | 
 | 2023-02-17 | - | - | 
 | 2023-02-16 | - | - | 
 | 2023-02-15 | - | - | 

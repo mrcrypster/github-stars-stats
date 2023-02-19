@@ -1,6 +1,6 @@
 # mwidera/iac-labs - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | - | 38 | 
 | 2023-02-17 | - | 38 | 
 | 2023-02-16 | - | 38 | 
 | 2023-02-15 | - | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | - | 31 | 
 | 2023-01-21 | - | 31 | 
 | 2023-01-20 | - | 31 | 
-| 2023-01-19 | - | 31 | 
 

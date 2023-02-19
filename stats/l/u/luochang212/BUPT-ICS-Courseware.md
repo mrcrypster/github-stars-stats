@@ -1,6 +1,6 @@
 # luochang212/BUPT-ICS-Courseware - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 87 | 29 | 
 | 2023-02-17 | 87 | 29 | 
 | 2023-02-16 | 87 | 29 | 
 | 2023-02-15 | 87 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 88 | 29 | 
 | 2023-01-21 | 88 | 29 | 
 | 2023-01-20 | 88 | 29 | 
-| 2023-01-19 | 88 | 29 | 
 

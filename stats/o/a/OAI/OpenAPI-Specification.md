@@ -1,10 +1,10 @@
 # OAI/OpenAPI-Specification - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 8865
+☋ Forks: 8864
 
-★ Stars: 25851
+★ Stars: 25856
 
 [Open repository](https://github.com/OAI/OpenAPI-Specification)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 25856 | 8864 | 
 | 2023-02-17 | 25851 | 8865 | 
 | 2023-02-16 | 25840 | 8861 | 
 | 2023-02-15 | 25837 | 8859 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 25650 | 8803 | 
 | 2023-01-21 | 25646 | 8797 | 
 | 2023-01-20 | 25641 | 8795 | 
-| 2023-01-19 | 25640 | 8797 | 
 

@@ -1,8 +1,8 @@
 # google/GoogleSignIn-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 119
+☋ Forks: 120
 
 ★ Stars: 271
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 271 | 120 | 
 | 2023-02-17 | 271 | 119 | 
 | 2023-02-16 | 271 | 119 | 
 | 2023-02-15 | 270 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 262 | 118 | 
 | 2023-01-21 | 262 | 118 | 
 | 2023-01-20 | 262 | 118 | 
-| 2023-01-19 | 261 | 118 | 
 

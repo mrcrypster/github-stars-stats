@@ -1,6 +1,6 @@
 # danielgross/teleprompter - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 282 | 28 | 
 | 2023-02-18 | 282 | 28 | 
 | 2023-02-16 | 281 | 28 | 
 | 2023-02-15 | 281 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 270 | 28 | 
 | 2023-01-21 | 269 | 28 | 
 | 2023-01-20 | 269 | 28 | 
-| 2023-01-19 | 269 | 28 | 
 

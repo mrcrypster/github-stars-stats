@@ -1,10 +1,10 @@
 # araekiel/jot - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 8
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/araekiel/jot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 460 | 8 | 
 | 2023-02-17 | 459 | 8 | 
 | 2023-02-16 | 459 | 8 | 
 | 2023-02-15 | 459 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 456 | 8 | 
 | 2023-01-22 | 456 | 8 | 
 | 2023-01-20 | 456 | 8 | 
-| 2023-01-19 | 456 | 8 | 
 

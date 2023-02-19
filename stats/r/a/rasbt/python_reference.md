@@ -1,10 +1,10 @@
 # rasbt/python_reference - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 914
 
-★ Stars: 3504
+★ Stars: 3506
 
 [Open repository](https://github.com/rasbt/python_reference)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3506 | 914 | 
 | 2023-02-17 | 3504 | 914 | 
 | 2023-02-16 | 3504 | 915 | 
 | 2023-02-15 | 3502 | 915 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 3455 | 905 | 
 | 2023-01-21 | 3453 | 904 | 
 | 2023-01-20 | 3450 | 904 | 
-| 2023-01-19 | 3447 | 904 | 
 

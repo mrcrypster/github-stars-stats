@@ -1,10 +1,10 @@
 # shortcuts/neovim-plugin-boilerplate - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/shortcuts/neovim-plugin-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 99 | 3 | 
 | 2023-02-17 | 98 | 3 | 
 | 2023-02-16 | 98 | 3 | 
 | 2023-02-15 | 97 | 3 | 

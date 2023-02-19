@@ -1,10 +1,10 @@
 # robusta-dev/robusta - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
-☋ Forks: 138
+☋ Forks: 139
 
-★ Stars: 1328
+★ Stars: 1333
 
 [Open repository](https://github.com/robusta-dev/robusta)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1333 | 139 | 
 | 2023-02-17 | 1328 | 138 | 
 | 2023-02-16 | 1321 | 138 | 
 | 2023-02-15 | 1317 | 137 | 

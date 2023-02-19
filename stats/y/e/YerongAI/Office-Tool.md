@@ -1,10 +1,10 @@
 # YerongAI/Office-Tool - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 659
+☋ Forks: 660
 
-★ Stars: 5898
+★ Stars: 5908
 
 [Open repository](https://github.com/YerongAI/Office-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5908 | 660 | 
 | 2023-02-17 | 5898 | 659 | 
 | 2023-02-16 | 5888 | 660 | 
 | 2023-02-15 | 5878 | 660 | 

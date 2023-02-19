@@ -1,6 +1,6 @@
 # Esri/arcgis-appstudio-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 91 | 85 | 
 | 2023-02-17 | 91 | 85 | 
 | 2023-02-16 | 91 | 85 | 
 | 2023-02-15 | 91 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 90 | 85 | 
 | 2023-01-21 | 90 | 85 | 
 | 2023-01-20 | 90 | 85 | 
-| 2023-01-19 | 90 | 85 | 
 

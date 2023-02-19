@@ -1,6 +1,6 @@
 # nubank/clj-github-app - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 38 | 4 | 
 | 2023-02-18 | 38 | 4 | 
 | 2023-02-17 | 38 | 4 | 
 | 2023-02-16 | 38 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 37 | 4 | 
 | 2023-01-21 | 37 | 4 | 
 | 2023-01-20 | 37 | 4 | 
-| 2023-01-19 | 37 | 4 | 
 

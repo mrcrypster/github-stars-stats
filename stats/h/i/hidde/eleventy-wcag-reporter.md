@@ -1,6 +1,6 @@
 # hidde/eleventy-wcag-reporter - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 106 | 42 | 
 | 2023-02-17 | 106 | 42 | 
 | 2023-02-16 | 106 | 42 | 
 | 2023-02-15 | 105 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 100 | 41 | 
 | 2023-01-21 | 100 | 41 | 
 | 2023-01-20 | 100 | 41 | 
-| 2023-01-19 | 100 | 41 | 
 

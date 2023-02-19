@@ -1,6 +1,6 @@
 # DomGries/InnoDependencyInstaller - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 387 | 123 | 
 | 2023-02-17 | 387 | 123 | 
 | 2023-02-16 | 387 | 123 | 
 | 2023-02-15 | 387 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 378 | 120 | 
 | 2023-01-21 | 378 | 120 | 
 | 2023-01-20 | 378 | 120 | 
-| 2023-01-19 | 378 | 120 | 
 

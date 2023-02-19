@@ -1,8 +1,8 @@
 # endymuhardin/buku-pandoc - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 57
+☋ Forks: 56
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 12 | 56 | 
 | 2023-02-17 | 12 | 57 | 
 | 2023-02-16 | 12 | 57 | 
 | 2023-02-15 | 12 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 12 | 55 | 
 | 2023-01-21 | 12 | 55 | 
 | 2023-01-20 | 12 | 55 | 
-| 2023-01-19 | 12 | 55 | 
 

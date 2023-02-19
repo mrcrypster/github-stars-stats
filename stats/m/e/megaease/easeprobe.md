@@ -1,8 +1,8 @@
 # megaease/easeprobe - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 133
+☋ Forks: 134
 
 ★ Stars: 1475
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1475 | 134 | 
 | 2023-02-17 | 1475 | 133 | 
 | 2023-02-16 | 1475 | 132 | 
 | 2023-02-15 | 1473 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1446 | 128 | 
 | 2023-01-21 | 1446 | 128 | 
 | 2023-01-20 | 1446 | 128 | 
-| 2023-01-19 | 1447 | 128 | 
 

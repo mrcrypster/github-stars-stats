@@ -1,6 +1,6 @@
 # mmistakes/so-simple-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2439
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1843 | 2439 | 
 | 2023-02-17 | 1843 | 2439 | 
 | 2023-02-16 | 1841 | 2437 | 
 | 2023-02-15 | 1841 | 2437 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1835 | 2429 | 
 | 2023-01-21 | 1835 | 2429 | 
 | 2023-01-20 | 1834 | 2428 | 
-| 2023-01-19 | 1834 | 2428 | 
 

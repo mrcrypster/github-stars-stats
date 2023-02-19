@@ -1,10 +1,10 @@
 # protofire/blockchain-learning-path - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 493
+☋ Forks: 494
 
-★ Stars: 2358
+★ Stars: 2360
 
 [Open repository](https://github.com/protofire/blockchain-learning-path)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2360 | 494 | 
 | 2023-02-17 | 2358 | 493 | 
 | 2023-02-16 | 2358 | 493 | 
 | 2023-02-15 | 2356 | 493 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2337 | 492 | 
 | 2023-01-21 | 2336 | 491 | 
 | 2023-01-20 | 2336 | 491 | 
-| 2023-01-19 | 2335 | 491 | 
 

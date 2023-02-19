@@ -1,6 +1,6 @@
 # kubeflow/community - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 138 | 196 | 
 | 2023-02-17 | 138 | 196 | 
 | 2023-02-16 | 138 | 196 | 
 | 2023-02-15 | 138 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 136 | 195 | 
 | 2023-01-21 | 136 | 195 | 
 | 2023-01-20 | 136 | 195 | 
-| 2023-01-19 | 136 | 195 | 
 

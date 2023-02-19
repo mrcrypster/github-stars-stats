@@ -1,10 +1,10 @@
 # phasetr/AlgorithmsAndDataStructureByFSharp - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 6
 
-★ Stars: 51
+★ Stars: 50
 
 [Open repository](https://github.com/phasetr/AlgorithmsAndDataStructureByFSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 50 | 6 | 
 | 2023-02-17 | 51 | 6 | 
 | 2023-02-16 | 51 | 6 | 
 | 2023-02-15 | 51 | 6 | 

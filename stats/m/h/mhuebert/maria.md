@@ -1,6 +1,6 @@
 # mhuebert/maria - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 426 | 29 | 
 | 2023-02-17 | 426 | 29 | 
 | 2023-02-16 | 426 | 29 | 
 | 2023-02-15 | 426 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 425 | 29 | 
 | 2023-01-22 | 425 | 29 | 
 | 2023-01-21 | 425 | 29 | 
-| 2023-01-19 | 425 | 29 | 
 

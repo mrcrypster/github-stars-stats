@@ -1,8 +1,8 @@
 # expo/router - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 44
+☋ Forks: 46
 
 ★ Stars: 742
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 742 | 46 | 
 | 2023-02-17 | 742 | 44 | 
 | 2023-02-16 | 739 | 44 | 
 | 2023-02-15 | 734 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 643 | 33 | 
 | 2023-01-21 | 634 | 33 | 
 | 2023-01-20 | 625 | 33 | 
-| 2023-01-19 | 618 | 32 | 
 

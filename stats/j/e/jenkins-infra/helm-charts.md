@@ -1,6 +1,6 @@
 # jenkins-infra/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5 | 14 | 
 | 2023-02-17 | 5 | 14 | 
 | 2023-02-16 | 6 | 14 | 
 | 2023-02-15 | 6 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 7 | 13 | 
 | 2023-01-21 | 7 | 13 | 
 | 2023-01-20 | 7 | 13 | 
-| 2023-01-19 | 7 | 13 | 
 

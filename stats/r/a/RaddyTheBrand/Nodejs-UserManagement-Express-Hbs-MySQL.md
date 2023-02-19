@@ -1,6 +1,6 @@
 # RaddyTheBrand/Nodejs-UserManagement-Express-Hbs-MySQL - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 32 | 47 | 
 | 2023-02-17 | 32 | 47 | 
 | 2023-02-16 | 32 | 46 | 
 | 2023-02-15 | 32 | 46 | 

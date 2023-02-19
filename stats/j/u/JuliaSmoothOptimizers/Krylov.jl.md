@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/Krylov.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 257 | 42 | 
 | 2023-02-17 | 257 | 42 | 
 | 2023-02-16 | 257 | 42 | 
 | 2023-02-15 | 257 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 250 | 43 | 
 | 2023-01-22 | 250 | 43 | 
 | 2023-01-21 | 250 | 43 | 
-| 2023-01-20 | 250 | 43 | 
 

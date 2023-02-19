@@ -1,10 +1,10 @@
 # Aircoookie/WLED - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 2176
+☋ Forks: 2180
 
-★ Stars: 11014
+★ Stars: 11021
 
 [Open repository](https://github.com/Aircoookie/WLED)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 11021 | 2180 | 
 | 2023-02-17 | 11014 | 2176 | 
 | 2023-02-16 | 11007 | 2172 | 
 | 2023-02-15 | 10998 | 2168 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 10774 | 2131 | 
 | 2023-01-21 | 10770 | 2131 | 
 | 2023-01-20 | 10757 | 2132 | 
-| 2023-01-19 | 10747 | 2132 | 
 

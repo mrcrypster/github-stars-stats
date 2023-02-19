@@ -1,6 +1,6 @@
 # astoilkov/main-thread-scheduling - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 362 | 8 | 
 | 2023-02-17 | 362 | 8 | 
 | 2023-02-16 | 362 | 8 | 
 | 2023-02-15 | 362 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 332 | 8 | 
 | 2023-01-21 | 332 | 8 | 
 | 2023-01-20 | 332 | 8 | 
-| 2023-01-19 | 332 | 8 | 
 

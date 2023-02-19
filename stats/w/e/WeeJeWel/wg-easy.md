@@ -1,10 +1,10 @@
 # WeeJeWel/wg-easy - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 559
+☋ Forks: 560
 
-★ Stars: 5604
+★ Stars: 5620
 
 [Open repository](https://github.com/WeeJeWel/wg-easy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5620 | 560 | 
 | 2023-02-17 | 5604 | 559 | 
 | 2023-02-16 | 5588 | 559 | 
 | 2023-02-15 | 5577 | 557 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 5309 | 526 | 
 | 2023-01-21 | 5299 | 523 | 
 | 2023-01-20 | 5279 | 521 | 
-| 2023-01-19 | 5268 | 521 | 
 

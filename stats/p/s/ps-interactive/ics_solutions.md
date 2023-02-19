@@ -1,6 +1,6 @@
 # ps-interactive/ics_solutions - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 12 | 25 | 
 | 2023-02-17 | 12 | 25 | 
 | 2023-02-16 | 12 | 25 | 
 | 2023-02-15 | 12 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 8 | 23 | 
 | 2023-01-21 | 8 | 23 | 
 | 2023-01-20 | 8 | 23 | 
-| 2023-01-19 | 8 | 23 | 
 

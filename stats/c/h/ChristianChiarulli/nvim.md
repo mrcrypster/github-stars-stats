@@ -1,6 +1,6 @@
 # ChristianChiarulli/nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 802 | 265 | 
 | 2023-02-17 | 802 | 265 | 
 | 2023-02-16 | 802 | 265 | 
 | 2023-02-15 | 802 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 788 | 272 | 
 | 2023-01-21 | 788 | 271 | 
 | 2023-01-20 | 788 | 272 | 
-| 2023-01-19 | 788 | 271 | 
 

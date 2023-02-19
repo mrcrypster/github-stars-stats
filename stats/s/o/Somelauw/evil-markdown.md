@@ -1,6 +1,6 @@
 # Somelauw/evil-markdown - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 22 | 4 | 
 | 2023-02-18 | 22 | 4 | 
 | 2023-02-17 | 22 | 4 | 
 | 2023-02-15 | 22 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 22 | 4 | 
 | 2023-01-21 | 22 | 4 | 
 | 2023-01-20 | 22 | 4 | 
-| 2023-01-19 | 22 | 4 | 
 

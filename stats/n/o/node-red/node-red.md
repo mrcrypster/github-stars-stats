@@ -1,10 +1,10 @@
 # node-red/node-red - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2995
 
-★ Stars: 16122
+★ Stars: 16125
 
 [Open repository](https://github.com/node-red/node-red)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 16125 | 2995 | 
 | 2023-02-17 | 16122 | 2995 | 
 | 2023-02-16 | 16104 | 2993 | 
 | 2023-02-15 | 16097 | 2992 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 15901 | 2970 | 
 | 2023-01-21 | 15898 | 2971 | 
 | 2023-01-20 | 15895 | 2970 | 
-| 2023-01-19 | 15891 | 2970 | 
 

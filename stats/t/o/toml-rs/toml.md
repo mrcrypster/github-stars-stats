@@ -1,10 +1,10 @@
 # toml-rs/toml - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 60
 
-★ Stars: 349
+★ Stars: 348
 
 [Open repository](https://github.com/toml-rs/toml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 348 | 60 | 
 | 2023-02-17 | 349 | 60 | 
 | 2023-02-16 | 349 | 60 | 
 | 2023-02-15 | 347 | 60 | 

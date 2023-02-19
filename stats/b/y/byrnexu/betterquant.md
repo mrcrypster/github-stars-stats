@@ -1,10 +1,10 @@
 # byrnexu/betterquant - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 38
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/byrnexu/betterquant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 111 | 38 | 
 | 2023-02-17 | 110 | 38 | 
 | 2023-02-16 | 108 | 37 | 
 | 2023-02-15 | 107 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 90 | 36 | 
 | 2023-01-21 | 90 | 36 | 
 | 2023-01-20 | 90 | 36 | 
-| 2023-01-19 | 90 | 36 | 
 

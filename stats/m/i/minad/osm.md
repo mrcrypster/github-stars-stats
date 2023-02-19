@@ -1,10 +1,10 @@
 # minad/osm - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 12
 
-★ Stars: 439
+★ Stars: 438
 
 [Open repository](https://github.com/minad/osm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 438 | 12 | 
 | 2023-02-17 | 439 | 12 | 
 | 2023-02-16 | 439 | 12 | 
 | 2023-02-15 | 439 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 436 | 11 | 
 | 2023-01-21 | 436 | 11 | 
 | 2023-01-20 | 436 | 11 | 
-| 2023-01-19 | 436 | 11 | 
 

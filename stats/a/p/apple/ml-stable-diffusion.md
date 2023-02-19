@@ -1,10 +1,10 @@
 # apple/ml-stable-diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 250
+☋ Forks: 251
 
-★ Stars: 5409
+★ Stars: 5421
 
 [Open repository](https://github.com/apple/ml-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 5421 | 251 | 
 | 2023-02-17 | 5409 | 250 | 
 | 2023-02-16 | 5388 | 246 | 
 | 2023-02-15 | 5374 | 245 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 5046 | 209 | 
 | 2023-01-21 | 5042 | 208 | 
 | 2023-01-20 | 5033 | 208 | 
-| 2023-01-19 | 5019 | 206 | 
 

@@ -1,8 +1,8 @@
 # ONLYOFFICE/document-server-package - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6 | 17 | 
 | 2023-02-17 | 6 | 16 | 
 | 2023-02-16 | 6 | 16 | 
 | 2023-02-15 | 6 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 6 | 16 | 
 | 2023-01-21 | 6 | 16 | 
 | 2023-01-20 | 7 | 16 | 
-| 2023-01-19 | 7 | 16 | 
 

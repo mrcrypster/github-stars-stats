@@ -1,6 +1,6 @@
 # databricks/Spark-The-Definitive-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2532
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2518 | 2532 | 
 | 2023-02-17 | 2518 | 2532 | 
 | 2023-02-16 | 2517 | 2530 | 
 | 2023-02-15 | 2517 | 2530 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2487 | 2513 | 
 | 2023-01-21 | 2487 | 2513 | 
 | 2023-01-20 | 2486 | 2512 | 
-| 2023-01-19 | 2485 | 2510 | 
 

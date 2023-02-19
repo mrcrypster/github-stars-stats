@@ -1,8 +1,8 @@
 # cmcntsh/stats2021_exer_JamoviDataManip - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | - | 31 | 
 | 2023-02-17 | - | 30 | 
 | 2023-02-16 | - | 28 | 
 | 2023-02-15 | - | 26 | 

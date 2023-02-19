@@ -1,10 +1,10 @@
 # shirayu/whispering - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/shirayu/whispering)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 449 | 39 | 
 | 2023-02-17 | 448 | 38 | 
 | 2023-02-16 | 447 | 38 | 
 | 2023-02-15 | 444 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 405 | 35 | 
 | 2023-01-21 | 403 | 35 | 
 | 2023-01-20 | 403 | 35 | 
-| 2023-01-19 | 402 | 34 | 
 

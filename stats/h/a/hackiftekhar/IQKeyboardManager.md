@@ -1,10 +1,10 @@
 # hackiftekhar/IQKeyboardManager - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 2357
+☋ Forks: 2359
 
-★ Stars: 15964
+★ Stars: 15966
 
 [Open repository](https://github.com/hackiftekhar/IQKeyboardManager)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 15966 | 2359 | 
 | 2023-02-17 | 15964 | 2357 | 
 | 2023-02-16 | 15958 | 2357 | 
 | 2023-02-15 | 15958 | 2357 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 15936 | 2352 | 
 | 2023-01-21 | 15935 | 2352 | 
 | 2023-01-20 | 15933 | 2352 | 
-| 2023-01-19 | 15933 | 2351 | 
 

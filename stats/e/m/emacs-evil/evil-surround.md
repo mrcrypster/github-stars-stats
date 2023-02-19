@@ -1,6 +1,6 @@
 # emacs-evil/evil-surround - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 55
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 556 | 55 | 
+| 2023-02-18 | 556 | 55 | 
 | 2023-02-17 | 556 | 55 | 
 | 2023-02-16 | 556 | 55 | 
 | 2023-02-15 | 556 | 55 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 555 | 56 | 
 | 2023-01-21 | 555 | 56 | 
 | 2023-01-20 | 553 | 56 | 
-| 2023-01-19 | 553 | 56 | 
 

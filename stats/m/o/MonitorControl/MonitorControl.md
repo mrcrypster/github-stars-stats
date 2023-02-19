@@ -1,10 +1,10 @@
 # MonitorControl/MonitorControl - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 647
+☋ Forks: 648
 
-★ Stars: 20740
+★ Stars: 20759
 
 [Open repository](https://github.com/MonitorControl/MonitorControl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 20759 | 648 | 
 | 2023-02-17 | 20740 | 647 | 
 | 2023-02-16 | 20717 | 647 | 
 | 2023-02-15 | 20705 | 647 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 20298 | 636 | 
 | 2023-01-21 | 20282 | 635 | 
 | 2023-01-20 | 20276 | 634 | 
-| 2023-01-19 | 20267 | 634 | 
 

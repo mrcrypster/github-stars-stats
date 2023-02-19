@@ -1,6 +1,6 @@
 # zenml-io/mlops-stacks - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 148 | 11 | 
 | 2023-02-18 | 148 | 11 | 
 | 2023-02-16 | 148 | 11 | 
 | 2023-02-15 | 147 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 142 | 11 | 
 | 2023-01-21 | 142 | 11 | 
 | 2023-01-20 | 141 | 11 | 
-| 2023-01-19 | 141 | 11 | 
 

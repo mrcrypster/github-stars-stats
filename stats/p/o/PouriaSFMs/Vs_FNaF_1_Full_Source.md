@@ -1,6 +1,6 @@
 # PouriaSFMs/Vs_FNaF_1_Full_Source - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3 | 19 | 
 | 2023-02-17 | 3 | 19 | 
 | 2023-02-16 | 3 | 19 | 
 | 2023-02-15 | 3 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 3 | 18 | 
 | 2023-01-21 | 3 | 18 | 
 | 2023-01-20 | 3 | 18 | 
-| 2023-01-19 | 3 | 18 | 
 

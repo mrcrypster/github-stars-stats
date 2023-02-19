@@ -1,10 +1,10 @@
 # kkkgo/LTSC-Add-MicrosoftStore - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 435
 
-★ Stars: 2369
+★ Stars: 2370
 
 [Open repository](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2370 | 435 | 
 | 2023-02-17 | 2369 | 435 | 
 | 2023-02-16 | 2370 | 436 | 
 | 2023-02-15 | 2369 | 436 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2330 | 426 | 
 | 2023-01-21 | 2330 | 426 | 
 | 2023-01-20 | 2329 | 425 | 
-| 2023-01-19 | 2326 | 422 | 
 

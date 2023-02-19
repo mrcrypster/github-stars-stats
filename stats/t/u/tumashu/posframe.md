@@ -1,10 +1,10 @@
 # tumashu/posframe - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 49
 
-★ Stars: 360
+★ Stars: 361
 
 [Open repository](https://github.com/tumashu/posframe)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 361 | 49 | 
+| 2023-02-18 | 361 | 49 | 
 | 2023-02-17 | 360 | 49 | 
 | 2023-02-16 | 360 | 49 | 
 | 2023-02-15 | 360 | 49 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 356 | 47 | 
 | 2023-01-22 | 356 | 47 | 
 | 2023-01-20 | 355 | 47 | 
-| 2023-01-19 | 354 | 47 | 
 

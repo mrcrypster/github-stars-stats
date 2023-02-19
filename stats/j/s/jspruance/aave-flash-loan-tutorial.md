@@ -1,6 +1,6 @@
 # jspruance/aave-flash-loan-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 50 | 40 | 
 | 2023-02-17 | 50 | 40 | 
 | 2023-02-16 | 50 | 40 | 
 | 2023-02-15 | 51 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 41 | 34 | 
 | 2023-01-21 | 41 | 33 | 
 | 2023-01-20 | 41 | 32 | 
-| 2023-01-19 | 41 | 32 | 
 

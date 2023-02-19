@@ -1,10 +1,10 @@
 # Ebazhanov/linkedin-skill-assessments-quizzes - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 12375
+☋ Forks: 12384
 
-★ Stars: 22863
+★ Stars: 22874
 
 [Open repository](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 22874 | 12384 | 
 | 2023-02-17 | 22863 | 12375 | 
 | 2023-02-16 | 22848 | 12363 | 
 | 2023-02-14 | 22805 | 12329 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 22295 | 12032 | 
 | 2023-01-21 | 22278 | 12019 | 
 | 2023-01-20 | 22264 | 12001 | 
-| 2023-01-19 | 22236 | 11977 | 
 

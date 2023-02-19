@@ -1,10 +1,10 @@
 # JuliaGeometry/Delaunator.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/JuliaGeometry/Delaunator.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 12 | 3 | 
 | 2023-02-17 | 11 | 3 | 
 | 2023-02-16 | 11 | 3 | 
 | 2023-02-15 | 11 | 3 | 

@@ -1,8 +1,8 @@
 # openbmc/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 268
+☋ Forks: 269
 
 ★ Stars: 187
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 187 | 269 | 
 | 2023-02-17 | 187 | 268 | 
 | 2023-02-16 | 187 | 268 | 
 | 2023-02-15 | 187 | 268 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 184 | 269 | 
 | 2023-01-21 | 182 | 269 | 
 | 2023-01-20 | 182 | 269 | 
-| 2023-01-19 | 182 | 268 | 
 

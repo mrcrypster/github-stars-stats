@@ -1,6 +1,6 @@
 # abishekvashok/cmatrix - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 314
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3085 | 314 | 
 | 2023-02-17 | 3085 | 314 | 
 | 2023-02-16 | 3082 | 314 | 
 | 2023-02-15 | 3078 | 314 | 

@@ -1,10 +1,10 @@
 # larsbrinkhoff/lbForth - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 108
 
-★ Stars: 378
+★ Stars: 379
 
 [Open repository](https://github.com/larsbrinkhoff/lbForth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 379 | 108 | 
 | 2023-02-17 | 378 | 108 | 
 | 2023-02-16 | 378 | 108 | 
 | 2023-02-15 | 379 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 374 | 106 | 
 | 2023-01-21 | 374 | 106 | 
 | 2023-01-20 | 373 | 106 | 
-| 2023-01-19 | 373 | 106 | 
 

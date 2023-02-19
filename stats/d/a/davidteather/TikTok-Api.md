@@ -1,10 +1,10 @@
 # davidteather/TikTok-Api - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 722
 
-★ Stars: 3008
+★ Stars: 3010
 
 [Open repository](https://github.com/davidteather/TikTok-Api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 3010 | 722 | 
 | 2023-02-17 | 3008 | 722 | 
 | 2023-02-16 | 3004 | 723 | 
 | 2023-02-15 | 3004 | 723 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 2941 | 709 | 
 | 2023-01-22 | 2938 | 709 | 
 | 2023-01-20 | 2935 | 709 | 
-| 2023-01-19 | 2933 | 709 | 
 

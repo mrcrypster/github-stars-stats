@@ -1,6 +1,6 @@
 # JuliaMath/Bessels.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 62 | 5 | 
 | 2023-02-18 | 62 | 5 | 
 | 2023-02-17 | 62 | 5 | 
 | 2023-02-15 | 62 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 62 | 4 | 
 | 2023-01-21 | 62 | 4 | 
 | 2023-01-20 | 62 | 4 | 
-| 2023-01-19 | 62 | 4 | 
 

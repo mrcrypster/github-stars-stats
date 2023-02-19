@@ -1,10 +1,10 @@
 # rgommezz/react-native-chatgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/rgommezz/react-native-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 237 | 20 | 
 | 2023-02-17 | 236 | 19 | 
 | 2023-02-16 | 235 | 19 | 
 | 2023-02-15 | 218 | 16 | 

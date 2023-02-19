@@ -1,8 +1,8 @@
 # homebridge/homebridge - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 1956
+☋ Forks: 1957
 
 ★ Stars: 21563
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 21563 | 1957 | 
 | 2023-02-17 | 21563 | 1956 | 
 | 2023-02-16 | 21560 | 1955 | 
 | 2023-02-15 | 21556 | 1955 | 

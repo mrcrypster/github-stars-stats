@@ -1,6 +1,6 @@
 # elixir-mint/mint_web_socket - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 86 | 13 | 
 | 2023-02-17 | 86 | 13 | 
 | 2023-02-16 | 86 | 13 | 
 | 2023-02-15 | 86 | 13 | 

@@ -1,10 +1,10 @@
 # cuifengcn/TAICHI-flet - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 123
 
-★ Stars: 755
+★ Stars: 757
 
 [Open repository](https://github.com/cuifengcn/TAICHI-flet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 757 | 123 | 
 | 2023-02-17 | 755 | 123 | 
 | 2023-02-16 | 740 | 118 | 
 | 2023-02-15 | 681 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 525 | 76 | 
 | 2023-01-21 | 519 | 74 | 
 | 2023-01-20 | 516 | 73 | 
-| 2023-01-19 | 510 | 71 | 
 

@@ -1,6 +1,6 @@
 # edbmods/EdBPrepareCarefully - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 202 | 89 | 
 | 2023-02-17 | 202 | 89 | 
 | 2023-02-16 | 202 | 89 | 
 | 2023-02-15 | 202 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 203 | 89 | 
 | 2023-01-22 | 203 | 89 | 
 | 2023-01-20 | 203 | 89 | 
-| 2023-01-19 | 203 | 89 | 
 

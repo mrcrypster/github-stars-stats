@@ -1,10 +1,10 @@
 # python/cpython - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 25821
+☋ Forks: 25827
 
-★ Stars: 50701
+★ Stars: 50716
 
 [Open repository](https://github.com/python/cpython)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 50716 | 25827 | 
 | 2023-02-17 | 50701 | 25821 | 
 | 2023-02-16 | 50680 | 25810 | 
 | 2023-02-15 | 50656 | 25796 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 50192 | 25503 | 
 | 2023-01-21 | 50175 | 25498 | 
 | 2023-01-20 | 50155 | 25492 | 
-| 2023-01-19 | 50131 | 25475 | 
 

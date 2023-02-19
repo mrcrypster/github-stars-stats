@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/NLPModels.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 137 | 28 | 
 | 2023-02-17 | 137 | 28 | 
 | 2023-02-16 | 137 | 28 | 
 | 2023-02-15 | 137 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 137 | 28 | 
 | 2023-01-21 | 137 | 28 | 
 | 2023-01-20 | 137 | 28 | 
-| 2023-01-19 | 137 | 28 | 
 

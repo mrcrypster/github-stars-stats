@@ -1,6 +1,6 @@
 # henry2004y/Vlasiator.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6 | 3 | 
 | 2023-02-17 | 6 | 3 | 
 | 2023-02-16 | 6 | 3 | 
 | 2023-02-15 | 6 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 7 | 3 | 
 | 2023-01-22 | 7 | 3 | 
 | 2023-01-20 | 7 | 3 | 
-| 2023-01-19 | 7 | 3 | 
 

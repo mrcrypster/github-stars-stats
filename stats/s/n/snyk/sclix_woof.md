@@ -1,8 +1,8 @@
 # snyk/sclix_woof - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1 | 11 | 
 | 2023-02-17 | 1 | 10 | 
 | 2023-02-16 | 1 | 10 | 
 | 2023-02-15 | 1 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 1 | 10 | 
 | 2023-01-21 | 1 | 10 | 
 | 2023-01-20 | 1 | 10 | 
-| 2023-01-19 | 1 | 10 | 
 

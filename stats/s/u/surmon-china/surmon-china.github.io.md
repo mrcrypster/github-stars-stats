@@ -1,6 +1,6 @@
 # surmon-china/surmon-china.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 363
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 174 | 363 | 
 | 2023-02-17 | 174 | 363 | 
 | 2023-02-16 | 174 | 363 | 
 | 2023-02-15 | 174 | 363 | 

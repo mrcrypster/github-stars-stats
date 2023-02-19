@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 18
 
 ☋ Forks: 61
 
-★ Stars: 303
+★ Stars: 304
 
 [Open repository](https://github.com/arsenm/sanitizers-cmake)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-18 | 303 | 61 | 
+| 2023-02-18 | 304 | 61 | 
 | 2023-02-17 | 303 | 61 | 
 | 2023-02-16 | 303 | 61 | 
 | 2023-02-15 | 303 | 61 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 301 | 60 | 
 | 2023-01-21 | 301 | 60 | 
 | 2023-01-20 | 300 | 60 | 
-| 2023-01-19 | 300 | 60 | 
 

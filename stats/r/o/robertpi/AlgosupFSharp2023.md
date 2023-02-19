@@ -1,6 +1,6 @@
 # robertpi/AlgosupFSharp2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | - | 7 | 
 | 2023-02-17 | - | 7 | 
 | 2023-02-16 | - | 6 | 
 | 2023-02-15 | - | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | - | 7 | 
 | 2023-01-21 | - | 7 | 
 | 2023-01-20 | - | 7 | 
-| 2023-01-19 | - | 7 | 
 

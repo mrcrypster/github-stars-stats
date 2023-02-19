@@ -1,10 +1,10 @@
 # searxng/searx-instances-uptime - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/searxng/searx-instances-uptime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 6 | 4 | 
 | 2023-02-17 | 7 | 4 | 
 | 2023-02-16 | 7 | 4 | 
 | 2023-02-15 | 7 | 4 | 

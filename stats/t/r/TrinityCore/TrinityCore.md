@@ -1,10 +1,10 @@
 # TrinityCore/TrinityCore - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 5618
+☋ Forks: 5617
 
-★ Stars: 7969
+★ Stars: 7972
 
 [Open repository](https://github.com/TrinityCore/TrinityCore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 7972 | 5617 | 
 | 2023-02-17 | 7969 | 5618 | 
 | 2023-02-16 | 7968 | 5617 | 
 | 2023-02-15 | 7965 | 5618 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 7830 | 5578 | 
 | 2023-01-21 | 7830 | 5579 | 
 | 2023-01-20 | 7828 | 5579 | 
-| 2023-01-19 | 7825 | 5575 | 
 

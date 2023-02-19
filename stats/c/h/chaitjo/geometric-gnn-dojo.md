@@ -1,10 +1,10 @@
 # chaitjo/geometric-gnn-dojo - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 17
 
-★ Stars: 245
+★ Stars: 251
 
 [Open repository](https://github.com/chaitjo/geometric-gnn-dojo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 251 | 17 | 
 | 2023-02-17 | 245 | 17 | 
 | 2023-02-16 | 244 | 17 | 
 | 2023-02-15 | 241 | 17 | 

@@ -1,8 +1,8 @@
 # osmosis-labs/osmosis - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 338
+☋ Forks: 339
 
 ★ Stars: 692
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 692 | 339 | 
 | 2023-02-17 | 692 | 338 | 
 | 2023-02-16 | 692 | 338 | 
 | 2023-02-15 | 690 | 337 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 680 | 325 | 
 | 2023-01-22 | 680 | 325 | 
 | 2023-01-20 | 679 | 325 | 
-| 2023-01-19 | 678 | 322 | 
 

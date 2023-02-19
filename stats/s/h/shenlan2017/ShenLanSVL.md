@@ -1,6 +1,6 @@
 # shenlan2017/ShenLanSVL - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 23 | 9 | 
 | 2023-02-17 | 23 | 9 | 
 | 2023-02-16 | 23 | 9 | 
 | 2023-02-15 | 23 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 23 | 9 | 
 | 2023-01-21 | 23 | 9 | 
 | 2023-01-20 | 23 | 9 | 
-| 2023-01-19 | 23 | 9 | 
 

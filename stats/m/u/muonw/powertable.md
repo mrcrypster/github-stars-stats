@@ -1,10 +1,10 @@
 # muonw/powertable - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 8
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/muonw/powertable)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 125 | 8 | 
 | 2023-02-17 | 124 | 8 | 
 | 2023-02-16 | 123 | 8 | 
 | 2023-02-15 | 122 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 116 | 5 | 
 | 2023-01-21 | 116 | 5 | 
 | 2023-01-20 | 116 | 5 | 
-| 2023-01-19 | 116 | 5 | 
 

@@ -1,10 +1,10 @@
 # straight-tamago/DockTransparent - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/straight-tamago/DockTransparent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 34 | - | 
 | 2023-02-17 | 33 | - | 
 | 2023-02-16 | 33 | - | 
 | 2023-02-15 | 33 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 28 | - | 
 | 2023-01-21 | 28 | - | 
 | 2023-01-20 | 28 | - | 
-| 2023-01-19 | 28 | - | 
 

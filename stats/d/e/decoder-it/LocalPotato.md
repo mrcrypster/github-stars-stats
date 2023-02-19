@@ -1,10 +1,10 @@
 # decoder-it/LocalPotato - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 283
+★ Stars: 300
 
 [Open repository](https://github.com/decoder-it/LocalPotato)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 300 | 51 | 
 | 2023-02-17 | 283 | 50 | 
 | 2023-02-16 | 266 | 44 | 
 | 2023-02-15 | 223 | 30 | 

@@ -1,10 +1,10 @@
 # ba-archive/blue-archive-story-viewer - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/ba-archive/blue-archive-story-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 44 | 2 | 
 | 2023-02-17 | 43 | 2 | 
 | 2023-02-16 | 43 | 2 | 
 | 2023-02-15 | 43 | 2 | 

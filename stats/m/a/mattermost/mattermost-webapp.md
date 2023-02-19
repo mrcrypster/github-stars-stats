@@ -1,10 +1,10 @@
 # mattermost/mattermost-webapp - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 2788
+☋ Forks: 2787
 
-★ Stars: 2242
+★ Stars: 2243
 
 [Open repository](https://github.com/mattermost/mattermost-webapp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2243 | 2787 | 
 | 2023-02-17 | 2242 | 2788 | 
 | 2023-02-16 | 2242 | 2787 | 
 | 2023-02-15 | 2242 | 2785 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2214 | 2770 | 
 | 2023-01-21 | 2214 | 2770 | 
 | 2023-01-20 | 2213 | 2772 | 
-| 2023-01-19 | 2213 | 2774 | 
 

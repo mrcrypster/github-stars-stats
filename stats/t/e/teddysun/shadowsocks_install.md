@@ -1,6 +1,6 @@
 # teddysun/shadowsocks_install - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 4650
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 7722 | 4650 | 
 | 2023-02-17 | 7722 | 4650 | 
 | 2023-02-16 | 7720 | 4649 | 
 | 2023-02-15 | 7718 | 4647 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 7687 | 4639 | 
 | 2023-01-21 | 7690 | 4640 | 
 | 2023-01-20 | 7690 | 4640 | 
-| 2023-01-19 | 7691 | 4640 | 
 

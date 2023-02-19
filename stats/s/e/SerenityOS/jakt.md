@@ -1,10 +1,10 @@
 # SerenityOS/jakt - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 235
+☋ Forks: 237
 
-★ Stars: 2432
+★ Stars: 2439
 
 [Open repository](https://github.com/SerenityOS/jakt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 2439 | 237 | 
 | 2023-02-17 | 2432 | 235 | 
 | 2023-02-16 | 2430 | 234 | 
 | 2023-02-15 | 2428 | 233 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 2404 | 230 | 
 | 2023-01-21 | 2404 | 230 | 
 | 2023-01-20 | 2402 | 230 | 
-| 2023-01-19 | 2402 | 230 | 
 

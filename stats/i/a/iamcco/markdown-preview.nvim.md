@@ -1,10 +1,10 @@
 # iamcco/markdown-preview.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 203
+☋ Forks: 204
 
-★ Stars: 4447
+★ Stars: 4448
 
 [Open repository](https://github.com/iamcco/markdown-preview.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 4448 | 204 | 
 | 2023-02-17 | 4447 | 203 | 
 | 2023-02-16 | 4445 | 203 | 
 | 2023-02-15 | 4440 | 203 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 4334 | 198 | 
 | 2023-01-21 | 4331 | 198 | 
 | 2023-01-20 | 4325 | 198 | 
-| 2023-01-19 | 4323 | 197 | 
 

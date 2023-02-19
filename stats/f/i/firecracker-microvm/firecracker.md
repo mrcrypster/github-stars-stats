@@ -1,10 +1,10 @@
 # firecracker-microvm/firecracker - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 1476
 
-★ Stars: 20717
+★ Stars: 20720
 
 [Open repository](https://github.com/firecracker-microvm/firecracker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 20720 | 1476 | 
 | 2023-02-17 | 20717 | 1476 | 
 | 2023-02-16 | 20692 | 1477 | 
 | 2023-02-15 | 20671 | 1476 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 20484 | 1465 | 
 | 2023-01-21 | 20477 | 1464 | 
 | 2023-01-20 | 20464 | 1464 | 
-| 2023-01-19 | 20460 | 1463 | 
 

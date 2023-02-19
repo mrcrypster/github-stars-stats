@@ -1,6 +1,6 @@
 # janoodleFTW/timy-messenger - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 1932 | 441 | 
 | 2023-02-17 | 1932 | 441 | 
 | 2023-02-16 | 1931 | 439 | 
 | 2023-02-15 | 1930 | 439 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-23 | 1917 | 438 | 
 | 2023-01-22 | 1917 | 438 | 
 | 2023-01-20 | 1917 | 438 | 
-| 2023-01-19 | 1916 | 438 | 
 

@@ -1,10 +1,10 @@
 # google/oss-fuzz - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 1825
+☋ Forks: 1826
 
-★ Stars: 8381
+★ Stars: 8382
 
 [Open repository](https://github.com/google/oss-fuzz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8382 | 1826 | 
 | 2023-02-18 | 8381 | 1825 | 
 | 2023-02-16 | 8378 | 1825 | 
 | 2023-02-15 | 8373 | 1823 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-22 | 8293 | 1808 | 
 | 2023-01-21 | 8287 | 1807 | 
 | 2023-01-20 | 8283 | 1807 | 
-| 2023-01-19 | 8279 | 1808 | 
 

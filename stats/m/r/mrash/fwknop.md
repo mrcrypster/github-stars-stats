@@ -1,10 +1,10 @@
 # mrash/fwknop - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
 ☋ Forks: 198
 
-★ Stars: 892
+★ Stars: 893
 
 [Open repository](https://github.com/mrash/fwknop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 893 | 198 | 
 | 2023-02-17 | 892 | 198 | 
 | 2023-02-16 | 892 | 198 | 
 | 2023-02-15 | 891 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 885 | 198 | 
 | 2023-01-21 | 884 | 197 | 
 | 2023-01-20 | 884 | 197 | 
-| 2023-01-19 | 884 | 197 | 
 

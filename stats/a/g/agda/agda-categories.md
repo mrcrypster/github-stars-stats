@@ -1,8 +1,8 @@
 # agda/agda-categories - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 18
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 295
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-18 | 295 | 56 | 
 | 2023-02-17 | 295 | 55 | 
 | 2023-02-16 | 295 | 55 | 
 | 2023-02-15 | 294 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 294 | 55 | 
 | 2023-01-21 | 294 | 55 | 
 | 2023-01-20 | 294 | 55 | 
-| 2023-01-19 | 294 | 55 | 
 

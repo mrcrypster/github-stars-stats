@@ -1,6 +1,6 @@
 # supabase/vault - stars & forks statistics
 
-Stats updated on Feb 2023, 17
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 111 | 4 | 
 | 2023-02-17 | 111 | 4 | 
 | 2023-02-16 | 110 | 4 | 
 | 2023-02-15 | 109 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 17
 | 2023-01-22 | 107 | 4 | 
 | 2023-01-21 | 107 | 4 | 
 | 2023-01-20 | 107 | 4 | 
-| 2023-01-19 | 106 | 4 | 
 

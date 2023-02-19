@@ -1,10 +1,10 @@
 # OddPvP/unblockedgames - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 511
+☋ Forks: 514
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/OddPvP/unblockedgames)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 86 | 514 | 
 | 2023-02-18 | 85 | 511 | 
 | 2023-02-17 | 83 | 499 | 
 | 2023-02-15 | 83 | 483 | 
