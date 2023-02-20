@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 19
 
-☋ Forks: 39
+☋ Forks: 42
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/otoyo/astro-notion-blog)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 72 | 39 | 
+| 2023-02-19 | 73 | 42 | 
 | 2023-02-18 | 72 | 39 | 
 | 2023-02-17 | 70 | 39 | 
 | 2023-02-16 | 70 | 38 | 

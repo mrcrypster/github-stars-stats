@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-metaprogramming-triangle-classification-lab - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 2003
+☋ Forks: 2021
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1 | 2021 | 
 | 2023-02-18 | 1 | 2003 | 
 | 2023-02-17 | 1 | 1986 | 
 | 2023-02-16 | 1 | 1958 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1 | 1718 | 
 | 2023-01-22 | 1 | 1718 | 
 | 2023-01-21 | 1 | 1716 | 
-| 2023-01-20 | 1 | 1714 | 
 

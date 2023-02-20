@@ -1,6 +1,6 @@
 # cedarbdd/cedar - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1192 | 150 | 
 | 2023-02-18 | 1192 | 150 | 
 | 2023-02-17 | 1192 | 150 | 
 | 2023-02-16 | 1192 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1191 | 150 | 
 | 2023-01-22 | 1191 | 150 | 
 | 2023-01-21 | 1191 | 150 | 
-| 2023-01-20 | 1191 | 150 | 
 

@@ -1,10 +1,10 @@
 # kubescape/kubescape - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 664
 
-★ Stars: 7889
+★ Stars: 7893
 
 [Open repository](https://github.com/kubescape/kubescape)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 7893 | 664 | 
 | 2023-02-18 | 7889 | 664 | 
 | 2023-02-17 | 7881 | 664 | 
 | 2023-02-16 | 7873 | 665 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 7707 | 648 | 
 | 2023-01-22 | 7700 | 647 | 
 | 2023-01-21 | 7699 | 645 | 
-| 2023-01-20 | 7696 | 645 | 
 

@@ -1,10 +1,10 @@
 # plantuml/plantuml - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 738
 
-★ Stars: 7548
+★ Stars: 7550
 
 [Open repository](https://github.com/plantuml/plantuml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 7550 | 738 | 
 | 2023-02-18 | 7548 | 738 | 
 | 2023-02-17 | 7544 | 738 | 
 | 2023-02-16 | 7530 | 737 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 7393 | 733 | 
 | 2023-01-22 | 7388 | 733 | 
 | 2023-01-21 | 7387 | 733 | 
-| 2023-01-20 | 7381 | 733 | 
 

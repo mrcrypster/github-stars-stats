@@ -1,10 +1,10 @@
 # TheKingOfDuck/fuzzDicts - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 2138
+☋ Forks: 2139
 
-★ Stars: 5605
+★ Stars: 5607
 
 [Open repository](https://github.com/TheKingOfDuck/fuzzDicts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5607 | 2139 | 
 | 2023-02-18 | 5605 | 2138 | 
 | 2023-02-17 | 5602 | 2137 | 
 | 2023-02-16 | 5598 | 2136 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 5555 | 2126 | 
 | 2023-01-22 | 5555 | 2126 | 
 | 2023-01-21 | 5555 | 2126 | 
-| 2023-01-20 | 5554 | 2126 | 
 

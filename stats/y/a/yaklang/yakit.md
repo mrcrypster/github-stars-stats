@@ -1,8 +1,8 @@
 # yaklang/yakit - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 713
+☋ Forks: 714
 
 ★ Stars: 4954
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4954 | 714 | 
 | 2023-02-18 | 4954 | 713 | 
 | 2023-02-17 | 4952 | 713 | 
 | 2023-02-16 | 4945 | 713 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 4874 | 705 | 
 | 2023-01-23 | 4874 | 705 | 
 | 2023-01-22 | 4873 | 705 | 
-| 2023-01-20 | 4873 | 705 | 
 

@@ -1,6 +1,6 @@
 # manateelazycat/sdcv - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 60 | 14 | 
 | 2023-02-18 | 60 | 14 | 
 | 2023-02-17 | 59 | 14 | 
 | 2023-02-16 | 59 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 59 | 13 | 
 | 2023-01-22 | 59 | 13 | 
 | 2023-01-21 | 59 | 13 | 
-| 2023-01-20 | 59 | 13 | 
 

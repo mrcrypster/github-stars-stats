@@ -1,10 +1,10 @@
 # simonratner/miniswf - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/simonratner/miniswf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3 | - | 
 | 2023-02-18 | 2 | - | 
 | 2023-02-17 | 2 | - | 
 | 2023-02-16 | 2 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1 | - | 
 | 2023-01-22 | 1 | - | 
 | 2023-01-21 | 1 | - | 
-| 2023-01-20 | 1 | - | 
 

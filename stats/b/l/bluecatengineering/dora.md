@@ -1,10 +1,10 @@
 # bluecatengineering/dora - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 5
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/bluecatengineering/dora)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 355 | 5 | 
 | 2023-02-18 | 354 | 5 | 
 | 2023-02-17 | 354 | 5 | 
 | 2023-02-16 | 353 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 348 | 6 | 
 | 2023-01-22 | 348 | 6 | 
 | 2023-01-21 | 348 | 6 | 
-| 2023-01-20 | 348 | 6 | 
 

@@ -1,10 +1,10 @@
 # techwithtim/Flask-Web-App-Tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 708
 
-★ Stars: 578
+★ Stars: 581
 
 [Open repository](https://github.com/techwithtim/Flask-Web-App-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 581 | 708 | 
 | 2023-02-18 | 578 | 708 | 
 | 2023-02-17 | 577 | 706 | 
 | 2023-02-16 | 574 | 704 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 558 | 684 | 
 | 2023-01-23 | 557 | 684 | 
 | 2023-01-22 | 556 | 683 | 
-| 2023-01-21 | 555 | 680 | 
 

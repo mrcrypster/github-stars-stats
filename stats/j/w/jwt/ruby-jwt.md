@@ -1,10 +1,10 @@
 # jwt/ruby-jwt - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 369
 
-★ Stars: 3426
+★ Stars: 3427
 
 [Open repository](https://github.com/jwt/ruby-jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3427 | 369 | 
 | 2023-02-18 | 3426 | 369 | 
 | 2023-02-17 | 3425 | 369 | 
 | 2023-02-16 | 3425 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3410 | 365 | 
 | 2023-01-22 | 3410 | 365 | 
 | 2023-01-21 | 3410 | 365 | 
-| 2023-01-20 | 3409 | 365 | 
 

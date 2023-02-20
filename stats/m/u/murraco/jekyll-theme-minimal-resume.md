@@ -1,6 +1,6 @@
 # murraco/jekyll-theme-minimal-resume - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 429 | 522 | 
 | 2023-02-18 | 429 | 522 | 
 | 2023-02-17 | 429 | 522 | 
 | 2023-02-16 | 429 | 522 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 424 | 524 | 
 | 2023-01-22 | 424 | 524 | 
 | 2023-01-21 | 422 | 524 | 
-| 2023-01-20 | 422 | 525 | 
 

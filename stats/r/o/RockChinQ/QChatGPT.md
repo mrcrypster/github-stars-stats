@@ -1,10 +1,10 @@
 # RockChinQ/QChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 70
 
-★ Stars: 887
+★ Stars: 900
 
 [Open repository](https://github.com/RockChinQ/QChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 900 | 70 | 
 | 2023-02-18 | 887 | 70 | 
 | 2023-02-17 | 858 | 67 | 
 | 2023-02-16 | 842 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 430 | 23 | 
 | 2023-01-22 | 422 | 23 | 
 | 2023-01-21 | 418 | 23 | 
-| 2023-01-20 | 416 | 23 | 
 

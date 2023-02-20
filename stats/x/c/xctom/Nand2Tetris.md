@@ -1,8 +1,8 @@
 # xctom/Nand2Tetris - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 84
+☋ Forks: 83
 
 ★ Stars: 101
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 101 | 83 | 
 | 2023-02-18 | 101 | 84 | 
 | 2023-02-17 | 101 | 84 | 
 | 2023-02-16 | 101 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 101 | 85 | 
 | 2023-01-23 | 101 | 85 | 
 | 2023-01-22 | 101 | 83 | 
-| 2023-01-21 | 101 | 83 | 
 

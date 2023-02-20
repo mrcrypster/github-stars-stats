@@ -1,10 +1,10 @@
 # nvim-neotest/neotest - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 41
 
-★ Stars: 1012
+★ Stars: 1014
 
 [Open repository](https://github.com/nvim-neotest/neotest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1014 | 41 | 
 | 2023-02-19 | 1012 | 41 | 
 | 2023-02-17 | 1011 | 41 | 
 | 2023-02-16 | 1010 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 963 | 38 | 
 | 2023-01-22 | 962 | 38 | 
 | 2023-01-21 | 960 | 38 | 
-| 2023-01-20 | 958 | 38 | 
 

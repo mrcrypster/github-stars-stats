@@ -1,8 +1,8 @@
 # altryne/sd-webui-colab - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 60
+☋ Forks: 59
 
 ★ Stars: 478
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 478 | 59 | 
 | 2023-02-18 | 478 | 60 | 
 | 2023-02-17 | 478 | 60 | 
 | 2023-02-16 | 476 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 472 | 59 | 
 | 2023-01-22 | 472 | 59 | 
 | 2023-01-21 | 472 | 59 | 
-| 2023-01-20 | 471 | 59 | 
 

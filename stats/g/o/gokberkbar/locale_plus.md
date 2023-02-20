@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 3
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/gokberkbar/locale_plus)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 180 | 3 | 
+| 2023-02-19 | 181 | 3 | 
 | 2023-02-18 | 179 | 3 | 
 

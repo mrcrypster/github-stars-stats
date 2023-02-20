@@ -1,10 +1,10 @@
 # dotlin-org/dotlin - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 3
 
-★ Stars: 204
+★ Stars: 206
 
 [Open repository](https://github.com/dotlin-org/dotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 206 | 3 | 
 | 2023-02-18 | 204 | 3 | 
 | 2023-02-17 | 204 | 3 | 
 | 2023-02-16 | 204 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 191 | 3 | 
 | 2023-01-22 | 191 | 3 | 
 | 2023-01-21 | 191 | 3 | 
-| 2023-01-20 | 190 | 3 | 
 

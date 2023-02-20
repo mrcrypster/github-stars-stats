@@ -1,10 +1,10 @@
 # phlippe/uvadlc_notebooks - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 335
+☋ Forks: 336
 
-★ Stars: 1168
+★ Stars: 1171
 
 [Open repository](https://github.com/phlippe/uvadlc_notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1171 | 336 | 
 | 2023-02-18 | 1168 | 335 | 
 | 2023-02-17 | 1167 | 335 | 
 | 2023-02-16 | 1165 | 335 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 1107 | 319 | 
 | 2023-01-23 | 1103 | 319 | 
 | 2023-01-22 | 1102 | 319 | 
-| 2023-01-21 | 1100 | 317 | 
 

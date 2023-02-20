@@ -1,8 +1,8 @@
 # LoopKit/LoopWorkspace - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 793
+☋ Forks: 800
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 80 | 800 | 
 | 2023-02-18 | 80 | 793 | 
 | 2023-02-17 | 80 | 786 | 
 | 2023-02-16 | 80 | 780 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 74 | 545 | 
 | 2023-01-22 | 74 | 527 | 
 | 2023-01-21 | 74 | 510 | 
-| 2023-01-20 | 74 | 497 | 
 

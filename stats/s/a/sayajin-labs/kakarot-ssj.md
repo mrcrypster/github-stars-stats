@@ -2,7 +2,7 @@
 
 Stats updated on Feb 2023, 19
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 25
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 25 | 8 | 
+| 2023-02-19 | 25 | 9 | 
 | 2023-02-18 | 24 | 7 | 
 | 2023-02-17 | 18 | 5 | 
 | 2023-02-16 | 18 | 5 | 

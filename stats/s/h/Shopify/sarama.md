@@ -1,10 +1,10 @@
 # Shopify/sarama - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 1612
+☋ Forks: 1613
 
-★ Stars: 9645
+★ Stars: 9649
 
 [Open repository](https://github.com/Shopify/sarama)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 9649 | 1613 | 
 | 2023-02-18 | 9645 | 1612 | 
 | 2023-02-17 | 9640 | 1611 | 
 | 2023-02-16 | 9638 | 1611 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 9558 | 1604 | 
 | 2023-01-22 | 9559 | 1604 | 
 | 2023-01-21 | 9556 | 1604 | 
-| 2023-01-20 | 9553 | 1604 | 
 

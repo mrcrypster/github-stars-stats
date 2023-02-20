@@ -1,6 +1,6 @@
 # davidgiven/cpm65 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 131 | 6 | 
 | 2023-02-19 | 131 | 6 | 
 | 2023-02-17 | 131 | 6 | 
 | 2023-02-16 | 131 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 129 | 5 | 
 | 2023-01-22 | 129 | 5 | 
 | 2023-01-21 | 129 | 5 | 
-| 2023-01-20 | 129 | 5 | 
 

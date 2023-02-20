@@ -1,8 +1,8 @@
 # tutorrdeckk08/ngrok-rdp-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 145
+☋ Forks: 148
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2 | 148 | 
 | 2023-02-18 | 2 | 145 | 
 | 2023-02-17 | 2 | 144 | 
 | 2023-02-16 | 2 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | - | 60 | 
 | 2023-01-22 | - | 59 | 
 | 2023-01-21 | - | 51 | 
-| 2023-01-20 | - | 47 | 
 

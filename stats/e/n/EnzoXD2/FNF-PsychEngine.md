@@ -1,6 +1,6 @@
 # EnzoXD2/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | - | 5 | 
 | 2023-02-18 | - | 5 | 
 | 2023-02-17 | - | 6 | 
 | 2023-02-16 | - | 5 | 

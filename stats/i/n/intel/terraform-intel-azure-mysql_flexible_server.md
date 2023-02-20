@@ -1,10 +1,10 @@
 # intel/terraform-intel-azure-mysql_flexible_server - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/intel/terraform-intel-azure-mysql_flexible_server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 14 | - | 
 | 2023-02-18 | 13 | - | 
 | 2023-02-17 | 13 | - | 
 | 2023-02-16 | 13 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 6 | - | 
 | 2023-01-22 | 6 | - | 
 | 2023-01-21 | 6 | - | 
-| 2023-01-20 | 6 | - | 
 

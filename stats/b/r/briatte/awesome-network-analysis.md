@@ -1,6 +1,6 @@
 # briatte/awesome-network-analysis - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 576
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2955 | 576 | 
 | 2023-02-18 | 2955 | 576 | 
 | 2023-02-17 | 2953 | 576 | 
 | 2023-02-16 | 2951 | 576 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2911 | 578 | 
 | 2023-01-22 | 2910 | 578 | 
 | 2023-01-21 | 2907 | 577 | 
-| 2023-01-20 | 2907 | 577 | 
 

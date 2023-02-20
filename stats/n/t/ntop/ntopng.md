@@ -1,10 +1,10 @@
 # ntop/ntopng - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 595
 
-★ Stars: 5133
+★ Stars: 5135
 
 [Open repository](https://github.com/ntop/ntopng)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5135 | 595 | 
 | 2023-02-18 | 5133 | 595 | 
 | 2023-02-17 | 5131 | 595 | 
 | 2023-02-16 | 5129 | 595 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 5058 | 592 | 
 | 2023-01-22 | 5058 | 591 | 
 | 2023-01-21 | 5055 | 591 | 
-| 2023-01-20 | 5054 | 591 | 
 

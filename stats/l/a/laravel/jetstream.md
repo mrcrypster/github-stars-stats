@@ -1,10 +1,10 @@
 # laravel/jetstream - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 725
 
-★ Stars: 3551
+★ Stars: 3552
 
 [Open repository](https://github.com/laravel/jetstream)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3552 | 725 | 
 | 2023-02-18 | 3551 | 725 | 
 | 2023-02-17 | 3551 | 724 | 
 | 2023-02-16 | 3552 | 724 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3531 | 716 | 
 | 2023-01-22 | 3530 | 716 | 
 | 2023-01-21 | 3529 | 715 | 
-| 2023-01-20 | 3528 | 715 | 
 

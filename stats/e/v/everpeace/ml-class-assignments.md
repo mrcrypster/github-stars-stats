@@ -1,6 +1,6 @@
 # everpeace/ml-class-assignments - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 390
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 424 | 390 | 
 | 2023-02-18 | 424 | 390 | 
 | 2023-02-17 | 424 | 390 | 
 | 2023-02-16 | 424 | 390 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 424 | 389 | 
 | 2023-01-22 | 424 | 389 | 
 | 2023-01-21 | 424 | 389 | 
-| 2023-01-20 | 424 | 389 | 
 

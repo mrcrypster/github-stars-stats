@@ -1,8 +1,8 @@
 # CinemaPress/CinemaPress - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 70
+☋ Forks: 71
 
 ★ Stars: 155
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 155 | 71 | 
 | 2023-02-18 | 155 | 70 | 
 | 2023-02-17 | 155 | 70 | 
 | 2023-02-16 | 155 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 154 | 69 | 
 | 2023-01-22 | 154 | 69 | 
 | 2023-01-21 | 154 | 69 | 
-| 2023-01-20 | 154 | 69 | 
 

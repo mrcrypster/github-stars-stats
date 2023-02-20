@@ -1,6 +1,6 @@
 # JuliaNLSolvers/Optim.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 929 | 202 | 
 | 2023-02-18 | 929 | 202 | 
 | 2023-02-17 | 928 | 202 | 
 | 2023-02-16 | 926 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 918 | 201 | 
 | 2023-01-22 | 917 | 201 | 
 | 2023-01-21 | 917 | 201 | 
-| 2023-01-20 | 917 | 201 | 
 

@@ -1,10 +1,10 @@
 # soniaai/rules_poetry - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 16
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/soniaai/rules_poetry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 62 | 16 | 
 | 2023-02-18 | 61 | 16 | 
 | 2023-02-17 | 61 | 16 | 
 | 2023-02-16 | 61 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 59 | 15 | 
 | 2023-01-22 | 59 | 15 | 
 | 2023-01-21 | 59 | 15 | 
-| 2023-01-20 | 59 | 15 | 
 

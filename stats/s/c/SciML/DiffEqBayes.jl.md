@@ -1,6 +1,6 @@
 # SciML/DiffEqBayes.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 115 | 25 | 
 | 2023-02-18 | 115 | 25 | 
 | 2023-02-17 | 115 | 25 | 
 | 2023-02-16 | 115 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 114 | 25 | 
 | 2023-01-23 | 114 | 25 | 
 | 2023-01-22 | 114 | 25 | 
-| 2023-01-20 | 114 | 25 | 
 

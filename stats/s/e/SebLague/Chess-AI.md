@@ -1,10 +1,10 @@
 # SebLague/Chess-AI - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 221
 
-★ Stars: 1036
+★ Stars: 1037
 
 [Open repository](https://github.com/SebLague/Chess-AI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1037 | 221 | 
 | 2023-02-18 | 1036 | 221 | 
 | 2023-02-17 | 1034 | 221 | 
 | 2023-02-16 | 1034 | 220 | 

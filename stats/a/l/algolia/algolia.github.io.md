@@ -1,6 +1,6 @@
 # algolia/algolia.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 12 | 7 | 
 | 2023-02-18 | 12 | 7 | 
 | 2023-02-17 | 12 | 7 | 
 | 2023-02-16 | 12 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 12 | 7 | 
 | 2023-01-23 | 12 | 7 | 
 | 2023-01-22 | 12 | 7 | 
-| 2023-01-21 | 12 | 7 | 
 

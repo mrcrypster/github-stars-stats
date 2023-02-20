@@ -1,10 +1,10 @@
 # nodemcu/nodemcu-devkit-v1.0 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 384
 
-★ Stars: 1304
+★ Stars: 1305
 
 [Open repository](https://github.com/nodemcu/nodemcu-devkit-v1.0)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1305 | 384 | 
 | 2023-02-18 | 1304 | 384 | 
 | 2023-02-17 | 1304 | 384 | 
 | 2023-02-16 | 1303 | 384 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1302 | 382 | 
 | 2023-01-22 | 1302 | 382 | 
 | 2023-01-21 | 1302 | 382 | 
-| 2023-01-20 | 1302 | 382 | 
 

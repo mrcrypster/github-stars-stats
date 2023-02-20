@@ -1,10 +1,10 @@
 # VerifyTests/Verify - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 101
+☋ Forks: 102
 
-★ Stars: 1826
+★ Stars: 1828
 
 [Open repository](https://github.com/VerifyTests/Verify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1828 | 102 | 
 | 2023-02-18 | 1826 | 101 | 
 | 2023-02-17 | 1825 | 101 | 
 | 2023-02-16 | 1825 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1796 | 97 | 
 | 2023-01-22 | 1795 | 97 | 
 | 2023-01-21 | 1794 | 97 | 
-| 2023-01-20 | 1794 | 97 | 
 

@@ -1,10 +1,10 @@
 # jsuarezruiz/AlohaKit - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 32
 
-★ Stars: 297
+★ Stars: 298
 
 [Open repository](https://github.com/jsuarezruiz/AlohaKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 298 | 32 | 
 | 2023-02-18 | 297 | 32 | 
 | 2023-02-17 | 295 | 31 | 
 | 2023-02-16 | 293 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 281 | 30 | 
 | 2023-01-22 | 281 | 30 | 
 | 2023-01-21 | 281 | 30 | 
-| 2023-01-20 | 281 | 30 | 
 

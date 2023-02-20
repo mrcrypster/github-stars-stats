@@ -1,10 +1,10 @@
 # markiv/SwiftUI-Shimmer - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 26
 
-★ Stars: 441
+★ Stars: 443
 
 [Open repository](https://github.com/markiv/SwiftUI-Shimmer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 443 | 26 | 
 | 2023-02-18 | 441 | 26 | 
 | 2023-02-17 | 439 | 26 | 
 | 2023-02-16 | 439 | 25 | 

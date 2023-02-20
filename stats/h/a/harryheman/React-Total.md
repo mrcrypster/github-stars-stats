@@ -1,6 +1,6 @@
 # harryheman/React-Total - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 489
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2003 | 489 | 
 | 2023-02-18 | 2003 | 489 | 
 | 2023-02-17 | 2003 | 489 | 
 | 2023-02-16 | 2005 | 487 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1996 | 477 | 
 | 2023-01-22 | 1995 | 477 | 
 | 2023-01-21 | 1995 | 477 | 
-| 2023-01-20 | 1991 | 476 | 
 

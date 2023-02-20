@@ -1,6 +1,6 @@
 # lightvue/lightvue - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 87 | 39 | 
 | 2023-02-18 | 87 | 39 | 
 | 2023-02-17 | 87 | 39 | 
 | 2023-02-16 | 85 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 82 | 40 | 
 | 2023-01-23 | 82 | 40 | 
 | 2023-01-22 | 82 | 40 | 
-| 2023-01-20 | 82 | 40 | 
 

@@ -1,10 +1,10 @@
 # SoftDAO/contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/SoftDAO/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 33 | 2 | 
 | 2023-02-18 | 32 | 2 | 
 | 2023-02-17 | 32 | 2 | 
 | 2023-02-16 | 32 | 2 | 

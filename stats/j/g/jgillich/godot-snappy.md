@@ -1,10 +1,10 @@
 # jgillich/godot-snappy - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/jgillich/godot-snappy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 29 | 3 | 
 | 2023-02-18 | 28 | 3 | 
 | 2023-02-17 | 28 | 3 | 
 | 2023-02-16 | 28 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 25 | 3 | 
 | 2023-01-23 | 25 | 3 | 
 | 2023-01-22 | 25 | 3 | 
-| 2023-01-20 | 25 | 3 | 
 

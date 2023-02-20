@@ -1,10 +1,10 @@
 # jofrfu/tinyTPU - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 55
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/jofrfu/tinyTPU)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 253 | 55 | 
 | 2023-02-18 | 252 | 55 | 
 | 2023-02-17 | 252 | 55 | 
 | 2023-02-16 | 252 | 55 | 

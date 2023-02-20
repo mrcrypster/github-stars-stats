@@ -1,10 +1,10 @@
 # openmainframeproject/cobol-programming-course - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 512
+☋ Forks: 513
 
-★ Stars: 2419
+★ Stars: 2421
 
 [Open repository](https://github.com/openmainframeproject/cobol-programming-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2421 | 513 | 
 | 2023-02-18 | 2419 | 512 | 
 | 2023-02-17 | 2419 | 513 | 
 | 2023-02-16 | 2419 | 513 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2394 | 508 | 
 | 2023-01-22 | 2394 | 508 | 
 | 2023-01-21 | 2393 | 507 | 
-| 2023-01-20 | 2393 | 507 | 
 

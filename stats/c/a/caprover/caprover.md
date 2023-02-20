@@ -1,10 +1,10 @@
 # caprover/caprover - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 670
 
-★ Stars: 9918
+★ Stars: 9919
 
 [Open repository](https://github.com/caprover/caprover)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 9919 | 670 | 
 | 2023-02-18 | 9918 | 670 | 
 | 2023-02-17 | 9915 | 670 | 
 | 2023-02-16 | 9911 | 672 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 9823 | 667 | 
 | 2023-01-22 | 9820 | 668 | 
 | 2023-01-21 | 9819 | 669 | 
-| 2023-01-20 | 9816 | 669 | 
 

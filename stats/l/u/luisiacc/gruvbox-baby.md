@@ -1,10 +1,10 @@
 # luisiacc/gruvbox-baby - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 21
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/luisiacc/gruvbox-baby)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 237 | 21 | 
 | 2023-02-18 | 236 | 21 | 
 | 2023-02-17 | 236 | 21 | 
 | 2023-02-16 | 236 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 227 | 21 | 
 | 2023-01-22 | 227 | 21 | 
 | 2023-01-21 | 227 | 21 | 
-| 2023-01-20 | 228 | 20 | 
 

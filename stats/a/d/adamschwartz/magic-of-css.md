@@ -1,10 +1,10 @@
 # adamschwartz/magic-of-css - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 381
 
-★ Stars: 6238
+★ Stars: 6240
 
 [Open repository](https://github.com/adamschwartz/magic-of-css)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 6240 | 381 | 
 | 2023-02-18 | 6238 | 381 | 
 | 2023-02-17 | 6238 | 381 | 
 | 2023-02-16 | 6237 | 381 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 6208 | 379 | 
 | 2023-01-22 | 6195 | 378 | 
 | 2023-01-21 | 6193 | 378 | 
-| 2023-01-20 | 6175 | 378 | 
 

@@ -1,10 +1,10 @@
 # MediaBrowser/Emby.Releases - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 102
 
-★ Stars: 710
+★ Stars: 711
 
 [Open repository](https://github.com/MediaBrowser/Emby.Releases)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 711 | 102 | 
 | 2023-02-18 | 710 | 102 | 
 | 2023-02-17 | 710 | 101 | 
 | 2023-02-16 | 709 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 694 | 101 | 
 | 2023-01-23 | 693 | 101 | 
 | 2023-01-21 | 693 | 101 | 
-| 2023-01-20 | 693 | 101 | 
 

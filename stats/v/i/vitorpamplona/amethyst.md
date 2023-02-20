@@ -1,10 +1,10 @@
 # vitorpamplona/amethyst - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 45
 
-★ Stars: 504
+★ Stars: 507
 
 [Open repository](https://github.com/vitorpamplona/amethyst)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 507 | 45 | 
 | 2023-02-18 | 504 | 45 | 
 | 2023-02-17 | 502 | 45 | 
 | 2023-02-16 | 489 | 43 | 

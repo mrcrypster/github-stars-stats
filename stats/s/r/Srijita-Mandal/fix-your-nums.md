@@ -1,10 +1,10 @@
 # Srijita-Mandal/fix-your-nums - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 32
+☋ Forks: 39
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Srijita-Mandal/fix-your-nums)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 18 | 39 | 
 | 2023-02-18 | 17 | 32 | 
 | 2023-02-17 | 17 | 32 | 
 | 2023-02-16 | 16 | 28 | 

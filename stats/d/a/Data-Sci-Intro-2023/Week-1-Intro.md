@@ -1,6 +1,6 @@
 # Data-Sci-Intro-2023/Week-1-Intro - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | - | 8 | 
 | 2023-02-19 | - | 8 | 
 | 2023-02-17 | - | 8 | 
 | 2023-02-16 | - | 8 | 

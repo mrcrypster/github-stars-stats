@@ -1,6 +1,6 @@
 # foone/BRender-1997 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 129 | 12 | 
 | 2023-02-18 | 129 | 12 | 
 | 2023-02-17 | 129 | 12 | 
 | 2023-02-16 | 129 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 128 | 12 | 
 | 2023-01-23 | 128 | 12 | 
 | 2023-01-22 | 127 | 12 | 
-| 2023-01-21 | 127 | 12 | 
 

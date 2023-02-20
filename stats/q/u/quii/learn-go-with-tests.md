@@ -1,10 +1,10 @@
 # quii/learn-go-with-tests - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 2533
 
-★ Stars: 19223
+★ Stars: 19227
 
 [Open repository](https://github.com/quii/learn-go-with-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 19227 | 2533 | 
 | 2023-02-18 | 19223 | 2533 | 
 | 2023-02-17 | 19222 | 2534 | 
 | 2023-02-16 | 19218 | 2533 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 19060 | 2515 | 
 | 2023-01-23 | 19058 | 2517 | 
 | 2023-01-22 | 19056 | 2515 | 
-| 2023-01-21 | 19054 | 2515 | 
 

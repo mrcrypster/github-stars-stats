@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 221
 
-★ Stars: 599
+★ Stars: 600
 
 [Open repository](https://github.com/dotnet/performance)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 599 | 221 | 
+| 2023-02-19 | 600 | 221 | 
 | 2023-02-18 | 599 | 221 | 
 | 2023-02-17 | 599 | 221 | 
 | 2023-02-16 | 599 | 220 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 592 | 219 | 
 | 2023-01-22 | 591 | 219 | 
 | 2023-01-21 | 591 | 219 | 
-| 2023-01-20 | 590 | 219 | 
 

@@ -1,10 +1,10 @@
 # kviks/Psych-Engine-Android - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 286
+☋ Forks: 287
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/kviks/Psych-Engine-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 52 | 287 | 
 | 2023-02-18 | 51 | 286 | 
 | 2023-02-17 | 51 | 286 | 
 | 2023-02-16 | 51 | 286 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 51 | 280 | 
 | 2023-01-23 | 51 | 279 | 
 | 2023-01-22 | 51 | 279 | 
-| 2023-01-21 | 51 | 279 | 
 

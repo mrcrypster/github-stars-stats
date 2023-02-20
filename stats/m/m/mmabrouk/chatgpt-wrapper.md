@@ -1,10 +1,10 @@
 # mmabrouk/chatgpt-wrapper - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 165
+☋ Forks: 171
 
-★ Stars: 1581
+★ Stars: 1618
 
 [Open repository](https://github.com/mmabrouk/chatgpt-wrapper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1618 | 171 | 
 | 2023-02-18 | 1581 | 165 | 
 | 2023-02-17 | 1541 | 161 | 
 | 2023-02-16 | 1504 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 936 | 89 | 
 | 2023-01-23 | 926 | 88 | 
 | 2023-01-21 | 908 | 89 | 
-| 2023-01-20 | 886 | 85 | 
 

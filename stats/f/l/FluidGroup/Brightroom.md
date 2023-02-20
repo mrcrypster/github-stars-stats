@@ -1,6 +1,6 @@
 # FluidGroup/Brightroom - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2834 | 264 | 
 | 2023-02-18 | 2834 | 264 | 
 | 2023-02-17 | 2834 | 264 | 
 | 2023-02-16 | 2834 | 264 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2819 | 259 | 
 | 2023-01-22 | 2819 | 259 | 
 | 2023-01-21 | 2819 | 259 | 
-| 2023-01-20 | 2819 | 259 | 
 

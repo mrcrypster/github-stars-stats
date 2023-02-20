@@ -1,6 +1,6 @@
 # bxiao5050/HT-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 90 | 26 | 
 | 2023-02-18 | 90 | 26 | 
 | 2023-02-17 | 90 | 26 | 
 | 2023-02-16 | 90 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 90 | 26 | 
 | 2023-01-22 | 90 | 26 | 
 | 2023-01-21 | 90 | 26 | 
-| 2023-01-20 | 90 | 26 | 
 

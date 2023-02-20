@@ -1,10 +1,10 @@
 # t3l3machus/toxssin - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 112
 
-★ Stars: 731
+★ Stars: 733
 
 [Open repository](https://github.com/t3l3machus/toxssin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 733 | 112 | 
 | 2023-02-18 | 731 | 112 | 
 | 2023-02-17 | 731 | 112 | 
 | 2023-02-16 | 730 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 712 | 108 | 
 | 2023-01-23 | 710 | 108 | 
 | 2023-01-22 | 710 | 108 | 
-| 2023-01-21 | 708 | 108 | 
 

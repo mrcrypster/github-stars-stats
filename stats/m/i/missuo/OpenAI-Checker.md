@@ -1,10 +1,10 @@
 # missuo/OpenAI-Checker - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 167
+★ Stars: 170
 
 [Open repository](https://github.com/missuo/OpenAI-Checker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 170 | 17 | 
 | 2023-02-18 | 167 | 16 | 
 | 2023-02-17 | 165 | 16 | 
 | 2023-02-16 | 160 | 15 | 

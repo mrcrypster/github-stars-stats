@@ -1,10 +1,10 @@
 # mektigboy/huffing-ethernaut - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/mektigboy/huffing-ethernaut)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 21 | 2 | 
 | 2023-02-18 | 20 | 2 | 
 | 2023-02-17 | 20 | 2 | 
 | 2023-02-16 | 20 | 2 | 

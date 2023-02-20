@@ -1,6 +1,6 @@
 # OpenLightingProject/open-fixture-library - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 123 | 42 | 
 | 2023-02-18 | 123 | 42 | 
 | 2023-02-17 | 123 | 42 | 
 | 2023-02-16 | 123 | 42 | 

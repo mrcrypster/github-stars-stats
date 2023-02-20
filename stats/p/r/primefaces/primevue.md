@@ -1,6 +1,6 @@
 # primefaces/primevue - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 654
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3339 | 654 | 
 | 2023-02-18 | 3339 | 654 | 
 | 2023-02-17 | 3332 | 654 | 
 | 2023-02-16 | 3330 | 654 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3253 | 629 | 
 | 2023-01-22 | 3252 | 629 | 
 | 2023-01-21 | 3250 | 629 | 
-| 2023-01-20 | 3250 | 629 | 
 

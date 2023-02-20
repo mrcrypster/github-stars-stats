@@ -1,6 +1,6 @@
 # fusioninventory/fusioninventory-agent - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 242 | 126 | 
 | 2023-02-18 | 242 | 126 | 
 | 2023-02-17 | 242 | 126 | 
 | 2023-02-16 | 242 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 238 | 127 | 
 | 2023-01-22 | 238 | 127 | 
 | 2023-01-21 | 238 | 127 | 
-| 2023-01-20 | 238 | 127 | 
 

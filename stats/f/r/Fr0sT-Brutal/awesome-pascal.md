@@ -1,6 +1,6 @@
 # Fr0sT-Brutal/awesome-pascal - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1480 | 312 | 
 | 2023-02-18 | 1480 | 312 | 
 | 2023-02-17 | 1480 | 312 | 
 | 2023-02-16 | 1477 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1458 | 310 | 
 | 2023-01-22 | 1457 | 310 | 
 | 2023-01-21 | 1457 | 310 | 
-| 2023-01-20 | 1456 | 310 | 
 

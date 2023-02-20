@@ -1,6 +1,6 @@
 # ElementaryLewis/Witcher-3-Next-Gen-Changelog - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8 | - | 
 | 2023-02-18 | 8 | - | 
 | 2023-02-17 | 7 | - | 
 | 2023-02-16 | 7 | - | 

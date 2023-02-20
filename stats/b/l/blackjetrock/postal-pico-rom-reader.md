@@ -1,6 +1,6 @@
 # blackjetrock/postal-pico-rom-reader - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 24 | 4 | 
 | 2023-02-19 | 24 | 4 | 
 | 2023-02-17 | 24 | 4 | 
 | 2023-02-16 | 24 | 4 | 

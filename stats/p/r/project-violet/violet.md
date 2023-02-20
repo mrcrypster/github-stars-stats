@@ -1,10 +1,10 @@
 # project-violet/violet - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 33
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/project-violet/violet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 295 | 33 | 
 | 2023-02-18 | 294 | 33 | 
 | 2023-02-17 | 294 | 33 | 
 | 2023-02-16 | 294 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 288 | 33 | 
 | 2023-01-22 | 288 | 34 | 
 | 2023-01-21 | 287 | 34 | 
-| 2023-01-20 | 287 | 34 | 
 

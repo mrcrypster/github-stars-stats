@@ -1,6 +1,6 @@
 # Olde-Skuul/doom3do - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 955 | 121 | 
 | 2023-02-18 | 955 | 121 | 
 | 2023-02-17 | 955 | 121 | 
 | 2023-02-16 | 955 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 940 | 120 | 
 | 2023-01-22 | 940 | 120 | 
 | 2023-01-21 | 940 | 120 | 
-| 2023-01-20 | 939 | 120 | 
 

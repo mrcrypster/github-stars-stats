@@ -1,6 +1,6 @@
 # cj-holmes/scanline - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 28 | - | 
 | 2023-02-18 | 28 | - | 
 | 2023-02-17 | 28 | - | 
 | 2023-02-16 | 28 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 26 | - | 
 | 2023-01-23 | 26 | - | 
 | 2023-01-21 | 26 | - | 
-| 2023-01-20 | 26 | - | 
 

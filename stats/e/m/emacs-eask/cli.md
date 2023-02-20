@@ -1,10 +1,10 @@
 # emacs-eask/cli - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 7
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/emacs-eask/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 58 | 7 | 
 | 2023-02-18 | 57 | 7 | 
 | 2023-02-17 | 57 | 7 | 
 | 2023-02-16 | 57 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 54 | 7 | 
 | 2023-01-22 | 54 | 7 | 
 | 2023-01-21 | 54 | 7 | 
-| 2023-01-20 | 54 | 7 | 
 

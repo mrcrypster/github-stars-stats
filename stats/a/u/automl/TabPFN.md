@@ -1,6 +1,6 @@
 # automl/TabPFN - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 691 | 49 | 
 | 2023-02-18 | 691 | 49 | 
 | 2023-02-17 | 691 | 49 | 
 | 2023-02-15 | 688 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 678 | 49 | 
 | 2023-01-22 | 678 | 49 | 
 | 2023-01-21 | 678 | 49 | 
-| 2023-01-20 | 677 | 49 | 
 

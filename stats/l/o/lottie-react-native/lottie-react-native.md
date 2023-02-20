@@ -1,10 +1,10 @@
 # lottie-react-native/lottie-react-native - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 1752
 
-★ Stars: 15686
+★ Stars: 15690
 
 [Open repository](https://github.com/lottie-react-native/lottie-react-native)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 15690 | 1752 | 
 | 2023-02-18 | 15686 | 1752 | 
 | 2023-02-17 | 15686 | 1752 | 
 | 2023-02-16 | 15684 | 1752 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 15633 | 1743 | 
 | 2023-01-22 | 15631 | 1743 | 
 | 2023-01-21 | 15628 | 1743 | 
-| 2023-01-20 | 15628 | 1743 | 
 

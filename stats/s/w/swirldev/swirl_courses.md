@@ -1,6 +1,6 @@
 # swirldev/swirl_courses - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 7188
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4025 | 7188 | 
 | 2023-02-18 | 4025 | 7188 | 
 | 2023-02-17 | 4025 | 7187 | 
 | 2023-02-16 | 4024 | 7187 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4001 | 7183 | 
 | 2023-01-22 | 4001 | 7182 | 
 | 2023-01-21 | 4000 | 7183 | 
-| 2023-01-20 | 4000 | 7183 | 
 

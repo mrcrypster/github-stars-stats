@@ -1,10 +1,10 @@
 # Daniel09Fernandes/ComponentDinosOffice-OpenOffice - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 5
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/Daniel09Fernandes/ComponentDinosOffice-OpenOffice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 40 | 5 | 
 | 2023-02-18 | 38 | 5 | 
 | 2023-02-17 | 37 | 5 | 
 

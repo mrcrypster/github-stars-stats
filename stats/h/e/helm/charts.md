@@ -1,8 +1,8 @@
 # helm/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 17215
+☋ Forks: 17217
 
 ★ Stars: 15469
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 15469 | 17217 | 
 | 2023-02-18 | 15469 | 17215 | 
 | 2023-02-17 | 15468 | 17216 | 
 | 2023-02-16 | 15469 | 17217 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 15470 | 17229 | 
 | 2023-01-22 | 15469 | 17231 | 
 | 2023-01-21 | 15469 | 17233 | 
-| 2023-01-20 | 15469 | 17232 | 
 

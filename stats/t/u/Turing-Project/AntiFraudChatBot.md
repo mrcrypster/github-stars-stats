@@ -1,8 +1,8 @@
 # Turing-Project/AntiFraudChatBot - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 404
+☋ Forks: 405
 
 ★ Stars: 2008
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2008 | 405 | 
 | 2023-02-18 | 2008 | 404 | 
 | 2023-02-17 | 2008 | 404 | 
 | 2023-02-16 | 2008 | 403 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1837 | 371 | 
 | 2023-01-22 | 1832 | 371 | 
 | 2023-01-21 | 1828 | 369 | 
-| 2023-01-20 | 1821 | 368 | 
 

@@ -1,10 +1,10 @@
 # RikkaApps/Shizuku - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 274
 
-★ Stars: 3339
+★ Stars: 3345
 
 [Open repository](https://github.com/RikkaApps/Shizuku)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3345 | 274 | 
 | 2023-02-18 | 3339 | 274 | 
 | 2023-02-17 | 3336 | 274 | 
 | 2023-02-16 | 3326 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3131 | 269 | 
 | 2023-01-22 | 3126 | 269 | 
 | 2023-01-21 | 3119 | 269 | 
-| 2023-01-20 | 3116 | 269 | 
 

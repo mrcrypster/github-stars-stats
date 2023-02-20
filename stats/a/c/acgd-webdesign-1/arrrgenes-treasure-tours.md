@@ -1,6 +1,6 @@
 # acgd-webdesign-1/arrrgenes-treasure-tours - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | - | 144 | 
 | 2023-02-18 | - | 144 | 
 | 2023-02-17 | - | 144 | 
 | 2023-02-16 | - | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | - | 145 | 
 | 2023-01-22 | - | 145 | 
 | 2023-01-21 | - | 145 | 
-| 2023-01-20 | - | 145 | 
 

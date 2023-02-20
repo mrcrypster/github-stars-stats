@@ -1,10 +1,10 @@
 # riscv/riscv-isa-manual - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 450
 
-★ Stars: 2443
+★ Stars: 2445
 
 [Open repository](https://github.com/riscv/riscv-isa-manual)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2445 | 450 | 
 | 2023-02-18 | 2443 | 450 | 
 | 2023-02-17 | 2443 | 450 | 
 | 2023-02-16 | 2442 | 449 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2408 | 449 | 
 | 2023-01-22 | 2408 | 449 | 
 | 2023-01-21 | 2408 | 449 | 
-| 2023-01-20 | 2406 | 448 | 
 

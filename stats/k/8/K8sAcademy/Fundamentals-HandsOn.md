@@ -1,10 +1,10 @@
 # K8sAcademy/Fundamentals-HandsOn - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 197
 
-★ Stars: 211
+★ Stars: 213
 
 [Open repository](https://github.com/K8sAcademy/Fundamentals-HandsOn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 213 | 197 | 
 | 2023-02-18 | 211 | 197 | 
 | 2023-02-17 | 209 | 196 | 
 | 2023-02-16 | 209 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 191 | 161 | 
 | 2023-01-22 | 190 | 158 | 
 | 2023-01-21 | 188 | 156 | 
-| 2023-01-20 | 187 | 155 | 
 

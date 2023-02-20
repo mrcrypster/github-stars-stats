@@ -1,10 +1,10 @@
 # trimstray/the-practical-linux-hardening-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 575
+☋ Forks: 576
 
-★ Stars: 9281
+★ Stars: 9286
 
 [Open repository](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 9286 | 576 | 
 | 2023-02-18 | 9281 | 575 | 
 | 2023-02-17 | 9280 | 575 | 
 

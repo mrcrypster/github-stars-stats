@@ -1,6 +1,6 @@
 # tloncorp/landscape - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8 | 3 | 
 | 2023-02-18 | 8 | 3 | 
 | 2023-02-17 | 8 | 3 | 
 | 2023-02-16 | 8 | 3 | 

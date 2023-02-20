@@ -1,6 +1,6 @@
 # rmagatti/auto-session - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 687 | 31 | 
 | 2023-02-18 | 687 | 31 | 
 | 2023-02-17 | 685 | 31 | 
 | 2023-02-16 | 684 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 669 | 31 | 
 | 2023-01-23 | 668 | 31 | 
 | 2023-01-22 | 667 | 31 | 
-| 2023-01-20 | 667 | 31 | 
 

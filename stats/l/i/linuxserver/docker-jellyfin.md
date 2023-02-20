@@ -1,6 +1,6 @@
 # linuxserver/docker-jellyfin - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 414 | 72 | 
 | 2023-02-18 | 414 | 72 | 
 | 2023-02-17 | 415 | 72 | 
 | 2023-02-16 | 414 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 406 | 71 | 
 | 2023-01-22 | 406 | 71 | 
 | 2023-01-21 | 406 | 71 | 
-| 2023-01-20 | 405 | 71 | 
 

@@ -1,6 +1,6 @@
 # BLAKE3-team/BLAKE3 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3807 | 241 | 
 | 2023-02-18 | 3807 | 241 | 
 | 2023-02-17 | 3805 | 240 | 
 | 2023-02-16 | 3800 | 240 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3755 | 234 | 
 | 2023-01-22 | 3755 | 234 | 
 | 2023-01-21 | 3752 | 234 | 
-| 2023-01-20 | 3751 | 234 | 
 

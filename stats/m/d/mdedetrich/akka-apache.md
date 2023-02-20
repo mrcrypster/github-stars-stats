@@ -1,6 +1,6 @@
 # mdedetrich/akka-apache - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 44 | 3 | 
 | 2023-02-19 | 44 | 3 | 
 | 2023-02-17 | 44 | 3 | 
 | 2023-02-16 | 44 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 43 | 3 | 
 | 2023-01-22 | 43 | 3 | 
 | 2023-01-21 | 43 | 3 | 
-| 2023-01-20 | 43 | 3 | 
 

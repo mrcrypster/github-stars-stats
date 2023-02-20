@@ -1,10 +1,10 @@
 # academind/react-complete-guide-code - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 11571
+☋ Forks: 11598
 
-★ Stars: 4770
+★ Stars: 4785
 
 [Open repository](https://github.com/academind/react-complete-guide-code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4785 | 11598 | 
 | 2023-02-18 | 4770 | 11571 | 
 | 2023-02-17 | 4760 | 11561 | 
 | 2023-02-16 | 4759 | 11541 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4608 | 11162 | 
 | 2023-01-22 | 4602 | 11150 | 
 | 2023-01-21 | 4598 | 11137 | 
-| 2023-01-20 | 4598 | 11126 | 
 

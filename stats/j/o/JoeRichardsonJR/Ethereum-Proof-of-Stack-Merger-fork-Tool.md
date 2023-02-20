@@ -1,6 +1,6 @@
 # JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 9 | 50 | 
 | 2023-02-18 | 9 | 50 | 
 | 2023-02-17 | 9 | 50 | 
 | 2023-02-16 | 9 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 51 | 50 | 
 | 2023-01-22 | 51 | 50 | 
 | 2023-01-21 | 51 | 50 | 
-| 2023-01-20 | 51 | 50 | 
 

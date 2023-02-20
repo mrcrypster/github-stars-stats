@@ -1,6 +1,6 @@
 # pvolok/mprocs - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 610 | 22 | 
 | 2023-02-18 | 610 | 22 | 
 | 2023-02-17 | 607 | 21 | 
 | 2023-02-16 | 607 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 602 | 20 | 
 | 2023-01-22 | 602 | 20 | 
 | 2023-01-21 | 600 | 20 | 
-| 2023-01-20 | 600 | 20 | 
 

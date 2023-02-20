@@ -1,6 +1,6 @@
 # yz-intelligence/WeiyingCloud - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 34 | 1 | 
 | 2023-02-18 | 34 | 1 | 
 | 2023-02-17 | 34 | 1 | 
 | 2023-02-16 | 34 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 34 | 1 | 
 | 2023-01-23 | 34 | 1 | 
 | 2023-01-22 | 34 | 1 | 
-| 2023-01-21 | 34 | 1 | 
 

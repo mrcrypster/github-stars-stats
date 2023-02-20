@@ -1,10 +1,10 @@
 # ui-buttons/core - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 214
 
-★ Stars: 2864
+★ Stars: 2865
 
 [Open repository](https://github.com/ui-buttons/core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2865 | 214 | 
 | 2023-02-18 | 2864 | 214 | 
 | 2023-02-17 | 2864 | 214 | 
 | 2023-02-16 | 2863 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2791 | 208 | 
 | 2023-01-22 | 2790 | 208 | 
 | 2023-01-21 | 2789 | 208 | 
-| 2023-01-20 | 2789 | 208 | 
 

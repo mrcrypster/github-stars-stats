@@ -1,10 +1,10 @@
 # adrianhajdin/project_fitness_app - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 222
+☋ Forks: 224
 
-★ Stars: 692
+★ Stars: 694
 
 [Open repository](https://github.com/adrianhajdin/project_fitness_app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 694 | 224 | 
 | 2023-02-18 | 692 | 222 | 
 | 2023-02-17 | 688 | 222 | 
 | 2023-02-16 | 688 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 652 | 208 | 
 | 2023-01-22 | 650 | 206 | 
 | 2023-01-21 | 649 | 205 | 
-| 2023-01-20 | 647 | 203 | 
 

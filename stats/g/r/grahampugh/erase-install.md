@@ -1,10 +1,10 @@
 # grahampugh/erase-install - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 109
+☋ Forks: 108
 
-★ Stars: 600
+★ Stars: 601
 
 [Open repository](https://github.com/grahampugh/erase-install)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 601 | 108 | 
 | 2023-02-18 | 600 | 109 | 
 | 2023-02-17 | 600 | 109 | 
 | 2023-02-16 | 599 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 571 | 103 | 
 | 2023-01-22 | 571 | 103 | 
 | 2023-01-21 | 571 | 103 | 
-| 2023-01-20 | 571 | 102 | 
 

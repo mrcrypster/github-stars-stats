@@ -1,10 +1,10 @@
 # aardappel/treesheets - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 171
 
-★ Stars: 2133
+★ Stars: 2134
 
 [Open repository](https://github.com/aardappel/treesheets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2134 | 171 | 
 | 2023-02-18 | 2133 | 171 | 
 | 2023-02-17 | 2133 | 171 | 
 | 2023-02-16 | 2131 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 2106 | 169 | 
 | 2023-01-23 | 2105 | 169 | 
 | 2023-01-22 | 2103 | 170 | 
-| 2023-01-21 | 2103 | 170 | 
 

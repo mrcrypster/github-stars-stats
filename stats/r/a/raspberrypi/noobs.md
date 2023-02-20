@@ -1,6 +1,6 @@
 # raspberrypi/noobs - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 447
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2172 | 447 | 
 | 2023-02-18 | 2172 | 447 | 
 | 2023-02-17 | 2171 | 447 | 
 | 2023-02-16 | 2171 | 447 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2165 | 450 | 
 | 2023-01-22 | 2165 | 450 | 
 | 2023-01-21 | 2164 | 450 | 
-| 2023-01-20 | 2164 | 450 | 
 

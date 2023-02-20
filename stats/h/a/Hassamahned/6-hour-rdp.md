@@ -1,6 +1,6 @@
 # Hassamahned/6-hour-rdp - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | - | 30 | 
 | 2023-02-18 | - | 30 | 
 | 2023-02-17 | - | 30 | 
 | 2023-02-16 | - | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | - | 23 | 
 | 2023-01-22 | - | 22 | 
 | 2023-01-21 | - | 21 | 
-| 2023-01-20 | - | 20 | 
 

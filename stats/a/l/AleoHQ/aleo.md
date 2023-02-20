@@ -1,10 +1,10 @@
 # AleoHQ/aleo - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 273
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/AleoHQ/aleo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 287 | 273 | 
 | 2023-02-18 | 286 | 273 | 
 | 2023-02-17 | 286 | 273 | 
 | 2023-02-16 | 285 | 272 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 281 | 251 | 
 | 2023-01-22 | 280 | 250 | 
 | 2023-01-21 | 277 | 250 | 
-| 2023-01-20 | 277 | 250 | 
 

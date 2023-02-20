@@ -1,10 +1,10 @@
 # Mayyhem/SharpSCCM - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 29
 
-★ Stars: 239
+★ Stars: 250
 
 [Open repository](https://github.com/Mayyhem/SharpSCCM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 250 | 29 | 
 | 2023-02-18 | 239 | 29 | 
 | 2023-02-17 | 230 | 29 | 
 | 2023-02-16 | 229 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 221 | 29 | 
 | 2023-01-22 | 221 | 29 | 
 | 2023-01-21 | 221 | 29 | 
-| 2023-01-20 | 221 | 29 | 
 

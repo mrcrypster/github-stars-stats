@@ -1,10 +1,10 @@
 # JuliaDebug/Cthulhu.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 32
 
-★ Stars: 397
+★ Stars: 398
 
 [Open repository](https://github.com/JuliaDebug/Cthulhu.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 398 | 32 | 
 | 2023-02-18 | 397 | 32 | 
 | 2023-02-17 | 398 | 32 | 
 | 2023-02-16 | 398 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 396 | 32 | 
 | 2023-01-22 | 396 | 32 | 
 | 2023-01-21 | 395 | 32 | 
-| 2023-01-20 | 395 | 32 | 
 

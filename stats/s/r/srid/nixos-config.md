@@ -1,10 +1,10 @@
 # srid/nixos-config - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 10
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/srid/nixos-config)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 168 | 10 | 
 | 2023-02-18 | 167 | 10 | 
 | 2023-02-17 | 167 | 10 | 
 | 2023-02-16 | 167 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 163 | 9 | 
 | 2023-01-23 | 163 | 9 | 
 | 2023-01-22 | 162 | 9 | 
-| 2023-01-21 | 162 | 9 | 
 

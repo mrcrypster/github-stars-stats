@@ -1,10 +1,10 @@
 # lewis6991/spellsitter.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 25
 
-★ Stars: 434
+★ Stars: 435
 
 [Open repository](https://github.com/lewis6991/spellsitter.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 435 | 25 | 
 | 2023-02-18 | 434 | 25 | 
 | 2023-02-17 | 434 | 25 | 
 | 2023-02-16 | 434 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 438 | 25 | 
 | 2023-01-22 | 438 | 25 | 
 | 2023-01-21 | 438 | 25 | 
-| 2023-01-20 | 439 | 25 | 
 

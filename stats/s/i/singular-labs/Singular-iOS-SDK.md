@@ -1,10 +1,10 @@
 # singular-labs/Singular-iOS-SDK - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/singular-labs/Singular-iOS-SDK)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4 | 2 | 
+| 2023-02-19 | 3 | 2 | 
 | 2023-02-18 | 3 | 2 | 
 | 2023-02-17 | 3 | 2 | 
 | 2023-02-16 | 3 | 2 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3 | 2 | 
 | 2023-01-22 | 3 | 2 | 
 | 2023-01-21 | 3 | 2 | 
-| 2023-01-20 | 3 | 2 | 
 

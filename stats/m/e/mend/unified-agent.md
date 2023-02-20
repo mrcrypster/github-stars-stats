@@ -1,6 +1,6 @@
 # mend/unified-agent - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 50 | 1 | 
 | 2023-02-19 | 50 | 1 | 
 | 2023-02-17 | 50 | 1 | 
 | 2023-02-16 | 50 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 50 | 1 | 
 | 2023-01-22 | 50 | 1 | 
 | 2023-01-21 | 50 | 1 | 
-| 2023-01-20 | 50 | 1 | 
 

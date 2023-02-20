@@ -1,10 +1,10 @@
 # HariSekhon/DevOps-Bash-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 380
+☋ Forks: 381
 
-★ Stars: 1036
+★ Stars: 1037
 
 [Open repository](https://github.com/HariSekhon/DevOps-Bash-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1037 | 381 | 
 | 2023-02-18 | 1036 | 380 | 
 | 2023-02-17 | 1032 | 380 | 
 | 2023-02-16 | 1032 | 380 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 942 | 357 | 
 | 2023-01-23 | 942 | 356 | 
 | 2023-01-22 | 942 | 356 | 
-| 2023-01-21 | 942 | 356 | 
 

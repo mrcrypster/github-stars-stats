@@ -1,6 +1,6 @@
 # chrisgrieser/nvim-genghis - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 62 | 3 | 
 | 2023-02-18 | 62 | 3 | 
 | 2023-02-17 | 62 | 3 | 
 | 2023-02-16 | 62 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 55 | 2 | 
 | 2023-01-22 | 55 | 2 | 
 | 2023-01-21 | 55 | 2 | 
-| 2023-01-20 | 55 | 2 | 
 

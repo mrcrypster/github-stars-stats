@@ -1,10 +1,10 @@
 # guided-hacking/GuidedHacking-Injector - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 92
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/guided-hacking/GuidedHacking-Injector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 334 | 92 | 
 | 2023-02-18 | 333 | 92 | 
 | 2023-02-17 | 333 | 92 | 
 | 2023-02-15 | 332 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 323 | 91 | 
 | 2023-01-22 | 323 | 91 | 
 | 2023-01-21 | 323 | 91 | 
-| 2023-01-20 | 323 | 91 | 
 

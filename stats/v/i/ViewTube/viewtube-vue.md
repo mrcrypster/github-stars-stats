@@ -1,10 +1,10 @@
 # ViewTube/viewtube-vue - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 37
 
-★ Stars: 656
+★ Stars: 655
 
 [Open repository](https://github.com/ViewTube/viewtube-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 655 | 37 | 
 | 2023-02-18 | 656 | 37 | 
 | 2023-02-17 | 656 | 37 | 
 | 2023-02-16 | 655 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 643 | 36 | 
 | 2023-01-23 | 643 | 36 | 
 | 2023-01-22 | 643 | 36 | 
-| 2023-01-21 | 643 | 36 | 
 

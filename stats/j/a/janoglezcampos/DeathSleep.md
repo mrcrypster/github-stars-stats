@@ -1,10 +1,10 @@
 # janoglezcampos/DeathSleep - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 59
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/janoglezcampos/DeathSleep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 391 | 59 | 
 | 2023-02-18 | 390 | 59 | 
 | 2023-02-17 | 390 | 59 | 
 | 2023-02-16 | 390 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 384 | 58 | 
 | 2023-01-23 | 384 | 58 | 
 | 2023-01-21 | 384 | 58 | 
-| 2023-01-20 | 383 | 58 | 
 

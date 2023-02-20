@@ -1,10 +1,10 @@
 # sczhou/CodeFormer - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 972
+☋ Forks: 998
 
-★ Stars: 5071
+★ Stars: 5246
 
 [Open repository](https://github.com/sczhou/CodeFormer)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5246 | 998 | 
+| 2023-02-19 | 5224 | 994 | 
 | 2023-02-18 | 5071 | 972 | 
 | 2023-02-17 | 4957 | 953 | 
 | 2023-02-16 | 4928 | 945 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3799 | 655 | 
 | 2023-01-22 | 3758 | 639 | 
 | 2023-01-21 | 3706 | 630 | 
-| 2023-01-20 | 3637 | 612 | 
 

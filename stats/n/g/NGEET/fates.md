@@ -1,10 +1,10 @@
 # NGEET/fates - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 80
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/NGEET/fates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 81 | 80 | 
 | 2023-02-18 | 80 | 80 | 
 | 2023-02-17 | 80 | 80 | 
 | 2023-02-16 | 80 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 77 | 80 | 
 | 2023-01-22 | 78 | 80 | 
 | 2023-01-21 | 78 | 80 | 
-| 2023-01-20 | 78 | 80 | 
 

@@ -1,10 +1,10 @@
 # AutoMcG/steamdeck_tools - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/AutoMcG/steamdeck_tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 105 | 1 | 
 | 2023-02-18 | 104 | 1 | 
 | 2023-02-17 | 104 | 1 | 
 | 2023-02-16 | 104 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 104 | 1 | 
 | 2023-01-22 | 104 | 1 | 
 | 2023-01-21 | 104 | 1 | 
-| 2023-01-20 | 104 | 1 | 
 

@@ -1,10 +1,10 @@
 # petyosi/react-virtuoso - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 215
 
-★ Stars: 3404
+★ Stars: 3407
 
 [Open repository](https://github.com/petyosi/react-virtuoso)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3407 | 215 | 
 | 2023-02-18 | 3404 | 215 | 
 | 2023-02-17 | 3401 | 215 | 
 | 2023-02-16 | 3397 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 3270 | 208 | 
 | 2023-01-23 | 3265 | 208 | 
 | 2023-01-22 | 3263 | 208 | 
-| 2023-01-21 | 3261 | 207 | 
 

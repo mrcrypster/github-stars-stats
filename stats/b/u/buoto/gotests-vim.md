@@ -1,10 +1,10 @@
 # buoto/gotests-vim - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 14
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/buoto/gotests-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 138 | 14 | 
 | 2023-02-18 | 137 | 14 | 
 | 2023-02-17 | 136 | 14 | 
 | 2023-02-16 | 136 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 135 | 13 | 
 | 2023-01-22 | 135 | 13 | 
 | 2023-01-21 | 135 | 13 | 
-| 2023-01-20 | 135 | 13 | 
 

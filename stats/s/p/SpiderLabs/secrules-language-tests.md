@@ -1,6 +1,6 @@
 # SpiderLabs/secrules-language-tests - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 12 | 16 | 
 | 2023-02-18 | 12 | 16 | 
 | 2023-02-17 | 12 | 16 | 
 | 2023-02-16 | 12 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 13 | 16 | 
 | 2023-01-22 | 13 | 16 | 
 | 2023-01-21 | 13 | 16 | 
-| 2023-01-20 | 13 | 16 | 
 

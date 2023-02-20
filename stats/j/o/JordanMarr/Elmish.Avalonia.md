@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 42
 
 [Open repository](https://github.com/JordanMarr/Elmish.Avalonia)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 39 | 2 | 
+| 2023-02-19 | 42 | 2 | 
 | 2023-02-18 | 39 | 1 | 
 

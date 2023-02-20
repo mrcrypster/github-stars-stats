@@ -1,6 +1,6 @@
 # ssiltane/Math_for_ML_2021 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4 | 2 | 
 | 2023-02-18 | 4 | 2 | 
 | 2023-02-17 | 4 | 2 | 
 | 2023-02-16 | 4 | 2 | 

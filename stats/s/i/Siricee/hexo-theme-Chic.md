@@ -1,8 +1,8 @@
 # Siricee/hexo-theme-Chic - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 161
+☋ Forks: 163
 
 ★ Stars: 750
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 750 | 163 | 
 | 2023-02-18 | 750 | 161 | 
 | 2023-02-17 | 748 | 161 | 
 | 2023-02-16 | 748 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 742 | 162 | 
 | 2023-01-23 | 742 | 162 | 
 | 2023-01-21 | 743 | 161 | 
-| 2023-01-20 | 743 | 161 | 
 

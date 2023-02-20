@@ -1,8 +1,8 @@
 # apache/brpc - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 3623
+☋ Forks: 3621
 
 ★ Stars: 14566
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 14566 | 3621 | 
 | 2023-02-18 | 14566 | 3623 | 
 | 2023-02-17 | 14563 | 3624 | 
 | 2023-02-16 | 14556 | 3621 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 14300 | 3595 | 
 | 2023-01-22 | 14300 | 3595 | 
 | 2023-01-21 | 14300 | 3594 | 
-| 2023-01-20 | 14299 | 3593 | 
 

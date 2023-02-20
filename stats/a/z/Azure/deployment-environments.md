@@ -1,6 +1,6 @@
 # Azure/deployment-environments - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 16 | 71 | 
 | 2023-02-18 | 16 | 71 | 
 | 2023-02-17 | 16 | 71 | 
 | 2023-02-16 | 16 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 15 | 55 | 
 | 2023-01-23 | 15 | 55 | 
 | 2023-01-21 | 15 | 55 | 
-| 2023-01-20 | 15 | 55 | 
 

@@ -1,6 +1,6 @@
 # plumatic/schema - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2341 | 256 | 
 | 2023-02-18 | 2341 | 256 | 
 | 2023-02-17 | 2341 | 256 | 
 | 2023-02-16 | 2341 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2335 | 257 | 
 | 2023-01-22 | 2335 | 257 | 
 | 2023-01-21 | 2335 | 257 | 
-| 2023-01-20 | 2335 | 257 | 
 

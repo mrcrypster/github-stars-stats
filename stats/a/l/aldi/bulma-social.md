@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 58
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/aldi/bulma-social)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 320 | 58 | 
+| 2023-02-19 | 321 | 58 | 
 | 2023-02-18 | 320 | 58 | 
 

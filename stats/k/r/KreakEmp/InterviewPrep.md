@@ -1,10 +1,10 @@
 # KreakEmp/InterviewPrep - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 72
+★ Stars: 79
 
 [Open repository](https://github.com/KreakEmp/InterviewPrep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 79 | 43 | 
 | 2023-02-18 | 72 | 42 | 
 | 2023-02-17 | 64 | 40 | 
 | 2023-02-16 | 59 | 37 | 

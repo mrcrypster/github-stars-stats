@@ -1,6 +1,6 @@
 # KrauseFx/InAppBrowser.com - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 453 | 29 | 
 | 2023-02-18 | 453 | 29 | 
 | 2023-02-17 | 453 | 29 | 
 | 2023-02-16 | 453 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 449 | 29 | 
 | 2023-01-22 | 449 | 29 | 
 | 2023-01-21 | 449 | 29 | 
-| 2023-01-20 | 449 | 29 | 
 

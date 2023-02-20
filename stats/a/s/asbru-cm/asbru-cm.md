@@ -1,6 +1,6 @@
 # asbru-cm/asbru-cm - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 813 | 120 | 
 | 2023-02-18 | 813 | 120 | 
 | 2023-02-17 | 812 | 120 | 
 | 2023-02-16 | 812 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 809 | 120 | 
 | 2023-01-22 | 808 | 120 | 
 | 2023-01-21 | 808 | 120 | 
-| 2023-01-20 | 808 | 120 | 
 

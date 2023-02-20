@@ -1,6 +1,6 @@
 # kevin-powell/beyond-css-course-material - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 70 | 125 | 
 | 2023-02-18 | 70 | 125 | 
 | 2023-02-17 | 70 | 125 | 
 | 2023-02-16 | 70 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 68 | 123 | 
 | 2023-01-22 | 68 | 123 | 
 | 2023-01-21 | 68 | 123 | 
-| 2023-01-20 | 68 | 122 | 
 

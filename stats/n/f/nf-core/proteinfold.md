@@ -1,10 +1,10 @@
 # nf-core/proteinfold - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 11
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/nf-core/proteinfold)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 14 | 11 | 
 | 2023-02-18 | 13 | 11 | 
 | 2023-02-17 | 13 | 11 | 
 | 2023-02-16 | 13 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 10 | 10 | 
 | 2023-01-22 | 10 | 10 | 
 | 2023-01-21 | 10 | 10 | 
-| 2023-01-20 | 10 | 10 | 
 

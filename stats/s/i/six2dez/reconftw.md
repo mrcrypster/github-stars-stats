@@ -1,10 +1,10 @@
 # six2dez/reconftw - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 662
 
-★ Stars: 3779
+★ Stars: 3783
 
 [Open repository](https://github.com/six2dez/reconftw)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3783 | 662 | 
 | 2023-02-18 | 3779 | 662 | 
 | 2023-02-17 | 3769 | 661 | 
 | 2023-02-16 | 3768 | 661 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3557 | 635 | 
 | 2023-01-22 | 3553 | 635 | 
 | 2023-01-21 | 3551 | 635 | 
-| 2023-01-20 | 3550 | 636 | 
 

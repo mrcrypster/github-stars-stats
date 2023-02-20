@@ -1,8 +1,8 @@
 # HdzProject/Vps-Trial - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 142
+☋ Forks: 144
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2 | 144 | 
 | 2023-02-18 | 2 | 142 | 
 | 2023-02-17 | 3 | 141 | 
 | 2023-02-16 | 3 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1 | 111 | 
 | 2023-01-22 | 1 | 111 | 
 | 2023-01-21 | 1 | 111 | 
-| 2023-01-20 | 1 | 111 | 
 

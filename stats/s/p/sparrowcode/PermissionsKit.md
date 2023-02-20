@@ -1,6 +1,6 @@
 # sparrowcode/PermissionsKit - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 422
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5130 | 422 | 
 | 2023-02-18 | 5130 | 422 | 
 | 2023-02-17 | 5129 | 422 | 
 | 2023-02-16 | 5126 | 422 | 

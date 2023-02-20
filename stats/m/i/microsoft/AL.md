@@ -1,6 +1,6 @@
 # microsoft/AL - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 606 | 250 | 
 | 2023-02-18 | 606 | 250 | 
 | 2023-02-17 | 606 | 250 | 
 | 2023-02-16 | 606 | 250 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 603 | 247 | 
 | 2023-01-22 | 602 | 246 | 
 | 2023-01-21 | 602 | 246 | 
-| 2023-01-20 | 602 | 246 | 
 

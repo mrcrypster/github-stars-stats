@@ -1,6 +1,6 @@
 # BanchouBoo/accord - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 27 | 1 | 
 | 2023-02-19 | 27 | 1 | 
 | 2023-02-17 | 27 | 1 | 
 | 2023-02-16 | 27 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 27 | 1 | 
 | 2023-01-22 | 27 | 1 | 
 | 2023-01-21 | 27 | 1 | 
-| 2023-01-20 | 27 | 1 | 
 

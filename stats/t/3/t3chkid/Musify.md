@@ -1,10 +1,10 @@
 # t3chkid/Musify - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 17
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/t3chkid/Musify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 190 | 17 | 
 | 2023-02-18 | 189 | 17 | 
 | 2023-02-17 | 189 | 17 | 
 | 2023-02-16 | 189 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 179 | 15 | 
 | 2023-01-23 | 178 | 15 | 
 | 2023-01-21 | 177 | 15 | 
-| 2023-01-20 | 176 | 15 | 
 

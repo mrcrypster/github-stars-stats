@@ -1,6 +1,6 @@
 # aspnet/AspLabs - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 337
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1161 | 337 | 
 | 2023-02-18 | 1161 | 337 | 
 | 2023-02-17 | 1161 | 336 | 
 | 2023-02-16 | 1160 | 335 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1145 | 329 | 
 | 2023-01-22 | 1144 | 329 | 
 | 2023-01-21 | 1143 | 329 | 
-| 2023-01-20 | 1143 | 329 | 
 

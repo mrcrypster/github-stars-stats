@@ -1,10 +1,10 @@
 # DNSCrypt/dnscrypt-proxy - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 925
+☋ Forks: 926
 
-★ Stars: 9722
+★ Stars: 9728
 
 [Open repository](https://github.com/DNSCrypt/dnscrypt-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 9728 | 926 | 
 | 2023-02-18 | 9722 | 925 | 
 | 2023-02-17 | 9721 | 925 | 
 | 2023-02-16 | 9718 | 923 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 9636 | 919 | 
 | 2023-01-22 | 9633 | 918 | 
 | 2023-01-21 | 9634 | 918 | 
-| 2023-01-20 | 9631 | 918 | 
 

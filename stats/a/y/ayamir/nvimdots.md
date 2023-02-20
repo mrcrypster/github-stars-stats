@@ -1,8 +1,8 @@
 # ayamir/nvimdots - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 293
+☋ Forks: 294
 
 ★ Stars: 1473
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1473 | 294 | 
 | 2023-02-18 | 1473 | 293 | 
 | 2023-02-17 | 1468 | 292 | 
 | 2023-02-16 | 1467 | 292 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 1339 | 273 | 
 | 2023-01-23 | 1338 | 273 | 
 | 2023-01-22 | 1337 | 273 | 
-| 2023-01-20 | 1334 | 273 | 
 

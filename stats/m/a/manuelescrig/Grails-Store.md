@@ -1,6 +1,6 @@
 # manuelescrig/Grails-Store - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8 | 9 | 
 | 2023-02-18 | 8 | 9 | 
 | 2023-02-17 | 8 | 9 | 
 | 2023-02-16 | 8 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 8 | 9 | 
 | 2023-01-22 | 8 | 9 | 
 | 2023-01-21 | 8 | 9 | 
-| 2023-01-20 | 8 | 9 | 
 

@@ -1,10 +1,10 @@
 # tobymao/sqlglot - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 233
 
-★ Stars: 2840
+★ Stars: 2842
 
 [Open repository](https://github.com/tobymao/sqlglot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2842 | 233 | 
 | 2023-02-18 | 2840 | 233 | 
 | 2023-02-17 | 2840 | 233 | 
 | 2023-02-16 | 2831 | 233 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2590 | 210 | 
 | 2023-01-22 | 2583 | 209 | 
 | 2023-01-21 | 2578 | 208 | 
-| 2023-01-20 | 2565 | 208 | 
 

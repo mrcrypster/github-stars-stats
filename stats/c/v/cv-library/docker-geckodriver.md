@@ -1,6 +1,6 @@
 # cv-library/docker-geckodriver - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 10 | 4 | 
 | 2023-02-18 | 10 | 4 | 
 | 2023-02-17 | 10 | 4 | 
 | 2023-02-16 | 10 | 4 | 

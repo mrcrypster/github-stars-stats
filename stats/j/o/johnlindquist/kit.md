@@ -1,10 +1,10 @@
 # johnlindquist/kit - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 101
 
-★ Stars: 3138
+★ Stars: 3144
 
 [Open repository](https://github.com/johnlindquist/kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3144 | 101 | 
 | 2023-02-18 | 3138 | 101 | 
 | 2023-02-17 | 3131 | 101 | 
 | 2023-02-16 | 3131 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2841 | 83 | 
 | 2023-01-22 | 2807 | 82 | 
 | 2023-01-21 | 2738 | 81 | 
-| 2023-01-20 | 2491 | 76 | 
 

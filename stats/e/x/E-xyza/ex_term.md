@@ -1,6 +1,6 @@
 # E-xyza/ex_term - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 43 | 2 | 
 | 2023-02-18 | 43 | 2 | 
 | 2023-02-17 | 43 | 2 | 
 | 2023-02-16 | 43 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 25 | 1 | 
 | 2023-01-23 | 21 | 1 | 
 | 2023-01-22 | 21 | 1 | 
-| 2023-01-21 | 21 | 1 | 
 

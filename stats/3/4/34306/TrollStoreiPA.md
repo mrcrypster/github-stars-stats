@@ -1,10 +1,10 @@
 # 34306/TrollStoreiPA - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 34
 
-★ Stars: 671
+★ Stars: 674
 
 [Open repository](https://github.com/34306/TrollStoreiPA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 674 | 34 | 
 | 2023-02-18 | 671 | 34 | 
 | 2023-02-17 | 672 | 34 | 
 | 2023-02-16 | 671 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 646 | 34 | 
 | 2023-01-22 | 645 | 34 | 
 | 2023-01-21 | 643 | 34 | 
-| 2023-01-20 | 642 | 34 | 
 

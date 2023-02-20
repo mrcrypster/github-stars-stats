@@ -1,6 +1,6 @@
 # icfpc-unagi/icfpc2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 13 | 1 | 
 | 2023-02-19 | 13 | 1 | 
 | 2023-02-17 | 13 | 1 | 
 | 2023-02-16 | 13 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 13 | 1 | 
 | 2023-01-22 | 13 | 1 | 
 | 2023-01-21 | 13 | 1 | 
-| 2023-01-20 | 13 | 1 | 
 

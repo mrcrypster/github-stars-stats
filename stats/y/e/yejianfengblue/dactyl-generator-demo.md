@@ -1,10 +1,10 @@
 # yejianfengblue/dactyl-generator-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 9
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/yejianfengblue/dactyl-generator-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 77 | 9 | 
 | 2023-02-18 | 76 | 9 | 
 | 2023-02-17 | 76 | 9 | 
 | 2023-02-16 | 77 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 72 | 8 | 
 | 2023-01-22 | 72 | 8 | 
 | 2023-01-21 | 72 | 8 | 
-| 2023-01-20 | 72 | 8 | 
 

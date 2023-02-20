@@ -1,6 +1,6 @@
 # feline-nvim/feline.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1017 | 59 | 
 | 2023-02-18 | 1017 | 59 | 
 | 2023-02-17 | 1013 | 59 | 
 | 2023-02-16 | 1011 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 998 | 54 | 
 | 2023-01-22 | 997 | 55 | 
 | 2023-01-21 | 996 | 55 | 
-| 2023-01-20 | 995 | 55 | 
 

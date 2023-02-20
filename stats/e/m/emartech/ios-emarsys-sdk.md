@@ -1,10 +1,10 @@
 # emartech/ios-emarsys-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 20
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/emartech/ios-emarsys-sdk)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 17 | 20 | 
+| 2023-02-19 | 16 | 20 | 
 | 2023-02-18 | 16 | 20 | 
 | 2023-02-17 | 16 | 20 | 
 | 2023-02-16 | 16 | 20 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 16 | 21 | 
 | 2023-01-22 | 16 | 21 | 
 | 2023-01-21 | 16 | 21 | 
-| 2023-01-20 | 15 | 21 | 
 

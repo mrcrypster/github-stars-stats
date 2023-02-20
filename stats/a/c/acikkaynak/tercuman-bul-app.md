@@ -1,8 +1,8 @@
 # acikkaynak/tercuman-bul-app - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 15 | 20 | 
 | 2023-02-18 | 15 | 19 | 
 | 2023-02-17 | 14 | 18 | 
 | 2023-02-16 | 14 | 16 | 

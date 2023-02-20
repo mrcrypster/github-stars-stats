@@ -1,10 +1,10 @@
 # fjvallarino/monomer - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 31
 
-★ Stars: 443
+★ Stars: 445
 
 [Open repository](https://github.com/fjvallarino/monomer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 445 | 31 | 
 | 2023-02-18 | 443 | 31 | 
 | 2023-02-17 | 443 | 31 | 
 | 2023-02-16 | 441 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 434 | 30 | 
 | 2023-01-23 | 433 | 30 | 
 | 2023-01-22 | 433 | 30 | 
-| 2023-01-20 | 433 | 30 | 
 

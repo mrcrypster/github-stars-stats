@@ -1,8 +1,8 @@
 # DappaUhuy/FreeRDP - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 137
+☋ Forks: 138
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | - | 138 | 
 | 2023-02-18 | - | 137 | 
 | 2023-02-17 | - | 134 | 
 | 2023-02-16 | - | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | - | 89 | 
 | 2023-01-22 | - | 86 | 
 | 2023-01-21 | - | 84 | 
-| 2023-01-20 | - | 83 | 
 

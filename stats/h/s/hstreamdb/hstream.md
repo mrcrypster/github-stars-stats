@@ -1,6 +1,6 @@
 # hstreamdb/hstream - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 590 | 54 | 
 | 2023-02-18 | 590 | 54 | 
 | 2023-02-17 | 589 | 54 | 
 | 2023-02-16 | 589 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 581 | 54 | 
 | 2023-01-22 | 581 | 54 | 
 | 2023-01-21 | 581 | 54 | 
-| 2023-01-20 | 580 | 54 | 
 

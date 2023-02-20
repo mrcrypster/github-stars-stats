@@ -1,6 +1,6 @@
 # sveltejs/sites - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 221 | 96 | 
 | 2023-02-18 | 221 | 96 | 
 | 2023-02-17 | 221 | 95 | 
 | 2023-02-16 | 221 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 211 | 91 | 
 | 2023-01-22 | 211 | 91 | 
 | 2023-01-21 | 211 | 91 | 
-| 2023-01-20 | 210 | 91 | 
 

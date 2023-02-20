@@ -1,10 +1,10 @@
 # jacklul/pihole-updatelists - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 70
 
-★ Stars: 1058
+★ Stars: 1060
 
 [Open repository](https://github.com/jacklul/pihole-updatelists)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1060 | 70 | 
 | 2023-02-18 | 1058 | 70 | 
 | 2023-02-17 | 1057 | 70 | 
 | 2023-02-16 | 1058 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 1039 | 70 | 
 | 2023-01-22 | 1038 | 70 | 
 | 2023-01-21 | 1035 | 70 | 
-| 2023-01-20 | 1034 | 70 | 
 

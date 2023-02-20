@@ -1,10 +1,10 @@
 # owasp-change/owasp-change.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 74
+☋ Forks: 77
 
-★ Stars: 30
+★ Stars: 77
 
 [Open repository](https://github.com/owasp-change/owasp-change.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 77 | 77 | 
 | 2023-02-18 | 30 | 74 | 
 | 2023-02-17 | 28 | 71 | 
 | 2023-02-16 | 27 | 68 | 

@@ -1,6 +1,6 @@
 # smartcontractkit/chainlink-mix - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 444 | 178 | 
 | 2023-02-18 | 444 | 178 | 
 | 2023-02-17 | 444 | 178 | 
 | 2023-02-16 | 444 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 440 | 172 | 
 | 2023-01-23 | 440 | 172 | 
 | 2023-01-22 | 441 | 172 | 
-| 2023-01-21 | 441 | 172 | 
 

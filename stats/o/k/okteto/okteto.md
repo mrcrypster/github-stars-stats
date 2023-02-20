@@ -1,6 +1,6 @@
 # okteto/okteto - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 266
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2772 | 266 | 
 | 2023-02-18 | 2772 | 266 | 
 | 2023-02-17 | 2769 | 265 | 
 | 2023-02-16 | 2767 | 264 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 2750 | 259 | 
 | 2023-01-23 | 2746 | 259 | 
 | 2023-01-21 | 2745 | 259 | 
-| 2023-01-20 | 2745 | 259 | 
 

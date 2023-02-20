@@ -1,10 +1,10 @@
 # probcomp/GenGPT3.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/probcomp/GenGPT3.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5 | - | 
 | 2023-02-18 | 4 | - | 
 | 2023-02-17 | 4 | - | 
 | 2023-02-16 | 4 | - | 

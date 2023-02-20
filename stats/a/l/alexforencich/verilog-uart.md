@@ -1,10 +1,10 @@
 # alexforencich/verilog-uart - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 103
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/alexforencich/verilog-uart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 268 | 103 | 
 | 2023-02-18 | 267 | 103 | 
 | 2023-02-17 | 266 | 103 | 
 | 2023-02-16 | 266 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 262 | 102 | 
 | 2023-01-22 | 262 | 102 | 
 | 2023-01-21 | 262 | 102 | 
-| 2023-01-20 | 262 | 102 | 
 

@@ -1,6 +1,6 @@
 # DevExpress-Examples/how-to-export-the-pivot-grids-data-to-a-file-t289831 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | - | - | 
 | 2023-02-18 | - | - | 
 | 2023-02-17 | - | - | 
 | 2023-02-16 | - | - | 

@@ -1,8 +1,8 @@
 # naynam242/WindowsCRD - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 509
+☋ Forks: 518
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8 | 518 | 
 | 2023-02-18 | 8 | 509 | 
 | 2023-02-17 | 8 | 499 | 
 | 2023-02-16 | 8 | 490 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 6 | 284 | 
 | 2023-01-22 | 6 | 282 | 
 | 2023-01-21 | 6 | 278 | 
-| 2023-01-20 | 6 | 275 | 
 

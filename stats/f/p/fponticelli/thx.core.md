@@ -1,10 +1,10 @@
 # fponticelli/thx.core - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 37
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/fponticelli/thx.core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 118 | 37 | 
 | 2023-02-18 | 117 | 37 | 
 | 2023-02-17 | 117 | 37 | 
 

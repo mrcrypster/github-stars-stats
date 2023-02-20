@@ -1,10 +1,10 @@
 # rbeeli/short-term_momentum_strategy - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 9
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/rbeeli/short-term_momentum_strategy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 25 | 9 | 
 | 2023-02-19 | 24 | 9 | 
 | 2023-02-17 | 24 | 9 | 
 | 2023-02-16 | 24 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 24 | 9 | 
 | 2023-01-22 | 24 | 9 | 
 | 2023-01-21 | 24 | 9 | 
-| 2023-01-20 | 24 | 9 | 
 

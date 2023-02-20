@@ -1,6 +1,6 @@
 # mirari/v-viewer - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 274
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2134 | 274 | 
 | 2023-02-18 | 2134 | 274 | 
 | 2023-02-17 | 2133 | 274 | 
 | 2023-02-16 | 2134 | 274 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2113 | 274 | 
 | 2023-01-22 | 2113 | 274 | 
 | 2023-01-21 | 2112 | 274 | 
-| 2023-01-20 | 2112 | 274 | 
 

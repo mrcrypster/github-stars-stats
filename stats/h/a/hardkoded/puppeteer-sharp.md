@@ -1,10 +1,10 @@
 # hardkoded/puppeteer-sharp - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 371
 
-★ Stars: 2584
+★ Stars: 2585
 
 [Open repository](https://github.com/hardkoded/puppeteer-sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2585 | 371 | 
 | 2023-02-18 | 2584 | 371 | 
 | 2023-02-17 | 2583 | 371 | 
 | 2023-02-16 | 2584 | 370 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2543 | 369 | 
 | 2023-01-22 | 2541 | 369 | 
 | 2023-01-21 | 2540 | 369 | 
-| 2023-01-20 | 2540 | 369 | 
 

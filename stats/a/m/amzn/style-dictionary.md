@@ -1,10 +1,10 @@
 # amzn/style-dictionary - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 457
+☋ Forks: 458
 
-★ Stars: 3045
+★ Stars: 3048
 
 [Open repository](https://github.com/amzn/style-dictionary)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3048 | 458 | 
 | 2023-02-18 | 3045 | 457 | 
 | 2023-02-17 | 3044 | 457 | 
 | 2023-02-16 | 3039 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2986 | 447 | 
 | 2023-01-22 | 2986 | 446 | 
 | 2023-01-21 | 2984 | 446 | 
-| 2023-01-20 | 2982 | 445 | 
 

@@ -1,8 +1,8 @@
 # cwackerfuss/react-wordle - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 1960
+☋ Forks: 1959
 
 ★ Stars: 2422
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2422 | 1959 | 
 | 2023-02-18 | 2422 | 1960 | 
 | 2023-02-17 | 2423 | 1959 | 
 | 2023-02-16 | 2422 | 1956 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2405 | 1943 | 
 | 2023-01-22 | 2403 | 1944 | 
 | 2023-01-21 | 2403 | 1943 | 
-| 2023-01-20 | 2402 | 1943 | 
 

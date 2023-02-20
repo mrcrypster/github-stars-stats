@@ -1,10 +1,10 @@
 # MaartenGr/BERTopic - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 485
 
-★ Stars: 3788
+★ Stars: 3789
 
 [Open repository](https://github.com/MaartenGr/BERTopic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3789 | 485 | 
 | 2023-02-18 | 3788 | 485 | 
 | 2023-02-17 | 3779 | 484 | 
 | 2023-02-16 | 3776 | 483 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 3647 | 468 | 
 | 2023-01-22 | 3645 | 468 | 
 | 2023-01-21 | 3642 | 468 | 
-| 2023-01-20 | 3639 | 468 | 
 

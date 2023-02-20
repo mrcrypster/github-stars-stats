@@ -1,6 +1,6 @@
 # ntrepid8/ex_crypto - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 127 | 45 | 
 | 2023-02-18 | 127 | 45 | 
 | 2023-02-17 | 127 | 45 | 
 | 2023-02-16 | 127 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 125 | 45 | 
 | 2023-01-22 | 125 | 45 | 
 | 2023-01-21 | 125 | 45 | 
-| 2023-01-20 | 125 | 45 | 
 

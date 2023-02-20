@@ -1,6 +1,6 @@
 # Elringus/SpriteGlow - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1880 | 185 | 
 | 2023-02-18 | 1880 | 185 | 
 | 2023-02-17 | 1879 | 185 | 
 | 2023-02-16 | 1879 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1861 | 185 | 
 | 2023-01-22 | 1860 | 185 | 
 | 2023-01-21 | 1859 | 185 | 
-| 2023-01-20 | 1859 | 185 | 
 

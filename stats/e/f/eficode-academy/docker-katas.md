@@ -1,6 +1,6 @@
 # eficode-academy/docker-katas - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 168 | 232 | 
 | 2023-02-18 | 168 | 232 | 
 | 2023-02-17 | 166 | 232 | 
 | 2023-02-16 | 166 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 162 | 230 | 
 | 2023-01-22 | 162 | 230 | 
 | 2023-01-21 | 162 | 230 | 
-| 2023-01-20 | 162 | 230 | 
 

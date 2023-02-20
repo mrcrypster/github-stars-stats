@@ -1,10 +1,10 @@
 # vplasencia/zkSudoku-plonk - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 6
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/vplasencia/zkSudoku-plonk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 9 | 6 | 
 | 2023-02-18 | 8 | 6 | 
 | 2023-02-17 | 8 | 6 | 
 | 2023-02-16 | 8 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 8 | 6 | 
 | 2023-01-22 | 8 | 6 | 
 | 2023-01-21 | 8 | 6 | 
-| 2023-01-20 | 8 | 6 | 
 

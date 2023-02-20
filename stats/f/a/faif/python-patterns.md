@@ -1,10 +1,10 @@
 # faif/python-patterns - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 6719
+☋ Forks: 6720
 
-★ Stars: 36607
+★ Stars: 36610
 
 [Open repository](https://github.com/faif/python-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 36610 | 6720 | 
 | 2023-02-18 | 36607 | 6719 | 
 | 2023-02-17 | 36602 | 6719 | 
 | 2023-02-16 | 36598 | 6718 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 36360 | 6696 | 
 | 2023-01-22 | 36344 | 6696 | 
 | 2023-01-21 | 36333 | 6692 | 
-| 2023-01-20 | 36331 | 6691 | 
 

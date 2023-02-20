@@ -1,6 +1,6 @@
 # CoolElectronics/bookmarkfs - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 325 | 8 | 
 | 2023-02-18 | 325 | 8 | 
 | 2023-02-17 | 325 | 8 | 
 | 2023-02-16 | 325 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 323 | 8 | 
 | 2023-01-23 | 323 | 8 | 
 | 2023-01-22 | 323 | 8 | 
-| 2023-01-21 | 323 | 8 | 
 

@@ -1,6 +1,6 @@
 # phillord/tawny-owl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 237 | 57 | 
 | 2023-02-18 | 237 | 57 | 
 | 2023-02-17 | 237 | 57 | 
 | 2023-02-16 | 237 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 237 | 57 | 
 | 2023-01-23 | 237 | 57 | 
 | 2023-01-22 | 236 | 57 | 
-| 2023-01-20 | 236 | 57 | 
 

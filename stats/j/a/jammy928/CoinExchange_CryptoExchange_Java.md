@@ -1,10 +1,10 @@
 # jammy928/CoinExchange_CryptoExchange_Java - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 791
+☋ Forks: 793
 
-★ Stars: 851
+★ Stars: 850
 
 [Open repository](https://github.com/jammy928/CoinExchange_CryptoExchange_Java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 850 | 793 | 
 | 2023-02-18 | 851 | 791 | 
 | 2023-02-17 | 849 | 791 | 
 | 2023-02-16 | 849 | 791 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 834 | 778 | 
 | 2023-01-23 | 834 | 778 | 
 | 2023-01-22 | 834 | 778 | 
-| 2023-01-20 | 834 | 777 | 
 

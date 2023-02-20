@@ -1,6 +1,6 @@
 # rohansaini886/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 44 | 244 | 
 | 2023-02-18 | 44 | 244 | 
 | 2023-02-17 | 44 | 245 | 
 | 2023-02-16 | 44 | 245 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 45 | 248 | 
 | 2023-01-22 | 45 | 249 | 
 | 2023-01-21 | 45 | 249 | 
-| 2023-01-20 | 45 | 249 | 
 

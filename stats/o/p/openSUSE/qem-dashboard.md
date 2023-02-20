@@ -1,6 +1,6 @@
 # openSUSE/qem-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 8 | 5 | 
 | 2023-02-18 | 8 | 5 | 
 | 2023-02-17 | 8 | 5 | 
 | 2023-02-16 | 8 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 9 | 5 | 
 | 2023-01-22 | 9 | 5 | 
 | 2023-01-21 | 9 | 5 | 
-| 2023-01-20 | 9 | 5 | 
 

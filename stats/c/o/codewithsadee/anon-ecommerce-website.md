@@ -1,10 +1,10 @@
 # codewithsadee/anon-ecommerce-website - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 231
+★ Stars: 233
 
 [Open repository](https://github.com/codewithsadee/anon-ecommerce-website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 233 | 148 | 
 | 2023-02-18 | 231 | 147 | 
 | 2023-02-17 | 228 | 147 | 
 | 2023-02-16 | 225 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 201 | 134 | 
 | 2023-01-22 | 201 | 134 | 
 | 2023-01-21 | 201 | 134 | 
-| 2023-01-20 | 200 | 134 | 
 

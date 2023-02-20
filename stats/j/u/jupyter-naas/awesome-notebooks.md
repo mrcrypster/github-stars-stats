@@ -1,6 +1,6 @@
 # jupyter-naas/awesome-notebooks - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1829 | 296 | 
 | 2023-02-18 | 1829 | 296 | 
 | 2023-02-17 | 1829 | 296 | 
 | 2023-02-16 | 1827 | 296 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1802 | 289 | 
 | 2023-01-22 | 1800 | 289 | 
 | 2023-01-21 | 1800 | 289 | 
-| 2023-01-20 | 1799 | 289 | 
 

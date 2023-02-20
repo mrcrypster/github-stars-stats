@@ -1,6 +1,6 @@
 # AER-RC/LBLRTM - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 45 | 20 | 
 | 2023-02-18 | 45 | 20 | 
 | 2023-02-17 | 45 | 20 | 
 | 2023-02-16 | 45 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 43 | 20 | 
 | 2023-01-22 | 42 | 20 | 
 | 2023-01-21 | 42 | 20 | 
-| 2023-01-20 | 42 | 20 | 
 

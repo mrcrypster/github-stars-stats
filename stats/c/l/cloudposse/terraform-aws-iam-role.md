@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-iam-role - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 78 | 70 | 
 | 2023-02-18 | 78 | 70 | 
 | 2023-02-17 | 78 | 70 | 
 | 2023-02-16 | 78 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 80 | 70 | 
 | 2023-01-22 | 80 | 70 | 
 | 2023-01-21 | 80 | 70 | 
-| 2023-01-20 | 80 | 70 | 
 

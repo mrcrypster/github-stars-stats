@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 95
 
-★ Stars: 841
+★ Stars: 842
 
 [Open repository](https://github.com/utsanjan/PD-Runner)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 841 | 95 | 
+| 2023-02-19 | 842 | 95 | 
 | 2023-02-18 | 840 | 95 | 
 

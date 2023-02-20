@@ -1,6 +1,6 @@
 # The-Shivam-garg/BigB-E-learn-Websit-e - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 100 | 155 | 
 | 2023-02-18 | 100 | 155 | 
 | 2023-02-17 | 100 | 155 | 
 | 2023-02-16 | 99 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 100 | 155 | 
 | 2023-01-23 | 100 | 155 | 
 | 2023-01-22 | 100 | 155 | 
-| 2023-01-21 | 100 | 155 | 
 

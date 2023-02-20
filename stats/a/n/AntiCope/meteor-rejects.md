@@ -1,6 +1,6 @@
 # AntiCope/meteor-rejects - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 219 | 48 | 
 | 2023-02-18 | 219 | 48 | 
 | 2023-02-17 | 219 | 49 | 
 | 2023-02-16 | 219 | 49 | 

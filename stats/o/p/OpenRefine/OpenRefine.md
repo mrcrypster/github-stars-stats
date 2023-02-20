@@ -1,8 +1,8 @@
 # OpenRefine/OpenRefine - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 1774
+☋ Forks: 1775
 
 ★ Stars: 9266
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 9266 | 1775 | 
 | 2023-02-18 | 9266 | 1774 | 
 | 2023-02-17 | 9265 | 1774 | 
 | 2023-02-16 | 9265 | 1774 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 9226 | 1772 | 
 | 2023-01-23 | 9225 | 1771 | 
 | 2023-01-22 | 9223 | 1771 | 
-| 2023-01-20 | 9222 | 1771 | 
 

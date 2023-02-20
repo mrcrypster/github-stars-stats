@@ -1,6 +1,6 @@
 # ahyatt/ekg - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 51 | 4 | 
 | 2023-02-18 | 51 | 4 | 
 | 2023-02-17 | 51 | 4 | 
 | 2023-02-16 | 50 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 33 | 1 | 
 | 2023-01-22 | 32 | 1 | 
 | 2023-01-21 | 30 | 1 | 
-| 2023-01-20 | 30 | 1 | 
 

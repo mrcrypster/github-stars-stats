@@ -1,6 +1,6 @@
 # ml874/Data-Science-Cheatsheet - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 598
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2291 | 598 | 
 | 2023-02-18 | 2291 | 598 | 
 | 2023-02-17 | 2291 | 597 | 
 | 2023-02-16 | 2292 | 597 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2263 | 593 | 
 | 2023-01-22 | 2263 | 593 | 
 | 2023-01-21 | 2263 | 593 | 
-| 2023-01-20 | 2262 | 593 | 
 

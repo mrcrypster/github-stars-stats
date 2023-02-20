@@ -1,10 +1,10 @@
 # Iltotore/iron - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 12
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/Iltotore/iron)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 219 | 12 | 
 | 2023-02-18 | 218 | 12 | 
 | 2023-02-17 | 218 | 12 | 
 | 2023-02-16 | 218 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 194 | 11 | 
 | 2023-01-22 | 194 | 11 | 
 | 2023-01-21 | 194 | 11 | 
-| 2023-01-20 | 194 | 11 | 
 

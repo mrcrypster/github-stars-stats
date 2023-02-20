@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 33
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/Natram1zh/Apex-Legends-Config-And-Tweaks)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 154 | 33 | 
+| 2023-02-19 | 155 | 33 | 
 | 2023-02-18 | 154 | 33 | 
 | 2023-02-17 | 152 | 32 | 
 | 2023-02-16 | 150 | 30 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 135 | 29 | 
 | 2023-01-22 | 134 | 29 | 
 | 2023-01-21 | 133 | 29 | 
-| 2023-01-20 | 132 | 29 | 
 

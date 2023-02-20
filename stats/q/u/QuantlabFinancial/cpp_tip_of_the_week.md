@@ -1,10 +1,10 @@
 # QuantlabFinancial/cpp_tip_of_the_week - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 49
 
-★ Stars: 979
+★ Stars: 981
 
 [Open repository](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 981 | 49 | 
 | 2023-02-18 | 979 | 49 | 
 | 2023-02-17 | 978 | 49 | 
 | 2023-02-16 | 977 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 941 | 48 | 
 | 2023-01-23 | 940 | 48 | 
 | 2023-01-22 | 940 | 48 | 
-| 2023-01-21 | 940 | 48 | 
 

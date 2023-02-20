@@ -1,6 +1,6 @@
 # marcus-clarusway/jenkins-project-settings - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1 | 17 | 
 | 2023-02-18 | 1 | 17 | 
 | 2023-02-17 | 1 | 17 | 
 | 2023-02-16 | 1 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1 | 16 | 
 | 2023-01-22 | 1 | 15 | 
 | 2023-01-21 | 1 | 15 | 
-| 2023-01-20 | 1 | 15 | 
 

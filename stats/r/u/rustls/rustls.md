@@ -1,10 +1,10 @@
 # rustls/rustls - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 444
 
-★ Stars: 4191
+★ Stars: 4192
 
 [Open repository](https://github.com/rustls/rustls)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4192 | 444 | 
 | 2023-02-18 | 4191 | 444 | 
 | 2023-02-17 | 4189 | 443 | 
 | 2023-02-16 | 4186 | 441 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4092 | 430 | 
 | 2023-01-22 | 4090 | 429 | 
 | 2023-01-21 | 4089 | 428 | 
-| 2023-01-20 | 4087 | 428 | 
 

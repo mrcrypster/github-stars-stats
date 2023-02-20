@@ -1,10 +1,10 @@
 # joeldev/JLRoutes - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 703
 
-★ Stars: 5650
+★ Stars: 5651
 
 [Open repository](https://github.com/joeldev/JLRoutes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5651 | 703 | 
 | 2023-02-18 | 5650 | 703 | 
 | 2023-02-17 | 5650 | 703 | 
 | 2023-02-16 | 5650 | 702 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 5645 | 700 | 
 | 2023-01-22 | 5645 | 700 | 
 | 2023-01-21 | 5646 | 700 | 
-| 2023-01-20 | 5646 | 700 | 
 

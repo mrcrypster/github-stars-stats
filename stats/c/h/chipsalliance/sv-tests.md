@@ -1,6 +1,6 @@
 # chipsalliance/sv-tests - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 209 | 59 | 
 | 2023-02-19 | 209 | 59 | 
 | 2023-02-17 | 209 | 59 | 
 | 2023-02-16 | 209 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 208 | 57 | 
 | 2023-01-22 | 207 | 57 | 
 | 2023-01-21 | 207 | 57 | 
-| 2023-01-20 | 207 | 57 | 
 

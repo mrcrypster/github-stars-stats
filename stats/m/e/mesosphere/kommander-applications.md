@@ -1,6 +1,6 @@
 # mesosphere/kommander-applications - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 9 | 11 | 
 | 2023-02-19 | 9 | 11 | 
 | 2023-02-17 | 9 | 11 | 
 | 2023-02-16 | 9 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 10 | 11 | 
 | 2023-01-22 | 10 | 11 | 
 | 2023-01-21 | 10 | 11 | 
-| 2023-01-20 | 10 | 11 | 
 

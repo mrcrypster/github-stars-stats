@@ -1,10 +1,10 @@
 # noisetorch/NoiseTorch - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 195
 
-★ Stars: 7964
+★ Stars: 7967
 
 [Open repository](https://github.com/noisetorch/NoiseTorch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 7967 | 195 | 
 | 2023-02-18 | 7964 | 195 | 
 | 2023-02-17 | 7961 | 195 | 
 | 2023-02-16 | 7957 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 7855 | 188 | 
 | 2023-01-22 | 7854 | 188 | 
 | 2023-01-21 | 7852 | 188 | 
-| 2023-01-20 | 7848 | 188 | 
 

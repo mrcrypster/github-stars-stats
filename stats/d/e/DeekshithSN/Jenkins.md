@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 19
 
 ☋ Forks: 148
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/DeekshithSN/Jenkins)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-19 | 10 | 148 | 
+| 2023-02-19 | 11 | 148 | 
 | 2023-02-18 | 10 | 148 | 
 

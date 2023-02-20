@@ -1,6 +1,6 @@
 # beSaif/FlutGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 55 | 16 | 
 | 2023-02-18 | 55 | 16 | 
 | 2023-02-17 | 54 | 16 | 
 | 2023-02-16 | 53 | 16 | 

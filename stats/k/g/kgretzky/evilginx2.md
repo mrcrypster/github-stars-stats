@@ -1,6 +1,6 @@
 # kgretzky/evilginx2 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 1353
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 6897 | 1353 | 
 | 2023-02-18 | 6897 | 1353 | 
 | 2023-02-17 | 6894 | 1352 | 
 | 2023-02-16 | 6889 | 1351 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 6785 | 1337 | 
 | 2023-01-22 | 6779 | 1335 | 
 | 2023-01-21 | 6776 | 1332 | 
-| 2023-01-20 | 6772 | 1331 | 
 

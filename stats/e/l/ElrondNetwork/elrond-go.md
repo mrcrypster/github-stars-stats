@@ -1,10 +1,10 @@
 # ElrondNetwork/elrond-go - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 180
 
-★ Stars: 879
+★ Stars: 881
 
 [Open repository](https://github.com/ElrondNetwork/elrond-go)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 881 | 180 | 
 | 2023-02-18 | 879 | 180 | 
 | 2023-02-17 | 879 | 180 | 
 | 2023-02-16 | 879 | 180 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 877 | 179 | 
 | 2023-01-22 | 876 | 179 | 
 | 2023-01-21 | 876 | 179 | 
-| 2023-01-20 | 876 | 178 | 
 

@@ -1,10 +1,10 @@
 # entropia/tip-toi-reveng - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 117
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/entropia/tip-toi-reveng)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 559 | 117 | 
 | 2023-02-18 | 558 | 117 | 
 | 2023-02-17 | 558 | 117 | 
 | 2023-02-16 | 558 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 554 | 117 | 
 | 2023-01-23 | 554 | 117 | 
 | 2023-01-21 | 554 | 117 | 
-| 2023-01-20 | 554 | 117 | 
 

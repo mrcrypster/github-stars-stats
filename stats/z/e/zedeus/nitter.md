@@ -1,10 +1,10 @@
 # zedeus/nitter - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 319
 
-★ Stars: 6835
+★ Stars: 6839
 
 [Open repository](https://github.com/zedeus/nitter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 6839 | 319 | 
 | 2023-02-18 | 6835 | 319 | 
 | 2023-02-17 | 6831 | 318 | 
 | 2023-02-16 | 6827 | 318 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 6654 | 318 | 
 | 2023-01-22 | 6652 | 319 | 
 | 2023-01-21 | 6646 | 319 | 
-| 2023-01-20 | 6637 | 319 | 
 

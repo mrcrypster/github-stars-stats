@@ -1,6 +1,6 @@
 # clowdhaus/terraform-aws-datadog-forwarders - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 39 | 29 | 
 | 2023-02-18 | 39 | 29 | 
 | 2023-02-17 | 39 | 29 | 
 | 2023-02-15 | 39 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 36 | 26 | 
 | 2023-01-22 | 36 | 26 | 
 | 2023-01-21 | 36 | 26 | 
-| 2023-01-20 | 36 | 26 | 
 

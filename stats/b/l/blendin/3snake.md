@@ -1,6 +1,6 @@
 # blendin/3snake - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 642 | 109 | 
 | 2023-02-18 | 642 | 109 | 
 | 2023-02-17 | 642 | 109 | 
 | 2023-02-16 | 642 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 641 | 109 | 
 | 2023-01-22 | 641 | 109 | 
 | 2023-01-21 | 641 | 109 | 
-| 2023-01-20 | 641 | 109 | 
 

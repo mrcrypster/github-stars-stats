@@ -1,6 +1,6 @@
 # IIC2233/contenidos - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 76 | 65 | 
 | 2023-02-18 | 76 | 65 | 
 | 2023-02-17 | 76 | 65 | 
 | 2023-02-16 | 76 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 74 | 64 | 
 | 2023-01-22 | 74 | 64 | 
 | 2023-01-21 | 74 | 64 | 
-| 2023-01-20 | 74 | 64 | 
 

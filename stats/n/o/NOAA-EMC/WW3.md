@@ -1,6 +1,6 @@
 # NOAA-EMC/WW3 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 191 | 371 | 
 | 2023-02-18 | 191 | 371 | 
 | 2023-02-17 | 191 | 371 | 
 | 2023-02-16 | 191 | 370 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 189 | 361 | 
 | 2023-01-22 | 190 | 361 | 
 | 2023-01-21 | 189 | 361 | 
-| 2023-01-20 | 189 | 361 | 
 

@@ -1,6 +1,6 @@
 # fj365/CMP4 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 82 | 49 | 
 | 2023-02-18 | 82 | 49 | 
 | 2023-02-17 | 82 | 49 | 
 | 2023-02-16 | 82 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 79 | 49 | 
 | 2023-01-22 | 78 | 49 | 
 | 2023-01-21 | 78 | 49 | 
-| 2023-01-20 | 78 | 49 | 
 

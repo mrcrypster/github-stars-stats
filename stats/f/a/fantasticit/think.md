@@ -1,10 +1,10 @@
 # fantasticit/think - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 238
 
-★ Stars: 1353
+★ Stars: 1356
 
 [Open repository](https://github.com/fantasticit/think)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1356 | 238 | 
 | 2023-02-18 | 1353 | 238 | 
 | 2023-02-17 | 1350 | 237 | 
 | 2023-02-16 | 1350 | 237 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1286 | 226 | 
 | 2023-01-22 | 1285 | 226 | 
 | 2023-01-21 | 1285 | 226 | 
-| 2023-01-20 | 1285 | 226 | 
 

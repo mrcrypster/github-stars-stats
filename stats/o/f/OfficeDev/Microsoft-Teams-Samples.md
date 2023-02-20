@@ -1,8 +1,8 @@
 # OfficeDev/Microsoft-Teams-Samples - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 499
+☋ Forks: 500
 
 ★ Stars: 540
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 540 | 500 | 
 | 2023-02-18 | 540 | 499 | 
 | 2023-02-17 | 537 | 498 | 
 | 2023-02-16 | 535 | 498 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 503 | 469 | 
 | 2023-01-22 | 503 | 469 | 
 | 2023-01-21 | 503 | 468 | 
-| 2023-01-20 | 503 | 468 | 
 

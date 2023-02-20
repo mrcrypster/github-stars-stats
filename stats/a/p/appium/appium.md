@@ -1,10 +1,10 @@
 # appium/appium - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 5809
+☋ Forks: 5810
 
-★ Stars: 15976
+★ Stars: 15980
 
 [Open repository](https://github.com/appium/appium)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 15980 | 5810 | 
 | 2023-02-18 | 15976 | 5809 | 
 | 2023-02-17 | 15973 | 5810 | 
 | 2023-02-16 | 15968 | 5806 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 15899 | 5789 | 
 | 2023-01-22 | 15896 | 5788 | 
 | 2023-01-21 | 15894 | 5786 | 
-| 2023-01-20 | 15893 | 5786 | 
 

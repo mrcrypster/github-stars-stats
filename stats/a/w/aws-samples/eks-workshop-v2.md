@@ -1,10 +1,10 @@
 # aws-samples/eks-workshop-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 22
+☋ Forks: 25
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/aws-samples/eks-workshop-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 53 | 25 | 
 | 2023-02-18 | 52 | 22 | 
 | 2023-02-17 | 51 | 21 | 
 | 2023-02-16 | 49 | 21 | 

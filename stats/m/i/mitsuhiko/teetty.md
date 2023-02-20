@@ -1,6 +1,6 @@
 # mitsuhiko/teetty - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 275 | 5 | 
 | 2023-02-19 | 275 | 5 | 
 | 2023-02-17 | 275 | 5 | 
 | 2023-02-16 | 275 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 274 | 5 | 
 | 2023-01-22 | 273 | 4 | 
 | 2023-01-21 | 273 | 4 | 
-| 2023-01-20 | 273 | 4 | 
 

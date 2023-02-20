@@ -1,10 +1,10 @@
 # google/zx - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 870
 
-★ Stars: 36168
+★ Stars: 36176
 
 [Open repository](https://github.com/google/zx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 36176 | 870 | 
 | 2023-02-18 | 36168 | 870 | 
 | 2023-02-17 | 36154 | 870 | 
 | 2023-02-16 | 36144 | 870 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 35896 | 857 | 
 | 2023-01-22 | 35888 | 856 | 
 | 2023-01-21 | 35880 | 856 | 
-| 2023-01-20 | 35871 | 856 | 
 

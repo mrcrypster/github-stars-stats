@@ -1,6 +1,6 @@
 # wp-cli/search-replace-command - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 59 | 44 | 
 | 2023-02-18 | 59 | 44 | 
 | 2023-02-17 | 59 | 44 | 
 | 2023-02-16 | 59 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 58 | 41 | 
 | 2023-01-23 | 58 | 41 | 
 | 2023-01-22 | 58 | 41 | 
-| 2023-01-21 | 58 | 41 | 
 

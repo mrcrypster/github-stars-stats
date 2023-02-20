@@ -1,10 +1,10 @@
 # ZigZagExchange/market-maker - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/ZigZagExchange/market-maker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 172 | 97 | 
 | 2023-02-18 | 170 | 96 | 
 | 2023-02-17 | 170 | 96 | 
 | 2023-02-16 | 168 | 96 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 161 | 93 | 
 | 2023-01-22 | 161 | 93 | 
 | 2023-01-21 | 161 | 93 | 
-| 2023-01-20 | 160 | 93 | 
 

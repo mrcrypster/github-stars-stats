@@ -1,10 +1,10 @@
 # LeDragoX/Win-Debloat-Tools - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 128
 
-★ Stars: 2007
+★ Stars: 2020
 
 [Open repository](https://github.com/LeDragoX/Win-Debloat-Tools)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2020 | 128 | 
+| 2023-02-19 | 2020 | 128 | 
 | 2023-02-18 | 2007 | 128 | 
 | 2023-02-17 | 2000 | 127 | 
 | 2023-02-16 | 1994 | 127 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1867 | 120 | 
 | 2023-01-22 | 1859 | 119 | 
 | 2023-01-21 | 1850 | 119 | 
-| 2023-01-20 | 1845 | 119 | 
 

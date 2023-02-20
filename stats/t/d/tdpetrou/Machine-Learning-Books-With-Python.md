@@ -1,6 +1,6 @@
 # tdpetrou/Machine-Learning-Books-With-Python - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 584
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 899 | 584 | 
 | 2023-02-18 | 899 | 584 | 
 | 2023-02-17 | 898 | 584 | 
 | 2023-02-16 | 898 | 584 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 889 | 584 | 
 | 2023-01-22 | 889 | 584 | 
 | 2023-01-21 | 889 | 584 | 
-| 2023-01-20 | 889 | 584 | 
 

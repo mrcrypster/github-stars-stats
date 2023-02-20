@@ -1,10 +1,10 @@
 # primer/view_components - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 82
 
-★ Stars: 288
+★ Stars: 290
 
 [Open repository](https://github.com/primer/view_components)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 290 | 82 | 
 | 2023-02-18 | 288 | 82 | 
 | 2023-02-17 | 288 | 82 | 
 | 2023-02-16 | 287 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 283 | 78 | 
 | 2023-01-23 | 282 | 76 | 
 | 2023-01-22 | 282 | 76 | 
-| 2023-01-20 | 282 | 76 | 
 

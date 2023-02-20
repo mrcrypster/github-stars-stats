@@ -1,10 +1,10 @@
 # Bogdan-Lyashenko/Under-the-hood-ReactJS - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 510
 
-★ Stars: 5582
+★ Stars: 5585
 
 [Open repository](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5585 | 510 | 
 | 2023-02-18 | 5582 | 510 | 
 | 2023-02-17 | 5582 | 510 | 
 | 2023-02-16 | 5581 | 510 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 5508 | 506 | 
 | 2023-01-23 | 5486 | 505 | 
 | 2023-01-22 | 5482 | 504 | 
-| 2023-01-21 | 5479 | 502 | 
 

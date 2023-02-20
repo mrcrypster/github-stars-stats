@@ -1,6 +1,6 @@
 # NUL0x4C/APCLdr - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 209 | 34 | 
 | 2023-02-18 | 209 | 34 | 
 | 2023-02-17 | 209 | 34 | 
 | 2023-02-16 | 209 | 34 | 

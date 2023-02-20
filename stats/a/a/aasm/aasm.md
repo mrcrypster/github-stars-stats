@@ -1,6 +1,6 @@
 # aasm/aasm - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 620
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4714 | 620 | 
 | 2023-02-18 | 4714 | 620 | 
 | 2023-02-17 | 4712 | 620 | 
 | 2023-02-16 | 4711 | 620 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 4696 | 618 | 
 | 2023-01-23 | 4694 | 618 | 
 | 2023-01-21 | 4694 | 618 | 
-| 2023-01-20 | 4694 | 618 | 
 

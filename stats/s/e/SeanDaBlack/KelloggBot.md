@@ -1,10 +1,10 @@
 # SeanDaBlack/KelloggBot - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 83
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/SeanDaBlack/KelloggBot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 409 | 83 | 
 | 2023-02-18 | 408 | 83 | 
 | 2023-02-17 | 408 | 83 | 
 | 2023-02-16 | 408 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 407 | 83 | 
 | 2023-01-23 | 407 | 82 | 
 | 2023-01-21 | 407 | 82 | 
-| 2023-01-20 | 407 | 82 | 
 

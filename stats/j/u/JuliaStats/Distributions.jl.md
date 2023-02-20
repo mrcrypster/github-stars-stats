@@ -1,8 +1,8 @@
 # JuliaStats/Distributions.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 378
+☋ Forks: 379
 
 ★ Stars: 968
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 968 | 379 | 
 | 2023-02-18 | 968 | 378 | 
 | 2023-02-17 | 968 | 378 | 
 | 2023-02-16 | 964 | 378 | 

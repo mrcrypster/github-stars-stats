@@ -1,10 +1,10 @@
 # ultralight-ux/Ultralight - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 190
 
-★ Stars: 4184
+★ Stars: 4185
 
 [Open repository](https://github.com/ultralight-ux/Ultralight)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4185 | 190 | 
 | 2023-02-18 | 4184 | 190 | 
 | 2023-02-17 | 4185 | 190 | 
 | 2023-02-16 | 4185 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4158 | 188 | 
 | 2023-01-22 | 4157 | 188 | 
 | 2023-01-21 | 4154 | 188 | 
-| 2023-01-20 | 4153 | 188 | 
 

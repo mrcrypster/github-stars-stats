@@ -1,10 +1,10 @@
 # DataTalksClub/mlops-zoomcamp - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 914
+☋ Forks: 915
 
-★ Stars: 4879
+★ Stars: 4883
 
 [Open repository](https://github.com/DataTalksClub/mlops-zoomcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4883 | 915 | 
 | 2023-02-18 | 4879 | 914 | 
 | 2023-02-17 | 4873 | 913 | 
 | 2023-02-16 | 4869 | 914 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4769 | 893 | 
 | 2023-01-22 | 4766 | 892 | 
 | 2023-01-21 | 4758 | 892 | 
-| 2023-01-20 | 4753 | 890 | 
 

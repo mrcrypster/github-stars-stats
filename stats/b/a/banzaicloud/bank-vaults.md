@@ -1,10 +1,10 @@
 # banzaicloud/bank-vaults - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 455
 
-★ Stars: 1803
+★ Stars: 1804
 
 [Open repository](https://github.com/banzaicloud/bank-vaults)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1804 | 455 | 
 | 2023-02-18 | 1803 | 455 | 
 | 2023-02-17 | 1802 | 454 | 
 | 2023-02-16 | 1801 | 454 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1781 | 440 | 
 | 2023-01-22 | 1780 | 438 | 
 | 2023-01-21 | 1780 | 438 | 
-| 2023-01-20 | 1779 | 438 | 
 

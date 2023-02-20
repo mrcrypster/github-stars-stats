@@ -1,6 +1,6 @@
 # 0xClandestine/solplot - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 139 | 1 | 
 | 2023-02-18 | 139 | 1 | 
 | 2023-02-17 | 139 | 1 | 
 | 2023-02-16 | 139 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 134 | 1 | 
 | 2023-01-22 | 134 | 1 | 
 | 2023-01-21 | 134 | 1 | 
-| 2023-01-20 | 134 | 1 | 
 

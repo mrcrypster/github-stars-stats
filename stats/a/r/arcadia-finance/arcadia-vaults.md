@@ -1,8 +1,8 @@
 # arcadia-finance/arcadia-vaults - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 62 | 3 | 
 | 2023-02-18 | 62 | 2 | 
 | 2023-02-17 | 61 | 2 | 
 | 2023-02-16 | 61 | 2 | 

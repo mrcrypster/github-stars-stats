@@ -1,6 +1,6 @@
 # dag/vim-fish - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 423 | 62 | 
 | 2023-02-18 | 423 | 62 | 
 | 2023-02-17 | 423 | 62 | 
 | 2023-02-16 | 423 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 425 | 61 | 
 | 2023-01-23 | 425 | 61 | 
 | 2023-01-22 | 425 | 61 | 
-| 2023-01-20 | 424 | 61 | 
 

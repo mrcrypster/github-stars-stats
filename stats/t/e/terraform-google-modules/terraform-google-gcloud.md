@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-gcloud - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 109 | 89 | 
 | 2023-02-18 | 109 | 89 | 
 | 2023-02-17 | 109 | 88 | 
 | 2023-02-16 | 109 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 105 | 88 | 
 | 2023-01-23 | 105 | 88 | 
 | 2023-01-22 | 105 | 88 | 
-| 2023-01-21 | 105 | 88 | 
 

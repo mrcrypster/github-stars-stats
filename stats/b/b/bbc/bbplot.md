@@ -1,8 +1,8 @@
 # bbc/bbplot - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
-☋ Forks: 240
+☋ Forks: 241
 
 ★ Stars: 1389
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 1389 | 241 | 
 | 2023-02-18 | 1389 | 240 | 
 | 2023-02-17 | 1389 | 240 | 
 | 2023-02-16 | 1391 | 240 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 1386 | 240 | 
 | 2023-01-22 | 1386 | 240 | 
 | 2023-01-21 | 1385 | 240 | 
-| 2023-01-20 | 1385 | 240 | 
 

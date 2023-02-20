@@ -1,10 +1,10 @@
 # bramses/bramses-highly-opinionated-vault-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 734
+★ Stars: 735
 
 [Open repository](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 735 | 31 | 
 | 2023-02-19 | 734 | 30 | 
 | 2023-02-17 | 731 | 30 | 
 | 2023-02-16 | 731 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 705 | 27 | 
 | 2023-01-22 | 702 | 27 | 
 | 2023-01-21 | 702 | 27 | 
-| 2023-01-20 | 701 | 27 | 
 

@@ -1,6 +1,6 @@
 # megaease/easegress - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 434
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 5055 | 434 | 
 | 2023-02-18 | 5055 | 434 | 
 | 2023-02-17 | 5052 | 434 | 
 | 2023-02-16 | 5049 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4996 | 431 | 
 | 2023-01-22 | 4985 | 431 | 
 | 2023-01-21 | 4980 | 431 | 
-| 2023-01-20 | 4980 | 431 | 
 

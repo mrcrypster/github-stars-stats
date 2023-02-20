@@ -1,6 +1,6 @@
 # mhuebert/inside-out - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 26 | 2 | 
 | 2023-02-19 | 26 | 2 | 
 | 2023-02-17 | 26 | 2 | 
 | 2023-02-16 | 26 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-23 | 26 | 3 | 
 | 2023-01-22 | 26 | 3 | 
 | 2023-01-21 | 26 | 3 | 
-| 2023-01-20 | 26 | 3 | 
 

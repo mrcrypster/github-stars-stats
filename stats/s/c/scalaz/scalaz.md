@@ -1,6 +1,6 @@
 # scalaz/scalaz - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 725
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 4602 | 725 | 
 | 2023-02-18 | 4602 | 725 | 
 | 2023-02-17 | 4601 | 725 | 
 | 2023-02-16 | 4601 | 725 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 4598 | 725 | 
 | 2023-01-22 | 4598 | 725 | 
 | 2023-01-21 | 4598 | 725 | 
-| 2023-01-20 | 4598 | 724 | 
 

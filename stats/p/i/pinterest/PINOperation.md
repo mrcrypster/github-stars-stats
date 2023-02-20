@@ -1,6 +1,6 @@
 # pinterest/PINOperation - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 98 | 37 | 
 | 2023-02-18 | 98 | 37 | 
 | 2023-02-17 | 98 | 37 | 
 | 2023-02-16 | 97 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 95 | 37 | 
 | 2023-01-22 | 95 | 37 | 
 | 2023-01-21 | 95 | 37 | 
-| 2023-01-20 | 95 | 37 | 
 

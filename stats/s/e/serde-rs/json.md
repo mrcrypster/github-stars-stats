@@ -1,10 +1,10 @@
 # serde-rs/json - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 458
 
-★ Stars: 3689
+★ Stars: 3695
 
 [Open repository](https://github.com/serde-rs/json)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 3695 | 458 | 
 | 2023-02-18 | 3689 | 458 | 
 | 2023-02-17 | 3687 | 457 | 
 | 2023-02-16 | 3671 | 457 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 3624 | 457 | 
 | 2023-01-22 | 3621 | 458 | 
 | 2023-01-21 | 3616 | 458 | 
-| 2023-01-20 | 3615 | 457 | 
 

@@ -1,10 +1,10 @@
 # FaceMe-SDK/FaceLivenessDetection-ServerSDK - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 115
 
-★ Stars: 167
+★ Stars: 180
 
 [Open repository](https://github.com/FaceMe-SDK/FaceLivenessDetection-ServerSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 180 | 115 | 
 | 2023-02-18 | 167 | 115 | 
 | 2023-02-17 | 155 | 115 | 
 | 2023-02-16 | 110 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 137 | 80 | 
 | 2023-01-22 | 137 | 80 | 
 | 2023-01-21 | 137 | 80 | 
-| 2023-01-20 | 137 | 80 | 
 

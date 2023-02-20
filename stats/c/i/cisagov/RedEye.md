@@ -1,10 +1,10 @@
 # cisagov/RedEye - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 202
 
-★ Stars: 2150
+★ Stars: 2152
 
 [Open repository](https://github.com/cisagov/RedEye)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 2152 | 202 | 
 | 2023-02-18 | 2150 | 202 | 
 | 2023-02-17 | 2149 | 202 | 
 | 2023-02-16 | 2148 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 2101 | 192 | 
 | 2023-01-22 | 2100 | 192 | 
 | 2023-01-21 | 2099 | 191 | 
-| 2023-01-20 | 2099 | 191 | 
 

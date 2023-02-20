@@ -1,6 +1,6 @@
 # Normation/rudder - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 416 | 72 | 
 | 2023-02-18 | 416 | 72 | 
 | 2023-02-17 | 417 | 72 | 
 | 2023-02-16 | 417 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 408 | 73 | 
 | 2023-01-22 | 408 | 73 | 
 | 2023-01-21 | 408 | 73 | 
-| 2023-01-20 | 408 | 73 | 
 

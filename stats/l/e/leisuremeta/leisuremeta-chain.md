@@ -1,10 +1,10 @@
 # leisuremeta/leisuremeta-chain - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 79
+★ Stars: 85
 
 [Open repository](https://github.com/leisuremeta/leisuremeta-chain)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 85 | 1 | 
+| 2023-02-19 | 103 | 1 | 
 | 2023-02-18 | 79 | 1 | 
 | 2023-02-17 | 59 | 1 | 
 | 2023-02-16 | 55 | 1 | 

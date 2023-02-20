@@ -1,6 +1,6 @@
 # UCSC-VLAA/RobustCNN - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-19 | 99 | 7 | 
 | 2023-02-18 | 99 | 7 | 
 | 2023-02-17 | 99 | 7 | 
 | 2023-02-16 | 99 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-23 | 99 | 7 | 
 | 2023-01-22 | 99 | 7 | 
 | 2023-01-21 | 99 | 7 | 
-| 2023-01-20 | 99 | 7 | 
 
