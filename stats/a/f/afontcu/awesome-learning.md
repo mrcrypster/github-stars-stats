@@ -1,6 +1,6 @@
 # afontcu/awesome-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 994 | 46 | 
 | 2023-02-19 | 994 | 46 | 
 | 2023-02-18 | 993 | 46 | 
 | 2023-02-17 | 993 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 991 | 47 | 
 | 2023-01-24 | 991 | 47 | 
 | 2023-01-22 | 991 | 47 | 
-| 2023-01-21 | 990 | 47 | 
 

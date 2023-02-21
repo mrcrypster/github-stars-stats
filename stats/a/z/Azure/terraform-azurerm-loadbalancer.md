@@ -1,6 +1,6 @@
 # Azure/terraform-azurerm-loadbalancer - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 96
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 47 | 96 | 
+| 2023-02-20 | 47 | 96 | 
 | 2023-02-19 | 47 | 96 | 
 | 2023-02-18 | 47 | 96 | 
 | 2023-02-17 | 47 | 96 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 45 | 98 | 
 | 2023-01-23 | 45 | 98 | 
 | 2023-01-22 | 45 | 98 | 
-| 2023-01-21 | 45 | 98 | 
 

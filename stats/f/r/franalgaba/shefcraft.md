@@ -1,6 +1,6 @@
 # franalgaba/shefcraft - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 13 | 2 | 
 | 2023-02-19 | 13 | 2 | 
 | 2023-02-18 | 13 | 2 | 
 | 2023-02-17 | 13 | 2 | 

@@ -1,6 +1,6 @@
 # ninenines/gun - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 830 | 233 | 
 | 2023-02-19 | 830 | 233 | 
 | 2023-02-18 | 829 | 233 | 
 | 2023-02-17 | 828 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 825 | 231 | 
 | 2023-01-23 | 825 | 231 | 
 | 2023-01-22 | 825 | 232 | 
-| 2023-01-21 | 824 | 232 | 
 

@@ -1,6 +1,6 @@
 # austation/austation - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 18 | 48 | 
 | 2023-02-19 | 18 | 48 | 
 | 2023-02-18 | 18 | 48 | 
 | 2023-02-17 | 18 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 19 | 48 | 
 | 2023-01-24 | 19 | 48 | 
 | 2023-01-23 | 19 | 48 | 
-| 2023-01-21 | 19 | 48 | 
 

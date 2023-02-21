@@ -1,10 +1,10 @@
 # yangshun/front-end-interview-handbook - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 5318
+☋ Forks: 5322
 
-★ Stars: 36700
+★ Stars: 36708
 
 [Open repository](https://github.com/yangshun/front-end-interview-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 36708 | 5322 | 
 | 2023-02-19 | 36700 | 5318 | 
 | 2023-02-18 | 36694 | 5320 | 
 | 2023-02-17 | 36692 | 5319 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 36494 | 5303 | 
 | 2023-01-24 | 36486 | 5302 | 
 | 2023-01-23 | 36477 | 5302 | 
-| 2023-01-22 | 36475 | 5300 | 
 

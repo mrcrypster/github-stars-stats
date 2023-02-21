@@ -1,6 +1,6 @@
 # cilium/json-mock - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 8 | 12 | 
 | 2023-02-19 | 8 | 12 | 
 | 2023-02-18 | 8 | 12 | 
 | 2023-02-17 | 8 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 8 | 12 | 
 | 2023-01-23 | 8 | 12 | 
 | 2023-01-22 | 8 | 12 | 
-| 2023-01-21 | 8 | 12 | 
 

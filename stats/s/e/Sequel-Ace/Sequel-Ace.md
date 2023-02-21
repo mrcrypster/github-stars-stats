@@ -1,10 +1,10 @@
 # Sequel-Ace/Sequel-Ace - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 198
 
-★ Stars: 5298
+★ Stars: 5297
 
 [Open repository](https://github.com/Sequel-Ace/Sequel-Ace)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5297 | 198 | 
 | 2023-02-19 | 5298 | 198 | 
 | 2023-02-18 | 5299 | 198 | 
 | 2023-02-17 | 5298 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 5244 | 197 | 
 | 2023-01-23 | 5242 | 197 | 
 | 2023-01-22 | 5239 | 197 | 
-| 2023-01-21 | 5238 | 197 | 
 

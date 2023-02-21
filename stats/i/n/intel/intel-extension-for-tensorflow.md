@@ -1,6 +1,6 @@
 # intel/intel-extension-for-tensorflow - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 208 | 24 | 
 | 2023-02-19 | 208 | 24 | 
 | 2023-02-18 | 208 | 24 | 
 | 2023-02-17 | 208 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 203 | 23 | 
 | 2023-01-24 | 203 | 23 | 
 | 2023-01-23 | 203 | 23 | 
-| 2023-01-21 | 202 | 23 | 
 

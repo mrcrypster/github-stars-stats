@@ -1,6 +1,6 @@
 # voxpupuli/puppet-googleauthenticator - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 13 | 19 | 
 | 2023-02-19 | 13 | 19 | 
 | 2023-02-18 | 13 | 19 | 
 | 2023-02-17 | 13 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 13 | 18 | 
 | 2023-01-24 | 13 | 18 | 
 | 2023-01-23 | 13 | 18 | 
-| 2023-01-22 | 13 | 18 | 
 

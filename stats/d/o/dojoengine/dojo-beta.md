@@ -1,10 +1,10 @@
 # dojoengine/dojo-beta - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 7
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/dojoengine/dojo-beta)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 74 | 7 | 
 | 2023-02-19 | 73 | 7 | 
 | 2023-02-18 | 73 | 7 | 
 | 2023-02-16 | 73 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 12 | 2 | 
 | 2023-01-23 | 12 | 2 | 
 | 2023-01-22 | 12 | 2 | 
-| 2023-01-21 | 12 | 2 | 
 

@@ -1,10 +1,10 @@
 # cloudflare/quiche - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 528
 
-★ Stars: 7184
+★ Stars: 7189
 
 [Open repository](https://github.com/cloudflare/quiche)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 7189 | 528 | 
 | 2023-02-19 | 7184 | 528 | 
 | 2023-02-18 | 7181 | 528 | 
 | 2023-02-17 | 7176 | 528 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 7117 | 517 | 
 | 2023-01-23 | 7115 | 516 | 
 | 2023-01-22 | 7108 | 515 | 
-| 2023-01-21 | 7106 | 515 | 
 

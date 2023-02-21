@@ -1,8 +1,8 @@
 # dotnet/spa-templates - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 48 | 35 | 
 | 2023-02-19 | 48 | 34 | 
 | 2023-02-18 | 48 | 34 | 
 | 2023-02-17 | 48 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 48 | 31 | 
 | 2023-01-23 | 48 | 31 | 
 | 2023-01-22 | 48 | 31 | 
-| 2023-01-21 | 48 | 31 | 
 

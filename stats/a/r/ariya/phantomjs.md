@@ -1,10 +1,10 @@
 # ariya/phantomjs - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 5842
+☋ Forks: 5845
 
-★ Stars: 29181
+★ Stars: 29187
 
 [Open repository](https://github.com/ariya/phantomjs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 29187 | 5845 | 
 | 2023-02-19 | 29181 | 5842 | 
 | 2023-02-18 | 29180 | 5843 | 
 | 2023-02-17 | 29178 | 5843 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 29129 | 5843 | 
 | 2023-01-23 | 29128 | 5843 | 
 | 2023-01-22 | 29128 | 5843 | 
-| 2023-01-21 | 29127 | 5843 | 
 

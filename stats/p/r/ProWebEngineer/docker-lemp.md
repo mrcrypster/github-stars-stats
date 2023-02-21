@@ -1,8 +1,8 @@
 # ProWebEngineer/docker-lemp - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 235
+☋ Forks: 236
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4 | 236 | 
 | 2023-02-18 | 4 | 235 | 
 | 2023-02-17 | 4 | 235 | 
 | 2023-02-16 | 4 | 235 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 6 | 228 | 
 | 2023-01-23 | 6 | 228 | 
 | 2023-01-22 | 6 | 226 | 
-| 2023-01-21 | 6 | 224 | 
 

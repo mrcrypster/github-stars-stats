@@ -1,6 +1,6 @@
 # kishandiemm/potential-octo-waddle - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 25 | 25 | 
 | 2023-02-19 | 25 | 25 | 
 | 2023-02-18 | 25 | 25 | 
 | 2023-02-17 | 25 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 25 | 25 | 
 | 2023-01-24 | 25 | 25 | 
 | 2023-01-23 | 25 | 25 | 
-| 2023-01-21 | 25 | 25 | 
 

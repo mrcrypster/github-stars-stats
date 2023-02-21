@@ -1,8 +1,8 @@
 # Fair-Share-Group/fairsite - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 4 | 9 | 
 | 2023-02-19 | 4 | 8 | 
 | 2023-02-18 | 4 | 8 | 
 | 2023-02-17 | 4 | 8 | 

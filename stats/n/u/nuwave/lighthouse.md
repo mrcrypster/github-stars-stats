@@ -1,10 +1,10 @@
 # nuwave/lighthouse - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 399
+☋ Forks: 397
 
-★ Stars: 3095
+★ Stars: 3097
 
 [Open repository](https://github.com/nuwave/lighthouse)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 3097 | 397 | 
 | 2023-02-19 | 3095 | 399 | 
 | 2023-02-18 | 3094 | 399 | 
 | 2023-02-17 | 3094 | 398 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 3076 | 396 | 
 | 2023-01-24 | 3072 | 395 | 
 | 2023-01-23 | 3071 | 395 | 
-| 2023-01-22 | 3070 | 395 | 
 

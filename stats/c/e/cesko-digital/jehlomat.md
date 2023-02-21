@@ -1,10 +1,10 @@
 # cesko-digital/jehlomat - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 6
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/cesko-digital/jehlomat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 9 | 6 | 
 | 2023-02-19 | 10 | 6 | 
 | 2023-02-18 | 10 | 6 | 
 | 2023-02-17 | 10 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 10 | 6 | 
 | 2023-01-23 | 10 | 6 | 
 | 2023-01-22 | 10 | 6 | 
-| 2023-01-21 | 10 | 6 | 
 

@@ -1,10 +1,10 @@
 # ZLMediaKit/ZLMediaKit - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 2344
+☋ Forks: 2346
 
-★ Stars: 8805
+★ Stars: 8819
 
 [Open repository](https://github.com/ZLMediaKit/ZLMediaKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 8819 | 2346 | 
 | 2023-02-19 | 8805 | 2344 | 
 | 2023-02-18 | 8800 | 2342 | 
 | 2023-02-17 | 8799 | 2338 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 8590 | 2290 | 
 | 2023-01-23 | 8588 | 2290 | 
 | 2023-01-22 | 8587 | 2290 | 
-| 2023-01-21 | 8588 | 2290 | 
 

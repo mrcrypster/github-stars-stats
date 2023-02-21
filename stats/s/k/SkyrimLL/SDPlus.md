@@ -1,6 +1,6 @@
 # SkyrimLL/SDPlus - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 24 | 18 | 
 | 2023-02-19 | 24 | 18 | 
 | 2023-02-18 | 24 | 18 | 
 | 2023-02-17 | 24 | 18 | 

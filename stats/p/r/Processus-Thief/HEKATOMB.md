@@ -1,6 +1,6 @@
 # Processus-Thief/HEKATOMB - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 303 | 33 | 
 | 2023-02-19 | 303 | 33 | 
 | 2023-02-18 | 303 | 33 | 
 | 2023-02-17 | 301 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 257 | 30 | 
 | 2023-01-23 | 255 | 30 | 
 | 2023-01-22 | 254 | 30 | 
-| 2023-01-21 | 253 | 30 | 
 

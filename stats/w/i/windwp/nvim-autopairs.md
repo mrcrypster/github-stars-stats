@@ -1,8 +1,8 @@
 # windwp/nvim-autopairs - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 88
+☋ Forks: 87
 
 ★ Stars: 1779
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1779 | 87 | 
 | 2023-02-19 | 1779 | 88 | 
 | 2023-02-18 | 1775 | 88 | 
 | 2023-02-17 | 1771 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1717 | 83 | 
 | 2023-01-23 | 1713 | 83 | 
 | 2023-01-22 | 1710 | 83 | 
-| 2023-01-21 | 1709 | 83 | 
 

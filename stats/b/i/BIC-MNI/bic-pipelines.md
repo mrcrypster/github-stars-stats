@@ -1,10 +1,10 @@
 # BIC-MNI/bic-pipelines - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 5
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/BIC-MNI/bic-pipelines)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 13 | 5 | 
 | 2023-02-19 | 12 | 5 | 
 | 2023-02-18 | 12 | 5 | 
 | 2023-02-17 | 12 | 5 | 

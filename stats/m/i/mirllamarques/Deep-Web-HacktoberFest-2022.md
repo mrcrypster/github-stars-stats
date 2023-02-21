@@ -1,6 +1,6 @@
 # mirllamarques/Deep-Web-HacktoberFest-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3 | 23 | 
 | 2023-02-19 | 3 | 23 | 
 | 2023-02-18 | 3 | 23 | 
 | 2023-02-17 | 3 | 23 | 

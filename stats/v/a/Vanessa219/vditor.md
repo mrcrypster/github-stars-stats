@@ -1,10 +1,10 @@
 # Vanessa219/vditor - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 637
+☋ Forks: 636
 
-★ Stars: 5866
+★ Stars: 5874
 
 [Open repository](https://github.com/Vanessa219/vditor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5874 | 636 | 
 | 2023-02-19 | 5866 | 637 | 
 | 2023-02-18 | 5861 | 636 | 
 | 2023-02-17 | 5860 | 636 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 5768 | 627 | 
 | 2023-01-23 | 5767 | 625 | 
 | 2023-01-22 | 5764 | 624 | 
-| 2023-01-21 | 5763 | 624 | 
 

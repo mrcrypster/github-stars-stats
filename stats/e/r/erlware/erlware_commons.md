@@ -1,6 +1,6 @@
 # erlware/erlware_commons - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 215 | 99 | 
 | 2023-02-19 | 215 | 99 | 
 | 2023-02-18 | 215 | 99 | 
 | 2023-02-17 | 215 | 99 | 

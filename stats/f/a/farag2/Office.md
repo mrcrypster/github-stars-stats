@@ -1,10 +1,10 @@
 # farag2/Office - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/farag2/Office)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 106 | 18 | 
 | 2023-02-19 | 105 | 17 | 
 | 2023-02-18 | 105 | 17 | 
 | 2023-02-17 | 105 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 99 | 15 | 
 | 2023-01-24 | 99 | 15 | 
 | 2023-01-23 | 99 | 15 | 
-| 2023-01-22 | 99 | 15 | 
 

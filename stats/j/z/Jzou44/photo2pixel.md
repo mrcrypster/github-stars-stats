@@ -1,6 +1,6 @@
 # Jzou44/photo2pixel - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 129 | 38 | 
 | 2023-02-19 | 129 | 38 | 
 | 2023-02-18 | 129 | 38 | 
 | 2023-02-17 | 129 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 124 | 37 | 
 | 2023-01-23 | 122 | 37 | 
 | 2023-01-22 | 122 | 37 | 
-| 2023-01-21 | 122 | 37 | 
 

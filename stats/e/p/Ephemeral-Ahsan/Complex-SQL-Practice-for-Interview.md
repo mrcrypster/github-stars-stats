@@ -1,6 +1,6 @@
 # Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 74 | 25 | 
 | 2023-02-19 | 74 | 25 | 
 | 2023-02-18 | 74 | 25 | 
 | 2023-02-17 | 74 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 75 | 25 | 
 | 2023-01-23 | 75 | 25 | 
 | 2023-01-22 | 75 | 25 | 
-| 2023-01-21 | 75 | 25 | 
 

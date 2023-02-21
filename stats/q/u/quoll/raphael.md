@@ -1,10 +1,10 @@
 # quoll/raphael - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/quoll/raphael)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 23 | - | 
 | 2023-02-19 | 21 | - | 
 | 2023-02-18 | 21 | - | 
 | 2023-02-17 | 21 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 21 | - | 
 | 2023-01-23 | 21 | - | 
 | 2023-01-22 | 21 | - | 
-| 2023-01-21 | 21 | - | 
 

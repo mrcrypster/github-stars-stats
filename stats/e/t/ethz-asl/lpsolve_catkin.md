@@ -1,10 +1,10 @@
 # ethz-asl/lpsolve_catkin - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/ethz-asl/lpsolve_catkin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 3 | 2 | 
 | 2023-02-19 | 2 | 2 | 
 | 2023-02-18 | 2 | 2 | 
 | 2023-02-17 | 2 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 2 | 2 | 
 | 2023-01-23 | 1 | 2 | 
 | 2023-01-22 | 1 | 2 | 
-| 2023-01-21 | 1 | 2 | 
 

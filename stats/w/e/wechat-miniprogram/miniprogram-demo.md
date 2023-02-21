@@ -1,10 +1,10 @@
 # wechat-miniprogram/miniprogram-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1934
 
-★ Stars: 5815
+★ Stars: 5816
 
 [Open repository](https://github.com/wechat-miniprogram/miniprogram-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5816 | 1934 | 
 | 2023-02-19 | 5815 | 1934 | 
 | 2023-02-18 | 5814 | 1932 | 
 | 2023-02-17 | 5811 | 1931 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 5763 | 1928 | 
 | 2023-01-23 | 5762 | 1928 | 
 | 2023-01-22 | 5762 | 1928 | 
-| 2023-01-21 | 5762 | 1928 | 
 

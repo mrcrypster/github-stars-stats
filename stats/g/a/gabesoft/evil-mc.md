@@ -1,10 +1,10 @@
 # gabesoft/evil-mc - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 31
 
-★ Stars: 361
+★ Stars: 363
 
 [Open repository](https://github.com/gabesoft/evil-mc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 363 | 31 | 
 | 2023-02-19 | 361 | 31 | 
 | 2023-02-18 | 361 | 31 | 
 | 2023-02-17 | 361 | 31 | 

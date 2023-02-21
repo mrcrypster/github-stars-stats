@@ -1,10 +1,10 @@
 # 0xJs/RedTeaming_CheatSheet - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 121
 
-★ Stars: 782
+★ Stars: 783
 
 [Open repository](https://github.com/0xJs/RedTeaming_CheatSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 783 | 121 | 
 | 2023-02-19 | 782 | 121 | 
 | 2023-02-18 | 780 | 120 | 
 | 2023-02-17 | 780 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 711 | 108 | 
 | 2023-01-23 | 710 | 108 | 
 | 2023-01-22 | 711 | 108 | 
-| 2023-01-21 | 708 | 108 | 
 

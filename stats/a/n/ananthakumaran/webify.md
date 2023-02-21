@@ -1,6 +1,6 @@
 # ananthakumaran/webify - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 437 | 24 | 
 | 2023-02-18 | 437 | 24 | 
 | 2023-02-17 | 437 | 24 | 
 | 2023-02-16 | 437 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 430 | 24 | 
 | 2023-01-23 | 429 | 24 | 
 | 2023-01-22 | 429 | 24 | 
-| 2023-01-21 | 428 | 24 | 
 

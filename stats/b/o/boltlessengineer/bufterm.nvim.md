@@ -1,10 +1,10 @@
 # boltlessengineer/bufterm.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/boltlessengineer/bufterm.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 46 | 1 | 
 | 2023-02-19 | 45 | 1 | 
 | 2023-02-18 | 45 | 1 | 
 | 2023-02-17 | 45 | 1 | 

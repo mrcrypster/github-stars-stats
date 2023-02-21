@@ -1,6 +1,6 @@
 # Spark-Concepts/xPro-V5 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 26 | 10 | 
 | 2023-02-19 | 26 | 10 | 
 | 2023-02-18 | 26 | 10 | 
 | 2023-02-17 | 26 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 27 | 9 | 
 | 2023-01-23 | 27 | 9 | 
 | 2023-01-22 | 27 | 9 | 
-| 2023-01-21 | 27 | 9 | 
 

@@ -1,6 +1,6 @@
 # xianxincoder/xianxin-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 93 | 8 | 
 | 2023-02-19 | 93 | 8 | 
 | 2023-02-18 | 93 | 8 | 
 | 2023-02-16 | 93 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 89 | 9 | 
 | 2023-01-23 | 89 | 9 | 
 | 2023-01-22 | 89 | 9 | 
-| 2023-01-21 | 89 | 9 | 
 

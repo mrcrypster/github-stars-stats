@@ -1,6 +1,6 @@
 # peazip/PeaZip - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2554 | 176 | 
 | 2023-02-19 | 2554 | 176 | 
 | 2023-02-18 | 2549 | 176 | 
 | 2023-02-17 | 2546 | 176 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2487 | 168 | 
 | 2023-01-23 | 2487 | 168 | 
 | 2023-01-22 | 2486 | 168 | 
-| 2023-01-21 | 2485 | 168 | 
 

@@ -1,6 +1,6 @@
 # pdphilip/laravel-elasticsearch - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 33 | 2 | 
 | 2023-02-19 | 33 | 2 | 
 | 2023-02-18 | 33 | 2 | 
 | 2023-02-17 | 33 | 2 | 

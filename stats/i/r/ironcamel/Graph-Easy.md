@@ -1,6 +1,6 @@
 # ironcamel/Graph-Easy - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 447 | 32 | 
 | 2023-02-18 | 447 | 32 | 
 | 2023-02-17 | 447 | 32 | 
 | 2023-02-16 | 447 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-25 | 439 | 32 | 
 | 2023-01-24 | 439 | 32 | 
 | 2023-01-23 | 439 | 32 | 
-| 2023-01-22 | 439 | 32 | 
 

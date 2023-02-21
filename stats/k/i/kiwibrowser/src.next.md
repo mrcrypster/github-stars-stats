@@ -1,10 +1,10 @@
 # kiwibrowser/src.next - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 181
 
-★ Stars: 1154
+★ Stars: 1157
 
 [Open repository](https://github.com/kiwibrowser/src.next)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1157 | 181 | 
 | 2023-02-19 | 1154 | 181 | 
 | 2023-02-18 | 1151 | 180 | 
 | 2023-02-17 | 1150 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1124 | 173 | 
 | 2023-01-23 | 1121 | 173 | 
 | 2023-01-22 | 1119 | 173 | 
-| 2023-01-21 | 1118 | 172 | 
 

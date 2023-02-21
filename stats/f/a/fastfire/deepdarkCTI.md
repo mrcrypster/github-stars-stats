@@ -1,10 +1,10 @@
 # fastfire/deepdarkCTI - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 379
+☋ Forks: 381
 
-★ Stars: 1564
+★ Stars: 1572
 
 [Open repository](https://github.com/fastfire/deepdarkCTI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1572 | 381 | 
 | 2023-02-19 | 1564 | 379 | 
 | 2023-02-18 | 1563 | 379 | 
 | 2023-02-17 | 1560 | 379 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1511 | 364 | 
 | 2023-01-23 | 1509 | 364 | 
 | 2023-01-22 | 1508 | 363 | 
-| 2023-01-21 | 1506 | 363 | 
 

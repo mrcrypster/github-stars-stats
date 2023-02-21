@@ -1,10 +1,10 @@
 # ZOSOpenTools/meta - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ZOSOpenTools/meta)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 17 | 11 | 
 | 2023-02-19 | 16 | 10 | 
 | 2023-02-18 | 16 | 9 | 
 | 2023-02-17 | 16 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 16 | 7 | 
 | 2023-01-24 | 16 | 7 | 
 | 2023-01-23 | 16 | 7 | 
-| 2023-01-21 | 16 | 7 | 
 

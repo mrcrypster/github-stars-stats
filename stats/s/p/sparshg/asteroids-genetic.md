@@ -1,10 +1,10 @@
 # sparshg/asteroids-genetic - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 7
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/sparshg/asteroids-genetic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 180 | 7 | 
 | 2023-02-19 | 179 | 7 | 
 | 2023-02-18 | 179 | 7 | 
 | 2023-02-17 | 178 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 163 | 7 | 
 | 2023-01-23 | 163 | 7 | 
 | 2023-01-22 | 163 | 7 | 
-| 2023-01-21 | 161 | 7 | 
 

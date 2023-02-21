@@ -1,10 +1,10 @@
 # zalando/patroni - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 682
 
-★ Stars: 5237
+★ Stars: 5241
 
 [Open repository](https://github.com/zalando/patroni)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5241 | 682 | 
 | 2023-02-19 | 5237 | 682 | 
 | 2023-02-17 | 5235 | 682 | 
 | 2023-02-16 | 5233 | 682 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 5152 | 676 | 
 | 2023-01-23 | 5151 | 676 | 
 | 2023-01-22 | 5148 | 676 | 
-| 2023-01-21 | 5149 | 676 | 
 

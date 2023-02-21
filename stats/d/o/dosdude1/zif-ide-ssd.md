@@ -1,6 +1,6 @@
 # dosdude1/zif-ide-ssd - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 68 | 4 | 
 | 2023-02-19 | 68 | 4 | 
 | 2023-02-18 | 68 | 4 | 
 | 2023-02-17 | 68 | 4 | 

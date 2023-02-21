@@ -1,6 +1,6 @@
 # PatrickAlphaC/fund_me - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 41 | 87 | 
 | 2023-02-19 | 41 | 87 | 
 | 2023-02-17 | 41 | 86 | 
 | 2023-02-16 | 41 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 41 | 85 | 
 | 2023-01-23 | 41 | 85 | 
 | 2023-01-22 | 41 | 85 | 
-| 2023-01-21 | 41 | 85 | 
 

@@ -1,10 +1,10 @@
 # zgana/fpp3-python-readalong - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 92
+☋ Forks: 91
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/zgana/fpp3-python-readalong)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 218 | 91 | 
 | 2023-02-19 | 217 | 92 | 
 | 2023-02-18 | 217 | 91 | 
 | 2023-02-17 | 216 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 204 | 87 | 
 | 2023-01-23 | 204 | 86 | 
 | 2023-01-22 | 204 | 86 | 
-| 2023-01-21 | 204 | 86 | 
 

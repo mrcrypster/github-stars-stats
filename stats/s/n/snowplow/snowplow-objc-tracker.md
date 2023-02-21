@@ -1,10 +1,10 @@
 # snowplow/snowplow-objc-tracker - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 88
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/snowplow/snowplow-objc-tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 69 | 88 | 
 | 2023-02-19 | 68 | 88 | 
 | 2023-02-18 | 68 | 88 | 
 | 2023-02-17 | 68 | 88 | 

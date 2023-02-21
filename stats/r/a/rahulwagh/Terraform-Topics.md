@@ -1,8 +1,8 @@
 # rahulwagh/Terraform-Topics - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 150
+☋ Forks: 155
 
 ★ Stars: 26
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 26 | 155 | 
+| 2023-02-20 | 26 | 154 | 
 | 2023-02-19 | 26 | 150 | 
 | 2023-02-18 | 26 | 146 | 
 | 2023-02-17 | 25 | 144 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 22 | 126 | 
 | 2023-01-23 | 22 | 126 | 
 | 2023-01-22 | 22 | 126 | 
-| 2023-01-21 | 22 | 125 | 
 

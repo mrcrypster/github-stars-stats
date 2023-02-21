@@ -1,6 +1,6 @@
 # hoga-it/leafdown - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 48 | 3 | 
 | 2023-02-19 | 48 | 3 | 
 | 2023-02-18 | 48 | 3 | 
 | 2023-02-17 | 48 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 47 | 3 | 
 | 2023-01-24 | 47 | 3 | 
 | 2023-01-23 | 47 | 3 | 
-| 2023-01-22 | 47 | 3 | 
 

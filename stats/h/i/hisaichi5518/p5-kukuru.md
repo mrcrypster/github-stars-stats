@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/hisaichi5518/p5-kukuru)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | - | 1 | 
+| 2023-02-20 | 1 | 1 | 
 | 2023-02-19 | - | 1 | 
 | 2023-02-18 | - | 1 | 
 

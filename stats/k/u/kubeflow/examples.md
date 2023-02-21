@@ -1,6 +1,6 @@
 # kubeflow/examples - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 701
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1257 | 701 | 
 | 2023-02-19 | 1257 | 701 | 
 | 2023-02-18 | 1256 | 701 | 
 | 2023-02-17 | 1256 | 699 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1247 | 695 | 
 | 2023-01-23 | 1247 | 695 | 
 | 2023-01-22 | 1247 | 695 | 
-| 2023-01-21 | 1247 | 695 | 
 

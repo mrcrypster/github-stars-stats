@@ -1,10 +1,10 @@
 # 404labfr/laravel-impersonate - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 180
 
-★ Stars: 1660
+★ Stars: 1661
 
 [Open repository](https://github.com/404labfr/laravel-impersonate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1661 | 180 | 
 | 2023-02-19 | 1660 | 180 | 
 | 2023-02-18 | 1660 | 180 | 
 | 2023-02-17 | 1660 | 180 | 

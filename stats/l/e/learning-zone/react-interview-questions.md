@@ -1,8 +1,8 @@
 # learning-zone/react-interview-questions - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 324
+☋ Forks: 325
 
 ★ Stars: 1030
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1030 | 325 | 
 | 2023-02-18 | 1030 | 324 | 
 | 2023-02-17 | 1030 | 322 | 
 | 2023-02-16 | 1028 | 322 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 994 | 319 | 
 | 2023-01-23 | 993 | 319 | 
 | 2023-01-22 | 992 | 319 | 
-| 2023-01-21 | 991 | 318 | 
 

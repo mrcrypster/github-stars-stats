@@ -1,8 +1,8 @@
 # python-engineer/pytorchTutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 1020
+☋ Forks: 1022
 
 ★ Stars: 1301
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1301 | 1022 | 
 | 2023-02-19 | 1301 | 1020 | 
 | 2023-02-18 | 1301 | 1020 | 
 | 2023-02-17 | 1299 | 1019 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 1268 | 989 | 
 | 2023-01-24 | 1267 | 989 | 
 | 2023-01-23 | 1263 | 988 | 
-| 2023-01-22 | 1264 | 988 | 
 

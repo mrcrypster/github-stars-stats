@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 20
 
-☋ Forks: 353
+☋ Forks: 356
 
-★ Stars: 3300
+★ Stars: 3321
 
 [Open repository](https://github.com/mlfoundations/open_clip)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | 3300 | 353 | 
+| 2023-02-20 | 3321 | 356 | 
 | 2023-02-19 | 3296 | 352 | 
 | 2023-02-18 | 3282 | 351 | 
 | 2023-02-17 | 3269 | 347 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-24 | 2876 | 320 | 
 | 2023-01-23 | 2871 | 319 | 
 | 2023-01-22 | 2869 | 318 | 
-| 2023-01-21 | 2867 | 318 | 
 

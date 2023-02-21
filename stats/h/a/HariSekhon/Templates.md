@@ -1,10 +1,10 @@
 # HariSekhon/Templates - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 29
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/HariSekhon/Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 65 | 29 | 
 | 2023-02-19 | 64 | 29 | 
 | 2023-02-18 | 64 | 29 | 
 | 2023-02-17 | 64 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 61 | 28 | 
 | 2023-01-23 | 61 | 28 | 
 | 2023-01-22 | 61 | 28 | 
-| 2023-01-21 | 61 | 28 | 
 

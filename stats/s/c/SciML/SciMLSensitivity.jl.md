@@ -1,6 +1,6 @@
 # SciML/SciMLSensitivity.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 229 | 51 | 
 | 2023-02-19 | 229 | 51 | 
 | 2023-02-17 | 229 | 51 | 
 | 2023-02-16 | 229 | 51 | 

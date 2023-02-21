@@ -1,6 +1,6 @@
 # vvvvalvalval/scope-capture - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 509 | 13 | 
 | 2023-02-19 | 509 | 13 | 
 | 2023-02-18 | 509 | 13 | 
 | 2023-02-17 | 509 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 497 | 13 | 
 | 2023-01-23 | 497 | 13 | 
 | 2023-01-22 | 497 | 13 | 
-| 2023-01-21 | 497 | 13 | 
 

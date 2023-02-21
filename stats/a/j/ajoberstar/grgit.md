@@ -1,6 +1,6 @@
 # ajoberstar/grgit - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 473 | 88 | 
 | 2023-02-19 | 473 | 88 | 
 | 2023-02-18 | 473 | 88 | 
 | 2023-02-17 | 472 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 471 | 87 | 
 | 2023-01-24 | 471 | 87 | 
 | 2023-01-23 | 471 | 87 | 
-| 2023-01-22 | 471 | 87 | 
 

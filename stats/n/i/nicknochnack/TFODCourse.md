@@ -1,8 +1,8 @@
 # nicknochnack/TFODCourse - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 709
+☋ Forks: 711
 
 ★ Stars: 702
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 702 | 711 | 
 | 2023-02-19 | 702 | 709 | 
 | 2023-02-18 | 700 | 709 | 
 | 2023-02-17 | 700 | 710 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 686 | 690 | 
 | 2023-01-23 | 686 | 689 | 
 | 2023-01-22 | 686 | 690 | 
-| 2023-01-21 | 687 | 690 | 
 

@@ -1,10 +1,10 @@
 # wayalan/HCPex - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/wayalan/HCPex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 7 | 1 | 
 | 2023-02-19 | 6 | 1 | 
 | 2023-02-18 | 6 | 1 | 
 | 2023-02-17 | 6 | 1 | 

@@ -1,8 +1,8 @@
 # n3r4zzurr0/svg-spinners - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 546
+☋ Forks: 549
 
 ★ Stars: 4534
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4534 | 549 | 
 | 2023-02-19 | 4534 | 546 | 
 | 2023-02-18 | 4534 | 543 | 
 | 2023-02-17 | 4534 | 543 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 4491 | 482 | 
 | 2023-01-23 | 4487 | 479 | 
 | 2023-01-22 | 4487 | 479 | 
-| 2023-01-21 | 4487 | 478 | 
 

@@ -1,10 +1,10 @@
 # HowProgrammingWorks/Index - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 384
+☋ Forks: 386
 
-★ Stars: 2913
+★ Stars: 2916
 
 [Open repository](https://github.com/HowProgrammingWorks/Index)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2916 | 386 | 
 | 2023-02-19 | 2913 | 384 | 
 | 2023-02-18 | 2914 | 383 | 
 | 2023-02-17 | 2914 | 383 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2892 | 376 | 
 | 2023-01-23 | 2890 | 376 | 
 | 2023-01-22 | 2892 | 376 | 
-| 2023-01-21 | 2891 | 378 | 
 

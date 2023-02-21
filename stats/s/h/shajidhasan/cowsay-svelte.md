@@ -1,6 +1,6 @@
 # shajidhasan/cowsay-svelte - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 56 | 9 | 
 | 2023-02-19 | 56 | 9 | 
 | 2023-02-17 | 56 | 9 | 
 | 2023-02-16 | 56 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 57 | 9 | 
 | 2023-01-23 | 57 | 9 | 
 | 2023-01-22 | 57 | 9 | 
-| 2023-01-21 | 57 | 9 | 
 

@@ -1,10 +1,10 @@
 # t3l3machus/hoaxshell - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 372
 
-★ Stars: 2203
+★ Stars: 2208
 
 [Open repository](https://github.com/t3l3machus/hoaxshell)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2208 | 372 | 
 | 2023-02-18 | 2203 | 372 | 
 | 2023-02-17 | 2194 | 370 | 
 | 2023-02-16 | 2174 | 368 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 2126 | 361 | 
 | 2023-01-23 | 2123 | 358 | 
 | 2023-01-22 | 2124 | 358 | 
-| 2023-01-21 | 2124 | 358 | 
 

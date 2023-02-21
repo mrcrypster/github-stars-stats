@@ -1,6 +1,6 @@
 # mhayashi1120/Emacs-wgrep - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 442 | 43 | 
 | 2023-02-19 | 442 | 43 | 
 | 2023-02-18 | 442 | 43 | 
 | 2023-02-17 | 442 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 434 | 42 | 
 | 2023-01-23 | 434 | 42 | 
 | 2023-01-22 | 433 | 42 | 
-| 2023-01-21 | 433 | 42 | 
 

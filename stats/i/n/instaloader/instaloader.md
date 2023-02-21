@@ -1,10 +1,10 @@
 # instaloader/instaloader - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 837
 
-★ Stars: 5469
+★ Stars: 5475
 
 [Open repository](https://github.com/instaloader/instaloader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5475 | 837 | 
 | 2023-02-18 | 5469 | 837 | 
 | 2023-02-17 | 5464 | 836 | 
 | 2023-02-16 | 5461 | 836 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 5340 | 821 | 
 | 2023-01-23 | 5333 | 820 | 
 | 2023-01-22 | 5333 | 820 | 
-| 2023-01-21 | 5329 | 818 | 
 

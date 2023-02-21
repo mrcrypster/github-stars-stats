@@ -1,6 +1,6 @@
 # Wert22/wert-camera - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 17 | 14 | 
 | 2023-02-19 | 17 | 14 | 
 | 2023-02-18 | 17 | 14 | 
 | 2023-02-17 | 17 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 17 | 13 | 
 | 2023-01-24 | 17 | 13 | 
 | 2023-01-23 | 17 | 13 | 
-| 2023-01-21 | 17 | 13 | 
 

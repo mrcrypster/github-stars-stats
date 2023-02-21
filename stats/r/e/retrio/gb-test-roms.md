@@ -1,10 +1,10 @@
 # retrio/gb-test-roms - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 46
 
-★ Stars: 338
+★ Stars: 339
 
 [Open repository](https://github.com/retrio/gb-test-roms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 339 | 46 | 
 | 2023-02-19 | 338 | 46 | 
 | 2023-02-18 | 338 | 46 | 
 | 2023-02-17 | 338 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 331 | 45 | 
 | 2023-01-23 | 331 | 45 | 
 | 2023-01-22 | 331 | 45 | 
-| 2023-01-21 | 331 | 45 | 
 

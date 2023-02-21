@@ -1,6 +1,6 @@
 # erkmos/haskell-companies - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 826 | 124 | 
 | 2023-02-18 | 826 | 124 | 
 | 2023-02-17 | 826 | 124 | 
 | 2023-02-16 | 826 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 820 | 125 | 
 | 2023-01-23 | 820 | 125 | 
 | 2023-01-22 | 820 | 125 | 
-| 2023-01-21 | 820 | 125 | 
 

@@ -1,6 +1,6 @@
 # rstudio/renv - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 809 | 103 | 
 | 2023-02-19 | 809 | 103 | 
 | 2023-02-18 | 809 | 103 | 
 | 2023-02-17 | 809 | 103 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 803 | 102 | 
 | 2023-01-23 | 803 | 102 | 
 | 2023-01-22 | 803 | 102 | 
-| 2023-01-21 | 803 | 102 | 
 

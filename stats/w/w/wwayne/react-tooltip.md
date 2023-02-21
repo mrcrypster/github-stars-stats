@@ -1,10 +1,10 @@
 # wwayne/react-tooltip - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 507
 
-★ Stars: 3041
+★ Stars: 3044
 
 [Open repository](https://github.com/wwayne/react-tooltip)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 3044 | 507 | 
 | 2023-02-19 | 3041 | 507 | 
 | 2023-02-18 | 3038 | 507 | 
 | 2023-02-17 | 3034 | 507 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 3002 | 501 | 
 | 2023-01-23 | 3000 | 501 | 
 | 2023-01-22 | 2997 | 500 | 
-| 2023-01-21 | 2996 | 500 | 
 

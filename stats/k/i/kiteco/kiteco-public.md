@@ -1,10 +1,10 @@
 # kiteco/kiteco-public - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 131
 
-★ Stars: 591
+★ Stars: 592
 
 [Open repository](https://github.com/kiteco/kiteco-public)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 592 | 131 | 
 | 2023-02-19 | 591 | 131 | 
 | 2023-02-18 | 588 | 131 | 
 | 2023-02-17 | 587 | 130 | 

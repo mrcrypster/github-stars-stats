@@ -1,8 +1,8 @@
 # melisgibson/terraform_gitlab - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 9 | 43 | 
 | 2023-02-19 | 9 | 42 | 
 | 2023-02-18 | 9 | 42 | 
 | 2023-02-17 | 9 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 9 | 36 | 
 | 2023-01-23 | 9 | 36 | 
 | 2023-01-22 | 9 | 36 | 
-| 2023-01-21 | 9 | 36 | 
 

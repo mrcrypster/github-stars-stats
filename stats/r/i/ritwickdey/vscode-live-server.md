@@ -1,10 +1,10 @@
 # ritwickdey/vscode-live-server - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 991
 
-★ Stars: 4736
+★ Stars: 4737
 
 [Open repository](https://github.com/ritwickdey/vscode-live-server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4737 | 991 | 
 | 2023-02-19 | 4736 | 991 | 
 | 2023-02-18 | 4728 | 988 | 
 | 2023-02-17 | 4724 | 987 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 4680 | 965 | 
 | 2023-01-23 | 4677 | 964 | 
 | 2023-01-22 | 4675 | 963 | 
-| 2023-01-21 | 4673 | 961 | 
 

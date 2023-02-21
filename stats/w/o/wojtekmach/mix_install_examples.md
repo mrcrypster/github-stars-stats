@@ -1,6 +1,6 @@
 # wojtekmach/mix_install_examples - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 235 | 23 | 
 | 2023-02-19 | 235 | 23 | 
 | 2023-02-18 | 235 | 23 | 
 | 2023-02-17 | 234 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 226 | 22 | 
 | 2023-01-23 | 226 | 22 | 
 | 2023-01-22 | 226 | 22 | 
-| 2023-01-21 | 226 | 22 | 
 

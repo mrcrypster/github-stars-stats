@@ -1,10 +1,10 @@
 # nicklockwood/SwiftFormat - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 525
+☋ Forks: 526
 
-★ Stars: 6428
+★ Stars: 6432
 
 [Open repository](https://github.com/nicklockwood/SwiftFormat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 6432 | 526 | 
 | 2023-02-19 | 6428 | 525 | 
 | 2023-02-18 | 6428 | 525 | 
 | 2023-02-17 | 6427 | 525 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 6364 | 518 | 
 | 2023-01-23 | 6364 | 518 | 
 | 2023-01-22 | 6362 | 518 | 
-| 2023-01-21 | 6362 | 518 | 
 

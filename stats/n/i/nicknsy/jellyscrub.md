@@ -1,10 +1,10 @@
 # nicknsy/jellyscrub - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 237
+★ Stars: 241
 
 [Open repository](https://github.com/nicknsy/jellyscrub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 241 | 7 | 
 | 2023-02-19 | 237 | 6 | 
 | 2023-02-18 | 233 | 6 | 
 | 2023-02-17 | 232 | 6 | 

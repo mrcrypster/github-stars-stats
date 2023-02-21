@@ -1,10 +1,10 @@
 # apache/doris - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 2075
+☋ Forks: 2076
 
-★ Stars: 7055
+★ Stars: 7061
 
 [Open repository](https://github.com/apache/doris)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 7061 | 2076 | 
 | 2023-02-19 | 7055 | 2075 | 
 | 2023-02-18 | 7054 | 2075 | 
 | 2023-02-17 | 7043 | 2072 | 

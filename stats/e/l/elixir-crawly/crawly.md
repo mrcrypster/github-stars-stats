@@ -1,10 +1,10 @@
 # elixir-crawly/crawly - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 83
 
-★ Stars: 655
+★ Stars: 657
 
 [Open repository](https://github.com/elixir-crawly/crawly)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 657 | 83 | 
 | 2023-02-19 | 655 | 83 | 
 | 2023-02-18 | 655 | 83 | 
 | 2023-02-17 | 655 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 649 | 83 | 
 | 2023-01-23 | 649 | 83 | 
 | 2023-01-22 | 648 | 83 | 
-| 2023-01-21 | 648 | 83 | 
 

@@ -1,6 +1,6 @@
 # processone/cache_tab - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 42 | 24 | 
 | 2023-02-19 | 42 | 24 | 
 | 2023-02-18 | 42 | 24 | 
 | 2023-02-17 | 42 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 42 | 24 | 
 | 2023-01-23 | 42 | 24 | 
 | 2023-01-22 | 42 | 24 | 
-| 2023-01-21 | 42 | 24 | 
 

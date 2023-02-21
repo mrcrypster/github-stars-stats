@@ -1,6 +1,6 @@
 # bazelbuild/stardoc - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 79 | 33 | 
 | 2023-02-19 | 79 | 33 | 
 | 2023-02-18 | 79 | 33 | 
 | 2023-02-17 | 79 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 78 | 33 | 
 | 2023-01-23 | 78 | 33 | 
 | 2023-01-22 | 78 | 33 | 
-| 2023-01-21 | 78 | 33 | 
 

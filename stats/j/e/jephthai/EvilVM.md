@@ -1,10 +1,10 @@
 # jephthai/EvilVM - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 19
 
-★ Stars: 161
+★ Stars: 163
 
 [Open repository](https://github.com/jephthai/EvilVM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 163 | 19 | 
 | 2023-02-19 | 161 | 19 | 
 | 2023-02-18 | 161 | 19 | 
 | 2023-02-17 | 155 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 147 | 17 | 
 | 2023-01-24 | 147 | 17 | 
 | 2023-01-23 | 147 | 17 | 
-| 2023-01-22 | 147 | 17 | 
 

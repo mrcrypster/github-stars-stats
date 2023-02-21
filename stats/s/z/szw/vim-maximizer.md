@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 20
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 396
+★ Stars: 400
 
 [Open repository](https://github.com/szw/vim-maximizer)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | 396 | 15 | 
+| 2023-02-20 | 400 | 16 | 
 | 2023-02-19 | 396 | 15 | 
 | 2023-02-17 | 392 | 15 | 
 | 2023-02-16 | 392 | 15 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-24 | 388 | 15 | 
 | 2023-01-23 | 387 | 15 | 
 | 2023-01-22 | 387 | 15 | 
-| 2023-01-21 | 387 | 15 | 
 

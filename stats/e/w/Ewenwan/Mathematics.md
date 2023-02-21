@@ -1,6 +1,6 @@
 # Ewenwan/Mathematics - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 592 | 240 | 
 | 2023-02-19 | 592 | 240 | 
 | 2023-02-18 | 591 | 241 | 
 | 2023-02-17 | 591 | 241 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 585 | 239 | 
 | 2023-01-23 | 585 | 239 | 
 | 2023-01-22 | 584 | 239 | 
-| 2023-01-21 | 583 | 239 | 
 

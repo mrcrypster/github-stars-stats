@@ -1,6 +1,6 @@
 # LevaGil/Universal-instruments-1c - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 20 | 11 | 
 | 2023-02-19 | 20 | 11 | 
 | 2023-02-18 | 20 | 11 | 
 | 2023-02-17 | 20 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 20 | 11 | 
 | 2023-01-23 | 20 | 11 | 
 | 2023-01-22 | 20 | 11 | 
-| 2023-01-21 | 20 | 11 | 
 

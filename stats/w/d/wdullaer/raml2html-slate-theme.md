@@ -1,6 +1,6 @@
 # wdullaer/raml2html-slate-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 19 | 21 | 
 | 2023-02-19 | 19 | 21 | 
 | 2023-02-18 | 19 | 21 | 
 | 2023-02-17 | 19 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 19 | 21 | 
 | 2023-01-23 | 19 | 21 | 
 | 2023-01-22 | 19 | 21 | 
-| 2023-01-21 | 19 | 21 | 
 

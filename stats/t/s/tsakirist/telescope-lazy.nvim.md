@@ -1,10 +1,10 @@
 # tsakirist/telescope-lazy.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/tsakirist/telescope-lazy.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 34 | - | 
 | 2023-02-19 | 33 | - | 
 | 2023-02-18 | 33 | - | 
 | 2023-02-17 | 33 | - | 

@@ -1,10 +1,10 @@
 # nymtech/nym - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 183
 
-★ Stars: 684
+★ Stars: 690
 
 [Open repository](https://github.com/nymtech/nym)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 690 | 183 | 
 | 2023-02-19 | 684 | 183 | 
 | 2023-02-18 | 680 | 183 | 
 | 2023-02-17 | 680 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 665 | 166 | 
 | 2023-01-23 | 665 | 166 | 
 | 2023-01-22 | 664 | 166 | 
-| 2023-01-21 | 664 | 166 | 
 

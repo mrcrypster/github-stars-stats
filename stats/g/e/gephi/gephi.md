@@ -1,10 +1,10 @@
 # gephi/gephi - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1541
 
-★ Stars: 5192
+★ Stars: 5194
 
 [Open repository](https://github.com/gephi/gephi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 5194 | 1541 | 
 | 2023-02-19 | 5192 | 1541 | 
 | 2023-02-18 | 5190 | 1541 | 
 | 2023-02-17 | 5188 | 1541 | 

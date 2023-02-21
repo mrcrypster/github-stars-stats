@@ -1,10 +1,10 @@
 # kunal-kushwaha/DSA-Bootcamp-Java - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 7206
+☋ Forks: 7216
 
-★ Stars: 10714
+★ Stars: 10731
 
 [Open repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 10731 | 7216 | 
 | 2023-02-19 | 10714 | 7206 | 
 | 2023-02-18 | 10696 | 7182 | 
 | 2023-02-17 | 10689 | 7167 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 10447 | 6912 | 
 | 2023-01-23 | 10434 | 6905 | 
 | 2023-01-22 | 10419 | 6894 | 
-| 2023-01-21 | 10399 | 6877 | 
 

@@ -1,10 +1,10 @@
 # tomvita/MyNXCheats - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/tomvita/MyNXCheats)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 18 | 2 | 
 | 2023-02-19 | 17 | 2 | 
 | 2023-02-18 | 17 | 2 | 
 | 2023-02-17 | 16 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 13 | 2 | 
 | 2023-01-23 | 13 | 2 | 
 | 2023-01-22 | 13 | 2 | 
-| 2023-01-21 | 13 | 2 | 
 

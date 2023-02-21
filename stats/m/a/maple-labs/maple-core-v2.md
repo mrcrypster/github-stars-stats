@@ -1,10 +1,10 @@
 # maple-labs/maple-core-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 5
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/maple-labs/maple-core-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 106 | 5 | 
 | 2023-02-19 | 105 | 5 | 
 | 2023-02-18 | 105 | 5 | 
 | 2023-02-17 | 105 | 5 | 

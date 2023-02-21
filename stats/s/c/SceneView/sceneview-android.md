@@ -1,10 +1,10 @@
 # SceneView/sceneview-android - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 64
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/SceneView/sceneview-android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 287 | 64 | 
 | 2023-02-19 | 286 | 64 | 
 | 2023-02-18 | 284 | 63 | 
 | 2023-02-17 | 283 | 63 | 

@@ -1,10 +1,10 @@
 # agentm/project-m36 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 48
 
-★ Stars: 829
+★ Stars: 831
 
 [Open repository](https://github.com/agentm/project-m36)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 831 | 48 | 
 | 2023-02-19 | 829 | 48 | 
 | 2023-02-18 | 828 | 48 | 
 | 2023-02-16 | 828 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 827 | 48 | 
 | 2023-01-23 | 826 | 48 | 
 | 2023-01-22 | 825 | 48 | 
-| 2023-01-21 | 825 | 48 | 
 

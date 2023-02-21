@@ -1,10 +1,10 @@
 # nathanhoad/godot_puzzle_dependencies - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/nathanhoad/godot_puzzle_dependencies)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 88 | 2 | 
 | 2023-02-19 | 87 | 2 | 
 | 2023-02-18 | 87 | 2 | 
 | 2023-02-17 | 87 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 84 | 1 | 
 | 2023-01-23 | 84 | 1 | 
 | 2023-01-22 | 84 | 1 | 
-| 2023-01-21 | 83 | 1 | 
 

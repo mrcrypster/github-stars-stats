@@ -1,6 +1,6 @@
 # OtterHacker/LabS4U2Self - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 25 | 2 | 
 | 2023-02-19 | 25 | 2 | 
 | 2023-02-18 | 25 | 2 | 
 | 2023-02-17 | 25 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 24 | 2 | 
 | 2023-01-23 | 24 | 2 | 
 | 2023-01-22 | 24 | 2 | 
-| 2023-01-21 | 24 | 2 | 
 

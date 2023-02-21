@@ -1,10 +1,10 @@
 # rsms/llvmbox - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/rsms/llvmbox)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 208 | 1 | 
 | 2023-02-19 | 207 | 1 | 
 | 2023-02-18 | 206 | 1 | 
 | 2023-02-17 | 205 | 1 | 

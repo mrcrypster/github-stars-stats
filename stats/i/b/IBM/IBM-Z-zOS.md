@@ -1,10 +1,10 @@
 # IBM/IBM-Z-zOS - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 163
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/IBM/IBM-Z-zOS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 293 | 163 | 
 | 2023-02-19 | 292 | 163 | 
 | 2023-02-18 | 292 | 162 | 
 | 2023-02-17 | 291 | 162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 288 | 162 | 
 | 2023-01-24 | 288 | 162 | 
 | 2023-01-22 | 288 | 162 | 
-| 2023-01-21 | 288 | 162 | 
 

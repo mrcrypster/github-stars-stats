@@ -1,6 +1,6 @@
 # ARM-software/mango - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 265 | 36 | 
 | 2023-02-19 | 265 | 36 | 
 | 2023-02-18 | 265 | 36 | 
 | 2023-02-17 | 265 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 261 | 36 | 
 | 2023-01-23 | 261 | 36 | 
 | 2023-01-22 | 261 | 36 | 
-| 2023-01-21 | 261 | 36 | 
 

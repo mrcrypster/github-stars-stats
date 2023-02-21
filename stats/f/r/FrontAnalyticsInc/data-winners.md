@@ -1,10 +1,10 @@
 # FrontAnalyticsInc/data-winners - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 61
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/FrontAnalyticsInc/data-winners)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 219 | 61 | 
 | 2023-02-19 | 218 | 61 | 
 | 2023-02-18 | 217 | 60 | 
 | 2023-02-17 | 215 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 167 | 39 | 
 | 2023-01-23 | 163 | 36 | 
 | 2023-01-22 | 162 | 36 | 
-| 2023-01-21 | 120 | 33 | 
 

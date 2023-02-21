@@ -1,8 +1,8 @@
 # orderedlist/minimal - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 708
+☋ Forks: 707
 
 ★ Stars: 2099
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2099 | 707 | 
 | 2023-02-19 | 2099 | 708 | 
 | 2023-02-18 | 2098 | 708 | 
 | 2023-02-17 | 2098 | 709 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 2077 | 704 | 
 | 2023-01-24 | 2077 | 704 | 
 | 2023-01-23 | 2076 | 704 | 
-| 2023-01-21 | 2076 | 704 | 
 

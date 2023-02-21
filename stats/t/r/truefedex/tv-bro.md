@@ -1,10 +1,10 @@
 # truefedex/tv-bro - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 64
 
-★ Stars: 478
+★ Stars: 479
 
 [Open repository](https://github.com/truefedex/tv-bro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 479 | 64 | 
 | 2023-02-19 | 478 | 64 | 
 | 2023-02-18 | 476 | 64 | 
 | 2023-02-17 | 475 | 64 | 

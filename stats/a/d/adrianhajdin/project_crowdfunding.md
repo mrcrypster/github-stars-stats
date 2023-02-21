@@ -1,8 +1,8 @@
 # adrianhajdin/project_crowdfunding - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 111
+☋ Forks: 114
 
 ★ Stars: 222
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 222 | 114 | 
 | 2023-02-19 | 222 | 111 | 
 | 2023-02-18 | 220 | 110 | 
 | 2023-02-16 | 216 | 108 | 

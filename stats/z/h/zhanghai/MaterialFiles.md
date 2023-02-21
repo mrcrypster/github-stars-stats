@@ -1,10 +1,10 @@
 # zhanghai/MaterialFiles - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 271
+☋ Forks: 274
 
-★ Stars: 3110
+★ Stars: 3118
 
 [Open repository](https://github.com/zhanghai/MaterialFiles)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3118 | 274 | 
+| 2023-02-20 | 3118 | 273 | 
 | 2023-02-19 | 3110 | 271 | 
 | 2023-02-17 | 3108 | 270 | 
 | 2023-02-16 | 3107 | 270 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 3038 | 261 | 
 | 2023-01-23 | 3038 | 261 | 
 | 2023-01-22 | 3037 | 262 | 
-| 2023-01-21 | 3034 | 261 | 
 

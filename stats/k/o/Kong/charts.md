@@ -1,8 +1,8 @@
 # Kong/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 422
+☋ Forks: 424
 
 ★ Stars: 163
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 163 | 424 | 
 | 2023-02-19 | 163 | 422 | 
 | 2023-02-18 | 163 | 421 | 
 | 2023-02-17 | 163 | 419 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 160 | 410 | 
 | 2023-01-23 | 159 | 409 | 
 | 2023-01-22 | 159 | 410 | 
-| 2023-01-21 | 159 | 410 | 
 

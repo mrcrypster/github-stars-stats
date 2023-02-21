@@ -1,10 +1,10 @@
 # thedodd/trunk - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 161
 
-★ Stars: 2311
+★ Stars: 2314
 
 [Open repository](https://github.com/thedodd/trunk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2314 | 161 | 
 | 2023-02-19 | 2311 | 161 | 
 | 2023-02-18 | 2308 | 161 | 
 | 2023-02-17 | 2307 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2248 | 154 | 
 | 2023-01-23 | 2247 | 154 | 
 | 2023-01-22 | 2244 | 154 | 
-| 2023-01-21 | 2240 | 154 | 
 

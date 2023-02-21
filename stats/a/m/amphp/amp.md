@@ -1,6 +1,6 @@
 # amphp/amp - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 237
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 3855 | 237 | 
 | 2023-02-19 | 3855 | 237 | 
 | 2023-02-18 | 3855 | 237 | 
 | 2023-02-17 | 3855 | 237 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 3819 | 234 | 
 | 2023-01-23 | 3816 | 234 | 
 | 2023-01-22 | 3815 | 234 | 
-| 2023-01-21 | 3815 | 234 | 
 

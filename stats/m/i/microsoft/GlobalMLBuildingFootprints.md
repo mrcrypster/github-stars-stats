@@ -1,8 +1,8 @@
 # microsoft/GlobalMLBuildingFootprints - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 746
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 746 | 92 | 
 | 2023-02-19 | 746 | 91 | 
 | 2023-02-18 | 745 | 91 | 
 | 2023-02-17 | 745 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 732 | 87 | 
 | 2023-01-23 | 732 | 87 | 
 | 2023-01-22 | 731 | 87 | 
-| 2023-01-21 | 731 | 86 | 
 

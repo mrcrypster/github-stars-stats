@@ -1,6 +1,6 @@
 # wangkechun/go-by-example - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 308
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 486 | 308 | 
 | 2023-02-19 | 486 | 308 | 
 | 2023-02-18 | 484 | 308 | 
 | 2023-02-17 | 484 | 308 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 471 | 302 | 
 | 2023-01-23 | 470 | 302 | 
 | 2023-01-22 | 470 | 302 | 
-| 2023-01-21 | 469 | 301 | 
 

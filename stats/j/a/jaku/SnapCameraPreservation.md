@@ -1,10 +1,10 @@
 # jaku/SnapCameraPreservation - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 28
 
-★ Stars: 156
+★ Stars: 159
 
 [Open repository](https://github.com/jaku/SnapCameraPreservation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 159 | 28 | 
 | 2023-02-19 | 156 | 28 | 
 | 2023-02-18 | 154 | 28 | 
 | 2023-02-17 | 152 | 26 | 

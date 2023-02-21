@@ -1,10 +1,10 @@
 # amir20/dozzle - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 157
+☋ Forks: 158
 
-★ Stars: 2150
+★ Stars: 2154
 
 [Open repository](https://github.com/amir20/dozzle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2154 | 158 | 
 | 2023-02-19 | 2150 | 157 | 
 | 2023-02-18 | 2145 | 157 | 
 | 2023-02-17 | 2143 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2091 | 155 | 
 | 2023-01-23 | 2090 | 155 | 
 | 2023-01-22 | 2090 | 154 | 
-| 2023-01-21 | 2087 | 154 | 
 

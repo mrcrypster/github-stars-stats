@@ -1,10 +1,10 @@
 # FreeCodeCampChina/freecodecamp.cn - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1371
 
-★ Stars: 36497
+★ Stars: 36499
 
 [Open repository](https://github.com/FreeCodeCampChina/freecodecamp.cn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 36499 | 1371 | 
 | 2023-02-19 | 36497 | 1371 | 
 | 2023-02-18 | 36497 | 1371 | 
 | 2023-02-17 | 36497 | 1371 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 36498 | 1369 | 
 | 2023-01-23 | 36498 | 1369 | 
 | 2023-01-22 | 36497 | 1369 | 
-| 2023-01-21 | 36497 | 1369 | 
 

@@ -1,6 +1,6 @@
 # gradle/android-cache-fix-gradle-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 373 | 46 | 
 | 2023-02-18 | 373 | 46 | 
 | 2023-02-17 | 373 | 46 | 
 | 2023-02-16 | 374 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 366 | 44 | 
 | 2023-01-23 | 366 | 44 | 
 | 2023-01-22 | 366 | 44 | 
-| 2023-01-21 | 366 | 44 | 
 

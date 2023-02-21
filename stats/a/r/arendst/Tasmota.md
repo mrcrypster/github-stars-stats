@@ -1,10 +1,10 @@
 # arendst/Tasmota - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 4309
 
-★ Stars: 19235
+★ Stars: 19241
 
 [Open repository](https://github.com/arendst/Tasmota)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 19241 | 4309 | 
 | 2023-02-19 | 19235 | 4309 | 
 | 2023-02-18 | 19227 | 4308 | 
 | 2023-02-17 | 19222 | 4308 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 19108 | 4266 | 
 | 2023-01-23 | 19104 | 4266 | 
 | 2023-01-22 | 19102 | 4262 | 
-| 2023-01-21 | 19092 | 4261 | 
 

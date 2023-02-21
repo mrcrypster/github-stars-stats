@@ -1,6 +1,6 @@
 # dpo/mth6412b-starter-code - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1 | 16 | 
 | 2023-02-19 | 1 | 16 | 
 | 2023-02-18 | 1 | 16 | 
 | 2023-02-17 | 1 | 16 | 

@@ -1,10 +1,10 @@
 # Azure/AKS - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 230
+☋ Forks: 231
 
-★ Stars: 1689
+★ Stars: 1690
 
 [Open repository](https://github.com/Azure/AKS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1690 | 231 | 
 | 2023-02-19 | 1689 | 230 | 
 | 2023-02-18 | 1689 | 230 | 
 | 2023-02-17 | 1688 | 229 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1668 | 225 | 
 | 2023-01-23 | 1668 | 225 | 
 | 2023-01-22 | 1666 | 225 | 
-| 2023-01-21 | 1666 | 225 | 
 

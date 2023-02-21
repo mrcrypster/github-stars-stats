@@ -1,10 +1,10 @@
 # mufeedvh/moonwalk - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 110
+☋ Forks: 111
 
-★ Stars: 1099
+★ Stars: 1101
 
 [Open repository](https://github.com/mufeedvh/moonwalk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1101 | 111 | 
 | 2023-02-19 | 1099 | 110 | 
 | 2023-02-18 | 1099 | 109 | 
 | 2023-02-17 | 1099 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1079 | 110 | 
 | 2023-01-23 | 1079 | 110 | 
 | 2023-01-22 | 1079 | 110 | 
-| 2023-01-21 | 1079 | 110 | 
 

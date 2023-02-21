@@ -1,10 +1,10 @@
 # i18next/next-i18next - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 702
 
-★ Stars: 4144
+★ Stars: 4147
 
 [Open repository](https://github.com/i18next/next-i18next)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4147 | 702 | 
 | 2023-02-19 | 4144 | 702 | 
 | 2023-02-18 | 4141 | 701 | 
 | 2023-02-17 | 4142 | 700 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 4053 | 683 | 
 | 2023-01-23 | 4047 | 681 | 
 | 2023-01-22 | 4043 | 681 | 
-| 2023-01-21 | 4037 | 680 | 
 

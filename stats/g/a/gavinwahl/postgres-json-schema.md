@@ -1,10 +1,10 @@
 # gavinwahl/postgres-json-schema - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 33
 
-★ Stars: 423
+★ Stars: 424
 
 [Open repository](https://github.com/gavinwahl/postgres-json-schema)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 424 | 33 | 
 | 2023-02-19 | 423 | 33 | 
 | 2023-02-18 | 423 | 33 | 
 | 2023-02-17 | 423 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 416 | 33 | 
 | 2023-01-23 | 416 | 33 | 
 | 2023-01-22 | 416 | 33 | 
-| 2023-01-21 | 416 | 33 | 
 

@@ -1,10 +1,10 @@
 # stackblitz/ilovecodeflow.com - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 188
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/stackblitz/ilovecodeflow.com)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 33 | 188 | 
 | 2023-02-19 | 32 | 188 | 
 | 2023-02-18 | 32 | 187 | 
 | 2023-02-17 | 32 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 31 | 176 | 
 | 2023-01-23 | 31 | 176 | 
 | 2023-01-22 | 31 | 178 | 
-| 2023-01-21 | 31 | 178 | 
 

@@ -1,6 +1,6 @@
 # skoruba/IdentityServer4.Admin - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1087
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 3345 | 1087 | 
 | 2023-02-19 | 3345 | 1087 | 
 | 2023-02-17 | 3344 | 1085 | 
 | 2023-02-16 | 3344 | 1084 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 3331 | 1080 | 
 | 2023-01-23 | 3331 | 1080 | 
 | 2023-01-22 | 3331 | 1080 | 
-| 2023-01-21 | 3330 | 1080 | 
 

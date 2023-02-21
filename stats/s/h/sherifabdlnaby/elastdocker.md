@@ -1,8 +1,8 @@
 # sherifabdlnaby/elastdocker - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 234
+☋ Forks: 235
 
 ★ Stars: 1438
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1438 | 235 | 
 | 2023-02-19 | 1438 | 234 | 
 | 2023-02-18 | 1436 | 234 | 
 | 2023-02-17 | 1436 | 234 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1404 | 226 | 
 | 2023-01-23 | 1403 | 226 | 
 | 2023-01-22 | 1403 | 226 | 
-| 2023-01-21 | 1403 | 226 | 
 

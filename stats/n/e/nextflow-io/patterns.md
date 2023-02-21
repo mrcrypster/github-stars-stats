@@ -1,10 +1,10 @@
 # nextflow-io/patterns - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 65
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/nextflow-io/patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 261 | 65 | 
 | 2023-02-19 | 260 | 65 | 
 | 2023-02-18 | 260 | 65 | 
 | 2023-02-17 | 260 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 252 | 64 | 
 | 2023-01-23 | 252 | 64 | 
 | 2023-01-22 | 252 | 64 | 
-| 2023-01-21 | 252 | 64 | 
 

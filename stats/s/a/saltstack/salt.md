@@ -1,8 +1,8 @@
 # saltstack/salt - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 5401
+☋ Forks: 5399
 
 ★ Stars: 13047
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 13047 | 5399 | 
 | 2023-02-19 | 13047 | 5401 | 
 | 2023-02-18 | 13043 | 5401 | 
 | 2023-02-17 | 13039 | 5402 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 12982 | 5379 | 
 | 2023-01-23 | 12980 | 5380 | 
 | 2023-01-22 | 12980 | 5379 | 
-| 2023-01-21 | 12981 | 5379 | 
 

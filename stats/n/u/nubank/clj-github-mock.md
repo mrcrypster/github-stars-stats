@@ -1,10 +1,10 @@
 # nubank/clj-github-mock - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/nubank/clj-github-mock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 10 | - | 
 | 2023-02-19 | 9 | - | 
 | 2023-02-18 | 9 | - | 
 | 2023-02-17 | 9 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 10 | - | 
 | 2023-01-23 | 9 | - | 
 | 2023-01-22 | 9 | - | 
-| 2023-01-21 | 9 | - | 
 

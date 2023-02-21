@@ -1,10 +1,10 @@
 # albingroen/quick.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 32
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/albingroen/quick.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 238 | 32 | 
 | 2023-02-19 | 237 | 32 | 
 | 2023-02-18 | 237 | 32 | 
 | 2023-02-17 | 237 | 32 | 

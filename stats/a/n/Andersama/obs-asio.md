@@ -1,10 +1,10 @@
 # Andersama/obs-asio - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 37
 
-★ Stars: 525
+★ Stars: 527
 
 [Open repository](https://github.com/Andersama/obs-asio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 527 | 37 | 
 | 2023-02-19 | 525 | 37 | 
 | 2023-02-18 | 523 | 37 | 
 | 2023-02-17 | 523 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 513 | 37 | 
 | 2023-01-23 | 512 | 37 | 
 | 2023-01-22 | 512 | 37 | 
-| 2023-01-21 | 512 | 37 | 
 

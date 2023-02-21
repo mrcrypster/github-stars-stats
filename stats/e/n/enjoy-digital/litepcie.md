@@ -1,6 +1,6 @@
 # enjoy-digital/litepcie - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 348 | 79 | 
 | 2023-02-19 | 348 | 79 | 
 | 2023-02-18 | 348 | 79 | 
 | 2023-02-17 | 348 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 343 | 75 | 
 | 2023-01-23 | 343 | 75 | 
 | 2023-01-22 | 343 | 75 | 
-| 2023-01-21 | 343 | 75 | 
 

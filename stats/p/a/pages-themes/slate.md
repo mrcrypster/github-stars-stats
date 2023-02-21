@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 20
 
 ☋ Forks: 942
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/pages-themes/slate)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | 260 | 942 | 
+| 2023-02-20 | 261 | 942 | 
 | 2023-02-19 | 260 | 942 | 
 | 2023-02-18 | 260 | 941 | 
 | 2023-02-17 | 260 | 942 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-24 | 258 | 935 | 
 | 2023-01-23 | 258 | 933 | 
 | 2023-01-22 | 258 | 934 | 
-| 2023-01-21 | 258 | 932 | 
 

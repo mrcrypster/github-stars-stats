@@ -1,10 +1,10 @@
 # haskell/haskell-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 330
 
-★ Stars: 1249
+★ Stars: 1250
 
 [Open repository](https://github.com/haskell/haskell-mode)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1250 | 330 | 
+| 2023-02-20 | 1250 | 330 | 
 | 2023-02-19 | 1249 | 330 | 
 | 2023-02-18 | 1249 | 330 | 
 | 2023-02-17 | 1249 | 330 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1242 | 329 | 
 | 2023-01-23 | 1242 | 329 | 
 | 2023-01-22 | 1242 | 329 | 
-| 2023-01-21 | 1241 | 327 | 
 

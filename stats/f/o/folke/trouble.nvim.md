@@ -1,10 +1,10 @@
 # folke/trouble.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 108
 
-★ Stars: 2810
+★ Stars: 2819
 
 [Open repository](https://github.com/folke/trouble.nvim)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | 2810 | 108 | 
+| 2023-02-21 | 2819 | 108 | 
+| 2023-02-20 | 2817 | 108 | 
 | 2023-02-19 | 2808 | 108 | 
 | 2023-02-18 | 2796 | 106 | 
 | 2023-02-17 | 2793 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-24 | 2668 | 101 | 
 | 2023-01-23 | 2661 | 101 | 
 | 2023-01-22 | 2657 | 100 | 
-| 2023-01-21 | 2651 | 100 | 
 

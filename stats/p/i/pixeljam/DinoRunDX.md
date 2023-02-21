@@ -1,6 +1,6 @@
 # pixeljam/DinoRunDX - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 31 | 5 | 
 | 2023-02-19 | 31 | 5 | 
 | 2023-02-18 | 31 | 5 | 
 | 2023-02-17 | 30 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 21 | 3 | 
 | 2023-01-23 | 21 | 3 | 
 | 2023-01-22 | 20 | 3 | 
-| 2023-01-21 | 18 | 2 | 
 

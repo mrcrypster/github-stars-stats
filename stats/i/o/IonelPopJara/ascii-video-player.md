@@ -1,6 +1,6 @@
 # IonelPopJara/ascii-video-player - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 439 | 64 | 
 | 2023-02-19 | 439 | 64 | 
 | 2023-02-18 | 439 | 65 | 
 | 2023-02-17 | 439 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 436 | 65 | 
 | 2023-01-23 | 436 | 65 | 
 | 2023-01-22 | 436 | 65 | 
-| 2023-01-21 | 436 | 65 | 
 

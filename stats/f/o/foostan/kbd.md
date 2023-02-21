@@ -1,8 +1,8 @@
 # foostan/kbd - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 265
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 265 | 63 | 
 | 2023-02-19 | 265 | 62 | 
 | 2023-02-18 | 265 | 62 | 
 | 2023-02-17 | 265 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 258 | 60 | 
 | 2023-01-23 | 258 | 60 | 
 | 2023-01-22 | 257 | 60 | 
-| 2023-01-21 | 257 | 60 | 
 

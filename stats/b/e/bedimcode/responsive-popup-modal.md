@@ -1,10 +1,10 @@
 # bedimcode/responsive-popup-modal - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 17
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/bedimcode/responsive-popup-modal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 80 | 17 | 
 | 2023-02-19 | 79 | 17 | 
 | 2023-02-18 | 79 | 17 | 
 | 2023-02-17 | 79 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 78 | 17 | 
 | 2023-01-23 | 78 | 17 | 
 | 2023-01-22 | 78 | 17 | 
-| 2023-01-21 | 78 | 17 | 
 

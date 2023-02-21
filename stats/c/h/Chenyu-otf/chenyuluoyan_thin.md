@@ -1,6 +1,6 @@
 # Chenyu-otf/chenyuluoyan_thin - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1189 | 27 | 
 | 2023-02-19 | 1189 | 27 | 
 | 2023-02-18 | 1188 | 27 | 
 | 2023-02-17 | 1188 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 1162 | 25 | 
 | 2023-01-24 | 1162 | 25 | 
 | 2023-01-23 | 1161 | 25 | 
-| 2023-01-22 | 1161 | 25 | 
 

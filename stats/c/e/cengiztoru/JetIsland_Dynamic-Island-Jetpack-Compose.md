@@ -1,10 +1,10 @@
 # cengiztoru/JetIsland_Dynamic-Island-Jetpack-Compose - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 5
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/cengiztoru/JetIsland_Dynamic-Island-Jetpack-Compose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 102 | 5 | 
 | 2023-02-19 | 101 | 5 | 
 | 2023-02-18 | 101 | 5 | 
 | 2023-02-17 | 101 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 101 | 5 | 
 | 2023-01-23 | 101 | 5 | 
 | 2023-01-22 | 101 | 5 | 
-| 2023-01-21 | 101 | 5 | 
 

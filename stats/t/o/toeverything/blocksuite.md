@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 20
 
-☋ Forks: 69
+☋ Forks: 73
 
-★ Stars: 879
+★ Stars: 916
 
 [Open repository](https://github.com/toeverything/blocksuite)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | 879 | 69 | 
+| 2023-02-20 | 916 | 73 | 
 | 2023-02-18 | 831 | 68 | 
 | 2023-02-17 | 823 | 67 | 
 | 2023-02-16 | 814 | 66 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-24 | 375 | 43 | 
 | 2023-01-23 | 374 | 42 | 
 | 2023-01-22 | 370 | 42 | 
-| 2023-01-21 | 370 | 41 | 
 

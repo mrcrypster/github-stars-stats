@@ -1,10 +1,10 @@
 # vuejs/vuepress - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 4712
+☋ Forks: 4713
 
-★ Stars: 21223
+★ Stars: 21228
 
 [Open repository](https://github.com/vuejs/vuepress)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 21228 | 4713 | 
 | 2023-02-18 | 21223 | 4712 | 
 | 2023-02-17 | 21222 | 4712 | 
 | 2023-02-16 | 21214 | 4712 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 21147 | 4693 | 
 | 2023-01-23 | 21147 | 4695 | 
 | 2023-01-22 | 21144 | 4694 | 
-| 2023-01-21 | 21145 | 4694 | 
 

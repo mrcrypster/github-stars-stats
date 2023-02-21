@@ -1,10 +1,10 @@
 # NickeManarin/ScreenToGif - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 1947
+☋ Forks: 1950
 
-★ Stars: 19391
+★ Stars: 19403
 
 [Open repository](https://github.com/NickeManarin/ScreenToGif)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 19403 | 1950 | 
 | 2023-02-19 | 19391 | 1947 | 
 | 2023-02-18 | 19386 | 1947 | 
 | 2023-02-17 | 19378 | 1945 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 19185 | 1934 | 
 | 2023-01-24 | 19179 | 1934 | 
 | 2023-01-22 | 19176 | 1935 | 
-| 2023-01-21 | 19171 | 1935 | 
 

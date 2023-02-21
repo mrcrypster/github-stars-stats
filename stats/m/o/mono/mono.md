@@ -1,8 +1,8 @@
 # mono/mono - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 3769
+☋ Forks: 3768
 
 ★ Stars: 10303
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 10303 | 3768 | 
 | 2023-02-18 | 10303 | 3769 | 
 | 2023-02-17 | 10300 | 3766 | 
 | 2023-02-16 | 10299 | 3766 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-25 | 10272 | 3762 | 
 | 2023-01-24 | 10268 | 3761 | 
 | 2023-01-23 | 10269 | 3762 | 
-| 2023-01-22 | 10269 | 3762 | 
 

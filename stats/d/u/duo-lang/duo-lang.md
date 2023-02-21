@@ -1,6 +1,6 @@
 # duo-lang/duo-lang - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 40 | 2 | 
 | 2023-02-19 | 40 | 2 | 
 | 2023-02-18 | 40 | 2 | 
 | 2023-02-17 | 39 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 36 | 2 | 
 | 2023-01-23 | 36 | 2 | 
 | 2023-01-22 | 36 | 2 | 
-| 2023-01-21 | 36 | 2 | 
 

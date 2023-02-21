@@ -1,10 +1,10 @@
 # MeViMo/youbit - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 20
 
-★ Stars: 643
+★ Stars: 644
 
 [Open repository](https://github.com/MeViMo/youbit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 644 | 20 | 
 | 2023-02-19 | 643 | 20 | 
 | 2023-02-18 | 643 | 20 | 
 | 2023-02-17 | 643 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 656 | 20 | 
 | 2023-01-23 | 656 | 20 | 
 | 2023-01-22 | 657 | 20 | 
-| 2023-01-21 | 657 | 20 | 
 

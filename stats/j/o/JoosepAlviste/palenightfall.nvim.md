@@ -1,6 +1,6 @@
 # JoosepAlviste/palenightfall.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 95 | 3 | 
 | 2023-02-19 | 95 | 3 | 
 | 2023-02-18 | 94 | 3 | 
 | 2023-02-17 | 93 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 81 | 3 | 
 | 2023-01-23 | 77 | 3 | 
 | 2023-01-22 | 71 | 3 | 
-| 2023-01-21 | 56 | 3 | 
 

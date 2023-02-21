@@ -1,10 +1,10 @@
 # ansible/awx - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 3050
+☋ Forks: 3051
 
-★ Stars: 11912
+★ Stars: 11919
 
 [Open repository](https://github.com/ansible/awx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 11919 | 3051 | 
 | 2023-02-19 | 11912 | 3050 | 
 | 2023-02-18 | 11911 | 3050 | 
 | 2023-02-17 | 11909 | 3050 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 11821 | 3023 | 
 | 2023-01-23 | 11816 | 3024 | 
 | 2023-01-22 | 11813 | 3024 | 
-| 2023-01-21 | 11811 | 3025 | 
 

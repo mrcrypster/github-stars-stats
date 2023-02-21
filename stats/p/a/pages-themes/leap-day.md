@@ -1,8 +1,8 @@
 # pages-themes/leap-day - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 437
+☋ Forks: 438
 
 ★ Stars: 164
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 164 | 438 | 
 | 2023-02-19 | 164 | 437 | 
 | 2023-02-18 | 164 | 437 | 
 | 2023-02-17 | 164 | 437 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 161 | 429 | 
 | 2023-01-23 | 161 | 429 | 
 | 2023-01-22 | 161 | 429 | 
-| 2023-01-21 | 161 | 429 | 
 

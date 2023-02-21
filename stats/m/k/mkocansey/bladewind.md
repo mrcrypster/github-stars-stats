@@ -1,6 +1,6 @@
 # mkocansey/bladewind - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 188 | 15 | 
 | 2023-02-19 | 188 | 15 | 
 | 2023-02-18 | 188 | 15 | 
 | 2023-02-17 | 187 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 176 | 15 | 
 | 2023-01-24 | 176 | 15 | 
 | 2023-01-23 | 176 | 15 | 
-| 2023-01-22 | 175 | 15 | 
 

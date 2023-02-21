@@ -1,10 +1,10 @@
 # facebookresearch/DiT - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 64
 
-★ Stars: 1005
+★ Stars: 1007
 
 [Open repository](https://github.com/facebookresearch/DiT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1007 | 64 | 
 | 2023-02-19 | 1005 | 64 | 
 | 2023-02-18 | 1005 | 64 | 
 | 2023-02-17 | 1001 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 915 | 58 | 
 | 2023-01-23 | 911 | 58 | 
 | 2023-01-22 | 910 | 59 | 
-| 2023-01-21 | 909 | 59 | 
 

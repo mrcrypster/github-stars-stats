@@ -1,10 +1,10 @@
 # cheat/cheatsheets - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 286
 
-★ Stars: 1409
+★ Stars: 1410
 
 [Open repository](https://github.com/cheat/cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1410 | 286 | 
 | 2023-02-19 | 1409 | 286 | 
 | 2023-02-18 | 1409 | 286 | 
 | 2023-02-17 | 1407 | 286 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1389 | 285 | 
 | 2023-01-23 | 1385 | 285 | 
 | 2023-01-22 | 1382 | 285 | 
-| 2023-01-21 | 1381 | 285 | 
 

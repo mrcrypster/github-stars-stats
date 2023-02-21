@@ -1,10 +1,10 @@
 # puttsk/cuda-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 20
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/puttsk/cuda-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 84 | 20 | 
 | 2023-02-19 | 83 | 20 | 
 | 2023-02-18 | 83 | 20 | 
 | 2023-02-17 | 83 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 81 | 20 | 
 | 2023-01-23 | 81 | 20 | 
 | 2023-01-22 | 81 | 20 | 
-| 2023-01-21 | 81 | 20 | 
 

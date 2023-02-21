@@ -1,0 +1,17 @@
+# lexi-lambda/case-kw-lambda - stars & forks statistics
+
+Stats updated on Feb 2023, 20
+
+☋ Forks: 0
+
+★ Stars: 11
+
+[Open repository](https://github.com/lexi-lambda/case-kw-lambda)
+
+[Open detailed stats for lexi-lambda/case-kw-lambda](https://reviewgithub.com/rep/lexi-lambda/case-kw-lambda)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-20 | 11 | - | 
+

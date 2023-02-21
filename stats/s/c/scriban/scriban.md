@@ -1,10 +1,10 @@
 # scriban/scriban - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 309
 
-★ Stars: 2310
+★ Stars: 2312
 
 [Open repository](https://github.com/scriban/scriban)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2312 | 309 | 
 | 2023-02-19 | 2310 | 309 | 
 | 2023-02-18 | 2308 | 309 | 
 | 2023-02-17 | 2308 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2282 | 306 | 
 | 2023-01-23 | 2282 | 306 | 
 | 2023-01-22 | 2282 | 307 | 
-| 2023-01-21 | 2278 | 307 | 
 

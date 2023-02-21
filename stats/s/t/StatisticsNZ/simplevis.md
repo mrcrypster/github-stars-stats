@@ -1,10 +1,10 @@
 # StatisticsNZ/simplevis - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 11
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/StatisticsNZ/simplevis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 86 | 11 | 
 | 2023-02-19 | 85 | 11 | 
 | 2023-02-18 | 85 | 11 | 
 | 2023-02-17 | 85 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 84 | 11 | 
 | 2023-01-23 | 84 | 11 | 
 | 2023-01-22 | 84 | 11 | 
-| 2023-01-21 | 84 | 11 | 
 

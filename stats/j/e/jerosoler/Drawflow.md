@@ -1,10 +1,10 @@
 # jerosoler/Drawflow - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 520
+☋ Forks: 521
 
-★ Stars: 3062
+★ Stars: 3063
 
 [Open repository](https://github.com/jerosoler/Drawflow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 3063 | 521 | 
 | 2023-02-19 | 3062 | 520 | 
 | 2023-02-18 | 3063 | 520 | 
 | 2023-02-17 | 3055 | 520 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2963 | 508 | 
 | 2023-01-23 | 2961 | 508 | 
 | 2023-01-22 | 2960 | 508 | 
-| 2023-01-21 | 2958 | 508 | 
 

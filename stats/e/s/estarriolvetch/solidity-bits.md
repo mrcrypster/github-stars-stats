@@ -1,6 +1,6 @@
 # estarriolvetch/solidity-bits - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 28 | 3 | 
 | 2023-02-19 | 28 | 3 | 
 | 2023-02-17 | 28 | 3 | 
 | 2023-02-16 | 28 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 27 | 3 | 
 | 2023-01-23 | 27 | 3 | 
 | 2023-01-22 | 27 | 3 | 
-| 2023-01-21 | 27 | 3 | 
 

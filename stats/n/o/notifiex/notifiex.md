@@ -1,10 +1,10 @@
 # notifiex/notifiex - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 3
 
-★ Stars: 53
+★ Stars: 52
 
 [Open repository](https://github.com/notifiex/notifiex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 52 | 3 | 
 | 2023-02-19 | 53 | 3 | 
 | 2023-02-18 | 53 | 3 | 
 | 2023-02-17 | 53 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 52 | 3 | 
 | 2023-01-23 | 51 | 3 | 
 | 2023-01-22 | 51 | 3 | 
-| 2023-01-21 | 51 | 3 | 
 

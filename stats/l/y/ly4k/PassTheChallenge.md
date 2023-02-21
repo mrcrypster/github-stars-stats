@@ -1,10 +1,10 @@
 # ly4k/PassTheChallenge - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 267
+★ Stars: 272
 
 [Open repository](https://github.com/ly4k/PassTheChallenge)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 272 | 15 | 
 | 2023-02-18 | 267 | 14 | 
 | 2023-02-17 | 266 | 14 | 
 | 2023-02-16 | 266 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 247 | 12 | 
 | 2023-01-23 | 246 | 12 | 
 | 2023-01-22 | 246 | 12 | 
-| 2023-01-21 | 246 | 12 | 
 

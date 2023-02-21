@@ -1,10 +1,10 @@
 # max32002/tixcraft_bot - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 69
 
-★ Stars: 300
+★ Stars: 302
 
 [Open repository](https://github.com/max32002/tixcraft_bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 302 | 69 | 
 | 2023-02-19 | 300 | 69 | 
 | 2023-02-18 | 298 | 69 | 
 | 2023-02-17 | 294 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 262 | 64 | 
 | 2023-01-23 | 260 | 64 | 
 | 2023-01-22 | 260 | 63 | 
-| 2023-01-21 | 259 | 63 | 
 

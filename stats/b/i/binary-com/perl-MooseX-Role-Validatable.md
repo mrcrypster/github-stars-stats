@@ -1,8 +1,8 @@
 # binary-com/perl-MooseX-Role-Validatable - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | - | 6 | 
 | 2023-02-19 | - | 5 | 
 | 2023-02-18 | - | 5 | 
 | 2023-02-17 | - | 5 | 

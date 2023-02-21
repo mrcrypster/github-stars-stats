@@ -1,10 +1,10 @@
 # kylemanna/docker-openvpn - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
-☋ Forks: 2208
+☋ Forks: 2209
 
-★ Stars: 7979
+★ Stars: 7980
 
 [Open repository](https://github.com/kylemanna/docker-openvpn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 7980 | 2209 | 
 | 2023-02-18 | 7979 | 2208 | 
 | 2023-02-17 | 7978 | 2209 | 
 | 2023-02-16 | 7977 | 2207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 7946 | 2182 | 
 | 2023-01-23 | 7943 | 2180 | 
 | 2023-01-22 | 7942 | 2179 | 
-| 2023-01-21 | 7940 | 2179 | 
 

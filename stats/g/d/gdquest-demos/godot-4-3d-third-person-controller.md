@@ -1,10 +1,10 @@
 # gdquest-demos/godot-4-3d-third-person-controller - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 254
+★ Stars: 258
 
 [Open repository](https://github.com/gdquest-demos/godot-4-3d-third-person-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 258 | 16 | 
 | 2023-02-19 | 254 | 15 | 
 | 2023-02-18 | 253 | 15 | 
 | 2023-02-17 | 253 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 225 | 16 | 
 | 2023-01-23 | 219 | 16 | 
 | 2023-01-22 | 219 | 16 | 
-| 2023-01-21 | 219 | 16 | 
 

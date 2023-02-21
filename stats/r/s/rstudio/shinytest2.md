@@ -1,10 +1,10 @@
 # rstudio/shinytest2 - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 7
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/rstudio/shinytest2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 89 | 7 | 
 | 2023-02-18 | 88 | 7 | 
 | 2023-02-17 | 88 | 7 | 
 | 2023-02-16 | 88 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 87 | 7 | 
 | 2023-01-23 | 87 | 7 | 
 | 2023-01-22 | 87 | 7 | 
-| 2023-01-21 | 87 | 7 | 
 

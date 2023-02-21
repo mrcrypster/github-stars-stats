@@ -1,6 +1,6 @@
 # candycat1992/Unity_Shaders_Book - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 1496
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4430 | 1496 | 
 | 2023-02-19 | 4430 | 1496 | 
 | 2023-02-18 | 4427 | 1496 | 
 | 2023-02-17 | 4428 | 1496 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 4370 | 1483 | 
 | 2023-01-23 | 4370 | 1483 | 
 | 2023-01-22 | 4369 | 1483 | 
-| 2023-01-21 | 4369 | 1483 | 
 

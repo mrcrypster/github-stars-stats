@@ -1,6 +1,6 @@
 # DarkCoderSc/PsyloDbg - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 149 | 21 | 
 | 2023-02-19 | 149 | 21 | 
 | 2023-02-18 | 149 | 21 | 
 | 2023-02-17 | 149 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 146 | 20 | 
 | 2023-01-24 | 146 | 20 | 
 | 2023-01-22 | 146 | 20 | 
-| 2023-01-21 | 146 | 20 | 
 

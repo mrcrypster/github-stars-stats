@@ -1,10 +1,10 @@
 # jump-cellpainting/datasets - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/jump-cellpainting/datasets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 80 | 9 | 
 | 2023-02-19 | 79 | 8 | 
 | 2023-02-18 | 79 | 8 | 
 | 2023-02-17 | 79 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 72 | 6 | 
 | 2023-01-23 | 72 | 6 | 
 | 2023-01-22 | 72 | 6 | 
-| 2023-01-21 | 72 | 6 | 
 

@@ -1,6 +1,6 @@
 # jherrlin/guitar-theory-training - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 25 | 3 | 
 | 2023-02-19 | 25 | 3 | 
 | 2023-02-18 | 24 | 3 | 
 | 2023-02-17 | 24 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 24 | 3 | 
 | 2023-01-24 | 24 | 3 | 
 | 2023-01-23 | 24 | 3 | 
-| 2023-01-22 | 24 | 3 | 
 

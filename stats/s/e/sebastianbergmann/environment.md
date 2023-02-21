@@ -1,6 +1,6 @@
 # sebastianbergmann/environment - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 6497 | 30 | 
 | 2023-02-19 | 6497 | 30 | 
 | 2023-02-18 | 6497 | 30 | 
 | 2023-02-17 | 6497 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 6478 | 31 | 
 | 2023-01-23 | 6477 | 31 | 
 | 2023-01-22 | 6477 | 31 | 
-| 2023-01-21 | 6477 | 31 | 
 

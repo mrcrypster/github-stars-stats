@@ -1,10 +1,10 @@
 # pangeo-data/WeatherBench - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 147
 
-★ Stars: 475
+★ Stars: 476
 
 [Open repository](https://github.com/pangeo-data/WeatherBench)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 476 | 147 | 
 | 2023-02-19 | 475 | 147 | 
 | 2023-02-18 | 474 | 147 | 
 | 2023-02-17 | 472 | 147 | 

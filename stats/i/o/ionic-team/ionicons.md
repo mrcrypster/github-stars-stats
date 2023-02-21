@@ -1,10 +1,10 @@
 # ionic-team/ionicons - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 2062
 
-★ Stars: 16665
+★ Stars: 16668
 
 [Open repository](https://github.com/ionic-team/ionicons)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 16668 | 2062 | 
 | 2023-02-19 | 16665 | 2062 | 
 | 2023-02-18 | 16662 | 2061 | 
 | 2023-02-17 | 16661 | 2061 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 16598 | 2062 | 
 | 2023-01-23 | 16599 | 2062 | 
 | 2023-01-22 | 16599 | 2062 | 
-| 2023-01-21 | 16599 | 2062 | 
 

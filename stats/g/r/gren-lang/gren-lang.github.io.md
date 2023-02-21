@@ -1,6 +1,6 @@
 # gren-lang/gren-lang.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 10 | 5 | 
 | 2023-02-18 | 10 | 5 | 
 | 2023-02-17 | 10 | 5 | 
 | 2023-02-16 | 10 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 9 | 5 | 
 | 2023-01-23 | 9 | 5 | 
 | 2023-01-22 | 9 | 5 | 
-| 2023-01-21 | 9 | 5 | 
 

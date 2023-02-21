@@ -1,6 +1,6 @@
 # pulp-platform/cheshire - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 9 | - | 
 | 2023-02-19 | 9 | - | 
 | 2023-02-18 | 9 | - | 
 | 2023-02-17 | 8 | - | 

@@ -1,10 +1,10 @@
 # duneanalytics/abstractions - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 655
+☋ Forks: 657
 
-★ Stars: 687
+★ Stars: 689
 
 [Open repository](https://github.com/duneanalytics/abstractions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 689 | 657 | 
 | 2023-02-19 | 687 | 655 | 
 | 2023-02-18 | 687 | 654 | 
 | 2023-02-17 | 686 | 652 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 661 | 607 | 
 | 2023-01-24 | 660 | 605 | 
 | 2023-01-23 | 655 | 601 | 
-| 2023-01-22 | 655 | 600 | 
 

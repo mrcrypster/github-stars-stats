@@ -1,8 +1,8 @@
 # terraform-aws-modules/terraform-aws-lambda - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 483
+☋ Forks: 486
 
 ★ Stars: 627
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 627 | 486 | 
 | 2023-02-19 | 627 | 483 | 
 | 2023-02-18 | 627 | 483 | 
 | 2023-02-17 | 627 | 483 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 609 | 470 | 
 | 2023-01-23 | 606 | 465 | 
 | 2023-01-22 | 605 | 465 | 
-| 2023-01-21 | 605 | 464 | 
 

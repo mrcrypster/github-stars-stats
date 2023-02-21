@@ -1,6 +1,6 @@
 # kuprel/min-dalle - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3411 | 245 | 
 | 2023-02-19 | 3411 | 245 | 
 | 2023-02-18 | 3411 | 245 | 
 | 2023-02-17 | 3411 | 245 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 3385 | 243 | 
 | 2023-01-23 | 3385 | 243 | 
 | 2023-01-22 | 3384 | 243 | 
-| 2023-01-21 | 3381 | 243 | 
 

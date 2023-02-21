@@ -1,10 +1,10 @@
 # aws/amazon-sagemaker-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 5890
+☋ Forks: 5892
 
-★ Stars: 7904
+★ Stars: 7910
 
 [Open repository](https://github.com/aws/amazon-sagemaker-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 7910 | 5892 | 
 | 2023-02-19 | 7904 | 5890 | 
 | 2023-02-18 | 7904 | 5890 | 
 | 2023-02-17 | 7893 | 5888 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 7801 | 5824 | 
 | 2023-01-23 | 7792 | 5817 | 
 | 2023-01-22 | 7789 | 5815 | 
-| 2023-01-21 | 7788 | 5814 | 
 

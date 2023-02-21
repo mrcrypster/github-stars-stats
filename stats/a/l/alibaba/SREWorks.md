@@ -1,6 +1,6 @@
 # alibaba/SREWorks - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 273
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1219 | 273 | 
 | 2023-02-19 | 1219 | 273 | 
 | 2023-02-18 | 1217 | 273 | 
 | 2023-02-17 | 1217 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1187 | 266 | 
 | 2023-01-23 | 1185 | 266 | 
 | 2023-01-22 | 1185 | 266 | 
-| 2023-01-21 | 1185 | 266 | 
 

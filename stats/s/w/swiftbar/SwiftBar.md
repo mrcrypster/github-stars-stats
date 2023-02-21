@@ -1,10 +1,10 @@
 # swiftbar/SwiftBar - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 69
 
-★ Stars: 2040
+★ Stars: 2042
 
 [Open repository](https://github.com/swiftbar/SwiftBar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 2042 | 69 | 
 | 2023-02-19 | 2040 | 69 | 
 | 2023-02-18 | 2039 | 69 | 
 | 2023-02-17 | 2038 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 2009 | 66 | 
 | 2023-01-23 | 2009 | 66 | 
 | 2023-01-22 | 2008 | 66 | 
-| 2023-01-21 | 2008 | 66 | 
 

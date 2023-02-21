@@ -1,0 +1,17 @@
+# qTox/qTox - stars & forks statistics
+
+Stats updated on Feb 2023, 20
+
+☋ Forks: 997
+
+★ Stars: 4434
+
+[Open repository](https://github.com/qTox/qTox)
+
+[Open detailed stats for qTox/qTox](https://reviewgithub.com/rep/qTox/qTox)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-20 | 4434 | 997 | 
+

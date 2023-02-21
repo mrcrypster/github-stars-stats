@@ -1,10 +1,10 @@
 # Brikwerk/nxbt - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 60
 
-★ Stars: 531
+★ Stars: 534
 
 [Open repository](https://github.com/Brikwerk/nxbt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 534 | 60 | 
 | 2023-02-19 | 531 | 60 | 
 | 2023-02-18 | 531 | 60 | 
 | 2023-02-17 | 531 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 518 | 59 | 
 | 2023-01-23 | 511 | 59 | 
 | 2023-01-22 | 512 | 59 | 
-| 2023-01-21 | 512 | 59 | 
 

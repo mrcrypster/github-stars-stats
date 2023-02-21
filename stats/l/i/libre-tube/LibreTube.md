@@ -1,10 +1,10 @@
 # libre-tube/LibreTube - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 269
 
-★ Stars: 4438
+★ Stars: 4446
 
 [Open repository](https://github.com/libre-tube/LibreTube)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4446 | 269 | 
 | 2023-02-19 | 4438 | 269 | 
 | 2023-02-18 | 4417 | 268 | 
 | 2023-02-17 | 4407 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 4208 | 261 | 
 | 2023-01-23 | 4194 | 261 | 
 | 2023-01-22 | 4185 | 260 | 
-| 2023-01-21 | 4179 | 259 | 
 

@@ -1,6 +1,6 @@
 # cosmos/cosmos - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 289
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1172 | 289 | 
 | 2023-02-19 | 1172 | 289 | 
 | 2023-02-18 | 1172 | 289 | 
 | 2023-02-17 | 1171 | 289 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1165 | 288 | 
 | 2023-01-23 | 1165 | 288 | 
 | 2023-01-22 | 1165 | 288 | 
-| 2023-01-21 | 1165 | 288 | 
 

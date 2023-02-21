@@ -1,10 +1,10 @@
 # black7375/Firefox-UI-Fix - stars & forks statistics
 
-Stats updated on Feb 2023, 18
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 178
 
-★ Stars: 4277
+★ Stars: 4279
 
 [Open repository](https://github.com/black7375/Firefox-UI-Fix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4279 | 178 | 
 | 2023-02-18 | 4277 | 178 | 
 | 2023-02-17 | 4274 | 179 | 
 | 2023-02-16 | 4271 | 179 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 18
 | 2023-01-24 | 4238 | 175 | 
 | 2023-01-23 | 4235 | 175 | 
 | 2023-01-22 | 4234 | 175 | 
-| 2023-01-21 | 4233 | 175 | 
 

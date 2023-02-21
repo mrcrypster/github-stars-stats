@@ -1,10 +1,10 @@
 # jigish/slate - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 519
 
-★ Stars: 7780
+★ Stars: 7781
 
 [Open repository](https://github.com/jigish/slate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 7781 | 519 | 
 | 2023-02-19 | 7780 | 519 | 
 | 2023-02-18 | 7780 | 519 | 
 | 2023-02-17 | 7781 | 519 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 7780 | 520 | 
 | 2023-01-23 | 7780 | 520 | 
 | 2023-01-22 | 7780 | 520 | 
-| 2023-01-21 | 7780 | 520 | 
 

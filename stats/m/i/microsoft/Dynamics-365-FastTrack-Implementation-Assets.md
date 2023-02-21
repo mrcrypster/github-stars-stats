@@ -1,6 +1,6 @@
 # microsoft/Dynamics-365-FastTrack-Implementation-Assets - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 172 | 140 | 
 | 2023-02-19 | 172 | 140 | 
 | 2023-02-18 | 172 | 140 | 
 | 2023-02-17 | 171 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 160 | 135 | 
 | 2023-01-23 | 160 | 134 | 
 | 2023-01-22 | 160 | 134 | 
-| 2023-01-21 | 160 | 134 | 
 

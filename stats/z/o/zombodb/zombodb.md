@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 20
 
 ☋ Forks: 200
 
-★ Stars: 4276
+★ Stars: 4277
 
 [Open repository](https://github.com/zombodb/zombodb)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-20 | 4276 | 200 | 
+| 2023-02-20 | 4277 | 200 | 
 | 2023-02-19 | 4276 | 200 | 
 | 2023-02-18 | 4272 | 200 | 
 | 2023-02-17 | 4272 | 200 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-24 | 4248 | 199 | 
 | 2023-01-23 | 4246 | 199 | 
 | 2023-01-22 | 4244 | 199 | 
-| 2023-01-21 | 4243 | 199 | 
 

@@ -1,10 +1,10 @@
 # boyter/scc - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 4449
+★ Stars: 4451
 
 [Open repository](https://github.com/boyter/scc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 4451 | 190 | 
 | 2023-02-19 | 4449 | 189 | 
 | 2023-02-18 | 4446 | 189 | 
 | 2023-02-17 | 4447 | 189 | 

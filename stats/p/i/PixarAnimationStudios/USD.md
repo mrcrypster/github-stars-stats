@@ -1,10 +1,10 @@
 # PixarAnimationStudios/USD - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 948
 
-★ Stars: 4087
+★ Stars: 4090
 
 [Open repository](https://github.com/PixarAnimationStudios/USD)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 4090 | 948 | 
 | 2023-02-19 | 4087 | 948 | 
 | 2023-02-18 | 4088 | 948 | 
 | 2023-02-17 | 4083 | 947 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 4035 | 932 | 
 | 2023-01-23 | 4033 | 931 | 
 | 2023-01-22 | 4030 | 929 | 
-| 2023-01-21 | 4029 | 928 | 
 

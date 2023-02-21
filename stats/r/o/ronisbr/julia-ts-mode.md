@@ -1,10 +1,10 @@
 # ronisbr/julia-ts-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/ronisbr/julia-ts-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 21 | 3 | 
 | 2023-02-19 | 20 | 3 | 
 | 2023-02-18 | 20 | 3 | 
 | 2023-02-17 | 20 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 19 | 2 | 
 | 2023-01-23 | 19 | 2 | 
 | 2023-01-22 | 19 | 1 | 
-| 2023-01-21 | 19 | 1 | 
 

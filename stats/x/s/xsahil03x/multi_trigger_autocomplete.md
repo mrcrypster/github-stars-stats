@@ -1,6 +1,6 @@
 # xsahil03x/multi_trigger_autocomplete - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 79 | 7 | 
 | 2023-02-19 | 79 | 7 | 
 | 2023-02-17 | 79 | 7 | 
 | 2023-02-16 | 79 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 78 | 7 | 
 | 2023-01-23 | 78 | 8 | 
 | 2023-01-22 | 78 | 8 | 
-| 2023-01-21 | 78 | 8 | 
 

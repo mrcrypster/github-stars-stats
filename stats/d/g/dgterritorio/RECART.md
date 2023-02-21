@@ -1,6 +1,6 @@
 # dgterritorio/RECART - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 25 | 15 | 
 | 2023-02-19 | 25 | 15 | 
 | 2023-02-17 | 25 | 15 | 
 | 2023-02-16 | 24 | 15 | 

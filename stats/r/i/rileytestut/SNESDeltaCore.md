@@ -1,10 +1,10 @@
 # rileytestut/SNESDeltaCore - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 8
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/rileytestut/SNESDeltaCore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 23 | 8 | 
 | 2023-02-19 | 22 | 8 | 
 | 2023-02-18 | 22 | 8 | 
 | 2023-02-17 | 22 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 21 | 6 | 
 | 2023-01-23 | 21 | 6 | 
 | 2023-01-22 | 21 | 6 | 
-| 2023-01-21 | 21 | 6 | 
 

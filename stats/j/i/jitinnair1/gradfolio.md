@@ -1,6 +1,6 @@
 # jitinnair1/gradfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 141 | 71 | 
 | 2023-02-19 | 141 | 71 | 
 | 2023-02-18 | 139 | 70 | 
 | 2023-02-17 | 139 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 135 | 69 | 
 | 2023-01-23 | 135 | 69 | 
 | 2023-01-22 | 135 | 69 | 
-| 2023-01-21 | 135 | 69 | 
 

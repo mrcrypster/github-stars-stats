@@ -1,6 +1,6 @@
 # microsoft/AzureTipsAndTricks - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 461
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1393 | 461 | 
 | 2023-02-19 | 1393 | 461 | 
 | 2023-02-18 | 1393 | 461 | 
 | 2023-02-17 | 1392 | 461 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 1385 | 453 | 
 | 2023-01-24 | 1385 | 453 | 
 | 2023-01-23 | 1385 | 453 | 
-| 2023-01-21 | 1385 | 453 | 
 

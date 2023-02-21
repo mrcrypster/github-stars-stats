@@ -1,10 +1,10 @@
 # themesberg/flowbite-admin-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 192
+★ Stars: 196
 
 [Open repository](https://github.com/themesberg/flowbite-admin-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 196 | 30 | 
 | 2023-02-19 | 192 | 29 | 
 | 2023-02-18 | 191 | 29 | 
 | 2023-02-17 | 185 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 114 | 9 | 
 | 2023-01-23 | 103 | 7 | 
 | 2023-01-22 | 98 | 7 | 
-| 2023-01-21 | 73 | 5 | 
 

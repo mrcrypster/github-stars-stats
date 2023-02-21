@@ -1,6 +1,6 @@
 # microsoft/OpenAPI.NET - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 1080 | 178 | 
 | 2023-02-19 | 1080 | 178 | 
 | 2023-02-18 | 1080 | 178 | 
 | 2023-02-17 | 1079 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 1065 | 178 | 
 | 2023-01-23 | 1062 | 178 | 
 | 2023-01-22 | 1062 | 177 | 
-| 2023-01-21 | 1062 | 177 | 
 

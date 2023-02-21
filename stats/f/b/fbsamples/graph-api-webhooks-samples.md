@@ -1,8 +1,8 @@
 # fbsamples/graph-api-webhooks-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 373
+☋ Forks: 374
 
 ★ Stars: 197
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 197 | 374 | 
 | 2023-02-19 | 197 | 373 | 
 | 2023-02-18 | 197 | 373 | 
 | 2023-02-17 | 197 | 372 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 192 | 368 | 
 | 2023-01-23 | 192 | 368 | 
 | 2023-01-22 | 192 | 368 | 
-| 2023-01-21 | 192 | 368 | 
 

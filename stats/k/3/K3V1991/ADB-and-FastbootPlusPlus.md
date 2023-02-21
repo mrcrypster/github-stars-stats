@@ -1,10 +1,10 @@
 # K3V1991/ADB-and-FastbootPlusPlus - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 32
 
-★ Stars: 147
+★ Stars: 146
 
 [Open repository](https://github.com/K3V1991/ADB-and-FastbootPlusPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 146 | 32 | 
 | 2023-02-19 | 147 | 32 | 
 | 2023-02-18 | 146 | 32 | 
 | 2023-02-17 | 146 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 141 | 33 | 
 | 2023-01-23 | 141 | 33 | 
 | 2023-01-22 | 139 | 33 | 
-| 2023-01-21 | 140 | 33 | 
 

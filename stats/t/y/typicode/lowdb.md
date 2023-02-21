@@ -1,10 +1,10 @@
 # typicode/lowdb - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
 ☋ Forks: 880
 
-★ Stars: 19119
+★ Stars: 19124
 
 [Open repository](https://github.com/typicode/lowdb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | 19124 | 880 | 
 | 2023-02-19 | 19119 | 880 | 
 | 2023-02-18 | 19116 | 880 | 
 | 2023-02-17 | 19112 | 880 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | 18959 | 876 | 
 | 2023-01-23 | 18957 | 876 | 
 | 2023-01-22 | 18952 | 875 | 
-| 2023-01-21 | 18950 | 875 | 
 

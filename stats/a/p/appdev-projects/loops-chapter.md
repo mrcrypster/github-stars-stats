@@ -1,8 +1,8 @@
 # appdev-projects/loops-chapter - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 20
 
-☋ Forks: 768
+☋ Forks: 769
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-20 | - | 769 | 
 | 2023-02-19 | - | 768 | 
 | 2023-02-18 | - | 767 | 
 | 2023-02-17 | - | 760 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-24 | - | 750 | 
 | 2023-01-23 | - | 750 | 
 | 2023-01-22 | - | 749 | 
-| 2023-01-21 | - | 749 | 
 
