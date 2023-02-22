@@ -1,10 +1,10 @@
 # LayerZero-Labs/solidity-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 133
+☋ Forks: 134
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/LayerZero-Labs/solidity-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 238 | 134 | 
 | 2023-02-20 | 237 | 133 | 
 | 2023-02-19 | 235 | 132 | 
 | 2023-02-18 | 235 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 227 | 129 | 
 | 2023-01-24 | 226 | 128 | 
 | 2023-01-23 | 226 | 128 | 
-| 2023-01-22 | 226 | 128 | 
 

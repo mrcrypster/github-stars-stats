@@ -1,6 +1,6 @@
 # minad/marginalia - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 515 | 25 | 
 | 2023-02-20 | 515 | 25 | 
 | 2023-02-19 | 512 | 25 | 
 | 2023-02-18 | 512 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 504 | 24 | 
 | 2023-01-24 | 504 | 24 | 
 | 2023-01-23 | 504 | 24 | 
-| 2023-01-22 | 504 | 24 | 
 

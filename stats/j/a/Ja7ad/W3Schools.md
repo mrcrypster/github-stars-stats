@@ -1,10 +1,10 @@
 # Ja7ad/W3Schools - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 169
 
-★ Stars: 326
+★ Stars: 329
 
 [Open repository](https://github.com/Ja7ad/W3Schools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 329 | 169 | 
 | 2023-02-19 | 326 | 169 | 
 | 2023-02-18 | 326 | 169 | 
 | 2023-02-17 | 326 | 169 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 315 | 164 | 
 | 2023-01-24 | 315 | 164 | 
 | 2023-01-23 | 314 | 164 | 
-| 2023-01-22 | 314 | 164 | 
 

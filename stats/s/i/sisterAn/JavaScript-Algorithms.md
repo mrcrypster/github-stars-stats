@@ -1,10 +1,10 @@
 # sisterAn/JavaScript-Algorithms - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 533
+☋ Forks: 534
 
-★ Stars: 4558
+★ Stars: 4569
 
 [Open repository](https://github.com/sisterAn/JavaScript-Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 4569 | 534 | 
 | 2023-02-20 | 4558 | 533 | 
 | 2023-02-19 | 4555 | 533 | 
 | 2023-02-18 | 4550 | 532 | 

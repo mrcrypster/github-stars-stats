@@ -1,6 +1,6 @@
 # hayajo/Mojolicious-Plugin-Process - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 11 | 2 | 
 | 2023-02-19 | 11 | 2 | 
 | 2023-02-18 | 11 | 2 | 
 | 2023-02-17 | 11 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 11 | 2 | 
 | 2023-01-24 | 11 | 2 | 
 | 2023-01-23 | 11 | 2 | 
-| 2023-01-22 | 11 | 2 | 
 

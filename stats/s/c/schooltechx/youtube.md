@@ -1,8 +1,8 @@
 # schooltechx/youtube - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 14 | 13 | 
 | 2023-02-20 | 14 | 12 | 
 | 2023-02-19 | 14 | 12 | 
 | 2023-02-18 | 14 | 11 | 

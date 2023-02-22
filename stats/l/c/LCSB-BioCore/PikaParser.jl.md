@@ -1,10 +1,10 @@
 # LCSB-BioCore/PikaParser.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/LCSB-BioCore/PikaParser.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 27 | - | 
 | 2023-02-20 | 26 | - | 
 | 2023-02-19 | 26 | - | 
 | 2023-02-18 | 26 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 18 | - | 
 | 2023-01-25 | 18 | - | 
 | 2023-01-24 | 18 | - | 
-| 2023-01-22 | 18 | - | 
 

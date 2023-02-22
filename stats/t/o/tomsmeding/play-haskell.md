@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/tomsmeding/play-haskell)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 25 | 2 | 
+| 2023-02-21 | 27 | 2 | 
 | 2023-02-20 | 25 | 2 | 
 | 2023-02-19 | 21 | 1 | 
 | 2023-02-18 | 19 | 1 | 

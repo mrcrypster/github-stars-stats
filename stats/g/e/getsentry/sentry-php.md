@@ -1,10 +1,10 @@
 # getsentry/sentry-php - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 434
+☋ Forks: 435
 
-★ Stars: 1695
+★ Stars: 1696
 
 [Open repository](https://github.com/getsentry/sentry-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1696 | 435 | 
 | 2023-02-19 | 1695 | 434 | 
 | 2023-02-18 | 1695 | 434 | 
 | 2023-02-17 | 1695 | 434 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 1694 | 436 | 
 | 2023-01-24 | 1694 | 435 | 
 | 2023-01-23 | 1693 | 435 | 
-| 2023-01-22 | 1693 | 435 | 
 

@@ -1,6 +1,6 @@
 # selefra/TerraformGoat - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 356 | 63 | 
 | 2023-02-19 | 356 | 63 | 
 | 2023-02-18 | 356 | 63 | 
 | 2023-02-17 | 355 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 336 | 60 | 
 | 2023-01-24 | 335 | 60 | 
 | 2023-01-23 | 334 | 60 | 
-| 2023-01-22 | 334 | 60 | 
 

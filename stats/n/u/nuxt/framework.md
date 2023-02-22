@@ -1,10 +1,10 @@
 # nuxt/framework - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1196
+☋ Forks: 1194
 
-★ Stars: 11134
+★ Stars: 11130
 
 [Open repository](https://github.com/nuxt/framework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 11130 | 1194 | 
 | 2023-02-20 | 11134 | 1196 | 
 | 2023-02-19 | 11136 | 1196 | 
 | 2023-02-18 | 11137 | 1195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 11203 | 1218 | 
 | 2023-01-24 | 11209 | 1217 | 
 | 2023-01-23 | 11215 | 1218 | 
-| 2023-01-22 | 11228 | 1221 | 
 

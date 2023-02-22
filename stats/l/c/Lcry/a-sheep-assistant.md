@@ -1,8 +1,8 @@
 # Lcry/a-sheep-assistant - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 329
+☋ Forks: 328
 
 ★ Stars: 863
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 863 | 328 | 
 | 2023-02-20 | 863 | 329 | 
 | 2023-02-19 | 863 | 329 | 
 | 2023-02-18 | 863 | 329 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 868 | 331 | 
 | 2023-01-24 | 869 | 331 | 
 | 2023-01-23 | 869 | 331 | 
-| 2023-01-22 | 869 | 331 | 
 

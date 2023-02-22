@@ -1,10 +1,10 @@
 # meabhisingh/mernProjectEcommerce - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 506
+☋ Forks: 508
 
-★ Stars: 618
+★ Stars: 619
 
 [Open repository](https://github.com/meabhisingh/mernProjectEcommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 619 | 508 | 
 | 2023-02-20 | 618 | 506 | 
 | 2023-02-19 | 615 | 503 | 
 | 2023-02-18 | 615 | 504 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 578 | 487 | 
 | 2023-01-25 | 575 | 486 | 
 | 2023-01-24 | 575 | 485 | 
-| 2023-01-23 | 574 | 483 | 
 

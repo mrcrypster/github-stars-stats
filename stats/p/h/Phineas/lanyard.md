@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 21
 
 ☋ Forks: 109
 
-★ Stars: 624
+★ Stars: 625
 
 [Open repository](https://github.com/Phineas/lanyard)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 624 | 109 | 
+| 2023-02-21 | 625 | 109 | 
 | 2023-02-20 | 624 | 109 | 
 | 2023-02-19 | 623 | 108 | 
 | 2023-02-18 | 619 | 108 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 581 | 106 | 
 | 2023-01-24 | 581 | 105 | 
 | 2023-01-23 | 581 | 105 | 
-| 2023-01-22 | 581 | 105 | 
 

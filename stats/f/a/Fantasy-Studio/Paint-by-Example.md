@@ -1,10 +1,10 @@
 # Fantasy-Studio/Paint-by-Example - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 39
 
-★ Stars: 446
+★ Stars: 448
 
 [Open repository](https://github.com/Fantasy-Studio/Paint-by-Example)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 448 | 39 | 
 | 2023-02-20 | 446 | 39 | 
 | 2023-02-19 | 443 | 39 | 
 | 2023-02-18 | 442 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 406 | 32 | 
 | 2023-01-24 | 404 | 31 | 
 | 2023-01-23 | 404 | 31 | 
-| 2023-01-22 | 403 | 31 | 
 

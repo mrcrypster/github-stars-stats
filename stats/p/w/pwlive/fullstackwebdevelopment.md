@@ -1,10 +1,10 @@
 # pwlive/fullstackwebdevelopment - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 191
+☋ Forks: 195
 
-★ Stars: 71
+★ Stars: 74
 
 [Open repository](https://github.com/pwlive/fullstackwebdevelopment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 74 | 195 | 
 | 2023-02-20 | 71 | 191 | 
 | 2023-02-19 | 68 | 192 | 
 | 2023-02-18 | 66 | 186 | 

@@ -1,6 +1,6 @@
 # wingo/fibers - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 256 | 28 | 
 | 2023-02-20 | 256 | 28 | 
 | 2023-02-18 | 256 | 28 | 
 | 2023-02-17 | 256 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 254 | 28 | 
 | 2023-01-24 | 254 | 28 | 
 | 2023-01-23 | 254 | 28 | 
-| 2023-01-22 | 254 | 28 | 
 

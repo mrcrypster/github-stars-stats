@@ -1,6 +1,6 @@
 # obrobrio2000/Samsung-Quick-Share-4-All - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 98 | 19 | 
 | 2023-02-20 | 98 | 19 | 
 | 2023-02-19 | 97 | 19 | 
 | 2023-02-18 | 97 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 90 | 18 | 
 | 2023-01-25 | 89 | 17 | 
 | 2023-01-23 | 89 | 17 | 
-| 2023-01-22 | 88 | 17 | 
 

@@ -1,10 +1,10 @@
 # rilldata/rill-developer - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 41
 
-★ Stars: 690
+★ Stars: 692
 
 [Open repository](https://github.com/rilldata/rill-developer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 692 | 41 | 
 | 2023-02-20 | 690 | 41 | 
 | 2023-02-19 | 689 | 41 | 
 | 2023-02-18 | 688 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 630 | 40 | 
 | 2023-01-24 | 625 | 40 | 
 | 2023-01-23 | 620 | 40 | 
-| 2023-01-22 | 620 | 40 | 
 

@@ -1,10 +1,10 @@
 # sparrowwallet/sparrow - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 102
 
-★ Stars: 675
+★ Stars: 677
 
 [Open repository](https://github.com/sparrowwallet/sparrow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 677 | 102 | 
 | 2023-02-20 | 675 | 102 | 
 | 2023-02-19 | 674 | 102 | 
 | 2023-02-18 | 672 | 102 | 

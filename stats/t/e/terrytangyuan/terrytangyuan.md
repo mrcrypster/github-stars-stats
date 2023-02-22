@@ -1,10 +1,10 @@
 # terrytangyuan/terrytangyuan - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 188
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/terrytangyuan/terrytangyuan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 45 | 188 | 
 | 2023-02-20 | 44 | 188 | 
 | 2023-02-19 | 44 | 188 | 
 | 2023-02-17 | 44 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 44 | 185 | 
 | 2023-01-24 | 44 | 185 | 
 | 2023-01-23 | 44 | 185 | 
-| 2023-01-22 | 44 | 184 | 
 

@@ -1,10 +1,10 @@
 # HungryProton/scatter - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 53
+☋ Forks: 54
 
-★ Stars: 1149
+★ Stars: 1150
 
 [Open repository](https://github.com/HungryProton/scatter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1150 | 54 | 
 | 2023-02-20 | 1149 | 53 | 
 | 2023-02-19 | 1149 | 53 | 
 | 2023-02-18 | 1149 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1137 | 53 | 
 | 2023-01-24 | 1137 | 53 | 
 | 2023-01-23 | 1136 | 53 | 
-| 2023-01-22 | 1136 | 53 | 
 

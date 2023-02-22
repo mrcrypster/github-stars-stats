@@ -1,10 +1,10 @@
 # onekey-sec/unblob - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 50
 
-★ Stars: 1615
+★ Stars: 1618
 
 [Open repository](https://github.com/onekey-sec/unblob)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1618 | 50 | 
 | 2023-02-20 | 1615 | 50 | 
 | 2023-02-19 | 1614 | 50 | 
 | 2023-02-17 | 1614 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1516 | 44 | 
 | 2023-01-24 | 1508 | 44 | 
 | 2023-01-23 | 1501 | 43 | 
-| 2023-01-22 | 1481 | 43 | 
 

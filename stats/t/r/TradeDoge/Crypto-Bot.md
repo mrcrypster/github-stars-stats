@@ -1,10 +1,10 @@
 # TradeDoge/Crypto-Bot - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 49
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/TradeDoge/Crypto-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 13 | 49 | 
 | 2023-02-19 | 14 | 49 | 
 | 2023-02-18 | 14 | 49 | 
 | 2023-02-17 | 13 | 49 | 

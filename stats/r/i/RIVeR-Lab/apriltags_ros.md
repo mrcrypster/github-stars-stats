@@ -1,6 +1,6 @@
 # RIVeR-Lab/apriltags_ros - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 81 | 101 | 
 | 2023-02-20 | 81 | 101 | 
 | 2023-02-19 | 81 | 101 | 
 | 2023-02-18 | 81 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 81 | 101 | 
 | 2023-01-24 | 81 | 101 | 
 | 2023-01-23 | 81 | 101 | 
-| 2023-01-22 | 81 | 101 | 
 

@@ -1,10 +1,10 @@
 # darktable-org/darktable - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 991
 
-★ Stars: 7438
+★ Stars: 7441
 
 [Open repository](https://github.com/darktable-org/darktable)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 7441 | 991 | 
 | 2023-02-20 | 7438 | 991 | 
 | 2023-02-19 | 7432 | 992 | 
 | 2023-02-18 | 7428 | 992 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 7356 | 985 | 
 | 2023-01-25 | 7353 | 984 | 
 | 2023-01-23 | 7351 | 984 | 
-| 2023-01-22 | 7349 | 984 | 
 

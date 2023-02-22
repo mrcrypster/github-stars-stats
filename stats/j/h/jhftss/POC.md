@@ -1,10 +1,10 @@
 # jhftss/POC - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 11
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/jhftss/POC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 192 | 11 | 
 | 2023-02-20 | 191 | 11 | 
 | 2023-02-19 | 191 | 11 | 
 | 2023-02-18 | 190 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 75 | 5 | 
 | 2023-01-24 | 75 | 5 | 
 | 2023-01-23 | 75 | 5 | 
-| 2023-01-22 | 75 | 5 | 
 

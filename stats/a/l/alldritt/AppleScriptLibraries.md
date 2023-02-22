@@ -1,10 +1,10 @@
 # alldritt/AppleScriptLibraries - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 5
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/alldritt/AppleScriptLibraries)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 64 | 5 | 
 | 2023-02-19 | 63 | 5 | 
 | 2023-02-18 | 63 | 5 | 
 | 2023-02-17 | 63 | 5 | 

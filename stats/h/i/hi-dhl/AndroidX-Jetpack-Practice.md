@@ -1,10 +1,10 @@
 # hi-dhl/AndroidX-Jetpack-Practice - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 156
 
-★ Stars: 1399
+★ Stars: 1400
 
 [Open repository](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1400 | 156 | 
 | 2023-02-20 | 1399 | 156 | 
 | 2023-02-18 | 1399 | 156 | 
 | 2023-02-17 | 1398 | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1394 | 157 | 
 | 2023-01-24 | 1394 | 157 | 
 | 2023-01-23 | 1396 | 157 | 
-| 2023-01-22 | 1396 | 157 | 
 

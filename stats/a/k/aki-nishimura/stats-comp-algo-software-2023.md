@@ -1,6 +1,6 @@
 # aki-nishimura/stats-comp-algo-software-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 13 | 
 | 2023-02-20 | - | 13 | 
 | 2023-02-19 | - | 13 | 
 | 2023-02-18 | - | 13 | 

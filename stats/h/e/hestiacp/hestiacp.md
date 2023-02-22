@@ -1,10 +1,10 @@
 # hestiacp/hestiacp - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 464
+☋ Forks: 465
 
-★ Stars: 2110
+★ Stars: 2115
 
 [Open repository](https://github.com/hestiacp/hestiacp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2115 | 465 | 
 | 2023-02-20 | 2110 | 464 | 
 | 2023-02-19 | 2105 | 463 | 
 | 2023-02-18 | 2102 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 2059 | 454 | 
 | 2023-01-24 | 2058 | 455 | 
 | 2023-01-23 | 2056 | 455 | 
-| 2023-01-22 | 2055 | 456 | 
 

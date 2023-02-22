@@ -1,6 +1,6 @@
 # ConferOpenSource/refurb - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 26 | 2 | 
 | 2023-02-20 | 26 | 2 | 
 | 2023-02-19 | 26 | 2 | 
 | 2023-02-18 | 26 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 25 | 2 | 
 | 2023-01-24 | 25 | 2 | 
 | 2023-01-23 | 25 | 2 | 
-| 2023-01-22 | 25 | 2 | 
 

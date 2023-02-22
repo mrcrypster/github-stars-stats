@@ -1,10 +1,10 @@
 # cs61/cs61-f22-psets - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/cs61/cs61-f22-psets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 7 | 13 | 
 | 2023-02-20 | 6 | 13 | 
 | 2023-02-18 | 6 | 13 | 
 | 2023-02-17 | 6 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5 | 12 | 
 | 2023-01-24 | 5 | 12 | 
 | 2023-01-23 | 5 | 12 | 
-| 2023-01-22 | 5 | 12 | 
 

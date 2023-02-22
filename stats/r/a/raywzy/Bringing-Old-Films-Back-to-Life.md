@@ -1,6 +1,6 @@
 # raywzy/Bringing-Old-Films-Back-to-Life - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 370 | 24 | 
 | 2023-02-20 | 370 | 24 | 
 | 2023-02-19 | 368 | 24 | 
 | 2023-02-18 | 367 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 351 | 22 | 
 | 2023-01-24 | 351 | 22 | 
 | 2023-01-23 | 351 | 22 | 
-| 2023-01-22 | 351 | 22 | 
 

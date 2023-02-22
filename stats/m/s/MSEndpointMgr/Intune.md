@@ -1,10 +1,10 @@
 # MSEndpointMgr/Intune - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 200
+☋ Forks: 201
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/MSEndpointMgr/Intune)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 422 | 201 | 
 | 2023-02-20 | 421 | 200 | 
 | 2023-02-19 | 419 | 200 | 
 | 2023-02-18 | 419 | 200 | 

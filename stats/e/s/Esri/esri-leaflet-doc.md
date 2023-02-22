@@ -1,10 +1,10 @@
 # Esri/esri-leaflet-doc - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1151
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/Esri/esri-leaflet-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 78 | 1151 | 
 | 2023-02-20 | 76 | 1151 | 
 | 2023-02-18 | 76 | 1151 | 
 | 2023-02-17 | 76 | 1151 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 76 | 1152 | 
 | 2023-01-24 | 76 | 1152 | 
 | 2023-01-23 | 76 | 1152 | 
-| 2023-01-22 | 76 | 1152 | 
 

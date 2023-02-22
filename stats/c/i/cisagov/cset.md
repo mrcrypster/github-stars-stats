@@ -1,10 +1,10 @@
 # cisagov/cset - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 190
 
-★ Stars: 1027
+★ Stars: 1028
 
 [Open repository](https://github.com/cisagov/cset)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1028 | 190 | 
 | 2023-02-20 | 1027 | 190 | 
 | 2023-02-19 | 1026 | 190 | 
 | 2023-02-18 | 1026 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 1017 | 189 | 
 | 2023-01-25 | 1017 | 189 | 
 | 2023-01-24 | 1017 | 189 | 
-| 2023-01-23 | 1015 | 189 | 
 

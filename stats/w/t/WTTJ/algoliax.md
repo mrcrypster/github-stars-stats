@@ -1,6 +1,6 @@
 # WTTJ/algoliax - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 40 | 8 | 
 | 2023-02-19 | 40 | 8 | 
 | 2023-02-18 | 39 | 8 | 
 | 2023-02-17 | 39 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 38 | 8 | 
 | 2023-01-24 | 38 | 8 | 
 | 2023-01-23 | 38 | 8 | 
-| 2023-01-22 | 38 | 8 | 
 

@@ -1,10 +1,10 @@
 # ultraembedded/biriscv - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 530
+★ Stars: 531
 
 [Open repository](https://github.com/ultraembedded/biriscv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 531 | 105 | 
 | 2023-02-20 | 530 | 104 | 
 | 2023-02-19 | 530 | 104 | 
 | 2023-02-18 | 530 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 517 | 102 | 
 | 2023-01-25 | 517 | 102 | 
 | 2023-01-23 | 517 | 102 | 
-| 2023-01-22 | 517 | 102 | 
 

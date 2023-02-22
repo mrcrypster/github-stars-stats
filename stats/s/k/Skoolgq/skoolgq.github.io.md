@@ -1,8 +1,8 @@
 # Skoolgq/skoolgq.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 5
+☋ Forks: 7
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 7 | 
 | 2023-02-21 | - | 5 | 
 | 2023-02-19 | 6 | 4 | 
 | 2023-02-18 | 6 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 17 | 29 | 
 | 2023-01-24 | 16 | 26 | 
 | 2023-01-23 | 16 | 26 | 
-| 2023-01-22 | 15 | 26 | 
 

@@ -1,10 +1,10 @@
 # salesforce/LAVIS - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
-☋ Forks: 220
+☋ Forks: 224
 
-★ Stars: 2509
+★ Stars: 2553
 
 [Open repository](https://github.com/salesforce/LAVIS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2553 | 224 | 
 | 2023-02-20 | 2509 | 220 | 
 | 2023-02-19 | 2482 | 218 | 
 | 2023-02-18 | 2455 | 214 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1463 | 121 | 
 | 2023-01-24 | 1462 | 120 | 
 | 2023-01-23 | 1461 | 120 | 
-| 2023-01-22 | 1460 | 120 | 
 

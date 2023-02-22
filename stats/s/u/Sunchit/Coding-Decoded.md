@@ -1,8 +1,8 @@
 # Sunchit/Coding-Decoded - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 240
+☋ Forks: 241
 
 ★ Stars: 313
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 313 | 241 | 
 | 2023-02-20 | 313 | 240 | 
 | 2023-02-19 | 314 | 239 | 
 | 2023-02-18 | 311 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 303 | 234 | 
 | 2023-01-24 | 301 | 234 | 
 | 2023-01-23 | 301 | 234 | 
-| 2023-01-22 | 301 | 234 | 
 

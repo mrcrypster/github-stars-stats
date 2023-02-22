@@ -1,10 +1,10 @@
 # puma/puma - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1382
+☋ Forks: 1383
 
-★ Stars: 7328
+★ Stars: 7329
 
 [Open repository](https://github.com/puma/puma)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 7329 | 1383 | 
 | 2023-02-20 | 7328 | 1382 | 
 | 2023-02-19 | 7325 | 1382 | 
 | 2023-02-18 | 7324 | 1382 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 7305 | 1379 | 
 | 2023-01-25 | 7303 | 1379 | 
 | 2023-01-24 | 7303 | 1380 | 
-| 2023-01-22 | 7303 | 1380 | 
 

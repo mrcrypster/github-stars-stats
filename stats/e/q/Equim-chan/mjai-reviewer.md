@@ -1,10 +1,10 @@
 # Equim-chan/mjai-reviewer - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 61
 
-★ Stars: 578
+★ Stars: 579
 
 [Open repository](https://github.com/Equim-chan/mjai-reviewer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 579 | 61 | 
 | 2023-02-20 | 578 | 61 | 
 | 2023-02-19 | 577 | 62 | 
 | 2023-02-18 | 576 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 541 | 58 | 
 | 2023-01-25 | 541 | 58 | 
 | 2023-01-24 | 539 | 58 | 
-| 2023-01-23 | 539 | 58 | 
 

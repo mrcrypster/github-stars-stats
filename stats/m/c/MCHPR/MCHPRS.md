@@ -1,10 +1,10 @@
 # MCHPR/MCHPRS - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 53
+☋ Forks: 52
 
-★ Stars: 1161
+★ Stars: 1163
 
 [Open repository](https://github.com/MCHPR/MCHPRS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1163 | 52 | 
 | 2023-02-19 | 1161 | 53 | 
 | 2023-02-18 | 1161 | 53 | 
 | 2023-02-17 | 1159 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 1128 | 53 | 
 | 2023-01-24 | 1126 | 53 | 
 | 2023-01-23 | 1126 | 53 | 
-| 2023-01-22 | 1125 | 53 | 
 

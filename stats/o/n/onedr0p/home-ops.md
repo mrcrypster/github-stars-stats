@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 21
 
-☋ Forks: 136
+☋ Forks: 137
 
-★ Stars: 984
+★ Stars: 985
 
 [Open repository](https://github.com/onedr0p/home-ops)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 984 | 136 | 
+| 2023-02-21 | 985 | 137 | 
 | 2023-02-20 | 984 | 136 | 
 | 2023-02-19 | 981 | 137 | 
 | 2023-02-18 | 980 | 137 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 924 | 128 | 
 | 2023-01-24 | 924 | 127 | 
 | 2023-01-23 | 922 | 127 | 
-| 2023-01-22 | 922 | 127 | 
 

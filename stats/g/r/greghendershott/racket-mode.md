@@ -1,10 +1,10 @@
 # greghendershott/racket-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 84
 
-★ Stars: 649
+★ Stars: 650
 
 [Open repository](https://github.com/greghendershott/racket-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 650 | 84 | 
 | 2023-02-20 | 649 | 84 | 
 | 2023-02-19 | 649 | 84 | 
 | 2023-02-18 | 650 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 647 | 84 | 
 | 2023-01-24 | 647 | 84 | 
 | 2023-01-23 | 647 | 84 | 
-| 2023-01-22 | 647 | 83 | 
 

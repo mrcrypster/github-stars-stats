@@ -1,10 +1,10 @@
 # microsoft/Swin-Transformer - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1677
+☋ Forks: 1676
 
-★ Stars: 10077
+★ Stars: 10087
 
 [Open repository](https://github.com/microsoft/Swin-Transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 10087 | 1676 | 
 | 2023-02-20 | 10077 | 1677 | 
 | 2023-02-18 | 10070 | 1676 | 
 | 2023-02-17 | 10064 | 1673 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 9954 | 1650 | 
 | 2023-01-24 | 9953 | 1651 | 
 | 2023-01-23 | 9950 | 1651 | 
-| 2023-01-22 | 9949 | 1651 | 
 

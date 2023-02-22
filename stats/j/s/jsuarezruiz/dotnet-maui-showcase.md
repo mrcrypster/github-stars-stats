@@ -1,10 +1,10 @@
 # jsuarezruiz/dotnet-maui-showcase - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 86
+☋ Forks: 87
 
-★ Stars: 487
+★ Stars: 489
 
 [Open repository](https://github.com/jsuarezruiz/dotnet-maui-showcase)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 489 | 87 | 
 | 2023-02-20 | 487 | 86 | 
 | 2023-02-19 | 487 | 86 | 
 | 2023-02-17 | 487 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 457 | 82 | 
 | 2023-01-24 | 457 | 82 | 
 | 2023-01-23 | 457 | 82 | 
-| 2023-01-22 | 456 | 82 | 
 

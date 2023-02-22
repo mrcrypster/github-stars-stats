@@ -1,10 +1,10 @@
 # supabase-community/auth-helpers - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 161
+☋ Forks: 163
 
-★ Stars: 566
+★ Stars: 567
 
 [Open repository](https://github.com/supabase-community/auth-helpers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 567 | 163 | 
 | 2023-02-20 | 566 | 161 | 
 | 2023-02-19 | 563 | 159 | 
 | 2023-02-18 | 562 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 540 | 139 | 
 | 2023-01-25 | 539 | 139 | 
 | 2023-01-23 | 538 | 139 | 
-| 2023-01-22 | 536 | 139 | 
 

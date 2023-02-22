@@ -1,6 +1,6 @@
 # AOSPA/android_build - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 39 | 132 | 
 | 2023-02-20 | 39 | 132 | 
 | 2023-02-19 | 39 | 132 | 
 | 2023-02-18 | 39 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 38 | 135 | 
 | 2023-01-25 | 38 | 135 | 
 | 2023-01-23 | 38 | 134 | 
-| 2023-01-22 | 39 | 135 | 
 

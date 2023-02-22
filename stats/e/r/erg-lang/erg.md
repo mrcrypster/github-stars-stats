@@ -1,6 +1,6 @@
 # erg-lang/erg - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2103 | 46 | 
 | 2023-02-20 | 2103 | 46 | 
 | 2023-02-19 | 2102 | 46 | 
 | 2023-02-18 | 2101 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 2085 | 45 | 
 | 2023-01-24 | 2085 | 45 | 
 | 2023-01-23 | 2084 | 45 | 
-| 2023-01-22 | 2085 | 45 | 
 

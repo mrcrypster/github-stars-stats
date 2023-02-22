@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 21
 
 ☋ Forks: 5998
 
-★ Stars: 2646
+★ Stars: 2647
 
 [Open repository](https://github.com/wowchemy/starter-hugo-academic)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 2646 | 5998 | 
+| 2023-02-21 | 2647 | 5998 | 
 | 2023-02-20 | 2645 | 5998 | 
 | 2023-02-19 | 2643 | 5998 | 
 | 2023-02-18 | 2640 | 5997 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 2586 | 5958 | 
 | 2023-01-24 | 2584 | 5958 | 
 | 2023-01-23 | 2584 | 5959 | 
-| 2023-01-22 | 2580 | 5957 | 
 

@@ -1,10 +1,10 @@
 # rstudio/rmarkdown-book - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 454
+☋ Forks: 455
 
-★ Stars: 704
+★ Stars: 705
 
 [Open repository](https://github.com/rstudio/rmarkdown-book)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 705 | 455 | 
 | 2023-02-20 | 704 | 454 | 
 | 2023-02-18 | 704 | 454 | 
 | 2023-02-17 | 704 | 454 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 700 | 450 | 
 | 2023-01-24 | 700 | 450 | 
 | 2023-01-23 | 700 | 450 | 
-| 2023-01-22 | 699 | 450 | 
 

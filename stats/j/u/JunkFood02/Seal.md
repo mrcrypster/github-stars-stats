@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 21
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 2744
+★ Stars: 2747
 
 [Open repository](https://github.com/JunkFood02/Seal)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 2744 | 129 | 
+| 2023-02-21 | 2747 | 130 | 
 | 2023-02-20 | 2739 | 129 | 
 | 2023-02-19 | 2735 | 129 | 
 | 2023-02-18 | 2720 | 129 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 2420 | 119 | 
 | 2023-01-24 | 2410 | 119 | 
 | 2023-01-23 | 2407 | 119 | 
-| 2023-01-22 | 2396 | 118 | 
 

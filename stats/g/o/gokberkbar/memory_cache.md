@@ -1,10 +1,10 @@
 # gokberkbar/memory_cache - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 123
+★ Stars: 139
 
 [Open repository](https://github.com/gokberkbar/memory_cache)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 139 | - | 
 | 2023-02-20 | 123 | - | 
 | 2023-02-19 | 82 | - | 
 | 2023-02-18 | 79 | - | 

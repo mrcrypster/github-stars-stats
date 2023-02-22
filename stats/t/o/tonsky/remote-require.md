@@ -1,10 +1,10 @@
 # tonsky/remote-require - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 0
 
-★ Stars: 35
+★ Stars: 34
 
 [Open repository](https://github.com/tonsky/remote-require)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 34 | - | 
 | 2023-02-19 | 35 | - | 
 | 2023-02-18 | 35 | - | 
 | 2023-02-17 | 35 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 34 | - | 
 | 2023-01-25 | 34 | - | 
 | 2023-01-24 | 34 | - | 
-| 2023-01-23 | 34 | - | 
 

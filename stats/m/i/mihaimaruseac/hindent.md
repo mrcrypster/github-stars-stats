@@ -1,10 +1,10 @@
 # mihaimaruseac/hindent - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 114
 
-★ Stars: 537
+★ Stars: 538
 
 [Open repository](https://github.com/mihaimaruseac/hindent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 538 | 114 | 
 | 2023-02-20 | 537 | 114 | 
 | 2023-02-19 | 537 | 114 | 
 | 2023-02-18 | 537 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 539 | 114 | 
 | 2023-01-25 | 538 | 114 | 
 | 2023-01-24 | 538 | 114 | 
-| 2023-01-23 | 538 | 114 | 
 

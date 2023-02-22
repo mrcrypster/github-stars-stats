@@ -1,6 +1,6 @@
 # buggins/dlangui - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 729 | 114 | 
 | 2023-02-20 | 729 | 114 | 
 | 2023-02-19 | 729 | 114 | 
 | 2023-02-18 | 728 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 721 | 113 | 
 | 2023-01-24 | 721 | 113 | 
 | 2023-01-23 | 721 | 113 | 
-| 2023-01-22 | 720 | 113 | 
 

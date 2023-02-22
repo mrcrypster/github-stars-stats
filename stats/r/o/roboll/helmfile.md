@@ -1,6 +1,6 @@
 # roboll/helmfile - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 595
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3965 | 595 | 
 | 2023-02-20 | 3965 | 595 | 
 | 2023-02-19 | 3965 | 594 | 
 | 2023-02-18 | 3965 | 594 | 

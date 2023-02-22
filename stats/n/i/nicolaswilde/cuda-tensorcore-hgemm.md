@@ -1,6 +1,6 @@
 # nicolaswilde/cuda-tensorcore-hgemm - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 27 | 10 | 
 | 2023-02-19 | 27 | 10 | 
 | 2023-02-18 | 27 | 10 | 
 | 2023-02-17 | 27 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 21 | 9 | 
 | 2023-01-24 | 21 | 9 | 
 | 2023-01-23 | 21 | 9 | 
-| 2023-01-22 | 21 | 9 | 
 

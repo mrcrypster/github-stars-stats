@@ -1,8 +1,8 @@
 # NamelessMC/Nameless - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 303
+☋ Forks: 304
 
 ★ Stars: 534
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 534 | 304 | 
 | 2023-02-20 | 534 | 303 | 
 | 2023-02-19 | 533 | 303 | 
 | 2023-02-18 | 534 | 303 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 528 | 301 | 
 | 2023-01-24 | 528 | 301 | 
 | 2023-01-23 | 527 | 301 | 
-| 2023-01-22 | 526 | 301 | 
 

@@ -1,10 +1,10 @@
 # moshang-xc/lottery - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 424
+☋ Forks: 425
 
-★ Stars: 1883
+★ Stars: 1887
 
 [Open repository](https://github.com/moshang-xc/lottery)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1887 | 425 | 
 | 2023-02-20 | 1883 | 424 | 
 | 2023-02-19 | 1880 | 422 | 
 | 2023-02-18 | 1881 | 423 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1826 | 408 | 
 | 2023-01-24 | 1825 | 407 | 
 | 2023-01-23 | 1826 | 406 | 
-| 2023-01-22 | 1824 | 406 | 
 

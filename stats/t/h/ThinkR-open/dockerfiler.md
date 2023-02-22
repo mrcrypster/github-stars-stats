@@ -1,6 +1,6 @@
 # ThinkR-open/dockerfiler - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 145 | 20 | 
 | 2023-02-20 | 145 | 20 | 
 | 2023-02-18 | 144 | 20 | 
 | 2023-02-17 | 144 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 144 | 21 | 
 | 2023-01-24 | 144 | 21 | 
 | 2023-01-23 | 143 | 21 | 
-| 2023-01-22 | 143 | 21 | 
 

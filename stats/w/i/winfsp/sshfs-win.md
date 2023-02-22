@@ -1,10 +1,10 @@
 # winfsp/sshfs-win - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 208
 
-★ Stars: 3661
+★ Stars: 3666
 
 [Open repository](https://github.com/winfsp/sshfs-win)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3666 | 208 | 
 | 2023-02-19 | 3661 | 208 | 
 | 2023-02-18 | 3658 | 207 | 
 | 2023-02-17 | 3657 | 207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 3592 | 202 | 
 | 2023-01-24 | 3592 | 202 | 
 | 2023-01-23 | 3589 | 202 | 
-| 2023-01-22 | 3584 | 202 | 
 

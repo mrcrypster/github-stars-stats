@@ -1,6 +1,6 @@
 # replymove/gettovds - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | - | 28 | 
 | 2023-02-19 | - | 28 | 
 | 2023-02-18 | - | 27 | 
 | 2023-02-17 | - | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | - | 25 | 
 | 2023-01-25 | - | 24 | 
 | 2023-01-24 | - | 24 | 
-| 2023-01-23 | - | 24 | 
 

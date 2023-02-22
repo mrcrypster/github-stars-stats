@@ -1,10 +1,10 @@
 # javascript-tutorial/zh.javascript.info - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 991
 
-★ Stars: 7858
+★ Stars: 7865
 
 [Open repository](https://github.com/javascript-tutorial/zh.javascript.info)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 7865 | 991 | 
 | 2023-02-20 | 7858 | 991 | 
 | 2023-02-18 | 7854 | 991 | 
 | 2023-02-17 | 7852 | 991 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 7756 | 989 | 
 | 2023-01-24 | 7755 | 989 | 
 | 2023-01-23 | 7754 | 989 | 
-| 2023-01-22 | 7751 | 988 | 
 

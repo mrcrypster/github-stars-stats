@@ -1,10 +1,10 @@
 # nf-core/smrnaseq - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/nf-core/smrnaseq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 48 | 93 | 
 | 2023-02-19 | 47 | 92 | 
 | 2023-02-18 | 47 | 92 | 
 | 2023-02-17 | 47 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 46 | 91 | 
 | 2023-01-24 | 46 | 91 | 
 | 2023-01-23 | 46 | 91 | 
-| 2023-01-22 | 46 | 91 | 
 

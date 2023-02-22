@@ -1,10 +1,10 @@
 # the-little-prover/j-bob - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 59
 
-★ Stars: 401
+★ Stars: 402
 
 [Open repository](https://github.com/the-little-prover/j-bob)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 402 | 59 | 
 | 2023-02-20 | 401 | 59 | 
 | 2023-02-19 | 401 | 59 | 
 | 2023-02-18 | 401 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 401 | 59 | 
 | 2023-01-24 | 401 | 59 | 
 | 2023-01-23 | 401 | 59 | 
-| 2023-01-22 | 401 | 59 | 
 

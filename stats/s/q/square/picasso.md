@@ -1,10 +1,10 @@
 # square/picasso - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 4023
+☋ Forks: 4022
 
-★ Stars: 18470
+★ Stars: 18471
 
 [Open repository](https://github.com/square/picasso)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 18471 | 4022 | 
 | 2023-02-19 | 18470 | 4023 | 
 | 2023-02-18 | 18469 | 4023 | 
 | 2023-02-17 | 18467 | 4023 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 18451 | 4023 | 
 | 2023-01-24 | 18450 | 4024 | 
 | 2023-01-23 | 18449 | 4024 | 
-| 2023-01-22 | 18448 | 4025 | 
 

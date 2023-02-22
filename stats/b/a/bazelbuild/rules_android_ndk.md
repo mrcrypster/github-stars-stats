@@ -1,6 +1,6 @@
 # bazelbuild/rules_android_ndk - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 16 | 6 | 
 | 2023-02-19 | 16 | 6 | 
 | 2023-02-18 | 15 | 6 | 
 | 2023-02-17 | 15 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 14 | 5 | 
 | 2023-01-24 | 14 | 5 | 
 | 2023-01-23 | 14 | 5 | 
-| 2023-01-22 | 14 | 5 | 
 

@@ -1,6 +1,6 @@
 # art-w/mcset - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 31 | - | 
 | 2023-02-19 | 31 | - | 
 | 2023-02-18 | 31 | - | 
 | 2023-02-17 | 31 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 30 | - | 
 | 2023-01-25 | 30 | - | 
 | 2023-01-24 | 30 | - | 
-| 2023-01-22 | 30 | - | 
 

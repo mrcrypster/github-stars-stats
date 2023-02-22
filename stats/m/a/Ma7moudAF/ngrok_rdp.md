@@ -1,8 +1,8 @@
 # Ma7moudAF/ngrok_rdp - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 23
+☋ Forks: 26
 
 ★ Stars: 0
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | - | 26 | 
 | 2023-02-20 | - | 23 | 
 

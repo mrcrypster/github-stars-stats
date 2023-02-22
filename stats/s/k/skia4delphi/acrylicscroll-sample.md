@@ -1,10 +1,10 @@
 # skia4delphi/acrylicscroll-sample - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/skia4delphi/acrylicscroll-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 15 | 1 | 
 | 2023-02-20 | 14 | 1 | 
 | 2023-02-19 | 14 | 1 | 
 

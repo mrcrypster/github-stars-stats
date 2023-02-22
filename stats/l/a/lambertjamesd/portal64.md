@@ -1,10 +1,10 @@
 # lambertjamesd/portal64 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 1231
+★ Stars: 1233
 
 [Open repository](https://github.com/lambertjamesd/portal64)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1233 | 13 | 
 | 2023-02-20 | 1231 | 13 | 
 | 2023-02-19 | 1231 | 13 | 
 | 2023-02-18 | 1229 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1163 | 13 | 
 | 2023-01-24 | 1159 | 13 | 
 | 2023-01-23 | 1154 | 13 | 
-| 2023-01-22 | 1154 | 13 | 
 

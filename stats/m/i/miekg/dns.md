@@ -1,10 +1,10 @@
 # miekg/dns - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1049
+☋ Forks: 1051
 
-★ Stars: 6770
+★ Stars: 6771
 
 [Open repository](https://github.com/miekg/dns)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 6771 | 1051 | 
 | 2023-02-19 | 6770 | 1049 | 
 | 2023-02-18 | 6771 | 1049 | 
 | 2023-02-17 | 6769 | 1049 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 6715 | 1042 | 
 | 2023-01-24 | 6714 | 1043 | 
 | 2023-01-23 | 6711 | 1042 | 
-| 2023-01-22 | 6711 | 1042 | 
 

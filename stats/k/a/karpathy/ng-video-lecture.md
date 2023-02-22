@@ -1,10 +1,10 @@
 # karpathy/ng-video-lecture - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 251
+☋ Forks: 253
 
-★ Stars: 1307
+★ Stars: 1317
 
 [Open repository](https://github.com/karpathy/ng-video-lecture)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1317 | 253 | 
 | 2023-02-20 | 1307 | 251 | 
 | 2023-02-19 | 1298 | 245 | 
 | 2023-02-18 | 1275 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 989 | 133 | 
 | 2023-01-24 | 961 | 126 | 
 | 2023-01-23 | 917 | 116 | 
-| 2023-01-22 | 837 | 97 | 
 

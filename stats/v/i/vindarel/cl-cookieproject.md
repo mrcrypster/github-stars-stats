@@ -1,8 +1,8 @@
 # vindarel/cl-cookieproject - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 44 | 3 | 
 | 2023-02-20 | 44 | 2 | 
 | 2023-02-18 | 44 | 2 | 
 | 2023-02-17 | 44 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 43 | 2 | 
 | 2023-01-24 | 43 | 2 | 
 | 2023-01-23 | 43 | 2 | 
-| 2023-01-22 | 43 | 2 | 
 

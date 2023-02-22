@@ -1,10 +1,10 @@
 # LukeSmithxyz/voidrice - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1204
 
-★ Stars: 3907
+★ Stars: 3908
 
 [Open repository](https://github.com/LukeSmithxyz/voidrice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3908 | 1204 | 
 | 2023-02-20 | 3907 | 1204 | 
 | 2023-02-19 | 3904 | 1205 | 
 | 2023-02-18 | 3903 | 1205 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3869 | 1213 | 
 | 2023-01-24 | 3867 | 1213 | 
 | 2023-01-23 | 3865 | 1210 | 
-| 2023-01-22 | 3864 | 1208 | 
 

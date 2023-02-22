@@ -1,6 +1,6 @@
 # KlassenKonstantin/ComposePhysicsLayout - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 347 | 14 | 
 | 2023-02-19 | 347 | 14 | 
 | 2023-02-18 | 347 | 14 | 
 | 2023-02-17 | 347 | 14 | 

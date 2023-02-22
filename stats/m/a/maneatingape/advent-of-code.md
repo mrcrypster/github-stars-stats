@@ -1,6 +1,6 @@
 # maneatingape/advent-of-code - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 27 | 2 | 
 | 2023-02-20 | 27 | 2 | 
 | 2023-02-18 | 27 | 2 | 
 | 2023-02-17 | 27 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 27 | 2 | 
 | 2023-01-24 | 27 | 2 | 
 | 2023-01-23 | 27 | 2 | 
-| 2023-01-22 | 27 | 2 | 
 

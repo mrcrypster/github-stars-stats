@@ -1,10 +1,10 @@
 # axstin/rbxfpsunlocker - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 578
+☋ Forks: 580
 
-★ Stars: 1268
+★ Stars: 1271
 
 [Open repository](https://github.com/axstin/rbxfpsunlocker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1271 | 580 | 
 | 2023-02-19 | 1268 | 578 | 
 | 2023-02-18 | 1264 | 578 | 
 | 2023-02-17 | 1261 | 579 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 1240 | 570 | 
 | 2023-01-24 | 1239 | 570 | 
 | 2023-01-23 | 1239 | 569 | 
-| 2023-01-22 | 1237 | 569 | 
 

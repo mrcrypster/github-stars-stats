@@ -1,10 +1,10 @@
 # kyverno/kyverno - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 515
+☋ Forks: 517
 
-★ Stars: 3509
+★ Stars: 3514
 
 [Open repository](https://github.com/kyverno/kyverno)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3514 | 517 | 
 | 2023-02-20 | 3509 | 515 | 
 | 2023-02-19 | 3501 | 514 | 
 | 2023-02-18 | 3498 | 514 | 

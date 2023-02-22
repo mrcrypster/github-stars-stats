@@ -1,10 +1,10 @@
 # mrousavy/react-native-vision-camera - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 536
+☋ Forks: 537
 
-★ Stars: 3697
+★ Stars: 3703
 
 [Open repository](https://github.com/mrousavy/react-native-vision-camera)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3703 | 537 | 
 | 2023-02-20 | 3697 | 536 | 
 | 2023-02-19 | 3690 | 533 | 
 | 2023-02-18 | 3689 | 532 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3578 | 495 | 
 | 2023-01-24 | 3572 | 492 | 
 | 2023-01-23 | 3569 | 491 | 
-| 2023-01-22 | 3565 | 491 | 
 

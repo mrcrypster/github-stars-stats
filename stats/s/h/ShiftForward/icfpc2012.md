@@ -1,10 +1,10 @@
 # ShiftForward/icfpc2012 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 3
+★ Stars: 5
 
 [Open repository](https://github.com/ShiftForward/icfpc2012)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5 | 4 | 
 | 2023-02-19 | 3 | 4 | 
 | 2023-02-18 | 3 | 4 | 
 | 2023-02-17 | 3 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 3 | 4 | 
 | 2023-01-24 | 3 | 4 | 
 | 2023-01-23 | 3 | 4 | 
-| 2023-01-22 | 3 | 4 | 
 

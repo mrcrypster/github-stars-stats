@@ -1,10 +1,10 @@
 # gilbarbara/logos - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 699
 
-★ Stars: 5806
+★ Stars: 5808
 
 [Open repository](https://github.com/gilbarbara/logos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5808 | 699 | 
 | 2023-02-20 | 5806 | 699 | 
 | 2023-02-19 | 5806 | 699 | 
 | 2023-02-18 | 5804 | 699 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5784 | 692 | 
 | 2023-01-24 | 5783 | 692 | 
 | 2023-01-23 | 5780 | 693 | 
-| 2023-01-22 | 5778 | 693 | 
 

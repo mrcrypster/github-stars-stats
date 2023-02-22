@@ -1,10 +1,10 @@
 # ros2/eigen3_cmake_module - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/ros2/eigen3_cmake_module)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 9 | 2 | 
 | 2023-02-20 | 8 | 2 | 
 | 2023-02-19 | 8 | 2 | 
 | 2023-02-18 | 8 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 6 | 2 | 
 | 2023-01-25 | 6 | 2 | 
 | 2023-01-24 | 6 | 2 | 
-| 2023-01-23 | 6 | 2 | 
 

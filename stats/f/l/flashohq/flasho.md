@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 21
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 200
+★ Stars: 206
 
 [Open repository](https://github.com/flashohq/flasho)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 200 | 3 | 
+| 2023-02-21 | 206 | 4 | 
 | 2023-02-20 | 197 | 3 | 
 | 2023-02-19 | 171 | 3 | 
 | 2023-02-18 | 138 | 2 | 

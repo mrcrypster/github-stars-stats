@@ -1,10 +1,10 @@
 # chinarulezzz/pixload - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 227
+☋ Forks: 228
 
-★ Stars: 942
+★ Stars: 943
 
 [Open repository](https://github.com/chinarulezzz/pixload)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 943 | 228 | 
 | 2023-02-20 | 942 | 227 | 
 | 2023-02-18 | 942 | 227 | 
 | 2023-02-17 | 941 | 227 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 930 | 225 | 
 | 2023-01-24 | 930 | 225 | 
 | 2023-01-23 | 929 | 225 | 
-| 2023-01-22 | 927 | 224 | 
 

@@ -1,10 +1,10 @@
 # geerlingguy/mac-dev-playbook - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1561
+☋ Forks: 1562
 
-★ Stars: 5167
+★ Stars: 5168
 
 [Open repository](https://github.com/geerlingguy/mac-dev-playbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5168 | 1562 | 
 | 2023-02-20 | 5167 | 1561 | 
 | 2023-02-19 | 5163 | 1562 | 
 | 2023-02-18 | 5163 | 1562 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5113 | 1551 | 
 | 2023-01-24 | 5110 | 1549 | 
 | 2023-01-23 | 5109 | 1549 | 
-| 2023-01-22 | 5108 | 1548 | 
 

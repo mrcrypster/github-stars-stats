@@ -1,10 +1,10 @@
 # BinaryAnalysisPlatform/bap - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 268
 
-★ Stars: 1782
+★ Stars: 1785
 
 [Open repository](https://github.com/BinaryAnalysisPlatform/bap)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1785 | 268 | 
+| 2023-02-21 | 1785 | 268 | 
 | 2023-02-20 | 1782 | 268 | 
 | 2023-02-19 | 1782 | 268 | 
 | 2023-02-18 | 1782 | 268 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 1767 | 267 | 
 | 2023-01-24 | 1767 | 268 | 
 | 2023-01-23 | 1766 | 268 | 
-| 2023-01-22 | 1766 | 268 | 
 

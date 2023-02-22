@@ -1,8 +1,8 @@
 # cyberomanov/ironfish-mbs - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 33 | 32 | 
 | 2023-02-20 | 33 | 31 | 
 | 2023-02-18 | 33 | 31 | 
 | 2023-02-17 | 33 | 31 | 

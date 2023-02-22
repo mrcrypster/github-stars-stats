@@ -1,10 +1,10 @@
 # OccamsXor/Dragnmove - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 20
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/OccamsXor/Dragnmove)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 176 | 20 | 
 | 2023-02-20 | 175 | 20 | 
 | 2023-02-18 | 175 | 20 | 
 | 2023-02-17 | 175 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 173 | 20 | 
 | 2023-01-24 | 173 | 20 | 
 | 2023-01-23 | 173 | 20 | 
-| 2023-01-22 | 173 | 20 | 
 

@@ -1,10 +1,10 @@
 # newmarcel/KeepingYouAwake - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 210
 
-★ Stars: 4916
+★ Stars: 4920
 
 [Open repository](https://github.com/newmarcel/KeepingYouAwake)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 4920 | 210 | 
 | 2023-02-19 | 4916 | 210 | 
 | 2023-02-18 | 4915 | 210 | 
 | 2023-02-17 | 4914 | 210 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 4881 | 208 | 
 | 2023-01-24 | 4880 | 208 | 
 | 2023-01-23 | 4878 | 208 | 
-| 2023-01-22 | 4875 | 207 | 
 

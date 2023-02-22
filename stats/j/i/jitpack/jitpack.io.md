@@ -1,10 +1,10 @@
 # jitpack/jitpack.io - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 185
 
-★ Stars: 2349
+★ Stars: 2350
 
 [Open repository](https://github.com/jitpack/jitpack.io)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2350 | 185 | 
 | 2023-02-20 | 2349 | 185 | 
 | 2023-02-19 | 2348 | 185 | 
 | 2023-02-18 | 2348 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 2341 | 185 | 
 | 2023-01-24 | 2339 | 184 | 
 | 2023-01-23 | 2339 | 184 | 
-| 2023-01-22 | 2339 | 184 | 
 

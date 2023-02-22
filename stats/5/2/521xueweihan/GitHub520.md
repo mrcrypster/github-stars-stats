@@ -1,10 +1,10 @@
 # 521xueweihan/GitHub520 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1634
+☋ Forks: 1638
 
-★ Stars: 14465
+★ Stars: 14479
 
 [Open repository](https://github.com/521xueweihan/GitHub520)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 14479 | 1638 | 
 | 2023-02-20 | 14465 | 1634 | 
 | 2023-02-18 | 14458 | 1633 | 
 | 2023-02-17 | 14450 | 1632 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 14240 | 1607 | 
 | 2023-01-24 | 14231 | 1607 | 
 | 2023-01-23 | 14225 | 1609 | 
-| 2023-01-22 | 14218 | 1607 | 
 

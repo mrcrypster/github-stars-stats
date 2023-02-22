@@ -1,10 +1,10 @@
 # StrangerealIntel/EternalLiberty - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 28
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/StrangerealIntel/EternalLiberty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 144 | 28 | 
 | 2023-02-19 | 143 | 28 | 
 | 2023-02-18 | 143 | 28 | 
 | 2023-02-17 | 143 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 143 | 28 | 
 | 2023-01-24 | 143 | 28 | 
 | 2023-01-23 | 143 | 28 | 
-| 2023-01-22 | 143 | 28 | 
 

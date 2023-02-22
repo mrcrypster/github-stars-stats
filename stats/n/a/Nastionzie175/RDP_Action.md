@@ -1,8 +1,8 @@
 # Nastionzie175/RDP_Action - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 75
+☋ Forks: 77
 
 ★ Stars: 2
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2 | 77 | 
 | 2023-02-20 | 2 | 75 | 
 

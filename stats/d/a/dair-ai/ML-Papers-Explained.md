@@ -1,10 +1,10 @@
 # dair-ai/ML-Papers-Explained - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
-☋ Forks: 244
+☋ Forks: 245
 
-★ Stars: 2976
+★ Stars: 2991
 
 [Open repository](https://github.com/dair-ai/ML-Papers-Explained)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2991 | 245 | 
 | 2023-02-20 | 2976 | 244 | 
 | 2023-02-19 | 2966 | 242 | 
 | 2023-02-18 | 2955 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1766 | 139 | 
 | 2023-01-24 | 1648 | 127 | 
 | 2023-01-23 | 1621 | 126 | 
-| 2023-01-22 | 1597 | 122 | 
 

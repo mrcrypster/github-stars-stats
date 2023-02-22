@@ -1,6 +1,6 @@
 # hugo-next/hugo-theme-next - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 108 | 19 | 
 | 2023-02-19 | 108 | 19 | 
 | 2023-02-18 | 108 | 19 | 
 | 2023-02-17 | 107 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 99 | 20 | 
 | 2023-01-24 | 98 | 20 | 
 | 2023-01-23 | 97 | 20 | 
-| 2023-01-22 | 97 | 20 | 
 

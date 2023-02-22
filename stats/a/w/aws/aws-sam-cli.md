@@ -1,8 +1,8 @@
 # aws/aws-sam-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1097
+☋ Forks: 1099
 
 ★ Stars: 6220
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6220 | 1099 | 
 | 2023-02-20 | 6220 | 1097 | 
 | 2023-02-19 | 6220 | 1098 | 
 | 2023-02-18 | 6219 | 1098 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 6200 | 1092 | 
 | 2023-01-25 | 6198 | 1092 | 
 | 2023-01-24 | 6196 | 1091 | 
-| 2023-01-23 | 6195 | 1091 | 
 

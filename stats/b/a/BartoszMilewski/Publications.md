@@ -1,10 +1,10 @@
 # BartoszMilewski/Publications - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 34
 
-★ Stars: 1110
+★ Stars: 1111
 
 [Open repository](https://github.com/BartoszMilewski/Publications)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1111 | 34 | 
 | 2023-02-20 | 1110 | 34 | 
 | 2023-02-19 | 1110 | 34 | 
 | 2023-02-18 | 1110 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1100 | 34 | 
 | 2023-01-24 | 1100 | 34 | 
 | 2023-01-23 | 1100 | 34 | 
-| 2023-01-22 | 1100 | 34 | 
 

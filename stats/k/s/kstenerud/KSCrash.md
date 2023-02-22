@@ -1,6 +1,6 @@
 # kstenerud/KSCrash - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3977 | 655 | 
 | 2023-02-20 | 3977 | 655 | 
 | 2023-02-19 | 3976 | 655 | 
 | 2023-02-18 | 3975 | 655 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3958 | 651 | 
 | 2023-01-24 | 3957 | 651 | 
 | 2023-01-23 | 3957 | 651 | 
-| 2023-01-22 | 3957 | 651 | 
 

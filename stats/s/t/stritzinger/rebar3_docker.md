@@ -1,6 +1,6 @@
 # stritzinger/rebar3_docker - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 17 | - | 
 | 2023-02-20 | 17 | - | 
 | 2023-02-19 | 17 | - | 
 | 2023-02-18 | 17 | - | 

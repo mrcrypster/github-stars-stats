@@ -1,6 +1,6 @@
 # surfstudio/Surf-iOS-Developers - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 126 | 29 | 
 | 2023-02-20 | 126 | 29 | 
 | 2023-02-19 | 126 | 29 | 
 | 2023-02-18 | 126 | 29 | 

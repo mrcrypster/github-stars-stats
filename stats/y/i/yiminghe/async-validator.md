@@ -1,10 +1,10 @@
 # yiminghe/async-validator - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 735
 
-★ Stars: 8167
+★ Stars: 8168
 
 [Open repository](https://github.com/yiminghe/async-validator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 8168 | 735 | 
 | 2023-02-20 | 8167 | 735 | 
 | 2023-02-19 | 8168 | 735 | 
 | 2023-02-18 | 8168 | 735 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 8127 | 731 | 
 | 2023-01-24 | 8127 | 731 | 
 | 2023-01-23 | 8127 | 731 | 
-| 2023-01-22 | 8127 | 730 | 
 

@@ -1,10 +1,10 @@
 # puremourning/vimspector - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
-☋ Forks: 153
+☋ Forks: 154
 
-★ Stars: 3537
+★ Stars: 3540
 
 [Open repository](https://github.com/puremourning/vimspector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3540 | 154 | 
 | 2023-02-20 | 3537 | 153 | 
 | 2023-02-19 | 3538 | 153 | 
 | 2023-02-18 | 3535 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3505 | 150 | 
 | 2023-01-24 | 3501 | 150 | 
 | 2023-01-23 | 3498 | 150 | 
-| 2023-01-22 | 3499 | 150 | 
 

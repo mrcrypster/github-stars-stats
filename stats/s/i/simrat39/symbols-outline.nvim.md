@@ -1,8 +1,8 @@
 # simrat39/symbols-outline.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 1308
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1308 | 67 | 
 | 2023-02-20 | 1308 | 66 | 
 | 2023-02-19 | 1306 | 66 | 
 | 2023-02-18 | 1298 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1268 | 63 | 
 | 2023-01-24 | 1267 | 63 | 
 | 2023-01-23 | 1265 | 62 | 
-| 2023-01-22 | 1264 | 62 | 
 

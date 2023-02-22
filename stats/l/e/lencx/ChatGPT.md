@@ -1,10 +1,10 @@
 # lencx/ChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1464
+☋ Forks: 1502
 
-★ Stars: 16169
+★ Stars: 16476
 
 [Open repository](https://github.com/lencx/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 16476 | 1502 | 
 | 2023-02-20 | 16169 | 1464 | 
 | 2023-02-19 | 15874 | 1424 | 
 | 2023-02-18 | 15596 | 1394 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 6090 | 459 | 
 | 2023-01-24 | 5879 | 434 | 
 | 2023-01-23 | 5826 | 426 | 
-| 2023-01-22 | 5636 | 409 | 
 

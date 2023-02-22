@@ -1,6 +1,6 @@
 # mkpoli/word-order - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 9 | 2 | 
 | 2023-02-19 | 9 | 2 | 
 | 2023-02-18 | 9 | 2 | 
 | 2023-02-17 | 9 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 9 | 2 | 
 | 2023-01-25 | 9 | 2 | 
 | 2023-01-24 | 9 | 2 | 
-| 2023-01-23 | 9 | 2 | 
 

@@ -1,8 +1,8 @@
 # Expensify/App - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 686
+☋ Forks: 687
 
 ★ Stars: 751
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 751 | 687 | 
 | 2023-02-20 | 751 | 686 | 
 | 2023-02-19 | 750 | 686 | 
 | 2023-02-17 | 748 | 687 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 677 | 629 | 
 | 2023-01-24 | 676 | 628 | 
 | 2023-01-23 | 676 | 627 | 
-| 2023-01-22 | 674 | 627 | 
 

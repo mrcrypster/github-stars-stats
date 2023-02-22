@@ -1,6 +1,6 @@
 # co-log/co-log - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 245 | 48 | 
 | 2023-02-20 | 245 | 48 | 
 | 2023-02-19 | 245 | 48 | 
 | 2023-02-18 | 245 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 242 | 48 | 
 | 2023-01-24 | 242 | 48 | 
 | 2023-01-23 | 242 | 48 | 
-| 2023-01-22 | 241 | 48 | 
 

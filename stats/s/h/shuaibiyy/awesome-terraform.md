@@ -1,10 +1,10 @@
 # shuaibiyy/awesome-terraform - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 664
+☋ Forks: 663
 
-★ Stars: 4034
+★ Stars: 4035
 
 [Open repository](https://github.com/shuaibiyy/awesome-terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4035 | 663 | 
 | 2023-02-21 | 4034 | 664 | 
 | 2023-02-19 | 4027 | 662 | 
 | 2023-02-18 | 4026 | 661 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3950 | 644 | 
 | 2023-01-25 | 3946 | 644 | 
 | 2023-01-24 | 3941 | 642 | 
-| 2023-01-23 | 3937 | 641 | 
 

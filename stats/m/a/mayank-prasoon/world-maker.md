@@ -1,10 +1,10 @@
 # mayank-prasoon/world-maker - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 3
 
-★ Stars: 92
+★ Stars: 91
 
 [Open repository](https://github.com/mayank-prasoon/world-maker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 91 | 3 | 
 | 2023-02-19 | 92 | 3 | 
 | 2023-02-18 | 92 | 3 | 
 | 2023-02-17 | 92 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 90 | 3 | 
 | 2023-01-24 | 90 | 3 | 
 | 2023-01-23 | 90 | 3 | 
-| 2023-01-22 | 90 | 3 | 
 

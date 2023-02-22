@@ -1,10 +1,10 @@
 # google/vandalir - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/google/vandalir)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 17 | 2 | 
 | 2023-02-20 | 16 | 1 | 
 | 2023-02-18 | 16 | 1 | 
 | 2023-02-17 | 15 | 1 | 

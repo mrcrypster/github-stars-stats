@@ -1,10 +1,10 @@
 # sue445/jenkins-backup-script - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 311
 
-★ Stars: 412
+★ Stars: 413
 
 [Open repository](https://github.com/sue445/jenkins-backup-script)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 413 | 311 | 
 | 2023-02-20 | 412 | 311 | 
 | 2023-02-18 | 412 | 311 | 
 | 2023-02-17 | 412 | 311 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 411 | 301 | 
 | 2023-01-24 | 411 | 301 | 
 | 2023-01-23 | 410 | 301 | 
-| 2023-01-22 | 410 | 301 | 
 

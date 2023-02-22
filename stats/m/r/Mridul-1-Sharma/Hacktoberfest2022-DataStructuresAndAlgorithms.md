@@ -1,6 +1,6 @@
 # Mridul-1-Sharma/Hacktoberfest2022-DataStructuresAndAlgorithms - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 45 | 121 | 
 | 2023-02-19 | 45 | 121 | 
 | 2023-02-18 | 45 | 121 | 
 | 2023-02-17 | 46 | 121 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 46 | 122 | 
 | 2023-01-25 | 46 | 122 | 
 | 2023-01-24 | 46 | 122 | 
-| 2023-01-23 | 46 | 122 | 
 

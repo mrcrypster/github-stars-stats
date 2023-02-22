@@ -1,10 +1,10 @@
 # SuLingGG/OpenWrt-Rpi - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1234
 
-★ Stars: 5575
+★ Stars: 5578
 
 [Open repository](https://github.com/SuLingGG/OpenWrt-Rpi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5578 | 1234 | 
 | 2023-02-20 | 5575 | 1234 | 
 | 2023-02-19 | 5569 | 1234 | 
 | 2023-02-18 | 5558 | 1230 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5449 | 1207 | 
 | 2023-01-24 | 5443 | 1205 | 
 | 2023-01-23 | 5443 | 1205 | 
-| 2023-01-22 | 5438 | 1206 | 
 

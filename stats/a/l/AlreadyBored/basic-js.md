@@ -1,10 +1,10 @@
 # AlreadyBored/basic-js - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 7629
+☋ Forks: 7627
 
-★ Stars: 172
+★ Stars: 171
 
 [Open repository](https://github.com/AlreadyBored/basic-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 171 | 7627 | 
 | 2023-02-20 | 172 | 7629 | 
 | 2023-02-19 | 172 | 7630 | 
 | 2023-02-18 | 172 | 7633 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 173 | 7667 | 
 | 2023-01-24 | 173 | 7668 | 
 | 2023-01-23 | 173 | 7672 | 
-| 2023-01-22 | 173 | 7672 | 
 

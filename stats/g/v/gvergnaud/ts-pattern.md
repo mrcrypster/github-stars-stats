@@ -1,10 +1,10 @@
 # gvergnaud/ts-pattern - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 5788
+★ Stars: 5805
 
 [Open repository](https://github.com/gvergnaud/ts-pattern)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5805 | 62 | 
 | 2023-02-20 | 5788 | 61 | 
 | 2023-02-18 | 5781 | 60 | 
 | 2023-02-17 | 5772 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5573 | 59 | 
 | 2023-01-24 | 5563 | 59 | 
 | 2023-01-23 | 5548 | 59 | 
-| 2023-01-22 | 5535 | 59 | 
 

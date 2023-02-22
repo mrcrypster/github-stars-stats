@@ -1,10 +1,10 @@
 # simplestargame/SimpleURPToonLitOutlineExample - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 15
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/simplestargame/SimpleURPToonLitOutlineExample)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 95 | 15 | 
 | 2023-02-19 | 94 | 15 | 
 | 2023-02-18 | 94 | 15 | 
 | 2023-02-17 | 94 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 82 | 15 | 
 | 2023-01-24 | 81 | 15 | 
 | 2023-01-23 | 81 | 15 | 
-| 2023-01-22 | 81 | 15 | 
 

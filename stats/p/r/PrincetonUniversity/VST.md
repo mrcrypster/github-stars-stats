@@ -1,10 +1,10 @@
 # PrincetonUniversity/VST - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 84
 
-★ Stars: 358
+★ Stars: 361
 
 [Open repository](https://github.com/PrincetonUniversity/VST)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 361 | 84 | 
 | 2023-02-20 | 358 | 84 | 
 | 2023-02-19 | 358 | 84 | 
 | 2023-02-18 | 358 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 358 | 83 | 
 | 2023-01-24 | 358 | 83 | 
 | 2023-01-23 | 358 | 83 | 
-| 2023-01-22 | 358 | 83 | 
 

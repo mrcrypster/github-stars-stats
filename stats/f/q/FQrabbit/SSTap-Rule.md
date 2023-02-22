@@ -1,6 +1,6 @@
 # FQrabbit/SSTap-Rule - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1172
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5564 | 1172 | 
 | 2023-02-20 | 5564 | 1172 | 
 | 2023-02-19 | 5563 | 1171 | 
 | 2023-02-18 | 5558 | 1171 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5495 | 1159 | 
 | 2023-01-24 | 5494 | 1160 | 
 | 2023-01-23 | 5493 | 1160 | 
-| 2023-01-22 | 5492 | 1160 | 
 

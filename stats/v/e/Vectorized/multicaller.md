@@ -1,10 +1,10 @@
 # Vectorized/multicaller - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 120
+★ Stars: 124
 
 [Open repository](https://github.com/Vectorized/multicaller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 124 | 2 | 
 | 2023-02-20 | 120 | 2 | 
 | 2023-02-19 | 116 | 2 | 
 | 2023-02-18 | 114 | 2 | 

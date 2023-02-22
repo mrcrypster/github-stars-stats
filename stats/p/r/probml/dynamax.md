@@ -1,6 +1,6 @@
 # probml/dynamax - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 355 | 26 | 
 | 2023-02-20 | 355 | 26 | 
 | 2023-02-19 | 354 | 26 | 
 | 2023-02-17 | 353 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 338 | 25 | 
 | 2023-01-24 | 334 | 25 | 
 | 2023-01-23 | 334 | 25 | 
-| 2023-01-22 | 331 | 25 | 
 

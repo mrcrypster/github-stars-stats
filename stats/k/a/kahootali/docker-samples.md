@@ -1,6 +1,6 @@
 # kahootali/docker-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 27 | 72 | 
 | 2023-02-19 | 27 | 72 | 
 | 2023-02-18 | 27 | 72 | 
 | 2023-02-17 | 27 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 27 | 72 | 
 | 2023-01-24 | 27 | 72 | 
 | 2023-01-23 | 27 | 72 | 
-| 2023-01-22 | 27 | 72 | 
 

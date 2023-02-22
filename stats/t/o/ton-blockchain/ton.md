@@ -1,8 +1,8 @@
 # ton-blockchain/ton - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 498
+☋ Forks: 500
 
 ★ Stars: 1841
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1841 | 500 | 
 | 2023-02-20 | 1841 | 498 | 
 | 2023-02-19 | 1840 | 497 | 
 | 2023-02-18 | 1839 | 497 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1815 | 480 | 
 | 2023-01-24 | 1816 | 479 | 
 | 2023-01-23 | 1815 | 479 | 
-| 2023-01-22 | 1815 | 479 | 
 

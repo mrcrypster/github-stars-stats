@@ -1,6 +1,6 @@
 # odoo/o-spreadsheet - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 114 | 16 | 
 | 2023-02-20 | 114 | 16 | 
 | 2023-02-19 | 114 | 16 | 
 | 2023-02-17 | 114 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 111 | 15 | 
 | 2023-01-24 | 111 | 15 | 
 | 2023-01-23 | 110 | 15 | 
-| 2023-01-22 | 110 | 15 | 
 

@@ -1,6 +1,6 @@
 # jet/equinox - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 400 | 70 | 
 | 2023-02-20 | 400 | 70 | 
 | 2023-02-19 | 399 | 70 | 
 | 2023-02-17 | 399 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 396 | 68 | 
 | 2023-01-24 | 396 | 68 | 
 | 2023-01-23 | 395 | 68 | 
-| 2023-01-22 | 395 | 68 | 
 

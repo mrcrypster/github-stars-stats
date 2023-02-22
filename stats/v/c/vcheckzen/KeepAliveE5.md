@@ -1,10 +1,10 @@
 # vcheckzen/KeepAliveE5 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 255
+☋ Forks: 259
 
-★ Stars: 809
+★ Stars: 823
 
 [Open repository](https://github.com/vcheckzen/KeepAliveE5)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 823 | 259 | 
 | 2023-02-20 | 809 | 255 | 
 | 2023-02-19 | 804 | 253 | 
 | 2023-02-18 | 798 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 730 | 229 | 
 | 2023-01-24 | 728 | 229 | 
 | 2023-01-23 | 727 | 226 | 
-| 2023-01-22 | 724 | 226 | 
 

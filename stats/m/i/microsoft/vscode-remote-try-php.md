@@ -1,10 +1,10 @@
 # microsoft/vscode-remote-try-php - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 132
+☋ Forks: 134
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/microsoft/vscode-remote-try-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 150 | 134 | 
 | 2023-02-19 | 149 | 132 | 
 | 2023-02-18 | 149 | 132 | 
 | 2023-02-17 | 149 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 149 | 128 | 
 | 2023-01-24 | 149 | 128 | 
 | 2023-01-23 | 148 | 128 | 
-| 2023-01-22 | 148 | 128 | 
 

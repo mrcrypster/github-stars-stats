@@ -1,10 +1,10 @@
 # Jguer/yay - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 310
 
-★ Stars: 8837
+★ Stars: 8845
 
 [Open repository](https://github.com/Jguer/yay)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 8845 | 310 | 
 | 2023-02-20 | 8837 | 310 | 
 | 2023-02-19 | 8833 | 310 | 
 | 2023-02-17 | 8828 | 310 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 8723 | 308 | 
 | 2023-01-24 | 8720 | 309 | 
 | 2023-01-23 | 8718 | 309 | 
-| 2023-01-22 | 8716 | 309 | 
 

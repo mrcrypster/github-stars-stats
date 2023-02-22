@@ -1,10 +1,10 @@
 # justcallmekoko/ESP32Marauder - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 1700
+★ Stars: 1705
 
 [Open repository](https://github.com/justcallmekoko/ESP32Marauder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1705 | 193 | 
 | 2023-02-20 | 1700 | 192 | 
 | 2023-02-18 | 1696 | 191 | 
 | 2023-02-17 | 1695 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1553 | 176 | 
 | 2023-01-24 | 1551 | 174 | 
 | 2023-01-23 | 1540 | 174 | 
-| 2023-01-22 | 1535 | 174 | 
 

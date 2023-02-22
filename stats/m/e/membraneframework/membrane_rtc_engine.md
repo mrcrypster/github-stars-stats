@@ -1,6 +1,6 @@
 # membraneframework/membrane_rtc_engine - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 80 | 7 | 
 | 2023-02-20 | 80 | 7 | 
 | 2023-02-18 | 80 | 7 | 
 | 2023-02-17 | 79 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 74 | 5 | 
 | 2023-01-24 | 74 | 5 | 
 | 2023-01-23 | 74 | 5 | 
-| 2023-01-22 | 72 | 5 | 
 

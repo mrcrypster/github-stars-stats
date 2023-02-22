@@ -1,10 +1,10 @@
 # ethereum/ethereum-org-website - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 3786
+☋ Forks: 3790
 
-★ Stars: 3817
+★ Stars: 3819
 
 [Open repository](https://github.com/ethereum/ethereum-org-website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3819 | 3790 | 
 | 2023-02-20 | 3817 | 3786 | 
 | 2023-02-19 | 3812 | 3783 | 
 | 2023-02-18 | 3811 | 3780 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3740 | 3637 | 
 | 2023-01-24 | 3738 | 3633 | 
 | 2023-01-23 | 3736 | 3628 | 
-| 2023-01-22 | 3732 | 3625 | 
 

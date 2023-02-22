@@ -1,6 +1,6 @@
 # rahulmalhotra/salesforce-git-codelab - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2 | 181 | 
 | 2023-02-20 | 2 | 181 | 
 | 2023-02-19 | 2 | 181 | 
 | 2023-02-18 | 2 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1 | 178 | 
 | 2023-01-24 | 1 | 177 | 
 | 2023-01-23 | 1 | 177 | 
-| 2023-01-22 | 1 | 177 | 
 

@@ -1,10 +1,10 @@
 # joe-bell/loading-disco - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 3
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/joe-bell/loading-disco)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 181 | 3 | 
 | 2023-02-20 | 180 | 3 | 
 | 2023-02-19 | 180 | 3 | 
 | 2023-02-18 | 180 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 175 | 3 | 
 | 2023-01-24 | 175 | 3 | 
 | 2023-01-23 | 174 | 3 | 
-| 2023-01-22 | 173 | 3 | 
 

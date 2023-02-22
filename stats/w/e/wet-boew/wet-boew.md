@@ -1,10 +1,10 @@
 # wet-boew/wet-boew - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 675
 
-★ Stars: 1498
+★ Stars: 1499
 
 [Open repository](https://github.com/wet-boew/wet-boew)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1499 | 675 | 
 | 2023-02-20 | 1498 | 675 | 
 | 2023-02-19 | 1498 | 675 | 
 | 2023-02-18 | 1497 | 675 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1496 | 672 | 
 | 2023-01-24 | 1496 | 672 | 
 | 2023-01-23 | 1496 | 672 | 
-| 2023-01-22 | 1496 | 672 | 
 

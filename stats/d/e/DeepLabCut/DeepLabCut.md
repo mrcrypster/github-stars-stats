@@ -1,10 +1,10 @@
 # DeepLabCut/DeepLabCut - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1486
+☋ Forks: 1488
 
-★ Stars: 3523
+★ Stars: 3524
 
 [Open repository](https://github.com/DeepLabCut/DeepLabCut)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3524 | 1488 | 
 | 2023-02-20 | 3523 | 1486 | 
 | 2023-02-19 | 3522 | 1486 | 
 | 2023-02-18 | 3518 | 1486 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 3476 | 1474 | 
 | 2023-01-25 | 3475 | 1474 | 
 | 2023-01-24 | 3472 | 1473 | 
-| 2023-01-23 | 3469 | 1472 | 
 

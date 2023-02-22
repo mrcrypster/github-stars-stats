@@ -1,6 +1,6 @@
 # onbjerg/forge-coverage-test - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 35 | 2 | 
 | 2023-02-19 | 35 | 2 | 
 | 2023-02-18 | 35 | 2 | 
 | 2023-02-17 | 35 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 33 | 2 | 
 | 2023-01-24 | 33 | 2 | 
 | 2023-01-23 | 33 | 2 | 
-| 2023-01-22 | 33 | 2 | 
 

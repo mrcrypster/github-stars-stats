@@ -1,10 +1,10 @@
 # randybeard/uavbook - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/randybeard/uavbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 151 | 66 | 
 | 2023-02-20 | 150 | 65 | 
 | 2023-02-19 | 149 | 64 | 
 | 2023-02-18 | 147 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 131 | 56 | 
 | 2023-01-24 | 130 | 55 | 
 | 2023-01-23 | 130 | 54 | 
-| 2023-01-22 | 129 | 54 | 
 

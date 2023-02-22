@@ -1,8 +1,8 @@
 # PixelExperience/system_sepolicy - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 6 | 26 | 
 | 2023-02-20 | 6 | 25 | 
 | 2023-02-18 | 6 | 27 | 
 | 2023-02-17 | 6 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 6 | 26 | 
 | 2023-01-24 | 6 | 26 | 
 | 2023-01-23 | 6 | 26 | 
-| 2023-01-22 | 6 | 26 | 
 

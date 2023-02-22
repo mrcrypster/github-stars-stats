@@ -1,10 +1,10 @@
 # GTcreyon/SM63Redux - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 11
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/GTcreyon/SM63Redux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 78 | 11 | 
 | 2023-02-20 | 77 | 11 | 
 | 2023-02-18 | 75 | 11 | 
 | 2023-02-17 | 75 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 66 | 9 | 
 | 2023-01-24 | 64 | 9 | 
 | 2023-01-23 | 64 | 9 | 
-| 2023-01-22 | 64 | 9 | 
 

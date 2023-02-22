@@ -1,10 +1,10 @@
 # saboyle/latex-template-whitepaper-basic - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/saboyle/latex-template-whitepaper-basic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 20 | 4 | 
 | 2023-02-20 | 19 | 4 | 
 | 2023-02-19 | 19 | 4 | 
 | 2023-02-18 | 19 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 19 | 4 | 
 | 2023-01-24 | 19 | 4 | 
 | 2023-01-23 | 19 | 4 | 
-| 2023-01-22 | 19 | 4 | 
 

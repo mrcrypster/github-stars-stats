@@ -1,6 +1,6 @@
 # clojure/tools.build - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 160 | 20 | 
 | 2023-02-20 | 160 | 20 | 
 | 2023-02-19 | 160 | 20 | 
 | 2023-02-18 | 160 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 157 | 20 | 
 | 2023-01-24 | 157 | 20 | 
 | 2023-01-23 | 154 | 20 | 
-| 2023-01-22 | 154 | 20 | 
 

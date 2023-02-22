@@ -1,10 +1,10 @@
 # dotnet/csharplang - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 976
 
-★ Stars: 9645
+★ Stars: 9649
 
 [Open repository](https://github.com/dotnet/csharplang)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 9649 | 976 | 
 | 2023-02-19 | 9645 | 976 | 
 | 2023-02-18 | 9640 | 976 | 
 | 2023-02-17 | 9639 | 977 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 9553 | 970 | 
 | 2023-01-24 | 9551 | 970 | 
 | 2023-01-23 | 9545 | 970 | 
-| 2023-01-22 | 9544 | 970 | 
 

@@ -1,8 +1,8 @@
 # LandmakTechnology/terraform-series - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1355
+☋ Forks: 1357
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5 | 1357 | 
 | 2023-02-19 | 5 | 1355 | 
 | 2023-02-18 | 4 | 1354 | 
 | 2023-02-17 | 4 | 1351 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 5 | 1299 | 
 | 2023-01-24 | 5 | 1293 | 
 | 2023-01-23 | 5 | 1287 | 
-| 2023-01-22 | 4 | 1285 | 
 

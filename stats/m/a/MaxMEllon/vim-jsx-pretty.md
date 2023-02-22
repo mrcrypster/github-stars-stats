@@ -1,6 +1,6 @@
 # MaxMEllon/vim-jsx-pretty - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 922 | 38 | 
 | 2023-02-19 | 922 | 38 | 
 | 2023-02-18 | 922 | 38 | 
 | 2023-02-17 | 922 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 923 | 38 | 
 | 2023-01-24 | 923 | 38 | 
 | 2023-01-23 | 922 | 38 | 
-| 2023-01-22 | 922 | 38 | 
 

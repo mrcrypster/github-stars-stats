@@ -1,10 +1,10 @@
 # fanmingming/live - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 117
+☋ Forks: 124
 
-★ Stars: 1122
+★ Stars: 1137
 
 [Open repository](https://github.com/fanmingming/live)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1137 | 124 | 
 | 2023-02-20 | 1122 | 117 | 
 | 2023-02-19 | 1117 | 117 | 
 | 2023-02-18 | 1101 | 108 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 488 | 37 | 
 | 2023-01-24 | 480 | 37 | 
 | 2023-01-23 | 460 | 36 | 
-| 2023-01-22 | 415 | 36 | 
 

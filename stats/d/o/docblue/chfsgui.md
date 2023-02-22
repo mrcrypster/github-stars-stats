@@ -1,8 +1,8 @@
 # docblue/chfsgui - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 105
+☋ Forks: 106
 
 ★ Stars: 544
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 544 | 106 | 
 | 2023-02-20 | 544 | 105 | 
 | 2023-02-19 | 543 | 105 | 
 | 2023-02-18 | 542 | 105 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 530 | 103 | 
 | 2023-01-24 | 530 | 101 | 
 | 2023-01-23 | 530 | 101 | 
-| 2023-01-22 | 530 | 102 | 
 

@@ -1,10 +1,10 @@
 # FalsePhilosopher/BadUSB-Playground - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/FalsePhilosopher/BadUSB-Playground)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 114 | 15 | 
 | 2023-02-19 | 113 | 14 | 
 | 2023-02-18 | 113 | 14 | 
 | 2023-02-17 | 113 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 85 | 12 | 
 | 2023-01-25 | 85 | 12 | 
 | 2023-01-24 | 84 | 12 | 
-| 2023-01-23 | 84 | 12 | 
 

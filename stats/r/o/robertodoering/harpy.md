@@ -1,10 +1,10 @@
 # robertodoering/harpy - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 185
 
-★ Stars: 1861
+★ Stars: 1862
 
 [Open repository](https://github.com/robertodoering/harpy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1862 | 185 | 
 | 2023-02-20 | 1861 | 185 | 
 | 2023-02-19 | 1861 | 185 | 
 | 2023-02-18 | 1861 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1837 | 176 | 
 | 2023-01-24 | 1835 | 176 | 
 | 2023-01-23 | 1834 | 176 | 
-| 2023-01-22 | 1830 | 176 | 
 

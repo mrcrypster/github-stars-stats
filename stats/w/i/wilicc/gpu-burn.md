@@ -1,6 +1,6 @@
 # wilicc/gpu-burn - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 726 | 185 | 
 | 2023-02-20 | 726 | 185 | 
 | 2023-02-19 | 726 | 185 | 
 | 2023-02-18 | 725 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 717 | 180 | 
 | 2023-01-24 | 715 | 180 | 
 | 2023-01-23 | 713 | 180 | 
-| 2023-01-22 | 712 | 180 | 
 

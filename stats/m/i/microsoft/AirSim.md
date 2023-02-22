@@ -1,10 +1,10 @@
 # microsoft/AirSim - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 4018
 
-★ Stars: 13956
+★ Stars: 13963
 
 [Open repository](https://github.com/microsoft/AirSim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 13963 | 4018 | 
 | 2023-02-20 | 13956 | 4018 | 
 | 2023-02-18 | 13952 | 4016 | 
 | 2023-02-17 | 13952 | 4015 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 13870 | 3981 | 
 | 2023-01-24 | 13868 | 3979 | 
 | 2023-01-23 | 13867 | 3977 | 
-| 2023-01-22 | 13863 | 3975 | 
 

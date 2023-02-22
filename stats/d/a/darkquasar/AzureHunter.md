@@ -1,6 +1,6 @@
 # darkquasar/AzureHunter - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 657 | 75 | 
 | 2023-02-20 | 657 | 75 | 
 | 2023-02-19 | 656 | 75 | 
 | 2023-02-18 | 656 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 652 | 76 | 
 | 2023-01-24 | 651 | 76 | 
 | 2023-01-23 | 651 | 76 | 
-| 2023-01-22 | 651 | 76 | 
 

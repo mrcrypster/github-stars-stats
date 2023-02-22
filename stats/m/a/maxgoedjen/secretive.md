@@ -1,10 +1,10 @@
 # maxgoedjen/secretive - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 106
 
-★ Stars: 5091
+★ Stars: 5095
 
 [Open repository](https://github.com/maxgoedjen/secretive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5095 | 106 | 
 | 2023-02-19 | 5091 | 106 | 
 | 2023-02-18 | 5089 | 106 | 
 | 2023-02-17 | 5088 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 4999 | 104 | 
 | 2023-01-24 | 4996 | 104 | 
 | 2023-01-23 | 4992 | 104 | 
-| 2023-01-22 | 4991 | 104 | 
 

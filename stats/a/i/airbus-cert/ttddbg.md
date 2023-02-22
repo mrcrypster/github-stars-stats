@@ -1,6 +1,6 @@
 # airbus-cert/ttddbg - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 451 | 30 | 
 | 2023-02-19 | 451 | 30 | 
 | 2023-02-18 | 451 | 30 | 
 | 2023-02-17 | 451 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 445 | 29 | 
 | 2023-01-24 | 445 | 29 | 
 | 2023-01-23 | 445 | 29 | 
-| 2023-01-22 | 445 | 29 | 
 

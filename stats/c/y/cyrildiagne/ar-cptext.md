@@ -1,10 +1,10 @@
 # cyrildiagne/ar-cptext - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 181
 
-★ Stars: 719
+★ Stars: 718
 
 [Open repository](https://github.com/cyrildiagne/ar-cptext)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 718 | 181 | 
 | 2023-02-20 | 719 | 181 | 
 | 2023-02-18 | 719 | 181 | 
 | 2023-02-17 | 719 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 718 | 181 | 
 | 2023-01-24 | 717 | 181 | 
 | 2023-01-23 | 717 | 182 | 
-| 2023-01-22 | 716 | 182 | 
 

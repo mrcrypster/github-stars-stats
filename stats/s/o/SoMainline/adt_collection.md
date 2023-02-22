@@ -1,8 +1,8 @@
 # SoMainline/adt_collection - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 58 | 19 | 
 | 2023-02-19 | 58 | 18 | 
 | 2023-02-18 | 57 | 18 | 
 | 2023-02-17 | 57 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 56 | 18 | 
 | 2023-01-24 | 56 | 18 | 
 | 2023-01-23 | 56 | 18 | 
-| 2023-01-22 | 56 | 18 | 
 

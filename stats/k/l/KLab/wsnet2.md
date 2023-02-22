@@ -1,6 +1,6 @@
 # KLab/wsnet2 - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 91 | 11 | 
 | 2023-02-19 | 91 | 11 | 
 | 2023-02-18 | 91 | 11 | 
 | 2023-02-17 | 91 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 90 | 11 | 
 | 2023-01-25 | 89 | 11 | 
 | 2023-01-23 | 89 | 10 | 
-| 2023-01-22 | 89 | 10 | 
 

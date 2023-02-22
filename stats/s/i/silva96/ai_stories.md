@@ -1,10 +1,10 @@
 # silva96/ai_stories - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 14
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/silva96/ai_stories)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 47 | 14 | 
 | 2023-02-20 | 45 | 14 | 
 | 2023-02-19 | 42 | 14 | 
 | 2023-02-18 | 42 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 41 | 14 | 
 | 2023-01-24 | 39 | 14 | 
 | 2023-01-23 | 38 | 14 | 
-| 2023-01-22 | 38 | 14 | 
 

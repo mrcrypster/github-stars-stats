@@ -1,6 +1,6 @@
 # contino/docker-terraform - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 20 | 19 | 
 | 2023-02-19 | 20 | 19 | 
 | 2023-02-18 | 20 | 19 | 
 | 2023-02-17 | 20 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 20 | 19 | 
 | 2023-01-24 | 20 | 19 | 
 | 2023-01-23 | 20 | 19 | 
-| 2023-01-22 | 20 | 19 | 
 

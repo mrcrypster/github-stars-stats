@@ -1,8 +1,8 @@
 # CedricGuillemet/ImGuizmo - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 604
+☋ Forks: 605
 
 ★ Stars: 2332
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2332 | 605 | 
 | 2023-02-19 | 2332 | 604 | 
 | 2023-02-18 | 2331 | 604 | 
 | 2023-02-17 | 2328 | 604 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 2302 | 599 | 
 | 2023-01-24 | 2299 | 598 | 
 | 2023-01-23 | 2296 | 596 | 
-| 2023-01-22 | 2295 | 596 | 
 

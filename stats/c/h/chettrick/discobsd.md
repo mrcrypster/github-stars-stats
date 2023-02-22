@@ -1,8 +1,8 @@
 # chettrick/discobsd - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 129
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 129 | 7 | 
 | 2023-02-20 | 129 | 6 | 
 | 2023-02-19 | 129 | 6 | 
 | 2023-02-18 | 129 | 6 | 

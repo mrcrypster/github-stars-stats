@@ -1,6 +1,6 @@
 # mandiant/Ghidrathon - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 449 | 26 | 
 | 2023-02-20 | 449 | 26 | 
 | 2023-02-19 | 447 | 26 | 
 | 2023-02-17 | 447 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 440 | 24 | 
 | 2023-01-24 | 440 | 24 | 
 | 2023-01-23 | 439 | 24 | 
-| 2023-01-22 | 438 | 24 | 
 

@@ -1,6 +1,6 @@
 # PowerShell/PowerShell-Docker - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 327 | 141 | 
 | 2023-02-20 | 327 | 141 | 
 | 2023-02-19 | 326 | 141 | 
 | 2023-02-18 | 326 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 321 | 142 | 
 | 2023-01-24 | 321 | 142 | 
 | 2023-01-23 | 321 | 142 | 
-| 2023-01-22 | 321 | 142 | 
 

@@ -1,6 +1,6 @@
 # lidangzzz/how-to-run-Q-and-A - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 287 | 14 | 
 | 2023-02-20 | 287 | 14 | 
 | 2023-02-19 | 284 | 14 | 
 | 2023-02-18 | 283 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 268 | 14 | 
 | 2023-01-24 | 269 | 14 | 
 | 2023-01-23 | 269 | 14 | 
-| 2023-01-22 | 268 | 14 | 
 

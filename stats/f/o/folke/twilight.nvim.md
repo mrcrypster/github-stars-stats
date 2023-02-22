@@ -1,10 +1,10 @@
 # folke/twilight.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 13
 
-★ Stars: 753
+★ Stars: 755
 
 [Open repository](https://github.com/folke/twilight.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 755 | 13 | 
 | 2023-02-20 | 753 | 13 | 
 | 2023-02-19 | 752 | 13 | 
 | 2023-02-17 | 751 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 730 | 13 | 
 | 2023-01-24 | 730 | 13 | 
 | 2023-01-23 | 729 | 13 | 
-| 2023-01-22 | 729 | 13 | 
 

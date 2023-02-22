@@ -1,10 +1,10 @@
 # ONLYOFFICE/DocumentServer - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 871
 
-★ Stars: 3137
+★ Stars: 3142
 
 [Open repository](https://github.com/ONLYOFFICE/DocumentServer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3142 | 871 | 
 | 2023-02-20 | 3137 | 871 | 
 | 2023-02-19 | 3135 | 870 | 
 | 2023-02-18 | 3132 | 869 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3044 | 853 | 
 | 2023-01-24 | 3039 | 853 | 
 | 2023-01-23 | 3039 | 852 | 
-| 2023-01-22 | 3038 | 852 | 
 

@@ -1,10 +1,10 @@
 # xournalpp/xournalpp - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 672
+☋ Forks: 673
 
-★ Stars: 8092
+★ Stars: 8096
 
 [Open repository](https://github.com/xournalpp/xournalpp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 8096 | 673 | 
 | 2023-02-20 | 8092 | 672 | 
 | 2023-02-19 | 8087 | 672 | 
 | 2023-02-18 | 8086 | 672 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 7979 | 663 | 
 | 2023-01-25 | 7971 | 663 | 
 | 2023-01-24 | 7966 | 662 | 
-| 2023-01-23 | 7956 | 662 | 
 

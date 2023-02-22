@@ -1,10 +1,10 @@
 # vercel/app-playground - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 200
 
-★ Stars: 914
+★ Stars: 920
 
 [Open repository](https://github.com/vercel/app-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 920 | 200 | 
 | 2023-02-19 | 914 | 200 | 
 | 2023-02-18 | 911 | 198 | 
 | 2023-02-17 | 909 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 772 | 178 | 
 | 2023-01-24 | 770 | 177 | 
 | 2023-01-23 | 766 | 178 | 
-| 2023-01-22 | 760 | 177 | 
 

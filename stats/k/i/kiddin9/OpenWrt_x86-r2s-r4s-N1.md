@@ -1,10 +1,10 @@
 # kiddin9/OpenWrt_x86-r2s-r4s-N1 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1849
+☋ Forks: 1850
 
-★ Stars: 4553
+★ Stars: 4571
 
 [Open repository](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-N1)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 4571 | 1850 | 
 | 2023-02-20 | 4553 | 1849 | 
 | 2023-02-19 | 4547 | 1848 | 
 | 2023-02-18 | 4537 | 1845 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 4358 | 1762 | 
 | 2023-01-24 | 4352 | 1761 | 
 | 2023-01-23 | 4348 | 1761 | 
-| 2023-01-22 | 4345 | 1761 | 
 

@@ -1,10 +1,10 @@
 # zk-email-verify/zk-email-verify - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 8
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/zk-email-verify/zk-email-verify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 54 | 8 | 
 | 2023-02-20 | 53 | 8 | 
 | 2023-02-19 | 53 | 7 | 
 | 2023-02-18 | 52 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 42 | 3 | 
 | 2023-01-24 | 42 | 3 | 
 | 2023-01-23 | 42 | 3 | 
-| 2023-01-22 | 42 | 3 | 
 

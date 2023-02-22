@@ -1,10 +1,10 @@
 # elliotchance/pie - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 63
 
-★ Stars: 1298
+★ Stars: 1300
 
 [Open repository](https://github.com/elliotchance/pie)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1300 | 63 | 
 | 2023-02-20 | 1298 | 63 | 
 | 2023-02-19 | 1296 | 63 | 
 | 2023-02-18 | 1297 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1266 | 61 | 
 | 2023-01-24 | 1263 | 61 | 
 | 2023-01-23 | 1261 | 62 | 
-| 2023-01-22 | 1261 | 62 | 
 

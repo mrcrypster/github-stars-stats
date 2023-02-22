@@ -1,8 +1,8 @@
 # arch-linux-gui/arch-linux-gui-zen - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 15 | 7 | 
 | 2023-02-20 | 15 | 6 | 
 | 2023-02-19 | 15 | 6 | 
 | 2023-02-17 | 15 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 16 | 6 | 
 | 2023-01-24 | 16 | 6 | 
 | 2023-01-23 | 15 | 5 | 
-| 2023-01-22 | 15 | 5 | 
 

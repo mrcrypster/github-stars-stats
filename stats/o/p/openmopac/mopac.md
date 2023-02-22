@@ -1,6 +1,6 @@
 # openmopac/mopac - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 69 | 19 | 
 | 2023-02-19 | 69 | 19 | 
 | 2023-02-18 | 69 | 19 | 
 | 2023-02-17 | 69 | 19 | 

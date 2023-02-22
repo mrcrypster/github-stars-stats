@@ -1,10 +1,10 @@
 # LAION-AI/Open-Assistant - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1213
+☋ Forks: 1237
 
-★ Stars: 16402
+★ Stars: 16606
 
 [Open repository](https://github.com/LAION-AI/Open-Assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 16606 | 1237 | 
 | 2023-02-20 | 16402 | 1213 | 
 | 2023-02-19 | 16261 | 1197 | 
 | 2023-02-18 | 16119 | 1185 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 4785 | 418 | 
 | 2023-01-24 | 4712 | 408 | 
 | 2023-01-23 | 4670 | 404 | 
-| 2023-01-22 | 4628 | 400 | 
 

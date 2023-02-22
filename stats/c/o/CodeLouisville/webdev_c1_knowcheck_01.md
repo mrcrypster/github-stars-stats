@@ -1,6 +1,6 @@
 # CodeLouisville/webdev_c1_knowcheck_01 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2 | 25 | 
 | 2023-02-20 | 2 | 25 | 
 | 2023-02-19 | 2 | 25 | 
 | 2023-02-18 | 2 | 25 | 

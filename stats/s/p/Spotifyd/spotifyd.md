@@ -1,10 +1,10 @@
 # Spotifyd/spotifyd - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 406
 
-★ Stars: 8638
+★ Stars: 8642
 
 [Open repository](https://github.com/Spotifyd/spotifyd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 8642 | 406 | 
 | 2023-02-19 | 8638 | 406 | 
 | 2023-02-18 | 8637 | 406 | 
 | 2023-02-17 | 8632 | 406 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 8571 | 408 | 
 | 2023-01-24 | 8568 | 408 | 
 | 2023-01-23 | 8568 | 407 | 
-| 2023-01-22 | 8567 | 408 | 
 

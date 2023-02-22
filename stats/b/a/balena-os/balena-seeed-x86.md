@@ -1,10 +1,10 @@
 # balena-os/balena-seeed-x86 - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/balena-os/balena-seeed-x86)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 4 | 2 | 
 | 2023-02-20 | 3 | 2 | 
 | 2023-02-19 | 3 | 2 | 
 | 2023-02-18 | 3 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 4 | 2 | 
 | 2023-01-25 | 4 | 2 | 
 | 2023-01-24 | 4 | 2 | 
-| 2023-01-22 | 4 | 2 | 
 

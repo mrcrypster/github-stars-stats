@@ -1,10 +1,10 @@
 # louthy/language-ext - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 375
+☋ Forks: 376
 
-★ Stars: 5302
+★ Stars: 5306
 
 [Open repository](https://github.com/louthy/language-ext)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5306 | 376 | 
 | 2023-02-20 | 5302 | 375 | 
 | 2023-02-19 | 5301 | 375 | 
 | 2023-02-18 | 5294 | 375 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 5231 | 372 | 
 | 2023-01-24 | 5229 | 372 | 
 | 2023-01-23 | 5229 | 372 | 
-| 2023-01-22 | 5226 | 372 | 
 

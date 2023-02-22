@@ -1,6 +1,6 @@
 # starkoora/wanted-pre-onboarding-challenge-fe-1-api - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 121 | 328 | 
 | 2023-02-20 | 121 | 328 | 
 | 2023-02-19 | 121 | 328 | 
 | 2023-02-18 | 121 | 328 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 121 | 338 | 
 | 2023-01-25 | 121 | 336 | 
 | 2023-01-24 | 121 | 337 | 
-| 2023-01-23 | 121 | 337 | 
 

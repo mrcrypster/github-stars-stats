@@ -1,8 +1,8 @@
 # 4ndersonLin/awesome-cloud-security - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 237
+☋ Forks: 238
 
 ★ Stars: 1517
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1517 | 238 | 
 | 2023-02-20 | 1517 | 237 | 
 | 2023-02-19 | 1515 | 237 | 
 | 2023-02-18 | 1514 | 237 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1473 | 234 | 
 | 2023-01-24 | 1472 | 234 | 
 | 2023-01-23 | 1468 | 234 | 
-| 2023-01-22 | 1467 | 234 | 
 

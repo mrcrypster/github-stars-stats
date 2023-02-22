@@ -1,10 +1,10 @@
 # wcb1969/iptv - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 247
+☋ Forks: 249
 
-★ Stars: 394
+★ Stars: 396
 
 [Open repository](https://github.com/wcb1969/iptv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 396 | 249 | 
 | 2023-02-20 | 394 | 247 | 
 | 2023-02-18 | 394 | 247 | 
 | 2023-02-17 | 392 | 244 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 360 | 230 | 
 | 2023-01-24 | 358 | 228 | 
 | 2023-01-23 | 358 | 227 | 
-| 2023-01-22 | 359 | 226 | 
 

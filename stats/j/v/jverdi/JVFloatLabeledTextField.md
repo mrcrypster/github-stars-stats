@@ -1,10 +1,10 @@
 # jverdi/JVFloatLabeledTextField - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 749
 
-★ Stars: 7174
+★ Stars: 7173
 
 [Open repository](https://github.com/jverdi/JVFloatLabeledTextField)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7173 | 749 | 
 | 2023-02-20 | 7174 | 749 | 
 | 2023-02-19 | 7174 | 749 | 
 | 2023-02-18 | 7174 | 749 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 7166 | 750 | 
 | 2023-01-25 | 7166 | 750 | 
 | 2023-01-24 | 7166 | 750 | 
-| 2023-01-23 | 7166 | 750 | 
 

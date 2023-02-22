@@ -1,10 +1,10 @@
 # PAIR-code/facets - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 906
 
-★ Stars: 7078
+★ Stars: 7077
 
 [Open repository](https://github.com/PAIR-code/facets)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 7077 | 906 | 
 | 2023-02-20 | 7078 | 906 | 
 | 2023-02-19 | 7078 | 906 | 
 | 2023-02-17 | 7078 | 905 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 7066 | 904 | 
 | 2023-01-24 | 7066 | 904 | 
 | 2023-01-23 | 7065 | 904 | 
-| 2023-01-22 | 7065 | 904 | 
 

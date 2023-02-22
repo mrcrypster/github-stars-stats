@@ -1,8 +1,8 @@
 # jlord/hello - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
-☋ Forks: 787
+☋ Forks: 786
 
 ★ Stars: 124
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 124 | 786 | 
 | 2023-02-20 | 124 | 787 | 
 | 2023-02-19 | 124 | 787 | 
 | 2023-02-18 | 124 | 786 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 124 | 785 | 
 | 2023-01-25 | 124 | 785 | 
 | 2023-01-24 | 124 | 785 | 
-| 2023-01-23 | 124 | 785 | 
 

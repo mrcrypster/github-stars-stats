@@ -1,8 +1,8 @@
 # udacity/DevOps_Microservices - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 1279
+☋ Forks: 1282
 
 ★ Stars: 178
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 178 | 1282 | 
 | 2023-02-19 | 178 | 1279 | 
 | 2023-02-18 | 178 | 1273 | 
 | 2023-02-17 | 178 | 1270 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 175 | 1189 | 
 | 2023-01-24 | 175 | 1187 | 
 | 2023-01-23 | 175 | 1183 | 
-| 2023-01-22 | 175 | 1181 | 
 

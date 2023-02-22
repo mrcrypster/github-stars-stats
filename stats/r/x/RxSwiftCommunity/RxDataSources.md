@@ -1,10 +1,10 @@
 # RxSwiftCommunity/RxDataSources - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 487
 
-★ Stars: 2986
+★ Stars: 2987
 
 [Open repository](https://github.com/RxSwiftCommunity/RxDataSources)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2987 | 487 | 
 | 2023-02-20 | 2986 | 487 | 
 | 2023-02-18 | 2986 | 487 | 
 | 2023-02-17 | 2986 | 487 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 2984 | 487 | 
 | 2023-01-24 | 2983 | 488 | 
 | 2023-01-23 | 2982 | 489 | 
-| 2023-01-22 | 2982 | 489 | 
 

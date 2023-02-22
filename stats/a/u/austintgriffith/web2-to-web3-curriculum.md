@@ -1,8 +1,8 @@
 # austintgriffith/web2-to-web3-curriculum - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 239
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 239 | 26 | 
 | 2023-02-19 | 239 | 25 | 
 | 2023-02-18 | 239 | 25 | 
 | 2023-02-17 | 239 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 230 | 25 | 
 | 2023-01-24 | 230 | 24 | 
 | 2023-01-23 | 229 | 24 | 
-| 2023-01-22 | 229 | 24 | 
 

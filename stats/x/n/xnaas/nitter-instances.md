@@ -1,10 +1,10 @@
 # xnaas/nitter-instances - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 19
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/xnaas/nitter-instances)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 153 | 19 | 
 | 2023-02-20 | 152 | 19 | 
 | 2023-02-19 | 149 | 18 | 
 | 2023-02-18 | 148 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 131 | 16 | 
 | 2023-01-24 | 130 | 16 | 
 | 2023-01-23 | 130 | 16 | 
-| 2023-01-22 | 129 | 16 | 
 

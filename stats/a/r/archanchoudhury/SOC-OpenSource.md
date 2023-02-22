@@ -1,10 +1,10 @@
 # archanchoudhury/SOC-OpenSource - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 107
+☋ Forks: 109
 
-★ Stars: 373
+★ Stars: 375
 
 [Open repository](https://github.com/archanchoudhury/SOC-OpenSource)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 375 | 109 | 
 | 2023-02-20 | 373 | 107 | 
 | 2023-02-19 | 360 | 102 | 
 | 2023-02-18 | 353 | 102 | 

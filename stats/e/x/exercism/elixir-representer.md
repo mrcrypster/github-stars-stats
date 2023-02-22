@@ -1,6 +1,6 @@
 # exercism/elixir-representer - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 8 | 5 | 
 | 2023-02-20 | 8 | 5 | 
 | 2023-02-19 | 8 | 5 | 
 | 2023-02-17 | 8 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 8 | 5 | 
 | 2023-01-24 | 8 | 5 | 
 | 2023-01-23 | 8 | 5 | 
-| 2023-01-22 | 8 | 5 | 
 

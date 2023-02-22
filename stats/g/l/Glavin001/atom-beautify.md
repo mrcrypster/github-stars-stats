@@ -1,10 +1,10 @@
 # Glavin001/atom-beautify - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 472
 
-★ Stars: 1500
+★ Stars: 1501
 
 [Open repository](https://github.com/Glavin001/atom-beautify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1501 | 472 | 
 | 2023-02-20 | 1500 | 472 | 
 | 2023-02-19 | 1500 | 472 | 
 | 2023-02-18 | 1500 | 473 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 1501 | 473 | 
 | 2023-01-24 | 1501 | 473 | 
 | 2023-01-23 | 1502 | 473 | 
-| 2023-01-22 | 1502 | 472 | 
 

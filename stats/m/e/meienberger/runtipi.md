@@ -1,6 +1,6 @@
 # meienberger/runtipi - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 5289 | 135 | 
 | 2023-02-19 | 5289 | 135 | 
 | 2023-02-18 | 5288 | 135 | 
 | 2023-02-17 | 5286 | 135 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 5219 | 136 | 
 | 2023-01-24 | 5213 | 136 | 
 | 2023-01-23 | 5205 | 136 | 
-| 2023-01-22 | 5204 | 136 | 
 

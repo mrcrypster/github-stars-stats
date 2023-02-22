@@ -1,6 +1,6 @@
 # dexman/Minizip - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 22 | 24 | 
 | 2023-02-19 | 22 | 24 | 
 | 2023-02-18 | 22 | 24 | 
 | 2023-02-17 | 22 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 22 | 24 | 
 | 2023-01-25 | 22 | 24 | 
 | 2023-01-24 | 22 | 24 | 
-| 2023-01-23 | 22 | 24 | 
 

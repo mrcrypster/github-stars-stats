@@ -1,10 +1,10 @@
 # microsoft/wil - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 191
 
-★ Stars: 2161
+★ Stars: 2160
 
 [Open repository](https://github.com/microsoft/wil)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2160 | 191 | 
 | 2023-02-20 | 2161 | 191 | 
 | 2023-02-19 | 2160 | 192 | 
 | 2023-02-18 | 2160 | 192 | 

@@ -1,10 +1,10 @@
 # Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 92
 
-★ Stars: 842
+★ Stars: 845
 
 [Open repository](https://github.com/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 845 | 92 | 
 | 2023-02-20 | 842 | 92 | 
 | 2023-02-19 | 841 | 92 | 
 | 2023-02-18 | 841 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 758 | 82 | 
 | 2023-01-24 | 756 | 82 | 
 | 2023-01-23 | 757 | 82 | 
-| 2023-01-22 | 735 | 82 | 
 

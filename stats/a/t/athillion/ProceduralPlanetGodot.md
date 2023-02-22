@@ -1,10 +1,10 @@
 # athillion/ProceduralPlanetGodot - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 73
+★ Stars: 72
 
 [Open repository](https://github.com/athillion/ProceduralPlanetGodot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 72 | 4 | 
 | 2023-02-20 | 73 | 4 | 
 | 2023-02-18 | 73 | 4 | 
 | 2023-02-17 | 73 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 66 | 2 | 
 | 2023-01-24 | 66 | 2 | 
 | 2023-01-23 | 65 | 2 | 
-| 2023-01-22 | 65 | 2 | 
 

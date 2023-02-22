@@ -1,6 +1,6 @@
 # bot-repo/raganork-deploy - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3 | 70 | 
 | 2023-02-20 | 3 | 70 | 
 | 2023-02-19 | 3 | 70 | 
 | 2023-02-18 | 3 | 70 | 

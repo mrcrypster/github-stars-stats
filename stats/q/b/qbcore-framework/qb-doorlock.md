@@ -1,6 +1,6 @@
 # qbcore-framework/qb-doorlock - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 25 | 211 | 
 | 2023-02-19 | 25 | 211 | 
 | 2023-02-18 | 25 | 211 | 
 | 2023-02-17 | 25 | 211 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 24 | 210 | 
 | 2023-01-24 | 24 | 210 | 
 | 2023-01-23 | 24 | 211 | 
-| 2023-01-22 | 24 | 211 | 
 

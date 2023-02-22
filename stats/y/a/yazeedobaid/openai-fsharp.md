@@ -1,10 +1,10 @@
 # yazeedobaid/openai-fsharp - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/yazeedobaid/openai-fsharp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 34 | 1 | 
 | 2023-02-20 | 33 | 1 | 
 | 2023-02-19 | 33 | 1 | 
 | 2023-02-18 | 32 | 1 | 

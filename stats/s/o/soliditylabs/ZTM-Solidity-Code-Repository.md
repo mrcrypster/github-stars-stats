@@ -1,6 +1,6 @@
 # soliditylabs/ZTM-Solidity-Code-Repository - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 18 | 14 | 
 | 2023-02-20 | 18 | 14 | 
 | 2023-02-19 | 18 | 14 | 
 | 2023-02-17 | 18 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 17 | 14 | 
 | 2023-01-24 | 17 | 14 | 
 | 2023-01-23 | 17 | 14 | 
-| 2023-01-22 | 17 | 14 | 
 

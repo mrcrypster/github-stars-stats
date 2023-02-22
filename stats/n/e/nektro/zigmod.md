@@ -1,10 +1,10 @@
 # nektro/zigmod - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 30
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/nektro/zigmod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 439 | 30 | 
 | 2023-02-20 | 438 | 30 | 
 | 2023-02-19 | 437 | 30 | 
 | 2023-02-18 | 437 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 425 | 31 | 
 | 2023-01-25 | 425 | 31 | 
 | 2023-01-24 | 425 | 31 | 
-| 2023-01-23 | 425 | 31 | 
 

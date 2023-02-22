@@ -1,6 +1,6 @@
 # ocamllabs/ocl-updates - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2 | 2 | 
 | 2023-02-20 | 2 | 2 | 
 | 2023-02-19 | 2 | 2 | 
 | 2023-02-18 | 2 | 2 | 

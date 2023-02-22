@@ -1,10 +1,10 @@
 # x13a/Wasted - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 18
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/x13a/Wasted)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 257 | 18 | 
 | 2023-02-20 | 256 | 18 | 
 | 2023-02-19 | 256 | 17 | 
 | 2023-02-17 | 256 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 241 | 15 | 
 | 2023-01-24 | 241 | 15 | 
 | 2023-01-23 | 241 | 15 | 
-| 2023-01-22 | 241 | 15 | 
 

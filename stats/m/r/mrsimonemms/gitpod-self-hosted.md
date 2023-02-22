@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 21
 
 ☋ Forks: 5
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/mrsimonemms/gitpod-self-hosted)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 44 | 5 | 
+| 2023-02-21 | 45 | 5 | 
 | 2023-02-20 | 41 | 5 | 
 | 2023-02-19 | 36 | 5 | 
 | 2023-02-18 | 25 | 5 | 

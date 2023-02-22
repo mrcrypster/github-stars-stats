@@ -1,6 +1,6 @@
 # microsoft/nlu-incremental-symbol-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7 | 2 | 
 | 2023-02-20 | 7 | 2 | 
 | 2023-02-19 | 7 | 2 | 
 | 2023-02-18 | 7 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 8 | 1 | 
 | 2023-01-24 | 8 | 1 | 
 | 2023-01-23 | 8 | 1 | 
-| 2023-01-22 | 8 | 1 | 
 

@@ -1,6 +1,6 @@
 # wzpan/BeamerStyleSlides - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 828 | 151 | 
 | 2023-02-19 | 828 | 151 | 
 | 2023-02-18 | 827 | 151 | 
 | 2023-02-17 | 827 | 151 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 819 | 149 | 
 | 2023-01-24 | 819 | 149 | 
 | 2023-01-23 | 819 | 149 | 
-| 2023-01-22 | 819 | 149 | 
 

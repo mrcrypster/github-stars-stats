@@ -1,10 +1,10 @@
 # angular-ui/angular-google-maps - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1092
 
-★ Stars: 2538
+★ Stars: 2537
 
 [Open repository](https://github.com/angular-ui/angular-google-maps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2537 | 1092 | 
 | 2023-02-20 | 2538 | 1092 | 
 | 2023-02-19 | 2538 | 1092 | 
 | 2023-02-18 | 2538 | 1092 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 2539 | 1094 | 
 | 2023-01-25 | 2540 | 1094 | 
 | 2023-01-23 | 2540 | 1094 | 
-| 2023-01-22 | 2540 | 1094 | 
 

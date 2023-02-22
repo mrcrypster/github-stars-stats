@@ -1,10 +1,10 @@
 # chvancooten/maldev-for-dummies - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 115
 
-★ Stars: 927
+★ Stars: 929
 
 [Open repository](https://github.com/chvancooten/maldev-for-dummies)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 929 | 115 | 
 | 2023-02-20 | 927 | 115 | 
 | 2023-02-19 | 926 | 115 | 
 | 2023-02-18 | 926 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 918 | 115 | 
 | 2023-01-24 | 917 | 115 | 
 | 2023-01-23 | 916 | 115 | 
-| 2023-01-22 | 916 | 115 | 
 

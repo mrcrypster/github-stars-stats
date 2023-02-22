@@ -1,10 +1,10 @@
 # shaunsingh/nyoom.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 60
 
-★ Stars: 716
+★ Stars: 717
 
 [Open repository](https://github.com/shaunsingh/nyoom.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 717 | 60 | 
 | 2023-02-20 | 716 | 60 | 
 | 2023-02-19 | 714 | 60 | 
 | 2023-02-17 | 711 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 658 | 56 | 
 | 2023-01-24 | 656 | 57 | 
 | 2023-01-23 | 650 | 57 | 
-| 2023-01-22 | 648 | 56 | 
 

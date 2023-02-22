@@ -1,10 +1,10 @@
 # johanhaleby/kubetail - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 281
+☋ Forks: 282
 
-★ Stars: 2858
+★ Stars: 2860
 
 [Open repository](https://github.com/johanhaleby/kubetail)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2860 | 282 | 
 | 2023-02-20 | 2858 | 281 | 
 | 2023-02-19 | 2858 | 281 | 
 | 2023-02-18 | 2857 | 281 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 2831 | 279 | 
 | 2023-01-24 | 2831 | 279 | 
 | 2023-01-23 | 2831 | 279 | 
-| 2023-01-22 | 2831 | 279 | 
 

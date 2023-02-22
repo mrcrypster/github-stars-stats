@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 21
 
-☋ Forks: 646
+☋ Forks: 648
 
-★ Stars: 1827
+★ Stars: 1828
 
 [Open repository](https://github.com/Creators-of-Create/Create)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 1827 | 646 | 
+| 2023-02-21 | 1828 | 648 | 
 | 2023-02-20 | 1826 | 646 | 
 | 2023-02-19 | 1826 | 646 | 
 | 2023-02-18 | 1823 | 646 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 1783 | 626 | 
 | 2023-01-24 | 1779 | 622 | 
 | 2023-01-23 | 1776 | 621 | 
-| 2023-01-22 | 1776 | 621 | 
 

@@ -1,10 +1,10 @@
 # Mofiqul/adwaita.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 14
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/Mofiqul/adwaita.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 132 | 14 | 
 | 2023-02-20 | 131 | 14 | 
 | 2023-02-19 | 131 | 14 | 
 | 2023-02-18 | 130 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 125 | 11 | 
 | 2023-01-24 | 125 | 11 | 
 | 2023-01-23 | 125 | 11 | 
-| 2023-01-22 | 124 | 11 | 
 

@@ -1,8 +1,8 @@
 # Seneca-244200/OOP-Workshops - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 24 | 96 | 
 | 2023-02-19 | 24 | 95 | 
 | 2023-02-18 | 24 | 95 | 
 | 2023-02-17 | 23 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 22 | 74 | 
 | 2023-01-24 | 22 | 72 | 
 | 2023-01-23 | 22 | 71 | 
-| 2023-01-22 | 21 | 70 | 
 

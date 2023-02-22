@@ -1,10 +1,10 @@
 # royquilor/twitter-ui-practise - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 27
 
-★ Stars: 148
+★ Stars: 150
 
 [Open repository](https://github.com/royquilor/twitter-ui-practise)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 150 | 27 | 
 | 2023-02-20 | 148 | 27 | 
 | 2023-02-19 | 147 | 27 | 
 | 2023-02-18 | 147 | 27 | 

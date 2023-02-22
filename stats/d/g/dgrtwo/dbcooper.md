@@ -1,6 +1,6 @@
 # dgrtwo/dbcooper - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 100 | 3 | 
 | 2023-02-20 | 100 | 3 | 
 | 2023-02-19 | 100 | 3 | 
 | 2023-02-18 | 100 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 100 | 3 | 
 | 2023-01-25 | 100 | 3 | 
 | 2023-01-24 | 100 | 3 | 
-| 2023-01-22 | 100 | 3 | 
 

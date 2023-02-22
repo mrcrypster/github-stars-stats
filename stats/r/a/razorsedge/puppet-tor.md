@@ -1,6 +1,6 @@
 # razorsedge/puppet-tor - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 3 | 6 | 
 | 2023-02-20 | 3 | 6 | 
 | 2023-02-18 | 3 | 6 | 
 | 2023-02-17 | 3 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 3 | 6 | 
 | 2023-01-24 | 3 | 6 | 
 | 2023-01-23 | 3 | 6 | 
-| 2023-01-22 | 3 | 6 | 
 

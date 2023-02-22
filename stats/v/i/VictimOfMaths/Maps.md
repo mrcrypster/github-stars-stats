@@ -1,10 +1,10 @@
 # VictimOfMaths/Maps - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 4
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/VictimOfMaths/Maps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 30 | 4 | 
 | 2023-02-20 | 29 | 4 | 
 | 2023-02-18 | 29 | 4 | 
 | 2023-02-17 | 29 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 29 | 4 | 
 | 2023-01-24 | 29 | 4 | 
 | 2023-01-23 | 26 | 3 | 
-| 2023-01-22 | 26 | 3 | 
 

@@ -1,10 +1,10 @@
 # meain/evil-textobj-tree-sitter - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 9
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/meain/evil-textobj-tree-sitter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 133 | 9 | 
 | 2023-02-20 | 132 | 9 | 
 | 2023-02-19 | 132 | 9 | 
 | 2023-02-18 | 132 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 123 | 8 | 
 | 2023-01-24 | 123 | 8 | 
 | 2023-01-23 | 123 | 8 | 
-| 2023-01-22 | 123 | 8 | 
 

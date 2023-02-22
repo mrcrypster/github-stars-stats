@@ -1,10 +1,10 @@
 # bhattsameer/Bombers - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 1058
 
-★ Stars: 2094
+★ Stars: 2096
 
 [Open repository](https://github.com/bhattsameer/Bombers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2096 | 1058 | 
 | 2023-02-20 | 2094 | 1058 | 
 | 2023-02-19 | 2094 | 1057 | 
 | 2023-02-18 | 2091 | 1057 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 2034 | 1042 | 
 | 2023-01-24 | 2027 | 1041 | 
 | 2023-01-23 | 2026 | 1039 | 
-| 2023-01-22 | 2023 | 1039 | 
 

@@ -1,6 +1,6 @@
 # vesoft-inc/nebula-docker-compose - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 81 | 66 | 
 | 2023-02-20 | 81 | 66 | 
 | 2023-02-19 | 81 | 66 | 
 | 2023-02-18 | 80 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 78 | 65 | 
 | 2023-01-25 | 78 | 65 | 
 | 2023-01-23 | 78 | 65 | 
-| 2023-01-22 | 78 | 65 | 
 

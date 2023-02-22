@@ -1,10 +1,10 @@
 # kaleidos-ventures/taiga-front - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 56
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/kaleidos-ventures/taiga-front)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 163 | 56 | 
 | 2023-02-20 | 162 | 56 | 
 | 2023-02-19 | 162 | 56 | 
 | 2023-02-18 | 162 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 157 | 54 | 
 | 2023-01-24 | 157 | 54 | 
 | 2023-01-23 | 157 | 53 | 
-| 2023-01-22 | 157 | 53 | 
 

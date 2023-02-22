@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 21
 
-☋ Forks: 817
+☋ Forks: 818
 
-★ Stars: 21236
+★ Stars: 21242
 
 [Open repository](https://github.com/pocketbase/pocketbase)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 21236 | 817 | 
+| 2023-02-21 | 21242 | 818 | 
 | 2023-02-20 | 21231 | 817 | 
 | 2023-02-19 | 21186 | 815 | 
 | 2023-02-18 | 21162 | 814 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 20372 | 775 | 
 | 2023-01-24 | 20335 | 772 | 
 | 2023-01-23 | 20298 | 772 | 
-| 2023-01-22 | 20245 | 769 | 
 

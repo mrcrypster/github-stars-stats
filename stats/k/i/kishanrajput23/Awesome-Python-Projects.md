@@ -1,8 +1,8 @@
 # kishanrajput23/Awesome-Python-Projects - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
-☋ Forks: 170
+☋ Forks: 169
 
 ★ Stars: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 99 | 169 | 
 | 2023-02-20 | 99 | 170 | 
 | 2023-02-19 | 99 | 170 | 
 | 2023-02-17 | 99 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-25 | 98 | 168 | 
 | 2023-01-24 | 98 | 168 | 
 | 2023-01-23 | 98 | 168 | 
-| 2023-01-22 | 98 | 168 | 
 

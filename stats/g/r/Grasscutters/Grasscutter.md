@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 21
 
 ☋ Forks: 4024
 
-★ Stars: 12567
+★ Stars: 12571
 
 [Open repository](https://github.com/Grasscutters/Grasscutter)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 12567 | 4024 | 
+| 2023-02-21 | 12571 | 4024 | 
 | 2023-02-20 | 12567 | 4024 | 
 | 2023-02-19 | 12560 | 4024 | 
 | 2023-02-18 | 12551 | 4022 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-25 | 12363 | 3936 | 
 | 2023-01-24 | 12354 | 3933 | 
 | 2023-01-23 | 12348 | 3934 | 
-| 2023-01-22 | 12339 | 3926 | 
 

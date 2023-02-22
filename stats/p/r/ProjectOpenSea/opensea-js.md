@@ -1,10 +1,10 @@
 # ProjectOpenSea/opensea-js - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 865
+☋ Forks: 864
 
-★ Stars: 2073
+★ Stars: 2072
 
 [Open repository](https://github.com/ProjectOpenSea/opensea-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 2072 | 864 | 
 | 2023-02-19 | 2073 | 865 | 
 | 2023-02-18 | 2074 | 864 | 
 | 2023-02-17 | 2073 | 864 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 2056 | 855 | 
 | 2023-01-24 | 2055 | 853 | 
 | 2023-01-23 | 2055 | 853 | 
-| 2023-01-22 | 2052 | 852 | 
 

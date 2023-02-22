@@ -1,10 +1,10 @@
 # S3lrius/Nimalathatep - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 7
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/S3lrius/Nimalathatep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 43 | 7 | 
 | 2023-02-20 | 42 | 7 | 
 | 2023-02-19 | 42 | 7 | 
 | 2023-02-18 | 42 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 42 | 7 | 
 | 2023-01-25 | 42 | 7 | 
 | 2023-01-24 | 42 | 7 | 
-| 2023-01-22 | 42 | 7 | 
 

@@ -1,6 +1,6 @@
 # pbienst/active-math - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 30 | 1 | 
 | 2023-02-20 | 30 | 1 | 
 | 2023-02-19 | 30 | 1 | 
 | 2023-02-18 | 30 | 1 | 

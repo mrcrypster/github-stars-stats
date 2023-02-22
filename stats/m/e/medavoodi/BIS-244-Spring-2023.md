@@ -1,10 +1,10 @@
 # medavoodi/BIS-244-Spring-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 86
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/medavoodi/BIS-244-Spring-2023)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-21 | 1 | 86 | 
+| 2023-02-22 | 2 | 86 | 
+| 2023-02-21 | 2 | 86 | 
 | 2023-02-19 | 1 | 84 | 
 | 2023-02-18 | 1 | 84 | 
 | 2023-02-17 | 1 | 84 | 

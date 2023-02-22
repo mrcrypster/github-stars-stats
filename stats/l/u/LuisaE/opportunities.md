@@ -1,10 +1,10 @@
 # LuisaE/opportunities - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/LuisaE/opportunities)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 35 | 2 | 
 | 2023-02-20 | 34 | 2 | 
 | 2023-02-19 | 34 | 2 | 
 | 2023-02-18 | 34 | 2 | 

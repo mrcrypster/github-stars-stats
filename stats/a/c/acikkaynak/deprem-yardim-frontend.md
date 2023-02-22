@@ -1,10 +1,10 @@
 # acikkaynak/deprem-yardim-frontend - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
-☋ Forks: 319
+☋ Forks: 322
 
-★ Stars: 908
+★ Stars: 912
 
 [Open repository](https://github.com/acikkaynak/deprem-yardim-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 912 | 322 | 
 | 2023-02-19 | 908 | 319 | 
 | 2023-02-18 | 902 | 320 | 
 | 2023-02-17 | 898 | 320 | 

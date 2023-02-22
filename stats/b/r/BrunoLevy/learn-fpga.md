@@ -1,10 +1,10 @@
 # BrunoLevy/learn-fpga - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 152
 
-★ Stars: 1621
+★ Stars: 1628
 
 [Open repository](https://github.com/BrunoLevy/learn-fpga)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 1628 | 152 | 
 | 2023-02-19 | 1621 | 152 | 
 | 2023-02-18 | 1620 | 152 | 
 | 2023-02-17 | 1618 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-25 | 1569 | 148 | 
 | 2023-01-24 | 1567 | 147 | 
 | 2023-01-23 | 1565 | 147 | 
-| 2023-01-22 | 1559 | 147 | 
 

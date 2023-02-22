@@ -1,10 +1,10 @@
 # SciML/LinearSolve.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 19
+Stats updated on Feb 2023, 21
 
 ☋ Forks: 20
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/SciML/LinearSolve.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-21 | 167 | 20 | 
 | 2023-02-19 | 166 | 20 | 
 | 2023-02-18 | 166 | 20 | 
 | 2023-02-17 | 166 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 19
 | 2023-01-26 | 160 | 20 | 
 | 2023-01-25 | 160 | 20 | 
 | 2023-01-24 | 160 | 20 | 
-| 2023-01-22 | 159 | 20 | 
 
