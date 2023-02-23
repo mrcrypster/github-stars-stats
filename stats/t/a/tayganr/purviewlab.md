@@ -1,6 +1,6 @@
 # tayganr/purviewlab - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 109 | 123 | 
 | 2023-02-21 | 109 | 123 | 
 | 2023-02-19 | 109 | 123 | 
 | 2023-02-18 | 109 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 102 | 118 | 
 | 2023-01-25 | 102 | 118 | 
 | 2023-01-24 | 102 | 118 | 
-| 2023-01-23 | 102 | 118 | 
 

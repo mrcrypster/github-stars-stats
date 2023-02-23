@@ -1,10 +1,10 @@
 # module-federation/universe - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 60
 
-★ Stars: 419
+★ Stars: 421
 
 [Open repository](https://github.com/module-federation/universe)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 421 | 60 | 
 | 2023-02-21 | 419 | 60 | 
 | 2023-02-20 | 418 | 60 | 
 | 2023-02-19 | 417 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 378 | 49 | 
 | 2023-01-25 | 378 | 49 | 
 | 2023-01-24 | 378 | 49 | 
-| 2023-01-23 | 377 | 49 | 
 

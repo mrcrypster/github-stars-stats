@@ -1,10 +1,10 @@
 # asmboy4gb/asmboy4gb - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/asmboy4gb/asmboy4gb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 40 | 2 | 
 | 2023-02-21 | 39 | 2 | 
 | 2023-02-20 | 39 | 2 | 
 | 2023-02-19 | 39 | 2 | 

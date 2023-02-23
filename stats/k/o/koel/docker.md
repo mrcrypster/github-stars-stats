@@ -1,6 +1,6 @@
 # koel/docker - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 112 | 40 | 
 | 2023-02-21 | 112 | 40 | 
 | 2023-02-20 | 112 | 40 | 
 | 2023-02-19 | 112 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 108 | 40 | 
 | 2023-01-25 | 108 | 40 | 
 | 2023-01-24 | 108 | 40 | 
-| 2023-01-23 | 108 | 39 | 
 

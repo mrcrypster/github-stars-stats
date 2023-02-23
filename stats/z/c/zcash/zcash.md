@@ -1,8 +1,8 @@
 # zcash/zcash - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 2001
+☋ Forks: 2002
 
 ★ Stars: 4711
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4711 | 2002 | 
 | 2023-02-21 | 4711 | 2001 | 
 | 2023-02-20 | 4711 | 2000 | 
 | 2023-02-19 | 4712 | 2000 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 4709 | 1997 | 
 | 2023-01-26 | 4709 | 1997 | 
 | 2023-01-25 | 4708 | 1997 | 
-| 2023-01-23 | 4708 | 1997 | 
 

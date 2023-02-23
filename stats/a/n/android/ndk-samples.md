@@ -1,10 +1,10 @@
 # android/ndk-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 4087
+☋ Forks: 4088
 
-★ Stars: 9313
+★ Stars: 9312
 
 [Open repository](https://github.com/android/ndk-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 9312 | 4088 | 
 | 2023-02-21 | 9313 | 4087 | 
 | 2023-02-20 | 9311 | 4087 | 
 | 2023-02-19 | 9308 | 4087 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 9275 | 4082 | 
 | 2023-01-25 | 9275 | 4082 | 
 | 2023-01-24 | 9272 | 4083 | 
-| 2023-01-23 | 9271 | 4084 | 
 

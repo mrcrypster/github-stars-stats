@@ -1,6 +1,6 @@
 # Philogy/huff-weth - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 22 | - | 
 | 2023-02-21 | 22 | - | 
 | 2023-02-20 | 22 | - | 
 | 2023-02-19 | 22 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 20 | - | 
 | 2023-01-25 | 20 | - | 
 | 2023-01-24 | 20 | - | 
-| 2023-01-23 | 20 | - | 
 

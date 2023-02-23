@@ -1,10 +1,10 @@
 # divamgupta/stable-diffusion-tensorflow - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 192
 
-★ Stars: 1369
+★ Stars: 1370
 
 [Open repository](https://github.com/divamgupta/stable-diffusion-tensorflow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1370 | 192 | 
 | 2023-02-21 | 1369 | 192 | 
 | 2023-02-19 | 1367 | 192 | 
 | 2023-02-18 | 1365 | 192 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1336 | 188 | 
 | 2023-01-25 | 1336 | 188 | 
 | 2023-01-24 | 1334 | 188 | 
-| 2023-01-23 | 1331 | 188 | 
 

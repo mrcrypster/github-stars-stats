@@ -1,10 +1,10 @@
 # gamozolabs/mempeek - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 12
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/gamozolabs/mempeek)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 206 | 12 | 
 | 2023-02-21 | 205 | 12 | 
 | 2023-02-20 | 205 | 12 | 
 | 2023-02-19 | 205 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 205 | 13 | 
 | 2023-01-25 | 205 | 13 | 
 | 2023-01-24 | 205 | 13 | 
-| 2023-01-23 | 205 | 13 | 
 

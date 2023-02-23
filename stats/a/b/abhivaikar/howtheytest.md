@@ -1,10 +1,10 @@
 # abhivaikar/howtheytest - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 427
+☋ Forks: 428
 
-★ Stars: 5206
+★ Stars: 5210
 
 [Open repository](https://github.com/abhivaikar/howtheytest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5210 | 428 | 
 | 2023-02-21 | 5206 | 427 | 
 | 2023-02-20 | 5203 | 427 | 
 | 2023-02-19 | 5203 | 426 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4595 | 377 | 
 | 2023-01-25 | 4554 | 373 | 
 | 2023-01-24 | 4547 | 371 | 
-| 2023-01-23 | 4542 | 368 | 
 

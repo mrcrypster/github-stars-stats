@@ -1,6 +1,6 @@
 # mailru/jira-scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 94 | 48 | 
 | 2023-02-21 | 94 | 48 | 
 | 2023-02-20 | 94 | 48 | 
 | 2023-02-19 | 94 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 90 | 47 | 
 | 2023-01-26 | 90 | 47 | 
 | 2023-01-24 | 90 | 47 | 
-| 2023-01-23 | 90 | 47 | 
 

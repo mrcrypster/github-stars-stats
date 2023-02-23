@@ -1,10 +1,10 @@
 # dart-lang/dart-vim-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 55
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/dart-lang/dart-vim-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 614 | 55 | 
 | 2023-02-21 | 613 | 55 | 
 | 2023-02-20 | 613 | 55 | 
 | 2023-02-18 | 611 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 606 | 54 | 
 | 2023-01-26 | 606 | 54 | 
 | 2023-01-25 | 606 | 54 | 
-| 2023-01-23 | 606 | 54 | 
 

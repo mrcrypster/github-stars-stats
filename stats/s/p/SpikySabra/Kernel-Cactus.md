@@ -1,10 +1,10 @@
 # SpikySabra/Kernel-Cactus - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 19
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/SpikySabra/Kernel-Cactus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 106 | 19 | 
 | 2023-02-21 | 105 | 19 | 
 | 2023-02-20 | 105 | 19 | 
 | 2023-02-19 | 105 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 105 | 19 | 
 | 2023-01-26 | 105 | 19 | 
 | 2023-01-25 | 106 | 19 | 
-| 2023-01-24 | 106 | 20 | 
 

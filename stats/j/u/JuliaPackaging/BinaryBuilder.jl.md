@@ -1,10 +1,10 @@
 # JuliaPackaging/BinaryBuilder.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 92
 
-★ Stars: 329
+★ Stars: 330
 
 [Open repository](https://github.com/JuliaPackaging/BinaryBuilder.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 330 | 92 | 
 | 2023-02-21 | 329 | 92 | 
 | 2023-02-20 | 329 | 92 | 
 | 2023-02-19 | 328 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 325 | 92 | 
 | 2023-01-25 | 325 | 92 | 
 | 2023-01-24 | 325 | 92 | 
-| 2023-01-23 | 325 | 92 | 
 

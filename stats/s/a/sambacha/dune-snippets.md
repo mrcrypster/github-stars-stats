@@ -1,6 +1,6 @@
 # sambacha/dune-snippets - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 123 | 16 | 
 | 2023-02-21 | 123 | 16 | 
 | 2023-02-19 | 123 | 15 | 
 | 2023-02-18 | 122 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 118 | 15 | 
 | 2023-01-25 | 118 | 15 | 
 | 2023-01-24 | 118 | 15 | 
-| 2023-01-23 | 118 | 15 | 
 

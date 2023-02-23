@@ -1,6 +1,6 @@
 # brglng/vim-im-select - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 92 | 11 | 
 | 2023-02-21 | 92 | 11 | 
 | 2023-02-20 | 92 | 11 | 
 | 2023-02-19 | 92 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 90 | 11 | 
 | 2023-01-25 | 90 | 11 | 
 | 2023-01-24 | 90 | 11 | 
-| 2023-01-23 | 90 | 11 | 
 

@@ -1,10 +1,10 @@
 # hi-manshu/Charty - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 26
 
-★ Stars: 533
+★ Stars: 534
 
 [Open repository](https://github.com/hi-manshu/Charty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 534 | 26 | 
 | 2023-02-21 | 533 | 26 | 
 | 2023-02-20 | 533 | 26 | 
 | 2023-02-18 | 532 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 505 | 25 | 
 | 2023-01-25 | 503 | 25 | 
 | 2023-01-24 | 501 | 24 | 
-| 2023-01-23 | 500 | 24 | 
 

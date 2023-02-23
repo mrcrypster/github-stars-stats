@@ -1,10 +1,10 @@
 # lgirdk/meta-intel - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/lgirdk/meta-intel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2 | - | 
 | 2023-02-21 | 1 | - | 
 | 2023-02-20 | 1 | - | 
 | 2023-02-19 | 1 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1 | - | 
 | 2023-01-25 | - | - | 
 | 2023-01-24 | - | - | 
-| 2023-01-23 | - | - | 
 

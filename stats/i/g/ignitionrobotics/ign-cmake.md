@@ -1,6 +1,6 @@
 # ignitionrobotics/ign-cmake - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 18 | 23 | 
 | 2023-02-21 | 18 | 23 | 
 | 2023-02-20 | 18 | 23 | 
 | 2023-02-19 | 17 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 16 | 23 | 
 | 2023-01-26 | 15 | 23 | 
 | 2023-01-25 | 15 | 23 | 
-| 2023-01-24 | 15 | 23 | 
 

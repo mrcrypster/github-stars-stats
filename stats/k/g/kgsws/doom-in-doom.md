@@ -1,6 +1,6 @@
 # kgsws/doom-in-doom - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 206 | 8 | 
 | 2023-02-21 | 206 | 8 | 
 | 2023-02-20 | 206 | 8 | 
 | 2023-02-19 | 206 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 207 | 8 | 
 | 2023-01-25 | 207 | 8 | 
 | 2023-01-24 | 207 | 8 | 
-| 2023-01-23 | 207 | 8 | 
 

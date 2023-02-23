@@ -1,6 +1,6 @@
 # sachaos/viddy - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3902 | 73 | 
 | 2023-02-21 | 3902 | 73 | 
 | 2023-02-20 | 3901 | 73 | 
 | 2023-02-19 | 3897 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3873 | 71 | 
 | 2023-01-25 | 3871 | 71 | 
 | 2023-01-24 | 3869 | 71 | 
-| 2023-01-23 | 3866 | 71 | 
 

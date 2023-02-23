@@ -1,8 +1,8 @@
 # JohnSundell/Publish - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 308
+☋ Forks: 309
 
 ★ Stars: 4379
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4379 | 309 | 
 | 2023-02-21 | 4379 | 308 | 
 | 2023-02-20 | 4375 | 308 | 
 | 2023-02-19 | 4371 | 307 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 4332 | 302 | 
 | 2023-01-26 | 4330 | 302 | 
 | 2023-01-24 | 4330 | 302 | 
-| 2023-01-23 | 4328 | 302 | 
 

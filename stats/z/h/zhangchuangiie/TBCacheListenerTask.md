@@ -1,6 +1,6 @@
 # zhangchuangiie/TBCacheListenerTask - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 44 | 9 | 
 | 2023-02-21 | 44 | 9 | 
 | 2023-02-20 | 44 | 9 | 
 | 2023-02-19 | 44 | 9 | 

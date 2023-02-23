@@ -1,6 +1,6 @@
 # maxmarcon/live_select - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 63 | 4 | 
 | 2023-02-21 | 63 | 4 | 
 | 2023-02-20 | 63 | 4 | 
 | 2023-02-19 | 62 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 47 | 2 | 
 | 2023-01-25 | 47 | 2 | 
 | 2023-01-24 | 44 | 2 | 
-| 2023-01-23 | 44 | 2 | 
 

@@ -1,6 +1,6 @@
 # JuliaIO/Tar.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 75 | 17 | 
 | 2023-02-21 | 75 | 17 | 
 | 2023-02-20 | 75 | 17 | 
 | 2023-02-19 | 75 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 75 | 17 | 
 | 2023-01-25 | 75 | 17 | 
 | 2023-01-24 | 75 | 17 | 
-| 2023-01-23 | 75 | 17 | 
 

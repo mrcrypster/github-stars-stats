@@ -1,10 +1,10 @@
 # SharePoint/sp-dev-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 951
 
-★ Stars: 1145
+★ Stars: 1147
 
 [Open repository](https://github.com/SharePoint/sp-dev-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1147 | 951 | 
 | 2023-02-21 | 1145 | 951 | 
 | 2023-02-20 | 1145 | 949 | 
 | 2023-02-19 | 1145 | 949 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1140 | 945 | 
 | 2023-01-25 | 1140 | 945 | 
 | 2023-01-24 | 1139 | 944 | 
-| 2023-01-23 | 1139 | 944 | 
 

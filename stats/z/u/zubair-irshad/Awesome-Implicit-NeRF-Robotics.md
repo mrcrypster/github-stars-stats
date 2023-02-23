@@ -1,10 +1,10 @@
 # zubair-irshad/Awesome-Implicit-NeRF-Robotics - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 30
 
-★ Stars: 566
+★ Stars: 570
 
 [Open repository](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 570 | 30 | 
 | 2023-02-21 | 566 | 30 | 
 | 2023-02-19 | 564 | 30 | 
 | 2023-02-18 | 563 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 532 | 31 | 
 | 2023-01-25 | 531 | 30 | 
 | 2023-01-24 | 529 | 30 | 
-| 2023-01-23 | 528 | 29 | 
 

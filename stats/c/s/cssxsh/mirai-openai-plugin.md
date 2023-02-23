@@ -1,10 +1,10 @@
 # cssxsh/mirai-openai-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/cssxsh/mirai-openai-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 74 | 4 | 
 | 2023-02-21 | 73 | 4 | 
 | 2023-02-20 | 72 | 4 | 
 | 2023-02-19 | 69 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 59 | 4 | 
 | 2023-01-25 | 59 | 4 | 
 | 2023-01-24 | 59 | 4 | 
-| 2023-01-23 | 59 | 4 | 
 

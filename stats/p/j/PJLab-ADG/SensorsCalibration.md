@@ -1,10 +1,10 @@
 # PJLab-ADG/SensorsCalibration - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 267
+☋ Forks: 269
 
-★ Stars: 1139
+★ Stars: 1142
 
 [Open repository](https://github.com/PJLab-ADG/SensorsCalibration)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1142 | 269 | 
 | 2023-02-21 | 1139 | 267 | 
 | 2023-02-20 | 1136 | 265 | 
 | 2023-02-19 | 1135 | 264 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1075 | 254 | 
 | 2023-01-25 | 1074 | 254 | 
 | 2023-01-24 | 1073 | 254 | 
-| 2023-01-23 | 1072 | 254 | 
 

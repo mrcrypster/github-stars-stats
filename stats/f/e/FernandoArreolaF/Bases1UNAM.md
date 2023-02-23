@@ -1,10 +1,10 @@
 # FernandoArreolaF/Bases1UNAM - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 204
+☋ Forks: 215
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/FernandoArreolaF/Bases1UNAM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 24 | 215 | 
 | 2023-02-21 | 23 | 204 | 
 | 2023-02-20 | 23 | 198 | 
 | 2023-02-19 | 22 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 20 | 193 | 
 | 2023-01-25 | 20 | 193 | 
 | 2023-01-24 | 20 | 193 | 
-| 2023-01-23 | 20 | 193 | 
 

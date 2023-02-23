@@ -1,10 +1,10 @@
 # TAK-Product-Center/Server - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 51
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/TAK-Product-Center/Server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 145 | 51 | 
 | 2023-02-20 | 144 | 51 | 
 | 2023-02-19 | 144 | 51 | 
 | 2023-02-18 | 144 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 138 | 50 | 
 | 2023-01-25 | 136 | 50 | 
 | 2023-01-24 | 135 | 49 | 
-| 2023-01-23 | 135 | 49 | 
 

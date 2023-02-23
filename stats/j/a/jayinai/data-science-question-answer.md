@@ -1,10 +1,10 @@
 # jayinai/data-science-question-answer - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 641
 
-★ Stars: 2280
+★ Stars: 2281
 
 [Open repository](https://github.com/jayinai/data-science-question-answer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2281 | 641 | 
 | 2023-02-21 | 2280 | 641 | 
 | 2023-02-20 | 2280 | 641 | 
 | 2023-02-18 | 2280 | 641 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2281 | 644 | 
 | 2023-01-25 | 2281 | 644 | 
 | 2023-01-24 | 2280 | 644 | 
-| 2023-01-23 | 2280 | 644 | 
 

@@ -1,6 +1,6 @@
 # learnk8s/xlskubectl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1182 | 59 | 
 | 2023-02-21 | 1182 | 59 | 
 | 2023-02-20 | 1182 | 59 | 
 | 2023-02-19 | 1182 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 1178 | 59 | 
 | 2023-01-26 | 1176 | 59 | 
 | 2023-01-24 | 1172 | 59 | 
-| 2023-01-23 | 1171 | 59 | 
 

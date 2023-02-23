@@ -1,10 +1,10 @@
 # xcfcode/Summarization-Papers - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 139
 
-★ Stars: 856
+★ Stars: 857
 
 [Open repository](https://github.com/xcfcode/Summarization-Papers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 857 | 139 | 
 | 2023-02-21 | 856 | 139 | 
 | 2023-02-20 | 854 | 139 | 
 | 2023-02-19 | 852 | 139 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 839 | 138 | 
 | 2023-01-26 | 839 | 138 | 
 | 2023-01-25 | 839 | 138 | 
-| 2023-01-23 | 839 | 139 | 
 

@@ -1,6 +1,6 @@
 # apache/skywalking-kubernetes - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 401 | 175 | 
 | 2023-02-21 | 401 | 175 | 
 | 2023-02-20 | 400 | 175 | 
 | 2023-02-19 | 400 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 397 | 171 | 
 | 2023-01-25 | 397 | 171 | 
 | 2023-01-24 | 397 | 171 | 
-| 2023-01-23 | 396 | 171 | 
 

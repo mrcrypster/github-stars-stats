@@ -1,10 +1,10 @@
 # input-output-hk/cardano-graphql - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 101
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/input-output-hk/cardano-graphql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 249 | 101 | 
 | 2023-02-21 | 248 | 101 | 
 | 2023-02-20 | 248 | 101 | 
 | 2023-02-18 | 248 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 246 | 101 | 
 | 2023-01-26 | 246 | 101 | 
 | 2023-01-25 | 246 | 101 | 
-| 2023-01-23 | 246 | 101 | 
 

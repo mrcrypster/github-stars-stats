@@ -1,6 +1,6 @@
 # jkrumbiegel/ReadableRegex.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 160 | 2 | 
 | 2023-02-21 | 160 | 2 | 
 | 2023-02-20 | 159 | 2 | 
 | 2023-02-19 | 159 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 156 | 2 | 
 | 2023-01-25 | 156 | 2 | 
 | 2023-01-24 | 156 | 2 | 
-| 2023-01-23 | 156 | 2 | 
 

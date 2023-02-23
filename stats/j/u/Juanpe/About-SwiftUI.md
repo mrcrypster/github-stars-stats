@@ -1,6 +1,6 @@
 # Juanpe/About-SwiftUI - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6528 | 655 | 
 | 2023-02-21 | 6528 | 655 | 
 | 2023-02-20 | 6525 | 655 | 
 | 2023-02-19 | 6525 | 655 | 

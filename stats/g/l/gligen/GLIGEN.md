@@ -1,10 +1,10 @@
 # gligen/GLIGEN - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 10
 
-★ Stars: 238
+★ Stars: 240
 
 [Open repository](https://github.com/gligen/GLIGEN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 240 | 10 | 
 | 2023-02-21 | 238 | 10 | 
 | 2023-02-20 | 238 | 10 | 
 | 2023-02-19 | 238 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 164 | 5 | 
 | 2023-01-25 | 154 | 5 | 
 | 2023-01-24 | 148 | 5 | 
-| 2023-01-23 | 136 | 4 | 
 

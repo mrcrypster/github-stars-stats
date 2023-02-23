@@ -1,6 +1,6 @@
 # firesim/firesim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 645 | 170 | 
 | 2023-02-21 | 645 | 170 | 
 | 2023-02-20 | 645 | 170 | 
 | 2023-02-19 | 645 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 635 | 169 | 
 | 2023-01-25 | 634 | 169 | 
 | 2023-01-24 | 634 | 169 | 
-| 2023-01-23 | 634 | 169 | 
 

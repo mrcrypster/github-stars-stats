@@ -1,10 +1,10 @@
 # markmoxon/c64-elite-flicker-free - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/markmoxon/c64-elite-flicker-free)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 48 | - | 
 | 2023-02-21 | 47 | - | 
 | 2023-02-20 | 47 | - | 
 | 2023-02-19 | 45 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 42 | - | 
 | 2023-01-26 | 42 | - | 
 | 2023-01-25 | 42 | - | 
-| 2023-01-24 | 42 | - | 
 

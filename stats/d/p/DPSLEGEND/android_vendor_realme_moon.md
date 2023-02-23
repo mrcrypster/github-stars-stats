@@ -1,6 +1,6 @@
 # DPSLEGEND/android_vendor_realme_moon - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2 | 4 | 
 | 2023-02-21 | 2 | 4 | 
 | 2023-02-19 | 2 | 4 | 
 | 2023-02-18 | 2 | 4 | 

@@ -1,6 +1,6 @@
 # sharonzhou/long_stable_diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 583 | 48 | 
 | 2023-02-21 | 583 | 48 | 
 | 2023-02-19 | 583 | 48 | 
 | 2023-02-18 | 582 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 574 | 46 | 
 | 2023-01-25 | 574 | 46 | 
 | 2023-01-24 | 574 | 46 | 
-| 2023-01-23 | 574 | 46 | 
 

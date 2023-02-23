@@ -1,10 +1,10 @@
 # majorregal/TimelessEmulator - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 26
 
-★ Stars: 39
+★ Stars: 38
 
 [Open repository](https://github.com/majorregal/TimelessEmulator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 38 | 26 | 
 | 2023-02-21 | 39 | 26 | 
 | 2023-02-19 | 39 | 26 | 
 | 2023-02-18 | 39 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 39 | 26 | 
 | 2023-01-26 | 39 | 26 | 
 | 2023-01-25 | 39 | 25 | 
-| 2023-01-24 | 39 | 25 | 
 

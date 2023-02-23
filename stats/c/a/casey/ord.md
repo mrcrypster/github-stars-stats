@@ -1,10 +1,10 @@
 # casey/ord - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 210
+☋ Forks: 215
 
-★ Stars: 1005
+★ Stars: 1019
 
 [Open repository](https://github.com/casey/ord)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1019 | 215 | 
 | 2023-02-21 | 1005 | 210 | 
 | 2023-02-20 | 991 | 204 | 
 | 2023-02-19 | 970 | 200 | 

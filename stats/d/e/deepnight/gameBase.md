@@ -1,8 +1,8 @@
 # deepnight/gameBase - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 125
+☋ Forks: 126
 
 ★ Stars: 460
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 460 | 126 | 
 | 2023-02-21 | 460 | 125 | 
 | 2023-02-20 | 458 | 125 | 
 | 2023-02-18 | 456 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 450 | 120 | 
 | 2023-01-25 | 449 | 120 | 
 | 2023-01-24 | 448 | 120 | 
-| 2023-01-23 | 448 | 120 | 
 

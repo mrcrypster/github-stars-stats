@@ -1,6 +1,6 @@
 # tiltedphoques/TiltedEvolution - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 799 | 142 | 
 | 2023-02-21 | 799 | 142 | 
 | 2023-02-20 | 797 | 142 | 
 | 2023-02-19 | 795 | 142 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 772 | 137 | 
 | 2023-01-25 | 772 | 137 | 
 | 2023-01-24 | 772 | 137 | 
-| 2023-01-23 | 771 | 137 | 
 

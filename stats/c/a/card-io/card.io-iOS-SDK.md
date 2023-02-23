@@ -1,8 +1,8 @@
 # card-io/card.io-iOS-SDK - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 568
+☋ Forks: 567
 
 ★ Stars: 2279
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2279 | 567 | 
 | 2023-02-21 | 2279 | 568 | 
 | 2023-02-20 | 2279 | 568 | 
 | 2023-02-19 | 2279 | 568 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2279 | 569 | 
 | 2023-01-25 | 2279 | 569 | 
 | 2023-01-24 | 2279 | 569 | 
-| 2023-01-23 | 2279 | 569 | 
 

@@ -1,6 +1,6 @@
 # nnn-training/intro-curriculum-3019 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 171 | 
 | 2023-02-21 | - | 171 | 
 | 2023-02-20 | - | 171 | 
 | 2023-02-18 | - | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | - | 166 | 
 | 2023-01-25 | - | 166 | 
 | 2023-01-24 | - | 166 | 
-| 2023-01-23 | - | 164 | 
 

@@ -1,10 +1,10 @@
 # Sorumi/UnityFurShader - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 104
 
-★ Stars: 696
+★ Stars: 697
 
 [Open repository](https://github.com/Sorumi/UnityFurShader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 697 | 104 | 
 | 2023-02-21 | 696 | 104 | 
 | 2023-02-20 | 695 | 104 | 
 | 2023-02-19 | 695 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 680 | 103 | 
 | 2023-01-25 | 680 | 103 | 
 | 2023-01-24 | 679 | 103 | 
-| 2023-01-23 | 679 | 103 | 
 

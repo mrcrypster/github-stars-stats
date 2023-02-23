@@ -1,6 +1,6 @@
 # ta-data-lis/lab-mysql-select - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1 | 173 | 
 | 2023-02-21 | 1 | 173 | 
 | 2023-02-19 | 1 | 173 | 
 | 2023-02-18 | 1 | 173 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1 | 168 | 
 | 2023-01-25 | 1 | 168 | 
 | 2023-01-24 | 1 | 165 | 
-| 2023-01-23 | 1 | 164 | 
 

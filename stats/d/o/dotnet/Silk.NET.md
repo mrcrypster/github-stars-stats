@@ -1,10 +1,10 @@
 # dotnet/Silk.NET - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 262
 
-★ Stars: 2537
+★ Stars: 2539
 
 [Open repository](https://github.com/dotnet/Silk.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2539 | 262 | 
 | 2023-02-21 | 2537 | 262 | 
 | 2023-02-20 | 2536 | 262 | 
 | 2023-02-19 | 2532 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2461 | 260 | 
 | 2023-01-25 | 2457 | 260 | 
 | 2023-01-24 | 2454 | 259 | 
-| 2023-01-23 | 2448 | 258 | 
 

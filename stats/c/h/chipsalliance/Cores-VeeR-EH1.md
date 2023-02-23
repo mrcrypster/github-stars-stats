@@ -1,6 +1,6 @@
 # chipsalliance/Cores-VeeR-EH1 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 658 | 180 | 
 | 2023-02-21 | 658 | 180 | 
 | 2023-02-20 | 658 | 179 | 
 | 2023-02-19 | 657 | 179 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 654 | 178 | 
 | 2023-01-25 | 654 | 178 | 
 | 2023-01-24 | 654 | 178 | 
-| 2023-01-23 | 654 | 178 | 
 

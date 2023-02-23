@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 22
 
 ☋ Forks: 67
 
-★ Stars: 744
+★ Stars: 745
 
 [Open repository](https://github.com/ecosse3/nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 744 | 67 | 
+| 2023-02-22 | 745 | 67 | 
 | 2023-02-21 | 744 | 67 | 
 | 2023-02-20 | 740 | 66 | 
 | 2023-02-19 | 737 | 67 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 720 | 65 | 
 | 2023-01-26 | 719 | 65 | 
 | 2023-01-25 | 719 | 66 | 
-| 2023-01-24 | 717 | 65 | 
 

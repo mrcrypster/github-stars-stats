@@ -1,10 +1,10 @@
 # rajarshimaitra/rust-nostr - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 13
 
-★ Stars: 112
+★ Stars: 114
 
 [Open repository](https://github.com/rajarshimaitra/rust-nostr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 114 | 13 | 
 | 2023-02-21 | 112 | 13 | 
 | 2023-02-20 | 111 | 13 | 
 | 2023-02-19 | 111 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 90 | 10 | 
 | 2023-01-25 | 89 | 10 | 
 | 2023-01-24 | 87 | 10 | 
-| 2023-01-23 | 86 | 10 | 
 

@@ -1,10 +1,10 @@
 # Saecki/crates.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 12
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/Saecki/crates.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 393 | 12 | 
 | 2023-02-21 | 392 | 12 | 
 | 2023-02-19 | 391 | 12 | 
 | 2023-02-18 | 389 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 370 | 11 | 
 | 2023-01-25 | 370 | 11 | 
 | 2023-01-24 | 367 | 11 | 
-| 2023-01-23 | 364 | 11 | 
 

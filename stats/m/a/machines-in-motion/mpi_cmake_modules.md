@@ -1,10 +1,10 @@
 # machines-in-motion/mpi_cmake_modules - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/machines-in-motion/mpi_cmake_modules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5 | 2 | 
 | 2023-02-21 | 4 | 2 | 
 | 2023-02-19 | 3 | 2 | 
 | 2023-02-18 | 3 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3 | 2 | 
 | 2023-01-25 | 3 | 2 | 
 | 2023-01-24 | 3 | 2 | 
-| 2023-01-23 | 3 | 2 | 
 

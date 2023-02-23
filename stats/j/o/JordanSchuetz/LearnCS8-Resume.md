@@ -1,10 +1,10 @@
 # JordanSchuetz/LearnCS8-Resume - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 126
+☋ Forks: 127
 
-★ Stars: 5916
+★ Stars: 5962
 
 [Open repository](https://github.com/JordanSchuetz/LearnCS8-Resume)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5962 | 127 | 
 | 2023-02-21 | 5916 | 126 | 
 | 2023-02-20 | 5901 | 126 | 
 | 2023-02-19 | 5892 | 126 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 5852 | 126 | 
 | 2023-01-25 | 5852 | 126 | 
 | 2023-01-24 | 5851 | 126 | 
-| 2023-01-23 | 5850 | 126 | 
 

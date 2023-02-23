@@ -1,10 +1,10 @@
 # aircrack-ng/aircrack-ng - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 761
 
-★ Stars: 3630
+★ Stars: 3632
 
 [Open repository](https://github.com/aircrack-ng/aircrack-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3632 | 761 | 
 | 2023-02-21 | 3630 | 761 | 
 | 2023-02-20 | 3630 | 760 | 
 | 2023-02-19 | 3624 | 760 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3559 | 747 | 
 | 2023-01-25 | 3557 | 747 | 
 | 2023-01-24 | 3555 | 747 | 
-| 2023-01-23 | 3554 | 747 | 
 

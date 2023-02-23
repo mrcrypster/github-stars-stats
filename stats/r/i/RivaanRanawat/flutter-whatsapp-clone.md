@@ -1,10 +1,10 @@
 # RivaanRanawat/flutter-whatsapp-clone - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 82
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/RivaanRanawat/flutter-whatsapp-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 153 | 82 | 
 | 2023-02-21 | 152 | 82 | 
 | 2023-02-20 | 151 | 82 | 
 | 2023-02-19 | 151 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 144 | 77 | 
 | 2023-01-25 | 144 | 77 | 
 | 2023-01-24 | 144 | 76 | 
-| 2023-01-23 | 144 | 76 | 
 

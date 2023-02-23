@@ -1,6 +1,6 @@
 # janraasch/hugo-bearblog - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 437 | 102 | 
 | 2023-02-21 | 437 | 102 | 
 | 2023-02-20 | 437 | 101 | 
 | 2023-02-18 | 436 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 420 | 96 | 
 | 2023-01-25 | 419 | 96 | 
 | 2023-01-24 | 417 | 96 | 
-| 2023-01-23 | 417 | 96 | 
 

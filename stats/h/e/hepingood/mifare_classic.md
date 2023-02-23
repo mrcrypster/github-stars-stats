@@ -1,10 +1,10 @@
 # hepingood/mifare_classic - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 51
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/hepingood/mifare_classic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 154 | 51 | 
 | 2023-02-21 | 153 | 51 | 
 | 2023-02-19 | 153 | 51 | 
 | 2023-02-18 | 153 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 151 | 51 | 
 | 2023-01-25 | 151 | 51 | 
 | 2023-01-24 | 151 | 51 | 
-| 2023-01-23 | 151 | 51 | 
 

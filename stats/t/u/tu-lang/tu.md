@@ -1,10 +1,10 @@
 # tu-lang/tu - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/tu-lang/tu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 23 | 1 | 
 | 2023-02-21 | 22 | 1 | 
 | 2023-02-20 | 22 | 1 | 
 | 2023-02-19 | 22 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 20 | 1 | 
 | 2023-01-25 | 20 | 1 | 
 | 2023-01-24 | 20 | 1 | 
-| 2023-01-23 | 20 | 1 | 
 

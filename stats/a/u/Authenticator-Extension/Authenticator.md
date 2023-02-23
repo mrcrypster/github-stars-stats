@@ -1,10 +1,10 @@
 # Authenticator-Extension/Authenticator - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 523
 
-★ Stars: 1847
+★ Stars: 1848
 
 [Open repository](https://github.com/Authenticator-Extension/Authenticator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1848 | 523 | 
 | 2023-02-21 | 1847 | 523 | 
 | 2023-02-20 | 1847 | 523 | 
 | 2023-02-19 | 1846 | 522 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1810 | 516 | 
 | 2023-01-25 | 1811 | 515 | 
 | 2023-01-24 | 1809 | 514 | 
-| 2023-01-23 | 1808 | 514 | 
 

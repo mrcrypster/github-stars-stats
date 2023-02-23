@@ -1,6 +1,6 @@
 # RedHatOfficial/Overpass - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1877 | 88 | 
 | 2023-02-21 | 1877 | 88 | 
 | 2023-02-20 | 1876 | 88 | 
 | 2023-02-19 | 1876 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 1868 | 87 | 
 | 2023-01-25 | 1868 | 87 | 
 | 2023-01-24 | 1868 | 87 | 
-| 2023-01-23 | 1869 | 87 | 
 

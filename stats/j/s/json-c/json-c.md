@@ -1,6 +1,6 @@
 # json-c/json-c - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1030
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2625 | 1030 | 
 | 2023-02-21 | 2625 | 1030 | 
 | 2023-02-20 | 2625 | 1030 | 
 | 2023-02-19 | 2624 | 1030 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 2601 | 1029 | 
 | 2023-01-26 | 2601 | 1029 | 
 | 2023-01-25 | 2600 | 1029 | 
-| 2023-01-23 | 2600 | 1029 | 
 

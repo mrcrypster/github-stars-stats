@@ -1,10 +1,10 @@
 # McCLIM/McCLIM - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 123
 
-★ Stars: 566
+★ Stars: 567
 
 [Open repository](https://github.com/McCLIM/McCLIM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 567 | 123 | 
 | 2023-02-21 | 566 | 123 | 
 | 2023-02-20 | 565 | 123 | 
 | 2023-02-19 | 565 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 556 | 120 | 
 | 2023-01-25 | 556 | 120 | 
 | 2023-01-24 | 556 | 120 | 
-| 2023-01-23 | 556 | 120 | 
 

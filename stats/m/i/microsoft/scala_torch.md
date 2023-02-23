@@ -1,6 +1,6 @@
 # microsoft/scala_torch - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 107 | 5 | 
 | 2023-02-21 | 107 | 5 | 
 | 2023-02-20 | 107 | 5 | 
 | 2023-02-19 | 107 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 100 | 4 | 
 | 2023-01-25 | 99 | 4 | 
 | 2023-01-24 | 99 | 4 | 
-| 2023-01-23 | 99 | 4 | 
 

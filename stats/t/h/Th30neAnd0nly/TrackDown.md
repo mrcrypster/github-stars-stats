@@ -1,6 +1,6 @@
 # Th30neAnd0nly/TrackDown - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 61 | 49 | 
 | 2023-02-21 | 61 | 49 | 
 | 2023-02-20 | 60 | 49 | 
 | 2023-02-19 | 60 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 38 | 32 | 
 | 2023-01-25 | 37 | 32 | 
 | 2023-01-24 | 37 | 32 | 
-| 2023-01-23 | 36 | 32 | 
 

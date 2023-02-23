@@ -1,6 +1,6 @@
 # Artawower/file-info.el - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 43 | 3 | 
 | 2023-02-21 | 43 | 3 | 
 | 2023-02-20 | 42 | 3 | 
 | 2023-02-19 | 42 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 30 | 2 | 
 | 2023-01-25 | 28 | 2 | 
 | 2023-01-24 | 28 | 2 | 
-| 2023-01-23 | 28 | 2 | 
 

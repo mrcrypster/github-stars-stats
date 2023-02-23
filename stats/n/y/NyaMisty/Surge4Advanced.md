@@ -1,6 +1,6 @@
 # NyaMisty/Surge4Advanced - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 103 | 25 | 
 | 2023-02-21 | 103 | 25 | 
 | 2023-02-19 | 103 | 25 | 
 | 2023-02-18 | 103 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 103 | 24 | 
 | 2023-01-25 | 101 | 24 | 
 | 2023-01-24 | 100 | 24 | 
-| 2023-01-23 | 100 | 24 | 
 

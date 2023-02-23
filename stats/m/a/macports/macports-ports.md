@@ -1,6 +1,6 @@
 # macports/macports-ports - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1173
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1242 | 1173 | 
 | 2023-02-21 | 1242 | 1173 | 
 | 2023-02-20 | 1242 | 1172 | 
 | 2023-02-19 | 1242 | 1171 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1234 | 1158 | 
 | 2023-01-25 | 1231 | 1158 | 
 | 2023-01-24 | 1228 | 1158 | 
-| 2023-01-23 | 1229 | 1158 | 
 

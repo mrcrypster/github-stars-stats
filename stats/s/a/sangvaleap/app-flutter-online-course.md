@@ -1,10 +1,10 @@
 # sangvaleap/app-flutter-online-course - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 88
 
-★ Stars: 190
+★ Stars: 189
 
 [Open repository](https://github.com/sangvaleap/app-flutter-online-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 189 | 88 | 
 | 2023-02-21 | 190 | 88 | 
 | 2023-02-20 | 190 | 88 | 
 | 2023-02-19 | 190 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 191 | 87 | 
 | 2023-01-26 | 191 | 87 | 
 | 2023-01-25 | 191 | 87 | 
-| 2023-01-24 | 191 | 87 | 
 

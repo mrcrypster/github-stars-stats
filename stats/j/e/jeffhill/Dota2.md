@@ -1,10 +1,10 @@
 # jeffhill/Dota2 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 877
+★ Stars: 879
 
 [Open repository](https://github.com/jeffhill/Dota2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 879 | 41 | 
 | 2023-02-21 | 877 | 40 | 
 | 2023-02-20 | 877 | 40 | 
 | 2023-02-19 | 877 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 872 | 38 | 
 | 2023-01-25 | 872 | 38 | 
 | 2023-01-24 | 872 | 38 | 
-| 2023-01-23 | 871 | 37 | 
 

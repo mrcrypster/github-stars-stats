@@ -1,10 +1,10 @@
 # balena-os/balena-up-board - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/balena-os/balena-up-board)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5 | - | 
 | 2023-02-21 | 4 | - | 
 | 2023-02-20 | 4 | - | 
 | 2023-02-19 | 4 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4 | - | 
 | 2023-01-25 | 4 | - | 
 | 2023-01-24 | 4 | - | 
-| 2023-01-23 | 4 | - | 
 

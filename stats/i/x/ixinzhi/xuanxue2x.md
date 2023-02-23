@@ -1,10 +1,10 @@
 # ixinzhi/xuanxue2x - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/ixinzhi/xuanxue2x)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 34 | 10 | 
 | 2023-02-21 | 33 | 9 | 
 

@@ -1,10 +1,10 @@
 # PuerkitoBio/goquery - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 873
 
-★ Stars: 12286
+★ Stars: 12288
 
 [Open repository](https://github.com/PuerkitoBio/goquery)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 12288 | 873 | 
 | 2023-02-21 | 12286 | 873 | 
 | 2023-02-20 | 12282 | 873 | 
 | 2023-02-19 | 12277 | 873 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 12196 | 873 | 
 | 2023-01-25 | 12195 | 873 | 
 | 2023-01-24 | 12195 | 873 | 
-| 2023-01-23 | 12193 | 873 | 
 

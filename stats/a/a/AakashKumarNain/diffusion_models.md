@@ -1,6 +1,6 @@
 # AakashKumarNain/diffusion_models - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 127 | 3 | 
 | 2023-02-21 | 127 | 3 | 
 | 2023-02-19 | 127 | 3 | 
 | 2023-02-18 | 127 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 127 | 3 | 
 | 2023-01-25 | 127 | 3 | 
 | 2023-01-24 | 127 | 3 | 
-| 2023-01-23 | 127 | 3 | 
 

@@ -1,6 +1,6 @@
 # matsonj/nba-monte-carlo - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 136 | 33 | 
 | 2023-02-21 | 136 | 33 | 
 | 2023-02-19 | 135 | 33 | 
 | 2023-02-18 | 135 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 123 | 32 | 
 | 2023-01-26 | 123 | 32 | 
 | 2023-01-25 | 120 | 32 | 
-| 2023-01-24 | 120 | 32 | 
 

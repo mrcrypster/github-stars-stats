@@ -1,6 +1,6 @@
 # ecmwf/fckit - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 23 | 8 | 
 | 2023-02-21 | 23 | 8 | 
 | 2023-02-20 | 23 | 8 | 
 | 2023-02-19 | 23 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 22 | 8 | 
 | 2023-01-25 | 22 | 8 | 
 | 2023-01-24 | 22 | 8 | 
-| 2023-01-23 | 22 | 8 | 
 

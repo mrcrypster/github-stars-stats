@@ -1,6 +1,6 @@
 # purplg/hass - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 73 | 5 | 
 | 2023-02-21 | 73 | 5 | 
 | 2023-02-20 | 72 | 5 | 
 | 2023-02-19 | 72 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 72 | 4 | 
 | 2023-01-25 | 72 | 4 | 
 | 2023-01-24 | 72 | 4 | 
-| 2023-01-23 | 70 | 4 | 
 

@@ -1,6 +1,6 @@
 # alexmercerind/media_kit - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 112 | 6 | 
 | 2023-02-21 | 112 | 6 | 
 | 2023-02-20 | 110 | 6 | 
 | 2023-02-19 | 108 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 84 | 5 | 
 | 2023-01-26 | 83 | 5 | 
 | 2023-01-25 | 82 | 5 | 
-| 2023-01-24 | 79 | 5 | 
 

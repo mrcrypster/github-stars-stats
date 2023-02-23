@@ -1,6 +1,6 @@
 # st--/annotate-equations - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 161 | 5 | 
 | 2023-02-21 | 161 | 5 | 
 | 2023-02-20 | 161 | 5 | 
 | 2023-02-19 | 161 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 152 | 4 | 
 | 2023-01-25 | 152 | 4 | 
 | 2023-01-24 | 152 | 4 | 
-| 2023-01-23 | 151 | 4 | 
 

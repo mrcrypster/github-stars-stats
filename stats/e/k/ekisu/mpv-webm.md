@@ -1,10 +1,10 @@
 # ekisu/mpv-webm - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 23
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/ekisu/mpv-webm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 449 | 23 | 
 | 2023-02-21 | 448 | 23 | 
 | 2023-02-20 | 447 | 23 | 
 | 2023-02-19 | 446 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 416 | 23 | 
 | 2023-01-25 | 416 | 23 | 
 | 2023-01-24 | 416 | 23 | 
-| 2023-01-23 | 416 | 23 | 
 

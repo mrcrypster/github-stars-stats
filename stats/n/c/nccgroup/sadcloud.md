@@ -1,10 +1,10 @@
 # nccgroup/sadcloud - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 72
 
-★ Stars: 482
+★ Stars: 484
 
 [Open repository](https://github.com/nccgroup/sadcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 484 | 72 | 
 | 2023-02-21 | 482 | 72 | 
 | 2023-02-20 | 482 | 72 | 
 | 2023-02-19 | 482 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 475 | 72 | 
 | 2023-01-26 | 475 | 72 | 
 | 2023-01-25 | 475 | 72 | 
-| 2023-01-24 | 475 | 72 | 
 

@@ -1,10 +1,10 @@
 # lucidrains/lion-pytorch - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 14
+☋ Forks: 17
 
-★ Stars: 719
+★ Stars: 783
 
 [Open repository](https://github.com/lucidrains/lion-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 783 | 17 | 
 | 2023-02-21 | 719 | 14 | 
 | 2023-02-20 | 672 | 11 | 
 | 2023-02-19 | 607 | 10 | 

@@ -1,6 +1,6 @@
 # wolfogre/go-pprof-practice - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 364 | 114 | 
 | 2023-02-21 | 364 | 114 | 
 | 2023-02-20 | 363 | 114 | 
 | 2023-02-19 | 362 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 348 | 109 | 
 | 2023-01-25 | 348 | 109 | 
 | 2023-01-24 | 347 | 108 | 
-| 2023-01-23 | 346 | 107 | 
 

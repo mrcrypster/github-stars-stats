@@ -1,6 +1,6 @@
 # DeterminateSystems/riff - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 429 | 14 | 
 | 2023-02-21 | 429 | 14 | 
 | 2023-02-20 | 427 | 14 | 
 | 2023-02-19 | 425 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 413 | 14 | 
 | 2023-01-26 | 412 | 14 | 
 | 2023-01-25 | 411 | 14 | 
-| 2023-01-24 | 407 | 14 | 
 

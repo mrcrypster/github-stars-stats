@@ -1,6 +1,6 @@
 # TerraMap/windows - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 69 | 11 | 
 | 2023-02-21 | 69 | 11 | 
 | 2023-02-19 | 67 | 11 | 
 | 2023-02-18 | 67 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 66 | 10 | 
 | 2023-01-25 | 65 | 10 | 
 | 2023-01-24 | 65 | 10 | 
-| 2023-01-23 | 65 | 10 | 
 

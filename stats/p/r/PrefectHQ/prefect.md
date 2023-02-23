@@ -1,10 +1,10 @@
 # PrefectHQ/prefect - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1128
+☋ Forks: 1130
 
-★ Stars: 11341
+★ Stars: 11349
 
 [Open repository](https://github.com/PrefectHQ/prefect)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 11349 | 1130 | 
 | 2023-02-21 | 11341 | 1128 | 
 | 2023-02-19 | 11327 | 1126 | 
 | 2023-02-18 | 11323 | 1126 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 11071 | 1105 | 
 | 2023-01-25 | 11066 | 1106 | 
 | 2023-01-24 | 11055 | 1103 | 
-| 2023-01-23 | 11041 | 1101 | 
 

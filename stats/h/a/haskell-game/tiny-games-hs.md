@@ -1,8 +1,8 @@
 # haskell-game/tiny-games-hs - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 69 | 25 | 
 | 2023-02-21 | 69 | 24 | 
 | 2023-02-20 | 69 | 24 | 
 | 2023-02-19 | 69 | 24 | 

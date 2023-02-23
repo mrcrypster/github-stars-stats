@@ -1,10 +1,10 @@
 # ryansheehan/terraria - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 95
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/ryansheehan/terraria)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 220 | 95 | 
 | 2023-02-21 | 219 | 95 | 
 | 2023-02-19 | 219 | 94 | 
 | 2023-02-18 | 219 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 214 | 94 | 
 | 2023-01-25 | 214 | 94 | 
 | 2023-01-24 | 214 | 94 | 
-| 2023-01-23 | 214 | 94 | 
 

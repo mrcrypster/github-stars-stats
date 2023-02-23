@@ -1,10 +1,10 @@
 # p-org/P - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 158
 
-★ Stars: 2676
+★ Stars: 2678
 
 [Open repository](https://github.com/p-org/P)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2678 | 158 | 
 | 2023-02-21 | 2676 | 158 | 
 | 2023-02-19 | 2677 | 158 | 
 | 2023-02-18 | 2676 | 158 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 2663 | 156 | 
 | 2023-01-26 | 2663 | 156 | 
 | 2023-01-25 | 2663 | 156 | 
-| 2023-01-24 | 2663 | 156 | 
 

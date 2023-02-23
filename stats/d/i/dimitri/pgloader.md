@@ -1,10 +1,10 @@
 # dimitri/pgloader - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 483
 
-★ Stars: 4390
+★ Stars: 4394
 
 [Open repository](https://github.com/dimitri/pgloader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4394 | 483 | 
 | 2023-02-21 | 4390 | 483 | 
 | 2023-02-20 | 4388 | 483 | 
 | 2023-02-19 | 4386 | 484 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4358 | 478 | 
 | 2023-01-25 | 4357 | 478 | 
 | 2023-01-24 | 4355 | 478 | 
-| 2023-01-23 | 4355 | 478 | 
 

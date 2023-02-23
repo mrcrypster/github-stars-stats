@@ -1,6 +1,6 @@
 # tjmahr/aoc - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 27 | 2 | 
 | 2023-02-21 | 27 | 2 | 
 | 2023-02-20 | 27 | 2 | 
 | 2023-02-19 | 27 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 27 | 2 | 
 | 2023-01-25 | 27 | 2 | 
 | 2023-01-24 | 27 | 2 | 
-| 2023-01-23 | 27 | 2 | 
 

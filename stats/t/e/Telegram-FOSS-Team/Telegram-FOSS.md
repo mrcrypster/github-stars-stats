@@ -1,10 +1,10 @@
 # Telegram-FOSS-Team/Telegram-FOSS - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 326
 
-★ Stars: 2053
+★ Stars: 2054
 
 [Open repository](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2054 | 326 | 
 | 2023-02-21 | 2053 | 326 | 
 | 2023-02-20 | 2053 | 326 | 
 | 2023-02-19 | 2052 | 326 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2030 | 323 | 
 | 2023-01-25 | 2029 | 323 | 
 | 2023-01-24 | 2027 | 323 | 
-| 2023-01-23 | 2023 | 323 | 
 

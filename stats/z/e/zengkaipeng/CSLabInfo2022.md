@@ -1,10 +1,10 @@
 # zengkaipeng/CSLabInfo2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 304
+★ Stars: 303
 
 [Open repository](https://github.com/zengkaipeng/CSLabInfo2022)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 303 | 57 | 
 | 2023-02-22 | 304 | 56 | 
 | 2023-02-20 | 304 | 56 | 
 | 2023-02-19 | 304 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 300 | 48 | 
 | 2023-01-25 | 300 | 48 | 
 | 2023-01-24 | 300 | 48 | 
-| 2023-01-23 | 300 | 48 | 
 

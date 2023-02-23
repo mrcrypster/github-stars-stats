@@ -1,6 +1,6 @@
 # magicblack/maccms10 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 584
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1483 | 584 | 
 | 2023-02-21 | 1483 | 584 | 
 | 2023-02-20 | 1481 | 584 | 
 | 2023-02-19 | 1480 | 584 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1451 | 569 | 
 | 2023-01-25 | 1451 | 569 | 
 | 2023-01-24 | 1450 | 569 | 
-| 2023-01-23 | 1449 | 568 | 
 

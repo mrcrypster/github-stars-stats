@@ -1,6 +1,6 @@
 # StefanSalewski/salewski-chess - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 18 | - | 
 | 2023-02-21 | 18 | - | 
 | 2023-02-20 | 18 | - | 
 | 2023-02-19 | 18 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 18 | - | 
 | 2023-01-26 | 18 | - | 
 | 2023-01-24 | 18 | - | 
-| 2023-01-23 | 18 | - | 
 

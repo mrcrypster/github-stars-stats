@@ -1,8 +1,8 @@
 # vantagedesign/ace-documentation - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 93 | 70 | 
 | 2023-02-21 | 93 | 69 | 
 | 2023-02-20 | 93 | 69 | 
 | 2023-02-19 | 93 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 91 | 67 | 
 | 2023-01-25 | 91 | 67 | 
 | 2023-01-24 | 91 | 67 | 
-| 2023-01-23 | 91 | 67 | 
 

@@ -1,6 +1,6 @@
 # NHSDigital/nhs-login-help-centre - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6 | 5 | 
 | 2023-02-21 | 6 | 5 | 
 | 2023-02-20 | 6 | 5 | 
 | 2023-02-19 | 6 | 5 | 

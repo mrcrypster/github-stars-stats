@@ -1,8 +1,8 @@
 # mattjbray/ocaml-decoders - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 76 | 8 | 
 | 2023-02-21 | 76 | 7 | 
 | 2023-02-20 | 76 | 7 | 
 | 2023-02-19 | 76 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 76 | 7 | 
 | 2023-01-25 | 76 | 7 | 
 | 2023-01-24 | 76 | 7 | 
-| 2023-01-23 | 76 | 7 | 
 

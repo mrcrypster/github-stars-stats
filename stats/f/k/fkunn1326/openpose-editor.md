@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 22
 
-☋ Forks: 20
+☋ Forks: 25
 
-★ Stars: 305
+★ Stars: 378
 
 [Open repository](https://github.com/fkunn1326/openpose-editor)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 305 | 20 | 
+| 2023-02-22 | 378 | 25 | 
 | 2023-02-21 | 287 | 17 | 
 

@@ -1,10 +1,10 @@
 # CorentinTh/it-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 81
 
-★ Stars: 597
+★ Stars: 598
 
 [Open repository](https://github.com/CorentinTh/it-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 598 | 81 | 
 | 2023-02-20 | 597 | 81 | 
 | 2023-02-19 | 595 | 82 | 
 | 2023-02-18 | 596 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 432 | 61 | 
 | 2023-01-25 | 431 | 61 | 
 | 2023-01-24 | 431 | 61 | 
-| 2023-01-23 | 431 | 61 | 
 

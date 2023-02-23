@@ -1,6 +1,6 @@
 # numtide/nixos-remote - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 120 | 7 | 
 | 2023-02-21 | 120 | 7 | 
 | 2023-02-19 | 118 | 7 | 
 | 2023-02-18 | 118 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 75 | 3 | 
 | 2023-01-25 | 75 | 3 | 
 | 2023-01-24 | 74 | 3 | 
-| 2023-01-23 | 74 | 3 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 22
 
 ☋ Forks: 520
 
-★ Stars: 1766
+★ Stars: 1771
 
 [Open repository](https://github.com/yzhu798/CodingInterviewsNotes)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 1766 | 520 | 
+| 2023-02-22 | 1771 | 520 | 
 | 2023-02-21 | 1765 | 520 | 
 | 2023-02-20 | 1758 | 519 | 
 | 2023-02-19 | 1753 | 517 | 

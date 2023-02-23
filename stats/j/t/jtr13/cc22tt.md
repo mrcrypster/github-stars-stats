@@ -1,6 +1,6 @@
 # jtr13/cc22tt - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3 | 78 | 
 | 2023-02-21 | 3 | 78 | 
 | 2023-02-20 | 3 | 78 | 
 | 2023-02-19 | 3 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 3 | 78 | 
 | 2023-01-25 | 3 | 78 | 
 | 2023-01-24 | 3 | 78 | 
-| 2023-01-23 | 3 | 78 | 
 

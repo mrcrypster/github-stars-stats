@@ -1,10 +1,10 @@
 # bromite/bromite - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 270
 
-★ Stars: 5022
+★ Stars: 5029
 
 [Open repository](https://github.com/bromite/bromite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5029 | 270 | 
 | 2023-02-21 | 5022 | 270 | 
 | 2023-02-20 | 5016 | 269 | 
 | 2023-02-18 | 5012 | 269 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4913 | 265 | 
 | 2023-01-25 | 4904 | 264 | 
 | 2023-01-24 | 4902 | 264 | 
-| 2023-01-23 | 4902 | 264 | 
 

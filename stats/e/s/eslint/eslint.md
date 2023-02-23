@@ -1,10 +1,10 @@
 # eslint/eslint - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4070
 
-★ Stars: 22229
+★ Stars: 22231
 
 [Open repository](https://github.com/eslint/eslint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 22231 | 4070 | 
 | 2023-02-21 | 22229 | 4070 | 
 | 2023-02-20 | 22218 | 4065 | 
 | 2023-02-19 | 22214 | 4062 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 22088 | 4026 | 
 | 2023-01-25 | 22083 | 4025 | 
 | 2023-01-24 | 22079 | 4026 | 
-| 2023-01-23 | 22077 | 4026 | 
 

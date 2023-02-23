@@ -1,10 +1,10 @@
 # fzlzl/nas-tools-Docker - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/fzlzl/nas-tools-Docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6 | 39 | 
 | 2023-02-21 | 5 | 38 | 
 | 2023-02-20 | 5 | 36 | 
 | 2023-02-19 | 5 | 35 | 

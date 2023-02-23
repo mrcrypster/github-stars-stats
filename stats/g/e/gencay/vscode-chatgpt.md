@@ -1,10 +1,10 @@
 # gencay/vscode-chatgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 83
 
-★ Stars: 565
+★ Stars: 575
 
 [Open repository](https://github.com/gencay/vscode-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 575 | 83 | 
 | 2023-02-21 | 565 | 83 | 
 | 2023-02-20 | 545 | 80 | 
 | 2023-02-19 | 534 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 226 | 36 | 
 | 2023-01-25 | 221 | 35 | 
 | 2023-01-24 | 214 | 34 | 
-| 2023-01-23 | 209 | 33 | 
 

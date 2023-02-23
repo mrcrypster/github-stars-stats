@@ -1,10 +1,10 @@
 # cookiecutter/cookiecutter - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1787
 
-★ Stars: 18954
+★ Stars: 18965
 
 [Open repository](https://github.com/cookiecutter/cookiecutter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 18965 | 1787 | 
 | 2023-02-21 | 18954 | 1787 | 
 | 2023-02-19 | 18949 | 1787 | 
 | 2023-02-18 | 18943 | 1787 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 18779 | 1777 | 
 | 2023-01-25 | 18768 | 1777 | 
 | 2023-01-24 | 18760 | 1777 | 
-| 2023-01-23 | 18758 | 1776 | 
 

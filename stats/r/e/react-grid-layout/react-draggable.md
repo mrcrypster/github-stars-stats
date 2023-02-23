@@ -1,10 +1,10 @@
 # react-grid-layout/react-draggable - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 987
+☋ Forks: 988
 
-★ Stars: 8143
+★ Stars: 8146
 
 [Open repository](https://github.com/react-grid-layout/react-draggable)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 8146 | 988 | 
+| 2023-02-22 | 8145 | 988 | 
 | 2023-02-21 | 8143 | 987 | 
 | 2023-02-20 | 8137 | 986 | 
 | 2023-02-19 | 8135 | 985 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 8097 | 976 | 
 | 2023-01-26 | 8096 | 976 | 
 | 2023-01-24 | 8096 | 976 | 
-| 2023-01-23 | 8096 | 976 | 
 

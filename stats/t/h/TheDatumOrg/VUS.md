@@ -1,8 +1,8 @@
 # TheDatumOrg/VUS - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 45
+☋ Forks: 44
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 52 | 44 | 
 | 2023-02-21 | 52 | 45 | 
 | 2023-02-20 | 52 | 45 | 
 | 2023-02-19 | 52 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 53 | 46 | 
 | 2023-01-25 | 53 | 47 | 
 | 2023-01-24 | 53 | 47 | 
-| 2023-01-23 | 53 | 47 | 
 

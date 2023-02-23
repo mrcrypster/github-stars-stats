@@ -1,6 +1,6 @@
 # DartCodeschool/arithmetic_operators - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1 | 14 | 
 | 2023-02-21 | 1 | 14 | 
 | 2023-02-20 | 1 | 14 | 
 | 2023-02-19 | 1 | 12 | 

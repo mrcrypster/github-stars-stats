@@ -1,6 +1,6 @@
 # rajatmala/Letusgopal - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | - | 6 | 
 | 2023-02-21 | - | 6 | 
 | 2023-02-20 | - | 6 | 
 | 2023-02-19 | - | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2 | 10 | 
 | 2023-01-25 | 2 | 10 | 
 | 2023-01-24 | 2 | 10 | 
-| 2023-01-23 | 2 | 10 | 
 

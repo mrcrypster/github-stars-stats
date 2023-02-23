@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 22
 
-☋ Forks: 39
+☋ Forks: 41
 
-★ Stars: 32
+★ Stars: 34
 
 [Open repository](https://github.com/LinkedInLearning/python-essential-training-4314028)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 32 | 39 | 
+| 2023-02-22 | 34 | 41 | 
 | 2023-02-21 | 32 | 38 | 
 

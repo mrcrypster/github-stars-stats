@@ -1,10 +1,10 @@
 # ChainSafe/web3.unity - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 204
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/ChainSafe/web3.unity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 778 | 204 | 
 | 2023-02-21 | 777 | 204 | 
 | 2023-02-20 | 778 | 203 | 
 | 2023-02-19 | 777 | 203 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 763 | 196 | 
 | 2023-01-26 | 763 | 196 | 
 | 2023-01-25 | 764 | 195 | 
-| 2023-01-24 | 763 | 194 | 
 

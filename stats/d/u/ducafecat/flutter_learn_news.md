@@ -1,10 +1,10 @@
 # ducafecat/flutter_learn_news - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 370
+★ Stars: 369
 
 [Open repository](https://github.com/ducafecat/flutter_learn_news)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 369 | 105 | 
 | 2023-02-21 | 370 | 104 | 
 | 2023-02-20 | 370 | 104 | 
 | 2023-02-18 | 370 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 364 | 103 | 
 | 2023-01-25 | 364 | 103 | 
 | 2023-01-24 | 364 | 103 | 
-| 2023-01-23 | 364 | 103 | 
 

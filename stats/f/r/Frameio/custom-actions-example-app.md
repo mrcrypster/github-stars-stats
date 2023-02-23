@@ -1,6 +1,6 @@
 # Frameio/custom-actions-example-app - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4 | 7 | 
 | 2023-02-21 | 4 | 7 | 
 | 2023-02-20 | 4 | 7 | 
 | 2023-02-19 | 4 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4 | 7 | 
 | 2023-01-25 | 4 | 7 | 
 | 2023-01-24 | 4 | 7 | 
-| 2023-01-23 | 4 | 7 | 
 

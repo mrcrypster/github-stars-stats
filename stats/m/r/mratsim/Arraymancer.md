@@ -1,10 +1,10 @@
 # mratsim/Arraymancer - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 91
 
-★ Stars: 1077
+★ Stars: 1078
 
 [Open repository](https://github.com/mratsim/Arraymancer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1078 | 91 | 
 | 2023-02-21 | 1077 | 91 | 
 | 2023-02-19 | 1076 | 91 | 
 | 2023-02-18 | 1075 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1063 | 91 | 
 | 2023-01-25 | 1062 | 90 | 
 | 2023-01-24 | 1062 | 90 | 
-| 2023-01-23 | 1061 | 90 | 
 

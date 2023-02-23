@@ -1,8 +1,8 @@
 # fabferri/az-pattern - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 91 | 45 | 
 | 2023-02-21 | 91 | 44 | 
 | 2023-02-19 | 90 | 44 | 
 | 2023-02-18 | 90 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 88 | 42 | 
 | 2023-01-26 | 88 | 42 | 
 | 2023-01-25 | 88 | 42 | 
-| 2023-01-24 | 88 | 42 | 
 

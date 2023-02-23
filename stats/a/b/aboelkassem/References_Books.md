@@ -1,6 +1,6 @@
 # aboelkassem/References_Books - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 295 | 92 | 
 | 2023-02-21 | 295 | 92 | 
 | 2023-02-20 | 295 | 92 | 
 | 2023-02-19 | 290 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 272 | 89 | 
 | 2023-01-26 | 272 | 89 | 
 | 2023-01-25 | 272 | 89 | 
-| 2023-01-23 | 271 | 89 | 
 

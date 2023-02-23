@@ -1,6 +1,6 @@
 # NothingOSS/android_kernel_devicetree_nothing_sm7325 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 77 | 9 | 
 | 2023-02-21 | 77 | 9 | 
 | 2023-02-19 | 77 | 9 | 
 | 2023-02-18 | 77 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 76 | 10 | 
 | 2023-01-25 | 76 | 10 | 
 | 2023-01-24 | 75 | 10 | 
-| 2023-01-23 | 75 | 10 | 
 

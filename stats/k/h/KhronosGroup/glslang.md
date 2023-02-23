@@ -1,10 +1,10 @@
 # KhronosGroup/glslang - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 709
+☋ Forks: 710
 
-★ Stars: 2410
+★ Stars: 2413
 
 [Open repository](https://github.com/KhronosGroup/glslang)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2413 | 710 | 
 | 2023-02-21 | 2410 | 709 | 
 | 2023-02-20 | 2410 | 709 | 
 | 2023-02-19 | 2410 | 707 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2387 | 698 | 
 | 2023-01-25 | 2385 | 698 | 
 | 2023-01-24 | 2384 | 697 | 
-| 2023-01-23 | 2384 | 698 | 
 

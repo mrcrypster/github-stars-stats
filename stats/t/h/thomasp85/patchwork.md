@@ -1,10 +1,10 @@
 # thomasp85/patchwork - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 153
 
-★ Stars: 2180
+★ Stars: 2182
 
 [Open repository](https://github.com/thomasp85/patchwork)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2182 | 153 | 
 | 2023-02-21 | 2180 | 153 | 
 | 2023-02-19 | 2179 | 153 | 
 | 2023-02-18 | 2179 | 153 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2177 | 153 | 
 | 2023-01-25 | 2175 | 153 | 
 | 2023-01-24 | 2175 | 153 | 
-| 2023-01-23 | 2173 | 153 | 
 

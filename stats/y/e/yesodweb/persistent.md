@@ -1,10 +1,10 @@
 # yesodweb/persistent - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 281
 
-★ Stars: 434
+★ Stars: 435
 
 [Open repository](https://github.com/yesodweb/persistent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 435 | 281 | 
 | 2023-02-22 | 434 | 281 | 
 | 2023-02-20 | 434 | 281 | 
 | 2023-02-19 | 434 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 432 | 280 | 
 | 2023-01-25 | 432 | 280 | 
 | 2023-01-24 | 432 | 280 | 
-| 2023-01-23 | 432 | 280 | 
 

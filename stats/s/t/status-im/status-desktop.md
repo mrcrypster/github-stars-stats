@@ -1,6 +1,6 @@
 # status-im/status-desktop - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 196 | 56 | 
 | 2023-02-21 | 196 | 56 | 
 | 2023-02-20 | 196 | 56 | 
 | 2023-02-18 | 196 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 194 | 53 | 
 | 2023-01-25 | 194 | 53 | 
 | 2023-01-24 | 194 | 53 | 
-| 2023-01-23 | 194 | 53 | 
 

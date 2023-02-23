@@ -1,10 +1,10 @@
 # zigtools/protobruh - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/zigtools/protobruh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 29 | - | 
 | 2023-02-21 | 28 | - | 
 | 2023-02-20 | 28 | - | 
 | 2023-02-19 | 28 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 27 | - | 
 | 2023-01-26 | 27 | - | 
 | 2023-01-24 | 27 | - | 
-| 2023-01-23 | 27 | - | 
 

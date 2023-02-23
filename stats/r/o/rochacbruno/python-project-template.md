@@ -1,10 +1,10 @@
 # rochacbruno/python-project-template - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 106
+☋ Forks: 107
 
-★ Stars: 686
+★ Stars: 687
 
 [Open repository](https://github.com/rochacbruno/python-project-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 687 | 107 | 
 | 2023-02-21 | 686 | 106 | 
 | 2023-02-20 | 686 | 106 | 
 | 2023-02-18 | 686 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 671 | 102 | 
 | 2023-01-25 | 671 | 102 | 
 | 2023-01-24 | 671 | 102 | 
-| 2023-01-23 | 669 | 102 | 
 

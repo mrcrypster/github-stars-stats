@@ -1,10 +1,10 @@
 # FreeRDP/FreeRDP - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 21325
+☋ Forks: 21355
 
-★ Stars: 7905
+★ Stars: 7913
 
 [Open repository](https://github.com/FreeRDP/FreeRDP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7913 | 21355 | 
 | 2023-02-21 | 7905 | 21325 | 
 | 2023-02-19 | 7899 | 21299 | 
 | 2023-02-18 | 7897 | 21275 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 7820 | 20711 | 
 | 2023-01-25 | 7818 | 20689 | 
 | 2023-01-24 | 7815 | 20662 | 
-| 2023-01-23 | 7813 | 20628 | 
 

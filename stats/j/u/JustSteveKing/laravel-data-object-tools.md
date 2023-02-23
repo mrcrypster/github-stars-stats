@@ -1,10 +1,10 @@
 # JustSteveKing/laravel-data-object-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/JustSteveKing/laravel-data-object-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 52 | 5 | 
 | 2023-02-21 | 51 | 5 | 
 | 2023-02-20 | 51 | 5 | 
 | 2023-02-18 | 51 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 50 | 5 | 
 | 2023-01-25 | 50 | 5 | 
 | 2023-01-24 | 50 | 5 | 
-| 2023-01-23 | 50 | 5 | 
 

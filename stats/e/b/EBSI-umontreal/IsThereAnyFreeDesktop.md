@@ -1,8 +1,8 @@
 # EBSI-umontreal/IsThereAnyFreeDesktop - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1 | 66 | 
 | 2023-02-21 | 1 | 65 | 
 | 2023-02-19 | 1 | 62 | 
 | 2023-02-18 | 1 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | - | 46 | 
 | 2023-01-25 | - | 46 | 
 | 2023-01-24 | - | 46 | 
-| 2023-01-23 | - | 44 | 
 

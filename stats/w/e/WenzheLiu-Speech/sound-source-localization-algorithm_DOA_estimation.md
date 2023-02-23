@@ -1,6 +1,6 @@
 # WenzheLiu-Speech/sound-source-localization-algorithm_DOA_estimation - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 198 | 66 | 
 | 2023-02-21 | 198 | 66 | 
 | 2023-02-20 | 197 | 66 | 
 | 2023-02-19 | 197 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 192 | 65 | 
 | 2023-01-25 | 192 | 65 | 
 | 2023-01-24 | 192 | 65 | 
-| 2023-01-23 | 192 | 65 | 
 

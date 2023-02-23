@@ -1,6 +1,6 @@
 # jeszy75/pandoc-markdown-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 7 | 
 | 2023-02-20 | - | 7 | 
 | 2023-02-19 | - | 7 | 
 | 2023-02-18 | - | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-27 | - | 8 | 
 | 2023-01-26 | - | 8 | 
 | 2023-01-25 | - | 8 | 
-| 2023-01-24 | - | 8 | 
 

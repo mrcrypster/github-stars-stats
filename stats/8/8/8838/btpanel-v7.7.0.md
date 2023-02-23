@@ -1,8 +1,8 @@
 # 8838/btpanel-v7.7.0 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 164
+☋ Forks: 165
 
 ★ Stars: 233
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 233 | 165 | 
 | 2023-02-21 | 233 | 164 | 
 | 2023-02-20 | 232 | 164 | 
 | 2023-02-19 | 232 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 201 | 144 | 
 | 2023-01-25 | 201 | 144 | 
 | 2023-01-24 | 201 | 142 | 
-| 2023-01-23 | 201 | 142 | 
 

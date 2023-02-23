@@ -1,10 +1,10 @@
 # akullpp/awesome-java - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 7044
+☋ Forks: 7045
 
-★ Stars: 35482
+★ Stars: 35497
 
 [Open repository](https://github.com/akullpp/awesome-java)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 35497 | 7045 | 
 | 2023-02-21 | 35482 | 7044 | 
 | 2023-02-20 | 35470 | 7044 | 
 | 2023-02-19 | 35458 | 7044 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 35140 | 7024 | 
 | 2023-01-26 | 35133 | 7022 | 
 | 2023-01-25 | 35125 | 7020 | 
-| 2023-01-24 | 35120 | 7021 | 
 

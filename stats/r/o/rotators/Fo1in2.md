@@ -1,6 +1,6 @@
 # rotators/Fo1in2 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 269 | 18 | 
 | 2023-02-21 | 269 | 18 | 
 | 2023-02-19 | 269 | 18 | 
 | 2023-02-18 | 269 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 264 | 18 | 
 | 2023-01-25 | 264 | 18 | 
 | 2023-01-24 | 263 | 18 | 
-| 2023-01-23 | 263 | 18 | 
 

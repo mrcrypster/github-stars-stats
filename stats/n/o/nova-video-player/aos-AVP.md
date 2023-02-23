@@ -1,10 +1,10 @@
 # nova-video-player/aos-AVP - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 96
 
-★ Stars: 1034
+★ Stars: 1041
 
 [Open repository](https://github.com/nova-video-player/aos-AVP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1041 | 96 | 
 | 2023-02-21 | 1034 | 96 | 
 | 2023-02-20 | 1031 | 96 | 
 | 2023-02-19 | 1029 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 948 | 93 | 
 | 2023-01-25 | 947 | 93 | 
 | 2023-01-24 | 944 | 93 | 
-| 2023-01-23 | 942 | 92 | 
 

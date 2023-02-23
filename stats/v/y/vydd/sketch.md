@@ -1,8 +1,8 @@
 # vydd/sketch - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 1258
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1258 | 66 | 
 | 2023-02-21 | 1258 | 65 | 
 | 2023-02-20 | 1256 | 65 | 
 | 2023-02-18 | 1256 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1255 | 65 | 
 | 2023-01-25 | 1255 | 65 | 
 | 2023-01-24 | 1254 | 65 | 
-| 2023-01-23 | 1254 | 65 | 
 

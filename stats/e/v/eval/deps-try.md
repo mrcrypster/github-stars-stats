@@ -1,10 +1,10 @@
 # eval/deps-try - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/eval/deps-try)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 20 | 1 | 
 | 2023-02-21 | 19 | 1 | 
 | 2023-02-20 | 19 | 1 | 
 | 2023-02-19 | 19 | 1 | 

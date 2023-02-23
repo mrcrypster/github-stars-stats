@@ -1,6 +1,6 @@
 # DapperDino/Mirror-Multiplayer-Tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 118 | 113 | 
 | 2023-02-21 | 118 | 113 | 
 | 2023-02-20 | 118 | 113 | 
 | 2023-02-18 | 118 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 118 | 111 | 
 | 2023-01-25 | 118 | 111 | 
 | 2023-01-24 | 118 | 111 | 
-| 2023-01-23 | 118 | 110 | 
 

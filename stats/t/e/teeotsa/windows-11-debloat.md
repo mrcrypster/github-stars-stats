@@ -1,10 +1,10 @@
 # teeotsa/windows-11-debloat - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 51
 
-★ Stars: 385
+★ Stars: 387
 
 [Open repository](https://github.com/teeotsa/windows-11-debloat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 387 | 51 | 
 | 2023-02-21 | 385 | 51 | 
 | 2023-02-19 | 383 | 51 | 
 | 2023-02-18 | 382 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 363 | 48 | 
 | 2023-01-25 | 360 | 48 | 
 | 2023-01-24 | 359 | 48 | 
-| 2023-01-23 | 359 | 48 | 
 

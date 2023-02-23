@@ -1,6 +1,6 @@
 # dianping/cat - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5302
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 17542 | 5302 | 
 | 2023-02-21 | 17542 | 5302 | 
 | 2023-02-20 | 17539 | 5303 | 
 | 2023-02-19 | 17537 | 5301 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 17481 | 5297 | 
 | 2023-01-25 | 17481 | 5297 | 
 | 2023-01-24 | 17481 | 5297 | 
-| 2023-01-23 | 17481 | 5297 | 
 

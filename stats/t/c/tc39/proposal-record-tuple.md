@@ -1,6 +1,6 @@
 # tc39/proposal-record-tuple - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2213 | 64 | 
 | 2023-02-21 | 2213 | 64 | 
 | 2023-02-19 | 2212 | 64 | 
 | 2023-02-18 | 2212 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2189 | 63 | 
 | 2023-01-25 | 2189 | 63 | 
 | 2023-01-24 | 2188 | 63 | 
-| 2023-01-23 | 2188 | 63 | 
 

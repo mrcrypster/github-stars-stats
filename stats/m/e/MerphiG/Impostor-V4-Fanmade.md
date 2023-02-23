@@ -1,10 +1,10 @@
 # MerphiG/Impostor-V4-Fanmade - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/MerphiG/Impostor-V4-Fanmade)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6 | 15 | 
 | 2023-02-21 | 5 | 15 | 
 | 2023-02-20 | 5 | 15 | 
 | 2023-02-19 | 5 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 5 | 16 | 
 | 2023-01-25 | 5 | 16 | 
 | 2023-01-24 | 5 | 16 | 
-| 2023-01-23 | 5 | 16 | 
 

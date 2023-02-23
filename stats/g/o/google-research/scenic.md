@@ -1,10 +1,10 @@
 # google-research/scenic - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 245
+☋ Forks: 246
 
-★ Stars: 1765
+★ Stars: 1767
 
 [Open repository](https://github.com/google-research/scenic)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1767 | 246 | 
 | 2023-02-21 | 1765 | 245 | 
 | 2023-02-20 | 1760 | 244 | 
 | 2023-02-19 | 1758 | 244 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1683 | 229 | 
 | 2023-01-25 | 1680 | 229 | 
 | 2023-01-24 | 1676 | 229 | 
-| 2023-01-23 | 1674 | 229 | 
 

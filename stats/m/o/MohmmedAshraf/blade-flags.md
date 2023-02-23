@@ -1,6 +1,6 @@
 # MohmmedAshraf/blade-flags - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 159 | 15 | 
 | 2023-02-21 | 159 | 15 | 
 | 2023-02-20 | 159 | 15 | 
 | 2023-02-19 | 159 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 148 | 13 | 
 | 2023-01-25 | 147 | 12 | 
 | 2023-01-24 | 146 | 12 | 
-| 2023-01-23 | 146 | 12 | 
 

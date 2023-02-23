@@ -1,10 +1,10 @@
 # budtmo/docker-android - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 903
 
-★ Stars: 5401
+★ Stars: 5410
 
 [Open repository](https://github.com/budtmo/docker-android)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5410 | 903 | 
 | 2023-02-21 | 5401 | 903 | 
 | 2023-02-20 | 5399 | 903 | 
 | 2023-02-19 | 5393 | 902 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 5319 | 891 | 
 | 2023-01-25 | 5318 | 892 | 
 | 2023-01-24 | 5316 | 892 | 
-| 2023-01-23 | 5313 | 892 | 
 

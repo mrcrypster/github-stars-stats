@@ -1,6 +1,6 @@
 # dmihal/ens-everywhere-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 11 | 5 | 
 | 2023-02-21 | 11 | 5 | 
 | 2023-02-20 | 11 | 5 | 
 | 2023-02-19 | 11 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 12 | 5 | 
 | 2023-01-25 | 12 | 5 | 
 | 2023-01-24 | 12 | 5 | 
-| 2023-01-23 | 12 | 5 | 
 

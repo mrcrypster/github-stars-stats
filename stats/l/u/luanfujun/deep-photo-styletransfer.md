@@ -1,10 +1,10 @@
 # luanfujun/deep-photo-styletransfer - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1447
 
-★ Stars: 9945
+★ Stars: 9946
 
 [Open repository](https://github.com/luanfujun/deep-photo-styletransfer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 9946 | 1447 | 
 | 2023-02-21 | 9945 | 1447 | 
 | 2023-02-20 | 9945 | 1447 | 
 | 2023-02-19 | 9945 | 1447 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 9945 | 1446 | 
 | 2023-01-25 | 9946 | 1446 | 
 | 2023-01-24 | 9946 | 1446 | 
-| 2023-01-23 | 9946 | 1446 | 
 

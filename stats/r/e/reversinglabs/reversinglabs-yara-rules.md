@@ -1,10 +1,10 @@
 # reversinglabs/reversinglabs-yara-rules - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 86
 
-★ Stars: 545
+★ Stars: 547
 
 [Open repository](https://github.com/reversinglabs/reversinglabs-yara-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 547 | 86 | 
 | 2023-02-21 | 545 | 86 | 
 | 2023-02-20 | 543 | 86 | 
 | 2023-02-19 | 543 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 534 | 86 | 
 | 2023-01-25 | 534 | 86 | 
 | 2023-01-24 | 534 | 86 | 
-| 2023-01-23 | 533 | 86 | 
 

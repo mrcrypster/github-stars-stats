@@ -1,8 +1,8 @@
 # overextended/ox_target - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 41 | 56 | 
 | 2023-02-21 | 41 | 55 | 
 | 2023-02-19 | 40 | 55 | 
 | 2023-02-18 | 40 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 36 | 52 | 
 | 2023-01-25 | 35 | 52 | 
 | 2023-01-24 | 35 | 52 | 
-| 2023-01-23 | 35 | 52 | 
 

@@ -1,8 +1,8 @@
 # fluent/fluentd-docker-image - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 354
+☋ Forks: 355
 
 ★ Stars: 439
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 439 | 355 | 
 | 2023-02-21 | 439 | 354 | 
 | 2023-02-20 | 439 | 354 | 
 | 2023-02-19 | 439 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 439 | 355 | 
 | 2023-01-25 | 439 | 355 | 
 | 2023-01-24 | 439 | 355 | 
-| 2023-01-23 | 437 | 355 | 
 

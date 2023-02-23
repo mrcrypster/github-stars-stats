@@ -1,10 +1,10 @@
 # niltea/hanarisa-button - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/niltea/hanarisa-button)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 15 | 1 | 
 | 2023-02-21 | 14 | 1 | 
 | 2023-02-20 | 14 | 1 | 
 | 2023-02-19 | 14 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 14 | 1 | 
 | 2023-01-25 | 14 | 1 | 
 | 2023-01-24 | 14 | 1 | 
-| 2023-01-23 | 14 | 1 | 
 

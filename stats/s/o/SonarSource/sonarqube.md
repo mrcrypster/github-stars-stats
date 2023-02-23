@@ -1,10 +1,10 @@
 # SonarSource/sonarqube - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1786
+☋ Forks: 1785
 
-★ Stars: 7527
+★ Stars: 7530
 
 [Open repository](https://github.com/SonarSource/sonarqube)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7530 | 1785 | 
 | 2023-02-21 | 7527 | 1786 | 
 | 2023-02-19 | 7524 | 1785 | 
 | 2023-02-18 | 7523 | 1785 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 7464 | 1778 | 
 | 2023-01-26 | 7463 | 1778 | 
 | 2023-01-25 | 7463 | 1777 | 
-| 2023-01-24 | 7461 | 1777 | 
 

@@ -1,10 +1,10 @@
 # AhmadIbrahiim/Website-downloader - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 281
+☋ Forks: 282
 
-★ Stars: 658
+★ Stars: 659
 
 [Open repository](https://github.com/AhmadIbrahiim/Website-downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 659 | 282 | 
 | 2023-02-21 | 658 | 281 | 
 | 2023-02-20 | 655 | 281 | 
 | 2023-02-19 | 651 | 280 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 603 | 270 | 
 | 2023-01-25 | 601 | 269 | 
 | 2023-01-24 | 601 | 268 | 
-| 2023-01-23 | 601 | 267 | 
 

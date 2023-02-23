@@ -1,10 +1,10 @@
 # synacktiv/QLinspector - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 11
 
-★ Stars: 119
+★ Stars: 121
 
 [Open repository](https://github.com/synacktiv/QLinspector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 121 | 11 | 
 | 2023-02-21 | 119 | 11 | 
 | 2023-02-20 | 119 | 11 | 
 | 2023-02-19 | 118 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 110 | 11 | 
 | 2023-01-25 | 110 | 11 | 
 | 2023-01-24 | 110 | 11 | 
-| 2023-01-23 | 110 | 11 | 
 

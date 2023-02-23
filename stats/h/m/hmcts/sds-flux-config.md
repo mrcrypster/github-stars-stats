@@ -1,6 +1,6 @@
 # hmcts/sds-flux-config - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4 | 4 | 
 | 2023-02-21 | 4 | 4 | 
 | 2023-02-20 | 4 | 4 | 
 | 2023-02-19 | 4 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 5 | 4 | 
 | 2023-01-25 | 5 | 4 | 
 | 2023-01-24 | 5 | 4 | 
-| 2023-01-23 | 5 | 4 | 
 

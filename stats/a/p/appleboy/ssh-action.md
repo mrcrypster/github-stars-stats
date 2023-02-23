@@ -1,10 +1,10 @@
 # appleboy/ssh-action - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 435
 
-★ Stars: 3006
+★ Stars: 3008
 
 [Open repository](https://github.com/appleboy/ssh-action)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3008 | 435 | 
 | 2023-02-21 | 3006 | 435 | 
 | 2023-02-20 | 3005 | 433 | 
 | 2023-02-19 | 2999 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2917 | 418 | 
 | 2023-01-25 | 2915 | 418 | 
 | 2023-01-24 | 2910 | 417 | 
-| 2023-01-23 | 2905 | 417 | 
 

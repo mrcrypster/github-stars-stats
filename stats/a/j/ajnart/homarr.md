@@ -1,10 +1,10 @@
 # ajnart/homarr - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 92
 
-★ Stars: 1901
+★ Stars: 1905
 
 [Open repository](https://github.com/ajnart/homarr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1905 | 92 | 
 | 2023-02-21 | 1901 | 92 | 
 | 2023-02-19 | 1892 | 93 | 
 | 2023-02-18 | 1887 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1761 | 86 | 
 | 2023-01-25 | 1750 | 86 | 
 | 2023-01-24 | 1740 | 82 | 
-| 2023-01-23 | 1733 | 82 | 
 

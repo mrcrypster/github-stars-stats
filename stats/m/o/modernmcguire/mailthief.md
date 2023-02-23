@@ -1,6 +1,6 @@
 # modernmcguire/mailthief - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 33 | 3 | 
 | 2023-02-21 | 33 | 3 | 
 | 2023-02-20 | 33 | 3 | 
 | 2023-02-19 | 33 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 33 | 3 | 
 | 2023-01-25 | 33 | 3 | 
 | 2023-01-24 | 33 | 3 | 
-| 2023-01-23 | 33 | 3 | 
 

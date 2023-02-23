@@ -1,6 +1,6 @@
 # Lakr233/Rayon - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2386 | 199 | 
 | 2023-02-21 | 2386 | 199 | 
 | 2023-02-20 | 2384 | 199 | 
 | 2023-02-19 | 2381 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 2365 | 194 | 
 | 2023-01-25 | 2362 | 194 | 
 | 2023-01-24 | 2359 | 194 | 
-| 2023-01-23 | 2358 | 195 | 
 

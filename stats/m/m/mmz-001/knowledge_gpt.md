@@ -1,10 +1,10 @@
 # mmz-001/knowledge_gpt - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 72
+☋ Forks: 74
 
-★ Stars: 507
+★ Stars: 511
 
 [Open repository](https://github.com/mmz-001/knowledge_gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 511 | 74 | 
 | 2023-02-21 | 507 | 72 | 
 | 2023-02-20 | 500 | 70 | 
 | 2023-02-19 | 498 | 70 | 

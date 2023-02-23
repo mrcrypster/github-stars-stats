@@ -1,6 +1,6 @@
 # Xilinx/Vitis_Accel_Examples - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 378 | 175 | 
 | 2023-02-21 | 378 | 175 | 
 | 2023-02-20 | 378 | 175 | 
 | 2023-02-19 | 378 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 369 | 172 | 
 | 2023-01-26 | 369 | 172 | 
 | 2023-01-25 | 369 | 172 | 
-| 2023-01-24 | 368 | 172 | 
 

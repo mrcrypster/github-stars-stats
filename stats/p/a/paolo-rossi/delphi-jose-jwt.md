@@ -1,8 +1,8 @@
 # paolo-rossi/delphi-jose-jwt - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 147
+☋ Forks: 146
 
 ★ Stars: 373
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 373 | 146 | 
 | 2023-02-21 | 373 | 147 | 
 | 2023-02-20 | 373 | 147 | 
 | 2023-02-19 | 373 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 369 | 146 | 
 | 2023-01-25 | 369 | 146 | 
 | 2023-01-24 | 369 | 146 | 
-| 2023-01-23 | 369 | 146 | 
 

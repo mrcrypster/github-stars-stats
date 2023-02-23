@@ -1,10 +1,10 @@
 # rstudio/htmltools - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 65
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/rstudio/htmltools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 180 | 65 | 
 | 2023-02-21 | 179 | 65 | 
 | 2023-02-20 | 178 | 64 | 
 | 2023-02-19 | 178 | 64 | 

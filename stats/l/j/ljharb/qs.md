@@ -1,10 +1,10 @@
 # ljharb/qs - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 729
 
-★ Stars: 7658
+★ Stars: 7661
 
 [Open repository](https://github.com/ljharb/qs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7661 | 729 | 
 | 2023-02-21 | 7658 | 729 | 
 | 2023-02-20 | 7656 | 728 | 
 | 2023-02-19 | 7653 | 727 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 7605 | 724 | 
 | 2023-01-25 | 7601 | 724 | 
 | 2023-01-24 | 7600 | 724 | 
-| 2023-01-23 | 7598 | 724 | 
 

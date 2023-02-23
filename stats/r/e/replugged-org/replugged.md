@@ -1,10 +1,10 @@
 # replugged-org/replugged - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 52
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/replugged-org/replugged)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 425 | 52 | 
 | 2023-02-21 | 424 | 52 | 
 | 2023-02-20 | 421 | 52 | 
 | 2023-02-19 | 421 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 410 | 52 | 
 | 2023-01-25 | 409 | 52 | 
 | 2023-01-24 | 409 | 52 | 
-| 2023-01-23 | 409 | 52 | 
 

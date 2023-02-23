@@ -1,10 +1,10 @@
 # verivital/nnv - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 39
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/verivital/nnv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 78 | 39 | 
 | 2023-02-21 | 77 | 39 | 
 | 2023-02-20 | 77 | 39 | 
 | 2023-02-19 | 77 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 76 | 38 | 
 | 2023-01-25 | 76 | 38 | 
 | 2023-01-24 | 76 | 38 | 
-| 2023-01-23 | 76 | 38 | 
 

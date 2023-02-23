@@ -1,6 +1,6 @@
 # kristoff-it/bork - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 134 | 11 | 
 | 2023-02-21 | 134 | 11 | 
 | 2023-02-20 | 134 | 11 | 
 | 2023-02-19 | 134 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 126 | 11 | 
 | 2023-01-25 | 126 | 11 | 
 | 2023-01-24 | 125 | 11 | 
-| 2023-01-23 | 125 | 11 | 
 

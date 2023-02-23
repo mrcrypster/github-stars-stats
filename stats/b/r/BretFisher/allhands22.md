@@ -1,8 +1,8 @@
 # BretFisher/allhands22 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 81
+☋ Forks: 83
 
 ★ Stars: 132
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 132 | 83 | 
 | 2023-02-21 | 132 | 81 | 
 | 2023-02-20 | 132 | 78 | 
 | 2023-02-19 | 132 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 125 | 65 | 
 | 2023-01-26 | 125 | 65 | 
 | 2023-01-24 | 125 | 64 | 
-| 2023-01-23 | 125 | 63 | 
 

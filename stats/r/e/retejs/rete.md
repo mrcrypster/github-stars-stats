@@ -1,10 +1,10 @@
 # retejs/rete - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 555
 
-★ Stars: 8160
+★ Stars: 8164
 
 [Open repository](https://github.com/retejs/rete)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 8164 | 555 | 
 | 2023-02-21 | 8160 | 555 | 
 | 2023-02-19 | 8158 | 555 | 
 | 2023-02-18 | 8156 | 555 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 8090 | 554 | 
 | 2023-01-25 | 8082 | 554 | 
 | 2023-01-24 | 8078 | 554 | 
-| 2023-01-23 | 8073 | 554 | 
 

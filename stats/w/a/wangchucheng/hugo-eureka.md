@@ -1,6 +1,6 @@
 # wangchucheng/hugo-eureka - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 782 | 185 | 
 | 2023-02-21 | 782 | 185 | 
 | 2023-02-20 | 781 | 185 | 
 | 2023-02-19 | 780 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 769 | 186 | 
 | 2023-01-25 | 770 | 186 | 
 | 2023-01-24 | 769 | 185 | 
-| 2023-01-23 | 769 | 185 | 
 

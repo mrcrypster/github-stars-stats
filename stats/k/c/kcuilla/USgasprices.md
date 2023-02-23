@@ -1,6 +1,6 @@
 # kcuilla/USgasprices - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 22 | 2 | 
 | 2023-02-21 | 22 | 2 | 
 | 2023-02-19 | 22 | 2 | 
 | 2023-02-18 | 21 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 21 | 2 | 
 | 2023-01-25 | 21 | 2 | 
 | 2023-01-24 | 21 | 2 | 
-| 2023-01-23 | 21 | 2 | 
 

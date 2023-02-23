@@ -1,10 +1,10 @@
 # zerostaticthemes/jekyll-serif-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 577
+☋ Forks: 578
 
-★ Stars: 541
+★ Stars: 542
 
 [Open repository](https://github.com/zerostaticthemes/jekyll-serif-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 542 | 578 | 
 | 2023-02-22 | 541 | 577 | 
 | 2023-02-20 | 540 | 576 | 
 | 2023-02-19 | 539 | 576 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 529 | 557 | 
 | 2023-01-25 | 529 | 557 | 
 | 2023-01-24 | 528 | 558 | 
-| 2023-01-23 | 528 | 558 | 
 

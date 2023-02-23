@@ -1,6 +1,6 @@
 # Linaom1214/TensorRT-For-YOLO-Series - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 418 | 88 | 
 | 2023-02-21 | 418 | 88 | 
 | 2023-02-20 | 416 | 87 | 
 | 2023-02-19 | 414 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 365 | 72 | 
 | 2023-01-25 | 361 | 71 | 
 | 2023-01-24 | 362 | 71 | 
-| 2023-01-23 | 360 | 71 | 
 

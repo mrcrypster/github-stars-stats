@@ -1,10 +1,10 @@
 # rolkra/explore - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 17
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/rolkra/explore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 137 | 17 | 
 | 2023-02-22 | 136 | 17 | 
 | 2023-02-20 | 136 | 17 | 
 | 2023-02-19 | 136 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 135 | 17 | 
 | 2023-01-25 | 135 | 17 | 
 | 2023-01-24 | 135 | 17 | 
-| 2023-01-23 | 135 | 16 | 
 

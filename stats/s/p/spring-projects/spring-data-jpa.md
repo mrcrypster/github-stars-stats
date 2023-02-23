@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 22
 
 ☋ Forks: 1240
 
-★ Stars: 2579
+★ Stars: 2578
 
 [Open repository](https://github.com/spring-projects/spring-data-jpa)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 2579 | 1240 | 
+| 2023-02-22 | 2578 | 1240 | 
 | 2023-02-21 | 2578 | 1240 | 
 

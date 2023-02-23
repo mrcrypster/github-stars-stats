@@ -1,6 +1,6 @@
 # friebetill/TubeCards - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 201 | 22 | 
 | 2023-02-21 | 201 | 22 | 
 | 2023-02-19 | 200 | 22 | 
 | 2023-02-18 | 200 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 195 | 19 | 
 | 2023-01-25 | 195 | 19 | 
 | 2023-01-24 | 196 | 19 | 
-| 2023-01-23 | 196 | 19 | 
 

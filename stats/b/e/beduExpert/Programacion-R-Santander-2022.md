@@ -1,10 +1,10 @@
 # beduExpert/Programacion-R-Santander-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 7
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/beduExpert/Programacion-R-Santander-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5 | 7 | 
 | 2023-02-21 | 4 | 7 | 
 | 2023-02-20 | 4 | 7 | 
 | 2023-02-19 | 4 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3 | 6 | 
 | 2023-01-25 | 4 | 6 | 
 | 2023-01-24 | 4 | 6 | 
-| 2023-01-23 | 4 | 6 | 
 

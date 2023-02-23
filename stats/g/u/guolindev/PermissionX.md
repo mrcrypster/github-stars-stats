@@ -1,10 +1,10 @@
 # guolindev/PermissionX - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 347
 
-★ Stars: 2930
+★ Stars: 2933
 
 [Open repository](https://github.com/guolindev/PermissionX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2933 | 347 | 
 | 2023-02-20 | 2930 | 347 | 
 | 2023-02-19 | 2925 | 347 | 
 | 2023-02-18 | 2924 | 347 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 2888 | 345 | 
 | 2023-01-25 | 2887 | 345 | 
 | 2023-01-24 | 2887 | 345 | 
-| 2023-01-23 | 2886 | 345 | 
 

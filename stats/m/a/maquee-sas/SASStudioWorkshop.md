@@ -1,8 +1,8 @@
 # maquee-sas/SASStudioWorkshop - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 33 | 
 | 2023-02-21 | - | 32 | 
 | 2023-02-20 | - | 32 | 
 | 2023-02-19 | - | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | - | 22 | 
 | 2023-01-25 | - | 22 | 
 | 2023-01-24 | - | 22 | 
-| 2023-01-23 | - | 22 | 
 

@@ -1,10 +1,10 @@
 # dibingfa/flash-linux0.11-talk - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 2060
+☋ Forks: 2062
 
-★ Stars: 15534
+★ Stars: 15543
 
 [Open repository](https://github.com/dibingfa/flash-linux0.11-talk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 15543 | 2062 | 
 | 2023-02-21 | 15534 | 2060 | 
 | 2023-02-20 | 15532 | 2060 | 
 | 2023-02-19 | 15522 | 2054 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 15355 | 2016 | 
 | 2023-01-26 | 15350 | 2015 | 
 | 2023-01-25 | 15347 | 2015 | 
-| 2023-01-23 | 15339 | 2015 | 
 

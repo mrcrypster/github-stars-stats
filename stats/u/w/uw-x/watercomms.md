@@ -1,6 +1,6 @@
 # uw-x/watercomms - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 62 | 5 | 
 | 2023-02-22 | 62 | 5 | 
 | 2023-02-20 | 62 | 5 | 
 | 2023-02-19 | 62 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 61 | 5 | 
 | 2023-01-26 | 61 | 5 | 
 | 2023-01-25 | 61 | 5 | 
-| 2023-01-24 | 61 | 5 | 
 

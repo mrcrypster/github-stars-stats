@@ -1,10 +1,10 @@
 # twitter/twemoji - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1780
+☋ Forks: 1782
 
-★ Stars: 15306
+★ Stars: 15307
 
 [Open repository](https://github.com/twitter/twemoji)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 15307 | 1782 | 
 | 2023-02-21 | 15306 | 1780 | 
 | 2023-02-20 | 15300 | 1779 | 
 | 2023-02-19 | 15294 | 1779 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 15223 | 1771 | 
 | 2023-01-25 | 15222 | 1771 | 
 | 2023-01-24 | 15213 | 1770 | 
-| 2023-01-23 | 15212 | 1769 | 
 

@@ -1,0 +1,17 @@
+# hashicorp/example-nomad-pack-registry - stars & forks statistics
+
+Stats updated on Feb 2023, 22
+
+☋ Forks: 0
+
+★ Stars: 5
+
+[Open repository](https://github.com/hashicorp/example-nomad-pack-registry)
+
+[Open detailed stats for hashicorp/example-nomad-pack-registry](https://reviewgithub.com/rep/hashicorp/example-nomad-pack-registry)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-22 | 5 | - | 
+

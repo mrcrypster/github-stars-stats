@@ -1,6 +1,6 @@
 # aczw/sddm-theme-corners - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 22 | 4 | 
 | 2023-02-21 | 22 | 4 | 
 | 2023-02-20 | 22 | 4 | 
 | 2023-02-19 | 21 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 17 | 2 | 
 | 2023-01-25 | 17 | 2 | 
 | 2023-01-24 | 17 | 1 | 
-| 2023-01-23 | 16 | 1 | 
 

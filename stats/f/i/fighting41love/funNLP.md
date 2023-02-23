@@ -1,10 +1,10 @@
 # fighting41love/funNLP - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 12079
+☋ Forks: 12093
 
-★ Stars: 46892
+★ Stars: 46936
 
 [Open repository](https://github.com/fighting41love/funNLP)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 46936 | 12093 | 
 | 2023-02-21 | 46892 | 12079 | 
 | 2023-02-20 | 46856 | 12070 | 
 | 2023-02-19 | 46803 | 12063 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 46168 | 11940 | 
 | 2023-01-25 | 46166 | 11941 | 
 | 2023-01-24 | 46156 | 11941 | 
-| 2023-01-23 | 46149 | 11942 | 
 

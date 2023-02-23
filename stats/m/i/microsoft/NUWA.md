@@ -1,10 +1,10 @@
 # microsoft/NUWA - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 145
 
-★ Stars: 2624
+★ Stars: 2625
 
 [Open repository](https://github.com/microsoft/NUWA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2625 | 145 | 
 | 2023-02-21 | 2624 | 145 | 
 | 2023-02-20 | 2624 | 145 | 
 | 2023-02-19 | 2624 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2608 | 145 | 
 | 2023-01-25 | 2607 | 144 | 
 | 2023-01-24 | 2607 | 144 | 
-| 2023-01-23 | 2607 | 144 | 
 

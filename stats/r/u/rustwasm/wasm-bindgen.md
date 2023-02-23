@@ -1,10 +1,10 @@
 # rustwasm/wasm-bindgen - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 852
 
-★ Stars: 6082
+★ Stars: 6083
 
 [Open repository](https://github.com/rustwasm/wasm-bindgen)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6083 | 852 | 
 | 2023-02-21 | 6082 | 852 | 
 | 2023-02-20 | 6074 | 851 | 
 | 2023-02-19 | 6068 | 849 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 5994 | 836 | 
 | 2023-01-25 | 5989 | 835 | 
 | 2023-01-24 | 5986 | 834 | 
-| 2023-01-23 | 5983 | 833 | 
 

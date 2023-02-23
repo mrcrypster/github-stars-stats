@@ -1,6 +1,6 @@
 # nvim-neorg/neorg-lsp - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 29 | - | 
 | 2023-02-21 | 29 | - | 
 | 2023-02-20 | 29 | - | 
 | 2023-02-18 | 29 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 28 | - | 
 | 2023-01-25 | 28 | - | 
 | 2023-01-24 | 28 | - | 
-| 2023-01-23 | 28 | - | 
 

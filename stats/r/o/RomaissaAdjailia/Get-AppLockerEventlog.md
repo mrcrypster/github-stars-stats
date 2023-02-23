@@ -1,10 +1,10 @@
 # RomaissaAdjailia/Get-AppLockerEventlog - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/RomaissaAdjailia/Get-AppLockerEventlog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 25 | 4 | 
 | 2023-02-22 | 24 | 4 | 
 | 2023-02-20 | 24 | 4 | 
 | 2023-02-19 | 24 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 22 | 4 | 
 | 2023-01-25 | 19 | 1 | 
 | 2023-01-24 | 16 | 1 | 
-| 2023-01-23 | 16 | 1 | 
 

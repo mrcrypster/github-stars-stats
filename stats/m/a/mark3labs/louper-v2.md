@@ -1,8 +1,8 @@
 # mark3labs/louper-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 51 | 23 | 
 | 2023-02-21 | 51 | 22 | 
 | 2023-02-20 | 50 | 22 | 
 | 2023-02-19 | 50 | 22 | 

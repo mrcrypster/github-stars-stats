@@ -1,10 +1,10 @@
 # rbbrdckybk/ai-art-generator - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 100
+☋ Forks: 101
 
-★ Stars: 517
+★ Stars: 519
 
 [Open repository](https://github.com/rbbrdckybk/ai-art-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 519 | 101 | 
 | 2023-02-21 | 517 | 100 | 
 | 2023-02-20 | 516 | 99 | 
 | 2023-02-18 | 513 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 488 | 88 | 
 | 2023-01-25 | 487 | 88 | 
 | 2023-01-24 | 484 | 88 | 
-| 2023-01-23 | 484 | 88 | 
 

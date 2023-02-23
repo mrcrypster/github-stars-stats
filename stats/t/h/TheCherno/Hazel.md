@@ -1,10 +1,10 @@
 # TheCherno/Hazel - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1299
+☋ Forks: 1298
 
-★ Stars: 8956
+★ Stars: 8965
 
 [Open repository](https://github.com/TheCherno/Hazel)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 8965 | 1298 | 
+| 2023-02-22 | 8963 | 1298 | 
 | 2023-02-21 | 8956 | 1299 | 
 | 2023-02-20 | 8949 | 1297 | 
 | 2023-02-19 | 8946 | 1297 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 8837 | 1290 | 
 | 2023-01-25 | 8834 | 1290 | 
 | 2023-01-24 | 8833 | 1289 | 
-| 2023-01-23 | 8829 | 1288 | 
 

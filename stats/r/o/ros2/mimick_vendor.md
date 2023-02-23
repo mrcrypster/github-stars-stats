@@ -1,6 +1,6 @@
 # ros2/mimick_vendor - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1 | 10 | 
 | 2023-02-21 | 1 | 10 | 
 | 2023-02-20 | 1 | 10 | 
 | 2023-02-19 | 1 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1 | 10 | 
 | 2023-01-25 | 1 | 10 | 
 | 2023-01-24 | 1 | 10 | 
-| 2023-01-23 | 1 | 10 | 
 

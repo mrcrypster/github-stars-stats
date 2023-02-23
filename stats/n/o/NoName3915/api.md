@@ -1,6 +1,6 @@
 # NoName3915/api - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2 | 10 | 
 | 2023-02-21 | 2 | 10 | 
 | 2023-02-19 | 2 | 10 | 
 | 2023-02-18 | 2 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 2 | 10 | 
 | 2023-01-26 | 2 | 10 | 
 | 2023-01-25 | 2 | 10 | 
-| 2023-01-24 | 2 | 10 | 
 

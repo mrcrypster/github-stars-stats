@@ -1,10 +1,10 @@
 # rest-nvim/rest.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 55
 
-★ Stars: 633
+★ Stars: 634
 
 [Open repository](https://github.com/rest-nvim/rest.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 634 | 55 | 
 | 2023-02-21 | 633 | 55 | 
 | 2023-02-20 | 633 | 55 | 
 | 2023-02-19 | 632 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 620 | 55 | 
 | 2023-01-25 | 619 | 55 | 
 | 2023-01-24 | 619 | 56 | 
-| 2023-01-23 | 619 | 56 | 
 

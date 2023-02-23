@@ -1,6 +1,6 @@
 # AlgoHunt/VQRF - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 220 | 8 | 
 | 2023-02-21 | 220 | 8 | 
 | 2023-02-20 | 220 | 8 | 
 | 2023-02-19 | 220 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 213 | 8 | 
 | 2023-01-25 | 213 | 8 | 
 | 2023-01-24 | 213 | 8 | 
-| 2023-01-23 | 213 | 8 | 
 

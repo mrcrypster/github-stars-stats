@@ -1,6 +1,6 @@
 # ra1028/DifferenceKit - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3279 | 222 | 
 | 2023-02-21 | 3279 | 222 | 
 | 2023-02-20 | 3278 | 222 | 
 | 2023-02-19 | 3278 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 3270 | 222 | 
 | 2023-01-26 | 3270 | 222 | 
 | 2023-01-25 | 3269 | 222 | 
-| 2023-01-24 | 3269 | 222 | 
 

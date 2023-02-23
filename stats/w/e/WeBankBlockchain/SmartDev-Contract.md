@@ -1,10 +1,10 @@
 # WeBankBlockchain/SmartDev-Contract - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 121
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/WeBankBlockchain/SmartDev-Contract)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 282 | 121 | 
 | 2023-02-21 | 281 | 121 | 
 | 2023-02-20 | 281 | 121 | 
 | 2023-02-19 | 281 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 276 | 119 | 
 | 2023-01-25 | 276 | 119 | 
 | 2023-01-24 | 276 | 119 | 
-| 2023-01-23 | 276 | 119 | 
 

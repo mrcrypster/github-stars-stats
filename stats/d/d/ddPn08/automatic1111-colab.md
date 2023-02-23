@@ -1,10 +1,10 @@
 # ddPn08/automatic1111-colab - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 39
 
-★ Stars: 158
+★ Stars: 160
 
 [Open repository](https://github.com/ddPn08/automatic1111-colab)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 160 | 39 | 
 | 2023-02-21 | 158 | 39 | 
 | 2023-02-20 | 155 | 39 | 
 | 2023-02-19 | 154 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 127 | 34 | 
 | 2023-01-25 | 126 | 34 | 
 | 2023-01-24 | 126 | 34 | 
-| 2023-01-23 | 122 | 33 | 
 

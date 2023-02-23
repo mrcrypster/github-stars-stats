@@ -1,10 +1,10 @@
 # debezium/debezium - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2075
 
-★ Stars: 8125
+★ Stars: 8130
 
 [Open repository](https://github.com/debezium/debezium)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 8130 | 2075 | 
 | 2023-02-21 | 8125 | 2075 | 
 | 2023-02-19 | 8118 | 2071 | 
 | 2023-02-18 | 8115 | 2071 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 8037 | 2047 | 
 | 2023-01-25 | 8036 | 2047 | 
 | 2023-01-24 | 8027 | 2046 | 
-| 2023-01-23 | 8023 | 2045 | 
 

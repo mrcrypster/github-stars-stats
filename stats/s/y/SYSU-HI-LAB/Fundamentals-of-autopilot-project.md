@@ -1,6 +1,6 @@
 # SYSU-HI-LAB/Fundamentals-of-autopilot-project - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1 | 7 | 
 | 2023-02-21 | 1 | 7 | 
 | 2023-02-20 | 1 | 7 | 
 | 2023-02-19 | 1 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 1 | 7 | 
 | 2023-01-26 | 1 | 7 | 
 | 2023-01-24 | 1 | 7 | 
-| 2023-01-23 | 1 | 7 | 
 

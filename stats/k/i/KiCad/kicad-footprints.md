@@ -1,8 +1,8 @@
 # KiCad/kicad-footprints - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 740
+☋ Forks: 739
 
 ★ Stars: 581
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 581 | 739 | 
 | 2023-02-21 | 581 | 740 | 
 | 2023-02-20 | 581 | 740 | 
 | 2023-02-19 | 581 | 740 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 576 | 742 | 
 | 2023-01-26 | 576 | 742 | 
 | 2023-01-25 | 576 | 742 | 
-| 2023-01-23 | 576 | 742 | 
 

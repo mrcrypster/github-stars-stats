@@ -1,10 +1,10 @@
 # fluentassertions/fluentassertions - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 491
+☋ Forks: 492
 
-★ Stars: 3132
+★ Stars: 3135
 
 [Open repository](https://github.com/fluentassertions/fluentassertions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3135 | 492 | 
 | 2023-02-21 | 3132 | 491 | 
 | 2023-02-20 | 3128 | 491 | 
 | 2023-02-18 | 3125 | 491 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3084 | 486 | 
 | 2023-01-25 | 3083 | 486 | 
 | 2023-01-24 | 3082 | 486 | 
-| 2023-01-23 | 3082 | 486 | 
 

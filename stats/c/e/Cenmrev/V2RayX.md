@@ -1,10 +1,10 @@
 # Cenmrev/V2RayX - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1098
 
-★ Stars: 7117
+★ Stars: 7122
 
 [Open repository](https://github.com/Cenmrev/V2RayX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7122 | 1098 | 
 | 2023-02-21 | 7117 | 1098 | 
 | 2023-02-20 | 7116 | 1099 | 
 | 2023-02-19 | 7115 | 1099 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 7072 | 1097 | 
 | 2023-01-25 | 7071 | 1097 | 
 | 2023-01-24 | 7071 | 1097 | 
-| 2023-01-23 | 7069 | 1097 | 
 

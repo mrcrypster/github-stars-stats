@@ -1,10 +1,10 @@
 # ahmedkhalf/project.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 58
 
-★ Stars: 789
+★ Stars: 790
 
 [Open repository](https://github.com/ahmedkhalf/project.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 790 | 58 | 
 | 2023-02-21 | 789 | 58 | 
 | 2023-02-19 | 787 | 58 | 
 | 2023-02-18 | 786 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 764 | 56 | 
 | 2023-01-25 | 759 | 56 | 
 | 2023-01-24 | 758 | 56 | 
-| 2023-01-23 | 752 | 56 | 
 

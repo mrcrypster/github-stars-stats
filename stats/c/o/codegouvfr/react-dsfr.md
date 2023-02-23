@@ -1,10 +1,10 @@
 # codegouvfr/react-dsfr - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 311
+★ Stars: 314
 
 [Open repository](https://github.com/codegouvfr/react-dsfr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 314 | 15 | 
 | 2023-02-21 | 311 | 15 | 
 | 2023-02-19 | 310 | 16 | 
 | 2023-02-18 | 308 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 266 | 11 | 
 | 2023-01-25 | 245 | 11 | 
 | 2023-01-24 | 236 | 11 | 
-| 2023-01-23 | 187 | 7 | 
 

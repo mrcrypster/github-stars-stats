@@ -1,6 +1,6 @@
 # maticnetwork/avail - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 49 | 17 | 
 | 2023-02-21 | 49 | 17 | 
 | 2023-02-20 | 49 | 17 | 
 | 2023-02-19 | 49 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 49 | 16 | 
 | 2023-01-25 | 48 | 16 | 
 | 2023-01-24 | 48 | 16 | 
-| 2023-01-23 | 48 | 16 | 
 

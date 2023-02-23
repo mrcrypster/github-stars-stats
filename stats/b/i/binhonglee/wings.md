@@ -1,6 +1,6 @@
 # binhonglee/wings - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 18 | 4 | 
 | 2023-02-21 | 18 | 4 | 
 | 2023-02-20 | 18 | 4 | 
 | 2023-02-19 | 18 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 17 | 5 | 
 | 2023-01-25 | 17 | 5 | 
 | 2023-01-24 | 17 | 5 | 
-| 2023-01-23 | 17 | 5 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 22
 
-☋ Forks: 11455
+☋ Forks: 11454
 
-★ Stars: 42273
+★ Stars: 42271
 
 [Open repository](https://github.com/android/architecture-samples)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 42273 | 11455 | 
+| 2023-02-22 | 42271 | 11454 | 
 | 2023-02-21 | 42274 | 11455 | 
 | 2023-02-20 | 42265 | 11454 | 
 | 2023-02-19 | 42255 | 11450 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 42141 | 11422 | 
 | 2023-01-25 | 42137 | 11422 | 
 | 2023-01-24 | 42133 | 11420 | 
-| 2023-01-23 | 42128 | 11419 | 
 

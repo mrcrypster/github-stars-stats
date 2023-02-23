@@ -1,10 +1,10 @@
 # arkypita/LaserGRBL - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 413
 
-★ Stars: 952
+★ Stars: 953
 
 [Open repository](https://github.com/arkypita/LaserGRBL)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 953 | 413 | 
 | 2023-02-21 | 952 | 413 | 
 | 2023-02-20 | 950 | 411 | 
 | 2023-02-18 | 949 | 411 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 940 | 410 | 
 | 2023-01-25 | 940 | 410 | 
 | 2023-01-24 | 939 | 408 | 
-| 2023-01-23 | 938 | 408 | 
 

@@ -1,6 +1,6 @@
 # petergandenberger/dashboard-builder - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 50 | 1 | 
 | 2023-02-21 | 50 | 1 | 
 | 2023-02-19 | 50 | 1 | 
 | 2023-02-18 | 50 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 50 | 1 | 
 | 2023-01-25 | 49 | 1 | 
 | 2023-01-24 | 49 | 1 | 
-| 2023-01-23 | 49 | 1 | 
 

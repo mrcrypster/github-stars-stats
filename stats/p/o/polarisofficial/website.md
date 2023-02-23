@@ -1,6 +1,6 @@
 # polarisofficial/website - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3 | 31 | 
 | 2023-02-21 | 3 | 31 | 
 | 2023-02-19 | 3 | 31 | 
 | 2023-02-18 | 3 | 31 | 

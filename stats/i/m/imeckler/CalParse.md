@@ -1,0 +1,18 @@
+# imeckler/CalParse - stars & forks statistics
+
+Stats updated on Feb 2023, 23
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/imeckler/CalParse)
+
+[Open detailed stats for imeckler/CalParse](https://reviewgithub.com/rep/imeckler/CalParse)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-23 | 1 | - | 
+| 2023-02-22 | 1 | - | 
+

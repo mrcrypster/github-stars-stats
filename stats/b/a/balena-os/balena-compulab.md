@@ -1,10 +1,10 @@
 # balena-os/balena-compulab - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/balena-os/balena-compulab)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3 | 2 | 
 | 2023-02-21 | 2 | 2 | 
 | 2023-02-20 | 2 | 2 | 
 | 2023-02-19 | 2 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3 | 1 | 
 | 2023-01-25 | 3 | 1 | 
 | 2023-01-24 | 3 | 1 | 
-| 2023-01-23 | 3 | 1 | 
 

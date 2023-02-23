@@ -1,8 +1,8 @@
 # elfmaster/maya - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 131
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 131 | 15 | 
 | 2023-02-21 | 131 | 14 | 
 | 2023-02-20 | 131 | 14 | 
 | 2023-02-19 | 131 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 132 | 14 | 
 | 2023-01-25 | 132 | 14 | 
 | 2023-01-24 | 132 | 14 | 
-| 2023-01-23 | 132 | 14 | 
 

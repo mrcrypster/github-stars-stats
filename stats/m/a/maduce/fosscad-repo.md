@@ -1,10 +1,10 @@
 # maduce/fosscad-repo - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1057
+☋ Forks: 1059
 
-★ Stars: 1420
+★ Stars: 1421
 
 [Open repository](https://github.com/maduce/fosscad-repo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1421 | 1059 | 
 | 2023-02-21 | 1420 | 1057 | 
 | 2023-02-20 | 1419 | 1057 | 
 | 2023-02-19 | 1418 | 1057 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1419 | 1054 | 
 | 2023-01-25 | 1418 | 1054 | 
 | 2023-01-24 | 1418 | 1054 | 
-| 2023-01-23 | 1418 | 1054 | 
 

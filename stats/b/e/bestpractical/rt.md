@@ -1,6 +1,6 @@
 # bestpractical/rt - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 719 | 217 | 
 | 2023-02-21 | 719 | 217 | 
 | 2023-02-19 | 720 | 217 | 
 | 2023-02-18 | 720 | 217 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 712 | 215 | 
 | 2023-01-26 | 712 | 215 | 
 | 2023-01-25 | 712 | 215 | 
-| 2023-01-23 | 712 | 215 | 
 

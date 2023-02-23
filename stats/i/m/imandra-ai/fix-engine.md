@@ -1,6 +1,6 @@
 # imandra-ai/fix-engine - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 45 | 3 | 
 | 2023-02-21 | 45 | 3 | 
 | 2023-02-19 | 45 | 3 | 
 | 2023-02-18 | 45 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 45 | 3 | 
 | 2023-01-25 | 45 | 3 | 
 | 2023-01-24 | 44 | 3 | 
-| 2023-01-23 | 44 | 3 | 
 

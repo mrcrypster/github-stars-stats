@@ -1,6 +1,6 @@
 # tradr-project/tensorflow_ros_cpp - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 60 | 17 | 
 | 2023-02-21 | 60 | 17 | 
 | 2023-02-19 | 59 | 17 | 
 | 2023-02-18 | 59 | 17 | 

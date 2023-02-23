@@ -1,10 +1,10 @@
 # Trainguy9512/trainguys-animation-overhaul - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 187
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/Trainguy9512/trainguys-animation-overhaul)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 279 | 187 | 
 | 2023-02-21 | 278 | 187 | 
 | 2023-02-20 | 278 | 187 | 
 | 2023-02-19 | 276 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 239 | 170 | 
 | 2023-01-25 | 238 | 168 | 
 | 2023-01-24 | 237 | 168 | 
-| 2023-01-23 | 237 | 168 | 
 

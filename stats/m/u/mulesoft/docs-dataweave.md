@@ -1,6 +1,6 @@
 # mulesoft/docs-dataweave - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5 | 17 | 
 | 2023-02-21 | 5 | 17 | 
 | 2023-02-19 | 5 | 17 | 
 | 2023-02-18 | 5 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 5 | 15 | 
 | 2023-01-25 | 5 | 15 | 
 | 2023-01-24 | 5 | 15 | 
-| 2023-01-23 | 4 | 15 | 
 

@@ -1,6 +1,6 @@
 # geocaml/ocaml-topojson - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 11 | 11 | 
 | 2023-02-21 | 11 | 11 | 
 | 2023-02-19 | 11 | 11 | 
 | 2023-02-18 | 11 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 11 | 11 | 
 | 2023-01-25 | 10 | 11 | 
 | 2023-01-24 | 9 | 11 | 
-| 2023-01-23 | 9 | 11 | 
 

@@ -1,10 +1,10 @@
 # Cassianosch/programador.cs-reels - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 146
+☋ Forks: 147
 
-★ Stars: 508
+★ Stars: 510
 
 [Open repository](https://github.com/Cassianosch/programador.cs-reels)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 510 | 147 | 
 | 2023-02-21 | 508 | 146 | 
 | 2023-02-20 | 506 | 144 | 
 | 2023-02-19 | 500 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 442 | 124 | 
 | 2023-01-25 | 440 | 124 | 
 | 2023-01-24 | 440 | 124 | 
-| 2023-01-23 | 436 | 123 | 
 

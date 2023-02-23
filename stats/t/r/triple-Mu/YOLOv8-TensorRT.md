@@ -1,10 +1,10 @@
 # triple-Mu/YOLOv8-TensorRT - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/triple-Mu/YOLOv8-TensorRT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 172 | 30 | 
 | 2023-02-21 | 170 | 28 | 
 | 2023-02-20 | 169 | 27 | 
 | 2023-02-19 | 169 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 114 | 19 | 
 | 2023-01-25 | 113 | 19 | 
 | 2023-01-24 | 114 | 19 | 
-| 2023-01-23 | 113 | 19 | 
 

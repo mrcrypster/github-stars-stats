@@ -1,10 +1,10 @@
 # LeetaoGoooo/RSSAid - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 35
 
-★ Stars: 593
+★ Stars: 592
 
 [Open repository](https://github.com/LeetaoGoooo/RSSAid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 592 | 35 | 
 | 2023-02-21 | 593 | 35 | 
 | 2023-02-20 | 593 | 35 | 
 | 2023-02-19 | 593 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 573 | 34 | 
 | 2023-01-25 | 572 | 34 | 
 | 2023-01-24 | 570 | 34 | 
-| 2023-01-23 | 571 | 34 | 
 

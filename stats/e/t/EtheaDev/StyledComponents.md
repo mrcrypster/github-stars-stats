@@ -1,6 +1,6 @@
 # EtheaDev/StyledComponents - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 57 | 11 | 
 | 2023-02-21 | 57 | 11 | 
 | 2023-02-20 | 57 | 11 | 
 | 2023-02-19 | 57 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 54 | 10 | 
 | 2023-01-26 | 54 | 10 | 
 | 2023-01-25 | 54 | 10 | 
-| 2023-01-24 | 54 | 10 | 
 

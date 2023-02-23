@@ -1,10 +1,10 @@
 # moyix/gpt-wpre - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 12
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/moyix/gpt-wpre)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 217 | 12 | 
 | 2023-02-21 | 216 | 12 | 
 | 2023-02-19 | 216 | 12 | 
 | 2023-02-18 | 216 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 208 | 12 | 
 | 2023-01-25 | 208 | 11 | 
 | 2023-01-24 | 208 | 11 | 
-| 2023-01-23 | 207 | 11 | 
 

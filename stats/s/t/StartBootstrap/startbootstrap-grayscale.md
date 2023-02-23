@@ -1,8 +1,8 @@
 # StartBootstrap/startbootstrap-grayscale - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 2252
+☋ Forks: 2254
 
 ★ Stars: 1242
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1242 | 2254 | 
 | 2023-02-21 | 1242 | 2252 | 
 | 2023-02-20 | 1242 | 2252 | 
 | 2023-02-18 | 1242 | 2251 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1238 | 2247 | 
 | 2023-01-25 | 1238 | 2247 | 
 | 2023-01-24 | 1238 | 2247 | 
-| 2023-01-23 | 1238 | 2248 | 
 

@@ -1,10 +1,10 @@
 # maurice-daly/DriverAutomationTool - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 83
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/maurice-daly/DriverAutomationTool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 283 | 83 | 
 | 2023-02-21 | 282 | 83 | 
 | 2023-02-20 | 282 | 83 | 
 | 2023-02-19 | 282 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 275 | 85 | 
 | 2023-01-25 | 274 | 85 | 
 | 2023-01-24 | 274 | 84 | 
-| 2023-01-23 | 273 | 84 | 
 

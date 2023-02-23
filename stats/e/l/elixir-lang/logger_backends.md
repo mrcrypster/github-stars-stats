@@ -1,10 +1,10 @@
 # elixir-lang/logger_backends - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/elixir-lang/logger_backends)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 34 | - | 
 | 2023-02-21 | 33 | - | 
 | 2023-02-20 | 31 | - | 
 | 2023-02-19 | 26 | - | 

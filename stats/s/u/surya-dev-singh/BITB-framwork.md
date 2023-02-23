@@ -1,10 +1,10 @@
 # surya-dev-singh/BITB-framwork - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 78
 
-★ Stars: 220
+★ Stars: 219
 
 [Open repository](https://github.com/surya-dev-singh/BITB-framwork)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 219 | 78 | 
 | 2023-02-21 | 220 | 78 | 
 | 2023-02-19 | 220 | 78 | 
 | 2023-02-18 | 220 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 219 | 77 | 
 | 2023-01-25 | 219 | 77 | 
 | 2023-01-24 | 219 | 77 | 
-| 2023-01-23 | 219 | 77 | 
 

@@ -1,6 +1,6 @@
 # tajo/ladle - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2010 | 56 | 
 | 2023-02-21 | 2010 | 56 | 
 | 2023-02-20 | 2008 | 55 | 
 | 2023-02-19 | 2009 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1936 | 49 | 
 | 2023-01-25 | 1932 | 49 | 
 | 2023-01-24 | 1929 | 49 | 
-| 2023-01-23 | 1927 | 49 | 
 

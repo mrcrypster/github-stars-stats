@@ -1,0 +1,17 @@
+# windowsdock/windowsdock.app - stars & forks statistics
+
+Stats updated on Feb 2023, 22
+
+☋ Forks: 0
+
+★ Stars: 3
+
+[Open repository](https://github.com/windowsdock/windowsdock.app)
+
+[Open detailed stats for windowsdock/windowsdock.app](https://reviewgithub.com/rep/windowsdock/windowsdock.app)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-22 | 3 | - | 
+

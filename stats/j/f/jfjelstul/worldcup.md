@@ -1,10 +1,10 @@
 # jfjelstul/worldcup - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 58
 
-★ Stars: 125
+★ Stars: 127
 
 [Open repository](https://github.com/jfjelstul/worldcup)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 127 | 58 | 
 | 2023-02-21 | 125 | 58 | 
 | 2023-02-19 | 125 | 57 | 
 | 2023-02-18 | 125 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 124 | 54 | 
 | 2023-01-25 | 124 | 53 | 
 | 2023-01-24 | 124 | 53 | 
-| 2023-01-23 | 124 | 53 | 
 

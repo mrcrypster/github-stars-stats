@@ -1,10 +1,10 @@
 # streetcomplete/StreetComplete - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 275
 
-★ Stars: 3098
+★ Stars: 3099
 
 [Open repository](https://github.com/streetcomplete/StreetComplete)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3099 | 275 | 
 | 2023-02-21 | 3098 | 275 | 
 | 2023-02-20 | 3094 | 275 | 
 | 2023-02-19 | 3092 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3060 | 270 | 
 | 2023-01-25 | 3060 | 270 | 
 | 2023-01-24 | 3056 | 270 | 
-| 2023-01-23 | 3054 | 270 | 
 

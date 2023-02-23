@@ -1,10 +1,10 @@
 # mikel-brostrom/yolov8_tracking - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1257
+☋ Forks: 1262
 
-★ Stars: 4002
+★ Stars: 4013
 
 [Open repository](https://github.com/mikel-brostrom/yolov8_tracking)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4013 | 1262 | 
 | 2023-02-21 | 4002 | 1257 | 
 | 2023-02-19 | 3994 | 1255 | 
 | 2023-02-18 | 3988 | 1254 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3809 | 1202 | 
 | 2023-01-25 | 3806 | 1197 | 
 | 2023-01-24 | 3800 | 1196 | 
-| 2023-01-23 | 3795 | 1195 | 
 

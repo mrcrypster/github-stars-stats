@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 22
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 381
+★ Stars: 392
 
 [Open repository](https://github.com/C-Nedelcu/talk-to-chatgpt)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 381 | 70 | 
+| 2023-02-22 | 392 | 71 | 
 | 2023-02-21 | 375 | 69 | 
 | 2023-02-20 | 346 | 67 | 
 | 2023-02-19 | 175 | 51 | 

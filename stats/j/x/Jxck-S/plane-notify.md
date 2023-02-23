@@ -1,6 +1,6 @@
 # Jxck-S/plane-notify - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 443
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2373 | 443 | 
 | 2023-02-21 | 2373 | 443 | 
 | 2023-02-20 | 2373 | 443 | 
 | 2023-02-19 | 2372 | 442 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2356 | 443 | 
 | 2023-01-25 | 2355 | 443 | 
 | 2023-01-24 | 2354 | 443 | 
-| 2023-01-23 | 2354 | 442 | 
 

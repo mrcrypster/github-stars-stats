@@ -1,10 +1,10 @@
 # joncampbell123/dosbox-x - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 301
 
-★ Stars: 1970
+★ Stars: 1971
 
 [Open repository](https://github.com/joncampbell123/dosbox-x)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1971 | 301 | 
 | 2023-02-21 | 1970 | 301 | 
 | 2023-02-20 | 1967 | 300 | 
 | 2023-02-19 | 1964 | 299 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 1934 | 291 | 
 | 2023-01-26 | 1933 | 291 | 
 | 2023-01-25 | 1932 | 291 | 
-| 2023-01-23 | 1931 | 291 | 
 

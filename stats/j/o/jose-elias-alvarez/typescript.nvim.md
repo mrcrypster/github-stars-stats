@@ -1,6 +1,6 @@
 # jose-elias-alvarez/typescript.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 380 | 17 | 
 | 2023-02-21 | 380 | 17 | 
 | 2023-02-19 | 379 | 17 | 
 | 2023-02-18 | 376 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 349 | 14 | 
 | 2023-01-25 | 347 | 13 | 
 | 2023-01-24 | 346 | 13 | 
-| 2023-01-23 | 347 | 13 | 
 

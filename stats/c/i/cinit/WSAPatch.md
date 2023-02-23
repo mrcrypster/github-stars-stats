@@ -1,10 +1,10 @@
 # cinit/WSAPatch - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1413
+☋ Forks: 1427
 
-★ Stars: 810
+★ Stars: 815
 
 [Open repository](https://github.com/cinit/WSAPatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 815 | 1427 | 
 | 2023-02-21 | 810 | 1413 | 
 | 2023-02-20 | 804 | 1398 | 
 | 2023-02-19 | 794 | 1388 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 381 | 930 | 
 | 2023-01-25 | 374 | 907 | 
 | 2023-01-24 | 371 | 876 | 
-| 2023-01-23 | 369 | 849 | 
 

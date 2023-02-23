@@ -1,6 +1,6 @@
 # mineek/dirtycowapp - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 117 | 15 | 
 | 2023-02-21 | 117 | 15 | 
 | 2023-02-20 | 115 | 15 | 
 | 2023-02-19 | 114 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 107 | 15 | 
 | 2023-01-26 | 105 | 15 | 
 | 2023-01-25 | 104 | 15 | 
-| 2023-01-23 | 104 | 15 | 
 

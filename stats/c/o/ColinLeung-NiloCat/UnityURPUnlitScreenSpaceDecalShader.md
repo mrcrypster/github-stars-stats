@@ -1,6 +1,6 @@
 # ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 999 | 116 | 
 | 2023-02-21 | 999 | 116 | 
 | 2023-02-20 | 999 | 116 | 
 | 2023-02-19 | 998 | 116 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 990 | 116 | 
 | 2023-01-25 | 990 | 116 | 
 | 2023-01-24 | 990 | 116 | 
-| 2023-01-23 | 989 | 116 | 
 

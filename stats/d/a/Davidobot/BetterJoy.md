@@ -1,6 +1,6 @@
 # Davidobot/BetterJoy - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 287
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2823 | 287 | 
 | 2023-02-21 | 2823 | 287 | 
 | 2023-02-19 | 2818 | 287 | 
 | 2023-02-18 | 2815 | 287 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2772 | 286 | 
 | 2023-01-25 | 2768 | 286 | 
 | 2023-01-24 | 2767 | 285 | 
-| 2023-01-23 | 2764 | 286 | 
 

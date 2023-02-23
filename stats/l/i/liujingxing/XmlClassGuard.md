@@ -1,10 +1,10 @@
 # liujingxing/XmlClassGuard - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 75
 
-★ Stars: 415
+★ Stars: 417
 
 [Open repository](https://github.com/liujingxing/XmlClassGuard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 417 | 75 | 
 | 2023-02-21 | 415 | 75 | 
 | 2023-02-19 | 412 | 74 | 
 | 2023-02-18 | 412 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 392 | 69 | 
 | 2023-01-25 | 392 | 69 | 
 | 2023-01-24 | 392 | 69 | 
-| 2023-01-23 | 392 | 69 | 
 

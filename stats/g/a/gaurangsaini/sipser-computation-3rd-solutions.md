@@ -1,6 +1,6 @@
 # gaurangsaini/sipser-computation-3rd-solutions - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 656 | 148 | 
 | 2023-02-21 | 656 | 148 | 
 | 2023-02-19 | 654 | 148 | 
 | 2023-02-18 | 654 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 624 | 139 | 
 | 2023-01-25 | 619 | 139 | 
 | 2023-01-24 | 618 | 140 | 
-| 2023-01-23 | 617 | 138 | 
 

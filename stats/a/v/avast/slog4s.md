@@ -1,6 +1,6 @@
 # avast/slog4s - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 5 | 4 | 
 | 2023-02-21 | 5 | 4 | 
 | 2023-02-19 | 5 | 4 | 
 | 2023-02-18 | 5 | 4 | 

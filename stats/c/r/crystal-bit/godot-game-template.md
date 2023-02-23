@@ -1,10 +1,10 @@
 # crystal-bit/godot-game-template - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 34
 
-★ Stars: 360
+★ Stars: 363
 
 [Open repository](https://github.com/crystal-bit/godot-game-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 363 | 34 | 
 | 2023-02-21 | 360 | 34 | 
 | 2023-02-20 | 360 | 33 | 
 | 2023-02-19 | 359 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 354 | 32 | 
 | 2023-01-25 | 354 | 32 | 
 | 2023-01-24 | 354 | 32 | 
-| 2023-01-23 | 354 | 32 | 
 

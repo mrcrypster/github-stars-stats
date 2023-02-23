@@ -1,6 +1,6 @@
 # inspektor-gadget/inspektor-gadget - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1250 | 98 | 
 | 2023-02-21 | 1250 | 98 | 
 | 2023-02-20 | 1248 | 97 | 
 | 2023-02-19 | 1248 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1210 | 93 | 
 | 2023-01-25 | 1209 | 93 | 
 | 2023-01-24 | 1209 | 93 | 
-| 2023-01-23 | 1206 | 93 | 
 

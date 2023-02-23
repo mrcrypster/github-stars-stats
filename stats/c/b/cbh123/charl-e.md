@@ -1,6 +1,6 @@
 # cbh123/charl-e - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 422 | 18 | 
 | 2023-02-21 | 422 | 18 | 
 | 2023-02-19 | 422 | 18 | 
 | 2023-02-18 | 422 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 417 | 17 | 
 | 2023-01-25 | 416 | 17 | 
 | 2023-01-24 | 416 | 17 | 
-| 2023-01-23 | 416 | 17 | 
 

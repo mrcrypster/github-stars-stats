@@ -1,10 +1,10 @@
 # kai-dg/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 250
+☋ Forks: 264
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/kai-dg/holbertonschool-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 67 | 264 | 
 | 2023-02-21 | 65 | 250 | 
 | 2023-02-20 | 65 | 247 | 
 | 2023-02-19 | 65 | 246 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 61 | 233 | 
 | 2023-01-25 | 61 | 233 | 
 | 2023-01-24 | 61 | 234 | 
-| 2023-01-23 | 60 | 234 | 
 

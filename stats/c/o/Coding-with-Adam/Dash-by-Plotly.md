@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 22
 
-☋ Forks: 1534
+☋ Forks: 1535
 
-★ Stars: 1089
+★ Stars: 1090
 
 [Open repository](https://github.com/Coding-with-Adam/Dash-by-Plotly)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 1089 | 1534 | 
+| 2023-02-22 | 1090 | 1535 | 
 | 2023-02-21 | 1089 | 1533 | 
 | 2023-02-20 | 1088 | 1532 | 
 | 2023-02-19 | 1086 | 1528 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1062 | 1499 | 
 | 2023-01-25 | 1061 | 1498 | 
 | 2023-01-24 | 1062 | 1498 | 
-| 2023-01-23 | 1061 | 1495 | 
 

@@ -1,10 +1,10 @@
 # justdeleteme/justdelete.me - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 429
 
-★ Stars: 1279
+★ Stars: 1278
 
 [Open repository](https://github.com/justdeleteme/justdelete.me)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1278 | 429 | 
 | 2023-02-21 | 1279 | 429 | 
 | 2023-02-20 | 1279 | 429 | 
 | 2023-02-19 | 1278 | 429 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1277 | 427 | 
 | 2023-01-25 | 1276 | 427 | 
 | 2023-01-24 | 1277 | 427 | 
-| 2023-01-23 | 1277 | 427 | 
 

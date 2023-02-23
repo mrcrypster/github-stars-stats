@@ -1,6 +1,6 @@
 # Jade777777/STAR-core - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 10 | 
 | 2023-02-21 | - | 10 | 
 | 2023-02-19 | - | 10 | 
 | 2023-02-18 | - | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | - | 10 | 
 | 2023-01-25 | - | 10 | 
 | 2023-01-24 | - | 10 | 
-| 2023-01-23 | - | 10 | 
 

@@ -1,6 +1,6 @@
 # badgeteam/mch2022-firmware-ice40 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 9 | 8 | 
 | 2023-02-21 | 9 | 8 | 
 | 2023-02-20 | 9 | 8 | 
 | 2023-02-19 | 9 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 9 | 8 | 
 | 2023-01-25 | 9 | 8 | 
 | 2023-01-24 | 9 | 8 | 
-| 2023-01-23 | 9 | 8 | 
 

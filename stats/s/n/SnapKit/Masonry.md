@@ -1,10 +1,10 @@
 # SnapKit/Masonry - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 3177
 
-★ Stars: 18036
+★ Stars: 18035
 
 [Open repository](https://github.com/SnapKit/Masonry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 18035 | 3177 | 
 | 2023-02-21 | 18036 | 3177 | 
 | 2023-02-20 | 18035 | 3176 | 
 | 2023-02-19 | 18036 | 3176 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 18035 | 3173 | 
 | 2023-01-25 | 18035 | 3172 | 
 | 2023-01-24 | 18035 | 3172 | 
-| 2023-01-23 | 18036 | 3172 | 
 

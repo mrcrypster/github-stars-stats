@@ -1,6 +1,6 @@
 # tayontech/cybersecurity-interview-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 87 | 9 | 
 | 2023-02-21 | 87 | 9 | 
 | 2023-02-20 | 87 | 9 | 
 | 2023-02-19 | 87 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 83 | 9 | 
 | 2023-01-26 | 83 | 9 | 
 | 2023-01-25 | 83 | 9 | 
-| 2023-01-23 | 83 | 9 | 
 

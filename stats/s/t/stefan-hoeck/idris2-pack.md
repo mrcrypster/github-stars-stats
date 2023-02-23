@@ -1,6 +1,6 @@
 # stefan-hoeck/idris2-pack - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 49 | 12 | 
 | 2023-02-21 | 49 | 12 | 
 | 2023-02-20 | 49 | 12 | 
 | 2023-02-19 | 49 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 45 | 12 | 
 | 2023-01-25 | 45 | 12 | 
 | 2023-01-24 | 45 | 12 | 
-| 2023-01-23 | 45 | 12 | 
 

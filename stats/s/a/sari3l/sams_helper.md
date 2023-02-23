@@ -1,10 +1,10 @@
 # sari3l/sams_helper - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 74
 
-★ Stars: 190
+★ Stars: 189
 
 [Open repository](https://github.com/sari3l/sams_helper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 189 | 74 | 
 | 2023-02-21 | 190 | 74 | 
 | 2023-02-19 | 190 | 74 | 
 | 2023-02-18 | 190 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 189 | 73 | 
 | 2023-01-25 | 189 | 73 | 
 | 2023-01-24 | 189 | 73 | 
-| 2023-01-23 | 189 | 73 | 
 

@@ -1,10 +1,10 @@
 # ChiliLabs/CHIPageControl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 243
 
-★ Stars: 3101
+★ Stars: 3105
 
 [Open repository](https://github.com/ChiliLabs/CHIPageControl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3105 | 243 | 
 | 2023-02-21 | 3101 | 243 | 
 | 2023-02-20 | 3100 | 243 | 
 | 2023-02-19 | 3099 | 243 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3087 | 244 | 
 | 2023-01-25 | 3087 | 244 | 
 | 2023-01-24 | 3087 | 244 | 
-| 2023-01-23 | 3087 | 244 | 
 

@@ -1,6 +1,6 @@
 # Skykai521/DingDongHelper - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 399
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1138 | 399 | 
 | 2023-02-21 | 1138 | 399 | 
 | 2023-02-20 | 1138 | 400 | 
 | 2023-02-19 | 1138 | 401 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1141 | 406 | 
 | 2023-01-25 | 1141 | 406 | 
 | 2023-01-24 | 1141 | 406 | 
-| 2023-01-23 | 1141 | 406 | 
 

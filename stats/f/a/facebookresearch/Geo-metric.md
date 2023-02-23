@@ -1,6 +1,6 @@
 # facebookresearch/Geo-metric - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 21 | 1 | 
 | 2023-02-21 | 21 | 1 | 
 | 2023-02-19 | 21 | 1 | 
 | 2023-02-18 | 21 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 21 | 1 | 
 | 2023-01-25 | 21 | 1 | 
 | 2023-01-24 | 21 | 1 | 
-| 2023-01-23 | 21 | 1 | 
 

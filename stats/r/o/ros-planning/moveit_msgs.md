@@ -1,8 +1,8 @@
 # ros-planning/moveit_msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 106
+☋ Forks: 107
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 41 | 107 | 
 | 2023-02-21 | 41 | 106 | 
 | 2023-02-20 | 41 | 106 | 
 | 2023-02-19 | 39 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 36 | 105 | 
 | 2023-01-25 | 36 | 105 | 
 | 2023-01-24 | 36 | 105 | 
-| 2023-01-23 | 35 | 105 | 
 

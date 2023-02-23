@@ -1,6 +1,6 @@
 # ArranzCNL/ImprovedCameraSE - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 135 | 15 | 
 | 2023-02-21 | 135 | 15 | 
 | 2023-02-19 | 134 | 15 | 
 | 2023-02-18 | 134 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 115 | 11 | 
 | 2023-01-25 | 115 | 11 | 
 | 2023-01-24 | 116 | 11 | 
-| 2023-01-23 | 116 | 11 | 
 

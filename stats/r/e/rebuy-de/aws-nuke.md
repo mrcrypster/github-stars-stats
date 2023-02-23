@@ -1,10 +1,10 @@
 # rebuy-de/aws-nuke - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 557
+☋ Forks: 558
 
-★ Stars: 4252
+★ Stars: 4258
 
 [Open repository](https://github.com/rebuy-de/aws-nuke)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4258 | 558 | 
 | 2023-02-21 | 4252 | 557 | 
 | 2023-02-20 | 4247 | 557 | 
 | 2023-02-19 | 4243 | 557 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4172 | 549 | 
 | 2023-01-25 | 4160 | 548 | 
 | 2023-01-24 | 4157 | 547 | 
-| 2023-01-23 | 4151 | 547 | 
 

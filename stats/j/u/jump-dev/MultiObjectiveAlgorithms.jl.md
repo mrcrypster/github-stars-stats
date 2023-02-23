@@ -1,6 +1,6 @@
 # jump-dev/MultiObjectiveAlgorithms.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 25 | 2 | 
 | 2023-02-21 | 25 | 2 | 
 | 2023-02-20 | 25 | 3 | 
 | 2023-02-19 | 25 | 3 | 

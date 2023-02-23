@@ -1,6 +1,6 @@
 # Jguer/yay - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 8845 | 310 | 
 | 2023-02-21 | 8845 | 310 | 
 | 2023-02-20 | 8837 | 310 | 
 | 2023-02-19 | 8833 | 310 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 8729 | 309 | 
 | 2023-01-25 | 8723 | 308 | 
 | 2023-01-24 | 8720 | 309 | 
-| 2023-01-23 | 8718 | 309 | 
 

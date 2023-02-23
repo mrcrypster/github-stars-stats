@@ -1,10 +1,10 @@
 # 3150601355/code_in_paojie - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 83
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/3150601355/code_in_paojie)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 141 | 83 | 
 | 2023-02-21 | 140 | 83 | 
 | 2023-02-20 | 140 | 83 | 
 | 2023-02-19 | 140 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 140 | 83 | 
 | 2023-01-25 | 140 | 82 | 
 | 2023-01-24 | 140 | 82 | 
-| 2023-01-23 | 140 | 82 | 
 

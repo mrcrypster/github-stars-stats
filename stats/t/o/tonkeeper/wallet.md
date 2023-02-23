@@ -1,10 +1,10 @@
 # tonkeeper/wallet - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 24
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/tonkeeper/wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 76 | 24 | 
 | 2023-02-21 | 75 | 24 | 
 | 2023-02-20 | 75 | 24 | 
 | 2023-02-19 | 74 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 73 | 23 | 
 | 2023-01-25 | 72 | 23 | 
 | 2023-01-24 | 72 | 22 | 
-| 2023-01-23 | 71 | 22 | 
 

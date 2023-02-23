@@ -1,6 +1,6 @@
 # facebookresearch/torchdim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 258 | 11 | 
 | 2023-02-21 | 258 | 11 | 
 | 2023-02-20 | 258 | 11 | 
 | 2023-02-19 | 258 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 257 | 11 | 
 | 2023-01-26 | 257 | 11 | 
 | 2023-01-25 | 257 | 11 | 
-| 2023-01-23 | 257 | 11 | 
 

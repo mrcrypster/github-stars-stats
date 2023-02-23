@@ -1,6 +1,6 @@
 # zbroyar/mass_killings - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 321 | 36 | 
 | 2023-02-21 | 321 | 36 | 
 | 2023-02-20 | 321 | 36 | 
 | 2023-02-18 | 321 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 322 | 36 | 
 | 2023-01-25 | 322 | 36 | 
 | 2023-01-24 | 322 | 36 | 
-| 2023-01-23 | 322 | 36 | 
 

@@ -1,6 +1,6 @@
 # liberationfonts/liberation-fonts - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 310 | 22 | 
 | 2023-02-21 | 310 | 22 | 
 | 2023-02-20 | 309 | 22 | 
 | 2023-02-18 | 309 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 300 | 21 | 
 | 2023-01-25 | 300 | 21 | 
 | 2023-01-24 | 300 | 21 | 
-| 2023-01-23 | 300 | 21 | 
 

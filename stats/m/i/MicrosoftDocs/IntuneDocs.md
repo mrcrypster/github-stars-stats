@@ -1,6 +1,6 @@
 # MicrosoftDocs/IntuneDocs - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 571
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 248 | 571 | 
 | 2023-02-21 | 248 | 571 | 
 | 2023-02-20 | 248 | 571 | 
 | 2023-02-18 | 248 | 571 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 245 | 569 | 
 | 2023-01-25 | 245 | 569 | 
 | 2023-01-24 | 244 | 569 | 
-| 2023-01-23 | 244 | 570 | 
 

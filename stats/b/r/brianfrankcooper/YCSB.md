@@ -1,6 +1,6 @@
 # brianfrankcooper/YCSB - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 2126
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 4407 | 2126 | 
 | 2023-02-21 | 4407 | 2126 | 
 | 2023-02-20 | 4404 | 2125 | 
 | 2023-02-19 | 4404 | 2125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 4377 | 2109 | 
 | 2023-01-25 | 4376 | 2108 | 
 | 2023-01-24 | 4376 | 2108 | 
-| 2023-01-23 | 4375 | 2107 | 
 

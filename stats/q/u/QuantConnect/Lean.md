@@ -1,10 +1,10 @@
 # QuantConnect/Lean - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 2753
+☋ Forks: 2754
 
-★ Stars: 7135
+★ Stars: 7136
 
 [Open repository](https://github.com/QuantConnect/Lean)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7136 | 2754 | 
 | 2023-02-21 | 7135 | 2753 | 
 | 2023-02-20 | 7119 | 2751 | 
 | 2023-02-19 | 7102 | 2750 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 7014 | 2730 | 
 | 2023-01-25 | 7012 | 2730 | 
 | 2023-01-24 | 7008 | 2729 | 
-| 2023-01-23 | 7005 | 2729 | 
 

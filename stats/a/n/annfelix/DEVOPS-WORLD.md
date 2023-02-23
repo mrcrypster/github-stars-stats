@@ -1,10 +1,10 @@
 # annfelix/DEVOPS-WORLD - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1084
+☋ Forks: 1100
 
-★ Stars: 1695
+★ Stars: 1711
 
 [Open repository](https://github.com/annfelix/DEVOPS-WORLD)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1711 | 1100 | 
 | 2023-02-21 | 1695 | 1084 | 
 | 2023-02-20 | 1674 | 1066 | 
 | 2023-02-19 | 1643 | 1045 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 978 | 563 | 
 | 2023-01-25 | 939 | 539 | 
 | 2023-01-24 | 868 | 486 | 
-| 2023-01-23 | 843 | 474 | 
 

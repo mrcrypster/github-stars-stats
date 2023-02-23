@@ -1,8 +1,8 @@
 # mydevopscoach/my-tf-iac-aws-repo - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
-☋ Forks: 162
+☋ Forks: 163
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2 | 163 | 
 | 2023-02-21 | 2 | 162 | 
 | 2023-02-20 | 2 | 161 | 
 | 2023-02-19 | 2 | 161 | 

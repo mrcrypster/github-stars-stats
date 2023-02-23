@@ -1,6 +1,6 @@
 # FOSS-Community/website-fossc - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 11 | 34 | 
 | 2023-02-21 | 11 | 34 | 
 | 2023-02-20 | 10 | 34 | 
 | 2023-02-19 | 10 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 9 | 28 | 
 | 2023-01-25 | 9 | 28 | 
 | 2023-01-24 | 9 | 28 | 
-| 2023-01-23 | 9 | 28 | 
 

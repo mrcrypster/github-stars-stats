@@ -1,8 +1,8 @@
 # Lyall/RF5Fix - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 45 | 5 | 
 | 2023-02-21 | 45 | 4 | 
 | 2023-02-20 | 45 | 4 | 
 | 2023-02-18 | 45 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 43 | 4 | 
 | 2023-01-25 | 43 | 4 | 
 | 2023-01-24 | 43 | 4 | 
-| 2023-01-23 | 43 | 4 | 
 

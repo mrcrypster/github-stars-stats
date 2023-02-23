@@ -1,10 +1,10 @@
 # CyberSecurityUP/Guide-CEH-Practical-Master - stars & forks statistics
 
-Stats updated on Feb 2023, 20
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 246
 
-★ Stars: 687
+★ Stars: 688
 
 [Open repository](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 688 | 246 | 
 | 2023-02-20 | 687 | 246 | 
 | 2023-02-19 | 686 | 246 | 
 | 2023-02-18 | 686 | 246 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 20
 | 2023-01-26 | 668 | 242 | 
 | 2023-01-25 | 667 | 242 | 
 | 2023-01-24 | 667 | 242 | 
-| 2023-01-23 | 666 | 242 | 
 

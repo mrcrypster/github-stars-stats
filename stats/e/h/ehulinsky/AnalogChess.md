@@ -1,6 +1,6 @@
 # ehulinsky/AnalogChess - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 447 | 23 | 
 | 2023-02-21 | 447 | 23 | 
 | 2023-02-20 | 447 | 23 | 
 | 2023-02-19 | 447 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 435 | 24 | 
 | 2023-01-25 | 434 | 24 | 
 | 2023-01-24 | 434 | 24 | 
-| 2023-01-23 | 432 | 23 | 
 

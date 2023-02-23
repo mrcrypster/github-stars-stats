@@ -1,6 +1,6 @@
 # hydescarf/Obsidian-Theme-Mado-11 - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 63 | 3 | 
 | 2023-02-22 | 63 | 3 | 
 | 2023-02-20 | 63 | 3 | 
 | 2023-02-19 | 63 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 62 | 3 | 
 | 2023-01-25 | 62 | 3 | 
 | 2023-01-24 | 62 | 3 | 
-| 2023-01-23 | 62 | 3 | 
 

@@ -1,6 +1,6 @@
 # Descolada/UIAutomation - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 85 | 19 | 
 | 2023-02-21 | 85 | 19 | 
 | 2023-02-20 | 85 | 19 | 
 | 2023-02-19 | 85 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 79 | 14 | 
 | 2023-01-26 | 79 | 14 | 
 | 2023-01-24 | 79 | 14 | 
-| 2023-01-23 | 78 | 14 | 
 

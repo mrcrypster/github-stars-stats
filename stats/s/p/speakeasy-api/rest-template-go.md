@@ -1,10 +1,10 @@
 # speakeasy-api/rest-template-go - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 24
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/speakeasy-api/rest-template-go)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 177 | 24 | 
 | 2023-02-21 | 176 | 24 | 
 | 2023-02-20 | 176 | 24 | 
 | 2023-02-19 | 176 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 174 | 20 | 
 | 2023-01-25 | 173 | 19 | 
 | 2023-01-24 | 172 | 19 | 
-| 2023-01-23 | 172 | 19 | 
 

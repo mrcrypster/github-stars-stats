@@ -1,6 +1,6 @@
 # rhte2023-argo-rollouts/dstrategies-app-deployment - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | - | 46 | 
 | 2023-02-21 | - | 46 | 
 | 2023-02-19 | - | 46 | 
 | 2023-02-18 | - | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | - | 18 | 
 | 2023-01-26 | - | 18 | 
 | 2023-01-25 | - | 18 | 
-| 2023-01-24 | - | 9 | 
 

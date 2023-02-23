@@ -1,10 +1,10 @@
 # vmware-tanzu/velero - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1182
+☋ Forks: 1184
 
-★ Stars: 7053
+★ Stars: 7057
 
 [Open repository](https://github.com/vmware-tanzu/velero)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7057 | 1184 | 
 | 2023-02-21 | 7053 | 1182 | 
 | 2023-02-20 | 7050 | 1182 | 
 | 2023-02-19 | 7046 | 1181 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 6969 | 1177 | 
 | 2023-01-25 | 6963 | 1177 | 
 | 2023-01-24 | 6962 | 1176 | 
-| 2023-01-23 | 6959 | 1177 | 
 

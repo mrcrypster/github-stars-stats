@@ -1,6 +1,6 @@
 # Exzo-Network/ERC-20-token-smart-contract - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 30 | 1 | 
 | 2023-02-21 | 30 | 1 | 
 | 2023-02-20 | 30 | 1 | 
 | 2023-02-19 | 30 | 1 | 

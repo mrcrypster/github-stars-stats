@@ -1,10 +1,10 @@
 # umijs/dumi - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 1085
 
-★ Stars: 2775
+★ Stars: 2777
 
 [Open repository](https://github.com/umijs/dumi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2777 | 1085 | 
 | 2023-02-21 | 2775 | 1085 | 
 | 2023-02-19 | 2773 | 1085 | 
 | 2023-02-18 | 2772 | 1086 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2733 | 1066 | 
 | 2023-01-25 | 2731 | 1065 | 
 | 2023-01-24 | 2731 | 1065 | 
-| 2023-01-23 | 2730 | 1064 | 
 

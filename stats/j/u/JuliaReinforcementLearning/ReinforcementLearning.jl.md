@@ -1,6 +1,6 @@
 # JuliaReinforcementLearning/ReinforcementLearning.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 474 | 81 | 
 | 2023-02-21 | 474 | 81 | 
 | 2023-02-20 | 472 | 81 | 
 | 2023-02-19 | 472 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 464 | 79 | 
 | 2023-01-25 | 463 | 79 | 
 | 2023-01-24 | 462 | 79 | 
-| 2023-01-23 | 462 | 79 | 
 

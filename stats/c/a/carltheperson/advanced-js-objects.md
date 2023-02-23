@@ -1,6 +1,6 @@
 # carltheperson/advanced-js-objects - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 242 | 22 | 
 | 2023-02-21 | 242 | 22 | 
 | 2023-02-20 | 242 | 22 | 
 | 2023-02-19 | 242 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 242 | 22 | 
 | 2023-01-26 | 242 | 22 | 
 | 2023-01-25 | 241 | 22 | 
-| 2023-01-24 | 240 | 22 | 
 

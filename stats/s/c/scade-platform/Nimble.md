@@ -1,10 +1,10 @@
 # scade-platform/Nimble - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 9
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/scade-platform/Nimble)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 219 | 9 | 
 | 2023-02-21 | 218 | 9 | 
 | 2023-02-20 | 217 | 9 | 
 | 2023-02-19 | 217 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 217 | 9 | 
 | 2023-01-26 | 217 | 9 | 
 | 2023-01-25 | 217 | 9 | 
-| 2023-01-24 | 217 | 9 | 
 

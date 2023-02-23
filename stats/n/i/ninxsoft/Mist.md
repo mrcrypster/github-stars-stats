@@ -1,10 +1,10 @@
 # ninxsoft/Mist - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 27
 
-★ Stars: 555
+★ Stars: 565
 
 [Open repository](https://github.com/ninxsoft/Mist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 565 | 27 | 
 | 2023-02-21 | 555 | 27 | 
 | 2023-02-20 | 552 | 26 | 
 | 2023-02-19 | 550 | 26 | 

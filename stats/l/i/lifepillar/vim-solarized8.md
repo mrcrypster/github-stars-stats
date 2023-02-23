@@ -1,6 +1,6 @@
 # lifepillar/vim-solarized8 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 910 | 86 | 
 | 2023-02-21 | 910 | 86 | 
 | 2023-02-19 | 910 | 86 | 
 | 2023-02-18 | 910 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 908 | 85 | 
 | 2023-01-25 | 908 | 85 | 
 | 2023-01-24 | 908 | 85 | 
-| 2023-01-23 | 908 | 85 | 
 

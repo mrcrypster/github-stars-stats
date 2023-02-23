@@ -1,10 +1,10 @@
 # TophantTechnology/ARL - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 682
+☋ Forks: 681
 
-★ Stars: 3487
+★ Stars: 3493
 
 [Open repository](https://github.com/TophantTechnology/ARL)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3493 | 681 | 
 | 2023-02-21 | 3487 | 682 | 
 | 2023-02-20 | 3481 | 681 | 
 | 2023-02-19 | 3478 | 681 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 3393 | 674 | 
 | 2023-01-26 | 3392 | 674 | 
 | 2023-01-24 | 3391 | 674 | 
-| 2023-01-23 | 3389 | 674 | 
 

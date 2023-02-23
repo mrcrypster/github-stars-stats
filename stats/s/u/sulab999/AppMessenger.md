@@ -1,6 +1,6 @@
 # sulab999/AppMessenger - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 341 | 40 | 
 | 2023-02-21 | 341 | 40 | 
 | 2023-02-20 | 339 | 38 | 
 | 2023-02-18 | 338 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 320 | 35 | 
 | 2023-01-25 | 320 | 35 | 
 | 2023-01-24 | 319 | 35 | 
-| 2023-01-23 | 319 | 35 | 
 

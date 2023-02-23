@@ -1,10 +1,10 @@
 # Lambda-Emacs/lambda-emacs - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/Lambda-Emacs/lambda-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 80 | 8 | 
 | 2023-02-21 | 79 | 7 | 
 | 2023-02-20 | 79 | 7 | 
 | 2023-02-19 | 79 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 74 | 6 | 
 | 2023-01-25 | 74 | 6 | 
 | 2023-01-24 | 74 | 6 | 
-| 2023-01-23 | 74 | 6 | 
 

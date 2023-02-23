@@ -1,6 +1,6 @@
 # CLAAUDIA-teaching/sci-sw-dev-2021 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2 | 29 | 
 | 2023-02-21 | 2 | 29 | 
 | 2023-02-20 | 2 | 29 | 
 | 2023-02-19 | 2 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2 | 29 | 
 | 2023-01-25 | 2 | 29 | 
 | 2023-01-24 | 2 | 29 | 
-| 2023-01-23 | 2 | 29 | 
 

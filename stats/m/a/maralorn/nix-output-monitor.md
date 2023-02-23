@@ -1,10 +1,10 @@
 # maralorn/nix-output-monitor - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
-★ Stars: 261
+★ Stars: 265
 
 [Open repository](https://github.com/maralorn/nix-output-monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 265 | 8 | 
 | 2023-02-21 | 261 | 8 | 
 | 2023-02-20 | 261 | 8 | 
 | 2023-02-19 | 260 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 243 | 8 | 
 | 2023-01-25 | 241 | 8 | 
 | 2023-01-24 | 241 | 8 | 
-| 2023-01-23 | 241 | 8 | 
 

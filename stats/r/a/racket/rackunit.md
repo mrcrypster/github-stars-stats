@@ -1,10 +1,10 @@
 # racket/rackunit - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 24
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/racket/rackunit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 17 | 24 | 
 | 2023-02-21 | 16 | 24 | 
 | 2023-02-20 | 16 | 24 | 
 | 2023-02-19 | 16 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 15 | 24 | 
 | 2023-01-25 | 15 | 24 | 
 | 2023-01-24 | 15 | 24 | 
-| 2023-01-23 | 15 | 24 | 
 

@@ -1,6 +1,6 @@
 # pentagonxyz/xyk-amm-move - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 84 | 19 | 
 | 2023-02-21 | 84 | 19 | 
 | 2023-02-20 | 84 | 19 | 
 | 2023-02-19 | 84 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 82 | 19 | 
 | 2023-01-26 | 82 | 19 | 
 | 2023-01-24 | 82 | 19 | 
-| 2023-01-23 | 82 | 19 | 
 

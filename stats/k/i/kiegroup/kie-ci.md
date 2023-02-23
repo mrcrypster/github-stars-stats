@@ -1,6 +1,6 @@
 # kiegroup/kie-ci - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 6 | 39 | 
 | 2023-02-21 | 6 | 39 | 
 | 2023-02-19 | 6 | 39 | 
 | 2023-02-18 | 6 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 7 | 39 | 
 | 2023-01-25 | 7 | 39 | 
 | 2023-01-24 | 7 | 39 | 
-| 2023-01-23 | 7 | 39 | 
 

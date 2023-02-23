@@ -1,6 +1,6 @@
 # ekalinin/Dockerfile.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 686 | 79 | 
 | 2023-02-21 | 686 | 79 | 
 | 2023-02-19 | 686 | 78 | 
 | 2023-02-18 | 686 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 685 | 77 | 
 | 2023-01-25 | 685 | 77 | 
 | 2023-01-24 | 685 | 77 | 
-| 2023-01-23 | 685 | 77 | 
 

@@ -1,6 +1,6 @@
 # scala/scala3.g8 - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 96 | 50 | 
 | 2023-02-22 | 96 | 50 | 
 | 2023-02-20 | 96 | 50 | 
 | 2023-02-19 | 96 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-26 | 95 | 49 | 
 | 2023-01-25 | 95 | 49 | 
 | 2023-01-24 | 95 | 49 | 
-| 2023-01-23 | 95 | 49 | 
 

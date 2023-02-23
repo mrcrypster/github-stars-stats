@@ -1,0 +1,18 @@
+# jcomellas/getopt - stars & forks statistics
+
+Stats updated on Feb 2023, 23
+
+☋ Forks: 78
+
+★ Stars: 242
+
+[Open repository](https://github.com/jcomellas/getopt)
+
+[Open detailed stats for jcomellas/getopt](https://reviewgithub.com/rep/jcomellas/getopt)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-23 | 242 | 78 | 
+| 2023-02-22 | 242 | 78 | 
+

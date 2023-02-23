@@ -1,6 +1,6 @@
 # higan-emu/higan - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 949 | 98 | 
 | 2023-02-21 | 949 | 98 | 
 | 2023-02-20 | 949 | 98 | 
 | 2023-02-19 | 949 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 942 | 96 | 
 | 2023-01-25 | 942 | 96 | 
 | 2023-01-24 | 941 | 96 | 
-| 2023-01-23 | 941 | 96 | 
 

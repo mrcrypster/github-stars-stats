@@ -1,10 +1,10 @@
 # Peng-YM/Sub-Store - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 189
+☋ Forks: 188
 
-★ Stars: 2198
+★ Stars: 2203
 
 [Open repository](https://github.com/Peng-YM/Sub-Store)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 2203 | 188 | 
 | 2023-02-21 | 2198 | 189 | 
 | 2023-02-20 | 2194 | 189 | 
 | 2023-02-18 | 2193 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 2144 | 186 | 
 | 2023-01-25 | 2142 | 186 | 
 | 2023-01-24 | 2139 | 186 | 
-| 2023-01-23 | 2139 | 186 | 
 

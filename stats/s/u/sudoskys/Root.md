@@ -1,10 +1,10 @@
 # sudoskys/Root - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 15
 
-★ Stars: 227
+★ Stars: 229
 
 [Open repository](https://github.com/sudoskys/Root)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 229 | 15 | 
 | 2023-02-21 | 227 | 15 | 
 | 2023-02-19 | 227 | 15 | 
 | 2023-02-18 | 227 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 208 | 16 | 
 | 2023-01-25 | 208 | 16 | 
 | 2023-01-24 | 208 | 16 | 
-| 2023-01-23 | 208 | 16 | 
 

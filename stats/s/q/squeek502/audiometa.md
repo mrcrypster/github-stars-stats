@@ -1,10 +1,10 @@
 # squeek502/audiometa - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/squeek502/audiometa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 33 | 3 | 
 | 2023-02-21 | 34 | 3 | 
 | 2023-02-20 | 34 | 3 | 
 | 2023-02-19 | 34 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 33 | 3 | 
 | 2023-01-25 | 33 | 3 | 
 | 2023-01-24 | 33 | 3 | 
-| 2023-01-23 | 33 | 3 | 
 

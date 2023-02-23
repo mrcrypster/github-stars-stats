@@ -1,10 +1,10 @@
 # rescript-association/rescript-lang.org - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 1528
+★ Stars: 1531
 
 [Open repository](https://github.com/rescript-association/rescript-lang.org)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1531 | 218 | 
 | 2023-02-21 | 1528 | 217 | 
 | 2023-02-20 | 1527 | 217 | 
 | 2023-02-19 | 1527 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1486 | 217 | 
 | 2023-01-25 | 1483 | 217 | 
 | 2023-01-24 | 1481 | 217 | 
-| 2023-01-23 | 1478 | 217 | 
 

@@ -1,10 +1,10 @@
 # zbezj/HEU_KMS_Activator - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 1911
+☋ Forks: 1916
 
-★ Stars: 14522
+★ Stars: 14581
 
 [Open repository](https://github.com/zbezj/HEU_KMS_Activator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 14581 | 1916 | 
 | 2023-02-21 | 14522 | 1911 | 
 | 2023-02-20 | 14513 | 1909 | 
 | 2023-02-19 | 14407 | 1899 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 13727 | 1844 | 
 | 2023-01-25 | 13711 | 1843 | 
 | 2023-01-24 | 13694 | 1840 | 
-| 2023-01-23 | 13678 | 1840 | 
 

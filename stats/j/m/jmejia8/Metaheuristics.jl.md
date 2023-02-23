@@ -1,6 +1,6 @@
 # jmejia8/Metaheuristics.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 173 | 18 | 
 | 2023-02-21 | 173 | 18 | 
 | 2023-02-20 | 173 | 18 | 
 | 2023-02-18 | 173 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 170 | 18 | 
 | 2023-01-25 | 170 | 18 | 
 | 2023-01-24 | 170 | 18 | 
-| 2023-01-23 | 170 | 18 | 
 

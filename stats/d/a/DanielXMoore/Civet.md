@@ -1,10 +1,10 @@
 # DanielXMoore/Civet - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 17
 
-★ Stars: 578
+★ Stars: 581
 
 [Open repository](https://github.com/DanielXMoore/Civet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 581 | 17 | 
 | 2023-02-21 | 578 | 17 | 
 | 2023-02-20 | 574 | 17 | 
 | 2023-02-19 | 572 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 517 | 15 | 
 | 2023-01-25 | 510 | 15 | 
 | 2023-01-24 | 508 | 15 | 
-| 2023-01-23 | 505 | 15 | 
 

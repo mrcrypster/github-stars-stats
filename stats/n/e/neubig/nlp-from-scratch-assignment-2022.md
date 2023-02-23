@@ -1,10 +1,10 @@
 # neubig/nlp-from-scratch-assignment-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 24
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/neubig/nlp-from-scratch-assignment-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 145 | 24 | 
 | 2023-02-21 | 144 | 24 | 
 | 2023-02-19 | 144 | 24 | 
 | 2023-02-18 | 144 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 141 | 24 | 
 | 2023-01-25 | 141 | 24 | 
 | 2023-01-24 | 141 | 24 | 
-| 2023-01-23 | 141 | 24 | 
 

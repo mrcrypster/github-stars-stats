@@ -1,8 +1,8 @@
 # cncf/xds - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 143
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 143 | 56 | 
 | 2023-02-21 | 143 | 55 | 
 | 2023-02-20 | 142 | 55 | 
 | 2023-02-19 | 142 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 140 | 55 | 
 | 2023-01-25 | 139 | 55 | 
 | 2023-01-24 | 139 | 55 | 
-| 2023-01-23 | 138 | 55 | 
 

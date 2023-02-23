@@ -1,6 +1,6 @@
 # svenvc/zinc - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 81 | 51 | 
 | 2023-02-21 | 81 | 51 | 
 | 2023-02-20 | 81 | 51 | 
 | 2023-02-19 | 81 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 80 | 51 | 
 | 2023-01-25 | 80 | 50 | 
 | 2023-01-24 | 80 | 50 | 
-| 2023-01-23 | 80 | 50 | 
 

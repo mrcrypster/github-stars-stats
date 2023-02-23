@@ -1,10 +1,10 @@
 # bazelbuild/starlark - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 132
 
-★ Stars: 1671
+★ Stars: 1676
 
 [Open repository](https://github.com/bazelbuild/starlark)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1676 | 132 | 
 | 2023-02-21 | 1671 | 132 | 
 | 2023-02-20 | 1670 | 132 | 
 | 2023-02-19 | 1671 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1641 | 127 | 
 | 2023-01-25 | 1637 | 126 | 
 | 2023-01-24 | 1637 | 126 | 
-| 2023-01-23 | 1635 | 126 | 
 

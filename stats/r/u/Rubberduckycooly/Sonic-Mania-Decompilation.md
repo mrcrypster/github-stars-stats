@@ -1,6 +1,6 @@
 # Rubberduckycooly/Sonic-Mania-Decompilation - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 415 | 84 | 
 | 2023-02-21 | 415 | 84 | 
 | 2023-02-20 | 415 | 84 | 
 | 2023-02-18 | 415 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 402 | 79 | 
 | 2023-01-25 | 402 | 78 | 
 | 2023-01-24 | 402 | 77 | 
-| 2023-01-23 | 401 | 77 | 
 

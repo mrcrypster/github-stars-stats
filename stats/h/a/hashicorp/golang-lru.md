@@ -1,10 +1,10 @@
 # hashicorp/golang-lru - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 431
+☋ Forks: 429
 
-★ Stars: 3341
+★ Stars: 3342
 
 [Open repository](https://github.com/hashicorp/golang-lru)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 3342 | 429 | 
 | 2023-02-21 | 3341 | 431 | 
 | 2023-02-20 | 3341 | 430 | 
 | 2023-02-19 | 3338 | 430 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 3303 | 428 | 
 | 2023-01-25 | 3303 | 428 | 
 | 2023-01-24 | 3301 | 427 | 
-| 2023-01-23 | 3300 | 426 | 
 

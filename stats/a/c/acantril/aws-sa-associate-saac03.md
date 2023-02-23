@@ -1,10 +1,10 @@
 # acantril/aws-sa-associate-saac03 - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 156
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/acantril/aws-sa-associate-saac03)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 323 | 156 | 
 | 2023-02-21 | 322 | 156 | 
 | 2023-02-20 | 322 | 155 | 
 | 2023-02-19 | 322 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 288 | 130 | 
 | 2023-01-26 | 288 | 128 | 
 | 2023-01-24 | 287 | 127 | 
-| 2023-01-23 | 286 | 126 | 
 

@@ -1,10 +1,10 @@
 # github/roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 970
+☋ Forks: 971
 
-★ Stars: 7187
+★ Stars: 7189
 
 [Open repository](https://github.com/github/roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 7189 | 971 | 
 | 2023-02-21 | 7187 | 970 | 
 | 2023-02-20 | 7186 | 970 | 
 | 2023-02-19 | 7185 | 970 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 7136 | 956 | 
 | 2023-01-25 | 7133 | 956 | 
 | 2023-01-24 | 7133 | 957 | 
-| 2023-01-23 | 7130 | 957 | 
 

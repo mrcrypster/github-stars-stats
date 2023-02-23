@@ -1,10 +1,10 @@
 # dotnet/windowsdesktop - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 43
 
-★ Stars: 113
+★ Stars: 112
 
 [Open repository](https://github.com/dotnet/windowsdesktop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 112 | 43 | 
 | 2023-02-21 | 113 | 43 | 
 | 2023-02-19 | 113 | 42 | 
 | 2023-02-18 | 113 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 110 | 42 | 
 | 2023-01-25 | 110 | 42 | 
 | 2023-01-24 | 110 | 42 | 
-| 2023-01-23 | 111 | 42 | 
 

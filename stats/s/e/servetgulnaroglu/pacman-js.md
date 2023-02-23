@@ -1,10 +1,10 @@
 # servetgulnaroglu/pacman-js - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/servetgulnaroglu/pacman-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 133 | 55 | 
 | 2023-02-21 | 132 | 54 | 
 | 2023-02-19 | 131 | 55 | 
 | 2023-02-18 | 129 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 114 | 45 | 
 | 2023-01-25 | 114 | 44 | 
 | 2023-01-24 | 114 | 44 | 
-| 2023-01-23 | 113 | 44 | 
 

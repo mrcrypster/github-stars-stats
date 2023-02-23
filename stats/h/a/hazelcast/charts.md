@@ -1,6 +1,6 @@
 # hazelcast/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 30 | 75 | 
 | 2023-02-21 | 30 | 75 | 
 | 2023-02-20 | 30 | 75 | 
 | 2023-02-19 | 30 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 29 | 75 | 
 | 2023-01-25 | 29 | 75 | 
 | 2023-01-24 | 29 | 75 | 
-| 2023-01-23 | 29 | 75 | 
 

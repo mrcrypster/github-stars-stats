@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 22
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 48
+★ Stars: 51
 
 [Open repository](https://github.com/JagadeeshBoyidi/AlgoOriginals-TimeBasedStraddles)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-22 | 48 | 20 | 
+| 2023-02-22 | 51 | 21 | 
 | 2023-02-21 | 48 | 20 | 
 

@@ -1,6 +1,6 @@
 # cuixueshe/vue3-dida - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 148 | 100 | 
 | 2023-02-21 | 148 | 100 | 
 | 2023-02-20 | 148 | 100 | 
 | 2023-02-19 | 148 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 123 | 84 | 
 | 2023-01-25 | 123 | 83 | 
 | 2023-01-24 | 123 | 83 | 
-| 2023-01-23 | 123 | 83 | 
 

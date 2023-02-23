@@ -1,6 +1,6 @@
 # liaoliao666/v2ex - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 207 | 10 | 
 | 2023-02-21 | 207 | 10 | 
 | 2023-02-20 | 208 | 10 | 
 | 2023-02-18 | 208 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 188 | 8 | 
 | 2023-01-25 | 188 | 8 | 
 | 2023-01-24 | 187 | 8 | 
-| 2023-01-23 | 186 | 8 | 
 

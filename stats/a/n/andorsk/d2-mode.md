@@ -1,6 +1,6 @@
 # andorsk/d2-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 37 | 5 | 
 | 2023-02-21 | 37 | 5 | 
 | 2023-02-20 | 36 | 5 | 
 | 2023-02-19 | 35 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 34 | 5 | 
 | 2023-01-25 | 34 | 5 | 
 | 2023-01-24 | 32 | 5 | 
-| 2023-01-23 | 31 | 5 | 
 

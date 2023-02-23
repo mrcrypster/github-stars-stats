@@ -1,10 +1,10 @@
 # Open-Bootcamp/ResolucionEjercicios - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 205
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/Open-Bootcamp/ResolucionEjercicios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 179 | 205 | 
 | 2023-02-21 | 178 | 205 | 
 | 2023-02-19 | 178 | 202 | 
 | 2023-02-18 | 176 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 168 | 187 | 
 | 2023-01-25 | 166 | 186 | 
 | 2023-01-24 | 166 | 185 | 
-| 2023-01-23 | 166 | 184 | 
 

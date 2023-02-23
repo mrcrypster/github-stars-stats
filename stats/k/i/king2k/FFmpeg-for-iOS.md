@@ -1,6 +1,6 @@
 # king2k/FFmpeg-for-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 10 | 21 | 
 | 2023-02-21 | 10 | 21 | 
 | 2023-02-20 | 10 | 21 | 
 | 2023-02-18 | 10 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 10 | 21 | 
 | 2023-01-25 | 10 | 21 | 
 | 2023-01-24 | 10 | 21 | 
-| 2023-01-23 | 10 | 21 | 
 

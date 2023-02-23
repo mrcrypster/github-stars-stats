@@ -1,10 +1,10 @@
 # Weissle/persistent-breakpoints.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/Weissle/persistent-breakpoints.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 70 | 1 | 
 | 2023-02-21 | 69 | 1 | 
 | 2023-02-20 | 69 | 1 | 
 | 2023-02-19 | 69 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 64 | 1 | 
 | 2023-01-25 | 62 | 1 | 
 | 2023-01-24 | 62 | 1 | 
-| 2023-01-23 | 62 | 1 | 
 

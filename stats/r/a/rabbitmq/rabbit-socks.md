@@ -1,6 +1,6 @@
 # rabbitmq/rabbit-socks - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 58 | 6 | 
 | 2023-02-21 | 58 | 6 | 
 | 2023-02-20 | 58 | 6 | 
 | 2023-02-19 | 58 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 58 | 6 | 
 | 2023-01-25 | 58 | 6 | 
 | 2023-01-24 | 58 | 6 | 
-| 2023-01-23 | 58 | 6 | 
 

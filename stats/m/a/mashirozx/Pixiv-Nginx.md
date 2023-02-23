@@ -1,6 +1,6 @@
 # mashirozx/Pixiv-Nginx - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 1531 | 188 | 
 | 2023-02-21 | 1531 | 188 | 
 | 2023-02-19 | 1531 | 188 | 
 | 2023-02-18 | 1530 | 188 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 1522 | 189 | 
 | 2023-01-25 | 1522 | 189 | 
 | 2023-01-24 | 1522 | 189 | 
-| 2023-01-23 | 1522 | 189 | 
 

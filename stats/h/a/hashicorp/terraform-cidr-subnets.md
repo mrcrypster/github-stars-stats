@@ -1,6 +1,6 @@
 # hashicorp/terraform-cidr-subnets - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 70 | 32 | 
 | 2023-02-21 | 70 | 32 | 
 | 2023-02-20 | 69 | 32 | 
 | 2023-02-19 | 69 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-27 | 67 | 31 | 
 | 2023-01-26 | 67 | 31 | 
 | 2023-01-24 | 67 | 31 | 
-| 2023-01-23 | 67 | 31 | 
 

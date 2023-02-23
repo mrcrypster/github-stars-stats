@@ -1,10 +1,10 @@
 # huangxg/lnotes - stars & forks statistics
 
-Stats updated on Feb 2023, 21
+Stats updated on Feb 2023, 22
 
 ☋ Forks: 69
 
-★ Stars: 301
+★ Stars: 302
 
 [Open repository](https://github.com/huangxg/lnotes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-22 | 302 | 69 | 
 | 2023-02-21 | 301 | 69 | 
 | 2023-02-20 | 301 | 69 | 
 | 2023-02-18 | 301 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 21
 | 2023-01-26 | 297 | 68 | 
 | 2023-01-25 | 297 | 68 | 
 | 2023-01-24 | 297 | 68 | 
-| 2023-01-23 | 297 | 68 | 
 
