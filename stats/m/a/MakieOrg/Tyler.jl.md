@@ -1,6 +1,6 @@
 # MakieOrg/Tyler.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 27 | 4 | 
 | 2023-02-22 | 27 | 4 | 
 | 2023-02-21 | 27 | 4 | 
 | 2023-02-20 | 26 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 23 | 3 | 
 | 2023-01-26 | 22 | 3 | 
 | 2023-01-25 | 22 | 3 | 
-| 2023-01-24 | 22 | 3 | 
 

@@ -1,6 +1,6 @@
 # SwiftFiddle/swiftregex - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 125 | 6 | 
 | 2023-02-22 | 125 | 6 | 
 | 2023-02-21 | 125 | 6 | 
 | 2023-02-20 | 125 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 122 | 6 | 
 | 2023-01-26 | 122 | 6 | 
 | 2023-01-25 | 122 | 6 | 
-| 2023-01-24 | 122 | 6 | 
 

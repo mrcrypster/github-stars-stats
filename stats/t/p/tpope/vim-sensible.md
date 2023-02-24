@@ -1,10 +1,10 @@
 # tpope/vim-sensible - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 294
 
-★ Stars: 4831
+★ Stars: 4832
 
 [Open repository](https://github.com/tpope/vim-sensible)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 4832 | 294 | 
 | 2023-02-22 | 4831 | 294 | 
 | 2023-02-21 | 4831 | 294 | 
 | 2023-02-20 | 4830 | 293 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 4819 | 292 | 
 | 2023-01-27 | 4819 | 292 | 
 | 2023-01-26 | 4815 | 292 | 
-| 2023-01-25 | 4816 | 292 | 
 

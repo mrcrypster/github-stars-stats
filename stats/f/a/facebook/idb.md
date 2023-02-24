@@ -1,6 +1,6 @@
 # facebook/idb - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 426
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4034 | 426 | 
 | 2023-02-23 | 4034 | 426 | 
 | 2023-02-21 | 4033 | 425 | 
 | 2023-02-20 | 4032 | 425 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-27 | 4007 | 421 | 
 | 2023-01-26 | 4007 | 420 | 
 | 2023-01-25 | 4005 | 420 | 
-| 2023-01-24 | 4004 | 420 | 
 

@@ -1,10 +1,10 @@
 # SpaceVim/SpaceVim - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1485
 
-★ Stars: 19608
+★ Stars: 19612
 
 [Open repository](https://github.com/SpaceVim/SpaceVim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 19612 | 1485 | 
 | 2023-02-22 | 19608 | 1485 | 
 | 2023-02-21 | 19606 | 1487 | 
 | 2023-02-20 | 19603 | 1487 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 19525 | 1485 | 
 | 2023-01-26 | 19520 | 1486 | 
 | 2023-01-25 | 19518 | 1487 | 
-| 2023-01-24 | 19517 | 1487 | 
 

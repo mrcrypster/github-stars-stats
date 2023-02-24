@@ -1,6 +1,6 @@
 # pacifio/flutter_apps - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 707 | 168 | 
 | 2023-02-22 | 707 | 168 | 
 | 2023-02-21 | 707 | 168 | 
 | 2023-02-20 | 707 | 168 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 702 | 167 | 
 | 2023-01-26 | 702 | 166 | 
 | 2023-01-25 | 701 | 166 | 
-| 2023-01-24 | 701 | 166 | 
 

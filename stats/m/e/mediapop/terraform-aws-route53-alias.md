@@ -1,6 +1,6 @@
 # mediapop/terraform-aws-route53-alias - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3 | 4 | 
 | 2023-02-22 | 3 | 4 | 
 | 2023-02-21 | 3 | 4 | 
 | 2023-02-20 | 3 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 3 | 4 | 
 | 2023-01-26 | 3 | 4 | 
 | 2023-01-25 | 3 | 4 | 
-| 2023-01-24 | 3 | 4 | 
 

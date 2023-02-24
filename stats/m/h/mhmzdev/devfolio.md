@@ -1,6 +1,6 @@
 # mhmzdev/devfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 546 | 201 | 
 | 2023-02-22 | 546 | 201 | 
 | 2023-02-21 | 546 | 201 | 
 | 2023-02-19 | 546 | 201 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 535 | 199 | 
 | 2023-01-26 | 535 | 199 | 
 | 2023-01-25 | 535 | 199 | 
-| 2023-01-24 | 535 | 198 | 
 

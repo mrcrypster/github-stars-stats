@@ -1,10 +1,10 @@
 # dotnet-state-machine/stateless - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 701
+☋ Forks: 703
 
-★ Stars: 4741
+★ Stars: 4742
 
 [Open repository](https://github.com/dotnet-state-machine/stateless)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 4742 | 703 | 
 | 2023-02-22 | 4741 | 701 | 
 | 2023-02-21 | 4738 | 701 | 
 | 2023-02-20 | 4734 | 700 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 4707 | 700 | 
 | 2023-01-26 | 4706 | 701 | 
 | 2023-01-25 | 4706 | 701 | 
-| 2023-01-24 | 4706 | 701 | 
 

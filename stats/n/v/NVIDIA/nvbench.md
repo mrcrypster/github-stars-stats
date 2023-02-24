@@ -1,10 +1,10 @@
 # NVIDIA/nvbench - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 43
 
-★ Stars: 231
+★ Stars: 232
 
 [Open repository](https://github.com/NVIDIA/nvbench)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 232 | 43 | 
 | 2023-02-22 | 231 | 43 | 
 | 2023-02-21 | 231 | 43 | 
 | 2023-02-20 | 231 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 218 | 43 | 
 | 2023-01-26 | 217 | 43 | 
 | 2023-01-25 | 217 | 43 | 
-| 2023-01-24 | 217 | 43 | 
 

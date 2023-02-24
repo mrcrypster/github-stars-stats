@@ -1,10 +1,10 @@
 # Esc4iCEscEsc/skanuvaty - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 69
 
-★ Stars: 723
+★ Stars: 724
 
 [Open repository](https://github.com/Esc4iCEscEsc/skanuvaty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 724 | 69 | 
 | 2023-02-22 | 723 | 69 | 
 | 2023-02-21 | 722 | 69 | 
 | 2023-02-20 | 722 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 714 | 69 | 
 | 2023-01-27 | 714 | 69 | 
 | 2023-01-26 | 714 | 69 | 
-| 2023-01-24 | 714 | 69 | 
 

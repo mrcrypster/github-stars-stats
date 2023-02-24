@@ -1,10 +1,10 @@
 # AdguardTeam/AdguardBrowserExtension - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
-☋ Forks: 267
+☋ Forks: 268
 
-★ Stars: 2067
+★ Stars: 2071
 
 [Open repository](https://github.com/AdguardTeam/AdguardBrowserExtension)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2071 | 268 | 
 | 2023-02-22 | 2067 | 267 | 
 | 2023-02-21 | 2068 | 266 | 
 | 2023-02-20 | 2064 | 265 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2020 | 262 | 
 | 2023-01-26 | 2020 | 262 | 
 | 2023-01-25 | 2018 | 261 | 
-| 2023-01-24 | 2018 | 261 | 
 

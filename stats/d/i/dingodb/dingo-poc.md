@@ -1,6 +1,6 @@
 # dingodb/dingo-poc - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 4 | 5 | 
 | 2023-02-22 | 4 | 5 | 
 | 2023-02-21 | 3 | 5 | 
 | 2023-02-20 | 3 | 5 | 

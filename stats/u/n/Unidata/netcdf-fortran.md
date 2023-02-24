@@ -1,6 +1,6 @@
 # Unidata/netcdf-fortran - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 174 | 84 | 
 | 2023-02-22 | 174 | 84 | 
 | 2023-02-21 | 174 | 84 | 
 | 2023-02-20 | 174 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 171 | 84 | 
 | 2023-01-26 | 171 | 84 | 
 | 2023-01-25 | 171 | 84 | 
-| 2023-01-24 | 171 | 84 | 
 

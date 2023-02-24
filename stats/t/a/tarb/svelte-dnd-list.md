@@ -1,6 +1,6 @@
 # tarb/svelte-dnd-list - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 24 | 1 | 
 | 2023-02-22 | 24 | 1 | 
 | 2023-02-21 | 24 | 1 | 
 | 2023-02-20 | 24 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 21 | 1 | 
 | 2023-01-26 | 21 | 1 | 
 | 2023-01-25 | 21 | 1 | 
-| 2023-01-24 | 21 | 1 | 
 

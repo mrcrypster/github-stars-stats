@@ -1,6 +1,6 @@
 # surajadkhari/todo_appwithRiverpod - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 43 | - | 
 | 2023-02-22 | 43 | - | 
 | 2023-02-21 | 43 | - | 
 | 2023-02-20 | 43 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 43 | - | 
 | 2023-01-26 | 43 | - | 
 | 2023-01-25 | 43 | - | 
-| 2023-01-24 | 43 | - | 
 

@@ -1,10 +1,10 @@
 # frkngksl/Shoggoth - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 37
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/frkngksl/Shoggoth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 245 | 37 | 
 | 2023-02-22 | 244 | 37 | 
 | 2023-02-21 | 242 | 37 | 
 | 2023-02-20 | 241 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 231 | 35 | 
 | 2023-01-26 | 230 | 35 | 
 | 2023-01-25 | 230 | 35 | 
-| 2023-01-24 | 229 | 35 | 
 

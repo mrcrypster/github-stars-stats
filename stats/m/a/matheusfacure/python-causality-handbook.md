@@ -1,10 +1,10 @@
 # matheusfacure/python-causality-handbook - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 294
 
-★ Stars: 1738
+★ Stars: 1741
 
 [Open repository](https://github.com/matheusfacure/python-causality-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1741 | 294 | 
 | 2023-02-22 | 1738 | 294 | 
 | 2023-02-21 | 1734 | 295 | 
 | 2023-02-20 | 1729 | 295 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1699 | 284 | 
 | 2023-01-26 | 1696 | 284 | 
 | 2023-01-25 | 1696 | 283 | 
-| 2023-01-24 | 1693 | 279 | 
 

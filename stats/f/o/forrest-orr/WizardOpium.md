@@ -1,6 +1,6 @@
 # forrest-orr/WizardOpium - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 53 | 12 | 
 | 2023-02-22 | 53 | 12 | 
 | 2023-02-20 | 53 | 12 | 
 | 2023-02-19 | 53 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 53 | 13 | 
 | 2023-01-27 | 53 | 13 | 
 | 2023-01-26 | 53 | 13 | 
-| 2023-01-25 | 53 | 13 | 
 

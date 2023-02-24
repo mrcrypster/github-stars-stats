@@ -1,10 +1,10 @@
 # JuliaPackaging/Yggdrasil - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 398
+☋ Forks: 399
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/JuliaPackaging/Yggdrasil)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 234 | 399 | 
 | 2023-02-22 | 233 | 398 | 
 | 2023-02-21 | 233 | 397 | 
 | 2023-02-20 | 233 | 396 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 230 | 384 | 
 | 2023-01-26 | 230 | 385 | 
 | 2023-01-25 | 230 | 384 | 
-| 2023-01-24 | 230 | 384 | 
 

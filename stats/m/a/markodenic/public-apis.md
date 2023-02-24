@@ -1,6 +1,6 @@
 # markodenic/public-apis - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 145 | 17 | 
 | 2023-02-22 | 145 | 17 | 
 | 2023-02-21 | 145 | 17 | 
 | 2023-02-19 | 145 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 140 | 17 | 
 | 2023-01-26 | 140 | 17 | 
 | 2023-01-25 | 140 | 17 | 
-| 2023-01-24 | 140 | 16 | 
 

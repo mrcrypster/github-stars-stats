@@ -1,6 +1,6 @@
 # ocaml-gospel/gospel - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 88 | 14 | 
 | 2023-02-22 | 88 | 14 | 
 | 2023-02-21 | 88 | 14 | 
 | 2023-02-20 | 87 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 87 | 13 | 
 | 2023-01-26 | 87 | 13 | 
 | 2023-01-25 | 87 | 13 | 
-| 2023-01-24 | 87 | 13 | 
 

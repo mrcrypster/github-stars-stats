@@ -1,10 +1,10 @@
 # coq-community/templates - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/coq-community/templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 11 | 8 | 
 | 2023-02-22 | 10 | 8 | 
 | 2023-02-21 | 10 | 8 | 
 | 2023-02-20 | 10 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 10 | 8 | 
 | 2023-01-26 | 10 | 8 | 
 | 2023-01-25 | 10 | 8 | 
-| 2023-01-24 | 10 | 8 | 
 

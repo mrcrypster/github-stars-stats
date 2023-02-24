@@ -1,6 +1,6 @@
 # t184256/nix-on-droid - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 492 | 40 | 
 | 2023-02-22 | 492 | 40 | 
 | 2023-02-21 | 491 | 40 | 
 | 2023-02-19 | 490 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 479 | 40 | 
 | 2023-01-26 | 478 | 40 | 
 | 2023-01-25 | 478 | 40 | 
-| 2023-01-24 | 478 | 40 | 
 

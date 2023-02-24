@@ -1,10 +1,10 @@
 # vform666/variant-form - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 227
+☋ Forks: 229
 
-★ Stars: 887
+★ Stars: 890
 
 [Open repository](https://github.com/vform666/variant-form)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 890 | 229 | 
 | 2023-02-22 | 887 | 227 | 
 | 2023-02-21 | 885 | 226 | 
 | 2023-02-20 | 883 | 226 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 867 | 222 | 
 | 2023-01-26 | 867 | 222 | 
 | 2023-01-25 | 867 | 222 | 
-| 2023-01-24 | 867 | 222 | 
 

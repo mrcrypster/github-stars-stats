@@ -1,8 +1,8 @@
 # velocyto-team/velocyto.R - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 153
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 153 | 127 | 
 | 2023-02-22 | 153 | 126 | 
 | 2023-02-21 | 153 | 125 | 
 | 2023-02-19 | 153 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 151 | 117 | 
 | 2023-01-26 | 151 | 117 | 
 | 2023-01-25 | 151 | 117 | 
-| 2023-01-24 | 151 | 116 | 
 

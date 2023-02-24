@@ -1,10 +1,10 @@
 # artificial-scientist-lab/PyTheus - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/artificial-scientist-lab/PyTheus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 21 | - | 
 | 2023-02-22 | 20 | - | 
 | 2023-02-21 | 20 | - | 
 | 2023-02-20 | 20 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 19 | - | 
 | 2023-01-27 | 19 | - | 
 | 2023-01-26 | 19 | - | 
-| 2023-01-24 | 19 | - | 
 

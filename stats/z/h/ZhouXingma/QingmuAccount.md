@@ -1,10 +1,10 @@
 # ZhouXingma/QingmuAccount - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/ZhouXingma/QingmuAccount)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 39 | 21 | 
 | 2023-02-22 | 38 | 20 | 
 | 2023-02-21 | 38 | 20 | 
 | 2023-02-19 | 37 | 18 | 

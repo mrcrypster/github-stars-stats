@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1938
+☋ Forks: 1972
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3 | 1972 | 
 | 2023-02-22 | 3 | 1938 | 
 | 2023-02-21 | 3 | 1839 | 
 | 2023-02-19 | 3 | 1761 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 4 | 1719 | 
 | 2023-01-26 | 4 | 1718 | 
 | 2023-01-25 | 4 | 1716 | 
-| 2023-01-24 | 4 | 1714 | 
 

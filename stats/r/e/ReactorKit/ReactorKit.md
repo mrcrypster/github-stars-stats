@@ -1,10 +1,10 @@
 # ReactorKit/ReactorKit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 254
+☋ Forks: 255
 
-★ Stars: 2497
+★ Stars: 2498
 
 [Open repository](https://github.com/ReactorKit/ReactorKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2498 | 255 | 
 | 2023-02-22 | 2497 | 254 | 
 | 2023-02-21 | 2497 | 254 | 
 | 2023-02-20 | 2497 | 254 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2486 | 256 | 
 | 2023-01-26 | 2486 | 256 | 
 | 2023-01-25 | 2485 | 256 | 
-| 2023-01-24 | 2485 | 256 | 
 

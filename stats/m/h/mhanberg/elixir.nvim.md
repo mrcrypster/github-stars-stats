@@ -1,10 +1,10 @@
 # mhanberg/elixir.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 11
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/mhanberg/elixir.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 161 | 11 | 
 | 2023-02-22 | 160 | 11 | 
 | 2023-02-21 | 160 | 11 | 
 | 2023-02-20 | 160 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 154 | 11 | 
 | 2023-01-26 | 154 | 11 | 
 | 2023-01-25 | 154 | 11 | 
-| 2023-01-24 | 152 | 11 | 
 

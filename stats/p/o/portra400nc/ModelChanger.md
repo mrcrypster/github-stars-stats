@@ -1,10 +1,10 @@
 # portra400nc/ModelChanger - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 21
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/portra400nc/ModelChanger)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 71 | 21 | 
 | 2023-02-22 | 70 | 21 | 
 | 2023-02-21 | 70 | 21 | 
 | 2023-02-20 | 70 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 70 | 20 | 
 | 2023-01-26 | 70 | 20 | 
 | 2023-01-25 | 70 | 20 | 
-| 2023-01-24 | 70 | 20 | 
 

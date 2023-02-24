@@ -1,10 +1,10 @@
 # chaifeng/ufw-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 240
 
-★ Stars: 2562
+★ Stars: 2568
 
 [Open repository](https://github.com/chaifeng/ufw-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2568 | 240 | 
 | 2023-02-22 | 2562 | 240 | 
 | 2023-02-21 | 2559 | 240 | 
 | 2023-02-20 | 2555 | 239 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2471 | 235 | 
 | 2023-01-26 | 2471 | 235 | 
 | 2023-01-25 | 2469 | 235 | 
-| 2023-01-24 | 2464 | 234 | 
 

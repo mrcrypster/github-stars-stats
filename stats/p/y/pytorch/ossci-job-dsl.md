@@ -1,6 +1,6 @@
 # pytorch/ossci-job-dsl - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 9 | 38 | 
 | 2023-02-23 | 9 | 38 | 
 | 2023-02-21 | 9 | 38 | 
 | 2023-02-20 | 9 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9 | 38 | 
 | 2023-01-27 | 9 | 38 | 
 | 2023-01-26 | 9 | 38 | 
-| 2023-01-25 | 9 | 38 | 
 

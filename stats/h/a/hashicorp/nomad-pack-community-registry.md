@@ -1,6 +1,6 @@
 # hashicorp/nomad-pack-community-registry - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 165 | 55 | 
 | 2023-02-22 | 165 | 55 | 
 | 2023-02-21 | 165 | 55 | 
 | 2023-02-20 | 165 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 162 | 54 | 
 | 2023-01-26 | 162 | 53 | 
 | 2023-01-25 | 162 | 53 | 
-| 2023-01-24 | 161 | 53 | 
 

@@ -1,10 +1,10 @@
 # PostgresApp/PostgresApp - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 373
 
-★ Stars: 6599
+★ Stars: 6598
 
 [Open repository](https://github.com/PostgresApp/PostgresApp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6598 | 373 | 
 | 2023-02-22 | 6599 | 373 | 
 | 2023-02-21 | 6599 | 373 | 
 | 2023-02-20 | 6595 | 373 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 6565 | 372 | 
 | 2023-01-26 | 6564 | 371 | 
 | 2023-01-25 | 6560 | 371 | 
-| 2023-01-24 | 6559 | 371 | 
 

@@ -1,10 +1,10 @@
 # mfussenegger/nvim-lint - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 71
 
-★ Stars: 523
+★ Stars: 525
 
 [Open repository](https://github.com/mfussenegger/nvim-lint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 525 | 71 | 
 | 2023-02-22 | 523 | 71 | 
 | 2023-02-21 | 521 | 71 | 
 | 2023-02-20 | 519 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 507 | 69 | 
 | 2023-01-26 | 507 | 68 | 
 | 2023-01-25 | 506 | 68 | 
-| 2023-01-24 | 505 | 68 | 
 

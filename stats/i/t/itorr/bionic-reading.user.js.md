@@ -1,10 +1,10 @@
 # itorr/bionic-reading.user.js - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 17
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/itorr/bionic-reading.user.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 276 | 17 | 
 | 2023-02-22 | 275 | 17 | 
 | 2023-02-21 | 275 | 17 | 
 | 2023-02-19 | 275 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 274 | 17 | 
 | 2023-01-27 | 274 | 17 | 
 | 2023-01-26 | 275 | 17 | 
-| 2023-01-25 | 274 | 17 | 
 

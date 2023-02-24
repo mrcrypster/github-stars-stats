@@ -1,6 +1,6 @@
 # DaviMarta/Automatiza-o - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 173 | 112 | 
 | 2023-02-22 | 173 | 112 | 
 | 2023-02-21 | 173 | 112 | 
 | 2023-02-20 | 172 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 135 | 87 | 
 | 2023-01-26 | 108 | 76 | 
 | 2023-01-25 | 86 | 61 | 
-| 2023-01-24 | 64 | 41 | 
 

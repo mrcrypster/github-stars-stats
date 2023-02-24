@@ -1,6 +1,6 @@
 # teikalang/teika - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 242 | 5 | 
 | 2023-02-22 | 242 | 5 | 
 | 2023-02-21 | 240 | 5 | 
 | 2023-02-20 | 240 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 223 | 4 | 
 | 2023-01-26 | 223 | 4 | 
 | 2023-01-25 | 222 | 4 | 
-| 2023-01-24 | 221 | 4 | 
 

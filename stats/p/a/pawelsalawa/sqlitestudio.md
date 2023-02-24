@@ -1,10 +1,10 @@
 # pawelsalawa/sqlitestudio - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 474
 
-★ Stars: 3288
+★ Stars: 3290
 
 [Open repository](https://github.com/pawelsalawa/sqlitestudio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3290 | 474 | 
 | 2023-02-22 | 3288 | 474 | 
 | 2023-02-21 | 3282 | 474 | 
 | 2023-02-20 | 3278 | 474 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 3212 | 474 | 
 | 2023-01-26 | 3211 | 474 | 
 | 2023-01-25 | 3207 | 474 | 
-| 2023-01-24 | 3207 | 474 | 
 

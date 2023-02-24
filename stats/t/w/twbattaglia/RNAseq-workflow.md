@@ -1,6 +1,6 @@
 # twbattaglia/RNAseq-workflow - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 304 | 164 | 
 | 2023-02-22 | 304 | 164 | 
 | 2023-02-21 | 302 | 164 | 
 | 2023-02-19 | 302 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 300 | 164 | 
 | 2023-01-26 | 300 | 165 | 
 | 2023-01-25 | 300 | 165 | 
-| 2023-01-24 | 300 | 165 | 
 

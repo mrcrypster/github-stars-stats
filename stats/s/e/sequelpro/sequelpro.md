@@ -1,6 +1,6 @@
 # sequelpro/sequelpro - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 850
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 8842 | 850 | 
 | 2023-02-22 | 8842 | 850 | 
 | 2023-02-21 | 8843 | 850 | 
 | 2023-02-20 | 8843 | 851 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 8830 | 848 | 
 | 2023-01-27 | 8829 | 848 | 
 | 2023-01-25 | 8825 | 848 | 
-| 2023-01-24 | 8823 | 848 | 
 

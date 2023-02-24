@@ -1,6 +1,6 @@
 # elihunter173/dirbuf.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 375 | 8 | 
 | 2023-02-22 | 375 | 8 | 
 | 2023-02-21 | 375 | 8 | 
 | 2023-02-20 | 376 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 375 | 8 | 
 | 2023-01-26 | 375 | 8 | 
 | 2023-01-25 | 374 | 8 | 
-| 2023-01-24 | 374 | 8 | 
 

@@ -1,6 +1,6 @@
 # TEIC/Stylesheets - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 207 | 117 | 
 | 2023-02-22 | 207 | 117 | 
 | 2023-02-21 | 207 | 117 | 
 | 2023-02-20 | 207 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 206 | 117 | 
 | 2023-01-26 | 206 | 117 | 
 | 2023-01-25 | 206 | 117 | 
-| 2023-01-24 | 206 | 117 | 
 

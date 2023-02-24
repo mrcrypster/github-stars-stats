@@ -1,10 +1,10 @@
 # echasnovski/mini.comment - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/echasnovski/mini.comment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 11 | 2 | 
 | 2023-02-22 | 10 | 2 | 
 | 2023-02-21 | 10 | 2 | 
 | 2023-02-20 | 10 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 4 | 1 | 
 | 2023-01-27 | 4 | 1 | 
 | 2023-01-25 | 4 | 1 | 
-| 2023-01-24 | 4 | 1 | 
 

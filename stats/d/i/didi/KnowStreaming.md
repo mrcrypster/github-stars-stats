@@ -1,10 +1,10 @@
 # didi/KnowStreaming - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1106
+☋ Forks: 1105
 
-★ Stars: 5806
+★ Stars: 5811
 
 [Open repository](https://github.com/didi/KnowStreaming)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 5811 | 1105 | 
 | 2023-02-22 | 5806 | 1106 | 
 | 2023-02-20 | 5803 | 1105 | 
 | 2023-02-19 | 5799 | 1105 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 5622 | 1073 | 
 | 2023-01-26 | 5620 | 1073 | 
 | 2023-01-25 | 5619 | 1073 | 
-| 2023-01-24 | 5617 | 1073 | 
 

@@ -1,10 +1,10 @@
 # kuaifan/dootask - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 693
 
-★ Stars: 3257
+★ Stars: 3258
 
 [Open repository](https://github.com/kuaifan/dootask)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3258 | 693 | 
 | 2023-02-22 | 3257 | 693 | 
 | 2023-02-21 | 3253 | 693 | 
 | 2023-02-20 | 3249 | 693 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 3045 | 645 | 
 | 2023-01-26 | 3043 | 645 | 
 | 2023-01-25 | 3044 | 645 | 
-| 2023-01-24 | 3042 | 645 | 
 

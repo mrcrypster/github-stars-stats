@@ -1,10 +1,10 @@
 # DHDAXCW/NanoPi-R4S - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 207
 
-★ Stars: 1092
+★ Stars: 1094
 
 [Open repository](https://github.com/DHDAXCW/NanoPi-R4S)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1094 | 207 | 
 | 2023-02-22 | 1092 | 207 | 
 | 2023-02-21 | 1091 | 207 | 
 | 2023-02-20 | 1089 | 207 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1057 | 201 | 
 | 2023-01-26 | 1057 | 201 | 
 | 2023-01-25 | 1058 | 201 | 
-| 2023-01-24 | 1058 | 201 | 
 

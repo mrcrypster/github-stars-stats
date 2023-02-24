@@ -1,10 +1,10 @@
 # microsoft/Semi-supervised-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 76
+☋ Forks: 78
 
-★ Stars: 566
+★ Stars: 567
 
 [Open repository](https://github.com/microsoft/Semi-supervised-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 567 | 78 | 
 | 2023-02-22 | 566 | 76 | 
 | 2023-02-21 | 564 | 76 | 
 | 2023-02-20 | 560 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 496 | 64 | 
 | 2023-01-26 | 494 | 64 | 
 | 2023-01-25 | 493 | 63 | 
-| 2023-01-24 | 493 | 62 | 
 

@@ -1,10 +1,10 @@
 # YaoFANGUK/video-subtitle-extractor - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 307
 
-★ Stars: 2251
+★ Stars: 2259
 
 [Open repository](https://github.com/YaoFANGUK/video-subtitle-extractor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2259 | 307 | 
 | 2023-02-22 | 2251 | 307 | 
 | 2023-02-21 | 2244 | 307 | 
 | 2023-02-20 | 2230 | 302 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2002 | 273 | 
 | 2023-01-26 | 1991 | 270 | 
 | 2023-01-25 | 1977 | 267 | 
-| 2023-01-24 | 1970 | 267 | 
 

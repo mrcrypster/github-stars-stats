@@ -1,10 +1,10 @@
 # Shuai-Xie/genetic-algorithm - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 121
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/Shuai-Xie/genetic-algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 259 | 121 | 
 | 2023-02-22 | 258 | 121 | 
 | 2023-02-21 | 258 | 121 | 
 | 2023-02-19 | 258 | 121 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 253 | 120 | 
 | 2023-01-26 | 253 | 120 | 
 | 2023-01-25 | 253 | 119 | 
-| 2023-01-24 | 253 | 119 | 
 

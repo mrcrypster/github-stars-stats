@@ -1,10 +1,10 @@
 # TIBCOSoftware/flogo - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 284
 
-★ Stars: 2208
+★ Stars: 2209
 
 [Open repository](https://github.com/TIBCOSoftware/flogo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2209 | 284 | 
 | 2023-02-22 | 2208 | 284 | 
 | 2023-02-21 | 2208 | 284 | 
 | 2023-02-20 | 2207 | 284 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2184 | 284 | 
 | 2023-01-26 | 2182 | 284 | 
 | 2023-01-25 | 2181 | 284 | 
-| 2023-01-24 | 2181 | 284 | 
 

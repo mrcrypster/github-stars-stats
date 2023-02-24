@@ -1,10 +1,10 @@
 # JustArchiNET/ASF-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/JustArchiNET/ASF-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 202 | 27 | 
 | 2023-02-22 | 201 | 26 | 
 | 2023-02-21 | 201 | 26 | 
 | 2023-02-20 | 201 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 200 | 26 | 
 | 2023-01-26 | 200 | 26 | 
 | 2023-01-25 | 200 | 26 | 
-| 2023-01-24 | 200 | 26 | 
 

@@ -1,8 +1,8 @@
 # python-engineer/python-fun - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 443
+☋ Forks: 442
 
 ★ Stars: 485
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 485 | 442 | 
 | 2023-02-22 | 485 | 443 | 
 | 2023-02-21 | 485 | 442 | 
 | 2023-02-20 | 485 | 441 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 468 | 425 | 
 | 2023-01-26 | 467 | 425 | 
 | 2023-01-25 | 465 | 424 | 
-| 2023-01-24 | 464 | 424 | 
 

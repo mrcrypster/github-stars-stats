@@ -1,8 +1,8 @@
 # Kristories/awesome-guidelines - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 582
+☋ Forks: 583
 
 ★ Stars: 8599
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 8599 | 583 | 
 | 2023-02-22 | 8599 | 582 | 
 | 2023-02-21 | 8597 | 582 | 
 | 2023-02-19 | 8595 | 582 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 8517 | 577 | 
 | 2023-01-27 | 8506 | 576 | 
 | 2023-01-26 | 8482 | 566 | 
-| 2023-01-25 | 8481 | 565 | 
 

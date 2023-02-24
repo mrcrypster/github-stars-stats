@@ -1,10 +1,10 @@
 # makerdao/dss-direct-deposit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 15
 
-★ Stars: 53
+★ Stars: 52
 
 [Open repository](https://github.com/makerdao/dss-direct-deposit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 52 | 15 | 
 | 2023-02-22 | 53 | 15 | 
 | 2023-02-21 | 53 | 15 | 
 | 2023-02-20 | 53 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 52 | 13 | 
 | 2023-01-26 | 51 | 13 | 
 | 2023-01-25 | 51 | 13 | 
-| 2023-01-24 | 50 | 13 | 
 

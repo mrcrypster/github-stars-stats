@@ -1,10 +1,10 @@
 # jae-jae/Userscript-Plus - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 250
 
-★ Stars: 1605
+★ Stars: 1606
 
 [Open repository](https://github.com/jae-jae/Userscript-Plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1606 | 250 | 
 | 2023-02-22 | 1605 | 250 | 
 | 2023-02-21 | 1605 | 250 | 
 | 2023-02-20 | 1605 | 250 | 

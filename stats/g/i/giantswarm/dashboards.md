@@ -1,10 +1,10 @@
 # giantswarm/dashboards - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/giantswarm/dashboards)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6 | - | 
 | 2023-02-22 | 5 | - | 
 | 2023-02-21 | 5 | - | 
 | 2023-02-20 | 5 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 5 | - | 
 | 2023-01-26 | 5 | - | 
 | 2023-01-25 | 5 | - | 
-| 2023-01-24 | 5 | - | 
 

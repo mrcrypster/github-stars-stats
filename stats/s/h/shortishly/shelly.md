@@ -1,6 +1,6 @@
 # shortishly/shelly - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 9 | 2 | 
 | 2023-02-22 | 9 | 2 | 
 | 2023-02-21 | 9 | 2 | 
 | 2023-02-20 | 9 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 10 | 2 | 
 | 2023-01-26 | 10 | 2 | 
 | 2023-01-25 | 10 | 2 | 
-| 2023-01-24 | 10 | 2 | 
 

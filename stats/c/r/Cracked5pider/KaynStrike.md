@@ -1,6 +1,6 @@
 # Cracked5pider/KaynStrike - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 322 | 55 | 
 | 2023-02-22 | 322 | 55 | 
 | 2023-02-21 | 322 | 55 | 
 | 2023-02-20 | 322 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 316 | 54 | 
 | 2023-01-26 | 316 | 54 | 
 | 2023-01-25 | 316 | 54 | 
-| 2023-01-24 | 316 | 54 | 
 

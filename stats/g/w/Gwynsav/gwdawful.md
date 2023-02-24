@@ -1,6 +1,6 @@
 # Gwynsav/gwdawful - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 32 | 1 | 
 | 2023-02-22 | 32 | 1 | 
 | 2023-02-21 | 31 | 1 | 
 | 2023-02-19 | 30 | 1 | 

@@ -1,6 +1,6 @@
 # LeNPaul/portfolio-jekyll-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 177 | 233 | 
 | 2023-02-22 | 177 | 233 | 
 | 2023-02-21 | 177 | 233 | 
 | 2023-02-20 | 177 | 233 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 175 | 231 | 
 | 2023-01-26 | 175 | 231 | 
 | 2023-01-25 | 175 | 231 | 
-| 2023-01-24 | 175 | 231 | 
 

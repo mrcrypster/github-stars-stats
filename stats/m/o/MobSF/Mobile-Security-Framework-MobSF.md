@@ -1,10 +1,10 @@
 # MobSF/Mobile-Security-Framework-MobSF - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
-☋ Forks: 2809
+☋ Forks: 2812
 
-★ Stars: 13456
+★ Stars: 13471
 
 [Open repository](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 13471 | 2812 | 
+| 2023-02-23 | 13468 | 2812 | 
 | 2023-02-22 | 13456 | 2809 | 
 | 2023-02-21 | 13448 | 2808 | 
 | 2023-02-20 | 13440 | 2808 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 13302 | 2788 | 
 | 2023-01-26 | 13299 | 2788 | 
 | 2023-01-25 | 13295 | 2788 | 
-| 2023-01-24 | 13283 | 2788 | 
 

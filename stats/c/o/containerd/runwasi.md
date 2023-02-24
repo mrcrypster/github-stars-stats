@@ -1,10 +1,10 @@
 # containerd/runwasi - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 502
+★ Stars: 514
 
 [Open repository](https://github.com/containerd/runwasi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 514 | 36 | 
 | 2023-02-22 | 502 | 35 | 
 | 2023-02-21 | 491 | 35 | 
 

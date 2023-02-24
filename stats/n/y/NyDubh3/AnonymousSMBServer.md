@@ -1,6 +1,6 @@
 # NyDubh3/AnonymousSMBServer - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 151 | 25 | 
 | 2023-02-22 | 151 | 25 | 
 | 2023-02-21 | 150 | 25 | 
 | 2023-02-19 | 150 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 146 | 24 | 
 | 2023-01-26 | 146 | 24 | 
 | 2023-01-25 | 145 | 24 | 
-| 2023-01-24 | 144 | 24 | 
 

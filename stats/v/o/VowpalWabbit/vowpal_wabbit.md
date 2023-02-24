@@ -1,8 +1,8 @@
 # VowpalWabbit/vowpal_wabbit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1831
+☋ Forks: 1833
 
 ★ Stars: 8133
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 8133 | 1833 | 
 | 2023-02-22 | 8133 | 1831 | 
 | 2023-02-21 | 8134 | 1830 | 
 | 2023-02-20 | 8133 | 1830 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 8114 | 1821 | 
 | 2023-01-26 | 8114 | 1821 | 
 | 2023-01-25 | 8115 | 1821 | 
-| 2023-01-24 | 8113 | 1819 | 
 

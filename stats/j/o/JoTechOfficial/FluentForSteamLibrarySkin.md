@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 42
+★ Stars: 44
 
 [Open repository](https://github.com/JoTechOfficial/FluentForSteamLibrarySkin)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-23 | 42 | - | 
+| 2023-02-23 | 44 | - | 
 | 2023-02-22 | 41 | - | 
 

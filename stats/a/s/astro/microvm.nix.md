@@ -1,6 +1,6 @@
 # astro/microvm.nix - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 372 | 24 | 
 | 2023-02-22 | 372 | 24 | 
 | 2023-02-21 | 370 | 23 | 
 | 2023-02-20 | 368 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 352 | 22 | 
 | 2023-01-26 | 351 | 22 | 
 | 2023-01-25 | 351 | 21 | 
-| 2023-01-24 | 351 | 21 | 
 

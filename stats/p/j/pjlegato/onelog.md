@@ -1,0 +1,17 @@
+# pjlegato/onelog - stars & forks statistics
+
+Stats updated on Feb 2023, 23
+
+☋ Forks: 7
+
+★ Stars: 11
+
+[Open repository](https://github.com/pjlegato/onelog)
+
+[Open detailed stats for pjlegato/onelog](https://reviewgithub.com/rep/pjlegato/onelog)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-23 | 11 | 7 | 
+

@@ -1,10 +1,10 @@
 # numpy/numpy - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 7768
+☋ Forks: 7771
 
-★ Stars: 22753
+★ Stars: 22757
 
 [Open repository](https://github.com/numpy/numpy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 22757 | 7771 | 
 | 2023-02-22 | 22753 | 7768 | 
 | 2023-02-21 | 22740 | 7764 | 
 | 2023-02-19 | 22727 | 7756 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 22529 | 7697 | 
 | 2023-01-26 | 22523 | 7690 | 
 | 2023-01-25 | 22519 | 7684 | 
-| 2023-01-24 | 22516 | 7685 | 
 

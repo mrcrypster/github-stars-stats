@@ -1,6 +1,6 @@
 # zaboople/klonk - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 207 | 8 | 
 | 2023-02-22 | 207 | 8 | 
 | 2023-02-21 | 207 | 8 | 
 | 2023-02-19 | 207 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 206 | 8 | 
 | 2023-01-26 | 206 | 8 | 
 | 2023-01-25 | 206 | 8 | 
-| 2023-01-24 | 206 | 8 | 
 

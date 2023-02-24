@@ -1,10 +1,10 @@
 # ProjectOpenSea/seadrop - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 43
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/ProjectOpenSea/seadrop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 201 | 43 | 
 | 2023-02-22 | 200 | 43 | 
 | 2023-02-21 | 198 | 40 | 
 | 2023-02-20 | 198 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 185 | 33 | 
 | 2023-01-26 | 185 | 33 | 
 | 2023-01-25 | 185 | 33 | 
-| 2023-01-24 | 185 | 33 | 
 

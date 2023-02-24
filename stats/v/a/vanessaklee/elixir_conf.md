@@ -1,6 +1,6 @@
 # vanessaklee/elixir_conf - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 14 | 6 | 
 | 2023-02-22 | 14 | 6 | 
 | 2023-02-21 | 14 | 6 | 
 | 2023-02-20 | 14 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 15 | 6 | 
 | 2023-01-27 | 15 | 6 | 
 | 2023-01-25 | 15 | 6 | 
-| 2023-01-24 | 15 | 6 | 
 

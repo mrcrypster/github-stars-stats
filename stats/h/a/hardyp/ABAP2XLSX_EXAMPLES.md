@@ -1,10 +1,10 @@
 # hardyp/ABAP2XLSX_EXAMPLES - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/hardyp/ABAP2XLSX_EXAMPLES)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 6 | - | 
 | 2023-02-22 | 5 | - | 
 | 2023-02-21 | 5 | - | 
 | 2023-02-20 | 5 | - | 

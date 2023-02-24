@@ -1,6 +1,6 @@
 # guolifu/evil-php - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 240 | 14 | 
 | 2023-02-22 | 240 | 14 | 
 | 2023-02-21 | 240 | 14 | 
 | 2023-02-19 | 240 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 225 | 14 | 
 | 2023-01-26 | 224 | 14 | 
 | 2023-01-25 | 223 | 14 | 
-| 2023-01-24 | 222 | 14 | 
 

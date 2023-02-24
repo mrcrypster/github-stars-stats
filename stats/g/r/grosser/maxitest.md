@@ -1,6 +1,6 @@
 # grosser/maxitest - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 394 | 10 | 
 | 2023-02-22 | 394 | 10 | 
 | 2023-02-21 | 394 | 10 | 
 | 2023-02-20 | 394 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 393 | 10 | 
 | 2023-01-27 | 393 | 10 | 
 | 2023-01-26 | 393 | 10 | 
-| 2023-01-25 | 393 | 10 | 
 

@@ -1,10 +1,10 @@
 # plastinin/let-s-code - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 25
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/plastinin/let-s-code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 64 | 25 | 
 | 2023-02-22 | 65 | 25 | 
 | 2023-02-21 | 65 | 25 | 
 | 2023-02-20 | 65 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 61 | 21 | 
 | 2023-01-26 | 61 | 21 | 
 | 2023-01-25 | 61 | 21 | 
-| 2023-01-24 | 61 | 21 | 
 

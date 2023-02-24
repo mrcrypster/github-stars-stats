@@ -1,6 +1,6 @@
 # ThePrimeagen/vim-royale - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 378 | 21 | 
 | 2023-02-22 | 378 | 21 | 
 | 2023-02-21 | 377 | 21 | 
 | 2023-02-20 | 377 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 368 | 22 | 
 | 2023-01-26 | 368 | 22 | 
 | 2023-01-25 | 368 | 22 | 
-| 2023-01-24 | 368 | 22 | 
 

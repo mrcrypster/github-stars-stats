@@ -1,6 +1,6 @@
 # afuu21/18CSL76-AIML-Programs - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 17 | 63 | 
 | 2023-02-22 | 17 | 63 | 
 | 2023-02-21 | 17 | 63 | 
 | 2023-02-20 | 18 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 18 | 67 | 
 | 2023-01-27 | 18 | 67 | 
 | 2023-01-25 | 18 | 67 | 
-| 2023-01-24 | 18 | 67 | 
 

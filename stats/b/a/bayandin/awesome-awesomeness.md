@@ -1,6 +1,6 @@
 # bayandin/awesome-awesomeness - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3516
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 29868 | 3516 | 
 | 2023-02-23 | 29868 | 3516 | 
 | 2023-02-22 | 29868 | 3516 | 
 | 2023-02-20 | 29865 | 3516 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-27 | 29789 | 3511 | 
 | 2023-01-26 | 29782 | 3511 | 
 | 2023-01-25 | 29779 | 3509 | 
-| 2023-01-24 | 29778 | 3509 | 
 

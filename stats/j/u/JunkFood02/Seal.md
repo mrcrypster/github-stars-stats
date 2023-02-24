@@ -1,10 +1,10 @@
 # JunkFood02/Seal - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 130
 
-★ Stars: 2756
+★ Stars: 2767
 
 [Open repository](https://github.com/JunkFood02/Seal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2767 | 130 | 
 | 2023-02-22 | 2756 | 130 | 
 | 2023-02-21 | 2747 | 130 | 
 | 2023-02-20 | 2739 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2443 | 119 | 
 | 2023-01-26 | 2428 | 119 | 
 | 2023-01-25 | 2420 | 119 | 
-| 2023-01-24 | 2410 | 119 | 
 

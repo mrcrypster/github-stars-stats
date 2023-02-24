@@ -1,10 +1,10 @@
 # n0shake/Public-APIs - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1679
+☋ Forks: 1682
 
-★ Stars: 19537
+★ Stars: 19536
 
 [Open repository](https://github.com/n0shake/Public-APIs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 19536 | 1682 | 
 | 2023-02-22 | 19537 | 1679 | 
 | 2023-02-21 | 19536 | 1679 | 
 | 2023-02-19 | 19532 | 1679 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 19445 | 1670 | 
 | 2023-01-26 | 19439 | 1671 | 
 | 2023-01-25 | 19435 | 1671 | 
-| 2023-01-24 | 19430 | 1670 | 
 

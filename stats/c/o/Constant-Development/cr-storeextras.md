@@ -1,10 +1,10 @@
 # Constant-Development/cr-storeextras - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 13
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/Constant-Development/cr-storeextras)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 42 | 13 | 
 | 2023-02-22 | 41 | 13 | 
 | 2023-02-21 | 41 | 13 | 
 | 2023-02-20 | 41 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 38 | 13 | 
 | 2023-01-27 | 38 | 13 | 
 | 2023-01-26 | 38 | 13 | 
-| 2023-01-24 | 38 | 13 | 
 

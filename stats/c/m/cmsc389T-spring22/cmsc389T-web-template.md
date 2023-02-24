@@ -1,6 +1,6 @@
 # cmsc389T-spring22/cmsc389T-web-template - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2 | 29 | 
 | 2023-02-22 | 2 | 29 | 
 | 2023-02-21 | 2 | 29 | 
 | 2023-02-20 | 2 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2 | 29 | 
 | 2023-01-26 | 2 | 29 | 
 | 2023-01-25 | 2 | 29 | 
-| 2023-01-24 | 2 | 29 | 
 

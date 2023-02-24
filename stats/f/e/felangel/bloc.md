@@ -1,10 +1,10 @@
 # felangel/bloc - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 3117
+☋ Forks: 3123
 
-★ Stars: 10121
+★ Stars: 10127
 
 [Open repository](https://github.com/felangel/bloc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 10127 | 3123 | 
 | 2023-02-22 | 10121 | 3117 | 
 | 2023-02-21 | 10119 | 3116 | 
 | 2023-02-20 | 10116 | 3114 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 10016 | 3082 | 
 | 2023-01-26 | 10010 | 3081 | 
 | 2023-01-25 | 10008 | 3081 | 
-| 2023-01-24 | 10006 | 3078 | 
 

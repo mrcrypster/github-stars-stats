@@ -1,6 +1,6 @@
 # vimpostor/vim-lumen - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 42 | 1 | 
 | 2023-02-22 | 42 | 1 | 
 | 2023-02-21 | 42 | 1 | 
 | 2023-02-20 | 42 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 41 | 1 | 
 | 2023-01-27 | 41 | 1 | 
 | 2023-01-26 | 41 | 1 | 
-| 2023-01-24 | 41 | 1 | 
 

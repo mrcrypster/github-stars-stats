@@ -1,10 +1,10 @@
 # Tommertom/svelte-ionic-app - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 46
 
-★ Stars: 415
+★ Stars: 418
 
 [Open repository](https://github.com/Tommertom/svelte-ionic-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 418 | 46 | 
 | 2023-02-22 | 415 | 46 | 
 | 2023-02-21 | 415 | 46 | 
 | 2023-02-20 | 412 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 391 | 43 | 
 | 2023-01-26 | 391 | 43 | 
 | 2023-01-25 | 391 | 43 | 
-| 2023-01-24 | 390 | 43 | 
 

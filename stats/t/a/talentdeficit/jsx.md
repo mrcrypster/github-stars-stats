@@ -1,6 +1,6 @@
 # talentdeficit/jsx - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 675 | 216 | 
 | 2023-02-22 | 675 | 216 | 
 | 2023-02-21 | 675 | 216 | 
 | 2023-02-20 | 675 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 672 | 216 | 
 | 2023-01-26 | 671 | 216 | 
 | 2023-01-25 | 671 | 216 | 
-| 2023-01-24 | 671 | 216 | 
 

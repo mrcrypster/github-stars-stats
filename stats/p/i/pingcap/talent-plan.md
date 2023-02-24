@@ -1,10 +1,10 @@
 # pingcap/talent-plan - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1120
+☋ Forks: 1121
 
-★ Stars: 8496
+★ Stars: 8502
 
 [Open repository](https://github.com/pingcap/talent-plan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 8502 | 1121 | 
 | 2023-02-22 | 8496 | 1120 | 
 | 2023-02-21 | 8489 | 1119 | 
 | 2023-02-19 | 8472 | 1118 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 8400 | 1114 | 
 | 2023-01-26 | 8394 | 1114 | 
 | 2023-01-25 | 8391 | 1113 | 
-| 2023-01-24 | 8387 | 1113 | 
 

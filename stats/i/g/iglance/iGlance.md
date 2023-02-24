@@ -1,6 +1,6 @@
 # iglance/iGlance - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2283 | 116 | 
 | 2023-02-22 | 2283 | 116 | 
 | 2023-02-21 | 2282 | 116 | 
 | 2023-02-19 | 2280 | 116 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2256 | 115 | 
 | 2023-01-26 | 2255 | 115 | 
 | 2023-01-25 | 2254 | 115 | 
-| 2023-01-24 | 2254 | 115 | 
 

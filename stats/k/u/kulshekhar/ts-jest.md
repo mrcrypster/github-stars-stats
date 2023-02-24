@@ -1,10 +1,10 @@
 # kulshekhar/ts-jest - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 424
+☋ Forks: 425
 
-★ Stars: 6375
+★ Stars: 6378
 
 [Open repository](https://github.com/kulshekhar/ts-jest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6378 | 425 | 
 | 2023-02-22 | 6375 | 424 | 
 | 2023-02-21 | 6372 | 424 | 
 | 2023-02-20 | 6367 | 423 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 6320 | 417 | 
 | 2023-01-26 | 6315 | 417 | 
 | 2023-01-25 | 6313 | 416 | 
-| 2023-01-24 | 6311 | 416 | 
 

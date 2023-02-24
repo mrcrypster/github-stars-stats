@@ -1,10 +1,10 @@
 # jfcoz/postgresqltuner - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 172
 
-★ Stars: 2396
+★ Stars: 2397
 
 [Open repository](https://github.com/jfcoz/postgresqltuner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2397 | 172 | 
 | 2023-02-22 | 2396 | 172 | 
 | 2023-02-21 | 2396 | 172 | 
 | 2023-02-20 | 2394 | 172 | 

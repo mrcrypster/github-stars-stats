@@ -1,10 +1,10 @@
 # basetenlabs/truss - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 20
 
-★ Stars: 515
+★ Stars: 517
 
 [Open repository](https://github.com/basetenlabs/truss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 517 | 20 | 
 | 2023-02-22 | 515 | 20 | 
 | 2023-02-21 | 513 | 20 | 
 | 2023-02-20 | 512 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 510 | 19 | 
 | 2023-01-27 | 510 | 19 | 
 | 2023-01-26 | 508 | 19 | 
-| 2023-01-25 | 508 | 19 | 
 

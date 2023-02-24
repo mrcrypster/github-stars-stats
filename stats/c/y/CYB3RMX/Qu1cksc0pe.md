@@ -1,6 +1,6 @@
 # CYB3RMX/Qu1cksc0pe - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 464 | 89 | 
 | 2023-02-22 | 464 | 89 | 
 | 2023-02-21 | 463 | 89 | 
 | 2023-02-20 | 463 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 445 | 86 | 
 | 2023-01-26 | 445 | 86 | 
 | 2023-01-25 | 444 | 86 | 
-| 2023-01-24 | 444 | 86 | 
 

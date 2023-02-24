@@ -1,6 +1,6 @@
 # lorenzoaiello/terraform-aws-rds-alarms - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 22 | 29 | 
 | 2023-02-22 | 22 | 29 | 
 | 2023-02-21 | 22 | 29 | 
 | 2023-02-20 | 22 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 21 | 27 | 
 | 2023-01-27 | 21 | 27 | 
 | 2023-01-25 | 21 | 27 | 
-| 2023-01-24 | 21 | 27 | 
 

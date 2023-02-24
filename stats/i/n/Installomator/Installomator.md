@@ -1,10 +1,10 @@
 # Installomator/Installomator - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 283
+☋ Forks: 284
 
-★ Stars: 668
+★ Stars: 669
 
 [Open repository](https://github.com/Installomator/Installomator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 669 | 284 | 
 | 2023-02-22 | 668 | 283 | 
 | 2023-02-21 | 667 | 283 | 
 | 2023-02-20 | 666 | 283 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 646 | 268 | 
 | 2023-01-26 | 646 | 268 | 
 | 2023-01-25 | 646 | 268 | 
-| 2023-01-24 | 643 | 266 | 
 

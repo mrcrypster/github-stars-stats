@@ -1,10 +1,10 @@
 # sharovatov/teamlead - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 72
 
-★ Stars: 813
+★ Stars: 814
 
 [Open repository](https://github.com/sharovatov/teamlead)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 814 | 72 | 
 | 2023-02-22 | 813 | 72 | 
 | 2023-02-21 | 812 | 72 | 
 | 2023-02-19 | 811 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 805 | 72 | 
 | 2023-01-26 | 804 | 72 | 
 | 2023-01-25 | 800 | 72 | 
-| 2023-01-24 | 800 | 72 | 
 

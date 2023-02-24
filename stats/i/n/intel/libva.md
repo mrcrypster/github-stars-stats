@@ -1,10 +1,10 @@
 # intel/libva - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 273
 
-★ Stars: 502
+★ Stars: 503
 
 [Open repository](https://github.com/intel/libva)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 503 | 273 | 
 | 2023-02-22 | 502 | 273 | 
 | 2023-02-21 | 501 | 273 | 
 | 2023-02-20 | 501 | 273 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 496 | 272 | 
 | 2023-01-26 | 496 | 272 | 
 | 2023-01-25 | 497 | 272 | 
-| 2023-01-24 | 497 | 272 | 
 

@@ -1,6 +1,6 @@
 # fsprojects/FSharp.Control.TaskSeq - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 53 | 6 | 
 | 2023-02-22 | 53 | 6 | 
 | 2023-02-20 | 52 | 6 | 
 | 2023-02-19 | 52 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 52 | 6 | 
 | 2023-01-26 | 52 | 6 | 
 | 2023-01-25 | 52 | 6 | 
-| 2023-01-24 | 52 | 6 | 
 

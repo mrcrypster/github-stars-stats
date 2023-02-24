@@ -1,10 +1,10 @@
 # babashka/obb - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 6
 
-★ Stars: 216
+★ Stars: 218
 
 [Open repository](https://github.com/babashka/obb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 218 | 6 | 
 | 2023-02-22 | 216 | 6 | 
 | 2023-02-21 | 216 | 6 | 
 | 2023-02-20 | 213 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 210 | 6 | 
 | 2023-01-26 | 210 | 6 | 
 | 2023-01-25 | 210 | 6 | 
-| 2023-01-24 | 210 | 6 | 
 

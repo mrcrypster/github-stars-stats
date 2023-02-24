@@ -1,10 +1,10 @@
 # curtinlv/gd - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 181
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/curtinlv/gd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 286 | 181 | 
 | 2023-02-22 | 285 | 181 | 
 | 2023-02-21 | 283 | 181 | 
 | 2023-02-20 | 283 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 282 | 182 | 
 | 2023-01-26 | 282 | 182 | 
 | 2023-01-25 | 282 | 182 | 
-| 2023-01-24 | 282 | 182 | 
 

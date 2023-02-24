@@ -1,8 +1,8 @@
 # hercules-team/augeas - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 201
+☋ Forks: 202
 
 ★ Stars: 448
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 448 | 202 | 
 | 2023-02-22 | 448 | 201 | 
 | 2023-02-21 | 448 | 201 | 
 | 2023-02-20 | 447 | 201 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 445 | 200 | 
 | 2023-01-26 | 445 | 200 | 
 | 2023-01-25 | 445 | 200 | 
-| 2023-01-24 | 445 | 200 | 
 

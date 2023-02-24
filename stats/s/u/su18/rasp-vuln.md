@@ -1,6 +1,6 @@
 # su18/rasp-vuln - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 64 | 4 | 
 | 2023-02-22 | 64 | 4 | 
 | 2023-02-20 | 64 | 4 | 
 | 2023-02-19 | 63 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 62 | 4 | 
 | 2023-01-27 | 62 | 4 | 
 | 2023-01-26 | 61 | 4 | 
-| 2023-01-25 | 61 | 4 | 
 

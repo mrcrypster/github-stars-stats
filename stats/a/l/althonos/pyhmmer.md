@@ -1,10 +1,10 @@
 # althonos/pyhmmer - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 7
 
-★ Stars: 63
+★ Stars: 65
 
 [Open repository](https://github.com/althonos/pyhmmer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 65 | 7 | 
 | 2023-02-22 | 63 | 7 | 
 | 2023-02-21 | 62 | 7 | 
 | 2023-02-20 | 62 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 55 | 7 | 
 | 2023-01-26 | 55 | 7 | 
 | 2023-01-25 | 55 | 6 | 
-| 2023-01-24 | 55 | 6 | 
 

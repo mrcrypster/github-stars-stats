@@ -1,10 +1,10 @@
 # adityatelange/hugo-PaperMod - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1754
+☋ Forks: 1758
 
-★ Stars: 5594
+★ Stars: 5600
 
 [Open repository](https://github.com/adityatelange/hugo-PaperMod)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 5600 | 1758 | 
 | 2023-02-22 | 5594 | 1754 | 
 | 2023-02-21 | 5580 | 1750 | 
 | 2023-02-20 | 5572 | 1744 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 5360 | 1693 | 
 | 2023-01-26 | 5351 | 1694 | 
 | 2023-01-25 | 5342 | 1691 | 
-| 2023-01-24 | 5337 | 1690 | 
 

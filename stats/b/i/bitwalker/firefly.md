@@ -1,10 +1,10 @@
 # bitwalker/firefly - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/bitwalker/firefly)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3 | - | 
 | 2023-02-22 | 2 | - | 
 | 2023-02-21 | 2 | - | 
 | 2023-02-20 | 2 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 2 | - | 
 | 2023-01-27 | 2 | - | 
 | 2023-01-25 | 2 | - | 
-| 2023-01-24 | 2 | - | 
 

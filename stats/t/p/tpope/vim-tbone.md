@@ -1,10 +1,10 @@
 # tpope/vim-tbone - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 18
 
-★ Stars: 372
+★ Stars: 373
 
 [Open repository](https://github.com/tpope/vim-tbone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 373 | 18 | 
 | 2023-02-22 | 372 | 18 | 
 | 2023-02-21 | 372 | 18 | 
 | 2023-02-20 | 372 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 370 | 18 | 
 | 2023-01-26 | 370 | 18 | 
 | 2023-01-25 | 370 | 18 | 
-| 2023-01-24 | 370 | 18 | 
 

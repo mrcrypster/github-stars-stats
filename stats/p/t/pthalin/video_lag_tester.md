@@ -1,6 +1,6 @@
 # pthalin/video_lag_tester - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 23 | 1 | 
 | 2023-02-22 | 23 | 1 | 
 | 2023-02-20 | 23 | 1 | 
 | 2023-02-19 | 23 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 17 | 1 | 
 | 2023-01-27 | 16 | 1 | 
 | 2023-01-26 | 16 | 1 | 
-| 2023-01-25 | 16 | 1 | 
 

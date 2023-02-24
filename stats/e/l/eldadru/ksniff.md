@@ -1,10 +1,10 @@
 # eldadru/ksniff - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 158
 
-★ Stars: 2600
+★ Stars: 2602
 
 [Open repository](https://github.com/eldadru/ksniff)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2602 | 158 | 
 | 2023-02-22 | 2600 | 158 | 
 | 2023-02-21 | 2597 | 158 | 
 | 2023-02-20 | 2592 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2570 | 154 | 
 | 2023-01-26 | 2568 | 153 | 
 | 2023-01-25 | 2565 | 153 | 
-| 2023-01-24 | 2564 | 153 | 
 

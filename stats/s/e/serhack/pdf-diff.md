@@ -1,6 +1,6 @@
 # serhack/pdf-diff - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 719 | 36 | 
 | 2023-02-22 | 719 | 36 | 
 | 2023-02-21 | 719 | 36 | 
 | 2023-02-20 | 719 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 717 | 36 | 
 | 2023-01-27 | 717 | 36 | 
 | 2023-01-26 | 717 | 36 | 
-| 2023-01-24 | 717 | 36 | 
 

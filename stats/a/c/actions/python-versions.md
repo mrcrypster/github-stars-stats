@@ -1,10 +1,10 @@
 # actions/python-versions - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 81
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/actions/python-versions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 124 | 81 | 
 | 2023-02-22 | 123 | 81 | 
 | 2023-02-20 | 123 | 81 | 
 | 2023-02-19 | 123 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 123 | 79 | 
 | 2023-01-27 | 123 | 78 | 
 | 2023-01-26 | 123 | 78 | 
-| 2023-01-25 | 124 | 78 | 
 

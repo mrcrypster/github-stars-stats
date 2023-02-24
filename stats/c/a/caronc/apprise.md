@@ -1,10 +1,10 @@
 # caronc/apprise - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
-☋ Forks: 274
+☋ Forks: 275
 
-★ Stars: 7519
+★ Stars: 7530
 
 [Open repository](https://github.com/caronc/apprise)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 7530 | 275 | 
 | 2023-02-22 | 7519 | 274 | 
 | 2023-02-21 | 7512 | 273 | 
 | 2023-02-20 | 7504 | 272 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 7346 | 265 | 
 | 2023-01-26 | 7338 | 264 | 
 | 2023-01-25 | 7328 | 264 | 
-| 2023-01-24 | 7327 | 264 | 
 

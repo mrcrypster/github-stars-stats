@@ -1,10 +1,10 @@
 # microsoft/azure-pipelines-agent - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 840
 
-★ Stars: 1496
+★ Stars: 1497
 
 [Open repository](https://github.com/microsoft/azure-pipelines-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1497 | 840 | 
 | 2023-02-22 | 1496 | 840 | 
 | 2023-02-21 | 1496 | 840 | 
 | 2023-02-20 | 1495 | 840 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1485 | 836 | 
 | 2023-01-26 | 1485 | 836 | 
 | 2023-01-25 | 1485 | 836 | 
-| 2023-01-24 | 1484 | 834 | 
 

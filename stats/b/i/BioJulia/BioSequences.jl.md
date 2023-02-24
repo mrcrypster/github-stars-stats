@@ -1,10 +1,10 @@
 # BioJulia/BioSequences.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 45
 
-★ Stars: 124
+★ Stars: 123
 
 [Open repository](https://github.com/BioJulia/BioSequences.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 123 | 45 | 
 | 2023-02-22 | 124 | 45 | 
 | 2023-02-21 | 124 | 45 | 
 | 2023-02-20 | 124 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 121 | 45 | 
 | 2023-01-26 | 121 | 45 | 
 | 2023-01-25 | 121 | 45 | 
-| 2023-01-24 | 121 | 45 | 
 

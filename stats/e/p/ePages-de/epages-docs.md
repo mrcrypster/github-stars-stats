@@ -1,6 +1,6 @@
 # ePages-de/epages-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 9 | 60 | 
 | 2023-02-22 | 9 | 60 | 
 | 2023-02-21 | 9 | 60 | 
 | 2023-02-19 | 9 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 9 | 60 | 
 | 2023-01-26 | 9 | 60 | 
 | 2023-01-25 | 9 | 60 | 
-| 2023-01-24 | 9 | 60 | 
 

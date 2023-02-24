@@ -1,10 +1,10 @@
 # greyli/bootstrap-flask - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 159
 
-★ Stars: 847
+★ Stars: 849
 
 [Open repository](https://github.com/greyli/bootstrap-flask)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 849 | 159 | 
 | 2023-02-22 | 847 | 159 | 
 | 2023-02-21 | 845 | 158 | 
 | 2023-02-20 | 843 | 157 | 

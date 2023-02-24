@@ -1,6 +1,6 @@
 # KaimaChen/Unity-Shader-Demo - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 600 | 223 | 
 | 2023-02-22 | 600 | 223 | 
 | 2023-02-21 | 600 | 223 | 
 | 2023-02-20 | 598 | 223 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 594 | 222 | 
 | 2023-01-26 | 594 | 222 | 
 | 2023-01-25 | 593 | 222 | 
-| 2023-01-24 | 593 | 222 | 
 

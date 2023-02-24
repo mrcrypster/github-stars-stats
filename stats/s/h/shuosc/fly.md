@@ -1,10 +1,10 @@
 # shuosc/fly - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 51
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/shuosc/fly)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 61 | 51 | 
 | 2023-02-22 | 60 | 51 | 
 | 2023-02-21 | 59 | 50 | 
 | 2023-02-20 | 59 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 56 | 48 | 
 | 2023-01-26 | 56 | 48 | 
 | 2023-01-25 | 56 | 47 | 
-| 2023-01-24 | 56 | 47 | 
 

@@ -1,10 +1,10 @@
 # facebook/duckling - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 711
+☋ Forks: 710
 
-★ Stars: 3793
+★ Stars: 3794
 
 [Open repository](https://github.com/facebook/duckling)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3794 | 710 | 
 | 2023-02-22 | 3793 | 711 | 
 | 2023-02-21 | 3792 | 710 | 
 | 2023-02-20 | 3792 | 711 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 3780 | 708 | 
 | 2023-01-26 | 3780 | 708 | 
 | 2023-01-25 | 3777 | 707 | 
-| 2023-01-24 | 3777 | 707 | 
 

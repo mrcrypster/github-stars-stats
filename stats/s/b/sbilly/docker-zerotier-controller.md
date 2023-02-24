@@ -1,10 +1,10 @@
 # sbilly/docker-zerotier-controller - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 73
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/sbilly/docker-zerotier-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 214 | 73 | 
 | 2023-02-22 | 213 | 73 | 
 | 2023-02-21 | 214 | 73 | 
 | 2023-02-20 | 214 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 210 | 73 | 
 | 2023-01-26 | 210 | 73 | 
 | 2023-01-25 | 210 | 73 | 
-| 2023-01-24 | 210 | 73 | 
 

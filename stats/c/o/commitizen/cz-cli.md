@@ -1,10 +1,10 @@
 # commitizen/cz-cli - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 566
 
-★ Stars: 14847
+★ Stars: 14852
 
 [Open repository](https://github.com/commitizen/cz-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 14852 | 566 | 
 | 2023-02-22 | 14847 | 566 | 
 | 2023-02-21 | 14842 | 566 | 
 | 2023-02-20 | 14832 | 565 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 14735 | 561 | 
 | 2023-01-26 | 14726 | 560 | 
 | 2023-01-25 | 14722 | 560 | 
-| 2023-01-24 | 14716 | 560 | 
 

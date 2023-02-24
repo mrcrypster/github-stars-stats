@@ -1,10 +1,10 @@
 # BleachDev/BleachHack - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 154
 
-★ Stars: 634
+★ Stars: 633
 
 [Open repository](https://github.com/BleachDev/BleachHack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 633 | 154 | 
 | 2023-02-22 | 634 | 154 | 
 | 2023-02-21 | 634 | 154 | 
 | 2023-02-19 | 633 | 154 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 626 | 152 | 
 | 2023-01-26 | 625 | 152 | 
 | 2023-01-25 | 624 | 152 | 
-| 2023-01-24 | 624 | 152 | 
 

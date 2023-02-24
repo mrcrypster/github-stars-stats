@@ -1,6 +1,6 @@
 # fltk-rs/fltk-rs - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1104 | 85 | 
 | 2023-02-22 | 1104 | 85 | 
 | 2023-02-21 | 1103 | 85 | 
 | 2023-02-20 | 1100 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1089 | 83 | 
 | 2023-01-26 | 1089 | 83 | 
 | 2023-01-25 | 1089 | 83 | 
-| 2023-01-24 | 1089 | 83 | 
 

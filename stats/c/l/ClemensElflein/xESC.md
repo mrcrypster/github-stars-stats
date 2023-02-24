@@ -1,6 +1,6 @@
 # ClemensElflein/xESC - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 186 | 16 | 
 | 2023-02-22 | 186 | 16 | 
 | 2023-02-21 | 186 | 16 | 
 | 2023-02-20 | 185 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 182 | 14 | 
 | 2023-01-27 | 182 | 14 | 
 | 2023-01-25 | 182 | 14 | 
-| 2023-01-24 | 182 | 14 | 
 

@@ -1,6 +1,6 @@
 # MIUI-Monet-Project/Module - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 223 | 1 | 
 | 2023-02-22 | 223 | 1 | 
 | 2023-02-21 | 223 | 1 | 
 | 2023-02-19 | 222 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 205 | 1 | 
 | 2023-01-26 | 203 | 1 | 
 | 2023-01-25 | 203 | 1 | 
-| 2023-01-24 | 203 | 1 | 
 

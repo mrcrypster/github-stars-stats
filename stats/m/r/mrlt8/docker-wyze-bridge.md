@@ -1,10 +1,10 @@
 # mrlt8/docker-wyze-bridge - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 93
 
-★ Stars: 1394
+★ Stars: 1404
 
 [Open repository](https://github.com/mrlt8/docker-wyze-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1404 | 93 | 
 | 2023-02-22 | 1394 | 93 | 
 | 2023-02-21 | 1390 | 93 | 
 | 2023-02-20 | 1387 | 92 | 

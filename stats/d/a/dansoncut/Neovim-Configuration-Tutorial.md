@@ -1,10 +1,10 @@
 # dansoncut/Neovim-Configuration-Tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 57
+★ Stars: 60
 
 [Open repository](https://github.com/dansoncut/Neovim-Configuration-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 60 | 34 | 
 | 2023-02-22 | 57 | 33 | 
 | 2023-02-21 | 57 | 31 | 
 | 2023-02-19 | 57 | 31 | 

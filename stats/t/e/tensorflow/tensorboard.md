@@ -1,10 +1,10 @@
 # tensorflow/tensorboard - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1577
+☋ Forks: 1579
 
-★ Stars: 6115
+★ Stars: 6116
 
 [Open repository](https://github.com/tensorflow/tensorboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6116 | 1579 | 
 | 2023-02-22 | 6115 | 1577 | 
 | 2023-02-21 | 6112 | 1577 | 
 | 2023-02-20 | 6111 | 1577 | 

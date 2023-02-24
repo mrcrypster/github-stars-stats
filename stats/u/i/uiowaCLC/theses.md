@@ -1,0 +1,17 @@
+# uiowaCLC/theses - stars & forks statistics
+
+Stats updated on Feb 2023, 23
+
+☋ Forks: 10
+
+★ Stars: 5
+
+[Open repository](https://github.com/uiowaCLC/theses)
+
+[Open detailed stats for uiowaCLC/theses](https://reviewgithub.com/rep/uiowaCLC/theses)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-23 | 5 | 10 | 
+

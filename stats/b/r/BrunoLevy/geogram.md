@@ -1,10 +1,10 @@
 # BrunoLevy/geogram - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 1046
+★ Stars: 1049
 
 [Open repository](https://github.com/BrunoLevy/geogram)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1049 | 55 | 
 | 2023-02-22 | 1046 | 54 | 
 | 2023-02-20 | 1040 | 54 | 
 | 2023-02-19 | 995 | 54 | 

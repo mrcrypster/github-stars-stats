@@ -1,10 +1,10 @@
 # SwaggyMacro/YangLeGeYang - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 64
 
-★ Stars: 281
+★ Stars: 280
 
 [Open repository](https://github.com/SwaggyMacro/YangLeGeYang)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 280 | 64 | 
 | 2023-02-22 | 281 | 64 | 
 | 2023-02-21 | 281 | 64 | 
 | 2023-02-20 | 281 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 283 | 63 | 
 | 2023-01-26 | 283 | 63 | 
 | 2023-01-25 | 283 | 63 | 
-| 2023-01-24 | 283 | 63 | 
 

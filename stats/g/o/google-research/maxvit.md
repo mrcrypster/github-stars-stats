@@ -1,6 +1,6 @@
 # google-research/maxvit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 308 | 19 | 
 | 2023-02-22 | 308 | 19 | 
 | 2023-02-21 | 305 | 19 | 
 | 2023-02-19 | 304 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 300 | 20 | 
 | 2023-01-26 | 300 | 20 | 
 | 2023-01-25 | 300 | 20 | 
-| 2023-01-24 | 299 | 20 | 
 

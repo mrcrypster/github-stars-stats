@@ -1,10 +1,10 @@
 # abuanwar072/Flutter-Shop-UI-Kit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 172
 
-★ Stars: 420
+★ Stars: 421
 
 [Open repository](https://github.com/abuanwar072/Flutter-Shop-UI-Kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 421 | 172 | 
 | 2023-02-22 | 420 | 172 | 
 | 2023-02-21 | 419 | 172 | 
 | 2023-02-19 | 419 | 172 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 414 | 172 | 
 | 2023-01-26 | 414 | 172 | 
 | 2023-01-25 | 414 | 172 | 
-| 2023-01-24 | 413 | 172 | 
 

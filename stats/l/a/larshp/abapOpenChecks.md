@@ -1,6 +1,6 @@
 # larshp/abapOpenChecks - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 205 | 66 | 
 | 2023-02-22 | 205 | 66 | 
 | 2023-02-21 | 205 | 66 | 
 | 2023-02-20 | 204 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 203 | 66 | 
 | 2023-01-26 | 203 | 66 | 
 | 2023-01-25 | 203 | 66 | 
-| 2023-01-24 | 203 | 66 | 
 

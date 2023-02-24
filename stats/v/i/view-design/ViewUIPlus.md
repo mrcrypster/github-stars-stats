@@ -1,10 +1,10 @@
 # view-design/ViewUIPlus - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 82
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/view-design/ViewUIPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 214 | 82 | 
 | 2023-02-22 | 213 | 82 | 
 | 2023-02-21 | 212 | 80 | 
 | 2023-02-19 | 211 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 200 | 75 | 
 | 2023-01-26 | 200 | 75 | 
 | 2023-01-25 | 198 | 75 | 
-| 2023-01-24 | 198 | 75 | 
 

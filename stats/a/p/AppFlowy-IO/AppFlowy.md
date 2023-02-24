@@ -1,10 +1,10 @@
 # AppFlowy-IO/AppFlowy - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1836
+☋ Forks: 1843
 
-★ Stars: 31881
+★ Stars: 31933
 
 [Open repository](https://github.com/AppFlowy-IO/AppFlowy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 31933 | 1843 | 
 | 2023-02-22 | 31881 | 1836 | 
 | 2023-02-21 | 31832 | 1829 | 
 | 2023-02-20 | 31821 | 1826 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 31151 | 1770 | 
 | 2023-01-26 | 31116 | 1767 | 
 | 2023-01-25 | 31085 | 1766 | 
-| 2023-01-24 | 31078 | 1766 | 
 

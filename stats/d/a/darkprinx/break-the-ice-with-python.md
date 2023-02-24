@@ -1,10 +1,10 @@
 # darkprinx/break-the-ice-with-python - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1274
+☋ Forks: 1276
 
-★ Stars: 2235
+★ Stars: 2250
 
 [Open repository](https://github.com/darkprinx/break-the-ice-with-python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2250 | 1276 | 
 | 2023-02-22 | 2235 | 1274 | 
 | 2023-02-21 | 2235 | 1272 | 
 | 2023-02-20 | 2235 | 1271 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 2198 | 1260 | 
 | 2023-01-27 | 2196 | 1258 | 
 | 2023-01-26 | 2194 | 1256 | 
-| 2023-01-25 | 2193 | 1255 | 
 

@@ -1,6 +1,6 @@
 # prettier/vim-prettier - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1652 | 122 | 
 | 2023-02-22 | 1652 | 122 | 
 | 2023-02-21 | 1652 | 122 | 
 | 2023-02-20 | 1652 | 122 | 

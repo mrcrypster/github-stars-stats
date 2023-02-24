@@ -1,10 +1,10 @@
 # eliaszon/Programmers-Overseas-Job-Interview-Handbook - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 2447
+★ Stars: 2461
 
 [Open repository](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2461 | 157 | 
 | 2023-02-22 | 2447 | 156 | 
 | 2023-02-21 | 2437 | 156 | 
 | 2023-02-19 | 2422 | 154 | 

@@ -1,6 +1,6 @@
 # code-423n4/2022-10-inverse - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6 | 9 | 
 | 2023-02-22 | 6 | 9 | 
 | 2023-02-21 | 6 | 9 | 
 | 2023-02-20 | 6 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 5 | 9 | 
 | 2023-01-27 | 5 | 9 | 
 | 2023-01-26 | 5 | 9 | 
-| 2023-01-25 | 5 | 9 | 
 

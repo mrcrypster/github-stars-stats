@@ -1,6 +1,6 @@
 # sobolevbel/jdg - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 194 | 60 | 
 | 2023-02-22 | 194 | 60 | 
 | 2023-02-21 | 194 | 59 | 
 | 2023-02-20 | 194 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 182 | 55 | 
 | 2023-01-26 | 181 | 55 | 
 | 2023-01-25 | 179 | 55 | 
-| 2023-01-24 | 179 | 55 | 
 

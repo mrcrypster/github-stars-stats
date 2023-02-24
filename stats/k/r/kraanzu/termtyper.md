@@ -1,10 +1,10 @@
 # kraanzu/termtyper - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 34
 
-★ Stars: 855
+★ Stars: 854
 
 [Open repository](https://github.com/kraanzu/termtyper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 854 | 34 | 
 | 2023-02-22 | 855 | 34 | 
 | 2023-02-21 | 855 | 34 | 
 | 2023-02-20 | 854 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 843 | 33 | 
 | 2023-01-26 | 842 | 33 | 
 | 2023-01-25 | 842 | 33 | 
-| 2023-01-24 | 843 | 33 | 
 

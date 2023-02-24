@@ -1,10 +1,10 @@
 # MariaLetta/free-gophers-pack - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 172
 
-★ Stars: 2919
+★ Stars: 2921
 
 [Open repository](https://github.com/MariaLetta/free-gophers-pack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2921 | 172 | 
 | 2023-02-22 | 2919 | 172 | 
 | 2023-02-21 | 2919 | 172 | 
 | 2023-02-20 | 2918 | 172 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2885 | 173 | 
 | 2023-01-26 | 2886 | 173 | 
 | 2023-01-25 | 2885 | 173 | 
-| 2023-01-24 | 2885 | 173 | 
 

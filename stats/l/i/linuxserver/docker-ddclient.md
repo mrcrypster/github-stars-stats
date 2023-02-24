@@ -1,10 +1,10 @@
 # linuxserver/docker-ddclient - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/linuxserver/docker-ddclient)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 98 | 27 | 
 | 2023-02-22 | 97 | 26 | 
 | 2023-02-21 | 97 | 26 | 
 | 2023-02-19 | 96 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 97 | 26 | 
 | 2023-01-26 | 97 | 26 | 
 | 2023-01-25 | 97 | 26 | 
-| 2023-01-24 | 97 | 26 | 
 

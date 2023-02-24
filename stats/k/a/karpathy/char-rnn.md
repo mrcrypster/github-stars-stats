@@ -1,10 +1,10 @@
 # karpathy/char-rnn - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2522
 
-★ Stars: 11029
+★ Stars: 11030
 
 [Open repository](https://github.com/karpathy/char-rnn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 11030 | 2522 | 
 | 2023-02-22 | 11029 | 2522 | 
 | 2023-02-21 | 11030 | 2521 | 
 | 2023-02-20 | 11030 | 2521 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 11007 | 2498 | 
 | 2023-01-26 | 11005 | 2498 | 
 | 2023-01-25 | 11003 | 2497 | 
-| 2023-01-24 | 11002 | 2497 | 
 

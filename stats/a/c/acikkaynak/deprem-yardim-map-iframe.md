@@ -1,10 +1,10 @@
 # acikkaynak/deprem-yardim-map-iframe - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/acikkaynak/deprem-yardim-map-iframe)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 12 | 1 | 
 | 2023-02-22 | 11 | 1 | 
 | 2023-02-20 | 11 | 1 | 
 | 2023-02-19 | 11 | 1 | 

@@ -1,10 +1,10 @@
 # CatalaLang/catala - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 48
 
-★ Stars: 932
+★ Stars: 933
 
 [Open repository](https://github.com/CatalaLang/catala)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 933 | 48 | 
 | 2023-02-22 | 932 | 48 | 
 | 2023-02-21 | 933 | 48 | 
 | 2023-02-19 | 934 | 48 | 

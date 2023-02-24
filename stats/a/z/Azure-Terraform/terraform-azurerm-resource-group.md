@@ -1,6 +1,6 @@
 # Azure-Terraform/terraform-azurerm-resource-group - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3 | 12 | 
 | 2023-02-22 | 3 | 12 | 
 | 2023-02-21 | 3 | 12 | 
 | 2023-02-20 | 3 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 3 | 12 | 
 | 2023-01-27 | 3 | 12 | 
 | 2023-01-26 | 3 | 12 | 
-| 2023-01-25 | 3 | 12 | 
 

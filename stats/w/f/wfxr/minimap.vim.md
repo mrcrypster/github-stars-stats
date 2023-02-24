@@ -1,10 +1,10 @@
 # wfxr/minimap.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 19
 
-★ Stars: 951
+★ Stars: 950
 
 [Open repository](https://github.com/wfxr/minimap.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 950 | 19 | 
 | 2023-02-22 | 951 | 19 | 
 | 2023-02-21 | 950 | 19 | 
 | 2023-02-20 | 949 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 938 | 20 | 
 | 2023-01-26 | 936 | 20 | 
 | 2023-01-25 | 937 | 20 | 
-| 2023-01-24 | 937 | 20 | 
 

@@ -1,10 +1,10 @@
 # phaazon/this-week-in-neovim-contents - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 70
+☋ Forks: 69
 
-★ Stars: 227
+★ Stars: 230
 
 [Open repository](https://github.com/phaazon/this-week-in-neovim-contents)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 230 | 69 | 
 | 2023-02-22 | 227 | 70 | 
 | 2023-02-21 | 227 | 70 | 
 | 2023-02-19 | 225 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 207 | 58 | 
 | 2023-01-26 | 203 | 58 | 
 | 2023-01-25 | 204 | 60 | 
-| 2023-01-24 | 204 | 60 | 
 

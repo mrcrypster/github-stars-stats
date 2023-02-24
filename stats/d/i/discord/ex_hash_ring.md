@@ -1,10 +1,10 @@
 # discord/ex_hash_ring - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 26
 
-★ Stars: 440
+★ Stars: 441
 
 [Open repository](https://github.com/discord/ex_hash_ring)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 441 | 26 | 
 | 2023-02-22 | 440 | 26 | 
 | 2023-02-21 | 440 | 26 | 
 | 2023-02-20 | 440 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 438 | 26 | 
 | 2023-01-26 | 438 | 26 | 
 | 2023-01-25 | 438 | 26 | 
-| 2023-01-24 | 438 | 26 | 
 

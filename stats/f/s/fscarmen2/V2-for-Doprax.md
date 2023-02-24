@@ -1,10 +1,10 @@
 # fscarmen2/V2-for-Doprax - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 90
+☋ Forks: 92
 
-★ Stars: 34
+★ Stars: 37
 
 [Open repository](https://github.com/fscarmen2/V2-for-Doprax)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 37 | 92 | 
 | 2023-02-22 | 34 | 90 | 
 | 2023-02-21 | 33 | 86 | 
 | 2023-02-20 | 33 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 23 | 69 | 
 | 2023-01-26 | 22 | 67 | 
 | 2023-01-25 | 21 | 64 | 
-| 2023-01-24 | 20 | 63 | 
 

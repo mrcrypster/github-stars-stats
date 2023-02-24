@@ -1,10 +1,10 @@
 # lkw199711/smanga - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 147
+★ Stars: 154
 
 [Open repository](https://github.com/lkw199711/smanga)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 154 | 7 | 
 | 2023-02-22 | 147 | 6 | 
 | 2023-02-21 | 137 | 4 | 
 | 2023-02-20 | 135 | 3 | 

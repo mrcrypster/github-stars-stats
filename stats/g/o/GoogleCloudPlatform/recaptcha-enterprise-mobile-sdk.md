@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 16 | - | 
 | 2023-02-22 | 15 | - | 
 | 2023-02-21 | 16 | - | 
 | 2023-02-19 | 16 | - | 

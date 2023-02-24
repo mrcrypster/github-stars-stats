@@ -1,6 +1,6 @@
 # noha/JSONWebToken - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 15 | 10 | 
 | 2023-02-22 | 15 | 10 | 
 | 2023-02-20 | 15 | 10 | 
 | 2023-02-19 | 15 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 15 | 10 | 
 | 2023-01-27 | 15 | 10 | 
 | 2023-01-25 | 15 | 10 | 
-| 2023-01-24 | 15 | 10 | 
 

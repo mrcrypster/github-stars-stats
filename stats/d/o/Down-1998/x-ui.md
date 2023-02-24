@@ -1,10 +1,10 @@
 # Down-1998/x-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 9
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/Down-1998/x-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 126 | 9 | 
 | 2023-02-22 | 125 | 9 | 
 | 2023-02-20 | 125 | 9 | 
 | 2023-02-19 | 125 | 9 | 

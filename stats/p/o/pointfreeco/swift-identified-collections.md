@@ -1,6 +1,6 @@
 # pointfreeco/swift-identified-collections - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 356 | 28 | 
 | 2023-02-22 | 356 | 28 | 
 | 2023-02-20 | 355 | 28 | 
 | 2023-02-19 | 355 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 325 | 28 | 
 | 2023-01-26 | 317 | 28 | 
 | 2023-01-25 | 314 | 28 | 
-| 2023-01-24 | 309 | 28 | 
 

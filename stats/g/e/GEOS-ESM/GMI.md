@@ -1,6 +1,6 @@
 # GEOS-ESM/GMI - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | - | 
+| 2023-02-23 | 1 | - | 
 | 2023-02-22 | 1 | - | 
 | 2023-02-20 | 1 | - | 
 | 2023-02-19 | 1 | - | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | - | - | 
 | 2023-01-26 | - | - | 
 | 2023-01-25 | - | - | 
-| 2023-01-24 | - | - | 
 

@@ -1,10 +1,10 @@
 # apache/incubator-doris - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 2083
+☋ Forks: 2085
 
-★ Stars: 7086
+★ Stars: 7105
 
 [Open repository](https://github.com/apache/incubator-doris)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 7105 | 2085 | 
 | 2023-02-22 | 7086 | 2083 | 
 | 2023-02-21 | 7068 | 2077 | 
 | 2023-02-20 | 7057 | 2076 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 6883 | 2021 | 
 | 2023-01-26 | 6879 | 2021 | 
 | 2023-01-25 | 6879 | 2021 | 
-| 2023-01-24 | 6876 | 2022 | 
 

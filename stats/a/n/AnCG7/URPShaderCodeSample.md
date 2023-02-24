@@ -1,10 +1,10 @@
 # AnCG7/URPShaderCodeSample - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 19
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/AnCG7/URPShaderCodeSample)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 99 | 19 | 
 | 2023-02-22 | 98 | 19 | 
 | 2023-02-21 | 98 | 19 | 
 | 2023-02-20 | 98 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 96 | 19 | 
 | 2023-01-27 | 96 | 19 | 
 | 2023-01-25 | 96 | 19 | 
-| 2023-01-24 | 96 | 19 | 
 

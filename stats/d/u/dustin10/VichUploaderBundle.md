@@ -1,8 +1,8 @@
 # dustin10/VichUploaderBundle - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 519
+☋ Forks: 518
 
 ★ Stars: 1718
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1718 | 518 | 
 | 2023-02-22 | 1718 | 519 | 
 | 2023-02-21 | 1718 | 519 | 
 | 2023-02-20 | 1718 | 519 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 1706 | 513 | 
 | 2023-01-27 | 1706 | 513 | 
 | 2023-01-25 | 1707 | 513 | 
-| 2023-01-24 | 1707 | 513 | 
 

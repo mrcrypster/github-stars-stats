@@ -1,6 +1,6 @@
 # mikeroyal/Open-Source-Security-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 661 | 60 | 
 | 2023-02-22 | 661 | 60 | 
 | 2023-02-21 | 660 | 60 | 
 | 2023-02-20 | 660 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 649 | 59 | 
 | 2023-01-27 | 647 | 59 | 
 | 2023-01-25 | 647 | 59 | 
-| 2023-01-24 | 647 | 59 | 
 

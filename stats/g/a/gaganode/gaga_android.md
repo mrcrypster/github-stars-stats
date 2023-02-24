@@ -1,6 +1,6 @@
 # gaganode/gaga_android - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 126 | 20 | 
 | 2023-02-22 | 126 | 20 | 
 | 2023-02-21 | 126 | 20 | 
 | 2023-02-20 | 125 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 101 | 17 | 
 | 2023-01-27 | 101 | 17 | 
 | 2023-01-25 | 99 | 17 | 
-| 2023-01-24 | 99 | 17 | 
 

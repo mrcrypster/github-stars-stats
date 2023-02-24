@@ -1,10 +1,10 @@
 # brettkolodny/react-gleam - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/brettkolodny/react-gleam)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 23 | 1 | 
 | 2023-02-22 | 22 | 1 | 
 | 2023-02-20 | 22 | 1 | 
 | 2023-02-19 | 22 | 1 | 

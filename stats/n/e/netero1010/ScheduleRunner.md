@@ -1,6 +1,6 @@
 # netero1010/ScheduleRunner - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 284 | 40 | 
 | 2023-02-22 | 284 | 40 | 
 | 2023-02-20 | 284 | 40 | 
 | 2023-02-19 | 284 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 281 | 40 | 
 | 2023-01-26 | 281 | 40 | 
 | 2023-01-25 | 281 | 40 | 
-| 2023-01-24 | 281 | 40 | 
 

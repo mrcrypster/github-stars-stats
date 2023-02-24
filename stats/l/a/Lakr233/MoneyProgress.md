@@ -1,10 +1,10 @@
 # Lakr233/MoneyProgress - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 359
+★ Stars: 367
 
 [Open repository](https://github.com/Lakr233/MoneyProgress)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 367 | 30 | 
 | 2023-02-22 | 359 | 29 | 
 | 2023-02-21 | 343 | 28 | 
 

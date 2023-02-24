@@ -1,10 +1,10 @@
 # Athena-OS/athena-iso - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 410
+★ Stars: 414
 
 [Open repository](https://github.com/Athena-OS/athena-iso)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 414 | 39 | 
 | 2023-02-22 | 410 | 38 | 
 | 2023-02-21 | 396 | 38 | 
 | 2023-02-20 | 389 | 38 | 

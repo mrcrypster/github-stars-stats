@@ -1,6 +1,6 @@
 # w3c/contact-picker - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 64 | 8 | 
 | 2023-02-22 | 64 | 8 | 
 | 2023-02-21 | 64 | 8 | 
 | 2023-02-19 | 64 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 64 | 8 | 
 | 2023-01-26 | 64 | 8 | 
 | 2023-01-25 | 64 | 8 | 
-| 2023-01-24 | 64 | 8 | 
 

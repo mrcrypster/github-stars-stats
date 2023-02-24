@@ -1,10 +1,10 @@
 # sdras/awesome-actions - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1344
+☋ Forks: 1348
 
-★ Stars: 20914
+★ Stars: 20918
 
 [Open repository](https://github.com/sdras/awesome-actions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 20918 | 1348 | 
 | 2023-02-22 | 20914 | 1344 | 
 | 2023-02-21 | 20906 | 1343 | 
 | 2023-02-20 | 20891 | 1342 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 20648 | 1332 | 
 | 2023-01-26 | 20645 | 1331 | 
 | 2023-01-25 | 20639 | 1330 | 
-| 2023-01-24 | 20639 | 1329 | 
 

@@ -1,6 +1,6 @@
 # CodeByZach/pace - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1957
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 15548 | 1957 | 
 | 2023-02-22 | 15548 | 1957 | 
 | 2023-02-21 | 15549 | 1957 | 
 | 2023-02-20 | 15549 | 1958 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 15537 | 1955 | 
 | 2023-01-26 | 15537 | 1955 | 
 | 2023-01-25 | 15537 | 1956 | 
-| 2023-01-24 | 15537 | 1956 | 
 

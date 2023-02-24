@@ -1,10 +1,10 @@
 # grailbio/bazel-toolchain - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 160
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/grailbio/bazel-toolchain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 187 | 160 | 
 | 2023-02-22 | 186 | 160 | 
 | 2023-02-21 | 186 | 160 | 
 | 2023-02-20 | 186 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 184 | 161 | 
 | 2023-01-26 | 183 | 161 | 
 | 2023-01-25 | 183 | 161 | 
-| 2023-01-24 | 182 | 161 | 
 

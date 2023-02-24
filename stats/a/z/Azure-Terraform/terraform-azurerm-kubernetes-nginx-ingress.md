@@ -1,6 +1,6 @@
 # Azure-Terraform/terraform-azurerm-kubernetes-nginx-ingress - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2 | 8 | 
 | 2023-02-22 | 2 | 8 | 
 | 2023-02-21 | 2 | 8 | 
 | 2023-02-19 | 2 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 1 | 8 | 
 | 2023-01-27 | 1 | 8 | 
 | 2023-01-25 | 1 | 8 | 
-| 2023-01-24 | 1 | 8 | 
 

@@ -1,10 +1,10 @@
 # fsharp-mobile/Fabulous.Maui - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/fsharp-mobile/Fabulous.Maui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 13 | 2 | 
 | 2023-02-22 | 12 | 2 | 
 | 2023-02-21 | 12 | 2 | 
 | 2023-02-20 | 12 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 11 | 2 | 
 | 2023-01-26 | 11 | 2 | 
 | 2023-01-25 | 11 | 2 | 
-| 2023-01-24 | 11 | 2 | 
 

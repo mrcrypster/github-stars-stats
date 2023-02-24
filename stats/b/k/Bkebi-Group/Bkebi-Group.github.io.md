@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 23
 
 ☋ Forks: 13
 
-★ Stars: 31
+★ Stars: 39
 
 [Open repository](https://github.com/Bkebi-Group/Bkebi-Group.github.io)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-23 | 31 | 13 | 
+| 2023-02-23 | 39 | 13 | 
 | 2023-02-22 | 30 | 13 | 
 

@@ -1,10 +1,10 @@
 # koushikkothagal/java-backend-bootcamp - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/koushikkothagal/java-backend-bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 84 | 51 | 
 | 2023-02-22 | 83 | 50 | 
 | 2023-02-21 | 81 | 49 | 
 | 2023-02-20 | 76 | 48 | 

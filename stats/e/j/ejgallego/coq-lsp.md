@@ -1,10 +1,10 @@
 # ejgallego/coq-lsp - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 12
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/ejgallego/coq-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 69 | 12 | 
 | 2023-02-22 | 68 | 12 | 
 | 2023-02-21 | 68 | 12 | 
 | 2023-02-20 | 68 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 61 | 8 | 
 | 2023-01-26 | 61 | 8 | 
 | 2023-01-25 | 61 | 7 | 
-| 2023-01-24 | 61 | 7 | 
 

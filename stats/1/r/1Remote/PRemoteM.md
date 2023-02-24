@@ -1,6 +1,6 @@
 # 1Remote/PRemoteM - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1096 | 182 | 
 | 2023-02-22 | 1096 | 182 | 
 | 2023-02-21 | 1093 | 182 | 
 | 2023-02-20 | 1092 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 1063 | 178 | 
 | 2023-01-26 | 1062 | 178 | 
 | 2023-01-25 | 1061 | 178 | 
-| 2023-01-24 | 1060 | 178 | 
 

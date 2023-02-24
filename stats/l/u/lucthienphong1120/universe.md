@@ -1,6 +1,6 @@
 # lucthienphong1120/universe - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 17 | 14 | 
 | 2023-02-22 | 17 | 14 | 
 | 2023-02-21 | 17 | 14 | 
 | 2023-02-20 | 17 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 17 | 11 | 
 | 2023-01-27 | 17 | 11 | 
 | 2023-01-26 | 17 | 11 | 
-| 2023-01-25 | 17 | 11 | 
 

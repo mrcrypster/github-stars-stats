@@ -1,10 +1,10 @@
 # GoogleContainerTools/kaniko - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1222
 
-★ Stars: 11823
+★ Stars: 11832
 
 [Open repository](https://github.com/GoogleContainerTools/kaniko)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 11832 | 1222 | 
 | 2023-02-22 | 11823 | 1222 | 
 | 2023-02-21 | 11817 | 1221 | 
 | 2023-02-20 | 11810 | 1219 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 11715 | 1209 | 
 | 2023-01-26 | 11711 | 1208 | 
 | 2023-01-25 | 11702 | 1206 | 
-| 2023-01-24 | 11697 | 1204 | 
 

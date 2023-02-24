@@ -1,10 +1,10 @@
 # yzddmr6/ASP.NET-Memshell-Scanner - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 14
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/yzddmr6/ASP.NET-Memshell-Scanner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 124 | 14 | 
 | 2023-02-22 | 123 | 14 | 
 | 2023-02-21 | 122 | 14 | 
 | 2023-02-19 | 122 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 120 | 14 | 
 | 2023-01-26 | 120 | 14 | 
 | 2023-01-25 | 120 | 14 | 
-| 2023-01-24 | 120 | 14 | 
 

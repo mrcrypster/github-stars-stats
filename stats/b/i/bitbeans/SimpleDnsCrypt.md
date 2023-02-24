@@ -1,10 +1,10 @@
 # bitbeans/SimpleDnsCrypt - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 230
 
-★ Stars: 2113
+★ Stars: 2115
 
 [Open repository](https://github.com/bitbeans/SimpleDnsCrypt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2115 | 230 | 
 | 2023-02-22 | 2113 | 230 | 
 | 2023-02-21 | 2113 | 230 | 
 | 2023-02-20 | 2114 | 230 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2097 | 229 | 
 | 2023-01-26 | 2097 | 229 | 
 | 2023-01-25 | 2097 | 229 | 
-| 2023-01-24 | 2098 | 229 | 
 

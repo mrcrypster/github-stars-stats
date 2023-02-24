@@ -1,10 +1,10 @@
 # emacs-ng/emacs-ng - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 61
 
-★ Stars: 1375
+★ Stars: 1376
 
 [Open repository](https://github.com/emacs-ng/emacs-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1376 | 61 | 
 | 2023-02-22 | 1375 | 61 | 
 | 2023-02-21 | 1375 | 61 | 
 | 2023-02-20 | 1375 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1352 | 59 | 
 | 2023-01-26 | 1352 | 59 | 
 | 2023-01-25 | 1354 | 59 | 
-| 2023-01-24 | 1354 | 59 | 
 

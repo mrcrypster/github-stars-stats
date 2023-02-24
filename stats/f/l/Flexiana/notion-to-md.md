@@ -1,6 +1,6 @@
 # Flexiana/notion-to-md - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 28 | - | 
 | 2023-02-22 | 28 | - | 
 | 2023-02-21 | 28 | - | 
 | 2023-02-20 | 28 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 28 | - | 
 | 2023-01-27 | 28 | - | 
 | 2023-01-26 | 28 | - | 
-| 2023-01-24 | 28 | - | 
 

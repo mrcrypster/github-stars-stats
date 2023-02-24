@@ -1,10 +1,10 @@
 # Supernova-Studio/exporter-documentation - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 32
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/Supernova-Studio/exporter-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6 | 32 | 
 | 2023-02-22 | 5 | 32 | 
 | 2023-02-21 | 5 | 32 | 
 | 2023-02-20 | 5 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 5 | 31 | 
 | 2023-01-26 | 5 | 31 | 
 | 2023-01-25 | 5 | 31 | 
-| 2023-01-24 | 5 | 31 | 
 

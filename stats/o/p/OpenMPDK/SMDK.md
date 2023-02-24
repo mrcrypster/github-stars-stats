@@ -1,6 +1,6 @@
 # OpenMPDK/SMDK - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 149 | 34 | 
 | 2023-02-22 | 149 | 34 | 
 | 2023-02-21 | 145 | 34 | 
 | 2023-02-20 | 144 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 134 | 34 | 
 | 2023-01-26 | 134 | 34 | 
 | 2023-01-25 | 134 | 34 | 
-| 2023-01-24 | 134 | 34 | 
 

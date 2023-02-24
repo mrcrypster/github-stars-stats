@@ -1,6 +1,6 @@
 # JessYanCoding/AndroidAutoSize - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1894
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 12861 | 1894 | 
 | 2023-02-22 | 12861 | 1894 | 
 | 2023-02-21 | 12861 | 1894 | 
 | 2023-02-19 | 12857 | 1895 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 12818 | 1888 | 
 | 2023-01-26 | 12818 | 1888 | 
 | 2023-01-25 | 12818 | 1888 | 
-| 2023-01-24 | 12817 | 1888 | 
 

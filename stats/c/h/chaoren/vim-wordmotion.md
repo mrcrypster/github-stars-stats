@@ -1,10 +1,10 @@
 # chaoren/vim-wordmotion - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 14
 
-★ Stars: 686
+★ Stars: 688
 
 [Open repository](https://github.com/chaoren/vim-wordmotion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 688 | 14 | 
 | 2023-02-22 | 686 | 14 | 
 | 2023-02-21 | 686 | 14 | 
 | 2023-02-19 | 686 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 674 | 13 | 
 | 2023-01-26 | 673 | 13 | 
 | 2023-01-25 | 673 | 13 | 
-| 2023-01-24 | 672 | 13 | 
 

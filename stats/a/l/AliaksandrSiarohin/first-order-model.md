@@ -1,10 +1,10 @@
 # AliaksandrSiarohin/first-order-model - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2961
 
-★ Stars: 13079
+★ Stars: 13083
 
 [Open repository](https://github.com/AliaksandrSiarohin/first-order-model)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 13083 | 2961 | 
 | 2023-02-22 | 13079 | 2961 | 
 | 2023-02-21 | 13077 | 2959 | 
 | 2023-02-20 | 13071 | 2956 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 12985 | 2943 | 
 | 2023-01-26 | 12983 | 2945 | 
 | 2023-01-25 | 12982 | 2945 | 
-| 2023-01-24 | 12982 | 2945 | 
 

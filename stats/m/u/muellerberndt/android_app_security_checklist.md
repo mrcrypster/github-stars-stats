@@ -1,10 +1,10 @@
 # muellerberndt/android_app_security_checklist - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 197
 
-★ Stars: 785
+★ Stars: 786
 
 [Open repository](https://github.com/muellerberndt/android_app_security_checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 786 | 197 | 
 | 2023-02-22 | 785 | 197 | 
 | 2023-02-21 | 785 | 197 | 
 | 2023-02-20 | 783 | 197 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 780 | 197 | 
 | 2023-01-27 | 780 | 197 | 
 | 2023-01-26 | 780 | 197 | 
-| 2023-01-24 | 780 | 197 | 
 

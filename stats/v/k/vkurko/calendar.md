@@ -1,10 +1,10 @@
 # vkurko/calendar - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 11
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/vkurko/calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 258 | 11 | 
 | 2023-02-22 | 257 | 11 | 
 | 2023-02-21 | 255 | 11 | 
 | 2023-02-20 | 252 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 224 | 10 | 
 | 2023-01-26 | 223 | 10 | 
 | 2023-01-25 | 223 | 10 | 
-| 2023-01-24 | 222 | 10 | 
 

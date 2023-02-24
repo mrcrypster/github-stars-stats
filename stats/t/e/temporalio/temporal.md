@@ -1,10 +1,10 @@
 # temporalio/temporal - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 520
 
-★ Stars: 6483
+★ Stars: 6492
 
 [Open repository](https://github.com/temporalio/temporal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6492 | 520 | 
 | 2023-02-22 | 6483 | 520 | 
 | 2023-02-21 | 6473 | 518 | 
 | 2023-02-20 | 6464 | 518 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 6189 | 505 | 
 | 2023-01-26 | 6175 | 503 | 
 | 2023-01-25 | 6166 | 502 | 
-| 2023-01-24 | 6162 | 502 | 
 

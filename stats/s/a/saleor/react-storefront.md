@@ -1,10 +1,10 @@
 # saleor/react-storefront - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 329
 
-★ Stars: 579
+★ Stars: 580
 
 [Open repository](https://github.com/saleor/react-storefront)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 580 | 329 | 
 | 2023-02-22 | 579 | 329 | 
 | 2023-02-21 | 577 | 329 | 
 | 2023-02-20 | 575 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 561 | 325 | 
 | 2023-01-26 | 558 | 325 | 
 | 2023-01-25 | 558 | 324 | 
-| 2023-01-24 | 557 | 324 | 
 

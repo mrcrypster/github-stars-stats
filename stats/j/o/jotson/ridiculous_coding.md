@@ -1,6 +1,6 @@
 # jotson/ridiculous_coding - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 608 | 18 | 
 | 2023-02-22 | 608 | 18 | 
 | 2023-02-21 | 608 | 18 | 
 | 2023-02-20 | 608 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 599 | 18 | 
 | 2023-01-27 | 599 | 18 | 
 | 2023-01-26 | 599 | 18 | 
-| 2023-01-25 | 599 | 18 | 
 

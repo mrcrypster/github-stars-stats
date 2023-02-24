@@ -1,10 +1,10 @@
 # libsql/libsql - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 53
 
-★ Stars: 2231
+★ Stars: 2234
 
 [Open repository](https://github.com/libsql/libsql)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2234 | 53 | 
 | 2023-02-22 | 2231 | 53 | 
 | 2023-02-21 | 2230 | 53 | 
 | 2023-02-19 | 2227 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2039 | 52 | 
 | 2023-01-26 | 2004 | 50 | 
 | 2023-01-25 | 1933 | 50 | 
-| 2023-01-24 | 1932 | 50 | 
 

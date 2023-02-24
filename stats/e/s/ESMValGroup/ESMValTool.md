@@ -1,6 +1,6 @@
 # ESMValGroup/ESMValTool - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 171 | 103 | 
 | 2023-02-22 | 171 | 103 | 
 | 2023-02-21 | 171 | 103 | 
 | 2023-02-20 | 171 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 171 | 103 | 
 | 2023-01-26 | 171 | 103 | 
 | 2023-01-25 | 170 | 102 | 
-| 2023-01-24 | 170 | 102 | 
 

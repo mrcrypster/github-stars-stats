@@ -1,6 +1,6 @@
 # technomancy/leiningen - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1642
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 7297 | 1642 | 
 | 2023-02-22 | 7297 | 1642 | 
 | 2023-02-21 | 7297 | 1642 | 
 | 2023-02-20 | 7297 | 1642 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 7290 | 1641 | 
 | 2023-01-26 | 7289 | 1641 | 
 | 2023-01-25 | 7289 | 1640 | 
-| 2023-01-24 | 7289 | 1640 | 
 

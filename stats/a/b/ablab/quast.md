@@ -1,10 +1,10 @@
 # ablab/quast - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 68
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/ablab/quast)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 289 | 68 | 
 | 2023-02-22 | 288 | 68 | 
 | 2023-02-21 | 288 | 67 | 
 | 2023-02-20 | 288 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 283 | 66 | 
 | 2023-01-26 | 282 | 66 | 
 | 2023-01-25 | 282 | 66 | 
-| 2023-01-24 | 282 | 66 | 
 

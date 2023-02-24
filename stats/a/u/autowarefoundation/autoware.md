@@ -1,10 +1,10 @@
 # autowarefoundation/autoware - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 2387
+☋ Forks: 2388
 
-★ Stars: 6655
+★ Stars: 6657
 
 [Open repository](https://github.com/autowarefoundation/autoware)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6657 | 2388 | 
 | 2023-02-22 | 6655 | 2387 | 
 | 2023-02-21 | 6655 | 2386 | 
 | 2023-02-20 | 6653 | 2384 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 6587 | 2350 | 
 | 2023-01-27 | 6585 | 2349 | 
 | 2023-01-26 | 6585 | 2348 | 
-| 2023-01-24 | 6585 | 2348 | 
 

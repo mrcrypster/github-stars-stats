@@ -1,8 +1,8 @@
 # tylernguyen/x1c6-hackintosh - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 103
+☋ Forks: 104
 
 ★ Stars: 547
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 547 | 104 | 
 | 2023-02-22 | 547 | 103 | 
 | 2023-02-21 | 546 | 103 | 
 | 2023-02-20 | 545 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 541 | 104 | 
 | 2023-01-27 | 539 | 104 | 
 | 2023-01-25 | 539 | 104 | 
-| 2023-01-24 | 539 | 104 | 
 

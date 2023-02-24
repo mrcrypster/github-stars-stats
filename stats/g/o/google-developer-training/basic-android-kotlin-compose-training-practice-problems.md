@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 23
 
 ☋ Forks: 64
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-23 | 37 | 64 | 
+| 2023-02-23 | 38 | 64 | 
 | 2023-02-22 | 37 | 64 | 
 | 2023-02-21 | 37 | 62 | 
 | 2023-02-20 | 37 | 60 | 

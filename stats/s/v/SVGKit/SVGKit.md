@@ -1,6 +1,6 @@
 # SVGKit/SVGKit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 1016
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 4268 | 1016 | 
 | 2023-02-22 | 4268 | 1016 | 
 | 2023-02-21 | 4269 | 1016 | 
 | 2023-02-20 | 4268 | 1016 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 4258 | 1013 | 
 | 2023-01-27 | 4258 | 1013 | 
 | 2023-01-26 | 4258 | 1013 | 
-| 2023-01-25 | 4258 | 1013 | 
 

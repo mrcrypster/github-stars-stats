@@ -1,10 +1,10 @@
 # SkyrimLL/SDPlus - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 18
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/SkyrimLL/SDPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 25 | 18 | 
 | 2023-02-22 | 24 | 18 | 
 | 2023-02-21 | 24 | 18 | 
 | 2023-02-19 | 24 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 24 | 18 | 
 | 2023-01-26 | 24 | 18 | 
 | 2023-01-25 | 24 | 18 | 
-| 2023-01-24 | 24 | 18 | 
 

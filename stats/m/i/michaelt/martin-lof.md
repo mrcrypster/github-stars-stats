@@ -1,6 +1,6 @@
 # michaelt/martin-lof - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 665 | 59 | 
 | 2023-02-22 | 665 | 59 | 
 | 2023-02-21 | 665 | 59 | 
 | 2023-02-20 | 665 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 657 | 59 | 
 | 2023-01-27 | 656 | 58 | 
 | 2023-01-26 | 656 | 58 | 
-| 2023-01-25 | 657 | 58 | 
 

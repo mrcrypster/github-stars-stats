@@ -1,10 +1,10 @@
 # oslabs-beta/dbhive - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/oslabs-beta/dbhive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 39 | 3 | 
 | 2023-02-22 | 38 | 3 | 
 | 2023-02-21 | 38 | 3 | 
 | 2023-02-20 | 38 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 34 | 2 | 
 | 2023-01-26 | 34 | 2 | 
 | 2023-01-25 | 34 | 2 | 
-| 2023-01-24 | 34 | 2 | 
 

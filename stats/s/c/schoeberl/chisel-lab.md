@@ -1,10 +1,10 @@
 # schoeberl/chisel-lab - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 52
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/schoeberl/chisel-lab)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 94 | 52 | 
 | 2023-02-22 | 93 | 52 | 
 | 2023-02-20 | 93 | 52 | 
 | 2023-02-19 | 93 | 52 | 

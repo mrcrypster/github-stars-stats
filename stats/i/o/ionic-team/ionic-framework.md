@@ -1,8 +1,8 @@
 # ionic-team/ionic-framework - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 13631
+☋ Forks: 13630
 
 ★ Stars: 48646
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 48646 | 13630 | 
 | 2023-02-22 | 48646 | 13631 | 
 | 2023-02-21 | 48642 | 13630 | 
 | 2023-02-20 | 48640 | 13629 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 48537 | 13622 | 
 | 2023-01-26 | 48540 | 13623 | 
 | 2023-01-25 | 48536 | 13623 | 
-| 2023-01-24 | 48533 | 13621 | 
 

@@ -1,6 +1,6 @@
 # hossainchisty/Freshdesk-ERP-Platform - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 84 | 35 | 
 | 2023-02-22 | 84 | 35 | 
 | 2023-02-21 | 83 | 34 | 
 | 2023-02-20 | 82 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 73 | 29 | 
 | 2023-01-26 | 73 | 29 | 
 | 2023-01-25 | 72 | 29 | 
-| 2023-01-24 | 72 | 28 | 
 

@@ -1,10 +1,10 @@
 # generation-org/DB-MYSQL - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 15
+☋ Forks: 19
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/generation-org/DB-MYSQL)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 7 | 19 | 
 | 2023-02-22 | 6 | 15 | 
 | 2023-02-21 | 6 | 15 | 
 | 2023-02-20 | 6 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 4 | 15 | 
 | 2023-01-26 | 4 | 15 | 
 | 2023-01-25 | 4 | 15 | 
-| 2023-01-24 | 4 | 15 | 
 

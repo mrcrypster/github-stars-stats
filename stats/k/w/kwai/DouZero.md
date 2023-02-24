@@ -1,8 +1,8 @@
 # kwai/DouZero - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 446
+☋ Forks: 447
 
 ★ Stars: 3159
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3159 | 447 | 
 | 2023-02-22 | 3159 | 446 | 
 | 2023-02-20 | 3160 | 446 | 
 | 2023-02-19 | 3160 | 446 | 

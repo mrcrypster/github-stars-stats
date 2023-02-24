@@ -1,6 +1,6 @@
 # chaossocial/about - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 104 | 11 | 
 | 2023-02-22 | 104 | 11 | 
 | 2023-02-21 | 104 | 11 | 
 | 2023-02-20 | 104 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 104 | 11 | 
 | 2023-01-26 | 104 | 11 | 
 | 2023-01-25 | 104 | 11 | 
-| 2023-01-24 | 104 | 11 | 
 

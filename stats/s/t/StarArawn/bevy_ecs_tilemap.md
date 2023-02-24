@@ -1,8 +1,8 @@
 # StarArawn/bevy_ecs_tilemap - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 128
+☋ Forks: 129
 
 ★ Stars: 460
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 460 | 129 | 
 | 2023-02-22 | 460 | 128 | 
 | 2023-02-21 | 459 | 128 | 
 | 2023-02-20 | 457 | 128 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 442 | 121 | 
 | 2023-01-26 | 443 | 121 | 
 | 2023-01-25 | 442 | 121 | 
-| 2023-01-24 | 438 | 121 | 
 

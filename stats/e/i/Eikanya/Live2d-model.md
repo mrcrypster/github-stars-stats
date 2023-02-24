@@ -1,10 +1,10 @@
 # Eikanya/Live2d-model - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 539
 
-★ Stars: 1175
+★ Stars: 1177
 
 [Open repository](https://github.com/Eikanya/Live2d-model)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1177 | 539 | 
 | 2023-02-22 | 1175 | 539 | 
 | 2023-02-21 | 1172 | 538 | 
 | 2023-02-20 | 1173 | 538 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1150 | 533 | 
 | 2023-01-26 | 1150 | 533 | 
 | 2023-01-25 | 1149 | 533 | 
-| 2023-01-24 | 1148 | 533 | 
 

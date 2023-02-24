@@ -1,10 +1,10 @@
 # Kindelia/HVM - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 184
 
-★ Stars: 5703
+★ Stars: 5705
 
 [Open repository](https://github.com/Kindelia/HVM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 5705 | 184 | 
 | 2023-02-22 | 5703 | 184 | 
 | 2023-02-21 | 5701 | 184 | 
 | 2023-02-19 | 5700 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 5647 | 182 | 
 | 2023-01-26 | 5641 | 180 | 
 | 2023-01-25 | 5639 | 179 | 
-| 2023-01-24 | 5638 | 179 | 
 

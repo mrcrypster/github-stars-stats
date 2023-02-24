@@ -1,10 +1,10 @@
 # mokshyaprotocol/candymachine - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 18
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/mokshyaprotocol/candymachine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 19 | 18 | 
 | 2023-02-22 | 18 | 18 | 
 | 2023-02-21 | 18 | 18 | 
 | 2023-02-20 | 18 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 17 | 16 | 
 | 2023-01-26 | 16 | 16 | 
 | 2023-01-25 | 16 | 16 | 
-| 2023-01-24 | 14 | 16 | 
 

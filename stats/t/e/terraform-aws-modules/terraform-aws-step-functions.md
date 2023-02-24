@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-step-functions - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 67
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-step-functions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 46 | 67 | 
 | 2023-02-22 | 45 | 67 | 
 | 2023-02-21 | 45 | 67 | 
 | 2023-02-20 | 45 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 39 | 66 | 
 | 2023-01-27 | 39 | 66 | 
 | 2023-01-25 | 39 | 66 | 
-| 2023-01-24 | 39 | 66 | 
 

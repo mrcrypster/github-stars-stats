@@ -1,10 +1,10 @@
 # PeterL1n/RobustVideoMatting - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 882
+☋ Forks: 884
 
-★ Stars: 6679
+★ Stars: 6687
 
 [Open repository](https://github.com/PeterL1n/RobustVideoMatting)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6687 | 884 | 
 | 2023-02-22 | 6679 | 882 | 
 | 2023-02-21 | 6670 | 882 | 
 | 2023-02-20 | 6665 | 881 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 6581 | 871 | 
 | 2023-01-26 | 6578 | 870 | 
 | 2023-01-25 | 6577 | 870 | 
-| 2023-01-24 | 6571 | 869 | 
 

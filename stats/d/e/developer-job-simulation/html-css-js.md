@@ -1,8 +1,8 @@
 # developer-job-simulation/html-css-js - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 90
+☋ Forks: 91
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 91 | 91 | 
 | 2023-02-22 | 91 | 90 | 
 | 2023-02-21 | 91 | 90 | 
 | 2023-02-20 | 91 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 90 | 90 | 
 | 2023-01-26 | 90 | 90 | 
 | 2023-01-25 | 89 | 90 | 
-| 2023-01-24 | 89 | 90 | 
 

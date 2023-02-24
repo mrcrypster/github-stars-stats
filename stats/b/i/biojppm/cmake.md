@@ -1,6 +1,6 @@
 # biojppm/cmake - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 4 | 7 | 
 | 2023-02-22 | 4 | 7 | 
 | 2023-02-21 | 4 | 7 | 
 | 2023-02-19 | 4 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 4 | 7 | 
 | 2023-01-26 | 4 | 7 | 
 | 2023-01-25 | 4 | 7 | 
-| 2023-01-24 | 4 | 7 | 
 

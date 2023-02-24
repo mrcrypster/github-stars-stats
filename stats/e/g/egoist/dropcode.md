@@ -1,10 +1,10 @@
 # egoist/dropcode - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 21
 
-★ Stars: 637
+★ Stars: 638
 
 [Open repository](https://github.com/egoist/dropcode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 638 | 21 | 
 | 2023-02-22 | 637 | 21 | 
 | 2023-02-21 | 637 | 21 | 
 | 2023-02-19 | 633 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 602 | 22 | 
 | 2023-01-26 | 601 | 22 | 
 | 2023-01-25 | 600 | 22 | 
-| 2023-01-24 | 600 | 22 | 
 

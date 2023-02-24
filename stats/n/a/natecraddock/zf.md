@@ -1,6 +1,6 @@
 # natecraddock/zf - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 177 | 4 | 
 | 2023-02-22 | 177 | 4 | 
 | 2023-02-21 | 177 | 4 | 
 | 2023-02-20 | 177 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 165 | 4 | 
 | 2023-01-26 | 165 | 4 | 
 | 2023-01-25 | 165 | 4 | 
-| 2023-01-24 | 164 | 4 | 
 

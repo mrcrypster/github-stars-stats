@@ -1,10 +1,10 @@
 # scriptscat/scriptcat - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 66
 
-★ Stars: 643
+★ Stars: 644
 
 [Open repository](https://github.com/scriptscat/scriptcat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 644 | 66 | 
 | 2023-02-22 | 643 | 66 | 
 | 2023-02-21 | 642 | 66 | 
 | 2023-02-20 | 641 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 618 | 64 | 
 | 2023-01-27 | 616 | 64 | 
 | 2023-01-26 | 615 | 64 | 
-| 2023-01-25 | 614 | 64 | 
 

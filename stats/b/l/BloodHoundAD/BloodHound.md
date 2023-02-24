@@ -1,10 +1,10 @@
 # BloodHoundAD/BloodHound - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 1507
+☋ Forks: 1506
 
-★ Stars: 7924
+★ Stars: 7928
 
 [Open repository](https://github.com/BloodHoundAD/BloodHound)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 7928 | 1506 | 
 | 2023-02-22 | 7924 | 1507 | 
 | 2023-02-21 | 7917 | 1505 | 
 | 2023-02-20 | 7910 | 1504 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 7811 | 1500 | 
 | 2023-01-26 | 7811 | 1500 | 
 | 2023-01-25 | 7802 | 1498 | 
-| 2023-01-24 | 7798 | 1497 | 
 

@@ -1,6 +1,6 @@
 # IBM/dbb-zappbuild - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 30 | 96 | 
 | 2023-02-22 | 30 | 96 | 
 | 2023-02-21 | 30 | 96 | 
 | 2023-02-20 | 30 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 30 | 95 | 
 | 2023-01-26 | 30 | 95 | 
 | 2023-01-25 | 30 | 95 | 
-| 2023-01-24 | 30 | 95 | 
 

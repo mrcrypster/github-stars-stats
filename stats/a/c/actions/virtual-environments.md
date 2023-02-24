@@ -1,10 +1,10 @@
 # actions/virtual-environments - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 2714
+☋ Forks: 2719
 
-★ Stars: 7396
+★ Stars: 7401
 
 [Open repository](https://github.com/actions/virtual-environments)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 7401 | 2719 | 
 | 2023-02-22 | 7396 | 2714 | 
 | 2023-02-21 | 7393 | 2715 | 
 | 2023-02-20 | 7380 | 2714 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 7259 | 2660 | 
 | 2023-01-26 | 7252 | 2659 | 
 | 2023-01-25 | 7251 | 2657 | 
-| 2023-01-24 | 7248 | 2654 | 
 

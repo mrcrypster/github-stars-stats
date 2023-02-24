@@ -1,6 +1,6 @@
 # 1C-Company/testcon-dataprocessors-and-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 21 | 5 | 
 | 2023-02-22 | 21 | 5 | 
 | 2023-02-21 | 21 | 5 | 
 | 2023-02-20 | 21 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 20 | 5 | 
 | 2023-01-26 | 20 | 5 | 
 | 2023-01-25 | 20 | 5 | 
-| 2023-01-24 | 20 | 5 | 
 

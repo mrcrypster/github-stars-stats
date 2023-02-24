@@ -1,6 +1,6 @@
 # facebookresearch/miniF2F - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 20 | 4 | 
 | 2023-02-22 | 20 | 4 | 
 | 2023-02-21 | 20 | 4 | 
 | 2023-02-20 | 20 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 19 | 4 | 
 | 2023-01-26 | 19 | 4 | 
 | 2023-01-25 | 19 | 4 | 
-| 2023-01-24 | 19 | 4 | 
 

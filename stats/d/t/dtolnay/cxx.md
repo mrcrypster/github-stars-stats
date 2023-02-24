@@ -1,10 +1,10 @@
 # dtolnay/cxx - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 258
 
-★ Stars: 4547
+★ Stars: 4549
 
 [Open repository](https://github.com/dtolnay/cxx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 4549 | 258 | 
 | 2023-02-22 | 4547 | 258 | 
 | 2023-02-21 | 4541 | 257 | 
 | 2023-02-20 | 4539 | 257 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 4470 | 253 | 
 | 2023-01-26 | 4463 | 252 | 
 | 2023-01-25 | 4461 | 251 | 
-| 2023-01-24 | 4459 | 251 | 
 

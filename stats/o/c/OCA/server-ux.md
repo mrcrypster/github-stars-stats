@@ -1,8 +1,8 @@
 # OCA/server-ux - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 392
+☋ Forks: 393
 
 ★ Stars: 112
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 112 | 393 | 
 | 2023-02-22 | 112 | 392 | 
 | 2023-02-21 | 112 | 391 | 
 | 2023-02-20 | 111 | 392 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 110 | 386 | 
 | 2023-01-26 | 109 | 386 | 
 | 2023-01-25 | 109 | 386 | 
-| 2023-01-24 | 109 | 386 | 
 

@@ -1,6 +1,6 @@
 # grosser/parallel - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 3984 | 260 | 
 | 2023-02-22 | 3984 | 260 | 
 | 2023-02-21 | 3983 | 260 | 
 | 2023-02-20 | 3982 | 260 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 3976 | 258 | 
 | 2023-01-26 | 3975 | 258 | 
 | 2023-01-25 | 3975 | 258 | 
-| 2023-01-24 | 3975 | 258 | 
 

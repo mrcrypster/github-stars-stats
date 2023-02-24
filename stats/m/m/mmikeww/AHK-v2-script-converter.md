@@ -1,6 +1,6 @@
 # mmikeww/AHK-v2-script-converter - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 130 | 17 | 
 | 2023-02-22 | 130 | 17 | 
 | 2023-02-21 | 130 | 17 | 
 | 2023-02-20 | 129 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 111 | 17 | 
 | 2023-01-27 | 110 | 17 | 
 | 2023-01-26 | 109 | 17 | 
-| 2023-01-25 | 108 | 17 | 
 

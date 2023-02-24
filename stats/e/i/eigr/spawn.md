@@ -1,10 +1,10 @@
 # eigr/spawn - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 7
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/eigr/spawn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 96 | 7 | 
 | 2023-02-22 | 95 | 7 | 
 | 2023-02-21 | 95 | 7 | 
 | 2023-02-20 | 95 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 89 | 7 | 
 | 2023-01-26 | 89 | 7 | 
 | 2023-01-25 | 89 | 7 | 
-| 2023-01-24 | 88 | 7 | 
 

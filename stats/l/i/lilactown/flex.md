@@ -1,10 +1,10 @@
 # lilactown/flex - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/lilactown/flex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 24 | - | 
 | 2023-02-22 | 22 | - | 
 | 2023-02-20 | 22 | - | 
 | 2023-02-19 | 22 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 20 | - | 
 | 2023-01-26 | 20 | - | 
 | 2023-01-25 | 20 | - | 
-| 2023-01-24 | 20 | - | 
 

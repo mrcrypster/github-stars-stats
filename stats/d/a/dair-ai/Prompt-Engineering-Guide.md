@@ -1,10 +1,10 @@
 # dair-ai/Prompt-Engineering-Guide - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 322
+☋ Forks: 387
 
-★ Stars: 5843
+★ Stars: 6817
 
 [Open repository](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 6817 | 387 | 
 | 2023-02-22 | 5843 | 322 | 
 | 2023-02-21 | 3873 | 237 | 
 | 2023-02-20 | 3344 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1668 | 79 | 
 | 2023-01-26 | 1649 | 78 | 
 | 2023-01-25 | 1574 | 74 | 
-| 2023-01-24 | 1486 | 70 | 
 

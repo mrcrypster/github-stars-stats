@@ -1,6 +1,6 @@
 # openid/AppAuth-iOS - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 681
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1483 | 681 | 
 | 2023-02-22 | 1483 | 681 | 
 | 2023-02-21 | 1484 | 681 | 
 | 2023-02-20 | 1480 | 683 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1470 | 678 | 
 | 2023-01-26 | 1470 | 678 | 
 | 2023-01-25 | 1470 | 678 | 
-| 2023-01-24 | 1468 | 677 | 
 

@@ -1,10 +1,10 @@
 # jamf/aftermath - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 26
 
-★ Stars: 278
+★ Stars: 280
 
 [Open repository](https://github.com/jamf/aftermath)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 280 | 26 | 
 | 2023-02-22 | 278 | 26 | 
 | 2023-02-21 | 277 | 26 | 
 | 2023-02-19 | 277 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 271 | 26 | 
 | 2023-01-26 | 271 | 26 | 
 | 2023-01-25 | 268 | 26 | 
-| 2023-01-24 | 267 | 26 | 
 

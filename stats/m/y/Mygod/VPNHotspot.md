@@ -1,10 +1,10 @@
 # Mygod/VPNHotspot - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 313
 
-★ Stars: 2321
+★ Stars: 2322
 
 [Open repository](https://github.com/Mygod/VPNHotspot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2322 | 313 | 
 | 2023-02-22 | 2321 | 313 | 
 | 2023-02-21 | 2317 | 313 | 
 | 2023-02-20 | 2317 | 310 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2257 | 300 | 
 | 2023-01-26 | 2256 | 300 | 
 | 2023-01-25 | 2255 | 300 | 
-| 2023-01-24 | 2255 | 300 | 
 

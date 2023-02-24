@@ -1,10 +1,10 @@
 # DiUS/java-faker - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 758
 
-★ Stars: 3987
+★ Stars: 3989
 
 [Open repository](https://github.com/DiUS/java-faker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3989 | 758 | 
 | 2023-02-22 | 3987 | 758 | 
 | 2023-02-21 | 3986 | 758 | 
 | 2023-02-20 | 3984 | 758 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 3934 | 752 | 
 | 2023-01-27 | 3934 | 751 | 
 | 2023-01-26 | 3934 | 751 | 
-| 2023-01-25 | 3932 | 750 | 
 

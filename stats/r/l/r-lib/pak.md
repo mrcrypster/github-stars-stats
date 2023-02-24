@@ -1,6 +1,6 @@
 # r-lib/pak - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 482 | 36 | 
 | 2023-02-22 | 482 | 36 | 
 | 2023-02-21 | 482 | 36 | 
 | 2023-02-19 | 482 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 478 | 36 | 
 | 2023-01-26 | 477 | 36 | 
 | 2023-01-25 | 477 | 36 | 
-| 2023-01-24 | 477 | 36 | 
 

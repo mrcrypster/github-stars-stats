@@ -1,10 +1,10 @@
 # zulu-openjdk/zulu-openjdk - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 87
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/zulu-openjdk/zulu-openjdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 217 | 87 | 
 | 2023-02-22 | 216 | 87 | 
 | 2023-02-21 | 216 | 87 | 
 | 2023-02-20 | 216 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 216 | 85 | 
 | 2023-01-26 | 216 | 85 | 
 | 2023-01-25 | 216 | 85 | 
-| 2023-01-24 | 216 | 85 | 
 

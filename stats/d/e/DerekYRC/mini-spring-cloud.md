@@ -1,10 +1,10 @@
 # DerekYRC/mini-spring-cloud - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 864
+★ Stars: 868
 
 [Open repository](https://github.com/DerekYRC/mini-spring-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 868 | 190 | 
 | 2023-02-22 | 864 | 189 | 
 | 2023-02-21 | 861 | 188 | 
 | 2023-02-20 | 855 | 188 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 815 | 180 | 
 | 2023-01-26 | 815 | 180 | 
 | 2023-01-25 | 815 | 180 | 
-| 2023-01-24 | 812 | 180 | 
 

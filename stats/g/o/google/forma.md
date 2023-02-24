@@ -1,10 +1,10 @@
 # google/forma - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 43
 
-★ Stars: 2352
+★ Stars: 2357
 
 [Open repository](https://github.com/google/forma)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 2357 | 43 | 
 | 2023-02-22 | 2352 | 43 | 
 | 2023-02-21 | 2347 | 43 | 
 | 2023-02-20 | 2317 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 2275 | 42 | 
 | 2023-01-26 | 2270 | 42 | 
 | 2023-01-25 | 2262 | 42 | 
-| 2023-01-24 | 2261 | 42 | 
 

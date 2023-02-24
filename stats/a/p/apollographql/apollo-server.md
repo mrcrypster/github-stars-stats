@@ -1,6 +1,6 @@
 # apollographql/apollo-server - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 2020
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 13220 | 2020 | 
 | 2023-02-22 | 13220 | 2020 | 
 | 2023-02-21 | 13215 | 2019 | 
 | 2023-02-20 | 13211 | 2019 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 13153 | 2008 | 
 | 2023-01-26 | 13151 | 2008 | 
 | 2023-01-25 | 13149 | 2007 | 
-| 2023-01-24 | 13148 | 2005 | 
 

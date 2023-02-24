@@ -1,10 +1,10 @@
 # weak1337/Alcatraz - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
 ☋ Forks: 126
 
-★ Stars: 771
+★ Stars: 774
 
 [Open repository](https://github.com/weak1337/Alcatraz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 774 | 126 | 
 | 2023-02-22 | 771 | 126 | 
 | 2023-02-21 | 769 | 125 | 
 | 2023-02-20 | 755 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 635 | 104 | 
 | 2023-01-27 | 630 | 103 | 
 | 2023-01-26 | 627 | 102 | 
-| 2023-01-24 | 626 | 102 | 
 

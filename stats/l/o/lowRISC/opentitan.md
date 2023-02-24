@@ -1,10 +1,10 @@
 # lowRISC/opentitan - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 23
 
-☋ Forks: 527
+☋ Forks: 528
 
-★ Stars: 1730
+★ Stars: 1732
 
 [Open repository](https://github.com/lowRISC/opentitan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-23 | 1732 | 528 | 
 | 2023-02-22 | 1730 | 527 | 
 | 2023-02-21 | 1729 | 524 | 
 | 2023-02-20 | 1728 | 523 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-27 | 1712 | 516 | 
 | 2023-01-26 | 1711 | 516 | 
 | 2023-01-25 | 1709 | 516 | 
-| 2023-01-24 | 1708 | 515 | 
 

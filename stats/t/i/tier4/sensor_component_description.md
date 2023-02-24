@@ -1,6 +1,6 @@
 # tier4/sensor_component_description - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | 4 | 
 | 2023-02-22 | 1 | 4 | 
 | 2023-02-21 | 1 | 4 | 
 | 2023-02-20 | 1 | 4 | 
