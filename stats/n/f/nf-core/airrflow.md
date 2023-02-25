@@ -1,6 +1,6 @@
 # nf-core/airrflow - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 23 | 15 | 
 | 2023-02-23 | 23 | 15 | 
 | 2023-02-22 | 23 | 15 | 
 | 2023-02-21 | 23 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 23 | 15 | 
 | 2023-01-27 | 23 | 15 | 
 | 2023-01-26 | 23 | 15 | 
-| 2023-01-25 | 23 | 15 | 
 

@@ -1,6 +1,6 @@
 # manuel-serrano/hop - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 104 | 10 | 
 | 2023-02-23 | 104 | 10 | 
 | 2023-02-21 | 103 | 9 | 
 | 2023-02-20 | 103 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 101 | 9 | 
 | 2023-01-27 | 101 | 9 | 
 | 2023-01-26 | 101 | 9 | 
-| 2023-01-25 | 101 | 9 | 
 

@@ -1,8 +1,8 @@
 # tomitokko/django-social-media-website - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 135
+☋ Forks: 134
 
 ★ Stars: 148
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 148 | 134 | 
 | 2023-02-23 | 148 | 135 | 
 | 2023-02-22 | 146 | 134 | 
 | 2023-02-21 | 146 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 129 | 120 | 
 | 2023-01-27 | 129 | 120 | 
 | 2023-01-26 | 128 | 120 | 
-| 2023-01-25 | 127 | 119 | 
 

@@ -1,10 +1,10 @@
 # AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 594
 
-★ Stars: 1137
+★ Stars: 1138
 
 [Open repository](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1138 | 594 | 
 | 2023-02-23 | 1137 | 594 | 
 | 2023-02-22 | 1137 | 594 | 
 | 2023-02-21 | 1137 | 594 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1128 | 590 | 
 | 2023-01-28 | 1128 | 591 | 
 | 2023-01-27 | 1128 | 591 | 
-| 2023-01-25 | 1127 | 591 | 
 

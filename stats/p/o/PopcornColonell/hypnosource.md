@@ -1,8 +1,8 @@
 # PopcornColonell/hypnosource - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 22
+☋ Forks: 21
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 25 | 21 | 
 | 2023-02-24 | 25 | 22 | 
 | 2023-02-22 | 25 | 22 | 
 | 2023-02-21 | 25 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 22 | 23 | 
 | 2023-01-27 | 22 | 23 | 
 | 2023-01-26 | 22 | 23 | 
-| 2023-01-25 | 21 | 23 | 
 

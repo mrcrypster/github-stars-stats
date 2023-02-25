@@ -1,6 +1,6 @@
 # hiteshchoudhary/batchone - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 145 | 75 | 
 | 2023-02-23 | 145 | 75 | 
 | 2023-02-22 | 144 | 75 | 
 | 2023-02-21 | 144 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 139 | 73 | 
 | 2023-01-27 | 139 | 72 | 
 | 2023-01-26 | 140 | 71 | 
-| 2023-01-25 | 140 | 71 | 
 

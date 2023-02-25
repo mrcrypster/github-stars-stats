@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/CliMA/ClimaAtmos.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 34 | 4 | 
+| 2023-02-24 | 36 | 4 | 
 | 2023-02-23 | 34 | 4 | 
 | 2023-02-22 | 34 | 4 | 
 | 2023-02-21 | 34 | 4 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 32 | 4 | 
 | 2023-01-28 | 32 | 4 | 
 | 2023-01-27 | 32 | 4 | 
-| 2023-01-25 | 32 | 4 | 
 

@@ -1,10 +1,10 @@
 # pyinstaller/pyinstaller - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1861
 
-★ Stars: 10047
+★ Stars: 10050
 
 [Open repository](https://github.com/pyinstaller/pyinstaller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 10050 | 1861 | 
 | 2023-02-23 | 10047 | 1861 | 
 | 2023-02-22 | 10046 | 1861 | 
 | 2023-02-21 | 10042 | 1861 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9970 | 1856 | 
 | 2023-01-27 | 9969 | 1857 | 
 | 2023-01-26 | 9970 | 1857 | 
-| 2023-01-25 | 9967 | 1857 | 
 

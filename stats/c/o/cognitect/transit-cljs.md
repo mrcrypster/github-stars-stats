@@ -1,6 +1,6 @@
 # cognitect/transit-cljs - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 319 | 21 | 
 | 2023-02-23 | 319 | 21 | 
 | 2023-02-22 | 319 | 21 | 
 | 2023-02-21 | 319 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 319 | 21 | 
 | 2023-01-27 | 318 | 21 | 
 | 2023-01-26 | 318 | 21 | 
-| 2023-01-25 | 318 | 21 | 
 

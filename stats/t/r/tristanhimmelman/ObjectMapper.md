@@ -1,10 +1,10 @@
 # tristanhimmelman/ObjectMapper - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1022
 
-★ Stars: 9034
+★ Stars: 9036
 
 [Open repository](https://github.com/tristanhimmelman/ObjectMapper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 9036 | 1022 | 
 | 2023-02-23 | 9034 | 1022 | 
 | 2023-02-22 | 9034 | 1022 | 
 | 2023-02-21 | 9033 | 1022 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9030 | 1019 | 
 | 2023-01-27 | 9030 | 1019 | 
 | 2023-01-26 | 9030 | 1019 | 
-| 2023-01-25 | 9030 | 1019 | 
 

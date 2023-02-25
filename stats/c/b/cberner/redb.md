@@ -1,10 +1,10 @@
 # cberner/redb - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 57
 
-★ Stars: 1263
+★ Stars: 1264
 
 [Open repository](https://github.com/cberner/redb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1264 | 57 | 
 | 2023-02-23 | 1263 | 57 | 
 | 2023-02-22 | 1262 | 57 | 
 | 2023-02-21 | 1259 | 57 | 

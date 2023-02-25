@@ -1,6 +1,6 @@
 # muhdavi/laporan-practice-big-data - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3 | 21 | 
 | 2023-02-23 | 3 | 21 | 
 | 2023-02-22 | 3 | 21 | 
 | 2023-02-21 | 3 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 4 | 21 | 
 | 2023-01-27 | 4 | 21 | 
 | 2023-01-26 | 4 | 21 | 
-| 2023-01-25 | 4 | 21 | 
 

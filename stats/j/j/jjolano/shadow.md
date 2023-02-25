@@ -1,8 +1,8 @@
 # jjolano/shadow - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 87
+☋ Forks: 89
 
 ★ Stars: 428
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 428 | 89 | 
 | 2023-02-23 | 428 | 87 | 
 | 2023-02-22 | 427 | 87 | 
 | 2023-02-21 | 427 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 399 | 83 | 
 | 2023-01-27 | 399 | 83 | 
 | 2023-01-26 | 398 | 83 | 
-| 2023-01-25 | 397 | 83 | 
 

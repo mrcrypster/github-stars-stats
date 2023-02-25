@@ -1,6 +1,6 @@
 # sourcegraph/deploy-sourcegraph-helm - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 8 | 16 | 
 | 2023-02-23 | 8 | 16 | 
 | 2023-02-22 | 8 | 16 | 
 | 2023-02-21 | 8 | 16 | 

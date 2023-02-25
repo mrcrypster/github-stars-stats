@@ -1,10 +1,10 @@
 # immersive-web/webxr - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 381
 
-★ Stars: 2695
+★ Stars: 2694
 
 [Open repository](https://github.com/immersive-web/webxr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2694 | 381 | 
 | 2023-02-23 | 2695 | 381 | 
 | 2023-02-22 | 2695 | 381 | 
 | 2023-02-21 | 2695 | 381 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2677 | 378 | 
 | 2023-01-27 | 2676 | 378 | 
 | 2023-01-26 | 2676 | 378 | 
-| 2023-01-25 | 2676 | 378 | 
 

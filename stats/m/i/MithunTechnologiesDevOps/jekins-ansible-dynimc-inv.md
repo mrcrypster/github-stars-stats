@@ -1,8 +1,8 @@
 # MithunTechnologiesDevOps/jekins-ansible-dynimc-inv - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 198
+☋ Forks: 197
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | 197 | 
 | 2023-02-23 | 1 | 198 | 
 | 2023-02-22 | 1 | 198 | 
 | 2023-02-20 | 1 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1 | 173 | 
 | 2023-01-27 | 1 | 171 | 
 | 2023-01-26 | 1 | 170 | 
-| 2023-01-25 | - | 166 | 
 

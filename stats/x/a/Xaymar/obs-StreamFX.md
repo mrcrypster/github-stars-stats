@@ -1,10 +1,10 @@
 # Xaymar/obs-StreamFX - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 309
+☋ Forks: 308
 
-★ Stars: 3189
+★ Stars: 3195
 
 [Open repository](https://github.com/Xaymar/obs-StreamFX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3195 | 308 | 
 | 2023-02-23 | 3189 | 309 | 
 | 2023-02-22 | 3181 | 308 | 
 | 2023-02-21 | 3177 | 307 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3080 | 284 | 
 | 2023-01-27 | 3075 | 283 | 
 | 2023-01-26 | 3071 | 283 | 
-| 2023-01-25 | 3068 | 283 | 
 

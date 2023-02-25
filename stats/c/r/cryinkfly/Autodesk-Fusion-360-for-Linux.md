@@ -1,10 +1,10 @@
 # cryinkfly/Autodesk-Fusion-360-for-Linux - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 93
 
-★ Stars: 1106
+★ Stars: 1107
 
 [Open repository](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1107 | 93 | 
 | 2023-02-23 | 1106 | 93 | 
 | 2023-02-22 | 1104 | 93 | 
 | 2023-02-21 | 1104 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1065 | 93 | 
 | 2023-01-28 | 1065 | 93 | 
 | 2023-01-26 | 1064 | 93 | 
-| 2023-01-25 | 1063 | 93 | 
 

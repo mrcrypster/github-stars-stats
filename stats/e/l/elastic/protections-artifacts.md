@@ -1,10 +1,10 @@
 # elastic/protections-artifacts - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 61
 
-★ Stars: 577
+★ Stars: 579
 
 [Open repository](https://github.com/elastic/protections-artifacts)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 579 | 61 | 
+| 2023-02-24 | 579 | 61 | 
 | 2023-02-23 | 577 | 61 | 
 | 2023-02-22 | 575 | 61 | 
 | 2023-02-21 | 571 | 61 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 557 | 60 | 
 | 2023-01-27 | 555 | 60 | 
 | 2023-01-26 | 554 | 60 | 
-| 2023-01-25 | 553 | 60 | 
 

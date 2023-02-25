@@ -1,8 +1,8 @@
 # londonappbrewery/flash-chat-flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 651
+☋ Forks: 650
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 174 | 650 | 
 | 2023-02-23 | 174 | 651 | 
 | 2023-02-22 | 174 | 651 | 
 | 2023-02-21 | 174 | 651 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 173 | 648 | 
 | 2023-01-27 | 173 | 647 | 
 | 2023-01-26 | 173 | 647 | 
-| 2023-01-25 | 173 | 647 | 
 

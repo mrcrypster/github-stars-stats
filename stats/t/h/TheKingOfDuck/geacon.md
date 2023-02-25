@@ -1,6 +1,6 @@
 # TheKingOfDuck/geacon - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 56 | 6 | 
 | 2023-02-23 | 56 | 6 | 
 | 2023-02-22 | 56 | 6 | 
 | 2023-02-21 | 56 | 6 | 

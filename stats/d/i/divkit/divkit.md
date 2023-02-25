@@ -1,6 +1,6 @@
 # divkit/divkit - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1731 | 78 | 
 | 2023-02-23 | 1731 | 78 | 
 | 2023-02-22 | 1730 | 78 | 
 | 2023-02-21 | 1728 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1706 | 78 | 
 | 2023-01-27 | 1705 | 78 | 
 | 2023-01-26 | 1704 | 78 | 
-| 2023-01-25 | 1694 | 77 | 
 

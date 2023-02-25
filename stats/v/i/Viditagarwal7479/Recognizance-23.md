@@ -1,6 +1,6 @@
 # Viditagarwal7479/Recognizance-23 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 29 | 36 | 
 | 2023-02-23 | 29 | 36 | 
 | 2023-02-22 | 29 | 36 | 
 | 2023-02-20 | 29 | 36 | 

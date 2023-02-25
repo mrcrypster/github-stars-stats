@@ -1,10 +1,10 @@
 # rafaelsetragni/awesome_notifications - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 229
 
-★ Stars: 592
+★ Stars: 593
 
 [Open repository](https://github.com/rafaelsetragni/awesome_notifications)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 593 | 229 | 
 | 2023-02-23 | 592 | 229 | 
 | 2023-02-22 | 591 | 229 | 
 | 2023-02-21 | 591 | 228 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 573 | 225 | 
 | 2023-01-27 | 573 | 225 | 
 | 2023-01-26 | 573 | 224 | 
-| 2023-01-25 | 573 | 224 | 
 

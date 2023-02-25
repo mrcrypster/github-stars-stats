@@ -1,10 +1,10 @@
 # github/scientist - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 499
 
-★ Stars: 6900
+★ Stars: 6903
 
 [Open repository](https://github.com/github/scientist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 6903 | 499 | 
 | 2023-02-23 | 6900 | 499 | 
 | 2023-02-22 | 6899 | 499 | 
 | 2023-02-20 | 6897 | 499 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 6869 | 495 | 
 | 2023-01-27 | 6869 | 496 | 
 | 2023-01-26 | 6868 | 495 | 
-| 2023-01-25 | 6867 | 497 | 
 

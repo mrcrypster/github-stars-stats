@@ -1,10 +1,10 @@
 # berachain/berachain-local - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 31
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/berachain/berachain-local)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 41 | 31 | 
 | 2023-02-23 | 40 | 31 | 
 | 2023-02-22 | 40 | 31 | 
 | 2023-02-21 | 40 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 34 | 27 | 
 | 2023-01-27 | 34 | 27 | 
 | 2023-01-26 | 34 | 27 | 
-| 2023-01-25 | 34 | 27 | 
 

@@ -1,10 +1,10 @@
 # adamstddrd/grease - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/adamstddrd/grease)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 66 | 3 | 
 | 2023-02-23 | 65 | 3 | 
 | 2023-02-22 | 65 | 3 | 
 | 2023-02-20 | 65 | 3 | 

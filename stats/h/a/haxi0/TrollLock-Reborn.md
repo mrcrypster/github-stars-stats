@@ -1,6 +1,6 @@
 # haxi0/TrollLock-Reborn - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 123 | 6 | 
 | 2023-02-23 | 123 | 6 | 
 | 2023-02-22 | 123 | 6 | 
 | 2023-02-21 | 122 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 115 | 6 | 
 | 2023-01-27 | 114 | 6 | 
 | 2023-01-26 | 113 | 6 | 
-| 2023-01-25 | 112 | 6 | 
 

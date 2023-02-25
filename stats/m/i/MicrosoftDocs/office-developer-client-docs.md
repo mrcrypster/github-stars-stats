@@ -1,6 +1,6 @@
 # MicrosoftDocs/office-developer-client-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 50 | 108 | 
 | 2023-02-23 | 50 | 108 | 
 | 2023-02-22 | 50 | 108 | 
 | 2023-02-20 | 50 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 51 | 110 | 
 | 2023-01-27 | 51 | 110 | 
 | 2023-01-26 | 51 | 110 | 
-| 2023-01-25 | 51 | 110 | 
 

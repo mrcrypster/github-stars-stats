@@ -1,8 +1,8 @@
 # tomlion/vim-solidity - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 167
+☋ Forks: 172
 
 ★ Stars: 486
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 486 | 172 | 
 | 2023-02-23 | 486 | 167 | 
 | 2023-02-22 | 484 | 163 | 
 | 2023-02-21 | 484 | 159 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 483 | 101 | 
 | 2023-01-27 | 483 | 101 | 
 | 2023-01-26 | 483 | 101 | 
-| 2023-01-25 | 483 | 101 | 
 

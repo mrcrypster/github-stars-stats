@@ -1,6 +1,6 @@
 # preservim/vim-markdown - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 497
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4342 | 497 | 
 | 2023-02-23 | 4342 | 497 | 
 | 2023-02-22 | 4343 | 497 | 
 | 2023-02-21 | 4342 | 497 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 4322 | 497 | 
 | 2023-01-27 | 4322 | 497 | 
 | 2023-01-26 | 4322 | 497 | 
-| 2023-01-25 | 4322 | 497 | 
 

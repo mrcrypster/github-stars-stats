@@ -1,8 +1,8 @@
 # xodio/xod-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 112
+☋ Forks: 113
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 11 | 113 | 
 | 2023-02-23 | 11 | 112 | 
 | 2023-02-22 | 11 | 111 | 
 | 2023-02-21 | 11 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 11 | 111 | 
 | 2023-01-27 | 11 | 111 | 
 | 2023-01-26 | 11 | 111 | 
-| 2023-01-25 | 11 | 111 | 
 

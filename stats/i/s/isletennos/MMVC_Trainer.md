@@ -1,10 +1,10 @@
 # isletennos/MMVC_Trainer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 41
 
-★ Stars: 479
+★ Stars: 482
 
 [Open repository](https://github.com/isletennos/MMVC_Trainer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 482 | 41 | 
 | 2023-02-23 | 479 | 41 | 
 | 2023-02-22 | 479 | 41 | 
 | 2023-02-20 | 477 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 459 | 40 | 
 | 2023-01-28 | 457 | 40 | 
 | 2023-01-27 | 457 | 40 | 
-| 2023-01-26 | 457 | 40 | 
 

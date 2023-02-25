@@ -1,8 +1,8 @@
 # morethanwords/tweb - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 205
+☋ Forks: 204
 
 ★ Stars: 854
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 854 | 204 | 
 | 2023-02-23 | 854 | 205 | 
 | 2023-02-22 | 850 | 203 | 
 | 2023-02-21 | 849 | 203 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 823 | 204 | 
 | 2023-01-27 | 822 | 204 | 
 | 2023-01-26 | 822 | 204 | 
-| 2023-01-25 | 821 | 203 | 
 

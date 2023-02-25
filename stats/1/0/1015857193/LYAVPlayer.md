@@ -1,10 +1,10 @@
 # 1015857193/LYAVPlayer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 15
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/1015857193/LYAVPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 107 | 15 | 
 | 2023-02-23 | 106 | 15 | 
 | 2023-02-22 | 106 | 15 | 
 | 2023-02-21 | 106 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 106 | 15 | 
 | 2023-01-28 | 106 | 15 | 
 | 2023-01-26 | 106 | 15 | 
-| 2023-01-25 | 106 | 15 | 
 

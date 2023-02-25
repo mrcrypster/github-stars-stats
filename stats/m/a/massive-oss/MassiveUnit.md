@@ -1,6 +1,6 @@
 # massive-oss/MassiveUnit - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 176 | 54 | 
 | 2023-02-23 | 176 | 54 | 
 | 2023-02-22 | 176 | 54 | 
 | 2023-02-21 | 176 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 176 | 54 | 
 | 2023-01-27 | 176 | 54 | 
 | 2023-01-26 | 176 | 54 | 
-| 2023-01-25 | 176 | 54 | 
 

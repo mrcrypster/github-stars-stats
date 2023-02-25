@@ -1,10 +1,10 @@
 # riscv-non-isa/riscv-elf-psabi-doc - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 127
 
-★ Stars: 445
+★ Stars: 446
 
 [Open repository](https://github.com/riscv-non-isa/riscv-elf-psabi-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 446 | 127 | 
 | 2023-02-23 | 445 | 127 | 
 | 2023-02-22 | 443 | 127 | 
 | 2023-02-21 | 443 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 429 | 122 | 
 | 2023-01-27 | 429 | 123 | 
 | 2023-01-26 | 430 | 123 | 
-| 2023-01-25 | 430 | 123 | 
 

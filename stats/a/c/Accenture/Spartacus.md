@@ -1,6 +1,6 @@
 # Accenture/Spartacus - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 532 | 68 | 
 | 2023-02-23 | 532 | 68 | 
 | 2023-02-22 | 529 | 68 | 
 | 2023-02-21 | 528 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 514 | 66 | 
 | 2023-01-27 | 514 | 66 | 
 | 2023-01-26 | 513 | 66 | 
-| 2023-01-25 | 512 | 65 | 
 

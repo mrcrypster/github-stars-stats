@@ -1,6 +1,6 @@
 # Lxtharia/minegrub-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 666 | 8 | 
 | 2023-02-23 | 666 | 8 | 
 | 2023-02-22 | 666 | 8 | 
 | 2023-02-21 | 665 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 637 | 6 | 
 | 2023-01-27 | 636 | 5 | 
 | 2023-01-26 | 635 | 5 | 
-| 2023-01-25 | 635 | 5 | 
 

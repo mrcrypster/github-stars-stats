@@ -1,8 +1,8 @@
 # TimOliver/TOCropViewController - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 871
+☋ Forks: 872
 
 ★ Stars: 4462
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4462 | 872 | 
 | 2023-02-23 | 4462 | 871 | 
 | 2023-02-22 | 4459 | 871 | 
 | 2023-02-21 | 4459 | 871 | 

@@ -1,10 +1,10 @@
 # stochasticai/x-stable-diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 22
 
-★ Stars: 303
+★ Stars: 304
 
 [Open repository](https://github.com/stochasticai/x-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 304 | 22 | 
 | 2023-02-23 | 303 | 22 | 
 | 2023-02-22 | 300 | 22 | 
 | 2023-02-21 | 300 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 273 | 21 | 
 | 2023-01-27 | 273 | 21 | 
 | 2023-01-26 | 272 | 19 | 
-| 2023-01-25 | 272 | 19 | 
 

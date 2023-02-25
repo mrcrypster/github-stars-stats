@@ -1,10 +1,10 @@
 # BUAA-BDA/OpenHuFu - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/BUAA-BDA/OpenHuFu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 152 | 65 | 
 | 2023-02-23 | 151 | 64 | 
 | 2023-02-22 | 151 | 63 | 
 | 2023-02-21 | 138 | 54 | 

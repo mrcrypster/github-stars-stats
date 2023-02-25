@@ -1,10 +1,10 @@
 # wikimedia/mediawiki - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1270
 
-★ Stars: 3317
+★ Stars: 3319
 
 [Open repository](https://github.com/wikimedia/mediawiki)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3319 | 1270 | 
 | 2023-02-23 | 3317 | 1270 | 
 | 2023-02-22 | 3317 | 1269 | 
 | 2023-02-21 | 3316 | 1270 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3284 | 1260 | 
 | 2023-01-27 | 3285 | 1259 | 
 | 2023-01-26 | 3284 | 1258 | 
-| 2023-01-25 | 3285 | 1259 | 
 

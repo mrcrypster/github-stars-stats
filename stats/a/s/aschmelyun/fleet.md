@@ -1,10 +1,10 @@
 # aschmelyun/fleet - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/aschmelyun/fleet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 194 | 4 | 
 | 2023-02-23 | 193 | 4 | 
 | 2023-02-22 | 192 | 4 | 
 | 2023-02-21 | 191 | 3 | 

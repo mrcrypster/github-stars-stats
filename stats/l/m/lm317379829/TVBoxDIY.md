@@ -1,10 +1,10 @@
 # lm317379829/TVBoxDIY - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 192
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/lm317379829/TVBoxDIY)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 80 | 192 | 
 | 2023-02-23 | 79 | 192 | 
 | 2023-02-22 | 79 | 191 | 
 | 2023-02-21 | 79 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 76 | 183 | 
 | 2023-01-27 | 75 | 183 | 
 | 2023-01-26 | 75 | 183 | 
-| 2023-01-25 | 75 | 183 | 
 

@@ -1,6 +1,6 @@
 # digital-asset/ex-mortgage-repackaging - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 9 | 3 | 
 | 2023-02-23 | 9 | 3 | 
 | 2023-02-22 | 9 | 3 | 
 | 2023-02-21 | 9 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9 | 3 | 
 | 2023-01-27 | 9 | 3 | 
 | 2023-01-26 | 9 | 3 | 
-| 2023-01-25 | 9 | 3 | 
 

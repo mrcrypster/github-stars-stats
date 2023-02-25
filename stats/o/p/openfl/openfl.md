@@ -1,10 +1,10 @@
 # openfl/openfl - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 404
 
-★ Stars: 1742
+★ Stars: 1741
 
 [Open repository](https://github.com/openfl/openfl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1741 | 404 | 
 | 2023-02-23 | 1742 | 404 | 
 | 2023-02-22 | 1742 | 404 | 
 | 2023-02-21 | 1742 | 403 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1737 | 405 | 
 | 2023-01-28 | 1737 | 405 | 
 | 2023-01-27 | 1737 | 406 | 
-| 2023-01-25 | 1737 | 406 | 
 

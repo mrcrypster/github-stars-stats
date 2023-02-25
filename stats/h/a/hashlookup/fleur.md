@@ -1,6 +1,6 @@
 # hashlookup/fleur - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 116 | 7 | 
 | 2023-02-23 | 116 | 7 | 
 | 2023-02-22 | 114 | 7 | 
 | 2023-02-21 | 114 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 114 | 7 | 
 | 2023-01-28 | 114 | 7 | 
 | 2023-01-26 | 114 | 7 | 
-| 2023-01-25 | 114 | 7 | 
 

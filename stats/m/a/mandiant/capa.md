@@ -1,10 +1,10 @@
 # mandiant/capa - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 378
 
-★ Stars: 2791
+★ Stars: 2796
 
 [Open repository](https://github.com/mandiant/capa)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2796 | 378 | 
 | 2023-02-23 | 2791 | 378 | 
 | 2023-02-21 | 2790 | 378 | 
 | 2023-02-20 | 2787 | 378 | 

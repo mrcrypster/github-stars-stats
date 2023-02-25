@@ -1,10 +1,10 @@
 # serverless-stack/open-next - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 1007
+★ Stars: 1010
 
 [Open repository](https://github.com/serverless-stack/open-next)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1010 | 24 | 
 | 2023-02-23 | 1007 | 23 | 
 | 2023-02-22 | 1003 | 23 | 
 | 2023-02-20 | 996 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 904 | 15 | 
 | 2023-01-27 | 901 | 15 | 
 | 2023-01-26 | 898 | 15 | 
-| 2023-01-25 | 897 | 15 | 
 

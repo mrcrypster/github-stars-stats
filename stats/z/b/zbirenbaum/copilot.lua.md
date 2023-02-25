@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 26
 
-★ Stars: 560
+★ Stars: 564
 
 [Open repository](https://github.com/zbirenbaum/copilot.lua)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 560 | 26 | 
+| 2023-02-24 | 564 | 26 | 
 | 2023-02-23 | 559 | 26 | 
 | 2023-02-22 | 554 | 26 | 
 | 2023-02-21 | 547 | 25 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 476 | 19 | 
 | 2023-01-27 | 474 | 19 | 
 | 2023-01-26 | 470 | 19 | 
-| 2023-01-25 | 463 | 19 | 
 

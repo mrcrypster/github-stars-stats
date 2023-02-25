@@ -1,6 +1,6 @@
 # janestreet/bonsai - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 265 | 30 | 
 | 2023-02-23 | 265 | 30 | 
 | 2023-02-22 | 265 | 30 | 
 | 2023-02-20 | 265 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 260 | 29 | 
 | 2023-01-28 | 260 | 29 | 
 | 2023-01-27 | 260 | 29 | 
-| 2023-01-26 | 260 | 29 | 
 

@@ -1,10 +1,10 @@
 # xupefei/Locale-Emulator - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 718
 
-★ Stars: 8383
+★ Stars: 8384
 
 [Open repository](https://github.com/xupefei/Locale-Emulator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 8384 | 718 | 
 | 2023-02-23 | 8383 | 718 | 
 | 2023-02-22 | 8380 | 718 | 
 | 2023-02-21 | 8379 | 718 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 8298 | 709 | 
 | 2023-01-27 | 8293 | 709 | 
 | 2023-01-26 | 8287 | 709 | 
-| 2023-01-25 | 8284 | 709 | 
 

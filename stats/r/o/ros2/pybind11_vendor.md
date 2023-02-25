@@ -1,6 +1,6 @@
 # ros2/pybind11_vendor - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2 | 4 | 
 | 2023-02-23 | 2 | 4 | 
 | 2023-02-22 | 2 | 4 | 
 | 2023-02-21 | 2 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3 | 4 | 
 | 2023-01-27 | 3 | 4 | 
 | 2023-01-26 | 3 | 4 | 
-| 2023-01-25 | 3 | 4 | 
 

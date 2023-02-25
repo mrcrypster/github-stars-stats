@@ -1,10 +1,10 @@
 # Wh04m1001/IDiagnosticProfileUAC - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 26
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/Wh04m1001/IDiagnosticProfileUAC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 161 | 26 | 
 | 2023-02-23 | 160 | 26 | 
 | 2023-02-22 | 160 | 26 | 
 | 2023-02-21 | 160 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 159 | 25 | 
 | 2023-01-27 | 159 | 25 | 
 | 2023-01-26 | 159 | 25 | 
-| 2023-01-25 | 159 | 25 | 
 

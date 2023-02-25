@@ -1,10 +1,10 @@
 # graphql/graphql-js - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2081
 
-★ Stars: 19379
+★ Stars: 19380
 
 [Open repository](https://github.com/graphql/graphql-js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 19380 | 2081 | 
 | 2023-02-23 | 19379 | 2081 | 
 | 2023-02-22 | 19382 | 2081 | 
 | 2023-02-21 | 19377 | 2081 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 19329 | 2067 | 
 | 2023-01-27 | 19328 | 2067 | 
 | 2023-01-26 | 19329 | 2067 | 
-| 2023-01-25 | 19325 | 2067 | 
 

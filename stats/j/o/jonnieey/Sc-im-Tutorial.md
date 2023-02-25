@@ -1,6 +1,6 @@
 # jonnieey/Sc-im-Tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 53 | 8 | 
 | 2023-02-23 | 53 | 8 | 
 | 2023-02-22 | 53 | 8 | 
 | 2023-02-21 | 53 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 48 | 8 | 
 | 2023-01-28 | 48 | 8 | 
 | 2023-01-27 | 47 | 8 | 
-| 2023-01-26 | 47 | 8 | 
 

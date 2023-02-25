@@ -1,8 +1,8 @@
 # OpenClassrooms-Student-Center/1603881-creez-votre-site-web-avec-html5-et-css3 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 264
+☋ Forks: 269
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 54 | 269 | 
 | 2023-02-23 | 54 | 264 | 
 | 2023-02-22 | 53 | 263 | 
 | 2023-02-21 | 52 | 259 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 41 | 199 | 
 | 2023-01-27 | 40 | 195 | 
 | 2023-01-26 | 39 | 188 | 
-| 2023-01-25 | 39 | 187 | 
 

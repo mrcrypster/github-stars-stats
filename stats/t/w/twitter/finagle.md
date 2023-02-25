@@ -1,10 +1,10 @@
 # twitter/finagle - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1437
 
-★ Stars: 8489
+★ Stars: 8488
 
 [Open repository](https://github.com/twitter/finagle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 8488 | 1437 | 
 | 2023-02-23 | 8489 | 1437 | 
 | 2023-02-22 | 8490 | 1437 | 
 | 2023-02-21 | 8488 | 1436 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 8478 | 1432 | 
 | 2023-01-27 | 8479 | 1432 | 
 | 2023-01-26 | 8478 | 1432 | 
-| 2023-01-25 | 8477 | 1432 | 
 

@@ -1,10 +1,10 @@
 # Cysharp/MagicOnion - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 375
 
-★ Stars: 3079
+★ Stars: 3081
 
 [Open repository](https://github.com/Cysharp/MagicOnion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3081 | 375 | 
 | 2023-02-23 | 3079 | 375 | 
 | 2023-02-22 | 3078 | 375 | 
 | 2023-02-21 | 3078 | 374 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3048 | 373 | 
 | 2023-01-27 | 3046 | 373 | 
 | 2023-01-26 | 3044 | 373 | 
-| 2023-01-25 | 3042 | 373 | 
 

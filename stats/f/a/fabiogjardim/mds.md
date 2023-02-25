@@ -1,8 +1,8 @@
 # fabiogjardim/mds - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 15 | 6 | 
 | 2023-02-23 | 15 | 5 | 
 | 2023-02-22 | 14 | 5 | 
 | 2023-02-21 | 14 | 5 | 

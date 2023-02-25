@@ -1,6 +1,6 @@
 # jnunemaker/flipper - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3173 | 381 | 
 | 2023-02-23 | 3173 | 381 | 
 | 2023-02-21 | 3171 | 381 | 
 | 2023-02-20 | 3170 | 381 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3151 | 381 | 
 | 2023-01-27 | 3151 | 382 | 
 | 2023-01-26 | 3151 | 382 | 
-| 2023-01-25 | 3150 | 382 | 
 

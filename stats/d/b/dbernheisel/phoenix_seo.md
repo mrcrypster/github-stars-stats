@@ -1,10 +1,10 @@
 # dbernheisel/phoenix_seo - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/dbernheisel/phoenix_seo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 75 | 4 | 
 | 2023-02-23 | 74 | 4 | 
 | 2023-02-22 | 73 | 4 | 
 | 2023-02-21 | 73 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 71 | 4 | 
 | 2023-01-27 | 71 | 4 | 
 | 2023-01-26 | 71 | 4 | 
-| 2023-01-25 | 71 | 4 | 
 

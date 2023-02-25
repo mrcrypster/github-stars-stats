@@ -1,8 +1,8 @@
 # psychonaut-station/PsychonautStation - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 9 | 
 | 2023-02-23 | 4 | 8 | 
 | 2023-02-22 | 4 | 8 | 
 | 2023-02-21 | 4 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3 | 7 | 
 | 2023-01-27 | 3 | 7 | 
 | 2023-01-26 | 3 | 7 | 
-| 2023-01-25 | 3 | 7 | 
 

@@ -1,8 +1,8 @@
 # I-Doctor/gnn-acceleration-framework-with-FPGA - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | 9 | 
 | 2023-02-23 | 1 | 8 | 
 | 2023-02-21 | 1 | 8 | 
 | 2023-02-20 | 1 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 2 | 8 | 
 | 2023-01-28 | 2 | 8 | 
 | 2023-01-27 | 2 | 8 | 
-| 2023-01-25 | 2 | 8 | 
 

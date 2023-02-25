@@ -1,6 +1,6 @@
 # Soreepeong/XivAlexander - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 573 | 58 | 
 | 2023-02-23 | 573 | 58 | 
 | 2023-02-22 | 573 | 58 | 
 | 2023-02-21 | 573 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 557 | 56 | 
 | 2023-01-27 | 557 | 56 | 
 | 2023-01-26 | 555 | 56 | 
-| 2023-01-25 | 554 | 56 | 
 

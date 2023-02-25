@@ -1,8 +1,8 @@
 # fauzan1892/pos-kasir-php - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 103
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 103 | 65 | 
 | 2023-02-23 | 103 | 64 | 
 | 2023-02-22 | 102 | 64 | 
 | 2023-02-21 | 102 | 64 | 

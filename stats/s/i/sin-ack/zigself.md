@@ -1,10 +1,10 @@
 # sin-ack/zigself - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/sin-ack/zigself)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 99 | 4 | 
 | 2023-02-23 | 98 | 4 | 
 | 2023-02-22 | 98 | 4 | 
 | 2023-02-21 | 98 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 97 | 4 | 
 | 2023-01-27 | 97 | 4 | 
 | 2023-01-26 | 96 | 4 | 
-| 2023-01-25 | 96 | 4 | 
 

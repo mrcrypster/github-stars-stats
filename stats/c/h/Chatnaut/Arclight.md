@@ -1,10 +1,10 @@
 # Chatnaut/Arclight - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 10
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/Chatnaut/Arclight)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 113 | 10 | 
 | 2023-02-23 | 112 | 10 | 
 | 2023-02-22 | 112 | 10 | 
 | 2023-02-21 | 112 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 107 | 10 | 
 | 2023-01-27 | 107 | 10 | 
 | 2023-01-26 | 106 | 10 | 
-| 2023-01-25 | 106 | 10 | 
 

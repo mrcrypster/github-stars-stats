@@ -1,8 +1,8 @@
 # Adobe-Marketing-Cloud/acp-sdks - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 65 | 56 | 
 | 2023-02-23 | 65 | 55 | 
 | 2023-02-22 | 65 | 55 | 
 | 2023-02-21 | 65 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 64 | 55 | 
 | 2023-01-27 | 64 | 55 | 
 | 2023-01-26 | 64 | 55 | 
-| 2023-01-25 | 64 | 55 | 
 

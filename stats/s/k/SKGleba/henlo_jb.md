@@ -1,10 +1,10 @@
 # SKGleba/henlo_jb - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 10
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/SKGleba/henlo_jb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 46 | 10 | 
 | 2023-02-23 | 44 | 10 | 
 | 2023-02-22 | 44 | 10 | 
 | 2023-02-21 | 44 | 10 | 

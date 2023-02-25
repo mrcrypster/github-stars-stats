@@ -1,10 +1,10 @@
 # zbefine/iptv - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 161
+☋ Forks: 162
 
-★ Stars: 884
+★ Stars: 893
 
 [Open repository](https://github.com/zbefine/iptv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 893 | 162 | 
 | 2023-02-23 | 884 | 161 | 
 | 2023-02-22 | 876 | 161 | 
 | 2023-02-21 | 871 | 159 | 

@@ -1,6 +1,6 @@
 # vim-airline/vim-airline-themes - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 353
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1915 | 353 | 
 | 2023-02-23 | 1915 | 353 | 
 | 2023-02-22 | 1915 | 353 | 
 | 2023-02-20 | 1911 | 353 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1901 | 355 | 
 | 2023-01-27 | 1900 | 355 | 
 | 2023-01-26 | 1900 | 355 | 
-| 2023-01-25 | 1900 | 355 | 
 

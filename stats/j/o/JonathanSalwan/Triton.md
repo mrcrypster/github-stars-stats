@@ -1,10 +1,10 @@
 # JonathanSalwan/Triton - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 491
 
-★ Stars: 2709
+★ Stars: 2711
 
 [Open repository](https://github.com/JonathanSalwan/Triton)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2711 | 491 | 
 | 2023-02-23 | 2709 | 491 | 
 | 2023-02-22 | 2708 | 491 | 
 | 2023-02-21 | 2707 | 491 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 2683 | 491 | 
 | 2023-01-28 | 2683 | 491 | 
 | 2023-01-27 | 2681 | 491 | 
-| 2023-01-26 | 2680 | 491 | 
 

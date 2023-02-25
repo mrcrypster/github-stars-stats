@@ -1,6 +1,6 @@
 # PacktPublishing/Learn-CUDA-Programming - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 174
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 600 | 174 | 
 | 2023-02-23 | 600 | 174 | 
 | 2023-02-22 | 600 | 174 | 
 | 2023-02-21 | 600 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 551 | 163 | 
 | 2023-01-27 | 551 | 162 | 
 | 2023-01-26 | 551 | 162 | 
-| 2023-01-25 | 550 | 162 | 
 

@@ -1,8 +1,8 @@
 # Azure-Samples/Tutorial-Deploy-Dapr-Microservices-ACA - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 37 | 
 | 2023-02-23 | 4 | 36 | 
 | 2023-02-22 | 4 | 36 | 
 | 2023-02-21 | 4 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 4 | 27 | 
 | 2023-01-27 | 4 | 26 | 
 | 2023-01-26 | 4 | 26 | 
-| 2023-01-25 | 4 | 26 | 
 

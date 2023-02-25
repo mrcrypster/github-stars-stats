@@ -1,10 +1,10 @@
 # memochou1993/gpt-ai-assistant - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 2216
+☋ Forks: 2635
 
-★ Stars: 1710
+★ Stars: 1964
 
 [Open repository](https://github.com/memochou1993/gpt-ai-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1964 | 2635 | 
 | 2023-02-23 | 1710 | 2216 | 
 | 2023-02-22 | 1554 | 2015 | 
 | 2023-02-21 | 1522 | 1976 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 870 | 1265 | 
 | 2023-01-28 | 835 | 1229 | 
 | 2023-01-27 | 757 | 1150 | 
-| 2023-01-25 | 752 | 1145 | 
 

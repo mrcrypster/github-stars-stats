@@ -1,10 +1,10 @@
 # maretaayu/undangan-nikah - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 9
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/maretaayu/undangan-nikah)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 18 | 9 | 
 | 2023-02-24 | 17 | 9 | 
 | 2023-02-22 | 17 | 9 | 
 | 2023-02-21 | 17 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 15 | 7 | 
 | 2023-01-27 | 15 | 7 | 
 | 2023-01-26 | 15 | 7 | 
-| 2023-01-25 | 15 | 7 | 
 

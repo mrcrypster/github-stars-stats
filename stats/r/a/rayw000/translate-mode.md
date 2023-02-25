@@ -1,10 +1,10 @@
 # rayw000/translate-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 4
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/rayw000/translate-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 25 | 4 | 
 | 2023-02-23 | 24 | 4 | 
 | 2023-02-22 | 24 | 4 | 
 | 2023-02-20 | 24 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 24 | 4 | 
 | 2023-01-27 | 24 | 4 | 
 | 2023-01-26 | 24 | 4 | 
-| 2023-01-25 | 24 | 4 | 
 

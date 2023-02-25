@@ -1,6 +1,6 @@
 # bedimcode/responsive-sidebar-with-tabbar - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 42 | 12 | 
 | 2023-02-23 | 42 | 12 | 
 | 2023-02-22 | 42 | 12 | 
 | 2023-02-21 | 42 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 42 | 12 | 
 | 2023-01-27 | 42 | 12 | 
 | 2023-01-26 | 42 | 12 | 
-| 2023-01-25 | 42 | 12 | 
 

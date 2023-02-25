@@ -1,10 +1,10 @@
 # clawpack/pyclaw - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 94
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/clawpack/pyclaw)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 138 | 94 | 
 | 2023-02-23 | 137 | 94 | 
 | 2023-02-22 | 137 | 94 | 
 | 2023-02-21 | 137 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 136 | 94 | 
 | 2023-01-27 | 136 | 94 | 
 | 2023-01-26 | 136 | 94 | 
-| 2023-01-25 | 136 | 94 | 
 

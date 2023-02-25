@@ -1,10 +1,10 @@
 # zobront/quickpoc - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 26
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/zobront/quickpoc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 194 | 26 | 
 | 2023-02-23 | 193 | 26 | 
 | 2023-02-22 | 193 | 26 | 
 | 2023-02-21 | 193 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 185 | 24 | 
 | 2023-01-27 | 185 | 24 | 
 | 2023-01-26 | 185 | 24 | 
-| 2023-01-25 | 184 | 24 | 
 

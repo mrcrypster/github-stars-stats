@@ -1,10 +1,10 @@
 # go2uvm/go2uvm - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 19
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/go2uvm/go2uvm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 14 | 19 | 
 | 2023-02-23 | 13 | 19 | 
 | 2023-02-22 | 13 | 19 | 
 | 2023-02-21 | 13 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 12 | 19 | 
 | 2023-01-27 | 12 | 19 | 
 | 2023-01-26 | 12 | 19 | 
-| 2023-01-25 | 12 | 19 | 
 

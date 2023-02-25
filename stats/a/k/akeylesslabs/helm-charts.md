@@ -1,6 +1,6 @@
 # akeylesslabs/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 13 | 12 | 
 | 2023-02-23 | 13 | 12 | 
 | 2023-02-22 | 12 | 12 | 
 | 2023-02-21 | 12 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 13 | 12 | 
 | 2023-01-27 | 13 | 12 | 
 | 2023-01-26 | 13 | 12 | 
-| 2023-01-25 | 13 | 12 | 
 

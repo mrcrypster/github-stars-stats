@@ -1,10 +1,10 @@
 # hzwer/arXiv2021-RIFE - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 340
 
-★ Stars: 3104
+★ Stars: 3106
 
 [Open repository](https://github.com/hzwer/arXiv2021-RIFE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3106 | 340 | 
 | 2023-02-23 | 3104 | 340 | 
 | 2023-02-22 | 3103 | 340 | 
 | 2023-02-21 | 3098 | 339 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 3045 | 334 | 
 | 2023-01-27 | 3045 | 334 | 
 | 2023-01-26 | 3046 | 334 | 
-| 2023-01-25 | 3045 | 334 | 
 

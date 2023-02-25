@@ -1,8 +1,8 @@
 # Dineshkarthik/telegram_media_downloader - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
-☋ Forks: 240
+☋ Forks: 241
 
 ★ Stars: 1172
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1172 | 241 | 
 | 2023-02-22 | 1172 | 240 | 
 | 2023-02-21 | 1166 | 240 | 
 | 2023-02-20 | 1164 | 239 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 1106 | 236 | 
 | 2023-01-28 | 1106 | 237 | 
 | 2023-01-27 | 1101 | 237 | 
-| 2023-01-26 | 1098 | 237 | 
 

@@ -1,6 +1,6 @@
 # McTsts/mc-core-shaders - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 72 | 15 | 
 | 2023-02-23 | 72 | 15 | 
 | 2023-02-21 | 73 | 15 | 
 | 2023-02-20 | 73 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 65 | 15 | 
 | 2023-01-27 | 65 | 14 | 
 | 2023-01-26 | 65 | 14 | 
-| 2023-01-25 | 65 | 14 | 
 

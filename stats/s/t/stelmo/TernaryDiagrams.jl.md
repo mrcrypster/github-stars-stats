@@ -1,10 +1,10 @@
 # stelmo/TernaryDiagrams.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/stelmo/TernaryDiagrams.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 15 | 1 | 
 | 2023-02-23 | 14 | 1 | 
 | 2023-02-22 | 14 | 1 | 
 | 2023-02-21 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 11 | - | 
 | 2023-01-27 | 10 | - | 
 | 2023-01-26 | 10 | - | 
-| 2023-01-25 | 10 | - | 
 

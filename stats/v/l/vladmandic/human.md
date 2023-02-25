@@ -1,10 +1,10 @@
 # vladmandic/human - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 188
+☋ Forks: 189
 
-★ Stars: 1154
+★ Stars: 1156
 
 [Open repository](https://github.com/vladmandic/human)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1156 | 189 | 
 | 2023-02-23 | 1154 | 188 | 
 | 2023-02-22 | 1151 | 187 | 
 | 2023-02-21 | 1151 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1115 | 180 | 
 | 2023-01-27 | 1112 | 179 | 
 | 2023-01-26 | 1111 | 179 | 
-| 2023-01-25 | 1110 | 179 | 
 

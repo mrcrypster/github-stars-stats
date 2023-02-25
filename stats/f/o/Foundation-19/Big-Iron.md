@@ -1,8 +1,8 @@
 # Foundation-19/Big-Iron - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 26 | 
 | 2023-02-23 | 4 | 25 | 
 | 2023-02-22 | 3 | 25 | 
 | 2023-02-20 | 4 | 25 | 

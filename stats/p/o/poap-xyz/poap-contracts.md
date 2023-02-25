@@ -1,6 +1,6 @@
 # poap-xyz/poap-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 200 | 67 | 
 | 2023-02-23 | 200 | 67 | 
 | 2023-02-22 | 200 | 67 | 
 | 2023-02-20 | 200 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 198 | 66 | 
 | 2023-01-28 | 198 | 66 | 
 | 2023-01-27 | 198 | 66 | 
-| 2023-01-26 | 198 | 66 | 
 

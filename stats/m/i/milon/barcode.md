@@ -1,8 +1,8 @@
 # milon/barcode - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 296
+☋ Forks: 297
 
 ★ Stars: 1114
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1114 | 297 | 
 | 2023-02-23 | 1114 | 296 | 
 | 2023-02-22 | 1113 | 296 | 
 | 2023-02-21 | 1111 | 296 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1095 | 292 | 
 | 2023-01-28 | 1096 | 292 | 
 | 2023-01-26 | 1097 | 292 | 
-| 2023-01-25 | 1097 | 291 | 
 

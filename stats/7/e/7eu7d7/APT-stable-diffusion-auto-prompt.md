@@ -1,6 +1,6 @@
 # 7eu7d7/APT-stable-diffusion-auto-prompt - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 735 | 47 | 
 | 2023-02-23 | 735 | 47 | 
 | 2023-02-22 | 731 | 47 | 
 | 2023-02-21 | 730 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 701 | 44 | 
 | 2023-01-27 | 701 | 44 | 
 | 2023-01-26 | 700 | 44 | 
-| 2023-01-25 | 700 | 44 | 
 

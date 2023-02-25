@@ -1,10 +1,10 @@
 # ethen8181/machine-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 560
 
-★ Stars: 2263
+★ Stars: 2264
 
 [Open repository](https://github.com/ethen8181/machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2264 | 560 | 
 | 2023-02-23 | 2263 | 560 | 
 | 2023-02-22 | 2261 | 560 | 
 | 2023-02-21 | 2260 | 560 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2236 | 555 | 
 | 2023-01-27 | 2234 | 555 | 
 | 2023-01-26 | 2234 | 554 | 
-| 2023-01-25 | 2230 | 554 | 
 

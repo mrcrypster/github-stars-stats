@@ -1,10 +1,10 @@
 # google/draco - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 866
 
-★ Stars: 5494
+★ Stars: 5495
 
 [Open repository](https://github.com/google/draco)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 5495 | 866 | 
 | 2023-02-23 | 5494 | 866 | 
 | 2023-02-22 | 5496 | 864 | 
 | 2023-02-21 | 5494 | 864 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 5452 | 859 | 
 | 2023-01-27 | 5450 | 858 | 
 | 2023-01-26 | 5450 | 858 | 
-| 2023-01-25 | 5449 | 858 | 
 

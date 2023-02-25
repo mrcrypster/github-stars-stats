@@ -1,10 +1,10 @@
 # delneg/Fable-tauri-vite-feliz-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/delneg/Fable-tauri-vite-feliz-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 23 | 2 | 
 | 2023-02-23 | 22 | 1 | 
 | 2023-02-22 | 22 | 1 | 
 | 2023-02-21 | 22 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 22 | 1 | 
 | 2023-01-27 | 22 | 1 | 
 | 2023-01-26 | 23 | 1 | 
-| 2023-01-25 | 23 | 1 | 
 

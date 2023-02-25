@@ -1,10 +1,10 @@
 # Docile-Alligator/Infinity-For-Reddit - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 160
 
-★ Stars: 2756
+★ Stars: 2759
 
 [Open repository](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2759 | 160 | 
 | 2023-02-23 | 2756 | 160 | 
 | 2023-02-22 | 2754 | 157 | 
 | 2023-02-21 | 2747 | 157 | 

@@ -1,10 +1,10 @@
 # earth-system-radiation/rte-rrtmgp - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 51
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/earth-system-radiation/rte-rrtmgp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 59 | 51 | 
 | 2023-02-22 | 58 | 51 | 
 | 2023-02-21 | 58 | 51 | 
 | 2023-02-20 | 58 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 58 | 50 | 
 | 2023-01-27 | 58 | 50 | 
 | 2023-01-26 | 58 | 50 | 
-| 2023-01-25 | 58 | 50 | 
 

@@ -1,10 +1,10 @@
 # seata/seata - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 8324
 
-★ Stars: 23364
+★ Stars: 23366
 
 [Open repository](https://github.com/seata/seata)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 23366 | 8324 | 
 | 2023-02-23 | 23364 | 8324 | 
 | 2023-02-22 | 23359 | 8321 | 
 | 2023-02-21 | 23353 | 8322 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 23230 | 8277 | 
 | 2023-01-27 | 23229 | 8277 | 
 | 2023-01-26 | 23229 | 8277 | 
-| 2023-01-25 | 23227 | 8277 | 
 

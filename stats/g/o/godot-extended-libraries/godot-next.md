@@ -1,10 +1,10 @@
 # godot-extended-libraries/godot-next - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 62
 
-★ Stars: 769
+★ Stars: 770
 
 [Open repository](https://github.com/godot-extended-libraries/godot-next)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 770 | 62 | 
 | 2023-02-23 | 769 | 62 | 
 | 2023-02-22 | 769 | 62 | 
 | 2023-02-21 | 769 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 763 | 60 | 
 | 2023-01-28 | 763 | 60 | 
 | 2023-01-27 | 762 | 60 | 
-| 2023-01-26 | 761 | 60 | 
 

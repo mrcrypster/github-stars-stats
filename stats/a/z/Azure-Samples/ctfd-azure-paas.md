@@ -1,8 +1,8 @@
 # Azure-Samples/ctfd-azure-paas - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 6 | 3 | 
 | 2023-02-23 | 6 | 2 | 
 | 2023-02-22 | 6 | 2 | 
 | 2023-02-20 | 5 | 2 | 

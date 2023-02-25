@@ -1,10 +1,10 @@
 # grpc/grpc-proto - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 85
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/grpc/grpc-proto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 204 | 85 | 
 | 2023-02-23 | 203 | 85 | 
 | 2023-02-22 | 203 | 85 | 
 | 2023-02-21 | 203 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 203 | 83 | 
 | 2023-01-27 | 203 | 83 | 
 | 2023-01-26 | 203 | 83 | 
-| 2023-01-25 | 203 | 83 | 
 

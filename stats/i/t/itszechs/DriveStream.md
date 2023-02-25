@@ -1,6 +1,6 @@
 # itszechs/DriveStream - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 170 | 21 | 
 | 2023-02-23 | 170 | 21 | 
 | 2023-02-22 | 170 | 21 | 
 | 2023-02-20 | 170 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 163 | 20 | 
 | 2023-01-27 | 163 | 20 | 
 | 2023-01-26 | 161 | 20 | 
-| 2023-01-25 | 161 | 20 | 
 

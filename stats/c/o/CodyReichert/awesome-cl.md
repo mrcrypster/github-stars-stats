@@ -1,10 +1,10 @@
 # CodyReichert/awesome-cl - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 164
 
-★ Stars: 2076
+★ Stars: 2077
 
 [Open repository](https://github.com/CodyReichert/awesome-cl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2077 | 164 | 
 | 2023-02-23 | 2076 | 164 | 
 | 2023-02-21 | 2075 | 164 | 
 | 2023-02-20 | 2073 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2053 | 162 | 
 | 2023-01-27 | 2051 | 162 | 
 | 2023-01-26 | 2051 | 162 | 
-| 2023-01-25 | 2051 | 162 | 
 

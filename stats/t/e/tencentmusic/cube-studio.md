@@ -1,10 +1,10 @@
 # tencentmusic/cube-studio - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 268
 
-★ Stars: 976
+★ Stars: 977
 
 [Open repository](https://github.com/tencentmusic/cube-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 977 | 268 | 
 | 2023-02-23 | 976 | 268 | 
 | 2023-02-22 | 975 | 266 | 
 | 2023-02-21 | 973 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 913 | 251 | 
 | 2023-01-27 | 911 | 250 | 
 | 2023-01-26 | 911 | 250 | 
-| 2023-01-25 | 910 | 250 | 
 

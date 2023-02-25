@@ -1,8 +1,8 @@
 # holbertonschool/Jobs - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 146
+☋ Forks: 147
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 54 | 147 | 
 | 2023-02-23 | 54 | 146 | 
 | 2023-02-22 | 53 | 146 | 
 | 2023-02-21 | 53 | 146 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 34 | 133 | 
 | 2023-01-27 | 34 | 134 | 
 | 2023-01-26 | 31 | 133 | 
-| 2023-01-25 | 30 | 129 | 
 

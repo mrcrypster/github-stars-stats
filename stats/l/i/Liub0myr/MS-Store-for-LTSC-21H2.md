@@ -1,6 +1,6 @@
 # Liub0myr/MS-Store-for-LTSC-21H2 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 12 | 1 | 
 | 2023-02-23 | 12 | 1 | 
 | 2023-02-22 | 12 | 1 | 
 | 2023-02-21 | 12 | 1 | 

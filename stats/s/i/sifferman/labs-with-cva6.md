@@ -1,6 +1,6 @@
 # sifferman/labs-with-cva6 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 7 | 
 | 2023-02-23 | 4 | 7 | 
 | 2023-02-21 | 4 | 7 | 
 | 2023-02-20 | 4 | 7 | 

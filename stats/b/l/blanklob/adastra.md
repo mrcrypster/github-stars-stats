@@ -1,10 +1,10 @@
 # blanklob/adastra - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/blanklob/adastra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 57 | 2 | 
 | 2023-02-23 | 56 | 2 | 
 | 2023-02-22 | 56 | 2 | 
 | 2023-02-21 | 55 | 2 | 

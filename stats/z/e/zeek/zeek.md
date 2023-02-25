@@ -1,10 +1,10 @@
 # zeek/zeek - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
-☋ Forks: 1128
+☋ Forks: 1129
 
-★ Stars: 5005
+★ Stars: 5006
 
 [Open repository](https://github.com/zeek/zeek)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 5006 | 1129 | 
 | 2023-02-22 | 5005 | 1128 | 
 | 2023-02-21 | 5003 | 1128 | 
 | 2023-02-20 | 5001 | 1126 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 4951 | 1121 | 
 | 2023-01-27 | 4949 | 1121 | 
 | 2023-01-26 | 4948 | 1121 | 
-| 2023-01-25 | 4945 | 1120 | 
 

@@ -1,10 +1,10 @@
 # NLKNguyen/papercolor-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 222
 
-★ Stars: 2433
+★ Stars: 2436
 
 [Open repository](https://github.com/NLKNguyen/papercolor-theme)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 2433 | 222 | 
+| 2023-02-25 | 2436 | 222 | 
+| 2023-02-24 | 2436 | 222 | 
 | 2023-02-22 | 2433 | 222 | 
 | 2023-02-21 | 2432 | 222 | 
 | 2023-02-20 | 2432 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 2427 | 223 | 
 | 2023-01-27 | 2426 | 223 | 
 | 2023-01-26 | 2424 | 223 | 
-| 2023-01-25 | 2425 | 223 | 
 

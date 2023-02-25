@@ -1,10 +1,10 @@
 # Houvven/Guise - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/Houvven/Guise)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 37 | 6 | 
 | 2023-02-23 | 35 | 5 | 
 | 2023-02-22 | 34 | 4 | 
 | 2023-02-20 | 32 | 4 | 

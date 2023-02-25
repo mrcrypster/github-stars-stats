@@ -1,10 +1,10 @@
 # veebch/photon - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 19
 
-★ Stars: 338
+★ Stars: 339
 
 [Open repository](https://github.com/veebch/photon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 339 | 19 | 
 | 2023-02-23 | 338 | 19 | 
 | 2023-02-22 | 336 | 19 | 
 | 2023-02-21 | 336 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 292 | 17 | 
 | 2023-01-27 | 292 | 17 | 
 | 2023-01-26 | 292 | 17 | 
-| 2023-01-25 | 291 | 17 | 
 

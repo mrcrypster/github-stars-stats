@@ -1,6 +1,6 @@
 # beyonk-adventures/svelte-mapbox - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 263 | 50 | 
 | 2023-02-23 | 263 | 50 | 
 | 2023-02-22 | 262 | 50 | 
 | 2023-02-21 | 262 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 256 | 49 | 
 | 2023-01-27 | 256 | 48 | 
 | 2023-01-26 | 256 | 48 | 
-| 2023-01-25 | 256 | 48 | 
 

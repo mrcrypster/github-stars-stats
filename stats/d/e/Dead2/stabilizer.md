@@ -1,6 +1,6 @@
 # Dead2/stabilizer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 17 | 3 | 
 | 2023-02-23 | 17 | 3 | 
 | 2023-02-22 | 17 | 3 | 
 | 2023-02-20 | 17 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 16 | 3 | 
 | 2023-01-28 | 16 | 3 | 
 | 2023-01-27 | 16 | 3 | 
-| 2023-01-25 | 16 | 3 | 
 

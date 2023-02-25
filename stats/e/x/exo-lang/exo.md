@@ -1,10 +1,10 @@
 # exo-lang/exo - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 14
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/exo-lang/exo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 219 | 14 | 
 | 2023-02-23 | 218 | 14 | 
 | 2023-02-22 | 216 | 14 | 
 | 2023-02-21 | 216 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 207 | 11 | 
 | 2023-01-28 | 207 | 11 | 
 | 2023-01-26 | 207 | 11 | 
-| 2023-01-25 | 207 | 11 | 
 

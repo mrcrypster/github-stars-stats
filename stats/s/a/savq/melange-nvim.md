@@ -1,10 +1,10 @@
 # savq/melange-nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 22
 
-★ Stars: 398
+★ Stars: 397
 
 [Open repository](https://github.com/savq/melange-nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 397 | 22 | 
 | 2023-02-23 | 398 | 22 | 
 | 2023-02-22 | 398 | 22 | 
 | 2023-02-21 | 396 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 384 | 21 | 
 | 2023-01-27 | 383 | 21 | 
 | 2023-01-26 | 381 | 20 | 
-| 2023-01-25 | 381 | 20 | 
 

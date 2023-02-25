@@ -1,6 +1,6 @@
 # rdi-berkeley/zkp-course-lecture3-code - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 31 | 12 | 
 | 2023-02-23 | 31 | 12 | 
 | 2023-02-22 | 30 | 12 | 
 | 2023-02-21 | 29 | 12 | 

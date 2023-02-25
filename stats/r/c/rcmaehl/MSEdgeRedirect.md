@@ -1,6 +1,6 @@
 # rcmaehl/MSEdgeRedirect - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2126 | 65 | 
 | 2023-02-23 | 2126 | 65 | 
 | 2023-02-22 | 2123 | 65 | 
 | 2023-02-21 | 2119 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2053 | 66 | 
 | 2023-01-27 | 2048 | 66 | 
 | 2023-01-26 | 2047 | 66 | 
-| 2023-01-25 | 2046 | 66 | 
 

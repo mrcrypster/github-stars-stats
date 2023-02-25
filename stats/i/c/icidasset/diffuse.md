@@ -1,6 +1,6 @@
 # icidasset/diffuse - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 701 | 65 | 
 | 2023-02-23 | 701 | 65 | 
 | 2023-02-22 | 700 | 65 | 
 | 2023-02-20 | 699 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 692 | 62 | 
 | 2023-01-28 | 692 | 62 | 
 | 2023-01-27 | 692 | 62 | 
-| 2023-01-25 | 692 | 62 | 
 

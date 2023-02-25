@@ -1,6 +1,6 @@
 # vuong0809/AviRDP-0 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | - | 8 | 
 | 2023-02-23 | - | 8 | 
 | 2023-02-22 | - | 8 | 
 | 2023-02-20 | - | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | - | 9 | 
 | 2023-01-28 | - | 9 | 
 | 2023-01-27 | - | 10 | 
-| 2023-01-25 | - | 9 | 
 

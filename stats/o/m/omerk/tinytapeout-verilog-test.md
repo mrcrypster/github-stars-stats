@@ -1,6 +1,6 @@
 # omerk/tinytapeout-verilog-test - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3 | 31 | 
 | 2023-02-23 | 3 | 31 | 
 | 2023-02-22 | 3 | 31 | 
 | 2023-02-21 | 3 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3 | 30 | 
 | 2023-01-27 | 3 | 30 | 
 | 2023-01-26 | 3 | 30 | 
-| 2023-01-25 | 3 | 30 | 
 

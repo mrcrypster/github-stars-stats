@@ -1,10 +1,10 @@
 # udem-dlteam/ribbit - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 24
 
-★ Stars: 334
+★ Stars: 335
 
 [Open repository](https://github.com/udem-dlteam/ribbit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 335 | 24 | 
 | 2023-02-23 | 334 | 24 | 
 | 2023-02-22 | 334 | 24 | 
 | 2023-02-21 | 334 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 333 | 22 | 
 | 2023-01-28 | 332 | 22 | 
 | 2023-01-26 | 331 | 22 | 
-| 2023-01-25 | 331 | 22 | 
 

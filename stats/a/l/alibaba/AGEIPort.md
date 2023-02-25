@@ -1,8 +1,8 @@
 # alibaba/AGEIPort - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 109
+☋ Forks: 110
 
 ★ Stars: 551
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 551 | 110 | 
 | 2023-02-23 | 551 | 109 | 
 | 2023-02-22 | 548 | 109 | 
 | 2023-02-21 | 546 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 528 | 98 | 
 | 2023-01-27 | 528 | 98 | 
 | 2023-01-26 | 528 | 98 | 
-| 2023-01-25 | 528 | 98 | 
 

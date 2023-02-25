@@ -1,0 +1,17 @@
+# JuliaObjects/ConstructionBase.jl - stars & forks statistics
+
+Stats updated on Feb 2023, 24
+
+☋ Forks: 10
+
+★ Stars: 23
+
+[Open repository](https://github.com/JuliaObjects/ConstructionBase.jl)
+
+[Open detailed stats for JuliaObjects/ConstructionBase.jl](https://reviewgithub.com/rep/JuliaObjects/ConstructionBase.jl)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-24 | 23 | 10 | 
+

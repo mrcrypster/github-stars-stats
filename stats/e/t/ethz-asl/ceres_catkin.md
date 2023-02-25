@@ -1,6 +1,6 @@
 # ethz-asl/ceres_catkin - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 10 | 21 | 
 | 2023-02-23 | 10 | 21 | 
 | 2023-02-22 | 10 | 21 | 
 | 2023-02-21 | 10 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9 | 21 | 
 | 2023-01-27 | 9 | 21 | 
 | 2023-01-26 | 9 | 21 | 
-| 2023-01-25 | 9 | 21 | 
 

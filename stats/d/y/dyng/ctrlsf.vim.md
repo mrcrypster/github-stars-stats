@@ -1,6 +1,6 @@
 # dyng/ctrlsf.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1498 | 84 | 
 | 2023-02-23 | 1498 | 84 | 
 | 2023-02-22 | 1498 | 84 | 
 | 2023-02-20 | 1497 | 84 | 

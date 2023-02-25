@@ -1,6 +1,6 @@
 # rs/xid - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3233 | 187 | 
 | 2023-02-23 | 3233 | 187 | 
 | 2023-02-22 | 3232 | 187 | 
 | 2023-02-21 | 3233 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3197 | 185 | 
 | 2023-01-27 | 3197 | 185 | 
 | 2023-01-26 | 3197 | 185 | 
-| 2023-01-25 | 3195 | 185 | 
 

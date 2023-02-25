@@ -1,6 +1,6 @@
 # awslabs/amazon-kinesis-video-streams-producer-sdk-cpp - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 295
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 314 | 295 | 
 | 2023-02-23 | 314 | 295 | 
 | 2023-02-22 | 314 | 295 | 
 | 2023-02-21 | 314 | 294 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 309 | 292 | 
 | 2023-01-27 | 308 | 293 | 
 | 2023-01-26 | 307 | 293 | 
-| 2023-01-25 | 306 | 293 | 
 

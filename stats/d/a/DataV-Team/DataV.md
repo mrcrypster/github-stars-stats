@@ -1,10 +1,10 @@
 # DataV-Team/DataV - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1582
 
-★ Stars: 7508
+★ Stars: 7512
 
 [Open repository](https://github.com/DataV-Team/DataV)
 
@@ -13,7 +13,8 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 7508 | 1582 | 
+| 2023-02-25 | 7512 | 1582 | 
+| 2023-02-24 | 7511 | 1582 | 
 | 2023-02-23 | 7499 | 1580 | 
 | 2023-02-22 | 7494 | 1580 | 
 | 2023-02-20 | 7491 | 1580 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 7390 | 1567 | 
 | 2023-01-27 | 7389 | 1566 | 
 | 2023-01-26 | 7387 | 1566 | 
-| 2023-01-25 | 7385 | 1566 | 
 

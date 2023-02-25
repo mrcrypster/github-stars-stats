@@ -1,6 +1,6 @@
 # oxalorg/clj-konmari - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 35 | 2 | 
 | 2023-02-23 | 35 | 2 | 
 | 2023-02-22 | 35 | 2 | 
 | 2023-02-21 | 35 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 36 | 2 | 
 | 2023-01-27 | 36 | 2 | 
 | 2023-01-26 | 36 | 2 | 
-| 2023-01-25 | 36 | 2 | 
 

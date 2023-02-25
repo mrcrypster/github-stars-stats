@@ -1,6 +1,6 @@
 # OscarViquez/hope_hacks_13 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | 5 | 
 | 2023-02-23 | 1 | 5 | 
 | 2023-02-22 | 1 | 5 | 
 | 2023-02-21 | 1 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1 | 5 | 
 | 2023-01-28 | 1 | 5 | 
 | 2023-01-27 | 1 | 5 | 
-| 2023-01-26 | 1 | 5 | 
 

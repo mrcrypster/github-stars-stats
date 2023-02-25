@@ -1,8 +1,8 @@
 # cebarobot/Introduction-to-Computer-Architecture-Exercises - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 35 | 15 | 
 | 2023-02-23 | 35 | 14 | 
 | 2023-02-22 | 35 | 14 | 
 | 2023-02-21 | 35 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 34 | 14 | 
 | 2023-01-27 | 34 | 14 | 
 | 2023-01-26 | 34 | 14 | 
-| 2023-01-25 | 34 | 14 | 
 

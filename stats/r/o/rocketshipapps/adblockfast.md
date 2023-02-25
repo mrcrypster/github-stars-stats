@@ -1,6 +1,6 @@
 # rocketshipapps/adblockfast - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 684 | 139 | 
 | 2023-02-23 | 684 | 139 | 
 | 2023-02-22 | 684 | 139 | 
 | 2023-02-21 | 684 | 139 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 681 | 139 | 
 | 2023-01-27 | 681 | 139 | 
 | 2023-01-26 | 682 | 139 | 
-| 2023-01-25 | 680 | 138 | 
 

@@ -1,8 +1,8 @@
 # xiaoZ-hc/redtool - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 307
+☋ Forks: 308
 
 ★ Stars: 1171
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1171 | 308 | 
 | 2023-02-23 | 1171 | 307 | 
 | 2023-02-21 | 1171 | 307 | 
 | 2023-02-20 | 1170 | 307 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1163 | 306 | 
 | 2023-01-28 | 1163 | 306 | 
 | 2023-01-27 | 1163 | 306 | 
-| 2023-01-26 | 1163 | 306 | 
 

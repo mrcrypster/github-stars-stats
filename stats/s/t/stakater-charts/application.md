@@ -1,6 +1,6 @@
 # stakater-charts/application - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 62 | 31 | 
 | 2023-02-23 | 62 | 31 | 
 | 2023-02-22 | 61 | 31 | 
 | 2023-02-21 | 61 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 57 | 29 | 
 | 2023-01-27 | 57 | 29 | 
 | 2023-01-26 | 56 | 29 | 
-| 2023-01-25 | 56 | 29 | 
 

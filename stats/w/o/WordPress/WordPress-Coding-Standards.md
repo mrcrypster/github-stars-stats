@@ -1,10 +1,10 @@
 # WordPress/WordPress-Coding-Standards - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 447
 
-★ Stars: 2239
+★ Stars: 2238
 
 [Open repository](https://github.com/WordPress/WordPress-Coding-Standards)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2238 | 447 | 
 | 2023-02-23 | 2239 | 447 | 
 | 2023-02-22 | 2237 | 449 | 
 | 2023-02-21 | 2237 | 447 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2231 | 442 | 
 | 2023-01-27 | 2231 | 442 | 
 | 2023-01-26 | 2229 | 442 | 
-| 2023-01-25 | 2229 | 442 | 
 

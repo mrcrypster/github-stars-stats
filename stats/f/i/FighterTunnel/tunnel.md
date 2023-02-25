@@ -1,10 +1,10 @@
 # FighterTunnel/tunnel - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/FighterTunnel/tunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 10 | 16 | 
 | 2023-02-23 | 9 | 14 | 
 | 2023-02-22 | 8 | 11 | 
 

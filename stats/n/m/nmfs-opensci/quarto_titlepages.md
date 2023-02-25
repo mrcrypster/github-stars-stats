@@ -1,10 +1,10 @@
 # nmfs-opensci/quarto_titlepages - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 9
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/nmfs-opensci/quarto_titlepages)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 56 | 9 | 
 | 2023-02-23 | 55 | 9 | 
 | 2023-02-22 | 55 | 9 | 
 | 2023-02-21 | 55 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 51 | 9 | 
 | 2023-01-27 | 51 | 9 | 
 | 2023-01-26 | 49 | 9 | 
-| 2023-01-25 | 49 | 9 | 
 

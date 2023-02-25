@@ -1,10 +1,10 @@
 # MunifTanjim/nui.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 21
 
-★ Stars: 775
+★ Stars: 777
 
 [Open repository](https://github.com/MunifTanjim/nui.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 777 | 21 | 
 | 2023-02-23 | 775 | 21 | 
 | 2023-02-22 | 773 | 21 | 
 | 2023-02-21 | 770 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 734 | 19 | 
 | 2023-01-27 | 732 | 19 | 
 | 2023-01-26 | 732 | 19 | 
-| 2023-01-25 | 732 | 19 | 
 

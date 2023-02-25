@@ -1,6 +1,6 @@
 # XYZenix/XYZenixThemes - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 34 | 38 | 
 | 2023-02-22 | 34 | 38 | 
 | 2023-02-21 | 34 | 38 | 
 | 2023-02-20 | 34 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 34 | 36 | 
 | 2023-01-28 | 33 | 36 | 
 | 2023-01-27 | 33 | 36 | 
-| 2023-01-26 | 33 | 36 | 
 

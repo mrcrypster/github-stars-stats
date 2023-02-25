@@ -1,10 +1,10 @@
 # vaastav/Fantasy-Premier-League - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 726
 
-★ Stars: 1148
+★ Stars: 1150
 
 [Open repository](https://github.com/vaastav/Fantasy-Premier-League)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1150 | 726 | 
 | 2023-02-23 | 1148 | 726 | 
 | 2023-02-22 | 1148 | 726 | 
 | 2023-02-21 | 1148 | 726 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1140 | 722 | 
 | 2023-01-27 | 1140 | 722 | 
 | 2023-01-26 | 1140 | 722 | 
-| 2023-01-25 | 1140 | 720 | 
 

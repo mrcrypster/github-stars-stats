@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-dms - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 39 | 54 | 
 | 2023-02-23 | 39 | 54 | 
 | 2023-02-22 | 39 | 54 | 
 | 2023-02-21 | 39 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 39 | 52 | 
 | 2023-01-27 | 39 | 52 | 
 | 2023-01-26 | 39 | 52 | 
-| 2023-01-25 | 39 | 52 | 
 

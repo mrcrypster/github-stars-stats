@@ -1,10 +1,10 @@
 # CTeX-org/lshort-zh-cn - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 311
+☋ Forks: 312
 
-★ Stars: 1877
+★ Stars: 1879
 
 [Open repository](https://github.com/CTeX-org/lshort-zh-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1879 | 312 | 
 | 2023-02-23 | 1877 | 311 | 
 | 2023-02-22 | 1876 | 311 | 
 | 2023-02-21 | 1875 | 310 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1843 | 303 | 
 | 2023-01-27 | 1843 | 303 | 
 | 2023-01-26 | 1843 | 303 | 
-| 2023-01-25 | 1843 | 303 | 
 

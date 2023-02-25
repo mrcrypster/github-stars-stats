@@ -1,6 +1,6 @@
 # windwp/nvim-ts-autotag - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 800 | 35 | 
 | 2023-02-23 | 800 | 35 | 
 | 2023-02-22 | 800 | 35 | 
 | 2023-02-20 | 798 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 780 | 29 | 
 | 2023-01-27 | 781 | 29 | 
 | 2023-01-26 | 781 | 29 | 
-| 2023-01-25 | 781 | 29 | 
 

@@ -1,6 +1,6 @@
 # Team-Deadly/BOTDEPLOY - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 45 | 
 | 2023-02-22 | 4 | 45 | 
 | 2023-02-21 | 4 | 45 | 
 | 2023-02-20 | 4 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 3 | 44 | 
 | 2023-01-28 | 3 | 44 | 
 | 2023-01-27 | 3 | 44 | 
-| 2023-01-26 | 3 | 44 | 
 

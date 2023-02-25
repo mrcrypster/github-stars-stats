@@ -1,6 +1,6 @@
 # CryptoMagg/kingdom.watch - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 29 | 28 | 
 | 2023-02-23 | 29 | 28 | 
 | 2023-02-22 | 29 | 28 | 
 | 2023-02-21 | 29 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 29 | 27 | 
 | 2023-01-27 | 29 | 27 | 
 | 2023-01-26 | 29 | 27 | 
-| 2023-01-25 | 29 | 27 | 
 

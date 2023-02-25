@@ -1,10 +1,10 @@
 # clj-commons/etaoin - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 83
 
-★ Stars: 837
+★ Stars: 838
 
 [Open repository](https://github.com/clj-commons/etaoin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 838 | 83 | 
 | 2023-02-23 | 837 | 83 | 
 | 2023-02-22 | 835 | 83 | 
 | 2023-02-20 | 835 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 830 | 83 | 
 | 2023-01-28 | 830 | 83 | 
 | 2023-01-27 | 828 | 83 | 
-| 2023-01-26 | 828 | 83 | 
 

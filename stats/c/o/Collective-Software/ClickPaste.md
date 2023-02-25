@@ -1,8 +1,8 @@
 # Collective-Software/ClickPaste - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 238
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 238 | 17 | 
 | 2023-02-23 | 238 | 16 | 
 | 2023-02-22 | 238 | 16 | 
 | 2023-02-21 | 238 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 231 | 14 | 
 | 2023-01-27 | 231 | 14 | 
 | 2023-01-26 | 231 | 14 | 
-| 2023-01-25 | 231 | 14 | 
 

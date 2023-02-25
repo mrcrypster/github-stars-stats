@@ -1,10 +1,10 @@
 # lcvvvv/kscan - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 385
 
-★ Stars: 2596
+★ Stars: 2597
 
 [Open repository](https://github.com/lcvvvv/kscan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2597 | 385 | 
 | 2023-02-23 | 2596 | 385 | 
 | 2023-02-22 | 2592 | 384 | 
 | 2023-02-20 | 2589 | 384 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2524 | 374 | 
 | 2023-01-27 | 2523 | 374 | 
 | 2023-01-26 | 2519 | 374 | 
-| 2023-01-25 | 2518 | 374 | 
 

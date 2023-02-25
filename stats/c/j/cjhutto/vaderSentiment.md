@@ -1,10 +1,10 @@
 # cjhutto/vaderSentiment - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 941
+☋ Forks: 942
 
-★ Stars: 3873
+★ Stars: 3874
 
 [Open repository](https://github.com/cjhutto/vaderSentiment)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3874 | 942 | 
 | 2023-02-23 | 3873 | 941 | 
 | 2023-02-22 | 3872 | 941 | 
 | 2023-02-21 | 3872 | 941 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3844 | 932 | 
 | 2023-01-27 | 3843 | 931 | 
 | 2023-01-26 | 3841 | 930 | 
-| 2023-01-25 | 3840 | 930 | 
 

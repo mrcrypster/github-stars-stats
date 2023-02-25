@@ -1,10 +1,10 @@
 # simonbengtsson/airdash - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 268
+★ Stars: 269
 
 [Open repository](https://github.com/simonbengtsson/airdash)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 269 | 60 | 
 | 2023-02-23 | 268 | 59 | 
 | 2023-02-22 | 267 | 59 | 
 | 2023-02-21 | 267 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 252 | 55 | 
 | 2023-01-27 | 252 | 55 | 
 | 2023-01-26 | 252 | 55 | 
-| 2023-01-25 | 251 | 55 | 
 

@@ -1,6 +1,6 @@
 # GaloisInc/parameterized-utils - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 54 | 14 | 
 | 2023-02-23 | 54 | 14 | 
 | 2023-02-22 | 54 | 14 | 
 | 2023-02-21 | 54 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 55 | 14 | 
 | 2023-01-27 | 55 | 14 | 
 | 2023-01-26 | 55 | 14 | 
-| 2023-01-25 | 55 | 14 | 
 

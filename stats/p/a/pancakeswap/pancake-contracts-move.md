@@ -1,10 +1,10 @@
 # pancakeswap/pancake-contracts-move - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 36
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/pancakeswap/pancake-contracts-move)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 55 | 36 | 
 | 2023-02-23 | 53 | 36 | 
 | 2023-02-22 | 52 | 36 | 
 | 2023-02-20 | 51 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 45 | 32 | 
 | 2023-01-27 | 45 | 32 | 
 | 2023-01-26 | 45 | 32 | 
-| 2023-01-25 | 44 | 32 | 
 

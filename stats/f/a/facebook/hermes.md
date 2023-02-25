@@ -1,6 +1,6 @@
 # facebook/hermes - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 500
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 7721 | 500 | 
 | 2023-02-23 | 7721 | 500 | 
 | 2023-02-22 | 7720 | 500 | 
 | 2023-02-21 | 7717 | 500 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 7686 | 494 | 
 | 2023-01-27 | 7684 | 494 | 
 | 2023-01-26 | 7683 | 494 | 
-| 2023-01-25 | 7680 | 494 | 
 

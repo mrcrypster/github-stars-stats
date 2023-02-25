@@ -1,10 +1,10 @@
 # open-mmlab/mmrazor - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 169
 
-★ Stars: 950
+★ Stars: 952
 
 [Open repository](https://github.com/open-mmlab/mmrazor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 952 | 169 | 
 | 2023-02-22 | 950 | 169 | 
 | 2023-02-21 | 949 | 169 | 
 | 2023-02-20 | 945 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 925 | 161 | 
 | 2023-01-28 | 925 | 161 | 
 | 2023-01-27 | 925 | 161 | 
-| 2023-01-25 | 925 | 161 | 
 

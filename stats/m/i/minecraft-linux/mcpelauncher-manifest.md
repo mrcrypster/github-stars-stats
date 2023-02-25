@@ -1,6 +1,6 @@
 # minecraft-linux/mcpelauncher-manifest - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 636 | 85 | 
 | 2023-02-23 | 636 | 85 | 
 | 2023-02-22 | 635 | 84 | 
 | 2023-02-21 | 634 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 624 | 83 | 
 | 2023-01-27 | 623 | 83 | 
 | 2023-01-26 | 622 | 83 | 
-| 2023-01-25 | 622 | 83 | 
 

@@ -1,6 +1,6 @@
 # antariksh17/Reddit-wiki-programming - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1031 | 116 | 
 | 2023-02-23 | 1031 | 116 | 
 | 2023-02-22 | 1030 | 116 | 
 | 2023-02-21 | 1029 | 116 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1017 | 116 | 
 | 2023-01-28 | 1015 | 116 | 
 | 2023-01-27 | 1016 | 116 | 
-| 2023-01-25 | 1016 | 116 | 
 

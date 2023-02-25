@@ -1,10 +1,10 @@
 # ecmwf-ifs/fiat - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/ecmwf-ifs/fiat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 7 | 8 | 
 | 2023-02-23 | 6 | 8 | 
 | 2023-02-22 | 6 | 7 | 
 | 2023-02-21 | 6 | 7 | 

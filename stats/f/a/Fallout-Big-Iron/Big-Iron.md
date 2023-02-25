@@ -1,6 +1,6 @@
 # Fallout-Big-Iron/Big-Iron - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 26 | 
 | 2023-02-23 | 4 | 26 | 
 | 2023-02-22 | 3 | 25 | 
 | 2023-02-21 | 4 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 4 | 17 | 
 | 2023-01-27 | 4 | 17 | 
 | 2023-01-26 | 3 | 17 | 
-| 2023-01-25 | 3 | 16 | 
 

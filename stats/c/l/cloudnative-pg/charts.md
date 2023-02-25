@@ -1,10 +1,10 @@
 # cloudnative-pg/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 14
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/cloudnative-pg/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 27 | 14 | 
 | 2023-02-22 | 26 | 14 | 
 | 2023-02-21 | 26 | 14 | 
 | 2023-02-20 | 26 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 25 | 12 | 
 | 2023-01-27 | 25 | 12 | 
 | 2023-01-26 | 25 | 12 | 
-| 2023-01-25 | 23 | 10 | 
 

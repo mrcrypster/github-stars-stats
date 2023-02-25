@@ -1,10 +1,10 @@
 # Checkmarx/capital - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 23
 
-★ Stars: 195
+★ Stars: 194
 
 [Open repository](https://github.com/Checkmarx/capital)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 194 | 23 | 
 | 2023-02-23 | 195 | 23 | 
 | 2023-02-22 | 194 | 23 | 
 | 2023-02-21 | 194 | 23 | 

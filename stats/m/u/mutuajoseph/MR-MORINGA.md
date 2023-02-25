@@ -1,6 +1,6 @@
 # mutuajoseph/MR-MORINGA - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | 17 | 
 | 2023-02-23 | 1 | 17 | 
 | 2023-02-22 | 1 | 17 | 
 | 2023-02-21 | 1 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1 | 17 | 
 | 2023-01-28 | 1 | 17 | 
 | 2023-01-27 | 1 | 17 | 
-| 2023-01-26 | 1 | 17 | 
 

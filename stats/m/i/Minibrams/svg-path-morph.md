@@ -1,10 +1,10 @@
 # Minibrams/svg-path-morph - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 14
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/Minibrams/svg-path-morph)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 666 | 14 | 
 | 2023-02-23 | 665 | 14 | 
 | 2023-02-22 | 665 | 14 | 
 | 2023-02-21 | 665 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 659 | 14 | 
 | 2023-01-27 | 658 | 14 | 
 | 2023-01-26 | 658 | 14 | 
-| 2023-01-25 | 658 | 14 | 
 

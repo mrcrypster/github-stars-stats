@@ -1,10 +1,10 @@
 # Foundation-19/F19-Fallout-13 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 4
 
 [Open repository](https://github.com/Foundation-19/F19-Fallout-13)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4 | 3 | 
 | 2023-02-23 | 2 | 3 | 
 | 2023-02-22 | 2 | 3 | 
 | 2023-02-21 | 2 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1 | 7 | 
 | 2023-01-27 | 1 | 7 | 
 | 2023-01-26 | 1 | 7 | 
-| 2023-01-25 | 1 | 7 | 
 

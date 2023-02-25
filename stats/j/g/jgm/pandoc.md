@@ -1,10 +1,10 @@
 # jgm/pandoc - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 3065
+☋ Forks: 3068
 
-★ Stars: 28034
+★ Stars: 28048
 
 [Open repository](https://github.com/jgm/pandoc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 28048 | 3068 | 
 | 2023-02-23 | 28034 | 3065 | 
 | 2023-02-22 | 28027 | 3064 | 
 | 2023-02-21 | 28009 | 3062 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 27767 | 3053 | 
 | 2023-01-27 | 27753 | 3050 | 
 | 2023-01-26 | 27740 | 3050 | 
-| 2023-01-25 | 27693 | 3048 | 
 

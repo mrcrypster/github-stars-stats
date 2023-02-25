@@ -1,6 +1,6 @@
 # qmhc/vexip-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 521 | 71 | 
 | 2023-02-22 | 521 | 71 | 
 | 2023-02-21 | 521 | 70 | 
 | 2023-02-20 | 521 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 500 | 67 | 
 | 2023-01-28 | 499 | 67 | 
 | 2023-01-27 | 498 | 67 | 
-| 2023-01-26 | 496 | 67 | 
 

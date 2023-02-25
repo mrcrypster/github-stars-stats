@@ -1,10 +1,10 @@
 # ConsenSys-Academy/Blockchain-Developer-Bootcamp - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 359
 
-★ Stars: 445
+★ Stars: 446
 
 [Open repository](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 446 | 359 | 
 | 2023-02-22 | 445 | 359 | 
 | 2023-02-21 | 444 | 359 | 
 | 2023-02-20 | 444 | 359 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 438 | 353 | 
 | 2023-01-28 | 437 | 352 | 
 | 2023-01-27 | 437 | 352 | 
-| 2023-01-25 | 437 | 352 | 
 

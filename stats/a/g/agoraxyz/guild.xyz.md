@@ -1,10 +1,10 @@
 # agoraxyz/guild.xyz - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 1957
+★ Stars: 1959
 
 [Open repository](https://github.com/agoraxyz/guild.xyz)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1959 | 148 | 
 | 2023-02-23 | 1957 | 147 | 
 | 2023-02-22 | 1957 | 146 | 
 | 2023-02-21 | 1955 | 146 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1918 | 139 | 
 | 2023-01-27 | 1916 | 139 | 
 | 2023-01-26 | 1917 | 139 | 
-| 2023-01-25 | 1914 | 139 | 
 

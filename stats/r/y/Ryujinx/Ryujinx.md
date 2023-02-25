@@ -1,10 +1,10 @@
 # Ryujinx/Ryujinx - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 1824
+☋ Forks: 1825
 
-★ Stars: 16527
+★ Stars: 16540
 
 [Open repository](https://github.com/Ryujinx/Ryujinx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 16540 | 1825 | 
 | 2023-02-23 | 16527 | 1824 | 
 | 2023-02-22 | 16517 | 1824 | 
 | 2023-02-21 | 16502 | 1822 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 16176 | 1801 | 
 | 2023-01-27 | 16159 | 1801 | 
 | 2023-01-26 | 16150 | 1800 | 
-| 2023-01-25 | 16145 | 1797 | 
 

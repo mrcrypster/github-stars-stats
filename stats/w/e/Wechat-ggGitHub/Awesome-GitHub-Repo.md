@@ -1,10 +1,10 @@
 # Wechat-ggGitHub/Awesome-GitHub-Repo - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 1124
+☋ Forks: 1125
 
-★ Stars: 9692
+★ Stars: 9705
 
 [Open repository](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 9705 | 1125 | 
 | 2023-02-23 | 9692 | 1124 | 
 | 2023-02-22 | 9681 | 1123 | 
 | 2023-02-21 | 9671 | 1123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9373 | 1089 | 
 | 2023-01-27 | 9350 | 1086 | 
 | 2023-01-26 | 9344 | 1086 | 
-| 2023-01-25 | 9343 | 1086 | 
 

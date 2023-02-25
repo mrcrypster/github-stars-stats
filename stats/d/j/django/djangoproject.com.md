@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 835
 
-★ Stars: 1698
+★ Stars: 1699
 
 [Open repository](https://github.com/django/djangoproject.com)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 1698 | 835 | 
+| 2023-02-24 | 1699 | 835 | 
 | 2023-02-22 | 1696 | 834 | 
 | 2023-02-21 | 1695 | 834 | 
 | 2023-02-20 | 1696 | 833 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 1689 | 828 | 
 | 2023-01-27 | 1689 | 828 | 
 | 2023-01-26 | 1688 | 828 | 
-| 2023-01-25 | 1687 | 828 | 
 

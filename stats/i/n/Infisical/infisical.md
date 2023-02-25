@@ -1,10 +1,10 @@
 # Infisical/infisical - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 149
 
-★ Stars: 4208
+★ Stars: 4226
 
 [Open repository](https://github.com/Infisical/infisical)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 4226 | 149 | 
 | 2023-02-23 | 4208 | 149 | 
 | 2023-02-22 | 4200 | 146 | 
 | 2023-02-21 | 4181 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3640 | 109 | 
 | 2023-01-27 | 3616 | 106 | 
 | 2023-01-26 | 3581 | 105 | 
-| 2023-01-25 | 3512 | 104 | 
 

@@ -1,6 +1,6 @@
 # leancodepl/patrol - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 309 | 31 | 
 | 2023-02-23 | 309 | 31 | 
 | 2023-02-21 | 306 | 31 | 
 | 2023-02-20 | 291 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 271 | 26 | 
 | 2023-01-28 | 271 | 26 | 
 | 2023-01-26 | 270 | 26 | 
-| 2023-01-25 | 268 | 25 | 
 

@@ -1,6 +1,6 @@
 # MadAppGang/httplog - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 116 | 3 | 
 | 2023-02-23 | 116 | 3 | 
 | 2023-02-22 | 116 | 3 | 
 | 2023-02-20 | 116 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 116 | 3 | 
 | 2023-01-27 | 115 | 3 | 
 | 2023-01-26 | 114 | 3 | 
-| 2023-01-25 | 113 | 3 | 
 

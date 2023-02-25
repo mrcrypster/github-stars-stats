@@ -1,10 +1,10 @@
 # react-native-datetimepicker/datetimepicker - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 315
 
-★ Stars: 1933
+★ Stars: 1934
 
 [Open repository](https://github.com/react-native-datetimepicker/datetimepicker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1934 | 315 | 
 | 2023-02-23 | 1933 | 315 | 
 | 2023-02-21 | 1932 | 316 | 
 | 2023-02-20 | 1932 | 316 | 

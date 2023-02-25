@@ -1,10 +1,10 @@
 # trekhleb/javascript-algorithms - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 27056
+☋ Forks: 27066
 
-★ Stars: 163744
+★ Stars: 163783
 
 [Open repository](https://github.com/trekhleb/javascript-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 163783 | 27066 | 
 | 2023-02-23 | 163744 | 27056 | 
 | 2023-02-22 | 163663 | 27038 | 
 | 2023-02-21 | 163594 | 27020 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 161649 | 26737 | 
 | 2023-01-27 | 161548 | 26725 | 
 | 2023-01-26 | 161327 | 26692 | 
-| 2023-01-25 | 160854 | 26616 | 
 

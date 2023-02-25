@@ -1,10 +1,10 @@
 # samratashok/ADModule - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 164
 
-★ Stars: 627
+★ Stars: 628
 
 [Open repository](https://github.com/samratashok/ADModule)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 628 | 164 | 
 | 2023-02-23 | 627 | 164 | 
 | 2023-02-22 | 627 | 164 | 
 | 2023-02-21 | 627 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 611 | 161 | 
 | 2023-01-27 | 610 | 161 | 
 | 2023-01-26 | 604 | 161 | 
-| 2023-01-25 | 600 | 161 | 
 

@@ -1,6 +1,6 @@
 # ericblue/Perl-Belkin-WeMo-API - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 42 | 11 | 
 | 2023-02-23 | 42 | 11 | 
 | 2023-02-22 | 42 | 11 | 
 | 2023-02-21 | 42 | 11 | 

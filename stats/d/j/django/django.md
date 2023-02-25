@@ -1,10 +1,10 @@
 # django/django - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 28686
+☋ Forks: 28696
 
-★ Stars: 68937
+★ Stars: 68956
 
 [Open repository](https://github.com/django/django)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 68956 | 28696 | 
 | 2023-02-23 | 68937 | 28686 | 
 | 2023-02-22 | 68921 | 28681 | 
 | 2023-02-21 | 68895 | 28669 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 68419 | 28511 | 
 | 2023-01-27 | 68407 | 28509 | 
 | 2023-01-26 | 68377 | 28500 | 
-| 2023-01-25 | 68361 | 28493 | 
 

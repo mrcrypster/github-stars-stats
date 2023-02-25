@@ -1,6 +1,6 @@
 # baum1810/fixed-token-grabber - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 59 | 46 | 
 | 2023-02-23 | 59 | 46 | 
 | 2023-02-21 | 59 | 46 | 
 | 2023-02-20 | 59 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 58 | 44 | 
 | 2023-01-27 | 58 | 44 | 
 | 2023-01-26 | 58 | 44 | 
-| 2023-01-25 | 58 | 44 | 
 

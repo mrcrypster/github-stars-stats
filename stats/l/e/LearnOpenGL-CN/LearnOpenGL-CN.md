@@ -1,10 +1,10 @@
 # LearnOpenGL-CN/LearnOpenGL-CN - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 982
 
-★ Stars: 4664
+★ Stars: 4668
 
 [Open repository](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 4668 | 982 | 
 | 2023-02-23 | 4664 | 982 | 
 | 2023-02-22 | 4663 | 982 | 
 | 2023-02-20 | 4660 | 982 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 4611 | 975 | 
 | 2023-01-28 | 4609 | 974 | 
 | 2023-01-27 | 4608 | 974 | 
-| 2023-01-26 | 4607 | 974 | 
 

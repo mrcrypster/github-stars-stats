@@ -1,6 +1,6 @@
 # linuxdeepin/deepin-music - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 175 | 84 | 
 | 2023-02-23 | 175 | 84 | 
 | 2023-02-22 | 175 | 84 | 
 | 2023-02-21 | 174 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 173 | 84 | 
 | 2023-01-28 | 174 | 84 | 
 | 2023-01-27 | 174 | 84 | 
-| 2023-01-26 | 174 | 84 | 
 

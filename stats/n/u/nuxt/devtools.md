@@ -1,10 +1,10 @@
 # nuxt/devtools - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 34
 
-★ Stars: 1155
+★ Stars: 1164
 
 [Open repository](https://github.com/nuxt/devtools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1164 | 34 | 
 | 2023-02-23 | 1155 | 34 | 
 | 2023-02-21 | 1147 | 34 | 
 | 2023-02-20 | 1132 | 33 | 

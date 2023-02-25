@@ -1,10 +1,10 @@
 # guzzle/guzzle - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2366
 
-★ Stars: 22368
+★ Stars: 22374
 
 [Open repository](https://github.com/guzzle/guzzle)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 22374 | 2366 | 
 | 2023-02-23 | 22368 | 2366 | 
 | 2023-02-22 | 22368 | 2366 | 
 | 2023-02-21 | 22369 | 2366 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 22326 | 2359 | 
 | 2023-01-27 | 22323 | 2359 | 
 | 2023-01-26 | 22322 | 2360 | 
-| 2023-01-25 | 22319 | 2361 | 
 

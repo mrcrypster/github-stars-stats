@@ -1,10 +1,10 @@
 # junyanz/pytorch-CycleGAN-and-pix2pix - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 5688
+☋ Forks: 5692
 
-★ Stars: 19247
+★ Stars: 19259
 
 [Open repository](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 19259 | 5692 | 
 | 2023-02-23 | 19247 | 5688 | 
 | 2023-02-22 | 19238 | 5686 | 
 | 2023-02-21 | 19227 | 5685 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 19090 | 5651 | 
 | 2023-01-27 | 19087 | 5649 | 
 | 2023-01-26 | 19081 | 5649 | 
-| 2023-01-25 | 19077 | 5648 | 
 

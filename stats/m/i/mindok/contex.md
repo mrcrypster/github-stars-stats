@@ -1,6 +1,6 @@
 # mindok/contex - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 530 | 35 | 
 | 2023-02-22 | 530 | 35 | 
 | 2023-02-21 | 530 | 35 | 
 | 2023-02-20 | 529 | 35 | 

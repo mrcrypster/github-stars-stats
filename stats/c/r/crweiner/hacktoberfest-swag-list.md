@@ -1,6 +1,6 @@
 # crweiner/hacktoberfest-swag-list - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 520
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1435 | 520 | 
 | 2023-02-23 | 1435 | 520 | 
 | 2023-02-22 | 1435 | 520 | 
 | 2023-02-21 | 1435 | 520 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 1439 | 520 | 
 | 2023-01-28 | 1439 | 520 | 
 | 2023-01-26 | 1439 | 520 | 
-| 2023-01-25 | 1438 | 520 | 
 

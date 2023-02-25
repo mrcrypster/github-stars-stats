@@ -1,10 +1,10 @@
 # sbaliyun/chatgpt-html - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 134
 
-★ Stars: 228
+★ Stars: 232
 
 [Open repository](https://github.com/sbaliyun/chatgpt-html)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 232 | 134 | 
 | 2023-02-23 | 228 | 134 | 
 | 2023-02-22 | 226 | 133 | 
 | 2023-02-21 | 222 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 75 | 54 | 
 | 2023-01-27 | 74 | 54 | 
 | 2023-01-26 | 73 | 54 | 
-| 2023-01-25 | 73 | 54 | 
 

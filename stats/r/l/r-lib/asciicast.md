@@ -1,8 +1,8 @@
 # r-lib/asciicast - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 11
+☋ Forks: 10
 
 ★ Stars: 201
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 201 | 10 | 
 | 2023-02-23 | 201 | 11 | 
 | 2023-02-22 | 201 | 11 | 
 | 2023-02-21 | 201 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 200 | 11 | 
 | 2023-01-27 | 200 | 10 | 
 | 2023-01-26 | 200 | 10 | 
-| 2023-01-25 | 200 | 10 | 
 

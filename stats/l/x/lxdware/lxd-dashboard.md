@@ -1,6 +1,6 @@
 # lxdware/lxd-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 180 | 23 | 
 | 2023-02-23 | 180 | 23 | 
 | 2023-02-22 | 179 | 23 | 
 | 2023-02-21 | 179 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 173 | 21 | 
 | 2023-01-27 | 172 | 21 | 
 | 2023-01-26 | 171 | 21 | 
-| 2023-01-25 | 171 | 21 | 
 

@@ -1,6 +1,6 @@
 # IndrajeetPatil/ggstatsplot - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1655 | 170 | 
 | 2023-02-24 | 1655 | 170 | 
 | 2023-02-22 | 1656 | 170 | 
 | 2023-02-21 | 1654 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 1639 | 171 | 
 | 2023-01-27 | 1638 | 171 | 
 | 2023-01-26 | 1638 | 171 | 
-| 2023-01-25 | 1637 | 171 | 
 

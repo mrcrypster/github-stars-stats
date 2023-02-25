@@ -1,6 +1,6 @@
 # martandsingh/ApacheSpark - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 70 | 46 | 
 | 2023-02-23 | 70 | 46 | 
 | 2023-02-21 | 70 | 46 | 
 | 2023-02-20 | 69 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 69 | 46 | 
 | 2023-01-27 | 69 | 46 | 
 | 2023-01-26 | 69 | 46 | 
-| 2023-01-25 | 69 | 46 | 
 

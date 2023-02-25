@@ -1,10 +1,10 @@
 # the-pudding/svelte-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 30
 
-★ Stars: 239
+★ Stars: 241
 
 [Open repository](https://github.com/the-pudding/svelte-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 241 | 30 | 
 | 2023-02-23 | 239 | 30 | 
 | 2023-02-22 | 239 | 30 | 
 | 2023-02-21 | 239 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 233 | 31 | 
 | 2023-01-27 | 233 | 30 | 
 | 2023-01-26 | 233 | 30 | 
-| 2023-01-25 | 233 | 30 | 
 

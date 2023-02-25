@@ -1,6 +1,6 @@
 # bambosan/BSBE-Lite - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 22 | 5 | 
 | 2023-02-22 | 22 | 5 | 
 | 2023-02-21 | 22 | 5 | 
 | 2023-02-20 | 22 | 5 | 

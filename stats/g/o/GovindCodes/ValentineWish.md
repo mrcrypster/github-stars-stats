@@ -1,6 +1,6 @@
 # GovindCodes/ValentineWish - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 52 | 106 | 
 | 2023-02-23 | 52 | 106 | 
 | 2023-02-22 | 53 | 107 | 
 | 2023-02-21 | 53 | 108 | 

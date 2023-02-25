@@ -1,10 +1,10 @@
 # MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 3284
+☋ Forks: 3286
 
-★ Stars: 2491
+★ Stars: 2495
 
 [Open repository](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2495 | 3286 | 
 | 2023-02-23 | 2491 | 3284 | 
 | 2023-02-22 | 2491 | 3282 | 
 | 2023-02-21 | 2487 | 3278 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2433 | 3217 | 
 | 2023-01-27 | 2429 | 3213 | 
 | 2023-01-26 | 2428 | 3212 | 
-| 2023-01-25 | 2427 | 3211 | 
 

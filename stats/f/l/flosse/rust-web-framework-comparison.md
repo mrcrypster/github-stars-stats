@@ -1,10 +1,10 @@
 # flosse/rust-web-framework-comparison - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 163
 
-★ Stars: 3738
+★ Stars: 3740
 
 [Open repository](https://github.com/flosse/rust-web-framework-comparison)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3740 | 163 | 
 | 2023-02-23 | 3738 | 163 | 
 | 2023-02-22 | 3733 | 163 | 
 | 2023-02-21 | 3728 | 162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3677 | 161 | 
 | 2023-01-27 | 3675 | 161 | 
 | 2023-01-26 | 3672 | 161 | 
-| 2023-01-25 | 3669 | 161 | 
 

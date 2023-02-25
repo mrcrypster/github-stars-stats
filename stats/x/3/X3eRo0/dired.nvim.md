@@ -1,6 +1,6 @@
 # X3eRo0/dired.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 88 | - | 
 | 2023-02-23 | 88 | - | 
 | 2023-02-21 | 88 | - | 
 | 2023-02-20 | 87 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 83 | - | 
 | 2023-01-28 | 83 | - | 
 | 2023-01-27 | 83 | - | 
-| 2023-01-26 | 83 | - | 
 

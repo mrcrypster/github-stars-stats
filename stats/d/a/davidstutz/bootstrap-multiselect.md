@@ -1,6 +1,6 @@
 # davidstutz/bootstrap-multiselect - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2012
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3612 | 2012 | 
 | 2023-02-23 | 3612 | 2012 | 
 | 2023-02-22 | 3612 | 2014 | 
 | 2023-02-21 | 3612 | 2014 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 3606 | 2008 | 
 | 2023-01-28 | 3606 | 2008 | 
 | 2023-01-27 | 3606 | 2008 | 
-| 2023-01-25 | 3606 | 2007 | 
 

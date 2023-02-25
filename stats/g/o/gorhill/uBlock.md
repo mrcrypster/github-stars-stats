@@ -1,10 +1,10 @@
 # gorhill/uBlock - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2621
 
-★ Stars: 34541
+★ Stars: 34556
 
 [Open repository](https://github.com/gorhill/uBlock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 34556 | 2621 | 
 | 2023-02-23 | 34541 | 2621 | 
 | 2023-02-22 | 34533 | 2620 | 
 | 2023-02-20 | 34511 | 2619 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 34174 | 2602 | 
 | 2023-01-28 | 34167 | 2601 | 
 | 2023-01-27 | 34154 | 2602 | 
-| 2023-01-26 | 34133 | 2603 | 
 

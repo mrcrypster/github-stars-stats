@@ -1,6 +1,6 @@
 # bld/bld-orbit - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1 | 1 | 
 | 2023-02-22 | 1 | 1 | 
 | 2023-02-21 | 1 | 1 | 
 | 2023-02-20 | 1 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 1 | 1 | 
 | 2023-01-28 | 1 | 1 | 
 | 2023-01-26 | 1 | 1 | 
-| 2023-01-25 | 1 | 1 | 
 

@@ -1,6 +1,6 @@
 # OPAE/ofs-platform-afu-bbb - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 11 | 5 | 
 | 2023-02-23 | 11 | 5 | 
 | 2023-02-22 | 11 | 5 | 
 | 2023-02-20 | 11 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 11 | 4 | 
 | 2023-01-27 | 11 | 4 | 
 | 2023-01-26 | 11 | 4 | 
-| 2023-01-25 | 11 | 4 | 
 

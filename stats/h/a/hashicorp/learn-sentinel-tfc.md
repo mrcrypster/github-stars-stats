@@ -1,6 +1,6 @@
 # hashicorp/learn-sentinel-tfc - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 313
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 4 | 313 | 
 | 2023-02-23 | 4 | 313 | 
 | 2023-02-22 | 4 | 313 | 
 | 2023-02-21 | 4 | 312 | 

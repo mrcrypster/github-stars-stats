@@ -1,10 +1,10 @@
 # JuliaNeuralGraphics/Nerf.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/JuliaNeuralGraphics/Nerf.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 67 | - | 
 | 2023-02-23 | 66 | - | 
 | 2023-02-21 | 66 | - | 
 | 2023-02-20 | 65 | - | 

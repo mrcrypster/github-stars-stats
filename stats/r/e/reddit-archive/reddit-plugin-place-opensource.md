@@ -1,10 +1,10 @@
 # reddit-archive/reddit-plugin-place-opensource - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 88
 
-★ Stars: 977
+★ Stars: 978
 
 [Open repository](https://github.com/reddit-archive/reddit-plugin-place-opensource)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 978 | 88 | 
 | 2023-02-23 | 977 | 88 | 
 | 2023-02-22 | 976 | 88 | 
 | 2023-02-21 | 976 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 975 | 89 | 
 | 2023-01-27 | 975 | 89 | 
 | 2023-01-26 | 975 | 89 | 
-| 2023-01-25 | 975 | 89 | 
 

@@ -1,6 +1,6 @@
 # giantswarm/grafana-app - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3 | 3 | 
 | 2023-02-23 | 3 | 3 | 
 | 2023-02-22 | 3 | 3 | 
 | 2023-02-21 | 3 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3 | 3 | 
 | 2023-01-27 | 3 | 3 | 
 | 2023-01-26 | 3 | 3 | 
-| 2023-01-25 | 3 | 3 | 
 

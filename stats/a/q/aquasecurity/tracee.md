@@ -1,10 +1,10 @@
 # aquasecurity/tracee - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 296
 
-★ Stars: 2505
+★ Stars: 2510
 
 [Open repository](https://github.com/aquasecurity/tracee)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2510 | 296 | 
 | 2023-02-23 | 2505 | 296 | 
 | 2023-02-22 | 2501 | 297 | 
 | 2023-02-21 | 2500 | 296 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2441 | 293 | 
 | 2023-01-27 | 2436 | 293 | 
 | 2023-01-26 | 2432 | 293 | 
-| 2023-01-25 | 2431 | 293 | 
 

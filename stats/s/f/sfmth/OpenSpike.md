@@ -1,10 +1,10 @@
 # sfmth/OpenSpike - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 8
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/sfmth/OpenSpike)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 58 | 8 | 
 | 2023-02-23 | 57 | 8 | 
 | 2023-02-21 | 57 | 8 | 
 | 2023-02-20 | 57 | 8 | 

@@ -1,6 +1,6 @@
 # ry/tinyclouds - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 233 | 47 | 
 | 2023-02-23 | 233 | 47 | 
 | 2023-02-21 | 233 | 47 | 
 | 2023-02-20 | 232 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 227 | 48 | 
 | 2023-01-27 | 226 | 48 | 
 | 2023-01-26 | 226 | 48 | 
-| 2023-01-25 | 226 | 48 | 
 

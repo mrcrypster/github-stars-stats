@@ -1,10 +1,10 @@
 # skills/hello-github-actions - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 114
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/skills/hello-github-actions)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 207 | 114 | 
 | 2023-02-23 | 206 | 114 | 
 | 2023-02-22 | 206 | 114 | 
 | 2023-02-21 | 206 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 199 | 105 | 
 | 2023-01-27 | 198 | 103 | 
 | 2023-01-26 | 198 | 103 | 
-| 2023-01-25 | 198 | 102 | 
 

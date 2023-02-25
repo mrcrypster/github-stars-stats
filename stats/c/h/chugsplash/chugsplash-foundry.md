@@ -1,10 +1,10 @@
 # chugsplash/chugsplash-foundry - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/chugsplash/chugsplash-foundry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 97 | 2 | 
 | 2023-02-23 | 96 | 2 | 
 | 2023-02-22 | 96 | 2 | 
 | 2023-02-20 | 96 | 2 | 

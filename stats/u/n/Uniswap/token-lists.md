@@ -1,10 +1,10 @@
 # Uniswap/token-lists - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 671
+☋ Forks: 672
 
-★ Stars: 922
+★ Stars: 923
 
 [Open repository](https://github.com/Uniswap/token-lists)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 923 | 672 | 
 | 2023-02-23 | 922 | 671 | 
 | 2023-02-22 | 923 | 665 | 
 | 2023-02-21 | 921 | 663 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 886 | 617 | 
 | 2023-01-27 | 883 | 618 | 
 | 2023-01-26 | 882 | 616 | 
-| 2023-01-25 | 881 | 616 | 
 

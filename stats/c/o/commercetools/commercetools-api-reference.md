@@ -1,6 +1,6 @@
 # commercetools/commercetools-api-reference - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 46 | 21 | 
 | 2023-02-23 | 46 | 21 | 
 | 2023-02-22 | 46 | 21 | 
 | 2023-02-21 | 46 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 46 | 20 | 
 | 2023-01-28 | 46 | 20 | 
 | 2023-01-27 | 46 | 20 | 
-| 2023-01-25 | 46 | 20 | 
 

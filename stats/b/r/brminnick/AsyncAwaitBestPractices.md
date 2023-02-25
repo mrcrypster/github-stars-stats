@@ -1,6 +1,6 @@
 # brminnick/AsyncAwaitBestPractices - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1229 | 130 | 
 | 2023-02-23 | 1229 | 130 | 
 | 2023-02-22 | 1225 | 130 | 
 | 2023-02-21 | 1224 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1211 | 129 | 
 | 2023-01-27 | 1211 | 129 | 
 | 2023-01-26 | 1211 | 129 | 
-| 2023-01-25 | 1211 | 129 | 
 

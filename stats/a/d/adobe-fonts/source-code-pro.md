@@ -1,6 +1,6 @@
 # adobe-fonts/source-code-pro - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1635
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 18749 | 1635 | 
 | 2023-02-23 | 18749 | 1635 | 
 | 2023-02-22 | 18745 | 1634 | 
 | 2023-02-21 | 18745 | 1634 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 18715 | 1630 | 
 | 2023-01-27 | 18714 | 1629 | 
 | 2023-01-26 | 18712 | 1629 | 
-| 2023-01-25 | 18710 | 1630 | 
 

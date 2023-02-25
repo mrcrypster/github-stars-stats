@@ -1,10 +1,10 @@
 # gto76/python-cheatsheet - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 5780
+☋ Forks: 5783
 
-★ Stars: 31738
+★ Stars: 31746
 
 [Open repository](https://github.com/gto76/python-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 31746 | 5783 | 
 | 2023-02-23 | 31738 | 5780 | 
 | 2023-02-22 | 31738 | 5777 | 
 | 2023-02-21 | 31729 | 5775 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 31561 | 5726 | 
 | 2023-01-27 | 31553 | 5727 | 
 | 2023-01-26 | 31544 | 5726 | 
-| 2023-01-25 | 31538 | 5726 | 
 

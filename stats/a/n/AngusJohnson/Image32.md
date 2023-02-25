@@ -1,6 +1,6 @@
 # AngusJohnson/Image32 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 59 | 15 | 
 | 2023-02-23 | 59 | 15 | 
 | 2023-02-22 | 59 | 14 | 
 | 2023-02-21 | 59 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 54 | 13 | 
 | 2023-01-28 | 54 | 13 | 
 | 2023-01-27 | 53 | 13 | 
-| 2023-01-26 | 53 | 13 | 
 

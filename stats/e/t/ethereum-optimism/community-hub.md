@@ -1,8 +1,8 @@
 # ethereum-optimism/community-hub - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 172
+☋ Forks: 174
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 85 | 174 | 
 | 2023-02-23 | 85 | 172 | 
 | 2023-02-22 | 84 | 169 | 
 | 2023-02-21 | 83 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 74 | 152 | 
 | 2023-01-27 | 74 | 152 | 
 | 2023-01-26 | 75 | 151 | 
-| 2023-01-25 | 74 | 150 | 
 

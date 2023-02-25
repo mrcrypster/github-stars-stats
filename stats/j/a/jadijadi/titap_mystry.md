@@ -1,10 +1,10 @@
 # jadijadi/titap_mystry - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 151
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/jadijadi/titap_mystry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 155 | 151 | 
 | 2023-02-23 | 154 | 151 | 
 | 2023-02-22 | 152 | 151 | 
 | 2023-02-21 | 152 | 151 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 148 | 145 | 
 | 2023-01-27 | 148 | 145 | 
 | 2023-01-26 | 147 | 145 | 
-| 2023-01-25 | 147 | 144 | 
 

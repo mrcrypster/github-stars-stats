@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 53
 
-★ Stars: 1985
+★ Stars: 1986
 
 [Open repository](https://github.com/comby-tools/comby)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 1985 | 53 | 
+| 2023-02-24 | 1986 | 53 | 
 | 2023-02-23 | 1985 | 52 | 
 | 2023-02-22 | 1980 | 52 | 
 | 2023-02-21 | 1978 | 52 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1958 | 52 | 
 | 2023-01-28 | 1958 | 52 | 
 | 2023-01-27 | 1957 | 52 | 
-| 2023-01-25 | 1957 | 52 | 
 

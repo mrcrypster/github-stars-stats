@@ -1,10 +1,10 @@
 # vitorgalvao/custom-alfred-iterm-scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 452
 
-★ Stars: 3438
+★ Stars: 3436
 
 [Open repository](https://github.com/vitorgalvao/custom-alfred-iterm-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3436 | 452 | 
 | 2023-02-23 | 3438 | 452 | 
 | 2023-02-22 | 3436 | 453 | 
 | 2023-02-21 | 3436 | 453 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3419 | 450 | 
 | 2023-01-27 | 3419 | 450 | 
 | 2023-01-26 | 3417 | 450 | 
-| 2023-01-25 | 3417 | 450 | 
 

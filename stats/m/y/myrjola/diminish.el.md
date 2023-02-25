@@ -1,6 +1,6 @@
 # myrjola/diminish.el - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 166 | 14 | 
 | 2023-02-23 | 166 | 14 | 
 | 2023-02-22 | 166 | 14 | 
 | 2023-02-21 | 166 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 165 | 14 | 
 | 2023-01-28 | 165 | 14 | 
 | 2023-01-27 | 165 | 14 | 
-| 2023-01-26 | 165 | 14 | 
 

@@ -1,10 +1,10 @@
 # aserowy/tmux.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 18
 
-★ Stars: 356
+★ Stars: 357
 
 [Open repository](https://github.com/aserowy/tmux.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 357 | 18 | 
 | 2023-02-23 | 356 | 18 | 
 | 2023-02-22 | 354 | 18 | 
 | 2023-02-21 | 354 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 338 | 17 | 
 | 2023-01-27 | 338 | 17 | 
 | 2023-01-26 | 335 | 17 | 
-| 2023-01-25 | 335 | 17 | 
 

@@ -1,6 +1,6 @@
 # lilydjwg/colorizer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 334 | 24 | 
 | 2023-02-23 | 334 | 24 | 
 | 2023-02-22 | 333 | 24 | 
 | 2023-02-21 | 333 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 332 | 24 | 
 | 2023-01-27 | 332 | 24 | 
 | 2023-01-26 | 332 | 24 | 
-| 2023-01-25 | 332 | 24 | 
 

@@ -1,10 +1,10 @@
 # travistangvh/ChatGPT-Data-Science-Prompts - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 46
+☋ Forks: 48
 
-★ Stars: 232
+★ Stars: 236
 
 [Open repository](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 236 | 48 | 
 | 2023-02-23 | 232 | 46 | 
 | 2023-02-22 | 227 | 46 | 
 | 2023-02-21 | 221 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 98 | 27 | 
 | 2023-01-27 | 96 | 25 | 
 | 2023-01-26 | 93 | 22 | 
-| 2023-01-25 | 91 | 20 | 
 

@@ -1,6 +1,6 @@
 # Naresh240/terraform-interview-task - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | - | 9 | 
 | 2023-02-23 | - | 9 | 
 | 2023-02-22 | - | 9 | 
 | 2023-02-21 | - | 9 | 

@@ -1,10 +1,10 @@
 # MiSTer-devel/PSX_MiSTer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 41
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/MiSTer-devel/PSX_MiSTer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 150 | 41 | 
 | 2023-02-23 | 149 | 41 | 
 | 2023-02-22 | 149 | 41 | 
 | 2023-02-21 | 149 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 145 | 40 | 
 | 2023-01-27 | 145 | 40 | 
 | 2023-01-26 | 145 | 40 | 
-| 2023-01-25 | 145 | 40 | 
 

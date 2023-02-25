@@ -1,10 +1,10 @@
 # knuckleswtf/scribe - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 181
 
-★ Stars: 1070
+★ Stars: 1071
 
 [Open repository](https://github.com/knuckleswtf/scribe)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1071 | 181 | 
 | 2023-02-23 | 1070 | 181 | 
 | 2023-02-22 | 1070 | 181 | 
 | 2023-02-21 | 1069 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1028 | 176 | 
 | 2023-01-27 | 1028 | 175 | 
 | 2023-01-26 | 1027 | 175 | 
-| 2023-01-25 | 1025 | 174 | 
 

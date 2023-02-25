@@ -1,10 +1,10 @@
 # hotwired/turbo-ios - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 61
 
-★ Stars: 551
+★ Stars: 552
 
 [Open repository](https://github.com/hotwired/turbo-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 552 | 61 | 
 | 2023-02-23 | 551 | 61 | 
 | 2023-02-21 | 551 | 61 | 
 | 2023-02-20 | 550 | 61 | 

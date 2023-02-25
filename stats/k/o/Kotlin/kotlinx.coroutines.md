@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 1712
 
-★ Stars: 11694
+★ Stars: 11695
 
 [Open repository](https://github.com/Kotlin/kotlinx.coroutines)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 11694 | 1712 | 
+| 2023-02-24 | 11695 | 1712 | 
 | 2023-02-23 | 11692 | 1712 | 
 | 2023-02-21 | 11688 | 1712 | 
 | 2023-02-20 | 11686 | 1711 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 11598 | 1700 | 
 | 2023-01-27 | 11596 | 1699 | 
 | 2023-01-26 | 11595 | 1699 | 
-| 2023-01-25 | 11591 | 1698 | 
 

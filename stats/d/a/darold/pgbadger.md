@@ -1,6 +1,6 @@
 # darold/pgbadger - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2914 | 310 | 
 | 2023-02-23 | 2914 | 310 | 
 | 2023-02-22 | 2912 | 310 | 
 | 2023-02-21 | 2912 | 311 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2891 | 309 | 
 | 2023-01-27 | 2889 | 309 | 
 | 2023-01-26 | 2889 | 309 | 
-| 2023-01-25 | 2887 | 309 | 
 

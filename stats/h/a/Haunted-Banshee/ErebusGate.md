@@ -1,6 +1,6 @@
 # Haunted-Banshee/ErebusGate - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 147 | 13 | 
 | 2023-02-23 | 147 | 13 | 
 | 2023-02-21 | 146 | 13 | 
 | 2023-02-20 | 145 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 145 | 13 | 
 | 2023-01-28 | 145 | 13 | 
 | 2023-01-27 | 145 | 13 | 
-| 2023-01-26 | 145 | 13 | 
 

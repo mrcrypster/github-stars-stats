@@ -1,10 +1,10 @@
 # files-community/Files - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 1702
+☋ Forks: 1701
 
-★ Stars: 26331
+★ Stars: 26333
 
 [Open repository](https://github.com/files-community/Files)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 26333 | 1701 | 
 | 2023-02-23 | 26331 | 1702 | 
 | 2023-02-22 | 26309 | 1698 | 
 | 2023-02-21 | 26293 | 1697 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 26070 | 1668 | 
 | 2023-01-27 | 26063 | 1668 | 
 | 2023-01-26 | 26044 | 1666 | 
-| 2023-01-25 | 26033 | 1664 | 
 

@@ -1,6 +1,6 @@
 # devaslanphp/project-management - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 221 | 29 | 
 | 2023-02-23 | 221 | 29 | 
 | 2023-02-21 | 220 | 29 | 
 | 2023-02-20 | 219 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 194 | 20 | 
 | 2023-01-28 | 191 | 20 | 
 | 2023-01-27 | 190 | 19 | 
-| 2023-01-25 | 188 | 19 | 
 

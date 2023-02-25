@@ -1,8 +1,8 @@
 # influxdata/docs-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 217
+☋ Forks: 218
 
 ★ Stars: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 55 | 218 | 
 | 2023-02-23 | 55 | 217 | 
 | 2023-02-22 | 55 | 216 | 
 | 2023-02-21 | 55 | 216 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 54 | 212 | 
 | 2023-01-27 | 54 | 212 | 
 | 2023-01-26 | 54 | 212 | 
-| 2023-01-25 | 54 | 212 | 
 

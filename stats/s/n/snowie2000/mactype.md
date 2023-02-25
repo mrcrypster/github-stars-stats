@@ -1,8 +1,8 @@
 # snowie2000/mactype - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 414
+☋ Forks: 415
 
 ★ Stars: 8178
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 8178 | 415 | 
 | 2023-02-23 | 8178 | 414 | 
 | 2023-02-22 | 8167 | 414 | 
 | 2023-02-21 | 8160 | 414 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 8013 | 413 | 
 | 2023-01-27 | 8012 | 413 | 
 | 2023-01-26 | 8010 | 413 | 
-| 2023-01-25 | 8007 | 413 | 
 

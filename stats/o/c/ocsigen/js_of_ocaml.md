@@ -1,6 +1,6 @@
 # ocsigen/js_of_ocaml - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 818 | 170 | 
 | 2023-02-22 | 818 | 170 | 
 | 2023-02-21 | 817 | 170 | 
 | 2023-02-20 | 816 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 813 | 169 | 
 | 2023-01-28 | 813 | 169 | 
 | 2023-01-27 | 813 | 169 | 
-| 2023-01-25 | 812 | 168 | 
 

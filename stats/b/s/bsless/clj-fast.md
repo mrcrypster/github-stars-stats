@@ -1,6 +1,6 @@
 # bsless/clj-fast - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 213 | 1 | 
 | 2023-02-22 | 213 | 1 | 
 | 2023-02-21 | 213 | 1 | 
 | 2023-02-20 | 213 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 210 | 1 | 
 | 2023-01-27 | 210 | 1 | 
 | 2023-01-26 | 210 | 1 | 
-| 2023-01-25 | 210 | 1 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 215
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/Kamikaze94/WolfHUD)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 433 | 215 | 
+| 2023-02-24 | 434 | 215 | 
 | 2023-02-23 | 433 | 215 | 
 | 2023-02-22 | 433 | 215 | 
 | 2023-02-21 | 433 | 215 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 432 | 213 | 
 | 2023-01-27 | 432 | 213 | 
 | 2023-01-26 | 432 | 213 | 
-| 2023-01-25 | 432 | 213 | 
 

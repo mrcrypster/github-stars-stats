@@ -1,6 +1,6 @@
 # lucaong/cubdb - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 414 | 21 | 
 | 2023-02-23 | 414 | 21 | 
 | 2023-02-22 | 414 | 21 | 
 | 2023-02-20 | 414 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 403 | 20 | 
 | 2023-01-28 | 402 | 20 | 
 | 2023-01-26 | 400 | 20 | 
-| 2023-01-25 | 397 | 20 | 
 

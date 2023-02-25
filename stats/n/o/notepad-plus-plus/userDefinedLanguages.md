@@ -1,6 +1,6 @@
 # notepad-plus-plus/userDefinedLanguages - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 295
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 353 | 295 | 
 | 2023-02-23 | 353 | 295 | 
 | 2023-02-22 | 352 | 294 | 
 | 2023-02-21 | 351 | 294 | 

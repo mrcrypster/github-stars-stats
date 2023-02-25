@@ -1,10 +1,10 @@
 # rupa/z - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1154
 
-★ Stars: 15044
+★ Stars: 15047
 
 [Open repository](https://github.com/rupa/z)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 15047 | 1154 | 
 | 2023-02-23 | 15044 | 1154 | 
 | 2023-02-22 | 15039 | 1154 | 
 | 2023-02-21 | 15034 | 1153 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 14977 | 1147 | 
 | 2023-01-27 | 14968 | 1147 | 
 | 2023-01-26 | 14967 | 1147 | 
-| 2023-01-25 | 14965 | 1146 | 
 

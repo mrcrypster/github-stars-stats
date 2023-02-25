@@ -1,10 +1,10 @@
 # ossu/math - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 228
+☋ Forks: 229
 
-★ Stars: 2117
+★ Stars: 2118
 
 [Open repository](https://github.com/ossu/math)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2118 | 229 | 
 | 2023-02-23 | 2117 | 228 | 
 | 2023-02-22 | 2116 | 228 | 
 | 2023-02-21 | 2114 | 228 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 2026 | 218 | 
 | 2023-01-28 | 2023 | 218 | 
 | 2023-01-26 | 2020 | 218 | 
-| 2023-01-25 | 2020 | 218 | 
 

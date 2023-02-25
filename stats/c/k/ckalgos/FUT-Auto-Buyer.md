@@ -1,6 +1,6 @@
 # ckalgos/FUT-Auto-Buyer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 566 | 170 | 
 | 2023-02-23 | 566 | 170 | 
 | 2023-02-22 | 565 | 170 | 
 | 2023-02-21 | 565 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 549 | 168 | 
 | 2023-01-27 | 549 | 168 | 
 | 2023-01-26 | 548 | 168 | 
-| 2023-01-25 | 547 | 168 | 
 

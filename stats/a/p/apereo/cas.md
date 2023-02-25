@@ -1,6 +1,6 @@
 # apereo/cas - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3830
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 9973 | 3830 | 
 | 2023-02-23 | 9973 | 3830 | 
 | 2023-02-22 | 9971 | 3829 | 
 | 2023-02-21 | 9972 | 3829 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 9924 | 3823 | 
 | 2023-01-27 | 9921 | 3823 | 
 | 2023-01-26 | 9920 | 3822 | 
-| 2023-01-25 | 9919 | 3822 | 
 

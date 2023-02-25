@@ -1,6 +1,6 @@
 # spacemen3/PDP-1 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 77 | 2 | 
 | 2023-02-23 | 77 | 2 | 
 | 2023-02-22 | 77 | 2 | 
 | 2023-02-20 | 77 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 76 | 2 | 
 | 2023-01-27 | 76 | 2 | 
 | 2023-01-26 | 76 | 2 | 
-| 2023-01-25 | 76 | 2 | 
 

@@ -1,10 +1,10 @@
 # Toxblh/MTMR - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 204
 
-★ Stars: 3917
+★ Stars: 3918
 
 [Open repository](https://github.com/Toxblh/MTMR)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3918 | 204 | 
 | 2023-02-23 | 3917 | 204 | 
 | 2023-02-21 | 3916 | 204 | 
 | 2023-02-20 | 3912 | 204 | 

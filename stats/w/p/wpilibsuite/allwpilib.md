@@ -1,8 +1,8 @@
 # wpilibsuite/allwpilib - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 496
+☋ Forks: 495
 
 ★ Stars: 791
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 791 | 495 | 
 | 2023-02-23 | 791 | 496 | 
 | 2023-02-22 | 791 | 495 | 
 | 2023-02-21 | 788 | 494 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 765 | 473 | 
 | 2023-01-27 | 764 | 472 | 
 | 2023-01-26 | 764 | 472 | 
-| 2023-01-25 | 762 | 471 | 
 

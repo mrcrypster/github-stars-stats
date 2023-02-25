@@ -1,10 +1,10 @@
 # Not-Nik/raylib-zig - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 23
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/Not-Nik/raylib-zig)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 159 | 23 | 
 | 2023-02-23 | 158 | 23 | 
 | 2023-02-22 | 158 | 23 | 
 | 2023-02-21 | 158 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 153 | 23 | 
 | 2023-01-27 | 153 | 23 | 
 | 2023-01-26 | 153 | 22 | 
-| 2023-01-25 | 153 | 22 | 
 

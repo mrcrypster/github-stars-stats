@@ -1,10 +1,10 @@
 # epasveer/seer - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 43
 
-★ Stars: 1366
+★ Stars: 1367
 
 [Open repository](https://github.com/epasveer/seer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1367 | 43 | 
 | 2023-02-23 | 1366 | 43 | 
 | 2023-02-22 | 1366 | 43 | 
 | 2023-02-21 | 1366 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1350 | 43 | 
 | 2023-01-27 | 1350 | 43 | 
 | 2023-01-26 | 1347 | 43 | 
-| 2023-01-25 | 1347 | 43 | 
 

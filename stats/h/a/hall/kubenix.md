@@ -1,10 +1,10 @@
 # hall/kubenix - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/hall/kubenix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 31 | 1 | 
 | 2023-02-23 | 30 | 1 | 
 | 2023-02-21 | 30 | 1 | 
 | 2023-02-20 | 30 | 1 | 

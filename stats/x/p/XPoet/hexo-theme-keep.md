@@ -1,10 +1,10 @@
 # XPoet/hexo-theme-keep - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 161
+☋ Forks: 160
 
-★ Stars: 1048
+★ Stars: 1049
 
 [Open repository](https://github.com/XPoet/hexo-theme-keep)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1049 | 160 | 
 | 2023-02-23 | 1048 | 161 | 
 | 2023-02-22 | 1046 | 161 | 
 | 2023-02-21 | 1046 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1035 | 158 | 
 | 2023-01-27 | 1034 | 158 | 
 | 2023-01-26 | 1035 | 158 | 
-| 2023-01-25 | 1035 | 158 | 
 

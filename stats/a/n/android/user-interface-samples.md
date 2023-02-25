@@ -1,10 +1,10 @@
 # android/user-interface-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 1575
+☋ Forks: 1576
 
-★ Stars: 3804
+★ Stars: 3805
 
 [Open repository](https://github.com/android/user-interface-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 3805 | 1576 | 
 | 2023-02-23 | 3804 | 1575 | 
 | 2023-02-22 | 3801 | 1574 | 
 | 2023-02-21 | 3799 | 1573 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 3757 | 1558 | 
 | 2023-01-27 | 3756 | 1558 | 
 | 2023-01-26 | 3756 | 1558 | 
-| 2023-01-25 | 3754 | 1558 | 
 

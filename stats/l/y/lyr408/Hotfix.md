@@ -1,10 +1,10 @@
 # lyr408/Hotfix - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 80
+★ Stars: 84
 
 [Open repository](https://github.com/lyr408/Hotfix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 84 | 31 | 
 | 2023-02-23 | 80 | 30 | 
 | 2023-02-22 | 71 | 29 | 
 | 2023-02-21 | 70 | 28 | 

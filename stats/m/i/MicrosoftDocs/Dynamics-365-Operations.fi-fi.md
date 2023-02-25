@@ -1,6 +1,6 @@
 # MicrosoftDocs/Dynamics-365-Operations.fi-fi - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2 | 6 | 
 | 2023-02-22 | 2 | 6 | 
 | 2023-02-21 | 2 | 6 | 
 | 2023-02-20 | 2 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 2 | 5 | 
 | 2023-01-27 | 2 | 5 | 
 | 2023-01-26 | 2 | 5 | 
-| 2023-01-25 | 2 | 5 | 
 

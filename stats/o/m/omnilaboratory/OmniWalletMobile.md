@@ -1,6 +1,6 @@
 # omnilaboratory/OmniWalletMobile - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 34 | 2 | 
 | 2023-02-23 | 34 | 2 | 
 | 2023-02-21 | 34 | 2 | 
 | 2023-02-20 | 34 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 34 | 2 | 
 | 2023-01-27 | 34 | 2 | 
 | 2023-01-26 | 34 | 2 | 
-| 2023-01-25 | 34 | 2 | 
 

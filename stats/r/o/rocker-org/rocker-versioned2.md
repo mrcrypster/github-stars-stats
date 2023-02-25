@@ -1,10 +1,10 @@
 # rocker-org/rocker-versioned2 - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 140
 
-★ Stars: 272
+★ Stars: 271
 
 [Open repository](https://github.com/rocker-org/rocker-versioned2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 271 | 140 | 
 | 2023-02-23 | 272 | 140 | 
 | 2023-02-22 | 272 | 140 | 
 | 2023-02-21 | 272 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 267 | 134 | 
 | 2023-01-27 | 267 | 134 | 
 | 2023-01-26 | 267 | 133 | 
-| 2023-01-25 | 267 | 133 | 
 

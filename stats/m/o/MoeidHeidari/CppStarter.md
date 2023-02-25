@@ -1,6 +1,6 @@
 # MoeidHeidari/CppStarter - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 20 | - | 
 | 2023-02-23 | 20 | - | 
 | 2023-02-22 | 20 | - | 
 | 2023-02-20 | 20 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 20 | - | 
 | 2023-01-28 | 20 | - | 
 | 2023-01-27 | 20 | - | 
-| 2023-01-25 | 20 | - | 
 

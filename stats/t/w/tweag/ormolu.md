@@ -1,10 +1,10 @@
 # tweag/ormolu - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 73
 
-★ Stars: 812
+★ Stars: 814
 
 [Open repository](https://github.com/tweag/ormolu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 814 | 73 | 
 | 2023-02-23 | 812 | 73 | 
 | 2023-02-22 | 812 | 73 | 
 | 2023-02-21 | 812 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 804 | 72 | 
 | 2023-01-27 | 804 | 72 | 
 | 2023-01-26 | 803 | 72 | 
-| 2023-01-25 | 803 | 72 | 
 

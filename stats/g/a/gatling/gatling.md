@@ -1,6 +1,6 @@
 # gatling/gatling - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1156
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 5828 | 1156 | 
 | 2023-02-23 | 5828 | 1156 | 
 | 2023-02-22 | 5828 | 1157 | 
 | 2023-02-21 | 5824 | 1156 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 5804 | 1150 | 
 | 2023-01-27 | 5803 | 1150 | 
 | 2023-01-26 | 5801 | 1150 | 
-| 2023-01-25 | 5798 | 1149 | 
 

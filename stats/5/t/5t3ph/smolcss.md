@@ -1,6 +1,6 @@
 # 5t3ph/smolcss - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 559 | 7 | 
 | 2023-02-22 | 559 | 7 | 
 | 2023-02-21 | 559 | 7 | 
 | 2023-02-20 | 559 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 555 | 7 | 
 | 2023-01-27 | 555 | 7 | 
 | 2023-01-26 | 555 | 7 | 
-| 2023-01-25 | 555 | 7 | 
 

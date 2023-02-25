@@ -1,10 +1,10 @@
 # cute-jumper/embrace.el - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 9
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/cute-jumper/embrace.el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 105 | 9 | 
 | 2023-02-23 | 104 | 9 | 
 | 2023-02-22 | 104 | 9 | 
 | 2023-02-21 | 104 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 104 | 9 | 
 | 2023-01-28 | 104 | 9 | 
 | 2023-01-27 | 104 | 9 | 
-| 2023-01-26 | 105 | 9 | 
 

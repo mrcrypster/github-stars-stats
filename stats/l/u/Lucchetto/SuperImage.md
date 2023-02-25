@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 24
 
 ☋ Forks: 10
 
-★ Stars: 196
+★ Stars: 214
 
 [Open repository](https://github.com/Lucchetto/SuperImage)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-24 | 196 | 10 | 
+| 2023-02-24 | 214 | 10 | 
 | 2023-02-23 | 193 | 10 | 
 | 2023-02-22 | 154 | 10 | 
 | 2023-02-21 | 142 | 8 | 

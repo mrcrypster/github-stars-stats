@@ -1,10 +1,10 @@
 # renerocksai/zap - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 3
 
-★ Stars: 77
+★ Stars: 79
 
 [Open repository](https://github.com/renerocksai/zap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 79 | 3 | 
 | 2023-02-23 | 77 | 3 | 
 | 2023-02-22 | 75 | 4 | 
 | 2023-02-21 | 73 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 57 | - | 
 | 2023-01-27 | 54 | - | 
 | 2023-01-26 | 49 | - | 
-| 2023-01-25 | 47 | - | 
 

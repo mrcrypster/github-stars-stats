@@ -1,6 +1,6 @@
 # section-engineering-education/engineering-education - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 897
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 350 | 897 | 
 | 2023-02-23 | 350 | 897 | 
 | 2023-02-22 | 349 | 897 | 
 | 2023-02-20 | 348 | 897 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 343 | 896 | 
 | 2023-01-27 | 343 | 896 | 
 | 2023-01-26 | 343 | 896 | 
-| 2023-01-25 | 343 | 896 | 
 

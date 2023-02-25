@@ -1,10 +1,10 @@
 # chaseSpace/learn_blockchain - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 5
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/chaseSpace/learn_blockchain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 62 | 5 | 
 | 2023-02-23 | 61 | 5 | 
 | 2023-02-22 | 61 | 5 | 
 | 2023-02-20 | 61 | 5 | 

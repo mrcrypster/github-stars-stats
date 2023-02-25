@@ -1,10 +1,10 @@
 # xi-editor/xi-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 711
 
-★ Stars: 19719
+★ Stars: 19722
 
 [Open repository](https://github.com/xi-editor/xi-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 19722 | 711 | 
 | 2023-02-23 | 19719 | 711 | 
 | 2023-02-22 | 19717 | 710 | 
 | 2023-02-21 | 19716 | 710 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 19709 | 710 | 
 | 2023-01-28 | 19705 | 710 | 
 | 2023-01-27 | 19705 | 710 | 
-| 2023-01-26 | 19706 | 710 | 
 

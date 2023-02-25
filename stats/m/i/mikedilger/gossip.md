@@ -1,10 +1,10 @@
 # mikedilger/gossip - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 26
 
-★ Stars: 225
+★ Stars: 227
 
 [Open repository](https://github.com/mikedilger/gossip)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 227 | 26 | 
 | 2023-02-22 | 225 | 26 | 
 | 2023-02-21 | 220 | 26 | 
 | 2023-02-20 | 217 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-28 | 121 | 13 | 
 | 2023-01-27 | 109 | 12 | 
 | 2023-01-26 | 97 | 11 | 
-| 2023-01-25 | 89 | 11 | 
 

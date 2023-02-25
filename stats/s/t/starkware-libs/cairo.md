@@ -1,10 +1,10 @@
 # starkware-libs/cairo - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 81
+☋ Forks: 83
 
-★ Stars: 620
+★ Stars: 621
 
 [Open repository](https://github.com/starkware-libs/cairo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 621 | 83 | 
 | 2023-02-23 | 620 | 81 | 
 | 2023-02-21 | 619 | 81 | 
 | 2023-02-20 | 616 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 563 | 57 | 
 | 2023-01-27 | 560 | 57 | 
 | 2023-01-26 | 553 | 57 | 
-| 2023-01-25 | 551 | 57 | 
 

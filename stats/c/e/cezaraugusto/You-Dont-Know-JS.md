@@ -1,6 +1,6 @@
 # cezaraugusto/You-Dont-Know-JS - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 850
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 5018 | 850 | 
 | 2023-02-23 | 5018 | 850 | 
 | 2023-02-22 | 5015 | 850 | 
 | 2023-02-21 | 5008 | 848 | 

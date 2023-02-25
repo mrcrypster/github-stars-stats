@@ -1,10 +1,10 @@
 # awslabs/aws-lambda-rust-runtime - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 255
 
-★ Stars: 2570
+★ Stars: 2572
 
 [Open repository](https://github.com/awslabs/aws-lambda-rust-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2572 | 255 | 
 | 2023-02-23 | 2570 | 255 | 
 | 2023-02-22 | 2568 | 254 | 
 | 2023-02-21 | 2566 | 254 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2499 | 245 | 
 | 2023-01-27 | 2498 | 244 | 
 | 2023-01-26 | 2493 | 243 | 
-| 2023-01-25 | 2491 | 243 | 
 

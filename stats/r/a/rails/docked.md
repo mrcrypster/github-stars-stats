@@ -1,10 +1,10 @@
 # rails/docked - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
-☋ Forks: 41
+☋ Forks: 40
 
-★ Stars: 1112
+★ Stars: 1114
 
 [Open repository](https://github.com/rails/docked)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1114 | 40 | 
 | 2023-02-23 | 1112 | 41 | 
 | 2023-02-22 | 1109 | 40 | 
 | 2023-02-20 | 1107 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1066 | 36 | 
 | 2023-01-27 | 1061 | 34 | 
 | 2023-01-26 | 1059 | 33 | 
-| 2023-01-25 | 1057 | 32 | 
 

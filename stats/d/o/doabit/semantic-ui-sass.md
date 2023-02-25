@@ -1,6 +1,6 @@
 # doabit/semantic-ui-sass - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 1138 | 198 | 
 | 2023-02-23 | 1138 | 198 | 
 | 2023-02-22 | 1138 | 198 | 
 | 2023-02-21 | 1138 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 1139 | 198 | 
 | 2023-01-27 | 1139 | 198 | 
 | 2023-01-26 | 1139 | 198 | 
-| 2023-01-25 | 1139 | 198 | 
 

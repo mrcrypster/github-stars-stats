@@ -1,6 +1,6 @@
 # SuperIlu/DOStodon - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 194 | 6 | 
 | 2023-02-22 | 194 | 6 | 
 | 2023-02-21 | 194 | 6 | 
 | 2023-02-20 | 193 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 184 | 6 | 
 | 2023-01-28 | 183 | 6 | 
 | 2023-01-27 | 182 | 5 | 
-| 2023-01-26 | 182 | 5 | 
 

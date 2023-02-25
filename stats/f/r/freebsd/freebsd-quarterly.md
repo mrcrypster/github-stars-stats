@@ -1,6 +1,6 @@
 # freebsd/freebsd-quarterly - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 57 | 127 | 
 | 2023-02-23 | 57 | 127 | 
 | 2023-02-22 | 57 | 127 | 
 | 2023-02-21 | 57 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 59 | 127 | 
 | 2023-01-27 | 59 | 127 | 
 | 2023-01-26 | 59 | 127 | 
-| 2023-01-25 | 59 | 127 | 
 

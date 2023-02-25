@@ -1,10 +1,10 @@
 # TransparentLC/WechatMomentScreenshot - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 372
 
-★ Stars: 2401
+★ Stars: 2402
 
 [Open repository](https://github.com/TransparentLC/WechatMomentScreenshot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 2402 | 372 | 
 | 2023-02-23 | 2401 | 372 | 
 | 2023-02-22 | 2400 | 372 | 
 | 2023-02-21 | 2399 | 372 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 2369 | 368 | 
 | 2023-01-27 | 2367 | 369 | 
 | 2023-01-26 | 2359 | 368 | 
-| 2023-01-25 | 2357 | 368 | 
 

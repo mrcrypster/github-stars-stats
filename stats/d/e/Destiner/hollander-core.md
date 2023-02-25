@@ -1,6 +1,6 @@
 # Destiner/hollander-core - stars & forks statistics
 
-Stats updated on Feb 2023, 22
+Stats updated on Feb 2023, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-24 | 43 | 1 | 
 | 2023-02-22 | 43 | 1 | 
 | 2023-02-21 | 43 | 1 | 
 | 2023-02-20 | 43 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 22
 | 2023-01-29 | 43 | 1 | 
 | 2023-01-28 | 43 | 1 | 
 | 2023-01-26 | 43 | 1 | 
-| 2023-01-25 | 43 | 1 | 
 

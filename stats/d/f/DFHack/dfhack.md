@@ -1,10 +1,10 @@
 # DFHack/dfhack - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 414
 
-★ Stars: 1653
+★ Stars: 1657
 
 [Open repository](https://github.com/DFHack/dfhack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1657 | 414 | 
 | 2023-02-24 | 1653 | 414 | 
 | 2023-02-22 | 1651 | 414 | 
 | 2023-02-21 | 1647 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-28 | 1512 | 398 | 
 | 2023-01-27 | 1502 | 397 | 
 | 2023-01-26 | 1495 | 395 | 
-| 2023-01-25 | 1489 | 393 | 
 

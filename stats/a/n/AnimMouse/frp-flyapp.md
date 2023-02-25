@@ -1,6 +1,6 @@
 # AnimMouse/frp-flyapp - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 51 | 6 | 
 | 2023-02-23 | 51 | 6 | 
 | 2023-02-22 | 51 | 6 | 
 | 2023-02-21 | 51 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-28 | 49 | 6 | 
 | 2023-01-27 | 49 | 6 | 
 | 2023-01-26 | 49 | 6 | 
-| 2023-01-25 | 49 | 6 | 
 
