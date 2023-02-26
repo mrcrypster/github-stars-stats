@@ -1,6 +1,6 @@
 # spacebudz/nebula - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 60 | 13 | 
 | 2023-02-24 | 60 | 13 | 
 | 2023-02-23 | 60 | 13 | 
 | 2023-02-22 | 60 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 56 | 9 | 
 | 2023-01-28 | 55 | 9 | 
 | 2023-01-27 | 55 | 9 | 
-| 2023-01-26 | 52 | 9 | 
 

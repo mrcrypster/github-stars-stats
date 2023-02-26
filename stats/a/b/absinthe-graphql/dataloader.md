@@ -1,10 +1,10 @@
 # absinthe-graphql/dataloader - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 83
 
-★ Stars: 454
+★ Stars: 455
 
 [Open repository](https://github.com/absinthe-graphql/dataloader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 455 | 83 | 
 | 2023-02-24 | 454 | 83 | 
 | 2023-02-23 | 454 | 83 | 
 | 2023-02-22 | 454 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 454 | 81 | 
 | 2023-01-28 | 454 | 81 | 
 | 2023-01-27 | 454 | 81 | 
-| 2023-01-26 | 454 | 81 | 
 

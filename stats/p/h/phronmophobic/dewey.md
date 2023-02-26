@@ -1,6 +1,6 @@
 # phronmophobic/dewey - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 52 | - | 
 | 2023-02-24 | 52 | - | 
 | 2023-02-23 | 52 | - | 
 | 2023-02-21 | 52 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 46 | - | 
 | 2023-01-29 | 45 | - | 
 | 2023-01-28 | 44 | - | 
-| 2023-01-26 | 44 | - | 
 

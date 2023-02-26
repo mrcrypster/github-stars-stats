@@ -1,10 +1,8 @@
 # daher45/freerdp - stars & forks statistics
 
-Stats updated on Jan 2023, 26
+☋ Forks: 
 
-☋ Forks: 52
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/daher45/freerdp)
 
@@ -13,5 +11,4 @@ Stats updated on Jan 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-26 | - | 52 | 
 

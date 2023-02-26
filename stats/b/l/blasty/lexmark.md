@@ -1,10 +1,10 @@
 # blasty/lexmark - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 45
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/blasty/lexmark)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 178 | 45 | 
 | 2023-02-23 | 177 | 45 | 
 | 2023-02-22 | 177 | 45 | 
 | 2023-02-21 | 175 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 139 | 36 | 
 | 2023-01-29 | 137 | 35 | 
 | 2023-01-27 | 136 | 35 | 
-| 2023-01-26 | 135 | 35 | 
 

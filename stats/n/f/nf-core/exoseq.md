@@ -1,6 +1,6 @@
 # nf-core/exoseq - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 13 | 23 | 
 | 2023-02-23 | 13 | 23 | 
 | 2023-02-22 | 13 | 23 | 
 | 2023-02-21 | 12 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 12 | 23 | 
 | 2023-01-29 | 12 | 23 | 
 | 2023-01-28 | 12 | 23 | 
-| 2023-01-27 | 12 | 23 | 
 

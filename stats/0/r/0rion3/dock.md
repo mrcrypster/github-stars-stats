@@ -1,10 +1,10 @@
 # 0rion3/dock - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/0rion3/dock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 78 | 6 | 
 | 2023-02-23 | 77 | 6 | 
 | 2023-02-22 | 77 | 6 | 
 | 2023-02-21 | 77 | 6 | 

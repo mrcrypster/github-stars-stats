@@ -1,8 +1,8 @@
 # denilsonbonatti/toshiro-shibakita - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 554
+☋ Forks: 555
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 44 | 555 | 
 | 2023-02-24 | 44 | 554 | 
 | 2023-02-23 | 43 | 547 | 
 | 2023-02-22 | 43 | 542 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 34 | 467 | 
 | 2023-01-28 | 34 | 467 | 
 | 2023-01-27 | 34 | 464 | 
-| 2023-01-26 | 34 | 463 | 
 

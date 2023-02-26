@@ -1,6 +1,6 @@
 # heroku/pack-images - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 39 | 11 | 
 | 2023-02-24 | 39 | 11 | 
 | 2023-02-23 | 39 | 11 | 
 | 2023-02-22 | 39 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 38 | 11 | 
 | 2023-01-29 | 38 | 11 | 
 | 2023-01-27 | 38 | 11 | 
-| 2023-01-26 | 38 | 11 | 
 

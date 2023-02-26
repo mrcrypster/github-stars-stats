@@ -1,6 +1,6 @@
 # sinnerschrader/sinnerschrader-reboot - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7 | 4 | 
 | 2023-02-23 | 7 | 4 | 
 | 2023-02-22 | 7 | 4 | 
 | 2023-02-21 | 7 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 8 | 4 | 
 | 2023-01-28 | 8 | 4 | 
 | 2023-01-27 | 8 | 4 | 
-| 2023-01-26 | 8 | 4 | 
 

@@ -1,10 +1,10 @@
 # 1Marc/todomvc-vanillajs-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 88
 
-★ Stars: 816
+★ Stars: 817
 
 [Open repository](https://github.com/1Marc/todomvc-vanillajs-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 817 | 88 | 
 | 2023-02-24 | 816 | 88 | 
 | 2023-02-23 | 816 | 88 | 
 | 2023-02-22 | 816 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 795 | 88 | 
 | 2023-01-28 | 795 | 88 | 
 | 2023-01-27 | 795 | 88 | 
-| 2023-01-26 | 795 | 88 | 
 

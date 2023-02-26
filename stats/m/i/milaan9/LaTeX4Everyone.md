@@ -1,10 +1,10 @@
 # milaan9/LaTeX4Everyone - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 171
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/milaan9/LaTeX4Everyone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 197 | 171 | 
 | 2023-02-24 | 196 | 171 | 
 | 2023-02-23 | 196 | 171 | 
 | 2023-02-22 | 196 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 196 | 171 | 
 | 2023-01-28 | 196 | 171 | 
 | 2023-01-27 | 195 | 171 | 
-| 2023-01-26 | 195 | 171 | 
 

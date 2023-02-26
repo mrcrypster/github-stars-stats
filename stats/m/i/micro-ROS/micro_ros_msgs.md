@@ -1,6 +1,6 @@
 # micro-ROS/micro_ros_msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3 | 3 | 
 | 2023-02-24 | 3 | 3 | 
 | 2023-02-23 | 3 | 2 | 
 | 2023-02-22 | 3 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3 | 1 | 
 | 2023-01-28 | 3 | 1 | 
 | 2023-01-27 | 3 | 1 | 
-| 2023-01-26 | 3 | 1 | 
 

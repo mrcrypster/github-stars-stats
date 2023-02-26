@@ -1,6 +1,6 @@
 # Digilent/Basys3 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 80 | 164 | 
 | 2023-02-24 | 80 | 164 | 
 | 2023-02-23 | 80 | 164 | 
 | 2023-02-22 | 80 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 79 | 161 | 
 | 2023-01-28 | 78 | 161 | 
 | 2023-01-27 | 79 | 161 | 
-| 2023-01-26 | 79 | 161 | 
 

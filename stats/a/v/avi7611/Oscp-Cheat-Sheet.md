@@ -1,6 +1,6 @@
 # avi7611/Oscp-Cheat-Sheet - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 267 | 57 | 
 | 2023-02-24 | 267 | 57 | 
 | 2023-02-23 | 267 | 57 | 
 | 2023-02-22 | 267 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 267 | 58 | 
 | 2023-01-28 | 267 | 58 | 
 | 2023-01-27 | 267 | 58 | 
-| 2023-01-26 | 267 | 58 | 
 

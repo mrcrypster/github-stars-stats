@@ -1,6 +1,6 @@
 # jito-foundation/jito-solana - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 81 | 15 | 
 | 2023-02-24 | 81 | 15 | 
 | 2023-02-23 | 81 | 15 | 
 | 2023-02-22 | 81 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 78 | 14 | 
 | 2023-01-28 | 78 | 14 | 
 | 2023-01-27 | 78 | 14 | 
-| 2023-01-26 | 78 | 14 | 
 

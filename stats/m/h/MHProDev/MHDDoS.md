@@ -1,10 +1,10 @@
 # MHProDev/MHDDoS - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1752
+☋ Forks: 1758
 
-★ Stars: 7957
+★ Stars: 8016
 
 [Open repository](https://github.com/MHProDev/MHDDoS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 8016 | 1758 | 
 | 2023-02-24 | 7957 | 1752 | 
 | 2023-02-23 | 7947 | 1750 | 
 | 2023-02-22 | 7942 | 1744 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 7728 | 1685 | 
 | 2023-01-28 | 7722 | 1681 | 
 | 2023-01-27 | 7713 | 1678 | 
-| 2023-01-26 | 7705 | 1678 | 
 

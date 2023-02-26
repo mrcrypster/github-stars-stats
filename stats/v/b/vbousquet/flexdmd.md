@@ -1,6 +1,6 @@
 # vbousquet/flexdmd - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 29 | 11 | 
 | 2023-02-23 | 29 | 11 | 
 | 2023-02-22 | 29 | 11 | 
 | 2023-02-21 | 29 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 28 | 11 | 
 | 2023-01-29 | 27 | 11 | 
 | 2023-01-28 | 26 | 11 | 
-| 2023-01-27 | 26 | 11 | 
 

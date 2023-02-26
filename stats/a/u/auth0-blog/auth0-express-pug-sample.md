@@ -1,6 +1,6 @@
 # auth0-blog/auth0-express-pug-sample - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 9 | 12 | 
 | 2023-02-24 | 9 | 12 | 
 | 2023-02-23 | 9 | 12 | 
 | 2023-02-22 | 9 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 9 | 12 | 
 | 2023-01-29 | 9 | 12 | 
 | 2023-01-28 | 9 | 13 | 
-| 2023-01-27 | 9 | 13 | 
 

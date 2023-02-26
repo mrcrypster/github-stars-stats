@@ -1,6 +1,6 @@
 # VB10/flutter-ready-to-use-widgets - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 139 | 38 | 
 | 2023-02-24 | 139 | 38 | 
 | 2023-02-23 | 138 | 37 | 
 | 2023-02-22 | 137 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 135 | 37 | 
 | 2023-01-29 | 135 | 37 | 
 | 2023-01-28 | 135 | 37 | 
-| 2023-01-27 | 135 | 37 | 
 

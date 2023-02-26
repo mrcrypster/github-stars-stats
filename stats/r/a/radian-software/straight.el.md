@@ -1,10 +1,10 @@
 # radian-software/straight.el - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 140
 
-★ Stars: 2341
+★ Stars: 2342
 
 [Open repository](https://github.com/radian-software/straight.el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2342 | 140 | 
 | 2023-02-24 | 2341 | 140 | 
 | 2023-02-23 | 2341 | 140 | 
 | 2023-02-22 | 2341 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2322 | 142 | 
 | 2023-01-28 | 2321 | 142 | 
 | 2023-01-27 | 2322 | 142 | 
-| 2023-01-26 | 2321 | 142 | 
 

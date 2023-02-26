@@ -1,8 +1,8 @@
 # Bunny67/Details-WotLK - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 49 | 40 | 
 | 2023-02-24 | 49 | 39 | 
 | 2023-02-23 | 49 | 39 | 
 | 2023-02-22 | 49 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 48 | 39 | 
 | 2023-01-28 | 48 | 39 | 
 | 2023-01-27 | 48 | 39 | 
-| 2023-01-26 | 48 | 39 | 
 

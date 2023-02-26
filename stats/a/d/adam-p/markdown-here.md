@@ -1,10 +1,10 @@
 # adam-p/markdown-here - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 11313
+☋ Forks: 11314
 
-★ Stars: 58148
+★ Stars: 58163
 
 [Open repository](https://github.com/adam-p/markdown-here)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 58163 | 11314 | 
 | 2023-02-24 | 58148 | 11313 | 
 | 2023-02-23 | 58140 | 11317 | 
 | 2023-02-22 | 58129 | 11316 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 57921 | 11286 | 
 | 2023-01-28 | 57916 | 11286 | 
 | 2023-01-27 | 57913 | 11285 | 
-| 2023-01-26 | 57890 | 11276 | 
 

@@ -1,10 +1,10 @@
 # bobbae/gosling-emacs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 7
 
-★ Stars: 63
+★ Stars: 65
 
 [Open repository](https://github.com/bobbae/gosling-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 65 | 7 | 
 | 2023-02-24 | 63 | 7 | 
 | 2023-02-23 | 63 | 7 | 
 | 2023-02-22 | 62 | 7 | 

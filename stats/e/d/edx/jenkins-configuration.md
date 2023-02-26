@@ -1,6 +1,6 @@
 # edx/jenkins-configuration - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 174 | 52 | 
 | 2023-02-24 | 174 | 52 | 
 | 2023-02-23 | 173 | 52 | 
 | 2023-02-22 | 173 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 172 | 53 | 
 | 2023-01-28 | 172 | 53 | 
 | 2023-01-27 | 172 | 53 | 
-| 2023-01-26 | 172 | 53 | 
 

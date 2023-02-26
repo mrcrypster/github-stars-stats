@@ -1,10 +1,10 @@
 # Avangelista/Appabetical - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 57
+★ Stars: 62
 
 [Open repository](https://github.com/Avangelista/Appabetical)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 62 | 3 | 
 | 2023-02-24 | 57 | 3 | 
 | 2023-02-23 | 57 | 3 | 
 | 2023-02-22 | 56 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 37 | 3 | 
 | 2023-01-28 | 35 | 3 | 
 | 2023-01-27 | 35 | 3 | 
-| 2023-01-26 | 35 | 3 | 
 

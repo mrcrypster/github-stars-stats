@@ -1,10 +1,10 @@
 # zricethezav/gitleaks - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1113
 
-★ Stars: 11751
+★ Stars: 11755
 
 [Open repository](https://github.com/zricethezav/gitleaks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 11755 | 1113 | 
 | 2023-02-24 | 11751 | 1113 | 
 | 2023-02-23 | 11739 | 1111 | 
 | 2023-02-22 | 11721 | 1111 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 11500 | 1084 | 
 | 2023-01-28 | 11495 | 1083 | 
 | 2023-01-27 | 11491 | 1081 | 
-| 2023-01-26 | 11484 | 1081 | 
 

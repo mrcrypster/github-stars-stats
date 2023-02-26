@@ -1,6 +1,6 @@
 # fetchrobotics/fetch_msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 5 | 16 | 
 | 2023-02-24 | 5 | 16 | 
 | 2023-02-23 | 5 | 16 | 
 | 2023-02-22 | 5 | 16 | 

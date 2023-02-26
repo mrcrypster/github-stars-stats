@@ -1,6 +1,6 @@
 # WebKit/Speedometer - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 261 | 22 | 
 | 2023-02-24 | 261 | 22 | 
 | 2023-02-23 | 260 | 21 | 
 | 2023-02-22 | 261 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 250 | 18 | 
 | 2023-01-28 | 250 | 18 | 
 | 2023-01-27 | 250 | 17 | 
-| 2023-01-26 | 250 | 16 | 
 

@@ -1,6 +1,6 @@
 # dd86k/ddui - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 21 | 1 | 
 | 2023-02-24 | 21 | 1 | 
 | 2023-02-23 | 21 | 1 | 
 | 2023-02-21 | 21 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 21 | 1 | 
 | 2023-01-28 | 21 | 1 | 
 | 2023-01-27 | 21 | 1 | 
-| 2023-01-26 | 21 | 1 | 
 

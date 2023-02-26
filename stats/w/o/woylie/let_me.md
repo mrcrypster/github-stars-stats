@@ -1,6 +1,6 @@
 # woylie/let_me - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 96 | 1 | 
 | 2023-02-24 | 96 | 1 | 
 | 2023-02-23 | 95 | 1 | 
 | 2023-02-22 | 95 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 93 | 1 | 
 | 2023-01-29 | 93 | 1 | 
 | 2023-01-27 | 93 | 1 | 
-| 2023-01-26 | 92 | 1 | 
 

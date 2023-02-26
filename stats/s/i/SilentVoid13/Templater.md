@@ -1,10 +1,10 @@
 # SilentVoid13/Templater - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 109
+☋ Forks: 108
 
-★ Stars: 1670
+★ Stars: 1673
 
 [Open repository](https://github.com/SilentVoid13/Templater)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1673 | 108 | 
 | 2023-02-24 | 1670 | 109 | 
 | 2023-02-23 | 1667 | 109 | 
 | 2023-02-22 | 1665 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1593 | 104 | 
 | 2023-01-28 | 1589 | 104 | 
 | 2023-01-27 | 1586 | 104 | 
-| 2023-01-26 | 1585 | 104 | 
 

@@ -1,6 +1,6 @@
 # hashicorp/yamux - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1904 | 217 | 
 | 2023-02-24 | 1904 | 217 | 
 | 2023-02-23 | 1904 | 217 | 
 | 2023-02-22 | 1903 | 216 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1888 | 214 | 
 | 2023-01-28 | 1888 | 214 | 
 | 2023-01-27 | 1888 | 214 | 
-| 2023-01-26 | 1888 | 214 | 
 

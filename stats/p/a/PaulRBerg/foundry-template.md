@@ -1,8 +1,8 @@
 # PaulRBerg/foundry-template - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 226
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 226 | 23 | 
 | 2023-02-24 | 226 | 22 | 
 | 2023-02-23 | 225 | 22 | 
 | 2023-02-22 | 225 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 201 | 22 | 
 | 2023-01-28 | 201 | 22 | 
 | 2023-01-27 | 201 | 21 | 
-| 2023-01-26 | 200 | 21 | 
 

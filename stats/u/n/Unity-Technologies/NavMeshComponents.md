@@ -1,8 +1,8 @@
 # Unity-Technologies/NavMeshComponents - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1001
+☋ Forks: 1003
 
 ★ Stars: 2749
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2749 | 1003 | 
 | 2023-02-24 | 2749 | 1001 | 
 | 2023-02-23 | 2748 | 997 | 
 | 2023-02-22 | 2745 | 996 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2730 | 986 | 
 | 2023-01-28 | 2730 | 986 | 
 | 2023-01-27 | 2730 | 985 | 
-| 2023-01-26 | 2730 | 985 | 
 

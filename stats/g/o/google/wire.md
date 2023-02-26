@@ -1,10 +1,10 @@
 # google/wire - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 553
 
-★ Stars: 10122
+★ Stars: 10129
 
 [Open repository](https://github.com/google/wire)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 10129 | 553 | 
 | 2023-02-24 | 10122 | 553 | 
 | 2023-02-23 | 10112 | 552 | 
 | 2023-02-22 | 10098 | 552 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 9870 | 540 | 
 | 2023-01-28 | 9866 | 540 | 
 | 2023-01-27 | 9856 | 537 | 
-| 2023-01-26 | 9852 | 536 | 
 

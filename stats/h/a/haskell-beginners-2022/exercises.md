@@ -1,6 +1,6 @@
 # haskell-beginners-2022/exercises - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 198 | 261 | 
 | 2023-02-24 | 198 | 261 | 
 | 2023-02-23 | 198 | 260 | 
 | 2023-02-22 | 198 | 259 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 191 | 244 | 
 | 2023-01-28 | 191 | 244 | 
 | 2023-01-27 | 190 | 243 | 
-| 2023-01-26 | 190 | 242 | 
 

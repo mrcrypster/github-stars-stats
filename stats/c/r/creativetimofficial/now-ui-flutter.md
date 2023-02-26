@@ -1,8 +1,8 @@
 # creativetimofficial/now-ui-flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 119
+☋ Forks: 120
 
 ★ Stars: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 55 | 120 | 
 | 2023-02-24 | 55 | 119 | 
 | 2023-02-23 | 55 | 119 | 
 | 2023-02-22 | 55 | 119 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 56 | 116 | 
 | 2023-01-28 | 56 | 117 | 
 | 2023-01-27 | 56 | 116 | 
-| 2023-01-26 | 56 | 116 | 
 

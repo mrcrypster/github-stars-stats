@@ -1,6 +1,6 @@
 # sylefeb/tinygpus - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 49 | 3 | 
 | 2023-02-23 | 49 | 3 | 
 | 2023-02-22 | 49 | 3 | 
 | 2023-02-21 | 49 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 50 | 3 | 
 | 2023-01-28 | 50 | 3 | 
 | 2023-01-27 | 50 | 3 | 
-| 2023-01-26 | 50 | 2 | 
 

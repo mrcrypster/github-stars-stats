@@ -1,6 +1,6 @@
 # LineageOS/android_vendor_lineage - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 176 | 522 | 
 | 2023-02-24 | 176 | 522 | 
 | 2023-02-23 | 176 | 521 | 
 | 2023-02-22 | 176 | 520 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 176 | 523 | 
 | 2023-01-28 | 176 | 523 | 
 | 2023-01-27 | 176 | 524 | 
-| 2023-01-26 | 176 | 525 | 
 

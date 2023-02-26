@@ -1,10 +1,10 @@
 # emacs-compat/compat - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 4
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/emacs-compat/compat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 29 | 4 | 
 | 2023-02-24 | 28 | 4 | 
 | 2023-02-22 | 28 | 4 | 
 | 2023-02-21 | 28 | 4 | 

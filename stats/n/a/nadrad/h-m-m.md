@@ -1,10 +1,10 @@
 # nadrad/h-m-m - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 1564
+★ Stars: 1567
 
 [Open repository](https://github.com/nadrad/h-m-m)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1567 | 33 | 
 | 2023-02-24 | 1564 | 32 | 
 | 2023-02-23 | 1563 | 32 | 
 | 2023-02-22 | 1563 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1548 | 31 | 
 | 2023-01-28 | 1547 | 31 | 
 | 2023-01-27 | 1547 | 31 | 
-| 2023-01-26 | 1543 | 31 | 
 

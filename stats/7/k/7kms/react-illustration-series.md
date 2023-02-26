@@ -1,10 +1,10 @@
 # 7kms/react-illustration-series - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 649
 
-★ Stars: 6011
+★ Stars: 6013
 
 [Open repository](https://github.com/7kms/react-illustration-series)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6013 | 649 | 
 | 2023-02-24 | 6011 | 649 | 
 | 2023-02-23 | 6009 | 649 | 
 | 2023-02-22 | 6000 | 648 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 5914 | 638 | 
 | 2023-01-29 | 5911 | 638 | 
 | 2023-01-28 | 5907 | 637 | 
-| 2023-01-27 | 5905 | 637 | 
 

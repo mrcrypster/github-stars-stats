@@ -1,6 +1,6 @@
 # stackblitz/viteconf - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 201 | 6 | 
 | 2023-02-24 | 201 | 6 | 
 | 2023-02-23 | 201 | 6 | 
 | 2023-02-22 | 201 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 198 | 6 | 
 | 2023-01-29 | 198 | 6 | 
 | 2023-01-28 | 198 | 6 | 
-| 2023-01-27 | 198 | 6 | 
 

@@ -1,10 +1,10 @@
 # danschultzer/test_server - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/danschultzer/test_server)
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 28 | 1 | 
+| 2023-02-25 | 28 | 1 | 
 | 2023-02-24 | 26 | 1 | 
 

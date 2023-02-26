@@ -1,10 +1,10 @@
 # ansh/bionic-reading - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 158
 
-★ Stars: 3005
+★ Stars: 3009
 
 [Open repository](https://github.com/ansh/bionic-reading)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3009 | 158 | 
 | 2023-02-24 | 3005 | 158 | 
 | 2023-02-23 | 3003 | 158 | 
 | 2023-02-22 | 3001 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2969 | 156 | 
 | 2023-01-28 | 2968 | 156 | 
 | 2023-01-27 | 2968 | 156 | 
-| 2023-01-26 | 2968 | 157 | 
 

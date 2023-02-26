@@ -1,8 +1,8 @@
 # apache/groovy - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1800
+☋ Forks: 1801
 
 ★ Stars: 4780
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 4780 | 1801 | 
 | 2023-02-24 | 4780 | 1800 | 
 | 2023-02-23 | 4779 | 1800 | 
 | 2023-02-22 | 4776 | 1799 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 4758 | 1796 | 
 | 2023-01-28 | 4758 | 1795 | 
 | 2023-01-27 | 4758 | 1795 | 
-| 2023-01-26 | 4757 | 1794 | 
 

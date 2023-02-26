@@ -1,10 +1,10 @@
 # propensive/fury-old - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 34
 
-★ Stars: 405
+★ Stars: 408
 
 [Open repository](https://github.com/propensive/fury-old)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 408 | 34 | 
 | 2023-02-24 | 405 | 34 | 
 | 2023-02-23 | 401 | 34 | 
 | 2023-02-22 | 400 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 400 | 34 | 
 | 2023-01-28 | 400 | 34 | 
 | 2023-01-27 | 400 | 34 | 
-| 2023-01-26 | 400 | 34 | 
 

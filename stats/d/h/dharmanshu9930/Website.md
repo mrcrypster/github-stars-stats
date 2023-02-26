@@ -1,6 +1,6 @@
 # dharmanshu9930/Website - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 21 | 281 | 
 | 2023-02-24 | 21 | 281 | 
 | 2023-02-23 | 21 | 282 | 
 | 2023-02-21 | 21 | 282 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 22 | 287 | 
 | 2023-01-29 | 22 | 287 | 
 | 2023-01-28 | 22 | 288 | 
-| 2023-01-27 | 22 | 288 | 
 

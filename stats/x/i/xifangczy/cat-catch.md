@@ -1,10 +1,10 @@
 # xifangczy/cat-catch - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 348
 
-★ Stars: 2619
+★ Stars: 2627
 
 [Open repository](https://github.com/xifangczy/cat-catch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2627 | 348 | 
 | 2023-02-25 | 2619 | 348 | 
 | 2023-02-23 | 2606 | 347 | 
 | 2023-02-22 | 2592 | 347 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2454 | 332 | 
 | 2023-01-28 | 2447 | 331 | 
 | 2023-01-27 | 2442 | 331 | 
-| 2023-01-26 | 2439 | 331 | 
 

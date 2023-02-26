@@ -1,10 +1,10 @@
 # ahmetb/kubectx - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1082
+☋ Forks: 1083
 
-★ Stars: 14769
+★ Stars: 14775
 
 [Open repository](https://github.com/ahmetb/kubectx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 14775 | 1083 | 
 | 2023-02-24 | 14769 | 1082 | 
 | 2023-02-23 | 14756 | 1083 | 
 | 2023-02-22 | 14752 | 1084 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 14606 | 1068 | 
 | 2023-01-28 | 14605 | 1068 | 
 | 2023-01-27 | 14597 | 1067 | 
-| 2023-01-26 | 14590 | 1067 | 
 

@@ -1,6 +1,6 @@
 # WyattTechnology/WAkka - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 24 | 1 | 
 | 2023-02-24 | 24 | 1 | 
 | 2023-02-23 | 24 | 1 | 
 | 2023-02-22 | 24 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 23 | 1 | 
 | 2023-01-29 | 23 | 1 | 
 | 2023-01-28 | 23 | 1 | 
-| 2023-01-27 | 23 | 1 | 
 

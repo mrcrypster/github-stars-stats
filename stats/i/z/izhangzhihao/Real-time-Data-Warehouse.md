@@ -1,6 +1,6 @@
 # izhangzhihao/Real-time-Data-Warehouse - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 72 | 32 | 
 | 2023-02-24 | 72 | 32 | 
 | 2023-02-23 | 71 | 32 | 
 | 2023-02-22 | 71 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 70 | 31 | 
 | 2023-01-28 | 70 | 31 | 
 | 2023-01-27 | 70 | 31 | 
-| 2023-01-26 | 70 | 31 | 
 

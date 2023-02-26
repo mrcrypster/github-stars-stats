@@ -1,6 +1,6 @@
 # MScholtes/PS2EXE - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 661 | 124 | 
 | 2023-02-23 | 661 | 124 | 
 | 2023-02-22 | 658 | 124 | 
 | 2023-02-21 | 658 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 640 | 124 | 
 | 2023-01-28 | 640 | 124 | 
 | 2023-01-27 | 639 | 124 | 
-| 2023-01-26 | 639 | 124 | 
 

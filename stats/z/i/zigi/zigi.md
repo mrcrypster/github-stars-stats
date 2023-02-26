@@ -1,6 +1,6 @@
 # zigi/zigi - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 46 | 20 | 
 | 2023-02-24 | 46 | 20 | 
 | 2023-02-23 | 46 | 20 | 
 | 2023-02-22 | 46 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 45 | 20 | 
 | 2023-01-28 | 44 | 20 | 
 | 2023-01-27 | 44 | 20 | 
-| 2023-01-26 | 44 | 20 | 
 

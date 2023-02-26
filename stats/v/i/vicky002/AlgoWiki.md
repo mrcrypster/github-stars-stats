@@ -1,6 +1,6 @@
 # vicky002/AlgoWiki - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1162
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 4075 | 1162 | 
 | 2023-02-24 | 4075 | 1162 | 
 | 2023-02-23 | 4075 | 1162 | 
 | 2023-02-22 | 4076 | 1160 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 4071 | 1158 | 
 | 2023-01-28 | 4071 | 1157 | 
 | 2023-01-27 | 4071 | 1157 | 
-| 2023-01-26 | 4071 | 1157 | 
 

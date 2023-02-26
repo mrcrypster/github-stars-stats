@@ -1,10 +1,10 @@
 # rossberg/1ml - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 18
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/rossberg/1ml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 250 | 18 | 
 | 2023-02-24 | 249 | 18 | 
 | 2023-02-23 | 249 | 18 | 
 | 2023-02-22 | 249 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 250 | 18 | 
 | 2023-01-28 | 250 | 18 | 
 | 2023-01-27 | 250 | 18 | 
-| 2023-01-26 | 250 | 18 | 
 

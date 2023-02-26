@@ -1,6 +1,6 @@
 # PyojinKim/Sensors-Data-Logger - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 39 | 15 | 
 | 2023-02-24 | 39 | 15 | 
 | 2023-02-22 | 38 | 15 | 
 | 2023-02-21 | 38 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 38 | 15 | 
 | 2023-01-29 | 38 | 15 | 
 | 2023-01-28 | 38 | 14 | 
-| 2023-01-27 | 38 | 14 | 
 

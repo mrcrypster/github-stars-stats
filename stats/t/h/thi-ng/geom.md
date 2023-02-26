@@ -1,10 +1,10 @@
 # thi-ng/geom - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/thi-ng/geom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 906 | 79 | 
 | 2023-02-24 | 905 | 78 | 
 | 2023-02-23 | 905 | 78 | 
 | 2023-02-22 | 904 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 895 | 77 | 
 | 2023-01-28 | 895 | 77 | 
 | 2023-01-27 | 895 | 77 | 
-| 2023-01-26 | 895 | 77 | 
 

@@ -1,6 +1,6 @@
 # navikt/tjenestespesifikasjoner - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7 | - | 
 | 2023-02-24 | 7 | - | 
 | 2023-02-23 | 7 | - | 
 | 2023-02-21 | 7 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 7 | - | 
 | 2023-01-29 | 7 | - | 
 | 2023-01-28 | 7 | - | 
-| 2023-01-27 | 6 | - | 
 

@@ -1,6 +1,6 @@
 # esl/elarm - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 101 | 29 | 
 | 2023-02-23 | 101 | 29 | 
 | 2023-02-22 | 101 | 29 | 
 | 2023-02-21 | 101 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 100 | 29 | 
 | 2023-01-28 | 100 | 29 | 
 | 2023-01-27 | 100 | 29 | 
-| 2023-01-26 | 100 | 29 | 
 

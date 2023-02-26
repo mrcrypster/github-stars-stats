@@ -1,6 +1,6 @@
 # Shuai-Xie/genetic-algorithm - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 259 | 121 | 
 | 2023-02-24 | 259 | 121 | 
 | 2023-02-23 | 259 | 121 | 
 | 2023-02-22 | 258 | 121 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 253 | 120 | 
 | 2023-01-28 | 253 | 120 | 
 | 2023-01-27 | 253 | 120 | 
-| 2023-01-26 | 253 | 120 | 
 

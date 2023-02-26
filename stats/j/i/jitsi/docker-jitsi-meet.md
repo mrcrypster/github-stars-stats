@@ -1,8 +1,8 @@
 # jitsi/docker-jitsi-meet - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 1246
+☋ Forks: 1245
 
 ★ Stars: 2647
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2647 | 1245 | 
 | 2023-02-24 | 2647 | 1246 | 
 | 2023-02-23 | 2644 | 1244 | 
 | 2023-02-22 | 2632 | 1240 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2616 | 1233 | 
 | 2023-01-28 | 2614 | 1233 | 
 | 2023-01-27 | 2613 | 1233 | 
-| 2023-01-26 | 2613 | 1234 | 
 

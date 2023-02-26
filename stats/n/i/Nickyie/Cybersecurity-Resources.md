@@ -1,10 +1,10 @@
 # Nickyie/Cybersecurity-Resources - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 290
 
-★ Stars: 1831
+★ Stars: 1832
 
 [Open repository](https://github.com/Nickyie/Cybersecurity-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1832 | 290 | 
 | 2023-02-24 | 1831 | 290 | 
 | 2023-02-23 | 1830 | 290 | 
 | 2023-02-22 | 1827 | 290 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1779 | 279 | 
 | 2023-01-28 | 1779 | 280 | 
 | 2023-01-27 | 1778 | 280 | 
-| 2023-01-26 | 1779 | 280 | 
 

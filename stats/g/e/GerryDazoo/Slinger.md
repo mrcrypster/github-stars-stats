@@ -1,6 +1,6 @@
 # GerryDazoo/Slinger - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 133 | 27 | 
 | 2023-02-24 | 133 | 27 | 
 | 2023-02-23 | 132 | 27 | 
 | 2023-02-22 | 131 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 129 | 27 | 
 | 2023-01-28 | 129 | 27 | 
 | 2023-01-27 | 129 | 26 | 
-| 2023-01-26 | 128 | 26 | 
 

@@ -1,10 +1,10 @@
 # bytedance/lightseq - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 298
 
-★ Stars: 2588
+★ Stars: 2589
 
 [Open repository](https://github.com/bytedance/lightseq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2589 | 298 | 
 | 2023-02-23 | 2588 | 298 | 
 | 2023-02-22 | 2589 | 298 | 
 | 2023-02-21 | 2590 | 296 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 2563 | 289 | 
 | 2023-01-29 | 2563 | 288 | 
 | 2023-01-28 | 2562 | 288 | 
-| 2023-01-27 | 2560 | 288 | 
 

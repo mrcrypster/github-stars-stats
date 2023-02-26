@@ -1,6 +1,6 @@
 # JuliaNLSolvers/LsqFit.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 259 | 76 | 
 | 2023-02-24 | 259 | 76 | 
 | 2023-02-23 | 259 | 76 | 
 | 2023-02-22 | 258 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 255 | 76 | 
 | 2023-01-28 | 255 | 76 | 
 | 2023-01-27 | 254 | 77 | 
-| 2023-01-26 | 254 | 77 | 
 

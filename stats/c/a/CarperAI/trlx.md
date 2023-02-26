@@ -1,10 +1,10 @@
 # CarperAI/trlx - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 2061
+★ Stars: 2065
 
 [Open repository](https://github.com/CarperAI/trlx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2065 | 190 | 
 | 2023-02-24 | 2061 | 189 | 
 | 2023-02-23 | 1982 | 184 | 
 | 2023-02-22 | 1967 | 182 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1610 | 139 | 
 | 2023-01-28 | 1607 | 139 | 
 | 2023-01-27 | 1587 | 139 | 
-| 2023-01-26 | 1558 | 135 | 
 

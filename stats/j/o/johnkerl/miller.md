@@ -1,10 +1,10 @@
 # johnkerl/miller - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 165
 
-★ Stars: 6461
+★ Stars: 6467
 
 [Open repository](https://github.com/johnkerl/miller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6467 | 165 | 
 | 2023-02-24 | 6461 | 165 | 
 | 2023-02-23 | 6441 | 165 | 
 | 2023-02-22 | 6437 | 165 | 

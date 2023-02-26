@@ -1,10 +1,10 @@
 # ziadoz/awesome-php - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 5016
+☋ Forks: 5018
 
-★ Stars: 28240
+★ Stars: 28249
 
 [Open repository](https://github.com/ziadoz/awesome-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 28249 | 5018 | 
 | 2023-02-24 | 28240 | 5016 | 
 | 2023-02-23 | 28228 | 5017 | 
 | 2023-02-22 | 28225 | 5017 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 28074 | 5017 | 
 | 2023-01-28 | 28068 | 5016 | 
 | 2023-01-27 | 28066 | 5016 | 
-| 2023-01-26 | 28061 | 5016 | 
 

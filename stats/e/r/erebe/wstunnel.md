@@ -1,10 +1,10 @@
 # erebe/wstunnel - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 164
 
-★ Stars: 1452
+★ Stars: 1457
 
 [Open repository](https://github.com/erebe/wstunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1457 | 164 | 
 | 2023-02-24 | 1452 | 164 | 
 | 2023-02-23 | 1451 | 164 | 
 | 2023-02-22 | 1450 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1428 | 163 | 
 | 2023-01-28 | 1426 | 163 | 
 | 2023-01-27 | 1426 | 163 | 
-| 2023-01-26 | 1426 | 163 | 
 

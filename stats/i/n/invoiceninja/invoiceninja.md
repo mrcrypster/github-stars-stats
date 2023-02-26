@@ -1,10 +1,10 @@
 # invoiceninja/invoiceninja - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2051
 
-★ Stars: 6927
+★ Stars: 6926
 
 [Open repository](https://github.com/invoiceninja/invoiceninja)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6926 | 2051 | 
 | 2023-02-24 | 6927 | 2051 | 
 | 2023-02-22 | 6925 | 2051 | 
 | 2023-02-21 | 6922 | 2051 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 6860 | 2038 | 
 | 2023-01-28 | 6856 | 2038 | 
 | 2023-01-27 | 6854 | 2038 | 
-| 2023-01-26 | 6852 | 2039 | 
 

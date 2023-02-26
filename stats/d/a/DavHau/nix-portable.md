@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 25
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 416
+★ Stars: 417
 
 [Open repository](https://github.com/DavHau/nix-portable)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 416 | 15 | 
+| 2023-02-25 | 417 | 16 | 
 | 2023-02-23 | 415 | 15 | 
 | 2023-02-22 | 414 | 15 | 
 | 2023-02-21 | 414 | 15 | 

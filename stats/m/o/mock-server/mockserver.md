@@ -1,10 +1,10 @@
 # mock-server/mockserver - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 996
+☋ Forks: 997
 
-★ Stars: 4049
+★ Stars: 4050
 
 [Open repository](https://github.com/mock-server/mockserver)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 4050 | 997 | 
 | 2023-02-24 | 4049 | 996 | 
 | 2023-02-23 | 4045 | 995 | 
 | 2023-02-22 | 4045 | 994 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 4021 | 989 | 
 | 2023-01-28 | 4022 | 991 | 
 | 2023-01-27 | 4021 | 990 | 
-| 2023-01-26 | 4019 | 989 | 
 

@@ -1,10 +1,10 @@
 # jerryn70/GoodbyeAds - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 89
 
-★ Stars: 846
+★ Stars: 851
 
 [Open repository](https://github.com/jerryn70/GoodbyeAds)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 851 | 89 | 
 | 2023-02-24 | 846 | 89 | 
 | 2023-02-23 | 845 | 89 | 
 | 2023-02-22 | 844 | 89 | 

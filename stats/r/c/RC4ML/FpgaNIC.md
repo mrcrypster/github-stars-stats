@@ -1,6 +1,6 @@
 # RC4ML/FpgaNIC - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 44 | 10 | 
 | 2023-02-24 | 44 | 10 | 
 | 2023-02-23 | 44 | 10 | 
 | 2023-02-21 | 44 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 42 | 9 | 
 | 2023-01-28 | 42 | 9 | 
 | 2023-01-27 | 42 | 9 | 
-| 2023-01-26 | 42 | 9 | 
 

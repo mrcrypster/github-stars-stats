@@ -1,8 +1,8 @@
 # github/dev - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1183
+☋ Forks: 1189
 
 ★ Stars: 842
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 842 | 1189 | 
 | 2023-02-24 | 842 | 1183 | 
 | 2023-02-22 | 843 | 1182 | 
 | 2023-02-21 | 843 | 1180 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 827 | 1114 | 
 | 2023-01-28 | 824 | 1111 | 
 | 2023-01-27 | 823 | 1106 | 
-| 2023-01-26 | 821 | 1102 | 
 

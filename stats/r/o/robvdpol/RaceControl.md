@@ -1,6 +1,6 @@
 # robvdpol/RaceControl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1184 | 95 | 
 | 2023-02-24 | 1184 | 95 | 
 | 2023-02-23 | 1183 | 95 | 
 | 2023-02-22 | 1183 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1180 | 96 | 
 | 2023-01-28 | 1178 | 96 | 
 | 2023-01-27 | 1177 | 96 | 
-| 2023-01-26 | 1177 | 96 | 
 

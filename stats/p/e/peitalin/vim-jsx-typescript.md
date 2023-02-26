@@ -1,10 +1,10 @@
 # peitalin/vim-jsx-typescript - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 29
 
-★ Stars: 301
+★ Stars: 300
 
 [Open repository](https://github.com/peitalin/vim-jsx-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 300 | 29 | 
 | 2023-02-24 | 301 | 29 | 
 | 2023-02-23 | 300 | 29 | 
 | 2023-02-22 | 300 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 299 | 29 | 
 | 2023-01-28 | 299 | 29 | 
 | 2023-01-27 | 298 | 29 | 
-| 2023-01-26 | 298 | 29 | 
 

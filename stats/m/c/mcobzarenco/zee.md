@@ -1,6 +1,6 @@
 # mcobzarenco/zee - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1260 | 32 | 
 | 2023-02-24 | 1260 | 32 | 
 | 2023-02-23 | 1257 | 32 | 
 | 2023-02-22 | 1253 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1224 | 33 | 
 | 2023-01-28 | 1224 | 33 | 
 | 2023-01-27 | 1223 | 33 | 
-| 2023-01-26 | 1222 | 33 | 
 

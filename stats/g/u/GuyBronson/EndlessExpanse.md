@@ -1,6 +1,6 @@
 # GuyBronson/EndlessExpanse - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 16 | 13 | 
 | 2023-02-24 | 16 | 13 | 
 | 2023-02-23 | 16 | 13 | 
 | 2023-02-22 | 16 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 15 | 13 | 
 | 2023-01-28 | 15 | 13 | 
 | 2023-01-27 | 15 | 13 | 
-| 2023-01-26 | 15 | 13 | 
 

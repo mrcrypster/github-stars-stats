@@ -1,6 +1,6 @@
 # container-storage-interface/spec - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 357
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1146 | 357 | 
 | 2023-02-24 | 1146 | 357 | 
 | 2023-02-23 | 1146 | 357 | 
 | 2023-02-22 | 1146 | 357 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1134 | 354 | 
 | 2023-01-28 | 1134 | 354 | 
 | 2023-01-27 | 1132 | 354 | 
-| 2023-01-26 | 1132 | 354 | 
 

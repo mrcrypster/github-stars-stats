@@ -1,10 +1,10 @@
 # appinha/42sp-piscine - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 86
 
-★ Stars: 206
+★ Stars: 205
 
 [Open repository](https://github.com/appinha/42sp-piscine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 205 | 86 | 
 | 2023-02-24 | 206 | 86 | 
 | 2023-02-23 | 206 | 86 | 
 | 2023-02-22 | 207 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 204 | 87 | 
 | 2023-01-28 | 204 | 87 | 
 | 2023-01-27 | 204 | 87 | 
-| 2023-01-26 | 204 | 87 | 
 

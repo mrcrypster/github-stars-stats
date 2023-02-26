@@ -1,6 +1,6 @@
 # Klace/stable-diffusion-webui-instruct-pix2pix - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 187 | 16 | 
 | 2023-02-24 | 187 | 16 | 
 | 2023-02-23 | 186 | 16 | 
 | 2023-02-22 | 185 | 16 | 

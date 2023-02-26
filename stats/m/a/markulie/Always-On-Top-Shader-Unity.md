@@ -1,6 +1,6 @@
 # markulie/Always-On-Top-Shader-Unity - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6 | 5 | 
 | 2023-02-24 | 6 | 5 | 
 | 2023-02-23 | 6 | 5 | 
 | 2023-02-22 | 6 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 6 | 5 | 
 | 2023-01-29 | 6 | 5 | 
 | 2023-01-28 | 6 | 5 | 
-| 2023-01-26 | 6 | 5 | 
 

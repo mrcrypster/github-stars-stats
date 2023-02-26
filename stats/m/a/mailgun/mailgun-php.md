@@ -1,6 +1,6 @@
 # mailgun/mailgun-php - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 315
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1044 | 315 | 
 | 2023-02-24 | 1044 | 315 | 
 | 2023-02-23 | 1044 | 315 | 
 | 2023-02-22 | 1044 | 315 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1040 | 317 | 
 | 2023-01-28 | 1040 | 317 | 
 | 2023-01-27 | 1040 | 317 | 
-| 2023-01-26 | 1040 | 317 | 
 

@@ -1,8 +1,8 @@
 # learning-zone/nodejs-basics - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 902
+☋ Forks: 903
 
 ★ Stars: 2659
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2659 | 903 | 
 | 2023-02-24 | 2659 | 902 | 
 | 2023-02-23 | 2657 | 901 | 
 | 2023-02-21 | 2656 | 901 | 

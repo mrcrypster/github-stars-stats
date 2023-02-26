@@ -1,10 +1,10 @@
 # sveinbjornt/Sloth - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 143
 
-★ Stars: 7482
+★ Stars: 7501
 
 [Open repository](https://github.com/sveinbjornt/Sloth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7501 | 143 | 
 | 2023-02-24 | 7482 | 143 | 
 | 2023-02-23 | 7427 | 143 | 
 | 2023-02-22 | 7318 | 141 | 

@@ -1,10 +1,10 @@
 # rebelot/kanagawa.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 82
 
-★ Stars: 1955
+★ Stars: 1957
 
 [Open repository](https://github.com/rebelot/kanagawa.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1957 | 82 | 
 | 2023-02-24 | 1955 | 82 | 
 | 2023-02-22 | 1946 | 80 | 
 | 2023-02-21 | 1944 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1815 | 70 | 
 | 2023-01-28 | 1808 | 70 | 
 | 2023-01-27 | 1804 | 69 | 
-| 2023-01-26 | 1799 | 69 | 
 

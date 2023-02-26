@@ -1,6 +1,6 @@
 # o1-labs/docs2 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 15 | 38 | 
 | 2023-02-24 | 15 | 38 | 
 | 2023-02-23 | 15 | 38 | 
 | 2023-02-22 | 15 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 14 | 35 | 
 | 2023-01-28 | 13 | 35 | 
 | 2023-01-27 | 12 | 34 | 
-| 2023-01-26 | 12 | 34 | 
 

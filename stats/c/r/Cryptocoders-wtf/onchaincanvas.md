@@ -1,10 +1,10 @@
 # Cryptocoders-wtf/onchaincanvas - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Cryptocoders-wtf/onchaincanvas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3 | 1 | 
 | 2023-02-24 | 2 | 1 | 
 | 2023-02-23 | 2 | 1 | 
 | 2023-02-22 | 2 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2 | 1 | 
 | 2023-01-28 | 2 | 1 | 
 | 2023-01-27 | 2 | 1 | 
-| 2023-01-26 | 2 | 1 | 
 

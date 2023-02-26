@@ -1,6 +1,6 @@
 # darwinex/dwxconnect - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 97 | 57 | 
 | 2023-02-24 | 97 | 57 | 
 | 2023-02-23 | 97 | 56 | 
 | 2023-02-22 | 96 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 92 | 53 | 
 | 2023-01-28 | 92 | 53 | 
 | 2023-01-27 | 91 | 53 | 
-| 2023-01-26 | 90 | 52 | 
 

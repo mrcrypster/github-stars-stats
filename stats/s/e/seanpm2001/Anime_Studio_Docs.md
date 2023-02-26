@@ -1,6 +1,6 @@
 # seanpm2001/Anime_Studio_Docs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 4 | 2 | 
 | 2023-02-24 | 4 | 2 | 
 

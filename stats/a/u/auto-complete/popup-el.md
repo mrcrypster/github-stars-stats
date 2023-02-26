@@ -1,6 +1,6 @@
 # auto-complete/popup-el - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 398 | 95 | 
 | 2023-02-24 | 398 | 95 | 
 | 2023-02-23 | 398 | 95 | 
 | 2023-02-22 | 398 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 397 | 95 | 
 | 2023-01-28 | 397 | 95 | 
 | 2023-01-27 | 397 | 95 | 
-| 2023-01-26 | 396 | 95 | 
 

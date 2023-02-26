@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 25
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 345
+★ Stars: 347
 
 [Open repository](https://github.com/AvdLee/Roadmap)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 345 | 13 | 
+| 2023-02-25 | 347 | 14 | 
 | 2023-02-24 | 341 | 12 | 
 | 2023-02-23 | 317 | 11 | 
 | 2023-02-22 | 275 | 8 | 

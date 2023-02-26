@@ -1,6 +1,6 @@
 # bnb-chain/greenfield-whitepaper - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 146 | 23 | 
 | 2023-02-24 | 146 | 23 | 
 | 2023-02-23 | 144 | 22 | 
 | 2023-02-22 | 144 | 22 | 

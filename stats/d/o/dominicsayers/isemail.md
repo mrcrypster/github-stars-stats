@@ -1,10 +1,10 @@
 # dominicsayers/isemail - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 45
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/dominicsayers/isemail)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 286 | 45 | 
 | 2023-02-24 | 285 | 45 | 
 

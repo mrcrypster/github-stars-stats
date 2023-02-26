@@ -1,10 +1,10 @@
 # rishi-raj-jain/itsmy.fyi - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/rishi-raj-jain/itsmy.fyi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 120 | 3 | 
 | 2023-02-24 | 119 | 3 | 
 | 2023-02-23 | 119 | 3 | 
 | 2023-02-22 | 118 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 93 | 3 | 
 | 2023-01-28 | 92 | 3 | 
 | 2023-01-27 | 90 | 3 | 
-| 2023-01-26 | 90 | 3 | 
 

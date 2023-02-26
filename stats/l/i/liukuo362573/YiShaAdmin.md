@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 25
 
 ☋ Forks: 755
 
-★ Stars: 2000
+★ Stars: 2002
 
 [Open repository](https://github.com/liukuo362573/YiShaAdmin)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 2000 | 755 | 
+| 2023-02-25 | 2002 | 755 | 
 | 2023-02-24 | 2000 | 755 | 
 

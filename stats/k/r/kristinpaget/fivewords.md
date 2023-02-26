@@ -1,6 +1,6 @@
 # kristinpaget/fivewords - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 31 | 3 | 
 | 2023-02-23 | 31 | 3 | 
 | 2023-02-22 | 31 | 3 | 
 | 2023-02-21 | 31 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 28 | 3 | 
 | 2023-01-28 | 28 | 3 | 
 | 2023-01-27 | 28 | 3 | 
-| 2023-01-26 | 28 | 3 | 
 

@@ -1,10 +1,10 @@
 # XTLS/REALITY - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 30
+☋ Forks: 32
 
-★ Stars: 675
+★ Stars: 721
 
 [Open repository](https://github.com/XTLS/REALITY)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 721 | 32 | 
 | 2023-02-24 | 675 | 30 | 
 | 2023-02-23 | 649 | 29 | 
 | 2023-02-22 | 611 | 29 | 

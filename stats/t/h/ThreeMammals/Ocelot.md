@@ -1,6 +1,6 @@
 # ThreeMammals/Ocelot - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1536
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7500 | 1536 | 
 | 2023-02-24 | 7500 | 1536 | 
 | 2023-02-23 | 7499 | 1536 | 
 | 2023-02-22 | 7496 | 1536 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 7461 | 1528 | 
 | 2023-01-28 | 7458 | 1528 | 
 | 2023-01-27 | 7454 | 1527 | 
-| 2023-01-26 | 7454 | 1527 | 
 

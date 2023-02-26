@@ -1,8 +1,8 @@
 # bedimcode/responsive-mini-portfolio - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 45 | 16 | 
 | 2023-02-23 | 45 | 15 | 
 | 2023-02-22 | 45 | 15 | 
 | 2023-02-21 | 45 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 37 | 12 | 
 | 2023-01-28 | 37 | 12 | 
 | 2023-01-27 | 37 | 12 | 
-| 2023-01-26 | 37 | 13 | 
 

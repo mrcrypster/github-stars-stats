@@ -1,10 +1,10 @@
 # ferd/dandelion - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/ferd/dandelion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 38 | 2 | 
 | 2023-02-24 | 37 | 2 | 
 | 2023-02-22 | 37 | 2 | 
 | 2023-02-21 | 37 | 2 | 

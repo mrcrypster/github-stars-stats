@@ -1,10 +1,10 @@
 # nolanw/HTMLReader - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 73
 
-★ Stars: 795
+★ Stars: 796
 
 [Open repository](https://github.com/nolanw/HTMLReader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 796 | 73 | 
 | 2023-02-24 | 795 | 73 | 
 | 2023-02-23 | 795 | 73 | 
 | 2023-02-22 | 795 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 794 | 73 | 
 | 2023-01-28 | 794 | 73 | 
 | 2023-01-27 | 794 | 73 | 
-| 2023-01-26 | 794 | 73 | 
 

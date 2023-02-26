@@ -1,10 +1,10 @@
 # nandorojo/solito - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 2205
+★ Stars: 2209
 
 [Open repository](https://github.com/nandorojo/solito)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2209 | 115 | 
 | 2023-02-24 | 2205 | 114 | 
 | 2023-02-23 | 2196 | 113 | 
 | 2023-02-22 | 2193 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2110 | 110 | 
 | 2023-01-28 | 2107 | 109 | 
 | 2023-01-27 | 2096 | 109 | 
-| 2023-01-26 | 2088 | 109 | 
 

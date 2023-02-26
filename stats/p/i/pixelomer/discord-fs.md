@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 25
 
-☋ Forks: 11
+☋ Forks: 10
 
-★ Stars: 210
+★ Stars: 217
 
 [Open repository](https://github.com/pixelomer/discord-fs)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 210 | 11 | 
+| 2023-02-25 | 217 | 10 | 
 | 2023-02-24 | 209 | 11 | 
 

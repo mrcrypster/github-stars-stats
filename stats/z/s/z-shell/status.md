@@ -1,6 +1,6 @@
 # z-shell/status - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8 | - | 
 | 2023-02-24 | 8 | - | 
 | 2023-02-23 | 8 | - | 
 | 2023-02-22 | 8 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 9 | - | 
 | 2023-01-29 | 9 | - | 
 | 2023-01-28 | 9 | - | 
-| 2023-01-26 | 9 | - | 
 

@@ -1,6 +1,6 @@
 # harvard-ml-courses/cs181-s23-homeworks - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 10 | 41 | 
 | 2023-02-24 | 10 | 41 | 
 | 2023-02-23 | 10 | 41 | 
 | 2023-02-22 | 10 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 9 | 23 | 
 | 2023-01-28 | 9 | 21 | 
 | 2023-01-27 | 9 | 15 | 
-| 2023-01-26 | 8 | 14 | 
 

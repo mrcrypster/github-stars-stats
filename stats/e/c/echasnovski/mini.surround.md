@@ -1,6 +1,6 @@
 # echasnovski/mini.surround - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 42 | 2 | 
 | 2023-02-24 | 42 | 2 | 
 | 2023-02-23 | 42 | 2 | 
 | 2023-02-22 | 41 | 2 | 

@@ -1,10 +1,10 @@
 # lee-citizen/avatar - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/lee-citizen/avatar)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 26 | 11 | 
 | 2023-02-24 | 25 | 11 | 
 | 2023-02-23 | 25 | 11 | 
 | 2023-02-21 | 25 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 21 | 9 | 
 | 2023-01-28 | 21 | 9 | 
 | 2023-01-27 | 21 | 9 | 
-| 2023-01-26 | 21 | 9 | 
 

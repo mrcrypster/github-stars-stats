@@ -1,6 +1,6 @@
 # imbhargav5/nextbase-nextjs13-supabase-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 33 | 2 | 
 | 2023-02-24 | 33 | 2 | 
 | 2023-02-23 | 31 | 2 | 
 | 2023-02-22 | 31 | 1 | 

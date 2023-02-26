@@ -1,6 +1,6 @@
 # Mr-Un1k0d3r/ATP-PowerShell-Scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 177 | 27 | 
 | 2023-02-24 | 177 | 27 | 
 | 2023-02-23 | 177 | 27 | 
 | 2023-02-22 | 176 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 175 | 27 | 
 | 2023-01-28 | 175 | 27 | 
 | 2023-01-27 | 175 | 27 | 
-| 2023-01-26 | 175 | 27 | 
 

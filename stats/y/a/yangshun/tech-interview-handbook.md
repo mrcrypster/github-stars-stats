@@ -1,10 +1,10 @@
 # yangshun/tech-interview-handbook - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 11347
+☋ Forks: 11358
 
-★ Stars: 86782
+★ Stars: 86852
 
 [Open repository](https://github.com/yangshun/tech-interview-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 86852 | 11358 | 
 | 2023-02-24 | 86782 | 11347 | 
 | 2023-02-23 | 86678 | 11334 | 
 | 2023-02-22 | 86660 | 11333 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 85441 | 11194 | 
 | 2023-01-28 | 85396 | 11191 | 
 | 2023-01-27 | 85366 | 11189 | 
-| 2023-01-26 | 85362 | 11189 | 
 

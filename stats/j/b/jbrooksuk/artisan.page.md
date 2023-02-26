@@ -1,6 +1,6 @@
 # jbrooksuk/artisan.page - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 333 | 32 | 
 | 2023-02-24 | 333 | 32 | 
 | 2023-02-23 | 331 | 31 | 
 | 2023-02-22 | 331 | 31 | 

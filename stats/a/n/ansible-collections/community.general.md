@@ -1,8 +1,8 @@
 # ansible-collections/community.general - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1091
+☋ Forks: 1092
 
 ★ Stars: 579
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 579 | 1092 | 
 | 2023-02-24 | 579 | 1091 | 
 | 2023-02-23 | 579 | 1088 | 
 | 2023-02-22 | 579 | 1089 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 572 | 1063 | 
 | 2023-01-28 | 572 | 1062 | 
 | 2023-01-27 | 571 | 1061 | 
-| 2023-01-26 | 570 | 1060 | 
 

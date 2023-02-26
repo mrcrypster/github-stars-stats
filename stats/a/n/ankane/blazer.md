@@ -1,10 +1,10 @@
 # ankane/blazer - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 437
 
-★ Stars: 3476
+★ Stars: 3477
 
 [Open repository](https://github.com/ankane/blazer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3477 | 437 | 
 | 2023-02-24 | 3476 | 437 | 
 | 2023-02-23 | 3476 | 437 | 
 | 2023-02-22 | 3476 | 436 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3447 | 429 | 
 | 2023-01-28 | 3448 | 428 | 
 | 2023-01-27 | 3448 | 428 | 
-| 2023-01-26 | 3449 | 428 | 
 

@@ -1,6 +1,6 @@
 # xiaoye97/DinkumChinese - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 112 | 15 | 
 | 2023-02-24 | 112 | 15 | 
 | 2023-02-22 | 112 | 15 | 
 | 2023-02-21 | 112 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 98 | 13 | 
 | 2023-01-28 | 98 | 13 | 
 | 2023-01-27 | 97 | 13 | 
-| 2023-01-26 | 97 | 13 | 
 

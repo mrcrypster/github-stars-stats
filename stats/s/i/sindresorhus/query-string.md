@@ -1,8 +1,8 @@
 # sindresorhus/query-string - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 452
+☋ Forks: 451
 
 ★ Stars: 6277
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6277 | 451 | 
 | 2023-02-24 | 6277 | 452 | 
 | 2023-02-23 | 6276 | 452 | 
 | 2023-02-22 | 6274 | 452 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 6246 | 449 | 
 | 2023-01-28 | 6245 | 449 | 
 | 2023-01-27 | 6245 | 449 | 
-| 2023-01-26 | 6244 | 449 | 
 

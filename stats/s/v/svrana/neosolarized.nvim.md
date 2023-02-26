@@ -1,8 +1,8 @@
 # svrana/neosolarized.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 17
+☋ Forks: 19
 
 ★ Stars: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 81 | 19 | 
 | 2023-02-24 | 81 | 17 | 
 | 2023-02-22 | 80 | 17 | 
 | 2023-02-21 | 79 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 70 | 16 | 
 | 2023-01-28 | 70 | 16 | 
 | 2023-01-27 | 70 | 16 | 
-| 2023-01-26 | 70 | 16 | 
 

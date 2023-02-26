@@ -1,10 +1,10 @@
 # kiwanami/emacs-epc - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 26
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/kiwanami/emacs-epc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 188 | 26 | 
 | 2023-02-24 | 187 | 26 | 
 | 2023-02-23 | 187 | 26 | 
 | 2023-02-21 | 187 | 26 | 

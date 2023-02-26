@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 25
 
-☋ Forks: 1071
+☋ Forks: 1073
 
-★ Stars: 21087
+★ Stars: 21099
 
 [Open repository](https://github.com/notable/notable)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 21087 | 1071 | 
+| 2023-02-25 | 21099 | 1073 | 
 | 2023-02-24 | 21084 | 1071 | 
 | 2023-02-23 | 21025 | 1064 | 
 | 2023-02-22 | 20972 | 1059 | 

@@ -1,10 +1,10 @@
 # meysamhadeli/booking-microservices-sample - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 459
+★ Stars: 461
 
 [Open repository](https://github.com/meysamhadeli/booking-microservices-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 461 | 78 | 
 | 2023-02-24 | 459 | 77 | 
 | 2023-02-23 | 447 | 76 | 
 | 2023-02-22 | 445 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 428 | 72 | 
 | 2023-01-28 | 427 | 72 | 
 | 2023-01-27 | 427 | 72 | 
-| 2023-01-26 | 425 | 72 | 
 

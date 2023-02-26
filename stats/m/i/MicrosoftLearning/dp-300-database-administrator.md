@@ -1,8 +1,8 @@
 # MicrosoftLearning/dp-300-database-administrator - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 27 | 33 | 
 | 2023-02-23 | 27 | 32 | 
 | 2023-02-22 | 27 | 32 | 
 | 2023-02-21 | 27 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 28 | 28 | 
 | 2023-01-28 | 28 | 28 | 
 | 2023-01-27 | 28 | 28 | 
-| 2023-01-26 | 28 | 28 | 
 

@@ -1,10 +1,10 @@
 # tokio-rs/console - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 98
+☋ Forks: 99
 
-★ Stars: 2404
+★ Stars: 2406
 
 [Open repository](https://github.com/tokio-rs/console)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2406 | 99 | 
 | 2023-02-24 | 2404 | 98 | 
 | 2023-02-23 | 2402 | 98 | 
 | 2023-02-22 | 2398 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2368 | 98 | 
 | 2023-01-28 | 2366 | 98 | 
 | 2023-01-27 | 2364 | 98 | 
-| 2023-01-26 | 2364 | 98 | 
 

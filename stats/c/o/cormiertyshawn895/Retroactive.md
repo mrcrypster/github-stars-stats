@@ -1,10 +1,10 @@
 # cormiertyshawn895/Retroactive - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 102
 
-★ Stars: 1672
+★ Stars: 1673
 
 [Open repository](https://github.com/cormiertyshawn895/Retroactive)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1673 | 102 | 
 | 2023-02-24 | 1672 | 102 | 
 | 2023-02-23 | 1672 | 102 | 
 | 2023-02-22 | 1672 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1653 | 100 | 
 | 2023-01-28 | 1651 | 100 | 
 | 2023-01-27 | 1651 | 100 | 
-| 2023-01-26 | 1649 | 100 | 
 

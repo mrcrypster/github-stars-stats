@@ -1,6 +1,6 @@
 # gnolang/gno - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 266
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 645 | 266 | 
 | 2023-02-24 | 645 | 266 | 
 | 2023-02-23 | 645 | 266 | 
 | 2023-02-22 | 645 | 265 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 639 | 256 | 
 | 2023-01-29 | 638 | 256 | 
 | 2023-01-28 | 638 | 255 | 
-| 2023-01-26 | 638 | 254 | 
 

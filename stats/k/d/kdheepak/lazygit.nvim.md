@@ -1,10 +1,10 @@
 # kdheepak/lazygit.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 29
 
-★ Stars: 637
+★ Stars: 638
 
 [Open repository](https://github.com/kdheepak/lazygit.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 638 | 29 | 
 | 2023-02-24 | 637 | 29 | 
 | 2023-02-23 | 637 | 29 | 
 | 2023-02-22 | 635 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 608 | 27 | 
 | 2023-01-28 | 606 | 26 | 
 | 2023-01-27 | 606 | 26 | 
-| 2023-01-26 | 604 | 26 | 
 

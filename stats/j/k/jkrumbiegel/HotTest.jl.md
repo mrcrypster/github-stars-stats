@@ -1,6 +1,6 @@
 # jkrumbiegel/HotTest.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 20 | 1 | 
 | 2023-02-24 | 20 | 1 | 
 | 2023-02-22 | 20 | 1 | 
 | 2023-02-21 | 20 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 19 | 1 | 
 | 2023-01-29 | 19 | 1 | 
 | 2023-01-28 | 19 | 1 | 
-| 2023-01-27 | 19 | 1 | 
 

@@ -1,10 +1,10 @@
 # jobbole/awesome-python-cn - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 7665
+☋ Forks: 7668
 
-★ Stars: 25857
+★ Stars: 25861
 
 [Open repository](https://github.com/jobbole/awesome-python-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 25861 | 7668 | 
 | 2023-02-24 | 25857 | 7665 | 
 | 2023-02-23 | 25845 | 7664 | 
 | 2023-02-22 | 25837 | 7666 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 25672 | 7643 | 
 | 2023-01-28 | 25665 | 7641 | 
 | 2023-01-27 | 25663 | 7641 | 
-| 2023-01-26 | 25660 | 7642 | 
 

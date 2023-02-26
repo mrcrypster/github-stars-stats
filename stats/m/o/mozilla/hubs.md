@@ -1,8 +1,8 @@
 # mozilla/hubs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1300
+☋ Forks: 1299
 
 ★ Stars: 1959
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1959 | 1299 | 
 | 2023-02-24 | 1959 | 1300 | 
 | 2023-02-23 | 1957 | 1297 | 
 | 2023-02-22 | 1956 | 1296 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1941 | 1290 | 
 | 2023-01-29 | 1941 | 1290 | 
 | 2023-01-27 | 1941 | 1289 | 
-| 2023-01-26 | 1941 | 1289 | 
 

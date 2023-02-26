@@ -1,6 +1,6 @@
 # aws/aws-iot-device-sdk-cpp-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 129 | 87 | 
 | 2023-02-24 | 129 | 87 | 
 | 2023-02-23 | 129 | 87 | 
 | 2023-02-22 | 129 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 128 | 86 | 
 | 2023-01-28 | 128 | 86 | 
 | 2023-01-27 | 128 | 86 | 
-| 2023-01-26 | 128 | 86 | 
 

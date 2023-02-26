@@ -1,6 +1,6 @@
 # QualiNext/test-spec2-public - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1 | 20 | 
 | 2023-02-24 | 1 | 20 | 
 | 2023-02-23 | 1 | 20 | 
 | 2023-02-22 | 1 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2 | 20 | 
 | 2023-01-28 | 2 | 20 | 
 | 2023-01-27 | 2 | 20 | 
-| 2023-01-26 | 2 | 20 | 
 

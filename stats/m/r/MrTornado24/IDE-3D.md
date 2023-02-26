@@ -1,6 +1,6 @@
 # MrTornado24/IDE-3D - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 383 | 37 | 
 | 2023-02-24 | 383 | 37 | 
 | 2023-02-23 | 381 | 37 | 
 | 2023-02-21 | 381 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 360 | 34 | 
 | 2023-01-29 | 356 | 34 | 
 | 2023-01-28 | 354 | 34 | 
-| 2023-01-27 | 353 | 34 | 
 

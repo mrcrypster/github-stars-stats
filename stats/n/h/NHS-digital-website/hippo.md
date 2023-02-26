@@ -1,6 +1,6 @@
 # NHS-digital-website/hippo - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 12 | 16 | 
 | 2023-02-24 | 12 | 16 | 
 | 2023-02-23 | 12 | 16 | 
 | 2023-02-22 | 12 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 13 | 16 | 
 | 2023-01-28 | 13 | 16 | 
 | 2023-01-27 | 13 | 16 | 
-| 2023-01-26 | 13 | 16 | 
 

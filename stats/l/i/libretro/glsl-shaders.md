@@ -1,6 +1,6 @@
 # libretro/glsl-shaders - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 661 | 202 | 
 | 2023-02-24 | 661 | 202 | 
 | 2023-02-23 | 661 | 202 | 
 | 2023-02-21 | 661 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 648 | 200 | 
 | 2023-01-28 | 646 | 200 | 
 | 2023-01-27 | 645 | 200 | 
-| 2023-01-26 | 645 | 199 | 
 

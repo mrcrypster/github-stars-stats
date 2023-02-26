@@ -1,8 +1,8 @@
 # ufs-community/ufs-srweather-app - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 84
+☋ Forks: 86
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 38 | 86 | 
 | 2023-02-24 | 38 | 84 | 
 | 2023-02-23 | 38 | 84 | 
 | 2023-02-22 | 38 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 38 | 81 | 
 | 2023-01-28 | 38 | 81 | 
 | 2023-01-27 | 38 | 81 | 
-| 2023-01-26 | 38 | 81 | 
 

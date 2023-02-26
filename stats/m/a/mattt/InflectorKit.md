@@ -1,6 +1,6 @@
 # mattt/InflectorKit - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 468 | 32 | 
 | 2023-02-24 | 468 | 32 | 
 | 2023-02-22 | 468 | 32 | 
 | 2023-02-21 | 468 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 468 | 32 | 
 | 2023-01-28 | 468 | 32 | 
 | 2023-01-27 | 468 | 32 | 
-| 2023-01-26 | 468 | 32 | 
 

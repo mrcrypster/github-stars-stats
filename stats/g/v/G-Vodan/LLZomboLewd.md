@@ -1,8 +1,8 @@
 # G-Vodan/LLZomboLewd - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 35 | 33 | 
 | 2023-02-24 | 35 | 32 | 
 | 2023-02-23 | 35 | 32 | 
 | 2023-02-22 | 35 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 28 | 29 | 
 | 2023-01-28 | 27 | 29 | 
 | 2023-01-27 | 27 | 29 | 
-| 2023-01-26 | 27 | 29 | 
 

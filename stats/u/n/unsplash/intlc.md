@@ -1,6 +1,6 @@
 # unsplash/intlc - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 45 | 2 | 
 | 2023-02-23 | 45 | 2 | 
 | 2023-02-22 | 45 | 2 | 
 | 2023-02-21 | 45 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 43 | 2 | 
 | 2023-01-28 | 43 | 2 | 
 | 2023-01-27 | 43 | 2 | 
-| 2023-01-26 | 43 | 2 | 
 

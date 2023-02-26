@@ -1,10 +1,10 @@
 # wikiZ/RedGuard - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 150
 
-★ Stars: 924
+★ Stars: 925
 
 [Open repository](https://github.com/wikiZ/RedGuard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 925 | 150 | 
 | 2023-02-24 | 924 | 150 | 
 | 2023-02-23 | 924 | 149 | 
 | 2023-02-22 | 922 | 149 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 917 | 147 | 
 | 2023-01-28 | 917 | 147 | 
 | 2023-01-27 | 917 | 147 | 
-| 2023-01-26 | 917 | 147 | 
 

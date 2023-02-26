@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-building-applications-requiring-files - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1644
+☋ Forks: 1646
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1 | 1646 | 
 | 2023-02-24 | 1 | 1644 | 
 | 2023-02-23 | 1 | 1642 | 
 | 2023-02-22 | 1 | 1637 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1 | 1446 | 
 | 2023-01-28 | 1 | 1446 | 
 | 2023-01-27 | 1 | 1446 | 
-| 2023-01-26 | 1 | 1446 | 
 

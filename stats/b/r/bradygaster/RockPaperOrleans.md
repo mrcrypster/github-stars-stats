@@ -1,6 +1,6 @@
 # bradygaster/RockPaperOrleans - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 19 | 7 | 
 | 2023-02-24 | 19 | 7 | 
 | 2023-02-22 | 19 | 7 | 
 | 2023-02-21 | 19 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 18 | 7 | 
 | 2023-01-29 | 18 | 7 | 
 | 2023-01-28 | 18 | 7 | 
-| 2023-01-27 | 18 | 7 | 
 

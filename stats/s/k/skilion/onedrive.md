@@ -1,6 +1,6 @@
 # skilion/onedrive - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 359
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3993 | 359 | 
 | 2023-02-24 | 3993 | 359 | 
 | 2023-02-23 | 3993 | 359 | 
 | 2023-02-22 | 3993 | 358 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3992 | 362 | 
 | 2023-01-28 | 3992 | 362 | 
 | 2023-01-27 | 3994 | 363 | 
-| 2023-01-26 | 3994 | 363 | 
 

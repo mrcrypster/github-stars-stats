@@ -1,10 +1,10 @@
 # faressoft/terminalizer - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 488
 
-★ Stars: 13722
+★ Stars: 13723
 
 [Open repository](https://github.com/faressoft/terminalizer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 13723 | 488 | 
 | 2023-02-24 | 13722 | 488 | 
 | 2023-02-23 | 13717 | 488 | 
 | 2023-02-22 | 13715 | 488 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 13614 | 485 | 
 | 2023-01-28 | 13606 | 485 | 
 | 2023-01-27 | 13592 | 485 | 
-| 2023-01-26 | 13584 | 485 | 
 

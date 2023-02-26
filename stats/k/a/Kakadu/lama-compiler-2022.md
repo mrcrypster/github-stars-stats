@@ -1,6 +1,6 @@
 # Kakadu/lama-compiler-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1 | 41 | 
 | 2023-02-24 | 1 | 41 | 
 | 2023-02-22 | 1 | 41 | 
 | 2023-02-21 | 1 | 41 | 

@@ -1,8 +1,8 @@
 # titaniumnetwork-dev/alloy - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 738
+☋ Forks: 741
 
 ★ Stars: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 78 | 741 | 
 | 2023-02-24 | 78 | 738 | 
 | 2023-02-23 | 78 | 737 | 
 | 2023-02-22 | 78 | 736 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 79 | 715 | 
 | 2023-01-28 | 79 | 716 | 
 | 2023-01-27 | 79 | 716 | 
-| 2023-01-26 | 79 | 714 | 
 

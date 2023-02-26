@@ -1,8 +1,8 @@
 # dudecoderr/dudecoder-ui1-flutter-login-screen-ui-light-dark-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 23 | 4 | 
 | 2023-02-23 | 23 | 5 | 
 | 2023-02-22 | 23 | 5 | 
 | 2023-02-21 | 23 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 23 | 5 | 
 | 2023-01-28 | 23 | 5 | 
 | 2023-01-27 | 23 | 5 | 
-| 2023-01-26 | 23 | 5 | 
 

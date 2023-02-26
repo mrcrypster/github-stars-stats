@@ -1,6 +1,6 @@
 # PaulNorman01/Forensia - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 190 | 23 | 
 | 2023-02-24 | 190 | 23 | 
 | 2023-02-23 | 189 | 23 | 
 | 2023-02-22 | 189 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 172 | 20 | 
 | 2023-01-28 | 170 | 19 | 
 | 2023-01-27 | 170 | 19 | 
-| 2023-01-26 | 169 | 19 | 
 

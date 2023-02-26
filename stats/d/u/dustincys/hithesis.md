@@ -1,10 +1,10 @@
 # dustincys/hithesis - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 312
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/dustincys/hithesis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 24 | 312 | 
 | 2023-02-24 | 23 | 312 | 
 | 2023-02-23 | 23 | 312 | 
 | 2023-02-22 | 23 | 312 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 21 | 307 | 
 | 2023-01-29 | 21 | 306 | 
 | 2023-01-28 | 21 | 307 | 
-| 2023-01-27 | 21 | 307 | 
 

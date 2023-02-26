@@ -1,6 +1,6 @@
 # SAP-samples/abap-oo-basics - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 126 | 44 | 
 | 2023-02-24 | 126 | 44 | 
 | 2023-02-23 | 126 | 44 | 
 | 2023-02-22 | 126 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 123 | 42 | 
 | 2023-01-28 | 123 | 42 | 
 | 2023-01-27 | 123 | 42 | 
-| 2023-01-26 | 123 | 42 | 
 

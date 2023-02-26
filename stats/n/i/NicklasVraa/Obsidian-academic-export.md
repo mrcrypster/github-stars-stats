@@ -1,6 +1,6 @@
 # NicklasVraa/Obsidian-academic-export - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 137 | 7 | 
 | 2023-02-24 | 137 | 7 | 
 | 2023-02-23 | 135 | 7 | 
 | 2023-02-22 | 132 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 129 | 7 | 
 | 2023-01-28 | 129 | 7 | 
 | 2023-01-27 | 128 | 7 | 
-| 2023-01-26 | 128 | 7 | 
 

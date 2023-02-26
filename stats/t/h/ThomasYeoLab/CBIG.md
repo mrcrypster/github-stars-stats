@@ -1,8 +1,8 @@
 # ThomasYeoLab/CBIG - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 339
+☋ Forks: 340
 
 ★ Stars: 426
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 426 | 340 | 
 | 2023-02-24 | 426 | 339 | 
 | 2023-02-23 | 426 | 339 | 
 | 2023-02-22 | 426 | 339 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 421 | 330 | 
 | 2023-01-28 | 421 | 330 | 
 | 2023-01-27 | 421 | 330 | 
-| 2023-01-26 | 421 | 330 | 
 

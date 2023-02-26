@@ -1,6 +1,6 @@
 # transmissions11/VRGDAs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 250 | 56 | 
 | 2023-02-24 | 250 | 56 | 
 | 2023-02-23 | 250 | 54 | 
 | 2023-02-22 | 250 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 247 | 38 | 
 | 2023-01-28 | 247 | 37 | 
 | 2023-01-27 | 247 | 37 | 
-| 2023-01-26 | 246 | 37 | 
 

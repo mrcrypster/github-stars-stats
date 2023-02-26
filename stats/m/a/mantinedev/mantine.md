@@ -1,10 +1,10 @@
 # mantinedev/mantine - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1230
+☋ Forks: 1235
 
-★ Stars: 17758
+★ Stars: 17780
 
 [Open repository](https://github.com/mantinedev/mantine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 17780 | 1235 | 
 | 2023-02-24 | 17758 | 1230 | 
 | 2023-02-22 | 17731 | 1224 | 
 | 2023-02-21 | 17715 | 1223 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 17147 | 1181 | 
 | 2023-01-29 | 17129 | 1182 | 
 | 2023-01-28 | 17106 | 1178 | 
-| 2023-01-27 | 17083 | 1177 | 
 

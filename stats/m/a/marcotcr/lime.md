@@ -1,10 +1,10 @@
 # marcotcr/lime - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1705
+☋ Forks: 1707
 
-★ Stars: 10444
+★ Stars: 10447
 
 [Open repository](https://github.com/marcotcr/lime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 10447 | 1707 | 
 | 2023-02-24 | 10444 | 1705 | 
 | 2023-02-22 | 10441 | 1704 | 
 | 2023-02-21 | 10435 | 1704 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 10385 | 1702 | 
 | 2023-01-29 | 10384 | 1702 | 
 | 2023-01-28 | 10383 | 1702 | 
-| 2023-01-27 | 10382 | 1700 | 
 

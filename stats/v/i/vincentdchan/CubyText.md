@@ -1,10 +1,10 @@
 # vincentdchan/CubyText - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 18
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/vincentdchan/CubyText)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 559 | 18 | 
 | 2023-02-24 | 558 | 18 | 
 | 2023-02-23 | 558 | 18 | 
 | 2023-02-22 | 558 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 556 | 19 | 
 | 2023-01-29 | 556 | 19 | 
 | 2023-01-28 | 556 | 19 | 
-| 2023-01-26 | 556 | 19 | 
 

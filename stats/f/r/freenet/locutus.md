@@ -1,10 +1,10 @@
 # freenet/locutus - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 41
 
-★ Stars: 1590
+★ Stars: 1591
 
 [Open repository](https://github.com/freenet/locutus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1591 | 41 | 
 | 2023-02-24 | 1590 | 41 | 
 | 2023-02-22 | 1590 | 41 | 
 | 2023-02-21 | 1590 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1564 | 41 | 
 | 2023-01-28 | 1564 | 40 | 
 | 2023-01-27 | 1564 | 40 | 
-| 2023-01-26 | 1564 | 40 | 
 

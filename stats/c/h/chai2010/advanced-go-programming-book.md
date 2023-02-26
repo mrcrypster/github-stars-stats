@@ -1,10 +1,10 @@
 # chai2010/advanced-go-programming-book - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3116
 
-★ Stars: 18195
+★ Stars: 18198
 
 [Open repository](https://github.com/chai2010/advanced-go-programming-book)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 18198 | 3116 | 
 | 2023-02-24 | 18195 | 3116 | 
 | 2023-02-23 | 18192 | 3116 | 
 | 2023-02-22 | 18183 | 3114 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 18096 | 3101 | 
 | 2023-01-28 | 18091 | 3098 | 
 | 2023-01-27 | 18087 | 3098 | 
-| 2023-01-26 | 18086 | 3098 | 
 

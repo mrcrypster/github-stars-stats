@@ -1,6 +1,6 @@
 # iNeuronai/same-resume-year-wise - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 154 | 105 | 
 | 2023-02-24 | 154 | 105 | 
 | 2023-02-23 | 154 | 103 | 
 | 2023-02-22 | 154 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 150 | 103 | 
 | 2023-01-29 | 150 | 103 | 
 | 2023-01-27 | 150 | 103 | 
-| 2023-01-26 | 150 | 103 | 
 

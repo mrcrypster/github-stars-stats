@@ -1,10 +1,10 @@
 # tweag/awesome-learning-haskell - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 18
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/tweag/awesome-learning-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 355 | 18 | 
 | 2023-02-24 | 354 | 18 | 
 | 2023-02-23 | 354 | 18 | 
 | 2023-02-22 | 354 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 350 | 17 | 
 | 2023-01-28 | 350 | 17 | 
 | 2023-01-27 | 350 | 17 | 
-| 2023-01-26 | 348 | 16 | 
 

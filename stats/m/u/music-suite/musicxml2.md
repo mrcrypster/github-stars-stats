@@ -1,0 +1,18 @@
+# music-suite/musicxml2 - stars & forks statistics
+
+Stats updated on Feb 2023, 26
+
+☋ Forks: 4
+
+★ Stars: 9
+
+[Open repository](https://github.com/music-suite/musicxml2)
+
+[Open detailed stats for music-suite/musicxml2](https://reviewgithub.com/rep/music-suite/musicxml2)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-26 | 9 | 4 | 
+| 2023-02-25 | 9 | 4 | 
+

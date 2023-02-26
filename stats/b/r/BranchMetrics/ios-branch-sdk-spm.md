@@ -1,6 +1,6 @@
 # BranchMetrics/ios-branch-sdk-spm - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 12 | 9 | 
 | 2023-02-24 | 12 | 9 | 
 | 2023-02-22 | 12 | 9 | 
 | 2023-02-21 | 12 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 9 | 7 | 
 | 2023-01-28 | 9 | 7 | 
 | 2023-01-27 | 9 | 7 | 
-| 2023-01-26 | 9 | 7 | 
 

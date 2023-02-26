@@ -1,10 +1,10 @@
 # mode80/nimzbot - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/mode80/nimzbot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 15 | - | 
 | 2023-02-24 | 14 | - | 
 | 2023-02-23 | 14 | - | 
 | 2023-02-22 | 14 | - | 

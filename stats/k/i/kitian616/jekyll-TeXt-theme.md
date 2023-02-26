@@ -1,10 +1,10 @@
 # kitian616/jekyll-TeXt-theme - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 2272
+☋ Forks: 2274
 
-★ Stars: 2698
+★ Stars: 2700
 
 [Open repository](https://github.com/kitian616/jekyll-TeXt-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2700 | 2274 | 
 | 2023-02-25 | 2698 | 2272 | 
 | 2023-02-23 | 2698 | 2274 | 
 | 2023-02-22 | 2698 | 2273 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-29 | 2677 | 2260 | 
 | 2023-01-28 | 2675 | 2258 | 
 | 2023-01-27 | 2669 | 2258 | 
-| 2023-01-26 | 2667 | 2257 | 
 

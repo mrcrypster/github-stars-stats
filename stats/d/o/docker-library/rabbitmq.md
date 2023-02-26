@@ -1,6 +1,6 @@
 # docker-library/rabbitmq - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 400
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 689 | 400 | 
 | 2023-02-24 | 689 | 400 | 
 | 2023-02-23 | 689 | 400 | 
 | 2023-02-21 | 689 | 399 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 683 | 401 | 
 | 2023-01-28 | 683 | 401 | 
 | 2023-01-27 | 683 | 401 | 
-| 2023-01-26 | 683 | 401 | 
 

@@ -1,10 +1,10 @@
 # varunshenoy/GraphGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 162
+☋ Forks: 164
 
-★ Stars: 2543
+★ Stars: 2562
 
 [Open repository](https://github.com/varunshenoy/GraphGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2562 | 164 | 
 | 2023-02-24 | 2543 | 162 | 
 | 2023-02-23 | 2496 | 156 | 
 | 2023-02-22 | 2484 | 154 | 

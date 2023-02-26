@@ -1,6 +1,6 @@
 # glepnir/template.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 93 | 8 | 
 | 2023-02-23 | 93 | 8 | 
 | 2023-02-22 | 93 | 8 | 
 | 2023-02-21 | 93 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 90 | 8 | 
 | 2023-01-29 | 88 | 8 | 
 | 2023-01-28 | 88 | 7 | 
-| 2023-01-27 | 88 | 7 | 
 

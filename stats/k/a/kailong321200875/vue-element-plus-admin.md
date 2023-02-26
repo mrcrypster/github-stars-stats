@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 25
 
 ☋ Forks: 219
 
-★ Stars: 884
+★ Stars: 885
 
 [Open repository](https://github.com/kailong321200875/vue-element-plus-admin)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 884 | 219 | 
+| 2023-02-25 | 885 | 219 | 
 | 2023-02-24 | 883 | 219 | 
 | 2023-02-23 | 880 | 219 | 
 | 2023-02-22 | 873 | 218 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-29 | 810 | 200 | 
 | 2023-01-28 | 808 | 200 | 
 | 2023-01-27 | 807 | 200 | 
-| 2023-01-26 | 806 | 200 | 
 

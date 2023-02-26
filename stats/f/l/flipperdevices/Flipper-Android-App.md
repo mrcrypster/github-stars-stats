@@ -1,10 +1,10 @@
 # flipperdevices/Flipper-Android-App - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 79
 
-★ Stars: 577
+★ Stars: 579
 
 [Open repository](https://github.com/flipperdevices/Flipper-Android-App)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 579 | 79 | 
 | 2023-02-24 | 577 | 79 | 
 | 2023-02-23 | 576 | 79 | 
 | 2023-02-22 | 576 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 545 | 78 | 
 | 2023-01-28 | 543 | 78 | 
 | 2023-01-27 | 542 | 77 | 
-| 2023-01-26 | 538 | 75 | 
 

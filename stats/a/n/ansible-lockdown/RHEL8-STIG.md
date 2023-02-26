@@ -1,6 +1,6 @@
 # ansible-lockdown/RHEL8-STIG - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 72 | 39 | 
 | 2023-02-24 | 72 | 39 | 
 | 2023-02-23 | 72 | 39 | 
 | 2023-02-22 | 72 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 70 | 38 | 
 | 2023-01-28 | 70 | 38 | 
 | 2023-01-27 | 70 | 38 | 
-| 2023-01-26 | 70 | 38 | 
 

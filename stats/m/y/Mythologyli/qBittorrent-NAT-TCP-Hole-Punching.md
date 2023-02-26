@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 25
 
 ☋ Forks: 8
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/Mythologyli/qBittorrent-NAT-TCP-Hole-Punching)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 50 | 8 | 
+| 2023-02-25 | 51 | 8 | 
 | 2023-02-24 | 50 | 8 | 
 

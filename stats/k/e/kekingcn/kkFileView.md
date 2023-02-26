@@ -1,10 +1,10 @@
 # kekingcn/kkFileView - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 2187
+☋ Forks: 2188
 
-★ Stars: 7978
+★ Stars: 7984
 
 [Open repository](https://github.com/kekingcn/kkFileView)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7984 | 2188 | 
 | 2023-02-23 | 7978 | 2187 | 
 | 2023-02-22 | 7972 | 2187 | 
 | 2023-02-21 | 7967 | 2186 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 7904 | 2171 | 
 | 2023-01-28 | 7901 | 2170 | 
 | 2023-01-27 | 7897 | 2169 | 
-| 2023-01-26 | 7896 | 2169 | 
 

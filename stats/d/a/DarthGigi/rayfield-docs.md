@@ -1,8 +1,8 @@
 # DarthGigi/rayfield-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 5 | 17 | 
 | 2023-02-24 | 5 | 16 | 
 | 2023-02-23 | 5 | 16 | 
 | 2023-02-22 | 5 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 4 | 15 | 
 | 2023-01-28 | 4 | 15 | 
 | 2023-01-27 | 4 | 15 | 
-| 2023-01-26 | 4 | 13 | 
 

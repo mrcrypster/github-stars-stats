@@ -1,10 +1,10 @@
 # Cyan4973/xxHash - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 670
+☋ Forks: 671
 
-★ Stars: 7073
+★ Stars: 7076
 
 [Open repository](https://github.com/Cyan4973/xxHash)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7076 | 671 | 
 | 2023-02-24 | 7073 | 670 | 
 | 2023-02-23 | 7066 | 671 | 
 | 2023-02-21 | 7064 | 671 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 6980 | 668 | 
 | 2023-01-28 | 6979 | 668 | 
 | 2023-01-27 | 6977 | 668 | 
-| 2023-01-26 | 6974 | 669 | 
 

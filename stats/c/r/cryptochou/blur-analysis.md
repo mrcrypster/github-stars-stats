@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 25
 
 ☋ Forks: 12
 
-★ Stars: 54
+★ Stars: 57
 
 [Open repository](https://github.com/cryptochou/blur-analysis)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 54 | 12 | 
+| 2023-02-25 | 57 | 12 | 
 | 2023-02-24 | 54 | 12 | 
 | 2023-02-23 | 52 | 11 | 
 | 2023-02-22 | 47 | 9 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-29 | 22 | 2 | 
 | 2023-01-28 | 21 | 2 | 
 | 2023-01-27 | 19 | 2 | 
-| 2023-01-26 | 19 | 2 | 
 

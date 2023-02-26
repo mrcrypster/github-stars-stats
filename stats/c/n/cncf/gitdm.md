@@ -1,10 +1,10 @@
 # cncf/gitdm - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1012
 
-★ Stars: 164
+★ Stars: 163
 
 [Open repository](https://github.com/cncf/gitdm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 163 | 1012 | 
 | 2023-02-24 | 164 | 1012 | 
 | 2023-02-23 | 164 | 1011 | 
 | 2023-02-22 | 164 | 1011 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 163 | 994 | 
 | 2023-01-28 | 163 | 994 | 
 | 2023-01-27 | 162 | 993 | 
-| 2023-01-26 | 162 | 992 | 
 

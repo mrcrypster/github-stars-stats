@@ -1,10 +1,10 @@
 # zhaoolee/ins - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 76
 
-★ Stars: 1852
+★ Stars: 1855
 
 [Open repository](https://github.com/zhaoolee/ins)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1855 | 76 | 
 | 2023-02-24 | 1852 | 76 | 
 | 2023-02-23 | 1847 | 76 | 
 | 2023-02-22 | 1847 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1774 | 73 | 
 | 2023-01-28 | 1771 | 73 | 
 | 2023-01-27 | 1765 | 73 | 
-| 2023-01-26 | 1764 | 73 | 
 

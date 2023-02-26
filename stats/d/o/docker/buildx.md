@@ -1,10 +1,10 @@
 # docker/buildx - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 354
 
-★ Stars: 2442
+★ Stars: 2445
 
 [Open repository](https://github.com/docker/buildx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2445 | 354 | 
 | 2023-02-24 | 2442 | 354 | 
 | 2023-02-23 | 2437 | 354 | 
 | 2023-02-22 | 2435 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 2376 | 341 | 
 | 2023-01-29 | 2372 | 339 | 
 | 2023-01-28 | 2370 | 338 | 
-| 2023-01-26 | 2370 | 338 | 
 

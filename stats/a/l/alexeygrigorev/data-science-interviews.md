@@ -1,6 +1,6 @@
 # alexeygrigorev/data-science-interviews - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1609
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7267 | 1609 | 
 | 2023-02-24 | 7267 | 1609 | 
 | 2023-02-23 | 7266 | 1609 | 
 | 2023-02-22 | 7266 | 1608 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 7145 | 1581 | 
 | 2023-01-28 | 7142 | 1581 | 
 | 2023-01-27 | 7142 | 1581 | 
-| 2023-01-26 | 7133 | 1580 | 
 

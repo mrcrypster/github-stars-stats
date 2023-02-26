@@ -1,10 +1,10 @@
 # tandasat/Hypervisor-101-in-Rust - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 28
 
-★ Stars: 562
+★ Stars: 569
 
 [Open repository](https://github.com/tandasat/Hypervisor-101-in-Rust)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 569 | 28 | 
 | 2023-02-23 | 562 | 28 | 
 | 2023-02-22 | 554 | 26 | 
 | 2023-02-21 | 546 | 24 | 

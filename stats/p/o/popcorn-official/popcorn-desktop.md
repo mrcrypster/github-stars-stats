@@ -1,10 +1,10 @@
 # popcorn-official/popcorn-desktop - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 537
 
-★ Stars: 7833
+★ Stars: 7836
 
 [Open repository](https://github.com/popcorn-official/popcorn-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 7836 | 537 | 
 | 2023-02-24 | 7833 | 537 | 
 | 2023-02-23 | 7832 | 537 | 
 | 2023-02-22 | 7832 | 536 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 7772 | 533 | 
 | 2023-01-28 | 7769 | 532 | 
 | 2023-01-27 | 7769 | 533 | 
-| 2023-01-26 | 7769 | 532 | 
 

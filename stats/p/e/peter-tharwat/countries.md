@@ -1,6 +1,6 @@
 # peter-tharwat/countries - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 87 | 32 | 
 | 2023-02-24 | 87 | 32 | 
 | 2023-02-23 | 87 | 32 | 
 | 2023-02-21 | 87 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 86 | 30 | 
 | 2023-01-29 | 86 | 30 | 
 | 2023-01-28 | 86 | 30 | 
-| 2023-01-27 | 86 | 30 | 
 

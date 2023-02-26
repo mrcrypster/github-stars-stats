@@ -1,10 +1,10 @@
 # gwen001/cloudflare-origin-ip - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 29
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/gwen001/cloudflare-origin-ip)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 116 | 29 | 
 | 2023-02-24 | 115 | 29 | 
 | 2023-02-23 | 115 | 29 | 
 | 2023-02-22 | 115 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 107 | 28 | 
 | 2023-01-28 | 107 | 28 | 
 | 2023-01-27 | 107 | 28 | 
-| 2023-01-26 | 107 | 28 | 
 

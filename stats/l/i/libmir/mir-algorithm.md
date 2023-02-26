@@ -1,6 +1,6 @@
 # libmir/mir-algorithm - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 168 | 35 | 
 | 2023-02-24 | 168 | 35 | 
 | 2023-02-23 | 168 | 35 | 
 | 2023-02-22 | 168 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 167 | 35 | 
 | 2023-01-28 | 167 | 35 | 
 | 2023-01-27 | 166 | 35 | 
-| 2023-01-26 | 166 | 34 | 
 

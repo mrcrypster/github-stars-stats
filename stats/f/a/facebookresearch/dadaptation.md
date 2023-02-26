@@ -1,10 +1,10 @@
 # facebookresearch/dadaptation - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 9
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/facebookresearch/dadaptation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 226 | 9 | 
 | 2023-02-24 | 225 | 9 | 
 | 2023-02-23 | 223 | 9 | 
 | 2023-02-22 | 222 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 179 | 7 | 
 | 2023-01-28 | 174 | 7 | 
 | 2023-01-27 | 170 | 7 | 
-| 2023-01-26 | 165 | 6 | 
 

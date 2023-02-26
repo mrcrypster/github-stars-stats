@@ -1,10 +1,10 @@
 # frankwxu/digital-forensics-lab - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 172
 
-★ Stars: 687
+★ Stars: 689
 
 [Open repository](https://github.com/frankwxu/digital-forensics-lab)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 689 | 172 | 
 | 2023-02-25 | 687 | 172 | 
 | 2023-02-23 | 687 | 172 | 
 | 2023-02-22 | 687 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-29 | 683 | 168 | 
 | 2023-01-28 | 682 | 168 | 
 | 2023-01-27 | 682 | 164 | 
-| 2023-01-26 | 682 | 164 | 
 

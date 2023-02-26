@@ -1,8 +1,8 @@
 # shramee/starklings-cairo1 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 15
+☋ Forks: 17
 
 ★ Stars: 72
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 72 | 17 | 
+| 2023-02-25 | 72 | 16 | 
 | 2023-02-24 | 72 | 15 | 
 | 2023-02-23 | 72 | 15 | 
 | 2023-02-22 | 71 | 15 | 

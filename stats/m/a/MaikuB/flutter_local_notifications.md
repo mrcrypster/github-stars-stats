@@ -1,10 +1,10 @@
 # MaikuB/flutter_local_notifications - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1110
 
-★ Stars: 2135
+★ Stars: 2136
 
 [Open repository](https://github.com/MaikuB/flutter_local_notifications)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2136 | 1110 | 
 | 2023-02-24 | 2135 | 1110 | 
 | 2023-02-23 | 2135 | 1110 | 
 | 2023-02-22 | 2134 | 1109 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2114 | 1087 | 
 | 2023-01-28 | 2113 | 1087 | 
 | 2023-01-27 | 2113 | 1085 | 
-| 2023-01-26 | 2112 | 1083 | 
 

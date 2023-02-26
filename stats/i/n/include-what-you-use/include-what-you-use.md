@@ -1,6 +1,6 @@
 # include-what-you-use/include-what-you-use - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 340
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3241 | 340 | 
 | 2023-02-24 | 3241 | 340 | 
 | 2023-02-23 | 3238 | 340 | 
 | 2023-02-22 | 3238 | 340 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3195 | 333 | 
 | 2023-01-28 | 3194 | 332 | 
 | 2023-01-27 | 3184 | 330 | 
-| 2023-01-26 | 3181 | 330 | 
 

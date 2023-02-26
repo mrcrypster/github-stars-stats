@@ -1,8 +1,8 @@
 # codedthemes/berry-free-react-admin-template - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 613
+☋ Forks: 616
 
 ★ Stars: 1117
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1117 | 616 | 
 | 2023-02-24 | 1117 | 613 | 
 | 2023-02-23 | 1115 | 610 | 
 | 2023-02-22 | 1113 | 610 | 

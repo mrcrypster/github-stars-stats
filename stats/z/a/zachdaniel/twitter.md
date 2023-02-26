@@ -1,10 +1,10 @@
 # zachdaniel/twitter - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/zachdaniel/twitter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 18 | - | 
 | 2023-02-24 | 17 | - | 
 | 2023-02-23 | 16 | - | 
 | 2023-02-22 | 16 | - | 

@@ -1,10 +1,10 @@
 # slawlor/ractor - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 25
 
-★ Stars: 831
+★ Stars: 840
 
 [Open repository](https://github.com/slawlor/ractor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 840 | 25 | 
 | 2023-02-24 | 831 | 25 | 
 | 2023-02-23 | 824 | 25 | 
 | 2023-02-22 | 817 | 25 | 

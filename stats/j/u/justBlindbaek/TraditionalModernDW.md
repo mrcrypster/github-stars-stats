@@ -1,10 +1,10 @@
 # justBlindbaek/TraditionalModernDW - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/justBlindbaek/TraditionalModernDW)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 33 | 5 | 
 | 2023-02-24 | 32 | 5 | 
 | 2023-02-23 | 32 | 5 | 
 | 2023-02-22 | 32 | 5 | 

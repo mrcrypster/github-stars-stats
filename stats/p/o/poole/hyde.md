@@ -1,6 +1,6 @@
 # poole/hyde - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3755
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3444 | 3755 | 
 | 2023-02-24 | 3444 | 3755 | 
 | 2023-02-22 | 3442 | 3755 | 
 | 2023-02-21 | 3442 | 3757 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3432 | 3753 | 
 | 2023-01-28 | 3432 | 3751 | 
 | 2023-01-27 | 3432 | 3749 | 
-| 2023-01-26 | 3431 | 3752 | 
 

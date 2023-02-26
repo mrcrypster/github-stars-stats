@@ -1,10 +1,10 @@
 # guibou/nixGL - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 46
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/guibou/nixGL)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 356 | 46 | 
 | 2023-02-24 | 355 | 46 | 
 | 2023-02-23 | 355 | 46 | 
 | 2023-02-22 | 354 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 332 | 45 | 
 | 2023-01-28 | 331 | 45 | 
 | 2023-01-27 | 331 | 45 | 
-| 2023-01-26 | 331 | 45 | 
 

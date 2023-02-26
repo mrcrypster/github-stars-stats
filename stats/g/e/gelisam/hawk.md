@@ -1,10 +1,10 @@
 # gelisam/hawk - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 19
 
-★ Stars: 349
+★ Stars: 350
 
 [Open repository](https://github.com/gelisam/hawk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 350 | 19 | 
 | 2023-02-24 | 349 | 19 | 
 | 2023-02-22 | 349 | 19 | 
 | 2023-02-21 | 349 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 349 | 19 | 
 | 2023-01-29 | 349 | 19 | 
 | 2023-01-28 | 349 | 19 | 
-| 2023-01-26 | 349 | 19 | 
 

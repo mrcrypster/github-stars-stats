@@ -1,6 +1,6 @@
 # mikeizbicki/datasets - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 23 | 61 | 
 | 2023-02-24 | 23 | 61 | 
 | 2023-02-22 | 23 | 61 | 
 | 2023-02-21 | 23 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 23 | 61 | 
 | 2023-01-28 | 23 | 61 | 
 | 2023-01-27 | 23 | 61 | 
-| 2023-01-26 | 23 | 61 | 
 

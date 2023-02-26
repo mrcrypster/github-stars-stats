@@ -1,10 +1,10 @@
 # fwalch/tum-thesis-latex - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 182
 
-★ Stars: 412
+★ Stars: 413
 
 [Open repository](https://github.com/fwalch/tum-thesis-latex)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 413 | 182 | 
 | 2023-02-23 | 412 | 182 | 
 | 2023-02-22 | 412 | 182 | 
 | 2023-02-21 | 412 | 182 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 410 | 180 | 
 | 2023-01-28 | 410 | 180 | 
 | 2023-01-27 | 410 | 180 | 
-| 2023-01-26 | 409 | 180 | 
 

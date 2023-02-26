@@ -1,6 +1,6 @@
 # pandeiro/jaki - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 16 | 4 | 
 | 2023-02-24 | 16 | 4 | 
 | 2023-02-23 | 16 | 4 | 
 | 2023-02-22 | 16 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 16 | 4 | 
 | 2023-01-28 | 16 | 4 | 
 | 2023-01-27 | 16 | 4 | 
-| 2023-01-26 | 16 | 4 | 
 

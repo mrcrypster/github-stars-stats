@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 25
 
 ☋ Forks: 988
 
-★ Stars: 1704
+★ Stars: 1705
 
 [Open repository](https://github.com/Homebrew/install)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-25 | 1704 | 988 | 
+| 2023-02-25 | 1705 | 988 | 
 | 2023-02-24 | 1704 | 988 | 
 | 2023-02-23 | 1701 | 989 | 
 | 2023-02-22 | 1697 | 987 | 
@@ -40,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1679 | 964 | 
 | 2023-01-28 | 1678 | 962 | 
 | 2023-01-27 | 1677 | 961 | 
-| 2023-01-26 | 1676 | 961 | 
 

@@ -1,8 +1,8 @@
 # robjhyndman/forecast - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 332
+☋ Forks: 333
 
 ★ Stars: 1020
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1020 | 333 | 
 | 2023-02-24 | 1020 | 332 | 
 | 2023-02-23 | 1020 | 332 | 
 | 2023-02-22 | 1020 | 332 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1017 | 333 | 
 | 2023-01-28 | 1017 | 334 | 
 | 2023-01-27 | 1017 | 334 | 
-| 2023-01-26 | 1017 | 334 | 
 

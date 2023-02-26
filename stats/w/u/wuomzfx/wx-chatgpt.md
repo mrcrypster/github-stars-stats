@@ -1,10 +1,10 @@
 # wuomzfx/wx-chatgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/wuomzfx/wx-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 25 | 20 | 
 | 2023-02-24 | 23 | 19 | 
 | 2023-02-23 | 21 | 17 | 
 | 2023-02-22 | 21 | 16 | 

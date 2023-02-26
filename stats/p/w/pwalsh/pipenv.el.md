@@ -1,6 +1,6 @@
 # pwalsh/pipenv.el - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 163 | 22 | 
 | 2023-02-24 | 163 | 22 | 
 | 2023-02-23 | 163 | 22 | 
 | 2023-02-22 | 163 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 162 | 23 | 
 | 2023-01-28 | 161 | 23 | 
 | 2023-01-27 | 161 | 23 | 
-| 2023-01-26 | 162 | 23 | 
 

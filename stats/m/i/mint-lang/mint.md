@@ -1,6 +1,6 @@
 # mint-lang/mint - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3828 | 108 | 
 | 2023-02-24 | 3828 | 108 | 
 | 2023-02-23 | 3828 | 108 | 
 | 2023-02-21 | 3826 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3823 | 106 | 
 | 2023-01-28 | 3823 | 106 | 
 | 2023-01-27 | 3823 | 106 | 
-| 2023-01-26 | 3823 | 106 | 
 

@@ -1,10 +1,10 @@
 # Nerver4Ever/SevenSha1UIAdvancedHelper - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 533
 
-★ Stars: 1550
+★ Stars: 1552
 
 [Open repository](https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1552 | 533 | 
 | 2023-02-24 | 1550 | 533 | 
 | 2023-02-22 | 1546 | 533 | 
 | 2023-02-21 | 1543 | 533 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1482 | 512 | 
 | 2023-01-28 | 1480 | 511 | 
 | 2023-01-27 | 1479 | 510 | 
-| 2023-01-26 | 1476 | 510 | 
 

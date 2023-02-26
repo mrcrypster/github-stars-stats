@@ -1,6 +1,6 @@
 # pharo-contributions/OSSubprocess - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 29 | 20 | 
 | 2023-02-24 | 29 | 20 | 
 | 2023-02-23 | 29 | 20 | 
 | 2023-02-22 | 29 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 29 | 20 | 
 | 2023-01-28 | 29 | 20 | 
 | 2023-01-27 | 29 | 20 | 
-| 2023-01-26 | 29 | 20 | 
 

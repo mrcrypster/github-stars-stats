@@ -1,10 +1,10 @@
 # jacklandrin/OnlySwitch - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 2009
+★ Stars: 2013
 
 [Open repository](https://github.com/jacklandrin/OnlySwitch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2013 | 128 | 
 | 2023-02-24 | 2009 | 127 | 
 | 2023-02-23 | 2005 | 127 | 
 | 2023-02-22 | 1997 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1958 | 123 | 
 | 2023-01-28 | 1956 | 123 | 
 | 2023-01-27 | 1952 | 123 | 
-| 2023-01-26 | 1949 | 123 | 
 

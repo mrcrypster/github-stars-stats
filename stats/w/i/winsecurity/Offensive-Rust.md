@@ -1,6 +1,6 @@
 # winsecurity/Offensive-Rust - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 174 | 20 | 
 | 2023-02-24 | 174 | 20 | 
 | 2023-02-22 | 174 | 20 | 
 | 2023-02-21 | 174 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 168 | 19 | 
 | 2023-01-29 | 168 | 19 | 
 | 2023-01-28 | 168 | 19 | 
-| 2023-01-27 | 168 | 19 | 
 

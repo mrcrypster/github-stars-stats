@@ -1,6 +1,6 @@
 # phil294/density-userstyle - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 51 | 3 | 
 | 2023-02-24 | 51 | 3 | 
 | 2023-02-23 | 51 | 3 | 
 | 2023-02-22 | 51 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 51 | 4 | 
 | 2023-01-28 | 51 | 4 | 
 | 2023-01-27 | 51 | 4 | 
-| 2023-01-26 | 51 | 4 | 
 

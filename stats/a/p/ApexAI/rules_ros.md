@@ -1,6 +1,6 @@
 # ApexAI/rules_ros - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 23 | 6 | 
 | 2023-02-23 | 23 | 6 | 
 | 2023-02-22 | 23 | 6 | 
 | 2023-02-21 | 23 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 22 | 6 | 
 | 2023-01-28 | 22 | 6 | 
 | 2023-01-27 | 22 | 6 | 
-| 2023-01-26 | 22 | 6 | 
 

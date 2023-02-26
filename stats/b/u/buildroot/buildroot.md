@@ -1,10 +1,10 @@
 # buildroot/buildroot - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1854
+☋ Forks: 1853
 
-★ Stars: 1978
+★ Stars: 1980
 
 [Open repository](https://github.com/buildroot/buildroot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1980 | 1853 | 
 | 2023-02-24 | 1978 | 1854 | 
 | 2023-02-23 | 1975 | 1853 | 
 | 2023-02-22 | 1972 | 1849 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1945 | 1826 | 
 | 2023-01-28 | 1945 | 1825 | 
 | 2023-01-27 | 1944 | 1824 | 
-| 2023-01-26 | 1942 | 1824 | 
 

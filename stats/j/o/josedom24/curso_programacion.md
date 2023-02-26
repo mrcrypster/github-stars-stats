@@ -1,6 +1,6 @@
 # josedom24/curso_programacion - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 50 | 60 | 
 | 2023-02-24 | 50 | 60 | 
 | 2023-02-23 | 50 | 59 | 
 | 2023-02-22 | 50 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 49 | 59 | 
 | 2023-01-28 | 49 | 59 | 
 | 2023-01-27 | 49 | 58 | 
-| 2023-01-26 | 49 | 58 | 
 

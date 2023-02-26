@@ -1,6 +1,6 @@
 # aaronzirbes/vim-files - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6 | 7 | 
 | 2023-02-24 | 6 | 7 | 
 | 2023-02-23 | 6 | 7 | 
 | 2023-02-22 | 6 | 7 | 

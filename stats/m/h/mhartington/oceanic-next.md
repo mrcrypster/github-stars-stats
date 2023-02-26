@@ -1,6 +1,6 @@
 # mhartington/oceanic-next - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1059 | 140 | 
 | 2023-02-24 | 1059 | 140 | 
 | 2023-02-23 | 1059 | 140 | 
 | 2023-02-22 | 1059 | 140 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1052 | 139 | 
 | 2023-01-28 | 1052 | 139 | 
 | 2023-01-27 | 1052 | 139 | 
-| 2023-01-26 | 1051 | 139 | 
 

@@ -1,10 +1,10 @@
 # zachallaun/mneme - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/zachallaun/mneme)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 21 | 1 | 
 | 2023-02-24 | 20 | 1 | 
 | 2023-02-23 | 19 | 1 | 
 | 2023-02-22 | 18 | 1 | 

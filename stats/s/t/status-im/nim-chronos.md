@@ -1,10 +1,10 @@
 # status-im/nim-chronos - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 39
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/status-im/nim-chronos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 263 | 39 | 
 | 2023-02-24 | 262 | 39 | 
 | 2023-02-23 | 262 | 39 | 
 | 2023-02-22 | 263 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 259 | 39 | 
 | 2023-01-28 | 259 | 39 | 
 | 2023-01-27 | 258 | 39 | 
-| 2023-01-26 | 258 | 39 | 
 

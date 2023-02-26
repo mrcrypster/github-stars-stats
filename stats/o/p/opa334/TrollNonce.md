@@ -1,6 +1,6 @@
 # opa334/TrollNonce - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 146 | 3 | 
 | 2023-02-24 | 146 | 3 | 
 | 2023-02-22 | 146 | 3 | 
 | 2023-02-21 | 145 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 143 | 3 | 
 | 2023-01-28 | 143 | 3 | 
 | 2023-01-27 | 143 | 3 | 
-| 2023-01-26 | 143 | 3 | 
 

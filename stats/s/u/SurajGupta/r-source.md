@@ -1,10 +1,10 @@
 # SurajGupta/r-source - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 198
 
-★ Stars: 354
+★ Stars: 352
 
 [Open repository](https://github.com/SurajGupta/r-source)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 352 | 198 | 
 | 2023-02-24 | 354 | 198 | 
 | 2023-02-23 | 354 | 198 | 
 | 2023-02-22 | 354 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 350 | 196 | 
 | 2023-01-28 | 350 | 196 | 
 | 2023-01-27 | 350 | 196 | 
-| 2023-01-26 | 350 | 195 | 
 

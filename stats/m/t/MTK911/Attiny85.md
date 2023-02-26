@@ -1,6 +1,6 @@
 # MTK911/Attiny85 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 337
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 941 | 337 | 
 | 2023-02-24 | 941 | 337 | 
 | 2023-02-23 | 938 | 337 | 
 | 2023-02-22 | 937 | 335 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 918 | 328 | 
 | 2023-01-28 | 916 | 327 | 
 | 2023-01-27 | 916 | 327 | 
-| 2023-01-26 | 913 | 326 | 
 

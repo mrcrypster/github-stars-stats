@@ -1,6 +1,6 @@
 # puppetlabs/puppetlabs-peadm - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 28 | 39 | 
 | 2023-02-24 | 28 | 39 | 
 | 2023-02-23 | 28 | 39 | 
 | 2023-02-22 | 28 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 29 | 39 | 
 | 2023-01-28 | 29 | 39 | 
 | 2023-01-27 | 29 | 39 | 
-| 2023-01-26 | 29 | 39 | 
 

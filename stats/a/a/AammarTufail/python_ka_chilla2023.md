@@ -1,6 +1,6 @@
 # AammarTufail/python_ka_chilla2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 185 | 129 | 
 | 2023-02-24 | 185 | 129 | 
 | 2023-02-23 | 183 | 125 | 
 | 2023-02-21 | 180 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 107 | 85 | 
 | 2023-01-28 | 107 | 84 | 
 | 2023-01-27 | 106 | 84 | 
-| 2023-01-26 | 104 | 83 | 
 

@@ -1,10 +1,10 @@
 # blunt-instruments/MevWeth - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/blunt-instruments/MevWeth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 55 | 3 | 
 | 2023-02-24 | 54 | 3 | 
 | 2023-02-23 | 54 | 3 | 
 | 2023-02-22 | 54 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 51 | 3 | 
 | 2023-01-29 | 51 | 3 | 
 | 2023-01-28 | 51 | 3 | 
-| 2023-01-26 | 51 | 3 | 
 

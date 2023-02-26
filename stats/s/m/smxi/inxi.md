@@ -1,10 +1,10 @@
 # smxi/inxi - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 86
 
-★ Stars: 1005
+★ Stars: 1006
 
 [Open repository](https://github.com/smxi/inxi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1006 | 86 | 
 | 2023-02-24 | 1005 | 86 | 
 | 2023-02-23 | 1004 | 86 | 
 | 2023-02-22 | 1004 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 996 | 86 | 
 | 2023-01-28 | 995 | 86 | 
 | 2023-01-27 | 995 | 86 | 
-| 2023-01-26 | 995 | 86 | 
 

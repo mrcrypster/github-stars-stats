@@ -1,6 +1,6 @@
 # dleal-mojotech/edie - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 29 | - | 
 | 2023-02-24 | 29 | - | 
 | 2023-02-23 | 29 | - | 
 | 2023-02-22 | 29 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 18 | - | 
 | 2023-01-28 | 18 | - | 
 | 2023-01-27 | 18 | - | 
-| 2023-01-26 | 18 | - | 
 

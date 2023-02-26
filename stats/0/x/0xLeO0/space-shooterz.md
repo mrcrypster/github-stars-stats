@@ -1,6 +1,6 @@
 # 0xLeO0/space-shooterz - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 12 | - | 
 | 2023-02-24 | 12 | - | 
 | 2023-02-23 | 12 | - | 
 | 2023-02-21 | 12 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 12 | - | 
 | 2023-01-28 | 12 | - | 
 | 2023-01-27 | 12 | - | 
-| 2023-01-26 | 12 | - | 
 

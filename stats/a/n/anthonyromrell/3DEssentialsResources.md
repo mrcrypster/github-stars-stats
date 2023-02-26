@@ -1,8 +1,8 @@
 # anthonyromrell/3DEssentialsResources - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | - | 32 | 
 | 2023-02-24 | - | 31 | 
 | 2023-02-22 | - | 31 | 
 | 2023-02-21 | - | 31 | 

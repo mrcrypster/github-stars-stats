@@ -1,10 +1,10 @@
 # gooberxyz/goobervault - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/gooberxyz/goobervault)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 77 | 1 | 
 | 2023-02-24 | 76 | 1 | 
 | 2023-02-23 | 76 | 1 | 
 | 2023-02-22 | 77 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 77 | 1 | 
 | 2023-01-29 | 77 | 1 | 
 | 2023-01-28 | 77 | 1 | 
-| 2023-01-27 | 77 | 1 | 
 

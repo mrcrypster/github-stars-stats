@@ -1,8 +1,8 @@
 # TimUntersberger/neogit - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 101
+☋ Forks: 103
 
 ★ Stars: 1982
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1982 | 103 | 
 | 2023-02-24 | 1982 | 101 | 
 | 2023-02-23 | 1980 | 102 | 
 | 2023-02-22 | 1979 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1936 | 98 | 
 | 2023-01-28 | 1935 | 98 | 
 | 2023-01-27 | 1935 | 97 | 
-| 2023-01-26 | 1932 | 97 | 
 

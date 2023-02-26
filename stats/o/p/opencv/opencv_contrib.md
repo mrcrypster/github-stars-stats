@@ -1,10 +1,10 @@
 # opencv/opencv_contrib - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 5539
+☋ Forks: 5541
 
-★ Stars: 8059
+★ Stars: 8063
 
 [Open repository](https://github.com/opencv/opencv_contrib)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 8063 | 5541 | 
 | 2023-02-24 | 8059 | 5539 | 
 | 2023-02-22 | 8053 | 5539 | 
 | 2023-02-21 | 8054 | 5538 | 

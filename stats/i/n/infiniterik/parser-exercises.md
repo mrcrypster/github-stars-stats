@@ -1,6 +1,6 @@
 # infiniterik/parser-exercises - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | - | 25 | 
 | 2023-02-24 | - | 25 | 
 | 2023-02-22 | - | 25 | 
 | 2023-02-21 | - | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | - | 25 | 
 | 2023-01-29 | - | 25 | 
 | 2023-01-28 | - | 25 | 
-| 2023-01-27 | - | 25 | 
 

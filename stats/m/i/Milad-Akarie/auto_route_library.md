@@ -1,8 +1,8 @@
 # Milad-Akarie/auto_route_library - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 303
+☋ Forks: 304
 
 ★ Stars: 1232
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1232 | 304 | 
 | 2023-02-24 | 1232 | 303 | 
 | 2023-02-23 | 1232 | 302 | 
 | 2023-02-22 | 1227 | 302 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1213 | 297 | 
 | 2023-01-28 | 1212 | 298 | 
 | 2023-01-27 | 1211 | 298 | 
-| 2023-01-26 | 1211 | 298 | 
 

@@ -1,10 +1,10 @@
 # MPLLang/mpl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/MPLLang/mpl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 190 | 11 | 
 | 2023-02-24 | 189 | 11 | 
 | 2023-02-23 | 190 | 10 | 
 | 2023-02-22 | 190 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 188 | 10 | 
 | 2023-01-28 | 188 | 10 | 
 | 2023-01-27 | 189 | 10 | 
-| 2023-01-26 | 189 | 10 | 
 

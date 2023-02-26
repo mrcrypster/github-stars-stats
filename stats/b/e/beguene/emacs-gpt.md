@@ -1,6 +1,6 @@
 # beguene/emacs-gpt - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 43 | 6 | 
 | 2023-02-24 | 43 | 6 | 
 | 2023-02-23 | 42 | 6 | 
 | 2023-02-22 | 42 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 36 | 3 | 
 | 2023-01-28 | 36 | 3 | 
 | 2023-01-27 | 36 | 3 | 
-| 2023-01-26 | 35 | 3 | 
 

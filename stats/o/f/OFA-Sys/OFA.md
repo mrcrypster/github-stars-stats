@@ -1,8 +1,8 @@
 # OFA-Sys/OFA - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 194
+☋ Forks: 195
 
 ★ Stars: 1574
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1574 | 195 | 
 | 2023-02-24 | 1574 | 194 | 
 | 2023-02-22 | 1573 | 194 | 
 | 2023-02-21 | 1569 | 194 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1478 | 181 | 
 | 2023-01-29 | 1473 | 181 | 
 | 2023-01-28 | 1470 | 180 | 
-| 2023-01-27 | 1465 | 179 | 
 

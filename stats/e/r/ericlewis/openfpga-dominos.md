@@ -1,6 +1,6 @@
 # ericlewis/openfpga-dominos - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 23 | - | 
 | 2023-02-25 | 23 | - | 
 | 2023-02-23 | 23 | - | 
 | 2023-02-22 | 23 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 23 | - | 
 | 2023-01-28 | 23 | - | 
 | 2023-01-27 | 23 | - | 
-| 2023-01-26 | 23 | - | 
 

@@ -1,10 +1,10 @@
 # stevemk14ebr/PolyHook_2_0 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 197
 
-★ Stars: 1157
+★ Stars: 1160
 
 [Open repository](https://github.com/stevemk14ebr/PolyHook_2_0)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1160 | 197 | 
 | 2023-02-24 | 1157 | 197 | 
 | 2023-02-23 | 1156 | 197 | 
 | 2023-02-22 | 1155 | 197 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1145 | 195 | 
 | 2023-01-29 | 1144 | 195 | 
 | 2023-01-28 | 1143 | 195 | 
-| 2023-01-26 | 1142 | 195 | 
 

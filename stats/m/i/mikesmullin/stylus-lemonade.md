@@ -1,6 +1,6 @@
 # mikesmullin/stylus-lemonade - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 47 | 3 | 
 | 2023-02-24 | 47 | 3 | 
 | 2023-02-23 | 47 | 3 | 
 | 2023-02-22 | 47 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 47 | 3 | 
 | 2023-01-28 | 47 | 3 | 
 | 2023-01-27 | 47 | 3 | 
-| 2023-01-26 | 47 | 3 | 
 

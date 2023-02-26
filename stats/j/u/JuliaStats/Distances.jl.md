@@ -1,6 +1,6 @@
 # JuliaStats/Distances.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 366 | 93 | 
 | 2023-02-24 | 366 | 93 | 
 | 2023-02-23 | 365 | 93 | 
 | 2023-02-21 | 365 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 361 | 93 | 
 | 2023-01-28 | 361 | 93 | 
 | 2023-01-27 | 361 | 93 | 
-| 2023-01-26 | 361 | 93 | 
 

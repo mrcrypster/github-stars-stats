@@ -1,10 +1,10 @@
 # olofk/serv - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 137
 
-★ Stars: 925
+★ Stars: 927
 
 [Open repository](https://github.com/olofk/serv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 927 | 137 | 
 | 2023-02-24 | 925 | 137 | 
 | 2023-02-23 | 924 | 137 | 
 | 2023-02-22 | 923 | 137 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 914 | 134 | 
 | 2023-01-28 | 914 | 134 | 
 | 2023-01-27 | 913 | 134 | 
-| 2023-01-26 | 913 | 134 | 
 

@@ -1,8 +1,8 @@
 # muneeb-mbytes/pulpino__spi_master__ip_verification - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 10 | 5 | 
 | 2023-02-24 | 10 | 4 | 
 | 2023-02-23 | 10 | 4 | 
 | 2023-02-22 | 10 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 10 | 4 | 
 | 2023-01-28 | 10 | 4 | 
 | 2023-01-27 | 10 | 4 | 
-| 2023-01-26 | 10 | 4 | 
 

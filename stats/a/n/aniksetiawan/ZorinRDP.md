@@ -1,8 +1,8 @@
 # aniksetiawan/ZorinRDP - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 107
+☋ Forks: 109
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | - | 109 | 
 | 2023-02-24 | - | 107 | 
 | 2023-02-23 | - | 107 | 
 | 2023-02-22 | - | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | - | 75 | 
 | 2023-01-28 | - | 72 | 
 | 2023-01-27 | - | 65 | 
-| 2023-01-26 | - | 64 | 
 

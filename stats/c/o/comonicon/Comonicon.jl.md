@@ -1,6 +1,6 @@
 # comonicon/Comonicon.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 200 | 17 | 
 | 2023-02-24 | 200 | 17 | 
 | 2023-02-22 | 200 | 17 | 
 | 2023-02-21 | 200 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 196 | 15 | 
 | 2023-01-28 | 196 | 15 | 
 | 2023-01-27 | 196 | 15 | 
-| 2023-01-26 | 196 | 15 | 
 

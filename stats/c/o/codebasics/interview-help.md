@@ -1,10 +1,10 @@
 # codebasics/interview-help - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 560
+★ Stars: 561
 
 [Open repository](https://github.com/codebasics/interview-help)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 561 | 148 | 
 | 2023-02-24 | 560 | 147 | 
 | 2023-02-23 | 561 | 147 | 
 | 2023-02-22 | 561 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 557 | 145 | 
 | 2023-01-28 | 557 | 145 | 
 | 2023-01-27 | 557 | 145 | 
-| 2023-01-26 | 557 | 145 | 
 

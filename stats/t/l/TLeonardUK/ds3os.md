@@ -1,6 +1,6 @@
 # TLeonardUK/ds3os - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 574 | 92 | 
 | 2023-02-24 | 574 | 92 | 
 | 2023-02-23 | 573 | 92 | 
 | 2023-02-22 | 573 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 560 | 91 | 
 | 2023-01-28 | 560 | 91 | 
 | 2023-01-27 | 559 | 92 | 
-| 2023-01-26 | 559 | 92 | 
 

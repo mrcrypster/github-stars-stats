@@ -1,10 +1,10 @@
 # jay-babu/mason-nvim-dap.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/jay-babu/mason-nvim-dap.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 109 | 11 | 
 | 2023-02-24 | 108 | 11 | 
 | 2023-02-23 | 107 | 11 | 
 | 2023-02-22 | 105 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 83 | 10 | 
 | 2023-01-28 | 83 | 10 | 
 | 2023-01-27 | 82 | 10 | 
-| 2023-01-26 | 82 | 10 | 
 

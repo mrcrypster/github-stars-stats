@@ -1,10 +1,10 @@
 # 30-seconds/30-seconds-of-code - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 11177
+☋ Forks: 11179
 
-★ Stars: 108058
+★ Stars: 108086
 
 [Open repository](https://github.com/30-seconds/30-seconds-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 108086 | 11179 | 
 | 2023-02-24 | 108058 | 11177 | 
 | 2023-02-23 | 108030 | 11178 | 
 | 2023-02-22 | 107988 | 11172 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 107179 | 11124 | 
 | 2023-01-29 | 107155 | 11124 | 
 | 2023-01-28 | 107123 | 11119 | 
-| 2023-01-27 | 107098 | 11117 | 
 

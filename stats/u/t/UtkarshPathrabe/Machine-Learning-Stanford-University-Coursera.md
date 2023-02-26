@@ -1,10 +1,10 @@
 # UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 91
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 183 | 91 | 
 | 2023-02-24 | 182 | 91 | 
 | 2023-02-23 | 182 | 91 | 
 | 2023-02-22 | 182 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 177 | 89 | 
 | 2023-01-28 | 177 | 89 | 
 | 2023-01-27 | 177 | 89 | 
-| 2023-01-26 | 177 | 89 | 
 

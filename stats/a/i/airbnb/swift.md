@@ -1,8 +1,8 @@
 # airbnb/swift - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 276
+☋ Forks: 277
 
 ★ Stars: 1839
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1839 | 277 | 
 | 2023-02-24 | 1839 | 276 | 
 | 2023-02-23 | 1838 | 276 | 
 | 2023-02-22 | 1836 | 275 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1812 | 272 | 
 | 2023-01-28 | 1812 | 273 | 
 | 2023-01-27 | 1811 | 272 | 
-| 2023-01-26 | 1807 | 272 | 
 

@@ -1,6 +1,6 @@
 # kjvmartinez/php-adventure-broccoli - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | - | 37 | 
 | 2023-02-24 | - | 37 | 
 | 2023-02-23 | - | 37 | 
 | 2023-02-22 | - | 37 | 

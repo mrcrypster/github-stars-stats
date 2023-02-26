@@ -1,6 +1,6 @@
 # a16z/zkdocs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 278 | 25 | 
 | 2023-02-24 | 278 | 25 | 
 | 2023-02-22 | 277 | 25 | 
 | 2023-02-21 | 277 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 272 | 25 | 
 | 2023-01-29 | 272 | 25 | 
 | 2023-01-28 | 272 | 25 | 
-| 2023-01-27 | 272 | 25 | 
 

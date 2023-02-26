@@ -1,10 +1,10 @@
 # Glench/Vim-Jinja2-Syntax - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 63
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/Glench/Vim-Jinja2-Syntax)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 323 | 63 | 
 | 2023-02-24 | 322 | 63 | 
 | 2023-02-23 | 322 | 63 | 
 | 2023-02-22 | 322 | 63 | 

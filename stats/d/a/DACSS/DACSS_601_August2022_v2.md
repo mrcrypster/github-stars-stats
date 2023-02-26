@@ -1,6 +1,6 @@
 # DACSS/DACSS_601_August2022_v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1 | 41 | 
 | 2023-02-25 | 1 | 41 | 
 | 2023-02-23 | 1 | 41 | 
 | 2023-02-22 | 1 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-29 | 1 | 41 | 
 | 2023-01-28 | 1 | 41 | 
 | 2023-01-27 | 1 | 41 | 
-| 2023-01-26 | 1 | 41 | 
 

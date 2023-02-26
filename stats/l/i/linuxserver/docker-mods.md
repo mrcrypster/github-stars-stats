@@ -1,10 +1,10 @@
 # linuxserver/docker-mods - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 192
 
-★ Stars: 564
+★ Stars: 565
 
 [Open repository](https://github.com/linuxserver/docker-mods)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 565 | 192 | 
 | 2023-02-24 | 564 | 192 | 
 | 2023-02-23 | 565 | 192 | 
 | 2023-02-22 | 565 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 541 | 190 | 
 | 2023-01-28 | 540 | 189 | 
 | 2023-01-27 | 540 | 189 | 
-| 2023-01-26 | 539 | 189 | 
 

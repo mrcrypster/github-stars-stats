@@ -1,8 +1,8 @@
 # nuxt/nuxt.new - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 2
+☋ Forks: 1
 
 ★ Stars: 96
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 96 | 1 | 
 | 2023-02-24 | 96 | 2 | 
 | 2023-02-23 | 96 | 2 | 
 | 2023-02-22 | 95 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 80 | 1 | 
 | 2023-01-28 | 79 | 1 | 
 | 2023-01-27 | 79 | 1 | 
-| 2023-01-26 | 79 | 1 | 
 

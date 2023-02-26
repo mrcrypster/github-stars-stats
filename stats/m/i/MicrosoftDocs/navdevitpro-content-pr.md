@@ -1,6 +1,6 @@
 # MicrosoftDocs/navdevitpro-content-pr - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6 | 31 | 
 | 2023-02-24 | 6 | 31 | 
 | 2023-02-23 | 6 | 31 | 
 | 2023-02-22 | 6 | 31 | 

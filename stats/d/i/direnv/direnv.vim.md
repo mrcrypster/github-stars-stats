@@ -1,10 +1,10 @@
 # direnv/direnv.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 9
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/direnv/direnv.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 134 | 9 | 
 | 2023-02-24 | 133 | 9 | 
 | 2023-02-23 | 133 | 9 | 
 | 2023-02-22 | 133 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 133 | 9 | 
 | 2023-01-28 | 133 | 9 | 
 | 2023-01-27 | 133 | 9 | 
-| 2023-01-26 | 133 | 9 | 
 

@@ -1,10 +1,10 @@
 # typestack/class-validator - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 684
 
-★ Stars: 8997
+★ Stars: 9004
 
 [Open repository](https://github.com/typestack/class-validator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 9004 | 684 | 
 | 2023-02-24 | 8997 | 684 | 
 | 2023-02-23 | 8990 | 684 | 
 | 2023-02-22 | 8983 | 684 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 8880 | 677 | 
 | 2023-01-28 | 8875 | 677 | 
 | 2023-01-27 | 8874 | 677 | 
-| 2023-01-26 | 8870 | 676 | 
 

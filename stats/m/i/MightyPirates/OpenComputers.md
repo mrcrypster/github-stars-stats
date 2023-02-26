@@ -1,6 +1,6 @@
 # MightyPirates/OpenComputers - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 399
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1408 | 399 | 
 | 2023-02-24 | 1408 | 399 | 
 | 2023-02-23 | 1409 | 399 | 
 | 2023-02-22 | 1407 | 399 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1407 | 393 | 
 | 2023-01-29 | 1407 | 393 | 
 | 2023-01-28 | 1406 | 393 | 
-| 2023-01-27 | 1405 | 393 | 
 

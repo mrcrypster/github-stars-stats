@@ -1,8 +1,8 @@
 # 0xPolygon/polygon-edge - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 314
+☋ Forks: 313
 
 ★ Stars: 767
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 767 | 313 | 
 | 2023-02-24 | 767 | 314 | 
 | 2023-02-23 | 767 | 313 | 
 | 2023-02-22 | 767 | 314 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 745 | 307 | 
 | 2023-01-28 | 743 | 307 | 
 | 2023-01-27 | 741 | 307 | 
-| 2023-01-26 | 741 | 307 | 
 

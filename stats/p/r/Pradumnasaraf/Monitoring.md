@@ -1,6 +1,6 @@
 # Pradumnasaraf/Monitoring - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 7 | 2 | 
 | 2023-02-24 | 7 | 2 | 
 | 2023-02-23 | 7 | 2 | 
 | 2023-02-22 | 7 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 8 | 2 | 
 | 2023-01-29 | 8 | 2 | 
 | 2023-01-27 | 8 | 2 | 
-| 2023-01-26 | 8 | 2 | 
 

@@ -1,6 +1,6 @@
 # braveclojure/cftbat-code - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 374 | 99 | 
 | 2023-02-24 | 374 | 99 | 
 | 2023-02-23 | 373 | 99 | 
 | 2023-02-22 | 373 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 370 | 97 | 
 | 2023-01-29 | 369 | 97 | 
 | 2023-01-27 | 369 | 97 | 
-| 2023-01-26 | 369 | 97 | 
 

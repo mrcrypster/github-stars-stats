@@ -1,10 +1,10 @@
 # resemble-ai/monotonic_align - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/resemble-ai/monotonic_align)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 42 | 3 | 
 | 2023-02-24 | 41 | 3 | 
 | 2023-02-22 | 41 | 3 | 
 | 2023-02-21 | 41 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 34 | 3 | 
 | 2023-01-28 | 34 | 3 | 
 | 2023-01-27 | 34 | 3 | 
-| 2023-01-26 | 34 | 3 | 
 

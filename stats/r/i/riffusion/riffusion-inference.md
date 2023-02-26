@@ -1,10 +1,10 @@
 # riffusion/riffusion-inference - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 162
+☋ Forks: 165
 
-★ Stars: 1513
+★ Stars: 1520
 
 [Open repository](https://github.com/riffusion/riffusion-inference)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1520 | 165 | 
 | 2023-02-24 | 1513 | 162 | 
 | 2023-02-23 | 1504 | 161 | 
 | 2023-02-22 | 1496 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1315 | 132 | 
 | 2023-01-28 | 1304 | 129 | 
 | 2023-01-27 | 1290 | 128 | 
-| 2023-01-26 | 1277 | 127 | 
 

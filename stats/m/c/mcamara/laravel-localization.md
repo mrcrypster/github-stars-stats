@@ -1,10 +1,10 @@
 # mcamara/laravel-localization - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 476
 
-★ Stars: 3075
+★ Stars: 3077
 
 [Open repository](https://github.com/mcamara/laravel-localization)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3077 | 476 | 
 | 2023-02-25 | 3075 | 476 | 
 | 2023-02-23 | 3075 | 476 | 
 | 2023-02-22 | 3075 | 477 | 

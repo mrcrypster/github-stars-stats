@@ -1,6 +1,6 @@
 # Xilinx/qemu-devicetrees - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 32 | 20 | 
 | 2023-02-24 | 32 | 20 | 
 | 2023-02-23 | 32 | 20 | 
 | 2023-02-22 | 32 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 31 | 20 | 
 | 2023-01-28 | 31 | 20 | 
 | 2023-01-27 | 31 | 20 | 
-| 2023-01-26 | 31 | 20 | 
 

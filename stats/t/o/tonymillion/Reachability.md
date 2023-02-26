@@ -1,6 +1,6 @@
 # tonymillion/Reachability - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1261
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6958 | 1261 | 
 | 2023-02-24 | 6958 | 1261 | 
 | 2023-02-22 | 6958 | 1261 | 
 | 2023-02-21 | 6958 | 1262 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 6952 | 1262 | 
 | 2023-01-28 | 6952 | 1262 | 
 | 2023-01-27 | 6952 | 1262 | 
-| 2023-01-26 | 6952 | 1262 | 
 

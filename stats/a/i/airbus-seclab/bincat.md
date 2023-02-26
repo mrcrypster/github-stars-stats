@@ -1,6 +1,6 @@
 # airbus-seclab/bincat - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1460 | 162 | 
 | 2023-02-24 | 1460 | 162 | 
 | 2023-02-23 | 1459 | 162 | 
 | 2023-02-22 | 1459 | 162 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 1449 | 162 | 
 | 2023-01-28 | 1449 | 162 | 
 | 2023-01-27 | 1449 | 162 | 
-| 2023-01-26 | 1449 | 162 | 
 

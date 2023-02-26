@@ -1,10 +1,10 @@
 # baristunar/design-patterns-tr - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 27
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/baristunar/design-patterns-tr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 241 | 27 | 
 | 2023-02-23 | 240 | 27 | 
 | 2023-02-22 | 239 | 27 | 
 | 2023-02-21 | 239 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 234 | 25 | 
 | 2023-01-29 | 234 | 25 | 
 | 2023-01-28 | 234 | 25 | 
-| 2023-01-27 | 234 | 25 | 
 

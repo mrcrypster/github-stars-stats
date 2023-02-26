@@ -1,6 +1,6 @@
 # mattermost/mattermost-looker - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 9 | 5 | 
 | 2023-02-24 | 9 | 5 | 
 | 2023-02-23 | 9 | 5 | 
 | 2023-02-22 | 9 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 10 | 5 | 
 | 2023-01-28 | 10 | 5 | 
 | 2023-01-27 | 10 | 5 | 
-| 2023-01-26 | 10 | 5 | 
 

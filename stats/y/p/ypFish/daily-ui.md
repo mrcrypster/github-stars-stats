@@ -1,6 +1,6 @@
 # ypFish/daily-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 75 | 11 | 
 | 2023-02-24 | 75 | 11 | 
 | 2023-02-23 | 75 | 11 | 
 | 2023-02-22 | 75 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 75 | 11 | 
 | 2023-01-28 | 75 | 11 | 
 | 2023-01-27 | 75 | 11 | 
-| 2023-01-26 | 75 | 11 | 
 

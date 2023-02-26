@@ -1,6 +1,6 @@
 # CarlBugeja/Open-Reflow - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 189 | 19 | 
 | 2023-02-24 | 189 | 19 | 
 | 2023-02-23 | 189 | 19 | 
 | 2023-02-22 | 188 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 158 | 14 | 
 | 2023-01-28 | 150 | 14 | 
 | 2023-01-27 | 148 | 14 | 
-| 2023-01-26 | 145 | 13 | 
 

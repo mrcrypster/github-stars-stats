@@ -1,10 +1,10 @@
 # jacoco/jacoco - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1011
 
-★ Stars: 3533
+★ Stars: 3535
 
 [Open repository](https://github.com/jacoco/jacoco)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3535 | 1011 | 
 | 2023-02-25 | 3533 | 1011 | 
 | 2023-02-23 | 3533 | 1011 | 
 | 2023-02-22 | 3531 | 1011 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-29 | 3495 | 1004 | 
 | 2023-01-28 | 3494 | 1003 | 
 | 2023-01-27 | 3490 | 1003 | 
-| 2023-01-26 | 3488 | 1004 | 
 

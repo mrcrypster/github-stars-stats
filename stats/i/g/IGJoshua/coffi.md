@@ -1,10 +1,10 @@
 # IGJoshua/coffi - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/IGJoshua/coffi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 207 | 1 | 
 | 2023-02-25 | 206 | 1 | 
 | 2023-02-23 | 206 | 1 | 
 | 2023-02-22 | 206 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 206 | 1 | 
 | 2023-01-28 | 206 | 1 | 
 | 2023-01-27 | 206 | 1 | 
-| 2023-01-26 | 206 | 1 | 
 

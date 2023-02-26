@@ -1,10 +1,10 @@
 # mumuy/relationship - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 277
 
-★ Stars: 2150
+★ Stars: 2151
 
 [Open repository](https://github.com/mumuy/relationship)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 2151 | 277 | 
 | 2023-02-24 | 2150 | 277 | 
 | 2023-02-23 | 2145 | 277 | 
 | 2023-02-22 | 2142 | 277 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 2021 | 269 | 
 | 2023-01-28 | 2013 | 269 | 
 | 2023-01-27 | 2007 | 268 | 
-| 2023-01-26 | 2003 | 268 | 
 

@@ -1,10 +1,10 @@
 # beyondgrep/ack3 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 60
 
-★ Stars: 559
+★ Stars: 560
 
 [Open repository](https://github.com/beyondgrep/ack3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 560 | 60 | 
 | 2023-02-24 | 559 | 60 | 
 | 2023-02-23 | 559 | 60 | 
 | 2023-02-22 | 559 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 554 | 61 | 
 | 2023-01-28 | 554 | 61 | 
 | 2023-01-27 | 554 | 61 | 
-| 2023-01-26 | 553 | 61 | 
 

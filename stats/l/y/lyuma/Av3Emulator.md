@@ -1,10 +1,10 @@
 # lyuma/Av3Emulator - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 25
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/lyuma/Av3Emulator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 433 | 25 | 
 | 2023-02-23 | 432 | 25 | 
 | 2023-02-22 | 429 | 25 | 
 | 2023-02-21 | 428 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 423 | 22 | 
 | 2023-01-29 | 423 | 22 | 
 | 2023-01-28 | 423 | 22 | 
-| 2023-01-27 | 423 | 22 | 
 

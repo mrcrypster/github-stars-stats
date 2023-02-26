@@ -1,6 +1,6 @@
 # odyslam/foundry101 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 90 | 3 | 
 | 2023-02-24 | 90 | 3 | 
 | 2023-02-22 | 90 | 3 | 
 | 2023-02-21 | 90 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 88 | 3 | 
 | 2023-01-28 | 88 | 3 | 
 | 2023-01-27 | 88 | 3 | 
-| 2023-01-26 | 88 | 3 | 
 

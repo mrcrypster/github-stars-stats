@@ -1,6 +1,6 @@
 # tngoman/Store-POS - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 427 | 250 | 
 | 2023-02-24 | 427 | 250 | 
 | 2023-02-23 | 426 | 249 | 
 | 2023-02-22 | 425 | 249 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 407 | 244 | 
 | 2023-01-28 | 406 | 244 | 
 | 2023-01-27 | 403 | 244 | 
-| 2023-01-26 | 403 | 244 | 
 

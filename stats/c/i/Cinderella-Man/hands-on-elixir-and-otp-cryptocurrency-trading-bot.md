@@ -1,6 +1,6 @@
 # Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 212 | 28 | 
 | 2023-02-24 | 212 | 28 | 
 | 2023-02-23 | 212 | 28 | 
 | 2023-02-22 | 212 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 209 | 28 | 
 | 2023-01-28 | 209 | 28 | 
 | 2023-01-27 | 209 | 28 | 
-| 2023-01-26 | 208 | 28 | 
 

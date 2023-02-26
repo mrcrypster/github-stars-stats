@@ -1,6 +1,6 @@
 # Xe/xn--ts9h - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 153 | 4 | 
 | 2023-02-24 | 153 | 4 | 
 | 2023-02-22 | 153 | 4 | 
 | 2023-02-21 | 153 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 141 | 5 | 
 | 2023-01-28 | 139 | 5 | 
 | 2023-01-27 | 136 | 5 | 
-| 2023-01-26 | 134 | 5 | 
 

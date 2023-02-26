@@ -1,6 +1,6 @@
 # DerpFest-12/vendor_derp - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1 | 8 | 
 | 2023-02-25 | 1 | 8 | 
 | 2023-02-23 | 1 | 8 | 
 | 2023-02-22 | 1 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1 | 10 | 
 | 2023-01-28 | 1 | 10 | 
 | 2023-01-27 | 1 | 10 | 
-| 2023-01-26 | 1 | 10 | 
 

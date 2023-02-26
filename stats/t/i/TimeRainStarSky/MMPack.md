@@ -1,6 +1,6 @@
 # TimeRainStarSky/MMPack - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 65 | 2 | 
 | 2023-02-24 | 65 | 2 | 
 | 2023-02-23 | 65 | 2 | 
 | 2023-02-21 | 65 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 64 | 2 | 
 | 2023-01-28 | 64 | 2 | 
 | 2023-01-27 | 64 | 2 | 
-| 2023-01-26 | 64 | 2 | 
 

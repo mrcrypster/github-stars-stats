@@ -1,6 +1,6 @@
 # jasmine/jasmine - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2274
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 15521 | 2274 | 
 | 2023-02-24 | 15521 | 2274 | 
 | 2023-02-23 | 15518 | 2274 | 
 | 2023-02-22 | 15516 | 2273 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 15493 | 2277 | 
 | 2023-01-28 | 15494 | 2278 | 
 | 2023-01-27 | 15491 | 2278 | 
-| 2023-01-26 | 15491 | 2279 | 
 

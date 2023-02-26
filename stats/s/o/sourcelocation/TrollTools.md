@@ -1,6 +1,6 @@
 # sourcelocation/TrollTools - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 306 | 26 | 
 | 2023-02-24 | 306 | 26 | 
 | 2023-02-22 | 306 | 26 | 
 | 2023-02-21 | 307 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 281 | 24 | 
 | 2023-01-28 | 283 | 23 | 
 | 2023-01-27 | 279 | 23 | 
-| 2023-01-26 | 279 | 23 | 
 

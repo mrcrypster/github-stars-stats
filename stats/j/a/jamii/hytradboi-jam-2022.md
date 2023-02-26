@@ -1,6 +1,6 @@
 # jamii/hytradboi-jam-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 178 | - | 
 | 2023-02-24 | 178 | - | 
 | 2023-02-23 | 178 | - | 
 | 2023-02-22 | 178 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 178 | - | 
 | 2023-01-28 | 178 | - | 
 | 2023-01-27 | 178 | - | 
-| 2023-01-26 | 178 | - | 
 

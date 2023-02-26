@@ -1,8 +1,8 @@
 # basedosdados/mais - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 78
+☋ Forks: 77
 
 ★ Stars: 338
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 338 | 77 | 
 | 2023-02-24 | 338 | 78 | 
 | 2023-02-23 | 337 | 78 | 
 | 2023-02-22 | 336 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 335 | 76 | 
 | 2023-01-28 | 335 | 76 | 
 | 2023-01-27 | 335 | 76 | 
-| 2023-01-26 | 335 | 76 | 
 

@@ -1,6 +1,6 @@
 # cybernobie/Cognizant_Early_Engagement - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 264 | 394 | 
 | 2023-02-24 | 264 | 394 | 
 | 2023-02-23 | 264 | 395 | 
 | 2023-02-22 | 264 | 395 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 262 | 396 | 
 | 2023-01-28 | 262 | 396 | 
 | 2023-01-27 | 262 | 396 | 
-| 2023-01-26 | 262 | 396 | 
 

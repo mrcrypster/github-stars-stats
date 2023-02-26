@@ -1,6 +1,6 @@
 # webfansplz/vtui-repl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 78 | 5 | 
 | 2023-02-24 | 78 | 5 | 
 | 2023-02-23 | 78 | 5 | 
 | 2023-02-22 | 78 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 76 | 5 | 
 | 2023-01-28 | 76 | 5 | 
 | 2023-01-27 | 75 | 5 | 
-| 2023-01-26 | 75 | 5 | 
 

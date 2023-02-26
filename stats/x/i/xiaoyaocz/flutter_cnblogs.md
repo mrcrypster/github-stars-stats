@@ -1,10 +1,10 @@
 # xiaoyaocz/flutter_cnblogs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/xiaoyaocz/flutter_cnblogs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 69 | 11 | 
 | 2023-02-24 | 68 | 11 | 
 | 2023-02-22 | 68 | 11 | 
 | 2023-02-21 | 68 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 65 | 11 | 
 | 2023-01-29 | 64 | 11 | 
 | 2023-01-28 | 64 | 11 | 
-| 2023-01-26 | 64 | 11 | 
 

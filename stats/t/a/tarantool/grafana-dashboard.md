@@ -1,6 +1,6 @@
 # tarantool/grafana-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 25 | 11 | 
 | 2023-02-24 | 25 | 11 | 
 | 2023-02-22 | 25 | 11 | 
 | 2023-02-21 | 25 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 24 | 11 | 
 | 2023-01-29 | 24 | 11 | 
 | 2023-01-28 | 24 | 11 | 
-| 2023-01-27 | 24 | 11 | 
 

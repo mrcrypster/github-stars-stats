@@ -1,10 +1,10 @@
 # tweag/linear-base - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 32
 
-★ Stars: 296
+★ Stars: 300
 
 [Open repository](https://github.com/tweag/linear-base)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 300 | 32 | 
 | 2023-02-23 | 296 | 32 | 
 | 2023-02-22 | 296 | 32 | 
 | 2023-02-21 | 296 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 295 | 32 | 
 | 2023-01-29 | 295 | 32 | 
 | 2023-01-28 | 295 | 32 | 
-| 2023-01-26 | 295 | 32 | 
 

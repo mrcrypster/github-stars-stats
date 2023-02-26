@@ -1,10 +1,10 @@
 # insidegui/MacPreviewUtils - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/insidegui/MacPreviewUtils)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 153 | 1 | 
 | 2023-02-24 | 152 | 1 | 
 | 2023-02-23 | 152 | 1 | 
 | 2023-02-22 | 152 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 150 | 1 | 
 | 2023-01-28 | 150 | 1 | 
 | 2023-01-27 | 150 | 1 | 
-| 2023-01-26 | 150 | 1 | 
 

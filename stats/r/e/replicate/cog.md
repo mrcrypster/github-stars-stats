@@ -1,10 +1,10 @@
 # replicate/cog - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 199
+☋ Forks: 200
 
-★ Stars: 3829
+★ Stars: 3831
 
 [Open repository](https://github.com/replicate/cog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 3831 | 200 | 
 | 2023-02-24 | 3829 | 199 | 
 | 2023-02-23 | 3806 | 199 | 
 | 2023-02-22 | 3779 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 3631 | 185 | 
 | 2023-01-28 | 3629 | 186 | 
 | 2023-01-27 | 3621 | 186 | 
-| 2023-01-26 | 3611 | 185 | 
 

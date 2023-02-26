@@ -1,10 +1,10 @@
 # 9bie/Slacker - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 6
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/9bie/Slacker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 128 | 6 | 
 | 2023-02-24 | 127 | 6 | 
 | 2023-02-23 | 127 | 6 | 
 | 2023-02-22 | 127 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 77 | 3 | 
 | 2023-01-28 | 76 | 3 | 
 | 2023-01-27 | 76 | 3 | 
-| 2023-01-26 | 76 | 3 | 
 

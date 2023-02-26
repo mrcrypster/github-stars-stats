@@ -1,10 +1,10 @@
 # rhysd/vim-grammarous - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 37
 
-★ Stars: 1027
+★ Stars: 1026
 
 [Open repository](https://github.com/rhysd/vim-grammarous)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1026 | 37 | 
 | 2023-02-24 | 1027 | 37 | 
 | 2023-02-23 | 1027 | 37 | 
 | 2023-02-21 | 1026 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 1022 | 36 | 
 | 2023-01-29 | 1022 | 36 | 
 | 2023-01-27 | 1022 | 36 | 
-| 2023-01-26 | 1022 | 36 | 
 

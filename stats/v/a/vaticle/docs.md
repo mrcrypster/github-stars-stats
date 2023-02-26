@@ -1,10 +1,10 @@
 # vaticle/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 65
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/vaticle/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 28 | 65 | 
 | 2023-02-24 | 27 | 65 | 
 | 2023-02-23 | 27 | 65 | 
 | 2023-02-22 | 27 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 25 | 65 | 
 | 2023-01-28 | 25 | 65 | 
 | 2023-01-27 | 25 | 65 | 
-| 2023-01-26 | 25 | 65 | 
 

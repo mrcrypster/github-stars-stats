@@ -1,6 +1,6 @@
 # justinwoo/easy-purescript-nix - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 176 | 49 | 
 | 2023-02-23 | 176 | 49 | 
 | 2023-02-22 | 176 | 49 | 
 | 2023-02-21 | 176 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-30 | 175 | 49 | 
 | 2023-01-28 | 175 | 49 | 
 | 2023-01-27 | 175 | 49 | 
-| 2023-01-26 | 175 | 49 | 
 

@@ -1,8 +1,8 @@
 # alijohn3/Free-RDP - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | - | 67 | 
 | 2023-02-24 | - | 66 | 
 | 2023-02-23 | - | 65 | 
 | 2023-02-22 | - | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | - | 51 | 
 | 2023-01-28 | - | 49 | 
 | 2023-01-27 | - | 47 | 
-| 2023-01-26 | - | 44 | 
 

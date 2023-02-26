@@ -1,6 +1,6 @@
 # phaseneko/rotz - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 15 | - | 
 | 2023-02-24 | 15 | - | 
 | 2023-02-23 | 15 | - | 
 | 2023-02-22 | 15 | - | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 16 | - | 
 | 2023-01-28 | 16 | - | 
 | 2023-01-27 | 16 | - | 
-| 2023-01-26 | 16 | - | 
 

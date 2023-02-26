@@ -1,8 +1,8 @@
 # eve-autonomy/proj_launch - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1 | 1 | 
 | 2023-02-23 | 1 | - | 
 | 2023-02-22 | 1 | - | 
 | 2023-02-21 | 1 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | - | - | 
 | 2023-01-28 | - | - | 
 | 2023-01-27 | - | - | 
-| 2023-01-26 | - | - | 
 

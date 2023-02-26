@@ -1,10 +1,10 @@
 # SAP/macOS-enterprise-privileges - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 128
 
-★ Stars: 1010
+★ Stars: 1011
 
 [Open repository](https://github.com/SAP/macOS-enterprise-privileges)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1011 | 128 | 
 | 2023-02-24 | 1010 | 128 | 
 | 2023-02-23 | 1010 | 128 | 
 | 2023-02-22 | 1009 | 128 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 992 | 123 | 
 | 2023-01-28 | 992 | 123 | 
 | 2023-01-27 | 992 | 123 | 
-| 2023-01-26 | 991 | 122 | 
 

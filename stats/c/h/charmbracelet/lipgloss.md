@@ -1,10 +1,10 @@
 # charmbracelet/lipgloss - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 134
 
-★ Stars: 5544
+★ Stars: 5555
 
 [Open repository](https://github.com/charmbracelet/lipgloss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 5555 | 134 | 
 | 2023-02-24 | 5544 | 134 | 
 | 2023-02-23 | 5538 | 134 | 
 | 2023-02-22 | 5529 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 5442 | 133 | 
 | 2023-01-28 | 5439 | 133 | 
 | 2023-01-27 | 5436 | 133 | 
-| 2023-01-26 | 5433 | 133 | 
 

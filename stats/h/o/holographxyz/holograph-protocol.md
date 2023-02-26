@@ -1,6 +1,6 @@
 # holographxyz/holograph-protocol - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 26 | 2 | 
 | 2023-02-24 | 26 | 2 | 
 | 2023-02-23 | 26 | 2 | 
 | 2023-02-22 | 25 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 22 | 2 | 
 | 2023-01-28 | 22 | 2 | 
 | 2023-01-27 | 22 | 2 | 
-| 2023-01-26 | 22 | 2 | 
 

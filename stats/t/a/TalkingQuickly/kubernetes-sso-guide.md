@@ -1,10 +1,10 @@
 # TalkingQuickly/kubernetes-sso-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 19
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/TalkingQuickly/kubernetes-sso-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 51 | 19 | 
 | 2023-02-23 | 50 | 19 | 
 | 2023-02-22 | 50 | 19 | 
 | 2023-02-21 | 50 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 23
 | 2023-01-29 | 50 | 17 | 
 | 2023-01-28 | 50 | 17 | 
 | 2023-01-27 | 50 | 17 | 
-| 2023-01-26 | 50 | 17 | 
 

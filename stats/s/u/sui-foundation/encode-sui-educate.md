@@ -1,10 +1,10 @@
 # sui-foundation/encode-sui-educate - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/sui-foundation/encode-sui-educate)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 23 | 1 | 
 | 2023-02-24 | 21 | 1 | 
 | 2023-02-23 | 21 | 1 | 
 

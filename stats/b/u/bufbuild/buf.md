@@ -1,10 +1,10 @@
 # bufbuild/buf - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 172
 
-★ Stars: 6269
+★ Stars: 6273
 
 [Open repository](https://github.com/bufbuild/buf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6273 | 172 | 
 | 2023-02-24 | 6269 | 172 | 
 | 2023-02-23 | 6258 | 172 | 
 | 2023-02-22 | 6254 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 6111 | 168 | 
 | 2023-01-28 | 6107 | 168 | 
 | 2023-01-27 | 6100 | 168 | 
-| 2023-01-26 | 6095 | 168 | 
 

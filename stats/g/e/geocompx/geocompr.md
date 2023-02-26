@@ -1,6 +1,6 @@
 # geocompx/geocompr - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 542
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 1279 | 542 | 
 | 2023-02-24 | 1279 | 542 | 
 | 2023-02-22 | 1278 | 541 | 
 | 2023-02-21 | 1277 | 541 | 

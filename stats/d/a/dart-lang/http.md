@@ -1,10 +1,10 @@
 # dart-lang/http - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 304
+☋ Forks: 305
 
-★ Stars: 906
+★ Stars: 907
 
 [Open repository](https://github.com/dart-lang/http)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 907 | 305 | 
 | 2023-02-24 | 906 | 304 | 
 | 2023-02-23 | 906 | 303 | 
 | 2023-02-22 | 906 | 302 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 895 | 295 | 
 | 2023-01-29 | 895 | 294 | 
 | 2023-01-27 | 894 | 294 | 
-| 2023-01-26 | 894 | 294 | 
 

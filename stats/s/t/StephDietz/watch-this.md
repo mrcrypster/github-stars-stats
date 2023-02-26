@@ -1,10 +1,10 @@
 # StephDietz/watch-this - stars & forks statistics
 
-Stats updated on Feb 2023, 23
+Stats updated on Feb 2023, 25
 
-☋ Forks: 8
+☋ Forks: 11
 
-★ Stars: 63
+★ Stars: 73
 
 [Open repository](https://github.com/StephDietz/watch-this)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 73 | 11 | 
 | 2023-02-23 | 63 | 8 | 
 | 2023-02-22 | 63 | 8 | 
 | 2023-02-21 | 60 | 8 | 

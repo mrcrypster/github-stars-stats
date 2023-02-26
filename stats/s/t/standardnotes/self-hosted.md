@@ -1,6 +1,6 @@
 # standardnotes/self-hosted - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 349 | 37 | 
 | 2023-02-24 | 349 | 37 | 
 | 2023-02-23 | 349 | 37 | 
 | 2023-02-22 | 349 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 333 | 37 | 
 | 2023-01-28 | 332 | 37 | 
 | 2023-01-27 | 331 | 37 | 
-| 2023-01-26 | 331 | 37 | 
 

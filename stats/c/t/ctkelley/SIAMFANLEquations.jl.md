@@ -1,10 +1,10 @@
 # ctkelley/SIAMFANLEquations.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 5
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/ctkelley/SIAMFANLEquations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 78 | 5 | 
 | 2023-02-24 | 77 | 5 | 
 | 2023-02-23 | 77 | 5 | 
 | 2023-02-22 | 77 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 75 | 5 | 
 | 2023-01-28 | 75 | 5 | 
 | 2023-01-27 | 75 | 5 | 
-| 2023-01-26 | 75 | 5 | 
 

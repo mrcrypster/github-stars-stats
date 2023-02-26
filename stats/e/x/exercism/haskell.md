@@ -1,10 +1,10 @@
 # exercism/haskell - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 169
+☋ Forks: 170
 
-★ Stars: 428
+★ Stars: 429
 
 [Open repository](https://github.com/exercism/haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 429 | 170 | 
 | 2023-02-24 | 428 | 169 | 
 | 2023-02-23 | 428 | 169 | 
 | 2023-02-22 | 428 | 169 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 425 | 166 | 
 | 2023-01-28 | 425 | 165 | 
 | 2023-01-27 | 425 | 165 | 
-| 2023-01-26 | 425 | 165 | 
 

@@ -1,6 +1,6 @@
 # GoogleChromeLabs/quicklink - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 406
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 10403 | 406 | 
 | 2023-02-24 | 10403 | 406 | 
 | 2023-02-23 | 10402 | 406 | 
 | 2023-02-22 | 10400 | 405 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 10354 | 404 | 
 | 2023-01-28 | 10352 | 404 | 
 | 2023-01-27 | 10350 | 404 | 
-| 2023-01-26 | 10349 | 404 | 
 

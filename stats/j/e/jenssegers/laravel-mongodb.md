@@ -1,10 +1,10 @@
 # jenssegers/laravel-mongodb - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 1362
 
-★ Stars: 6378
+★ Stars: 6380
 
 [Open repository](https://github.com/jenssegers/laravel-mongodb)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 6380 | 1362 | 
 | 2023-02-24 | 6378 | 1362 | 
 | 2023-02-23 | 6378 | 1361 | 
 | 2023-02-22 | 6375 | 1361 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 6347 | 1351 | 
 | 2023-01-28 | 6345 | 1351 | 
 | 2023-01-27 | 6344 | 1351 | 
-| 2023-01-26 | 6342 | 1351 | 
 

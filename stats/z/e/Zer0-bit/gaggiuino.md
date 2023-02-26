@@ -1,10 +1,10 @@
 # Zer0-bit/gaggiuino - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 113
 
-★ Stars: 947
+★ Stars: 950
 
 [Open repository](https://github.com/Zer0-bit/gaggiuino)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 950 | 113 | 
 | 2023-02-24 | 947 | 113 | 
 | 2023-02-23 | 946 | 112 | 
 | 2023-02-22 | 944 | 112 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 896 | 107 | 
 | 2023-01-28 | 896 | 107 | 
 | 2023-01-27 | 896 | 106 | 
-| 2023-01-26 | 894 | 105 | 
 

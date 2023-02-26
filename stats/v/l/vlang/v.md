@@ -1,10 +1,10 @@
 # vlang/v - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 1945
+☋ Forks: 1949
 
-★ Stars: 31370
+★ Stars: 31407
 
 [Open repository](https://github.com/vlang/v)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 31407 | 1949 | 
 | 2023-02-24 | 31370 | 1945 | 
 | 2023-02-23 | 31362 | 1944 | 
 | 2023-02-22 | 31361 | 1942 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 31220 | 1925 | 
 | 2023-01-28 | 31214 | 1923 | 
 | 2023-01-27 | 31211 | 1921 | 
-| 2023-01-26 | 31206 | 1919 | 
 

@@ -1,6 +1,6 @@
 # joshpatten/PVE-VDIClient - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 315 | 52 | 
 | 2023-02-24 | 315 | 52 | 
 | 2023-02-22 | 313 | 52 | 
 | 2023-02-21 | 313 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 299 | 51 | 
 | 2023-01-29 | 298 | 51 | 
 | 2023-01-28 | 298 | 51 | 
-| 2023-01-26 | 299 | 51 | 
 

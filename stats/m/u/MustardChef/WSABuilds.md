@@ -1,10 +1,10 @@
 # MustardChef/WSABuilds - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 48
+☋ Forks: 50
 
-★ Stars: 301
+★ Stars: 307
 
 [Open repository](https://github.com/MustardChef/WSABuilds)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 307 | 50 | 
 | 2023-02-24 | 301 | 48 | 
 | 2023-02-23 | 294 | 47 | 
 | 2023-02-22 | 283 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 88 | 26 | 
 | 2023-01-29 | 80 | 24 | 
 | 2023-01-28 | 73 | 24 | 
-| 2023-01-26 | 72 | 23 | 
 

@@ -1,6 +1,6 @@
 # ArisGuimera/Android-Expert - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 146 | 2 | 
 | 2023-02-24 | 146 | 2 | 
 | 2023-02-23 | 144 | 2 | 
 | 2023-02-22 | 139 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 122 | 2 | 
 | 2023-01-28 | 121 | 2 | 
 | 2023-01-27 | 121 | 2 | 
-| 2023-01-26 | 119 | 2 | 
 

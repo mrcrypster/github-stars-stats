@@ -1,8 +1,8 @@
 # ethpandaops/ethereum-helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 25
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-25 | 58 | 19 | 
 | 2023-02-24 | 58 | 18 | 
 | 2023-02-22 | 58 | 18 | 
 | 2023-02-21 | 56 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-29 | 53 | 16 | 
 | 2023-01-28 | 53 | 16 | 
 | 2023-01-27 | 53 | 16 | 
-| 2023-01-26 | 53 | 16 | 
 
