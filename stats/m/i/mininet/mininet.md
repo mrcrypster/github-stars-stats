@@ -1,10 +1,10 @@
 # mininet/mininet - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1684
 
-★ Stars: 4714
+★ Stars: 4717
 
 [Open repository](https://github.com/mininet/mininet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 4717 | 1684 | 
 | 2023-02-25 | 4714 | 1684 | 
 | 2023-02-24 | 4714 | 1683 | 
 | 2023-02-22 | 4713 | 1683 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 4684 | 1676 | 
 | 2023-01-30 | 4682 | 1677 | 
 | 2023-01-29 | 4681 | 1677 | 
-| 2023-01-28 | 4678 | 1677 | 
 

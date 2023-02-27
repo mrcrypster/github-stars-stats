@@ -1,10 +1,10 @@
 # bradtraversy/chatcord - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 1108
+☋ Forks: 1109
 
-★ Stars: 1060
+★ Stars: 1064
 
 [Open repository](https://github.com/bradtraversy/chatcord)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1064 | 1109 | 
 | 2023-02-25 | 1060 | 1108 | 
 | 2023-02-23 | 1060 | 1104 | 
 | 2023-02-22 | 1057 | 1103 | 

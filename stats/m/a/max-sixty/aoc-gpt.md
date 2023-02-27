@@ -1,6 +1,6 @@
 # max-sixty/aoc-gpt - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 437 | 27 | 
 | 2023-02-25 | 437 | 27 | 
 | 2023-02-24 | 437 | 27 | 
 | 2023-02-23 | 435 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 434 | 27 | 
 | 2023-01-29 | 432 | 27 | 
 | 2023-01-28 | 432 | 27 | 
-| 2023-01-27 | 433 | 27 | 
 

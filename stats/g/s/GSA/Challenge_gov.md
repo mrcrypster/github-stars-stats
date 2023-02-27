@@ -1,6 +1,6 @@
 # GSA/Challenge_gov - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 14 | 10 | 
 | 2023-02-25 | 14 | 10 | 
 | 2023-02-24 | 14 | 10 | 
 | 2023-02-22 | 14 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 15 | 10 | 
 | 2023-01-30 | 15 | 10 | 
 | 2023-01-28 | 15 | 10 | 
-| 2023-01-27 | 15 | 10 | 
 

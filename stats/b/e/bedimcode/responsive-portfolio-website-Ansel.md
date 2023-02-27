@@ -1,10 +1,10 @@
 # bedimcode/responsive-portfolio-website-Ansel - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 151
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/bedimcode/responsive-portfolio-website-Ansel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 276 | 151 | 
 | 2023-02-25 | 275 | 151 | 
 | 2023-02-24 | 275 | 151 | 
 | 2023-02-23 | 275 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 267 | 148 | 
 | 2023-01-29 | 267 | 148 | 
 | 2023-01-28 | 267 | 148 | 
-| 2023-01-27 | 266 | 147 | 
 

@@ -1,6 +1,6 @@
 # jauderho/dockerfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 54 | 15 | 
 | 2023-02-25 | 54 | 15 | 
 | 2023-02-24 | 54 | 15 | 
 | 2023-02-23 | 54 | 15 | 

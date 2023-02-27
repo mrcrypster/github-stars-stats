@@ -1,10 +1,10 @@
 # microsoft/hack-together - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 174
+★ Stars: 182
 
 [Open repository](https://github.com/microsoft/hack-together)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 182 | 24 | 
 | 2023-02-25 | 174 | 22 | 
 | 2023-02-24 | 159 | 20 | 
 | 2023-02-23 | 149 | 15 | 

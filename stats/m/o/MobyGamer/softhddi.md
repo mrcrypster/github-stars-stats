@@ -1,6 +1,6 @@
 # MobyGamer/softhddi - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 20 | 1 | 
 | 2023-02-25 | 20 | 1 | 
 | 2023-02-24 | 20 | 1 | 
 | 2023-02-23 | 20 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 19 | 1 | 
 | 2023-01-30 | 19 | 1 | 
 | 2023-01-28 | 19 | 1 | 
-| 2023-01-27 | 19 | 1 | 
 

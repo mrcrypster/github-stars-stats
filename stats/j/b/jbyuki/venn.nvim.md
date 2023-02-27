@@ -1,10 +1,10 @@
 # jbyuki/venn.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9
 
-★ Stars: 684
+★ Stars: 686
 
 [Open repository](https://github.com/jbyuki/venn.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 686 | 9 | 
 | 2023-02-25 | 684 | 9 | 
 | 2023-02-24 | 683 | 9 | 
 | 2023-02-23 | 683 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 678 | 9 | 
 | 2023-01-29 | 677 | 9 | 
 | 2023-01-28 | 677 | 9 | 
-| 2023-01-27 | 677 | 9 | 
 

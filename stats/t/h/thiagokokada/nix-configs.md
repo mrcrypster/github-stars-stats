@@ -1,6 +1,6 @@
 # thiagokokada/nix-configs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 55 | 2 | 
 | 2023-02-24 | 55 | 2 | 
 | 2023-02-23 | 55 | 2 | 
 | 2023-02-22 | 55 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-31 | 52 | 2 | 
 | 2023-01-30 | 52 | 2 | 
 | 2023-01-28 | 51 | 2 | 
-| 2023-01-27 | 51 | 2 | 
 

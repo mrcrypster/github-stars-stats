@@ -1,10 +1,10 @@
 # dongxuyang1985/postgresql_dev_guide - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 40
 
-★ Stars: 141
+★ Stars: 143
 
 [Open repository](https://github.com/dongxuyang1985/postgresql_dev_guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 143 | 40 | 
 | 2023-02-26 | 141 | 40 | 
 | 2023-02-24 | 140 | 40 | 
 | 2023-02-23 | 140 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 129 | 36 | 
 | 2023-01-30 | 128 | 35 | 
 | 2023-01-29 | 128 | 35 | 
-| 2023-01-28 | 128 | 35 | 
 

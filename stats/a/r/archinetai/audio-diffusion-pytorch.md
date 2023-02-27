@@ -1,10 +1,10 @@
 # archinetai/audio-diffusion-pytorch - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 83
 
-★ Stars: 1124
+★ Stars: 1126
 
 [Open repository](https://github.com/archinetai/audio-diffusion-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1126 | 83 | 
 | 2023-02-25 | 1124 | 83 | 
 | 2023-02-24 | 1122 | 83 | 
 | 2023-02-22 | 1121 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 865 | 57 | 
 | 2023-01-29 | 786 | 47 | 
 | 2023-01-28 | 778 | 46 | 
-| 2023-01-27 | 773 | 46 | 
 

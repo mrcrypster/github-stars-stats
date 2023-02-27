@@ -1,6 +1,6 @@
 # objectionary/home - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 28 | 12 | 
 | 2023-02-25 | 28 | 12 | 
 | 2023-02-24 | 28 | 12 | 
 | 2023-02-23 | 26 | 12 | 

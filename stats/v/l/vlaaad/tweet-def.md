@@ -1,6 +1,6 @@
 # vlaaad/tweet-def - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 57 | - | 
 | 2023-02-25 | 57 | - | 
 | 2023-02-24 | 57 | - | 
 | 2023-02-22 | 57 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 57 | - | 
 | 2023-01-29 | 57 | - | 
 | 2023-01-28 | 57 | - | 
-| 2023-01-27 | 57 | - | 
 

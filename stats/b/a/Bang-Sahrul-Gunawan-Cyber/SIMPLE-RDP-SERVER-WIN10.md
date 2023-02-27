@@ -1,8 +1,8 @@
 # Bang-Sahrul-Gunawan-Cyber/SIMPLE-RDP-SERVER-WIN10 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | - | 17 | 
 | 2023-02-25 | - | 16 | 
 | 2023-02-24 | - | 15 | 
 | 2023-02-23 | - | 13 | 

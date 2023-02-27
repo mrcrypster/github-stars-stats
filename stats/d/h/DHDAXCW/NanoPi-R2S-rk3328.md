@@ -1,10 +1,10 @@
 # DHDAXCW/NanoPi-R2S-rk3328 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 53
 
-★ Stars: 513
+★ Stars: 516
 
 [Open repository](https://github.com/DHDAXCW/NanoPi-R2S-rk3328)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 516 | 53 | 
 | 2023-02-25 | 513 | 53 | 
 | 2023-02-24 | 510 | 53 | 
 | 2023-02-23 | 504 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 437 | 44 | 
 | 2023-01-29 | 437 | 44 | 
 | 2023-01-28 | 436 | 44 | 
-| 2023-01-27 | 434 | 44 | 
 

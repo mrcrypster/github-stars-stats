@@ -1,6 +1,6 @@
 # gcmt/wildfire.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 557 | 17 | 
 | 2023-02-25 | 557 | 17 | 
 | 2023-02-23 | 557 | 17 | 
 | 2023-02-22 | 557 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 554 | 17 | 
 | 2023-01-29 | 554 | 17 | 
 | 2023-01-28 | 554 | 17 | 
-| 2023-01-27 | 553 | 17 | 
 

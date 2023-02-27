@@ -1,10 +1,10 @@
 # wu-component/web-component-plus - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 45
 
-★ Stars: 232
+★ Stars: 233
 
 [Open repository](https://github.com/wu-component/web-component-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 233 | 45 | 
 | 2023-02-25 | 232 | 45 | 
 | 2023-02-24 | 228 | 45 | 
 | 2023-02-23 | 217 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 131 | 27 | 
 | 2023-01-29 | 131 | 27 | 
 | 2023-01-28 | 131 | 27 | 
-| 2023-01-27 | 131 | 27 | 
 

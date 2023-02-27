@@ -1,10 +1,10 @@
 # echasnovski/mini.surround - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/echasnovski/mini.surround)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 43 | 2 | 
 | 2023-02-25 | 42 | 2 | 
 | 2023-02-24 | 42 | 2 | 
 | 2023-02-23 | 42 | 2 | 

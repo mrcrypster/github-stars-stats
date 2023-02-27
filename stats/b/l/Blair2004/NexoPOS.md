@@ -1,10 +1,10 @@
 # Blair2004/NexoPOS - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 181
 
-★ Stars: 449
+★ Stars: 450
 
 [Open repository](https://github.com/Blair2004/NexoPOS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 450 | 181 | 
 | 2023-02-25 | 449 | 181 | 
 | 2023-02-24 | 449 | 181 | 
 | 2023-02-23 | 447 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 425 | 173 | 
 | 2023-01-29 | 424 | 173 | 
 | 2023-01-28 | 424 | 173 | 
-| 2023-01-27 | 422 | 172 | 
 

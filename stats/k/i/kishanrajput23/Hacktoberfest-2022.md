@@ -1,6 +1,6 @@
 # kishanrajput23/Hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 345
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 184 | 345 | 
 | 2023-02-24 | 184 | 345 | 
 | 2023-02-23 | 184 | 345 | 
 | 2023-02-22 | 185 | 345 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 187 | 349 | 
 | 2023-01-29 | 187 | 349 | 
 | 2023-01-28 | 187 | 350 | 
-| 2023-01-27 | 187 | 350 | 
 

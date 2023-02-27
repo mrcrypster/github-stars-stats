@@ -1,0 +1,17 @@
+# FRC2834/blackhawks-scouting - stars & forks statistics
+
+Stats updated on Feb 2023, 26
+
+☋ Forks: 31
+
+★ Stars: 6
+
+[Open repository](https://github.com/FRC2834/blackhawks-scouting)
+
+[Open detailed stats for FRC2834/blackhawks-scouting](https://reviewgithub.com/rep/FRC2834/blackhawks-scouting)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-26 | 6 | 31 | 
+

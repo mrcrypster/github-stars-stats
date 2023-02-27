@@ -1,10 +1,10 @@
 # openshiporg/openship - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 949
+★ Stars: 950
 
 [Open repository](https://github.com/openshiporg/openship)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 950 | 46 | 
 | 2023-02-25 | 949 | 45 | 
 | 2023-02-24 | 949 | 45 | 
 | 2023-02-23 | 950 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 943 | 44 | 
 | 2023-01-29 | 942 | 44 | 
 | 2023-01-28 | 942 | 44 | 
-| 2023-01-27 | 942 | 44 | 
 

@@ -1,6 +1,6 @@
 # stathissideris/spectacles - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 90 | 1 | 
 | 2023-02-25 | 90 | 1 | 
 | 2023-02-23 | 90 | 1 | 
 | 2023-02-22 | 90 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 88 | 1 | 
 | 2023-01-30 | 87 | 1 | 
 | 2023-01-28 | 87 | 1 | 
-| 2023-01-27 | 87 | 1 | 
 

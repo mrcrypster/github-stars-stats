@@ -1,6 +1,6 @@
 # keerthivasansa/animos - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 136 | 13 | 
+| 2023-02-26 | 136 | 13 | 
 | 2023-02-25 | 136 | 13 | 
 | 2023-02-24 | 135 | 13 | 
 

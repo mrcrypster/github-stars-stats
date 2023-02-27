@@ -1,10 +1,10 @@
 # dabit3/gpt-travel-advisor - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/dabit3/gpt-travel-advisor)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 487 | 83 | 
 | 2023-02-25 | 486 | 82 | 
 | 2023-02-24 | 485 | 82 | 
 | 2023-02-23 | 479 | 83 | 

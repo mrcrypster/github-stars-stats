@@ -1,6 +1,6 @@
 # fscarmen2/V2-for-Koyeb - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 16 | 40 | 
 | 2023-02-25 | 16 | 40 | 
 | 2023-02-24 | 16 | 40 | 
 | 2023-02-23 | 16 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 14 | 31 | 
 | 2023-01-29 | 12 | 31 | 
 | 2023-01-28 | 12 | 31 | 
-| 2023-01-27 | 12 | 31 | 
 

@@ -1,10 +1,10 @@
 # zoph-io/aws-security-survival-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 20
 
-★ Stars: 277
+★ Stars: 279
 
 [Open repository](https://github.com/zoph-io/aws-security-survival-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 279 | 20 | 
 | 2023-02-25 | 277 | 20 | 
 | 2023-02-24 | 264 | 18 | 
 | 2023-02-22 | 250 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 232 | 18 | 
 | 2023-01-30 | 232 | 18 | 
 | 2023-01-29 | 232 | 18 | 
-| 2023-01-28 | 230 | 18 | 
 

@@ -1,6 +1,6 @@
 # maddec/papaguiskin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 34 | 9 | 
 | 2023-02-25 | 34 | 9 | 
 | 2023-02-24 | 34 | 9 | 
 | 2023-02-23 | 34 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 34 | 9 | 
 | 2023-01-30 | 34 | 9 | 
 | 2023-01-29 | 34 | 9 | 
-| 2023-01-28 | 34 | 9 | 
 

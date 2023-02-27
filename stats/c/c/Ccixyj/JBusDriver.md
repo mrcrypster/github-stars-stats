@@ -1,6 +1,6 @@
 # Ccixyj/JBusDriver - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2306 | 241 | 
 | 2023-02-25 | 2306 | 241 | 
 | 2023-02-24 | 2306 | 241 | 
 | 2023-02-23 | 2306 | 241 | 

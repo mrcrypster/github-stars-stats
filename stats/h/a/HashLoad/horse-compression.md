@@ -1,6 +1,6 @@
 # HashLoad/horse-compression - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 27 | 14 | 
 | 2023-02-25 | 27 | 14 | 
 | 2023-02-24 | 27 | 14 | 
 | 2023-02-23 | 27 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 27 | 14 | 
 | 2023-01-29 | 27 | 14 | 
 | 2023-01-28 | 27 | 14 | 
-| 2023-01-27 | 27 | 14 | 
 

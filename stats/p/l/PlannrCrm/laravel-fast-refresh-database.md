@@ -1,6 +1,6 @@
 # PlannrCrm/laravel-fast-refresh-database - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 307 | 11 | 
 | 2023-02-24 | 307 | 11 | 
 | 2023-02-23 | 307 | 11 | 
 | 2023-02-22 | 306 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 269 | 8 | 
 | 2023-01-29 | 263 | 8 | 
 | 2023-01-28 | 260 | 8 | 
-| 2023-01-27 | 255 | 8 | 
 

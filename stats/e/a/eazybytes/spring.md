@@ -1,10 +1,10 @@
 # eazybytes/spring - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 241
 
-★ Stars: 117
+★ Stars: 119
 
 [Open repository](https://github.com/eazybytes/spring)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 119 | 241 | 
 | 2023-02-25 | 117 | 241 | 
 | 2023-02-24 | 117 | 241 | 
 | 2023-02-22 | 116 | 241 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 114 | 223 | 
 | 2023-01-29 | 114 | 222 | 
 | 2023-01-28 | 114 | 221 | 
-| 2023-01-27 | 114 | 220 | 
 

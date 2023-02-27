@@ -1,10 +1,10 @@
 # decipher3114/Revancify - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 227
+★ Stars: 229
 
 [Open repository](https://github.com/decipher3114/Revancify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 229 | 30 | 
 | 2023-02-26 | 227 | 29 | 
 | 2023-02-25 | 225 | 29 | 
 | 2023-02-23 | 225 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 212 | 24 | 
 | 2023-01-30 | 212 | 24 | 
 | 2023-01-29 | 212 | 24 | 
-| 2023-01-28 | 210 | 23 | 
 

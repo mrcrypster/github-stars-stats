@@ -1,10 +1,10 @@
 # jascoproducts/firmware - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 27
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/jascoproducts/firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 308 | 27 | 
 | 2023-02-25 | 307 | 27 | 
 | 2023-02-24 | 307 | 27 | 
 | 2023-02-23 | 307 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 306 | 27 | 
 | 2023-01-29 | 306 | 27 | 
 | 2023-01-28 | 306 | 27 | 
-| 2023-01-27 | 304 | 27 | 
 

@@ -1,6 +1,6 @@
 # FIWARE-Ops/marinera - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 12 | 18 | 
 | 2023-02-25 | 12 | 18 | 
 | 2023-02-24 | 12 | 18 | 
 | 2023-02-23 | 12 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 11 | 15 | 
 | 2023-01-29 | 11 | 15 | 
 | 2023-01-28 | 11 | 15 | 
-| 2023-01-27 | 11 | 15 | 
 

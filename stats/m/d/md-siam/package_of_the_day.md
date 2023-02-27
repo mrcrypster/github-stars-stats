@@ -1,6 +1,6 @@
 # md-siam/package_of_the_day - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 367 | 63 | 
 | 2023-02-24 | 367 | 63 | 
 | 2023-02-23 | 367 | 63 | 
 | 2023-02-22 | 367 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-31 | 366 | 64 | 
 | 2023-01-30 | 366 | 64 | 
 | 2023-01-28 | 366 | 64 | 
-| 2023-01-27 | 366 | 64 | 
 

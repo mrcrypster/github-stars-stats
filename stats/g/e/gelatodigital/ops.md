@@ -1,6 +1,6 @@
 # gelatodigital/ops - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 130 | 27 | 
 | 2023-02-25 | 130 | 27 | 
 | 2023-02-24 | 130 | 27 | 
 | 2023-02-22 | 130 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 129 | 27 | 
 | 2023-01-30 | 128 | 27 | 
 | 2023-01-29 | 128 | 27 | 
-| 2023-01-27 | 128 | 27 | 
 

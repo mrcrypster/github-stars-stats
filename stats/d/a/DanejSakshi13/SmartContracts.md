@@ -1,6 +1,6 @@
 # DanejSakshi13/SmartContracts - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1 | 19 | 
 | 2023-02-25 | 1 | 19 | 
 | 2023-02-23 | 1 | 19 | 
 | 2023-02-22 | 1 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1 | 19 | 
 | 2023-01-30 | 1 | 19 | 
 | 2023-01-28 | 1 | 19 | 
-| 2023-01-27 | 1 | 19 | 
 

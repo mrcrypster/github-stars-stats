@@ -1,6 +1,6 @@
 # tabarra/txAdmin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 650 | 441 | 
 | 2023-02-25 | 650 | 441 | 
 | 2023-02-24 | 649 | 440 | 
 | 2023-02-23 | 646 | 440 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 636 | 437 | 
 | 2023-01-29 | 635 | 435 | 
 | 2023-01-28 | 633 | 434 | 
-| 2023-01-27 | 632 | 432 | 
 

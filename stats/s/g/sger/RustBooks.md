@@ -1,10 +1,10 @@
 # sger/RustBooks - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 203
+☋ Forks: 204
 
-★ Stars: 3084
+★ Stars: 3086
 
 [Open repository](https://github.com/sger/RustBooks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3086 | 204 | 
 | 2023-02-25 | 3084 | 203 | 
 | 2023-02-24 | 3080 | 203 | 
 | 2023-02-23 | 3074 | 204 | 

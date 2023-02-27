@@ -1,10 +1,10 @@
 # amitshekhariitbhu/go-backend-clean-architecture - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 168
+☋ Forks: 170
 
-★ Stars: 1978
+★ Stars: 1997
 
 [Open repository](https://github.com/amitshekhariitbhu/go-backend-clean-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1997 | 170 | 
 | 2023-02-25 | 1978 | 168 | 
 | 2023-02-23 | 1973 | 167 | 
 | 2023-02-22 | 1968 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1815 | 150 | 
 | 2023-01-30 | 1804 | 150 | 
 | 2023-01-29 | 1795 | 149 | 
-| 2023-01-27 | 1784 | 147 | 
 

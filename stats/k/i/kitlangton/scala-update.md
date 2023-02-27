@@ -1,6 +1,6 @@
 # kitlangton/scala-update - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 117 | 17 | 
 | 2023-02-25 | 117 | 17 | 
 | 2023-02-24 | 117 | 17 | 
 | 2023-02-22 | 117 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 116 | 17 | 
 | 2023-01-29 | 116 | 17 | 
 | 2023-01-28 | 116 | 17 | 
-| 2023-01-27 | 116 | 17 | 
 

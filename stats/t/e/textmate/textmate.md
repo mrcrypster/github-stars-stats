@@ -1,8 +1,8 @@
 # textmate/textmate - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 1760
+☋ Forks: 1761
 
 ★ Stars: 13970
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 13970 | 1761 | 
 | 2023-02-25 | 13970 | 1760 | 
 | 2023-02-24 | 13972 | 1760 | 
 | 2023-02-23 | 13972 | 1760 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 13955 | 1758 | 
 | 2023-01-29 | 13953 | 1758 | 
 | 2023-01-28 | 13951 | 1758 | 
-| 2023-01-27 | 13952 | 1758 | 
 

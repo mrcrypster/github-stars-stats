@@ -1,6 +1,6 @@
 # nrepl/piggieback - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 472 | 51 | 
 | 2023-02-25 | 472 | 51 | 
 | 2023-02-24 | 472 | 51 | 
 | 2023-02-23 | 472 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 469 | 52 | 
 | 2023-01-29 | 469 | 52 | 
 | 2023-01-28 | 469 | 52 | 
-| 2023-01-27 | 469 | 52 | 
 

@@ -1,10 +1,10 @@
 # javtube/javtube-server-heroku - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 229
+☋ Forks: 228
 
-★ Stars: 36
+★ Stars: 35
 
 [Open repository](https://github.com/javtube/javtube-server-heroku)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 35 | 228 | 
 | 2023-02-25 | 36 | 229 | 
 | 2023-02-23 | 36 | 229 | 
 | 2023-02-22 | 36 | 229 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 36 | 231 | 
 | 2023-01-30 | 36 | 231 | 
 | 2023-01-29 | 36 | 232 | 
-| 2023-01-28 | 36 | 232 | 
 

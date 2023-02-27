@@ -1,10 +1,10 @@
 # r-tmap/tmap - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 110
 
-★ Stars: 705
+★ Stars: 706
 
 [Open repository](https://github.com/r-tmap/tmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 706 | 110 | 
 | 2023-02-25 | 705 | 110 | 
 | 2023-02-24 | 705 | 110 | 
 | 2023-02-23 | 700 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 695 | 110 | 
 | 2023-01-29 | 695 | 110 | 
 | 2023-01-28 | 695 | 110 | 
-| 2023-01-27 | 695 | 110 | 
 

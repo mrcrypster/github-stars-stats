@@ -1,6 +1,6 @@
 # QodotPlugin/qodot-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 836 | 70 | 
 | 2023-02-25 | 836 | 70 | 
 | 2023-02-24 | 834 | 70 | 
 | 2023-02-23 | 833 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 824 | 70 | 
 | 2023-01-29 | 824 | 70 | 
 | 2023-01-28 | 824 | 70 | 
-| 2023-01-27 | 822 | 70 | 
 

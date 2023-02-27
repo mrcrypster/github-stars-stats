@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/gdquest-demos/godot-4.0-new-features)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 36 | 2 | 
+| 2023-02-26 | 38 | 2 | 
 | 2023-02-25 | 36 | 2 | 
 | 2023-02-24 | 25 | 2 | 
 | 2023-02-23 | 24 | 2 | 

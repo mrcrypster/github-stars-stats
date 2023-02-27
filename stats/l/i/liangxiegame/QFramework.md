@@ -1,10 +1,10 @@
 # liangxiegame/QFramework - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 674
 
-★ Stars: 3108
+★ Stars: 3110
 
 [Open repository](https://github.com/liangxiegame/QFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3110 | 674 | 
 | 2023-02-25 | 3108 | 674 | 
 | 2023-02-23 | 3107 | 676 | 
 | 2023-02-22 | 3105 | 676 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 3056 | 662 | 
 | 2023-01-30 | 3053 | 661 | 
 | 2023-01-29 | 3049 | 662 | 
-| 2023-01-28 | 3046 | 663 | 
 

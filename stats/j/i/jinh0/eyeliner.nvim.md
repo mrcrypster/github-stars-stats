@@ -1,6 +1,6 @@
 # jinh0/eyeliner.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 168 | 7 | 
 | 2023-02-25 | 168 | 7 | 
 | 2023-02-24 | 167 | 7 | 
 | 2023-02-23 | 167 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 161 | 7 | 
 | 2023-01-30 | 161 | 7 | 
 | 2023-01-29 | 160 | 7 | 
-| 2023-01-28 | 160 | 7 | 
 

@@ -1,6 +1,6 @@
 # paritytech/substrate - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2527
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 7939 | 2527 | 
 | 2023-02-25 | 7939 | 2527 | 
 | 2023-02-24 | 7939 | 2526 | 
 | 2023-02-23 | 7933 | 2528 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 7872 | 2503 | 
 | 2023-01-29 | 7871 | 2501 | 
 | 2023-01-28 | 7867 | 2499 | 
-| 2023-01-27 | 7866 | 2498 | 
 

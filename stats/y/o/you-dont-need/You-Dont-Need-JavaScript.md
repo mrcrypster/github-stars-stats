@@ -1,6 +1,6 @@
 # you-dont-need/You-Dont-Need-JavaScript - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1076
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 18078 | 1076 | 
 | 2023-02-25 | 18078 | 1076 | 
 | 2023-02-24 | 18072 | 1076 | 
 | 2023-02-23 | 18071 | 1076 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 17979 | 1074 | 
 | 2023-01-29 | 17977 | 1074 | 
 | 2023-01-28 | 17975 | 1074 | 
-| 2023-01-27 | 17967 | 1074 | 
 

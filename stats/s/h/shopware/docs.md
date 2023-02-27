@@ -1,6 +1,6 @@
 # shopware/docs - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 30 | 169 | 
 | 2023-02-24 | 30 | 169 | 
 | 2023-02-23 | 30 | 169 | 
 | 2023-02-22 | 30 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 29 | 168 | 
 | 2023-01-29 | 29 | 167 | 
 | 2023-01-28 | 29 | 167 | 
-| 2023-01-27 | 28 | 166 | 
 

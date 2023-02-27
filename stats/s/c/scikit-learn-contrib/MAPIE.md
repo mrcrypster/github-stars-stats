@@ -1,10 +1,10 @@
 # scikit-learn-contrib/MAPIE - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 61
 
-★ Stars: 652
+★ Stars: 654
 
 [Open repository](https://github.com/scikit-learn-contrib/MAPIE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 654 | 61 | 
 | 2023-02-25 | 652 | 61 | 
 | 2023-02-24 | 651 | 59 | 
 | 2023-02-23 | 650 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 626 | 56 | 
 | 2023-01-30 | 624 | 55 | 
 | 2023-01-29 | 624 | 55 | 
-| 2023-01-27 | 624 | 55 | 
 

@@ -1,6 +1,6 @@
 # imroc/req - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 266
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3074 | 266 | 
 | 2023-02-25 | 3074 | 266 | 
 | 2023-02-24 | 3073 | 266 | 
 | 2023-02-23 | 3071 | 266 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2994 | 263 | 
 | 2023-01-29 | 2989 | 263 | 
 | 2023-01-28 | 2984 | 263 | 
-| 2023-01-27 | 2979 | 263 | 
 

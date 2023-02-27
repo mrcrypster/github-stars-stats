@@ -1,6 +1,6 @@
 # tc39/proposal-extractors - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 161 | 1 | 
 | 2023-02-25 | 161 | 1 | 
 | 2023-02-24 | 161 | 1 | 
 | 2023-02-23 | 161 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 160 | 1 | 
 | 2023-01-29 | 160 | 1 | 
 | 2023-01-28 | 160 | 1 | 
-| 2023-01-27 | 160 | 1 | 
 

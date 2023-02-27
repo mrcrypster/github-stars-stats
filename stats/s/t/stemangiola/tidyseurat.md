@@ -1,10 +1,10 @@
 # stemangiola/tidyseurat - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 10
 
-★ Stars: 110
+★ Stars: 113
 
 [Open repository](https://github.com/stemangiola/tidyseurat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 113 | 10 | 
 | 2023-02-25 | 110 | 10 | 
 | 2023-02-24 | 110 | 10 | 
 | 2023-02-23 | 109 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 105 | 10 | 
 | 2023-01-29 | 105 | 10 | 
 | 2023-01-28 | 105 | 10 | 
-| 2023-01-27 | 105 | 10 | 
 

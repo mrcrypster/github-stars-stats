@@ -1,10 +1,10 @@
 # Anudeep-313/mini-project - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 35
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Anudeep-313/mini-project)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 19 | 35 | 
 | 2023-02-25 | 18 | 35 | 
 | 2023-02-24 | 18 | 35 | 
 | 2023-02-23 | 18 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 18 | 35 | 
 | 2023-01-29 | 18 | 35 | 
 | 2023-01-28 | 18 | 35 | 
-| 2023-01-27 | 18 | 35 | 
 

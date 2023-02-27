@@ -1,6 +1,6 @@
 # Megvii-BaseDetection/BEVDepth - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 384 | 53 | 
 | 2023-02-25 | 384 | 53 | 
 | 2023-02-24 | 384 | 53 | 
 | 2023-02-23 | 381 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 360 | 51 | 
 | 2023-01-29 | 359 | 51 | 
 | 2023-01-28 | 359 | 51 | 
-| 2023-01-27 | 355 | 51 | 
 

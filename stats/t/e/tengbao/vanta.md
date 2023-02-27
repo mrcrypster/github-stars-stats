@@ -1,10 +1,10 @@
 # tengbao/vanta - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 985
 
-★ Stars: 4346
+★ Stars: 4348
 
 [Open repository](https://github.com/tengbao/vanta)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 4348 | 985 | 
 | 2023-02-25 | 4346 | 985 | 
 | 2023-02-24 | 4347 | 985 | 
 | 2023-02-23 | 4346 | 985 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 4307 | 982 | 
 | 2023-01-29 | 4303 | 983 | 
 | 2023-01-28 | 4299 | 981 | 
-| 2023-01-27 | 4296 | 980 | 
 

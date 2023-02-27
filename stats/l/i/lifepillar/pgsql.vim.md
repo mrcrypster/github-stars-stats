@@ -1,10 +1,10 @@
 # lifepillar/pgsql.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 11
 
-★ Stars: 260
+★ Stars: 262
 
 [Open repository](https://github.com/lifepillar/pgsql.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 262 | 11 | 
 | 2023-02-25 | 260 | 11 | 
 | 2023-02-24 | 260 | 11 | 
 | 2023-02-23 | 260 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 259 | 11 | 
 | 2023-01-29 | 259 | 11 | 
 | 2023-01-28 | 259 | 11 | 
-| 2023-01-27 | 259 | 11 | 
 

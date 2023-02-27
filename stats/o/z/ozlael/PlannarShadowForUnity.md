@@ -1,10 +1,10 @@
 # ozlael/PlannarShadowForUnity - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/ozlael/PlannarShadowForUnity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 104 | 24 | 
 | 2023-02-25 | 103 | 23 | 
 | 2023-02-24 | 103 | 23 | 
 | 2023-02-23 | 103 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 103 | 23 | 
 | 2023-01-29 | 103 | 23 | 
 | 2023-01-28 | 103 | 23 | 
-| 2023-01-27 | 103 | 23 | 
 

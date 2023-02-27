@@ -1,10 +1,10 @@
 # FaRu85/Godot-Foliage - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/FaRu85/Godot-Foliage)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 49 | 5 | 
 | 2023-02-25 | 48 | 4 | 
 | 2023-02-24 | 47 | 4 | 
 | 2023-02-23 | 47 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 44 | 4 | 
 | 2023-01-29 | 44 | 4 | 
 | 2023-01-28 | 44 | 4 | 
-| 2023-01-27 | 44 | 4 | 
 

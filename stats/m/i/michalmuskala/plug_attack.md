@@ -1,10 +1,10 @@
 # michalmuskala/plug_attack - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 17
 
-★ Stars: 383
+★ Stars: 385
 
 [Open repository](https://github.com/michalmuskala/plug_attack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 385 | 17 | 
 | 2023-02-25 | 383 | 17 | 
 | 2023-02-24 | 383 | 17 | 
 | 2023-02-23 | 383 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 382 | 18 | 
 | 2023-01-29 | 382 | 18 | 
 | 2023-01-28 | 382 | 18 | 
-| 2023-01-27 | 382 | 18 | 
 

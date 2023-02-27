@@ -1,6 +1,6 @@
 # Flutterando/auto_injector - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 38 | 1 | 
 | 2023-02-25 | 38 | 1 | 
 | 2023-02-24 | 38 | 1 | 
 | 2023-02-22 | 37 | 1 | 

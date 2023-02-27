@@ -1,6 +1,6 @@
 # kgiszczak/shale - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 464 | 7 | 
 | 2023-02-25 | 464 | 7 | 
 | 2023-02-24 | 464 | 7 | 
 | 2023-02-23 | 464 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 466 | 6 | 
 | 2023-01-29 | 466 | 6 | 
 | 2023-01-28 | 466 | 6 | 
-| 2023-01-27 | 466 | 6 | 
 

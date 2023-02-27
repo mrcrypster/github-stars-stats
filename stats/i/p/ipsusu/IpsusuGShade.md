@@ -1,10 +1,10 @@
 # ipsusu/IpsusuGShade - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/ipsusu/IpsusuGShade)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8 | 2 | 
 | 2023-02-25 | 9 | 2 | 
 | 2023-02-24 | 9 | 2 | 
 | 2023-02-23 | 9 | 2 | 

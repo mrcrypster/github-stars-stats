@@ -1,10 +1,10 @@
 # nyxkrage/emacs-os - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/nyxkrage/emacs-os)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 30 | - | 
 | 2023-02-25 | 29 | - | 
 | 2023-02-24 | 29 | - | 
 | 2023-02-23 | 29 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 22 | - | 
 | 2023-01-29 | 22 | - | 
 | 2023-01-28 | 22 | - | 
-| 2023-01-27 | 22 | - | 
 

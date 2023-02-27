@@ -1,6 +1,6 @@
 # Leomotors/anime-captcha - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 53 | 11 | 
 | 2023-02-25 | 53 | 11 | 
 | 2023-02-24 | 53 | 11 | 
 | 2023-02-23 | 53 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 52 | 11 | 
 | 2023-01-29 | 52 | 11 | 
 | 2023-01-28 | 52 | 11 | 
-| 2023-01-27 | 52 | 11 | 
 

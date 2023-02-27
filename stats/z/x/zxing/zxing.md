@@ -1,10 +1,10 @@
 # zxing/zxing - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9277
 
-★ Stars: 30711
+★ Stars: 30714
 
 [Open repository](https://github.com/zxing/zxing)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 30714 | 9277 | 
 | 2023-02-24 | 30711 | 9277 | 
 | 2023-02-23 | 30707 | 9276 | 
 | 2023-02-22 | 30708 | 9273 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-31 | 30623 | 9270 | 
 | 2023-01-30 | 30620 | 9271 | 
 | 2023-01-29 | 30613 | 9271 | 
-| 2023-01-28 | 30606 | 9269 | 
 

@@ -1,6 +1,6 @@
 # FortyNorthSecurity/PersistAssist - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 212 | 35 | 
 | 2023-02-25 | 212 | 35 | 
 | 2023-02-24 | 212 | 35 | 
 | 2023-02-22 | 212 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 209 | 35 | 
 | 2023-01-29 | 209 | 35 | 
 | 2023-01-28 | 208 | 35 | 
-| 2023-01-27 | 208 | 35 | 
 

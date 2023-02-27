@@ -1,10 +1,10 @@
 # ruslanskorb/RSKImageCropper - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 476
 
-★ Stars: 2407
+★ Stars: 2408
 
 [Open repository](https://github.com/ruslanskorb/RSKImageCropper)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2408 | 476 | 
+| 2023-02-26 | 2408 | 476 | 
 | 2023-02-25 | 2407 | 476 | 
 | 2023-02-23 | 2407 | 476 | 
 | 2023-02-22 | 2406 | 476 | 

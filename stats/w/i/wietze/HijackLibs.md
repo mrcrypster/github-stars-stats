@@ -1,6 +1,6 @@
 # wietze/HijackLibs - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 399 | 40 | 
 | 2023-02-25 | 399 | 40 | 
 | 2023-02-24 | 399 | 40 | 
 | 2023-02-23 | 399 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 391 | 37 | 
 | 2023-01-29 | 391 | 37 | 
 | 2023-01-28 | 389 | 37 | 
-| 2023-01-27 | 389 | 37 | 
 

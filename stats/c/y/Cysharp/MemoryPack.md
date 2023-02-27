@@ -1,10 +1,10 @@
 # Cysharp/MemoryPack - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 73
 
-★ Stars: 1532
+★ Stars: 1533
 
 [Open repository](https://github.com/Cysharp/MemoryPack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1533 | 73 | 
 | 2023-02-25 | 1532 | 73 | 
 | 2023-02-24 | 1528 | 73 | 
 | 2023-02-22 | 1527 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1458 | 69 | 
 | 2023-01-30 | 1448 | 69 | 
 | 2023-01-28 | 1444 | 69 | 
-| 2023-01-27 | 1444 | 69 | 
 

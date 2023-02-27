@@ -1,6 +1,6 @@
 # Siumauricio/rippleui - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 433 | 10 | 
 | 2023-02-25 | 433 | 10 | 
 | 2023-02-23 | 433 | 10 | 
 | 2023-02-22 | 433 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 394 | 9 | 
 | 2023-01-30 | 392 | 9 | 
 | 2023-01-28 | 392 | 9 | 
-| 2023-01-27 | 391 | 9 | 
 

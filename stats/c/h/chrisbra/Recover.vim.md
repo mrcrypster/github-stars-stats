@@ -1,6 +1,6 @@
 # chrisbra/Recover.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 225 | 25 | 
 | 2023-02-25 | 225 | 25 | 
 | 2023-02-24 | 225 | 25 | 
 | 2023-02-23 | 225 | 25 | 

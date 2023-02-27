@@ -1,10 +1,10 @@
 # fireship-io/threejs-scroll-animation-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 516
 
-★ Stars: 1175
+★ Stars: 1176
 
 [Open repository](https://github.com/fireship-io/threejs-scroll-animation-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1176 | 516 | 
 | 2023-02-25 | 1175 | 516 | 
 | 2023-02-24 | 1175 | 514 | 
 | 2023-02-23 | 1174 | 513 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1158 | 505 | 
 | 2023-01-29 | 1158 | 505 | 
 | 2023-01-28 | 1158 | 504 | 
-| 2023-01-27 | 1157 | 502 | 
 

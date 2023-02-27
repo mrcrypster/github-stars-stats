@@ -1,10 +1,10 @@
 # cure-lab/LTSF-Linear - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 136
 
-★ Stars: 683
+★ Stars: 684
 
 [Open repository](https://github.com/cure-lab/LTSF-Linear)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 684 | 136 | 
 | 2023-02-25 | 683 | 136 | 
 | 2023-02-23 | 679 | 135 | 
 | 2023-02-22 | 670 | 134 | 

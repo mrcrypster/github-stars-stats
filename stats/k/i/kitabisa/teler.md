@@ -1,10 +1,10 @@
 # kitabisa/teler - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 191
 
-★ Stars: 2251
+★ Stars: 2253
 
 [Open repository](https://github.com/kitabisa/teler)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2253 | 191 | 
 | 2023-02-25 | 2251 | 191 | 
 | 2023-02-24 | 2248 | 191 | 
 | 2023-02-23 | 2244 | 191 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2180 | 188 | 
 | 2023-01-29 | 2179 | 188 | 
 | 2023-01-28 | 2177 | 188 | 
-| 2023-01-27 | 2177 | 188 | 
 

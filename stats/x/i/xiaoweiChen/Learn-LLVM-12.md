@@ -1,6 +1,6 @@
 # xiaoweiChen/Learn-LLVM-12 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 481 | 57 | 
 | 2023-02-25 | 481 | 57 | 
 | 2023-02-24 | 480 | 57 | 
 | 2023-02-23 | 479 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 471 | 57 | 
 | 2023-01-29 | 470 | 57 | 
 | 2023-01-28 | 470 | 57 | 
-| 2023-01-27 | 469 | 57 | 
 

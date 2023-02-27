@@ -1,6 +1,6 @@
 # andrewbaxter/genemichaels - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 73 | 2 | 
 | 2023-02-25 | 73 | 2 | 
 | 2023-02-24 | 73 | 2 | 
 | 2023-02-23 | 73 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 73 | 2 | 
 | 2023-01-29 | 73 | 2 | 
 | 2023-01-28 | 73 | 2 | 
-| 2023-01-27 | 73 | 2 | 
 

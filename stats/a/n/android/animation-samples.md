@@ -1,6 +1,6 @@
 # android/animation-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 875
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2356 | 875 | 
 | 2023-02-25 | 2356 | 875 | 
 | 2023-02-24 | 2355 | 874 | 
 | 2023-02-23 | 2353 | 873 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2340 | 866 | 
 | 2023-01-29 | 2340 | 867 | 
 | 2023-01-28 | 2337 | 867 | 
-| 2023-01-27 | 2336 | 867 | 
 

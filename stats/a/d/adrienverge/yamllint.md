@@ -1,10 +1,10 @@
 # adrienverge/yamllint - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 237
 
-★ Stars: 2284
+★ Stars: 2287
 
 [Open repository](https://github.com/adrienverge/yamllint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2287 | 237 | 
 | 2023-02-25 | 2284 | 237 | 
 | 2023-02-24 | 2283 | 238 | 
 | 2023-02-23 | 2282 | 238 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 2248 | 236 | 
 | 2023-01-30 | 2247 | 236 | 
 | 2023-01-29 | 2246 | 235 | 
-| 2023-01-27 | 2245 | 235 | 
 

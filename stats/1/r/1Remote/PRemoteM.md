@@ -1,10 +1,10 @@
 # 1Remote/PRemoteM - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 182
 
-★ Stars: 1098
+★ Stars: 1100
 
 [Open repository](https://github.com/1Remote/PRemoteM)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1100 | 182 | 
 | 2023-02-25 | 1098 | 182 | 
 | 2023-02-23 | 1096 | 182 | 
 | 2023-02-22 | 1096 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1068 | 179 | 
 | 2023-01-30 | 1066 | 179 | 
 | 2023-01-29 | 1065 | 179 | 
-| 2023-01-28 | 1063 | 178 | 
 

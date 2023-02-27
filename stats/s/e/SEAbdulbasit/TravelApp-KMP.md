@@ -1,6 +1,6 @@
 # SEAbdulbasit/TravelApp-KMP - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 202 | 17 | 
 | 2023-02-25 | 202 | 17 | 
 | 2023-02-24 | 201 | 17 | 
 | 2023-02-23 | 196 | 14 | 

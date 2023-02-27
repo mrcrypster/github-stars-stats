@@ -1,6 +1,6 @@
 # 0xmostima/EBMP - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 67 | 3 | 
 | 2023-02-25 | 67 | 3 | 
 | 2023-02-23 | 67 | 3 | 
 | 2023-02-22 | 67 | 3 | 

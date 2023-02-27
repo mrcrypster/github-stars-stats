@@ -1,10 +1,10 @@
 # ViaVersion/ViaVersion - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 215
+☋ Forks: 216
 
-★ Stars: 916
+★ Stars: 918
 
 [Open repository](https://github.com/ViaVersion/ViaVersion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 918 | 216 | 
 | 2023-02-25 | 916 | 215 | 
 | 2023-02-24 | 916 | 215 | 
 | 2023-02-23 | 915 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 908 | 215 | 
 | 2023-01-29 | 906 | 215 | 
 | 2023-01-28 | 906 | 214 | 
-| 2023-01-27 | 905 | 214 | 
 

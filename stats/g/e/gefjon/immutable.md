@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 8
 
 [Open repository](https://github.com/gefjon/immutable)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 6 | - | 
+| 2023-02-26 | 8 | - | 
 | 2023-02-25 | 6 | - | 
 

@@ -1,6 +1,6 @@
 # Lyokone/flutterlocation - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 641
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 969 | 641 | 
 | 2023-02-25 | 969 | 641 | 
 | 2023-02-24 | 969 | 641 | 
 | 2023-02-23 | 968 | 640 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 960 | 608 | 
 | 2023-01-29 | 959 | 606 | 
 | 2023-01-28 | 959 | 606 | 
-| 2023-01-27 | 959 | 606 | 
 

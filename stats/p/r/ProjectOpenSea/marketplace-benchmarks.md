@@ -1,6 +1,6 @@
 # ProjectOpenSea/marketplace-benchmarks - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 64 | 16 | 
 | 2023-02-25 | 64 | 16 | 
 | 2023-02-24 | 63 | 16 | 
 | 2023-02-23 | 63 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 60 | 15 | 
 | 2023-01-29 | 60 | 15 | 
 | 2023-01-28 | 60 | 15 | 
-| 2023-01-27 | 60 | 15 | 
 

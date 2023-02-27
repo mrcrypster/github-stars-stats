@@ -1,6 +1,6 @@
 # damn/engine - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 22 | 1 | 
 | 2023-02-25 | 22 | 1 | 
 | 2023-02-23 | 22 | 1 | 
 | 2023-02-22 | 22 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 22 | 1 | 
 | 2023-01-29 | 21 | 1 | 
 | 2023-01-28 | 21 | 1 | 
-| 2023-01-27 | 21 | 1 | 
 

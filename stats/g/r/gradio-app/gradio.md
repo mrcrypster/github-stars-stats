@@ -1,10 +1,10 @@
 # gradio-app/gradio - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 856
 
-★ Stars: 13055
+★ Stars: 13096
 
 [Open repository](https://github.com/gradio-app/gradio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 13096 | 856 | 
 | 2023-02-25 | 13055 | 856 | 
 | 2023-02-24 | 13022 | 854 | 
 | 2023-02-23 | 12972 | 853 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 12124 | 799 | 
 | 2023-01-29 | 12098 | 797 | 
 | 2023-01-28 | 12077 | 797 | 
-| 2023-01-27 | 12054 | 791 | 
 

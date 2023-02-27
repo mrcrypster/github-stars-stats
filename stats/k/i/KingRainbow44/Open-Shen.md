@@ -1,6 +1,6 @@
 # KingRainbow44/Open-Shen - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 69 | 15 | 
 | 2023-02-25 | 69 | 15 | 
 | 2023-02-24 | 69 | 15 | 
 | 2023-02-23 | 69 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 69 | 15 | 
 | 2023-01-30 | 69 | 15 | 
 | 2023-01-28 | 69 | 15 | 
-| 2023-01-27 | 69 | 15 | 
 

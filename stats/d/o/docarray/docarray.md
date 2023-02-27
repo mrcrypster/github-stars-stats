@@ -1,10 +1,10 @@
 # docarray/docarray - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 1770
+★ Stars: 1780
 
 [Open repository](https://github.com/docarray/docarray)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1780 | 141 | 
 | 2023-02-25 | 1770 | 140 | 
 | 2023-02-24 | 1764 | 140 | 
 

@@ -1,10 +1,10 @@
 # cybertec-postgresql/pgfaceting - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/cybertec-postgresql/pgfaceting)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 70 | 3 | 
 | 2023-02-25 | 69 | 3 | 
 | 2023-02-24 | 67 | 3 | 
 | 2023-02-23 | 67 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 65 | 3 | 
 | 2023-01-29 | 65 | 3 | 
 | 2023-01-28 | 65 | 3 | 
-| 2023-01-27 | 65 | 3 | 
 

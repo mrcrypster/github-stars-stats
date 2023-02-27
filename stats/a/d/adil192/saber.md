@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 34
 
-★ Stars: 380
+★ Stars: 385
 
 [Open repository](https://github.com/adil192/saber)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 380 | 34 | 
+| 2023-02-26 | 385 | 34 | 
 | 2023-02-25 | 376 | 33 | 
 | 2023-02-23 | 374 | 34 | 
 | 2023-02-22 | 371 | 34 | 
@@ -40,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 306 | 29 | 
 | 2023-01-29 | 299 | 29 | 
 | 2023-01-28 | 298 | 29 | 
-| 2023-01-27 | 294 | 29 | 
 

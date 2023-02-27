@@ -1,10 +1,10 @@
 # ProxymanApp/atlantis - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 66
 
-★ Stars: 938
+★ Stars: 940
 
 [Open repository](https://github.com/ProxymanApp/atlantis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 940 | 66 | 
 | 2023-02-25 | 938 | 66 | 
 | 2023-02-24 | 938 | 66 | 
 | 2023-02-23 | 936 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 910 | 64 | 
 | 2023-01-29 | 909 | 65 | 
 | 2023-01-28 | 909 | 65 | 
-| 2023-01-27 | 907 | 65 | 
 

@@ -1,8 +1,8 @@
 # mdbootstrap/knowledge-base - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 320
+☋ Forks: 322
 
 ★ Stars: 130
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 130 | 322 | 
 | 2023-02-25 | 130 | 320 | 
 | 2023-02-24 | 130 | 319 | 
 | 2023-02-23 | 130 | 319 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 130 | 317 | 
 | 2023-01-29 | 130 | 316 | 
 | 2023-01-28 | 130 | 316 | 
-| 2023-01-27 | 129 | 317 | 
 

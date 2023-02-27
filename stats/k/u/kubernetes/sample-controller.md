@@ -1,8 +1,8 @@
 # kubernetes/sample-controller - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 932
+☋ Forks: 933
 
 ★ Stars: 2592
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2592 | 933 | 
 | 2023-02-25 | 2592 | 932 | 
 | 2023-02-24 | 2590 | 932 | 
 | 2023-02-23 | 2588 | 931 | 

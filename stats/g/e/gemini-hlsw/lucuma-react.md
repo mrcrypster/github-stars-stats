@@ -1,6 +1,6 @@
 # gemini-hlsw/lucuma-react - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3 | 1 | 
 | 2023-02-25 | 3 | 1 | 
 | 2023-02-24 | 3 | 1 | 
 | 2023-02-23 | 3 | 1 | 

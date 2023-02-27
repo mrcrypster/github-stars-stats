@@ -1,6 +1,6 @@
 # monogon-dev/NetMeta - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 98 | 6 | 
 | 2023-02-25 | 98 | 6 | 
 | 2023-02-24 | 98 | 6 | 
 | 2023-02-23 | 99 | 6 | 

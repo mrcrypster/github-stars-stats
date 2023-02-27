@@ -1,8 +1,8 @@
 # jotego/jtbin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 179
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 179 | 62 | 
 | 2023-02-25 | 179 | 61 | 
 | 2023-02-24 | 177 | 61 | 
 | 2023-02-23 | 177 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 170 | 62 | 
 | 2023-01-29 | 170 | 62 | 
 | 2023-01-28 | 170 | 62 | 
-| 2023-01-27 | 170 | 62 | 
 

@@ -1,10 +1,10 @@
 # Philogy/yam-weth - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 50
 
 [Open repository](https://github.com/Philogy/yam-weth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 50 | 2 | 
 | 2023-02-25 | 47 | 2 | 
 | 2023-02-24 | 46 | 2 | 
 | 2023-02-23 | 46 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 28 | - | 
 | 2023-01-29 | 28 | - | 
 | 2023-01-28 | 28 | - | 
-| 2023-01-27 | 28 | - | 
 

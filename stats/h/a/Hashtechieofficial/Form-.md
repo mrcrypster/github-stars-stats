@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 26
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 28
+★ Stars: 37
 
 [Open repository](https://github.com/Hashtechieofficial/Form-)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 28 | 22 | 
+| 2023-02-26 | 37 | 23 | 
 | 2023-02-25 | 25 | 22 | 
 | 2023-02-24 | 15 | 16 | 
 | 2023-02-23 | 12 | 10 | 

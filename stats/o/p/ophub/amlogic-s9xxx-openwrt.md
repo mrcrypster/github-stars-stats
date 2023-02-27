@@ -1,10 +1,10 @@
 # ophub/amlogic-s9xxx-openwrt - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 897
+☋ Forks: 900
 
-★ Stars: 766
+★ Stars: 768
 
 [Open repository](https://github.com/ophub/amlogic-s9xxx-openwrt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 768 | 900 | 
 | 2023-02-25 | 766 | 897 | 
 | 2023-02-24 | 764 | 895 | 
 | 2023-02-22 | 763 | 890 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 723 | 845 | 
 | 2023-01-29 | 723 | 846 | 
 | 2023-01-28 | 723 | 845 | 
-| 2023-01-27 | 720 | 842 | 
 

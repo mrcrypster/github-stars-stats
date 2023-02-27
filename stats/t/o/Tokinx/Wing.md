@@ -1,10 +1,10 @@
 # Tokinx/Wing - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 37
 
-★ Stars: 324
+★ Stars: 322
 
 [Open repository](https://github.com/Tokinx/Wing)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 322 | 37 | 
 | 2023-02-25 | 324 | 37 | 
 | 2023-02-24 | 322 | 37 | 
 | 2023-02-23 | 321 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 296 | 34 | 
 | 2023-01-29 | 296 | 34 | 
 | 2023-01-28 | 296 | 34 | 
-| 2023-01-27 | 295 | 34 | 
 

@@ -1,10 +1,10 @@
 # yudai/gotty - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 1328
+☋ Forks: 1329
 
-★ Stars: 17485
+★ Stars: 17489
 
 [Open repository](https://github.com/yudai/gotty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 17489 | 1329 | 
 | 2023-02-25 | 17485 | 1328 | 
 | 2023-02-24 | 17483 | 1328 | 
 | 2023-02-23 | 17483 | 1327 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 17435 | 1321 | 
 | 2023-01-29 | 17430 | 1321 | 
 | 2023-01-28 | 17431 | 1320 | 
-| 2023-01-27 | 17429 | 1320 | 
 

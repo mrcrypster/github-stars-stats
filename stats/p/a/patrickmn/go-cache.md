@@ -1,10 +1,10 @@
 # patrickmn/go-cache - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 817
 
-★ Stars: 6905
+★ Stars: 6907
 
 [Open repository](https://github.com/patrickmn/go-cache)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6907 | 817 | 
 | 2023-02-25 | 6905 | 817 | 
 | 2023-02-24 | 6901 | 815 | 
 | 2023-02-23 | 6898 | 814 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 6839 | 807 | 
 | 2023-01-29 | 6840 | 807 | 
 | 2023-01-28 | 6839 | 808 | 
-| 2023-01-27 | 6829 | 808 | 
 

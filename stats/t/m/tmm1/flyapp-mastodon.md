@@ -1,6 +1,6 @@
 # tmm1/flyapp-mastodon - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 61 | 29 | 
 | 2023-02-25 | 61 | 29 | 
 | 2023-02-24 | 61 | 29 | 
 | 2023-02-23 | 61 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 56 | 27 | 
 | 2023-01-29 | 56 | 26 | 
 | 2023-01-28 | 55 | 26 | 
-| 2023-01-27 | 55 | 26 | 
 

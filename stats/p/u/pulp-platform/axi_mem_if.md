@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 19
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/pulp-platform/axi_mem_if)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 18 | 19 | 
+| 2023-02-26 | 19 | 19 | 
 | 2023-02-24 | 18 | 19 | 
 | 2023-02-23 | 18 | 19 | 
 | 2023-02-22 | 18 | 19 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 18 | 19 | 
 | 2023-01-29 | 18 | 19 | 
 | 2023-01-28 | 18 | 19 | 
-| 2023-01-27 | 18 | 19 | 
 

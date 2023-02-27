@@ -1,6 +1,6 @@
 # Cardano-NFTs/policyIDs - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3213
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 161 | 3213 | 
 | 2023-02-25 | 161 | 3213 | 
 | 2023-02-24 | 161 | 3214 | 
 | 2023-02-23 | 161 | 3215 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 161 | 3216 | 
 | 2023-01-30 | 161 | 3216 | 
 | 2023-01-29 | 161 | 3216 | 
-| 2023-01-28 | 161 | 3217 | 
 

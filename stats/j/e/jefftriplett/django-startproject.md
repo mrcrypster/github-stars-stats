@@ -1,6 +1,6 @@
 # jefftriplett/django-startproject - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 88 | 7 | 
 | 2023-02-25 | 88 | 7 | 
 | 2023-02-24 | 88 | 7 | 
 | 2023-02-23 | 88 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 85 | 7 | 
 | 2023-01-29 | 85 | 7 | 
 | 2023-01-28 | 85 | 7 | 
-| 2023-01-27 | 85 | 7 | 
 

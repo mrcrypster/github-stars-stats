@@ -1,6 +1,6 @@
 # danqing/Pinch - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 245 | 7 | 
 | 2023-02-25 | 245 | 7 | 
 | 2023-02-24 | 243 | 7 | 
 | 2023-02-23 | 242 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 206 | 6 | 
 | 2023-01-29 | 206 | 6 | 
 | 2023-01-28 | 204 | 6 | 
-| 2023-01-27 | 201 | 6 | 
 

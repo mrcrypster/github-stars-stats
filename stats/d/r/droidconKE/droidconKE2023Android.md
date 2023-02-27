@@ -1,6 +1,6 @@
 # droidconKE/droidconKE2023Android - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 24 | 21 | 
 | 2023-02-25 | 24 | 21 | 
 | 2023-02-24 | 24 | 22 | 
 | 2023-02-23 | 23 | 20 | 

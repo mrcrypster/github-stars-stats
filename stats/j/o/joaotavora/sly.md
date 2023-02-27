@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 121
 
-★ Stars: 1047
+★ Stars: 1048
 
 [Open repository](https://github.com/joaotavora/sly)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 1047 | 121 | 
+| 2023-02-26 | 1048 | 121 | 
 | 2023-02-25 | 1047 | 121 | 
 | 2023-02-24 | 1046 | 121 | 
 | 2023-02-23 | 1045 | 120 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 1035 | 119 | 
 | 2023-01-29 | 1035 | 119 | 
 | 2023-01-28 | 1035 | 119 | 
-| 2023-01-27 | 1035 | 119 | 
 

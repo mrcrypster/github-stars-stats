@@ -1,6 +1,6 @@
 # outr/scribe - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 442 | 35 | 
 | 2023-02-25 | 442 | 35 | 
 | 2023-02-24 | 442 | 35 | 
 | 2023-02-23 | 441 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 440 | 31 | 
 | 2023-01-29 | 440 | 31 | 
 | 2023-01-28 | 439 | 31 | 
-| 2023-01-27 | 439 | 31 | 
 

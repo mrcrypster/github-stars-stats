@@ -1,10 +1,10 @@
 # kleiton0x00/RedditC2 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 30
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/kleiton0x00/RedditC2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 187 | 30 | 
 | 2023-02-25 | 186 | 30 | 
 | 2023-02-24 | 186 | 30 | 
 | 2023-02-23 | 186 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 179 | 29 | 
 | 2023-01-29 | 177 | 29 | 
 | 2023-01-28 | 177 | 29 | 
-| 2023-01-27 | 176 | 29 | 
 

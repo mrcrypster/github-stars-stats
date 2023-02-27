@@ -1,10 +1,10 @@
 # SnowballSH/Avalanche - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/SnowballSH/Avalanche)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 45 | 2 | 
 | 2023-02-25 | 44 | 2 | 
 | 2023-02-24 | 44 | 2 | 
 | 2023-02-23 | 44 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 44 | 2 | 
 | 2023-01-29 | 44 | 2 | 
 | 2023-01-28 | 44 | 2 | 
-| 2023-01-27 | 44 | 2 | 
 

@@ -1,6 +1,6 @@
 # tricorder-observability/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 15 | 1 | 
 | 2023-02-25 | 15 | 1 | 
 | 2023-02-24 | 14 | 1 | 
 | 2023-02-23 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 12 | - | 
 | 2023-01-29 | 12 | - | 
 | 2023-01-28 | 12 | - | 
-| 2023-01-27 | 12 | - | 
 

@@ -1,6 +1,6 @@
 # FahimAnzamDip/triangle-pos - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 88 | 50 | 
 | 2023-02-24 | 88 | 50 | 
 | 2023-02-23 | 87 | 49 | 
 | 2023-02-22 | 86 | 49 | 

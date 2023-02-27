@@ -1,10 +1,10 @@
 # rstudio/pool - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 31
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/rstudio/pool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 224 | 31 | 
 | 2023-02-25 | 223 | 31 | 
 | 2023-02-23 | 222 | 31 | 
 | 2023-02-22 | 222 | 31 | 

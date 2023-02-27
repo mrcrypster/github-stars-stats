@@ -1,6 +1,6 @@
 # TheLeerName/Kade-Engine-android - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 9 | 46 | 
 | 2023-02-25 | 9 | 46 | 
 | 2023-02-23 | 9 | 46 | 
 | 2023-02-22 | 9 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 9 | 45 | 
 | 2023-01-30 | 9 | 44 | 
 | 2023-01-29 | 9 | 44 | 
-| 2023-01-28 | 9 | 44 | 
 

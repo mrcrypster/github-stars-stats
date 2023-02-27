@@ -1,6 +1,6 @@
 # Vikash-8090-Yadav/Solidity-Pathshala - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 37 | 49 | 
 | 2023-02-25 | 37 | 49 | 
 | 2023-02-23 | 37 | 49 | 
 | 2023-02-22 | 37 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 36 | 48 | 
 | 2023-01-30 | 36 | 48 | 
 | 2023-01-28 | 36 | 48 | 
-| 2023-01-27 | 36 | 48 | 
 

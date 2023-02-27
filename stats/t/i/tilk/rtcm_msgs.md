@@ -1,6 +1,6 @@
 # tilk/rtcm_msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 7 | 17 | 
 | 2023-02-26 | 7 | 17 | 
 | 2023-02-24 | 7 | 17 | 
 | 2023-02-23 | 7 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 6 | 16 | 
 | 2023-01-29 | 6 | 16 | 
 | 2023-01-28 | 6 | 16 | 
-| 2023-01-27 | 6 | 16 | 
 

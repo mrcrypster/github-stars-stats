@@ -1,10 +1,10 @@
 # Wansmer/treesj - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
-★ Stars: 325
+★ Stars: 327
 
 [Open repository](https://github.com/Wansmer/treesj)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 327 | 7 | 
 | 2023-02-25 | 325 | 7 | 
 | 2023-02-24 | 325 | 6 | 
 | 2023-02-23 | 323 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 286 | 6 | 
 | 2023-01-29 | 284 | 6 | 
 | 2023-01-28 | 281 | 6 | 
-| 2023-01-27 | 279 | 6 | 
 

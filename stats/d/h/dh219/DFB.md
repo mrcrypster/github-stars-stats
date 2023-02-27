@@ -1,6 +1,6 @@
 # dh219/DFB - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 24 | 4 | 
 | 2023-02-25 | 24 | 4 | 
 | 2023-02-24 | 24 | 4 | 
 | 2023-02-23 | 24 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 23 | 4 | 
 | 2023-01-30 | 23 | 4 | 
 | 2023-01-29 | 23 | 4 | 
-| 2023-01-28 | 23 | 4 | 
 

@@ -1,8 +1,8 @@
 # adarshpand3y/Hacktoberfest2022-DSA - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 334
+☋ Forks: 333
 
 ★ Stars: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 37 | 333 | 
 | 2023-02-25 | 37 | 334 | 
 | 2023-02-24 | 37 | 335 | 
 | 2023-02-23 | 37 | 335 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 37 | 337 | 
 | 2023-01-29 | 37 | 337 | 
 | 2023-01-28 | 37 | 337 | 
-| 2023-01-27 | 37 | 337 | 
 

@@ -1,10 +1,10 @@
 # flox/flox - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
-★ Stars: 300
+★ Stars: 302
 
 [Open repository](https://github.com/flox/flox)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 302 | 8 | 
 | 2023-02-25 | 300 | 8 | 
 | 2023-02-24 | 298 | 8 | 
 | 2023-02-23 | 287 | 8 | 

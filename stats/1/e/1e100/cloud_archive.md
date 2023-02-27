@@ -1,6 +1,6 @@
 # 1e100/cloud_archive - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6 | 3 | 
 | 2023-02-25 | 6 | 3 | 
 | 2023-02-24 | 6 | 3 | 
 | 2023-02-23 | 6 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1 | 2 | 
 | 2023-01-29 | 1 | 2 | 
 | 2023-01-28 | 1 | 2 | 
-| 2023-01-27 | 1 | 2 | 
 

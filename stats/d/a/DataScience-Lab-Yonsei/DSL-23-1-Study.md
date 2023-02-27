@@ -1,6 +1,6 @@
 # DataScience-Lab-Yonsei/DSL-23-1-Study - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3 | 12 | 
 | 2023-02-25 | 3 | 12 | 
 | 2023-02-24 | 3 | 12 | 
 | 2023-02-22 | 3 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | - | 9 | 
 | 2023-01-29 | - | 9 | 
 | 2023-01-28 | - | 8 | 
-| 2023-01-27 | - | 8 | 
 

@@ -1,10 +1,10 @@
 # mehdihadeli/awesome-software-architecture - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 90
 
-★ Stars: 1338
+★ Stars: 1343
 
 [Open repository](https://github.com/mehdihadeli/awesome-software-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1343 | 90 | 
 | 2023-02-25 | 1338 | 90 | 
 | 2023-02-24 | 1323 | 89 | 
 | 2023-02-23 | 1322 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1224 | 79 | 
 | 2023-01-29 | 1219 | 78 | 
 | 2023-01-28 | 1215 | 76 | 
-| 2023-01-27 | 1211 | 76 | 
 

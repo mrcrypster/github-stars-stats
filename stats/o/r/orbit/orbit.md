@@ -1,10 +1,10 @@
 # orbit/orbit - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 171
 
-★ Stars: 1679
+★ Stars: 1680
 
 [Open repository](https://github.com/orbit/orbit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1680 | 171 | 
 | 2023-02-25 | 1679 | 171 | 
 | 2023-02-24 | 1679 | 171 | 
 | 2023-02-23 | 1679 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1679 | 171 | 
 | 2023-01-30 | 1679 | 171 | 
 | 2023-01-29 | 1679 | 171 | 
-| 2023-01-28 | 1679 | 171 | 
 

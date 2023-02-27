@@ -1,10 +1,10 @@
 # decurtoydiaz/learning_with_signatures - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/decurtoydiaz/learning_with_signatures)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 55 | 9 | 
 | 2023-02-25 | 54 | 9 | 
 | 2023-02-24 | 54 | 9 | 
 | 2023-02-23 | 54 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 54 | 9 | 
 | 2023-01-29 | 54 | 9 | 
 | 2023-01-28 | 54 | 9 | 
-| 2023-01-27 | 54 | 9 | 
 

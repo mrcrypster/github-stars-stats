@@ -1,10 +1,10 @@
 # mikf/gallery-dl - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 641
+☋ Forks: 643
 
-★ Stars: 6838
+★ Stars: 6848
 
 [Open repository](https://github.com/mikf/gallery-dl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6848 | 643 | 
 | 2023-02-25 | 6838 | 641 | 
 | 2023-02-24 | 6831 | 640 | 
 | 2023-02-23 | 6820 | 640 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 6648 | 627 | 
 | 2023-01-29 | 6633 | 628 | 
 | 2023-01-28 | 6622 | 628 | 
-| 2023-01-27 | 6617 | 627 | 
 

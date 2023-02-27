@@ -1,6 +1,6 @@
 # 3x1io/vilt-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 46 | 9 | 
 | 2023-02-25 | 46 | 9 | 
 | 2023-02-24 | 46 | 9 | 
 | 2023-02-22 | 46 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 44 | 8 | 
 | 2023-01-29 | 44 | 8 | 
 | 2023-01-28 | 44 | 8 | 
-| 2023-01-27 | 44 | 8 | 
 

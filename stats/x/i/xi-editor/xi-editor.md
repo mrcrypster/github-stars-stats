@@ -1,6 +1,6 @@
 # xi-editor/xi-editor - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 711
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 19722 | 711 | 
 | 2023-02-25 | 19722 | 711 | 
 | 2023-02-23 | 19719 | 711 | 
 | 2023-02-22 | 19717 | 710 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 19713 | 710 | 
 | 2023-01-29 | 19709 | 710 | 
 | 2023-01-28 | 19705 | 710 | 
-| 2023-01-27 | 19705 | 710 | 
 

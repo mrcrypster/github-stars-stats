@@ -1,8 +1,8 @@
 # genznodes-ecosystem/genznodes.dev - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4 | 10 | 
 | 2023-02-25 | 4 | 9 | 
 | 2023-02-24 | 4 | 9 | 
 | 2023-02-23 | 4 | 8 | 

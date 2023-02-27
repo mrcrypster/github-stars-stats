@@ -1,8 +1,8 @@
 # Hanmen-lab/HS2-AI-ASE-Shaders - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 31
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 31 | 33 | 
+| 2023-02-26 | 31 | 33 | 
 | 2023-02-25 | 31 | 32 | 
 | 2023-02-24 | 31 | 32 | 
 | 2023-02-23 | 30 | 32 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 29 | 31 | 
 | 2023-01-29 | 29 | 31 | 
 | 2023-01-28 | 29 | 31 | 
-| 2023-01-27 | 29 | 31 | 
 

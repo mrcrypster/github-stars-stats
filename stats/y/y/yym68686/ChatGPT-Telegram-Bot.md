@@ -1,10 +1,10 @@
 # yym68686/ChatGPT-Telegram-Bot - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 11
+☋ Forks: 14
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/yym68686/ChatGPT-Telegram-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 111 | 14 | 
 | 2023-02-25 | 110 | 11 | 
 | 2023-02-24 | 110 | 10 | 
 | 2023-02-23 | 108 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 101 | 6 | 
 | 2023-01-30 | 101 | 6 | 
 | 2023-01-29 | 101 | 6 | 
-| 2023-01-28 | 101 | 5 | 
 

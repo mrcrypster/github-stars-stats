@@ -1,10 +1,10 @@
 # tenxsoydev/karen-yank.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/tenxsoydev/karen-yank.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 22 | - | 
 | 2023-02-25 | 21 | - | 
 | 2023-02-24 | 21 | - | 
 | 2023-02-23 | 21 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 21 | - | 
 | 2023-01-29 | 20 | - | 
 | 2023-01-28 | 21 | - | 
-| 2023-01-27 | 21 | - | 
 

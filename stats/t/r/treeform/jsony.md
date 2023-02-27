@@ -1,10 +1,10 @@
 # treeform/jsony - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 23
 
-★ Stars: 187
+★ Stars: 191
 
 [Open repository](https://github.com/treeform/jsony)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 191 | 23 | 
 | 2023-02-25 | 187 | 23 | 
 | 2023-02-24 | 187 | 23 | 
 | 2023-02-23 | 186 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 178 | 22 | 
 | 2023-01-29 | 178 | 22 | 
 | 2023-01-28 | 177 | 22 | 
-| 2023-01-27 | 177 | 22 | 
 

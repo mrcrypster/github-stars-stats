@@ -1,6 +1,6 @@
 # teacat/tocas - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 469 | 24 | 
 | 2023-02-25 | 469 | 24 | 
 | 2023-02-24 | 469 | 24 | 
 | 2023-02-23 | 469 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 468 | 24 | 
 | 2023-01-29 | 468 | 24 | 
 | 2023-01-28 | 468 | 24 | 
-| 2023-01-27 | 468 | 24 | 
 

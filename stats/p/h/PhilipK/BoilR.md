@@ -1,6 +1,6 @@
 # PhilipK/BoilR - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 885 | 26 | 
 | 2023-02-25 | 885 | 26 | 
 | 2023-02-24 | 884 | 26 | 
 | 2023-02-23 | 882 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 857 | 25 | 
 | 2023-01-29 | 857 | 25 | 
 | 2023-01-28 | 857 | 25 | 
-| 2023-01-27 | 858 | 25 | 
 

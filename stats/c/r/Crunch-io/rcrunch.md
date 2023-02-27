@@ -1,6 +1,6 @@
 # Crunch-io/rcrunch - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 8 | 15 | 
+| 2023-02-26 | 8 | 15 | 
 | 2023-02-25 | 8 | 15 | 
 | 2023-02-24 | 8 | 15 | 
 | 2023-02-23 | 8 | 15 | 

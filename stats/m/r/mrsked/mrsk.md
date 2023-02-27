@@ -1,10 +1,10 @@
 # mrsked/mrsk - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 911
+★ Stars: 942
 
 [Open repository](https://github.com/mrsked/mrsk)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 942 | 30 | 
+| 2023-02-26 | 941 | 30 | 
 | 2023-02-25 | 911 | 29 | 
 | 2023-02-24 | 880 | 28 | 
 | 2023-02-23 | 872 | 28 | 

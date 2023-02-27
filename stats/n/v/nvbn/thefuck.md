@@ -1,10 +1,10 @@
 # nvbn/thefuck - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 3315
+☋ Forks: 3318
 
-★ Stars: 75933
+★ Stars: 75947
 
 [Open repository](https://github.com/nvbn/thefuck)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 75947 | 3318 | 
 | 2023-02-25 | 75933 | 3315 | 
 | 2023-02-24 | 75921 | 3316 | 
 | 2023-02-23 | 75906 | 3315 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 75488 | 3310 | 
 | 2023-01-29 | 75458 | 3311 | 
 | 2023-01-28 | 75447 | 3311 | 
-| 2023-01-27 | 75437 | 3311 | 
 

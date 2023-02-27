@@ -1,10 +1,10 @@
 # BhavyaBhalla-27/DSA-Supreme- - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 97
+★ Stars: 100
 
 [Open repository](https://github.com/BhavyaBhalla-27/DSA-Supreme-)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 100 | 20 | 
 | 2023-02-25 | 97 | 18 | 
 | 2023-02-24 | 96 | 16 | 
 | 2023-02-23 | 93 | 16 | 

@@ -1,8 +1,8 @@
 # liangxianzhe/nap.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 50 | 4 | 
 | 2023-02-25 | 50 | 3 | 
 | 2023-02-24 | 50 | 3 | 
 | 2023-02-22 | 50 | 3 | 

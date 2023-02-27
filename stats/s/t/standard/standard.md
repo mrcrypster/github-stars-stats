@@ -1,10 +1,10 @@
 # standard/standard - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 2382
+☋ Forks: 2381
 
-★ Stars: 27941
+★ Stars: 27946
 
 [Open repository](https://github.com/standard/standard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 27946 | 2381 | 
 | 2023-02-25 | 27941 | 2382 | 
 | 2023-02-23 | 27940 | 2382 | 
 | 2023-02-22 | 27937 | 2381 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 27877 | 2370 | 
 | 2023-01-30 | 27876 | 2371 | 
 | 2023-01-29 | 27875 | 2371 | 
-| 2023-01-27 | 27871 | 2371 | 
 

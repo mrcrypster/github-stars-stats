@@ -1,6 +1,6 @@
 # dnomd343/shadowsocks-bootstrap - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 43 | 9 | 
 | 2023-02-25 | 43 | 9 | 
 | 2023-02-24 | 43 | 9 | 
 | 2023-02-22 | 43 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 42 | 9 | 
 | 2023-01-30 | 42 | 9 | 
 | 2023-01-29 | 42 | 9 | 
-| 2023-01-28 | 42 | 9 | 
 

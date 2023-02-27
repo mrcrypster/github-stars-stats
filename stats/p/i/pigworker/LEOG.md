@@ -1,10 +1,10 @@
 # pigworker/LEOG - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/pigworker/LEOG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 12 | - | 
 | 2023-02-25 | 11 | - | 
 | 2023-02-24 | 11 | - | 
 | 2023-02-23 | 11 | - | 

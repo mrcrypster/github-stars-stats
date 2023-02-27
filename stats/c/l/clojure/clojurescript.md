@@ -1,6 +1,6 @@
 # clojure/clojurescript - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 782
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 9026 | 782 | 
 | 2023-02-25 | 9026 | 782 | 
 | 2023-02-24 | 9027 | 782 | 
 | 2023-02-23 | 9026 | 782 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 9007 | 780 | 
 | 2023-01-29 | 9006 | 780 | 
 | 2023-01-28 | 9006 | 780 | 
-| 2023-01-27 | 9006 | 780 | 
 

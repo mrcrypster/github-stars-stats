@@ -1,6 +1,6 @@
 # EmilHvitfeldt/smltar - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 221 | 67 | 
 | 2023-02-25 | 221 | 67 | 
 | 2023-02-23 | 221 | 67 | 
 | 2023-02-22 | 221 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 220 | 67 | 
 | 2023-01-30 | 220 | 67 | 
 | 2023-01-28 | 220 | 67 | 
-| 2023-01-27 | 220 | 67 | 
 

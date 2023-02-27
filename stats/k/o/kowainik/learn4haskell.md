@@ -1,6 +1,6 @@
 # kowainik/learn4haskell - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 764
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 875 | 764 | 
 | 2023-02-25 | 875 | 764 | 
 | 2023-02-24 | 874 | 764 | 
 | 2023-02-23 | 873 | 763 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 864 | 758 | 
 | 2023-01-29 | 864 | 757 | 
 | 2023-01-28 | 864 | 758 | 
-| 2023-01-27 | 864 | 758 | 
 

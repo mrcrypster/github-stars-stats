@@ -1,10 +1,10 @@
 # dart-lang/leak_tracker - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/dart-lang/leak_tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 227 | 8 | 
 | 2023-02-25 | 226 | 8 | 
 | 2023-02-24 | 226 | 8 | 
 | 2023-02-23 | 226 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 214 | 7 | 
 | 2023-01-29 | 207 | 7 | 
 | 2023-01-28 | 202 | 7 | 
-| 2023-01-27 | 199 | 7 | 
 

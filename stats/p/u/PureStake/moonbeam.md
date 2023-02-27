@@ -1,8 +1,8 @@
 # PureStake/moonbeam - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 253
+☋ Forks: 254
 
 ★ Stars: 782
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 782 | 254 | 
 | 2023-02-25 | 782 | 253 | 
 | 2023-02-24 | 780 | 253 | 
 | 2023-02-23 | 779 | 253 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 773 | 248 | 
 | 2023-01-29 | 772 | 249 | 
 | 2023-01-28 | 772 | 249 | 
-| 2023-01-27 | 772 | 249 | 
 

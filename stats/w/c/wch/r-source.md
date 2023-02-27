@@ -1,8 +1,8 @@
 # wch/r-source - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
-☋ Forks: 282
+☋ Forks: 281
 
 ★ Stars: 1005
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1005 | 281 | 
+| 2023-02-26 | 1005 | 281 | 
 | 2023-02-25 | 1005 | 282 | 
 | 2023-02-24 | 1005 | 282 | 
 | 2023-02-23 | 1005 | 281 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1000 | 279 | 
 | 2023-01-29 | 1000 | 279 | 
 | 2023-01-28 | 1000 | 279 | 
-| 2023-01-27 | 1000 | 279 | 
 

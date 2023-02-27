@@ -1,6 +1,6 @@
 # E3SM-Project/v3atm - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | - | 3 | 
 | 2023-02-25 | - | 3 | 
 | 2023-02-24 | - | 3 | 
 | 2023-02-23 | - | 3 | 

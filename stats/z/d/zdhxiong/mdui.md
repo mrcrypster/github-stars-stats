@@ -1,10 +1,10 @@
 # zdhxiong/mdui - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 350
 
-★ Stars: 3523
+★ Stars: 3524
 
 [Open repository](https://github.com/zdhxiong/mdui)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3524 | 350 | 
 | 2023-02-25 | 3523 | 350 | 
 | 2023-02-24 | 3523 | 350 | 
 | 2023-02-23 | 3523 | 350 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 3518 | 351 | 
 | 2023-01-29 | 3517 | 351 | 
 | 2023-01-28 | 3517 | 351 | 
-| 2023-01-27 | 3517 | 351 | 
 

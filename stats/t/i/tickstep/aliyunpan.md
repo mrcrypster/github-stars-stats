@@ -1,10 +1,10 @@
 # tickstep/aliyunpan - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 187
+☋ Forks: 188
 
-★ Stars: 2017
+★ Stars: 2020
 
 [Open repository](https://github.com/tickstep/aliyunpan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2020 | 188 | 
 | 2023-02-25 | 2017 | 187 | 
 | 2023-02-24 | 2008 | 186 | 
 | 2023-02-23 | 1996 | 186 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1807 | 174 | 
 | 2023-01-29 | 1795 | 173 | 
 | 2023-01-28 | 1786 | 173 | 
-| 2023-01-27 | 1780 | 173 | 
 

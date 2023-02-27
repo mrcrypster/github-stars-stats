@@ -1,10 +1,10 @@
 # numtide/srvos - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/numtide/srvos)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 66 | 2 | 
 | 2023-02-25 | 64 | 2 | 
 | 2023-02-24 | 64 | 2 | 
 | 2023-02-23 | 64 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 40 | 2 | 
 | 2023-01-29 | 40 | 2 | 
 | 2023-01-28 | 39 | 2 | 
-| 2023-01-27 | 38 | 2 | 
 

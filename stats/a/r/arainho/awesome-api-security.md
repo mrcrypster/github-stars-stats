@@ -1,6 +1,6 @@
 # arainho/awesome-api-security - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1950 | 310 | 
 | 2023-02-25 | 1950 | 310 | 
 | 2023-02-24 | 1948 | 310 | 
 | 2023-02-23 | 1943 | 310 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1826 | 303 | 
 | 2023-01-29 | 1825 | 302 | 
 | 2023-01-28 | 1822 | 301 | 
-| 2023-01-27 | 1822 | 301 | 
 

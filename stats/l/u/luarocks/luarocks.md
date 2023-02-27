@@ -1,10 +1,10 @@
 # luarocks/luarocks - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 408
 
-★ Stars: 2717
+★ Stars: 2718
 
 [Open repository](https://github.com/luarocks/luarocks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2718 | 408 | 
 | 2023-02-25 | 2717 | 408 | 
 | 2023-02-24 | 2716 | 408 | 
 | 2023-02-23 | 2714 | 408 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 2691 | 410 | 
 | 2023-01-30 | 2690 | 410 | 
 | 2023-01-29 | 2689 | 410 | 
-| 2023-01-28 | 2689 | 410 | 
 

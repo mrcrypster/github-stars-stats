@@ -1,6 +1,6 @@
 # flutterboy20/stories_app_ui - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 68 | 14 | 
 | 2023-02-25 | 68 | 14 | 
 | 2023-02-24 | 68 | 14 | 
 | 2023-02-23 | 66 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 64 | 13 | 
 | 2023-01-29 | 63 | 13 | 
 | 2023-01-28 | 62 | 13 | 
-| 2023-01-27 | 61 | 13 | 
 

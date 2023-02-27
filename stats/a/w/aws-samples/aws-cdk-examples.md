@@ -1,10 +1,10 @@
 # aws-samples/aws-cdk-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1710
 
-★ Stars: 3914
+★ Stars: 3916
 
 [Open repository](https://github.com/aws-samples/aws-cdk-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3916 | 1710 | 
 | 2023-02-25 | 3914 | 1710 | 
 | 2023-02-24 | 3908 | 1710 | 
 | 2023-02-23 | 3902 | 1707 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 3838 | 1681 | 
 | 2023-01-29 | 3835 | 1680 | 
 | 2023-01-28 | 3831 | 1679 | 
-| 2023-01-27 | 3829 | 1679 | 
 

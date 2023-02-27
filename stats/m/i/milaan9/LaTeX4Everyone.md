@@ -1,6 +1,6 @@
 # milaan9/LaTeX4Everyone - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 197 | 171 | 
 | 2023-02-25 | 197 | 171 | 
 | 2023-02-24 | 196 | 171 | 
 | 2023-02-23 | 196 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 196 | 171 | 
 | 2023-01-30 | 196 | 171 | 
 | 2023-01-28 | 196 | 171 | 
-| 2023-01-27 | 195 | 171 | 
 

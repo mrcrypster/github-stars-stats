@@ -1,8 +1,8 @@
 # developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 167
+☋ Forks: 168
 
 ★ Stars: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 55 | 168 | 
 | 2023-02-24 | 55 | 167 | 
 | 2023-02-23 | 55 | 167 | 
 | 2023-02-22 | 55 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 54 | 163 | 
 | 2023-01-29 | 53 | 162 | 
 | 2023-01-28 | 53 | 162 | 
-| 2023-01-27 | 53 | 162 | 
 

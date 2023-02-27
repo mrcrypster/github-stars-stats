@@ -1,6 +1,6 @@
 # Technawi/SOC-Analyst-Diploma - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 95 | 7 | 
 | 2023-02-25 | 95 | 7 | 
 | 2023-02-24 | 95 | 7 | 
 | 2023-02-23 | 95 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 95 | 6 | 
 | 2023-01-29 | 95 | 6 | 
 | 2023-01-28 | 95 | 6 | 
-| 2023-01-27 | 95 | 6 | 
 

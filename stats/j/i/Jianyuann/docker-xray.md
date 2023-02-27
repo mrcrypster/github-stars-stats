@@ -1,10 +1,10 @@
 # Jianyuann/docker-xray - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 21
+☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 0
 
 [Open repository](https://github.com/Jianyuann/docker-xray)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | - | - | 
 | 2023-02-25 | 5 | 21 | 
 | 2023-02-24 | 5 | 21 | 
 | 2023-02-23 | 5 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 5 | 21 | 
 | 2023-01-29 | 5 | 21 | 
 | 2023-01-28 | 5 | 21 | 
-| 2023-01-27 | 5 | 21 | 
 

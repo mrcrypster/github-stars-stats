@@ -1,10 +1,10 @@
 # doctrine/collections - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 177
 
-★ Stars: 5692
+★ Stars: 5694
 
 [Open repository](https://github.com/doctrine/collections)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 5694 | 177 | 
 | 2023-02-25 | 5692 | 177 | 
 | 2023-02-23 | 5691 | 177 | 
 | 2023-02-22 | 5690 | 177 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 5684 | 174 | 
 | 2023-01-30 | 5682 | 174 | 
 | 2023-01-29 | 5681 | 174 | 
-| 2023-01-28 | 5681 | 174 | 
 

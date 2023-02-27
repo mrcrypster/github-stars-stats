@@ -1,10 +1,10 @@
 # leitbogioro/Tools - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 125
 
-★ Stars: 453
+★ Stars: 454
 
 [Open repository](https://github.com/leitbogioro/Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 454 | 125 | 
 | 2023-02-25 | 453 | 125 | 
 | 2023-02-24 | 451 | 125 | 
 | 2023-02-23 | 450 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 433 | 122 | 
 | 2023-01-29 | 433 | 122 | 
 | 2023-01-28 | 432 | 122 | 
-| 2023-01-27 | 431 | 122 | 
 

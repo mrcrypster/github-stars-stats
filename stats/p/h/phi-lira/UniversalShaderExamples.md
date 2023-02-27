@@ -1,10 +1,10 @@
 # phi-lira/UniversalShaderExamples - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 107
+☋ Forks: 106
 
-★ Stars: 552
+★ Stars: 554
 
 [Open repository](https://github.com/phi-lira/UniversalShaderExamples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 554 | 106 | 
 | 2023-02-25 | 552 | 107 | 
 | 2023-02-24 | 550 | 107 | 
 | 2023-02-23 | 550 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 544 | 106 | 
 | 2023-01-29 | 544 | 106 | 
 | 2023-01-28 | 544 | 106 | 
-| 2023-01-27 | 543 | 106 | 
 

@@ -1,10 +1,10 @@
 # nix-community/nixos-generators - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 97
 
-★ Stars: 823
+★ Stars: 822
 
 [Open repository](https://github.com/nix-community/nixos-generators)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 822 | 97 | 
 | 2023-02-24 | 823 | 97 | 
 | 2023-02-23 | 822 | 97 | 
 | 2023-02-22 | 822 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 804 | 94 | 
 | 2023-01-29 | 800 | 93 | 
 | 2023-01-28 | 800 | 93 | 
-| 2023-01-27 | 798 | 93 | 
 

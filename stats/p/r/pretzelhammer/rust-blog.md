@@ -1,10 +1,10 @@
 # pretzelhammer/rust-blog - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 301
 
-★ Stars: 5452
+★ Stars: 5457
 
 [Open repository](https://github.com/pretzelhammer/rust-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 5457 | 301 | 
 | 2023-02-25 | 5452 | 301 | 
 | 2023-02-24 | 5449 | 301 | 
 | 2023-02-23 | 5442 | 301 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 5362 | 294 | 
 | 2023-01-29 | 5356 | 294 | 
 | 2023-01-28 | 5354 | 295 | 
-| 2023-01-27 | 5351 | 295 | 
 

@@ -1,8 +1,8 @@
 # Orangescrum/orangescrum - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 127 | 80 | 
 | 2023-02-25 | 127 | 79 | 
 | 2023-02-23 | 125 | 79 | 
 | 2023-02-22 | 125 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 118 | 78 | 
 | 2023-01-30 | 118 | 78 | 
 | 2023-01-28 | 118 | 78 | 
-| 2023-01-27 | 118 | 78 | 
 

@@ -1,8 +1,8 @@
 # placeDE/pixel - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 70
+☋ Forks: 69
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 61 | 69 | 
 | 2023-02-25 | 61 | 70 | 
 | 2023-02-24 | 61 | 70 | 
 | 2023-02-23 | 61 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 61 | 70 | 
 | 2023-01-29 | 61 | 70 | 
 | 2023-01-28 | 61 | 70 | 
-| 2023-01-27 | 61 | 70 | 
 

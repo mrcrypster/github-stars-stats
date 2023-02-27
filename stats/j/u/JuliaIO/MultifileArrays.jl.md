@@ -1,10 +1,10 @@
 # JuliaIO/MultifileArrays.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/JuliaIO/MultifileArrays.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 21 | - | 
 | 2023-02-25 | 20 | - | 
 | 2023-02-24 | 20 | - | 
 | 2023-02-23 | 20 | - | 

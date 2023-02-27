@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 253
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/Skytils/SkytilsMod)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 247 | 253 | 
+| 2023-02-26 | 248 | 253 | 
 | 2023-02-25 | 245 | 253 | 
 | 2023-02-23 | 243 | 253 | 
 | 2023-02-22 | 243 | 252 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 232 | 242 | 
 | 2023-01-29 | 232 | 240 | 
 | 2023-01-28 | 232 | 240 | 
-| 2023-01-27 | 230 | 240 | 
 

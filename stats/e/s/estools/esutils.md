@@ -1,6 +1,6 @@
 # estools/esutils - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 117 | 29 | 
 | 2023-02-25 | 117 | 29 | 
 | 2023-02-24 | 117 | 29 | 
 | 2023-02-23 | 117 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 116 | 29 | 
 | 2023-01-29 | 116 | 29 | 
 | 2023-01-28 | 116 | 29 | 
-| 2023-01-27 | 116 | 29 | 
 

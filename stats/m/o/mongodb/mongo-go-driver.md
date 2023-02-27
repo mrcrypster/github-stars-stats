@@ -1,6 +1,6 @@
 # mongodb/mongo-go-driver - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 838
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 7227 | 838 | 
 | 2023-02-25 | 7227 | 838 | 
 | 2023-02-24 | 7225 | 838 | 
 | 2023-02-23 | 7222 | 838 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 7183 | 833 | 
 | 2023-01-29 | 7180 | 833 | 
 | 2023-01-28 | 7179 | 833 | 
-| 2023-01-27 | 7176 | 833 | 
 

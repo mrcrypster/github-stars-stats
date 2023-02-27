@@ -1,6 +1,6 @@
 # trzy/ChatARKit - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 264 | 16 | 
 | 2023-02-25 | 264 | 16 | 
 | 2023-02-24 | 262 | 16 | 
 | 2023-02-23 | 260 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 228 | 13 | 
 | 2023-01-29 | 226 | 13 | 
 | 2023-01-28 | 224 | 13 | 
-| 2023-01-27 | 222 | 13 | 
 

@@ -1,6 +1,6 @@
 # overextended/ox_core - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 54 | 54 | 
 | 2023-02-25 | 54 | 54 | 
 | 2023-02-24 | 54 | 53 | 
 | 2023-02-23 | 54 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 53 | 51 | 
 | 2023-01-29 | 53 | 51 | 
 | 2023-01-28 | 52 | 50 | 
-| 2023-01-27 | 51 | 50 | 
 

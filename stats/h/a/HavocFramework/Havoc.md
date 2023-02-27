@@ -1,10 +1,10 @@
 # HavocFramework/Havoc - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 549
+☋ Forks: 550
 
-★ Stars: 3744
+★ Stars: 3749
 
 [Open repository](https://github.com/HavocFramework/Havoc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3749 | 550 | 
 | 2023-02-25 | 3744 | 549 | 
 | 2023-02-24 | 3736 | 547 | 
 | 2023-02-23 | 3729 | 547 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 3432 | 501 | 
 | 2023-01-29 | 3430 | 501 | 
 | 2023-01-28 | 3428 | 500 | 
-| 2023-01-27 | 3422 | 500 | 
 

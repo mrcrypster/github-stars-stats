@@ -1,6 +1,6 @@
 # Anuj-Kumar-Sharma/Java-DSA - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 191 | 93 | 
 | 2023-02-25 | 191 | 93 | 
 | 2023-02-24 | 191 | 93 | 
 | 2023-02-23 | 190 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 183 | 85 | 
 | 2023-01-29 | 183 | 84 | 
 | 2023-01-28 | 183 | 84 | 
-| 2023-01-27 | 184 | 84 | 
 

@@ -1,6 +1,6 @@
 # chai2010/china-programming-languages - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 209 | 28 | 
 | 2023-02-25 | 209 | 28 | 
 | 2023-02-24 | 208 | 28 | 
 | 2023-02-23 | 207 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 203 | 26 | 
 | 2023-01-29 | 201 | 25 | 
 | 2023-01-28 | 201 | 25 | 
-| 2023-01-27 | 201 | 25 | 
 

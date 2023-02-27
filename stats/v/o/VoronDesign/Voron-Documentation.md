@@ -1,6 +1,6 @@
 # VoronDesign/Voron-Documentation - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 172 | 138 | 
 | 2023-02-25 | 172 | 138 | 
 | 2023-02-24 | 172 | 138 | 
 | 2023-02-23 | 172 | 137 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 167 | 134 | 
 | 2023-01-29 | 167 | 133 | 
 | 2023-01-28 | 167 | 133 | 
-| 2023-01-27 | 167 | 133 | 
 

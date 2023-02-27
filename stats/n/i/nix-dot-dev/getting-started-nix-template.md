@@ -1,10 +1,10 @@
 # nix-dot-dev/getting-started-nix-template - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 25
 
-★ Stars: 428
+★ Stars: 427
 
 [Open repository](https://github.com/nix-dot-dev/getting-started-nix-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 427 | 25 | 
 | 2023-02-25 | 428 | 25 | 
 | 2023-02-24 | 428 | 25 | 
 | 2023-02-23 | 428 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 419 | 24 | 
 | 2023-01-30 | 418 | 24 | 
 | 2023-01-28 | 418 | 24 | 
-| 2023-01-27 | 416 | 23 | 
 

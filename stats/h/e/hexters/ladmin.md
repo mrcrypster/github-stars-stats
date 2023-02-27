@@ -1,6 +1,6 @@
 # hexters/ladmin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 377 | 82 | 
 | 2023-02-25 | 377 | 82 | 
 | 2023-02-24 | 376 | 82 | 
 | 2023-02-23 | 376 | 82 | 

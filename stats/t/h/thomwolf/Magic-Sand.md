@@ -1,10 +1,10 @@
 # thomwolf/Magic-Sand - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 128
 
-★ Stars: 887
+★ Stars: 888
 
 [Open repository](https://github.com/thomwolf/Magic-Sand)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 888 | 128 | 
 | 2023-02-25 | 887 | 128 | 
 | 2023-02-24 | 885 | 128 | 
 | 2023-02-23 | 885 | 128 | 

@@ -1,0 +1,18 @@
+# PanDAWMS/panda-database - stars & forks statistics
+
+Stats updated on Feb 2023, 27
+
+☋ Forks: 2
+
+★ Stars: 0
+
+[Open repository](https://github.com/PanDAWMS/panda-database)
+
+[Open detailed stats for PanDAWMS/panda-database](https://reviewgithub.com/rep/PanDAWMS/panda-database)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-27 | - | 2 | 
+| 2023-02-26 | - | 2 | 
+

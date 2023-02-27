@@ -1,10 +1,10 @@
 # junegunn/limelight.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 52
 
-★ Stars: 2244
+★ Stars: 2243
 
 [Open repository](https://github.com/junegunn/limelight.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2243 | 52 | 
 | 2023-02-25 | 2244 | 52 | 
 | 2023-02-24 | 2244 | 52 | 
 | 2023-02-23 | 2244 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2241 | 52 | 
 | 2023-01-29 | 2241 | 52 | 
 | 2023-01-28 | 2240 | 52 | 
-| 2023-01-27 | 2239 | 52 | 
 

@@ -1,10 +1,10 @@
 # badtuxx/CertifiedContainersExpert - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 92
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/badtuxx/CertifiedContainersExpert)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 642 | 92 | 
 | 2023-02-25 | 641 | 92 | 
 | 2023-02-24 | 641 | 92 | 
 | 2023-02-23 | 641 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 641 | 90 | 
 | 2023-01-29 | 641 | 90 | 
 | 2023-01-28 | 640 | 89 | 
-| 2023-01-27 | 639 | 89 | 
 

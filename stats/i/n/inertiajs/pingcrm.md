@@ -1,10 +1,10 @@
 # inertiajs/pingcrm - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 656
 
-★ Stars: 1758
+★ Stars: 1759
 
 [Open repository](https://github.com/inertiajs/pingcrm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1759 | 656 | 
 | 2023-02-25 | 1758 | 656 | 
 | 2023-02-24 | 1758 | 655 | 
 | 2023-02-23 | 1757 | 655 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1743 | 642 | 
 | 2023-01-29 | 1742 | 640 | 
 | 2023-01-28 | 1741 | 640 | 
-| 2023-01-27 | 1740 | 641 | 
 

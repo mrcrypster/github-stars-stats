@@ -1,6 +1,6 @@
 # shuding/cobe - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2051 | 105 | 
 | 2023-02-25 | 2051 | 105 | 
 | 2023-02-24 | 2050 | 105 | 
 | 2023-02-23 | 2044 | 105 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2025 | 102 | 
 | 2023-01-29 | 2024 | 101 | 
 | 2023-01-28 | 2024 | 101 | 
-| 2023-01-27 | 2022 | 100 | 
 

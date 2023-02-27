@@ -1,6 +1,6 @@
 # leveryd-asm/asm - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 44 | 4 | 
 | 2023-02-25 | 44 | 4 | 
 | 2023-02-24 | 43 | 4 | 
 | 2023-02-23 | 41 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 34 | 2 | 
 | 2023-01-29 | 33 | 2 | 
 | 2023-01-28 | 33 | 2 | 
-| 2023-01-27 | 33 | 2 | 
 

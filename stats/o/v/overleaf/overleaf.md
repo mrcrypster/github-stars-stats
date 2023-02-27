@@ -1,10 +1,10 @@
 # overleaf/overleaf - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1208
 
-★ Stars: 10832
+★ Stars: 10838
 
 [Open repository](https://github.com/overleaf/overleaf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 10838 | 1208 | 
 | 2023-02-25 | 10832 | 1208 | 
 | 2023-02-24 | 10829 | 1208 | 
 | 2023-02-22 | 10826 | 1208 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 10751 | 1190 | 
 | 2023-01-30 | 10745 | 1189 | 
 | 2023-01-29 | 10744 | 1189 | 
-| 2023-01-28 | 10744 | 1189 | 
 

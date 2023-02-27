@@ -1,8 +1,8 @@
 # Elevationacademy/userPage-API-Project-Student - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 154
+☋ Forks: 153
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | - | 153 | 
 | 2023-02-25 | - | 154 | 
 | 2023-02-24 | - | 153 | 
 | 2023-02-23 | - | 153 | 

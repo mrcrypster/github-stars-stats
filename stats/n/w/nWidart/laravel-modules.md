@@ -1,10 +1,10 @@
 # nWidart/laravel-modules - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 850
+☋ Forks: 851
 
-★ Stars: 4689
+★ Stars: 4690
 
 [Open repository](https://github.com/nWidart/laravel-modules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 4690 | 851 | 
 | 2023-02-25 | 4689 | 850 | 
 | 2023-02-24 | 4688 | 849 | 
 | 2023-02-22 | 4682 | 848 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 4651 | 841 | 
 | 2023-01-29 | 4650 | 840 | 
 | 2023-01-28 | 4650 | 840 | 
-| 2023-01-27 | 4649 | 839 | 
 

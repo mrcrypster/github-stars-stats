@@ -1,6 +1,6 @@
 # rstudio-conf-2022/pkg-dev-masterclass - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 35 | 8 | 
 | 2023-02-25 | 35 | 8 | 
 | 2023-02-24 | 35 | 8 | 
 | 2023-02-23 | 35 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 32 | 7 | 
 | 2023-01-30 | 32 | 7 | 
 | 2023-01-28 | 32 | 7 | 
-| 2023-01-27 | 32 | 7 | 
 

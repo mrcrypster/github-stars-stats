@@ -1,10 +1,10 @@
 # NangoHQ/nango - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 197
 
-★ Stars: 2266
+★ Stars: 2274
 
 [Open repository](https://github.com/NangoHQ/nango)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2274 | 197 | 
 | 2023-02-25 | 2266 | 197 | 
 | 2023-02-24 | 2248 | 196 | 
 | 2023-02-23 | 2204 | 194 | 

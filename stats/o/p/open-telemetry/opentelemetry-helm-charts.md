@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 193 | 250 | 
 | 2023-02-25 | 193 | 250 | 
 | 2023-02-24 | 193 | 250 | 
 | 2023-02-23 | 193 | 248 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 180 | 232 | 
 | 2023-01-29 | 180 | 231 | 
 | 2023-01-28 | 179 | 230 | 
-| 2023-01-27 | 179 | 230 | 
 

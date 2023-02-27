@@ -1,10 +1,10 @@
 # adobe-fonts/source-han-code-jp - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 53
 
-★ Stars: 1522
+★ Stars: 1523
 
 [Open repository](https://github.com/adobe-fonts/source-han-code-jp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1523 | 53 | 
 | 2023-02-25 | 1522 | 53 | 
 | 2023-02-24 | 1522 | 53 | 
 | 2023-02-22 | 1522 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1508 | 53 | 
 | 2023-01-29 | 1507 | 53 | 
 | 2023-01-28 | 1506 | 53 | 
-| 2023-01-27 | 1505 | 53 | 
 

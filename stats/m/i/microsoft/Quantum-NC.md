@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 80
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/microsoft/Quantum-NC)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 184 | 80 | 
+| 2023-02-26 | 185 | 80 | 
 | 2023-02-25 | 184 | 80 | 
 | 2023-02-24 | 184 | 80 | 
 | 2023-02-23 | 184 | 80 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 185 | 79 | 
 | 2023-01-30 | 186 | 79 | 
 | 2023-01-28 | 186 | 79 | 
-| 2023-01-27 | 186 | 79 | 
 

@@ -1,6 +1,6 @@
 # mohuangrui/ucasthesis - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 905
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3005 | 905 | 
 | 2023-02-25 | 3005 | 905 | 
 | 2023-02-24 | 3004 | 905 | 
 | 2023-02-23 | 3001 | 905 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2961 | 892 | 
 | 2023-01-29 | 2960 | 891 | 
 | 2023-01-28 | 2961 | 891 | 
-| 2023-01-27 | 2960 | 890 | 
 

@@ -1,6 +1,6 @@
 # fga-eps-mds/A-Disciplina-MDS-EPS - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 205 | 47 | 
 | 2023-02-25 | 205 | 47 | 
 | 2023-02-24 | 205 | 47 | 
 | 2023-02-22 | 205 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 204 | 47 | 
 | 2023-01-29 | 204 | 47 | 
 | 2023-01-28 | 204 | 47 | 
-| 2023-01-27 | 205 | 47 | 
 

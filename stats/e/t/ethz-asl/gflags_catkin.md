@@ -1,6 +1,6 @@
 # ethz-asl/gflags_catkin - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8 | 27 | 
 | 2023-02-25 | 8 | 27 | 
 | 2023-02-24 | 8 | 27 | 
 | 2023-02-23 | 8 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 7 | 27 | 
 | 2023-01-30 | 7 | 27 | 
 | 2023-01-28 | 7 | 27 | 
-| 2023-01-27 | 7 | 27 | 
 

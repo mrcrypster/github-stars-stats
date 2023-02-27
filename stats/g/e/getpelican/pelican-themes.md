@@ -1,6 +1,6 @@
 # getpelican/pelican-themes - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1106
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2063 | 1106 | 
 | 2023-02-25 | 2063 | 1106 | 
 | 2023-02-24 | 2063 | 1106 | 
 | 2023-02-22 | 2062 | 1105 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2056 | 1103 | 
 | 2023-01-29 | 2056 | 1103 | 
 | 2023-01-28 | 2056 | 1103 | 
-| 2023-01-27 | 2056 | 1103 | 
 

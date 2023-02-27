@@ -1,10 +1,10 @@
 # rougier/mastodon-alt - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/rougier/mastodon-alt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 22 | 4 | 
 | 2023-02-25 | 21 | 4 | 
 | 2023-02-23 | 21 | 4 | 
 | 2023-02-22 | 21 | 4 | 

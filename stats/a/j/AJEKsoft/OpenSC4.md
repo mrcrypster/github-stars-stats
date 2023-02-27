@@ -1,6 +1,6 @@
 # AJEKsoft/OpenSC4 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 33 | 3 | 
 | 2023-02-26 | 33 | 3 | 
 | 2023-02-24 | 33 | 3 | 
 | 2023-02-23 | 33 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 30 | 3 | 
 | 2023-01-29 | 30 | 3 | 
 | 2023-01-28 | 30 | 3 | 
-| 2023-01-27 | 30 | 3 | 
 

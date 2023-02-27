@@ -1,6 +1,6 @@
 # michaeleisel/ZippyJSONCFamily - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 7 | 8 | 
 | 2023-02-25 | 7 | 8 | 
 | 2023-02-24 | 7 | 8 | 
 | 2023-02-23 | 7 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 7 | 8 | 
 | 2023-01-30 | 7 | 8 | 
 | 2023-01-28 | 7 | 8 | 
-| 2023-01-27 | 7 | 8 | 
 

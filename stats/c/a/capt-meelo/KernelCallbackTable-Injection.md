@@ -1,10 +1,10 @@
 # capt-meelo/KernelCallbackTable-Injection - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 21
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/capt-meelo/KernelCallbackTable-Injection)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 63 | 21 | 
 | 2023-02-25 | 64 | 21 | 
 | 2023-02-24 | 64 | 21 | 
 | 2023-02-23 | 64 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 64 | 21 | 
 | 2023-01-29 | 64 | 21 | 
 | 2023-01-28 | 64 | 21 | 
-| 2023-01-27 | 64 | 21 | 
 

@@ -1,6 +1,6 @@
 # idmn/ggview - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 87 | 2 | 
 | 2023-02-25 | 87 | 2 | 
 | 2023-02-24 | 87 | 2 | 
 | 2023-02-23 | 87 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 84 | 2 | 
 | 2023-01-29 | 84 | 2 | 
 | 2023-01-28 | 84 | 2 | 
-| 2023-01-27 | 85 | 2 | 
 

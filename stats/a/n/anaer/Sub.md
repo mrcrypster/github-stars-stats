@@ -1,10 +1,10 @@
 # anaer/Sub - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 290
+☋ Forks: 291
 
-★ Stars: 1713
+★ Stars: 1717
 
 [Open repository](https://github.com/anaer/Sub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1717 | 291 | 
 | 2023-02-25 | 1713 | 290 | 
 | 2023-02-24 | 1706 | 288 | 
 | 2023-02-23 | 1699 | 286 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1561 | 260 | 
 | 2023-01-30 | 1552 | 260 | 
 | 2023-01-28 | 1547 | 260 | 
-| 2023-01-27 | 1542 | 259 | 
 

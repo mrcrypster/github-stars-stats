@@ -1,6 +1,6 @@
 # nccgroup/sobelow - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1413 | 85 | 
 | 2023-02-25 | 1413 | 85 | 
 | 2023-02-24 | 1413 | 85 | 
 | 2023-02-23 | 1413 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1390 | 84 | 
 | 2023-01-29 | 1389 | 84 | 
 | 2023-01-28 | 1388 | 84 | 
-| 2023-01-27 | 1388 | 84 | 
 

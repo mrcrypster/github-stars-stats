@@ -1,6 +1,6 @@
 # Synthetixio/docker-e2e - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2 | 6 | 
 | 2023-02-24 | 2 | 6 | 
 | 2023-02-23 | 2 | 5 | 
 | 2023-02-22 | 2 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-31 | 2 | 5 | 
 | 2023-01-30 | 2 | 5 | 
 | 2023-01-29 | 2 | 5 | 
-| 2023-01-27 | 2 | 5 | 
 

@@ -1,10 +1,10 @@
 # joddie/pcre2el - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 22
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/joddie/pcre2el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 203 | 22 | 
 | 2023-02-25 | 202 | 22 | 
 | 2023-02-24 | 202 | 22 | 
 | 2023-02-23 | 202 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 201 | 22 | 
 | 2023-01-29 | 201 | 22 | 
 | 2023-01-28 | 201 | 22 | 
-| 2023-01-27 | 201 | 22 | 
 

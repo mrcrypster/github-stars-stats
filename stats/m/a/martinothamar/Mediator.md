@@ -1,6 +1,6 @@
 # martinothamar/Mediator - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1199 | 36 | 
 | 2023-02-25 | 1199 | 36 | 
 | 2023-02-23 | 1194 | 36 | 
 | 2023-02-22 | 1192 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1130 | 35 | 
 | 2023-01-30 | 1129 | 35 | 
 | 2023-01-29 | 1126 | 35 | 
-| 2023-01-28 | 1123 | 35 | 
 

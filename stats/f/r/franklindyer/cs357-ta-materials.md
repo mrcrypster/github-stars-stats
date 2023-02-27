@@ -1,10 +1,10 @@
 # franklindyer/cs357-ta-materials - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 7
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/franklindyer/cs357-ta-materials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5 | 7 | 
 | 2023-02-25 | 4 | 7 | 
 | 2023-02-24 | 4 | 7 | 
 | 2023-02-23 | 4 | 7 | 

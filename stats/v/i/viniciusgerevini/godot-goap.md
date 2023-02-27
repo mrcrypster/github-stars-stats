@@ -1,6 +1,6 @@
 # viniciusgerevini/godot-goap - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 48 | 5 | 
 | 2023-02-25 | 48 | 5 | 
 | 2023-02-24 | 48 | 5 | 
 | 2023-02-23 | 48 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 41 | 5 | 
 | 2023-01-30 | 40 | 5 | 
 | 2023-01-28 | 40 | 5 | 
-| 2023-01-27 | 40 | 5 | 
 

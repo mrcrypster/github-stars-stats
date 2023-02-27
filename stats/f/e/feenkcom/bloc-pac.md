@@ -1,6 +1,6 @@
 # feenkcom/bloc-pac - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4 | 3 | 
+| 2023-02-26 | 4 | 3 | 
 | 2023-02-25 | 4 | 3 | 
 | 2023-02-24 | 4 | 3 | 
 | 2023-02-23 | 4 | 3 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 5 | 3 | 
 | 2023-01-29 | 5 | 3 | 
 | 2023-01-28 | 5 | 3 | 
-| 2023-01-27 | 5 | 3 | 
 

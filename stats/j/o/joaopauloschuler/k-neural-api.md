@@ -1,6 +1,6 @@
 # joaopauloschuler/k-neural-api - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 123 | 107 | 
 | 2023-02-25 | 123 | 107 | 
 | 2023-02-24 | 123 | 107 | 
 | 2023-02-23 | 123 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 122 | 106 | 
 | 2023-01-29 | 122 | 106 | 
 | 2023-01-28 | 122 | 106 | 
-| 2023-01-27 | 122 | 106 | 
 

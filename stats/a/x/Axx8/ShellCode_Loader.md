@@ -1,6 +1,6 @@
 # Axx8/ShellCode_Loader - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 334 | 40 | 
 | 2023-02-26 | 334 | 40 | 
 | 2023-02-25 | 334 | 40 | 
 | 2023-02-23 | 334 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 331 | 37 | 
 | 2023-01-29 | 331 | 37 | 
 | 2023-01-28 | 330 | 37 | 
-| 2023-01-27 | 330 | 37 | 
 

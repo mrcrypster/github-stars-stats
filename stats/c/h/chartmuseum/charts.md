@@ -1,6 +1,6 @@
 # chartmuseum/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 44 | 54 | 
 | 2023-02-25 | 44 | 54 | 
 | 2023-02-23 | 44 | 54 | 
 | 2023-02-22 | 44 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 44 | 53 | 
 | 2023-01-30 | 44 | 53 | 
 | 2023-01-29 | 44 | 53 | 
-| 2023-01-27 | 44 | 53 | 
 

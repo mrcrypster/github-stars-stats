@@ -1,6 +1,6 @@
 # wuzhouhui/awk - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1262 | 260 | 
 | 2023-02-25 | 1262 | 260 | 
 | 2023-02-24 | 1262 | 261 | 
 | 2023-02-22 | 1262 | 261 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1253 | 260 | 
 | 2023-01-29 | 1253 | 260 | 
 | 2023-01-28 | 1252 | 260 | 
-| 2023-01-27 | 1252 | 260 | 
 

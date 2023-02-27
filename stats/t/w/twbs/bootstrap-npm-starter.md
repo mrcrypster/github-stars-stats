@@ -1,10 +1,10 @@
 # twbs/bootstrap-npm-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 484
+☋ Forks: 485
 
-★ Stars: 1170
+★ Stars: 1173
 
 [Open repository](https://github.com/twbs/bootstrap-npm-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1173 | 485 | 
 | 2023-02-25 | 1170 | 484 | 
 | 2023-02-24 | 1170 | 484 | 
 | 2023-02-23 | 1169 | 484 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 1158 | 479 | 
 | 2023-01-29 | 1158 | 478 | 
 | 2023-01-28 | 1158 | 478 | 
-| 2023-01-27 | 1158 | 477 | 
 

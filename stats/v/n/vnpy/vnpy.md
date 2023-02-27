@@ -1,10 +1,10 @@
 # vnpy/vnpy - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 7716
+☋ Forks: 7720
 
-★ Stars: 20135
+★ Stars: 20141
 
 [Open repository](https://github.com/vnpy/vnpy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 20141 | 7720 | 
 | 2023-02-25 | 20135 | 7716 | 
 | 2023-02-24 | 20128 | 7712 | 
 | 2023-02-23 | 20118 | 7709 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 19856 | 7663 | 
 | 2023-01-29 | 19843 | 7661 | 
 | 2023-01-28 | 19828 | 7651 | 
-| 2023-01-27 | 19821 | 7648 | 
 

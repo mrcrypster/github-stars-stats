@@ -1,6 +1,6 @@
 # WeAreMahsaAmini/Homepage - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 289 | 22 | 
 | 2023-02-25 | 289 | 22 | 
 | 2023-02-24 | 289 | 22 | 
 | 2023-02-23 | 289 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 287 | 22 | 
 | 2023-01-29 | 287 | 22 | 
 | 2023-01-28 | 287 | 22 | 
-| 2023-01-27 | 287 | 22 | 
 

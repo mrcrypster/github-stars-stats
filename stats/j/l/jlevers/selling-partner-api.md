@@ -1,10 +1,10 @@
 # jlevers/selling-partner-api - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 120
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/jlevers/selling-partner-api)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 243 | 120 | 
 | 2023-02-25 | 242 | 120 | 
 | 2023-02-24 | 242 | 120 | 
 | 2023-02-23 | 242 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 232 | 117 | 
 | 2023-01-29 | 232 | 117 | 
 | 2023-01-28 | 232 | 117 | 
-| 2023-01-27 | 232 | 117 | 
 

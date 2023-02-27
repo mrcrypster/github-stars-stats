@@ -1,6 +1,6 @@
 # phpDocumentor/TypeResolver - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8988 | 46 | 
 | 2023-02-25 | 8988 | 46 | 
 | 2023-02-24 | 8987 | 46 | 
 | 2023-02-23 | 8986 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 8977 | 46 | 
 | 2023-01-29 | 8976 | 46 | 
 | 2023-01-28 | 8975 | 46 | 
-| 2023-01-27 | 8974 | 46 | 
 

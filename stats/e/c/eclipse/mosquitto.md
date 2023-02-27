@@ -1,6 +1,6 @@
 # eclipse/mosquitto - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 2109
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 7077 | 2109 | 
 | 2023-02-25 | 7077 | 2109 | 
 | 2023-02-24 | 7075 | 2108 | 
 | 2023-02-23 | 7072 | 2107 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 6981 | 2098 | 
 | 2023-01-29 | 6975 | 2095 | 
 | 2023-01-28 | 6970 | 2097 | 
-| 2023-01-27 | 6968 | 2097 | 
 

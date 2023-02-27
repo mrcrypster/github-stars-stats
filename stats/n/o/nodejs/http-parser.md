@@ -1,6 +1,6 @@
 # nodejs/http-parser - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1541
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6156 | 1541 | 
 | 2023-02-25 | 6156 | 1541 | 
 | 2023-02-24 | 6155 | 1541 | 
 | 2023-02-23 | 6156 | 1541 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 6146 | 1537 | 
 | 2023-01-30 | 6145 | 1537 | 
 | 2023-01-28 | 6145 | 1537 | 
-| 2023-01-27 | 6145 | 1537 | 
 

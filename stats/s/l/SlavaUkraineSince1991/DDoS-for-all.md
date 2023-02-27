@@ -1,6 +1,6 @@
 # SlavaUkraineSince1991/DDoS-for-all - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 47 | 8 | 
 | 2023-02-25 | 47 | 8 | 
 | 2023-02-24 | 47 | 8 | 
 | 2023-02-23 | 47 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 48 | 8 | 
 | 2023-01-29 | 48 | 8 | 
 | 2023-01-28 | 48 | 8 | 
-| 2023-01-27 | 48 | 8 | 
 

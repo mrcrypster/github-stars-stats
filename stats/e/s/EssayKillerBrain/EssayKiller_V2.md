@@ -1,10 +1,10 @@
 # EssayKillerBrain/EssayKiller_V2 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 898
 
-★ Stars: 5034
+★ Stars: 5035
 
 [Open repository](https://github.com/EssayKillerBrain/EssayKiller_V2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 5035 | 898 | 
 | 2023-02-25 | 5034 | 898 | 
 | 2023-02-23 | 5032 | 898 | 
 | 2023-02-22 | 5029 | 898 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 4998 | 893 | 
 | 2023-01-29 | 4996 | 893 | 
 | 2023-01-28 | 4993 | 893 | 
-| 2023-01-27 | 4989 | 893 | 
 

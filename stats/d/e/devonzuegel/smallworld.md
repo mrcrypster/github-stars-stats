@@ -1,10 +1,10 @@
 # devonzuegel/smallworld - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 70
+★ Stars: 69
 
 [Open repository](https://github.com/devonzuegel/smallworld)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 69 | 2 | 
 | 2023-02-25 | 70 | 2 | 
 | 2023-02-24 | 70 | 2 | 
 | 2023-02-23 | 70 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 69 | 2 | 
 | 2023-01-29 | 69 | 2 | 
 | 2023-01-28 | 69 | 2 | 
-| 2023-01-27 | 69 | 2 | 
 

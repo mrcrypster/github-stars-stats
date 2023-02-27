@@ -1,6 +1,6 @@
 # LaravelDaily/laravel-permissions-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 73 | 15 | 
 | 2023-02-25 | 73 | 15 | 
 | 2023-02-24 | 72 | 15 | 
 | 2023-02-23 | 72 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 68 | 15 | 
 | 2023-01-29 | 68 | 15 | 
 | 2023-01-28 | 68 | 15 | 
-| 2023-01-27 | 68 | 15 | 
 

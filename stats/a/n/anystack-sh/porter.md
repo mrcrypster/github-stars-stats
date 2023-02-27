@@ -1,6 +1,6 @@
 # anystack-sh/porter - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 469 | 8 | 
 | 2023-02-25 | 469 | 8 | 
 | 2023-02-24 | 467 | 8 | 
 | 2023-02-23 | 468 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 456 | 8 | 
 | 2023-01-29 | 456 | 8 | 
 | 2023-01-28 | 455 | 8 | 
-| 2023-01-27 | 455 | 8 | 
 

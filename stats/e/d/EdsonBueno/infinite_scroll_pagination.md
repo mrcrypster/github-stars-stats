@@ -1,10 +1,10 @@
 # EdsonBueno/infinite_scroll_pagination - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 141
 
-★ Stars: 448
+★ Stars: 447
 
 [Open repository](https://github.com/EdsonBueno/infinite_scroll_pagination)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 447 | 141 | 
 | 2023-02-25 | 448 | 141 | 
 | 2023-02-24 | 448 | 140 | 
 | 2023-02-23 | 447 | 140 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 440 | 138 | 
 | 2023-01-29 | 439 | 138 | 
 | 2023-01-28 | 439 | 138 | 
-| 2023-01-27 | 439 | 138 | 
 

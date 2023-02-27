@@ -1,10 +1,10 @@
 # Simplicity-Team/WooBoxForMIUI - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 399
+★ Stars: 398
 
 [Open repository](https://github.com/Simplicity-Team/WooBoxForMIUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 398 | 39 | 
 | 2023-02-25 | 399 | 38 | 
 | 2023-02-24 | 397 | 38 | 
 | 2023-02-22 | 394 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 363 | 36 | 
 | 2023-01-29 | 363 | 36 | 
 | 2023-01-28 | 362 | 36 | 
-| 2023-01-27 | 363 | 36 | 
 

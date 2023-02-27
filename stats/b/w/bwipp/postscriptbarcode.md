@@ -1,6 +1,6 @@
 # bwipp/postscriptbarcode - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 406 | 62 | 
 | 2023-02-25 | 406 | 62 | 
 | 2023-02-24 | 406 | 63 | 
 | 2023-02-23 | 406 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 405 | 63 | 
 | 2023-01-29 | 405 | 63 | 
 | 2023-01-28 | 404 | 63 | 
-| 2023-01-27 | 404 | 63 | 
 

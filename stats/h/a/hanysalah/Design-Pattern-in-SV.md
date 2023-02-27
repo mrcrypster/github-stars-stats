@@ -1,10 +1,10 @@
 # hanysalah/Design-Pattern-in-SV - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/hanysalah/Design-Pattern-in-SV)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 48 | 4 | 
 | 2023-02-25 | 47 | 4 | 
 | 2023-02-24 | 47 | 4 | 
 | 2023-02-23 | 47 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 47 | 4 | 
 | 2023-01-29 | 47 | 4 | 
 | 2023-01-28 | 47 | 4 | 
-| 2023-01-27 | 47 | 4 | 
 

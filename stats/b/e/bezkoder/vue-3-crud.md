@@ -1,8 +1,8 @@
 # bezkoder/vue-3-crud - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 45 | 41 | 
 | 2023-02-25 | 45 | 40 | 
 | 2023-02-24 | 45 | 40 | 
 | 2023-02-23 | 45 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 43 | 40 | 
 | 2023-01-29 | 43 | 40 | 
 | 2023-01-28 | 43 | 40 | 
-| 2023-01-27 | 42 | 41 | 
 

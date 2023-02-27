@@ -1,6 +1,6 @@
 # a327ex/SNKRX - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1091 | 168 | 
 | 2023-02-25 | 1091 | 168 | 
 | 2023-02-24 | 1090 | 168 | 
 | 2023-02-23 | 1090 | 168 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 1079 | 167 | 
 | 2023-01-30 | 1078 | 167 | 
 | 2023-01-28 | 1078 | 167 | 
-| 2023-01-27 | 1078 | 167 | 
 

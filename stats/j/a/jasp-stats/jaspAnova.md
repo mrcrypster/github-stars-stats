@@ -1,6 +1,6 @@
 # jasp-stats/jaspAnova - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 1 | 21 | 
 | 2023-02-25 | 1 | 21 | 
 | 2023-02-24 | 1 | 21 | 
 | 2023-02-23 | 1 | 21 | 

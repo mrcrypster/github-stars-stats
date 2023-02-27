@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 111
 
-★ Stars: 1996
+★ Stars: 1999
 
 [Open repository](https://github.com/mcintyre321/OneOf)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 1996 | 111 | 
+| 2023-02-26 | 1999 | 111 | 
 | 2023-02-25 | 1988 | 111 | 
 

@@ -1,10 +1,10 @@
 # sloganking/rs-code-visualizer - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 5
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/sloganking/rs-code-visualizer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 207 | 5 | 
 | 2023-02-25 | 206 | 5 | 
 | 2023-02-24 | 206 | 5 | 
 | 2023-02-23 | 206 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 201 | 5 | 
 | 2023-01-29 | 194 | 5 | 
 | 2023-01-28 | 194 | 5 | 
-| 2023-01-27 | 194 | 5 | 
 

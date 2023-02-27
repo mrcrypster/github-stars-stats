@@ -1,10 +1,10 @@
 # ferredoxin/QNotified - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 328
 
-★ Stars: 3019
+★ Stars: 3021
 
 [Open repository](https://github.com/ferredoxin/QNotified)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3021 | 328 | 
 | 2023-02-25 | 3019 | 328 | 
 | 2023-02-24 | 3020 | 328 | 
 | 2023-02-23 | 3018 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 3001 | 324 | 
 | 2023-01-30 | 2997 | 324 | 
 | 2023-01-28 | 2995 | 324 | 
-| 2023-01-27 | 2993 | 324 | 
 

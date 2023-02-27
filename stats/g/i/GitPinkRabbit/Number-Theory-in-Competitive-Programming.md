@@ -1,6 +1,6 @@
 # GitPinkRabbit/Number-Theory-in-Competitive-Programming - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 64 | 4 | 
 | 2023-02-25 | 64 | 4 | 
 | 2023-02-24 | 63 | 4 | 
 | 2023-02-23 | 63 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 60 | 4 | 
 | 2023-01-29 | 60 | 4 | 
 | 2023-01-28 | 60 | 4 | 
-| 2023-01-27 | 60 | 4 | 
 

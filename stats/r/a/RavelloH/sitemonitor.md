@@ -1,6 +1,6 @@
 # RavelloH/sitemonitor - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6 | 1 | 
 | 2023-02-25 | 6 | 1 | 
 | 2023-02-24 | 6 | 1 | 
 | 2023-02-22 | 6 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 8 | 1 | 
 | 2023-01-30 | 8 | 1 | 
 | 2023-01-29 | 8 | 1 | 
-| 2023-01-27 | 8 | 1 | 
 

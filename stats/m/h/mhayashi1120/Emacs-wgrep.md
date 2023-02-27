@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 26
 
 ☋ Forks: 43
 
-★ Stars: 442
+★ Stars: 443
 
 [Open repository](https://github.com/mhayashi1120/Emacs-wgrep)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 442 | 43 | 
+| 2023-02-26 | 443 | 43 | 
 | 2023-02-25 | 442 | 43 | 
 | 2023-02-24 | 442 | 43 | 
 | 2023-02-23 | 442 | 43 | 

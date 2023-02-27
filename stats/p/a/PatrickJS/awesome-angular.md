@@ -1,10 +1,10 @@
 # PatrickJS/awesome-angular - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 1297
 
-★ Stars: 8734
+★ Stars: 8739
 
 [Open repository](https://github.com/PatrickJS/awesome-angular)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8739 | 1297 | 
 | 2023-02-25 | 8734 | 1297 | 
 | 2023-02-24 | 8732 | 1303 | 
 | 2023-02-23 | 8730 | 1302 | 

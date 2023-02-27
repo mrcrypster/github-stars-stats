@@ -1,6 +1,6 @@
 # UnityTechnologies/URP-Defender-Character-Demo - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 127 | 18 | 
 | 2023-02-25 | 127 | 18 | 
 | 2023-02-24 | 128 | 18 | 
 | 2023-02-22 | 126 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 119 | 15 | 
 | 2023-01-29 | 119 | 15 | 
 | 2023-01-28 | 119 | 15 | 
-| 2023-01-27 | 119 | 15 | 
 

@@ -1,6 +1,6 @@
 # FurkanS1821/KSP-TRYama - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 22 | 16 | 
 | 2023-02-25 | 22 | 16 | 
 | 2023-02-23 | 22 | 16 | 
 | 2023-02-22 | 22 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 22 | 16 | 
 | 2023-01-29 | 22 | 16 | 
 | 2023-01-28 | 22 | 16 | 
-| 2023-01-27 | 22 | 16 | 
 

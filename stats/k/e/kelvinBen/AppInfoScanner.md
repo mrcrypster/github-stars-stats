@@ -1,10 +1,10 @@
 # kelvinBen/AppInfoScanner - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 324
+☋ Forks: 325
 
-★ Stars: 2127
+★ Stars: 2128
 
 [Open repository](https://github.com/kelvinBen/AppInfoScanner)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2128 | 325 | 
 | 2023-02-25 | 2127 | 324 | 
 | 2023-02-24 | 2123 | 324 | 
 | 2023-02-23 | 2118 | 322 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2057 | 313 | 
 | 2023-01-29 | 2051 | 313 | 
 | 2023-01-28 | 2049 | 313 | 
-| 2023-01-27 | 2048 | 313 | 
 

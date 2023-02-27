@@ -1,10 +1,10 @@
 # shirou/gopsutil - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 1422
+☋ Forks: 1423
 
-★ Stars: 8751
+★ Stars: 8753
 
 [Open repository](https://github.com/shirou/gopsutil)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8753 | 1423 | 
 | 2023-02-25 | 8751 | 1422 | 
 | 2023-02-24 | 8742 | 1420 | 
 | 2023-02-22 | 8739 | 1420 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 8638 | 1407 | 
 | 2023-01-29 | 8632 | 1406 | 
 | 2023-01-28 | 8625 | 1406 | 
-| 2023-01-27 | 8624 | 1406 | 
 

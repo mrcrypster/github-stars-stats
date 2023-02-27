@@ -1,6 +1,6 @@
 # zendesk/commonui_sdk_ios - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 3 | 15 | 
 | 2023-02-24 | 3 | 15 | 
 | 2023-02-23 | 3 | 15 | 
 | 2023-02-22 | 3 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-31 | 3 | 15 | 
 | 2023-01-30 | 3 | 15 | 
 | 2023-01-29 | 3 | 15 | 
-| 2023-01-28 | 3 | 15 | 
 

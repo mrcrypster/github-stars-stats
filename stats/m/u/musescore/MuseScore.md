@@ -1,10 +1,10 @@
 # musescore/MuseScore - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 2136
+☋ Forks: 2138
 
-★ Stars: 9221
+★ Stars: 9233
 
 [Open repository](https://github.com/musescore/MuseScore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 9233 | 2138 | 
 | 2023-02-25 | 9221 | 2136 | 
 | 2023-02-24 | 9216 | 2136 | 
 | 2023-02-23 | 9212 | 2135 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 9094 | 2112 | 
 | 2023-01-29 | 9088 | 2112 | 
 | 2023-01-28 | 9084 | 2112 | 
-| 2023-01-27 | 9074 | 2111 | 
 

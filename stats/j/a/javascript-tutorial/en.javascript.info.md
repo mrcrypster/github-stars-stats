@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 26
 
-☋ Forks: 3506
+☋ Forks: 3504
 
-★ Stars: 20169
+★ Stars: 20173
 
 [Open repository](https://github.com/javascript-tutorial/en.javascript.info)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-26 | 20169 | 3506 | 
+| 2023-02-26 | 20173 | 3504 | 
 | 2023-02-24 | 20161 | 3507 | 
 | 2023-02-23 | 20144 | 3500 | 
 | 2023-02-22 | 20131 | 3498 | 
@@ -40,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 19941 | 3461 | 
 | 2023-01-29 | 19931 | 3461 | 
 | 2023-01-28 | 19929 | 3461 | 
-| 2023-01-27 | 19921 | 3459 | 
 

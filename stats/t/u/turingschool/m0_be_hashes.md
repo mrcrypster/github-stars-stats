@@ -1,6 +1,6 @@
 # turingschool/m0_be_hashes - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | - | 137 | 
 | 2023-02-25 | - | 137 | 
 | 2023-02-24 | - | 137 | 
 | 2023-02-23 | - | 137 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | - | 135 | 
 | 2023-01-29 | - | 134 | 
 | 2023-01-28 | - | 134 | 
-| 2023-01-27 | - | 134 | 
 

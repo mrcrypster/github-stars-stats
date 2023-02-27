@@ -1,10 +1,10 @@
 # CJ42/All-About-Solidity - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 72
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/CJ42/All-About-Solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 351 | 72 | 
 | 2023-02-25 | 350 | 72 | 
 | 2023-02-24 | 349 | 72 | 
 | 2023-02-23 | 349 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 258 | 55 | 
 | 2023-01-29 | 255 | 55 | 
 | 2023-01-28 | 255 | 55 | 
-| 2023-01-27 | 255 | 55 | 
 

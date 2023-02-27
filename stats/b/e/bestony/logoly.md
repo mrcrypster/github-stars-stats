@@ -1,6 +1,6 @@
 # bestony/logoly - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 712
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 6591 | 712 | 
 | 2023-02-25 | 6591 | 712 | 
 | 2023-02-24 | 6590 | 712 | 
 | 2023-02-23 | 6588 | 712 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 6577 | 710 | 
 | 2023-01-29 | 6576 | 709 | 
 | 2023-01-28 | 6575 | 709 | 
-| 2023-01-27 | 6576 | 709 | 
 

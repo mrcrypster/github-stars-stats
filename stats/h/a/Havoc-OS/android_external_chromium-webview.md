@@ -1,6 +1,6 @@
 # Havoc-OS/android_external_chromium-webview - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | - | - | 
 | 2023-02-25 | - | - | 
 | 2023-02-23 | - | - | 
 | 2023-02-22 | - | - | 

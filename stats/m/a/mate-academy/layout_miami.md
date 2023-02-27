@@ -1,8 +1,8 @@
 # mate-academy/layout_miami - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 1976
+☋ Forks: 1978
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 7 | 1978 | 
 | 2023-02-25 | 7 | 1976 | 
 | 2023-02-24 | 7 | 1976 | 
 | 2023-02-23 | 7 | 1973 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 4 | 1866 | 
 | 2023-01-29 | 4 | 1866 | 
 | 2023-01-28 | 4 | 1864 | 
-| 2023-01-27 | 4 | 1864 | 
 

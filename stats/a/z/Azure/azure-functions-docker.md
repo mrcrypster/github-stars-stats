@@ -1,8 +1,8 @@
 # Azure/azure-functions-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 106
+☋ Forks: 105
 
 ★ Stars: 204
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 204 | 105 | 
 | 2023-02-24 | 204 | 106 | 
 | 2023-02-23 | 204 | 106 | 
 | 2023-02-22 | 204 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-30 | 204 | 106 | 
 | 2023-01-29 | 204 | 106 | 
 | 2023-01-28 | 204 | 106 | 
-| 2023-01-27 | 204 | 106 | 
 

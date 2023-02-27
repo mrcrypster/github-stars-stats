@@ -1,6 +1,6 @@
 # mdbesten/ground-truth-extension - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | - | 13 | 
+| 2023-02-26 | - | 13 | 
 | 2023-02-25 | - | 13 | 
 | 2023-02-24 | - | 12 | 
 | 2023-02-23 | - | 8 | 

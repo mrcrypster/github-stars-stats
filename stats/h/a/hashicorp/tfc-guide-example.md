@@ -1,10 +1,10 @@
 # hashicorp/tfc-guide-example - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 4035
+☋ Forks: 4037
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/hashicorp/tfc-guide-example)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 159 | 4037 | 
 | 2023-02-25 | 158 | 4035 | 
 | 2023-02-23 | 158 | 4033 | 
 | 2023-02-22 | 157 | 4031 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 155 | 4011 | 
 | 2023-01-29 | 155 | 4010 | 
 | 2023-01-28 | 155 | 4010 | 
-| 2023-01-27 | 155 | 4010 | 
 

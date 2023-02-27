@@ -1,10 +1,10 @@
 # codedthemes/berry-free-react-admin-template - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
-☋ Forks: 616
+☋ Forks: 618
 
-★ Stars: 1117
+★ Stars: 1119
 
 [Open repository](https://github.com/codedthemes/berry-free-react-admin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1119 | 618 | 
 | 2023-02-25 | 1117 | 616 | 
 | 2023-02-24 | 1117 | 613 | 
 | 2023-02-23 | 1115 | 610 | 

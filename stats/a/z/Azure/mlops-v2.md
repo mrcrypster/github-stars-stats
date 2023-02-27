@@ -1,10 +1,10 @@
 # Azure/mlops-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 93
 
-★ Stars: 262
+★ Stars: 261
 
 [Open repository](https://github.com/Azure/mlops-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 261 | 93 | 
 | 2023-02-25 | 262 | 93 | 
 | 2023-02-24 | 262 | 93 | 
 | 2023-02-23 | 259 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 245 | 71 | 
 | 2023-01-29 | 245 | 71 | 
 | 2023-01-28 | 245 | 71 | 
-| 2023-01-27 | 244 | 71 | 
 

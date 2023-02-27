@@ -1,10 +1,10 @@
 # tenable/ghidra_tools - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 13
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/tenable/ghidra_tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 180 | 13 | 
 | 2023-02-26 | 179 | 13 | 
 | 2023-02-24 | 179 | 13 | 
 | 2023-02-23 | 179 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 171 | 14 | 
 | 2023-01-29 | 170 | 13 | 
 | 2023-01-28 | 170 | 13 | 
-| 2023-01-27 | 170 | 12 | 
 

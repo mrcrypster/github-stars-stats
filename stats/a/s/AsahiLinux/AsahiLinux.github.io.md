@@ -1,6 +1,6 @@
 # AsahiLinux/AsahiLinux.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 228 | 32 | 
 | 2023-02-25 | 228 | 32 | 
 | 2023-02-24 | 228 | 34 | 
 | 2023-02-23 | 228 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 226 | 33 | 
 | 2023-01-29 | 226 | 33 | 
 | 2023-01-28 | 226 | 33 | 
-| 2023-01-27 | 225 | 33 | 
 

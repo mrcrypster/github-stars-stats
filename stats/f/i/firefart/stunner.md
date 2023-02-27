@@ -1,6 +1,6 @@
 # firefart/stunner - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 576 | 33 | 
 | 2023-02-25 | 576 | 33 | 
 | 2023-02-24 | 575 | 33 | 
 | 2023-02-23 | 575 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 566 | 32 | 
 | 2023-01-29 | 566 | 32 | 
 | 2023-01-28 | 565 | 32 | 
-| 2023-01-27 | 565 | 32 | 
 

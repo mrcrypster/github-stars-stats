@@ -1,10 +1,10 @@
 # massgravel/Microsoft-Activation-Scripts - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 2928
+☋ Forks: 2939
 
-★ Stars: 26191
+★ Stars: 26257
 
 [Open repository](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 26257 | 2939 | 
 | 2023-02-25 | 26191 | 2928 | 
 | 2023-02-24 | 26131 | 2920 | 
 | 2023-02-23 | 26068 | 2918 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 24088 | 2738 | 
 | 2023-01-29 | 24051 | 2736 | 
 | 2023-01-28 | 23989 | 2726 | 
-| 2023-01-27 | 23954 | 2723 | 
 

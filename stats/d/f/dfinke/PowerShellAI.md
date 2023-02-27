@@ -1,10 +1,10 @@
 # dfinke/PowerShellAI - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
-☋ Forks: 24
+☋ Forks: 27
 
-★ Stars: 169
+★ Stars: 181
 
 [Open repository](https://github.com/dfinke/PowerShellAI)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 181 | 27 | 
+| 2023-02-26 | 180 | 27 | 
 | 2023-02-25 | 169 | 24 | 
 | 2023-02-24 | 167 | 22 | 
 | 2023-02-22 | 165 | 21 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 105 | 16 | 
 | 2023-01-29 | 102 | 16 | 
 | 2023-01-28 | 102 | 16 | 
-| 2023-01-27 | 101 | 16 | 
 

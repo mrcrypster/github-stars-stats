@@ -1,6 +1,6 @@
 # xmas7/nft-art-marketplace - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 35 | 12 | 
 | 2023-02-25 | 35 | 12 | 
 | 2023-02-24 | 35 | 12 | 
 | 2023-02-22 | 35 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 35 | 12 | 
 | 2023-01-30 | 35 | 12 | 
 | 2023-01-29 | 35 | 12 | 
-| 2023-01-28 | 35 | 12 | 
 

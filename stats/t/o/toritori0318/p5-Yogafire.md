@@ -1,6 +1,6 @@
 # toritori0318/p5-Yogafire - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 11 | 3 | 
 | 2023-02-25 | 11 | 3 | 
 | 2023-02-23 | 11 | 3 | 
 | 2023-02-22 | 11 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 10 | 3 | 
 | 2023-01-30 | 10 | 3 | 
 | 2023-01-29 | 10 | 3 | 
-| 2023-01-28 | 10 | 3 | 
 

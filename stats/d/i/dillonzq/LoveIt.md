@@ -1,10 +1,10 @@
 # dillonzq/LoveIt - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 891
+☋ Forks: 892
 
-★ Stars: 2673
+★ Stars: 2674
 
 [Open repository](https://github.com/dillonzq/LoveIt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 2674 | 892 | 
 | 2023-02-25 | 2673 | 891 | 
 | 2023-02-24 | 2670 | 889 | 
 | 2023-02-23 | 2668 | 887 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 2606 | 869 | 
 | 2023-01-29 | 2603 | 866 | 
 | 2023-01-28 | 2598 | 866 | 
-| 2023-01-27 | 2598 | 866 | 
 

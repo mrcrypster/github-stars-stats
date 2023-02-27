@@ -1,6 +1,6 @@
 # dshekhalev/FEC - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 24 | 5 | 
 | 2023-02-25 | 24 | 5 | 
 | 2023-02-23 | 23 | 5 | 
 | 2023-02-22 | 23 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 20 | 4 | 
 | 2023-01-30 | 20 | 4 | 
 | 2023-01-28 | 20 | 4 | 
-| 2023-01-27 | 20 | 4 | 
 

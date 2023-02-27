@@ -1,10 +1,10 @@
 # hmxmilohax/lego-rock-band-deluxe - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 4
 
-★ Stars: 6
+★ Stars: 8
 
 [Open repository](https://github.com/hmxmilohax/lego-rock-band-deluxe)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 8 | 4 | 
 | 2023-02-25 | 6 | 4 | 
 | 2023-02-24 | 6 | 4 | 
 | 2023-02-23 | 5 | 4 | 

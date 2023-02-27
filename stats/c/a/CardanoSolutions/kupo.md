@@ -1,6 +1,6 @@
 # CardanoSolutions/kupo - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 74 | 12 | 
 | 2023-02-25 | 74 | 12 | 
 | 2023-02-24 | 74 | 12 | 
 | 2023-02-23 | 74 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 74 | 12 | 
 | 2023-01-30 | 74 | 12 | 
 | 2023-01-29 | 74 | 12 | 
-| 2023-01-28 | 74 | 12 | 
 

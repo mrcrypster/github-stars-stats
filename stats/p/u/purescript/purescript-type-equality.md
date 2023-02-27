@@ -1,6 +1,6 @@
 # purescript/purescript-type-equality - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 16 | 7 | 
 | 2023-02-25 | 16 | 7 | 
 | 2023-02-24 | 16 | 7 | 
 | 2023-02-23 | 16 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 16 | 7 | 
 | 2023-01-29 | 16 | 7 | 
 | 2023-01-28 | 16 | 7 | 
-| 2023-01-27 | 16 | 7 | 
 

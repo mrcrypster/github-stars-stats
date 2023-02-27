@@ -1,10 +1,10 @@
 # paradigmxyz/paradigm-ctf-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 24
+Stats updated on Feb 2023, 26
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/paradigmxyz/paradigm-ctf-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 279 | 37 | 
 | 2023-02-24 | 278 | 36 | 
 | 2023-02-23 | 278 | 36 | 
 | 2023-02-22 | 278 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 24
 | 2023-01-31 | 269 | 34 | 
 | 2023-01-30 | 269 | 34 | 
 | 2023-01-28 | 269 | 34 | 
-| 2023-01-27 | 269 | 33 | 
 

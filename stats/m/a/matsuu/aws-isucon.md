@@ -1,6 +1,6 @@
 # matsuu/aws-isucon - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 157 | 12 | 
 | 2023-02-26 | 157 | 12 | 
 | 2023-02-24 | 157 | 12 | 
 | 2023-02-23 | 157 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-30 | 157 | 12 | 
 | 2023-01-29 | 157 | 12 | 
 | 2023-01-28 | 157 | 12 | 
-| 2023-01-27 | 157 | 12 | 
 

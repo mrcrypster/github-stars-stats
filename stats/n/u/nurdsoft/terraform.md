@@ -1,6 +1,6 @@
 # nurdsoft/terraform - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | - | 9 | 
 | 2023-02-25 | - | 9 | 
 | 2023-02-23 | - | 9 | 
 | 2023-02-22 | - | 5 | 

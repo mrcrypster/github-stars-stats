@@ -1,6 +1,6 @@
 # magit/git-modes - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 271 | 45 | 
 | 2023-02-25 | 271 | 45 | 
 | 2023-02-24 | 271 | 45 | 
 | 2023-02-23 | 270 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 268 | 45 | 
 | 2023-01-29 | 268 | 45 | 
 | 2023-01-28 | 268 | 45 | 
-| 2023-01-27 | 268 | 45 | 
 

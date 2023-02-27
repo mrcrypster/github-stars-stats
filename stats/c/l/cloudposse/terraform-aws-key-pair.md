@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-key-pair - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 138 | 69 | 
 | 2023-02-25 | 138 | 69 | 
 | 2023-02-24 | 138 | 69 | 
 | 2023-02-23 | 138 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 138 | 68 | 
 | 2023-01-29 | 138 | 68 | 
 | 2023-01-28 | 138 | 68 | 
-| 2023-01-27 | 138 | 68 | 
 

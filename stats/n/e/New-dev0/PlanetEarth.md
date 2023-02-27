@@ -1,6 +1,6 @@
 # New-dev0/PlanetEarth - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 5 | 29 | 
 | 2023-02-25 | 5 | 29 | 
 | 2023-02-24 | 5 | 29 | 
 | 2023-02-22 | 5 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 4 | 26 | 
 | 2023-01-30 | 4 | 26 | 
 | 2023-01-29 | 4 | 26 | 
-| 2023-01-28 | 4 | 26 | 
 

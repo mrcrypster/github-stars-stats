@@ -1,8 +1,8 @@
 # maxboeck/webring - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 26
 
-☋ Forks: 181
+☋ Forks: 180
 
 ★ Stars: 182
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-26 | 182 | 180 | 
 | 2023-02-25 | 182 | 181 | 
 | 2023-02-24 | 182 | 181 | 
 | 2023-02-23 | 182 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-30 | 178 | 183 | 
 | 2023-01-29 | 178 | 183 | 
 | 2023-01-28 | 178 | 183 | 
-| 2023-01-27 | 177 | 183 | 
 
