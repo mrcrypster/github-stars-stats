@@ -1,10 +1,10 @@
 # prismaorm/dart - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 191
+★ Stars: 193
 
 [Open repository](https://github.com/prismaorm/dart)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 193 | 7 | 
 | 2023-02-26 | 191 | 6 | 
 | 2023-02-25 | 190 | 6 | 
 | 2023-02-24 | 190 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 176 | 6 | 
 | 2023-01-30 | 176 | 6 | 
 | 2023-01-29 | 175 | 6 | 
-| 2023-01-28 | 175 | 6 | 
 

@@ -1,6 +1,6 @@
 # halleysfifthinc/Peaks.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 49 | 5 | 
 | 2023-02-26 | 49 | 5 | 
 | 2023-02-24 | 49 | 5 | 
 | 2023-02-23 | 49 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 49 | 5 | 
 | 2023-01-31 | 49 | 5 | 
 | 2023-01-30 | 49 | 5 | 
-| 2023-01-29 | 49 | 5 | 
 

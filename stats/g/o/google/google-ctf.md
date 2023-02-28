@@ -1,10 +1,10 @@
 # google/google-ctf - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 456
 
-★ Stars: 3187
+★ Stars: 3189
 
 [Open repository](https://github.com/google/google-ctf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3189 | 456 | 
 | 2023-02-26 | 3187 | 456 | 
 | 2023-02-24 | 3186 | 456 | 
 | 2023-02-23 | 3186 | 456 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 3179 | 455 | 
 | 2023-01-31 | 3182 | 455 | 
 | 2023-01-30 | 3182 | 455 | 
-| 2023-01-29 | 3182 | 455 | 
 

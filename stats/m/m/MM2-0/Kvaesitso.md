@@ -1,6 +1,6 @@
 # MM2-0/Kvaesitso - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 414 | 12 | 
 | 2023-02-26 | 414 | 12 | 
 | 2023-02-25 | 414 | 12 | 
 | 2023-02-24 | 411 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 382 | 11 | 
 | 2023-01-30 | 381 | 11 | 
 | 2023-01-29 | 379 | 11 | 
-| 2023-01-28 | 378 | 10 | 
 

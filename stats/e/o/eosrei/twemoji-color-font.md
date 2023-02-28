@@ -1,10 +1,10 @@
 # eosrei/twemoji-color-font - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 61
 
-★ Stars: 1427
+★ Stars: 1428
 
 [Open repository](https://github.com/eosrei/twemoji-color-font)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1428 | 61 | 
 | 2023-02-26 | 1427 | 61 | 
 | 2023-02-25 | 1425 | 61 | 
 | 2023-02-24 | 1424 | 61 | 

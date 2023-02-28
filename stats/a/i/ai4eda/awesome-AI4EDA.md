@@ -1,6 +1,6 @@
 # ai4eda/awesome-AI4EDA - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 11 | 5 | 
 | 2023-02-26 | 11 | 5 | 
 | 2023-02-25 | 11 | 5 | 
 | 2023-02-24 | 11 | 5 | 

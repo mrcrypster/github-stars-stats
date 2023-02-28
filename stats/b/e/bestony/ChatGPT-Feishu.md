@@ -1,10 +1,10 @@
 # bestony/ChatGPT-Feishu - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 112
+☋ Forks: 114
 
-★ Stars: 449
+★ Stars: 458
 
 [Open repository](https://github.com/bestony/ChatGPT-Feishu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 458 | 114 | 
 | 2023-02-26 | 449 | 112 | 
 | 2023-02-25 | 441 | 111 | 
 | 2023-02-24 | 434 | 110 | 

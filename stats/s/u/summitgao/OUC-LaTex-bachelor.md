@@ -1,6 +1,6 @@
 # summitgao/OUC-LaTex-bachelor - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 43 | 9 | 
 | 2023-02-26 | 43 | 9 | 
 | 2023-02-25 | 43 | 9 | 
 | 2023-02-23 | 43 | 9 | 

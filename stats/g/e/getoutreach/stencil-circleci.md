@@ -1,10 +1,10 @@
 # getoutreach/stencil-circleci - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/getoutreach/stencil-circleci)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2 | 1 | 
 | 2023-02-26 | 1 | 1 | 
 | 2023-02-25 | 1 | 1 | 
 | 2023-02-24 | 1 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2 | 1 | 
 | 2023-01-30 | 2 | 1 | 
 | 2023-01-29 | 2 | 1 | 
-| 2023-01-28 | 2 | 1 | 
 

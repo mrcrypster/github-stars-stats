@@ -1,6 +1,6 @@
 # gbtb/nix-stable-diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 42 | 6 | 
 | 2023-02-25 | 42 | 6 | 
 | 2023-02-24 | 41 | 6 | 
 | 2023-02-23 | 41 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-02-01 | 38 | 6 | 
 | 2023-01-30 | 38 | 6 | 
 | 2023-01-29 | 38 | 6 | 
-| 2023-01-28 | 38 | 6 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 27
 
-☋ Forks: 2278
+☋ Forks: 2279
 
-★ Stars: 2700
+★ Stars: 2701
 
 [Open repository](https://github.com/kitian616/jekyll-TeXt-theme)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 2700 | 2278 | 
+| 2023-02-27 | 2701 | 2279 | 
 | 2023-02-26 | 2700 | 2276 | 
 | 2023-02-25 | 2698 | 2272 | 
 | 2023-02-23 | 2698 | 2274 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-01-31 | 2676 | 2260 | 
 | 2023-01-30 | 2678 | 2260 | 
 | 2023-01-29 | 2677 | 2260 | 
-| 2023-01-28 | 2675 | 2258 | 
 

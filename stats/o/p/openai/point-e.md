@@ -1,10 +1,10 @@
 # openai/point-e - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 439
+☋ Forks: 444
 
-★ Stars: 4415
+★ Stars: 4432
 
 [Open repository](https://github.com/openai/point-e)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4432 | 444 | 
 | 2023-02-26 | 4415 | 439 | 
 | 2023-02-25 | 4401 | 438 | 
 | 2023-02-24 | 4394 | 437 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 4130 | 393 | 
 | 2023-01-30 | 4118 | 391 | 
 | 2023-01-29 | 4107 | 390 | 
-| 2023-01-28 | 4100 | 389 | 
 

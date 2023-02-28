@@ -1,6 +1,6 @@
 # conventional-changelog/standard-version - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 774
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6976 | 774 | 
 | 2023-02-26 | 6976 | 774 | 
 | 2023-02-25 | 6974 | 773 | 
 | 2023-02-24 | 6970 | 774 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 6937 | 764 | 
 | 2023-01-30 | 6934 | 763 | 
 | 2023-01-29 | 6929 | 763 | 
-| 2023-01-28 | 6926 | 763 | 
 

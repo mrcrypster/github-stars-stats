@@ -1,10 +1,10 @@
 # tolgee/tolgee-platform - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 35
 
-★ Stars: 636
+★ Stars: 638
 
 [Open repository](https://github.com/tolgee/tolgee-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 638 | 35 | 
 | 2023-02-26 | 636 | 35 | 
 | 2023-02-25 | 636 | 35 | 
 | 2023-02-24 | 636 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 580 | 30 | 
 | 2023-01-30 | 580 | 29 | 
 | 2023-01-29 | 575 | 29 | 
-| 2023-01-28 | 575 | 29 | 
 

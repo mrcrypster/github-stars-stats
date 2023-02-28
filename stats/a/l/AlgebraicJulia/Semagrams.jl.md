@@ -1,10 +1,10 @@
 # AlgebraicJulia/Semagrams.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/AlgebraicJulia/Semagrams.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 74 | 5 | 
 | 2023-02-26 | 73 | 5 | 
 | 2023-02-25 | 73 | 5 | 
 | 2023-02-24 | 73 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 71 | 6 | 
 | 2023-01-30 | 71 | 6 | 
 | 2023-01-29 | 71 | 6 | 
-| 2023-01-28 | 71 | 6 | 
 

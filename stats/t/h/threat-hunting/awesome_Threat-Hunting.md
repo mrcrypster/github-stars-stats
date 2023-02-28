@@ -1,6 +1,6 @@
 # threat-hunting/awesome_Threat-Hunting - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 458 | 100 | 
 | 2023-02-26 | 458 | 100 | 
 | 2023-02-25 | 458 | 100 | 
 | 2023-02-24 | 458 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 455 | 100 | 
 | 2023-01-31 | 455 | 100 | 
 | 2023-01-30 | 455 | 100 | 
-| 2023-01-29 | 455 | 100 | 
 

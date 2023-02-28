@@ -1,10 +1,10 @@
 # juliencrn/usehooks-ts - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 223
 
-★ Stars: 3183
+★ Stars: 3189
 
 [Open repository](https://github.com/juliencrn/usehooks-ts)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3189 | 223 | 
 | 2023-02-26 | 3183 | 223 | 
 | 2023-02-25 | 3178 | 223 | 
 | 2023-02-24 | 3173 | 223 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2995 | 210 | 
 | 2023-01-30 | 2985 | 210 | 
 | 2023-01-29 | 2974 | 208 | 
-| 2023-01-28 | 2971 | 208 | 
 

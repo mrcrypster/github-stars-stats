@@ -1,10 +1,10 @@
 # Genymobile/scrcpy - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 8059
+☋ Forks: 8064
 
-★ Stars: 77202
+★ Stars: 77255
 
 [Open repository](https://github.com/Genymobile/scrcpy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 77255 | 8064 | 
 | 2023-02-26 | 77202 | 8059 | 
 | 2023-02-25 | 77161 | 8060 | 
 | 2023-02-24 | 77118 | 8055 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 76020 | 7995 | 
 | 2023-01-30 | 75985 | 7993 | 
 | 2023-01-29 | 75911 | 7993 | 
-| 2023-01-28 | 75884 | 7990 | 
 

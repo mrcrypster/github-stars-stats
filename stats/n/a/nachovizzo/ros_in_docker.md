@@ -1,6 +1,6 @@
 # nachovizzo/ros_in_docker - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 74 | 7 | 
 | 2023-02-26 | 74 | 7 | 
 | 2023-02-25 | 74 | 7 | 
 | 2023-02-24 | 74 | 7 | 

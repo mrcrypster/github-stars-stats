@@ -1,8 +1,8 @@
 # LayerZero-Labs/LayerZero - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 252
+☋ Forks: 253
 
 ★ Stars: 321
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 321 | 253 | 
 | 2023-02-26 | 321 | 252 | 
 | 2023-02-25 | 321 | 251 | 
 | 2023-02-24 | 321 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 310 | 248 | 
 | 2023-01-30 | 309 | 248 | 
 | 2023-01-29 | 306 | 248 | 
-| 2023-01-28 | 304 | 248 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 27
 
-☋ Forks: 4387
+☋ Forks: 4389
 
-★ Stars: 10370
+★ Stars: 10372
 
 [Open repository](https://github.com/PowerShellMafia/PowerSploit)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 10370 | 4387 | 
+| 2023-02-27 | 10372 | 4389 | 
 | 2023-02-26 | 10370 | 4387 | 
 | 2023-02-25 | 10367 | 4386 | 
 | 2023-02-24 | 10362 | 4383 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-01-31 | 10286 | 4357 | 
 | 2023-01-30 | 10281 | 4357 | 
 | 2023-01-29 | 10274 | 4354 | 
-| 2023-01-28 | 10270 | 4352 | 
 

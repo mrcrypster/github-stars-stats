@@ -1,8 +1,8 @@
 # onivim/oni2 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 276
+☋ Forks: 275
 
 ★ Stars: 7518
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 7518 | 275 | 
 | 2023-02-26 | 7518 | 276 | 
 | 2023-02-25 | 7519 | 276 | 
 | 2023-02-24 | 7519 | 276 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 7467 | 277 | 
 | 2023-01-30 | 7466 | 277 | 
 | 2023-01-29 | 7463 | 277 | 
-| 2023-01-28 | 7462 | 277 | 
 

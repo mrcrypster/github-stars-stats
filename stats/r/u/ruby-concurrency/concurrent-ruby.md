@@ -1,10 +1,10 @@
 # ruby-concurrency/concurrent-ruby - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 404
 
-★ Stars: 5446
+★ Stars: 5447
 
 [Open repository](https://github.com/ruby-concurrency/concurrent-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5447 | 404 | 
 | 2023-02-25 | 5446 | 404 | 
 | 2023-02-24 | 5448 | 404 | 
 | 2023-02-23 | 5445 | 404 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 5438 | 401 | 
 | 2023-01-30 | 5437 | 401 | 
 | 2023-01-29 | 5437 | 401 | 
-| 2023-01-28 | 5437 | 401 | 
 

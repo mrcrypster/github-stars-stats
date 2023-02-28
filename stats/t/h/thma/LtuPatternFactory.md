@@ -1,6 +1,6 @@
 # thma/LtuPatternFactory - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 938 | 43 | 
 | 2023-02-26 | 938 | 43 | 
 | 2023-02-24 | 938 | 43 | 
 | 2023-02-23 | 938 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 935 | 43 | 
 | 2023-01-30 | 935 | 42 | 
 | 2023-01-29 | 934 | 42 | 
-| 2023-01-28 | 934 | 42 | 
 

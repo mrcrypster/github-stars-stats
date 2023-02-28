@@ -1,6 +1,6 @@
 # launchdarkly/erlang-server-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 21 | 18 | 
+| 2023-02-27 | 21 | 18 | 
 | 2023-02-26 | 21 | 18 | 
 | 2023-02-24 | 21 | 18 | 
 | 2023-02-23 | 21 | 18 | 
@@ -39,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 20 | 18 | 
 | 2023-01-30 | 20 | 18 | 
 | 2023-01-29 | 20 | 18 | 
-| 2023-01-28 | 20 | 18 | 
 

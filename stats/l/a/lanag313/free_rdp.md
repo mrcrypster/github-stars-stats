@@ -1,8 +1,8 @@
 # lanag313/free_rdp - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 158
+☋ Forks: 165
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1 | 165 | 
 | 2023-02-26 | 1 | 158 | 
 | 2023-02-25 | 1 | 155 | 
 | 2023-02-24 | 1 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | - | 130 | 
 | 2023-01-30 | - | 129 | 
 | 2023-01-29 | - | 129 | 
-| 2023-01-28 | - | 128 | 
 

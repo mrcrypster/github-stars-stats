@@ -1,10 +1,10 @@
 # huyentranbg/ngrokL53doDlWFDgjhZZCu - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/huyentranbg/ngrokL53doDlWFDgjhZZCu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1 | 17 | 
 | 2023-02-26 | - | 15 | 
 | 2023-02-25 | - | 15 | 
 | 2023-02-24 | - | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | - | 12 | 
 | 2023-01-31 | - | 10 | 
 | 2023-01-29 | - | 10 | 
-| 2023-01-28 | - | 10 | 
 

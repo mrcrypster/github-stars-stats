@@ -1,6 +1,6 @@
 # patternfly/patternfly - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 554 | 75 | 
 | 2023-02-26 | 554 | 75 | 
 | 2023-02-25 | 553 | 75 | 
 | 2023-02-24 | 551 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 546 | 74 | 
 | 2023-01-31 | 547 | 74 | 
 | 2023-01-30 | 547 | 74 | 
-| 2023-01-29 | 547 | 74 | 
 

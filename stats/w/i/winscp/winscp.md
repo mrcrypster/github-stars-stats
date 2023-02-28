@@ -1,6 +1,6 @@
 # winscp/winscp - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 248
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1702 | 248 | 
 | 2023-02-26 | 1702 | 248 | 
 | 2023-02-25 | 1700 | 248 | 
 | 2023-02-23 | 1697 | 248 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1648 | 245 | 
 | 2023-01-30 | 1646 | 245 | 
 | 2023-01-29 | 1642 | 245 | 
-| 2023-01-28 | 1641 | 245 | 
 

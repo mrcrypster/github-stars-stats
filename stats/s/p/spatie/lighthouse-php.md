@@ -1,8 +1,8 @@
 # spatie/lighthouse-php - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 13
+☋ Forks: 15
 
 ★ Stars: 197
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 197 | 15 | 
 | 2023-02-26 | 197 | 13 | 
 | 2023-02-25 | 197 | 13 | 
 | 2023-02-24 | 197 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 195 | 11 | 
 | 2023-01-31 | 196 | 11 | 
 | 2023-01-30 | 196 | 11 | 
-| 2023-01-29 | 196 | 12 | 
 

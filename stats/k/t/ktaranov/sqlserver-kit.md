@@ -1,10 +1,10 @@
 # ktaranov/sqlserver-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 577
+☋ Forks: 578
 
-★ Stars: 1746
+★ Stars: 1745
 
 [Open repository](https://github.com/ktaranov/sqlserver-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1745 | 578 | 
 | 2023-02-26 | 1746 | 577 | 
 | 2023-02-25 | 1746 | 577 | 
 | 2023-02-24 | 1742 | 577 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1720 | 571 | 
 | 2023-01-30 | 1717 | 571 | 
 | 2023-01-29 | 1716 | 570 | 
-| 2023-01-28 | 1716 | 569 | 
 

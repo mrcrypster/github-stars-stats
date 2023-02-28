@@ -1,10 +1,10 @@
 # Jana-Marie/OtterCam-s3 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/Jana-Marie/OtterCam-s3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 34 | 2 | 
 | 2023-02-26 | 33 | 2 | 
 | 2023-02-25 | 33 | 2 | 
 | 2023-02-24 | 33 | 2 | 

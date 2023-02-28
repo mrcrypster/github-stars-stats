@@ -1,10 +1,10 @@
 # getty-zig/getty - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/getty-zig/getty)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 85 | 4 | 
 | 2023-02-26 | 84 | 4 | 
 | 2023-02-25 | 84 | 4 | 
 | 2023-02-24 | 84 | 4 | 

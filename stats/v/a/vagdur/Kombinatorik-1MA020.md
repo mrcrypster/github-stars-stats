@@ -1,6 +1,6 @@
 # vagdur/Kombinatorik-1MA020 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2 | 8 | 
 | 2023-02-26 | 2 | 8 | 
 | 2023-02-25 | 2 | 8 | 
 | 2023-02-24 | 2 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 3 | 7 | 
 | 2023-01-30 | 2 | 6 | 
 | 2023-01-29 | 2 | 6 | 
-| 2023-01-28 | 2 | 6 | 
 

@@ -1,6 +1,6 @@
 # Islandora/islandora_importer - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3 | 41 | 
 | 2023-02-26 | 3 | 41 | 
 | 2023-02-25 | 3 | 41 | 
 | 2023-02-24 | 3 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 3 | 41 | 
 | 2023-01-30 | 3 | 41 | 
 | 2023-01-29 | 3 | 41 | 
-| 2023-01-28 | 3 | 41 | 
 

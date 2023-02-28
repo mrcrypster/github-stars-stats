@@ -1,10 +1,10 @@
 # input-output-hk/ouroboros-network - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 80
 
-★ Stars: 244
+★ Stars: 243
 
 [Open repository](https://github.com/input-output-hk/ouroboros-network)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 243 | 80 | 
 | 2023-02-26 | 244 | 80 | 
 | 2023-02-25 | 244 | 80 | 
 | 2023-02-24 | 244 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 243 | 80 | 
 | 2023-01-30 | 244 | 80 | 
 | 2023-01-29 | 244 | 80 | 
-| 2023-01-28 | 244 | 80 | 
 

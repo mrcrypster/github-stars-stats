@@ -1,6 +1,6 @@
 # microsoft/PSRule.Rules.CAF - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 53 | 14 | 
 | 2023-02-26 | 53 | 14 | 
 | 2023-02-25 | 53 | 14 | 
 | 2023-02-23 | 53 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 53 | 13 | 
 | 2023-01-31 | 53 | 13 | 
 | 2023-01-30 | 53 | 13 | 
-| 2023-01-29 | 53 | 13 | 
 

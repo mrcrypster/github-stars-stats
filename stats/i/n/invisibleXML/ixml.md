@@ -1,6 +1,6 @@
 # invisibleXML/ixml - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 38 | 6 | 
 | 2023-02-26 | 38 | 6 | 
 | 2023-02-25 | 38 | 6 | 
 | 2023-02-24 | 38 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 37 | 6 | 
 | 2023-01-30 | 37 | 6 | 
 | 2023-01-29 | 37 | 6 | 
-| 2023-01-28 | 37 | 6 | 
 

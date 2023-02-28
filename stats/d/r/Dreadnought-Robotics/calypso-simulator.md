@@ -1,10 +1,10 @@
 # Dreadnought-Robotics/calypso-simulator - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Dreadnought-Robotics/calypso-simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 17 | - | 
 | 2023-02-26 | 16 | - | 
 | 2023-02-25 | 15 | - | 
 | 2023-02-24 | 15 | - | 

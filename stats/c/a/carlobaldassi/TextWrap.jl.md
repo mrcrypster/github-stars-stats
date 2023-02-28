@@ -1,10 +1,10 @@
 # carlobaldassi/TextWrap.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 8
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/carlobaldassi/TextWrap.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 12 | 8 | 
 | 2023-02-26 | 11 | 8 | 
 | 2023-02-25 | 11 | 8 | 
 | 2023-02-24 | 11 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 12 | 8 | 
 | 2023-01-30 | 12 | 8 | 
 | 2023-01-29 | 12 | 8 | 
-| 2023-01-28 | 12 | 8 | 
 

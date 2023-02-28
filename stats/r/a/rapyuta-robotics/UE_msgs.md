@@ -1,6 +1,6 @@
 # rapyuta-robotics/UE_msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2 | - | 
 | 2023-02-26 | 2 | - | 
 | 2023-02-25 | 2 | - | 
 | 2023-02-24 | 2 | - | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1 | - | 
 | 2023-01-30 | 1 | - | 
 | 2023-01-29 | 1 | - | 
-| 2023-01-28 | 1 | - | 
 

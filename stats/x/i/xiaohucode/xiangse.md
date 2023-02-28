@@ -1,10 +1,10 @@
 # xiaohucode/xiangse - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 31
 
-★ Stars: 600
+★ Stars: 605
 
 [Open repository](https://github.com/xiaohucode/xiangse)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 605 | 31 | 
 | 2023-02-25 | 600 | 31 | 
 | 2023-02-24 | 597 | 31 | 
 | 2023-02-23 | 594 | 31 | 

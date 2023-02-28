@@ -1,0 +1,17 @@
+# mandiant/capa-testfiles - stars & forks statistics
+
+Stats updated on Feb 2023, 27
+
+☋ Forks: 44
+
+★ Stars: 30
+
+[Open repository](https://github.com/mandiant/capa-testfiles)
+
+[Open detailed stats for mandiant/capa-testfiles](https://reviewgithub.com/rep/mandiant/capa-testfiles)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-02-27 | 30 | 44 | 
+

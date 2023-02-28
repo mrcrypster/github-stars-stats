@@ -1,6 +1,6 @@
 # brianvoe/slim-select - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 845 | 163 | 
 | 2023-02-26 | 845 | 163 | 
 | 2023-02-25 | 845 | 163 | 
 | 2023-02-23 | 844 | 163 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 840 | 161 | 
 | 2023-01-31 | 840 | 161 | 
 | 2023-01-30 | 840 | 161 | 
-| 2023-01-28 | 839 | 161 | 
 

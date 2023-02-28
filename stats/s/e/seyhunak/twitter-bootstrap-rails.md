@@ -1,6 +1,6 @@
 # seyhunak/twitter-bootstrap-rails - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1022
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4507 | 1022 | 
 | 2023-02-26 | 4507 | 1022 | 
 | 2023-02-25 | 4507 | 1022 | 
 | 2023-02-24 | 4507 | 1022 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 4508 | 1022 | 
 | 2023-01-30 | 4508 | 1022 | 
 | 2023-01-29 | 4508 | 1021 | 
-| 2023-01-28 | 4508 | 1021 | 
 

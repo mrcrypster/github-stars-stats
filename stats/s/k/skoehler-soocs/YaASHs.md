@@ -1,6 +1,6 @@
 # skoehler-soocs/YaASHs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 20 | 1 | 
 | 2023-02-26 | 20 | 1 | 
 | 2023-02-25 | 20 | 1 | 
 | 2023-02-24 | 20 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 17 | 1 | 
 | 2023-01-30 | 17 | 1 | 
 | 2023-01-29 | 17 | 1 | 
-| 2023-01-28 | 17 | 1 | 
 

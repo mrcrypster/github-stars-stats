@@ -1,6 +1,6 @@
 # dohliam/dropin-minimal-css - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1450 | 42 | 
 | 2023-02-26 | 1450 | 42 | 
 | 2023-02-25 | 1449 | 42 | 
 | 2023-02-24 | 1448 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1434 | 42 | 
 | 2023-01-30 | 1433 | 42 | 
 | 2023-01-29 | 1433 | 42 | 
-| 2023-01-28 | 1433 | 42 | 
 

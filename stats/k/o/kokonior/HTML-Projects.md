@@ -1,6 +1,6 @@
 # kokonior/HTML-Projects - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 516
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 142 | 516 | 
 | 2023-02-26 | 142 | 516 | 
 | 2023-02-25 | 142 | 516 | 
 | 2023-02-24 | 142 | 514 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 137 | 513 | 
 | 2023-01-30 | 137 | 512 | 
 | 2023-01-29 | 137 | 512 | 
-| 2023-01-28 | 137 | 513 | 
 

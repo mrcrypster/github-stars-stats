@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 1721
 
-★ Stars: 1803
+★ Stars: 1804
 
 [Open repository](https://github.com/WordPress/wordpress-develop)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 1803 | 1721 | 
+| 2023-02-27 | 1804 | 1721 | 
 | 2023-02-26 | 1803 | 1721 | 
 | 2023-02-25 | 1802 | 1720 | 
 | 2023-02-23 | 1799 | 1720 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-01-31 | 1764 | 1660 | 
 | 2023-01-30 | 1764 | 1656 | 
 | 2023-01-29 | 1762 | 1653 | 
-| 2023-01-28 | 1760 | 1652 | 
 

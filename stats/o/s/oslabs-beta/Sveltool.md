@@ -1,6 +1,6 @@
 # oslabs-beta/Sveltool - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 38 | 5 | 
 | 2023-02-26 | 38 | 5 | 
 | 2023-02-24 | 38 | 5 | 
 | 2023-02-23 | 38 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 35 | 5 | 
 | 2023-01-31 | 35 | 5 | 
 | 2023-01-30 | 35 | 5 | 
-| 2023-01-28 | 35 | 5 | 
 

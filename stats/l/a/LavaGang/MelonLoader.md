@@ -1,10 +1,10 @@
 # LavaGang/MelonLoader - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 347
+☋ Forks: 349
 
-★ Stars: 1386
+★ Stars: 1392
 
 [Open repository](https://github.com/LavaGang/MelonLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1392 | 349 | 
 | 2023-02-26 | 1386 | 347 | 
 | 2023-02-25 | 1384 | 346 | 
 | 2023-02-24 | 1385 | 345 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1320 | 335 | 
 | 2023-01-30 | 1315 | 334 | 
 | 2023-01-29 | 1313 | 335 | 
-| 2023-01-28 | 1309 | 335 | 
 

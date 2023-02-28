@@ -1,6 +1,6 @@
 # SHI-Labs/NATTEN - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 72 | 8 | 
 | 2023-02-26 | 72 | 8 | 
 | 2023-02-25 | 72 | 8 | 
 | 2023-02-24 | 70 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 64 | 7 | 
 | 2023-01-30 | 64 | 7 | 
 | 2023-01-29 | 64 | 7 | 
-| 2023-01-28 | 63 | 7 | 
 

@@ -1,6 +1,6 @@
 # Shougo/context_filetype.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 158 | 22 | 
 | 2023-02-26 | 158 | 22 | 
 | 2023-02-25 | 158 | 22 | 
 | 2023-02-24 | 158 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 157 | 22 | 
 | 2023-01-30 | 157 | 22 | 
 | 2023-01-29 | 157 | 22 | 
-| 2023-01-28 | 157 | 21 | 
 

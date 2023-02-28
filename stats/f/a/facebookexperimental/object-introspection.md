@@ -1,6 +1,6 @@
 # facebookexperimental/object-introspection - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 33 | 6 | 
 | 2023-02-26 | 33 | 6 | 
 | 2023-02-25 | 33 | 6 | 
 | 2023-02-24 | 33 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 32 | 6 | 
 | 2023-01-30 | 33 | 6 | 
 | 2023-01-29 | 33 | 6 | 
-| 2023-01-28 | 33 | 6 | 
 

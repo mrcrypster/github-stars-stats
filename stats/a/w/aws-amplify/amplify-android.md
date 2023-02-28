@@ -1,6 +1,6 @@
 # aws-amplify/amplify-android - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 177 | 95 | 
 | 2023-02-26 | 177 | 95 | 
 | 2023-02-25 | 177 | 95 | 
 | 2023-02-24 | 177 | 96 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 173 | 95 | 
 | 2023-01-30 | 173 | 95 | 
 | 2023-01-29 | 173 | 95 | 
-| 2023-01-28 | 173 | 94 | 
 

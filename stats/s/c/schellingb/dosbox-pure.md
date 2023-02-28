@@ -1,10 +1,10 @@
 # schellingb/dosbox-pure - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 55
 
-★ Stars: 576
+★ Stars: 578
 
 [Open repository](https://github.com/schellingb/dosbox-pure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 578 | 55 | 
 | 2023-02-26 | 576 | 55 | 
 | 2023-02-25 | 576 | 55 | 
 | 2023-02-24 | 576 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 570 | 53 | 
 | 2023-01-30 | 570 | 53 | 
 | 2023-01-29 | 570 | 53 | 
-| 2023-01-28 | 570 | 53 | 
 

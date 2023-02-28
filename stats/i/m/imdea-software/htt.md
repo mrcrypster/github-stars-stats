@@ -1,6 +1,6 @@
 # imdea-software/htt - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 58 | 6 | 
 | 2023-02-26 | 58 | 6 | 
 | 2023-02-24 | 58 | 6 | 
 | 2023-02-23 | 58 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 57 | 5 | 
 | 2023-01-31 | 57 | 5 | 
 | 2023-01-29 | 57 | 5 | 
-| 2023-01-28 | 56 | 5 | 
 

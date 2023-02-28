@@ -1,6 +1,6 @@
 # cztomsik/graffiti - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 896 | 17 | 
 | 2023-02-25 | 896 | 17 | 
 | 2023-02-24 | 896 | 17 | 
 | 2023-02-23 | 896 | 17 | 

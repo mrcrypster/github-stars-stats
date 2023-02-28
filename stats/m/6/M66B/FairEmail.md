@@ -1,10 +1,10 @@
 # M66B/FairEmail - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 613
 
-★ Stars: 1592
+★ Stars: 1597
 
 [Open repository](https://github.com/M66B/FairEmail)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1597 | 613 | 
 | 2023-02-26 | 1592 | 613 | 
 | 2023-02-24 | 1593 | 612 | 
 | 2023-02-23 | 1592 | 612 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1551 | 613 | 
 | 2023-01-30 | 1548 | 613 | 
 | 2023-01-29 | 1539 | 612 | 
-| 2023-01-28 | 1535 | 611 | 
 

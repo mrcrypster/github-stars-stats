@@ -1,10 +1,10 @@
 # madebyollin/maple-diffusion - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 29
 
-★ Stars: 628
+★ Stars: 630
 
 [Open repository](https://github.com/madebyollin/maple-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 630 | 29 | 
 | 2023-02-26 | 628 | 29 | 
 | 2023-02-25 | 628 | 29 | 
 | 2023-02-24 | 626 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 588 | 27 | 
 | 2023-01-30 | 586 | 27 | 
 | 2023-01-29 | 586 | 27 | 
-| 2023-01-28 | 585 | 27 | 
 

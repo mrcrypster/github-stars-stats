@@ -1,8 +1,8 @@
 # chandrikadeb7/Face-Mask-Detection - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 799
+☋ Forks: 798
 
 ★ Stars: 1409
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1409 | 798 | 
 | 2023-02-26 | 1409 | 799 | 
 | 2023-02-25 | 1409 | 799 | 
 | 2023-02-24 | 1409 | 800 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1395 | 794 | 
 | 2023-01-30 | 1393 | 795 | 
 | 2023-01-29 | 1393 | 794 | 
-| 2023-01-28 | 1392 | 794 | 
 

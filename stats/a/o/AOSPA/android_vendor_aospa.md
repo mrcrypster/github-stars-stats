@@ -1,8 +1,8 @@
 # AOSPA/android_vendor_aospa - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 97
+☋ Forks: 98
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6 | 98 | 
 | 2023-02-26 | 6 | 97 | 
 | 2023-02-25 | 6 | 96 | 
 | 2023-02-24 | 6 | 96 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 6 | 96 | 
 | 2023-01-31 | 6 | 95 | 
 | 2023-01-30 | 6 | 96 | 
-| 2023-01-28 | 6 | 95 | 
 

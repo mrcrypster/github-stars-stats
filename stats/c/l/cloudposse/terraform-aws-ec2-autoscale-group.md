@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ec2-autoscale-group - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 108 | 129 | 
 | 2023-02-26 | 108 | 129 | 
 | 2023-02-25 | 108 | 129 | 
 | 2023-02-24 | 108 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 106 | 129 | 
 | 2023-01-30 | 106 | 129 | 
 | 2023-01-29 | 106 | 129 | 
-| 2023-01-28 | 106 | 129 | 
 

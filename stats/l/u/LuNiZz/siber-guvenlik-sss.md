@@ -1,10 +1,10 @@
 # LuNiZz/siber-guvenlik-sss - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 347
 
-★ Stars: 1927
+★ Stars: 1933
 
 [Open repository](https://github.com/LuNiZz/siber-guvenlik-sss)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1933 | 347 | 
 | 2023-02-26 | 1927 | 347 | 
 | 2023-02-25 | 1925 | 346 | 
 | 2023-02-24 | 1924 | 346 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1891 | 342 | 
 | 2023-01-30 | 1890 | 342 | 
 | 2023-01-29 | 1889 | 342 | 
-| 2023-01-28 | 1887 | 342 | 
 

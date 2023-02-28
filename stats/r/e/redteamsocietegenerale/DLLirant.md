@@ -1,6 +1,6 @@
 # redteamsocietegenerale/DLLirant - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 251 | 27 | 
 | 2023-02-26 | 251 | 27 | 
 | 2023-02-25 | 250 | 27 | 
 | 2023-02-24 | 250 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 248 | 26 | 
 | 2023-01-31 | 248 | 26 | 
 | 2023-01-30 | 247 | 26 | 
-| 2023-01-29 | 247 | 26 | 
 

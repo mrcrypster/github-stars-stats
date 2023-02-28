@@ -1,6 +1,6 @@
 # microsoft/proxy - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 454 | 24 | 
 | 2023-02-26 | 454 | 24 | 
 | 2023-02-25 | 454 | 24 | 
 | 2023-02-24 | 454 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 442 | 23 | 
 | 2023-01-31 | 441 | 23 | 
 | 2023-01-30 | 441 | 23 | 
-| 2023-01-29 | 437 | 23 | 
 

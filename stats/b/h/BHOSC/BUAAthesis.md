@@ -1,6 +1,6 @@
 # BHOSC/BUAAthesis - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 786 | 250 | 
 | 2023-02-26 | 786 | 250 | 
 | 2023-02-24 | 785 | 250 | 
 | 2023-02-23 | 784 | 250 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 778 | 252 | 
 | 2023-01-31 | 778 | 252 | 
 | 2023-01-30 | 778 | 252 | 
-| 2023-01-28 | 778 | 252 | 
 

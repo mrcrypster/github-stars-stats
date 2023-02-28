@@ -1,6 +1,6 @@
 # 0xhiro/amongrust - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 169 | 8 | 
 | 2023-02-26 | 169 | 8 | 
 | 2023-02-25 | 169 | 8 | 
 | 2023-02-24 | 169 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 170 | 8 | 
 | 2023-01-30 | 170 | 8 | 
 | 2023-01-29 | 170 | 8 | 
-| 2023-01-28 | 170 | 8 | 
 

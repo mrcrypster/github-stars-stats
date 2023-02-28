@@ -1,10 +1,10 @@
 # serversideup/financial-freedom - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 64
 
-★ Stars: 604
+★ Stars: 607
 
 [Open repository](https://github.com/serversideup/financial-freedom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 607 | 64 | 
 | 2023-02-26 | 604 | 64 | 
 | 2023-02-24 | 604 | 64 | 
 | 2023-02-23 | 601 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 583 | 64 | 
 | 2023-01-31 | 582 | 64 | 
 | 2023-01-30 | 578 | 63 | 
-| 2023-01-28 | 576 | 63 | 
 

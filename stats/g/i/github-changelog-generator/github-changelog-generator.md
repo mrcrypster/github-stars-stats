@@ -1,8 +1,8 @@
 # github-changelog-generator/github-changelog-generator - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 880
+☋ Forks: 879
 
 ★ Stars: 7020
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 7020 | 879 | 
 | 2023-02-26 | 7020 | 880 | 
 | 2023-02-25 | 7018 | 880 | 
 | 2023-02-24 | 7018 | 880 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 7001 | 876 | 
 | 2023-01-30 | 6997 | 876 | 
 | 2023-01-29 | 6997 | 876 | 
-| 2023-01-28 | 6997 | 876 | 
 

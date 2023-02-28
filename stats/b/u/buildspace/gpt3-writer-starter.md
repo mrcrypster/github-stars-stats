@@ -1,10 +1,10 @@
 # buildspace/gpt3-writer-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 1611
+☋ Forks: 1615
 
-★ Stars: 397
+★ Stars: 398
 
 [Open repository](https://github.com/buildspace/gpt3-writer-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 398 | 1615 | 
 | 2023-02-26 | 397 | 1611 | 
 | 2023-02-25 | 395 | 1600 | 
 | 2023-02-24 | 394 | 1592 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 357 | 1446 | 
 | 2023-01-30 | 352 | 1428 | 
 | 2023-01-29 | 349 | 1421 | 
-| 2023-01-28 | 347 | 1402 | 
 

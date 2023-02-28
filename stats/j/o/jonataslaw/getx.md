@@ -1,10 +1,10 @@
 # jonataslaw/getx - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 1400
+☋ Forks: 1401
 
-★ Stars: 8181
+★ Stars: 8187
 
 [Open repository](https://github.com/jonataslaw/getx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 8187 | 1401 | 
 | 2023-02-26 | 8181 | 1400 | 
 | 2023-02-25 | 8180 | 1399 | 
 | 2023-02-24 | 8176 | 1398 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 8038 | 1368 | 
 | 2023-01-30 | 8034 | 1366 | 
 | 2023-01-29 | 8029 | 1366 | 
-| 2023-01-28 | 8028 | 1366 | 
 

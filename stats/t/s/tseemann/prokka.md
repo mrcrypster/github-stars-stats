@@ -1,10 +1,10 @@
 # tseemann/prokka - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 202
 
-★ Stars: 633
+★ Stars: 634
 
 [Open repository](https://github.com/tseemann/prokka)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 634 | 202 | 
 | 2023-02-26 | 633 | 202 | 
 | 2023-02-25 | 632 | 202 | 
 | 2023-02-24 | 631 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 625 | 202 | 
 | 2023-01-30 | 625 | 202 | 
 | 2023-01-29 | 625 | 202 | 
-| 2023-01-28 | 625 | 202 | 
 

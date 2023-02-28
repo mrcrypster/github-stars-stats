@@ -1,10 +1,10 @@
 # novuhq/elixir - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/novuhq/elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 16 | 3 | 
 | 2023-02-25 | 15 | 3 | 
 | 2023-02-24 | 15 | 3 | 
 | 2023-02-23 | 15 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-02-01 | 15 | 3 | 
 | 2023-01-31 | 15 | 3 | 
 | 2023-01-30 | 15 | 3 | 
-| 2023-01-29 | 15 | 3 | 
 

@@ -1,10 +1,10 @@
 # philipturner/metal-benchmarks - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 108
+★ Stars: 111
 
 [Open repository](https://github.com/philipturner/metal-benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 111 | 3 | 
 | 2023-02-26 | 108 | 2 | 
 | 2023-02-25 | 106 | 2 | 
 | 2023-02-24 | 106 | 2 | 

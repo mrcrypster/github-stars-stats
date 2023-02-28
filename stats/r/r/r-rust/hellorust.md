@@ -1,6 +1,6 @@
 # r-rust/hellorust - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 218 | 19 | 
 | 2023-02-26 | 218 | 19 | 
 | 2023-02-25 | 218 | 19 | 
 | 2023-02-24 | 218 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 213 | 19 | 
 | 2023-01-30 | 213 | 19 | 
 | 2023-01-29 | 213 | 19 | 
-| 2023-01-28 | 213 | 19 | 
 

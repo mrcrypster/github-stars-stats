@@ -1,10 +1,10 @@
 # UE4SS-RE/RE-UE4SS - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 20
 
-★ Stars: 78
+★ Stars: 81
 
 [Open repository](https://github.com/UE4SS-RE/RE-UE4SS)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 81 | 20 | 
 | 2023-02-26 | 78 | 20 | 
 

@@ -1,6 +1,6 @@
 # Martins3/Martins3.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 31 | 10 | 
 | 2023-02-26 | 31 | 10 | 
 | 2023-02-25 | 31 | 10 | 
 | 2023-02-24 | 31 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 31 | 10 | 
 | 2023-01-30 | 31 | 10 | 
 | 2023-01-29 | 31 | 10 | 
-| 2023-01-28 | 31 | 10 | 
 

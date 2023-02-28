@@ -1,6 +1,6 @@
 # legoandmars/GorillaTagMapProject - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 17 | 24 | 
 | 2023-02-26 | 17 | 24 | 
 | 2023-02-25 | 17 | 24 | 
 | 2023-02-24 | 17 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 17 | 20 | 
 | 2023-01-30 | 16 | 20 | 
 | 2023-01-29 | 16 | 20 | 
-| 2023-01-28 | 16 | 19 | 
 

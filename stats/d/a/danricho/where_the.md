@@ -1,6 +1,6 @@
 # danricho/where_the - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 61 | - | 
 | 2023-02-26 | 61 | - | 
 | 2023-02-24 | 61 | - | 
 | 2023-02-23 | 61 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 61 | - | 
 | 2023-01-31 | 61 | - | 
 | 2023-01-30 | 61 | - | 
-| 2023-01-29 | 61 | - | 
 

@@ -1,8 +1,8 @@
 # Azure-Samples/AnomalyDetector - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 154
+☋ Forks: 155
 
 ★ Stars: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 78 | 155 | 
 | 2023-02-26 | 78 | 154 | 
 | 2023-02-25 | 78 | 154 | 
 | 2023-02-24 | 78 | 154 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 76 | 153 | 
 | 2023-01-30 | 76 | 153 | 
 | 2023-01-29 | 76 | 153 | 
-| 2023-01-28 | 76 | 153 | 
 

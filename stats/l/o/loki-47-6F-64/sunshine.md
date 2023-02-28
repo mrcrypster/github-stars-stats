@@ -1,10 +1,10 @@
 # loki-47-6F-64/sunshine - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 156
 
-★ Stars: 1573
+★ Stars: 1571
 
 [Open repository](https://github.com/loki-47-6F-64/sunshine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1571 | 156 | 
 | 2023-02-26 | 1573 | 156 | 
 | 2023-02-25 | 1571 | 156 | 
 | 2023-02-24 | 1571 | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1549 | 155 | 
 | 2023-01-30 | 1549 | 155 | 
 | 2023-01-29 | 1548 | 155 | 
-| 2023-01-28 | 1546 | 155 | 
 

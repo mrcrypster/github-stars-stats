@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 23
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/rust-nostr/nostr)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 127 | 23 | 
+| 2023-02-27 | 128 | 23 | 
 | 2023-02-26 | 127 | 23 | 
 

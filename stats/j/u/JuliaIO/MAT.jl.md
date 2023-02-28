@@ -1,10 +1,10 @@
 # JuliaIO/MAT.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 68
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/JuliaIO/MAT.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 249 | 68 | 
 | 2023-02-26 | 248 | 68 | 
 | 2023-02-25 | 248 | 68 | 
 | 2023-02-24 | 248 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 247 | 67 | 
 | 2023-01-31 | 247 | 67 | 
 | 2023-01-30 | 247 | 67 | 
-| 2023-01-28 | 247 | 67 | 
 

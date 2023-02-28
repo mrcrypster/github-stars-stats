@@ -1,6 +1,6 @@
 # michaeleisel/JJLISO8601DateFormatter - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 76 | 8 | 
 | 2023-02-26 | 76 | 8 | 
 | 2023-02-25 | 76 | 8 | 
 | 2023-02-24 | 76 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 76 | 8 | 
 | 2023-01-30 | 75 | 8 | 
 | 2023-01-29 | 75 | 8 | 
-| 2023-01-28 | 75 | 8 | 
 

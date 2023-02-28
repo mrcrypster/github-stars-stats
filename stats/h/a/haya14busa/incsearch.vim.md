@@ -1,10 +1,10 @@
 # haya14busa/incsearch.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 21
 
-★ Stars: 1101
+★ Stars: 1102
 
 [Open repository](https://github.com/haya14busa/incsearch.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1102 | 21 | 
 | 2023-02-26 | 1101 | 21 | 
 | 2023-02-25 | 1101 | 21 | 
 | 2023-02-24 | 1101 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1099 | 21 | 
 | 2023-01-30 | 1098 | 21 | 
 | 2023-01-29 | 1098 | 21 | 
-| 2023-01-28 | 1098 | 21 | 
 

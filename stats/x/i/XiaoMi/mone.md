@@ -1,10 +1,10 @@
 # XiaoMi/mone - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 58
 
-★ Stars: 535
+★ Stars: 536
 
 [Open repository](https://github.com/XiaoMi/mone)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 536 | 58 | 
 | 2023-02-26 | 535 | 58 | 
 | 2023-02-25 | 535 | 58 | 
 | 2023-02-24 | 537 | 58 | 

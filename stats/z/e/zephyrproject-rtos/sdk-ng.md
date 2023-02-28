@@ -1,6 +1,6 @@
 # zephyrproject-rtos/sdk-ng - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 109 | 95 | 
 | 2023-02-26 | 109 | 95 | 
 | 2023-02-24 | 109 | 95 | 
 | 2023-02-23 | 109 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 106 | 91 | 
 | 2023-01-31 | 106 | 91 | 
 | 2023-01-30 | 105 | 91 | 
-| 2023-01-28 | 105 | 91 | 
 

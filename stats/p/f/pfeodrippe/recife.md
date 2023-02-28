@@ -1,6 +1,6 @@
 # pfeodrippe/recife - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 96 | 3 | 
 | 2023-02-26 | 96 | 3 | 
 

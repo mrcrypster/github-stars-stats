@@ -1,6 +1,6 @@
 # lucasvreis/organon - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 11 | 1 | 
 | 2023-02-26 | 11 | 1 | 
 | 2023-02-25 | 11 | 1 | 
 | 2023-02-24 | 11 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 12 | 1 | 
 | 2023-01-30 | 12 | 1 | 
 | 2023-01-29 | 12 | 1 | 
-| 2023-01-28 | 12 | 1 | 
 

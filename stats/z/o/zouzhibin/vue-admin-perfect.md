@@ -1,10 +1,10 @@
 # zouzhibin/vue-admin-perfect - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 80
 
-★ Stars: 420
+★ Stars: 422
 
 [Open repository](https://github.com/zouzhibin/vue-admin-perfect)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 422 | 80 | 
 | 2023-02-26 | 420 | 80 | 
 | 2023-02-25 | 420 | 80 | 
 | 2023-02-24 | 418 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 376 | 77 | 
 | 2023-01-30 | 374 | 77 | 
 | 2023-01-29 | 374 | 76 | 
-| 2023-01-28 | 371 | 76 | 
 

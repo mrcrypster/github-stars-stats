@@ -1,6 +1,6 @@
 # Dimples-1337/FDPClient - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 22 | 11 | 
 | 2023-02-26 | 22 | 11 | 
 | 2023-02-25 | 22 | 11 | 
 | 2023-02-23 | 22 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 22 | 9 | 
 | 2023-01-30 | 22 | 9 | 
 | 2023-01-29 | 22 | 9 | 
-| 2023-01-28 | 22 | 9 | 
 

@@ -1,6 +1,6 @@
 # reorx/cht-colors - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 172 | 21 | 
 | 2023-02-26 | 172 | 21 | 
 | 2023-02-24 | 172 | 21 | 
 | 2023-02-23 | 172 | 21 | 

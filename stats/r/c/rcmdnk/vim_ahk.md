@@ -1,10 +1,10 @@
 # rcmdnk/vim_ahk - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 559
+★ Stars: 560
 
 [Open repository](https://github.com/rcmdnk/vim_ahk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 560 | 96 | 
 | 2023-02-26 | 559 | 95 | 
 | 2023-02-25 | 559 | 95 | 
 | 2023-02-24 | 558 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 546 | 96 | 
 | 2023-01-30 | 546 | 96 | 
 | 2023-01-29 | 546 | 96 | 
-| 2023-01-28 | 545 | 96 | 
 

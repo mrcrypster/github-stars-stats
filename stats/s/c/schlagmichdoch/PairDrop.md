@@ -1,10 +1,10 @@
 # schlagmichdoch/PairDrop - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 426
+★ Stars: 433
 
 [Open repository](https://github.com/schlagmichdoch/PairDrop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 433 | 23 | 
 | 2023-02-26 | 426 | 22 | 
 | 2023-02-25 | 421 | 23 | 
 | 2023-02-24 | 413 | 22 | 

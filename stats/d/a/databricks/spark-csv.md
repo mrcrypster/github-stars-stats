@@ -1,6 +1,6 @@
 # databricks/spark-csv - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 453
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1051 | 453 | 
 | 2023-02-26 | 1051 | 453 | 
 | 2023-02-25 | 1051 | 453 | 
 | 2023-02-24 | 1051 | 453 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1051 | 453 | 
 | 2023-01-30 | 1051 | 453 | 
 | 2023-01-29 | 1051 | 453 | 
-| 2023-01-28 | 1051 | 453 | 
 

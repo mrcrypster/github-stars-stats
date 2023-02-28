@@ -1,6 +1,6 @@
 # tekakutli/anime_translation - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 106 | 12 | 
 | 2023-02-26 | 106 | 12 | 
 | 2023-02-25 | 106 | 12 | 
 | 2023-02-24 | 106 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 103 | 10 | 
 | 2023-01-30 | 103 | 10 | 
 | 2023-01-29 | 103 | 10 | 
-| 2023-01-28 | 103 | 10 | 
 

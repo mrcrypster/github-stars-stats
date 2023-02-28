@@ -1,6 +1,6 @@
 # binji/smolnes - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 506 | 13 | 
 | 2023-02-26 | 506 | 13 | 
 | 2023-02-25 | 505 | 13 | 
 | 2023-02-24 | 505 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 506 | 12 | 
 | 2023-01-31 | 506 | 12 | 
 | 2023-01-30 | 505 | 12 | 
-| 2023-01-29 | 505 | 12 | 
 

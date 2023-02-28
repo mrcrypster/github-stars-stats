@@ -1,6 +1,6 @@
 # open-metadata/openmetadata-helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 12 | 23 | 
 | 2023-02-26 | 12 | 23 | 
 | 2023-02-25 | 12 | 23 | 
 | 2023-02-24 | 12 | 23 | 

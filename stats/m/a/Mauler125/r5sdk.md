@@ -1,10 +1,10 @@
 # Mauler125/r5sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 80
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/Mauler125/r5sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 393 | 80 | 
 | 2023-02-26 | 392 | 80 | 
 | 2023-02-25 | 392 | 80 | 
 | 2023-02-24 | 391 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 379 | 75 | 
 | 2023-01-30 | 379 | 75 | 
 | 2023-01-29 | 379 | 75 | 
-| 2023-01-28 | 376 | 75 | 
 

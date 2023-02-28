@@ -1,8 +1,8 @@
 # yumagulovrn/dao-zmk-config - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 8 | 78 | 
 | 2023-02-26 | 8 | 77 | 
 | 2023-02-25 | 8 | 77 | 
 | 2023-02-24 | 8 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 7 | 69 | 
 | 2023-01-30 | 7 | 68 | 
 | 2023-01-29 | 7 | 68 | 
-| 2023-01-28 | 7 | 68 | 
 

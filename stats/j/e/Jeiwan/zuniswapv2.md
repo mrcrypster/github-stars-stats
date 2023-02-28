@@ -1,6 +1,6 @@
 # Jeiwan/zuniswapv2 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 118 | 29 | 
 | 2023-02-26 | 118 | 29 | 
 | 2023-02-25 | 118 | 27 | 
 | 2023-02-24 | 118 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 112 | 29 | 
 | 2023-01-30 | 112 | 29 | 
 | 2023-01-29 | 112 | 29 | 
-| 2023-01-28 | 112 | 29 | 
 

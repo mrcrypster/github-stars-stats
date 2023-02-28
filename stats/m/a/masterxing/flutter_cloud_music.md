@@ -1,6 +1,6 @@
 # masterxing/flutter_cloud_music - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 109 | 17 | 
 | 2023-02-26 | 109 | 17 | 
 | 2023-02-25 | 109 | 17 | 
 | 2023-02-24 | 109 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 106 | 17 | 
 | 2023-01-30 | 105 | 17 | 
 | 2023-01-29 | 105 | 17 | 
-| 2023-01-28 | 105 | 17 | 
 

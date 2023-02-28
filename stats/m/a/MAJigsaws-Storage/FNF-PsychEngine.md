@@ -1,8 +1,8 @@
 # MAJigsaws-Storage/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 120
+☋ Forks: 121
 
 ★ Stars: 24
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 24 | 121 | 
 | 2023-02-26 | 24 | 120 | 
 

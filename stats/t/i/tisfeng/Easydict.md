@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 7
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/tisfeng/Easydict)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 90 | 7 | 
+| 2023-02-27 | 92 | 7 | 
 | 2023-02-26 | 89 | 7 | 
 | 2023-02-25 | 85 | 7 | 
 | 2023-02-24 | 77 | 6 | 

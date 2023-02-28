@@ -1,8 +1,8 @@
 # penpot/penpot-docs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 91 | 80 | 
 | 2023-02-26 | 91 | 79 | 
 | 2023-02-25 | 91 | 79 | 
 | 2023-02-24 | 91 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 88 | 76 | 
 | 2023-01-31 | 88 | 76 | 
 | 2023-01-30 | 87 | 76 | 
-| 2023-01-28 | 87 | 77 | 
 

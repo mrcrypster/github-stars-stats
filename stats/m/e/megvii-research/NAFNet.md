@@ -1,10 +1,10 @@
 # megvii-research/NAFNet - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 127
 
-★ Stars: 1118
+★ Stars: 1123
 
 [Open repository](https://github.com/megvii-research/NAFNet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1123 | 127 | 
 | 2023-02-26 | 1118 | 127 | 
 | 2023-02-25 | 1118 | 127 | 
 | 2023-02-24 | 1117 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1069 | 122 | 
 | 2023-01-30 | 1069 | 121 | 
 | 2023-01-29 | 1065 | 121 | 
-| 2023-01-28 | 1065 | 121 | 
 

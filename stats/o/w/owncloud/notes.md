@@ -1,6 +1,6 @@
 # owncloud/notes - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 194 | 50 | 
 | 2023-02-26 | 194 | 50 | 
 | 2023-02-25 | 194 | 50 | 
 | 2023-02-24 | 194 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 194 | 50 | 
 | 2023-01-30 | 194 | 50 | 
 | 2023-01-29 | 194 | 50 | 
-| 2023-01-28 | 194 | 50 | 
 

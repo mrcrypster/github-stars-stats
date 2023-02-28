@@ -1,6 +1,6 @@
 # jonjomckay/fritter - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1125 | 60 | 
 | 2023-02-26 | 1125 | 60 | 
 | 2023-02-25 | 1125 | 60 | 
 | 2023-02-24 | 1122 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1079 | 60 | 
 | 2023-01-30 | 1075 | 60 | 
 | 2023-01-29 | 1075 | 60 | 
-| 2023-01-28 | 1075 | 60 | 
 

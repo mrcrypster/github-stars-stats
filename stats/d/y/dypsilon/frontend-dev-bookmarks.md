@@ -1,10 +1,10 @@
 # dypsilon/frontend-dev-bookmarks - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 5062
+☋ Forks: 5063
 
-★ Stars: 37478
+★ Stars: 37495
 
 [Open repository](https://github.com/dypsilon/frontend-dev-bookmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 37495 | 5063 | 
 | 2023-02-26 | 37478 | 5062 | 
 | 2023-02-25 | 37460 | 5062 | 
 | 2023-02-23 | 37448 | 5058 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 37023 | 5013 | 
 | 2023-01-30 | 36830 | 4998 | 
 | 2023-01-29 | 36734 | 4990 | 
-| 2023-01-28 | 36716 | 4990 | 
 

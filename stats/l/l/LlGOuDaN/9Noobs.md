@@ -1,8 +1,8 @@
 # LlGOuDaN/9Noobs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3 | 1 | 
 | 2023-02-26 | 3 | - | 
 | 2023-02-25 | 3 | - | 
 | 2023-02-24 | 3 | - | 

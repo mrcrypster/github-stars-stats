@@ -1,10 +1,10 @@
 # nodejs/http-parser - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1541
+☋ Forks: 1542
 
-★ Stars: 6156
+★ Stars: 6157
 
 [Open repository](https://github.com/nodejs/http-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 6157 | 1542 | 
 | 2023-02-26 | 6156 | 1541 | 
 | 2023-02-25 | 6156 | 1541 | 
 | 2023-02-24 | 6155 | 1541 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 6146 | 1537 | 
 | 2023-01-31 | 6146 | 1537 | 
 | 2023-01-30 | 6145 | 1537 | 
-| 2023-01-28 | 6145 | 1537 | 
 

@@ -1,10 +1,10 @@
 # ljc545w/ComWeChatRobot - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 241
+☋ Forks: 242
 
-★ Stars: 816
+★ Stars: 818
 
 [Open repository](https://github.com/ljc545w/ComWeChatRobot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 818 | 242 | 
 | 2023-02-26 | 816 | 241 | 
 | 2023-02-25 | 816 | 239 | 
 | 2023-02-23 | 813 | 239 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 749 | 208 | 
 | 2023-01-30 | 748 | 208 | 
 | 2023-01-29 | 746 | 208 | 
-| 2023-01-28 | 744 | 208 | 
 

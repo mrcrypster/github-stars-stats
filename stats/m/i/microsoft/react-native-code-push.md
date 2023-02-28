@@ -1,10 +1,10 @@
 # microsoft/react-native-code-push - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1348
 
-★ Stars: 8379
+★ Stars: 8380
 
 [Open repository](https://github.com/microsoft/react-native-code-push)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 8380 | 1348 | 
 | 2023-02-26 | 8379 | 1348 | 
 | 2023-02-25 | 8378 | 1348 | 
 | 2023-02-24 | 8379 | 1348 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 8339 | 1339 | 
 | 2023-01-30 | 8337 | 1340 | 
 | 2023-01-29 | 8335 | 1340 | 
-| 2023-01-28 | 8335 | 1340 | 
 

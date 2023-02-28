@@ -1,10 +1,10 @@
 # jesvedberg/tpix - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/jesvedberg/tpix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 36 | 1 | 
 | 2023-02-26 | 35 | 1 | 
 | 2023-02-25 | 35 | 1 | 
 | 2023-02-24 | 35 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 35 | 1 | 
 | 2023-01-30 | 35 | 1 | 
 | 2023-01-29 | 35 | 1 | 
-| 2023-01-28 | 35 | 1 | 
 

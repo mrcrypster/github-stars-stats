@@ -1,6 +1,6 @@
 # briandelmsft/SentinelAutomationModules - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 95 | 24 | 
 | 2023-02-26 | 95 | 24 | 
 | 2023-02-25 | 94 | 24 | 
 | 2023-02-24 | 93 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 85 | 22 | 
 | 2023-01-30 | 85 | 22 | 
 | 2023-01-29 | 85 | 22 | 
-| 2023-01-28 | 85 | 22 | 
 

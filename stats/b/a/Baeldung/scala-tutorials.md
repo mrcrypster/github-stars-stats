@@ -1,10 +1,10 @@
 # Baeldung/scala-tutorials - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 173
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/Baeldung/scala-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 239 | 173 | 
 | 2023-02-26 | 238 | 173 | 
 | 2023-02-25 | 238 | 173 | 
 | 2023-02-24 | 238 | 173 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 227 | 172 | 
 | 2023-01-30 | 227 | 172 | 
 | 2023-01-29 | 227 | 172 | 
-| 2023-01-28 | 227 | 172 | 
 

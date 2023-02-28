@@ -1,10 +1,10 @@
 # qu3vipon/python-ddd - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 8
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/qu3vipon/python-ddd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 147 | 8 | 
 | 2023-02-26 | 146 | 8 | 
 | 2023-02-25 | 146 | 8 | 
 | 2023-02-24 | 146 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 142 | 7 | 
 | 2023-01-30 | 142 | 7 | 
 | 2023-01-29 | 141 | 7 | 
-| 2023-01-28 | 141 | 7 | 
 

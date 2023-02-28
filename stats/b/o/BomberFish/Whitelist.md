@@ -1,10 +1,10 @@
 # BomberFish/Whitelist - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 81
+★ Stars: 87
 
 [Open repository](https://github.com/BomberFish/Whitelist)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 87 | 2 | 
 | 2023-02-26 | 81 | 1 | 
 | 2023-02-25 | 75 | 1 | 
 | 2023-02-24 | 66 | - | 

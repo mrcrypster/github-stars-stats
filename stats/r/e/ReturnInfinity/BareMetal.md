@@ -1,8 +1,8 @@
 # ReturnInfinity/BareMetal - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 431
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 431 | 80 | 
 | 2023-02-26 | 431 | 79 | 
 | 2023-02-25 | 432 | 79 | 
 | 2023-02-24 | 432 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 431 | 78 | 
 | 2023-01-30 | 431 | 78 | 
 | 2023-01-29 | 432 | 78 | 
-| 2023-01-28 | 432 | 78 | 
 

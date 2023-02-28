@@ -1,6 +1,6 @@
 # ghdl/ghdl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1846 | 310 | 
 | 2023-02-26 | 1846 | 310 | 
 | 2023-02-25 | 1844 | 310 | 
 | 2023-02-24 | 1844 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1814 | 309 | 
 | 2023-01-30 | 1813 | 309 | 
 | 2023-01-29 | 1813 | 309 | 
-| 2023-01-28 | 1813 | 309 | 
 

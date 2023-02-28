@@ -1,10 +1,10 @@
 # ehmicky/modern-errors - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 1220
+★ Stars: 1221
 
 [Open repository](https://github.com/ehmicky/modern-errors)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1221 | 11 | 
 | 2023-02-26 | 1220 | 11 | 
 | 2023-02-25 | 1219 | 11 | 
 | 2023-02-24 | 1215 | 11 | 

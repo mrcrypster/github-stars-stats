@@ -1,10 +1,10 @@
 # acidicoala/Koalageddon2 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 95
+★ Stars: 97
 
 [Open repository](https://github.com/acidicoala/Koalageddon2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 97 | 11 | 
 | 2023-02-25 | 95 | 11 | 
 | 2023-02-24 | 95 | 10 | 
 | 2023-02-23 | 93 | 10 | 

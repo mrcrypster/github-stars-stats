@@ -1,6 +1,6 @@
 # codic12/worm - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 644 | 26 | 
 | 2023-02-26 | 644 | 26 | 
 | 2023-02-24 | 643 | 27 | 
 | 2023-02-23 | 643 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 638 | 26 | 
 | 2023-01-30 | 637 | 26 | 
 | 2023-01-29 | 636 | 26 | 
-| 2023-01-28 | 636 | 26 | 
 

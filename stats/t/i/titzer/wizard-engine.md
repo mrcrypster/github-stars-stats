@@ -1,6 +1,6 @@
 # titzer/wizard-engine - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 171 | 10 | 
 | 2023-02-26 | 171 | 10 | 
 | 2023-02-25 | 171 | 10 | 
 | 2023-02-24 | 171 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 164 | 9 | 
 | 2023-01-30 | 163 | 9 | 
 | 2023-01-29 | 163 | 9 | 
-| 2023-01-28 | 163 | 9 | 
 

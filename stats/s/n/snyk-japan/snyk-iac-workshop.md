@@ -1,8 +1,8 @@
 # snyk-japan/snyk-iac-workshop - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | - | 38 | 
 | 2023-02-26 | - | 37 | 
 | 2023-02-24 | - | 37 | 
 | 2023-02-23 | - | 37 | 

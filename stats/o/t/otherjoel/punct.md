@@ -1,8 +1,8 @@
 # otherjoel/punct - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 30 | 4 | 
 | 2023-02-26 | 30 | 3 | 
 | 2023-02-25 | 30 | 3 | 
 | 2023-02-24 | 30 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 29 | 3 | 
 | 2023-01-30 | 29 | 3 | 
 | 2023-01-29 | 29 | 3 | 
-| 2023-01-28 | 29 | 3 | 
 

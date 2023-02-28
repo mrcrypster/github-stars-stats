@@ -1,10 +1,10 @@
 # mhinz/vim-startify - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 179
 
-★ Stars: 5003
+★ Stars: 5006
 
 [Open repository](https://github.com/mhinz/vim-startify)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5006 | 179 | 
 | 2023-02-26 | 5003 | 179 | 
 | 2023-02-25 | 5002 | 179 | 
 | 2023-02-23 | 5003 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 4986 | 180 | 
 | 2023-01-30 | 4984 | 180 | 
 | 2023-01-29 | 4983 | 180 | 
-| 2023-01-28 | 4983 | 180 | 
 

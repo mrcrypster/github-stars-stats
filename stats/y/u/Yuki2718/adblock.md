@@ -1,6 +1,6 @@
 # Yuki2718/adblock - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 119 | 10 | 
 | 2023-02-26 | 119 | 10 | 
 | 2023-02-25 | 119 | 10 | 
 | 2023-02-23 | 119 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 119 | 9 | 
 | 2023-01-31 | 119 | 9 | 
 | 2023-01-29 | 119 | 9 | 
-| 2023-01-28 | 119 | 9 | 
 

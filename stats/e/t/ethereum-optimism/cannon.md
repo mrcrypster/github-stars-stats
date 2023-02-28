@@ -1,10 +1,10 @@
 # ethereum-optimism/cannon - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 76
 
-★ Stars: 488
+★ Stars: 489
 
 [Open repository](https://github.com/ethereum-optimism/cannon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 489 | 76 | 
 | 2023-02-26 | 488 | 76 | 
 | 2023-02-25 | 485 | 76 | 
 | 2023-02-24 | 485 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 467 | 71 | 
 | 2023-01-30 | 467 | 71 | 
 | 2023-01-29 | 467 | 71 | 
-| 2023-01-28 | 466 | 71 | 
 

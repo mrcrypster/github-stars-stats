@@ -1,6 +1,6 @@
 # diasurgical/devilutionX - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 658
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6251 | 658 | 
 | 2023-02-26 | 6251 | 658 | 
 | 2023-02-24 | 6246 | 659 | 
 | 2023-02-23 | 6243 | 659 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 6216 | 654 | 
 | 2023-01-30 | 6216 | 653 | 
 | 2023-01-29 | 6214 | 653 | 
-| 2023-01-28 | 6212 | 653 | 
 

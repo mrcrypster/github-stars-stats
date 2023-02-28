@@ -1,6 +1,6 @@
 # jamieowen/glsl-blend - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 881 | 112 | 
 | 2023-02-26 | 881 | 112 | 
 | 2023-02-24 | 881 | 112 | 
 | 2023-02-23 | 881 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 875 | 111 | 
 | 2023-01-31 | 875 | 111 | 
 | 2023-01-30 | 875 | 111 | 
-| 2023-01-28 | 874 | 111 | 
 

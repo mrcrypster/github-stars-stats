@@ -1,6 +1,6 @@
 # JetterMcTedder/AzureSQLDevOpsDemo - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3 | 12 | 
 | 2023-02-26 | 3 | 12 | 
 | 2023-02-25 | 3 | 12 | 
 | 2023-02-23 | 3 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 3 | 11 | 
 | 2023-01-31 | 3 | 11 | 
 | 2023-01-30 | 3 | 11 | 
-| 2023-01-28 | 3 | 11 | 
 

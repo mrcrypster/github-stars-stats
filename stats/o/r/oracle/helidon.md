@@ -1,10 +1,10 @@
 # oracle/helidon - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 522
 
-★ Stars: 2959
+★ Stars: 2958
 
 [Open repository](https://github.com/oracle/helidon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2958 | 522 | 
 | 2023-02-26 | 2959 | 522 | 
 | 2023-02-25 | 2958 | 522 | 
 | 2023-02-24 | 2955 | 522 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2932 | 521 | 
 | 2023-01-30 | 2930 | 520 | 
 | 2023-01-29 | 2930 | 520 | 
-| 2023-01-28 | 2930 | 519 | 
 

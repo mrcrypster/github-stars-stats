@@ -1,6 +1,6 @@
 # milgra/cljs-brawl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 47 | 1 | 
 | 2023-02-26 | 47 | 1 | 
 | 2023-02-25 | 47 | 1 | 
 | 2023-02-24 | 47 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 48 | 1 | 
 | 2023-01-30 | 48 | 1 | 
 | 2023-01-29 | 48 | 1 | 
-| 2023-01-28 | 48 | 1 | 
 

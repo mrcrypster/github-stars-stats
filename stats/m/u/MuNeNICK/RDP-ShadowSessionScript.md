@@ -1,6 +1,6 @@
 # MuNeNICK/RDP-ShadowSessionScript - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1 | 26 | 
 | 2023-02-26 | 1 | 26 | 
 | 2023-02-25 | 1 | 26 | 
 | 2023-02-23 | 1 | 26 | 

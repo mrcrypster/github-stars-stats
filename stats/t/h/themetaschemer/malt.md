@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 33
 
 [Open repository](https://github.com/themetaschemer/malt)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 30 | 2 | 
+| 2023-02-27 | 33 | 2 | 
 | 2023-02-26 | 30 | 2 | 
 | 2023-02-25 | 30 | 2 | 
 | 2023-02-24 | 25 | 2 | 

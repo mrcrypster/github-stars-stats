@@ -1,6 +1,6 @@
 # LineageOS/android - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1405
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3095 | 1405 | 
 | 2023-02-26 | 3095 | 1405 | 
 | 2023-02-25 | 3094 | 1404 | 
 | 2023-02-24 | 3095 | 1403 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 3064 | 1387 | 
 | 2023-01-30 | 3063 | 1387 | 
 | 2023-01-29 | 3063 | 1385 | 
-| 2023-01-28 | 3062 | 1385 | 
 

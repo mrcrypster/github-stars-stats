@@ -1,6 +1,6 @@
 # rbarongr/GodotFirstPersonController - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 43 | 1 | 
 | 2023-02-26 | 43 | 1 | 
 | 2023-02-25 | 42 | 1 | 
 | 2023-02-24 | 42 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 40 | 1 | 
 | 2023-01-31 | 40 | 1 | 
 | 2023-01-30 | 40 | 1 | 
-| 2023-01-29 | 40 | 1 | 
 

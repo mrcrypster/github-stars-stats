@@ -1,6 +1,6 @@
 # mratsim/constantine - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 150 | 14 | 
 | 2023-02-25 | 150 | 14 | 
 | 2023-02-24 | 150 | 14 | 
 | 2023-02-23 | 148 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 144 | 14 | 
 | 2023-01-30 | 144 | 14 | 
 | 2023-01-29 | 144 | 14 | 
-| 2023-01-28 | 143 | 14 | 
 

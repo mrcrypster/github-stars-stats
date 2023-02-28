@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 425
 
-★ Stars: 3883
+★ Stars: 3886
 
 [Open repository](https://github.com/mozilla/sccache)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 3883 | 425 | 
+| 2023-02-27 | 3886 | 425 | 
 | 2023-02-26 | 3882 | 425 | 
 | 2023-02-25 | 3870 | 425 | 
 | 2023-02-24 | 3822 | 424 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-01-31 | 3700 | 417 | 
 | 2023-01-30 | 3689 | 416 | 
 | 2023-01-29 | 3683 | 416 | 
-| 2023-01-28 | 3675 | 416 | 
 

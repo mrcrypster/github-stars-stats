@@ -1,6 +1,6 @@
 # timescale/timescaledb-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 241 | 120 | 
 | 2023-02-26 | 241 | 120 | 
 | 2023-02-24 | 241 | 120 | 
 | 2023-02-23 | 241 | 120 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 240 | 119 | 
 | 2023-01-31 | 240 | 119 | 
 | 2023-01-30 | 240 | 119 | 
-| 2023-01-29 | 240 | 119 | 
 

@@ -1,10 +1,10 @@
 # mengchaoheng/SCUT_thesis - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 36
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/mengchaoheng/SCUT_thesis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 119 | 36 | 
 | 2023-02-26 | 118 | 36 | 
 | 2023-02-25 | 118 | 36 | 
 | 2023-02-24 | 117 | 35 | 

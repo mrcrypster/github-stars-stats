@@ -1,6 +1,6 @@
 # vildanbina/livewire-wizard - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 239 | 22 | 
 | 2023-02-26 | 239 | 22 | 
 | 2023-02-25 | 238 | 22 | 
 | 2023-02-24 | 238 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 234 | 21 | 
 | 2023-01-30 | 234 | 21 | 
 | 2023-01-29 | 234 | 21 | 
-| 2023-01-28 | 234 | 21 | 
 

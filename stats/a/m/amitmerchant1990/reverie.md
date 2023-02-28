@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 563
 
-★ Stars: 688
+★ Stars: 690
 
 [Open repository](https://github.com/amitmerchant1990/reverie)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 688 | 563 | 
+| 2023-02-27 | 690 | 563 | 
 | 2023-02-25 | 689 | 561 | 
 | 2023-02-24 | 688 | 563 | 
 | 2023-02-23 | 687 | 563 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-01-31 | 675 | 553 | 
 | 2023-01-30 | 673 | 552 | 
 | 2023-01-29 | 673 | 551 | 
-| 2023-01-28 | 672 | 549 | 
 

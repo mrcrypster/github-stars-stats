@@ -1,10 +1,10 @@
 # hausec/PowerZure - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 133
 
-★ Stars: 853
+★ Stars: 854
 
 [Open repository](https://github.com/hausec/PowerZure)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 854 | 133 | 
 | 2023-02-26 | 853 | 133 | 
 | 2023-02-25 | 852 | 133 | 
 | 2023-02-24 | 851 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 838 | 133 | 
 | 2023-01-30 | 838 | 133 | 
 | 2023-01-29 | 838 | 133 | 
-| 2023-01-28 | 838 | 133 | 
 

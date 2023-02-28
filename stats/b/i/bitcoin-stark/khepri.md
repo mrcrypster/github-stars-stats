@@ -1,6 +1,6 @@
 # bitcoin-stark/khepri - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 54 | 16 | 
 | 2023-02-26 | 54 | 16 | 
 | 2023-02-25 | 54 | 16 | 
 | 2023-02-24 | 54 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 53 | 16 | 
 | 2023-01-31 | 53 | 16 | 
 | 2023-01-30 | 53 | 16 | 
-| 2023-01-29 | 53 | 16 | 
 

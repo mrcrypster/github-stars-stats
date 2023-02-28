@@ -1,10 +1,10 @@
 # malgamves/CommunityWriterPrograms - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 499
 
-★ Stars: 2943
+★ Stars: 2947
 
 [Open repository](https://github.com/malgamves/CommunityWriterPrograms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2947 | 499 | 
 | 2023-02-26 | 2943 | 499 | 
 | 2023-02-25 | 2940 | 498 | 
 | 2023-02-24 | 2936 | 499 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 2777 | 474 | 
 | 2023-01-31 | 2772 | 475 | 
 | 2023-01-30 | 2770 | 473 | 
-| 2023-01-28 | 2753 | 470 | 
 

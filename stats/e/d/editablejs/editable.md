@@ -1,10 +1,10 @@
 # editablejs/editable - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 44
 
-★ Stars: 622
+★ Stars: 630
 
 [Open repository](https://github.com/editablejs/editable)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 630 | 44 | 
 | 2023-02-26 | 622 | 44 | 
 | 2023-02-25 | 622 | 44 | 
 | 2023-02-24 | 622 | 44 | 

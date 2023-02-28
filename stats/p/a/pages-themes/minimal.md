@@ -1,8 +1,8 @@
 # pages-themes/minimal - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 4432
+☋ Forks: 4438
 
 ★ Stars: 1155
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1155 | 4438 | 
 | 2023-02-26 | 1155 | 4432 | 
 | 2023-02-25 | 1156 | 4426 | 
 | 2023-02-24 | 1155 | 4425 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1140 | 4363 | 
 | 2023-01-30 | 1140 | 4362 | 
 | 2023-01-29 | 1139 | 4356 | 
-| 2023-01-28 | 1139 | 4339 | 
 

@@ -1,6 +1,6 @@
 # JohnSnowLabs/spark-nlp - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 639
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3110 | 639 | 
 | 2023-02-26 | 3110 | 639 | 
 | 2023-02-25 | 3109 | 639 | 
 | 2023-02-24 | 3109 | 639 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 3072 | 632 | 
 | 2023-01-30 | 3072 | 630 | 
 | 2023-01-29 | 3069 | 630 | 
-| 2023-01-28 | 3068 | 630 | 
 

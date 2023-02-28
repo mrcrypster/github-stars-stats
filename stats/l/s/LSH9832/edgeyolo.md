@@ -1,10 +1,10 @@
 # LSH9832/edgeyolo - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 24
 
-★ Stars: 161
+★ Stars: 167
 
 [Open repository](https://github.com/LSH9832/edgeyolo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 167 | 24 | 
 | 2023-02-26 | 161 | 24 | 
 | 2023-02-25 | 161 | 24 | 
 | 2023-02-24 | 159 | 24 | 

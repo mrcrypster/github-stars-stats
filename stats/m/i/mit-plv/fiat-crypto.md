@@ -1,10 +1,10 @@
 # mit-plv/fiat-crypto - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 145
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/mit-plv/fiat-crypto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 546 | 145 | 
 | 2023-02-26 | 545 | 145 | 
 | 2023-02-25 | 545 | 145 | 
 | 2023-02-24 | 544 | 145 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 540 | 145 | 
 | 2023-01-30 | 540 | 145 | 
 | 2023-01-29 | 540 | 145 | 
-| 2023-01-28 | 540 | 145 | 
 

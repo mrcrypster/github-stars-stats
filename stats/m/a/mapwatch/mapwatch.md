@@ -1,10 +1,10 @@
 # mapwatch/mapwatch - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/mapwatch/mapwatch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 87 | 11 | 
 | 2023-02-26 | 86 | 11 | 
 | 2023-02-25 | 86 | 11 | 
 | 2023-02-24 | 86 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 84 | 11 | 
 | 2023-01-30 | 84 | 11 | 
 | 2023-01-29 | 84 | 11 | 
-| 2023-01-28 | 84 | 11 | 
 

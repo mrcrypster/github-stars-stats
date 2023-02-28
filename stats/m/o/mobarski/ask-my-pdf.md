@@ -1,10 +1,10 @@
 # mobarski/ask-my-pdf - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 106
+★ Stars: 109
 
 [Open repository](https://github.com/mobarski/ask-my-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 109 | 24 | 
 | 2023-02-26 | 106 | 23 | 
 | 2023-02-25 | 96 | 24 | 
 | 2023-02-24 | 90 | 23 | 

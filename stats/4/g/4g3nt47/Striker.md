@@ -1,10 +1,10 @@
 # 4g3nt47/Striker - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 156
+★ Stars: 159
 
 [Open repository](https://github.com/4g3nt47/Striker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 159 | 18 | 
 | 2023-02-26 | 156 | 17 | 
 | 2023-02-25 | 156 | 17 | 
 | 2023-02-24 | 156 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 154 | 17 | 
 | 2023-01-31 | 154 | 17 | 
 | 2023-01-30 | 154 | 17 | 
-| 2023-01-28 | 154 | 17 | 
 

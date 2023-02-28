@@ -1,6 +1,6 @@
 # ccie18643/PyTCP - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 279 | 31 | 
 | 2023-02-26 | 279 | 31 | 
 | 2023-02-25 | 279 | 31 | 
 | 2023-02-24 | 279 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 274 | 30 | 
 | 2023-01-30 | 274 | 30 | 
 | 2023-01-29 | 274 | 30 | 
-| 2023-01-28 | 274 | 30 | 
 

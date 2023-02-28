@@ -1,10 +1,10 @@
 # cyberark/PipeViewer - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/cyberark/PipeViewer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 341 | 17 | 
 | 2023-02-25 | 340 | 17 | 
 | 2023-02-24 | 340 | 17 | 
 | 2023-02-23 | 339 | 17 | 

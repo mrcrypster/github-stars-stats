@@ -1,8 +1,8 @@
 # JetBrains-Research/Lama - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 60 | 21 | 
 | 2023-02-26 | 60 | 20 | 
 | 2023-02-25 | 60 | 20 | 
 | 2023-02-24 | 60 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 55 | 17 | 
 | 2023-01-30 | 55 | 17 | 
 | 2023-01-29 | 55 | 17 | 
-| 2023-01-28 | 55 | 17 | 
 

@@ -1,10 +1,10 @@
 # wilsomwong/Asus-TUF-FX504GE-Hackintosh - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 10 | 6 | 
 | 2023-02-26 | 11 | 6 | 
 | 2023-02-25 | 11 | 6 | 
 | 2023-02-24 | 11 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 11 | 6 | 
 | 2023-01-30 | 11 | 6 | 
 | 2023-01-29 | 11 | 6 | 
-| 2023-01-28 | 11 | 6 | 
 

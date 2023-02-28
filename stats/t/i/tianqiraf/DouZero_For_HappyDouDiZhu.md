@@ -1,10 +1,10 @@
 # tianqiraf/DouZero_For_HappyDouDiZhu - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 382
 
-★ Stars: 1568
+★ Stars: 1571
 
 [Open repository](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1571 | 382 | 
 | 2023-02-26 | 1568 | 382 | 
 | 2023-02-25 | 1568 | 382 | 
 | 2023-02-24 | 1568 | 381 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1540 | 365 | 
 | 2023-01-30 | 1539 | 365 | 
 | 2023-01-29 | 1533 | 366 | 
-| 2023-01-28 | 1530 | 366 | 
 

@@ -1,10 +1,10 @@
 # SkalskiP/sport - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/SkalskiP/sport)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 175 | 9 | 
 | 2023-02-26 | 174 | 9 | 
 | 2023-02-25 | 174 | 9 | 
 | 2023-02-24 | 172 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 150 | 6 | 
 | 2023-01-30 | 150 | 6 | 
 | 2023-01-29 | 149 | 6 | 
-| 2023-01-28 | 145 | 6 | 
 

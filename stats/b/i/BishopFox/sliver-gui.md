@@ -1,6 +1,6 @@
 # BishopFox/sliver-gui - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 227 | 19 | 
 | 2023-02-26 | 227 | 19 | 
 | 2023-02-25 | 226 | 19 | 
 | 2023-02-24 | 226 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 222 | 19 | 
 | 2023-01-30 | 222 | 19 | 
 | 2023-01-29 | 222 | 19 | 
-| 2023-01-28 | 222 | 18 | 
 

@@ -1,6 +1,6 @@
 # mcfrank/lot-language-learning-2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 13 | 17 | 
 | 2023-02-25 | 13 | 17 | 
 | 2023-02-24 | 12 | 17 | 
 | 2023-02-23 | 12 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-02-01 | 12 | 17 | 
 | 2023-01-30 | 12 | 17 | 
 | 2023-01-29 | 12 | 17 | 
-| 2023-01-28 | 12 | 17 | 
 

@@ -1,6 +1,6 @@
 # teamcapybara/capybara - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1431
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 9780 | 1431 | 
 | 2023-02-26 | 9780 | 1431 | 
 | 2023-02-25 | 9781 | 1431 | 
 | 2023-02-24 | 9784 | 1431 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 9758 | 1428 | 
 | 2023-01-30 | 9758 | 1429 | 
 | 2023-01-29 | 9758 | 1429 | 
-| 2023-01-28 | 9759 | 1429 | 
 

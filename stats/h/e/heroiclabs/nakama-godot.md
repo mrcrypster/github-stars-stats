@@ -1,10 +1,10 @@
 # heroiclabs/nakama-godot - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 51
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/heroiclabs/nakama-godot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 408 | 51 | 
 | 2023-02-26 | 407 | 51 | 
 | 2023-02-25 | 407 | 51 | 
 | 2023-02-24 | 407 | 51 | 

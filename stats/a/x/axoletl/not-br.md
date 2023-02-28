@@ -1,10 +1,10 @@
 # axoletl/not-br - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 23
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/axoletl/not-br)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 197 | 23 | 
 | 2023-02-26 | 196 | 23 | 
 | 2023-02-24 | 196 | 23 | 
 | 2023-02-23 | 197 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 196 | 23 | 
 | 2023-01-30 | 196 | 23 | 
 | 2023-01-29 | 196 | 23 | 
-| 2023-01-28 | 196 | 23 | 
 

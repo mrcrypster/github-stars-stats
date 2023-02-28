@@ -1,8 +1,8 @@
 # xuhongv/StudyInEsp8266 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 419
+☋ Forks: 420
 
 ★ Stars: 647
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 647 | 420 | 
 | 2023-02-26 | 647 | 419 | 
 | 2023-02-25 | 647 | 419 | 
 | 2023-02-24 | 646 | 420 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 644 | 420 | 
 | 2023-01-30 | 644 | 419 | 
 | 2023-01-29 | 643 | 419 | 
-| 2023-01-28 | 643 | 419 | 
 

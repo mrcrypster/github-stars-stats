@@ -1,8 +1,8 @@
 # google-developer-training/android-basics-kotlin-lemonade-app - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 242
+☋ Forks: 243
 
 ★ Stars: 88
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 88 | 243 | 
 | 2023-02-26 | 88 | 242 | 
 | 2023-02-25 | 88 | 242 | 
 | 2023-02-24 | 88 | 242 | 

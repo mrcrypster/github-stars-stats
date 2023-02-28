@@ -1,6 +1,6 @@
 # 2KAbhishek/Winfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 29 | 1 | 
 | 2023-02-25 | 29 | 1 | 
 | 2023-02-24 | 27 | 1 | 
 | 2023-02-23 | 26 | 1 | 

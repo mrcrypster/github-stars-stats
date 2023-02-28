@@ -1,10 +1,10 @@
 # pelegs/maths_book - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 21
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/pelegs/maths_book)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 153 | 21 | 
 | 2023-02-26 | 152 | 21 | 
 | 2023-02-24 | 152 | 21 | 
 | 2023-02-23 | 152 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 151 | 21 | 
 | 2023-01-31 | 152 | 21 | 
 | 2023-01-30 | 151 | 21 | 
-| 2023-01-29 | 151 | 21 | 
 

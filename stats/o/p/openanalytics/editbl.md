@@ -1,6 +1,6 @@
 # openanalytics/editbl - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 9 | - | 
 | 2023-02-25 | 9 | - | 
 | 2023-02-24 | 9 | - | 
 | 2023-02-23 | 9 | - | 

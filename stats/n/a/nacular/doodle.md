@@ -1,6 +1,6 @@
 # nacular/doodle - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 432 | 17 | 
 | 2023-02-26 | 432 | 17 | 
 | 2023-02-25 | 431 | 17 | 
 | 2023-02-24 | 431 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 425 | 17 | 
 | 2023-01-30 | 425 | 17 | 
 | 2023-01-29 | 425 | 17 | 
-| 2023-01-28 | 425 | 17 | 
 

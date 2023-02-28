@@ -1,10 +1,10 @@
 # me115/linuxtools_rst - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1409
 
-★ Stars: 5376
+★ Stars: 5378
 
 [Open repository](https://github.com/me115/linuxtools_rst)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5378 | 1409 | 
 | 2023-02-26 | 5376 | 1409 | 
 | 2023-02-24 | 5376 | 1409 | 
 | 2023-02-23 | 5371 | 1410 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 5349 | 1410 | 
 | 2023-01-31 | 5349 | 1409 | 
 | 2023-01-30 | 5348 | 1409 | 
-| 2023-01-28 | 5345 | 1409 | 
 

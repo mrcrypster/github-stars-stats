@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 81
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/XMLTV/xmltv)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 189 | 81 | 
+| 2023-02-27 | 190 | 81 | 
 | 2023-02-26 | 189 | 81 | 
 | 2023-02-25 | 189 | 81 | 
 | 2023-02-24 | 188 | 81 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-01-31 | 185 | 82 | 
 | 2023-01-30 | 185 | 82 | 
 | 2023-01-29 | 184 | 82 | 
-| 2023-01-28 | 184 | 83 | 
 

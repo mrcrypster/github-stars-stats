@@ -1,10 +1,10 @@
 # maaslalani/nap - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 22
 
-★ Stars: 989
+★ Stars: 993
 
 [Open repository](https://github.com/maaslalani/nap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 993 | 22 | 
 | 2023-02-26 | 989 | 22 | 
 | 2023-02-25 | 988 | 22 | 
 | 2023-02-24 | 988 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 945 | 20 | 
 | 2023-01-30 | 943 | 20 | 
 | 2023-01-29 | 938 | 20 | 
-| 2023-01-28 | 934 | 20 | 
 

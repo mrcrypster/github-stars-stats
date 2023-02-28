@@ -1,10 +1,10 @@
 # jonasmerlin/astro-seo - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 29
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/jonasmerlin/astro-seo)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 378 | 29 | 
 | 2023-02-26 | 377 | 29 | 
 | 2023-02-25 | 376 | 29 | 
 | 2023-02-24 | 374 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 340 | 24 | 
 | 2023-01-30 | 340 | 24 | 
 | 2023-01-29 | 335 | 24 | 
-| 2023-01-28 | 334 | 24 | 
 

@@ -1,8 +1,8 @@
 # cloudposse/terraform-aws-ecs-container-definition - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 224
+☋ Forks: 225
 
 ★ Stars: 301
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 301 | 225 | 
 | 2023-02-26 | 301 | 224 | 
 | 2023-02-25 | 301 | 224 | 
 | 2023-02-24 | 301 | 224 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 300 | 217 | 
 | 2023-01-30 | 300 | 217 | 
 | 2023-01-29 | 300 | 217 | 
-| 2023-01-28 | 300 | 217 | 
 

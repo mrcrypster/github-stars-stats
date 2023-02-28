@@ -1,6 +1,6 @@
 # edoliberty/algorithms-in-data-mining - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 23 | 1 | 
 | 2023-02-26 | 23 | 1 | 
 | 2023-02-25 | 23 | 1 | 
 | 2023-02-24 | 23 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 23 | 1 | 
 | 2023-01-30 | 23 | 1 | 
 | 2023-01-29 | 23 | 1 | 
-| 2023-01-28 | 23 | 1 | 
 

@@ -1,10 +1,10 @@
 # saharan/GraphSynth - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/saharan/GraphSynth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 132 | 4 | 
 | 2023-02-26 | 131 | 4 | 
 | 2023-02-25 | 131 | 4 | 
 | 2023-02-24 | 131 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 130 | 4 | 
 | 2023-01-30 | 130 | 4 | 
 | 2023-01-29 | 129 | 4 | 
-| 2023-01-28 | 129 | 4 | 
 

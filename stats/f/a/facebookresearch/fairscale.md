@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 207
 
-★ Stars: 2029
+★ Stars: 2034
 
 [Open repository](https://github.com/facebookresearch/fairscale)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 2029 | 207 | 
+| 2023-02-27 | 2034 | 207 | 
 | 2023-02-26 | 2027 | 207 | 
 

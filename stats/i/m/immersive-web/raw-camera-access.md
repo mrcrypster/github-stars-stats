@@ -1,10 +1,10 @@
 # immersive-web/raw-camera-access - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/immersive-web/raw-camera-access)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 33 | 11 | 
 | 2023-02-26 | 32 | 11 | 
 | 2023-02-25 | 32 | 11 | 
 | 2023-02-24 | 32 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 31 | 11 | 
 | 2023-01-30 | 31 | 10 | 
 | 2023-01-29 | 31 | 10 | 
-| 2023-01-28 | 31 | 10 | 
 

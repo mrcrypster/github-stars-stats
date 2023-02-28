@@ -1,10 +1,10 @@
 # MLNLP-World/NLP-Course-Chinese - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 16
 
-★ Stars: 133
+★ Stars: 132
 
 [Open repository](https://github.com/MLNLP-World/NLP-Course-Chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 132 | 16 | 
 | 2023-02-26 | 133 | 16 | 
 | 2023-02-25 | 133 | 16 | 
 | 2023-02-24 | 132 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 117 | 14 | 
 | 2023-01-30 | 117 | 14 | 
 | 2023-01-29 | 117 | 13 | 
-| 2023-01-28 | 116 | 13 | 
 

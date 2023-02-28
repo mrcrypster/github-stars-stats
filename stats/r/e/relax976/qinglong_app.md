@@ -1,10 +1,10 @@
 # relax976/qinglong_app - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
-★ Stars: 184
+★ Stars: 188
 
 [Open repository](https://github.com/relax976/qinglong_app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 188 | 15 | 
 | 2023-02-26 | 184 | 15 | 
 | 2023-02-25 | 182 | 14 | 
 | 2023-02-24 | 178 | 14 | 

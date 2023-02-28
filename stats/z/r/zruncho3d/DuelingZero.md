@@ -1,6 +1,6 @@
 # zruncho3d/DuelingZero - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 58 | 4 | 
 | 2023-02-26 | 58 | 4 | 
 | 2023-02-25 | 58 | 4 | 
 | 2023-02-23 | 58 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 49 | 3 | 
 | 2023-01-30 | 48 | 3 | 
 | 2023-01-29 | 48 | 3 | 
-| 2023-01-28 | 48 | 3 | 
 

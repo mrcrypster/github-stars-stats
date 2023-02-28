@@ -1,6 +1,6 @@
 # 0xToshii/mr-steal-yo-crypto-ctf-foundry - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 85 | 19 | 
 | 2023-02-26 | 85 | 19 | 
 | 2023-02-25 | 85 | 19 | 
 | 2023-02-24 | 84 | 17 | 

@@ -1,10 +1,10 @@
 # hmartiro/riffusion-app - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 118
 
-★ Stars: 2133
+★ Stars: 2135
 
 [Open repository](https://github.com/hmartiro/riffusion-app)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2135 | 118 | 
 | 2023-02-26 | 2133 | 118 | 
 | 2023-02-25 | 2132 | 117 | 
 | 2023-02-24 | 2131 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2031 | 112 | 
 | 2023-01-30 | 2029 | 112 | 
 | 2023-01-29 | 2019 | 110 | 
-| 2023-01-28 | 2004 | 110 | 
 

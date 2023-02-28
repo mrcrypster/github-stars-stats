@@ -1,10 +1,10 @@
 # squint-cljs/cherry - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
-★ Stars: 269
+★ Stars: 268
 
 [Open repository](https://github.com/squint-cljs/cherry)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 268 | 15 | 
 | 2023-02-26 | 269 | 15 | 
 | 2023-02-25 | 269 | 15 | 
 | 2023-02-24 | 269 | 15 | 

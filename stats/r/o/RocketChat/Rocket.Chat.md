@@ -1,10 +1,10 @@
 # RocketChat/Rocket.Chat - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 8201
+☋ Forks: 8207
 
-★ Stars: 34859
+★ Stars: 34866
 
 [Open repository](https://github.com/RocketChat/Rocket.Chat)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 34866 | 8207 | 
 | 2023-02-26 | 34859 | 8201 | 
 | 2023-02-25 | 34848 | 8185 | 
 | 2023-02-24 | 34841 | 8174 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 34677 | 8060 | 
 | 2023-01-30 | 34658 | 8051 | 
 | 2023-01-29 | 34655 | 8051 | 
-| 2023-01-28 | 34641 | 8035 | 
 

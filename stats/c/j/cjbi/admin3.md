@@ -1,10 +1,10 @@
 # cjbi/admin3 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 341
+☋ Forks: 342
 
-★ Stars: 896
+★ Stars: 899
 
 [Open repository](https://github.com/cjbi/admin3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 899 | 342 | 
 | 2023-02-26 | 896 | 341 | 
 | 2023-02-24 | 896 | 341 | 
 | 2023-02-23 | 895 | 341 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 856 | 332 | 
 | 2023-01-30 | 857 | 332 | 
 | 2023-01-29 | 855 | 331 | 
-| 2023-01-28 | 854 | 331 | 
 

@@ -1,10 +1,10 @@
 # enpeizhao/CVprojects - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 480
 
-★ Stars: 1132
+★ Stars: 1133
 
 [Open repository](https://github.com/enpeizhao/CVprojects)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1133 | 480 | 
 | 2023-02-26 | 1132 | 480 | 
 | 2023-02-25 | 1131 | 480 | 
 | 2023-02-24 | 1130 | 480 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1100 | 465 | 
 | 2023-01-30 | 1100 | 466 | 
 | 2023-01-29 | 1101 | 465 | 
-| 2023-01-28 | 1099 | 465 | 
 

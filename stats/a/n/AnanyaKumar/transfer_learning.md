@@ -1,6 +1,6 @@
 # AnanyaKumar/transfer_learning - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 116 | 10 | 
 | 2023-02-26 | 116 | 10 | 
 | 2023-02-25 | 115 | 10 | 
 | 2023-02-24 | 115 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 108 | 10 | 
 | 2023-01-30 | 108 | 10 | 
 | 2023-01-29 | 108 | 10 | 
-| 2023-01-28 | 108 | 10 | 
 

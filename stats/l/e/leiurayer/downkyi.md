@@ -1,10 +1,10 @@
 # leiurayer/downkyi - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 1395
+☋ Forks: 1401
 
-★ Stars: 11158
+★ Stars: 11190
 
 [Open repository](https://github.com/leiurayer/downkyi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 11190 | 1401 | 
 | 2023-02-26 | 11158 | 1395 | 
 | 2023-02-25 | 11126 | 1392 | 
 | 2023-02-24 | 11098 | 1391 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 10453 | 1323 | 
 | 2023-01-30 | 10399 | 1322 | 
 | 2023-01-29 | 10337 | 1316 | 
-| 2023-01-28 | 10248 | 1311 | 
 

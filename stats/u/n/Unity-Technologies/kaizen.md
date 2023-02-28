@@ -1,6 +1,6 @@
 # Unity-Technologies/kaizen - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 21 | 16 | 
+| 2023-02-27 | 21 | 16 | 
 | 2023-02-26 | 21 | 16 | 
 | 2023-02-25 | 21 | 16 | 
 | 2023-02-24 | 21 | 16 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 22 | 16 | 
 | 2023-01-30 | 22 | 16 | 
 | 2023-01-29 | 22 | 16 | 
-| 2023-01-28 | 22 | 16 | 
 

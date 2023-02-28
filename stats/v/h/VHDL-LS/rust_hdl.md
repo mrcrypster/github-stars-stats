@@ -1,8 +1,8 @@
 # VHDL-LS/rust_hdl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 199
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 199 | 40 | 
 | 2023-02-26 | 199 | 39 | 
 | 2023-02-25 | 199 | 39 | 
 | 2023-02-24 | 199 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 181 | 38 | 
 | 2023-01-30 | 181 | 38 | 
 | 2023-01-29 | 180 | 38 | 
-| 2023-01-28 | 180 | 38 | 
 

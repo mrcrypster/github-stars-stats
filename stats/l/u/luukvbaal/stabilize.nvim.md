@@ -1,6 +1,6 @@
 # luukvbaal/stabilize.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 331 | 3 | 
 | 2023-02-26 | 331 | 3 | 
 | 2023-02-25 | 331 | 3 | 
 | 2023-02-24 | 331 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 330 | 3 | 
 | 2023-01-30 | 330 | 3 | 
 | 2023-01-29 | 330 | 3 | 
-| 2023-01-28 | 330 | 3 | 
 

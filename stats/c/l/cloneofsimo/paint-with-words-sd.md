@@ -1,6 +1,6 @@
 # cloneofsimo/paint-with-words-sd - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 468 | 36 | 
 | 2023-02-26 | 468 | 36 | 
 | 2023-02-25 | 468 | 36 | 
 | 2023-02-24 | 466 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 436 | 32 | 
 | 2023-01-31 | 436 | 32 | 
 | 2023-01-30 | 433 | 31 | 
-| 2023-01-29 | 432 | 31 | 
 

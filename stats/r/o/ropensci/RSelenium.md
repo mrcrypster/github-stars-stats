@@ -1,6 +1,6 @@
 # ropensci/RSelenium - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 321 | 78 | 
 | 2023-02-26 | 321 | 78 | 
 | 2023-02-25 | 321 | 78 | 
 | 2023-02-24 | 321 | 78 | 

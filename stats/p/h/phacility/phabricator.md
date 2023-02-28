@@ -1,6 +1,6 @@
 # phacility/phabricator - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1684
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 12301 | 1684 | 
 | 2023-02-26 | 12301 | 1684 | 
 | 2023-02-24 | 12301 | 1683 | 
 | 2023-02-23 | 12300 | 1683 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 12306 | 1681 | 
 | 2023-01-31 | 12306 | 1681 | 
 | 2023-01-30 | 12305 | 1681 | 
-| 2023-01-29 | 12305 | 1681 | 
 

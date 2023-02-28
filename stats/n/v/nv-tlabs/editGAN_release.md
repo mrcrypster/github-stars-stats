@@ -1,6 +1,6 @@
 # nv-tlabs/editGAN_release - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 571 | 82 | 
 | 2023-02-26 | 571 | 82 | 
 | 2023-02-25 | 571 | 82 | 
 | 2023-02-23 | 570 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 564 | 80 | 
 | 2023-01-31 | 564 | 80 | 
 | 2023-01-30 | 564 | 80 | 
-| 2023-01-29 | 564 | 80 | 
 

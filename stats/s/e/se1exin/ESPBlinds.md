@@ -1,6 +1,6 @@
 # se1exin/ESPBlinds - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 99 | 13 | 
 | 2023-02-26 | 99 | 13 | 
 | 2023-02-25 | 99 | 13 | 
 | 2023-02-24 | 99 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 97 | 13 | 
 | 2023-01-30 | 97 | 13 | 
 | 2023-01-29 | 97 | 13 | 
-| 2023-01-28 | 97 | 13 | 
 

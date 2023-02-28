@@ -1,10 +1,10 @@
 # emacscollective/borg - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 24
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/emacscollective/borg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 219 | 24 | 
 | 2023-02-26 | 218 | 24 | 
 | 2023-02-25 | 218 | 24 | 
 | 2023-02-24 | 218 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 216 | 24 | 
 | 2023-01-30 | 215 | 24 | 
 | 2023-01-29 | 215 | 24 | 
-| 2023-01-28 | 215 | 24 | 
 

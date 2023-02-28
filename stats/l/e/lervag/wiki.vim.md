@@ -1,10 +1,10 @@
 # lervag/wiki.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 57
+☋ Forks: 59
 
-★ Stars: 488
+★ Stars: 490
 
 [Open repository](https://github.com/lervag/wiki.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 490 | 59 | 
 | 2023-02-26 | 488 | 57 | 
 | 2023-02-25 | 488 | 57 | 
 | 2023-02-24 | 487 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 478 | 56 | 
 | 2023-01-30 | 476 | 56 | 
 | 2023-01-29 | 475 | 56 | 
-| 2023-01-28 | 475 | 56 | 
 

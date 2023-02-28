@@ -1,10 +1,10 @@
 # GStreamer/gstreamer - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 454
+☋ Forks: 455
 
-★ Stars: 1548
+★ Stars: 1550
 
 [Open repository](https://github.com/GStreamer/gstreamer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1550 | 455 | 
 | 2023-02-26 | 1548 | 454 | 
 | 2023-02-24 | 1549 | 454 | 
 | 2023-02-23 | 1547 | 453 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 1514 | 445 | 
 | 2023-01-31 | 1509 | 442 | 
 | 2023-01-30 | 1508 | 442 | 
-| 2023-01-29 | 1507 | 443 | 
 

@@ -1,6 +1,6 @@
 # thundergolfer/bazel-mypy-integration - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 85 | 37 | 
 | 2023-02-26 | 85 | 37 | 
 | 2023-02-24 | 85 | 37 | 
 | 2023-02-23 | 84 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 83 | 36 | 
 | 2023-01-31 | 83 | 36 | 
 | 2023-01-29 | 83 | 36 | 
-| 2023-01-28 | 83 | 36 | 
 

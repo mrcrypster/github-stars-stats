@@ -1,10 +1,10 @@
 # letsar/flutter_slidable - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 462
 
-★ Stars: 2360
+★ Stars: 2361
 
 [Open repository](https://github.com/letsar/flutter_slidable)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2361 | 462 | 
 | 2023-02-26 | 2360 | 462 | 
 | 2023-02-25 | 2359 | 462 | 
 | 2023-02-24 | 2358 | 462 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2341 | 450 | 
 | 2023-01-30 | 2341 | 450 | 
 | 2023-01-29 | 2341 | 449 | 
-| 2023-01-28 | 2340 | 449 | 
 

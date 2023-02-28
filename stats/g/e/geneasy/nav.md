@@ -1,6 +1,6 @@
 # geneasy/nav - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 27 | 17 | 
 | 2023-02-26 | 27 | 17 | 
 | 2023-02-24 | 27 | 16 | 
 | 2023-02-23 | 27 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 28 | 15 | 
 | 2023-01-30 | 28 | 15 | 
 | 2023-01-29 | 28 | 15 | 
-| 2023-01-28 | 28 | 15 | 
 

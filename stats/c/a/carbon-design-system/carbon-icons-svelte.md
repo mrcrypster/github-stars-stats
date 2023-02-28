@@ -1,10 +1,10 @@
 # carbon-design-system/carbon-icons-svelte - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 20
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/carbon-design-system/carbon-icons-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 329 | 20 | 
 | 2023-02-26 | 328 | 20 | 
 | 2023-02-25 | 328 | 20 | 
 | 2023-02-24 | 327 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 324 | 20 | 
 | 2023-01-30 | 324 | 20 | 
 | 2023-01-29 | 324 | 20 | 
-| 2023-01-28 | 324 | 20 | 
 

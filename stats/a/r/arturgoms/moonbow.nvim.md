@@ -1,10 +1,10 @@
 # arturgoms/moonbow.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/arturgoms/moonbow.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 51 | 2 | 
 | 2023-02-26 | 50 | 2 | 
 | 2023-02-25 | 50 | 2 | 
 | 2023-02-24 | 50 | 2 | 

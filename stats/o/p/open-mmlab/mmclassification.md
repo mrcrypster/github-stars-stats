@@ -1,10 +1,10 @@
 # open-mmlab/mmclassification - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 767
+☋ Forks: 768
 
-★ Stars: 1932
+★ Stars: 1937
 
 [Open repository](https://github.com/open-mmlab/mmclassification)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1937 | 768 | 
 | 2023-02-26 | 1932 | 767 | 
 | 2023-02-25 | 1932 | 767 | 
 | 2023-02-24 | 1930 | 764 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 1855 | 728 | 
 | 2023-01-31 | 1854 | 727 | 
 | 2023-01-30 | 1852 | 726 | 
-| 2023-01-28 | 1852 | 727 | 
 

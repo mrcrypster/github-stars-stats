@@ -1,6 +1,6 @@
 # rinh/fekit - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 235 | 108 | 
 | 2023-02-26 | 235 | 108 | 
 | 2023-02-25 | 235 | 108 | 
 | 2023-02-24 | 235 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 235 | 108 | 
 | 2023-01-30 | 236 | 108 | 
 | 2023-01-29 | 236 | 108 | 
-| 2023-01-28 | 236 | 108 | 
 

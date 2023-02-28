@@ -1,6 +1,6 @@
 # emacs-straight/undo-tree - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2 | - | 
 | 2023-02-26 | 2 | - | 
 | 2023-02-25 | 2 | - | 
 | 2023-02-24 | 2 | - | 

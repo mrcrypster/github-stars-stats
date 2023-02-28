@@ -1,10 +1,10 @@
 # valterc/ki2 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/valterc/ki2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 113 | 11 | 
 | 2023-02-26 | 112 | 11 | 
 | 2023-02-25 | 112 | 11 | 
 | 2023-02-24 | 110 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 106 | 11 | 
 | 2023-01-30 | 106 | 11 | 
 | 2023-01-29 | 106 | 11 | 
-| 2023-01-28 | 106 | 11 | 
 

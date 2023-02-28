@@ -1,10 +1,10 @@
 # awesome-NeRF/awesome-NeRF - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 441
 
-★ Stars: 4127
+★ Stars: 4131
 
 [Open repository](https://github.com/awesome-NeRF/awesome-NeRF)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4131 | 441 | 
 | 2023-02-26 | 4127 | 441 | 
 | 2023-02-25 | 4124 | 441 | 
 | 2023-02-24 | 4122 | 441 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 3991 | 434 | 
 | 2023-01-30 | 3987 | 434 | 
 | 2023-01-29 | 3982 | 434 | 
-| 2023-01-28 | 3974 | 434 | 
 

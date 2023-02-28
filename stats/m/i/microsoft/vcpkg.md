@@ -1,10 +1,10 @@
 # microsoft/vcpkg - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 5147
+☋ Forks: 5149
 
-★ Stars: 17937
+★ Stars: 17945
 
 [Open repository](https://github.com/microsoft/vcpkg)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 17945 | 5149 | 
 | 2023-02-26 | 17937 | 5147 | 
 | 2023-02-25 | 17928 | 5143 | 
 | 2023-02-24 | 17917 | 5142 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 17721 | 5068 | 
 | 2023-01-30 | 17711 | 5064 | 
 | 2023-01-29 | 17706 | 5064 | 
-| 2023-01-28 | 17697 | 5064 | 
 

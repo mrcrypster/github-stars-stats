@@ -1,10 +1,10 @@
 # django-cms/django-cms - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 2883
+☋ Forks: 2884
 
-★ Stars: 9146
+★ Stars: 9147
 
 [Open repository](https://github.com/django-cms/django-cms)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 9147 | 2884 | 
 | 2023-02-26 | 9146 | 2883 | 
 | 2023-02-25 | 9145 | 2883 | 
 | 2023-02-24 | 9143 | 2881 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 9099 | 2872 | 
 | 2023-01-30 | 9098 | 2871 | 
 | 2023-01-29 | 9095 | 2871 | 
-| 2023-01-28 | 9093 | 2870 | 
 

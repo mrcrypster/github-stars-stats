@@ -1,8 +1,8 @@
 # OpenZeppelin/nile-rs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 36 | 6 | 
 | 2023-02-26 | 36 | 5 | 
 | 2023-02-25 | 36 | 4 | 
 | 2023-02-24 | 36 | 4 | 

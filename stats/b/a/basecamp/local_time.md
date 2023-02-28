@@ -1,10 +1,10 @@
 # basecamp/local_time - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 120
 
-★ Stars: 1738
+★ Stars: 1739
 
 [Open repository](https://github.com/basecamp/local_time)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1739 | 120 | 
 | 2023-02-26 | 1738 | 120 | 
 | 2023-02-25 | 1738 | 120 | 
 | 2023-02-23 | 1738 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1730 | 118 | 
 | 2023-01-30 | 1730 | 118 | 
 | 2023-01-29 | 1730 | 118 | 
-| 2023-01-28 | 1730 | 118 | 
 

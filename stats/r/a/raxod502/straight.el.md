@@ -1,8 +1,8 @@
 # raxod502/straight.el - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 140
+☋ Forks: 141
 
 ★ Stars: 2346
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2346 | 141 | 
 | 2023-02-26 | 2346 | 140 | 
 | 2023-02-25 | 2341 | 140 | 
 | 2023-02-24 | 2341 | 140 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2325 | 142 | 
 | 2023-01-30 | 2323 | 142 | 
 | 2023-01-29 | 2322 | 142 | 
-| 2023-01-28 | 2321 | 142 | 
 

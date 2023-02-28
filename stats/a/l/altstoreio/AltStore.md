@@ -1,10 +1,10 @@
 # altstoreio/AltStore - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 630
+☋ Forks: 634
 
-★ Stars: 8613
+★ Stars: 8622
 
 [Open repository](https://github.com/altstoreio/AltStore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 8622 | 634 | 
 | 2023-02-26 | 8613 | 630 | 
 | 2023-02-25 | 8605 | 631 | 
 | 2023-02-24 | 8593 | 630 | 

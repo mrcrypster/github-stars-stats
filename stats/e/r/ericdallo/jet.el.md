@@ -1,10 +1,10 @@
 # ericdallo/jet.el - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/ericdallo/jet.el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 41 | 4 | 
 | 2023-02-26 | 40 | 4 | 
 | 2023-02-25 | 40 | 4 | 
 | 2023-02-24 | 40 | 4 | 

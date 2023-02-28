@@ -1,6 +1,6 @@
 # plfa/plfa.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1203 | 262 | 
 | 2023-02-26 | 1203 | 262 | 
 | 2023-02-25 | 1203 | 263 | 
 | 2023-02-24 | 1203 | 262 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1194 | 261 | 
 | 2023-01-30 | 1193 | 261 | 
 | 2023-01-29 | 1192 | 261 | 
-| 2023-01-28 | 1189 | 261 | 
 

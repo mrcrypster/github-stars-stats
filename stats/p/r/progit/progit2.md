@@ -1,6 +1,6 @@
 # progit/progit2 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1981
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5062 | 1981 | 
 | 2023-02-26 | 5062 | 1981 | 
 | 2023-02-25 | 5061 | 1981 | 
 | 2023-02-24 | 5060 | 1981 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 5024 | 1966 | 
 | 2023-01-31 | 5020 | 1966 | 
 | 2023-01-30 | 5020 | 1965 | 
-| 2023-01-28 | 5018 | 1962 | 
 

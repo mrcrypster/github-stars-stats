@@ -1,10 +1,10 @@
 # mrtazz/checkmake - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 44
 
-★ Stars: 862
+★ Stars: 863
 
 [Open repository](https://github.com/mrtazz/checkmake)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 863 | 44 | 
 | 2023-02-26 | 862 | 44 | 
 | 2023-02-25 | 862 | 44 | 
 | 2023-02-24 | 862 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 850 | 45 | 
 | 2023-01-30 | 849 | 45 | 
 | 2023-01-29 | 847 | 45 | 
-| 2023-01-28 | 847 | 45 | 
 

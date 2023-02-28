@@ -1,6 +1,6 @@
 # chshersh/dr-cabal - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 68 | 6 | 
 | 2023-02-26 | 68 | 6 | 
 | 2023-02-25 | 68 | 6 | 
 | 2023-02-24 | 68 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 68 | 5 | 
 | 2023-01-30 | 68 | 5 | 
 | 2023-01-29 | 68 | 5 | 
-| 2023-01-28 | 68 | 5 | 
 

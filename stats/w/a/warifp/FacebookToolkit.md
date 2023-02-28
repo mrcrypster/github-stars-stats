@@ -1,8 +1,8 @@
 # warifp/FacebookToolkit - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 232
+☋ Forks: 233
 
 ★ Stars: 605
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 605 | 233 | 
 | 2023-02-26 | 605 | 232 | 
 | 2023-02-25 | 605 | 232 | 
 | 2023-02-24 | 604 | 232 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 587 | 226 | 
 | 2023-01-30 | 587 | 226 | 
 | 2023-01-29 | 584 | 226 | 
-| 2023-01-28 | 584 | 226 | 
 

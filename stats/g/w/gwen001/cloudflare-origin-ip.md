@@ -1,6 +1,6 @@
 # gwen001/cloudflare-origin-ip - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 117 | 29 | 
 | 2023-02-26 | 117 | 29 | 
 | 2023-02-25 | 116 | 29 | 
 | 2023-02-24 | 115 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 108 | 28 | 
 | 2023-01-30 | 107 | 28 | 
 | 2023-01-29 | 107 | 28 | 
-| 2023-01-28 | 107 | 28 | 
 

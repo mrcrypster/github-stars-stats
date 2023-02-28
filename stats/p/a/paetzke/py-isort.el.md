@@ -1,6 +1,6 @@
 # paetzke/py-isort.el - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 84 | 16 | 
 | 2023-02-26 | 84 | 16 | 
 | 2023-02-24 | 84 | 16 | 
 | 2023-02-23 | 84 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 84 | 16 | 
 | 2023-01-31 | 84 | 16 | 
 | 2023-01-30 | 84 | 16 | 
-| 2023-01-28 | 84 | 16 | 
 

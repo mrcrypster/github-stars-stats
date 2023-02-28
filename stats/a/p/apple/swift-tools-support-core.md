@@ -1,6 +1,6 @@
 # apple/swift-tools-support-core - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 353 | 122 | 
 | 2023-02-26 | 353 | 122 | 
 | 2023-02-25 | 353 | 120 | 
 | 2023-02-24 | 353 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 351 | 119 | 
 | 2023-01-30 | 351 | 119 | 
 | 2023-01-29 | 351 | 119 | 
-| 2023-01-28 | 351 | 119 | 
 

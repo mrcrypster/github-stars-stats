@@ -1,8 +1,8 @@
 # stablecog/stablecog - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 17
+☋ Forks: 19
 
 ★ Stars: 113
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 113 | 19 | 
 | 2023-02-26 | 113 | 17 | 
 | 2023-02-25 | 113 | 17 | 
 | 2023-02-24 | 113 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 105 | 15 | 
 | 2023-01-30 | 105 | 15 | 
 | 2023-01-29 | 105 | 15 | 
-| 2023-01-28 | 104 | 15 | 
 

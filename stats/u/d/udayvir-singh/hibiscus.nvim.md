@@ -1,6 +1,6 @@
 # udayvir-singh/hibiscus.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 79 | 2 | 
 | 2023-02-26 | 79 | 2 | 
 | 2023-02-24 | 79 | 2 | 
 | 2023-02-23 | 79 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 74 | 2 | 
 | 2023-01-30 | 75 | 2 | 
 | 2023-01-29 | 75 | 2 | 
-| 2023-01-28 | 75 | 2 | 
 

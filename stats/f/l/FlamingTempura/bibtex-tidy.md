@@ -1,10 +1,10 @@
 # FlamingTempura/bibtex-tidy - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 44
 
-★ Stars: 536
+★ Stars: 537
 
 [Open repository](https://github.com/FlamingTempura/bibtex-tidy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 537 | 44 | 
 | 2023-02-26 | 536 | 44 | 
 | 2023-02-25 | 536 | 44 | 
 | 2023-02-24 | 535 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 520 | 44 | 
 | 2023-01-30 | 518 | 44 | 
 | 2023-01-29 | 518 | 44 | 
-| 2023-01-28 | 518 | 44 | 
 

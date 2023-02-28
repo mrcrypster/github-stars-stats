@@ -1,6 +1,6 @@
 # Snapbrillia/quadraticvoting - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 11 | 4 | 
 | 2023-02-26 | 11 | 4 | 
 | 2023-02-25 | 11 | 4 | 
 | 2023-02-23 | 11 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 10 | 3 | 
 | 2023-01-30 | 10 | 3 | 
 | 2023-01-29 | 10 | 3 | 
-| 2023-01-28 | 10 | 3 | 
 

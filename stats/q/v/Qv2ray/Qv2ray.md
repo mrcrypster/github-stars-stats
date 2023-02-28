@@ -1,10 +1,10 @@
 # Qv2ray/Qv2ray - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 3115
+☋ Forks: 3116
 
-★ Stars: 14994
+★ Stars: 14996
 
 [Open repository](https://github.com/Qv2ray/Qv2ray)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 14996 | 3116 | 
 | 2023-02-26 | 14994 | 3115 | 
 | 2023-02-25 | 14988 | 3114 | 
 | 2023-02-24 | 14982 | 3114 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 14870 | 3089 | 
 | 2023-01-30 | 14864 | 3089 | 
 | 2023-01-29 | 14860 | 3089 | 
-| 2023-01-28 | 14856 | 3087 | 
 

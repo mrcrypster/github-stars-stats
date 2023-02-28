@@ -1,10 +1,10 @@
 # NDLANO/oppetid - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/NDLANO/oppetid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2 | - | 
 | 2023-02-26 | 3 | - | 
 | 2023-02-25 | 3 | - | 
 | 2023-02-24 | 3 | - | 

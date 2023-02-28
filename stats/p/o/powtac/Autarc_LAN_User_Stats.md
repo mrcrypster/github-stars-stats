@@ -1,6 +1,6 @@
 # powtac/Autarc_LAN_User_Stats - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6 | 3 | 
 | 2023-02-26 | 6 | 3 | 
 | 2023-02-25 | 6 | 3 | 
 | 2023-02-23 | 6 | 3 | 

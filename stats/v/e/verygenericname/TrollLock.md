@@ -1,10 +1,10 @@
 # verygenericname/TrollLock - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/verygenericname/TrollLock)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 22 | - | 
 | 2023-02-26 | 21 | - | 
 | 2023-02-25 | 21 | - | 
 | 2023-02-24 | 21 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 21 | - | 
 | 2023-01-30 | 20 | - | 
 | 2023-01-29 | 20 | - | 
-| 2023-01-28 | 20 | - | 
 

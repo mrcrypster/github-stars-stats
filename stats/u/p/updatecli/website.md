@@ -1,10 +1,10 @@
 # updatecli/website - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/updatecli/website)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4 | 13 | 
 | 2023-02-26 | 3 | 12 | 
 | 2023-02-25 | 3 | 12 | 
 | 2023-02-24 | 3 | 12 | 

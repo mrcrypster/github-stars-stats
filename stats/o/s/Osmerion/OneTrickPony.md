@@ -1,6 +1,6 @@
 # Osmerion/OneTrickPony - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 54 | 2 | 
 | 2023-02-26 | 54 | 2 | 
 | 2023-02-25 | 54 | 2 | 
 | 2023-02-23 | 54 | 2 | 

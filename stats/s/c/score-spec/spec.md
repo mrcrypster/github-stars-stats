@@ -1,8 +1,8 @@
 # score-spec/spec - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 2559
+☋ Forks: 2558
 
 ★ Stars: 7325
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 7325 | 2558 | 
 | 2023-02-26 | 7325 | 2559 | 
 | 2023-02-25 | 7325 | 2563 | 
 | 2023-02-24 | 7325 | 2564 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 7389 | 2619 | 
 | 2023-01-30 | 7388 | 2621 | 
 | 2023-01-29 | 7390 | 2623 | 
-| 2023-01-28 | 7393 | 2627 | 
 

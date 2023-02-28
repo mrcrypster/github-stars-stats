@@ -1,10 +1,10 @@
 # PanolasApex/Apex-Legends-aimbot-hack-ESP-by-Panolas - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 52
 
-★ Stars: 225
+★ Stars: 237
 
 [Open repository](https://github.com/PanolasApex/Apex-Legends-aimbot-hack-ESP-by-Panolas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 237 | 52 | 
 | 2023-02-26 | 225 | 52 | 
 | 2023-02-25 | 197 | 52 | 
 | 2023-02-24 | 145 | 52 | 

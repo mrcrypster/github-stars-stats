@@ -1,6 +1,6 @@
 # aditya14-7/git-finder - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | - | 12 | 
 | 2023-02-26 | - | 12 | 
 | 2023-02-25 | - | 12 | 
 | 2023-02-24 | - | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | - | 12 | 
 | 2023-01-30 | - | 12 | 
 | 2023-01-29 | - | 12 | 
-| 2023-01-28 | - | 12 | 
 

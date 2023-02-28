@@ -1,10 +1,10 @@
 # Coloryr/ColorMC - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/Coloryr/ColorMC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 56 | 5 | 
 | 2023-02-26 | 54 | 5 | 
 | 2023-02-25 | 54 | 5 | 
 | 2023-02-24 | 54 | 5 | 

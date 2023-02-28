@@ -1,10 +1,10 @@
 # curl/curl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5603
 
-★ Stars: 28583
+★ Stars: 28593
 
 [Open repository](https://github.com/curl/curl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 28593 | 5603 | 
 | 2023-02-26 | 28583 | 5603 | 
 | 2023-02-25 | 28566 | 5604 | 
 | 2023-02-23 | 28547 | 5602 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 28313 | 5560 | 
 | 2023-01-30 | 28305 | 5556 | 
 | 2023-01-29 | 28300 | 5554 | 
-| 2023-01-28 | 28292 | 5551 | 
 

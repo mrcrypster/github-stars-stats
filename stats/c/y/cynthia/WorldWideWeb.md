@@ -1,6 +1,6 @@
 # cynthia/WorldWideWeb - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 409 | 63 | 
 | 2023-02-26 | 409 | 63 | 
 | 2023-02-25 | 409 | 63 | 
 | 2023-02-24 | 409 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 401 | 63 | 
 | 2023-01-30 | 400 | 63 | 
 | 2023-01-29 | 399 | 63 | 
-| 2023-01-28 | 398 | 63 | 
 

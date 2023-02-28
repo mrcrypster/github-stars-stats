@@ -1,10 +1,10 @@
 # ben1234560/k8s_PaaS - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 897
+☋ Forks: 899
 
-★ Stars: 3159
+★ Stars: 3172
 
 [Open repository](https://github.com/ben1234560/k8s_PaaS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 3172 | 899 | 
 | 2023-02-26 | 3159 | 897 | 
 | 2023-02-25 | 3155 | 897 | 
 | 2023-02-24 | 3150 | 896 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2359 | 764 | 
 | 2023-01-30 | 2320 | 758 | 
 | 2023-01-29 | 2226 | 742 | 
-| 2023-01-28 | 2113 | 735 | 
 

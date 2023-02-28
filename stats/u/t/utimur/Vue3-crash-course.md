@@ -1,10 +1,10 @@
 # utimur/Vue3-crash-course - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 65
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/utimur/Vue3-crash-course)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 131 | 65 | 
 | 2023-02-26 | 130 | 65 | 
 | 2023-02-25 | 130 | 64 | 
 | 2023-02-24 | 129 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 127 | 62 | 
 | 2023-01-31 | 126 | 62 | 
 | 2023-01-30 | 125 | 62 | 
-| 2023-01-28 | 125 | 62 | 
 

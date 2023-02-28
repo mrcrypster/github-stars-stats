@@ -1,10 +1,10 @@
 # haxi0/TrollBoard - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/haxi0/TrollBoard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 36 | - | 
 | 2023-02-26 | 35 | - | 
 | 2023-02-24 | 35 | - | 
 | 2023-02-23 | 35 | - | 

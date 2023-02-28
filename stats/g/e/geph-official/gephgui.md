@@ -1,6 +1,6 @@
 # geph-official/gephgui - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 44 | 18 | 
 | 2023-02-26 | 44 | 18 | 
 | 2023-02-24 | 44 | 18 | 
 | 2023-02-23 | 44 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 45 | 18 | 
 | 2023-01-30 | 45 | 18 | 
 | 2023-01-29 | 45 | 18 | 
-| 2023-01-28 | 45 | 18 | 
 

@@ -1,6 +1,6 @@
 # lunarcleint/Psych-Advanced-Hscript - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 14 | 6 | 
 | 2023-02-26 | 14 | 6 | 
 | 2023-02-25 | 14 | 6 | 
 | 2023-02-24 | 14 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 15 | 6 | 
 | 2023-01-31 | 15 | 6 | 
 | 2023-01-30 | 15 | 6 | 
-| 2023-01-29 | 15 | 6 | 
 

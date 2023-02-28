@@ -1,6 +1,6 @@
 # SeasideSt/Seaside - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 449 | 65 | 
 | 2023-02-26 | 449 | 65 | 
 | 2023-02-25 | 448 | 65 | 
 | 2023-02-24 | 448 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 446 | 65 | 
 | 2023-01-30 | 446 | 65 | 
 | 2023-01-29 | 446 | 65 | 
-| 2023-01-28 | 445 | 65 | 
 

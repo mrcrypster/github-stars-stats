@@ -1,6 +1,6 @@
 # gruntjs/gruntjs.com - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 154 | 82 | 
 | 2023-02-26 | 154 | 82 | 
 | 2023-02-25 | 154 | 82 | 
 | 2023-02-24 | 154 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 154 | 82 | 
 | 2023-01-30 | 154 | 82 | 
 | 2023-01-29 | 154 | 82 | 
-| 2023-01-28 | 154 | 82 | 
 

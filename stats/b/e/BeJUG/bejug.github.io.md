@@ -1,6 +1,6 @@
 # BeJUG/bejug.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 12 | 2 | 
 | 2023-02-26 | 12 | 2 | 
 | 2023-02-24 | 12 | 2 | 
 | 2023-02-23 | 12 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 11 | 1 | 
 | 2023-01-31 | 11 | 1 | 
 | 2023-01-30 | 10 | 1 | 
-| 2023-01-28 | 10 | 1 | 
 

@@ -1,6 +1,6 @@
 # bartjakobs/SwiftXP - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 94 | 3 | 
 | 2023-02-26 | 94 | 3 | 
 | 2023-02-25 | 94 | 3 | 
 | 2023-02-23 | 94 | 3 | 

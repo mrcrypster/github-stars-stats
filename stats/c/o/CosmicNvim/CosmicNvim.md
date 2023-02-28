@@ -1,6 +1,6 @@
 # CosmicNvim/CosmicNvim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 856 | 65 | 
 | 2023-02-26 | 856 | 65 | 
 | 2023-02-25 | 856 | 66 | 
 | 2023-02-24 | 855 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 838 | 67 | 
 | 2023-01-30 | 836 | 67 | 
 | 2023-01-29 | 834 | 66 | 
-| 2023-01-28 | 831 | 66 | 
 

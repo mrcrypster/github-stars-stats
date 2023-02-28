@@ -1,10 +1,10 @@
 # spatie/laravel-model-flags - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
-★ Stars: 341
+★ Stars: 342
 
 [Open repository](https://github.com/spatie/laravel-model-flags)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 342 | 15 | 
 | 2023-02-26 | 341 | 15 | 
 | 2023-02-25 | 341 | 15 | 
 | 2023-02-23 | 341 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 332 | 13 | 
 | 2023-01-30 | 332 | 13 | 
 | 2023-01-29 | 332 | 13 | 
-| 2023-01-28 | 331 | 13 | 
 

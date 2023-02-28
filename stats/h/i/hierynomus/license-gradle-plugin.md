@@ -1,6 +1,6 @@
 # hierynomus/license-gradle-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 381 | 107 | 
 | 2023-02-26 | 381 | 107 | 
 | 2023-02-25 | 381 | 107 | 
 | 2023-02-24 | 381 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 380 | 107 | 
 | 2023-01-30 | 380 | 107 | 
 | 2023-01-29 | 380 | 107 | 
-| 2023-01-28 | 380 | 107 | 
 

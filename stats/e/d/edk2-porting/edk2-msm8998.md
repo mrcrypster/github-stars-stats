@@ -1,6 +1,6 @@
 # edk2-porting/edk2-msm8998 - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 130 | 50 | 
 | 2023-02-25 | 130 | 50 | 
 | 2023-02-24 | 130 | 50 | 
 | 2023-02-23 | 130 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-02-01 | 126 | 49 | 
 | 2023-01-31 | 126 | 49 | 
 | 2023-01-30 | 126 | 49 | 
-| 2023-01-28 | 126 | 49 | 
 

@@ -1,6 +1,6 @@
 # BecoSystems/spacewar - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 21 | 301 | 
 | 2023-02-25 | 21 | 301 | 
 | 2023-02-24 | 21 | 301 | 
 | 2023-02-23 | 21 | 301 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 21 | 301 | 
 | 2023-01-30 | 21 | 301 | 
 | 2023-01-29 | 21 | 301 | 
-| 2023-01-28 | 21 | 301 | 
 

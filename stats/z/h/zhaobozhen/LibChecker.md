@@ -1,8 +1,8 @@
 # zhaobozhen/LibChecker - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 206
+☋ Forks: 207
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 30 | 207 | 
 | 2023-02-26 | 30 | 206 | 
 | 2023-02-25 | 30 | 206 | 
 | 2023-02-23 | 29 | 206 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 19 | 196 | 
 | 2023-01-31 | 19 | 196 | 
 | 2023-01-30 | 19 | 196 | 
-| 2023-01-29 | 19 | 196 | 
 

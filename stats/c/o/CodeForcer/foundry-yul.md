@@ -1,8 +1,8 @@
 # CodeForcer/foundry-yul - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 61 | 3 | 
 | 2023-02-26 | 61 | 2 | 
 | 2023-02-25 | 61 | 2 | 
 | 2023-02-24 | 61 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 59 | 1 | 
 | 2023-01-30 | 59 | 1 | 
 | 2023-01-29 | 59 | 1 | 
-| 2023-01-28 | 59 | 1 | 
 

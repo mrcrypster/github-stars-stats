@@ -1,6 +1,6 @@
 # braintree/jsdoc-template - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 168 | 56 | 
 | 2023-02-26 | 168 | 56 | 
 | 2023-02-24 | 168 | 56 | 
 | 2023-02-23 | 168 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 165 | 56 | 
 | 2023-01-31 | 165 | 56 | 
 | 2023-01-30 | 165 | 56 | 
-| 2023-01-29 | 165 | 56 | 
 

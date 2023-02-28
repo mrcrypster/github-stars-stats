@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/jakehamilton/config)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 55 | 5 | 
+| 2023-02-27 | 56 | 5 | 
 | 2023-02-26 | 54 | 5 | 
 | 2023-02-25 | 53 | 5 | 
 | 2023-02-24 | 50 | 5 | 

@@ -1,10 +1,10 @@
 # pavels/spektrum - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 83
 
-★ Stars: 456
+★ Stars: 457
 
 [Open repository](https://github.com/pavels/spektrum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 457 | 83 | 
 | 2023-02-26 | 456 | 83 | 
 | 2023-02-25 | 456 | 83 | 
 | 2023-02-24 | 456 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 451 | 83 | 
 | 2023-01-30 | 451 | 83 | 
 | 2023-01-29 | 450 | 83 | 
-| 2023-01-28 | 450 | 83 | 
 

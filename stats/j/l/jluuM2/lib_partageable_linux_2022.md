@@ -1,6 +1,6 @@
 # jluuM2/lib_partageable_linux_2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 18 | 
 | 2023-02-26 | - | 18 | 
 | 2023-02-25 | - | 18 | 
 | 2023-02-24 | - | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | - | 18 | 
 | 2023-01-30 | - | 18 | 
 | 2023-01-29 | - | 18 | 
-| 2023-01-28 | - | 18 | 
 

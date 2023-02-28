@@ -1,6 +1,6 @@
 # ahrm/sioyek - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4614 | 140 | 
 | 2023-02-26 | 4614 | 140 | 
 | 2023-02-25 | 4607 | 140 | 
 | 2023-02-23 | 4603 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 4539 | 137 | 
 | 2023-01-30 | 4539 | 137 | 
 | 2023-01-29 | 4536 | 136 | 
-| 2023-01-28 | 4529 | 136 | 
 

@@ -1,6 +1,6 @@
 # XRGames/xr-challenge - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2 | 30 | 
 | 2023-02-26 | 2 | 30 | 
 | 2023-02-25 | 2 | 30 | 
 | 2023-02-24 | 2 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2 | 29 | 
 | 2023-01-30 | 2 | 28 | 
 | 2023-01-29 | 2 | 28 | 
-| 2023-01-28 | 1 | 28 | 
 

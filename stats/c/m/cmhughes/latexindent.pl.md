@@ -1,8 +1,8 @@
 # cmhughes/latexindent.pl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 72
+☋ Forks: 73
 
 ★ Stars: 655
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 655 | 73 | 
 | 2023-02-26 | 655 | 72 | 
 | 2023-02-25 | 655 | 73 | 
 | 2023-02-24 | 655 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 647 | 69 | 
 | 2023-01-30 | 648 | 69 | 
 | 2023-01-29 | 647 | 69 | 
-| 2023-01-28 | 647 | 69 | 
 

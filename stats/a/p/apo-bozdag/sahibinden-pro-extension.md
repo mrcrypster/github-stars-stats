@@ -1,6 +1,6 @@
 # apo-bozdag/sahibinden-pro-extension - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 135 | 17 | 
 | 2023-02-26 | 135 | 17 | 
 | 2023-02-25 | 135 | 17 | 
 | 2023-02-24 | 135 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 134 | 17 | 
 | 2023-01-30 | 135 | 17 | 
 | 2023-01-29 | 135 | 17 | 
-| 2023-01-28 | 135 | 17 | 
 

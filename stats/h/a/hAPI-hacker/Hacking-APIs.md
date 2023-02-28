@@ -1,6 +1,6 @@
 # hAPI-hacker/Hacking-APIs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 182 | 54 | 
 | 2023-02-26 | 182 | 54 | 
 | 2023-02-25 | 181 | 54 | 
 | 2023-02-24 | 182 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 176 | 52 | 
 | 2023-01-30 | 175 | 52 | 
 | 2023-01-29 | 175 | 52 | 
-| 2023-01-28 | 174 | 52 | 
 

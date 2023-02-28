@@ -1,6 +1,6 @@
 # StatsGary/NHS_R_Comm_Build_TM_from_scratch - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 17 | 4 | 
 | 2023-02-26 | 17 | 4 | 
 | 2023-02-25 | 17 | 4 | 
 | 2023-02-24 | 17 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 17 | 4 | 
 | 2023-01-30 | 17 | 4 | 
 | 2023-01-29 | 17 | 4 | 
-| 2023-01-28 | 17 | 4 | 
 

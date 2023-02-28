@@ -1,6 +1,6 @@
 # MIT-SPARK/estimation-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 22 | - | 
 | 2023-02-26 | 22 | - | 
 | 2023-02-25 | 22 | - | 
 | 2023-02-24 | 22 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 22 | - | 
 | 2023-01-30 | 22 | - | 
 | 2023-01-29 | 22 | - | 
-| 2023-01-28 | 22 | - | 
 

@@ -1,10 +1,10 @@
 # cube-js/cube.js - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1510
 
-★ Stars: 14612
+★ Stars: 14613
 
 [Open repository](https://github.com/cube-js/cube.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 14613 | 1510 | 
 | 2023-02-26 | 14612 | 1510 | 
 | 2023-02-25 | 14607 | 1509 | 
 | 2023-02-24 | 14601 | 1508 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 14470 | 1492 | 
 | 2023-01-31 | 14465 | 1489 | 
 | 2023-01-30 | 14460 | 1488 | 
-| 2023-01-28 | 14456 | 1489 | 
 

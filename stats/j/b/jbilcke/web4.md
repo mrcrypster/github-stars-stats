@@ -1,10 +1,10 @@
 # jbilcke/web4 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 12
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/jbilcke/web4)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 221 | 12 | 
 | 2023-02-26 | 220 | 12 | 
 | 2023-02-25 | 220 | 12 | 
 | 2023-02-24 | 220 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 208 | 12 | 
 | 2023-01-30 | 205 | 12 | 
 | 2023-01-29 | 200 | 12 | 
-| 2023-01-28 | 198 | 12 | 
 

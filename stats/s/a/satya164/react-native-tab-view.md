@@ -1,6 +1,6 @@
 # satya164/react-native-tab-view - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1103
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5120 | 1103 | 
 | 2023-02-26 | 5120 | 1103 | 
 | 2023-02-24 | 5120 | 1103 | 
 | 2023-02-23 | 5121 | 1103 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 5121 | 1101 | 
 | 2023-01-30 | 5121 | 1101 | 
 | 2023-01-29 | 5121 | 1101 | 
-| 2023-01-28 | 5120 | 1101 | 
 

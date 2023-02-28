@@ -1,6 +1,6 @@
 # aws/thinkbox-cm-library - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6 | 2 | 
 | 2023-02-26 | 6 | 2 | 
 | 2023-02-25 | 6 | 2 | 
 | 2023-02-23 | 6 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 5 | 2 | 
 | 2023-01-31 | 5 | 2 | 
 | 2023-01-30 | 5 | 2 | 
-| 2023-01-28 | 5 | 2 | 
 

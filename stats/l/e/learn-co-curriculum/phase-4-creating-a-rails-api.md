@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-creating-a-rails-api - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 453
+☋ Forks: 454
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 4 | 454 | 
 | 2023-02-26 | 4 | 453 | 
 | 2023-02-25 | 4 | 453 | 
 | 2023-02-23 | 4 | 451 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 4 | 438 | 
 | 2023-01-31 | 4 | 437 | 
 | 2023-01-30 | 4 | 437 | 
-| 2023-01-29 | 4 | 437 | 
 

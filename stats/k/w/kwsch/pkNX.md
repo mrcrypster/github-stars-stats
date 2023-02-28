@@ -1,6 +1,6 @@
 # kwsch/pkNX - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 276 | 92 | 
 | 2023-02-26 | 276 | 92 | 
 | 2023-02-25 | 276 | 91 | 
 | 2023-02-24 | 276 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 271 | 90 | 
 | 2023-01-30 | 271 | 90 | 
 | 2023-01-29 | 271 | 90 | 
-| 2023-01-28 | 271 | 90 | 
 

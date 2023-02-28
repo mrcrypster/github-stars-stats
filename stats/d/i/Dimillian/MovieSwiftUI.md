@@ -1,10 +1,10 @@
 # Dimillian/MovieSwiftUI - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 596
 
-★ Stars: 6206
+★ Stars: 6207
 
 [Open repository](https://github.com/Dimillian/MovieSwiftUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6207 | 596 | 
 | 2023-02-26 | 6206 | 596 | 
 | 2023-02-25 | 6206 | 597 | 
 | 2023-02-24 | 6206 | 597 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 6194 | 593 | 
 | 2023-01-31 | 6192 | 592 | 
 | 2023-01-30 | 6194 | 593 | 
-| 2023-01-29 | 6192 | 593 | 
 

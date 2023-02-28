@@ -1,6 +1,6 @@
 # v1ack/v1ack.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5 | 2 | 
 | 2023-02-26 | 5 | 2 | 
 | 2023-02-25 | 5 | 1 | 
 | 2023-02-24 | 5 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 4 | 1 | 
 | 2023-01-30 | 4 | 1 | 
 | 2023-01-29 | 4 | 1 | 
-| 2023-01-28 | 4 | 1 | 
 

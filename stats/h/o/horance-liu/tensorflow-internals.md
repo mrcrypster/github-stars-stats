@@ -1,6 +1,6 @@
 # horance-liu/tensorflow-internals - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 575
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2836 | 575 | 
 | 2023-02-26 | 2836 | 575 | 
 | 2023-02-25 | 2836 | 575 | 
 | 2023-02-24 | 2835 | 575 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 2833 | 576 | 
 | 2023-01-30 | 2832 | 576 | 
 | 2023-01-29 | 2832 | 576 | 
-| 2023-01-28 | 2831 | 576 | 
 

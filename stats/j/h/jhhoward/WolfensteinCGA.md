@@ -1,10 +1,10 @@
 # jhhoward/WolfensteinCGA - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/jhhoward/WolfensteinCGA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 261 | 4 | 
 | 2023-02-26 | 260 | 4 | 
 | 2023-02-25 | 260 | 4 | 
 | 2023-02-24 | 259 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 236 | 3 | 
 | 2023-01-30 | 231 | 3 | 
 | 2023-01-29 | 228 | 3 | 
-| 2023-01-28 | 224 | 3 | 
 

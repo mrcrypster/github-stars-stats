@@ -1,10 +1,10 @@
 # mattpocock/ts-error-translator - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 82
 
-★ Stars: 2027
+★ Stars: 2033
 
 [Open repository](https://github.com/mattpocock/ts-error-translator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2033 | 82 | 
 | 2023-02-26 | 2027 | 82 | 
 | 2023-02-25 | 2022 | 81 | 
 | 2023-02-23 | 2021 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 1993 | 78 | 
 | 2023-01-31 | 1994 | 78 | 
 | 2023-01-30 | 1995 | 78 | 
-| 2023-01-29 | 1991 | 78 | 
 

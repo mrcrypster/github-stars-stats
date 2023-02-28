@@ -1,10 +1,10 @@
 # Joshua-Ashton/HL2-GamepadUI - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 14
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Joshua-Ashton/HL2-GamepadUI)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 50 | 14 | 
 | 2023-02-26 | 49 | 14 | 
 | 2023-02-25 | 49 | 14 | 
 | 2023-02-24 | 49 | 13 | 

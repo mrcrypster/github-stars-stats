@@ -1,10 +1,10 @@
 # cashapp/multiplatform-paging - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
-★ Stars: 190
+★ Stars: 192
 
 [Open repository](https://github.com/cashapp/multiplatform-paging)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 192 | 3 | 
 | 2023-02-26 | 190 | 3 | 
 | 2023-02-25 | 190 | 3 | 
 | 2023-02-24 | 190 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 181 | 3 | 
 | 2023-01-30 | 180 | 3 | 
 | 2023-01-29 | 180 | 3 | 
-| 2023-01-28 | 180 | 3 | 
 

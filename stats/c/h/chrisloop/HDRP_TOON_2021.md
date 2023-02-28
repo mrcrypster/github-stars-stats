@@ -1,6 +1,6 @@
 # chrisloop/HDRP_TOON_2021 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 56 | 5 | 
 | 2023-02-26 | 56 | 5 | 
 | 2023-02-25 | 56 | 5 | 
 | 2023-02-24 | 56 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 53 | 5 | 
 | 2023-01-30 | 53 | 5 | 
 | 2023-01-29 | 53 | 5 | 
-| 2023-01-28 | 52 | 5 | 
 

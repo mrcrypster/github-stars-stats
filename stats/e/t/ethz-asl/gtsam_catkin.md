@@ -1,6 +1,6 @@
 # ethz-asl/gtsam_catkin - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 10 | 15 | 
 | 2023-02-26 | 10 | 15 | 
 | 2023-02-25 | 10 | 15 | 
 | 2023-02-24 | 10 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 9 | 15 | 
 | 2023-01-30 | 9 | 15 | 
 | 2023-01-29 | 9 | 15 | 
-| 2023-01-28 | 9 | 15 | 
 

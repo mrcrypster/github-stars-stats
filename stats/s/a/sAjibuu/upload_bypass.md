@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 27
 
 ☋ Forks: 15
 
-★ Stars: 111
+★ Stars: 115
 
 [Open repository](https://github.com/sAjibuu/upload_bypass)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-27 | 111 | 15 | 
+| 2023-02-27 | 115 | 15 | 
 | 2023-02-26 | 109 | 15 | 
 

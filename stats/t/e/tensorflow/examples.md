@@ -1,10 +1,10 @@
 # tensorflow/examples - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 6982
+☋ Forks: 6984
 
-★ Stars: 6865
+★ Stars: 6873
 
 [Open repository](https://github.com/tensorflow/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 6873 | 6984 | 
 | 2023-02-26 | 6865 | 6982 | 
 | 2023-02-25 | 6863 | 6982 | 
 | 2023-02-24 | 6854 | 6980 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 6784 | 6913 | 
 | 2023-01-30 | 6781 | 6913 | 
 | 2023-01-29 | 6780 | 6902 | 
-| 2023-01-28 | 6780 | 6900 | 
 

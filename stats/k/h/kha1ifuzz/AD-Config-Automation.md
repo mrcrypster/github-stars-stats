@@ -1,10 +1,10 @@
 # kha1ifuzz/AD-Config-Automation - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/kha1ifuzz/AD-Config-Automation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 33 | 10 | 
 | 2023-02-26 | 32 | 9 | 
 | 2023-02-25 | 31 | 9 | 
 

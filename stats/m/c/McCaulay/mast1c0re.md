@@ -1,10 +1,10 @@
 # McCaulay/mast1c0re - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/McCaulay/mast1c0re)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 73 | 7 | 
 | 2023-02-26 | 72 | 6 | 
 | 2023-02-25 | 71 | 6 | 
 | 2023-02-24 | 70 | 6 | 

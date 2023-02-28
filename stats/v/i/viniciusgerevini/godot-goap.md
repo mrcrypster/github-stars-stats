@@ -1,10 +1,10 @@
 # viniciusgerevini/godot-goap - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/viniciusgerevini/godot-goap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 49 | 5 | 
 | 2023-02-26 | 48 | 5 | 
 | 2023-02-25 | 48 | 5 | 
 | 2023-02-24 | 48 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 42 | 5 | 
 | 2023-01-31 | 41 | 5 | 
 | 2023-01-30 | 40 | 5 | 
-| 2023-01-28 | 40 | 5 | 
 

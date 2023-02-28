@@ -1,10 +1,10 @@
 # zerodaycode/Zork - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 7
 
-★ Stars: 99
+★ Stars: 101
 
 [Open repository](https://github.com/zerodaycode/Zork)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 101 | 7 | 
 | 2023-02-26 | 99 | 7 | 
 | 2023-02-25 | 99 | 7 | 
 | 2023-02-24 | 99 | 7 | 

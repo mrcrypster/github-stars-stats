@@ -1,10 +1,10 @@
 # mgechev/google-interview-preparation-problems - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 465
 
-★ Stars: 2925
+★ Stars: 2930
 
 [Open repository](https://github.com/mgechev/google-interview-preparation-problems)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 2930 | 465 | 
 | 2023-02-26 | 2925 | 465 | 
 | 2023-02-25 | 2925 | 464 | 
 | 2023-02-23 | 2922 | 464 | 

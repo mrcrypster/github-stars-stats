@@ -1,6 +1,6 @@
 # AlexvZyl/nordic.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 166 | 11 | 
 | 2023-02-26 | 166 | 11 | 
 | 2023-02-25 | 165 | 11 | 
 | 2023-02-24 | 165 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 119 | 10 | 
 | 2023-01-30 | 117 | 9 | 
 | 2023-01-29 | 113 | 9 | 
-| 2023-01-28 | 108 | 8 | 
 

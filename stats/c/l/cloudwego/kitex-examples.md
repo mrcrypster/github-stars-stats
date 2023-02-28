@@ -1,6 +1,6 @@
 # cloudwego/kitex-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 293 | 182 | 
 | 2023-02-26 | 293 | 182 | 
 | 2023-02-24 | 292 | 182 | 
 | 2023-02-23 | 292 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 268 | 176 | 
 | 2023-01-30 | 264 | 175 | 
 | 2023-01-29 | 263 | 170 | 
-| 2023-01-28 | 259 | 168 | 
 

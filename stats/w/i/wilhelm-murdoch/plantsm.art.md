@@ -1,6 +1,6 @@
 # wilhelm-murdoch/plantsm.art - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 22 | 4 | 
 | 2023-02-26 | 22 | 4 | 
 | 2023-02-24 | 22 | 4 | 
 | 2023-02-23 | 22 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 22 | 4 | 
 | 2023-01-31 | 22 | 4 | 
 | 2023-01-30 | 22 | 4 | 
-| 2023-01-28 | 22 | 4 | 
 

@@ -1,6 +1,6 @@
 # otake84/dlhn - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 101 | 1 | 
 | 2023-02-26 | 101 | 1 | 
 | 2023-02-25 | 101 | 1 | 
 | 2023-02-24 | 101 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 101 | 1 | 
 | 2023-01-30 | 101 | 1 | 
 | 2023-01-29 | 101 | 1 | 
-| 2023-01-28 | 101 | 1 | 
 

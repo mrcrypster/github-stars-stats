@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/distributed-load-testing-using-kubernetes - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 257
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/GoogleCloudPlatform/distributed-load-testing-using-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 430 | 257 | 
 | 2023-02-26 | 429 | 257 | 
 | 2023-02-25 | 429 | 257 | 
 | 2023-02-24 | 428 | 257 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 426 | 253 | 
 | 2023-01-31 | 426 | 253 | 
 | 2023-01-30 | 426 | 253 | 
-| 2023-01-28 | 426 | 253 | 
 

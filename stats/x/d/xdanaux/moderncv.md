@@ -1,10 +1,10 @@
 # xdanaux/moderncv - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 487
 
-★ Stars: 1632
+★ Stars: 1634
 
 [Open repository](https://github.com/xdanaux/moderncv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1634 | 487 | 
 | 2023-02-26 | 1632 | 487 | 
 | 2023-02-24 | 1632 | 487 | 
 | 2023-02-23 | 1632 | 488 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 1621 | 478 | 
 | 2023-01-31 | 1620 | 479 | 
 | 2023-01-30 | 1620 | 479 | 
-| 2023-01-28 | 1620 | 479 | 
 

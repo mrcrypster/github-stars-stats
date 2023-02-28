@@ -1,10 +1,10 @@
 # uNetworking/uWebSockets.js - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 480
 
-★ Stars: 5878
+★ Stars: 5885
 
 [Open repository](https://github.com/uNetworking/uWebSockets.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 5885 | 480 | 
 | 2023-02-26 | 5878 | 480 | 
 | 2023-02-25 | 5876 | 480 | 
 | 2023-02-24 | 5871 | 480 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 5728 | 477 | 
 | 2023-01-30 | 5727 | 477 | 
 | 2023-01-29 | 5728 | 476 | 
-| 2023-01-28 | 5727 | 476 | 
 

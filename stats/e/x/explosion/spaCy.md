@@ -1,10 +1,10 @@
 # explosion/spaCy - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 4030
+☋ Forks: 4032
 
-★ Stars: 25338
+★ Stars: 25344
 
 [Open repository](https://github.com/explosion/spaCy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 25344 | 4032 | 
 | 2023-02-26 | 25338 | 4030 | 
 | 2023-02-25 | 25324 | 4028 | 
 | 2023-02-24 | 25315 | 4027 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 25121 | 4021 | 
 | 2023-01-30 | 25113 | 4019 | 
 | 2023-01-29 | 25105 | 4019 | 
-| 2023-01-28 | 25100 | 4016 | 
 

@@ -1,6 +1,6 @@
 # aravindvnair99/Phishing - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 14 | 9 | 
 | 2023-02-26 | 14 | 9 | 
 | 2023-02-24 | 14 | 9 | 
 | 2023-02-23 | 14 | 9 | 

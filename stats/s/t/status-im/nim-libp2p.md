@@ -1,10 +1,10 @@
 # status-im/nim-libp2p - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 38
 
-★ Stars: 200
+★ Stars: 199
 
 [Open repository](https://github.com/status-im/nim-libp2p)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 199 | 38 | 
 | 2023-02-26 | 200 | 38 | 
 | 2023-02-25 | 198 | 38 | 
 | 2023-02-24 | 198 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 196 | 37 | 
 | 2023-01-30 | 197 | 37 | 
 | 2023-01-29 | 197 | 37 | 
-| 2023-01-28 | 197 | 37 | 
 

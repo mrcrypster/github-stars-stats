@@ -1,6 +1,6 @@
 # m-odern/focus-theme-for-ida-pro-7.6 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 26 | 1 | 
 | 2023-02-26 | 26 | 1 | 
 | 2023-02-24 | 26 | 1 | 
 | 2023-02-23 | 26 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 26 | 1 | 
 | 2023-01-30 | 26 | 1 | 
 | 2023-01-29 | 26 | 1 | 
-| 2023-01-28 | 26 | 1 | 
 

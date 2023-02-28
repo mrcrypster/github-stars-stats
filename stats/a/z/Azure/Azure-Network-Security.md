@@ -1,6 +1,6 @@
 # Azure/Azure-Network-Security - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 229
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 609 | 229 | 
 | 2023-02-26 | 609 | 229 | 
 | 2023-02-25 | 607 | 229 | 
 | 2023-02-24 | 607 | 228 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 574 | 215 | 
 | 2023-01-30 | 574 | 214 | 
 | 2023-01-29 | 574 | 214 | 
-| 2023-01-28 | 573 | 213 | 
 

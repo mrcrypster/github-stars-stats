@@ -1,10 +1,10 @@
 # firtysh/real-time-file-share - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/firtysh/real-time-file-share)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 9 | 23 | 
 | 2023-02-26 | 8 | 22 | 
 | 2023-02-25 | 8 | 21 | 
 | 2023-02-24 | 8 | 18 | 

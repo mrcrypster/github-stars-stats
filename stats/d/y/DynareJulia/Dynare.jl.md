@@ -1,10 +1,10 @@
 # DynareJulia/Dynare.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 7
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/DynareJulia/Dynare.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 41 | 7 | 
 | 2023-02-26 | 40 | 7 | 
 | 2023-02-25 | 40 | 7 | 
 | 2023-02-24 | 40 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 39 | 6 | 
 | 2023-01-30 | 39 | 6 | 
 | 2023-01-29 | 39 | 6 | 
-| 2023-01-28 | 39 | 6 | 
 

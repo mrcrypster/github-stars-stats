@@ -1,6 +1,6 @@
 # Anof-cyber/APTRS - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 614 | 57 | 
 | 2023-02-26 | 614 | 57 | 
 | 2023-02-25 | 614 | 57 | 
 | 2023-02-24 | 614 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 584 | 53 | 
 | 2023-01-30 | 582 | 53 | 
 | 2023-01-29 | 581 | 53 | 
-| 2023-01-28 | 579 | 53 | 
 

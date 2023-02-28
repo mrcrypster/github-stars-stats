@@ -1,10 +1,10 @@
 # JuliaPluto/PlutoTeachingTools.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/JuliaPluto/PlutoTeachingTools.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 30 | 5 | 
 | 2023-02-26 | 29 | 5 | 
 | 2023-02-25 | 28 | 5 | 
 | 2023-02-24 | 28 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 27 | 5 | 
 | 2023-01-30 | 27 | 5 | 
 | 2023-01-29 | 26 | 5 | 
-| 2023-01-28 | 26 | 5 | 
 

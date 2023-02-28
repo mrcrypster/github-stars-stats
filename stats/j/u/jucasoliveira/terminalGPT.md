@@ -1,6 +1,6 @@
 # jucasoliveira/terminalGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 25
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 719 | 145 | 
 | 2023-02-25 | 719 | 145 | 
 | 2023-02-24 | 715 | 145 | 
 | 2023-02-23 | 707 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 25
 | 2023-01-31 | 593 | 118 | 
 | 2023-01-30 | 584 | 115 | 
 | 2023-01-29 | 576 | 111 | 
-| 2023-01-28 | 569 | 107 | 
 

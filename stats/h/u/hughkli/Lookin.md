@@ -1,10 +1,10 @@
 # hughkli/Lookin - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 126
 
-★ Stars: 623
+★ Stars: 624
 
 [Open repository](https://github.com/hughkli/Lookin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 624 | 126 | 
 | 2023-02-26 | 623 | 126 | 
 | 2023-02-25 | 623 | 126 | 
 | 2023-02-24 | 622 | 126 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 604 | 120 | 
 | 2023-01-30 | 602 | 120 | 
 | 2023-01-29 | 601 | 120 | 
-| 2023-01-28 | 600 | 120 | 
 

@@ -1,6 +1,6 @@
 # joao-pinheiro/atx_psu - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 30 | 3 | 
 | 2023-02-26 | 30 | 3 | 
 | 2023-02-24 | 30 | 3 | 
 | 2023-02-23 | 30 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 30 | 3 | 
 | 2023-01-30 | 30 | 3 | 
 | 2023-01-29 | 30 | 3 | 
-| 2023-01-28 | 30 | 3 | 
 

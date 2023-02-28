@@ -1,6 +1,6 @@
 # CodeCrowCorp/mage-website - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 1 | 6 | 
 | 2023-02-26 | 1 | 6 | 
 | 2023-02-25 | 1 | 6 | 
 | 2023-02-23 | 1 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 1 | 6 | 
 | 2023-01-30 | 2 | 6 | 
 | 2023-01-29 | 2 | 6 | 
-| 2023-01-28 | 2 | 6 | 
 

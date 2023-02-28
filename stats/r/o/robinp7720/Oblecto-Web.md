@@ -1,6 +1,6 @@
 # robinp7720/Oblecto-Web - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 24 | 5 | 
 | 2023-02-26 | 24 | 5 | 
 | 2023-02-25 | 24 | 5 | 
 | 2023-02-24 | 24 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 24 | 5 | 
 | 2023-01-30 | 24 | 5 | 
 | 2023-01-29 | 24 | 5 | 
-| 2023-01-28 | 24 | 5 | 
 

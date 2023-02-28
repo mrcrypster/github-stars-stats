@@ -1,10 +1,10 @@
 # erfanoabdi/gbinder-python - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 27
 
 ☋ Forks: 13
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/erfanoabdi/gbinder-python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-27 | 8 | 13 | 
 | 2023-02-26 | 7 | 13 | 
 | 2023-02-25 | 7 | 13 | 
 | 2023-02-24 | 7 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-01-31 | 6 | 13 | 
 | 2023-01-30 | 6 | 13 | 
 | 2023-01-29 | 6 | 13 | 
-| 2023-01-28 | 6 | 13 | 
 
