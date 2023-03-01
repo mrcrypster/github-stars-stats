@@ -1,6 +1,6 @@
 # udacity/cd0354-monolith-to-microservices-exercises - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 483
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 14 | 483 | 
 | 2023-02-27 | 14 | 483 | 
 | 2023-02-26 | 14 | 483 | 
 | 2023-02-25 | 14 | 481 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 13 | 467 | 
 | 2023-01-31 | 13 | 465 | 
 | 2023-01-30 | 13 | 464 | 
-| 2023-01-29 | 13 | 463 | 
 

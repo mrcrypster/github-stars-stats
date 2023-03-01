@@ -1,8 +1,8 @@
 # Dxgamer7405/Psych-Engine-0.4.2-Android-Port - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 20
+☋ Forks: 19
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 19 | 
 | 2023-02-27 | - | 20 | 
 | 2023-02-26 | - | 20 | 
 | 2023-02-25 | - | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | - | 19 | 
 | 2023-01-31 | - | 19 | 
 | 2023-01-30 | - | 19 | 
-| 2023-01-29 | - | 19 | 
 

@@ -1,10 +1,10 @@
 # Rosalie241/RMG - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 22
 
-★ Stars: 240
+★ Stars: 243
 
 [Open repository](https://github.com/Rosalie241/RMG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 243 | 22 | 
 | 2023-02-27 | 240 | 22 | 
 | 2023-02-26 | 239 | 22 | 
 | 2023-02-25 | 238 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 207 | 20 | 
 | 2023-01-31 | 207 | 20 | 
 | 2023-01-30 | 207 | 20 | 
-| 2023-01-29 | 206 | 19 | 
 

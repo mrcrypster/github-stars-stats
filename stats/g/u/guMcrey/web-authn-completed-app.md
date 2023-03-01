@@ -1,6 +1,6 @@
 # guMcrey/web-authn-completed-app - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 47 | 1 | 
 | 2023-02-27 | 47 | 1 | 
 | 2023-02-26 | 46 | 1 | 
 | 2023-02-24 | 46 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 43 | 1 | 
 | 2023-01-31 | 42 | 1 | 
 | 2023-01-30 | 42 | 1 | 
-| 2023-01-29 | 42 | 1 | 
 

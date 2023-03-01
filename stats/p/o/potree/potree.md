@@ -1,10 +1,10 @@
 # potree/potree - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 955
+☋ Forks: 956
 
-★ Stars: 3472
+★ Stars: 3473
 
 [Open repository](https://github.com/potree/potree)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3473 | 956 | 
 | 2023-02-27 | 3472 | 955 | 
 | 2023-02-26 | 3472 | 955 | 
 | 2023-02-25 | 3473 | 955 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3433 | 948 | 
 | 2023-01-31 | 3431 | 948 | 
 | 2023-01-30 | 3427 | 948 | 
-| 2023-01-29 | 3426 | 948 | 
 

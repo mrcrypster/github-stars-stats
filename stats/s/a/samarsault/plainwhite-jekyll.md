@@ -1,8 +1,8 @@
 # samarsault/plainwhite-jekyll - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 478
+☋ Forks: 479
 
 ★ Stars: 405
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 405 | 479 | 
 | 2023-02-27 | 405 | 478 | 
 | 2023-02-26 | 405 | 479 | 
 | 2023-02-24 | 404 | 480 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 403 | 482 | 
 | 2023-02-01 | 403 | 482 | 
 | 2023-01-31 | 403 | 482 | 
-| 2023-01-30 | 403 | 482 | 
 

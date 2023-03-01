@@ -1,6 +1,6 @@
 # mrzool/letter-boilerplate - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 441 | 77 | 
 | 2023-02-27 | 441 | 77 | 
 | 2023-02-25 | 441 | 77 | 
 | 2023-02-24 | 441 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 440 | 77 | 
 | 2023-01-31 | 440 | 77 | 
 | 2023-01-30 | 440 | 77 | 
-| 2023-01-29 | 440 | 77 | 
 

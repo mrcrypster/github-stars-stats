@@ -1,6 +1,6 @@
 # Judsonfranciel/Projeto_banco_de_dados_final - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2 | 6 | 
 | 2023-02-27 | 2 | 6 | 
 | 2023-02-25 | 2 | 6 | 
 | 2023-02-24 | 2 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 2 | 6 | 
 | 2023-02-01 | 1 | 6 | 
 | 2023-01-31 | 2 | 6 | 
-| 2023-01-30 | 2 | 6 | 
 

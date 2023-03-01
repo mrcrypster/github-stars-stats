@@ -1,10 +1,10 @@
 # espressif/esptool - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1251
 
-★ Stars: 4717
+★ Stars: 4720
 
 [Open repository](https://github.com/espressif/esptool)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4720 | 1251 | 
 | 2023-02-27 | 4717 | 1251 | 
 | 2023-02-26 | 4716 | 1250 | 
 | 2023-02-25 | 4715 | 1249 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 4671 | 1240 | 
 | 2023-01-31 | 4670 | 1239 | 
 | 2023-01-30 | 4669 | 1239 | 
-| 2023-01-29 | 4666 | 1238 | 
 

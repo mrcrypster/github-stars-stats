@@ -1,6 +1,6 @@
 # LITUATUI/M3UPT - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 91 | 19 | 
 | 2023-02-27 | 91 | 19 | 
 | 2023-02-26 | 91 | 19 | 
 | 2023-02-25 | 91 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 78 | 19 | 
 | 2023-01-31 | 79 | 19 | 
 | 2023-01-30 | 79 | 19 | 
-| 2023-01-29 | 79 | 19 | 
 

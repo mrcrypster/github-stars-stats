@@ -1,10 +1,10 @@
 # safak/youtube23 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 22
+☋ Forks: 25
 
-★ Stars: 106
+★ Stars: 116
 
 [Open repository](https://github.com/safak/youtube23)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 116 | 25 | 
 | 2023-02-27 | 106 | 22 | 
 | 2023-02-26 | 103 | 21 | 
 | 2023-02-25 | 100 | 19 | 

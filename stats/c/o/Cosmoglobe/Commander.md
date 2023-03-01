@@ -1,6 +1,6 @@
 # Cosmoglobe/Commander - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 14 | 11 | 
 | 2023-02-27 | 14 | 11 | 
 | 2023-02-26 | 14 | 11 | 
 | 2023-02-25 | 14 | 11 | 

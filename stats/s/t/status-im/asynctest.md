@@ -1,10 +1,10 @@
 # status-im/asynctest - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/status-im/asynctest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 8 | 2 | 
 | 2023-02-27 | 7 | 2 | 
 | 2023-02-26 | 7 | 2 | 
 | 2023-02-25 | 7 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 7 | 2 | 
 | 2023-02-01 | 7 | 2 | 
 | 2023-01-31 | 7 | 2 | 
-| 2023-01-30 | 7 | 2 | 
 

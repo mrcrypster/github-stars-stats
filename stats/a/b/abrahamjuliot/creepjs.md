@@ -1,10 +1,10 @@
 # abrahamjuliot/creepjs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 616
+★ Stars: 617
 
 [Open repository](https://github.com/abrahamjuliot/creepjs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 617 | 86 | 
 | 2023-02-27 | 616 | 85 | 
 | 2023-02-26 | 616 | 84 | 
 | 2023-02-24 | 615 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 600 | 79 | 
 | 2023-01-31 | 600 | 79 | 
 | 2023-01-30 | 597 | 78 | 
-| 2023-01-29 | 596 | 78 | 
 

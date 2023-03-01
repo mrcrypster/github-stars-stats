@@ -1,6 +1,6 @@
 # giantswarm/vertical-pod-autoscaler-app - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3 | 1 | 
 | 2023-02-27 | 3 | 1 | 
 | 2023-02-26 | 3 | 1 | 
 | 2023-02-25 | 3 | 1 | 

@@ -1,10 +1,10 @@
 # tronprotocol/java-tron - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1213
 
-★ Stars: 3278
+★ Stars: 3280
 
 [Open repository](https://github.com/tronprotocol/java-tron)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3280 | 1213 | 
 | 2023-02-27 | 3278 | 1213 | 
 | 2023-02-26 | 3279 | 1211 | 
 | 2023-02-25 | 3277 | 1212 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 3250 | 1203 | 
 | 2023-01-31 | 3250 | 1203 | 
 | 2023-01-30 | 3250 | 1201 | 
-| 2023-01-29 | 3245 | 1198 | 
 

@@ -1,10 +1,10 @@
 # roc-lang/roc - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 96
 
-★ Stars: 1676
+★ Stars: 1678
 
 [Open repository](https://github.com/roc-lang/roc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1678 | 96 | 
 | 2023-02-27 | 1676 | 96 | 
 | 2023-02-26 | 1673 | 97 | 
 | 2023-02-25 | 1669 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1587 | 90 | 
 | 2023-01-31 | 1583 | 90 | 
 | 2023-01-30 | 1578 | 88 | 
-| 2023-01-29 | 1575 | 87 | 
 

@@ -1,6 +1,6 @@
 # pwk4m1/TinyBIOS - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 299 | 11 | 
 | 2023-02-27 | 299 | 11 | 
 | 2023-02-26 | 299 | 11 | 
 | 2023-02-25 | 296 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 296 | 11 | 
 | 2023-01-31 | 296 | 11 | 
 | 2023-01-30 | 296 | 11 | 
-| 2023-01-29 | 296 | 11 | 
 

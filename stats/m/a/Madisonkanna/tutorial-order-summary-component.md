@@ -1,6 +1,6 @@
 # Madisonkanna/tutorial-order-summary-component - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 24 | 25 | 
 | 2023-02-27 | 24 | 25 | 
 | 2023-02-26 | 24 | 25 | 
 | 2023-02-25 | 24 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 24 | 25 | 
 | 2023-02-01 | 24 | 25 | 
 | 2023-01-31 | 24 | 25 | 
-| 2023-01-30 | 24 | 25 | 
 

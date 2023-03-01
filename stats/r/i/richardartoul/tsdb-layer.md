@@ -1,10 +1,10 @@
 # richardartoul/tsdb-layer - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 28
 
-★ Stars: 472
+★ Stars: 473
 
 [Open repository](https://github.com/richardartoul/tsdb-layer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 473 | 28 | 
 | 2023-02-27 | 472 | 28 | 
 | 2023-02-26 | 472 | 28 | 
 | 2023-02-25 | 472 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 472 | 28 | 
 | 2023-01-31 | 472 | 28 | 
 | 2023-01-30 | 472 | 28 | 
-| 2023-01-29 | 472 | 28 | 
 

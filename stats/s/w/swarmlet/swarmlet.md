@@ -1,6 +1,6 @@
 # swarmlet/swarmlet - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 788 | 43 | 
 | 2023-02-27 | 788 | 43 | 
 | 2023-02-26 | 787 | 43 | 
 | 2023-02-25 | 787 | 43 | 

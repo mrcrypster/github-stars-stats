@@ -1,10 +1,10 @@
 # masonlr/obsidian-starter-templates - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 108
 
-★ Stars: 521
+★ Stars: 523
 
 [Open repository](https://github.com/masonlr/obsidian-starter-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 523 | 108 | 
 | 2023-02-26 | 521 | 108 | 
 | 2023-02-25 | 521 | 108 | 
 | 2023-02-24 | 521 | 109 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 513 | 108 | 
 | 2023-01-31 | 512 | 108 | 
 | 2023-01-30 | 512 | 107 | 
-| 2023-01-29 | 512 | 107 | 
 

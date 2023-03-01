@@ -1,10 +1,10 @@
 # volkandindar/agartha - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 47
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/volkandindar/agartha)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 226 | 47 | 
 | 2023-02-27 | 225 | 47 | 
 | 2023-02-26 | 225 | 47 | 
 | 2023-02-25 | 225 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 222 | 47 | 
 | 2023-01-31 | 222 | 47 | 
 | 2023-01-30 | 222 | 47 | 
-| 2023-01-29 | 222 | 47 | 
 

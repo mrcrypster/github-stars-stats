@@ -1,10 +1,10 @@
 # google/tink - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1190
 
-★ Stars: 13022
+★ Stars: 13023
 
 [Open repository](https://github.com/google/tink)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 13023 | 1190 | 
 | 2023-02-27 | 13022 | 1190 | 
 | 2023-02-26 | 13019 | 1190 | 
 | 2023-02-25 | 13017 | 1190 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 12983 | 1178 | 
 | 2023-01-31 | 12981 | 1177 | 
 | 2023-01-30 | 12977 | 1177 | 
-| 2023-01-29 | 12974 | 1175 | 
 

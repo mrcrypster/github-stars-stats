@@ -1,10 +1,10 @@
 # BetaSu/big-react - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 313
 
-★ Stars: 2781
+★ Stars: 2785
 
 [Open repository](https://github.com/BetaSu/big-react)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2785 | 313 | 
 | 2023-02-27 | 2781 | 313 | 
 | 2023-02-26 | 2776 | 313 | 
 | 2023-02-25 | 2776 | 313 | 

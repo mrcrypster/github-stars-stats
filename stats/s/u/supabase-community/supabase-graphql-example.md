@@ -1,6 +1,6 @@
 # supabase-community/supabase-graphql-example - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 137 | 22 | 
 | 2023-02-26 | 137 | 22 | 
 | 2023-02-25 | 136 | 22 | 
 | 2023-02-24 | 136 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 133 | 19 | 
 | 2023-01-31 | 132 | 19 | 
 | 2023-01-30 | 130 | 18 | 
-| 2023-01-29 | 129 | 18 | 
 

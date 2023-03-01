@@ -1,10 +1,10 @@
 # helderpinto/AzureOptimizationEngine - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 82
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/helderpinto/AzureOptimizationEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 222 | 82 | 
 | 2023-02-27 | 221 | 82 | 
 | 2023-02-26 | 221 | 82 | 
 | 2023-02-25 | 221 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 208 | 79 | 
 | 2023-01-31 | 208 | 78 | 
 | 2023-01-30 | 206 | 78 | 
-| 2023-01-29 | 205 | 79 | 
 

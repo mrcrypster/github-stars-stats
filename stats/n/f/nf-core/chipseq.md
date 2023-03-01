@@ -1,10 +1,10 @@
 # nf-core/chipseq - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 115
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/nf-core/chipseq)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 142 | 115 | 
 | 2023-02-27 | 141 | 115 | 
 | 2023-02-26 | 140 | 115 | 
 | 2023-02-25 | 140 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 137 | 113 | 
 | 2023-01-31 | 137 | 113 | 
 | 2023-01-30 | 137 | 113 | 
-| 2023-01-29 | 137 | 113 | 
 

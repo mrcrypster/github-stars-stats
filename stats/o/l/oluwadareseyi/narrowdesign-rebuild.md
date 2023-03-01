@@ -1,6 +1,6 @@
 # oluwadareseyi/narrowdesign-rebuild - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 44 | 12 | 
 | 2023-02-27 | 44 | 12 | 
 | 2023-02-26 | 44 | 12 | 
 | 2023-02-25 | 44 | 12 | 

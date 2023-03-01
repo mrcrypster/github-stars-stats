@@ -1,8 +1,8 @@
 # Thripura/eks-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 84
+☋ Forks: 85
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1 | 85 | 
 | 2023-02-27 | 1 | 84 | 
 | 2023-02-26 | 1 | 83 | 
 | 2023-02-25 | 1 | 83 | 

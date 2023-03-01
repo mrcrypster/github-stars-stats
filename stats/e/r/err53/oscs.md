@@ -1,6 +1,6 @@
 # err53/oscs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 10 | 6 | 
 | 2023-02-26 | 10 | 6 | 
 | 2023-02-25 | 10 | 6 | 
 | 2023-02-24 | 10 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 10 | 7 | 
 | 2023-01-31 | 11 | 7 | 
 | 2023-01-30 | 11 | 7 | 
-| 2023-01-29 | 11 | 7 | 
 

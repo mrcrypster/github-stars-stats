@@ -1,8 +1,8 @@
 # dashbitco/broadway_sqs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 80 | 28 | 
 | 2023-02-26 | 80 | 27 | 
 | 2023-02-25 | 80 | 27 | 
 | 2023-02-24 | 80 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 79 | 27 | 
 | 2023-01-31 | 79 | 27 | 
 | 2023-01-30 | 79 | 27 | 
-| 2023-01-29 | 79 | 27 | 
 

@@ -1,6 +1,6 @@
 # dmrschmidt/DSWaveformImage - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 589 | 75 | 
 | 2023-02-27 | 589 | 75 | 
 | 2023-02-26 | 588 | 75 | 
 | 2023-02-25 | 587 | 75 | 

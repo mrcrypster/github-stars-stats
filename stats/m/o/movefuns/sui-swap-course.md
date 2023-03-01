@@ -1,8 +1,8 @@
 # movefuns/sui-swap-course - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 56 | 5 | 
 | 2023-02-26 | 56 | 4 | 
 | 2023-02-25 | 56 | 4 | 
 | 2023-02-24 | 56 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 56 | 4 | 
 | 2023-01-31 | 56 | 4 | 
 | 2023-01-30 | 56 | 4 | 
-| 2023-01-29 | 56 | 4 | 
 

@@ -1,6 +1,6 @@
 # estiens/world_cup_json - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 936 | 108 | 
 | 2023-02-27 | 936 | 108 | 
 | 2023-02-26 | 936 | 108 | 
 | 2023-02-25 | 937 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 938 | 108 | 
 | 2023-01-31 | 938 | 108 | 
 | 2023-01-30 | 938 | 108 | 
-| 2023-01-29 | 938 | 108 | 
 

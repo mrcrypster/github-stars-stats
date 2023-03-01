@@ -1,10 +1,10 @@
 # illacloud/illa-builder - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 312
+☋ Forks: 315
 
-★ Stars: 5505
+★ Stars: 5581
 
 [Open repository](https://github.com/illacloud/illa-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 5581 | 315 | 
 | 2023-02-27 | 5505 | 312 | 
 | 2023-02-26 | 5485 | 310 | 
 | 2023-02-25 | 5459 | 310 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 4789 | 262 | 
 | 2023-01-31 | 4776 | 261 | 
 | 2023-01-30 | 4769 | 261 | 
-| 2023-01-29 | 4760 | 261 | 
 

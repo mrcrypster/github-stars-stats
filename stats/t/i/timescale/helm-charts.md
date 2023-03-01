@@ -1,8 +1,8 @@
 # timescale/helm-charts - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 202
+☋ Forks: 203
 
 ★ Stars: 243
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 243 | 203 | 
 | 2023-02-27 | 243 | 202 | 
 | 2023-02-26 | 242 | 202 | 
 | 2023-02-25 | 242 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 243 | 198 | 
 | 2023-01-31 | 243 | 198 | 
 | 2023-01-30 | 243 | 197 | 
-| 2023-01-29 | 243 | 197 | 
 

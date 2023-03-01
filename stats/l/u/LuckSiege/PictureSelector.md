@@ -1,10 +1,10 @@
 # LuckSiege/PictureSelector - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 2835
+☋ Forks: 2836
 
-★ Stars: 12242
+★ Stars: 12245
 
 [Open repository](https://github.com/LuckSiege/PictureSelector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 12245 | 2836 | 
 | 2023-02-27 | 12242 | 2835 | 
 | 2023-02-26 | 12237 | 2836 | 
 | 2023-02-25 | 12237 | 2836 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 12167 | 2827 | 
 | 2023-01-31 | 12163 | 2826 | 
 | 2023-01-30 | 12158 | 2825 | 
-| 2023-01-29 | 12154 | 2825 | 
 

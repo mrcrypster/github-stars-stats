@@ -1,10 +1,10 @@
 # microsoft/vscode-remote-try-rust - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 112
 
-★ Stars: 194
+★ Stars: 193
 
 [Open repository](https://github.com/microsoft/vscode-remote-try-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 193 | 112 | 
 | 2023-02-26 | 194 | 112 | 
 | 2023-02-25 | 194 | 112 | 
 | 2023-02-24 | 194 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 193 | 113 | 
 | 2023-02-01 | 193 | 113 | 
 | 2023-01-31 | 192 | 113 | 
-| 2023-01-29 | 192 | 113 | 
 

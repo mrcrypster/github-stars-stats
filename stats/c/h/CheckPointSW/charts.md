@@ -1,6 +1,6 @@
 # CheckPointSW/charts - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 18 | 15 | 
 | 2023-02-26 | 18 | 15 | 
 | 2023-02-25 | 18 | 15 | 
 | 2023-02-24 | 18 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 18 | 15 | 
 | 2023-01-31 | 18 | 15 | 
 | 2023-01-30 | 19 | 15 | 
-| 2023-01-29 | 19 | 15 | 
 

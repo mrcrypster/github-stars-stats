@@ -1,10 +1,10 @@
 # facebookresearch/llama - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 325
+☋ Forks: 398
 
-★ Stars: 4689
+★ Stars: 5449
 
 [Open repository](https://github.com/facebookresearch/llama)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5449 | 398 | 
 | 2023-02-27 | 4689 | 325 | 
 | 2023-02-26 | 3549 | 238 | 
 

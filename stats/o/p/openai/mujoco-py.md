@@ -1,6 +1,6 @@
 # openai/mujoco-py - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 739
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2392 | 739 | 
 | 2023-02-27 | 2392 | 739 | 
 | 2023-02-26 | 2389 | 740 | 
 | 2023-02-25 | 2387 | 740 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2360 | 734 | 
 | 2023-01-31 | 2358 | 733 | 
 | 2023-01-30 | 2358 | 734 | 
-| 2023-01-29 | 2355 | 734 | 
 

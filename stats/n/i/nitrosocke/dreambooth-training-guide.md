@@ -1,10 +1,10 @@
 # nitrosocke/dreambooth-training-guide - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 357
+★ Stars: 362
 
 [Open repository](https://github.com/nitrosocke/dreambooth-training-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 362 | 21 | 
 | 2023-02-27 | 357 | 20 | 
 | 2023-02-26 | 355 | 20 | 
 | 2023-02-25 | 354 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 323 | 18 | 
 | 2023-01-31 | 322 | 18 | 
 | 2023-01-30 | 322 | 18 | 
-| 2023-01-29 | 320 | 18 | 
 

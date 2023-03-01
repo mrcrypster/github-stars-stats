@@ -1,10 +1,10 @@
 # rack/rack - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1676
+☋ Forks: 1677
 
-★ Stars: 4605
+★ Stars: 4606
 
 [Open repository](https://github.com/rack/rack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4606 | 1677 | 
 | 2023-02-26 | 4605 | 1676 | 
 | 2023-02-25 | 4604 | 1675 | 
 | 2023-02-24 | 4603 | 1675 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 4587 | 1674 | 
 | 2023-01-31 | 4586 | 1672 | 
 | 2023-01-30 | 4586 | 1673 | 
-| 2023-01-29 | 4586 | 1672 | 
 

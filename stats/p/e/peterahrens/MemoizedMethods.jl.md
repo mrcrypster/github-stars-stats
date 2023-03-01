@@ -1,10 +1,10 @@
 # peterahrens/MemoizedMethods.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/peterahrens/MemoizedMethods.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 20 | 1 | 
 | 2023-02-26 | 19 | 1 | 
 | 2023-02-25 | 19 | 1 | 
 | 2023-02-24 | 19 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 19 | 1 | 
 | 2023-01-31 | 19 | 1 | 
 | 2023-01-30 | 19 | 1 | 
-| 2023-01-29 | 19 | 1 | 
 

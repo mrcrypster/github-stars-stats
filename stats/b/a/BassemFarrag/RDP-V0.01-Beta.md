@@ -1,6 +1,6 @@
 # BassemFarrag/RDP-V0.01-Beta - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 28 | 
 | 2023-02-26 | - | 28 | 
 | 2023-02-25 | - | 28 | 
 | 2023-02-24 | - | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | - | 25 | 
 | 2023-01-31 | - | 25 | 
 | 2023-01-30 | - | 25 | 
-| 2023-01-29 | - | 25 | 
 

@@ -1,10 +1,10 @@
 # ocamllabs/ocaml-effects-tutorial - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 27
 
-★ Stars: 584
+★ Stars: 585
 
 [Open repository](https://github.com/ocamllabs/ocaml-effects-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 585 | 27 | 
 | 2023-02-26 | 584 | 27 | 
 | 2023-02-25 | 584 | 27 | 
 | 2023-02-24 | 584 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 579 | 27 | 
 | 2023-01-31 | 578 | 26 | 
 | 2023-01-30 | 577 | 26 | 
-| 2023-01-29 | 577 | 25 | 
 

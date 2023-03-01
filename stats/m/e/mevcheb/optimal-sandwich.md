@@ -1,6 +1,6 @@
 # mevcheb/optimal-sandwich - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 481 | 125 | 
 | 2023-02-27 | 481 | 125 | 
 | 2023-02-26 | 482 | 125 | 
 | 2023-02-24 | 482 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 479 | 125 | 
 | 2023-02-01 | 479 | 125 | 
 | 2023-01-31 | 479 | 125 | 
-| 2023-01-29 | 478 | 125 | 
 

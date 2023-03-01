@@ -1,10 +1,10 @@
 # abdullahmansss/udemy - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 197
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/abdullahmansss/udemy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 251 | 197 | 
 | 2023-02-27 | 250 | 197 | 
 | 2023-02-26 | 250 | 196 | 
 | 2023-02-25 | 249 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 247 | 196 | 
 | 2023-01-31 | 247 | 196 | 
 | 2023-01-30 | 246 | 197 | 
-| 2023-01-29 | 246 | 197 | 
 

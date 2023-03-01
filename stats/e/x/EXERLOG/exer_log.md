@@ -1,10 +1,10 @@
 # EXERLOG/exer_log - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 89
 
-★ Stars: 317
+★ Stars: 316
 
 [Open repository](https://github.com/EXERLOG/exer_log)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 316 | 89 | 
 | 2023-02-27 | 317 | 89 | 
 | 2023-02-26 | 317 | 89 | 
 | 2023-02-25 | 317 | 89 | 

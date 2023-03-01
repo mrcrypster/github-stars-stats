@@ -1,6 +1,6 @@
 # feenkcom/gtoolkit-external-process - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4 | - | 
+| 2023-02-28 | 4 | - | 
 | 2023-02-27 | 4 | - | 
 | 2023-02-26 | 4 | - | 
 | 2023-02-25 | 4 | - | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3 | - | 
 | 2023-01-31 | 3 | - | 
 | 2023-01-30 | 3 | - | 
-| 2023-01-29 | 3 | - | 
 

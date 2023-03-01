@@ -1,10 +1,10 @@
 # 34306/JailedSpeedAds - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 40
+★ Stars: 39
 
 [Open repository](https://github.com/34306/JailedSpeedAds)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 39 | 6 | 
 | 2023-02-27 | 40 | 6 | 
 | 2023-02-26 | 39 | 6 | 
 | 2023-02-25 | 38 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 36 | 6 | 
 | 2023-01-31 | 36 | 6 | 
 | 2023-01-30 | 36 | 6 | 
-| 2023-01-29 | 36 | 6 | 
 

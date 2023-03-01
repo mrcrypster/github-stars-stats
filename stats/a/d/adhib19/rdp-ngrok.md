@@ -1,10 +1,10 @@
 # adhib19/rdp-ngrok - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 113
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/adhib19/rdp-ngrok)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1 | 113 | 
 | 2023-02-27 | - | 113 | 
 | 2023-02-26 | - | 113 | 
 | 2023-02-25 | - | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | - | 59 | 
 | 2023-01-31 | - | 57 | 
 | 2023-01-30 | - | 52 | 
-| 2023-01-29 | 1 | 51 | 
 

@@ -1,10 +1,10 @@
 # hzeller/rpi-rgb-led-matrix - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1010
 
-★ Stars: 3009
+★ Stars: 3013
 
 [Open repository](https://github.com/hzeller/rpi-rgb-led-matrix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3013 | 1010 | 
 | 2023-02-27 | 3009 | 1010 | 
 | 2023-02-26 | 3008 | 1010 | 
 | 2023-02-25 | 3008 | 1009 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2976 | 999 | 
 | 2023-01-31 | 2975 | 997 | 
 | 2023-01-30 | 2975 | 997 | 
-| 2023-01-29 | 2973 | 997 | 
 

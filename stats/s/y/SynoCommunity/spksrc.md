@@ -1,10 +1,10 @@
 # SynoCommunity/spksrc - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1164
+☋ Forks: 1163
 
-★ Stars: 2750
+★ Stars: 2753
 
 [Open repository](https://github.com/SynoCommunity/spksrc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2753 | 1163 | 
 | 2023-02-27 | 2750 | 1164 | 
 | 2023-02-26 | 2748 | 1165 | 
 | 2023-02-25 | 2748 | 1165 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2741 | 1162 | 
 | 2023-01-31 | 2741 | 1161 | 
 | 2023-01-30 | 2742 | 1161 | 
-| 2023-01-29 | 2742 | 1160 | 
 

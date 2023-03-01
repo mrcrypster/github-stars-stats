@@ -1,10 +1,10 @@
 # charmbracelet/bubbletea - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 535
 
-★ Stars: 17145
+★ Stars: 17178
 
 [Open repository](https://github.com/charmbracelet/bubbletea)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 17178 | 535 | 
 | 2023-02-27 | 17145 | 535 | 
 | 2023-02-26 | 17132 | 534 | 
 | 2023-02-25 | 17118 | 533 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 16774 | 520 | 
 | 2023-01-31 | 16753 | 520 | 
 | 2023-01-30 | 16743 | 520 | 
-| 2023-01-29 | 16729 | 520 | 
 

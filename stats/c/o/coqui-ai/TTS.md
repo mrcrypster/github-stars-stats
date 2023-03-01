@@ -1,10 +1,10 @@
 # coqui-ai/TTS - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1010
+☋ Forks: 1014
 
-★ Stars: 8680
+★ Stars: 8707
 
 [Open repository](https://github.com/coqui-ai/TTS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 8707 | 1014 | 
 | 2023-02-27 | 8680 | 1010 | 
 | 2023-02-26 | 8634 | 1008 | 
 | 2023-02-25 | 8611 | 1005 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 8006 | 907 | 
 | 2023-02-01 | 7987 | 907 | 
 | 2023-01-30 | 7967 | 906 | 
-| 2023-01-29 | 7934 | 905 | 
 

@@ -1,6 +1,6 @@
 # MuhammadSYahyaS/fundamentals-of-ann - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 18 | 8 | 
 | 2023-02-26 | 18 | 8 | 
 | 2023-02-25 | 18 | 8 | 
 | 2023-02-24 | 18 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 18 | 8 | 
 | 2023-01-31 | 18 | 8 | 
 | 2023-01-30 | 18 | 8 | 
-| 2023-01-29 | 18 | 8 | 
 

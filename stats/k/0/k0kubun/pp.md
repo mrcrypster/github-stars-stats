@@ -1,6 +1,6 @@
 # k0kubun/pp - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1572 | 89 | 
 | 2023-02-27 | 1572 | 89 | 
 | 2023-02-26 | 1569 | 89 | 
 | 2023-02-25 | 1569 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1556 | 89 | 
 | 2023-01-31 | 1556 | 89 | 
 | 2023-01-30 | 1555 | 89 | 
-| 2023-01-29 | 1553 | 89 | 
 

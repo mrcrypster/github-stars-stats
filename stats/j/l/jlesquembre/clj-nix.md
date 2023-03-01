@@ -1,10 +1,10 @@
 # jlesquembre/clj-nix - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 11
 
-★ Stars: 91
+★ Stars: 90
 
 [Open repository](https://github.com/jlesquembre/clj-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 90 | 11 | 
 | 2023-02-27 | 91 | 11 | 
 | 2023-02-26 | 91 | 11 | 
 | 2023-02-25 | 91 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 89 | 10 | 
 | 2023-01-31 | 89 | 10 | 
 | 2023-01-30 | 89 | 10 | 
-| 2023-01-29 | 89 | 10 | 
 

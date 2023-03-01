@@ -1,10 +1,10 @@
 # slaclab/epix-hr-core - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/slaclab/epix-hr-core)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | - | 
 | 2023-02-27 | 1 | - | 
 | 2023-02-26 | 1 | - | 
 | 2023-02-25 | 1 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1 | - | 
 | 2023-01-31 | 1 | - | 
 | 2023-01-30 | 1 | - | 
-| 2023-01-29 | 1 | - | 
 

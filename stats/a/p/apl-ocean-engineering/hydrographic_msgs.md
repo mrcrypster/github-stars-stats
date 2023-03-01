@@ -1,10 +1,10 @@
 # apl-ocean-engineering/hydrographic_msgs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 10
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/apl-ocean-engineering/hydrographic_msgs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 18 | 10 | 
 | 2023-02-27 | 17 | 10 | 
 | 2023-02-26 | 17 | 10 | 
 | 2023-02-25 | 17 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 17 | 9 | 
 | 2023-01-31 | 18 | 9 | 
 | 2023-01-30 | 18 | 9 | 
-| 2023-01-29 | 18 | 9 | 
 

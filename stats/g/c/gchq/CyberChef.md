@@ -1,10 +1,10 @@
 # gchq/CyberChef - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2403
+☋ Forks: 2406
 
-★ Stars: 20337
+★ Stars: 20349
 
 [Open repository](https://github.com/gchq/CyberChef)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 20349 | 2406 | 
 | 2023-02-27 | 20337 | 2403 | 
 | 2023-02-26 | 20328 | 2401 | 
 | 2023-02-25 | 20318 | 2396 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 20104 | 2369 | 
 | 2023-01-31 | 20102 | 2369 | 
 | 2023-01-30 | 20091 | 2367 | 
-| 2023-01-29 | 20069 | 2366 | 
 

@@ -1,6 +1,6 @@
 # Accenture/protobuf-finder - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 202 | 24 | 
 | 2023-02-27 | 202 | 24 | 
 | 2023-02-26 | 202 | 24 | 
 | 2023-02-25 | 202 | 24 | 

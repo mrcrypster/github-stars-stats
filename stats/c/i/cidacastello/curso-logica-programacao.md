@@ -1,6 +1,6 @@
 # cidacastello/curso-logica-programacao - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 148 | 7 | 
 | 2023-02-27 | 148 | 7 | 
 | 2023-02-26 | 148 | 7 | 
 | 2023-02-24 | 148 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 143 | 7 | 
 | 2023-02-01 | 143 | 7 | 
 | 2023-01-31 | 144 | 7 | 
-| 2023-01-30 | 144 | 7 | 
 

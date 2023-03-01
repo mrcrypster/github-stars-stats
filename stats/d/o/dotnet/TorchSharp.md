@@ -1,10 +1,10 @@
 # dotnet/TorchSharp - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 126
 
-★ Stars: 779
+★ Stars: 780
 
 [Open repository](https://github.com/dotnet/TorchSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 780 | 126 | 
 | 2023-02-26 | 779 | 126 | 
 | 2023-02-25 | 777 | 126 | 
 | 2023-02-24 | 776 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 756 | 121 | 
 | 2023-01-31 | 757 | 121 | 
 | 2023-01-30 | 757 | 120 | 
-| 2023-01-29 | 754 | 120 | 
 

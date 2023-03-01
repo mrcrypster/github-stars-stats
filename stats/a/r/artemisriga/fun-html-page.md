@@ -1,10 +1,10 @@
 # artemisriga/fun-html-page - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 33
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/artemisriga/fun-html-page)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 52 | 33 | 
 | 2023-02-27 | 51 | 33 | 
 | 2023-02-25 | 50 | 33 | 
 | 2023-02-24 | 50 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 33 | 22 | 
 | 2023-02-01 | 34 | 21 | 
 | 2023-01-30 | 33 | 19 | 
-| 2023-01-29 | 33 | 19 | 
 

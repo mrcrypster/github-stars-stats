@@ -1,10 +1,10 @@
 # tkf/ThreadsX.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/tkf/ThreadsX.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 283 | 9 | 
 | 2023-02-27 | 282 | 9 | 
 | 2023-02-26 | 281 | 9 | 
 | 2023-02-25 | 280 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 279 | 9 | 
 | 2023-01-31 | 279 | 9 | 
 | 2023-01-30 | 279 | 9 | 
-| 2023-01-29 | 278 | 9 | 
 

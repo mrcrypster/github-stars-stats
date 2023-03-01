@@ -1,10 +1,10 @@
 # eliascarv/TruthTables.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/eliascarv/TruthTables.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 57 | - | 
 | 2023-02-26 | 56 | - | 
 | 2023-02-25 | 56 | - | 
 | 2023-02-24 | 56 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 54 | - | 
 | 2023-01-31 | 54 | - | 
 | 2023-01-30 | 54 | - | 
-| 2023-01-29 | 54 | - | 
 

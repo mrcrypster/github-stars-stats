@@ -1,10 +1,10 @@
 # sasa1977/parent - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 19
 
-★ Stars: 246
+★ Stars: 248
 
 [Open repository](https://github.com/sasa1977/parent)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 248 | 19 | 
 | 2023-02-27 | 246 | 19 | 
 | 2023-02-26 | 246 | 19 | 
 | 2023-02-25 | 246 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 246 | 19 | 
 | 2023-01-31 | 246 | 19 | 
 | 2023-01-30 | 246 | 19 | 
-| 2023-01-29 | 246 | 19 | 
 

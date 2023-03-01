@@ -1,10 +1,10 @@
 # armbian/build - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1509
+☋ Forks: 1508
 
-★ Stars: 2646
+★ Stars: 2649
 
 [Open repository](https://github.com/armbian/build)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2649 | 1508 | 
 | 2023-02-27 | 2646 | 1509 | 
 | 2023-02-26 | 2649 | 1506 | 
 | 2023-02-25 | 2643 | 1504 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2584 | 1476 | 
 | 2023-01-31 | 2583 | 1473 | 
 | 2023-01-30 | 2582 | 1473 | 
-| 2023-01-29 | 2579 | 1470 | 
 

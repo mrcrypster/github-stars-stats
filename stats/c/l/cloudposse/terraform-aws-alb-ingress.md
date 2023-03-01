@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-alb-ingress - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 25 | 49 | 
 | 2023-02-26 | 25 | 49 | 
 | 2023-02-25 | 25 | 49 | 
 | 2023-02-24 | 25 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 25 | 48 | 
 | 2023-02-01 | 25 | 48 | 
 | 2023-01-30 | 25 | 47 | 
-| 2023-01-29 | 25 | 47 | 
 

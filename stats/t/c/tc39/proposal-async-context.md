@@ -1,10 +1,10 @@
 # tc39/proposal-async-context - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 184
+★ Stars: 186
 
 [Open repository](https://github.com/tc39/proposal-async-context)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 186 | 4 | 
 | 2023-02-27 | 184 | 4 | 
 | 2023-02-26 | 184 | 4 | 
 | 2023-02-24 | 183 | 4 | 

@@ -1,6 +1,6 @@
 # gihannagalindez/boostdiff_inference - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 11 | 1 | 
 | 2023-02-26 | 11 | 1 | 
 | 2023-02-25 | 11 | 1 | 
 | 2023-02-24 | 11 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 9 | 1 | 
 | 2023-02-01 | 9 | 1 | 
 | 2023-01-31 | 9 | 1 | 
-| 2023-01-30 | 9 | 1 | 
 

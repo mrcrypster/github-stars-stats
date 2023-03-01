@@ -1,6 +1,6 @@
 # timvisee/advent-of-code-2022 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 110 | 3 | 
 | 2023-02-27 | 110 | 3 | 
 | 2023-02-25 | 109 | 3 | 
 | 2023-02-24 | 109 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 105 | 1 | 
 | 2023-01-31 | 104 | 1 | 
 | 2023-01-30 | 104 | 1 | 
-| 2023-01-29 | 104 | 1 | 
 

@@ -1,10 +1,10 @@
 # nobiot/org-transclusion - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 34
 
-★ Stars: 703
+★ Stars: 702
 
 [Open repository](https://github.com/nobiot/org-transclusion)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 702 | 34 | 
 | 2023-02-27 | 703 | 34 | 
 | 2023-02-26 | 703 | 34 | 
 | 2023-02-25 | 703 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 696 | 34 | 
 | 2023-01-31 | 695 | 34 | 
 | 2023-01-30 | 694 | 34 | 
-| 2023-01-29 | 694 | 34 | 
 

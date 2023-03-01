@@ -1,10 +1,10 @@
 # golang/groupcache - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1340
 
-★ Stars: 11983
+★ Stars: 11985
 
 [Open repository](https://github.com/golang/groupcache)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 11985 | 1340 | 
 | 2023-02-27 | 11983 | 1340 | 
 | 2023-02-25 | 11983 | 1340 | 
 | 2023-02-24 | 11980 | 1340 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 11935 | 1336 | 
 | 2023-01-31 | 11934 | 1334 | 
 | 2023-01-30 | 11934 | 1334 | 
-| 2023-01-29 | 11932 | 1334 | 
 

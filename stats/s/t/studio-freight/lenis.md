@@ -1,10 +1,10 @@
 # studio-freight/lenis - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 113
 
-★ Stars: 2435
+★ Stars: 2441
 
 [Open repository](https://github.com/studio-freight/lenis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2441 | 113 | 
 | 2023-02-26 | 2435 | 113 | 
 | 2023-02-25 | 2429 | 113 | 
 | 2023-02-24 | 2423 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 1667 | 98 | 
 | 2023-01-31 | 1656 | 98 | 
 | 2023-01-30 | 1652 | 98 | 
-| 2023-01-29 | 1642 | 97 | 
 

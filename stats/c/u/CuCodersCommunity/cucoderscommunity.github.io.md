@@ -1,8 +1,8 @@
 # CuCodersCommunity/cucoderscommunity.github.io - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 29 | 24 | 
 | 2023-02-27 | 29 | 23 | 
 | 2023-02-26 | 29 | 23 | 
 | 2023-02-25 | 28 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 21 | 8 | 
 | 2023-01-31 | 21 | 8 | 
 | 2023-01-30 | 21 | 8 | 
-| 2023-01-29 | 20 | 8 | 
 

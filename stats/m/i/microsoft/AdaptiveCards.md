@@ -1,8 +1,8 @@
 # microsoft/AdaptiveCards - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 494
+☋ Forks: 495
 
 ★ Stars: 1465
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1465 | 495 | 
 | 2023-02-27 | 1465 | 494 | 
 | 2023-02-26 | 1465 | 495 | 
 | 2023-02-24 | 1464 | 495 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1444 | 492 | 
 | 2023-01-31 | 1443 | 492 | 
 | 2023-01-30 | 1442 | 492 | 
-| 2023-01-29 | 1441 | 492 | 
 

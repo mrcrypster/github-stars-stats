@@ -1,10 +1,10 @@
 # doomemacs/doomemacs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2921
+☋ Forks: 2924
 
-★ Stars: 16095
+★ Stars: 16103
 
 [Open repository](https://github.com/doomemacs/doomemacs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 16103 | 2924 | 
 | 2023-02-27 | 16095 | 2921 | 
 | 2023-02-26 | 16088 | 2922 | 
 | 2023-02-25 | 16080 | 2925 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 15913 | 2906 | 
 | 2023-01-31 | 15903 | 2904 | 
 | 2023-01-30 | 15896 | 2901 | 
-| 2023-01-29 | 15888 | 2901 | 
 

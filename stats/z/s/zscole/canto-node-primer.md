@@ -1,10 +1,10 @@
 # zscole/canto-node-primer - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/zscole/canto-node-primer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 23 | 9 | 
 | 2023-02-27 | 22 | 9 | 
 | 2023-02-26 | 22 | 9 | 
 | 2023-02-25 | 22 | 9 | 

@@ -1,6 +1,6 @@
 # giuscond/OrdinaPS - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 42 | 2 | 
 | 2023-02-26 | 42 | 2 | 
 | 2023-02-25 | 42 | 2 | 
 | 2023-02-24 | 42 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 41 | 2 | 
 | 2023-02-01 | 41 | 2 | 
 | 2023-01-30 | 41 | 2 | 
-| 2023-01-29 | 41 | 2 | 
 

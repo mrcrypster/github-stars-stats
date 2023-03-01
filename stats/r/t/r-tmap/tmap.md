@@ -1,6 +1,6 @@
 # r-tmap/tmap - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 706 | 110 | 
 | 2023-02-26 | 706 | 110 | 
 | 2023-02-25 | 705 | 110 | 
 | 2023-02-24 | 705 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 695 | 110 | 
 | 2023-01-31 | 695 | 110 | 
 | 2023-01-30 | 695 | 110 | 
-| 2023-01-29 | 695 | 110 | 
 

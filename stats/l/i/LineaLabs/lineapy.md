@@ -1,6 +1,6 @@
 # LineaLabs/lineapy - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 569 | 30 | 
 | 2023-02-27 | 569 | 30 | 
 | 2023-02-26 | 567 | 30 | 
 | 2023-02-25 | 567 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 557 | 30 | 
 | 2023-01-31 | 558 | 30 | 
 | 2023-01-30 | 557 | 29 | 
-| 2023-01-29 | 557 | 29 | 
 

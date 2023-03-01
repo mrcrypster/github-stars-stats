@@ -1,6 +1,6 @@
 # scality/metalk8s - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 44
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 304 | 44 | 
+| 2023-02-28 | 304 | 44 | 
 | 2023-02-27 | 304 | 44 | 
 | 2023-02-26 | 304 | 44 | 
 | 2023-02-25 | 303 | 44 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 300 | 46 | 
 | 2023-01-31 | 300 | 46 | 
 | 2023-01-30 | 300 | 46 | 
-| 2023-01-29 | 300 | 46 | 
 

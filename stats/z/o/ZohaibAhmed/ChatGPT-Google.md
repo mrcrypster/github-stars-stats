@@ -1,10 +1,10 @@
 # ZohaibAhmed/ChatGPT-Google - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/ZohaibAhmed/ChatGPT-Google)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 460 | 42 | 
 | 2023-02-27 | 459 | 41 | 
 | 2023-02-25 | 458 | 41 | 
 | 2023-02-24 | 457 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 435 | 37 | 
 | 2023-02-01 | 435 | 37 | 
 | 2023-01-31 | 436 | 37 | 
-| 2023-01-29 | 436 | 37 | 
 

@@ -1,10 +1,10 @@
 # blacksmithgu/datacore - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 384
+★ Stars: 388
 
 [Open repository](https://github.com/blacksmithgu/datacore)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 388 | - | 
 | 2023-02-27 | 384 | - | 
 | 2023-02-26 | 379 | - | 
 | 2023-02-25 | 376 | - | 

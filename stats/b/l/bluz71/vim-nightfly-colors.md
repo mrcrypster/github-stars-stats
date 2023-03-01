@@ -1,10 +1,10 @@
 # bluz71/vim-nightfly-colors - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 45
 
-★ Stars: 576
+★ Stars: 577
 
 [Open repository](https://github.com/bluz71/vim-nightfly-colors)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 577 | 45 | 
 | 2023-02-27 | 576 | 45 | 
 | 2023-02-26 | 575 | 44 | 
 | 2023-02-25 | 574 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 560 | 43 | 
 | 2023-01-31 | 558 | 43 | 
 | 2023-01-30 | 557 | 43 | 
-| 2023-01-29 | 557 | 42 | 
 

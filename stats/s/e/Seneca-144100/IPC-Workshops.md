@@ -1,6 +1,6 @@
 # Seneca-144100/IPC-Workshops - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 61 | 252 | 
 | 2023-02-26 | 61 | 252 | 
 | 2023-02-25 | 61 | 252 | 
 | 2023-02-24 | 61 | 252 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 57 | 249 | 
 | 2023-01-31 | 57 | 248 | 
 | 2023-01-30 | 57 | 248 | 
-| 2023-01-29 | 57 | 248 | 
 

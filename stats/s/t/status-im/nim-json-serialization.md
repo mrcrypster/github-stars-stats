@@ -1,6 +1,6 @@
 # status-im/nim-json-serialization - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 37 | 10 | 
 | 2023-02-27 | 37 | 10 | 
 | 2023-02-26 | 37 | 10 | 
 | 2023-02-25 | 37 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 37 | 10 | 
 | 2023-01-31 | 37 | 10 | 
 | 2023-01-30 | 36 | 10 | 
-| 2023-01-29 | 36 | 10 | 
 

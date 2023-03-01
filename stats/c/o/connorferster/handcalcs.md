@@ -1,8 +1,8 @@
 # connorferster/handcalcs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 399
+☋ Forks: 398
 
 ★ Stars: 5125
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5125 | 398 | 
 | 2023-02-27 | 5125 | 399 | 
 | 2023-02-25 | 5125 | 399 | 
 | 2023-02-24 | 5124 | 399 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 5074 | 393 | 
 | 2023-01-31 | 5075 | 393 | 
 | 2023-01-30 | 5076 | 393 | 
-| 2023-01-29 | 5076 | 393 | 
 

@@ -1,8 +1,8 @@
 # bashbunni/dotfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 262
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 262 | 25 | 
 | 2023-02-27 | 262 | 24 | 
 | 2023-02-26 | 262 | 24 | 
 | 2023-02-25 | 260 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 249 | 24 | 
 | 2023-01-31 | 250 | 24 | 
 | 2023-01-30 | 246 | 24 | 
-| 2023-01-29 | 243 | 24 | 
 

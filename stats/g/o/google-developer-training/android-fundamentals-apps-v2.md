@@ -1,8 +1,8 @@
 # google-developer-training/android-fundamentals-apps-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2648
+☋ Forks: 2654
 
 ★ Stars: 623
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 623 | 2654 | 
 | 2023-02-27 | 623 | 2648 | 
 | 2023-02-26 | 623 | 2646 | 
 | 2023-02-24 | 623 | 2641 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 620 | 2633 | 
 | 2023-01-31 | 620 | 2633 | 
 | 2023-01-30 | 620 | 2633 | 
-| 2023-01-29 | 620 | 2633 | 
 

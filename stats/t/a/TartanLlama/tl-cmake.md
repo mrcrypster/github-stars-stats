@@ -1,6 +1,6 @@
 # TartanLlama/tl-cmake - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4 | 3 | 
 | 2023-02-27 | 4 | 3 | 
 | 2023-02-26 | 4 | 3 | 
 | 2023-02-25 | 4 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3 | 3 | 
 | 2023-01-31 | 3 | 3 | 
 | 2023-01-30 | 3 | 3 | 
-| 2023-01-29 | 3 | 3 | 
 

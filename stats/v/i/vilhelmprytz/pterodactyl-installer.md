@@ -1,10 +1,10 @@
 # vilhelmprytz/pterodactyl-installer - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 363
+☋ Forks: 364
 
-★ Stars: 797
+★ Stars: 800
 
 [Open repository](https://github.com/vilhelmprytz/pterodactyl-installer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 800 | 364 | 
 | 2023-02-27 | 797 | 363 | 
 | 2023-02-26 | 796 | 363 | 
 | 2023-02-25 | 796 | 361 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 775 | 351 | 
 | 2023-01-31 | 774 | 350 | 
 | 2023-01-30 | 773 | 350 | 
-| 2023-01-29 | 769 | 349 | 
 

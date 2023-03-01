@@ -1,6 +1,6 @@
 # ballerina-guides/gcp-microservices-demo - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 11 | 29 | 
 | 2023-02-26 | 11 | 29 | 
 | 2023-02-25 | 11 | 29 | 
 | 2023-02-24 | 11 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 10 | 26 | 
 | 2023-01-31 | 10 | 26 | 
 | 2023-01-30 | 10 | 26 | 
-| 2023-01-29 | 10 | 26 | 
 

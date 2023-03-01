@@ -1,10 +1,10 @@
 # BrightDaniel/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 243
+☋ Forks: 248
 
-★ Stars: 145
+★ Stars: 150
 
 [Open repository](https://github.com/BrightDaniel/alx-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 150 | 248 | 
 | 2023-02-26 | 145 | 243 | 
 | 2023-02-25 | 144 | 241 | 
 | 2023-02-24 | 142 | 237 | 

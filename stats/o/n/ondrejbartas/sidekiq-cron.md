@@ -1,6 +1,6 @@
 # ondrejbartas/sidekiq-cron - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1693 | 261 | 
 | 2023-02-27 | 1693 | 261 | 
 | 2023-02-25 | 1693 | 261 | 
 | 2023-02-24 | 1693 | 261 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 1687 | 259 | 
 | 2023-02-01 | 1687 | 259 | 
 | 2023-01-31 | 1687 | 259 | 
-| 2023-01-29 | 1687 | 257 | 
 

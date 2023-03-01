@@ -1,10 +1,10 @@
 # sultim-t/xash-rt - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 489
+★ Stars: 500
 
 [Open repository](https://github.com/sultim-t/xash-rt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 500 | 10 | 
 | 2023-02-27 | 489 | 9 | 
 | 2023-02-26 | 430 | 9 | 
 | 2023-02-25 | 388 | 7 | 

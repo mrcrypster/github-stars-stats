@@ -1,10 +1,10 @@
 # josh0xA/darkdump - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 84
 
-★ Stars: 393
+★ Stars: 397
 
 [Open repository](https://github.com/josh0xA/darkdump)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 397 | 84 | 
 | 2023-02-27 | 393 | 84 | 
 | 2023-02-26 | 388 | 83 | 
 | 2023-02-25 | 388 | 83 | 

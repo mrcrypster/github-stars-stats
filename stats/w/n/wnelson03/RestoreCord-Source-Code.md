@@ -1,6 +1,6 @@
 # wnelson03/RestoreCord-Source-Code - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 93 | 38 | 
 | 2023-02-26 | 93 | 38 | 
 | 2023-02-25 | 93 | 38 | 
 | 2023-02-24 | 93 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 82 | 34 | 
 | 2023-02-01 | 81 | 34 | 
 | 2023-01-31 | 81 | 34 | 
-| 2023-01-29 | 81 | 34 | 
 

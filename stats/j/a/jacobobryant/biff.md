@@ -1,10 +1,10 @@
 # jacobobryant/biff - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 19
 
-★ Stars: 425
+★ Stars: 427
 
 [Open repository](https://github.com/jacobobryant/biff)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 427 | 19 | 
 | 2023-02-27 | 425 | 19 | 
 | 2023-02-26 | 423 | 18 | 
 | 2023-02-25 | 421 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 415 | 17 | 
 | 2023-01-31 | 413 | 16 | 
 | 2023-01-30 | 413 | 16 | 
-| 2023-01-29 | 413 | 16 | 
 

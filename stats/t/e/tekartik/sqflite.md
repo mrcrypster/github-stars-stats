@@ -1,10 +1,10 @@
 # tekartik/sqflite - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 470
+☋ Forks: 469
 
-★ Stars: 2568
+★ Stars: 2569
 
 [Open repository](https://github.com/tekartik/sqflite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2569 | 469 | 
 | 2023-02-26 | 2568 | 470 | 
 | 2023-02-25 | 2568 | 470 | 
 | 2023-02-24 | 2567 | 469 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 2554 | 460 | 
 | 2023-02-01 | 2553 | 460 | 
 | 2023-01-31 | 2553 | 460 | 
-| 2023-01-30 | 2553 | 460 | 
 

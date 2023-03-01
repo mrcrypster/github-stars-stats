@@ -1,10 +1,10 @@
 # nealmckee/penumbra - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 18
 
-★ Stars: 1063
+★ Stars: 1064
 
 [Open repository](https://github.com/nealmckee/penumbra)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1064 | 18 | 
 | 2023-02-27 | 1063 | 18 | 
 | 2023-02-26 | 1063 | 18 | 
 | 2023-02-24 | 1063 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1062 | 18 | 
 | 2023-01-31 | 1062 | 18 | 
 | 2023-01-30 | 1062 | 18 | 
-| 2023-01-29 | 1062 | 18 | 
 

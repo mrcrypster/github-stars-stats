@@ -1,10 +1,10 @@
 # keijiro/KinoAqua - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 22
 
-★ Stars: 385
+★ Stars: 390
 
 [Open repository](https://github.com/keijiro/KinoAqua)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 390 | 22 | 
 | 2023-02-27 | 385 | 22 | 
 | 2023-02-25 | 385 | 22 | 
 | 2023-02-24 | 385 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 379 | 22 | 
 | 2023-01-31 | 378 | 22 | 
 | 2023-01-30 | 378 | 22 | 
-| 2023-01-29 | 377 | 22 | 
 

@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 28
 
 ☋ Forks: 117
 
-★ Stars: 882
+★ Stars: 883
 
 [Open repository](https://github.com/udlbook/udlbook)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 882 | 117 | 
+| 2023-02-28 | 883 | 117 | 
 | 2023-02-27 | 882 | 117 | 
 | 2023-02-26 | 875 | 114 | 
 | 2023-02-25 | 830 | 98 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-01 | 488 | 49 | 
 | 2023-01-31 | 453 | 44 | 
 | 2023-01-30 | 417 | 41 | 
-| 2023-01-29 | 407 | 40 | 
 

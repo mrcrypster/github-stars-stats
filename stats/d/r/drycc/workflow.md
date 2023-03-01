@@ -1,10 +1,10 @@
 # drycc/workflow - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 107
 
-★ Stars: 786
+★ Stars: 785
 
 [Open repository](https://github.com/drycc/workflow)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 785 | 107 | 
 | 2023-02-27 | 786 | 107 | 
 | 2023-02-26 | 786 | 107 | 
 | 2023-02-25 | 787 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 789 | 107 | 
 | 2023-01-31 | 789 | 107 | 
 | 2023-01-30 | 789 | 107 | 
-| 2023-01-29 | 789 | 107 | 
 

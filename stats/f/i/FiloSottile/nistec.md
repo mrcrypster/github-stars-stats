@@ -1,10 +1,10 @@
 # FiloSottile/nistec - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/FiloSottile/nistec)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 38 | 5 | 
 | 2023-02-27 | 37 | 5 | 
 | 2023-02-26 | 37 | 5 | 
 | 2023-02-25 | 37 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 36 | 5 | 
 | 2023-01-31 | 36 | 5 | 
 | 2023-01-30 | 36 | 5 | 
-| 2023-01-29 | 36 | 5 | 
 

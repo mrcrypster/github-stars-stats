@@ -1,6 +1,6 @@
 # envoyproxy/data-plane-api - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 508 | 264 | 
 | 2023-02-27 | 508 | 264 | 
 | 2023-02-26 | 508 | 264 | 
 | 2023-02-25 | 508 | 264 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 503 | 262 | 
 | 2023-01-31 | 502 | 262 | 
 | 2023-01-30 | 502 | 262 | 
-| 2023-01-29 | 502 | 262 | 
 

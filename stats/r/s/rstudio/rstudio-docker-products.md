@@ -1,10 +1,10 @@
 # rstudio/rstudio-docker-products - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/rstudio/rstudio-docker-products)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 40 | 53 | 
 | 2023-02-26 | 39 | 52 | 
 | 2023-02-25 | 39 | 52 | 
 | 2023-02-24 | 39 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 39 | 49 | 
 | 2023-01-31 | 40 | 49 | 
 | 2023-01-30 | 40 | 49 | 
-| 2023-01-29 | 40 | 49 | 
 

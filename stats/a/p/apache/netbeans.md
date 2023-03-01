@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 28
 
-☋ Forks: 746
+☋ Forks: 747
 
-★ Stars: 2196
+★ Stars: 2198
 
 [Open repository](https://github.com/apache/netbeans)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 2196 | 746 | 
+| 2023-02-28 | 2198 | 747 | 
 | 2023-02-27 | 2194 | 746 | 
 | 2023-02-26 | 2188 | 746 | 
 | 2023-02-25 | 2186 | 746 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-01 | 2160 | 742 | 
 | 2023-01-31 | 2158 | 743 | 
 | 2023-01-30 | 2158 | 742 | 
-| 2023-01-29 | 2159 | 742 | 
 

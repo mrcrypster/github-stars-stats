@@ -1,8 +1,8 @@
 # kenwheeler/slick - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 5955
+☋ Forks: 5957
 
 ★ Stars: 27865
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 27865 | 5957 | 
 | 2023-02-27 | 27865 | 5955 | 
 | 2023-02-26 | 27864 | 5953 | 
 | 2023-02-25 | 27861 | 5953 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 27844 | 5952 | 
 | 2023-01-31 | 27846 | 5952 | 
 | 2023-01-30 | 27843 | 5953 | 
-| 2023-01-29 | 27838 | 5952 | 
 

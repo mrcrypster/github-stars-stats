@@ -1,10 +1,10 @@
 # facebook/flipper - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 891
 
-★ Stars: 12324
+★ Stars: 12330
 
 [Open repository](https://github.com/facebook/flipper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 12330 | 891 | 
 | 2023-02-27 | 12324 | 891 | 
 | 2023-02-26 | 12321 | 891 | 
 | 2023-02-24 | 12318 | 891 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 12288 | 887 | 
 | 2023-01-31 | 12287 | 887 | 
 | 2023-01-30 | 12285 | 886 | 
-| 2023-01-29 | 12285 | 886 | 
 

@@ -1,6 +1,6 @@
 # theferrer/vagrant-lamp - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 8 | 2 | 
 | 2023-02-27 | 8 | 2 | 
 | 2023-02-26 | 8 | 2 | 
 | 2023-02-25 | 8 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 8 | 3 | 
 | 2023-02-01 | 8 | 3 | 
 | 2023-01-30 | 8 | 3 | 
-| 2023-01-29 | 8 | 3 | 
 

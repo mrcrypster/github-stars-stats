@@ -1,10 +1,10 @@
 # maaa101/burgertunes - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 47
 
 [Open repository](https://github.com/maaa101/burgertunes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 47 | 3 | 
 | 2023-02-27 | 48 | 3 | 
 | 2023-02-26 | 48 | 3 | 
 | 2023-02-25 | 48 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 48 | 3 | 
 | 2023-01-31 | 48 | 3 | 
 | 2023-01-30 | 48 | 3 | 
-| 2023-01-29 | 48 | 3 | 
 

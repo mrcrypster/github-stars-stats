@@ -1,6 +1,6 @@
 # ValveSoftware/steam-runtime - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1037 | 98 | 
 | 2023-02-27 | 1037 | 98 | 
 | 2023-02-26 | 1037 | 98 | 
 | 2023-02-25 | 1036 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1034 | 98 | 
 | 2023-01-31 | 1033 | 98 | 
 | 2023-01-30 | 1033 | 98 | 
-| 2023-01-29 | 1033 | 98 | 
 

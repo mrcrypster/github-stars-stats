@@ -1,8 +1,8 @@
 # ruby/psych - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 197
+☋ Forks: 198
 
 ★ Stars: 528
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 528 | 198 | 
 | 2023-02-27 | 528 | 197 | 
 | 2023-02-26 | 527 | 197 | 
 | 2023-02-25 | 527 | 197 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 528 | 193 | 
 | 2023-01-31 | 528 | 193 | 
 | 2023-01-30 | 528 | 193 | 
-| 2023-01-29 | 529 | 193 | 
 

@@ -1,10 +1,10 @@
 # odis-labs/helix - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/odis-labs/helix)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 32 | - | 
 | 2023-02-27 | 31 | - | 
 | 2023-02-26 | 29 | - | 
 | 2023-02-25 | 29 | - | 

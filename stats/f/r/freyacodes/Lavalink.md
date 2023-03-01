@@ -1,10 +1,10 @@
 # freyacodes/Lavalink - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 562
+☋ Forks: 564
 
-★ Stars: 1121
+★ Stars: 1122
 
 [Open repository](https://github.com/freyacodes/Lavalink)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1122 | 564 | 
 | 2023-02-27 | 1121 | 562 | 
 | 2023-02-26 | 1121 | 561 | 
 | 2023-02-25 | 1121 | 561 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1103 | 546 | 
 | 2023-01-31 | 1100 | 546 | 
 | 2023-01-30 | 1101 | 546 | 
-| 2023-01-29 | 1100 | 546 | 
 

@@ -1,6 +1,6 @@
 # stuart-lab/signac - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 210 | 75 | 
 | 2023-02-27 | 210 | 75 | 
 | 2023-02-26 | 210 | 75 | 
 | 2023-02-25 | 210 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 206 | 74 | 
 | 2023-01-31 | 206 | 74 | 
 | 2023-01-30 | 205 | 74 | 
-| 2023-01-29 | 205 | 74 | 
 

@@ -1,10 +1,10 @@
 # kyoto-framework/kyoto - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 26
 
-★ Stars: 551
+★ Stars: 552
 
 [Open repository](https://github.com/kyoto-framework/kyoto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 552 | 26 | 
 | 2023-02-27 | 551 | 26 | 
 | 2023-02-26 | 551 | 26 | 
 | 2023-02-24 | 551 | 26 | 

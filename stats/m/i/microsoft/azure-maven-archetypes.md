@@ -1,6 +1,6 @@
 # microsoft/azure-maven-archetypes - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 20 | 31 | 
 | 2023-02-26 | 20 | 31 | 
 | 2023-02-25 | 20 | 31 | 
 | 2023-02-24 | 20 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 20 | 29 | 
 | 2023-01-31 | 20 | 29 | 
 | 2023-01-30 | 20 | 29 | 
-| 2023-01-29 | 20 | 29 | 
 

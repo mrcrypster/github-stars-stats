@@ -1,6 +1,6 @@
 # elipousson/sfext - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 14 | - | 
 | 2023-02-27 | 14 | - | 
 | 2023-02-26 | 14 | - | 
 | 2023-02-25 | 14 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 13 | - | 
 | 2023-02-01 | 13 | - | 
 | 2023-01-30 | 13 | - | 
-| 2023-01-29 | 13 | - | 
 

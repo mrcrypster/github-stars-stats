@@ -1,10 +1,10 @@
 # caleb-allen/VimBindings.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/caleb-allen/VimBindings.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 40 | 2 | 
 | 2023-02-27 | 39 | 2 | 
 | 2023-02-26 | 39 | 2 | 
 | 2023-02-25 | 39 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 38 | 2 | 
 | 2023-01-31 | 39 | 2 | 
 | 2023-01-30 | 39 | 2 | 
-| 2023-01-29 | 39 | 2 | 
 

@@ -1,10 +1,10 @@
 # andalisolutions/anaf-php - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/andalisolutions/anaf-php)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 21 | 4 | 
 | 2023-02-27 | 20 | 4 | 
 | 2023-02-25 | 20 | 4 | 
 | 2023-02-24 | 20 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 20 | 4 | 
 | 2023-02-01 | 20 | 4 | 
 | 2023-01-31 | 20 | 4 | 
-| 2023-01-30 | 20 | 4 | 
 

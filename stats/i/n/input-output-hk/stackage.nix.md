@@ -1,8 +1,8 @@
 # input-output-hk/stackage.nix - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 9 | 10 | 
 | 2023-02-26 | 9 | 9 | 
 | 2023-02-25 | 9 | 9 | 
 | 2023-02-24 | 9 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 9 | 9 | 
 | 2023-01-31 | 9 | 9 | 
 | 2023-01-30 | 9 | 9 | 
-| 2023-01-29 | 9 | 9 | 
 

@@ -1,6 +1,6 @@
 # Diverto/nse-exchange - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 76 | 20 | 
 | 2023-02-27 | 76 | 20 | 
 | 2023-02-26 | 75 | 19 | 
 | 2023-02-25 | 75 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 70 | 18 | 
 | 2023-01-31 | 69 | 18 | 
 | 2023-01-30 | 68 | 18 | 
-| 2023-01-29 | 68 | 18 | 
 

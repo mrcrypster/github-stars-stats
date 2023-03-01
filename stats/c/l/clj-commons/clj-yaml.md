@@ -1,10 +1,10 @@
 # clj-commons/clj-yaml - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 19
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/clj-commons/clj-yaml)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 98 | 19 | 
 | 2023-02-27 | 97 | 19 | 
 | 2023-02-26 | 97 | 19 | 
 | 2023-02-25 | 97 | 19 | 

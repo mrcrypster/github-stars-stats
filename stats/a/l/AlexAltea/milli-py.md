@@ -1,10 +1,10 @@
 # AlexAltea/milli-py - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
-★ Stars: 95
+★ Stars: 105
 
 [Open repository](https://github.com/AlexAltea/milli-py)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 105 | 3 | 
 | 2023-02-27 | 95 | 3 | 
 | 2023-02-26 | 94 | 3 | 
 | 2023-02-25 | 91 | 3 | 

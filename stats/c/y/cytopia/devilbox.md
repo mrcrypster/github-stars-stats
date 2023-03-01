@@ -1,6 +1,6 @@
 # cytopia/devilbox - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 599
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4053 | 599 | 
 | 2023-02-26 | 4053 | 599 | 
 | 2023-02-25 | 4051 | 599 | 
 | 2023-02-24 | 4050 | 599 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 4032 | 592 | 
 | 2023-01-31 | 4031 | 592 | 
 | 2023-01-30 | 4029 | 592 | 
-| 2023-01-29 | 4027 | 592 | 
 

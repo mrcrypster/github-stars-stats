@@ -1,10 +1,10 @@
 # ucb-bar/sha3 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 18
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/ucb-bar/sha3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 68 | 18 | 
 | 2023-02-27 | 67 | 18 | 
 | 2023-02-26 | 67 | 18 | 
 | 2023-02-24 | 67 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 62 | 17 | 
 | 2023-01-31 | 62 | 17 | 
 | 2023-01-30 | 62 | 17 | 
-| 2023-01-29 | 62 | 17 | 
 

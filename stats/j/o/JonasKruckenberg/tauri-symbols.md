@@ -1,6 +1,6 @@
 # JonasKruckenberg/tauri-symbols - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 18 | 2 | 
 | 2023-02-27 | 18 | 2 | 
 | 2023-02-26 | 19 | 2 | 
 | 2023-02-25 | 19 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 19 | 2 | 
 | 2023-01-31 | 20 | 2 | 
 | 2023-01-30 | 20 | 2 | 
-| 2023-01-29 | 20 | 2 | 
 

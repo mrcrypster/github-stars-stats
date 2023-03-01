@@ -1,8 +1,8 @@
 # Alfresco/acs-deployment - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 226
+☋ Forks: 227
 
 ★ Stars: 149
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 149 | 227 | 
+| 2023-02-28 | 149 | 227 | 
 | 2023-02-27 | 149 | 226 | 
 | 2023-02-26 | 148 | 225 | 
 | 2023-02-25 | 148 | 225 | 
@@ -41,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 142 | 222 | 
 | 2023-01-31 | 142 | 221 | 
 | 2023-01-30 | 142 | 221 | 
-| 2023-01-29 | 142 | 221 | 
 

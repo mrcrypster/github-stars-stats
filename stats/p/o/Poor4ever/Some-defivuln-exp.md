@@ -1,10 +1,10 @@
 # Poor4ever/Some-defivuln-exp - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/Poor4ever/Some-defivuln-exp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 35 | 6 | 
 | 2023-02-27 | 34 | 6 | 
 | 2023-02-26 | 34 | 6 | 
 | 2023-02-25 | 34 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 33 | 5 | 
 | 2023-01-31 | 33 | 5 | 
 | 2023-01-30 | 33 | 5 | 
-| 2023-01-29 | 33 | 5 | 
 

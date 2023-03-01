@@ -1,6 +1,6 @@
 # lpgauth/swirl - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 58 | 7 | 
 | 2023-02-27 | 58 | 7 | 
 | 2023-02-26 | 58 | 7 | 
 | 2023-02-25 | 57 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 56 | 7 | 
 | 2023-01-31 | 56 | 7 | 
 | 2023-01-30 | 56 | 7 | 
-| 2023-01-29 | 56 | 7 | 
 

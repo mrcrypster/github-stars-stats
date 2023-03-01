@@ -1,10 +1,10 @@
 # taamarin/ClashforMagisk - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 33
 
-★ Stars: 522
+★ Stars: 523
 
 [Open repository](https://github.com/taamarin/ClashforMagisk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 523 | 33 | 
 | 2023-02-27 | 522 | 33 | 
 | 2023-02-26 | 513 | 33 | 
 | 2023-02-25 | 507 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 357 | 26 | 
 | 2023-01-31 | 348 | 27 | 
 | 2023-01-30 | 322 | 26 | 
-| 2023-01-29 | 289 | 25 | 
 

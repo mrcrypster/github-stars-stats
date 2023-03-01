@@ -1,10 +1,10 @@
 # sonic2kk/steamtinkerlaunch - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 43
 
-★ Stars: 1324
+★ Stars: 1329
 
 [Open repository](https://github.com/sonic2kk/steamtinkerlaunch)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1329 | 43 | 
 | 2023-02-26 | 1324 | 43 | 
 | 2023-02-25 | 1321 | 43 | 
 | 2023-02-24 | 1315 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 1276 | 42 | 
 | 2023-01-31 | 1274 | 42 | 
 | 2023-01-30 | 1273 | 42 | 
-| 2023-01-29 | 1272 | 42 | 
 

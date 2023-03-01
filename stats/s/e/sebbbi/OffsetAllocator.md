@@ -1,10 +1,10 @@
 # sebbbi/OffsetAllocator - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 12
 
-★ Stars: 343
+★ Stars: 345
 
 [Open repository](https://github.com/sebbbi/OffsetAllocator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 345 | 12 | 
 | 2023-02-27 | 343 | 12 | 
 | 2023-02-26 | 341 | 12 | 
 | 2023-02-25 | 339 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 180 | 6 | 
 | 2023-01-31 | 180 | 6 | 
 | 2023-01-30 | 179 | 6 | 
-| 2023-01-29 | 179 | 6 | 
 

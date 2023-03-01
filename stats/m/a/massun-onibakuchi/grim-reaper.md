@@ -1,6 +1,6 @@
 # massun-onibakuchi/grim-reaper - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 70 | 4 | 
 | 2023-02-27 | 70 | 4 | 
 | 2023-02-26 | 70 | 4 | 
 | 2023-02-25 | 70 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 66 | 4 | 
 | 2023-02-01 | 66 | 4 | 
 | 2023-01-31 | 67 | 4 | 
-| 2023-01-30 | 67 | 4 | 
 

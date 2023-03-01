@@ -1,10 +1,10 @@
 # Sasanidas/Apprentice - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/Sasanidas/Apprentice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 22 | - | 
 | 2023-02-26 | 23 | - | 
 | 2023-02-25 | 23 | - | 
 | 2023-02-24 | 23 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 22 | - | 
 | 2023-02-01 | 22 | - | 
 | 2023-01-31 | 22 | - | 
-| 2023-01-30 | 22 | - | 
 

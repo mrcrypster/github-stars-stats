@@ -1,6 +1,6 @@
 # fiberplane/autometrics-rs - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 447 | 4 | 
 | 2023-02-26 | 447 | 4 | 
 | 2023-02-25 | 445 | 4 | 
 | 2023-02-24 | 435 | 4 | 

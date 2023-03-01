@@ -1,10 +1,10 @@
 # pest-parser/pest - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 191
 
-★ Stars: 3658
+★ Stars: 3670
 
 [Open repository](https://github.com/pest-parser/pest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3670 | 191 | 
 | 2023-02-27 | 3658 | 191 | 
 | 2023-02-26 | 3648 | 191 | 
 | 2023-02-25 | 3638 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3553 | 189 | 
 | 2023-01-31 | 3552 | 190 | 
 | 2023-01-30 | 3550 | 190 | 
-| 2023-01-29 | 3547 | 190 | 
 

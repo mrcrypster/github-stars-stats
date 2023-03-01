@@ -1,10 +1,10 @@
 # six2dez/OneListForAll - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 320
+☋ Forks: 321
 
-★ Stars: 1662
+★ Stars: 1665
 
 [Open repository](https://github.com/six2dez/OneListForAll)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1665 | 321 | 
 | 2023-02-27 | 1662 | 320 | 
 | 2023-02-26 | 1659 | 320 | 
 | 2023-02-25 | 1658 | 320 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1607 | 312 | 
 | 2023-01-31 | 1606 | 312 | 
 | 2023-01-30 | 1606 | 312 | 
-| 2023-01-29 | 1604 | 312 | 
 

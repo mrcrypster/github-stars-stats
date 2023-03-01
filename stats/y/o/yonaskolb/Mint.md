@@ -1,10 +1,10 @@
 # yonaskolb/Mint - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 100
 
-★ Stars: 2021
+★ Stars: 2024
 
 [Open repository](https://github.com/yonaskolb/Mint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2024 | 100 | 
 | 2023-02-26 | 2021 | 100 | 
 | 2023-02-25 | 2020 | 100 | 
 | 2023-02-24 | 2020 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 2000 | 97 | 
 | 2023-02-01 | 1997 | 97 | 
 | 2023-01-30 | 1996 | 98 | 
-| 2023-01-29 | 1995 | 98 | 
 

@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-operator - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 261
+☋ Forks: 260
 
-★ Stars: 667
+★ Stars: 668
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 668 | 260 | 
 | 2023-02-27 | 667 | 261 | 
 | 2023-02-26 | 665 | 260 | 
 | 2023-02-25 | 664 | 260 | 

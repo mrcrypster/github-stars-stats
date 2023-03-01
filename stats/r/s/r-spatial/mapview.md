@@ -1,6 +1,6 @@
 # r-spatial/mapview - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 452 | 91 | 
 | 2023-02-27 | 452 | 91 | 
 | 2023-02-26 | 452 | 91 | 
 | 2023-02-25 | 452 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 449 | 91 | 
 | 2023-01-31 | 449 | 91 | 
 | 2023-01-30 | 448 | 91 | 
-| 2023-01-29 | 448 | 91 | 
 

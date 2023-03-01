@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 28
 
 ☋ Forks: 199
 
-★ Stars: 1916
+★ Stars: 1919
 
 [Open repository](https://github.com/runwayml/stable-diffusion)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 1916 | 199 | 
+| 2023-02-28 | 1919 | 199 | 
 | 2023-02-27 | 1914 | 199 | 
 | 2023-02-26 | 1905 | 199 | 
 | 2023-02-25 | 1893 | 194 | 
@@ -41,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-01 | 1771 | 172 | 
 | 2023-01-31 | 1771 | 170 | 
 | 2023-01-30 | 1766 | 168 | 
-| 2023-01-29 | 1763 | 166 | 
 

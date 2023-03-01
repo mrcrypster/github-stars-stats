@@ -1,6 +1,6 @@
 # mir-hussain/debugging-project-3 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2 | 3 | 
 | 2023-02-26 | 2 | 3 | 
 | 2023-02-25 | 2 | 3 | 
 | 2023-02-24 | 2 | 3 | 

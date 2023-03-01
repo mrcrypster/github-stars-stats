@@ -1,6 +1,6 @@
 # zuri-training/favicon-gen-team-66 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1 | 36 | 
 | 2023-02-26 | 1 | 36 | 
 | 2023-02-25 | 1 | 36 | 
 | 2023-02-24 | 1 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 1 | 36 | 
 | 2023-02-01 | 1 | 36 | 
 | 2023-01-31 | 1 | 36 | 
-| 2023-01-29 | 1 | 36 | 
 

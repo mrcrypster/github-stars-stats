@@ -1,8 +1,8 @@
 # permitio/opal-example-policy-repo - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 13 | 54 | 
 | 2023-02-27 | 13 | 53 | 
 | 2023-02-26 | 13 | 53 | 
 | 2023-02-25 | 13 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 12 | 50 | 
 | 2023-01-31 | 12 | 50 | 
 | 2023-01-30 | 12 | 50 | 
-| 2023-01-29 | 12 | 50 | 
 

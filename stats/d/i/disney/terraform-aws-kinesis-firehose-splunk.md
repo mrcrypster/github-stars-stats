@@ -1,6 +1,6 @@
 # disney/terraform-aws-kinesis-firehose-splunk - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 55 | 33 | 
 | 2023-02-27 | 55 | 33 | 
 | 2023-02-26 | 55 | 33 | 
 | 2023-02-25 | 55 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 55 | 32 | 
 | 2023-01-31 | 55 | 32 | 
 | 2023-01-30 | 55 | 32 | 
-| 2023-01-29 | 55 | 32 | 
 

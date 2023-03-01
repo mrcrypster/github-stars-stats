@@ -1,6 +1,6 @@
 # bdlukaa/fluent_ui - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1971 | 324 | 
 | 2023-02-27 | 1971 | 324 | 
 | 2023-02-26 | 1969 | 323 | 
 | 2023-02-25 | 1968 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1894 | 311 | 
 | 2023-01-31 | 1886 | 310 | 
 | 2023-01-30 | 1881 | 308 | 
-| 2023-01-29 | 1876 | 308 | 
 

@@ -1,8 +1,8 @@
 # geohot/cuda_ioctl_sniffer - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 123
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 123 | 13 | 
 | 2023-02-26 | 123 | 12 | 
 | 2023-02-25 | 122 | 12 | 
 | 2023-02-24 | 122 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 120 | 11 | 
 | 2023-01-31 | 120 | 11 | 
 | 2023-01-30 | 120 | 11 | 
-| 2023-01-29 | 120 | 11 | 
 

@@ -1,10 +1,10 @@
 # honzaap/GithubCity - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 43
 
-★ Stars: 961
+★ Stars: 962
 
 [Open repository](https://github.com/honzaap/GithubCity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 962 | 43 | 
 | 2023-02-27 | 961 | 43 | 
 | 2023-02-26 | 961 | 43 | 
 | 2023-02-25 | 960 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 952 | 45 | 
 | 2023-01-31 | 951 | 45 | 
 | 2023-01-30 | 952 | 45 | 
-| 2023-01-29 | 951 | 45 | 
 

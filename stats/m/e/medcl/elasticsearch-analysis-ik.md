@@ -1,10 +1,10 @@
 # medcl/elasticsearch-analysis-ik - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3114
 
-★ Stars: 14795
+★ Stars: 14801
 
 [Open repository](https://github.com/medcl/elasticsearch-analysis-ik)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 14801 | 3114 | 
 | 2023-02-27 | 14795 | 3114 | 
 | 2023-02-26 | 14791 | 3114 | 
 | 2023-02-25 | 14792 | 3115 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 14701 | 3110 | 
 | 2023-01-31 | 14698 | 3107 | 
 | 2023-01-30 | 14694 | 3106 | 
-| 2023-01-29 | 14686 | 3105 | 
 

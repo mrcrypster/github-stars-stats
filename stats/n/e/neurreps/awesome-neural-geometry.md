@@ -1,6 +1,6 @@
 # neurreps/awesome-neural-geometry - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 630 | 29 | 
 | 2023-02-27 | 630 | 29 | 
 | 2023-02-26 | 628 | 29 | 
 | 2023-02-25 | 627 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 619 | 25 | 
 | 2023-01-31 | 619 | 25 | 
 | 2023-01-30 | 619 | 25 | 
-| 2023-01-29 | 618 | 25 | 
 

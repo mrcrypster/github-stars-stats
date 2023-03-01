@@ -1,6 +1,6 @@
 # nickrobinson251/PowerFlowData.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 22 | 6 | 
 | 2023-02-26 | 22 | 6 | 
 | 2023-02-25 | 22 | 6 | 
 | 2023-02-24 | 22 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 21 | 4 | 
 | 2023-01-31 | 21 | 4 | 
 | 2023-01-30 | 21 | 4 | 
-| 2023-01-29 | 21 | 4 | 
 

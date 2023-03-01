@@ -1,10 +1,10 @@
 # nickrehm/dRehmFlight - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 135
 
-★ Stars: 544
+★ Stars: 547
 
 [Open repository](https://github.com/nickrehm/dRehmFlight)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 547 | 135 | 
 | 2023-02-27 | 544 | 135 | 
 | 2023-02-25 | 543 | 135 | 
 | 2023-02-24 | 541 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 516 | 124 | 
 | 2023-02-01 | 515 | 124 | 
 | 2023-01-31 | 516 | 124 | 
-| 2023-01-30 | 514 | 124 | 
 

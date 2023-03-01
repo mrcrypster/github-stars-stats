@@ -1,6 +1,6 @@
 # SAP/abap-file-formats-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 12 | 4 | 
 | 2023-02-27 | 12 | 4 | 
 | 2023-02-25 | 12 | 4 | 
 | 2023-02-24 | 12 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 11 | 4 | 
 | 2023-01-31 | 11 | 4 | 
 | 2023-01-30 | 11 | 4 | 
-| 2023-01-29 | 11 | 4 | 
 

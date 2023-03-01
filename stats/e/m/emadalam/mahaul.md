@@ -1,10 +1,10 @@
 # emadalam/mahaul - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 15
 
 [Open repository](https://github.com/emadalam/mahaul)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 15 | 1 | 
 | 2023-02-27 | 12 | - | 
 | 2023-02-26 | 12 | - | 
 | 2023-02-25 | 12 | - | 

@@ -1,10 +1,10 @@
 # roboflow-ai/roboflow-100-benchmark - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 13
 
-★ Stars: 138
+★ Stars: 140
 
 [Open repository](https://github.com/roboflow-ai/roboflow-100-benchmark)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 140 | 13 | 
 | 2023-02-27 | 138 | 13 | 
 | 2023-02-26 | 138 | 13 | 
 | 2023-02-25 | 138 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 132 | 12 | 
 | 2023-01-31 | 132 | 12 | 
 | 2023-01-30 | 131 | 12 | 
-| 2023-01-29 | 130 | 12 | 
 

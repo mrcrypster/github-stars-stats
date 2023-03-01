@@ -1,6 +1,6 @@
 # reanimate/reanimate - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1033 | 57 | 
 | 2023-02-26 | 1033 | 57 | 
 | 2023-02-25 | 1032 | 57 | 
 | 2023-02-24 | 1031 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 1023 | 55 | 
 | 2023-01-31 | 1024 | 55 | 
 | 2023-01-30 | 1024 | 55 | 
-| 2023-01-29 | 1024 | 55 | 
 

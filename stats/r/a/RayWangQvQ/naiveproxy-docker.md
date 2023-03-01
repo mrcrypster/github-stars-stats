@@ -1,10 +1,10 @@
 # RayWangQvQ/naiveproxy-docker - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 26
+☋ Forks: 28
 
-★ Stars: 98
+★ Stars: 101
 
 [Open repository](https://github.com/RayWangQvQ/naiveproxy-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 101 | 28 | 
 | 2023-02-27 | 98 | 26 | 
 | 2023-02-26 | 97 | 26 | 
 | 2023-02-24 | 96 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 81 | 23 | 
 | 2023-01-31 | 81 | 22 | 
 | 2023-01-30 | 78 | 22 | 
-| 2023-01-29 | 78 | 22 | 
 

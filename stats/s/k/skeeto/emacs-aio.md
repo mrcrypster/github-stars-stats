@@ -1,6 +1,6 @@
 # skeeto/emacs-aio - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 204 | 10 | 
 | 2023-02-27 | 204 | 10 | 
 | 2023-02-26 | 204 | 10 | 
 | 2023-02-25 | 204 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 204 | 10 | 
 | 2023-01-31 | 203 | 10 | 
 | 2023-01-30 | 203 | 10 | 
-| 2023-01-29 | 203 | 10 | 
 

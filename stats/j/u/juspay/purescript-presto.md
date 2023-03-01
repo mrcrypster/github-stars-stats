@@ -1,10 +1,10 @@
 # juspay/purescript-presto - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 29
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/juspay/purescript-presto)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 189 | 29 | 
 | 2023-02-27 | 188 | 29 | 
 | 2023-02-26 | 188 | 29 | 
 | 2023-02-25 | 187 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 187 | 29 | 
 | 2023-01-31 | 186 | 29 | 
 | 2023-01-30 | 186 | 29 | 
-| 2023-01-29 | 186 | 29 | 
 

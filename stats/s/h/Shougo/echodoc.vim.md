@@ -1,6 +1,6 @@
 # Shougo/echodoc.vim - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 571 | 32 | 
 | 2023-02-27 | 571 | 32 | 
 | 2023-02-25 | 571 | 32 | 
 | 2023-02-24 | 571 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 572 | 33 | 
 | 2023-01-31 | 572 | 33 | 
 | 2023-01-30 | 572 | 33 | 
-| 2023-01-29 | 572 | 33 | 
 

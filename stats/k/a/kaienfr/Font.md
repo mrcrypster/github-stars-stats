@@ -1,8 +1,8 @@
 # kaienfr/Font - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 266
+☋ Forks: 267
 
 ★ Stars: 217
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 217 | 267 | 
 | 2023-02-27 | 217 | 266 | 
 | 2023-02-26 | 217 | 265 | 
 | 2023-02-25 | 217 | 265 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 207 | 261 | 
 | 2023-02-01 | 207 | 260 | 
 | 2023-01-30 | 207 | 259 | 
-| 2023-01-29 | 206 | 259 | 
 

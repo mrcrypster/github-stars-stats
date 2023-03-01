@@ -1,6 +1,6 @@
 # confluentinc/coding-in-motion - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 10 | 2 | 
 | 2023-02-26 | 10 | 2 | 
 | 2023-02-25 | 10 | 2 | 
 | 2023-02-24 | 10 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 9 | 1 | 
 | 2023-02-01 | 9 | 1 | 
 | 2023-01-31 | 9 | 1 | 
-| 2023-01-29 | 9 | 1 | 
 

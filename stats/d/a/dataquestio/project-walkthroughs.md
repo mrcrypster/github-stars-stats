@@ -1,8 +1,8 @@
 # dataquestio/project-walkthroughs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 699
+☋ Forks: 700
 
 ★ Stars: 445
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 445 | 700 | 
 | 2023-02-27 | 445 | 699 | 
 | 2023-02-25 | 444 | 696 | 
 | 2023-02-24 | 444 | 691 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 423 | 645 | 
 | 2023-01-31 | 419 | 642 | 
 | 2023-01-30 | 417 | 639 | 
-| 2023-01-29 | 415 | 639 | 
 

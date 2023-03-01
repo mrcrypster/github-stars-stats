@@ -1,6 +1,6 @@
 # lowRISC/opentitan - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 530
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1734 | 530 | 
 | 2023-02-27 | 1734 | 530 | 
 | 2023-02-26 | 1733 | 530 | 
 | 2023-02-25 | 1733 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1715 | 516 | 
 | 2023-01-31 | 1715 | 516 | 
 | 2023-01-30 | 1714 | 516 | 
-| 2023-01-29 | 1714 | 516 | 
 

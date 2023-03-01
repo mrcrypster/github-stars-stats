@@ -1,10 +1,10 @@
 # nvim-zh/colorful-winsep.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 222
+★ Stars: 223
 
 [Open repository](https://github.com/nvim-zh/colorful-winsep.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 223 | 4 | 
 | 2023-02-27 | 222 | 4 | 
 | 2023-02-26 | 222 | 4 | 
 | 2023-02-25 | 221 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 217 | 4 | 
 | 2023-02-01 | 217 | 4 | 
 | 2023-01-31 | 217 | 4 | 
-| 2023-01-29 | 218 | 4 | 
 

@@ -1,10 +1,10 @@
 # Sparsh752/E-Rickshaw - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Sparsh752/E-Rickshaw)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2 | 9 | 
 | 2023-02-27 | 1 | 9 | 
 | 2023-02-26 | 1 | 9 | 
 | 2023-02-25 | 1 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1 | 9 | 
 | 2023-01-31 | 1 | 9 | 
 | 2023-01-30 | 1 | 9 | 
-| 2023-01-29 | 1 | 9 | 
 

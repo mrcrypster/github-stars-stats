@@ -1,6 +1,6 @@
 # datawhalechina/daily-interview - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1834 | 375 | 
 | 2023-02-26 | 1834 | 375 | 
 | 2023-02-25 | 1834 | 375 | 
 | 2023-02-24 | 1833 | 375 | 

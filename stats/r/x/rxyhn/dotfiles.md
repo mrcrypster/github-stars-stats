@@ -1,6 +1,6 @@
 # rxyhn/dotfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 195 | 14 | 
 | 2023-02-27 | 195 | 14 | 
 | 2023-02-25 | 194 | 14 | 
 | 2023-02-24 | 193 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 173 | 12 | 
 | 2023-01-31 | 171 | 12 | 
 | 2023-01-30 | 170 | 12 | 
-| 2023-01-29 | 169 | 11 | 
 

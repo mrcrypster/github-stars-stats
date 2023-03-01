@@ -1,6 +1,6 @@
 # COPS-IITBHU/sdg-site - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10 | 69 | 
 | 2023-02-27 | 10 | 69 | 
 | 2023-02-26 | 10 | 69 | 
 | 2023-02-25 | 10 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 10 | 70 | 
 | 2023-01-31 | 10 | 70 | 
 | 2023-01-30 | 10 | 70 | 
-| 2023-01-29 | 10 | 70 | 
 

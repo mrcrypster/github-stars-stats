@@ -1,6 +1,6 @@
 # tienphaw/LifeProgress - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 189 | 15 | 
 | 2023-02-26 | 189 | 15 | 
 | 2023-02-25 | 189 | 15 | 
 | 2023-02-24 | 188 | 15 | 

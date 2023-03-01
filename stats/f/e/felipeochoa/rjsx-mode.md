@@ -1,6 +1,6 @@
 # felipeochoa/rjsx-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 627 | 32 | 
 | 2023-02-27 | 627 | 32 | 
 | 2023-02-26 | 627 | 32 | 
 | 2023-02-25 | 627 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 627 | 32 | 
 | 2023-02-01 | 627 | 32 | 
 | 2023-01-31 | 626 | 32 | 
-| 2023-01-30 | 626 | 32 | 
 

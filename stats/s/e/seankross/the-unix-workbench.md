@@ -1,10 +1,10 @@
 # seankross/the-unix-workbench - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2214
 
-★ Stars: 1204
+★ Stars: 1205
 
 [Open repository](https://github.com/seankross/the-unix-workbench)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1205 | 2214 | 
 | 2023-02-26 | 1204 | 2214 | 
 | 2023-02-25 | 1204 | 2212 | 
 | 2023-02-24 | 1204 | 2213 | 

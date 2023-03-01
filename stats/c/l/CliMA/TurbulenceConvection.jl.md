@@ -1,6 +1,6 @@
 # CliMA/TurbulenceConvection.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 23 | 3 | 
 | 2023-02-26 | 23 | 3 | 
 | 2023-02-25 | 23 | 3 | 
 | 2023-02-24 | 23 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 23 | 3 | 
 | 2023-01-31 | 23 | 3 | 
 | 2023-01-30 | 23 | 3 | 
-| 2023-01-29 | 23 | 3 | 
 

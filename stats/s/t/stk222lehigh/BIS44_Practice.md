@@ -1,6 +1,6 @@
 # stk222lehigh/BIS44_Practice - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 303
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 303 | 
 | 2023-02-27 | - | 303 | 
 | 2023-02-26 | - | 303 | 
 | 2023-02-24 | - | 303 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | - | 161 | 
 | 2023-01-31 | - | 161 | 
 | 2023-01-30 | - | 161 | 
-| 2023-01-29 | - | 161 | 
 

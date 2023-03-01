@@ -1,6 +1,6 @@
 # turingschool-examples/fictional-spoon-2299 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 28 | 
 | 2023-02-27 | - | 28 | 
 | 2023-02-26 | - | 28 | 
 | 2023-02-25 | - | 28 | 

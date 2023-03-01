@@ -1,10 +1,10 @@
 # djrtwo/writing - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
-★ Stars: 57
+★ Stars: 60
 
 [Open repository](https://github.com/djrtwo/writing)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 60 | 4 | 
 | 2023-02-27 | 57 | 4 | 
 | 2023-02-26 | 54 | 3 | 
 

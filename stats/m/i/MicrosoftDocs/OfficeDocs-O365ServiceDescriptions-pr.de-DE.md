@@ -1,6 +1,6 @@
 # MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.de-DE - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4 | 3 | 
 | 2023-02-26 | 4 | 3 | 
 | 2023-02-25 | 4 | 3 | 
 | 2023-02-24 | 4 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 4 | 3 | 
 | 2023-02-01 | 4 | 3 | 
 | 2023-01-31 | 4 | 3 | 
-| 2023-01-30 | 4 | 3 | 
 

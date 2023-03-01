@@ -1,10 +1,10 @@
 # ic005k/OCAuxiliaryTools - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 235
 
-★ Stars: 2228
+★ Stars: 2235
 
 [Open repository](https://github.com/ic005k/OCAuxiliaryTools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2235 | 235 | 
 | 2023-02-27 | 2228 | 235 | 
 | 2023-02-25 | 2224 | 235 | 
 | 2023-02-24 | 2218 | 235 | 

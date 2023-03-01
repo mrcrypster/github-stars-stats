@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 28
 
 ☋ Forks: 669
 
-★ Stars: 11103
+★ Stars: 11106
 
 [Open repository](https://github.com/juanfont/headscale)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 11103 | 669 | 
+| 2023-02-28 | 11106 | 669 | 
 | 2023-02-27 | 11099 | 669 | 
 | 2023-02-26 | 11084 | 668 | 
 | 2023-02-25 | 11067 | 663 | 
@@ -42,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-01 | 10622 | 625 | 
 | 2023-01-31 | 10596 | 623 | 
 | 2023-01-30 | 10568 | 618 | 
-| 2023-01-29 | 10554 | 616 | 
 

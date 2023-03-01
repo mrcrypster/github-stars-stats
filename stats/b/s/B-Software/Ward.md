@@ -1,10 +1,10 @@
 # B-Software/Ward - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 187
+☋ Forks: 188
 
-★ Stars: 1863
+★ Stars: 1865
 
 [Open repository](https://github.com/B-Software/Ward)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1865 | 188 | 
 | 2023-02-26 | 1863 | 187 | 
 | 2023-02-25 | 1862 | 187 | 
 | 2023-02-24 | 1860 | 187 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 1849 | 183 | 
 | 2023-01-31 | 1849 | 183 | 
 | 2023-01-30 | 1844 | 183 | 
-| 2023-01-29 | 1840 | 183 | 
 

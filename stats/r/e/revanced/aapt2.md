@@ -1,10 +1,10 @@
 # revanced/aapt2 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 21
+☋ Forks: 23
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/revanced/aapt2)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 26 | 23 | 
 | 2023-02-27 | 25 | 21 | 
 | 2023-02-25 | 25 | 21 | 
 | 2023-02-24 | 25 | 19 | 

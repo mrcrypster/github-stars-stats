@@ -1,8 +1,8 @@
 # PwnFunction/Blank-Rick-Roll - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 390
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 390 | 84 | 
 | 2023-02-26 | 390 | 83 | 
 | 2023-02-25 | 390 | 83 | 
 | 2023-02-24 | 390 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 389 | 83 | 
 | 2023-02-01 | 389 | 83 | 
 | 2023-01-30 | 389 | 83 | 
-| 2023-01-29 | 388 | 82 | 
 

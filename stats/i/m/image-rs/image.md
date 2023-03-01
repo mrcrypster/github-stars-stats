@@ -1,6 +1,6 @@
 # image-rs/image - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 509
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3617 | 509 | 
 | 2023-02-27 | 3617 | 509 | 
 | 2023-02-26 | 3615 | 508 | 
 | 2023-02-25 | 3614 | 508 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3518 | 498 | 
 | 2023-01-31 | 3513 | 497 | 
 | 2023-01-30 | 3513 | 497 | 
-| 2023-01-29 | 3509 | 497 | 
 

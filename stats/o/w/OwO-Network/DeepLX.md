@@ -2,9 +2,9 @@
 
 Stats updated on Feb 2023, 28
 
-☋ Forks: 58
+☋ Forks: 64
 
-★ Stars: 625
+★ Stars: 718
 
 [Open repository](https://github.com/OwO-Network/DeepLX)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 625 | 58 | 
+| 2023-02-28 | 718 | 64 | 
 | 2023-02-27 | 592 | 58 | 
 | 2023-02-26 | 419 | 49 | 
 

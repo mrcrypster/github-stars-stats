@@ -1,6 +1,6 @@
 # mi-creative/mi-gen - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 73 | 6 | 
 | 2023-02-27 | 73 | 6 | 
 | 2023-02-26 | 73 | 6 | 
 | 2023-02-25 | 73 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 72 | 6 | 
 | 2023-02-01 | 72 | 6 | 
 | 2023-01-31 | 72 | 6 | 
-| 2023-01-30 | 72 | 6 | 
 

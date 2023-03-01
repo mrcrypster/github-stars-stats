@@ -1,10 +1,10 @@
 # Julia-Tempering/Pigeons.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/Julia-Tempering/Pigeons.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 30 | 1 | 
 | 2023-02-26 | 29 | 1 | 
 | 2023-02-25 | 29 | 1 | 
 | 2023-02-24 | 28 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 25 | 1 | 
 | 2023-02-01 | 24 | 1 | 
 | 2023-01-31 | 25 | 1 | 
-| 2023-01-30 | 25 | 1 | 
 

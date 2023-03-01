@@ -1,6 +1,6 @@
 # bizz84/complete-flutter-course - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 537 | 125 | 
 | 2023-02-27 | 537 | 125 | 
 | 2023-02-26 | 537 | 125 | 
 | 2023-02-25 | 535 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 508 | 113 | 
 | 2023-01-31 | 507 | 113 | 
 | 2023-01-30 | 507 | 114 | 
-| 2023-01-29 | 505 | 114 | 
 

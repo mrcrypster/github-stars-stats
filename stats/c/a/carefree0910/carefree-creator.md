@@ -1,10 +1,10 @@
 # carefree0910/carefree-creator - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 174
 
-★ Stars: 1878
+★ Stars: 1879
 
 [Open repository](https://github.com/carefree0910/carefree-creator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1879 | 174 | 
 | 2023-02-27 | 1878 | 174 | 
 | 2023-02-25 | 1878 | 174 | 
 | 2023-02-24 | 1877 | 174 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 1825 | 166 | 
 | 2023-02-01 | 1823 | 166 | 
 | 2023-01-31 | 1819 | 165 | 
-| 2023-01-30 | 1819 | 165 | 
 

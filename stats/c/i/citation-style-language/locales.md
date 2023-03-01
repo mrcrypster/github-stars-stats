@@ -1,8 +1,8 @@
 # citation-style-language/locales - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 187
+☋ Forks: 188
 
 ★ Stars: 111
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 111 | 188 | 
 | 2023-02-27 | 111 | 187 | 
 | 2023-02-26 | 111 | 187 | 
 | 2023-02-25 | 111 | 187 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 110 | 185 | 
 | 2023-01-31 | 110 | 185 | 
 | 2023-01-30 | 110 | 183 | 
-| 2023-01-29 | 110 | 183 | 
 

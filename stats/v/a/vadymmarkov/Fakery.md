@@ -1,10 +1,10 @@
 # vadymmarkov/Fakery - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 184
 
-★ Stars: 1682
+★ Stars: 1683
 
 [Open repository](https://github.com/vadymmarkov/Fakery)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1683 | 184 | 
 | 2023-02-27 | 1682 | 184 | 
 | 2023-02-26 | 1682 | 184 | 
 | 2023-02-25 | 1680 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1674 | 183 | 
 | 2023-01-31 | 1674 | 183 | 
 | 2023-01-30 | 1672 | 183 | 
-| 2023-01-29 | 1671 | 183 | 
 

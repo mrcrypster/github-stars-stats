@@ -1,6 +1,6 @@
 # danba340/minecraft-freecodecamp - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 178 | 113 | 
 | 2023-02-27 | 178 | 113 | 
 | 2023-02-26 | 178 | 113 | 
 | 2023-02-25 | 178 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 176 | 115 | 
 | 2023-01-31 | 173 | 115 | 
 | 2023-01-30 | 173 | 114 | 
-| 2023-01-29 | 173 | 114 | 
 

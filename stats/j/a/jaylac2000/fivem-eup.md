@@ -1,6 +1,6 @@
 # jaylac2000/fivem-eup - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 17 | 14 | 
 | 2023-02-26 | 17 | 14 | 
 | 2023-02-25 | 17 | 14 | 
 | 2023-02-24 | 16 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 16 | 13 | 
 | 2023-01-31 | 16 | 13 | 
 | 2023-01-30 | 16 | 13 | 
-| 2023-01-29 | 16 | 13 | 
 

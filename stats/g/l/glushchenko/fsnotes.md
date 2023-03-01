@@ -1,10 +1,10 @@
 # glushchenko/fsnotes - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 385
 
-★ Stars: 5384
+★ Stars: 5386
 
 [Open repository](https://github.com/glushchenko/fsnotes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5386 | 385 | 
 | 2023-02-27 | 5384 | 385 | 
 | 2023-02-26 | 5382 | 385 | 
 | 2023-02-25 | 5381 | 384 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 5344 | 380 | 
 | 2023-01-31 | 5345 | 380 | 
 | 2023-01-30 | 5342 | 379 | 
-| 2023-01-29 | 5341 | 377 | 
 

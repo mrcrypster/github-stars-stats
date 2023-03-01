@@ -1,8 +1,8 @@
 # microsoft/QuantumLibraries - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 176
+☋ Forks: 177
 
 ★ Stars: 497
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 497 | 177 | 
 | 2023-02-27 | 497 | 176 | 
 | 2023-02-26 | 496 | 175 | 
 | 2023-02-25 | 496 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 493 | 175 | 
 | 2023-01-31 | 492 | 175 | 
 | 2023-01-30 | 490 | 175 | 
-| 2023-01-29 | 490 | 175 | 
 

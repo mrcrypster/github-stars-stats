@@ -1,10 +1,10 @@
 # hundredblocks/large-model-parallelism - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 69
+★ Stars: 72
 
 [Open repository](https://github.com/hundredblocks/large-model-parallelism)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 72 | 4 | 
 | 2023-02-27 | 69 | 4 | 
 | 2023-02-26 | 66 | 4 | 
 | 2023-02-25 | 63 | 4 | 

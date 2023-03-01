@@ -1,10 +1,10 @@
 # kaangiray26/forte - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
-★ Stars: 126
+★ Stars: 131
 
 [Open repository](https://github.com/kaangiray26/forte)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 131 | 5 | 
+| 2023-02-28 | 129 | 5 | 
 | 2023-02-27 | 126 | 5 | 
 | 2023-02-26 | 80 | 4 | 
 

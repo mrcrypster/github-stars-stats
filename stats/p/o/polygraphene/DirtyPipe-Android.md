@@ -1,8 +1,8 @@
 # polygraphene/DirtyPipe-Android - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 114
+☋ Forks: 115
 
 ★ Stars: 599
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 599 | 115 | 
 | 2023-02-26 | 599 | 114 | 
 | 2023-02-25 | 599 | 114 | 
 | 2023-02-24 | 598 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 586 | 112 | 
 | 2023-01-31 | 587 | 112 | 
 | 2023-01-30 | 586 | 112 | 
-| 2023-01-29 | 586 | 112 | 
 

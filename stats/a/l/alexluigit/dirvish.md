@@ -1,10 +1,10 @@
 # alexluigit/dirvish - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 26
+☋ Forks: 25
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/alexluigit/dirvish)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 507 | 25 | 
 | 2023-02-26 | 506 | 26 | 
 | 2023-02-25 | 506 | 26 | 
 | 2023-02-24 | 505 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 486 | 24 | 
 | 2023-01-31 | 486 | 24 | 
 | 2023-01-30 | 486 | 23 | 
-| 2023-01-29 | 484 | 23 | 
 

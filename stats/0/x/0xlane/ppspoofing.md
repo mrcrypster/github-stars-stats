@@ -1,6 +1,6 @@
 # 0xlane/ppspoofing - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 41 | 8 | 
 | 2023-02-27 | 41 | 8 | 
 | 2023-02-25 | 41 | 8 | 
 | 2023-02-24 | 41 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 37 | 8 | 
 | 2023-02-01 | 37 | 8 | 
 | 2023-01-31 | 37 | 8 | 
-| 2023-01-30 | 36 | 8 | 
 

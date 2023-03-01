@@ -1,6 +1,6 @@
 # quoll/asami - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 250 | 4 | 
 | 2023-02-27 | 250 | 4 | 
 | 2023-02-26 | 250 | 4 | 
 | 2023-02-25 | 250 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 239 | 5 | 
 | 2023-01-31 | 238 | 5 | 
 | 2023-01-30 | 238 | 5 | 
-| 2023-01-29 | 237 | 5 | 
 

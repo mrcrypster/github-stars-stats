@@ -1,10 +1,10 @@
 # shubhamgrg04/awesome-diagramming - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 61
 
-★ Stars: 2442
+★ Stars: 2443
 
 [Open repository](https://github.com/shubhamgrg04/awesome-diagramming)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2443 | 61 | 
 | 2023-02-27 | 2442 | 61 | 
 | 2023-02-25 | 2441 | 61 | 
 | 2023-02-24 | 2444 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2430 | 61 | 
 | 2023-01-31 | 2431 | 61 | 
 | 2023-01-30 | 2431 | 61 | 
-| 2023-01-29 | 2429 | 61 | 
 

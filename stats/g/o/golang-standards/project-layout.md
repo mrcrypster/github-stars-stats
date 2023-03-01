@@ -1,10 +1,10 @@
 # golang-standards/project-layout - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 4268
+☋ Forks: 4269
 
-★ Stars: 38050
+★ Stars: 38079
 
 [Open repository](https://github.com/golang-standards/project-layout)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 38079 | 4269 | 
 | 2023-02-27 | 38050 | 4268 | 
 | 2023-02-26 | 38035 | 4268 | 
 | 2023-02-25 | 38013 | 4264 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 37481 | 4214 | 
 | 2023-01-31 | 37457 | 4208 | 
 | 2023-01-30 | 37422 | 4203 | 
-| 2023-01-29 | 37349 | 4193 | 
 

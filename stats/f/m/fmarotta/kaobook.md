@@ -1,10 +1,10 @@
 # fmarotta/kaobook - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 120
+☋ Forks: 121
 
-★ Stars: 635
+★ Stars: 636
 
 [Open repository](https://github.com/fmarotta/kaobook)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 636 | 121 | 
 | 2023-02-27 | 635 | 120 | 
 | 2023-02-26 | 634 | 120 | 
 | 2023-02-25 | 633 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 622 | 120 | 
 | 2023-01-31 | 622 | 120 | 
 | 2023-01-30 | 622 | 120 | 
-| 2023-01-29 | 622 | 120 | 
 

@@ -1,6 +1,6 @@
 # emacsorphanage/ansible-doc - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 28 | 6 | 
 | 2023-02-27 | 28 | 6 | 
 | 2023-02-26 | 28 | 6 | 
 | 2023-02-24 | 28 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 28 | 6 | 
 | 2023-01-31 | 28 | 6 | 
 | 2023-01-30 | 28 | 6 | 
-| 2023-01-29 | 28 | 6 | 
 

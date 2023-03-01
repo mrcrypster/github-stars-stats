@@ -1,10 +1,10 @@
 # rubys/dockerfile-rails - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 8
 
-★ Stars: 83
+★ Stars: 85
 
 [Open repository](https://github.com/rubys/dockerfile-rails)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 85 | 8 | 
 | 2023-02-27 | 83 | 8 | 
 | 2023-02-26 | 83 | 8 | 
 | 2023-02-25 | 78 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 36 | 8 | 
 | 2023-01-31 | 36 | 7 | 
 | 2023-01-30 | 34 | 6 | 
-| 2023-01-29 | 30 | 6 | 
 

@@ -1,10 +1,10 @@
 # 64/cmake-raytracer - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 12
 
-★ Stars: 630
+★ Stars: 632
 
 [Open repository](https://github.com/64/cmake-raytracer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 632 | 12 | 
 | 2023-02-26 | 630 | 12 | 
 | 2023-02-25 | 629 | 12 | 
 | 2023-02-24 | 629 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 627 | 12 | 
 | 2023-02-01 | 627 | 12 | 
 | 2023-01-30 | 626 | 12 | 
-| 2023-01-29 | 626 | 12 | 
 

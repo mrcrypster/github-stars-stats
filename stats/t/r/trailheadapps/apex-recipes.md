@@ -1,10 +1,10 @@
 # trailheadapps/apex-recipes - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 309
 
-★ Stars: 721
+★ Stars: 723
 
 [Open repository](https://github.com/trailheadapps/apex-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 723 | 309 | 
 | 2023-02-26 | 721 | 309 | 
 | 2023-02-25 | 720 | 309 | 
 | 2023-02-24 | 720 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 705 | 306 | 
 | 2023-01-31 | 704 | 305 | 
 | 2023-01-30 | 703 | 305 | 
-| 2023-01-29 | 702 | 305 | 
 

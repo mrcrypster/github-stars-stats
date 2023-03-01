@@ -1,6 +1,6 @@
 # nahmii/nb-sandbox-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 30 | 12 | 
 | 2023-02-27 | 30 | 12 | 
 | 2023-02-25 | 30 | 12 | 
 | 2023-02-24 | 30 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 31 | 12 | 
 | 2023-02-01 | 31 | 12 | 
 | 2023-01-30 | 31 | 12 | 
-| 2023-01-29 | 31 | 12 | 
 

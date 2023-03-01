@@ -1,6 +1,6 @@
 # nbw/figmex - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 72 | 11 | 
 | 2023-02-26 | 72 | 11 | 
 | 2023-02-25 | 72 | 11 | 
 | 2023-02-24 | 72 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 69 | 11 | 
 | 2023-01-31 | 69 | 11 | 
 | 2023-01-30 | 69 | 11 | 
-| 2023-01-29 | 68 | 10 | 
 

@@ -1,10 +1,10 @@
 # egbakou/RESTCountries.NET - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 15
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/egbakou/RESTCountries.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 265 | 15 | 
 | 2023-02-27 | 264 | 15 | 
 | 2023-02-26 | 264 | 15 | 
 | 2023-02-25 | 264 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 264 | 15 | 
 | 2023-01-31 | 264 | 15 | 
 | 2023-01-30 | 264 | 15 | 
-| 2023-01-29 | 264 | 15 | 
 

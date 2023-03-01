@@ -1,6 +1,6 @@
 # tashirosota/ecto_cellar - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 79 | 4 | 
 | 2023-02-27 | 79 | 4 | 
 | 2023-02-26 | 79 | 4 | 
 | 2023-02-24 | 79 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 79 | 4 | 
 | 2023-01-31 | 79 | 4 | 
 | 2023-01-30 | 79 | 4 | 
-| 2023-01-29 | 79 | 4 | 
 

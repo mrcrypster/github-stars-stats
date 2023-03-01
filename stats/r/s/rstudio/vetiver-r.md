@@ -1,6 +1,6 @@
 # rstudio/vetiver-r - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 148 | 22 | 
 | 2023-02-26 | 148 | 22 | 
 | 2023-02-25 | 148 | 22 | 
 | 2023-02-24 | 148 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 146 | 19 | 
 | 2023-01-31 | 146 | 19 | 
 | 2023-01-30 | 147 | 19 | 
-| 2023-01-29 | 147 | 19 | 
 

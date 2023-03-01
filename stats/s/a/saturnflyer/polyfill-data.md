@@ -1,6 +1,6 @@
 # saturnflyer/polyfill-data - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 20 | 3 | 
 | 2023-02-26 | 20 | 3 | 
 | 2023-02-25 | 20 | 3 | 
 | 2023-02-24 | 20 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 19 | 3 | 
 | 2023-01-31 | 18 | 3 | 
 | 2023-01-30 | 17 | 3 | 
-| 2023-01-29 | 17 | 3 | 
 

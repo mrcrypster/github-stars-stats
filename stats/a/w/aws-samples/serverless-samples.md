@@ -1,6 +1,6 @@
 # aws-samples/serverless-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 190 | 85 | 
 | 2023-02-26 | 190 | 85 | 
 | 2023-02-25 | 190 | 85 | 
 | 2023-02-24 | 190 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 187 | 81 | 
 | 2023-01-31 | 187 | 81 | 
 | 2023-01-30 | 188 | 81 | 
-| 2023-01-29 | 188 | 81 | 
 

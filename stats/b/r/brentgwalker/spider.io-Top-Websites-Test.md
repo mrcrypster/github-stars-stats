@@ -1,10 +1,10 @@
 # brentgwalker/spider.io-Top-Websites-Test - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/brentgwalker/spider.io-Top-Websites-Test)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4 | - | 
 | 2023-02-27 | 5 | - | 
 | 2023-02-26 | 5 | - | 
 | 2023-02-25 | 5 | - | 

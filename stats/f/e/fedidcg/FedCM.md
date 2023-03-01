@@ -1,6 +1,6 @@
 # fedidcg/FedCM - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 260 | 60 | 
 | 2023-02-27 | 260 | 60 | 
 | 2023-02-26 | 260 | 60 | 
 | 2023-02-24 | 259 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 252 | 58 | 
 | 2023-01-31 | 252 | 58 | 
 | 2023-01-30 | 253 | 58 | 
-| 2023-01-29 | 253 | 58 | 
 

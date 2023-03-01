@@ -1,10 +1,10 @@
 # sindresorhus/sindresorhus.github.com - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 48
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/sindresorhus/sindresorhus.github.com)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 194 | 48 | 
 | 2023-02-27 | 193 | 48 | 
 | 2023-02-26 | 193 | 48 | 
 | 2023-02-24 | 192 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 189 | 48 | 
 | 2023-01-31 | 189 | 48 | 
 | 2023-01-30 | 190 | 47 | 
-| 2023-01-29 | 190 | 47 | 
 

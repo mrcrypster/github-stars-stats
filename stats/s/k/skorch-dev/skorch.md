@@ -1,6 +1,6 @@
 # skorch-dev/skorch - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 337
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5049 | 337 | 
 | 2023-02-27 | 5049 | 337 | 
 | 2023-02-26 | 5048 | 337 | 
 | 2023-02-25 | 5048 | 337 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 4992 | 334 | 
 | 2023-01-31 | 4989 | 334 | 
 | 2023-01-30 | 4990 | 334 | 
-| 2023-01-29 | 4988 | 334 | 
 

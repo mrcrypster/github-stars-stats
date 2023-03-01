@@ -1,10 +1,10 @@
 # JohnnyCurran/TimeTravel - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/JohnnyCurran/TimeTravel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 89 | - | 
 | 2023-02-27 | 88 | - | 
 | 2023-02-26 | 88 | - | 
 | 2023-02-24 | 88 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 81 | - | 
 | 2023-01-31 | 81 | - | 
 | 2023-01-30 | 81 | - | 
-| 2023-01-29 | 80 | - | 
 

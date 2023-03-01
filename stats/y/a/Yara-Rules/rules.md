@@ -1,10 +1,10 @@
 # Yara-Rules/rules - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 913
+☋ Forks: 914
 
-★ Stars: 3477
+★ Stars: 3481
 
 [Open repository](https://github.com/Yara-Rules/rules)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3481 | 914 | 
 | 2023-02-27 | 3477 | 913 | 
 | 2023-02-26 | 3476 | 913 | 
 | 2023-02-25 | 3475 | 913 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3433 | 909 | 
 | 2023-01-31 | 3431 | 909 | 
 | 2023-01-30 | 3429 | 909 | 
-| 2023-01-29 | 3429 | 909 | 
 

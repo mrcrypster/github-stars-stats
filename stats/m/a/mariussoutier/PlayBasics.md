@@ -1,6 +1,6 @@
 # mariussoutier/PlayBasics - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 166 | 63 | 
 | 2023-02-27 | 166 | 63 | 
 | 2023-02-26 | 166 | 63 | 
 | 2023-02-25 | 166 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 167 | 63 | 
 | 2023-02-01 | 167 | 63 | 
 | 2023-01-31 | 167 | 63 | 
-| 2023-01-30 | 167 | 63 | 
 

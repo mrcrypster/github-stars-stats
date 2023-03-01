@@ -1,10 +1,10 @@
 # w-digital-scanner/w13scan - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 341
 
-★ Stars: 1563
+★ Stars: 1565
 
 [Open repository](https://github.com/w-digital-scanner/w13scan)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1565 | 341 | 
 | 2023-02-26 | 1563 | 341 | 
 | 2023-02-25 | 1563 | 341 | 
 | 2023-02-24 | 1563 | 341 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 1555 | 338 | 
 | 2023-02-01 | 1554 | 338 | 
 | 2023-01-31 | 1555 | 338 | 
-| 2023-01-30 | 1555 | 338 | 
 

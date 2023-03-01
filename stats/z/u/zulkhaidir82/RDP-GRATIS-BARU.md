@@ -1,8 +1,8 @@
 # zulkhaidir82/RDP-GRATIS-BARU - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 211
+☋ Forks: 212
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5 | 212 | 
 | 2023-02-26 | 5 | 211 | 
 | 2023-02-25 | 5 | 211 | 
 | 2023-02-24 | 5 | 208 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 2 | 172 | 
 | 2023-01-31 | 2 | 172 | 
 | 2023-01-30 | 2 | 171 | 
-| 2023-01-29 | 2 | 170 | 
 

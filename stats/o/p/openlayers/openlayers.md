@@ -1,10 +1,10 @@
 # openlayers/openlayers - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2863
 
-★ Stars: 9798
+★ Stars: 9805
 
 [Open repository](https://github.com/openlayers/openlayers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 9805 | 2863 | 
 | 2023-02-27 | 9798 | 2863 | 
 | 2023-02-26 | 9797 | 2863 | 
 | 2023-02-24 | 9796 | 2861 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 9742 | 2847 | 
 | 2023-01-31 | 9739 | 2846 | 
 | 2023-01-30 | 9740 | 2846 | 
-| 2023-01-29 | 9733 | 2844 | 
 

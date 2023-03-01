@@ -1,6 +1,6 @@
 # CUIT-CBI/dapp-lesson2 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3 | 189 | 
 | 2023-02-26 | 3 | 189 | 
 | 2023-02-25 | 3 | 188 | 
 | 2023-02-24 | 3 | 188 | 

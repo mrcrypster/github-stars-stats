@@ -1,10 +1,10 @@
 # jthomasmock/gtExtras - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 15
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/jthomasmock/gtExtras)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 147 | 15 | 
 | 2023-02-26 | 146 | 15 | 
 | 2023-02-25 | 146 | 15 | 
 | 2023-02-24 | 146 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 142 | 15 | 
 | 2023-01-31 | 142 | 15 | 
 | 2023-01-30 | 142 | 15 | 
-| 2023-01-29 | 142 | 15 | 
 

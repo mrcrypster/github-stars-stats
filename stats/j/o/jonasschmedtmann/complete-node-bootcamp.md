@@ -1,10 +1,10 @@
 # jonasschmedtmann/complete-node-bootcamp - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2697
+☋ Forks: 2701
 
-★ Stars: 2085
+★ Stars: 2086
 
 [Open repository](https://github.com/jonasschmedtmann/complete-node-bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2086 | 2701 | 
 | 2023-02-27 | 2085 | 2697 | 
 | 2023-02-26 | 2084 | 2690 | 
 | 2023-02-25 | 2080 | 2687 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2023 | 2621 | 
 | 2023-01-31 | 2018 | 2618 | 
 | 2023-01-30 | 2013 | 2614 | 
-| 2023-01-29 | 2010 | 2609 | 
 

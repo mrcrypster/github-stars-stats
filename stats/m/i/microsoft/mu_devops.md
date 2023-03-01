@@ -1,6 +1,6 @@
 # microsoft/mu_devops - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 16 | 10 | 
 | 2023-02-26 | 16 | 10 | 
 | 2023-02-25 | 16 | 10 | 
 | 2023-02-24 | 16 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 16 | 7 | 
 | 2023-01-31 | 17 | 7 | 
 | 2023-01-30 | 17 | 7 | 
-| 2023-01-29 | 17 | 7 | 
 

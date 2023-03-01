@@ -1,6 +1,6 @@
 # williamnie/netSend - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 367 | 41 | 
 | 2023-02-26 | 367 | 41 | 
 | 2023-02-25 | 366 | 41 | 
 | 2023-02-24 | 366 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 346 | 39 | 
 | 2023-02-01 | 345 | 39 | 
 | 2023-01-31 | 344 | 39 | 
-| 2023-01-30 | 343 | 39 | 
 

@@ -1,10 +1,10 @@
 # paratestphp/paratest - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 206
 
-★ Stars: 2064
+★ Stars: 2066
 
 [Open repository](https://github.com/paratestphp/paratest)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2066 | 206 | 
 | 2023-02-27 | 2064 | 206 | 
 | 2023-02-26 | 2063 | 206 | 
 | 2023-02-25 | 2062 | 206 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2047 | 207 | 
 | 2023-01-31 | 2047 | 207 | 
 | 2023-01-30 | 2045 | 208 | 
-| 2023-01-29 | 2045 | 208 | 
 

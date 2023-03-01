@@ -1,6 +1,6 @@
 # Layendan/NineAnimator-Tauri - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 31 | 2 | 
 | 2023-02-26 | 31 | 2 | 
 | 2023-02-25 | 31 | 2 | 
 | 2023-02-24 | 31 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 30 | 2 | 
 | 2023-02-01 | 30 | 2 | 
 | 2023-01-30 | 30 | 2 | 
-| 2023-01-29 | 30 | 2 | 
 

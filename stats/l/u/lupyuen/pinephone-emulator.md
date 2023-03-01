@@ -1,10 +1,10 @@
 # lupyuen/pinephone-emulator - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/lupyuen/pinephone-emulator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 19 | 2 | 
 | 2023-02-27 | 18 | 1 | 
 | 2023-02-26 | 15 | 1 | 
 | 2023-02-25 | 12 | 1 | 

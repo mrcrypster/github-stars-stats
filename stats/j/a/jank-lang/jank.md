@@ -1,10 +1,10 @@
 # jank-lang/jank - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 16
 
-★ Stars: 979
+★ Stars: 980
 
 [Open repository](https://github.com/jank-lang/jank)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 980 | 16 | 
 | 2023-02-26 | 979 | 16 | 
 | 2023-02-25 | 979 | 16 | 
 | 2023-02-24 | 978 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 966 | 15 | 
 | 2023-01-31 | 964 | 15 | 
 | 2023-01-30 | 964 | 15 | 
-| 2023-01-29 | 963 | 15 | 
 

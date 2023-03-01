@@ -1,10 +1,10 @@
 # KunruiHuang/ios-data-collector - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 29
+★ Stars: 32
 
 [Open repository](https://github.com/KunruiHuang/ios-data-collector)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 32 | 4 | 
 | 2023-02-27 | 29 | 3 | 
 | 2023-02-26 | 18 | 3 | 
 

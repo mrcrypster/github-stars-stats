@@ -1,6 +1,6 @@
 # coderove/Meteorological_Data_Center - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 40 | 9 | 
 | 2023-02-26 | 40 | 9 | 
 | 2023-02-25 | 40 | 9 | 
 | 2023-02-24 | 40 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 40 | 9 | 
 | 2023-01-31 | 40 | 9 | 
 | 2023-01-30 | 40 | 9 | 
-| 2023-01-29 | 40 | 9 | 
 

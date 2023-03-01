@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 28
 
 ☋ Forks: 14
 
-★ Stars: 636
+★ Stars: 643
 
 [Open repository](https://github.com/google/swissgl)
 
@@ -13,7 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 636 | 14 | 
+| 2023-02-28 | 643 | 14 | 
 | 2023-02-27 | 623 | 14 | 
 | 2023-02-26 | 566 | 14 | 
 

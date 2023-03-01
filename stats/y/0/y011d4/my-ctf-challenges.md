@@ -1,10 +1,10 @@
 # y011d4/my-ctf-challenges - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/y011d4/my-ctf-challenges)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 11 | - | 
 | 2023-02-27 | 10 | - | 
 

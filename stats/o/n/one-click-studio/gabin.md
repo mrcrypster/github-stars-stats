@@ -1,10 +1,10 @@
 # one-click-studio/gabin - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 5
 
-★ Stars: 197
+★ Stars: 199
 
 [Open repository](https://github.com/one-click-studio/gabin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 199 | 5 | 
 | 2023-02-27 | 197 | 5 | 
 | 2023-02-26 | 197 | 5 | 
 | 2023-02-25 | 197 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 161 | 3 | 
 | 2023-01-31 | 158 | 3 | 
 | 2023-01-30 | 153 | 3 | 
-| 2023-01-29 | 147 | 3 | 
 

@@ -1,10 +1,10 @@
 # membraneframework/membrane_videoroom - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/membraneframework/membrane_videoroom)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 27 | 5 | 
 | 2023-02-27 | 26 | 4 | 
 | 2023-02-26 | 26 | 4 | 
 | 2023-02-25 | 26 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 25 | 3 | 
 | 2023-01-31 | 26 | 2 | 
 | 2023-01-30 | 26 | 2 | 
-| 2023-01-29 | 26 | 2 | 
 

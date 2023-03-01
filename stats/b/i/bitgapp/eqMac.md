@@ -1,10 +1,10 @@
 # bitgapp/eqMac - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 305
 
-★ Stars: 4707
+★ Stars: 4710
 
 [Open repository](https://github.com/bitgapp/eqMac)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 4710 | 305 | 
 | 2023-02-26 | 4707 | 305 | 
 | 2023-02-25 | 4704 | 305 | 
 | 2023-02-24 | 4700 | 305 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 4662 | 305 | 
 | 2023-01-31 | 4658 | 304 | 
 | 2023-01-30 | 4658 | 303 | 
-| 2023-01-29 | 4660 | 303 | 
 

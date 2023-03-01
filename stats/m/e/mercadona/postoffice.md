@@ -1,6 +1,6 @@
 # mercadona/postoffice - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 19 | 7 | 
 | 2023-02-27 | 19 | 7 | 
 | 2023-02-26 | 19 | 7 | 
 | 2023-02-25 | 19 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 19 | 7 | 
 | 2023-01-31 | 19 | 7 | 
 | 2023-01-30 | 19 | 7 | 
-| 2023-01-29 | 19 | 7 | 
 

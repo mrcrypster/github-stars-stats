@@ -1,10 +1,10 @@
 # Guiflayrom/yolnp - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 33
 
-★ Stars: 199
+★ Stars: 201
 
 [Open repository](https://github.com/Guiflayrom/yolnp)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 201 | 33 | 
 | 2023-02-26 | 199 | 33 | 
 | 2023-02-25 | 197 | 33 | 
 | 2023-02-24 | 194 | 33 | 

@@ -1,6 +1,6 @@
 # bagzcode/ClassActivity_Assignment_HCI_1 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 52 | 
 | 2023-02-26 | - | 52 | 
 | 2023-02-25 | - | 52 | 
 | 2023-02-24 | - | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | - | 52 | 
 | 2023-01-31 | - | 52 | 
 | 2023-01-30 | 1 | 52 | 
-| 2023-01-29 | 1 | 52 | 
 

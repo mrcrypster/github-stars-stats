@@ -1,10 +1,10 @@
 # ananthakumaran/tide - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 110
 
-★ Stars: 1415
+★ Stars: 1414
 
 [Open repository](https://github.com/ananthakumaran/tide)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1414 | 110 | 
 | 2023-02-27 | 1415 | 110 | 
 | 2023-02-26 | 1415 | 110 | 
 | 2023-02-25 | 1416 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1415 | 110 | 
 | 2023-01-31 | 1415 | 110 | 
 | 2023-01-30 | 1415 | 110 | 
-| 2023-01-29 | 1415 | 110 | 
 

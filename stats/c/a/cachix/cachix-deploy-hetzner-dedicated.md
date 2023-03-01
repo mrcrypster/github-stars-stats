@@ -1,10 +1,10 @@
 # cachix/cachix-deploy-hetzner-dedicated - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/cachix/cachix-deploy-hetzner-dedicated)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 16 | 2 | 
 | 2023-02-27 | 15 | 2 | 
 | 2023-02-26 | 15 | 2 | 
 | 2023-02-25 | 15 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 15 | 2 | 
 | 2023-01-31 | 15 | 2 | 
 | 2023-01-30 | 15 | 2 | 
-| 2023-01-29 | 15 | 2 | 
 

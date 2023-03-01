@@ -1,6 +1,6 @@
 # luckiday/CS118-W23-Project1 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1 | 3 | 
 | 2023-02-26 | 1 | 3 | 
 | 2023-02-25 | 1 | 3 | 
 | 2023-02-24 | 1 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 1 | 3 | 
 | 2023-01-31 | 1 | 2 | 
 | 2023-01-30 | 1 | 2 | 
-| 2023-01-29 | 1 | 2 | 
 

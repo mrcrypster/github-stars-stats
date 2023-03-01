@@ -1,6 +1,6 @@
 # magicmonty/delphi-code-coverage - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 71 | 55 | 
 | 2023-02-27 | 71 | 55 | 
 | 2023-02-26 | 71 | 55 | 
 | 2023-02-25 | 71 | 55 | 

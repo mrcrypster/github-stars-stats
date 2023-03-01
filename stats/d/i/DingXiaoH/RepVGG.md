@@ -1,10 +1,10 @@
 # DingXiaoH/RepVGG - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 405
+☋ Forks: 407
 
-★ Stars: 2904
+★ Stars: 2906
 
 [Open repository](https://github.com/DingXiaoH/RepVGG)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2906 | 407 | 
 | 2023-02-26 | 2904 | 405 | 
 | 2023-02-25 | 2902 | 405 | 
 | 2023-02-24 | 2902 | 405 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 2870 | 403 | 
 | 2023-02-01 | 2866 | 402 | 
 | 2023-01-31 | 2863 | 402 | 
-| 2023-01-29 | 2862 | 402 | 
 

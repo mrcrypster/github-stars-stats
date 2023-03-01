@@ -1,6 +1,6 @@
 # ndreynolds/ratatouille - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 597 | 25 | 
 | 2023-02-26 | 597 | 25 | 
 | 2023-02-25 | 597 | 25 | 
 | 2023-02-24 | 598 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 596 | 25 | 
 | 2023-01-31 | 595 | 25 | 
 | 2023-01-30 | 593 | 24 | 
-| 2023-01-29 | 593 | 24 | 
 

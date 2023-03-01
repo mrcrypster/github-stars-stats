@@ -1,6 +1,6 @@
 # simoesusp/Processador-ICMC - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 63 | 43 | 
 | 2023-02-27 | 63 | 43 | 
 | 2023-02-26 | 63 | 43 | 
 | 2023-02-25 | 63 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 63 | 43 | 
 | 2023-01-31 | 64 | 43 | 
 | 2023-01-30 | 64 | 43 | 
-| 2023-01-29 | 64 | 43 | 
 

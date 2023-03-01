@@ -1,6 +1,6 @@
 # tomasr/molokai - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 1725
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3522 | 1725 | 
 | 2023-02-27 | 3522 | 1725 | 
 | 2023-02-26 | 3523 | 1724 | 
 | 2023-02-25 | 3524 | 1724 | 

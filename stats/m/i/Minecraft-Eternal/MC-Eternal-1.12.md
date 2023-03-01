@@ -1,6 +1,6 @@
 # Minecraft-Eternal/MC-Eternal-1.12 - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 39 | 13 | 
 | 2023-02-26 | 39 | 13 | 
 | 2023-02-25 | 39 | 13 | 
 | 2023-02-24 | 39 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 37 | 13 | 
 | 2023-01-31 | 37 | 13 | 
 | 2023-01-30 | 37 | 13 | 
-| 2023-01-29 | 37 | 13 | 
 

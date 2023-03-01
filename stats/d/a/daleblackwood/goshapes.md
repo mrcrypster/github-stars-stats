@@ -1,10 +1,10 @@
 # daleblackwood/goshapes - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 6
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/daleblackwood/goshapes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 40 | 6 | 
 | 2023-02-27 | 39 | 6 | 
 | 2023-02-26 | 38 | 6 | 
 | 2023-02-25 | 38 | 6 | 

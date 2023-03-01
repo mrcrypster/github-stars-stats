@@ -1,10 +1,10 @@
 # biubiubiu01/vue3-bigData - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 175
+☋ Forks: 176
 
-★ Stars: 688
+★ Stars: 692
 
 [Open repository](https://github.com/biubiubiu01/vue3-bigData)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 692 | 176 | 
 | 2023-02-26 | 688 | 175 | 
 | 2023-02-25 | 688 | 175 | 
 | 2023-02-24 | 687 | 175 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 658 | 167 | 
 | 2023-01-31 | 654 | 167 | 
 | 2023-01-30 | 651 | 167 | 
-| 2023-01-29 | 639 | 165 | 
 

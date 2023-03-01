@@ -1,6 +1,6 @@
 # wechaty/getting-started - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 578 | 275 | 
 | 2023-02-27 | 578 | 275 | 
 | 2023-02-26 | 578 | 274 | 
 | 2023-02-25 | 578 | 274 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 564 | 262 | 
 | 2023-01-31 | 565 | 262 | 
 | 2023-01-30 | 565 | 262 | 
-| 2023-01-29 | 565 | 262 | 
 

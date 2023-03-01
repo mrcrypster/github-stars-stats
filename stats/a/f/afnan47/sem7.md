@@ -1,6 +1,6 @@
 # afnan47/sem7 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 30 | 28 | 
 | 2023-02-27 | 30 | 28 | 
 | 2023-02-26 | 30 | 28 | 
 | 2023-02-25 | 29 | 28 | 

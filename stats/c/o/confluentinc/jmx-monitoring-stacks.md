@@ -1,6 +1,6 @@
 # confluentinc/jmx-monitoring-stacks - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 174 | 152 | 
 | 2023-02-27 | 174 | 152 | 
 | 2023-02-26 | 174 | 152 | 
 | 2023-02-25 | 174 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 166 | 150 | 
 | 2023-01-31 | 166 | 149 | 
 | 2023-01-30 | 166 | 149 | 
-| 2023-01-29 | 166 | 149 | 
 

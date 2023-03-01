@@ -1,10 +1,10 @@
 # Teaching-Assistants-of-Cloud-Computing/CloudHack - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 55
 
-★ Stars: 132
+★ Stars: 131
 
 [Open repository](https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 131 | 55 | 
 | 2023-02-27 | 132 | 55 | 
 | 2023-02-26 | 132 | 55 | 
 | 2023-02-25 | 132 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 132 | 55 | 
 | 2023-01-31 | 132 | 55 | 
 | 2023-01-30 | 132 | 55 | 
-| 2023-01-29 | 133 | 55 | 
 

@@ -1,10 +1,10 @@
 # alexrudall/ruby-openai - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 51
 
-★ Stars: 600
+★ Stars: 608
 
 [Open repository](https://github.com/alexrudall/ruby-openai)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 608 | 51 | 
 | 2023-02-27 | 600 | 51 | 
 | 2023-02-26 | 596 | 51 | 
 | 2023-02-25 | 594 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 422 | 36 | 
 | 2023-02-01 | 419 | 35 | 
 | 2023-01-31 | 418 | 35 | 
-| 2023-01-30 | 417 | 35 | 
 

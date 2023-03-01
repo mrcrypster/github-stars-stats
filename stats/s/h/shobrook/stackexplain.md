@@ -1,6 +1,6 @@
 # shobrook/stackexplain - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 397 | 20 | 
 | 2023-02-26 | 397 | 20 | 
 | 2023-02-25 | 396 | 20 | 
 | 2023-02-24 | 396 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 367 | 17 | 
 | 2023-01-31 | 365 | 17 | 
 | 2023-01-30 | 364 | 17 | 
-| 2023-01-29 | 364 | 17 | 
 

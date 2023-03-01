@@ -1,6 +1,6 @@
 # DSCKGEC/Taskify - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 7 | 12 | 
 | 2023-02-27 | 7 | 12 | 
 | 2023-02-25 | 7 | 12 | 
 | 2023-02-24 | 7 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 7 | 12 | 
 | 2023-02-01 | 7 | 12 | 
 | 2023-01-31 | 7 | 12 | 
-| 2023-01-30 | 7 | 12 | 
 

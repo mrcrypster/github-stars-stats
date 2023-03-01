@@ -1,6 +1,6 @@
 # texmacs/texmacs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 531 | 57 | 
 | 2023-02-27 | 531 | 57 | 
 | 2023-02-26 | 531 | 57 | 
 | 2023-02-24 | 531 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 523 | 56 | 
 | 2023-01-31 | 522 | 56 | 
 | 2023-01-30 | 522 | 56 | 
-| 2023-01-29 | 522 | 56 | 
 

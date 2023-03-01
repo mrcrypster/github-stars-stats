@@ -1,6 +1,6 @@
 # pulp-platform/hwpe-stream - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 14 | 12 | 
 | 2023-02-27 | 14 | 12 | 
 | 2023-02-25 | 14 | 12 | 
 | 2023-02-24 | 14 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 13 | 12 | 
 | 2023-01-31 | 13 | 12 | 
 | 2023-01-30 | 13 | 12 | 
-| 2023-01-29 | 13 | 12 | 
 

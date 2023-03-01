@@ -1,6 +1,6 @@
 # blazarcapital/shopify-test - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 17 | 
 | 2023-02-27 | - | 17 | 
 | 2023-02-26 | - | 17 | 
 | 2023-02-24 | - | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | - | 18 | 
 | 2023-02-01 | - | 18 | 
 | 2023-01-30 | - | 18 | 
-| 2023-01-29 | - | 18 | 
 

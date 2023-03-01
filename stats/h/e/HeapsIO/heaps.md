@@ -1,10 +1,10 @@
 # HeapsIO/heaps - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 313
+☋ Forks: 314
 
-★ Stars: 2809
+★ Stars: 2813
 
 [Open repository](https://github.com/HeapsIO/heaps)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2813 | 314 | 
 | 2023-02-27 | 2809 | 313 | 
 | 2023-02-25 | 2808 | 313 | 
 | 2023-02-24 | 2808 | 313 | 

@@ -1,8 +1,8 @@
 # DACSS/Social_Networks_Spring_2023 - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | - | 22 | 
 | 2023-02-27 | - | 21 | 
 | 2023-02-26 | - | 20 | 
 | 2023-02-25 | - | 20 | 

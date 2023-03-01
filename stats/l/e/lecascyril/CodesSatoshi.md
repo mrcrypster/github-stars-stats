@@ -1,0 +1,18 @@
+# lecascyril/CodesSatoshi - stars & forks statistics
+
+Stats updated on Mar 2023, 01
+
+☋ Forks: 5
+
+★ Stars: 0
+
+[Open repository](https://github.com/lecascyril/CodesSatoshi)
+
+[Open detailed stats for lecascyril/CodesSatoshi](https://reviewgithub.com/rep/lecascyril/CodesSatoshi)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-01 | - | 5 | 
+| 2023-02-28 | - | 5 | 
+

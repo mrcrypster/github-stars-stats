@@ -1,10 +1,10 @@
 # openai/tiktoken - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 97
+☋ Forks: 99
 
-★ Stars: 2297
+★ Stars: 2308
 
 [Open repository](https://github.com/openai/tiktoken)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2308 | 99 | 
 | 2023-02-27 | 2297 | 97 | 
 | 2023-02-26 | 2286 | 95 | 
 | 2023-02-25 | 2279 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1988 | 69 | 
 | 2023-01-31 | 1974 | 68 | 
 | 2023-01-30 | 1963 | 67 | 
-| 2023-01-29 | 1949 | 67 | 
 

@@ -1,6 +1,6 @@
 # openai/blocksparse - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 891 | 177 | 
 | 2023-02-27 | 891 | 177 | 
 | 2023-02-26 | 890 | 177 | 
 | 2023-02-25 | 889 | 177 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 882 | 171 | 
 | 2023-01-31 | 882 | 171 | 
 | 2023-01-30 | 882 | 171 | 
-| 2023-01-29 | 882 | 171 | 
 

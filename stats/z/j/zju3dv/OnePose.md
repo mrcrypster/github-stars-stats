@@ -1,10 +1,10 @@
 # zju3dv/OnePose - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 54
 
-★ Stars: 715
+★ Stars: 716
 
 [Open repository](https://github.com/zju3dv/OnePose)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 716 | 54 | 
 | 2023-02-27 | 715 | 54 | 
 | 2023-02-26 | 715 | 54 | 
 | 2023-02-25 | 714 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 707 | 52 | 
 | 2023-02-01 | 707 | 52 | 
 | 2023-01-31 | 707 | 52 | 
-| 2023-01-30 | 707 | 52 | 
 

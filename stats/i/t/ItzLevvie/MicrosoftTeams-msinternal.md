@@ -1,8 +1,8 @@
 # ItzLevvie/MicrosoftTeams-msinternal - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 327
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 327 | 19 | 
 | 2023-02-27 | 327 | 18 | 
 | 2023-02-26 | 327 | 18 | 
 | 2023-02-24 | 327 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 324 | 18 | 
 | 2023-02-01 | 323 | 18 | 
 | 2023-01-31 | 323 | 18 | 
-| 2023-01-29 | 323 | 18 | 
 

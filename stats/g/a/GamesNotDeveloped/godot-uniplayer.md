@@ -4,7 +4,7 @@ Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/GamesNotDeveloped/godot-uniplayer)
 
@@ -13,6 +13,6 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-28 | 15 | - | 
+| 2023-02-28 | 17 | - | 
 | 2023-02-27 | 13 | - | 
 

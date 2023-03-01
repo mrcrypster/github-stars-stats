@@ -1,6 +1,6 @@
 # bitnomial/prometheus - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 55 | 26 | 
 | 2023-02-27 | 55 | 26 | 
 | 2023-02-26 | 54 | 26 | 
 | 2023-02-25 | 54 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 54 | 26 | 
 | 2023-01-31 | 54 | 26 | 
 | 2023-01-30 | 54 | 26 | 
-| 2023-01-29 | 54 | 26 | 
 

@@ -1,6 +1,6 @@
 # haji-ali/lp-transient - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 28 | 4 | 
 | 2023-02-27 | 28 | 4 | 
 | 2023-02-26 | 28 | 4 | 
 | 2023-02-25 | 28 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 28 | 4 | 
 | 2023-01-31 | 28 | 4 | 
 | 2023-01-30 | 28 | 4 | 
-| 2023-01-29 | 28 | 4 | 
 

@@ -1,10 +1,10 @@
 # triton-inference-server/server - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1097
+☋ Forks: 1099
 
-★ Stars: 4805
+★ Stars: 4814
 
 [Open repository](https://github.com/triton-inference-server/server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4814 | 1099 | 
 | 2023-02-27 | 4805 | 1097 | 
 | 2023-02-26 | 4796 | 1095 | 
 | 2023-02-25 | 4792 | 1095 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 4681 | 1076 | 
 | 2023-01-31 | 4675 | 1074 | 
 | 2023-01-30 | 4671 | 1074 | 
-| 2023-01-29 | 4667 | 1074 | 
 

@@ -1,10 +1,10 @@
 # jeanrdev1/gf_server - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 9
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/jeanrdev1/gf_server)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 18 | 9 | 
 | 2023-02-27 | 17 | 9 | 
 | 2023-02-26 | 15 | 8 | 
 | 2023-02-25 | 14 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 8 | 5 | 
 | 2023-01-31 | 6 | 4 | 
 | 2023-01-30 | 6 | 4 | 
-| 2023-01-29 | 4 | 4 | 
 

@@ -1,10 +1,10 @@
 # LazyVim/starter - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 38
+☋ Forks: 40
 
-★ Stars: 146
+★ Stars: 150
 
 [Open repository](https://github.com/LazyVim/starter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 150 | 40 | 
 | 2023-02-27 | 146 | 38 | 
 | 2023-02-26 | 145 | 38 | 
 | 2023-02-25 | 143 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 109 | 17 | 
 | 2023-01-31 | 106 | 17 | 
 | 2023-01-30 | 103 | 16 | 
-| 2023-01-29 | 101 | 13 | 
 

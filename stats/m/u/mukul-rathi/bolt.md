@@ -1,6 +1,6 @@
 # mukul-rathi/bolt - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 424 | 47 | 
 | 2023-02-27 | 424 | 47 | 
 | 2023-02-26 | 422 | 47 | 
 | 2023-02-25 | 422 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 415 | 45 | 
 | 2023-01-31 | 415 | 45 | 
 | 2023-01-30 | 415 | 45 | 
-| 2023-01-29 | 415 | 45 | 
 

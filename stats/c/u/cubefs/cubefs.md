@@ -1,10 +1,10 @@
 # cubefs/cubefs - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 417
+☋ Forks: 418
 
-★ Stars: 3135
+★ Stars: 3137
 
 [Open repository](https://github.com/cubefs/cubefs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3137 | 418 | 
 | 2023-02-27 | 3135 | 417 | 
 | 2023-02-26 | 3135 | 417 | 
 | 2023-02-25 | 3133 | 417 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 3088 | 412 | 
 | 2023-01-31 | 3084 | 412 | 
 | 2023-01-30 | 3084 | 412 | 
-| 2023-01-29 | 3084 | 412 | 
 

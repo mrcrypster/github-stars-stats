@@ -1,6 +1,6 @@
 # fgsect/FitM - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 257 | 17 | 
 | 2023-02-26 | 257 | 17 | 
 | 2023-02-25 | 257 | 17 | 
 | 2023-02-24 | 257 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 257 | 17 | 
 | 2023-01-31 | 257 | 17 | 
 | 2023-01-30 | 257 | 17 | 
-| 2023-01-29 | 257 | 17 | 
 

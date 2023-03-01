@@ -1,10 +1,10 @@
 # rabbibotton/clog - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 76
 
-★ Stars: 1157
+★ Stars: 1159
 
 [Open repository](https://github.com/rabbibotton/clog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 1159 | 76 | 
 | 2023-02-27 | 1157 | 76 | 
 | 2023-02-26 | 1156 | 76 | 
 | 2023-02-24 | 1156 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 1144 | 75 | 
 | 2023-01-31 | 1144 | 75 | 
 | 2023-01-30 | 1143 | 74 | 
-| 2023-01-29 | 1141 | 74 | 
 

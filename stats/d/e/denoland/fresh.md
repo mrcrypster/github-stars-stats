@@ -1,10 +1,10 @@
 # denoland/fresh - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 428
+☋ Forks: 429
 
-★ Stars: 10053
+★ Stars: 10061
 
 [Open repository](https://github.com/denoland/fresh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 10061 | 429 | 
 | 2023-02-27 | 10053 | 428 | 
 | 2023-02-26 | 10047 | 428 | 
 | 2023-02-25 | 10038 | 428 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 9881 | 415 | 
 | 2023-01-31 | 9877 | 415 | 
 | 2023-01-30 | 9878 | 415 | 
-| 2023-01-29 | 9873 | 415 | 
 

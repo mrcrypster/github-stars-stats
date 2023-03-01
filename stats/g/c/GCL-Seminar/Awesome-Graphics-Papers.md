@@ -1,8 +1,8 @@
 # GCL-Seminar/Awesome-Graphics-Papers - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 8
 
@@ -13,5 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 8 | 11 | 
+| 2023-02-28 | 8 | 11 | 
 | 2023-02-27 | 8 | 10 | 
 

@@ -1,10 +1,10 @@
 # cncf/landscape - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1735
+☋ Forks: 1736
 
-★ Stars: 8689
+★ Stars: 8690
 
 [Open repository](https://github.com/cncf/landscape)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 8690 | 1736 | 
 | 2023-02-27 | 8689 | 1735 | 
 | 2023-02-26 | 8686 | 1731 | 
 | 2023-02-25 | 8686 | 1731 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 8635 | 1705 | 
 | 2023-01-31 | 8633 | 1703 | 
 | 2023-01-30 | 8631 | 1701 | 
-| 2023-01-29 | 8631 | 1701 | 
 

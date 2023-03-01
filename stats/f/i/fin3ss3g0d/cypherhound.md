@@ -1,10 +1,10 @@
 # fin3ss3g0d/cypherhound - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 14
 
-★ Stars: 233
+★ Stars: 236
 
 [Open repository](https://github.com/fin3ss3g0d/cypherhound)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 236 | 14 | 
 | 2023-02-27 | 233 | 14 | 
 | 2023-02-26 | 233 | 14 | 
 | 2023-02-24 | 232 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 194 | 13 | 
 | 2023-01-31 | 193 | 13 | 
 | 2023-01-30 | 193 | 13 | 
-| 2023-01-29 | 192 | 13 | 
 

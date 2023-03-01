@@ -1,10 +1,10 @@
 # sdiehl/wiwinwlh - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 233
 
-★ Stars: 2445
+★ Stars: 2446
 
 [Open repository](https://github.com/sdiehl/wiwinwlh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2446 | 233 | 
 | 2023-02-26 | 2445 | 233 | 
 | 2023-02-25 | 2444 | 233 | 
 | 2023-02-24 | 2444 | 232 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 2432 | 232 | 
 | 2023-02-01 | 2431 | 232 | 
 | 2023-01-31 | 2431 | 232 | 
-| 2023-01-30 | 2430 | 232 | 
 

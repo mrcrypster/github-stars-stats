@@ -1,8 +1,8 @@
 # starkiller-astro/weaklib - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 7 | 3 | 
 | 2023-02-27 | 7 | 2 | 
 | 2023-02-26 | 7 | 2 | 
 | 2023-02-24 | 7 | 2 | 

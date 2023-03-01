@@ -1,10 +1,10 @@
 # apache/httpd - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1033
+☋ Forks: 1034
 
-★ Stars: 3157
+★ Stars: 3156
 
 [Open repository](https://github.com/apache/httpd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3156 | 1034 | 
 | 2023-02-27 | 3157 | 1033 | 
 | 2023-02-26 | 3156 | 1033 | 
 | 2023-02-25 | 3157 | 1033 | 

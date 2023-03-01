@@ -1,8 +1,8 @@
 # Harchanel15/insyaallah-gak-ke-banned-akun-kalian - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 114
+☋ Forks: 116
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5 | 116 | 
 | 2023-02-26 | 5 | 114 | 
 | 2023-02-25 | 5 | 114 | 
 | 2023-02-24 | 5 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 5 | 113 | 
 | 2023-01-31 | 5 | 112 | 
 | 2023-01-30 | 5 | 112 | 
-| 2023-01-29 | 5 | 112 | 
 

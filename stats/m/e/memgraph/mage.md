@@ -1,10 +1,10 @@
 # memgraph/mage - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 13
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/memgraph/mage)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 146 | 13 | 
 | 2023-02-27 | 145 | 13 | 
 | 2023-02-26 | 145 | 13 | 
 | 2023-02-25 | 145 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 134 | 12 | 
 | 2023-02-01 | 133 | 12 | 
 | 2023-01-30 | 133 | 12 | 
-| 2023-01-29 | 133 | 12 | 
 

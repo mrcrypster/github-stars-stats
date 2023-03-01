@@ -1,6 +1,6 @@
 # yallop/ocaml-charset - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 19 | - | 
 | 2023-02-26 | 19 | - | 
 | 2023-02-25 | 19 | - | 
 | 2023-02-24 | 19 | - | 

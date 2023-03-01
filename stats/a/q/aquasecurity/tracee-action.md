@@ -1,6 +1,6 @@
 # aquasecurity/tracee-action - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 31 | 7 | 
 | 2023-02-27 | 31 | 7 | 
 | 2023-02-26 | 31 | 7 | 
 | 2023-02-24 | 31 | 7 | 

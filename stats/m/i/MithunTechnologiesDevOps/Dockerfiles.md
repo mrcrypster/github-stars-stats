@@ -1,8 +1,8 @@
 # MithunTechnologiesDevOps/Dockerfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 1505
+☋ Forks: 1507
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 10 | 1507 | 
 | 2023-02-27 | 10 | 1505 | 
 | 2023-02-26 | 10 | 1501 | 
 | 2023-02-25 | 10 | 1501 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 9 | 1480 | 
 | 2023-01-31 | 9 | 1480 | 
 | 2023-01-30 | 10 | 1478 | 
-| 2023-01-29 | 10 | 1476 | 
 

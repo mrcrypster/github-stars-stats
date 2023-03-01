@@ -1,10 +1,10 @@
 # jupyterlab/jupyterlab-desktop - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 235
 
-★ Stars: 2601
+★ Stars: 2608
 
 [Open repository](https://github.com/jupyterlab/jupyterlab-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2608 | 235 | 
 | 2023-02-27 | 2601 | 235 | 
 | 2023-02-26 | 2596 | 235 | 
 | 2023-02-25 | 2597 | 232 | 

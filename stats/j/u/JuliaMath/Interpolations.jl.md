@@ -1,10 +1,10 @@
 # JuliaMath/Interpolations.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 101
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/JuliaMath/Interpolations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 422 | 101 | 
 | 2023-02-27 | 421 | 101 | 
 | 2023-02-26 | 421 | 101 | 
 | 2023-02-25 | 421 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 411 | 100 | 
 | 2023-02-01 | 411 | 100 | 
 | 2023-01-30 | 411 | 100 | 
-| 2023-01-29 | 411 | 100 | 
 

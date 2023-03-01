@@ -1,10 +1,10 @@
 # joho/godotenv - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 337
 
-★ Stars: 5877
+★ Stars: 5882
 
 [Open repository](https://github.com/joho/godotenv)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 5882 | 337 | 
 | 2023-02-26 | 5877 | 337 | 
 | 2023-02-25 | 5873 | 337 | 
 | 2023-02-24 | 5870 | 337 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-02 | 5760 | 332 | 
 | 2023-02-01 | 5753 | 332 | 
 | 2023-01-30 | 5751 | 332 | 
-| 2023-01-29 | 5748 | 332 | 
 

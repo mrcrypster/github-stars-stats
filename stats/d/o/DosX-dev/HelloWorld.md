@@ -1,10 +1,10 @@
 # DosX-dev/HelloWorld - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/DosX-dev/HelloWorld)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 22 | 2 | 
 | 2023-02-27 | 21 | 2 | 
 | 2023-02-26 | 21 | 2 | 
 | 2023-02-25 | 21 | 2 | 

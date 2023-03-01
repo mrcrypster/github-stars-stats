@@ -1,10 +1,10 @@
 # Dion-Systems/4coder - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 93
 
-★ Stars: 415
+★ Stars: 416
 
 [Open repository](https://github.com/Dion-Systems/4coder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 416 | 93 | 
 | 2023-02-26 | 415 | 93 | 
 | 2023-02-25 | 415 | 93 | 
 | 2023-02-24 | 415 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 413 | 91 | 
 | 2023-01-31 | 413 | 91 | 
 | 2023-01-30 | 412 | 91 | 
-| 2023-01-29 | 411 | 92 | 
 

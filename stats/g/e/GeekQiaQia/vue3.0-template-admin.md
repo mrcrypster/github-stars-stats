@@ -1,8 +1,8 @@
 # GeekQiaQia/vue3.0-template-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 292
+☋ Forks: 293
 
 ★ Stars: 942
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 942 | 293 | 
 | 2023-02-26 | 942 | 292 | 
 | 2023-02-25 | 941 | 292 | 
 | 2023-02-24 | 941 | 292 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 920 | 288 | 
 | 2023-01-31 | 921 | 288 | 
 | 2023-01-30 | 921 | 288 | 
-| 2023-01-29 | 921 | 289 | 
 

@@ -1,10 +1,10 @@
 # o0HalfLife0o/TVBoxOSC - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 629
 
-★ Stars: 3069
+★ Stars: 3087
 
 [Open repository](https://github.com/o0HalfLife0o/TVBoxOSC)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 3087 | 629 | 
 | 2023-02-26 | 3069 | 629 | 
 | 2023-02-25 | 3056 | 627 | 
 | 2023-02-24 | 3051 | 626 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 2610 | 552 | 
 | 2023-01-31 | 2556 | 545 | 
 | 2023-01-30 | 2514 | 540 | 
-| 2023-01-29 | 2490 | 533 | 
 

@@ -1,10 +1,10 @@
 # drwetter/testssl.sh - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
-☋ Forks: 924
+☋ Forks: 926
 
-★ Stars: 6779
+★ Stars: 6782
 
 [Open repository](https://github.com/drwetter/testssl.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 6782 | 926 | 
 | 2023-02-27 | 6779 | 924 | 
 | 2023-02-26 | 6777 | 923 | 
 | 2023-02-25 | 6776 | 923 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 6709 | 915 | 
 | 2023-01-31 | 6700 | 914 | 
 | 2023-01-30 | 6697 | 912 | 
-| 2023-01-29 | 6695 | 912 | 
 

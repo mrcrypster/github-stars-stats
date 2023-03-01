@@ -1,10 +1,10 @@
 # emeryberger/CSrankings - stars & forks statistics
 
-Stats updated on Feb 2023, 26
+Stats updated on Feb 2023, 28
 
-☋ Forks: 2325
+☋ Forks: 2327
 
-★ Stars: 2171
+★ Stars: 2175
 
 [Open repository](https://github.com/emeryberger/CSrankings)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2175 | 2327 | 
 | 2023-02-26 | 2171 | 2325 | 
 | 2023-02-25 | 2171 | 2322 | 
 | 2023-02-24 | 2169 | 2322 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 26
 | 2023-02-01 | 2139 | 2295 | 
 | 2023-01-31 | 2139 | 2292 | 
 | 2023-01-30 | 2139 | 2289 | 
-| 2023-01-29 | 2136 | 2289 | 
 

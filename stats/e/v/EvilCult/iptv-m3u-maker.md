@@ -1,10 +1,10 @@
 # EvilCult/iptv-m3u-maker - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Feb 2023, 28
 
 ☋ Forks: 449
 
-★ Stars: 2282
+★ Stars: 2281
 
 [Open repository](https://github.com/EvilCult/iptv-m3u-maker)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-02-28 | 2281 | 449 | 
 | 2023-02-27 | 2282 | 449 | 
 | 2023-02-26 | 2281 | 449 | 
 | 2023-02-25 | 2281 | 449 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-01 | 2251 | 445 | 
 | 2023-01-31 | 2252 | 445 | 
 | 2023-01-30 | 2251 | 445 | 
-| 2023-01-29 | 2250 | 445 | 
 
