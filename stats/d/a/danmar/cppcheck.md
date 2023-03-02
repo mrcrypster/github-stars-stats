@@ -1,10 +1,10 @@
 # danmar/cppcheck - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1305
 
-★ Stars: 4643
+★ Stars: 4644
 
 [Open repository](https://github.com/danmar/cppcheck)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4644 | 1305 | 
 | 2023-02-28 | 4643 | 1305 | 
 | 2023-02-27 | 4643 | 1304 | 
 | 2023-02-26 | 4643 | 1304 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 4599 | 1300 | 
 | 2023-02-01 | 4594 | 1300 | 
 | 2023-01-31 | 4591 | 1298 | 
-| 2023-01-30 | 4584 | 1296 | 
 

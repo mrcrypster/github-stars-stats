@@ -1,10 +1,10 @@
 # WICG/ua-client-hints - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 69
 
-★ Stars: 530
+★ Stars: 531
 
 [Open repository](https://github.com/WICG/ua-client-hints)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 531 | 69 | 
 | 2023-03-01 | 530 | 69 | 
 | 2023-02-27 | 530 | 68 | 
 | 2023-02-26 | 530 | 68 | 

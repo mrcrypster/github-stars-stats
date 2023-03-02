@@ -1,6 +1,6 @@
 # rails/spring - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2753 | 335 | 
 | 2023-02-28 | 2753 | 335 | 
 | 2023-02-27 | 2754 | 335 | 
 | 2023-02-26 | 2753 | 335 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 2751 | 334 | 
 | 2023-02-02 | 2751 | 335 | 
 | 2023-02-01 | 2751 | 335 | 
-| 2023-01-31 | 2751 | 335 | 
 

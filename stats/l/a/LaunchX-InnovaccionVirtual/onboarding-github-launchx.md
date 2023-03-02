@@ -1,6 +1,6 @@
 # LaunchX-InnovaccionVirtual/onboarding-github-launchx - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 416 | 118 | 
 | 2023-02-27 | 416 | 118 | 
 | 2023-02-26 | 416 | 118 | 
 | 2023-02-25 | 416 | 118 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 418 | 118 | 
 | 2023-02-01 | 418 | 118 | 
 | 2023-01-31 | 418 | 118 | 
-| 2023-01-30 | 418 | 118 | 
 

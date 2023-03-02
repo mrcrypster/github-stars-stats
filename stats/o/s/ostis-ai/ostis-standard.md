@@ -1,10 +1,10 @@
 # ostis-ai/ostis-standard - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 34
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/ostis-ai/ostis-standard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 12 | 34 | 
 | 2023-02-28 | 13 | 34 | 
 | 2023-02-26 | 13 | 34 | 
 | 2023-02-25 | 13 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 13 | 33 | 
 | 2023-02-01 | 13 | 33 | 
 | 2023-01-31 | 13 | 33 | 
-| 2023-01-30 | 13 | 33 | 
 

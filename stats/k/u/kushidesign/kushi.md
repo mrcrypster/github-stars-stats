@@ -1,10 +1,10 @@
 # kushidesign/kushi - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/kushidesign/kushi)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 51 | 1 | 
 | 2023-02-28 | 50 | 1 | 
 | 2023-02-26 | 50 | 1 | 
 | 2023-02-25 | 50 | 1 | 

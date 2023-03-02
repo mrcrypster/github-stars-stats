@@ -1,10 +1,10 @@
 # jetlinks/jetlinks-community - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1282
 
-★ Stars: 3623
+★ Stars: 3627
 
 [Open repository](https://github.com/jetlinks/jetlinks-community)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3627 | 1282 | 
 | 2023-02-27 | 3623 | 1282 | 
 | 2023-02-26 | 3620 | 1282 | 
 | 2023-02-25 | 3616 | 1281 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 3533 | 1253 | 
 | 2023-02-01 | 3531 | 1253 | 
 | 2023-01-31 | 3526 | 1251 | 
-| 2023-01-30 | 3527 | 1251 | 
 

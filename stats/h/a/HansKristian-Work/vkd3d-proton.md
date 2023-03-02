@@ -1,10 +1,10 @@
 # HansKristian-Work/vkd3d-proton - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 127
 
-★ Stars: 1117
+★ Stars: 1118
 
 [Open repository](https://github.com/HansKristian-Work/vkd3d-proton)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1118 | 127 | 
 | 2023-02-28 | 1117 | 127 | 
 | 2023-02-27 | 1116 | 127 | 
 | 2023-02-26 | 1115 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1094 | 123 | 
 | 2023-02-01 | 1092 | 122 | 
 | 2023-01-31 | 1090 | 122 | 
-| 2023-01-30 | 1086 | 122 | 
 

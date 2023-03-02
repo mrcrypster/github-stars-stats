@@ -1,10 +1,10 @@
 # armink/EasyLogger - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 977
 
-★ Stars: 2767
+★ Stars: 2773
 
 [Open repository](https://github.com/armink/EasyLogger)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2773 | 977 | 
 | 2023-02-28 | 2767 | 977 | 
 | 2023-02-27 | 2760 | 976 | 
 | 2023-02-26 | 2754 | 975 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 2719 | 967 | 
 | 2023-02-02 | 2717 | 967 | 
 | 2023-02-01 | 2713 | 967 | 
-| 2023-01-31 | 2709 | 966 | 
 

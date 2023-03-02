@@ -1,10 +1,10 @@
 # janosh/awesome-svelte-kit - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 38
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/janosh/awesome-svelte-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 487 | 38 | 
 | 2023-02-28 | 486 | 38 | 
 | 2023-02-27 | 485 | 38 | 
 | 2023-02-26 | 485 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 461 | 38 | 
 | 2023-02-01 | 460 | 38 | 
 | 2023-01-31 | 458 | 38 | 
-| 2023-01-30 | 458 | 38 | 
 

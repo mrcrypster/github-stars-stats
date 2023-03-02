@@ -1,6 +1,6 @@
 # vim-jp/vimdoc-ja - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 300 | 31 | 
 | 2023-02-28 | 300 | 31 | 
 | 2023-02-26 | 300 | 31 | 
 | 2023-02-25 | 300 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 298 | 30 | 
 | 2023-02-01 | 298 | 30 | 
 | 2023-01-31 | 298 | 30 | 
-| 2023-01-30 | 298 | 30 | 
 

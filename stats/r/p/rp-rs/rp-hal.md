@@ -1,10 +1,10 @@
 # rp-rs/rp-hal - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 164
 
-★ Stars: 768
+★ Stars: 769
 
 [Open repository](https://github.com/rp-rs/rp-hal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 769 | 164 | 
 | 2023-02-28 | 768 | 164 | 
 | 2023-02-26 | 768 | 164 | 
 | 2023-02-25 | 767 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 738 | 163 | 
 | 2023-02-01 | 738 | 163 | 
 | 2023-01-31 | 739 | 163 | 
-| 2023-01-30 | 739 | 163 | 
 

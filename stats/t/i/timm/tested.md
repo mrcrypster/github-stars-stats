@@ -1,8 +1,8 @@
 # timm/tested - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | 22 | 
 | 2023-02-27 | 2 | 21 | 
 | 2023-02-26 | 2 | 19 | 
 | 2023-02-25 | 2 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 2 | 17 | 
 | 2023-02-02 | 2 | 17 | 
 | 2023-02-01 | 2 | 15 | 
-| 2023-01-30 | 3 | 12 | 
 

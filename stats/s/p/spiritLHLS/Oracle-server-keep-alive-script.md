@@ -1,10 +1,10 @@
 # spiritLHLS/Oracle-server-keep-alive-script - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 76
+☋ Forks: 81
 
-★ Stars: 235
+★ Stars: 259
 
 [Open repository](https://github.com/spiritLHLS/Oracle-server-keep-alive-script)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 259 | 81 | 
 | 2023-02-28 | 235 | 76 | 
 | 2023-02-26 | 231 | 73 | 
 | 2023-02-25 | 227 | 72 | 

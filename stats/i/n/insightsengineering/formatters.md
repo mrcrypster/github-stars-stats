@@ -1,10 +1,10 @@
 # insightsengineering/formatters - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/insightsengineering/formatters)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 6 | 2 | 
 | 2023-02-28 | 5 | 2 | 
 | 2023-02-26 | 5 | 2 | 
 | 2023-02-25 | 4 | 2 | 

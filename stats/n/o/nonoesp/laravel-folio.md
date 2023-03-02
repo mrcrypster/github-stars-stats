@@ -1,10 +1,10 @@
 # nonoesp/laravel-folio - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/nonoesp/laravel-folio)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 39 | 4 | 
 | 2023-02-28 | 38 | 4 | 
 

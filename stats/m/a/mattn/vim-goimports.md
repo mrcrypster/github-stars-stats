@@ -1,6 +1,6 @@
 # mattn/vim-goimports - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 143 | 13 | 
 | 2023-02-28 | 143 | 13 | 
 | 2023-02-27 | 143 | 13 | 
 | 2023-02-26 | 143 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 142 | 13 | 
 | 2023-02-02 | 142 | 13 | 
 | 2023-02-01 | 142 | 13 | 
-| 2023-01-31 | 142 | 13 | 
 

@@ -1,6 +1,6 @@
 # ZPdesu/Barbershop - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 991 | 199 | 
 | 2023-02-28 | 991 | 199 | 
 | 2023-02-26 | 987 | 197 | 
 | 2023-02-25 | 986 | 197 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 955 | 192 | 
 | 2023-02-02 | 954 | 193 | 
 | 2023-02-01 | 954 | 193 | 
-| 2023-01-31 | 952 | 192 | 
 

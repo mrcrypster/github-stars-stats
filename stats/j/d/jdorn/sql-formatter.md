@@ -1,10 +1,10 @@
 # jdorn/sql-formatter - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 190
 
-★ Stars: 3903
+★ Stars: 3902
 
 [Open repository](https://github.com/jdorn/sql-formatter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3902 | 190 | 
 | 2023-02-28 | 3903 | 190 | 
 | 2023-02-27 | 3902 | 190 | 
 | 2023-02-26 | 3902 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3903 | 189 | 
 | 2023-02-01 | 3903 | 190 | 
 | 2023-01-31 | 3903 | 190 | 
-| 2023-01-30 | 3902 | 190 | 
 

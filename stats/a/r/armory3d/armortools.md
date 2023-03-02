@@ -1,10 +1,10 @@
 # armory3d/armortools - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 289
+☋ Forks: 290
 
-★ Stars: 2536
+★ Stars: 2537
 
 [Open repository](https://github.com/armory3d/armortools)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2537 | 290 | 
+| 2023-03-01 | 2537 | 290 | 
 | 2023-02-28 | 2536 | 289 | 
 | 2023-02-27 | 2534 | 290 | 
 | 2023-02-26 | 2532 | 290 | 

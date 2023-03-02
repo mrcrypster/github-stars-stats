@@ -1,10 +1,10 @@
 # themesberg/flowbite - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 455
+☋ Forks: 457
 
-★ Stars: 3909
+★ Stars: 3917
 
 [Open repository](https://github.com/themesberg/flowbite)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3917 | 457 | 
 | 2023-02-28 | 3909 | 455 | 
 | 2023-02-26 | 3893 | 451 | 
 | 2023-02-25 | 3882 | 449 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 3678 | 411 | 
 | 2023-02-02 | 3655 | 410 | 
 | 2023-02-01 | 3631 | 411 | 
-| 2023-01-30 | 3620 | 409 | 
 

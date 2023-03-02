@@ -1,10 +1,10 @@
 # localtunnel/localtunnel - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1189
 
-★ Stars: 15739
+★ Stars: 15753
 
 [Open repository](https://github.com/localtunnel/localtunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 15753 | 1189 | 
 | 2023-02-28 | 15739 | 1189 | 
 | 2023-02-27 | 15729 | 1189 | 
 | 2023-02-26 | 15725 | 1189 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 15594 | 1177 | 
 | 2023-02-01 | 15588 | 1177 | 
 | 2023-01-31 | 15584 | 1177 | 
-| 2023-01-30 | 15580 | 1177 | 
 

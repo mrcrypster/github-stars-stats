@@ -1,10 +1,10 @@
 # Azure/terraform-azurerm-aks - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 337
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/Azure/terraform-azurerm-aks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 220 | 337 | 
 | 2023-02-28 | 219 | 337 | 
 | 2023-02-27 | 218 | 336 | 
 | 2023-02-26 | 218 | 336 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 213 | 331 | 
 | 2023-02-01 | 213 | 330 | 
 | 2023-01-31 | 213 | 330 | 
-| 2023-01-30 | 213 | 330 | 
 

@@ -1,6 +1,6 @@
 # ecere/ecere-sdk - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 304 | 94 | 
 | 2023-02-28 | 304 | 94 | 
 | 2023-02-26 | 304 | 93 | 
 | 2023-02-25 | 304 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 303 | 91 | 
 | 2023-02-01 | 303 | 91 | 
 | 2023-01-31 | 303 | 91 | 
-| 2023-01-30 | 303 | 91 | 
 

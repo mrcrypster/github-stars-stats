@@ -1,6 +1,6 @@
 # openbmc/openbmc-test-automation - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 74 | 81 | 
 | 2023-02-27 | 74 | 81 | 
 | 2023-02-26 | 74 | 81 | 
 | 2023-02-25 | 74 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 74 | 80 | 
 | 2023-02-02 | 74 | 80 | 
 | 2023-02-01 | 74 | 80 | 
-| 2023-01-30 | 74 | 80 | 
 

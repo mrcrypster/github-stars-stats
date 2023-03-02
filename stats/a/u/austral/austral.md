@@ -1,10 +1,10 @@
 # austral/austral - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 17
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/austral/austral)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 559 | 17 | 
 | 2023-02-28 | 558 | 17 | 
 | 2023-02-26 | 558 | 17 | 
 | 2023-02-25 | 558 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 530 | 15 | 
 | 2023-02-01 | 529 | 15 | 
 | 2023-01-31 | 529 | 15 | 
-| 2023-01-30 | 528 | 15 | 
 

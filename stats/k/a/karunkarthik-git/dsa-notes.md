@@ -1,10 +1,10 @@
 # karunkarthik-git/dsa-notes - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 82
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/karunkarthik-git/dsa-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 355 | 82 | 
 | 2023-02-28 | 354 | 82 | 
 | 2023-02-27 | 353 | 82 | 
 | 2023-02-26 | 353 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 347 | 82 | 
 | 2023-02-01 | 346 | 81 | 
 | 2023-01-31 | 344 | 81 | 
-| 2023-01-30 | 344 | 81 | 
 

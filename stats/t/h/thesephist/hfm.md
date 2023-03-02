@@ -1,6 +1,6 @@
 # thesephist/hfm - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 22 | - | 
 | 2023-02-28 | 22 | - | 
 | 2023-02-27 | 22 | - | 
 | 2023-02-26 | 22 | - | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 22 | - | 
 | 2023-02-01 | 22 | - | 
 | 2023-01-31 | 22 | - | 
-| 2023-01-30 | 22 | - | 
 

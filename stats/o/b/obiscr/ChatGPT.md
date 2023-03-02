@@ -1,8 +1,8 @@
 # obiscr/ChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 62
+☋ Forks: 64
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3 | 64 | 
 | 2023-02-28 | 3 | 62 | 
 | 2023-02-27 | - | 60 | 
 | 2023-02-26 | 338 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 203 | 26 | 
 | 2023-02-01 | 201 | 26 | 
 | 2023-01-31 | 200 | 26 | 
-| 2023-01-30 | 197 | 26 | 
 

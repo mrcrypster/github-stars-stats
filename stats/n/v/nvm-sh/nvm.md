@@ -1,10 +1,10 @@
 # nvm-sh/nvm - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 6944
+☋ Forks: 6948
 
-★ Stars: 65080
+★ Stars: 65111
 
 [Open repository](https://github.com/nvm-sh/nvm)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 65111 | 6948 | 
 | 2023-02-28 | 65080 | 6944 | 
 | 2023-02-27 | 65049 | 6938 | 
 | 2023-02-26 | 65022 | 6936 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 64369 | 6842 | 
 | 2023-02-01 | 64348 | 6840 | 
 | 2023-01-31 | 64314 | 6836 | 
-| 2023-01-30 | 64277 | 6830 | 
 

@@ -1,10 +1,10 @@
 # zhuowei/WDBRemoveThreeAppLimit - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 305
+★ Stars: 307
 
 [Open repository](https://github.com/zhuowei/WDBRemoveThreeAppLimit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 307 | 12 | 
 | 2023-02-27 | 305 | 12 | 
 | 2023-02-26 | 299 | 12 | 
 | 2023-02-25 | 295 | 12 | 

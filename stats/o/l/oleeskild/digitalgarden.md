@@ -1,6 +1,6 @@
 # oleeskild/digitalgarden - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 60 | 17 | 
 | 2023-02-28 | 60 | 17 | 
 | 2023-02-27 | 61 | 16 | 
 | 2023-02-26 | 61 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 53 | 14 | 
 | 2023-02-02 | 53 | 13 | 
 | 2023-02-01 | 49 | 13 | 
-| 2023-01-31 | 50 | 13 | 
 

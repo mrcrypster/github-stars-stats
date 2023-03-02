@@ -1,10 +1,10 @@
 # KingRan/KR - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 988
 
-★ Stars: 1686
+★ Stars: 1689
 
 [Open repository](https://github.com/KingRan/KR)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1689 | 988 | 
 | 2023-02-27 | 1686 | 988 | 
 | 2023-02-26 | 1683 | 988 | 
 | 2023-02-25 | 1679 | 988 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 1612 | 978 | 
 | 2023-02-01 | 1609 | 977 | 
 | 2023-01-31 | 1602 | 975 | 
-| 2023-01-30 | 1598 | 974 | 
 

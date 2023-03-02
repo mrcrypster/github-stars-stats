@@ -1,10 +1,10 @@
 # distribution/distribution - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2228
 
-★ Stars: 7293
+★ Stars: 7295
 
 [Open repository](https://github.com/distribution/distribution)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 7295 | 2228 | 
 | 2023-02-28 | 7293 | 2228 | 
 | 2023-02-27 | 7291 | 2226 | 
 | 2023-02-26 | 7289 | 2225 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 7239 | 2220 | 
 | 2023-02-01 | 7237 | 2218 | 
 | 2023-01-31 | 7230 | 2219 | 
-| 2023-01-30 | 7230 | 2217 | 
 

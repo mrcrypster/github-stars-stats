@@ -1,6 +1,6 @@
 # Codeception/Codeception - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1314
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4649 | 1314 | 
 | 2023-02-28 | 4649 | 1314 | 
 | 2023-02-26 | 4648 | 1314 | 
 | 2023-02-25 | 4648 | 1315 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 4644 | 1314 | 
 | 2023-02-02 | 4643 | 1314 | 
 | 2023-01-31 | 4643 | 1314 | 
-| 2023-01-30 | 4643 | 1314 | 
 

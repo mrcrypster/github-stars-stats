@@ -1,10 +1,10 @@
 # V33RU/IoTSecurity101 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 408
+☋ Forks: 410
 
-★ Stars: 1942
+★ Stars: 1953
 
 [Open repository](https://github.com/V33RU/IoTSecurity101)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1953 | 410 | 
 | 2023-02-28 | 1942 | 408 | 
 | 2023-02-26 | 1939 | 408 | 
 | 2023-02-25 | 1939 | 407 | 

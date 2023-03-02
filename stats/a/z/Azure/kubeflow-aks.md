@@ -1,8 +1,8 @@
 # Azure/kubeflow-aks - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | 3 | 
 | 2023-02-27 | 2 | 2 | 
 | 2023-02-26 | 2 | 2 | 
 | 2023-02-25 | 2 | 2 | 

@@ -1,10 +1,10 @@
 # Aashu-Dubey/flutter-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 36
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/Aashu-Dubey/flutter-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 189 | 36 | 
 | 2023-02-27 | 188 | 36 | 
 | 2023-02-26 | 171 | 34 | 
 | 2023-02-25 | 169 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 149 | 31 | 
 | 2023-02-01 | 149 | 31 | 
 | 2023-01-31 | 147 | 31 | 
-| 2023-01-30 | 147 | 30 | 
 

@@ -1,6 +1,6 @@
 # carbon-language/vim-carbon-lang - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 41 | 5 | 
 | 2023-02-27 | 41 | 5 | 
 | 2023-02-26 | 41 | 5 | 
 | 2023-02-25 | 41 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 40 | 5 | 
 | 2023-02-01 | 40 | 5 | 
 | 2023-01-31 | 40 | 5 | 
-| 2023-01-30 | 40 | 5 | 
 

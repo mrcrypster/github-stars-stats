@@ -1,6 +1,6 @@
 # mhogrefe/malachite - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 366 | 5 | 
 | 2023-02-28 | 366 | 5 | 
 | 2023-02-27 | 366 | 5 | 
 | 2023-02-26 | 365 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 355 | 5 | 
 | 2023-02-01 | 354 | 5 | 
 | 2023-01-31 | 355 | 5 | 
-| 2023-01-30 | 355 | 5 | 
 

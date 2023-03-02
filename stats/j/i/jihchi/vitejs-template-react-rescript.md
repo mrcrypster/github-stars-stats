@@ -1,10 +1,10 @@
 # jihchi/vitejs-template-react-rescript - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 13
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/jihchi/vitejs-template-react-rescript)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 85 | 13 | 
 | 2023-02-28 | 84 | 13 | 
 | 2023-02-27 | 84 | 13 | 
 | 2023-02-26 | 84 | 13 | 

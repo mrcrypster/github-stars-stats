@@ -1,10 +1,10 @@
 # eunomia-bpf/wasm-bpf - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/eunomia-bpf/wasm-bpf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 139 | 8 | 
 | 2023-02-28 | 138 | 8 | 
 | 2023-02-27 | 137 | 8 | 
 | 2023-02-26 | 134 | 8 | 

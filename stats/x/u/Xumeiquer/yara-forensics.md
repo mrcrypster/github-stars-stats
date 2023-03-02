@@ -1,6 +1,6 @@
 # Xumeiquer/yara-forensics - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 122 | 24 | 
 | 2023-02-27 | 122 | 24 | 
 | 2023-02-26 | 122 | 24 | 
 | 2023-02-25 | 122 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 121 | 24 | 
 | 2023-02-02 | 121 | 24 | 
 | 2023-01-31 | 121 | 24 | 
-| 2023-01-30 | 121 | 24 | 
 

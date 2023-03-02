@@ -1,10 +1,10 @@
 # TencentARC/T2I-Adapter - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 39
+☋ Forks: 41
 
-★ Stars: 669
+★ Stars: 697
 
 [Open repository](https://github.com/TencentARC/T2I-Adapter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 697 | 41 | 
 | 2023-02-28 | 669 | 39 | 
 | 2023-02-26 | 640 | 34 | 
 | 2023-02-25 | 623 | 33 | 

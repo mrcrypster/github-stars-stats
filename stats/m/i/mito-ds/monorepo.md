@@ -1,6 +1,6 @@
 # mito-ds/monorepo - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1642 | 106 | 
 | 2023-02-28 | 1642 | 106 | 
 | 2023-02-27 | 1631 | 106 | 
 | 2023-02-25 | 1628 | 106 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1567 | 102 | 
 | 2023-02-02 | 1561 | 102 | 
 | 2023-02-01 | 1543 | 101 | 
-| 2023-01-31 | 1534 | 100 | 
 

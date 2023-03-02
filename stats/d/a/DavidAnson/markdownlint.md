@@ -1,10 +1,10 @@
 # DavidAnson/markdownlint - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 591
+☋ Forks: 592
 
-★ Stars: 3646
+★ Stars: 3648
 
 [Open repository](https://github.com/DavidAnson/markdownlint)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3648 | 592 | 
 | 2023-02-28 | 3646 | 591 | 
 | 2023-02-27 | 3646 | 589 | 
 | 2023-02-26 | 3647 | 591 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 3597 | 576 | 
 | 2023-02-02 | 3592 | 577 | 
 | 2023-02-01 | 3589 | 576 | 
-| 2023-01-31 | 3582 | 577 | 
 

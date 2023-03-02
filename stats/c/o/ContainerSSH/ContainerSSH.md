@@ -1,6 +1,6 @@
 # ContainerSSH/ContainerSSH - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2144 | 51 | 
 | 2023-02-28 | 2144 | 51 | 
 | 2023-02-27 | 2143 | 51 | 
 | 2023-02-26 | 2141 | 51 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 2081 | 50 | 
 | 2023-02-02 | 2079 | 50 | 
 | 2023-01-31 | 2077 | 50 | 
-| 2023-01-30 | 2076 | 50 | 
 

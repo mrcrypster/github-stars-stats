@@ -1,10 +1,10 @@
 # Micro0x00/Arsenal - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 28
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/Micro0x00/Arsenal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 171 | 28 | 
 | 2023-02-28 | 170 | 28 | 
 | 2023-02-26 | 169 | 28 | 
 | 2023-02-25 | 168 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 142 | 22 | 
 | 2023-02-01 | 142 | 22 | 
 | 2023-01-31 | 142 | 22 | 
-| 2023-01-30 | 142 | 22 | 
 

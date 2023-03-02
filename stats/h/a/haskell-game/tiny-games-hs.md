@@ -1,10 +1,10 @@
 # haskell-game/tiny-games-hs - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 30
 
-★ Stars: 89
+★ Stars: 92
 
 [Open repository](https://github.com/haskell-game/tiny-games-hs)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 92 | 30 | 
+| 2023-03-01 | 92 | 30 | 
 | 2023-02-28 | 89 | 30 | 
 | 2023-02-27 | 83 | 27 | 
 | 2023-02-26 | 81 | 27 | 

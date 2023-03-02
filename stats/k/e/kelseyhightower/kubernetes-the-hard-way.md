@@ -1,10 +1,10 @@
 # kelseyhightower/kubernetes-the-hard-way - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 11788
+☋ Forks: 11804
 
-★ Stars: 34473
+★ Stars: 34493
 
 [Open repository](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 34493 | 11804 | 
 | 2023-02-28 | 34473 | 11788 | 
 | 2023-02-26 | 34458 | 11788 | 
 | 2023-02-25 | 34455 | 11784 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 34239 | 11665 | 
 | 2023-02-02 | 34233 | 11657 | 
 | 2023-01-31 | 34228 | 11648 | 
-| 2023-01-30 | 34213 | 11644 | 
 

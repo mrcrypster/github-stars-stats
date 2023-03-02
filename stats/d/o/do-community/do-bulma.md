@@ -1,10 +1,10 @@
 # do-community/do-bulma - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/do-community/do-bulma)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 15 | 3 | 
 | 2023-02-28 | 14 | 3 | 
 | 2023-02-26 | 14 | 3 | 
 | 2023-02-25 | 14 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 14 | 3 | 
 | 2023-02-01 | 14 | 3 | 
 | 2023-01-31 | 14 | 3 | 
-| 2023-01-30 | 14 | 3 | 
 

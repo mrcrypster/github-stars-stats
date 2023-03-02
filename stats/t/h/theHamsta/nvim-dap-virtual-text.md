@@ -1,10 +1,10 @@
 # theHamsta/nvim-dap-virtual-text - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 18
 
-★ Stars: 474
+★ Stars: 476
 
 [Open repository](https://github.com/theHamsta/nvim-dap-virtual-text)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 476 | 18 | 
 | 2023-02-28 | 474 | 18 | 
 | 2023-02-26 | 472 | 18 | 
 | 2023-02-25 | 471 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 446 | 16 | 
 | 2023-02-02 | 446 | 16 | 
 | 2023-02-01 | 446 | 16 | 
-| 2023-01-30 | 446 | 16 | 
 

@@ -1,8 +1,8 @@
 # toddliu1/kiwix-v1.0.7 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 101
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 101 | 18 | 
 | 2023-02-28 | 101 | 17 | 
 | 2023-02-27 | 101 | 16 | 
 | 2023-02-26 | 100 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 92 | 14 | 
 | 2023-02-02 | 92 | 14 | 
 | 2023-02-01 | 92 | 14 | 
-| 2023-01-31 | 91 | 14 | 
 

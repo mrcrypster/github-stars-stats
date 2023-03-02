@@ -1,6 +1,6 @@
 # creativetimofficial/black-dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 329 | 184 | 
 | 2023-02-28 | 329 | 184 | 
 | 2023-02-26 | 329 | 185 | 
 | 2023-02-25 | 329 | 184 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 328 | 176 | 
 | 2023-02-01 | 327 | 176 | 
 | 2023-01-31 | 327 | 175 | 
-| 2023-01-30 | 327 | 175 | 
 

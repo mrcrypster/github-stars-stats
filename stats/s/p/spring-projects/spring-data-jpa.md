@@ -1,8 +1,8 @@
 # spring-projects/spring-data-jpa - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1243
+☋ Forks: 1245
 
 ★ Stars: 2582
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2582 | 1245 | 
 | 2023-02-28 | 2582 | 1243 | 
 | 2023-02-26 | 2582 | 1243 | 
 | 2023-02-25 | 2581 | 1242 | 

@@ -1,10 +1,10 @@
 # niklasekstrom/clockport_pi_interface - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/niklasekstrom/clockport_pi_interface)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 35 | 6 | 
 | 2023-02-28 | 34 | 6 | 
 | 2023-02-27 | 34 | 6 | 
 | 2023-02-26 | 34 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 31 | 5 | 
 | 2023-02-01 | 31 | 5 | 
 | 2023-01-31 | 31 | 5 | 
-| 2023-01-30 | 31 | 5 | 
 

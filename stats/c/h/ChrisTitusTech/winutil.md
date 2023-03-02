@@ -1,10 +1,10 @@
 # ChrisTitusTech/winutil - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 326
+☋ Forks: 327
 
-★ Stars: 3128
+★ Stars: 3137
 
 [Open repository](https://github.com/ChrisTitusTech/winutil)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3137 | 327 | 
 | 2023-02-28 | 3128 | 326 | 
 | 2023-02-27 | 3111 | 325 | 
 | 2023-02-26 | 3110 | 324 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2811 | 305 | 
 | 2023-02-01 | 2788 | 305 | 
 | 2023-01-31 | 2773 | 304 | 
-| 2023-01-30 | 2764 | 304 | 
 

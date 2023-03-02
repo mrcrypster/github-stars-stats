@@ -1,10 +1,10 @@
 # testcontainers/testcontainers-java - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1393
 
-★ Stars: 6837
+★ Stars: 6843
 
 [Open repository](https://github.com/testcontainers/testcontainers-java)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 6843 | 1393 | 
+| 2023-03-01 | 6842 | 1393 | 
 | 2023-02-28 | 6837 | 1393 | 
 | 2023-02-27 | 6830 | 1391 | 
 | 2023-02-26 | 6826 | 1390 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 6761 | 1374 | 
 | 2023-02-01 | 6758 | 1374 | 
 | 2023-01-31 | 6754 | 1374 | 
-| 2023-01-30 | 6750 | 1373 | 
 

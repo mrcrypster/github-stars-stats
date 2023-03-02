@@ -1,6 +1,6 @@
 # primait/opentelemetry_absinthe - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 9 | 13 | 
 | 2023-02-28 | 9 | 13 | 
 | 2023-02-27 | 8 | 13 | 
 | 2023-02-25 | 8 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 8 | 10 | 
 | 2023-02-01 | 8 | 10 | 
 | 2023-01-31 | 8 | 10 | 
-| 2023-01-30 | 8 | 9 | 
 

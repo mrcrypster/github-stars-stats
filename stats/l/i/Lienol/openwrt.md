@@ -1,10 +1,10 @@
 # Lienol/openwrt - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1784
 
-★ Stars: 2817
+★ Stars: 2818
 
 [Open repository](https://github.com/Lienol/openwrt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2818 | 1784 | 
 | 2023-02-28 | 2817 | 1784 | 
 | 2023-02-27 | 2813 | 1783 | 
 | 2023-02-26 | 2814 | 1784 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2767 | 1774 | 
 | 2023-02-01 | 2766 | 1772 | 
 | 2023-01-31 | 2765 | 1774 | 
-| 2023-01-30 | 2763 | 1774 | 
 

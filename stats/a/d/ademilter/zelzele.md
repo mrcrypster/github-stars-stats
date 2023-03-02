@@ -1,10 +1,10 @@
 # ademilter/zelzele - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 15
+☋ Forks: 14
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/ademilter/zelzele)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 93 | 14 | 
 | 2023-02-28 | 91 | 15 | 
 | 2023-02-26 | 91 | 15 | 
 | 2023-02-25 | 87 | 14 | 

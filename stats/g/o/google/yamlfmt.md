@@ -1,6 +1,6 @@
 # google/yamlfmt - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 719 | 23 | 
 | 2023-02-27 | 719 | 23 | 
 | 2023-02-26 | 718 | 23 | 
 | 2023-02-25 | 718 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 698 | 24 | 
 | 2023-02-01 | 698 | 24 | 
 | 2023-01-31 | 698 | 24 | 
-| 2023-01-30 | 696 | 24 | 
 

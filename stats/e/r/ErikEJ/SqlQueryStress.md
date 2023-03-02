@@ -1,8 +1,8 @@
 # ErikEJ/SqlQueryStress - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 209
+☋ Forks: 210
 
 ★ Stars: 789
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 789 | 210 | 
 | 2023-02-27 | 789 | 209 | 
 | 2023-02-26 | 787 | 209 | 
 | 2023-02-25 | 787 | 208 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 780 | 207 | 
 | 2023-02-01 | 780 | 207 | 
 | 2023-01-31 | 780 | 207 | 
-| 2023-01-30 | 779 | 206 | 
 

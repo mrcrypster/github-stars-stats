@@ -1,6 +1,6 @@
 # devlooped/GitInfo - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 406 | 68 | 
 | 2023-02-28 | 406 | 68 | 
 | 2023-02-27 | 406 | 67 | 
 | 2023-02-26 | 405 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 394 | 66 | 
 | 2023-02-01 | 394 | 66 | 
 | 2023-01-31 | 394 | 66 | 
-| 2023-01-30 | 394 | 66 | 
 

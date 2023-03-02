@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 01
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 1619
+★ Stars: 1622
 
 [Open repository](https://github.com/SDWebImage/SDWebImageSwiftUI)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 1619 | 156 | 
+| 2023-03-01 | 1622 | 157 | 
 | 2023-02-28 | 1618 | 156 | 
 | 2023-02-27 | 1616 | 155 | 
 | 2023-02-26 | 1615 | 155 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-02 | 1596 | 150 | 
 | 2023-02-01 | 1595 | 150 | 
 | 2023-01-31 | 1595 | 150 | 
-| 2023-01-30 | 1595 | 150 | 
 

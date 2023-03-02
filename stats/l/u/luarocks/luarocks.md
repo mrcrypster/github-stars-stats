@@ -1,6 +1,6 @@
 # luarocks/luarocks - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 409
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2720 | 409 | 
 | 2023-02-28 | 2720 | 409 | 
 | 2023-02-27 | 2718 | 409 | 
 | 2023-02-26 | 2718 | 408 | 

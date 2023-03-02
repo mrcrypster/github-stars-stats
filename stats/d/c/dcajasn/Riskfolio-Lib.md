@@ -1,10 +1,10 @@
 # dcajasn/Riskfolio-Lib - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 345
+☋ Forks: 346
 
-★ Stars: 1777
+★ Stars: 1778
 
 [Open repository](https://github.com/dcajasn/Riskfolio-Lib)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1778 | 346 | 
 | 2023-02-27 | 1777 | 345 | 
 | 2023-02-26 | 1776 | 345 | 
 | 2023-02-25 | 1775 | 345 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 1741 | 339 | 
 | 2023-02-01 | 1740 | 339 | 
 | 2023-01-31 | 1741 | 339 | 
-| 2023-01-30 | 1740 | 338 | 
 

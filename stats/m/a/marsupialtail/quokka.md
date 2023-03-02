@@ -1,6 +1,6 @@
 # marsupialtail/quokka - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 809 | 42 | 
 | 2023-02-27 | 809 | 42 | 
 | 2023-02-26 | 806 | 42 | 
 | 2023-02-25 | 803 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 766 | 37 | 
 | 2023-02-01 | 765 | 37 | 
 | 2023-01-31 | 764 | 37 | 
-| 2023-01-30 | 762 | 37 | 
 

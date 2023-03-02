@@ -1,10 +1,10 @@
 # matt-kimball/allocscope - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 16
 
-★ Stars: 512
+★ Stars: 513
 
 [Open repository](https://github.com/matt-kimball/allocscope)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 513 | 16 | 
 | 2023-02-28 | 512 | 16 | 
 | 2023-02-27 | 508 | 16 | 
 | 2023-02-26 | 504 | 16 | 

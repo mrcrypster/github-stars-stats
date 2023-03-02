@@ -1,6 +1,6 @@
 # quambene/rust-concurrency - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 338 | 6 | 
 | 2023-02-28 | 338 | 6 | 
 | 2023-02-27 | 338 | 6 | 
 | 2023-02-26 | 336 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 332 | 5 | 
 | 2023-02-01 | 332 | 5 | 
 | 2023-01-31 | 332 | 5 | 
-| 2023-01-30 | 332 | 5 | 
 

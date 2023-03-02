@@ -1,10 +1,10 @@
 # wolny/pytorch-3dunet - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 418
+☋ Forks: 419
 
-★ Stars: 1359
+★ Stars: 1361
 
 [Open repository](https://github.com/wolny/pytorch-3dunet)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1361 | 419 | 
 | 2023-02-28 | 1359 | 418 | 
 | 2023-02-27 | 1359 | 417 | 
 | 2023-02-26 | 1358 | 417 | 

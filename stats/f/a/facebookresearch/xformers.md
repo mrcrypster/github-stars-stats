@@ -1,10 +1,10 @@
 # facebookresearch/xformers - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 190
+☋ Forks: 197
 
-★ Stars: 2738
+★ Stars: 2761
 
 [Open repository](https://github.com/facebookresearch/xformers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2761 | 197 | 
 | 2023-02-28 | 2738 | 190 | 
 | 2023-02-27 | 2721 | 190 | 
 | 2023-02-26 | 2692 | 188 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2470 | 176 | 
 | 2023-02-01 | 2463 | 175 | 
 | 2023-01-31 | 2457 | 175 | 
-| 2023-01-30 | 2446 | 175 | 
 

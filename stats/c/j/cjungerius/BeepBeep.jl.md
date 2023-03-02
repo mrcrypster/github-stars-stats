@@ -1,10 +1,10 @@
 # cjungerius/BeepBeep.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/cjungerius/BeepBeep.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10 | - | 
 | 2023-02-28 | 9 | - | 
 | 2023-02-27 | 9 | - | 
 | 2023-02-26 | 9 | - | 

@@ -1,6 +1,6 @@
 # Sirtuns4real/alx-system_engineering-devops - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 12 | 31 | 
 | 2023-02-28 | 12 | 31 | 
 | 2023-02-27 | 12 | 30 | 
 | 2023-02-26 | 12 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 10 | 27 | 
 | 2023-02-01 | 10 | 27 | 
 | 2023-01-31 | 10 | 27 | 
-| 2023-01-30 | 10 | 27 | 
 

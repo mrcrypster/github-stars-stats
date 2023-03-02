@@ -1,6 +1,6 @@
 # m-demare/hlargs.nvim - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 287 | 10 | 
 | 2023-02-28 | 287 | 10 | 
 | 2023-02-27 | 287 | 9 | 
 | 2023-02-26 | 287 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 275 | 9 | 
 | 2023-02-01 | 276 | 9 | 
 | 2023-01-31 | 275 | 8 | 
-| 2023-01-30 | 275 | 8 | 
 

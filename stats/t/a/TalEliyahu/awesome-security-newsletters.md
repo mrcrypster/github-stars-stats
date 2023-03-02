@@ -1,10 +1,10 @@
 # TalEliyahu/awesome-security-newsletters - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 623
+★ Stars: 625
 
 [Open repository](https://github.com/TalEliyahu/awesome-security-newsletters)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 625 | 55 | 
 | 2023-02-28 | 623 | 54 | 
 | 2023-02-27 | 615 | 54 | 
 | 2023-02-26 | 548 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 507 | 43 | 
 | 2023-02-01 | 491 | 43 | 
 | 2023-01-31 | 488 | 43 | 
-| 2023-01-30 | 488 | 43 | 
 

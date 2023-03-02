@@ -1,6 +1,6 @@
 # MythicAgents/tetanus - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 203 | 21 | 
 | 2023-02-28 | 203 | 21 | 
 | 2023-02-26 | 202 | 20 | 
 | 2023-02-25 | 202 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 198 | 20 | 
 | 2023-02-01 | 197 | 20 | 
 | 2023-01-31 | 197 | 20 | 
-| 2023-01-30 | 197 | 20 | 
 

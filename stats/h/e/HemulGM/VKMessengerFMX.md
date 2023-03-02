@@ -1,10 +1,10 @@
 # HemulGM/VKMessengerFMX - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/HemulGM/VKMessengerFMX)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 14 | 3 | 
 | 2023-02-27 | 13 | 3 | 
 | 2023-02-26 | 13 | 3 | 
 | 2023-02-25 | 13 | 3 | 

@@ -1,6 +1,6 @@
 # k8gege/K8tools - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2006
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4967 | 2006 | 
 | 2023-02-27 | 4967 | 2006 | 
 | 2023-02-26 | 4965 | 2006 | 
 | 2023-02-25 | 4965 | 2008 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 4938 | 2001 | 
 | 2023-02-01 | 4936 | 1999 | 
 | 2023-01-31 | 4934 | 1999 | 
-| 2023-01-30 | 4933 | 2000 | 
 

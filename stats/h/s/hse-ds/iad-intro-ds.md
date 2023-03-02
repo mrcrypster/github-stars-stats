@@ -1,8 +1,8 @@
 # hse-ds/iad-intro-ds - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 232
+☋ Forks: 235
 
 ★ Stars: 80
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 80 | 235 | 
 | 2023-02-28 | 80 | 232 | 
 | 2023-02-27 | 80 | 230 | 
 | 2023-02-26 | 80 | 230 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 71 | 216 | 
 | 2023-02-01 | 71 | 215 | 
 | 2023-01-31 | 70 | 209 | 
-| 2023-01-30 | 69 | 207 | 
 

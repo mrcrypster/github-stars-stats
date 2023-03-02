@@ -1,6 +1,6 @@
 # ajithjojo/gmax-crm - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 23 | 3 | 
 | 2023-02-27 | 23 | 3 | 
 | 2023-02-26 | 23 | 3 | 
 | 2023-02-25 | 23 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 19 | 3 | 
 | 2023-02-01 | 19 | 3 | 
 | 2023-01-31 | 19 | 3 | 
-| 2023-01-30 | 19 | 3 | 
 

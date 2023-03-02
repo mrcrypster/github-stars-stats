@@ -1,6 +1,6 @@
 # Ormicron/chatViewTool - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 409 | 44 | 
 | 2023-02-28 | 409 | 44 | 
 | 2023-02-27 | 408 | 44 | 
 | 2023-02-25 | 408 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 399 | 42 | 
 | 2023-02-01 | 397 | 42 | 
 | 2023-01-31 | 396 | 42 | 
-| 2023-01-30 | 396 | 42 | 
 

@@ -1,10 +1,10 @@
 # KalobTaulien/git-essentials - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 248
+☋ Forks: 249
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/KalobTaulien/git-essentials)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 131 | 249 | 
 | 2023-02-28 | 130 | 248 | 
 | 2023-02-27 | 128 | 248 | 
 | 2023-02-26 | 128 | 248 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 124 | 244 | 
 | 2023-02-01 | 124 | 244 | 
 | 2023-01-31 | 123 | 244 | 
-| 2023-01-30 | 122 | 243 | 
 

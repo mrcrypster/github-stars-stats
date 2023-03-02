@@ -1,10 +1,10 @@
 # gl-inet/gl-infra-builder - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/gl-inet/gl-infra-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 132 | 95 | 
 | 2023-02-28 | 131 | 94 | 
 | 2023-02-26 | 131 | 93 | 
 | 2023-02-25 | 130 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 114 | 79 | 
 | 2023-02-01 | 114 | 78 | 
 | 2023-01-31 | 114 | 79 | 
-| 2023-01-30 | 114 | 79 | 
 

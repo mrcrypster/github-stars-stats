@@ -1,10 +1,10 @@
 # jsdelivr/jsdelivr - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 2035
+☋ Forks: 2034
 
-★ Stars: 4816
+★ Stars: 4820
 
 [Open repository](https://github.com/jsdelivr/jsdelivr)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4820 | 2034 | 
 | 2023-02-27 | 4816 | 2035 | 
 | 2023-02-26 | 4816 | 2036 | 
 | 2023-02-25 | 4814 | 2036 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 4766 | 2039 | 
 | 2023-02-01 | 4765 | 2039 | 
 | 2023-01-31 | 4762 | 2038 | 
-| 2023-01-30 | 4762 | 2038 | 
 

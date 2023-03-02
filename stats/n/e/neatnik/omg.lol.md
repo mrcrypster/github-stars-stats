@@ -1,6 +1,6 @@
 # neatnik/omg.lol - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 288 | 42 | 
 | 2023-02-28 | 288 | 42 | 
 | 2023-02-27 | 288 | 42 | 
 | 2023-02-26 | 288 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 269 | 41 | 
 | 2023-02-01 | 268 | 41 | 
 | 2023-01-31 | 267 | 41 | 
-| 2023-01-30 | 267 | 40 | 
 

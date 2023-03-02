@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-cloud-dns - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-cloud-dns)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 38 | 69 | 
 | 2023-02-28 | 37 | 68 | 
 | 2023-02-27 | 37 | 68 | 
 | 2023-02-25 | 37 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 34 | 67 | 
 | 2023-02-01 | 34 | 67 | 
 | 2023-01-31 | 34 | 67 | 
-| 2023-01-30 | 34 | 67 | 
 

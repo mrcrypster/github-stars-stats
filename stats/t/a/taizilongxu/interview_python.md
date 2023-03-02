@@ -1,10 +1,10 @@
 # taizilongxu/interview_python - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 5495
+☋ Forks: 5496
 
-★ Stars: 15460
+★ Stars: 15465
 
 [Open repository](https://github.com/taizilongxu/interview_python)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 15465 | 5496 | 
 | 2023-02-28 | 15460 | 5495 | 
 | 2023-02-27 | 15455 | 5495 | 
 | 2023-02-26 | 15454 | 5493 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 15402 | 5486 | 
 | 2023-02-01 | 15398 | 5486 | 
 | 2023-01-31 | 15394 | 5485 | 
-| 2023-01-30 | 15394 | 5485 | 
 

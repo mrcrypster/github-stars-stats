@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 01
 
 ☋ Forks: 57
 
-★ Stars: 328
+★ Stars: 333
 
 [Open repository](https://github.com/MustardChef/WSABuilds)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 328 | 57 | 
+| 2023-03-01 | 333 | 57 | 
 | 2023-02-28 | 327 | 57 | 
 | 2023-02-26 | 311 | 50 | 
 | 2023-02-25 | 307 | 50 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 130 | 29 | 
 | 2023-02-02 | 112 | 27 | 
 | 2023-02-01 | 105 | 26 | 
-| 2023-01-31 | 92 | 26 | 
 

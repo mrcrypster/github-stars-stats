@@ -1,6 +1,6 @@
 # donald-f-ferguson/F22-Simple-Web-UI - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | 221 | 
 | 2023-02-28 | 2 | 221 | 
 | 2023-02-27 | 2 | 221 | 
 | 2023-02-26 | 2 | 221 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2 | 223 | 
 | 2023-02-01 | 2 | 223 | 
 | 2023-01-31 | 2 | 223 | 
-| 2023-01-30 | 2 | 223 | 
 

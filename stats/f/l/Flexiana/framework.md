@@ -1,6 +1,6 @@
 # Flexiana/framework - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 56 | 9 | 
 | 2023-03-01 | 56 | 9 | 
 | 2023-02-27 | 56 | 9 | 
 | 2023-02-26 | 56 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 54 | 9 | 
 | 2023-02-02 | 54 | 9 | 
 | 2023-02-01 | 54 | 9 | 
-| 2023-01-31 | 53 | 9 | 
 

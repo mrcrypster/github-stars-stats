@@ -1,6 +1,6 @@
 # sweatco/sweat-near - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 83 | 7 | 
 | 2023-02-28 | 83 | 7 | 
 | 2023-02-27 | 83 | 7 | 
 | 2023-02-26 | 83 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 82 | 7 | 
 | 2023-02-01 | 82 | 7 | 
 | 2023-01-31 | 82 | 7 | 
-| 2023-01-30 | 81 | 7 | 
 

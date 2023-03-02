@@ -1,10 +1,10 @@
 # Leticia-maria/QuantumFoca.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/Leticia-maria/QuantumFoca.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 39 | 2 | 
 | 2023-02-28 | 37 | 2 | 
 | 2023-02-27 | 37 | 2 | 
 | 2023-02-26 | 37 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 35 | 1 | 
 | 2023-02-01 | 35 | 1 | 
 | 2023-01-31 | 35 | 1 | 
-| 2023-01-30 | 35 | 1 | 
 

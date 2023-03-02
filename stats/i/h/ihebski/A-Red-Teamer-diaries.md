@@ -1,10 +1,10 @@
 # ihebski/A-Red-Teamer-diaries - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 225
+☋ Forks: 226
 
-★ Stars: 1163
+★ Stars: 1165
 
 [Open repository](https://github.com/ihebski/A-Red-Teamer-diaries)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1165 | 226 | 
 | 2023-02-28 | 1163 | 225 | 
 | 2023-02-27 | 1160 | 223 | 
 | 2023-02-26 | 1133 | 219 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1092 | 214 | 
 | 2023-02-02 | 1091 | 213 | 
 | 2023-02-01 | 1090 | 213 | 
-| 2023-01-30 | 1090 | 213 | 
 

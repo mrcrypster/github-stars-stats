@@ -1,10 +1,10 @@
 # AssoEchap/stalkerware-indicators - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 27
 
-★ Stars: 156
+★ Stars: 158
 
 [Open repository](https://github.com/AssoEchap/stalkerware-indicators)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 158 | 27 | 
 | 2023-02-28 | 156 | 27 | 
 | 2023-02-27 | 156 | 27 | 
 | 2023-02-25 | 156 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 151 | 25 | 
 | 2023-02-01 | 151 | 25 | 
 | 2023-01-31 | 151 | 24 | 
-| 2023-01-30 | 151 | 24 | 
 

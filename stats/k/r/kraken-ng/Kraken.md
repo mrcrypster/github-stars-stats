@@ -1,10 +1,10 @@
 # kraken-ng/Kraken - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 16
 
-★ Stars: 219
+★ Stars: 225
 
 [Open repository](https://github.com/kraken-ng/Kraken)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 225 | 16 | 
 | 2023-02-28 | 219 | 16 | 
 

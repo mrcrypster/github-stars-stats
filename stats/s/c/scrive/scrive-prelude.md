@@ -1,6 +1,6 @@
 # scrive/scrive-prelude - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 5 | - | 
 | 2023-02-28 | 5 | - | 
 | 2023-02-27 | 5 | - | 
 | 2023-02-26 | 4 | - | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3 | - | 
 | 2023-02-01 | 3 | - | 
 | 2023-01-31 | 3 | - | 
-| 2023-01-30 | 1 | - | 
 

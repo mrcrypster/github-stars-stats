@@ -1,10 +1,10 @@
 # VB10/sesimiduy - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/VB10/sesimiduy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 61 | 12 | 
 | 2023-02-28 | 60 | 11 | 
 | 2023-02-26 | 60 | 11 | 
 | 2023-02-25 | 60 | 11 | 

@@ -1,10 +1,10 @@
 # igniti0n/flutter_algorithms_visualization - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 61
+★ Stars: 65
 
 [Open repository](https://github.com/igniti0n/flutter_algorithms_visualization)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 65 | 9 | 
 | 2023-02-28 | 61 | 8 | 
 

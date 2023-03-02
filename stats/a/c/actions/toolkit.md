@@ -1,10 +1,10 @@
 # actions/toolkit - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1293
+☋ Forks: 1294
 
-★ Stars: 3867
+★ Stars: 3871
 
 [Open repository](https://github.com/actions/toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3871 | 1294 | 
 | 2023-02-27 | 3867 | 1293 | 
 | 2023-02-26 | 3866 | 1289 | 
 | 2023-02-25 | 3866 | 1289 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 3818 | 1270 | 
 | 2023-02-01 | 3819 | 1271 | 
 | 2023-01-31 | 3816 | 1270 | 
-| 2023-01-30 | 3815 | 1268 | 
 

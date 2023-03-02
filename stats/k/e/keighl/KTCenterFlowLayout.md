@@ -1,6 +1,6 @@
 # keighl/KTCenterFlowLayout - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 457 | 59 | 
 | 2023-02-28 | 457 | 59 | 
 | 2023-02-27 | 457 | 59 | 
 | 2023-02-25 | 457 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 457 | 59 | 
 | 2023-02-02 | 457 | 59 | 
 | 2023-02-01 | 457 | 59 | 
-| 2023-01-31 | 457 | 59 | 
 

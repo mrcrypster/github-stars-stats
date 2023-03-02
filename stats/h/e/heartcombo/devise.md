@@ -1,6 +1,6 @@
 # heartcombo/devise - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5538
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 23030 | 5538 | 
 | 2023-02-28 | 23030 | 5538 | 
 | 2023-02-27 | 23027 | 5534 | 
 | 2023-02-26 | 23028 | 5534 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 22981 | 5513 | 
 | 2023-02-01 | 22980 | 5512 | 
 | 2023-01-31 | 22978 | 5511 | 
-| 2023-01-30 | 22972 | 5508 | 
 

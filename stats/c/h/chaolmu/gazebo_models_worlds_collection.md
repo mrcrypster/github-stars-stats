@@ -1,6 +1,6 @@
 # chaolmu/gazebo_models_worlds_collection - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 152 | 65 | 
 | 2023-02-28 | 152 | 65 | 
 | 2023-02-27 | 152 | 65 | 
 | 2023-02-26 | 151 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 147 | 63 | 
 | 2023-02-01 | 147 | 63 | 
 | 2023-01-31 | 147 | 62 | 
-| 2023-01-30 | 147 | 62 | 
 

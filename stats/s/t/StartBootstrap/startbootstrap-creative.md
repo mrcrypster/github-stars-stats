@@ -1,8 +1,8 @@
 # StartBootstrap/startbootstrap-creative - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 3118
+☋ Forks: 3119
 
 ★ Stars: 1970
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1970 | 3119 | 
 | 2023-02-27 | 1970 | 3118 | 
 | 2023-02-26 | 1970 | 3120 | 
 | 2023-02-25 | 1970 | 3119 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 1969 | 3114 | 
 | 2023-02-01 | 1968 | 3114 | 
 | 2023-01-31 | 1967 | 3114 | 
-| 2023-01-30 | 1967 | 3114 | 
 

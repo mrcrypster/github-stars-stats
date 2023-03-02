@@ -1,10 +1,10 @@
 # rocketseat-education/ignite-lab-01-aulas - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 72
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/rocketseat-education/ignite-lab-01-aulas)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 148 | 72 | 
 | 2023-02-28 | 147 | 72 | 
 | 2023-02-27 | 147 | 72 | 
 | 2023-02-26 | 147 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 146 | 72 | 
 | 2023-02-01 | 146 | 72 | 
 | 2023-01-31 | 146 | 72 | 
-| 2023-01-30 | 146 | 72 | 
 

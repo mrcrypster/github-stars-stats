@@ -1,6 +1,6 @@
 # fayjustin/computational_biology - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 111 | 17 | 
 | 2023-02-27 | 111 | 17 | 
 | 2023-02-26 | 111 | 17 | 
 | 2023-02-25 | 111 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 108 | 17 | 
 | 2023-02-01 | 108 | 17 | 
 | 2023-01-31 | 107 | 17 | 
-| 2023-01-30 | 107 | 17 | 
 

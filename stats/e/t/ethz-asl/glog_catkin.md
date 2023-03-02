@@ -1,6 +1,6 @@
 # ethz-asl/glog_catkin - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 12 | 81 | 
 | 2023-02-27 | 12 | 81 | 
 | 2023-02-26 | 12 | 81 | 
 | 2023-02-25 | 12 | 81 | 
@@ -38,5 +39,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 10 | 82 | 
 | 2023-02-01 | 10 | 82 | 
 | 2023-01-31 | 10 | 82 | 
-| 2023-01-30 | 10 | 82 | 
 

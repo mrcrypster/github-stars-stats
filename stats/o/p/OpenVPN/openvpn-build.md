@@ -1,6 +1,6 @@
 # OpenVPN/openvpn-build - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 279 | 238 | 
 | 2023-02-28 | 279 | 238 | 
 | 2023-02-27 | 279 | 238 | 
 | 2023-02-26 | 279 | 238 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 277 | 234 | 
 | 2023-02-01 | 277 | 234 | 
 | 2023-01-31 | 277 | 234 | 
-| 2023-01-30 | 277 | 234 | 
 

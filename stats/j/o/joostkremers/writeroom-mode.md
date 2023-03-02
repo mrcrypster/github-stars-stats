@@ -1,10 +1,10 @@
 # joostkremers/writeroom-mode - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 24
 
-★ Stars: 533
+★ Stars: 534
 
 [Open repository](https://github.com/joostkremers/writeroom-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 534 | 24 | 
 | 2023-02-28 | 533 | 24 | 
 | 2023-02-26 | 532 | 24 | 
 | 2023-02-25 | 532 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 526 | 24 | 
 | 2023-02-01 | 526 | 24 | 
 | 2023-01-31 | 526 | 24 | 
-| 2023-01-30 | 525 | 24 | 
 

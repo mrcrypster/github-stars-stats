@@ -1,6 +1,6 @@
 # Pyxus/fray - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 80 | 2 | 
 | 2023-02-27 | 80 | 2 | 
 | 2023-02-26 | 80 | 2 | 
 | 2023-02-25 | 80 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 75 | 2 | 
 | 2023-02-01 | 75 | 2 | 
 | 2023-01-31 | 75 | 2 | 
-| 2023-01-30 | 75 | 2 | 
 

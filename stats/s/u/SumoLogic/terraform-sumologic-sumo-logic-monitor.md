@@ -1,6 +1,6 @@
 # SumoLogic/terraform-sumologic-sumo-logic-monitor - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4 | 14 | 
 | 2023-02-28 | 4 | 14 | 
 | 2023-02-27 | 4 | 14 | 
 | 2023-02-26 | 4 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 4 | 14 | 
 | 2023-02-02 | 4 | 14 | 
 | 2023-02-01 | 4 | 14 | 
-| 2023-01-31 | 4 | 14 | 
 

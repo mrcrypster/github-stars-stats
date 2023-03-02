@@ -1,10 +1,10 @@
 # NVlabs/nvdiffrec - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 176
 
-★ Stars: 1506
+★ Stars: 1507
 
 [Open repository](https://github.com/NVlabs/nvdiffrec)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1507 | 176 | 
 | 2023-02-27 | 1506 | 176 | 
 | 2023-02-26 | 1505 | 176 | 
 | 2023-02-25 | 1505 | 176 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 1475 | 170 | 
 | 2023-02-02 | 1474 | 169 | 
 | 2023-01-31 | 1474 | 169 | 
-| 2023-01-30 | 1472 | 168 | 
 

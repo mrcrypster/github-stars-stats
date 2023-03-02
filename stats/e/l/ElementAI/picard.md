@@ -1,6 +1,6 @@
 # ElementAI/picard - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 236 | 95 | 
 | 2023-02-28 | 236 | 95 | 
 | 2023-02-27 | 234 | 93 | 
 | 2023-02-25 | 234 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 230 | 90 | 
 | 2023-02-02 | 229 | 90 | 
 | 2023-02-01 | 229 | 91 | 
-| 2023-01-31 | 229 | 90 | 
 

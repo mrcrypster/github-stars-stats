@@ -1,6 +1,6 @@
 # hillu/local-spring-vuln-scanner - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 128 | 21 | 
 | 2023-02-28 | 128 | 21 | 
 | 2023-02-27 | 128 | 21 | 
 | 2023-02-26 | 128 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 128 | 21 | 
 | 2023-02-02 | 128 | 21 | 
 | 2023-02-01 | 128 | 21 | 
-| 2023-01-31 | 128 | 21 | 
 

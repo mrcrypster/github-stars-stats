@@ -1,10 +1,10 @@
 # MacPass/MacPass - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 462
 
-★ Stars: 6483
+★ Stars: 6484
 
 [Open repository](https://github.com/MacPass/MacPass)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 6484 | 462 | 
 | 2023-02-28 | 6483 | 462 | 
 | 2023-02-26 | 6481 | 462 | 
 | 2023-02-25 | 6481 | 462 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 6461 | 461 | 
 | 2023-02-01 | 6459 | 459 | 
 | 2023-01-31 | 6457 | 458 | 
-| 2023-01-30 | 6457 | 458 | 
 

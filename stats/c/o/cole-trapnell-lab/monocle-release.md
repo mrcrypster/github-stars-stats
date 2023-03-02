@@ -1,6 +1,6 @@
 # cole-trapnell-lab/monocle-release - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 245 | 104 | 
 | 2023-02-28 | 245 | 104 | 
 | 2023-02-27 | 245 | 104 | 
 | 2023-02-26 | 245 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 241 | 102 | 
 | 2023-02-02 | 241 | 102 | 
 | 2023-02-01 | 241 | 102 | 
-| 2023-01-30 | 241 | 102 | 
 

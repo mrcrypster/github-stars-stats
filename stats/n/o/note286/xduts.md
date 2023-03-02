@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 01
 
 ☋ Forks: 37
 
-★ Stars: 318
+★ Stars: 319
 
 [Open repository](https://github.com/note286/xduts)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 318 | 37 | 
+| 2023-03-01 | 319 | 37 | 
 | 2023-02-28 | 318 | 37 | 
 | 2023-02-27 | 317 | 37 | 
 | 2023-02-26 | 315 | 37 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-02 | 265 | 34 | 
 | 2023-02-01 | 262 | 33 | 
 | 2023-01-31 | 261 | 33 | 
-| 2023-01-30 | 258 | 33 | 
 

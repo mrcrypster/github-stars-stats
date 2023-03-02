@@ -1,8 +1,8 @@
 # balancer-labs/frontend-v2 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 176
+☋ Forks: 177
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 127 | 177 | 
 | 2023-02-28 | 127 | 176 | 
 | 2023-02-27 | 127 | 176 | 
 | 2023-02-26 | 127 | 176 | 

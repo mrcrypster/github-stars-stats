@@ -1,6 +1,6 @@
 # fabulousfx/FSharp.Mobile.Templates - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 81 | 5 | 
 | 2023-02-28 | 81 | 5 | 
 | 2023-02-27 | 80 | 5 | 
 | 2023-02-26 | 80 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 76 | 5 | 
 | 2023-02-01 | 76 | 5 | 
 | 2023-01-31 | 77 | 5 | 
-| 2023-01-30 | 77 | 5 | 
 

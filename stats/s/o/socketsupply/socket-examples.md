@@ -1,6 +1,6 @@
 # socketsupply/socket-examples - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 53 | 5 | 
 | 2023-02-28 | 53 | 5 | 
 | 2023-02-26 | 53 | 5 | 
 | 2023-02-25 | 53 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 51 | 4 | 
 | 2023-02-01 | 50 | 4 | 
 | 2023-01-31 | 49 | 4 | 
-| 2023-01-30 | 50 | 4 | 
 

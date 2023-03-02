@@ -1,6 +1,6 @@
 # Bintang73/AutoSpotify - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 20 | 14 | 
 | 2023-02-27 | 20 | 14 | 
 | 2023-02-26 | 20 | 14 | 
 | 2023-02-25 | 20 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 17 | 11 | 
 | 2023-02-01 | 17 | 11 | 
 | 2023-01-31 | 16 | 11 | 
-| 2023-01-30 | 16 | 11 | 
 

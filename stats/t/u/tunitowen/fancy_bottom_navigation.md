@@ -1,10 +1,10 @@
 # tunitowen/fancy_bottom_navigation - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 183
+☋ Forks: 181
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/tunitowen/fancy_bottom_navigation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 642 | 181 | 
 | 2023-02-28 | 641 | 183 | 
 | 2023-02-26 | 640 | 183 | 
 | 2023-02-25 | 639 | 183 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 636 | 183 | 
 | 2023-02-02 | 636 | 183 | 
 | 2023-02-01 | 636 | 183 | 
-| 2023-01-30 | 636 | 183 | 
 

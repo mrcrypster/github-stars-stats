@@ -1,10 +1,10 @@
 # tiredofit/docker-db-backup - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 86
+☋ Forks: 87
 
-★ Stars: 394
+★ Stars: 396
 
 [Open repository](https://github.com/tiredofit/docker-db-backup)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 396 | 87 | 
 | 2023-02-28 | 394 | 86 | 
 | 2023-02-27 | 394 | 86 | 
 | 2023-02-26 | 393 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 376 | 85 | 
 | 2023-02-01 | 374 | 85 | 
 | 2023-01-31 | 372 | 85 | 
-| 2023-01-30 | 372 | 85 | 
 

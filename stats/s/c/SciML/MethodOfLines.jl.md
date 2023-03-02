@@ -1,10 +1,10 @@
 # SciML/MethodOfLines.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 22
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/SciML/MethodOfLines.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 109 | 22 | 
 | 2023-02-27 | 108 | 22 | 
 | 2023-02-26 | 108 | 22 | 
 | 2023-02-25 | 106 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 103 | 21 | 
 | 2023-02-02 | 102 | 21 | 
 | 2023-01-31 | 101 | 21 | 
-| 2023-01-30 | 101 | 21 | 
 

@@ -1,10 +1,10 @@
 # Kasper24/KwesomeDE - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 221
+★ Stars: 223
 
 [Open repository](https://github.com/Kasper24/KwesomeDE)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 223 | 12 | 
 | 2023-02-27 | 221 | 12 | 
 | 2023-02-26 | 221 | 12 | 
 | 2023-02-25 | 221 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 202 | 11 | 
 | 2023-02-01 | 203 | 11 | 
 | 2023-01-31 | 202 | 11 | 
-| 2023-01-30 | 202 | 11 | 
 

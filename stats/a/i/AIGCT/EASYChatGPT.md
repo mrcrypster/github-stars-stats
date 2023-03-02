@@ -1,10 +1,10 @@
 # AIGCT/EASYChatGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 610
+☋ Forks: 624
 
-★ Stars: 473
+★ Stars: 474
 
 [Open repository](https://github.com/AIGCT/EASYChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 474 | 624 | 
 | 2023-02-28 | 473 | 610 | 
 | 2023-02-27 | 467 | 601 | 
 | 2023-02-26 | 462 | 589 | 

@@ -1,10 +1,10 @@
 # norcalli/nvim-colorizer.lua - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 76
 
-★ Stars: 1698
+★ Stars: 1699
 
 [Open repository](https://github.com/norcalli/nvim-colorizer.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1699 | 76 | 
 | 2023-02-28 | 1698 | 76 | 
 | 2023-02-27 | 1698 | 75 | 
 | 2023-02-26 | 1696 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1666 | 74 | 
 | 2023-02-02 | 1664 | 74 | 
 | 2023-02-01 | 1663 | 74 | 
-| 2023-01-31 | 1661 | 74 | 
 

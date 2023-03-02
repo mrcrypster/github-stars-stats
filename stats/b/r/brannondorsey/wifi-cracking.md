@@ -1,6 +1,6 @@
 # brannondorsey/wifi-cracking - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1032
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10335 | 1032 | 
 | 2023-02-28 | 10335 | 1032 | 
 | 2023-02-26 | 10329 | 1032 | 
 | 2023-02-25 | 10326 | 1031 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 10271 | 1029 | 
 | 2023-02-01 | 10264 | 1028 | 
 | 2023-01-31 | 10263 | 1027 | 
-| 2023-01-30 | 10259 | 1027 | 
 

@@ -1,6 +1,6 @@
 # qbcore-framework/qb-management - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 23 | 146 | 
 | 2023-02-28 | 23 | 146 | 
 | 2023-02-26 | 23 | 145 | 
 | 2023-02-25 | 23 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 23 | 144 | 
 | 2023-02-01 | 23 | 144 | 
 | 2023-01-31 | 22 | 143 | 
-| 2023-01-30 | 22 | 143 | 
 

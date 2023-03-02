@@ -1,6 +1,6 @@
 # gfx-rs/naga - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1145 | 164 | 
 | 2023-02-28 | 1145 | 164 | 
 | 2023-02-26 | 1145 | 164 | 
 | 2023-02-25 | 1144 | 163 | 

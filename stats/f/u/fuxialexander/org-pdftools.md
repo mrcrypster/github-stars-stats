@@ -1,10 +1,10 @@
 # fuxialexander/org-pdftools - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 32
 
-★ Stars: 269
+★ Stars: 270
 
 [Open repository](https://github.com/fuxialexander/org-pdftools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 270 | 32 | 
 | 2023-02-28 | 269 | 32 | 
 | 2023-02-27 | 269 | 32 | 
 | 2023-02-26 | 269 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 267 | 32 | 
 | 2023-02-01 | 267 | 32 | 
 | 2023-01-31 | 267 | 32 | 
-| 2023-01-30 | 267 | 32 | 
 

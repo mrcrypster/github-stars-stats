@@ -1,10 +1,10 @@
 # insolitum/character_encoder - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 294
+★ Stars: 297
 
 [Open repository](https://github.com/insolitum/character_encoder)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 297 | 8 | 
 | 2023-02-28 | 294 | 8 | 
 | 2023-02-27 | 292 | 8 | 
 | 2023-02-26 | 291 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 237 | 6 | 
 | 2023-02-01 | 231 | 6 | 
 | 2023-01-31 | 227 | 6 | 
-| 2023-01-30 | 218 | 6 | 
 

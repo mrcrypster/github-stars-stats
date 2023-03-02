@@ -1,6 +1,6 @@
 # MLEveryday/100-Days-Of-ML-Code - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5323
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 19535 | 5323 | 
 | 2023-02-28 | 19535 | 5323 | 
 | 2023-02-27 | 19529 | 5322 | 
 | 2023-02-25 | 19527 | 5322 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 19498 | 5327 | 
 | 2023-02-01 | 19494 | 5327 | 
 | 2023-01-31 | 19497 | 5327 | 
-| 2023-01-30 | 19492 | 5326 | 
 

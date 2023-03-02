@@ -1,10 +1,10 @@
 # SteamRE/SteamKit - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 447
 
-★ Stars: 2193
+★ Stars: 2196
 
 [Open repository](https://github.com/SteamRE/SteamKit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2196 | 447 | 
 | 2023-02-28 | 2193 | 447 | 
 | 2023-02-26 | 2192 | 447 | 
 | 2023-02-25 | 2192 | 446 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2183 | 442 | 
 | 2023-02-01 | 2182 | 442 | 
 | 2023-01-31 | 2181 | 442 | 
-| 2023-01-30 | 2180 | 442 | 
 

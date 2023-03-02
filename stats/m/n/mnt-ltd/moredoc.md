@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 01
 
 ☋ Forks: 38
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/mnt-ltd/moredoc)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 112 | 38 | 
+| 2023-03-01 | 113 | 38 | 
 | 2023-02-28 | 112 | 38 | 
 

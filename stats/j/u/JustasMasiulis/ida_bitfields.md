@@ -1,10 +1,10 @@
 # JustasMasiulis/ida_bitfields - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 20
 
-★ Stars: 178
+★ Stars: 177
 
 [Open repository](https://github.com/JustasMasiulis/ida_bitfields)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 177 | 20 | 
 | 2023-02-28 | 178 | 20 | 
 | 2023-02-27 | 178 | 20 | 
 | 2023-02-26 | 178 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 176 | 20 | 
 | 2023-02-01 | 176 | 20 | 
 | 2023-01-31 | 176 | 20 | 
-| 2023-01-30 | 176 | 20 | 
 

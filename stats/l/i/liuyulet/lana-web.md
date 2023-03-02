@@ -1,6 +1,6 @@
 # liuyulet/lana-web - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 90 | 10 | 
 | 2023-02-27 | 90 | 10 | 
 | 2023-02-26 | 90 | 10 | 
 | 2023-02-25 | 90 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 90 | 10 | 
 | 2023-02-01 | 90 | 10 | 
 | 2023-01-31 | 90 | 10 | 
-| 2023-01-30 | 90 | 10 | 
 

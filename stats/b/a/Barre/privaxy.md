@@ -1,6 +1,6 @@
 # Barre/privaxy - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1105 | 46 | 
 | 2023-02-28 | 1105 | 46 | 
 | 2023-02-26 | 1105 | 46 | 
 | 2023-02-25 | 1103 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1046 | 43 | 
 | 2023-02-02 | 1044 | 43 | 
 | 2023-02-01 | 1042 | 43 | 
-| 2023-01-30 | 1042 | 43 | 
 

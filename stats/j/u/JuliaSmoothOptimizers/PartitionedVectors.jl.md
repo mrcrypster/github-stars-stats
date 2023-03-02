@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/PartitionedVectors.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 9 | 1 | 
 | 2023-02-28 | 9 | 1 | 
 | 2023-02-26 | 8 | 1 | 
 | 2023-02-25 | 8 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 7 | 1 | 
 | 2023-02-02 | 7 | 1 | 
 | 2023-01-31 | 7 | 1 | 
-| 2023-01-30 | 7 | 1 | 
 

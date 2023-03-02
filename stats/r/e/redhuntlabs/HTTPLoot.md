@@ -1,10 +1,10 @@
 # redhuntlabs/HTTPLoot - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 35
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/redhuntlabs/HTTPLoot)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 332 | 35 | 
 | 2023-02-28 | 331 | 35 | 
 | 2023-02-26 | 331 | 35 | 
 | 2023-02-25 | 331 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 332 | 36 | 
 | 2023-02-02 | 332 | 36 | 
 | 2023-02-01 | 332 | 36 | 
-| 2023-01-31 | 332 | 36 | 
 

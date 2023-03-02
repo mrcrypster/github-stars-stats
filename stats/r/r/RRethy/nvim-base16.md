@@ -1,6 +1,6 @@
 # RRethy/nvim-base16 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 324 | 47 | 
 | 2023-02-28 | 324 | 47 | 
 | 2023-02-26 | 323 | 47 | 
 | 2023-02-25 | 322 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 310 | 49 | 
 | 2023-02-01 | 309 | 48 | 
 | 2023-01-31 | 309 | 46 | 
-| 2023-01-30 | 309 | 46 | 
 

@@ -1,6 +1,6 @@
 # MESAHub/mesa - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 72 | 19 | 
 | 2023-02-28 | 72 | 19 | 
 | 2023-02-26 | 72 | 19 | 
 | 2023-02-25 | 72 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 70 | 18 | 
 | 2023-02-02 | 69 | 18 | 
 | 2023-02-01 | 69 | 18 | 
-| 2023-01-31 | 69 | 18 | 
 

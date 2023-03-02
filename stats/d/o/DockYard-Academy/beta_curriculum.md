@@ -1,10 +1,10 @@
 # DockYard-Academy/beta_curriculum - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 163
+☋ Forks: 164
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/DockYard-Academy/beta_curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 452 | 164 | 
 | 2023-02-28 | 451 | 163 | 
 | 2023-02-27 | 451 | 162 | 
 | 2023-02-25 | 450 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 408 | 152 | 
 | 2023-02-02 | 408 | 150 | 
 | 2023-02-01 | 407 | 150 | 
-| 2023-01-30 | 405 | 149 | 
 

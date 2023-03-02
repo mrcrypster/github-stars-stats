@@ -1,10 +1,10 @@
 # Power-Components/livewire-powergrid - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 149
+☋ Forks: 150
 
-★ Stars: 1027
+★ Stars: 1028
 
 [Open repository](https://github.com/Power-Components/livewire-powergrid)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1028 | 150 | 
 | 2023-02-27 | 1027 | 149 | 
 | 2023-02-26 | 1025 | 149 | 
 | 2023-02-25 | 1025 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 1003 | 150 | 
 | 2023-02-01 | 1003 | 150 | 
 | 2023-01-31 | 1001 | 150 | 
-| 2023-01-30 | 1001 | 149 | 
 

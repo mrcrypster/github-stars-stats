@@ -1,10 +1,10 @@
 # codecentric/spring-boot-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 2991
+☋ Forks: 2993
 
-★ Stars: 11534
+★ Stars: 11541
 
 [Open repository](https://github.com/codecentric/spring-boot-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 11541 | 2993 | 
 | 2023-02-28 | 11534 | 2991 | 
 | 2023-02-27 | 11532 | 2991 | 
 | 2023-02-26 | 11529 | 2990 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 11478 | 2977 | 
 | 2023-02-02 | 11479 | 2976 | 
 | 2023-01-31 | 11474 | 2975 | 
-| 2023-01-30 | 11471 | 2973 | 
 

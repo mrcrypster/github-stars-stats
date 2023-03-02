@@ -1,8 +1,8 @@
 # jCodeLife/mind-map - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 933
+☋ Forks: 934
 
 ★ Stars: 1618
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1618 | 934 | 
 | 2023-02-28 | 1618 | 933 | 
 | 2023-02-27 | 1616 | 932 | 
 | 2023-02-26 | 1615 | 931 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1589 | 922 | 
 | 2023-02-01 | 1587 | 921 | 
 | 2023-01-31 | 1585 | 920 | 
-| 2023-01-30 | 1583 | 920 | 
 

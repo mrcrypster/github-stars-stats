@@ -1,10 +1,10 @@
 # schibsted/WAAS - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 53
+☋ Forks: 55
 
-★ Stars: 1279
+★ Stars: 1283
 
 [Open repository](https://github.com/schibsted/WAAS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1283 | 55 | 
 | 2023-02-28 | 1279 | 53 | 
 | 2023-02-27 | 1272 | 53 | 
 | 2023-02-26 | 1262 | 53 | 

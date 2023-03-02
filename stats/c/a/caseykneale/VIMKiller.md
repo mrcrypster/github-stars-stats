@@ -1,10 +1,10 @@
 # caseykneale/VIMKiller - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 1130
+★ Stars: 1131
 
 [Open repository](https://github.com/caseykneale/VIMKiller)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1131 | 12 | 
 | 2023-02-27 | 1130 | 12 | 
 | 2023-02-26 | 1129 | 12 | 
 | 2023-02-25 | 1126 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 1123 | 12 | 
 | 2023-02-01 | 1123 | 12 | 
 | 2023-01-31 | 1123 | 12 | 
-| 2023-01-30 | 1123 | 12 | 
 

@@ -1,8 +1,8 @@
 # angular/bower-angular - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 245
+☋ Forks: 244
 
 ★ Stars: 225
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 225 | 244 | 
 | 2023-02-28 | 225 | 245 | 
 | 2023-02-26 | 225 | 245 | 
 | 2023-02-25 | 225 | 245 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 225 | 248 | 
 | 2023-02-01 | 225 | 248 | 
 | 2023-01-31 | 225 | 248 | 
-| 2023-01-30 | 225 | 248 | 
 

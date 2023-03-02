@@ -1,6 +1,6 @@
 # Nik-Potokar/XIVSlothCombo - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 145 | 133 | 
 | 2023-02-28 | 145 | 133 | 
 | 2023-02-27 | 145 | 133 | 
 | 2023-02-26 | 145 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 134 | 129 | 
 | 2023-02-02 | 134 | 129 | 
 | 2023-01-31 | 134 | 130 | 
-| 2023-01-30 | 135 | 129 | 
 

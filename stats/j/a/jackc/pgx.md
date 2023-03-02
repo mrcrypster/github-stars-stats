@@ -1,10 +1,10 @@
 # jackc/pgx - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 634
 
-★ Stars: 6750
+★ Stars: 6755
 
 [Open repository](https://github.com/jackc/pgx)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 6755 | 634 | 
 | 2023-02-28 | 6750 | 634 | 
 | 2023-02-27 | 6747 | 634 | 
 | 2023-02-26 | 6742 | 633 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 6610 | 622 | 
 | 2023-02-01 | 6604 | 621 | 
 | 2023-01-31 | 6598 | 621 | 
-| 2023-01-30 | 6590 | 621 | 
 

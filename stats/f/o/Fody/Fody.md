@@ -1,6 +1,6 @@
 # Fody/Fody - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 439
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3937 | 439 | 
 | 2023-02-28 | 3937 | 439 | 
 | 2023-02-27 | 3937 | 438 | 
 | 2023-02-26 | 3935 | 438 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3909 | 436 | 
 | 2023-02-01 | 3907 | 436 | 
 | 2023-01-31 | 3908 | 436 | 
-| 2023-01-30 | 3903 | 436 | 
 

@@ -1,10 +1,10 @@
 # actuallymentor/battery - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 506
+★ Stars: 511
 
 [Open repository](https://github.com/actuallymentor/battery)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 511 | 28 | 
 | 2023-02-28 | 506 | 27 | 
 | 2023-02-27 | 501 | 26 | 
 | 2023-02-26 | 493 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 344 | 18 | 
 | 2023-02-01 | 344 | 18 | 
 | 2023-01-31 | 340 | 18 | 
-| 2023-01-30 | 334 | 18 | 
 

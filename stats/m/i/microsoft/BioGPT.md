@@ -1,10 +1,10 @@
 # microsoft/BioGPT - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 307
+☋ Forks: 309
 
-★ Stars: 3240
+★ Stars: 3261
 
 [Open repository](https://github.com/microsoft/BioGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3261 | 309 | 
 | 2023-02-28 | 3240 | 307 | 
 | 2023-02-27 | 3190 | 305 | 
 | 2023-02-26 | 3148 | 298 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 522 | 56 | 
 | 2023-02-01 | 267 | 28 | 
 | 2023-01-31 | 237 | 24 | 
-| 2023-01-30 | 210 | 22 | 
 

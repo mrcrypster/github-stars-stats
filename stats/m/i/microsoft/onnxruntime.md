@@ -1,10 +1,10 @@
 # microsoft/onnxruntime - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1959
 
-★ Stars: 8406
+★ Stars: 8411
 
 [Open repository](https://github.com/microsoft/onnxruntime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 8411 | 1959 | 
 | 2023-02-28 | 8406 | 1959 | 
 | 2023-02-27 | 8400 | 1954 | 
 | 2023-02-26 | 8395 | 1953 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 8193 | 1916 | 
 | 2023-02-01 | 8186 | 1915 | 
 | 2023-01-31 | 8176 | 1913 | 
-| 2023-01-30 | 8165 | 1910 | 
 

@@ -1,10 +1,10 @@
 # tc39/proposal-type-annotations - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 38
 
-★ Stars: 3267
+★ Stars: 3269
 
 [Open repository](https://github.com/tc39/proposal-type-annotations)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3269 | 38 | 
 | 2023-02-28 | 3267 | 38 | 
 | 2023-02-27 | 3266 | 38 | 
 | 2023-02-26 | 3262 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3221 | 36 | 
 | 2023-02-01 | 3221 | 36 | 
 | 2023-01-31 | 3217 | 36 | 
-| 2023-01-30 | 3216 | 36 | 
 

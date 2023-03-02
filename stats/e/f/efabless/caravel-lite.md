@@ -1,6 +1,6 @@
 # efabless/caravel-lite - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 15 | 16 | 
 | 2023-02-28 | 15 | 16 | 
 | 2023-02-26 | 15 | 16 | 
 | 2023-02-25 | 15 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 13 | 16 | 
 | 2023-02-01 | 13 | 16 | 
 | 2023-01-31 | 13 | 16 | 
-| 2023-01-30 | 13 | 16 | 
 

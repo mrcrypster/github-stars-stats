@@ -1,10 +1,10 @@
 # svix/svix-webhooks - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 79
 
-★ Stars: 1174
+★ Stars: 1177
 
 [Open repository](https://github.com/svix/svix-webhooks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1177 | 79 | 
 | 2023-02-28 | 1174 | 79 | 
 | 2023-02-27 | 1171 | 79 | 
 | 2023-02-26 | 1169 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1110 | 74 | 
 | 2023-02-01 | 1107 | 74 | 
 | 2023-01-31 | 1106 | 74 | 
-| 2023-01-30 | 1104 | 72 | 
 

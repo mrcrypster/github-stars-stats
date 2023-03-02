@@ -1,10 +1,10 @@
 # elyase/awesome-gpt3 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 323
 
-★ Stars: 4212
+★ Stars: 4217
 
 [Open repository](https://github.com/elyase/awesome-gpt3)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4217 | 323 | 
 | 2023-02-28 | 4212 | 323 | 
 | 2023-02-26 | 4209 | 323 | 
 | 2023-02-25 | 4206 | 322 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 4047 | 312 | 
 | 2023-02-02 | 4038 | 312 | 
 | 2023-01-31 | 4034 | 311 | 
-| 2023-01-30 | 4031 | 309 | 
 

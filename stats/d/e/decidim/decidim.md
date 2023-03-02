@@ -1,6 +1,6 @@
 # decidim/decidim - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1200 | 356 | 
 | 2023-02-27 | 1200 | 356 | 
 | 2023-02-26 | 1200 | 356 | 
 | 2023-02-25 | 1199 | 356 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 1185 | 354 | 
 | 2023-02-01 | 1185 | 354 | 
 | 2023-01-31 | 1186 | 354 | 
-| 2023-01-30 | 1186 | 354 | 
 

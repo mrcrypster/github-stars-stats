@@ -1,10 +1,10 @@
 # aws/aws-sdk-net - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 830
 
-★ Stars: 1886
+★ Stars: 1887
 
 [Open repository](https://github.com/aws/aws-sdk-net)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1887 | 830 | 
 | 2023-02-28 | 1886 | 830 | 
 | 2023-02-27 | 1884 | 831 | 
 | 2023-02-26 | 1884 | 830 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1876 | 823 | 
 | 2023-02-01 | 1875 | 823 | 
 | 2023-01-31 | 1873 | 823 | 
-| 2023-01-30 | 1874 | 822 | 
 

@@ -1,10 +1,10 @@
 # eon01/awesome-chatgpt - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 355
+★ Stars: 360
 
 [Open repository](https://github.com/eon01/awesome-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 360 | 21 | 
 | 2023-02-27 | 355 | 20 | 
 | 2023-02-26 | 350 | 20 | 
 | 2023-02-25 | 344 | 19 | 

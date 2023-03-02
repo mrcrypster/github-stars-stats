@@ -1,10 +1,10 @@
 # quanteda/Text-Analysis-Using-R - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/quanteda/Text-Analysis-Using-R)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 19 | - | 
 | 2023-02-28 | 18 | - | 
 | 2023-02-27 | 18 | - | 
 | 2023-02-26 | 18 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 18 | - | 
 | 2023-02-02 | 18 | - | 
 | 2023-02-01 | 18 | - | 
-| 2023-01-31 | 18 | - | 
 

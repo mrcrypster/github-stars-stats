@@ -1,6 +1,6 @@
 # arnested/php-extras - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 31 | 6 | 
+| 2023-03-01 | 31 | 6 | 
 | 2023-02-27 | 31 | 6 | 
 | 2023-02-26 | 31 | 6 | 
 | 2023-02-25 | 31 | 6 | 
@@ -39,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 31 | 6 | 
 | 2023-02-01 | 31 | 6 | 
 | 2023-01-31 | 31 | 6 | 
-| 2023-01-30 | 31 | 6 | 
 

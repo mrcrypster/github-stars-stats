@@ -1,6 +1,6 @@
 # jalvesaq/R-Vim-runtime - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 24 | 27 | 
 | 2023-02-28 | 24 | 27 | 
 | 2023-02-27 | 23 | 27 | 
 | 2023-02-25 | 23 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 23 | 27 | 
 | 2023-02-02 | 23 | 27 | 
 | 2023-02-01 | 23 | 27 | 
-| 2023-01-30 | 23 | 27 | 
 

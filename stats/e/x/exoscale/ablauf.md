@@ -1,10 +1,10 @@
 # exoscale/ablauf - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/exoscale/ablauf)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 31 | - | 
 | 2023-02-28 | 29 | - | 
 | 2023-02-26 | 29 | - | 
 | 2023-02-25 | 29 | - | 

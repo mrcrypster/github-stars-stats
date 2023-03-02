@@ -1,10 +1,10 @@
 # N3k0Ch4n/dotRice - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 9
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/N3k0Ch4n/dotRice)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 242 | 9 | 
 | 2023-02-28 | 241 | 9 | 
 | 2023-02-26 | 242 | 9 | 
 | 2023-02-25 | 242 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 240 | 10 | 
 | 2023-02-01 | 240 | 10 | 
 | 2023-01-31 | 240 | 10 | 
-| 2023-01-30 | 240 | 10 | 
 

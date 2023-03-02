@@ -1,6 +1,6 @@
 # paul-buerkner/brms - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1094 | 158 | 
 | 2023-02-28 | 1094 | 158 | 
 | 2023-02-27 | 1093 | 158 | 
 | 2023-02-26 | 1092 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1081 | 157 | 
 | 2023-02-01 | 1081 | 155 | 
 | 2023-01-31 | 1080 | 155 | 
-| 2023-01-30 | 1080 | 155 | 
 

@@ -1,10 +1,10 @@
 # chmln/sd - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 83
 
-★ Stars: 4228
+★ Stars: 4231
 
 [Open repository](https://github.com/chmln/sd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4231 | 83 | 
 | 2023-02-28 | 4228 | 83 | 
 | 2023-02-27 | 4226 | 83 | 
 | 2023-02-26 | 4224 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 4148 | 83 | 
 | 2023-02-01 | 4145 | 83 | 
 | 2023-01-31 | 4141 | 83 | 
-| 2023-01-30 | 4131 | 83 | 
 

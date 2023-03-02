@@ -1,10 +1,10 @@
 # react-dnd/react-dnd - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1921
+☋ Forks: 1923
 
-★ Stars: 18886
+★ Stars: 18887
 
 [Open repository](https://github.com/react-dnd/react-dnd)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 18887 | 1923 | 
 | 2023-02-28 | 18886 | 1921 | 
 | 2023-02-27 | 18880 | 1920 | 
 | 2023-02-26 | 18878 | 1920 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 18769 | 1910 | 
 | 2023-02-01 | 18764 | 1909 | 
 | 2023-01-31 | 18759 | 1908 | 
-| 2023-01-30 | 18756 | 1909 | 
 

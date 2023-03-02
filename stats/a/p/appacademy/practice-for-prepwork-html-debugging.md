@@ -1,8 +1,8 @@
 # appacademy/practice-for-prepwork-html-debugging - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 133
+☋ Forks: 134
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2 | 134 | 
 | 2023-02-28 | 2 | 133 | 
 | 2023-02-27 | 2 | 133 | 
 | 2023-02-26 | 2 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 2 | 117 | 
 | 2023-02-02 | 2 | 115 | 
 | 2023-02-01 | 2 | 114 | 
-| 2023-01-31 | 2 | 113 | 
 

@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-key-pair - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 63 | 103 | 
 | 2023-02-28 | 63 | 103 | 
 | 2023-02-26 | 63 | 103 | 
 | 2023-02-25 | 63 | 103 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 62 | 99 | 
 | 2023-02-02 | 61 | 99 | 
 | 2023-02-01 | 61 | 99 | 
-| 2023-01-30 | 61 | 100 | 
 

@@ -1,10 +1,10 @@
 # phoenixframework/phoenix_live_dashboard - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 168
 
-★ Stars: 1805
+★ Stars: 1806
 
 [Open repository](https://github.com/phoenixframework/phoenix_live_dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1806 | 168 | 
 | 2023-02-28 | 1805 | 168 | 
 | 2023-02-27 | 1804 | 167 | 
 | 2023-02-25 | 1804 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1795 | 165 | 
 | 2023-02-01 | 1794 | 165 | 
 | 2023-01-31 | 1794 | 165 | 
-| 2023-01-30 | 1792 | 165 | 
 

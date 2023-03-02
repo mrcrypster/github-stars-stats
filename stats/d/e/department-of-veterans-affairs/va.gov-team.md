@@ -1,6 +1,6 @@
 # department-of-veterans-affairs/va.gov-team - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 226 | 160 | 
 | 2023-02-27 | 226 | 160 | 
 | 2023-02-26 | 226 | 160 | 
 | 2023-02-25 | 226 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 221 | 154 | 
 | 2023-02-01 | 221 | 154 | 
 | 2023-01-31 | 221 | 152 | 
-| 2023-01-30 | 220 | 152 | 
 

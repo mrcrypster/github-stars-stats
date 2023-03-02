@@ -1,0 +1,17 @@
+# SkyrimLL/SkLLmods - stars & forks statistics
+
+Stats updated on Mar 2023, 01
+
+☋ Forks: 22
+
+★ Stars: 24
+
+[Open repository](https://github.com/SkyrimLL/SkLLmods)
+
+[Open detailed stats for SkyrimLL/SkLLmods](https://reviewgithub.com/rep/SkyrimLL/SkLLmods)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-01 | 24 | 22 | 
+

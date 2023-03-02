@@ -1,10 +1,10 @@
 # Unity-Technologies/Unity-Robotics-Hub - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 342
+☋ Forks: 343
 
-★ Stars: 1434
+★ Stars: 1437
 
 [Open repository](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1437 | 343 | 
 | 2023-02-28 | 1434 | 342 | 
 | 2023-02-27 | 1435 | 342 | 
 | 2023-02-26 | 1434 | 342 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 01
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 2514
+★ Stars: 2524
 
 [Open repository](https://github.com/AmbientRun/Ambient)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 2514 | 73 | 
+| 2023-03-01 | 2524 | 74 | 
 | 2023-02-28 | 2508 | 73 | 
 | 2023-02-27 | 2443 | 71 | 
 | 2023-02-26 | 2100 | 64 | 

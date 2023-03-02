@@ -1,8 +1,8 @@
 # ArduPilot/MissionPlanner - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 2115
+☋ Forks: 2116
 
 ★ Stars: 1373
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1373 | 2116 | 
 | 2023-02-28 | 1373 | 2115 | 
 | 2023-02-27 | 1372 | 2114 | 
 | 2023-02-26 | 1370 | 2112 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1359 | 2100 | 
 | 2023-02-01 | 1359 | 2099 | 
 | 2023-01-31 | 1359 | 2097 | 
-| 2023-01-30 | 1358 | 2096 | 
 

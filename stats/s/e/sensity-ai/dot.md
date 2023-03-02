@@ -1,10 +1,10 @@
 # sensity-ai/dot - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 217
 
-★ Stars: 2955
+★ Stars: 2958
 
 [Open repository](https://github.com/sensity-ai/dot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2958 | 217 | 
 | 2023-03-01 | 2955 | 217 | 
 | 2023-02-27 | 2954 | 216 | 
 | 2023-02-26 | 2953 | 216 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-02 | 2921 | 209 | 
 | 2023-02-01 | 2920 | 209 | 
 | 2023-01-31 | 2918 | 208 | 
-| 2023-01-30 | 2917 | 207 | 
 

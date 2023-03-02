@@ -1,6 +1,6 @@
 # timholy/MethodAnalysis.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 85 | 2 | 
 | 2023-02-28 | 85 | 2 | 
 | 2023-02-27 | 84 | 2 | 
 | 2023-02-26 | 84 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 84 | 2 | 
 | 2023-02-02 | 84 | 2 | 
 | 2023-01-31 | 84 | 2 | 
-| 2023-01-30 | 84 | 2 | 
 

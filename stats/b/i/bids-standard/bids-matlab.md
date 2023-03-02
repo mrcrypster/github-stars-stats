@@ -1,6 +1,6 @@
 # bids-standard/bids-matlab - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 41 | 26 | 
 | 2023-02-28 | 41 | 26 | 
 | 2023-02-27 | 41 | 26 | 
 | 2023-02-26 | 41 | 26 | 

@@ -1,6 +1,6 @@
 # aras62/vision-based-prediction - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 248 | 55 | 
 | 2023-02-28 | 248 | 55 | 
 | 2023-02-27 | 247 | 55 | 
 | 2023-02-25 | 246 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 245 | 54 | 
 | 2023-02-02 | 245 | 54 | 
 | 2023-01-31 | 244 | 54 | 
-| 2023-01-30 | 244 | 54 | 
 

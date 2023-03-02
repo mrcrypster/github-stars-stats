@@ -1,10 +1,10 @@
 # idanya/algo-trader - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 67
 
-★ Stars: 633
+★ Stars: 634
 
 [Open repository](https://github.com/idanya/algo-trader)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 634 | 67 | 
 | 2023-02-28 | 633 | 67 | 
 | 2023-02-27 | 633 | 67 | 
 | 2023-02-26 | 632 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 626 | 65 | 
 | 2023-02-02 | 626 | 65 | 
 | 2023-02-01 | 626 | 66 | 
-| 2023-01-31 | 628 | 66 | 
 

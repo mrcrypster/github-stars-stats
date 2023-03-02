@@ -1,6 +1,6 @@
 # pplulee/appleid_auto - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 458 | 75 | 
 | 2023-02-28 | 458 | 75 | 
 | 2023-02-26 | 453 | 75 | 
 | 2023-02-25 | 452 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 420 | 63 | 
 | 2023-02-01 | 419 | 62 | 
 | 2023-01-31 | 418 | 62 | 
-| 2023-01-30 | 418 | 61 | 
 

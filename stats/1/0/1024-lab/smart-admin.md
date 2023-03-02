@@ -1,10 +1,10 @@
 # 1024-lab/smart-admin - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 613
+☋ Forks: 614
 
-★ Stars: 1781
+★ Stars: 1782
 
 [Open repository](https://github.com/1024-lab/smart-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1782 | 614 | 
 | 2023-02-28 | 1781 | 613 | 
 | 2023-02-27 | 1778 | 614 | 
 | 2023-02-25 | 1777 | 614 | 

@@ -1,6 +1,6 @@
 # buildship-dev/nft-contracts - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 180 | 55 | 
 | 2023-02-28 | 180 | 55 | 
 | 2023-02-26 | 179 | 55 | 
 | 2023-02-25 | 179 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 176 | 55 | 
 | 2023-02-01 | 176 | 55 | 
 | 2023-01-31 | 176 | 55 | 
-| 2023-01-30 | 176 | 55 | 
 

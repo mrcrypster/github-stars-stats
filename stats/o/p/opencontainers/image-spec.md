@@ -1,10 +1,10 @@
 # opencontainers/image-spec - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 558
+☋ Forks: 559
 
-★ Stars: 2644
+★ Stars: 2648
 
 [Open repository](https://github.com/opencontainers/image-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2648 | 559 | 
 | 2023-02-28 | 2644 | 558 | 
 | 2023-02-27 | 2640 | 557 | 
 | 2023-02-26 | 2638 | 558 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2585 | 544 | 
 | 2023-02-01 | 2583 | 545 | 
 | 2023-01-31 | 2579 | 544 | 
-| 2023-01-30 | 2574 | 544 | 
 

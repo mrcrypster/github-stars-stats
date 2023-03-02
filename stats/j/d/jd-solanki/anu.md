@@ -1,6 +1,6 @@
 # jd-solanki/anu - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 653 | 34 | 
 | 2023-02-27 | 653 | 34 | 
 | 2023-02-26 | 652 | 34 | 
 | 2023-02-25 | 651 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 628 | 31 | 
 | 2023-02-01 | 627 | 31 | 
 | 2023-01-31 | 627 | 31 | 
-| 2023-01-30 | 626 | 31 | 
 

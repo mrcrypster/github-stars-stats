@@ -1,6 +1,6 @@
 # black-parrot-hdk/zynq-parrot - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 12 | 12 | 
 | 2023-02-28 | 12 | 12 | 
 | 2023-02-26 | 12 | 12 | 
 | 2023-02-25 | 12 | 12 | 

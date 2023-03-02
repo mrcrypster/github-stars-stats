@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 01
 
 ☋ Forks: 250
 
-★ Stars: 1957
+★ Stars: 1958
 
 [Open repository](https://github.com/crytic/echidna)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 1957 | 250 | 
+| 2023-03-01 | 1958 | 250 | 
 | 2023-02-28 | 1957 | 250 | 
 | 2023-02-27 | 1951 | 250 | 
 | 2023-02-26 | 1950 | 250 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-02 | 1908 | 245 | 
 | 2023-02-01 | 1908 | 245 | 
 | 2023-01-31 | 1905 | 245 | 
-| 2023-01-30 | 1900 | 245 | 
 

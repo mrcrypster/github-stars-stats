@@ -1,6 +1,6 @@
 # ory/keto - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 283
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3902 | 283 | 
 | 2023-02-27 | 3902 | 283 | 
 | 2023-02-26 | 3900 | 283 | 
 | 2023-02-25 | 3900 | 283 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 3833 | 281 | 
 | 2023-02-01 | 3832 | 280 | 
 | 2023-01-31 | 3831 | 280 | 
-| 2023-01-30 | 3832 | 280 | 
 

@@ -1,10 +1,10 @@
 # Mikoto10032/DeepLearning - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 02
 
-☋ Forks: 2775
+☋ Forks: 2783
 
-★ Stars: 9404
+★ Stars: 9439
 
 [Open repository](https://github.com/Mikoto10032/DeepLearning)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 9439 | 2783 | 
+| 2023-03-01 | 9439 | 2783 | 
 | 2023-02-27 | 9404 | 2775 | 
 | 2023-02-26 | 9390 | 2773 | 
 | 2023-02-25 | 9378 | 2770 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 9135 | 2734 | 
 | 2023-02-01 | 9128 | 2733 | 
 | 2023-01-31 | 9126 | 2732 | 
-| 2023-01-30 | 9117 | 2731 | 
 

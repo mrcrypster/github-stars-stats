@@ -1,6 +1,6 @@
 # alpha101001/DBMS_Project - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 5 | 14 | 
 | 2023-02-27 | 5 | 14 | 
 | 2023-02-26 | 5 | 14 | 
 | 2023-02-25 | 5 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 5 | 14 | 
 | 2023-02-01 | 5 | 14 | 
 | 2023-01-31 | 5 | 14 | 
-| 2023-01-30 | 5 | 14 | 
 

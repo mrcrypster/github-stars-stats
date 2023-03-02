@@ -1,10 +1,10 @@
 # libigl/libigl - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1045
 
-★ Stars: 3826
+★ Stars: 3827
 
 [Open repository](https://github.com/libigl/libigl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3827 | 1045 | 
 | 2023-02-28 | 3826 | 1045 | 
 | 2023-02-27 | 3822 | 1045 | 
 | 2023-02-26 | 3819 | 1042 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 3779 | 1034 | 
 | 2023-02-02 | 3778 | 1032 | 
 | 2023-02-01 | 3778 | 1031 | 
-| 2023-01-30 | 3778 | 1030 | 
 

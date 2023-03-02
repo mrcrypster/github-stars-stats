@@ -1,6 +1,6 @@
 # apache/cloudstack - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 983
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1349 | 983 | 
 | 2023-02-28 | 1349 | 983 | 
 | 2023-02-27 | 1348 | 983 | 
 | 2023-02-26 | 1347 | 984 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1326 | 977 | 
 | 2023-02-01 | 1326 | 976 | 
 | 2023-01-31 | 1327 | 976 | 
-| 2023-01-30 | 1327 | 976 | 
 

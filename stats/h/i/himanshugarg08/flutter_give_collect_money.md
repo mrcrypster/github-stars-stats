@@ -1,6 +1,6 @@
 # himanshugarg08/flutter_give_collect_money - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 183 | 64 | 
 | 2023-02-28 | 183 | 64 | 
 | 2023-02-27 | 183 | 64 | 
 | 2023-02-26 | 183 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 181 | 65 | 
 | 2023-02-02 | 181 | 65 | 
 | 2023-01-31 | 181 | 65 | 
-| 2023-01-30 | 181 | 65 | 
 

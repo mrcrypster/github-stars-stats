@@ -1,10 +1,10 @@
 # InfiniTimeOrg/InfiniTime - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 713
 
-★ Stars: 2045
+★ Stars: 2047
 
 [Open repository](https://github.com/InfiniTimeOrg/InfiniTime)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2047 | 713 | 
 | 2023-02-28 | 2045 | 713 | 
 | 2023-02-27 | 2043 | 714 | 
 | 2023-02-26 | 2044 | 714 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1990 | 705 | 
 | 2023-02-02 | 1989 | 704 | 
 | 2023-02-01 | 1988 | 704 | 
-| 2023-01-30 | 1988 | 704 | 
 

@@ -1,6 +1,6 @@
 # Darlington02/circom-next-starter - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 42 | 2 | 
 | 2023-02-27 | 42 | 2 | 
 | 2023-02-26 | 42 | 2 | 
 | 2023-02-25 | 42 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 41 | 2 | 
 | 2023-02-01 | 41 | 2 | 
 | 2023-01-31 | 41 | 2 | 
-| 2023-01-30 | 41 | 2 | 
 

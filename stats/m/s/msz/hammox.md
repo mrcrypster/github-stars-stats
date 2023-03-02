@@ -1,6 +1,6 @@
 # msz/hammox - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 498 | 20 | 
 | 2023-02-28 | 498 | 20 | 
 | 2023-02-27 | 498 | 20 | 
 | 2023-02-26 | 498 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 498 | 20 | 
 | 2023-02-01 | 498 | 20 | 
 | 2023-01-31 | 498 | 20 | 
-| 2023-01-30 | 498 | 20 | 
 

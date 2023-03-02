@@ -1,10 +1,10 @@
 # fabrizioschiavi/pragmatapro - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 36
 
-★ Stars: 1186
+★ Stars: 1187
 
 [Open repository](https://github.com/fabrizioschiavi/pragmatapro)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1187 | 36 | 
 | 2023-02-28 | 1186 | 36 | 
 | 2023-02-26 | 1186 | 36 | 
 | 2023-02-25 | 1186 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1179 | 35 | 
 | 2023-02-02 | 1179 | 35 | 
 | 2023-01-31 | 1178 | 35 | 
-| 2023-01-30 | 1175 | 35 | 
 

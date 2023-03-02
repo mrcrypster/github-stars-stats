@@ -1,6 +1,6 @@
 # yoanbernabeu/symfony6-php8-in-docker-compose - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 47 | 50 | 
 | 2023-02-28 | 47 | 50 | 
 | 2023-02-27 | 47 | 50 | 
 | 2023-02-26 | 47 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 46 | 47 | 
 | 2023-02-01 | 46 | 47 | 
 | 2023-01-31 | 46 | 47 | 
-| 2023-01-30 | 45 | 47 | 
 

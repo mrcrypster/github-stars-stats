@@ -1,10 +1,10 @@
 # lit/lit - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 709
 
-★ Stars: 13909
+★ Stars: 13919
 
 [Open repository](https://github.com/lit/lit)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 13919 | 709 | 
 | 2023-02-28 | 13909 | 709 | 
 | 2023-02-27 | 13900 | 709 | 
 | 2023-02-26 | 13887 | 707 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 13673 | 696 | 
 | 2023-02-01 | 13663 | 696 | 
 | 2023-01-31 | 13653 | 695 | 
-| 2023-01-30 | 13648 | 694 | 
 

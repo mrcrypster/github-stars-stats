@@ -1,10 +1,10 @@
 # deps-rs/deps.rs - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 25
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/deps-rs/deps.rs)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 374 | 25 | 
 | 2023-02-28 | 373 | 25 | 
 | 2023-02-27 | 373 | 25 | 
 | 2023-02-26 | 373 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 371 | 25 | 
 | 2023-02-01 | 371 | 25 | 
 | 2023-01-31 | 371 | 25 | 
-| 2023-01-30 | 371 | 25 | 
 

@@ -1,8 +1,8 @@
 # jeroennoten/Laravel-AdminLTE - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1000
+☋ Forks: 1001
 
 ★ Stars: 3461
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3461 | 1001 | 
 | 2023-02-27 | 3461 | 1000 | 
 | 2023-02-26 | 3461 | 1000 | 
 | 2023-02-25 | 3461 | 999 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 3425 | 993 | 
 | 2023-02-01 | 3425 | 992 | 
 | 2023-01-31 | 3424 | 993 | 
-| 2023-01-30 | 3421 | 993 | 
 

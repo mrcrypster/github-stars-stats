@@ -1,6 +1,6 @@
 # BetterThanTomorrow/joyride - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 368 | 12 | 
 | 2023-02-27 | 368 | 12 | 
 | 2023-02-26 | 368 | 12 | 
 | 2023-02-25 | 368 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 354 | 12 | 
 | 2023-02-01 | 354 | 12 | 
 | 2023-01-31 | 353 | 12 | 
-| 2023-01-30 | 352 | 12 | 
 

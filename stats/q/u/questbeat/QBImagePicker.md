@@ -1,6 +1,6 @@
 # questbeat/QBImagePicker - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 557
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1788 | 557 | 
 | 2023-02-28 | 1788 | 557 | 
 | 2023-02-26 | 1788 | 557 | 
 | 2023-02-25 | 1788 | 557 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1789 | 557 | 
 | 2023-02-01 | 1789 | 557 | 
 | 2023-01-31 | 1789 | 557 | 
-| 2023-01-30 | 1789 | 557 | 
 

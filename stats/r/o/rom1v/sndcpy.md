@@ -1,10 +1,10 @@
 # rom1v/sndcpy - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 260
+☋ Forks: 261
 
-★ Stars: 2814
+★ Stars: 2817
 
 [Open repository](https://github.com/rom1v/sndcpy)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2817 | 261 | 
 | 2023-02-28 | 2814 | 260 | 
 | 2023-02-27 | 2813 | 261 | 
 | 2023-02-26 | 2806 | 260 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2755 | 255 | 
 | 2023-02-01 | 2752 | 255 | 
 | 2023-01-31 | 2748 | 254 | 
-| 2023-01-30 | 2744 | 254 | 
 

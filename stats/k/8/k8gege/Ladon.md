@@ -1,10 +1,10 @@
 # k8gege/Ladon - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 790
 
-★ Stars: 3699
+★ Stars: 3701
 
 [Open repository](https://github.com/k8gege/Ladon)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3701 | 790 | 
 | 2023-02-28 | 3699 | 790 | 
 | 2023-02-27 | 3698 | 790 | 
 | 2023-02-25 | 3697 | 791 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3657 | 786 | 
 | 2023-02-01 | 3656 | 784 | 
 | 2023-01-31 | 3656 | 784 | 
-| 2023-01-30 | 3655 | 784 | 
 

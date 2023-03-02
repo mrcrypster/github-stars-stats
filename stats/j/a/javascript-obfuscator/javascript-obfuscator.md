@@ -1,10 +1,10 @@
 # javascript-obfuscator/javascript-obfuscator - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1226
 
-★ Stars: 10551
+★ Stars: 10555
 
 [Open repository](https://github.com/javascript-obfuscator/javascript-obfuscator)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10555 | 1226 | 
 | 2023-02-28 | 10551 | 1226 | 
 | 2023-02-26 | 10540 | 1224 | 
 | 2023-02-25 | 10534 | 1223 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 10372 | 1206 | 
 | 2023-02-01 | 10363 | 1206 | 
 | 2023-01-31 | 10351 | 1207 | 
-| 2023-01-30 | 10342 | 1207 | 
 

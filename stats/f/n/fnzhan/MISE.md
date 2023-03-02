@@ -1,6 +1,6 @@
 # fnzhan/MISE - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 436 | 38 | 
 | 2023-02-28 | 436 | 38 | 
 | 2023-02-27 | 436 | 38 | 
 | 2023-02-25 | 436 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 431 | 38 | 
 | 2023-02-01 | 431 | 38 | 
 | 2023-01-31 | 431 | 38 | 
-| 2023-01-30 | 431 | 38 | 
 

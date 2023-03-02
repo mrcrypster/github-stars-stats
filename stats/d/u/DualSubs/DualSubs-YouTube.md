@@ -1,10 +1,10 @@
 # DualSubs/DualSubs-YouTube - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 28
+★ Stars: 32
 
 [Open repository](https://github.com/DualSubs/DualSubs-YouTube)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 32 | 4 | 
 | 2023-02-28 | 28 | 4 | 
 | 2023-02-27 | 23 | 4 | 
 | 2023-02-26 | 22 | 4 | 

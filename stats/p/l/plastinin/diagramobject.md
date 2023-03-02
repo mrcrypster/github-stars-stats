@@ -1,6 +1,6 @@
 # plastinin/diagramobject - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 58 | 15 | 
 | 2023-02-28 | 58 | 15 | 
 | 2023-02-27 | 58 | 15 | 
 | 2023-02-26 | 58 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 54 | 15 | 
 | 2023-02-01 | 54 | 15 | 
 | 2023-01-31 | 54 | 15 | 
-| 2023-01-30 | 54 | 15 | 
 

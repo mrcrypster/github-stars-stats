@@ -1,8 +1,8 @@
 # LinkedInLearning/level-up-java-3213389 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 125
+☋ Forks: 126
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3 | 126 | 
 | 2023-02-28 | 3 | 125 | 
 | 2023-02-27 | 3 | 124 | 
 | 2023-02-26 | 3 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3 | 107 | 
 | 2023-02-01 | 3 | 104 | 
 | 2023-01-31 | 3 | 102 | 
-| 2023-01-30 | 3 | 102 | 
 

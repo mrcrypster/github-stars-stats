@@ -1,0 +1,18 @@
+# senpro2023/senpro-github-action - stars & forks statistics
+
+Stats updated on Mar 2023, 02
+
+☋ Forks: 80
+
+★ Stars: 1
+
+[Open repository](https://github.com/senpro2023/senpro-github-action)
+
+[Open detailed stats for senpro2023/senpro-github-action](https://reviewgithub.com/rep/senpro2023/senpro-github-action)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-02 | 1 | 80 | 
+| 2023-03-01 | 1 | 80 | 
+

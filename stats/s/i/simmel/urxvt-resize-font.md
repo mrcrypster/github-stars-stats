@@ -1,6 +1,6 @@
 # simmel/urxvt-resize-font - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 206 | 36 | 
 | 2023-03-01 | 206 | 36 | 
 | 2023-02-27 | 206 | 36 | 
 | 2023-02-26 | 206 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-02 | 203 | 36 | 
 | 2023-02-01 | 203 | 36 | 
 | 2023-01-31 | 203 | 36 | 
-| 2023-01-30 | 202 | 36 | 
 

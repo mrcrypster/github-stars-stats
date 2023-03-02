@@ -1,6 +1,6 @@
 # fly-apps/live_beats - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 851 | 110 | 
 | 2023-02-28 | 851 | 110 | 
 | 2023-02-27 | 847 | 110 | 
 | 2023-02-26 | 847 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 816 | 107 | 
 | 2023-02-01 | 815 | 107 | 
 | 2023-01-31 | 815 | 107 | 
-| 2023-01-30 | 815 | 106 | 
 

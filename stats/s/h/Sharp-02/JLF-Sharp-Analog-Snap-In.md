@@ -1,6 +1,6 @@
 # Sharp-02/JLF-Sharp-Analog-Snap-In - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 13 | 1 | 
 | 2023-02-28 | 13 | 1 | 
 | 2023-02-27 | 13 | 1 | 
 | 2023-02-25 | 13 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 11 | 1 | 
 | 2023-02-01 | 11 | 1 | 
 | 2023-01-31 | 10 | 1 | 
-| 2023-01-30 | 10 | 1 | 
 

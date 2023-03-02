@@ -1,6 +1,6 @@
 # nf-core/rnasplice - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1 | 5 | 
 | 2023-02-28 | 1 | 5 | 
 | 2023-02-26 | 1 | 5 | 
 | 2023-02-25 | 1 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1 | 4 | 
 | 2023-02-02 | 1 | 4 | 
 | 2023-02-01 | - | 4 | 
-| 2023-01-30 | - | 4 | 
 

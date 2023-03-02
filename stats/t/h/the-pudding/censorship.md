@@ -1,6 +1,6 @@
 # the-pudding/censorship - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 44 | - | 
 | 2023-02-27 | 44 | - | 
 | 2023-02-26 | 44 | - | 
 | 2023-02-25 | 44 | - | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 44 | - | 
 | 2023-02-02 | 44 | - | 
 | 2023-01-31 | 44 | - | 
-| 2023-01-30 | 44 | - | 
 

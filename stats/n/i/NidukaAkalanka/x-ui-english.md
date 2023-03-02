@@ -1,8 +1,8 @@
 # NidukaAkalanka/x-ui-english - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 158
+☋ Forks: 161
 
 ★ Stars: 375
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 375 | 161 | 
 | 2023-02-28 | 375 | 158 | 
 | 2023-02-26 | 374 | 154 | 
 | 2023-02-25 | 374 | 152 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 302 | 115 | 
 | 2023-02-01 | 297 | 114 | 
 | 2023-01-31 | 289 | 112 | 
-| 2023-01-30 | 286 | 111 | 
 

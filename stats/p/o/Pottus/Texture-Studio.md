@@ -1,10 +1,10 @@
 # Pottus/Texture-Studio - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 80
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/Pottus/Texture-Studio)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 65 | 80 | 
 | 2023-02-28 | 64 | 80 | 
 | 2023-02-26 | 64 | 80 | 
 | 2023-02-25 | 64 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 62 | 80 | 
 | 2023-02-02 | 62 | 80 | 
 | 2023-01-31 | 62 | 80 | 
-| 2023-01-30 | 62 | 80 | 
 

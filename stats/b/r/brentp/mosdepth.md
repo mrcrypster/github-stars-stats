@@ -1,10 +1,10 @@
 # brentp/mosdepth - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 92
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/brentp/mosdepth)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 546 | 92 | 
 | 2023-02-28 | 545 | 92 | 
 | 2023-02-27 | 544 | 92 | 
 | 2023-02-26 | 544 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 538 | 93 | 
 | 2023-02-02 | 537 | 93 | 
 | 2023-02-01 | 537 | 93 | 
-| 2023-01-31 | 536 | 93 | 
 

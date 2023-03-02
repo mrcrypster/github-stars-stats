@@ -1,8 +1,8 @@
 # beetlehr/beetlehr - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 193 | 67 | 
 | 2023-02-28 | 193 | 66 | 
 | 2023-02-27 | 193 | 66 | 
 | 2023-02-26 | 193 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 179 | 60 | 
 | 2023-02-01 | 175 | 59 | 
 | 2023-01-31 | 171 | 58 | 
-| 2023-01-30 | 167 | 57 | 
 

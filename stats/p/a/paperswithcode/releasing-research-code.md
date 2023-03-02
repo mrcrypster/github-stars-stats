@@ -1,10 +1,10 @@
 # paperswithcode/releasing-research-code - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 666
 
-★ Stars: 2212
+★ Stars: 2214
 
 [Open repository](https://github.com/paperswithcode/releasing-research-code)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2214 | 666 | 
 | 2023-02-28 | 2212 | 666 | 
 | 2023-02-27 | 2209 | 666 | 
 | 2023-02-26 | 2208 | 666 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2195 | 667 | 
 | 2023-02-01 | 2194 | 667 | 
 | 2023-01-31 | 2194 | 666 | 
-| 2023-01-30 | 2190 | 666 | 
 

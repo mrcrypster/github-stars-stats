@@ -1,10 +1,10 @@
 # pythontoday/junior_python_developer_roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/pythontoday/junior_python_developer_roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 170 | 37 | 
 | 2023-02-27 | 169 | 36 | 
 | 2023-02-26 | 167 | 36 | 
 | 2023-02-25 | 166 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 124 | 26 | 
 | 2023-02-01 | 119 | 26 | 
 | 2023-01-31 | 109 | 24 | 
-| 2023-01-30 | 103 | 24 | 
 

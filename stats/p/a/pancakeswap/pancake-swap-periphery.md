@@ -1,6 +1,6 @@
 # pancakeswap/pancake-swap-periphery - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 466
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 157 | 466 | 
 | 2023-02-27 | 157 | 466 | 
 | 2023-02-26 | 155 | 466 | 
 | 2023-02-25 | 155 | 466 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 153 | 464 | 
 | 2023-02-01 | 153 | 464 | 
 | 2023-01-31 | 153 | 464 | 
-| 2023-01-30 | 153 | 464 | 
 

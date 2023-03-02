@@ -1,6 +1,6 @@
 # GtX-Andy/limitedPalletsFix - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 9 | 1 | 
 | 2023-02-27 | 9 | 1 | 
 | 2023-02-26 | 9 | 1 | 
 | 2023-02-25 | 9 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 8 | 1 | 
 | 2023-02-02 | 8 | 1 | 
 | 2023-02-01 | 8 | 1 | 
-| 2023-01-31 | 8 | 1 | 
 

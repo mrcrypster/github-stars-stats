@@ -1,6 +1,6 @@
 # nammayatri/beckn-gateway - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 7 | - | 
+| 2023-03-01 | 7 | - | 
 | 2023-02-28 | 7 | - | 
 | 2023-02-27 | 4 | - | 
 

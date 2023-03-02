@@ -1,6 +1,6 @@
 # suavecode/SUAVE - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 308
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 298 | 308 | 
 | 2023-02-28 | 298 | 308 | 
 | 2023-02-27 | 297 | 308 | 
 | 2023-02-26 | 297 | 307 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 295 | 294 | 
 | 2023-02-01 | 295 | 294 | 
 | 2023-01-31 | 295 | 294 | 
-| 2023-01-30 | 295 | 294 | 
 

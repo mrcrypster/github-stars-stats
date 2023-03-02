@@ -1,10 +1,10 @@
 # llamafolio/evm-indexer - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 18
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/llamafolio/evm-indexer)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 81 | 18 | 
 | 2023-02-28 | 80 | 18 | 
 | 2023-02-26 | 79 | 18 | 
 | 2023-02-25 | 79 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 74 | 18 | 
 | 2023-02-01 | 74 | 18 | 
 | 2023-01-31 | 74 | 18 | 
-| 2023-01-30 | 74 | 18 | 
 

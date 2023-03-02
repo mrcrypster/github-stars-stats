@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 01
 
 ☋ Forks: 322
 
-★ Stars: 877
+★ Stars: 878
 
 [Open repository](https://github.com/broadinstitute/cromwell)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 877 | 322 | 
+| 2023-03-01 | 878 | 322 | 
 | 2023-02-28 | 877 | 322 | 
 | 2023-02-27 | 877 | 321 | 
 | 2023-02-26 | 878 | 321 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 871 | 319 | 
 | 2023-02-02 | 870 | 318 | 
 | 2023-01-31 | 870 | 318 | 
-| 2023-01-30 | 870 | 318 | 
 

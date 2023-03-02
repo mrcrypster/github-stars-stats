@@ -1,6 +1,6 @@
 # braintreeps/vim_dotfiles - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 128 | 110 | 
 | 2023-02-28 | 128 | 110 | 
 | 2023-02-26 | 128 | 110 | 
 | 2023-02-25 | 128 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 126 | 112 | 
 | 2023-02-01 | 126 | 112 | 
 | 2023-01-31 | 126 | 112 | 
-| 2023-01-30 | 126 | 112 | 
 

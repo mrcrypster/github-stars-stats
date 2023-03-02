@@ -1,6 +1,6 @@
 # eddiechu/File-Smuggling - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 181 | 19 | 
 | 2023-02-28 | 181 | 19 | 
 | 2023-02-27 | 181 | 19 | 
 | 2023-02-26 | 181 | 19 | 

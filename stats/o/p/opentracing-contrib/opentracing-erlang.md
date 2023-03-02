@@ -1,6 +1,6 @@
 # opentracing-contrib/opentracing-erlang - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 24 | 9 | 
 | 2023-02-27 | 24 | 9 | 
 | 2023-02-26 | 24 | 9 | 
 | 2023-02-25 | 24 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 24 | 9 | 
 | 2023-02-01 | 24 | 9 | 
 | 2023-01-31 | 24 | 9 | 
-| 2023-01-30 | 24 | 9 | 
 

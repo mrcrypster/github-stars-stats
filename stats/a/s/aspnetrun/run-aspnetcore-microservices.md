@@ -1,10 +1,10 @@
 # aspnetrun/run-aspnetcore-microservices - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1002
 
-★ Stars: 1774
+★ Stars: 1775
 
 [Open repository](https://github.com/aspnetrun/run-aspnetcore-microservices)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1775 | 1002 | 
 | 2023-02-27 | 1774 | 1002 | 
 | 2023-02-26 | 1773 | 1002 | 
 | 2023-02-25 | 1772 | 1001 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 1722 | 971 | 
 | 2023-02-02 | 1722 | 971 | 
 | 2023-01-31 | 1718 | 971 | 
-| 2023-01-30 | 1718 | 971 | 
 

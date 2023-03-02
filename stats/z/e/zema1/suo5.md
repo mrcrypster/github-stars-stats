@@ -1,10 +1,10 @@
 # zema1/suo5 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 46
+☋ Forks: 49
 
-★ Stars: 509
+★ Stars: 519
 
 [Open repository](https://github.com/zema1/suo5)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 519 | 49 | 
 | 2023-02-28 | 509 | 46 | 
 | 2023-02-27 | 483 | 43 | 
 | 2023-02-26 | 447 | 41 | 

@@ -1,10 +1,10 @@
 # farach/huggingfaceR - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 7
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/farach/huggingfaceR)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 90 | 7 | 
 | 2023-02-28 | 89 | 7 | 
 | 2023-02-27 | 89 | 7 | 
 | 2023-02-26 | 89 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 88 | 7 | 
 | 2023-02-01 | 88 | 7 | 
 | 2023-01-31 | 88 | 7 | 
-| 2023-01-30 | 88 | 7 | 
 

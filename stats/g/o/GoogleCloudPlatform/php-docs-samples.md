@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/php-docs-samples - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1023
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 887 | 1023 | 
 | 2023-02-27 | 887 | 1023 | 
 | 2023-02-26 | 887 | 1023 | 
 | 2023-02-25 | 887 | 1023 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 883 | 1019 | 
 | 2023-02-01 | 881 | 1020 | 
 | 2023-01-31 | 880 | 1020 | 
-| 2023-01-30 | 881 | 1019 | 
 

@@ -1,6 +1,6 @@
 # mapbox/mapbox-navigation-android - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 553 | 318 | 
 | 2023-02-28 | 553 | 318 | 
 | 2023-02-27 | 553 | 318 | 
 | 2023-02-26 | 553 | 318 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 550 | 317 | 
 | 2023-02-02 | 550 | 317 | 
 | 2023-01-31 | 550 | 317 | 
-| 2023-01-30 | 552 | 317 | 
 

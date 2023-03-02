@@ -1,10 +1,10 @@
 # AppsFlyerSDK/appsflyer-flutter-plugin - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 87
+☋ Forks: 88
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 106 | 88 | 
 | 2023-02-28 | 105 | 87 | 
 | 2023-02-27 | 105 | 87 | 
 | 2023-02-26 | 105 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 103 | 85 | 
 | 2023-02-01 | 103 | 85 | 
 | 2023-01-31 | 103 | 85 | 
-| 2023-01-30 | 103 | 85 | 
 

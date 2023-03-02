@@ -1,6 +1,6 @@
 # scalapb/zio-grpc - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 229 | 67 | 
 | 2023-02-28 | 229 | 67 | 
 | 2023-02-27 | 229 | 67 | 
 | 2023-02-26 | 228 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 225 | 65 | 
 | 2023-02-02 | 225 | 65 | 
 | 2023-02-01 | 225 | 65 | 
-| 2023-01-31 | 224 | 65 | 
 

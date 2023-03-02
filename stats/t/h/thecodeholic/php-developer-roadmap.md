@@ -1,10 +1,10 @@
 # thecodeholic/php-developer-roadmap - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 570
 
-★ Stars: 2508
+★ Stars: 2513
 
 [Open repository](https://github.com/thecodeholic/php-developer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2513 | 570 | 
 | 2023-02-28 | 2508 | 570 | 
 | 2023-02-27 | 2504 | 568 | 
 | 2023-02-25 | 2501 | 567 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 2437 | 554 | 
 | 2023-02-02 | 2432 | 554 | 
 | 2023-02-01 | 2427 | 554 | 
-| 2023-01-30 | 2424 | 553 | 
 

@@ -1,8 +1,8 @@
 # hashicorp/consul-template - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 775
+☋ Forks: 776
 
 ★ Stars: 4600
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4600 | 776 | 
 | 2023-02-28 | 4600 | 775 | 
 | 2023-02-27 | 4601 | 775 | 
 | 2023-02-26 | 4601 | 775 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 4592 | 778 | 
 | 2023-02-01 | 4593 | 778 | 
 | 2023-01-31 | 4592 | 778 | 
-| 2023-01-30 | 4592 | 777 | 
 

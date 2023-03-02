@@ -1,6 +1,6 @@
 # runelite/runelite - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 4758
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4059 | 4758 | 
 | 2023-02-28 | 4059 | 4758 | 
 | 2023-02-27 | 4059 | 4754 | 
 | 2023-02-26 | 4059 | 4754 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 4042 | 4730 | 
 | 2023-02-01 | 4040 | 4727 | 
 | 2023-01-31 | 4038 | 4727 | 
-| 2023-01-30 | 4037 | 4728 | 
 

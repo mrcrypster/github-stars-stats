@@ -1,10 +1,10 @@
 # Perfare/Il2CppDumper - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 917
+☋ Forks: 918
 
-★ Stars: 4901
+★ Stars: 4908
 
 [Open repository](https://github.com/Perfare/Il2CppDumper)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4908 | 918 | 
 | 2023-02-28 | 4901 | 917 | 
 | 2023-02-26 | 4891 | 915 | 
 | 2023-02-25 | 4888 | 914 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 4773 | 894 | 
 | 2023-02-02 | 4764 | 892 | 
 | 2023-02-01 | 4759 | 891 | 
-| 2023-01-31 | 4756 | 890 | 
 

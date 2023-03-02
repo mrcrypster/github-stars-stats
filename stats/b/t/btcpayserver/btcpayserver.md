@@ -1,10 +1,10 @@
 # btcpayserver/btcpayserver - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1067
+☋ Forks: 1068
 
-★ Stars: 4442
+★ Stars: 4447
 
 [Open repository](https://github.com/btcpayserver/btcpayserver)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4447 | 1068 | 
 | 2023-02-28 | 4442 | 1067 | 
 | 2023-02-27 | 4439 | 1067 | 
 | 2023-02-26 | 4431 | 1066 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 4271 | 1035 | 
 | 2023-02-01 | 4267 | 1034 | 
 | 2023-01-31 | 4268 | 1032 | 
-| 2023-01-30 | 4265 | 1032 | 
 

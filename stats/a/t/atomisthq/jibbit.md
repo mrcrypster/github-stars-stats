@@ -1,6 +1,6 @@
 # atomisthq/jibbit - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 73 | 6 | 
 | 2023-02-28 | 73 | 6 | 
 | 2023-02-26 | 73 | 6 | 
 | 2023-02-25 | 73 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 73 | 6 | 
 | 2023-02-01 | 73 | 6 | 
 | 2023-01-31 | 73 | 6 | 
-| 2023-01-30 | 73 | 6 | 
 

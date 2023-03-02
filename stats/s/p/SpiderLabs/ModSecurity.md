@@ -1,10 +1,10 @@
 # SpiderLabs/ModSecurity - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1410
 
-★ Stars: 6122
+★ Stars: 6124
 
 [Open repository](https://github.com/SpiderLabs/ModSecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 6124 | 1410 | 
 | 2023-02-28 | 6122 | 1410 | 
 | 2023-02-27 | 6117 | 1409 | 
 | 2023-02-26 | 6114 | 1409 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 6062 | 1405 | 
 | 2023-02-02 | 6060 | 1404 | 
 | 2023-02-01 | 6056 | 1403 | 
-| 2023-01-31 | 6055 | 1403 | 
 

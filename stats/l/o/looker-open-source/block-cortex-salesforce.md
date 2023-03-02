@@ -1,6 +1,6 @@
 # looker-open-source/block-cortex-salesforce - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | 2 | 
 | 2023-02-28 | 2 | 2 | 
 | 2023-02-26 | 2 | 2 | 
 | 2023-02-25 | 2 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 1 | 2 | 
 | 2023-02-01 | 1 | 2 | 
 | 2023-01-31 | 1 | 2 | 
-| 2023-01-30 | 1 | 2 | 
 

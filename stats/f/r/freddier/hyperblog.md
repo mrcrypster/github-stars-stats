@@ -1,10 +1,10 @@
 # freddier/hyperblog - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 11969
+☋ Forks: 11980
 
-★ Stars: 8034
+★ Stars: 8042
 
 [Open repository](https://github.com/freddier/hyperblog)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 8042 | 11980 | 
 | 2023-02-28 | 8034 | 11969 | 
 | 2023-02-27 | 8031 | 11964 | 
 | 2023-02-26 | 8029 | 11959 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 7920 | 11772 | 
 | 2023-02-01 | 7911 | 11761 | 
 | 2023-01-31 | 7902 | 11748 | 
-| 2023-01-30 | 7893 | 11736 | 
 

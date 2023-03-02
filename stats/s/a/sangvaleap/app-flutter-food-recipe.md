@@ -1,6 +1,6 @@
 # sangvaleap/app-flutter-food-recipe - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 59 | 22 | 
 | 2023-02-28 | 59 | 22 | 
 | 2023-02-27 | 59 | 22 | 
 | 2023-02-26 | 59 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 58 | 23 | 
 | 2023-02-02 | 58 | 23 | 
 | 2023-02-01 | 58 | 23 | 
-| 2023-01-30 | 58 | 23 | 
 

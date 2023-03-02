@@ -1,10 +1,10 @@
 # bandprotocol/bandchain - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 58
 
-★ Stars: 230
+★ Stars: 229
 
 [Open repository](https://github.com/bandprotocol/bandchain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 229 | 58 | 
 | 2023-02-27 | 230 | 58 | 
 | 2023-02-26 | 230 | 58 | 
 | 2023-02-25 | 230 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 230 | 59 | 
 | 2023-02-02 | 230 | 59 | 
 | 2023-02-01 | 230 | 59 | 
-| 2023-01-30 | 230 | 59 | 
 

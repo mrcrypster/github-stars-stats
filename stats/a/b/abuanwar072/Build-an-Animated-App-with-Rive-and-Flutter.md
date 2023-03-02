@@ -1,10 +1,10 @@
 # abuanwar072/Build-an-Animated-App-with-Rive-and-Flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/abuanwar072/Build-an-Animated-App-with-Rive-and-Flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 178 | 58 | 
 | 2023-02-28 | 177 | 57 | 
 | 2023-02-26 | 176 | 58 | 
 | 2023-02-25 | 176 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 146 | 42 | 
 | 2023-02-02 | 144 | 40 | 
 | 2023-02-01 | 142 | 39 | 
-| 2023-01-30 | 139 | 39 | 
 

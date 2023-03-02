@@ -1,10 +1,10 @@
 # Syslifters/offsec-tools - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 118
+★ Stars: 123
 
 [Open repository](https://github.com/Syslifters/offsec-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 123 | 12 | 
 | 2023-02-28 | 118 | 12 | 
 | 2023-02-27 | 114 | 11 | 
 | 2023-02-26 | 110 | 9 | 

@@ -1,10 +1,10 @@
 # datafuselabs/opendal - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 543
+★ Stars: 549
 
 [Open repository](https://github.com/datafuselabs/opendal)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 549 | 78 | 
 | 2023-02-27 | 543 | 77 | 
 | 2023-02-26 | 537 | 76 | 
 | 2023-02-25 | 530 | 75 | 

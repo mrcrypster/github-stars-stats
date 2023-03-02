@@ -1,10 +1,10 @@
 # JamesHWade/gpttools - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 5
 
-★ Stars: 154
+★ Stars: 156
 
 [Open repository](https://github.com/JamesHWade/gpttools)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 156 | 5 | 
 | 2023-02-28 | 154 | 5 | 
 | 2023-02-27 | 154 | 5 | 
 | 2023-02-25 | 154 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 135 | 5 | 
 | 2023-02-01 | 135 | 5 | 
 | 2023-01-31 | 136 | 5 | 
-| 2023-01-30 | 134 | 5 | 
 

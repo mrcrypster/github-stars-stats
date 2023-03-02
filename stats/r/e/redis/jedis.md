@@ -1,10 +1,10 @@
 # redis/jedis - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 3726
 
-★ Stars: 10933
+★ Stars: 10934
 
 [Open repository](https://github.com/redis/jedis)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10934 | 3726 | 
 | 2023-02-27 | 10933 | 3726 | 
 | 2023-02-26 | 10932 | 3726 | 
 | 2023-02-25 | 10930 | 3725 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 10883 | 3719 | 
 | 2023-02-01 | 10881 | 3718 | 
 | 2023-01-31 | 10881 | 3719 | 
-| 2023-01-30 | 10881 | 3718 | 
 

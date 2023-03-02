@@ -1,6 +1,6 @@
 # A-Series-of-Dice-Based-Events/RiseOfTheRunelords - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 64 | 33 | 
 | 2023-02-28 | 64 | 33 | 
 | 2023-02-26 | 64 | 33 | 
 | 2023-02-25 | 64 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 61 | 32 | 
 | 2023-02-01 | 60 | 32 | 
 | 2023-01-31 | 60 | 32 | 
-| 2023-01-30 | 59 | 32 | 
 

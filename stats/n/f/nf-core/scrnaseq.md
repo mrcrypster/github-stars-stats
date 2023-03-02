@@ -1,6 +1,6 @@
 # nf-core/scrnaseq - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 72 | 77 | 
 | 2023-02-28 | 72 | 77 | 
 | 2023-02-26 | 72 | 77 | 
 | 2023-02-25 | 72 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 68 | 75 | 
 | 2023-02-02 | 68 | 75 | 
 | 2023-02-01 | 68 | 74 | 
-| 2023-01-31 | 68 | 74 | 
 

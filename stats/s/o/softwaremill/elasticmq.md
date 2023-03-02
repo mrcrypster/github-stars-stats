@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 01
 
 ☋ Forks: 169
 
-★ Stars: 2137
+★ Stars: 2138
 
 [Open repository](https://github.com/softwaremill/elasticmq)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-01 | 2137 | 169 | 
+| 2023-03-01 | 2138 | 169 | 
 | 2023-02-28 | 2137 | 169 | 
 | 2023-02-27 | 2135 | 169 | 
 | 2023-02-26 | 2133 | 169 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-02 | 2117 | 168 | 
 | 2023-02-01 | 2115 | 168 | 
 | 2023-01-31 | 2114 | 168 | 
-| 2023-01-30 | 2114 | 168 | 
 

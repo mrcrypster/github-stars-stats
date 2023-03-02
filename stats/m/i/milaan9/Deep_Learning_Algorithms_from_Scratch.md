@@ -1,6 +1,6 @@
 # milaan9/Deep_Learning_Algorithms_from_Scratch - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 155 | 167 | 
 | 2023-02-28 | 155 | 167 | 
 | 2023-02-27 | 155 | 167 | 
 | 2023-02-25 | 155 | 167 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 154 | 167 | 
 | 2023-02-02 | 154 | 167 | 
 | 2023-02-01 | 154 | 167 | 
-| 2023-01-31 | 154 | 167 | 
 

@@ -1,10 +1,10 @@
 # KotlinBy/awesome-kotlin - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 1174
+☋ Forks: 1173
 
-★ Stars: 10332
+★ Stars: 10335
 
 [Open repository](https://github.com/KotlinBy/awesome-kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10335 | 1173 | 
 | 2023-02-28 | 10332 | 1174 | 
 | 2023-02-27 | 10328 | 1173 | 
 | 2023-02-26 | 10330 | 1173 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 10292 | 1171 | 
 | 2023-02-01 | 10291 | 1171 | 
 | 2023-01-31 | 10292 | 1170 | 
-| 2023-01-30 | 10291 | 1170 | 
 

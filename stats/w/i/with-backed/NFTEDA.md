@@ -1,10 +1,10 @@
 # with-backed/NFTEDA - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/with-backed/NFTEDA)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 35 | 2 | 
 | 2023-02-28 | 33 | 2 | 
 | 2023-02-27 | 31 | 2 | 
 | 2023-02-26 | 30 | 2 | 

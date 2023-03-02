@@ -1,8 +1,8 @@
 # sarthakroy2002/vendor_nothing - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 12 | 7 | 
 | 2023-02-28 | 12 | 6 | 
 | 2023-02-27 | 12 | 6 | 
 | 2023-02-26 | 12 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 12 | 6 | 
 | 2023-02-02 | 12 | 6 | 
 | 2023-02-01 | 12 | 6 | 
-| 2023-01-31 | 12 | 6 | 
 

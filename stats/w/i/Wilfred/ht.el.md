@@ -1,10 +1,10 @@
 # Wilfred/ht.el - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 39
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/Wilfred/ht.el)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 230 | 39 | 
 | 2023-02-28 | 229 | 39 | 
 | 2023-02-27 | 227 | 39 | 
 | 2023-02-26 | 228 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 229 | 38 | 
 | 2023-02-01 | 229 | 38 | 
 | 2023-01-31 | 229 | 38 | 
-| 2023-01-30 | 229 | 38 | 
 

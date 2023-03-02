@@ -1,10 +1,10 @@
 # IObundle/iob-soc - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 78
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/IObundle/iob-soc)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 100 | 78 | 
 | 2023-02-27 | 99 | 78 | 
 | 2023-02-26 | 100 | 78 | 
 | 2023-02-25 | 100 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 100 | 75 | 
 | 2023-02-01 | 99 | 75 | 
 | 2023-01-31 | 99 | 75 | 
-| 2023-01-30 | 99 | 75 | 
 

@@ -1,10 +1,10 @@
 # jeffbencteux/mailsecchk - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 71
+★ Stars: 70
 
 [Open repository](https://github.com/jeffbencteux/mailsecchk)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 70 | 4 | 
 | 2023-02-28 | 71 | 4 | 
 | 2023-02-27 | 71 | 4 | 
 | 2023-02-26 | 71 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 71 | 4 | 
 | 2023-02-01 | 71 | 4 | 
 | 2023-01-31 | 71 | 4 | 
-| 2023-01-30 | 71 | 4 | 
 

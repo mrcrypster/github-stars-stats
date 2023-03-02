@@ -1,8 +1,8 @@
 # PartyDAO/party-protocol - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 98 | 12 | 
 | 2023-02-27 | 98 | 11 | 
 | 2023-02-26 | 98 | 11 | 
 | 2023-02-25 | 98 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 87 | 9 | 
 | 2023-02-01 | 86 | 9 | 
 | 2023-01-31 | 87 | 9 | 
-| 2023-01-30 | 87 | 9 | 
 

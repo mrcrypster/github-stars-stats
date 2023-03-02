@@ -1,10 +1,10 @@
 # MM2-0/Kvaesitso - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 416
+★ Stars: 419
 
 [Open repository](https://github.com/MM2-0/Kvaesitso)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 419 | 12 | 
 | 2023-02-28 | 416 | 12 | 
 | 2023-02-27 | 414 | 12 | 
 | 2023-02-26 | 414 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 381 | 11 | 
 | 2023-02-01 | 381 | 11 | 
 | 2023-01-31 | 382 | 11 | 
-| 2023-01-30 | 381 | 11 | 
 

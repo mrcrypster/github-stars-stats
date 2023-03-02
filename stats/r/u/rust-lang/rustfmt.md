@@ -1,10 +1,10 @@
 # rust-lang/rustfmt - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 761
+☋ Forks: 762
 
-★ Stars: 4953
+★ Stars: 4959
 
 [Open repository](https://github.com/rust-lang/rustfmt)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4959 | 762 | 
 | 2023-02-27 | 4953 | 761 | 
 | 2023-02-26 | 4951 | 761 | 
 | 2023-02-25 | 4948 | 761 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 4898 | 760 | 
 | 2023-02-01 | 4895 | 761 | 
 | 2023-01-31 | 4893 | 761 | 
-| 2023-01-30 | 4892 | 759 | 
 

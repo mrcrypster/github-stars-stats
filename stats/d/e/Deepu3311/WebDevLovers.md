@@ -1,6 +1,6 @@
 # Deepu3311/WebDevLovers - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 5 | 49 | 
 | 2023-02-28 | 5 | 49 | 
 | 2023-02-26 | 5 | 49 | 
 | 2023-02-25 | 5 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 5 | 51 | 
 | 2023-02-01 | 5 | 51 | 
 | 2023-01-31 | 5 | 51 | 
-| 2023-01-30 | 5 | 51 | 
 

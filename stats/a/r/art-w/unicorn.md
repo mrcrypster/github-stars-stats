@@ -1,6 +1,6 @@
 # art-w/unicorn - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 60 | 1 | 
 | 2023-02-28 | 60 | 1 | 
 | 2023-02-26 | 60 | 1 | 
 | 2023-02-25 | 60 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 60 | 1 | 
 | 2023-02-01 | 60 | 1 | 
 | 2023-01-31 | 60 | 1 | 
-| 2023-01-30 | 60 | 1 | 
 

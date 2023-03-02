@@ -1,10 +1,10 @@
 # bird-sanctuary/bluejay - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 9
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/bird-sanctuary/bluejay)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 91 | 9 | 
 | 2023-02-27 | 89 | 9 | 
 | 2023-02-26 | 89 | 9 | 
 | 2023-02-25 | 89 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 75 | 6 | 
 | 2023-02-01 | 75 | 6 | 
 | 2023-01-31 | 75 | 6 | 
-| 2023-01-30 | 74 | 6 | 
 

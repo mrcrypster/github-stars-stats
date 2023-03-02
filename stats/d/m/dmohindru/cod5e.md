@@ -1,10 +1,10 @@
 # dmohindru/cod5e - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 41
+☋ Forks: 40
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/dmohindru/cod5e)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 171 | 40 | 
 | 2023-02-28 | 170 | 41 | 
 | 2023-02-27 | 170 | 41 | 
 | 2023-02-26 | 171 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 165 | 36 | 
 | 2023-02-02 | 165 | 36 | 
 | 2023-02-01 | 165 | 36 | 
-| 2023-01-31 | 164 | 36 | 
 

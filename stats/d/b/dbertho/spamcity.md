@@ -1,10 +1,10 @@
 # dbertho/spamcity - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 13
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/dbertho/spamcity)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 81 | 13 | 
 | 2023-02-28 | 82 | 13 | 
 | 2023-02-27 | 82 | 13 | 
 | 2023-02-26 | 82 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 82 | 13 | 
 | 2023-02-01 | 82 | 13 | 
 | 2023-01-31 | 82 | 13 | 
-| 2023-01-30 | 82 | 13 | 
 

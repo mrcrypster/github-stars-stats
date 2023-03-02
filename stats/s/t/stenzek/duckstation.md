@@ -1,10 +1,10 @@
 # stenzek/duckstation - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 461
+☋ Forks: 462
 
-★ Stars: 4594
+★ Stars: 4597
 
 [Open repository](https://github.com/stenzek/duckstation)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 4597 | 462 | 
 | 2023-02-28 | 4594 | 461 | 
 | 2023-02-27 | 4589 | 461 | 
 | 2023-02-26 | 4584 | 460 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 4487 | 455 | 
 | 2023-02-01 | 4486 | 455 | 
 | 2023-01-31 | 4483 | 455 | 
-| 2023-01-30 | 4479 | 454 | 
 

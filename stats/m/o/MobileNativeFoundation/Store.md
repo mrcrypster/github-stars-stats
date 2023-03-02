@@ -1,10 +1,10 @@
 # MobileNativeFoundation/Store - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 2744
+★ Stars: 2745
 
 [Open repository](https://github.com/MobileNativeFoundation/Store)
 
@@ -13,5 +13,6 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2745 | 184 | 
 | 2023-02-28 | 2744 | 183 | 
 

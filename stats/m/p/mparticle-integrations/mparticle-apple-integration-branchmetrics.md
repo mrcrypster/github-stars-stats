@@ -1,6 +1,6 @@
 # mparticle-integrations/mparticle-apple-integration-branchmetrics - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3 | 23 | 
 | 2023-02-28 | 3 | 23 | 
 | 2023-02-26 | 3 | 24 | 
 | 2023-02-25 | 3 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3 | 24 | 
 | 2023-02-01 | 3 | 24 | 
 | 2023-01-31 | 3 | 24 | 
-| 2023-01-30 | 3 | 24 | 
 

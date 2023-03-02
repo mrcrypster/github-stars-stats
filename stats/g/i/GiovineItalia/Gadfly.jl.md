@@ -1,6 +1,6 @@
 # GiovineItalia/Gadfly.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1837 | 260 | 
 | 2023-02-28 | 1837 | 260 | 
 | 2023-02-27 | 1836 | 260 | 
 | 2023-02-26 | 1836 | 260 | 

@@ -1,10 +1,10 @@
 # BabylonJS/Babylon.js - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 3043
 
-★ Stars: 19452
+★ Stars: 19462
 
 [Open repository](https://github.com/BabylonJS/Babylon.js)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 19462 | 3043 | 
 | 2023-02-28 | 19452 | 3043 | 
 | 2023-02-27 | 19443 | 3040 | 
 | 2023-02-26 | 19439 | 3038 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 19269 | 3020 | 
 | 2023-02-01 | 19261 | 3016 | 
 | 2023-01-31 | 19255 | 3016 | 
-| 2023-01-30 | 19246 | 3014 | 
 

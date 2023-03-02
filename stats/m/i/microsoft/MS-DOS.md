@@ -1,10 +1,10 @@
 # microsoft/MS-DOS - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2636
 
-★ Stars: 17051
+★ Stars: 17052
 
 [Open repository](https://github.com/microsoft/MS-DOS)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 17052 | 2636 | 
 | 2023-02-28 | 17051 | 2636 | 
 | 2023-02-27 | 17050 | 2635 | 
 | 2023-02-26 | 17047 | 2635 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 17003 | 2624 | 
 | 2023-02-01 | 17002 | 2624 | 
 | 2023-01-31 | 16999 | 2623 | 
-| 2023-01-30 | 16995 | 2621 | 
 

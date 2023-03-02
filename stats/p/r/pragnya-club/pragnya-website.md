@@ -1,6 +1,6 @@
 # pragnya-club/pragnya-website - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | 155 | 
 | 2023-02-28 | 2 | 155 | 
 | 2023-02-26 | 2 | 155 | 
 | 2023-02-25 | 2 | 155 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 2 | 156 | 
 | 2023-02-01 | 2 | 156 | 
 | 2023-01-31 | 2 | 156 | 
-| 2023-01-30 | 2 | 156 | 
 

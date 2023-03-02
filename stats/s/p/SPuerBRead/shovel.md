@@ -1,10 +1,10 @@
 # SPuerBRead/shovel - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 20
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/SPuerBRead/shovel)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 216 | 20 | 
 | 2023-02-28 | 215 | 20 | 
 | 2023-02-27 | 215 | 20 | 
 | 2023-02-26 | 214 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 209 | 20 | 
 | 2023-02-01 | 209 | 20 | 
 | 2023-01-31 | 209 | 20 | 
-| 2023-01-30 | 209 | 20 | 
 

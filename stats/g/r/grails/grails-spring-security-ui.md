@@ -1,6 +1,6 @@
 # grails/grails-spring-security-ui - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 70 | 97 | 
 | 2023-02-28 | 70 | 97 | 
 | 2023-02-26 | 70 | 97 | 
 | 2023-02-25 | 70 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 70 | 97 | 
 | 2023-02-01 | 70 | 97 | 
 | 2023-01-31 | 70 | 97 | 
-| 2023-01-30 | 70 | 97 | 
 

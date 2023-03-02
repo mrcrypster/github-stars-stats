@@ -1,6 +1,6 @@
 # M97Chahboun/flutter_ci_cd - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 45 | 9 | 
 | 2023-02-28 | 45 | 9 | 
 | 2023-02-26 | 45 | 9 | 
 | 2023-02-25 | 44 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 43 | 9 | 
 | 2023-02-01 | 43 | 9 | 
 | 2023-01-31 | 42 | 9 | 
-| 2023-01-30 | 42 | 9 | 
 

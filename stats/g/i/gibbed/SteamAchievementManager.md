@@ -1,10 +1,10 @@
 # gibbed/SteamAchievementManager - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 598
 
-★ Stars: 3887
+★ Stars: 3888
 
 [Open repository](https://github.com/gibbed/SteamAchievementManager)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3888 | 598 | 
 | 2023-02-28 | 3887 | 598 | 
 | 2023-02-27 | 3880 | 597 | 
 | 2023-02-26 | 3880 | 597 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 3802 | 591 | 
 | 2023-02-01 | 3801 | 591 | 
 | 2023-01-31 | 3799 | 591 | 
-| 2023-01-30 | 3798 | 591 | 
 

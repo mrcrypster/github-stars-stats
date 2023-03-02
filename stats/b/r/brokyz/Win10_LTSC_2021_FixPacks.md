@@ -1,10 +1,10 @@
 # brokyz/Win10_LTSC_2021_FixPacks - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 10
 
-★ Stars: 115
+★ Stars: 117
 
 [Open repository](https://github.com/brokyz/Win10_LTSC_2021_FixPacks)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 117 | 10 | 
 | 2023-02-28 | 115 | 10 | 
 | 2023-02-27 | 115 | 10 | 
 | 2023-02-26 | 115 | 10 | 

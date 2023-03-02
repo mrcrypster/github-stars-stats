@@ -1,6 +1,6 @@
 # tinloaf/org-incoming - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 19 | 2 | 
 | 2023-02-28 | 19 | 2 | 
 | 2023-02-27 | 19 | 2 | 
 | 2023-02-26 | 19 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 17 | 2 | 
 | 2023-02-02 | 17 | 2 | 
 | 2023-01-31 | 17 | 2 | 
-| 2023-01-30 | 17 | 2 | 
 

@@ -1,10 +1,10 @@
 # satijalab/seurat-wrappers - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 104
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/satijalab/seurat-wrappers)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 201 | 104 | 
 | 2023-02-27 | 200 | 104 | 
 | 2023-02-26 | 200 | 104 | 
 | 2023-02-25 | 200 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 196 | 99 | 
 | 2023-02-01 | 196 | 99 | 
 | 2023-01-31 | 196 | 99 | 
-| 2023-01-30 | 196 | 99 | 
 

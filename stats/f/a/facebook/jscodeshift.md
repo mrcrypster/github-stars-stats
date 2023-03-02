@@ -1,10 +1,10 @@
 # facebook/jscodeshift - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 465
 
-★ Stars: 8159
+★ Stars: 8164
 
 [Open repository](https://github.com/facebook/jscodeshift)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 8164 | 465 | 
 | 2023-02-28 | 8159 | 465 | 
 | 2023-02-27 | 8156 | 465 | 
 | 2023-02-26 | 8152 | 465 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 8086 | 460 | 
 | 2023-02-01 | 8080 | 460 | 
 | 2023-01-31 | 8077 | 460 | 
-| 2023-01-30 | 8074 | 460 | 
 

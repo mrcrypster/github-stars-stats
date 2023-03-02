@@ -1,6 +1,6 @@
 # mrh0wl/Cloudmare - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 987 | 175 | 
 | 2023-02-28 | 987 | 175 | 
 | 2023-02-27 | 986 | 175 | 
 | 2023-02-26 | 986 | 175 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 920 | 170 | 
 | 2023-02-01 | 919 | 170 | 
 | 2023-01-31 | 919 | 170 | 
-| 2023-01-30 | 917 | 170 | 
 

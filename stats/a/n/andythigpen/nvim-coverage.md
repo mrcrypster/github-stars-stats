@@ -1,10 +1,10 @@
 # andythigpen/nvim-coverage - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 16
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/andythigpen/nvim-coverage)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 143 | 16 | 
 | 2023-02-28 | 142 | 16 | 
 | 2023-02-27 | 142 | 16 | 
 | 2023-02-26 | 142 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 129 | 13 | 
 | 2023-02-01 | 129 | 13 | 
 | 2023-01-31 | 128 | 13 | 
-| 2023-01-30 | 128 | 13 | 
 

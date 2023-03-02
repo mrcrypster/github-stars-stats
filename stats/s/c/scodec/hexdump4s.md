@@ -1,6 +1,6 @@
 # scodec/hexdump4s - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 36 | 3 | 
 | 2023-02-27 | 36 | 3 | 
 | 2023-02-26 | 36 | 3 | 
 | 2023-02-25 | 36 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 36 | 3 | 
 | 2023-02-02 | 36 | 3 | 
 | 2023-01-31 | 35 | 3 | 
-| 2023-01-30 | 35 | 3 | 
 

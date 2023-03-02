@@ -1,10 +1,10 @@
 # thejsway/thejsway - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 787
 
-★ Stars: 7763
+★ Stars: 7764
 
 [Open repository](https://github.com/thejsway/thejsway)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 7764 | 787 | 
 | 2023-02-28 | 7763 | 787 | 
 | 2023-02-27 | 7761 | 787 | 
 | 2023-02-26 | 7761 | 787 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 7749 | 781 | 
 | 2023-02-01 | 7749 | 781 | 
 | 2023-01-31 | 7748 | 781 | 
-| 2023-01-30 | 7747 | 780 | 
 

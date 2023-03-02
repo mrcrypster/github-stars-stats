@@ -1,6 +1,6 @@
 # socathie/zkPuzzles - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 14 | 19 | 
 | 2023-02-28 | 14 | 19 | 
 | 2023-02-27 | 14 | 19 | 
 | 2023-02-26 | 14 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 13 | 19 | 
 | 2023-02-02 | 13 | 19 | 
 | 2023-02-01 | 13 | 19 | 
-| 2023-01-30 | 13 | 19 | 
 

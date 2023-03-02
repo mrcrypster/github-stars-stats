@@ -1,10 +1,10 @@
 # exanauts/ExaAdmm.jl - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/exanauts/ExaAdmm.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 10 | 2 | 
 | 2023-02-27 | 9 | 2 | 
 | 2023-02-26 | 9 | 2 | 
 | 2023-02-25 | 9 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 9 | 2 | 
 | 2023-02-02 | 9 | 2 | 
 | 2023-02-01 | 9 | 2 | 
-| 2023-01-30 | 9 | 2 | 
 

@@ -1,6 +1,6 @@
 # elastic/es2unix - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 273 | 28 | 
 | 2023-02-27 | 273 | 28 | 
 | 2023-02-26 | 273 | 28 | 
 | 2023-02-25 | 273 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-02 | 273 | 28 | 
 | 2023-02-01 | 273 | 28 | 
 | 2023-01-31 | 273 | 28 | 
-| 2023-01-30 | 273 | 28 | 
 

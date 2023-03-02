@@ -1,6 +1,6 @@
 # f2e-developer/chinese-f2e-developer - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 768 | 43 | 
 | 2023-02-28 | 768 | 43 | 
 | 2023-02-26 | 768 | 43 | 
 | 2023-02-25 | 767 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 762 | 43 | 
 | 2023-02-01 | 761 | 43 | 
 | 2023-01-31 | 761 | 43 | 
-| 2023-01-30 | 761 | 43 | 
 

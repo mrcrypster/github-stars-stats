@@ -1,6 +1,6 @@
 # nilcons/ceh - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 23 | 2 | 
 | 2023-02-27 | 23 | 2 | 
 | 2023-02-26 | 23 | 2 | 
 | 2023-02-25 | 23 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 23 | 2 | 
 | 2023-02-01 | 23 | 2 | 
 | 2023-01-31 | 23 | 2 | 
-| 2023-01-30 | 23 | 2 | 
 

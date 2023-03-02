@@ -1,10 +1,10 @@
 # sytone/obsidian-remote - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 38
 
-★ Stars: 334
+★ Stars: 336
 
 [Open repository](https://github.com/sytone/obsidian-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 336 | 38 | 
 | 2023-02-28 | 334 | 38 | 
 | 2023-02-27 | 333 | 38 | 
 | 2023-02-26 | 330 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 283 | 36 | 
 | 2023-02-01 | 283 | 36 | 
 | 2023-01-31 | 284 | 36 | 
-| 2023-01-30 | 282 | 36 | 
 

@@ -1,10 +1,10 @@
 # hwchase17/chat-langchain - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 98
+☋ Forks: 99
 
-★ Stars: 476
+★ Stars: 484
 
 [Open repository](https://github.com/hwchase17/chat-langchain)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 484 | 99 | 
 | 2023-02-28 | 476 | 98 | 
 | 2023-02-27 | 462 | 95 | 
 | 2023-02-26 | 452 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 225 | 44 | 
 | 2023-02-01 | 219 | 40 | 
 | 2023-01-31 | 212 | 39 | 
-| 2023-01-30 | 194 | 35 | 
 

@@ -1,6 +1,6 @@
 # Yif1999/TA-Learning - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 37 | 13 | 
 | 2023-02-28 | 37 | 13 | 
 | 2023-02-27 | 37 | 12 | 
 | 2023-02-25 | 37 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 34 | 11 | 
 | 2023-02-02 | 34 | 11 | 
 | 2023-02-01 | 33 | 11 | 
-| 2023-01-31 | 32 | 11 | 
 

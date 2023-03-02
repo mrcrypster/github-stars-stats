@@ -1,10 +1,10 @@
 # rcmaehl/WhyNotWin11 - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 433
 
-★ Stars: 5911
+★ Stars: 5912
 
 [Open repository](https://github.com/rcmaehl/WhyNotWin11)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 5912 | 433 | 
 | 2023-02-28 | 5911 | 433 | 
 | 2023-02-27 | 5911 | 433 | 
 | 2023-02-26 | 5911 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 5903 | 434 | 
 | 2023-02-01 | 5901 | 435 | 
 | 2023-01-31 | 5900 | 435 | 
-| 2023-01-30 | 5898 | 435 | 
 

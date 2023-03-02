@@ -1,6 +1,6 @@
 # chianjin/zhvt-classic - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 44 | 9 | 
 | 2023-02-28 | 44 | 9 | 
 | 2023-02-27 | 44 | 9 | 
 | 2023-02-26 | 44 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 43 | 8 | 
 | 2023-02-01 | 43 | 7 | 
 | 2023-01-31 | 43 | 7 | 
-| 2023-01-30 | 43 | 7 | 
 

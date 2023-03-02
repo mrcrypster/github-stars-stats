@@ -1,6 +1,6 @@
 # ayu-theme/ayu-vim - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 1534 | 181 | 
 | 2023-02-28 | 1534 | 181 | 
 | 2023-02-27 | 1533 | 181 | 
 | 2023-02-26 | 1532 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 1521 | 177 | 
 | 2023-02-01 | 1521 | 177 | 
 | 2023-01-31 | 1521 | 177 | 
-| 2023-01-30 | 1520 | 177 | 
 

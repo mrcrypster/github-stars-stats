@@ -1,8 +1,8 @@
 # firebearstudio/magento2-import-export-sample-files - stars & forks statistics
 
-Stats updated on Feb 2023, 27
+Stats updated on Mar 2023, 01
 
-☋ Forks: 407
+☋ Forks: 406
 
 ★ Stars: 87
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 87 | 406 | 
 | 2023-02-27 | 87 | 407 | 
 | 2023-02-26 | 87 | 406 | 
 | 2023-02-25 | 87 | 406 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 27
 | 2023-02-03 | 86 | 401 | 
 | 2023-02-02 | 86 | 399 | 
 | 2023-02-01 | 86 | 399 | 
-| 2023-01-31 | 86 | 399 | 
 

@@ -1,10 +1,10 @@
 # input-output-hk/plutus-apps - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 196
+☋ Forks: 197
 
-★ Stars: 292
+★ Stars: 291
 
 [Open repository](https://github.com/input-output-hk/plutus-apps)
 
@@ -13,6 +13,8 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 291 | 197 | 
+| 2023-03-01 | 291 | 197 | 
 | 2023-02-28 | 292 | 196 | 
 | 2023-02-26 | 292 | 196 | 
 | 2023-02-25 | 292 | 196 | 
@@ -40,5 +42,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 290 | 192 | 
 | 2023-02-01 | 290 | 192 | 
 | 2023-01-31 | 290 | 192 | 
-| 2023-01-30 | 291 | 193 | 
 

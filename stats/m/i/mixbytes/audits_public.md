@@ -1,10 +1,10 @@
 # mixbytes/audits_public - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 22
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/mixbytes/audits_public)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 103 | 22 | 
 | 2023-02-28 | 102 | 22 | 
 | 2023-02-27 | 102 | 22 | 
 | 2023-02-26 | 102 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 100 | 22 | 
 | 2023-02-01 | 100 | 22 | 
 | 2023-01-31 | 100 | 22 | 
-| 2023-01-30 | 100 | 22 | 
 

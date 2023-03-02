@@ -1,10 +1,10 @@
 # louisfb01/start-machine-learning - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
-☋ Forks: 457
+☋ Forks: 458
 
-★ Stars: 3378
+★ Stars: 3380
 
 [Open repository](https://github.com/louisfb01/start-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 3380 | 458 | 
 | 2023-02-28 | 3378 | 457 | 
 | 2023-02-27 | 3372 | 457 | 
 | 2023-02-26 | 3371 | 457 | 

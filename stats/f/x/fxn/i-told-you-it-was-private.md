@@ -1,6 +1,6 @@
 # fxn/i-told-you-it-was-private - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 244 | 12 | 
 | 2023-02-28 | 244 | 12 | 
 | 2023-02-26 | 244 | 12 | 
 | 2023-02-25 | 244 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-03 | 244 | 12 | 
 | 2023-02-02 | 244 | 12 | 
 | 2023-02-01 | 244 | 12 | 
-| 2023-01-30 | 244 | 12 | 
 

@@ -1,6 +1,6 @@
 # Digital-Communication/Github-RDP - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 2 | 7 | 
 | 2023-02-28 | 2 | 7 | 
 | 2023-02-27 | 2 | 7 | 
 | 2023-02-25 | 2 | 7 | 

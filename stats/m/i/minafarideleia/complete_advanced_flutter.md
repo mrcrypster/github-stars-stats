@@ -1,10 +1,10 @@
 # minafarideleia/complete_advanced_flutter - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 01
 
 ☋ Forks: 96
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/minafarideleia/complete_advanced_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-01 | 137 | 96 | 
 | 2023-02-28 | 136 | 96 | 
 | 2023-02-27 | 135 | 96 | 
 | 2023-02-26 | 135 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 129 | 92 | 
 | 2023-02-01 | 129 | 92 | 
 | 2023-01-31 | 128 | 91 | 
-| 2023-01-30 | 128 | 90 | 
 

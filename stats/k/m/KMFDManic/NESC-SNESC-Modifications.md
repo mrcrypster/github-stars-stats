@@ -1,6 +1,6 @@
 # KMFDManic/NESC-SNESC-Modifications - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 262 | 34 | 
 | 2023-02-28 | 262 | 34 | 
 | 2023-02-27 | 262 | 34 | 
 | 2023-02-26 | 262 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-02 | 260 | 34 | 
 | 2023-02-01 | 260 | 34 | 
 | 2023-01-31 | 260 | 34 | 
-| 2023-01-30 | 260 | 34 | 
 
