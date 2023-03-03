@@ -1,10 +1,10 @@
 # risingwavelabs/risingwave - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 326
 
-★ Stars: 4028
+★ Stars: 4032
 
 [Open repository](https://github.com/risingwavelabs/risingwave)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4032 | 326 | 
 | 2023-03-01 | 4028 | 326 | 
 | 2023-02-28 | 4025 | 326 | 
 | 2023-02-27 | 4021 | 325 | 

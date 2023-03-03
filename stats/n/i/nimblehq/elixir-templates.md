@@ -1,10 +1,10 @@
 # nimblehq/elixir-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/nimblehq/elixir-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 68 | 6 | 
 | 2023-03-01 | 67 | 6 | 
 | 2023-02-28 | 67 | 6 | 
 | 2023-02-27 | 67 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 65 | 6 | 
 | 2023-02-02 | 65 | 6 | 
 | 2023-02-01 | 65 | 6 | 
-| 2023-01-31 | 65 | 6 | 
 

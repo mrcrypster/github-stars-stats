@@ -1,10 +1,10 @@
 # JetBrains/compose-jb - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 798
+☋ Forks: 800
 
-★ Stars: 10408
+★ Stars: 10416
 
 [Open repository](https://github.com/JetBrains/compose-jb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 10416 | 800 | 
 | 2023-03-01 | 10408 | 798 | 
 | 2023-02-28 | 10402 | 798 | 
 | 2023-02-27 | 10392 | 799 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 10209 | 779 | 
 | 2023-02-02 | 10203 | 778 | 
 | 2023-02-01 | 10200 | 779 | 
-| 2023-01-31 | 10187 | 780 | 
 

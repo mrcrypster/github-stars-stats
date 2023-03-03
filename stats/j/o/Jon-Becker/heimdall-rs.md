@@ -1,8 +1,8 @@
 # Jon-Becker/heimdall-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 48
+☋ Forks: 50
 
 ★ Stars: 629
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 629 | 50 | 
 | 2023-03-01 | 629 | 48 | 
 | 2023-02-28 | 626 | 47 | 
 | 2023-02-27 | 620 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 579 | 36 | 
 | 2023-02-02 | 576 | 36 | 
 | 2023-02-01 | 548 | 35 | 
-| 2023-01-31 | 543 | 32 | 
 

@@ -1,10 +1,10 @@
 # henryhu712/technote - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 88
+☋ Forks: 90
 
-★ Stars: 646
+★ Stars: 682
 
 [Open repository](https://github.com/henryhu712/technote)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 682 | 90 | 
 | 2023-03-01 | 646 | 88 | 
 | 2023-02-28 | 593 | 81 | 
 | 2023-02-27 | 535 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 173 | 18 | 
 | 2023-02-02 | 153 | 14 | 
 | 2023-02-01 | 136 | 14 | 
-| 2023-01-31 | 125 | 12 | 
 

@@ -1,8 +1,8 @@
 # StaticMania/roxo-hugo - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 146
+☋ Forks: 147
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 125 | 147 | 
 | 2023-03-01 | 125 | 146 | 
 | 2023-02-28 | 125 | 146 | 
 | 2023-02-27 | 125 | 145 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 121 | 140 | 
 | 2023-02-03 | 120 | 140 | 
 | 2023-02-01 | 119 | 138 | 
-| 2023-01-31 | 119 | 138 | 
 

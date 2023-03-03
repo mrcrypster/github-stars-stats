@@ -1,6 +1,6 @@
 # dmitrym0/org-hyperscheduler - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 122 | 9 | 
 | 2023-03-01 | 122 | 9 | 
 | 2023-02-28 | 120 | 9 | 
 | 2023-02-26 | 120 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 114 | 8 | 
 | 2023-02-03 | 114 | 8 | 
 | 2023-02-02 | 114 | 8 | 
-| 2023-01-31 | 114 | 8 | 
 

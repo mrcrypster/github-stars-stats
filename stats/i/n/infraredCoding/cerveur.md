@@ -1,10 +1,10 @@
 # infraredCoding/cerveur - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 60
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/infraredCoding/cerveur)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 411 | 60 | 
 | 2023-03-01 | 410 | 60 | 
 | 2023-02-27 | 410 | 60 | 
 | 2023-02-26 | 409 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 400 | 57 | 
 | 2023-02-02 | 398 | 57 | 
 | 2023-02-01 | 396 | 57 | 
-| 2023-01-31 | 397 | 57 | 
 

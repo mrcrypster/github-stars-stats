@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 493
 
-★ Stars: 699
+★ Stars: 701
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-project-factory)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 699 | 493 | 
+| 2023-03-02 | 701 | 493 | 
 | 2023-03-01 | 699 | 493 | 
 | 2023-02-28 | 699 | 493 | 
 | 2023-02-27 | 697 | 492 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 695 | 489 | 
 | 2023-02-02 | 695 | 490 | 
 | 2023-02-01 | 695 | 490 | 
-| 2023-01-31 | 695 | 490 | 
 

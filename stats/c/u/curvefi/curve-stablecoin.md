@@ -1,6 +1,6 @@
 # curvefi/curve-stablecoin - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 343 | 32 | 
 | 2023-03-01 | 343 | 32 | 
 | 2023-02-28 | 343 | 32 | 
 | 2023-02-26 | 344 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 329 | 31 | 
 | 2023-02-03 | 328 | 31 | 
 | 2023-02-01 | 328 | 31 | 
-| 2023-01-31 | 327 | 31 | 
 

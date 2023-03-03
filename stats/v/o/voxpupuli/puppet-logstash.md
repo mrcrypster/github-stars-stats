@@ -1,6 +1,6 @@
 # voxpupuli/puppet-logstash - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 193 | 301 | 
 | 2023-03-01 | 193 | 301 | 
 | 2023-02-28 | 193 | 301 | 
 | 2023-02-26 | 193 | 301 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 193 | 300 | 
 | 2023-02-02 | 193 | 300 | 
 | 2023-02-01 | 193 | 300 | 
-| 2023-01-31 | 194 | 301 | 
 

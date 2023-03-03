@@ -1,8 +1,8 @@
 # trustwallet/trust-web3-provider - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 377
+☋ Forks: 378
 
 ★ Stars: 564
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 564 | 378 | 
 | 2023-03-01 | 564 | 377 | 
 | 2023-02-27 | 565 | 376 | 
 | 2023-02-26 | 565 | 376 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 559 | 376 | 
 | 2023-02-02 | 558 | 375 | 
 | 2023-02-01 | 557 | 375 | 
-| 2023-01-31 | 557 | 375 | 
 

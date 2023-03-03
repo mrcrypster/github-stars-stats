@@ -1,6 +1,6 @@
 # ColinLeung-NiloCat/UnityURP-BillboardLensFlareShader - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 333 | 64 | 
 | 2023-03-01 | 333 | 64 | 
 | 2023-02-27 | 333 | 64 | 
 | 2023-02-26 | 333 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 327 | 63 | 
 | 2023-02-03 | 327 | 63 | 
 | 2023-02-02 | 326 | 63 | 
-| 2023-02-01 | 326 | 63 | 
 

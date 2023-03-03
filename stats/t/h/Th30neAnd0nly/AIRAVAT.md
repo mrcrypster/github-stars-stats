@@ -1,10 +1,10 @@
 # Th30neAnd0nly/AIRAVAT - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 209
+☋ Forks: 210
 
-★ Stars: 419
+★ Stars: 423
 
 [Open repository](https://github.com/Th30neAnd0nly/AIRAVAT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 423 | 210 | 
 | 2023-03-01 | 419 | 209 | 
 | 2023-02-28 | 418 | 208 | 
 | 2023-02-27 | 418 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 379 | 187 | 
 | 2023-02-03 | 379 | 187 | 
 | 2023-02-02 | 378 | 187 | 
-| 2023-01-31 | 377 | 185 | 
 

@@ -1,10 +1,10 @@
 # upscayl/upscayl - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 258
+☋ Forks: 259
 
-★ Stars: 9749
+★ Stars: 9776
 
 [Open repository](https://github.com/upscayl/upscayl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 9776 | 259 | 
 | 2023-03-01 | 9749 | 258 | 
 | 2023-02-28 | 9720 | 258 | 
 | 2023-02-27 | 9690 | 259 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 9219 | 241 | 
 | 2023-02-02 | 9203 | 241 | 
 | 2023-02-01 | 9190 | 241 | 
-| 2023-01-31 | 9171 | 241 | 
 

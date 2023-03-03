@@ -1,10 +1,10 @@
 # grailbio/bazel-compilation-database - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 107
 
-★ Stars: 395
+★ Stars: 396
 
 [Open repository](https://github.com/grailbio/bazel-compilation-database)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 396 | 107 | 
 | 2023-03-01 | 395 | 107 | 
 | 2023-02-28 | 395 | 107 | 
 | 2023-02-27 | 395 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 390 | 104 | 
 | 2023-02-02 | 390 | 104 | 
 | 2023-02-01 | 390 | 104 | 
-| 2023-01-31 | 390 | 104 | 
 

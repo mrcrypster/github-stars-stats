@@ -1,6 +1,6 @@
 # wangzyon/NVIDIA_SGEMM_PRACTICE - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 38 | 9 | 
 | 2023-03-01 | 38 | 9 | 
 | 2023-02-28 | 38 | 9 | 
 | 2023-02-26 | 37 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 33 | 7 | 
 | 2023-02-03 | 33 | 7 | 
 | 2023-02-02 | 33 | 7 | 
-| 2023-01-31 | 33 | 7 | 
 

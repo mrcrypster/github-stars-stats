@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 02
 
-☋ Forks: 488
+☋ Forks: 490
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/aztfmod/terraform-azurerm-caf)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 369 | 488 | 
+| 2023-03-02 | 370 | 490 | 
 | 2023-03-01 | 369 | 487 | 
 | 2023-02-27 | 368 | 486 | 
 | 2023-02-26 | 367 | 486 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 354 | 479 | 
 | 2023-02-02 | 354 | 479 | 
 | 2023-02-01 | 354 | 478 | 
-| 2023-01-31 | 353 | 475 | 
 

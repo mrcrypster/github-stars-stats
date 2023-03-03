@@ -1,0 +1,17 @@
+# dewaka/haskell-99problems - stars & forks statistics
+
+Stats updated on Mar 2023, 02
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/dewaka/haskell-99problems)
+
+[Open detailed stats for dewaka/haskell-99problems](https://reviewgithub.com/rep/dewaka/haskell-99problems)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-02 | - | - | 
+

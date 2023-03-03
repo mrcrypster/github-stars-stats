@@ -1,10 +1,10 @@
 # 869413421/chatgpt-web - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 63
+☋ Forks: 76
 
-★ Stars: 181
+★ Stars: 300
 
 [Open repository](https://github.com/869413421/chatgpt-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 300 | 76 | 
 | 2023-03-01 | 181 | 63 | 
 | 2023-02-28 | 173 | 61 | 
 | 2023-02-27 | 165 | 58 | 

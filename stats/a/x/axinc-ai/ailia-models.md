@@ -1,10 +1,10 @@
 # axinc-ai/ailia-models - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 224
 
-★ Stars: 1270
+★ Stars: 1272
 
 [Open repository](https://github.com/axinc-ai/ailia-models)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1272 | 224 | 
 | 2023-03-01 | 1270 | 224 | 
 | 2023-02-27 | 1265 | 224 | 
 | 2023-02-26 | 1262 | 223 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1213 | 219 | 
 | 2023-02-02 | 1209 | 219 | 
 | 2023-02-01 | 1208 | 219 | 
-| 2023-01-31 | 1205 | 218 | 
 

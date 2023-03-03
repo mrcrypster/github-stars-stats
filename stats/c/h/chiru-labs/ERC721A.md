@@ -1,8 +1,8 @@
 # chiru-labs/ERC721A - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 831
+☋ Forks: 833
 
 ★ Stars: 2214
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2214 | 833 | 
 | 2023-03-01 | 2214 | 831 | 
 | 2023-02-28 | 2210 | 829 | 
 | 2023-02-27 | 2209 | 828 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2171 | 818 | 
 | 2023-02-02 | 2162 | 817 | 
 | 2023-02-01 | 2162 | 817 | 
-| 2023-01-31 | 2160 | 815 | 
 

@@ -1,10 +1,10 @@
 # skywind3000/preserve-cd - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 344
 
-★ Stars: 3057
+★ Stars: 3059
 
 [Open repository](https://github.com/skywind3000/preserve-cd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3059 | 344 | 
 | 2023-03-01 | 3057 | 344 | 
 | 2023-02-28 | 3055 | 344 | 
 | 2023-02-26 | 3056 | 344 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3018 | 344 | 
 | 2023-02-03 | 3018 | 344 | 
 | 2023-02-02 | 3014 | 343 | 
-| 2023-01-31 | 3012 | 343 | 
 

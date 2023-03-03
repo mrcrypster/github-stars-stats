@@ -1,10 +1,10 @@
 # JuliaDiff/ChainRulesCore.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 50
 
-★ Stars: 202
+★ Stars: 204
 
 [Open repository](https://github.com/JuliaDiff/ChainRulesCore.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 204 | 50 | 
 | 2023-03-01 | 202 | 50 | 
 | 2023-02-28 | 201 | 50 | 
 | 2023-02-27 | 201 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 196 | 49 | 
 | 2023-02-03 | 196 | 49 | 
 | 2023-02-02 | 196 | 49 | 
-| 2023-02-01 | 195 | 49 | 
 

@@ -1,8 +1,8 @@
 # petejohanson/technikable-zmk-config - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 58
+☋ Forks: 59
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2 | 59 | 
 | 2023-03-01 | 2 | 58 | 
 | 2023-02-28 | 2 | 58 | 
 | 2023-02-27 | 2 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3 | 57 | 
 | 2023-02-03 | 3 | 57 | 
 | 2023-02-02 | 3 | 57 | 
-| 2023-01-31 | 3 | 57 | 
 

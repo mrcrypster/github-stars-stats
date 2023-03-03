@@ -1,10 +1,10 @@
 # samply/blaze - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 92
+★ Stars: 94
 
 [Open repository](https://github.com/samply/blaze)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 94 | 12 | 
 | 2023-03-01 | 92 | 12 | 
 | 2023-02-28 | 92 | 12 | 
 | 2023-02-27 | 91 | 12 | 

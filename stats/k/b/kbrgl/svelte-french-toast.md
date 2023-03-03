@@ -1,10 +1,10 @@
 # kbrgl/svelte-french-toast - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/kbrgl/svelte-french-toast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 313 | 9 | 
 | 2023-03-01 | 312 | 9 | 
 | 2023-02-28 | 310 | 8 | 
 | 2023-02-27 | 306 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 269 | 7 | 
 | 2023-02-02 | 267 | 7 | 
 | 2023-02-01 | 265 | 7 | 
-| 2023-01-31 | 265 | 7 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 02
 
-☋ Forks: 304
+☋ Forks: 319
 
-★ Stars: 166
+★ Stars: 168
 
 [Open repository](https://github.com/Dadoum/Provision)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 166 | 304 | 
+| 2023-03-02 | 168 | 319 | 
 | 2023-03-01 | 166 | 299 | 
 | 2023-02-28 | 164 | 273 | 
 | 2023-02-27 | 158 | 238 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 94 | 33 | 
 | 2023-02-02 | 93 | 33 | 
 | 2023-02-01 | 93 | 33 | 
-| 2023-01-31 | 92 | 33 | 
 

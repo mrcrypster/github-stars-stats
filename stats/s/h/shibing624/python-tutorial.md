@@ -1,10 +1,10 @@
 # shibing624/python-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 271
 
-★ Stars: 1128
+★ Stars: 1129
 
 [Open repository](https://github.com/shibing624/python-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1129 | 271 | 
 | 2023-03-01 | 1128 | 271 | 
 | 2023-02-28 | 1128 | 271 | 
 | 2023-02-26 | 1125 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1088 | 268 | 
 | 2023-02-02 | 1085 | 268 | 
 | 2023-02-01 | 1083 | 268 | 
-| 2023-01-31 | 1079 | 268 | 
 

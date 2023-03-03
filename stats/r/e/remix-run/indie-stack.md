@@ -1,10 +1,10 @@
 # remix-run/indie-stack - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 250
+☋ Forks: 251
 
-★ Stars: 755
+★ Stars: 757
 
 [Open repository](https://github.com/remix-run/indie-stack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 757 | 251 | 
 | 2023-03-01 | 755 | 250 | 
 | 2023-02-28 | 750 | 250 | 
 | 2023-02-26 | 749 | 249 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 717 | 238 | 
 | 2023-02-03 | 715 | 238 | 
 | 2023-02-02 | 714 | 235 | 
-| 2023-02-01 | 712 | 234 | 
 

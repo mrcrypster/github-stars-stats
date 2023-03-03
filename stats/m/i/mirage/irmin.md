@@ -1,10 +1,10 @@
 # mirage/irmin - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 154
 
-★ Stars: 1677
+★ Stars: 1678
 
 [Open repository](https://github.com/mirage/irmin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1678 | 154 | 
 | 2023-03-01 | 1677 | 154 | 
 | 2023-02-28 | 1677 | 154 | 
 | 2023-02-27 | 1677 | 154 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1674 | 154 | 
 | 2023-02-02 | 1674 | 154 | 
 | 2023-02-01 | 1674 | 154 | 
-| 2023-01-31 | 1673 | 154 | 
 

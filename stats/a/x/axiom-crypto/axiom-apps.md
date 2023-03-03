@@ -1,10 +1,10 @@
 # axiom-crypto/axiom-apps - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/axiom-crypto/axiom-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 21 | 3 | 
 | 2023-03-01 | 20 | 2 | 
 | 2023-02-28 | 20 | 2 | 
 | 2023-02-27 | 20 | 2 | 

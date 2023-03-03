@@ -1,6 +1,6 @@
 # uloco/bluloco.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 132 | 5 | 
 | 2023-03-01 | 132 | 5 | 
 | 2023-02-27 | 132 | 5 | 
 | 2023-02-26 | 132 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 108 | 3 | 
 | 2023-02-02 | 107 | 3 | 
 | 2023-02-01 | 105 | 3 | 
-| 2023-01-31 | 105 | 3 | 
 

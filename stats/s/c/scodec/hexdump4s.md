@@ -1,10 +1,10 @@
 # scodec/hexdump4s - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/scodec/hexdump4s)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 37 | 3 | 
 | 2023-03-01 | 36 | 3 | 
 | 2023-02-27 | 36 | 3 | 
 | 2023-02-26 | 36 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 36 | 3 | 
 | 2023-02-03 | 36 | 3 | 
 | 2023-02-02 | 36 | 3 | 
-| 2023-01-31 | 35 | 3 | 
 

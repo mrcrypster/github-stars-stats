@@ -1,10 +1,10 @@
 # pairmesh/pairmesh - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 36
 
-★ Stars: 163
+★ Stars: 162
 
 [Open repository](https://github.com/pairmesh/pairmesh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 162 | 36 | 
 | 2023-03-01 | 163 | 36 | 
 | 2023-02-28 | 163 | 36 | 
 | 2023-02-27 | 163 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 161 | 36 | 
 | 2023-02-02 | 161 | 36 | 
 | 2023-02-01 | 161 | 36 | 
-| 2023-01-31 | 160 | 36 | 
 

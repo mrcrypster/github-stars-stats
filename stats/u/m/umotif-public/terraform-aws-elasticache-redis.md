@@ -1,6 +1,6 @@
 # umotif-public/terraform-aws-elasticache-redis - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 35 | 50 | 
 | 2023-03-01 | 35 | 50 | 
 | 2023-02-27 | 35 | 50 | 
 | 2023-02-26 | 35 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 35 | 50 | 
 | 2023-02-03 | 35 | 50 | 
 | 2023-02-01 | 35 | 50 | 
-| 2023-01-31 | 35 | 50 | 
 

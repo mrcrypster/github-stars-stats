@@ -1,10 +1,10 @@
 # bigemon/ChatGPT-ToolBox - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 49
 
-★ Stars: 593
+★ Stars: 609
 
 [Open repository](https://github.com/bigemon/ChatGPT-ToolBox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 609 | 49 | 
 | 2023-03-01 | 593 | 49 | 
 | 2023-02-27 | 574 | 47 | 
 | 2023-02-26 | 554 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 192 | 19 | 
 | 2023-02-03 | 188 | 19 | 
 | 2023-02-02 | 184 | 19 | 
-| 2023-01-31 | 183 | 19 | 
 

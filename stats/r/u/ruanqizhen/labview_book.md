@@ -1,10 +1,10 @@
 # ruanqizhen/labview_book - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 102
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/ruanqizhen/labview_book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 143 | 102 | 
 | 2023-03-01 | 142 | 102 | 
 | 2023-02-27 | 141 | 102 | 
 | 2023-02-26 | 141 | 102 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 132 | 97 | 
 | 2023-02-03 | 132 | 97 | 
 | 2023-02-02 | 131 | 97 | 
-| 2023-01-31 | 131 | 97 | 
 

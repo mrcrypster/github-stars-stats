@@ -1,8 +1,8 @@
 # project-jedi/jvcl - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 297
+☋ Forks: 296
 
 ★ Stars: 534
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 534 | 296 | 
 | 2023-03-01 | 534 | 297 | 
 | 2023-02-28 | 533 | 297 | 
 | 2023-02-27 | 533 | 296 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 533 | 295 | 
 | 2023-02-03 | 533 | 295 | 
 | 2023-02-02 | 533 | 295 | 
-| 2023-02-01 | 533 | 295 | 
 

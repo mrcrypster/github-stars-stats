@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 58
+★ Stars: 60
 
 [Open repository](https://github.com/haskell/play-haskell)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 58 | 4 | 
+| 2023-03-02 | 60 | 4 | 
 | 2023-03-01 | 58 | 4 | 
 | 2023-02-28 | 57 | 3 | 
 | 2023-02-27 | 51 | 1 | 

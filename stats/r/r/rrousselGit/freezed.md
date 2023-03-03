@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 199
 
-★ Stars: 1469
+★ Stars: 1470
 
 [Open repository](https://github.com/rrousselGit/freezed)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 1469 | 199 | 
+| 2023-03-02 | 1470 | 199 | 
 | 2023-03-01 | 1469 | 199 | 
 | 2023-02-27 | 1464 | 198 | 
 | 2023-02-26 | 1462 | 198 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1437 | 196 | 
 | 2023-02-03 | 1432 | 195 | 
 | 2023-02-01 | 1431 | 195 | 
-| 2023-01-31 | 1428 | 195 | 
 

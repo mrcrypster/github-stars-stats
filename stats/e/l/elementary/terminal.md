@@ -1,6 +1,6 @@
 # elementary/terminal - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 370 | 92 | 
 | 2023-03-01 | 370 | 92 | 
 | 2023-02-28 | 370 | 92 | 
 | 2023-02-27 | 370 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 363 | 91 | 
 | 2023-02-02 | 362 | 91 | 
 | 2023-02-01 | 362 | 91 | 
-| 2023-01-31 | 362 | 91 | 
 

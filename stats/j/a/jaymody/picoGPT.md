@@ -1,10 +1,10 @@
 # jaymody/picoGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 221
+☋ Forks: 224
 
-★ Stars: 1901
+★ Stars: 1919
 
 [Open repository](https://github.com/jaymody/picoGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1919 | 224 | 
 | 2023-03-01 | 1901 | 221 | 
 | 2023-02-28 | 1842 | 210 | 
 | 2023-02-26 | 1784 | 200 | 

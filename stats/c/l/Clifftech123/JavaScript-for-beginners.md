@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 02
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/Clifftech123/JavaScript-for-beginners)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 19 | 2 | 
+| 2023-03-02 | 20 | 3 | 
 | 2023-03-01 | 19 | 2 | 
 | 2023-02-28 | 17 | 2 | 
 | 2023-02-27 | 17 | 2 | 

@@ -1,10 +1,10 @@
 # TheAppleTucker/backend-GPT - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 232
 
-★ Stars: 2616
+★ Stars: 2618
 
 [Open repository](https://github.com/TheAppleTucker/backend-GPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2618 | 232 | 
 | 2023-03-01 | 2616 | 232 | 
 | 2023-02-28 | 2612 | 231 | 
 | 2023-02-27 | 2605 | 231 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2343 | 197 | 
 | 2023-02-02 | 2313 | 196 | 
 | 2023-02-01 | 2278 | 186 | 
-| 2023-01-31 | 2198 | 181 | 
 

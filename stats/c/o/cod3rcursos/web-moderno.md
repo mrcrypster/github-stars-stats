@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 1350
 
-★ Stars: 3209
+★ Stars: 3210
 
 [Open repository](https://github.com/cod3rcursos/web-moderno)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 3209 | 1350 | 
+| 2023-03-02 | 3210 | 1350 | 
 | 2023-03-01 | 3210 | 1350 | 
 | 2023-02-28 | 3205 | 1346 | 
 | 2023-02-26 | 3205 | 1344 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 3163 | 1341 | 
 | 2023-02-03 | 3161 | 1341 | 
 | 2023-02-02 | 3162 | 1341 | 
-| 2023-02-01 | 3162 | 1342 | 
 

@@ -1,10 +1,10 @@
 # Bnyro/TranslateYou - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 15
 
-★ Stars: 237
+★ Stars: 240
 
 [Open repository](https://github.com/Bnyro/TranslateYou)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 240 | 15 | 
 | 2023-03-01 | 237 | 15 | 
 | 2023-02-28 | 235 | 15 | 
 | 2023-02-27 | 234 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 212 | 15 | 
 | 2023-02-02 | 210 | 15 | 
 | 2023-02-01 | 207 | 15 | 
-| 2023-01-31 | 206 | 15 | 
 

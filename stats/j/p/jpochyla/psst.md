@@ -1,10 +1,10 @@
 # jpochyla/psst - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 188
 
-★ Stars: 7372
+★ Stars: 7375
 
 [Open repository](https://github.com/jpochyla/psst)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 7375 | 188 | 
 | 2023-03-01 | 7372 | 188 | 
 | 2023-02-28 | 7369 | 188 | 
 | 2023-02-27 | 7369 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 7298 | 187 | 
 | 2023-02-03 | 7297 | 187 | 
 | 2023-02-02 | 7295 | 186 | 
-| 2023-02-01 | 7296 | 186 | 
 

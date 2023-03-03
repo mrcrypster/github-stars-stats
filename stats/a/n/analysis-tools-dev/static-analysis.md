@@ -1,10 +1,10 @@
 # analysis-tools-dev/static-analysis - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1229
+☋ Forks: 1231
 
-★ Stars: 10936
+★ Stars: 10938
 
 [Open repository](https://github.com/analysis-tools-dev/static-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 10938 | 1231 | 
 | 2023-03-01 | 10936 | 1229 | 
 | 2023-02-28 | 10930 | 1228 | 
 | 2023-02-26 | 10929 | 1227 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 10834 | 1216 | 
 | 2023-02-02 | 10823 | 1216 | 
 | 2023-02-01 | 10812 | 1215 | 
-| 2023-01-31 | 10792 | 1215 | 
 

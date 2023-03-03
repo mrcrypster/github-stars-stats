@@ -1,10 +1,10 @@
 # xmartlabs/Eureka - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1333
 
-★ Stars: 11581
+★ Stars: 11583
 
 [Open repository](https://github.com/xmartlabs/Eureka)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 11583 | 1333 | 
 | 2023-03-01 | 11581 | 1333 | 
 | 2023-02-27 | 11582 | 1333 | 
 | 2023-02-26 | 11581 | 1333 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 11572 | 1327 | 
 | 2023-02-03 | 11572 | 1327 | 
 | 2023-02-02 | 11571 | 1328 | 
-| 2023-02-01 | 11569 | 1328 | 
 

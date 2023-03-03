@@ -1,6 +1,6 @@
 # activemerchant/active_merchant - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 2512
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4475 | 2512 | 
 | 2023-03-01 | 4475 | 2512 | 
 | 2023-02-28 | 4474 | 2512 | 
 | 2023-02-27 | 4474 | 2512 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 4467 | 2513 | 
 | 2023-02-03 | 4467 | 2513 | 
 | 2023-02-02 | 4468 | 2513 | 
-| 2023-01-31 | 4468 | 2513 | 
 

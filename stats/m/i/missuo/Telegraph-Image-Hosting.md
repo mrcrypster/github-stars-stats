@@ -1,10 +1,10 @@
 # missuo/Telegraph-Image-Hosting - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 42
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/missuo/Telegraph-Image-Hosting)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 109 | 42 | 
 | 2023-03-01 | 108 | 42 | 
 | 2023-02-28 | 108 | 42 | 
 | 2023-02-26 | 107 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 104 | 40 | 
 | 2023-02-02 | 104 | 40 | 
 | 2023-02-01 | 104 | 40 | 
-| 2023-01-31 | 104 | 40 | 
 

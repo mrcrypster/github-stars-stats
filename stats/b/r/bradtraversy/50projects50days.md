@@ -1,10 +1,10 @@
 # bradtraversy/50projects50days - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 7041
+☋ Forks: 7053
 
-★ Stars: 26426
+★ Stars: 26460
 
 [Open repository](https://github.com/bradtraversy/50projects50days)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 26460 | 7053 | 
 | 2023-03-01 | 26426 | 7041 | 
 | 2023-02-28 | 26384 | 7021 | 
 | 2023-02-27 | 26374 | 7016 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 25397 | 6733 | 
 | 2023-02-02 | 25333 | 6718 | 
 | 2023-02-01 | 25300 | 6714 | 
-| 2023-01-31 | 25249 | 6700 | 
 

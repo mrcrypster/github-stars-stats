@@ -1,6 +1,6 @@
 # pulp-platform/axi_slice - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3 | 14 | 
 | 2023-03-01 | 3 | 14 | 
 | 2023-02-28 | 3 | 14 | 
 | 2023-02-27 | 3 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3 | 14 | 
 | 2023-02-02 | 3 | 14 | 
 | 2023-02-01 | 3 | 14 | 
-| 2023-01-31 | 3 | 14 | 
 

@@ -1,10 +1,10 @@
 # ahmedtariq01/Cloud-DevOps-Learning-Resources - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 223
 
-★ Stars: 1102
+★ Stars: 1103
 
 [Open repository](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1103 | 223 | 
 | 2023-03-01 | 1102 | 223 | 
 | 2023-02-27 | 1101 | 223 | 
 | 2023-02-26 | 1100 | 222 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1091 | 212 | 
 | 2023-02-02 | 1091 | 212 | 
 | 2023-02-01 | 1090 | 212 | 
-| 2023-01-31 | 1088 | 211 | 
 

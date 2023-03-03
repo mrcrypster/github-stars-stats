@@ -1,6 +1,6 @@
 # riscv/riscv-cfi - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 23 | 10 | 
 | 2023-03-01 | 23 | 10 | 
 | 2023-02-27 | 23 | 10 | 
 | 2023-02-26 | 21 | 10 | 

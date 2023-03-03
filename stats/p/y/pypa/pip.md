@@ -1,10 +1,10 @@
 # pypa/pip - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 2862
+☋ Forks: 2864
 
-★ Stars: 8578
+★ Stars: 8582
 
 [Open repository](https://github.com/pypa/pip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 8582 | 2864 | 
 | 2023-03-01 | 8578 | 2862 | 
 | 2023-02-28 | 8575 | 2861 | 
 | 2023-02-27 | 8575 | 2861 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 8513 | 2834 | 
 | 2023-02-02 | 8509 | 2833 | 
 | 2023-02-01 | 8511 | 2831 | 
-| 2023-01-31 | 8509 | 2829 | 
 

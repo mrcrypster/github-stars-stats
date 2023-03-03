@@ -1,10 +1,10 @@
 # Findomain/Findomain - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 337
+☋ Forks: 336
 
-★ Stars: 2732
+★ Stars: 2735
 
 [Open repository](https://github.com/Findomain/Findomain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2735 | 336 | 
 | 2023-03-01 | 2732 | 337 | 
 | 2023-02-27 | 2732 | 337 | 
 | 2023-02-26 | 2732 | 337 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2718 | 335 | 
 | 2023-02-03 | 2718 | 335 | 
 | 2023-02-02 | 2717 | 334 | 
-| 2023-02-01 | 2717 | 334 | 
 

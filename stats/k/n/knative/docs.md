@@ -1,8 +1,8 @@
 # knative/docs - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1140
+☋ Forks: 1141
 
 ★ Stars: 3833
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3833 | 1141 | 
 | 2023-03-01 | 3833 | 1140 | 
 | 2023-02-28 | 3832 | 1140 | 
 | 2023-02-27 | 3830 | 1139 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3802 | 1129 | 
 | 2023-02-03 | 3800 | 1127 | 
 | 2023-02-02 | 3796 | 1126 | 
-| 2023-02-01 | 3794 | 1125 | 
 

@@ -1,10 +1,10 @@
 # cloudquery/cloudquery - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 298
+☋ Forks: 302
 
-★ Stars: 3823
+★ Stars: 3853
 
 [Open repository](https://github.com/cloudquery/cloudquery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3853 | 302 | 
 | 2023-03-01 | 3823 | 298 | 
 | 2023-02-28 | 3745 | 298 | 
 | 2023-02-27 | 3643 | 297 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2915 | 276 | 
 | 2023-02-02 | 2902 | 274 | 
 | 2023-02-01 | 2876 | 274 | 
-| 2023-01-31 | 2860 | 273 | 
 

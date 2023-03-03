@@ -1,6 +1,6 @@
 # toutiaoio/A-Guide-To-Stockpiling - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 365 | 43 | 
 | 2023-03-01 | 365 | 43 | 
 | 2023-02-28 | 365 | 43 | 
 | 2023-02-27 | 365 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 365 | 43 | 
 | 2023-02-02 | 365 | 43 | 
 | 2023-02-01 | 365 | 43 | 
-| 2023-01-31 | 365 | 43 | 
 

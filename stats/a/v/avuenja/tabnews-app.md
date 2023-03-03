@@ -1,10 +1,10 @@
 # avuenja/tabnews-app - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/avuenja/tabnews-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 76 | 7 | 
 | 2023-03-01 | 75 | 7 | 
 | 2023-02-28 | 75 | 7 | 
 | 2023-02-27 | 75 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 75 | 7 | 
 | 2023-02-02 | 75 | 7 | 
 | 2023-02-01 | 75 | 7 | 
-| 2023-01-31 | 75 | 7 | 
 

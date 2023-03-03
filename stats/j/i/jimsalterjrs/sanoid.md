@@ -1,10 +1,10 @@
 # jimsalterjrs/sanoid - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 258
 
-★ Stars: 2436
+★ Stars: 2437
 
 [Open repository](https://github.com/jimsalterjrs/sanoid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2437 | 258 | 
 | 2023-03-01 | 2436 | 258 | 
 | 2023-02-28 | 2434 | 258 | 
 | 2023-02-27 | 2433 | 258 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2409 | 258 | 
 | 2023-02-02 | 2409 | 257 | 
 | 2023-02-01 | 2409 | 257 | 
-| 2023-01-31 | 2409 | 257 | 
 

@@ -1,6 +1,6 @@
 # allenai/common - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 9 | 15 | 
 | 2023-03-01 | 9 | 15 | 
 | 2023-02-28 | 9 | 15 | 
 | 2023-02-26 | 9 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 9 | 15 | 
 | 2023-02-02 | 9 | 15 | 
 | 2023-02-01 | 9 | 15 | 
-| 2023-01-31 | 9 | 15 | 
 

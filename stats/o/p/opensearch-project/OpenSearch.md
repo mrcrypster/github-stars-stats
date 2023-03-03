@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 02
 
-☋ Forks: 911
+☋ Forks: 914
 
-★ Stars: 6499
+★ Stars: 6506
 
 [Open repository](https://github.com/opensearch-project/OpenSearch)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 6499 | 911 | 
+| 2023-03-02 | 6506 | 914 | 
 | 2023-03-01 | 6498 | 911 | 
 | 2023-02-28 | 6489 | 910 | 
 | 2023-02-27 | 6484 | 907 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 6360 | 888 | 
 | 2023-02-02 | 6356 | 886 | 
 | 2023-02-01 | 6350 | 882 | 
-| 2023-01-31 | 6342 | 881 | 
 

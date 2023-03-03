@@ -1,10 +1,10 @@
 # horsefacts/weth-invariant-testing - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/horsefacts/weth-invariant-testing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 77 | 4 | 
 | 2023-03-01 | 76 | 4 | 
 | 2023-02-28 | 76 | 4 | 
 | 2023-02-26 | 76 | 4 | 

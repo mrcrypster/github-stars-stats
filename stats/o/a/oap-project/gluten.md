@@ -1,10 +1,10 @@
 # oap-project/gluten - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 126
 
-★ Stars: 412
+★ Stars: 415
 
 [Open repository](https://github.com/oap-project/gluten)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 415 | 126 | 
 | 2023-03-01 | 412 | 126 | 
 | 2023-02-28 | 403 | 125 | 
 | 2023-02-26 | 403 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 388 | 116 | 
 | 2023-02-02 | 386 | 116 | 
 | 2023-02-01 | 384 | 116 | 
-| 2023-01-31 | 385 | 116 | 
 

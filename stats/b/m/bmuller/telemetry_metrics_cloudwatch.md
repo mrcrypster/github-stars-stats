@@ -1,6 +1,6 @@
 # bmuller/telemetry_metrics_cloudwatch - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 19 | 7 | 
 | 2023-03-01 | 19 | 7 | 
 | 2023-02-28 | 19 | 7 | 
 | 2023-02-27 | 19 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 18 | 7 | 
 | 2023-02-02 | 18 | 7 | 
 | 2023-02-01 | 18 | 7 | 
-| 2023-01-31 | 18 | 7 | 
 

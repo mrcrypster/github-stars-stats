@@ -1,10 +1,10 @@
 # ArrakisFinance/vault-v1-core - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/ArrakisFinance/vault-v1-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 29 | 9 | 
 | 2023-03-01 | 28 | 9 | 
 | 2023-02-28 | 28 | 9 | 
 | 2023-02-27 | 28 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 28 | 8 | 
 | 2023-02-02 | 28 | 8 | 
 | 2023-02-01 | 27 | 8 | 
-| 2023-01-31 | 27 | 8 | 
 

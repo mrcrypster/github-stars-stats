@@ -1,10 +1,10 @@
 # EnixCoda/Gitako - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 85
 
-★ Stars: 2100
+★ Stars: 2102
 
 [Open repository](https://github.com/EnixCoda/Gitako)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2102 | 85 | 
 | 2023-03-01 | 2100 | 85 | 
 | 2023-02-28 | 2101 | 85 | 
 | 2023-02-26 | 2099 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2076 | 85 | 
 | 2023-02-03 | 2074 | 85 | 
 | 2023-02-01 | 2072 | 85 | 
-| 2023-01-31 | 2071 | 85 | 
 

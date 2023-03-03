@@ -1,10 +1,10 @@
 # roboticcam/machine-learning-notes - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1672
 
-★ Stars: 7332
+★ Stars: 7336
 
 [Open repository](https://github.com/roboticcam/machine-learning-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 7336 | 1672 | 
 | 2023-03-01 | 7332 | 1672 | 
 | 2023-02-28 | 7329 | 1672 | 
 | 2023-02-27 | 7326 | 1672 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 7294 | 1664 | 
 | 2023-02-02 | 7293 | 1664 | 
 | 2023-02-01 | 7291 | 1664 | 
-| 2023-01-31 | 7291 | 1664 | 
 

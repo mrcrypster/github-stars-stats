@@ -1,10 +1,10 @@
 # Pool-Of-Tears/Myne - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 358
+★ Stars: 360
 
 [Open repository](https://github.com/Pool-Of-Tears/Myne)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 360 | 25 | 
 | 2023-03-01 | 358 | 25 | 
 | 2023-02-28 | 353 | 23 | 
 | 2023-02-27 | 352 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 283 | 22 | 
 | 2023-02-02 | 280 | 20 | 
 | 2023-02-01 | 269 | 20 | 
-| 2023-01-31 | 250 | 19 | 
 

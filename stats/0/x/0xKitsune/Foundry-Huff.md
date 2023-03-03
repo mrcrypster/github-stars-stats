@@ -1,10 +1,10 @@
 # 0xKitsune/Foundry-Huff - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/0xKitsune/Foundry-Huff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 45 | - | 
 | 2023-03-01 | 44 | - | 
 | 2023-02-28 | 44 | - | 
 | 2023-02-26 | 44 | - | 

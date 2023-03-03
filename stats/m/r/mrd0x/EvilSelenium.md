@@ -1,10 +1,10 @@
 # mrd0x/EvilSelenium - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 548
+★ Stars: 549
 
 [Open repository](https://github.com/mrd0x/EvilSelenium)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 549 | 86 | 
 | 2023-03-01 | 548 | 85 | 
 | 2023-02-28 | 548 | 85 | 
 | 2023-02-26 | 548 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 545 | 85 | 
 | 2023-02-02 | 545 | 85 | 
 | 2023-02-01 | 545 | 85 | 
-| 2023-01-31 | 544 | 85 | 
 

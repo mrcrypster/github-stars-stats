@@ -1,6 +1,6 @@
 # microsoft/ManagedEsent - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 224 | 33 | 
 | 2023-03-01 | 224 | 33 | 
 | 2023-02-27 | 224 | 33 | 
 | 2023-02-26 | 224 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 222 | 32 | 
 | 2023-02-03 | 222 | 32 | 
 | 2023-02-01 | 222 | 32 | 
-| 2023-01-31 | 222 | 32 | 
 

@@ -1,10 +1,10 @@
 # argoproj/argo-workflows - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 2716
+☋ Forks: 2718
 
-★ Stars: 12569
+★ Stars: 12577
 
 [Open repository](https://github.com/argoproj/argo-workflows)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 12577 | 2718 | 
 | 2023-03-01 | 12569 | 2716 | 
 | 2023-02-28 | 12565 | 2716 | 
 | 2023-02-27 | 12552 | 2712 | 

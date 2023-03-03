@@ -1,10 +1,10 @@
 # zurawiki/gptcommit - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 705
+★ Stars: 717
 
 [Open repository](https://github.com/zurawiki/gptcommit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 717 | 25 | 
 | 2023-03-01 | 705 | 24 | 
 | 2023-02-28 | 703 | 24 | 
 | 2023-02-27 | 698 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 362 | 12 | 
 | 2023-02-02 | 294 | 6 | 
 | 2023-02-01 | 288 | 6 | 
-| 2023-01-31 | 280 | 5 | 
 

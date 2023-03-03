@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 1270
 
-★ Stars: 4363
+★ Stars: 4370
 
 [Open repository](https://github.com/WebStackPage/WebStackPage.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 4363 | 1270 | 
+| 2023-03-02 | 4370 | 1270 | 
 | 2023-02-28 | 4356 | 1268 | 
 | 2023-02-27 | 4349 | 1266 | 
 | 2023-02-26 | 4348 | 1266 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 4282 | 1251 | 
 | 2023-02-02 | 4278 | 1251 | 
 | 2023-02-01 | 4273 | 1250 | 
-| 2023-01-31 | 4271 | 1250 | 
 

@@ -1,6 +1,6 @@
 # cypress-io/cypress-realworld-app - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1436
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4374 | 1436 | 
 | 2023-03-01 | 4374 | 1436 | 
 | 2023-02-28 | 4365 | 1432 | 
 | 2023-02-26 | 4362 | 1430 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 4309 | 1393 | 
 | 2023-02-03 | 4309 | 1394 | 
 | 2023-02-02 | 4305 | 1392 | 
-| 2023-02-01 | 4299 | 1391 | 
 

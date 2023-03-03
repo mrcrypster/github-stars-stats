@@ -1,10 +1,10 @@
 # FuzzySecurity/Fermion - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 72
 
-★ Stars: 552
+★ Stars: 554
 
 [Open repository](https://github.com/FuzzySecurity/Fermion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 554 | 72 | 
 | 2023-03-01 | 552 | 72 | 
 | 2023-02-28 | 552 | 72 | 
 | 2023-02-27 | 551 | 71 | 

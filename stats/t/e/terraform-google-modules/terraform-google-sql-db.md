@@ -1,8 +1,8 @@
 # terraform-google-modules/terraform-google-sql-db - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 362
+☋ Forks: 363
 
 ★ Stars: 212
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 212 | 363 | 
 | 2023-03-01 | 212 | 362 | 
 | 2023-02-28 | 211 | 362 | 
 | 2023-02-27 | 210 | 361 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 208 | 354 | 
 | 2023-02-02 | 208 | 353 | 
 | 2023-02-01 | 208 | 353 | 
-| 2023-01-31 | 208 | 353 | 
 

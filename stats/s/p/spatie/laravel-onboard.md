@@ -1,8 +1,8 @@
 # spatie/laravel-onboard - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 19
+☋ Forks: 18
 
 ★ Stars: 483
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 483 | 18 | 
 | 2023-03-01 | 483 | 19 | 
 | 2023-02-28 | 481 | 19 | 
 | 2023-02-26 | 481 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 477 | 18 | 
 | 2023-02-02 | 477 | 18 | 
 | 2023-02-01 | 477 | 18 | 
-| 2023-01-31 | 477 | 18 | 
 

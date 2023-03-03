@@ -1,10 +1,10 @@
 # wjz304/Redpill_CustomBuild - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 475
+☋ Forks: 479
 
-★ Stars: 889
+★ Stars: 893
 
 [Open repository](https://github.com/wjz304/Redpill_CustomBuild)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 893 | 479 | 
 | 2023-03-01 | 889 | 475 | 
 | 2023-02-28 | 887 | 475 | 
 | 2023-02-26 | 880 | 472 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 814 | 450 | 
 | 2023-02-03 | 803 | 447 | 
 | 2023-02-02 | 802 | 445 | 
-| 2023-01-31 | 800 | 443 | 
 

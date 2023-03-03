@@ -1,10 +1,10 @@
 # mitchellh/nixos-config - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 130
 
-★ Stars: 1152
+★ Stars: 1153
 
 [Open repository](https://github.com/mitchellh/nixos-config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1153 | 130 | 
 | 2023-03-01 | 1152 | 130 | 
 | 2023-02-28 | 1151 | 130 | 
 | 2023-02-27 | 1150 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1119 | 128 | 
 | 2023-02-02 | 1118 | 128 | 
 | 2023-02-01 | 1117 | 128 | 
-| 2023-01-31 | 1117 | 128 | 
 

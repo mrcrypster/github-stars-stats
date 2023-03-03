@@ -1,10 +1,10 @@
 # lewkamtao/Lew-UI - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 52
 
-★ Stars: 751
+★ Stars: 750
 
 [Open repository](https://github.com/lewkamtao/Lew-UI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 750 | 52 | 
 | 2023-03-01 | 751 | 52 | 
 | 2023-02-28 | 751 | 52 | 
 | 2023-02-26 | 751 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 747 | 50 | 
 | 2023-02-02 | 747 | 50 | 
 | 2023-02-01 | 747 | 50 | 
-| 2023-01-31 | 747 | 50 | 
 

@@ -1,6 +1,6 @@
 # ultraq/thymeleaf-layout-dialect - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 680 | 111 | 
 | 2023-03-01 | 680 | 111 | 
 | 2023-02-28 | 680 | 111 | 
 | 2023-02-26 | 680 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 675 | 111 | 
 | 2023-02-02 | 675 | 111 | 
 | 2023-02-01 | 675 | 111 | 
-| 2023-01-31 | 675 | 111 | 
 

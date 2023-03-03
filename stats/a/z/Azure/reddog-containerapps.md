@@ -1,10 +1,10 @@
 # Azure/reddog-containerapps - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 130
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/Azure/reddog-containerapps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 100 | 130 | 
 | 2023-03-01 | 99 | 130 | 
 | 2023-02-28 | 99 | 130 | 
 | 2023-02-27 | 98 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 92 | 122 | 
 | 2023-02-02 | 91 | 121 | 
 | 2023-02-01 | 90 | 120 | 
-| 2023-01-31 | 90 | 120 | 
 

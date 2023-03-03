@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/aleksandr-vin/Google-Code-Jam-Practice)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 6 | - | 
+| 2023-03-02 | 7 | - | 
 | 2023-03-01 | 6 | - | 
 | 2023-02-28 | 6 | - | 
 | 2023-02-27 | 6 | - | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 6 | - | 
 | 2023-02-02 | 6 | - | 
 | 2023-02-01 | 6 | - | 
-| 2023-01-31 | 6 | - | 
 

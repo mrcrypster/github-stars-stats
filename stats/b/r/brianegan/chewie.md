@@ -1,10 +1,10 @@
 # brianegan/chewie - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 818
+☋ Forks: 819
 
-★ Stars: 1635
+★ Stars: 1637
 
 [Open repository](https://github.com/brianegan/chewie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1637 | 819 | 
 | 2023-03-01 | 1635 | 818 | 
 | 2023-02-28 | 1636 | 818 | 
 | 2023-02-26 | 1636 | 820 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1619 | 817 | 
 | 2023-02-02 | 1619 | 817 | 
 | 2023-02-01 | 1618 | 817 | 
-| 2023-01-31 | 1618 | 817 | 
 

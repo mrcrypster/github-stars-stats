@@ -1,10 +1,10 @@
 # signalapp/Signal-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1942
+☋ Forks: 1945
 
-★ Stars: 8093
+★ Stars: 8096
 
 [Open repository](https://github.com/signalapp/Signal-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 8096 | 1945 | 
 | 2023-03-01 | 8093 | 1942 | 
 | 2023-02-28 | 8092 | 1941 | 
 | 2023-02-27 | 8087 | 1940 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 8052 | 1932 | 
 | 2023-02-03 | 8050 | 1932 | 
 | 2023-02-02 | 8048 | 1933 | 
-| 2023-01-31 | 8048 | 1933 | 
 

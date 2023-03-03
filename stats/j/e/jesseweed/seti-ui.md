@@ -1,8 +1,8 @@
 # jesseweed/seti-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 283
+☋ Forks: 282
 
 ★ Stars: 918
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 918 | 282 | 
 | 2023-03-01 | 918 | 283 | 
 | 2023-02-28 | 917 | 282 | 
 | 2023-02-27 | 917 | 282 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 918 | 282 | 
 | 2023-02-02 | 918 | 282 | 
 | 2023-02-01 | 918 | 281 | 
-| 2023-01-31 | 917 | 281 | 
 

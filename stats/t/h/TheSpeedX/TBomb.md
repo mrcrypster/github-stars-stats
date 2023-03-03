@@ -1,10 +1,10 @@
 # TheSpeedX/TBomb - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1434
+☋ Forks: 1433
 
-★ Stars: 3130
+★ Stars: 3132
 
 [Open repository](https://github.com/TheSpeedX/TBomb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3132 | 1433 | 
 | 2023-03-01 | 3130 | 1434 | 
 | 2023-02-27 | 3126 | 1433 | 
 | 2023-02-26 | 3117 | 1430 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3071 | 1414 | 
 | 2023-02-02 | 3067 | 1414 | 
 | 2023-02-01 | 3062 | 1412 | 
-| 2023-01-31 | 3057 | 1411 | 
 

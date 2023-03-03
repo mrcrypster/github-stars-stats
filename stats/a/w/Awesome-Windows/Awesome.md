@@ -1,10 +1,10 @@
 # Awesome-Windows/Awesome - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 2190
+☋ Forks: 2191
 
-★ Stars: 21712
+★ Stars: 21728
 
 [Open repository](https://github.com/Awesome-Windows/Awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 21728 | 2191 | 
 | 2023-03-01 | 21712 | 2190 | 
 | 2023-02-28 | 21697 | 2189 | 
 | 2023-02-27 | 21682 | 2189 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 21406 | 2179 | 
 | 2023-02-03 | 21391 | 2179 | 
 | 2023-02-02 | 21381 | 2178 | 
-| 2023-01-31 | 21369 | 2176 | 
 

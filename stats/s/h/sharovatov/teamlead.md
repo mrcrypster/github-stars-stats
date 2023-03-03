@@ -1,6 +1,6 @@
 # sharovatov/teamlead - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 818 | 73 | 
 | 2023-03-01 | 818 | 73 | 
 | 2023-02-28 | 815 | 72 | 
 | 2023-02-27 | 814 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 806 | 72 | 
 | 2023-02-02 | 806 | 72 | 
 | 2023-02-01 | 805 | 72 | 
-| 2023-01-31 | 806 | 72 | 
 

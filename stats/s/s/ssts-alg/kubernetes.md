@@ -1,8 +1,8 @@
 # ssts-alg/kubernetes - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | - | 5 | 
 | 2023-03-01 | - | 4 | 
 | 2023-02-28 | - | 4 | 
 | 2023-02-27 | - | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | - | 4 | 
 | 2023-02-02 | - | 4 | 
 | 2023-02-01 | - | 4 | 
-| 2023-01-31 | - | 4 | 
 

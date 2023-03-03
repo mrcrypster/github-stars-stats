@@ -1,6 +1,6 @@
 # ionide/ionide-vscode-fsharp - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 794 | 261 | 
 | 2023-03-01 | 794 | 261 | 
 | 2023-02-28 | 793 | 261 | 
 | 2023-02-27 | 791 | 260 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 788 | 260 | 
 | 2023-02-02 | 787 | 260 | 
 | 2023-02-01 | 786 | 259 | 
-| 2023-01-31 | 786 | 259 | 
 

@@ -1,10 +1,10 @@
 # stritzinger/opcua - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/stritzinger/opcua)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 15 | 1 | 
 | 2023-03-01 | 14 | 1 | 
 | 2023-02-28 | 14 | 1 | 
 | 2023-02-26 | 13 | 1 | 

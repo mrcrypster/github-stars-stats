@@ -1,10 +1,10 @@
 # stoplightio/spectral - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 188
 
-★ Stars: 1821
+★ Stars: 1826
 
 [Open repository](https://github.com/stoplightio/spectral)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1826 | 188 | 
 | 2023-03-01 | 1821 | 188 | 
 | 2023-02-28 | 1820 | 188 | 
 | 2023-02-27 | 1817 | 188 | 

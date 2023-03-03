@@ -1,10 +1,10 @@
 # ValveSoftware/wine - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 153
 
-★ Stars: 890
+★ Stars: 892
 
 [Open repository](https://github.com/ValveSoftware/wine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 892 | 153 | 
 | 2023-03-01 | 890 | 153 | 
 | 2023-02-27 | 890 | 153 | 
 | 2023-02-26 | 888 | 153 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 869 | 149 | 
 | 2023-02-02 | 866 | 150 | 
 | 2023-02-01 | 865 | 150 | 
-| 2023-01-31 | 864 | 150 | 
 

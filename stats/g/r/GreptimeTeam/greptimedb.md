@@ -1,10 +1,10 @@
 # GreptimeTeam/greptimedb - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 2235
+★ Stars: 2241
 
 [Open repository](https://github.com/GreptimeTeam/greptimedb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2241 | 115 | 
 | 2023-03-01 | 2235 | 114 | 
 | 2023-02-28 | 2230 | 113 | 
 | 2023-02-27 | 2223 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2104 | 106 | 
 | 2023-02-02 | 2100 | 106 | 
 | 2023-02-01 | 2094 | 106 | 
-| 2023-01-31 | 2092 | 105 | 
 

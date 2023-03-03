@@ -1,10 +1,10 @@
 # MoonInTheRiver/DiffSinger - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 421
+☋ Forks: 426
 
-★ Stars: 2457
+★ Stars: 2475
 
 [Open repository](https://github.com/MoonInTheRiver/DiffSinger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2475 | 426 | 
 | 2023-03-01 | 2457 | 421 | 
 | 2023-02-27 | 2440 | 419 | 
 | 2023-02-26 | 2417 | 415 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1842 | 294 | 
 | 2023-02-02 | 1797 | 288 | 
 | 2023-02-01 | 1774 | 283 | 
-| 2023-01-31 | 1727 | 273 | 
 

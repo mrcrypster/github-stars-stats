@@ -1,10 +1,10 @@
 # andrewheiss/hikmah-academic-quarto - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/andrewheiss/hikmah-academic-quarto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 57 | 8 | 
 | 2023-03-01 | 56 | 7 | 
 | 2023-02-28 | 56 | 7 | 
 | 2023-02-27 | 56 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 54 | 5 | 
 | 2023-02-02 | 52 | 5 | 
 | 2023-02-01 | 52 | 5 | 
-| 2023-01-31 | 52 | 5 | 
 

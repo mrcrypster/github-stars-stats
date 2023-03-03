@@ -1,8 +1,8 @@
 # nickjj/docker-django-example - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 122
+☋ Forks: 124
 
 ★ Stars: 907
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 907 | 124 | 
 | 2023-03-01 | 907 | 122 | 
 | 2023-02-27 | 899 | 122 | 
 | 2023-02-26 | 883 | 122 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 850 | 120 | 
 | 2023-02-02 | 848 | 120 | 
 | 2023-02-01 | 848 | 120 | 
-| 2023-01-31 | 847 | 120 | 
 

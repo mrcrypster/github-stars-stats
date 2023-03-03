@@ -1,6 +1,6 @@
 # Havoc-OS/android_bionic - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3 | 10 | 
 | 2023-03-01 | 3 | 10 | 
 | 2023-02-28 | 3 | 10 | 
 | 2023-02-26 | 3 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3 | 10 | 
 | 2023-02-03 | 3 | 10 | 
 | 2023-02-02 | 3 | 10 | 
-| 2023-02-01 | 3 | 10 | 
 

@@ -1,6 +1,6 @@
 # helium/blockchain-node - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 60 | 34 | 
 | 2023-03-01 | 60 | 34 | 
 | 2023-02-28 | 60 | 34 | 
 | 2023-02-27 | 60 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 58 | 34 | 
 | 2023-02-02 | 58 | 34 | 
 | 2023-02-01 | 58 | 34 | 
-| 2023-01-31 | 58 | 34 | 
 

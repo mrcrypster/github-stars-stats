@@ -1,10 +1,10 @@
 # slatedocs/slate - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 21905
 
-★ Stars: 34991
+★ Stars: 34994
 
 [Open repository](https://github.com/slatedocs/slate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 34994 | 21905 | 
 | 2023-03-01 | 34991 | 21905 | 
 | 2023-02-28 | 34983 | 21908 | 
 | 2023-02-27 | 34981 | 21903 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 34889 | 21885 | 
 | 2023-02-02 | 34886 | 21888 | 
 | 2023-02-01 | 34881 | 21886 | 
-| 2023-01-31 | 34877 | 21884 | 
 

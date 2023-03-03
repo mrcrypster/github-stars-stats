@@ -1,6 +1,6 @@
 # biratdatta/Webpage-Maker - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 53 | 146 | 
 | 2023-03-01 | 53 | 146 | 
 | 2023-02-28 | 53 | 146 | 
 | 2023-02-27 | 53 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 52 | 147 | 
 | 2023-02-02 | 52 | 147 | 
 | 2023-02-01 | 52 | 147 | 
-| 2023-01-31 | 52 | 147 | 
 

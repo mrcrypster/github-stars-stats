@@ -1,10 +1,10 @@
 # burhanrashid52/PhotoEditor - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 909
 
-★ Stars: 3613
+★ Stars: 3615
 
 [Open repository](https://github.com/burhanrashid52/PhotoEditor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3615 | 909 | 
 | 2023-03-01 | 3613 | 909 | 
 | 2023-02-28 | 3609 | 909 | 
 | 2023-02-27 | 3607 | 908 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3589 | 901 | 
 | 2023-02-03 | 3587 | 901 | 
 | 2023-02-02 | 3588 | 901 | 
-| 2023-02-01 | 3587 | 901 | 
 

@@ -1,10 +1,10 @@
 # AlexFlipnote/GiveMeBadge - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 188
+☋ Forks: 189
 
-★ Stars: 377
+★ Stars: 376
 
 [Open repository](https://github.com/AlexFlipnote/GiveMeBadge)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 376 | 189 | 
 | 2023-03-01 | 377 | 188 | 
 | 2023-02-27 | 373 | 188 | 
 | 2023-02-26 | 372 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 366 | 177 | 
 | 2023-02-02 | 365 | 177 | 
 | 2023-02-01 | 363 | 175 | 
-| 2023-01-31 | 363 | 174 | 
 

@@ -1,10 +1,10 @@
 # leminlimez/DockHider - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 632
+★ Stars: 645
 
 [Open repository](https://github.com/leminlimez/DockHider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 645 | 33 | 
 | 2023-03-01 | 632 | 32 | 
 | 2023-02-28 | 615 | 32 | 
 | 2023-02-27 | 600 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 271 | 10 | 
 | 2023-02-02 | 261 | 9 | 
 | 2023-02-01 | 248 | 9 | 
-| 2023-01-31 | 240 | 9 | 
 

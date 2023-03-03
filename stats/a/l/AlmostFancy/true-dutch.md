@@ -1,6 +1,6 @@
 # AlmostFancy/true-dutch - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 24 | 3 | 
 | 2023-03-01 | 24 | 3 | 
 | 2023-02-28 | 24 | 3 | 
 | 2023-02-27 | 24 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 24 | 2 | 
 | 2023-02-03 | 24 | 2 | 
 | 2023-02-02 | 24 | 2 | 
-| 2023-01-31 | 24 | 2 | 
 

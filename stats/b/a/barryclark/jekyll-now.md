@@ -1,10 +1,10 @@
 # barryclark/jekyll-now - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 34904
+☋ Forks: 34907
 
-★ Stars: 7955
+★ Stars: 7956
 
 [Open repository](https://github.com/barryclark/jekyll-now)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 7956 | 34907 | 
 | 2023-03-01 | 7955 | 34904 | 
 | 2023-02-28 | 7955 | 34907 | 
 | 2023-02-26 | 7954 | 34900 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 7943 | 34828 | 
 | 2023-02-02 | 7944 | 34830 | 
 | 2023-02-01 | 7942 | 34824 | 
-| 2023-01-31 | 7940 | 34824 | 
 

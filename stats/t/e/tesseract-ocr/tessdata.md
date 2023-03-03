@@ -1,10 +1,10 @@
 # tesseract-ocr/tessdata - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1918
+☋ Forks: 1920
 
-★ Stars: 4939
+★ Stars: 4940
 
 [Open repository](https://github.com/tesseract-ocr/tessdata)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4940 | 1920 | 
 | 2023-03-01 | 4939 | 1918 | 
 | 2023-02-28 | 4935 | 1917 | 
 | 2023-02-27 | 4932 | 1916 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 4885 | 1911 | 
 | 2023-02-02 | 4883 | 1912 | 
 | 2023-02-01 | 4880 | 1912 | 
-| 2023-01-31 | 4877 | 1912 | 
 

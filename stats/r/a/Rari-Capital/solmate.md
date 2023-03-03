@@ -1,10 +1,10 @@
 # Rari-Capital/solmate - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 441
 
-★ Stars: 2863
+★ Stars: 2865
 
 [Open repository](https://github.com/Rari-Capital/solmate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2865 | 441 | 
 | 2023-03-01 | 2863 | 441 | 
 | 2023-02-28 | 2860 | 439 | 
 | 2023-02-27 | 2857 | 439 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2787 | 426 | 
 | 2023-02-02 | 2781 | 424 | 
 | 2023-02-01 | 2780 | 424 | 
-| 2023-01-31 | 2777 | 424 | 
 

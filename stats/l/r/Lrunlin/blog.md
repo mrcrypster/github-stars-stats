@@ -1,10 +1,10 @@
 # Lrunlin/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 89
 
-★ Stars: 426
+★ Stars: 428
 
 [Open repository](https://github.com/Lrunlin/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 428 | 89 | 
 | 2023-03-01 | 426 | 89 | 
 | 2023-02-28 | 426 | 89 | 
 | 2023-02-27 | 428 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 399 | 82 | 
 | 2023-02-02 | 396 | 82 | 
 | 2023-02-01 | 394 | 82 | 
-| 2023-01-31 | 393 | 82 | 
 

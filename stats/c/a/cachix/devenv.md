@@ -1,10 +1,10 @@
 # cachix/devenv - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 80
 
-★ Stars: 1668
+★ Stars: 1671
 
 [Open repository](https://github.com/cachix/devenv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1671 | 80 | 
 | 2023-03-01 | 1668 | 80 | 
 | 2023-02-28 | 1667 | 80 | 
 | 2023-02-27 | 1660 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1553 | 67 | 
 | 2023-02-02 | 1552 | 67 | 
 | 2023-02-01 | 1550 | 67 | 
-| 2023-01-31 | 1547 | 66 | 
 

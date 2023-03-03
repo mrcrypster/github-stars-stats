@@ -1,10 +1,10 @@
 # traefik/traefik-helm-chart - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 671
+☋ Forks: 670
 
-★ Stars: 761
+★ Stars: 763
 
 [Open repository](https://github.com/traefik/traefik-helm-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 763 | 670 | 
 | 2023-03-01 | 761 | 671 | 
 | 2023-02-28 | 760 | 670 | 
 | 2023-02-27 | 759 | 668 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 746 | 655 | 
 | 2023-02-02 | 746 | 655 | 
 | 2023-02-01 | 746 | 654 | 
-| 2023-01-31 | 746 | 655 | 
 

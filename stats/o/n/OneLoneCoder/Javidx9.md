@@ -1,10 +1,10 @@
 # OneLoneCoder/Javidx9 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1272
+☋ Forks: 1274
 
-★ Stars: 1612
+★ Stars: 1614
 
 [Open repository](https://github.com/OneLoneCoder/Javidx9)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1614 | 1274 | 
 | 2023-03-01 | 1612 | 1272 | 
 | 2023-02-28 | 1612 | 1271 | 
 | 2023-02-26 | 1612 | 1270 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1586 | 1258 | 
 | 2023-02-03 | 1586 | 1256 | 
 | 2023-02-02 | 1584 | 1255 | 
-| 2023-01-31 | 1583 | 1254 | 
 

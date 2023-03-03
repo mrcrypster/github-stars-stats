@@ -1,0 +1,17 @@
+# fe-oct22-movva/product_catalog_client - stars & forks statistics
+
+Stats updated on Mar 2023, 02
+
+☋ Forks: 4
+
+★ Stars: 0
+
+[Open repository](https://github.com/fe-oct22-movva/product_catalog_client)
+
+[Open detailed stats for fe-oct22-movva/product_catalog_client](https://reviewgithub.com/rep/fe-oct22-movva/product_catalog_client)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-02 | - | 4 | 
+

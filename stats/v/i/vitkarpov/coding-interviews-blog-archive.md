@@ -1,6 +1,6 @@
 # vitkarpov/coding-interviews-blog-archive - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 914 | 78 | 
 | 2023-03-01 | 914 | 78 | 
 | 2023-02-28 | 913 | 78 | 
 | 2023-02-26 | 913 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 898 | 75 | 
 | 2023-02-03 | 897 | 75 | 
 | 2023-02-02 | 895 | 75 | 
-| 2023-02-01 | 894 | 74 | 
 

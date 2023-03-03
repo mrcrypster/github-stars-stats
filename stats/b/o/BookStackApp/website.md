@@ -1,6 +1,6 @@
 # BookStackApp/website - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 104 | 181 | 
 | 2023-03-01 | 104 | 181 | 
 | 2023-02-28 | 104 | 181 | 
 | 2023-02-27 | 104 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 101 | 178 | 
 | 2023-02-02 | 101 | 178 | 
 | 2023-02-01 | 100 | 178 | 
-| 2023-01-31 | 100 | 178 | 
 

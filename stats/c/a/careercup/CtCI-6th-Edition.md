@@ -1,10 +1,10 @@
 # careercup/CtCI-6th-Edition - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 4244
+☋ Forks: 4246
 
-★ Stars: 10538
+★ Stars: 10539
 
 [Open repository](https://github.com/careercup/CtCI-6th-Edition)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 10539 | 4246 | 
 | 2023-03-01 | 10538 | 4244 | 
 | 2023-02-28 | 10536 | 4243 | 
 | 2023-02-27 | 10531 | 4242 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 10487 | 4234 | 
 | 2023-02-02 | 10487 | 4233 | 
 | 2023-02-01 | 10483 | 4232 | 
-| 2023-01-31 | 10478 | 4230 | 
 

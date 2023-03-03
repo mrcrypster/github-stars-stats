@@ -1,10 +1,10 @@
 # smartrecruiters/docker-bakery-example - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/smartrecruiters/docker-bakery-example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4 | 1 | 
 | 2023-03-01 | 3 | 1 | 
 | 2023-02-27 | 3 | 1 | 
 | 2023-02-26 | 3 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3 | 1 | 
 | 2023-02-02 | 3 | 1 | 
 | 2023-02-01 | 3 | 1 | 
-| 2023-01-31 | 3 | 1 | 
 

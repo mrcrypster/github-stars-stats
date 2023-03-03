@@ -1,10 +1,10 @@
 # spacejam/sled - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 326
 
-★ Stars: 6747
+★ Stars: 6748
 
 [Open repository](https://github.com/spacejam/sled)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 6748 | 326 | 
 | 2023-03-01 | 6747 | 326 | 
 | 2023-02-28 | 6746 | 326 | 
 | 2023-02-27 | 6741 | 326 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 6694 | 327 | 
 | 2023-02-03 | 6691 | 326 | 
 | 2023-02-02 | 6691 | 326 | 
-| 2023-01-31 | 6691 | 326 | 
 

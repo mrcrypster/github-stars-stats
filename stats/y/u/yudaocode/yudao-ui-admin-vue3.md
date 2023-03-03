@@ -1,10 +1,10 @@
 # yudaocode/yudao-ui-admin-vue3 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 53
+★ Stars: 57
 
 [Open repository](https://github.com/yudaocode/yudao-ui-admin-vue3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 57 | 15 | 
 | 2023-03-01 | 53 | 14 | 
 | 2023-02-27 | 50 | 11 | 
 | 2023-02-26 | 47 | 11 | 

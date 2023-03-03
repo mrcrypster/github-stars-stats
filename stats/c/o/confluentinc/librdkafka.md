@@ -1,8 +1,8 @@
 # confluentinc/librdkafka - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 2949
+☋ Forks: 2950
 
 ★ Stars: 6550
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 6550 | 2950 | 
 | 2023-03-01 | 6550 | 2949 | 
 | 2023-02-28 | 6545 | 2949 | 
 | 2023-02-27 | 6543 | 2948 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 6493 | 2937 | 
 | 2023-02-02 | 6493 | 2935 | 
 | 2023-02-01 | 6492 | 2933 | 
-| 2023-01-31 | 6490 | 2933 | 
 

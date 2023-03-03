@@ -1,6 +1,6 @@
 # WebAssembly/memory64 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 106 | 17 | 
 | 2023-03-01 | 106 | 17 | 
 | 2023-02-28 | 106 | 17 | 
 | 2023-02-26 | 106 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 102 | 16 | 
 | 2023-02-02 | 102 | 16 | 
 | 2023-02-01 | 102 | 16 | 
-| 2023-01-31 | 101 | 16 | 
 

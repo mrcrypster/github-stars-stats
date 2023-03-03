@@ -1,6 +1,6 @@
 # erosTeam/eros_n - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 156 | 3 | 
 | 2023-03-01 | 156 | 3 | 
 | 2023-02-27 | 156 | 3 | 
 | 2023-02-26 | 155 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 137 | 3 | 
 | 2023-02-02 | 137 | 3 | 
 | 2023-02-01 | 136 | 3 | 
-| 2023-01-31 | 136 | 3 | 
 

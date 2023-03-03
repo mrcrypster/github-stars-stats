@@ -1,6 +1,6 @@
 # regzo2/OSCmooth - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 90 | 6 | 
 | 2023-03-01 | 90 | 6 | 
 | 2023-02-27 | 89 | 6 | 
 | 2023-02-26 | 89 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 83 | 6 | 
 | 2023-02-03 | 82 | 6 | 
 | 2023-02-02 | 81 | 6 | 
-| 2023-02-01 | 80 | 6 | 
 

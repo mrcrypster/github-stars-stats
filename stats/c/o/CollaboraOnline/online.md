@@ -1,10 +1,10 @@
 # CollaboraOnline/online - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 450
+☋ Forks: 451
 
-★ Stars: 988
+★ Stars: 990
 
 [Open repository](https://github.com/CollaboraOnline/online)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 990 | 451 | 
 | 2023-03-01 | 988 | 450 | 
 | 2023-02-28 | 988 | 446 | 
 | 2023-02-27 | 988 | 445 | 

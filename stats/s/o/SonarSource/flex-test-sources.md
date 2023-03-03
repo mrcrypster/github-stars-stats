@@ -1,6 +1,6 @@
 # SonarSource/flex-test-sources - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3 | 3 | 
 | 2023-03-01 | 3 | 3 | 
 | 2023-02-28 | 3 | 3 | 
 | 2023-02-26 | 3 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2 | 3 | 
 | 2023-02-03 | 2 | 3 | 
 | 2023-02-02 | 2 | 3 | 
-| 2023-02-01 | 2 | 3 | 
 

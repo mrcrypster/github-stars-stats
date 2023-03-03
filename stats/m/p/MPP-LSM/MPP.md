@@ -1,6 +1,6 @@
 # MPP-LSM/MPP - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4 | 4 | 
 | 2023-03-01 | 4 | 4 | 
 | 2023-02-28 | 4 | 4 | 
 | 2023-02-27 | 4 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2 | 4 | 
 | 2023-02-02 | 2 | 4 | 
 | 2023-02-01 | 2 | 4 | 
-| 2023-01-31 | 2 | 4 | 
 

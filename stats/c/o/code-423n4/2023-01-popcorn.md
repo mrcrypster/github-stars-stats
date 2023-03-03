@@ -1,6 +1,6 @@
 # code-423n4/2023-01-popcorn - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3 | 16 | 
 | 2023-03-01 | 3 | 16 | 
 | 2023-02-28 | 3 | 16 | 
 | 2023-02-27 | 3 | 15 | 

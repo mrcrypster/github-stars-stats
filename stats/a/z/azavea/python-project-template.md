@@ -1,10 +1,10 @@
 # azavea/python-project-template - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/azavea/python-project-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 24 | 143 | 
 | 2023-03-01 | 23 | 142 | 
 | 2023-02-28 | 23 | 142 | 
 | 2023-02-27 | 23 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 23 | 137 | 
 | 2023-02-03 | 23 | 137 | 
 | 2023-02-02 | 23 | 136 | 
-| 2023-02-01 | 23 | 135 | 
 

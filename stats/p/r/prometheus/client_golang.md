@@ -1,10 +1,10 @@
 # prometheus/client_golang - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1046
+☋ Forks: 1047
 
-★ Stars: 4422
+★ Stars: 4425
 
 [Open repository](https://github.com/prometheus/client_golang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4425 | 1047 | 
 | 2023-03-01 | 4422 | 1046 | 
 | 2023-02-28 | 4418 | 1046 | 
 | 2023-02-27 | 4416 | 1047 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 4371 | 1044 | 
 | 2023-02-02 | 4368 | 1043 | 
 | 2023-02-01 | 4367 | 1041 | 
-| 2023-01-31 | 4368 | 1041 | 
 

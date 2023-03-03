@@ -1,8 +1,8 @@
 # nodejs/docker-node - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1930
+☋ Forks: 1931
 
 ★ Stars: 7620
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 7620 | 1931 | 
 | 2023-03-01 | 7620 | 1930 | 
 | 2023-02-28 | 7619 | 1930 | 
 | 2023-02-27 | 7619 | 1931 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 7572 | 1920 | 
 | 2023-02-02 | 7570 | 1919 | 
 | 2023-02-01 | 7570 | 1918 | 
-| 2023-01-31 | 7569 | 1916 | 
 

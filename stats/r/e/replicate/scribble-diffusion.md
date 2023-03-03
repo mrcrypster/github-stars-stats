@@ -1,10 +1,10 @@
 # replicate/scribble-diffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 135
+☋ Forks: 149
 
-★ Stars: 1044
+★ Stars: 1140
 
 [Open repository](https://github.com/replicate/scribble-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1140 | 149 | 
 | 2023-03-01 | 1044 | 135 | 
 | 2023-02-27 | 938 | 118 | 
 | 2023-02-26 | 898 | 112 | 

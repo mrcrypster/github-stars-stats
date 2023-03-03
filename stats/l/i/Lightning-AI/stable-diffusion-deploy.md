@@ -1,10 +1,10 @@
 # Lightning-AI/stable-diffusion-deploy - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 296
+★ Stars: 298
 
 [Open repository](https://github.com/Lightning-AI/stable-diffusion-deploy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 298 | 25 | 
 | 2023-03-01 | 296 | 25 | 
 | 2023-02-28 | 296 | 25 | 
 | 2023-02-27 | 294 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 281 | 21 | 
 | 2023-02-02 | 281 | 21 | 
 | 2023-02-01 | 281 | 21 | 
-| 2023-01-31 | 280 | 21 | 
 

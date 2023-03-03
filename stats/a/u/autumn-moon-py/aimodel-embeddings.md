@@ -1,10 +1,10 @@
 # autumn-moon-py/aimodel-embeddings - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/autumn-moon-py/aimodel-embeddings)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 67 | 9 | 
 | 2023-03-01 | 66 | 9 | 
 | 2023-02-28 | 65 | 8 | 
 | 2023-02-27 | 65 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 28 | 4 | 
 | 2023-02-03 | 27 | 4 | 
 | 2023-02-02 | 27 | 4 | 
-| 2023-01-31 | 27 | 4 | 
 

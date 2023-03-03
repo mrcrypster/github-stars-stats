@@ -1,10 +1,10 @@
 # citusdata/citus - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 548
+☋ Forks: 549
 
-★ Stars: 8042
+★ Stars: 8052
 
 [Open repository](https://github.com/citusdata/citus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 8052 | 549 | 
 | 2023-03-01 | 8042 | 548 | 
 | 2023-02-28 | 8036 | 548 | 
 | 2023-02-27 | 8029 | 547 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 7893 | 543 | 
 | 2023-02-02 | 7876 | 543 | 
 | 2023-02-01 | 7874 | 543 | 
-| 2023-01-31 | 7873 | 543 | 
 

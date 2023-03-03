@@ -1,10 +1,10 @@
 # runtimeverification/verified-smart-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 132
 
-★ Stars: 589
+★ Stars: 588
 
 [Open repository](https://github.com/runtimeverification/verified-smart-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 588 | 132 | 
 | 2023-03-01 | 589 | 132 | 
 | 2023-02-28 | 588 | 132 | 
 | 2023-02-27 | 588 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 576 | 131 | 
 | 2023-02-02 | 576 | 131 | 
 | 2023-02-01 | 576 | 131 | 
-| 2023-01-31 | 576 | 131 | 
 

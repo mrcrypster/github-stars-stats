@@ -1,6 +1,6 @@
 # o-oconnell/writeyourownos - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 54 | 3 | 
 | 2023-03-01 | 54 | 3 | 
 | 2023-02-27 | 54 | 3 | 
 | 2023-02-26 | 53 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 49 | 1 | 
 | 2023-02-02 | 48 | 1 | 
 | 2023-02-01 | 48 | 1 | 
-| 2023-01-31 | 48 | 1 | 
 

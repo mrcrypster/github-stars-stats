@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 144
 
-★ Stars: 1987
+★ Stars: 1988
 
 [Open repository](https://github.com/diku-dk/futhark)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 1987 | 144 | 
+| 2023-03-02 | 1988 | 144 | 
 | 2023-03-01 | 1987 | 144 | 
 | 2023-02-28 | 1986 | 144 | 
 | 2023-02-27 | 1984 | 144 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 1958 | 144 | 
 | 2023-02-02 | 1958 | 144 | 
 | 2023-02-01 | 1957 | 144 | 
-| 2023-01-31 | 1956 | 144 | 
 

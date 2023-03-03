@@ -1,10 +1,10 @@
 # rolling-scopes-school/tasks - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 4601
+☋ Forks: 4605
 
-★ Stars: 2633
+★ Stars: 2637
 
 [Open repository](https://github.com/rolling-scopes-school/tasks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2637 | 4605 | 
 | 2023-03-01 | 2633 | 4601 | 
 | 2023-02-28 | 2628 | 4602 | 
 | 2023-02-27 | 2627 | 4600 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2587 | 4554 | 
 | 2023-02-02 | 2587 | 4554 | 
 | 2023-02-01 | 2583 | 4555 | 
-| 2023-01-31 | 2580 | 4558 | 
 

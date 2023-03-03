@@ -1,10 +1,10 @@
 # Xe/site - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 98
 
-★ Stars: 465
+★ Stars: 466
 
 [Open repository](https://github.com/Xe/site)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 466 | 98 | 
 | 2023-03-01 | 465 | 98 | 
 | 2023-02-28 | 465 | 98 | 
 | 2023-02-27 | 465 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 463 | 98 | 
 | 2023-02-02 | 463 | 98 | 
 | 2023-02-01 | 463 | 98 | 
-| 2023-01-31 | 464 | 98 | 
 

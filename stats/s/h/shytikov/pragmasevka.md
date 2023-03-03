@@ -1,10 +1,10 @@
 # shytikov/pragmasevka - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/shytikov/pragmasevka)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 40 | 1 | 
 | 2023-03-01 | 38 | 1 | 
 | 2023-02-28 | 37 | 1 | 
 | 2023-02-26 | 37 | 1 | 

@@ -1,6 +1,6 @@
 # cybergalactic/MSS - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 282 | 127 | 
 | 2023-03-01 | 282 | 127 | 
 | 2023-02-27 | 282 | 127 | 
 | 2023-02-26 | 281 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 275 | 125 | 
 | 2023-02-02 | 274 | 125 | 
 | 2023-02-01 | 273 | 125 | 
-| 2023-01-31 | 273 | 125 | 
 

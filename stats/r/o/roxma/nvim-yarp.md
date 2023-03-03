@@ -1,6 +1,6 @@
 # roxma/nvim-yarp - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 224 | 17 | 
 | 2023-03-01 | 224 | 17 | 
 | 2023-02-28 | 224 | 17 | 
 | 2023-02-27 | 224 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 225 | 17 | 
 | 2023-02-02 | 225 | 17 | 
 | 2023-02-01 | 225 | 17 | 
-| 2023-01-31 | 226 | 17 | 
 

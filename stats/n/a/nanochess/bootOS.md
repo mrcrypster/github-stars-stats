@@ -1,10 +1,10 @@
 # nanochess/bootOS - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 80
 
-★ Stars: 1428
+★ Stars: 1429
 
 [Open repository](https://github.com/nanochess/bootOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1429 | 80 | 
 | 2023-03-01 | 1428 | 80 | 
 | 2023-02-28 | 1427 | 80 | 
 | 2023-02-27 | 1427 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1429 | 81 | 
 | 2023-02-03 | 1429 | 81 | 
 | 2023-02-02 | 1429 | 81 | 
-| 2023-02-01 | 1429 | 81 | 
 

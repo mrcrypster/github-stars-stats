@@ -1,10 +1,10 @@
 # zmkfirmware/zmk - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1519
+☋ Forks: 1520
 
-★ Stars: 1452
+★ Stars: 1455
 
 [Open repository](https://github.com/zmkfirmware/zmk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1455 | 1520 | 
 | 2023-03-01 | 1452 | 1519 | 
 | 2023-02-28 | 1451 | 1518 | 
 | 2023-02-27 | 1451 | 1516 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1402 | 1456 | 
 | 2023-02-02 | 1399 | 1454 | 
 | 2023-02-01 | 1396 | 1451 | 
-| 2023-01-31 | 1395 | 1449 | 
 

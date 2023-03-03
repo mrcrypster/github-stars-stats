@@ -1,6 +1,6 @@
 # diku-dk/dpp-e2022-pub - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 9 | 1 | 
 | 2023-03-01 | 9 | 1 | 
 | 2023-02-28 | 9 | 1 | 
 | 2023-02-27 | 9 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 8 | 1 | 
 | 2023-02-02 | 8 | 1 | 
 | 2023-02-01 | 8 | 1 | 
-| 2023-01-31 | 8 | 1 | 
 

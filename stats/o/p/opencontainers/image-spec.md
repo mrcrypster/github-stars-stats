@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 02
 
 ☋ Forks: 559
 
-★ Stars: 2648
+★ Stars: 2649
 
 [Open repository](https://github.com/opencontainers/image-spec)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 2648 | 559 | 
+| 2023-03-02 | 2649 | 559 | 
 | 2023-02-28 | 2644 | 558 | 
 | 2023-02-27 | 2640 | 557 | 
 | 2023-02-26 | 2638 | 558 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 2588 | 544 | 
 | 2023-02-02 | 2585 | 544 | 
 | 2023-02-01 | 2583 | 545 | 
-| 2023-01-31 | 2579 | 544 | 
 

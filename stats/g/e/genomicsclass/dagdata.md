@@ -1,8 +1,8 @@
 # genomicsclass/dagdata - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 695
+☋ Forks: 696
 
 ★ Stars: 257
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 257 | 696 | 
 | 2023-03-01 | 257 | 695 | 
 | 2023-02-28 | 257 | 695 | 
 | 2023-02-27 | 257 | 695 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 256 | 694 | 
 | 2023-02-02 | 256 | 694 | 
 | 2023-02-01 | 256 | 692 | 
-| 2023-01-31 | 256 | 692 | 
 

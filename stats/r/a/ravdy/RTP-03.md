@@ -1,6 +1,6 @@
 # ravdy/RTP-03 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3 | 37 | 
 | 2023-03-01 | 3 | 37 | 
 | 2023-02-28 | 3 | 36 | 
 | 2023-02-26 | 3 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3 | 26 | 
 | 2023-02-02 | 3 | 26 | 
 | 2023-02-01 | 3 | 26 | 
-| 2023-01-31 | 3 | 26 | 
 

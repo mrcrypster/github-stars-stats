@@ -1,8 +1,8 @@
 # Legogoa-Axiom/Legogoa-Axiom.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1 | 1 | 
 | 2023-03-01 | 1 | - | 
 | 2023-02-28 | 1 | - | 
 | 2023-02-27 | 1 | - | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | - | 8 | 
 | 2023-02-02 | - | 8 | 
 | 2023-02-01 | - | 8 | 
-| 2023-01-31 | - | 8 | 
 

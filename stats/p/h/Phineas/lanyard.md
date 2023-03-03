@@ -1,6 +1,6 @@
 # Phineas/lanyard - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 629 | 110 | 
 | 2023-03-01 | 629 | 110 | 
 | 2023-02-28 | 628 | 110 | 
 | 2023-02-27 | 628 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 601 | 107 | 
 | 2023-02-02 | 590 | 106 | 
 | 2023-02-01 | 590 | 106 | 
-| 2023-01-31 | 590 | 106 | 
 

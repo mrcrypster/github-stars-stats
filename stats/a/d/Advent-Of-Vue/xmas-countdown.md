@@ -1,6 +1,6 @@
 # Advent-Of-Vue/xmas-countdown - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | - | 13 | 
 | 2023-03-01 | - | 13 | 
 | 2023-02-27 | - | 13 | 
 | 2023-02-26 | - | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | - | 13 | 
 | 2023-02-02 | - | 13 | 
 | 2023-02-01 | - | 13 | 
-| 2023-01-31 | - | 13 | 
 

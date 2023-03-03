@@ -1,6 +1,6 @@
 # android/renderscript-intrinsics-replacement-toolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 239 | 69 | 
 | 2023-03-01 | 239 | 69 | 
 | 2023-02-28 | 239 | 69 | 
 | 2023-02-27 | 238 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 230 | 67 | 
 | 2023-02-02 | 230 | 67 | 
 | 2023-02-01 | 228 | 67 | 
-| 2023-01-31 | 228 | 67 | 
 

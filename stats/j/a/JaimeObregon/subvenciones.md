@@ -1,10 +1,10 @@
 # JaimeObregon/subvenciones - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 62
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/JaimeObregon/subvenciones)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 230 | 62 | 
 | 2023-03-01 | 229 | 62 | 
 | 2023-02-28 | 228 | 62 | 
 | 2023-02-27 | 228 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 225 | 62 | 
 | 2023-02-02 | 225 | 62 | 
 | 2023-02-01 | 224 | 62 | 
-| 2023-01-31 | 224 | 61 | 
 

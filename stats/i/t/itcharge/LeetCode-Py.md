@@ -1,10 +1,10 @@
 # itcharge/LeetCode-Py - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 478
+☋ Forks: 483
 
-★ Stars: 2368
+★ Stars: 2386
 
 [Open repository](https://github.com/itcharge/LeetCode-Py)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2386 | 483 | 
 | 2023-03-01 | 2368 | 478 | 
 | 2023-02-28 | 2340 | 475 | 
 

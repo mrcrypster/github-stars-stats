@@ -1,10 +1,10 @@
 # spring-projects/spring-data-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3251
 
-★ Stars: 4727
+★ Stars: 4729
 
 [Open repository](https://github.com/spring-projects/spring-data-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4729 | 3251 | 
 | 2023-03-01 | 4727 | 3251 | 
 | 2023-02-28 | 4724 | 3250 | 
 | 2023-02-26 | 4725 | 3250 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 4715 | 3244 | 
 | 2023-02-02 | 4713 | 3245 | 
 | 2023-02-01 | 4710 | 3244 | 
-| 2023-01-31 | 4709 | 3243 | 
 

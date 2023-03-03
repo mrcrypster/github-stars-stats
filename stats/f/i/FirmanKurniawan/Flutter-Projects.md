@@ -1,6 +1,6 @@
 # FirmanKurniawan/Flutter-Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 31 | 19 | 
 | 2023-03-01 | 31 | 19 | 
 | 2023-02-28 | 31 | 19 | 
 | 2023-02-27 | 31 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 30 | 19 | 
 | 2023-02-02 | 30 | 19 | 
 | 2023-02-01 | 30 | 19 | 
-| 2023-01-31 | 30 | 19 | 
 

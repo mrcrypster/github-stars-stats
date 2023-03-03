@@ -1,10 +1,10 @@
 # cloudposse/terraform-aws-components - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 152
+☋ Forks: 154
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/cloudposse/terraform-aws-components)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 375 | 154 | 
 | 2023-03-01 | 374 | 152 | 
 | 2023-02-28 | 373 | 152 | 
 | 2023-02-27 | 373 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 362 | 147 | 
 | 2023-02-02 | 361 | 147 | 
 | 2023-02-01 | 361 | 147 | 
-| 2023-01-31 | 362 | 146 | 
 

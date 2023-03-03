@@ -1,8 +1,8 @@
 # pingcap/kvproto - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 203
+☋ Forks: 204
 
 ★ Stars: 136
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 136 | 204 | 
 | 2023-03-01 | 136 | 203 | 
 | 2023-02-27 | 136 | 203 | 
 | 2023-02-26 | 136 | 203 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 134 | 201 | 
 | 2023-02-02 | 134 | 201 | 
 | 2023-02-01 | 134 | 201 | 
-| 2023-01-31 | 134 | 201 | 
 

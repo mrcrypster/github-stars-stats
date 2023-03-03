@@ -1,10 +1,10 @@
 # abo-abo/auto-yasnippet - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 15
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/abo-abo/auto-yasnippet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 228 | 15 | 
 | 2023-03-01 | 227 | 15 | 
 | 2023-02-28 | 227 | 15 | 
 | 2023-02-27 | 227 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 226 | 15 | 
 | 2023-02-02 | 226 | 15 | 
 | 2023-02-01 | 226 | 15 | 
-| 2023-01-31 | 226 | 15 | 
 

@@ -1,10 +1,10 @@
 # imbushuo/EnergyStar - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 73
 
-★ Stars: 2167
+★ Stars: 2166
 
 [Open repository](https://github.com/imbushuo/EnergyStar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2166 | 73 | 
 | 2023-03-01 | 2167 | 73 | 
 | 2023-02-28 | 2167 | 73 | 
 | 2023-02-27 | 2166 | 73 | 

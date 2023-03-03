@@ -1,0 +1,17 @@
+# CSchank/CAS781Presentation - stars & forks statistics
+
+Stats updated on Mar 2023, 02
+
+☋ Forks: 7
+
+★ Stars: 0
+
+[Open repository](https://github.com/CSchank/CAS781Presentation)
+
+[Open detailed stats for CSchank/CAS781Presentation](https://reviewgithub.com/rep/CSchank/CAS781Presentation)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-02 | - | 7 | 
+

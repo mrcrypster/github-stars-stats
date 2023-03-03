@@ -1,10 +1,10 @@
 # foundry-rs/forge-template - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 337
+★ Stars: 338
 
 [Open repository](https://github.com/foundry-rs/forge-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 338 | 96 | 
 | 2023-03-01 | 337 | 95 | 
 | 2023-02-28 | 337 | 94 | 
 | 2023-02-27 | 337 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 338 | 93 | 
 | 2023-02-02 | 339 | 93 | 
 | 2023-02-01 | 340 | 93 | 
-| 2023-01-31 | 340 | 93 | 
 

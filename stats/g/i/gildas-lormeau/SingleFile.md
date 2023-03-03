@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 02
 
-☋ Forks: 744
+☋ Forks: 747
 
-★ Stars: 10335
+★ Stars: 10354
 
 [Open repository](https://github.com/gildas-lormeau/SingleFile)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 10335 | 744 | 
+| 2023-03-02 | 10354 | 747 | 
 | 2023-03-01 | 10329 | 744 | 
 | 2023-02-27 | 10197 | 740 | 
 | 2023-02-26 | 10184 | 738 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-03 | 10047 | 729 | 
 | 2023-02-02 | 10042 | 729 | 
 | 2023-02-01 | 10036 | 729 | 
-| 2023-01-31 | 10025 | 729 | 
 

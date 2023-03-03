@@ -1,10 +1,10 @@
 # pyutils/line_profiler - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 1675
+★ Stars: 1678
 
 [Open repository](https://github.com/pyutils/line_profiler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1678 | 97 | 
 | 2023-03-01 | 1675 | 96 | 
 | 2023-02-28 | 1667 | 96 | 
 | 2023-02-27 | 1663 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1621 | 95 | 
 | 2023-02-02 | 1618 | 95 | 
 | 2023-02-01 | 1613 | 95 | 
-| 2023-01-31 | 1609 | 95 | 
 

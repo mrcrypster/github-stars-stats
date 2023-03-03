@@ -1,8 +1,8 @@
 # airflow-helm/charts - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 420
+☋ Forks: 422
 
 ★ Stars: 479
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 479 | 422 | 
 | 2023-03-01 | 479 | 420 | 
 | 2023-02-27 | 478 | 419 | 
 | 2023-02-26 | 478 | 420 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 469 | 411 | 
 | 2023-02-02 | 469 | 411 | 
 | 2023-02-01 | 469 | 411 | 
-| 2023-01-31 | 469 | 410 | 
 

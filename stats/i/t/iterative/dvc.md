@@ -1,10 +1,10 @@
 # iterative/dvc - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1035
 
-★ Stars: 11148
+★ Stars: 11156
 
 [Open repository](https://github.com/iterative/dvc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 11156 | 1035 | 
 | 2023-03-01 | 11148 | 1035 | 
 | 2023-02-28 | 11143 | 1034 | 
 | 2023-02-26 | 11134 | 1034 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 11027 | 1026 | 
 | 2023-02-03 | 11023 | 1026 | 
 | 2023-02-02 | 11015 | 1026 | 
-| 2023-01-31 | 11008 | 1025 | 
 

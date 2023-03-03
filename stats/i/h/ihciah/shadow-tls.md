@@ -1,10 +1,10 @@
 # ihciah/shadow-tls - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 193
 
-★ Stars: 1678
+★ Stars: 1679
 
 [Open repository](https://github.com/ihciah/shadow-tls)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1679 | 193 | 
 | 2023-03-01 | 1678 | 193 | 
 | 2023-02-27 | 1674 | 193 | 
 | 2023-02-26 | 1668 | 193 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1574 | 182 | 
 | 2023-02-02 | 1572 | 182 | 
 | 2023-02-01 | 1566 | 182 | 
-| 2023-01-31 | 1564 | 181 | 
 

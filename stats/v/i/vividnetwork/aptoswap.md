@@ -1,10 +1,10 @@
 # vividnetwork/aptoswap - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 16
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/vividnetwork/aptoswap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 38 | 16 | 
 | 2023-03-01 | 37 | 16 | 
 | 2023-02-28 | 37 | 16 | 
 | 2023-02-27 | 37 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 31 | 16 | 
 | 2023-02-02 | 31 | 15 | 
 | 2023-02-01 | 31 | 15 | 
-| 2023-01-31 | 31 | 15 | 
 

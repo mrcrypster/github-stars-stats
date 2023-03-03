@@ -1,10 +1,10 @@
 # xiaoming2028/FreePAC - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1095
+☋ Forks: 1096
 
-★ Stars: 5958
+★ Stars: 5961
 
 [Open repository](https://github.com/xiaoming2028/FreePAC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 5961 | 1096 | 
 | 2023-03-01 | 5958 | 1095 | 
 | 2023-02-28 | 5951 | 1094 | 
 | 2023-02-27 | 5943 | 1091 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 5816 | 1043 | 
 | 2023-02-03 | 5815 | 1040 | 
 | 2023-02-02 | 5813 | 1036 | 
-| 2023-02-01 | 5808 | 1036 | 
 

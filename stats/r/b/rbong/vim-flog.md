@@ -1,10 +1,10 @@
 # rbong/vim-flog - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 19
 
-★ Stars: 497
+★ Stars: 499
 
 [Open repository](https://github.com/rbong/vim-flog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 499 | 19 | 
 | 2023-03-01 | 497 | 19 | 
 | 2023-02-27 | 497 | 19 | 
 | 2023-02-26 | 496 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 489 | 19 | 
 | 2023-02-02 | 490 | 19 | 
 | 2023-02-01 | 489 | 19 | 
-| 2023-01-31 | 488 | 18 | 
 

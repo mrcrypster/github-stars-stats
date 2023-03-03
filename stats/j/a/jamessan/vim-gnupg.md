@@ -1,6 +1,6 @@
 # jamessan/vim-gnupg - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 665 | 73 | 
 | 2023-03-01 | 665 | 73 | 
 | 2023-02-27 | 665 | 73 | 
 | 2023-02-26 | 665 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 661 | 73 | 
 | 2023-02-02 | 660 | 73 | 
 | 2023-02-01 | 660 | 73 | 
-| 2023-01-31 | 660 | 73 | 
 

@@ -1,10 +1,10 @@
 # hyperledger/besu - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 552
 
-★ Stars: 1080
+★ Stars: 1083
 
 [Open repository](https://github.com/hyperledger/besu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1083 | 552 | 
 | 2023-03-01 | 1080 | 552 | 
 | 2023-02-28 | 1079 | 552 | 
 | 2023-02-27 | 1077 | 552 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1062 | 537 | 
 | 2023-02-02 | 1062 | 537 | 
 | 2023-02-01 | 1061 | 538 | 
-| 2023-01-31 | 1063 | 538 | 
 

@@ -1,6 +1,6 @@
 # muhammedAnjoom/netflix-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 36 | 17 | 
 | 2023-03-01 | 36 | 17 | 
 | 2023-02-28 | 36 | 17 | 
 | 2023-02-26 | 36 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 35 | 17 | 
 | 2023-02-02 | 34 | 16 | 
 | 2023-02-01 | 34 | 16 | 
-| 2023-01-31 | 34 | 16 | 
 

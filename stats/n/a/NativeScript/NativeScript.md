@@ -1,10 +1,10 @@
 # NativeScript/NativeScript - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1614
 
-★ Stars: 22241
+★ Stars: 22245
 
 [Open repository](https://github.com/NativeScript/NativeScript)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 22245 | 1614 | 
 | 2023-03-01 | 22241 | 1614 | 
 | 2023-02-28 | 22235 | 1614 | 
 | 2023-02-27 | 22236 | 1614 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 22151 | 1609 | 
 | 2023-02-03 | 22145 | 1609 | 
 | 2023-02-02 | 22140 | 1609 | 
-| 2023-02-01 | 22139 | 1608 | 
 

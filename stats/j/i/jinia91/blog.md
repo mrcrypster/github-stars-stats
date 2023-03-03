@@ -1,6 +1,6 @@
 # jinia91/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 128 | 19 | 
 | 2023-03-01 | 128 | 19 | 
 | 2023-02-27 | 128 | 19 | 
 | 2023-02-26 | 128 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 123 | 19 | 
 | 2023-02-02 | 123 | 19 | 
 | 2023-02-01 | 123 | 18 | 
-| 2023-01-31 | 123 | 18 | 
 

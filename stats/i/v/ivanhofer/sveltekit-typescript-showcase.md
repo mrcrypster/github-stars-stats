@@ -1,10 +1,10 @@
 # ivanhofer/sveltekit-typescript-showcase - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 490
+★ Stars: 492
 
 [Open repository](https://github.com/ivanhofer/sveltekit-typescript-showcase)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 492 | 25 | 
 | 2023-03-01 | 490 | 25 | 
 | 2023-02-28 | 490 | 25 | 
 | 2023-02-27 | 489 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 441 | 24 | 
 | 2023-02-02 | 440 | 24 | 
 | 2023-02-01 | 435 | 24 | 
-| 2023-01-31 | 433 | 24 | 
 

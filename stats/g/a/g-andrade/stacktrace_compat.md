@@ -1,6 +1,6 @@
 # g-andrade/stacktrace_compat - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 18 | 4 | 
 | 2023-03-01 | 18 | 4 | 
 | 2023-02-28 | 18 | 4 | 
 | 2023-02-26 | 18 | 4 | 

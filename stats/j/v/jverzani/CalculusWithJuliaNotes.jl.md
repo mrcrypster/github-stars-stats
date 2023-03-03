@@ -1,6 +1,6 @@
 # jverzani/CalculusWithJuliaNotes.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 38 | 10 | 
 | 2023-03-01 | 38 | 10 | 
 | 2023-02-27 | 38 | 10 | 
 | 2023-02-26 | 37 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 35 | 10 | 
 | 2023-02-02 | 35 | 10 | 
 | 2023-02-01 | 35 | 10 | 
-| 2023-01-31 | 35 | 10 | 
 

@@ -1,6 +1,6 @@
 # mhanberg/advent-of-code-elixir-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 125 | 24 | 
 | 2023-03-01 | 125 | 24 | 
 | 2023-02-28 | 125 | 24 | 
 | 2023-02-26 | 125 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 126 | 25 | 
 | 2023-02-02 | 126 | 25 | 
 | 2023-02-01 | 126 | 25 | 
-| 2023-01-31 | 125 | 25 | 
 

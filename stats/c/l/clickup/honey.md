@@ -1,6 +1,6 @@
 # clickup/honey - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 298 | 9 | 
 | 2023-03-01 | 298 | 9 | 
 | 2023-02-28 | 296 | 9 | 
 | 2023-02-26 | 296 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 290 | 9 | 
 | 2023-02-02 | 290 | 9 | 
 | 2023-02-01 | 289 | 9 | 
-| 2023-01-31 | 289 | 9 | 
 

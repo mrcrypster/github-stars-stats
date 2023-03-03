@@ -1,10 +1,10 @@
 # seanap/Plex-Audiobook-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 36
 
-★ Stars: 890
+★ Stars: 891
 
 [Open repository](https://github.com/seanap/Plex-Audiobook-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 891 | 36 | 
 | 2023-03-01 | 890 | 36 | 
 | 2023-02-28 | 890 | 36 | 
 | 2023-02-27 | 889 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 866 | 36 | 
 | 2023-02-02 | 863 | 36 | 
 | 2023-02-01 | 863 | 36 | 
-| 2023-01-31 | 864 | 36 | 
 

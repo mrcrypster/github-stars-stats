@@ -1,6 +1,6 @@
 # beetlehr/beetlehr-mobile - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 29 | 17 | 
 | 2023-03-01 | 29 | 17 | 
 | 2023-02-27 | 29 | 16 | 
 | 2023-02-26 | 29 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 29 | 12 | 
 | 2023-02-02 | 29 | 12 | 
 | 2023-02-01 | 28 | 11 | 
-| 2023-01-31 | 28 | 11 | 
 

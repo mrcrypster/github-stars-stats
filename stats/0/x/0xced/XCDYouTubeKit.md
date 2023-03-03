@@ -1,6 +1,6 @@
 # 0xced/XCDYouTubeKit - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 629
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2882 | 629 | 
 | 2023-03-01 | 2882 | 629 | 
 | 2023-02-28 | 2881 | 629 | 
 | 2023-02-27 | 2881 | 629 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2880 | 629 | 
 | 2023-02-03 | 2880 | 629 | 
 | 2023-02-02 | 2880 | 629 | 
-| 2023-02-01 | 2880 | 629 | 
 

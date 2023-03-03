@@ -1,6 +1,6 @@
 # nucypher/whitepaper - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 64 | 18 | 
 | 2023-03-01 | 64 | 18 | 
 | 2023-02-28 | 64 | 18 | 
 | 2023-02-26 | 64 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 64 | 18 | 
 | 2023-02-03 | 64 | 18 | 
 | 2023-02-02 | 64 | 18 | 
-| 2023-01-31 | 64 | 18 | 
 

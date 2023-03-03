@@ -1,6 +1,6 @@
 # owshq-academy/ws-spark-on-k8s-pratica - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4 | 9 | 
 | 2023-03-01 | 4 | 9 | 
 | 2023-02-28 | 4 | 8 | 
 | 2023-02-27 | 4 | 8 | 

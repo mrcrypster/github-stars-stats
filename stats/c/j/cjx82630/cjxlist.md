@@ -1,6 +1,6 @@
 # cjx82630/cjxlist - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1350 | 127 | 
 | 2023-03-01 | 1350 | 127 | 
 | 2023-02-28 | 1345 | 126 | 
 | 2023-02-27 | 1345 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1300 | 127 | 
 | 2023-02-02 | 1295 | 127 | 
 | 2023-02-01 | 1295 | 127 | 
-| 2023-01-31 | 1295 | 127 | 
 

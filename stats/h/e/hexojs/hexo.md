@@ -1,8 +1,8 @@
 # hexojs/hexo - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 4429
+☋ Forks: 4431
 
 ★ Stars: 36260
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 36260 | 4431 | 
 | 2023-03-01 | 36260 | 4429 | 
 | 2023-02-28 | 36250 | 4429 | 
 | 2023-02-27 | 36240 | 4428 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 36104 | 4420 | 
 | 2023-02-02 | 36100 | 4418 | 
 | 2023-02-01 | 36092 | 4417 | 
-| 2023-01-31 | 36089 | 4416 | 
 

@@ -1,10 +1,10 @@
 # guMcrey/web-authn-completed-app - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/guMcrey/web-authn-completed-app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 51 | 1 | 
 | 2023-03-01 | 49 | 1 | 
 | 2023-02-28 | 47 | 1 | 
 | 2023-02-27 | 47 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 44 | 1 | 
 | 2023-02-02 | 44 | 1 | 
 | 2023-02-01 | 43 | 1 | 
-| 2023-01-31 | 42 | 1 | 
 

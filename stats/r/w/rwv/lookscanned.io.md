@@ -1,10 +1,10 @@
 # rwv/lookscanned.io - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 69
 
-★ Stars: 1288
+★ Stars: 1290
 
 [Open repository](https://github.com/rwv/lookscanned.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1290 | 69 | 
 | 2023-03-01 | 1288 | 69 | 
 | 2023-02-28 | 1287 | 69 | 
 | 2023-02-26 | 1286 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1270 | 68 | 
 | 2023-02-03 | 1270 | 68 | 
 | 2023-02-02 | 1269 | 68 | 
-| 2023-01-31 | 1267 | 68 | 
 

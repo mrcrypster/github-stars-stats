@@ -1,10 +1,10 @@
 # santiontanon/castlemaster2-disassembly - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/santiontanon/castlemaster2-disassembly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 12 | - | 
 | 2023-03-01 | 11 | - | 
 | 2023-02-28 | 11 | - | 
 

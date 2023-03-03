@@ -1,10 +1,10 @@
 # hexagonkt/codecv - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 126
+★ Stars: 125
 
 [Open repository](https://github.com/hexagonkt/codecv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 125 | 2 | 
 | 2023-03-01 | 126 | 2 | 
 | 2023-02-28 | 127 | 2 | 
 | 2023-02-27 | 127 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 112 | - | 
 | 2023-02-02 | 112 | - | 
 | 2023-02-01 | 109 | - | 
-| 2023-01-31 | 105 | - | 
 

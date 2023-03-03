@@ -1,6 +1,6 @@
 # owlman/markdown_guide - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 76 | 6 | 
 | 2023-03-01 | 76 | 6 | 
 | 2023-02-28 | 76 | 6 | 
 | 2023-02-27 | 76 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 75 | 6 | 
 | 2023-02-02 | 74 | 6 | 
 | 2023-02-01 | 73 | 6 | 
-| 2023-01-31 | 73 | 6 | 
 

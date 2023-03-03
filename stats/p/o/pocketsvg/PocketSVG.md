@@ -1,10 +1,10 @@
 # pocketsvg/PocketSVG - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 228
 
-★ Stars: 1574
+★ Stars: 1575
 
 [Open repository](https://github.com/pocketsvg/PocketSVG)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1575 | 228 | 
 | 2023-03-01 | 1574 | 228 | 
 | 2023-02-28 | 1573 | 228 | 
 | 2023-02-27 | 1572 | 228 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1570 | 228 | 
 | 2023-02-02 | 1570 | 227 | 
 | 2023-02-01 | 1570 | 227 | 
-| 2023-01-31 | 1570 | 227 | 
 

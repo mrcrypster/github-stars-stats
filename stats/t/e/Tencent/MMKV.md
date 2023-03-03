@@ -1,10 +1,10 @@
 # Tencent/MMKV - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1726
+☋ Forks: 1727
 
-★ Stars: 15528
+★ Stars: 15533
 
 [Open repository](https://github.com/Tencent/MMKV)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 15533 | 1727 | 
 | 2023-03-01 | 15528 | 1726 | 
 | 2023-02-28 | 15525 | 1726 | 
 | 2023-02-27 | 15519 | 1724 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 15436 | 1715 | 
 | 2023-02-02 | 15433 | 1713 | 
 | 2023-02-01 | 15432 | 1713 | 
-| 2023-01-31 | 15424 | 1713 | 
 

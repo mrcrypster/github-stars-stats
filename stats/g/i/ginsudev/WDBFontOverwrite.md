@@ -1,10 +1,10 @@
 # ginsudev/WDBFontOverwrite - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 53
 
-★ Stars: 749
+★ Stars: 752
 
 [Open repository](https://github.com/ginsudev/WDBFontOverwrite)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 752 | 53 | 
 | 2023-03-01 | 749 | 53 | 
 | 2023-02-27 | 748 | 53 | 
 | 2023-02-26 | 747 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 675 | 46 | 
 | 2023-02-02 | 669 | 46 | 
 | 2023-02-01 | 664 | 46 | 
-| 2023-01-31 | 659 | 46 | 
 

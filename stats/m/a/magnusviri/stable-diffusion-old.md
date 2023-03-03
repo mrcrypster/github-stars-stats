@@ -1,10 +1,10 @@
 # magnusviri/stable-diffusion-old - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/magnusviri/stable-diffusion-old)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 89 | 8 | 
 | 2023-03-01 | 88 | 7 | 
 | 2023-02-28 | 88 | 7 | 
 | 2023-02-26 | 88 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 89 | 7 | 
 | 2023-02-02 | 89 | 7 | 
 | 2023-02-01 | 89 | 7 | 
-| 2023-01-31 | 89 | 7 | 
 

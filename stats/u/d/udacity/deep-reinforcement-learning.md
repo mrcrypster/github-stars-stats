@@ -1,6 +1,6 @@
 # udacity/deep-reinforcement-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 2267
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4414 | 2267 | 
 | 2023-03-01 | 4414 | 2267 | 
 | 2023-02-27 | 4410 | 2267 | 
 | 2023-02-26 | 4407 | 2267 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 4382 | 2255 | 
 | 2023-02-02 | 4380 | 2254 | 
 | 2023-02-01 | 4378 | 2253 | 
-| 2023-01-31 | 4378 | 2252 | 
 

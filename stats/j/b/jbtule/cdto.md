@@ -1,10 +1,10 @@
 # jbtule/cdto - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 222
 
-★ Stars: 2172
+★ Stars: 2173
 
 [Open repository](https://github.com/jbtule/cdto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2173 | 222 | 
 | 2023-03-01 | 2172 | 222 | 
 | 2023-02-28 | 2171 | 222 | 
 | 2023-02-26 | 2171 | 222 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2168 | 223 | 
 | 2023-02-02 | 2167 | 222 | 
 | 2023-02-01 | 2166 | 222 | 
-| 2023-01-31 | 2166 | 222 | 
 

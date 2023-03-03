@@ -1,10 +1,10 @@
 # D4RK-R4BB1T/DarkWeb_ChatGPT_PoC - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/D4RK-R4BB1T/DarkWeb_ChatGPT_PoC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 24 | 2 | 
 | 2023-03-01 | 25 | 2 | 
 | 2023-02-28 | 25 | 2 | 
 | 2023-02-27 | 25 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 21 | - | 
 | 2023-02-03 | 21 | - | 
 | 2023-02-02 | 19 | - | 
-| 2023-02-01 | 19 | - | 
 

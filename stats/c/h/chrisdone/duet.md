@@ -1,10 +1,10 @@
 # chrisdone/duet - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/chrisdone/duet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 188 | 5 | 
 | 2023-03-01 | 187 | 5 | 
 | 2023-02-28 | 187 | 5 | 
 | 2023-02-27 | 187 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 185 | 5 | 
 | 2023-02-02 | 185 | 5 | 
 | 2023-02-01 | 185 | 5 | 
-| 2023-01-31 | 185 | 5 | 
 

@@ -1,6 +1,6 @@
 # JalaliLabUCLA/phycv - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 299 | 20 | 
 | 2023-03-01 | 299 | 20 | 
 | 2023-02-28 | 299 | 20 | 
 | 2023-02-27 | 298 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 261 | 17 | 
 | 2023-02-02 | 249 | 17 | 
 | 2023-02-01 | 238 | 17 | 
-| 2023-01-31 | 231 | 16 | 
 

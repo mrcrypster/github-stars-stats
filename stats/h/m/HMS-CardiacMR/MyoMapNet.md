@@ -1,6 +1,6 @@
 # HMS-CardiacMR/MyoMapNet - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 54 | 44 | 
 | 2023-03-01 | 54 | 44 | 
 | 2023-02-27 | 54 | 44 | 
 | 2023-02-26 | 54 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 54 | 44 | 
 | 2023-02-02 | 54 | 44 | 
 | 2023-02-01 | 54 | 44 | 
-| 2023-01-31 | 54 | 44 | 
 

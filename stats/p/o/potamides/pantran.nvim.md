@@ -1,6 +1,6 @@
 # potamides/pantran.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 166 | 2 | 
 | 2023-03-01 | 166 | 2 | 
 | 2023-02-27 | 166 | 2 | 
 | 2023-02-26 | 166 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 161 | 2 | 
 | 2023-02-02 | 159 | 2 | 
 | 2023-02-01 | 158 | 2 | 
-| 2023-01-31 | 157 | 2 | 
 

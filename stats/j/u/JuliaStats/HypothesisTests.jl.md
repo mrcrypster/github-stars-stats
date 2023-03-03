@@ -1,6 +1,6 @@
 # JuliaStats/HypothesisTests.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 257 | 81 | 
 | 2023-03-01 | 257 | 81 | 
 | 2023-02-28 | 257 | 80 | 
 | 2023-02-26 | 257 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 256 | 79 | 
 | 2023-02-02 | 256 | 79 | 
 | 2023-02-01 | 254 | 79 | 
-| 2023-01-31 | 254 | 79 | 
 

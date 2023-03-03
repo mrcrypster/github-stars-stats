@@ -1,8 +1,8 @@
 # FastEndpoints/Library - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
-☋ Forks: 161
+☋ Forks: 162
 
 ★ Stars: 2607
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2607 | 162 | 
 | 2023-02-28 | 2607 | 161 | 
 | 2023-02-27 | 2599 | 160 | 
 | 2023-02-26 | 2595 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Feb 2023, 28
 | 2023-02-04 | 2525 | 151 | 
 | 2023-02-03 | 2521 | 151 | 
 | 2023-02-01 | 2521 | 151 | 
-| 2023-01-31 | 2519 | 151 | 
 

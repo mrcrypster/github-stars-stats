@@ -1,6 +1,6 @@
 # turingschool-examples/week_3_viewing_party - stars & forks statistics
 
-Stats updated on Feb 2023, 28
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Feb 2023, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | - | 20 | 
 | 2023-02-28 | - | 20 | 
 | 2023-02-27 | - | 20 | 
 | 2023-02-26 | - | 20 | 

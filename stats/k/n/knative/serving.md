@@ -1,6 +1,6 @@
 # knative/serving - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1013
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4881 | 1013 | 
 | 2023-03-01 | 4881 | 1013 | 
 | 2023-02-27 | 4879 | 1013 | 
 | 2023-02-26 | 4878 | 1013 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 4848 | 1004 | 
 | 2023-02-02 | 4845 | 1004 | 
 | 2023-02-01 | 4844 | 1004 | 
-| 2023-01-31 | 4845 | 1003 | 
 

@@ -1,10 +1,10 @@
 # morkt/GARbro - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 189
 
-★ Stars: 1536
+★ Stars: 1537
 
 [Open repository](https://github.com/morkt/GARbro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1537 | 189 | 
 | 2023-03-01 | 1536 | 189 | 
 | 2023-02-27 | 1534 | 189 | 
 | 2023-02-26 | 1531 | 189 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 1504 | 187 | 
 | 2023-02-02 | 1502 | 187 | 
 | 2023-02-01 | 1497 | 187 | 
-| 2023-01-31 | 1495 | 187 | 
 

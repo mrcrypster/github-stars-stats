@@ -1,6 +1,6 @@
 # CMUSustainability/SDGmapR - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 10 | 1 | 
 | 2023-03-01 | 10 | 1 | 
 | 2023-02-28 | 10 | 1 | 
 | 2023-02-27 | 10 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 8 | 1 | 
 | 2023-02-02 | 8 | 1 | 
 | 2023-02-01 | 8 | 1 | 
-| 2023-01-31 | 8 | 1 | 
 

@@ -1,10 +1,10 @@
 # fluttertools/fvm - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 158
 
-★ Stars: 3309
+★ Stars: 3312
 
 [Open repository](https://github.com/fluttertools/fvm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3312 | 158 | 
 | 2023-03-01 | 3309 | 158 | 
 | 2023-02-28 | 3306 | 158 | 
 | 2023-02-27 | 3303 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3224 | 156 | 
 | 2023-02-02 | 3219 | 156 | 
 | 2023-02-01 | 3218 | 156 | 
-| 2023-01-31 | 3217 | 156 | 
 

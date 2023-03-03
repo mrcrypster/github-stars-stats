@@ -1,10 +1,10 @@
 # MISP/MISP - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 1236
 
-★ Stars: 4242
+★ Stars: 4243
 
 [Open repository](https://github.com/MISP/MISP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4243 | 1236 | 
 | 2023-03-01 | 4242 | 1236 | 
 | 2023-02-28 | 4238 | 1235 | 
 | 2023-02-27 | 4238 | 1233 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 4194 | 1221 | 
 | 2023-02-03 | 4193 | 1221 | 
 | 2023-02-01 | 4192 | 1221 | 
-| 2023-01-31 | 4190 | 1220 | 
 

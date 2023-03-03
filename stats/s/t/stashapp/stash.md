@@ -1,10 +1,10 @@
 # stashapp/stash - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 513
 
-★ Stars: 5504
+★ Stars: 5509
 
 [Open repository](https://github.com/stashapp/stash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 5509 | 513 | 
 | 2023-03-01 | 5504 | 513 | 
 | 2023-02-28 | 5502 | 513 | 
 | 2023-02-27 | 5493 | 513 | 

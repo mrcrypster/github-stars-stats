@@ -1,6 +1,6 @@
 # tauri-apps/tao - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 965 | 90 | 
 | 2023-03-01 | 965 | 90 | 
 | 2023-02-28 | 964 | 90 | 
 | 2023-02-27 | 963 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 947 | 85 | 
 | 2023-02-02 | 946 | 85 | 
 | 2023-02-01 | 945 | 85 | 
-| 2023-01-31 | 946 | 84 | 
 

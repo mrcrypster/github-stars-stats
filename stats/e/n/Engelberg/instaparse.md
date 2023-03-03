@@ -1,10 +1,10 @@
 # Engelberg/instaparse - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 144
 
-★ Stars: 2621
+★ Stars: 2622
 
 [Open repository](https://github.com/Engelberg/instaparse)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2622 | 144 | 
 | 2023-03-01 | 2621 | 144 | 
 | 2023-02-27 | 2620 | 144 | 
 | 2023-02-26 | 2615 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2611 | 144 | 
 | 2023-02-02 | 2611 | 144 | 
 | 2023-02-01 | 2611 | 144 | 
-| 2023-01-31 | 2610 | 144 | 
 

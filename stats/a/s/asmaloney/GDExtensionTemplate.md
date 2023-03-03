@@ -1,10 +1,10 @@
 # asmaloney/GDExtensionTemplate - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/asmaloney/GDExtensionTemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 60 | 2 | 
 | 2023-03-01 | 59 | 2 | 
 | 2023-02-28 | 59 | 2 | 
 | 2023-02-27 | 59 | 2 | 

@@ -1,6 +1,6 @@
 # aws-ia/ecs-blueprints - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 100 | 296 | 
 | 2023-03-01 | 100 | 296 | 
 | 2023-02-27 | 100 | 293 | 
 | 2023-02-26 | 100 | 294 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 94 | 256 | 
 | 2023-02-02 | 94 | 257 | 
 | 2023-02-01 | 94 | 257 | 
-| 2023-01-31 | 94 | 257 | 
 

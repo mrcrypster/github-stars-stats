@@ -1,10 +1,10 @@
 # apache/incubator-pekko-persistence-dynamodb - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/apache/incubator-pekko-persistence-dynamodb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 6 | 4 | 
 | 2023-03-01 | 5 | 4 | 
 | 2023-02-28 | 5 | 4 | 
 | 2023-02-27 | 4 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3 | 3 | 
 | 2023-02-03 | 3 | 3 | 
 | 2023-02-02 | 3 | 3 | 
-| 2023-02-01 | 2 | 3 | 
 

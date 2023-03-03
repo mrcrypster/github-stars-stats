@@ -1,6 +1,6 @@
 # kiwanami/emacs-deferred - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 300 | 42 | 
 | 2023-03-01 | 300 | 42 | 
 | 2023-02-27 | 300 | 42 | 
 | 2023-02-26 | 300 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 300 | 42 | 
 | 2023-02-03 | 300 | 42 | 
 | 2023-02-01 | 300 | 42 | 
-| 2023-01-31 | 300 | 42 | 
 

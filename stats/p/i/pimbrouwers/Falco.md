@@ -1,6 +1,6 @@
 # pimbrouwers/Falco - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 434 | 33 | 
 | 2023-03-01 | 434 | 33 | 
 | 2023-02-28 | 434 | 33 | 
 | 2023-02-27 | 434 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 424 | 32 | 
 | 2023-02-03 | 424 | 32 | 
 | 2023-02-02 | 424 | 32 | 
-| 2023-01-31 | 424 | 32 | 
 

@@ -1,6 +1,6 @@
 # ucsd-progsys/elsa - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 162 | 21 | 
 | 2023-03-01 | 162 | 21 | 
 | 2023-02-28 | 162 | 21 | 
 | 2023-02-26 | 162 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 161 | 21 | 
 | 2023-02-03 | 161 | 21 | 
 | 2023-02-01 | 161 | 21 | 
-| 2023-01-31 | 161 | 21 | 
 

@@ -1,10 +1,10 @@
 # jim-fx/plantarium - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 5
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/jim-fx/plantarium)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 254 | 5 | 
 | 2023-03-01 | 253 | 5 | 
 | 2023-02-28 | 253 | 5 | 
 | 2023-02-26 | 253 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 248 | 5 | 
 | 2023-02-02 | 248 | 5 | 
 | 2023-02-01 | 248 | 5 | 
-| 2023-01-31 | 248 | 5 | 
 

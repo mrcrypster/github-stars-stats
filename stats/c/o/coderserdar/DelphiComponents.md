@@ -1,10 +1,10 @@
 # coderserdar/DelphiComponents - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 16
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/coderserdar/DelphiComponents)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 46 | 16 | 
 | 2023-03-01 | 45 | 16 | 
 | 2023-02-28 | 43 | 16 | 
 | 2023-02-26 | 43 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 41 | 16 | 
 | 2023-02-02 | 41 | 16 | 
 | 2023-02-01 | 41 | 16 | 
-| 2023-01-31 | 41 | 17 | 
 

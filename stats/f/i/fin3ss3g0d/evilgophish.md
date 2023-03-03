@@ -1,8 +1,8 @@
 # fin3ss3g0d/evilgophish - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 875
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 875 | 154 | 
 | 2023-03-01 | 875 | 153 | 
 | 2023-02-28 | 871 | 153 | 
 | 2023-02-27 | 869 | 153 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 844 | 141 | 
 | 2023-02-03 | 842 | 140 | 
 | 2023-02-01 | 837 | 140 | 
-| 2023-01-31 | 832 | 140 | 
 

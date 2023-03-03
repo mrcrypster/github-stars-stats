@@ -1,10 +1,10 @@
 # jdxcode/rtx - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 33
 
-★ Stars: 1251
+★ Stars: 1260
 
 [Open repository](https://github.com/jdxcode/rtx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1260 | 33 | 
 | 2023-03-01 | 1251 | 33 | 
 | 2023-02-28 | 1213 | 30 | 
 | 2023-02-27 | 1123 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 230 | 5 | 
 | 2023-02-02 | 220 | 2 | 
 | 2023-02-01 | 216 | 2 | 
-| 2023-01-31 | 190 | 1 | 
 

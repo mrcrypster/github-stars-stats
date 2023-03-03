@@ -1,10 +1,10 @@
 # MLNLP-World/AI-Paper-Collector - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 89
 
-★ Stars: 841
+★ Stars: 851
 
 [Open repository](https://github.com/MLNLP-World/AI-Paper-Collector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 851 | 89 | 
 | 2023-03-01 | 841 | 89 | 
 | 2023-02-27 | 840 | 89 | 
 | 2023-02-26 | 833 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 791 | 79 | 
 | 2023-02-02 | 791 | 79 | 
 | 2023-02-01 | 790 | 79 | 
-| 2023-01-31 | 790 | 79 | 
 

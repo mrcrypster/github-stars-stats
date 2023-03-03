@@ -1,10 +1,10 @@
 # CLIUtils/CLI11 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 298
+☋ Forks: 299
 
-★ Stars: 2535
+★ Stars: 2537
 
 [Open repository](https://github.com/CLIUtils/CLI11)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2537 | 299 | 
 | 2023-03-01 | 2535 | 298 | 
 | 2023-02-28 | 2532 | 298 | 
 | 2023-02-26 | 2531 | 298 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 2483 | 296 | 
 | 2023-02-02 | 2481 | 296 | 
 | 2023-02-01 | 2482 | 296 | 
-| 2023-01-31 | 2483 | 296 | 
 

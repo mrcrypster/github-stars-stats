@@ -1,10 +1,10 @@
 # red-data-tools/YouPlot - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 42
 
-★ Stars: 3227
+★ Stars: 3230
 
 [Open repository](https://github.com/red-data-tools/YouPlot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3230 | 42 | 
 | 2023-03-01 | 3227 | 42 | 
 | 2023-02-28 | 3221 | 42 | 
 | 2023-02-27 | 3218 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3010 | 39 | 
 | 2023-02-02 | 2999 | 39 | 
 | 2023-02-01 | 2990 | 38 | 
-| 2023-01-31 | 2982 | 38 | 
 

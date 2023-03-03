@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 02
 
-☋ Forks: 38
+☋ Forks: 59
 
-★ Stars: 87
+★ Stars: 136
 
 [Open repository](https://github.com/elunez/openai-java)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-02 | 87 | 38 | 
+| 2023-03-02 | 136 | 59 | 
 | 2023-03-01 | 87 | 38 | 
 | 2023-02-28 | 53 | 21 | 
 | 2023-02-26 | 50 | 21 | 

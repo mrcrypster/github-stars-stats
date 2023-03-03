@@ -1,6 +1,6 @@
 # Haivision/srt - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 750
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2485 | 750 | 
 | 2023-03-01 | 2485 | 750 | 
 | 2023-02-28 | 2485 | 749 | 
 | 2023-02-27 | 2481 | 748 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2463 | 737 | 
 | 2023-02-03 | 2463 | 735 | 
 | 2023-02-02 | 2462 | 734 | 
-| 2023-01-31 | 2462 | 734 | 
 

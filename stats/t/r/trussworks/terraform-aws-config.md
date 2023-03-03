@@ -1,10 +1,10 @@
 # trussworks/terraform-aws-config - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 76
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/trussworks/terraform-aws-config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 205 | 76 | 
 | 2023-03-01 | 204 | 76 | 
 | 2023-02-28 | 202 | 76 | 
 | 2023-02-26 | 202 | 76 | 

@@ -1,6 +1,6 @@
 # paulbouwer/hello-kubernetes - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 401
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 351 | 401 | 
 | 2023-03-01 | 351 | 401 | 
 | 2023-02-28 | 350 | 400 | 
 | 2023-02-27 | 350 | 400 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 344 | 393 | 
 | 2023-02-03 | 342 | 393 | 
 | 2023-02-02 | 341 | 392 | 
-| 2023-01-31 | 340 | 391 | 
 

@@ -1,6 +1,6 @@
 # bittentech/Bug-Bounty-Beginner-Roadmap - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 774 | 103 | 
 | 2023-03-01 | 774 | 103 | 
 | 2023-02-28 | 776 | 103 | 
 | 2023-02-27 | 774 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 747 | 97 | 
 | 2023-02-02 | 744 | 97 | 
 | 2023-02-01 | 741 | 96 | 
-| 2023-01-31 | 741 | 96 | 
 

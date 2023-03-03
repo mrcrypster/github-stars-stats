@@ -1,10 +1,10 @@
 # MiracleTanC/Neo4j-KGBuilder - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 368
 
-★ Stars: 822
+★ Stars: 821
 
 [Open repository](https://github.com/MiracleTanC/Neo4j-KGBuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 821 | 368 | 
 | 2023-03-01 | 822 | 368 | 
 | 2023-02-28 | 819 | 367 | 
 | 2023-02-27 | 815 | 367 | 

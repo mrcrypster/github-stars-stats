@@ -1,6 +1,6 @@
 # shresthagrawal/kevlar - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 224 | 20 | 
 | 2023-03-01 | 224 | 20 | 
 | 2023-02-27 | 224 | 20 | 
 | 2023-02-26 | 224 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 221 | 20 | 
 | 2023-02-02 | 220 | 20 | 
 | 2023-02-01 | 219 | 20 | 
-| 2023-01-31 | 219 | 20 | 
 

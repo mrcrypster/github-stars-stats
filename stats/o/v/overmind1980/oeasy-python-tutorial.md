@@ -1,6 +1,6 @@
 # overmind1980/oeasy-python-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 440
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 867 | 440 | 
 | 2023-03-01 | 867 | 440 | 
 | 2023-02-28 | 865 | 439 | 
 | 2023-02-27 | 857 | 437 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 797 | 394 | 
 | 2023-02-02 | 795 | 392 | 
 | 2023-02-01 | 794 | 389 | 
-| 2023-01-31 | 786 | 384 | 
 

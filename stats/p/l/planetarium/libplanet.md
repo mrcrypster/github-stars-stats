@@ -1,6 +1,6 @@
 # planetarium/libplanet - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 472 | 135 | 
 | 2023-03-01 | 472 | 135 | 
 | 2023-02-27 | 472 | 135 | 
 | 2023-02-26 | 472 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 469 | 132 | 
 | 2023-02-02 | 469 | 133 | 
 | 2023-02-01 | 469 | 133 | 
-| 2023-01-31 | 469 | 133 | 
 

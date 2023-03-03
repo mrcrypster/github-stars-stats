@@ -1,8 +1,8 @@
 # ChilliCream/graphql-platform - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 618
+☋ Forks: 617
 
 ★ Stars: 4252
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 4252 | 617 | 
 | 2023-03-01 | 4252 | 618 | 
 | 2023-02-28 | 4251 | 617 | 
 | 2023-02-27 | 4249 | 616 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 4194 | 601 | 
 | 2023-02-02 | 4190 | 600 | 
 | 2023-02-01 | 4185 | 598 | 
-| 2023-01-31 | 4183 | 597 | 
 

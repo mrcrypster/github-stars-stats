@@ -1,10 +1,10 @@
 # mparlak/Flee - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 112
 
-★ Stars: 534
+★ Stars: 535
 
 [Open repository](https://github.com/mparlak/Flee)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 535 | 112 | 
 | 2023-03-01 | 534 | 112 | 
 | 2023-02-28 | 534 | 112 | 
 | 2023-02-27 | 534 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 524 | 111 | 
 | 2023-02-03 | 523 | 111 | 
 | 2023-02-01 | 523 | 111 | 
-| 2023-01-31 | 523 | 111 | 
 

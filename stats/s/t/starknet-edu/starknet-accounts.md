@@ -1,10 +1,10 @@
 # starknet-edu/starknet-accounts - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 21
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/starknet-edu/starknet-accounts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 66 | 21 | 
 | 2023-03-01 | 65 | 21 | 
 | 2023-02-28 | 65 | 21 | 
 | 2023-02-27 | 65 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 55 | 20 | 
 | 2023-02-02 | 55 | 20 | 
 | 2023-02-01 | 55 | 20 | 
-| 2023-01-31 | 55 | 19 | 
 

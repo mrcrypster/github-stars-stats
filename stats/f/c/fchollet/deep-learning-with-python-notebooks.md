@@ -1,10 +1,10 @@
 # fchollet/deep-learning-with-python-notebooks - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 8037
+☋ Forks: 8038
 
-★ Stars: 16485
+★ Stars: 16490
 
 [Open repository](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 16490 | 8038 | 
 | 2023-03-01 | 16485 | 8037 | 
 | 2023-02-27 | 16479 | 8034 | 
 | 2023-02-26 | 16474 | 8032 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 16389 | 8002 | 
 | 2023-02-02 | 16389 | 8001 | 
 | 2023-02-01 | 16386 | 8000 | 
-| 2023-01-31 | 16384 | 7997 | 
 

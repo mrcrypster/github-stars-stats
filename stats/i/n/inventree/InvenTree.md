@@ -1,10 +1,10 @@
 # inventree/InvenTree - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 399
+☋ Forks: 397
 
-★ Stars: 2488
+★ Stars: 2491
 
 [Open repository](https://github.com/inventree/InvenTree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 2491 | 397 | 
 | 2023-03-01 | 2488 | 399 | 
 | 2023-02-28 | 2487 | 399 | 
 | 2023-02-27 | 2485 | 399 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2425 | 382 | 
 | 2023-02-03 | 2423 | 381 | 
 | 2023-02-01 | 2418 | 381 | 
-| 2023-01-31 | 2413 | 381 | 
 

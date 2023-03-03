@@ -1,6 +1,6 @@
 # elastic/apm - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 310 | 93 | 
 | 2023-03-01 | 310 | 93 | 
 | 2023-02-28 | 310 | 93 | 
 | 2023-02-27 | 310 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 302 | 94 | 
 | 2023-02-02 | 301 | 94 | 
 | 2023-02-01 | 301 | 94 | 
-| 2023-01-31 | 301 | 94 | 
 

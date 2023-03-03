@@ -1,8 +1,8 @@
 # N00nDay/stwui - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 6
+☋ Forks: 5
 
 ★ Stars: 164
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 164 | 5 | 
 | 2023-03-01 | 164 | 6 | 
 | 2023-02-27 | 164 | 6 | 
 | 2023-02-26 | 164 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 148 | 4 | 
 | 2023-02-02 | 135 | 4 | 
 | 2023-02-01 | 135 | 4 | 
-| 2023-01-31 | 135 | 4 | 
 

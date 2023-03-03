@@ -1,6 +1,6 @@
 # GoVanguard/list-infosec-encyclopedia - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 534 | 92 | 
 | 2023-03-01 | 534 | 92 | 
 | 2023-02-27 | 534 | 92 | 
 | 2023-02-26 | 534 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 530 | 90 | 
 | 2023-02-03 | 531 | 90 | 
 | 2023-02-02 | 531 | 90 | 
-| 2023-02-01 | 531 | 90 | 
 

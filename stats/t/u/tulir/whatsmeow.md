@@ -1,10 +1,10 @@
 # tulir/whatsmeow - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 174
+☋ Forks: 175
 
-★ Stars: 874
+★ Stars: 877
 
 [Open repository](https://github.com/tulir/whatsmeow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 877 | 175 | 
 | 2023-03-01 | 874 | 174 | 
 | 2023-02-28 | 874 | 174 | 
 | 2023-02-26 | 869 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 829 | 170 | 
 | 2023-02-02 | 828 | 170 | 
 | 2023-02-01 | 828 | 169 | 
-| 2023-01-31 | 824 | 169 | 
 

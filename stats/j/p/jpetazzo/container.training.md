@@ -1,10 +1,10 @@
 # jpetazzo/container.training - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1497
+☋ Forks: 1498
 
-★ Stars: 3252
+★ Stars: 3253
 
 [Open repository](https://github.com/jpetazzo/container.training)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 3253 | 1498 | 
 | 2023-03-01 | 3252 | 1497 | 
 | 2023-02-28 | 3251 | 1497 | 
 | 2023-02-27 | 3249 | 1496 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 3233 | 1486 | 
 | 2023-02-02 | 3231 | 1485 | 
 | 2023-02-01 | 3230 | 1485 | 
-| 2023-01-31 | 3230 | 1485 | 
 

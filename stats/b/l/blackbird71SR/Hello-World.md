@@ -1,8 +1,8 @@
 # blackbird71SR/Hello-World - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 1821
+☋ Forks: 1820
 
 ★ Stars: 647
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 647 | 1820 | 
 | 2023-03-01 | 647 | 1821 | 
 | 2023-02-28 | 646 | 1821 | 
 | 2023-02-27 | 646 | 1819 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 642 | 1822 | 
 | 2023-02-02 | 642 | 1822 | 
 | 2023-02-01 | 642 | 1822 | 
-| 2023-01-31 | 642 | 1822 | 
 

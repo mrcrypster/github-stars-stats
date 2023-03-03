@@ -1,6 +1,6 @@
 # voicemxil/TS2-Starter-Pack - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 56 | 3 | 
 | 2023-03-01 | 56 | 3 | 
 | 2023-02-28 | 56 | 3 | 
 | 2023-02-27 | 55 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 50 | 3 | 
 | 2023-02-02 | 50 | 3 | 
 | 2023-02-01 | 50 | 3 | 
-| 2023-01-31 | 51 | 3 | 
 

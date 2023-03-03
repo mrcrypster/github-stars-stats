@@ -1,10 +1,10 @@
 # denis-g/windows10-latency-optimization - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 20
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/denis-g/windows10-latency-optimization)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 109 | 20 | 
 | 2023-03-01 | 108 | 20 | 
 | 2023-02-28 | 108 | 20 | 
 | 2023-02-27 | 108 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 100 | 19 | 
 | 2023-02-02 | 100 | 19 | 
 | 2023-02-01 | 100 | 19 | 
-| 2023-01-31 | 100 | 19 | 
 

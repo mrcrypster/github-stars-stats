@@ -1,10 +1,10 @@
 # crossoverJie/JCSprout - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 7155
+☋ Forks: 7156
 
-★ Stars: 26934
+★ Stars: 26937
 
 [Open repository](https://github.com/crossoverJie/JCSprout)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 26937 | 7156 | 
 | 2023-03-01 | 26934 | 7155 | 
 | 2023-02-28 | 26937 | 7156 | 
 | 2023-02-27 | 26938 | 7156 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 26929 | 7155 | 
 | 2023-02-03 | 26927 | 7155 | 
 | 2023-02-02 | 26926 | 7154 | 
-| 2023-01-31 | 26924 | 7152 | 
 

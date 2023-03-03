@@ -1,10 +1,10 @@
 # ntex-rs/ntex - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 71
 
-★ Stars: 1165
+★ Stars: 1166
 
 [Open repository](https://github.com/ntex-rs/ntex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1166 | 71 | 
 | 2023-03-01 | 1165 | 71 | 
 | 2023-02-28 | 1164 | 71 | 
 | 2023-02-27 | 1162 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1141 | 69 | 
 | 2023-02-03 | 1141 | 69 | 
 | 2023-02-01 | 1141 | 69 | 
-| 2023-01-31 | 1141 | 69 | 
 

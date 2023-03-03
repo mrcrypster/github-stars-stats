@@ -1,6 +1,6 @@
 # joseadanof/awesome-cloudnative-trainings - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 924 | 151 | 
 | 2023-03-01 | 924 | 151 | 
 | 2023-02-28 | 924 | 151 | 
 | 2023-02-26 | 924 | 151 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-03 | 912 | 146 | 
 | 2023-02-02 | 908 | 145 | 
 | 2023-02-01 | 904 | 145 | 
-| 2023-01-31 | 904 | 144 | 
 

@@ -1,10 +1,10 @@
 # GitHub-Laziji/VBlog - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 02
 
-☋ Forks: 346
+☋ Forks: 347
 
-★ Stars: 1480
+★ Stars: 1481
 
 [Open repository](https://github.com/GitHub-Laziji/VBlog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-02 | 1481 | 347 | 
 | 2023-03-01 | 1480 | 346 | 
 | 2023-02-27 | 1480 | 346 | 
 | 2023-02-26 | 1480 | 346 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1478 | 346 | 
 | 2023-02-02 | 1478 | 346 | 
 | 2023-02-01 | 1478 | 346 | 
-| 2023-01-31 | 1477 | 346 | 
 
