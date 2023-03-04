@@ -1,6 +1,6 @@
 # F5OEO/rpitx - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 447
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3366 | 447 | 
 | 2023-03-02 | 3366 | 447 | 
 | 2023-03-01 | 3364 | 447 | 
 | 2023-02-27 | 3363 | 447 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 3333 | 442 | 
 | 2023-02-03 | 3333 | 442 | 
 | 2023-02-02 | 3332 | 441 | 
-| 2023-02-01 | 3331 | 441 | 
 

@@ -1,10 +1,10 @@
 # Arcns/fast-transition - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 21
+☋ Forks: 23
 
-★ Stars: 114
+★ Stars: 116
 
 [Open repository](https://github.com/Arcns/fast-transition)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 116 | 23 | 
 | 2023-03-02 | 114 | 21 | 
 | 2023-03-01 | 113 | 20 | 
 | 2023-02-28 | 113 | 20 | 

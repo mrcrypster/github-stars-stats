@@ -1,6 +1,6 @@
 # loganmarchione/homelab-svg-assets - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 382 | 22 | 
 | 2023-03-02 | 382 | 22 | 
 | 2023-03-01 | 382 | 22 | 
 | 2023-02-28 | 382 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 372 | 22 | 
 | 2023-02-04 | 370 | 21 | 
 | 2023-02-03 | 369 | 21 | 
-| 2023-02-02 | 368 | 21 | 
 

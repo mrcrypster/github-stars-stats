@@ -1,10 +1,10 @@
 # PortAudio/portaudio - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 196
 
-★ Stars: 832
+★ Stars: 834
 
 [Open repository](https://github.com/PortAudio/portaudio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 834 | 196 | 
 | 2023-03-02 | 832 | 196 | 
 | 2023-03-01 | 832 | 195 | 
 | 2023-02-28 | 831 | 194 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 815 | 190 | 
 | 2023-02-03 | 816 | 190 | 
 | 2023-02-02 | 815 | 190 | 
-| 2023-02-01 | 813 | 190 | 
 

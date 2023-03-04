@@ -1,6 +1,6 @@
 # haxi0/TrollApps - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 212 | 9 | 
 | 2023-03-02 | 212 | 9 | 
 | 2023-03-01 | 210 | 9 | 
 | 2023-02-28 | 209 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 201 | 9 | 
 | 2023-02-03 | 201 | 9 | 
 | 2023-02-02 | 201 | 9 | 
-| 2023-02-01 | 201 | 9 | 
 

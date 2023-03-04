@@ -1,6 +1,6 @@
 # geniusyield/cardano-hackathon-argentina-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4 | 8 | 
 | 2023-03-02 | 4 | 8 | 
 | 2023-03-01 | 4 | 8 | 
 | 2023-02-28 | 4 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 4 | 7 | 
 | 2023-02-03 | 4 | 7 | 
 | 2023-02-02 | 4 | 7 | 
-| 2023-02-01 | 4 | 7 | 
 

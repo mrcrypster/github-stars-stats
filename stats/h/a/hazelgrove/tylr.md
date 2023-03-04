@@ -1,6 +1,6 @@
 # hazelgrove/tylr - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 232 | 2 | 
 | 2023-03-02 | 232 | 2 | 
 | 2023-03-01 | 232 | 2 | 
 | 2023-02-27 | 232 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 232 | 2 | 
 | 2023-02-03 | 232 | 2 | 
 | 2023-02-02 | 232 | 2 | 
-| 2023-02-01 | 232 | 2 | 
 

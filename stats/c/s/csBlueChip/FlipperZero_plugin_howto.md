@@ -1,6 +1,6 @@
 # csBlueChip/FlipperZero_plugin_howto - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 133 | 4 | 
 | 2023-03-02 | 133 | 4 | 
 | 2023-03-01 | 132 | 4 | 
 | 2023-02-27 | 131 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 118 | 4 | 
 | 2023-02-03 | 118 | 4 | 
 | 2023-02-02 | 117 | 4 | 
-| 2023-02-01 | 117 | 4 | 
 

@@ -1,6 +1,6 @@
 # Installomator/Installomator - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 287
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 674 | 287 | 
 | 2023-03-02 | 674 | 287 | 
 | 2023-03-01 | 673 | 286 | 
 | 2023-02-28 | 672 | 286 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 655 | 270 | 
 | 2023-02-03 | 655 | 270 | 
 | 2023-02-02 | 654 | 268 | 
-| 2023-02-01 | 653 | 269 | 
 

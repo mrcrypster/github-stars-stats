@@ -1,6 +1,6 @@
 # jiro4989/ojosama - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 366 | 12 | 
 | 2023-03-02 | 366 | 12 | 
 | 2023-03-01 | 366 | 12 | 
 | 2023-02-27 | 363 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 362 | 12 | 
 | 2023-02-03 | 362 | 12 | 
 | 2023-02-02 | 362 | 12 | 
-| 2023-02-01 | 362 | 12 | 
 

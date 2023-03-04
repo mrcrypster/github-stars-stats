@@ -1,10 +1,10 @@
 # lucidrains/big-sleep - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 271
 
-★ Stars: 2399
+★ Stars: 2398
 
 [Open repository](https://github.com/lucidrains/big-sleep)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2398 | 271 | 
 | 2023-03-02 | 2399 | 271 | 
 | 2023-03-01 | 2399 | 271 | 
 | 2023-02-28 | 2397 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2354 | 266 | 
 | 2023-02-03 | 2355 | 267 | 
 | 2023-02-02 | 2355 | 266 | 
-| 2023-02-01 | 2355 | 266 | 
 

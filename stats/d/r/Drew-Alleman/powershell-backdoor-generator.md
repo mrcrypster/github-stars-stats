@@ -1,10 +1,10 @@
 # Drew-Alleman/powershell-backdoor-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/Drew-Alleman/powershell-backdoor-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 59 | 10 | 
 | 2023-03-02 | 58 | 10 | 
 | 2023-02-28 | 58 | 9 | 
 | 2023-02-27 | 57 | 9 | 

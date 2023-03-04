@@ -1,6 +1,6 @@
 # benc-uk/super-dungeon-delve - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 86 | 20 | 
 | 2023-03-02 | 86 | 20 | 
 | 2023-03-01 | 85 | 20 | 
 | 2023-02-28 | 85 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 83 | 19 | 
 | 2023-02-04 | 83 | 19 | 
 | 2023-02-03 | 83 | 19 | 
-| 2023-02-02 | 83 | 19 | 
 

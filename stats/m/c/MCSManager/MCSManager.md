@@ -1,8 +1,8 @@
 # MCSManager/MCSManager - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 264
+☋ Forks: 263
 
 ★ Stars: 1997
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1997 | 263 | 
 | 2023-03-02 | 1997 | 264 | 
 | 2023-03-01 | 1992 | 264 | 
 | 2023-02-28 | 1987 | 264 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1945 | 262 | 
 | 2023-02-03 | 1941 | 263 | 
 | 2023-02-02 | 1938 | 263 | 
-| 2023-02-01 | 1936 | 263 | 
 

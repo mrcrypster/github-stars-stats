@@ -1,10 +1,10 @@
 # Kudaes/Split - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/Kudaes/Split)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 145 | 15 | 
 | 2023-03-02 | 144 | 14 | 
 | 2023-03-01 | 144 | 14 | 
 | 2023-02-27 | 143 | 14 | 

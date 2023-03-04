@@ -1,10 +1,10 @@
 # line/armeria - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 784
+☋ Forks: 785
 
-★ Stars: 4154
+★ Stars: 4156
 
 [Open repository](https://github.com/line/armeria)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 4156 | 785 | 
 | 2023-03-02 | 4154 | 784 | 
 | 2023-03-01 | 4153 | 784 | 
 | 2023-02-28 | 4151 | 782 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 4111 | 762 | 
 | 2023-02-03 | 4110 | 762 | 
 | 2023-02-02 | 4109 | 762 | 
-| 2023-02-01 | 4108 | 762 | 
 

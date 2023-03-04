@@ -1,10 +1,10 @@
 # IdentityServer/IdentityServer4 - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3815
 
-★ Stars: 8997
+★ Stars: 8996
 
 [Open repository](https://github.com/IdentityServer/IdentityServer4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 8996 | 3815 | 
 | 2023-03-02 | 8997 | 3815 | 
 | 2023-02-28 | 8996 | 3815 | 
 | 2023-02-27 | 8996 | 3813 | 

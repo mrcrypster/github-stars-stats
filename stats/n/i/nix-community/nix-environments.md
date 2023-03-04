@@ -1,10 +1,10 @@
 # nix-community/nix-environments - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/nix-community/nix-environments)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 126 | 23 | 
 | 2023-03-02 | 125 | 22 | 
 | 2023-03-01 | 126 | 22 | 
 | 2023-02-27 | 126 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 122 | 22 | 
 | 2023-02-03 | 122 | 22 | 
 | 2023-02-02 | 122 | 22 | 
-| 2023-02-01 | 122 | 22 | 
 

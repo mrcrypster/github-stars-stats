@@ -1,10 +1,10 @@
 # open-source-labs/OverVue - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 250
 
-★ Stars: 2361
+★ Stars: 2362
 
 [Open repository](https://github.com/open-source-labs/OverVue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2362 | 250 | 
 | 2023-03-02 | 2361 | 250 | 
 | 2023-03-01 | 2361 | 250 | 
 | 2023-02-28 | 2361 | 250 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2355 | 250 | 
 | 2023-02-04 | 2355 | 250 | 
 | 2023-02-03 | 2354 | 250 | 
-| 2023-02-02 | 2354 | 250 | 
 

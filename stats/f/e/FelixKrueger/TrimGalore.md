@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 03
 
 ☋ Forks: 135
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/FelixKrueger/TrimGalore)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-03 | 365 | 135 | 
+| 2023-03-03 | 366 | 135 | 
 | 2023-03-02 | 365 | 135 | 
 | 2023-03-01 | 365 | 135 | 
 | 2023-02-27 | 365 | 133 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-04 | 361 | 134 | 
 | 2023-02-03 | 361 | 134 | 
 | 2023-02-02 | 361 | 134 | 
-| 2023-02-01 | 361 | 134 | 
 

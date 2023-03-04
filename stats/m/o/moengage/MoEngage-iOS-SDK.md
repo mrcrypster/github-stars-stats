@@ -1,6 +1,6 @@
 # moengage/MoEngage-iOS-SDK - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 13 | 18 | 
 | 2023-03-02 | 13 | 18 | 
 | 2023-03-01 | 12 | 18 | 
 | 2023-02-27 | 12 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 11 | 17 | 
 | 2023-02-03 | 11 | 17 | 
 | 2023-02-02 | 11 | 17 | 
-| 2023-02-01 | 11 | 17 | 
 

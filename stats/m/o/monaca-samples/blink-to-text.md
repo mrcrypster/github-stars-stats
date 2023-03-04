@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 03
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 124
+★ Stars: 138
 
 [Open repository](https://github.com/monaca-samples/blink-to-text)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-03 | 124 | 14 | 
+| 2023-03-03 | 138 | 15 | 
 | 2023-03-02 | 119 | 14 | 
 | 2023-03-01 | 93 | 9 | 
 

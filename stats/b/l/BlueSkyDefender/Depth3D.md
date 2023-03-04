@@ -1,10 +1,10 @@
 # BlueSkyDefender/Depth3D - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 54
 
-★ Stars: 393
+★ Stars: 394
 
 [Open repository](https://github.com/BlueSkyDefender/Depth3D)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 394 | 54 | 
 | 2023-03-02 | 393 | 54 | 
 | 2023-03-01 | 393 | 54 | 
 | 2023-02-28 | 393 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 388 | 54 | 
 | 2023-02-03 | 388 | 54 | 
 | 2023-02-02 | 388 | 54 | 
-| 2023-02-01 | 388 | 54 | 
 

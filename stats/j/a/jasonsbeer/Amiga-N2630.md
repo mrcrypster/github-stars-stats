@@ -1,6 +1,6 @@
 # jasonsbeer/Amiga-N2630 - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 22 | 4 | 
 | 2023-03-02 | 22 | 4 | 
 | 2023-03-01 | 22 | 4 | 
 | 2023-02-28 | 22 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 19 | 4 | 
 | 2023-02-03 | 19 | 4 | 
 | 2023-02-02 | 19 | 4 | 
-| 2023-02-01 | 18 | 4 | 
 

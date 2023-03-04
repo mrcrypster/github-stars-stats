@@ -1,6 +1,6 @@
 # procore/elixir-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 7 | 3 | 
 | 2023-03-02 | 7 | 3 | 
 | 2023-03-01 | 7 | 3 | 
 | 2023-02-28 | 7 | 3 | 

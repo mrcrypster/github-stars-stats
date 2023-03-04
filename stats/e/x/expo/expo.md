@@ -1,10 +1,10 @@
 # expo/expo - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 3878
+☋ Forks: 3879
 
-★ Stars: 19310
+★ Stars: 19329
 
 [Open repository](https://github.com/expo/expo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 19329 | 3879 | 
 | 2023-03-02 | 19310 | 3878 | 
 | 2023-03-01 | 19305 | 3877 | 
 | 2023-02-28 | 19268 | 3869 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 18917 | 3814 | 
 | 2023-02-03 | 18901 | 3813 | 
 | 2023-02-02 | 18892 | 3808 | 
-| 2023-02-01 | 18879 | 3808 | 
 

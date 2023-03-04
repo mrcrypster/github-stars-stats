@@ -1,10 +1,10 @@
 # paulmillr/noble-curves - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/paulmillr/noble-curves)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 249 | 20 | 
 | 2023-03-02 | 248 | 19 | 
 | 2023-03-01 | 248 | 19 | 
 | 2023-02-28 | 247 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 222 | 11 | 
 | 2023-02-03 | 221 | 11 | 
 | 2023-02-02 | 221 | 11 | 
-| 2023-02-01 | 219 | 11 | 
 

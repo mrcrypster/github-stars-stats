@@ -1,6 +1,6 @@
 # AdoptOpenJDK/openjdk-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 411 | 241 | 
 | 2023-03-02 | 411 | 241 | 
 | 2023-03-01 | 410 | 241 | 
 | 2023-02-28 | 410 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 407 | 238 | 
 | 2023-02-03 | 407 | 238 | 
 | 2023-02-02 | 405 | 236 | 
-| 2023-02-01 | 403 | 236 | 
 

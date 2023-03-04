@@ -1,10 +1,10 @@
 # davipon/svelte-component-test-recipes - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/davipon/svelte-component-test-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 86 | 3 | 
 | 2023-03-01 | 85 | 3 | 
 | 2023-02-28 | 85 | 3 | 
 | 2023-02-27 | 84 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 74 | 3 | 
 | 2023-02-04 | 74 | 3 | 
 | 2023-02-02 | 73 | 3 | 
-| 2023-02-01 | 73 | 3 | 
 

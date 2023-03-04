@@ -1,10 +1,10 @@
 # flower-corp/rosedb - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 530
 
-★ Stars: 3542
+★ Stars: 3544
 
 [Open repository](https://github.com/flower-corp/rosedb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3544 | 530 | 
 | 2023-03-02 | 3542 | 530 | 
 | 2023-03-01 | 3539 | 531 | 
 | 2023-02-28 | 3539 | 531 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 3500 | 529 | 
 | 2023-02-03 | 3499 | 529 | 
 | 2023-02-02 | 3496 | 529 | 
-| 2023-02-01 | 3490 | 530 | 
 

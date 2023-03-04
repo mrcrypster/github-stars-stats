@@ -1,6 +1,6 @@
 # stacksimplify/terraform-on-azure-with-azure-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 397
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 40 | 397 | 
 | 2023-03-02 | 40 | 397 | 
 | 2023-03-01 | 40 | 397 | 
 | 2023-02-28 | 40 | 396 | 

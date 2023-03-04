@@ -1,6 +1,6 @@
 # FTM-Labs/Aptos-NFT-Mint - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 164 | 100 | 
 | 2023-03-02 | 164 | 100 | 
 | 2023-03-01 | 164 | 100 | 
 | 2023-02-28 | 164 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 163 | 99 | 
 | 2023-02-03 | 162 | 98 | 
 | 2023-02-02 | 162 | 98 | 
-| 2023-02-01 | 162 | 98 | 
 

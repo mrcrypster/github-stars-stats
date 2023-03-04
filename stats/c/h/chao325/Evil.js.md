@@ -1,10 +1,10 @@
 # chao325/Evil.js - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 179
+☋ Forks: 180
 
-★ Stars: 234
+★ Stars: 233
 
 [Open repository](https://github.com/chao325/Evil.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 233 | 180 | 
 | 2023-03-02 | 234 | 179 | 
 | 2023-03-01 | 234 | 179 | 
 | 2023-02-28 | 233 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 225 | 181 | 
 | 2023-02-03 | 224 | 181 | 
 | 2023-02-02 | 225 | 181 | 
-| 2023-02-01 | 226 | 181 | 
 

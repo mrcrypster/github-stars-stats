@@ -1,8 +1,8 @@
 # aws/eks-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 671
+☋ Forks: 672
 
 ★ Stars: 974
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 974 | 672 | 
 | 2023-03-02 | 974 | 671 | 
 | 2023-03-01 | 973 | 670 | 
 | 2023-02-28 | 973 | 669 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 964 | 653 | 
 | 2023-02-03 | 964 | 653 | 
 | 2023-02-02 | 964 | 653 | 
-| 2023-02-01 | 964 | 651 | 
 

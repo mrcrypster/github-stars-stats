@@ -1,6 +1,6 @@
 # Revadike/Misc-JavaScript-Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 88 | 11 | 
 | 2023-03-02 | 88 | 11 | 
 | 2023-03-01 | 88 | 11 | 
 | 2023-02-28 | 88 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 88 | 11 | 
 | 2023-02-03 | 88 | 11 | 
 | 2023-02-02 | 88 | 11 | 
-| 2023-02-01 | 88 | 11 | 
 

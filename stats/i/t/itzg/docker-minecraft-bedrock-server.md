@@ -1,6 +1,6 @@
 # itzg/docker-minecraft-bedrock-server - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 733 | 155 | 
 | 2023-03-02 | 733 | 155 | 
 | 2023-03-01 | 732 | 155 | 
 | 2023-02-28 | 733 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 717 | 151 | 
 | 2023-02-03 | 717 | 151 | 
 | 2023-02-02 | 716 | 151 | 
-| 2023-02-01 | 716 | 151 | 
 

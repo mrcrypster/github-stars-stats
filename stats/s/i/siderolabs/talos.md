@@ -1,10 +1,10 @@
 # siderolabs/talos - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 300
+☋ Forks: 301
 
-★ Stars: 3659
+★ Stars: 3663
 
 [Open repository](https://github.com/siderolabs/talos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3663 | 301 | 
 | 2023-03-02 | 3659 | 300 | 
 | 2023-03-01 | 3659 | 299 | 
 | 2023-02-28 | 3656 | 299 | 

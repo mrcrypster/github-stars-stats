@@ -1,6 +1,6 @@
 # jimmy-byte/-HactoberFest2022-For_All_Beginers- - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 501
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 160 | 501 | 
 | 2023-03-01 | 160 | 501 | 
 | 2023-02-28 | 160 | 501 | 
 | 2023-02-27 | 160 | 501 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 162 | 503 | 
 | 2023-02-03 | 162 | 503 | 
 | 2023-02-02 | 162 | 504 | 
-| 2023-02-01 | 162 | 504 | 
 

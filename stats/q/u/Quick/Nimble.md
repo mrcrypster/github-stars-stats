@@ -1,10 +1,10 @@
 # Quick/Nimble - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 511
 
-★ Stars: 4623
+★ Stars: 4624
 
 [Open repository](https://github.com/Quick/Nimble)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 4624 | 511 | 
 | 2023-03-02 | 4623 | 511 | 
 | 2023-02-28 | 4622 | 511 | 
 | 2023-02-27 | 4621 | 511 | 

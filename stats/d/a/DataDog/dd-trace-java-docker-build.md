@@ -1,6 +1,6 @@
 # DataDog/dd-trace-java-docker-build - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 4 | 5 | 
 | 2023-03-02 | 4 | 5 | 
 | 2023-03-01 | 4 | 4 | 
 | 2023-02-27 | 4 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 4 | 4 | 
 | 2023-02-03 | 4 | 4 | 
 | 2023-02-02 | 4 | 4 | 
-| 2023-02-01 | 4 | 4 | 
 

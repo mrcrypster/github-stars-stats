@@ -1,10 +1,10 @@
 # Faridanur11/ZorinRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 23
+☋ Forks: 28
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Faridanur11/ZorinRDP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1 | 28 | 
 | 2023-03-02 | - | 23 | 
 | 2023-03-01 | - | 23 | 
 | 2023-02-28 | - | 18 | 

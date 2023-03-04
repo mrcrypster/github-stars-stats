@@ -1,6 +1,6 @@
 # phase1geo/Annotator - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 150 | 16 | 
 | 2023-03-02 | 150 | 16 | 
 | 2023-03-01 | 150 | 16 | 
 | 2023-02-28 | 150 | 16 | 

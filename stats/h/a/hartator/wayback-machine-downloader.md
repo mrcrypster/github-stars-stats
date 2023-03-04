@@ -1,10 +1,10 @@
 # hartator/wayback-machine-downloader - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 572
 
-★ Stars: 4286
+★ Stars: 4289
 
 [Open repository](https://github.com/hartator/wayback-machine-downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4289 | 572 | 
 | 2023-03-02 | 4286 | 572 | 
 | 2023-03-01 | 4283 | 572 | 
 | 2023-02-28 | 4282 | 572 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 4244 | 565 | 
 | 2023-02-04 | 4243 | 565 | 
 | 2023-02-03 | 4241 | 565 | 
-| 2023-02-01 | 4241 | 564 | 
 

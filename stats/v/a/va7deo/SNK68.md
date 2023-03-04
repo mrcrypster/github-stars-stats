@@ -1,10 +1,10 @@
 # va7deo/SNK68 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/va7deo/SNK68)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 12 | 1 | 
 | 2023-03-01 | 10 | 1 | 
 | 2023-02-28 | 10 | 1 | 
 | 2023-02-27 | 10 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 10 | 1 | 
 | 2023-02-03 | 10 | 1 | 
 | 2023-02-02 | 10 | 1 | 
-| 2023-02-01 | 10 | 1 | 
 

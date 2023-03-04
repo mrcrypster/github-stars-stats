@@ -1,10 +1,10 @@
 # phoenixframework/phoenix_live_view - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 734
 
-★ Stars: 5092
+★ Stars: 5095
 
 [Open repository](https://github.com/phoenixframework/phoenix_live_view)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5095 | 734 | 
 | 2023-03-02 | 5092 | 734 | 
 | 2023-03-01 | 5090 | 733 | 
 | 2023-02-28 | 5089 | 733 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 5038 | 718 | 
 | 2023-02-03 | 5033 | 717 | 
 | 2023-02-02 | 5033 | 717 | 
-| 2023-02-01 | 5029 | 717 | 
 

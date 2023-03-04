@@ -1,8 +1,8 @@
 # rhaiscript/rhai - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 143
+☋ Forks: 142
 
 ★ Stars: 2567
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2567 | 142 | 
 | 2023-03-02 | 2567 | 143 | 
 | 2023-03-01 | 2565 | 143 | 
 | 2023-02-27 | 2563 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2489 | 139 | 
 | 2023-02-03 | 2489 | 140 | 
 | 2023-02-02 | 2487 | 141 | 
-| 2023-02-01 | 2483 | 141 | 
 

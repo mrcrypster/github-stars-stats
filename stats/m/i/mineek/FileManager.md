@@ -1,6 +1,6 @@
 # mineek/FileManager - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 80 | 18 | 
 | 2023-03-02 | 80 | 18 | 
 | 2023-03-01 | 80 | 18 | 
 | 2023-02-27 | 80 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 76 | 19 | 
 | 2023-02-03 | 76 | 19 | 
 | 2023-02-02 | 75 | 19 | 
-| 2023-02-01 | 74 | 19 | 
 

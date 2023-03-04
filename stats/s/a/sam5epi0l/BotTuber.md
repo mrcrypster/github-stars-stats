@@ -1,10 +1,10 @@
 # sam5epi0l/BotTuber - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 62
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/sam5epi0l/BotTuber)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 273 | 62 | 
 | 2023-03-02 | 272 | 62 | 
 | 2023-03-01 | 272 | 61 | 
 | 2023-02-27 | 272 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 261 | 58 | 
 | 2023-02-03 | 259 | 58 | 
 | 2023-02-02 | 259 | 58 | 
-| 2023-02-01 | 258 | 58 | 
 

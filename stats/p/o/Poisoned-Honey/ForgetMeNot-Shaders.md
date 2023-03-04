@@ -1,10 +1,10 @@
 # Poisoned-Honey/ForgetMeNot-Shaders - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Poisoned-Honey/ForgetMeNot-Shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 24 | 4 | 
 | 2023-03-02 | 23 | 4 | 
 | 2023-03-01 | 23 | 4 | 
 | 2023-02-27 | 23 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 23 | 4 | 
 | 2023-02-03 | 23 | 4 | 
 | 2023-02-02 | 23 | 4 | 
-| 2023-02-01 | 23 | 4 | 
 

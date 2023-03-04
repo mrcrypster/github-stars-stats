@@ -1,10 +1,10 @@
 # JoelGMSec/AutoRDPwn - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 793
 
-★ Stars: 944
+★ Stars: 945
 
 [Open repository](https://github.com/JoelGMSec/AutoRDPwn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 945 | 793 | 
 | 2023-03-02 | 944 | 793 | 
 | 2023-03-01 | 944 | 793 | 
 | 2023-02-28 | 944 | 793 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 941 | 785 | 
 | 2023-02-03 | 941 | 785 | 
 | 2023-02-02 | 941 | 785 | 
-| 2023-02-01 | 941 | 784 | 
 

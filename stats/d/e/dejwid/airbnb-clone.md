@@ -1,10 +1,10 @@
 # dejwid/airbnb-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 30
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/dejwid/airbnb-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 70 | 30 | 
 | 2023-03-02 | 69 | 30 | 
 | 2023-03-01 | 65 | 29 | 
 | 2023-02-28 | 63 | 28 | 

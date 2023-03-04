@@ -1,10 +1,10 @@
 # swordcube/FNF-Plasma-Engine - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/swordcube/FNF-Plasma-Engine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 19 | 6 | 
 | 2023-03-02 | 20 | 6 | 
 | 2023-03-01 | 20 | 6 | 
 | 2023-02-28 | 20 | 6 | 

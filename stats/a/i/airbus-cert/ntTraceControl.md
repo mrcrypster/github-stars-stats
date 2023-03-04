@@ -1,10 +1,10 @@
 # airbus-cert/ntTraceControl - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/airbus-cert/ntTraceControl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 69 | 9 | 
 | 2023-03-02 | 68 | 9 | 
 | 2023-03-01 | 68 | 9 | 
 | 2023-02-28 | 68 | 9 | 

@@ -1,10 +1,10 @@
 # Maktm/FLIRTDB - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 171
 
-★ Stars: 1035
+★ Stars: 1036
 
 [Open repository](https://github.com/Maktm/FLIRTDB)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1036 | 171 | 
 | 2023-03-02 | 1035 | 171 | 
 | 2023-03-01 | 1035 | 171 | 
 | 2023-02-28 | 1035 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1030 | 171 | 
 | 2023-02-03 | 1030 | 171 | 
 | 2023-02-02 | 1029 | 171 | 
-| 2023-02-01 | 1029 | 171 | 
 

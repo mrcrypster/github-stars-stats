@@ -1,8 +1,8 @@
 # braziljs/eloquente-javascript - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 1140
+☋ Forks: 1139
 
 ★ Stars: 4688
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 4688 | 1139 | 
 | 2023-03-02 | 4688 | 1140 | 
 | 2023-03-01 | 4685 | 1141 | 
 | 2023-02-28 | 4680 | 1138 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 4661 | 1133 | 
 | 2023-02-04 | 4662 | 1133 | 
 | 2023-02-02 | 4661 | 1132 | 
-| 2023-02-01 | 4660 | 1132 | 
 

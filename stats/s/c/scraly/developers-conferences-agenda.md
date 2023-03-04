@@ -1,10 +1,10 @@
 # scraly/developers-conferences-agenda - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 207
+☋ Forks: 208
 
-★ Stars: 873
+★ Stars: 878
 
 [Open repository](https://github.com/scraly/developers-conferences-agenda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 878 | 208 | 
 | 2023-03-02 | 873 | 207 | 
 | 2023-03-01 | 872 | 206 | 
 | 2023-02-27 | 869 | 204 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 814 | 200 | 
 | 2023-02-03 | 809 | 200 | 
 | 2023-02-02 | 800 | 200 | 
-| 2023-02-01 | 799 | 200 | 
 

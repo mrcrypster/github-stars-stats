@@ -1,10 +1,10 @@
 # SHUAILEFT/Veaser - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 77
+★ Stars: 81
 
 [Open repository](https://github.com/SHUAILEFT/Veaser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 81 | 1 | 
 | 2023-03-02 | 77 | 1 | 
 | 2023-03-01 | 73 | 1 | 
 | 2023-02-28 | 72 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 31 | - | 
 | 2023-02-03 | 29 | - | 
 | 2023-02-02 | 29 | - | 
-| 2023-02-01 | 29 | - | 
 

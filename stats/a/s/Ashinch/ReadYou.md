@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 03
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 1949
+★ Stars: 1955
 
 [Open repository](https://github.com/Ashinch/ReadYou)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-03 | 1949 | 79 | 
+| 2023-03-03 | 1955 | 80 | 
 | 2023-03-02 | 1945 | 79 | 
 | 2023-03-01 | 1927 | 79 | 
 | 2023-02-28 | 1888 | 79 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1643 | 73 | 
 | 2023-02-04 | 1639 | 73 | 
 | 2023-02-03 | 1633 | 73 | 
-| 2023-02-02 | 1627 | 73 | 
 

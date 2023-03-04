@@ -1,8 +1,8 @@
 # Rongjiehuang/GenerSpeech - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 180 | 33 | 
 | 2023-03-02 | 180 | 32 | 
 | 2023-03-01 | 180 | 31 | 
 | 2023-02-28 | 180 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 168 | 29 | 
 | 2023-02-04 | 167 | 29 | 
 | 2023-02-03 | 167 | 29 | 
-| 2023-02-01 | 167 | 29 | 
 

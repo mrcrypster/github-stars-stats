@@ -1,10 +1,10 @@
 # rust-lang/rustup - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 796
+☋ Forks: 797
 
-★ Stars: 5184
+★ Stars: 5185
 
 [Open repository](https://github.com/rust-lang/rustup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5185 | 797 | 
 | 2023-03-02 | 5184 | 796 | 
 | 2023-03-01 | 5183 | 796 | 
 | 2023-02-28 | 5181 | 796 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 5116 | 790 | 
 | 2023-02-03 | 5113 | 790 | 
 | 2023-02-02 | 5111 | 790 | 
-| 2023-02-01 | 5110 | 790 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/askfiy/visual_studio_code)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-03 | 37 | 3 | 
+| 2023-03-03 | 38 | 3 | 
 | 2023-03-02 | 36 | 3 | 
 

@@ -1,6 +1,6 @@
 # EddyVerbruggen/SocialSharing-PhoneGap-Plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 891
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1780 | 891 | 
 | 2023-03-02 | 1780 | 891 | 
 | 2023-03-01 | 1780 | 888 | 
 | 2023-02-28 | 1780 | 888 | 

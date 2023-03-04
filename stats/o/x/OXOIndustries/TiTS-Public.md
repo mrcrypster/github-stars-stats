@@ -1,6 +1,6 @@
 # OXOIndustries/TiTS-Public - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 107 | 81 | 
 | 2023-03-02 | 107 | 81 | 
 | 2023-03-01 | 107 | 81 | 
 | 2023-02-28 | 106 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 106 | 81 | 
 | 2023-02-04 | 106 | 81 | 
 | 2023-02-03 | 106 | 81 | 
-| 2023-02-02 | 106 | 81 | 
 

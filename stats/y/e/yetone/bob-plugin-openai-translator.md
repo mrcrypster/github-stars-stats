@@ -1,10 +1,10 @@
 # yetone/bob-plugin-openai-translator - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 24
+☋ Forks: 49
 
-★ Stars: 464
+★ Stars: 1364
 
 [Open repository](https://github.com/yetone/bob-plugin-openai-translator)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1364 | 49 | 
+| 2023-03-03 | 1305 | 47 | 
 | 2023-03-02 | 464 | 24 | 
 | 2023-03-01 | 444 | 23 | 
 | 2023-02-27 | 420 | 23 | 

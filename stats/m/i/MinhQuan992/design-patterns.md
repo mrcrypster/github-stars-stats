@@ -1,6 +1,6 @@
 # MinhQuan992/design-patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 22 | 11 | 
 | 2023-03-02 | 22 | 11 | 
 | 2023-03-01 | 22 | 11 | 
 | 2023-02-27 | 22 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 22 | 9 | 
 | 2023-02-04 | 21 | 9 | 
 | 2023-02-02 | 21 | 9 | 
-| 2023-02-01 | 21 | 9 | 
 

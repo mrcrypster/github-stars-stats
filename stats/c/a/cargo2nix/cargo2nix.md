@@ -1,6 +1,6 @@
 # cargo2nix/cargo2nix - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 205 | 55 | 
 | 2023-03-01 | 205 | 55 | 
 | 2023-02-28 | 205 | 54 | 
 | 2023-02-27 | 205 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 199 | 54 | 
 | 2023-02-03 | 198 | 54 | 
 | 2023-02-02 | 198 | 54 | 
-| 2023-02-01 | 198 | 54 | 
 

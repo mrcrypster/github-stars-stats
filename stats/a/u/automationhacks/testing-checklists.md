@@ -1,6 +1,6 @@
 # automationhacks/testing-checklists - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 118 | 14 | 
 | 2023-03-02 | 118 | 14 | 
 | 2023-03-01 | 118 | 14 | 
 | 2023-02-28 | 118 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 100 | 15 | 
 | 2023-02-03 | 99 | 15 | 
 | 2023-02-02 | 98 | 15 | 
-| 2023-02-01 | 92 | 14 | 
 

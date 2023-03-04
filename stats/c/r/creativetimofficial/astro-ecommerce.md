@@ -1,10 +1,10 @@
 # creativetimofficial/astro-ecommerce - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 50
+☋ Forks: 52
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/creativetimofficial/astro-ecommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 53 | 52 | 
 | 2023-03-02 | 52 | 50 | 
 | 2023-03-01 | 52 | 49 | 
 | 2023-02-28 | 52 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 34 | 16 | 
 | 2023-02-03 | 34 | 16 | 
 | 2023-02-02 | 31 | 13 | 
-| 2023-02-01 | 27 | 9 | 
 

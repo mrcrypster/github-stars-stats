@@ -1,6 +1,6 @@
 # basho/lager_syslog - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 59 | 81 | 
 | 2023-03-02 | 59 | 81 | 
 | 2023-03-01 | 59 | 81 | 
 | 2023-02-28 | 59 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 60 | 81 | 
 | 2023-02-03 | 60 | 81 | 
 | 2023-02-02 | 60 | 81 | 
-| 2023-02-01 | 60 | 81 | 
 

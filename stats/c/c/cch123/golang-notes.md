@@ -1,10 +1,10 @@
 # cch123/golang-notes - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 637
 
-★ Stars: 3682
+★ Stars: 3685
 
 [Open repository](https://github.com/cch123/golang-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3685 | 637 | 
 | 2023-03-02 | 3682 | 637 | 
 | 2023-02-28 | 3682 | 636 | 
 | 2023-02-27 | 3680 | 637 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 3643 | 631 | 
 | 2023-02-03 | 3642 | 631 | 
 | 2023-02-02 | 3641 | 630 | 
-| 2023-02-01 | 3640 | 630 | 
 

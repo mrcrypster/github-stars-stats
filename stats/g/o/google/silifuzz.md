@@ -1,8 +1,8 @@
 # google/silifuzz - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 326
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 326 | 18 | 
 | 2023-03-01 | 326 | 17 | 
 | 2023-02-28 | 326 | 17 | 
 | 2023-02-27 | 326 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 327 | 17 | 
 | 2023-02-03 | 327 | 17 | 
 | 2023-02-02 | 327 | 17 | 
-| 2023-02-01 | 327 | 17 | 
 

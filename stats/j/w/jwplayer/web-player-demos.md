@@ -1,6 +1,6 @@
 # jwplayer/web-player-demos - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 503
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 189 | 503 | 
 | 2023-03-02 | 189 | 503 | 
 | 2023-03-01 | 189 | 503 | 
 | 2023-02-28 | 189 | 503 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 190 | 504 | 
 | 2023-02-03 | 190 | 504 | 
 | 2023-02-02 | 190 | 504 | 
-| 2023-02-01 | 190 | 505 | 
 

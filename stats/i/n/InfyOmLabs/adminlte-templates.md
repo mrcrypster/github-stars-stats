@@ -1,6 +1,6 @@
 # InfyOmLabs/adminlte-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 248 | 109 | 
 | 2023-03-01 | 248 | 109 | 
 | 2023-02-28 | 248 | 109 | 
 | 2023-02-27 | 248 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 245 | 108 | 
 | 2023-02-03 | 244 | 108 | 
 | 2023-02-02 | 244 | 108 | 
-| 2023-02-01 | 244 | 108 | 
 

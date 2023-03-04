@@ -1,8 +1,8 @@
 # catppuccin/mailspring - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 17 | 1 | 
 | 2023-03-02 | 17 | - | 
 | 2023-03-01 | 17 | - | 
 | 2023-02-28 | 17 | - | 

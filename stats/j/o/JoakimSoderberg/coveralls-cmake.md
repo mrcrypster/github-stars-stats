@@ -1,6 +1,6 @@
 # JoakimSoderberg/coveralls-cmake - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 83 | 17 | 
 | 2023-03-02 | 83 | 17 | 
 | 2023-03-01 | 83 | 17 | 
 | 2023-02-28 | 83 | 17 | 

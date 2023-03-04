@@ -1,6 +1,6 @@
 # mandiant/Azure_Workshop - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 523 | 64 | 
 | 2023-03-02 | 523 | 64 | 
 | 2023-03-01 | 523 | 64 | 
 | 2023-02-27 | 523 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 517 | 61 | 
 | 2023-02-03 | 517 | 61 | 
 | 2023-02-02 | 517 | 61 | 
-| 2023-02-01 | 517 | 61 | 
 

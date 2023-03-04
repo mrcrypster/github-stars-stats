@@ -1,10 +1,10 @@
 # inponomarev/java-mipt - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 20
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/inponomarev/java-mipt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 63 | 20 | 
 | 2023-03-01 | 62 | 20 | 
 | 2023-02-28 | 62 | 20 | 
 | 2023-02-27 | 62 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 59 | 19 | 
 | 2023-02-03 | 59 | 19 | 
 | 2023-02-02 | 60 | 19 | 
-| 2023-02-01 | 60 | 19 | 
 

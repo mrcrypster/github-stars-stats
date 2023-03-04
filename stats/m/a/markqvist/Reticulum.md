@@ -1,6 +1,6 @@
 # markqvist/Reticulum - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1116 | 67 | 
 | 2023-03-02 | 1116 | 67 | 
 | 2023-03-01 | 1115 | 66 | 
 | 2023-02-27 | 1114 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1074 | 65 | 
 | 2023-02-04 | 1074 | 65 | 
 | 2023-02-03 | 1073 | 63 | 
-| 2023-02-02 | 1072 | 63 | 
 

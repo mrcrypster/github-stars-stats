@@ -1,6 +1,6 @@
 # github/view_component - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 359
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2815 | 359 | 
 | 2023-03-02 | 2815 | 359 | 
 | 2023-02-28 | 2814 | 359 | 
 | 2023-02-27 | 2810 | 359 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2787 | 358 | 
 | 2023-02-03 | 2787 | 358 | 
 | 2023-02-02 | 2786 | 358 | 
-| 2023-02-01 | 2785 | 358 | 
 

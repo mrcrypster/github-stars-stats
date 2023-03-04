@@ -1,6 +1,6 @@
 # blockpane/tenderduty - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 105 | 190 | 
 | 2023-03-02 | 105 | 190 | 
 | 2023-03-01 | 105 | 190 | 
 | 2023-02-27 | 105 | 190 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 101 | 184 | 
 | 2023-02-03 | 101 | 184 | 
 | 2023-02-02 | 101 | 183 | 
-| 2023-02-01 | 101 | 183 | 
 

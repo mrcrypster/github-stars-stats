@@ -1,0 +1,17 @@
+# alexbudy/mips_processor - stars & forks statistics
+
+Stats updated on Mar 2023, 03
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/alexbudy/mips_processor)
+
+[Open detailed stats for alexbudy/mips_processor](https://reviewgithub.com/rep/alexbudy/mips_processor)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-03 | - | - | 
+

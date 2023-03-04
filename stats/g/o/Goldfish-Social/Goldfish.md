@@ -1,10 +1,10 @@
 # Goldfish-Social/Goldfish - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/Goldfish-Social/Goldfish)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 201 | 10 | 
 | 2023-03-02 | 200 | 9 | 
 | 2023-03-01 | 200 | 9 | 
 | 2023-02-28 | 200 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 196 | 9 | 
 | 2023-02-03 | 196 | 9 | 
 | 2023-02-02 | 196 | 9 | 
-| 2023-02-01 | 196 | 9 | 
 

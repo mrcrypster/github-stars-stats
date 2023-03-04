@@ -1,10 +1,10 @@
 # wobsoriano/vue-wrap-balancer - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 55
+★ Stars: 57
 
 [Open repository](https://github.com/wobsoriano/vue-wrap-balancer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 57 | 1 | 
 | 2023-03-02 | 55 | 1 | 
 | 2023-03-01 | 55 | 1 | 
 | 2023-02-27 | 55 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 52 | 1 | 
 | 2023-02-03 | 52 | 1 | 
 | 2023-02-02 | 52 | 1 | 
-| 2023-02-01 | 51 | 1 | 
 

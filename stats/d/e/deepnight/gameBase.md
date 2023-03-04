@@ -1,10 +1,10 @@
 # deepnight/gameBase - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 126
+☋ Forks: 127
 
-★ Stars: 464
+★ Stars: 465
 
 [Open repository](https://github.com/deepnight/gameBase)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 465 | 127 | 
 | 2023-03-01 | 464 | 126 | 
 | 2023-02-28 | 464 | 126 | 
 | 2023-02-27 | 464 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 454 | 121 | 
 | 2023-02-04 | 453 | 121 | 
 | 2023-02-03 | 451 | 121 | 
-| 2023-02-01 | 450 | 121 | 
 

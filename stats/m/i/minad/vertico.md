@@ -1,10 +1,10 @@
 # minad/vertico - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 961
+★ Stars: 963
 
 [Open repository](https://github.com/minad/vertico)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 963 | 53 | 
+| 2023-03-03 | 963 | 53 | 
 | 2023-03-02 | 961 | 52 | 
 | 2023-02-28 | 955 | 52 | 
 | 2023-02-27 | 955 | 51 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 927 | 50 | 
 | 2023-02-03 | 926 | 50 | 
 | 2023-02-02 | 924 | 50 | 
-| 2023-02-01 | 923 | 50 | 
 

@@ -1,6 +1,6 @@
 # hominoids/SBC_Model_Framework - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 54 | 14 | 
 | 2023-03-01 | 54 | 14 | 
 | 2023-02-28 | 53 | 14 | 
 | 2023-02-27 | 53 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 51 | 12 | 
 | 2023-02-03 | 51 | 12 | 
 | 2023-02-02 | 51 | 12 | 
-| 2023-02-01 | 51 | 12 | 
 

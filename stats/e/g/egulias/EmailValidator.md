@@ -1,10 +1,10 @@
 # egulias/EmailValidator - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 179
 
-★ Stars: 11022
+★ Stars: 11021
 
 [Open repository](https://github.com/egulias/EmailValidator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 11021 | 179 | 
 | 2023-03-02 | 11022 | 179 | 
 | 2023-03-01 | 11022 | 179 | 
 | 2023-02-28 | 11021 | 179 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 10992 | 179 | 
 | 2023-02-04 | 10990 | 179 | 
 | 2023-02-03 | 10988 | 179 | 
-| 2023-02-02 | 10988 | 179 | 
 

@@ -1,10 +1,10 @@
 # Adamkadaban/CTFs - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 240
+★ Stars: 243
 
 [Open repository](https://github.com/Adamkadaban/CTFs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 243 | 13 | 
 | 2023-03-02 | 240 | 12 | 
 | 2023-03-01 | 239 | 12 | 
 | 2023-02-28 | 238 | 12 | 

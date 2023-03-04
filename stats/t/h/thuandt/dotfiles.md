@@ -1,6 +1,6 @@
 # thuandt/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 10 | 3 | 
 | 2023-03-02 | 10 | 3 | 
 

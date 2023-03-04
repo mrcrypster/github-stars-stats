@@ -1,6 +1,6 @@
 # pulp-platform/common_cells - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 277 | 96 | 
 | 2023-03-02 | 277 | 96 | 
 | 2023-03-01 | 276 | 96 | 
 | 2023-02-27 | 275 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 266 | 95 | 
 | 2023-02-03 | 266 | 95 | 
 | 2023-02-02 | 265 | 95 | 
-| 2023-02-01 | 265 | 95 | 
 

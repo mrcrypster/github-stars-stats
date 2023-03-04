@@ -1,6 +1,6 @@
 # kipcole9/image - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 181 | 20 | 
 | 2023-03-02 | 181 | 20 | 
 | 2023-03-01 | 178 | 20 | 
 | 2023-02-28 | 175 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 165 | 17 | 
 | 2023-02-03 | 162 | 17 | 
 | 2023-02-02 | 157 | 17 | 
-| 2023-02-01 | 153 | 17 | 
 

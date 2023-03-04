@@ -1,10 +1,10 @@
 # Zeal8bit/Zeal-8-bit-OS - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 30
 
-★ Stars: 384
+★ Stars: 386
 
 [Open repository](https://github.com/Zeal8bit/Zeal-8-bit-OS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 386 | 30 | 
 | 2023-03-02 | 384 | 30 | 
 | 2023-03-01 | 378 | 30 | 
 | 2023-02-28 | 376 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 367 | 30 | 
 | 2023-02-03 | 367 | 30 | 
 | 2023-02-02 | 367 | 30 | 
-| 2023-02-01 | 367 | 30 | 
 

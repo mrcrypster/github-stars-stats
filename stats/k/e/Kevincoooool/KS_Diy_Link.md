@@ -1,6 +1,6 @@
 # Kevincoooool/KS_Diy_Link - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 392 | 233 | 
 | 2023-03-02 | 392 | 233 | 
 | 2023-03-01 | 392 | 233 | 
 | 2023-02-28 | 391 | 232 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 387 | 232 | 
 | 2023-02-03 | 387 | 232 | 
 | 2023-02-02 | 387 | 231 | 
-| 2023-02-01 | 387 | 231 | 
 

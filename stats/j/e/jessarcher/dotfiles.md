@@ -1,6 +1,6 @@
 # jessarcher/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 472 | 69 | 
 | 2023-03-02 | 472 | 69 | 
 | 2023-03-01 | 472 | 69 | 
 | 2023-02-27 | 471 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 458 | 62 | 
 | 2023-02-03 | 458 | 63 | 
 | 2023-02-02 | 457 | 63 | 
-| 2023-02-01 | 457 | 63 | 
 

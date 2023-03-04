@@ -1,10 +1,10 @@
 # quickmsg/smqtt - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 187
 
-★ Stars: 823
+★ Stars: 824
 
 [Open repository](https://github.com/quickmsg/smqtt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 824 | 187 | 
 | 2023-03-02 | 823 | 187 | 
 | 2023-03-01 | 821 | 187 | 
 | 2023-02-28 | 821 | 187 | 

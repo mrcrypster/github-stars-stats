@@ -1,10 +1,10 @@
 # 0xPolygonID/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/0xPolygonID/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 23 | 9 | 
 | 2023-03-02 | 21 | 8 | 
 | 2023-03-01 | 20 | 8 | 
 | 2023-02-28 | 20 | 8 | 

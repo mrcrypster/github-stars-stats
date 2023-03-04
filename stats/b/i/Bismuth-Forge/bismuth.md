@@ -1,6 +1,6 @@
 # Bismuth-Forge/bismuth - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1763 | 70 | 
 | 2023-03-02 | 1763 | 70 | 
 | 2023-03-01 | 1759 | 70 | 
 | 2023-02-27 | 1758 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1707 | 64 | 
 | 2023-02-03 | 1704 | 64 | 
 | 2023-02-02 | 1703 | 64 | 
-| 2023-02-01 | 1702 | 64 | 
 

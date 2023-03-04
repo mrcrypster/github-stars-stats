@@ -1,10 +1,10 @@
 # vsespb/mt-aws-glacier - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 60
 
-★ Stars: 536
+★ Stars: 535
 
 [Open repository](https://github.com/vsespb/mt-aws-glacier)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 535 | 60 | 
 | 2023-03-02 | 536 | 60 | 
 | 2023-03-01 | 536 | 60 | 
 | 2023-02-28 | 536 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 536 | 60 | 
 | 2023-02-03 | 536 | 60 | 
 | 2023-02-02 | 536 | 60 | 
-| 2023-02-01 | 536 | 60 | 
 

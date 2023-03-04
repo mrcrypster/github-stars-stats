@@ -1,10 +1,10 @@
 # greshake/llm-security - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 13
 
-★ Stars: 241
+★ Stars: 289
 
 [Open repository](https://github.com/greshake/llm-security)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 289 | 13 | 
 | 2023-03-02 | 241 | 13 | 
 | 2023-03-01 | 194 | 12 | 
 

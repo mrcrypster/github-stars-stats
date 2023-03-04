@@ -1,6 +1,6 @@
 # marcinzh/effect-zoo - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 28 | 3 | 
 | 2023-03-02 | 28 | 3 | 
 | 2023-03-01 | 28 | 3 | 
 | 2023-02-27 | 28 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 27 | 3 | 
 | 2023-02-03 | 26 | 2 | 
 | 2023-02-02 | 26 | 2 | 
-| 2023-02-01 | 26 | 2 | 
 

@@ -1,10 +1,10 @@
 # zhuowei/MacDirtyCowDemo - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/zhuowei/MacDirtyCowDemo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 332 | 29 | 
 | 2023-03-01 | 331 | 28 | 
 | 2023-02-28 | 331 | 28 | 
 | 2023-02-27 | 330 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 295 | 24 | 
 | 2023-02-04 | 293 | 24 | 
 | 2023-02-03 | 290 | 24 | 
-| 2023-02-01 | 288 | 24 | 
 

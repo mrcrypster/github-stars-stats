@@ -1,0 +1,17 @@
+# hmcts/chart-base - stars & forks statistics
+
+Stats updated on Mar 2023, 03
+
+☋ Forks: 2
+
+★ Stars: 0
+
+[Open repository](https://github.com/hmcts/chart-base)
+
+[Open detailed stats for hmcts/chart-base](https://reviewgithub.com/rep/hmcts/chart-base)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-03 | - | 2 | 
+

@@ -1,6 +1,6 @@
 # soundcloud/twinagle - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 46 | 10 | 
 | 2023-03-01 | 46 | 10 | 
 | 2023-02-28 | 45 | 10 | 
 | 2023-02-27 | 45 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 44 | 10 | 
 | 2023-02-03 | 44 | 10 | 
 | 2023-02-02 | 44 | 10 | 
-| 2023-02-01 | 44 | 10 | 
 

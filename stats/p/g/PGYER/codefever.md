@@ -1,10 +1,10 @@
 # PGYER/codefever - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 253
 
-★ Stars: 2363
+★ Stars: 2365
 
 [Open repository](https://github.com/PGYER/codefever)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2365 | 253 | 
 | 2023-03-02 | 2363 | 253 | 
 | 2023-03-01 | 2361 | 253 | 
 | 2023-02-28 | 2358 | 252 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2324 | 245 | 
 | 2023-02-03 | 2324 | 245 | 
 | 2023-02-02 | 2323 | 245 | 
-| 2023-02-01 | 2317 | 245 | 
 

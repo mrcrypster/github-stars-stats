@@ -1,10 +1,10 @@
 # pranavdeshai/anki-prettify - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 116
+★ Stars: 118
 
 [Open repository](https://github.com/pranavdeshai/anki-prettify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 118 | 7 | 
 | 2023-03-02 | 116 | 7 | 
 | 2023-03-01 | 116 | 7 | 
 | 2023-02-28 | 116 | 7 | 

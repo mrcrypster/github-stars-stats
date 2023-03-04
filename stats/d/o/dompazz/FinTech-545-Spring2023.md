@@ -1,8 +1,8 @@
 # dompazz/FinTech-545-Spring2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 24
+☋ Forks: 23
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2 | 23 | 
 | 2023-03-02 | 2 | 24 | 
 | 2023-03-01 | 2 | 24 | 
 | 2023-02-28 | 2 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2 | 21 | 
 | 2023-02-03 | 2 | 21 | 
 | 2023-02-02 | 2 | 21 | 
-| 2023-02-01 | 2 | 21 | 
 

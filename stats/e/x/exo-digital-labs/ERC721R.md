@@ -1,6 +1,6 @@
 # exo-digital-labs/ERC721R - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 236 | 59 | 
 | 2023-03-02 | 236 | 59 | 
 | 2023-03-01 | 236 | 59 | 
 | 2023-02-28 | 236 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 235 | 60 | 
 | 2023-02-03 | 235 | 60 | 
 | 2023-02-02 | 235 | 60 | 
-| 2023-02-01 | 235 | 60 | 
 

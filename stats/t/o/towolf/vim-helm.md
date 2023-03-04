@@ -1,10 +1,10 @@
 # towolf/vim-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/towolf/vim-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 121 | 15 | 
 | 2023-03-01 | 120 | 15 | 
 | 2023-02-28 | 119 | 15 | 
 | 2023-02-27 | 118 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 117 | 16 | 
 | 2023-02-04 | 117 | 16 | 
 | 2023-02-03 | 117 | 16 | 
-| 2023-02-02 | 117 | 16 | 
 

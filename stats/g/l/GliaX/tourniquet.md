@@ -1,6 +1,6 @@
 # GliaX/tourniquet - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 121 | 31 | 
 | 2023-03-02 | 121 | 31 | 
 | 2023-03-01 | 121 | 31 | 
 | 2023-02-27 | 121 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 121 | 32 | 
 | 2023-02-03 | 121 | 32 | 
 | 2023-02-02 | 121 | 32 | 
-| 2023-02-01 | 121 | 31 | 
 

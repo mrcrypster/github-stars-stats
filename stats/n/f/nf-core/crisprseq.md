@@ -1,6 +1,6 @@
 # nf-core/crisprseq - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 7 | 6 | 
 | 2023-03-02 | 7 | 6 | 
 | 2023-03-01 | 7 | 6 | 
 | 2023-02-28 | 7 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 7 | 6 | 
 | 2023-02-03 | 7 | 6 | 
 | 2023-02-02 | 6 | 6 | 
-| 2023-02-01 | 5 | 6 | 
 

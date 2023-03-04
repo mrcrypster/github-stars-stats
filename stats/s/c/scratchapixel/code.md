@@ -1,10 +1,10 @@
 # scratchapixel/code - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 12
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/scratchapixel/code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 27 | 12 | 
 | 2023-03-02 | 26 | 12 | 
 | 2023-03-01 | 26 | 12 | 
 | 2023-02-27 | 24 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 13 | 7 | 
 | 2023-02-03 | 14 | 7 | 
 | 2023-02-02 | 14 | 7 | 
-| 2023-02-01 | 14 | 7 | 
 

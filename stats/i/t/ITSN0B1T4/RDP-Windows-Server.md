@@ -1,10 +1,10 @@
 # ITSN0B1T4/RDP-Windows-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/ITSN0B1T4/RDP-Windows-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2 | 15 | 
 | 2023-03-02 | 1 | 15 | 
 | 2023-03-01 | 1 | 15 | 
 | 2023-02-28 | 1 | 15 | 

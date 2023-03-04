@@ -1,10 +1,10 @@
 # noib3/crop - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
-★ Stars: 108
+★ Stars: 111
 
 [Open repository](https://github.com/noib3/crop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 111 | 1 | 
 | 2023-03-02 | 108 | 1 | 
 | 2023-03-01 | 103 | 1 | 
 | 2023-02-28 | 92 | 1 | 

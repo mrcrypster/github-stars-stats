@@ -1,10 +1,10 @@
 # gedeck/practical-statistics-for-data-scientists - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 1312
+☋ Forks: 1320
 
-★ Stars: 1828
+★ Stars: 1830
 
 [Open repository](https://github.com/gedeck/practical-statistics-for-data-scientists)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1830 | 1320 | 
 | 2023-03-02 | 1828 | 1312 | 
 | 2023-03-01 | 1826 | 1311 | 
 | 2023-02-28 | 1825 | 1311 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1787 | 1285 | 
 | 2023-02-03 | 1783 | 1282 | 
 | 2023-02-02 | 1779 | 1280 | 
-| 2023-02-01 | 1774 | 1278 | 
 

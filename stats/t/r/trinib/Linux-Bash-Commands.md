@@ -1,10 +1,10 @@
 # trinib/Linux-Bash-Commands - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 114
 
-★ Stars: 2714
+★ Stars: 2715
 
 [Open repository](https://github.com/trinib/Linux-Bash-Commands)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2715 | 114 | 
 | 2023-03-02 | 2714 | 114 | 
 | 2023-03-01 | 2713 | 114 | 
 | 2023-02-27 | 2709 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2664 | 107 | 
 | 2023-02-03 | 2663 | 107 | 
 | 2023-02-02 | 2660 | 107 | 
-| 2023-02-01 | 2659 | 106 | 
 

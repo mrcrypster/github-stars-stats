@@ -1,8 +1,8 @@
 # php/doc-en - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 560
+☋ Forks: 561
 
 ★ Stars: 393
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 393 | 561 | 
 | 2023-03-02 | 393 | 560 | 
 | 2023-03-01 | 393 | 560 | 
 | 2023-02-28 | 393 | 560 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 386 | 542 | 
 | 2023-02-03 | 386 | 542 | 
 | 2023-02-02 | 386 | 542 | 
-| 2023-02-01 | 386 | 541 | 
 

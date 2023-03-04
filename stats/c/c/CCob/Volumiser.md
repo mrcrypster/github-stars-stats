@@ -1,6 +1,6 @@
 # CCob/Volumiser - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 263 | 26 | 
 | 2023-03-02 | 263 | 26 | 
 | 2023-03-01 | 263 | 26 | 
 | 2023-02-28 | 263 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 260 | 26 | 
 | 2023-02-03 | 260 | 26 | 
 | 2023-02-02 | 260 | 26 | 
-| 2023-02-01 | 260 | 26 | 
 

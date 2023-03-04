@@ -1,10 +1,10 @@
 # Hunlongyu/ZY-Player - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 2045
+☋ Forks: 2046
 
-★ Stars: 12465
+★ Stars: 12474
 
 [Open repository](https://github.com/Hunlongyu/ZY-Player)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 12474 | 2046 | 
 | 2023-03-02 | 12465 | 2045 | 
 | 2023-03-01 | 12461 | 2045 | 
 | 2023-02-28 | 12459 | 2046 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 12374 | 2025 | 
 | 2023-02-03 | 12366 | 2025 | 
 | 2023-02-02 | 12365 | 2024 | 
-| 2023-02-01 | 12352 | 2022 | 
 

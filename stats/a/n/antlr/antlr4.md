@@ -1,10 +1,10 @@
 # antlr/antlr4 - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 2986
+☋ Forks: 2987
 
-★ Stars: 13958
+★ Stars: 13969
 
 [Open repository](https://github.com/antlr/antlr4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 13969 | 2987 | 
 | 2023-03-02 | 13958 | 2986 | 
 | 2023-03-01 | 13950 | 2985 | 
 | 2023-02-28 | 13946 | 2982 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 13779 | 2945 | 
 | 2023-02-03 | 13772 | 2943 | 
 | 2023-02-02 | 13759 | 2940 | 
-| 2023-02-01 | 13747 | 2939 | 
 

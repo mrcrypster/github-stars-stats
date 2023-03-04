@@ -1,6 +1,6 @@
 # rabbitmq/rabbitmq-common - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 64 | 118 | 
 | 2023-03-01 | 64 | 118 | 
 | 2023-02-28 | 64 | 118 | 
 | 2023-02-27 | 64 | 118 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 64 | 119 | 
 | 2023-02-03 | 64 | 119 | 
 | 2023-02-02 | 64 | 119 | 
-| 2023-02-01 | 64 | 119 | 
 

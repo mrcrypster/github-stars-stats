@@ -1,6 +1,6 @@
 # darinpope/github-api-global-lib - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 332
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 86 | 332 | 
 | 2023-03-02 | 86 | 332 | 
 | 2023-02-28 | 86 | 330 | 
 | 2023-02-27 | 86 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 82 | 313 | 
 | 2023-02-03 | 81 | 313 | 
 | 2023-02-02 | 81 | 312 | 
-| 2023-02-01 | 80 | 310 | 
 

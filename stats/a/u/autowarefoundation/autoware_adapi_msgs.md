@@ -1,8 +1,8 @@
 # autowarefoundation/autoware_adapi_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 04
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 3
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3 | 7 | 
+| 2023-03-03 | 3 | 6 | 
 | 2023-03-01 | 3 | 6 | 
 | 2023-02-28 | 3 | 6 | 
 | 2023-02-27 | 3 | 6 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 2 | 6 | 
 | 2023-02-04 | 2 | 6 | 
 | 2023-02-03 | 2 | 6 | 
-| 2023-02-01 | 2 | 6 | 
 

@@ -1,6 +1,6 @@
 # hashicorp/terraform-docs-agents - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3 | 9 | 
 | 2023-03-02 | 3 | 9 | 
 | 2023-03-01 | 3 | 9 | 
 | 2023-02-27 | 3 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 3 | 9 | 
 | 2023-02-04 | 3 | 9 | 
 | 2023-02-03 | 3 | 9 | 
-| 2023-02-01 | 3 | 9 | 
 

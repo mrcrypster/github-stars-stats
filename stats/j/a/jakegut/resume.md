@@ -1,10 +1,10 @@
 # jakegut/resume - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 85
 
-★ Stars: 457
+★ Stars: 458
 
 [Open repository](https://github.com/jakegut/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 458 | 85 | 
 | 2023-03-02 | 457 | 85 | 
 | 2023-03-01 | 457 | 85 | 
 | 2023-02-28 | 457 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 433 | 80 | 
 | 2023-02-03 | 430 | 80 | 
 | 2023-02-02 | 427 | 80 | 
-| 2023-02-01 | 422 | 80 | 
 

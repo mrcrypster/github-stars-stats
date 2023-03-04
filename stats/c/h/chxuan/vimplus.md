@@ -1,10 +1,10 @@
 # chxuan/vimplus - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1134
 
-★ Stars: 3707
+★ Stars: 3709
 
 [Open repository](https://github.com/chxuan/vimplus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3709 | 1134 | 
 | 2023-03-02 | 3707 | 1134 | 
 | 2023-03-01 | 3707 | 1134 | 
 | 2023-02-28 | 3706 | 1133 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 3693 | 1128 | 
 | 2023-02-03 | 3689 | 1128 | 
 | 2023-02-02 | 3688 | 1128 | 
-| 2023-02-01 | 3687 | 1127 | 
 

@@ -1,10 +1,10 @@
 # ONSAS/ONSAS.m - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 11
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/ONSAS/ONSAS.m)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 38 | 11 | 
 | 2023-03-02 | 37 | 11 | 
 | 2023-03-01 | 37 | 11 | 
 | 2023-02-27 | 37 | 11 | 

@@ -1,10 +1,8 @@
 # Le-niao/Yunzai-Bot - stars & forks statistics
 
-Stats updated on Feb 2023, 01
+☋ Forks: 
 
-☋ Forks: 516
-
-★ Stars: 3448
+★ Stars: 
 
 [Open repository](https://github.com/Le-niao/Yunzai-Bot)
 
@@ -13,5 +11,4 @@ Stats updated on Feb 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-02-01 | 3448 | 516 | 
 

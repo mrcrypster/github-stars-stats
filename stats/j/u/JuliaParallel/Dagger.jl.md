@@ -1,6 +1,6 @@
 # JuliaParallel/Dagger.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 490 | 48 | 
 | 2023-03-02 | 490 | 48 | 
 | 2023-03-01 | 490 | 48 | 
 | 2023-02-28 | 489 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 481 | 48 | 
 | 2023-02-03 | 481 | 48 | 
 | 2023-02-02 | 481 | 48 | 
-| 2023-02-01 | 481 | 48 | 
 

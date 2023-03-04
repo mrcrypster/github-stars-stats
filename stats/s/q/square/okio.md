@@ -1,10 +1,10 @@
 # square/okio - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1173
 
-★ Stars: 8273
+★ Stars: 8274
 
 [Open repository](https://github.com/square/okio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 8274 | 1173 | 
 | 2023-03-02 | 8273 | 1173 | 
 | 2023-03-01 | 8273 | 1173 | 
 | 2023-02-27 | 8273 | 1172 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 8250 | 1170 | 
 | 2023-02-03 | 8251 | 1171 | 
 | 2023-02-02 | 8250 | 1171 | 
-| 2023-02-01 | 8250 | 1170 | 
 

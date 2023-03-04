@@ -1,10 +1,10 @@
 # sailist/LaTeXdoc - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 43
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/sailist/LaTeXdoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 190 | 43 | 
 | 2023-03-02 | 189 | 43 | 
 | 2023-03-01 | 189 | 43 | 
 | 2023-02-27 | 189 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 185 | 42 | 
 | 2023-02-03 | 185 | 42 | 
 | 2023-02-02 | 185 | 42 | 
-| 2023-02-01 | 185 | 42 | 
 

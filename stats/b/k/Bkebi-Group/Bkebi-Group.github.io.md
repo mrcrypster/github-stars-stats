@@ -1,10 +1,10 @@
 # Bkebi-Group/Bkebi-Group.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 67
+★ Stars: 89
 
 [Open repository](https://github.com/Bkebi-Group/Bkebi-Group.github.io)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 89 | 30 | 
+| 2023-03-03 | 89 | 30 | 
 | 2023-03-02 | 67 | 29 | 
 | 2023-02-28 | 66 | 29 | 
 | 2023-02-27 | 63 | 26 | 

@@ -1,10 +1,10 @@
 # meta-soul/LakeSoul - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 285
 
-★ Stars: 1274
+★ Stars: 1275
 
 [Open repository](https://github.com/meta-soul/LakeSoul)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1275 | 285 | 
 | 2023-03-01 | 1274 | 285 | 
 | 2023-02-28 | 1274 | 285 | 
 | 2023-02-27 | 1272 | 285 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 1235 | 278 | 
 | 2023-02-04 | 1235 | 278 | 
 | 2023-02-02 | 1235 | 278 | 
-| 2023-02-01 | 1234 | 278 | 
 

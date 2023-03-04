@@ -1,10 +1,10 @@
 # White-hua/Apt_t00ls - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 112
 
-★ Stars: 684
+★ Stars: 685
 
 [Open repository](https://github.com/White-hua/Apt_t00ls)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 685 | 112 | 
 | 2023-03-02 | 684 | 112 | 
 | 2023-03-01 | 683 | 112 | 
 | 2023-02-27 | 683 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 645 | 107 | 
 | 2023-02-04 | 645 | 107 | 
 | 2023-02-03 | 642 | 107 | 
-| 2023-02-02 | 641 | 107 | 
 

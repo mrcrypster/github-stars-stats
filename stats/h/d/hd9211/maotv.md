@@ -1,8 +1,8 @@
 # hd9211/maotv - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 156
+☋ Forks: 157
 
 ★ Stars: 188
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 188 | 157 | 
 | 2023-03-02 | 188 | 156 | 
 | 2023-03-01 | 188 | 155 | 
 | 2023-02-28 | 188 | 155 | 

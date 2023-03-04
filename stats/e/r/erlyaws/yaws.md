@@ -1,8 +1,8 @@
 # erlyaws/yaws - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 261
+☋ Forks: 260
 
 ★ Stars: 1246
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1246 | 260 | 
 | 2023-03-02 | 1246 | 261 | 
 | 2023-03-01 | 1245 | 261 | 
 | 2023-02-28 | 1244 | 261 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1243 | 261 | 
 | 2023-02-03 | 1243 | 261 | 
 | 2023-02-02 | 1243 | 261 | 
-| 2023-02-01 | 1243 | 261 | 
 

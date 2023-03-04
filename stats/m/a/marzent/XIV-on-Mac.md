@@ -1,6 +1,6 @@
 # marzent/XIV-on-Mac - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 228 | 18 | 
 | 2023-03-02 | 228 | 18 | 
 | 2023-03-01 | 227 | 18 | 
 | 2023-02-28 | 227 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 220 | 16 | 
 | 2023-02-03 | 220 | 16 | 
 | 2023-02-02 | 220 | 16 | 
-| 2023-02-01 | 220 | 16 | 
 

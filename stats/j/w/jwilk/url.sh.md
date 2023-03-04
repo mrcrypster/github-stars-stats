@@ -1,6 +1,6 @@
 # jwilk/url.sh - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 138 | 5 | 
 | 2023-03-02 | 138 | 5 | 
 | 2023-03-01 | 138 | 5 | 
 | 2023-02-27 | 138 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 137 | 5 | 
 | 2023-02-04 | 137 | 5 | 
 | 2023-02-03 | 137 | 5 | 
-| 2023-02-02 | 137 | 5 | 
 

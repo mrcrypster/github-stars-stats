@@ -1,10 +1,10 @@
 # mapbox/node-sqlite3 - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 772
+☋ Forks: 773
 
-★ Stars: 5694
+★ Stars: 5695
 
 [Open repository](https://github.com/mapbox/node-sqlite3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5695 | 773 | 
 | 2023-03-02 | 5694 | 772 | 
 | 2023-02-28 | 5691 | 771 | 
 | 2023-02-27 | 5690 | 770 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 5653 | 764 | 
 | 2023-02-03 | 5651 | 763 | 
 | 2023-02-02 | 5652 | 763 | 
-| 2023-02-01 | 5650 | 763 | 
 

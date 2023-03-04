@@ -1,6 +1,6 @@
 # slds-lmu/seminar_multimodal_dl - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 115 | 25 | 
 | 2023-03-02 | 115 | 25 | 
 | 2023-03-01 | 114 | 25 | 
 | 2023-02-28 | 114 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 99 | 24 | 
 | 2023-02-03 | 99 | 24 | 
 | 2023-02-02 | 99 | 24 | 
-| 2023-02-01 | 98 | 24 | 
 

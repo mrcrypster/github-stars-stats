@@ -1,6 +1,6 @@
 # Ninjabrain1/Ninjabrain-Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 149 | 21 | 
 | 2023-03-02 | 149 | 21 | 
 | 2023-03-01 | 148 | 21 | 
 | 2023-02-28 | 148 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 129 | 19 | 
 | 2023-02-03 | 127 | 19 | 
 | 2023-02-02 | 127 | 19 | 
-| 2023-02-01 | 126 | 19 | 
 

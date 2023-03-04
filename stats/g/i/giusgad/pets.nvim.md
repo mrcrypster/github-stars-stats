@@ -1,10 +1,10 @@
 # giusgad/pets.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/giusgad/pets.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 273 | 5 | 
 | 2023-03-02 | 272 | 5 | 
 | 2023-03-01 | 268 | 5 | 
 | 2023-02-27 | 265 | 5 | 

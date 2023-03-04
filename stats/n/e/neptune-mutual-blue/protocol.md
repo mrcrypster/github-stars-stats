@@ -1,6 +1,6 @@
 # neptune-mutual-blue/protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 579 | 32 | 
 | 2023-03-02 | 579 | 32 | 
 | 2023-03-01 | 579 | 32 | 
 | 2023-02-28 | 579 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 579 | 32 | 
 | 2023-02-03 | 579 | 32 | 
 | 2023-02-02 | 578 | 32 | 
-| 2023-02-01 | 578 | 32 | 
 

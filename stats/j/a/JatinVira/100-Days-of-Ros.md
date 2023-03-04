@@ -1,10 +1,10 @@
 # JatinVira/100-Days-of-Ros - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/JatinVira/100-Days-of-Ros)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 54 | 6 | 
 | 2023-03-02 | 53 | 6 | 
 | 2023-03-01 | 53 | 6 | 
 | 2023-02-28 | 53 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 51 | 5 | 
 | 2023-02-03 | 51 | 5 | 
 | 2023-02-02 | 51 | 5 | 
-| 2023-02-01 | 51 | 5 | 
 

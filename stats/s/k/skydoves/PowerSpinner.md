@@ -1,10 +1,10 @@
 # skydoves/PowerSpinner - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 96
 
-★ Stars: 913
+★ Stars: 916
 
 [Open repository](https://github.com/skydoves/PowerSpinner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 916 | 96 | 
 | 2023-03-01 | 913 | 96 | 
 | 2023-02-28 | 912 | 95 | 
 | 2023-02-27 | 911 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 890 | 94 | 
 | 2023-02-03 | 890 | 94 | 
 | 2023-02-02 | 890 | 94 | 
-| 2023-02-01 | 889 | 94 | 
 

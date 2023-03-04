@@ -1,10 +1,10 @@
 # f5/unovis - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 24
 
-★ Stars: 1268
+★ Stars: 1270
 
 [Open repository](https://github.com/f5/unovis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1270 | 24 | 
 | 2023-03-02 | 1268 | 24 | 
 | 2023-03-01 | 1266 | 24 | 
 | 2023-02-28 | 1261 | 24 | 

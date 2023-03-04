@@ -1,6 +1,6 @@
 # r-lib/cli - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 514 | 50 | 
 | 2023-03-02 | 514 | 50 | 
 | 2023-03-01 | 513 | 50 | 
 | 2023-02-27 | 513 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 511 | 50 | 
 | 2023-02-04 | 510 | 50 | 
 | 2023-02-03 | 510 | 50 | 
-| 2023-02-01 | 510 | 50 | 
 

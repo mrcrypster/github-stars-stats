@@ -1,6 +1,6 @@
 # Psiphon-Labs/psiphon-tunnel-core-iOS-library - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 9 | 7 | 
 | 2023-03-02 | 9 | 7 | 
 | 2023-03-01 | 9 | 7 | 
 | 2023-02-28 | 9 | 7 | 

@@ -1,10 +1,10 @@
 # PixlOne/logiops - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 222
 
-★ Stars: 2360
+★ Stars: 2362
 
 [Open repository](https://github.com/PixlOne/logiops)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2362 | 222 | 
 | 2023-03-02 | 2360 | 222 | 
 | 2023-03-01 | 2357 | 222 | 
 | 2023-02-28 | 2356 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2321 | 222 | 
 | 2023-02-03 | 2319 | 222 | 
 | 2023-02-02 | 2319 | 222 | 
-| 2023-02-01 | 2319 | 223 | 
 

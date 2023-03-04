@@ -1,10 +1,10 @@
 # CYHSM/awesome-neuro-ai-papers - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 35
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/CYHSM/awesome-neuro-ai-papers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 301 | 35 | 
 | 2023-03-02 | 300 | 35 | 
 | 2023-03-01 | 299 | 35 | 
 | 2023-02-28 | 299 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 297 | 34 | 
 | 2023-02-03 | 296 | 34 | 
 | 2023-02-02 | 295 | 34 | 
-| 2023-02-01 | 295 | 34 | 
 

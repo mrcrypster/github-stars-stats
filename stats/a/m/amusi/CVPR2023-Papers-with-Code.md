@@ -1,10 +1,10 @@
 # amusi/CVPR2023-Papers-with-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 1987
+☋ Forks: 1996
 
-★ Stars: 10292
+★ Stars: 10371
 
 [Open repository](https://github.com/amusi/CVPR2023-Papers-with-Code)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 10371 | 1996 | 
 | 2023-03-02 | 10292 | 1987 | 
 

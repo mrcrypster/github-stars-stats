@@ -1,6 +1,6 @@
 # jbehrends/cookbook-snmp - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1 | 34 | 
 | 2023-03-02 | 1 | 34 | 
 | 2023-03-01 | 1 | 34 | 
 | 2023-02-28 | 1 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1 | 34 | 
 | 2023-02-03 | 1 | 34 | 
 | 2023-02-02 | 1 | 34 | 
-| 2023-02-01 | 1 | 34 | 
 

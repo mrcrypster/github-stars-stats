@@ -1,6 +1,6 @@
 # alexislozano/salaires.dev - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 66 | - | 
 | 2023-03-02 | 66 | - | 
 | 2023-03-01 | 66 | - | 
 | 2023-02-28 | 66 | - | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 59 | - | 
 | 2023-02-03 | 59 | - | 
 | 2023-02-02 | 59 | - | 
-| 2023-02-01 | 59 | - | 
 

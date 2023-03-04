@@ -1,6 +1,6 @@
 # InsightRX/PKPDsim - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 26 | 10 | 
 | 2023-03-01 | 26 | 10 | 
 | 2023-02-28 | 26 | 10 | 
 | 2023-02-27 | 26 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 25 | 10 | 
 | 2023-02-03 | 25 | 10 | 
 | 2023-02-02 | 25 | 10 | 
-| 2023-02-01 | 25 | 10 | 
 

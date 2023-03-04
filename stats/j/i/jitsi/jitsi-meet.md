@@ -1,10 +1,10 @@
 # jitsi/jitsi-meet - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 6064
+☋ Forks: 6067
 
-★ Stars: 19344
+★ Stars: 19354
 
 [Open repository](https://github.com/jitsi/jitsi-meet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 19354 | 6067 | 
 | 2023-03-02 | 19344 | 6064 | 
 | 2023-03-01 | 19339 | 6062 | 
 | 2023-02-28 | 19335 | 6061 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 19222 | 6015 | 
 | 2023-02-03 | 19218 | 6010 | 
 | 2023-02-02 | 19209 | 6007 | 
-| 2023-02-01 | 19202 | 6005 | 
 

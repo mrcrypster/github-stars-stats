@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-4-serializing-associations - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1554
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3 | 1554 | 
 | 2023-03-02 | 3 | 1554 | 
 | 2023-03-01 | 2 | 1551 | 
 | 2023-02-27 | 2 | 1547 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2 | 1494 | 
 | 2023-02-03 | 2 | 1491 | 
 | 2023-02-02 | 2 | 1485 | 
-| 2023-02-01 | 2 | 1483 | 
 

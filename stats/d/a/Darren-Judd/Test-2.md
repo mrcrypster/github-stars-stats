@@ -1,0 +1,18 @@
+# Darren-Judd/Test-2 - stars & forks statistics
+
+Stats updated on Mar 2023, 04
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/Darren-Judd/Test-2)
+
+[Open detailed stats for Darren-Judd/Test-2](https://reviewgithub.com/rep/Darren-Judd/Test-2)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-04 | - | - | 
+| 2023-03-03 | - | - | 
+

@@ -1,6 +1,6 @@
 # andrejbauer/plzoo - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1285 | 70 | 
 | 2023-03-02 | 1285 | 70 | 
 | 2023-03-01 | 1285 | 70 | 
 | 2023-02-27 | 1285 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1272 | 70 | 
 | 2023-02-03 | 1272 | 70 | 
 | 2023-02-02 | 1272 | 70 | 
-| 2023-02-01 | 1272 | 70 | 
 

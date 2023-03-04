@@ -1,6 +1,6 @@
 # greyblake/nutype - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 390 | 5 | 
 | 2023-03-02 | 390 | 5 | 
 | 2023-03-01 | 389 | 5 | 
 | 2023-02-28 | 388 | 5 | 

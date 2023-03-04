@@ -1,6 +1,6 @@
 # CatspersCoffee/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 16 | 27 | 
 | 2023-03-01 | 16 | 27 | 
 | 2023-02-28 | 16 | 27 | 
 | 2023-02-27 | 16 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 15 | 26 | 
 | 2023-02-03 | 14 | 26 | 
 | 2023-02-02 | 14 | 26 | 
-| 2023-02-01 | 14 | 26 | 
 

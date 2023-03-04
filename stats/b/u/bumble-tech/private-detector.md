@@ -1,10 +1,10 @@
 # bumble-tech/private-detector - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 74
 
-★ Stars: 1102
+★ Stars: 1103
 
 [Open repository](https://github.com/bumble-tech/private-detector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1103 | 74 | 
 | 2023-03-02 | 1102 | 74 | 
 | 2023-03-01 | 1102 | 74 | 
 | 2023-02-28 | 1102 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1094 | 71 | 
 | 2023-02-04 | 1094 | 71 | 
 | 2023-02-03 | 1094 | 71 | 
-| 2023-02-01 | 1094 | 71 | 
 

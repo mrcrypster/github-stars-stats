@@ -1,6 +1,6 @@
 # stellar/stellar-xdr - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 8 | 9 | 
 | 2023-03-02 | 8 | 9 | 
 | 2023-03-01 | 8 | 9 | 
 | 2023-02-28 | 8 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 7 | 9 | 
 | 2023-02-04 | 6 | 9 | 
 | 2023-02-03 | 6 | 9 | 
-| 2023-02-01 | 6 | 9 | 
 

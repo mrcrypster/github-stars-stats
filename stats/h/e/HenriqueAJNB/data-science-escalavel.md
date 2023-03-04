@@ -1,10 +1,10 @@
 # HenriqueAJNB/data-science-escalavel - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/HenriqueAJNB/data-science-escalavel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 48 | 12 | 
 | 2023-03-02 | 47 | 11 | 
 | 2023-03-01 | 47 | 11 | 
 | 2023-02-28 | 47 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 48 | 11 | 
 | 2023-02-03 | 48 | 11 | 
 | 2023-02-02 | 48 | 11 | 
-| 2023-02-01 | 48 | 11 | 
 

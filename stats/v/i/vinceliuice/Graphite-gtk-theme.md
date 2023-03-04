@@ -1,10 +1,10 @@
 # vinceliuice/Graphite-gtk-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/vinceliuice/Graphite-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 564 | 41 | 
 | 2023-03-02 | 563 | 40 | 
 | 2023-02-28 | 562 | 40 | 
 | 2023-02-27 | 561 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 542 | 39 | 
 | 2023-02-03 | 542 | 39 | 
 | 2023-02-02 | 541 | 39 | 
-| 2023-02-01 | 541 | 39 | 
 

@@ -1,10 +1,10 @@
 # forrestchang/readpilot - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 56
 
-★ Stars: 991
+★ Stars: 992
 
 [Open repository](https://github.com/forrestchang/readpilot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 992 | 56 | 
 | 2023-03-01 | 991 | 56 | 
 | 2023-02-28 | 989 | 55 | 
 | 2023-02-27 | 985 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 821 | 41 | 
 | 2023-02-03 | 815 | 37 | 
 | 2023-02-02 | 803 | 35 | 
-| 2023-02-01 | 785 | 34 | 
 

@@ -1,10 +1,10 @@
 # mozilla/uniffi-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 106
+☋ Forks: 107
 
-★ Stars: 1273
+★ Stars: 1279
 
 [Open repository](https://github.com/mozilla/uniffi-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1279 | 107 | 
 | 2023-03-02 | 1273 | 106 | 
 | 2023-03-01 | 1269 | 106 | 
 | 2023-02-28 | 1266 | 106 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1211 | 97 | 
 | 2023-02-03 | 1210 | 97 | 
 | 2023-02-02 | 1205 | 97 | 
-| 2023-02-01 | 1205 | 97 | 
 

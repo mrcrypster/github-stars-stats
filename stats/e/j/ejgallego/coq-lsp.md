@@ -1,6 +1,6 @@
 # ejgallego/coq-lsp - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 72 | 13 | 
 | 2023-03-02 | 72 | 13 | 
 | 2023-03-01 | 72 | 12 | 
 | 2023-02-27 | 72 | 12 | 

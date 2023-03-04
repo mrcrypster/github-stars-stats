@@ -1,10 +1,10 @@
 # Questie/Questie - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 267
 
-★ Stars: 955
+★ Stars: 956
 
 [Open repository](https://github.com/Questie/Questie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 956 | 267 | 
 | 2023-03-02 | 955 | 267 | 
 | 2023-03-01 | 955 | 267 | 
 | 2023-02-27 | 954 | 267 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 952 | 266 | 
 | 2023-02-03 | 952 | 266 | 
 | 2023-02-02 | 952 | 266 | 
-| 2023-02-01 | 952 | 266 | 
 

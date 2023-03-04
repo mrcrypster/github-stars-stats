@@ -1,10 +1,10 @@
 # danpovey/text_search - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/danpovey/text_search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 16 | 4 | 
 | 2023-03-02 | 15 | 4 | 
 | 2023-03-01 | 15 | 4 | 
 | 2023-02-27 | 15 | 4 | 

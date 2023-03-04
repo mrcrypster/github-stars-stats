@@ -1,6 +1,6 @@
 # heartcombo/simple_form - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1319
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 8080 | 1319 | 
 | 2023-03-02 | 8080 | 1319 | 
 | 2023-03-01 | 8079 | 1318 | 
 | 2023-02-27 | 8078 | 1318 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 8069 | 1315 | 
 | 2023-02-03 | 8066 | 1315 | 
 | 2023-02-02 | 8065 | 1315 | 
-| 2023-02-01 | 8064 | 1315 | 
 

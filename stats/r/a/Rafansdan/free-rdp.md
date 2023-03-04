@@ -1,8 +1,8 @@
 # Rafansdan/free-rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 38
+☋ Forks: 42
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | - | 42 | 
 | 2023-03-02 | - | 38 | 
 | 2023-03-01 | - | 34 | 
 | 2023-02-28 | - | 32 | 

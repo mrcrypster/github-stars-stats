@@ -1,10 +1,10 @@
 # VBA-tools/VBA-JSON - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 465
 
-★ Stars: 1392
+★ Stars: 1393
 
 [Open repository](https://github.com/VBA-tools/VBA-JSON)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1393 | 465 | 
 | 2023-03-02 | 1392 | 465 | 
 | 2023-03-01 | 1391 | 464 | 
 | 2023-02-28 | 1385 | 464 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1357 | 459 | 
 | 2023-02-03 | 1357 | 459 | 
 | 2023-02-02 | 1356 | 458 | 
-| 2023-02-01 | 1356 | 456 | 
 

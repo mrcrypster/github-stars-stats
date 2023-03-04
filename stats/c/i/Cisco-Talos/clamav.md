@@ -1,10 +1,10 @@
 # Cisco-Talos/clamav - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 586
+☋ Forks: 588
 
-★ Stars: 2716
+★ Stars: 2719
 
 [Open repository](https://github.com/Cisco-Talos/clamav)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2719 | 588 | 
 | 2023-03-02 | 2716 | 586 | 
 | 2023-03-01 | 2715 | 586 | 
 | 2023-02-28 | 2714 | 586 | 

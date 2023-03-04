@@ -1,10 +1,10 @@
 # RunaCapital/awesome-oss-alternatives - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 687
 
-★ Stars: 12969
+★ Stars: 12977
 
 [Open repository](https://github.com/RunaCapital/awesome-oss-alternatives)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 12977 | 687 | 
 | 2023-03-02 | 12969 | 687 | 
 | 2023-03-01 | 12964 | 687 | 
 | 2023-02-28 | 12958 | 686 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 12859 | 678 | 
 | 2023-02-03 | 12856 | 677 | 
 | 2023-02-02 | 12850 | 674 | 
-| 2023-02-01 | 12846 | 674 | 
 

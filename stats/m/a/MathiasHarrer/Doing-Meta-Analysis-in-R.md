@@ -1,6 +1,6 @@
 # MathiasHarrer/Doing-Meta-Analysis-in-R - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 242 | 147 | 
 | 2023-03-02 | 242 | 147 | 
 | 2023-03-01 | 241 | 146 | 
 | 2023-02-28 | 241 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 233 | 145 | 
 | 2023-02-04 | 233 | 145 | 
 | 2023-02-03 | 233 | 144 | 
-| 2023-02-02 | 232 | 144 | 
 

@@ -1,6 +1,6 @@
 # nivanov/cosplay - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 100 | 3 | 
 | 2023-03-02 | 100 | 3 | 
 | 2023-03-01 | 100 | 3 | 
 | 2023-02-28 | 100 | 3 | 

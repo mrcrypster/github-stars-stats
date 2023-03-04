@@ -1,6 +1,6 @@
 # badtuxx/CertifiedContainersExpert - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 642 | 92 | 
 | 2023-03-02 | 642 | 92 | 
 | 2023-03-01 | 642 | 92 | 
 | 2023-02-28 | 642 | 92 | 

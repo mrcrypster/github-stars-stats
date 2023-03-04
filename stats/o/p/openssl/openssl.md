@@ -1,10 +1,10 @@
 # openssl/openssl - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 8928
+☋ Forks: 8934
 
-★ Stars: 21042
+★ Stars: 21053
 
 [Open repository](https://github.com/openssl/openssl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 21053 | 8934 | 
 | 2023-03-02 | 21042 | 8928 | 
 | 2023-03-01 | 21027 | 8921 | 
 | 2023-02-28 | 21026 | 8921 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 20792 | 8841 | 
 | 2023-02-03 | 20789 | 8841 | 
 | 2023-02-02 | 20765 | 8839 | 
-| 2023-02-01 | 20730 | 8831 | 
 

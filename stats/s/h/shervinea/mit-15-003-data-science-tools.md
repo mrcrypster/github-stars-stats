@@ -1,10 +1,10 @@
 # shervinea/mit-15-003-data-science-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 351
+☋ Forks: 352
 
-★ Stars: 1636
+★ Stars: 1640
 
 [Open repository](https://github.com/shervinea/mit-15-003-data-science-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1640 | 352 | 
 | 2023-03-02 | 1636 | 351 | 
 | 2023-03-01 | 1636 | 351 | 
 | 2023-02-28 | 1636 | 351 | 

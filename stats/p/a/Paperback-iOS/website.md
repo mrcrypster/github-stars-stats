@@ -1,6 +1,6 @@
 # Paperback-iOS/website - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 57 | 92 | 
 | 2023-03-02 | 57 | 92 | 
 | 2023-02-28 | 57 | 92 | 
 | 2023-02-27 | 57 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 55 | 92 | 
 | 2023-02-03 | 55 | 92 | 
 | 2023-02-02 | 55 | 92 | 
-| 2023-02-01 | 55 | 92 | 
 

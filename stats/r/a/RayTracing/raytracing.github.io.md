@@ -1,10 +1,10 @@
 # RayTracing/raytracing.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 640
 
-★ Stars: 6163
+★ Stars: 6167
 
 [Open repository](https://github.com/RayTracing/raytracing.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 6167 | 640 | 
 | 2023-03-02 | 6163 | 640 | 
 | 2023-02-28 | 6160 | 639 | 
 | 2023-02-27 | 6153 | 639 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 6035 | 631 | 
 | 2023-02-03 | 6032 | 631 | 
 | 2023-02-02 | 6029 | 630 | 
-| 2023-02-01 | 6024 | 631 | 
 

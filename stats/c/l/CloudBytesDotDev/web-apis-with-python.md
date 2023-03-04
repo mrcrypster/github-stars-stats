@@ -1,8 +1,8 @@
 # CloudBytesDotDev/web-apis-with-python - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 429
+☋ Forks: 428
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 15 | 428 | 
 | 2023-03-02 | 15 | 429 | 
 | 2023-03-01 | 15 | 428 | 
 | 2023-02-28 | 15 | 428 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 15 | 413 | 
 | 2023-02-03 | 15 | 414 | 
 | 2023-02-02 | 15 | 414 | 
-| 2023-02-01 | 15 | 412 | 
 

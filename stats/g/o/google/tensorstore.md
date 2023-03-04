@@ -1,10 +1,10 @@
 # google/tensorstore - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 1099
+★ Stars: 1100
 
 [Open repository](https://github.com/google/tensorstore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1100 | 83 | 
 | 2023-03-02 | 1099 | 82 | 
 | 2023-03-01 | 1099 | 82 | 
 | 2023-02-27 | 1099 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1090 | 79 | 
 | 2023-02-04 | 1090 | 79 | 
 | 2023-02-02 | 1088 | 79 | 
-| 2023-02-01 | 1087 | 79 | 
 

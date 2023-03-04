@@ -1,6 +1,6 @@
 # MORAI-Autonomous/MORAI-ROS2_morai_msgs - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1 | 4 | 
+| 2023-03-03 | 1 | 4 | 
 | 2023-03-02 | 1 | 4 | 
 | 2023-02-28 | 1 | 4 | 
 | 2023-02-27 | 1 | 4 | 

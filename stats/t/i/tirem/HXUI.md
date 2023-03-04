@@ -1,10 +1,10 @@
 # tirem/HXUI - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/tirem/HXUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 32 | 6 | 
 | 2023-03-02 | 31 | 6 | 
 | 2023-03-01 | 31 | 5 | 
 | 2023-02-27 | 30 | 4 | 

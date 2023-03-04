@@ -1,6 +1,6 @@
 # beromir/Servas - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 275 | 10 | 
 | 2023-03-01 | 275 | 10 | 
 | 2023-02-28 | 275 | 10 | 
 | 2023-02-27 | 274 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 258 | 9 | 
 | 2023-02-03 | 258 | 9 | 
 | 2023-02-02 | 258 | 9 | 
-| 2023-02-01 | 258 | 8 | 
 

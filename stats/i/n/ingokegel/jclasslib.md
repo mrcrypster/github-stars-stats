@@ -1,10 +1,10 @@
 # ingokegel/jclasslib - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 385
+☋ Forks: 386
 
-★ Stars: 2269
+★ Stars: 2270
 
 [Open repository](https://github.com/ingokegel/jclasslib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2270 | 386 | 
 | 2023-03-02 | 2269 | 385 | 
 | 2023-03-01 | 2269 | 385 | 
 | 2023-02-28 | 2266 | 385 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2253 | 380 | 
 | 2023-02-03 | 2253 | 380 | 
 | 2023-02-02 | 2253 | 380 | 
-| 2023-02-01 | 2252 | 380 | 
 

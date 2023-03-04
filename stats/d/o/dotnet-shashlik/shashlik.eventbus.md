@@ -1,10 +1,10 @@
 # dotnet-shashlik/shashlik.eventbus - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 71
+★ Stars: 73
 
 [Open repository](https://github.com/dotnet-shashlik/shashlik.eventbus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 73 | 8 | 
 | 2023-03-02 | 71 | 8 | 
 | 2023-03-01 | 71 | 8 | 
 | 2023-02-28 | 71 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 71 | 8 | 
 | 2023-02-03 | 71 | 8 | 
 | 2023-02-02 | 71 | 8 | 
-| 2023-02-01 | 71 | 8 | 
 

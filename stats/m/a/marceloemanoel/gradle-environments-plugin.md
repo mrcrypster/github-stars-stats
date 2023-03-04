@@ -1,6 +1,6 @@
 # marceloemanoel/gradle-environments-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 13 | 6 | 
 | 2023-03-02 | 13 | 6 | 
 | 2023-03-01 | 13 | 6 | 
 | 2023-02-27 | 13 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 13 | 6 | 
 | 2023-02-04 | 13 | 6 | 
 | 2023-02-03 | 13 | 6 | 
-| 2023-02-02 | 13 | 6 | 
 

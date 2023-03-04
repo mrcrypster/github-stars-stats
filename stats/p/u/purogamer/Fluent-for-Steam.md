@@ -1,10 +1,10 @@
 # purogamer/Fluent-for-Steam - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 31
 
-★ Stars: 1230
+★ Stars: 1232
 
 [Open repository](https://github.com/purogamer/Fluent-for-Steam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1232 | 31 | 
 | 2023-03-02 | 1230 | 31 | 
 | 2023-03-01 | 1226 | 31 | 
 | 2023-02-27 | 1226 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1081 | 30 | 
 | 2023-02-03 | 1064 | 29 | 
 | 2023-02-02 | 1057 | 29 | 
-| 2023-02-01 | 1049 | 29 | 
 

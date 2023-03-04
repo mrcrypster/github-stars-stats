@@ -1,6 +1,6 @@
 # CrumpLab/statistics - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 91 | 39 | 
 | 2023-03-01 | 91 | 39 | 
 | 2023-02-28 | 91 | 39 | 
 | 2023-02-27 | 91 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 90 | 41 | 
 | 2023-02-03 | 90 | 41 | 
 | 2023-02-02 | 90 | 41 | 
-| 2023-02-01 | 90 | 41 | 
 

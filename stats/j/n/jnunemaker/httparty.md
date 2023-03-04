@@ -1,8 +1,8 @@
 # jnunemaker/httparty - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 972
+☋ Forks: 973
 
 ★ Stars: 5645
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5645 | 973 | 
 | 2023-03-02 | 5645 | 972 | 
 | 2023-02-28 | 5645 | 973 | 
 | 2023-02-27 | 5645 | 973 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 5627 | 969 | 
 | 2023-02-03 | 5627 | 969 | 
 | 2023-02-02 | 5624 | 969 | 
-| 2023-02-01 | 5623 | 969 | 
 

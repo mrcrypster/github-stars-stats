@@ -1,6 +1,6 @@
 # tnalpgge/rank-amateur-cowsay - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 305 | 62 | 
 | 2023-03-02 | 305 | 62 | 
 | 2023-03-01 | 304 | 62 | 
 | 2023-02-28 | 303 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 299 | 60 | 
 | 2023-02-04 | 299 | 60 | 
 | 2023-02-03 | 298 | 60 | 
-| 2023-02-02 | 298 | 60 | 
 

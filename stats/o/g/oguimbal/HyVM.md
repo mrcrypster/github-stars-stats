@@ -1,10 +1,10 @@
 # oguimbal/HyVM - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 165
+★ Stars: 167
 
 [Open repository](https://github.com/oguimbal/HyVM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 167 | 7 | 
 | 2023-03-02 | 165 | 7 | 
 | 2023-03-01 | 165 | 7 | 
 | 2023-02-28 | 164 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 139 | 4 | 
 | 2023-02-03 | 139 | 4 | 
 | 2023-02-02 | 138 | 4 | 
-| 2023-02-01 | 138 | 4 | 
 

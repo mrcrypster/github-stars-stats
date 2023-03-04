@@ -1,10 +1,10 @@
 # ZeframLou/foundry-canary - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/ZeframLou/foundry-canary)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 43 | - | 
 | 2023-03-02 | 44 | - | 
 | 2023-03-01 | 44 | - | 
 | 2023-02-27 | 44 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 44 | - | 
 | 2023-02-04 | 44 | - | 
 | 2023-02-02 | 44 | - | 
-| 2023-02-01 | 44 | - | 
 

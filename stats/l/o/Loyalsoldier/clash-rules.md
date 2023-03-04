@@ -1,10 +1,10 @@
 # Loyalsoldier/clash-rules - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 602
+☋ Forks: 603
 
-★ Stars: 8415
+★ Stars: 8434
 
 [Open repository](https://github.com/Loyalsoldier/clash-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 8434 | 603 | 
 | 2023-03-02 | 8415 | 602 | 
 | 2023-03-01 | 8385 | 601 | 
 | 2023-02-28 | 8359 | 600 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 7911 | 574 | 
 | 2023-02-03 | 7888 | 571 | 
 | 2023-02-02 | 7870 | 570 | 
-| 2023-02-01 | 7853 | 569 | 
 

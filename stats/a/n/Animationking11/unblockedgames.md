@@ -1,8 +1,8 @@
 # Animationking11/unblockedgames - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | - | 19 | 
 | 2023-03-02 | - | 18 | 
 | 2023-03-01 | - | 18 | 
 | 2023-02-27 | - | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | - | 15 | 
 | 2023-02-04 | - | 15 | 
 | 2023-02-03 | - | 15 | 
-| 2023-02-02 | - | 15 | 
 

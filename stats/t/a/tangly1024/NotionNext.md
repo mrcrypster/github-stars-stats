@@ -1,10 +1,10 @@
 # tangly1024/NotionNext - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 1540
+☋ Forks: 1554
 
-★ Stars: 1258
+★ Stars: 1266
 
 [Open repository](https://github.com/tangly1024/NotionNext)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1266 | 1554 | 
 | 2023-03-02 | 1258 | 1540 | 
 | 2023-03-01 | 1257 | 1532 | 
 | 2023-02-27 | 1246 | 1519 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1162 | 1382 | 
 | 2023-02-03 | 1161 | 1380 | 
 | 2023-02-02 | 1155 | 1371 | 
-| 2023-02-01 | 1152 | 1368 | 
 

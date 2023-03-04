@@ -1,6 +1,6 @@
 # li6185377/IMYAppGrayStyle - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 105 | 21 | 
 | 2023-03-02 | 105 | 21 | 
 | 2023-03-01 | 105 | 21 | 
 | 2023-02-28 | 104 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 102 | 21 | 
 | 2023-02-03 | 101 | 21 | 
 | 2023-02-02 | 101 | 21 | 
-| 2023-02-01 | 101 | 21 | 
 

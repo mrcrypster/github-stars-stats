@@ -1,6 +1,6 @@
 # CVMix/CVMix-src - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 24 | 29 | 
 | 2023-03-02 | 24 | 29 | 
 | 2023-03-01 | 24 | 29 | 
 | 2023-02-28 | 24 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 23 | 29 | 
 | 2023-02-03 | 23 | 29 | 
 | 2023-02-02 | 23 | 29 | 
-| 2023-02-01 | 23 | 29 | 
 

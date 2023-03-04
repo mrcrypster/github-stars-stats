@@ -1,10 +1,10 @@
 # golfzert/chatgpt-chinese-prompt-hack - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 12
 
-★ Stars: 83
+★ Stars: 85
 
 [Open repository](https://github.com/golfzert/chatgpt-chinese-prompt-hack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 85 | 12 | 
 | 2023-03-02 | 83 | 12 | 
 | 2023-03-01 | 82 | 12 | 
 | 2023-02-28 | 81 | 12 | 

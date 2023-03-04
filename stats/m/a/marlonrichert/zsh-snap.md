@@ -1,6 +1,6 @@
 # marlonrichert/zsh-snap - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 857 | 29 | 
 | 2023-03-02 | 857 | 29 | 
 | 2023-03-01 | 857 | 29 | 
 | 2023-02-27 | 855 | 29 | 

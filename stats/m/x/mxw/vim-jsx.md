@@ -1,10 +1,10 @@
 # mxw/vim-jsx - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 99
 
-★ Stars: 1590
+★ Stars: 1589
 
 [Open repository](https://github.com/mxw/vim-jsx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1589 | 99 | 
 | 2023-03-02 | 1590 | 99 | 
 | 2023-03-01 | 1590 | 99 | 
 | 2023-02-28 | 1591 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1591 | 99 | 
 | 2023-02-03 | 1591 | 99 | 
 | 2023-02-02 | 1591 | 99 | 
-| 2023-02-01 | 1591 | 99 | 
 

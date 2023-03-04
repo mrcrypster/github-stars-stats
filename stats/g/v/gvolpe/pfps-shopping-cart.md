@@ -1,6 +1,6 @@
 # gvolpe/pfps-shopping-cart - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 446 | 145 | 
 | 2023-03-01 | 446 | 145 | 
 | 2023-02-28 | 447 | 144 | 
 | 2023-02-27 | 447 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 440 | 142 | 
 | 2023-02-03 | 440 | 142 | 
 | 2023-02-02 | 439 | 142 | 
-| 2023-02-01 | 439 | 142 | 
 

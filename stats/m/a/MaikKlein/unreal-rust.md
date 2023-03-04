@@ -1,10 +1,10 @@
 # MaikKlein/unreal-rust - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 43
 
-★ Stars: 1577
+★ Stars: 1580
 
 [Open repository](https://github.com/MaikKlein/unreal-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1580 | 43 | 
 | 2023-03-01 | 1577 | 43 | 
 | 2023-02-28 | 1577 | 43 | 
 | 2023-02-27 | 1577 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1541 | 42 | 
 | 2023-02-03 | 1539 | 42 | 
 | 2023-02-02 | 1538 | 42 | 
-| 2023-02-01 | 1537 | 42 | 
 

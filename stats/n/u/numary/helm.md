@@ -1,6 +1,6 @@
 # numary/helm - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3 | 2 | 
 | 2023-03-02 | 3 | 2 | 
 | 2023-03-01 | 3 | 2 | 
 | 2023-02-27 | 3 | 2 | 

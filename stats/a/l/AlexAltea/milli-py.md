@@ -1,6 +1,6 @@
 # AlexAltea/milli-py - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 108 | 3 | 
 | 2023-03-02 | 108 | 3 | 
 | 2023-02-28 | 105 | 3 | 
 | 2023-02-27 | 95 | 3 | 

@@ -1,6 +1,6 @@
 # aminosbh/sdl2-ttf-sample - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 39 | 2 | 
 | 2023-03-02 | 39 | 2 | 
 | 2023-03-01 | 38 | 2 | 
 | 2023-02-28 | 38 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 36 | 1 | 
 | 2023-02-03 | 36 | 1 | 
 | 2023-02-02 | 36 | 1 | 
-| 2023-02-01 | 36 | 1 | 
 

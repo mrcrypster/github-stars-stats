@@ -1,10 +1,10 @@
 # R3NE07/Futro-S740 - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 22
 
-★ Stars: 137
+★ Stars: 139
 
 [Open repository](https://github.com/R3NE07/Futro-S740)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 139 | 22 | 
 | 2023-03-01 | 137 | 22 | 
 | 2023-02-28 | 136 | 21 | 
 | 2023-02-27 | 134 | 20 | 

@@ -1,6 +1,6 @@
 # yannickeboo/tia-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | - | 46 | 
 | 2023-03-02 | - | 46 | 
 | 2023-03-01 | - | 46 | 
 | 2023-02-27 | - | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | - | 46 | 
 | 2023-02-03 | - | 46 | 
 | 2023-02-02 | - | 46 | 
-| 2023-02-01 | - | 46 | 
 

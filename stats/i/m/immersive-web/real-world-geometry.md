@@ -1,8 +1,8 @@
 # immersive-web/real-world-geometry - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 58 | 11 | 
 | 2023-03-01 | 58 | 10 | 
 | 2023-02-28 | 58 | 10 | 
 | 2023-02-27 | 58 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 58 | 11 | 
 | 2023-02-03 | 58 | 11 | 
 | 2023-02-02 | 58 | 11 | 
-| 2023-02-01 | 58 | 11 | 
 

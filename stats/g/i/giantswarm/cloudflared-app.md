@@ -1,6 +1,6 @@
 # giantswarm/cloudflared-app - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5 | 1 | 
 | 2023-03-01 | 5 | 1 | 
 | 2023-02-28 | 5 | 1 | 
 | 2023-02-27 | 5 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 5 | 1 | 
 | 2023-02-03 | 5 | 1 | 
 | 2023-02-02 | 5 | 1 | 
-| 2023-02-01 | 5 | 1 | 
 

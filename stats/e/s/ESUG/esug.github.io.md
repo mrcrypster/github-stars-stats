@@ -1,6 +1,6 @@
 # ESUG/esug.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 19 | 72 | 
 | 2023-03-02 | 19 | 72 | 
 | 2023-03-01 | 19 | 72 | 
 | 2023-02-28 | 19 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 18 | 72 | 
 | 2023-02-03 | 18 | 72 | 
 | 2023-02-02 | 18 | 72 | 
-| 2023-02-01 | 18 | 72 | 
 

@@ -1,10 +1,10 @@
 # Moon-404/GunBattleRoyale - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Moon-404/GunBattleRoyale)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 10 | 3 | 
 | 2023-03-02 | 9 | 3 | 
 | 2023-03-01 | 9 | 3 | 
 | 2023-02-28 | 9 | 3 | 

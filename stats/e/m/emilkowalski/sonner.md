@@ -1,10 +1,10 @@
 # emilkowalski/sonner - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 20
 
-★ Stars: 1653
+★ Stars: 1743
 
 [Open repository](https://github.com/emilkowalski/sonner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1743 | 20 | 
 | 2023-03-02 | 1653 | 20 | 
 | 2023-03-01 | 1573 | 18 | 
 | 2023-02-28 | 1511 | 17 | 

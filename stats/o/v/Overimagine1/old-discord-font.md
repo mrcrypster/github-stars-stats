@@ -1,10 +1,10 @@
 # Overimagine1/old-discord-font - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 22
 
-★ Stars: 61
+★ Stars: 63
 
 [Open repository](https://github.com/Overimagine1/old-discord-font)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 63 | 22 | 
 | 2023-03-02 | 61 | 22 | 
 | 2023-03-01 | 61 | 22 | 
 | 2023-02-27 | 61 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 61 | 17 | 
 | 2023-02-04 | 61 | 17 | 
 | 2023-02-02 | 61 | 17 | 
-| 2023-02-01 | 61 | 17 | 
 

@@ -1,10 +1,10 @@
 # ziglibs/tres - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/ziglibs/tres)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 24 | 2 | 
 | 2023-03-02 | 22 | 2 | 
 | 2023-03-01 | 20 | 2 | 
 | 2023-02-28 | 15 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 10 | 2 | 
 | 2023-02-03 | 10 | 2 | 
 | 2023-02-02 | 10 | 2 | 
-| 2023-02-01 | 10 | 2 | 
 

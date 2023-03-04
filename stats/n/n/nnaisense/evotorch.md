@@ -1,6 +1,6 @@
 # nnaisense/evotorch - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 824 | 48 | 
 | 2023-03-02 | 824 | 48 | 
 | 2023-03-01 | 823 | 48 | 
 | 2023-02-28 | 822 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 811 | 46 | 
 | 2023-02-03 | 810 | 47 | 
 | 2023-02-02 | 809 | 47 | 
-| 2023-02-01 | 808 | 47 | 
 

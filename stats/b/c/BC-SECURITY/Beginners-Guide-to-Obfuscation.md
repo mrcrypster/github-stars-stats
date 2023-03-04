@@ -1,10 +1,10 @@
 # BC-SECURITY/Beginners-Guide-to-Obfuscation - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 126
 
-★ Stars: 820
+★ Stars: 821
 
 [Open repository](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 821 | 126 | 
 | 2023-03-02 | 820 | 126 | 
 | 2023-02-28 | 820 | 126 | 
 | 2023-02-27 | 820 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 812 | 126 | 
 | 2023-02-03 | 812 | 126 | 
 | 2023-02-02 | 811 | 126 | 
-| 2023-02-01 | 810 | 126 | 
 

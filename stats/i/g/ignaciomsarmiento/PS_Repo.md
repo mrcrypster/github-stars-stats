@@ -1,8 +1,8 @@
 # ignaciomsarmiento/PS_Repo - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 15
+☋ Forks: 17
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1 | 17 | 
 | 2023-03-02 | 1 | 15 | 
 | 2023-03-01 | 1 | 15 | 
 | 2023-02-28 | 1 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | - | 10 | 
 | 2023-02-03 | - | 10 | 
 | 2023-02-02 | - | 9 | 
-| 2023-02-01 | - | 8 | 
 

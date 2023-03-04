@@ -1,10 +1,10 @@
 # DISTRHO/Cardinal - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
-☋ Forks: 100
+☋ Forks: 99
 
-★ Stars: 1265
+★ Stars: 1270
 
 [Open repository](https://github.com/DISTRHO/Cardinal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1270 | 99 | 
 | 2023-03-01 | 1265 | 100 | 
 | 2023-02-28 | 1256 | 100 | 
 | 2023-02-27 | 1251 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 1211 | 96 | 
 | 2023-02-03 | 1210 | 96 | 
 | 2023-02-02 | 1207 | 96 | 
-| 2023-02-01 | 1206 | 96 | 
 

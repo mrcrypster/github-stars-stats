@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 03
 
-☋ Forks: 143
+☋ Forks: 144
 
-★ Stars: 1306
+★ Stars: 1309
 
 [Open repository](https://github.com/SPLWare/esProc)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-03 | 1306 | 143 | 
+| 2023-03-03 | 1309 | 144 | 
 | 2023-03-02 | 1306 | 143 | 
 

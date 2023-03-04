@@ -1,10 +1,10 @@
 # qt/qtbase - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 901
+☋ Forks: 900
 
-★ Stars: 1913
+★ Stars: 1915
 
 [Open repository](https://github.com/qt/qtbase)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1915 | 900 | 
 | 2023-03-02 | 1913 | 901 | 
 | 2023-03-01 | 1913 | 901 | 
 | 2023-02-28 | 1912 | 901 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1896 | 893 | 
 | 2023-02-04 | 1892 | 893 | 
 | 2023-02-03 | 1893 | 892 | 
-| 2023-02-01 | 1893 | 892 | 
 

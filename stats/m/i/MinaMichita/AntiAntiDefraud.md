@@ -1,10 +1,10 @@
 # MinaMichita/AntiAntiDefraud - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 28
 
-★ Stars: 390
+★ Stars: 392
 
 [Open repository](https://github.com/MinaMichita/AntiAntiDefraud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 392 | 28 | 
 | 2023-03-02 | 390 | 28 | 
 | 2023-03-01 | 389 | 28 | 
 | 2023-02-27 | 389 | 27 | 

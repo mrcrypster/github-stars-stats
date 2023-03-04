@@ -1,6 +1,6 @@
 # aidenybai/million-react - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 379 | 6 | 
 | 2023-03-02 | 379 | 6 | 
 | 2023-03-01 | 379 | 6 | 
 | 2023-02-28 | 378 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 370 | 6 | 
 | 2023-02-04 | 370 | 6 | 
 | 2023-02-02 | 370 | 6 | 
-| 2023-02-01 | 370 | 6 | 
 

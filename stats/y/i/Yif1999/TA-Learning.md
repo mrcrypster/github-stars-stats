@@ -1,10 +1,10 @@
 # Yif1999/TA-Learning - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 13
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/Yif1999/TA-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 40 | 13 | 
 | 2023-03-02 | 38 | 13 | 
 | 2023-03-01 | 37 | 13 | 
 | 2023-02-28 | 37 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 34 | 11 | 
 | 2023-02-03 | 34 | 11 | 
 | 2023-02-02 | 34 | 11 | 
-| 2023-02-01 | 33 | 11 | 
 

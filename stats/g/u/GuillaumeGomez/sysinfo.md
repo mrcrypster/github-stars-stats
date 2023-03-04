@@ -1,10 +1,10 @@
 # GuillaumeGomez/sysinfo - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 193
 
-★ Stars: 1251
+★ Stars: 1253
 
 [Open repository](https://github.com/GuillaumeGomez/sysinfo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1253 | 193 | 
 | 2023-03-02 | 1251 | 193 | 
 | 2023-03-01 | 1250 | 193 | 
 | 2023-02-28 | 1248 | 193 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1212 | 190 | 
 | 2023-02-03 | 1212 | 190 | 
 | 2023-02-02 | 1211 | 190 | 
-| 2023-02-01 | 1211 | 189 | 
 

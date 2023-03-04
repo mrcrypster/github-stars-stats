@@ -1,10 +1,10 @@
 # lewis6991/gitsigns.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 104
 
-★ Stars: 2776
+★ Stars: 2777
 
 [Open repository](https://github.com/lewis6991/gitsigns.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2777 | 104 | 
 | 2023-03-02 | 2776 | 104 | 
 | 2023-02-28 | 2769 | 104 | 
 | 2023-02-27 | 2766 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 2658 | 101 | 
 | 2023-02-03 | 2646 | 100 | 
 | 2023-02-02 | 2639 | 100 | 
-| 2023-02-01 | 2637 | 100 | 
 

@@ -1,10 +1,10 @@
 # tporadowski/redis - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 930
 
-★ Stars: 6634
+★ Stars: 6641
 
 [Open repository](https://github.com/tporadowski/redis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 6641 | 930 | 
 | 2023-03-02 | 6634 | 930 | 
 | 2023-03-01 | 6623 | 929 | 
 | 2023-02-28 | 6614 | 929 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 6472 | 914 | 
 | 2023-02-03 | 6471 | 914 | 
 | 2023-02-02 | 6460 | 914 | 
-| 2023-02-01 | 6456 | 913 | 
 

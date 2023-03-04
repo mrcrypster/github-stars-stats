@@ -1,10 +1,10 @@
 # Bywalks/DarkAngel - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 45
 
-★ Stars: 363
+★ Stars: 366
 
 [Open repository](https://github.com/Bywalks/DarkAngel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 366 | 45 | 
 | 2023-03-02 | 363 | 45 | 
 | 2023-02-28 | 360 | 45 | 
 | 2023-02-27 | 358 | 45 | 

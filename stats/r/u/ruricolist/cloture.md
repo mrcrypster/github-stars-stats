@@ -1,6 +1,6 @@
 # ruricolist/cloture - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 344 | 6 | 
 | 2023-03-02 | 344 | 6 | 
 | 2023-03-01 | 344 | 6 | 
 | 2023-02-28 | 344 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 341 | 6 | 
 | 2023-02-03 | 341 | 6 | 
 | 2023-02-02 | 341 | 6 | 
-| 2023-02-01 | 341 | 6 | 
 

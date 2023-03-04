@@ -1,10 +1,10 @@
 # python/python-docs-zh-tw - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 82
+☋ Forks: 87
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/python/python-docs-zh-tw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 126 | 87 | 
 | 2023-03-02 | 125 | 82 | 
 | 2023-03-01 | 125 | 82 | 
 | 2023-02-28 | 125 | 82 | 

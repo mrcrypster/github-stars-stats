@@ -1,10 +1,10 @@
 # oatpp/oatpp - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 1142
 
-★ Stars: 6142
+★ Stars: 6146
 
 [Open repository](https://github.com/oatpp/oatpp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 6146 | 1142 | 
 | 2023-03-02 | 6142 | 1142 | 
 | 2023-03-01 | 6141 | 1142 | 
 | 2023-02-28 | 6138 | 1142 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 6066 | 1137 | 
 | 2023-02-03 | 6063 | 1136 | 
 | 2023-02-02 | 6059 | 1135 | 
-| 2023-02-01 | 6055 | 1135 | 
 

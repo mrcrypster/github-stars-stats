@@ -1,10 +1,10 @@
 # bradtraversy/image-resizer-electron - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 39
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/bradtraversy/image-resizer-electron)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 77 | 39 | 
 | 2023-03-02 | 76 | 39 | 
 | 2023-02-28 | 76 | 39 | 
 | 2023-02-27 | 75 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 74 | 36 | 
 | 2023-02-03 | 74 | 36 | 
 | 2023-02-02 | 75 | 36 | 
-| 2023-02-01 | 74 | 37 | 
 

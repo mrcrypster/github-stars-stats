@@ -1,6 +1,6 @@
 # flutterboy20/space_app - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 106 | 22 | 
 | 2023-03-02 | 106 | 22 | 
 | 2023-03-01 | 106 | 22 | 
 | 2023-02-27 | 106 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 104 | 22 | 
 | 2023-02-03 | 104 | 22 | 
 | 2023-02-02 | 104 | 22 | 
-| 2023-02-01 | 104 | 22 | 
 

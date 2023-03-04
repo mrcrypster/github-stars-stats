@@ -1,6 +1,6 @@
 # ibrahim1912/Hrms.PostgreSQL - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 11 | - | 
 | 2023-03-02 | 11 | - | 
 | 2023-03-01 | 11 | - | 
 | 2023-02-28 | 11 | - | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 11 | - | 
 | 2023-02-03 | 11 | - | 
 | 2023-02-02 | 11 | - | 
-| 2023-02-01 | 11 | - | 
 

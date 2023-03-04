@@ -1,10 +1,10 @@
 # SolastaMods/SolastaUnfinishedBusiness - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/SolastaMods/SolastaUnfinishedBusiness)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 19 | 15 | 
 | 2023-03-02 | 18 | 15 | 
 | 2023-03-01 | 18 | 15 | 
 | 2023-02-27 | 17 | 15 | 

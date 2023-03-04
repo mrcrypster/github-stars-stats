@@ -1,10 +1,10 @@
 # comby-tools/comby - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 53
+☋ Forks: 54
 
-★ Stars: 1988
+★ Stars: 1991
 
 [Open repository](https://github.com/comby-tools/comby)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1991 | 54 | 
 | 2023-03-02 | 1988 | 53 | 
 | 2023-03-01 | 1988 | 53 | 
 | 2023-02-27 | 1988 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1963 | 52 | 
 | 2023-02-03 | 1963 | 52 | 
 | 2023-02-02 | 1961 | 52 | 
-| 2023-02-01 | 1959 | 52 | 
 

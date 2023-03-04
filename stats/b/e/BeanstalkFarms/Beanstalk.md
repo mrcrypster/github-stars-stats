@@ -1,6 +1,6 @@
 # BeanstalkFarms/Beanstalk - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 88 | 50 | 
 | 2023-03-02 | 88 | 50 | 
 | 2023-03-01 | 88 | 49 | 
 | 2023-02-28 | 88 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 88 | 45 | 
 | 2023-02-03 | 88 | 44 | 
 | 2023-02-02 | 88 | 44 | 
-| 2023-02-01 | 88 | 44 | 
 

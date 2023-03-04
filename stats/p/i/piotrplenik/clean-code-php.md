@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 03
 
 ☋ Forks: 2164
 
-★ Stars: 11419
+★ Stars: 11420
 
 [Open repository](https://github.com/piotrplenik/clean-code-php)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-03 | 11419 | 2164 | 
+| 2023-03-03 | 11420 | 2164 | 
 | 2023-03-02 | 11417 | 2164 | 
 | 2023-03-01 | 11415 | 2165 | 
 | 2023-02-28 | 11413 | 2163 | 

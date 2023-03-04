@@ -1,10 +1,10 @@
 # intel/x86-simd-sort - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 12
 
-★ Stars: 287
+★ Stars: 291
 
 [Open repository](https://github.com/intel/x86-simd-sort)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 291 | 12 | 
 | 2023-03-02 | 287 | 12 | 
 | 2023-03-01 | 284 | 12 | 
 | 2023-02-28 | 284 | 12 | 

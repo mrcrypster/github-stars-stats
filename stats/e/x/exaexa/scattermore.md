@@ -1,10 +1,10 @@
 # exaexa/scattermore - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/exaexa/scattermore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 195 | 4 | 
 | 2023-03-02 | 194 | 4 | 
 | 2023-03-01 | 194 | 4 | 
 | 2023-02-28 | 194 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 189 | 4 | 
 | 2023-02-03 | 189 | 4 | 
 | 2023-02-02 | 189 | 4 | 
-| 2023-02-01 | 189 | 4 | 
 

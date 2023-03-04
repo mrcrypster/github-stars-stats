@@ -1,10 +1,10 @@
 # navopw/whatsapp-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 343
+☋ Forks: 348
 
-★ Stars: 1891
+★ Stars: 1917
 
 [Open repository](https://github.com/navopw/whatsapp-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1917 | 348 | 
 | 2023-03-02 | 1891 | 343 | 
 | 2023-03-01 | 1868 | 336 | 
 | 2023-02-28 | 1821 | 333 | 

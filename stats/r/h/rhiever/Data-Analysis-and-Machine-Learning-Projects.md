@@ -1,8 +1,8 @@
 # rhiever/Data-Analysis-and-Machine-Learning-Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 1979
+☋ Forks: 1978
 
 ★ Stars: 5502
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5502 | 1978 | 
 | 2023-03-02 | 5502 | 1979 | 
 | 2023-03-01 | 5504 | 1979 | 
 | 2023-02-28 | 5504 | 1979 | 

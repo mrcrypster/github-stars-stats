@@ -1,10 +1,10 @@
 # danini-the-panini/mittsu - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 29
 
-★ Stars: 483
+★ Stars: 484
 
 [Open repository](https://github.com/danini-the-panini/mittsu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 484 | 29 | 
 | 2023-03-02 | 483 | 29 | 
 | 2023-03-01 | 483 | 29 | 
 | 2023-02-28 | 483 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 481 | 29 | 
 | 2023-02-03 | 481 | 29 | 
 | 2023-02-02 | 481 | 29 | 
-| 2023-02-01 | 481 | 29 | 
 

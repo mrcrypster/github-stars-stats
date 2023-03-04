@@ -1,10 +1,10 @@
 # openai/glide-text2im - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 434
 
-★ Stars: 3037
+★ Stars: 3039
 
 [Open repository](https://github.com/openai/glide-text2im)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3039 | 434 | 
 | 2023-03-02 | 3037 | 434 | 
 | 2023-03-01 | 3036 | 433 | 
 | 2023-02-27 | 3031 | 432 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2995 | 423 | 
 | 2023-02-04 | 2993 | 423 | 
 | 2023-02-03 | 2988 | 423 | 
-| 2023-02-01 | 2987 | 422 | 
 

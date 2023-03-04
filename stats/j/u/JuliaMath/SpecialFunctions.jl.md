@@ -1,6 +1,6 @@
 # JuliaMath/SpecialFunctions.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 295 | 86 | 
 | 2023-03-02 | 295 | 86 | 
 | 2023-02-28 | 295 | 86 | 
 | 2023-02-27 | 295 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 289 | 86 | 
 | 2023-02-03 | 289 | 86 | 
 | 2023-02-02 | 288 | 86 | 
-| 2023-02-01 | 287 | 86 | 
 

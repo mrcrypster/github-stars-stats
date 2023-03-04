@@ -1,10 +1,10 @@
 # songquanpeng/go-file - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 43
 
-★ Stars: 469
+★ Stars: 470
 
 [Open repository](https://github.com/songquanpeng/go-file)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 470 | 43 | 
 | 2023-03-02 | 469 | 43 | 
 | 2023-03-01 | 469 | 43 | 
 | 2023-02-28 | 469 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 459 | 41 | 
 | 2023-02-04 | 459 | 41 | 
 | 2023-02-03 | 459 | 41 | 
-| 2023-02-02 | 459 | 41 | 
 

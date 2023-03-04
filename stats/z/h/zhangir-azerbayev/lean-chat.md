@@ -1,10 +1,10 @@
 # zhangir-azerbayev/lean-chat - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 5
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/zhangir-azerbayev/lean-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 42 | 5 | 
 | 2023-03-02 | 41 | 5 | 
 | 2023-02-28 | 41 | 5 | 
 | 2023-02-27 | 41 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 36 | 5 | 
 | 2023-02-03 | 36 | 5 | 
 | 2023-02-02 | 36 | 5 | 
-| 2023-02-01 | 36 | 5 | 
 

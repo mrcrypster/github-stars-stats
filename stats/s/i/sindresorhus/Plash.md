@@ -1,10 +1,10 @@
 # sindresorhus/Plash - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 97
 
-★ Stars: 2634
+★ Stars: 2635
 
 [Open repository](https://github.com/sindresorhus/Plash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2635 | 97 | 
 | 2023-03-01 | 2634 | 97 | 
 | 2023-02-28 | 2629 | 97 | 
 | 2023-02-27 | 2629 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 2598 | 96 | 
 | 2023-02-03 | 2597 | 96 | 
 | 2023-02-02 | 2595 | 96 | 
-| 2023-02-01 | 2590 | 96 | 
 

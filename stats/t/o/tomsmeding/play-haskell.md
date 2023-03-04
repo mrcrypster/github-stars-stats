@@ -1,10 +1,10 @@
 # tomsmeding/play-haskell - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 65
 
 [Open repository](https://github.com/tomsmeding/play-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 65 | 4 | 
 | 2023-03-02 | 60 | 4 | 
 | 2023-03-01 | 58 | 3 | 
 | 2023-02-28 | 52 | 1 | 

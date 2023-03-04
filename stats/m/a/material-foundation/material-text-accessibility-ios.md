@@ -1,6 +1,6 @@
 # material-foundation/material-text-accessibility-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 53 | 41 | 
 | 2023-03-02 | 53 | 41 | 
 | 2023-03-01 | 53 | 41 | 
 | 2023-02-28 | 53 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 53 | 42 | 
 | 2023-02-04 | 52 | 42 | 
 | 2023-02-03 | 52 | 42 | 
-| 2023-02-02 | 52 | 42 | 
 

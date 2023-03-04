@@ -1,6 +1,6 @@
 # robertfeldt/wasp_SE_course - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | - | 38 | 
 | 2023-03-02 | - | 38 | 
 | 2023-03-01 | - | 38 | 
 | 2023-02-28 | - | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | - | 38 | 
 | 2023-02-03 | - | 38 | 
 | 2023-02-02 | - | 38 | 
-| 2023-02-01 | - | 38 | 
 

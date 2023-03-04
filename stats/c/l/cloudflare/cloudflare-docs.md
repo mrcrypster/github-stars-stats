@@ -1,10 +1,10 @@
 # cloudflare/cloudflare-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 2041
+☋ Forks: 2044
 
-★ Stars: 1650
+★ Stars: 1654
 
 [Open repository](https://github.com/cloudflare/cloudflare-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1654 | 2044 | 
 | 2023-03-02 | 1650 | 2041 | 
 | 2023-03-01 | 1650 | 2038 | 
 | 2023-02-28 | 1648 | 2037 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1610 | 1996 | 
 | 2023-02-03 | 1610 | 1993 | 
 | 2023-02-02 | 1609 | 1995 | 
-| 2023-02-01 | 1607 | 1993 | 
 

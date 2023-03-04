@@ -1,6 +1,6 @@
 # simonw/action-transcription - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 145 | 23 | 
 | 2023-03-02 | 145 | 23 | 
 | 2023-03-01 | 145 | 23 | 
 | 2023-02-27 | 145 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 138 | 22 | 
 | 2023-02-04 | 138 | 22 | 
 | 2023-02-03 | 138 | 22 | 
-| 2023-02-02 | 138 | 22 | 
 

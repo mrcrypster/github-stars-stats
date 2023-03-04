@@ -1,6 +1,6 @@
 # LSIR/DIS - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 66 | 94 | 
 | 2023-03-02 | 66 | 94 | 
 | 2023-03-01 | 66 | 94 | 
 | 2023-02-27 | 66 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 65 | 94 | 
 | 2023-02-03 | 65 | 94 | 
 | 2023-02-02 | 65 | 94 | 
-| 2023-02-01 | 65 | 94 | 
 

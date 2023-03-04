@@ -1,6 +1,6 @@
 # x0rz/EQGRP - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2149
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3939 | 2149 | 
 | 2023-03-01 | 3939 | 2149 | 
 | 2023-02-28 | 3939 | 2149 | 
 | 2023-02-27 | 3939 | 2149 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3930 | 2148 | 
 | 2023-02-03 | 3930 | 2148 | 
 | 2023-02-02 | 3929 | 2148 | 
-| 2023-02-01 | 3928 | 2148 | 
 

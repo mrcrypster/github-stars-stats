@@ -1,10 +1,10 @@
 # insightsengineering/teal - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 11
 
-★ Stars: 68
+★ Stars: 73
 
 [Open repository](https://github.com/insightsengineering/teal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 73 | 11 | 
 | 2023-03-02 | 68 | 11 | 
 | 2023-03-01 | 66 | 10 | 
 | 2023-02-27 | 65 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 59 | 8 | 
 | 2023-02-04 | 59 | 8 | 
 | 2023-02-03 | 58 | 8 | 
-| 2023-02-02 | 58 | 8 | 
 

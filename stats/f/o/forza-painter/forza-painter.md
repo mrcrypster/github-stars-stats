@@ -1,6 +1,6 @@
 # forza-painter/forza-painter - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 332 | 63 | 
 | 2023-03-02 | 332 | 63 | 
 | 2023-03-01 | 331 | 63 | 
 | 2023-02-28 | 331 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 325 | 62 | 
 | 2023-02-03 | 325 | 62 | 
 | 2023-02-02 | 325 | 62 | 
-| 2023-02-01 | 324 | 62 | 
 

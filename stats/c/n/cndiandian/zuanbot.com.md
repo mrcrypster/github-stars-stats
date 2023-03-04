@@ -1,6 +1,6 @@
 # cndiandian/zuanbot.com - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 250 | 59 | 
 | 2023-03-01 | 250 | 59 | 
 | 2023-02-28 | 250 | 59 | 
 | 2023-02-27 | 250 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 244 | 59 | 
 | 2023-02-03 | 243 | 59 | 
 | 2023-02-02 | 243 | 59 | 
-| 2023-02-01 | 243 | 59 | 
 

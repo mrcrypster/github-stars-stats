@@ -1,10 +1,10 @@
 # The-OpenROAD-Project/OpenLane - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 298
 
-★ Stars: 854
+★ Stars: 855
 
 [Open repository](https://github.com/The-OpenROAD-Project/OpenLane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 855 | 298 | 
 | 2023-03-02 | 854 | 298 | 
 | 2023-03-01 | 854 | 298 | 
 | 2023-02-28 | 854 | 297 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 827 | 289 | 
 | 2023-02-03 | 826 | 289 | 
 | 2023-02-02 | 826 | 289 | 
-| 2023-02-01 | 825 | 288 | 
 

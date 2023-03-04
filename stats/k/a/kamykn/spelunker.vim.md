@@ -1,10 +1,10 @@
 # kamykn/spelunker.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 18
 
-★ Stars: 305
+★ Stars: 306
 
 [Open repository](https://github.com/kamykn/spelunker.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 306 | 18 | 
 | 2023-03-02 | 305 | 18 | 
 | 2023-03-01 | 305 | 18 | 
 | 2023-02-28 | 305 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 302 | 17 | 
 | 2023-02-04 | 302 | 17 | 
 | 2023-02-03 | 302 | 17 | 
-| 2023-02-01 | 303 | 17 | 
 

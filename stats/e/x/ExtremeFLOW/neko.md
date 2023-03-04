@@ -1,6 +1,6 @@
 # ExtremeFLOW/neko - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 37 | 6 | 
 | 2023-03-02 | 37 | 6 | 
 | 2023-03-01 | 36 | 6 | 
 | 2023-02-27 | 36 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 36 | 5 | 
 | 2023-02-03 | 36 | 5 | 
 | 2023-02-02 | 34 | 5 | 
-| 2023-02-01 | 34 | 5 | 
 

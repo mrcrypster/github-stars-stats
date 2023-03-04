@@ -1,10 +1,10 @@
 # duffn/dumb-password-rules - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 282
+☋ Forks: 285
 
-★ Stars: 2886
+★ Stars: 2892
 
 [Open repository](https://github.com/duffn/dumb-password-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 2892 | 285 | 
 | 2023-03-02 | 2886 | 282 | 
 | 2023-03-01 | 2886 | 282 | 
 | 2023-02-28 | 2883 | 281 | 

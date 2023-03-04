@@ -1,6 +1,6 @@
 # janosh/svelte-multiselect - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 148 | 19 | 
 | 2023-03-02 | 148 | 19 | 
 | 2023-03-01 | 148 | 19 | 
 | 2023-02-27 | 147 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 140 | 19 | 
 | 2023-02-03 | 140 | 19 | 
 | 2023-02-02 | 140 | 19 | 
-| 2023-02-01 | 140 | 19 | 
 

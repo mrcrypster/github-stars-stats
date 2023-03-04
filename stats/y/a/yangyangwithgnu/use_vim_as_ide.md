@@ -1,6 +1,6 @@
 # yangyangwithgnu/use_vim_as_ide - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 2424
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 9224 | 2424 | 
 | 2023-03-02 | 9224 | 2424 | 
 | 2023-03-01 | 9222 | 2424 | 
 | 2023-02-28 | 9222 | 2424 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 9220 | 2424 | 
 | 2023-02-03 | 9221 | 2424 | 
 | 2023-02-02 | 9222 | 2424 | 
-| 2023-02-01 | 9223 | 2424 | 
 

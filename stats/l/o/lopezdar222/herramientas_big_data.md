@@ -1,10 +1,10 @@
 # lopezdar222/herramientas_big_data - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 21
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/lopezdar222/herramientas_big_data)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 7 | 21 | 
 | 2023-03-02 | 6 | 21 | 
 | 2023-03-01 | 6 | 21 | 
 | 2023-02-27 | 6 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 5 | 21 | 
 | 2023-02-04 | 5 | 21 | 
 | 2023-02-03 | 5 | 21 | 
-| 2023-02-02 | 5 | 21 | 
 

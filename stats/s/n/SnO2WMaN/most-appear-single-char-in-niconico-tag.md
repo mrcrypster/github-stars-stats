@@ -1,6 +1,6 @@
 # SnO2WMaN/most-appear-single-char-in-niconico-tag - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 10 | - | 
 | 2023-03-02 | 10 | - | 
 | 2023-03-01 | 10 | - | 
 | 2023-02-28 | 10 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 10 | - | 
 | 2023-02-03 | 10 | - | 
 | 2023-02-02 | 10 | - | 
-| 2023-02-01 | 10 | - | 
 

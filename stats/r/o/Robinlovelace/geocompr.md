@@ -1,10 +1,10 @@
 # Robinlovelace/geocompr - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 542
 
-★ Stars: 1288
+★ Stars: 1289
 
 [Open repository](https://github.com/Robinlovelace/geocompr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1289 | 542 | 
 | 2023-03-02 | 1288 | 542 | 
 | 2023-03-01 | 1283 | 543 | 
 | 2023-02-27 | 1282 | 542 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1271 | 539 | 
 | 2023-02-04 | 1271 | 539 | 
 | 2023-02-03 | 1270 | 539 | 
-| 2023-02-01 | 3 | 540 | 
 

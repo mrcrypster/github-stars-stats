@@ -1,6 +1,6 @@
 # tintinweb/smart-contract-sanctuary - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 227
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1161 | 227 | 
 | 2023-03-02 | 1161 | 227 | 
 | 2023-03-01 | 1160 | 228 | 
 | 2023-02-28 | 1158 | 227 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1123 | 224 | 
 | 2023-02-03 | 1122 | 224 | 
 | 2023-02-02 | 1121 | 224 | 
-| 2023-02-01 | 1120 | 224 | 
 

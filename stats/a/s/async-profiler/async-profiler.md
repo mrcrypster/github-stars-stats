@@ -1,10 +1,10 @@
 # async-profiler/async-profiler - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 693
+☋ Forks: 694
 
-★ Stars: 5934
+★ Stars: 5942
 
 [Open repository](https://github.com/async-profiler/async-profiler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 5942 | 694 | 
 | 2023-03-02 | 5934 | 693 | 
 | 2023-03-01 | 5926 | 693 | 
 | 2023-02-28 | 5918 | 692 | 

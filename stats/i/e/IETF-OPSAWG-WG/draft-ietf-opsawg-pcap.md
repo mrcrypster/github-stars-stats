@@ -1,6 +1,6 @@
 # IETF-OPSAWG-WG/draft-ietf-opsawg-pcap - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 230 | 50 | 
 | 2023-03-02 | 230 | 50 | 
 | 2023-03-01 | 230 | 50 | 
 | 2023-02-27 | 230 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 227 | 51 | 
 | 2023-02-03 | 227 | 51 | 
 | 2023-02-02 | 227 | 51 | 
-| 2023-02-01 | 227 | 51 | 
 

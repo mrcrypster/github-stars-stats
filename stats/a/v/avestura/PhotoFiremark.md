@@ -1,6 +1,6 @@
 # avestura/PhotoFiremark - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 163 | 8 | 
 | 2023-03-02 | 163 | 8 | 
 | 2023-03-01 | 163 | 8 | 
 | 2023-02-28 | 163 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 163 | 8 | 
 | 2023-02-04 | 162 | 8 | 
 | 2023-02-02 | 162 | 8 | 
-| 2023-02-01 | 162 | 8 | 
 

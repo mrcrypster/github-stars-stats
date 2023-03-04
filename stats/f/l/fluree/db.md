@@ -1,6 +1,6 @@
 # fluree/db - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 246 | 19 | 
 | 2023-03-02 | 246 | 19 | 
 | 2023-02-28 | 246 | 19 | 
 | 2023-02-27 | 246 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 242 | 17 | 
 | 2023-02-03 | 242 | 17 | 
 | 2023-02-02 | 242 | 17 | 
-| 2023-02-01 | 242 | 17 | 
 

@@ -1,6 +1,6 @@
 # vuejs/vuefire - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 313
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 3499 | 313 | 
 | 2023-03-01 | 3499 | 313 | 
 | 2023-02-28 | 3500 | 313 | 
 | 2023-02-27 | 3499 | 313 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-05 | 3469 | 309 | 
 | 2023-02-04 | 3467 | 309 | 
 | 2023-02-02 | 3467 | 309 | 
-| 2023-02-01 | 3467 | 308 | 
 

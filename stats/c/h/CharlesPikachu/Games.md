@@ -1,10 +1,10 @@
 # CharlesPikachu/Games - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
-☋ Forks: 2155
+☋ Forks: 2154
 
-★ Stars: 4334
+★ Stars: 4337
 
 [Open repository](https://github.com/CharlesPikachu/Games)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 4337 | 2154 | 
 | 2023-03-02 | 4334 | 2155 | 
 | 2023-03-01 | 4334 | 2156 | 
 | 2023-02-28 | 4331 | 2156 | 

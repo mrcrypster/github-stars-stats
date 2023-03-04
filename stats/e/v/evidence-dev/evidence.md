@@ -1,6 +1,6 @@
 # evidence-dev/evidence - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1012 | 76 | 
 | 2023-03-02 | 1012 | 76 | 
 | 2023-03-01 | 1011 | 76 | 
 | 2023-02-28 | 1011 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 967 | 73 | 
 | 2023-02-03 | 966 | 73 | 
 | 2023-02-02 | 966 | 73 | 
-| 2023-02-01 | 966 | 73 | 
 

@@ -1,6 +1,6 @@
 # wzpan/cmake-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 03
 
 ☋ Forks: 796
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-03 | 1676 | 796 | 
 | 2023-03-02 | 1676 | 796 | 
 | 2023-03-01 | 1673 | 796 | 
 | 2023-02-28 | 1672 | 795 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 1641 | 783 | 
 | 2023-02-03 | 1640 | 783 | 
 | 2023-02-02 | 1640 | 782 | 
-| 2023-02-01 | 1637 | 782 | 
 

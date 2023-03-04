@@ -1,6 +1,6 @@
 # kurtburak/argocd - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 47 | 49 | 
 | 2023-03-02 | 47 | 49 | 
 | 2023-03-01 | 47 | 49 | 
 | 2023-02-28 | 47 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-04 | 47 | 47 | 
 | 2023-02-03 | 47 | 47 | 
 | 2023-02-02 | 47 | 47 | 
-| 2023-02-01 | 47 | 47 | 
 

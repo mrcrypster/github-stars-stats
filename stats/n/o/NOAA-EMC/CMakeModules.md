@@ -1,6 +1,6 @@
 # NOAA-EMC/CMakeModules - stars & forks statistics
 
-Stats updated on Mar 2023, 01
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3 | 9 | 
+| 2023-03-03 | 3 | 9 | 
 | 2023-03-01 | 3 | 9 | 
 | 2023-02-28 | 3 | 9 | 
 | 2023-02-27 | 3 | 9 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 01
 | 2023-02-04 | 3 | 9 | 
 | 2023-02-03 | 3 | 9 | 
 | 2023-02-02 | 3 | 9 | 
-| 2023-02-01 | 3 | 9 | 
 
