@@ -1,10 +1,10 @@
 # helix-editor/helix - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1344
 
-★ Stars: 19464
+★ Stars: 19492
 
 [Open repository](https://github.com/helix-editor/helix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 19492 | 1344 | 
 | 2023-03-03 | 19464 | 1344 | 
 | 2023-03-02 | 19438 | 1342 | 
 | 2023-03-01 | 19429 | 1341 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 18748 | 1275 | 
 | 2023-02-04 | 18732 | 1266 | 
 | 2023-02-03 | 18716 | 1261 | 
-| 2023-02-02 | 18686 | 1257 | 
 

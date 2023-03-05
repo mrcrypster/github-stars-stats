@@ -1,10 +1,10 @@
 # bkaradzic/bgfx - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1778
+☋ Forks: 1782
 
-★ Stars: 12743
+★ Stars: 12745
 
 [Open repository](https://github.com/bkaradzic/bgfx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 12745 | 1782 | 
 | 2023-03-03 | 12743 | 1778 | 
 | 2023-03-02 | 12740 | 1778 | 
 | 2023-03-01 | 12733 | 1778 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 12656 | 1762 | 
 | 2023-02-04 | 12651 | 1762 | 
 | 2023-02-03 | 12650 | 1763 | 
-| 2023-02-02 | 12642 | 1761 | 
 

@@ -1,6 +1,6 @@
 # chrome-php/chrome - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1723 | 222 | 
 | 2023-03-03 | 1723 | 222 | 
 | 2023-03-02 | 1720 | 222 | 
 | 2023-03-01 | 1720 | 221 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1691 | 215 | 
 | 2023-02-05 | 1691 | 215 | 
 | 2023-02-04 | 1691 | 215 | 
-| 2023-02-02 | 1689 | 215 | 
 

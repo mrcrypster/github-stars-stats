@@ -1,8 +1,8 @@
 # XX-net/XX-Net - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 7770
+☋ Forks: 7771
 
 ★ Stars: 31721
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 31721 | 7771 | 
 | 2023-03-03 | 31721 | 7770 | 
 | 2023-03-02 | 31718 | 7770 | 
 | 2023-03-01 | 31716 | 7771 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 31650 | 7761 | 
 | 2023-02-04 | 31650 | 7761 | 
 | 2023-02-03 | 31646 | 7760 | 
-| 2023-02-02 | 31646 | 7761 | 
 

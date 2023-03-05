@@ -1,6 +1,6 @@
 # wojtekmaj/react-pdf - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 724
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 6857 | 724 | 
 | 2023-03-03 | 6857 | 724 | 
 | 2023-03-02 | 6855 | 723 | 
 | 2023-03-01 | 6853 | 721 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 6783 | 712 | 
 | 2023-02-04 | 6783 | 713 | 
 | 2023-02-03 | 6779 | 713 | 
-| 2023-02-02 | 6770 | 713 | 
 

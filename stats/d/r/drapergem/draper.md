@@ -1,10 +1,10 @@
 # drapergem/draper - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 527
 
-★ Stars: 5154
+★ Stars: 5155
 
 [Open repository](https://github.com/drapergem/draper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 5155 | 527 | 
 | 2023-03-03 | 5154 | 527 | 
 | 2023-03-02 | 5154 | 527 | 
 | 2023-03-01 | 5154 | 527 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 5149 | 525 | 
 | 2023-02-04 | 5149 | 525 | 
 | 2023-02-03 | 5149 | 525 | 
-| 2023-02-02 | 5149 | 525 | 
 

@@ -1,10 +1,10 @@
 # b0o/incline.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 346
+★ Stars: 345
 
 [Open repository](https://github.com/b0o/incline.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 345 | 9 | 
 | 2023-03-03 | 346 | 9 | 
 | 2023-03-02 | 346 | 9 | 
 | 2023-03-01 | 346 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 335 | 8 | 
 | 2023-02-04 | 335 | 7 | 
 | 2023-02-03 | 334 | 7 | 
-| 2023-02-02 | 332 | 7 | 
 

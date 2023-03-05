@@ -1,10 +1,10 @@
 # NVlabs/GroupViT - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 42
 
-★ Stars: 540
+★ Stars: 542
 
 [Open repository](https://github.com/NVlabs/GroupViT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 542 | 42 | 
 | 2023-03-03 | 540 | 42 | 
 | 2023-03-02 | 538 | 42 | 
 | 2023-02-28 | 537 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 526 | 42 | 
 | 2023-02-04 | 526 | 42 | 
 | 2023-02-03 | 523 | 43 | 
-| 2023-02-02 | 523 | 43 | 
 

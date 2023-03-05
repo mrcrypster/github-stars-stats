@@ -1,10 +1,10 @@
 # jcsalterego/jqq - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 287
+★ Stars: 293
 
 [Open repository](https://github.com/jcsalterego/jqq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 293 | 5 | 
 | 2023-03-03 | 287 | 5 | 
 | 2023-03-01 | 287 | 5 | 
 | 2023-02-28 | 287 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 285 | 4 | 
 | 2023-02-04 | 285 | 4 | 
 | 2023-02-03 | 285 | 4 | 
-| 2023-02-02 | 285 | 4 | 
 

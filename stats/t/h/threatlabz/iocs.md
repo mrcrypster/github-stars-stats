@@ -1,10 +1,10 @@
 # threatlabz/iocs - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/threatlabz/iocs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 27 | 2 | 
 | 2023-03-03 | 25 | 2 | 
 | 2023-03-02 | 23 | 2 | 
 | 2023-02-28 | 22 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 17 | 2 | 
 | 2023-02-04 | 17 | 2 | 
 | 2023-02-03 | 17 | 2 | 
-| 2023-02-02 | 17 | 2 | 
 

@@ -1,6 +1,6 @@
 # privacycg/meetings - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 82 | 21 | 
 | 2023-03-03 | 82 | 21 | 
 | 2023-03-02 | 82 | 21 | 
 | 2023-02-28 | 82 | 21 | 

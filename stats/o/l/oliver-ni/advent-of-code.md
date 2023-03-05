@@ -1,6 +1,6 @@
 # oliver-ni/advent-of-code - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 68 | 6 | 
 | 2023-03-03 | 68 | 6 | 
 | 2023-03-01 | 68 | 6 | 
 | 2023-02-28 | 68 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 68 | 6 | 
 | 2023-02-05 | 68 | 5 | 
 | 2023-02-03 | 68 | 5 | 
-| 2023-02-02 | 68 | 5 | 
 

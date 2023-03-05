@@ -1,8 +1,8 @@
 # artemisriga/fun-html-page - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 58 | 35 | 
 | 2023-03-03 | 58 | 34 | 
 | 2023-03-02 | 56 | 34 | 
 | 2023-03-01 | 54 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 35 | 25 | 
 | 2023-02-04 | 34 | 24 | 
 | 2023-02-03 | 33 | 24 | 
-| 2023-02-02 | 33 | 22 | 
 

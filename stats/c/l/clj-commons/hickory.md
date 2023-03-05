@@ -1,10 +1,10 @@
 # clj-commons/hickory - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 44
 
-★ Stars: 575
+★ Stars: 576
 
 [Open repository](https://github.com/clj-commons/hickory)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 576 | 44 | 
 | 2023-03-03 | 575 | 44 | 
 | 2023-03-02 | 574 | 44 | 
 | 2023-03-01 | 574 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 573 | 44 | 
 | 2023-02-04 | 573 | 44 | 
 | 2023-02-03 | 573 | 44 | 
-| 2023-02-02 | 572 | 44 | 
 

@@ -1,10 +1,10 @@
 # jh3y/view-transition-sandbox - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/jh3y/view-transition-sandbox)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 14 | - | 
 | 2023-03-03 | 13 | - | 
 

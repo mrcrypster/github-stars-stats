@@ -1,10 +1,10 @@
 # merveenoyan/my_notes - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 48
 
-★ Stars: 569
+★ Stars: 571
 
 [Open repository](https://github.com/merveenoyan/my_notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 571 | 48 | 
 | 2023-03-03 | 569 | 48 | 
 | 2023-03-02 | 567 | 47 | 
 | 2023-03-01 | 565 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 528 | 47 | 
 | 2023-02-05 | 524 | 45 | 
 | 2023-02-03 | 519 | 45 | 
-| 2023-02-02 | 512 | 45 | 
 

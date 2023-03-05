@@ -1,6 +1,6 @@
 # GeorgiaTech-XR/XR-film - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1 | 6 | 
 | 2023-03-03 | 1 | 6 | 
 | 2023-03-02 | 1 | 5 | 
 

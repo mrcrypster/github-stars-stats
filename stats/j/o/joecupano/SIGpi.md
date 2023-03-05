@@ -1,10 +1,10 @@
 # joecupano/SIGpi - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 85
+★ Stars: 87
 
 [Open repository](https://github.com/joecupano/SIGpi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 87 | 8 | 
 | 2023-03-03 | 85 | 8 | 
 | 2023-03-01 | 84 | 8 | 
 | 2023-02-28 | 84 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 78 | 7 | 
 | 2023-02-04 | 78 | 7 | 
 | 2023-02-03 | 76 | 7 | 
-| 2023-02-02 | 76 | 7 | 
 

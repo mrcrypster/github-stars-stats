@@ -1,6 +1,6 @@
 # laravel/vapor-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 46 | 51 | 
 | 2023-03-03 | 46 | 51 | 
 | 2023-03-02 | 46 | 51 | 
 | 2023-03-01 | 46 | 51 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 46 | 49 | 
 | 2023-02-05 | 45 | 49 | 
 | 2023-02-04 | 45 | 49 | 
-| 2023-02-03 | 45 | 49 | 
 

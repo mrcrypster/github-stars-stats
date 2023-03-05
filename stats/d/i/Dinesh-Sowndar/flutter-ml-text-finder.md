@@ -1,6 +1,6 @@
 # Dinesh-Sowndar/flutter-ml-text-finder - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 52 | 16 | 
 | 2023-03-02 | 52 | 16 | 
 | 2023-03-01 | 52 | 16 | 
 | 2023-02-28 | 52 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 51 | 15 | 
 | 2023-02-04 | 51 | 15 | 
 | 2023-02-03 | 51 | 15 | 
-| 2023-02-02 | 51 | 15 | 
 

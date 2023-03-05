@@ -1,10 +1,10 @@
 # BachiLi/redner - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 126
 
-★ Stars: 1250
+★ Stars: 1251
 
 [Open repository](https://github.com/BachiLi/redner)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1251 | 126 | 
 | 2023-03-02 | 1250 | 126 | 
 | 2023-03-01 | 1250 | 126 | 
 | 2023-02-28 | 1250 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1243 | 125 | 
 | 2023-02-04 | 1242 | 125 | 
 | 2023-02-03 | 1240 | 125 | 
-| 2023-02-02 | 1240 | 125 | 
 

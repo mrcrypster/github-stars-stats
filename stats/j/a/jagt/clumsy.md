@@ -1,6 +1,6 @@
 # jagt/clumsy - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 405
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3659 | 405 | 
 | 2023-03-03 | 3659 | 405 | 
 | 2023-03-02 | 3658 | 404 | 
 | 2023-03-01 | 3656 | 404 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 3595 | 402 | 
 | 2023-02-04 | 3593 | 401 | 
 | 2023-02-03 | 3591 | 401 | 
-| 2023-02-02 | 3584 | 401 | 
 

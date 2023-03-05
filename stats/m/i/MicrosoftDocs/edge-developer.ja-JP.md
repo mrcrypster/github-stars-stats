@@ -1,10 +1,10 @@
 # MicrosoftDocs/edge-developer.ja-JP - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/MicrosoftDocs/edge-developer.ja-JP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3 | 6 | 
 | 2023-03-02 | 4 | 6 | 
 | 2023-03-01 | 4 | 6 | 
 | 2023-02-28 | 4 | 6 | 

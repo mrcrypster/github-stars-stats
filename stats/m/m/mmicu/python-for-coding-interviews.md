@@ -1,10 +1,10 @@
 # mmicu/python-for-coding-interviews - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 16
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/mmicu/python-for-coding-interviews)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 100 | 16 | 
 | 2023-03-03 | 99 | 16 | 
 | 2023-03-02 | 96 | 15 | 
 | 2023-03-01 | 95 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 88 | 14 | 
 | 2023-02-05 | 88 | 14 | 
 | 2023-02-03 | 87 | 14 | 
-| 2023-02-02 | 87 | 14 | 
 

@@ -1,6 +1,6 @@
 # axiom-crypto/axiom-eth - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 29 | 2 | 
 | 2023-03-02 | 29 | 2 | 
 | 2023-03-01 | 29 | 2 | 
 | 2023-02-28 | 29 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 23 | 1 | 
 | 2023-02-04 | 23 | 1 | 
 | 2023-02-03 | 22 | 1 | 
-| 2023-02-02 | 22 | 1 | 
 

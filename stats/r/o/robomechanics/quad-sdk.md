@@ -1,10 +1,10 @@
 # robomechanics/quad-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 93
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/robomechanics/quad-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 404 | 93 | 
 | 2023-03-02 | 403 | 93 | 
 | 2023-03-01 | 403 | 93 | 
 | 2023-02-28 | 403 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 397 | 88 | 
 | 2023-02-04 | 397 | 88 | 
 | 2023-02-03 | 397 | 88 | 
-| 2023-02-02 | 397 | 88 | 
 

@@ -1,10 +1,10 @@
 # ellisonleao/glow.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 43
 
-★ Stars: 854
+★ Stars: 856
 
 [Open repository](https://github.com/ellisonleao/glow.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 856 | 43 | 
 | 2023-03-02 | 854 | 43 | 
 | 2023-03-01 | 853 | 43 | 
 | 2023-02-28 | 853 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-06 | 830 | 43 | 
 | 2023-02-05 | 827 | 42 | 
 | 2023-02-04 | 822 | 42 | 
-| 2023-02-03 | 822 | 42 | 
 

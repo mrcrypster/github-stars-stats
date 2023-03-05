@@ -1,6 +1,6 @@
 # cloudnative-pg/postgres-containers - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 15 | 7 | 
 | 2023-03-03 | 15 | 7 | 
 | 2023-03-01 | 15 | 7 | 
 | 2023-02-28 | 15 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 15 | 5 | 
 | 2023-02-05 | 15 | 5 | 
 | 2023-02-03 | 15 | 5 | 
-| 2023-02-02 | 15 | 5 | 
 

@@ -1,6 +1,6 @@
 # ex-aws/ex_aws - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1187 | 486 | 
 | 2023-03-02 | 1187 | 486 | 
 | 2023-03-01 | 1187 | 485 | 
 | 2023-02-28 | 1188 | 484 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-06 | 1186 | 481 | 
 | 2023-02-05 | 1186 | 481 | 
 | 2023-02-03 | 1185 | 481 | 
-| 2023-02-02 | 1186 | 481 | 
 

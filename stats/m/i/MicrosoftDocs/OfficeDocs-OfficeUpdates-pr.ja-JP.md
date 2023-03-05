@@ -1,10 +1,10 @@
 # MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3 | 4 | 
 | 2023-03-02 | 4 | 4 | 
 | 2023-03-01 | 4 | 4 | 
 | 2023-02-28 | 4 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 4 | 4 | 
 | 2023-02-04 | 4 | 4 | 
 | 2023-02-03 | 4 | 4 | 
-| 2023-02-02 | 4 | 4 | 
 

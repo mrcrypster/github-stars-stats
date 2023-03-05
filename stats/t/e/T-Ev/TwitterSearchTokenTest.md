@@ -1,10 +1,10 @@
 # T-Ev/TwitterSearchTokenTest - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 24
 
-★ Stars: 170
+★ Stars: 169
 
 [Open repository](https://github.com/T-Ev/TwitterSearchTokenTest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 169 | 24 | 
 | 2023-03-03 | 170 | 24 | 
 | 2023-03-02 | 170 | 24 | 
 | 2023-03-01 | 170 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 169 | 24 | 
 | 2023-02-04 | 169 | 24 | 
 | 2023-02-03 | 169 | 24 | 
-| 2023-02-02 | 169 | 24 | 
 

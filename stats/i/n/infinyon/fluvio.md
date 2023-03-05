@@ -1,6 +1,6 @@
 # infinyon/fluvio - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1679 | 128 | 
 | 2023-03-03 | 1679 | 128 | 
 | 2023-03-02 | 1679 | 128 | 
 | 2023-03-01 | 1678 | 128 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1624 | 129 | 
 | 2023-02-04 | 1623 | 129 | 
 | 2023-02-03 | 1620 | 129 | 
-| 2023-02-02 | 1617 | 130 | 
 

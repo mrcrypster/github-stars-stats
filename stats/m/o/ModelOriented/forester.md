@@ -1,10 +1,10 @@
 # ModelOriented/forester - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 14
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/ModelOriented/forester)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 86 | 14 | 
 | 2023-03-03 | 85 | 14 | 
 

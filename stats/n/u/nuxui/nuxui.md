@@ -1,6 +1,6 @@
 # nuxui/nuxui - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 396 | 15 | 
 | 2023-03-03 | 396 | 15 | 
 | 2023-03-02 | 396 | 15 | 
 | 2023-03-01 | 396 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 392 | 15 | 
 | 2023-02-04 | 391 | 15 | 
 | 2023-02-03 | 390 | 15 | 
-| 2023-02-02 | 389 | 15 | 
 

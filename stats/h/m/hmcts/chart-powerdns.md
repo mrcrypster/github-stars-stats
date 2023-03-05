@@ -1,6 +1,6 @@
 # hmcts/chart-powerdns - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1 | 1 | 
 | 2023-03-03 | 1 | 1 | 
 

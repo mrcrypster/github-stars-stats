@@ -1,10 +1,10 @@
 # StewAlexander-com/VIM-Awesome-Cheatsheet - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 173 | 7 | 
 | 2023-03-03 | 172 | 7 | 
 | 2023-03-01 | 172 | 7 | 
 | 2023-02-28 | 172 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 171 | 6 | 
 | 2023-02-04 | 170 | 6 | 
 | 2023-02-03 | 170 | 6 | 
-| 2023-02-02 | 170 | 6 | 
 

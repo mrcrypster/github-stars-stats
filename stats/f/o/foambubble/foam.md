@@ -1,10 +1,10 @@
 # foambubble/foam - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 578
+☋ Forks: 580
 
-★ Stars: 13473
+★ Stars: 13474
 
 [Open repository](https://github.com/foambubble/foam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 13474 | 580 | 
 | 2023-03-03 | 13473 | 578 | 
 | 2023-03-02 | 13468 | 577 | 
 | 2023-03-01 | 13467 | 577 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 13377 | 573 | 
 | 2023-02-04 | 13374 | 573 | 
 | 2023-02-03 | 13373 | 573 | 
-| 2023-02-02 | 13367 | 573 | 
 

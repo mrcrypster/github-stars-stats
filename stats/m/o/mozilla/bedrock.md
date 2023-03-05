@@ -1,6 +1,6 @@
 # mozilla/bedrock - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 937
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1081 | 937 | 
 | 2023-03-03 | 1081 | 937 | 
 | 2023-03-01 | 1079 | 937 | 
 | 2023-02-28 | 1078 | 937 | 

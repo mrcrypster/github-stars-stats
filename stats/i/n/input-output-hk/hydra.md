@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 04
 
 ☋ Forks: 58
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/input-output-hk/hydra)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-04 | 186 | 58 | 
+| 2023-03-04 | 187 | 58 | 
 | 2023-03-03 | 186 | 58 | 
 | 2023-03-01 | 184 | 58 | 
 | 2023-02-28 | 184 | 58 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 182 | 55 | 
 | 2023-02-04 | 182 | 54 | 
 | 2023-02-03 | 181 | 54 | 
-| 2023-02-02 | 180 | 54 | 
 

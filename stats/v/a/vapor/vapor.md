@@ -1,6 +1,6 @@
 # vapor/vapor - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1391
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 22553 | 1391 | 
 | 2023-03-03 | 22553 | 1391 | 
 | 2023-03-02 | 22552 | 1391 | 
 | 2023-03-01 | 22550 | 1390 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 22468 | 1387 | 
 | 2023-02-04 | 22468 | 1388 | 
 | 2023-02-03 | 22467 | 1388 | 
-| 2023-02-02 | 22462 | 1388 | 
 

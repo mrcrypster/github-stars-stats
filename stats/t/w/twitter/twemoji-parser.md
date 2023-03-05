@@ -1,6 +1,6 @@
 # twitter/twemoji-parser - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 140 | 44 | 
 | 2023-03-03 | 140 | 44 | 
 | 2023-03-02 | 140 | 43 | 
 | 2023-03-01 | 140 | 43 | 

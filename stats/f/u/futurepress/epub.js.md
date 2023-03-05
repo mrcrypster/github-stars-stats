@@ -1,0 +1,17 @@
+# futurepress/epub.js - stars & forks statistics
+
+Stats updated on Mar 2023, 04
+
+☋ Forks: 1027
+
+★ Stars: 5530
+
+[Open repository](https://github.com/futurepress/epub.js)
+
+[Open detailed stats for futurepress/epub.js](https://reviewgithub.com/rep/futurepress/epub.js)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-04 | 5530 | 1027 | 
+

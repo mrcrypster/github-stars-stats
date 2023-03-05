@@ -1,10 +1,10 @@
 # lhartikk/ArnoldC - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 297
 
-★ Stars: 6534
+★ Stars: 6536
 
 [Open repository](https://github.com/lhartikk/ArnoldC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 6536 | 297 | 
 | 2023-03-03 | 6534 | 297 | 
 | 2023-03-01 | 6534 | 296 | 
 | 2023-02-28 | 6533 | 296 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 6529 | 296 | 
 | 2023-02-04 | 6529 | 297 | 
 | 2023-02-03 | 6529 | 297 | 
-| 2023-02-02 | 6529 | 297 | 
 

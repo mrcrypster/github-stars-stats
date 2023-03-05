@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-metals - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 53 | 31 | 
 | 2023-03-02 | 53 | 31 | 
 | 2023-03-01 | 53 | 31 | 
 | 2023-02-28 | 53 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 52 | 31 | 
 | 2023-02-04 | 52 | 31 | 
 | 2023-02-03 | 52 | 31 | 
-| 2023-02-02 | 52 | 31 | 
 

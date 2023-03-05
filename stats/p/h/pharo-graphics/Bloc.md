@@ -1,6 +1,6 @@
 # pharo-graphics/Bloc - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 68 | 28 | 
 | 2023-03-03 | 68 | 28 | 
 | 2023-03-01 | 68 | 28 | 
 | 2023-02-28 | 68 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 66 | 27 | 
 | 2023-02-05 | 66 | 27 | 
 | 2023-02-03 | 65 | 27 | 
-| 2023-02-02 | 65 | 27 | 
 

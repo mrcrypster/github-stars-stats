@@ -1,10 +1,10 @@
 # uraninite/win32-stuxnet - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 11
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/uraninite/win32-stuxnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 24 | 11 | 
 | 2023-03-03 | 23 | 11 | 
 | 2023-03-02 | 23 | 11 | 
 | 2023-03-01 | 23 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 22 | 12 | 
 | 2023-02-05 | 22 | 12 | 
 | 2023-02-03 | 22 | 12 | 
-| 2023-02-02 | 22 | 12 | 
 

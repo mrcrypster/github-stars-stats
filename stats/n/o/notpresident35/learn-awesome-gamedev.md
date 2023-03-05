@@ -1,10 +1,10 @@
 # notpresident35/learn-awesome-gamedev - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 55
 
-★ Stars: 1782
+★ Stars: 1783
 
 [Open repository](https://github.com/notpresident35/learn-awesome-gamedev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1783 | 55 | 
 | 2023-03-02 | 1782 | 55 | 
 | 2023-03-01 | 1782 | 55 | 
 | 2023-02-28 | 1782 | 55 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-06 | 1737 | 54 | 
 | 2023-02-05 | 1734 | 54 | 
 | 2023-02-04 | 1732 | 54 | 
-| 2023-02-02 | 1728 | 54 | 
 

@@ -1,8 +1,8 @@
 # dipakkr/A-to-Z-Resources-for-Students - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 4403
+☋ Forks: 4404
 
 ★ Stars: 15062
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 15062 | 4404 | 
 | 2023-03-03 | 15062 | 4403 | 
 | 2023-03-02 | 15057 | 4401 | 
 | 2023-03-01 | 15047 | 4401 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 14951 | 4387 | 
 | 2023-02-04 | 14948 | 4387 | 
 | 2023-02-03 | 14944 | 4387 | 
-| 2023-02-02 | 14940 | 4385 | 
 

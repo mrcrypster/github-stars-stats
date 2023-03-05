@@ -1,10 +1,10 @@
 # AppIntro/AppIntro - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1769
 
-★ Stars: 10316
+★ Stars: 10314
 
 [Open repository](https://github.com/AppIntro/AppIntro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 10314 | 1769 | 
 | 2023-03-03 | 10316 | 1769 | 
 | 2023-03-02 | 10315 | 1769 | 
 | 2023-03-01 | 10315 | 1769 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 10295 | 1770 | 
 | 2023-02-05 | 10292 | 1770 | 
 | 2023-02-04 | 10291 | 1770 | 
-| 2023-02-03 | 10291 | 1768 | 
 

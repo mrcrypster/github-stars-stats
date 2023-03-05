@@ -1,10 +1,10 @@
 # resendlabs/react-email - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 180
 
-★ Stars: 5125
+★ Stars: 5150
 
 [Open repository](https://github.com/resendlabs/react-email)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 5150 | 180 | 
 | 2023-03-03 | 5125 | 180 | 
 | 2023-03-02 | 5109 | 177 | 
 | 2023-02-28 | 5098 | 174 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 4470 | 141 | 
 | 2023-02-05 | 4437 | 141 | 
 | 2023-02-03 | 4400 | 142 | 
-| 2023-02-02 | 4342 | 138 | 
 

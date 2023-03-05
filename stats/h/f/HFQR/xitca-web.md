@@ -1,10 +1,10 @@
 # HFQR/xitca-web - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 25
 
-★ Stars: 336
+★ Stars: 335
 
 [Open repository](https://github.com/HFQR/xitca-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 335 | 25 | 
 | 2023-03-03 | 336 | 25 | 
 | 2023-03-02 | 335 | 25 | 
 | 2023-03-01 | 335 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 308 | 24 | 
 | 2023-02-04 | 307 | 24 | 
 | 2023-02-03 | 304 | 24 | 
-| 2023-02-02 | 302 | 24 | 
 

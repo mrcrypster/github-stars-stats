@@ -1,10 +1,10 @@
 # web-standards-ru/dictionary - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 585
+☋ Forks: 584
 
-★ Stars: 2027
+★ Stars: 2030
 
 [Open repository](https://github.com/web-standards-ru/dictionary)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2030 | 584 | 
 | 2023-03-02 | 2027 | 585 | 
 | 2023-03-01 | 2023 | 582 | 
 | 2023-02-28 | 2019 | 581 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2007 | 580 | 
 | 2023-02-04 | 2007 | 579 | 
 | 2023-02-03 | 2006 | 579 | 
-| 2023-02-02 | 2006 | 580 | 
 

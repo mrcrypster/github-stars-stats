@@ -1,10 +1,10 @@
 # Python3WebSpider/ProxyPool - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1601
+☋ Forks: 1603
 
-★ Stars: 4413
+★ Stars: 4420
 
 [Open repository](https://github.com/Python3WebSpider/ProxyPool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4420 | 1603 | 
 | 2023-03-03 | 4413 | 1601 | 
 | 2023-03-02 | 4405 | 1601 | 
 | 2023-03-01 | 4397 | 1599 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 4327 | 1580 | 
 | 2023-02-05 | 4325 | 1577 | 
 | 2023-02-03 | 4325 | 1577 | 
-| 2023-02-02 | 4323 | 1577 | 
 

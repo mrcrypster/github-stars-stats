@@ -1,10 +1,10 @@
 # WICG/attribution-reporting-api - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 101
 
-★ Stars: 273
+★ Stars: 272
 
 [Open repository](https://github.com/WICG/attribution-reporting-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 272 | 101 | 
 | 2023-03-03 | 273 | 101 | 
 | 2023-03-02 | 272 | 100 | 
 | 2023-03-01 | 272 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 268 | 98 | 
 | 2023-02-04 | 268 | 98 | 
 | 2023-02-03 | 268 | 98 | 
-| 2023-02-02 | 269 | 98 | 
 

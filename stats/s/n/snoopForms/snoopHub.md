@@ -1,6 +1,6 @@
 # snoopForms/snoopHub - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1272 | 108 | 
 | 2023-03-02 | 1272 | 108 | 
 | 2023-03-01 | 1272 | 108 | 
 | 2023-02-28 | 1272 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1237 | 105 | 
 | 2023-02-04 | 1238 | 105 | 
 | 2023-02-03 | 1237 | 105 | 
-| 2023-02-02 | 1237 | 106 | 
 

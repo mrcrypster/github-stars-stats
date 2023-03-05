@@ -1,6 +1,6 @@
 # Kengxxiao/Punishing_GrayRaven_Tab - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 265 | 241 | 
 | 2023-03-03 | 265 | 241 | 
 | 2023-03-02 | 265 | 242 | 
 | 2023-03-01 | 265 | 242 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 266 | 242 | 
 | 2023-02-05 | 266 | 242 | 
 | 2023-02-03 | 265 | 242 | 
-| 2023-02-02 | 265 | 242 | 
 

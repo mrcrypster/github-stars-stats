@@ -1,10 +1,10 @@
 # laudspeaker/laudspeaker - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 25
 
-★ Stars: 720
+★ Stars: 723
 
 [Open repository](https://github.com/laudspeaker/laudspeaker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 723 | 25 | 
 | 2023-03-03 | 720 | 25 | 
 | 2023-03-02 | 712 | 25 | 
 | 2023-03-01 | 704 | 24 | 

@@ -1,10 +1,10 @@
 # nalexn/clean-architecture-swiftui - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 497
 
-★ Stars: 4279
+★ Stars: 4288
 
 [Open repository](https://github.com/nalexn/clean-architecture-swiftui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4288 | 497 | 
 | 2023-03-03 | 4279 | 497 | 
 | 2023-03-02 | 4269 | 497 | 
 | 2023-03-01 | 4265 | 497 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 4169 | 482 | 
 | 2023-02-05 | 4154 | 480 | 
 | 2023-02-04 | 4152 | 480 | 
-| 2023-02-02 | 4150 | 480 | 
 

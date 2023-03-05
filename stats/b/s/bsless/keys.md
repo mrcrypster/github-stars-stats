@@ -1,6 +1,6 @@
 # bsless/keys - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 17 | 1 | 
 | 2023-03-03 | 17 | 1 | 
 | 2023-03-01 | 17 | 1 | 
 | 2023-02-28 | 17 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 17 | 1 | 
 | 2023-02-05 | 17 | 1 | 
 | 2023-02-04 | 17 | 1 | 
-| 2023-02-02 | 17 | 1 | 
 

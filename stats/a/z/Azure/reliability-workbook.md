@@ -1,6 +1,6 @@
 # Azure/reliability-workbook - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 16 | 8 | 
 | 2023-03-03 | 16 | 8 | 
 | 2023-03-02 | 16 | 7 | 
 | 2023-03-01 | 16 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 12 | 7 | 
 | 2023-02-05 | 12 | 7 | 
 | 2023-02-04 | 12 | 7 | 
-| 2023-02-03 | 12 | 7 | 
 

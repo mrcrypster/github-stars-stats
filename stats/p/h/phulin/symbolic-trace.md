@@ -1,0 +1,17 @@
+# phulin/symbolic-trace - stars & forks statistics
+
+Stats updated on Mar 2023, 04
+
+☋ Forks: 3
+
+★ Stars: 11
+
+[Open repository](https://github.com/phulin/symbolic-trace)
+
+[Open detailed stats for phulin/symbolic-trace](https://reviewgithub.com/rep/phulin/symbolic-trace)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-04 | 11 | 3 | 
+

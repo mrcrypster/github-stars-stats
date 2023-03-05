@@ -1,6 +1,6 @@
 # TritonVM/triton-vm - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 118 | 17 | 
 | 2023-03-03 | 118 | 17 | 
 | 2023-03-02 | 117 | 17 | 
 | 2023-03-01 | 117 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 113 | 17 | 
 | 2023-02-04 | 112 | 17 | 
 | 2023-02-03 | 112 | 17 | 
-| 2023-02-02 | 112 | 17 | 
 

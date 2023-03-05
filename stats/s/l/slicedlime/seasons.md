@@ -1,10 +1,10 @@
 # slicedlime/seasons - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 4
 
-★ Stars: 128
+★ Stars: 132
 
 [Open repository](https://github.com/slicedlime/seasons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 132 | 4 | 
 | 2023-03-03 | 128 | 4 | 
 | 2023-03-02 | 127 | 4 | 
 | 2023-03-01 | 127 | 4 | 

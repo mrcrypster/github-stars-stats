@@ -1,8 +1,8 @@
 # doctrine/orm - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 2460
+☋ Forks: 2461
 
 ★ Stars: 9516
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 9516 | 2461 | 
 | 2023-03-03 | 9516 | 2460 | 
 | 2023-03-02 | 9516 | 2460 | 
 | 2023-03-01 | 9516 | 2461 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 9504 | 2456 | 
 | 2023-02-04 | 9502 | 2455 | 
 | 2023-02-03 | 9499 | 2457 | 
-| 2023-02-02 | 9494 | 2456 | 
 

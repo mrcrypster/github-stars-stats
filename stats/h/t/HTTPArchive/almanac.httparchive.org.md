@@ -1,10 +1,10 @@
 # HTTPArchive/almanac.httparchive.org - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 155
 
-★ Stars: 553
+★ Stars: 552
 
 [Open repository](https://github.com/HTTPArchive/almanac.httparchive.org)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 552 | 155 | 
 | 2023-03-03 | 553 | 155 | 
 | 2023-03-02 | 553 | 155 | 
 | 2023-03-01 | 553 | 155 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 551 | 153 | 
 | 2023-02-04 | 551 | 153 | 
 | 2023-02-03 | 551 | 153 | 
-| 2023-02-02 | 551 | 153 | 
 

@@ -1,6 +1,6 @@
 # crossbeam-rs/crossbeam - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 391
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 5896 | 391 | 
 | 2023-03-03 | 5896 | 391 | 
 | 2023-03-02 | 5893 | 391 | 
 | 2023-03-01 | 5889 | 391 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 5833 | 384 | 
 | 2023-02-04 | 5831 | 383 | 
 | 2023-02-03 | 5827 | 383 | 
-| 2023-02-02 | 5823 | 382 | 
 

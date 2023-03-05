@@ -1,10 +1,10 @@
 # simolus3/drift - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 255
 
-★ Stars: 1880
+★ Stars: 1882
 
 [Open repository](https://github.com/simolus3/drift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1882 | 255 | 
 | 2023-03-03 | 1880 | 255 | 
 | 2023-03-02 | 1878 | 255 | 
 | 2023-03-01 | 1880 | 255 | 

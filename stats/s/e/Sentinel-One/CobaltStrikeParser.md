@@ -1,8 +1,8 @@
 # Sentinel-One/CobaltStrikeParser - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 181
+☋ Forks: 182
 
 ★ Stars: 844
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 844 | 182 | 
 | 2023-03-03 | 844 | 181 | 
 | 2023-03-02 | 842 | 181 | 
 | 2023-03-01 | 842 | 181 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 831 | 178 | 
 | 2023-02-05 | 831 | 178 | 
 | 2023-02-04 | 831 | 178 | 
-| 2023-02-03 | 831 | 178 | 
 

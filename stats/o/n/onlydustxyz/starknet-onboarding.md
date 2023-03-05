@@ -1,6 +1,6 @@
 # onlydustxyz/starknet-onboarding - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 288 | 76 | 
 | 2023-03-02 | 288 | 76 | 
 | 2023-03-01 | 288 | 76 | 
 | 2023-02-28 | 288 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 282 | 74 | 
 | 2023-02-04 | 281 | 74 | 
 | 2023-02-03 | 280 | 74 | 
-| 2023-02-02 | 280 | 74 | 
 

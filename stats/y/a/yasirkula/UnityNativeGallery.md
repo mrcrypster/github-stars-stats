@@ -1,10 +1,10 @@
 # yasirkula/UnityNativeGallery - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 163
 
-★ Stars: 1057
+★ Stars: 1060
 
 [Open repository](https://github.com/yasirkula/UnityNativeGallery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1060 | 163 | 
 | 2023-03-03 | 1057 | 163 | 
 | 2023-03-01 | 1057 | 163 | 
 | 2023-02-28 | 1057 | 163 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1041 | 158 | 
 | 2023-02-04 | 1042 | 158 | 
 | 2023-02-03 | 1042 | 158 | 
-| 2023-02-02 | 1041 | 158 | 
 

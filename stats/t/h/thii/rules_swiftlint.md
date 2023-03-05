@@ -1,10 +1,10 @@
 # thii/rules_swiftlint - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/thii/rules_swiftlint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 23 | - | 
 | 2023-03-02 | 21 | - | 
 | 2023-03-01 | 21 | - | 
 | 2023-02-28 | 21 | - | 

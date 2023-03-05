@@ -1,6 +1,6 @@
 # cpvirtual/OR_CPV - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 12 | 5 | 
 | 2023-03-03 | 12 | 5 | 
 | 2023-03-02 | 12 | 5 | 
 | 2023-02-28 | 12 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 12 | 5 | 
 | 2023-02-05 | 11 | 5 | 
 | 2023-02-03 | 11 | 5 | 
-| 2023-02-02 | 11 | 5 | 
 

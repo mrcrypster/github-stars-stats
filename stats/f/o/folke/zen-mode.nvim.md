@@ -1,10 +1,10 @@
 # folke/zen-mode.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 20
 
-★ Stars: 816
+★ Stars: 817
 
 [Open repository](https://github.com/folke/zen-mode.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 817 | 20 | 
 | 2023-03-03 | 816 | 20 | 
 | 2023-03-02 | 814 | 21 | 
 | 2023-03-01 | 812 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 770 | 17 | 
 | 2023-02-04 | 771 | 17 | 
 | 2023-02-03 | 767 | 16 | 
-| 2023-02-02 | 763 | 16 | 
 

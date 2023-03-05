@@ -1,10 +1,10 @@
 # RanKKI/LawRefBook - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 144
 
-★ Stars: 1761
+★ Stars: 1762
 
 [Open repository](https://github.com/RanKKI/LawRefBook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1762 | 144 | 
 | 2023-03-03 | 1761 | 144 | 
 | 2023-03-02 | 1760 | 144 | 
 | 2023-03-01 | 1752 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1746 | 144 | 
 | 2023-02-04 | 1746 | 144 | 
 | 2023-02-03 | 1746 | 144 | 
-| 2023-02-02 | 1746 | 144 | 
 

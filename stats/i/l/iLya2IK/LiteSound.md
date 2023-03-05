@@ -1,10 +1,10 @@
 # iLya2IK/LiteSound - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/iLya2IK/LiteSound)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 9 | 4 | 
 | 2023-03-03 | 8 | 4 | 
 | 2023-03-01 | 8 | 4 | 
 | 2023-02-28 | 8 | 4 | 

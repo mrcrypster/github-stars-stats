@@ -1,6 +1,6 @@
 # pseudomuto/protoc-gen-doc - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 431
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2293 | 431 | 
 | 2023-03-03 | 2293 | 431 | 
 | 2023-03-02 | 2292 | 431 | 
 | 2023-03-01 | 2290 | 431 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 2255 | 427 | 
 | 2023-02-05 | 2254 | 427 | 
 | 2023-02-04 | 2254 | 427 | 
-| 2023-02-03 | 2253 | 427 | 
 

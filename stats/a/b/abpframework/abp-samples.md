@@ -1,8 +1,8 @@
 # abpframework/abp-samples - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1102
+☋ Forks: 1103
 
 ★ Stars: 974
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 974 | 1103 | 
 | 2023-03-03 | 974 | 1102 | 
 | 2023-03-01 | 973 | 1102 | 
 | 2023-02-28 | 970 | 1102 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 955 | 1082 | 
 | 2023-02-04 | 954 | 1082 | 
 | 2023-02-03 | 953 | 1081 | 
-| 2023-02-02 | 951 | 1082 | 
 

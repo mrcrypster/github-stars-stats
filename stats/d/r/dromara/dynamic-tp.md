@@ -1,10 +1,10 @@
 # dromara/dynamic-tp - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 474
+☋ Forks: 475
 
-★ Stars: 2121
+★ Stars: 2124
 
 [Open repository](https://github.com/dromara/dynamic-tp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2124 | 475 | 
 | 2023-03-03 | 2121 | 474 | 
 | 2023-03-02 | 2116 | 474 | 
 | 2023-03-01 | 2109 | 474 | 

@@ -1,6 +1,6 @@
 # SoumyadeepMukherjee/Advanced-DSA - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 13 | 73 | 
 | 2023-03-02 | 13 | 73 | 
 | 2023-03-01 | 13 | 73 | 
 | 2023-02-28 | 13 | 73 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-06 | 13 | 74 | 
 | 2023-02-05 | 13 | 74 | 
 | 2023-02-03 | 13 | 74 | 
-| 2023-02-02 | 13 | 74 | 
 

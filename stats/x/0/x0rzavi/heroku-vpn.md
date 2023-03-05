@@ -1,6 +1,6 @@
 # x0rzavi/heroku-vpn - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 34 | 39 | 
 | 2023-03-02 | 34 | 39 | 
 | 2023-03-01 | 34 | 39 | 
 | 2023-02-28 | 34 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 33 | 40 | 
 | 2023-02-04 | 33 | 40 | 
 | 2023-02-03 | 33 | 40 | 
-| 2023-02-02 | 33 | 40 | 
 

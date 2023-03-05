@@ -1,10 +1,10 @@
 # Rencikas/ren-laundering - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Rencikas/ren-laundering)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 10 | 6 | 
 | 2023-03-03 | 9 | 6 | 
 | 2023-03-02 | 9 | 6 | 
 | 2023-02-28 | 9 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 8 | 6 | 
 | 2023-02-04 | 8 | 7 | 
 | 2023-02-03 | 8 | 7 | 
-| 2023-02-02 | 7 | 7 | 
 

@@ -1,8 +1,8 @@
 # Azure/iotedge - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 448
+☋ Forks: 449
 
 ★ Stars: 1389
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1389 | 449 | 
 | 2023-03-03 | 1389 | 448 | 
 | 2023-03-02 | 1389 | 448 | 
 | 2023-03-01 | 1389 | 448 | 

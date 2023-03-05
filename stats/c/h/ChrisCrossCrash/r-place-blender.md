@@ -1,6 +1,6 @@
 # ChrisCrossCrash/r-place-blender - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 161 | 5 | 
 | 2023-03-03 | 161 | 5 | 
 | 2023-03-01 | 161 | 5 | 
 | 2023-02-28 | 161 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 161 | 6 | 
 | 2023-02-04 | 161 | 6 | 
 | 2023-02-03 | 161 | 6 | 
-| 2023-02-02 | 161 | 6 | 
 

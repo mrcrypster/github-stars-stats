@@ -1,6 +1,6 @@
 # resemble-ai/monotonic_align - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 43 | 3 | 
 | 2023-03-02 | 43 | 3 | 
 | 2023-03-01 | 43 | 3 | 
 | 2023-02-28 | 42 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 36 | 3 | 
 | 2023-02-04 | 35 | 3 | 
 | 2023-02-03 | 35 | 3 | 
-| 2023-02-02 | 35 | 3 | 
 

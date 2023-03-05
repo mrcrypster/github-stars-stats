@@ -1,6 +1,6 @@
 # Vegetebird/StridedTransformer-Pose3D - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 261 | 29 | 
 | 2023-03-03 | 261 | 29 | 
 | 2023-03-02 | 260 | 29 | 
 | 2023-03-01 | 259 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 250 | 29 | 
 | 2023-02-04 | 250 | 29 | 
 | 2023-02-03 | 250 | 29 | 
-| 2023-02-02 | 251 | 29 | 
 

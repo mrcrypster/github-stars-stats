@@ -1,6 +1,6 @@
 # danfoisy/vdatp - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 254 | 24 | 
 | 2023-03-03 | 254 | 24 | 
 | 2023-03-02 | 254 | 24 | 
 | 2023-03-01 | 254 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 254 | 24 | 
 | 2023-02-05 | 254 | 24 | 
 | 2023-02-04 | 254 | 24 | 
-| 2023-02-03 | 254 | 24 | 
 

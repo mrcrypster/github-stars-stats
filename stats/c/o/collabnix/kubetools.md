@@ -1,10 +1,10 @@
 # collabnix/kubetools - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 248
+☋ Forks: 249
 
-★ Stars: 827
+★ Stars: 829
 
 [Open repository](https://github.com/collabnix/kubetools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 829 | 249 | 
 | 2023-03-03 | 827 | 248 | 
 | 2023-03-01 | 826 | 246 | 
 | 2023-02-28 | 816 | 245 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 779 | 237 | 
 | 2023-02-04 | 779 | 237 | 
 | 2023-02-03 | 778 | 237 | 
-| 2023-02-02 | 778 | 237 | 
 

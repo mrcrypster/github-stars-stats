@@ -1,6 +1,6 @@
 # hypervoidteam/rdp-1 - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | - | 5 | 
 | 2023-03-03 | - | 5 | 
 | 2023-03-02 | - | 5 | 
 | 2023-02-28 | - | 5 | 

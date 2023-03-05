@@ -1,8 +1,8 @@
 # kailong321200875/vue-element-plus-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 231
+☋ Forks: 232
 
 ★ Stars: 919
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 919 | 232 | 
 | 2023-03-03 | 919 | 231 | 
 | 2023-03-02 | 914 | 226 | 
 | 2023-03-01 | 908 | 226 | 

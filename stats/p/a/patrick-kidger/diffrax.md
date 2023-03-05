@@ -1,10 +1,10 @@
 # patrick-kidger/diffrax - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 61
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/patrick-kidger/diffrax)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 778 | 61 | 
 | 2023-03-03 | 777 | 61 | 
 | 2023-03-02 | 778 | 61 | 
 | 2023-03-01 | 777 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 749 | 58 | 
 | 2023-02-05 | 749 | 58 | 
 | 2023-02-04 | 749 | 58 | 
-| 2023-02-02 | 748 | 58 | 
 

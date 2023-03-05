@@ -1,10 +1,10 @@
 # freeCodeCamp/how-to-contribute-to-open-source - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1605
 
-★ Stars: 7420
+★ Stars: 7423
 
 [Open repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 7423 | 1605 | 
 | 2023-03-03 | 7420 | 1605 | 
 | 2023-03-02 | 7416 | 1604 | 
 | 2023-03-01 | 7412 | 1604 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 7340 | 1593 | 
 | 2023-02-05 | 7333 | 1590 | 
 | 2023-02-04 | 7334 | 1590 | 
-| 2023-02-02 | 7333 | 1588 | 
 

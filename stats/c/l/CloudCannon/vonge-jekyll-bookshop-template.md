@@ -1,6 +1,6 @@
 # CloudCannon/vonge-jekyll-bookshop-template - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 95 | 60 | 
 | 2023-03-03 | 95 | 60 | 
 | 2023-03-01 | 95 | 60 | 
 | 2023-02-28 | 95 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 89 | 60 | 
 | 2023-02-04 | 89 | 60 | 
 | 2023-02-03 | 89 | 60 | 
-| 2023-02-02 | 89 | 60 | 
 

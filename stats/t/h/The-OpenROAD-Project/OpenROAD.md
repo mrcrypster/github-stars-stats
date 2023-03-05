@@ -1,10 +1,10 @@
 # The-OpenROAD-Project/OpenROAD - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 280
 
-★ Stars: 751
+★ Stars: 750
 
 [Open repository](https://github.com/The-OpenROAD-Project/OpenROAD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 750 | 280 | 
 | 2023-03-03 | 751 | 280 | 
 | 2023-03-02 | 749 | 280 | 
 | 2023-03-01 | 749 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 728 | 267 | 
 | 2023-02-04 | 728 | 266 | 
 | 2023-02-03 | 726 | 266 | 
-| 2023-02-02 | 726 | 266 | 
 

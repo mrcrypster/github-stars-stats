@@ -1,6 +1,6 @@
 # urbit/urbit_book - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4 | 1 | 
 | 2023-03-03 | 4 | 1 | 
 | 2023-03-02 | 4 | 1 | 
 | 2023-03-01 | 4 | 1 | 

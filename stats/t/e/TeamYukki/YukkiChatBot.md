@@ -1,8 +1,8 @@
 # TeamYukki/YukkiChatBot - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 120
+☋ Forks: 121
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 50 | 121 | 
 | 2023-03-03 | 50 | 120 | 
 | 2023-03-02 | 50 | 119 | 
 | 2023-03-01 | 50 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 48 | 116 | 
 | 2023-02-04 | 48 | 115 | 
 | 2023-02-03 | 47 | 114 | 
-| 2023-02-02 | 47 | 114 | 
 

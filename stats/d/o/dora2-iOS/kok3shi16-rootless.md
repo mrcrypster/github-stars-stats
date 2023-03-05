@@ -1,10 +1,10 @@
 # dora2-iOS/kok3shi16-rootless - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 13
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/dora2-iOS/kok3shi16-rootless)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 69 | 13 | 
 | 2023-03-03 | 68 | 13 | 
 | 2023-03-02 | 68 | 12 | 
 | 2023-02-28 | 68 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 52 | 9 | 
 | 2023-02-04 | 51 | 9 | 
 | 2023-02-03 | 51 | 8 | 
-| 2023-02-02 | 51 | 8 | 
 

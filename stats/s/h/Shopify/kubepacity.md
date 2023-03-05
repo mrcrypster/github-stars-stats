@@ -1,6 +1,6 @@
 # Shopify/kubepacity - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 17 | 3 | 
 | 2023-03-03 | 17 | 3 | 
 | 2023-03-02 | 16 | 3 | 
 | 2023-02-28 | 16 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 15 | 3 | 
 | 2023-02-04 | 15 | 3 | 
 | 2023-02-03 | 15 | 3 | 
-| 2023-02-02 | 15 | 3 | 
 

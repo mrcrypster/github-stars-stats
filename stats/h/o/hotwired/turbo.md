@@ -1,10 +1,10 @@
 # hotwired/turbo - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 301
+☋ Forks: 300
 
-★ Stars: 4738
+★ Stars: 4742
 
 [Open repository](https://github.com/hotwired/turbo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4742 | 300 | 
 | 2023-03-03 | 4738 | 301 | 
 | 2023-03-02 | 4734 | 301 | 
 | 2023-03-01 | 4725 | 300 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4658 | 294 | 
 | 2023-02-04 | 4655 | 294 | 
 | 2023-02-03 | 4653 | 294 | 
-| 2023-02-02 | 4649 | 294 | 
 

@@ -1,0 +1,17 @@
+# gwk/libqk - stars & forks statistics
+
+Stats updated on Mar 2023, 04
+
+☋ Forks: 1
+
+★ Stars: 1
+
+[Open repository](https://github.com/gwk/libqk)
+
+[Open detailed stats for gwk/libqk](https://reviewgithub.com/rep/gwk/libqk)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-04 | 1 | 1 | 
+

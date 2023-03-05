@@ -1,10 +1,10 @@
 # arialdomartini/Back-End-Developer-Interview-Questions - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1714
+☋ Forks: 1713
 
-★ Stars: 13383
+★ Stars: 13385
 
 [Open repository](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 13385 | 1713 | 
 | 2023-03-03 | 13383 | 1714 | 
 | 2023-03-02 | 13381 | 1715 | 
 | 2023-03-01 | 13371 | 1715 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 13312 | 1706 | 
 | 2023-02-05 | 13310 | 1706 | 
 | 2023-02-04 | 13310 | 1705 | 
-| 2023-02-02 | 13308 | 1705 | 
 

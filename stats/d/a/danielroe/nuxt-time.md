@@ -1,6 +1,6 @@
 # danielroe/nuxt-time - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 130 | 7 | 
 | 2023-03-03 | 130 | 7 | 
 | 2023-03-02 | 130 | 7 | 
 | 2023-02-28 | 129 | 7 | 

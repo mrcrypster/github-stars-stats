@@ -1,6 +1,6 @@
 # scratchnative/scratch-linux-modules - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 82 | 4 | 
 | 2023-03-03 | 82 | 4 | 
 | 2023-03-02 | 82 | 4 | 
 | 2023-03-01 | 82 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 81 | 4 | 
 | 2023-02-04 | 81 | 4 | 
 | 2023-02-03 | 81 | 4 | 
-| 2023-02-02 | 81 | 4 | 
 

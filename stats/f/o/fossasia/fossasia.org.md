@@ -1,6 +1,6 @@
 # fossasia/fossasia.org - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 680
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1880 | 680 | 
 | 2023-03-03 | 1880 | 680 | 
 | 2023-03-02 | 1880 | 680 | 
 | 2023-03-01 | 1880 | 680 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1880 | 677 | 
 | 2023-02-04 | 1881 | 677 | 
 | 2023-02-03 | 1881 | 677 | 
-| 2023-02-02 | 1881 | 677 | 
 

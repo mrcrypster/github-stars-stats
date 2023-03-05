@@ -1,10 +1,10 @@
 # Juice-Labs/Juice-Labs - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/Juice-Labs/Juice-Labs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 241 | 5 | 
 | 2023-03-03 | 240 | 5 | 
 | 2023-03-02 | 238 | 5 | 
 | 2023-03-01 | 238 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 229 | 6 | 
 | 2023-02-04 | 228 | 6 | 
 | 2023-02-03 | 228 | 6 | 
-| 2023-02-02 | 226 | 5 | 
 

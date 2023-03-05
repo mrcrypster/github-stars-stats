@@ -1,10 +1,10 @@
 # prologbyexample/code - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/prologbyexample/code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 26 | 1 | 
 | 2023-03-02 | 25 | - | 
 | 2023-03-01 | 25 | - | 
 | 2023-02-28 | 25 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 21 | - | 
 | 2023-02-04 | 20 | - | 
 | 2023-02-03 | 20 | - | 
-| 2023-02-02 | 19 | - | 
 

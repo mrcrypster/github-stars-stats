@@ -1,10 +1,10 @@
 # phoenix-diff/phoenix-diff - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 13
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/phoenix-diff/phoenix-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 258 | 13 | 
 | 2023-03-03 | 257 | 13 | 
 | 2023-03-02 | 257 | 13 | 
 | 2023-03-01 | 256 | 13 | 

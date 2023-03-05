@@ -1,10 +1,10 @@
 # rchain/rchain - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 215
 
-★ Stars: 684
+★ Stars: 686
 
 [Open repository](https://github.com/rchain/rchain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 686 | 215 | 
 | 2023-03-02 | 684 | 215 | 
 | 2023-03-01 | 683 | 216 | 
 | 2023-02-28 | 683 | 216 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 678 | 215 | 
 | 2023-02-04 | 678 | 215 | 
 | 2023-02-03 | 678 | 215 | 
-| 2023-02-02 | 678 | 215 | 
 

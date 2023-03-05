@@ -1,6 +1,6 @@
 # marciniuk/undertale - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 130 | 47 | 
 | 2023-03-03 | 130 | 47 | 
 | 2023-03-02 | 130 | 47 | 
 | 2023-03-01 | 130 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 128 | 46 | 
 | 2023-02-05 | 128 | 45 | 
 | 2023-02-04 | 127 | 45 | 
-| 2023-02-03 | 125 | 45 | 
 

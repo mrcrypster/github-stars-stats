@@ -1,10 +1,10 @@
 # mapbox/mapbox-maps-flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 16
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/mapbox/mapbox-maps-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 82 | 16 | 
 | 2023-03-02 | 81 | 16 | 
 | 2023-03-01 | 81 | 16 | 
 | 2023-02-28 | 79 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 66 | 11 | 
 | 2023-02-04 | 66 | 11 | 
 | 2023-02-03 | 66 | 10 | 
-| 2023-02-02 | 66 | 10 | 
 

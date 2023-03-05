@@ -1,10 +1,10 @@
 # FFmpeg/FFmpeg - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 10638
+☋ Forks: 10639
 
-★ Stars: 34525
+★ Stars: 34539
 
 [Open repository](https://github.com/FFmpeg/FFmpeg)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 34539 | 10639 | 
+| 2023-03-04 | 34538 | 10639 | 
 | 2023-03-03 | 34525 | 10638 | 
 | 2023-03-02 | 34432 | 10634 | 
 | 2023-03-01 | 34361 | 10629 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 33924 | 10521 | 
 | 2023-02-04 | 33908 | 10518 | 
 | 2023-02-03 | 33896 | 10518 | 
-| 2023-02-02 | 33871 | 10514 | 
 

@@ -1,6 +1,6 @@
 # atom-material/atom-material-syntax - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 254 | 144 | 
 | 2023-03-03 | 254 | 144 | 
 | 2023-03-02 | 254 | 144 | 
 | 2023-03-01 | 254 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 253 | 143 | 
 | 2023-02-04 | 253 | 143 | 
 | 2023-02-03 | 253 | 143 | 
-| 2023-02-02 | 253 | 143 | 
 

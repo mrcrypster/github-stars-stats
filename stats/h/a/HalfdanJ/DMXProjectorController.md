@@ -1,0 +1,18 @@
+# HalfdanJ/DMXProjectorController - stars & forks statistics
+
+Stats updated on Mar 2023, 05
+
+☋ Forks: 1
+
+★ Stars: 1
+
+[Open repository](https://github.com/HalfdanJ/DMXProjectorController)
+
+[Open detailed stats for HalfdanJ/DMXProjectorController](https://reviewgithub.com/rep/HalfdanJ/DMXProjectorController)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-05 | 1 | 1 | 
+| 2023-03-04 | 1 | 1 | 
+

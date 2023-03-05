@@ -1,10 +1,10 @@
 # SoftEtherVPN/SoftEtherVPN - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 2363
 
-★ Stars: 9812
+★ Stars: 9817
 
 [Open repository](https://github.com/SoftEtherVPN/SoftEtherVPN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 9817 | 2363 | 
 | 2023-03-03 | 9812 | 2363 | 
 | 2023-03-02 | 9806 | 2363 | 
 | 2023-03-01 | 9801 | 2363 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 9692 | 2341 | 
 | 2023-02-04 | 9684 | 2336 | 
 | 2023-02-03 | 9682 | 2334 | 
-| 2023-02-02 | 9684 | 2332 | 
 

@@ -1,10 +1,10 @@
 # elementary/os - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 97
 
-★ Stars: 837
+★ Stars: 836
 
 [Open repository](https://github.com/elementary/os)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 836 | 97 | 
 | 2023-03-03 | 837 | 97 | 
 | 2023-03-01 | 837 | 95 | 
 | 2023-02-28 | 837 | 96 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 832 | 95 | 
 | 2023-02-04 | 831 | 95 | 
 | 2023-02-03 | 829 | 95 | 
-| 2023-02-02 | 829 | 95 | 
 

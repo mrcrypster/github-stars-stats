@@ -1,10 +1,10 @@
 # dart-lang/dart-pad - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 471
 
-★ Stars: 1440
+★ Stars: 1441
 
 [Open repository](https://github.com/dart-lang/dart-pad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1441 | 471 | 
 | 2023-03-03 | 1440 | 471 | 
 | 2023-03-02 | 1439 | 471 | 
 | 2023-02-28 | 1436 | 471 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1419 | 461 | 
 | 2023-02-04 | 1418 | 461 | 
 | 2023-02-03 | 1418 | 461 | 
-| 2023-02-02 | 1417 | 461 | 
 

@@ -1,10 +1,10 @@
 # lukas-blecher/LaTeX-OCR - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 351
+☋ Forks: 352
 
-★ Stars: 3031
+★ Stars: 3045
 
 [Open repository](https://github.com/lukas-blecher/LaTeX-OCR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3045 | 352 | 
 | 2023-03-03 | 3031 | 351 | 
 | 2023-03-02 | 3003 | 349 | 
 | 2023-03-01 | 2996 | 346 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 2823 | 331 | 
 | 2023-02-05 | 2821 | 329 | 
 | 2023-02-04 | 2818 | 328 | 
-| 2023-02-03 | 2813 | 328 | 
 

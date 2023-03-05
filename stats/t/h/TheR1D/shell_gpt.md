@@ -1,10 +1,10 @@
 # TheR1D/shell_gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 89
+☋ Forks: 90
 
-★ Stars: 1791
+★ Stars: 1812
 
 [Open repository](https://github.com/TheR1D/shell_gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1812 | 90 | 
 | 2023-03-03 | 1791 | 89 | 
 | 2023-03-01 | 1769 | 85 | 
 | 2023-02-28 | 1760 | 81 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 04
 
-☋ Forks: 3225
+☋ Forks: 3226
 
-★ Stars: 24151
+★ Stars: 24152
 
 [Open repository](https://github.com/fabricjs/fabric.js)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-04 | 24151 | 3225 | 
+| 2023-03-04 | 24152 | 3226 | 
 | 2023-03-03 | 24150 | 3225 | 
 | 2023-03-02 | 24126 | 3225 | 
 | 2023-03-01 | 24093 | 3223 | 

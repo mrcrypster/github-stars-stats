@@ -1,10 +1,10 @@
 # openboard-team/openboard - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 215
 
-★ Stars: 1996
+★ Stars: 1997
 
 [Open repository](https://github.com/openboard-team/openboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1997 | 215 | 
 | 2023-03-03 | 1996 | 215 | 
 | 2023-03-02 | 1995 | 215 | 
 | 2023-03-01 | 1996 | 215 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1950 | 207 | 
 | 2023-02-05 | 1949 | 207 | 
 | 2023-02-04 | 1947 | 207 | 
-| 2023-02-03 | 1946 | 207 | 
 

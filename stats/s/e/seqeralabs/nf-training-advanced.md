@@ -1,6 +1,6 @@
 # seqeralabs/nf-training-advanced - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 11 | 4 | 
 | 2023-03-03 | 11 | 4 | 
 | 2023-03-02 | 11 | 4 | 
 | 2023-03-01 | 11 | 4 | 

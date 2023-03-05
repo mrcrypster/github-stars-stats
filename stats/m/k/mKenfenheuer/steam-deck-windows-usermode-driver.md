@@ -1,10 +1,10 @@
 # mKenfenheuer/steam-deck-windows-usermode-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 19
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 289 | 19 | 
 | 2023-03-03 | 288 | 19 | 
 | 2023-03-01 | 288 | 19 | 
 | 2023-02-28 | 288 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 271 | 18 | 
 | 2023-02-04 | 270 | 18 | 
 | 2023-02-03 | 269 | 18 | 
-| 2023-02-02 | 267 | 18 | 
 

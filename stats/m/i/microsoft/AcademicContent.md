@@ -1,10 +1,10 @@
 # microsoft/AcademicContent - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 975
 
-★ Stars: 2524
+★ Stars: 2523
 
 [Open repository](https://github.com/microsoft/AcademicContent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2523 | 975 | 
 | 2023-03-02 | 2524 | 975 | 
 | 2023-03-01 | 2522 | 975 | 
 | 2023-02-28 | 2520 | 975 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2508 | 977 | 
 | 2023-02-04 | 2508 | 977 | 
 | 2023-02-03 | 2508 | 977 | 
-| 2023-02-02 | 2506 | 977 | 
 

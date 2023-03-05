@@ -1,10 +1,10 @@
 # twigphp/Twig - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1201
 
-★ Stars: 7720
+★ Stars: 7723
 
 [Open repository](https://github.com/twigphp/Twig)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 7723 | 1201 | 
 | 2023-03-03 | 7720 | 1201 | 
 | 2023-03-02 | 7721 | 1200 | 
 | 2023-03-01 | 7720 | 1201 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 7706 | 1197 | 
 | 2023-02-04 | 7703 | 1197 | 
 | 2023-02-03 | 7703 | 1197 | 
-| 2023-02-02 | 7701 | 1196 | 
 

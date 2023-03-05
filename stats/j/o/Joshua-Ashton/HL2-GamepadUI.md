@@ -1,8 +1,8 @@
 # Joshua-Ashton/HL2-GamepadUI - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 50 | 15 | 
 | 2023-03-03 | 50 | 14 | 
 | 2023-03-02 | 50 | 14 | 
 | 2023-02-28 | 50 | 14 | 

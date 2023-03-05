@@ -1,10 +1,10 @@
 # facebookresearch/rl - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 138
 
-★ Stars: 988
+★ Stars: 991
 
 [Open repository](https://github.com/facebookresearch/rl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 991 | 138 | 
 | 2023-03-03 | 988 | 138 | 
 | 2023-03-02 | 984 | 139 | 
 | 2023-03-01 | 984 | 138 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 897 | 133 | 
 | 2023-02-04 | 895 | 133 | 
 | 2023-02-03 | 895 | 133 | 
-| 2023-02-02 | 893 | 131 | 
 

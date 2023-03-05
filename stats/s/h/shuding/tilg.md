@@ -1,6 +1,6 @@
 # shuding/tilg - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1864 | 25 | 
 | 2023-03-02 | 1864 | 25 | 
 | 2023-03-01 | 1863 | 25 | 
 | 2023-02-28 | 1863 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1850 | 25 | 
 | 2023-02-04 | 1849 | 25 | 
 | 2023-02-03 | 1848 | 25 | 
-| 2023-02-02 | 1848 | 25 | 
 

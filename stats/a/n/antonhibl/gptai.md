@@ -1,6 +1,6 @@
 # antonhibl/gptai - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 13 | 3 | 
 | 2023-03-03 | 13 | 3 | 
 | 2023-03-02 | 12 | 3 | 
 | 2023-03-01 | 12 | 3 | 

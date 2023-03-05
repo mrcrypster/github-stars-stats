@@ -1,6 +1,6 @@
 # KTibow/m3-svelte - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 9 | 2 | 
 | 2023-03-02 | 9 | 2 | 
 | 2023-03-01 | 9 | 2 | 
 | 2023-02-28 | 9 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 8 | 2 | 
 | 2023-02-04 | 8 | 2 | 
 | 2023-02-03 | 8 | 1 | 
-| 2023-02-02 | 8 | 1 | 
 

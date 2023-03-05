@@ -1,10 +1,10 @@
 # vercel/platforms - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 242
+☋ Forks: 243
 
-★ Stars: 2499
+★ Stars: 2502
 
 [Open repository](https://github.com/vercel/platforms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2502 | 243 | 
 | 2023-03-03 | 2499 | 242 | 
 | 2023-03-02 | 2497 | 242 | 
 | 2023-02-28 | 2494 | 243 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 2435 | 235 | 
 | 2023-02-04 | 2433 | 235 | 
 | 2023-02-03 | 2430 | 233 | 
-| 2023-02-02 | 2427 | 233 | 
 

@@ -1,10 +1,10 @@
 # JeremyFagis/dropify - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 403
 
-★ Stars: 950
+★ Stars: 949
 
 [Open repository](https://github.com/JeremyFagis/dropify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 949 | 403 | 
 | 2023-03-03 | 950 | 403 | 
 | 2023-03-02 | 950 | 403 | 
 | 2023-03-01 | 951 | 403 | 

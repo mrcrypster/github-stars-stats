@@ -1,6 +1,6 @@
 # melvincwng/melvincwng - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 8 | 10 | 
 | 2023-03-03 | 8 | 10 | 
 | 2023-03-01 | 8 | 11 | 
 | 2023-02-28 | 8 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 7 | 10 | 
 | 2023-02-04 | 7 | 10 | 
 | 2023-02-03 | 7 | 10 | 
-| 2023-02-02 | 7 | 10 | 
 

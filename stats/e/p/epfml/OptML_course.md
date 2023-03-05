@@ -1,8 +1,8 @@
 # epfml/OptML_course - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 232
+☋ Forks: 233
 
 ★ Stars: 672
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 672 | 233 | 
 | 2023-03-02 | 672 | 232 | 
 | 2023-03-01 | 672 | 232 | 
 | 2023-02-28 | 670 | 232 | 

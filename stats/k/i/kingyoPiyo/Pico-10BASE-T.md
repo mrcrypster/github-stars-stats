@@ -1,6 +1,6 @@
 # kingyoPiyo/Pico-10BASE-T - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 524 | 17 | 
 | 2023-03-02 | 524 | 17 | 
 | 2023-03-01 | 524 | 17 | 
 | 2023-02-28 | 524 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 521 | 17 | 
 | 2023-02-04 | 521 | 17 | 
 | 2023-02-03 | 521 | 17 | 
-| 2023-02-02 | 521 | 17 | 
 

@@ -1,10 +1,10 @@
 # abpframework/abp - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 2931
 
-★ Stars: 9523
+★ Stars: 9524
 
 [Open repository](https://github.com/abpframework/abp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 9524 | 2931 | 
 | 2023-03-03 | 9523 | 2931 | 
 | 2023-03-02 | 9516 | 2928 | 
 | 2023-03-01 | 9510 | 2924 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 9384 | 2889 | 
 | 2023-02-04 | 9381 | 2888 | 
 | 2023-02-03 | 9373 | 2886 | 
-| 2023-02-02 | 9370 | 2883 | 
 

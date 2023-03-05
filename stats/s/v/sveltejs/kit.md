@@ -1,10 +1,10 @@
 # sveltejs/kit - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1223
+☋ Forks: 1225
 
-★ Stars: 13683
+★ Stars: 13696
 
 [Open repository](https://github.com/sveltejs/kit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 13696 | 1225 | 
 | 2023-03-03 | 13683 | 1223 | 
 | 2023-03-02 | 13669 | 1220 | 
 | 2023-03-01 | 13658 | 1218 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 13300 | 1174 | 
 | 2023-02-04 | 13276 | 1171 | 
 | 2023-02-03 | 13261 | 1170 | 
-| 2023-02-02 | 13243 | 1167 | 
 

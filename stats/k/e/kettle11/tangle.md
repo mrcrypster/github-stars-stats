@@ -1,10 +1,10 @@
 # kettle11/tangle - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 26
 
-★ Stars: 985
+★ Stars: 988
 
 [Open repository](https://github.com/kettle11/tangle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 988 | 26 | 
 | 2023-03-03 | 985 | 26 | 
 | 2023-03-02 | 982 | 26 | 
 | 2023-03-01 | 975 | 25 | 

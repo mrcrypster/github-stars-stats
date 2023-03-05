@@ -1,6 +1,6 @@
 # FaceOnLive/Mask-Aware-Face-Recognition-SDK-iOS - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 113 | 3 | 
 | 2023-03-02 | 113 | 3 | 
 | 2023-03-01 | 113 | 4 | 
 | 2023-02-28 | 113 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 113 | 4 | 
 | 2023-02-04 | 113 | 4 | 
 | 2023-02-03 | 113 | 4 | 
-| 2023-02-02 | 113 | 4 | 
 

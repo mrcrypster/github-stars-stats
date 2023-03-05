@@ -1,10 +1,10 @@
 # chaiNNer-org/chaiNNer - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 107
 
-★ Stars: 1855
+★ Stars: 1860
 
 [Open repository](https://github.com/chaiNNer-org/chaiNNer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1860 | 107 | 
 | 2023-03-03 | 1855 | 107 | 
 | 2023-03-02 | 1848 | 106 | 
 | 2023-03-01 | 1842 | 106 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1718 | 100 | 
 | 2023-02-05 | 1714 | 100 | 
 | 2023-02-04 | 1710 | 100 | 
-| 2023-02-03 | 1709 | 100 | 
 

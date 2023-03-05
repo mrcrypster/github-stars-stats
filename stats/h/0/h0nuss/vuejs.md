@@ -1,6 +1,6 @@
 # h0nuss/vuejs - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 52 | 25 | 
 | 2023-03-03 | 52 | 25 | 
 | 2023-03-01 | 52 | 25 | 
 | 2023-02-28 | 52 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 52 | 25 | 
 | 2023-02-04 | 52 | 25 | 
 | 2023-02-03 | 52 | 25 | 
-| 2023-02-02 | 52 | 25 | 
 

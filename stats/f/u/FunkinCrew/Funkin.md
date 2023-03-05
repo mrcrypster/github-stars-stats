@@ -1,10 +1,10 @@
 # FunkinCrew/Funkin - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 2036
+☋ Forks: 2037
 
-★ Stars: 2276
+★ Stars: 2277
 
 [Open repository](https://github.com/FunkinCrew/Funkin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2277 | 2037 | 
 | 2023-03-03 | 2276 | 2036 | 
 | 2023-03-02 | 2275 | 2038 | 
 | 2023-03-01 | 2276 | 2041 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 2246 | 2026 | 
 | 2023-02-04 | 2240 | 2023 | 
 | 2023-02-03 | 2237 | 2020 | 
-| 2023-02-02 | 2236 | 2019 | 
 

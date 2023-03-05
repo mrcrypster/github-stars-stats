@@ -1,10 +1,10 @@
 # MichaHoffmann/tree-sitter-hcl - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/MichaHoffmann/tree-sitter-hcl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 47 | 9 | 
 | 2023-03-03 | 46 | 9 | 
 | 2023-03-01 | 46 | 9 | 
 | 2023-02-28 | 46 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 44 | 5 | 
 | 2023-02-04 | 44 | 5 | 
 | 2023-02-03 | 44 | 5 | 
-| 2023-02-02 | 44 | 5 | 
 

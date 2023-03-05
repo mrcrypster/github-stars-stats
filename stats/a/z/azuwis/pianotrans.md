@@ -1,10 +1,10 @@
 # azuwis/pianotrans - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 639
+★ Stars: 641
 
 [Open repository](https://github.com/azuwis/pianotrans)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 641 | 89 | 
 | 2023-03-03 | 639 | 88 | 
 | 2023-03-01 | 639 | 88 | 
 | 2023-02-28 | 638 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 619 | 84 | 
 | 2023-02-04 | 618 | 84 | 
 | 2023-02-03 | 618 | 84 | 
-| 2023-02-02 | 618 | 84 | 
 

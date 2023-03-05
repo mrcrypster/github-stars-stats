@@ -1,10 +1,10 @@
 # hooray/fantastic-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 178
+☋ Forks: 179
 
-★ Stars: 982
+★ Stars: 985
 
 [Open repository](https://github.com/hooray/fantastic-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 985 | 179 | 
 | 2023-03-03 | 982 | 178 | 
 | 2023-03-02 | 979 | 177 | 
 | 2023-02-28 | 978 | 177 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 945 | 174 | 
 | 2023-02-04 | 944 | 174 | 
 | 2023-02-03 | 942 | 174 | 
-| 2023-02-02 | 941 | 174 | 
 

@@ -1,8 +1,8 @@
 # aspnetboilerplate/aspnetboilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 3688
+☋ Forks: 3687
 
 ★ Stars: 10921
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 10921 | 3687 | 
 | 2023-03-03 | 10921 | 3688 | 
 | 2023-03-02 | 10923 | 3686 | 
 | 2023-03-01 | 10921 | 3685 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 10881 | 3686 | 
 | 2023-02-04 | 10881 | 3687 | 
 | 2023-02-03 | 10880 | 3684 | 
-| 2023-02-02 | 10878 | 3681 | 
 

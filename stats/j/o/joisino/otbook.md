@@ -1,6 +1,6 @@
 # joisino/otbook - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 57 | 7 | 
 | 2023-03-03 | 57 | 7 | 
 | 2023-03-02 | 57 | 7 | 
 | 2023-03-01 | 56 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 46 | 5 | 
 | 2023-02-04 | 44 | 5 | 
 | 2023-02-03 | 44 | 5 | 
-| 2023-02-02 | 44 | 5 | 
 

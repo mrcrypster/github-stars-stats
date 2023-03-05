@@ -1,10 +1,10 @@
 # rbgirshick/rcnn - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 985
 
-★ Stars: 2278
+★ Stars: 2277
 
 [Open repository](https://github.com/rbgirshick/rcnn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2277 | 985 | 
 | 2023-03-03 | 2278 | 985 | 
 | 2023-03-02 | 2279 | 985 | 
 | 2023-03-01 | 2279 | 985 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 2275 | 984 | 
 | 2023-02-04 | 2275 | 984 | 
 | 2023-02-03 | 2275 | 984 | 
-| 2023-02-02 | 2275 | 984 | 
 

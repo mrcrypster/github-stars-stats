@@ -1,6 +1,6 @@
 # gakonst/solidity-book - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 828 | 50 | 
 | 2023-03-03 | 828 | 50 | 
 | 2023-03-01 | 828 | 50 | 
 | 2023-02-28 | 828 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 825 | 50 | 
 | 2023-02-04 | 824 | 50 | 
 | 2023-02-03 | 824 | 50 | 
-| 2023-02-02 | 823 | 50 | 
 

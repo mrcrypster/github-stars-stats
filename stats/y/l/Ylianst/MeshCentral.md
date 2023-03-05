@@ -1,10 +1,10 @@
 # Ylianst/MeshCentral - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 326
+☋ Forks: 327
 
-★ Stars: 2148
+★ Stars: 2150
 
 [Open repository](https://github.com/Ylianst/MeshCentral)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2150 | 327 | 
 | 2023-03-03 | 2148 | 326 | 
 | 2023-03-02 | 2147 | 325 | 
 | 2023-03-01 | 2146 | 323 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 2082 | 311 | 
 | 2023-02-04 | 2080 | 310 | 
 | 2023-02-03 | 2074 | 308 | 
-| 2023-02-02 | 2074 | 308 | 
 

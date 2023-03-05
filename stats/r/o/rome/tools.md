@@ -1,10 +1,10 @@
 # rome/tools - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 657
 
-★ Stars: 22641
+★ Stars: 22651
 
 [Open repository](https://github.com/rome/tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 22651 | 657 | 
 | 2023-03-03 | 22641 | 657 | 
 | 2023-03-01 | 22632 | 657 | 
 | 2023-02-28 | 22620 | 657 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 22416 | 653 | 
 | 2023-02-04 | 22413 | 653 | 
 | 2023-02-03 | 22407 | 653 | 
-| 2023-02-02 | 22399 | 654 | 
 

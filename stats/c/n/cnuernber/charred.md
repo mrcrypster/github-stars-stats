@@ -1,10 +1,10 @@
 # cnuernber/charred - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 164
+★ Stars: 168
 
 [Open repository](https://github.com/cnuernber/charred)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 168 | 6 | 
 | 2023-03-03 | 164 | 6 | 
 | 2023-03-02 | 164 | 6 | 
 | 2023-03-01 | 163 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 161 | 6 | 
 | 2023-02-04 | 161 | 6 | 
 | 2023-02-03 | 161 | 6 | 
-| 2023-02-02 | 161 | 6 | 
 

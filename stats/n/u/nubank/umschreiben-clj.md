@@ -1,6 +1,6 @@
 # nubank/umschreiben-clj - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 13 | - | 
 | 2023-03-04 | 13 | - | 
 | 2023-03-02 | 13 | - | 
 | 2023-03-01 | 13 | - | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-05 | 12 | - | 
 | 2023-02-04 | 12 | - | 
 | 2023-02-03 | 12 | - | 
-| 2023-02-02 | 12 | - | 
 

@@ -1,6 +1,6 @@
 # Fliangui/V2ray-for-Doprax - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 5 | 16 | 
 | 2023-03-03 | 5 | 16 | 
 | 2023-03-02 | 5 | 14 | 
 | 2023-03-01 | 5 | 13 | 

@@ -1,10 +1,10 @@
 # aquasecurity/kube-bench - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1058
 
-★ Stars: 5655
+★ Stars: 5658
 
 [Open repository](https://github.com/aquasecurity/kube-bench)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 5658 | 1058 | 
 | 2023-03-03 | 5655 | 1058 | 
 | 2023-03-02 | 5653 | 1058 | 
 | 2023-02-28 | 5648 | 1057 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 5571 | 1051 | 
 | 2023-02-04 | 5569 | 1050 | 
 | 2023-02-03 | 5566 | 1050 | 
-| 2023-02-02 | 5563 | 1049 | 
 

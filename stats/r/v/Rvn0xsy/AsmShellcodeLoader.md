@@ -1,6 +1,6 @@
 # Rvn0xsy/AsmShellcodeLoader - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 71 | 15 | 
 | 2023-03-03 | 71 | 15 | 
 | 2023-03-02 | 71 | 15 | 
 | 2023-03-01 | 71 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 70 | 14 | 
 | 2023-02-04 | 70 | 14 | 
 | 2023-02-03 | 70 | 14 | 
-| 2023-02-02 | 70 | 14 | 
 

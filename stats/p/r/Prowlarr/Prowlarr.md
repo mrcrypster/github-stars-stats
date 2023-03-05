@@ -1,6 +1,6 @@
 # Prowlarr/Prowlarr - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2133 | 110 | 
 | 2023-03-03 | 2133 | 110 | 
 | 2023-03-02 | 2129 | 110 | 
 | 2023-03-01 | 2128 | 109 | 

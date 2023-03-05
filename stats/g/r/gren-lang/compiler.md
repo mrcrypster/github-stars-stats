@@ -1,10 +1,10 @@
 # gren-lang/compiler - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/gren-lang/compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 196 | 9 | 
 | 2023-03-03 | 195 | 9 | 
 | 2023-03-01 | 193 | 9 | 
 | 2023-02-28 | 193 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 164 | 8 | 
 | 2023-02-04 | 164 | 8 | 
 | 2023-02-03 | 164 | 8 | 
-| 2023-02-02 | 164 | 8 | 
 

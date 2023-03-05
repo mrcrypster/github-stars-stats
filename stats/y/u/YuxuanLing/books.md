@@ -1,10 +1,10 @@
 # YuxuanLing/books - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 179
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/YuxuanLing/books)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 271 | 179 | 
 | 2023-03-03 | 270 | 179 | 
 | 2023-03-02 | 270 | 179 | 
 | 2023-03-01 | 270 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 263 | 176 | 
 | 2023-02-04 | 263 | 176 | 
 | 2023-02-03 | 263 | 176 | 
-| 2023-02-02 | 263 | 176 | 
 

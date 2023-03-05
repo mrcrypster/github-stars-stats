@@ -1,6 +1,6 @@
 # Diving-Fish/maimaidx-prober - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 364 | 31 | 
 | 2023-03-03 | 364 | 31 | 
 | 2023-03-02 | 364 | 31 | 
 | 2023-03-01 | 363 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 346 | 28 | 
 | 2023-02-05 | 346 | 28 | 
 | 2023-02-04 | 346 | 28 | 
-| 2023-02-03 | 346 | 29 | 
 

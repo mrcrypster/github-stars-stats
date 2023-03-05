@@ -1,10 +1,10 @@
 # graphql-rust/juniper - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 399
 
-★ Stars: 5007
+★ Stars: 5008
 
 [Open repository](https://github.com/graphql-rust/juniper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 5008 | 399 | 
 | 2023-03-03 | 5007 | 399 | 
 | 2023-03-02 | 5004 | 399 | 
 | 2023-03-01 | 5003 | 399 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4959 | 395 | 
 | 2023-02-04 | 4956 | 395 | 
 | 2023-02-03 | 4955 | 395 | 
-| 2023-02-02 | 4952 | 395 | 
 

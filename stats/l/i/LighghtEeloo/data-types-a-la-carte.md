@@ -1,10 +1,10 @@
 # LighghtEeloo/data-types-a-la-carte - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/LighghtEeloo/data-types-a-la-carte)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 17 | - | 
 | 2023-03-03 | 16 | - | 
 | 2023-03-02 | 16 | - | 
 | 2023-03-01 | 16 | - | 

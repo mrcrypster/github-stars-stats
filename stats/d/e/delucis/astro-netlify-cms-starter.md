@@ -1,6 +1,6 @@
 # delucis/astro-netlify-cms-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 20 | 7 | 
+| 2023-03-04 | 20 | 7 | 
 | 2023-03-02 | 20 | 7 | 
 | 2023-03-01 | 20 | 7 | 
 | 2023-02-28 | 20 | 7 | 

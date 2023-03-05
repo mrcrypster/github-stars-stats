@@ -1,6 +1,6 @@
 # jenkinsci/pipeline-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 3260
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4027 | 3260 | 
 | 2023-03-03 | 4027 | 3260 | 
 | 2023-03-02 | 4026 | 3260 | 
 | 2023-03-01 | 4025 | 3259 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4013 | 3238 | 
 | 2023-02-04 | 4013 | 3238 | 
 | 2023-02-03 | 4011 | 3238 | 
-| 2023-02-02 | 4010 | 3237 | 
 

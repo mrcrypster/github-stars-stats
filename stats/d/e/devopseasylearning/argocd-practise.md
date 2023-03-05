@@ -1,8 +1,8 @@
 # devopseasylearning/argocd-practise - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | - | 68 | 
 | 2023-03-03 | - | 67 | 
 | 2023-03-02 | - | 66 | 
 | 2023-03-01 | - | 65 | 

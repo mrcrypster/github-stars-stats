@@ -1,10 +1,10 @@
 # chatwoot/chatwoot - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 2045
+☋ Forks: 2046
 
-★ Stars: 14638
+★ Stars: 14644
 
 [Open repository](https://github.com/chatwoot/chatwoot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 14644 | 2046 | 
 | 2023-03-03 | 14638 | 2045 | 
 | 2023-03-02 | 14634 | 2047 | 
 | 2023-03-01 | 14631 | 2045 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 14458 | 1992 | 
 | 2023-02-04 | 14451 | 1990 | 
 | 2023-02-03 | 14444 | 1989 | 
-| 2023-02-02 | 14441 | 1988 | 
 

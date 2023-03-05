@@ -1,10 +1,10 @@
 # pressly/goose - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 387
+☋ Forks: 388
 
-★ Stars: 3542
+★ Stars: 3548
 
 [Open repository](https://github.com/pressly/goose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3548 | 388 | 
 | 2023-03-03 | 3542 | 387 | 
 | 2023-03-02 | 3538 | 386 | 
 | 2023-03-01 | 3535 | 385 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 3437 | 379 | 
 | 2023-02-04 | 3429 | 379 | 
 | 2023-02-03 | 3425 | 379 | 
-| 2023-02-02 | 3417 | 379 | 
 

@@ -1,10 +1,10 @@
 # zio/zio-openai - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/zio/zio-openai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 45 | 5 | 
 | 2023-03-03 | 43 | 5 | 
 | 2023-03-01 | 43 | 5 | 
 | 2023-02-28 | 43 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 30 | 2 | 
 | 2023-02-04 | 28 | 2 | 
 | 2023-02-03 | 28 | 2 | 
-| 2023-02-02 | 24 | 1 | 
 

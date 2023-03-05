@@ -1,6 +1,6 @@
 # hawk86104/vue3-ts-cesium-map-show - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 106 | 58 | 
 | 2023-03-03 | 106 | 58 | 
 | 2023-03-02 | 106 | 58 | 
 | 2023-02-28 | 106 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 92 | 50 | 
 | 2023-02-04 | 91 | 50 | 
 | 2023-02-03 | 90 | 50 | 
-| 2023-02-02 | 90 | 50 | 
 

@@ -1,10 +1,10 @@
 # abacaj/awesome-transformers - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 427
+★ Stars: 434
 
 [Open repository](https://github.com/abacaj/awesome-transformers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 434 | 26 | 
 | 2023-03-03 | 427 | 24 | 
 | 2023-03-02 | 421 | 24 | 
 | 2023-03-01 | 413 | 21 | 

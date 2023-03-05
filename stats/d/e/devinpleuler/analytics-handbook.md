@@ -1,10 +1,10 @@
 # devinpleuler/analytics-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 179
 
-★ Stars: 1161
+★ Stars: 1162
 
 [Open repository](https://github.com/devinpleuler/analytics-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1162 | 179 | 
 | 2023-03-03 | 1161 | 179 | 
 | 2023-03-02 | 1161 | 178 | 
 | 2023-03-01 | 1160 | 178 | 

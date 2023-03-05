@@ -1,10 +1,10 @@
 # abduvik/just-enough-series - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 34
 
-★ Stars: 495
+★ Stars: 496
 
 [Open repository](https://github.com/abduvik/just-enough-series)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 496 | 34 | 
 | 2023-03-03 | 495 | 34 | 
 | 2023-03-02 | 495 | 34 | 
 | 2023-03-01 | 495 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 493 | 34 | 
 | 2023-02-04 | 493 | 34 | 
 | 2023-02-03 | 493 | 34 | 
-| 2023-02-02 | 493 | 34 | 
 

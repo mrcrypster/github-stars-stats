@@ -1,6 +1,6 @@
 # michaelgutmann/ml-pen-and-paper-exercises - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1685 | 121 | 
 | 2023-03-02 | 1685 | 121 | 
 | 2023-03-01 | 1685 | 121 | 
 | 2023-02-28 | 1684 | 121 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 1659 | 120 | 
 | 2023-02-04 | 1659 | 120 | 
 | 2023-02-03 | 1659 | 120 | 
-| 2023-02-02 | 1659 | 121 | 
 

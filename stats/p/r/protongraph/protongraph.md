@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 04
 
 ☋ Forks: 69
 
-★ Stars: 996
+★ Stars: 998
 
 [Open repository](https://github.com/protongraph/protongraph)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-04 | 996 | 69 | 
+| 2023-03-04 | 998 | 69 | 
 | 2023-03-03 | 996 | 69 | 
 | 2023-03-01 | 955 | 69 | 
 | 2023-02-28 | 936 | 69 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-05 | 919 | 65 | 
 | 2023-02-04 | 918 | 65 | 
 | 2023-02-03 | 918 | 65 | 
-| 2023-02-02 | 917 | 65 | 
 

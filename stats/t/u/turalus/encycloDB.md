@@ -1,10 +1,10 @@
 # turalus/encycloDB - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 75
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/turalus/encycloDB)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 148 | 75 | 
 | 2023-03-02 | 147 | 75 | 
 | 2023-03-01 | 147 | 75 | 
 | 2023-02-28 | 147 | 75 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 148 | 76 | 
 | 2023-02-04 | 148 | 76 | 
 | 2023-02-03 | 148 | 76 | 
-| 2023-02-02 | 148 | 76 | 
 

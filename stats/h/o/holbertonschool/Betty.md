@@ -1,10 +1,10 @@
 # holbertonschool/Betty - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1285
+☋ Forks: 1284
 
-★ Stars: 840
+★ Stars: 839
 
 [Open repository](https://github.com/holbertonschool/Betty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 839 | 1284 | 
 | 2023-03-03 | 840 | 1285 | 
 | 2023-03-02 | 837 | 1282 | 
 | 2023-03-01 | 838 | 1281 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 716 | 1114 | 
 | 2023-02-05 | 716 | 1113 | 
 | 2023-02-03 | 716 | 1112 | 
-| 2023-02-02 | 717 | 1112 | 
 

@@ -1,6 +1,6 @@
 # ndd7xv/heh - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 290 | 9 | 
 | 2023-03-03 | 290 | 9 | 
 | 2023-03-01 | 290 | 9 | 
 | 2023-02-28 | 290 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 289 | 9 | 
 | 2023-02-04 | 289 | 9 | 
 | 2023-02-03 | 289 | 9 | 
-| 2023-02-02 | 289 | 9 | 
 

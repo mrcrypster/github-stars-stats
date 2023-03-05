@@ -1,6 +1,6 @@
 # cloudnloud/interview-questions - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 275 | 188 | 
 | 2023-03-03 | 275 | 188 | 
 | 2023-03-02 | 276 | 188 | 
 | 2023-02-28 | 276 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 272 | 182 | 
 | 2023-02-04 | 272 | 182 | 
 | 2023-02-03 | 272 | 182 | 
-| 2023-02-02 | 272 | 182 | 
 

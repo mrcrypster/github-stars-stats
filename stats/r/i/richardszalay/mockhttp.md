@@ -1,10 +1,10 @@
 # richardszalay/mockhttp - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 76
 
-★ Stars: 1299
+★ Stars: 1301
 
 [Open repository](https://github.com/richardszalay/mockhttp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1301 | 76 | 
 | 2023-03-03 | 1299 | 76 | 
 | 2023-03-02 | 1296 | 76 | 
 | 2023-02-28 | 1294 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1268 | 73 | 
 | 2023-02-04 | 1268 | 73 | 
 | 2023-02-03 | 1268 | 73 | 
-| 2023-02-02 | 1268 | 73 | 
 

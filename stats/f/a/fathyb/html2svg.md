@@ -1,10 +1,10 @@
 # fathyb/html2svg - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 23
 
-★ Stars: 1050
+★ Stars: 1052
 
 [Open repository](https://github.com/fathyb/html2svg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1052 | 23 | 
 | 2023-03-03 | 1050 | 23 | 
 | 2023-03-02 | 1045 | 23 | 
 | 2023-03-01 | 1041 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 970 | 23 | 
 | 2023-02-04 | 966 | 23 | 
 | 2023-02-03 | 963 | 23 | 
-| 2023-02-02 | 954 | 23 | 
 

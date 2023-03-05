@@ -1,10 +1,10 @@
 # justadudewhohacks/face-api.js - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 3421
+☋ Forks: 3423
 
-★ Stars: 14744
+★ Stars: 14748
 
 [Open repository](https://github.com/justadudewhohacks/face-api.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 14748 | 3423 | 
 | 2023-03-03 | 14744 | 3421 | 
 | 2023-03-02 | 14740 | 3422 | 
 | 2023-03-01 | 14738 | 3421 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 14648 | 3402 | 
 | 2023-02-04 | 14647 | 3400 | 
 | 2023-02-03 | 14646 | 3399 | 
-| 2023-02-02 | 14644 | 3398 | 
 

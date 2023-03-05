@@ -1,6 +1,6 @@
 # lucky01/PIN2DMD - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 27 | 29 | 
 | 2023-03-03 | 27 | 29 | 
 | 2023-03-01 | 27 | 29 | 
 | 2023-02-28 | 27 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 27 | 29 | 
 | 2023-02-05 | 27 | 29 | 
 | 2023-02-04 | 27 | 29 | 
-| 2023-02-02 | 27 | 29 | 
 

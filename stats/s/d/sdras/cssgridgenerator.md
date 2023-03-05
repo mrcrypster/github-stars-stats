@@ -1,8 +1,8 @@
 # sdras/cssgridgenerator - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 479
+☋ Forks: 481
 
 ★ Stars: 4554
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4554 | 481 | 
 | 2023-03-03 | 4554 | 479 | 
 | 2023-03-02 | 4553 | 479 | 
 | 2023-03-01 | 4552 | 479 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 4531 | 481 | 
 | 2023-02-05 | 4531 | 481 | 
 | 2023-02-03 | 4531 | 482 | 
-| 2023-02-02 | 4530 | 482 | 
 

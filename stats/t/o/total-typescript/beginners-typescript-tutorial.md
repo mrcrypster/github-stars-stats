@@ -1,8 +1,8 @@
 # total-typescript/beginners-typescript-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 882
+☋ Forks: 884
 
 ★ Stars: 7118
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 7118 | 884 | 
 | 2023-03-03 | 7118 | 882 | 
 | 2023-03-02 | 7111 | 879 | 
 | 2023-03-01 | 7110 | 876 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 7040 | 845 | 
 | 2023-02-04 | 7037 | 845 | 
 | 2023-02-03 | 7038 | 845 | 
-| 2023-02-02 | 7034 | 843 | 
 

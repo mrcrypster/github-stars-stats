@@ -1,10 +1,10 @@
 # gfx-rs/wgpu - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 556
+☋ Forks: 557
 
-★ Stars: 6878
+★ Stars: 6881
 
 [Open repository](https://github.com/gfx-rs/wgpu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 6881 | 557 | 
 | 2023-03-03 | 6878 | 556 | 
 | 2023-03-02 | 6870 | 556 | 
 | 2023-03-01 | 6859 | 556 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 6663 | 540 | 
 | 2023-02-04 | 6661 | 540 | 
 | 2023-02-03 | 6655 | 540 | 
-| 2023-02-02 | 6648 | 539 | 
 

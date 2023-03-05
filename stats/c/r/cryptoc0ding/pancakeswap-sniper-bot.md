@@ -1,10 +1,10 @@
 # cryptoc0ding/pancakeswap-sniper-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 209
+☋ Forks: 210
 
-★ Stars: 392
+★ Stars: 409
 
 [Open repository](https://github.com/cryptoc0ding/pancakeswap-sniper-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 409 | 210 | 
 | 2023-03-03 | 392 | 209 | 
 | 2023-03-01 | 383 | 209 | 
 | 2023-02-28 | 370 | 209 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 211 | 163 | 
 | 2023-02-04 | 211 | 163 | 
 | 2023-02-03 | 211 | 163 | 
-| 2023-02-02 | 210 | 163 | 
 

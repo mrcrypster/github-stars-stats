@@ -1,10 +1,10 @@
 # Unstructured-IO/unstructured - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 446
+★ Stars: 456
 
 [Open repository](https://github.com/Unstructured-IO/unstructured)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 456 | 35 | 
 | 2023-03-02 | 446 | 34 | 
 | 2023-03-01 | 437 | 34 | 
 | 2023-02-28 | 421 | 34 | 

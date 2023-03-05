@@ -1,10 +1,10 @@
 # prisma/prisma-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1260
+☋ Forks: 1259
 
-★ Stars: 4701
+★ Stars: 4702
 
 [Open repository](https://github.com/prisma/prisma-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4702 | 1259 | 
 | 2023-03-03 | 4701 | 1260 | 
 | 2023-03-02 | 4693 | 1255 | 
 | 2023-03-01 | 4691 | 1252 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4584 | 1218 | 
 | 2023-02-04 | 4579 | 1219 | 
 | 2023-02-03 | 4578 | 1217 | 
-| 2023-02-02 | 4579 | 1215 | 
 

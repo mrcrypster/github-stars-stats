@@ -1,10 +1,10 @@
 # RivaanRanawat/instagram-flutter-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 361
+☋ Forks: 360
 
-★ Stars: 598
+★ Stars: 599
 
 [Open repository](https://github.com/RivaanRanawat/instagram-flutter-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 599 | 360 | 
 | 2023-03-03 | 598 | 361 | 
 | 2023-03-02 | 597 | 359 | 
 | 2023-03-01 | 595 | 359 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 582 | 349 | 
 | 2023-02-04 | 581 | 348 | 
 | 2023-02-03 | 581 | 347 | 
-| 2023-02-02 | 580 | 347 | 
 

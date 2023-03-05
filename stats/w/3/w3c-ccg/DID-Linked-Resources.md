@@ -1,0 +1,18 @@
+# w3c-ccg/DID-Linked-Resources - stars & forks statistics
+
+Stats updated on Mar 2023, 05
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/w3c-ccg/DID-Linked-Resources)
+
+[Open detailed stats for w3c-ccg/DID-Linked-Resources](https://reviewgithub.com/rep/w3c-ccg/DID-Linked-Resources)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-05 | - | - | 
+| 2023-03-04 | - | - | 
+

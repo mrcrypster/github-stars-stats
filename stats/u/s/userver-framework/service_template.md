@@ -1,6 +1,6 @@
 # userver-framework/service_template - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 65 | 20 | 
 | 2023-03-03 | 65 | 20 | 
 | 2023-03-01 | 65 | 20 | 
 | 2023-02-28 | 65 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 66 | 18 | 
 | 2023-02-04 | 66 | 18 | 
 | 2023-02-03 | 65 | 18 | 
-| 2023-02-02 | 65 | 18 | 
 

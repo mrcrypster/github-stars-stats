@@ -1,10 +1,10 @@
 # zcgonvh/DCOMPotato - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 38
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/zcgonvh/DCOMPotato)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 288 | 38 | 
 | 2023-03-03 | 287 | 38 | 
 | 2023-03-02 | 282 | 38 | 
 | 2023-02-28 | 280 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 254 | 34 | 
 | 2023-02-04 | 254 | 34 | 
 | 2023-02-03 | 254 | 33 | 
-| 2023-02-02 | 254 | 33 | 
 

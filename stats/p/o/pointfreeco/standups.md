@@ -1,10 +1,10 @@
 # pointfreeco/standups - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 19
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/pointfreeco/standups)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 79 | 19 | 
 | 2023-03-02 | 78 | 19 | 
 | 2023-03-01 | 78 | 19 | 
 | 2023-02-28 | 77 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 65 | 14 | 
 | 2023-02-04 | 65 | 14 | 
 | 2023-02-03 | 65 | 14 | 
-| 2023-02-02 | 63 | 12 | 
 

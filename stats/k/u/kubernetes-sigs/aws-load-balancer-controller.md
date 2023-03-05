@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 04
 
 ☋ Forks: 1191
 
-★ Stars: 3259
+★ Stars: 3258
 
 [Open repository](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-04 | 3259 | 1191 | 
+| 2023-03-04 | 3258 | 1191 | 
 | 2023-03-03 | 3259 | 1191 | 
 | 2023-03-02 | 3255 | 1192 | 
 | 2023-03-01 | 3254 | 1188 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-05 | 3221 | 1168 | 
 | 2023-02-04 | 3220 | 1168 | 
 | 2023-02-03 | 3218 | 1167 | 
-| 2023-02-02 | 3217 | 1166 | 
 

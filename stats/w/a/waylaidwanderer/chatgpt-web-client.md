@@ -1,10 +1,10 @@
 # waylaidwanderer/chatgpt-web-client - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/waylaidwanderer/chatgpt-web-client)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 38 | 6 | 
 | 2023-03-03 | 36 | 5 | 
 

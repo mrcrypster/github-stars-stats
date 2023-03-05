@@ -1,10 +1,10 @@
 # RexxLA/rexx-repository - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/RexxLA/rexx-repository)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 8 | 1 | 
 | 2023-03-03 | 9 | 1 | 
 | 2023-03-02 | 9 | 1 | 
 | 2023-03-01 | 9 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 9 | 1 | 
 | 2023-02-04 | 9 | 1 | 
 | 2023-02-03 | 9 | 1 | 
-| 2023-02-02 | 9 | 1 | 
 

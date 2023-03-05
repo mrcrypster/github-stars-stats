@@ -1,10 +1,10 @@
 # danijar/dreamerv3 - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 370
+★ Stars: 372
 
 [Open repository](https://github.com/danijar/dreamerv3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 372 | 32 | 
 | 2023-03-03 | 370 | 31 | 
 | 2023-03-02 | 368 | 31 | 
 | 2023-03-01 | 361 | 31 | 

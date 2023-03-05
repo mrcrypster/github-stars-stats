@@ -1,10 +1,10 @@
 # raoli1986/Shadowrocket-ID - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 29
 
-★ Stars: 364
+★ Stars: 363
 
 [Open repository](https://github.com/raoli1986/Shadowrocket-ID)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 363 | 29 | 
 | 2023-03-03 | 364 | 29 | 
 | 2023-03-02 | 364 | 29 | 
 | 2023-03-01 | 364 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 365 | 28 | 
 | 2023-02-05 | 364 | 28 | 
 | 2023-02-04 | 363 | 28 | 
-| 2023-02-03 | 363 | 28 | 
 

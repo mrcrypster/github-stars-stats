@@ -1,10 +1,10 @@
 # edkolev/evil-lion - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/edkolev/evil-lion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 123 | 10 | 
 | 2023-03-02 | 122 | 10 | 
 | 2023-03-01 | 122 | 10 | 
 | 2023-02-28 | 122 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 122 | 10 | 
 | 2023-02-04 | 122 | 10 | 
 | 2023-02-03 | 123 | 10 | 
-| 2023-02-02 | 123 | 10 | 
 

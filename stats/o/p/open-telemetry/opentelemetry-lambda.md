@@ -1,8 +1,8 @@
 # open-telemetry/opentelemetry-lambda - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 92
+☋ Forks: 93
 
 ★ Stars: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 150 | 93 | 
 | 2023-03-03 | 150 | 92 | 
 | 2023-03-02 | 149 | 92 | 
 | 2023-03-01 | 149 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 141 | 88 | 
 | 2023-02-04 | 141 | 88 | 
 | 2023-02-03 | 140 | 88 | 
-| 2023-02-02 | 140 | 88 | 
 

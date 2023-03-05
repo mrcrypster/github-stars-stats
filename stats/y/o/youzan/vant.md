@@ -1,10 +1,10 @@
 # youzan/vant - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 9453
+☋ Forks: 9452
 
-★ Stars: 20956
+★ Stars: 20960
 
 [Open repository](https://github.com/youzan/vant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 20960 | 9452 | 
 | 2023-03-03 | 20956 | 9453 | 
 | 2023-03-02 | 20947 | 9451 | 
 | 2023-03-01 | 20945 | 9449 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 20809 | 9435 | 
 | 2023-02-04 | 20807 | 9434 | 
 | 2023-02-03 | 20804 | 9434 | 
-| 2023-02-02 | 20801 | 9434 | 
 

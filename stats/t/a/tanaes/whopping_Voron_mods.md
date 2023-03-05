@@ -1,10 +1,10 @@
 # tanaes/whopping_Voron_mods - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 55
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/tanaes/whopping_Voron_mods)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 244 | 55 | 
 | 2023-03-03 | 243 | 55 | 
 | 2023-03-02 | 242 | 55 | 
 | 2023-03-01 | 240 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 230 | 50 | 
 | 2023-02-04 | 229 | 49 | 
 | 2023-02-03 | 229 | 49 | 
-| 2023-02-02 | 228 | 49 | 
 

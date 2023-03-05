@@ -1,8 +1,8 @@
 # dicka88/free-rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1 | 70 | 
 | 2023-03-03 | 1 | 69 | 
 | 2023-03-02 | 1 | 69 | 
 | 2023-03-01 | 1 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1 | 49 | 
 | 2023-02-04 | 1 | 48 | 
 | 2023-02-03 | 1 | 47 | 
-| 2023-02-02 | 1 | 46 | 
 

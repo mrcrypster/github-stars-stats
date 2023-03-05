@@ -1,6 +1,6 @@
 # pwntester/ysoserial.net - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 410
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2447 | 410 | 
 | 2023-03-03 | 2447 | 410 | 
 | 2023-03-02 | 2446 | 409 | 
 | 2023-03-01 | 2446 | 409 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 2423 | 408 | 
 | 2023-02-04 | 2422 | 408 | 
 | 2023-02-03 | 2422 | 408 | 
-| 2023-02-02 | 2421 | 406 | 
 

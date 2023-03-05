@@ -1,10 +1,10 @@
 # crytic/echidna-streaming-series - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 18
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/crytic/echidna-streaming-series)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 54 | 18 | 
 | 2023-03-03 | 53 | 18 | 
 | 2023-03-02 | 53 | 18 | 
 | 2023-03-01 | 53 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 46 | 16 | 
 | 2023-02-04 | 46 | 16 | 
 | 2023-02-03 | 46 | 16 | 
-| 2023-02-02 | 46 | 16 | 
 

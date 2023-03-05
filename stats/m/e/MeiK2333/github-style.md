@@ -1,10 +1,10 @@
 # MeiK2333/github-style - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 116
 
-★ Stars: 384
+★ Stars: 386
 
 [Open repository](https://github.com/MeiK2333/github-style)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 386 | 116 | 
 | 2023-03-03 | 384 | 116 | 
 | 2023-03-01 | 381 | 116 | 
 | 2023-02-28 | 380 | 116 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 378 | 111 | 
 | 2023-02-04 | 378 | 111 | 
 | 2023-02-03 | 378 | 111 | 
-| 2023-02-02 | 378 | 111 | 
 

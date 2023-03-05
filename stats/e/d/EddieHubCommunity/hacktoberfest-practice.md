@@ -1,6 +1,6 @@
 # EddieHubCommunity/hacktoberfest-practice - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1986
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 409 | 1986 | 
 | 2023-03-02 | 409 | 1986 | 
 | 2023-03-01 | 409 | 1983 | 
 | 2023-02-28 | 410 | 1982 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 400 | 1905 | 
 | 2023-02-04 | 400 | 1901 | 
 | 2023-02-03 | 400 | 1900 | 
-| 2023-02-02 | 400 | 1895 | 
 

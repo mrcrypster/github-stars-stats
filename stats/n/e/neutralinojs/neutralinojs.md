@@ -1,6 +1,6 @@
 # neutralinojs/neutralinojs - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 6459 | 305 | 
 | 2023-03-03 | 6459 | 305 | 
 | 2023-03-02 | 6456 | 305 | 
 | 2023-03-01 | 6452 | 305 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 6394 | 303 | 
 | 2023-02-04 | 6393 | 303 | 
 | 2023-02-03 | 6394 | 303 | 
-| 2023-02-02 | 6392 | 304 | 
 

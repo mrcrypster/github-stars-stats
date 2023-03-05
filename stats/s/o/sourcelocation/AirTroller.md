@@ -1,8 +1,8 @@
 # sourcelocation/AirTroller - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 338
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 338 | 23 | 
 | 2023-03-03 | 338 | 22 | 
 | 2023-03-02 | 336 | 22 | 
 | 2023-03-01 | 335 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 323 | 22 | 
 | 2023-02-05 | 321 | 22 | 
 | 2023-02-04 | 319 | 21 | 
-| 2023-02-03 | 318 | 21 | 
 

@@ -1,10 +1,10 @@
 # replikativ/datahike - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 84
 
-★ Stars: 1505
+★ Stars: 1504
 
 [Open repository](https://github.com/replikativ/datahike)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1504 | 84 | 
+| 2023-03-04 | 1505 | 84 | 
 | 2023-03-03 | 1505 | 84 | 
 | 2023-03-02 | 1504 | 84 | 
 | 2023-03-01 | 1504 | 84 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1489 | 84 | 
 | 2023-02-04 | 1489 | 84 | 
 | 2023-02-03 | 1489 | 84 | 
-| 2023-02-02 | 1489 | 84 | 
 

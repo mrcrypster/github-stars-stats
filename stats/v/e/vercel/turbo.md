@@ -1,10 +1,10 @@
 # vercel/turbo - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1284
+☋ Forks: 1285
 
-★ Stars: 19840
+★ Stars: 19851
 
 [Open repository](https://github.com/vercel/turbo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 19851 | 1285 | 
 | 2023-03-03 | 19840 | 1284 | 
 | 2023-03-02 | 19800 | 1281 | 
 | 2023-03-01 | 19772 | 1279 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 19254 | 1194 | 
 | 2023-02-04 | 19234 | 1189 | 
 | 2023-02-03 | 19230 | 1187 | 
-| 2023-02-02 | 19210 | 1185 | 
 

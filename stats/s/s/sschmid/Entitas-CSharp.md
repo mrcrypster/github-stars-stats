@@ -1,10 +1,10 @@
 # sschmid/Entitas-CSharp - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1065
+☋ Forks: 1064
 
-★ Stars: 6114
+★ Stars: 6115
 
 [Open repository](https://github.com/sschmid/Entitas-CSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 6115 | 1064 | 
 | 2023-03-03 | 6114 | 1065 | 
 | 2023-03-02 | 6113 | 1064 | 
 | 2023-03-01 | 6110 | 1064 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 6048 | 1058 | 
 | 2023-02-05 | 6045 | 1058 | 
 | 2023-02-04 | 6043 | 1058 | 
-| 2023-02-03 | 6042 | 1057 | 
 

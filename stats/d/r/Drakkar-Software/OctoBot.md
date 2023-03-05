@@ -1,10 +1,10 @@
 # Drakkar-Software/OctoBot - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 538
+☋ Forks: 539
 
-★ Stars: 1964
+★ Stars: 1963
 
 [Open repository](https://github.com/Drakkar-Software/OctoBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1963 | 539 | 
 | 2023-03-03 | 1964 | 538 | 
 | 2023-03-01 | 1963 | 538 | 
 | 2023-02-28 | 1962 | 537 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1928 | 529 | 
 | 2023-02-04 | 1926 | 529 | 
 | 2023-02-03 | 1926 | 529 | 
-| 2023-02-02 | 1925 | 529 | 
 

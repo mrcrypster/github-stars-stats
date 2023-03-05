@@ -1,10 +1,10 @@
 # svelteuidev/svelteui - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 45
 
-★ Stars: 697
+★ Stars: 696
 
 [Open repository](https://github.com/svelteuidev/svelteui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 696 | 45 | 
 | 2023-03-03 | 697 | 45 | 
 | 2023-03-02 | 695 | 45 | 
 | 2023-03-01 | 696 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 643 | 41 | 
 | 2023-02-04 | 642 | 41 | 
 | 2023-02-03 | 642 | 42 | 
-| 2023-02-02 | 640 | 42 | 
 

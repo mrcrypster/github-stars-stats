@@ -1,10 +1,10 @@
 # bmshifat/TecSpy - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 36
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/bmshifat/TecSpy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 102 | 36 | 
 | 2023-03-03 | 101 | 36 | 
 | 2023-03-02 | 101 | 36 | 
 | 2023-03-01 | 101 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 94 | 36 | 
 | 2023-02-05 | 94 | 36 | 
 | 2023-02-03 | 94 | 36 | 
-| 2023-02-02 | 93 | 36 | 
 

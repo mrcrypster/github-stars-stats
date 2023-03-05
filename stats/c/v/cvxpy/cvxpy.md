@@ -1,10 +1,10 @@
 # cvxpy/cvxpy - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 964
 
-★ Stars: 4350
+★ Stars: 4351
 
 [Open repository](https://github.com/cvxpy/cvxpy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4351 | 964 | 
 | 2023-03-03 | 4350 | 964 | 
 | 2023-03-02 | 4348 | 964 | 
 | 2023-02-28 | 4348 | 964 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4315 | 891 | 
 | 2023-02-04 | 4313 | 892 | 
 | 2023-02-03 | 4313 | 892 | 
-| 2023-02-02 | 4312 | 892 | 
 

@@ -1,6 +1,6 @@
 # llealloo/vrc-udon-audio-link - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 272 | 28 | 
 | 2023-03-02 | 272 | 28 | 
 | 2023-03-01 | 272 | 28 | 
 | 2023-02-28 | 271 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 266 | 29 | 
 | 2023-02-04 | 267 | 29 | 
 | 2023-02-03 | 267 | 29 | 
-| 2023-02-02 | 266 | 29 | 
 

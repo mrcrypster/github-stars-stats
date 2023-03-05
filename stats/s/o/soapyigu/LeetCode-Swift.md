@@ -1,10 +1,10 @@
 # soapyigu/LeetCode-Swift - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 853
 
-★ Stars: 4542
+★ Stars: 4543
 
 [Open repository](https://github.com/soapyigu/LeetCode-Swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4543 | 853 | 
 | 2023-03-03 | 4542 | 853 | 
 | 2023-03-02 | 4540 | 851 | 
 | 2023-03-01 | 4539 | 851 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4517 | 850 | 
 | 2023-02-04 | 4516 | 849 | 
 | 2023-02-03 | 4516 | 849 | 
-| 2023-02-02 | 4514 | 850 | 
 

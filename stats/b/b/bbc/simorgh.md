@@ -1,10 +1,10 @@
 # bbc/simorgh - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 157
 
-★ Stars: 1064
+★ Stars: 1065
 
 [Open repository](https://github.com/bbc/simorgh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1065 | 157 | 
 | 2023-03-03 | 1064 | 157 | 
 | 2023-03-01 | 1064 | 157 | 
 | 2023-02-28 | 1064 | 157 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1060 | 154 | 
 | 2023-02-04 | 1060 | 154 | 
 | 2023-02-03 | 1061 | 154 | 
-| 2023-02-02 | 1061 | 154 | 
 

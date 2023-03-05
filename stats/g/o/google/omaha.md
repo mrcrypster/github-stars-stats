@@ -1,10 +1,10 @@
 # google/omaha - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 737
 
-★ Stars: 2120
+★ Stars: 2121
 
 [Open repository](https://github.com/google/omaha)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2121 | 737 | 
 | 2023-03-02 | 2120 | 737 | 
 | 2023-03-01 | 2120 | 738 | 
 | 2023-02-28 | 2119 | 738 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2075 | 730 | 
 | 2023-02-04 | 2072 | 730 | 
 | 2023-02-03 | 2070 | 730 | 
-| 2023-02-02 | 2070 | 728 | 
 

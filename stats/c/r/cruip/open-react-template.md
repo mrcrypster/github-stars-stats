@@ -1,10 +1,10 @@
 # cruip/open-react-template - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1158
+☋ Forks: 1160
 
-★ Stars: 2487
+★ Stars: 2488
 
 [Open repository](https://github.com/cruip/open-react-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2488 | 1160 | 
 | 2023-03-03 | 2487 | 1158 | 
 | 2023-03-02 | 2486 | 1158 | 
 | 2023-03-01 | 2482 | 1157 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 2442 | 1131 | 
 | 2023-02-04 | 2442 | 1129 | 
 | 2023-02-03 | 2442 | 1129 | 
-| 2023-02-02 | 2440 | 1126 | 
 

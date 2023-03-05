@@ -1,10 +1,10 @@
 # pvieito/PythonKit - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 135
 
-★ Stars: 1273
+★ Stars: 1275
 
 [Open repository](https://github.com/pvieito/PythonKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1275 | 135 | 
 | 2023-03-03 | 1273 | 135 | 
 | 2023-03-02 | 1273 | 136 | 
 | 2023-02-28 | 1272 | 135 | 

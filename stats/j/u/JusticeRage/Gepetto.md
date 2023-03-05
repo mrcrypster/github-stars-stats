@@ -1,10 +1,10 @@
 # JusticeRage/Gepetto - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 177
+☋ Forks: 180
 
-★ Stars: 1900
+★ Stars: 1911
 
 [Open repository](https://github.com/JusticeRage/Gepetto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1911 | 180 | 
 | 2023-03-02 | 1900 | 177 | 
 | 2023-03-01 | 1894 | 175 | 
 | 2023-02-28 | 1884 | 175 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-06 | 1812 | 164 | 
 | 2023-02-04 | 1811 | 164 | 
 | 2023-02-03 | 1812 | 164 | 
-| 2023-02-02 | 1811 | 163 | 
 

@@ -1,10 +1,10 @@
 # rads/bbin - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 92
+★ Stars: 94
 
 [Open repository](https://github.com/rads/bbin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 94 | 5 | 
 | 2023-03-03 | 92 | 5 | 
 | 2023-03-02 | 92 | 5 | 
 | 2023-03-01 | 90 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 85 | 5 | 
 | 2023-02-04 | 85 | 5 | 
 | 2023-02-03 | 85 | 5 | 
-| 2023-02-02 | 85 | 5 | 
 

@@ -1,8 +1,8 @@
 # cbxxacademy/RocketGenesisCollaboration - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | - | 2 | 
 | 2023-03-03 | - | 1 | 
 | 2023-03-02 | - | 1 | 
 | 2023-03-01 | - | 1 | 

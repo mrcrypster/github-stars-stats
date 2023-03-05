@@ -1,10 +1,10 @@
 # dunwu/nginx-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 517
 
-★ Stars: 3096
+★ Stars: 3102
 
 [Open repository](https://github.com/dunwu/nginx-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 3102 | 517 | 
 | 2023-03-03 | 3096 | 517 | 
 | 2023-03-02 | 3095 | 518 | 
 | 2023-03-01 | 3089 | 516 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 3009 | 505 | 
 | 2023-02-04 | 3009 | 505 | 
 | 2023-02-03 | 3010 | 504 | 
-| 2023-02-02 | 3005 | 504 | 
 

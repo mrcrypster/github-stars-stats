@@ -1,8 +1,8 @@
 # alextselegidis/easyappointments - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1037
+☋ Forks: 1038
 
 ★ Stars: 2575
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2575 | 1038 | 
 | 2023-03-02 | 2575 | 1037 | 
 | 2023-03-01 | 2574 | 1037 | 
 | 2023-02-28 | 2571 | 1036 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2538 | 1034 | 
 | 2023-02-04 | 2535 | 1034 | 
 | 2023-02-03 | 2534 | 1034 | 
-| 2023-02-02 | 2529 | 1034 | 
 

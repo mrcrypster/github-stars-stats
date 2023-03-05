@@ -1,10 +1,10 @@
 # amirdew/CollectionViewPagingLayout - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 242
 
-★ Stars: 2250
+★ Stars: 2251
 
 [Open repository](https://github.com/amirdew/CollectionViewPagingLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 2251 | 242 | 
 | 2023-03-02 | 2250 | 242 | 
 | 2023-03-01 | 2248 | 241 | 
 | 2023-02-28 | 2246 | 241 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 2213 | 238 | 
 | 2023-02-04 | 2213 | 238 | 
 | 2023-02-03 | 2213 | 238 | 
-| 2023-02-02 | 2212 | 238 | 
 

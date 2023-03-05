@@ -1,10 +1,10 @@
 # civitai/civitai - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 111
+☋ Forks: 114
 
-★ Stars: 1409
+★ Stars: 1442
 
 [Open repository](https://github.com/civitai/civitai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1442 | 114 | 
 | 2023-03-03 | 1409 | 111 | 
 | 2023-03-02 | 1354 | 105 | 
 | 2023-03-01 | 1287 | 105 | 

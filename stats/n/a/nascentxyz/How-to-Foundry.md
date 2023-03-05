@@ -1,10 +1,10 @@
 # nascentxyz/How-to-Foundry - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/nascentxyz/How-to-Foundry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 67 | 1 | 
 | 2023-03-03 | 65 | 1 | 
 | 2023-03-02 | 65 | 1 | 
 | 2023-03-01 | 66 | 1 | 

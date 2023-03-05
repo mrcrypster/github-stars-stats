@@ -1,10 +1,10 @@
 # zee-editor/zee - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 33
 
-★ Stars: 1260
+★ Stars: 1261
 
 [Open repository](https://github.com/zee-editor/zee)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1261 | 33 | 
 | 2023-03-03 | 1260 | 33 | 
 | 2023-03-02 | 1260 | 33 | 
 | 2023-03-01 | 1261 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1229 | 33 | 
 | 2023-02-04 | 1223 | 33 | 
 | 2023-02-03 | 1223 | 33 | 
-| 2023-02-02 | 1223 | 33 | 
 

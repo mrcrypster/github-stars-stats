@@ -1,10 +1,10 @@
 # drivendata/cookiecutter-data-science - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 2089
 
-★ Stars: 6535
+★ Stars: 6536
 
 [Open repository](https://github.com/drivendata/cookiecutter-data-science)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 6536 | 2089 | 
 | 2023-03-03 | 6535 | 2089 | 
 | 2023-03-02 | 6532 | 2087 | 
 | 2023-03-01 | 6529 | 2085 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 6469 | 2057 | 
 | 2023-02-04 | 6467 | 2057 | 
 | 2023-02-03 | 6464 | 2056 | 
-| 2023-02-02 | 6458 | 2055 | 
 

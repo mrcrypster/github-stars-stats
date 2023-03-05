@@ -1,6 +1,6 @@
 # JhumanJ/OpnForm - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 887 | 86 | 
 | 2023-03-03 | 887 | 86 | 
 | 2023-03-02 | 882 | 86 | 
 | 2023-03-01 | 882 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 860 | 80 | 
 | 2023-02-04 | 860 | 81 | 
 | 2023-02-03 | 860 | 80 | 
-| 2023-02-02 | 856 | 80 | 
 

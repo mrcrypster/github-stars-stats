@@ -1,8 +1,8 @@
 # databricks-academy/apache-spark-programming-with-databricks - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 281
+☋ Forks: 282
 
 ★ Stars: 229
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 229 | 282 | 
 | 2023-03-03 | 229 | 281 | 
 | 2023-03-02 | 229 | 281 | 
 | 2023-03-01 | 228 | 281 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 216 | 268 | 
 | 2023-02-04 | 216 | 268 | 
 | 2023-02-03 | 216 | 267 | 
-| 2023-02-02 | 216 | 267 | 
 

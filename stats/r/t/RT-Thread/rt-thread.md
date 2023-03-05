@@ -1,10 +1,10 @@
 # RT-Thread/rt-thread - stars & forks statistics
 
-Stats updated on Mar 2023, 02
+Stats updated on Mar 2023, 04
 
-☋ Forks: 4301
+☋ Forks: 4303
 
-★ Stars: 8026
+★ Stars: 8028
 
 [Open repository](https://github.com/RT-Thread/rt-thread)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 8028 | 4303 | 
 | 2023-03-02 | 8026 | 4301 | 
 | 2023-03-01 | 8023 | 4299 | 
 | 2023-02-28 | 8021 | 4296 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 02
 | 2023-02-05 | 7914 | 4258 | 
 | 2023-02-04 | 7912 | 4260 | 
 | 2023-02-03 | 7908 | 4260 | 
-| 2023-02-02 | 7906 | 4257 | 
 

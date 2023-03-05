@@ -1,10 +1,10 @@
 # Nixtla/neuralforecast - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 119
+☋ Forks: 120
 
-★ Stars: 1239
+★ Stars: 1242
 
 [Open repository](https://github.com/Nixtla/neuralforecast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 1242 | 120 | 
 | 2023-03-03 | 1239 | 119 | 
 | 2023-03-01 | 1235 | 119 | 
 | 2023-02-28 | 1230 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 1172 | 109 | 
 | 2023-02-04 | 1172 | 109 | 
 | 2023-02-03 | 1172 | 109 | 
-| 2023-02-02 | 1169 | 109 | 
 

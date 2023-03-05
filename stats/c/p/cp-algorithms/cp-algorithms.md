@@ -1,10 +1,10 @@
 # cp-algorithms/cp-algorithms - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 04
 
-☋ Forks: 1016
+☋ Forks: 1018
 
-★ Stars: 4286
+★ Stars: 4290
 
 [Open repository](https://github.com/cp-algorithms/cp-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-04 | 4290 | 1018 | 
 | 2023-03-03 | 4286 | 1016 | 
 | 2023-03-02 | 4282 | 1013 | 
 | 2023-03-01 | 4280 | 1012 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-05 | 4154 | 985 | 
 | 2023-02-04 | 4144 | 984 | 
 | 2023-02-03 | 4139 | 982 | 
-| 2023-02-02 | 4136 | 980 | 
 
