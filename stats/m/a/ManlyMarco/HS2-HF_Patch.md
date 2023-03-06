@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 18
 
-★ Stars: 96
+★ Stars: 95
 
 [Open repository](https://github.com/ManlyMarco/HS2-HF_Patch)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 96 | 18 | 
+| 2023-03-05 | 95 | 18 | 
 | 2023-03-03 | 96 | 18 | 
 | 2023-03-02 | 96 | 18 | 
 | 2023-03-01 | 96 | 18 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-06 | 94 | 17 | 
 | 2023-02-05 | 94 | 16 | 
 | 2023-02-04 | 94 | 16 | 
-| 2023-02-03 | 94 | 16 | 
 

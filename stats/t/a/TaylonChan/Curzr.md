@@ -1,10 +1,10 @@
 # TaylonChan/Curzr - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 4
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/TaylonChan/Curzr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 141 | 4 | 
 | 2023-03-03 | 140 | 4 | 
 | 2023-03-02 | 140 | 4 | 
 | 2023-03-01 | 138 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 136 | 6 | 
 | 2023-02-05 | 136 | 6 | 
 | 2023-02-04 | 136 | 6 | 
-| 2023-02-03 | 136 | 6 | 
 

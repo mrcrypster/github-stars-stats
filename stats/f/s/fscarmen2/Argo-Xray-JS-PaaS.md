@@ -1,10 +1,10 @@
 # fscarmen2/Argo-Xray-JS-PaaS - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/fscarmen2/Argo-Xray-JS-PaaS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 42 | 57 | 
 | 2023-03-04 | 41 | 56 | 
 | 2023-03-03 | 39 | 55 | 
 | 2023-03-02 | 38 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 33 | 46 | 
 | 2023-02-05 | 33 | 43 | 
 | 2023-02-04 | 33 | 43 | 
-| 2023-02-03 | 32 | 42 | 
 

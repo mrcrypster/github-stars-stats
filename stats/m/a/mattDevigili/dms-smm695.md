@@ -1,6 +1,6 @@
 # mattDevigili/dms-smm695 - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 43 | 38 | 
 | 2023-03-04 | 43 | 38 | 
 | 2023-03-02 | 43 | 38 | 
 | 2023-03-01 | 43 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 43 | 38 | 
 | 2023-02-05 | 43 | 38 | 
 | 2023-02-04 | 43 | 38 | 
-| 2023-02-03 | 43 | 38 | 
 

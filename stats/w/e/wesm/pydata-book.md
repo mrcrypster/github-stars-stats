@@ -1,10 +1,10 @@
 # wesm/pydata-book - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 14016
+☋ Forks: 14019
 
-★ Stars: 18959
+★ Stars: 18963
 
 [Open repository](https://github.com/wesm/pydata-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 18963 | 14019 | 
 | 2023-03-04 | 18959 | 14016 | 
 | 2023-03-03 | 18952 | 14014 | 
 | 2023-03-02 | 18942 | 14008 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 18778 | 13927 | 
 | 2023-02-05 | 18771 | 13923 | 
 | 2023-02-04 | 18768 | 13920 | 
-| 2023-02-03 | 18763 | 13915 | 
 

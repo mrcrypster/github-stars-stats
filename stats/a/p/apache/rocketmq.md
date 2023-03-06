@@ -1,10 +1,10 @@
 # apache/rocketmq - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 10593
+☋ Forks: 10596
 
-★ Stars: 18810
+★ Stars: 18814
 
 [Open repository](https://github.com/apache/rocketmq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 18814 | 10596 | 
 | 2023-03-04 | 18810 | 10593 | 
 | 2023-03-03 | 18808 | 10594 | 
 | 2023-03-02 | 18801 | 10590 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 18662 | 10507 | 
 | 2023-02-05 | 18657 | 10502 | 
 | 2023-02-04 | 18656 | 10501 | 
-| 2023-02-03 | 18649 | 10503 | 
 

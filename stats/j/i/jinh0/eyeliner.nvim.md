@@ -1,10 +1,10 @@
 # jinh0/eyeliner.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 7
 
-★ Stars: 168
+★ Stars: 167
 
 [Open repository](https://github.com/jinh0/eyeliner.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 167 | 7 | 
 | 2023-03-04 | 168 | 7 | 
 | 2023-03-03 | 168 | 7 | 
 | 2023-03-02 | 168 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 164 | 7 | 
 | 2023-02-05 | 164 | 7 | 
 | 2023-02-04 | 163 | 7 | 
-| 2023-02-03 | 163 | 7 | 
 

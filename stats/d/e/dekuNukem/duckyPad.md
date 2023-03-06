@@ -1,6 +1,6 @@
 # dekuNukem/duckyPad - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 964 | 150 | 
 | 2023-03-04 | 964 | 150 | 
 | 2023-03-03 | 966 | 150 | 
 | 2023-03-02 | 965 | 150 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 936 | 146 | 
 | 2023-02-05 | 935 | 145 | 
 | 2023-02-04 | 935 | 144 | 
-| 2023-02-03 | 933 | 144 | 
 

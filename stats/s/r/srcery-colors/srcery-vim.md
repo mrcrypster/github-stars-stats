@@ -1,6 +1,6 @@
 # srcery-colors/srcery-vim - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 744 | 62 | 
 | 2023-03-04 | 744 | 62 | 
 | 2023-03-03 | 744 | 62 | 
 | 2023-03-02 | 744 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 737 | 61 | 
 | 2023-02-05 | 737 | 61 | 
 | 2023-02-04 | 737 | 61 | 
-| 2023-02-03 | 737 | 61 | 
 

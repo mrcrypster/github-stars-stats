@@ -1,10 +1,10 @@
 # kshenoy/vim-signature - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 74
 
-★ Stars: 1327
+★ Stars: 1326
 
 [Open repository](https://github.com/kshenoy/vim-signature)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1326 | 74 | 
+| 2023-03-05 | 1327 | 74 | 
 | 2023-03-04 | 1327 | 74 | 
 | 2023-03-03 | 1327 | 74 | 
 | 2023-03-02 | 1327 | 74 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 1320 | 74 | 
 | 2023-02-06 | 1320 | 74 | 
 | 2023-02-05 | 1319 | 73 | 
-| 2023-02-04 | 1319 | 73 | 
 

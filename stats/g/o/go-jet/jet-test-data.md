@@ -1,6 +1,6 @@
 # go-jet/jet-test-data - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 3 | 4 | 
 | 2023-03-03 | 3 | 4 | 
 | 2023-03-02 | 3 | 4 | 
 | 2023-03-01 | 3 | 4 | 

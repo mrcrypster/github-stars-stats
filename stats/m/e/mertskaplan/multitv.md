@@ -1,10 +1,10 @@
 # mertskaplan/multitv - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 9
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/mertskaplan/multitv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 31 | 9 | 
 | 2023-03-04 | 30 | 9 | 
 | 2023-03-03 | 30 | 8 | 
 | 2023-03-02 | 28 | 8 | 

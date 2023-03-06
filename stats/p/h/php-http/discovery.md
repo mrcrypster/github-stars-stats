@@ -1,6 +1,6 @@
 # php-http/discovery - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1117 | 39 | 
 | 2023-03-04 | 1117 | 39 | 
 | 2023-03-02 | 1116 | 39 | 
 | 2023-03-01 | 1116 | 39 | 

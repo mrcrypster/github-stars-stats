@@ -1,10 +1,10 @@
 # open-meteo/open-meteo - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 42
 
-★ Stars: 808
+★ Stars: 814
 
 [Open repository](https://github.com/open-meteo/open-meteo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 814 | 42 | 
 | 2023-03-04 | 808 | 42 | 
 | 2023-03-03 | 804 | 42 | 
 | 2023-03-02 | 804 | 42 | 

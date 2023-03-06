@@ -1,10 +1,10 @@
 # liriliri/eruda - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 1029
 
-★ Stars: 13713
+★ Stars: 13714
 
 [Open repository](https://github.com/liriliri/eruda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 13714 | 1029 | 
 | 2023-03-04 | 13713 | 1029 | 
 | 2023-03-03 | 13713 | 1029 | 
 | 2023-03-02 | 13706 | 1029 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 13588 | 1025 | 
 | 2023-02-06 | 13585 | 1025 | 
 | 2023-02-04 | 13582 | 1025 | 
-| 2023-02-03 | 13582 | 1026 | 
 

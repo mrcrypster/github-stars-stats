@@ -1,10 +1,10 @@
 # OpenAPITools/openapi-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 5051
+☋ Forks: 5052
 
-★ Stars: 15465
+★ Stars: 15475
 
 [Open repository](https://github.com/OpenAPITools/openapi-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 15475 | 5052 | 
 | 2023-03-04 | 15465 | 5051 | 
 | 2023-03-03 | 15462 | 5050 | 
 | 2023-03-02 | 15454 | 5046 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 15156 | 4955 | 
 | 2023-02-06 | 15138 | 4955 | 
 | 2023-02-05 | 15127 | 4952 | 
-| 2023-02-04 | 15123 | 4953 | 
 

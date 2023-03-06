@@ -1,10 +1,10 @@
 # RandomCoderOrg/ubuntu-on-android - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 72
 
-★ Stars: 763
+★ Stars: 764
 
 [Open repository](https://github.com/RandomCoderOrg/ubuntu-on-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 764 | 72 | 
 | 2023-03-03 | 763 | 72 | 
 | 2023-03-02 | 761 | 72 | 
 | 2023-03-01 | 759 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 731 | 73 | 
 | 2023-02-05 | 732 | 73 | 
 | 2023-02-04 | 732 | 72 | 
-| 2023-02-03 | 732 | 72 | 
 

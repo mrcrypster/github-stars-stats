@@ -1,6 +1,6 @@
 # epinowcast/epinowcast - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 40 | 12 | 
 | 2023-03-04 | 40 | 12 | 
 | 2023-03-03 | 40 | 12 | 
 | 2023-03-02 | 40 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 40 | 12 | 
 | 2023-02-06 | 40 | 12 | 
 | 2023-02-05 | 40 | 12 | 
-| 2023-02-04 | 40 | 12 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 05
 
-☋ Forks: 650
+☋ Forks: 651
 
-★ Stars: 1975
+★ Stars: 1976
 
 [Open repository](https://github.com/JideGuru/FlutterEbookApp)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 1975 | 650 | 
+| 2023-03-05 | 1976 | 651 | 
 | 2023-03-04 | 1975 | 650 | 
 | 2023-03-03 | 1969 | 647 | 
 | 2023-03-02 | 1968 | 647 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-06 | 1934 | 636 | 
 | 2023-02-05 | 1934 | 637 | 
 | 2023-02-04 | 1932 | 636 | 
-| 2023-02-03 | 1929 | 636 | 
 

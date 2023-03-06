@@ -1,10 +1,10 @@
 # Dwarf-Therapist/Dwarf-Therapist - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 52
 
-★ Stars: 527
+★ Stars: 528
 
 [Open repository](https://github.com/Dwarf-Therapist/Dwarf-Therapist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 528 | 52 | 
 | 2023-03-04 | 527 | 52 | 
 | 2023-03-03 | 526 | 52 | 
 | 2023-03-02 | 525 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 498 | 50 | 
 | 2023-02-05 | 494 | 50 | 
 | 2023-02-04 | 493 | 50 | 
-| 2023-02-03 | 491 | 50 | 
 

@@ -1,6 +1,6 @@
 # espressif/esp-nn - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 57 | 10 | 
 | 2023-03-04 | 57 | 10 | 
 | 2023-03-02 | 56 | 10 | 
 | 2023-03-01 | 56 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 55 | 10 | 
 | 2023-02-05 | 55 | 10 | 
 | 2023-02-04 | 55 | 10 | 
-| 2023-02-03 | 55 | 10 | 
 

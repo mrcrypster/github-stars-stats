@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/daaku/dak)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 47 | 1 | 
+| 2023-03-05 | 48 | 1 | 
 | 2023-03-04 | 46 | 1 | 
 | 2023-03-03 | 37 | - | 
 

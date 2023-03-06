@@ -1,10 +1,10 @@
 # lucidrains/muse-maskgit-pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 464
+★ Stars: 466
 
 [Open repository](https://github.com/lucidrains/muse-maskgit-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 466 | 51 | 
 | 2023-03-03 | 464 | 50 | 
 | 2023-03-02 | 461 | 50 | 
 | 2023-03-01 | 461 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 385 | 32 | 
 | 2023-02-05 | 373 | 31 | 
 | 2023-02-04 | 354 | 30 | 
-| 2023-02-03 | 348 | 29 | 
 

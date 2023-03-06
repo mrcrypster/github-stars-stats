@@ -1,10 +1,10 @@
 # unified-naming-convention/NamingStandard - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 28
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/unified-naming-convention/NamingStandard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 33 | 28 | 
 | 2023-03-04 | 32 | 28 | 
 | 2023-03-02 | 32 | 28 | 
 | 2023-03-01 | 32 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 31 | 27 | 
 | 2023-02-05 | 31 | 27 | 
 | 2023-02-04 | 31 | 27 | 
-| 2023-02-03 | 31 | 27 | 
 

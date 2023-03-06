@@ -1,10 +1,10 @@
 # notpeelz/reshade-xhair - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 48
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/notpeelz/reshade-xhair)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 165 | 48 | 
 | 2023-03-03 | 164 | 48 | 
 | 2023-03-02 | 164 | 48 | 
 | 2023-03-01 | 164 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 161 | 48 | 
 | 2023-02-05 | 160 | 48 | 
 | 2023-02-04 | 160 | 48 | 
-| 2023-02-03 | 159 | 48 | 
 

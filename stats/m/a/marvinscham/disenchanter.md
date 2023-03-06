@@ -1,6 +1,6 @@
 # marvinscham/disenchanter - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 67 | 7 | 
 | 2023-03-04 | 67 | 7 | 
 | 2023-03-02 | 67 | 7 | 
 | 2023-03-01 | 67 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 60 | 5 | 
 | 2023-02-05 | 60 | 5 | 
 | 2023-02-04 | 59 | 5 | 
-| 2023-02-03 | 58 | 5 | 
 

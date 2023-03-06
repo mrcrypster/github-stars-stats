@@ -1,10 +1,10 @@
 # hydro-project/rust-sitter - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 11
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/hydro-project/rust-sitter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 438 | 11 | 
 | 2023-03-04 | 437 | 11 | 
 | 2023-03-03 | 437 | 11 | 
 | 2023-03-02 | 435 | 11 | 

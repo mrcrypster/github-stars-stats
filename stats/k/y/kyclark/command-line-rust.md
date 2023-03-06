@@ -1,10 +1,10 @@
 # kyclark/command-line-rust - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 118
+☋ Forks: 117
 
-★ Stars: 738
+★ Stars: 740
 
 [Open repository](https://github.com/kyclark/command-line-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 740 | 117 | 
 | 2023-03-04 | 738 | 118 | 
 | 2023-03-03 | 736 | 119 | 
 | 2023-03-02 | 733 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 694 | 112 | 
 | 2023-02-06 | 692 | 111 | 
 | 2023-02-05 | 688 | 110 | 
-| 2023-02-04 | 686 | 110 | 
 

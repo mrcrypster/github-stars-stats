@@ -1,6 +1,6 @@
 # gnu-enjoyer/ActuallyPortableNim - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 34 | 1 | 
 | 2023-03-04 | 34 | 1 | 
 | 2023-03-03 | 34 | 1 | 
 | 2023-03-01 | 34 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 33 | 1 | 
 | 2023-02-06 | 33 | 1 | 
 | 2023-02-05 | 33 | 1 | 
-| 2023-02-03 | 33 | 1 | 
 

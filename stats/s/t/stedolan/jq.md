@@ -1,10 +1,10 @@
 # stedolan/jq - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1405
+☋ Forks: 1406
 
-★ Stars: 24380
+★ Stars: 24385
 
 [Open repository](https://github.com/stedolan/jq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 24385 | 1406 | 
 | 2023-03-04 | 24380 | 1405 | 
 | 2023-03-02 | 24374 | 1404 | 
 | 2023-03-01 | 24362 | 1403 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 24181 | 1395 | 
 | 2023-02-06 | 24169 | 1394 | 
 | 2023-02-04 | 24163 | 1393 | 
-| 2023-02-03 | 24158 | 1393 | 
 

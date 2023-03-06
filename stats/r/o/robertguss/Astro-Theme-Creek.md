@@ -1,8 +1,8 @@
 # robertguss/Astro-Theme-Creek - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 87 | 41 | 
 | 2023-03-04 | 87 | 40 | 
 | 2023-03-03 | 86 | 39 | 
 | 2023-03-02 | 85 | 39 | 

@@ -1,10 +1,10 @@
 # khuedoan/homelab - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 508
 
-★ Stars: 6650
+★ Stars: 6656
 
 [Open repository](https://github.com/khuedoan/homelab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 6656 | 508 | 
 | 2023-03-04 | 6650 | 508 | 
 | 2023-03-02 | 6644 | 507 | 
 | 2023-03-01 | 6640 | 507 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 6563 | 503 | 
 | 2023-02-05 | 6558 | 503 | 
 | 2023-02-04 | 6555 | 503 | 
-| 2023-02-03 | 6552 | 503 | 
 

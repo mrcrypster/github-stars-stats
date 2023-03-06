@@ -1,10 +1,10 @@
 # ucb-bar/barstools - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 15
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/ucb-bar/barstools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 33 | 15 | 
 | 2023-03-04 | 32 | 15 | 
 | 2023-03-03 | 32 | 15 | 
 | 2023-03-02 | 32 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 30 | 15 | 
 | 2023-02-05 | 30 | 15 | 
 | 2023-02-04 | 30 | 15 | 
-| 2023-02-03 | 30 | 15 | 
 

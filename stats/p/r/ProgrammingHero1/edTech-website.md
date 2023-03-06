@@ -1,10 +1,10 @@
 # ProgrammingHero1/edTech-website - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/ProgrammingHero1/edTech-website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 16 | 6 | 
 | 2023-03-04 | 17 | 6 | 
 | 2023-03-03 | 17 | 6 | 
 | 2023-03-02 | 17 | 6 | 

@@ -1,10 +1,10 @@
 # pfsense/pfsense - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1352
 
-★ Stars: 4081
+★ Stars: 4087
 
 [Open repository](https://github.com/pfsense/pfsense)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 4087 | 1352 | 
 | 2023-03-04 | 4081 | 1352 | 
 | 2023-03-03 | 4081 | 1350 | 
 | 2023-03-02 | 4080 | 1350 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 4030 | 1338 | 
 | 2023-02-05 | 4028 | 1338 | 
 | 2023-02-04 | 4027 | 1338 | 
-| 2023-02-03 | 4026 | 1337 | 
 

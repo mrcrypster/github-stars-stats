@@ -1,10 +1,10 @@
 # wiidev/usbloadergx - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 27
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/wiidev/usbloadergx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 176 | 27 | 
 | 2023-03-04 | 175 | 27 | 
 | 2023-03-03 | 175 | 27 | 
 | 2023-03-02 | 175 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 165 | 25 | 
 | 2023-02-05 | 165 | 25 | 
 | 2023-02-04 | 164 | 25 | 
-| 2023-02-03 | 163 | 25 | 
 

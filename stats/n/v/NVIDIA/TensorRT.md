@@ -1,10 +1,10 @@
 # NVIDIA/TensorRT - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1663
+☋ Forks: 1665
 
-★ Stars: 6685
+★ Stars: 6687
 
 [Open repository](https://github.com/NVIDIA/TensorRT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 6687 | 1665 | 
 | 2023-03-04 | 6685 | 1663 | 
 | 2023-03-03 | 6681 | 1662 | 
 | 2023-03-02 | 6678 | 1661 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 6546 | 1639 | 
 | 2023-02-05 | 6536 | 1634 | 
 | 2023-02-04 | 6532 | 1633 | 
-| 2023-02-03 | 6525 | 1634 | 
 

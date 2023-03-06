@@ -1,8 +1,8 @@
 # ntrdnm1/gettovds - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 343
+☋ Forks: 344
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 6 | 344 | 
 | 2023-03-04 | 6 | 343 | 
 | 2023-03-03 | 6 | 343 | 
 | 2023-03-02 | 6 | 341 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 5 | 321 | 
 | 2023-02-05 | 5 | 319 | 
 | 2023-02-04 | 5 | 317 | 
-| 2023-02-03 | 5 | 317 | 
 

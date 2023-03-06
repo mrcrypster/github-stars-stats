@@ -1,10 +1,10 @@
 # emmett-framework/granian - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 17
 
-★ Stars: 742
+★ Stars: 745
 
 [Open repository](https://github.com/emmett-framework/granian)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 745 | 17 | 
 | 2023-03-04 | 742 | 17 | 
 | 2023-03-02 | 741 | 16 | 
 | 2023-03-01 | 739 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 726 | 15 | 
 | 2023-02-05 | 724 | 15 | 
 | 2023-02-04 | 722 | 15 | 
-| 2023-02-03 | 720 | 16 | 
 

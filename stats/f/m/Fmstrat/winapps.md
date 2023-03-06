@@ -1,10 +1,10 @@
 # Fmstrat/winapps - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 356
+☋ Forks: 357
 
-★ Stars: 7082
+★ Stars: 7086
 
 [Open repository](https://github.com/Fmstrat/winapps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 7086 | 357 | 
 | 2023-03-03 | 7082 | 356 | 
 | 2023-03-02 | 7080 | 356 | 
 | 2023-03-01 | 7077 | 356 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 7010 | 351 | 
 | 2023-02-05 | 7007 | 350 | 
 | 2023-02-04 | 7006 | 350 | 
-| 2023-02-03 | 7003 | 350 | 
 

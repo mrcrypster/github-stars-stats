@@ -1,10 +1,10 @@
 # GsDrunkestDriver/funkin-buttplug - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 3
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/GsDrunkestDriver/funkin-buttplug)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 23 | 3 | 
 | 2023-03-04 | 22 | 3 | 
 | 2023-03-03 | 22 | 3 | 
 | 2023-03-01 | 21 | 3 | 

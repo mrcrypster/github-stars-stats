@@ -1,10 +1,10 @@
 # dafthack/MFASweep - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 120
 
-★ Stars: 823
+★ Stars: 824
 
 [Open repository](https://github.com/dafthack/MFASweep)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 824 | 120 | 
 | 2023-03-04 | 823 | 120 | 
 | 2023-03-02 | 823 | 120 | 
 | 2023-03-01 | 822 | 120 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 804 | 117 | 
 | 2023-02-05 | 803 | 117 | 
 | 2023-02-04 | 803 | 117 | 
-| 2023-02-03 | 803 | 117 | 
 

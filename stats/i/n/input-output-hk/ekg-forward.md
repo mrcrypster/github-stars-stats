@@ -1,6 +1,6 @@
 # input-output-hk/ekg-forward - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 6 | 9 | 
 | 2023-03-04 | 6 | 9 | 
 | 2023-03-03 | 6 | 9 | 
 | 2023-03-02 | 6 | 9 | 

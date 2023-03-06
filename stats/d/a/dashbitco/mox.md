@@ -1,10 +1,10 @@
 # dashbitco/mox - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 69
 
-★ Stars: 1167
+★ Stars: 1166
 
 [Open repository](https://github.com/dashbitco/mox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1166 | 69 | 
 | 2023-03-04 | 1167 | 69 | 
 | 2023-03-03 | 1166 | 69 | 
 | 2023-03-02 | 1166 | 69 | 

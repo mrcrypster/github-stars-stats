@@ -1,10 +1,10 @@
 # cross-domain-compositing/cross-domain-compositing - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 82
+★ Stars: 84
 
 [Open repository](https://github.com/cross-domain-compositing/cross-domain-compositing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 84 | 7 | 
 | 2023-03-04 | 82 | 6 | 
 | 2023-03-03 | 81 | 6 | 
 | 2023-03-02 | 80 | 6 | 

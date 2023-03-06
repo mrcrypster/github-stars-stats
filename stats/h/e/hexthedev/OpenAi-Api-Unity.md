@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 48
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/hexthedev/OpenAi-Api-Unity)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 162 | 48 | 
+| 2023-03-05 | 163 | 48 | 
 | 2023-03-04 | 160 | 48 | 
 

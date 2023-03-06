@@ -1,6 +1,6 @@
 # hiteshchoudhary/React-native-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 36 | 13 | 
 | 2023-03-03 | 36 | 13 | 
 | 2023-03-02 | 36 | 13 | 
 | 2023-03-01 | 36 | 13 | 

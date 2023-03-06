@@ -1,10 +1,10 @@
 # hackclub/dns - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 190
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/hackclub/dns)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 87 | 190 | 
 | 2023-03-04 | 86 | 190 | 
 | 2023-03-03 | 86 | 189 | 
 | 2023-03-02 | 85 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 81 | 182 | 
 | 2023-02-05 | 81 | 182 | 
 | 2023-02-04 | 81 | 181 | 
-| 2023-02-03 | 81 | 181 | 
 

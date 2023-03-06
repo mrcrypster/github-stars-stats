@@ -1,6 +1,6 @@
 # bootsie123/F1-Web-Viewer - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 151 | 28 | 
 | 2023-03-04 | 151 | 28 | 
 | 2023-03-03 | 150 | 28 | 
 | 2023-03-02 | 150 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 148 | 27 | 
 | 2023-02-05 | 148 | 27 | 
 | 2023-02-04 | 148 | 27 | 
-| 2023-02-03 | 148 | 27 | 
 

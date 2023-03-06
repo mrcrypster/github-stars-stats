@@ -1,10 +1,10 @@
 # windows-powertool/Powertool - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 18
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/windows-powertool/Powertool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 224 | 18 | 
 | 2023-03-04 | 223 | 18 | 
 | 2023-03-03 | 222 | 18 | 
 | 2023-03-01 | 222 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 220 | 17 | 
 | 2023-02-05 | 220 | 17 | 
 | 2023-02-04 | 219 | 17 | 
-| 2023-02-03 | 219 | 17 | 
 

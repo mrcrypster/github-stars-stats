@@ -1,10 +1,10 @@
 # hwdsl2/wireguard-install - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 219
+★ Stars: 221
 
 [Open repository](https://github.com/hwdsl2/wireguard-install)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 221 | 83 | 
 | 2023-03-04 | 219 | 82 | 
 | 2023-03-03 | 218 | 82 | 
 | 2023-03-01 | 217 | 80 | 

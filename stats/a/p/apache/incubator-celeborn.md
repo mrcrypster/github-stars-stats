@@ -1,10 +1,10 @@
 # apache/incubator-celeborn - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 140
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/apache/incubator-celeborn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 366 | 140 | 
 | 2023-03-03 | 365 | 140 | 
 | 2023-03-02 | 364 | 139 | 
 | 2023-03-01 | 363 | 139 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 343 | 126 | 
 | 2023-02-05 | 343 | 126 | 
 | 2023-02-04 | 343 | 126 | 
-| 2023-02-03 | 341 | 126 | 
 

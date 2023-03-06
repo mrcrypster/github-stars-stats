@@ -1,10 +1,10 @@
 # cmu-db/bustub - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1249
+☋ Forks: 1252
 
-★ Stars: 2319
+★ Stars: 2325
 
 [Open repository](https://github.com/cmu-db/bustub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2325 | 1252 | 
 | 2023-03-04 | 2319 | 1249 | 
 | 2023-03-03 | 2315 | 1248 | 
 | 2023-03-02 | 2312 | 1246 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 2223 | 1222 | 
 | 2023-02-05 | 2217 | 1215 | 
 | 2023-02-04 | 2214 | 1213 | 
-| 2023-02-03 | 2209 | 1212 | 
 

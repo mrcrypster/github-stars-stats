@@ -1,6 +1,6 @@
 # apache/lucene - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 660
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1524 | 660 | 
 | 2023-03-04 | 1524 | 660 | 
 | 2023-03-02 | 1523 | 658 | 
 | 2023-03-01 | 1522 | 659 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 1473 | 636 | 
 | 2023-02-05 | 1472 | 635 | 
 | 2023-02-04 | 1472 | 635 | 
-| 2023-02-03 | 1470 | 635 | 
 

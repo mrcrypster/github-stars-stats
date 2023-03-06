@@ -1,6 +1,6 @@
 # lacework/terraform-aws-eks-audit-log - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 3 | 4 | 
 | 2023-03-04 | 3 | 4 | 
 | 2023-03-02 | 3 | 3 | 
 | 2023-03-01 | 3 | 3 | 

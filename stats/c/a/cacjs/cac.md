@@ -1,10 +1,10 @@
 # cacjs/cac - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 102
 
-★ Stars: 2201
+★ Stars: 2204
 
 [Open repository](https://github.com/cacjs/cac)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2204 | 102 | 
 | 2023-03-04 | 2201 | 102 | 
 | 2023-03-03 | 2197 | 102 | 
 | 2023-03-02 | 2194 | 102 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 2108 | 102 | 
 | 2023-02-06 | 2107 | 102 | 
 | 2023-02-05 | 2105 | 102 | 
-| 2023-02-04 | 2104 | 102 | 
 

@@ -1,10 +1,10 @@
 # bazelbuild/rules_testing - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 1
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/bazelbuild/rules_testing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 11 | 1 | 
 | 2023-03-03 | 10 | 1 | 
 | 2023-03-02 | 10 | 1 | 
 | 2023-03-01 | 10 | 1 | 

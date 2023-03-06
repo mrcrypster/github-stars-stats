@@ -1,10 +1,10 @@
 # xHak9x/SocialPhish - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 417
+☋ Forks: 418
 
-★ Stars: 945
+★ Stars: 946
 
 [Open repository](https://github.com/xHak9x/SocialPhish)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 946 | 418 | 
 | 2023-03-04 | 945 | 417 | 
 | 2023-03-02 | 943 | 417 | 
 | 2023-03-01 | 943 | 417 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 929 | 416 | 
 | 2023-02-05 | 927 | 416 | 
 | 2023-02-04 | 927 | 416 | 
-| 2023-02-03 | 929 | 416 | 
 

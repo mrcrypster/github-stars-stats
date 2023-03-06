@@ -1,6 +1,6 @@
 # FlowFans/web3jam-2022-summer - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 11 | 26 | 
 | 2023-03-03 | 11 | 26 | 
 | 2023-03-02 | 11 | 26 | 
 | 2023-03-01 | 11 | 26 | 

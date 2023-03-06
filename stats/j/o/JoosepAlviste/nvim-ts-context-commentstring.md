@@ -1,10 +1,10 @@
 # JoosepAlviste/nvim-ts-context-commentstring - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 16
 
-★ Stars: 731
+★ Stars: 732
 
 [Open repository](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 732 | 16 | 
 | 2023-03-04 | 731 | 16 | 
 | 2023-03-03 | 731 | 15 | 
 | 2023-03-02 | 730 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 712 | 15 | 
 | 2023-02-05 | 710 | 15 | 
 | 2023-02-04 | 709 | 14 | 
-| 2023-02-03 | 709 | 14 | 
 

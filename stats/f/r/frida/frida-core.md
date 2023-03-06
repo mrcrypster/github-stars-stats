@@ -1,6 +1,6 @@
 # frida/frida-core - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 506 | 155 | 
 | 2023-03-04 | 506 | 155 | 
 | 2023-03-03 | 506 | 154 | 
 | 2023-03-02 | 506 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 506 | 151 | 
 | 2023-02-05 | 506 | 151 | 
 | 2023-02-04 | 506 | 151 | 
-| 2023-02-03 | 506 | 151 | 
 

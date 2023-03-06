@@ -1,6 +1,6 @@
 # purescript/purescript-exceptions - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 15 | 28 | 
 | 2023-03-03 | 15 | 28 | 
 | 2023-03-02 | 15 | 28 | 
 | 2023-03-01 | 15 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 15 | 28 | 
 | 2023-02-05 | 15 | 28 | 
 | 2023-02-04 | 15 | 28 | 
-| 2023-02-03 | 15 | 28 | 
 

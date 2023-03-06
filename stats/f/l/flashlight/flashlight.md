@@ -1,8 +1,8 @@
 # flashlight/flashlight - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 455
+☋ Forks: 456
 
 ★ Stars: 4728
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 4728 | 456 | 
 | 2023-03-04 | 4728 | 455 | 
 | 2023-03-03 | 4728 | 455 | 
 | 2023-03-02 | 4727 | 454 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 4711 | 450 | 
 | 2023-02-05 | 4711 | 450 | 
 | 2023-02-04 | 4710 | 450 | 
-| 2023-02-03 | 4708 | 450 | 
 

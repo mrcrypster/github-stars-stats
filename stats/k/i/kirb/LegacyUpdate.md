@@ -1,10 +1,10 @@
 # kirb/LegacyUpdate - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 17
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/kirb/LegacyUpdate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 343 | 17 | 
 | 2023-03-04 | 342 | 17 | 
 | 2023-03-02 | 340 | 17 | 
 | 2023-03-01 | 339 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 316 | 13 | 
 | 2023-02-05 | 316 | 13 | 
 | 2023-02-04 | 314 | 13 | 
-| 2023-02-03 | 314 | 13 | 
 

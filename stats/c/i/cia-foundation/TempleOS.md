@@ -1,6 +1,6 @@
 # cia-foundation/TempleOS - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2084 | 228 | 
 | 2023-03-04 | 2084 | 228 | 
 | 2023-03-03 | 2085 | 228 | 
 | 2023-03-02 | 2083 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 2058 | 224 | 
 | 2023-02-05 | 2056 | 223 | 
 | 2023-02-04 | 2054 | 222 | 
-| 2023-02-03 | 2054 | 222 | 
 

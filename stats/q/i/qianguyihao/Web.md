@@ -1,10 +1,10 @@
 # qianguyihao/Web - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 5873
+☋ Forks: 5875
 
-★ Stars: 22891
+★ Stars: 22896
 
 [Open repository](https://github.com/qianguyihao/Web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 22896 | 5875 | 
 | 2023-03-04 | 22891 | 5873 | 
 | 2023-03-03 | 22882 | 5870 | 
 | 2023-03-02 | 22869 | 5870 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 22677 | 5846 | 
 | 2023-02-05 | 22663 | 5844 | 
 | 2023-02-04 | 22661 | 5843 | 
-| 2023-02-03 | 22651 | 5841 | 
 

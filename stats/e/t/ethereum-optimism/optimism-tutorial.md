@@ -1,10 +1,10 @@
 # ethereum-optimism/optimism-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 166
+☋ Forks: 167
 
-★ Stars: 437
+★ Stars: 439
 
 [Open repository](https://github.com/ethereum-optimism/optimism-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 439 | 167 | 
 | 2023-03-04 | 437 | 166 | 
 | 2023-03-03 | 436 | 166 | 
 | 2023-03-02 | 435 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 401 | 149 | 
 | 2023-02-05 | 401 | 148 | 
 | 2023-02-04 | 399 | 147 | 
-| 2023-02-03 | 399 | 145 | 
 

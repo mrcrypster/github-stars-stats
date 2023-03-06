@@ -1,6 +1,6 @@
 # elixir-image/image - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 181 | 20 | 
 | 2023-03-04 | 181 | 20 | 
 | 2023-03-02 | 181 | 20 | 
 | 2023-03-01 | 178 | 20 | 

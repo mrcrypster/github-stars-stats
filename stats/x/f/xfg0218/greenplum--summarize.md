@@ -1,10 +1,10 @@
 # xfg0218/greenplum--summarize - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 63
 
-★ Stars: 162
+★ Stars: 164
 
 [Open repository](https://github.com/xfg0218/greenplum--summarize)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 164 | 63 | 
 | 2023-03-04 | 162 | 63 | 
 | 2023-03-02 | 162 | 63 | 
 | 2023-03-01 | 161 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 157 | 63 | 
 | 2023-02-05 | 157 | 63 | 
 | 2023-02-04 | 157 | 63 | 
-| 2023-02-03 | 157 | 63 | 
 

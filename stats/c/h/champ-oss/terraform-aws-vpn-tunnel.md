@@ -1,0 +1,17 @@
+# champ-oss/terraform-aws-vpn-tunnel - stars & forks statistics
+
+Stats updated on Mar 2023, 05
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/champ-oss/terraform-aws-vpn-tunnel)
+
+[Open detailed stats for champ-oss/terraform-aws-vpn-tunnel](https://reviewgithub.com/rep/champ-oss/terraform-aws-vpn-tunnel)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-05 | - | - | 
+

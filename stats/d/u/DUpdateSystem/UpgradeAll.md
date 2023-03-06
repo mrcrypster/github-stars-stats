@@ -1,6 +1,6 @@
 # DUpdateSystem/UpgradeAll - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 630 | 18 | 
 | 2023-03-03 | 630 | 18 | 
 | 2023-03-02 | 630 | 18 | 
 | 2023-03-01 | 630 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 620 | 18 | 
 | 2023-02-05 | 613 | 18 | 
 | 2023-02-04 | 614 | 18 | 
-| 2023-02-03 | 611 | 18 | 
 

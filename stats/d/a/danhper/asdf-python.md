@@ -1,6 +1,6 @@
 # danhper/asdf-python - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 486 | 44 | 
 | 2023-03-03 | 486 | 44 | 
 | 2023-03-02 | 486 | 44 | 
 | 2023-03-01 | 486 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 476 | 42 | 
 | 2023-02-05 | 476 | 42 | 
 | 2023-02-04 | 475 | 42 | 
-| 2023-02-03 | 474 | 42 | 
 

@@ -1,10 +1,10 @@
 # rcore-os/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 62
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/rcore-os/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 18 | 62 | 
 | 2023-03-04 | 19 | 62 | 
 | 2023-03-03 | 19 | 62 | 
 | 2023-03-02 | 19 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 17 | 63 | 
 | 2023-02-05 | 17 | 63 | 
 | 2023-02-04 | 17 | 63 | 
-| 2023-02-03 | 17 | 63 | 
 

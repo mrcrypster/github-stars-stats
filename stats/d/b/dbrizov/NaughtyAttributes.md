@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 393
 
-★ Stars: 3549
+★ Stars: 3550
 
 [Open repository](https://github.com/dbrizov/NaughtyAttributes)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 3549 | 393 | 
+| 2023-03-05 | 3550 | 393 | 
 | 2023-03-04 | 3548 | 393 | 
 | 2023-03-03 | 3546 | 391 | 
 | 2023-03-02 | 3518 | 389 | 

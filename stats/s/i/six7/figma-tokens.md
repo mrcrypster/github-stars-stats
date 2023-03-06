@@ -1,10 +1,10 @@
 # six7/figma-tokens - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 154
 
-★ Stars: 1046
+★ Stars: 1045
 
 [Open repository](https://github.com/six7/figma-tokens)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1045 | 154 | 
 | 2023-03-04 | 1046 | 154 | 
 | 2023-03-03 | 1046 | 154 | 
 | 2023-03-02 | 1045 | 154 | 

@@ -1,10 +1,10 @@
 # digoal/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 1743
 
-★ Stars: 7225
+★ Stars: 7232
 
 [Open repository](https://github.com/digoal/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 7232 | 1743 | 
 | 2023-03-04 | 7225 | 1743 | 
 | 2023-03-03 | 7218 | 1742 | 
 | 2023-03-02 | 7191 | 1742 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 7151 | 1730 | 
 | 2023-02-05 | 7149 | 1730 | 
 | 2023-02-04 | 7142 | 1730 | 
-| 2023-02-03 | 7142 | 1730 | 
 

@@ -1,6 +1,6 @@
 # sudofox/shell-mommy - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 297 | 14 | 
 | 2023-03-04 | 297 | 14 | 
 | 2023-03-03 | 297 | 14 | 
 | 2023-03-02 | 295 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 142 | 4 | 
 | 2023-02-05 | 141 | 4 | 
 | 2023-02-04 | 142 | 4 | 
-| 2023-02-03 | 142 | 4 | 
 

@@ -1,10 +1,10 @@
 # getaurora/download - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 89
+☋ Forks: 90
 
-★ Stars: 644
+★ Stars: 650
 
 [Open repository](https://github.com/getaurora/download)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 650 | 90 | 
 | 2023-03-04 | 644 | 89 | 
 | 2023-03-03 | 635 | 89 | 
 | 2023-03-02 | 625 | 89 | 

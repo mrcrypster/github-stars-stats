@@ -1,10 +1,10 @@
 # kezong/fat-aar-android - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 483
 
-★ Stars: 2697
+★ Stars: 2698
 
 [Open repository](https://github.com/kezong/fat-aar-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2698 | 483 | 
 | 2023-03-04 | 2697 | 483 | 
 | 2023-03-03 | 2696 | 483 | 
 | 2023-03-02 | 2695 | 483 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 2665 | 480 | 
 | 2023-02-05 | 2664 | 480 | 
 | 2023-02-04 | 2664 | 480 | 
-| 2023-02-03 | 2663 | 478 | 
 

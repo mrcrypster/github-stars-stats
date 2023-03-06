@@ -1,10 +1,10 @@
 # basildane/WakeOnLAN - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 124
 
-★ Stars: 803
+★ Stars: 804
 
 [Open repository](https://github.com/basildane/WakeOnLAN)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 804 | 124 | 
+| 2023-03-05 | 804 | 124 | 
 | 2023-03-04 | 803 | 124 | 
 | 2023-03-03 | 802 | 124 | 
 | 2023-03-02 | 802 | 124 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 792 | 124 | 
 | 2023-02-05 | 790 | 124 | 
 | 2023-02-04 | 791 | 124 | 
-| 2023-02-03 | 791 | 124 | 
 

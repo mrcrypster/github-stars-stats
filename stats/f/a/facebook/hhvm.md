@@ -1,8 +1,8 @@
 # facebook/hhvm - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 3045
+☋ Forks: 3046
 
 ★ Stars: 17582
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 17582 | 3046 | 
 | 2023-03-03 | 17582 | 3045 | 
 | 2023-03-02 | 17581 | 3045 | 
 | 2023-03-01 | 17580 | 3045 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 17558 | 3042 | 
 | 2023-02-05 | 17554 | 3041 | 
 | 2023-02-04 | 17555 | 3040 | 
-| 2023-02-03 | 17552 | 3039 | 
 

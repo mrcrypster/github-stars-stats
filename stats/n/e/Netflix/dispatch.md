@@ -1,10 +1,10 @@
 # Netflix/dispatch - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 392
 
-★ Stars: 3786
+★ Stars: 3788
 
 [Open repository](https://github.com/Netflix/dispatch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 3788 | 392 | 
 | 2023-03-04 | 3786 | 392 | 
 | 2023-03-02 | 3783 | 392 | 
 | 2023-03-01 | 3779 | 390 | 

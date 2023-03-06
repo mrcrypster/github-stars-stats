@@ -1,10 +1,10 @@
 # cucumber/cucumber.ml - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/cucumber/cucumber.ml)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 25 | 5 | 
 | 2023-03-04 | 24 | 5 | 
 | 2023-03-03 | 24 | 5 | 
 | 2023-03-01 | 24 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 23 | 5 | 
 | 2023-02-06 | 23 | 5 | 
 | 2023-02-05 | 23 | 5 | 
-| 2023-02-04 | 23 | 5 | 
 

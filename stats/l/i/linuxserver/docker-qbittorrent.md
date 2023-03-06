@@ -1,6 +1,6 @@
 # linuxserver/docker-qbittorrent - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 503 | 94 | 
 | 2023-03-04 | 503 | 94 | 
 | 2023-03-03 | 503 | 94 | 
 | 2023-03-02 | 502 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 491 | 89 | 
 | 2023-02-05 | 488 | 90 | 
 | 2023-02-04 | 487 | 90 | 
-| 2023-02-03 | 487 | 91 | 
 

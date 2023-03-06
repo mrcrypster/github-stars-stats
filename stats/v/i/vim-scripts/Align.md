@@ -1,6 +1,6 @@
 # vim-scripts/Align - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 132 | 30 | 
 | 2023-03-03 | 132 | 30 | 
 | 2023-03-02 | 132 | 30 | 
 | 2023-03-01 | 132 | 30 | 

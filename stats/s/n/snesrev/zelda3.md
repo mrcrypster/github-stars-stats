@@ -1,10 +1,10 @@
 # snesrev/zelda3 - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 305
 
-★ Stars: 3565
+★ Stars: 3569
 
 [Open repository](https://github.com/snesrev/zelda3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 3569 | 305 | 
 | 2023-03-03 | 3565 | 305 | 
 | 2023-03-02 | 3557 | 304 | 
 | 2023-03-01 | 3550 | 302 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 2934 | 227 | 
 | 2023-02-05 | 2839 | 215 | 
 | 2023-02-04 | 2792 | 211 | 
-| 2023-02-03 | 2718 | 204 | 
 

@@ -1,10 +1,10 @@
 # Radarr/Radarr - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 823
 
-★ Stars: 7273
+★ Stars: 7277
 
 [Open repository](https://github.com/Radarr/Radarr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 7277 | 823 | 
 | 2023-03-03 | 7273 | 823 | 
 | 2023-03-02 | 7268 | 823 | 
 | 2023-03-01 | 7266 | 824 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 7160 | 816 | 
 | 2023-02-06 | 7154 | 816 | 
 | 2023-02-05 | 7150 | 816 | 
-| 2023-02-03 | 7143 | 815 | 
 

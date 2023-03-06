@@ -1,6 +1,6 @@
 # dubiety/terraform-aws-elasticsearch-cloudwatch-sns-alarms - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 28 | 44 | 
 | 2023-03-04 | 28 | 44 | 
 | 2023-03-02 | 28 | 44 | 
 | 2023-03-01 | 28 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 28 | 44 | 
 | 2023-02-05 | 28 | 44 | 
 | 2023-02-04 | 28 | 44 | 
-| 2023-02-03 | 28 | 44 | 
 

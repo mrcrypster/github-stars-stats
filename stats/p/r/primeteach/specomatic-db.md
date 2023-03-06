@@ -1,10 +1,10 @@
 # primeteach/specomatic-db - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/primeteach/specomatic-db)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 24 | - | 
 | 2023-03-04 | 23 | - | 
 | 2023-03-03 | 23 | - | 
 | 2023-03-02 | 23 | - | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 20 | - | 
 | 2023-02-05 | 20 | - | 
 | 2023-02-04 | 20 | - | 
-| 2023-02-03 | 20 | - | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 05
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 67
 
 [Open repository](https://github.com/xiaoyaocz/dart_simple_live)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 62 | 1 | 
+| 2023-03-05 | 67 | 2 | 
 | 2023-03-04 | 61 | 1 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 63
 
-★ Stars: 342
+★ Stars: 341
 
 [Open repository](https://github.com/sshaw/git-link)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 342 | 63 | 
+| 2023-03-05 | 341 | 63 | 
 | 2023-03-04 | 342 | 63 | 
 | 2023-03-02 | 341 | 63 | 
 | 2023-03-01 | 341 | 63 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 335 | 62 | 
 | 2023-02-06 | 335 | 62 | 
 | 2023-02-05 | 335 | 62 | 
-| 2023-02-04 | 334 | 62 | 
 

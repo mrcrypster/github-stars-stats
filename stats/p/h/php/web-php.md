@@ -1,10 +1,10 @@
 # php/web-php - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 463
 
-★ Stars: 736
+★ Stars: 738
 
 [Open repository](https://github.com/php/web-php)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 738 | 463 | 
 | 2023-03-04 | 736 | 463 | 
 | 2023-03-03 | 737 | 463 | 
 | 2023-03-01 | 736 | 462 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 732 | 464 | 
 | 2023-02-05 | 732 | 464 | 
 | 2023-02-04 | 733 | 464 | 
-| 2023-02-03 | 733 | 464 | 
 

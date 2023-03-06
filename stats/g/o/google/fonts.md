@@ -1,10 +1,10 @@
 # google/fonts - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 2513
+☋ Forks: 2515
 
-★ Stars: 16213
+★ Stars: 16214
 
 [Open repository](https://github.com/google/fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 16214 | 2515 | 
 | 2023-03-04 | 16213 | 2513 | 
 | 2023-03-03 | 16212 | 2511 | 
 | 2023-03-02 | 16209 | 2511 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 16152 | 2494 | 
 | 2023-02-05 | 16149 | 2494 | 
 | 2023-02-04 | 16146 | 2494 | 
-| 2023-02-03 | 16145 | 2493 | 
 

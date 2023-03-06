@@ -1,6 +1,6 @@
 # Workiva/over_react - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 406 | 57 | 
 | 2023-03-04 | 406 | 57 | 
 | 2023-03-03 | 406 | 57 | 
 | 2023-03-02 | 406 | 57 | 

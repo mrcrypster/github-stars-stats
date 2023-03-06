@@ -1,6 +1,6 @@
 # jaredwheeler/as3PointLight - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1 | 2 | 
 | 2023-03-04 | 1 | 2 | 
 | 2023-03-02 | 1 | 2 | 
 | 2023-03-01 | 1 | 2 | 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/SupportArticles-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 667
 
-★ Stars: 86
+★ Stars: 85
 
 [Open repository](https://github.com/MicrosoftDocs/SupportArticles-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 85 | 667 | 
 | 2023-03-04 | 86 | 667 | 
 | 2023-03-03 | 86 | 666 | 
 | 2023-03-02 | 86 | 665 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 84 | 643 | 
 | 2023-02-05 | 84 | 642 | 
 | 2023-02-04 | 84 | 642 | 
-| 2023-02-03 | 84 | 640 | 
 

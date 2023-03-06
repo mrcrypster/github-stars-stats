@@ -1,10 +1,10 @@
 # M17-Project/M17_spec - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 28
 
-★ Stars: 126
+★ Stars: 125
 
 [Open repository](https://github.com/M17-Project/M17_spec)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 125 | 28 | 
 | 2023-03-04 | 126 | 28 | 
 | 2023-03-03 | 126 | 28 | 
 | 2023-03-02 | 126 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 125 | 28 | 
 | 2023-02-05 | 125 | 28 | 
 | 2023-02-04 | 125 | 28 | 
-| 2023-02-03 | 125 | 28 | 
 

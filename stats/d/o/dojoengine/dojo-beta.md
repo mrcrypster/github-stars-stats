@@ -1,6 +1,6 @@
 # dojoengine/dojo-beta - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 84 | 8 | 
 | 2023-03-04 | 84 | 8 | 
 | 2023-03-02 | 83 | 8 | 
 | 2023-03-01 | 82 | 8 | 

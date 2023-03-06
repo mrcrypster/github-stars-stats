@@ -1,6 +1,6 @@
 # emacs-grammarly/lsp-grammarly - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 153 | 8 | 
 | 2023-03-04 | 153 | 8 | 
 | 2023-03-03 | 153 | 8 | 
 | 2023-03-02 | 153 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 154 | 8 | 
 | 2023-02-05 | 154 | 8 | 
 | 2023-02-04 | 154 | 8 | 
-| 2023-02-03 | 154 | 8 | 
 

@@ -1,6 +1,6 @@
 # Zequez/reddit-placebot - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 211 | 86 | 
 | 2023-03-04 | 211 | 86 | 
 | 2023-03-03 | 211 | 86 | 
 | 2023-03-02 | 211 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 211 | 87 | 
 | 2023-02-05 | 211 | 87 | 
 | 2023-02-04 | 211 | 88 | 
-| 2023-02-03 | 211 | 88 | 
 

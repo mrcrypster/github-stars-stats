@@ -1,10 +1,10 @@
 # alexkirsz/dispatch-proxy - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 246
+☋ Forks: 247
 
-★ Stars: 3433
+★ Stars: 3434
 
 [Open repository](https://github.com/alexkirsz/dispatch-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 3434 | 247 | 
 | 2023-03-04 | 3433 | 246 | 
 | 2023-03-02 | 3433 | 246 | 
 | 2023-03-01 | 3433 | 246 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 3429 | 245 | 
 | 2023-02-05 | 3429 | 245 | 
 | 2023-02-04 | 3429 | 245 | 
-| 2023-02-03 | 3429 | 245 | 
 

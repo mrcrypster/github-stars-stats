@@ -1,10 +1,10 @@
 # tokuhirom/akaza - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 197
+★ Stars: 196
 
 [Open repository](https://github.com/tokuhirom/akaza)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 196 | 6 | 
 | 2023-03-03 | 197 | 6 | 
 | 2023-03-02 | 197 | 6 | 
 | 2023-03-01 | 197 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 190 | 6 | 
 | 2023-02-06 | 189 | 6 | 
 | 2023-02-05 | 188 | 6 | 
-| 2023-02-03 | 187 | 6 | 
 

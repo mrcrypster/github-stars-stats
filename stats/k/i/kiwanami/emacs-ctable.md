@@ -1,6 +1,6 @@
 # kiwanami/emacs-ctable - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 204 | 27 | 
 | 2023-03-04 | 204 | 27 | 
 | 2023-03-03 | 204 | 27 | 
 | 2023-03-02 | 203 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 203 | 27 | 
 | 2023-02-05 | 203 | 27 | 
 | 2023-02-04 | 203 | 27 | 
-| 2023-02-03 | 203 | 26 | 
 

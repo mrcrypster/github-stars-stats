@@ -1,6 +1,6 @@
 # wkok/openai-clojure - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 53 | 4 | 
 | 2023-03-03 | 53 | 4 | 
 | 2023-03-02 | 51 | 4 | 
 | 2023-03-01 | 52 | 3 | 

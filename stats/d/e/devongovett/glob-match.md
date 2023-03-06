@@ -1,6 +1,6 @@
 # devongovett/glob-match - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 258 | 9 | 
 | 2023-03-04 | 258 | 9 | 
 | 2023-03-02 | 257 | 9 | 
 | 2023-03-01 | 257 | 9 | 

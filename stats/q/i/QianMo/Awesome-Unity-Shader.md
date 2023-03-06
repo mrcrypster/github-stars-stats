@@ -1,10 +1,10 @@
 # QianMo/Awesome-Unity-Shader - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1006
+☋ Forks: 1008
 
-★ Stars: 3316
+★ Stars: 3319
 
 [Open repository](https://github.com/QianMo/Awesome-Unity-Shader)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3319 | 1008 | 
+| 2023-03-05 | 3319 | 1008 | 
 | 2023-03-04 | 3316 | 1006 | 
 | 2023-03-02 | 3312 | 1006 | 
 | 2023-03-01 | 3309 | 1005 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 3283 | 1000 | 
 | 2023-02-05 | 3281 | 999 | 
 | 2023-02-04 | 3280 | 999 | 
-| 2023-02-03 | 3279 | 999 | 
 

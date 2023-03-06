@@ -1,10 +1,10 @@
 # arc53/DocsGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 161
+☋ Forks: 162
 
-★ Stars: 2949
+★ Stars: 2975
 
 [Open repository](https://github.com/arc53/DocsGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2975 | 162 | 
 | 2023-03-03 | 2949 | 161 | 
 | 2023-03-02 | 2922 | 157 | 
 | 2023-03-01 | 2903 | 155 | 

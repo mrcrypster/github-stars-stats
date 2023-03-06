@@ -1,10 +1,10 @@
 # Dashlane/android-apps - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 18
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/Dashlane/android-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 160 | 18 | 
 | 2023-03-04 | 159 | 18 | 
 | 2023-03-02 | 159 | 18 | 
 | 2023-03-01 | 157 | 17 | 

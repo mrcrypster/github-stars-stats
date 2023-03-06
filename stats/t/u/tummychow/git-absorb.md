@@ -1,6 +1,6 @@
 # tummychow/git-absorb - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1956 | 41 | 
 | 2023-03-04 | 1956 | 41 | 
 | 2023-03-02 | 1954 | 41 | 
 | 2023-03-01 | 1951 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 1917 | 41 | 
 | 2023-02-05 | 1913 | 41 | 
 | 2023-02-04 | 1914 | 41 | 
-| 2023-02-03 | 1914 | 41 | 
 

@@ -1,0 +1,18 @@
+# snowplow/enrich - stars & forks statistics
+
+Stats updated on Mar 2023, 06
+
+☋ Forks: 29
+
+★ Stars: 14
+
+[Open repository](https://github.com/snowplow/enrich)
+
+[Open detailed stats for snowplow/enrich](https://reviewgithub.com/rep/snowplow/enrich)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-06 | 14 | 29 | 
+| 2023-03-05 | 14 | 29 | 
+

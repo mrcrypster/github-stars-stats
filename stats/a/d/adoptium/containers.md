@@ -1,10 +1,10 @@
 # adoptium/containers - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 56
 
-★ Stars: 135
+★ Stars: 134
 
 [Open repository](https://github.com/adoptium/containers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 134 | 56 | 
 | 2023-03-04 | 135 | 56 | 
 | 2023-03-02 | 135 | 56 | 
 | 2023-03-01 | 135 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 131 | 55 | 
 | 2023-02-05 | 130 | 55 | 
 | 2023-02-04 | 130 | 55 | 
-| 2023-02-03 | 129 | 55 | 
 

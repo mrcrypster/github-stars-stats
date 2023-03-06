@@ -1,6 +1,6 @@
 # stacksimplify/terraform-sentinel-policies-azure - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 7 | 169 | 
 | 2023-03-03 | 7 | 169 | 
 | 2023-03-02 | 7 | 169 | 
 | 2023-03-01 | 7 | 169 | 

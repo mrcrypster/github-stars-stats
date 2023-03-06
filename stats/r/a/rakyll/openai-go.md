@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 05
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 226
+★ Stars: 242
 
 [Open repository](https://github.com/rakyll/openai-go)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 226 | 10 | 
+| 2023-03-05 | 242 | 12 | 
 | 2023-03-04 | 223 | 10 | 
 

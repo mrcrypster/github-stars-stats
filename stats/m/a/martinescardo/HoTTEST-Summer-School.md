@@ -1,10 +1,10 @@
 # martinescardo/HoTTEST-Summer-School - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 59
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/martinescardo/HoTTEST-Summer-School)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 216 | 59 | 
 | 2023-03-04 | 215 | 59 | 
 | 2023-03-03 | 215 | 59 | 
 | 2023-03-02 | 213 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 201 | 58 | 
 | 2023-02-05 | 201 | 58 | 
 | 2023-02-04 | 201 | 58 | 
-| 2023-02-03 | 200 | 58 | 
 

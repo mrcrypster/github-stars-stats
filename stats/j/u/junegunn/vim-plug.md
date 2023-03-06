@@ -1,10 +1,10 @@
 # junegunn/vim-plug - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1898
+☋ Forks: 1902
 
-★ Stars: 30664
+★ Stars: 30676
 
 [Open repository](https://github.com/junegunn/vim-plug)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 30676 | 1902 | 
 | 2023-03-04 | 30664 | 1898 | 
 | 2023-03-03 | 30662 | 1897 | 
 | 2023-03-02 | 30644 | 1895 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 30411 | 1877 | 
 | 2023-02-05 | 30407 | 1879 | 
 | 2023-02-04 | 30399 | 1879 | 
-| 2023-02-03 | 30394 | 1879 | 
 

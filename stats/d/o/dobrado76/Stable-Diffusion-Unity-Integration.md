@@ -1,10 +1,10 @@
 # dobrado76/Stable-Diffusion-Unity-Integration - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 9
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/dobrado76/Stable-Diffusion-Unity-Integration)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 54 | 9 | 
 | 2023-03-03 | 53 | 9 | 
 | 2023-03-02 | 50 | 8 | 
 | 2023-03-01 | 49 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 42 | 6 | 
 | 2023-02-05 | 42 | 6 | 
 | 2023-02-04 | 42 | 6 | 
-| 2023-02-03 | 42 | 6 | 
 

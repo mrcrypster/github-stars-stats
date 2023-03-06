@@ -1,8 +1,8 @@
 # ChrisTitusTech/ArchTitus - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 861
+☋ Forks: 860
 
 ★ Stars: 1453
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1453 | 860 | 
 | 2023-03-03 | 1453 | 861 | 
 | 2023-03-02 | 1453 | 861 | 
 | 2023-03-01 | 1453 | 861 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1449 | 870 | 
 | 2023-02-05 | 1450 | 871 | 
 | 2023-02-04 | 1450 | 872 | 
-| 2023-02-03 | 1451 | 872 | 
 

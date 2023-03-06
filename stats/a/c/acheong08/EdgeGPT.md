@@ -1,10 +1,10 @@
 # acheong08/EdgeGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 225
+☋ Forks: 228
 
-★ Stars: 2324
+★ Stars: 2358
 
 [Open repository](https://github.com/acheong08/EdgeGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2358 | 228 | 
 | 2023-03-03 | 2324 | 225 | 
 | 2023-03-02 | 2300 | 220 | 
 | 2023-03-01 | 2271 | 214 | 

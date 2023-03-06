@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 61
 
-★ Stars: 1386
+★ Stars: 1387
 
 [Open repository](https://github.com/emacs-ng/emacs-ng)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 1386 | 61 | 
+| 2023-03-05 | 1387 | 61 | 
 | 2023-03-04 | 1386 | 61 | 
 | 2023-03-03 | 1386 | 61 | 
 | 2023-03-02 | 1383 | 61 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-06 | 1363 | 59 | 
 | 2023-02-05 | 1362 | 59 | 
 | 2023-02-04 | 1361 | 59 | 
-| 2023-02-03 | 1359 | 59 | 
 

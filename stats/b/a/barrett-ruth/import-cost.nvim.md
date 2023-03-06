@@ -1,10 +1,10 @@
 # barrett-ruth/import-cost.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/barrett-ruth/import-cost.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 70 | 2 | 
 | 2023-03-04 | 69 | 2 | 
 | 2023-03-03 | 69 | 2 | 
 | 2023-03-02 | 69 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 66 | 2 | 
 | 2023-02-05 | 65 | 2 | 
 | 2023-02-04 | 65 | 2 | 
-| 2023-02-03 | 65 | 2 | 
 

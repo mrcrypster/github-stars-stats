@@ -1,10 +1,10 @@
 # hmcts/sonarqube-role - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/hmcts/sonarqube-role)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2 | 2 | 
 | 2023-03-04 | 1 | 2 | 
 | 2023-03-03 | 1 | 2 | 
 

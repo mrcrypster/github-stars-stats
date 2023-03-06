@@ -1,10 +1,10 @@
 # runwayml/stable-diffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 206
+☋ Forks: 208
 
-★ Stars: 1947
+★ Stars: 1951
 
 [Open repository](https://github.com/runwayml/stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1951 | 208 | 
 | 2023-03-04 | 1947 | 206 | 
 | 2023-03-03 | 1945 | 205 | 
 | 2023-03-02 | 1938 | 205 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 1797 | 173 | 
 | 2023-02-06 | 1792 | 172 | 
 | 2023-02-05 | 1787 | 171 | 
-| 2023-02-04 | 1784 | 171 | 
 

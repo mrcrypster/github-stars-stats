@@ -1,10 +1,10 @@
 # Cvaniak/NoteSH - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 10
 
-★ Stars: 319
+★ Stars: 328
 
 [Open repository](https://github.com/Cvaniak/NoteSH)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 328 | 10 | 
 | 2023-03-04 | 319 | 10 | 
 | 2023-03-03 | 309 | 10 | 
 

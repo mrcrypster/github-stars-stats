@@ -1,6 +1,6 @@
 # StefanSchippers/xschem_sky130 - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 43 | 10 | 
 | 2023-03-03 | 43 | 10 | 
 | 2023-03-02 | 43 | 10 | 
 | 2023-03-01 | 43 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 42 | 9 | 
 | 2023-02-05 | 42 | 9 | 
 | 2023-02-04 | 42 | 9 | 
-| 2023-02-03 | 42 | 9 | 
 

@@ -1,10 +1,10 @@
 # nix-community/nur-packages-template - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 92
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/nix-community/nur-packages-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 66 | 92 | 
 | 2023-03-04 | 67 | 92 | 
 | 2023-03-02 | 67 | 92 | 
 | 2023-03-01 | 67 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 66 | 91 | 
 | 2023-02-05 | 66 | 91 | 
 | 2023-02-04 | 65 | 91 | 
-| 2023-02-03 | 65 | 91 | 
 

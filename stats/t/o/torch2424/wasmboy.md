@@ -1,10 +1,10 @@
 # torch2424/wasmboy - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 55
 
-★ Stars: 1253
+★ Stars: 1254
 
 [Open repository](https://github.com/torch2424/wasmboy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1254 | 55 | 
 | 2023-03-04 | 1253 | 55 | 
 | 2023-03-03 | 1253 | 54 | 
 | 2023-03-01 | 1252 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 1242 | 56 | 
 | 2023-02-05 | 1241 | 56 | 
 | 2023-02-04 | 1241 | 56 | 
-| 2023-02-03 | 1241 | 56 | 
 

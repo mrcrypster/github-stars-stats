@@ -1,6 +1,6 @@
 # dionisiydk/StateSpecs - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 5 | 7 | 
 | 2023-03-03 | 5 | 7 | 
 | 2023-03-02 | 5 | 7 | 
 | 2023-03-01 | 5 | 7 | 

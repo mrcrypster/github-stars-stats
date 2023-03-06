@@ -1,10 +1,10 @@
 # eval-exec/crazy-theme.el - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/eval-exec/crazy-theme.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 37 | 3 | 
 | 2023-03-03 | 36 | 3 | 
 | 2023-03-02 | 36 | 3 | 
 | 2023-03-01 | 36 | 3 | 

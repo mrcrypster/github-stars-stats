@@ -1,6 +1,6 @@
 # atzedijkstra/macosx-make-standalone - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 8 | 3 | 
 | 2023-03-03 | 8 | 3 | 
 | 2023-03-02 | 8 | 3 | 
 | 2023-03-01 | 8 | 3 | 

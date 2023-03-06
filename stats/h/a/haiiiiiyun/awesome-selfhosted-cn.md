@@ -1,10 +1,10 @@
 # haiiiiiyun/awesome-selfhosted-cn - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 33
 
-★ Stars: 206
+★ Stars: 211
 
 [Open repository](https://github.com/haiiiiiyun/awesome-selfhosted-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 211 | 33 | 
 | 2023-03-04 | 206 | 33 | 
 | 2023-03-03 | 205 | 33 | 
 | 2023-03-02 | 197 | 31 | 

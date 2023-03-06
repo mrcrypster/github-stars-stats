@@ -1,10 +1,10 @@
 # microsoft/PSRule-pipelines - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/microsoft/PSRule-pipelines)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 62 | 18 | 
+| 2023-03-05 | 62 | 18 | 
 | 2023-03-03 | 61 | 18 | 
 | 2023-03-02 | 60 | 18 | 
 | 2023-03-01 | 60 | 18 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 59 | 17 | 
 | 2023-02-05 | 59 | 17 | 
 | 2023-02-04 | 59 | 17 | 
-| 2023-02-03 | 59 | 17 | 
 

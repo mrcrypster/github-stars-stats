@@ -1,6 +1,6 @@
 # turingschool-projects/apollo_14 - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | - | 160 | 
 | 2023-03-03 | - | 160 | 
 | 2023-03-02 | - | 160 | 
 | 2023-03-01 | - | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | - | 148 | 
 | 2023-02-05 | - | 148 | 
 | 2023-02-04 | - | 148 | 
-| 2023-02-03 | - | 148 | 
 

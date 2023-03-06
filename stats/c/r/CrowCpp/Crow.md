@@ -1,8 +1,8 @@
 # CrowCpp/Crow - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 188
+☋ Forks: 191
 
 ★ Stars: 1546
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1546 | 191 | 
 | 2023-03-03 | 1546 | 188 | 
 | 2023-03-02 | 1545 | 186 | 
 | 2023-03-01 | 1537 | 185 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1469 | 177 | 
 | 2023-02-05 | 1464 | 177 | 
 | 2023-02-04 | 1462 | 177 | 
-| 2023-02-03 | 1456 | 176 | 
 

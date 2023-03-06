@@ -1,10 +1,10 @@
 # developersu/ns-usbloader - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 100
 
-★ Stars: 1338
+★ Stars: 1339
 
 [Open repository](https://github.com/developersu/ns-usbloader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1339 | 100 | 
 | 2023-03-04 | 1338 | 100 | 
 | 2023-03-02 | 1338 | 100 | 
 | 2023-03-01 | 1337 | 100 | 

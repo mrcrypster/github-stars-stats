@@ -1,10 +1,10 @@
 # facebookresearch/fairscale - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 207
 
-★ Stars: 2065
+★ Stars: 2068
 
 [Open repository](https://github.com/facebookresearch/fairscale)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2068 | 207 | 
 | 2023-03-04 | 2065 | 207 | 
 | 2023-03-02 | 2052 | 207 | 
 | 2023-03-01 | 2045 | 207 | 

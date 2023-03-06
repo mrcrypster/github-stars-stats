@@ -1,10 +1,10 @@
 # ucsd-progsys/liquid-fixpoint - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 50
 
-★ Stars: 111
+★ Stars: 110
 
 [Open repository](https://github.com/ucsd-progsys/liquid-fixpoint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 110 | 50 | 
 | 2023-03-04 | 111 | 50 | 
 | 2023-03-03 | 111 | 50 | 
 | 2023-03-02 | 111 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 108 | 50 | 
 | 2023-02-05 | 108 | 50 | 
 | 2023-02-04 | 107 | 50 | 
-| 2023-02-03 | 107 | 50 | 
 

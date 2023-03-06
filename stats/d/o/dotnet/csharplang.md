@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 973
 
-★ Stars: 9686
+★ Stars: 9687
 
 [Open repository](https://github.com/dotnet/csharplang)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 9686 | 973 | 
+| 2023-03-05 | 9687 | 973 | 
 | 2023-03-04 | 9686 | 973 | 
 | 2023-03-03 | 9683 | 973 | 
 | 2023-03-02 | 9672 | 974 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-06 | 9603 | 973 | 
 | 2023-02-05 | 9598 | 973 | 
 | 2023-02-04 | 9595 | 973 | 
-| 2023-02-03 | 9594 | 972 | 
 

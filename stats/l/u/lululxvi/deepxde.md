@@ -1,10 +1,10 @@
 # lululxvi/deepxde - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 513
+☋ Forks: 512
 
-★ Stars: 1512
+★ Stars: 1513
 
 [Open repository](https://github.com/lululxvi/deepxde)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1513 | 512 | 
 | 2023-03-04 | 1512 | 513 | 
 | 2023-03-03 | 1510 | 513 | 
 | 2023-03-02 | 1510 | 512 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 1468 | 494 | 
 | 2023-02-05 | 1466 | 495 | 
 | 2023-02-04 | 1463 | 495 | 
-| 2023-02-03 | 1460 | 495 | 
 

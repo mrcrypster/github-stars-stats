@@ -1,6 +1,6 @@
 # martinescardo/TypeTopology - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 154 | 20 | 
 | 2023-03-04 | 154 | 20 | 
 | 2023-03-03 | 154 | 20 | 
 | 2023-03-02 | 153 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 150 | 20 | 
 | 2023-02-06 | 150 | 20 | 
 | 2023-02-05 | 150 | 20 | 
-| 2023-02-03 | 150 | 20 | 
 

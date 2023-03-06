@@ -1,6 +1,6 @@
 # KhronosGroup/glTF-Tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 885 | 194 | 
 | 2023-03-04 | 885 | 194 | 
 | 2023-03-02 | 885 | 194 | 
 | 2023-03-01 | 885 | 194 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 866 | 189 | 
 | 2023-02-05 | 866 | 189 | 
 | 2023-02-04 | 867 | 189 | 
-| 2023-02-03 | 867 | 189 | 
 

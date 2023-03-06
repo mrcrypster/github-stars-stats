@@ -1,10 +1,10 @@
 # KaiserY/rust-book-chinese - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 211
+☋ Forks: 210
 
-★ Stars: 1561
+★ Stars: 1562
 
 [Open repository](https://github.com/KaiserY/rust-book-chinese)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1562 | 210 | 
 | 2023-03-03 | 1561 | 211 | 
 | 2023-03-02 | 1561 | 211 | 
 | 2023-03-01 | 1561 | 211 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1548 | 210 | 
 | 2023-02-05 | 1548 | 210 | 
 | 2023-02-04 | 1548 | 210 | 
-| 2023-02-03 | 1548 | 210 | 
 

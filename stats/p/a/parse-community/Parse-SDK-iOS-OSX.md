@@ -1,10 +1,10 @@
 # parse-community/Parse-SDK-iOS-OSX - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 887
 
-★ Stars: 2794
+★ Stars: 2793
 
 [Open repository](https://github.com/parse-community/Parse-SDK-iOS-OSX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2793 | 887 | 
 | 2023-03-03 | 2794 | 887 | 
 | 2023-03-02 | 2794 | 887 | 
 | 2023-03-01 | 2794 | 887 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 2792 | 886 | 
 | 2023-02-06 | 2792 | 886 | 
 | 2023-02-05 | 2791 | 886 | 
-| 2023-02-04 | 2791 | 885 | 
 

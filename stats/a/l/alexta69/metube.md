@@ -1,10 +1,10 @@
 # alexta69/metube - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 126
+☋ Forks: 127
 
-★ Stars: 1476
+★ Stars: 1478
 
 [Open repository](https://github.com/alexta69/metube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1478 | 127 | 
 | 2023-03-03 | 1476 | 126 | 
 | 2023-03-02 | 1476 | 126 | 
 | 2023-03-01 | 1475 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1416 | 125 | 
 | 2023-02-05 | 1414 | 125 | 
 | 2023-02-04 | 1411 | 125 | 
-| 2023-02-03 | 1409 | 124 | 
 

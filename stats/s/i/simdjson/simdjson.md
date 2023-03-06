@@ -1,10 +1,10 @@
 # simdjson/simdjson - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 900
 
-★ Stars: 16555
+★ Stars: 16573
 
 [Open repository](https://github.com/simdjson/simdjson)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 16573 | 900 | 
 | 2023-03-04 | 16555 | 900 | 
 | 2023-03-03 | 16552 | 900 | 
 | 2023-03-02 | 16535 | 900 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 16459 | 894 | 
 | 2023-02-06 | 16453 | 892 | 
 | 2023-02-05 | 16450 | 891 | 
-| 2023-02-04 | 16449 | 891 | 
 

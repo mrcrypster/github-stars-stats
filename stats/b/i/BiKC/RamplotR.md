@@ -1,8 +1,8 @@
 # BiKC/RamplotR - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 06
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | - | 39 | 
+| 2023-03-05 | - | 39 | 
 | 2023-03-03 | - | 38 | 
 | 2023-03-02 | - | 37 | 
 | 2023-03-01 | - | 36 | 

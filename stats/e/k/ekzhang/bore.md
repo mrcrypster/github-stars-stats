@@ -1,10 +1,10 @@
 # ekzhang/bore - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 203
+☋ Forks: 205
 
-★ Stars: 6407
+★ Stars: 6410
 
 [Open repository](https://github.com/ekzhang/bore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 6410 | 205 | 
 | 2023-03-04 | 6407 | 203 | 
 | 2023-03-02 | 6406 | 203 | 
 | 2023-03-01 | 6401 | 202 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 6309 | 200 | 
 | 2023-02-05 | 6304 | 202 | 
 | 2023-02-04 | 6301 | 202 | 
-| 2023-02-03 | 6297 | 202 | 
 

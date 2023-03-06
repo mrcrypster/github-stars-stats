@@ -1,10 +1,10 @@
 # chinesehuazhou/python-whydo - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 55
 
-★ Stars: 822
+★ Stars: 823
 
 [Open repository](https://github.com/chinesehuazhou/python-whydo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 823 | 55 | 
 | 2023-03-03 | 822 | 55 | 
 | 2023-03-02 | 821 | 55 | 
 | 2023-03-01 | 821 | 55 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 801 | 53 | 
 | 2023-02-06 | 797 | 53 | 
 | 2023-02-05 | 796 | 53 | 
-| 2023-02-03 | 795 | 53 | 
 

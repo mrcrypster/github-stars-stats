@@ -1,6 +1,6 @@
 # foolstack-omg/solidity-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 45 | 22 | 
 | 2023-03-03 | 45 | 22 | 
 | 2023-03-02 | 45 | 22 | 
 | 2023-03-01 | 45 | 22 | 

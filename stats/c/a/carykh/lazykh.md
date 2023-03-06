@@ -1,10 +1,10 @@
 # carykh/lazykh - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 39
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/carykh/lazykh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 234 | 39 | 
 | 2023-03-03 | 233 | 39 | 
 | 2023-03-02 | 233 | 39 | 
 | 2023-03-01 | 233 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 230 | 36 | 
 | 2023-02-05 | 230 | 36 | 
 | 2023-02-04 | 228 | 36 | 
-| 2023-02-03 | 227 | 36 | 
 

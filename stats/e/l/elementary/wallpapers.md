@@ -1,10 +1,10 @@
 # elementary/wallpapers - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 68
 
-★ Stars: 453
+★ Stars: 452
 
 [Open repository](https://github.com/elementary/wallpapers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 452 | 68 | 
 | 2023-03-03 | 453 | 68 | 
 | 2023-03-02 | 453 | 68 | 
 | 2023-03-01 | 453 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 444 | 67 | 
 | 2023-02-05 | 443 | 67 | 
 | 2023-02-04 | 442 | 67 | 
-| 2023-02-03 | 442 | 67 | 
 

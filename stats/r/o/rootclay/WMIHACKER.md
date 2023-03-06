@@ -1,10 +1,10 @@
 # rootclay/WMIHACKER - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 214
 
-★ Stars: 1039
+★ Stars: 1040
 
 [Open repository](https://github.com/rootclay/WMIHACKER)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1040 | 214 | 
+| 2023-03-05 | 1040 | 214 | 
 | 2023-03-04 | 1039 | 214 | 
 | 2023-03-03 | 1038 | 214 | 
 | 2023-03-02 | 1038 | 214 | 

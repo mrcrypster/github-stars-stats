@@ -1,8 +1,8 @@
 # Code-Over-Time/varcade_games - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 49
+☋ Forks: 52
 
 ★ Stars: 201
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 201 | 52 | 
 | 2023-03-04 | 201 | 49 | 
 | 2023-03-03 | 199 | 49 | 
 | 2023-03-02 | 197 | 49 | 

@@ -1,10 +1,10 @@
 # dunwu/blog - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 205
 
-★ Stars: 689
+★ Stars: 690
 
 [Open repository](https://github.com/dunwu/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 690 | 205 | 
 | 2023-03-03 | 689 | 205 | 
 | 2023-03-02 | 688 | 204 | 
 | 2023-03-01 | 688 | 204 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 684 | 204 | 
 | 2023-02-06 | 683 | 204 | 
 | 2023-02-05 | 683 | 204 | 
-| 2023-02-03 | 683 | 204 | 
 

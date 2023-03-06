@@ -1,10 +1,10 @@
 # sapic/sapic - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 29
 
-★ Stars: 235
+★ Stars: 234
 
 [Open repository](https://github.com/sapic/sapic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 234 | 29 | 
 | 2023-03-04 | 235 | 29 | 
 | 2023-03-03 | 235 | 29 | 
 | 2023-03-02 | 235 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 234 | 29 | 
 | 2023-02-05 | 234 | 29 | 
 | 2023-02-04 | 234 | 29 | 
-| 2023-02-03 | 234 | 29 | 
 

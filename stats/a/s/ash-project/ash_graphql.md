@@ -1,6 +1,6 @@
 # ash-project/ash_graphql - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 30 | 20 | 
 | 2023-03-03 | 30 | 20 | 
 | 2023-03-02 | 30 | 19 | 
 | 2023-03-01 | 30 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 27 | 18 | 
 | 2023-02-05 | 26 | 18 | 
 | 2023-02-04 | 26 | 18 | 
-| 2023-02-03 | 26 | 18 | 
 

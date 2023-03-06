@@ -1,10 +1,10 @@
 # TeamPiped/Piped - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 334
 
-★ Stars: 4025
+★ Stars: 4029
 
 [Open repository](https://github.com/TeamPiped/Piped)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 4029 | 334 | 
 | 2023-03-04 | 4025 | 334 | 
 | 2023-03-03 | 4019 | 333 | 
 | 2023-03-02 | 4009 | 332 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 3872 | 308 | 
 | 2023-02-05 | 3868 | 307 | 
 | 2023-02-04 | 3859 | 306 | 
-| 2023-02-03 | 3854 | 306 | 
 

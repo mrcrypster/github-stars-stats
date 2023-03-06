@@ -1,6 +1,6 @@
 # pulp-platform/iDMA - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 20 | 6 | 
 | 2023-03-04 | 20 | 6 | 
 | 2023-03-03 | 20 | 6 | 
 | 2023-03-02 | 20 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 19 | 6 | 
 | 2023-02-05 | 19 | 6 | 
 | 2023-02-04 | 19 | 6 | 
-| 2023-02-03 | 19 | 6 | 
 

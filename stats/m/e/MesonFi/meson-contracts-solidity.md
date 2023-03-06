@@ -1,6 +1,6 @@
 # MesonFi/meson-contracts-solidity - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 90 | 20 | 
 | 2023-03-04 | 90 | 20 | 
 | 2023-03-03 | 90 | 20 | 
 | 2023-03-02 | 90 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 90 | 20 | 
 | 2023-02-05 | 89 | 20 | 
 | 2023-02-04 | 89 | 20 | 
-| 2023-02-03 | 89 | 20 | 
 

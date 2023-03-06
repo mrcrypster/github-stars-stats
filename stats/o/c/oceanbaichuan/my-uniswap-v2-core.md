@@ -1,6 +1,6 @@
 # oceanbaichuan/my-uniswap-v2-core - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 46 | 262 | 
 | 2023-03-04 | 46 | 262 | 
 | 2023-03-02 | 46 | 262 | 
 | 2023-03-01 | 45 | 261 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 41 | 258 | 
 | 2023-02-05 | 41 | 257 | 
 | 2023-02-04 | 40 | 257 | 
-| 2023-02-03 | 40 | 257 | 
 

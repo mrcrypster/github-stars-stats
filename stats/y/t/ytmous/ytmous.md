@@ -1,10 +1,10 @@
 # ytmous/ytmous - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 40
+☋ Forks: 39
 
-★ Stars: 58
+★ Stars: 57
 
 [Open repository](https://github.com/ytmous/ytmous)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 57 | 39 | 
 | 2023-03-03 | 58 | 40 | 
 | 2023-03-02 | 58 | 40 | 
 | 2023-03-01 | 58 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 54 | 35 | 
 | 2023-02-05 | 53 | 35 | 
 | 2023-02-04 | 51 | 35 | 
-| 2023-02-03 | 51 | 35 | 
 

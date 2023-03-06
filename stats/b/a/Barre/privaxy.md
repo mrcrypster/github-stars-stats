@@ -1,10 +1,10 @@
 # Barre/privaxy - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 46
 
-★ Stars: 1109
+★ Stars: 1111
 
 [Open repository](https://github.com/Barre/privaxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1111 | 46 | 
 | 2023-03-04 | 1109 | 46 | 
 | 2023-03-03 | 1107 | 46 | 
 | 2023-03-02 | 1106 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 1049 | 43 | 
 | 2023-02-05 | 1049 | 43 | 
 | 2023-02-04 | 1048 | 43 | 
-| 2023-02-03 | 1046 | 43 | 
 

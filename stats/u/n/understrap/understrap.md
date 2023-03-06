@@ -1,10 +1,10 @@
 # understrap/understrap - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 950
 
-★ Stars: 2947
+★ Stars: 2945
 
 [Open repository](https://github.com/understrap/understrap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 2945 | 950 | 
 | 2023-03-04 | 2947 | 950 | 
 | 2023-03-02 | 2946 | 950 | 
 | 2023-03-01 | 2946 | 950 | 

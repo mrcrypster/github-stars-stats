@@ -1,6 +1,6 @@
 # Larpon/vee - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 33 | 1 | 
 | 2023-03-04 | 33 | 1 | 
 | 2023-03-03 | 33 | 1 | 
 | 2023-03-02 | 33 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 31 | 1 | 
 | 2023-02-05 | 31 | 1 | 
 | 2023-02-04 | 31 | 1 | 
-| 2023-02-03 | 31 | 1 | 
 

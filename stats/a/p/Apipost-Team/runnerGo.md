@@ -1,10 +1,10 @@
 # Apipost-Team/runnerGo - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/Apipost-Team/runnerGo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 195 | 24 | 
 | 2023-03-04 | 194 | 23 | 
 | 2023-03-02 | 191 | 22 | 
 | 2023-03-01 | 190 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 117 | 14 | 
 | 2023-02-05 | 114 | 13 | 
 | 2023-02-04 | 113 | 13 | 
-| 2023-02-03 | 113 | 13 | 
 

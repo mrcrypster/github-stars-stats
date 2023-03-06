@@ -1,10 +1,10 @@
 # jingyue202205/SE-SSD-AI-TRT - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/jingyue202205/SE-SSD-AI-TRT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 57 | 6 | 
 | 2023-03-04 | 56 | 6 | 
 | 2023-03-03 | 56 | 6 | 
 | 2023-03-02 | 56 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 54 | 6 | 
 | 2023-02-05 | 54 | 6 | 
 | 2023-02-04 | 54 | 6 | 
-| 2023-02-03 | 54 | 6 | 
 

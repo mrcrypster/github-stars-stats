@@ -1,10 +1,10 @@
 # DaveGamble/cJSON - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 2853
+☋ Forks: 2855
 
-★ Stars: 8482
+★ Stars: 8485
 
 [Open repository](https://github.com/DaveGamble/cJSON)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 8485 | 2855 | 
 | 2023-03-04 | 8482 | 2853 | 
 | 2023-03-02 | 8474 | 2852 | 
 | 2023-03-01 | 8471 | 2851 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 8399 | 2830 | 
 | 2023-02-05 | 8399 | 2831 | 
 | 2023-02-04 | 8400 | 2831 | 
-| 2023-02-03 | 8397 | 2830 | 
 

@@ -1,10 +1,10 @@
 # Fliangui/V2ray-for-Doprax - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/Fliangui/V2ray-for-Doprax)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 6 | 17 | 
 | 2023-03-04 | 5 | 16 | 
 | 2023-03-03 | 5 | 16 | 
 | 2023-03-02 | 5 | 14 | 

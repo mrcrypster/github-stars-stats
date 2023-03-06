@@ -1,10 +1,10 @@
 # gfx-rs/naga - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 165
 
-★ Stars: 1146
+★ Stars: 1145
 
 [Open repository](https://github.com/gfx-rs/naga)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1145 | 165 | 
 | 2023-03-03 | 1146 | 165 | 
 | 2023-03-02 | 1146 | 165 | 
 | 2023-03-01 | 1145 | 164 | 

@@ -1,10 +1,10 @@
 # clj-depend/clj-depend - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/clj-depend/clj-depend)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 34 | 5 | 
 | 2023-03-04 | 33 | 5 | 
 | 2023-03-03 | 33 | 5 | 
 | 2023-03-02 | 33 | 5 | 

@@ -1,10 +1,10 @@
 # dangrossman/daterangepicker - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 3314
 
-★ Stars: 10600
+★ Stars: 10601
 
 [Open repository](https://github.com/dangrossman/daterangepicker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 10601 | 3314 | 
 | 2023-03-04 | 10600 | 3314 | 
 | 2023-03-02 | 10597 | 3314 | 
 | 2023-03-01 | 10595 | 3314 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 10576 | 3308 | 
 | 2023-02-05 | 10575 | 3306 | 
 | 2023-02-04 | 10575 | 3306 | 
-| 2023-02-03 | 10575 | 3306 | 
 

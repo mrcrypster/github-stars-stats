@@ -1,10 +1,10 @@
 # secdev/scapy - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1816
+☋ Forks: 1817
 
-★ Stars: 8491
+★ Stars: 8494
 
 [Open repository](https://github.com/secdev/scapy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 8494 | 1817 | 
 | 2023-03-03 | 8491 | 1816 | 
 | 2023-03-02 | 8487 | 1816 | 
 | 2023-03-01 | 8475 | 1816 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 8400 | 1798 | 
 | 2023-02-05 | 8399 | 1798 | 
 | 2023-02-04 | 8396 | 1797 | 
-| 2023-02-03 | 8392 | 1795 | 
 

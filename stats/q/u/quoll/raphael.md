@@ -1,8 +1,8 @@
 # quoll/raphael - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 23 | 1 | 
 | 2023-03-03 | 23 | - | 
 | 2023-03-02 | 23 | - | 
 | 2023-03-01 | 23 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 21 | - | 
 | 2023-02-05 | 21 | - | 
 | 2023-02-04 | 21 | - | 
-| 2023-02-03 | 21 | - | 
 

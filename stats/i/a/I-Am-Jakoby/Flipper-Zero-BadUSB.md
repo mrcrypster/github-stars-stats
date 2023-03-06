@@ -1,10 +1,10 @@
 # I-Am-Jakoby/Flipper-Zero-BadUSB - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 254
+☋ Forks: 255
 
-★ Stars: 1725
+★ Stars: 1729
 
 [Open repository](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1729 | 255 | 
 | 2023-03-04 | 1725 | 254 | 
 | 2023-03-03 | 1722 | 253 | 
 | 2023-03-02 | 1720 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 1550 | 223 | 
 | 2023-02-05 | 1545 | 222 | 
 | 2023-02-04 | 1538 | 220 | 
-| 2023-02-03 | 1536 | 220 | 
 

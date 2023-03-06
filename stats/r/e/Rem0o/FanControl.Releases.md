@@ -1,10 +1,10 @@
 # Rem0o/FanControl.Releases - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 292
+☋ Forks: 293
 
-★ Stars: 7983
+★ Stars: 7997
 
 [Open repository](https://github.com/Rem0o/FanControl.Releases)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 7997 | 293 | 
 | 2023-03-04 | 7983 | 292 | 
 | 2023-03-03 | 7971 | 292 | 
 | 2023-03-02 | 7954 | 291 | 

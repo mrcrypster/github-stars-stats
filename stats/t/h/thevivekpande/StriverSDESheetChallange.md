@@ -1,6 +1,6 @@
 # thevivekpande/StriverSDESheetChallange - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 56 | 22 | 
 | 2023-03-04 | 56 | 22 | 
 | 2023-03-03 | 56 | 22 | 
 | 2023-03-02 | 56 | 22 | 

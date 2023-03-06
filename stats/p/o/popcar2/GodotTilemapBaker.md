@@ -1,6 +1,6 @@
 # popcar2/GodotTilemapBaker - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 18 | - | 
 | 2023-03-03 | 18 | - | 
 | 2023-03-02 | 18 | - | 
 | 2023-03-01 | 18 | - | 

@@ -1,10 +1,10 @@
 # Uniswap/v3-core - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1871
+☋ Forks: 1875
 
-★ Stars: 3379
+★ Stars: 3381
 
 [Open repository](https://github.com/Uniswap/v3-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 3381 | 1875 | 
 | 2023-03-04 | 3379 | 1871 | 
 | 2023-03-03 | 3372 | 1868 | 
 | 2023-03-01 | 3372 | 1866 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 3316 | 1807 | 
 | 2023-02-06 | 3310 | 1802 | 
 | 2023-02-04 | 3307 | 1799 | 
-| 2023-02-03 | 3303 | 1797 | 
 

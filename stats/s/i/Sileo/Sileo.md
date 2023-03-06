@@ -1,10 +1,10 @@
 # Sileo/Sileo - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 113
+☋ Forks: 114
 
-★ Stars: 800
+★ Stars: 801
 
 [Open repository](https://github.com/Sileo/Sileo)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 801 | 114 | 
+| 2023-03-05 | 801 | 114 | 
 | 2023-03-04 | 800 | 113 | 
 | 2023-03-02 | 798 | 113 | 
 | 2023-03-01 | 797 | 113 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 767 | 112 | 
 | 2023-02-05 | 766 | 112 | 
 | 2023-02-04 | 766 | 112 | 
-| 2023-02-03 | 765 | 111 | 
 

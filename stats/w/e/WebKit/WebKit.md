@@ -1,10 +1,10 @@
 # WebKit/WebKit - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 860
+☋ Forks: 861
 
-★ Stars: 5834
+★ Stars: 5838
 
 [Open repository](https://github.com/WebKit/WebKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 5838 | 861 | 
 | 2023-03-03 | 5834 | 860 | 
 | 2023-03-02 | 5828 | 860 | 
 | 2023-03-01 | 5818 | 858 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 5717 | 831 | 
 | 2023-02-05 | 5710 | 830 | 
 | 2023-02-04 | 5708 | 828 | 
-| 2023-02-03 | 5704 | 827 | 
 

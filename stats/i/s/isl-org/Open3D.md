@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 05
 
 ☋ Forks: 1899
 
-★ Stars: 8187
+★ Stars: 8190
 
 [Open repository](https://github.com/isl-org/Open3D)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-05 | 8187 | 1899 | 
+| 2023-03-05 | 8190 | 1899 | 
 | 2023-03-04 | 8186 | 1899 | 
 | 2023-03-03 | 8182 | 1899 | 
 | 2023-03-02 | 8170 | 1895 | 

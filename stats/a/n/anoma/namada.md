@@ -1,6 +1,6 @@
 # anoma/namada - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 184 | 123 | 
 | 2023-03-03 | 184 | 123 | 
 | 2023-03-02 | 184 | 122 | 
 | 2023-03-01 | 183 | 122 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 172 | 110 | 
 | 2023-02-05 | 171 | 109 | 
 | 2023-02-04 | 171 | 109 | 
-| 2023-02-03 | 170 | 108 | 
 

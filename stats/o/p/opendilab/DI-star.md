@@ -1,10 +1,10 @@
 # opendilab/DI-star - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 141
 
-★ Stars: 1353
+★ Stars: 1354
 
 [Open repository](https://github.com/opendilab/DI-star)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1354 | 141 | 
 | 2023-03-04 | 1353 | 141 | 
 | 2023-03-02 | 1349 | 141 | 
 | 2023-03-01 | 1349 | 141 | 

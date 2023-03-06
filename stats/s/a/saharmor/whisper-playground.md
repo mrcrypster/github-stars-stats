@@ -1,10 +1,10 @@
 # saharmor/whisper-playground - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 369
+★ Stars: 375
 
 [Open repository](https://github.com/saharmor/whisper-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 375 | 65 | 
 | 2023-03-03 | 369 | 64 | 
 | 2023-03-02 | 360 | 63 | 
 | 2023-03-01 | 354 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 297 | 50 | 
 | 2023-02-05 | 296 | 50 | 
 | 2023-02-04 | 294 | 50 | 
-| 2023-02-03 | 290 | 50 | 
 

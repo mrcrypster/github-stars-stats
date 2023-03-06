@@ -1,6 +1,6 @@
 # defaultnamehere/verylegit.link - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1275 | 45 | 
 | 2023-03-03 | 1275 | 45 | 
 | 2023-03-02 | 1275 | 45 | 
 | 2023-03-01 | 1274 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1241 | 44 | 
 | 2023-02-05 | 1221 | 44 | 
 | 2023-02-04 | 1211 | 44 | 
-| 2023-02-03 | 1206 | 43 | 
 

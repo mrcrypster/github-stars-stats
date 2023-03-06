@@ -1,6 +1,6 @@
 # Tablane/tablane - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 293 | 7 | 
 | 2023-03-04 | 293 | 7 | 
 | 2023-03-02 | 293 | 7 | 
 | 2023-03-01 | 293 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 287 | 6 | 
 | 2023-02-05 | 287 | 6 | 
 | 2023-02-04 | 287 | 6 | 
-| 2023-02-03 | 286 | 6 | 
 

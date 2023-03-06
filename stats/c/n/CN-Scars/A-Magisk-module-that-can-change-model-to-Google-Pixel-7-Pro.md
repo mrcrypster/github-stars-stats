@@ -1,10 +1,10 @@
 # CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 8
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 64 | 8 | 
 | 2023-03-04 | 63 | 8 | 
 | 2023-03-02 | 62 | 8 | 
 | 2023-03-01 | 62 | 8 | 

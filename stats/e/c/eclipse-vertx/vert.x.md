@@ -1,8 +1,8 @@
 # eclipse-vertx/vert.x - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
-☋ Forks: 1986
+☋ Forks: 1987
 
 ★ Stars: 13423
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 13423 | 1987 | 
 | 2023-03-03 | 13423 | 1986 | 
 | 2023-03-02 | 13418 | 1986 | 
 | 2023-03-01 | 13416 | 1984 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 13377 | 1981 | 
 | 2023-02-05 | 13376 | 1981 | 
 | 2023-02-04 | 13376 | 1981 | 
-| 2023-02-03 | 13371 | 1981 | 
 

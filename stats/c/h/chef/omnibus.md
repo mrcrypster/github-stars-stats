@@ -1,6 +1,6 @@
 # chef/omnibus - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1246 | 296 | 
 | 2023-03-03 | 1246 | 296 | 
 | 2023-03-02 | 1246 | 296 | 
 | 2023-03-01 | 1246 | 295 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1246 | 294 | 
 | 2023-02-05 | 1246 | 294 | 
 | 2023-02-04 | 1246 | 294 | 
-| 2023-02-03 | 1246 | 294 | 
 

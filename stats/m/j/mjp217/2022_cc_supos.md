@@ -1,0 +1,17 @@
+# mjp217/2022_cc_supos - stars & forks statistics
+
+Stats updated on Mar 2023, 05
+
+☋ Forks: 5
+
+★ Stars: 0
+
+[Open repository](https://github.com/mjp217/2022_cc_supos)
+
+[Open detailed stats for mjp217/2022_cc_supos](https://reviewgithub.com/rep/mjp217/2022_cc_supos)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-05 | - | 5 | 
+

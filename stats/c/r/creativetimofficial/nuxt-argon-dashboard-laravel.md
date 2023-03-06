@@ -1,6 +1,6 @@
 # creativetimofficial/nuxt-argon-dashboard-laravel - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 37 | 85 | 
 | 2023-03-03 | 37 | 85 | 
 | 2023-03-02 | 37 | 85 | 
 | 2023-03-01 | 37 | 84 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-07 | 36 | 77 | 
 | 2023-02-06 | 36 | 77 | 
 | 2023-02-05 | 36 | 75 | 
-| 2023-02-03 | 36 | 75 | 
 

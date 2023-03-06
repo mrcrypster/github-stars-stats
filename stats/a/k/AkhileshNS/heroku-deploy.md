@@ -1,10 +1,10 @@
 # AkhileshNS/heroku-deploy - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 237
 
-★ Stars: 900
+★ Stars: 899
 
 [Open repository](https://github.com/AkhileshNS/heroku-deploy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 899 | 237 | 
 | 2023-03-04 | 900 | 237 | 
 | 2023-03-03 | 900 | 237 | 
 | 2023-03-02 | 899 | 237 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 888 | 235 | 
 | 2023-02-05 | 888 | 236 | 
 | 2023-02-04 | 888 | 235 | 
-| 2023-02-03 | 888 | 235 | 
 

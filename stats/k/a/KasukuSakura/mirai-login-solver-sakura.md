@@ -1,10 +1,10 @@
 # KasukuSakura/mirai-login-solver-sakura - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 187
+★ Stars: 191
 
 [Open repository](https://github.com/KasukuSakura/mirai-login-solver-sakura)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 191 | 10 | 
 | 2023-03-04 | 187 | 9 | 
 | 2023-03-02 | 183 | 9 | 
 | 2023-03-01 | 181 | 9 | 

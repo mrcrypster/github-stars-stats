@@ -1,6 +1,6 @@
 # JuliaCollections/OrderedCollections.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 67 | 32 | 
 | 2023-03-04 | 67 | 32 | 
 | 2023-03-03 | 66 | 32 | 
 | 2023-03-02 | 66 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 66 | 32 | 
 | 2023-02-06 | 66 | 32 | 
 | 2023-02-04 | 66 | 32 | 
-| 2023-02-03 | 65 | 32 | 
 

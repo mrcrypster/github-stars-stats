@@ -1,6 +1,6 @@
 # TaranVH/2nd-keyboard - stars & forks statistics
 
-Stats updated on Mar 2023, 03
+Stats updated on Mar 2023, 05
 
 ☋ Forks: 544
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 1523 | 544 | 
 | 2023-03-03 | 1523 | 544 | 
 | 2023-03-02 | 1523 | 544 | 
 | 2023-03-01 | 1523 | 544 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 03
 | 2023-02-06 | 1509 | 542 | 
 | 2023-02-05 | 1508 | 542 | 
 | 2023-02-04 | 1508 | 542 | 
-| 2023-02-03 | 1508 | 542 | 
 

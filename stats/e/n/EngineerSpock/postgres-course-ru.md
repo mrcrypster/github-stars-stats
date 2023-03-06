@@ -1,10 +1,10 @@
 # EngineerSpock/postgres-course-ru - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 05
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/EngineerSpock/postgres-course-ru)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-05 | 116 | 174 | 
 | 2023-03-04 | 115 | 173 | 
 | 2023-03-03 | 115 | 172 | 
 | 2023-03-02 | 115 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-06 | 109 | 162 | 
 | 2023-02-05 | 109 | 162 | 
 | 2023-02-04 | 109 | 162 | 
-| 2023-02-03 | 109 | 162 | 
 
