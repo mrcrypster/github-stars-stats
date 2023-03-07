@@ -1,10 +1,10 @@
 # GDQuest/godot-open-rpg - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 167
 
-★ Stars: 1258
+★ Stars: 1259
 
 [Open repository](https://github.com/GDQuest/godot-open-rpg)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1259 | 167 | 
+| 2023-03-06 | 1258 | 167 | 
 | 2023-03-05 | 1258 | 167 | 
 | 2023-03-04 | 1256 | 166 | 
 | 2023-03-03 | 1255 | 166 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1241 | 165 | 
 | 2023-02-06 | 1240 | 165 | 
 | 2023-02-05 | 1239 | 164 | 
-| 2023-02-04 | 1237 | 164 | 
 

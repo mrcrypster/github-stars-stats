@@ -1,10 +1,10 @@
 # GenerativeMachine/Gen5X - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 87
+★ Stars: 94
 
 [Open repository](https://github.com/GenerativeMachine/Gen5X)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 94 | 7 | 
+| 2023-03-06 | 94 | 7 | 
 | 2023-03-05 | 87 | 7 | 
 | 2023-03-04 | 86 | 7 | 
 | 2023-03-02 | 76 | 4 | 

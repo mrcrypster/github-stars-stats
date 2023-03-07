@@ -1,6 +1,6 @@
 # bw1129/PIDtoolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 392 | 57 | 
 | 2023-03-05 | 392 | 57 | 
 | 2023-03-04 | 392 | 57 | 
 | 2023-03-03 | 392 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 382 | 58 | 
 | 2023-02-06 | 382 | 57 | 
 | 2023-02-05 | 382 | 57 | 
-| 2023-02-04 | 382 | 57 | 
 

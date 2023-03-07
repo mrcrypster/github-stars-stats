@@ -1,10 +1,10 @@
 # twbs/bootstrap - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 77924
+☋ Forks: 77931
 
-★ Stars: 162166
+★ Stars: 162196
 
 [Open repository](https://github.com/twbs/bootstrap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 162196 | 77931 | 
 | 2023-03-05 | 162166 | 77924 | 
 | 2023-03-04 | 162157 | 77926 | 
 | 2023-03-03 | 162135 | 77927 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 161687 | 77814 | 
 | 2023-02-06 | 161668 | 77809 | 
 | 2023-02-05 | 161652 | 77805 | 
-| 2023-02-04 | 161645 | 77799 | 
 

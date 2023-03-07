@@ -1,10 +1,10 @@
 # mozilla/geckodriver - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1515
 
-★ Stars: 6429
+★ Stars: 6428
 
 [Open repository](https://github.com/mozilla/geckodriver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 6428 | 1515 | 
 | 2023-03-05 | 6429 | 1515 | 
 | 2023-03-04 | 6427 | 1515 | 
 | 2023-03-03 | 6423 | 1515 | 

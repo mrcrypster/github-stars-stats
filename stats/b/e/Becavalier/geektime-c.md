@@ -1,8 +1,8 @@
 # Becavalier/geektime-c - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 33
+☋ Forks: 32
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 73 | 32 | 
 | 2023-03-05 | 73 | 33 | 
 | 2023-03-04 | 72 | 33 | 
 | 2023-03-02 | 72 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 69 | 33 | 
 | 2023-02-06 | 69 | 33 | 
 | 2023-02-05 | 69 | 33 | 
-| 2023-02-04 | 69 | 33 | 
 

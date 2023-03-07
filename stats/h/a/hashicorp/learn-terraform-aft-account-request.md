@@ -1,8 +1,8 @@
 # hashicorp/learn-terraform-aft-account-request - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 405
+☋ Forks: 407
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7 | 407 | 
 | 2023-03-05 | 7 | 405 | 
 | 2023-03-04 | 7 | 404 | 
 | 2023-03-03 | 7 | 403 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 6 | 386 | 
 | 2023-02-06 | 6 | 384 | 
 | 2023-02-05 | 6 | 383 | 
-| 2023-02-04 | 6 | 384 | 
 

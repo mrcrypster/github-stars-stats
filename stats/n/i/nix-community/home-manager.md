@@ -1,6 +1,6 @@
 # nix-community/home-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1182
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3759 | 1182 | 
 | 2023-03-05 | 3759 | 1182 | 
 | 2023-03-04 | 3753 | 1182 | 
 | 2023-03-03 | 3754 | 1181 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3669 | 1165 | 
 | 2023-02-06 | 3665 | 1163 | 
 | 2023-02-05 | 3663 | 1165 | 
-| 2023-02-04 | 3662 | 1165 | 
 

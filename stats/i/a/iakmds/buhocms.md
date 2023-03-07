@@ -1,10 +1,10 @@
 # iakmds/buhocms - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/iakmds/buhocms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 32 | 2 | 
 | 2023-03-05 | 31 | 2 | 
 | 2023-03-03 | 31 | 1 | 
 | 2023-03-02 | 31 | 1 | 

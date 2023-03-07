@@ -1,10 +1,10 @@
 # Wizarrrr/wizarr - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 408
+★ Stars: 415
 
 [Open repository](https://github.com/Wizarrrr/wizarr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 415 | 27 | 
 | 2023-03-05 | 408 | 26 | 
 | 2023-03-03 | 403 | 26 | 
 | 2023-03-02 | 398 | 26 | 

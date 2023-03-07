@@ -1,10 +1,10 @@
 # iasql/iasql - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 20
 
-★ Stars: 424
+★ Stars: 454
 
 [Open repository](https://github.com/iasql/iasql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 454 | 20 | 
 | 2023-03-05 | 424 | 20 | 
 | 2023-03-04 | 405 | 17 | 
 | 2023-03-03 | 383 | 16 | 

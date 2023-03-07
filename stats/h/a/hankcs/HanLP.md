@@ -1,10 +1,10 @@
 # hankcs/HanLP - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 7906
+☋ Forks: 7911
 
-★ Stars: 28223
+★ Stars: 28227
 
 [Open repository](https://github.com/hankcs/HanLP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 28227 | 7911 | 
 | 2023-03-05 | 28223 | 7906 | 
 | 2023-03-03 | 28218 | 7907 | 
 | 2023-03-02 | 28205 | 7896 | 

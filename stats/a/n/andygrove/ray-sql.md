@@ -1,6 +1,6 @@
 # andygrove/ray-sql - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2 | 10 | 
 | 2023-03-05 | 2 | 10 | 
 | 2023-03-04 | 2 | 10 | 
 | 2023-03-02 | 2 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | - | 9 | 
 | 2023-02-06 | 136 | 8 | 
 | 2023-02-05 | 134 | 8 | 
-| 2023-02-04 | 133 | 8 | 
 

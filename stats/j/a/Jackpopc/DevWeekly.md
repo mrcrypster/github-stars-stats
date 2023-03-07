@@ -1,6 +1,6 @@
 # Jackpopc/DevWeekly - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1091 | 88 | 
 | 2023-03-05 | 1091 | 88 | 
 | 2023-03-03 | 1093 | 88 | 
 | 2023-03-02 | 1088 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 991 | 80 | 
 | 2023-02-06 | 979 | 81 | 
 | 2023-02-05 | 971 | 80 | 
-| 2023-02-04 | 970 | 80 | 
 

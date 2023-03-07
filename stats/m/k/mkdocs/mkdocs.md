@@ -1,10 +1,10 @@
 # mkdocs/mkdocs - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 2194
+☋ Forks: 2197
 
-★ Stars: 15993
+★ Stars: 16004
 
 [Open repository](https://github.com/mkdocs/mkdocs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 16004 | 2197 | 
 | 2023-03-05 | 15993 | 2194 | 
 | 2023-03-03 | 15988 | 2193 | 
 | 2023-03-02 | 15980 | 2192 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 15834 | 2169 | 
 | 2023-02-06 | 15825 | 2169 | 
 | 2023-02-05 | 15822 | 2168 | 
-| 2023-02-04 | 15817 | 2168 | 
 

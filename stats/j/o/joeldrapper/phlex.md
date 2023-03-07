@@ -1,6 +1,6 @@
 # joeldrapper/phlex - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 704 | 55 | 
 | 2023-03-04 | 704 | 55 | 
 | 2023-03-03 | 704 | 55 | 
 | 2023-03-02 | 703 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 684 | 51 | 
 | 2023-02-06 | 683 | 51 | 
 | 2023-02-05 | 683 | 51 | 
-| 2023-02-04 | 682 | 51 | 
 

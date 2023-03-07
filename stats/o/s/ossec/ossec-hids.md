@@ -1,10 +1,10 @@
 # ossec/ossec-hids - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 993
+☋ Forks: 992
 
-★ Stars: 3891
+★ Stars: 3892
 
 [Open repository](https://github.com/ossec/ossec-hids)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3892 | 992 | 
 | 2023-03-05 | 3891 | 993 | 
 | 2023-03-04 | 3889 | 993 | 
 | 2023-03-03 | 3887 | 992 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3872 | 991 | 
 | 2023-02-06 | 3870 | 991 | 
 | 2023-02-05 | 3870 | 991 | 
-| 2023-02-04 | 3870 | 991 | 
 

@@ -1,10 +1,10 @@
 # CompVis/taming-transformers - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 787
+☋ Forks: 789
 
-★ Stars: 3795
+★ Stars: 3803
 
 [Open repository](https://github.com/CompVis/taming-transformers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3803 | 789 | 
 | 2023-03-05 | 3795 | 787 | 
 | 2023-03-04 | 3788 | 787 | 
 | 2023-03-03 | 3781 | 785 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3648 | 754 | 
 | 2023-02-06 | 3647 | 751 | 
 | 2023-02-05 | 3643 | 751 | 
-| 2023-02-04 | 3642 | 751 | 
 

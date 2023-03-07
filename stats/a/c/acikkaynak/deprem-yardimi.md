@@ -1,6 +1,6 @@
 # acikkaynak/deprem-yardimi - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 72 | 30 | 
 | 2023-03-05 | 72 | 30 | 
 | 2023-03-04 | 72 | 30 | 
 | 2023-03-03 | 72 | 30 | 

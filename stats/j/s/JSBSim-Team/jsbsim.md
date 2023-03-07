@@ -1,10 +1,10 @@
 # JSBSim-Team/jsbsim - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 311
 
-★ Stars: 843
+★ Stars: 844
 
 [Open repository](https://github.com/JSBSim-Team/jsbsim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 844 | 311 | 
 | 2023-03-05 | 843 | 311 | 
 | 2023-03-04 | 843 | 311 | 
 | 2023-03-02 | 842 | 310 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 834 | 305 | 
 | 2023-02-06 | 833 | 304 | 
 | 2023-02-05 | 831 | 302 | 
-| 2023-02-04 | 830 | 302 | 
 

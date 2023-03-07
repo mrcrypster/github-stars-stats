@@ -1,10 +1,10 @@
 # google/go-containerregistry - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 421
+☋ Forks: 422
 
-★ Stars: 2225
+★ Stars: 2226
 
 [Open repository](https://github.com/google/go-containerregistry)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2226 | 422 | 
 | 2023-03-05 | 2225 | 421 | 
 | 2023-03-04 | 2220 | 421 | 
 | 2023-03-02 | 2219 | 420 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2192 | 411 | 
 | 2023-02-06 | 2187 | 409 | 
 | 2023-02-05 | 2187 | 409 | 
-| 2023-02-04 | 2187 | 409 | 
 

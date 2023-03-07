@@ -1,10 +1,10 @@
 # flipperdevices/flipperzero-firmware - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1567
+☋ Forks: 1577
 
-★ Stars: 5728
+★ Stars: 5736
 
 [Open repository](https://github.com/flipperdevices/flipperzero-firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 5736 | 1577 | 
 | 2023-03-04 | 5728 | 1567 | 
 | 2023-03-03 | 5724 | 1559 | 
 | 2023-03-02 | 5711 | 1556 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 5501 | 1451 | 
 | 2023-02-07 | 5493 | 1435 | 
 | 2023-02-06 | 5492 | 1436 | 
-| 2023-02-04 | 5463 | 1425 | 
 

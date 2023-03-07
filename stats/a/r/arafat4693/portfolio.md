@@ -1,10 +1,10 @@
 # arafat4693/portfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 32
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/arafat4693/portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 129 | 32 | 
 | 2023-03-05 | 128 | 32 | 
 | 2023-03-04 | 128 | 32 | 
 | 2023-03-03 | 128 | 32 | 

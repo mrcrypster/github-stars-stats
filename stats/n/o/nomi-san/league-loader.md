@@ -1,10 +1,10 @@
 # nomi-san/league-loader - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 22
 
-★ Stars: 118
+★ Stars: 120
 
 [Open repository](https://github.com/nomi-san/league-loader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 120 | 22 | 
 | 2023-03-05 | 118 | 22 | 
 | 2023-03-04 | 117 | 22 | 
 | 2023-03-02 | 115 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 96 | 18 | 
 | 2023-02-06 | 94 | 18 | 
 | 2023-02-05 | 94 | 17 | 
-| 2023-02-04 | 93 | 16 | 
 

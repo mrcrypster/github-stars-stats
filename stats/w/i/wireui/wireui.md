@@ -1,10 +1,10 @@
 # wireui/wireui - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 123
 
-★ Stars: 912
+★ Stars: 913
 
 [Open repository](https://github.com/wireui/wireui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 913 | 123 | 
 | 2023-03-05 | 912 | 123 | 
 | 2023-03-03 | 911 | 123 | 
 | 2023-03-02 | 910 | 123 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 871 | 120 | 
 | 2023-02-06 | 870 | 119 | 
 | 2023-02-05 | 869 | 119 | 
-| 2023-02-04 | 870 | 119 | 
 

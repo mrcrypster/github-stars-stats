@@ -1,10 +1,10 @@
 # Orillusion/orillusion-web - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 31
 
-★ Stars: 207
+★ Stars: 209
 
 [Open repository](https://github.com/Orillusion/orillusion-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 209 | 31 | 
 | 2023-03-05 | 207 | 31 | 
 | 2023-03-04 | 207 | 31 | 
 | 2023-03-03 | 207 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 197 | 30 | 
 | 2023-02-06 | 193 | 30 | 
 | 2023-02-05 | 190 | 30 | 
-| 2023-02-04 | 187 | 30 | 
 

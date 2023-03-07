@@ -1,6 +1,6 @@
 # libimobiledevice/libimobiledevice.org - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 34 | 85 | 
 | 2023-03-05 | 34 | 85 | 
 | 2023-03-04 | 33 | 85 | 
 | 2023-03-03 | 33 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 33 | 86 | 
 | 2023-02-07 | 33 | 85 | 
 | 2023-02-05 | 33 | 84 | 
-| 2023-02-04 | 33 | 84 | 
 

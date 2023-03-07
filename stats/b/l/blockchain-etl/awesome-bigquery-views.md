@@ -1,6 +1,6 @@
 # blockchain-etl/awesome-bigquery-views - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 295 | 110 | 
 | 2023-03-05 | 295 | 110 | 
 | 2023-03-04 | 293 | 110 | 
 | 2023-03-03 | 293 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 298 | 108 | 
 | 2023-02-06 | 298 | 108 | 
 | 2023-02-05 | 298 | 108 | 
-| 2023-02-04 | 298 | 108 | 
 

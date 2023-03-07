@@ -1,6 +1,6 @@
 # emacscollective/no-littering - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 510 | 58 | 
 | 2023-03-05 | 510 | 58 | 
 | 2023-03-04 | 510 | 58 | 
 | 2023-03-03 | 509 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 497 | 58 | 
 | 2023-02-06 | 497 | 58 | 
 | 2023-02-05 | 497 | 58 | 
-| 2023-02-04 | 496 | 58 | 
 

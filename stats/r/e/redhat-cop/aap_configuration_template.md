@@ -1,10 +1,10 @@
 # redhat-cop/aap_configuration_template - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/redhat-cop/aap_configuration_template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 17 | 18 | 
 | 2023-03-05 | 16 | 18 | 
 | 2023-03-04 | 15 | 18 | 
 | 2023-03-02 | 15 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 12 | 16 | 
 | 2023-02-06 | 12 | 16 | 
 | 2023-02-05 | 12 | 16 | 
-| 2023-02-04 | 12 | 15 | 
 

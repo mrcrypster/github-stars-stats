@@ -1,6 +1,6 @@
 # rstudio/htmltools - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 183 | 66 | 
 | 2023-03-05 | 183 | 66 | 
 | 2023-03-04 | 183 | 66 | 
 | 2023-03-03 | 182 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 177 | 64 | 
 | 2023-02-07 | 177 | 64 | 
 | 2023-02-05 | 177 | 64 | 
-| 2023-02-04 | 177 | 64 | 
 

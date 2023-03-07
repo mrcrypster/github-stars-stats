@@ -1,10 +1,10 @@
 # binary-com/perl-Date-Utility - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/binary-com/perl-Date-Utility)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1 | 14 | 
 | 2023-03-05 | 2 | 14 | 
 | 2023-03-04 | 2 | 14 | 
 | 2023-03-03 | 2 | 14 | 

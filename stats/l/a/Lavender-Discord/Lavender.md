@@ -1,10 +1,10 @@
 # Lavender-Discord/Lavender - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 23
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/Lavender-Discord/Lavender)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 112 | 23 | 
 | 2023-03-05 | 111 | 23 | 
 | 2023-03-04 | 111 | 23 | 
 | 2023-03-02 | 111 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 112 | 21 | 
 | 2023-02-06 | 112 | 21 | 
 | 2023-02-05 | 112 | 21 | 
-| 2023-02-04 | 112 | 21 | 
 

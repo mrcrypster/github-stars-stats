@@ -1,10 +1,10 @@
 # Olstyle/MBus - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/Olstyle/MBus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 26 | 2 | 
 | 2023-03-05 | 25 | 2 | 
 | 2023-03-04 | 25 | 2 | 
 | 2023-03-02 | 25 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 25 | 2 | 
 | 2023-02-06 | 25 | 2 | 
 | 2023-02-05 | 25 | 2 | 
-| 2023-02-04 | 25 | 2 | 
 

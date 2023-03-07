@@ -1,6 +1,6 @@
 # exaco/laravel-octane-dockerfile - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 270 | 47 | 
 | 2023-03-05 | 270 | 47 | 
 | 2023-03-03 | 270 | 47 | 
 | 2023-03-02 | 270 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 262 | 45 | 
 | 2023-02-06 | 262 | 45 | 
 | 2023-02-05 | 260 | 45 | 
-| 2023-02-04 | 260 | 45 | 
 

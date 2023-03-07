@@ -1,6 +1,6 @@
 # WebDevVikramChoudhary/small_projects_for_beginners_using_Html-Css-Js - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 49 | 40 | 
 | 2023-03-05 | 49 | 40 | 
 | 2023-03-03 | 48 | 40 | 
 | 2023-03-02 | 48 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 43 | 37 | 
 | 2023-02-06 | 43 | 36 | 
 | 2023-02-05 | 43 | 36 | 
-| 2023-02-04 | 42 | 36 | 
 

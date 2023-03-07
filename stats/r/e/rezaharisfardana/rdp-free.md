@@ -1,8 +1,8 @@
 # rezaharisfardana/rdp-free - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 861
+☋ Forks: 873
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 8 | 873 | 
 | 2023-03-05 | 8 | 861 | 
 | 2023-03-04 | 8 | 837 | 
 | 2023-03-03 | 8 | 809 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 4 | 445 | 
 | 2023-02-06 | 4 | 423 | 
 | 2023-02-05 | 4 | 420 | 
-| 2023-02-04 | 4 | 388 | 
 

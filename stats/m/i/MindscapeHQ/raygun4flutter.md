@@ -1,6 +1,6 @@
 # MindscapeHQ/raygun4flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7 | 5 | 
 | 2023-03-05 | 7 | 5 | 
 | 2023-03-04 | 7 | 5 | 
 | 2023-03-02 | 7 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 7 | 5 | 
 | 2023-02-06 | 7 | 5 | 
 | 2023-02-05 | 7 | 5 | 
-| 2023-02-04 | 7 | 5 | 
 

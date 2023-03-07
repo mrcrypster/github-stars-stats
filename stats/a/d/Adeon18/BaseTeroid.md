@@ -1,10 +1,10 @@
 # Adeon18/BaseTeroid - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Adeon18/BaseTeroid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 18 | 3 | 
 | 2023-03-05 | 17 | 2 | 
 | 2023-03-03 | 17 | 2 | 
 | 2023-03-02 | 17 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 17 | 1 | 
 | 2023-02-06 | 17 | 1 | 
 | 2023-02-05 | 17 | 1 | 
-| 2023-02-04 | 17 | 1 | 
 

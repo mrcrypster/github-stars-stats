@@ -1,10 +1,10 @@
 # jdah/minecraft-weekend - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 353
 
-★ Stars: 3164
+★ Stars: 3165
 
 [Open repository](https://github.com/jdah/minecraft-weekend)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3165 | 353 | 
 | 2023-03-04 | 3164 | 353 | 
 | 2023-03-03 | 3163 | 353 | 
 | 2023-03-02 | 3163 | 353 | 

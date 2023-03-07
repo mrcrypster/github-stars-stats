@@ -1,10 +1,10 @@
 # KohakuBlueleaf/LoCon - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 8
+☋ Forks: 10
 
-★ Stars: 160
+★ Stars: 198
 
 [Open repository](https://github.com/KohakuBlueleaf/LoCon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 198 | 10 | 
 | 2023-03-04 | 160 | 8 | 
 | 2023-03-03 | 150 | 7 | 
 | 2023-03-02 | 117 | 7 | 

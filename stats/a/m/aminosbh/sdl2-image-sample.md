@@ -1,6 +1,6 @@
 # aminosbh/sdl2-image-sample - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 41 | 5 | 
 | 2023-03-05 | 41 | 5 | 
 | 2023-03-04 | 41 | 5 | 
 | 2023-03-03 | 41 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 41 | 4 | 
 | 2023-02-07 | 40 | 4 | 
 | 2023-02-05 | 40 | 4 | 
-| 2023-02-04 | 40 | 4 | 
 

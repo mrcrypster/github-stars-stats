@@ -1,10 +1,10 @@
 # liaojack8/AndroidKiller - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/liaojack8/AndroidKiller)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 169 | 44 | 
 | 2023-03-05 | 168 | 43 | 
 | 2023-03-03 | 168 | 42 | 
 | 2023-03-02 | 168 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 157 | 41 | 
 | 2023-02-06 | 156 | 41 | 
 | 2023-02-05 | 156 | 41 | 
-| 2023-02-04 | 156 | 41 | 
 

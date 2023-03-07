@@ -1,10 +1,10 @@
 # deepnight/ldtk-haxe-api - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 24
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/deepnight/ldtk-haxe-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 76 | 24 | 
 | 2023-03-05 | 75 | 24 | 
 | 2023-03-03 | 75 | 24 | 
 | 2023-03-02 | 75 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 75 | 22 | 
 | 2023-02-06 | 75 | 22 | 
 | 2023-02-05 | 75 | 22 | 
-| 2023-02-04 | 74 | 22 | 
 

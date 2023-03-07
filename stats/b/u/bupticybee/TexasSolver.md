@@ -1,10 +1,10 @@
 # bupticybee/TexasSolver - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 185
 
-★ Stars: 971
+★ Stars: 974
 
 [Open repository](https://github.com/bupticybee/TexasSolver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 974 | 185 | 
 | 2023-03-04 | 971 | 185 | 
 | 2023-03-03 | 970 | 185 | 
 | 2023-03-02 | 970 | 185 | 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 673
 
-★ Stars: 5536
+★ Stars: 5578
 
 [Open repository](https://github.com/misskey-dev/misskey)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 5536 | 673 | 
+| 2023-03-06 | 5578 | 673 | 
 | 2023-03-05 | 5499 | 673 | 
 | 2023-03-04 | 5435 | 670 | 
 | 2023-03-03 | 5378 | 662 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-07 | 4650 | 568 | 
 | 2023-02-06 | 4641 | 566 | 
 | 2023-02-05 | 4558 | 561 | 
-| 2023-02-04 | 4475 | 558 | 
 

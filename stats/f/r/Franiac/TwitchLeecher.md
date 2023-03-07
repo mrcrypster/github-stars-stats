@@ -1,10 +1,10 @@
 # Franiac/TwitchLeecher - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 405
+☋ Forks: 406
 
-★ Stars: 2854
+★ Stars: 2853
 
 [Open repository](https://github.com/Franiac/TwitchLeecher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2853 | 406 | 
 | 2023-03-05 | 2854 | 405 | 
 | 2023-03-03 | 2854 | 405 | 
 | 2023-03-02 | 2854 | 405 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2859 | 402 | 
 | 2023-02-06 | 2857 | 402 | 
 | 2023-02-05 | 2857 | 401 | 
-| 2023-02-04 | 2857 | 400 | 
 

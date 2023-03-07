@@ -1,6 +1,6 @@
 # posse-ap/template-ph3-quizy - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | - | 54 | 
 | 2023-03-04 | - | 54 | 
 | 2023-03-03 | - | 54 | 
 | 2023-03-02 | - | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | - | 50 | 
 | 2023-02-06 | - | 50 | 
 | 2023-02-05 | - | 50 | 
-| 2023-02-04 | - | 50 | 
 

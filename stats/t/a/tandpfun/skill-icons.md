@@ -1,10 +1,10 @@
 # tandpfun/skill-icons - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 289
+☋ Forks: 291
 
-★ Stars: 2010
+★ Stars: 2017
 
 [Open repository](https://github.com/tandpfun/skill-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2017 | 291 | 
 | 2023-03-05 | 2010 | 289 | 
 | 2023-03-04 | 2002 | 284 | 
 | 2023-03-03 | 1999 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1806 | 249 | 
 | 2023-02-06 | 1804 | 247 | 
 | 2023-02-05 | 1792 | 243 | 
-| 2023-02-04 | 1780 | 243 | 
 

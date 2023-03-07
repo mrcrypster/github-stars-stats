@@ -1,6 +1,6 @@
 # dlang/dub - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 231
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 617 | 231 | 
 | 2023-03-05 | 617 | 231 | 
 | 2023-03-04 | 618 | 231 | 
 | 2023-03-02 | 618 | 231 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 614 | 228 | 
 | 2023-02-06 | 615 | 228 | 
 | 2023-02-05 | 615 | 228 | 
-| 2023-02-04 | 615 | 228 | 
 

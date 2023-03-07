@@ -1,10 +1,10 @@
 # ineo6/hosts - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 339
+☋ Forks: 338
 
-★ Stars: 3240
+★ Stars: 3248
 
 [Open repository](https://github.com/ineo6/hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3248 | 338 | 
 | 2023-03-05 | 3240 | 339 | 
 | 2023-03-04 | 3241 | 339 | 
 | 2023-03-02 | 3230 | 338 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3104 | 326 | 
 | 2023-02-06 | 3095 | 326 | 
 | 2023-02-05 | 3087 | 325 | 
-| 2023-02-04 | 3082 | 325 | 
 

@@ -1,10 +1,10 @@
 # SAP-samples/abap-oo-basics - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 44
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/SAP-samples/abap-oo-basics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 127 | 44 | 
 | 2023-03-05 | 126 | 44 | 
 | 2023-03-03 | 126 | 44 | 
 | 2023-03-02 | 126 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 123 | 42 | 
 | 2023-02-06 | 123 | 42 | 
 | 2023-02-05 | 123 | 42 | 
-| 2023-02-04 | 123 | 42 | 
 

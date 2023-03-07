@@ -1,10 +1,10 @@
 # Artawower/blamer.el - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 10
 
-★ Stars: 339
+★ Stars: 343
 
 [Open repository](https://github.com/Artawower/blamer.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 343 | 10 | 
 | 2023-03-05 | 339 | 10 | 
 | 2023-03-04 | 339 | 10 | 
 | 2023-03-03 | 337 | 10 | 

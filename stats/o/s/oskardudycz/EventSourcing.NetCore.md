@@ -1,8 +1,8 @@
 # oskardudycz/EventSourcing.NetCore - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 425
+☋ Forks: 426
 
 ★ Stars: 2754
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2754 | 426 | 
 | 2023-03-05 | 2754 | 425 | 
 | 2023-03-04 | 2752 | 424 | 
 | 2023-03-02 | 2749 | 424 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2713 | 412 | 
 | 2023-02-06 | 2710 | 412 | 
 | 2023-02-05 | 2709 | 412 | 
-| 2023-02-04 | 2708 | 412 | 
 

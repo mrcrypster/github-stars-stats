@@ -1,6 +1,6 @@
 # winterqt/darwin-build-box - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 15 | 10 | 
 | 2023-03-05 | 15 | 10 | 
 | 2023-03-04 | 15 | 10 | 
 | 2023-03-03 | 15 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 13 | 8 | 
 | 2023-02-07 | 13 | 8 | 
 | 2023-02-06 | 13 | 8 | 
-| 2023-02-05 | 13 | 8 | 
 

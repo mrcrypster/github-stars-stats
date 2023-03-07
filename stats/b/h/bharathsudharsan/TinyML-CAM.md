@@ -1,6 +1,6 @@
 # bharathsudharsan/TinyML-CAM - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 183 | 15 | 
 | 2023-03-05 | 183 | 15 | 
 | 2023-03-04 | 183 | 15 | 
 | 2023-03-02 | 183 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 181 | 14 | 
 | 2023-02-06 | 180 | 14 | 
 | 2023-02-05 | 179 | 13 | 
-| 2023-02-04 | 179 | 13 | 
 

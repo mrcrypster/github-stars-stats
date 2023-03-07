@@ -1,10 +1,10 @@
 # Sentdex/BLOOM_Examples - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 66
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/Sentdex/BLOOM_Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 245 | 66 | 
 | 2023-03-05 | 244 | 66 | 
 | 2023-03-03 | 244 | 65 | 
 | 2023-03-02 | 244 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 242 | 61 | 
 | 2023-02-06 | 242 | 61 | 
 | 2023-02-05 | 242 | 61 | 
-| 2023-02-04 | 241 | 61 | 
 

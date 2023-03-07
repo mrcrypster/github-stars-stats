@@ -1,10 +1,10 @@
 # besuper/TwitchNoSub - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 37
 
-★ Stars: 422
+★ Stars: 428
 
 [Open repository](https://github.com/besuper/TwitchNoSub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 428 | 37 | 
 | 2023-03-05 | 422 | 37 | 
 | 2023-03-04 | 418 | 37 | 
 | 2023-03-03 | 414 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 362 | 35 | 
 | 2023-02-06 | 360 | 34 | 
 | 2023-02-05 | 358 | 34 | 
-| 2023-02-04 | 355 | 33 | 
 

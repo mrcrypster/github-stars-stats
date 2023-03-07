@@ -1,10 +1,10 @@
 # vEnhance/napkin - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 92
+☋ Forks: 91
 
-★ Stars: 834
+★ Stars: 839
 
 [Open repository](https://github.com/vEnhance/napkin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 839 | 91 | 
 | 2023-03-05 | 834 | 92 | 
 | 2023-03-04 | 829 | 91 | 
 | 2023-03-02 | 829 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 817 | 89 | 
 | 2023-02-06 | 817 | 89 | 
 | 2023-02-05 | 816 | 89 | 
-| 2023-02-04 | 816 | 89 | 
 

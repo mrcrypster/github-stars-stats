@@ -1,10 +1,10 @@
 # open-policy-agent/gatekeeper - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 650
 
-★ Stars: 2957
+★ Stars: 2958
 
 [Open repository](https://github.com/open-policy-agent/gatekeeper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2958 | 650 | 
 | 2023-03-05 | 2957 | 650 | 
 | 2023-03-04 | 2957 | 649 | 
 | 2023-03-03 | 2953 | 649 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2910 | 640 | 
 | 2023-02-06 | 2909 | 640 | 
 | 2023-02-05 | 2907 | 639 | 
-| 2023-02-04 | 2902 | 639 | 
 

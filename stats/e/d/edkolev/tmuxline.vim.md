@@ -1,6 +1,6 @@
 # edkolev/tmuxline.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1564 | 91 | 
 | 2023-03-05 | 1564 | 91 | 
 | 2023-03-04 | 1564 | 91 | 
 | 2023-03-03 | 1565 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1561 | 91 | 
 | 2023-02-06 | 1561 | 91 | 
 | 2023-02-05 | 1561 | 91 | 
-| 2023-02-04 | 1561 | 91 | 
 

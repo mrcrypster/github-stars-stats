@@ -1,10 +1,10 @@
 # mojotech/torch - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 70
 
-★ Stars: 906
+★ Stars: 907
 
 [Open repository](https://github.com/mojotech/torch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 907 | 70 | 
 | 2023-03-05 | 906 | 70 | 
 | 2023-03-04 | 906 | 70 | 
 | 2023-03-02 | 906 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 900 | 69 | 
 | 2023-02-06 | 899 | 69 | 
 | 2023-02-05 | 899 | 69 | 
-| 2023-02-04 | 899 | 69 | 
 

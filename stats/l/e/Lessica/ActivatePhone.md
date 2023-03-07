@@ -1,10 +1,10 @@
 # Lessica/ActivatePhone - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/Lessica/ActivatePhone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 21 | 1 | 
 | 2023-03-05 | 20 | 1 | 
 | 2023-03-03 | 20 | 1 | 
 | 2023-03-02 | 20 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 20 | 1 | 
 | 2023-02-06 | 20 | 1 | 
 | 2023-02-05 | 20 | 1 | 
-| 2023-02-04 | 20 | 1 | 
 

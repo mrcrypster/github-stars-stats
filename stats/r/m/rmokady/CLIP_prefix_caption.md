@@ -1,10 +1,10 @@
 # rmokady/CLIP_prefix_caption - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 149
+☋ Forks: 150
 
-★ Stars: 779
+★ Stars: 781
 
 [Open repository](https://github.com/rmokady/CLIP_prefix_caption)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 781 | 150 | 
 | 2023-03-05 | 779 | 149 | 
 | 2023-03-04 | 778 | 148 | 
 | 2023-03-03 | 775 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 730 | 144 | 
 | 2023-02-06 | 730 | 143 | 
 | 2023-02-05 | 728 | 143 | 
-| 2023-02-04 | 727 | 143 | 
 

@@ -1,10 +1,10 @@
 # gravitational/teleport - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1430
+☋ Forks: 1431
 
-★ Stars: 13877
+★ Stars: 13890
 
 [Open repository](https://github.com/gravitational/teleport)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 13890 | 1431 | 
 | 2023-03-05 | 13877 | 1430 | 
 | 2023-03-04 | 13868 | 1429 | 
 | 2023-03-02 | 13862 | 1430 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 13657 | 1404 | 
 | 2023-02-06 | 13648 | 1403 | 
 | 2023-02-05 | 13639 | 1402 | 
-| 2023-02-04 | 13624 | 1401 | 
 

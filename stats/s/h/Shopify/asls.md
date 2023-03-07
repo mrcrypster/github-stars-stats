@@ -1,10 +1,10 @@
 # Shopify/asls - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 55
+★ Stars: 54
 
 [Open repository](https://github.com/Shopify/asls)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 54 | 4 | 
 | 2023-03-05 | 55 | 4 | 
 | 2023-03-04 | 55 | 4 | 
 | 2023-03-03 | 55 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 55 | 4 | 
 | 2023-02-06 | 55 | 4 | 
 | 2023-02-05 | 55 | 4 | 
-| 2023-02-04 | 55 | 4 | 
 

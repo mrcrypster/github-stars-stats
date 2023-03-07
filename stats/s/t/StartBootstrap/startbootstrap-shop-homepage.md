@@ -1,6 +1,6 @@
 # StartBootstrap/startbootstrap-shop-homepage - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 634
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 398 | 634 | 
 | 2023-03-05 | 398 | 634 | 
 | 2023-03-04 | 398 | 634 | 
 | 2023-03-02 | 398 | 633 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 394 | 632 | 
 | 2023-02-06 | 395 | 631 | 
 | 2023-02-05 | 395 | 631 | 
-| 2023-02-04 | 395 | 631 | 
 

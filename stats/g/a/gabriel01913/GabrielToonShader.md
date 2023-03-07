@@ -1,10 +1,10 @@
 # gabriel01913/GabrielToonShader - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/gabriel01913/GabrielToonShader)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 20 | 4 | 
 | 2023-03-05 | 19 | 4 | 
 | 2023-03-04 | 19 | 4 | 
 | 2023-03-02 | 19 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 18 | 4 | 
 | 2023-02-06 | 18 | 4 | 
 | 2023-02-05 | 18 | 4 | 
-| 2023-02-04 | 16 | 4 | 
 

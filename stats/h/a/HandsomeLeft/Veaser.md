@@ -1,10 +1,10 @@
 # HandsomeLeft/Veaser - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 88
+★ Stars: 92
 
 [Open repository](https://github.com/HandsomeLeft/Veaser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 92 | 1 | 
 | 2023-03-05 | 88 | 1 | 
 | 2023-03-03 | 81 | 1 | 
 | 2023-03-02 | 77 | 1 | 

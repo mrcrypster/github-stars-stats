@@ -1,6 +1,6 @@
 # uwplse/verdi - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 545 | 57 | 
 | 2023-03-05 | 545 | 57 | 
 | 2023-03-04 | 545 | 57 | 
 | 2023-03-03 | 545 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 541 | 56 | 
 | 2023-02-06 | 541 | 56 | 
 | 2023-02-05 | 541 | 56 | 
-| 2023-02-04 | 541 | 56 | 
 

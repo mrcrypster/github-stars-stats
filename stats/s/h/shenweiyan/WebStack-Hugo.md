@@ -1,10 +1,10 @@
 # shenweiyan/WebStack-Hugo - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 60
+☋ Forks: 59
 
-★ Stars: 346
+★ Stars: 348
 
 [Open repository](https://github.com/shenweiyan/WebStack-Hugo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 348 | 59 | 
 | 2023-03-04 | 346 | 60 | 
 | 2023-03-03 | 344 | 60 | 
 | 2023-03-02 | 341 | 59 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 319 | 55 | 
 | 2023-02-06 | 319 | 54 | 
 | 2023-02-05 | 318 | 54 | 
-| 2023-02-04 | 316 | 54 | 
 

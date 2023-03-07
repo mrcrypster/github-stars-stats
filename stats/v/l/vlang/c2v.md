@@ -1,10 +1,10 @@
 # vlang/c2v - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 19
 
-★ Stars: 150
+★ Stars: 153
 
 [Open repository](https://github.com/vlang/c2v)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 153 | 19 | 
 | 2023-03-05 | 150 | 19 | 
 | 2023-03-04 | 149 | 19 | 
 | 2023-03-02 | 150 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 145 | 18 | 
 | 2023-02-06 | 144 | 18 | 
 | 2023-02-05 | 144 | 18 | 
-| 2023-02-04 | 144 | 18 | 
 

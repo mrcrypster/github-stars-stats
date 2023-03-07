@@ -1,10 +1,10 @@
 # malob/nixpkgs - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 24
 
-★ Stars: 264
+★ Stars: 263
 
 [Open repository](https://github.com/malob/nixpkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 263 | 24 | 
 | 2023-03-05 | 264 | 24 | 
 | 2023-03-04 | 262 | 23 | 
 | 2023-03-03 | 262 | 24 | 

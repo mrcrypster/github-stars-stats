@@ -1,10 +1,10 @@
 # aws4embeddedlinux/meta-aws - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/aws4embeddedlinux/meta-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 95 | 70 | 
 | 2023-03-05 | 94 | 69 | 
 | 2023-03-04 | 94 | 69 | 
 | 2023-03-03 | 94 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 91 | 69 | 
 | 2023-02-06 | 91 | 69 | 
 | 2023-02-05 | 91 | 69 | 
-| 2023-02-04 | 91 | 69 | 
 

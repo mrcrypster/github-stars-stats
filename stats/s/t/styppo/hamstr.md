@@ -1,10 +1,10 @@
 # styppo/hamstr - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 17
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/styppo/hamstr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 46 | 17 | 
 | 2023-03-05 | 45 | 17 | 
 | 2023-03-04 | 45 | 16 | 
 | 2023-03-02 | 45 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 31 | 10 | 
 | 2023-02-06 | 31 | 10 | 
 | 2023-02-05 | 29 | 10 | 
-| 2023-02-04 | 29 | 9 | 
 

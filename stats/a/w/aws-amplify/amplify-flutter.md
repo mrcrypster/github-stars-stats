@@ -1,6 +1,6 @@
 # aws-amplify/amplify-flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1168 | 180 | 
 | 2023-03-05 | 1168 | 180 | 
 | 2023-03-04 | 1168 | 180 | 
 | 2023-03-03 | 1167 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1151 | 180 | 
 | 2023-02-06 | 1151 | 180 | 
 | 2023-02-05 | 1150 | 180 | 
-| 2023-02-04 | 1150 | 180 | 
 

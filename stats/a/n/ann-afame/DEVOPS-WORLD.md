@@ -1,10 +1,10 @@
 # ann-afame/DEVOPS-WORLD - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1247
+☋ Forks: 1248
 
-★ Stars: 1878
+★ Stars: 1884
 
 [Open repository](https://github.com/ann-afame/DEVOPS-WORLD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1884 | 1248 | 
 | 2023-03-05 | 1878 | 1247 | 
 | 2023-03-04 | 1861 | 1231 | 
 | 2023-03-02 | 1848 | 1219 | 

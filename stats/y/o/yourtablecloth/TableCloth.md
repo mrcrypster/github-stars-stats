@@ -1,6 +1,6 @@
 # yourtablecloth/TableCloth - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 563 | 24 | 
 | 2023-03-05 | 563 | 24 | 
 | 2023-03-04 | 562 | 24 | 
 | 2023-03-03 | 562 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 560 | 23 | 
 | 2023-02-06 | 560 | 23 | 
 | 2023-02-05 | 558 | 23 | 
-| 2023-02-04 | 558 | 23 | 
 

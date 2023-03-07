@@ -1,8 +1,8 @@
 # BL-MSCH-C220/Exercise-04c-Enemies - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 15
+☋ Forks: 26
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | - | 26 | 
+| 2023-03-06 | - | 21 | 
 | 2023-03-05 | - | 15 | 
 | 2023-03-04 | - | 12 | 
 

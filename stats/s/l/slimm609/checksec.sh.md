@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 281
 
-★ Stars: 1712
+★ Stars: 1713
 
 [Open repository](https://github.com/slimm609/checksec.sh)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 1712 | 281 | 
+| 2023-03-06 | 1713 | 281 | 
 | 2023-03-05 | 1712 | 281 | 
 | 2023-03-04 | 1710 | 281 | 
 | 2023-03-02 | 1707 | 281 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-07 | 1689 | 279 | 
 | 2023-02-06 | 1689 | 279 | 
 | 2023-02-05 | 1689 | 279 | 
-| 2023-02-04 | 1687 | 279 | 
 

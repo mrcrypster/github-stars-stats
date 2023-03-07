@@ -1,10 +1,10 @@
 # pachterlab/gget - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 45
 
-★ Stars: 699
+★ Stars: 701
 
 [Open repository](https://github.com/pachterlab/gget)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 701 | 45 | 
 | 2023-03-05 | 699 | 45 | 
 | 2023-03-03 | 700 | 45 | 
 | 2023-03-02 | 700 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 683 | 44 | 
 | 2023-02-06 | 681 | 44 | 
 | 2023-02-05 | 681 | 44 | 
-| 2023-02-04 | 681 | 44 | 
 

@@ -1,10 +1,10 @@
 # Alkia/electra - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 104
 
-★ Stars: 209
+★ Stars: 201
 
 [Open repository](https://github.com/Alkia/electra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 201 | 104 | 
 | 2023-03-04 | 209 | 104 | 
 | 2023-03-03 | 209 | 104 | 
 | 2023-03-02 | 209 | 104 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 208 | 104 | 
 | 2023-02-07 | 208 | 104 | 
 | 2023-02-06 | 208 | 104 | 
-| 2023-02-04 | 208 | 104 | 
 

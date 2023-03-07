@@ -1,10 +1,10 @@
 # Leapsight/bondy - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 9
 
-★ Stars: 74
+★ Stars: 73
 
 [Open repository](https://github.com/Leapsight/bondy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 73 | 9 | 
 | 2023-03-05 | 74 | 9 | 
 | 2023-03-04 | 74 | 8 | 
 | 2023-03-03 | 74 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 72 | 8 | 
 | 2023-02-06 | 71 | 8 | 
 | 2023-02-05 | 71 | 8 | 
-| 2023-02-04 | 71 | 8 | 
 

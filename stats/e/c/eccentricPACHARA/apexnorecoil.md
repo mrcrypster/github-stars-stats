@@ -1,10 +1,10 @@
 # eccentricPACHARA/apexnorecoil - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 28
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/eccentricPACHARA/apexnorecoil)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 28 | 28 | 
 | 2023-03-05 | 27 | 28 | 
 | 2023-03-04 | 27 | 28 | 
 | 2023-03-03 | 27 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 27 | 28 | 
 | 2023-02-06 | 27 | 28 | 
 | 2023-02-05 | 27 | 28 | 
-| 2023-02-04 | 27 | 28 | 
 

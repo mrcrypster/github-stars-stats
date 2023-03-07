@@ -1,10 +1,10 @@
 # aminosbh/sdl2-cmake-modules - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 49
 
-★ Stars: 313
+★ Stars: 314
 
 [Open repository](https://github.com/aminosbh/sdl2-cmake-modules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 314 | 49 | 
 | 2023-03-05 | 313 | 49 | 
 | 2023-03-04 | 314 | 49 | 
 | 2023-03-03 | 314 | 49 | 

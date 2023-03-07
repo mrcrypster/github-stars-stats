@@ -1,10 +1,10 @@
 # DarkaOnLine/L5-Swagger - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 358
 
-★ Stars: 2163
+★ Stars: 2164
 
 [Open repository](https://github.com/DarkaOnLine/L5-Swagger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2164 | 358 | 
 | 2023-03-05 | 2163 | 358 | 
 | 2023-03-04 | 2163 | 359 | 
 | 2023-03-02 | 2162 | 359 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2140 | 354 | 
 | 2023-02-06 | 2139 | 354 | 
 | 2023-02-05 | 2139 | 354 | 
-| 2023-02-04 | 2139 | 354 | 
 

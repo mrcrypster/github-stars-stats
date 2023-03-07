@@ -1,10 +1,10 @@
 # vincentarelbundock/marginaleffects - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 21
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/vincentarelbundock/marginaleffects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 219 | 21 | 
 | 2023-03-05 | 218 | 21 | 
 | 2023-03-03 | 218 | 21 | 
 | 2023-03-02 | 217 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 211 | 19 | 
 | 2023-02-06 | 210 | 19 | 
 | 2023-02-05 | 210 | 19 | 
-| 2023-02-04 | 209 | 19 | 
 

@@ -1,10 +1,10 @@
 # FeatureProbe/FeatureProbe - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 41
+☋ Forks: 49
 
-★ Stars: 698
+★ Stars: 783
 
 [Open repository](https://github.com/FeatureProbe/FeatureProbe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 783 | 49 | 
 | 2023-03-05 | 698 | 41 | 
 | 2023-03-04 | 664 | 41 | 
 

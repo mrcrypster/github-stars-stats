@@ -1,10 +1,10 @@
 # pcw109550/write-up - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 27
 
-★ Stars: 137
+★ Stars: 136
 
 [Open repository](https://github.com/pcw109550/write-up)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 136 | 27 | 
 | 2023-03-05 | 137 | 27 | 
 | 2023-03-04 | 137 | 27 | 
 | 2023-03-02 | 137 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 136 | 27 | 
 | 2023-02-06 | 136 | 27 | 
 | 2023-02-05 | 136 | 27 | 
-| 2023-02-04 | 136 | 27 | 
 

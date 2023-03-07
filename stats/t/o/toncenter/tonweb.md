@@ -1,10 +1,10 @@
 # toncenter/tonweb - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 63
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/toncenter/tonweb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 246 | 63 | 
 | 2023-03-05 | 245 | 63 | 
 | 2023-03-04 | 245 | 63 | 
 | 2023-03-03 | 245 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 236 | 59 | 
 | 2023-02-06 | 236 | 59 | 
 | 2023-02-05 | 235 | 58 | 
-| 2023-02-04 | 235 | 58 | 
 

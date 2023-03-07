@@ -1,8 +1,8 @@
 # Qiskit/qiskit-terra - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1870
+☋ Forks: 1871
 
 ★ Stars: 3509
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3509 | 1871 | 
 | 2023-03-05 | 3509 | 1870 | 
 | 2023-03-04 | 3506 | 1868 | 
 | 2023-03-03 | 3506 | 1865 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 3486 | 1855 | 
 | 2023-02-07 | 3486 | 1855 | 
 | 2023-02-05 | 3485 | 1852 | 
-| 2023-02-04 | 3484 | 1851 | 
 

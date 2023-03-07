@@ -1,10 +1,10 @@
 # codinasion/program - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 462
 
-★ Stars: 244
+★ Stars: 246
 
 [Open repository](https://github.com/codinasion/program)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 246 | 462 | 
 | 2023-03-04 | 244 | 462 | 
 | 2023-03-03 | 245 | 461 | 
 | 2023-03-02 | 244 | 460 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 233 | 424 | 
 | 2023-02-07 | 233 | 425 | 
 | 2023-02-06 | 233 | 424 | 
-| 2023-02-05 | 232 | 424 | 
 

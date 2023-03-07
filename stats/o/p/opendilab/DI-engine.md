@@ -1,10 +1,10 @@
 # opendilab/DI-engine - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 307
+☋ Forks: 308
 
-★ Stars: 2273
+★ Stars: 2277
 
 [Open repository](https://github.com/opendilab/DI-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2277 | 308 | 
 | 2023-03-05 | 2273 | 307 | 
 | 2023-03-03 | 2272 | 307 | 
 | 2023-03-02 | 2272 | 307 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2224 | 302 | 
 | 2023-02-06 | 2219 | 299 | 
 | 2023-02-05 | 2216 | 298 | 
-| 2023-02-04 | 2215 | 298 | 
 

@@ -1,10 +1,10 @@
 # cyberspacedk/Git-commands - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 451
 
-★ Stars: 713
+★ Stars: 715
 
 [Open repository](https://github.com/cyberspacedk/Git-commands)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 715 | 451 | 
 | 2023-03-05 | 713 | 451 | 
 | 2023-03-03 | 713 | 450 | 
 | 2023-03-02 | 712 | 449 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 698 | 443 | 
 | 2023-02-06 | 698 | 442 | 
 | 2023-02-05 | 696 | 442 | 
-| 2023-02-04 | 694 | 440 | 
 

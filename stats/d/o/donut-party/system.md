@@ -1,10 +1,10 @@
 # donut-party/system - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/donut-party/system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 123 | 5 | 
 | 2023-03-05 | 122 | 5 | 
 | 2023-03-04 | 122 | 5 | 
 | 2023-03-03 | 122 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 116 | 4 | 
 | 2023-02-06 | 116 | 4 | 
 | 2023-02-05 | 116 | 4 | 
-| 2023-02-04 | 116 | 4 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 06
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 111
+★ Stars: 113
 
 [Open repository](https://github.com/jovyntls/cheatsheets)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 111 | 14 | 
+| 2023-03-06 | 113 | 15 | 
 | 2023-03-05 | 111 | 14 | 
 | 2023-03-04 | 111 | 14 | 
 | 2023-03-03 | 109 | 13 | 

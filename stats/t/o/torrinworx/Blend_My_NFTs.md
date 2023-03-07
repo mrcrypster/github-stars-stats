@@ -1,10 +1,10 @@
 # torrinworx/Blend_My_NFTs - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 335
+☋ Forks: 336
 
-★ Stars: 912
+★ Stars: 915
 
 [Open repository](https://github.com/torrinworx/Blend_My_NFTs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 915 | 336 | 
 | 2023-03-05 | 912 | 335 | 
 | 2023-03-04 | 911 | 335 | 
 | 2023-03-03 | 911 | 335 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 905 | 333 | 
 | 2023-02-07 | 905 | 333 | 
 | 2023-02-06 | 905 | 333 | 
-| 2023-02-04 | 905 | 333 | 
 

@@ -1,10 +1,10 @@
 # HowardHinnant/date - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 617
+☋ Forks: 618
 
-★ Stars: 2792
+★ Stars: 2791
 
 [Open repository](https://github.com/HowardHinnant/date)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2791 | 618 | 
 | 2023-03-05 | 2792 | 617 | 
 | 2023-03-04 | 2792 | 617 | 
 | 2023-03-02 | 2789 | 617 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2769 | 611 | 
 | 2023-02-06 | 2769 | 610 | 
 | 2023-02-05 | 2768 | 610 | 
-| 2023-02-04 | 2767 | 609 | 
 

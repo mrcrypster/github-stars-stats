@@ -1,10 +1,10 @@
 # TheRamU/Fay - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 112
 
-★ Stars: 454
+★ Stars: 457
 
 [Open repository](https://github.com/TheRamU/Fay)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 457 | 112 | 
 | 2023-03-04 | 454 | 112 | 
 | 2023-03-03 | 451 | 112 | 
 | 2023-03-02 | 446 | 110 | 

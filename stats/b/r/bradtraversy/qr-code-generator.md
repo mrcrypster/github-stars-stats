@@ -1,8 +1,8 @@
 # bradtraversy/qr-code-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 108
+☋ Forks: 107
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 195 | 107 | 
 | 2023-03-05 | 195 | 108 | 
 | 2023-03-04 | 195 | 107 | 
 | 2023-03-02 | 195 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 189 | 104 | 
 | 2023-02-06 | 188 | 104 | 
 | 2023-02-05 | 188 | 103 | 
-| 2023-02-04 | 188 | 103 | 
 

@@ -1,6 +1,6 @@
 # pdftables/vba-pdftables-api - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 27 | 378 | 
 | 2023-03-05 | 27 | 378 | 
 | 2023-03-04 | 27 | 378 | 
 | 2023-03-03 | 27 | 378 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 27 | 364 | 
 | 2023-02-06 | 27 | 363 | 
 | 2023-02-05 | 27 | 361 | 
-| 2023-02-04 | 27 | 361 | 
 

@@ -1,10 +1,10 @@
 # docker/getting-started - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 6082
+☋ Forks: 6080
 
-★ Stars: 2536
+★ Stars: 2538
 
 [Open repository](https://github.com/docker/getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2538 | 6080 | 
 | 2023-03-05 | 2536 | 6082 | 
 | 2023-03-03 | 2536 | 6079 | 
 | 2023-03-02 | 2534 | 6079 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2477 | 6034 | 
 | 2023-02-06 | 2476 | 6032 | 
 | 2023-02-05 | 2472 | 6030 | 
-| 2023-02-04 | 2471 | 6032 | 
 

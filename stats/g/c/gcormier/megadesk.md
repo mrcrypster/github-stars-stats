@@ -1,10 +1,10 @@
 # gcormier/megadesk - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 49
 
-★ Stars: 568
+★ Stars: 569
 
 [Open repository](https://github.com/gcormier/megadesk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 569 | 49 | 
 | 2023-03-05 | 568 | 49 | 
 | 2023-03-04 | 568 | 49 | 
 | 2023-03-02 | 568 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 559 | 49 | 
 | 2023-02-06 | 557 | 49 | 
 | 2023-02-05 | 557 | 49 | 
-| 2023-02-04 | 557 | 49 | 
 

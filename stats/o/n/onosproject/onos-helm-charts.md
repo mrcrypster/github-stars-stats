@@ -1,10 +1,10 @@
 # onosproject/onos-helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 31
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/onosproject/onos-helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 29 | 31 | 
 | 2023-03-05 | 28 | 31 | 
 | 2023-03-04 | 28 | 31 | 
 | 2023-03-02 | 28 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 28 | 31 | 
 | 2023-02-06 | 28 | 31 | 
 | 2023-02-05 | 28 | 31 | 
-| 2023-02-04 | 28 | 31 | 
 

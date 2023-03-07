@@ -1,6 +1,6 @@
 # oracle-oci/oracle-2022-2 - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | - | 93 | 
 | 2023-03-05 | - | 93 | 
 | 2023-03-04 | - | 93 | 
 | 2023-03-02 | - | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | - | 93 | 
 | 2023-02-06 | - | 93 | 
 | 2023-02-05 | - | 93 | 
-| 2023-02-04 | - | 93 | 
 

@@ -1,10 +1,10 @@
 # StarCrossPortal/scalpel - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 70
 
-★ Stars: 605
+★ Stars: 606
 
 [Open repository](https://github.com/StarCrossPortal/scalpel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 606 | 70 | 
 | 2023-03-05 | 605 | 70 | 
 | 2023-03-04 | 605 | 70 | 
 | 2023-03-03 | 605 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 585 | 71 | 
 | 2023-02-07 | 585 | 71 | 
 | 2023-02-06 | 583 | 71 | 
-| 2023-02-05 | 583 | 71 | 
 

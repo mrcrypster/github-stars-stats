@@ -1,10 +1,10 @@
 # spatie/laravel-notification-log - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 72
+★ Stars: 85
 
 [Open repository](https://github.com/spatie/laravel-notification-log)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 85 | 3 | 
 | 2023-03-05 | 72 | 2 | 
 | 2023-03-04 | 64 | 2 | 
 | 2023-03-02 | 57 | 2 | 

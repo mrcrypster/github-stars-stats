@@ -1,10 +1,10 @@
 # mymmsc/books - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 854
 
-★ Stars: 1946
+★ Stars: 1947
 
 [Open repository](https://github.com/mymmsc/books)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1947 | 854 | 
 | 2023-03-05 | 1946 | 854 | 
 | 2023-03-04 | 1946 | 854 | 
 | 2023-03-03 | 1945 | 853 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 1933 | 846 | 
 | 2023-02-07 | 1932 | 844 | 
 | 2023-02-06 | 1929 | 844 | 
-| 2023-02-04 | 1928 | 844 | 
 

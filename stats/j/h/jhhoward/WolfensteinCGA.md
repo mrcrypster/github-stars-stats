@@ -1,6 +1,6 @@
 # jhhoward/WolfensteinCGA - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 262 | 4 | 
 | 2023-03-05 | 262 | 4 | 
 | 2023-03-04 | 262 | 4 | 
 | 2023-03-03 | 261 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 246 | 3 | 
 | 2023-02-07 | 247 | 3 | 
 | 2023-02-06 | 246 | 3 | 
-| 2023-02-04 | 246 | 3 | 
 

@@ -1,10 +1,10 @@
 # apache/maven-mvnd - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 169
 
-★ Stars: 2270
+★ Stars: 2271
 
 [Open repository](https://github.com/apache/maven-mvnd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2271 | 169 | 
 | 2023-03-04 | 2270 | 169 | 
 | 2023-03-03 | 2270 | 168 | 
 | 2023-03-02 | 2265 | 168 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 2240 | 167 | 
 | 2023-02-06 | 2238 | 167 | 
 | 2023-02-05 | 2235 | 166 | 
-| 2023-02-04 | 2234 | 167 | 
 

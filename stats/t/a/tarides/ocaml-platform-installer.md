@@ -1,6 +1,6 @@
 # tarides/ocaml-platform-installer - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 48 | 9 | 
 | 2023-03-05 | 48 | 9 | 
 | 2023-03-04 | 48 | 9 | 
 | 2023-03-03 | 47 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 46 | 9 | 
 | 2023-02-07 | 46 | 9 | 
 | 2023-02-06 | 46 | 9 | 
-| 2023-02-05 | 46 | 9 | 
 

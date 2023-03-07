@@ -1,10 +1,10 @@
 # nf-core/rnasplice - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/nf-core/rnasplice)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2 | 6 | 
 | 2023-03-05 | 1 | 5 | 
 | 2023-03-03 | 1 | 5 | 
 | 2023-03-02 | 1 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1 | 4 | 
 | 2023-02-06 | 1 | 4 | 
 | 2023-02-05 | 1 | 4 | 
-| 2023-02-04 | 1 | 4 | 
 

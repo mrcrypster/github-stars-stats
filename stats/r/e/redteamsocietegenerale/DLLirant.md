@@ -1,10 +1,10 @@
 # redteamsocietegenerale/DLLirant - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 27
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/redteamsocietegenerale/DLLirant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 253 | 27 | 
 | 2023-03-05 | 252 | 27 | 
 | 2023-03-04 | 252 | 27 | 
 | 2023-03-03 | 252 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 248 | 26 | 
 | 2023-02-06 | 248 | 26 | 
 | 2023-02-05 | 248 | 26 | 
-| 2023-02-04 | 248 | 26 | 
 

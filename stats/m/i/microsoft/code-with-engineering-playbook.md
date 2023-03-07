@@ -1,10 +1,10 @@
 # microsoft/code-with-engineering-playbook - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 462
 
-★ Stars: 1569
+★ Stars: 1570
 
 [Open repository](https://github.com/microsoft/code-with-engineering-playbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1570 | 462 | 
 | 2023-03-05 | 1569 | 462 | 
 | 2023-03-04 | 1568 | 462 | 
 | 2023-03-03 | 1565 | 462 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1535 | 447 | 
 | 2023-02-06 | 1534 | 447 | 
 | 2023-02-05 | 1534 | 446 | 
-| 2023-02-04 | 1530 | 446 | 
 

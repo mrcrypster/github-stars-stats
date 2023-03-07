@@ -1,6 +1,6 @@
 # SkywalkerJi/mdt - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 723 | 98 | 
 | 2023-03-05 | 723 | 98 | 
 | 2023-03-04 | 721 | 97 | 
 | 2023-03-03 | 720 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 716 | 96 | 
 | 2023-02-06 | 715 | 96 | 
 | 2023-02-05 | 715 | 96 | 
-| 2023-02-04 | 714 | 96 | 
 

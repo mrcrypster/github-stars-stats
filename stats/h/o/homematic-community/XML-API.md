@@ -1,6 +1,6 @@
 # homematic-community/XML-API - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 107 | 26 | 
 | 2023-03-04 | 107 | 26 | 
 | 2023-03-03 | 107 | 26 | 
 | 2023-03-02 | 107 | 26 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 106 | 27 | 
 | 2023-02-06 | 106 | 27 | 
 | 2023-02-05 | 106 | 27 | 
-| 2023-02-04 | 106 | 26 | 
 

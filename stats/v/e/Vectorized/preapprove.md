@@ -1,6 +1,6 @@
 # Vectorized/preapprove - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 39 | 2 | 
 | 2023-03-05 | 39 | 2 | 
 | 2023-03-04 | 39 | 2 | 
 | 2023-03-03 | 39 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 38 | 2 | 
 | 2023-02-06 | 38 | 2 | 
 | 2023-02-05 | 38 | 2 | 
-| 2023-02-04 | 38 | 2 | 
 

@@ -1,6 +1,6 @@
 # caseykneale/VIMKiller - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1130 | 12 | 
 | 2023-03-05 | 1130 | 12 | 
 | 2023-03-04 | 1130 | 12 | 
 | 2023-03-03 | 1130 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1123 | 12 | 
 | 2023-02-06 | 1123 | 12 | 
 | 2023-02-05 | 1123 | 12 | 
-| 2023-02-04 | 1123 | 12 | 
 

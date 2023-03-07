@@ -1,6 +1,6 @@
 # cristiantela/lula2turno - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 55 | 31 | 
 | 2023-03-05 | 55 | 31 | 
 | 2023-03-03 | 55 | 31 | 
 | 2023-03-02 | 55 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 55 | 31 | 
 | 2023-02-06 | 55 | 31 | 
 | 2023-02-05 | 55 | 31 | 
-| 2023-02-04 | 55 | 31 | 
 

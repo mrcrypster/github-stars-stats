@@ -1,10 +1,10 @@
 # hongfz16/EVA3D - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 335
+★ Stars: 338
 
 [Open repository](https://github.com/hongfz16/EVA3D)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 338 | 21 | 
 | 2023-03-05 | 335 | 19 | 
 | 2023-03-04 | 332 | 19 | 
 | 2023-03-03 | 330 | 18 | 

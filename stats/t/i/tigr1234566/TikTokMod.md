@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 180
+★ Stars: 182
 
 [Open repository](https://github.com/tigr1234566/TikTokMod)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 180 | 6 | 
+| 2023-03-06 | 182 | 6 | 
 | 2023-03-05 | 180 | 6 | 
 | 2023-03-03 | 177 | 6 | 
 | 2023-03-02 | 178 | 6 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-07 | 170 | 6 | 
 | 2023-02-06 | 170 | 6 | 
 | 2023-02-05 | 170 | 6 | 
-| 2023-02-04 | 170 | 6 | 
 

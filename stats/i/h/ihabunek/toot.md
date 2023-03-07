@@ -1,10 +1,10 @@
 # ihabunek/toot - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 94
 
-★ Stars: 923
+★ Stars: 924
 
 [Open repository](https://github.com/ihabunek/toot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 924 | 94 | 
 | 2023-03-05 | 923 | 94 | 
 | 2023-03-04 | 922 | 93 | 
 | 2023-03-03 | 922 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 904 | 88 | 
 | 2023-02-06 | 904 | 88 | 
 | 2023-02-05 | 904 | 88 | 
-| 2023-02-04 | 904 | 88 | 
 

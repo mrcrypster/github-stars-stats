@@ -1,10 +1,10 @@
 # TheOtherRolesAU/TheOtherRoles - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 275
 
-★ Stars: 635
+★ Stars: 636
 
 [Open repository](https://github.com/TheOtherRolesAU/TheOtherRoles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 636 | 275 | 
 | 2023-03-05 | 635 | 275 | 
 | 2023-03-04 | 635 | 275 | 
 | 2023-03-02 | 635 | 274 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 634 | 270 | 
 | 2023-02-06 | 634 | 271 | 
 | 2023-02-05 | 635 | 271 | 
-| 2023-02-04 | 634 | 272 | 
 

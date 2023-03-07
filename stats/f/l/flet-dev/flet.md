@@ -1,10 +1,10 @@
 # flet-dev/flet - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 181
+☋ Forks: 182
 
-★ Stars: 4541
+★ Stars: 4590
 
 [Open repository](https://github.com/flet-dev/flet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 4590 | 182 | 
 | 2023-03-05 | 4541 | 181 | 
 | 2023-03-03 | 4520 | 180 | 
 | 2023-03-02 | 4498 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 4239 | 164 | 
 | 2023-02-06 | 4215 | 163 | 
 | 2023-02-05 | 4192 | 162 | 
-| 2023-02-04 | 4174 | 160 | 
 

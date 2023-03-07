@@ -1,10 +1,10 @@
 # nextcloud/server - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 3422
 
-★ Stars: 21678
+★ Stars: 21689
 
 [Open repository](https://github.com/nextcloud/server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 21689 | 3422 | 
 | 2023-03-05 | 21678 | 3422 | 
 | 2023-03-04 | 21673 | 3419 | 
 | 2023-03-03 | 21672 | 3420 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 21480 | 3379 | 
 | 2023-02-06 | 21476 | 3376 | 
 | 2023-02-05 | 21469 | 3374 | 
-| 2023-02-04 | 21457 | 3373 | 
 

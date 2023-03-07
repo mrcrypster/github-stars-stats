@@ -1,10 +1,10 @@
 # NghiepCoder16/NghiepCoder16 - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/NghiepCoder16/NghiepCoder16)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 15 | 28 | 
 | 2023-03-05 | 14 | 27 | 
 | 2023-03-04 | 14 | 27 | 
 | 2023-03-03 | 14 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 13 | 25 | 
 | 2023-02-06 | 13 | 25 | 
 | 2023-02-05 | 13 | 25 | 
-| 2023-02-04 | 13 | 24 | 
 

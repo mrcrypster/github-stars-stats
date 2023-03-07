@@ -1,6 +1,6 @@
 # delikely/DVVA - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 40 | 4 | 
 | 2023-03-05 | 40 | 4 | 
 | 2023-03-04 | 40 | 4 | 
 | 2023-03-02 | 40 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 39 | 3 | 
 | 2023-02-07 | 39 | 3 | 
 | 2023-02-05 | 39 | 3 | 
-| 2023-02-04 | 38 | 3 | 
 

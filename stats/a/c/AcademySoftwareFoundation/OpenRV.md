@@ -1,10 +1,10 @@
 # AcademySoftwareFoundation/OpenRV - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 63
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/AcademySoftwareFoundation/OpenRV)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 358 | 63 | 
 | 2023-03-05 | 357 | 63 | 
 | 2023-03-04 | 357 | 63 | 
 | 2023-03-03 | 355 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 335 | 53 | 
 | 2023-02-07 | 334 | 53 | 
 | 2023-02-06 | 331 | 52 | 
-| 2023-02-05 | 328 | 51 | 
 

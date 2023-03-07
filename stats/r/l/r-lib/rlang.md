@@ -1,6 +1,6 @@
 # r-lib/rlang - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 425 | 119 | 
 | 2023-03-05 | 425 | 119 | 
 | 2023-03-04 | 425 | 119 | 
 | 2023-03-02 | 425 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 419 | 118 | 
 | 2023-02-07 | 419 | 118 | 
 | 2023-02-05 | 419 | 118 | 
-| 2023-02-04 | 418 | 118 | 
 

@@ -1,10 +1,10 @@
 # MoeClub/Note - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 322
 
-★ Stars: 560
+★ Stars: 563
 
 [Open repository](https://github.com/MoeClub/Note)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 563 | 322 | 
 | 2023-03-05 | 560 | 322 | 
 | 2023-03-04 | 560 | 321 | 
 | 2023-03-02 | 560 | 321 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 552 | 311 | 
 | 2023-02-06 | 552 | 311 | 
 | 2023-02-05 | 551 | 311 | 
-| 2023-02-04 | 551 | 310 | 
 

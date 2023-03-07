@@ -1,6 +1,6 @@
 # JuliaGaussianProcesses/KernelFunctions.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 236 | 27 | 
 | 2023-03-05 | 236 | 27 | 
 | 2023-03-04 | 236 | 27 | 
 | 2023-03-03 | 236 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 235 | 26 | 
 | 2023-02-06 | 235 | 26 | 
 | 2023-02-05 | 235 | 26 | 
-| 2023-02-04 | 235 | 26 | 
 

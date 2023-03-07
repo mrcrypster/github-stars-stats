@@ -1,10 +1,10 @@
 # grails/grails-doc - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 517
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/grails/grails-doc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 196 | 517 | 
 | 2023-03-04 | 195 | 517 | 
 | 2023-03-03 | 195 | 517 | 
 | 2023-03-02 | 195 | 517 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 195 | 515 | 
 | 2023-02-07 | 195 | 515 | 
 | 2023-02-06 | 195 | 515 | 
-| 2023-02-04 | 195 | 515 | 
 

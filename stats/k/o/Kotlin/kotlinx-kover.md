@@ -1,10 +1,10 @@
 # Kotlin/kotlinx-kover - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 32
+☋ Forks: 31
 
-★ Stars: 844
+★ Stars: 850
 
 [Open repository](https://github.com/Kotlin/kotlinx-kover)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 850 | 31 | 
 | 2023-03-05 | 844 | 32 | 
 | 2023-03-03 | 844 | 32 | 
 | 2023-03-02 | 842 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 816 | 30 | 
 | 2023-02-06 | 815 | 30 | 
 | 2023-02-05 | 815 | 30 | 
-| 2023-02-04 | 816 | 30 | 
 

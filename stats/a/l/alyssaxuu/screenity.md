@@ -1,10 +1,10 @@
 # alyssaxuu/screenity - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 675
 
-★ Stars: 8004
+★ Stars: 8006
 
 [Open repository](https://github.com/alyssaxuu/screenity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 8006 | 675 | 
 | 2023-03-05 | 8004 | 675 | 
 | 2023-03-03 | 7997 | 675 | 
 | 2023-03-02 | 7993 | 675 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 7950 | 668 | 
 | 2023-02-06 | 7948 | 668 | 
 | 2023-02-05 | 7943 | 668 | 
-| 2023-02-04 | 7944 | 668 | 
 

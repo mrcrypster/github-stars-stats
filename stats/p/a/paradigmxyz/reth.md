@@ -1,10 +1,10 @@
 # paradigmxyz/reth - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 159
+☋ Forks: 162
 
-★ Stars: 1195
+★ Stars: 1209
 
 [Open repository](https://github.com/paradigmxyz/reth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1209 | 162 | 
 | 2023-03-05 | 1195 | 159 | 
 | 2023-03-04 | 1193 | 159 | 
 | 2023-03-03 | 1182 | 156 | 

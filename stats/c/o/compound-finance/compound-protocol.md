@@ -1,10 +1,10 @@
 # compound-finance/compound-protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1143
+☋ Forks: 1144
 
-★ Stars: 1662
+★ Stars: 1664
 
 [Open repository](https://github.com/compound-finance/compound-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1664 | 1144 | 
 | 2023-03-05 | 1662 | 1143 | 
 | 2023-03-04 | 1659 | 1143 | 
 | 2023-03-02 | 1659 | 1145 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1640 | 1130 | 
 | 2023-02-06 | 1640 | 1128 | 
 | 2023-02-05 | 1640 | 1128 | 
-| 2023-02-04 | 1639 | 1127 | 
 

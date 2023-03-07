@@ -1,10 +1,10 @@
 # RiyadArgoub/all-freecodecamp-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 46
+★ Stars: 60
 
 [Open repository](https://github.com/RiyadArgoub/all-freecodecamp-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 60 | 57 | 
 | 2023-03-05 | 46 | 56 | 
 | 2023-03-04 | 47 | 55 | 
 | 2023-03-03 | 64 | 55 | 

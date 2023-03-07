@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/QRMumps.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 13 | 5 | 
 | 2023-03-05 | 13 | 5 | 
 | 2023-03-04 | 13 | 5 | 
 | 2023-03-03 | 13 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 13 | 5 | 
 | 2023-02-07 | 13 | 5 | 
 | 2023-02-05 | 13 | 5 | 
-| 2023-02-04 | 13 | 5 | 
 

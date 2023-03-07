@@ -1,6 +1,6 @@
 # supabase/auth-helpers - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 575 | 172 | 
 | 2023-03-04 | 575 | 172 | 
 | 2023-03-03 | 576 | 171 | 
 | 2023-03-02 | 575 | 171 | 

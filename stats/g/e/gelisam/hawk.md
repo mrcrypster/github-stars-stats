@@ -1,6 +1,6 @@
 # gelisam/hawk - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 350 | 19 | 
 | 2023-03-05 | 350 | 19 | 
 | 2023-03-04 | 350 | 19 | 
 | 2023-03-02 | 350 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 349 | 19 | 
 | 2023-02-06 | 349 | 19 | 
 | 2023-02-05 | 349 | 19 | 
-| 2023-02-04 | 349 | 19 | 
 

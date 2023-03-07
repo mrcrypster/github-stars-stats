@@ -1,8 +1,8 @@
 # ldkong1205/PointCloud-C - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 176
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 176 | 33 | 
 | 2023-03-04 | 176 | 32 | 
 | 2023-03-03 | 176 | 32 | 
 | 2023-03-02 | 176 | 32 | 

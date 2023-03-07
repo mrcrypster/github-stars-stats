@@ -1,6 +1,6 @@
 # ps1337/reinschauer - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 345 | 62 | 
 | 2023-03-05 | 345 | 62 | 
 | 2023-03-03 | 345 | 62 | 
 | 2023-03-02 | 345 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 343 | 62 | 
 | 2023-02-06 | 343 | 62 | 
 | 2023-02-05 | 343 | 62 | 
-| 2023-02-04 | 343 | 62 | 
 

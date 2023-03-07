@@ -1,8 +1,8 @@
 # zoontek/react-native-permissions - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 795
+☋ Forks: 797
 
 ★ Stars: 3440
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3440 | 797 | 
 | 2023-03-05 | 3440 | 795 | 
 | 2023-03-04 | 3439 | 795 | 
 | 2023-03-03 | 3435 | 795 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3399 | 788 | 
 | 2023-02-06 | 3399 | 788 | 
 | 2023-02-05 | 3397 | 788 | 
-| 2023-02-04 | 3397 | 787 | 
 

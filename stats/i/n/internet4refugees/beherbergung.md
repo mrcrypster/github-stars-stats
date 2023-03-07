@@ -1,10 +1,10 @@
 # internet4refugees/beherbergung - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/internet4refugees/beherbergung)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 9 | 6 | 
 | 2023-03-04 | 10 | 6 | 
 | 2023-03-03 | 10 | 6 | 
 | 2023-03-02 | 10 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 9 | 6 | 
 | 2023-02-06 | 9 | 6 | 
 | 2023-02-05 | 9 | 6 | 
-| 2023-02-04 | 9 | 6 | 
 

@@ -1,6 +1,6 @@
 # LineageOS/android_device_qcom_sepolicy_vndr - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3 | 29 | 
 | 2023-03-05 | 3 | 29 | 
 | 2023-03-04 | 3 | 29 | 
 | 2023-03-02 | 3 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2 | 28 | 
 | 2023-02-06 | 2 | 28 | 
 | 2023-02-05 | 2 | 28 | 
-| 2023-02-04 | 1 | 28 | 
 

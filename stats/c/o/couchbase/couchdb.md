@@ -1,6 +1,6 @@
 # couchbase/couchdb - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 127 | 56 | 
 | 2023-03-05 | 127 | 56 | 
 | 2023-03-03 | 127 | 56 | 
 | 2023-03-02 | 127 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 127 | 56 | 
 | 2023-02-06 | 127 | 56 | 
 | 2023-02-05 | 127 | 56 | 
-| 2023-02-04 | 127 | 56 | 
 

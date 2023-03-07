@@ -1,6 +1,6 @@
 # packagit/packagit - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 365 | 16 | 
 | 2023-03-05 | 365 | 16 | 
 | 2023-03-03 | 365 | 16 | 
 | 2023-03-02 | 365 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 364 | 16 | 
 | 2023-02-06 | 364 | 16 | 
 | 2023-02-05 | 364 | 16 | 
-| 2023-02-04 | 364 | 16 | 
 

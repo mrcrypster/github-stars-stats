@@ -1,10 +1,10 @@
 # codyseibert/youtube - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 420
+☋ Forks: 422
 
-★ Stars: 301
+★ Stars: 302
 
 [Open repository](https://github.com/codyseibert/youtube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 302 | 422 | 
 | 2023-03-05 | 301 | 420 | 
 | 2023-03-04 | 301 | 423 | 
 | 2023-03-03 | 300 | 423 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 292 | 412 | 
 | 2023-02-06 | 292 | 412 | 
 | 2023-02-05 | 292 | 413 | 
-| 2023-02-04 | 292 | 411 | 
 

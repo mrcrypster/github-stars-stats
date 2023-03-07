@@ -1,10 +1,10 @@
 # traefik/traefik - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 4513
+☋ Forks: 4514
 
-★ Stars: 41881
+★ Stars: 41897
 
 [Open repository](https://github.com/traefik/traefik)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 41897 | 4514 | 
 | 2023-03-05 | 41881 | 4513 | 
 | 2023-03-04 | 41861 | 4513 | 
 | 2023-03-02 | 41839 | 4507 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 41412 | 4463 | 
 | 2023-02-06 | 41398 | 4464 | 
 | 2023-02-05 | 41380 | 4460 | 
-| 2023-02-04 | 41364 | 4460 | 
 

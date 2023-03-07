@@ -1,10 +1,10 @@
 # vinayprabhu/X-is-all-you-need - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 55
+★ Stars: 54
 
 [Open repository](https://github.com/vinayprabhu/X-is-all-you-need)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 54 | 3 | 
 | 2023-03-05 | 55 | 3 | 
 | 2023-03-04 | 55 | 3 | 
 | 2023-03-03 | 55 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 55 | 3 | 
 | 2023-02-07 | 55 | 3 | 
 | 2023-02-05 | 55 | 3 | 
-| 2023-02-04 | 55 | 3 | 
 

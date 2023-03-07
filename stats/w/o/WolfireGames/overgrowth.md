@@ -1,10 +1,10 @@
 # WolfireGames/overgrowth - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 225
+☋ Forks: 226
 
-★ Stars: 2198
+★ Stars: 2201
 
 [Open repository](https://github.com/WolfireGames/overgrowth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2201 | 226 | 
 | 2023-03-05 | 2198 | 225 | 
 | 2023-03-04 | 2198 | 225 | 
 | 2023-03-02 | 2198 | 223 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2180 | 218 | 
 | 2023-02-06 | 2178 | 218 | 
 | 2023-02-05 | 2177 | 218 | 
-| 2023-02-04 | 2176 | 218 | 
 

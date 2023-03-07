@@ -1,10 +1,10 @@
 # haskell/ghcup-hs - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 32
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/haskell/ghcup-hs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 143 | 32 | 
 | 2023-03-05 | 142 | 32 | 
 | 2023-03-04 | 140 | 32 | 
 | 2023-03-03 | 139 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 130 | 24 | 
 | 2023-02-07 | 130 | 24 | 
 | 2023-02-05 | 130 | 24 | 
-| 2023-02-04 | 130 | 24 | 
 

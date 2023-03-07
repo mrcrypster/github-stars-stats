@@ -1,10 +1,10 @@
 # nomi-san/true-autoit-multi-threading - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/nomi-san/true-autoit-multi-threading)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 43 | 6 | 
 | 2023-03-05 | 42 | 6 | 
 | 2023-03-04 | 42 | 6 | 
 | 2023-03-02 | 42 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 42 | 6 | 
 | 2023-02-06 | 42 | 6 | 
 | 2023-02-05 | 42 | 6 | 
-| 2023-02-04 | 42 | 6 | 
 

@@ -1,10 +1,10 @@
 # TheLartians/Ccache.cmake - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 9
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/TheLartians/Ccache.cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 34 | 9 | 
 | 2023-03-05 | 33 | 9 | 
 | 2023-03-04 | 33 | 9 | 
 | 2023-03-03 | 33 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 33 | 9 | 
 | 2023-02-06 | 33 | 9 | 
 | 2023-02-05 | 33 | 9 | 
-| 2023-02-04 | 33 | 9 | 
 

@@ -1,10 +1,10 @@
 # blend-os/blendOS - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/blend-os/blendOS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 186 | 5 | 
 | 2023-03-05 | 185 | 5 | 
 | 2023-03-04 | 185 | 5 | 
 | 2023-03-02 | 185 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 157 | 5 | 
 | 2023-02-06 | 154 | 5 | 
 | 2023-02-05 | 149 | 5 | 
-| 2023-02-04 | 145 | 5 | 
 

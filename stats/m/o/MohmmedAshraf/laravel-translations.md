@@ -1,10 +1,10 @@
 # MohmmedAshraf/laravel-translations - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 31
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/MohmmedAshraf/laravel-translations)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 271 | 31 | 
 | 2023-03-05 | 270 | 31 | 
 | 2023-03-03 | 270 | 31 | 
 | 2023-03-02 | 270 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 250 | 28 | 
 | 2023-02-06 | 250 | 29 | 
 | 2023-02-05 | 250 | 29 | 
-| 2023-02-04 | 250 | 28 | 
 

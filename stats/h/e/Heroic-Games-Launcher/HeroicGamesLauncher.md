@@ -1,10 +1,10 @@
 # Heroic-Games-Launcher/HeroicGamesLauncher - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 279
 
-★ Stars: 4968
+★ Stars: 4971
 
 [Open repository](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 4971 | 279 | 
 | 2023-03-04 | 4968 | 279 | 
 | 2023-03-03 | 4965 | 277 | 
 | 2023-03-02 | 4955 | 277 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 4864 | 273 | 
 | 2023-02-06 | 4858 | 273 | 
 | 2023-02-05 | 4852 | 273 | 
-| 2023-02-04 | 4839 | 273 | 
 

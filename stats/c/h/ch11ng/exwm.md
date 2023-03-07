@@ -1,6 +1,6 @@
 # ch11ng/exwm - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2709 | 144 | 
 | 2023-03-05 | 2709 | 144 | 
 | 2023-03-03 | 2708 | 144 | 
 | 2023-03-02 | 2707 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2703 | 144 | 
 | 2023-02-06 | 2703 | 144 | 
 | 2023-02-05 | 2704 | 144 | 
-| 2023-02-04 | 2705 | 144 | 
 

@@ -1,6 +1,6 @@
 # utkusen/socialhunter - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 403 | 46 | 
 | 2023-03-05 | 403 | 46 | 
 | 2023-03-04 | 403 | 46 | 
 | 2023-03-02 | 403 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 399 | 44 | 
 | 2023-02-06 | 399 | 44 | 
 | 2023-02-05 | 398 | 44 | 
-| 2023-02-04 | 398 | 44 | 
 

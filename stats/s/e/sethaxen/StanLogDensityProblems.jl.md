@@ -1,6 +1,6 @@
 # sethaxen/StanLogDensityProblems.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 13 | - | 
 | 2023-03-05 | 13 | - | 
 | 2023-03-04 | 13 | - | 
 | 2023-03-02 | 13 | - | 

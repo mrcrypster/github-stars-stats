@@ -1,8 +1,8 @@
 # doums/darcula - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 309
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 309 | 53 | 
 | 2023-03-04 | 309 | 52 | 
 | 2023-03-03 | 309 | 52 | 
 | 2023-03-02 | 308 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 303 | 52 | 
 | 2023-02-06 | 303 | 52 | 
 | 2023-02-05 | 303 | 52 | 
-| 2023-02-04 | 303 | 52 | 
 

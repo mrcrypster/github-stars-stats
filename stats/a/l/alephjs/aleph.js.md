@@ -1,10 +1,10 @@
 # alephjs/aleph.js - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 174
 
-★ Stars: 5041
+★ Stars: 5040
 
 [Open repository](https://github.com/alephjs/aleph.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 5040 | 174 | 
 | 2023-03-04 | 5041 | 174 | 
 | 2023-03-03 | 5040 | 174 | 
 | 2023-03-02 | 5034 | 174 | 

@@ -1,6 +1,6 @@
 # dream11/zio-http - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 615 | 219 | 
 | 2023-03-05 | 615 | 219 | 
 | 2023-03-04 | 617 | 218 | 
 | 2023-03-03 | 617 | 218 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 604 | 214 | 
 | 2023-02-06 | 604 | 214 | 
 | 2023-02-05 | 602 | 213 | 
-| 2023-02-04 | 602 | 212 | 
 

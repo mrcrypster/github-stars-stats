@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 10
 
-★ Stars: 121
+★ Stars: 125
 
 [Open repository](https://github.com/ischenliang/quickly-picture-bed)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 121 | 10 | 
+| 2023-03-06 | 125 | 10 | 
 | 2023-03-05 | 118 | 9 | 
 

@@ -1,10 +1,10 @@
 # mortbopet/Ripes - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 203
 
-★ Stars: 1816
+★ Stars: 1820
 
 [Open repository](https://github.com/mortbopet/Ripes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1820 | 203 | 
 | 2023-03-04 | 1816 | 203 | 
 | 2023-03-03 | 1816 | 202 | 
 | 2023-03-02 | 1808 | 201 | 

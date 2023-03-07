@@ -1,6 +1,6 @@
 # nana-4/materia-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3297 | 264 | 
 | 2023-03-04 | 3297 | 264 | 
 | 2023-03-03 | 3294 | 263 | 
 | 2023-03-02 | 3294 | 263 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 3284 | 265 | 
 | 2023-02-06 | 3284 | 265 | 
 | 2023-02-05 | 3283 | 265 | 
-| 2023-02-04 | 3284 | 265 | 
 

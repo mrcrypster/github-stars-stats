@@ -1,6 +1,6 @@
 # texane/vhdl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 10 | 7 | 
 | 2023-03-05 | 10 | 7 | 
 | 2023-03-04 | 10 | 7 | 
 | 2023-03-03 | 10 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 10 | 6 | 
 | 2023-02-06 | 10 | 6 | 
 | 2023-02-05 | 10 | 6 | 
-| 2023-02-04 | 10 | 6 | 
 

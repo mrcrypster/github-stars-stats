@@ -1,10 +1,10 @@
 # scopatz/nanorc - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 528
 
-★ Stars: 2730
+★ Stars: 2731
 
 [Open repository](https://github.com/scopatz/nanorc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2731 | 528 | 
 | 2023-03-05 | 2730 | 528 | 
 | 2023-03-04 | 2728 | 528 | 
 | 2023-03-02 | 2726 | 528 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 2707 | 532 | 
 | 2023-02-06 | 2705 | 532 | 
 | 2023-02-05 | 2704 | 531 | 
-| 2023-02-04 | 2703 | 531 | 
 

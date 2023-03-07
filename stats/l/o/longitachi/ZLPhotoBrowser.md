@@ -1,8 +1,8 @@
 # longitachi/ZLPhotoBrowser - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 885
+☋ Forks: 886
 
 ★ Stars: 4370
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 4370 | 886 | 
 | 2023-03-05 | 4370 | 885 | 
 | 2023-03-04 | 4370 | 885 | 
 | 2023-03-03 | 4370 | 884 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 4349 | 874 | 
 | 2023-02-06 | 4348 | 874 | 
 | 2023-02-05 | 4347 | 874 | 
-| 2023-02-04 | 4347 | 874 | 
 

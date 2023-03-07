@@ -1,10 +1,10 @@
 # adamshostack/eop - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 29
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/adamshostack/eop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 237 | 29 | 
 | 2023-03-05 | 236 | 29 | 
 | 2023-03-04 | 236 | 29 | 
 | 2023-03-03 | 236 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 231 | 27 | 
 | 2023-02-07 | 231 | 27 | 
 | 2023-02-05 | 230 | 27 | 
-| 2023-02-04 | 230 | 27 | 
 

@@ -1,6 +1,6 @@
 # mtremsal/pihole-fly-tailscale - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 98 | 2 | 
 | 2023-03-05 | 98 | 2 | 
 | 2023-03-04 | 98 | 2 | 
 | 2023-03-03 | 97 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 97 | 2 | 
 | 2023-02-06 | 97 | 2 | 
 | 2023-02-05 | 97 | 2 | 
-| 2023-02-04 | 97 | 2 | 
 

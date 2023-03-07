@@ -1,10 +1,10 @@
 # lvgl/lvgl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 2327
+☋ Forks: 2329
 
-★ Stars: 11481
+★ Stars: 11492
 
 [Open repository](https://github.com/lvgl/lvgl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 11492 | 2329 | 
 | 2023-03-05 | 11481 | 2327 | 
 | 2023-03-03 | 11474 | 2326 | 
 | 2023-03-02 | 11468 | 2325 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 11267 | 2296 | 
 | 2023-02-06 | 11256 | 2296 | 
 | 2023-02-05 | 11243 | 2295 | 
-| 2023-02-04 | 11235 | 2294 | 
 

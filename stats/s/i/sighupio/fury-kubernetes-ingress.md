@@ -1,6 +1,6 @@
 # sighupio/fury-kubernetes-ingress - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 7 | 4 | 
 | 2023-03-05 | 7 | 4 | 
 | 2023-03-03 | 7 | 4 | 
 | 2023-03-02 | 7 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 6 | 4 | 
 | 2023-02-06 | 6 | 4 | 
 | 2023-02-05 | 6 | 4 | 
-| 2023-02-04 | 6 | 4 | 
 

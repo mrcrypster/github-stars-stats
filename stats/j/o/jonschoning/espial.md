@@ -1,6 +1,6 @@
 # jonschoning/espial - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 630 | 21 | 
 | 2023-03-05 | 630 | 21 | 
 | 2023-03-04 | 629 | 21 | 
 | 2023-03-02 | 629 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 608 | 20 | 
 | 2023-02-07 | 607 | 20 | 
 | 2023-02-06 | 605 | 20 | 
-| 2023-02-04 | 604 | 20 | 
 

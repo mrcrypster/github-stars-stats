@@ -1,6 +1,6 @@
 # mazhengcn/suggested-notation-for-machine-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 305 | 52 | 
 | 2023-03-05 | 305 | 52 | 
 | 2023-03-03 | 305 | 52 | 
 | 2023-03-02 | 304 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 295 | 51 | 
 | 2023-02-06 | 294 | 51 | 
 | 2023-02-05 | 294 | 51 | 
-| 2023-02-04 | 294 | 51 | 
 

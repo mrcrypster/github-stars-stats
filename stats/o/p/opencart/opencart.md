@@ -1,10 +1,10 @@
 # opencart/opencart - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4655
 
-★ Stars: 6721
+★ Stars: 6723
 
 [Open repository](https://github.com/opencart/opencart)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 6723 | 4655 | 
 | 2023-03-05 | 6721 | 4655 | 
 | 2023-03-03 | 6723 | 4653 | 
 | 2023-03-02 | 6723 | 4652 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 6695 | 4640 | 
 | 2023-02-06 | 6695 | 4639 | 
 | 2023-02-05 | 6693 | 4639 | 
-| 2023-02-04 | 6691 | 4639 | 
 

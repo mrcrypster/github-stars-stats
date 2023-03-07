@@ -1,8 +1,8 @@
 # chenjiahan/rodal - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 87
+☋ Forks: 86
 
 ★ Stars: 870
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 870 | 86 | 
 | 2023-03-05 | 870 | 87 | 
 | 2023-03-04 | 870 | 87 | 
 | 2023-03-02 | 870 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 866 | 86 | 
 | 2023-02-06 | 866 | 86 | 
 | 2023-02-05 | 866 | 87 | 
-| 2023-02-04 | 865 | 87 | 
 

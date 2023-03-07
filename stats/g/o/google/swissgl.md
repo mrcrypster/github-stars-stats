@@ -1,10 +1,10 @@
 # google/swissgl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 701
+★ Stars: 703
 
 [Open repository](https://github.com/google/swissgl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 703 | 18 | 
 | 2023-03-05 | 701 | 17 | 
 | 2023-03-03 | 695 | 16 | 
 | 2023-03-02 | 689 | 15 | 

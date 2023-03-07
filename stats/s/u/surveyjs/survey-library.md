@@ -1,6 +1,6 @@
 # surveyjs/survey-library - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 710
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3537 | 710 | 
 | 2023-03-05 | 3537 | 710 | 
 | 2023-03-04 | 3537 | 710 | 
 | 2023-03-03 | 3538 | 710 | 

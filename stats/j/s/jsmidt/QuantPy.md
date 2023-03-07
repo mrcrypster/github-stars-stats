@@ -1,6 +1,6 @@
 # jsmidt/QuantPy - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 423 | 85 | 
 | 2023-03-05 | 423 | 85 | 
 | 2023-03-04 | 423 | 85 | 
 | 2023-03-02 | 423 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 417 | 84 | 
 | 2023-02-06 | 417 | 84 | 
 | 2023-02-05 | 417 | 84 | 
-| 2023-02-04 | 417 | 84 | 
 

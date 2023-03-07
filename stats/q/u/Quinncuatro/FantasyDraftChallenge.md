@@ -1,6 +1,6 @@
 # Quinncuatro/FantasyDraftChallenge - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | - | 165 | 
 | 2023-03-05 | - | 165 | 
 | 2023-03-04 | - | 165 | 
 | 2023-03-02 | - | 165 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | - | 164 | 
 | 2023-02-06 | - | 164 | 
 | 2023-02-05 | - | 164 | 
-| 2023-02-04 | - | 164 | 
 

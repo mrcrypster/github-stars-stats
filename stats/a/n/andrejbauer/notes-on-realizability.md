@@ -1,6 +1,6 @@
 # andrejbauer/notes-on-realizability - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 57 | 5 | 
 | 2023-03-05 | 57 | 5 | 
 | 2023-03-03 | 57 | 5 | 
 | 2023-03-02 | 56 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 55 | 5 | 
 | 2023-02-07 | 54 | 4 | 
 | 2023-02-06 | 54 | 4 | 
-| 2023-02-04 | 54 | 4 | 
 

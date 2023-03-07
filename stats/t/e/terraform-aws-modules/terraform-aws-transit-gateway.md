@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-transit-gateway - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 110 | 189 | 
 | 2023-03-05 | 110 | 189 | 
 | 2023-03-04 | 109 | 189 | 
 | 2023-03-03 | 109 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 106 | 180 | 
 | 2023-02-07 | 106 | 180 | 
 | 2023-02-05 | 106 | 180 | 
-| 2023-02-04 | 106 | 180 | 
 

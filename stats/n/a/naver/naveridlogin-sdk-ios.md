@@ -1,10 +1,10 @@
 # naver/naveridlogin-sdk-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 22
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/naver/naveridlogin-sdk-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 46 | 22 | 
 | 2023-03-05 | 45 | 22 | 
 | 2023-03-03 | 45 | 22 | 
 | 2023-03-02 | 45 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 44 | 21 | 
 | 2023-02-06 | 44 | 21 | 
 | 2023-02-05 | 44 | 21 | 
-| 2023-02-04 | 44 | 21 | 
 

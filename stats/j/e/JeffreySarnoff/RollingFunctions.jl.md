@@ -1,8 +1,8 @@
 # JeffreySarnoff/RollingFunctions.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 88 | 6 | 
 | 2023-03-04 | 88 | 7 | 
 | 2023-03-03 | 88 | 7 | 
 | 2023-03-02 | 88 | 7 | 

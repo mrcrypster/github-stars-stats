@@ -1,10 +1,10 @@
 # Mosasauroidea/GazellePW - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 42
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/Mosasauroidea/GazellePW)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 154 | 42 | 
 | 2023-03-05 | 153 | 42 | 
 | 2023-03-03 | 153 | 42 | 
 | 2023-03-02 | 153 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 149 | 41 | 
 | 2023-02-06 | 149 | 41 | 
 | 2023-02-05 | 149 | 41 | 
-| 2023-02-04 | 149 | 41 | 
 

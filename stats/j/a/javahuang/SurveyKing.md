@@ -1,10 +1,10 @@
 # javahuang/SurveyKing - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 178
 
-★ Stars: 1064
+★ Stars: 1065
 
 [Open repository](https://github.com/javahuang/SurveyKing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1065 | 178 | 
 | 2023-03-05 | 1064 | 178 | 
 | 2023-03-03 | 1061 | 178 | 
 | 2023-03-02 | 1062 | 178 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1011 | 174 | 
 | 2023-02-06 | 1007 | 174 | 
 | 2023-02-05 | 1004 | 174 | 
-| 2023-02-04 | 1003 | 174 | 
 

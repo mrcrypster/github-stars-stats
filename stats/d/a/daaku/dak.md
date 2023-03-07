@@ -1,10 +1,10 @@
 # daaku/dak - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 59
 
 [Open repository](https://github.com/daaku/dak)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 59 | 1 | 
+| 2023-03-06 | 55 | 1 | 
 | 2023-03-05 | 48 | 1 | 
 | 2023-03-04 | 46 | 1 | 
 | 2023-03-03 | 37 | - | 

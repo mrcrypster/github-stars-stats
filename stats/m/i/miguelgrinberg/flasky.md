@@ -1,10 +1,10 @@
 # miguelgrinberg/flasky - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 4112
 
-★ Stars: 8070
+★ Stars: 8074
 
 [Open repository](https://github.com/miguelgrinberg/flasky)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 8074 | 4112 | 
 | 2023-03-05 | 8070 | 4112 | 
 | 2023-03-04 | 8067 | 4112 | 
 | 2023-03-03 | 8067 | 4111 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 8028 | 4101 | 
 | 2023-02-07 | 8028 | 4100 | 
 | 2023-02-06 | 8027 | 4100 | 
-| 2023-02-05 | 8027 | 4101 | 
 

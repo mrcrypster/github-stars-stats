@@ -1,10 +1,10 @@
 # apache/incubator-streampipes-website - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/apache/incubator-streampipes-website)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 5 | 17 | 
 | 2023-03-05 | 4 | 17 | 
 | 2023-03-04 | 4 | 17 | 
 | 2023-03-03 | 4 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3 | 16 | 
 | 2023-02-06 | 3 | 16 | 
 | 2023-02-05 | 3 | 16 | 
-| 2023-02-04 | 3 | 16 | 
 

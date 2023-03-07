@@ -1,10 +1,10 @@
 # lintstar/LSTAR - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 137
 
-★ Stars: 828
+★ Stars: 831
 
 [Open repository](https://github.com/lintstar/LSTAR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 831 | 137 | 
 | 2023-03-05 | 828 | 137 | 
 | 2023-03-04 | 828 | 137 | 
 | 2023-03-02 | 829 | 137 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 802 | 135 | 
 | 2023-02-06 | 801 | 135 | 
 | 2023-02-05 | 800 | 135 | 
-| 2023-02-04 | 800 | 135 | 
 

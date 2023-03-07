@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/tintinweb/smart-contract-sanctuary-avalanche)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 21 | 7 | 
+| 2023-03-06 | 20 | 7 | 
 | 2023-03-05 | 21 | 7 | 
 | 2023-03-04 | 21 | 7 | 
 | 2023-03-03 | 21 | 7 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 21 | 7 | 
 | 2023-02-07 | 21 | 7 | 
 | 2023-02-05 | 21 | 7 | 
-| 2023-02-04 | 21 | 7 | 
 

@@ -1,10 +1,10 @@
 # php/doc-en - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 561
+☋ Forks: 563
 
-★ Stars: 393
+★ Stars: 394
 
 [Open repository](https://github.com/php/doc-en)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 394 | 563 | 
 | 2023-03-05 | 393 | 561 | 
 | 2023-03-04 | 393 | 561 | 
 | 2023-03-03 | 393 | 561 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 388 | 545 | 
 | 2023-02-06 | 387 | 542 | 
 | 2023-02-05 | 386 | 542 | 
-| 2023-02-04 | 386 | 542 | 
 

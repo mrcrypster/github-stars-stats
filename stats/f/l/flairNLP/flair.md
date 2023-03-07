@@ -1,10 +1,10 @@
 # flairNLP/flair - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1999
+☋ Forks: 1998
 
-★ Stars: 12539
+★ Stars: 12538
 
 [Open repository](https://github.com/flairNLP/flair)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 12538 | 1998 | 
 | 2023-03-05 | 12539 | 1999 | 
 | 2023-03-03 | 12539 | 1999 | 
 | 2023-03-02 | 12531 | 1997 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 12446 | 1991 | 
 | 2023-02-06 | 12438 | 1991 | 
 | 2023-02-05 | 12435 | 1992 | 
-| 2023-02-04 | 12432 | 1992 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 184
 
-★ Stars: 750
+★ Stars: 749
 
 [Open repository](https://github.com/digital-asset/daml)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 750 | 184 | 
+| 2023-03-06 | 749 | 184 | 
 | 2023-03-05 | 750 | 184 | 
 | 2023-03-04 | 749 | 184 | 
 | 2023-03-03 | 749 | 184 | 

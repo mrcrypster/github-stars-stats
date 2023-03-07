@@ -1,10 +1,10 @@
 # brocoders/nestjs-boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 180
+☋ Forks: 179
 
-★ Stars: 660
+★ Stars: 661
 
 [Open repository](https://github.com/brocoders/nestjs-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 661 | 179 | 
 | 2023-03-05 | 660 | 180 | 
 | 2023-03-03 | 661 | 180 | 
 | 2023-03-02 | 662 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 632 | 166 | 
 | 2023-02-06 | 631 | 165 | 
 | 2023-02-05 | 627 | 164 | 
-| 2023-02-04 | 627 | 164 | 
 

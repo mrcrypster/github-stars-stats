@@ -1,6 +1,6 @@
 # ManchesterRoboticsLtd/TE3001B_Robotics_Foundation - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 17 | 7 | 
 | 2023-03-05 | 17 | 7 | 
 | 2023-03-03 | 17 | 7 | 
 | 2023-03-02 | 16 | 7 | 

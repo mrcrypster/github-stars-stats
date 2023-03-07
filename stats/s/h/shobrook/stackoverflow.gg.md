@@ -1,10 +1,10 @@
 # shobrook/stackoverflow.gg - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/shobrook/stackoverflow.gg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 308 | 17 | 
 | 2023-03-05 | 307 | 17 | 
 | 2023-03-04 | 307 | 17 | 
 | 2023-03-03 | 306 | 17 | 

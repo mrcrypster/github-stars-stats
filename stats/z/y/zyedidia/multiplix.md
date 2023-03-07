@@ -1,10 +1,10 @@
 # zyedidia/multiplix - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 18
 
 [Open repository](https://github.com/zyedidia/multiplix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 18 | - | 
 | 2023-03-05 | 13 | - | 
 | 2023-03-03 | 13 | - | 
 | 2023-03-02 | 12 | - | 

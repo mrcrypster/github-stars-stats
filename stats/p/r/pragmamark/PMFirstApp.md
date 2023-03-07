@@ -1,10 +1,10 @@
 # pragmamark/PMFirstApp - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/pragmamark/PMFirstApp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 2 | - | 
 | 2023-03-05 | 1 | - | 
 | 2023-03-04 | 1 | - | 
 

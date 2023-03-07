@@ -1,10 +1,10 @@
 # AdamWagner/stackline - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 28
 
-★ Stars: 725
+★ Stars: 726
 
 [Open repository](https://github.com/AdamWagner/stackline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 726 | 28 | 
 | 2023-03-05 | 725 | 28 | 
 | 2023-03-03 | 725 | 28 | 
 | 2023-03-02 | 724 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 708 | 26 | 
 | 2023-02-06 | 707 | 26 | 
 | 2023-02-05 | 705 | 26 | 
-| 2023-02-04 | 705 | 26 | 
 

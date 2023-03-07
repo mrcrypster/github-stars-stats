@@ -1,10 +1,10 @@
 # jagrosh/MusicBot - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 1963
+☋ Forks: 1966
 
-★ Stars: 3790
+★ Stars: 3792
 
 [Open repository](https://github.com/jagrosh/MusicBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3792 | 1966 | 
 | 2023-03-05 | 3790 | 1963 | 
 | 2023-03-04 | 3782 | 1961 | 
 | 2023-03-03 | 3773 | 1958 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 3614 | 1881 | 
 | 2023-02-06 | 3613 | 1880 | 
 | 2023-02-05 | 3613 | 1879 | 
-| 2023-02-04 | 3612 | 1878 | 
 

@@ -1,10 +1,10 @@
 # AckslD/nvim-FeMaco.lua - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/AckslD/nvim-FeMaco.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 218 | 5 | 
 | 2023-03-05 | 217 | 5 | 
 | 2023-03-03 | 217 | 5 | 
 | 2023-03-02 | 216 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 209 | 5 | 
 | 2023-02-06 | 209 | 5 | 
 | 2023-02-05 | 208 | 5 | 
-| 2023-02-04 | 208 | 5 | 
 

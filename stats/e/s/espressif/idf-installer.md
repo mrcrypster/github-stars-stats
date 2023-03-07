@@ -1,6 +1,6 @@
 # espressif/idf-installer - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 65 | 16 | 
 | 2023-03-05 | 65 | 16 | 
 | 2023-03-04 | 65 | 16 | 
 | 2023-03-03 | 64 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 63 | 16 | 
 | 2023-02-06 | 63 | 16 | 
 | 2023-02-05 | 63 | 16 | 
-| 2023-02-04 | 63 | 16 | 
 

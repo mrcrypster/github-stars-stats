@@ -1,6 +1,6 @@
 # bazelbuild/apple_support - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 56 | 21 | 
 | 2023-03-05 | 56 | 21 | 
 | 2023-03-04 | 56 | 21 | 
 | 2023-03-02 | 53 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 50 | 21 | 
 | 2023-02-07 | 50 | 21 | 
 | 2023-02-06 | 50 | 21 | 
-| 2023-02-05 | 50 | 21 | 
 

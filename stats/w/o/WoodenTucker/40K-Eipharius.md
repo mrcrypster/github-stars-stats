@@ -1,6 +1,6 @@
 # WoodenTucker/40K-Eipharius - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 8 | 68 | 
 | 2023-03-05 | 8 | 68 | 
 | 2023-03-03 | 8 | 67 | 
 | 2023-03-02 | 8 | 66 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 8 | 66 | 
 | 2023-02-07 | 8 | 66 | 
 | 2023-02-06 | 8 | 66 | 
-| 2023-02-05 | 8 | 64 | 
 

@@ -1,10 +1,10 @@
 # PrivateBin/PrivateBin - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 650
 
-★ Stars: 4802
+★ Stars: 4814
 
 [Open repository](https://github.com/PrivateBin/PrivateBin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 4814 | 650 | 
 | 2023-03-05 | 4802 | 650 | 
 | 2023-03-04 | 4797 | 649 | 
 | 2023-03-02 | 4791 | 649 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 4711 | 634 | 
 | 2023-02-06 | 4710 | 634 | 
 | 2023-02-05 | 4706 | 634 | 
-| 2023-02-04 | 4701 | 634 | 
 

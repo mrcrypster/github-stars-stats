@@ -1,10 +1,10 @@
 # declare-lab/multimodal-deep-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 109
 
-★ Stars: 428
+★ Stars: 427
 
 [Open repository](https://github.com/declare-lab/multimodal-deep-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 427 | 109 | 
 | 2023-03-05 | 428 | 109 | 
 | 2023-03-04 | 428 | 109 | 
 | 2023-03-02 | 427 | 109 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 412 | 107 | 
 | 2023-02-06 | 412 | 106 | 
 | 2023-02-05 | 412 | 106 | 
-| 2023-02-04 | 412 | 106 | 
 

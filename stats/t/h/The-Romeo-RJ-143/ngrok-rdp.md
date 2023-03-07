@@ -1,8 +1,8 @@
 # The-Romeo-RJ-143/ngrok-rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | - | 46 | 
 | 2023-03-05 | - | 45 | 
 | 2023-03-04 | - | 42 | 
 | 2023-03-03 | - | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | - | 26 | 
 | 2023-02-06 | - | 23 | 
 | 2023-02-05 | - | 23 | 
-| 2023-02-04 | - | 20 | 
 

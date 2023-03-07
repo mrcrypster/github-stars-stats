@@ -1,10 +1,10 @@
 # flashlight/flashlight - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 456
+☋ Forks: 458
 
-★ Stars: 4728
+★ Stars: 4730
 
 [Open repository](https://github.com/flashlight/flashlight)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4730 | 458 | 
 | 2023-03-05 | 4728 | 456 | 
 | 2023-03-04 | 4728 | 455 | 
 | 2023-03-03 | 4728 | 455 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 4713 | 451 | 
 | 2023-02-06 | 4711 | 450 | 
 | 2023-02-05 | 4711 | 450 | 
-| 2023-02-04 | 4710 | 450 | 
 

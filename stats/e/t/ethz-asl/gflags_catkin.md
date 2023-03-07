@@ -1,10 +1,10 @@
 # ethz-asl/gflags_catkin - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 27
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/ethz-asl/gflags_catkin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 8 | 27 | 
 | 2023-03-05 | 9 | 27 | 
 | 2023-03-04 | 9 | 27 | 
 | 2023-03-03 | 9 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 8 | 27 | 
 | 2023-02-06 | 8 | 27 | 
 | 2023-02-05 | 8 | 27 | 
-| 2023-02-04 | 7 | 27 | 
 

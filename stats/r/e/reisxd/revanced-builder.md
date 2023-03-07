@@ -1,10 +1,10 @@
 # reisxd/revanced-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 135
 
-★ Stars: 1812
+★ Stars: 1814
 
 [Open repository](https://github.com/reisxd/revanced-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1814 | 135 | 
 | 2023-03-05 | 1812 | 135 | 
 | 2023-03-04 | 1809 | 134 | 
 | 2023-03-03 | 1810 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 1776 | 127 | 
 | 2023-02-07 | 1772 | 126 | 
 | 2023-02-05 | 1767 | 125 | 
-| 2023-02-04 | 1764 | 125 | 
 

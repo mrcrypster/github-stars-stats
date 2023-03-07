@@ -1,6 +1,6 @@
 # clabby/delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 13 | 1 | 
 | 2023-03-05 | 13 | 1 | 
 | 2023-03-04 | 13 | 1 | 
 | 2023-03-02 | 13 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 13 | 1 | 
 | 2023-02-06 | 13 | 1 | 
 | 2023-02-05 | 13 | 1 | 
-| 2023-02-04 | 13 | 1 | 
 

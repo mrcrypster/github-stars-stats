@@ -1,6 +1,6 @@
 # SciML/OrdinaryDiffEq.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 412 | 157 | 
 | 2023-03-05 | 412 | 157 | 
 | 2023-03-04 | 413 | 157 | 
 | 2023-03-03 | 413 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 408 | 158 | 
 | 2023-02-06 | 408 | 158 | 
 | 2023-02-05 | 408 | 157 | 
-| 2023-02-04 | 408 | 157 | 
 

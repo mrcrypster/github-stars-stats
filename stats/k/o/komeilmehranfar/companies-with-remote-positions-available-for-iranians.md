@@ -1,10 +1,10 @@
 # komeilmehranfar/companies-with-remote-positions-available-for-iranians - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 25
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 389 | 25 | 
 | 2023-03-05 | 388 | 25 | 
 | 2023-03-04 | 387 | 25 | 
 | 2023-03-03 | 385 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 345 | 21 | 
 | 2023-02-06 | 339 | 20 | 
 | 2023-02-05 | 335 | 18 | 
-| 2023-02-04 | 330 | 18 | 
 

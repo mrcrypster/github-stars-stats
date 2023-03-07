@@ -1,10 +1,10 @@
 # square/okhttp - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 9040
+☋ Forks: 9043
 
-★ Stars: 43631
+★ Stars: 43639
 
 [Open repository](https://github.com/square/okhttp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 43639 | 9043 | 
 | 2023-03-05 | 43631 | 9040 | 
 | 2023-03-04 | 43627 | 9038 | 
 | 2023-03-03 | 43626 | 9037 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 43506 | 9011 | 
 | 2023-02-06 | 43502 | 9010 | 
 | 2023-02-05 | 43497 | 9012 | 
-| 2023-02-04 | 43492 | 9011 | 
 

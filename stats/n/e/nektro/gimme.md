@@ -1,0 +1,17 @@
+# nektro/gimme - stars & forks statistics
+
+Stats updated on Mar 2023, 06
+
+☋ Forks: 0
+
+★ Stars: 10
+
+[Open repository](https://github.com/nektro/gimme)
+
+[Open detailed stats for nektro/gimme](https://reviewgithub.com/rep/nektro/gimme)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-06 | 10 | - | 
+

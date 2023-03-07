@@ -1,10 +1,10 @@
 # evelyneee/ellekit - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 14
 
-★ Stars: 134
+★ Stars: 136
 
 [Open repository](https://github.com/evelyneee/ellekit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 136 | 14 | 
 | 2023-03-04 | 134 | 14 | 
 | 2023-03-03 | 134 | 14 | 
 | 2023-03-02 | 134 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 126 | 13 | 
 | 2023-02-07 | 126 | 13 | 
 | 2023-02-06 | 126 | 13 | 
-| 2023-02-05 | 124 | 13 | 
 

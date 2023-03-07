@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 155
 
-★ Stars: 2022
+★ Stars: 2024
 
 [Open repository](https://github.com/exyte/PopupView)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 2022 | 155 | 
+| 2023-03-06 | 2024 | 155 | 
 | 2023-03-05 | 2021 | 155 | 
 | 2023-03-04 | 2019 | 154 | 
 | 2023-03-03 | 2017 | 154 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1949 | 147 | 
 | 2023-02-07 | 1948 | 147 | 
 | 2023-02-06 | 1944 | 147 | 
-| 2023-02-05 | 1944 | 147 | 
 

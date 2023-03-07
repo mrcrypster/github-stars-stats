@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 06
 
-☋ Forks: 446
+☋ Forks: 449
 
-★ Stars: 18483
+★ Stars: 18522
 
 [Open repository](https://github.com/surrealdb/surrealdb)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 18483 | 446 | 
+| 2023-03-06 | 18522 | 449 | 
 | 2023-03-05 | 18469 | 445 | 
 | 2023-03-04 | 18430 | 445 | 
 | 2023-03-03 | 18366 | 444 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-07 | 17558 | 434 | 
 | 2023-02-06 | 17537 | 434 | 
 | 2023-02-05 | 17493 | 432 | 
-| 2023-02-04 | 17471 | 430 | 
 

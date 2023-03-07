@@ -1,6 +1,6 @@
 # MLNLP-World/Paper-Picture-Writing-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 753 | 91 | 
 | 2023-03-05 | 753 | 91 | 
 | 2023-03-04 | 751 | 91 | 
 | 2023-03-03 | 750 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 731 | 88 | 
 | 2023-02-06 | 730 | 88 | 
 | 2023-02-05 | 730 | 87 | 
-| 2023-02-04 | 728 | 87 | 
 

@@ -1,10 +1,10 @@
 # Dewott2501/Mario-Madness - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 37
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Dewott2501/Mario-Madness)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 14 | 37 | 
 | 2023-03-05 | 13 | 37 | 
 | 2023-03-04 | 13 | 37 | 
 | 2023-03-03 | 13 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 14 | 35 | 
 | 2023-02-07 | 14 | 35 | 
 | 2023-02-06 | 14 | 35 | 
-| 2023-02-04 | 14 | 35 | 
 

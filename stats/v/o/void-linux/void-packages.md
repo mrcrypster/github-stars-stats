@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 06
 
 ☋ Forks: 1735
 
-★ Stars: 1969
+★ Stars: 1970
 
 [Open repository](https://github.com/void-linux/void-packages)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 1969 | 1735 | 
+| 2023-03-06 | 1970 | 1735 | 
 | 2023-03-05 | 1968 | 1735 | 
 | 2023-03-04 | 1965 | 1734 | 
 | 2023-03-03 | 1963 | 1731 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-07 | 1941 | 1721 | 
 | 2023-02-06 | 1939 | 1720 | 
 | 2023-02-05 | 1938 | 1720 | 
-| 2023-02-04 | 1940 | 1719 | 
 

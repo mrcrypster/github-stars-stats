@@ -1,10 +1,10 @@
 # Cratesmith/Cratesmith.AssetUI - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 19
 
-★ Stars: 206
+★ Stars: 211
 
 [Open repository](https://github.com/Cratesmith/Cratesmith.AssetUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 211 | 19 | 
 | 2023-03-05 | 206 | 19 | 
 | 2023-03-03 | 206 | 19 | 
 | 2023-03-02 | 206 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 201 | 19 | 
 | 2023-02-06 | 201 | 19 | 
 | 2023-02-05 | 201 | 18 | 
-| 2023-02-04 | 201 | 18 | 
 

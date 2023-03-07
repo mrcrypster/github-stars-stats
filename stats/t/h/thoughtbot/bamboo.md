@@ -1,10 +1,10 @@
 # thoughtbot/bamboo - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 324
 
-★ Stars: 1843
+★ Stars: 1844
 
 [Open repository](https://github.com/thoughtbot/bamboo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1844 | 324 | 
 | 2023-03-05 | 1843 | 324 | 
 | 2023-03-03 | 1842 | 324 | 
 | 2023-03-02 | 1842 | 324 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1838 | 326 | 
 | 2023-02-06 | 1838 | 326 | 
 | 2023-02-05 | 1838 | 326 | 
-| 2023-02-04 | 1836 | 326 | 
 

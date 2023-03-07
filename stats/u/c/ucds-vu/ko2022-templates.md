@@ -1,6 +1,6 @@
 # ucds-vu/ko2022-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1 | 6 | 
 | 2023-03-04 | 1 | 6 | 
 | 2023-03-03 | 1 | 6 | 
 | 2023-03-02 | 1 | 6 | 

@@ -1,10 +1,10 @@
 # microsoft/qsharp-language - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 50
 
-★ Stars: 163
+★ Stars: 165
 
 [Open repository](https://github.com/microsoft/qsharp-language)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 165 | 50 | 
 | 2023-03-05 | 163 | 50 | 
 | 2023-03-04 | 163 | 50 | 
 | 2023-03-03 | 163 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 157 | 49 | 
 | 2023-02-06 | 157 | 49 | 
 | 2023-02-05 | 157 | 49 | 
-| 2023-02-04 | 157 | 49 | 
 

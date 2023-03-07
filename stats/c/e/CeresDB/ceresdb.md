@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 06
 
-☋ Forks: 121
+☋ Forks: 122
 
-★ Stars: 1937
+★ Stars: 1939
 
 [Open repository](https://github.com/CeresDB/ceresdb)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-06 | 1937 | 121 | 
+| 2023-03-06 | 1939 | 122 | 
 | 2023-03-05 | 1935 | 121 | 
 | 2023-03-04 | 1923 | 121 | 
 | 2023-03-03 | 1913 | 121 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-07 | 1792 | 114 | 
 | 2023-02-06 | 1792 | 114 | 
 | 2023-02-05 | 1788 | 114 | 
-| 2023-02-04 | 1790 | 114 | 
 

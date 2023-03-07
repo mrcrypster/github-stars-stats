@@ -1,10 +1,10 @@
 # w3c/webappsec-permissions-policy - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 153
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/w3c/webappsec-permissions-policy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 367 | 153 | 
 | 2023-03-05 | 366 | 153 | 
 | 2023-03-04 | 366 | 153 | 
 | 2023-03-03 | 366 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 365 | 152 | 
 | 2023-02-06 | 366 | 152 | 
 | 2023-02-05 | 366 | 152 | 
-| 2023-02-04 | 366 | 152 | 
 

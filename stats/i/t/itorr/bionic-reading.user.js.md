@@ -1,6 +1,6 @@
 # itorr/bionic-reading.user.js - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 276 | 17 | 
 | 2023-03-04 | 276 | 17 | 
 | 2023-03-03 | 276 | 17 | 
 | 2023-03-02 | 276 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 275 | 17 | 
 | 2023-02-06 | 275 | 17 | 
 | 2023-02-05 | 275 | 17 | 
-| 2023-02-04 | 275 | 17 | 
 

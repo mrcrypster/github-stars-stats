@@ -1,6 +1,6 @@
 # efchatz/HTTP3-attacks - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 58 | 15 | 
 | 2023-03-05 | 58 | 15 | 
 | 2023-03-04 | 58 | 15 | 
 | 2023-03-03 | 58 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 55 | 14 | 
 | 2023-02-06 | 55 | 14 | 
 | 2023-02-05 | 55 | 14 | 
-| 2023-02-04 | 55 | 14 | 
 

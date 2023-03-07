@@ -1,6 +1,6 @@
 # fullstackio/FlappySwift - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2659
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 9543 | 2659 | 
 | 2023-03-05 | 9543 | 2659 | 
 | 2023-03-04 | 9543 | 2658 | 
 | 2023-03-03 | 9541 | 2657 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 9532 | 2657 | 
 | 2023-02-06 | 9532 | 2657 | 
 | 2023-02-05 | 9531 | 2657 | 
-| 2023-02-04 | 9531 | 2658 | 
 

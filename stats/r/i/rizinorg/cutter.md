@@ -1,10 +1,10 @@
 # rizinorg/cutter - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 999
+☋ Forks: 1001
 
-★ Stars: 12657
+★ Stars: 12663
 
 [Open repository](https://github.com/rizinorg/cutter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 12663 | 1001 | 
 | 2023-03-04 | 12657 | 999 | 
 | 2023-03-03 | 12655 | 997 | 
 | 2023-03-02 | 12650 | 995 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 12540 | 990 | 
 | 2023-02-06 | 12533 | 990 | 
 | 2023-02-05 | 12532 | 990 | 
-| 2023-02-04 | 12529 | 991 | 
 

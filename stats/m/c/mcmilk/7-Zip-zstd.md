@@ -1,10 +1,10 @@
 # mcmilk/7-Zip-zstd - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 212
 
-★ Stars: 3076
+★ Stars: 3080
 
 [Open repository](https://github.com/mcmilk/7-Zip-zstd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 3080 | 212 | 
 | 2023-03-05 | 3076 | 212 | 
 | 2023-03-03 | 3073 | 212 | 
 | 2023-03-02 | 3069 | 212 | 

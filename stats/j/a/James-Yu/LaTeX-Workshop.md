@@ -1,10 +1,10 @@
 # James-Yu/LaTeX-Workshop - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 479
 
-★ Stars: 9237
+★ Stars: 9246
 
 [Open repository](https://github.com/James-Yu/LaTeX-Workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 9246 | 479 | 
 | 2023-03-05 | 9237 | 479 | 
 | 2023-03-04 | 9233 | 479 | 
 | 2023-03-03 | 9229 | 480 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 9159 | 478 | 
 | 2023-02-06 | 9158 | 478 | 
 | 2023-02-05 | 9155 | 478 | 
-| 2023-02-04 | 9155 | 478 | 
 

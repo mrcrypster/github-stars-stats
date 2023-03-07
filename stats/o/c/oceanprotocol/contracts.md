@@ -1,6 +1,6 @@
 # oceanprotocol/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 63 | 57 | 
 | 2023-03-05 | 63 | 57 | 
 | 2023-03-04 | 63 | 56 | 
 | 2023-03-03 | 62 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 59 | 54 | 
 | 2023-02-06 | 59 | 53 | 
 | 2023-02-05 | 59 | 53 | 
-| 2023-02-04 | 59 | 53 | 
 

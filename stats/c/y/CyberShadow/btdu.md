@@ -1,10 +1,10 @@
 # CyberShadow/btdu - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/CyberShadow/btdu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 215 | 3 | 
 | 2023-03-05 | 214 | 3 | 
 | 2023-03-03 | 213 | 3 | 
 | 2023-03-02 | 213 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 209 | 2 | 
 | 2023-02-06 | 209 | 2 | 
 | 2023-02-05 | 209 | 2 | 
-| 2023-02-04 | 209 | 2 | 
 

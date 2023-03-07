@@ -1,6 +1,6 @@
 # titusfortner/webdrivers - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 568 | 99 | 
 | 2023-03-05 | 568 | 99 | 
 | 2023-03-04 | 568 | 99 | 
 | 2023-03-03 | 568 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 564 | 100 | 
 | 2023-02-06 | 564 | 100 | 
 | 2023-02-05 | 564 | 100 | 
-| 2023-02-04 | 564 | 100 | 
 

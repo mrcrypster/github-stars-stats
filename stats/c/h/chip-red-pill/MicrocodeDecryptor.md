@@ -1,10 +1,10 @@
 # chip-red-pill/MicrocodeDecryptor - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 114
 
-★ Stars: 1462
+★ Stars: 1463
 
 [Open repository](https://github.com/chip-red-pill/MicrocodeDecryptor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1463 | 114 | 
 | 2023-03-05 | 1462 | 114 | 
 | 2023-03-04 | 1462 | 114 | 
 | 2023-03-03 | 1462 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 1461 | 114 | 
 | 2023-02-06 | 1461 | 114 | 
 | 2023-02-05 | 1461 | 114 | 
-| 2023-02-04 | 1461 | 114 | 
 

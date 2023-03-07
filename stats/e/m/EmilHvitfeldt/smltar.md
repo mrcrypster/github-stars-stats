@@ -1,10 +1,10 @@
 # EmilHvitfeldt/smltar - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 68
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/EmilHvitfeldt/smltar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 224 | 68 | 
 | 2023-03-05 | 223 | 68 | 
 | 2023-03-03 | 223 | 67 | 
 | 2023-03-02 | 223 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 220 | 67 | 
 | 2023-02-06 | 220 | 67 | 
 | 2023-02-05 | 220 | 67 | 
-| 2023-02-04 | 220 | 67 | 
 

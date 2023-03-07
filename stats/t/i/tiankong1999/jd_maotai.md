@@ -1,6 +1,6 @@
 # tiankong1999/jd_maotai - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 167 | 77 | 
 | 2023-03-05 | 167 | 77 | 
 | 2023-03-04 | 166 | 77 | 
 | 2023-03-03 | 165 | 77 | 

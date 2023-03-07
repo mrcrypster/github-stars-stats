@@ -1,10 +1,10 @@
 # Strazil001/Dotfiles-AwesomeWM - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 7
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/Strazil001/Dotfiles-AwesomeWM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 45 | 7 | 
 | 2023-03-05 | 44 | 7 | 
 | 2023-03-03 | 44 | 7 | 
 | 2023-03-02 | 43 | 7 | 

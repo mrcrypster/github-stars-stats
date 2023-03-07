@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-named-subnets - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 43 | 33 | 
 | 2023-03-05 | 43 | 33 | 
 | 2023-03-04 | 43 | 33 | 
 | 2023-03-02 | 43 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 43 | 33 | 
 | 2023-02-06 | 43 | 33 | 
 | 2023-02-05 | 43 | 33 | 
-| 2023-02-04 | 43 | 33 | 
 

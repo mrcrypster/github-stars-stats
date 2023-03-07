@@ -1,6 +1,6 @@
 # swisspol/GCDWebServer - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 1171
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 6323 | 1171 | 
 | 2023-03-05 | 6323 | 1171 | 
 | 2023-03-04 | 6322 | 1171 | 
 | 2023-03-03 | 6321 | 1171 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 6309 | 1165 | 
 | 2023-02-06 | 6308 | 1166 | 
 | 2023-02-05 | 6308 | 1166 | 
-| 2023-02-04 | 6308 | 1166 | 
 

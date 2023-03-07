@@ -1,10 +1,10 @@
 # MiCode/Xiaomi_Kernel_OpenSource - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 2680
+☋ Forks: 2681
 
-★ Stars: 7232
+★ Stars: 7235
 
 [Open repository](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 7235 | 2681 | 
 | 2023-03-05 | 7232 | 2680 | 
 | 2023-03-04 | 7233 | 2676 | 
 | 2023-03-03 | 7232 | 2675 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 7137 | 2652 | 
 | 2023-02-06 | 7128 | 2649 | 
 | 2023-02-05 | 7118 | 2645 | 
-| 2023-02-04 | 7101 | 2643 | 
 

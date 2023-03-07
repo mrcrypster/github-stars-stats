@@ -1,6 +1,6 @@
 # Chamidilshan/ChatGPT-App - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 34 | 10 | 
 | 2023-03-04 | 34 | 10 | 
 | 2023-03-03 | 32 | 10 | 
 | 2023-03-02 | 29 | 8 | 

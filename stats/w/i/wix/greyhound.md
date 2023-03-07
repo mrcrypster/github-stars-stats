@@ -1,10 +1,10 @@
 # wix/greyhound - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 460
+★ Stars: 459
 
 [Open repository](https://github.com/wix/greyhound)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 459 | 30 | 
 | 2023-03-05 | 460 | 30 | 
 | 2023-03-03 | 460 | 30 | 
 | 2023-03-02 | 460 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 454 | 29 | 
 | 2023-02-06 | 452 | 29 | 
 | 2023-02-05 | 451 | 29 | 
-| 2023-02-04 | 451 | 29 | 
 

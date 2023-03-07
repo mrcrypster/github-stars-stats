@@ -1,8 +1,8 @@
 # openjdk/jmh - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
-☋ Forks: 222
+☋ Forks: 223
 
 ★ Stars: 1385
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1385 | 223 | 
 | 2023-03-05 | 1385 | 222 | 
 | 2023-03-03 | 1383 | 222 | 
 | 2023-03-02 | 1379 | 222 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 1323 | 217 | 
 | 2023-02-07 | 1321 | 217 | 
 | 2023-02-06 | 1318 | 217 | 
-| 2023-02-05 | 1319 | 217 | 
 

@@ -1,10 +1,10 @@
 # drud/ddev - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 446
 
-★ Stars: 1694
+★ Stars: 1700
 
 [Open repository](https://github.com/drud/ddev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 1700 | 446 | 
 | 2023-03-04 | 1694 | 446 | 
 | 2023-03-03 | 1695 | 446 | 
 | 2023-03-02 | 1695 | 445 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-07 | 1672 | 439 | 
 | 2023-02-06 | 1668 | 439 | 
 | 2023-02-05 | 1668 | 439 | 
-| 2023-02-04 | 1666 | 440 | 
 

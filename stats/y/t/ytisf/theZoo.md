@@ -1,8 +1,8 @@
 # ytisf/theZoo - stars & forks statistics
 
-Stats updated on Mar 2023, 04
+Stats updated on Mar 2023, 06
 
-☋ Forks: 2336
+☋ Forks: 2337
 
 ★ Stars: 9448
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 9448 | 2337 | 
 | 2023-03-04 | 9448 | 2336 | 
 | 2023-03-03 | 9443 | 2336 | 
 | 2023-03-02 | 9435 | 2334 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 04
 | 2023-02-08 | 9380 | 2319 | 
 | 2023-02-07 | 9377 | 2319 | 
 | 2023-02-06 | 9372 | 2318 | 
-| 2023-02-05 | 9372 | 2316 | 
 

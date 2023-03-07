@@ -1,6 +1,6 @@
 # rossberg/1ml - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 251 | 18 | 
 | 2023-03-05 | 251 | 18 | 
 | 2023-03-04 | 251 | 18 | 
 | 2023-03-03 | 251 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 249 | 18 | 
 | 2023-02-07 | 249 | 18 | 
 | 2023-02-06 | 249 | 18 | 
-| 2023-02-05 | 249 | 18 | 
 

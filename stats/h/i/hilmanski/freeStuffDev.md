@@ -1,10 +1,10 @@
 # hilmanski/freeStuffDev - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 06
 
 ☋ Forks: 316
 
-★ Stars: 966
+★ Stars: 968
 
 [Open repository](https://github.com/hilmanski/freeStuffDev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-06 | 968 | 316 | 
 | 2023-03-05 | 966 | 316 | 
 | 2023-03-03 | 968 | 315 | 
 | 2023-03-02 | 968 | 313 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-07 | 950 | 306 | 
 | 2023-02-06 | 946 | 306 | 
 | 2023-02-05 | 946 | 306 | 
-| 2023-02-04 | 946 | 305 | 
 
