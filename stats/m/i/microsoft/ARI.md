@@ -1,10 +1,10 @@
 # microsoft/ARI - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 219
 
-★ Stars: 543
+★ Stars: 545
 
 [Open repository](https://github.com/microsoft/ARI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 545 | 219 | 
 | 2023-03-06 | 543 | 219 | 
 | 2023-03-04 | 543 | 218 | 
 | 2023-03-03 | 543 | 218 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 510 | 200 | 
 | 2023-02-08 | 507 | 200 | 
 | 2023-02-07 | 507 | 200 | 
-| 2023-02-06 | 507 | 199 | 
 

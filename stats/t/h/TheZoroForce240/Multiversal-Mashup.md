@@ -1,6 +1,6 @@
 # TheZoroForce240/Multiversal-Mashup - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2 | 5 | 
 | 2023-03-05 | 2 | 5 | 
 | 2023-03-04 | 2 | 5 | 
 | 2023-03-03 | 2 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 2 | 5 | 
 | 2023-02-08 | 2 | 5 | 
 | 2023-02-07 | 2 | 5 | 
-| 2023-02-06 | 2 | 5 | 
 

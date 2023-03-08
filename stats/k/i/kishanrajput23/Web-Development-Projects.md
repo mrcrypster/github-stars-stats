@@ -1,6 +1,6 @@
 # kishanrajput23/Web-Development-Projects - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 47 | 91 | 
 | 2023-03-06 | 47 | 91 | 
 | 2023-03-05 | 47 | 92 | 
 | 2023-03-03 | 47 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 46 | 91 | 
 | 2023-02-07 | 46 | 91 | 
 | 2023-02-06 | 46 | 91 | 
-| 2023-02-05 | 46 | 91 | 
 

@@ -1,10 +1,10 @@
 # mirage/mirage - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 236
+☋ Forks: 237
 
-★ Stars: 2080
+★ Stars: 2082
 
 [Open repository](https://github.com/mirage/mirage)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2082 | 237 | 
 | 2023-03-06 | 2080 | 236 | 
 | 2023-03-04 | 2080 | 236 | 
 | 2023-03-03 | 2081 | 236 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2067 | 233 | 
 | 2023-02-07 | 2067 | 233 | 
 | 2023-02-06 | 2067 | 233 | 
-| 2023-02-05 | 2066 | 233 | 
 

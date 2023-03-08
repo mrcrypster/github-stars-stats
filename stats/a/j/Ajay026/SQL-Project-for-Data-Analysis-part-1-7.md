@@ -1,10 +1,10 @@
 # Ajay026/SQL-Project-for-Data-Analysis-part-1-7 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/Ajay026/SQL-Project-for-Data-Analysis-part-1-7)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 216 | 86 | 
 | 2023-03-06 | 215 | 85 | 
 | 2023-03-05 | 214 | 85 | 
 | 2023-03-03 | 214 | 85 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 190 | 76 | 
 | 2023-02-08 | 190 | 76 | 
 | 2023-02-07 | 189 | 74 | 
-| 2023-02-05 | 188 | 74 | 
 

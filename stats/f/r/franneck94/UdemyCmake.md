@@ -1,10 +1,10 @@
 # franneck94/UdemyCmake - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/franneck94/UdemyCmake)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 26 | 17 | 
 | 2023-03-06 | 25 | 17 | 
 | 2023-03-05 | 25 | 18 | 
 | 2023-03-03 | 25 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 23 | 14 | 
 | 2023-02-07 | 23 | 14 | 
 | 2023-02-06 | 23 | 14 | 
-| 2023-02-05 | 22 | 14 | 
 

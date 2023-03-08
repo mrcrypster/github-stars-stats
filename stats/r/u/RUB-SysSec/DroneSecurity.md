@@ -1,10 +1,10 @@
 # RUB-SysSec/DroneSecurity - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 68
+☋ Forks: 70
 
-★ Stars: 397
+★ Stars: 411
 
 [Open repository](https://github.com/RUB-SysSec/DroneSecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 411 | 70 | 
 | 2023-03-06 | 397 | 68 | 
 | 2023-03-05 | 276 | 58 | 
 | 2023-03-04 | 209 | 46 | 

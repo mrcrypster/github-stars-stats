@@ -1,10 +1,10 @@
 # xuxueli/xxl-job - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 9875
+☋ Forks: 9881
 
-★ Stars: 23701
+★ Stars: 23712
 
 [Open repository](https://github.com/xuxueli/xxl-job)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 23712 | 9881 | 
 | 2023-03-05 | 23701 | 9875 | 
 | 2023-03-04 | 23694 | 9873 | 
 | 2023-03-03 | 23680 | 9871 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 23508 | 9812 | 
 | 2023-02-07 | 23498 | 9810 | 
 | 2023-02-06 | 23481 | 9804 | 
-| 2023-02-05 | 23473 | 9803 | 
 

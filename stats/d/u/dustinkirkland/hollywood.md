@@ -1,10 +1,10 @@
 # dustinkirkland/hollywood - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 221
 
-★ Stars: 2345
+★ Stars: 2347
 
 [Open repository](https://github.com/dustinkirkland/hollywood)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2347 | 221 | 
 | 2023-03-06 | 2345 | 221 | 
 | 2023-03-05 | 2343 | 221 | 
 | 2023-03-04 | 2344 | 221 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2333 | 220 | 
 | 2023-02-07 | 2333 | 220 | 
 | 2023-02-06 | 2331 | 220 | 
-| 2023-02-05 | 2331 | 220 | 
 

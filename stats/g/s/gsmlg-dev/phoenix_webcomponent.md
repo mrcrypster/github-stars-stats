@@ -1,6 +1,6 @@
 # gsmlg-dev/phoenix_webcomponent - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 79 | - | 
 | 2023-03-05 | 79 | - | 
 | 2023-03-04 | 79 | - | 
 | 2023-03-03 | 79 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 79 | - | 
 | 2023-02-07 | 79 | - | 
 | 2023-02-06 | 79 | - | 
-| 2023-02-05 | 79 | - | 
 

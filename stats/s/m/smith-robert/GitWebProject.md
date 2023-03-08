@@ -1,0 +1,18 @@
+# smith-robert/GitWebProject - stars & forks statistics
+
+Stats updated on Mar 2023, 08
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/smith-robert/GitWebProject)
+
+[Open detailed stats for smith-robert/GitWebProject](https://reviewgithub.com/rep/smith-robert/GitWebProject)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-08 | - | - | 
+| 2023-03-07 | - | - | 
+

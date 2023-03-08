@@ -1,10 +1,10 @@
 # lorniu/ox-spectacle - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/lorniu/ox-spectacle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 56 | 5 | 
 | 2023-03-05 | 55 | 5 | 
 | 2023-03-04 | 55 | 5 | 
 | 2023-03-03 | 55 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 54 | 5 | 
 | 2023-02-07 | 54 | 5 | 
 | 2023-02-06 | 54 | 5 | 
-| 2023-02-05 | 54 | 5 | 
 

@@ -1,6 +1,6 @@
 # SciML/DataDrivenDiffEq.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 363 | 47 | 
 | 2023-03-05 | 363 | 47 | 
 | 2023-03-04 | 363 | 47 | 
 | 2023-03-03 | 364 | 47 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 358 | 46 | 
 | 2023-02-08 | 358 | 46 | 
 | 2023-02-07 | 357 | 46 | 
-| 2023-02-06 | 357 | 46 | 
 

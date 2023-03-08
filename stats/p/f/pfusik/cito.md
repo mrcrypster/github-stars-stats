@@ -1,10 +1,10 @@
 # pfusik/cito - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 45
 
-★ Stars: 1452
+★ Stars: 1453
 
 [Open repository](https://github.com/pfusik/cito)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1453 | 45 | 
 | 2023-03-06 | 1452 | 45 | 
 | 2023-03-05 | 1450 | 45 | 
 | 2023-03-04 | 1450 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 1436 | 45 | 
 | 2023-02-07 | 1434 | 45 | 
 | 2023-02-06 | 1434 | 45 | 
-| 2023-02-05 | 1432 | 45 | 
 

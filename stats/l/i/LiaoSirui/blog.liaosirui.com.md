@@ -1,10 +1,10 @@
 # LiaoSirui/blog.liaosirui.com - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 82
+★ Stars: 93
 
 [Open repository](https://github.com/LiaoSirui/blog.liaosirui.com)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 93 | 17 | 
 | 2023-03-06 | 82 | 15 | 
 | 2023-03-05 | 54 | 10 | 
 | 2023-03-04 | 49 | 10 | 

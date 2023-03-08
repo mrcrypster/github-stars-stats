@@ -1,10 +1,10 @@
 # solidusio/solidus_i18n - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 130
 
-★ Stars: 57
+★ Stars: 56
 
 [Open repository](https://github.com/solidusio/solidus_i18n)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 56 | 130 | 
 | 2023-03-06 | 57 | 130 | 
 | 2023-03-04 | 57 | 130 | 
 | 2023-03-03 | 57 | 130 | 

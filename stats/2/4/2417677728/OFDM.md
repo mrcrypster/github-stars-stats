@@ -1,6 +1,6 @@
 # 2417677728/OFDM - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 169 | 84 | 
 | 2023-03-06 | 169 | 84 | 
 | 2023-03-05 | 169 | 84 | 
 | 2023-03-03 | 169 | 84 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 163 | 82 | 
 | 2023-02-07 | 161 | 82 | 
 | 2023-02-06 | 160 | 82 | 
-| 2023-02-05 | 160 | 82 | 
 

@@ -1,6 +1,6 @@
 # suruibuas/eui - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 363 | 120 | 
 | 2023-03-06 | 363 | 120 | 
 | 2023-03-05 | 362 | 120 | 
 | 2023-03-03 | 362 | 120 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 354 | 119 | 
 | 2023-02-07 | 354 | 119 | 
 | 2023-02-06 | 354 | 119 | 
-| 2023-02-05 | 354 | 119 | 
 

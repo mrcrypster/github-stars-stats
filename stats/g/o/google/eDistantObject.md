@@ -1,6 +1,6 @@
 # google/eDistantObject - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 154 | 36 | 
 | 2023-03-06 | 154 | 36 | 
 | 2023-03-05 | 154 | 36 | 
 | 2023-03-03 | 154 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 153 | 36 | 
 | 2023-02-07 | 153 | 36 | 
 | 2023-02-06 | 153 | 36 | 
-| 2023-02-05 | 153 | 36 | 
 

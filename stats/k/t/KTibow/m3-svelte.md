@@ -1,10 +1,10 @@
 # KTibow/m3-svelte - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/KTibow/m3-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 10 | 2 | 
 | 2023-03-06 | 9 | 2 | 
 | 2023-03-05 | 9 | 2 | 
 | 2023-03-04 | 9 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 8 | 2 | 
 | 2023-02-08 | 8 | 2 | 
 | 2023-02-06 | 8 | 2 | 
-| 2023-02-05 | 8 | 2 | 
 

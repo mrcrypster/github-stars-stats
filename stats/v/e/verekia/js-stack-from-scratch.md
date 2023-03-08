@@ -1,10 +1,10 @@
 # verekia/js-stack-from-scratch - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 2042
+☋ Forks: 2041
 
-★ Stars: 19796
+★ Stars: 19797
 
 [Open repository](https://github.com/verekia/js-stack-from-scratch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 19797 | 2041 | 
 | 2023-03-06 | 19796 | 2042 | 
 | 2023-03-05 | 19788 | 2042 | 
 | 2023-03-04 | 19787 | 2042 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 19745 | 2037 | 
 | 2023-02-08 | 19743 | 2037 | 
 | 2023-02-07 | 19737 | 2037 | 
-| 2023-02-06 | 19732 | 2034 | 
 

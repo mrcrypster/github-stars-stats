@@ -1,10 +1,10 @@
 # karaage0703/FlexGen-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/karaage0703/FlexGen-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 25 | 5 | 
 | 2023-03-05 | 24 | 5 | 
 | 2023-03-04 | 24 | 5 | 
 | 2023-03-03 | 24 | 5 | 

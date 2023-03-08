@@ -1,10 +1,10 @@
 # dillonkearns/elm-pages - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 85
 
-★ Stars: 571
+★ Stars: 572
 
 [Open repository](https://github.com/dillonkearns/elm-pages)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 572 | 85 | 
 | 2023-03-05 | 571 | 85 | 
 | 2023-03-04 | 570 | 85 | 
 | 2023-03-03 | 570 | 85 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 562 | 85 | 
 | 2023-02-08 | 562 | 85 | 
 | 2023-02-06 | 562 | 85 | 
-| 2023-02-05 | 561 | 85 | 
 

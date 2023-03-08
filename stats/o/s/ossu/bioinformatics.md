@@ -1,10 +1,10 @@
 # ossu/bioinformatics - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 680
 
-★ Stars: 3634
+★ Stars: 3636
 
 [Open repository](https://github.com/ossu/bioinformatics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3636 | 680 | 
 | 2023-03-06 | 3634 | 680 | 
 | 2023-03-04 | 3633 | 680 | 
 | 2023-03-03 | 3632 | 679 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 3575 | 673 | 
 | 2023-02-07 | 3573 | 671 | 
 | 2023-02-06 | 3569 | 671 | 
-| 2023-02-05 | 3569 | 671 | 
 

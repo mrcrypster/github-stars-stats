@@ -1,6 +1,6 @@
 # SkyrimLL/SkLLmods - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 24 | 22 | 
 | 2023-03-06 | 24 | 22 | 
 | 2023-03-05 | 24 | 22 | 
 | 2023-03-04 | 24 | 22 | 

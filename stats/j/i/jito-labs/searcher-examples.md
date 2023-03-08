@@ -1,6 +1,6 @@
 # jito-labs/searcher-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 97 | 19 | 
 | 2023-03-05 | 97 | 19 | 
 | 2023-03-04 | 97 | 19 | 
 | 2023-03-03 | 97 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 94 | 19 | 
 | 2023-02-07 | 92 | 19 | 
 | 2023-02-06 | 91 | 19 | 
-| 2023-02-05 | 85 | 19 | 
 

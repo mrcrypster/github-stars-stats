@@ -1,6 +1,6 @@
 # SysCV/transfiner - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 446 | 45 | 
 | 2023-03-06 | 446 | 45 | 
 | 2023-03-04 | 446 | 45 | 
 | 2023-03-03 | 446 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 439 | 46 | 
 | 2023-02-07 | 438 | 46 | 
 | 2023-02-06 | 438 | 46 | 
-| 2023-02-05 | 438 | 46 | 
 

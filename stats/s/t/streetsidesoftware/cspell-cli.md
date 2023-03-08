@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/streetsidesoftware/cspell-cli)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 27 | 5 | 
+| 2023-03-07 | 28 | 5 | 
 | 2023-03-06 | 27 | 5 | 
 | 2023-03-05 | 27 | 5 | 
 | 2023-03-04 | 27 | 5 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-08 | 25 | 5 | 
 | 2023-02-07 | 25 | 5 | 
 | 2023-02-06 | 25 | 5 | 
-| 2023-02-05 | 25 | 5 | 
 

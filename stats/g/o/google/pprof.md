@@ -1,10 +1,10 @@
 # google/pprof - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 545
 
-★ Stars: 6287
+★ Stars: 6292
 
 [Open repository](https://github.com/google/pprof)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6292 | 545 | 
 | 2023-03-06 | 6287 | 545 | 
 | 2023-03-05 | 6285 | 545 | 
 | 2023-03-04 | 6282 | 545 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 6215 | 542 | 
 | 2023-02-07 | 6215 | 542 | 
 | 2023-02-06 | 6210 | 542 | 
-| 2023-02-05 | 6207 | 541 | 
 

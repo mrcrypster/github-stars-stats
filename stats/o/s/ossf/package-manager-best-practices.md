@@ -1,8 +1,8 @@
 # ossf/package-manager-best-practices - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 148
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 148 | 18 | 
 | 2023-03-06 | 148 | 17 | 
 | 2023-03-05 | 148 | 17 | 
 | 2023-03-03 | 148 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 147 | 16 | 
 | 2023-02-07 | 147 | 16 | 
 | 2023-02-06 | 147 | 16 | 
-| 2023-02-05 | 147 | 16 | 
 

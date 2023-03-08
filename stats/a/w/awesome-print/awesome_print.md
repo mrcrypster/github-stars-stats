@@ -1,6 +1,6 @@
 # awesome-print/awesome_print - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 461
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4018 | 461 | 
 | 2023-03-06 | 4018 | 461 | 
 | 2023-03-04 | 4017 | 461 | 
 | 2023-03-03 | 4017 | 461 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 4015 | 460 | 
 | 2023-02-07 | 4015 | 460 | 
 | 2023-02-06 | 4014 | 460 | 
-| 2023-02-05 | 4015 | 460 | 
 

@@ -1,6 +1,6 @@
 # mjskay/ggdist - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 622 | 19 | 
 | 2023-03-06 | 622 | 19 | 
 | 2023-03-04 | 620 | 19 | 
 | 2023-03-03 | 620 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 596 | 19 | 
 | 2023-02-07 | 596 | 19 | 
 | 2023-02-06 | 596 | 19 | 
-| 2023-02-05 | 596 | 19 | 
 

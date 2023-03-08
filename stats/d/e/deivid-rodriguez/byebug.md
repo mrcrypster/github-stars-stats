@@ -1,10 +1,10 @@
 # deivid-rodriguez/byebug - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 331
 
-★ Stars: 3286
+★ Stars: 3287
 
 [Open repository](https://github.com/deivid-rodriguez/byebug)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3287 | 331 | 
 | 2023-03-06 | 3286 | 331 | 
 | 2023-03-04 | 3285 | 331 | 
 | 2023-03-03 | 3284 | 331 | 

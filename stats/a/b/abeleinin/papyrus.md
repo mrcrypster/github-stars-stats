@@ -1,10 +1,10 @@
 # abeleinin/papyrus - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/abeleinin/papyrus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 51 | - | 
 | 2023-03-05 | 49 | - | 
 | 2023-03-04 | 46 | - | 
 | 2023-03-03 | 45 | - | 

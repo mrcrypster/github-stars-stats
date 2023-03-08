@@ -1,6 +1,6 @@
 # HVML/PurC - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1057 | 54 | 
 | 2023-03-06 | 1057 | 54 | 
 | 2023-03-04 | 1057 | 54 | 
 | 2023-03-03 | 1057 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1054 | 54 | 
 | 2023-02-07 | 1054 | 54 | 
 | 2023-02-06 | 1054 | 54 | 
-| 2023-02-05 | 1054 | 54 | 
 

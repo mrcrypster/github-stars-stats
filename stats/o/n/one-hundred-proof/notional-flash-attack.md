@@ -1,10 +1,10 @@
 # one-hundred-proof/notional-flash-attack - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/one-hundred-proof/notional-flash-attack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 27 | 2 | 
 | 2023-03-06 | 26 | 2 | 
 | 2023-03-05 | 26 | 2 | 
 | 2023-03-03 | 25 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 25 | 3 | 
 | 2023-02-07 | 25 | 3 | 
 | 2023-02-06 | 25 | 3 | 
-| 2023-02-05 | 25 | 3 | 
 

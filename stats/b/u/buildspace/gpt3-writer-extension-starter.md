@@ -1,8 +1,8 @@
 # buildspace/gpt3-writer-extension-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 428
+☋ Forks: 430
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 56 | 430 | 
 | 2023-03-05 | 56 | 428 | 
 | 2023-03-04 | 56 | 427 | 
 | 2023-03-03 | 56 | 425 | 

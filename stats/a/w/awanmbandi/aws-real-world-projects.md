@@ -1,6 +1,6 @@
 # awanmbandi/aws-real-world-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 9 | 168 | 
 | 2023-03-06 | 9 | 168 | 
 | 2023-03-05 | 9 | 168 | 
 | 2023-03-03 | 9 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 9 | 165 | 
 | 2023-02-07 | 9 | 165 | 
 | 2023-02-06 | 9 | 163 | 
-| 2023-02-05 | 9 | 163 | 
 

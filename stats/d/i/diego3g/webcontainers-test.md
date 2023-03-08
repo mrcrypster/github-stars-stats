@@ -1,10 +1,10 @@
 # diego3g/webcontainers-test - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 9
+☋ Forks: 8
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/diego3g/webcontainers-test)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 42 | 8 | 
 | 2023-03-06 | 40 | 9 | 
 | 2023-03-05 | 40 | 9 | 
 | 2023-03-03 | 39 | 10 | 

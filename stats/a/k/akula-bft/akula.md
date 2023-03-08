@@ -1,6 +1,6 @@
 # akula-bft/akula - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 795 | 131 | 
 | 2023-03-06 | 795 | 131 | 
 | 2023-03-05 | 795 | 131 | 
 | 2023-03-04 | 795 | 131 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 796 | 132 | 
 | 2023-02-07 | 795 | 132 | 
 | 2023-02-06 | 795 | 132 | 
-| 2023-02-05 | 793 | 131 | 
 

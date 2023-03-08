@@ -1,10 +1,10 @@
 # kerisy/archttp - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/kerisy/archttp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 39 | 1 | 
 | 2023-03-06 | 38 | 1 | 
 | 2023-03-05 | 38 | 1 | 
 | 2023-03-03 | 38 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 38 | 1 | 
 | 2023-02-07 | 38 | 1 | 
 | 2023-02-06 | 38 | 1 | 
-| 2023-02-05 | 38 | 1 | 
 

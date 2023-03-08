@@ -1,6 +1,6 @@
 # risc0/risc0-lean4 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 21 | 1 | 
 | 2023-03-06 | 21 | 1 | 
 | 2023-03-04 | 21 | 1 | 
 | 2023-03-03 | 21 | 1 | 

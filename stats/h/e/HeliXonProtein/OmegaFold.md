@@ -1,10 +1,10 @@
 # HeliXonProtein/OmegaFold - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 48
 
-★ Stars: 414
+★ Stars: 415
 
 [Open repository](https://github.com/HeliXonProtein/OmegaFold)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 415 | 48 | 
 | 2023-03-05 | 414 | 48 | 
 | 2023-03-04 | 414 | 48 | 
 | 2023-03-03 | 414 | 48 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 406 | 47 | 
 | 2023-02-08 | 406 | 47 | 
 | 2023-02-07 | 405 | 47 | 
-| 2023-02-06 | 405 | 47 | 
 

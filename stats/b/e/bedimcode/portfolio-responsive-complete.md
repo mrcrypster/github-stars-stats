@@ -1,6 +1,6 @@
 # bedimcode/portfolio-responsive-complete - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 627
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 693 | 627 | 
 | 2023-03-06 | 693 | 627 | 
 | 2023-03-05 | 692 | 627 | 
 | 2023-03-04 | 691 | 627 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 678 | 613 | 
 | 2023-02-07 | 678 | 613 | 
 | 2023-02-06 | 679 | 612 | 
-| 2023-02-05 | 680 | 611 | 
 

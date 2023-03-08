@@ -1,10 +1,10 @@
 # builtbybel/ThisIsWin11 - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 312
+☋ Forks: 313
 
-★ Stars: 4353
+★ Stars: 4361
 
 [Open repository](https://github.com/builtbybel/ThisIsWin11)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4361 | 313 | 
 | 2023-03-05 | 4353 | 312 | 
 | 2023-03-04 | 4345 | 312 | 
 | 2023-03-03 | 4343 | 311 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 4000 | 297 | 
 | 2023-02-07 | 3988 | 297 | 
 | 2023-02-06 | 3980 | 297 | 
-| 2023-02-05 | 3963 | 296 | 
 

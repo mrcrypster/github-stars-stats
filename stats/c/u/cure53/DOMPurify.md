@@ -1,10 +1,10 @@
 # cure53/DOMPurify - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 646
 
-★ Stars: 10601
+★ Stars: 10612
 
 [Open repository](https://github.com/cure53/DOMPurify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 10612 | 646 | 
 | 2023-03-06 | 10601 | 646 | 
 | 2023-03-05 | 10592 | 646 | 
 | 2023-03-04 | 10590 | 646 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 10376 | 636 | 
 | 2023-02-07 | 10367 | 636 | 
 | 2023-02-06 | 10359 | 637 | 
-| 2023-02-05 | 10349 | 636 | 
 

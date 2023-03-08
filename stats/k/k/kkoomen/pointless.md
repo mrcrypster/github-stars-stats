@@ -1,6 +1,6 @@
 # kkoomen/pointless - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 985 | 62 | 
 | 2023-03-06 | 985 | 62 | 
 | 2023-03-05 | 984 | 62 | 
 | 2023-03-04 | 984 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 970 | 61 | 
 | 2023-02-08 | 969 | 61 | 
 | 2023-02-07 | 966 | 61 | 
-| 2023-02-05 | 962 | 60 | 
 

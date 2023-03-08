@@ -1,10 +1,10 @@
 # microsoft/ALAppExtensions - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 483
+☋ Forks: 485
 
-★ Stars: 540
+★ Stars: 542
 
 [Open repository](https://github.com/microsoft/ALAppExtensions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 542 | 485 | 
 | 2023-03-06 | 540 | 483 | 
 | 2023-03-05 | 538 | 483 | 
 | 2023-03-04 | 537 | 483 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 533 | 476 | 
 | 2023-02-07 | 531 | 476 | 
 | 2023-02-06 | 531 | 475 | 
-| 2023-02-05 | 530 | 475 | 
 

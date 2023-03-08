@@ -1,6 +1,6 @@
 # akhilnathe/winactivate - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 6 | 112 | 
 | 2023-03-06 | 6 | 112 | 
 | 2023-03-04 | 6 | 112 | 
 | 2023-03-03 | 6 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 6 | 112 | 
 | 2023-02-07 | 6 | 112 | 
 | 2023-02-06 | 5 | 112 | 
-| 2023-02-05 | 5 | 112 | 
 

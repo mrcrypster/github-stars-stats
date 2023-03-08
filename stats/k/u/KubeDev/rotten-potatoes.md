@@ -1,10 +1,10 @@
 # KubeDev/rotten-potatoes - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1029
 
-★ Stars: 49
+★ Stars: 48
 
 [Open repository](https://github.com/KubeDev/rotten-potatoes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 48 | 1029 | 
 | 2023-03-05 | 49 | 1029 | 
 | 2023-03-04 | 49 | 1030 | 
 | 2023-03-03 | 49 | 1030 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 49 | 1026 | 
 | 2023-02-08 | 48 | 1027 | 
 | 2023-02-07 | 48 | 1027 | 
-| 2023-02-05 | 48 | 1027 | 
 

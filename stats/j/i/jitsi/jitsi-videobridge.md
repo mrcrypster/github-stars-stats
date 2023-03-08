@@ -1,6 +1,6 @@
 # jitsi/jitsi-videobridge - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 954
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2682 | 954 | 
 | 2023-03-05 | 2682 | 954 | 
 | 2023-03-04 | 2682 | 955 | 
 | 2023-03-03 | 2683 | 953 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 2679 | 949 | 
 | 2023-02-08 | 2678 | 950 | 
 | 2023-02-07 | 2678 | 950 | 
-| 2023-02-06 | 2678 | 950 | 
 

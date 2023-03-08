@@ -1,10 +1,10 @@
 # merledu/Riscv-Single-Cycle-Cores - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/merledu/Riscv-Single-Cycle-Cores)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7 | 15 | 
 | 2023-03-06 | 6 | 15 | 
 | 2023-03-05 | 6 | 15 | 
 | 2023-03-03 | 6 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 6 | 15 | 
 | 2023-02-07 | 6 | 15 | 
 | 2023-02-06 | 6 | 15 | 
-| 2023-02-05 | 6 | 15 | 
 

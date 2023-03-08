@@ -1,10 +1,10 @@
 # JakeWharton/singular-solution - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 86
+★ Stars: 85
 
 [Open repository](https://github.com/JakeWharton/singular-solution)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 85 | 1 | 
 | 2023-03-06 | 86 | 1 | 
 | 2023-03-04 | 86 | 1 | 
 | 2023-03-03 | 86 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 86 | 1 | 
 | 2023-02-07 | 86 | 1 | 
 | 2023-02-06 | 86 | 1 | 
-| 2023-02-05 | 84 | 1 | 
 

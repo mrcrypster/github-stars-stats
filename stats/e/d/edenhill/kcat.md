@@ -1,10 +1,10 @@
 # edenhill/kcat - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 434
+☋ Forks: 435
 
-★ Stars: 4675
+★ Stars: 4681
 
 [Open repository](https://github.com/edenhill/kcat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4681 | 435 | 
 | 2023-03-06 | 4675 | 434 | 
 | 2023-03-05 | 4673 | 434 | 
 | 2023-03-04 | 4669 | 435 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 4631 | 436 | 
 | 2023-02-07 | 4630 | 436 | 
 | 2023-02-06 | 4630 | 435 | 
-| 2023-02-05 | 4628 | 435 | 
 

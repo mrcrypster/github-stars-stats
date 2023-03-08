@@ -1,6 +1,6 @@
 # openshift/okd - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1418 | 269 | 
 | 2023-03-05 | 1418 | 269 | 
 | 2023-03-04 | 1417 | 269 | 
 | 2023-03-03 | 1416 | 269 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 1395 | 271 | 
 | 2023-02-07 | 1395 | 271 | 
 | 2023-02-06 | 1395 | 271 | 
-| 2023-02-05 | 1393 | 270 | 
 

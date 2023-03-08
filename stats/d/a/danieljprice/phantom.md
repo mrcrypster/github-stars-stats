@@ -1,8 +1,8 @@
 # danieljprice/phantom - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 60 | 128 | 
 | 2023-03-05 | 60 | 127 | 
 | 2023-03-04 | 60 | 127 | 
 | 2023-03-02 | 60 | 127 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 59 | 124 | 
 | 2023-02-07 | 59 | 124 | 
 | 2023-02-06 | 59 | 124 | 
-| 2023-02-05 | 59 | 124 | 
 

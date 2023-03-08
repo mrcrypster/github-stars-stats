@@ -1,0 +1,18 @@
+# garious/diffdump - stars & forks statistics
+
+Stats updated on Mar 2023, 08
+
+☋ Forks: 1
+
+★ Stars: 6
+
+[Open repository](https://github.com/garious/diffdump)
+
+[Open detailed stats for garious/diffdump](https://reviewgithub.com/rep/garious/diffdump)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-08 | 6 | 1 | 
+| 2023-03-07 | 6 | 1 | 
+

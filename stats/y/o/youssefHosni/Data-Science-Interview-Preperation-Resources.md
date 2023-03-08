@@ -1,10 +1,10 @@
 # youssefHosni/Data-Science-Interview-Preperation-Resources - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 37
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 189 | 37 | 
 | 2023-03-06 | 188 | 37 | 
 | 2023-03-04 | 184 | 36 | 
 | 2023-03-03 | 181 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 75 | 13 | 
 | 2023-02-07 | 75 | 13 | 
 | 2023-02-06 | 75 | 13 | 
-| 2023-02-05 | 75 | 13 | 
 

@@ -1,6 +1,6 @@
 # benoitc/erlang-metrics - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 69 | 18 | 
 | 2023-03-05 | 69 | 18 | 
 | 2023-03-04 | 69 | 18 | 
 | 2023-03-03 | 69 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 69 | 18 | 
 | 2023-02-08 | 69 | 18 | 
 | 2023-02-07 | 69 | 18 | 
-| 2023-02-06 | 69 | 18 | 
 

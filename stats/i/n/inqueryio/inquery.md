@@ -1,10 +1,10 @@
 # inqueryio/inquery - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 821
+★ Stars: 828
 
 [Open repository](https://github.com/inqueryio/inquery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 828 | 26 | 
 | 2023-03-05 | 821 | 25 | 
 | 2023-03-04 | 807 | 23 | 
 | 2023-03-03 | 800 | 22 | 

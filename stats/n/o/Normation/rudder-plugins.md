@@ -1,6 +1,6 @@
 # Normation/rudder-plugins - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 10 | 22 | 
 | 2023-03-05 | 10 | 22 | 
 | 2023-03-04 | 11 | 22 | 
 | 2023-03-03 | 11 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 11 | 22 | 
 | 2023-02-07 | 11 | 22 | 
 | 2023-02-06 | 11 | 22 | 
-| 2023-02-05 | 11 | 22 | 
 

@@ -1,10 +1,10 @@
 # ayin86/digitcube - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 28
+☋ Forks: 33
 
-★ Stars: 111
+★ Stars: 132
 
 [Open repository](https://github.com/ayin86/digitcube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 132 | 33 | 
 | 2023-03-06 | 111 | 28 | 
 | 2023-03-05 | 111 | 28 | 
 | 2023-03-04 | 110 | 27 | 

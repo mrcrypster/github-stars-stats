@@ -1,10 +1,10 @@
 # jucasoliveira/terminalGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 146
+☋ Forks: 149
 
-★ Stars: 739
+★ Stars: 743
 
 [Open repository](https://github.com/jucasoliveira/terminalGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 743 | 149 | 
 | 2023-03-06 | 739 | 146 | 
 | 2023-03-05 | 737 | 146 | 
 | 2023-03-03 | 734 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 624 | 128 | 
 | 2023-02-07 | 620 | 127 | 
 | 2023-02-06 | 614 | 126 | 
-| 2023-02-05 | 613 | 126 | 
 

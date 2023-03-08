@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 317
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/devopsjourney1/jenkins-101)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 67 | 317 | 
+| 2023-03-07 | 68 | 317 | 
 | 2023-03-06 | 67 | 317 | 
 | 2023-03-05 | 63 | 308 | 
 | 2023-03-03 | 63 | 305 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-08 | 41 | 234 | 
 | 2023-02-07 | 41 | 230 | 
 | 2023-02-06 | 41 | 222 | 
-| 2023-02-05 | 41 | 220 | 
 

@@ -1,10 +1,10 @@
 # kubernetes/community - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 4921
+☋ Forks: 4923
 
-★ Stars: 10717
+★ Stars: 10726
 
 [Open repository](https://github.com/kubernetes/community)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 10726 | 4923 | 
+| 2023-03-07 | 10723 | 4924 | 
 | 2023-03-06 | 10717 | 4921 | 
 | 2023-03-05 | 10710 | 4919 | 
 | 2023-03-04 | 10707 | 4918 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 10613 | 4858 | 
 | 2023-02-07 | 10607 | 4854 | 
 | 2023-02-06 | 10603 | 4851 | 
-| 2023-02-05 | 10598 | 4848 | 
 

@@ -1,10 +1,10 @@
 # gentoo/gentoo - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1749
 
-★ Stars: 1792
+★ Stars: 1794
 
 [Open repository](https://github.com/gentoo/gentoo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1794 | 1749 | 
 | 2023-03-05 | 1792 | 1749 | 
 | 2023-03-04 | 1791 | 1748 | 
 | 2023-03-03 | 1792 | 1747 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 1791 | 1731 | 
 | 2023-02-08 | 1792 | 1730 | 
 | 2023-02-06 | 1790 | 1730 | 
-| 2023-02-05 | 1790 | 1728 | 
 

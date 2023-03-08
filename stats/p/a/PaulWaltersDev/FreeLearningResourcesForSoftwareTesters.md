@@ -1,10 +1,10 @@
 # PaulWaltersDev/FreeLearningResourcesForSoftwareTesters - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 133
 
-★ Stars: 519
+★ Stars: 520
 
 [Open repository](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 520 | 133 | 
 | 2023-03-06 | 519 | 133 | 
 | 2023-03-05 | 519 | 133 | 
 | 2023-03-04 | 518 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 503 | 130 | 
 | 2023-02-08 | 502 | 129 | 
 | 2023-02-06 | 501 | 129 | 
-| 2023-02-05 | 498 | 129 | 
 

@@ -1,10 +1,10 @@
 # publicsamples/Oi-Grandad - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/publicsamples/Oi-Grandad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 148 | 5 | 
 | 2023-03-05 | 147 | 5 | 
 | 2023-03-04 | 146 | 5 | 
 | 2023-03-03 | 146 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 137 | 5 | 
 | 2023-02-08 | 136 | 5 | 
 | 2023-02-07 | 136 | 5 | 
-| 2023-02-05 | 136 | 5 | 
 

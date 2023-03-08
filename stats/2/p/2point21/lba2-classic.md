@@ -1,10 +1,10 @@
 # 2point21/lba2-classic - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 38
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/2point21/lba2-classic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 471 | 38 | 
 | 2023-03-06 | 470 | 38 | 
 | 2023-03-05 | 470 | 38 | 
 | 2023-03-04 | 470 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 465 | 38 | 
 | 2023-02-07 | 465 | 38 | 
 | 2023-02-06 | 465 | 38 | 
-| 2023-02-05 | 465 | 38 | 
 

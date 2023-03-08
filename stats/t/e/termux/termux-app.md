@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 07
 
-☋ Forks: 2395
+☋ Forks: 2394
 
-★ Stars: 19822
+★ Stars: 19830
 
 [Open repository](https://github.com/termux/termux-app)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 19822 | 2395 | 
+| 2023-03-07 | 19830 | 2394 | 
 | 2023-03-06 | 19819 | 2394 | 
 | 2023-03-05 | 19804 | 2389 | 
 | 2023-03-03 | 19760 | 2380 | 

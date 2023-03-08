@@ -1,6 +1,6 @@
 # akaza-im/akaza - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 196 | 6 | 
 | 2023-03-06 | 196 | 6 | 
 | 2023-03-04 | 196 | 6 | 
 | 2023-03-03 | 197 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 190 | 6 | 
 | 2023-02-07 | 190 | 6 | 
 | 2023-02-06 | 190 | 6 | 
-| 2023-02-05 | 188 | 6 | 
 

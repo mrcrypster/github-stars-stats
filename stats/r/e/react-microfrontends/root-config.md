@@ -1,8 +1,8 @@
 # react-microfrontends/root-config - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 180 | 87 | 
 | 2023-03-06 | 180 | 86 | 
 | 2023-03-05 | 179 | 86 | 
 | 2023-03-04 | 179 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 178 | 87 | 
 | 2023-02-07 | 178 | 87 | 
 | 2023-02-06 | 178 | 87 | 
-| 2023-02-05 | 178 | 87 | 
 

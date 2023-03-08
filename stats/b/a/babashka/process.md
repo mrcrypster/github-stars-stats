@@ -1,6 +1,6 @@
 # babashka/process - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 159 | 30 | 
 | 2023-03-06 | 159 | 30 | 
 | 2023-03-05 | 159 | 30 | 
 | 2023-03-04 | 158 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 155 | 29 | 
 | 2023-02-07 | 154 | 29 | 
 | 2023-02-06 | 153 | 29 | 
-| 2023-02-05 | 153 | 29 | 
 

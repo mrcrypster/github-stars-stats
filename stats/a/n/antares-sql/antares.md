@@ -1,6 +1,6 @@
 # antares-sql/antares - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1008 | 72 | 
 | 2023-03-06 | 1008 | 72 | 
 | 2023-03-05 | 1007 | 71 | 
 | 2023-03-03 | 1008 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 977 | 69 | 
 | 2023-02-07 | 976 | 68 | 
 | 2023-02-06 | 974 | 68 | 
-| 2023-02-05 | 973 | 68 | 
 

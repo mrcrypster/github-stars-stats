@@ -1,6 +1,6 @@
 # opensourcepos/opensourcepos - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1944
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2800 | 1944 | 
 | 2023-03-06 | 2800 | 1944 | 
 | 2023-03-05 | 2799 | 1944 | 
 | 2023-03-03 | 2798 | 1943 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2759 | 1932 | 
 | 2023-02-07 | 2757 | 1931 | 
 | 2023-02-06 | 2758 | 1930 | 
-| 2023-02-05 | 2758 | 1930 | 
 

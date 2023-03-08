@@ -1,6 +1,6 @@
 # UVVM/UVVM - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 279 | 79 | 
 | 2023-03-06 | 279 | 79 | 
 | 2023-03-04 | 279 | 79 | 
 | 2023-03-03 | 279 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 277 | 78 | 
 | 2023-02-08 | 277 | 78 | 
 | 2023-02-07 | 277 | 78 | 
-| 2023-02-06 | 277 | 78 | 
 

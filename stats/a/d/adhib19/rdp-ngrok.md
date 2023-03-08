@@ -1,8 +1,8 @@
 # adhib19/rdp-ngrok - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 121
+☋ Forks: 123
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1 | 123 | 
 | 2023-03-06 | 1 | 121 | 
 | 2023-03-05 | 1 | 119 | 
 | 2023-03-04 | 1 | 115 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | - | 81 | 
 | 2023-02-08 | - | 77 | 
 | 2023-02-06 | - | 75 | 
-| 2023-02-05 | - | 73 | 
 

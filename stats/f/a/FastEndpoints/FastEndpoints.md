@@ -1,10 +1,10 @@
 # FastEndpoints/FastEndpoints - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 162
 
-★ Stars: 2616
+★ Stars: 2617
 
 [Open repository](https://github.com/FastEndpoints/FastEndpoints)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2617 | 162 | 
 | 2023-03-06 | 2616 | 162 | 
 | 2023-03-04 | 2613 | 162 | 
 | 2023-03-03 | 2611 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2533 | 153 | 
 | 2023-02-07 | 2528 | 153 | 
 | 2023-02-06 | 2526 | 153 | 
-| 2023-02-05 | 2526 | 152 | 
 

@@ -1,10 +1,10 @@
 # rohit89/base_os - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/rohit89/base_os)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1 | - | 
 | 2023-03-06 | - | - | 
 | 2023-03-05 | - | - | 
 | 2023-03-04 | - | - | 

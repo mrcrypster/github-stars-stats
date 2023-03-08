@@ -1,6 +1,6 @@
 # ludovic-tech/buildand-push-jenkins - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2 | 68 | 
 | 2023-03-06 | 2 | 68 | 
 | 2023-03-05 | 2 | 68 | 
 | 2023-03-03 | 2 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2 | 65 | 
 | 2023-02-07 | 2 | 65 | 
 | 2023-02-06 | 2 | 65 | 
-| 2023-02-05 | 2 | 65 | 
 

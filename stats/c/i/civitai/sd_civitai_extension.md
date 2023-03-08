@@ -1,10 +1,10 @@
 # civitai/sd_civitai_extension - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 106
+☋ Forks: 113
 
-★ Stars: 537
+★ Stars: 554
 
 [Open repository](https://github.com/civitai/sd_civitai_extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 554 | 113 | 
 | 2023-03-05 | 537 | 106 | 
 | 2023-03-04 | 509 | 103 | 
 | 2023-03-03 | 480 | 99 | 

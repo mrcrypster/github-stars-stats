@@ -1,10 +1,10 @@
 # RsaCtfTool/RsaCtfTool - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 784
+☋ Forks: 783
 
-★ Stars: 4193
+★ Stars: 4195
 
 [Open repository](https://github.com/RsaCtfTool/RsaCtfTool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4195 | 783 | 
 | 2023-03-05 | 4193 | 784 | 
 | 2023-03-04 | 4189 | 784 | 
 | 2023-03-03 | 4186 | 785 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 4137 | 775 | 
 | 2023-02-08 | 4135 | 776 | 
 | 2023-02-07 | 4135 | 775 | 
-| 2023-02-05 | 4133 | 775 | 
 

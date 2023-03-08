@@ -1,10 +1,10 @@
 # TsudaKageyu/minhook - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 745
+☋ Forks: 744
 
-★ Stars: 3189
+★ Stars: 3192
 
 [Open repository](https://github.com/TsudaKageyu/minhook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3192 | 744 | 
 | 2023-03-06 | 3189 | 745 | 
 | 2023-03-04 | 3185 | 744 | 
 | 2023-03-03 | 3181 | 743 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 3143 | 738 | 
 | 2023-02-08 | 3141 | 736 | 
 | 2023-02-07 | 3139 | 736 | 
-| 2023-02-06 | 3138 | 735 | 
 

@@ -1,8 +1,8 @@
 # vajrang-b/RPA-Developer-in-30-Days - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 261
+☋ Forks: 270
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 10 | 270 | 
 | 2023-03-06 | 10 | 261 | 
 | 2023-03-04 | 10 | 261 | 
 | 2023-03-03 | 10 | 261 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 10 | 255 | 
 | 2023-02-07 | 10 | 255 | 
 | 2023-02-06 | 10 | 255 | 
-| 2023-02-05 | 10 | 255 | 
 

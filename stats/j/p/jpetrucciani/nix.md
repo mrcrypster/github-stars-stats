@@ -1,6 +1,6 @@
 # jpetrucciani/nix - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 26 | 2 | 
 | 2023-03-06 | 26 | 2 | 
 | 2023-03-05 | 26 | 2 | 
 | 2023-03-03 | 26 | 2 | 

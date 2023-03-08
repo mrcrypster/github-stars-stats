@@ -1,10 +1,10 @@
 # lucasgiovanny/filament-multiselect-two-sides - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/lucasgiovanny/filament-multiselect-two-sides)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 37 | 2 | 
 | 2023-03-06 | 36 | 2 | 
 | 2023-03-04 | 36 | 2 | 
 | 2023-03-03 | 36 | 2 | 

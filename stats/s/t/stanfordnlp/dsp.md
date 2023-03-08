@@ -1,10 +1,10 @@
 # stanfordnlp/dsp - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 52
 
-★ Stars: 655
+★ Stars: 667
 
 [Open repository](https://github.com/stanfordnlp/dsp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 667 | 52 | 
 | 2023-03-06 | 655 | 52 | 
 | 2023-03-05 | 641 | 51 | 
 | 2023-03-04 | 635 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 249 | 26 | 
 | 2023-02-07 | 243 | 26 | 
 | 2023-02-06 | 241 | 25 | 
-| 2023-02-05 | 237 | 24 | 
 

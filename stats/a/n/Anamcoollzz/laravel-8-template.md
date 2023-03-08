@@ -1,6 +1,6 @@
 # Anamcoollzz/laravel-8-template - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 68 | 29 | 
 | 2023-03-05 | 68 | 29 | 
 | 2023-03-04 | 69 | 29 | 
 | 2023-03-02 | 67 | 28 | 

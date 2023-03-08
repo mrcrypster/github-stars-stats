@@ -1,10 +1,10 @@
 # SAP-samples/security-services-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/SAP-samples/security-services-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 17 | 3 | 
 | 2023-03-06 | 16 | 3 | 
 | 2023-03-05 | 16 | 3 | 
 | 2023-03-03 | 16 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 14 | 3 | 
 | 2023-02-07 | 14 | 3 | 
 | 2023-02-06 | 14 | 3 | 
-| 2023-02-05 | 14 | 3 | 
 

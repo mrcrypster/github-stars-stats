@@ -1,6 +1,6 @@
 # Battelle/REpsych - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 144 | 97 | 
 | 2023-03-06 | 144 | 97 | 
 | 2023-03-05 | 141 | 97 | 
 | 2023-03-03 | 140 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 137 | 97 | 
 | 2023-02-07 | 137 | 97 | 
 | 2023-02-06 | 136 | 97 | 
-| 2023-02-05 | 136 | 97 | 
 

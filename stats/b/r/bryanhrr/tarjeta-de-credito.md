@@ -1,6 +1,6 @@
 # bryanhrr/tarjeta-de-credito - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 17 | 7 | 
 | 2023-03-06 | 17 | 7 | 
 | 2023-03-05 | 17 | 7 | 
 | 2023-03-04 | 17 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 17 | 7 | 
 | 2023-02-07 | 17 | 7 | 
 | 2023-02-06 | 17 | 7 | 
-| 2023-02-05 | 17 | 7 | 
 

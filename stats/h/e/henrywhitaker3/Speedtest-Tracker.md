@@ -1,10 +1,10 @@
 # henrywhitaker3/Speedtest-Tracker - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 105
 
-★ Stars: 1121
+★ Stars: 1125
 
 [Open repository](https://github.com/henrywhitaker3/Speedtest-Tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1125 | 105 | 
 | 2023-03-06 | 1121 | 105 | 
 | 2023-03-05 | 1119 | 105 | 
 | 2023-03-03 | 1118 | 105 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1084 | 106 | 
 | 2023-02-07 | 1083 | 106 | 
 | 2023-02-06 | 1082 | 106 | 
-| 2023-02-05 | 1082 | 106 | 
 

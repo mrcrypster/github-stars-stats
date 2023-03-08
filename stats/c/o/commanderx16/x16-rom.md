@@ -1,6 +1,6 @@
 # commanderx16/x16-rom - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 140 | 46 | 
 | 2023-03-06 | 140 | 46 | 
 | 2023-03-05 | 138 | 46 | 
 | 2023-03-03 | 139 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 136 | 46 | 
 | 2023-02-07 | 136 | 46 | 
 | 2023-02-06 | 136 | 46 | 
-| 2023-02-05 | 135 | 46 | 
 

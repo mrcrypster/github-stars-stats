@@ -1,10 +1,10 @@
 # BerkeleyLab/inference-engine - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/BerkeleyLab/inference-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 8 | - | 
 | 2023-03-06 | 7 | - | 
 | 2023-03-05 | 7 | - | 
 | 2023-03-03 | 7 | - | 

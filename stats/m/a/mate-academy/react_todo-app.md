@@ -1,6 +1,6 @@
 # mate-academy/react_todo-app - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 520
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 6 | 520 | 
 | 2023-03-06 | 6 | 520 | 
 | 2023-03-04 | 6 | 519 | 
 | 2023-03-03 | 6 | 518 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 6 | 508 | 
 | 2023-02-08 | 6 | 509 | 
 | 2023-02-07 | 5 | 509 | 
-| 2023-02-06 | 5 | 507 | 
 

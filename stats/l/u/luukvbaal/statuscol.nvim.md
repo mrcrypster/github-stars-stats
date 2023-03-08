@@ -1,10 +1,10 @@
 # luukvbaal/statuscol.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/luukvbaal/statuscol.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 193 | 7 | 
 | 2023-03-06 | 192 | 7 | 
 | 2023-03-04 | 190 | 7 | 
 | 2023-03-03 | 192 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 173 | 7 | 
 | 2023-02-07 | 172 | 7 | 
 | 2023-02-06 | 171 | 7 | 
-| 2023-02-05 | 170 | 7 | 
 

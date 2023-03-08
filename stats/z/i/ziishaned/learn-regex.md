@@ -1,10 +1,10 @@
 # ziishaned/learn-regex - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 6213
+☋ Forks: 6210
 
-★ Stars: 43688
+★ Stars: 43699
 
 [Open repository](https://github.com/ziishaned/learn-regex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 43699 | 6210 | 
 | 2023-03-06 | 43688 | 6213 | 
 | 2023-03-04 | 43676 | 6214 | 
 | 2023-03-03 | 43674 | 6213 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 43514 | 6209 | 
 | 2023-02-07 | 43509 | 6209 | 
 | 2023-02-06 | 43498 | 6210 | 
-| 2023-02-05 | 43493 | 6209 | 
 

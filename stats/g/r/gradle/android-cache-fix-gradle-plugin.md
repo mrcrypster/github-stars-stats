@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 47
 
-★ Stars: 380
+★ Stars: 379
 
 [Open repository](https://github.com/gradle/android-cache-fix-gradle-plugin)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 380 | 47 | 
+| 2023-03-07 | 379 | 47 | 
 | 2023-03-06 | 380 | 47 | 
 | 2023-03-05 | 380 | 47 | 
 | 2023-03-04 | 380 | 47 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 372 | 44 | 
 | 2023-02-08 | 372 | 44 | 
 | 2023-02-07 | 371 | 44 | 
-| 2023-02-06 | 370 | 44 | 
 

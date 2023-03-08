@@ -1,6 +1,6 @@
 # NITR098/Awesome-U-Net - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 113 | 15 | 
 | 2023-03-06 | 113 | 15 | 
 | 2023-03-05 | 113 | 15 | 
 | 2023-03-04 | 111 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 106 | 12 | 
 | 2023-02-07 | 106 | 12 | 
 | 2023-02-06 | 106 | 12 | 
-| 2023-02-05 | 106 | 12 | 
 

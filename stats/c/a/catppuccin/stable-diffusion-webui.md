@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/catppuccin/stable-diffusion-webui)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 69 | 4 | 
+| 2023-03-07 | 70 | 4 | 
 | 2023-03-06 | 69 | 4 | 
 | 2023-03-05 | 67 | 5 | 
 

@@ -1,10 +1,10 @@
 # kubevela/kubevela - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 705
 
-★ Stars: 4872
+★ Stars: 4882
 
 [Open repository](https://github.com/kubevela/kubevela)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4882 | 705 | 
 | 2023-03-06 | 4872 | 705 | 
 | 2023-03-05 | 4865 | 704 | 
 | 2023-03-04 | 4858 | 705 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 4700 | 679 | 
 | 2023-02-07 | 4696 | 679 | 
 | 2023-02-06 | 4695 | 678 | 
-| 2023-02-05 | 4690 | 676 | 
 

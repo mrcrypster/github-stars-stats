@@ -1,10 +1,10 @@
 # liutristan/shuttlegames - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 33
+☋ Forks: 41
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/liutristan/shuttlegames)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 22 | 41 | 
 | 2023-03-06 | 21 | 33 | 
 | 2023-03-05 | 18 | 28 | 
 | 2023-03-04 | 17 | 26 | 

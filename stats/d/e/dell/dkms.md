@@ -1,6 +1,6 @@
 # dell/dkms - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 507 | 130 | 
 | 2023-03-06 | 507 | 130 | 
 | 2023-03-04 | 507 | 130 | 
 | 2023-03-03 | 506 | 130 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 501 | 130 | 
 | 2023-02-08 | 501 | 130 | 
 | 2023-02-07 | 501 | 130 | 
-| 2023-02-06 | 501 | 130 | 
 

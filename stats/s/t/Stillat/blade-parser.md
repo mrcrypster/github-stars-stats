@@ -1,10 +1,10 @@
 # Stillat/blade-parser - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/Stillat/blade-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 80 | 1 | 
 | 2023-03-06 | 79 | 1 | 
 | 2023-03-04 | 78 | 1 | 
 | 2023-03-03 | 78 | 1 | 

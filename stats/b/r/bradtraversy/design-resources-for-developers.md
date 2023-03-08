@@ -1,10 +1,10 @@
 # bradtraversy/design-resources-for-developers - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 10105
+☋ Forks: 10114
 
-★ Stars: 48557
+★ Stars: 48609
 
 [Open repository](https://github.com/bradtraversy/design-resources-for-developers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 48609 | 10114 | 
 | 2023-03-06 | 48557 | 10105 | 
 | 2023-03-05 | 48525 | 10093 | 
 | 2023-03-04 | 48507 | 10093 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 47648 | 9981 | 
 | 2023-02-07 | 47622 | 9983 | 
 | 2023-02-06 | 47587 | 9976 | 
-| 2023-02-05 | 47565 | 9968 | 
 

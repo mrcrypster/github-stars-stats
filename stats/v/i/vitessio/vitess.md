@@ -1,10 +1,10 @@
 # vitessio/vitess - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1904
+☋ Forks: 1905
 
-★ Stars: 15694
+★ Stars: 15702
 
 [Open repository](https://github.com/vitessio/vitess)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 15702 | 1905 | 
 | 2023-03-06 | 15694 | 1904 | 
 | 2023-03-05 | 15687 | 1904 | 
 | 2023-03-04 | 15679 | 1904 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 15513 | 1897 | 
 | 2023-02-07 | 15500 | 1897 | 
 | 2023-02-06 | 15489 | 1897 | 
-| 2023-02-05 | 15463 | 1894 | 
 

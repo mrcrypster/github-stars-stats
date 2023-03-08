@@ -1,10 +1,10 @@
 # ethereum/solidity - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 4850
+☋ Forks: 4855
 
-★ Stars: 19620
+★ Stars: 19632
 
 [Open repository](https://github.com/ethereum/solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 19632 | 4855 | 
 | 2023-03-06 | 19620 | 4850 | 
 | 2023-03-04 | 19603 | 4844 | 
 | 2023-03-03 | 19600 | 4835 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 19408 | 4679 | 
 | 2023-02-07 | 19404 | 4671 | 
 | 2023-02-06 | 19390 | 4666 | 
-| 2023-02-05 | 19383 | 4664 | 
 

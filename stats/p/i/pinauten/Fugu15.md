@@ -1,10 +1,10 @@
 # pinauten/Fugu15 - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 115
+☋ Forks: 116
 
-★ Stars: 913
+★ Stars: 914
 
 [Open repository](https://github.com/pinauten/Fugu15)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 914 | 116 | 
 | 2023-03-05 | 913 | 115 | 
 | 2023-03-04 | 912 | 114 | 
 | 2023-03-03 | 914 | 114 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 886 | 98 | 
 | 2023-02-08 | 886 | 97 | 
 | 2023-02-06 | 886 | 97 | 
-| 2023-02-05 | 884 | 96 | 
 

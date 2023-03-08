@@ -1,10 +1,10 @@
 # gokberkbar/firebase_analtics - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 4
 
 [Open repository](https://github.com/gokberkbar/firebase_analtics)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4 | - | 
 | 2023-03-06 | 22 | - | 
 | 2023-03-05 | 22 | - | 
 | 2023-03-04 | 22 | - | 

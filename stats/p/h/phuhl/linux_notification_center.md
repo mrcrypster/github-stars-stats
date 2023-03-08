@@ -1,0 +1,18 @@
+# phuhl/linux_notification_center - stars & forks statistics
+
+Stats updated on Mar 2023, 08
+
+☋ Forks: 33
+
+★ Stars: 848
+
+[Open repository](https://github.com/phuhl/linux_notification_center)
+
+[Open detailed stats for phuhl/linux_notification_center](https://reviewgithub.com/rep/phuhl/linux_notification_center)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-08 | 848 | 33 | 
+| 2023-03-07 | 848 | 33 | 
+

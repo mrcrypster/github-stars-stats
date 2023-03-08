@@ -1,10 +1,10 @@
 # bendgk/effekt - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 80
+★ Stars: 86
 
 [Open repository](https://github.com/bendgk/effekt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 86 | 2 | 
 | 2023-03-06 | 80 | 2 | 
 | 2023-03-04 | 80 | 2 | 
 | 2023-03-03 | 78 | 2 | 

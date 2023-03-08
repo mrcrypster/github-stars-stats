@@ -1,6 +1,6 @@
 # Duan-JM/awesome-papers-fewshot - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 857 | 135 | 
 | 2023-03-05 | 857 | 135 | 
 | 2023-03-04 | 857 | 135 | 
 | 2023-03-02 | 856 | 135 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 848 | 132 | 
 | 2023-02-07 | 848 | 132 | 
 | 2023-02-06 | 848 | 132 | 
-| 2023-02-05 | 848 | 132 | 
 

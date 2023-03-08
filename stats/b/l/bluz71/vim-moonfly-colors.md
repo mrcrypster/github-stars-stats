@@ -1,10 +1,10 @@
 # bluz71/vim-moonfly-colors - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 45
 
-★ Stars: 557
+★ Stars: 559
 
 [Open repository](https://github.com/bluz71/vim-moonfly-colors)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 559 | 45 | 
 | 2023-03-06 | 557 | 45 | 
 | 2023-03-04 | 556 | 45 | 
 | 2023-03-03 | 556 | 46 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 546 | 43 | 
 | 2023-02-08 | 545 | 43 | 
 | 2023-02-06 | 543 | 43 | 
-| 2023-02-05 | 541 | 43 | 
 

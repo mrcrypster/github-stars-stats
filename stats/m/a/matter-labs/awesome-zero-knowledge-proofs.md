@@ -1,10 +1,10 @@
 # matter-labs/awesome-zero-knowledge-proofs - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 509
+☋ Forks: 512
 
-★ Stars: 3603
+★ Stars: 3613
 
 [Open repository](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3613 | 512 | 
 | 2023-03-05 | 3603 | 509 | 
 | 2023-03-04 | 3601 | 510 | 
 | 2023-03-03 | 3592 | 509 | 

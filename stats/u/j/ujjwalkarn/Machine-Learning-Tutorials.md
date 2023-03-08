@@ -1,10 +1,10 @@
 # ujjwalkarn/Machine-Learning-Tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 3622
+☋ Forks: 3621
 
-★ Stars: 13235
+★ Stars: 13242
 
 [Open repository](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 13242 | 3621 | 
 | 2023-03-06 | 13235 | 3622 | 
 | 2023-03-05 | 13231 | 3622 | 
 | 2023-03-03 | 13221 | 3618 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 13111 | 3609 | 
 | 2023-02-07 | 13100 | 3608 | 
 | 2023-02-06 | 13088 | 3608 | 
-| 2023-02-05 | 13067 | 3605 | 
 

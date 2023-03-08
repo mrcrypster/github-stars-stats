@@ -1,6 +1,6 @@
 # presentator/presentator - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 784 | 83 | 
 | 2023-03-06 | 784 | 83 | 
 | 2023-03-05 | 784 | 82 | 
 | 2023-03-03 | 784 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 773 | 83 | 
 | 2023-02-07 | 772 | 83 | 
 | 2023-02-06 | 772 | 83 | 
-| 2023-02-05 | 770 | 83 | 
 

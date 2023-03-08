@@ -1,10 +1,10 @@
 # vxunderground/VX-API - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 839
+★ Stars: 842
 
 [Open repository](https://github.com/vxunderground/VX-API)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 842 | 146 | 
 | 2023-03-06 | 839 | 145 | 
 | 2023-03-05 | 835 | 145 | 
 | 2023-03-04 | 827 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 790 | 139 | 
 | 2023-02-07 | 789 | 139 | 
 | 2023-02-06 | 788 | 139 | 
-| 2023-02-05 | 787 | 139 | 
 

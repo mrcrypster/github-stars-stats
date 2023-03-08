@@ -1,6 +1,6 @@
 # KuanHsiaoKuo/apple_power_user - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 28 | 3 | 
 | 2023-03-06 | 28 | 3 | 
 | 2023-03-04 | 28 | 3 | 
 | 2023-03-03 | 28 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 29 | 3 | 
 | 2023-02-07 | 29 | 3 | 
 | 2023-02-06 | 29 | 3 | 
-| 2023-02-05 | 29 | 3 | 
 

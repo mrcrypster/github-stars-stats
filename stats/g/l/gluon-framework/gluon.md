@@ -1,10 +1,10 @@
 # gluon-framework/gluon - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 58
 
-★ Stars: 2650
+★ Stars: 2651
 
 [Open repository](https://github.com/gluon-framework/gluon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2651 | 58 | 
 | 2023-03-06 | 2650 | 58 | 
 | 2023-03-04 | 2643 | 58 | 
 | 2023-03-03 | 2640 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 2518 | 53 | 
 | 2023-02-08 | 2503 | 53 | 
 | 2023-02-07 | 2494 | 54 | 
-| 2023-02-06 | 2484 | 53 | 
 

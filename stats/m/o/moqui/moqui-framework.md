@@ -1,10 +1,10 @@
 # moqui/moqui-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 188
 
-★ Stars: 248
+★ Stars: 247
 
 [Open repository](https://github.com/moqui/moqui-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 247 | 188 | 
 | 2023-03-06 | 248 | 188 | 
 | 2023-03-04 | 247 | 188 | 
 | 2023-03-03 | 247 | 188 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 244 | 187 | 
 | 2023-02-07 | 244 | 187 | 
 | 2023-02-06 | 244 | 187 | 
-| 2023-02-05 | 243 | 187 | 
 

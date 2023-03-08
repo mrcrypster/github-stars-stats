@@ -1,10 +1,10 @@
 # skeeto/w64devkit - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 952
+★ Stars: 955
 
 [Open repository](https://github.com/skeeto/w64devkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 955 | 70 | 
 | 2023-03-06 | 952 | 69 | 
 | 2023-03-05 | 948 | 69 | 
 | 2023-03-04 | 943 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 885 | 61 | 
 | 2023-02-08 | 884 | 61 | 
 | 2023-02-06 | 882 | 61 | 
-| 2023-02-05 | 881 | 60 | 
 

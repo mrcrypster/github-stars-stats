@@ -1,10 +1,10 @@
 # Hacking-the-Cloud/hackingthe.cloud - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 145
 
-★ Stars: 1069
+★ Stars: 1072
 
 [Open repository](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1072 | 145 | 
 | 2023-03-06 | 1069 | 145 | 
 | 2023-03-05 | 1069 | 145 | 
 | 2023-03-03 | 1069 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 991 | 144 | 
 | 2023-02-08 | 991 | 144 | 
 | 2023-02-06 | 988 | 144 | 
-| 2023-02-05 | 986 | 144 | 
 

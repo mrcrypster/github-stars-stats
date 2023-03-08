@@ -1,10 +1,10 @@
 # didi/DoraemonKit - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2991
 
-★ Stars: 19327
+★ Stars: 19331
 
 [Open repository](https://github.com/didi/DoraemonKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 19331 | 2991 | 
 | 2023-03-05 | 19327 | 2991 | 
 | 2023-03-04 | 19325 | 2991 | 
 | 2023-03-03 | 19321 | 2991 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 19275 | 2973 | 
 | 2023-02-08 | 19274 | 2972 | 
 | 2023-02-07 | 19265 | 2969 | 
-| 2023-02-05 | 19258 | 2966 | 
 

@@ -1,10 +1,10 @@
 # phaazon/hop.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 1996
+★ Stars: 2003
 
 [Open repository](https://github.com/phaazon/hop.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2003 | 91 | 
 | 2023-03-06 | 1996 | 90 | 
 | 2023-03-05 | 1995 | 90 | 
 | 2023-03-04 | 1991 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1946 | 87 | 
 | 2023-02-07 | 1942 | 87 | 
 | 2023-02-06 | 1940 | 87 | 
-| 2023-02-05 | 1938 | 86 | 
 

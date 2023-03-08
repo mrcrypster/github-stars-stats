@@ -1,6 +1,6 @@
 # bmatzelle/gow - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 6420 | 365 | 
 | 2023-03-05 | 6420 | 365 | 
 | 2023-03-04 | 6420 | 365 | 
 | 2023-03-03 | 6420 | 365 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 6409 | 361 | 
 | 2023-02-08 | 6408 | 361 | 
 | 2023-02-07 | 6408 | 361 | 
-| 2023-02-06 | 6407 | 361 | 
 

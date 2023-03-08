@@ -1,10 +1,10 @@
 # ritajie/incomplete-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 19
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/ritajie/incomplete-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 215 | 19 | 
 | 2023-03-06 | 214 | 19 | 
 | 2023-03-04 | 214 | 19 | 
 | 2023-03-03 | 214 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 211 | 18 | 
 | 2023-02-07 | 211 | 18 | 
 | 2023-02-06 | 211 | 18 | 
-| 2023-02-05 | 211 | 18 | 
 

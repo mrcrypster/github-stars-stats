@@ -1,10 +1,10 @@
 # liu673cn/biubiu - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 123
 
-★ Stars: 832
+★ Stars: 833
 
 [Open repository](https://github.com/liu673cn/biubiu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 833 | 123 | 
 | 2023-03-06 | 832 | 123 | 
 | 2023-03-05 | 831 | 123 | 
 | 2023-03-04 | 830 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 826 | 126 | 
 | 2023-02-07 | 826 | 126 | 
 | 2023-02-06 | 826 | 126 | 
-| 2023-02-05 | 827 | 125 | 
 

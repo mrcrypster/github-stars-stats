@@ -1,10 +1,10 @@
 # f4pga/prjuray - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/f4pga/prjuray)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 48 | 12 | 
 | 2023-03-06 | 47 | 12 | 
 | 2023-03-05 | 47 | 12 | 
 | 2023-03-04 | 47 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 47 | 12 | 
 | 2023-02-08 | 47 | 12 | 
 | 2023-02-06 | 47 | 12 | 
-| 2023-02-05 | 47 | 12 | 
 

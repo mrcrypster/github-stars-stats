@@ -1,10 +1,10 @@
 # Vartika511/CCC_Phase3 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 29
+☋ Forks: 33
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Vartika511/CCC_Phase3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 7 | 33 | 
 | 2023-03-06 | 6 | 29 | 
 | 2023-03-05 | 3 | 20 | 
 | 2023-03-04 | 3 | 21 | 

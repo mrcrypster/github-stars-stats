@@ -1,6 +1,6 @@
 # vmware-archive/octant - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 455
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 6244 | 455 | 
 | 2023-03-06 | 6244 | 455 | 
 | 2023-03-05 | 6246 | 454 | 
 | 2023-03-03 | 6246 | 453 | 

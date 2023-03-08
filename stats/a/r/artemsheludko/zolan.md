@@ -1,8 +1,8 @@
 # artemsheludko/zolan - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 236
+☋ Forks: 237
 
 ★ Stars: 178
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 178 | 237 | 
 | 2023-03-05 | 178 | 236 | 
 | 2023-03-04 | 177 | 236 | 
 | 2023-03-03 | 177 | 236 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 175 | 235 | 
 | 2023-02-07 | 175 | 235 | 
 | 2023-02-06 | 175 | 234 | 
-| 2023-02-05 | 175 | 234 | 
 

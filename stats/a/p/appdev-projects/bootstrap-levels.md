@@ -1,8 +1,8 @@
 # appdev-projects/bootstrap-levels - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 114
+☋ Forks: 118
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | - | 118 | 
 | 2023-03-06 | - | 114 | 
 | 2023-03-05 | - | 112 | 
 | 2023-03-03 | - | 107 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | - | 90 | 
 | 2023-02-07 | - | 90 | 
 | 2023-02-06 | - | 90 | 
-| 2023-02-05 | - | 90 | 
 

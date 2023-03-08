@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 07
 
-☋ Forks: 2
+☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 53
 
 [Open repository](https://github.com/deskbtm/nitmgpt)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 32 | 2 | 
+| 2023-03-07 | 53 | 5 | 
 | 2023-03-06 | 31 | 2 | 
 

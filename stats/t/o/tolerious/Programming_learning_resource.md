@@ -1,6 +1,6 @@
 # tolerious/Programming_learning_resource - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 444
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1382 | 444 | 
 | 2023-03-06 | 1382 | 444 | 
 | 2023-03-04 | 1382 | 445 | 
 | 2023-03-03 | 1381 | 445 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1361 | 443 | 
 | 2023-02-07 | 1359 | 443 | 
 | 2023-02-06 | 1355 | 443 | 
-| 2023-02-05 | 1355 | 443 | 
 

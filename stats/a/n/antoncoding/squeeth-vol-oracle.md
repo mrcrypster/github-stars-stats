@@ -1,6 +1,6 @@
 # antoncoding/squeeth-vol-oracle - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 25 | - | 
 | 2023-03-05 | 25 | - | 
 | 2023-03-04 | 25 | - | 
 | 2023-03-02 | 25 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 24 | - | 
 | 2023-02-08 | 24 | - | 
 | 2023-02-06 | 24 | - | 
-| 2023-02-05 | 24 | - | 
 

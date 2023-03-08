@@ -1,6 +1,6 @@
 # jokergoo/ComplexHeatmap - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1006 | 191 | 
 | 2023-03-06 | 1006 | 191 | 
 | 2023-03-05 | 1005 | 191 | 
 | 2023-03-04 | 1005 | 191 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 986 | 190 | 
 | 2023-02-07 | 985 | 190 | 
 | 2023-02-06 | 983 | 190 | 
-| 2023-02-05 | 982 | 190 | 
 

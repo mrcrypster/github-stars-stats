@@ -1,10 +1,10 @@
 # jonaslejon/malicious-pdf - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 294
 
-★ Stars: 2079
+★ Stars: 2081
 
 [Open repository](https://github.com/jonaslejon/malicious-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2081 | 294 | 
 | 2023-03-06 | 2079 | 294 | 
 | 2023-03-05 | 2080 | 294 | 
 | 2023-03-03 | 2079 | 295 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2033 | 290 | 
 | 2023-02-07 | 2028 | 286 | 
 | 2023-02-06 | 2025 | 284 | 
-| 2023-02-05 | 2019 | 282 | 
 

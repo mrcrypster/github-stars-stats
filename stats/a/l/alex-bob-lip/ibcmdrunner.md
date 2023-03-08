@@ -1,8 +1,8 @@
 # alex-bob-lip/ibcmdrunner - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 30 | 9 | 
 | 2023-03-06 | 30 | 8 | 
 | 2023-03-05 | 30 | 8 | 
 | 2023-03-03 | 30 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 26 | 8 | 
 | 2023-02-07 | 26 | 8 | 
 | 2023-02-06 | 26 | 8 | 
-| 2023-02-05 | 26 | 8 | 
 

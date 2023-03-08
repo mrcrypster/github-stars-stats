@@ -1,10 +1,10 @@
 # sheabunge/code-snippets - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 116
 
-★ Stars: 308
+★ Stars: 307
 
 [Open repository](https://github.com/sheabunge/code-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 307 | 116 | 
 | 2023-03-06 | 308 | 116 | 
 | 2023-03-04 | 308 | 116 | 
 | 2023-03-03 | 309 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 308 | 115 | 
 | 2023-02-08 | 308 | 115 | 
 | 2023-02-07 | 308 | 115 | 
-| 2023-02-05 | 308 | 115 | 
 

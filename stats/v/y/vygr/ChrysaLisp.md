@@ -1,6 +1,6 @@
 # vygr/ChrysaLisp - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1446 | 90 | 
 | 2023-03-06 | 1446 | 90 | 
 | 2023-03-05 | 1446 | 90 | 
 | 2023-03-03 | 1446 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1441 | 88 | 
 | 2023-02-07 | 1441 | 88 | 
 | 2023-02-06 | 1442 | 88 | 
-| 2023-02-05 | 1442 | 88 | 
 

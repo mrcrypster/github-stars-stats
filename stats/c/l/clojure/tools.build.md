@@ -1,10 +1,10 @@
 # clojure/tools.build - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 20
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/clojure/tools.build)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 163 | 20 | 
 | 2023-03-06 | 162 | 20 | 
 | 2023-03-05 | 163 | 20 | 
 | 2023-03-04 | 163 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 159 | 20 | 
 | 2023-02-07 | 158 | 20 | 
 | 2023-02-06 | 157 | 20 | 
-| 2023-02-05 | 157 | 20 | 
 

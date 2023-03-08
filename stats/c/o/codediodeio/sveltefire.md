@@ -1,6 +1,6 @@
 # codediodeio/sveltefire - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 906 | 63 | 
 | 2023-03-06 | 906 | 63 | 
 | 2023-03-05 | 905 | 63 | 
 | 2023-03-04 | 905 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 874 | 60 | 
 | 2023-02-07 | 873 | 60 | 
 | 2023-02-06 | 872 | 60 | 
-| 2023-02-05 | 870 | 60 | 
 

@@ -1,6 +1,6 @@
 # codegouvfr/react-dsfr - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 313 | 18 | 
 | 2023-03-06 | 313 | 18 | 
 | 2023-03-04 | 314 | 18 | 
 | 2023-03-03 | 314 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 295 | 15 | 
 | 2023-02-07 | 296 | 15 | 
 | 2023-02-06 | 297 | 14 | 
-| 2023-02-05 | 296 | 14 | 
 

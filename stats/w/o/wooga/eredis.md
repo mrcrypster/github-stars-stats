@@ -1,6 +1,6 @@
 # wooga/eredis - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 274
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 619 | 274 | 
 | 2023-03-06 | 619 | 274 | 
 | 2023-03-04 | 619 | 274 | 
 | 2023-03-03 | 619 | 273 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 616 | 274 | 
 | 2023-02-08 | 616 | 274 | 
 | 2023-02-06 | 616 | 274 | 
-| 2023-02-05 | 616 | 274 | 
 

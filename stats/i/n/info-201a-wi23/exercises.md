@@ -1,6 +1,6 @@
 # info-201a-wi23/exercises - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | - | 6 | 
 | 2023-03-06 | - | 6 | 
 | 2023-03-05 | - | 6 | 
 | 2023-03-03 | - | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | - | 6 | 
 | 2023-02-08 | - | 6 | 
 | 2023-02-07 | - | 6 | 
-| 2023-02-05 | - | 6 | 
 

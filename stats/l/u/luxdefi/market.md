@@ -1,10 +1,10 @@
 # luxdefi/market - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 162
 
-★ Stars: 13
+★ Stars: 11
 
 [Open repository](https://github.com/luxdefi/market)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 11 | 162 | 
 | 2023-03-06 | 13 | 162 | 
 | 2023-03-04 | 13 | 162 | 
 | 2023-03-03 | 13 | 162 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 17 | 162 | 
 | 2023-02-07 | 17 | 162 | 
 | 2023-02-06 | 17 | 162 | 
-| 2023-02-05 | 17 | 162 | 
 

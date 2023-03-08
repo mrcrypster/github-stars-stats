@@ -1,10 +1,10 @@
 # OnionUI/Onion - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 32
 
-★ Stars: 848
+★ Stars: 853
 
 [Open repository](https://github.com/OnionUI/Onion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 853 | 32 | 
 | 2023-03-05 | 848 | 32 | 
 | 2023-03-04 | 843 | 32 | 
 | 2023-03-03 | 838 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 792 | 28 | 
 | 2023-02-07 | 791 | 28 | 
 | 2023-02-06 | 790 | 28 | 
-| 2023-02-05 | 790 | 28 | 
 

@@ -1,10 +1,10 @@
 # jessarcher/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 472
+★ Stars: 474
 
 [Open repository](https://github.com/jessarcher/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 474 | 70 | 
 | 2023-03-05 | 472 | 69 | 
 | 2023-03-04 | 472 | 69 | 
 | 2023-03-03 | 472 | 69 | 

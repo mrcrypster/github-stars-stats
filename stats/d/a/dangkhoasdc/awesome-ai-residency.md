@@ -1,10 +1,10 @@
 # dangkhoasdc/awesome-ai-residency - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 235
 
-★ Stars: 2329
+★ Stars: 2331
 
 [Open repository](https://github.com/dangkhoasdc/awesome-ai-residency)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2331 | 235 | 
 | 2023-03-06 | 2329 | 235 | 
 | 2023-03-05 | 2329 | 235 | 
 | 2023-03-03 | 2328 | 235 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2295 | 234 | 
 | 2023-02-07 | 2292 | 234 | 
 | 2023-02-06 | 2287 | 233 | 
-| 2023-02-05 | 2285 | 233 | 
 

@@ -1,8 +1,8 @@
 # lgallard/terraform-aws-backup - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 51
+☋ Forks: 52
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 109 | 52 | 
 | 2023-03-06 | 109 | 51 | 
 | 2023-03-05 | 109 | 51 | 
 | 2023-03-03 | 109 | 51 | 

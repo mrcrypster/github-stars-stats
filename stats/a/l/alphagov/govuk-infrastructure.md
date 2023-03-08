@@ -1,10 +1,10 @@
 # alphagov/govuk-infrastructure - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 18
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/alphagov/govuk-infrastructure)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 90 | 18 | 
 | 2023-03-06 | 89 | 18 | 
 | 2023-03-04 | 89 | 18 | 
 | 2023-03-03 | 88 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 87 | 18 | 
 | 2023-02-07 | 87 | 17 | 
 | 2023-02-06 | 87 | 17 | 
-| 2023-02-05 | 87 | 17 | 
 

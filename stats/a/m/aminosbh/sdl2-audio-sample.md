@@ -1,10 +1,10 @@
 # aminosbh/sdl2-audio-sample - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/aminosbh/sdl2-audio-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 32 | 1 | 
 | 2023-03-05 | 31 | 1 | 
 | 2023-03-04 | 31 | 1 | 
 | 2023-03-03 | 31 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 31 | - | 
 | 2023-02-07 | 31 | - | 
 | 2023-02-06 | 30 | - | 
-| 2023-02-05 | 30 | - | 
 

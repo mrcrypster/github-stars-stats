@@ -1,10 +1,10 @@
 # planetscale/connection-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/planetscale/connection-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 41 | 3 | 
 | 2023-03-06 | 42 | 3 | 
 | 2023-03-04 | 42 | 3 | 
 | 2023-03-03 | 42 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 40 | 3 | 
 | 2023-02-08 | 40 | 3 | 
 | 2023-02-07 | 40 | 3 | 
-| 2023-02-05 | 40 | 3 | 
 

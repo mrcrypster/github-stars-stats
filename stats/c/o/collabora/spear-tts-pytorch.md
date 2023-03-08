@@ -1,10 +1,10 @@
 # collabora/spear-tts-pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 25
+★ Stars: 29
 
 [Open repository](https://github.com/collabora/spear-tts-pytorch)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 29 | 8 | 
 | 2023-03-06 | 25 | 7 | 
 

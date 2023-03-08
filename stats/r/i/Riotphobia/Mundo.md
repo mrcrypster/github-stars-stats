@@ -1,10 +1,10 @@
 # Riotphobia/Mundo - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/Riotphobia/Mundo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 25 | 7 | 
 | 2023-03-06 | 24 | 7 | 
 | 2023-03-05 | 23 | 7 | 
 | 2023-03-04 | 23 | 7 | 

@@ -1,10 +1,10 @@
 # joke2k/faker - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1729
 
-★ Stars: 15472
+★ Stars: 15477
 
 [Open repository](https://github.com/joke2k/faker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 15477 | 1729 | 
 | 2023-03-06 | 15472 | 1729 | 
 | 2023-03-04 | 15469 | 1728 | 
 | 2023-03-03 | 15465 | 1728 | 

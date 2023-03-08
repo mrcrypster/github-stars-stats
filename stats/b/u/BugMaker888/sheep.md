@@ -1,6 +1,6 @@
 # BugMaker888/sheep - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 86 | 36 | 
 | 2023-03-06 | 86 | 36 | 
 | 2023-03-05 | 86 | 36 | 
 | 2023-03-03 | 85 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 83 | 35 | 
 | 2023-02-07 | 83 | 35 | 
 | 2023-02-06 | 82 | 35 | 
-| 2023-02-05 | 82 | 35 | 
 

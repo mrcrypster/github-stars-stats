@@ -1,8 +1,8 @@
 # nextcloud/docker - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 1671
+☋ Forks: 1674
 
 ★ Stars: 4545
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4545 | 1674 | 
 | 2023-03-06 | 4545 | 1671 | 
 | 2023-03-05 | 4544 | 1671 | 
 | 2023-03-04 | 4544 | 1672 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 4475 | 1656 | 
 | 2023-02-07 | 4472 | 1655 | 
 | 2023-02-06 | 4472 | 1655 | 
-| 2023-02-05 | 4470 | 1654 | 
 

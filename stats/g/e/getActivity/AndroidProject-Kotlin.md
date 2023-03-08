@@ -1,10 +1,10 @@
 # getActivity/AndroidProject-Kotlin - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 144
 
-★ Stars: 815
+★ Stars: 816
 
 [Open repository](https://github.com/getActivity/AndroidProject-Kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 816 | 144 | 
 | 2023-03-06 | 815 | 144 | 
 | 2023-03-04 | 815 | 144 | 
 | 2023-03-03 | 814 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 785 | 138 | 
 | 2023-02-07 | 785 | 138 | 
 | 2023-02-06 | 785 | 137 | 
-| 2023-02-05 | 784 | 137 | 
 

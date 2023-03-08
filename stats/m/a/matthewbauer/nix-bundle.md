@@ -1,6 +1,6 @@
 # matthewbauer/nix-bundle - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 484 | 40 | 
 | 2023-03-06 | 484 | 40 | 
 | 2023-03-04 | 484 | 40 | 
 | 2023-03-03 | 484 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 478 | 39 | 
 | 2023-02-08 | 478 | 39 | 
 | 2023-02-07 | 477 | 39 | 
-| 2023-02-05 | 477 | 39 | 
 

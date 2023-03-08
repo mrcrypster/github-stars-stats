@@ -1,6 +1,6 @@
 # edkolev/evil-goggles - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 199 | 13 | 
 | 2023-03-06 | 199 | 13 | 
 | 2023-03-04 | 199 | 13 | 
 | 2023-03-03 | 199 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 197 | 12 | 
 | 2023-02-07 | 197 | 12 | 
 | 2023-02-06 | 197 | 12 | 
-| 2023-02-05 | 197 | 12 | 
 

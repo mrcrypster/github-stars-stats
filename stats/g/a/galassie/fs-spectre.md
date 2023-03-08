@@ -1,10 +1,10 @@
 # galassie/fs-spectre - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/galassie/fs-spectre)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 47 | 1 | 
 | 2023-03-06 | 46 | 1 | 
 | 2023-03-05 | 46 | 1 | 
 | 2023-03-03 | 46 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 40 | 1 | 
 | 2023-02-07 | 37 | 1 | 
 | 2023-02-06 | 33 | 1 | 
-| 2023-02-05 | 29 | 1 | 
 

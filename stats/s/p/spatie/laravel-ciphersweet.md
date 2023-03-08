@@ -1,6 +1,6 @@
 # spatie/laravel-ciphersweet - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 257 | 13 | 
 | 2023-03-05 | 257 | 13 | 
 | 2023-03-04 | 256 | 13 | 
 | 2023-03-03 | 256 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 253 | 12 | 
 | 2023-02-07 | 253 | 12 | 
 | 2023-02-06 | 253 | 12 | 
-| 2023-02-05 | 253 | 12 | 
 

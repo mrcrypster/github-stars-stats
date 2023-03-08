@@ -1,10 +1,10 @@
 # RJCodeAdvance/Data-Dashboard-CSharp-SQL-WinForms - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 16
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/RJCodeAdvance/Data-Dashboard-CSharp-SQL-WinForms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 27 | 16 | 
 | 2023-03-05 | 26 | 16 | 
 | 2023-03-04 | 26 | 16 | 
 | 2023-03-03 | 26 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 25 | 16 | 
 | 2023-02-07 | 25 | 16 | 
 | 2023-02-06 | 25 | 16 | 
-| 2023-02-05 | 25 | 16 | 
 

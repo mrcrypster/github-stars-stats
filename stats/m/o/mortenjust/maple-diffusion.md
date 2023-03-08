@@ -1,10 +1,10 @@
 # mortenjust/maple-diffusion - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 29
 
-★ Stars: 444
+★ Stars: 446
 
 [Open repository](https://github.com/mortenjust/maple-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 446 | 29 | 
 | 2023-03-06 | 444 | 29 | 
 | 2023-03-04 | 443 | 29 | 
 | 2023-03-03 | 442 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 438 | 28 | 
 | 2023-02-07 | 438 | 28 | 
 | 2023-02-06 | 438 | 28 | 
-| 2023-02-05 | 437 | 28 | 
 

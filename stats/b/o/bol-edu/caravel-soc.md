@@ -1,10 +1,10 @@
 # bol-edu/caravel-soc - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/bol-edu/caravel-soc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7 | 1 | 
 | 2023-03-05 | 6 | 1 | 
 | 2023-03-04 | 6 | 1 | 
 | 2023-03-03 | 6 | 1 | 

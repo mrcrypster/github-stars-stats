@@ -1,10 +1,10 @@
 # reacherhq/check-if-email-exists - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 250
+☋ Forks: 251
 
-★ Stars: 3706
+★ Stars: 3710
 
 [Open repository](https://github.com/reacherhq/check-if-email-exists)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3710 | 251 | 
 | 2023-03-06 | 3706 | 250 | 
 | 2023-03-04 | 3704 | 250 | 
 | 2023-03-03 | 3705 | 250 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 3674 | 246 | 
 | 2023-02-07 | 3674 | 246 | 
 | 2023-02-06 | 3672 | 246 | 
-| 2023-02-05 | 3669 | 246 | 
 

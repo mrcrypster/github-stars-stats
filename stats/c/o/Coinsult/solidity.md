@@ -1,10 +1,10 @@
 # Coinsult/solidity - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Coinsult/solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 22 | 5 | 
 | 2023-03-06 | 21 | 5 | 
 | 2023-03-04 | 21 | 5 | 
 | 2023-03-03 | 21 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 18 | 5 | 
 | 2023-02-07 | 18 | 5 | 
 | 2023-02-06 | 18 | 5 | 
-| 2023-02-05 | 18 | 5 | 
 

@@ -1,10 +1,10 @@
 # FusionAuth/fusionauth-site - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 25
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/FusionAuth/fusionauth-site)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 24 | 25 | 
 | 2023-03-06 | 23 | 25 | 
 | 2023-03-05 | 23 | 25 | 
 | 2023-03-03 | 24 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 23 | 25 | 
 | 2023-02-07 | 23 | 25 | 
 | 2023-02-06 | 23 | 25 | 
-| 2023-02-05 | 23 | 25 | 
 

@@ -1,10 +1,10 @@
 # vuejs/awesome-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 9251
+☋ Forks: 9252
 
-★ Stars: 67918
+★ Stars: 67933
 
 [Open repository](https://github.com/vuejs/awesome-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 67933 | 9252 | 
 | 2023-03-06 | 67918 | 9251 | 
 | 2023-03-05 | 67919 | 9249 | 
 | 2023-03-03 | 67908 | 9249 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 67643 | 9240 | 
 | 2023-02-07 | 67630 | 9241 | 
 | 2023-02-06 | 67616 | 9237 | 
-| 2023-02-05 | 67606 | 9240 | 
 

@@ -1,6 +1,6 @@
 # atrac17/Toaplan2 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 8 | 3 | 
 | 2023-03-06 | 8 | 3 | 
 | 2023-03-05 | 8 | 3 | 
 | 2023-03-03 | 8 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 8 | 3 | 
 | 2023-02-08 | 8 | 3 | 
 | 2023-02-06 | 8 | 3 | 
-| 2023-02-05 | 8 | 3 | 
 

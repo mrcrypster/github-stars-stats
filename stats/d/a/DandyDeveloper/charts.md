@@ -1,6 +1,6 @@
 # DandyDeveloper/charts - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 123 | 129 | 
 | 2023-03-06 | 123 | 129 | 
 | 2023-03-04 | 123 | 129 | 
 | 2023-03-03 | 123 | 129 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 121 | 131 | 
 | 2023-02-08 | 121 | 131 | 
 | 2023-02-07 | 121 | 131 | 
-| 2023-02-06 | 121 | 131 | 
 

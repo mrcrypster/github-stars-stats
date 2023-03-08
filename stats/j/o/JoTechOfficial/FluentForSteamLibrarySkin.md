@@ -1,10 +1,10 @@
 # JoTechOfficial/FluentForSteamLibrarySkin - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/JoTechOfficial/FluentForSteamLibrarySkin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 67 | - | 
 | 2023-03-05 | 66 | - | 
 | 2023-03-04 | 66 | - | 
 | 2023-03-03 | 64 | - | 

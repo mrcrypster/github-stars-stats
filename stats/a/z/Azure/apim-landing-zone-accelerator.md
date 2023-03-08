@@ -1,6 +1,6 @@
 # Azure/apim-landing-zone-accelerator - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 81 | 79 | 
 | 2023-03-06 | 81 | 79 | 
 | 2023-03-05 | 81 | 79 | 
 | 2023-03-03 | 81 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 78 | 76 | 
 | 2023-02-07 | 78 | 74 | 
 | 2023-02-06 | 78 | 73 | 
-| 2023-02-05 | 78 | 73 | 
 

@@ -1,10 +1,10 @@
 # jumpserver/jumpserver - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 4807
 
-★ Stars: 19930
+★ Stars: 19937
 
 [Open repository](https://github.com/jumpserver/jumpserver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 19937 | 4807 | 
 | 2023-03-06 | 19930 | 4807 | 
 | 2023-03-05 | 19922 | 4806 | 
 | 2023-03-03 | 19915 | 4806 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 19763 | 4791 | 
 | 2023-02-07 | 19758 | 4791 | 
 | 2023-02-06 | 19749 | 4790 | 
-| 2023-02-05 | 19741 | 4790 | 
 

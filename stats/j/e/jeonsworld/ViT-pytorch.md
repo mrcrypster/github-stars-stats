@@ -1,10 +1,10 @@
 # jeonsworld/ViT-pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 300
+☋ Forks: 301
 
-★ Stars: 1426
+★ Stars: 1425
 
 [Open repository](https://github.com/jeonsworld/ViT-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1425 | 301 | 
 | 2023-03-06 | 1426 | 300 | 
 | 2023-03-04 | 1424 | 299 | 
 | 2023-03-03 | 1423 | 298 | 

@@ -1,10 +1,10 @@
 # lydiahallie/javascript-react-patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 96
 
-★ Stars: 568
+★ Stars: 570
 
 [Open repository](https://github.com/lydiahallie/javascript-react-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 570 | 96 | 
 | 2023-03-05 | 568 | 96 | 
 | 2023-03-04 | 567 | 96 | 
 | 2023-03-02 | 564 | 96 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 541 | 92 | 
 | 2023-02-07 | 540 | 92 | 
 | 2023-02-06 | 540 | 90 | 
-| 2023-02-05 | 539 | 89 | 
 

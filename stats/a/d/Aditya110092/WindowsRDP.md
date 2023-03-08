@@ -1,0 +1,17 @@
+# Aditya110092/WindowsRDP - stars & forks statistics
+
+Stats updated on Mar 2023, 07
+
+☋ Forks: 35
+
+★ Stars: 0
+
+[Open repository](https://github.com/Aditya110092/WindowsRDP)
+
+[Open detailed stats for Aditya110092/WindowsRDP](https://reviewgithub.com/rep/Aditya110092/WindowsRDP)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-07 | - | 35 | 
+

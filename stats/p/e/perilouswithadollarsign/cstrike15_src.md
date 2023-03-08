@@ -1,8 +1,8 @@
 # perilouswithadollarsign/cstrike15_src - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 689
+☋ Forks: 691
 
 ★ Stars: 1195
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1195 | 691 | 
 | 2023-03-06 | 1195 | 689 | 
 | 2023-03-04 | 1191 | 689 | 
 | 2023-03-03 | 1191 | 688 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1176 | 681 | 
 | 2023-02-07 | 1173 | 681 | 
 | 2023-02-06 | 1171 | 680 | 
-| 2023-02-05 | 1171 | 680 | 
 

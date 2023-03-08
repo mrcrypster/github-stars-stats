@@ -1,10 +1,10 @@
 # Sygil-Dev/sygil-webui - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 753
 
-★ Stars: 6592
+★ Stars: 6600
 
 [Open repository](https://github.com/Sygil-Dev/sygil-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 6600 | 753 | 
 | 2023-03-06 | 6592 | 753 | 
 | 2023-03-04 | 6579 | 752 | 
 | 2023-03-03 | 6563 | 748 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 6286 | 730 | 
 | 2023-02-08 | 6283 | 728 | 
 | 2023-02-07 | 6277 | 728 | 
-| 2023-02-06 | 6266 | 728 | 
 

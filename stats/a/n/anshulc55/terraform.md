@@ -1,6 +1,6 @@
 # anshulc55/terraform - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 16 | 262 | 
 | 2023-03-06 | 16 | 262 | 
 | 2023-03-05 | 16 | 262 | 
 | 2023-03-03 | 16 | 261 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 16 | 253 | 
 | 2023-02-08 | 16 | 253 | 
 | 2023-02-06 | 16 | 253 | 
-| 2023-02-05 | 16 | 253 | 
 

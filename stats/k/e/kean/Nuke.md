@@ -1,10 +1,10 @@
 # kean/Nuke - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 464
+☋ Forks: 465
 
-★ Stars: 7212
+★ Stars: 7218
 
 [Open repository](https://github.com/kean/Nuke)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7218 | 465 | 
 | 2023-03-06 | 7212 | 464 | 
 | 2023-03-04 | 7212 | 464 | 
 | 2023-03-03 | 7210 | 463 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 7125 | 458 | 
 | 2023-02-07 | 7116 | 457 | 
 | 2023-02-06 | 7114 | 456 | 
-| 2023-02-05 | 7111 | 456 | 
 

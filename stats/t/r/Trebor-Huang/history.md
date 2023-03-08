@@ -1,10 +1,10 @@
 # Trebor-Huang/history - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/Trebor-Huang/history)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 148 | 2 | 
 | 2023-03-06 | 146 | 2 | 
 | 2023-03-05 | 142 | 1 | 
 | 2023-03-04 | 135 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 31 | - | 
 | 2023-02-08 | 31 | - | 
 | 2023-02-07 | 31 | - | 
-| 2023-02-05 | 31 | - | 
 

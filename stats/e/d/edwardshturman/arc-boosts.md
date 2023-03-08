@@ -1,10 +1,10 @@
 # edwardshturman/arc-boosts - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/edwardshturman/arc-boosts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 26 | 1 | 
 | 2023-03-05 | 25 | 1 | 
 | 2023-03-04 | 25 | 1 | 
 | 2023-03-03 | 25 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 23 | 2 | 
 | 2023-02-08 | 23 | 2 | 
 | 2023-02-07 | 23 | 2 | 
-| 2023-02-05 | 23 | 2 | 
 

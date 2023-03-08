@@ -1,10 +1,10 @@
 # fortran-lang/stdlib - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 121
 
-★ Stars: 772
+★ Stars: 775
 
 [Open repository](https://github.com/fortran-lang/stdlib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 775 | 121 | 
 | 2023-03-06 | 772 | 121 | 
 | 2023-03-05 | 772 | 121 | 
 | 2023-03-04 | 772 | 121 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 758 | 117 | 
 | 2023-02-07 | 758 | 117 | 
 | 2023-02-06 | 757 | 117 | 
-| 2023-02-05 | 757 | 117 | 
 

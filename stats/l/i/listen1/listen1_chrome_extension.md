@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 1885
 
-★ Stars: 9740
+★ Stars: 9744
 
 [Open repository](https://github.com/listen1/listen1_chrome_extension)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 9740 | 1885 | 
+| 2023-03-07 | 9744 | 1885 | 
 | 2023-03-06 | 9740 | 1885 | 
 | 2023-03-05 | 9723 | 1886 | 
 | 2023-03-03 | 9722 | 1885 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-08 | 9584 | 1870 | 
 | 2023-02-07 | 9577 | 1871 | 
 | 2023-02-06 | 9566 | 1871 | 
-| 2023-02-05 | 9558 | 1869 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/MikeSchulze/gdUnit4)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 99 | 4 | 
+| 2023-03-07 | 100 | 4 | 
 | 2023-03-06 | 99 | 4 | 
 | 2023-03-05 | 98 | 4 | 
 | 2023-03-04 | 98 | 4 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-08 | 64 | 1 | 
 | 2023-02-07 | 62 | 1 | 
 | 2023-02-06 | 62 | 1 | 
-| 2023-02-05 | 62 | 1 | 
 

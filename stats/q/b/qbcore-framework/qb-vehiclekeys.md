@@ -1,8 +1,8 @@
 # qbcore-framework/qb-vehiclekeys - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 212
+☋ Forks: 213
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 25 | 213 | 
 | 2023-03-05 | 25 | 212 | 
 | 2023-03-04 | 25 | 212 | 
 | 2023-03-03 | 25 | 212 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 25 | 208 | 
 | 2023-02-07 | 25 | 208 | 
 | 2023-02-06 | 25 | 207 | 
-| 2023-02-05 | 25 | 207 | 
 

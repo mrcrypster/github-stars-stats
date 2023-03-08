@@ -1,10 +1,10 @@
 # robjhyndman/forecast - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 333
 
-★ Stars: 1019
+★ Stars: 1020
 
 [Open repository](https://github.com/robjhyndman/forecast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1020 | 333 | 
 | 2023-03-05 | 1019 | 333 | 
 | 2023-03-04 | 1019 | 333 | 
 | 2023-03-03 | 1019 | 333 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 1017 | 332 | 
 | 2023-02-07 | 1017 | 332 | 
 | 2023-02-06 | 1017 | 332 | 
-| 2023-02-05 | 1017 | 332 | 
 

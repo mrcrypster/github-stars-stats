@@ -1,10 +1,10 @@
 # ikechan8370/chatgpt-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 270
+★ Stars: 282
 
 [Open repository](https://github.com/ikechan8370/chatgpt-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 282 | 31 | 
 | 2023-03-06 | 270 | 30 | 
 | 2023-03-05 | 265 | 30 | 
 | 2023-03-04 | 257 | 30 | 

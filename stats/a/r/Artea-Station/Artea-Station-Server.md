@@ -1,10 +1,10 @@
 # Artea-Station/Artea-Station-Server - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/Artea-Station/Artea-Station-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4 | 8 | 
 | 2023-03-06 | 3 | 8 | 
 | 2023-03-05 | 3 | 8 | 
 | 2023-03-04 | 3 | 8 | 

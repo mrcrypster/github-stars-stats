@@ -1,10 +1,10 @@
 # bw1129/PIDtoolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 57
 
-★ Stars: 392
+★ Stars: 391
 
 [Open repository](https://github.com/bw1129/PIDtoolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 391 | 57 | 
 | 2023-03-06 | 392 | 57 | 
 | 2023-03-05 | 392 | 57 | 
 | 2023-03-04 | 392 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 384 | 58 | 
 | 2023-02-07 | 382 | 58 | 
 | 2023-02-06 | 382 | 57 | 
-| 2023-02-05 | 382 | 57 | 
 

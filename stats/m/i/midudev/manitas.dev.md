@@ -1,10 +1,10 @@
 # midudev/manitas.dev - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/midudev/manitas.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 22 | 1 | 
 | 2023-03-06 | 21 | 1 | 
 | 2023-03-05 | 21 | 1 | 
 | 2023-03-04 | 21 | 1 | 

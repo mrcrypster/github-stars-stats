@@ -1,10 +1,10 @@
 # stalwartlabs/smtp-server - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 4
+☋ Forks: 7
 
-★ Stars: 237
+★ Stars: 254
 
 [Open repository](https://github.com/stalwartlabs/smtp-server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 254 | 7 | 
 | 2023-03-06 | 237 | 4 | 
 | 2023-03-05 | 219 | 4 | 
 | 2023-03-04 | 214 | 4 | 

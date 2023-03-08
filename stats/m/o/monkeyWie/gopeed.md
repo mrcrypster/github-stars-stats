@@ -1,10 +1,10 @@
 # monkeyWie/gopeed - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 345
 
-★ Stars: 3959
+★ Stars: 3964
 
 [Open repository](https://github.com/monkeyWie/gopeed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3964 | 345 | 
 | 2023-03-05 | 3959 | 345 | 
 | 2023-03-04 | 3951 | 345 | 
 | 2023-03-03 | 3930 | 345 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 3897 | 345 | 
 | 2023-02-07 | 3893 | 345 | 
 | 2023-02-06 | 3890 | 345 | 
-| 2023-02-05 | 3888 | 345 | 
 

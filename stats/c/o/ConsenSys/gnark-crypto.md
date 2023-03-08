@@ -1,8 +1,8 @@
 # ConsenSys/gnark-crypto - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 271
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 271 | 79 | 
 | 2023-03-06 | 271 | 78 | 
 | 2023-03-04 | 271 | 78 | 
 | 2023-03-03 | 271 | 78 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 258 | 74 | 
 | 2023-02-07 | 258 | 74 | 
 | 2023-02-06 | 258 | 74 | 
-| 2023-02-05 | 258 | 74 | 
 

@@ -1,6 +1,6 @@
 # litmuschaos/litmus-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 35 | 67 | 
 | 2023-03-06 | 35 | 67 | 
 | 2023-03-05 | 35 | 67 | 
 | 2023-03-04 | 35 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 34 | 66 | 
 | 2023-02-07 | 34 | 66 | 
 | 2023-02-06 | 34 | 65 | 
-| 2023-02-05 | 34 | 65 | 
 

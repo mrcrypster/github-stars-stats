@@ -1,10 +1,10 @@
 # lucferbux/TypescriptWeatherExample - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 39
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/lucferbux/TypescriptWeatherExample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2 | 39 | 
 | 2023-03-06 | 1 | 39 | 
 | 2023-03-04 | 1 | 39 | 
 | 2023-03-03 | 1 | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 1 | 39 | 
 | 2023-02-08 | 1 | 39 | 
 | 2023-02-07 | 1 | 39 | 
-| 2023-02-06 | 1 | 39 | 
 

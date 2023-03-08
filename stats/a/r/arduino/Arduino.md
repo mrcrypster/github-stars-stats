@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 07
 
-☋ Forks: 7071
+☋ Forks: 7072
 
-★ Stars: 13427
+★ Stars: 13428
 
 [Open repository](https://github.com/arduino/Arduino)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 13427 | 7071 | 
+| 2023-03-07 | 13428 | 7072 | 
 | 2023-03-06 | 13427 | 7071 | 
 | 2023-03-05 | 13425 | 7070 | 
 | 2023-03-04 | 13418 | 7069 | 

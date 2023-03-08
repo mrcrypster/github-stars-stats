@@ -1,10 +1,10 @@
 # lupyuen/pinephone-nuttx - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 52
+★ Stars: 51
 
 [Open repository](https://github.com/lupyuen/pinephone-nuttx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 51 | 7 | 
 | 2023-03-06 | 52 | 7 | 
 | 2023-03-05 | 52 | 7 | 
 | 2023-03-04 | 52 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 46 | 7 | 
 | 2023-02-07 | 46 | 7 | 
 | 2023-02-06 | 46 | 7 | 
-| 2023-02-05 | 46 | 7 | 
 

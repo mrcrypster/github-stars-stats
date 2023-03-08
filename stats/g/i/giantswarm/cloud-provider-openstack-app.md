@@ -1,8 +1,8 @@
 # giantswarm/cloud-provider-openstack-app - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | - | 1 | 
 | 2023-03-06 | - | - | 
 | 2023-03-05 | - | - | 
 | 2023-03-04 | - | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | - | - | 
 | 2023-02-07 | - | - | 
 | 2023-02-06 | - | - | 
-| 2023-02-05 | - | - | 
 

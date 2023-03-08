@@ -1,6 +1,6 @@
 # andrew-d/static-binaries - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 455
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2432 | 455 | 
 | 2023-03-06 | 2432 | 455 | 
 | 2023-03-05 | 2429 | 455 | 
 | 2023-03-04 | 2428 | 455 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 2388 | 452 | 
 | 2023-02-07 | 2387 | 451 | 
 | 2023-02-06 | 2386 | 449 | 
-| 2023-02-05 | 2384 | 449 | 
 

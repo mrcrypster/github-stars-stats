@@ -1,10 +1,10 @@
 # dinosaure/bob - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 101
+★ Stars: 100
 
 [Open repository](https://github.com/dinosaure/bob)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 100 | 4 | 
 | 2023-03-05 | 101 | 4 | 
 | 2023-03-04 | 101 | 4 | 
 | 2023-03-03 | 101 | 4 | 

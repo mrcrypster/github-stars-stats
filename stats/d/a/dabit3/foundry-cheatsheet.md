@@ -1,6 +1,6 @@
 # dabit3/foundry-cheatsheet - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 440 | 29 | 
 | 2023-03-06 | 440 | 29 | 
 | 2023-03-05 | 440 | 29 | 
 | 2023-03-04 | 440 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 427 | 27 | 
 | 2023-02-07 | 426 | 27 | 
 | 2023-02-06 | 422 | 25 | 
-| 2023-02-05 | 420 | 25 | 
 

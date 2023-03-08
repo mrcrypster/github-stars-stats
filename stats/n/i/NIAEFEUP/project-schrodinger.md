@@ -1,8 +1,8 @@
 # NIAEFEUP/project-schrodinger - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 12
+☋ Forks: 10
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 28 | 10 | 
 | 2023-03-05 | 28 | 12 | 
 | 2023-03-04 | 28 | 12 | 
 | 2023-03-03 | 28 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 28 | 9 | 
 | 2023-02-07 | 28 | 8 | 
 | 2023-02-06 | 28 | 8 | 
-| 2023-02-05 | 28 | 8 | 
 

@@ -1,6 +1,6 @@
 # sqitchers/sqitch - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2541 | 205 | 
 | 2023-03-05 | 2541 | 205 | 
 | 2023-03-04 | 2540 | 205 | 
 | 2023-03-03 | 2540 | 205 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 2530 | 205 | 
 | 2023-02-07 | 2529 | 205 | 
 | 2023-02-06 | 2529 | 205 | 
-| 2023-02-05 | 2527 | 205 | 
 

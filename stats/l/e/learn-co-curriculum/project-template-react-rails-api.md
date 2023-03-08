@@ -1,8 +1,8 @@
 # learn-co-curriculum/project-template-react-rails-api - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 515
+☋ Forks: 517
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 56 | 517 | 
 | 2023-03-06 | 56 | 515 | 
 | 2023-03-05 | 55 | 514 | 
 | 2023-03-03 | 55 | 512 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 54 | 500 | 
 | 2023-02-07 | 54 | 499 | 
 | 2023-02-06 | 54 | 498 | 
-| 2023-02-05 | 54 | 497 | 
 

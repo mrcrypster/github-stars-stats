@@ -1,10 +1,10 @@
 # mazhengcn/suggested-notation-for-machine-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 305
+★ Stars: 306
 
 [Open repository](https://github.com/mazhengcn/suggested-notation-for-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 306 | 53 | 
 | 2023-03-06 | 305 | 52 | 
 | 2023-03-05 | 305 | 52 | 
 | 2023-03-03 | 305 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 295 | 51 | 
 | 2023-02-08 | 295 | 51 | 
 | 2023-02-06 | 294 | 51 | 
-| 2023-02-05 | 294 | 51 | 
 

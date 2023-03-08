@@ -1,10 +1,10 @@
 # caleb-bb/periscope - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/caleb-bb/periscope)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 61 | 2 | 
 | 2023-03-05 | 60 | 2 | 
 | 2023-03-04 | 60 | 2 | 
 | 2023-03-03 | 60 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 59 | 2 | 
 | 2023-02-08 | 59 | 2 | 
 | 2023-02-07 | 59 | 2 | 
-| 2023-02-05 | 59 | 2 | 
 

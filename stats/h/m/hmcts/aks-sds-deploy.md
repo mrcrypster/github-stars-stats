@@ -1,10 +1,10 @@
 # hmcts/aks-sds-deploy - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/hmcts/aks-sds-deploy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4 | 5 | 
 | 2023-03-05 | 3 | 5 | 
 | 2023-03-04 | 3 | 5 | 
 | 2023-03-02 | 3 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 3 | 5 | 
 | 2023-02-07 | 3 | 5 | 
 | 2023-02-06 | 3 | 5 | 
-| 2023-02-05 | 3 | 5 | 
 

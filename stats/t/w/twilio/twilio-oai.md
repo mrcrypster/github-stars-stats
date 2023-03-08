@@ -1,6 +1,6 @@
 # twilio/twilio-oai - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 83 | 59 | 
 | 2023-03-05 | 83 | 59 | 
 | 2023-03-04 | 83 | 59 | 
 | 2023-03-02 | 83 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 83 | 58 | 
 | 2023-02-07 | 82 | 58 | 
 | 2023-02-06 | 82 | 58 | 
-| 2023-02-05 | 82 | 58 | 
 

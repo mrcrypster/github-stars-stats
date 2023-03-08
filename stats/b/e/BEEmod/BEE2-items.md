@@ -1,6 +1,6 @@
 # BEEmod/BEE2-items - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 119 | 49 | 
 | 2023-03-06 | 119 | 49 | 
 | 2023-03-05 | 119 | 49 | 
 | 2023-03-03 | 119 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 119 | 48 | 
 | 2023-02-07 | 119 | 48 | 
 | 2023-02-06 | 119 | 48 | 
-| 2023-02-05 | 119 | 48 | 
 

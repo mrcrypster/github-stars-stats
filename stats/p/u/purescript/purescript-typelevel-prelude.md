@@ -1,10 +1,10 @@
 # purescript/purescript-typelevel-prelude - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 24
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/purescript/purescript-typelevel-prelude)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 64 | 24 | 
 | 2023-03-06 | 63 | 24 | 
 | 2023-03-04 | 63 | 24 | 
 | 2023-03-03 | 63 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 63 | 24 | 
 | 2023-02-07 | 63 | 24 | 
 | 2023-02-06 | 63 | 24 | 
-| 2023-02-05 | 63 | 24 | 
 

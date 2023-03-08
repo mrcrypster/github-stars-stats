@@ -1,6 +1,6 @@
 # ethz-asl/eigen_catkin - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 27 | 51 | 
 | 2023-03-06 | 27 | 51 | 
 | 2023-03-05 | 27 | 50 | 
 | 2023-03-03 | 27 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 27 | 50 | 
 | 2023-02-07 | 27 | 50 | 
 | 2023-02-06 | 27 | 50 | 
-| 2023-02-05 | 27 | 50 | 
 

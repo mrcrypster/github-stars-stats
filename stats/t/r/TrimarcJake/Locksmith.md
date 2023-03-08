@@ -1,10 +1,10 @@
 # TrimarcJake/Locksmith - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 21
+☋ Forks: 19
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/TrimarcJake/Locksmith)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 287 | 19 | 
 | 2023-03-06 | 286 | 21 | 
 | 2023-03-05 | 286 | 21 | 
 | 2023-03-03 | 286 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 252 | 18 | 
 | 2023-02-07 | 252 | 18 | 
 | 2023-02-06 | 252 | 18 | 
-| 2023-02-05 | 252 | 18 | 
 

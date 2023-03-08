@@ -1,10 +1,10 @@
 # purescript/purescript-newtype - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 11
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/purescript/purescript-newtype)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 16 | 11 | 
 | 2023-03-05 | 15 | 11 | 
 | 2023-03-04 | 15 | 11 | 
 | 2023-03-03 | 15 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 15 | 11 | 
 | 2023-02-07 | 15 | 11 | 
 | 2023-02-06 | 15 | 11 | 
-| 2023-02-05 | 15 | 11 | 
 

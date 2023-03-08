@@ -1,10 +1,10 @@
 # WDaan/VueTorrent - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 2033
+★ Stars: 2038
 
 [Open repository](https://github.com/WDaan/VueTorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2038 | 148 | 
 | 2023-03-06 | 2033 | 147 | 
 | 2023-03-05 | 2028 | 147 | 
 | 2023-03-04 | 2023 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1893 | 142 | 
 | 2023-02-07 | 1885 | 140 | 
 | 2023-02-06 | 1883 | 140 | 
-| 2023-02-05 | 1879 | 139 | 
 

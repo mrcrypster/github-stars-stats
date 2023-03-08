@@ -1,6 +1,6 @@
 # wwieder/MIMICS - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7 | 13 | 
 | 2023-03-06 | 7 | 13 | 
 | 2023-03-04 | 7 | 13 | 
 | 2023-03-03 | 7 | 13 | 

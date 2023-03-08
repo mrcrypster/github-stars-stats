@@ -1,10 +1,10 @@
 # kowainik/colourista - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 63
+★ Stars: 65
 
 [Open repository](https://github.com/kowainik/colourista)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 65 | 14 | 
 | 2023-03-06 | 63 | 14 | 
 | 2023-03-04 | 63 | 14 | 
 | 2023-03-03 | 63 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 59 | 14 | 
 | 2023-02-07 | 59 | 14 | 
 | 2023-02-06 | 59 | 14 | 
-| 2023-02-05 | 59 | 14 | 
 

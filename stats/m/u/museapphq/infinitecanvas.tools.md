@@ -1,6 +1,6 @@
 # museapphq/infinitecanvas.tools - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 67 | 20 | 
 | 2023-03-06 | 67 | 20 | 
 | 2023-03-04 | 66 | 20 | 
 | 2023-03-03 | 66 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 64 | 19 | 
 | 2023-02-07 | 64 | 19 | 
 | 2023-02-06 | 64 | 19 | 
-| 2023-02-05 | 64 | 19 | 
 

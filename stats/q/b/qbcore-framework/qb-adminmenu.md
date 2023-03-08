@@ -1,10 +1,10 @@
 # qbcore-framework/qb-adminmenu - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 236
+☋ Forks: 237
 
-★ Stars: 31
+★ Stars: 30
 
 [Open repository](https://github.com/qbcore-framework/qb-adminmenu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 30 | 237 | 
 | 2023-03-06 | 31 | 236 | 
 | 2023-03-05 | 31 | 236 | 
 | 2023-03-03 | 31 | 236 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 31 | 232 | 
 | 2023-02-07 | 31 | 232 | 
 | 2023-02-06 | 31 | 232 | 
-| 2023-02-05 | 31 | 232 | 
 

@@ -1,6 +1,6 @@
 # vitorgalvao/custom-alfred-iterm-scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 452
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 3443 | 452 | 
 | 2023-03-06 | 3443 | 452 | 
 | 2023-03-04 | 3442 | 452 | 
 | 2023-03-03 | 3438 | 452 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 3426 | 452 | 
 | 2023-02-07 | 3425 | 452 | 
 | 2023-02-06 | 3424 | 452 | 
-| 2023-02-05 | 3424 | 451 | 
 

@@ -1,6 +1,6 @@
 # emacs-straight/spinner - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | - | 
+| 2023-03-07 | - | - | 
 | 2023-03-05 | - | - | 
 | 2023-03-04 | - | - | 
 | 2023-03-03 | - | - | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | - | - | 
 | 2023-02-08 | - | - | 
 | 2023-02-07 | - | - | 
-| 2023-02-06 | - | - | 
 

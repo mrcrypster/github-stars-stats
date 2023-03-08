@@ -1,10 +1,10 @@
 # msfrisbie/spy-extension - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 68
+☋ Forks: 69
 
-★ Stars: 418
+★ Stars: 429
 
 [Open repository](https://github.com/msfrisbie/spy-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 429 | 69 | 
 | 2023-03-05 | 418 | 68 | 
 | 2023-03-04 | 412 | 65 | 
 | 2023-03-03 | 404 | 65 | 

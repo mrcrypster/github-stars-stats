@@ -1,10 +1,10 @@
 # openwall/john - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1850
 
-★ Stars: 7422
+★ Stars: 7426
 
 [Open repository](https://github.com/openwall/john)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 7426 | 1850 | 
 | 2023-03-06 | 7422 | 1850 | 
 | 2023-03-05 | 7418 | 1851 | 
 | 2023-03-04 | 7411 | 1852 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 7303 | 1843 | 
 | 2023-02-07 | 7296 | 1843 | 
 | 2023-02-06 | 7289 | 1843 | 
-| 2023-02-05 | 7282 | 1842 | 
 

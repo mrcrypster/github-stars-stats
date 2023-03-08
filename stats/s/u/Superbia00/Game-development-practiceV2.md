@@ -1,6 +1,6 @@
 # Superbia00/Game-development-practiceV2 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | - | 5 | 
 | 2023-03-06 | - | 5 | 
 | 2023-03-04 | - | 5 | 
 | 2023-03-03 | - | 5 | 

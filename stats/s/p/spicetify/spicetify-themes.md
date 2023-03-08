@@ -1,10 +1,10 @@
 # spicetify/spicetify-themes - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 1222
+☋ Forks: 1223
 
-★ Stars: 4112
+★ Stars: 4113
 
 [Open repository](https://github.com/spicetify/spicetify-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 4113 | 1223 | 
 | 2023-03-06 | 4112 | 1222 | 
 | 2023-03-05 | 4111 | 1223 | 
 | 2023-03-04 | 4106 | 1224 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 4054 | 1215 | 
 | 2023-02-07 | 4054 | 1214 | 
 | 2023-02-06 | 4055 | 1214 | 
-| 2023-02-05 | 4051 | 1215 | 
 

@@ -1,6 +1,6 @@
 # input-output-hk/cardano-sl-x509 - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 8 | 3 | 
 | 2023-03-05 | 8 | 3 | 
 | 2023-03-04 | 8 | 3 | 
 | 2023-03-03 | 8 | 3 | 

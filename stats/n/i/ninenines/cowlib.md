@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 169
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/ninenines/cowlib)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 257 | 169 | 
+| 2023-03-07 | 258 | 169 | 
 | 2023-03-06 | 257 | 169 | 
 | 2023-03-05 | 258 | 169 | 
 | 2023-03-04 | 257 | 169 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-08 | 256 | 168 | 
 | 2023-02-07 | 255 | 168 | 
 | 2023-02-06 | 255 | 168 | 
-| 2023-02-05 | 255 | 168 | 
 

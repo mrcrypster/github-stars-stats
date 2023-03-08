@@ -1,10 +1,10 @@
 # idris-lang/Idris2 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 332
 
-★ Stars: 2016
+★ Stars: 2017
 
 [Open repository](https://github.com/idris-lang/Idris2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2017 | 332 | 
 | 2023-03-06 | 2016 | 332 | 
 | 2023-03-05 | 2016 | 332 | 
 | 2023-03-04 | 2016 | 332 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1970 | 331 | 
 | 2023-02-07 | 1970 | 330 | 
 | 2023-02-06 | 1970 | 330 | 
-| 2023-02-05 | 1966 | 330 | 
 

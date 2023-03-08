@@ -1,10 +1,10 @@
 # Gabriella439/terraform-nixos-ng - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/Gabriella439/terraform-nixos-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 68 | 1 | 
 | 2023-03-06 | 67 | 1 | 
 | 2023-03-05 | 67 | 1 | 
 | 2023-03-04 | 66 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 60 | 1 | 
 | 2023-02-07 | 59 | 1 | 
 | 2023-02-06 | 58 | 1 | 
-| 2023-02-05 | 58 | 1 | 
 

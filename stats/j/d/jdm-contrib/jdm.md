@@ -1,10 +1,10 @@
 # jdm-contrib/jdm - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 253
 
-★ Stars: 694
+★ Stars: 695
 
 [Open repository](https://github.com/jdm-contrib/jdm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 695 | 253 | 
 | 2023-03-06 | 694 | 253 | 
 | 2023-03-05 | 693 | 253 | 
 | 2023-03-03 | 694 | 253 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 682 | 250 | 
 | 2023-02-07 | 682 | 250 | 
 | 2023-02-06 | 683 | 250 | 
-| 2023-02-05 | 683 | 251 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 07
 
 ☋ Forks: 80
 
-★ Stars: 517
+★ Stars: 519
 
 [Open repository](https://github.com/trailofbits/eth-security-toolbox)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-07 | 517 | 80 | 
+| 2023-03-07 | 519 | 80 | 
 | 2023-03-06 | 517 | 80 | 
 | 2023-03-05 | 516 | 80 | 
 | 2023-03-04 | 514 | 80 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 491 | 74 | 
 | 2023-02-08 | 490 | 73 | 
 | 2023-02-06 | 490 | 73 | 
-| 2023-02-05 | 489 | 72 | 
 

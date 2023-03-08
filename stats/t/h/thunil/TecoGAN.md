@@ -1,10 +1,10 @@
 # thunil/TecoGAN - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 1046
+☋ Forks: 1048
 
-★ Stars: 5298
+★ Stars: 5302
 
 [Open repository](https://github.com/thunil/TecoGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 5302 | 1048 | 
 | 2023-03-06 | 5298 | 1046 | 
 | 2023-03-04 | 5298 | 1045 | 
 | 2023-03-03 | 5296 | 1045 | 

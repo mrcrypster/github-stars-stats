@@ -1,10 +1,10 @@
 # alandipert/enduro - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/alandipert/enduro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 111 | 6 | 
 | 2023-03-05 | 110 | 6 | 
 | 2023-03-04 | 110 | 6 | 
 | 2023-03-03 | 110 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 110 | 6 | 
 | 2023-02-07 | 110 | 6 | 
 | 2023-02-06 | 110 | 6 | 
-| 2023-02-05 | 110 | 6 | 
 

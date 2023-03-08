@@ -1,10 +1,10 @@
 # vlang/ui - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 1994
+★ Stars: 1996
 
 [Open repository](https://github.com/vlang/ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1996 | 138 | 
 | 2023-03-06 | 1994 | 137 | 
 | 2023-03-05 | 1993 | 137 | 
 | 2023-03-04 | 1993 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 1936 | 135 | 
 | 2023-02-07 | 1935 | 135 | 
 | 2023-02-06 | 1935 | 134 | 
-| 2023-02-05 | 1934 | 134 | 
 

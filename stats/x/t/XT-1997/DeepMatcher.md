@@ -1,6 +1,6 @@
 # XT-1997/DeepMatcher - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 153 | 11 | 
 | 2023-03-06 | 153 | 11 | 
 | 2023-03-05 | 152 | 11 | 
 | 2023-03-03 | 152 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 147 | 11 | 
 | 2023-02-07 | 146 | 11 | 
 | 2023-02-06 | 146 | 11 | 
-| 2023-02-05 | 146 | 11 | 
 

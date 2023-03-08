@@ -1,6 +1,6 @@
 # FractonProtocol/FractonV1 - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 208 | 28 | 
 | 2023-03-05 | 208 | 28 | 
 | 2023-03-04 | 208 | 27 | 
 | 2023-03-03 | 208 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 207 | 26 | 
 | 2023-02-07 | 207 | 26 | 
 | 2023-02-06 | 207 | 26 | 
-| 2023-02-05 | 207 | 26 | 
 

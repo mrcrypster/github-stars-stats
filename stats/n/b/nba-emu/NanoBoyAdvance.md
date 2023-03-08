@@ -1,10 +1,10 @@
 # nba-emu/NanoBoyAdvance - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 33
 
-★ Stars: 624
+★ Stars: 626
 
 [Open repository](https://github.com/nba-emu/NanoBoyAdvance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 626 | 33 | 
 | 2023-03-06 | 624 | 33 | 
 | 2023-03-04 | 626 | 33 | 
 | 2023-03-03 | 624 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 590 | 33 | 
 | 2023-02-07 | 590 | 34 | 
 | 2023-02-06 | 589 | 34 | 
-| 2023-02-05 | 589 | 34 | 
 

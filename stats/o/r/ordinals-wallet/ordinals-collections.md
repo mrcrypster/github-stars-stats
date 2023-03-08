@@ -1,10 +1,10 @@
 # ordinals-wallet/ordinals-collections - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 281
+☋ Forks: 307
 
-★ Stars: 141
+★ Stars: 145
 
 [Open repository](https://github.com/ordinals-wallet/ordinals-collections)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 145 | 307 | 
 | 2023-03-06 | 141 | 281 | 
 | 2023-03-04 | 131 | 265 | 
 | 2023-03-03 | 122 | 236 | 

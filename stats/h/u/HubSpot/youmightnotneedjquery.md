@@ -1,10 +1,10 @@
 # HubSpot/youmightnotneedjquery - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 534
+☋ Forks: 535
 
-★ Stars: 13906
+★ Stars: 13907
 
 [Open repository](https://github.com/HubSpot/youmightnotneedjquery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 13907 | 535 | 
 | 2023-03-05 | 13906 | 534 | 
 | 2023-03-04 | 13904 | 534 | 
 | 2023-03-03 | 13905 | 534 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 13885 | 534 | 
 | 2023-02-07 | 13886 | 534 | 
 | 2023-02-06 | 13886 | 535 | 
-| 2023-02-05 | 13886 | 535 | 
 

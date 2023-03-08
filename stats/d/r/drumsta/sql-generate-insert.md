@@ -1,6 +1,6 @@
 # drumsta/sql-generate-insert - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 132 | 73 | 
 | 2023-03-06 | 132 | 73 | 
 | 2023-03-05 | 132 | 73 | 
 | 2023-03-04 | 132 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 132 | 72 | 
 | 2023-02-08 | 132 | 72 | 
 | 2023-02-07 | 132 | 72 | 
-| 2023-02-06 | 132 | 72 | 
 

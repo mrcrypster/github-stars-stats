@@ -1,10 +1,10 @@
 # pi-hole/docker-pi-hole - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
-☋ Forks: 1029
+☋ Forks: 1030
 
-★ Stars: 6298
+★ Stars: 6300
 
 [Open repository](https://github.com/pi-hole/docker-pi-hole)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 6300 | 1030 | 
 | 2023-03-06 | 6298 | 1029 | 
 | 2023-03-05 | 6297 | 1029 | 
 | 2023-03-03 | 6290 | 1028 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 6207 | 1017 | 
 | 2023-02-07 | 6205 | 1014 | 
 | 2023-02-06 | 6201 | 1014 | 
-| 2023-02-05 | 6203 | 1014 | 
 

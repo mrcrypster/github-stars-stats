@@ -1,6 +1,6 @@
 # MLanguage/mlang - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 155 | 8 | 
 | 2023-03-06 | 155 | 8 | 
 | 2023-03-04 | 155 | 8 | 
 | 2023-03-03 | 155 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 153 | 8 | 
 | 2023-02-07 | 152 | 8 | 
 | 2023-02-06 | 151 | 7 | 
-| 2023-02-05 | 151 | 7 | 
 

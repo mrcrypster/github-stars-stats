@@ -1,10 +1,10 @@
 # Arsen6331/lure-repo - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 10
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Arsen6331/lure-repo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 50 | 10 | 
 | 2023-03-06 | 49 | 10 | 
 | 2023-03-05 | 49 | 10 | 
 | 2023-03-03 | 49 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 48 | 8 | 
 | 2023-02-07 | 48 | 8 | 
 | 2023-02-06 | 47 | 8 | 
-| 2023-02-05 | 47 | 8 | 
 

@@ -1,10 +1,10 @@
 # team-alembic/ash_authentication_phoenix - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 35
+★ Stars: 34
 
 [Open repository](https://github.com/team-alembic/ash_authentication_phoenix)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 34 | 4 | 
 | 2023-03-06 | 35 | 4 | 
 | 2023-03-04 | 34 | 4 | 
 | 2023-03-03 | 34 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 30 | 2 | 
 | 2023-02-07 | 30 | 2 | 
 | 2023-02-06 | 28 | 2 | 
-| 2023-02-05 | 28 | 2 | 
 

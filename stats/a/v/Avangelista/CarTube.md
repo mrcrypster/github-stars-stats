@@ -1,10 +1,10 @@
 # Avangelista/CarTube - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 138
+★ Stars: 140
 
 [Open repository](https://github.com/Avangelista/CarTube)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 140 | 7 | 
 | 2023-03-06 | 138 | 7 | 
 | 2023-03-05 | 137 | 7 | 
 | 2023-03-04 | 135 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 120 | 6 | 
 | 2023-02-07 | 119 | 5 | 
 | 2023-02-06 | 118 | 5 | 
-| 2023-02-05 | 116 | 5 | 
 

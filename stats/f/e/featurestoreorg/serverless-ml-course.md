@@ -1,10 +1,10 @@
 # featurestoreorg/serverless-ml-course - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 132
+☋ Forks: 133
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/featurestoreorg/serverless-ml-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 294 | 133 | 
 | 2023-03-05 | 293 | 132 | 
 | 2023-03-04 | 292 | 131 | 
 | 2023-03-03 | 292 | 130 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 268 | 123 | 
 | 2023-02-07 | 268 | 123 | 
 | 2023-02-06 | 268 | 123 | 
-| 2023-02-05 | 268 | 122 | 
 

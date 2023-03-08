@@ -1,6 +1,6 @@
 # tribe29/ansible-collection-tribe29.checkmk - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 55 | 28 | 
 | 2023-03-06 | 55 | 28 | 
 | 2023-03-05 | 55 | 28 | 
 | 2023-03-03 | 55 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 51 | 28 | 
 | 2023-02-07 | 50 | 27 | 
 | 2023-02-06 | 50 | 26 | 
-| 2023-02-05 | 50 | 26 | 
 

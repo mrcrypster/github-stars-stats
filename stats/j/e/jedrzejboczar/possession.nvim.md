@@ -1,10 +1,10 @@
 # jedrzejboczar/possession.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 196
+★ Stars: 195
 
 [Open repository](https://github.com/jedrzejboczar/possession.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 195 | 5 | 
 | 2023-03-06 | 196 | 5 | 
 | 2023-03-04 | 196 | 5 | 
 | 2023-03-03 | 196 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 185 | 4 | 
 | 2023-02-07 | 185 | 4 | 
 | 2023-02-06 | 185 | 4 | 
-| 2023-02-05 | 183 | 4 | 
 

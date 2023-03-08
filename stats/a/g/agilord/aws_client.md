@@ -1,10 +1,10 @@
 # agilord/aws_client - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 69
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/agilord/aws_client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 183 | 69 | 
 | 2023-03-06 | 182 | 69 | 
 | 2023-03-05 | 182 | 69 | 
 | 2023-03-03 | 182 | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 178 | 68 | 
 | 2023-02-08 | 178 | 68 | 
 | 2023-02-07 | 178 | 68 | 
-| 2023-02-06 | 178 | 68 | 
 

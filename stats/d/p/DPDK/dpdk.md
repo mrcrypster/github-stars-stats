@@ -1,10 +1,10 @@
 # DPDK/dpdk - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 992
+☋ Forks: 991
 
-★ Stars: 2300
+★ Stars: 2301
 
 [Open repository](https://github.com/DPDK/dpdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 2301 | 991 | 
 | 2023-03-05 | 2300 | 992 | 
 | 2023-03-04 | 2297 | 992 | 
 | 2023-03-03 | 2296 | 992 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 2253 | 977 | 
 | 2023-02-07 | 2250 | 976 | 
 | 2023-02-06 | 2249 | 976 | 
-| 2023-02-05 | 2249 | 975 | 
 

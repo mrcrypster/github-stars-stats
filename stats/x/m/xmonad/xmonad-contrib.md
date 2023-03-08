@@ -1,6 +1,6 @@
 # xmonad/xmonad-contrib - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 516 | 262 | 
 | 2023-03-06 | 516 | 262 | 
 | 2023-03-05 | 516 | 262 | 
 | 2023-03-03 | 515 | 262 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 509 | 259 | 
 | 2023-02-07 | 509 | 259 | 
 | 2023-02-06 | 509 | 259 | 
-| 2023-02-05 | 508 | 259 | 
 

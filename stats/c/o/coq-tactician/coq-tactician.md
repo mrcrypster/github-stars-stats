@@ -1,10 +1,10 @@
 # coq-tactician/coq-tactician - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 7
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/coq-tactician/coq-tactician)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 41 | 7 | 
 | 2023-03-06 | 40 | 7 | 
 | 2023-03-04 | 40 | 7 | 
 | 2023-03-03 | 40 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 39 | 7 | 
 | 2023-02-08 | 39 | 7 | 
 | 2023-02-06 | 39 | 7 | 
-| 2023-02-05 | 39 | 7 | 
 

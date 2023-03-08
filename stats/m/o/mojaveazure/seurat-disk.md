@@ -1,10 +1,10 @@
 # mojaveazure/seurat-disk - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 38
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/mojaveazure/seurat-disk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 88 | 38 | 
 | 2023-03-06 | 87 | 38 | 
 | 2023-03-05 | 86 | 38 | 
 | 2023-03-04 | 86 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 84 | 35 | 
 | 2023-02-07 | 84 | 35 | 
 | 2023-02-06 | 84 | 35 | 
-| 2023-02-05 | 83 | 35 | 
 

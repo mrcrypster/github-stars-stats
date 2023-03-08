@@ -1,10 +1,10 @@
 # google-research/tuning_playbook - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1380
+☋ Forks: 1381
 
-★ Stars: 17007
+★ Stars: 17054
 
 [Open repository](https://github.com/google-research/tuning_playbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 17054 | 1381 | 
 | 2023-03-06 | 17007 | 1380 | 
 | 2023-03-05 | 16942 | 1369 | 
 | 2023-03-04 | 16895 | 1366 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-08 | 14976 | 1139 | 
 | 2023-02-07 | 14879 | 1126 | 
 | 2023-02-06 | 14702 | 1102 | 
-| 2023-02-05 | 14427 | 1068 | 
 

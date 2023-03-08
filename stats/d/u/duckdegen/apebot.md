@@ -1,6 +1,6 @@
 # duckdegen/apebot - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1194 | 441 | 
 | 2023-03-05 | 1194 | 441 | 
 | 2023-03-04 | 1194 | 441 | 
 | 2023-03-03 | 1194 | 441 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 1184 | 443 | 
 | 2023-02-07 | 1184 | 443 | 
 | 2023-02-06 | 1185 | 443 | 
-| 2023-02-05 | 1185 | 443 | 
 

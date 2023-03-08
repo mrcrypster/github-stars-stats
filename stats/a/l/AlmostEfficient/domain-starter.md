@@ -1,10 +1,10 @@
 # AlmostEfficient/domain-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
-☋ Forks: 350
+☋ Forks: 352
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/AlmostEfficient/domain-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 38 | 352 | 
 | 2023-03-05 | 37 | 350 | 
 | 2023-03-04 | 37 | 349 | 
 | 2023-03-03 | 37 | 349 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 37 | 344 | 
 | 2023-02-07 | 37 | 343 | 
 | 2023-02-06 | 37 | 342 | 
-| 2023-02-05 | 37 | 343 | 
 

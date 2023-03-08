@@ -1,10 +1,10 @@
 # rgerum/pylustrator - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 32
 
-★ Stars: 648
+★ Stars: 650
 
 [Open repository](https://github.com/rgerum/pylustrator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 650 | 32 | 
 | 2023-03-05 | 648 | 32 | 
 | 2023-03-04 | 648 | 32 | 
 | 2023-03-03 | 648 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-08 | 645 | 33 | 
 | 2023-02-07 | 645 | 33 | 
 | 2023-02-06 | 645 | 33 | 
-| 2023-02-05 | 644 | 33 | 
 

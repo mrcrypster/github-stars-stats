@@ -1,6 +1,6 @@
 # chrisbra/csv.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 05
+Stats updated on Mar 2023, 07
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-07 | 1160 | 60 | 
 | 2023-03-05 | 1160 | 60 | 
 | 2023-03-04 | 1159 | 59 | 
 | 2023-03-03 | 1160 | 59 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 05
 | 2023-02-09 | 1155 | 59 | 
 | 2023-02-07 | 1154 | 59 | 
 | 2023-02-06 | 1154 | 58 | 
-| 2023-02-05 | 1154 | 57 | 
 
