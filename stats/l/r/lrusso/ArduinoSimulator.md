@@ -1,8 +1,8 @@
 # lrusso/ArduinoSimulator - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 58 | 3 | 
 | 2023-03-07 | 58 | 2 | 
 | 2023-03-05 | 58 | 2 | 
 | 2023-03-04 | 58 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 57 | 2 | 
 | 2023-02-09 | 56 | 2 | 
 | 2023-02-08 | 55 | 2 | 
-| 2023-02-07 | 55 | 2 | 
 

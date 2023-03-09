@@ -1,6 +1,6 @@
 # OutOfTheVoid/AS3-8-bit-VM - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6 | 1 | 
 | 2023-03-07 | 6 | 1 | 
 | 2023-03-06 | 6 | 1 | 
 | 2023-03-05 | 6 | 1 | 

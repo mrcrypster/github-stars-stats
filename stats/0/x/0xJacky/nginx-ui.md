@@ -1,10 +1,10 @@
 # 0xJacky/nginx-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 34
 
-★ Stars: 253
+★ Stars: 259
 
 [Open repository](https://github.com/0xJacky/nginx-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 259 | 34 | 
 | 2023-03-07 | 253 | 34 | 
 | 2023-03-05 | 250 | 35 | 
 | 2023-03-04 | 247 | 35 | 

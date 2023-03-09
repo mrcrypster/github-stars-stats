@@ -1,10 +1,10 @@
 # Mahmud0808/Iconify - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 424
+★ Stars: 427
 
 [Open repository](https://github.com/Mahmud0808/Iconify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 427 | 24 | 
 | 2023-03-07 | 424 | 25 | 
 | 2023-03-05 | 423 | 25 | 
 | 2023-03-04 | 420 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 346 | 15 | 
 | 2023-02-08 | 342 | 14 | 
 | 2023-02-07 | 337 | 14 | 
-| 2023-02-06 | 334 | 14 | 
 

@@ -1,6 +1,6 @@
 # EthanHuntDeng/gua-area - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 46 | 70 | 
 | 2023-03-07 | 46 | 70 | 
 | 2023-03-05 | 46 | 70 | 
 | 2023-03-04 | 46 | 70 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 46 | 70 | 
 | 2023-02-09 | 46 | 70 | 
 | 2023-02-07 | 46 | 70 | 
-| 2023-02-06 | 46 | 70 | 
 

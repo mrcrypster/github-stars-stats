@@ -1,6 +1,6 @@
 # LandmakTechnology/terraform-Infra-project - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2 | 90 | 
 | 2023-03-07 | 2 | 90 | 
 | 2023-03-05 | 2 | 90 | 
 | 2023-03-04 | 2 | 90 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1 | 84 | 
 | 2023-02-08 | - | 84 | 
 | 2023-02-07 | - | 84 | 
-| 2023-02-06 | - | 82 | 
 

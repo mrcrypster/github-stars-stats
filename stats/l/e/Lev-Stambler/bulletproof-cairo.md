@@ -1,6 +1,6 @@
 # Lev-Stambler/bulletproof-cairo - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 33 | 3 | 
 | 2023-03-07 | 33 | 3 | 
 | 2023-03-06 | 33 | 3 | 
 | 2023-03-04 | 33 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 33 | 3 | 
 | 2023-02-08 | 33 | 3 | 
 | 2023-02-07 | 33 | 3 | 
-| 2023-02-06 | 33 | 3 | 
 

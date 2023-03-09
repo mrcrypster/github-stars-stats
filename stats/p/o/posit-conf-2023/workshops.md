@@ -1,6 +1,6 @@
 # posit-conf-2023/workshops - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 24 | 17 | 
 | 2023-03-07 | 24 | 17 | 
 | 2023-03-06 | 24 | 17 | 
 | 2023-03-05 | 24 | 17 | 

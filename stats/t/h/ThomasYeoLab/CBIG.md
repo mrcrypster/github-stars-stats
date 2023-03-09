@@ -1,10 +1,10 @@
 # ThomasYeoLab/CBIG - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 341
+☋ Forks: 343
 
-★ Stars: 428
+★ Stars: 430
 
 [Open repository](https://github.com/ThomasYeoLab/CBIG)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 430 | 343 | 
 | 2023-03-07 | 428 | 341 | 
 | 2023-03-06 | 428 | 341 | 
 | 2023-03-04 | 429 | 341 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 421 | 334 | 
 | 2023-02-08 | 421 | 333 | 
 | 2023-02-07 | 421 | 333 | 
-| 2023-02-06 | 421 | 333 | 
 

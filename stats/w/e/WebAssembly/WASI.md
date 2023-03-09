@@ -1,10 +1,10 @@
 # WebAssembly/WASI - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 217
 
-★ Stars: 3535
+★ Stars: 3538
 
 [Open repository](https://github.com/WebAssembly/WASI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3538 | 217 | 
 | 2023-03-07 | 3535 | 217 | 
 | 2023-03-05 | 3530 | 217 | 
 | 2023-03-04 | 3529 | 216 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 3487 | 213 | 
 | 2023-02-09 | 3483 | 212 | 
 | 2023-02-08 | 3479 | 212 | 
-| 2023-02-07 | 3477 | 212 | 
 

@@ -1,10 +1,10 @@
 # diego3g/microservices-base-decode - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 91
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/diego3g/microservices-base-decode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 170 | 91 | 
 | 2023-03-06 | 169 | 91 | 
 | 2023-03-05 | 169 | 91 | 
 | 2023-03-04 | 169 | 91 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 168 | 90 | 
 | 2023-02-09 | 168 | 90 | 
 | 2023-02-08 | 168 | 90 | 
-| 2023-02-07 | 168 | 90 | 
 

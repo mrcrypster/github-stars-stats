@@ -1,10 +1,10 @@
 # PLSysSec/FaCT - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/PLSysSec/FaCT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 189 | 12 | 
 | 2023-03-06 | 188 | 12 | 
 | 2023-03-05 | 188 | 12 | 
 | 2023-03-04 | 188 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 188 | 12 | 
 | 2023-02-08 | 188 | 12 | 
 | 2023-02-07 | 188 | 12 | 
-| 2023-02-06 | 189 | 12 | 
 

@@ -1,10 +1,10 @@
 # jakkra/ZSWatch - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 1153
+★ Stars: 1156
 
 [Open repository](https://github.com/jakkra/ZSWatch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1156 | 46 | 
 | 2023-03-06 | 1153 | 45 | 
 | 2023-03-05 | 1148 | 45 | 
 | 2023-03-04 | 1146 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 1068 | 38 | 
 | 2023-02-08 | 1057 | 37 | 
 | 2023-02-07 | 1031 | 36 | 
-| 2023-02-06 | 995 | 35 | 
 

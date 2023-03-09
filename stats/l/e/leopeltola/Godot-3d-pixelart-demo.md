@@ -1,10 +1,10 @@
 # leopeltola/Godot-3d-pixelart-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 60
+★ Stars: 62
 
 [Open repository](https://github.com/leopeltola/Godot-3d-pixelart-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 62 | 2 | 
 | 2023-03-07 | 60 | 1 | 
 | 2023-03-06 | 54 | 1 | 
 | 2023-03-05 | 51 | 1 | 

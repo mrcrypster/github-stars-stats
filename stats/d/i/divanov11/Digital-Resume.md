@@ -1,10 +1,10 @@
 # divanov11/Digital-Resume - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 55
 
-★ Stars: 89
+★ Stars: 88
 
 [Open repository](https://github.com/divanov11/Digital-Resume)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 88 | 55 | 
 | 2023-03-07 | 89 | 55 | 
 | 2023-03-05 | 87 | 54 | 
 | 2023-03-04 | 87 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 85 | 53 | 
 | 2023-02-08 | 85 | 53 | 
 | 2023-02-07 | 84 | 53 | 
-| 2023-02-06 | 84 | 52 | 
 

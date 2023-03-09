@@ -1,10 +1,10 @@
 # evadne/shun - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/evadne/shun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 72 | 2 | 
 | 2023-03-06 | 71 | 2 | 
 | 2023-03-05 | 71 | 2 | 
 | 2023-03-04 | 71 | 2 | 

@@ -1,6 +1,6 @@
 # ART3MISTICAL/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 44 | 2 | 
 | 2023-03-07 | 44 | 2 | 
 

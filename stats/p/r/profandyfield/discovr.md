@@ -1,6 +1,6 @@
 # profandyfield/discovr - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 100 | 17 | 
 | 2023-03-06 | 100 | 17 | 
 | 2023-03-05 | 100 | 17 | 
 | 2023-03-04 | 100 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 97 | 16 | 
 | 2023-02-09 | 97 | 16 | 
 | 2023-02-08 | 97 | 16 | 
-| 2023-02-06 | 97 | 16 | 
 

@@ -1,6 +1,6 @@
 # TASEmulators/BizHawk-Prereqs - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 109 | 22 | 
 | 2023-03-07 | 109 | 22 | 
 | 2023-03-06 | 109 | 22 | 
 | 2023-03-05 | 109 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 110 | 22 | 
 | 2023-02-08 | 110 | 22 | 
 | 2023-02-07 | 110 | 22 | 
-| 2023-02-06 | 109 | 22 | 
 

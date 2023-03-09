@@ -1,10 +1,10 @@
 # rust-lang-cn/rustlings-cn - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/rust-lang-cn/rustlings-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 87 | 7 | 
 | 2023-03-07 | 86 | 7 | 
 | 2023-03-06 | 87 | 7 | 
 | 2023-03-04 | 86 | 7 | 

@@ -1,10 +1,10 @@
 # aFarkas/lazysizes - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1771
 
-★ Stars: 16760
+★ Stars: 16763
 
 [Open repository](https://github.com/aFarkas/lazysizes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 16763 | 1771 | 
 | 2023-03-07 | 16760 | 1771 | 
 | 2023-03-05 | 16758 | 1770 | 
 | 2023-03-04 | 16758 | 1770 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 16706 | 1764 | 
 | 2023-02-09 | 16704 | 1763 | 
 | 2023-02-07 | 16697 | 1762 | 
-| 2023-02-06 | 16694 | 1762 | 
 

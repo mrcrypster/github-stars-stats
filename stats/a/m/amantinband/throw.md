@@ -1,10 +1,10 @@
 # amantinband/throw - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 63
 
-★ Stars: 916
+★ Stars: 917
 
 [Open repository](https://github.com/amantinband/throw)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 917 | 63 | 
 | 2023-03-06 | 916 | 63 | 
 | 2023-03-05 | 915 | 63 | 
 | 2023-03-03 | 913 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 890 | 61 | 
 | 2023-02-08 | 890 | 60 | 
 | 2023-02-07 | 891 | 60 | 
-| 2023-02-06 | 891 | 60 | 
 

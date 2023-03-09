@@ -1,6 +1,6 @@
 # Cactus-proj/A-Philosophy-of-Software-Design-zh - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 207 | 164 | 
 | 2023-03-06 | 207 | 164 | 
 | 2023-03-05 | 204 | 164 | 
 | 2023-03-04 | 203 | 164 | 

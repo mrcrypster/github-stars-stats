@@ -1,6 +1,6 @@
 # alexandrubagu/gcs_signed_url - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 21 | 9 | 
 | 2023-03-07 | 21 | 9 | 
 | 2023-03-06 | 21 | 9 | 
 | 2023-03-04 | 21 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 20 | 9 | 
 | 2023-02-08 | 20 | 9 | 
 | 2023-02-07 | 20 | 9 | 
-| 2023-02-06 | 20 | 9 | 
 

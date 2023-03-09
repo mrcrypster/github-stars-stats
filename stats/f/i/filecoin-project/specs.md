@@ -1,6 +1,6 @@
 # filecoin-project/specs - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 361 | 184 | 
 | 2023-03-07 | 361 | 184 | 
 | 2023-03-06 | 361 | 184 | 
 | 2023-03-05 | 361 | 184 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 360 | 181 | 
 | 2023-02-08 | 359 | 181 | 
 | 2023-02-07 | 359 | 181 | 
-| 2023-02-06 | 359 | 180 | 
 

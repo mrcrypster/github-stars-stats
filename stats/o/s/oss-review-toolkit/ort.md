@@ -1,10 +1,10 @@
 # oss-review-toolkit/ort - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 224
 
-★ Stars: 1087
+★ Stars: 1088
 
 [Open repository](https://github.com/oss-review-toolkit/ort)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1088 | 224 | 
 | 2023-03-07 | 1087 | 224 | 
 | 2023-03-06 | 1087 | 223 | 
 | 2023-03-04 | 1086 | 223 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1052 | 219 | 
 | 2023-02-08 | 1051 | 219 | 
 | 2023-02-07 | 1050 | 219 | 
-| 2023-02-06 | 1046 | 218 | 
 

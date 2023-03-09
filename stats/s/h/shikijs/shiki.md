@@ -1,10 +1,10 @@
 # shikijs/shiki - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 195
 
-★ Stars: 4846
+★ Stars: 4860
 
 [Open repository](https://github.com/shikijs/shiki)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4860 | 195 | 
+| 2023-03-08 | 4859 | 195 | 
 | 2023-03-07 | 4846 | 195 | 
 | 2023-03-06 | 4729 | 192 | 
 | 2023-03-05 | 4726 | 191 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 4564 | 189 | 
 | 2023-02-08 | 4559 | 189 | 
 | 2023-02-07 | 4550 | 189 | 
-| 2023-02-06 | 4548 | 188 | 
 

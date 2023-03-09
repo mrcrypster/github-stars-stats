@@ -1,6 +1,6 @@
 # WilliamStaudenmeier/Kodama - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 95 | 215 | 
 | 2023-03-06 | 95 | 215 | 
 | 2023-03-05 | 95 | 215 | 
 | 2023-03-04 | 95 | 215 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 94 | 215 | 
 | 2023-02-09 | 94 | 215 | 
 | 2023-02-08 | 93 | 215 | 
-| 2023-02-06 | 93 | 215 | 
 

@@ -1,10 +1,10 @@
 # WilsonChen003/HDLGen - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/WilsonChen003/HDLGen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 42 | 11 | 
 | 2023-03-06 | 41 | 11 | 
 | 2023-03-05 | 40 | 11 | 
 | 2023-03-04 | 40 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 27 | 8 | 
 | 2023-02-08 | 27 | 8 | 
 | 2023-02-07 | 27 | 8 | 
-| 2023-02-06 | 27 | 8 | 
 

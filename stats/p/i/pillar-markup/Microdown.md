@@ -1,6 +1,6 @@
 # pillar-markup/Microdown - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 28 | 22 | 
 | 2023-03-07 | 28 | 22 | 
 | 2023-03-05 | 28 | 22 | 
 | 2023-03-04 | 28 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 28 | 21 | 
 | 2023-02-08 | 28 | 21 | 
 | 2023-02-07 | 28 | 21 | 
-| 2023-02-06 | 28 | 21 | 
 

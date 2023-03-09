@@ -1,10 +1,10 @@
 # fltk-rs/fltk-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 86
 
-★ Stars: 1117
+★ Stars: 1119
 
 [Open repository](https://github.com/fltk-rs/fltk-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1119 | 86 | 
 | 2023-03-07 | 1117 | 86 | 
 | 2023-03-06 | 1116 | 86 | 
 | 2023-03-05 | 1115 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1097 | 83 | 
 | 2023-02-09 | 1096 | 83 | 
 | 2023-02-07 | 1096 | 83 | 
-| 2023-02-06 | 1097 | 83 | 
 

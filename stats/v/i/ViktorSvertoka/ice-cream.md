@@ -1,10 +1,10 @@
 # ViktorSvertoka/ice-cream - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/ViktorSvertoka/ice-cream)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 64 | - | 
 | 2023-03-07 | 63 | - | 
 | 2023-03-06 | 61 | - | 
 | 2023-03-04 | 61 | - | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 17 | - | 
 | 2023-02-08 | 17 | - | 
 | 2023-02-07 | 17 | - | 
-| 2023-02-06 | 17 | - | 
 

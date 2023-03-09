@@ -1,10 +1,10 @@
 # lwouis/alt-tab-macos - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 210
 
-★ Stars: 6903
+★ Stars: 6913
 
 [Open repository](https://github.com/lwouis/alt-tab-macos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6913 | 210 | 
 | 2023-03-06 | 6903 | 210 | 
 | 2023-03-05 | 6900 | 210 | 
 | 2023-03-04 | 6891 | 210 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 6761 | 202 | 
 | 2023-02-08 | 6754 | 202 | 
 | 2023-02-07 | 6742 | 200 | 
-| 2023-02-06 | 6735 | 200 | 
 

@@ -1,10 +1,10 @@
 # sashabaranov/go-gpt3 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 190
+☋ Forks: 207
 
-★ Stars: 1396
+★ Stars: 1524
 
 [Open repository](https://github.com/sashabaranov/go-gpt3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1524 | 207 | 
 | 2023-03-07 | 1396 | 190 | 
 | 2023-03-05 | 1204 | 176 | 
 | 2023-03-04 | 1099 | 160 | 

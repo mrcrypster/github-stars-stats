@@ -1,8 +1,8 @@
 # code-423n4/2022-05-velodrome - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 8 | 5 | 
 | 2023-03-07 | 8 | 4 | 
 | 2023-03-05 | 8 | 4 | 
 | 2023-03-04 | 8 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 9 | 4 | 
 | 2023-02-09 | 9 | 4 | 
 | 2023-02-07 | 9 | 4 | 
-| 2023-02-06 | 9 | 4 | 
 

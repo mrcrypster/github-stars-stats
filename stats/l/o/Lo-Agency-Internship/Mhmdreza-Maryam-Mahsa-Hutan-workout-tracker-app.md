@@ -1,6 +1,6 @@
 # Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | - | 4 | 
 | 2023-03-07 | - | 4 | 
 | 2023-03-06 | - | 4 | 
 | 2023-03-05 | - | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | - | 4 | 
 | 2023-02-09 | - | 4 | 
 | 2023-02-07 | - | 4 | 
-| 2023-02-06 | - | 4 | 
 

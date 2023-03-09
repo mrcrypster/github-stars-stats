@@ -1,6 +1,6 @@
 # heshamerfan97/flutter_google_maps_example - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 69 | 19 | 
 | 2023-03-06 | 69 | 19 | 
 | 2023-03-05 | 69 | 19 | 
 | 2023-03-04 | 69 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 69 | 19 | 
 | 2023-02-09 | 69 | 19 | 
 | 2023-02-08 | 69 | 19 | 
-| 2023-02-07 | 69 | 19 | 
 

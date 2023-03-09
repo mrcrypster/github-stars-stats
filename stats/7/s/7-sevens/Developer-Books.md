@@ -1,10 +1,10 @@
 # 7-sevens/Developer-Books - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1368
+☋ Forks: 1372
 
-★ Stars: 3569
+★ Stars: 3573
 
 [Open repository](https://github.com/7-sevens/Developer-Books)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3573 | 1372 | 
 | 2023-03-07 | 3569 | 1368 | 
 | 2023-03-06 | 3564 | 1365 | 
 | 2023-03-04 | 3561 | 1365 | 

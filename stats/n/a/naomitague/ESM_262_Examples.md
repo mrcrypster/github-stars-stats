@@ -1,6 +1,6 @@
 # naomitague/ESM_262_Examples - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1 | 20 | 
 | 2023-03-07 | 1 | 20 | 
 | 2023-03-06 | 1 | 15 | 
 | 2023-03-04 | 1 | 15 | 

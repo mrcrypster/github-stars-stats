@@ -1,10 +1,10 @@
 # shen-yu/hexo-theme-ayer - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 293
 
-★ Stars: 1506
+★ Stars: 1510
 
 [Open repository](https://github.com/shen-yu/hexo-theme-ayer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1510 | 293 | 
 | 2023-03-07 | 1506 | 293 | 
 | 2023-03-05 | 1505 | 293 | 
 | 2023-03-04 | 1506 | 293 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1486 | 292 | 
 | 2023-02-08 | 1486 | 292 | 
 | 2023-02-07 | 1484 | 292 | 
-| 2023-02-06 | 1483 | 292 | 
 

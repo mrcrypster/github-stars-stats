@@ -1,6 +1,6 @@
 # LineageOS/android_device_oneplus_lemonadep - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 9 | 24 | 
 | 2023-03-07 | 9 | 24 | 
 | 2023-03-05 | 9 | 23 | 
 | 2023-03-04 | 9 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 9 | 21 | 
 | 2023-02-09 | 9 | 21 | 
 | 2023-02-08 | 9 | 21 | 
-| 2023-02-07 | 9 | 21 | 
 

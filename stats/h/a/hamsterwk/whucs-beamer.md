@@ -1,10 +1,10 @@
 # hamsterwk/whucs-beamer - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/hamsterwk/whucs-beamer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 27 | 7 | 
 | 2023-03-06 | 25 | 6 | 
 | 2023-03-05 | 24 | 6 | 
 | 2023-03-04 | 24 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 24 | 6 | 
 | 2023-02-09 | 24 | 6 | 
 | 2023-02-08 | 24 | 6 | 
-| 2023-02-06 | 24 | 6 | 
 

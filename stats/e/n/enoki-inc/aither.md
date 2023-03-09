@@ -1,6 +1,6 @@
 # enoki-inc/aither - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 113 | 2 | 
 | 2023-03-07 | 113 | 2 | 
 | 2023-03-06 | 113 | 2 | 
 | 2023-03-04 | 113 | 2 | 

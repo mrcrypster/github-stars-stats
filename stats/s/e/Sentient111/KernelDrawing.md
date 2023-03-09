@@ -1,6 +1,6 @@
 # Sentient111/KernelDrawing - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 74 | 25 | 
 | 2023-03-06 | 74 | 25 | 
 | 2023-03-05 | 74 | 25 | 
 | 2023-03-04 | 74 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 72 | 25 | 
 | 2023-02-09 | 71 | 25 | 
 | 2023-02-07 | 71 | 25 | 
-| 2023-02-06 | 71 | 25 | 
 

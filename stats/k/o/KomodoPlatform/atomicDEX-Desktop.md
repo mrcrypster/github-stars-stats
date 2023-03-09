@@ -1,10 +1,10 @@
 # KomodoPlatform/atomicDEX-Desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 177
 
-★ Stars: 221
+★ Stars: 220
 
 [Open repository](https://github.com/KomodoPlatform/atomicDEX-Desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 220 | 177 | 
 | 2023-03-06 | 221 | 177 | 
 | 2023-03-05 | 221 | 177 | 
 | 2023-03-04 | 222 | 176 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 220 | 172 | 
 | 2023-02-08 | 220 | 172 | 
 | 2023-02-07 | 220 | 172 | 
-| 2023-02-06 | 220 | 172 | 
 

@@ -1,10 +1,10 @@
 # Hannibal046/Awesome-LLM - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 39
 
-★ Stars: 399
+★ Stars: 410
 
 [Open repository](https://github.com/Hannibal046/Awesome-LLM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 410 | 39 | 
 | 2023-03-06 | 399 | 39 | 
 | 2023-03-05 | 396 | 39 | 
 | 2023-03-04 | 390 | 38 | 

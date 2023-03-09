@@ -1,6 +1,6 @@
 # anatolbogun/godot-smoother-node - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 38 | 1 | 
 | 2023-03-07 | 38 | 1 | 
 | 2023-03-06 | 38 | 1 | 
 | 2023-03-04 | 37 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 36 | 1 | 
 | 2023-02-09 | 36 | 1 | 
 | 2023-02-08 | 36 | 1 | 
-| 2023-02-07 | 36 | 1 | 
 

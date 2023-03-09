@@ -1,10 +1,10 @@
 # The-Run-Philosophy-Organization/run - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 2069
+☋ Forks: 2070
 
-★ Stars: 25330
+★ Stars: 25343
 
 [Open repository](https://github.com/The-Run-Philosophy-Organization/run)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 25343 | 2070 | 
 | 2023-03-07 | 25330 | 2069 | 
 | 2023-03-05 | 25317 | 2070 | 
 | 2023-03-04 | 25310 | 2070 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 25122 | 2061 | 
 | 2023-02-08 | 25117 | 2061 | 
 | 2023-02-07 | 25106 | 2061 | 
-| 2023-02-06 | 25072 | 2060 | 
 

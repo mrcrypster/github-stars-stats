@@ -1,10 +1,10 @@
 # github/explore - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 12241
+☋ Forks: 12256
 
-★ Stars: 3664
+★ Stars: 3669
 
 [Open repository](https://github.com/github/explore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3669 | 12256 | 
 | 2023-03-07 | 3664 | 12241 | 
 | 2023-03-06 | 3664 | 12238 | 
 | 2023-03-05 | 3663 | 12228 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 3630 | 12046 | 
 | 2023-02-08 | 3629 | 12038 | 
 | 2023-02-07 | 3625 | 12036 | 
-| 2023-02-06 | 3625 | 12036 | 
 

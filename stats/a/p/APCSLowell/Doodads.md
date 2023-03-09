@@ -1,6 +1,6 @@
 # APCSLowell/Doodads - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | - | 260 | 
 | 2023-03-07 | - | 260 | 
 | 2023-03-06 | - | 260 | 
 | 2023-03-05 | - | 260 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | - | 261 | 
 | 2023-02-08 | - | 261 | 
 | 2023-02-07 | - | 261 | 
-| 2023-02-06 | - | 261 | 
 

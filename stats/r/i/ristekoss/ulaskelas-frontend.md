@@ -1,10 +1,10 @@
 # ristekoss/ulaskelas-frontend - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 209
+★ Stars: 208
 
 [Open repository](https://github.com/ristekoss/ulaskelas-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 208 | - | 
 | 2023-03-07 | 209 | - | 
 | 2023-03-06 | 211 | - | 
 | 2023-03-04 | 211 | - | 

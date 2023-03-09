@@ -1,6 +1,6 @@
 # Flarewyre/SMBFunkMix - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 18 | 47 | 
 | 2023-03-07 | 18 | 47 | 
 | 2023-03-05 | 18 | 47 | 
 | 2023-03-04 | 18 | 47 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 18 | 48 | 
 | 2023-02-09 | 18 | 48 | 
 | 2023-02-08 | 18 | 48 | 
-| 2023-02-07 | 18 | 48 | 
 

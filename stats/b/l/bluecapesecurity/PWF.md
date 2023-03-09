@@ -1,6 +1,6 @@
 # bluecapesecurity/PWF - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 204 | 39 | 
 | 2023-03-07 | 204 | 39 | 
 | 2023-03-06 | 204 | 39 | 
 | 2023-03-05 | 204 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 196 | 38 | 
 | 2023-02-08 | 196 | 38 | 
 | 2023-02-07 | 196 | 38 | 
-| 2023-02-06 | 196 | 38 | 
 

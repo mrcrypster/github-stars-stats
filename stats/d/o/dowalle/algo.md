@@ -1,6 +1,6 @@
 # dowalle/algo - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 62 | 15 | 
 | 2023-03-07 | 62 | 15 | 
 | 2023-03-05 | 62 | 15 | 
 | 2023-03-04 | 62 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 60 | 15 | 
 | 2023-02-09 | 60 | 15 | 
 | 2023-02-08 | 60 | 15 | 
-| 2023-02-06 | 60 | 15 | 
 

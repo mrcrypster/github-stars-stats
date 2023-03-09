@@ -1,10 +1,10 @@
 # keithfancher/tvmv - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/keithfancher/tvmv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 15 | - | 
 | 2023-03-07 | 14 | - | 
 | 2023-03-06 | 14 | - | 
 | 2023-03-05 | 14 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 14 | - | 
 | 2023-02-09 | 14 | - | 
 | 2023-02-08 | 14 | - | 
-| 2023-02-06 | 13 | - | 
 

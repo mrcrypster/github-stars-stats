@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-active-record-querying-methods-lab - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1738
+☋ Forks: 1740
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 1740 | 
 | 2023-03-07 | - | 1738 | 
 | 2023-03-05 | - | 1737 | 
 | 2023-03-04 | - | 1736 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | - | 1622 | 
 | 2023-02-08 | - | 1622 | 
 | 2023-02-07 | - | 1616 | 
-| 2023-02-06 | - | 1613 | 
 

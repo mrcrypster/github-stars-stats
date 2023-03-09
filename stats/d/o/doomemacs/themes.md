@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 358
 
-★ Stars: 1947
+★ Stars: 1948
 
 [Open repository](https://github.com/doomemacs/themes)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 1947 | 358 | 
+| 2023-03-08 | 1948 | 358 | 
 | 2023-03-07 | 1947 | 358 | 
 | 2023-03-06 | 1947 | 358 | 
 | 2023-03-05 | 1947 | 359 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-09 | 1939 | 355 | 
 | 2023-02-08 | 1939 | 355 | 
 | 2023-02-07 | 1939 | 355 | 
-| 2023-02-06 | 1939 | 354 | 
 

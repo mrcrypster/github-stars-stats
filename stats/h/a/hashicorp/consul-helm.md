@@ -1,6 +1,6 @@
 # hashicorp/consul-helm - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 393
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 421 | 393 | 
 | 2023-03-06 | 421 | 393 | 
 | 2023-03-05 | 421 | 393 | 
 | 2023-03-04 | 421 | 393 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 421 | 394 | 
 | 2023-02-08 | 421 | 395 | 
 | 2023-02-07 | 421 | 395 | 
-| 2023-02-06 | 421 | 395 | 
 

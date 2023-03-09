@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 08
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/BL-MSCH-C220/Exercise-04c-Enemies)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | - | 32 | 
+| 2023-03-08 | 1 | 33 | 
 | 2023-03-07 | - | 28 | 
 | 2023-03-06 | - | 21 | 
 | 2023-03-05 | - | 15 | 

@@ -1,10 +1,10 @@
 # raywenderlich/swift-style-guide - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 2122
+☋ Forks: 2124
 
-★ Stars: 12568
+★ Stars: 12569
 
 [Open repository](https://github.com/raywenderlich/swift-style-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 12569 | 2124 | 
 | 2023-03-06 | 12568 | 2122 | 
 | 2023-03-05 | 12567 | 2122 | 
 | 2023-03-04 | 12565 | 2122 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 12521 | 2119 | 
 | 2023-02-08 | 12522 | 2119 | 
 | 2023-02-07 | 12520 | 2119 | 
-| 2023-02-06 | 12516 | 2117 | 
 

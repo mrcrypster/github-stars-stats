@@ -1,10 +1,10 @@
 # HVML/PurC - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 54
 
-★ Stars: 1057
+★ Stars: 1058
 
 [Open repository](https://github.com/HVML/PurC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1058 | 54 | 
 | 2023-03-07 | 1057 | 54 | 
 | 2023-03-06 | 1057 | 54 | 
 | 2023-03-04 | 1057 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1054 | 54 | 
 | 2023-02-08 | 1054 | 54 | 
 | 2023-02-07 | 1054 | 54 | 
-| 2023-02-06 | 1054 | 54 | 
 

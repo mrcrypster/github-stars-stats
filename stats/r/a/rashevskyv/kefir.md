@@ -1,6 +1,6 @@
 # rashevskyv/kefir - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 427 | 79 | 
 | 2023-03-06 | 427 | 79 | 
 | 2023-03-05 | 427 | 79 | 
 | 2023-03-04 | 427 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 422 | 80 | 
 | 2023-02-08 | 422 | 80 | 
 | 2023-02-07 | 422 | 80 | 
-| 2023-02-06 | 421 | 80 | 
 

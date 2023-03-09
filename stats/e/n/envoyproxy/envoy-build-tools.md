@@ -1,6 +1,6 @@
 # envoyproxy/envoy-build-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 36 | 54 | 
 | 2023-03-07 | 36 | 54 | 
 | 2023-03-06 | 36 | 54 | 
 | 2023-03-05 | 36 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 35 | 53 | 
 | 2023-02-08 | 35 | 53 | 
 | 2023-02-07 | 35 | 53 | 
-| 2023-02-06 | 35 | 53 | 
 

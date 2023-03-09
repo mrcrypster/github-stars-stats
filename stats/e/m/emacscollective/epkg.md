@@ -1,6 +1,6 @@
 # emacscollective/epkg - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 47 | 6 | 
 | 2023-03-07 | 47 | 6 | 
 | 2023-03-06 | 47 | 6 | 
 | 2023-03-05 | 47 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 47 | 6 | 
 | 2023-02-08 | 47 | 6 | 
 | 2023-02-07 | 47 | 6 | 
-| 2023-02-06 | 47 | 6 | 
 

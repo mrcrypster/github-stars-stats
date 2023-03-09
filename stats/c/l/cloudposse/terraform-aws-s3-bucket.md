@@ -1,8 +1,8 @@
 # cloudposse/terraform-aws-s3-bucket - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 256
+☋ Forks: 257
 
 ★ Stars: 138
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 138 | 257 | 
 | 2023-03-07 | 138 | 256 | 
 | 2023-03-05 | 138 | 254 | 
 | 2023-03-04 | 138 | 254 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 138 | 237 | 
 | 2023-02-09 | 138 | 237 | 
 | 2023-02-07 | 138 | 237 | 
-| 2023-02-06 | 138 | 236 | 
 

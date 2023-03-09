@@ -1,6 +1,6 @@
 # daddycocoaman/azbelt - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 108 | 4 | 
 | 2023-03-07 | 108 | 4 | 
 | 2023-03-05 | 108 | 4 | 
 | 2023-03-04 | 108 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 95 | 5 | 
 | 2023-02-08 | 95 | 5 | 
 | 2023-02-07 | 95 | 5 | 
-| 2023-02-06 | 92 | 5 | 
 

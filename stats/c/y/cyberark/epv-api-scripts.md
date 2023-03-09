@@ -1,8 +1,8 @@
 # cyberark/epv-api-scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 151
+☋ Forks: 152
 
 ★ Stars: 153
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 153 | 152 | 
 | 2023-03-07 | 153 | 151 | 
 | 2023-03-06 | 153 | 150 | 
 | 2023-03-05 | 153 | 150 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 147 | 147 | 
 | 2023-02-08 | 147 | 147 | 
 | 2023-02-07 | 147 | 146 | 
-| 2023-02-06 | 147 | 146 | 
 

@@ -1,10 +1,10 @@
 # meltingice/psd.js - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 371
 
-★ Stars: 2522
+★ Stars: 2523
 
 [Open repository](https://github.com/meltingice/psd.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2523 | 371 | 
 | 2023-03-06 | 2522 | 371 | 
 | 2023-03-05 | 2521 | 370 | 
 | 2023-03-03 | 2521 | 370 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 2509 | 371 | 
 | 2023-02-09 | 2509 | 371 | 
 | 2023-02-08 | 2508 | 371 | 
-| 2023-02-06 | 2509 | 371 | 
 

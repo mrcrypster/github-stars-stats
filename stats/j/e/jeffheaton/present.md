@@ -1,6 +1,6 @@
 # jeffheaton/present - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 163 | 124 | 
 | 2023-03-07 | 163 | 124 | 
 | 2023-03-05 | 163 | 124 | 
 | 2023-03-04 | 163 | 124 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 162 | 119 | 
 | 2023-02-08 | 161 | 119 | 
 | 2023-02-07 | 161 | 120 | 
-| 2023-02-06 | 161 | 120 | 
 

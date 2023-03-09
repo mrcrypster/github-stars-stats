@@ -1,6 +1,6 @@
 # JuliaCommunity/YouTubeVideoTimestamps - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 46 | 31 | 
 | 2023-03-07 | 46 | 31 | 
 | 2023-03-05 | 46 | 31 | 
 | 2023-03-04 | 46 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 43 | 31 | 
 | 2023-02-08 | 43 | 32 | 
 | 2023-02-07 | 43 | 32 | 
-| 2023-02-06 | 42 | 32 | 
 

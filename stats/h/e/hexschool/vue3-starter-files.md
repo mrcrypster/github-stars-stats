@@ -1,6 +1,6 @@
 # hexschool/vue3-starter-files - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 23 | 41 | 
 | 2023-03-07 | 23 | 41 | 
 | 2023-03-06 | 23 | 41 | 
 | 2023-03-05 | 23 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 23 | 39 | 
 | 2023-02-08 | 23 | 38 | 
 | 2023-02-07 | 23 | 37 | 
-| 2023-02-06 | 23 | 36 | 
 

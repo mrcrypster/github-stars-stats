@@ -1,10 +1,10 @@
 # straight-tamago/FileSwitcherX - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 133
+★ Stars: 131
 
 [Open repository](https://github.com/straight-tamago/FileSwitcherX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 131 | 5 | 
 | 2023-03-06 | 133 | 5 | 
 | 2023-03-05 | 132 | 5 | 
 | 2023-03-04 | 130 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 128 | 5 | 
 | 2023-02-09 | 126 | 5 | 
 | 2023-02-07 | 126 | 5 | 
-| 2023-02-06 | 124 | 5 | 
 

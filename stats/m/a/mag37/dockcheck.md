@@ -1,10 +1,10 @@
 # mag37/dockcheck - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 17
 
-★ Stars: 281
+★ Stars: 283
 
 [Open repository](https://github.com/mag37/dockcheck)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 283 | 17 | 
 | 2023-03-07 | 281 | 17 | 
 | 2023-03-05 | 280 | 17 | 
 | 2023-03-04 | 278 | 17 | 

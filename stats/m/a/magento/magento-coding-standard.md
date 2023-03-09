@@ -1,6 +1,6 @@
 # magento/magento-coding-standard - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 294 | 145 | 
 | 2023-03-07 | 294 | 145 | 
 | 2023-03-05 | 294 | 145 | 
 | 2023-03-04 | 294 | 145 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 295 | 142 | 
 | 2023-02-08 | 295 | 142 | 
 | 2023-02-07 | 295 | 142 | 
-| 2023-02-06 | 295 | 142 | 
 

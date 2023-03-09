@@ -1,10 +1,10 @@
 # AmadiMichael/UniswapV2-Huff - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/AmadiMichael/UniswapV2-Huff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 72 | 5 | 
 | 2023-03-07 | 71 | 5 | 
 | 2023-03-05 | 70 | 5 | 
 | 2023-03-04 | 70 | 5 | 

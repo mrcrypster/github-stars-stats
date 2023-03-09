@@ -1,10 +1,10 @@
 # lmarzen/esp32-weather-epd - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 689
+★ Stars: 694
 
 [Open repository](https://github.com/lmarzen/esp32-weather-epd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 694 | 30 | 
 | 2023-03-07 | 689 | 29 | 
 | 2023-03-05 | 663 | 27 | 
 | 2023-03-04 | 650 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 295 | 8 | 
 | 2023-02-08 | 294 | 8 | 
 | 2023-02-07 | 292 | 7 | 
-| 2023-02-06 | 292 | 7 | 
 

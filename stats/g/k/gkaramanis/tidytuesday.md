@@ -1,6 +1,6 @@
 # gkaramanis/tidytuesday - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 556 | 91 | 
 | 2023-03-06 | 556 | 91 | 
 | 2023-03-05 | 556 | 91 | 
 | 2023-03-04 | 556 | 91 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 551 | 90 | 
 | 2023-02-08 | 551 | 90 | 
 | 2023-02-07 | 551 | 90 | 
-| 2023-02-06 | 550 | 90 | 
 

@@ -1,10 +1,10 @@
 # mastercodeon314/KsDumper-11 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/mastercodeon314/KsDumper-11)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 90 | 24 | 
 | 2023-03-06 | 88 | 23 | 
 | 2023-03-05 | 88 | 23 | 
 | 2023-03-03 | 88 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 74 | 20 | 
 | 2023-02-08 | 73 | 20 | 
 | 2023-02-07 | 73 | 20 | 
-| 2023-02-06 | 73 | 19 | 
 

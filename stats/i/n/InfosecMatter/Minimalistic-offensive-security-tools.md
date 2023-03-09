@@ -1,6 +1,6 @@
 # InfosecMatter/Minimalistic-offensive-security-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 456 | 102 | 
 | 2023-03-07 | 456 | 102 | 
 | 2023-03-05 | 456 | 101 | 
 | 2023-03-04 | 456 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 447 | 101 | 
 | 2023-02-08 | 446 | 101 | 
 | 2023-02-07 | 446 | 101 | 
-| 2023-02-06 | 446 | 101 | 
 

@@ -1,6 +1,6 @@
 # eversinc33/SharpStartWebclient - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 48 | 9 | 
 | 2023-03-07 | 48 | 9 | 
 | 2023-03-06 | 49 | 9 | 
 | 2023-03-04 | 49 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 49 | 9 | 
 | 2023-02-09 | 44 | 9 | 
 | 2023-02-08 | 43 | 9 | 
-| 2023-02-07 | 42 | 9 | 
 

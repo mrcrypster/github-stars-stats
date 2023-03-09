@@ -1,10 +1,10 @@
 # NootInc/WhateverRed - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 9
 
-★ Stars: 249
+★ Stars: 272
 
 [Open repository](https://github.com/NootInc/WhateverRed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 272 | 9 | 
 | 2023-03-07 | 249 | 9 | 
 | 2023-03-06 | 246 | 9 | 
 | 2023-03-05 | 223 | 9 | 

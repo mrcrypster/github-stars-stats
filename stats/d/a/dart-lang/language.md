@@ -1,10 +1,10 @@
 # dart-lang/language - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 180
 
-★ Stars: 2194
+★ Stars: 2195
 
 [Open repository](https://github.com/dart-lang/language)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2195 | 180 | 
 | 2023-03-07 | 2194 | 180 | 
 | 2023-03-05 | 2194 | 180 | 
 | 2023-03-04 | 2194 | 180 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2164 | 174 | 
 | 2023-02-09 | 2164 | 174 | 
 | 2023-02-08 | 2156 | 173 | 
-| 2023-02-06 | 2150 | 173 | 
 

@@ -1,10 +1,10 @@
 # patchy631/machine-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 64
 
-★ Stars: 349
+★ Stars: 350
 
 [Open repository](https://github.com/patchy631/machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 350 | 64 | 
 | 2023-03-07 | 349 | 64 | 
 | 2023-03-06 | 348 | 64 | 
 

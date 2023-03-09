@@ -1,8 +1,8 @@
 # LandmakTechnology/terraform-eks - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 493
+☋ Forks: 495
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1 | 495 | 
 | 2023-03-07 | 1 | 493 | 
 | 2023-03-06 | 1 | 492 | 
 | 2023-03-05 | 1 | 492 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1 | 469 | 
 | 2023-02-08 | 1 | 469 | 
 | 2023-02-07 | 1 | 469 | 
-| 2023-02-06 | 1 | 469 | 
 

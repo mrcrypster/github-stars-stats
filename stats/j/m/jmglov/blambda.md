@@ -1,10 +1,10 @@
 # jmglov/blambda - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 58
+★ Stars: 60
 
 [Open repository](https://github.com/jmglov/blambda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 60 | 6 | 
 | 2023-03-07 | 58 | 6 | 
 | 2023-03-06 | 58 | 5 | 
 | 2023-03-04 | 56 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 48 | 3 | 
 | 2023-02-08 | 48 | 3 | 
 | 2023-02-07 | 48 | 3 | 
-| 2023-02-06 | 48 | 3 | 
 

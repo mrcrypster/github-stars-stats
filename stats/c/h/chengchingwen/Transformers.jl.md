@@ -1,6 +1,6 @@
 # chengchingwen/Transformers.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 391 | 53 | 
 | 2023-03-06 | 391 | 53 | 
 | 2023-03-05 | 391 | 53 | 
 | 2023-03-04 | 390 | 53 | 

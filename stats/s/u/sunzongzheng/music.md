@@ -1,6 +1,6 @@
 # sunzongzheng/music - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2176 | 318 | 
 | 2023-03-07 | 2176 | 318 | 
 | 2023-03-06 | 2176 | 318 | 
 | 2023-03-04 | 2175 | 318 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2164 | 321 | 
 | 2023-02-09 | 2163 | 321 | 
 | 2023-02-07 | 2160 | 321 | 
-| 2023-02-06 | 2159 | 321 | 
 

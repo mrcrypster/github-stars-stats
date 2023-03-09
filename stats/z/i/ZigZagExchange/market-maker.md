@@ -1,6 +1,6 @@
 # ZigZagExchange/market-maker - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 178 | 99 | 
 | 2023-03-07 | 178 | 99 | 
 | 2023-03-05 | 178 | 99 | 
 | 2023-03-04 | 178 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 165 | 95 | 
 | 2023-02-08 | 165 | 95 | 
 | 2023-02-07 | 165 | 95 | 
-| 2023-02-06 | 164 | 94 | 
 

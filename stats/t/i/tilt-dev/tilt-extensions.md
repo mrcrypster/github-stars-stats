@@ -1,6 +1,6 @@
 # tilt-dev/tilt-extensions - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 138 | 110 | 
 | 2023-03-07 | 138 | 110 | 
 | 2023-03-06 | 138 | 110 | 
 | 2023-03-05 | 138 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 132 | 108 | 
 | 2023-02-08 | 132 | 108 | 
 | 2023-02-07 | 131 | 107 | 
-| 2023-02-06 | 131 | 107 | 
 

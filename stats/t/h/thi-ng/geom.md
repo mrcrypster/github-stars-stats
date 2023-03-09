@@ -1,8 +1,8 @@
 # thi-ng/geom - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 79
+☋ Forks: 78
 
 ★ Stars: 906
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 906 | 78 | 
 | 2023-03-07 | 906 | 79 | 
 | 2023-03-06 | 906 | 79 | 
 | 2023-03-04 | 906 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 899 | 77 | 
 | 2023-02-08 | 899 | 77 | 
 | 2023-02-07 | 899 | 77 | 
-| 2023-02-06 | 899 | 77 | 
 

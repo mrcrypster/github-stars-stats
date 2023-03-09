@@ -1,10 +1,10 @@
 # llSourcell/ChatGPT_Clone - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 37
 
-★ Stars: 58
+★ Stars: 60
 
 [Open repository](https://github.com/llSourcell/ChatGPT_Clone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 60 | 37 | 
 | 2023-03-07 | 58 | 37 | 
 | 2023-03-05 | 55 | 35 | 
 | 2023-03-04 | 54 | 35 | 

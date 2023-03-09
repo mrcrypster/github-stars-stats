@@ -1,10 +1,10 @@
 # Marius321/Northwind-Dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Marius321/Northwind-Dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 18 | 1 | 
 | 2023-03-07 | 17 | 1 | 
 | 2023-03-05 | 16 | 1 | 
 | 2023-03-04 | 16 | 1 | 

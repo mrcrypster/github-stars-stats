@@ -1,8 +1,8 @@
 # Eonasdan/tempus-dominus - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 4485
+☋ Forks: 4484
 
 ★ Stars: 7068
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 7068 | 4484 | 
 | 2023-03-07 | 7068 | 4485 | 
 | 2023-03-06 | 7066 | 4484 | 
 | 2023-03-05 | 7065 | 4484 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 7065 | 4495 | 
 | 2023-02-08 | 7064 | 4495 | 
 | 2023-02-07 | 7065 | 4495 | 
-| 2023-02-06 | 7065 | 4496 | 
 

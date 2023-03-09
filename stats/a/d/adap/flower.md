@@ -1,10 +1,10 @@
 # adap/flower - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 453
+☋ Forks: 455
 
-★ Stars: 2067
+★ Stars: 2083
 
 [Open repository](https://github.com/adap/flower)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2083 | 455 | 
 | 2023-03-07 | 2067 | 453 | 
 | 2023-03-05 | 2063 | 451 | 
 | 2023-03-04 | 2061 | 450 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1938 | 431 | 
 | 2023-02-08 | 1935 | 429 | 
 | 2023-02-07 | 1932 | 428 | 
-| 2023-02-06 | 1929 | 427 | 
 

@@ -1,10 +1,10 @@
 # ntdevlabs/tiny11builder - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 50
+☋ Forks: 55
 
-★ Stars: 626
+★ Stars: 662
 
 [Open repository](https://github.com/ntdevlabs/tiny11builder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 662 | 55 | 
 | 2023-03-07 | 626 | 50 | 
 | 2023-03-06 | 617 | 49 | 
 | 2023-03-05 | 567 | 43 | 

@@ -1,10 +1,10 @@
 # honserver/honserver - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 19
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/honserver/honserver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 41 | 19 | 
 | 2023-03-07 | 40 | 19 | 
 | 2023-03-06 | 40 | 19 | 
 | 2023-03-05 | 40 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 39 | 19 | 
 | 2023-02-08 | 39 | 19 | 
 | 2023-02-07 | 39 | 19 | 
-| 2023-02-06 | 39 | 19 | 
 

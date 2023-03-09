@@ -1,10 +1,10 @@
 # piotrplenik/clean-code-php - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2165
 
-★ Stars: 11428
+★ Stars: 11430
 
 [Open repository](https://github.com/piotrplenik/clean-code-php)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 11430 | 2165 | 
 | 2023-03-07 | 11428 | 2165 | 
 | 2023-03-05 | 11428 | 2166 | 
 | 2023-03-04 | 11424 | 2165 | 

@@ -1,10 +1,10 @@
 # lh1me/hexo-theme-aomori - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 46
 
-★ Stars: 359
+★ Stars: 361
 
 [Open repository](https://github.com/lh1me/hexo-theme-aomori)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 361 | 46 | 
 | 2023-03-07 | 359 | 46 | 
 | 2023-03-06 | 360 | 47 | 
 | 2023-03-05 | 360 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 356 | 47 | 
 | 2023-02-08 | 356 | 47 | 
 | 2023-02-07 | 356 | 47 | 
-| 2023-02-06 | 356 | 46 | 
 

@@ -1,10 +1,10 @@
 # Azure/durabletask - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 245
 
-★ Stars: 1242
+★ Stars: 1243
 
 [Open repository](https://github.com/Azure/durabletask)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1243 | 245 | 
 | 2023-03-07 | 1242 | 245 | 
 | 2023-03-05 | 1241 | 245 | 
 | 2023-03-04 | 1242 | 245 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1232 | 244 | 
 | 2023-02-09 | 1232 | 244 | 
 | 2023-02-07 | 1230 | 243 | 
-| 2023-02-06 | 1230 | 243 | 
 

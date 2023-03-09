@@ -1,10 +1,10 @@
 # OTCv8/otclientv8 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 144
+☋ Forks: 143
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/OTCv8/otclientv8)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 207 | 143 | 
 | 2023-03-07 | 206 | 144 | 
 | 2023-03-06 | 206 | 144 | 
 | 2023-03-05 | 206 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 200 | 138 | 
 | 2023-02-08 | 200 | 138 | 
 | 2023-02-07 | 200 | 137 | 
-| 2023-02-06 | 200 | 137 | 
 

@@ -1,10 +1,10 @@
 # dotnet/razor - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 152
 
-★ Stars: 350
+★ Stars: 352
 
 [Open repository](https://github.com/dotnet/razor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 352 | 152 | 
 | 2023-03-07 | 350 | 152 | 
 | 2023-03-06 | 348 | 152 | 
 | 2023-03-04 | 348 | 152 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 337 | 145 | 
 | 2023-02-08 | 336 | 144 | 
 | 2023-02-07 | 336 | 145 | 
-| 2023-02-06 | 336 | 145 | 
 

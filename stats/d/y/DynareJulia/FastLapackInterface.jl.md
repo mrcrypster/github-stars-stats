@@ -1,10 +1,10 @@
 # DynareJulia/FastLapackInterface.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/DynareJulia/FastLapackInterface.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 23 | 8 | 
 | 2023-03-06 | 22 | 8 | 
 | 2023-03-05 | 22 | 8 | 
 | 2023-03-04 | 22 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 20 | 8 | 
 | 2023-02-08 | 20 | 8 | 
 | 2023-02-07 | 20 | 8 | 
-| 2023-02-06 | 20 | 8 | 
 

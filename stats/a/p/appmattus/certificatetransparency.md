@@ -1,10 +1,10 @@
 # appmattus/certificatetransparency - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/appmattus/certificatetransparency)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 85 | 21 | 
 | 2023-03-07 | 84 | 21 | 
 | 2023-03-06 | 84 | 21 | 
 | 2023-03-05 | 84 | 21 | 

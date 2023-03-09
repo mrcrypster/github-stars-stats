@@ -1,10 +1,10 @@
 # taoyage/react-mobile-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 35
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/taoyage/react-mobile-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 198 | 35 | 
 | 2023-03-07 | 197 | 35 | 
 | 2023-03-06 | 197 | 35 | 
 | 2023-03-04 | 199 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 199 | 35 | 
 | 2023-02-09 | 199 | 35 | 
 | 2023-02-07 | 199 | 35 | 
-| 2023-02-06 | 199 | 35 | 
 

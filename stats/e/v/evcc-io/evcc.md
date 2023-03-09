@@ -1,10 +1,10 @@
 # evcc-io/evcc - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 260
+☋ Forks: 261
 
-★ Stars: 1240
+★ Stars: 1246
 
 [Open repository](https://github.com/evcc-io/evcc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1246 | 261 | 
 | 2023-03-07 | 1240 | 260 | 
 | 2023-03-06 | 1237 | 260 | 
 | 2023-03-05 | 1223 | 259 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1165 | 243 | 
 | 2023-02-08 | 1161 | 242 | 
 | 2023-02-07 | 1157 | 242 | 
-| 2023-02-06 | 1156 | 242 | 
 

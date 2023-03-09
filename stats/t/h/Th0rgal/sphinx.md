@@ -1,10 +1,10 @@
 # Th0rgal/sphinx - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/Th0rgal/sphinx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 26 | 1 | 
 | 2023-03-07 | 25 | 1 | 
 | 2023-03-06 | 25 | 1 | 
 | 2023-03-04 | 25 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 24 | 1 | 
 | 2023-02-09 | 24 | 1 | 
 | 2023-02-08 | 24 | 1 | 
-| 2023-02-06 | 24 | 1 | 
 

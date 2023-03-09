@@ -1,6 +1,6 @@
 # aead/chacha20 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 59 | 20 | 
 | 2023-03-07 | 59 | 20 | 
 | 2023-03-06 | 59 | 20 | 
 | 2023-03-05 | 59 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 57 | 20 | 
 | 2023-02-08 | 57 | 20 | 
 | 2023-02-07 | 57 | 20 | 
-| 2023-02-06 | 57 | 20 | 
 

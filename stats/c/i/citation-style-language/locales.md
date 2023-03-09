@@ -1,10 +1,10 @@
 # citation-style-language/locales - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 188
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/citation-style-language/locales)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 112 | 188 | 
 | 2023-03-07 | 111 | 188 | 
 | 2023-03-06 | 111 | 188 | 
 | 2023-03-05 | 111 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 110 | 186 | 
 | 2023-02-08 | 110 | 186 | 
 | 2023-02-07 | 110 | 186 | 
-| 2023-02-06 | 110 | 186 | 
 

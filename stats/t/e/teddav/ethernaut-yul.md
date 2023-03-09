@@ -1,10 +1,10 @@
 # teddav/ethernaut-yul - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/teddav/ethernaut-yul)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 23 | 1 | 
 | 2023-03-07 | 22 | 1 | 
 

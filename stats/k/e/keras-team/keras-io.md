@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 08
 
-☋ Forks: 1768
+☋ Forks: 1769
 
-★ Stars: 2133
+★ Stars: 2135
 
 [Open repository](https://github.com/keras-team/keras-io)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 2133 | 1768 | 
+| 2023-03-08 | 2135 | 1769 | 
 | 2023-03-07 | 2134 | 1768 | 
 | 2023-03-06 | 2134 | 1767 | 
 | 2023-03-05 | 2132 | 1765 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-09 | 2090 | 1732 | 
 | 2023-02-08 | 2088 | 1729 | 
 | 2023-02-07 | 2081 | 1723 | 
-| 2023-02-06 | 2081 | 1722 | 
 

@@ -1,8 +1,8 @@
 # microsoft/SDN - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 544
+☋ Forks: 545
 
 ★ Stars: 442
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 442 | 545 | 
 | 2023-03-07 | 442 | 544 | 
 | 2023-03-06 | 442 | 544 | 
 | 2023-03-05 | 442 | 544 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 440 | 542 | 
 | 2023-02-08 | 440 | 542 | 
 | 2023-02-07 | 440 | 542 | 
-| 2023-02-06 | 440 | 542 | 
 

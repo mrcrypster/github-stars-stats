@@ -1,6 +1,6 @@
 # TonyBrobston/yet-another-smart-vent - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 385 | 12 | 
 | 2023-03-06 | 385 | 12 | 
 | 2023-03-05 | 385 | 12 | 
 | 2023-03-04 | 385 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 382 | 12 | 
 | 2023-02-09 | 382 | 12 | 
 | 2023-02-08 | 382 | 12 | 
-| 2023-02-06 | 381 | 12 | 
 

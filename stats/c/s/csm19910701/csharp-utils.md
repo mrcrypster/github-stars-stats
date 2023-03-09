@@ -1,6 +1,6 @@
 # csm19910701/csharp-utils - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 103 | 59 | 
 | 2023-03-07 | 103 | 59 | 
 | 2023-03-06 | 103 | 59 | 
 | 2023-03-04 | 103 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 99 | 58 | 
 | 2023-02-08 | 99 | 58 | 
 | 2023-02-07 | 99 | 58 | 
-| 2023-02-06 | 99 | 58 | 
 

@@ -1,8 +1,8 @@
 # open-telemetry/opentelemetry-specification - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 825
+☋ Forks: 826
 
 ★ Stars: 3135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3135 | 826 | 
 | 2023-03-07 | 3135 | 825 | 
 | 2023-03-06 | 3130 | 820 | 
 | 2023-03-05 | 3130 | 820 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 3072 | 809 | 
 | 2023-02-08 | 3068 | 809 | 
 | 2023-02-07 | 3068 | 808 | 
-| 2023-02-06 | 3064 | 807 | 
 

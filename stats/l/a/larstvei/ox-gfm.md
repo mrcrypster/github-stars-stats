@@ -1,6 +1,6 @@
 # larstvei/ox-gfm - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 200 | 37 | 
 | 2023-03-07 | 200 | 37 | 
 | 2023-03-06 | 200 | 37 | 
 | 2023-03-04 | 200 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 198 | 37 | 
 | 2023-02-08 | 198 | 37 | 
 | 2023-02-07 | 198 | 37 | 
-| 2023-02-06 | 198 | 37 | 
 

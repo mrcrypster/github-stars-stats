@@ -1,6 +1,6 @@
 # eni9889/TagLib-ObjC - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6 | 6 | 
 | 2023-03-07 | 6 | 6 | 
 | 2023-03-06 | 6 | 6 | 
 | 2023-03-05 | 6 | 6 | 

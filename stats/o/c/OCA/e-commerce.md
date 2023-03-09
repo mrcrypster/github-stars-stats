@@ -1,6 +1,6 @@
 # OCA/e-commerce - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 425
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 131 | 425 | 
 | 2023-03-07 | 131 | 425 | 
 | 2023-03-05 | 131 | 425 | 
 | 2023-03-04 | 131 | 425 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 129 | 423 | 
 | 2023-02-08 | 129 | 421 | 
 | 2023-02-07 | 129 | 421 | 
-| 2023-02-06 | 129 | 421 | 
 

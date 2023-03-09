@@ -1,10 +1,10 @@
 # MohsenAbrishami/stethoscope - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 179
+★ Stars: 185
 
 [Open repository](https://github.com/MohsenAbrishami/stethoscope)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 185 | 4 | 
 | 2023-03-07 | 179 | 4 | 
 | 2023-03-05 | 177 | 4 | 
 | 2023-03-04 | 178 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 161 | 2 | 
 | 2023-02-09 | 160 | 2 | 
 | 2023-02-07 | 157 | 2 | 
-| 2023-02-06 | 156 | 2 | 
 

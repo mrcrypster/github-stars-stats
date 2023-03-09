@@ -1,10 +1,10 @@
 # mjbrown/umn_simaudio - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/mjbrown/umn_simaudio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 8 | 4 | 
 | 2023-03-07 | 7 | 4 | 
 | 2023-03-06 | 7 | 4 | 
 | 2023-03-05 | 7 | 4 | 

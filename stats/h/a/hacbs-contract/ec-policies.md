@@ -1,6 +1,6 @@
 # hacbs-contract/ec-policies - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6 | 18 | 
 | 2023-03-07 | 6 | 18 | 
 | 2023-03-05 | 6 | 18 | 
 | 2023-03-04 | 6 | 18 | 

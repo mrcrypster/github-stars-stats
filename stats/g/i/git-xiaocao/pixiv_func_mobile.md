@@ -1,6 +1,6 @@
 # git-xiaocao/pixiv_func_mobile - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 447 | 26 | 
 | 2023-03-07 | 447 | 26 | 
 | 2023-03-06 | 446 | 26 | 
 | 2023-03-05 | 447 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 389 | 25 | 
 | 2023-02-08 | 390 | 25 | 
 | 2023-02-07 | 388 | 25 | 
-| 2023-02-06 | 388 | 25 | 
 

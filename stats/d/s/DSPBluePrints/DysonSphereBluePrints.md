@@ -1,10 +1,10 @@
 # DSPBluePrints/DysonSphereBluePrints - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 39
 
-★ Stars: 94
+★ Stars: 93
 
 [Open repository](https://github.com/DSPBluePrints/DysonSphereBluePrints)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 93 | 39 | 
 | 2023-03-06 | 94 | 39 | 
 | 2023-03-05 | 94 | 40 | 
 | 2023-03-04 | 93 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 82 | 36 | 
 | 2023-02-09 | 82 | 35 | 
 | 2023-02-07 | 81 | 35 | 
-| 2023-02-06 | 79 | 35 | 
 

@@ -1,6 +1,6 @@
 # datastax/spark-cassandra-connector - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 913
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1900 | 913 | 
 | 2023-03-07 | 1900 | 913 | 
 | 2023-03-06 | 1899 | 913 | 
 | 2023-03-05 | 1900 | 914 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1900 | 910 | 
 | 2023-02-08 | 1900 | 910 | 
 | 2023-02-07 | 1900 | 910 | 
-| 2023-02-06 | 1899 | 910 | 
 

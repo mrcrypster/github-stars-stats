@@ -1,10 +1,10 @@
 # microfeed/microfeed - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 410
+☋ Forks: 411
 
-★ Stars: 2363
+★ Stars: 2366
 
 [Open repository](https://github.com/microfeed/microfeed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2366 | 411 | 
 | 2023-03-06 | 2363 | 410 | 
 | 2023-03-05 | 2361 | 408 | 
 | 2023-03-04 | 2358 | 406 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 2152 | 343 | 
 | 2023-02-09 | 2147 | 342 | 
 | 2023-02-08 | 2145 | 338 | 
-| 2023-02-06 | 2137 | 338 | 
 

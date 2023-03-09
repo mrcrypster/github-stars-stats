@@ -1,10 +1,10 @@
 # scipy-conference/scipy_proceedings - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 429
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/scipy-conference/scipy_proceedings)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 204 | 429 | 
 | 2023-03-06 | 203 | 429 | 
 | 2023-03-05 | 203 | 429 | 
 | 2023-03-04 | 203 | 429 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 200 | 430 | 
 | 2023-02-09 | 200 | 430 | 
 | 2023-02-07 | 200 | 430 | 
-| 2023-02-06 | 200 | 430 | 
 

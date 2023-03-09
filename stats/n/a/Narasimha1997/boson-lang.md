@@ -1,10 +1,10 @@
 # Narasimha1997/boson-lang - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 103
+★ Stars: 102
 
 [Open repository](https://github.com/Narasimha1997/boson-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 102 | 5 | 
 | 2023-03-07 | 103 | 5 | 
 | 2023-03-06 | 103 | 5 | 
 | 2023-03-04 | 103 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 102 | 5 | 
 | 2023-02-08 | 102 | 5 | 
 | 2023-02-07 | 102 | 5 | 
-| 2023-02-06 | 102 | 5 | 
 

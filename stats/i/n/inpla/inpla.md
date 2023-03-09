@@ -1,10 +1,10 @@
 # inpla/inpla - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/inpla/inpla)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 72 | 4 | 
 | 2023-03-06 | 71 | 4 | 
 | 2023-03-05 | 71 | 4 | 
 | 2023-03-04 | 71 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 61 | 4 | 
 | 2023-02-09 | 60 | 4 | 
 | 2023-02-07 | 60 | 4 | 
-| 2023-02-06 | 60 | 4 | 
 

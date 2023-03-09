@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 40
 
-★ Stars: 309
+★ Stars: 312
 
 [Open repository](https://github.com/d3ward/toolz)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 309 | 40 | 
+| 2023-03-08 | 312 | 40 | 
 | 2023-03-07 | 308 | 40 | 
 | 2023-03-06 | 304 | 40 | 
 | 2023-03-05 | 303 | 41 | 

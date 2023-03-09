@@ -1,10 +1,10 @@
 # tarsius/hl-todo - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 20
 
-★ Stars: 328
+★ Stars: 330
 
 [Open repository](https://github.com/tarsius/hl-todo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 330 | 20 | 
 | 2023-03-06 | 328 | 20 | 
 | 2023-03-05 | 328 | 20 | 
 | 2023-03-04 | 328 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 318 | 20 | 
 | 2023-02-08 | 318 | 20 | 
 | 2023-02-07 | 318 | 20 | 
-| 2023-02-06 | 318 | 20 | 
 

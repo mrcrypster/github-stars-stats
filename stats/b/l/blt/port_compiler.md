@@ -1,6 +1,6 @@
 # blt/port_compiler - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 61 | 35 | 
 | 2023-03-07 | 61 | 35 | 
 | 2023-03-06 | 61 | 34 | 
 | 2023-03-05 | 61 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 61 | 33 | 
 | 2023-02-08 | 61 | 33 | 
 | 2023-02-07 | 61 | 33 | 
-| 2023-02-06 | 61 | 33 | 
 

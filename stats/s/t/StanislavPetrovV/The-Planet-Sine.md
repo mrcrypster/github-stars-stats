@@ -1,6 +1,6 @@
 # StanislavPetrovV/The-Planet-Sine - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 35 | 5 | 
 | 2023-03-07 | 35 | 5 | 
 | 2023-03-06 | 35 | 5 | 
 | 2023-03-04 | 35 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 32 | 5 | 
 | 2023-02-08 | 32 | 5 | 
 | 2023-02-07 | 32 | 5 | 
-| 2023-02-06 | 32 | 5 | 
 

@@ -1,10 +1,10 @@
 # bobzhang/fan - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/bobzhang/fan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 61 | 4 | 
 | 2023-03-06 | 60 | 4 | 
 | 2023-03-05 | 60 | 4 | 
 | 2023-03-03 | 60 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 60 | 4 | 
 | 2023-02-08 | 60 | 4 | 
 | 2023-02-07 | 60 | 4 | 
-| 2023-02-06 | 60 | 4 | 
 

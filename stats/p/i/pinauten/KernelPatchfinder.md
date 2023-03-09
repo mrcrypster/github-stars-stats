@@ -1,10 +1,10 @@
 # pinauten/KernelPatchfinder - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/pinauten/KernelPatchfinder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 65 | 7 | 
 | 2023-03-07 | 64 | 7 | 
 | 2023-03-06 | 64 | 7 | 
 | 2023-03-04 | 64 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 62 | 7 | 
 | 2023-02-09 | 62 | 6 | 
 | 2023-02-08 | 62 | 6 | 
-| 2023-02-06 | 62 | 6 | 
 

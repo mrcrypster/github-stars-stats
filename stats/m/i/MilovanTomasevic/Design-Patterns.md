@@ -1,6 +1,6 @@
 # MilovanTomasevic/Design-Patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 106 | 7 | 
 | 2023-03-06 | 106 | 7 | 
 | 2023-03-05 | 106 | 6 | 
 | 2023-03-04 | 105 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 104 | 6 | 
 | 2023-02-08 | 104 | 6 | 
 | 2023-02-07 | 104 | 6 | 
-| 2023-02-06 | 104 | 6 | 
 

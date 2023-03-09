@@ -1,6 +1,6 @@
 # 10Pines/pdepreludat - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 14 | 1 | 
 | 2023-03-06 | 14 | 1 | 
 | 2023-03-05 | 14 | 1 | 
 | 2023-03-04 | 14 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 13 | 1 | 
 | 2023-02-08 | 13 | 1 | 
 | 2023-02-07 | 13 | 1 | 
-| 2023-02-06 | 13 | 1 | 
 

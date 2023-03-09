@@ -1,10 +1,10 @@
 # Diolinux/PhotoGIMP - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 97
 
-★ Stars: 2911
+★ Stars: 2912
 
 [Open repository](https://github.com/Diolinux/PhotoGIMP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2912 | 97 | 
 | 2023-03-07 | 2911 | 97 | 
 | 2023-03-06 | 2908 | 96 | 
 | 2023-03-04 | 2904 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 2850 | 90 | 
 | 2023-02-08 | 2849 | 90 | 
 | 2023-02-07 | 2847 | 89 | 
-| 2023-02-06 | 2844 | 89 | 
 

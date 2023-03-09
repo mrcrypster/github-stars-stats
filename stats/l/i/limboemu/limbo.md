@@ -1,10 +1,10 @@
 # limboemu/limbo - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 379
 
-★ Stars: 1859
+★ Stars: 1858
 
 [Open repository](https://github.com/limboemu/limbo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1858 | 379 | 
 | 2023-03-07 | 1859 | 379 | 
 | 2023-03-06 | 1859 | 379 | 
 | 2023-03-05 | 1859 | 379 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1836 | 376 | 
 | 2023-02-08 | 1837 | 376 | 
 | 2023-02-07 | 1834 | 376 | 
-| 2023-02-06 | 1833 | 376 | 
 

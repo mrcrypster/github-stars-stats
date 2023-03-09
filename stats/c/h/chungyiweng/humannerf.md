@@ -1,10 +1,10 @@
 # chungyiweng/humannerf - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 57
 
-★ Stars: 531
+★ Stars: 532
 
 [Open repository](https://github.com/chungyiweng/humannerf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 532 | 57 | 
 | 2023-03-06 | 531 | 57 | 
 | 2023-03-05 | 530 | 57 | 
 | 2023-03-04 | 528 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 501 | 56 | 
 | 2023-02-08 | 499 | 56 | 
 | 2023-02-07 | 496 | 54 | 
-| 2023-02-06 | 496 | 54 | 
 

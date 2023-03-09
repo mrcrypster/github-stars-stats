@@ -1,6 +1,6 @@
 # hashicorp/hashicat-gcp - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 973
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 22 | 973 | 
 | 2023-03-07 | 22 | 973 | 
 | 2023-03-06 | 22 | 973 | 
 | 2023-03-04 | 22 | 973 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 21 | 925 | 
 | 2023-02-08 | 21 | 925 | 
 | 2023-02-07 | 21 | 925 | 
-| 2023-02-06 | 21 | 925 | 
 

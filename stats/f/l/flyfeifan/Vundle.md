@@ -1,10 +1,10 @@
 # flyfeifan/Vundle - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/flyfeifan/Vundle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6 | 12 | 
 | 2023-03-07 | 7 | 12 | 
 | 2023-03-05 | 7 | 12 | 
 | 2023-03-04 | 7 | 12 | 

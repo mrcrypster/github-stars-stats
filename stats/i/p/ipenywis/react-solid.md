@@ -1,10 +1,10 @@
 # ipenywis/react-solid - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 76
 
-★ Stars: 231
+★ Stars: 233
 
 [Open repository](https://github.com/ipenywis/react-solid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 233 | 76 | 
 | 2023-03-06 | 231 | 76 | 
 | 2023-03-05 | 229 | 75 | 
 | 2023-03-04 | 229 | 75 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 214 | 62 | 
 | 2023-02-09 | 213 | 62 | 
 | 2023-02-07 | 211 | 61 | 
-| 2023-02-06 | 208 | 61 | 
 

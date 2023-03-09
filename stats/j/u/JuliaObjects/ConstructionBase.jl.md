@@ -1,8 +1,8 @@
 # JuliaObjects/ConstructionBase.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 23 | 11 | 
 | 2023-03-06 | 23 | 10 | 
 | 2023-03-05 | 23 | 10 | 
 | 2023-03-04 | 23 | 10 | 

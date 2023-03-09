@@ -1,6 +1,6 @@
 # php-rust-tools/parser - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 256 | 15 | 
 | 2023-03-07 | 256 | 15 | 
 | 2023-03-06 | 256 | 15 | 
 | 2023-03-04 | 256 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 248 | 13 | 
 | 2023-02-08 | 248 | 13 | 
 | 2023-02-07 | 248 | 13 | 
-| 2023-02-06 | 247 | 13 | 
 

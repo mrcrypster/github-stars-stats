@@ -1,10 +1,10 @@
 # google/uuid - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 339
 
-★ Stars: 4194
+★ Stars: 4198
 
 [Open repository](https://github.com/google/uuid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4198 | 339 | 
 | 2023-03-06 | 4194 | 339 | 
 | 2023-03-05 | 4186 | 339 | 
 | 2023-03-04 | 4186 | 339 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 4139 | 336 | 
 | 2023-02-08 | 4137 | 336 | 
 | 2023-02-07 | 4134 | 336 | 
-| 2023-02-06 | 4131 | 336 | 
 

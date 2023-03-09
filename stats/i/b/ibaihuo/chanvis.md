@@ -1,10 +1,10 @@
 # ibaihuo/chanvis - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 66
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/ibaihuo/chanvis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 132 | 66 | 
 | 2023-03-07 | 130 | 66 | 
 | 2023-03-05 | 129 | 66 | 
 | 2023-03-04 | 129 | 66 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 124 | 61 | 
 | 2023-02-08 | 124 | 61 | 
 | 2023-02-07 | 124 | 61 | 
-| 2023-02-06 | 123 | 60 | 
 

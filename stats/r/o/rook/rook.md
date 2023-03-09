@@ -1,10 +1,10 @@
 # rook/rook - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2495
 
-★ Stars: 10800
+★ Stars: 10807
 
 [Open repository](https://github.com/rook/rook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 10807 | 2495 | 
 | 2023-03-07 | 10800 | 2495 | 
 | 2023-03-05 | 10794 | 2495 | 
 | 2023-03-04 | 10793 | 2494 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 10719 | 2474 | 
 | 2023-02-08 | 10717 | 2474 | 
 | 2023-02-07 | 10712 | 2474 | 
-| 2023-02-06 | 10708 | 2475 | 
 

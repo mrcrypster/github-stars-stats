@@ -1,6 +1,6 @@
 # r4ds/bookclub-advr - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 10 | 
 | 2023-03-07 | - | 10 | 
 | 2023-03-06 | - | 10 | 
 | 2023-03-05 | - | 10 | 

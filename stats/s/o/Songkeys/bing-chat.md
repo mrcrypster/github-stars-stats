@@ -1,6 +1,6 @@
 # Songkeys/bing-chat - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 108 | 11 | 
 | 2023-03-07 | 108 | 11 | 
 | 2023-03-05 | 109 | 10 | 
 | 2023-03-04 | 109 | 10 | 

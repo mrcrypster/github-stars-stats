@@ -1,10 +1,10 @@
 # Extravi/Installer - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/Extravi/Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 17 | 5 | 
 | 2023-03-07 | 15 | 5 | 
 | 2023-03-06 | 14 | 5 | 
 | 2023-03-05 | 14 | 5 | 

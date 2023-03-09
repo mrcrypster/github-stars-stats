@@ -1,10 +1,10 @@
 # mrcaidev/language-rating - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/mrcaidev/language-rating)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 20 | - | 
 | 2023-03-06 | 19 | - | 
 | 2023-03-05 | 19 | - | 
 | 2023-03-04 | 19 | - | 

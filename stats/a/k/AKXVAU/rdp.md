@@ -1,8 +1,8 @@
 # AKXVAU/rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 210
+☋ Forks: 216
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6 | 216 | 
 | 2023-03-07 | 6 | 210 | 
 | 2023-03-06 | 6 | 209 | 
 | 2023-03-05 | 6 | 206 | 

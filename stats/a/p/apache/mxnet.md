@@ -1,10 +1,10 @@
 # apache/mxnet - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 6870
+☋ Forks: 6871
 
-★ Stars: 20281
+★ Stars: 20287
 
 [Open repository](https://github.com/apache/mxnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 20287 | 6871 | 
 | 2023-03-06 | 20281 | 6870 | 
 | 2023-03-05 | 20276 | 6872 | 
 | 2023-03-04 | 20272 | 6872 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 20248 | 6870 | 
 | 2023-02-09 | 20250 | 6870 | 
 | 2023-02-08 | 20252 | 6870 | 
-| 2023-02-06 | 20252 | 6871 | 
 

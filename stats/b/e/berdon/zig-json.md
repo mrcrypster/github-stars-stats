@@ -1,6 +1,6 @@
 # berdon/zig-json - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 13 | 1 | 
 | 2023-03-07 | 13 | 1 | 
 | 2023-03-06 | 13 | 1 | 
 | 2023-03-04 | 13 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 13 | 1 | 
 | 2023-02-08 | 13 | 1 | 
 | 2023-02-07 | 13 | 1 | 
-| 2023-02-06 | 13 | 1 | 
 

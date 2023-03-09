@@ -1,6 +1,6 @@
 # youhuangla/Note - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 109 | 81 | 
 | 2023-03-07 | 109 | 81 | 
 | 2023-03-06 | 109 | 81 | 
 | 2023-03-04 | 109 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 108 | 80 | 
 | 2023-02-08 | 108 | 80 | 
 | 2023-02-07 | 108 | 80 | 
-| 2023-02-06 | 108 | 80 | 
 

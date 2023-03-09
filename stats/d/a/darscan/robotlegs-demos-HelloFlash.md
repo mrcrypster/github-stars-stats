@@ -1,6 +1,6 @@
 # darscan/robotlegs-demos-HelloFlash - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 5 | 2 | 
 | 2023-03-07 | 5 | 2 | 
 | 2023-03-06 | 5 | 2 | 
 | 2023-03-04 | 5 | 2 | 

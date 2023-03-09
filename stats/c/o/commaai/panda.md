@@ -1,10 +1,10 @@
 # commaai/panda - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 629
 
-★ Stars: 1299
+★ Stars: 1298
 
 [Open repository](https://github.com/commaai/panda)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1298 | 629 | 
 | 2023-03-06 | 1299 | 629 | 
 | 2023-03-05 | 1300 | 629 | 
 | 2023-03-04 | 1300 | 628 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 1295 | 624 | 
 | 2023-02-09 | 1294 | 623 | 
 | 2023-02-07 | 1293 | 623 | 
-| 2023-02-06 | 1293 | 624 | 
 

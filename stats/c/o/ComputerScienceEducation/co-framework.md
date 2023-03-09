@@ -1,0 +1,17 @@
+# ComputerScienceEducation/co-framework - stars & forks statistics
+
+Stats updated on Mar 2023, 08
+
+☋ Forks: 7
+
+★ Stars: 7
+
+[Open repository](https://github.com/ComputerScienceEducation/co-framework)
+
+[Open detailed stats for ComputerScienceEducation/co-framework](https://reviewgithub.com/rep/ComputerScienceEducation/co-framework)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-08 | 7 | 7 | 
+

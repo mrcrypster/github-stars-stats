@@ -1,10 +1,10 @@
 # maxplanck-ie/Rintro - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 0
+★ Stars: 2
 
 [Open repository](https://github.com/maxplanck-ie/Rintro)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2 | 4 | 
 | 2023-03-07 | - | 4 | 
 

@@ -1,10 +1,10 @@
 # LibreHardwareMonitor/LibreHardwareMonitor - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 383
 
-★ Stars: 2436
+★ Stars: 2439
 
 [Open repository](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2439 | 383 | 
 | 2023-03-07 | 2436 | 383 | 
 | 2023-03-06 | 2429 | 382 | 
 | 2023-03-05 | 2426 | 381 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 2355 | 369 | 
 | 2023-02-08 | 2351 | 369 | 
 | 2023-02-07 | 2350 | 369 | 
-| 2023-02-06 | 2344 | 368 | 
 

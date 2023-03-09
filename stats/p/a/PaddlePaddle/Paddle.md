@@ -1,10 +1,10 @@
 # PaddlePaddle/Paddle - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5004
 
-★ Stars: 19721
+★ Stars: 19729
 
 [Open repository](https://github.com/PaddlePaddle/Paddle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 19729 | 5004 | 
 | 2023-03-06 | 19721 | 5004 | 
 | 2023-03-05 | 19715 | 5003 | 
 | 2023-03-04 | 19706 | 5001 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 19529 | 4883 | 
 | 2023-02-08 | 19517 | 4883 | 
 | 2023-02-07 | 19509 | 4881 | 
-| 2023-02-06 | 19503 | 4879 | 
 

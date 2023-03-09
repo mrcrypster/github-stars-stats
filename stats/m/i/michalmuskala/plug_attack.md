@@ -1,6 +1,6 @@
 # michalmuskala/plug_attack - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 388 | 17 | 
 | 2023-03-07 | 388 | 17 | 
 | 2023-03-06 | 388 | 17 | 
 | 2023-03-04 | 387 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 382 | 18 | 
 | 2023-02-09 | 382 | 18 | 
 | 2023-02-07 | 382 | 18 | 
-| 2023-02-06 | 382 | 18 | 
 

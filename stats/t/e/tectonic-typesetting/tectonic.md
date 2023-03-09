@@ -1,6 +1,6 @@
 # tectonic-typesetting/tectonic - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3195 | 135 | 
 | 2023-03-07 | 3195 | 135 | 
 | 2023-03-06 | 3196 | 135 | 
 | 2023-03-05 | 3196 | 135 | 

@@ -1,6 +1,6 @@
 # schrockwell/live_inspect - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 21 | 1 | 
 | 2023-03-06 | 21 | 1 | 
 | 2023-03-05 | 21 | 1 | 
 | 2023-03-04 | 21 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 20 | 1 | 
 | 2023-02-08 | 20 | 1 | 
 | 2023-02-07 | 20 | 1 | 
-| 2023-02-06 | 20 | 1 | 
 

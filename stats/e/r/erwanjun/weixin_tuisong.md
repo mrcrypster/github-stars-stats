@@ -1,8 +1,8 @@
 # erwanjun/weixin_tuisong - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 155
+☋ Forks: 156
 
 ★ Stars: 248
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 248 | 156 | 
 | 2023-03-06 | 248 | 155 | 
 | 2023-03-05 | 248 | 155 | 
 | 2023-03-04 | 248 | 155 | 

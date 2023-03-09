@@ -1,6 +1,6 @@
 # databricks/sbt-databricks - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 70 | 24 | 
 | 2023-03-06 | 70 | 24 | 
 | 2023-03-05 | 70 | 24 | 
 | 2023-03-04 | 70 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 70 | 24 | 
 | 2023-02-09 | 71 | 24 | 
 | 2023-02-08 | 71 | 24 | 
-| 2023-02-07 | 71 | 24 | 
 

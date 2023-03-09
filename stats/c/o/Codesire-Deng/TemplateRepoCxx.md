@@ -1,6 +1,6 @@
 # Codesire-Deng/TemplateRepoCxx - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 121 | 42 | 
 | 2023-03-07 | 121 | 42 | 
 | 2023-03-06 | 120 | 42 | 
 | 2023-03-04 | 120 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 115 | 39 | 
 | 2023-02-08 | 115 | 39 | 
 | 2023-02-07 | 114 | 39 | 
-| 2023-02-06 | 114 | 39 | 
 

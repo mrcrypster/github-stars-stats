@@ -1,10 +1,10 @@
 # netchx/netch - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 2278
+☋ Forks: 2279
 
-★ Stars: 13737
+★ Stars: 13755
 
 [Open repository](https://github.com/netchx/netch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 13755 | 2279 | 
 | 2023-03-06 | 13737 | 2278 | 
 | 2023-03-05 | 13729 | 2278 | 
 | 2023-03-04 | 13718 | 2277 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 13521 | 2235 | 
 | 2023-02-08 | 13510 | 2234 | 
 | 2023-02-07 | 13501 | 2233 | 
-| 2023-02-06 | 13491 | 2234 | 
 

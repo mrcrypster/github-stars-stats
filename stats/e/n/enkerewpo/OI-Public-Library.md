@@ -1,6 +1,6 @@
 # enkerewpo/OI-Public-Library - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1136 | 328 | 
 | 2023-03-07 | 1136 | 328 | 
 | 2023-03-05 | 1136 | 328 | 
 | 2023-03-04 | 1136 | 328 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1112 | 327 | 
 | 2023-02-09 | 1112 | 328 | 
 | 2023-02-08 | 1111 | 327 | 
-| 2023-02-07 | 1108 | 327 | 
 

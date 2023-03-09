@@ -1,6 +1,6 @@
 # mergestat/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4 | 2 | 
+| 2023-03-08 | 4 | 2 | 
 | 2023-03-07 | 4 | 2 | 
 | 2023-03-06 | 4 | 2 | 
 | 2023-03-05 | 4 | 2 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 3 | 1 | 
 | 2023-02-08 | 3 | 1 | 
 | 2023-02-07 | 3 | 1 | 
-| 2023-02-06 | 3 | 1 | 
 

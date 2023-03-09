@@ -1,6 +1,6 @@
 # xmos/lib_mic_array - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 14 | 28 | 
 | 2023-03-06 | 14 | 28 | 
 | 2023-03-05 | 14 | 28 | 
 | 2023-03-04 | 14 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 14 | 28 | 
 | 2023-02-09 | 14 | 28 | 
 | 2023-02-07 | 13 | 28 | 
-| 2023-02-06 | 13 | 28 | 
 

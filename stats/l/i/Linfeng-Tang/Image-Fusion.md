@@ -1,6 +1,6 @@
 # Linfeng-Tang/Image-Fusion - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 233 | 59 | 
 | 2023-03-07 | 233 | 59 | 
 | 2023-03-06 | 230 | 59 | 
 | 2023-03-04 | 229 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 206 | 56 | 
 | 2023-02-08 | 206 | 56 | 
 | 2023-02-07 | 204 | 56 | 
-| 2023-02-06 | 204 | 56 | 
 

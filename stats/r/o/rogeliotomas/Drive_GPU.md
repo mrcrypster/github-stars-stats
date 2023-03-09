@@ -1,6 +1,6 @@
 # rogeliotomas/Drive_GPU - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1 | 1 | 
 | 2023-03-07 | 1 | 1 | 
 | 2023-03-05 | 1 | 1 | 
 | 2023-03-04 | 1 | 1 | 

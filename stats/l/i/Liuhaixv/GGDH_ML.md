@@ -1,6 +1,6 @@
 # Liuhaixv/GGDH_ML - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 23 | 1 | 
 | 2023-03-07 | 23 | 1 | 
 | 2023-03-06 | 21 | 1 | 
 | 2023-03-05 | 21 | 1 | 

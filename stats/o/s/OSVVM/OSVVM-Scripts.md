@@ -1,10 +1,10 @@
 # OSVVM/OSVVM-Scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 12
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/OSVVM/OSVVM-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 6 | 12 | 
 | 2023-03-07 | 5 | 12 | 
 | 2023-03-06 | 5 | 12 | 
 | 2023-03-05 | 5 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 4 | 11 | 
 | 2023-02-08 | 4 | 11 | 
 | 2023-02-07 | 4 | 11 | 
-| 2023-02-06 | 4 | 11 | 
 

@@ -1,6 +1,6 @@
 # phoenixframework/phoenix_view - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 62 | 18 | 
 | 2023-03-07 | 62 | 18 | 
 | 2023-03-06 | 62 | 18 | 
 | 2023-03-05 | 62 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 60 | 17 | 
 | 2023-02-08 | 60 | 17 | 
 | 2023-02-07 | 60 | 17 | 
-| 2023-02-06 | 60 | 17 | 
 

@@ -1,8 +1,8 @@
 # creativetimofficial/nuxt-black-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 139
+☋ Forks: 138
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 46 | 138 | 
 | 2023-03-06 | 46 | 139 | 
 | 2023-03-05 | 46 | 138 | 
 | 2023-03-04 | 47 | 136 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 47 | 127 | 
 | 2023-02-09 | 47 | 123 | 
 | 2023-02-07 | 46 | 123 | 
-| 2023-02-06 | 46 | 123 | 
 

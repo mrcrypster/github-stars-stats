@@ -1,8 +1,8 @@
 # 11ty/eleventy-base-blog - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 520
+☋ Forks: 521
 
 ★ Stars: 927
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 927 | 521 | 
 | 2023-03-07 | 927 | 520 | 
 | 2023-03-06 | 925 | 520 | 
 | 2023-03-05 | 925 | 520 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 906 | 505 | 
 | 2023-02-08 | 904 | 504 | 
 | 2023-02-07 | 902 | 503 | 
-| 2023-02-06 | 899 | 502 | 
 

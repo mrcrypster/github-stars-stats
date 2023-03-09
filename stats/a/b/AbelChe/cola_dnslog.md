@@ -1,6 +1,6 @@
 # AbelChe/cola_dnslog - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 282 | 48 | 
 | 2023-03-07 | 282 | 48 | 
 | 2023-03-06 | 281 | 48 | 
 | 2023-03-04 | 279 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 266 | 45 | 
 | 2023-02-08 | 266 | 45 | 
 | 2023-02-07 | 266 | 45 | 
-| 2023-02-06 | 265 | 45 | 
 

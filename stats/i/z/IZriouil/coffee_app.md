@@ -1,10 +1,10 @@
 # IZriouil/coffee_app - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 10
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/IZriouil/coffee_app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 34 | 10 | 
 | 2023-03-07 | 33 | 10 | 
 | 2023-03-05 | 33 | 10 | 
 | 2023-03-04 | 33 | 10 | 

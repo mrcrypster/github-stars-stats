@@ -1,6 +1,6 @@
 # minigueimeiros/office-365-cmd - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3 | 5 | 
 | 2023-03-07 | 3 | 5 | 
 | 2023-03-06 | 3 | 5 | 
 | 2023-03-04 | 3 | 5 | 

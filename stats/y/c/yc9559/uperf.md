@@ -1,8 +1,8 @@
 # yc9559/uperf - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 2631
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2631 | 92 | 
 | 2023-03-07 | 2631 | 91 | 
 | 2023-03-05 | 2625 | 90 | 
 | 2023-03-04 | 2621 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 2573 | 86 | 
 | 2023-02-08 | 2569 | 86 | 
 | 2023-02-07 | 2566 | 86 | 
-| 2023-02-06 | 2566 | 86 | 
 

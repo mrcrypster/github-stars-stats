@@ -1,10 +1,10 @@
 # benmoseley/harmonic-oscillator-pinn - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 92
 
-★ Stars: 318
+★ Stars: 320
 
 [Open repository](https://github.com/benmoseley/harmonic-oscillator-pinn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 320 | 92 | 
 | 2023-03-06 | 318 | 92 | 
 | 2023-03-05 | 318 | 92 | 
 | 2023-03-04 | 318 | 92 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 290 | 84 | 
 | 2023-02-09 | 290 | 84 | 
 | 2023-02-08 | 290 | 83 | 
-| 2023-02-06 | 289 | 83 | 
 

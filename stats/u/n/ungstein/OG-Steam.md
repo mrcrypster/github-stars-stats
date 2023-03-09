@@ -1,6 +1,6 @@
 # ungstein/OG-Steam - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 339 | 13 | 
 | 2023-03-07 | 339 | 13 | 
 | 2023-03-06 | 339 | 13 | 
 | 2023-03-04 | 339 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 334 | 13 | 
 | 2023-02-08 | 332 | 13 | 
 | 2023-02-07 | 332 | 13 | 
-| 2023-02-06 | 333 | 13 | 
 

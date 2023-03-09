@@ -1,10 +1,10 @@
 # amazon-science/mm-cot - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 237
+☋ Forks: 238
 
-★ Stars: 2906
+★ Stars: 2920
 
 [Open repository](https://github.com/amazon-science/mm-cot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2920 | 238 | 
 | 2023-03-06 | 2906 | 237 | 
 | 2023-03-05 | 2890 | 237 | 
 | 2023-03-04 | 2872 | 235 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 331 | 29 | 
 | 2023-02-08 | 309 | 29 | 
 | 2023-02-07 | 279 | 26 | 
-| 2023-02-06 | 265 | 25 | 
 

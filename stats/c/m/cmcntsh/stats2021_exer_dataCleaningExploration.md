@@ -1,6 +1,6 @@
 # cmcntsh/stats2021_exer_dataCleaningExploration - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 37 | 
 | 2023-03-07 | - | 37 | 
 | 2023-03-05 | - | 37 | 
 | 2023-03-04 | - | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | - | 37 | 
 | 2023-02-08 | - | 36 | 
 | 2023-02-07 | - | 34 | 
-| 2023-02-06 | - | 33 | 
 

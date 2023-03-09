@@ -1,6 +1,6 @@
 # develsoftware/GMinerRelease - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1863 | 328 | 
 | 2023-03-07 | 1863 | 328 | 
 | 2023-03-06 | 1864 | 329 | 
 | 2023-03-04 | 1864 | 329 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1858 | 329 | 
 | 2023-02-09 | 1858 | 329 | 
 | 2023-02-08 | 1858 | 329 | 
-| 2023-02-06 | 1858 | 329 | 
 

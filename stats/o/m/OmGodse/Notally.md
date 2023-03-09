@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 121
 
-★ Stars: 1098
+★ Stars: 1099
 
 [Open repository](https://github.com/OmGodse/Notally)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 1098 | 121 | 
+| 2023-03-08 | 1099 | 121 | 
 | 2023-03-07 | 1098 | 121 | 
 

@@ -1,6 +1,6 @@
 # solectrus/solectrus - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 48 | 4 | 
 | 2023-03-06 | 48 | 4 | 
 | 2023-03-05 | 47 | 4 | 
 | 2023-03-04 | 47 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 45 | 4 | 
 | 2023-02-08 | 45 | 4 | 
 | 2023-02-07 | 45 | 4 | 
-| 2023-02-06 | 45 | 4 | 
 

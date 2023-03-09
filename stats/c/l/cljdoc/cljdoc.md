@@ -1,10 +1,10 @@
 # cljdoc/cljdoc - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 78
 
-★ Stars: 501
+★ Stars: 502
 
 [Open repository](https://github.com/cljdoc/cljdoc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 502 | 78 | 
 | 2023-03-07 | 501 | 78 | 
 | 2023-03-06 | 501 | 78 | 
 | 2023-03-05 | 501 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 501 | 78 | 
 | 2023-02-08 | 500 | 78 | 
 | 2023-02-07 | 500 | 78 | 
-| 2023-02-06 | 500 | 78 | 
 

@@ -1,10 +1,10 @@
 # johnrengelman/shadow - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 363
 
-★ Stars: 3202
+★ Stars: 3201
 
 [Open repository](https://github.com/johnrengelman/shadow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3201 | 363 | 
 | 2023-03-07 | 3202 | 363 | 
 | 2023-03-06 | 3201 | 363 | 
 | 2023-03-05 | 3199 | 363 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 3170 | 356 | 
 | 2023-02-08 | 3170 | 356 | 
 | 2023-02-07 | 3166 | 357 | 
-| 2023-02-06 | 3165 | 357 | 
 

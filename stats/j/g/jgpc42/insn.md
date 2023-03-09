@@ -1,8 +1,8 @@
 # jgpc42/insn - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 180
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 180 | 5 | 
 | 2023-03-06 | 180 | 4 | 
 | 2023-03-05 | 180 | 4 | 
 | 2023-03-04 | 180 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 180 | 4 | 
 | 2023-02-08 | 180 | 4 | 
 | 2023-02-07 | 177 | 4 | 
-| 2023-02-06 | 177 | 4 | 
 

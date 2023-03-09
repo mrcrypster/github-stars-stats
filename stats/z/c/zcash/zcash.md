@@ -1,10 +1,10 @@
 # zcash/zcash - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2004
 
-★ Stars: 4720
+★ Stars: 4719
 
 [Open repository](https://github.com/zcash/zcash)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4719 | 2004 | 
 | 2023-03-07 | 4720 | 2004 | 
 | 2023-03-06 | 4719 | 2003 | 
 | 2023-03-04 | 4718 | 2003 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 4711 | 1999 | 
 | 2023-02-08 | 4710 | 1999 | 
 | 2023-02-07 | 4709 | 1998 | 
-| 2023-02-06 | 4709 | 1997 | 
 

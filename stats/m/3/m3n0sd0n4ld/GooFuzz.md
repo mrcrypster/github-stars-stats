@@ -1,6 +1,6 @@
 # m3n0sd0n4ld/GooFuzz - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 772 | 89 | 
 | 2023-03-07 | 772 | 89 | 
 | 2023-03-06 | 771 | 89 | 
 | 2023-03-04 | 771 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 761 | 89 | 
 | 2023-02-08 | 761 | 89 | 
 | 2023-02-07 | 761 | 89 | 
-| 2023-02-06 | 760 | 89 | 
 

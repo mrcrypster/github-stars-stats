@@ -1,10 +1,10 @@
 # kevin-powell/fancy-mask-image-animation - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 15
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/kevin-powell/fancy-mask-image-animation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 33 | 15 | 
 | 2023-03-07 | 32 | 15 | 
 | 2023-03-05 | 32 | 15 | 
 | 2023-03-04 | 32 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 31 | 13 | 
 | 2023-02-09 | 31 | 13 | 
 | 2023-02-08 | 31 | 13 | 
-| 2023-02-06 | 31 | 13 | 
 

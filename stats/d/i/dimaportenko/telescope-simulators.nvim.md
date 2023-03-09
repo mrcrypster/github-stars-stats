@@ -1,10 +1,10 @@
 # dimaportenko/telescope-simulators.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/dimaportenko/telescope-simulators.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 48 | - | 
 | 2023-03-06 | 47 | - | 
 | 2023-03-05 | 46 | - | 
 | 2023-03-04 | 46 | - | 

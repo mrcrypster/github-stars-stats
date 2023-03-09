@@ -1,10 +1,10 @@
 # jindongwang/transferlearning-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 485
 
-★ Stars: 2326
+★ Stars: 2327
 
 [Open repository](https://github.com/jindongwang/transferlearning-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2327 | 485 | 
 | 2023-03-07 | 2326 | 485 | 
 | 2023-03-05 | 2326 | 485 | 
 | 2023-03-04 | 2326 | 485 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2313 | 481 | 
 | 2023-02-09 | 2313 | 481 | 
 | 2023-02-07 | 2314 | 481 | 
-| 2023-02-06 | 2314 | 481 | 
 

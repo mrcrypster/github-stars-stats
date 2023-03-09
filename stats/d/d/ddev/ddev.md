@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 448
 
-★ Stars: 1706
+★ Stars: 1707
 
 [Open repository](https://github.com/ddev/ddev)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 1706 | 448 | 
+| 2023-03-08 | 1707 | 448 | 
 | 2023-03-07 | 1706 | 448 | 
 

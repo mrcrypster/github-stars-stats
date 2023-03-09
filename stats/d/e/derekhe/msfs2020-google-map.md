@@ -1,10 +1,10 @@
 # derekhe/msfs2020-google-map - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 37
 
-★ Stars: 273
+★ Stars: 272
 
 [Open repository](https://github.com/derekhe/msfs2020-google-map)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 272 | 37 | 
 | 2023-03-06 | 273 | 37 | 
 | 2023-03-05 | 273 | 37 | 
 | 2023-03-04 | 273 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 271 | 37 | 
 | 2023-02-08 | 271 | 37 | 
 | 2023-02-07 | 271 | 37 | 
-| 2023-02-06 | 271 | 37 | 
 

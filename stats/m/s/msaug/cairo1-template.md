@@ -1,6 +1,6 @@
 # msaug/cairo1-template - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 33 | - | 
 | 2023-03-06 | 33 | - | 
 | 2023-03-05 | 33 | - | 
 | 2023-03-03 | 34 | - | 

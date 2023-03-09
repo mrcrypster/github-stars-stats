@@ -1,10 +1,10 @@
 # type-challenges/type-challenges - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 3180
+☋ Forks: 3189
 
-★ Stars: 30975
+★ Stars: 31029
 
 [Open repository](https://github.com/type-challenges/type-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 31029 | 3189 | 
 | 2023-03-07 | 30975 | 3180 | 
 | 2023-03-05 | 30945 | 3173 | 
 | 2023-03-04 | 30918 | 3169 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 30185 | 3057 | 
 | 2023-02-08 | 30159 | 3054 | 
 | 2023-02-07 | 30086 | 3038 | 
-| 2023-02-06 | 30066 | 3032 | 
 

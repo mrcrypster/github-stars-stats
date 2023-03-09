@@ -1,10 +1,10 @@
 # shroudedcode/apk-mitm - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 258
 
-★ Stars: 2522
+★ Stars: 2523
 
 [Open repository](https://github.com/shroudedcode/apk-mitm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2523 | 258 | 
 | 2023-03-06 | 2522 | 258 | 
 | 2023-03-05 | 2519 | 258 | 
 | 2023-03-04 | 2515 | 258 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 2469 | 252 | 
 | 2023-02-08 | 2468 | 252 | 
 | 2023-02-07 | 2466 | 252 | 
-| 2023-02-06 | 2462 | 252 | 
 

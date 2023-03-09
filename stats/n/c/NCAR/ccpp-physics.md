@@ -1,6 +1,6 @@
 # NCAR/ccpp-physics - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 46 | 125 | 
 | 2023-03-07 | 46 | 125 | 
 | 2023-03-06 | 46 | 125 | 
 | 2023-03-05 | 46 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 45 | 120 | 
 | 2023-02-08 | 45 | 120 | 
 | 2023-02-07 | 45 | 120 | 
-| 2023-02-06 | 45 | 120 | 
 

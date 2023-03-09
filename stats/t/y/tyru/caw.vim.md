@@ -1,6 +1,6 @@
 # tyru/caw.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 373 | 44 | 
 | 2023-03-07 | 373 | 44 | 
 | 2023-03-06 | 373 | 44 | 
 | 2023-03-04 | 373 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 374 | 44 | 
 | 2023-02-08 | 374 | 44 | 
 | 2023-02-07 | 374 | 44 | 
-| 2023-02-06 | 374 | 44 | 
 

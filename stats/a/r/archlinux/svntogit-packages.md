@@ -1,10 +1,10 @@
 # archlinux/svntogit-packages - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 280
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/archlinux/svntogit-packages)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 301 | 280 | 
 | 2023-03-07 | 300 | 280 | 
 | 2023-03-05 | 300 | 280 | 
 | 2023-03-04 | 300 | 281 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 292 | 281 | 
 | 2023-02-08 | 291 | 280 | 
 | 2023-02-07 | 290 | 281 | 
-| 2023-02-06 | 290 | 280 | 
 

@@ -1,8 +1,8 @@
 # FabricMC/fabric-example-mod - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 740
+☋ Forks: 741
 
 ★ Stars: 1141
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1141 | 741 | 
 | 2023-03-07 | 1141 | 740 | 
 | 2023-03-06 | 1141 | 740 | 
 | 2023-03-05 | 1140 | 740 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1117 | 731 | 
 | 2023-02-08 | 1114 | 729 | 
 | 2023-02-07 | 1110 | 726 | 
-| 2023-02-06 | 1109 | 726 | 
 

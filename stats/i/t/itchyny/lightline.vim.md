@@ -1,10 +1,10 @@
 # itchyny/lightline.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 319
+☋ Forks: 318
 
-★ Stars: 6442
+★ Stars: 6444
 
 [Open repository](https://github.com/itchyny/lightline.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6444 | 318 | 
 | 2023-03-07 | 6442 | 319 | 
 | 2023-03-06 | 6442 | 319 | 
 | 2023-03-04 | 6440 | 319 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 6424 | 320 | 
 | 2023-02-08 | 6422 | 320 | 
 | 2023-02-07 | 6420 | 319 | 
-| 2023-02-06 | 6420 | 319 | 
 

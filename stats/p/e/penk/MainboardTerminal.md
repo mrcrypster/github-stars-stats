@@ -1,10 +1,10 @@
 # penk/MainboardTerminal - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 726
+★ Stars: 727
 
 [Open repository](https://github.com/penk/MainboardTerminal)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 727 | 13 | 
 | 2023-03-06 | 726 | 13 | 
 | 2023-03-05 | 726 | 13 | 
 | 2023-03-04 | 726 | 13 | 

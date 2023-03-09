@@ -1,10 +1,10 @@
 # ZeroMemoryEx/Amsi-Killer - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 41
 
-★ Stars: 305
+★ Stars: 314
 
 [Open repository](https://github.com/ZeroMemoryEx/Amsi-Killer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 314 | 41 | 
 | 2023-03-07 | 305 | 41 | 
 | 2023-03-05 | 303 | 39 | 
 | 2023-03-04 | 299 | 38 | 

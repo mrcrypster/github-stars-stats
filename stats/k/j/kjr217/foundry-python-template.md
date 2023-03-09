@@ -1,6 +1,6 @@
 # kjr217/foundry-python-template - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 40 | 1 | 
 | 2023-03-06 | 40 | 1 | 
 | 2023-03-05 | 40 | 1 | 
 | 2023-03-04 | 40 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 39 | 1 | 
 | 2023-02-08 | 39 | 1 | 
 | 2023-02-07 | 39 | 1 | 
-| 2023-02-06 | 39 | 1 | 
 

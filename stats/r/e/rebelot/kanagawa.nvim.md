@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 08
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 1999
+★ Stars: 2002
 
 [Open repository](https://github.com/rebelot/kanagawa.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 1999 | 85 | 
+| 2023-03-08 | 2002 | 86 | 
 | 2023-03-07 | 1997 | 85 | 
 | 2023-03-06 | 1991 | 85 | 
 | 2023-03-05 | 1987 | 82 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-09 | 1856 | 71 | 
 | 2023-02-08 | 1856 | 71 | 
 | 2023-02-07 | 1851 | 71 | 
-| 2023-02-06 | 1846 | 71 | 
 

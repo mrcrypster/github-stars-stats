@@ -1,10 +1,10 @@
 # kodecocodes/swift-algorithm-club - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4897
 
-★ Stars: 27477
+★ Stars: 27479
 
 [Open repository](https://github.com/kodecocodes/swift-algorithm-club)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 27479 | 4897 | 
 | 2023-03-07 | 27477 | 4897 | 
 | 2023-03-06 | 27473 | 4897 | 
 | 2023-03-04 | 27467 | 4897 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 27367 | 4891 | 
 | 2023-02-08 | 27366 | 4891 | 
 | 2023-02-07 | 27361 | 4892 | 
-| 2023-02-06 | 27357 | 4891 | 
 

@@ -1,6 +1,6 @@
 # t-kalinowski/Rapp - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 27 | - | 
 | 2023-03-07 | 27 | - | 
 | 2023-03-06 | 27 | - | 
 | 2023-03-05 | 27 | - | 

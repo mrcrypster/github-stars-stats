@@ -1,10 +1,10 @@
 # nix-community/rnix-parser - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 36
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/nix-community/rnix-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 264 | 36 | 
 | 2023-03-07 | 263 | 36 | 
 | 2023-03-05 | 263 | 36 | 
 | 2023-03-04 | 262 | 36 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 258 | 34 | 
 | 2023-02-08 | 258 | 34 | 
 | 2023-02-07 | 258 | 34 | 
-| 2023-02-06 | 258 | 34 | 
 

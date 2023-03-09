@@ -1,10 +1,10 @@
 # Godiesc/opera-gx - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 293
+★ Stars: 295
 
 [Open repository](https://github.com/Godiesc/opera-gx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 295 | 25 | 
 | 2023-03-07 | 293 | 25 | 
 | 2023-03-06 | 292 | 25 | 
 | 2023-03-04 | 292 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 280 | 25 | 
 | 2023-02-08 | 280 | 25 | 
 | 2023-02-07 | 279 | 25 | 
-| 2023-02-06 | 278 | 25 | 
 

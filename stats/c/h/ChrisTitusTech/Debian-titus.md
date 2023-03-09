@@ -1,10 +1,10 @@
 # ChrisTitusTech/Debian-titus - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 115
 
-★ Stars: 269
+★ Stars: 268
 
 [Open repository](https://github.com/ChrisTitusTech/Debian-titus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 268 | 115 | 
 | 2023-03-06 | 269 | 115 | 
 | 2023-03-05 | 269 | 116 | 
 | 2023-03-04 | 269 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 261 | 114 | 
 | 2023-02-08 | 261 | 114 | 
 | 2023-02-07 | 259 | 114 | 
-| 2023-02-06 | 259 | 114 | 
 

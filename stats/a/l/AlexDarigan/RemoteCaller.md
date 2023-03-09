@@ -1,6 +1,6 @@
 # AlexDarigan/RemoteCaller - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 16 | - | 
 | 2023-03-07 | 16 | - | 
 | 2023-03-05 | 16 | - | 
 | 2023-03-04 | 16 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 16 | - | 
 | 2023-02-09 | 16 | - | 
 | 2023-02-08 | 16 | - | 
-| 2023-02-07 | 16 | - | 
 

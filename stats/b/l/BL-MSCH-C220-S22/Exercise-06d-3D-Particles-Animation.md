@@ -1,6 +1,6 @@
 # BL-MSCH-C220-S22/Exercise-06d-3D-Particles-Animation - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | - | 31 | 
 | 2023-03-07 | - | 31 | 
 | 2023-03-06 | - | 31 | 
 | 2023-03-05 | - | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | - | 31 | 
 | 2023-02-08 | - | 31 | 
 | 2023-02-07 | - | 31 | 
-| 2023-02-06 | - | 31 | 
 

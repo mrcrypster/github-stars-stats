@@ -1,10 +1,10 @@
 # jiaozi158/ShellFurURP - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/jiaozi158/ShellFurURP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 58 | 7 | 
 | 2023-03-06 | 57 | 7 | 
 | 2023-03-05 | 56 | 7 | 
 | 2023-03-04 | 56 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 53 | 7 | 
 | 2023-02-08 | 53 | 7 | 
 | 2023-02-07 | 53 | 7 | 
-| 2023-02-06 | 53 | 7 | 
 

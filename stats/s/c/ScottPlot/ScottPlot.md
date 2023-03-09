@@ -1,10 +1,10 @@
 # ScottPlot/ScottPlot - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 486
 
-★ Stars: 2945
+★ Stars: 2948
 
 [Open repository](https://github.com/ScottPlot/ScottPlot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2948 | 486 | 
 | 2023-03-06 | 2945 | 486 | 
 | 2023-03-05 | 2939 | 484 | 
 | 2023-03-04 | 2936 | 484 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 2863 | 483 | 
 | 2023-02-09 | 2860 | 480 | 
 | 2023-02-07 | 2856 | 478 | 
-| 2023-02-06 | 2854 | 478 | 
 

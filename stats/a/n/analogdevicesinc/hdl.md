@@ -1,10 +1,10 @@
 # analogdevicesinc/hdl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1339
 
-★ Stars: 1105
+★ Stars: 1107
 
 [Open repository](https://github.com/analogdevicesinc/hdl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1107 | 1339 | 
 | 2023-03-07 | 1105 | 1339 | 
 | 2023-03-06 | 1105 | 1338 | 
 | 2023-03-05 | 1105 | 1337 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1089 | 1328 | 
 | 2023-02-08 | 1089 | 1328 | 
 | 2023-02-07 | 1089 | 1327 | 
-| 2023-02-06 | 1087 | 1326 | 
 

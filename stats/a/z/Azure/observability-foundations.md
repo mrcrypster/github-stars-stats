@@ -1,6 +1,6 @@
 # Azure/observability-foundations - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 11 | 9 | 
 | 2023-03-07 | 11 | 9 | 
 | 2023-03-06 | 11 | 9 | 
 | 2023-03-05 | 10 | 7 | 

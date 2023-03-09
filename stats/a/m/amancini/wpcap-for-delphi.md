@@ -1,10 +1,10 @@
 # amancini/wpcap-for-delphi - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/amancini/wpcap-for-delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 13 | 2 | 
 | 2023-03-07 | 12 | 2 | 
 | 2023-03-05 | 12 | 2 | 
 | 2023-03-04 | 12 | 2 | 

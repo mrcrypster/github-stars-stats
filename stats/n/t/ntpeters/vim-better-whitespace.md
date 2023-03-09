@@ -1,10 +1,10 @@
 # ntpeters/vim-better-whitespace - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 80
 
-★ Stars: 1272
+★ Stars: 1274
 
 [Open repository](https://github.com/ntpeters/vim-better-whitespace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1274 | 80 | 
 | 2023-03-07 | 1272 | 80 | 
 | 2023-03-06 | 1272 | 80 | 
 | 2023-03-04 | 1273 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1268 | 81 | 
 | 2023-02-08 | 1268 | 81 | 
 | 2023-02-07 | 1268 | 81 | 
-| 2023-02-06 | 1268 | 81 | 
 

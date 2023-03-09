@@ -1,10 +1,10 @@
 # ElzeroWebSchool/HTML_And_CSS_Template_One - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 88
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_One)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 198 | 88 | 
 | 2023-03-06 | 197 | 88 | 
 | 2023-03-05 | 197 | 87 | 
 | 2023-03-04 | 197 | 87 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 191 | 86 | 
 | 2023-02-09 | 191 | 86 | 
 | 2023-02-07 | 191 | 86 | 
-| 2023-02-06 | 190 | 86 | 
 

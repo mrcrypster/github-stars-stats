@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 1118
 
-★ Stars: 11808
+★ Stars: 11811
 
 [Open repository](https://github.com/gitleaks/gitleaks)
 
@@ -13,5 +13,5 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 11808 | 1118 | 
+| 2023-03-08 | 11811 | 1118 | 
 

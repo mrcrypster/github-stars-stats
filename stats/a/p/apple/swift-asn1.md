@@ -1,10 +1,10 @@
 # apple/swift-asn1 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 54
 
 [Open repository](https://github.com/apple/swift-asn1)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 54 | 5 | 
 | 2023-03-07 | 32 | 3 | 
 | 2023-03-06 | 32 | 3 | 
 

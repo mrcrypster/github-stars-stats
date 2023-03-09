@@ -1,6 +1,6 @@
 # sicmutils/sicmutils - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 684 | 63 | 
 | 2023-03-07 | 684 | 63 | 
 | 2023-03-05 | 683 | 63 | 
 | 2023-03-04 | 680 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 675 | 62 | 
 | 2023-02-08 | 675 | 62 | 
 | 2023-02-07 | 675 | 62 | 
-| 2023-02-06 | 674 | 62 | 
 

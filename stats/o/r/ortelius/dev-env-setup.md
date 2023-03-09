@@ -1,10 +1,10 @@
 # ortelius/dev-env-setup - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/ortelius/dev-env-setup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 6 | 3 | 
 | 2023-03-07 | 5 | 3 | 
 | 2023-03-06 | 5 | 3 | 
 | 2023-03-04 | 5 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 2 | - | 
 | 2023-02-08 | 2 | - | 
 | 2023-02-07 | 2 | - | 
-| 2023-02-06 | 2 | - | 
 

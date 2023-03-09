@@ -1,8 +1,8 @@
 # githubcoderelatedstufflol/RDP-Connect - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 182
+☋ Forks: 192
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2 | 192 | 
 | 2023-03-07 | 2 | 182 | 
 | 2023-03-06 | 2 | 175 | 
 | 2023-03-05 | 2 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 2 | 101 | 
 | 2023-02-08 | 2 | 98 | 
 | 2023-02-07 | 2 | 97 | 
-| 2023-02-06 | 2 | 96 | 
 

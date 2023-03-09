@@ -1,10 +1,10 @@
 # serbanghita/Mobile-Detect - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2699
 
-★ Stars: 10216
+★ Stars: 10217
 
 [Open repository](https://github.com/serbanghita/Mobile-Detect)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 10217 | 2699 | 
 | 2023-03-07 | 10216 | 2699 | 
 | 2023-03-05 | 10214 | 2699 | 
 | 2023-03-04 | 10213 | 2699 | 

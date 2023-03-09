@@ -1,6 +1,6 @@
 # developer-plus/vue-hbs-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 93 | 31 | 
 | 2023-03-06 | 93 | 31 | 
 | 2023-03-05 | 93 | 31 | 
 | 2023-03-04 | 93 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 90 | 31 | 
 | 2023-02-09 | 90 | 31 | 
 | 2023-02-08 | 90 | 30 | 
-| 2023-02-07 | 90 | 30 | 
 

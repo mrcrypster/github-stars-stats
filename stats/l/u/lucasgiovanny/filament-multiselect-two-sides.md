@@ -1,6 +1,6 @@
 # lucasgiovanny/filament-multiselect-two-sides - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 37 | 2 | 
 | 2023-03-07 | 37 | 2 | 
 | 2023-03-06 | 36 | 2 | 
 | 2023-03-04 | 36 | 2 | 

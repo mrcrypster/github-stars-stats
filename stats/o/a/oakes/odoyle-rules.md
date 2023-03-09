@@ -1,6 +1,6 @@
 # oakes/odoyle-rules - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 456 | 16 | 
 | 2023-03-07 | 456 | 16 | 
 | 2023-03-05 | 456 | 16 | 
 | 2023-03-04 | 456 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 454 | 16 | 
 | 2023-02-09 | 454 | 16 | 
 | 2023-02-08 | 453 | 16 | 
-| 2023-02-06 | 452 | 16 | 
 

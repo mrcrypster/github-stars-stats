@@ -1,10 +1,10 @@
 # Niek/chatgpt-web - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 13
+☋ Forks: 20
 
-★ Stars: 42
+★ Stars: 51
 
 [Open repository](https://github.com/Niek/chatgpt-web)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 51 | 20 | 
+| 2023-03-08 | 51 | 19 | 
 | 2023-03-07 | 42 | 13 | 
 | 2023-03-06 | 32 | 12 | 
 | 2023-03-05 | 24 | 4 | 

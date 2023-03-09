@@ -1,10 +1,10 @@
 # ThatRozebudDude/mid-jam - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 8
+★ Stars: 7
 
 [Open repository](https://github.com/ThatRozebudDude/mid-jam)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 7 | 5 | 
 | 2023-03-07 | 8 | 5 | 
 | 2023-03-05 | 8 | 5 | 
 | 2023-03-04 | 8 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 8 | 5 | 
 | 2023-02-08 | 8 | 5 | 
 | 2023-02-07 | 8 | 5 | 
-| 2023-02-06 | 8 | 5 | 
 

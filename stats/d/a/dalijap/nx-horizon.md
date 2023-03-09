@@ -1,6 +1,6 @@
 # dalijap/nx-horizon - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 87 | 13 | 
 | 2023-03-06 | 87 | 13 | 
 | 2023-03-05 | 87 | 13 | 
 | 2023-03-04 | 87 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 61 | 8 | 
 | 2023-02-09 | 61 | 8 | 
 | 2023-02-07 | 61 | 8 | 
-| 2023-02-06 | 61 | 8 | 
 

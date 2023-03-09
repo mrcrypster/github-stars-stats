@@ -1,6 +1,6 @@
 # nitin-agam/AppStore-Clone - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 42 | 10 | 
 | 2023-03-06 | 42 | 10 | 
 | 2023-03-04 | 42 | 11 | 
 | 2023-03-03 | 42 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 42 | 9 | 
 | 2023-02-08 | 42 | 9 | 
 | 2023-02-07 | 42 | 9 | 
-| 2023-02-06 | 42 | 9 | 
 

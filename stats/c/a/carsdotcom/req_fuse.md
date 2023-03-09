@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/carsdotcom/req_fuse)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | - | - | 
+| 2023-03-08 | 1 | - | 
 | 2023-03-07 | - | - | 
 | 2023-03-06 | - | - | 
 | 2023-03-05 | - | - | 

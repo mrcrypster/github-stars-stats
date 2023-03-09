@@ -1,10 +1,10 @@
 # slaclab/ruckus - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 24
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/slaclab/ruckus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 51 | 24 | 
 | 2023-03-07 | 49 | 24 | 
 | 2023-03-06 | 49 | 24 | 
 | 2023-03-04 | 49 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 49 | 23 | 
 | 2023-02-08 | 49 | 23 | 
 | 2023-02-07 | 49 | 23 | 
-| 2023-02-06 | 49 | 23 | 
 

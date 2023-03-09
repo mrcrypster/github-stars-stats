@@ -1,10 +1,10 @@
 # mrexodia/lolbin-poc - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/mrexodia/lolbin-poc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 93 | 12 | 
 | 2023-03-07 | 91 | 12 | 
 | 2023-03-06 | 89 | 12 | 
 | 2023-03-04 | 88 | 11 | 

@@ -1,6 +1,6 @@
 # C4lme/token-nft-stealer - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 30 | 23 | 
 | 2023-03-06 | 30 | 23 | 
 | 2023-03-05 | 30 | 23 | 
 | 2023-03-04 | 31 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 31 | 23 | 
 | 2023-02-08 | 31 | 23 | 
 | 2023-02-07 | 31 | 23 | 
-| 2023-02-06 | 31 | 23 | 
 

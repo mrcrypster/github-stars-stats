@@ -1,10 +1,10 @@
 # moonlight-stream/moonlight-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 59
 
-★ Stars: 941
+★ Stars: 943
 
 [Open repository](https://github.com/moonlight-stream/moonlight-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 943 | 59 | 
 | 2023-03-06 | 941 | 59 | 
 | 2023-03-05 | 939 | 59 | 
 | 2023-03-04 | 939 | 59 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 917 | 58 | 
 | 2023-02-09 | 916 | 58 | 
 | 2023-02-07 | 916 | 58 | 
-| 2023-02-06 | 916 | 58 | 
 

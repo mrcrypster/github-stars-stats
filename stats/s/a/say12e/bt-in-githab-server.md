@@ -1,10 +1,10 @@
 # say12e/bt-in-githab-server - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 90
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/say12e/bt-in-githab-server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 42 | 90 | 
 | 2023-03-06 | 41 | 90 | 
 | 2023-03-05 | 41 | 90 | 
 | 2023-03-04 | 40 | 89 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 39 | 77 | 
 | 2023-02-08 | 38 | 76 | 
 | 2023-02-07 | 38 | 76 | 
-| 2023-02-06 | 36 | 75 | 
 

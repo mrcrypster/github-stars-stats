@@ -1,10 +1,10 @@
 # BlueM/cliclick - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 108
 
-★ Stars: 1340
+★ Stars: 1341
 
 [Open repository](https://github.com/BlueM/cliclick)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1341 | 108 | 
 | 2023-03-06 | 1340 | 108 | 
 | 2023-03-05 | 1339 | 108 | 
 | 2023-03-04 | 1339 | 108 | 

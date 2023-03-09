@@ -1,10 +1,10 @@
 # cloudfoundry/uaa - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 822
 
-★ Stars: 1477
+★ Stars: 1478
 
 [Open repository](https://github.com/cloudfoundry/uaa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1478 | 822 | 
 | 2023-03-07 | 1477 | 822 | 
 | 2023-03-05 | 1477 | 822 | 
 | 2023-03-04 | 1477 | 822 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1472 | 819 | 
 | 2023-02-09 | 1472 | 819 | 
 | 2023-02-08 | 1472 | 818 | 
-| 2023-02-06 | 1472 | 818 | 
 

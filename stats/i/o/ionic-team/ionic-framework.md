@@ -1,10 +1,10 @@
 # ionic-team/ionic-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 13631
+☋ Forks: 13634
 
-★ Stars: 48713
+★ Stars: 48717
 
 [Open repository](https://github.com/ionic-team/ionic-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 48717 | 13634 | 
 | 2023-03-07 | 48713 | 13631 | 
 | 2023-03-05 | 48705 | 13631 | 
 | 2023-03-04 | 48699 | 13630 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 48578 | 13629 | 
 | 2023-02-08 | 48580 | 13629 | 
 | 2023-02-07 | 48579 | 13627 | 
-| 2023-02-06 | 48573 | 13627 | 
 

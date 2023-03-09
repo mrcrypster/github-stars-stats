@@ -1,10 +1,10 @@
 # FluxML/GeometricFlux.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 28
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/FluxML/GeometricFlux.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 321 | 28 | 
 | 2023-03-07 | 320 | 28 | 
 | 2023-03-06 | 319 | 28 | 
 | 2023-03-04 | 319 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 318 | 27 | 
 | 2023-02-09 | 318 | 27 | 
 | 2023-02-08 | 318 | 27 | 
-| 2023-02-07 | 318 | 27 | 
 

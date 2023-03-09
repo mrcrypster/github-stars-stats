@@ -1,10 +1,10 @@
 # Cats-Team/AdRules - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 159
 
-★ Stars: 1533
+★ Stars: 1536
 
 [Open repository](https://github.com/Cats-Team/AdRules)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1536 | 159 | 
 | 2023-03-07 | 1533 | 159 | 
 | 2023-03-05 | 1524 | 159 | 
 | 2023-03-04 | 1524 | 159 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1465 | 159 | 
 | 2023-02-08 | 1460 | 159 | 
 | 2023-02-07 | 1456 | 159 | 
-| 2023-02-06 | 1456 | 159 | 
 

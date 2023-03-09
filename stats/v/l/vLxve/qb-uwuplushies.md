@@ -1,6 +1,6 @@
 # vLxve/qb-uwuplushies - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 9 | 10 | 
 | 2023-03-06 | 9 | 10 | 
 | 2023-03-05 | 9 | 10 | 
 | 2023-03-03 | 9 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 8 | 10 | 
 | 2023-02-08 | 8 | 10 | 
 | 2023-02-07 | 8 | 10 | 
-| 2023-02-06 | 8 | 10 | 
 

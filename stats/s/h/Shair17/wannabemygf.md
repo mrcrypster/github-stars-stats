@@ -1,10 +1,10 @@
 # Shair17/wannabemygf - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Shair17/wannabemygf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 10 | 1 | 
 | 2023-03-07 | 9 | 1 | 
 | 2023-03-05 | 9 | 1 | 
 | 2023-03-04 | 9 | 1 | 

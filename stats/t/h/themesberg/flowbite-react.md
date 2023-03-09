@@ -1,10 +1,10 @@
 # themesberg/flowbite-react - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 181
+☋ Forks: 180
 
-★ Stars: 806
+★ Stars: 812
 
 [Open repository](https://github.com/themesberg/flowbite-react)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 812 | 180 | 
 | 2023-03-07 | 806 | 181 | 
 | 2023-03-06 | 801 | 180 | 
 | 2023-03-04 | 796 | 177 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 729 | 160 | 
 | 2023-02-08 | 727 | 158 | 
 | 2023-02-07 | 723 | 157 | 
-| 2023-02-06 | 722 | 157 | 
 

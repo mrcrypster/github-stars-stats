@@ -1,6 +1,6 @@
 # ros2/rosidl_python - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 18 | 37 | 
 | 2023-03-07 | 18 | 37 | 
 | 2023-03-05 | 18 | 37 | 
 | 2023-03-04 | 18 | 37 | 

@@ -1,10 +1,10 @@
 # pimox/pimox7 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 120
 
-★ Stars: 995
+★ Stars: 999
 
 [Open repository](https://github.com/pimox/pimox7)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 999 | 120 | 
 | 2023-03-07 | 995 | 120 | 
 | 2023-03-05 | 994 | 119 | 
 | 2023-03-04 | 991 | 118 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 944 | 113 | 
 | 2023-02-08 | 944 | 113 | 
 | 2023-02-07 | 943 | 113 | 
-| 2023-02-06 | 942 | 112 | 
 

@@ -1,6 +1,6 @@
 # joaomaranhao/video-maker - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 132 | 24 | 
 | 2023-03-07 | 132 | 24 | 
 | 2023-03-05 | 132 | 24 | 
 | 2023-03-04 | 131 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 128 | 24 | 
 | 2023-02-09 | 128 | 24 | 
 | 2023-02-07 | 129 | 24 | 
-| 2023-02-06 | 129 | 24 | 
 

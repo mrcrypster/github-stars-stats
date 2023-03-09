@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 08
 
 ☋ Forks: 597
 
-★ Stars: 2524
+★ Stars: 2526
 
 [Open repository](https://github.com/jamstack/jamstack.org)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | 2524 | 597 | 
+| 2023-03-08 | 2526 | 597 | 
 | 2023-03-06 | 2522 | 597 | 
 | 2023-03-05 | 2521 | 598 | 
 | 2023-03-04 | 2521 | 598 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-09 | 2500 | 600 | 
 | 2023-02-08 | 2500 | 600 | 
 | 2023-02-07 | 2499 | 600 | 
-| 2023-02-06 | 2499 | 600 | 
 

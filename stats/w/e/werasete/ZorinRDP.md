@@ -1,8 +1,8 @@
 # werasete/ZorinRDP - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 43
+☋ Forks: 46
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 46 | 
 | 2023-03-07 | - | 43 | 
 | 2023-03-05 | - | 38 | 
 | 2023-03-04 | - | 33 | 

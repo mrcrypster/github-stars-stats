@@ -1,6 +1,6 @@
 # Anal-Repair/Vmp3_64bit_disasm-prerelease- - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 111 | 17 | 
 | 2023-03-07 | 111 | 17 | 
 | 2023-03-06 | 111 | 17 | 
 | 2023-03-04 | 111 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 111 | 17 | 
 | 2023-02-08 | 111 | 17 | 
 | 2023-02-07 | 111 | 17 | 
-| 2023-02-06 | 111 | 17 | 
 

@@ -1,10 +1,10 @@
 # davidgm94/rise - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/davidgm94/rise)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 40 | 2 | 
 | 2023-03-07 | 38 | 2 | 
 | 2023-03-05 | 35 | 2 | 
 | 2023-03-04 | 35 | 2 | 

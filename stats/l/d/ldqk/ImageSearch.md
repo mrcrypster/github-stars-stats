@@ -1,6 +1,6 @@
 # ldqk/ImageSearch - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 206 | 32 | 
 | 2023-03-07 | 206 | 32 | 
 | 2023-03-06 | 206 | 32 | 
 | 2023-03-04 | 205 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 203 | 31 | 
 | 2023-02-08 | 203 | 31 | 
 | 2023-02-07 | 203 | 31 | 
-| 2023-02-06 | 203 | 31 | 
 

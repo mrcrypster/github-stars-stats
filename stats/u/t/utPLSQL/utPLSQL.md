@@ -1,6 +1,6 @@
 # utPLSQL/utPLSQL - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 483 | 177 | 
 | 2023-03-07 | 483 | 177 | 
 | 2023-03-05 | 483 | 177 | 
 | 2023-03-04 | 483 | 177 | 

@@ -1,8 +1,8 @@
 # pocketbase/site - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 21 | 17 | 
 | 2023-03-07 | 21 | 16 | 
 | 2023-03-06 | 21 | 17 | 
 | 2023-03-04 | 20 | 17 | 

@@ -1,10 +1,10 @@
 # ly4k/Certipy - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 198
 
-★ Stars: 1394
+★ Stars: 1398
 
 [Open repository](https://github.com/ly4k/Certipy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1398 | 198 | 
 | 2023-03-06 | 1394 | 198 | 
 | 2023-03-05 | 1393 | 198 | 
 | 2023-03-04 | 1391 | 198 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 1354 | 192 | 
 | 2023-02-08 | 1349 | 192 | 
 | 2023-02-07 | 1345 | 192 | 
-| 2023-02-06 | 1342 | 192 | 
 

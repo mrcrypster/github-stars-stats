@@ -1,10 +1,10 @@
 # IcterusGames/SimpleGrassTextured - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/IcterusGames/SimpleGrassTextured)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 52 | 2 | 
 | 2023-03-06 | 51 | 2 | 
 | 2023-03-05 | 51 | 2 | 
 | 2023-03-04 | 51 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 37 | 1 | 
 | 2023-02-09 | 36 | 1 | 
 | 2023-02-07 | 34 | 1 | 
-| 2023-02-06 | 34 | 1 | 
 

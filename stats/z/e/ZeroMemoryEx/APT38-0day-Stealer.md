@@ -1,10 +1,10 @@
 # ZeroMemoryEx/APT38-0day-Stealer - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 21
 
-★ Stars: 145
+★ Stars: 148
 
 [Open repository](https://github.com/ZeroMemoryEx/APT38-0day-Stealer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 148 | 21 | 
 | 2023-03-07 | 145 | 21 | 
 | 2023-03-05 | 144 | 21 | 
 | 2023-03-04 | 143 | 21 | 

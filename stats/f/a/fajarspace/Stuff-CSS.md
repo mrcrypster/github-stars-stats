@@ -1,10 +1,10 @@
 # fajarspace/Stuff-CSS - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/fajarspace/Stuff-CSS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 32 | 6 | 
 | 2023-03-06 | 31 | 6 | 
 | 2023-03-05 | 23 | 5 | 
 | 2023-03-04 | 23 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 23 | 5 | 
 | 2023-02-09 | 23 | 5 | 
 | 2023-02-07 | 23 | 5 | 
-| 2023-02-06 | 23 | 4 | 
 

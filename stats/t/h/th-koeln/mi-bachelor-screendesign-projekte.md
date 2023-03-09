@@ -1,8 +1,8 @@
 # th-koeln/mi-bachelor-screendesign-projekte - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 93
+☋ Forks: 92
 
 ★ Stars: 1
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1 | 92 | 
+| 2023-03-08 | 1 | 92 | 
 | 2023-03-07 | 1 | 93 | 
 

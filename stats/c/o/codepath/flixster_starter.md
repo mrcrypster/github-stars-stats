@@ -1,6 +1,6 @@
 # codepath/flixster_starter - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3 | 118 | 
 | 2023-03-07 | 3 | 118 | 
 | 2023-03-05 | 3 | 118 | 
 | 2023-03-04 | 3 | 118 | 

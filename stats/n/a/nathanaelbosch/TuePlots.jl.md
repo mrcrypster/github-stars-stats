@@ -1,10 +1,10 @@
 # nathanaelbosch/TuePlots.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/nathanaelbosch/TuePlots.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 32 | - | 
 | 2023-03-07 | 31 | - | 
 | 2023-03-05 | 31 | - | 
 | 2023-03-04 | 31 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 30 | - | 
 | 2023-02-09 | 30 | - | 
 | 2023-02-08 | 30 | - | 
-| 2023-02-07 | 30 | - | 
 

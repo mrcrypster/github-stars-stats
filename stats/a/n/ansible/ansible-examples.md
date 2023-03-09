@@ -1,10 +1,10 @@
 # ansible/ansible-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 6541
+☋ Forks: 6539
 
-★ Stars: 10622
+★ Stars: 10625
 
 [Open repository](https://github.com/ansible/ansible-examples)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 10625 | 6539 | 
+| 2023-03-08 | 10625 | 6539 | 
 | 2023-03-07 | 10622 | 6541 | 
 | 2023-03-06 | 10622 | 6538 | 
 | 2023-03-05 | 10623 | 6535 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 10592 | 6505 | 
 | 2023-02-08 | 10592 | 6505 | 
 | 2023-02-07 | 10592 | 6506 | 
-| 2023-02-06 | 10590 | 6503 | 
 

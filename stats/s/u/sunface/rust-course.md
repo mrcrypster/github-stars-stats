@@ -1,10 +1,10 @@
 # sunface/rust-course - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1225
+☋ Forks: 1228
 
-★ Stars: 14219
+★ Stars: 14249
 
 [Open repository](https://github.com/sunface/rust-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 14249 | 1228 | 
 | 2023-03-07 | 14219 | 1225 | 
 | 2023-03-05 | 14167 | 1219 | 
 | 2023-03-04 | 14151 | 1215 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 13698 | 1166 | 
 | 2023-02-08 | 13679 | 1164 | 
 | 2023-02-07 | 13661 | 1164 | 
-| 2023-02-06 | 13639 | 1164 | 
 

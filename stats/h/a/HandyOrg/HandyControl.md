@@ -1,10 +1,10 @@
 # HandyOrg/HandyControl - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 858
+☋ Forks: 857
 
-★ Stars: 4526
+★ Stars: 4528
 
 [Open repository](https://github.com/HandyOrg/HandyControl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4528 | 857 | 
 | 2023-03-06 | 4526 | 858 | 
 | 2023-03-05 | 4522 | 857 | 
 | 2023-03-04 | 4517 | 855 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 4461 | 846 | 
 | 2023-02-09 | 4456 | 845 | 
 | 2023-02-07 | 4452 | 845 | 
-| 2023-02-06 | 4449 | 844 | 
 

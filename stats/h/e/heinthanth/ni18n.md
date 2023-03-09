@@ -1,10 +1,10 @@
 # heinthanth/ni18n - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/heinthanth/ni18n)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 21 | - | 
 | 2023-03-06 | 19 | - | 
 | 2023-03-05 | 19 | - | 
 | 2023-03-04 | 19 | - | 

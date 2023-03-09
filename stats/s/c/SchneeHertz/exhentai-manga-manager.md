@@ -1,10 +1,10 @@
 # SchneeHertz/exhentai-manga-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 415
+★ Stars: 417
 
 [Open repository](https://github.com/SchneeHertz/exhentai-manga-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 417 | 11 | 
 | 2023-03-06 | 415 | 11 | 
 | 2023-03-05 | 416 | 11 | 
 | 2023-03-03 | 415 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 389 | 9 | 
 | 2023-02-08 | 387 | 9 | 
 | 2023-02-07 | 386 | 9 | 
-| 2023-02-06 | 385 | 9 | 
 

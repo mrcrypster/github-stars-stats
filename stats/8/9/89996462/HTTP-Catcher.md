@@ -1,6 +1,6 @@
 # 89996462/HTTP-Catcher - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 141 | 28 | 
 | 2023-03-06 | 141 | 28 | 
 | 2023-03-05 | 141 | 28 | 
 | 2023-03-04 | 140 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 137 | 28 | 
 | 2023-02-08 | 137 | 27 | 
 | 2023-02-07 | 137 | 27 | 
-| 2023-02-06 | 138 | 27 | 
 

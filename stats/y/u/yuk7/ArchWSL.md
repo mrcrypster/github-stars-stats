@@ -1,10 +1,10 @@
 # yuk7/ArchWSL - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 170
 
-★ Stars: 5393
+★ Stars: 5398
 
 [Open repository](https://github.com/yuk7/ArchWSL)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 5398 | 170 | 
 | 2023-03-07 | 5393 | 170 | 
 | 2023-03-06 | 5388 | 170 | 
 | 2023-03-05 | 5388 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 5310 | 168 | 
 | 2023-02-08 | 5307 | 168 | 
 | 2023-02-07 | 5305 | 168 | 
-| 2023-02-06 | 5301 | 168 | 
 

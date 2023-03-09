@@ -1,10 +1,10 @@
 # ykundesu/SuperNewRoles - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 72
 
-★ Stars: 56
+★ Stars: 55
 
 [Open repository](https://github.com/ykundesu/SuperNewRoles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 55 | 72 | 
 | 2023-03-06 | 56 | 72 | 
 | 2023-03-05 | 56 | 72 | 
 | 2023-03-04 | 54 | 71 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 49 | 72 | 
 | 2023-02-08 | 49 | 72 | 
 | 2023-02-07 | 49 | 72 | 
-| 2023-02-06 | 49 | 72 | 
 

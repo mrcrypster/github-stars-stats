@@ -1,8 +1,8 @@
 # briandunn/flatware - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 135 | 18 | 
 | 2023-03-07 | 135 | 17 | 
 | 2023-03-05 | 134 | 17 | 
 | 2023-03-04 | 134 | 17 | 

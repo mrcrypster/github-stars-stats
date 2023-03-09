@@ -1,6 +1,6 @@
 # Sq00ky/SMB-Session-Spoofing - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 112 | 14 | 
 | 2023-03-07 | 112 | 14 | 
 | 2023-03-05 | 112 | 14 | 
 | 2023-03-04 | 112 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 111 | 14 | 
 | 2023-02-08 | 111 | 14 | 
 | 2023-02-07 | 111 | 14 | 
-| 2023-02-06 | 111 | 14 | 
 

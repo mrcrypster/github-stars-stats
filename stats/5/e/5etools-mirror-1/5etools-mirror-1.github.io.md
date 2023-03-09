@@ -1,10 +1,10 @@
 # 5etools-mirror-1/5etools-mirror-1.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 390
+☋ Forks: 394
 
-★ Stars: 463
+★ Stars: 464
 
 [Open repository](https://github.com/5etools-mirror-1/5etools-mirror-1.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 464 | 394 | 
 | 2023-03-07 | 463 | 390 | 
 | 2023-03-06 | 463 | 389 | 
 | 2023-03-04 | 462 | 389 | 

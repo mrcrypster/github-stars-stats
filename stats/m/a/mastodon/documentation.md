@@ -1,8 +1,8 @@
 # mastodon/documentation - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 921
+☋ Forks: 922
 
 ★ Stars: 1622
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1622 | 922 | 
 | 2023-03-06 | 1622 | 921 | 
 | 2023-03-05 | 1621 | 921 | 
 | 2023-03-04 | 1621 | 920 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 1617 | 912 | 
 | 2023-02-08 | 1616 | 912 | 
 | 2023-02-07 | 1615 | 911 | 
-| 2023-02-06 | 1615 | 910 | 
 

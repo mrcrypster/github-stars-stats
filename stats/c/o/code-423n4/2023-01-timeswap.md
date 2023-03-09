@@ -1,6 +1,6 @@
 # code-423n4/2023-01-timeswap - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 13 | 16 | 
 | 2023-03-07 | 13 | 16 | 
 | 2023-03-05 | 13 | 16 | 
 | 2023-03-04 | 13 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 10 | 16 | 
 | 2023-02-09 | 10 | 16 | 
 | 2023-02-08 | 10 | 16 | 
-| 2023-02-06 | 10 | 16 | 
 

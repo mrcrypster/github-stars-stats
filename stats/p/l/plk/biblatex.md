@@ -1,10 +1,10 @@
 # plk/biblatex - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 125
 
-★ Stars: 428
+★ Stars: 427
 
 [Open repository](https://github.com/plk/biblatex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 427 | 125 | 
 | 2023-03-07 | 428 | 125 | 
 | 2023-03-05 | 428 | 125 | 
 | 2023-03-04 | 428 | 125 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 424 | 126 | 
 | 2023-02-09 | 424 | 126 | 
 | 2023-02-08 | 423 | 126 | 
-| 2023-02-06 | 422 | 126 | 
 

@@ -1,6 +1,6 @@
 # pidcodes/pidcodes.github.com - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 701
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 416 | 701 | 
 | 2023-03-07 | 416 | 701 | 
 | 2023-03-05 | 415 | 701 | 
 | 2023-03-04 | 415 | 700 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 413 | 691 | 
 | 2023-02-08 | 412 | 690 | 
 | 2023-02-07 | 412 | 690 | 
-| 2023-02-06 | 412 | 690 | 
 

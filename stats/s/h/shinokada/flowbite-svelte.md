@@ -1,6 +1,6 @@
 # shinokada/flowbite-svelte - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 87 | 
 | 2023-03-07 | - | 87 | 
 | 2023-03-06 | - | 87 | 
 | 2023-03-05 | - | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | - | 80 | 
 | 2023-02-08 | - | 76 | 
 | 2023-02-07 | - | 74 | 
-| 2023-02-06 | - | 74 | 
 

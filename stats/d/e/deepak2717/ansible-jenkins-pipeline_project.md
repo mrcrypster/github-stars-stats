@@ -1,6 +1,6 @@
 # deepak2717/ansible-jenkins-pipeline_project - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3 | 150 | 
 | 2023-03-06 | 3 | 150 | 
 | 2023-03-05 | 3 | 150 | 
 | 2023-03-04 | 3 | 149 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 3 | 148 | 
 | 2023-02-08 | 3 | 148 | 
 | 2023-02-07 | 3 | 148 | 
-| 2023-02-06 | 3 | 148 | 
 

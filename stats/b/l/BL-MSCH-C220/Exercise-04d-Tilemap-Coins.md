@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 08
 
-☋ Forks: 19
+☋ Forks: 28
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/BL-MSCH-C220/Exercise-04d-Tilemap-Coins)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-08 | - | 19 | 
+| 2023-03-08 | 1 | 28 | 
 | 2023-03-07 | - | 10 | 
 | 2023-03-06 | - | 8 | 
 

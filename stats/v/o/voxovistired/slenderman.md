@@ -1,6 +1,6 @@
 # voxovistired/slenderman - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1 | 9 | 
 | 2023-03-07 | 1 | 9 | 
 | 2023-03-06 | 1 | 9 | 
 | 2023-03-04 | 1 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1 | 8 | 
 | 2023-02-08 | 1 | 8 | 
 | 2023-02-07 | 1 | 8 | 
-| 2023-02-06 | 1 | 8 | 
 

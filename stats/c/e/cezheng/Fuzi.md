@@ -1,6 +1,6 @@
 # cezheng/Fuzi - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1008 | 143 | 
 | 2023-03-07 | 1008 | 143 | 
 | 2023-03-06 | 1008 | 142 | 
 | 2023-03-04 | 1007 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1000 | 140 | 
 | 2023-02-08 | 1000 | 140 | 
 | 2023-02-07 | 1000 | 140 | 
-| 2023-02-06 | 1000 | 140 | 
 

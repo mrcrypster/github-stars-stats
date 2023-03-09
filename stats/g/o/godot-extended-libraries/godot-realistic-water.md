@@ -1,10 +1,10 @@
 # godot-extended-libraries/godot-realistic-water - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 37
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/godot-extended-libraries/godot-realistic-water)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 426 | 37 | 
 | 2023-03-07 | 425 | 37 | 
 | 2023-03-06 | 425 | 37 | 
 | 2023-03-04 | 425 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 421 | 37 | 
 | 2023-02-08 | 421 | 37 | 
 | 2023-02-07 | 421 | 37 | 
-| 2023-02-06 | 421 | 37 | 
 

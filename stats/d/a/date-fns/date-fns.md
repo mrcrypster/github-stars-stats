@@ -1,10 +1,10 @@
 # date-fns/date-fns - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1600
+☋ Forks: 1604
 
-★ Stars: 31068
+★ Stars: 31079
 
 [Open repository](https://github.com/date-fns/date-fns)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 31079 | 1604 | 
 | 2023-03-06 | 31068 | 1600 | 
 | 2023-03-05 | 31061 | 1599 | 
 | 2023-03-04 | 31054 | 1600 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 30879 | 1591 | 
 | 2023-02-08 | 30875 | 1591 | 
 | 2023-02-07 | 30865 | 1590 | 
-| 2023-02-06 | 30853 | 1588 | 
 

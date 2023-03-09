@@ -1,6 +1,6 @@
 # stilleshan/dockerfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 513 | 164 | 
 | 2023-03-07 | 513 | 164 | 
 | 2023-03-05 | 509 | 163 | 
 | 2023-03-04 | 508 | 163 | 

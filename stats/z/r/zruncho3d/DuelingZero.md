@@ -1,10 +1,10 @@
 # zruncho3d/DuelingZero - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/zruncho3d/DuelingZero)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 61 | 4 | 
 | 2023-03-07 | 60 | 4 | 
 | 2023-03-05 | 59 | 4 | 
 | 2023-03-04 | 59 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 52 | 4 | 
 | 2023-02-09 | 51 | 3 | 
 | 2023-02-07 | 50 | 3 | 
-| 2023-02-06 | 50 | 3 | 
 

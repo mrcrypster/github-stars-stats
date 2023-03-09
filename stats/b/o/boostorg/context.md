@@ -1,6 +1,6 @@
 # boostorg/context - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 239 | 129 | 
 | 2023-03-07 | 239 | 129 | 
 | 2023-03-06 | 239 | 129 | 
 | 2023-03-05 | 239 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 233 | 128 | 
 | 2023-02-08 | 233 | 128 | 
 | 2023-02-07 | 233 | 128 | 
-| 2023-02-06 | 232 | 128 | 
 

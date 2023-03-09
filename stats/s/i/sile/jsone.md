@@ -1,6 +1,6 @@
 # sile/jsone - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 270 | 66 | 
 | 2023-03-07 | 270 | 66 | 
 | 2023-03-06 | 270 | 66 | 
 | 2023-03-05 | 271 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 268 | 65 | 
 | 2023-02-08 | 268 | 65 | 
 | 2023-02-07 | 268 | 64 | 
-| 2023-02-06 | 267 | 64 | 
 

@@ -1,10 +1,10 @@
 # thinca/vim-quickrun - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 105
 
-★ Stars: 742
+★ Stars: 743
 
 [Open repository](https://github.com/thinca/vim-quickrun)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 743 | 105 | 
 | 2023-03-07 | 742 | 105 | 
 | 2023-03-05 | 742 | 105 | 
 | 2023-03-04 | 742 | 105 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 743 | 104 | 
 | 2023-02-09 | 742 | 104 | 
 | 2023-02-08 | 742 | 104 | 
-| 2023-02-07 | 742 | 104 | 
 

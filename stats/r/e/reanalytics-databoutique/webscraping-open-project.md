@@ -1,10 +1,10 @@
 # reanalytics-databoutique/webscraping-open-project - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 60
 
-★ Stars: 1194
+★ Stars: 1196
 
 [Open repository](https://github.com/reanalytics-databoutique/webscraping-open-project)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1196 | 60 | 
 | 2023-03-06 | 1194 | 60 | 
 | 2023-03-05 | 1194 | 60 | 
 | 2023-03-04 | 1193 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 1183 | 59 | 
 | 2023-02-08 | 1183 | 59 | 
 | 2023-02-07 | 1182 | 59 | 
-| 2023-02-06 | 1181 | 58 | 
 

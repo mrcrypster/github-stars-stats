@@ -1,6 +1,6 @@
 # so87/CISSP-Study-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 509 | 247 | 
 | 2023-03-07 | 509 | 247 | 
 | 2023-03-05 | 508 | 247 | 
 | 2023-03-04 | 508 | 247 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 506 | 246 | 
 | 2023-02-08 | 506 | 246 | 
 | 2023-02-07 | 505 | 246 | 
-| 2023-02-06 | 505 | 246 | 
 

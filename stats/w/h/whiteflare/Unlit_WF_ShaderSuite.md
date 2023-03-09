@@ -1,6 +1,6 @@
 # whiteflare/Unlit_WF_ShaderSuite - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 207 | 13 | 
 | 2023-03-07 | 207 | 13 | 
 | 2023-03-06 | 207 | 13 | 
 | 2023-03-05 | 207 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 204 | 12 | 
 | 2023-02-08 | 204 | 12 | 
 | 2023-02-07 | 204 | 12 | 
-| 2023-02-06 | 204 | 12 | 
 

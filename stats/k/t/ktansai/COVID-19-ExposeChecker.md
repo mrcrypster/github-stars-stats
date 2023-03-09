@@ -1,6 +1,6 @@
 # ktansai/COVID-19-ExposeChecker - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 94 | 10 | 
 | 2023-03-07 | 94 | 10 | 
 | 2023-03-06 | 94 | 10 | 
 | 2023-03-04 | 94 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 94 | 10 | 
 | 2023-02-08 | 94 | 10 | 
 | 2023-02-07 | 94 | 10 | 
-| 2023-02-06 | 94 | 10 | 
 

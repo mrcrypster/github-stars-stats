@@ -1,6 +1,6 @@
 # progfolio/marqueeo - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 25 | 2 | 
 | 2023-03-06 | 25 | 2 | 
 | 2023-03-05 | 23 | 2 | 
 | 2023-03-04 | 22 | 2 | 

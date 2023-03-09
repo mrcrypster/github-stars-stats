@@ -1,6 +1,6 @@
 # flatt-security/tfgoat-aws - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4 | 222 | 
 | 2023-03-07 | 4 | 222 | 
 | 2023-03-06 | 4 | 222 | 
 | 2023-03-04 | 4 | 222 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 3 | 213 | 
 | 2023-02-09 | 3 | 213 | 
 | 2023-02-08 | 3 | 213 | 
-| 2023-02-06 | 3 | 213 | 
 

@@ -1,6 +1,6 @@
 # vs454545/WindowsRDP-1 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 5 | 140 | 
 | 2023-03-07 | 5 | 140 | 
 | 2023-03-06 | 5 | 137 | 
 | 2023-03-05 | 5 | 136 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 3 | 126 | 
 | 2023-02-08 | 3 | 126 | 
 | 2023-02-07 | 3 | 126 | 
-| 2023-02-06 | 2 | 126 | 
 

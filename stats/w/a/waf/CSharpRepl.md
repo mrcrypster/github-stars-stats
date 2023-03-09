@@ -1,10 +1,10 @@
 # waf/CSharpRepl - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 63
 
-★ Stars: 1529
+★ Stars: 1534
 
 [Open repository](https://github.com/waf/CSharpRepl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1534 | 63 | 
 | 2023-03-06 | 1529 | 63 | 
 | 2023-03-05 | 1527 | 63 | 
 | 2023-03-04 | 1526 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 1503 | 61 | 
 | 2023-02-08 | 1502 | 61 | 
 | 2023-02-07 | 1501 | 61 | 
-| 2023-02-06 | 1501 | 60 | 
 

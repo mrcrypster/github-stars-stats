@@ -1,6 +1,6 @@
 # nikneym/ws - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 30 | 2 | 
 | 2023-03-07 | 30 | 2 | 
 | 2023-03-06 | 30 | 2 | 
 | 2023-03-05 | 30 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 21 | 1 | 
 | 2023-02-08 | 21 | 1 | 
 | 2023-02-07 | 21 | 1 | 
-| 2023-02-06 | 16 | 1 | 
 

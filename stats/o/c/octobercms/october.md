@@ -1,10 +1,10 @@
 # octobercms/october - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 2270
+☋ Forks: 2269
 
-★ Stars: 10843
+★ Stars: 10845
 
 [Open repository](https://github.com/octobercms/october)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 10845 | 2269 | 
 | 2023-03-06 | 10843 | 2270 | 
 | 2023-03-05 | 10843 | 2270 | 
 | 2023-03-03 | 10843 | 2270 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 10839 | 2273 | 
 | 2023-02-08 | 10839 | 2273 | 
 | 2023-02-07 | 10838 | 2273 | 
-| 2023-02-06 | 10838 | 2272 | 
 

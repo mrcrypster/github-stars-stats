@@ -1,6 +1,6 @@
 # ManlyMarco/KK-HF_Patch - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 518 | 68 | 
 | 2023-03-07 | 518 | 68 | 
 | 2023-03-06 | 518 | 68 | 
 | 2023-03-05 | 518 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 510 | 68 | 
 | 2023-02-08 | 510 | 68 | 
 | 2023-02-07 | 509 | 68 | 
-| 2023-02-06 | 509 | 68 | 
 

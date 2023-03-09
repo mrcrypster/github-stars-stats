@@ -1,10 +1,10 @@
 # kubernetes-sigs/cluster-api - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1087
+☋ Forks: 1088
 
-★ Stars: 2773
+★ Stars: 2775
 
 [Open repository](https://github.com/kubernetes-sigs/cluster-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2775 | 1088 | 
 | 2023-03-07 | 2773 | 1087 | 
 | 2023-03-06 | 2769 | 1086 | 
 | 2023-03-04 | 2765 | 1086 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 2725 | 1069 | 
 | 2023-02-08 | 2718 | 1069 | 
 | 2023-02-07 | 2717 | 1069 | 
-| 2023-02-06 | 2713 | 1067 | 
 

@@ -1,6 +1,6 @@
 # TheSadError/C-_ASCII - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6 | 11 | 
 | 2023-03-06 | 6 | 11 | 
 | 2023-03-05 | 6 | 11 | 
 | 2023-03-03 | 6 | 11 | 

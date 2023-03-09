@@ -1,10 +1,10 @@
 # Evovest/EvoTrees.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 17
 
-★ Stars: 135
+★ Stars: 137
 
 [Open repository](https://github.com/Evovest/EvoTrees.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 137 | 17 | 
 | 2023-03-07 | 135 | 17 | 
 | 2023-03-06 | 135 | 17 | 
 | 2023-03-05 | 135 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 133 | 17 | 
 | 2023-02-08 | 132 | 17 | 
 | 2023-02-07 | 132 | 17 | 
-| 2023-02-06 | 132 | 17 | 
 

@@ -1,6 +1,6 @@
 # ElliotSwart/pragmaticformalmodeling - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 34 | 2 | 
 | 2023-03-07 | 34 | 2 | 
 | 2023-03-06 | 34 | 2 | 
 | 2023-03-04 | 34 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 33 | 2 | 
 | 2023-02-08 | 33 | 2 | 
 | 2023-02-07 | 33 | 2 | 
-| 2023-02-06 | 33 | 2 | 
 

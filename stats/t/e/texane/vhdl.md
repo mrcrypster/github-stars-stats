@@ -1,10 +1,10 @@
 # texane/vhdl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 7
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/texane/vhdl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 11 | 7 | 
 | 2023-03-07 | 10 | 7 | 
 | 2023-03-05 | 10 | 7 | 
 | 2023-03-04 | 10 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 10 | 6 | 
 | 2023-02-08 | 10 | 6 | 
 | 2023-02-07 | 10 | 6 | 
-| 2023-02-06 | 10 | 6 | 
 

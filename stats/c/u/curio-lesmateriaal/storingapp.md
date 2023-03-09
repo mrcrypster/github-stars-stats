@@ -1,8 +1,8 @@
 # curio-lesmateriaal/storingapp - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 223
+☋ Forks: 224
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 224 | 
 | 2023-03-07 | - | 223 | 
 | 2023-03-05 | - | 222 | 
 | 2023-03-04 | - | 222 | 

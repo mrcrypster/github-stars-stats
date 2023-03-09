@@ -1,6 +1,6 @@
 # dariusf/ppx_interact - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 33 | 1 | 
 | 2023-03-07 | 33 | 1 | 
 | 2023-03-06 | 33 | - | 
 | 2023-03-05 | 32 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 17 | - | 
 | 2023-02-08 | 17 | - | 
 | 2023-02-07 | 17 | - | 
-| 2023-02-06 | 17 | - | 
 

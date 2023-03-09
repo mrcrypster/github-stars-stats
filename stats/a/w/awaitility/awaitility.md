@@ -1,10 +1,10 @@
 # awaitility/awaitility - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 221
 
-★ Stars: 3342
+★ Stars: 3343
 
 [Open repository](https://github.com/awaitility/awaitility)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3343 | 221 | 
 | 2023-03-07 | 3342 | 221 | 
 | 2023-03-06 | 3342 | 221 | 
 | 2023-03-04 | 3340 | 221 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 3309 | 222 | 
 | 2023-02-08 | 3309 | 222 | 
 | 2023-02-07 | 3307 | 222 | 
-| 2023-02-06 | 3307 | 222 | 
 

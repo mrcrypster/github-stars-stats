@@ -1,10 +1,10 @@
 # catppuccin/discord - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 220
+★ Stars: 222
 
 [Open repository](https://github.com/catppuccin/discord)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 222 | 62 | 
 | 2023-03-07 | 220 | 61 | 
 | 2023-03-05 | 218 | 61 | 
 | 2023-03-04 | 218 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 195 | 53 | 
 | 2023-02-08 | 195 | 54 | 
 | 2023-02-07 | 196 | 54 | 
-| 2023-02-06 | 195 | 54 | 
 

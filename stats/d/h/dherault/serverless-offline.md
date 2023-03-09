@@ -1,10 +1,10 @@
 # dherault/serverless-offline - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 770
+☋ Forks: 771
 
-★ Stars: 4852
+★ Stars: 4856
 
 [Open repository](https://github.com/dherault/serverless-offline)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4856 | 771 | 
 | 2023-03-07 | 4852 | 770 | 
 | 2023-03-05 | 4851 | 769 | 
 | 2023-03-04 | 4851 | 768 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 4825 | 766 | 
 | 2023-02-09 | 4825 | 766 | 
 | 2023-02-08 | 4823 | 766 | 
-| 2023-02-06 | 4823 | 766 | 
 

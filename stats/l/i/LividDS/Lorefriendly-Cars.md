@@ -1,6 +1,6 @@
 # LividDS/Lorefriendly-Cars - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 19 | 8 | 
 | 2023-03-07 | 19 | 8 | 
 | 2023-03-06 | 19 | 8 | 
 | 2023-03-05 | 19 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 17 | 6 | 
 | 2023-02-08 | 17 | 6 | 
 | 2023-02-07 | 17 | 6 | 
-| 2023-02-06 | 17 | 6 | 
 

@@ -1,10 +1,10 @@
 # uk4d/GmapsV2 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/uk4d/GmapsV2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 1 | - | 
 | 2023-03-07 | - | - | 
 | 2023-03-05 | - | - | 
 | 2023-03-04 | - | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | - | - | 
 | 2023-02-08 | - | - | 
 | 2023-02-07 | - | - | 
-| 2023-02-06 | - | - | 
 

@@ -1,10 +1,10 @@
 # AkashiCoin/Railway-Ngrok - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 52
+☋ Forks: 54
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/AkashiCoin/Railway-Ngrok)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 16 | 54 | 
 | 2023-03-07 | 15 | 52 | 
 | 2023-03-05 | 15 | 53 | 
 | 2023-03-04 | 15 | 53 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 14 | 44 | 
 | 2023-02-09 | 14 | 43 | 
 | 2023-02-08 | 14 | 43 | 
-| 2023-02-06 | 14 | 43 | 
 

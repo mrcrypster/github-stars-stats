@@ -1,10 +1,10 @@
 # approximatelabs/sketch - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 63
 
-★ Stars: 1384
+★ Stars: 1386
 
 [Open repository](https://github.com/approximatelabs/sketch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1386 | 63 | 
 | 2023-03-07 | 1384 | 63 | 
 | 2023-03-06 | 1382 | 63 | 
 | 2023-03-05 | 1378 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 1173 | 43 | 
 | 2023-02-08 | 1150 | 43 | 
 | 2023-02-07 | 1132 | 43 | 
-| 2023-02-06 | 1063 | 39 | 
 

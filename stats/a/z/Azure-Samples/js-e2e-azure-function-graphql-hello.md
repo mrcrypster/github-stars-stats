@@ -1,6 +1,6 @@
 # Azure-Samples/js-e2e-azure-function-graphql-hello - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 14 | 16 | 
 | 2023-03-07 | 14 | 16 | 
 | 2023-03-06 | 14 | 16 | 
 | 2023-03-04 | 14 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 13 | 16 | 
 | 2023-02-08 | 13 | 16 | 
 | 2023-02-07 | 13 | 16 | 
-| 2023-02-06 | 13 | 16 | 
 

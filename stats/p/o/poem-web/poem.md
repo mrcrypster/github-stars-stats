@@ -1,6 +1,6 @@
 # poem-web/poem - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2277 | 192 | 
 | 2023-03-06 | 2277 | 192 | 
 | 2023-03-05 | 2276 | 192 | 
 | 2023-03-04 | 2274 | 192 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 2245 | 192 | 
 | 2023-02-08 | 2242 | 191 | 
 | 2023-02-07 | 2236 | 191 | 
-| 2023-02-06 | 2233 | 190 | 
 

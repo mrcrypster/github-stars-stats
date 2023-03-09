@@ -1,10 +1,10 @@
 # natema/WorldDynamics.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/natema/WorldDynamics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 41 | 4 | 
 | 2023-03-07 | 40 | 4 | 
 | 2023-03-05 | 40 | 4 | 
 | 2023-03-04 | 40 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 38 | 2 | 
 | 2023-02-09 | 38 | 2 | 
 | 2023-02-08 | 38 | 2 | 
-| 2023-02-07 | 38 | 2 | 
 

@@ -1,10 +1,10 @@
 # kleiton0x00/Shelltropy - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 24
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/kleiton0x00/Shelltropy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 191 | 24 | 
 | 2023-03-06 | 190 | 24 | 
 | 2023-03-05 | 189 | 24 | 
 | 2023-03-04 | 189 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 186 | 24 | 
 | 2023-02-08 | 186 | 24 | 
 | 2023-02-07 | 185 | 24 | 
-| 2023-02-06 | 185 | 24 | 
 

@@ -1,10 +1,10 @@
 # xiaorouji/openwrt-passwall - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2010
 
-★ Stars: 3955
+★ Stars: 3962
 
 [Open repository](https://github.com/xiaorouji/openwrt-passwall)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 3962 | 2010 | 
 | 2023-03-07 | 3955 | 2010 | 
 | 2023-03-06 | 3954 | 2010 | 
 | 2023-03-05 | 3948 | 2007 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 3844 | 1989 | 
 | 2023-02-08 | 3839 | 1987 | 
 | 2023-02-07 | 3833 | 1987 | 
-| 2023-02-06 | 3825 | 1988 | 
 

@@ -1,10 +1,10 @@
 # jekyll/jekyll - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 10012
 
-★ Stars: 46181
+★ Stars: 46192
 
 [Open repository](https://github.com/jekyll/jekyll)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 46192 | 10012 | 
 | 2023-03-07 | 46181 | 10012 | 
 | 2023-03-06 | 46179 | 10012 | 
 | 2023-03-05 | 46171 | 10011 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 46049 | 9978 | 
 | 2023-02-08 | 46039 | 9975 | 
 | 2023-02-07 | 46030 | 9975 | 
-| 2023-02-06 | 46021 | 9973 | 
 

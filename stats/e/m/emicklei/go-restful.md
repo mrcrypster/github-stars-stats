@@ -1,10 +1,10 @@
 # emicklei/go-restful - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 688
 
-★ Stars: 4731
+★ Stars: 4738
 
 [Open repository](https://github.com/emicklei/go-restful)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4738 | 688 | 
 | 2023-03-07 | 4731 | 688 | 
 | 2023-03-06 | 4731 | 688 | 
 | 2023-03-05 | 4729 | 687 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 4712 | 683 | 
 | 2023-02-08 | 4712 | 682 | 
 | 2023-02-07 | 4711 | 682 | 
-| 2023-02-06 | 4711 | 682 | 
 

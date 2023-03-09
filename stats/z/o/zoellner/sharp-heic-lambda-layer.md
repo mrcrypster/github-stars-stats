@@ -1,8 +1,8 @@
 # zoellner/sharp-heic-lambda-layer - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 45 | 35 | 
 | 2023-03-06 | 45 | 34 | 
 | 2023-03-05 | 45 | 34 | 
 | 2023-03-04 | 45 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 44 | 32 | 
 | 2023-02-08 | 44 | 32 | 
 | 2023-02-07 | 44 | 32 | 
-| 2023-02-06 | 44 | 32 | 
 

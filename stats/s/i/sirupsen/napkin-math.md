@@ -1,6 +1,6 @@
 # sirupsen/napkin-math - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 2205 | 95 | 
 | 2023-03-06 | 2205 | 95 | 
 | 2023-03-05 | 2204 | 95 | 
 | 2023-03-04 | 2204 | 95 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 2178 | 93 | 
 | 2023-02-09 | 2178 | 93 | 
 | 2023-02-08 | 2178 | 93 | 
-| 2023-02-07 | 2174 | 93 | 
 

@@ -1,10 +1,10 @@
 # Xpitfire/symbolicai - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 19
 
-★ Stars: 445
+★ Stars: 447
 
 [Open repository](https://github.com/Xpitfire/symbolicai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 447 | 19 | 
 | 2023-03-07 | 445 | 19 | 
 | 2023-03-06 | 443 | 19 | 
 | 2023-03-04 | 440 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 413 | 15 | 
 | 2023-02-09 | 412 | 15 | 
 | 2023-02-08 | 412 | 15 | 
-| 2023-02-07 | 408 | 15 | 
 

@@ -1,10 +1,10 @@
 # binhnguyennus/awesome-scalability - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 4964
+☋ Forks: 4965
 
-★ Stars: 43935
+★ Stars: 43977
 
 [Open repository](https://github.com/binhnguyennus/awesome-scalability)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 43977 | 4965 | 
 | 2023-03-06 | 43935 | 4964 | 
 | 2023-03-05 | 43908 | 4962 | 
 | 2023-03-03 | 43894 | 4961 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 43552 | 4933 | 
 | 2023-02-08 | 43532 | 4932 | 
 | 2023-02-07 | 43518 | 4929 | 
-| 2023-02-06 | 43493 | 4924 | 
 

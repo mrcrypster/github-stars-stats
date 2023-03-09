@@ -1,10 +1,10 @@
 # NethermindEth/horus-checker - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 40
 
 [Open repository](https://github.com/NethermindEth/horus-checker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 40 | 3 | 
 | 2023-03-06 | 36 | 1 | 
 | 2023-03-05 | 36 | 1 | 
 | 2023-03-04 | 36 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 26 | 1 | 
 | 2023-02-08 | 25 | - | 
 | 2023-02-07 | 25 | - | 
-| 2023-02-06 | 23 | - | 
 

@@ -1,6 +1,6 @@
 # texane/power_inverter - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 14 | 27 | 
 | 2023-03-07 | 14 | 27 | 
 | 2023-03-06 | 14 | 27 | 
 | 2023-03-04 | 14 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 14 | 27 | 
 | 2023-02-08 | 14 | 26 | 
 | 2023-02-07 | 14 | 26 | 
-| 2023-02-06 | 13 | 26 | 
 

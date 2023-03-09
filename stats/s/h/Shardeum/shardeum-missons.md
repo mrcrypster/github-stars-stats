@@ -1,10 +1,10 @@
 # Shardeum/shardeum-missons - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 40
+☋ Forks: 43
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/Shardeum/shardeum-missons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 39 | 43 | 
 | 2023-03-06 | 37 | 40 | 
 | 2023-03-05 | 37 | 40 | 
 | 2023-03-04 | 36 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 32 | 26 | 
 | 2023-02-08 | 32 | 25 | 
 | 2023-02-07 | 32 | 24 | 
-| 2023-02-06 | 31 | 24 | 
 

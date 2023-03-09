@@ -1,6 +1,6 @@
 # luamfb/tempest-lcd - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 202 | 1 | 
 | 2023-03-07 | 202 | 1 | 
 | 2023-03-06 | 202 | 1 | 
 | 2023-03-05 | 202 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 201 | 1 | 
 | 2023-02-08 | 201 | 1 | 
 | 2023-02-07 | 201 | 1 | 
-| 2023-02-06 | 201 | 1 | 
 

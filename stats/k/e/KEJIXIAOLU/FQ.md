@@ -1,6 +1,6 @@
 # KEJIXIAOLU/FQ - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 287 | 44 | 
 | 2023-03-06 | 287 | 44 | 
 | 2023-03-05 | 287 | 44 | 
 | 2023-03-04 | 286 | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 278 | 45 | 
 | 2023-02-08 | 277 | 45 | 
 | 2023-02-07 | 276 | 45 | 
-| 2023-02-06 | 276 | 45 | 
 

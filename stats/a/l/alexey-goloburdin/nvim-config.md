@@ -1,10 +1,10 @@
 # alexey-goloburdin/nvim-config - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 89
+☋ Forks: 91
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/alexey-goloburdin/nvim-config)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 182 | 91 | 
 | 2023-03-07 | 181 | 89 | 
 | 2023-03-05 | 180 | 89 | 
 | 2023-03-04 | 180 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 171 | 86 | 
 | 2023-02-08 | 170 | 86 | 
 | 2023-02-07 | 171 | 86 | 
-| 2023-02-06 | 170 | 85 | 
 

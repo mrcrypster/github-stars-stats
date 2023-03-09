@@ -1,6 +1,6 @@
 # imtsuki/bupt-ncov-report-action - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 298
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 252 | 298 | 
 | 2023-03-06 | 252 | 298 | 
 | 2023-03-05 | 253 | 298 | 
 | 2023-03-04 | 253 | 298 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 256 | 303 | 
 | 2023-02-09 | 256 | 304 | 
 | 2023-02-08 | 257 | 305 | 
-| 2023-02-06 | 257 | 305 | 
 

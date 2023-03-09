@@ -1,10 +1,10 @@
 # potatosalad/erlang-jose - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 87
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/potatosalad/erlang-jose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 273 | 87 | 
 | 2023-03-07 | 272 | 87 | 
 | 2023-03-06 | 272 | 87 | 
 | 2023-03-05 | 272 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 271 | 86 | 
 | 2023-02-08 | 271 | 86 | 
 | 2023-02-07 | 271 | 86 | 
-| 2023-02-06 | 271 | 86 | 
 

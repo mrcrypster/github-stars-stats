@@ -1,8 +1,8 @@
 # huggingface/hub-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 111
+☋ Forks: 112
 
 ★ Stars: 93
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 93 | 112 | 
+| 2023-03-08 | 93 | 112 | 
 | 2023-03-07 | 93 | 111 | 
 | 2023-03-05 | 93 | 109 | 
 | 2023-03-04 | 93 | 109 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 85 | 105 | 
 | 2023-02-08 | 85 | 103 | 
 | 2023-02-07 | 85 | 103 | 
-| 2023-02-06 | 84 | 103 | 
 

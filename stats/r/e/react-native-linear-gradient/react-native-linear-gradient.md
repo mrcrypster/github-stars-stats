@@ -1,10 +1,10 @@
 # react-native-linear-gradient/react-native-linear-gradient - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 599
 
-★ Stars: 4492
+★ Stars: 4494
 
 [Open repository](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4494 | 599 | 
 | 2023-03-07 | 4492 | 599 | 
 | 2023-03-06 | 4492 | 599 | 
 | 2023-03-04 | 4491 | 599 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 4477 | 595 | 
 | 2023-02-09 | 4477 | 595 | 
 | 2023-02-08 | 4476 | 595 | 
-| 2023-02-06 | 4476 | 595 | 
 

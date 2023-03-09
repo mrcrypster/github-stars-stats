@@ -1,10 +1,10 @@
 # nhosoya/omniauth-apple - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 87
 
-★ Stars: 237
+★ Stars: 236
 
 [Open repository](https://github.com/nhosoya/omniauth-apple)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 236 | 87 | 
 | 2023-03-07 | 237 | 87 | 
 | 2023-03-06 | 237 | 87 | 
 

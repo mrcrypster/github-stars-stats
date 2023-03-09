@@ -1,6 +1,6 @@
 # Wra7h/FlavorTown - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 398 | 68 | 
 | 2023-03-07 | 398 | 68 | 
 | 2023-03-06 | 397 | 67 | 
 | 2023-03-05 | 396 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 382 | 65 | 
 | 2023-02-08 | 381 | 65 | 
 | 2023-02-07 | 380 | 65 | 
-| 2023-02-06 | 378 | 65 | 
 

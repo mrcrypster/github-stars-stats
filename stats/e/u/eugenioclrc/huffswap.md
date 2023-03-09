@@ -1,10 +1,10 @@
 # eugenioclrc/huffswap - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/eugenioclrc/huffswap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 25 | 2 | 
 | 2023-03-07 | 23 | 2 | 
 | 2023-03-06 | 23 | 2 | 
 | 2023-03-05 | 19 | 2 | 

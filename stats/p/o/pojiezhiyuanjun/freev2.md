@@ -1,10 +1,10 @@
 # pojiezhiyuanjun/freev2 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 478
 
-★ Stars: 787
+★ Stars: 786
 
 [Open repository](https://github.com/pojiezhiyuanjun/freev2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 786 | 478 | 
 | 2023-03-07 | 787 | 478 | 
 | 2023-03-06 | 786 | 478 | 
 | 2023-03-04 | 786 | 479 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 791 | 483 | 
 | 2023-02-08 | 790 | 483 | 
 | 2023-02-07 | 788 | 483 | 
-| 2023-02-06 | 787 | 483 | 
 

@@ -1,6 +1,6 @@
 # GarrettGunnell/AcerolaFX - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 213 | 11 | 
 | 2023-03-06 | 213 | 11 | 
 | 2023-03-05 | 212 | 11 | 
 | 2023-03-04 | 212 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 195 | 11 | 
 | 2023-02-08 | 193 | 11 | 
 | 2023-02-07 | 189 | 11 | 
-| 2023-02-06 | 181 | 11 | 
 

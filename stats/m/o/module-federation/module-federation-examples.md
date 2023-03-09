@@ -1,10 +1,10 @@
 # module-federation/module-federation-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1325
+☋ Forks: 1326
 
-★ Stars: 3997
+★ Stars: 4001
 
 [Open repository](https://github.com/module-federation/module-federation-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 4001 | 1326 | 
 | 2023-03-06 | 3997 | 1325 | 
 | 2023-03-05 | 3992 | 1322 | 
 | 2023-03-04 | 3989 | 1322 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 3885 | 1277 | 
 | 2023-02-09 | 3876 | 1276 | 
 | 2023-02-07 | 3871 | 1275 | 
-| 2023-02-06 | 3862 | 1272 | 
 

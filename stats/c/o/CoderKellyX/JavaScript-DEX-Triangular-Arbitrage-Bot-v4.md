@@ -1,6 +1,6 @@
 # CoderKellyX/JavaScript-DEX-Triangular-Arbitrage-Bot-v4 - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 51 | 50 | 
 | 2023-03-06 | 51 | 50 | 
 | 2023-03-05 | 51 | 50 | 
 | 2023-03-03 | 51 | 50 | 

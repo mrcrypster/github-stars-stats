@@ -1,6 +1,6 @@
 # neherlab/pangraph - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 45 | 4 | 
 | 2023-03-07 | 45 | 4 | 
 | 2023-03-05 | 45 | 4 | 
 | 2023-03-04 | 45 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 43 | 4 | 
 | 2023-02-08 | 43 | 4 | 
 | 2023-02-07 | 43 | 4 | 
-| 2023-02-06 | 43 | 4 | 
 

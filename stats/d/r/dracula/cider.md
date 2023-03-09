@@ -1,10 +1,10 @@
 # dracula/cider - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/dracula/cider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 10 | 5 | 
 | 2023-03-07 | 11 | 5 | 
 | 2023-03-06 | 11 | 5 | 
 | 2023-03-05 | 11 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 11 | 5 | 
 | 2023-02-09 | 11 | 5 | 
 | 2023-02-07 | 11 | 5 | 
-| 2023-02-06 | 11 | 5 | 
 

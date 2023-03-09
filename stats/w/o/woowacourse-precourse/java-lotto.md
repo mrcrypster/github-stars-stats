@@ -1,10 +1,10 @@
 # woowacourse-precourse/java-lotto - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1345
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/woowacourse-precourse/java-lotto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 12 | 1345 | 
 | 2023-03-07 | 11 | 1345 | 
 | 2023-03-06 | 11 | 1344 | 
 | 2023-03-05 | 11 | 1345 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 13 | 1350 | 
 | 2023-02-08 | 13 | 1350 | 
 | 2023-02-07 | 13 | 1351 | 
-| 2023-02-06 | 13 | 1352 | 
 

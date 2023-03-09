@@ -1,10 +1,10 @@
 # midudev/remove-bg-cloudinary-hackathon - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 62
+★ Stars: 66
 
 [Open repository](https://github.com/midudev/remove-bg-cloudinary-hackathon)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 66 | 11 | 
+| 2023-03-08 | 66 | 11 | 
 | 2023-03-07 | 62 | 11 | 
 | 2023-03-06 | 60 | 11 | 
 | 2023-03-05 | 60 | 11 | 

@@ -1,6 +1,6 @@
 # jovyntls/cheatsheets - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 113 | 15 | 
 | 2023-03-07 | 113 | 15 | 
 | 2023-03-06 | 113 | 15 | 
 | 2023-03-05 | 111 | 14 | 

@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 16 | - | 
 | 2023-03-07 | 16 | - | 
 | 2023-03-05 | 16 | - | 
 | 2023-03-04 | 16 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 16 | 1 | 
 | 2023-02-09 | 16 | 1 | 
 | 2023-02-08 | 16 | 1 | 
-| 2023-02-07 | 16 | 1 | 
 

@@ -1,10 +1,10 @@
 # AirtestProject/Airtest - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 1100
+☋ Forks: 1101
 
-★ Stars: 6868
+★ Stars: 6871
 
 [Open repository](https://github.com/AirtestProject/Airtest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 6871 | 1101 | 
 | 2023-03-06 | 6868 | 1100 | 
 | 2023-03-05 | 6866 | 1100 | 
 | 2023-03-04 | 6864 | 1100 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 6808 | 1090 | 
 | 2023-02-09 | 6803 | 1090 | 
 | 2023-02-08 | 6801 | 1089 | 
-| 2023-02-06 | 6800 | 1089 | 
 

@@ -1,6 +1,6 @@
 # uncomplicate/deep-diamond - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 385 | 13 | 
 | 2023-03-07 | 385 | 13 | 
 | 2023-03-06 | 385 | 13 | 
 | 2023-03-04 | 385 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 384 | 13 | 
 | 2023-02-08 | 384 | 13 | 
 | 2023-02-07 | 384 | 13 | 
-| 2023-02-06 | 384 | 13 | 
 

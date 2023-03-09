@@ -1,10 +1,10 @@
 # TencentARC/GFPGAN - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
-☋ Forks: 4176
+☋ Forks: 4187
 
-★ Stars: 27021
+★ Stars: 27061
 
 [Open repository](https://github.com/TencentARC/GFPGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 27061 | 4187 | 
 | 2023-03-06 | 27021 | 4176 | 
 | 2023-03-05 | 26991 | 4167 | 
 | 2023-03-04 | 26960 | 4158 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-09 | 26263 | 4035 | 
 | 2023-02-08 | 26230 | 4032 | 
 | 2023-02-07 | 26216 | 4026 | 
-| 2023-02-06 | 26186 | 4020 | 
 

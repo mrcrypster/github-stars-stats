@@ -1,6 +1,6 @@
 # canonical/prometheus-juju-exporter - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | - | 6 | 
 | 2023-03-07 | - | 6 | 
 | 2023-03-06 | - | 6 | 
 | 2023-03-05 | - | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | - | 2 | 
 | 2023-02-08 | - | 2 | 
 | 2023-02-07 | - | 2 | 
-| 2023-02-06 | - | 2 | 
 

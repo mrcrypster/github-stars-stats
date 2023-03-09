@@ -1,6 +1,6 @@
 # wcm-io-devops/jenkins-pipeline-library - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 192 | 89 | 
 | 2023-03-07 | 192 | 89 | 
 | 2023-03-06 | 192 | 88 | 
 | 2023-03-04 | 192 | 88 | 

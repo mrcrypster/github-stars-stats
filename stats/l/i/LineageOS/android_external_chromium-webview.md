@@ -1,10 +1,10 @@
 # LineageOS/android_external_chromium-webview - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 8
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/LineageOS/android_external_chromium-webview)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 15 | 8 | 
 | 2023-03-06 | 14 | 8 | 
 | 2023-03-05 | 14 | 8 | 
 | 2023-03-03 | 14 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 13 | 8 | 
 | 2023-02-09 | 13 | 8 | 
 | 2023-02-08 | 13 | 8 | 
-| 2023-02-07 | 13 | 8 | 
 

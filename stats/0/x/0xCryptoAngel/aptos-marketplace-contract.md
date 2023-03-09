@@ -1,10 +1,10 @@
 # 0xCryptoAngel/aptos-marketplace-contract - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/0xCryptoAngel/aptos-marketplace-contract)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 16 | 2 | 
 | 2023-03-06 | 17 | 2 | 
 | 2023-03-05 | 16 | 2 | 
 | 2023-03-03 | 16 | 2 | 

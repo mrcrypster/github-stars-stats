@@ -1,6 +1,6 @@
 # rocketseat-education/ignite-lab-design-system - stars & forks statistics
 
-Stats updated on Mar 2023, 06
+Stats updated on Mar 2023, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 93 | 30 | 
 | 2023-03-06 | 93 | 30 | 
 | 2023-03-05 | 93 | 30 | 
 | 2023-03-04 | 93 | 30 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 06
 | 2023-02-10 | 92 | 29 | 
 | 2023-02-09 | 92 | 29 | 
 | 2023-02-07 | 92 | 29 | 
-| 2023-02-06 | 92 | 29 | 
 

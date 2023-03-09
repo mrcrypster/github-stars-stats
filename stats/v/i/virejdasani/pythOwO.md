@@ -1,10 +1,10 @@
 # virejdasani/pythOwO - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 49
 
-★ Stars: 738
+★ Stars: 740
 
 [Open repository](https://github.com/virejdasani/pythOwO)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 740 | 49 | 
 | 2023-03-07 | 738 | 49 | 
 | 2023-03-06 | 738 | 49 | 
 | 2023-03-04 | 737 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 727 | 48 | 
 | 2023-02-08 | 727 | 48 | 
 | 2023-02-07 | 725 | 48 | 
-| 2023-02-06 | 724 | 48 | 
 

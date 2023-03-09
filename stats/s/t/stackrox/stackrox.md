@@ -1,8 +1,8 @@
 # stackrox/stackrox - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 08
 
-☋ Forks: 94
+☋ Forks: 95
 
 ★ Stars: 945
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-08 | 945 | 95 | 
 | 2023-03-07 | 945 | 94 | 
 | 2023-03-05 | 944 | 94 | 
 | 2023-03-04 | 945 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-09 | 936 | 88 | 
 | 2023-02-08 | 936 | 88 | 
 | 2023-02-07 | 933 | 87 | 
-| 2023-02-06 | 933 | 86 | 
 
