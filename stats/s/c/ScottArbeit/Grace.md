@@ -1,10 +1,10 @@
 # ScottArbeit/Grace - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 55
+★ Stars: 57
 
 [Open repository](https://github.com/ScottArbeit/Grace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 57 | 1 | 
 | 2023-03-08 | 55 | 1 | 
 | 2023-03-07 | 55 | 1 | 
 | 2023-03-06 | 54 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 33 | 1 | 
 | 2023-02-10 | 33 | 1 | 
 | 2023-02-08 | 33 | 1 | 
-| 2023-02-07 | 33 | 1 | 
 

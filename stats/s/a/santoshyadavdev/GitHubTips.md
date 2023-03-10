@@ -1,10 +1,10 @@
 # santoshyadavdev/GitHubTips - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/santoshyadavdev/GitHubTips)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 11 | 7 | 
 | 2023-03-08 | 10 | 7 | 
 | 2023-03-07 | 10 | 7 | 
 | 2023-03-06 | 10 | 7 | 

@@ -1,10 +1,10 @@
 # primait/csv_schema - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/primait/csv_schema)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 20 | 1 | 
 | 2023-03-08 | 19 | 1 | 
 | 2023-03-06 | 19 | 1 | 
 | 2023-03-05 | 19 | 1 | 

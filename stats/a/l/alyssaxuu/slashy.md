@@ -1,10 +1,10 @@
 # alyssaxuu/slashy - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 29
 
-★ Stars: 454
+★ Stars: 456
 
 [Open repository](https://github.com/alyssaxuu/slashy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 456 | 29 | 
 | 2023-03-08 | 454 | 29 | 
 | 2023-03-06 | 454 | 29 | 
 | 2023-03-05 | 455 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 447 | 27 | 
 | 2023-02-09 | 447 | 27 | 
 | 2023-02-08 | 447 | 27 | 
-| 2023-02-07 | 447 | 27 | 
 

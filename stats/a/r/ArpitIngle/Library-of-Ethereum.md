@@ -1,6 +1,6 @@
 # ArpitIngle/Library-of-Ethereum - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 237 | 27 | 
 | 2023-03-08 | 237 | 27 | 
 | 2023-03-06 | 238 | 27 | 
 | 2023-03-05 | 238 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 236 | 27 | 
 | 2023-02-09 | 235 | 27 | 
 | 2023-02-08 | 235 | 27 | 
-| 2023-02-07 | 235 | 27 | 
 

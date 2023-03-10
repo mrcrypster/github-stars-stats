@@ -1,10 +1,10 @@
 # fengdu78/Data-Science-Notes - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 2989
+☋ Forks: 2990
 
-★ Stars: 7262
+★ Stars: 7266
 
 [Open repository](https://github.com/fengdu78/Data-Science-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 7266 | 2990 | 
 | 2023-03-08 | 7262 | 2989 | 
 | 2023-03-07 | 7259 | 2989 | 
 | 2023-03-05 | 7256 | 2987 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 7210 | 2975 | 
 | 2023-02-09 | 7207 | 2974 | 
 | 2023-02-08 | 7201 | 2973 | 
-| 2023-02-07 | 7194 | 2973 | 
 

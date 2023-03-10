@@ -1,10 +1,10 @@
 # status-im/nwaku - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 29
 
-★ Stars: 126
+★ Stars: 128
 
 [Open repository](https://github.com/status-im/nwaku)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 128 | 29 | 
 | 2023-03-07 | 126 | 29 | 
 | 2023-03-06 | 126 | 29 | 
 | 2023-03-05 | 126 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 118 | 29 | 
 | 2023-02-09 | 117 | 29 | 
 | 2023-02-08 | 117 | 29 | 
-| 2023-02-07 | 117 | 29 | 
 

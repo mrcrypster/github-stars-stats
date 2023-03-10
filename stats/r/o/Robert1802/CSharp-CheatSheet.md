@@ -1,6 +1,6 @@
 # Robert1802/CSharp-CheatSheet - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 113 | 18 | 
 | 2023-03-08 | 113 | 18 | 
 | 2023-03-07 | 113 | 18 | 
 | 2023-03-06 | 113 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 113 | 17 | 
 | 2023-02-09 | 113 | 17 | 
 | 2023-02-08 | 113 | 17 | 
-| 2023-02-07 | 113 | 17 | 
 

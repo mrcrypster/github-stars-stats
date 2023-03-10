@@ -1,6 +1,6 @@
 # tristanisham/zvm - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 43 | 2 | 
 | 2023-03-07 | 43 | 2 | 
 | 2023-03-06 | 43 | 2 | 
 | 2023-03-04 | 42 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 40 | 1 | 
 | 2023-02-09 | 39 | 1 | 
 | 2023-02-08 | 37 | 1 | 
-| 2023-02-07 | 35 | 1 | 
 

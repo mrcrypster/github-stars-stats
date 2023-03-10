@@ -1,10 +1,10 @@
 # 3lf/design-patterns-for-humans - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 26
 
-★ Stars: 282
+★ Stars: 284
 
 [Open repository](https://github.com/3lf/design-patterns-for-humans)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 284 | 26 | 
 | 2023-03-07 | 282 | 26 | 
 | 2023-03-06 | 275 | 26 | 
 | 2023-03-05 | 273 | 26 | 

@@ -1,10 +1,10 @@
 # h9-tect/Machine-learning-roadmap-and-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/h9-tect/Machine-learning-roadmap-and-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 178 | 32 | 
 | 2023-03-08 | 177 | 31 | 
 | 2023-03-07 | 178 | 31 | 
 | 2023-03-05 | 177 | 32 | 

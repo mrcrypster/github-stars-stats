@@ -1,0 +1,18 @@
+# stefbowerman/week-6-homework - stars & forks statistics
+
+Stats updated on Mar 2023, 10
+
+☋ Forks: 9
+
+★ Stars: 0
+
+[Open repository](https://github.com/stefbowerman/week-6-homework)
+
+[Open detailed stats for stefbowerman/week-6-homework](https://reviewgithub.com/rep/stefbowerman/week-6-homework)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-10 | - | 9 | 
+| 2023-03-09 | - | 9 | 
+

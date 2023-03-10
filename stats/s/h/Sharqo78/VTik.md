@@ -1,6 +1,6 @@
 # Sharqo78/VTik - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 17 | 2 | 
 | 2023-03-07 | 17 | 2 | 
 | 2023-03-05 | 17 | 2 | 
 | 2023-03-04 | 18 | 2 | 

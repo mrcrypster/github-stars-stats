@@ -1,10 +1,10 @@
 # fishslot/video_loopback_for_webui - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 204
+★ Stars: 212
 
 [Open repository](https://github.com/fishslot/video_loopback_for_webui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 212 | 11 | 
 | 2023-03-07 | 204 | 11 | 
 | 2023-03-06 | 197 | 11 | 
 | 2023-03-04 | 193 | 11 | 

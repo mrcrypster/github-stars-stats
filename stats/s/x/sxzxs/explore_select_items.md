@@ -1,6 +1,6 @@
 # sxzxs/explore_select_items - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 35 | 2 | 
 | 2023-03-08 | 35 | 2 | 
 | 2023-03-07 | 35 | 2 | 
 | 2023-03-05 | 34 | 2 | 

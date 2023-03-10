@@ -1,6 +1,6 @@
 # NCSC-NL/spring4shell - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 177 | 34 | 
 | 2023-03-07 | 177 | 34 | 
 | 2023-03-06 | 177 | 34 | 
 | 2023-03-05 | 177 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 177 | 34 | 
 | 2023-02-10 | 177 | 34 | 
 | 2023-02-08 | 177 | 34 | 
-| 2023-02-07 | 177 | 34 | 
 

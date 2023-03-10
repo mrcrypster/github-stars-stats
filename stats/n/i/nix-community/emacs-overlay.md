@@ -1,10 +1,10 @@
 # nix-community/emacs-overlay - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 135
 
-★ Stars: 373
+★ Stars: 375
 
 [Open repository](https://github.com/nix-community/emacs-overlay)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 375 | 135 | 
 | 2023-03-07 | 373 | 135 | 
 | 2023-03-06 | 372 | 135 | 
 | 2023-03-04 | 371 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 368 | 133 | 
 | 2023-02-09 | 368 | 132 | 
 | 2023-02-08 | 367 | 132 | 
-| 2023-02-07 | 367 | 132 | 
 

@@ -1,10 +1,10 @@
 # sinai-dev/UnityExplorer - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 188
+☋ Forks: 189
 
-★ Stars: 1424
+★ Stars: 1429
 
 [Open repository](https://github.com/sinai-dev/UnityExplorer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1429 | 189 | 
 | 2023-03-08 | 1424 | 188 | 
 | 2023-03-06 | 1422 | 188 | 
 | 2023-03-04 | 1419 | 188 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1366 | 181 | 
 | 2023-02-09 | 1364 | 181 | 
 | 2023-02-08 | 1359 | 178 | 
-| 2023-02-07 | 1354 | 176 | 
 

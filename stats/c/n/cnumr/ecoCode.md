@@ -1,6 +1,6 @@
 # cnumr/ecoCode - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 60 | 54 | 
 | 2023-03-07 | 60 | 54 | 
 | 2023-03-06 | 60 | 54 | 
 | 2023-03-05 | 60 | 54 | 

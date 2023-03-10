@@ -1,6 +1,6 @@
 # dajva/rg.el - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 385 | 34 | 
 | 2023-03-08 | 385 | 34 | 
 | 2023-03-06 | 385 | 34 | 
 | 2023-03-05 | 385 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 377 | 34 | 
 | 2023-02-10 | 375 | 34 | 
 | 2023-02-08 | 375 | 34 | 
-| 2023-02-07 | 375 | 34 | 
 

@@ -1,10 +1,10 @@
 # oracle/docker-images - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 5264
+☋ Forks: 5269
 
-★ Stars: 5904
+★ Stars: 5906
 
 [Open repository](https://github.com/oracle/docker-images)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5906 | 5269 | 
 | 2023-03-08 | 5904 | 5264 | 
 | 2023-03-07 | 5901 | 5261 | 
 | 2023-03-06 | 5900 | 5258 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 5863 | 5230 | 
 | 2023-02-09 | 5860 | 5227 | 
 | 2023-02-08 | 5860 | 5227 | 
-| 2023-02-07 | 5860 | 5226 | 
 

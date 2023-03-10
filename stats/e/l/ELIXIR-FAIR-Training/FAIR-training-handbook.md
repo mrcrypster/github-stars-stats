@@ -1,6 +1,6 @@
 # ELIXIR-FAIR-Training/FAIR-training-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 8 | 14 | 
 | 2023-03-08 | 8 | 14 | 
 | 2023-03-07 | 8 | 14 | 
 | 2023-03-05 | 8 | 14 | 

@@ -1,6 +1,6 @@
 # decompiler-explorer/decompiler-explorer - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1197 | 70 | 
 | 2023-03-07 | 1197 | 70 | 
 | 2023-03-06 | 1196 | 69 | 
 | 2023-03-04 | 1195 | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1178 | 66 | 
 | 2023-02-09 | 1176 | 66 | 
 | 2023-02-08 | 1175 | 66 | 
-| 2023-02-07 | 1173 | 66 | 
 

@@ -1,10 +1,10 @@
 # satisfice/jq_cookbook - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/satisfice/jq_cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2 | - | 
 | 2023-03-08 | 1 | - | 
 | 2023-03-06 | 1 | - | 
 | 2023-03-05 | 1 | - | 

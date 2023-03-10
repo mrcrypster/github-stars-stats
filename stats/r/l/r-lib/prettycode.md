@@ -1,6 +1,6 @@
 # r-lib/prettycode - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 98 | 7 | 
 | 2023-03-08 | 98 | 7 | 
 | 2023-03-07 | 98 | 7 | 
 | 2023-03-05 | 98 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 98 | 7 | 
 | 2023-02-09 | 98 | 7 | 
 | 2023-02-08 | 98 | 7 | 
-| 2023-02-07 | 98 | 7 | 
 

@@ -1,6 +1,6 @@
 # osohq/oso - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2932 | 147 | 
 | 2023-03-08 | 2932 | 147 | 
 | 2023-03-06 | 2931 | 146 | 
 | 2023-03-05 | 2927 | 146 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2885 | 142 | 
 | 2023-02-10 | 2884 | 142 | 
 | 2023-02-09 | 2883 | 142 | 
-| 2023-02-07 | 2882 | 142 | 
 

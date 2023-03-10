@@ -1,6 +1,6 @@
 # ramintoosi/ROSS - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 87 | 1 | 
 | 2023-03-07 | 87 | 1 | 
 | 2023-03-05 | 87 | 1 | 
 | 2023-03-04 | 87 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 85 | 1 | 
 | 2023-02-10 | 85 | 1 | 
 | 2023-02-09 | 85 | 1 | 
-| 2023-02-07 | 85 | 1 | 
 

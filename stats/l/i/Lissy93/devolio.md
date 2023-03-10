@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/Lissy93/devolio)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 44 | 2 | 
+| 2023-03-09 | 45 | 2 | 
 | 2023-03-08 | 44 | 2 | 
 | 2023-03-07 | 42 | 2 | 
 | 2023-03-06 | 41 | 2 | 

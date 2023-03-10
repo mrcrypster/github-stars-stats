@@ -1,6 +1,6 @@
 # ndaidong/article-parser - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 781 | 88 | 
 | 2023-03-07 | 781 | 88 | 
 | 2023-03-06 | 780 | 88 | 
 | 2023-03-05 | 780 | 88 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 761 | 87 | 
 | 2023-02-09 | 761 | 87 | 
 | 2023-02-08 | 761 | 87 | 
-| 2023-02-07 | 760 | 87 | 
 

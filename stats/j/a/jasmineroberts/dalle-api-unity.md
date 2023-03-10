@@ -1,6 +1,6 @@
 # jasmineroberts/dalle-api-unity - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 81 | 2 | 
 | 2023-03-08 | 81 | 2 | 
 | 2023-03-06 | 81 | 2 | 
 | 2023-03-05 | 81 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 80 | 2 | 
 | 2023-02-10 | 83 | 2 | 
 | 2023-02-09 | 83 | 2 | 
-| 2023-02-08 | 83 | 2 | 
 

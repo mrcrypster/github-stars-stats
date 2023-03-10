@@ -1,10 +1,10 @@
 # jaywcjlove/awesome-mac - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 5734
+☋ Forks: 5735
 
-★ Stars: 58425
+★ Stars: 58466
 
 [Open repository](https://github.com/jaywcjlove/awesome-mac)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 58466 | 5735 | 
 | 2023-03-08 | 58425 | 5734 | 
 | 2023-03-06 | 58388 | 5732 | 
 | 2023-03-05 | 58341 | 5731 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 57636 | 5712 | 
 | 2023-02-09 | 57593 | 5708 | 
 | 2023-02-08 | 57545 | 5706 | 
-| 2023-02-07 | 57524 | 5700 | 
 

@@ -1,10 +1,10 @@
 # automationhacks/testing-checklists - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/automationhacks/testing-checklists)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 121 | 14 | 
 | 2023-03-07 | 120 | 14 | 
 | 2023-03-06 | 119 | 14 | 
 | 2023-03-04 | 119 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 111 | 16 | 
 | 2023-02-10 | 110 | 16 | 
 | 2023-02-09 | 109 | 15 | 
-| 2023-02-08 | 107 | 15 | 
 

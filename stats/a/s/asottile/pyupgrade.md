@@ -1,10 +1,10 @@
 # asottile/pyupgrade - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 152
 
-★ Stars: 2499
+★ Stars: 2505
 
 [Open repository](https://github.com/asottile/pyupgrade)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2505 | 152 | 
 | 2023-03-07 | 2499 | 152 | 
 | 2023-03-06 | 2493 | 152 | 
 | 2023-03-04 | 2492 | 152 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2458 | 151 | 
 | 2023-02-09 | 2453 | 151 | 
 | 2023-02-08 | 2453 | 151 | 
-| 2023-02-07 | 2448 | 151 | 
 

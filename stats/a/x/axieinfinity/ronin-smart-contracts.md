@@ -1,6 +1,6 @@
 # axieinfinity/ronin-smart-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 153 | 68 | 
 | 2023-03-07 | 153 | 68 | 
 | 2023-03-06 | 153 | 68 | 
 | 2023-03-05 | 153 | 68 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 152 | 69 | 
 | 2023-02-09 | 152 | 69 | 
 | 2023-02-08 | 152 | 69 | 
-| 2023-02-07 | 151 | 69 | 
 

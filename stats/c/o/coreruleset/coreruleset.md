@@ -1,10 +1,10 @@
 # coreruleset/coreruleset - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 274
+☋ Forks: 276
 
-★ Stars: 1423
+★ Stars: 1428
 
 [Open repository](https://github.com/coreruleset/coreruleset)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1428 | 276 | 
 | 2023-03-08 | 1423 | 274 | 
 | 2023-03-06 | 1420 | 274 | 
 | 2023-03-05 | 1418 | 273 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1391 | 275 | 
 | 2023-02-10 | 1390 | 275 | 
 | 2023-02-08 | 1390 | 275 | 
-| 2023-02-07 | 1389 | 274 | 
 

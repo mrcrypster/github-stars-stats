@@ -1,6 +1,6 @@
 # tcdi/pgx - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2245 | 147 | 
 | 2023-03-07 | 2245 | 147 | 
 | 2023-03-06 | 2242 | 146 | 
 | 2023-03-05 | 2239 | 146 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2177 | 144 | 
 | 2023-02-09 | 2174 | 144 | 
 | 2023-02-08 | 2171 | 144 | 
-| 2023-02-07 | 2165 | 144 | 
 

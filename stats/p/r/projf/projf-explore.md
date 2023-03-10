@@ -1,6 +1,6 @@
 # projf/projf-explore - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 400 | 48 | 
 | 2023-03-08 | 400 | 48 | 
 | 2023-03-07 | 400 | 48 | 
 | 2023-03-05 | 400 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 396 | 47 | 
 | 2023-02-09 | 396 | 47 | 
 | 2023-02-08 | 396 | 47 | 
-| 2023-02-07 | 396 | 47 | 
 

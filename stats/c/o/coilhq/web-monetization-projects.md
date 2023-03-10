@@ -1,6 +1,6 @@
 # coilhq/web-monetization-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 79 | 16 | 
 | 2023-03-07 | 79 | 16 | 
 | 2023-03-06 | 79 | 16 | 
 | 2023-03-05 | 79 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 77 | 16 | 
 | 2023-02-09 | 77 | 16 | 
 | 2023-02-08 | 77 | 16 | 
-| 2023-02-07 | 77 | 16 | 
 

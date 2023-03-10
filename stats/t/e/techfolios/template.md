@@ -1,10 +1,10 @@
 # techfolios/template - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 32
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/techfolios/template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 10 | 32 | 
 | 2023-03-07 | 9 | 32 | 
 | 2023-03-06 | 9 | 32 | 
 | 2023-03-05 | 8 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 7 | 30 | 
 | 2023-02-09 | 7 | 29 | 
 | 2023-02-08 | 7 | 29 | 
-| 2023-02-07 | 7 | 29 | 
 

@@ -1,10 +1,10 @@
 # momosecurity/bombus - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 116
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/momosecurity/bombus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 422 | 116 | 
 | 2023-03-07 | 421 | 116 | 
 | 2023-03-06 | 421 | 116 | 
 | 2023-03-05 | 421 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 422 | 115 | 
 | 2023-02-09 | 422 | 115 | 
 | 2023-02-08 | 422 | 115 | 
-| 2023-02-07 | 422 | 115 | 
 

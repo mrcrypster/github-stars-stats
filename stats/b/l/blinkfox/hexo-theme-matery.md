@@ -1,10 +1,10 @@
 # blinkfox/hexo-theme-matery - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1209
 
-★ Stars: 4800
+★ Stars: 4801
 
 [Open repository](https://github.com/blinkfox/hexo-theme-matery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4801 | 1209 | 
 | 2023-03-08 | 4800 | 1209 | 
 | 2023-03-06 | 4797 | 1208 | 
 | 2023-03-05 | 4796 | 1209 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 4751 | 1208 | 
 | 2023-02-10 | 4750 | 1206 | 
 | 2023-02-09 | 4747 | 1206 | 
-| 2023-02-08 | 4748 | 1206 | 
 

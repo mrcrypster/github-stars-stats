@@ -1,10 +1,10 @@
 # al-one/hass-xiaomi-miot - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 293
+☋ Forks: 292
 
-★ Stars: 2230
+★ Stars: 2235
 
 [Open repository](https://github.com/al-one/hass-xiaomi-miot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2235 | 292 | 
 | 2023-03-07 | 2230 | 293 | 
 | 2023-03-06 | 2225 | 293 | 
 | 2023-03-04 | 2221 | 293 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2119 | 273 | 
 | 2023-02-09 | 2115 | 272 | 
 | 2023-02-08 | 2108 | 271 | 
-| 2023-02-07 | 2099 | 271 | 
 

@@ -1,10 +1,10 @@
 # lucasteles/FsFaker - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/lucasteles/FsFaker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 17 | - | 
 | 2023-03-08 | 16 | - | 
 | 2023-03-07 | 16 | - | 
 | 2023-03-06 | 16 | - | 

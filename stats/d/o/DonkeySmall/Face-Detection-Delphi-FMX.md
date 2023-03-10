@@ -1,10 +1,10 @@
 # DonkeySmall/Face-Detection-Delphi-FMX - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/DonkeySmall/Face-Detection-Delphi-FMX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 33 | 11 | 
 | 2023-03-08 | 32 | 11 | 
 | 2023-03-07 | 32 | 11 | 
 | 2023-03-05 | 32 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 33 | 11 | 
 | 2023-02-10 | 33 | 11 | 
 | 2023-02-08 | 32 | 11 | 
-| 2023-02-07 | 32 | 11 | 
 

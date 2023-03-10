@@ -1,10 +1,10 @@
 # marler8997/zigup - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 242
+★ Stars: 245
 
 [Open repository](https://github.com/marler8997/zigup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 245 | 22 | 
 | 2023-03-07 | 242 | 21 | 
 | 2023-03-06 | 241 | 20 | 
 | 2023-03-04 | 240 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 229 | 20 | 
 | 2023-02-09 | 229 | 20 | 
 | 2023-02-08 | 228 | 20 | 
-| 2023-02-07 | 228 | 20 | 
 

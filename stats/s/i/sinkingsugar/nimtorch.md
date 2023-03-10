@@ -1,6 +1,6 @@
 # sinkingsugar/nimtorch - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 449 | 18 | 
 | 2023-03-07 | 449 | 18 | 
 | 2023-03-06 | 449 | 18 | 
 | 2023-03-05 | 449 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 428 | 17 | 
 | 2023-02-09 | 428 | 17 | 
 | 2023-02-08 | 428 | 17 | 
-| 2023-02-07 | 428 | 17 | 
 

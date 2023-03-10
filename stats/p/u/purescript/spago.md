@@ -1,6 +1,6 @@
 # purescript/spago - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 712 | 112 | 
 | 2023-03-07 | 712 | 112 | 
 | 2023-03-06 | 711 | 112 | 
 | 2023-03-05 | 711 | 112 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 708 | 112 | 
 | 2023-02-09 | 708 | 111 | 
 | 2023-02-08 | 707 | 110 | 
-| 2023-02-07 | 706 | 110 | 
 

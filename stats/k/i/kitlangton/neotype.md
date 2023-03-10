@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/kitlangton/neotype)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 36 | 1 | 
+| 2023-03-09 | 37 | 1 | 
 | 2023-03-08 | 35 | 1 | 
 | 2023-03-07 | 35 | 1 | 
 | 2023-03-06 | 25 | 1 | 

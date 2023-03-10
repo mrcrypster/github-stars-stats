@@ -1,6 +1,6 @@
 # giantswarm/k8s-initiator-app - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4 | 2 | 
 | 2023-03-08 | 4 | 2 | 
 | 2023-03-07 | 4 | 2 | 
 | 2023-03-05 | 4 | 2 | 

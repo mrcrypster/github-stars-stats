@@ -1,6 +1,6 @@
 # talaexe/WhoDoesntFollowBackIG - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 32 | 10 | 
 | 2023-03-08 | 32 | 10 | 
 | 2023-03-06 | 32 | 10 | 
 | 2023-03-05 | 32 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 28 | 9 | 
 | 2023-02-10 | 28 | 9 | 
 | 2023-02-08 | 28 | 9 | 
-| 2023-02-07 | 28 | 9 | 
 

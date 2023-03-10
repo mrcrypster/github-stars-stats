@@ -1,10 +1,10 @@
 # aljazceru/awesome-nostr - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 167
 
-★ Stars: 1650
+★ Stars: 1661
 
 [Open repository](https://github.com/aljazceru/awesome-nostr)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1661 | 167 | 
 | 2023-03-07 | 1650 | 167 | 
 | 2023-03-06 | 1639 | 166 | 
 | 2023-03-05 | 1638 | 166 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1455 | 143 | 
 | 2023-02-09 | 1434 | 143 | 
 | 2023-02-08 | 1408 | 140 | 
-| 2023-02-07 | 1380 | 138 | 
 

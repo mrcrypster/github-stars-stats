@@ -1,10 +1,10 @@
 # g3gg0/flipper-swd_probe - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/g3gg0/flipper-swd_probe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 29 | - | 
 | 2023-03-07 | 28 | - | 
 | 2023-03-06 | 28 | - | 
 | 2023-03-04 | 28 | - | 

@@ -1,6 +1,6 @@
 # TheZoroForce240/FNF-Modcharting-Tools - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 21 | 7 | 
 | 2023-03-08 | 21 | 7 | 
 | 2023-03-06 | 22 | 7 | 
 | 2023-03-05 | 22 | 6 | 

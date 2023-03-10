@@ -1,10 +1,10 @@
 # Artraxon/unexBot - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 17
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/Artraxon/unexBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 217 | 17 | 
 | 2023-03-07 | 216 | 17 | 
 | 2023-03-06 | 216 | 17 | 
 | 2023-03-04 | 216 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 211 | 17 | 
 | 2023-02-09 | 211 | 17 | 
 | 2023-02-08 | 211 | 17 | 
-| 2023-02-07 | 211 | 17 | 
 

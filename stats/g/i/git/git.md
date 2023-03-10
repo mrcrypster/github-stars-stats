@@ -1,10 +1,10 @@
 # git/git - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 24771
+☋ Forks: 24782
 
-★ Stars: 45485
+★ Stars: 45508
 
 [Open repository](https://github.com/git/git)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 45508 | 24782 | 
 | 2023-03-08 | 45485 | 24771 | 
 | 2023-03-06 | 45467 | 24757 | 
 | 2023-03-05 | 45448 | 24755 | 

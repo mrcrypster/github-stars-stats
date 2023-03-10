@@ -1,6 +1,6 @@
 # autonomousapps/dependency-analysis-android-gradle-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1189 | 87 | 
 | 2023-03-07 | 1189 | 87 | 
 | 2023-03-06 | 1184 | 86 | 
 | 2023-03-05 | 1182 | 86 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1145 | 86 | 
 | 2023-02-09 | 1143 | 86 | 
 | 2023-02-08 | 1143 | 86 | 
-| 2023-02-07 | 1141 | 85 | 
 

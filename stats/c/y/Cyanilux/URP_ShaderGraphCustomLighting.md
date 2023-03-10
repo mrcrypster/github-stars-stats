@@ -1,8 +1,8 @@
 # Cyanilux/URP_ShaderGraphCustomLighting - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 319
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 319 | 38 | 
 | 2023-03-07 | 319 | 37 | 
 | 2023-03-06 | 319 | 37 | 
 | 2023-03-05 | 319 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 310 | 35 | 
 | 2023-02-09 | 309 | 35 | 
 | 2023-02-08 | 309 | 35 | 
-| 2023-02-07 | 309 | 35 | 
 

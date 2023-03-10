@@ -1,10 +1,10 @@
 # JuanCrg90/Clean-Code-Notes - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 670
+☋ Forks: 671
 
-★ Stars: 4557
+★ Stars: 4562
 
 [Open repository](https://github.com/JuanCrg90/Clean-Code-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4562 | 671 | 
 | 2023-03-08 | 4557 | 670 | 
 | 2023-03-07 | 4546 | 670 | 
 | 2023-03-05 | 4545 | 670 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 4470 | 659 | 
 | 2023-02-10 | 4464 | 658 | 
 | 2023-02-08 | 4457 | 657 | 
-| 2023-02-07 | 4453 | 657 | 
 

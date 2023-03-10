@@ -1,10 +1,10 @@
 # deta/space-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/deta/space-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 14 | 8 | 
 | 2023-03-08 | 13 | 8 | 
 | 2023-03-07 | 13 | 7 | 
 | 2023-03-05 | 13 | 7 | 

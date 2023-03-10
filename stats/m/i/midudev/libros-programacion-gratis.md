@@ -1,10 +1,10 @@
 # midudev/libros-programacion-gratis - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 101
 
-★ Stars: 817
+★ Stars: 819
 
 [Open repository](https://github.com/midudev/libros-programacion-gratis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 819 | 101 | 
 | 2023-03-07 | 817 | 101 | 
 | 2023-03-06 | 815 | 100 | 
 | 2023-03-05 | 813 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 728 | 87 | 
 | 2023-02-09 | 725 | 87 | 
 | 2023-02-08 | 722 | 87 | 
-| 2023-02-07 | 719 | 87 | 
 

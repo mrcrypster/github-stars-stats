@@ -1,8 +1,8 @@
 # SciML/TruncatedStacktraces.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 19 | 2 | 
 | 2023-03-08 | 19 | 1 | 
 | 2023-03-07 | 19 | 1 | 
 | 2023-03-06 | 19 | 1 | 

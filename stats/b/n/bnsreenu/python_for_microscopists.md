@@ -1,10 +1,10 @@
 # bnsreenu/python_for_microscopists - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1780
+☋ Forks: 1782
 
-★ Stars: 2428
+★ Stars: 2430
 
 [Open repository](https://github.com/bnsreenu/python_for_microscopists)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2430 | 1782 | 
 | 2023-03-08 | 2428 | 1780 | 
 | 2023-03-07 | 2418 | 1772 | 
 | 2023-03-06 | 2417 | 1769 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 2354 | 1710 | 
 | 2023-02-09 | 2352 | 1710 | 
 | 2023-02-08 | 2350 | 1705 | 
-| 2023-02-07 | 2348 | 1698 | 
 

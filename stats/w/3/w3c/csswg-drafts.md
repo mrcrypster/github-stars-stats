@@ -1,10 +1,10 @@
 # w3c/csswg-drafts - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 619
 
-★ Stars: 3852
+★ Stars: 3853
 
 [Open repository](https://github.com/w3c/csswg-drafts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3853 | 619 | 
 | 2023-03-08 | 3852 | 619 | 
 | 2023-03-07 | 3851 | 619 | 
 | 2023-03-06 | 3851 | 619 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 3831 | 611 | 
 | 2023-02-09 | 3829 | 611 | 
 | 2023-02-08 | 3829 | 611 | 
-| 2023-02-07 | 3829 | 611 | 
 

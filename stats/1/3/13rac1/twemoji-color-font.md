@@ -1,6 +1,6 @@
 # 13rac1/twemoji-color-font - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1428 | 62 | 
 | 2023-03-07 | 1428 | 62 | 
 | 2023-03-06 | 1428 | 62 | 
 | 2023-03-05 | 1428 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1418 | 61 | 
 | 2023-02-09 | 1417 | 61 | 
 | 2023-02-08 | 1418 | 61 | 
-| 2023-02-07 | 1417 | 61 | 
 

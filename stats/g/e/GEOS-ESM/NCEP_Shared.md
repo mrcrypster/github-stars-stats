@@ -1,6 +1,6 @@
 # GEOS-ESM/NCEP_Shared - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2 | 1 | 
+| 2023-03-09 | 2 | 1 | 
 | 2023-03-08 | 2 | 1 | 
 | 2023-03-07 | 2 | 1 | 
 | 2023-03-06 | 2 | 1 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1 | 1 | 
 | 2023-02-09 | 1 | 1 | 
 | 2023-02-08 | 1 | 1 | 
-| 2023-02-07 | 1 | 1 | 
 

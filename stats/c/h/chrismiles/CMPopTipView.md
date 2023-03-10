@@ -1,6 +1,6 @@
 # chrismiles/CMPopTipView - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 477
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2754 | 477 | 
 | 2023-03-07 | 2754 | 477 | 
 | 2023-03-06 | 2754 | 477 | 
 | 2023-03-04 | 2754 | 477 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2755 | 477 | 
 | 2023-02-09 | 2755 | 477 | 
 | 2023-02-08 | 2755 | 477 | 
-| 2023-02-07 | 2755 | 477 | 
 

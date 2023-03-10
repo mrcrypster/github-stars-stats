@@ -1,6 +1,6 @@
 # idiap/HMMGradients.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 22 | - | 
 | 2023-03-07 | 22 | - | 
 | 2023-03-06 | 22 | - | 
 | 2023-03-05 | 22 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 20 | - | 
 | 2023-02-09 | 20 | - | 
 | 2023-02-08 | 20 | - | 
-| 2023-02-07 | 20 | - | 
 

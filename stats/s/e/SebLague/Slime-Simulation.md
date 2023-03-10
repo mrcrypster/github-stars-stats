@@ -1,10 +1,10 @@
 # SebLague/Slime-Simulation - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 1168
+★ Stars: 1169
 
 [Open repository](https://github.com/SebLague/Slime-Simulation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1169 | 199 | 
 | 2023-03-08 | 1168 | 198 | 
 | 2023-03-07 | 1166 | 198 | 
 | 2023-03-05 | 1166 | 198 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1135 | 193 | 
 | 2023-02-09 | 1135 | 193 | 
 | 2023-02-08 | 1133 | 192 | 
-| 2023-02-07 | 1133 | 192 | 
 

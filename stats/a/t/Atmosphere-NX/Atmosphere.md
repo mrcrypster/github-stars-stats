@@ -1,10 +1,10 @@
 # Atmosphere-NX/Atmosphere - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1019
 
-★ Stars: 10870
+★ Stars: 10883
 
 [Open repository](https://github.com/Atmosphere-NX/Atmosphere)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 10883 | 1019 | 
 | 2023-03-08 | 10870 | 1019 | 
 | 2023-03-06 | 10850 | 1019 | 
 | 2023-03-05 | 10839 | 1019 | 

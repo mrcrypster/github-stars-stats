@@ -1,10 +1,10 @@
 # vuejs/language-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 243
+☋ Forks: 244
 
-★ Stars: 4338
+★ Stars: 4341
 
 [Open repository](https://github.com/vuejs/language-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4341 | 244 | 
 | 2023-03-07 | 4338 | 243 | 
 | 2023-03-06 | 4335 | 244 | 
 | 2023-03-05 | 4333 | 244 | 

@@ -1,10 +1,10 @@
 # Cactus-proj/A-Philosophy-of-Software-Design-zh - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 164
+☋ Forks: 163
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 208 | 163 | 
 | 2023-03-08 | 207 | 164 | 
 | 2023-03-06 | 207 | 164 | 
 | 2023-03-05 | 204 | 164 | 

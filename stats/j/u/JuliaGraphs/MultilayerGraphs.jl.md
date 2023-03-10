@@ -1,10 +1,10 @@
 # JuliaGraphs/MultilayerGraphs.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 75
+★ Stars: 81
 
 [Open repository](https://github.com/JuliaGraphs/MultilayerGraphs.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 81 | 5 | 
 | 2023-03-08 | 75 | 5 | 
 | 2023-03-07 | 75 | 5 | 
 

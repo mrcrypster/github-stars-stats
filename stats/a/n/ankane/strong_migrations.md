@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 152
 
-★ Stars: 3401
+★ Stars: 3402
 
 [Open repository](https://github.com/ankane/strong_migrations)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 3401 | 152 | 
+| 2023-03-09 | 3402 | 152 | 
 | 2023-03-08 | 3401 | 152 | 
 | 2023-03-06 | 3398 | 151 | 
 | 2023-03-05 | 3395 | 151 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-10 | 3372 | 146 | 
 | 2023-02-09 | 3370 | 146 | 
 | 2023-02-08 | 3367 | 146 | 
-| 2023-02-07 | 3366 | 146 | 
 

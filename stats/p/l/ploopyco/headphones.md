@@ -1,10 +1,10 @@
 # ploopyco/headphones - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 26
 
-★ Stars: 506
+★ Stars: 508
 
 [Open repository](https://github.com/ploopyco/headphones)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 508 | 26 | 
 | 2023-03-08 | 506 | 26 | 
 | 2023-03-06 | 505 | 26 | 
 | 2023-03-05 | 494 | 26 | 

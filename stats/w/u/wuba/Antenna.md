@@ -1,6 +1,6 @@
 # wuba/Antenna - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 637 | 71 | 
 | 2023-03-08 | 637 | 71 | 
 | 2023-03-07 | 635 | 71 | 
 | 2023-03-05 | 633 | 71 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 616 | 68 | 
 | 2023-02-10 | 616 | 68 | 
 | 2023-02-08 | 616 | 68 | 
-| 2023-02-07 | 615 | 68 | 
 

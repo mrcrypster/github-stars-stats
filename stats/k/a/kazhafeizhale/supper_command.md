@@ -1,10 +1,10 @@
 # kazhafeizhale/supper_command - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/kazhafeizhale/supper_command)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 43 | 5 | 
 | 2023-03-08 | 42 | 5 | 
 | 2023-03-07 | 41 | 5 | 
 | 2023-03-05 | 40 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 39 | 5 | 
 | 2023-02-09 | 39 | 5 | 
 | 2023-02-08 | 39 | 5 | 
-| 2023-02-07 | 39 | 5 | 
 

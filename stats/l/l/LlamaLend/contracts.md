@@ -1,8 +1,8 @@
 # LlamaLend/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 101
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 101 | 22 | 
 | 2023-03-08 | 101 | 21 | 
 | 2023-03-06 | 101 | 21 | 
 | 2023-03-05 | 101 | 21 | 

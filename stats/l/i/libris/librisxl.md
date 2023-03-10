@@ -1,10 +1,10 @@
 # libris/librisxl - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 10
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/libris/librisxl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 49 | 10 | 
 | 2023-03-08 | 50 | 10 | 
 | 2023-03-06 | 50 | 10 | 
 | 2023-03-05 | 50 | 10 | 

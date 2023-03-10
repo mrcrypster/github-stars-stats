@@ -1,10 +1,10 @@
 # gaurav-arya/StochasticAD.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 125
+★ Stars: 124
 
 [Open repository](https://github.com/gaurav-arya/StochasticAD.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 124 | 7 | 
 | 2023-03-08 | 125 | 7 | 
 | 2023-03-06 | 125 | 7 | 
 | 2023-03-05 | 125 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 123 | 7 | 
 | 2023-02-09 | 123 | 7 | 
 | 2023-02-08 | 123 | 7 | 
-| 2023-02-07 | 123 | 7 | 
 

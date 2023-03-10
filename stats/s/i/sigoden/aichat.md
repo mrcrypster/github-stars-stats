@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 217
+★ Stars: 224
 
 [Open repository](https://github.com/sigoden/aichat)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 217 | 11 | 
+| 2023-03-09 | 224 | 11 | 
 | 2023-03-08 | 214 | 10 | 
 | 2023-03-07 | 194 | 10 | 
 

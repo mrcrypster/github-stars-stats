@@ -1,10 +1,10 @@
 # nuysoft/Mock - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2677
 
-★ Stars: 18772
+★ Stars: 18775
 
 [Open repository](https://github.com/nuysoft/Mock)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 18775 | 2677 | 
 | 2023-03-07 | 18772 | 2677 | 
 | 2023-03-06 | 18768 | 2676 | 
 | 2023-03-05 | 18763 | 2675 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 18709 | 2674 | 
 | 2023-02-09 | 18705 | 2674 | 
 | 2023-02-08 | 18705 | 2675 | 
-| 2023-02-07 | 18704 | 2675 | 
 

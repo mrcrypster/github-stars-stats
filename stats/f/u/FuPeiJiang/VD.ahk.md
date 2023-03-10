@@ -1,10 +1,10 @@
 # FuPeiJiang/VD.ahk - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/FuPeiJiang/VD.ahk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 147 | 21 | 
 | 2023-03-08 | 146 | 21 | 
 | 2023-03-06 | 145 | 21 | 
 | 2023-03-05 | 144 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 131 | 21 | 
 | 2023-02-09 | 131 | 21 | 
 | 2023-02-08 | 131 | 22 | 
-| 2023-02-07 | 131 | 22 | 
 

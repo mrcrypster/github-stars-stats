@@ -1,10 +1,10 @@
 # byt3bl33d3r/NimDllSideload - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 12
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/byt3bl33d3r/NimDllSideload)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 133 | 12 | 
 | 2023-03-08 | 132 | 12 | 
 | 2023-03-07 | 132 | 12 | 
 | 2023-03-06 | 132 | 12 | 

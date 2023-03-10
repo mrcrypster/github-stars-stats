@@ -1,10 +1,10 @@
 # m4xshen/smartcolumn.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/m4xshen/smartcolumn.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 113 | 4 | 
 | 2023-03-08 | 112 | 4 | 
 | 2023-03-07 | 109 | 4 | 
 | 2023-03-05 | 102 | 4 | 

@@ -1,6 +1,6 @@
 # WolvenKit/WolvenKit - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 655 | 146 | 
 | 2023-03-07 | 655 | 146 | 
 | 2023-03-06 | 657 | 146 | 
 | 2023-03-05 | 657 | 146 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 650 | 142 | 
 | 2023-02-09 | 650 | 142 | 
 | 2023-02-08 | 651 | 142 | 
-| 2023-02-07 | 651 | 142 | 
 

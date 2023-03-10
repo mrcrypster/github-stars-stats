@@ -1,10 +1,10 @@
 # preservim/nerdcommenter - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 449
 
-★ Stars: 4823
+★ Stars: 4822
 
 [Open repository](https://github.com/preservim/nerdcommenter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4822 | 449 | 
 | 2023-03-08 | 4823 | 449 | 
 | 2023-03-07 | 4821 | 449 | 
 | 2023-03-05 | 4821 | 449 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 4804 | 447 | 
 | 2023-02-10 | 4801 | 447 | 
 | 2023-02-09 | 4801 | 447 | 
-| 2023-02-08 | 4800 | 446 | 
 

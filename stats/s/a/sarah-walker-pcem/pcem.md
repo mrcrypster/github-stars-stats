@@ -1,10 +1,10 @@
 # sarah-walker-pcem/pcem - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 175
 
-★ Stars: 1080
+★ Stars: 1084
 
 [Open repository](https://github.com/sarah-walker-pcem/pcem)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1084 | 175 | 
 | 2023-03-08 | 1080 | 175 | 
 | 2023-03-07 | 1075 | 175 | 
 | 2023-03-05 | 1073 | 175 | 

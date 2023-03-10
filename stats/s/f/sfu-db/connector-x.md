@@ -1,10 +1,10 @@
 # sfu-db/connector-x - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 80
 
-★ Stars: 1135
+★ Stars: 1137
 
 [Open repository](https://github.com/sfu-db/connector-x)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1137 | 80 | 
 | 2023-03-08 | 1135 | 80 | 
 | 2023-03-06 | 1131 | 79 | 
 | 2023-03-05 | 1127 | 79 | 

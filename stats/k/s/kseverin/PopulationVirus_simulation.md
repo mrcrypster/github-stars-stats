@@ -1,0 +1,17 @@
+# kseverin/PopulationVirus_simulation - stars & forks statistics
+
+Stats updated on Mar 2023, 09
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/kseverin/PopulationVirus_simulation)
+
+[Open detailed stats for kseverin/PopulationVirus_simulation](https://reviewgithub.com/rep/kseverin/PopulationVirus_simulation)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-09 | - | - | 
+

@@ -1,10 +1,10 @@
 # btkostner/hexagon - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/btkostner/hexagon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 18 | - | 
 | 2023-03-08 | 17 | - | 
 | 2023-03-06 | 17 | - | 
 | 2023-03-05 | 17 | - | 

@@ -1,10 +1,10 @@
 # mher/flower - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1001
+☋ Forks: 1002
 
-★ Stars: 5584
+★ Stars: 5585
 
 [Open repository](https://github.com/mher/flower)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5585 | 1002 | 
 | 2023-03-08 | 5584 | 1001 | 
 | 2023-03-06 | 5584 | 1001 | 
 | 2023-03-05 | 5583 | 1001 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 5549 | 993 | 
 | 2023-02-10 | 5548 | 993 | 
 | 2023-02-09 | 5547 | 993 | 
-| 2023-02-08 | 5547 | 993 | 
 

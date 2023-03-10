@@ -1,0 +1,18 @@
+# mopemope/lein-cont - stars & forks statistics
+
+Stats updated on Mar 2023, 10
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/mopemope/lein-cont)
+
+[Open detailed stats for mopemope/lein-cont](https://reviewgithub.com/rep/mopemope/lein-cont)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-10 | 1 | - | 
+| 2023-03-09 | 1 | - | 
+

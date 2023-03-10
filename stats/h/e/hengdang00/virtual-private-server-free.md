@@ -1,10 +1,10 @@
 # hengdang00/virtual-private-server-free - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 502
+☋ Forks: 513
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/hengdang00/virtual-private-server-free)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5 | 513 | 
 | 2023-03-07 | 4 | 502 | 
 | 2023-03-06 | 4 | 492 | 
 | 2023-03-05 | 4 | 492 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 4 | 320 | 
 | 2023-02-09 | 4 | 313 | 
 | 2023-02-08 | 4 | 310 | 
-| 2023-02-07 | 4 | 306 | 
 

@@ -1,6 +1,6 @@
 # selenium-cucumber/selenium-cucumber-java-maven-example - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 70 | 172 | 
 | 2023-03-07 | 70 | 172 | 
 | 2023-03-06 | 70 | 171 | 
 | 2023-03-05 | 70 | 171 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 70 | 168 | 
 | 2023-02-09 | 70 | 168 | 
 | 2023-02-08 | 70 | 168 | 
-| 2023-02-07 | 70 | 167 | 
 

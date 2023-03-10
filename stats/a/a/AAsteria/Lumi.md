@@ -1,10 +1,10 @@
 # AAsteria/Lumi - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 45
+★ Stars: 52
 
 [Open repository](https://github.com/AAsteria/Lumi)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 52 | 1 | 
+| 2023-03-09 | 50 | 1 | 
 | 2023-03-08 | 45 | 1 | 
 

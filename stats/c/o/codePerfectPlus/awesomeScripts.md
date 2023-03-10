@@ -1,6 +1,6 @@
 # codePerfectPlus/awesomeScripts - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 471 | 254 | 
 | 2023-03-08 | 471 | 254 | 
 | 2023-03-07 | 470 | 254 | 
 | 2023-03-06 | 469 | 254 | 

@@ -1,6 +1,6 @@
 # GeoGuess/GeoGuess - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 261 | 55 | 
 | 2023-03-08 | 261 | 55 | 
 | 2023-03-06 | 261 | 55 | 
 | 2023-03-05 | 262 | 56 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 255 | 52 | 
 | 2023-02-10 | 254 | 52 | 
 | 2023-02-09 | 254 | 52 | 
-| 2023-02-08 | 254 | 52 | 
 

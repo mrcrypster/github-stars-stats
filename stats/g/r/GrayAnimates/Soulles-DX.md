@@ -1,10 +1,10 @@
 # GrayAnimates/Soulles-DX - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 28
 
-★ Stars: 35
+★ Stars: 34
 
 [Open repository](https://github.com/GrayAnimates/Soulles-DX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 34 | 28 | 
 | 2023-03-07 | 35 | 28 | 
 | 2023-03-06 | 35 | 28 | 
 | 2023-03-05 | 35 | 28 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 35 | 30 | 
 | 2023-02-10 | 35 | 30 | 
 | 2023-02-09 | 35 | 30 | 
-| 2023-02-08 | 35 | 29 | 
 

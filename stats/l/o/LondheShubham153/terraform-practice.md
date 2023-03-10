@@ -1,8 +1,8 @@
 # LondheShubham153/terraform-practice - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 48
+☋ Forks: 51
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5 | 51 | 
 | 2023-03-07 | 5 | 48 | 
 | 2023-03-06 | 5 | 48 | 
 | 2023-03-04 | 5 | 48 | 

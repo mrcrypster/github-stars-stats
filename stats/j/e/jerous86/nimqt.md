@@ -1,10 +1,10 @@
 # jerous86/nimqt - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/jerous86/nimqt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 56 | 4 | 
 | 2023-03-08 | 55 | 4 | 
 | 2023-03-06 | 54 | 4 | 
 | 2023-03-05 | 53 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 46 | 4 | 
 | 2023-02-10 | 46 | 4 | 
 | 2023-02-08 | 45 | 4 | 
-| 2023-02-07 | 44 | 4 | 
 

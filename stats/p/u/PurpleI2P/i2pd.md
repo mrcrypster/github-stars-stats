@@ -1,10 +1,10 @@
 # PurpleI2P/i2pd - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 379
+☋ Forks: 378
 
-★ Stars: 2356
+★ Stars: 2360
 
 [Open repository](https://github.com/PurpleI2P/i2pd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2360 | 378 | 
 | 2023-03-08 | 2356 | 379 | 
 | 2023-03-06 | 2355 | 379 | 
 | 2023-03-05 | 2353 | 379 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2320 | 374 | 
 | 2023-02-10 | 2317 | 374 | 
 | 2023-02-09 | 2315 | 374 | 
-| 2023-02-07 | 2314 | 374 | 
 

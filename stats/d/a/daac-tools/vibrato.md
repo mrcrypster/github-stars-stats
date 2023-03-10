@@ -1,10 +1,10 @@
 # daac-tools/vibrato - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/daac-tools/vibrato)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 242 | 11 | 
 | 2023-03-08 | 241 | 11 | 
 | 2023-03-06 | 239 | 11 | 
 | 2023-03-05 | 238 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 228 | 11 | 
 | 2023-02-09 | 228 | 11 | 
 | 2023-02-08 | 228 | 11 | 
-| 2023-02-07 | 228 | 11 | 
 

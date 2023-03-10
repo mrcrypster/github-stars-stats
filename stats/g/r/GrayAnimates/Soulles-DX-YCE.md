@@ -1,6 +1,6 @@
 # GrayAnimates/Soulles-DX-YCE - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 34 | 28 | 
 | 2023-03-08 | 34 | 28 | 
 | 2023-03-06 | 35 | 28 | 
 | 2023-03-05 | 35 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 35 | 30 | 
 | 2023-02-10 | 35 | 30 | 
 | 2023-02-08 | 35 | 30 | 
-| 2023-02-07 | 35 | 29 | 
 

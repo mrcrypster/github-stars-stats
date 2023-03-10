@@ -1,10 +1,10 @@
 # Kr328/clash-multiplatform-compat - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/Kr328/clash-multiplatform-compat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 102 | 2 | 
 | 2023-03-08 | 101 | 2 | 
 | 2023-03-06 | 97 | 2 | 
 | 2023-03-05 | 97 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 83 | 1 | 
 | 2023-02-09 | 83 | 1 | 
 | 2023-02-08 | 83 | 1 | 
-| 2023-02-07 | 83 | 1 | 
 

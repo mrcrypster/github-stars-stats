@@ -1,10 +1,10 @@
 # nuxt/nuxt.js - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 3606
+☋ Forks: 3610
 
-★ Stars: 44055
+★ Stars: 44091
 
 [Open repository](https://github.com/nuxt/nuxt.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 44091 | 3610 | 
 | 2023-03-08 | 44055 | 3606 | 
 | 2023-03-06 | 44027 | 3600 | 
 | 2023-03-05 | 44013 | 3591 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 43380 | 3482 | 
 | 2023-02-09 | 43331 | 3474 | 
 | 2023-02-08 | 43294 | 3466 | 
-| 2023-02-07 | 43263 | 3461 | 
 

@@ -1,10 +1,10 @@
 # astaxie/build-web-application-with-golang - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 10706
+☋ Forks: 10711
 
-★ Stars: 41677
+★ Stars: 41684
 
 [Open repository](https://github.com/astaxie/build-web-application-with-golang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 41684 | 10711 | 
 | 2023-03-08 | 41677 | 10706 | 
 | 2023-03-06 | 41666 | 10703 | 
 | 2023-03-05 | 41660 | 10702 | 

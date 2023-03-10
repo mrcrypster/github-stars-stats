@@ -1,10 +1,10 @@
 # Orginone/orginone - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/Orginone/orginone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 26 | 14 | 
 | 2023-03-08 | 24 | 14 | 
 | 2023-03-06 | 24 | 14 | 
 | 2023-03-05 | 24 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 24 | 14 | 
 | 2023-02-10 | 24 | 14 | 
 | 2023-02-08 | 24 | 14 | 
-| 2023-02-07 | 24 | 14 | 
 

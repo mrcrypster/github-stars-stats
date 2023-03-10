@@ -1,10 +1,10 @@
 # jbogard/Respawn - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 116
 
-★ Stars: 2014
+★ Stars: 2015
 
 [Open repository](https://github.com/jbogard/Respawn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2015 | 116 | 
 | 2023-03-08 | 2014 | 116 | 
 | 2023-03-06 | 2012 | 116 | 
 | 2023-03-05 | 2011 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1986 | 116 | 
 | 2023-02-10 | 1986 | 116 | 
 | 2023-02-09 | 1985 | 116 | 
-| 2023-02-07 | 1983 | 116 | 
 

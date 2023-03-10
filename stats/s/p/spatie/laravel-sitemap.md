@@ -1,10 +1,10 @@
 # spatie/laravel-sitemap - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 239
 
-★ Stars: 1889
+★ Stars: 1890
 
 [Open repository](https://github.com/spatie/laravel-sitemap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1890 | 239 | 
 | 2023-03-08 | 1889 | 239 | 
 | 2023-03-07 | 1886 | 239 | 
 | 2023-03-06 | 1886 | 239 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1878 | 236 | 
 | 2023-02-09 | 1875 | 236 | 
 | 2023-02-08 | 1873 | 236 | 
-| 2023-02-07 | 1873 | 236 | 
 

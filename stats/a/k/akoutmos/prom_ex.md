@@ -1,10 +1,10 @@
 # akoutmos/prom_ex - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 476
+★ Stars: 479
 
 [Open repository](https://github.com/akoutmos/prom_ex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 479 | 74 | 
 | 2023-03-07 | 476 | 73 | 
 | 2023-03-06 | 475 | 74 | 
 | 2023-03-04 | 475 | 74 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 468 | 73 | 
 | 2023-02-09 | 468 | 72 | 
 | 2023-02-08 | 467 | 72 | 
-| 2023-02-07 | 467 | 72 | 
 

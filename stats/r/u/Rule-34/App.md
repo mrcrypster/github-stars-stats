@@ -1,10 +1,10 @@
 # Rule-34/App - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 9
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/Rule-34/App)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 65 | 9 | 
 | 2023-03-08 | 64 | 9 | 
 | 2023-03-07 | 64 | 9 | 
 | 2023-03-06 | 64 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 59 | 10 | 
 | 2023-02-09 | 59 | 10 | 
 | 2023-02-08 | 58 | 10 | 
-| 2023-02-07 | 58 | 10 | 
 

@@ -1,6 +1,6 @@
 # aspiers/SUSE-dist - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 7 | 2 | 
 | 2023-03-07 | 7 | 2 | 
 | 2023-03-06 | 7 | 2 | 
 | 2023-03-05 | 7 | 2 | 

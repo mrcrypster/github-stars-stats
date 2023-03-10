@@ -1,6 +1,6 @@
 # umasagashi/umacapture - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 18 | 2 | 
 | 2023-03-08 | 18 | 2 | 
 | 2023-03-07 | 18 | 1 | 
 | 2023-03-05 | 18 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 19 | 1 | 
 | 2023-02-10 | 19 | 1 | 
 | 2023-02-09 | 19 | 1 | 
-| 2023-02-08 | 19 | 1 | 
 

@@ -1,10 +1,10 @@
 # IppSec/PowerSiem - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/IppSec/PowerSiem)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 82 | 21 | 
 | 2023-03-07 | 81 | 21 | 
 | 2023-03-06 | 81 | 21 | 
 | 2023-03-05 | 81 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 79 | 20 | 
 | 2023-02-09 | 79 | 20 | 
 | 2023-02-08 | 79 | 20 | 
-| 2023-02-07 | 79 | 20 | 
 

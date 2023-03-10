@@ -1,10 +1,10 @@
 # Fechin/reference - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 368
+☋ Forks: 370
 
-★ Stars: 2083
+★ Stars: 2097
 
 [Open repository](https://github.com/Fechin/reference)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2097 | 370 | 
 | 2023-03-08 | 2083 | 368 | 
 | 2023-03-07 | 2062 | 368 | 
 | 2023-03-06 | 2044 | 364 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1669 | 313 | 
 | 2023-02-09 | 1639 | 312 | 
 | 2023-02-08 | 1617 | 305 | 
-| 2023-02-07 | 1607 | 304 | 
 

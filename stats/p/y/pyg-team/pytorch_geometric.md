@@ -1,10 +1,10 @@
 # pyg-team/pytorch_geometric - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 3125
+☋ Forks: 3130
 
-★ Stars: 16978
+★ Stars: 16998
 
 [Open repository](https://github.com/pyg-team/pytorch_geometric)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 16998 | 3130 | 
 | 2023-03-08 | 16978 | 3125 | 
 | 2023-03-06 | 16957 | 3119 | 
 | 2023-03-05 | 16936 | 3111 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 16726 | 3073 | 
 | 2023-02-10 | 16719 | 3069 | 
 | 2023-02-09 | 16712 | 3068 | 
-| 2023-02-07 | 16698 | 3063 | 
 

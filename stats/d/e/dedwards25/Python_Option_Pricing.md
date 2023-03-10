@@ -1,10 +1,10 @@
 # dedwards25/Python_Option_Pricing - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 80
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/dedwards25/Python_Option_Pricing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 323 | 80 | 
 | 2023-03-08 | 322 | 80 | 
 | 2023-03-07 | 321 | 80 | 
 | 2023-03-06 | 320 | 80 | 

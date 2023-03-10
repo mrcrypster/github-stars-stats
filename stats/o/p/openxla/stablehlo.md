@@ -1,10 +1,10 @@
 # openxla/stablehlo - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 103
+★ Stars: 121
 
 [Open repository](https://github.com/openxla/stablehlo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 121 | 30 | 
 | 2023-03-08 | 103 | 29 | 
 | 2023-03-07 | 103 | 29 | 
 | 2023-03-06 | 103 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 95 | 25 | 
 | 2023-02-09 | 95 | 24 | 
 | 2023-02-08 | 95 | 24 | 
-| 2023-02-07 | 95 | 24 | 
 

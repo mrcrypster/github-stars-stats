@@ -1,8 +1,8 @@
 # research-software-collaborations/research-software-collaborations.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2 | 11 | 
 | 2023-03-08 | 2 | 10 | 
 | 2023-03-06 | 2 | 10 | 
 | 2023-03-05 | 2 | 10 | 

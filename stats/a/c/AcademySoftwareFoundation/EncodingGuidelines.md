@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/EncodingGuidelines - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 19 | 4 | 
 | 2023-03-08 | 19 | 4 | 
 | 2023-03-06 | 18 | 4 | 
 | 2023-03-05 | 18 | 4 | 

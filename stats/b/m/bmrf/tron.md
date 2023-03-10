@@ -1,6 +1,6 @@
 # bmrf/tron - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 287
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3846 | 287 | 
 | 2023-03-08 | 3846 | 287 | 
 | 2023-03-07 | 3844 | 287 | 
 | 2023-03-06 | 3844 | 287 | 

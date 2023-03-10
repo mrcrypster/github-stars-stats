@@ -1,10 +1,10 @@
 # DonHulieo/don-jewelery - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 13
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/DonHulieo/don-jewelery)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 37 | 13 | 
 | 2023-03-07 | 36 | 13 | 
 | 2023-03-06 | 36 | 13 | 
 | 2023-03-05 | 36 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 32 | 13 | 
 | 2023-02-09 | 32 | 13 | 
 | 2023-02-08 | 32 | 13 | 
-| 2023-02-07 | 32 | 13 | 
 

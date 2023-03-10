@@ -1,10 +1,10 @@
 # ckan/ckan - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1864
+☋ Forks: 1866
 
-★ Stars: 3724
+★ Stars: 3726
 
 [Open repository](https://github.com/ckan/ckan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3726 | 1866 | 
 | 2023-03-08 | 3724 | 1864 | 
 | 2023-03-07 | 3722 | 1864 | 
 | 2023-03-06 | 3722 | 1864 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 3700 | 1853 | 
 | 2023-02-09 | 3693 | 1853 | 
 | 2023-02-08 | 3693 | 1852 | 
-| 2023-02-07 | 3690 | 1852 | 
 

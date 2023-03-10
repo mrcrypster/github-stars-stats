@@ -1,6 +1,6 @@
 # brave/adblock-lists - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 215 | 61 | 
 | 2023-03-08 | 215 | 61 | 
 | 2023-03-07 | 214 | 61 | 
 | 2023-03-05 | 215 | 61 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 209 | 59 | 
 | 2023-02-10 | 209 | 59 | 
 | 2023-02-09 | 209 | 59 | 
-| 2023-02-07 | 209 | 59 | 
 

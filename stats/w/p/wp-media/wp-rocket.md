@@ -1,10 +1,10 @@
 # wp-media/wp-rocket - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 195
+☋ Forks: 194
 
-★ Stars: 582
+★ Stars: 583
 
 [Open repository](https://github.com/wp-media/wp-rocket)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 583 | 194 | 
 | 2023-03-08 | 582 | 195 | 
 | 2023-03-07 | 581 | 195 | 
 

@@ -1,10 +1,10 @@
 # broadinstitute/warp - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 59
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/broadinstitute/warp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 137 | 59 | 
 | 2023-03-07 | 136 | 59 | 
 | 2023-03-06 | 136 | 59 | 
 | 2023-03-05 | 136 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 134 | 58 | 
 | 2023-02-09 | 134 | 58 | 
 | 2023-02-08 | 134 | 58 | 
-| 2023-02-07 | 134 | 58 | 
 

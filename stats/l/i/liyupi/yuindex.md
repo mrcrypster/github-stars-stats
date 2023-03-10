@@ -1,10 +1,10 @@
 # liyupi/yuindex - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 642
+☋ Forks: 643
 
-★ Stars: 1655
+★ Stars: 1658
 
 [Open repository](https://github.com/liyupi/yuindex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1658 | 643 | 
 | 2023-03-08 | 1655 | 642 | 
 | 2023-03-06 | 1654 | 643 | 
 | 2023-03-05 | 1653 | 641 | 

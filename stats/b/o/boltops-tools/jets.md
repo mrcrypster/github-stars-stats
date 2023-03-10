@@ -1,6 +1,6 @@
 # boltops-tools/jets - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2370 | 168 | 
 | 2023-03-08 | 2370 | 168 | 
 | 2023-03-07 | 2370 | 168 | 
 | 2023-03-06 | 2369 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 2357 | 168 | 
 | 2023-02-09 | 2354 | 168 | 
 | 2023-02-08 | 2353 | 168 | 
-| 2023-02-07 | 2352 | 168 | 
 

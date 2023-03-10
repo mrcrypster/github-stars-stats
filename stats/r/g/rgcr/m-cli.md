@@ -1,10 +1,10 @@
 # rgcr/m-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 317
 
-★ Stars: 9269
+★ Stars: 9270
 
 [Open repository](https://github.com/rgcr/m-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 9270 | 317 | 
 | 2023-03-08 | 9269 | 317 | 
 | 2023-03-07 | 9268 | 317 | 
 | 2023-03-05 | 9265 | 317 | 

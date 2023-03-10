@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 09
 
-☋ Forks: 632
+☋ Forks: 633
 
-★ Stars: 13494
+★ Stars: 13505
 
 [Open repository](https://github.com/toeverything/AFFiNE)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 13494 | 632 | 
+| 2023-03-09 | 13505 | 633 | 
 | 2023-03-08 | 13490 | 631 | 
 | 2023-03-07 | 13413 | 624 | 
 | 2023-03-05 | 13365 | 622 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-10 | 12690 | 563 | 
 | 2023-02-09 | 12677 | 560 | 
 | 2023-02-08 | 12658 | 557 | 
-| 2023-02-07 | 12641 | 553 | 
 

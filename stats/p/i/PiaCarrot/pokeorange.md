@@ -1,10 +1,10 @@
 # PiaCarrot/pokeorange - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 20
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/PiaCarrot/pokeorange)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 129 | 20 | 
 | 2023-03-07 | 128 | 20 | 
 | 2023-03-06 | 128 | 20 | 
 | 2023-03-05 | 127 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 123 | 20 | 
 | 2023-02-10 | 123 | 20 | 
 | 2023-02-09 | 123 | 20 | 
-| 2023-02-08 | 123 | 20 | 
 

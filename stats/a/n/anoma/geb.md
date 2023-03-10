@@ -1,10 +1,10 @@
 # anoma/geb - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/anoma/geb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 10 | 4 | 
 | 2023-03-08 | 9 | 4 | 
 | 2023-03-06 | 9 | 4 | 
 | 2023-03-05 | 9 | 4 | 

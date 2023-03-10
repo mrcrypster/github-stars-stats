@@ -1,6 +1,6 @@
 # whitenois3/huh - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 49 | - | 
 | 2023-03-07 | 49 | - | 
 | 2023-03-06 | 49 | - | 
 | 2023-03-05 | 49 | - | 

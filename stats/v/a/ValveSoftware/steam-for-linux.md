@@ -1,10 +1,10 @@
 # ValveSoftware/steam-for-linux - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 197
 
-★ Stars: 3733
+★ Stars: 3734
 
 [Open repository](https://github.com/ValveSoftware/steam-for-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3734 | 197 | 
 | 2023-03-07 | 3733 | 197 | 
 | 2023-03-06 | 3733 | 197 | 
 | 2023-03-05 | 3733 | 197 | 

@@ -1,10 +1,10 @@
 # Swordfish90/Lemuroid - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 68
 
-★ Stars: 1150
+★ Stars: 1152
 
 [Open repository](https://github.com/Swordfish90/Lemuroid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1152 | 68 | 
 | 2023-03-07 | 1150 | 68 | 
 | 2023-03-06 | 1147 | 68 | 
 | 2023-03-05 | 1143 | 68 | 

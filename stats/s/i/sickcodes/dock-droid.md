@@ -1,6 +1,6 @@
 # sickcodes/dock-droid - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 612 | 48 | 
 | 2023-03-08 | 612 | 48 | 
 | 2023-03-07 | 609 | 48 | 
 | 2023-03-06 | 607 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 521 | 42 | 
 | 2023-02-09 | 520 | 42 | 
 | 2023-02-08 | 520 | 42 | 
-| 2023-02-07 | 519 | 42 | 
 

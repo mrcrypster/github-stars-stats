@@ -1,10 +1,10 @@
 # erebe/greenclip - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 28
 
-★ Stars: 1033
+★ Stars: 1034
 
 [Open repository](https://github.com/erebe/greenclip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1034 | 28 | 
 | 2023-03-08 | 1033 | 28 | 
 | 2023-03-07 | 1032 | 28 | 
 | 2023-03-05 | 1032 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1008 | 28 | 
 | 2023-02-09 | 1008 | 28 | 
 | 2023-02-08 | 1007 | 28 | 
-| 2023-02-07 | 1006 | 28 | 
 

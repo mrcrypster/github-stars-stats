@@ -1,6 +1,6 @@
 # wulu17/Vegetables - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 33 | 13 | 
 | 2023-03-08 | 33 | 13 | 
 | 2023-03-07 | 33 | 13 | 
 | 2023-03-06 | 33 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 33 | 13 | 
 | 2023-02-10 | 33 | 13 | 
 | 2023-02-08 | 33 | 13 | 
-| 2023-02-07 | 33 | 13 | 
 

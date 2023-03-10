@@ -1,6 +1,6 @@
 # CnCNet/cncnet-yr-client-package - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 84 | 14 | 
 | 2023-03-07 | 84 | 14 | 
 | 2023-03-06 | 84 | 15 | 
 | 2023-03-05 | 84 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 78 | 13 | 
 | 2023-02-09 | 78 | 13 | 
 | 2023-02-08 | 78 | 13 | 
-| 2023-02-07 | 78 | 13 | 
 

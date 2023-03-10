@@ -1,10 +1,10 @@
 # CBerry22/Active-Ragdoll---Physics-Animations-in-Godot-4.0 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 3
 
-★ Stars: 16
+★ Stars: 20
 
 [Open repository](https://github.com/CBerry22/Active-Ragdoll---Physics-Animations-in-Godot-4.0)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 20 | 3 | 
+| 2023-03-09 | 19 | 3 | 
 | 2023-03-08 | 16 | 3 | 
 | 2023-03-07 | 16 | 3 | 
 

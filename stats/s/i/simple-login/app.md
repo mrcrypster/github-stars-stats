@@ -1,10 +1,10 @@
 # simple-login/app - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 323
+☋ Forks: 325
 
-★ Stars: 3499
+★ Stars: 3501
 
 [Open repository](https://github.com/simple-login/app)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3501 | 325 | 
 | 2023-03-08 | 3499 | 323 | 
 | 2023-03-06 | 3495 | 323 | 
 | 2023-03-05 | 3494 | 323 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 3414 | 317 | 
 | 2023-02-10 | 3411 | 317 | 
 | 2023-02-09 | 3406 | 317 | 
-| 2023-02-07 | 3401 | 317 | 
 

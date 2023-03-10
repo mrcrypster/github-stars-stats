@@ -1,10 +1,10 @@
 # Kara-Zor-El/JellyBook - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 123
+★ Stars: 125
 
 [Open repository](https://github.com/Kara-Zor-El/JellyBook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 125 | 2 | 
 | 2023-03-07 | 123 | 2 | 
 | 2023-03-06 | 122 | 2 | 
 | 2023-03-05 | 123 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 111 | 1 | 
 | 2023-02-10 | 111 | 1 | 
 | 2023-02-09 | 109 | 1 | 
-| 2023-02-07 | 108 | 1 | 
 

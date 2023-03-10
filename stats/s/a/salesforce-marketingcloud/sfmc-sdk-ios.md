@@ -1,6 +1,6 @@
 # salesforce-marketingcloud/sfmc-sdk-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5 | 4 | 
 | 2023-03-08 | 5 | 4 | 
 | 2023-03-06 | 5 | 4 | 
 | 2023-03-05 | 5 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 4 | 4 | 
 | 2023-02-10 | 4 | 4 | 
 | 2023-02-09 | 4 | 4 | 
-| 2023-02-07 | 4 | 4 | 
 

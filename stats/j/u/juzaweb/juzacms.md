@@ -1,10 +1,10 @@
 # juzaweb/juzacms - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 44
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/juzaweb/juzacms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 128 | 44 | 
 | 2023-03-08 | 127 | 44 | 
 | 2023-03-06 | 127 | 43 | 
 | 2023-03-05 | 127 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 115 | 38 | 
 | 2023-02-09 | 115 | 38 | 
 | 2023-02-08 | 115 | 38 | 
-| 2023-02-07 | 114 | 38 | 
 

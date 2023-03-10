@@ -1,6 +1,6 @@
 # ethereum/solidity-underhanded-contest - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 133 | 17 | 
 | 2023-03-08 | 133 | 17 | 
 | 2023-03-06 | 132 | 17 | 
 | 2023-03-05 | 132 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 130 | 16 | 
 | 2023-02-10 | 129 | 16 | 
 | 2023-02-08 | 128 | 16 | 
-| 2023-02-07 | 128 | 16 | 
 

@@ -1,10 +1,10 @@
 # zhongyang219/TrafficMonitor - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 2662
+☋ Forks: 2667
 
-★ Stars: 25871
+★ Stars: 25889
 
 [Open repository](https://github.com/zhongyang219/TrafficMonitor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 25889 | 2667 | 
 | 2023-03-08 | 25871 | 2662 | 
 | 2023-03-07 | 25851 | 2662 | 
 | 2023-03-06 | 25826 | 2661 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 25425 | 2627 | 
 | 2023-02-09 | 25407 | 2624 | 
 | 2023-02-08 | 25386 | 2622 | 
-| 2023-02-07 | 25366 | 2621 | 
 

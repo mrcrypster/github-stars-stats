@@ -1,6 +1,6 @@
 # dominikh/go-mode.el - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1303 | 207 | 
 | 2023-03-08 | 1303 | 207 | 
 | 2023-03-07 | 1303 | 207 | 
 | 2023-03-06 | 1303 | 207 | 

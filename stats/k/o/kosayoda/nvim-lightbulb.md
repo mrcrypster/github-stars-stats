@@ -1,10 +1,10 @@
 # kosayoda/nvim-lightbulb - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
-★ Stars: 564
+★ Stars: 566
 
 [Open repository](https://github.com/kosayoda/nvim-lightbulb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 566 | 14 | 
 | 2023-03-07 | 564 | 14 | 
 | 2023-03-06 | 565 | 14 | 
 | 2023-03-05 | 564 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 558 | 14 | 
 | 2023-02-09 | 559 | 14 | 
 | 2023-02-08 | 559 | 14 | 
-| 2023-02-07 | 559 | 14 | 
 

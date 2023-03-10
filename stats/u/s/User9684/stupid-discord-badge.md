@@ -1,6 +1,6 @@
 # User9684/stupid-discord-badge - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 485
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 129 | 485 | 
 | 2023-03-08 | 129 | 485 | 
 | 2023-03-06 | 129 | 486 | 
 | 2023-03-05 | 129 | 486 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 130 | 490 | 
 | 2023-02-10 | 130 | 490 | 
 | 2023-02-08 | 130 | 490 | 
-| 2023-02-07 | 130 | 491 | 
 

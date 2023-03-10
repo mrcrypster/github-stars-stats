@@ -1,6 +1,6 @@
 # julianfaraway/rexamples - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 100 | 17 | 
 | 2023-03-08 | 100 | 17 | 
 | 2023-03-07 | 100 | 17 | 
 | 2023-03-05 | 100 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 99 | 15 | 
 | 2023-02-09 | 99 | 15 | 
 | 2023-02-08 | 99 | 15 | 
-| 2023-02-07 | 99 | 15 | 
 

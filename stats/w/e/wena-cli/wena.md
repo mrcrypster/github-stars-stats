@@ -1,10 +1,10 @@
 # wena-cli/wena - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/wena-cli/wena)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 255 | 7 | 
 | 2023-03-08 | 254 | 7 | 
 | 2023-03-06 | 254 | 7 | 
 | 2023-03-05 | 254 | 7 | 

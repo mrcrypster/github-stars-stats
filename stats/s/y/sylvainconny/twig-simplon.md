@@ -1,6 +1,6 @@
 # sylvainconny/twig-simplon - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1 | 16 | 
 | 2023-03-07 | 1 | 16 | 
 | 2023-03-06 | 1 | 16 | 
 | 2023-03-04 | 1 | 16 | 

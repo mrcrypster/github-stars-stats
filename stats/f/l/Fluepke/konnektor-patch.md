@@ -1,6 +1,6 @@
 # Fluepke/konnektor-patch - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 395 | 12 | 
 | 2023-03-07 | 395 | 12 | 
 | 2023-03-06 | 395 | 12 | 
 | 2023-03-05 | 395 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 394 | 12 | 
 | 2023-02-09 | 394 | 12 | 
 | 2023-02-08 | 394 | 12 | 
-| 2023-02-07 | 394 | 12 | 
 

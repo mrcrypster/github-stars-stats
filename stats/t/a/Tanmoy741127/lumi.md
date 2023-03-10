@@ -1,10 +1,10 @@
 # Tanmoy741127/lumi - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 647
+★ Stars: 646
 
 [Open repository](https://github.com/Tanmoy741127/lumi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 646 | 21 | 
 | 2023-03-08 | 647 | 21 | 
 | 2023-03-07 | 647 | 21 | 
 | 2023-03-05 | 646 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 640 | 22 | 
 | 2023-02-10 | 640 | 22 | 
 | 2023-02-09 | 639 | 22 | 
-| 2023-02-07 | 639 | 22 | 
 

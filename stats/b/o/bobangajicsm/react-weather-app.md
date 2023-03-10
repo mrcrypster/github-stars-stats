@@ -1,6 +1,6 @@
 # bobangajicsm/react-weather-app - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 85 | 88 | 
 | 2023-03-07 | 85 | 88 | 
 | 2023-03-06 | 85 | 88 | 
 | 2023-03-05 | 85 | 89 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 78 | 84 | 
 | 2023-02-09 | 78 | 84 | 
 | 2023-02-08 | 78 | 83 | 
-| 2023-02-07 | 77 | 83 | 
 

@@ -1,10 +1,10 @@
 # AndrewRathbun/DFIRArtifactMuseum - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 29
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/AndrewRathbun/DFIRArtifactMuseum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 370 | 29 | 
 | 2023-03-07 | 369 | 29 | 
 | 2023-03-06 | 368 | 29 | 
 | 2023-03-04 | 368 | 29 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 353 | 29 | 
 | 2023-02-10 | 352 | 29 | 
 | 2023-02-09 | 352 | 29 | 
-| 2023-02-08 | 351 | 28 | 
 

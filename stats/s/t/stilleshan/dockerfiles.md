@@ -1,10 +1,10 @@
 # stilleshan/dockerfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 164
+☋ Forks: 165
 
-★ Stars: 513
+★ Stars: 515
 
 [Open repository](https://github.com/stilleshan/dockerfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 515 | 165 | 
 | 2023-03-08 | 513 | 164 | 
 | 2023-03-07 | 513 | 164 | 
 | 2023-03-05 | 509 | 163 | 

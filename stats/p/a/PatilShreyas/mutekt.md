@@ -1,6 +1,6 @@
 # PatilShreyas/mutekt - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 183 | 4 | 
 | 2023-03-07 | 183 | 4 | 
 | 2023-03-06 | 183 | 4 | 
 | 2023-03-05 | 183 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 181 | 4 | 
 | 2023-02-10 | 181 | 4 | 
 | 2023-02-09 | 180 | 4 | 
-| 2023-02-08 | 180 | 4 | 
 

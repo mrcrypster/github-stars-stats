@@ -1,10 +1,10 @@
 # microsoft/calculator - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 4861
+☋ Forks: 4864
 
-★ Stars: 26779
+★ Stars: 26789
 
 [Open repository](https://github.com/microsoft/calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 26789 | 4864 | 
 | 2023-03-08 | 26779 | 4861 | 
 | 2023-03-06 | 26764 | 4858 | 
 | 2023-03-05 | 26763 | 4859 | 

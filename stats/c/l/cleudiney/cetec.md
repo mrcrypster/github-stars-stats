@@ -1,0 +1,17 @@
+# cleudiney/cetec - stars & forks statistics
+
+Stats updated on Mar 2023, 09
+
+☋ Forks: 17
+
+★ Stars: 2
+
+[Open repository](https://github.com/cleudiney/cetec)
+
+[Open detailed stats for cleudiney/cetec](https://reviewgithub.com/rep/cleudiney/cetec)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-09 | 2 | 17 | 
+

@@ -1,6 +1,6 @@
 # babashka/http-client - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 50 | 2 | 
 | 2023-03-07 | 50 | 2 | 
 | 2023-03-06 | 50 | 2 | 
 | 2023-03-05 | 50 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 44 | 1 | 
 | 2023-02-09 | 44 | 1 | 
 | 2023-02-08 | 43 | 1 | 
-| 2023-02-07 | 43 | 1 | 
 

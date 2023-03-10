@@ -1,10 +1,10 @@
 # TakWolf/ark-pixel-font - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 35
 
-★ Stars: 1720
+★ Stars: 1722
 
 [Open repository](https://github.com/TakWolf/ark-pixel-font)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1722 | 35 | 
 | 2023-03-08 | 1720 | 35 | 
 | 2023-03-06 | 1718 | 35 | 
 | 2023-03-05 | 1715 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1678 | 36 | 
 | 2023-02-10 | 1675 | 36 | 
 | 2023-02-09 | 1675 | 36 | 
-| 2023-02-08 | 1674 | 36 | 
 

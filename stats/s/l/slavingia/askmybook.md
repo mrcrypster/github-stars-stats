@@ -1,10 +1,10 @@
 # slavingia/askmybook - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 345
+★ Stars: 347
 
 [Open repository](https://github.com/slavingia/askmybook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 347 | 115 | 
 | 2023-03-07 | 345 | 114 | 
 | 2023-03-06 | 343 | 115 | 
 | 2023-03-05 | 340 | 113 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 298 | 102 | 
 | 2023-02-09 | 294 | 99 | 
 | 2023-02-08 | 291 | 99 | 
-| 2023-02-07 | 287 | 99 | 
 

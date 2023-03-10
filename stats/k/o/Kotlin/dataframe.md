@@ -1,10 +1,10 @@
 # Kotlin/dataframe - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 418
+★ Stars: 419
 
 [Open repository](https://github.com/Kotlin/dataframe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 419 | 31 | 
 | 2023-03-08 | 418 | 30 | 
 | 2023-03-06 | 419 | 30 | 
 | 2023-03-05 | 420 | 30 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 398 | 27 | 
 | 2023-02-10 | 398 | 27 | 
 | 2023-02-08 | 396 | 27 | 
-| 2023-02-07 | 395 | 27 | 
 

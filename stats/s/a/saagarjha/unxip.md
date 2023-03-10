@@ -1,6 +1,6 @@
 # saagarjha/unxip - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 617 | 25 | 
 | 2023-03-07 | 617 | 25 | 
 | 2023-03-06 | 617 | 25 | 
 | 2023-03-05 | 617 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 610 | 25 | 
 | 2023-02-09 | 608 | 25 | 
 | 2023-02-08 | 608 | 25 | 
-| 2023-02-07 | 608 | 25 | 
 

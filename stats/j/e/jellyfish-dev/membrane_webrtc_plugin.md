@@ -1,10 +1,10 @@
 # jellyfish-dev/membrane_webrtc_plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/jellyfish-dev/membrane_webrtc_plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 22 | 3 | 
 | 2023-03-08 | 21 | 3 | 
 | 2023-03-07 | 20 | 3 | 
 | 2023-03-05 | 20 | 3 | 

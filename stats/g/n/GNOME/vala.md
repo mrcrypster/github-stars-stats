@@ -1,6 +1,6 @@
 # GNOME/vala - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 757 | 78 | 
 | 2023-03-07 | 757 | 78 | 
 | 2023-03-06 | 757 | 78 | 
 | 2023-03-04 | 757 | 78 | 

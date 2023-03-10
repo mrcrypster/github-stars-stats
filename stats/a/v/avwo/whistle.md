@@ -1,10 +1,10 @@
 # avwo/whistle - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 974
+☋ Forks: 973
 
-★ Stars: 11886
+★ Stars: 11896
 
 [Open repository](https://github.com/avwo/whistle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 11896 | 973 | 
 | 2023-03-08 | 11886 | 974 | 
 | 2023-03-06 | 11878 | 972 | 
 | 2023-03-05 | 11871 | 972 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 11772 | 969 | 
 | 2023-02-10 | 11762 | 969 | 
 | 2023-02-08 | 11754 | 969 | 
-| 2023-02-07 | 11747 | 969 | 
 

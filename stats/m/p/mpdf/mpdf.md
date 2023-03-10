@@ -1,6 +1,6 @@
 # mpdf/mpdf - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 981
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3875 | 981 | 
 | 2023-03-08 | 3875 | 981 | 
 | 2023-03-06 | 3874 | 979 | 
 | 2023-03-05 | 3872 | 979 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 3845 | 968 | 
 | 2023-02-09 | 3843 | 969 | 
 | 2023-02-08 | 3841 | 968 | 
-| 2023-02-07 | 3841 | 969 | 
 

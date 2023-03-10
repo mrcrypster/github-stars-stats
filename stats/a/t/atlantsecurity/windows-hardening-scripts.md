@@ -1,6 +1,6 @@
 # atlantsecurity/windows-hardening-scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 87 | 40 | 
 | 2023-03-07 | 87 | 40 | 
 | 2023-03-06 | 87 | 40 | 
 | 2023-03-05 | 87 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 82 | 40 | 
 | 2023-02-09 | 82 | 40 | 
 | 2023-02-08 | 82 | 40 | 
-| 2023-02-07 | 82 | 40 | 
 

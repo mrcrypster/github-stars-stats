@@ -1,6 +1,6 @@
 # ToyotaResearchInstitute/hsr_meshes - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5 | 7 | 
 | 2023-03-07 | 5 | 7 | 
 | 2023-03-06 | 5 | 7 | 
 | 2023-03-04 | 5 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 5 | 7 | 
 | 2023-02-10 | 5 | 7 | 
 | 2023-02-09 | 5 | 7 | 
-| 2023-02-08 | 5 | 7 | 
 

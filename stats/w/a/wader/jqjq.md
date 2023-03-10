@@ -1,10 +1,10 @@
 # wader/jqjq - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 345
+★ Stars: 349
 
 [Open repository](https://github.com/wader/jqjq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 349 | 8 | 
 | 2023-03-08 | 345 | 8 | 
 | 2023-03-06 | 344 | 8 | 
 | 2023-03-05 | 344 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 329 | 7 | 
 | 2023-02-10 | 329 | 7 | 
 | 2023-02-09 | 329 | 7 | 
-| 2023-02-07 | 329 | 7 | 
 

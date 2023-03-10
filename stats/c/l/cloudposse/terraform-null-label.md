@@ -1,6 +1,6 @@
 # cloudposse/terraform-null-label - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 294
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 500 | 294 | 
+| 2023-03-09 | 500 | 294 | 
 | 2023-03-07 | 500 | 294 | 
 | 2023-03-06 | 500 | 293 | 
 | 2023-03-05 | 500 | 293 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 488 | 292 | 
 | 2023-02-09 | 488 | 292 | 
 | 2023-02-08 | 488 | 292 | 
-| 2023-02-07 | 488 | 292 | 
 

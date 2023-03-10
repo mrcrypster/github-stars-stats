@@ -1,10 +1,10 @@
 # hakimel/reveal.js - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 16494
 
-★ Stars: 63269
+★ Stars: 63289
 
 [Open repository](https://github.com/hakimel/reveal.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 63289 | 16494 | 
 | 2023-03-08 | 63269 | 16494 | 
 | 2023-03-07 | 63259 | 16494 | 
 | 2023-03-05 | 63252 | 16495 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 63101 | 16496 | 
 | 2023-02-10 | 63090 | 16497 | 
 | 2023-02-08 | 63088 | 16492 | 
-| 2023-02-07 | 63083 | 16489 | 
 

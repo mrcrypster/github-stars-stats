@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 3523
 
-★ Stars: 8458
+★ Stars: 8459
 
 [Open repository](https://github.com/googleapis/google-api-php-client)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 8458 | 3523 | 
+| 2023-03-09 | 8459 | 3523 | 
 | 2023-03-08 | 8457 | 3523 | 
 | 2023-03-07 | 8456 | 3524 | 
 | 2023-03-06 | 8450 | 3523 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-10 | 8426 | 3517 | 
 | 2023-02-09 | 8426 | 3517 | 
 | 2023-02-08 | 8423 | 3517 | 
-| 2023-02-07 | 8422 | 3517 | 
 

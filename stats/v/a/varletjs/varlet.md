@@ -1,10 +1,10 @@
 # varletjs/varlet - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 511
 
-★ Stars: 3782
+★ Stars: 3783
 
 [Open repository](https://github.com/varletjs/varlet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3783 | 511 | 
 | 2023-03-08 | 3782 | 511 | 
 | 2023-03-07 | 3779 | 511 | 
 | 2023-03-06 | 3775 | 511 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 3718 | 499 | 
 | 2023-02-09 | 3715 | 498 | 
 | 2023-02-08 | 3710 | 497 | 
-| 2023-02-07 | 3707 | 497 | 
 

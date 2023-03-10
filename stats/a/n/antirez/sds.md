@@ -1,8 +1,8 @@
 # antirez/sds - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 433
+☋ Forks: 434
 
 ★ Stars: 4299
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4299 | 434 | 
 | 2023-03-08 | 4299 | 433 | 
 | 2023-03-06 | 4293 | 433 | 
 | 2023-03-05 | 4290 | 433 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 4179 | 429 | 
 | 2023-02-09 | 4176 | 429 | 
 | 2023-02-08 | 4175 | 429 | 
-| 2023-02-07 | 4174 | 430 | 
 

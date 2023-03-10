@@ -1,6 +1,6 @@
 # rashevskyv/switch - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 22 | 45 | 
 | 2023-03-08 | 22 | 45 | 
 | 2023-03-07 | 22 | 45 | 
 | 2023-03-05 | 21 | 45 | 

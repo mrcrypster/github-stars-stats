@@ -1,10 +1,10 @@
 # riscv-non-isa/riscv-rvm-csi - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 5
 
 [Open repository](https://github.com/riscv-non-isa/riscv-rvm-csi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5 | 1 | 
 | 2023-03-08 | 2 | 1 | 
 | 2023-03-06 | 2 | 1 | 
 | 2023-03-05 | 2 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2 | 1 | 
 | 2023-02-10 | 1 | 1 | 
 | 2023-02-09 | 1 | 1 | 
-| 2023-02-08 | 1 | 1 | 
 

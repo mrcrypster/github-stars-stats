@@ -1,10 +1,10 @@
 # mrousavy/react-native-mmkv - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 160
 
-★ Stars: 3193
+★ Stars: 3198
 
 [Open repository](https://github.com/mrousavy/react-native-mmkv)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3198 | 160 | 
 | 2023-03-08 | 3193 | 160 | 
 | 2023-03-06 | 3187 | 160 | 
 | 2023-03-05 | 3182 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 3051 | 147 | 
 | 2023-02-09 | 3047 | 147 | 
 | 2023-02-08 | 3037 | 147 | 
-| 2023-02-07 | 3004 | 147 | 
 

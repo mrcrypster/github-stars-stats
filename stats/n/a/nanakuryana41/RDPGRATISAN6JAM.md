@@ -1,8 +1,8 @@
 # nanakuryana41/RDPGRATISAN6JAM - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 136
+☋ Forks: 137
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2 | 137 | 
 | 2023-03-07 | 2 | 136 | 
 | 2023-03-06 | 2 | 135 | 
 | 2023-03-05 | 2 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2 | 117 | 
 | 2023-02-09 | 2 | 116 | 
 | 2023-02-08 | 2 | 116 | 
-| 2023-02-07 | 2 | 116 | 
 

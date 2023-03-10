@@ -1,6 +1,6 @@
 # nix-community/NixNG - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 110 | 8 | 
 | 2023-03-08 | 110 | 8 | 
 | 2023-03-07 | 110 | 8 | 
 | 2023-03-05 | 110 | 8 | 

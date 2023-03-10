@@ -1,8 +1,8 @@
 # Intelihub/Tutorial_M1 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 198
+☋ Forks: 199
 
 ★ Stars: 5
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 5 | 199 | 
+| 2023-03-09 | 5 | 199 | 
 | 2023-03-08 | 5 | 198 | 
 | 2023-03-06 | 5 | 197 | 
 | 2023-03-05 | 5 | 195 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 5 | 193 | 
 | 2023-02-09 | 5 | 193 | 
 | 2023-02-08 | 5 | 193 | 
-| 2023-02-07 | 5 | 193 | 
 

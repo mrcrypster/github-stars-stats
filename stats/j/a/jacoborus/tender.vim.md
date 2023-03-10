@@ -1,10 +1,10 @@
 # jacoborus/tender.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 77
 
-★ Stars: 1020
+★ Stars: 1021
 
 [Open repository](https://github.com/jacoborus/tender.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1021 | 77 | 
 | 2023-03-08 | 1020 | 77 | 
 | 2023-03-07 | 1018 | 77 | 
 | 2023-03-05 | 1018 | 77 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1013 | 77 | 
 | 2023-02-09 | 1013 | 77 | 
 | 2023-02-08 | 1013 | 77 | 
-| 2023-02-07 | 1013 | 77 | 
 

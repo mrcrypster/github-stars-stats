@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 573
 
-★ Stars: 3570
+★ Stars: 3571
 
 [Open repository](https://github.com/laravel/horizon)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 3570 | 573 | 
+| 2023-03-09 | 3571 | 573 | 
 | 2023-03-08 | 3569 | 573 | 
 | 2023-03-07 | 3568 | 573 | 
 | 2023-03-05 | 3568 | 570 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 3558 | 571 | 
 | 2023-02-10 | 3558 | 572 | 
 | 2023-02-09 | 3557 | 571 | 
-| 2023-02-08 | 3556 | 571 | 
 

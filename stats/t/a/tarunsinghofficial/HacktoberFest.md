@@ -1,8 +1,8 @@
 # tarunsinghofficial/HacktoberFest - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 2101
+☋ Forks: 2102
 
 ★ Stars: 345
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 345 | 2102 | 
 | 2023-03-07 | 345 | 2101 | 
 | 2023-03-06 | 346 | 2104 | 
 | 2023-03-04 | 346 | 2104 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 347 | 2118 | 
 | 2023-02-09 | 347 | 2119 | 
 | 2023-02-08 | 347 | 2120 | 
-| 2023-02-07 | 347 | 2120 | 
 

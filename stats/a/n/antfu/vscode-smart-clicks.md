@@ -1,10 +1,10 @@
 # antfu/vscode-smart-clicks - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/antfu/vscode-smart-clicks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 522 | 7 | 
 | 2023-03-08 | 521 | 7 | 
 | 2023-03-06 | 520 | 7 | 
 | 2023-03-05 | 521 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 514 | 7 | 
 | 2023-02-09 | 514 | 7 | 
 | 2023-02-08 | 512 | 7 | 
-| 2023-02-07 | 512 | 7 | 
 

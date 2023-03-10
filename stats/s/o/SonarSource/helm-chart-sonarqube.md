@@ -1,8 +1,8 @@
 # SonarSource/helm-chart-sonarqube - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 296
+☋ Forks: 297
 
 ★ Stars: 152
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 152 | 297 | 
 | 2023-03-08 | 152 | 296 | 
 | 2023-03-07 | 152 | 296 | 
 | 2023-03-06 | 152 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 146 | 283 | 
 | 2023-02-09 | 146 | 282 | 
 | 2023-02-08 | 146 | 282 | 
-| 2023-02-07 | 146 | 282 | 
 

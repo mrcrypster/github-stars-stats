@@ -1,6 +1,6 @@
 # haha-lisa/RDM-Region-Aware-Diffusion-Model - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 122 | 12 | 
 | 2023-03-07 | 122 | 12 | 
 | 2023-03-06 | 120 | 12 | 
 | 2023-03-05 | 119 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 88 | 10 | 
 | 2023-02-09 | 87 | 10 | 
 | 2023-02-08 | 87 | 10 | 
-| 2023-02-07 | 87 | 10 | 
 

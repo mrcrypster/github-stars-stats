@@ -1,10 +1,10 @@
 # xamarin/xamarin-macios - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 479
+☋ Forks: 480
 
-★ Stars: 2236
+★ Stars: 2237
 
 [Open repository](https://github.com/xamarin/xamarin-macios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2237 | 480 | 
 | 2023-03-07 | 2236 | 479 | 
 | 2023-03-06 | 2236 | 479 | 
 | 2023-03-05 | 2235 | 479 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 2228 | 476 | 
 | 2023-02-09 | 2229 | 476 | 
 | 2023-02-08 | 2229 | 476 | 
-| 2023-02-07 | 2229 | 476 | 
 

@@ -1,10 +1,10 @@
 # roman01la/minimax - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 42
+★ Stars: 44
 
 [Open repository](https://github.com/roman01la/minimax)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 44 | 1 | 
 | 2023-03-08 | 42 | 1 | 
 | 2023-03-07 | 42 | 1 | 
 | 2023-03-05 | 42 | 1 | 

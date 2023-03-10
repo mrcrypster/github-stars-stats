@@ -1,6 +1,6 @@
 # joaotavora/sly - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1051 | 124 | 
 | 2023-03-08 | 1051 | 124 | 
 | 2023-03-06 | 1050 | 124 | 
 | 2023-03-05 | 1050 | 123 | 

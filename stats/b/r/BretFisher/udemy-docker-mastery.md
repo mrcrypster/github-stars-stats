@@ -1,8 +1,8 @@
 # BretFisher/udemy-docker-mastery - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 5470
+☋ Forks: 5477
 
 ★ Stars: 4622
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4622 | 5477 | 
 | 2023-03-08 | 4622 | 5470 | 
 | 2023-03-07 | 4621 | 5468 | 
 | 2023-03-06 | 4618 | 5469 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 4590 | 5411 | 
 | 2023-02-09 | 4589 | 5408 | 
 | 2023-02-08 | 4585 | 5405 | 
-| 2023-02-07 | 4585 | 5405 | 
 

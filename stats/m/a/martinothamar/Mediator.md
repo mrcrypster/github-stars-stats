@@ -1,10 +1,10 @@
 # martinothamar/Mediator - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 38
 
-★ Stars: 1217
+★ Stars: 1220
 
 [Open repository](https://github.com/martinothamar/Mediator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1220 | 38 | 
 | 2023-03-08 | 1217 | 38 | 
 | 2023-03-07 | 1216 | 38 | 
 | 2023-03-05 | 1214 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1164 | 36 | 
 | 2023-02-09 | 1162 | 35 | 
 | 2023-02-08 | 1158 | 34 | 
-| 2023-02-07 | 1152 | 34 | 
 

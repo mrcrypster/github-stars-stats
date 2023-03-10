@@ -1,6 +1,6 @@
 # dlandahl/theos - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 197 | - | 
 | 2023-03-07 | 197 | - | 
 | 2023-03-05 | 197 | - | 
 | 2023-03-04 | 196 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 185 | - | 
 | 2023-02-09 | 184 | - | 
 | 2023-02-08 | 183 | - | 
-| 2023-02-07 | 183 | - | 
 

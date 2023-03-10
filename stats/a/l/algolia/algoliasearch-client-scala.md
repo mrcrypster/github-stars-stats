@@ -1,6 +1,6 @@
 # algolia/algoliasearch-client-scala - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 23 | 27 | 
 | 2023-03-07 | 23 | 27 | 
 | 2023-03-06 | 23 | 27 | 
 | 2023-03-05 | 23 | 27 | 

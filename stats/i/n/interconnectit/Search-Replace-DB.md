@@ -1,10 +1,10 @@
 # interconnectit/Search-Replace-DB - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 842
 
-★ Stars: 3870
+★ Stars: 3871
 
 [Open repository](https://github.com/interconnectit/Search-Replace-DB)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3871 | 842 | 
 | 2023-03-08 | 3870 | 842 | 
 | 2023-03-06 | 3869 | 842 | 
 | 2023-03-05 | 3869 | 841 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 3864 | 840 | 
 | 2023-02-09 | 3863 | 840 | 
 | 2023-02-08 | 3862 | 840 | 
-| 2023-02-07 | 3862 | 840 | 
 

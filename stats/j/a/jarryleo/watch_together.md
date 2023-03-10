@@ -1,6 +1,6 @@
 # jarryleo/watch_together - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 47 | 10 | 
 | 2023-03-07 | 47 | 10 | 
 | 2023-03-06 | 47 | 10 | 
 | 2023-03-04 | 47 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 47 | 10 | 
 | 2023-02-09 | 47 | 10 | 
 | 2023-02-08 | 47 | 10 | 
-| 2023-02-07 | 47 | 10 | 
 

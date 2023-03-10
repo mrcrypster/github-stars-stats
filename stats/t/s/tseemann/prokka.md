@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 202
 
-★ Stars: 634
+★ Stars: 635
 
 [Open repository](https://github.com/tseemann/prokka)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 634 | 202 | 
+| 2023-03-09 | 635 | 202 | 
 | 2023-03-08 | 634 | 202 | 
 | 2023-03-06 | 634 | 201 | 
 | 2023-03-05 | 634 | 201 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-10 | 627 | 202 | 
 | 2023-02-09 | 627 | 202 | 
 | 2023-02-08 | 626 | 202 | 
-| 2023-02-07 | 625 | 202 | 
 

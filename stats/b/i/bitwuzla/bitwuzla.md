@@ -1,10 +1,10 @@
 # bitwuzla/bitwuzla - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/bitwuzla/bitwuzla)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 87 | 14 | 
 | 2023-03-08 | 86 | 14 | 
 | 2023-03-06 | 86 | 14 | 
 | 2023-03-05 | 86 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 84 | 14 | 
 | 2023-02-09 | 84 | 14 | 
 | 2023-02-08 | 84 | 14 | 
-| 2023-02-07 | 84 | 14 | 
 

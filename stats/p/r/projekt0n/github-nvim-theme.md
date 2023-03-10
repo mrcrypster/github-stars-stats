@@ -1,10 +1,10 @@
 # projekt0n/github-nvim-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 85
 
-★ Stars: 1304
+★ Stars: 1306
 
 [Open repository](https://github.com/projekt0n/github-nvim-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1306 | 85 | 
 | 2023-03-08 | 1304 | 85 | 
 | 2023-03-06 | 1303 | 85 | 
 | 2023-03-05 | 1303 | 85 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1261 | 84 | 
 | 2023-02-10 | 1259 | 84 | 
 | 2023-02-09 | 1258 | 84 | 
-| 2023-02-07 | 1258 | 85 | 
 

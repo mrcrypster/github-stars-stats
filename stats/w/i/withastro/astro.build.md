@@ -1,8 +1,8 @@
 # withastro/astro.build - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 70
+☋ Forks: 72
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 171 | 72 | 
 | 2023-03-08 | 171 | 70 | 
 | 2023-03-06 | 164 | 64 | 
 | 2023-03-05 | 162 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 152 | 61 | 
 | 2023-02-09 | 152 | 61 | 
 | 2023-02-08 | 152 | 61 | 
-| 2023-02-07 | 152 | 60 | 
 

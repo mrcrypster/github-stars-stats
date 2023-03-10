@@ -1,6 +1,6 @@
 # Lexikos/AutoHotkey_L-Docs - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 554
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 280 | 554 | 
 | 2023-03-08 | 280 | 554 | 
 | 2023-03-06 | 280 | 553 | 
 | 2023-03-05 | 280 | 552 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 281 | 537 | 
 | 2023-02-10 | 281 | 537 | 
 | 2023-02-08 | 280 | 537 | 
-| 2023-02-07 | 279 | 537 | 
 

@@ -1,10 +1,10 @@
 # rochacbruno/python-week-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1298
 
-★ Stars: 1850
+★ Stars: 1851
 
 [Open repository](https://github.com/rochacbruno/python-week-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1851 | 1298 | 
 | 2023-03-08 | 1850 | 1298 | 
 | 2023-03-07 | 1850 | 1298 | 
 | 2023-03-06 | 1850 | 1299 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1847 | 1302 | 
 | 2023-02-09 | 1846 | 1303 | 
 | 2023-02-08 | 1845 | 1303 | 
-| 2023-02-07 | 1845 | 1303 | 
 

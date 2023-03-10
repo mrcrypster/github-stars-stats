@@ -1,8 +1,8 @@
 # kj89/testnet_manuals - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 529
+☋ Forks: 530
 
 ★ Stars: 247
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 247 | 530 | 
 | 2023-03-07 | 247 | 529 | 
 | 2023-03-06 | 247 | 529 | 
 | 2023-03-04 | 247 | 529 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 250 | 526 | 
 | 2023-02-09 | 250 | 527 | 
 | 2023-02-08 | 250 | 509 | 
-| 2023-02-07 | 250 | 509 | 
 

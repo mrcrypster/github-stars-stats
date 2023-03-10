@@ -1,10 +1,10 @@
 # velmurugan-murugesan/Android-Example - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 616
+☋ Forks: 615
 
-★ Stars: 416
+★ Stars: 417
 
 [Open repository](https://github.com/velmurugan-murugesan/Android-Example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 417 | 615 | 
 | 2023-03-08 | 416 | 616 | 
 | 2023-03-07 | 416 | 614 | 
 | 2023-03-06 | 415 | 614 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 406 | 608 | 
 | 2023-02-09 | 406 | 605 | 
 | 2023-02-08 | 406 | 604 | 
-| 2023-02-07 | 406 | 604 | 
 

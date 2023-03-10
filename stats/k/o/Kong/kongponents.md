@@ -1,10 +1,10 @@
 # Kong/kongponents - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 17
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/Kong/kongponents)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 98 | 17 | 
 | 2023-03-08 | 97 | 17 | 
 | 2023-03-06 | 97 | 17 | 
 | 2023-03-05 | 97 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 99 | 17 | 
 | 2023-02-09 | 99 | 17 | 
 | 2023-02-08 | 98 | 17 | 
-| 2023-02-07 | 98 | 17 | 
 

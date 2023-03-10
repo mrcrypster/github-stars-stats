@@ -1,6 +1,6 @@
 # AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 28 | 9 | 
 | 2023-03-07 | 28 | 9 | 
 | 2023-03-06 | 28 | 9 | 
 | 2023-03-05 | 28 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 26 | 8 | 
 | 2023-02-09 | 26 | 8 | 
 | 2023-02-08 | 25 | 8 | 
-| 2023-02-07 | 25 | 8 | 
 

@@ -1,6 +1,6 @@
 # Mange/rtl8192eu-linux-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 393
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1154 | 393 | 
 | 2023-03-08 | 1154 | 393 | 
 | 2023-03-06 | 1154 | 393 | 
 | 2023-03-05 | 1152 | 392 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1143 | 387 | 
 | 2023-02-09 | 1142 | 386 | 
 | 2023-02-08 | 1139 | 386 | 
-| 2023-02-07 | 1139 | 386 | 
 

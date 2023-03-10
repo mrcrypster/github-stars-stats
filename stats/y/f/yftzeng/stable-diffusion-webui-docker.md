@@ -1,10 +1,10 @@
 # yftzeng/stable-diffusion-webui-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 114
+★ Stars: 116
 
 [Open repository](https://github.com/yftzeng/stable-diffusion-webui-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 116 | 9 | 
 | 2023-03-08 | 114 | 8 | 
 | 2023-03-07 | 114 | 7 | 
 | 2023-03-05 | 113 | 7 | 

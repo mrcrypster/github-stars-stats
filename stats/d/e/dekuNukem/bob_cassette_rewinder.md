@@ -1,10 +1,10 @@
 # dekuNukem/bob_cassette_rewinder - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 39
 
-★ Stars: 1241
+★ Stars: 1242
 
 [Open repository](https://github.com/dekuNukem/bob_cassette_rewinder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1242 | 39 | 
 | 2023-03-07 | 1241 | 39 | 
 | 2023-03-06 | 1239 | 39 | 
 | 2023-03-05 | 1238 | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1233 | 38 | 
 | 2023-02-09 | 1233 | 38 | 
 | 2023-02-08 | 1233 | 38 | 
-| 2023-02-07 | 1233 | 38 | 
 

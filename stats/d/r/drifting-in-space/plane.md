@@ -1,10 +1,10 @@
 # drifting-in-space/plane - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 26
 
-★ Stars: 1106
+★ Stars: 1108
 
 [Open repository](https://github.com/drifting-in-space/plane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1108 | 26 | 
 | 2023-03-08 | 1106 | 26 | 
 | 2023-03-07 | 1105 | 26 | 
 | 2023-03-05 | 1103 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1050 | 24 | 
 | 2023-02-09 | 1048 | 24 | 
 | 2023-02-08 | 1040 | 24 | 
-| 2023-02-07 | 1032 | 24 | 
 

@@ -1,6 +1,6 @@
 # linuxmint/cinnamon - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 713
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4035 | 713 | 
 | 2023-03-08 | 4035 | 713 | 
 | 2023-03-06 | 4034 | 714 | 
 | 2023-03-05 | 4031 | 714 | 

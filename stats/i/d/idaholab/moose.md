@@ -1,10 +1,10 @@
 # idaholab/moose - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 885
 
-★ Stars: 1099
+★ Stars: 1103
 
 [Open repository](https://github.com/idaholab/moose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1103 | 885 | 
 | 2023-03-08 | 1099 | 885 | 
 | 2023-03-06 | 1098 | 884 | 
 | 2023-03-05 | 1097 | 884 | 

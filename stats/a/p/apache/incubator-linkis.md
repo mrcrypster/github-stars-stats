@@ -1,10 +1,10 @@
 # apache/incubator-linkis - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1011
+☋ Forks: 1012
 
-★ Stars: 2981
+★ Stars: 2982
 
 [Open repository](https://github.com/apache/incubator-linkis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 2982 | 1012 | 
 | 2023-03-08 | 2981 | 1011 | 
 | 2023-03-06 | 2978 | 1008 | 
 | 2023-03-05 | 2975 | 1012 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2934 | 1003 | 
 | 2023-02-09 | 2927 | 1001 | 
 | 2023-02-08 | 2924 | 1000 | 
-| 2023-02-07 | 2917 | 999 | 
 

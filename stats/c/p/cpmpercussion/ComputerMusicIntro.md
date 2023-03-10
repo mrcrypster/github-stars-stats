@@ -1,10 +1,10 @@
 # cpmpercussion/ComputerMusicIntro - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/cpmpercussion/ComputerMusicIntro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 6 | 19 | 
 | 2023-03-08 | 5 | 18 | 
 | 2023-03-07 | 5 | 18 | 
 | 2023-03-06 | 5 | 18 | 

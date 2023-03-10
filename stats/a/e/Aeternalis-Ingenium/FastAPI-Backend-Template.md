@@ -1,10 +1,10 @@
 # Aeternalis-Ingenium/FastAPI-Backend-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 49
 
-★ Stars: 289
+★ Stars: 291
 
 [Open repository](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 291 | 49 | 
 | 2023-03-07 | 289 | 49 | 
 | 2023-03-06 | 289 | 49 | 
 | 2023-03-05 | 289 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 281 | 48 | 
 | 2023-02-09 | 281 | 48 | 
 | 2023-02-08 | 279 | 48 | 
-| 2023-02-07 | 279 | 48 | 
 

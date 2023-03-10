@@ -1,6 +1,6 @@
 # SAP-samples/fiori-elements-opensap - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 195 | 113 | 
 | 2023-03-08 | 195 | 113 | 
 | 2023-03-06 | 195 | 113 | 
 | 2023-03-05 | 195 | 113 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 193 | 111 | 
 | 2023-02-10 | 191 | 111 | 
 | 2023-02-09 | 190 | 111 | 
-| 2023-02-07 | 188 | 111 | 
 

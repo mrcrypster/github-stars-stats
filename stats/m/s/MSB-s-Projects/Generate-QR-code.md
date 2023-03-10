@@ -1,10 +1,10 @@
 # MSB-s-Projects/Generate-QR-code - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 11
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/MSB-s-Projects/Generate-QR-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3 | 11 | 
 | 2023-03-08 | 2 | 11 | 
 | 2023-03-07 | 2 | 11 | 
 | 2023-03-06 | 2 | 11 | 

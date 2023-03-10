@@ -1,10 +1,10 @@
 # haskell-servant/servant - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 389
 
-★ Stars: 1685
+★ Stars: 1686
 
 [Open repository](https://github.com/haskell-servant/servant)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1686 | 389 | 
 | 2023-03-08 | 1685 | 389 | 
 | 2023-03-06 | 1685 | 388 | 
 | 2023-03-05 | 1684 | 388 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1679 | 385 | 
 | 2023-02-09 | 1679 | 384 | 
 | 2023-02-08 | 1680 | 384 | 
-| 2023-02-07 | 1680 | 384 | 
 

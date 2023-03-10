@@ -1,10 +1,10 @@
 # DaoCloud/dce-charts-repackage - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/DaoCloud/dce-charts-repackage)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 9 | 17 | 
 | 2023-03-08 | 8 | 16 | 
 | 2023-03-06 | 8 | 16 | 
 | 2023-03-05 | 8 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 7 | 13 | 
 | 2023-02-09 | 7 | 13 | 
 | 2023-02-08 | 7 | 13 | 
-| 2023-02-07 | 7 | 13 | 
 

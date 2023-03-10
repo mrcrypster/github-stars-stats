@@ -1,10 +1,10 @@
 # certusone/wormhole-lending-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/certusone/wormhole-lending-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 12 | 2 | 
 | 2023-03-07 | 11 | 2 | 
 | 2023-03-06 | 11 | 2 | 
 | 2023-03-05 | 11 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 9 | 2 | 
 | 2023-02-09 | 9 | 2 | 
 | 2023-02-08 | 9 | 2 | 
-| 2023-02-07 | 9 | 2 | 
 

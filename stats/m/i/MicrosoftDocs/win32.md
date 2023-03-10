@@ -1,10 +1,10 @@
 # MicrosoftDocs/win32 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1242
+☋ Forks: 1243
 
-★ Stars: 749
+★ Stars: 751
 
 [Open repository](https://github.com/MicrosoftDocs/win32)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 751 | 1243 | 
 | 2023-03-08 | 749 | 1242 | 
 | 2023-03-07 | 748 | 1242 | 
 | 2023-03-06 | 748 | 1242 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 719 | 1223 | 
 | 2023-02-09 | 719 | 1223 | 
 | 2023-02-08 | 717 | 1223 | 
-| 2023-02-07 | 714 | 1222 | 
 

@@ -1,6 +1,6 @@
 # ByPrinciple/GT7-Scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 33 | 20 | 
 | 2023-03-08 | 33 | 20 | 
 | 2023-03-07 | 33 | 20 | 
 | 2023-03-05 | 33 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 33 | 20 | 
 | 2023-02-10 | 33 | 20 | 
 | 2023-02-09 | 33 | 20 | 
-| 2023-02-08 | 33 | 20 | 
 

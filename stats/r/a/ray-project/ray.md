@@ -1,10 +1,10 @@
 # ray-project/ray - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 4253
+☋ Forks: 4263
 
-★ Stars: 24450
+★ Stars: 24469
 
 [Open repository](https://github.com/ray-project/ray)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 24469 | 4263 | 
 | 2023-03-07 | 24450 | 4253 | 
 | 2023-03-06 | 24415 | 4248 | 
 | 2023-03-05 | 24405 | 4242 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 24005 | 4182 | 
 | 2023-02-09 | 23990 | 4177 | 
 | 2023-02-08 | 23974 | 4177 | 
-| 2023-02-07 | 23959 | 4176 | 
 

@@ -1,10 +1,10 @@
 # aklt/plantuml-syntax - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 67
 
-★ Stars: 417
+★ Stars: 419
 
 [Open repository](https://github.com/aklt/plantuml-syntax)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 419 | 67 | 
 | 2023-03-08 | 417 | 67 | 
 | 2023-03-07 | 417 | 67 | 
 | 2023-03-05 | 417 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 415 | 67 | 
 | 2023-02-10 | 415 | 67 | 
 | 2023-02-09 | 415 | 67 | 
-| 2023-02-08 | 415 | 67 | 
 

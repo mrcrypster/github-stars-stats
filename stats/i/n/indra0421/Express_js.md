@@ -1,10 +1,10 @@
 # indra0421/Express_js - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 16
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/indra0421/Express_js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 11 | 16 | 
 | 2023-03-08 | 10 | 16 | 
 | 2023-03-06 | 10 | 16 | 
 | 2023-03-05 | 10 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 10 | 16 | 
 | 2023-02-10 | 10 | 16 | 
 | 2023-02-08 | 10 | 16 | 
-| 2023-02-07 | 10 | 16 | 
 

@@ -1,10 +1,10 @@
 # vendrinc/elm-gql - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/vendrinc/elm-gql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 66 | 11 | 
 | 2023-03-07 | 65 | 10 | 
 | 2023-03-06 | 65 | 10 | 
 | 2023-03-04 | 65 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 64 | 9 | 
 | 2023-02-09 | 64 | 9 | 
 | 2023-02-08 | 64 | 9 | 
-| 2023-02-07 | 64 | 9 | 
 

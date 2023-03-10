@@ -1,10 +1,10 @@
 # sainnhe/gruvbox-material - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 131
+☋ Forks: 132
 
-★ Stars: 1265
+★ Stars: 1267
 
 [Open repository](https://github.com/sainnhe/gruvbox-material)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1267 | 132 | 
 | 2023-03-08 | 1265 | 131 | 
 | 2023-03-07 | 1263 | 131 | 
 | 2023-03-05 | 1262 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1236 | 127 | 
 | 2023-02-09 | 1236 | 128 | 
 | 2023-02-08 | 1231 | 128 | 
-| 2023-02-07 | 1230 | 127 | 
 

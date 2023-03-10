@@ -1,10 +1,10 @@
 # Skytils/SkytilsMod - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 258
 
-★ Stars: 252
+★ Stars: 251
 
 [Open repository](https://github.com/Skytils/SkytilsMod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 251 | 258 | 
 | 2023-03-08 | 252 | 258 | 
 | 2023-03-06 | 252 | 257 | 
 | 2023-03-05 | 250 | 256 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 234 | 246 | 
 | 2023-02-09 | 233 | 245 | 
 | 2023-02-08 | 233 | 245 | 
-| 2023-02-07 | 233 | 244 | 
 

@@ -1,10 +1,10 @@
 # Coding-With-The-Force/Salesforce-CTA-Study-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/Coding-With-The-Force/Salesforce-CTA-Study-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 56 | 4 | 
 | 2023-03-07 | 55 | 4 | 
 | 2023-03-06 | 53 | 3 | 
 | 2023-03-04 | 53 | 3 | 

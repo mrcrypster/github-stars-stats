@@ -1,10 +1,10 @@
 # MagicStack/py-pgproto - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/MagicStack/py-pgproto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 29 | 13 | 
 | 2023-03-08 | 28 | 13 | 
 | 2023-03-06 | 28 | 13 | 
 | 2023-03-05 | 28 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 28 | 12 | 
 | 2023-02-10 | 28 | 12 | 
 | 2023-02-09 | 28 | 12 | 
-| 2023-02-08 | 28 | 12 | 
 

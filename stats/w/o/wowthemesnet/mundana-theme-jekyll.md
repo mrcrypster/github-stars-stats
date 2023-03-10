@@ -1,10 +1,10 @@
 # wowthemesnet/mundana-theme-jekyll - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 681
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/wowthemesnet/mundana-theme-jekyll)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 616 | 681 | 
 | 2023-03-08 | 615 | 681 | 
 | 2023-03-07 | 615 | 683 | 
 | 2023-03-05 | 613 | 681 | 

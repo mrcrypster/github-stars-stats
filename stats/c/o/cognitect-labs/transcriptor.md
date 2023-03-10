@@ -1,6 +1,6 @@
 # cognitect-labs/transcriptor - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 248 | 6 | 
 | 2023-03-08 | 248 | 6 | 
 | 2023-03-07 | 248 | 6 | 
 | 2023-03-06 | 248 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 248 | 6 | 
 | 2023-02-09 | 248 | 6 | 
 | 2023-02-08 | 248 | 6 | 
-| 2023-02-07 | 248 | 6 | 
 

@@ -1,10 +1,10 @@
 # nateraw/spaces-docker-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/nateraw/spaces-docker-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 24 | 1 | 
 | 2023-03-07 | 23 | 1 | 
 | 2023-03-06 | 23 | 1 | 
 | 2023-03-05 | 23 | 1 | 

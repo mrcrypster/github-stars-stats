@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/PowerSharpPack - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 262
+☋ Forks: 263
 
-★ Stars: 1073
+★ Stars: 1075
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/PowerSharpPack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1075 | 263 | 
 | 2023-03-08 | 1073 | 262 | 
 | 2023-03-07 | 1073 | 262 | 
 | 2023-03-05 | 1073 | 262 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1045 | 253 | 
 | 2023-02-10 | 1045 | 252 | 
 | 2023-02-09 | 1044 | 251 | 
-| 2023-02-08 | 1043 | 251 | 
 

@@ -1,6 +1,6 @@
 # bit-mips/bitmips_experiments - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 27 | 8 | 
 | 2023-03-08 | 27 | 8 | 
 | 2023-03-06 | 27 | 8 | 
 | 2023-03-05 | 27 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 26 | 8 | 
 | 2023-02-10 | 26 | 8 | 
 | 2023-02-09 | 26 | 8 | 
-| 2023-02-08 | 26 | 8 | 
 

@@ -1,10 +1,10 @@
 # northwesternfintech/2023QuantInternships - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 8
 
-★ Stars: 113
+★ Stars: 115
 
 [Open repository](https://github.com/northwesternfintech/2023QuantInternships)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 115 | 8 | 
 | 2023-03-08 | 113 | 8 | 
 | 2023-03-06 | 111 | 7 | 
 | 2023-03-05 | 111 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 90 | 8 | 
 | 2023-02-09 | 90 | 8 | 
 | 2023-02-08 | 90 | 8 | 
-| 2023-02-07 | 90 | 9 | 
 

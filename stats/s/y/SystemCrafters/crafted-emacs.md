@@ -1,10 +1,10 @@
 # SystemCrafters/crafted-emacs - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 95
 
-★ Stars: 469
+★ Stars: 471
 
 [Open repository](https://github.com/SystemCrafters/crafted-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 471 | 95 | 
 | 2023-03-07 | 469 | 95 | 
 | 2023-03-06 | 468 | 95 | 
 | 2023-03-04 | 467 | 95 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 453 | 94 | 
 | 2023-02-10 | 454 | 93 | 
 | 2023-02-09 | 451 | 93 | 
-| 2023-02-08 | 451 | 92 | 
 

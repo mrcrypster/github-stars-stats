@@ -1,6 +1,6 @@
 # tjdevries/colorbuddy.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 456 | 14 | 
 | 2023-03-08 | 456 | 14 | 
 | 2023-03-07 | 455 | 14 | 
 | 2023-03-05 | 455 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 446 | 14 | 
 | 2023-02-09 | 446 | 14 | 
 | 2023-02-08 | 445 | 14 | 
-| 2023-02-07 | 445 | 14 | 
 

@@ -1,6 +1,6 @@
 # Dir-A/GalTextAll_CN - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 88 | 24 | 
 | 2023-03-07 | 88 | 24 | 
 | 2023-03-06 | 88 | 24 | 
 | 2023-03-05 | 88 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 87 | 24 | 
 | 2023-02-10 | 88 | 24 | 
 | 2023-02-09 | 88 | 24 | 
-| 2023-02-07 | 88 | 24 | 
 

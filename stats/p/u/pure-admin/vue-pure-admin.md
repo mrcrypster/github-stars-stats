@@ -1,10 +1,10 @@
 # pure-admin/vue-pure-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1499
+☋ Forks: 1506
 
-★ Stars: 7498
+★ Stars: 7528
 
 [Open repository](https://github.com/pure-admin/vue-pure-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 7528 | 1506 | 
 | 2023-03-07 | 7498 | 1499 | 
 | 2023-03-06 | 7481 | 1497 | 
 | 2023-03-05 | 7466 | 1492 | 

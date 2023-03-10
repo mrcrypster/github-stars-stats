@@ -1,10 +1,10 @@
 # bukunmialuko/flutter_ui_kit_obkm - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 233
+☋ Forks: 232
 
-★ Stars: 677
+★ Stars: 678
 
 [Open repository](https://github.com/bukunmialuko/flutter_ui_kit_obkm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 678 | 232 | 
 | 2023-03-08 | 677 | 233 | 
 | 2023-03-07 | 676 | 233 | 
 | 2023-03-06 | 675 | 233 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 663 | 228 | 
 | 2023-02-09 | 663 | 228 | 
 | 2023-02-08 | 663 | 227 | 
-| 2023-02-07 | 662 | 227 | 
 

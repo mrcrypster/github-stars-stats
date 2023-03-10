@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-3-sinatra-react-project - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1965
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 13 | 1965 | 
 | 2023-03-08 | 13 | 1965 | 
 | 2023-03-07 | 13 | 1958 | 
 | 2023-03-05 | 13 | 1953 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 11 | 1693 | 
 | 2023-02-09 | 11 | 1692 | 
 | 2023-02-08 | 11 | 1692 | 
-| 2023-02-07 | 11 | 1690 | 
 

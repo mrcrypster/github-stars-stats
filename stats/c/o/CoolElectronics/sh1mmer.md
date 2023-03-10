@@ -1,10 +1,10 @@
 # CoolElectronics/sh1mmer - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 23
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/CoolElectronics/sh1mmer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 88 | 23 | 
 | 2023-03-07 | 87 | 23 | 
 | 2023-03-06 | 85 | 23 | 
 | 2023-03-04 | 85 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 70 | 14 | 
 | 2023-02-09 | 68 | 14 | 
 | 2023-02-08 | 66 | 14 | 
-| 2023-02-07 | 66 | 14 | 
 

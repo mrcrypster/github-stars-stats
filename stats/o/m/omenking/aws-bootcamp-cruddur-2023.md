@@ -1,10 +1,10 @@
 # omenking/aws-bootcamp-cruddur-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 342
+☋ Forks: 349
 
-★ Stars: 224
+★ Stars: 226
 
 [Open repository](https://github.com/omenking/aws-bootcamp-cruddur-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 226 | 349 | 
 | 2023-03-08 | 224 | 342 | 
 | 2023-03-07 | 224 | 338 | 
 | 2023-03-06 | 224 | 333 | 

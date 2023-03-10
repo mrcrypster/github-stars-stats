@@ -1,10 +1,10 @@
 # ebonelli/PLaF - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 57
+☋ Forks: 59
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/ebonelli/PLaF)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 24 | 59 | 
 | 2023-03-08 | 23 | 57 | 
 | 2023-03-07 | 23 | 56 | 
 | 2023-03-06 | 23 | 56 | 

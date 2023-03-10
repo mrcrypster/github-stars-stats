@@ -1,10 +1,10 @@
 # apache/zeppelin - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2728
 
-★ Stars: 5962
+★ Stars: 5963
 
 [Open repository](https://github.com/apache/zeppelin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5963 | 2728 | 
 | 2023-03-08 | 5962 | 2728 | 
 | 2023-03-06 | 5960 | 2727 | 
 | 2023-03-05 | 5961 | 2726 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 5938 | 2720 | 
 | 2023-02-09 | 5936 | 2720 | 
 | 2023-02-08 | 5933 | 2720 | 
-| 2023-02-07 | 5931 | 2718 | 
 

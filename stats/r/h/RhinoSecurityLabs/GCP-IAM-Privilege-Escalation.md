@@ -1,10 +1,10 @@
 # RhinoSecurityLabs/GCP-IAM-Privilege-Escalation - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 232
+★ Stars: 234
 
 [Open repository](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 234 | 61 | 
 | 2023-03-07 | 232 | 60 | 
 | 2023-03-06 | 228 | 60 | 
 | 2023-03-05 | 228 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 226 | 59 | 
 | 2023-02-09 | 226 | 59 | 
 | 2023-02-08 | 226 | 59 | 
-| 2023-02-07 | 226 | 59 | 
 

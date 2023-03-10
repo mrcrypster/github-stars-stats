@@ -1,10 +1,10 @@
 # ixahmedxi/trashvim - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/ixahmedxi/trashvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 105 | 14 | 
 | 2023-03-07 | 104 | 13 | 
 | 2023-03-06 | 104 | 13 | 
 | 2023-03-05 | 105 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 96 | 13 | 
 | 2023-02-09 | 96 | 13 | 
 | 2023-02-08 | 96 | 13 | 
-| 2023-02-07 | 96 | 13 | 
 

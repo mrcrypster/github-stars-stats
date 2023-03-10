@@ -1,10 +1,10 @@
 # trussworks/terraform-aws-ses-domain - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 41
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/trussworks/terraform-aws-ses-domain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 56 | 41 | 
 | 2023-03-07 | 55 | 41 | 
 | 2023-03-06 | 55 | 41 | 
 | 2023-03-04 | 55 | 41 | 

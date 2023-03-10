@@ -1,6 +1,6 @@
 # miyouzi/bilibili_organizer - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 27 | 1 | 
 | 2023-03-08 | 27 | 1 | 
 | 2023-03-07 | 27 | 1 | 
 | 2023-03-05 | 27 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 28 | 1 | 
 | 2023-02-09 | 28 | 1 | 
 | 2023-02-08 | 28 | 1 | 
-| 2023-02-07 | 28 | 1 | 
 

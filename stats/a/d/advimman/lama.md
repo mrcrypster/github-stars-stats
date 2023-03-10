@@ -1,10 +1,10 @@
 # advimman/lama - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 562
+☋ Forks: 563
 
-★ Stars: 4918
+★ Stars: 4926
 
 [Open repository](https://github.com/advimman/lama)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4926 | 563 | 
 | 2023-03-08 | 4918 | 562 | 
 | 2023-03-07 | 4915 | 560 | 
 | 2023-03-06 | 4911 | 560 | 

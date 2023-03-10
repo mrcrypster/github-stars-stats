@@ -1,8 +1,8 @@
 # hugoinaction/hugoinaction - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 81 | 89 | 
 | 2023-03-08 | 81 | 88 | 
 | 2023-03-07 | 81 | 88 | 
 | 2023-03-05 | 81 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 79 | 88 | 
 | 2023-02-09 | 79 | 88 | 
 | 2023-02-08 | 79 | 88 | 
-| 2023-02-07 | 79 | 88 | 
 

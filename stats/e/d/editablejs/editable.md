@@ -1,6 +1,6 @@
 # editablejs/editable - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 642 | 48 | 
 | 2023-03-07 | 642 | 48 | 
 | 2023-03-05 | 640 | 48 | 
 | 2023-03-04 | 640 | 47 | 

@@ -1,6 +1,6 @@
 # BruceQiu1996/NChatGPTRev - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 68 | 27 | 
 | 2023-03-07 | 68 | 27 | 
 | 2023-03-06 | 68 | 27 | 
 | 2023-03-04 | 68 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 58 | 21 | 
 | 2023-02-09 | 56 | 21 | 
 | 2023-02-08 | 54 | 20 | 
-| 2023-02-07 | 52 | 19 | 
 

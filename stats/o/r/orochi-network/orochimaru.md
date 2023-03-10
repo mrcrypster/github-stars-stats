@@ -1,10 +1,10 @@
 # orochi-network/orochimaru - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 10
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/orochi-network/orochimaru)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 44 | 10 | 
 | 2023-03-07 | 43 | 10 | 
 | 2023-03-06 | 43 | 10 | 
 | 2023-03-05 | 43 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 42 | 9 | 
 | 2023-02-10 | 42 | 9 | 
 | 2023-02-08 | 42 | 9 | 
-| 2023-02-07 | 42 | 9 | 
 

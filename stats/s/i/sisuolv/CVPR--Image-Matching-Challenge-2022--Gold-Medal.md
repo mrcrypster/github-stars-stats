@@ -1,8 +1,8 @@
 # sisuolv/CVPR--Image-Matching-Challenge-2022--Gold-Medal - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 50 | 9 | 
 | 2023-03-07 | 50 | 8 | 
 | 2023-03-06 | 50 | 8 | 
 | 2023-03-05 | 50 | 8 | 

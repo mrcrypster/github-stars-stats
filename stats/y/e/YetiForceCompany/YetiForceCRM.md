@@ -1,10 +1,10 @@
 # YetiForceCompany/YetiForceCRM - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 635
+☋ Forks: 636
 
-★ Stars: 1333
+★ Stars: 1334
 
 [Open repository](https://github.com/YetiForceCompany/YetiForceCRM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1334 | 636 | 
 | 2023-03-08 | 1333 | 635 | 
 | 2023-03-07 | 1331 | 634 | 
 | 2023-03-05 | 1331 | 633 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1322 | 626 | 
 | 2023-02-10 | 1321 | 626 | 
 | 2023-02-09 | 1321 | 625 | 
-| 2023-02-08 | 1322 | 625 | 
 

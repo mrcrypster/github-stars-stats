@@ -1,10 +1,10 @@
 # rust-blockchain/evm - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 264
 
-★ Stars: 865
+★ Stars: 866
 
 [Open repository](https://github.com/rust-blockchain/evm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 866 | 264 | 
 | 2023-03-07 | 865 | 264 | 
 | 2023-03-06 | 858 | 264 | 
 | 2023-03-05 | 858 | 264 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 841 | 259 | 
 | 2023-02-09 | 841 | 259 | 
 | 2023-02-08 | 839 | 258 | 
-| 2023-02-07 | 839 | 258 | 
 

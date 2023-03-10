@@ -1,10 +1,10 @@
 # WolfChen1996/NovelAI-tag-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 56
 
-★ Stars: 219
+★ Stars: 222
 
 [Open repository](https://github.com/WolfChen1996/NovelAI-tag-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 222 | 56 | 
 | 2023-03-07 | 219 | 56 | 
 | 2023-03-06 | 216 | 56 | 
 | 2023-03-05 | 215 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 137 | 33 | 
 | 2023-02-10 | 136 | 33 | 
 | 2023-02-08 | 134 | 32 | 
-| 2023-02-07 | 132 | 32 | 
 

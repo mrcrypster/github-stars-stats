@@ -1,10 +1,10 @@
 # shobrook/stackexplain - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 20
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/shobrook/stackexplain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 403 | 20 | 
 | 2023-03-08 | 402 | 20 | 
 | 2023-03-06 | 402 | 20 | 
 | 2023-03-05 | 399 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 380 | 18 | 
 | 2023-02-09 | 378 | 18 | 
 | 2023-02-08 | 376 | 18 | 
-| 2023-02-07 | 372 | 18 | 
 

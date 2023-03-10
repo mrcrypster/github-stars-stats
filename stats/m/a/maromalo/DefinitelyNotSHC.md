@@ -1,10 +1,10 @@
 # maromalo/DefinitelyNotSHC - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
-★ Stars: 54
+★ Stars: 53
 
 [Open repository](https://github.com/maromalo/DefinitelyNotSHC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 53 | 7 | 
 | 2023-03-08 | 54 | 7 | 
 | 2023-03-07 | 54 | 7 | 
 | 2023-03-05 | 54 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 54 | 7 | 
 | 2023-02-10 | 54 | 7 | 
 | 2023-02-08 | 54 | 7 | 
-| 2023-02-07 | 54 | 7 | 
 

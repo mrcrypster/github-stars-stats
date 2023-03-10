@@ -1,6 +1,6 @@
 # Azure/CloudShell - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 216 | 81 | 
 | 2023-03-08 | 216 | 81 | 
 | 2023-03-07 | 216 | 81 | 
 | 2023-03-05 | 217 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 217 | 80 | 
 | 2023-02-09 | 217 | 80 | 
 | 2023-02-08 | 217 | 80 | 
-| 2023-02-07 | 217 | 80 | 
 

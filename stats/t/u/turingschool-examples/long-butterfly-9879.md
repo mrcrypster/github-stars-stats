@@ -1,6 +1,6 @@
 # turingschool-examples/long-butterfly-9879 - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | - | 28 | 
 | 2023-03-07 | - | 28 | 
 | 2023-03-06 | - | 28 | 
 | 2023-03-05 | - | 28 | 

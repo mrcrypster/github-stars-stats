@@ -1,10 +1,10 @@
 # autonomousvision/sdfstudio - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 719
+★ Stars: 723
 
 [Open repository](https://github.com/autonomousvision/sdfstudio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 723 | 59 | 
 | 2023-03-08 | 719 | 58 | 
 | 2023-03-06 | 709 | 58 | 
 | 2023-03-05 | 700 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 617 | 44 | 
 | 2023-02-10 | 609 | 44 | 
 | 2023-02-09 | 602 | 42 | 
-| 2023-02-07 | 594 | 40 | 
 

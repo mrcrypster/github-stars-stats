@@ -1,10 +1,10 @@
 # dmlc/dgl - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 2727
+☋ Forks: 2733
 
-★ Stars: 11258
+★ Stars: 11283
 
 [Open repository](https://github.com/dmlc/dgl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 11283 | 2733 | 
 | 2023-03-08 | 11258 | 2727 | 
 | 2023-03-06 | 11234 | 2722 | 
 | 2023-03-05 | 11217 | 2722 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 11076 | 2694 | 
 | 2023-02-09 | 11073 | 2692 | 
 | 2023-02-08 | 11065 | 2691 | 
-| 2023-02-07 | 11060 | 2690 | 
 

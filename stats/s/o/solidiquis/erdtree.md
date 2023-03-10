@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 09
 
 ☋ Forks: 19
 
-★ Stars: 759
+★ Stars: 766
 
 [Open repository](https://github.com/solidiquis/erdtree)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 759 | 19 | 
+| 2023-03-09 | 766 | 19 | 
 | 2023-03-08 | 748 | 19 | 
 | 2023-03-07 | 712 | 19 | 
 | 2023-03-05 | 590 | 17 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-10 | 389 | 12 | 
 | 2023-02-09 | 377 | 12 | 
 | 2023-02-08 | 346 | 12 | 
-| 2023-02-07 | 324 | 12 | 
 

@@ -1,10 +1,10 @@
 # diku-dk/futhark - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 144
 
-★ Stars: 1998
+★ Stars: 1999
 
 [Open repository](https://github.com/diku-dk/futhark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1999 | 144 | 
 | 2023-03-08 | 1998 | 144 | 
 | 2023-03-07 | 1998 | 144 | 
 | 2023-03-06 | 1996 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1965 | 144 | 
 | 2023-02-09 | 1965 | 144 | 
 | 2023-02-08 | 1965 | 144 | 
-| 2023-02-07 | 1965 | 144 | 
 

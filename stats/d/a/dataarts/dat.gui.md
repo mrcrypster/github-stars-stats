@@ -1,10 +1,10 @@
 # dataarts/dat.gui - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1078
+☋ Forks: 1079
 
-★ Stars: 6722
+★ Stars: 6721
 
 [Open repository](https://github.com/dataarts/dat.gui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 6721 | 1079 | 
 | 2023-03-08 | 6722 | 1078 | 
 | 2023-03-06 | 6721 | 1078 | 
 | 2023-03-05 | 6720 | 1076 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 6675 | 1074 | 
 | 2023-02-09 | 6673 | 1074 | 
 | 2023-02-08 | 6672 | 1073 | 
-| 2023-02-07 | 6670 | 1073 | 
 

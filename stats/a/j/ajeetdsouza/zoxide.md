@@ -1,10 +1,10 @@
 # ajeetdsouza/zoxide - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 349
 
-★ Stars: 9624
+★ Stars: 9639
 
 [Open repository](https://github.com/ajeetdsouza/zoxide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 9639 | 349 | 
 | 2023-03-08 | 9624 | 349 | 
 | 2023-03-06 | 9607 | 349 | 
 | 2023-03-05 | 9587 | 351 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 9295 | 334 | 
 | 2023-02-10 | 9282 | 335 | 
 | 2023-02-09 | 9266 | 335 | 
-| 2023-02-08 | 9252 | 335 | 
 

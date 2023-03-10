@@ -1,10 +1,10 @@
 # moelzanaty3/react-18-workshop - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 29
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/moelzanaty3/react-18-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 120 | 29 | 
 | 2023-03-08 | 119 | 29 | 
 | 2023-03-07 | 119 | 29 | 
 | 2023-03-05 | 119 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 111 | 25 | 
 | 2023-02-09 | 111 | 25 | 
 | 2023-02-08 | 110 | 25 | 
-| 2023-02-07 | 110 | 25 | 
 

@@ -1,10 +1,10 @@
 # CodedotAl/gpt-code-clippy - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 164
 
-★ Stars: 2582
+★ Stars: 2585
 
 [Open repository](https://github.com/CodedotAl/gpt-code-clippy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2585 | 164 | 
 | 2023-03-08 | 2582 | 164 | 
 | 2023-03-07 | 2569 | 162 | 
 | 2023-03-06 | 2565 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 2444 | 148 | 
 | 2023-02-09 | 2437 | 148 | 
 | 2023-02-08 | 2431 | 148 | 
-| 2023-02-07 | 2427 | 148 | 
 

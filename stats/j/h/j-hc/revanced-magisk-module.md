@@ -1,10 +1,10 @@
 # j-hc/revanced-magisk-module - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 330
+☋ Forks: 332
 
-★ Stars: 1150
+★ Stars: 1156
 
 [Open repository](https://github.com/j-hc/revanced-magisk-module)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1156 | 332 | 
 | 2023-03-08 | 1150 | 330 | 
 | 2023-03-07 | 1142 | 329 | 
 | 2023-03-06 | 1142 | 329 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1049 | 298 | 
 | 2023-02-09 | 1047 | 295 | 
 | 2023-02-08 | 1046 | 296 | 
-| 2023-02-07 | 1040 | 294 | 
 

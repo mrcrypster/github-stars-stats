@@ -1,10 +1,10 @@
 # woai3c/Front-end-articles - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 230
 
-★ Stars: 1144
+★ Stars: 1146
 
 [Open repository](https://github.com/woai3c/Front-end-articles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1146 | 230 | 
 | 2023-03-08 | 1144 | 230 | 
 | 2023-03-06 | 1143 | 229 | 
 | 2023-03-05 | 1139 | 229 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1100 | 227 | 
 | 2023-02-09 | 1098 | 227 | 
 | 2023-02-08 | 1095 | 227 | 
-| 2023-02-07 | 1095 | 226 | 
 

@@ -1,10 +1,10 @@
 # mattboldt/typed.js - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
-☋ Forks: 1637
+☋ Forks: 1639
 
-★ Stars: 12900
+★ Stars: 12902
 
 [Open repository](https://github.com/mattboldt/typed.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 12902 | 1639 | 
 | 2023-03-07 | 12900 | 1637 | 
 | 2023-03-06 | 12890 | 1635 | 
 | 2023-03-05 | 12882 | 1636 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-11 | 12770 | 1628 | 
 | 2023-02-09 | 12770 | 1629 | 
 | 2023-02-08 | 12765 | 1629 | 
-| 2023-02-07 | 12757 | 1629 | 
 

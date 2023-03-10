@@ -1,8 +1,8 @@
 # ControlCore-Project/concore - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3 | 16 | 
 | 2023-03-08 | 3 | 15 | 
 | 2023-03-06 | 3 | 15 | 
 | 2023-03-05 | 3 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 2 | 14 | 
 | 2023-02-09 | 2 | 14 | 
 | 2023-02-08 | 2 | 14 | 
-| 2023-02-07 | 2 | 14 | 
 

@@ -1,6 +1,6 @@
 # ruitunion/open-letter-to-mishustin - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 53 | 92 | 
 | 2023-03-08 | 53 | 92 | 
 | 2023-03-06 | 53 | 92 | 
 | 2023-03-05 | 53 | 92 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 53 | 93 | 
 | 2023-02-10 | 53 | 93 | 
 | 2023-02-08 | 53 | 93 | 
-| 2023-02-07 | 53 | 93 | 
 

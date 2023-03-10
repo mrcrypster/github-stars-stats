@@ -1,10 +1,10 @@
 # tedchen0001/OSCP-Notes - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 19
 
-★ Stars: 58
+★ Stars: 56
 
 [Open repository](https://github.com/tedchen0001/OSCP-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 56 | 19 | 
 | 2023-03-08 | 58 | 19 | 
 | 2023-03-07 | 58 | 19 | 
 | 2023-03-06 | 58 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 57 | 18 | 
 | 2023-02-09 | 57 | 18 | 
 | 2023-02-08 | 57 | 18 | 
-| 2023-02-07 | 57 | 18 | 
 

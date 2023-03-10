@@ -1,6 +1,6 @@
 # aadupoom1/RDP-GITHUB - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | - | 27 | 
 | 2023-03-08 | - | 27 | 
 | 2023-03-07 | - | 27 | 
 | 2023-03-06 | - | 27 | 

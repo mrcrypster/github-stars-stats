@@ -1,10 +1,10 @@
 # magit/with-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 41
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/magit/with-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 147 | 41 | 
 | 2023-03-08 | 146 | 41 | 
 | 2023-03-07 | 146 | 41 | 
 | 2023-03-05 | 146 | 41 | 

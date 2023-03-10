@@ -1,8 +1,8 @@
 # Nikhil636/Attendance-app - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 16
+☋ Forks: 15
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 3 | 15 | 
 | 2023-03-08 | 3 | 16 | 
 | 2023-03-06 | 3 | 17 | 
 | 2023-03-05 | 3 | 17 | 

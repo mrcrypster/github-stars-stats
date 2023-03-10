@@ -1,6 +1,6 @@
 # JoeStrout/minibasic - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 20 | 3 | 
 | 2023-03-08 | 20 | 3 | 
 | 2023-03-07 | 19 | 3 | 
 | 2023-03-05 | 18 | 2 | 

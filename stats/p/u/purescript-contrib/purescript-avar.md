@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-avar - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 16 | 8 | 
 | 2023-03-08 | 16 | 8 | 
 | 2023-03-07 | 16 | 8 | 
 | 2023-03-06 | 16 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 15 | 8 | 
 | 2023-02-09 | 15 | 8 | 
 | 2023-02-08 | 15 | 8 | 
-| 2023-02-07 | 15 | 8 | 
 

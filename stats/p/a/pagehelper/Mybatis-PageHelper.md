@@ -1,10 +1,10 @@
 # pagehelper/Mybatis-PageHelper - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 3103
 
-★ Stars: 11572
+★ Stars: 11575
 
 [Open repository](https://github.com/pagehelper/Mybatis-PageHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 11575 | 3103 | 
 | 2023-03-08 | 11572 | 3103 | 
 | 2023-03-07 | 11567 | 3102 | 
 | 2023-03-05 | 11567 | 3101 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 11528 | 3099 | 
 | 2023-02-09 | 11524 | 3099 | 
 | 2023-02-08 | 11522 | 3098 | 
-| 2023-02-07 | 11520 | 3098 | 
 

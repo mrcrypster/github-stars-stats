@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 09
 
-☋ Forks: 33
+☋ Forks: 40
 
-★ Stars: 388
+★ Stars: 478
 
 [Open repository](https://github.com/prompt-engineering/click-prompt)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-09 | 388 | 33 | 
+| 2023-03-09 | 478 | 40 | 
 | 2023-03-08 | 360 | 31 | 
 

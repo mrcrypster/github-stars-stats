@@ -1,10 +1,10 @@
 # mborgerson/xemu - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 193
 
-★ Stars: 1720
+★ Stars: 1721
 
 [Open repository](https://github.com/mborgerson/xemu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 1721 | 193 | 
 | 2023-03-07 | 1720 | 193 | 
 | 2023-03-06 | 1718 | 193 | 
 | 2023-03-05 | 1714 | 193 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 1682 | 191 | 
 | 2023-02-09 | 1680 | 191 | 
 | 2023-02-08 | 1678 | 191 | 
-| 2023-02-07 | 1676 | 191 | 
 

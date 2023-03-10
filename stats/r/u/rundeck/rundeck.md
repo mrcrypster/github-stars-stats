@@ -1,10 +1,10 @@
 # rundeck/rundeck - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 849
 
-★ Stars: 4878
+★ Stars: 4877
 
 [Open repository](https://github.com/rundeck/rundeck)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4877 | 849 | 
 | 2023-03-08 | 4878 | 849 | 
 | 2023-03-07 | 4875 | 849 | 
 | 2023-03-06 | 4872 | 849 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 4842 | 845 | 
 | 2023-02-09 | 4839 | 845 | 
 | 2023-02-08 | 4837 | 846 | 
-| 2023-02-07 | 4837 | 846 | 
 

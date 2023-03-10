@@ -1,6 +1,6 @@
 # aptos-labs/whitepaper - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 5 | 7 | 
 | 2023-03-08 | 5 | 7 | 
 | 2023-03-07 | 5 | 7 | 
 | 2023-03-05 | 5 | 7 | 

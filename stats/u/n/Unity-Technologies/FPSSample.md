@@ -1,10 +1,10 @@
 # Unity-Technologies/FPSSample - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 1779
 
-★ Stars: 4542
+★ Stars: 4543
 
 [Open repository](https://github.com/Unity-Technologies/FPSSample)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 4543 | 1779 | 
 | 2023-03-08 | 4542 | 1779 | 
 | 2023-03-07 | 4542 | 1779 | 
 | 2023-03-06 | 4539 | 1780 | 

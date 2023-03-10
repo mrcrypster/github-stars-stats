@@ -1,10 +1,10 @@
 # oxsecurity/megalinter - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 162
+☋ Forks: 164
 
-★ Stars: 1119
+★ Stars: 1125
 
 [Open repository](https://github.com/oxsecurity/megalinter)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1125 | 164 | 
+| 2023-03-09 | 1124 | 163 | 
 | 2023-03-08 | 1119 | 162 | 
 | 2023-03-07 | 1118 | 162 | 
 | 2023-03-05 | 1115 | 161 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 1064 | 154 | 
 | 2023-02-09 | 1063 | 154 | 
 | 2023-02-08 | 1063 | 154 | 
-| 2023-02-07 | 1062 | 153 | 
 

@@ -1,10 +1,10 @@
 # rin-nas/postgresql-patterns-library - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 57
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/rin-nas/postgresql-patterns-library)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 271 | 57 | 
 | 2023-03-08 | 270 | 57 | 
 | 2023-03-07 | 268 | 57 | 
 | 2023-03-05 | 267 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 255 | 53 | 
 | 2023-02-10 | 252 | 53 | 
 | 2023-02-08 | 251 | 52 | 
-| 2023-02-07 | 251 | 52 | 
 

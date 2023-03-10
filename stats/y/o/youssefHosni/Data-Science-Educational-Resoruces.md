@@ -1,10 +1,10 @@
 # youssefHosni/Data-Science-Educational-Resoruces - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 43
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/youssefHosni/Data-Science-Educational-Resoruces)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 186 | 43 | 
 | 2023-03-08 | 185 | 43 | 
 | 2023-03-06 | 185 | 43 | 
 | 2023-03-05 | 185 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 184 | 43 | 
 | 2023-02-09 | 184 | 43 | 
 | 2023-02-08 | 184 | 43 | 
-| 2023-02-07 | 184 | 43 | 
 

@@ -1,10 +1,10 @@
 # score-spec/score-compose - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 42
 
-★ Stars: 478
+★ Stars: 476
 
 [Open repository](https://github.com/score-spec/score-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 476 | 42 | 
 | 2023-03-08 | 478 | 42 | 
 | 2023-03-07 | 478 | 42 | 
 | 2023-03-06 | 479 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-10 | 484 | 44 | 
 | 2023-02-09 | 482 | 45 | 
 | 2023-02-08 | 457 | 45 | 
-| 2023-02-07 | 435 | 45 | 
 

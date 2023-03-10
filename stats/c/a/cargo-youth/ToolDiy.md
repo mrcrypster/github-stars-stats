@@ -1,6 +1,6 @@
 # cargo-youth/ToolDiy - stars & forks statistics
 
-Stats updated on Mar 2023, 07
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 101 | 27 | 
 | 2023-03-07 | 101 | 27 | 
 | 2023-03-06 | 100 | 27 | 
 | 2023-03-05 | 95 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 07
 | 2023-02-10 | 86 | 27 | 
 | 2023-02-09 | 84 | 27 | 
 | 2023-02-08 | 73 | 25 | 
-| 2023-02-07 | 69 | 22 | 
 

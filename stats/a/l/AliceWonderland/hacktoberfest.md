@@ -1,8 +1,8 @@
 # AliceWonderland/hacktoberfest - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
-☋ Forks: 7578
+☋ Forks: 7576
 
 ★ Stars: 925
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 925 | 7576 | 
 | 2023-03-08 | 925 | 7578 | 
 | 2023-03-06 | 926 | 7577 | 
 | 2023-03-05 | 926 | 7580 | 

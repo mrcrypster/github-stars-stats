@@ -1,6 +1,6 @@
 # haze/zig-libressl - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-09 | 32 | 2 | 
 | 2023-03-08 | 32 | 2 | 
 | 2023-03-07 | 32 | 2 | 
 | 2023-03-05 | 31 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 31 | 2 | 
 | 2023-02-09 | 31 | 2 | 
 | 2023-02-08 | 31 | 2 | 
-| 2023-02-07 | 31 | 2 | 
 
