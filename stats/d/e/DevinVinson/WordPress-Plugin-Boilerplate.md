@@ -1,6 +1,6 @@
 # DevinVinson/WordPress-Plugin-Boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2159
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 7229 | 2159 | 
 | 2023-03-09 | 7229 | 2159 | 
 | 2023-03-07 | 7227 | 2158 | 
 | 2023-03-06 | 7227 | 2157 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 7220 | 2148 | 
 | 2023-02-10 | 7219 | 2148 | 
 | 2023-02-09 | 7215 | 2147 | 
-| 2023-02-08 | 7215 | 2147 | 
 

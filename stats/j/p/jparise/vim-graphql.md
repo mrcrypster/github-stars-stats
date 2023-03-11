@@ -1,6 +1,6 @@
 # jparise/vim-graphql - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 466 | 121 | 
 | 2023-03-08 | 466 | 121 | 
 | 2023-03-07 | 466 | 121 | 
 | 2023-03-06 | 466 | 121 | 

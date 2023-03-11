@@ -1,10 +1,10 @@
 # exp-table/hyena - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 41
+★ Stars: 52
 
 [Open repository](https://github.com/exp-table/hyena)
 
@@ -13,5 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 52 | - | 
+| 2023-03-10 | 51 | - | 
 | 2023-03-09 | 41 | - | 
 

@@ -1,10 +1,10 @@
 # mdn/dom-examples - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1484
+☋ Forks: 1486
 
-★ Stars: 2239
+★ Stars: 2245
 
 [Open repository](https://github.com/mdn/dom-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2245 | 1486 | 
 | 2023-03-09 | 2239 | 1484 | 
 | 2023-03-08 | 2235 | 1478 | 
 | 2023-03-06 | 2230 | 1476 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2157 | 1427 | 
 | 2023-02-11 | 2154 | 1426 | 
 | 2023-02-09 | 2149 | 1422 | 
-| 2023-02-08 | 2142 | 1419 | 
 

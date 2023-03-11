@@ -1,6 +1,6 @@
 # cremich/cdk-bill-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 485 | 20 | 
 | 2023-03-09 | 485 | 20 | 
 | 2023-03-08 | 485 | 20 | 
 | 2023-03-07 | 485 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 483 | 20 | 
 | 2023-02-10 | 483 | 20 | 
 | 2023-02-09 | 483 | 20 | 
-| 2023-02-08 | 483 | 20 | 
 

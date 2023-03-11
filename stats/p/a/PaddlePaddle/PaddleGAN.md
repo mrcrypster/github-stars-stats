@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleGAN - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1105
+☋ Forks: 1109
 
-★ Stars: 6579
+★ Stars: 6589
 
 [Open repository](https://github.com/PaddlePaddle/PaddleGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 6589 | 1109 | 
 | 2023-03-09 | 6579 | 1105 | 
 | 2023-03-07 | 6571 | 1104 | 
 | 2023-03-06 | 6557 | 1104 | 

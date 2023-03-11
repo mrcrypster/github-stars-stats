@@ -1,10 +1,10 @@
 # substrate-developer-hub/substrate-node-template - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 874
+☋ Forks: 873
 
-★ Stars: 760
+★ Stars: 761
 
 [Open repository](https://github.com/substrate-developer-hub/substrate-node-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 761 | 873 | 
 | 2023-03-08 | 760 | 874 | 
 | 2023-03-07 | 759 | 872 | 
 | 2023-03-05 | 757 | 871 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 752 | 872 | 
 | 2023-02-10 | 751 | 873 | 
 | 2023-02-09 | 751 | 874 | 
-| 2023-02-08 | 751 | 874 | 
 

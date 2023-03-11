@@ -1,10 +1,10 @@
 # chung-leong/react-ansi-animation - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/chung-leong/react-ansi-animation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 29 | 1 | 
 | 2023-03-09 | 28 | 1 | 
 | 2023-03-08 | 28 | 1 | 
 | 2023-03-06 | 22 | 1 | 

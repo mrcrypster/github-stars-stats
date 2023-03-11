@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 894
 
-★ Stars: 2687
+★ Stars: 2688
 
 [Open repository](https://github.com/faridrashidi/kaggle-solutions)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 2687 | 894 | 
+| 2023-03-10 | 2688 | 894 | 
 | 2023-03-09 | 2687 | 893 | 
 | 2023-03-08 | 2677 | 885 | 
 | 2023-03-07 | 2664 | 882 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 2567 | 833 | 
 | 2023-02-10 | 2564 | 833 | 
 | 2023-02-09 | 2557 | 832 | 
-| 2023-02-08 | 2549 | 829 | 
 

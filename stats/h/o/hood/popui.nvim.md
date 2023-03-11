@@ -1,10 +1,10 @@
 # hood/popui.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 134
+★ Stars: 136
 
 [Open repository](https://github.com/hood/popui.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 136 | 2 | 
 | 2023-03-09 | 134 | 2 | 
 | 2023-03-08 | 134 | 2 | 
 | 2023-03-06 | 134 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 132 | 2 | 
 | 2023-02-10 | 132 | 2 | 
 | 2023-02-09 | 133 | 2 | 
-| 2023-02-08 | 133 | 2 | 
 

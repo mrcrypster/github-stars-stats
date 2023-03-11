@@ -1,10 +1,10 @@
 # JonathanSalwan/VMProtect-devirtualization - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 150
 
-★ Stars: 832
+★ Stars: 833
 
 [Open repository](https://github.com/JonathanSalwan/VMProtect-devirtualization)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 833 | 150 | 
 | 2023-03-09 | 832 | 150 | 
 | 2023-03-08 | 830 | 150 | 
 | 2023-03-06 | 827 | 150 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 814 | 145 | 
 | 2023-02-10 | 813 | 145 | 
 | 2023-02-09 | 812 | 145 | 
-| 2023-02-08 | 812 | 145 | 
 

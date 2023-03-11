@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-iam - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 153 | 154 | 
 | 2023-03-09 | 153 | 154 | 
 | 2023-03-08 | 153 | 153 | 
 | 2023-03-06 | 152 | 153 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 148 | 150 | 
 | 2023-02-11 | 148 | 150 | 
 | 2023-02-09 | 148 | 150 | 
-| 2023-02-08 | 148 | 150 | 
 

@@ -1,6 +1,6 @@
 # jrblevin/markdown-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 780 | 145 | 
 | 2023-03-09 | 780 | 145 | 
 | 2023-03-08 | 780 | 145 | 
 | 2023-03-07 | 780 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 770 | 145 | 
 | 2023-02-11 | 770 | 145 | 
 | 2023-02-10 | 770 | 145 | 
-| 2023-02-08 | 770 | 145 | 
 

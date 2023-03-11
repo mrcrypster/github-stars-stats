@@ -1,10 +1,10 @@
 # kx-Huang/ChatGPT-on-WeChat - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 157
+☋ Forks: 158
 
-★ Stars: 282
+★ Stars: 287
 
 [Open repository](https://github.com/kx-Huang/ChatGPT-on-WeChat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 287 | 158 | 
 | 2023-03-09 | 282 | 157 | 
 | 2023-03-07 | 275 | 153 | 
 | 2023-03-06 | 274 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 198 | 117 | 
 | 2023-02-10 | 190 | 113 | 
 | 2023-02-09 | 184 | 109 | 
-| 2023-02-08 | 166 | 104 | 
 

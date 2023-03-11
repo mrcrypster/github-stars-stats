@@ -1,6 +1,6 @@
 # Constant-Development/cr-storeextras - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 44 | 13 | 
 | 2023-03-09 | 44 | 13 | 
 | 2023-03-08 | 44 | 13 | 
 | 2023-03-06 | 44 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 39 | 13 | 
 | 2023-02-10 | 39 | 13 | 
 | 2023-02-09 | 39 | 13 | 
-| 2023-02-08 | 39 | 13 | 
 

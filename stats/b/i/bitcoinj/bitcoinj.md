@@ -1,10 +1,10 @@
 # bitcoinj/bitcoinj - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2391
 
-★ Stars: 4523
+★ Stars: 4524
 
 [Open repository](https://github.com/bitcoinj/bitcoinj)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4524 | 2391 | 
 | 2023-03-09 | 4523 | 2391 | 
 | 2023-03-08 | 4523 | 2391 | 
 | 2023-03-07 | 4524 | 2391 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 4509 | 2391 | 
 | 2023-02-11 | 4508 | 2391 | 
 | 2023-02-10 | 4505 | 2392 | 
-| 2023-02-09 | 4506 | 2391 | 
 

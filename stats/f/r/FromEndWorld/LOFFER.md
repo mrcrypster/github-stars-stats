@@ -1,10 +1,10 @@
 # FromEndWorld/LOFFER - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 398
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/FromEndWorld/LOFFER)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 347 | 398 | 
 | 2023-03-09 | 346 | 398 | 
 | 2023-03-08 | 346 | 398 | 
 | 2023-03-07 | 346 | 398 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 343 | 398 | 
 | 2023-02-10 | 343 | 398 | 
 | 2023-02-09 | 343 | 398 | 
-| 2023-02-08 | 343 | 398 | 
 

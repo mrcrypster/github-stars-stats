@@ -1,6 +1,6 @@
 # jcbombardelli/gama-no-javascript-basico - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 68 | 288 | 
 | 2023-03-09 | 68 | 288 | 
 | 2023-03-07 | 68 | 289 | 
 | 2023-03-06 | 68 | 291 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 68 | 292 | 
 | 2023-02-10 | 68 | 292 | 
 | 2023-02-09 | 68 | 292 | 
-| 2023-02-08 | 68 | 292 | 
 

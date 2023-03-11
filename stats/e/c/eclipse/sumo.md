@@ -1,8 +1,8 @@
 # eclipse/sumo - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1093
+☋ Forks: 1094
 
 ★ Stars: 1812
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1812 | 1094 | 
 | 2023-03-08 | 1812 | 1093 | 
 | 2023-03-07 | 1811 | 1091 | 
 | 2023-03-05 | 1811 | 1091 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1778 | 1081 | 
 | 2023-02-10 | 1777 | 1081 | 
 | 2023-02-09 | 1777 | 1079 | 
-| 2023-02-08 | 1776 | 1076 | 
 

@@ -1,10 +1,10 @@
 # lensesio/stream-reactor - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 355
+☋ Forks: 356
 
-★ Stars: 921
+★ Stars: 920
 
 [Open repository](https://github.com/lensesio/stream-reactor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 920 | 356 | 
 | 2023-03-09 | 921 | 355 | 
 | 2023-03-08 | 920 | 355 | 
 | 2023-03-06 | 919 | 355 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 917 | 353 | 
 | 2023-02-10 | 917 | 352 | 
 | 2023-02-09 | 917 | 352 | 
-| 2023-02-08 | 916 | 352 | 
 

@@ -1,8 +1,8 @@
 # fabiensanglard/cpsb - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 79 | 26 | 
 | 2023-03-08 | 79 | 25 | 
 | 2023-03-07 | 79 | 25 | 
 | 2023-03-05 | 79 | 25 | 

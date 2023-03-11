@@ -1,10 +1,10 @@
 # hankchizljaw/modern-css-reset - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 458
+☋ Forks: 459
 
-★ Stars: 2761
+★ Stars: 2764
 
 [Open repository](https://github.com/hankchizljaw/modern-css-reset)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2764 | 459 | 
 | 2023-03-09 | 2761 | 458 | 
 | 2023-03-08 | 2757 | 458 | 
 | 2023-03-06 | 2754 | 458 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2728 | 456 | 
 | 2023-02-10 | 2726 | 455 | 
 | 2023-02-09 | 2727 | 454 | 
-| 2023-02-08 | 2726 | 454 | 
 

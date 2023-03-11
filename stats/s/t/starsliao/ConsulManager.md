@@ -1,10 +1,10 @@
 # starsliao/ConsulManager - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 130
+☋ Forks: 132
 
-★ Stars: 575
+★ Stars: 579
 
 [Open repository](https://github.com/starsliao/ConsulManager)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 579 | 132 | 
 | 2023-03-09 | 575 | 130 | 
 | 2023-03-08 | 573 | 130 | 
 | 2023-03-06 | 568 | 130 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 533 | 127 | 
 | 2023-02-10 | 532 | 127 | 
 | 2023-02-09 | 532 | 126 | 
-| 2023-02-08 | 530 | 126 | 
 

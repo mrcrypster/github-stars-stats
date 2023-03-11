@@ -1,10 +1,10 @@
 # fsnotify/fsnotify - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 819
 
-★ Stars: 7943
+★ Stars: 7945
 
 [Open repository](https://github.com/fsnotify/fsnotify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 7945 | 819 | 
 | 2023-03-09 | 7943 | 819 | 
 | 2023-03-08 | 7939 | 819 | 
 | 2023-03-07 | 7938 | 819 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 7856 | 815 | 
 | 2023-02-10 | 7856 | 814 | 
 | 2023-02-09 | 7853 | 814 | 
-| 2023-02-08 | 7846 | 814 | 
 

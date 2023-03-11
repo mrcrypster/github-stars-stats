@@ -1,6 +1,6 @@
 # onlydustxyz/starkonquest - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 28 | 17 | 
 | 2023-03-09 | 28 | 17 | 
 | 2023-03-08 | 28 | 17 | 
 | 2023-03-07 | 28 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 25 | 17 | 
 | 2023-02-10 | 25 | 17 | 
 | 2023-02-09 | 25 | 17 | 
-| 2023-02-08 | 25 | 17 | 
 

@@ -1,10 +1,10 @@
 # xsahil03x/multi_trigger_autocomplete - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 80
+★ Stars: 79
 
 [Open repository](https://github.com/xsahil03x/multi_trigger_autocomplete)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 79 | 7 | 
 | 2023-03-09 | 80 | 7 | 
 | 2023-03-07 | 80 | 7 | 
 | 2023-03-06 | 80 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 78 | 7 | 
 | 2023-02-10 | 78 | 7 | 
 | 2023-02-09 | 78 | 7 | 
-| 2023-02-08 | 78 | 7 | 
 

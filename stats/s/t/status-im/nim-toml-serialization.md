@@ -1,6 +1,6 @@
 # status-im/nim-toml-serialization - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 28 | 7 | 
 | 2023-03-09 | 28 | 7 | 
 | 2023-03-08 | 28 | 7 | 
 | 2023-03-06 | 28 | 7 | 

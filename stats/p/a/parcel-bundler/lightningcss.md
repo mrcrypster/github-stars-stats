@@ -1,10 +1,10 @@
 # parcel-bundler/lightningcss - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 99
 
-★ Stars: 3347
+★ Stars: 3349
 
 [Open repository](https://github.com/parcel-bundler/lightningcss)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3349 | 99 | 
 | 2023-03-09 | 3347 | 99 | 
 | 2023-03-07 | 3345 | 99 | 
 | 2023-03-06 | 3339 | 99 | 

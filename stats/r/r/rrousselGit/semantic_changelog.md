@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/rrousselGit/semantic_changelog)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 20 | - | 
+| 2023-03-10 | 22 | - | 
 | 2023-03-09 | 20 | - | 
 

@@ -1,6 +1,6 @@
 # williamckha/spicetify-fluent - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 224 | 16 | 
 | 2023-03-09 | 224 | 16 | 
 | 2023-03-07 | 224 | 16 | 
 | 2023-03-06 | 224 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 221 | 15 | 
 | 2023-02-10 | 221 | 15 | 
 | 2023-02-09 | 221 | 16 | 
-| 2023-02-08 | 221 | 16 | 
 

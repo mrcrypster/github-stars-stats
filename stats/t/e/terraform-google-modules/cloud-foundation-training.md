@@ -1,10 +1,10 @@
 # terraform-google-modules/cloud-foundation-training - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 86
 
-★ Stars: 76
+★ Stars: 75
 
 [Open repository](https://github.com/terraform-google-modules/cloud-foundation-training)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 75 | 86 | 
 | 2023-03-09 | 76 | 86 | 
 | 2023-03-08 | 76 | 86 | 
 | 2023-03-06 | 76 | 86 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 73 | 86 | 
 | 2023-02-10 | 73 | 86 | 
 | 2023-02-09 | 73 | 86 | 
-| 2023-02-08 | 73 | 86 | 
 

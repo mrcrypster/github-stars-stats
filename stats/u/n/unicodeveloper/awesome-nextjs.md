@@ -1,10 +1,10 @@
 # unicodeveloper/awesome-nextjs - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 784
 
-★ Stars: 8389
+★ Stars: 8395
 
 [Open repository](https://github.com/unicodeveloper/awesome-nextjs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 8395 | 784 | 
 | 2023-03-09 | 8389 | 784 | 
 | 2023-03-08 | 8385 | 784 | 
 | 2023-03-06 | 8386 | 784 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 8323 | 783 | 
 | 2023-02-10 | 8319 | 783 | 
 | 2023-02-09 | 8314 | 783 | 
-| 2023-02-08 | 8312 | 784 | 
 

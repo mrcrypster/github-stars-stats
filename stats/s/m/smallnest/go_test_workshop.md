@@ -1,6 +1,6 @@
 # smallnest/go_test_workshop - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 97 | 23 | 
 | 2023-03-09 | 97 | 23 | 
 | 2023-03-07 | 97 | 23 | 
 | 2023-03-05 | 97 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 97 | 23 | 
 | 2023-02-10 | 97 | 23 | 
 | 2023-02-09 | 97 | 23 | 
-| 2023-02-08 | 97 | 23 | 
 

@@ -1,10 +1,10 @@
 # Unity-Technologies/AddressableAssetsWebinar - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 82
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/Unity-Technologies/AddressableAssetsWebinar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 192 | 82 | 
 | 2023-03-09 | 191 | 82 | 
 | 2023-03-07 | 191 | 82 | 
 | 2023-03-06 | 191 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 191 | 82 | 
 | 2023-02-11 | 191 | 82 | 
 | 2023-02-10 | 191 | 82 | 
-| 2023-02-09 | 191 | 82 | 
 

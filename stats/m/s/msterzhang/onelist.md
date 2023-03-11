@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 10
 
-☋ Forks: 23
+☋ Forks: 22
 
-★ Stars: 218
+★ Stars: 221
 
 [Open repository](https://github.com/msterzhang/onelist)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 218 | 23 | 
+| 2023-03-10 | 221 | 22 | 
 | 2023-03-09 | 215 | 23 | 
 | 2023-03-08 | 194 | 21 | 
 

@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSpatial - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 225 | 135 | 
 | 2023-03-09 | 225 | 135 | 
 | 2023-03-08 | 225 | 136 | 
 | 2023-03-06 | 222 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 215 | 129 | 
 | 2023-02-10 | 214 | 129 | 
 | 2023-02-09 | 214 | 129 | 
-| 2023-02-08 | 213 | 128 | 
 

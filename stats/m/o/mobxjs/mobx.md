@@ -1,10 +1,10 @@
 # mobxjs/mobx - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1741
+☋ Forks: 1742
 
-★ Stars: 26262
+★ Stars: 26270
 
 [Open repository](https://github.com/mobxjs/mobx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 26270 | 1742 | 
 | 2023-03-09 | 26262 | 1741 | 
 | 2023-03-08 | 26254 | 1741 | 
 | 2023-03-06 | 26245 | 1741 | 

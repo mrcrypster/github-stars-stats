@@ -1,10 +1,10 @@
 # google/android-emulator-hypervisor-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 229
+☋ Forks: 228
 
-★ Stars: 660
+★ Stars: 661
 
 [Open repository](https://github.com/google/android-emulator-hypervisor-driver)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 661 | 228 | 
 | 2023-03-09 | 660 | 229 | 
 | 2023-03-08 | 660 | 229 | 
 | 2023-03-06 | 660 | 229 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 657 | 230 | 
 | 2023-02-11 | 657 | 230 | 
 | 2023-02-10 | 656 | 230 | 
-| 2023-02-08 | 657 | 230 | 
 

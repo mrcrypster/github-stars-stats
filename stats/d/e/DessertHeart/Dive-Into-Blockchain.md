@@ -1,10 +1,10 @@
 # DessertHeart/Dive-Into-Blockchain - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 28
 
-★ Stars: 148
+★ Stars: 147
 
 [Open repository](https://github.com/DessertHeart/Dive-Into-Blockchain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 147 | 28 | 
 | 2023-03-08 | 148 | 28 | 
 | 2023-03-07 | 146 | 28 | 
 | 2023-03-05 | 146 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 139 | 27 | 
 | 2023-02-10 | 139 | 27 | 
 | 2023-02-09 | 139 | 27 | 
-| 2023-02-08 | 139 | 27 | 
 

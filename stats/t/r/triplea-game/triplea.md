@@ -1,6 +1,6 @@
 # triplea-game/triplea - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 871 | 207 | 
 | 2023-03-09 | 871 | 207 | 
 | 2023-03-08 | 871 | 207 | 
 | 2023-03-06 | 872 | 207 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 871 | 206 | 
 | 2023-02-10 | 871 | 206 | 
 | 2023-02-09 | 871 | 205 | 
-| 2023-02-08 | 870 | 205 | 
 

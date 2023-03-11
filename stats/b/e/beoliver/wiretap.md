@@ -1,10 +1,10 @@
 # beoliver/wiretap - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/beoliver/wiretap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 26 | - | 
 | 2023-03-09 | 25 | - | 
 | 2023-03-08 | 25 | - | 
 | 2023-03-07 | 25 | - | 

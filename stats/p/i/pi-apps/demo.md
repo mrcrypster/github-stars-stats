@@ -1,10 +1,10 @@
 # pi-apps/demo - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 75
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/pi-apps/demo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 131 | 75 | 
 | 2023-03-09 | 130 | 75 | 
 | 2023-03-07 | 128 | 75 | 
 | 2023-03-06 | 127 | 74 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 107 | 57 | 
 | 2023-02-10 | 107 | 57 | 
 | 2023-02-09 | 106 | 56 | 
-| 2023-02-08 | 106 | 56 | 
 

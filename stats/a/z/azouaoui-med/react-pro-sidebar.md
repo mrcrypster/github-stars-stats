@@ -1,10 +1,10 @@
 # azouaoui-med/react-pro-sidebar - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 330
+☋ Forks: 331
 
-★ Stars: 1147
+★ Stars: 1149
 
 [Open repository](https://github.com/azouaoui-med/react-pro-sidebar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1149 | 331 | 
 | 2023-03-08 | 1147 | 330 | 
 | 2023-03-07 | 1145 | 327 | 
 | 2023-03-05 | 1143 | 327 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1086 | 320 | 
 | 2023-02-10 | 1085 | 318 | 
 | 2023-02-09 | 1084 | 316 | 
-| 2023-02-08 | 1082 | 315 | 
 

@@ -1,6 +1,6 @@
 # pharo-graphics/Alexandrie - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4 | - | 
 | 2023-03-08 | 4 | - | 
 | 2023-03-07 | 4 | - | 
 | 2023-03-06 | 4 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 4 | - | 
 | 2023-02-10 | 4 | - | 
 | 2023-02-09 | 4 | - | 
-| 2023-02-08 | 4 | - | 
 

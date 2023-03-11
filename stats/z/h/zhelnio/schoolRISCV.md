@@ -1,6 +1,6 @@
 # zhelnio/schoolRISCV - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 97 | 31 | 
 | 2023-03-09 | 97 | 31 | 
 | 2023-03-08 | 97 | 30 | 
 | 2023-03-07 | 96 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 96 | 29 | 
 | 2023-02-10 | 96 | 29 | 
 | 2023-02-09 | 95 | 29 | 
-| 2023-02-08 | 95 | 29 | 
 

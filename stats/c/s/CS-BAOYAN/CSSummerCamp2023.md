@@ -1,10 +1,10 @@
 # CS-BAOYAN/CSSummerCamp2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 53
 
-★ Stars: 330
+★ Stars: 332
 
 [Open repository](https://github.com/CS-BAOYAN/CSSummerCamp2023)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 332 | 53 | 
 | 2023-03-09 | 330 | 53 | 
 | 2023-03-08 | 323 | 50 | 
 | 2023-03-07 | 314 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 150 | 24 | 
 | 2023-02-10 | 143 | 23 | 
 | 2023-02-09 | 136 | 21 | 
-| 2023-02-08 | 127 | 20 | 
 

@@ -1,8 +1,8 @@
 # stoope/writer - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 29 | 1 | 
 | 2023-03-09 | 29 | - | 
 | 2023-03-08 | 29 | - | 
 | 2023-03-06 | 29 | - | 

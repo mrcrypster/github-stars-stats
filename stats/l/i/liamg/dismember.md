@@ -1,10 +1,10 @@
 # liamg/dismember - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 30
 
-★ Stars: 410
+★ Stars: 409
 
 [Open repository](https://github.com/liamg/dismember)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 409 | 30 | 
 | 2023-03-09 | 410 | 30 | 
 | 2023-03-08 | 409 | 30 | 
 | 2023-03-06 | 409 | 30 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 404 | 29 | 
 | 2023-02-11 | 404 | 29 | 
 | 2023-02-09 | 404 | 29 | 
-| 2023-02-08 | 404 | 29 | 
 

@@ -1,6 +1,6 @@
 # jobspacecreative/desafio-front-end - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1 | 12 | 
 | 2023-03-09 | 1 | 12 | 
 | 2023-03-07 | 1 | 12 | 
 | 2023-03-05 | 1 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 1 | 12 | 
 | 2023-02-11 | 1 | 12 | 
 | 2023-02-09 | 1 | 12 | 
-| 2023-02-08 | 1 | 12 | 
 

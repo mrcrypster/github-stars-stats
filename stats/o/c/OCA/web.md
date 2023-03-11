@@ -1,10 +1,10 @@
 # OCA/web - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1703
 
-★ Stars: 729
+★ Stars: 731
 
 [Open repository](https://github.com/OCA/web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 731 | 1703 | 
 | 2023-03-09 | 729 | 1703 | 
 | 2023-03-07 | 728 | 1701 | 
 | 2023-03-06 | 726 | 1698 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 721 | 1693 | 
 | 2023-02-10 | 721 | 1692 | 
 | 2023-02-09 | 721 | 1692 | 
-| 2023-02-08 | 721 | 1692 | 
 

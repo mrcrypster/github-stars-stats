@@ -1,10 +1,10 @@
 # ginny100/Meta-Front-End-Developer - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 175
+★ Stars: 181
 
 [Open repository](https://github.com/ginny100/Meta-Front-End-Developer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 181 | 91 | 
 | 2023-03-09 | 175 | 90 | 
 | 2023-03-08 | 175 | 89 | 
 | 2023-03-07 | 174 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 138 | 71 | 
 | 2023-02-10 | 137 | 69 | 
 | 2023-02-09 | 134 | 67 | 
-| 2023-02-08 | 132 | 66 | 
 

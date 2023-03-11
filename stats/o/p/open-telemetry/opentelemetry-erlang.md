@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-erlang - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 253 | 77 | 
 | 2023-03-09 | 253 | 77 | 
 | 2023-03-08 | 253 | 77 | 
 | 2023-03-07 | 253 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 251 | 76 | 
 | 2023-02-10 | 251 | 76 | 
 | 2023-02-09 | 251 | 76 | 
-| 2023-02-08 | 251 | 76 | 
 

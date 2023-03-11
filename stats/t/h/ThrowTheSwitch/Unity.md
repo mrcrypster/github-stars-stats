@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 821
 
-★ Stars: 2897
+★ Stars: 2899
 
 [Open repository](https://github.com/ThrowTheSwitch/Unity)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 2897 | 821 | 
+| 2023-03-10 | 2899 | 821 | 
 | 2023-03-09 | 2898 | 821 | 
 | 2023-03-08 | 2896 | 822 | 
 | 2023-03-07 | 2894 | 821 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 2860 | 811 | 
 | 2023-02-10 | 2857 | 809 | 
 | 2023-02-09 | 2857 | 809 | 
-| 2023-02-08 | 2857 | 809 | 
 

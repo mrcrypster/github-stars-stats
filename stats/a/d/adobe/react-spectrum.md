@@ -1,10 +1,10 @@
 # adobe/react-spectrum - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 667
+☋ Forks: 670
 
-★ Stars: 8137
+★ Stars: 8139
 
 [Open repository](https://github.com/adobe/react-spectrum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 8139 | 670 | 
 | 2023-03-09 | 8137 | 667 | 
 | 2023-03-08 | 8131 | 666 | 
 | 2023-03-06 | 8120 | 663 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 7952 | 647 | 
 | 2023-02-11 | 7952 | 647 | 
 | 2023-02-10 | 7946 | 646 | 
-| 2023-02-08 | 7944 | 647 | 
 

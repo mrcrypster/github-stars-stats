@@ -1,10 +1,10 @@
 # terror/present - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 96
+★ Stars: 95
 
 [Open repository](https://github.com/terror/present)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 95 | - | 
 | 2023-03-09 | 96 | - | 
 | 2023-03-08 | 96 | - | 
 | 2023-03-06 | 95 | - | 

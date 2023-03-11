@@ -1,10 +1,10 @@
 # EFeru/hoverboard-firmware-hack-FOC - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 516
 
-★ Stars: 672
+★ Stars: 673
 
 [Open repository](https://github.com/EFeru/hoverboard-firmware-hack-FOC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 673 | 516 | 
 | 2023-03-09 | 672 | 516 | 
 | 2023-03-08 | 672 | 514 | 
 | 2023-03-06 | 674 | 511 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 654 | 500 | 
 | 2023-02-10 | 652 | 500 | 
 | 2023-02-09 | 652 | 498 | 
-| 2023-02-08 | 650 | 497 | 
 

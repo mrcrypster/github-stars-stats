@@ -1,8 +1,8 @@
 # livebook-dev/kino - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 219
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 219 | 31 | 
 | 2023-03-08 | 219 | 30 | 
 | 2023-03-07 | 218 | 30 | 
 | 2023-03-06 | 218 | 30 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 217 | 30 | 
 | 2023-02-11 | 217 | 30 | 
 | 2023-02-10 | 217 | 30 | 
-| 2023-02-08 | 217 | 30 | 
 

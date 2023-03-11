@@ -1,6 +1,6 @@
 # BL-MSCH-C220/Exercise-02c-Explosions-and-Enemy - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1 | 39 | 
 | 2023-03-09 | 1 | 39 | 
 | 2023-03-07 | - | 39 | 
 | 2023-03-06 | - | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | - | 38 | 
 | 2023-02-10 | - | 38 | 
 | 2023-02-09 | - | 38 | 
-| 2023-02-08 | - | 38 | 
 

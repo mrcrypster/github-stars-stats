@@ -1,10 +1,10 @@
 # AssistoLab/DropDown - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 574
+☋ Forks: 575
 
-★ Stars: 2302
+★ Stars: 2304
 
 [Open repository](https://github.com/AssistoLab/DropDown)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2304 | 575 | 
 | 2023-03-08 | 2302 | 574 | 
 | 2023-03-07 | 2302 | 574 | 
 | 2023-03-06 | 2300 | 574 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2288 | 570 | 
 | 2023-02-10 | 2288 | 570 | 
 | 2023-02-09 | 2287 | 569 | 
-| 2023-02-08 | 2286 | 569 | 
 

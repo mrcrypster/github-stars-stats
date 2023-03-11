@@ -1,10 +1,10 @@
 # obsidiandynamics/kafdrop - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 683
 
-★ Stars: 4351
+★ Stars: 4357
 
 [Open repository](https://github.com/obsidiandynamics/kafdrop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4357 | 683 | 
 | 2023-03-09 | 4351 | 683 | 
 | 2023-03-08 | 4346 | 680 | 
 | 2023-03-06 | 4344 | 680 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 4281 | 668 | 
 | 2023-02-10 | 4280 | 667 | 
 | 2023-02-09 | 4276 | 667 | 
-| 2023-02-08 | 4274 | 666 | 
 

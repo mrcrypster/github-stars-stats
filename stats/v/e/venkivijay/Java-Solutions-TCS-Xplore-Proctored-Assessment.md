@@ -1,10 +1,10 @@
 # venkivijay/Java-Solutions-TCS-Xplore-Proctored-Assessment - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 136
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/venkivijay/Java-Solutions-TCS-Xplore-Proctored-Assessment)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 184 | 136 | 
 | 2023-03-09 | 183 | 136 | 
 | 2023-03-08 | 183 | 136 | 
 | 2023-03-06 | 183 | 136 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 174 | 123 | 
 | 2023-02-10 | 174 | 123 | 
 | 2023-02-09 | 172 | 123 | 
-| 2023-02-08 | 172 | 122 | 
 

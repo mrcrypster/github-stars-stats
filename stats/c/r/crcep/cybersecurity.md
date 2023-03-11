@@ -1,10 +1,10 @@
 # crcep/cybersecurity - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/crcep/cybersecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 103 | 2 | 
 | 2023-03-09 | 102 | 2 | 
 | 2023-03-08 | 98 | 2 | 
 | 2023-03-07 | 97 | 2 | 

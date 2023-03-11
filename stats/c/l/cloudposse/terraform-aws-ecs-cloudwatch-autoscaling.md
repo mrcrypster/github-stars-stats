@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ecs-cloudwatch-autoscaling - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 31 | 19 | 
 | 2023-03-09 | 31 | 19 | 
 | 2023-03-07 | 31 | 19 | 
 | 2023-03-05 | 31 | 19 | 

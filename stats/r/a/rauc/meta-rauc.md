@@ -1,6 +1,6 @@
 # rauc/meta-rauc - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 110 | 69 | 
 | 2023-03-09 | 110 | 69 | 
 | 2023-03-08 | 110 | 69 | 
 | 2023-03-07 | 110 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 107 | 67 | 
 | 2023-02-10 | 106 | 67 | 
 | 2023-02-09 | 106 | 67 | 
-| 2023-02-08 | 106 | 67 | 
 

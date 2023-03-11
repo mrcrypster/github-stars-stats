@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 1922
 
-★ Stars: 5644
+★ Stars: 5643
 
 [Open repository](https://github.com/xamarin/Xamarin.Forms)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 5644 | 1922 | 
+| 2023-03-10 | 5643 | 1922 | 
 | 2023-03-09 | 5644 | 1922 | 
 | 2023-03-08 | 5643 | 1921 | 
 | 2023-03-07 | 5643 | 1921 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 5640 | 1923 | 
 | 2023-02-10 | 5640 | 1923 | 
 | 2023-02-09 | 5640 | 1923 | 
-| 2023-02-08 | 5640 | 1923 | 
 

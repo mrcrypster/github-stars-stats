@@ -1,6 +1,6 @@
 # gonum/gonum - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 495
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 6410 | 495 | 
 | 2023-03-08 | 6410 | 495 | 
 | 2023-03-07 | 6407 | 494 | 
 | 2023-03-06 | 6402 | 493 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 6350 | 487 | 
 | 2023-02-10 | 6349 | 487 | 
 | 2023-02-09 | 6347 | 487 | 
-| 2023-02-08 | 6345 | 487 | 
 

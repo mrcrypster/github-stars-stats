@@ -1,6 +1,6 @@
 # tiagoair/rollaballpjd4m2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2 | 21 | 
 | 2023-03-09 | 2 | 21 | 
 | 2023-03-07 | 2 | 21 | 
 | 2023-03-06 | 2 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 1 | 21 | 
 | 2023-02-10 | 1 | 21 | 
 | 2023-02-09 | 1 | 21 | 
-| 2023-02-08 | 1 | 21 | 
 

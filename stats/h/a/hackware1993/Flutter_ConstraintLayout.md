@@ -1,10 +1,10 @@
 # hackware1993/Flutter_ConstraintLayout - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 19
 
-★ Stars: 294
+★ Stars: 299
 
 [Open repository](https://github.com/hackware1993/Flutter_ConstraintLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 299 | 19 | 
 | 2023-03-09 | 294 | 19 | 
 | 2023-03-08 | 293 | 18 | 
 | 2023-03-06 | 293 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 275 | 16 | 
 | 2023-02-11 | 274 | 16 | 
 | 2023-02-10 | 273 | 16 | 
-| 2023-02-09 | 271 | 16 | 
 

@@ -1,10 +1,10 @@
 # google-research/kubric - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 165
 
-★ Stars: 1809
+★ Stars: 1810
 
 [Open repository](https://github.com/google-research/kubric)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1810 | 165 | 
 | 2023-03-09 | 1809 | 165 | 
 | 2023-03-07 | 1806 | 165 | 
 | 2023-03-06 | 1805 | 165 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 1777 | 161 | 
 | 2023-02-10 | 1776 | 160 | 
 | 2023-02-09 | 1774 | 160 | 
-| 2023-02-08 | 1774 | 160 | 
 

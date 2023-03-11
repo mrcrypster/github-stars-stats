@@ -1,10 +1,10 @@
 # cncf/apisnoop - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 39
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/cncf/apisnoop)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 81 | 39 | 
 | 2023-03-09 | 82 | 39 | 
 | 2023-03-08 | 82 | 39 | 
 | 2023-03-06 | 82 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 82 | 39 | 
 | 2023-02-10 | 82 | 39 | 
 | 2023-02-09 | 82 | 39 | 
-| 2023-02-08 | 82 | 39 | 
 

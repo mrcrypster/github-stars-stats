@@ -1,6 +1,6 @@
 # emacsmirror/font-lock-plus - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 7 | 4 | 
 | 2023-03-08 | 7 | 4 | 
 | 2023-03-07 | 7 | 4 | 
 | 2023-03-06 | 7 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 7 | 4 | 
 | 2023-02-11 | 7 | 4 | 
 | 2023-02-10 | 7 | 4 | 
-| 2023-02-09 | 7 | 4 | 
 

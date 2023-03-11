@@ -1,8 +1,8 @@
 # mcu-tools/mcuboot - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 535
+☋ Forks: 534
 
 ★ Stars: 968
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 968 | 534 | 
 | 2023-03-09 | 968 | 535 | 
 | 2023-03-08 | 968 | 535 | 
 | 2023-03-07 | 968 | 533 | 

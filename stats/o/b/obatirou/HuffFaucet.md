@@ -1,10 +1,10 @@
 # obatirou/HuffFaucet - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/obatirou/HuffFaucet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 12 | 1 | 
 | 2023-03-08 | 11 | 1 | 
 | 2023-03-06 | 11 | 1 | 
 | 2023-03-05 | 11 | 1 | 

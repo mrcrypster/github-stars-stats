@@ -1,8 +1,8 @@
 # thoughtbot/factory_bot - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 2630
+☋ Forks: 2634
 
 ★ Stars: 7720
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 7720 | 2634 | 
+| 2023-03-10 | 7720 | 2634 | 
 | 2023-03-09 | 7720 | 2630 | 
 | 2023-03-08 | 7720 | 2628 | 
 | 2023-03-06 | 7718 | 2628 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 7701 | 2625 | 
 | 2023-02-10 | 7699 | 2625 | 
 | 2023-02-09 | 7699 | 2624 | 
-| 2023-02-08 | 7698 | 2624 | 
 

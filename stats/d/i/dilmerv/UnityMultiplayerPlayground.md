@@ -1,10 +1,10 @@
 # dilmerv/UnityMultiplayerPlayground - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 57
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/dilmerv/UnityMultiplayerPlayground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 101 | 57 | 
 | 2023-03-08 | 100 | 57 | 
 | 2023-03-07 | 100 | 57 | 
 | 2023-03-05 | 100 | 57 | 

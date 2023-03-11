@@ -1,10 +1,10 @@
 # elzo-d/LakeSnes - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/elzo-d/LakeSnes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 81 | 2 | 
 | 2023-03-09 | 82 | 2 | 
 | 2023-03-07 | 82 | 2 | 
 | 2023-03-06 | 82 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 78 | 2 | 
 | 2023-02-10 | 76 | 2 | 
 | 2023-02-09 | 76 | 2 | 
-| 2023-02-08 | 76 | 2 | 
 

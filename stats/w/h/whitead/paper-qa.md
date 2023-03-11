@@ -1,10 +1,10 @@
 # whitead/paper-qa - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 80
+☋ Forks: 83
 
-★ Stars: 1300
+★ Stars: 1326
 
 [Open repository](https://github.com/whitead/paper-qa)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1326 | 83 | 
 | 2023-03-08 | 1300 | 80 | 
 | 2023-03-07 | 1247 | 77 | 
 | 2023-03-06 | 1224 | 76 | 

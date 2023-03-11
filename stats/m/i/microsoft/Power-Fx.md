@@ -1,10 +1,10 @@
 # microsoft/Power-Fx - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 268
 
-★ Stars: 2894
+★ Stars: 2893
 
 [Open repository](https://github.com/microsoft/Power-Fx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2893 | 268 | 
 | 2023-03-09 | 2894 | 268 | 
 | 2023-03-08 | 2892 | 267 | 
 | 2023-03-07 | 2892 | 267 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2871 | 265 | 
 | 2023-02-10 | 2870 | 264 | 
 | 2023-02-09 | 2868 | 264 | 
-| 2023-02-08 | 2869 | 263 | 
 

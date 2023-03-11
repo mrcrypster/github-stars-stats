@@ -1,10 +1,10 @@
 # JustAnotherArchivist/snscrape - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 503
+☋ Forks: 504
 
-★ Stars: 2913
+★ Stars: 2919
 
 [Open repository](https://github.com/JustAnotherArchivist/snscrape)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2919 | 504 | 
 | 2023-03-08 | 2913 | 503 | 
 | 2023-03-07 | 2896 | 501 | 
 | 2023-03-05 | 2888 | 498 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2739 | 478 | 
 | 2023-02-10 | 2723 | 473 | 
 | 2023-02-09 | 2697 | 471 | 
-| 2023-02-08 | 2673 | 469 | 
 

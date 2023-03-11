@@ -1,10 +1,10 @@
 # leaky-forms/leak-inspector - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/leaky-forms/leak-inspector)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 122 | 9 | 
 | 2023-03-09 | 121 | 9 | 
 | 2023-03-07 | 121 | 9 | 
 | 2023-03-06 | 121 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 122 | 9 | 
 | 2023-02-10 | 122 | 9 | 
 | 2023-02-09 | 122 | 9 | 
-| 2023-02-08 | 122 | 9 | 
 

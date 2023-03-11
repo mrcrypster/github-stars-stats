@@ -1,6 +1,6 @@
 # CjangCjengh/tacotron2-japanese - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 253 | 69 | 
 | 2023-03-08 | 253 | 69 | 
 | 2023-03-07 | 253 | 69 | 
 | 2023-03-05 | 253 | 69 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 248 | 70 | 
 | 2023-02-11 | 248 | 69 | 
 | 2023-02-10 | 247 | 69 | 
-| 2023-02-09 | 247 | 69 | 
 

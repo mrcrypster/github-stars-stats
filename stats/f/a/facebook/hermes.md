@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 500
 
-★ Stars: 7751
+★ Stars: 7753
 
 [Open repository](https://github.com/facebook/hermes)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 7751 | 500 | 
+| 2023-03-10 | 7753 | 500 | 
 | 2023-03-09 | 7751 | 500 | 
 | 2023-03-08 | 7746 | 500 | 
 | 2023-03-07 | 7736 | 500 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 7702 | 496 | 
 | 2023-02-10 | 7703 | 496 | 
 | 2023-02-09 | 7700 | 496 | 
-| 2023-02-08 | 7698 | 496 | 
 

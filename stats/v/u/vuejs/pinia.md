@@ -1,10 +1,10 @@
 # vuejs/pinia - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 725
+☋ Forks: 727
 
-★ Stars: 10015
+★ Stars: 10030
 
 [Open repository](https://github.com/vuejs/pinia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 10030 | 727 | 
 | 2023-03-09 | 10015 | 725 | 
 | 2023-03-07 | 10010 | 722 | 
 | 2023-03-06 | 9997 | 724 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 9799 | 693 | 
 | 2023-02-10 | 9791 | 693 | 
 | 2023-02-09 | 9781 | 693 | 
-| 2023-02-08 | 9774 | 690 | 
 

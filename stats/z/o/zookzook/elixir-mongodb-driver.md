@@ -1,6 +1,6 @@
 # zookzook/elixir-mongodb-driver - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 181 | 47 | 
 | 2023-03-09 | 181 | 47 | 
 | 2023-03-08 | 181 | 47 | 
 | 2023-03-06 | 181 | 47 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 175 | 47 | 
 | 2023-02-11 | 175 | 47 | 
 | 2023-02-10 | 175 | 47 | 
-| 2023-02-09 | 175 | 47 | 
 

@@ -1,10 +1,10 @@
 # conventional-changelog/commitlint - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 804
 
-★ Stars: 13340
+★ Stars: 13347
 
 [Open repository](https://github.com/conventional-changelog/commitlint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 13347 | 804 | 
 | 2023-03-09 | 13340 | 804 | 
 | 2023-03-07 | 13331 | 804 | 
 | 2023-03-06 | 13318 | 803 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 13155 | 801 | 
 | 2023-02-10 | 13149 | 801 | 
 | 2023-02-09 | 13141 | 801 | 
-| 2023-02-08 | 13131 | 801 | 
 

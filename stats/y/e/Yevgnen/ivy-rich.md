@@ -1,10 +1,10 @@
 # Yevgnen/ivy-rich - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 39
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/Yevgnen/ivy-rich)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 346 | 39 | 
 | 2023-03-09 | 345 | 39 | 
 | 2023-03-07 | 345 | 39 | 
 | 2023-03-06 | 345 | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 343 | 39 | 
 | 2023-02-11 | 343 | 39 | 
 | 2023-02-10 | 343 | 39 | 
-| 2023-02-08 | 343 | 39 | 
 

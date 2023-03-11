@@ -1,10 +1,10 @@
 # lars-berger/GlazeWM - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 37
 
-★ Stars: 1247
+★ Stars: 1248
 
 [Open repository](https://github.com/lars-berger/GlazeWM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1248 | 37 | 
 | 2023-03-08 | 1247 | 37 | 
 | 2023-03-07 | 1243 | 37 | 
 | 2023-03-05 | 1233 | 37 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 1176 | 31 | 
 | 2023-02-11 | 1173 | 31 | 
 | 2023-02-10 | 1172 | 31 | 
-| 2023-02-08 | 1169 | 31 | 
 

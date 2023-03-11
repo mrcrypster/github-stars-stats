@@ -1,10 +1,10 @@
 # LorenzCK/OnTopReplica - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 248
+☋ Forks: 247
 
-★ Stars: 1992
+★ Stars: 1993
 
 [Open repository](https://github.com/LorenzCK/OnTopReplica)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1993 | 247 | 
 | 2023-03-09 | 1992 | 248 | 
 | 2023-03-08 | 1989 | 248 | 
 | 2023-03-06 | 1989 | 248 | 

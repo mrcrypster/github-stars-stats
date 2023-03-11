@@ -1,6 +1,6 @@
 # CombineCommunity/CombineExt - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1422 | 136 | 
 | 2023-03-08 | 1422 | 136 | 
 | 2023-03-07 | 1421 | 137 | 
 | 2023-03-05 | 1421 | 137 | 

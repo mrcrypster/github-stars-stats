@@ -1,8 +1,8 @@
 # nvim-treesitter/nvim-treesitter-context - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 1306
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1306 | 79 | 
 | 2023-03-09 | 1306 | 78 | 
 | 2023-03-08 | 1303 | 74 | 
 | 2023-03-06 | 1301 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 1273 | 73 | 
 | 2023-02-10 | 1268 | 73 | 
 | 2023-02-09 | 1267 | 73 | 
-| 2023-02-08 | 1266 | 73 | 
 

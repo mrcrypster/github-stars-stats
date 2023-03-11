@@ -1,10 +1,10 @@
 # PKUFlyingPig/cs-self-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 3675
+☋ Forks: 3687
 
-★ Stars: 26670
+★ Stars: 26711
 
 [Open repository](https://github.com/PKUFlyingPig/cs-self-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 26711 | 3687 | 
 | 2023-03-08 | 26670 | 3675 | 
 | 2023-03-07 | 26635 | 3671 | 
 | 2023-03-06 | 26615 | 3669 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 25938 | 3586 | 
 | 2023-02-10 | 25912 | 3583 | 
 | 2023-02-09 | 25887 | 3578 | 
-| 2023-02-08 | 25835 | 3575 | 
 

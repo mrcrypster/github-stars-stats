@@ -1,6 +1,6 @@
 # tc39/proposal-module-declarations - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 200 | 5 | 
 | 2023-03-09 | 200 | 5 | 
 | 2023-03-08 | 200 | 5 | 
 | 2023-03-06 | 200 | 5 | 

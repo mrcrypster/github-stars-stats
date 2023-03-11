@@ -1,10 +1,10 @@
 # scikit-optimize/scikit-optimize - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 481
+☋ Forks: 482
 
-★ Stars: 2544
+★ Stars: 2546
 
 [Open repository](https://github.com/scikit-optimize/scikit-optimize)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2546 | 482 | 
 | 2023-03-09 | 2544 | 481 | 
 | 2023-03-08 | 2543 | 482 | 
 | 2023-03-06 | 2542 | 482 | 

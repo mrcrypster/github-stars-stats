@@ -1,6 +1,6 @@
 # seriousm4x/UpSnap - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 430 | 16 | 
 | 2023-03-09 | 430 | 16 | 
 | 2023-03-08 | 430 | 16 | 
 | 2023-03-07 | 427 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 278 | 11 | 
 | 2023-02-10 | 277 | 11 | 
 | 2023-02-09 | 271 | 11 | 
-| 2023-02-08 | 259 | 10 | 
 

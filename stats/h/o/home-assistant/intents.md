@@ -1,8 +1,8 @@
 # home-assistant/intents - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 337
+☋ Forks: 339
 
 ★ Stars: 300
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 300 | 339 | 
 | 2023-03-09 | 300 | 337 | 
 | 2023-03-08 | 300 | 336 | 
 | 2023-03-06 | 300 | 336 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 274 | 309 | 
 | 2023-02-10 | 274 | 308 | 
 | 2023-02-09 | 273 | 306 | 
-| 2023-02-08 | 273 | 305 | 
 

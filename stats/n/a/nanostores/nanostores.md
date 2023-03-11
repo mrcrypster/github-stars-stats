@@ -1,10 +1,10 @@
 # nanostores/nanostores - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 66
 
-★ Stars: 2893
+★ Stars: 2903
 
 [Open repository](https://github.com/nanostores/nanostores)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2903 | 66 | 
 | 2023-03-08 | 2893 | 66 | 
 | 2023-03-07 | 2886 | 66 | 
 | 2023-03-06 | 2873 | 66 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2652 | 63 | 
 | 2023-02-10 | 2647 | 62 | 
 | 2023-02-09 | 2643 | 62 | 
-| 2023-02-08 | 2636 | 62 | 
 

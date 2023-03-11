@@ -1,6 +1,6 @@
 # dart-lang/linter - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 572 | 164 | 
 | 2023-03-08 | 572 | 164 | 
 | 2023-03-07 | 572 | 164 | 
 | 2023-03-05 | 572 | 164 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 567 | 162 | 
 | 2023-02-10 | 567 | 161 | 
 | 2023-02-09 | 566 | 161 | 
-| 2023-02-08 | 566 | 160 | 
 

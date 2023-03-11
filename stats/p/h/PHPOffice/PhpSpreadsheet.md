@@ -1,10 +1,10 @@
 # PHPOffice/PhpSpreadsheet - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 2958
+☋ Forks: 2961
 
-★ Stars: 12007
+★ Stars: 12012
 
 [Open repository](https://github.com/PHPOffice/PhpSpreadsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 12012 | 2961 | 
 | 2023-03-09 | 12007 | 2958 | 
 | 2023-03-08 | 12003 | 2957 | 
 | 2023-03-07 | 12000 | 2956 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 11932 | 2931 | 
 | 2023-02-10 | 11931 | 2931 | 
 | 2023-02-09 | 11928 | 2930 | 
-| 2023-02-08 | 11925 | 2930 | 
 

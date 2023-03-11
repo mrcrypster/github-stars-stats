@@ -1,10 +1,10 @@
 # CriticalFlaw/flawhud - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 21
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/CriticalFlaw/flawhud)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 130 | 21 | 
 | 2023-03-08 | 129 | 21 | 
 | 2023-03-07 | 128 | 21 | 
 | 2023-03-06 | 128 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 126 | 21 | 
 | 2023-02-10 | 126 | 21 | 
 | 2023-02-09 | 125 | 21 | 
-| 2023-02-08 | 125 | 21 | 
 

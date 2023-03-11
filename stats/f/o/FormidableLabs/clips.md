@@ -1,10 +1,10 @@
 # FormidableLabs/clips - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 6
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/FormidableLabs/clips)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 52 | 6 | 
 | 2023-03-09 | 50 | 6 | 
 | 2023-03-08 | 50 | 6 | 
 | 2023-03-07 | 50 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 46 | 6 | 
 | 2023-02-10 | 46 | 6 | 
 | 2023-02-09 | 46 | 6 | 
-| 2023-02-08 | 46 | 6 | 
 

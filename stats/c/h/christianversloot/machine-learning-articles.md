@@ -1,10 +1,10 @@
 # christianversloot/machine-learning-articles - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 464
+☋ Forks: 466
 
-★ Stars: 1654
+★ Stars: 1659
 
 [Open repository](https://github.com/christianversloot/machine-learning-articles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1659 | 466 | 
 | 2023-03-09 | 1654 | 464 | 
 | 2023-03-08 | 1643 | 463 | 
 | 2023-03-06 | 1640 | 462 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 1542 | 437 | 
 | 2023-02-10 | 1538 | 437 | 
 | 2023-02-09 | 1538 | 437 | 
-| 2023-02-08 | 1533 | 437 | 
 

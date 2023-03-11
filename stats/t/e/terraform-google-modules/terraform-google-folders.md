@@ -1,8 +1,8 @@
 # terraform-google-modules/terraform-google-folders - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 34 | 51 | 
 | 2023-03-09 | 34 | 50 | 
 | 2023-03-08 | 34 | 50 | 
 | 2023-03-06 | 34 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 30 | 49 | 
 | 2023-02-10 | 30 | 49 | 
 | 2023-02-09 | 30 | 49 | 
-| 2023-02-08 | 30 | 49 | 
 

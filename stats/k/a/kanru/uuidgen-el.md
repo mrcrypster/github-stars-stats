@@ -1,6 +1,6 @@
 # kanru/uuidgen-el - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 45 | 7 | 
 | 2023-03-08 | 45 | 7 | 
 | 2023-03-07 | 45 | 7 | 
 | 2023-03-06 | 45 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 44 | 7 | 
 | 2023-02-11 | 44 | 7 | 
 | 2023-02-10 | 44 | 7 | 
-| 2023-02-08 | 44 | 7 | 
 

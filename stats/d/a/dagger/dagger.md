@@ -1,10 +1,10 @@
 # dagger/dagger - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 386
 
-★ Stars: 7816
+★ Stars: 7831
 
 [Open repository](https://github.com/dagger/dagger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 7831 | 386 | 
 | 2023-03-09 | 7816 | 386 | 
 | 2023-03-08 | 7813 | 386 | 
 | 2023-03-07 | 7804 | 386 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 7682 | 383 | 
 | 2023-02-10 | 7680 | 383 | 
 | 2023-02-09 | 7665 | 382 | 
-| 2023-02-08 | 7653 | 382 | 
 

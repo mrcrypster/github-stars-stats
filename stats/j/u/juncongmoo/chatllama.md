@@ -1,10 +1,10 @@
 # juncongmoo/chatllama - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 28
+☋ Forks: 31
 
-★ Stars: 318
+★ Stars: 371
 
 [Open repository](https://github.com/juncongmoo/chatllama)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 371 | 31 | 
+| 2023-03-10 | 359 | 31 | 
 | 2023-03-09 | 318 | 28 | 
 | 2023-03-08 | 262 | 15 | 
 

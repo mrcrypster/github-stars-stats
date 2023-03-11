@@ -1,6 +1,6 @@
 # trobonox/kanri - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 170 | 15 | 
 | 2023-03-09 | 170 | 15 | 
 | 2023-03-08 | 167 | 15 | 
 | 2023-03-06 | 167 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 130 | 10 | 
 | 2023-02-11 | 130 | 10 | 
 | 2023-02-10 | 129 | 10 | 
-| 2023-02-08 | 128 | 9 | 
 

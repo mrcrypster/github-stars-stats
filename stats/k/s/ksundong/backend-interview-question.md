@@ -1,10 +1,10 @@
 # ksundong/backend-interview-question - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 696
 
-★ Stars: 3074
+★ Stars: 3076
 
 [Open repository](https://github.com/ksundong/backend-interview-question)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3076 | 696 | 
 | 2023-03-09 | 3074 | 696 | 
 | 2023-03-08 | 3061 | 697 | 
 | 2023-03-06 | 3055 | 693 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2974 | 670 | 
 | 2023-02-10 | 2971 | 670 | 
 | 2023-02-09 | 2957 | 666 | 
-| 2023-02-08 | 2950 | 664 | 
 

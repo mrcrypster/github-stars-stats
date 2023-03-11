@@ -1,10 +1,10 @@
 # cloudwego/kitex - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 629
 
-★ Stars: 5676
+★ Stars: 5678
 
 [Open repository](https://github.com/cloudwego/kitex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 5678 | 629 | 
 | 2023-03-09 | 5676 | 629 | 
 | 2023-03-08 | 5672 | 626 | 
 | 2023-03-06 | 5667 | 625 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 5594 | 617 | 
 | 2023-02-10 | 5582 | 617 | 
 | 2023-02-09 | 5578 | 617 | 
-| 2023-02-08 | 5566 | 617 | 
 

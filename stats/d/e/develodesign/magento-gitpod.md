@@ -1,10 +1,10 @@
 # develodesign/magento-gitpod - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 11
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/develodesign/magento-gitpod)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 13 | 11 | 
 | 2023-03-09 | 14 | 11 | 
 | 2023-03-08 | 14 | 11 | 
 | 2023-03-07 | 14 | 11 | 

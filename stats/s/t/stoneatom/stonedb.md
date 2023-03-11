@@ -1,10 +1,10 @@
 # stoneatom/stonedb - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 711
+★ Stars: 714
 
 [Open repository](https://github.com/stoneatom/stonedb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 714 | 115 | 
 | 2023-03-08 | 711 | 114 | 
 | 2023-03-07 | 712 | 114 | 
 | 2023-03-06 | 711 | 114 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 691 | 108 | 
 | 2023-02-10 | 691 | 108 | 
 | 2023-02-09 | 690 | 107 | 
-| 2023-02-08 | 689 | 107 | 
 

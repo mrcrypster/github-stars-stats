@@ -1,10 +1,10 @@
 # sudoskys/Openaibot - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 133
+☋ Forks: 137
 
-★ Stars: 1098
+★ Stars: 1118
 
 [Open repository](https://github.com/sudoskys/Openaibot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1118 | 137 | 
 | 2023-03-09 | 1098 | 133 | 
 | 2023-03-07 | 1061 | 131 | 
 | 2023-03-05 | 979 | 123 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 719 | 97 | 
 | 2023-02-10 | 686 | 93 | 
 | 2023-02-09 | 649 | 85 | 
-| 2023-02-08 | 596 | 82 | 
 

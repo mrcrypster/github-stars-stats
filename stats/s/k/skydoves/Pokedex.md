@@ -1,10 +1,10 @@
 # skydoves/Pokedex - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 824
 
-★ Stars: 6406
+★ Stars: 6407
 
 [Open repository](https://github.com/skydoves/Pokedex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6407 | 824 | 
 | 2023-03-09 | 6406 | 824 | 
 | 2023-03-08 | 6401 | 824 | 
 | 2023-03-07 | 6394 | 824 | 

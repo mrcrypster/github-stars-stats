@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoftgraph-docs-powershell - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 8 | 6 | 
 | 2023-03-09 | 8 | 6 | 
 | 2023-03-08 | 8 | 6 | 
 | 2023-03-06 | 8 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 8 | 5 | 
 | 2023-02-10 | 8 | 5 | 
 | 2023-02-09 | 8 | 5 | 
-| 2023-02-08 | 8 | 5 | 
 

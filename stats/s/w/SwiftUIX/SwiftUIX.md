@@ -1,10 +1,10 @@
 # SwiftUIX/SwiftUIX - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 340
 
-★ Stars: 5395
+★ Stars: 5400
 
 [Open repository](https://github.com/SwiftUIX/SwiftUIX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 5400 | 340 | 
 | 2023-03-08 | 5395 | 340 | 
 | 2023-03-07 | 5390 | 339 | 
 | 2023-03-06 | 5384 | 339 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 5307 | 335 | 
 | 2023-02-10 | 5304 | 334 | 
 | 2023-02-09 | 5303 | 334 | 
-| 2023-02-08 | 5302 | 334 | 
 

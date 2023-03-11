@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 546
 
-★ Stars: 1190
+★ Stars: 1191
 
 [Open repository](https://github.com/IfcOpenShell/IfcOpenShell)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 1190 | 546 | 
+| 2023-03-10 | 1191 | 546 | 
 | 2023-03-09 | 1190 | 545 | 
 

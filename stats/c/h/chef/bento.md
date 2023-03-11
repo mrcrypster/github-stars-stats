@@ -1,10 +1,10 @@
 # chef/bento - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1094
 
-★ Stars: 4028
+★ Stars: 4029
 
 [Open repository](https://github.com/chef/bento)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4029 | 1094 | 
 | 2023-03-08 | 4028 | 1094 | 
 | 2023-03-07 | 4028 | 1094 | 
 | 2023-03-05 | 4024 | 1095 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 4017 | 1097 | 
 | 2023-02-10 | 4014 | 1095 | 
 | 2023-02-09 | 4013 | 1095 | 
-| 2023-02-08 | 4013 | 1095 | 
 

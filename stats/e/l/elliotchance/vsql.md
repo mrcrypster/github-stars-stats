@@ -1,10 +1,10 @@
 # elliotchance/vsql - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 16
 
-★ Stars: 214
+★ Stars: 221
 
 [Open repository](https://github.com/elliotchance/vsql)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 221 | 16 | 
+| 2023-03-10 | 221 | 16 | 
 | 2023-03-08 | 214 | 16 | 
 | 2023-03-07 | 213 | 16 | 
 | 2023-03-06 | 213 | 16 | 

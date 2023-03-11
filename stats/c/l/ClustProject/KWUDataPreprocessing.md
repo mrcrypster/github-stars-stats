@@ -1,10 +1,10 @@
 # ClustProject/KWUDataPreprocessing - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/ClustProject/KWUDataPreprocessing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 10 | 9 | 
 | 2023-03-08 | 11 | 9 | 
 | 2023-03-07 | 11 | 9 | 
 | 2023-03-06 | 11 | 9 | 

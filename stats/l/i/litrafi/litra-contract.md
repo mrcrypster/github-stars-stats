@@ -1,6 +1,6 @@
 # litrafi/litra-contract - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | - | 2 | 
 | 2023-03-08 | - | 2 | 
 | 2023-03-07 | - | 2 | 
 | 2023-03-05 | - | 2 | 

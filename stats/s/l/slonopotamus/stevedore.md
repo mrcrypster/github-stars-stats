@@ -1,10 +1,10 @@
 # slonopotamus/stevedore - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 6
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/slonopotamus/stevedore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 240 | 6 | 
 | 2023-03-09 | 239 | 6 | 
 | 2023-03-08 | 239 | 6 | 
 | 2023-03-06 | 239 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 238 | 6 | 
 | 2023-02-11 | 238 | 6 | 
 | 2023-02-09 | 238 | 6 | 
-| 2023-02-08 | 236 | 6 | 
 

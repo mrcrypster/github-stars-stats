@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 10
 
-☋ Forks: 502
+☋ Forks: 503
 
-★ Stars: 6246
+★ Stars: 6249
 
 [Open repository](https://github.com/wren-lang/wren)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 6246 | 502 | 
+| 2023-03-10 | 6249 | 503 | 
 | 2023-03-08 | 6239 | 502 | 
 | 2023-03-07 | 6237 | 502 | 
 | 2023-03-06 | 6233 | 502 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 6205 | 498 | 
 | 2023-02-10 | 6204 | 498 | 
 | 2023-02-09 | 6204 | 498 | 
-| 2023-02-08 | 6201 | 498 | 
 

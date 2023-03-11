@@ -1,6 +1,6 @@
 # elixir-ecto/db_connection - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 274 | 105 | 
 | 2023-03-09 | 274 | 105 | 
 | 2023-03-07 | 274 | 105 | 
 | 2023-03-06 | 273 | 105 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 271 | 106 | 
 | 2023-02-11 | 271 | 106 | 
 | 2023-02-09 | 271 | 105 | 
-| 2023-02-08 | 271 | 105 | 
 

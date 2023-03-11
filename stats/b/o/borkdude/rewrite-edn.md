@@ -1,10 +1,10 @@
 # borkdude/rewrite-edn - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/borkdude/rewrite-edn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 76 | 13 | 
 | 2023-03-09 | 75 | 12 | 
 | 2023-03-08 | 75 | 12 | 
 | 2023-03-06 | 75 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 75 | 12 | 
 | 2023-02-10 | 75 | 12 | 
 | 2023-02-09 | 75 | 12 | 
-| 2023-02-08 | 75 | 12 | 
 

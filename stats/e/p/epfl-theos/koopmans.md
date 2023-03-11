@@ -1,6 +1,6 @@
 # epfl-theos/koopmans - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 9 | 2 | 
 | 2023-03-08 | 9 | 2 | 
 | 2023-03-07 | 10 | 2 | 
 | 2023-03-06 | 10 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 8 | 2 | 
 | 2023-02-11 | 8 | 2 | 
 | 2023-02-10 | 8 | 2 | 
-| 2023-02-09 | 8 | 2 | 
 

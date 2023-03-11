@@ -1,10 +1,10 @@
 # kdeldycke/awesome-falsehood - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 497
+☋ Forks: 498
 
-★ Stars: 20371
+★ Stars: 20385
 
 [Open repository](https://github.com/kdeldycke/awesome-falsehood)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 20385 | 498 | 
 | 2023-03-09 | 20371 | 497 | 
 | 2023-03-07 | 20360 | 497 | 
 | 2023-03-06 | 20357 | 497 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 20157 | 492 | 
 | 2023-02-10 | 20139 | 491 | 
 | 2023-02-09 | 20095 | 490 | 
-| 2023-02-08 | 20062 | 490 | 
 

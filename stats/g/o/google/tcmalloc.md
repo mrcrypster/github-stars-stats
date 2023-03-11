@@ -1,10 +1,10 @@
 # google/tcmalloc - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 365
 
-★ Stars: 3295
+★ Stars: 3296
 
 [Open repository](https://github.com/google/tcmalloc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3296 | 365 | 
 | 2023-03-09 | 3295 | 365 | 
 | 2023-03-07 | 3294 | 364 | 
 | 2023-03-06 | 3290 | 364 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 3261 | 356 | 
 | 2023-02-10 | 3261 | 356 | 
 | 2023-02-09 | 3259 | 355 | 
-| 2023-02-08 | 3259 | 354 | 
 

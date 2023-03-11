@@ -1,10 +1,10 @@
 # ViewComponent/view_component - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 360
 
-★ Stars: 2823
+★ Stars: 2824
 
 [Open repository](https://github.com/ViewComponent/view_component)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2824 | 360 | 
 | 2023-03-09 | 2823 | 360 | 
 | 2023-03-08 | 2823 | 360 | 
 | 2023-03-06 | 2818 | 360 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2796 | 360 | 
 | 2023-02-10 | 2796 | 360 | 
 | 2023-02-09 | 2795 | 359 | 
-| 2023-02-08 | 2792 | 359 | 
 

@@ -1,6 +1,6 @@
 # The-Arbiter/Aux-Bytes-Example - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 12 | 3 | 
 | 2023-03-08 | 12 | 3 | 
 | 2023-03-07 | 12 | 3 | 
 | 2023-03-05 | 11 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 11 | 3 | 
 | 2023-02-10 | 11 | 3 | 
 | 2023-02-09 | 11 | 3 | 
-| 2023-02-08 | 11 | 3 | 
 

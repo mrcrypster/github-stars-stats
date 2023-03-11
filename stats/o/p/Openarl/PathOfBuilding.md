@@ -1,10 +1,10 @@
 # Openarl/PathOfBuilding - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1064
 
-★ Stars: 2167
+★ Stars: 2166
 
 [Open repository](https://github.com/Openarl/PathOfBuilding)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2166 | 1064 | 
 | 2023-03-09 | 2167 | 1064 | 
 | 2023-03-08 | 2167 | 1064 | 
 | 2023-03-06 | 2167 | 1064 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2168 | 1063 | 
 | 2023-02-11 | 2168 | 1063 | 
 | 2023-02-09 | 2168 | 1065 | 
-| 2023-02-08 | 2168 | 1065 | 
 

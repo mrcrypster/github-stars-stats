@@ -1,6 +1,6 @@
 # hotwired/stimulus - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 370
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 11858 | 370 | 
 | 2023-03-09 | 11858 | 370 | 
 | 2023-03-08 | 11856 | 371 | 
 | 2023-03-06 | 11852 | 370 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 11811 | 367 | 
 | 2023-02-11 | 11811 | 367 | 
 | 2023-02-10 | 11813 | 367 | 
-| 2023-02-08 | 11809 | 366 | 
 

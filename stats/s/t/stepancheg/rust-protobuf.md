@@ -1,10 +1,10 @@
 # stepancheg/rust-protobuf - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 337
+☋ Forks: 338
 
-★ Stars: 2348
+★ Stars: 2351
 
 [Open repository](https://github.com/stepancheg/rust-protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2351 | 338 | 
 | 2023-03-09 | 2348 | 337 | 
 | 2023-03-07 | 2348 | 337 | 
 | 2023-03-06 | 2348 | 337 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2330 | 334 | 
 | 2023-02-10 | 2330 | 334 | 
 | 2023-02-09 | 2330 | 334 | 
-| 2023-02-08 | 2330 | 334 | 
 

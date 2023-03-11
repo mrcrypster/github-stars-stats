@@ -1,6 +1,6 @@
 # stefa168/guida_degli_studenti_di - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 94 | 33 | 
 | 2023-03-09 | 94 | 33 | 
 | 2023-03-08 | 93 | 33 | 
 | 2023-03-07 | 91 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 89 | 35 | 
 | 2023-02-11 | 89 | 35 | 
 | 2023-02-09 | 89 | 35 | 
-| 2023-02-08 | 88 | 35 | 
 

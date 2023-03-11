@@ -1,10 +1,10 @@
 # LokerL/tts-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 256
+☋ Forks: 260
 
-★ Stars: 1378
+★ Stars: 1389
 
 [Open repository](https://github.com/LokerL/tts-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1389 | 260 | 
 | 2023-03-09 | 1378 | 256 | 
 | 2023-03-08 | 1365 | 256 | 
 | 2023-03-07 | 1346 | 251 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 1096 | 214 | 
 | 2023-02-11 | 1088 | 214 | 
 | 2023-02-10 | 1081 | 214 | 
-| 2023-02-09 | 1068 | 213 | 
 

@@ -1,6 +1,6 @@
 # luxiangqiang/todo-list - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 35 | 7 | 
 | 2023-03-09 | 35 | 7 | 
 | 2023-03-07 | 35 | 7 | 
 | 2023-03-06 | 35 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 34 | 7 | 
 | 2023-02-11 | 34 | 7 | 
 | 2023-02-09 | 34 | 7 | 
-| 2023-02-08 | 34 | 7 | 
 

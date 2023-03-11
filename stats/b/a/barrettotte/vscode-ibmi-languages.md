@@ -1,10 +1,10 @@
 # barrettotte/vscode-ibmi-languages - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 6
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/barrettotte/vscode-ibmi-languages)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 30 | 6 | 
 | 2023-03-09 | 29 | 6 | 
 | 2023-03-08 | 29 | 6 | 
 | 2023-03-06 | 29 | 6 | 

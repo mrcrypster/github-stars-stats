@@ -1,10 +1,10 @@
 # gojue/ecapture - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 637
 
-★ Stars: 6201
+★ Stars: 6214
 
 [Open repository](https://github.com/gojue/ecapture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 6214 | 637 | 
 | 2023-03-08 | 6201 | 637 | 
 | 2023-03-07 | 6188 | 636 | 
 | 2023-03-05 | 6162 | 636 | 

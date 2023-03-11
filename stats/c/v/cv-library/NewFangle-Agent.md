@@ -1,6 +1,6 @@
 # cv-library/NewFangle-Agent - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4 | 1 | 
 | 2023-03-08 | 4 | 1 | 
 | 2023-03-07 | 4 | 1 | 
 | 2023-03-05 | 4 | 1 | 

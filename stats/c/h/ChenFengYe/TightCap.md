@@ -1,10 +1,10 @@
 # ChenFengYe/TightCap - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/ChenFengYe/TightCap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 93 | 4 | 
 | 2023-03-09 | 92 | 4 | 
 | 2023-03-08 | 92 | 4 | 
 | 2023-03-06 | 92 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 89 | 4 | 
 | 2023-02-10 | 88 | 4 | 
 | 2023-02-09 | 88 | 4 | 
-| 2023-02-08 | 88 | 4 | 
 

@@ -1,10 +1,10 @@
 # evryfs/helm-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 60
+☋ Forks: 62
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/evryfs/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 41 | 62 | 
 | 2023-03-09 | 40 | 60 | 
 | 2023-03-08 | 40 | 60 | 
 | 2023-03-06 | 40 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 38 | 60 | 
 | 2023-02-11 | 38 | 60 | 
 | 2023-02-09 | 38 | 60 | 
-| 2023-02-08 | 38 | 60 | 
 

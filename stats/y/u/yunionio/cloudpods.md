@@ -1,10 +1,10 @@
 # yunionio/cloudpods - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 372
 
-★ Stars: 1760
+★ Stars: 1763
 
 [Open repository](https://github.com/yunionio/cloudpods)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1763 | 372 | 
 | 2023-03-08 | 1760 | 372 | 
 | 2023-03-07 | 1758 | 372 | 
 | 2023-03-05 | 1758 | 372 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 1669 | 361 | 
 | 2023-02-11 | 1668 | 360 | 
 | 2023-02-10 | 1668 | 360 | 
-| 2023-02-08 | 1665 | 359 | 
 

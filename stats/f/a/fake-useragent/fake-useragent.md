@@ -1,10 +1,10 @@
 # fake-useragent/fake-useragent - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 495
 
-★ Stars: 2946
+★ Stars: 2948
 
 [Open repository](https://github.com/fake-useragent/fake-useragent)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2948 | 495 | 
 | 2023-03-09 | 2946 | 495 | 
 | 2023-03-07 | 2944 | 495 | 
 | 2023-03-06 | 2942 | 494 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2924 | 495 | 
 | 2023-02-11 | 2921 | 495 | 
 | 2023-02-10 | 2920 | 495 | 
-| 2023-02-09 | 2919 | 494 | 
 

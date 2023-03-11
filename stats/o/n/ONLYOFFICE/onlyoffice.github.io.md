@@ -1,10 +1,10 @@
 # ONLYOFFICE/onlyoffice.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 95
+☋ Forks: 98
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/ONLYOFFICE/onlyoffice.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 31 | 98 | 
 | 2023-03-09 | 29 | 95 | 
 | 2023-03-08 | 29 | 95 | 
 | 2023-03-06 | 29 | 93 | 

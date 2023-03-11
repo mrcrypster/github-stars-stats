@@ -1,10 +1,10 @@
 # fzyzcjy/flutter_smooth - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 43
 
-★ Stars: 1098
+★ Stars: 1101
 
 [Open repository](https://github.com/fzyzcjy/flutter_smooth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1101 | 43 | 
 | 2023-03-09 | 1098 | 43 | 
 | 2023-03-08 | 1096 | 43 | 
 | 2023-03-06 | 1095 | 43 | 

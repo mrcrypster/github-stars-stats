@@ -1,10 +1,10 @@
 # uzzii-21/astro-portfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/uzzii-21/astro-portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 21 | 20 | 
 | 2023-03-08 | 20 | 19 | 
 | 2023-03-07 | 20 | 19 | 
 | 2023-03-06 | 20 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 18 | 13 | 
 | 2023-02-10 | 17 | 13 | 
 | 2023-02-09 | 17 | 14 | 
-| 2023-02-08 | 17 | 14 | 
 

@@ -1,6 +1,6 @@
 # moll/vim-bbye - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 574 | 27 | 
 | 2023-03-09 | 574 | 27 | 
 | 2023-03-07 | 574 | 27 | 
 | 2023-03-06 | 574 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 570 | 27 | 
 | 2023-02-11 | 569 | 27 | 
 | 2023-02-09 | 568 | 27 | 
-| 2023-02-08 | 567 | 27 | 
 

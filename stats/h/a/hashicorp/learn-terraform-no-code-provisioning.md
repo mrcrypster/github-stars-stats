@@ -1,8 +1,8 @@
 # hashicorp/learn-terraform-no-code-provisioning - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 104
+☋ Forks: 106
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1 | 106 | 
 | 2023-03-08 | 1 | 104 | 
 | 2023-03-07 | 1 | 103 | 
 | 2023-03-06 | 1 | 102 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1 | 93 | 
 | 2023-02-10 | 1 | 93 | 
 | 2023-02-09 | 1 | 91 | 
-| 2023-02-08 | 1 | 90 | 
 

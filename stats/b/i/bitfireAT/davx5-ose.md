@@ -1,10 +1,10 @@
 # bitfireAT/davx5-ose - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 39
 
-★ Stars: 567
+★ Stars: 566
 
 [Open repository](https://github.com/bitfireAT/davx5-ose)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 566 | 39 | 
 | 2023-03-08 | 567 | 39 | 
 | 2023-03-07 | 566 | 41 | 
 | 2023-03-05 | 565 | 41 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 524 | 41 | 
 | 2023-02-11 | 523 | 41 | 
 | 2023-02-10 | 522 | 41 | 
-| 2023-02-08 | 520 | 41 | 
 

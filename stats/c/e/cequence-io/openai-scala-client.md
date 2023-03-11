@@ -1,10 +1,10 @@
 # cequence-io/openai-scala-client - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 48
+★ Stars: 51
 
 [Open repository](https://github.com/cequence-io/openai-scala-client)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 51 | 5 | 
+| 2023-03-10 | 51 | 5 | 
 | 2023-03-09 | 48 | 4 | 
 | 2023-03-07 | 47 | 4 | 
 | 2023-03-06 | 45 | 4 | 

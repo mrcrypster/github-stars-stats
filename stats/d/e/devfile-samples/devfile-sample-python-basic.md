@@ -1,8 +1,8 @@
 # devfile-samples/devfile-sample-python-basic - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 111
+☋ Forks: 120
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3 | 120 | 
 | 2023-03-08 | 3 | 111 | 
 | 2023-03-07 | 3 | 110 | 
 | 2023-03-06 | 3 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2 | 94 | 
 | 2023-02-10 | 2 | 94 | 
 | 2023-02-09 | 2 | 94 | 
-| 2023-02-08 | 2 | 94 | 
 

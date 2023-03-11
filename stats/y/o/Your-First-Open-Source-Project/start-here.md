@@ -1,10 +1,10 @@
 # Your-First-Open-Source-Project/start-here - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 106
+☋ Forks: 108
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/Your-First-Open-Source-Project/start-here)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 99 | 108 | 
 | 2023-03-09 | 100 | 106 | 
 | 2023-03-08 | 99 | 106 | 
 | 2023-03-06 | 99 | 107 | 

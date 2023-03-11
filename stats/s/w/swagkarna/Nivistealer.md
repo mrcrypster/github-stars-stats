@@ -1,6 +1,6 @@
 # swagkarna/Nivistealer - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 364 | 103 | 
 | 2023-03-08 | 364 | 103 | 
 | 2023-03-07 | 364 | 103 | 
 | 2023-03-06 | 363 | 103 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 353 | 96 | 
 | 2023-02-10 | 353 | 96 | 
 | 2023-02-09 | 353 | 96 | 
-| 2023-02-08 | 350 | 96 | 
 

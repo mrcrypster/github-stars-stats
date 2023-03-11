@@ -1,10 +1,10 @@
 # oasislinux/oasis - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 61
 
-★ Stars: 1972
+★ Stars: 1971
 
 [Open repository](https://github.com/oasislinux/oasis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1971 | 61 | 
 | 2023-03-09 | 1972 | 61 | 
 | 2023-03-07 | 1970 | 61 | 
 | 2023-03-06 | 1968 | 61 | 

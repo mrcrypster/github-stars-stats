@@ -1,0 +1,17 @@
+# Krymancer/AssemblyServer - stars & forks statistics
+
+Stats updated on Mar 2023, 10
+
+☋ Forks: 0
+
+★ Stars: 20
+
+[Open repository](https://github.com/Krymancer/AssemblyServer)
+
+[Open detailed stats for Krymancer/AssemblyServer](https://reviewgithub.com/rep/Krymancer/AssemblyServer)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-10 | 20 | - | 
+

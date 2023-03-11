@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 723
 
-★ Stars: 4027
+★ Stars: 4029
 
 [Open repository](https://github.com/learntocloud/learn-to-cloud)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 4027 | 723 | 
+| 2023-03-10 | 4029 | 723 | 
 | 2023-03-09 | 4026 | 723 | 
 | 2023-03-07 | 4016 | 720 | 
 | 2023-03-06 | 4015 | 722 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 3944 | 695 | 
 | 2023-02-10 | 3941 | 695 | 
 | 2023-02-09 | 3941 | 695 | 
-| 2023-02-08 | 3934 | 695 | 
 

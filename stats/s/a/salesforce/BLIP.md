@@ -1,10 +1,10 @@
 # salesforce/BLIP - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 283
+☋ Forks: 286
 
-★ Stars: 1692
+★ Stars: 1725
 
 [Open repository](https://github.com/salesforce/BLIP)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1725 | 286 | 
 | 2023-03-08 | 1692 | 283 | 
 | 2023-03-07 | 1678 | 284 | 
 | 2023-03-05 | 1668 | 281 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1489 | 255 | 
 | 2023-02-10 | 1485 | 252 | 
 | 2023-02-09 | 1476 | 250 | 
-| 2023-02-08 | 1473 | 250 | 
 

@@ -1,10 +1,10 @@
 # kadena-io/signing-api - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 5
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/kadena-io/signing-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 5 | 5 | 
 | 2023-03-09 | 6 | 5 | 
 | 2023-03-07 | 6 | 5 | 
 | 2023-03-06 | 5 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 4 | 5 | 
 | 2023-02-10 | 4 | 5 | 
 | 2023-02-09 | 4 | 5 | 
-| 2023-02-08 | 4 | 5 | 
 

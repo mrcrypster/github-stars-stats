@@ -1,10 +1,10 @@
 # ripperhe/bob-popclip - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 163
+★ Stars: 166
 
 [Open repository](https://github.com/ripperhe/bob-popclip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 166 | 12 | 
 | 2023-03-09 | 163 | 12 | 
 | 2023-03-08 | 163 | 12 | 
 | 2023-03-07 | 162 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 145 | 10 | 
 | 2023-02-10 | 145 | 10 | 
 | 2023-02-09 | 145 | 10 | 
-| 2023-02-08 | 145 | 10 | 
 

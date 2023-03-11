@@ -1,8 +1,8 @@
 # Hasith035/rdp-ngrok - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 56
+☋ Forks: 63
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2 | 63 | 
 | 2023-03-08 | 2 | 56 | 
 | 2023-03-07 | 2 | 54 | 
 | 2023-03-06 | 2 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 2 | 28 | 
 | 2023-02-10 | 2 | 28 | 
 | 2023-02-09 | 2 | 25 | 
-| 2023-02-08 | 2 | 25 | 
 

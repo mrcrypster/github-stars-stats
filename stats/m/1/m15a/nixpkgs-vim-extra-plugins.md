@@ -1,10 +1,10 @@
 # m15a/nixpkgs-vim-extra-plugins - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/m15a/nixpkgs-vim-extra-plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 20 | 9 | 
 | 2023-03-09 | 21 | 9 | 
 | 2023-03-08 | 21 | 9 | 
 | 2023-03-06 | 21 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 21 | 9 | 
 | 2023-02-11 | 21 | 9 | 
 | 2023-02-09 | 21 | 9 | 
-| 2023-02-08 | 21 | 9 | 
 

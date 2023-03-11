@@ -1,10 +1,10 @@
 # Kenny-Haworth/Harvest-Moon-2.0 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 40
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/Kenny-Haworth/Harvest-Moon-2.0)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 140 | 40 | 
 | 2023-03-08 | 139 | 40 | 
 | 2023-03-06 | 139 | 40 | 
 | 2023-03-05 | 139 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 136 | 39 | 
 | 2023-02-10 | 136 | 39 | 
 | 2023-02-09 | 137 | 39 | 
-| 2023-02-08 | 137 | 39 | 
 

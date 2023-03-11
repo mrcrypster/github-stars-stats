@@ -1,8 +1,8 @@
 # javnitram/SGE-odoo-dev - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 28
+☋ Forks: 14
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 12 | 14 | 
 | 2023-03-09 | 12 | 28 | 
 | 2023-03-07 | 12 | 31 | 
 | 2023-03-05 | 12 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 12 | 35 | 
 | 2023-02-11 | 12 | 35 | 
 | 2023-02-09 | 12 | 35 | 
-| 2023-02-08 | 12 | 35 | 
 

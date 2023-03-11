@@ -1,10 +1,10 @@
 # dessalines/essays - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 168
 
-★ Stars: 1319
+★ Stars: 1321
 
 [Open repository](https://github.com/dessalines/essays)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1321 | 168 | 
 | 2023-03-09 | 1319 | 168 | 
 | 2023-03-08 | 1317 | 168 | 
 | 2023-03-07 | 1317 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 1308 | 166 | 
 | 2023-02-10 | 1307 | 166 | 
 | 2023-02-09 | 1304 | 166 | 
-| 2023-02-08 | 1304 | 166 | 
 

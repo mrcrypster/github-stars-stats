@@ -1,8 +1,8 @@
 # Gibdos/compose_collection - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 38 | 2 | 
 | 2023-03-09 | 38 | 1 | 
 | 2023-03-07 | 37 | 1 | 
 | 2023-03-06 | 37 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 37 | 1 | 
 | 2023-02-10 | 38 | 1 | 
 | 2023-02-09 | 38 | 1 | 
-| 2023-02-08 | 38 | 1 | 
 

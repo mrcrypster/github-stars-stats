@@ -1,10 +1,10 @@
 # nhn/tui.image-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1102
+☋ Forks: 1104
 
-★ Stars: 5824
+★ Stars: 5831
 
 [Open repository](https://github.com/nhn/tui.image-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 5831 | 1104 | 
 | 2023-03-09 | 5824 | 1102 | 
 | 2023-03-07 | 5819 | 1102 | 
 | 2023-03-06 | 5814 | 1103 | 

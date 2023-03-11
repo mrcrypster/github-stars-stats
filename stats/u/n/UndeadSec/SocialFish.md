@@ -1,10 +1,10 @@
 # UndeadSec/SocialFish - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1170
 
-★ Stars: 3330
+★ Stars: 3332
 
 [Open repository](https://github.com/UndeadSec/SocialFish)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3332 | 1170 | 
 | 2023-03-09 | 3330 | 1170 | 
 | 2023-03-08 | 3325 | 1169 | 
 | 2023-03-06 | 3323 | 1168 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 3290 | 1157 | 
 | 2023-02-10 | 3290 | 1157 | 
 | 2023-02-09 | 3289 | 1157 | 
-| 2023-02-08 | 3289 | 1156 | 
 

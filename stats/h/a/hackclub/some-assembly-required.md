@@ -1,10 +1,10 @@
 # hackclub/some-assembly-required - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 115
+☋ Forks: 116
 
-★ Stars: 2649
+★ Stars: 2658
 
 [Open repository](https://github.com/hackclub/some-assembly-required)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2658 | 116 | 
 | 2023-03-08 | 2649 | 115 | 
 | 2023-03-07 | 2646 | 115 | 
 | 2023-03-06 | 2641 | 115 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 2286 | 97 | 
 | 2023-02-11 | 2286 | 97 | 
 | 2023-02-10 | 2286 | 97 | 
-| 2023-02-08 | 2284 | 97 | 
 

@@ -1,8 +1,8 @@
 # Certora/Tutorials - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 137
+☋ Forks: 138
 
 ★ Stars: 166
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 166 | 138 | 
 | 2023-03-08 | 166 | 137 | 
 | 2023-03-07 | 166 | 137 | 
 | 2023-03-06 | 165 | 135 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 153 | 125 | 
 | 2023-02-10 | 152 | 125 | 
 | 2023-02-09 | 148 | 124 | 
-| 2023-02-08 | 146 | 124 | 
 

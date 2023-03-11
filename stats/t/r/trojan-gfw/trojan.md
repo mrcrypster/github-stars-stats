@@ -1,10 +1,10 @@
 # trojan-gfw/trojan - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 2911
 
-★ Stars: 17281
+★ Stars: 17289
 
 [Open repository](https://github.com/trojan-gfw/trojan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 17289 | 2911 | 
 | 2023-03-08 | 17281 | 2911 | 
 | 2023-03-07 | 17265 | 2911 | 
 | 2023-03-05 | 17259 | 2910 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 17143 | 2896 | 
 | 2023-02-10 | 17143 | 2896 | 
 | 2023-02-09 | 17137 | 2895 | 
-| 2023-02-08 | 17135 | 2894 | 
 

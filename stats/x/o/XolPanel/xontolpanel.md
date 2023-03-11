@@ -1,8 +1,8 @@
 # XolPanel/xontolpanel - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 7 | 19 | 
 | 2023-03-08 | 7 | 18 | 
 | 2023-03-07 | 7 | 18 | 
 | 2023-03-05 | 7 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 7 | 16 | 
 | 2023-02-10 | 7 | 16 | 
 | 2023-02-09 | 7 | 16 | 
-| 2023-02-08 | 7 | 16 | 
 

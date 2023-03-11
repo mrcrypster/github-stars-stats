@@ -1,8 +1,8 @@
 # maksimr/vim-jsbeautify - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 759
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 759 | 68 | 
 | 2023-03-08 | 759 | 67 | 
 | 2023-03-07 | 759 | 67 | 
 | 2023-03-06 | 758 | 67 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 758 | 67 | 
 | 2023-02-10 | 758 | 67 | 
 | 2023-02-09 | 758 | 68 | 
-| 2023-02-08 | 758 | 68 | 
 

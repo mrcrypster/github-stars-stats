@@ -1,10 +1,10 @@
 # andreasdevjs/shopify_OS20_boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 23
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/andreasdevjs/shopify_OS20_boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 28 | 23 | 
 | 2023-03-08 | 27 | 23 | 
 | 2023-03-07 | 27 | 23 | 
 | 2023-03-05 | 27 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 26 | 23 | 
 | 2023-02-10 | 26 | 23 | 
 | 2023-02-09 | 26 | 23 | 
-| 2023-02-08 | 26 | 23 | 
 

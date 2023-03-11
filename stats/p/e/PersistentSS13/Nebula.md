@@ -1,10 +1,10 @@
 # PersistentSS13/Nebula - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 42
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/PersistentSS13/Nebula)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 18 | 42 | 
 | 2023-03-08 | 17 | 42 | 
 | 2023-03-07 | 17 | 42 | 
 | 2023-03-05 | 17 | 42 | 

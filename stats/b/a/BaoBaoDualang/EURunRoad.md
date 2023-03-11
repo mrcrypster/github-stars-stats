@@ -1,10 +1,10 @@
 # BaoBaoDualang/EURunRoad - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 262
+★ Stars: 275
 
 [Open repository](https://github.com/BaoBaoDualang/EURunRoad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 275 | 17 | 
 | 2023-03-08 | 262 | 16 | 
 | 2023-03-07 | 256 | 16 | 
 | 2023-03-06 | 245 | 16 | 

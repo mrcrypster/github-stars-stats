@@ -1,8 +1,8 @@
 # senpro2023/senpro-github-action - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1 | 105 | 
 | 2023-03-08 | 1 | 104 | 
 | 2023-03-07 | 1 | 104 | 
 | 2023-03-05 | 1 | 104 | 

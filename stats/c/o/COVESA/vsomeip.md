@@ -1,10 +1,10 @@
 # COVESA/vsomeip - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 487
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/COVESA/vsomeip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 679 | 487 | 
 | 2023-03-09 | 678 | 487 | 
 | 2023-03-08 | 677 | 486 | 
 | 2023-03-06 | 677 | 486 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 668 | 479 | 
 | 2023-02-10 | 668 | 479 | 
 | 2023-02-09 | 667 | 477 | 
-| 2023-02-08 | 667 | 476 | 
 

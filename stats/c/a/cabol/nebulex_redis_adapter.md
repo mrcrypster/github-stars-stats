@@ -1,6 +1,6 @@
 # cabol/nebulex_redis_adapter - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 23 | 19 | 
 | 2023-03-09 | 23 | 19 | 
 | 2023-03-08 | 23 | 19 | 
 | 2023-03-06 | 23 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 22 | 19 | 
 | 2023-02-10 | 22 | 19 | 
 | 2023-02-09 | 22 | 19 | 
-| 2023-02-08 | 22 | 19 | 
 

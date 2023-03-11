@@ -1,6 +1,6 @@
 # Androz2091/discord-data-package-explorer - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 789 | 72 | 
 | 2023-03-09 | 789 | 72 | 
 | 2023-03-08 | 790 | 71 | 
 | 2023-03-06 | 790 | 72 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 786 | 73 | 
 | 2023-02-11 | 784 | 73 | 
 | 2023-02-10 | 785 | 73 | 
-| 2023-02-08 | 785 | 73 | 
 

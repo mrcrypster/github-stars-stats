@@ -1,6 +1,6 @@
 # ModelOriented/DrWhy - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 598 | 76 | 
 | 2023-03-09 | 598 | 76 | 
 | 2023-03-07 | 598 | 76 | 
 | 2023-03-06 | 597 | 76 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 595 | 75 | 
 | 2023-02-10 | 595 | 75 | 
 | 2023-02-09 | 595 | 75 | 
-| 2023-02-08 | 595 | 75 | 
 

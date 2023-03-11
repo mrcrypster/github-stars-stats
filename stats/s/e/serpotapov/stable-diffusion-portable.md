@@ -1,10 +1,10 @@
 # serpotapov/stable-diffusion-portable - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 148
+★ Stars: 152
 
 [Open repository](https://github.com/serpotapov/stable-diffusion-portable)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 152 | 24 | 
 | 2023-03-09 | 148 | 23 | 
 | 2023-03-08 | 148 | 24 | 
 | 2023-03-07 | 145 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 89 | 11 | 
 | 2023-02-10 | 83 | 10 | 
 | 2023-02-09 | 83 | 10 | 
-| 2023-02-08 | 82 | 10 | 
 

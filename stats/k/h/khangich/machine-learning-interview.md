@@ -1,6 +1,6 @@
 # khangich/machine-learning-interview - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1099
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 6365 | 1099 | 
 | 2023-03-08 | 6365 | 1099 | 
 | 2023-03-07 | 6362 | 1098 | 
 | 2023-03-05 | 6360 | 1097 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 6292 | 1079 | 
 | 2023-02-10 | 6289 | 1077 | 
 | 2023-02-09 | 6282 | 1075 | 
-| 2023-02-08 | 6274 | 1073 | 
 

@@ -1,10 +1,10 @@
 # ojg/thatmicpre - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/ojg/thatmicpre)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 75 | 4 | 
 | 2023-03-08 | 74 | 4 | 
 | 2023-03-07 | 74 | 4 | 
 | 2023-03-06 | 74 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 73 | 4 | 
 | 2023-02-10 | 73 | 4 | 
 | 2023-02-09 | 73 | 4 | 
-| 2023-02-08 | 73 | 4 | 
 

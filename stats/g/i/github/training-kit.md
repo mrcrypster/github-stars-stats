@@ -1,10 +1,10 @@
 # github/training-kit - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 4453
+☋ Forks: 4452
 
-★ Stars: 3866
+★ Stars: 3865
 
 [Open repository](https://github.com/github/training-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3865 | 4452 | 
 | 2023-03-09 | 3866 | 4453 | 
 | 2023-03-08 | 3865 | 4453 | 
 | 2023-03-07 | 3865 | 4453 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 3841 | 4458 | 
 | 2023-02-11 | 3840 | 4456 | 
 | 2023-02-10 | 3840 | 4455 | 
-| 2023-02-08 | 3837 | 4454 | 
 

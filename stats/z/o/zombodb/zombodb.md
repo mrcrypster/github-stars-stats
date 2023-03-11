@@ -1,10 +1,10 @@
 # zombodb/zombodb - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 201
 
-★ Stars: 4284
+★ Stars: 4285
 
 [Open repository](https://github.com/zombodb/zombodb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4285 | 201 | 
 | 2023-03-09 | 4284 | 201 | 
 | 2023-03-07 | 4281 | 201 | 
 | 2023-03-06 | 4282 | 201 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 4267 | 200 | 
 | 2023-02-11 | 4263 | 200 | 
 | 2023-02-10 | 4262 | 200 | 
-| 2023-02-09 | 4257 | 200 | 
 

@@ -1,10 +1,10 @@
 # Rdatatable/data.table - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 949
+☋ Forks: 947
 
-★ Stars: 3244
+★ Stars: 3246
 
 [Open repository](https://github.com/Rdatatable/data.table)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3246 | 947 | 
 | 2023-03-09 | 3244 | 949 | 
 | 2023-03-08 | 3243 | 949 | 
 | 2023-03-07 | 3242 | 949 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 3227 | 948 | 
 | 2023-02-10 | 3226 | 948 | 
 | 2023-02-09 | 3221 | 948 | 
-| 2023-02-08 | 3220 | 946 | 
 

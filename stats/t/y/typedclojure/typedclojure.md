@@ -1,6 +1,6 @@
 # typedclojure/typedclojure - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 338 | 2 | 
 | 2023-03-09 | 338 | 2 | 
 | 2023-03-08 | 338 | 2 | 
 | 2023-03-06 | 336 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 323 | 1 | 
 | 2023-02-11 | 322 | 1 | 
 | 2023-02-10 | 322 | 1 | 
-| 2023-02-08 | 322 | 1 | 
 

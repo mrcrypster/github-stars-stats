@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 330
 
-★ Stars: 1805
+★ Stars: 1810
 
 [Open repository](https://github.com/Threekiii/Awesome-Redteam)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 1805 | 330 | 
+| 2023-03-10 | 1810 | 330 | 
 | 2023-03-09 | 1802 | 330 | 
 | 2023-03-08 | 1799 | 329 | 
 | 2023-03-07 | 1779 | 322 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-11 | 1732 | 313 | 
 | 2023-02-10 | 1732 | 313 | 
 | 2023-02-09 | 1729 | 313 | 
-| 2023-02-08 | 1727 | 313 | 
 

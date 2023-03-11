@@ -1,10 +1,10 @@
 # Thorium-Sim/thorium-nova - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/Thorium-Sim/thorium-nova)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 293 | 7 | 
 | 2023-03-08 | 292 | 7 | 
 | 2023-03-07 | 290 | 7 | 
 | 2023-03-05 | 283 | 7 | 

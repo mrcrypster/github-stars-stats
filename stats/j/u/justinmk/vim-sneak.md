@@ -1,6 +1,6 @@
 # justinmk/vim-sneak - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2926 | 77 | 
 | 2023-03-09 | 2926 | 77 | 
 | 2023-03-08 | 2926 | 77 | 
 | 2023-03-07 | 2924 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2892 | 77 | 
 | 2023-02-10 | 2892 | 77 | 
 | 2023-02-09 | 2893 | 77 | 
-| 2023-02-08 | 2893 | 77 | 
 

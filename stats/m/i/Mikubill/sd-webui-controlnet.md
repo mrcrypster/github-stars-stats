@@ -1,10 +1,10 @@
 # Mikubill/sd-webui-controlnet - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 421
+☋ Forks: 434
 
-★ Stars: 4280
+★ Stars: 4376
 
 [Open repository](https://github.com/Mikubill/sd-webui-controlnet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4376 | 434 | 
 | 2023-03-08 | 4280 | 421 | 
 | 2023-03-07 | 4148 | 405 | 
 | 2023-03-06 | 4015 | 393 | 

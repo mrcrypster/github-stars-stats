@@ -1,10 +1,10 @@
 # Alex313031/Thorium-Win - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/Alex313031/Thorium-Win)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 88 | 7 | 
 | 2023-03-09 | 87 | 7 | 
 | 2023-03-08 | 87 | 7 | 
 | 2023-03-07 | 85 | 7 | 

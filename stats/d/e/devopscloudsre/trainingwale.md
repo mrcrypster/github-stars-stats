@@ -1,8 +1,8 @@
 # devopscloudsre/trainingwale - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2 | 82 | 
 | 2023-03-09 | 2 | 81 | 
 | 2023-03-07 | 2 | 81 | 
 | 2023-03-05 | 2 | 80 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2 | 79 | 
 | 2023-02-10 | 2 | 79 | 
 | 2023-02-09 | 2 | 79 | 
-| 2023-02-08 | 2 | 79 | 
 

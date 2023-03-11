@@ -1,10 +1,10 @@
 # aalhour/C-Sharp-Algorithms - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1329
 
-★ Stars: 5379
+★ Stars: 5382
 
 [Open repository](https://github.com/aalhour/C-Sharp-Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 5382 | 1329 | 
 | 2023-03-08 | 5379 | 1329 | 
 | 2023-03-07 | 5374 | 1330 | 
 | 2023-03-06 | 5372 | 1330 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 5331 | 1324 | 
 | 2023-02-10 | 5330 | 1324 | 
 | 2023-02-09 | 5329 | 1324 | 
-| 2023-02-08 | 5328 | 1322 | 
 

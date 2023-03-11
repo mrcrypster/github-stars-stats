@@ -1,6 +1,6 @@
 # Ephenia/Pokeclicker-Scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 151 | 242 | 
 | 2023-03-09 | 151 | 242 | 
 | 2023-03-07 | 151 | 242 | 
 | 2023-03-06 | 151 | 243 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 150 | 243 | 
 | 2023-02-10 | 149 | 243 | 
 | 2023-02-09 | 149 | 243 | 
-| 2023-02-08 | 149 | 243 | 
 

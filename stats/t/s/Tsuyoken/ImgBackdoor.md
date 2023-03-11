@@ -1,10 +1,10 @@
 # Tsuyoken/ImgBackdoor - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 69
 
-★ Stars: 328
+★ Stars: 327
 
 [Open repository](https://github.com/Tsuyoken/ImgBackdoor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 327 | 69 | 
 | 2023-03-09 | 328 | 69 | 
 | 2023-03-07 | 328 | 69 | 
 | 2023-03-06 | 328 | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 324 | 69 | 
 | 2023-02-10 | 324 | 69 | 
 | 2023-02-09 | 325 | 69 | 
-| 2023-02-08 | 325 | 69 | 
 

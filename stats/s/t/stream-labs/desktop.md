@@ -1,8 +1,8 @@
 # stream-labs/desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 652
+☋ Forks: 653
 
 ★ Stars: 4036
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 4036 | 653 | 
 | 2023-03-08 | 4036 | 652 | 
 | 2023-03-07 | 4036 | 652 | 
 | 2023-03-06 | 4035 | 652 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 4025 | 652 | 
 | 2023-02-11 | 4024 | 651 | 
 | 2023-02-10 | 4022 | 651 | 
-| 2023-02-08 | 4020 | 651 | 
 

@@ -1,10 +1,10 @@
 # iuricode/recursos-gratuitos - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 325
+☋ Forks: 326
 
-★ Stars: 3969
+★ Stars: 3974
 
 [Open repository](https://github.com/iuricode/recursos-gratuitos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3974 | 326 | 
 | 2023-03-08 | 3969 | 325 | 
 | 2023-03-07 | 3965 | 324 | 
 | 2023-03-05 | 3960 | 325 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 3883 | 323 | 
 | 2023-02-11 | 3882 | 323 | 
 | 2023-02-10 | 3879 | 324 | 
-| 2023-02-09 | 3875 | 324 | 
 

@@ -1,10 +1,10 @@
 # square/kotlinpoet - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 262
+☋ Forks: 263
 
-★ Stars: 3455
+★ Stars: 3456
 
 [Open repository](https://github.com/square/kotlinpoet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 3456 | 263 | 
 | 2023-03-09 | 3455 | 262 | 
 | 2023-03-07 | 3453 | 262 | 
 | 2023-03-06 | 3451 | 262 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 3430 | 261 | 
 | 2023-02-10 | 3427 | 261 | 
 | 2023-02-09 | 3426 | 260 | 
-| 2023-02-08 | 3425 | 260 | 
 

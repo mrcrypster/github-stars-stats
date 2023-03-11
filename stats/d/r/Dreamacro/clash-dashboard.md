@@ -1,10 +1,10 @@
 # Dreamacro/clash-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 317
+☋ Forks: 320
 
-★ Stars: 1448
+★ Stars: 1452
 
 [Open repository](https://github.com/Dreamacro/clash-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1452 | 320 | 
 | 2023-03-08 | 1448 | 317 | 
 | 2023-03-07 | 1447 | 317 | 
 | 2023-03-06 | 1438 | 316 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-12 | 1385 | 304 | 
 | 2023-02-10 | 1383 | 304 | 
 | 2023-02-09 | 1382 | 302 | 
-| 2023-02-08 | 1379 | 301 | 
 

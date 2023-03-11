@@ -1,10 +1,10 @@
 # zepinglee/gbt7714-bibtex-style - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 179
 
-★ Stars: 819
+★ Stars: 820
 
 [Open repository](https://github.com/zepinglee/gbt7714-bibtex-style)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 820 | 179 | 
 | 2023-03-09 | 819 | 179 | 
 | 2023-03-07 | 816 | 179 | 
 | 2023-03-05 | 815 | 179 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 798 | 176 | 
 | 2023-02-10 | 798 | 174 | 
 | 2023-02-09 | 797 | 174 | 
-| 2023-02-08 | 797 | 174 | 
 

@@ -1,6 +1,6 @@
 # gregsaun/bear_extruder_and_x_axis - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 309 | 85 | 
 | 2023-03-09 | 309 | 85 | 
 | 2023-03-08 | 309 | 85 | 
 | 2023-03-06 | 309 | 85 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 305 | 85 | 
 | 2023-02-10 | 305 | 85 | 
 | 2023-02-09 | 305 | 85 | 
-| 2023-02-08 | 304 | 84 | 
 

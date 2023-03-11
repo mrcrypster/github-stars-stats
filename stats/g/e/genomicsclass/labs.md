@@ -1,6 +1,6 @@
 # genomicsclass/labs - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1880
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1757 | 1880 | 
 | 2023-03-09 | 1757 | 1880 | 
 | 2023-03-08 | 1757 | 1880 | 
 | 2023-03-07 | 1757 | 1878 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 1749 | 1873 | 
 | 2023-02-10 | 1748 | 1872 | 
 | 2023-02-09 | 1748 | 1872 | 
-| 2023-02-08 | 1746 | 1870 | 
 

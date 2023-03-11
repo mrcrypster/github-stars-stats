@@ -1,10 +1,10 @@
 # SDWebImage/SDWebImageSVGCoder - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 31
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/SDWebImage/SDWebImageSVGCoder)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 84 | 31 | 
 | 2023-03-08 | 83 | 31 | 
 | 2023-03-07 | 82 | 31 | 
 | 2023-03-06 | 82 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 82 | 31 | 
 | 2023-02-10 | 82 | 31 | 
 | 2023-02-09 | 82 | 31 | 
-| 2023-02-08 | 82 | 31 | 
 

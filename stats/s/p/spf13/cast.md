@@ -1,10 +1,10 @@
 # spf13/cast - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 264
 
-★ Stars: 2810
+★ Stars: 2811
 
 [Open repository](https://github.com/spf13/cast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2811 | 264 | 
 | 2023-03-09 | 2810 | 264 | 
 | 2023-03-08 | 2808 | 264 | 
 | 2023-03-07 | 2806 | 265 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2774 | 262 | 
 | 2023-02-11 | 2773 | 262 | 
 | 2023-02-09 | 2770 | 262 | 
-| 2023-02-08 | 2766 | 262 | 
 

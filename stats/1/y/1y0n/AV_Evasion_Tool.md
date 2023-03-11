@@ -1,10 +1,10 @@
 # 1y0n/AV_Evasion_Tool - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 370
+☋ Forks: 371
 
-★ Stars: 2070
+★ Stars: 2073
 
 [Open repository](https://github.com/1y0n/AV_Evasion_Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2073 | 371 | 
 | 2023-03-09 | 2070 | 370 | 
 | 2023-03-08 | 2068 | 369 | 
 | 2023-03-07 | 2062 | 368 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 2025 | 364 | 
 | 2023-02-10 | 2025 | 364 | 
 | 2023-02-09 | 2024 | 364 | 
-| 2023-02-08 | 2023 | 364 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 27
 
 [Open repository](https://github.com/omegaui/chat_desk)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-10 | 23 | 1 | 
+| 2023-03-10 | 27 | 1 | 
 | 2023-03-09 | 22 | 1 | 
 

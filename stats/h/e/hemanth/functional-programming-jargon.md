@@ -1,10 +1,10 @@
 # hemanth/functional-programming-jargon - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 1017
 
-★ Stars: 18215
+★ Stars: 18216
 
 [Open repository](https://github.com/hemanth/functional-programming-jargon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 18216 | 1017 | 
 | 2023-03-09 | 18215 | 1017 | 
 | 2023-03-08 | 18214 | 1017 | 
 | 2023-03-06 | 18208 | 1016 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 18187 | 1014 | 
 | 2023-02-11 | 18186 | 1014 | 
 | 2023-02-10 | 18185 | 1014 | 
-| 2023-02-08 | 18184 | 1014 | 
 

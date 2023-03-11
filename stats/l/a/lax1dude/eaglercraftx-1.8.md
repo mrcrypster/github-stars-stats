@@ -1,10 +1,10 @@
 # lax1dude/eaglercraftx-1.8 - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 22
+☋ Forks: 26
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/lax1dude/eaglercraftx-1.8)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 18 | 26 | 
 | 2023-03-09 | 16 | 22 | 
 | 2023-03-07 | 16 | 18 | 
 | 2023-03-06 | 15 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 109 | 276 | 
 | 2023-02-11 | 107 | 273 | 
 | 2023-02-10 | 106 | 266 | 
-| 2023-02-09 | 102 | 249 | 
 

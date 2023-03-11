@@ -1,10 +1,10 @@
 # KMKfw/kmk_firmware - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 308
 
-★ Stars: 868
+★ Stars: 870
 
 [Open repository](https://github.com/KMKfw/kmk_firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 870 | 308 | 
 | 2023-03-09 | 868 | 308 | 
 | 2023-03-08 | 867 | 308 | 
 | 2023-03-06 | 865 | 307 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 836 | 288 | 
 | 2023-02-11 | 835 | 287 | 
 | 2023-02-10 | 834 | 287 | 
-| 2023-02-09 | 833 | 287 | 
 

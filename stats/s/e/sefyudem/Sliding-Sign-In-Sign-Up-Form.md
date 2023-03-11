@@ -1,10 +1,10 @@
 # sefyudem/Sliding-Sign-In-Sign-Up-Form - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 640
+☋ Forks: 641
 
-★ Stars: 679
+★ Stars: 680
 
 [Open repository](https://github.com/sefyudem/Sliding-Sign-In-Sign-Up-Form)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 680 | 641 | 
 | 2023-03-09 | 679 | 640 | 
 | 2023-03-08 | 679 | 639 | 
 | 2023-03-06 | 678 | 639 | 

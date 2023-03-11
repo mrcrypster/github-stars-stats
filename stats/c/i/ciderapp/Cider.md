@@ -1,10 +1,10 @@
 # ciderapp/Cider - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 287
 
-★ Stars: 6135
+★ Stars: 6142
 
 [Open repository](https://github.com/ciderapp/Cider)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 6142 | 287 | 
 | 2023-03-09 | 6135 | 287 | 
 | 2023-03-08 | 6131 | 287 | 
 | 2023-03-07 | 6127 | 287 | 

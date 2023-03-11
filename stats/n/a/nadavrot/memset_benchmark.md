@@ -1,10 +1,10 @@
 # nadavrot/memset_benchmark - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 9
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/nadavrot/memset_benchmark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 261 | 9 | 
 | 2023-03-08 | 260 | 9 | 
 | 2023-03-07 | 260 | 9 | 
 | 2023-03-06 | 260 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 260 | 9 | 
 | 2023-02-10 | 260 | 9 | 
 | 2023-02-09 | 260 | 9 | 
-| 2023-02-08 | 260 | 9 | 
 

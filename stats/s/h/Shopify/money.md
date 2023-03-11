@@ -1,6 +1,6 @@
 # Shopify/money - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 245 | 40 | 
 | 2023-03-09 | 245 | 40 | 
 | 2023-03-08 | 246 | 40 | 
 | 2023-03-06 | 246 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-11 | 246 | 40 | 
 | 2023-02-10 | 246 | 39 | 
 | 2023-02-09 | 247 | 39 | 
-| 2023-02-08 | 246 | 39 | 
 

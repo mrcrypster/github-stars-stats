@@ -1,10 +1,10 @@
 # htrgouvea/nipe - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 301
+☋ Forks: 300
 
-★ Stars: 1559
+★ Stars: 1560
 
 [Open repository](https://github.com/htrgouvea/nipe)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1560 | 300 | 
 | 2023-03-09 | 1559 | 301 | 
 | 2023-03-07 | 1558 | 301 | 
 | 2023-03-06 | 1558 | 301 | 

@@ -1,0 +1,17 @@
+# CodeWorks-FullStack/spring23-mvcGregslist - stars & forks statistics
+
+Stats updated on Mar 2023, 10
+
+☋ Forks: 8
+
+★ Stars: 0
+
+[Open repository](https://github.com/CodeWorks-FullStack/spring23-mvcGregslist)
+
+[Open detailed stats for CodeWorks-FullStack/spring23-mvcGregslist](https://reviewgithub.com/rep/CodeWorks-FullStack/spring23-mvcGregslist)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-10 | - | 8 | 
+

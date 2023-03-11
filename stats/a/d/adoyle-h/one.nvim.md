@@ -1,6 +1,6 @@
 # adoyle-h/one.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 81 | 3 | 
 | 2023-03-09 | 81 | 3 | 
 | 2023-03-08 | 79 | 3 | 
 | 2023-03-06 | 79 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 75 | 3 | 
 | 2023-02-11 | 75 | 3 | 
 | 2023-02-09 | 74 | 3 | 
-| 2023-02-08 | 73 | 3 | 
 

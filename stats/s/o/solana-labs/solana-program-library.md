@@ -1,8 +1,8 @@
 # solana-labs/solana-program-library - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
-☋ Forks: 1348
+☋ Forks: 1346
 
 ★ Stars: 2221
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 2221 | 1346 | 
 | 2023-03-08 | 2221 | 1348 | 
 | 2023-03-07 | 2219 | 1347 | 
 | 2023-03-05 | 2218 | 1346 | 

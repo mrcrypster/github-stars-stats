@@ -1,10 +1,10 @@
 # MeteorDevelopment/meteor-client - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 490
 
-★ Stars: 1249
+★ Stars: 1256
 
 [Open repository](https://github.com/MeteorDevelopment/meteor-client)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1256 | 490 | 
 | 2023-03-08 | 1249 | 490 | 
 | 2023-03-07 | 1249 | 489 | 
 | 2023-03-06 | 1248 | 489 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1217 | 484 | 
 | 2023-02-10 | 1217 | 482 | 
 | 2023-02-09 | 1216 | 480 | 
-| 2023-02-08 | 1214 | 480 | 
 

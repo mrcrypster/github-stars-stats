@@ -1,10 +1,10 @@
 # krishnaik06/mlproject - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 15
+☋ Forks: 44
 
-★ Stars: 23
+★ Stars: 37
 
 [Open repository](https://github.com/krishnaik06/mlproject)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 37 | 44 | 
 | 2023-03-09 | 23 | 15 | 
 | 2023-03-08 | 20 | 11 | 
 

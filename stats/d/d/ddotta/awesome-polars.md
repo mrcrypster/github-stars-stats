@@ -1,8 +1,8 @@
 # ddotta/awesome-polars - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
-☋ Forks: 10
+☋ Forks: 9
 
 ★ Stars: 223
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 223 | 9 | 
 | 2023-03-09 | 223 | 10 | 
 | 2023-03-07 | 219 | 9 | 
 | 2023-03-06 | 216 | 9 | 

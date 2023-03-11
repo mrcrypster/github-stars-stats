@@ -1,6 +1,6 @@
 # Platinguin/Godot-Water-Shader-Prototype - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 274 | 31 | 
 | 2023-03-09 | 274 | 31 | 
 | 2023-03-08 | 274 | 31 | 
 | 2023-03-06 | 274 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 271 | 31 | 
 | 2023-02-10 | 271 | 31 | 
 | 2023-02-09 | 271 | 31 | 
-| 2023-02-08 | 271 | 31 | 
 

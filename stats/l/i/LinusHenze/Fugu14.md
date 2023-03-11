@@ -1,10 +1,10 @@
 # LinusHenze/Fugu14 - stars & forks statistics
 
-Stats updated on Mar 2023, 08
+Stats updated on Mar 2023, 10
 
 ☋ Forks: 316
 
-★ Stars: 1368
+★ Stars: 1370
 
 [Open repository](https://github.com/LinusHenze/Fugu14)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-10 | 1370 | 316 | 
 | 2023-03-08 | 1368 | 316 | 
 | 2023-03-07 | 1370 | 316 | 
 | 2023-03-06 | 1370 | 316 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 08
 | 2023-02-11 | 1364 | 318 | 
 | 2023-02-10 | 1362 | 318 | 
 | 2023-02-09 | 1363 | 318 | 
-| 2023-02-08 | 1363 | 318 | 
 
