@@ -1,10 +1,10 @@
 # kost/dvcs-ripper - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 307
 
-★ Stars: 1520
+★ Stars: 1521
 
 [Open repository](https://github.com/kost/dvcs-ripper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1521 | 307 | 
 | 2023-03-10 | 1520 | 307 | 
 | 2023-03-08 | 1520 | 307 | 
 | 2023-03-07 | 1520 | 307 | 

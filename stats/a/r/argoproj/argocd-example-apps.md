@@ -1,8 +1,8 @@
 # argoproj/argocd-example-apps - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 4174
+☋ Forks: 4176
 
 ★ Stars: 964
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 964 | 4176 | 
 | 2023-03-10 | 964 | 4174 | 
 | 2023-03-09 | 962 | 4164 | 
 | 2023-03-08 | 962 | 4164 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 936 | 4054 | 
 | 2023-02-11 | 936 | 4051 | 
 | 2023-02-10 | 936 | 4046 | 
-| 2023-02-09 | 934 | 4043 | 
 

@@ -1,10 +1,10 @@
 # qbists/studyq - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 13
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/qbists/studyq)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 95 | 13 | 
 | 2023-03-10 | 94 | 13 | 
 | 2023-03-09 | 94 | 13 | 
 | 2023-03-08 | 94 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 87 | 13 | 
 | 2023-02-11 | 87 | 13 | 
 | 2023-02-10 | 86 | 13 | 
-| 2023-02-09 | 86 | 13 | 
 

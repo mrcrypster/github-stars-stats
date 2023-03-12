@@ -1,10 +1,10 @@
 # loctvl842/monokai-pro.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 97
+★ Stars: 100
 
 [Open repository](https://github.com/loctvl842/monokai-pro.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 100 | 5 | 
 | 2023-03-10 | 97 | 4 | 
 | 2023-03-08 | 97 | 4 | 
 | 2023-03-07 | 96 | 4 | 

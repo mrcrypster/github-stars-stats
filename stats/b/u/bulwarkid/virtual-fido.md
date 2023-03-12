@@ -1,6 +1,6 @@
 # bulwarkid/virtual-fido - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 953 | 37 | 
 | 2023-03-10 | 953 | 37 | 
 | 2023-03-09 | 953 | 37 | 
 | 2023-03-07 | 952 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 940 | 37 | 
 | 2023-02-11 | 939 | 37 | 
 | 2023-02-10 | 938 | 37 | 
-| 2023-02-09 | 937 | 37 | 
 

@@ -1,8 +1,8 @@
 # postgis/postgis - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 351
+☋ Forks: 352
 
 ★ Stars: 1332
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1332 | 352 | 
 | 2023-03-10 | 1332 | 351 | 
 | 2023-03-09 | 1332 | 351 | 
 | 2023-03-08 | 1329 | 351 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1318 | 350 | 
 | 2023-02-11 | 1318 | 350 | 
 | 2023-02-10 | 1318 | 350 | 
-| 2023-02-09 | 1317 | 350 | 
 

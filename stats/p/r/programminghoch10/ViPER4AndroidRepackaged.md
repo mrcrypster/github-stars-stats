@@ -1,10 +1,10 @@
 # programminghoch10/ViPER4AndroidRepackaged - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 15
 
-★ Stars: 356
+★ Stars: 358
 
 [Open repository](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 358 | 15 | 
 | 2023-03-10 | 356 | 15 | 
 | 2023-03-09 | 353 | 15 | 
 | 2023-03-08 | 353 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 318 | 12 | 
 | 2023-02-12 | 316 | 12 | 
 | 2023-02-11 | 315 | 12 | 
-| 2023-02-09 | 314 | 12 | 
 

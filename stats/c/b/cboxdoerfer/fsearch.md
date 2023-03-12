@@ -1,10 +1,10 @@
 # cboxdoerfer/fsearch - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 188
 
-★ Stars: 2300
+★ Stars: 2304
 
 [Open repository](https://github.com/cboxdoerfer/fsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2304 | 188 | 
 | 2023-03-09 | 2300 | 188 | 
 | 2023-03-08 | 2286 | 188 | 
 | 2023-03-07 | 2284 | 188 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2253 | 187 | 
 | 2023-02-11 | 2250 | 187 | 
 | 2023-02-10 | 2248 | 187 | 
-| 2023-02-09 | 2244 | 187 | 
 

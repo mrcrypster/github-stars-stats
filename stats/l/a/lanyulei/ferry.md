@@ -1,8 +1,8 @@
 # lanyulei/ferry - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 961
+☋ Forks: 962
 
 ★ Stars: 5454
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 5454 | 962 | 
 | 2023-03-10 | 5454 | 961 | 
 | 2023-03-09 | 5455 | 961 | 
 | 2023-03-08 | 5453 | 959 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 5399 | 943 | 
 | 2023-02-11 | 5396 | 943 | 
 | 2023-02-10 | 5396 | 942 | 
-| 2023-02-09 | 5392 | 941 | 
 

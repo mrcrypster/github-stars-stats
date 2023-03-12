@@ -1,10 +1,10 @@
 # zhaojun1998/zfile - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1481
+☋ Forks: 1482
 
-★ Stars: 7063
+★ Stars: 7070
 
 [Open repository](https://github.com/zhaojun1998/zfile)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 7070 | 1482 | 
 | 2023-03-10 | 7063 | 1481 | 
 | 2023-03-08 | 7057 | 1481 | 
 | 2023-03-07 | 7050 | 1480 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 6943 | 1461 | 
 | 2023-02-11 | 6941 | 1460 | 
 | 2023-02-10 | 6936 | 1459 | 
-| 2023-02-09 | 6931 | 1459 | 
 

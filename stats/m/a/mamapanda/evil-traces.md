@@ -1,6 +1,6 @@
 # mamapanda/evil-traces - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 29 | 1 | 
 | 2023-03-10 | 29 | 1 | 
 | 2023-03-09 | 29 | 1 | 
 | 2023-03-07 | 29 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 29 | 1 | 
 | 2023-02-11 | 29 | 1 | 
 | 2023-02-10 | 29 | 1 | 
-| 2023-02-09 | 29 | 1 | 
 

@@ -1,10 +1,10 @@
 # joshxfi/umamin - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 13
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/joshxfi/umamin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 68 | 13 | 
 | 2023-03-10 | 67 | 13 | 
 | 2023-03-09 | 67 | 13 | 
 | 2023-03-07 | 67 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 66 | 13 | 
 | 2023-02-11 | 66 | 13 | 
 | 2023-02-10 | 66 | 13 | 
-| 2023-02-09 | 66 | 13 | 
 

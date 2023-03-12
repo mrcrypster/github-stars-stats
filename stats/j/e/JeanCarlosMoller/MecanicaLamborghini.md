@@ -1,10 +1,10 @@
 # JeanCarlosMoller/MecanicaLamborghini - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/JeanCarlosMoller/MecanicaLamborghini)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1 | 6 | 
 | 2023-03-10 | - | 6 | 
 | 2023-03-09 | - | 6 | 
 | 2023-03-08 | - | 5 | 

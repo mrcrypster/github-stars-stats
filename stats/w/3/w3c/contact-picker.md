@@ -1,10 +1,10 @@
 # w3c/contact-picker - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/w3c/contact-picker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 65 | 8 | 
 | 2023-03-09 | 64 | 8 | 
 | 2023-03-08 | 64 | 8 | 
 | 2023-03-07 | 64 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 64 | 8 | 
 | 2023-02-11 | 64 | 8 | 
 | 2023-02-10 | 64 | 8 | 
-| 2023-02-09 | 64 | 8 | 
 

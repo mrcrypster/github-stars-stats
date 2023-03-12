@@ -1,6 +1,6 @@
 # cugu/awesome-forensics - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 502
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2702 | 502 | 
 | 2023-03-10 | 2702 | 502 | 
 | 2023-03-09 | 2699 | 502 | 
 | 2023-03-07 | 2698 | 501 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 2636 | 498 | 
 | 2023-02-11 | 2635 | 497 | 
 | 2023-02-10 | 2632 | 497 | 
-| 2023-02-09 | 2628 | 497 | 
 

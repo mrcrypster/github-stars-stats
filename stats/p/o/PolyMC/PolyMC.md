@@ -1,6 +1,6 @@
 # PolyMC/PolyMC - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1710 | 294 | 
 | 2023-03-10 | 1710 | 294 | 
 | 2023-03-09 | 1708 | 294 | 
 | 2023-03-07 | 1707 | 294 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1703 | 291 | 
 | 2023-02-11 | 1706 | 295 | 
 | 2023-02-10 | 1705 | 295 | 
-| 2023-02-09 | 1704 | 295 | 
 

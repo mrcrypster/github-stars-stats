@@ -1,10 +1,10 @@
 # MHSanaei/3x-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 12
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 172
+★ Stars: 198
 
 [Open repository](https://github.com/MHSanaei/3x-ui)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 198 | 52 | 
+| 2023-03-11 | 196 | 52 | 
 | 2023-03-09 | 172 | 51 | 
 | 2023-03-08 | 162 | 48 | 
 | 2023-03-07 | 154 | 44 | 

@@ -1,8 +1,8 @@
 # appbrewery/Calculator-Layout-iOS13 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 302
+☋ Forks: 304
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 67 | 304 | 
 | 2023-03-10 | 67 | 302 | 
 | 2023-03-08 | 67 | 302 | 
 | 2023-03-07 | 67 | 302 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 67 | 301 | 
 | 2023-02-11 | 67 | 301 | 
 | 2023-02-10 | 67 | 301 | 
-| 2023-02-09 | 67 | 300 | 
 

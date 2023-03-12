@@ -1,10 +1,10 @@
 # woolen-sheep/md2report - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 19
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/woolen-sheep/md2report)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 356 | 19 | 
 | 2023-03-10 | 355 | 19 | 
 | 2023-03-09 | 355 | 19 | 
 | 2023-03-07 | 355 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 354 | 19 | 
 | 2023-02-11 | 354 | 19 | 
 | 2023-02-10 | 354 | 19 | 
-| 2023-02-09 | 354 | 19 | 
 

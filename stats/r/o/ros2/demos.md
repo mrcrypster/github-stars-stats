@@ -1,6 +1,6 @@
 # ros2/demos - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 270
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 335 | 270 | 
 | 2023-03-09 | 335 | 270 | 
 | 2023-03-08 | 335 | 270 | 
 | 2023-03-06 | 335 | 269 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 329 | 265 | 
 | 2023-02-12 | 329 | 265 | 
 | 2023-02-10 | 328 | 266 | 
-| 2023-02-09 | 328 | 266 | 
 

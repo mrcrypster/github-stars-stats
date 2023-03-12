@@ -1,6 +1,6 @@
 # adamkucharski/scrapR - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 48 | 4 | 
 | 2023-03-10 | 48 | 4 | 
 | 2023-03-08 | 47 | 4 | 
 | 2023-03-07 | 47 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 47 | 4 | 
 | 2023-02-12 | 47 | 4 | 
 | 2023-02-11 | 47 | 4 | 
-| 2023-02-10 | 47 | 4 | 
 

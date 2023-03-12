@@ -1,6 +1,6 @@
 # daveshap/LongtermChatExternalSources - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 441 | 116 | 
 | 2023-03-10 | 441 | 116 | 
 | 2023-03-09 | 441 | 116 | 
 | 2023-03-07 | 433 | 113 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 363 | 94 | 
 | 2023-02-11 | 358 | 91 | 
 | 2023-02-10 | 355 | 89 | 
-| 2023-02-09 | 351 | 88 | 
 

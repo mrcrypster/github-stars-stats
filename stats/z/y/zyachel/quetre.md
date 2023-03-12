@@ -1,10 +1,10 @@
 # zyachel/quetre - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 20
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/zyachel/quetre)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 227 | 20 | 
 | 2023-03-10 | 226 | 20 | 
 | 2023-03-08 | 226 | 20 | 
 | 2023-03-07 | 225 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 217 | 20 | 
 | 2023-02-11 | 217 | 20 | 
 | 2023-02-10 | 213 | 20 | 
-| 2023-02-09 | 211 | 20 | 
 

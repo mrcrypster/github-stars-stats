@@ -1,10 +1,10 @@
 # ahmadnassri/docker-vscode-server - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/ahmadnassri/docker-vscode-server)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 36 | 12 | 
 | 2023-03-10 | 37 | 12 | 
 | 2023-03-09 | 36 | 12 | 
 | 2023-03-07 | 34 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 26 | 10 | 
 | 2023-02-11 | 26 | 10 | 
 | 2023-02-10 | 26 | 10 | 
-| 2023-02-09 | 26 | 10 | 
 

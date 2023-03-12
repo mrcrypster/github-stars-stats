@@ -1,10 +1,10 @@
 # melonjs/melonJS - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 607
 
-★ Stars: 5244
+★ Stars: 5245
 
 [Open repository](https://github.com/melonjs/melonJS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 5245 | 607 | 
 | 2023-03-10 | 5244 | 607 | 
 | 2023-03-09 | 5239 | 609 | 
 | 2023-03-08 | 5238 | 609 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 5187 | 607 | 
 | 2023-02-11 | 5184 | 607 | 
 | 2023-02-10 | 5184 | 607 | 
-| 2023-02-09 | 5182 | 607 | 
 

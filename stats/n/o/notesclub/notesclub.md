@@ -1,10 +1,10 @@
 # notesclub/notesclub - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/notesclub/notesclub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 35 | 8 | 
 | 2023-03-10 | 34 | 8 | 
 | 2023-03-09 | 34 | 8 | 
 | 2023-03-07 | 34 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 33 | 7 | 
 | 2023-02-11 | 33 | 7 | 
 | 2023-02-10 | 32 | 7 | 
-| 2023-02-09 | 31 | 7 | 
 

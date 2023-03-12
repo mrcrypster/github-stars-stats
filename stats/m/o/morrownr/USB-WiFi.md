@@ -1,6 +1,6 @@
 # morrownr/USB-WiFi - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1078 | 89 | 
 | 2023-03-10 | 1078 | 89 | 
 | 2023-03-09 | 1072 | 89 | 
 | 2023-03-07 | 1071 | 89 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1021 | 83 | 
 | 2023-02-11 | 1018 | 82 | 
 | 2023-02-10 | 1018 | 81 | 
-| 2023-02-09 | 1016 | 81 | 
 

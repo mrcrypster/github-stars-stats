@@ -1,10 +1,10 @@
 # argmaxml/image-search - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 18
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/argmaxml/image-search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 15 | 18 | 
 | 2023-03-10 | 14 | 18 | 
 | 2023-03-09 | 14 | 18 | 
 | 2023-03-07 | 14 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 11 | 19 | 
 | 2023-02-11 | 11 | 19 | 
 | 2023-02-10 | 11 | 19 | 
-| 2023-02-09 | 11 | 19 | 
 

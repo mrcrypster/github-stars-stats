@@ -1,6 +1,6 @@
 # danihodovic/celery-exporter - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 242 | 55 | 
 | 2023-03-10 | 242 | 55 | 
 | 2023-03-09 | 242 | 55 | 
 | 2023-03-08 | 241 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 230 | 54 | 
 | 2023-02-11 | 230 | 54 | 
 | 2023-02-10 | 230 | 54 | 
-| 2023-02-09 | 230 | 54 | 
 

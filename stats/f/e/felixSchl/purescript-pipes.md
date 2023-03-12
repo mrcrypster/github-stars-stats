@@ -1,10 +1,10 @@
 # felixSchl/purescript-pipes - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/felixSchl/purescript-pipes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 32 | 12 | 
 | 2023-03-10 | 31 | 12 | 
 | 2023-03-08 | 31 | 12 | 
 | 2023-03-07 | 31 | 12 | 

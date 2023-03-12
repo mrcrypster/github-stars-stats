@@ -1,6 +1,6 @@
 # vizzuhq/ipyvizzu - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 772 | 60 | 
 | 2023-03-10 | 772 | 60 | 
 | 2023-03-09 | 769 | 60 | 
 | 2023-03-07 | 762 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 757 | 59 | 
 | 2023-02-11 | 757 | 59 | 
 | 2023-02-10 | 753 | 59 | 
-| 2023-02-09 | 753 | 59 | 
 

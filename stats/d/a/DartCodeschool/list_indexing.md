@@ -1,0 +1,17 @@
+# DartCodeschool/list_indexing - stars & forks statistics
+
+Stats updated on Mar 2023, 11
+
+☋ Forks: 14
+
+★ Stars: 0
+
+[Open repository](https://github.com/DartCodeschool/list_indexing)
+
+[Open detailed stats for DartCodeschool/list_indexing](https://reviewgithub.com/rep/DartCodeschool/list_indexing)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-11 | - | 14 | 
+

@@ -1,10 +1,10 @@
 # shyamsn97/mario-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 842
+★ Stars: 847
 
 [Open repository](https://github.com/shyamsn97/mario-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 847 | 72 | 
 | 2023-03-10 | 842 | 71 | 
 | 2023-03-08 | 839 | 70 | 
 | 2023-03-07 | 832 | 70 | 

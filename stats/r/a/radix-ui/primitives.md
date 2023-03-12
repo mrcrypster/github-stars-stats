@@ -1,10 +1,10 @@
 # radix-ui/primitives - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 324
+☋ Forks: 323
 
-★ Stars: 8376
+★ Stars: 8393
 
 [Open repository](https://github.com/radix-ui/primitives)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 8393 | 323 | 
 | 2023-03-10 | 8376 | 324 | 
 | 2023-03-09 | 8355 | 323 | 
 | 2023-03-08 | 8333 | 320 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 7944 | 298 | 
 | 2023-02-11 | 7925 | 298 | 
 | 2023-02-10 | 7915 | 297 | 
-| 2023-02-09 | 7886 | 294 | 
 

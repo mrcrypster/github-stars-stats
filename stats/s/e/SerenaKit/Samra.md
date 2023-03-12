@@ -1,10 +1,10 @@
 # SerenaKit/Samra - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 122
+★ Stars: 128
 
 [Open repository](https://github.com/SerenaKit/Samra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 128 | 2 | 
 | 2023-03-10 | 122 | 2 | 
 | 2023-03-09 | 105 | 2 | 
 | 2023-03-08 | 98 | 2 | 

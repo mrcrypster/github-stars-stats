@@ -1,10 +1,10 @@
 # Origin-Byte/nft-protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 36
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/Origin-Byte/nft-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 82 | 36 | 
 | 2023-03-10 | 81 | 36 | 
 | 2023-03-09 | 81 | 36 | 
 | 2023-03-07 | 81 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 72 | 32 | 
 | 2023-02-11 | 71 | 32 | 
 | 2023-02-10 | 71 | 32 | 
-| 2023-02-09 | 71 | 32 | 
 

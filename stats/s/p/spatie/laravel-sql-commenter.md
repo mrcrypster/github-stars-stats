@@ -1,6 +1,6 @@
 # spatie/laravel-sql-commenter - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 169 | 6 | 
 | 2023-03-10 | 169 | 6 | 
 | 2023-03-08 | 170 | 6 | 
 | 2023-03-07 | 170 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 170 | 7 | 
 | 2023-02-11 | 170 | 7 | 
 | 2023-02-10 | 170 | 7 | 
-| 2023-02-09 | 170 | 7 | 
 

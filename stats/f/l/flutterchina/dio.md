@@ -1,8 +1,8 @@
 # flutterchina/dio - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1418
+☋ Forks: 1420
 
 ★ Stars: 11469
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 11469 | 1420 | 
 | 2023-03-10 | 11469 | 1418 | 
 | 2023-03-08 | 11459 | 1417 | 
 | 2023-03-07 | 11454 | 1413 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 11290 | 1377 | 
 | 2023-02-11 | 11286 | 1377 | 
 | 2023-02-10 | 11275 | 1377 | 
-| 2023-02-09 | 11275 | 1377 | 
 

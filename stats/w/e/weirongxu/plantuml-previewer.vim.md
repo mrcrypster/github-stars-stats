@@ -1,6 +1,6 @@
 # weirongxu/plantuml-previewer.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 217 | 30 | 
 | 2023-03-10 | 217 | 30 | 
 | 2023-03-09 | 217 | 30 | 
 | 2023-03-08 | 217 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 219 | 27 | 
 | 2023-02-11 | 219 | 27 | 
 | 2023-02-10 | 218 | 27 | 
-| 2023-02-09 | 218 | 27 | 
 

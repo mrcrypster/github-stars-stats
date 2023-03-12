@@ -1,10 +1,10 @@
 # PacktPublishing/Build-Your-Own-Programming-Language - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 39
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/PacktPublishing/Build-Your-Own-Programming-Language)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 118 | 39 | 
 | 2023-03-09 | 117 | 39 | 
 | 2023-03-08 | 117 | 39 | 
 | 2023-03-07 | 117 | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 108 | 38 | 
 | 2023-02-11 | 108 | 38 | 
 | 2023-02-10 | 108 | 38 | 
-| 2023-02-09 | 108 | 38 | 
 

@@ -1,10 +1,10 @@
 # lukemelas/realfusion - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 232
+★ Stars: 237
 
 [Open repository](https://github.com/lukemelas/realfusion)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 237 | 11 | 
 | 2023-03-09 | 232 | 11 | 
 | 2023-03-08 | 229 | 11 | 
 | 2023-03-07 | 221 | 9 | 

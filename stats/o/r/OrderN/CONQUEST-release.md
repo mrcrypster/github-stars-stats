@@ -1,6 +1,6 @@
 # OrderN/CONQUEST-release - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 70 | 17 | 
 | 2023-03-09 | 70 | 17 | 
 | 2023-03-08 | 70 | 16 | 
 | 2023-03-07 | 70 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 69 | 15 | 
 | 2023-02-11 | 69 | 15 | 
 | 2023-02-10 | 69 | 15 | 
-| 2023-02-09 | 68 | 15 | 
 

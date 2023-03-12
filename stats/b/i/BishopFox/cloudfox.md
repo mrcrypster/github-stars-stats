@@ -1,10 +1,10 @@
 # BishopFox/cloudfox - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 113
 
-★ Stars: 1305
+★ Stars: 1306
 
 [Open repository](https://github.com/BishopFox/cloudfox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1306 | 113 | 
 | 2023-03-10 | 1305 | 113 | 
 | 2023-03-09 | 1305 | 113 | 
 | 2023-03-08 | 1304 | 113 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1114 | 89 | 
 | 2023-02-11 | 1114 | 89 | 
 | 2023-02-10 | 1114 | 89 | 
-| 2023-02-09 | 1114 | 89 | 
 

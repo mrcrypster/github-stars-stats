@@ -1,6 +1,6 @@
 # stefanwille/crystal-redis - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 376 | 60 | 
 | 2023-03-09 | 376 | 60 | 
 | 2023-03-08 | 376 | 60 | 
 | 2023-03-07 | 376 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 376 | 60 | 
 | 2023-02-11 | 376 | 60 | 
 | 2023-02-10 | 376 | 60 | 
-| 2023-02-09 | 376 | 60 | 
 

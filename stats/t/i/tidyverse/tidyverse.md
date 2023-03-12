@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 11
 
 ☋ Forks: 271
 
-★ Stars: 1366
+★ Stars: 1367
 
 [Open repository](https://github.com/tidyverse/tidyverse)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 1366 | 271 | 
+| 2023-03-11 | 1367 | 271 | 
 | 2023-03-10 | 1365 | 271 | 
 | 2023-03-09 | 1362 | 271 | 
 | 2023-03-08 | 1362 | 271 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-12 | 1344 | 270 | 
 | 2023-02-11 | 1341 | 270 | 
 | 2023-02-10 | 1341 | 270 | 
-| 2023-02-09 | 1341 | 270 | 
 

@@ -1,6 +1,6 @@
 # stjude/learngenomics.dev - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 294 | 25 | 
 | 2023-03-10 | 294 | 25 | 
 | 2023-03-09 | 294 | 25 | 
 | 2023-03-08 | 295 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 289 | 25 | 
 | 2023-02-11 | 289 | 25 | 
 | 2023-02-10 | 289 | 25 | 
-| 2023-02-09 | 288 | 25 | 
 

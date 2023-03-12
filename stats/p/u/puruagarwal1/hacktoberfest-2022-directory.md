@@ -1,6 +1,6 @@
 # puruagarwal1/hacktoberfest-2022-directory - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 32 | 104 | 
 | 2023-03-10 | 32 | 104 | 
 | 2023-03-09 | 32 | 104 | 
 | 2023-03-07 | 32 | 104 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 32 | 107 | 
 | 2023-02-11 | 32 | 108 | 
 | 2023-02-10 | 32 | 108 | 
-| 2023-02-09 | 32 | 108 | 
 

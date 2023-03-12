@@ -1,10 +1,10 @@
 # sujaykundu777/devlopr-jekyll - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 816
+☋ Forks: 817
 
-★ Stars: 583
+★ Stars: 582
 
 [Open repository](https://github.com/sujaykundu777/devlopr-jekyll)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 582 | 817 | 
 | 2023-03-10 | 583 | 816 | 
 | 2023-03-08 | 583 | 816 | 
 | 2023-03-07 | 582 | 817 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 575 | 817 | 
 | 2023-02-11 | 574 | 816 | 
 | 2023-02-10 | 574 | 815 | 
-| 2023-02-09 | 573 | 814 | 
 

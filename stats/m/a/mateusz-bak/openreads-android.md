@@ -1,10 +1,10 @@
 # mateusz-bak/openreads-android - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/mateusz-bak/openreads-android)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 244 | 8 | 
 | 2023-03-10 | 243 | 8 | 
 | 2023-03-08 | 243 | 8 | 
 | 2023-03-07 | 243 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 235 | 8 | 
 | 2023-02-11 | 235 | 8 | 
 | 2023-02-10 | 234 | 8 | 
-| 2023-02-09 | 234 | 8 | 
 

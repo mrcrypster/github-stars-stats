@@ -1,10 +1,10 @@
 # huri000/SwiftEntryKit - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 556
 
-★ Stars: 6134
+★ Stars: 6136
 
 [Open repository](https://github.com/huri000/SwiftEntryKit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6136 | 556 | 
 | 2023-03-10 | 6134 | 556 | 
 | 2023-03-08 | 6132 | 554 | 
 | 2023-03-07 | 6132 | 554 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 6111 | 551 | 
 | 2023-02-11 | 6111 | 549 | 
 | 2023-02-10 | 6111 | 548 | 
-| 2023-02-09 | 6111 | 546 | 
 

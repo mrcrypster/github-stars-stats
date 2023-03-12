@@ -1,10 +1,10 @@
 # ExHammer/hammer - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 500
+★ Stars: 501
 
 [Open repository](https://github.com/ExHammer/hammer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 501 | 33 | 
 | 2023-03-09 | 500 | 33 | 
 | 2023-03-08 | 500 | 33 | 
 | 2023-03-07 | 500 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 492 | 32 | 
 | 2023-02-11 | 491 | 32 | 
 | 2023-02-10 | 491 | 32 | 
-| 2023-02-09 | 490 | 32 | 
 

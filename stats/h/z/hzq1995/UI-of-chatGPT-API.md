@@ -1,10 +1,10 @@
 # hzq1995/UI-of-chatGPT-API - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 24
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/hzq1995/UI-of-chatGPT-API)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 75 | 24 | 
 | 2023-03-10 | 74 | 24 | 
 | 2023-03-09 | 73 | 24 | 
 | 2023-03-07 | 72 | 23 | 

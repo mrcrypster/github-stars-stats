@@ -1,6 +1,6 @@
 # rhasspy/rhasspy - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1881 | 155 | 
 | 2023-03-09 | 1881 | 155 | 
 | 2023-03-08 | 1879 | 155 | 
 | 2023-03-06 | 1875 | 155 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 1827 | 155 | 
 | 2023-02-11 | 1826 | 154 | 
 | 2023-02-10 | 1825 | 154 | 
-| 2023-02-09 | 1824 | 153 | 
 

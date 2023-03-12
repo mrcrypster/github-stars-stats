@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-rds-cloudwatch-sns-alarms - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 96 | 96 | 
 | 2023-03-10 | 96 | 96 | 
 | 2023-03-09 | 96 | 96 | 
 | 2023-03-07 | 96 | 97 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 96 | 94 | 
 | 2023-02-11 | 96 | 94 | 
 | 2023-02-10 | 96 | 94 | 
-| 2023-02-09 | 96 | 94 | 
 

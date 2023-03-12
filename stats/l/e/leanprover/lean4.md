@@ -1,10 +1,10 @@
 # leanprover/lean4 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 203
 
-★ Stars: 2136
+★ Stars: 2135
 
 [Open repository](https://github.com/leanprover/lean4)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2135 | 203 | 
 | 2023-03-10 | 2136 | 203 | 
 | 2023-03-09 | 2133 | 203 | 
 | 2023-03-08 | 2131 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2079 | 200 | 
 | 2023-02-11 | 2078 | 200 | 
 | 2023-02-10 | 2077 | 200 | 
-| 2023-02-09 | 2075 | 200 | 
 

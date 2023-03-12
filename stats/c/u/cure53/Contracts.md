@@ -1,10 +1,10 @@
 # cure53/Contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 42
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/cure53/Contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 311 | 42 | 
 | 2023-03-09 | 310 | 42 | 
 | 2023-03-08 | 310 | 42 | 
 | 2023-03-07 | 310 | 42 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 309 | 42 | 
 | 2023-02-11 | 309 | 42 | 
 | 2023-02-10 | 309 | 42 | 
-| 2023-02-09 | 309 | 42 | 
 

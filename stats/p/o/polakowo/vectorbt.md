@@ -1,6 +1,6 @@
 # polakowo/vectorbt - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 456
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2640 | 456 | 
 | 2023-03-10 | 2640 | 456 | 
 | 2023-03-09 | 2633 | 456 | 
 | 2023-03-07 | 2629 | 453 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 2570 | 452 | 
 | 2023-02-11 | 2565 | 451 | 
 | 2023-02-10 | 2563 | 450 | 
-| 2023-02-09 | 2562 | 449 | 
 

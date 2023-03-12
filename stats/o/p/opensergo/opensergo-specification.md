@@ -1,10 +1,10 @@
 # opensergo/opensergo-specification - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 60
 
-★ Stars: 570
+★ Stars: 572
 
 [Open repository](https://github.com/opensergo/opensergo-specification)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 572 | 60 | 
 | 2023-03-10 | 570 | 60 | 
 | 2023-03-09 | 569 | 60 | 
 | 2023-03-07 | 568 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 543 | 57 | 
 | 2023-02-11 | 543 | 57 | 
 | 2023-02-10 | 542 | 57 | 
-| 2023-02-09 | 542 | 57 | 
 

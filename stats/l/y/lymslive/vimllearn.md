@@ -1,10 +1,10 @@
 # lymslive/vimllearn - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 110
 
-★ Stars: 752
+★ Stars: 754
 
 [Open repository](https://github.com/lymslive/vimllearn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 754 | 110 | 
 | 2023-03-10 | 752 | 110 | 
 | 2023-03-09 | 749 | 109 | 
 | 2023-03-07 | 748 | 109 | 

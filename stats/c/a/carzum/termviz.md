@@ -1,10 +1,10 @@
 # carzum/termviz - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/carzum/termviz)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 267 | 18 | 
 | 2023-03-09 | 266 | 18 | 
 | 2023-03-08 | 265 | 18 | 
 | 2023-03-07 | 265 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 253 | 17 | 
 | 2023-02-11 | 252 | 17 | 
 | 2023-02-10 | 250 | 17 | 
-| 2023-02-09 | 249 | 17 | 
 

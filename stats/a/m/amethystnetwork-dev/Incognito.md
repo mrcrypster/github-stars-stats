@@ -1,10 +1,10 @@
 # amethystnetwork-dev/Incognito - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 941
+☋ Forks: 952
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/amethystnetwork-dev/Incognito)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 67 | 952 | 
 | 2023-03-10 | 66 | 941 | 
 | 2023-03-09 | 66 | 930 | 
 | 2023-03-08 | 65 | 910 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 50 | 714 | 
 | 2023-02-11 | 50 | 707 | 
 | 2023-02-10 | 49 | 699 | 
-| 2023-02-09 | 49 | 690 | 
 

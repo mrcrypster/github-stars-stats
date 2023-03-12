@@ -1,10 +1,10 @@
 # RibirX/Ribir - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 181
+★ Stars: 183
 
 [Open repository](https://github.com/RibirX/Ribir)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 183 | 1 | 
 | 2023-03-10 | 181 | 1 | 
 | 2023-03-09 | 179 | 1 | 
 | 2023-03-07 | 175 | 1 | 

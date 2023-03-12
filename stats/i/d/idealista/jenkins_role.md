@@ -1,6 +1,6 @@
 # idealista/jenkins_role - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2 | 2 | 
 | 2023-03-10 | 2 | 2 | 
 | 2023-03-09 | 2 | 2 | 
 | 2023-03-07 | 2 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2 | 2 | 
 | 2023-02-11 | 2 | 2 | 
 | 2023-02-10 | 2 | 2 | 
-| 2023-02-09 | 2 | 2 | 
 

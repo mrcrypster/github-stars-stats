@@ -1,10 +1,10 @@
 # apihero-run/jsonhero-web - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 324
 
-★ Stars: 7469
+★ Stars: 7470
 
 [Open repository](https://github.com/apihero-run/jsonhero-web)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 7470 | 324 | 
 | 2023-03-10 | 7469 | 324 | 
 | 2023-03-09 | 7465 | 324 | 
 | 2023-03-07 | 7459 | 324 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 7387 | 317 | 
 | 2023-02-11 | 7381 | 317 | 
 | 2023-02-10 | 7378 | 316 | 
-| 2023-02-09 | 7371 | 316 | 
 

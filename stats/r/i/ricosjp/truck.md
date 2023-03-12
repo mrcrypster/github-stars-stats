@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 11
 
 ☋ Forks: 25
 
-★ Stars: 365
+★ Stars: 367
 
 [Open repository](https://github.com/ricosjp/truck)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 365 | 25 | 
+| 2023-03-11 | 367 | 25 | 
 | 2023-03-10 | 361 | 25 | 
 

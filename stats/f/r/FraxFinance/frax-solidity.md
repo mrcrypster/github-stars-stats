@@ -1,10 +1,10 @@
 # FraxFinance/frax-solidity - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 341
+★ Stars: 344
 
 [Open repository](https://github.com/FraxFinance/frax-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 344 | 128 | 
 | 2023-03-10 | 341 | 127 | 
 | 2023-03-08 | 340 | 128 | 
 | 2023-03-07 | 340 | 128 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 335 | 125 | 
 | 2023-02-11 | 335 | 125 | 
 | 2023-02-10 | 335 | 125 | 
-| 2023-02-09 | 335 | 125 | 
 

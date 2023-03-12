@@ -1,6 +1,6 @@
 # adlerluiz/tabnews-mobile - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 47 | 5 | 
 | 2023-03-10 | 47 | 5 | 
 | 2023-03-09 | 47 | 5 | 
 | 2023-03-08 | 47 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 47 | 5 | 
 | 2023-02-11 | 47 | 5 | 
 | 2023-02-10 | 47 | 5 | 
-| 2023-02-09 | 47 | 5 | 
 

@@ -1,6 +1,6 @@
 # kubernetes-csi/csi-driver-nfs - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 456 | 188 | 
 | 2023-03-10 | 456 | 188 | 
 | 2023-03-09 | 455 | 188 | 
 | 2023-03-07 | 453 | 187 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 439 | 184 | 
 | 2023-02-12 | 439 | 184 | 
 | 2023-02-10 | 439 | 184 | 
-| 2023-02-09 | 439 | 184 | 
 

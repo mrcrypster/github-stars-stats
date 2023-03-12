@@ -1,10 +1,10 @@
 # LPCIC/coq-elpi - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 38
 
-★ Stars: 94
+★ Stars: 93
 
 [Open repository](https://github.com/LPCIC/coq-elpi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 93 | 38 | 
 | 2023-03-10 | 94 | 38 | 
 | 2023-03-08 | 94 | 38 | 
 | 2023-03-07 | 93 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 89 | 36 | 
 | 2023-02-12 | 89 | 36 | 
 | 2023-02-10 | 89 | 36 | 
-| 2023-02-09 | 88 | 36 | 
 

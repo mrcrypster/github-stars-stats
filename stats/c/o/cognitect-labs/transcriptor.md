@@ -1,10 +1,10 @@
 # cognitect-labs/transcriptor - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/cognitect-labs/transcriptor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 249 | 6 | 
 | 2023-03-09 | 248 | 6 | 
 | 2023-03-08 | 248 | 6 | 
 | 2023-03-07 | 248 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 248 | 6 | 
 | 2023-02-11 | 248 | 6 | 
 | 2023-02-10 | 248 | 6 | 
-| 2023-02-09 | 248 | 6 | 
 

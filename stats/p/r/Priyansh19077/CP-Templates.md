@@ -1,10 +1,10 @@
 # Priyansh19077/CP-Templates - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 176
+☋ Forks: 186
 
-★ Stars: 500
+★ Stars: 521
 
 [Open repository](https://github.com/Priyansh19077/CP-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 521 | 186 | 
 | 2023-03-10 | 500 | 176 | 
 | 2023-03-09 | 498 | 176 | 
 | 2023-03-07 | 498 | 176 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 493 | 175 | 
 | 2023-02-11 | 493 | 175 | 
 | 2023-02-10 | 493 | 175 | 
-| 2023-02-09 | 493 | 175 | 
 

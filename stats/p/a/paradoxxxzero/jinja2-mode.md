@@ -1,6 +1,6 @@
 # paradoxxxzero/jinja2-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 65 | 17 | 
 | 2023-03-09 | 65 | 17 | 
 | 2023-03-08 | 65 | 17 | 
 | 2023-03-07 | 65 | 17 | 

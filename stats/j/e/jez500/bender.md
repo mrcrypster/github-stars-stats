@@ -1,6 +1,6 @@
 # jez500/bender - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 80 | 2 | 
 | 2023-03-10 | 80 | 2 | 
 | 2023-03-08 | 80 | 2 | 
 | 2023-03-07 | 81 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 77 | 2 | 
 | 2023-02-11 | 77 | 2 | 
 | 2023-02-10 | 77 | 2 | 
-| 2023-02-09 | 77 | 2 | 
 

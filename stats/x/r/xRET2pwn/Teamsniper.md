@@ -1,6 +1,6 @@
 # xRET2pwn/Teamsniper - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 180 | 13 | 
 | 2023-03-10 | 180 | 13 | 
 | 2023-03-08 | 180 | 13 | 
 | 2023-03-07 | 180 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 180 | 13 | 
 | 2023-02-11 | 180 | 13 | 
 | 2023-02-10 | 180 | 13 | 
-| 2023-02-09 | 180 | 13 | 
 

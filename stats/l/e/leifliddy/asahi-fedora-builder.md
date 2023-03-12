@@ -1,8 +1,8 @@
 # leifliddy/asahi-fedora-builder - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 151
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 151 | 8 | 
 | 2023-03-10 | 151 | 7 | 
 | 2023-03-09 | 151 | 7 | 
 | 2023-03-07 | 149 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 132 | 6 | 
 | 2023-02-12 | 131 | 6 | 
 | 2023-02-11 | 130 | 6 | 
-| 2023-02-10 | 125 | 6 | 
 

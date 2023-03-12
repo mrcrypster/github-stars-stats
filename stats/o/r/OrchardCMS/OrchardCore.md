@@ -1,6 +1,6 @@
 # OrchardCMS/OrchardCore - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2122
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6430 | 2122 | 
 | 2023-03-09 | 6430 | 2122 | 
 | 2023-03-08 | 6429 | 2122 | 
 | 2023-03-07 | 6428 | 2121 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 6388 | 2119 | 
 | 2023-02-12 | 6386 | 2119 | 
 | 2023-02-10 | 6383 | 2119 | 
-| 2023-02-09 | 6380 | 2119 | 
 

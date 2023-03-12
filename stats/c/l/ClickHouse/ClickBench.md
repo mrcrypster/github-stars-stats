@@ -1,8 +1,8 @@
 # ClickHouse/ClickBench - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 315
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 315 | 68 | 
 | 2023-03-10 | 315 | 67 | 
 | 2023-03-08 | 314 | 67 | 
 | 2023-03-07 | 311 | 67 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 295 | 58 | 
 | 2023-02-11 | 295 | 58 | 
 | 2023-02-10 | 295 | 58 | 
-| 2023-02-09 | 294 | 57 | 
 

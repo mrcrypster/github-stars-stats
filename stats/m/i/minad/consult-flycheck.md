@@ -1,6 +1,6 @@
 # minad/consult-flycheck - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 19 | 2 | 
 | 2023-03-10 | 19 | 2 | 
 | 2023-03-08 | 19 | 2 | 
 | 2023-03-06 | 19 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 18 | 2 | 
 | 2023-02-11 | 18 | 2 | 
 | 2023-02-10 | 18 | 2 | 
-| 2023-02-09 | 18 | 2 | 
 

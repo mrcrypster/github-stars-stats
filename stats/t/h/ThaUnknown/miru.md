@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 11
 
 ☋ Forks: 47
 
-★ Stars: 787
+★ Stars: 788
 
 [Open repository](https://github.com/ThaUnknown/miru)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 787 | 47 | 
+| 2023-03-11 | 788 | 47 | 
 | 2023-03-10 | 787 | 47 | 
 | 2023-03-09 | 785 | 47 | 
 | 2023-03-08 | 783 | 47 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-12 | 748 | 47 | 
 | 2023-02-11 | 747 | 47 | 
 | 2023-02-10 | 745 | 47 | 
-| 2023-02-09 | 744 | 47 | 
 

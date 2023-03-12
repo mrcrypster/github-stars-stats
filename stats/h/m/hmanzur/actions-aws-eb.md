@@ -1,6 +1,6 @@
 # hmanzur/actions-aws-eb - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 44 | 36 | 
 | 2023-03-10 | 44 | 36 | 
 | 2023-03-09 | 44 | 37 | 
 | 2023-03-07 | 44 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 43 | 33 | 
 | 2023-02-11 | 43 | 33 | 
 | 2023-02-10 | 43 | 33 | 
-| 2023-02-09 | 43 | 33 | 
 

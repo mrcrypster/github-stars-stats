@@ -1,6 +1,6 @@
 # Web3-Bharat-ITER/UI-Component-Library - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 29 | 65 | 
 | 2023-03-10 | 29 | 65 | 
 | 2023-03-09 | 29 | 65 | 
 | 2023-03-07 | 29 | 65 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 30 | 65 | 
 | 2023-02-11 | 30 | 65 | 
 | 2023-02-10 | 30 | 65 | 
-| 2023-02-09 | 30 | 65 | 
 

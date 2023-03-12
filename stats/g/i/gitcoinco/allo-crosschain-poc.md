@@ -1,10 +1,10 @@
 # gitcoinco/allo-crosschain-poc - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/gitcoinco/allo-crosschain-poc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4 | 2 | 
 | 2023-03-09 | 3 | 2 | 
 | 2023-03-08 | 3 | 2 | 
 | 2023-03-07 | 3 | 2 | 

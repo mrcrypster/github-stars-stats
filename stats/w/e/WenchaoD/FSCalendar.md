@@ -1,6 +1,6 @@
 # WenchaoD/FSCalendar - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1878
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 10281 | 1878 | 
+| 2023-03-11 | 10281 | 1878 | 
 | 2023-03-10 | 10281 | 1878 | 
 | 2023-03-09 | 10282 | 1879 | 
 | 2023-03-08 | 10279 | 1879 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 10258 | 1877 | 
 | 2023-02-11 | 10258 | 1877 | 
 | 2023-02-10 | 10257 | 1876 | 
-| 2023-02-09 | 10255 | 1875 | 
 

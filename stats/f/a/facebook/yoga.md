@@ -1,6 +1,6 @@
 # facebook/yoga - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1361
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 15979 | 1361 | 
 | 2023-03-10 | 15979 | 1361 | 
 | 2023-03-09 | 15975 | 1361 | 
 | 2023-03-08 | 15967 | 1361 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 15909 | 1355 | 
 | 2023-02-11 | 15907 | 1354 | 
 | 2023-02-10 | 15908 | 1354 | 
-| 2023-02-09 | 15907 | 1354 | 
 

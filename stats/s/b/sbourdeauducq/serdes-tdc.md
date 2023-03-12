@@ -1,10 +1,10 @@
 # sbourdeauducq/serdes-tdc - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/sbourdeauducq/serdes-tdc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 14 | 7 | 
 | 2023-03-10 | 13 | 7 | 
 | 2023-03-08 | 13 | 7 | 
 | 2023-03-07 | 13 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 12 | 7 | 
 | 2023-02-11 | 12 | 7 | 
 | 2023-02-10 | 12 | 7 | 
-| 2023-02-09 | 12 | 7 | 
 

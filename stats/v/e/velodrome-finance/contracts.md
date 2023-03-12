@@ -1,8 +1,8 @@
 # velodrome-finance/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 24 | 45 | 
 | 2023-03-10 | 24 | 44 | 
 | 2023-03-09 | 24 | 45 | 
 | 2023-03-08 | 23 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 15 | 27 | 
 | 2023-02-11 | 15 | 27 | 
 | 2023-02-10 | 15 | 27 | 
-| 2023-02-09 | 15 | 27 | 
 

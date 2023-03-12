@@ -1,6 +1,6 @@
 # jtriley-eth/sol-fun - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 23 | 2 | 
 | 2023-03-09 | 23 | 2 | 
 | 2023-03-08 | 22 | 2 | 
 | 2023-03-07 | 22 | 2 | 

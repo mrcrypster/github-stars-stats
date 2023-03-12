@@ -1,10 +1,10 @@
 # chrismccord/single_file_phx_bumblebee_ml - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 69
+★ Stars: 74
 
 [Open repository](https://github.com/chrismccord/single_file_phx_bumblebee_ml)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 74 | 5 | 
 | 2023-03-09 | 69 | 4 | 
 | 2023-03-08 | 56 | 4 | 
 | 2023-03-06 | 56 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 50 | 4 | 
 | 2023-02-12 | 50 | 4 | 
 | 2023-02-11 | 50 | 4 | 
-| 2023-02-10 | 50 | 4 | 
 

@@ -1,10 +1,10 @@
 # clojure/data.generators - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/clojure/data.generators)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 84 | 18 | 
 | 2023-03-10 | 83 | 18 | 
 | 2023-03-09 | 83 | 18 | 
 | 2023-03-08 | 83 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 82 | 18 | 
 | 2023-02-12 | 82 | 18 | 
 | 2023-02-10 | 82 | 18 | 
-| 2023-02-09 | 82 | 18 | 
 

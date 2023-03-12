@@ -1,10 +1,10 @@
 # gofiber/fiber - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1274
+☋ Forks: 1273
 
-★ Stars: 25058
+★ Stars: 25068
 
 [Open repository](https://github.com/gofiber/fiber)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 25068 | 1273 | 
 | 2023-03-10 | 25058 | 1274 | 
 | 2023-03-09 | 25047 | 1275 | 
 | 2023-03-08 | 25014 | 1272 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 24612 | 1259 | 
 | 2023-02-11 | 24596 | 1259 | 
 | 2023-02-10 | 24578 | 1258 | 
-| 2023-02-09 | 24567 | 1258 | 
 

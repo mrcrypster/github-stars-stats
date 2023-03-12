@@ -1,10 +1,10 @@
 # golang/tools - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2169
 
-★ Stars: 6703
+★ Stars: 6704
 
 [Open repository](https://github.com/golang/tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6704 | 2169 | 
 | 2023-03-10 | 6703 | 2169 | 
 | 2023-03-09 | 6701 | 2170 | 
 | 2023-03-08 | 6699 | 2169 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 6660 | 2159 | 
 | 2023-02-12 | 6658 | 2160 | 
 | 2023-02-10 | 6657 | 2161 | 
-| 2023-02-09 | 6656 | 2160 | 
 

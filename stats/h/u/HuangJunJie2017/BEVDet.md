@@ -1,8 +1,8 @@
 # HuangJunJie2017/BEVDet - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 130
+☋ Forks: 131
 
 ★ Stars: 706
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 706 | 131 | 
 | 2023-03-09 | 706 | 130 | 
 | 2023-03-08 | 704 | 129 | 
 | 2023-03-07 | 703 | 127 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 671 | 116 | 
 | 2023-02-11 | 670 | 116 | 
 | 2023-02-10 | 669 | 116 | 
-| 2023-02-09 | 667 | 115 | 
 

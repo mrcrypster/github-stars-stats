@@ -1,10 +1,10 @@
 # kitlangton/scala-interactive-update - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 17
 
-★ Stars: 120
+★ Stars: 119
 
 [Open repository](https://github.com/kitlangton/scala-interactive-update)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 119 | 17 | 
 | 2023-03-10 | 120 | 17 | 
 | 2023-03-08 | 120 | 17 | 
 | 2023-03-06 | 120 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 116 | 17 | 
 | 2023-02-11 | 116 | 17 | 
 | 2023-02-10 | 116 | 17 | 
-| 2023-02-09 | 116 | 17 | 
 

@@ -1,6 +1,6 @@
 # ThePrimeagen/BunSpreader - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 67 | 12 | 
 | 2023-03-10 | 67 | 12 | 
 | 2023-03-08 | 67 | 12 | 
 | 2023-03-07 | 67 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 67 | 12 | 
 | 2023-02-11 | 67 | 12 | 
 | 2023-02-10 | 66 | 12 | 
-| 2023-02-09 | 66 | 12 | 
 

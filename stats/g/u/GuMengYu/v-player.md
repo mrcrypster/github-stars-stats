@@ -1,6 +1,6 @@
 # GuMengYu/v-player - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 196 | 31 | 
 | 2023-03-10 | 196 | 31 | 
 | 2023-03-09 | 195 | 31 | 
 | 2023-03-08 | 195 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 176 | 28 | 
 | 2023-02-11 | 175 | 28 | 
 | 2023-02-10 | 175 | 28 | 
-| 2023-02-09 | 174 | 28 | 
 

@@ -1,10 +1,10 @@
 # Aleksoid1978/MPC-BE - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 33
+☋ Forks: 32
 
-★ Stars: 622
+★ Stars: 623
 
 [Open repository](https://github.com/Aleksoid1978/MPC-BE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 623 | 32 | 
 | 2023-03-09 | 622 | 33 | 
 | 2023-03-08 | 621 | 32 | 
 | 2023-03-07 | 617 | 32 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 551 | 27 | 
 | 2023-02-12 | 547 | 25 | 
 | 2023-02-11 | 542 | 25 | 
-| 2023-02-10 | 527 | 25 | 
 

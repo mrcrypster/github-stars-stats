@@ -1,10 +1,10 @@
 # quantopian/pyfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1557
+☋ Forks: 1558
 
-★ Stars: 4851
+★ Stars: 4854
 
 [Open repository](https://github.com/quantopian/pyfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4854 | 1558 | 
 | 2023-03-10 | 4851 | 1557 | 
 | 2023-03-08 | 4849 | 1556 | 
 | 2023-03-07 | 4848 | 1554 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 4818 | 1542 | 
 | 2023-02-11 | 4816 | 1543 | 
 | 2023-02-10 | 4815 | 1543 | 
-| 2023-02-09 | 4812 | 1543 | 
 

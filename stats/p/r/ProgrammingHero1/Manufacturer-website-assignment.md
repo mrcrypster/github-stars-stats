@@ -1,6 +1,6 @@
 # ProgrammingHero1/Manufacturer-website-assignment - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 20 | 43 | 
 | 2023-03-10 | 20 | 43 | 
 | 2023-03-08 | 20 | 43 | 
 | 2023-03-07 | 20 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 21 | 43 | 
 | 2023-02-12 | 21 | 43 | 
 | 2023-02-10 | 21 | 43 | 
-| 2023-02-09 | 21 | 43 | 
 

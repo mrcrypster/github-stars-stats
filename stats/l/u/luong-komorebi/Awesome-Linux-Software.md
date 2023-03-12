@@ -1,10 +1,10 @@
 # luong-komorebi/Awesome-Linux-Software - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1892
 
-★ Stars: 18915
+★ Stars: 18923
 
 [Open repository](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 18923 | 1892 | 
 | 2023-03-09 | 18915 | 1892 | 
 | 2023-03-08 | 18911 | 1892 | 
 | 2023-03-06 | 18900 | 1892 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 18790 | 1885 | 
 | 2023-02-12 | 18782 | 1885 | 
 | 2023-02-11 | 18775 | 1884 | 
-| 2023-02-09 | 18770 | 1884 | 
 

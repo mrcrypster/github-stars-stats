@@ -1,10 +1,10 @@
 # Dovgalyuk/Algorithms - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 155
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/Dovgalyuk/Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 10 | 155 | 
 | 2023-03-10 | 11 | 155 | 
 | 2023-03-08 | 11 | 155 | 
 | 2023-03-07 | 11 | 155 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 11 | 157 | 
 | 2023-02-11 | 11 | 157 | 
 | 2023-02-10 | 11 | 157 | 
-| 2023-02-09 | 11 | 157 | 
 

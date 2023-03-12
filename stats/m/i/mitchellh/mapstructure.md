@@ -1,10 +1,10 @@
 # mitchellh/mapstructure - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 617
+☋ Forks: 618
 
-★ Stars: 6638
+★ Stars: 6641
 
 [Open repository](https://github.com/mitchellh/mapstructure)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6641 | 618 | 
 | 2023-03-09 | 6638 | 617 | 
 | 2023-03-08 | 6632 | 617 | 
 | 2023-03-07 | 6626 | 617 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 6552 | 615 | 
 | 2023-02-11 | 6552 | 615 | 
 | 2023-02-10 | 6547 | 615 | 
-| 2023-02-09 | 6545 | 615 | 
 

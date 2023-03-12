@@ -1,10 +1,10 @@
 # THUDM/CodeGeeX - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 2991
+★ Stars: 3006
 
 [Open repository](https://github.com/THUDM/CodeGeeX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3006 | 186 | 
 | 2023-03-10 | 2991 | 185 | 
 | 2023-03-09 | 2980 | 184 | 
 | 2023-03-07 | 2957 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2503 | 142 | 
 | 2023-02-11 | 2478 | 142 | 
 | 2023-02-10 | 2436 | 139 | 
-| 2023-02-09 | 2407 | 137 | 
 

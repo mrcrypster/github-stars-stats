@@ -1,10 +1,10 @@
 # AdrienQuillet/godot-yet-another-behavior-tree - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/AdrienQuillet/godot-yet-another-behavior-tree)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 35 | 2 | 
 | 2023-03-10 | 34 | 2 | 
 | 2023-03-09 | 33 | 2 | 
 | 2023-03-07 | 33 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 27 | 2 | 
 | 2023-02-12 | 27 | 2 | 
 | 2023-02-10 | 26 | 2 | 
-| 2023-02-09 | 26 | 2 | 
 

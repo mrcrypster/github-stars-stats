@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ecs-web-app - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 195 | 150 | 
 | 2023-03-09 | 195 | 150 | 
 | 2023-03-08 | 194 | 150 | 
 | 2023-03-06 | 194 | 150 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 194 | 149 | 
 | 2023-02-12 | 194 | 149 | 
 | 2023-02-11 | 194 | 149 | 
-| 2023-02-09 | 194 | 149 | 
 

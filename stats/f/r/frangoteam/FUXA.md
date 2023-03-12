@@ -1,10 +1,10 @@
 # frangoteam/FUXA - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 415
 
-★ Stars: 1292
+★ Stars: 1302
 
 [Open repository](https://github.com/frangoteam/FUXA)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1302 | 415 | 
 | 2023-03-10 | 1292 | 415 | 
 | 2023-03-09 | 1289 | 416 | 
 | 2023-03-08 | 1270 | 413 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 1129 | 391 | 
 | 2023-02-11 | 1129 | 391 | 
 | 2023-02-10 | 1129 | 390 | 
-| 2023-02-09 | 1128 | 390 | 
 

@@ -1,10 +1,10 @@
 # flame-engine/flame - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 729
+☋ Forks: 730
 
-★ Stars: 7578
+★ Stars: 7584
 
 [Open repository](https://github.com/flame-engine/flame)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 7584 | 730 | 
 | 2023-03-10 | 7578 | 729 | 
 | 2023-03-08 | 7571 | 730 | 
 | 2023-03-07 | 7563 | 729 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 7476 | 712 | 
 | 2023-02-11 | 7469 | 710 | 
 | 2023-02-10 | 7463 | 710 | 
-| 2023-02-09 | 7459 | 710 | 
 

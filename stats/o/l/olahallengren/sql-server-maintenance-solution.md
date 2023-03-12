@@ -1,10 +1,10 @@
 # olahallengren/sql-server-maintenance-solution - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 648
+☋ Forks: 647
 
-★ Stars: 2420
+★ Stars: 2422
 
 [Open repository](https://github.com/olahallengren/sql-server-maintenance-solution)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2422 | 647 | 
 | 2023-03-10 | 2420 | 648 | 
 | 2023-03-09 | 2420 | 648 | 
 | 2023-03-08 | 2420 | 648 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2388 | 644 | 
 | 2023-02-11 | 2387 | 644 | 
 | 2023-02-10 | 2387 | 644 | 
-| 2023-02-09 | 2386 | 644 | 
 

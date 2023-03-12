@@ -1,10 +1,10 @@
 # artemsheludko/flexible-jekyll - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1651
+☋ Forks: 1652
 
-★ Stars: 671
+★ Stars: 672
 
 [Open repository](https://github.com/artemsheludko/flexible-jekyll)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 672 | 1652 | 
 | 2023-03-10 | 671 | 1651 | 
 | 2023-03-09 | 671 | 1652 | 
 | 2023-03-07 | 671 | 1652 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 664 | 1646 | 
 | 2023-02-12 | 663 | 1646 | 
 | 2023-02-11 | 663 | 1646 | 
-| 2023-02-09 | 663 | 1647 | 
 

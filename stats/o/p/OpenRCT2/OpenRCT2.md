@@ -1,10 +1,10 @@
 # OpenRCT2/OpenRCT2 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1360
 
-★ Stars: 11495
+★ Stars: 11497
 
 [Open repository](https://github.com/OpenRCT2/OpenRCT2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 11497 | 1360 | 
 | 2023-03-10 | 11495 | 1360 | 
 | 2023-03-08 | 11495 | 1359 | 
 | 2023-03-07 | 11485 | 1358 | 

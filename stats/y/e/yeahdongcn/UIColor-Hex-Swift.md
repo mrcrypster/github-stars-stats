@@ -1,10 +1,10 @@
 # yeahdongcn/UIColor-Hex-Swift - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 146
 
-★ Stars: 1216
+★ Stars: 1217
 
 [Open repository](https://github.com/yeahdongcn/UIColor-Hex-Swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1217 | 146 | 
 | 2023-03-10 | 1216 | 146 | 
 | 2023-03-09 | 1216 | 146 | 
 | 2023-03-08 | 1216 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1214 | 146 | 
 | 2023-02-11 | 1214 | 146 | 
 | 2023-02-10 | 1213 | 146 | 
-| 2023-02-09 | 1213 | 146 | 
 

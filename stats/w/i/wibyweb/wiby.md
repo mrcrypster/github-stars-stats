@@ -1,6 +1,6 @@
 # wibyweb/wiby - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 240 | 6 | 
 | 2023-03-10 | 240 | 6 | 
 | 2023-03-09 | 240 | 6 | 
 | 2023-03-08 | 239 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 235 | 6 | 
 | 2023-02-12 | 235 | 6 | 
 | 2023-02-11 | 234 | 6 | 
-| 2023-02-10 | 233 | 6 | 
 

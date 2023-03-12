@@ -1,10 +1,10 @@
 # maomao1996/Vue-mmPlayer - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 643
+☋ Forks: 644
 
-★ Stars: 2005
+★ Stars: 2006
 
 [Open repository](https://github.com/maomao1996/Vue-mmPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2006 | 644 | 
 | 2023-03-10 | 2005 | 643 | 
 | 2023-03-09 | 2004 | 643 | 
 | 2023-03-07 | 2003 | 641 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1985 | 639 | 
 | 2023-02-11 | 1983 | 638 | 
 | 2023-02-10 | 1982 | 637 | 
-| 2023-02-09 | 1980 | 636 | 
 

@@ -1,10 +1,10 @@
 # rust-lang/cargo - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1950
+☋ Forks: 1951
 
-★ Stars: 9973
+★ Stars: 9982
 
 [Open repository](https://github.com/rust-lang/cargo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 9982 | 1951 | 
 | 2023-03-10 | 9973 | 1950 | 
 | 2023-03-09 | 9960 | 1946 | 
 | 2023-03-07 | 9950 | 1945 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 9797 | 1921 | 
 | 2023-02-11 | 9790 | 1921 | 
 | 2023-02-10 | 9780 | 1920 | 
-| 2023-02-09 | 9771 | 1920 | 
 

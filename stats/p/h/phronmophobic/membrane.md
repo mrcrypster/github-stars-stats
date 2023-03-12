@@ -1,10 +1,10 @@
 # phronmophobic/membrane - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/phronmophobic/membrane)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 438 | 11 | 
 | 2023-03-10 | 437 | 11 | 
 | 2023-03-08 | 437 | 11 | 
 | 2023-03-07 | 436 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 422 | 11 | 
 | 2023-02-11 | 422 | 11 | 
 | 2023-02-10 | 421 | 11 | 
-| 2023-02-09 | 418 | 11 | 
 

@@ -1,10 +1,10 @@
 # timholy/SnoopCompile.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 41
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/timholy/SnoopCompile.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 272 | 41 | 
 | 2023-03-09 | 271 | 41 | 
 | 2023-03-08 | 271 | 41 | 
 | 2023-03-06 | 272 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 270 | 41 | 
 | 2023-02-11 | 270 | 41 | 
 | 2023-02-10 | 271 | 41 | 
-| 2023-02-09 | 271 | 41 | 
 

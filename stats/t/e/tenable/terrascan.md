@@ -1,10 +1,10 @@
 # tenable/terrascan - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 452
 
-★ Stars: 3913
+★ Stars: 3914
 
 [Open repository](https://github.com/tenable/terrascan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3914 | 452 | 
 | 2023-03-10 | 3913 | 452 | 
 | 2023-03-09 | 3911 | 453 | 
 | 2023-03-08 | 3910 | 453 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 3863 | 450 | 
 | 2023-02-11 | 3863 | 450 | 
 | 2023-02-10 | 3862 | 450 | 
-| 2023-02-09 | 3858 | 450 | 
 

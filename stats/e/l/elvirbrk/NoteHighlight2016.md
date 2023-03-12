@@ -1,10 +1,10 @@
 # elvirbrk/NoteHighlight2016 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 380
 
-★ Stars: 3459
+★ Stars: 3460
 
 [Open repository](https://github.com/elvirbrk/NoteHighlight2016)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3460 | 380 | 
 | 2023-03-10 | 3459 | 380 | 
 | 2023-03-08 | 3455 | 379 | 
 | 2023-03-06 | 3454 | 379 | 

@@ -1,10 +1,10 @@
 # airbnb/lottie - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 306
 
-★ Stars: 3874
+★ Stars: 3875
 
 [Open repository](https://github.com/airbnb/lottie)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3875 | 306 | 
 | 2023-03-10 | 3874 | 306 | 
 | 2023-03-09 | 3874 | 306 | 
 | 2023-03-07 | 3871 | 306 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 3844 | 302 | 
 | 2023-02-11 | 3845 | 302 | 
 | 2023-02-10 | 3845 | 301 | 
-| 2023-02-09 | 3843 | 301 | 
 

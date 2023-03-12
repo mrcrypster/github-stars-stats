@@ -1,10 +1,10 @@
 # ClueLang/Clue - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 260
+★ Stars: 262
 
 [Open repository](https://github.com/ClueLang/Clue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 262 | 11 | 
 | 2023-03-10 | 260 | 11 | 
 | 2023-03-08 | 259 | 11 | 
 | 2023-03-07 | 258 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 250 | 11 | 
 | 2023-02-12 | 250 | 11 | 
 | 2023-02-11 | 248 | 11 | 
-| 2023-02-09 | 248 | 11 | 
 

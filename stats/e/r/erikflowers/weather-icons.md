@@ -1,10 +1,10 @@
 # erikflowers/weather-icons - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 842
 
-★ Stars: 6617
+★ Stars: 6619
 
 [Open repository](https://github.com/erikflowers/weather-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6619 | 842 | 
 | 2023-03-10 | 6617 | 842 | 
 | 2023-03-08 | 6617 | 841 | 
 | 2023-03-07 | 6618 | 841 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 6600 | 833 | 
 | 2023-02-11 | 6601 | 833 | 
 | 2023-02-10 | 6601 | 833 | 
-| 2023-02-09 | 6601 | 833 | 
 

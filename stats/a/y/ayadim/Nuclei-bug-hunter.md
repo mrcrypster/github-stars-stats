@@ -1,10 +1,10 @@
 # ayadim/Nuclei-bug-hunter - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 33
+☋ Forks: 35
 
-★ Stars: 179
+★ Stars: 182
 
 [Open repository](https://github.com/ayadim/Nuclei-bug-hunter)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 182 | 35 | 
 | 2023-03-10 | 179 | 33 | 
 

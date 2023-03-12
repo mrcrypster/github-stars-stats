@@ -1,10 +1,10 @@
 # apokryphus/advanced-combat-system - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/apokryphus/advanced-combat-system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 19 | 1 | 
 | 2023-03-10 | 18 | - | 
 | 2023-03-09 | 18 | - | 
 | 2023-03-07 | 18 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 18 | - | 
 | 2023-02-11 | 18 | - | 
 | 2023-02-10 | 18 | - | 
-| 2023-02-09 | 17 | - | 
 

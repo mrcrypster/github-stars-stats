@@ -1,10 +1,10 @@
 # krahets/hello-algo - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 963
+☋ Forks: 966
 
-★ Stars: 8664
+★ Stars: 8672
 
 [Open repository](https://github.com/krahets/hello-algo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 8672 | 966 | 
 | 2023-03-10 | 8664 | 963 | 
 | 2023-03-09 | 8609 | 961 | 
 | 2023-03-08 | 8531 | 949 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 7978 | 867 | 
 | 2023-02-11 | 7961 | 864 | 
 | 2023-02-10 | 7945 | 862 | 
-| 2023-02-09 | 7917 | 860 | 
 

@@ -1,10 +1,10 @@
 # streamxhub/streamx - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 716
+☋ Forks: 717
 
-★ Stars: 3020
+★ Stars: 3021
 
 [Open repository](https://github.com/streamxhub/streamx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3021 | 717 | 
 | 2023-03-10 | 3020 | 716 | 
 | 2023-03-09 | 3013 | 717 | 
 | 2023-03-08 | 3009 | 716 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 2895 | 676 | 
 | 2023-02-11 | 2895 | 676 | 
 | 2023-02-10 | 2894 | 676 | 
-| 2023-02-09 | 2891 | 674 | 
 

@@ -1,10 +1,10 @@
 # dyggod/dg-design-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/dyggod/dg-design-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 17 | 1 | 
 | 2023-03-10 | 16 | 1 | 
 | 2023-03-09 | 16 | 1 | 
 | 2023-03-07 | 16 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 17 | 1 | 
 | 2023-02-11 | 17 | 1 | 
 | 2023-02-10 | 17 | 1 | 
-| 2023-02-09 | 17 | 1 | 
 

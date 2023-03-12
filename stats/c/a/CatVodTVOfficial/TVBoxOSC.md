@@ -1,10 +1,10 @@
 # CatVodTVOfficial/TVBoxOSC - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 3222
+☋ Forks: 3225
 
-★ Stars: 3705
+★ Stars: 3712
 
 [Open repository](https://github.com/CatVodTVOfficial/TVBoxOSC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3712 | 3225 | 
 | 2023-03-10 | 3705 | 3222 | 
 | 2023-03-09 | 3699 | 3217 | 
 | 2023-03-07 | 3690 | 3207 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 3457 | 3034 | 
 | 2023-02-12 | 3441 | 3021 | 
 | 2023-02-11 | 3422 | 3014 | 
-| 2023-02-10 | 3401 | 3001 | 
 

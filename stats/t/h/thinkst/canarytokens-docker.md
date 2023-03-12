@@ -1,10 +1,10 @@
 # thinkst/canarytokens-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 106
 
-★ Stars: 529
+★ Stars: 530
 
 [Open repository](https://github.com/thinkst/canarytokens-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 530 | 106 | 
 | 2023-03-10 | 529 | 106 | 
 | 2023-03-08 | 529 | 106 | 
 | 2023-03-07 | 527 | 106 | 

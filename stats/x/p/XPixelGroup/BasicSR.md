@@ -1,10 +1,10 @@
 # XPixelGroup/BasicSR - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 909
 
-★ Stars: 4473
+★ Stars: 4483
 
 [Open repository](https://github.com/XPixelGroup/BasicSR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4483 | 909 | 
 | 2023-03-09 | 4473 | 909 | 
 | 2023-03-08 | 4471 | 907 | 
 | 2023-03-07 | 4452 | 901 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 4332 | 885 | 
 | 2023-02-11 | 4328 | 885 | 
 | 2023-02-10 | 4324 | 885 | 
-| 2023-02-09 | 4320 | 885 | 
 

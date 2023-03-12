@@ -1,6 +1,6 @@
 # laravel/telescope - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 507
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4435 | 507 | 
 | 2023-03-09 | 4435 | 507 | 
 | 2023-03-08 | 4434 | 505 | 
 | 2023-03-07 | 4431 | 504 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 4415 | 502 | 
 | 2023-02-11 | 4414 | 501 | 
 | 2023-02-10 | 4414 | 501 | 
-| 2023-02-09 | 4412 | 501 | 
 

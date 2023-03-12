@@ -1,6 +1,6 @@
 # supabase/postgres - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 942 | 75 | 
 | 2023-03-10 | 942 | 75 | 
 | 2023-03-09 | 937 | 75 | 
 | 2023-03-08 | 935 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 919 | 72 | 
 | 2023-02-11 | 919 | 72 | 
 | 2023-02-10 | 919 | 72 | 
-| 2023-02-09 | 918 | 72 | 
 

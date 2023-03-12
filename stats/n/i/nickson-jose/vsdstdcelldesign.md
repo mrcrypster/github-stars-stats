@@ -1,10 +1,10 @@
 # nickson-jose/vsdstdcelldesign - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/nickson-jose/vsdstdcelldesign)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 45 | 33 | 
 | 2023-03-10 | 44 | 33 | 
 | 2023-03-08 | 44 | 33 | 
 | 2023-03-07 | 44 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 42 | 33 | 
 | 2023-02-11 | 42 | 33 | 
 | 2023-02-10 | 42 | 33 | 
-| 2023-02-09 | 42 | 33 | 
 

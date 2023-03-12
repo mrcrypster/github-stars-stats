@@ -1,10 +1,10 @@
 # Chiivo/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/Chiivo/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 29 | - | 
 | 2023-03-10 | 30 | - | 
 | 2023-03-08 | 30 | - | 
 | 2023-03-07 | 30 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 30 | - | 
 | 2023-02-12 | 29 | - | 
 | 2023-02-10 | 29 | - | 
-| 2023-02-09 | 29 | - | 
 

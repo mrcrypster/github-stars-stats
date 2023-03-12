@@ -1,6 +1,6 @@
 # istio/client-go - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 230 | 98 | 
 | 2023-03-10 | 230 | 98 | 
 | 2023-03-08 | 230 | 98 | 
 | 2023-03-07 | 230 | 98 | 

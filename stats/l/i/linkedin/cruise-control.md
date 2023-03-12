@@ -1,10 +1,10 @@
 # linkedin/cruise-control - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 508
 
-★ Stars: 2379
+★ Stars: 2380
 
 [Open repository](https://github.com/linkedin/cruise-control)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2380 | 508 | 
 | 2023-03-10 | 2379 | 508 | 
 | 2023-03-09 | 2379 | 508 | 
 | 2023-03-08 | 2379 | 507 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 2358 | 503 | 
 | 2023-02-12 | 2358 | 503 | 
 | 2023-02-11 | 2357 | 503 | 
-| 2023-02-10 | 2357 | 501 | 
 

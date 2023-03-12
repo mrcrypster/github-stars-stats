@@ -1,6 +1,6 @@
 # snu-sf/paco - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 34 | 10 | 
 | 2023-03-10 | 34 | 10 | 
 | 2023-03-08 | 34 | 10 | 
 | 2023-03-07 | 34 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 35 | 10 | 
 | 2023-02-12 | 35 | 10 | 
 | 2023-02-11 | 35 | 10 | 
-| 2023-02-09 | 35 | 10 | 
 

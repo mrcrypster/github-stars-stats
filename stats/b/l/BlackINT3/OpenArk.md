@@ -1,10 +1,10 @@
 # BlackINT3/OpenArk - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 588
+☋ Forks: 587
 
-★ Stars: 4539
+★ Stars: 4552
 
 [Open repository](https://github.com/BlackINT3/OpenArk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4552 | 587 | 
 | 2023-03-10 | 4539 | 588 | 
 | 2023-03-09 | 4529 | 588 | 
 | 2023-03-07 | 4524 | 588 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 4296 | 567 | 
 | 2023-02-11 | 4295 | 567 | 
 | 2023-02-10 | 4291 | 566 | 
-| 2023-02-09 | 4284 | 566 | 
 

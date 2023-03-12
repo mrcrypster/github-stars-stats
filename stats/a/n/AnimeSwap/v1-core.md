@@ -1,6 +1,6 @@
 # AnimeSwap/v1-core - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 34 | 17 | 
 | 2023-03-10 | 34 | 17 | 
 | 2023-03-09 | 34 | 17 | 
 | 2023-03-08 | 34 | 17 | 

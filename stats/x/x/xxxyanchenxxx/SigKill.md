@@ -1,6 +1,6 @@
 # xxxyanchenxxx/SigKill - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 211 | 79 | 
 | 2023-03-10 | 211 | 79 | 
 | 2023-03-09 | 211 | 79 | 
 | 2023-03-08 | 211 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 210 | 75 | 
 | 2023-02-12 | 209 | 74 | 
 | 2023-02-11 | 208 | 74 | 
-| 2023-02-10 | 207 | 74 | 
 

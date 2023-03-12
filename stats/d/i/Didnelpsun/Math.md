@@ -1,6 +1,6 @@
 # Didnelpsun/Math - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 319 | 44 | 
 | 2023-03-10 | 319 | 44 | 
 | 2023-03-09 | 318 | 44 | 
 | 2023-03-08 | 317 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 302 | 44 | 
 | 2023-02-11 | 302 | 44 | 
 | 2023-02-10 | 302 | 44 | 
-| 2023-02-09 | 302 | 44 | 
 

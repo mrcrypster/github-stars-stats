@@ -1,10 +1,10 @@
 # orlp/glidesort - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 24
 
-★ Stars: 1398
+★ Stars: 1399
 
 [Open repository](https://github.com/orlp/glidesort)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1399 | 24 | 
 | 2023-03-10 | 1398 | 24 | 
 | 2023-03-09 | 1397 | 24 | 
 | 2023-03-07 | 1396 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1319 | 24 | 
 | 2023-02-11 | 1309 | 24 | 
 | 2023-02-10 | 1286 | 24 | 
-| 2023-02-09 | 1254 | 22 | 
 

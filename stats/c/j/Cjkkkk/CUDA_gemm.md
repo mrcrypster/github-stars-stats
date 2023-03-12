@@ -1,10 +1,10 @@
 # Cjkkkk/CUDA_gemm - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 16
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/Cjkkkk/CUDA_gemm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 92 | 16 | 
 | 2023-03-10 | 91 | 16 | 
 | 2023-03-09 | 90 | 16 | 
 | 2023-03-07 | 90 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 80 | 14 | 
 | 2023-02-11 | 80 | 14 | 
 | 2023-02-10 | 80 | 14 | 
-| 2023-02-09 | 80 | 14 | 
 

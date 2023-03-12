@@ -1,10 +1,10 @@
 # km-neuron/se-git-assignment - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 182
+☋ Forks: 189
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/km-neuron/se-git-assignment)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6 | 189 | 
 | 2023-03-10 | 5 | 182 | 
 | 2023-03-08 | 4 | 180 | 
 | 2023-03-07 | 4 | 173 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 3 | 167 | 
 | 2023-02-11 | 3 | 167 | 
 | 2023-02-10 | 3 | 167 | 
-| 2023-02-09 | 3 | 167 | 
 

@@ -1,10 +1,10 @@
 # simulationcraft/simc - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 642
 
-★ Stars: 1208
+★ Stars: 1210
 
 [Open repository](https://github.com/simulationcraft/simc)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1210 | 642 | 
 | 2023-03-10 | 1208 | 642 | 
 | 2023-03-09 | 1208 | 642 | 
 | 2023-03-07 | 1209 | 642 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 1210 | 635 | 
 | 2023-02-12 | 1210 | 635 | 
 | 2023-02-10 | 1210 | 636 | 
-| 2023-02-09 | 1210 | 636 | 
 

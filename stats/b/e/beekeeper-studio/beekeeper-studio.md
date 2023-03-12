@@ -1,10 +1,10 @@
 # beekeeper-studio/beekeeper-studio - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 774
+☋ Forks: 775
 
-★ Stars: 12575
+★ Stars: 12585
 
 [Open repository](https://github.com/beekeeper-studio/beekeeper-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 12585 | 775 | 
 | 2023-03-10 | 12575 | 774 | 
 | 2023-03-09 | 12568 | 775 | 
 | 2023-03-08 | 12566 | 774 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 12391 | 748 | 
 | 2023-02-11 | 12389 | 747 | 
 | 2023-02-10 | 12388 | 746 | 
-| 2023-02-09 | 12384 | 747 | 
 

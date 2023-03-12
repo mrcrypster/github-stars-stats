@@ -1,10 +1,10 @@
 # LingDong-/shan-shui-inf - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 433
 
-★ Stars: 5216
+★ Stars: 5215
 
 [Open repository](https://github.com/LingDong-/shan-shui-inf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 5215 | 433 | 
 | 2023-03-09 | 5216 | 433 | 
 | 2023-03-08 | 5216 | 435 | 
 | 2023-03-06 | 5216 | 436 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 5194 | 431 | 
 | 2023-02-12 | 5194 | 431 | 
 | 2023-02-10 | 5193 | 432 | 
-| 2023-02-09 | 5192 | 432 | 
 

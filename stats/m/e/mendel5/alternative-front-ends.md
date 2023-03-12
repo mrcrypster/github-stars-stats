@@ -1,10 +1,10 @@
 # mendel5/alternative-front-ends - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 108
 
-★ Stars: 3669
+★ Stars: 3675
 
 [Open repository](https://github.com/mendel5/alternative-front-ends)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3675 | 108 | 
 | 2023-03-09 | 3669 | 108 | 
 | 2023-03-08 | 3664 | 108 | 
 | 2023-03-07 | 3652 | 108 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 3548 | 105 | 
 | 2023-02-11 | 3540 | 105 | 
 | 2023-02-10 | 3536 | 105 | 
-| 2023-02-09 | 3531 | 104 | 
 

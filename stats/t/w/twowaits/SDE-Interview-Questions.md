@@ -1,6 +1,6 @@
 # twowaits/SDE-Interview-Questions - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1968
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6520 | 1968 | 
 | 2023-03-10 | 6520 | 1968 | 
 | 2023-03-08 | 6516 | 1968 | 
 | 2023-03-07 | 6515 | 1968 | 

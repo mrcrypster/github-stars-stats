@@ -1,10 +1,10 @@
 # Grt1228/chatgpt-java - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 362
+★ Stars: 364
 
 [Open repository](https://github.com/Grt1228/chatgpt-java)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 364 | 96 | 
 | 2023-03-10 | 362 | 95 | 
 | 2023-03-09 | 338 | 91 | 
 | 2023-03-08 | 277 | 81 | 

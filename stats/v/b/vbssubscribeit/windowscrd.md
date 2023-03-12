@@ -1,8 +1,8 @@
 # vbssubscribeit/windowscrd - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1 | 67 | 
 | 2023-03-10 | 1 | 66 | 
 | 2023-03-08 | 1 | 62 | 
 | 2023-03-07 | 1 | 61 | 

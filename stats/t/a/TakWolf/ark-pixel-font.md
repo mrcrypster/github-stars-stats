@@ -1,6 +1,6 @@
 # TakWolf/ark-pixel-font - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1723 | 35 | 
 | 2023-03-10 | 1723 | 35 | 
 | 2023-03-09 | 1722 | 35 | 
 | 2023-03-08 | 1720 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1683 | 36 | 
 | 2023-02-11 | 1678 | 36 | 
 | 2023-02-10 | 1675 | 36 | 
-| 2023-02-09 | 1675 | 36 | 
 

@@ -1,10 +1,10 @@
 # Almighty-Alpaca/JetBrains-Discord-Integration - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 51
 
-★ Stars: 538
+★ Stars: 540
 
 [Open repository](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 540 | 51 | 
 | 2023-03-09 | 538 | 51 | 
 | 2023-03-08 | 538 | 51 | 
 | 2023-03-07 | 538 | 51 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 531 | 51 | 
 | 2023-02-11 | 531 | 52 | 
 | 2023-02-10 | 531 | 52 | 
-| 2023-02-09 | 530 | 52 | 
 

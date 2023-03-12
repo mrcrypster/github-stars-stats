@@ -1,10 +1,10 @@
 # milaan9/09_Python_NumPy_Module - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 212
 
-★ Stars: 219
+★ Stars: 218
 
 [Open repository](https://github.com/milaan9/09_Python_NumPy_Module)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 218 | 212 | 
 | 2023-03-10 | 219 | 212 | 
 | 2023-03-08 | 220 | 213 | 
 | 2023-03-07 | 219 | 213 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 216 | 213 | 
 | 2023-02-11 | 216 | 213 | 
 | 2023-02-10 | 216 | 213 | 
-| 2023-02-09 | 216 | 213 | 
 

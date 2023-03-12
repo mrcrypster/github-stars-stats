@@ -1,10 +1,10 @@
 # traas-stack/holoinsight - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/traas-stack/holoinsight)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 149 | 27 | 
 | 2023-03-10 | 148 | 27 | 
 | 2023-03-09 | 146 | 26 | 
 | 2023-03-08 | 141 | 24 | 

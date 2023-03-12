@@ -1,10 +1,10 @@
 # ismrmrd/siemens_to_ismrmrd - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 44
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/ismrmrd/siemens_to_ismrmrd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 24 | 44 | 
 | 2023-03-10 | 23 | 44 | 
 | 2023-03-09 | 23 | 44 | 
 | 2023-03-08 | 23 | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 23 | 44 | 
 | 2023-02-12 | 23 | 44 | 
 | 2023-02-11 | 23 | 44 | 
-| 2023-02-10 | 23 | 44 | 
 

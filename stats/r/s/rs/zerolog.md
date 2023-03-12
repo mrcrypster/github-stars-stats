@@ -1,10 +1,10 @@
 # rs/zerolog - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 451
 
-★ Stars: 7752
+★ Stars: 7756
 
 [Open repository](https://github.com/rs/zerolog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 7756 | 451 | 
 | 2023-03-09 | 7752 | 451 | 
 | 2023-03-08 | 7741 | 451 | 
 | 2023-03-07 | 7730 | 450 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 7599 | 442 | 
 | 2023-02-11 | 7597 | 442 | 
 | 2023-02-10 | 7597 | 442 | 
-| 2023-02-09 | 7590 | 442 | 
 

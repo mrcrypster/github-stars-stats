@@ -1,10 +1,10 @@
 # so-fancy/diff-so-fancy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 344
+☋ Forks: 345
 
-★ Stars: 16307
+★ Stars: 16308
 
 [Open repository](https://github.com/so-fancy/diff-so-fancy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 16308 | 345 | 
 | 2023-03-10 | 16307 | 344 | 
 | 2023-03-09 | 16305 | 344 | 
 | 2023-03-08 | 16306 | 344 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 16259 | 343 | 
 | 2023-02-11 | 16253 | 343 | 
 | 2023-02-10 | 16251 | 343 | 
-| 2023-02-09 | 16252 | 343 | 
 

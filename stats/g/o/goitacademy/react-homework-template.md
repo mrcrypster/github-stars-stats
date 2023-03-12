@@ -1,8 +1,8 @@
 # goitacademy/react-homework-template - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 180
+☋ Forks: 181
 
 ★ Stars: 133
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 133 | 181 | 
 | 2023-03-10 | 133 | 180 | 
 | 2023-03-08 | 132 | 180 | 
 | 2023-03-07 | 132 | 180 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 118 | 162 | 
 | 2023-02-11 | 117 | 161 | 
 | 2023-02-10 | 115 | 161 | 
-| 2023-02-09 | 114 | 161 | 
 

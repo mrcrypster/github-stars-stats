@@ -1,10 +1,10 @@
 # Daiyimo/Access-chatGPT-in-Siri - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 66
+☋ Forks: 68
 
-★ Stars: 1307
+★ Stars: 1318
 
 [Open repository](https://github.com/Daiyimo/Access-chatGPT-in-Siri)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1318 | 68 | 
 | 2023-03-10 | 1307 | 66 | 
 | 2023-03-08 | 1292 | 64 | 
 | 2023-03-07 | 1267 | 62 | 

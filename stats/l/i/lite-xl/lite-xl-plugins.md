@@ -1,6 +1,6 @@
 # lite-xl/lite-xl-plugins - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 188 | 64 | 
 | 2023-03-09 | 188 | 64 | 
 | 2023-03-08 | 188 | 63 | 
 | 2023-03-07 | 187 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 182 | 64 | 
 | 2023-02-11 | 182 | 64 | 
 | 2023-02-10 | 181 | 64 | 
-| 2023-02-09 | 182 | 64 | 
 

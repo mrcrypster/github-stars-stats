@@ -1,10 +1,10 @@
 # 411112/self-education - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 3
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/411112/self-education)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 157 | 3 | 
 | 2023-03-10 | 156 | 3 | 
 | 2023-03-08 | 155 | 3 | 
 | 2023-03-07 | 156 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 102 | 2 | 
 | 2023-02-11 | 101 | 2 | 
 | 2023-02-10 | 101 | 2 | 
-| 2023-02-09 | 100 | 2 | 
 

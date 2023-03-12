@@ -1,6 +1,6 @@
 # tiagoad/suicide-linux - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 634 | 41 | 
 | 2023-03-10 | 634 | 41 | 
 | 2023-03-09 | 634 | 41 | 
 | 2023-03-07 | 634 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 630 | 41 | 
 | 2023-02-11 | 631 | 41 | 
 | 2023-02-10 | 632 | 41 | 
-| 2023-02-09 | 631 | 41 | 
 

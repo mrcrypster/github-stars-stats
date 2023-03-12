@@ -1,10 +1,10 @@
 # aravindvnair99/Phishing - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 9
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/aravindvnair99/Phishing)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 13 | 9 | 
 | 2023-03-10 | 14 | 9 | 
 | 2023-03-09 | 14 | 9 | 
 | 2023-03-07 | 14 | 9 | 

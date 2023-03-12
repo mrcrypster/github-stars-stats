@@ -1,10 +1,10 @@
 # livewire/livewire - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 995
 
-★ Stars: 18333
+★ Stars: 18337
 
 [Open repository](https://github.com/livewire/livewire)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 18337 | 995 | 
 | 2023-03-10 | 18333 | 995 | 
 | 2023-03-09 | 18333 | 996 | 
 | 2023-03-08 | 18325 | 994 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 18082 | 983 | 
 | 2023-02-11 | 18075 | 983 | 
 | 2023-02-10 | 18061 | 983 | 
-| 2023-02-09 | 18049 | 983 | 
 

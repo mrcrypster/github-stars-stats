@@ -1,10 +1,10 @@
 # skywind3000/z.lua - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 133
 
-★ Stars: 2626
+★ Stars: 2627
 
 [Open repository](https://github.com/skywind3000/z.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2627 | 133 | 
 | 2023-03-09 | 2626 | 133 | 
 | 2023-03-08 | 2626 | 133 | 
 | 2023-03-07 | 2623 | 132 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2602 | 131 | 
 | 2023-02-11 | 2602 | 131 | 
 | 2023-02-10 | 2601 | 131 | 
-| 2023-02-09 | 2602 | 131 | 
 

@@ -1,6 +1,6 @@
 # fengkx/hexo-theme-purer - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 60 | 6 | 
 | 2023-03-10 | 60 | 6 | 
 | 2023-03-08 | 60 | 6 | 
 | 2023-03-07 | 60 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 57 | 6 | 
 | 2023-02-11 | 57 | 6 | 
 | 2023-02-10 | 57 | 6 | 
-| 2023-02-09 | 57 | 6 | 
 

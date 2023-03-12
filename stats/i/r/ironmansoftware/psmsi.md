@@ -1,10 +1,10 @@
 # ironmansoftware/psmsi - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 15
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/ironmansoftware/psmsi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 221 | 15 | 
 | 2023-03-10 | 220 | 15 | 
 | 2023-03-08 | 219 | 15 | 
 | 2023-03-07 | 219 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 218 | 15 | 
 | 2023-02-11 | 218 | 15 | 
 | 2023-02-10 | 218 | 15 | 
-| 2023-02-09 | 217 | 15 | 
 

@@ -1,10 +1,10 @@
 # gene9831/AliyunDrivePotPlayer - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 26
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/gene9831/AliyunDrivePotPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 106 | 26 | 
 | 2023-03-10 | 105 | 26 | 
 | 2023-03-08 | 105 | 26 | 
 | 2023-03-07 | 105 | 26 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 98 | 25 | 
 | 2023-02-11 | 98 | 25 | 
 | 2023-02-10 | 96 | 25 | 
-| 2023-02-09 | 96 | 25 | 
 

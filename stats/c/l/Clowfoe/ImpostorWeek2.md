@@ -1,6 +1,6 @@
 # Clowfoe/ImpostorWeek2 - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 22 | 44 | 
 | 2023-03-09 | 22 | 44 | 
 | 2023-03-08 | 22 | 44 | 
 | 2023-03-07 | 22 | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 23 | 44 | 
 | 2023-02-11 | 23 | 44 | 
 | 2023-02-10 | 23 | 44 | 
-| 2023-02-09 | 23 | 44 | 
 

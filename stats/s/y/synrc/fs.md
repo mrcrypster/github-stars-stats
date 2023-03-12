@@ -1,10 +1,10 @@
 # synrc/fs - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 67
 
-★ Stars: 222
+★ Stars: 223
 
 [Open repository](https://github.com/synrc/fs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 223 | 67 | 
 | 2023-03-10 | 222 | 67 | 
 | 2023-03-09 | 222 | 67 | 
 | 2023-03-07 | 222 | 67 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 220 | 67 | 
 | 2023-02-11 | 220 | 67 | 
 | 2023-02-10 | 220 | 67 | 
-| 2023-02-09 | 220 | 67 | 
 

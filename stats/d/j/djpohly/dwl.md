@@ -1,10 +1,10 @@
 # djpohly/dwl - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 205
 
-★ Stars: 1470
+★ Stars: 1472
 
 [Open repository](https://github.com/djpohly/dwl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1472 | 205 | 
 | 2023-03-10 | 1470 | 205 | 
 | 2023-03-08 | 1467 | 205 | 
 | 2023-03-07 | 1464 | 206 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1353 | 192 | 
 | 2023-02-11 | 1351 | 193 | 
 | 2023-02-10 | 1349 | 193 | 
-| 2023-02-09 | 1347 | 194 | 
 

@@ -1,10 +1,10 @@
 # kakawait/hugo-tranquilpeak-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 519
+☋ Forks: 517
 
-★ Stars: 866
+★ Stars: 867
 
 [Open repository](https://github.com/kakawait/hugo-tranquilpeak-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 867 | 517 | 
 | 2023-03-10 | 866 | 519 | 
 | 2023-03-08 | 866 | 518 | 
 | 2023-03-07 | 867 | 518 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 864 | 517 | 
 | 2023-02-11 | 863 | 517 | 
 | 2023-02-10 | 863 | 517 | 
-| 2023-02-09 | 863 | 517 | 
 

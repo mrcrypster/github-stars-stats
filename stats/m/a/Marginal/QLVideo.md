@@ -1,10 +1,10 @@
 # Marginal/QLVideo - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 83
 
-★ Stars: 2181
+★ Stars: 2182
 
 [Open repository](https://github.com/Marginal/QLVideo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2182 | 83 | 
 | 2023-03-10 | 2181 | 83 | 
 | 2023-03-08 | 2180 | 83 | 
 | 2023-03-07 | 2177 | 83 | 

@@ -1,6 +1,6 @@
 # yann0917/dedao-dl - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 266 | 61 | 
 | 2023-03-10 | 266 | 61 | 
 | 2023-03-09 | 266 | 60 | 
 | 2023-03-08 | 263 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 257 | 59 | 
 | 2023-02-12 | 257 | 59 | 
 | 2023-02-10 | 256 | 59 | 
-| 2023-02-09 | 255 | 59 | 
 

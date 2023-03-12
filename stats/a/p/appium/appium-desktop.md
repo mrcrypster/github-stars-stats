@@ -1,6 +1,6 @@
 # appium/appium-desktop - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1322
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4454 | 1322 | 
 | 2023-03-10 | 4454 | 1322 | 
 | 2023-03-09 | 4453 | 1321 | 
 | 2023-03-07 | 4449 | 1320 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 4412 | 1319 | 
 | 2023-02-11 | 4412 | 1319 | 
 | 2023-02-10 | 4411 | 1318 | 
-| 2023-02-09 | 4411 | 1317 | 
 

@@ -1,6 +1,6 @@
 # thepower/tpnode - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 23 | 10 | 
 | 2023-03-10 | 23 | 10 | 
 | 2023-03-09 | 23 | 10 | 
 | 2023-03-07 | 23 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 21 | 9 | 
 | 2023-02-12 | 21 | 9 | 
 | 2023-02-11 | 21 | 9 | 
-| 2023-02-09 | 21 | 9 | 
 

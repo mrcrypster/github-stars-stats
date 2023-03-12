@@ -1,10 +1,10 @@
 # voxpupuli/puppet-bareos - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 35
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/voxpupuli/puppet-bareos)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 14 | 35 | 
 | 2023-03-10 | 13 | 35 | 
 | 2023-03-08 | 13 | 35 | 
 | 2023-03-06 | 13 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 12 | 35 | 
 | 2023-02-11 | 12 | 35 | 
 | 2023-02-10 | 12 | 35 | 
-| 2023-02-09 | 12 | 35 | 
 

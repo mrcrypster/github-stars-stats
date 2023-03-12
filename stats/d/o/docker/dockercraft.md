@@ -1,10 +1,10 @@
 # docker/dockercraft - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 401
 
-★ Stars: 6849
+★ Stars: 6848
 
 [Open repository](https://github.com/docker/dockercraft)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6848 | 401 | 
 | 2023-03-10 | 6849 | 401 | 
 | 2023-03-09 | 6849 | 400 | 
 | 2023-03-07 | 6849 | 400 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 6823 | 399 | 
 | 2023-02-12 | 6823 | 399 | 
 | 2023-02-11 | 6823 | 399 | 
-| 2023-02-10 | 6823 | 399 | 
 

@@ -1,6 +1,6 @@
 # InsiderPhD/Generic-University - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 302 | 81 | 
 | 2023-03-10 | 302 | 81 | 
 | 2023-03-09 | 301 | 81 | 
 | 2023-03-07 | 301 | 81 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 296 | 78 | 
 | 2023-02-11 | 295 | 78 | 
 | 2023-02-10 | 295 | 78 | 
-| 2023-02-09 | 295 | 78 | 
 

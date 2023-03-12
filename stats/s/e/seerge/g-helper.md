@@ -1,10 +1,10 @@
 # seerge/g-helper - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 115
+★ Stars: 117
 
 [Open repository](https://github.com/seerge/g-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 117 | 7 | 
 | 2023-03-09 | 115 | 7 | 
 | 2023-03-08 | 112 | 6 | 
 | 2023-03-07 | 109 | 6 | 

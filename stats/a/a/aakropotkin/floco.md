@@ -1,10 +1,10 @@
 # aakropotkin/floco - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/aakropotkin/floco)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 51 | 2 | 
 | 2023-03-09 | 50 | 2 | 
 | 2023-03-08 | 49 | 2 | 
 | 2023-03-07 | 50 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 41 | 1 | 
 | 2023-02-11 | 41 | 1 | 
 | 2023-02-10 | 40 | 1 | 
-| 2023-02-09 | 40 | 1 | 
 

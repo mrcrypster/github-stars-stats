@@ -1,6 +1,6 @@
 # leonoel/cloroutine - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 199 | 9 | 
 | 2023-03-10 | 199 | 9 | 
 | 2023-03-09 | 199 | 9 | 
 | 2023-03-07 | 199 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 198 | 8 | 
 | 2023-02-12 | 198 | 8 | 
 | 2023-02-11 | 198 | 8 | 
-| 2023-02-09 | 197 | 8 | 
 

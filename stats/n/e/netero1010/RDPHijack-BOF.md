@@ -1,6 +1,6 @@
 # netero1010/RDPHijack-BOF - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 245 | 37 | 
 | 2023-03-10 | 245 | 37 | 
 | 2023-03-09 | 245 | 37 | 
 | 2023-03-08 | 245 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 242 | 37 | 
 | 2023-02-12 | 241 | 37 | 
 | 2023-02-10 | 241 | 37 | 
-| 2023-02-09 | 241 | 37 | 
 

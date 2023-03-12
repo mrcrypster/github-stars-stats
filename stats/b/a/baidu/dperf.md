@@ -1,10 +1,10 @@
 # baidu/dperf - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 220
 
-★ Stars: 1609
+★ Stars: 1610
 
 [Open repository](https://github.com/baidu/dperf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1610 | 220 | 
 | 2023-03-10 | 1609 | 220 | 
 | 2023-03-09 | 1608 | 219 | 
 | 2023-03-08 | 1601 | 219 | 

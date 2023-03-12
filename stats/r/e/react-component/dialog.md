@@ -1,10 +1,10 @@
 # react-component/dialog - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 167
 
-★ Stars: 401
+★ Stars: 402
 
 [Open repository](https://github.com/react-component/dialog)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 402 | 167 | 
 | 2023-03-10 | 401 | 167 | 
 | 2023-03-09 | 401 | 167 | 
 | 2023-03-08 | 399 | 167 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 397 | 163 | 
 | 2023-02-11 | 397 | 163 | 
 | 2023-02-10 | 397 | 163 | 
-| 2023-02-09 | 396 | 163 | 
 

@@ -1,6 +1,6 @@
 # haxi0/Jaility - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 107 | 4 | 
 | 2023-03-10 | 107 | 4 | 
 | 2023-03-08 | 107 | 4 | 
 | 2023-03-07 | 107 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 106 | 4 | 
 | 2023-02-11 | 106 | 4 | 
 | 2023-02-10 | 106 | 4 | 
-| 2023-02-09 | 106 | 4 | 
 

@@ -1,10 +1,10 @@
 # zhangchuangiie/PPT - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 9
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/zhangchuangiie/PPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 42 | 9 | 
 | 2023-03-10 | 40 | 9 | 
 | 2023-03-09 | 38 | 8 | 
 

@@ -1,10 +1,10 @@
 # AnTi-anti/damai_ticket - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 573
+★ Stars: 577
 
 [Open repository](https://github.com/AnTi-anti/damai_ticket)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 577 | 118 | 
 | 2023-03-10 | 573 | 117 | 
 | 2023-03-09 | 557 | 115 | 
 | 2023-03-08 | 543 | 112 | 

@@ -1,10 +1,10 @@
 # SciML/NeuralOperators.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 22
 
-★ Stars: 137
+★ Stars: 136
 
 [Open repository](https://github.com/SciML/NeuralOperators.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 136 | 22 | 
 | 2023-03-10 | 137 | 22 | 
 | 2023-03-09 | 137 | 21 | 
 | 2023-03-07 | 137 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 133 | 20 | 
 | 2023-02-11 | 133 | 20 | 
 | 2023-02-10 | 133 | 20 | 
-| 2023-02-09 | 133 | 20 | 
 

@@ -1,6 +1,6 @@
 # jafarlihi/modreveal - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 123 | 11 | 
 | 2023-03-10 | 123 | 11 | 
 | 2023-03-09 | 123 | 11 | 
 | 2023-03-08 | 123 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 121 | 11 | 
 | 2023-02-11 | 121 | 11 | 
 | 2023-02-10 | 121 | 11 | 
-| 2023-02-09 | 121 | 11 | 
 

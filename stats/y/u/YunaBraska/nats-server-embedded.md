@@ -1,6 +1,6 @@
 # YunaBraska/nats-server-embedded - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 246 | 200 | 
 | 2023-03-10 | 246 | 200 | 
 | 2023-03-09 | 246 | 200 | 
 | 2023-03-08 | 251 | 200 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 245 | 171 | 
 | 2023-02-11 | 190 | 116 | 
 | 2023-02-10 | 182 | 108 | 
-| 2023-02-09 | 167 | 94 | 
 

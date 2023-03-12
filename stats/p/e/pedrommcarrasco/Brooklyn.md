@@ -1,6 +1,6 @@
 # pedrommcarrasco/Brooklyn - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 5345 | 255 | 
 | 2023-03-10 | 5345 | 255 | 
 | 2023-03-09 | 5340 | 255 | 
 | 2023-03-07 | 5339 | 255 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 5325 | 251 | 
 | 2023-02-11 | 5323 | 251 | 
 | 2023-02-10 | 5323 | 251 | 
-| 2023-02-09 | 5322 | 251 | 
 

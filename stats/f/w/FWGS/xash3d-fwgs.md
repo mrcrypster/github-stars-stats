@@ -1,8 +1,8 @@
 # FWGS/xash3d-fwgs - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 151
+☋ Forks: 150
 
 ★ Stars: 863
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 863 | 150 | 
 | 2023-03-10 | 863 | 151 | 
 | 2023-03-08 | 862 | 151 | 
 | 2023-03-07 | 860 | 151 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 822 | 148 | 
 | 2023-02-11 | 821 | 147 | 
 | 2023-02-10 | 820 | 147 | 
-| 2023-02-09 | 818 | 147 | 
 

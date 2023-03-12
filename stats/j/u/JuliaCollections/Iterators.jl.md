@@ -1,6 +1,6 @@
 # JuliaCollections/Iterators.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 59 | 36 | 
 | 2023-03-09 | 59 | 36 | 
 | 2023-03-08 | 59 | 36 | 
 | 2023-03-06 | 59 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 59 | 36 | 
 | 2023-02-11 | 59 | 36 | 
 | 2023-02-10 | 59 | 36 | 
-| 2023-02-09 | 59 | 36 | 
 

@@ -1,6 +1,6 @@
 # techfolios/template - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 10 | 32 | 
 | 2023-03-10 | 10 | 32 | 
 | 2023-03-09 | 10 | 32 | 
 | 2023-03-07 | 9 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 7 | 30 | 
 | 2023-02-11 | 7 | 30 | 
 | 2023-02-10 | 7 | 30 | 
-| 2023-02-09 | 7 | 29 | 
 

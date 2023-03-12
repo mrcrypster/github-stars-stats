@@ -1,6 +1,6 @@
 # meyercm/shorter_maps - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 218 | 7 | 
 | 2023-03-09 | 218 | 7 | 
 | 2023-03-08 | 218 | 7 | 
 | 2023-03-07 | 218 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 220 | 7 | 
 | 2023-02-11 | 220 | 7 | 
 | 2023-02-10 | 220 | 7 | 
-| 2023-02-09 | 220 | 7 | 
 

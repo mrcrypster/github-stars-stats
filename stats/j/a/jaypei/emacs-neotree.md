@@ -1,6 +1,6 @@
 # jaypei/emacs-neotree - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1482 | 144 | 
 | 2023-03-10 | 1482 | 144 | 
 | 2023-03-08 | 1482 | 144 | 
 | 2023-03-07 | 1483 | 144 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1479 | 146 | 
 | 2023-02-11 | 1479 | 146 | 
 | 2023-02-10 | 1479 | 146 | 
-| 2023-02-09 | 1479 | 146 | 
 

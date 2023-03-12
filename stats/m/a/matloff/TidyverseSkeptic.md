@@ -1,6 +1,6 @@
 # matloff/TidyverseSkeptic - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 455 | 43 | 
 | 2023-03-10 | 455 | 43 | 
 | 2023-03-08 | 454 | 43 | 
 | 2023-03-07 | 454 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 451 | 43 | 
 | 2023-02-12 | 451 | 43 | 
 | 2023-02-10 | 449 | 43 | 
-| 2023-02-09 | 449 | 43 | 
 

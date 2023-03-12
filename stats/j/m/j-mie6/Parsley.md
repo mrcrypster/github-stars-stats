@@ -1,10 +1,10 @@
 # j-mie6/Parsley - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 112
+★ Stars: 114
 
 [Open repository](https://github.com/j-mie6/Parsley)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 114 | 11 | 
 | 2023-03-09 | 112 | 11 | 
 | 2023-03-08 | 112 | 11 | 
 | 2023-03-07 | 110 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 97 | 9 | 
 | 2023-02-11 | 97 | 9 | 
 | 2023-02-10 | 96 | 9 | 
-| 2023-02-09 | 96 | 9 | 
 

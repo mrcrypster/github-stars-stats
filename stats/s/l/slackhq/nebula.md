@@ -1,10 +1,10 @@
 # slackhq/nebula - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 796
 
-★ Stars: 11377
+★ Stars: 11380
 
 [Open repository](https://github.com/slackhq/nebula)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 11380 | 796 | 
 | 2023-03-09 | 11377 | 796 | 
 | 2023-03-08 | 11369 | 796 | 
 | 2023-03-06 | 11359 | 796 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 11237 | 785 | 
 | 2023-02-12 | 11217 | 785 | 
 | 2023-02-11 | 11216 | 785 | 
-| 2023-02-10 | 11212 | 784 | 
 

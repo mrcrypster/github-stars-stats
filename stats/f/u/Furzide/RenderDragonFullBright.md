@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Furzide/RenderDragonFullBright)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 1 | - | 
+| 2023-03-11 | 2 | - | 
 | 2023-03-10 | 1 | - | 
 

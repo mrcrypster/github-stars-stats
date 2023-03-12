@@ -1,10 +1,10 @@
 # owenmcateer/FlipDots - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 137
+★ Stars: 136
 
 [Open repository](https://github.com/owenmcateer/FlipDots)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 136 | 6 | 
 | 2023-03-10 | 137 | 6 | 
 | 2023-03-08 | 137 | 6 | 
 | 2023-03-07 | 137 | 6 | 

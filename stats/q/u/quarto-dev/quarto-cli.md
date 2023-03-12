@@ -1,10 +1,10 @@
 # quarto-dev/quarto-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 160
+☋ Forks: 162
 
-★ Stars: 1973
+★ Stars: 1977
 
 [Open repository](https://github.com/quarto-dev/quarto-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1977 | 162 | 
 | 2023-03-09 | 1973 | 160 | 
 | 2023-03-08 | 1969 | 159 | 
 | 2023-03-07 | 1967 | 158 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 1886 | 153 | 
 | 2023-02-11 | 1884 | 154 | 
 | 2023-02-10 | 1880 | 154 | 
-| 2023-02-09 | 1875 | 154 | 
 

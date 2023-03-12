@@ -1,6 +1,6 @@
 # heloufir/filament-workflow-manager - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 47 | 6 | 
 | 2023-03-10 | 47 | 6 | 
 | 2023-03-09 | 47 | 6 | 
 | 2023-03-08 | 47 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 45 | 5 | 
 | 2023-02-12 | 44 | 5 | 
 | 2023-02-11 | 44 | 5 | 
-| 2023-02-09 | 44 | 5 | 
 

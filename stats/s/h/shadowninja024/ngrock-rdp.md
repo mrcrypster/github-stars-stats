@@ -1,8 +1,8 @@
 # shadowninja024/ngrock-rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 14
+☋ Forks: 16
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | - | 16 | 
 | 2023-03-10 | - | 14 | 
 | 2023-03-09 | - | 14 | 
 | 2023-03-08 | - | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | - | 12 | 
 | 2023-02-11 | - | 12 | 
 | 2023-02-10 | - | 12 | 
-| 2023-02-09 | - | 12 | 
 

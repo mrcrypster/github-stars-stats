@@ -1,10 +1,10 @@
 # pointfreeco/swift-composable-architecture - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 872
 
-★ Stars: 8288
+★ Stars: 8295
 
 [Open repository](https://github.com/pointfreeco/swift-composable-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 8295 | 872 | 
 | 2023-03-10 | 8288 | 872 | 
 | 2023-03-09 | 8286 | 872 | 
 | 2023-03-08 | 8278 | 872 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 8083 | 855 | 
 | 2023-02-11 | 8081 | 855 | 
 | 2023-02-10 | 8076 | 854 | 
-| 2023-02-09 | 8070 | 853 | 
 

@@ -1,10 +1,10 @@
 # yous/YousList - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 36
 
-★ Stars: 268
+★ Stars: 269
 
 [Open repository](https://github.com/yous/YousList)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 269 | 36 | 
 | 2023-03-10 | 268 | 36 | 
 | 2023-03-08 | 268 | 36 | 
 | 2023-03-07 | 268 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 265 | 36 | 
 | 2023-02-11 | 265 | 36 | 
 | 2023-02-10 | 265 | 36 | 
-| 2023-02-09 | 265 | 36 | 
 

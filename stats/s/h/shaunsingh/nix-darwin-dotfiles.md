@@ -1,10 +1,10 @@
 # shaunsingh/nix-darwin-dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 31
 
-★ Stars: 327
+★ Stars: 329
 
 [Open repository](https://github.com/shaunsingh/nix-darwin-dotfiles)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 329 | 31 | 
+| 2023-03-11 | 329 | 31 | 
 | 2023-03-10 | 327 | 31 | 
 | 2023-03-09 | 326 | 31 | 
 | 2023-03-07 | 325 | 32 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 318 | 32 | 
 | 2023-02-11 | 318 | 32 | 
 | 2023-02-10 | 317 | 32 | 
-| 2023-02-09 | 317 | 32 | 
 

@@ -1,6 +1,6 @@
 # devsuperior/sds-dsmovie - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 447 | 250 | 
 | 2023-03-10 | 447 | 250 | 
 | 2023-03-09 | 447 | 250 | 
 | 2023-03-07 | 447 | 250 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 449 | 249 | 
 | 2023-02-11 | 449 | 250 | 
 | 2023-02-10 | 449 | 250 | 
-| 2023-02-09 | 448 | 250 | 
 

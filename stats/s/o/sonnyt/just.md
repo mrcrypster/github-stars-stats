@@ -1,6 +1,6 @@
 # sonnyt/just - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 197 | 1 | 
 | 2023-03-10 | 197 | 1 | 
 | 2023-03-08 | 197 | 1 | 
 | 2023-03-07 | 197 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 196 | 1 | 
 | 2023-02-11 | 196 | 1 | 
 | 2023-02-10 | 196 | 1 | 
-| 2023-02-09 | 196 | 1 | 
 

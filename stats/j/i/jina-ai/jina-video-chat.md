@@ -1,6 +1,6 @@
 # jina-ai/jina-video-chat - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 248 | 27 | 
 | 2023-03-10 | 248 | 27 | 
 | 2023-03-09 | 248 | 27 | 
 | 2023-03-07 | 247 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 246 | 27 | 
 | 2023-02-11 | 246 | 27 | 
 | 2023-02-10 | 245 | 27 | 
-| 2023-02-09 | 244 | 27 | 
 

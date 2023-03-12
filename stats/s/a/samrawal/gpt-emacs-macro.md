@@ -1,10 +1,10 @@
 # samrawal/gpt-emacs-macro - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 32
 
 [Open repository](https://github.com/samrawal/gpt-emacs-macro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 32 | 2 | 
 | 2023-03-10 | 34 | 2 | 
 | 2023-03-09 | 33 | 2 | 
 | 2023-03-07 | 33 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 30 | 2 | 
 | 2023-02-11 | 30 | 2 | 
 | 2023-02-10 | 30 | 2 | 
-| 2023-02-09 | 30 | 2 | 
 

@@ -1,6 +1,6 @@
 # Data-Liberation-Front/csvlint.rb - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 265 | 84 | 
 | 2023-03-10 | 265 | 84 | 
 | 2023-03-09 | 265 | 84 | 
 | 2023-03-07 | 265 | 84 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 260 | 83 | 
 | 2023-02-12 | 260 | 83 | 
 | 2023-02-11 | 260 | 83 | 
-| 2023-02-10 | 260 | 83 | 
 

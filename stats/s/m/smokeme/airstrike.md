@@ -1,6 +1,6 @@
 # smokeme/airstrike - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 83 | 14 | 
 | 2023-03-10 | 83 | 14 | 
 | 2023-03-08 | 82 | 14 | 
 | 2023-03-07 | 82 | 14 | 

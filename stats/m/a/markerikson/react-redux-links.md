@@ -1,8 +1,8 @@
 # markerikson/react-redux-links - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 2492
+☋ Forks: 2490
 
 ★ Stars: 22141
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 22141 | 2490 | 
 | 2023-03-10 | 22141 | 2492 | 
 | 2023-03-08 | 22141 | 2493 | 
 | 2023-03-07 | 22139 | 2491 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 22082 | 2485 | 
 | 2023-02-11 | 22081 | 2485 | 
 | 2023-02-10 | 22081 | 2485 | 
-| 2023-02-09 | 22079 | 2484 | 
 

@@ -1,6 +1,6 @@
 # avinash201199/To-Do-List - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 67 | 148 | 
 | 2023-03-10 | 67 | 148 | 
 | 2023-03-08 | 67 | 148 | 
 | 2023-03-07 | 68 | 148 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 67 | 148 | 
 | 2023-02-11 | 67 | 149 | 
 | 2023-02-10 | 67 | 149 | 
-| 2023-02-09 | 67 | 149 | 
 

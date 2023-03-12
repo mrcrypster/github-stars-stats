@@ -1,6 +1,6 @@
 # hmcts/chart-job - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4 | 7 | 
 | 2023-03-09 | 4 | 7 | 
 | 2023-03-08 | 4 | 7 | 
 | 2023-03-07 | 4 | 7 | 

@@ -1,10 +1,10 @@
 # exercism/julia - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 57
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/exercism/julia)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 57 | 57 | 
 | 2023-03-10 | 56 | 57 | 
 | 2023-03-09 | 56 | 57 | 
 | 2023-03-07 | 56 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 55 | 56 | 
 | 2023-02-11 | 55 | 56 | 
 | 2023-02-10 | 55 | 56 | 
-| 2023-02-09 | 55 | 56 | 
 

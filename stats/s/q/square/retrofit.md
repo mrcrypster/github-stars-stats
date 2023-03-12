@@ -1,10 +1,10 @@
 # square/retrofit - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 7241
+☋ Forks: 7242
 
-★ Stars: 41246
+★ Stars: 41254
 
 [Open repository](https://github.com/square/retrofit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 41254 | 7242 | 
 | 2023-03-09 | 41246 | 7241 | 
 | 2023-03-08 | 41239 | 7240 | 
 | 2023-03-07 | 41229 | 7239 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 41122 | 7229 | 
 | 2023-02-11 | 41122 | 7229 | 
 | 2023-02-10 | 41118 | 7227 | 
-| 2023-02-09 | 41107 | 7227 | 
 

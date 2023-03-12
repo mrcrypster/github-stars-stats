@@ -1,10 +1,10 @@
 # iykeevans/altschool-class-of-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 324
+☋ Forks: 325
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/iykeevans/altschool-class-of-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 21 | 325 | 
 | 2023-03-10 | 20 | 324 | 
 | 2023-03-08 | 20 | 324 | 
 | 2023-03-07 | 20 | 323 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 17 | 308 | 
 | 2023-02-11 | 17 | 304 | 
 | 2023-02-10 | 17 | 299 | 
-| 2023-02-09 | 17 | 295 | 
 

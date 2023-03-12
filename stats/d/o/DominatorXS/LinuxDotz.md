@@ -1,10 +1,10 @@
 # DominatorXS/LinuxDotz - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/DominatorXS/LinuxDotz)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 27 | 1 | 
 | 2023-03-10 | 28 | 1 | 
 | 2023-03-09 | 28 | 1 | 
 | 2023-03-07 | 28 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 26 | 1 | 
 | 2023-02-12 | 25 | 1 | 
 | 2023-02-10 | 25 | 1 | 
-| 2023-02-09 | 25 | 1 | 
 

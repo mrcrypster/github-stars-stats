@@ -1,10 +1,10 @@
 # justjake/Gauss - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 29
 
-★ Stars: 1315
+★ Stars: 1314
 
 [Open repository](https://github.com/justjake/Gauss)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1314 | 29 | 
 | 2023-03-10 | 1315 | 29 | 
 | 2023-03-09 | 1314 | 29 | 
 | 2023-03-08 | 1313 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1287 | 29 | 
 | 2023-02-11 | 1286 | 29 | 
 | 2023-02-10 | 1286 | 29 | 
-| 2023-02-09 | 1285 | 29 | 
 

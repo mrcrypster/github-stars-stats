@@ -1,6 +1,6 @@
 # Vexu/zuri - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 43 | 6 | 
 | 2023-03-09 | 43 | 6 | 
 | 2023-03-08 | 43 | 6 | 
 | 2023-03-07 | 43 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 44 | 6 | 
 | 2023-02-12 | 44 | 6 | 
 | 2023-02-11 | 44 | 6 | 
-| 2023-02-09 | 44 | 6 | 
 

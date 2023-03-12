@@ -1,10 +1,10 @@
 # KichangKim/DeepDanbooru - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 190
 
-★ Stars: 1709
+★ Stars: 1711
 
 [Open repository](https://github.com/KichangKim/DeepDanbooru)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1711 | 190 | 
 | 2023-03-10 | 1709 | 190 | 
 | 2023-03-09 | 1700 | 190 | 
 | 2023-03-07 | 1687 | 190 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1561 | 182 | 
 | 2023-02-11 | 1559 | 182 | 
 | 2023-02-10 | 1555 | 182 | 
-| 2023-02-09 | 1551 | 182 | 
 

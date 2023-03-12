@@ -1,10 +1,10 @@
 # composer-unused/composer-unused - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 49
 
-★ Stars: 1286
+★ Stars: 1287
 
 [Open repository](https://github.com/composer-unused/composer-unused)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1287 | 49 | 
 | 2023-03-10 | 1286 | 49 | 
 | 2023-03-09 | 1286 | 49 | 
 | 2023-03-08 | 1284 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 1279 | 49 | 
 | 2023-02-11 | 1279 | 49 | 
 | 2023-02-10 | 1279 | 49 | 
-| 2023-02-09 | 1279 | 49 | 
 

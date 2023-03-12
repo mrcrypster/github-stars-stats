@@ -1,8 +1,8 @@
 # algorand/go-algorand - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 389
+☋ Forks: 390
 
 ★ Stars: 1218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1218 | 390 | 
 | 2023-03-10 | 1218 | 389 | 
 | 2023-03-09 | 1219 | 389 | 
 | 2023-03-07 | 1218 | 388 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1211 | 385 | 
 | 2023-02-11 | 1210 | 385 | 
 | 2023-02-10 | 1209 | 385 | 
-| 2023-02-09 | 1209 | 385 | 
 

@@ -1,6 +1,6 @@
 # ankitpareek0141/Favorite-OTT-characters - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 18 | 106 | 
 | 2023-03-10 | 18 | 106 | 
 | 2023-03-09 | 18 | 106 | 
 | 2023-03-07 | 18 | 107 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 19 | 108 | 
 | 2023-02-11 | 19 | 108 | 
 | 2023-02-10 | 19 | 108 | 
-| 2023-02-09 | 19 | 108 | 
 

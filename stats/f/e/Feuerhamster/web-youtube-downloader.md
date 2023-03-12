@@ -1,6 +1,6 @@
 # Feuerhamster/web-youtube-downloader - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 31 | 18 | 
 | 2023-03-10 | 31 | 18 | 
 | 2023-03-09 | 31 | 18 | 
 | 2023-03-07 | 31 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 29 | 17 | 
 | 2023-02-11 | 28 | 17 | 
 | 2023-02-10 | 28 | 17 | 
-| 2023-02-09 | 27 | 17 | 
 

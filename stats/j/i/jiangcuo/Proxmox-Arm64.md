@@ -1,10 +1,10 @@
 # jiangcuo/Proxmox-Arm64 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 50
+★ Stars: 54
 
 [Open repository](https://github.com/jiangcuo/Proxmox-Arm64)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 54 | 4 | 
 | 2023-03-10 | 50 | 4 | 
 | 2023-03-08 | 49 | 4 | 
 | 2023-03-07 | 48 | 4 | 

@@ -1,6 +1,6 @@
 # jianastrero/hogwarts-legacy-save-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 31 | 1 | 
 | 2023-03-10 | 31 | 1 | 
 | 2023-03-08 | 32 | 1 | 
 | 2023-03-07 | 31 | 1 | 

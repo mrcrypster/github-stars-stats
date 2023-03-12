@@ -1,6 +1,6 @@
 # ovotech/ring-jwt - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 46 | 13 | 
 | 2023-03-10 | 46 | 13 | 
 | 2023-03-09 | 46 | 13 | 
 | 2023-03-08 | 46 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 46 | 13 | 
 | 2023-02-11 | 46 | 13 | 
 | 2023-02-10 | 46 | 13 | 
-| 2023-02-09 | 46 | 13 | 
 

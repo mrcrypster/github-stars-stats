@@ -1,10 +1,10 @@
 # diagrams/diagrams-core - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 42
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/diagrams/diagrams-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 86 | 42 | 
 | 2023-03-10 | 85 | 42 | 
 | 2023-03-09 | 85 | 42 | 
 | 2023-03-08 | 85 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 81 | 41 | 
 | 2023-02-11 | 81 | 41 | 
 | 2023-02-10 | 81 | 41 | 
-| 2023-02-09 | 81 | 41 | 
 

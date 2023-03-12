@@ -1,10 +1,10 @@
 # juicycleff/flutter-unity-view-widget - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 421
 
-★ Stars: 1774
+★ Stars: 1775
 
 [Open repository](https://github.com/juicycleff/flutter-unity-view-widget)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1775 | 421 | 
 | 2023-03-09 | 1774 | 421 | 
 | 2023-03-08 | 1773 | 421 | 
 | 2023-03-07 | 1771 | 421 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 1744 | 415 | 
 | 2023-02-11 | 1744 | 416 | 
 | 2023-02-10 | 1742 | 416 | 
-| 2023-02-09 | 1740 | 416 | 
 

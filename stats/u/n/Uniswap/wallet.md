@@ -1,10 +1,10 @@
 # Uniswap/wallet - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 35
 
-★ Stars: 405
+★ Stars: 410
 
 [Open repository](https://github.com/Uniswap/wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 410 | 35 | 
 | 2023-03-10 | 405 | 35 | 
 | 2023-03-08 | 396 | 33 | 
 | 2023-03-07 | 376 | 29 | 

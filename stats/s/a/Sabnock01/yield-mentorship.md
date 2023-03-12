@@ -1,10 +1,10 @@
 # Sabnock01/yield-mentorship - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Sabnock01/yield-mentorship)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 24 | - | 
 | 2023-03-09 | 23 | - | 
 | 2023-03-08 | 23 | - | 
 | 2023-03-07 | 23 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 23 | - | 
 | 2023-02-11 | 23 | - | 
 | 2023-02-10 | 23 | - | 
-| 2023-02-09 | 23 | - | 
 

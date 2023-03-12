@@ -1,10 +1,10 @@
 # fraserxu/book-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 131
+★ Stars: 136
 
 [Open repository](https://github.com/fraserxu/book-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 136 | 19 | 
 | 2023-03-10 | 131 | 18 | 
 | 2023-03-08 | 121 | 18 | 
 | 2023-03-07 | 102 | 14 | 

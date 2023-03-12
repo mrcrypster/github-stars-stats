@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 11
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 271
+★ Stars: 278
 
 [Open repository](https://github.com/Berkanktk/CyberSecurity)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 271 | 12 | 
+| 2023-03-11 | 278 | 13 | 
 | 2023-03-10 | 260 | 11 | 
 

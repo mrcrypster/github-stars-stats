@@ -1,10 +1,10 @@
 # ziglang/zig - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 1537
+☋ Forks: 1538
 
-★ Stars: 20347
+★ Stars: 20382
 
 [Open repository](https://github.com/ziglang/zig)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 20382 | 1538 | 
 | 2023-03-10 | 20347 | 1537 | 
 | 2023-03-09 | 20302 | 1530 | 
 | 2023-03-08 | 20270 | 1529 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 19913 | 1508 | 
 | 2023-02-11 | 19897 | 1506 | 
 | 2023-02-10 | 19871 | 1503 | 
-| 2023-02-09 | 19860 | 1503 | 
 

@@ -1,10 +1,10 @@
 # ranjithshegde/ccls.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/ranjithshegde/ccls.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 40 | 1 | 
 | 2023-03-09 | 39 | 1 | 
 | 2023-03-08 | 39 | 1 | 
 | 2023-03-07 | 39 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 37 | 1 | 
 | 2023-02-11 | 37 | 1 | 
 | 2023-02-10 | 37 | 1 | 
-| 2023-02-09 | 37 | 1 | 
 

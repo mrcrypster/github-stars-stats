@@ -1,10 +1,10 @@
 # driesvints/laravel-lemon-squeezy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 60
+★ Stars: 62
 
 [Open repository](https://github.com/driesvints/laravel-lemon-squeezy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 62 | 1 | 
 | 2023-03-10 | 60 | 1 | 
 | 2023-03-09 | 59 | 1 | 
 | 2023-03-07 | 58 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 52 | - | 
 | 2023-02-11 | 52 | - | 
 | 2023-02-10 | 51 | - | 
-| 2023-02-09 | 51 | - | 
 

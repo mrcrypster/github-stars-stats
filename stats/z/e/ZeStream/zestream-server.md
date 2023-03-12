@@ -1,8 +1,8 @@
 # ZeStream/zestream-server - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 35
+☋ Forks: 34
 
 ★ Stars: 136
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 136 | 34 | 
 | 2023-03-10 | 136 | 35 | 
 | 2023-03-09 | 136 | 35 | 
 | 2023-03-07 | 136 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 135 | 35 | 
 | 2023-02-11 | 135 | 35 | 
 | 2023-02-10 | 135 | 35 | 
-| 2023-02-09 | 135 | 35 | 
 

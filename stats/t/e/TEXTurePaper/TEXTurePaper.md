@@ -1,10 +1,10 @@
 # TEXTurePaper/TEXTurePaper - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 293
+★ Stars: 296
 
 [Open repository](https://github.com/TEXTurePaper/TEXTurePaper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 296 | 18 | 
 | 2023-03-10 | 293 | 18 | 
 | 2023-03-08 | 293 | 18 | 
 | 2023-03-07 | 290 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 237 | 7 | 
 | 2023-02-11 | 234 | 7 | 
 | 2023-02-10 | 227 | 6 | 
-| 2023-02-09 | 209 | 6 | 
 

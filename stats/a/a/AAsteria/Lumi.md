@@ -1,6 +1,6 @@
 # AAsteria/Lumi - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 52 | 1 | 
 | 2023-03-10 | 52 | 1 | 
 | 2023-03-09 | 50 | 1 | 
 | 2023-03-08 | 45 | 1 | 

@@ -1,10 +1,10 @@
 # ocaml/ocaml - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 987
 
-★ Stars: 4314
+★ Stars: 4316
 
 [Open repository](https://github.com/ocaml/ocaml)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4316 | 987 | 
 | 2023-03-10 | 4314 | 987 | 
 | 2023-03-09 | 4310 | 989 | 
 | 2023-03-08 | 4309 | 989 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 4272 | 958 | 
 | 2023-02-11 | 4271 | 958 | 
 | 2023-02-10 | 4269 | 957 | 
-| 2023-02-09 | 4266 | 957 | 
 

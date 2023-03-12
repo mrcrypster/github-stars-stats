@@ -1,6 +1,6 @@
 # ekscrypto/Base64 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 48
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 165 | 48 | 
+| 2023-03-11 | 165 | 48 | 
 | 2023-03-10 | 165 | 48 | 
 | 2023-03-09 | 165 | 48 | 
 | 2023-03-07 | 165 | 48 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 164 | 48 | 
 | 2023-02-11 | 164 | 48 | 
 | 2023-02-10 | 164 | 48 | 
-| 2023-02-09 | 164 | 48 | 
 

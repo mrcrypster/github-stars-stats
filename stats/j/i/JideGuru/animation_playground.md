@@ -1,10 +1,10 @@
 # JideGuru/animation_playground - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/JideGuru/animation_playground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 109 | 8 | 
 | 2023-03-10 | 108 | 8 | 
 | 2023-03-09 | 106 | 8 | 
 | 2023-03-08 | 105 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 89 | 5 | 
 | 2023-02-11 | 89 | 5 | 
 | 2023-02-10 | 89 | 5 | 
-| 2023-02-09 | 89 | 5 | 
 

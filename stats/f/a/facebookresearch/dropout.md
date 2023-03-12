@@ -1,10 +1,10 @@
 # facebookresearch/dropout - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 13
 
-★ Stars: 239
+★ Stars: 250
 
 [Open repository](https://github.com/facebookresearch/dropout)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 250 | 13 | 
 | 2023-03-09 | 239 | 13 | 
 | 2023-03-08 | 232 | 13 | 
 | 2023-03-07 | 220 | 12 | 

@@ -1,10 +1,10 @@
 # MysteryVaibhav/leetcode_company_wise_questions - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 2417
+☋ Forks: 2418
 
-★ Stars: 6461
+★ Stars: 6463
 
 [Open repository](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6463 | 2418 | 
 | 2023-03-10 | 6461 | 2417 | 
 | 2023-03-09 | 6461 | 2417 | 
 | 2023-03-07 | 6460 | 2417 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 6439 | 2407 | 
 | 2023-02-11 | 6436 | 2405 | 
 | 2023-02-10 | 6436 | 2405 | 
-| 2023-02-09 | 6432 | 2403 | 
 

@@ -1,6 +1,6 @@
 # Tarmslitaren/FrosthavenAssistant - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 98 | 12 | 
 | 2023-03-10 | 98 | 12 | 
 | 2023-03-08 | 98 | 11 | 
 | 2023-03-07 | 98 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 80 | 9 | 
 | 2023-02-11 | 79 | 9 | 
 | 2023-02-10 | 77 | 8 | 
-| 2023-02-09 | 74 | 8 | 
 

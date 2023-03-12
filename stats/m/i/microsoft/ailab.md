@@ -1,10 +1,10 @@
 # microsoft/ailab - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1363
 
-★ Stars: 7273
+★ Stars: 7274
 
 [Open repository](https://github.com/microsoft/ailab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 7274 | 1363 | 
 | 2023-03-10 | 7273 | 1363 | 
 | 2023-03-09 | 7271 | 1362 | 
 | 2023-03-07 | 7270 | 1362 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 7234 | 1356 | 
 | 2023-02-12 | 7233 | 1356 | 
 | 2023-02-10 | 7232 | 1356 | 
-| 2023-02-09 | 7233 | 1356 | 
 

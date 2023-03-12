@@ -1,6 +1,6 @@
 # vijoh01/fe22-vh-slutprojekt-grupp-6 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | - | 14 | 
 | 2023-03-10 | - | 14 | 
 | 2023-03-09 | - | 14 | 
 | 2023-03-08 | - | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | - | 14 | 
 | 2023-02-11 | - | 14 | 
 | 2023-02-10 | - | 14 | 
-| 2023-02-09 | - | 14 | 
 

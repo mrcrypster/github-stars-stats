@@ -1,6 +1,6 @@
 # argosopentech/Conquest - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 62 | 2 | 
 | 2023-03-10 | 62 | 2 | 
 | 2023-03-08 | 62 | 2 | 
 | 2023-03-07 | 62 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 61 | 3 | 
 | 2023-02-11 | 61 | 3 | 
 | 2023-02-10 | 61 | 3 | 
-| 2023-02-09 | 61 | 3 | 
 

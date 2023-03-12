@@ -1,6 +1,6 @@
 # PacktPublishing/The-Machine-Learning-Solutions-Architect-Handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 93 | 30 | 
 | 2023-03-10 | 93 | 30 | 
 | 2023-03-08 | 93 | 30 | 
 | 2023-03-07 | 93 | 30 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 89 | 30 | 
 | 2023-02-11 | 89 | 30 | 
 | 2023-02-10 | 89 | 30 | 
-| 2023-02-09 | 89 | 30 | 
 

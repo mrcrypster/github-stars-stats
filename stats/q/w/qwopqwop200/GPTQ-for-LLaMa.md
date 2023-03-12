@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 11
 
-☋ Forks: 21
+☋ Forks: 28
 
-★ Stars: 238
+★ Stars: 285
 
 [Open repository](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 238 | 21 | 
+| 2023-03-11 | 285 | 28 | 
 | 2023-03-10 | 211 | 19 | 
 

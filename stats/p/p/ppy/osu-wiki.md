@@ -1,10 +1,10 @@
 # ppy/osu-wiki - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 967
+☋ Forks: 968
 
-★ Stars: 378
+★ Stars: 379
 
 [Open repository](https://github.com/ppy/osu-wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 379 | 968 | 
 | 2023-03-10 | 378 | 967 | 
 | 2023-03-09 | 378 | 967 | 
 | 2023-03-08 | 379 | 968 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 376 | 963 | 
 | 2023-02-11 | 376 | 962 | 
 | 2023-02-10 | 374 | 960 | 
-| 2023-02-09 | 374 | 959 | 
 

@@ -1,10 +1,10 @@
 # tokyo-metropolitan-gov/covid19 - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2046
 
-★ Stars: 6348
+★ Stars: 6346
 
 [Open repository](https://github.com/tokyo-metropolitan-gov/covid19)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 6346 | 2046 | 
 | 2023-03-09 | 6348 | 2046 | 
 | 2023-03-08 | 6349 | 2046 | 
 | 2023-03-07 | 6351 | 2046 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 6360 | 2052 | 
 | 2023-02-11 | 6359 | 2051 | 
 | 2023-02-10 | 6359 | 2051 | 
-| 2023-02-09 | 6361 | 2052 | 
 

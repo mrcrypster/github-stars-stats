@@ -1,10 +1,10 @@
 # goldbergyoni/nodebestpractices - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 9016
+☋ Forks: 9015
 
-★ Stars: 86977
+★ Stars: 86995
 
 [Open repository](https://github.com/goldbergyoni/nodebestpractices)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 86995 | 9015 | 
 | 2023-03-10 | 86977 | 9016 | 
 | 2023-03-09 | 86967 | 9013 | 
 | 2023-03-08 | 86926 | 9008 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 86409 | 8943 | 
 | 2023-02-11 | 86383 | 8940 | 
 | 2023-02-10 | 86341 | 8935 | 
-| 2023-02-09 | 86311 | 8926 | 
 

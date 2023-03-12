@@ -1,6 +1,6 @@
 # flycheck/flycheck - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 439
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2273 | 439 | 
 | 2023-03-10 | 2273 | 439 | 
 | 2023-03-09 | 2273 | 439 | 
 | 2023-03-08 | 2272 | 439 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2267 | 439 | 
 | 2023-02-11 | 2267 | 439 | 
 | 2023-02-10 | 2266 | 439 | 
-| 2023-02-09 | 2268 | 439 | 
 

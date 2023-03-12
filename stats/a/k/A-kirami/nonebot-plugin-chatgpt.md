@@ -1,10 +1,10 @@
 # A-kirami/nonebot-plugin-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 283
+★ Stars: 285
 
 [Open repository](https://github.com/A-kirami/nonebot-plugin-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 285 | 33 | 
 | 2023-03-10 | 283 | 33 | 
 | 2023-03-09 | 283 | 32 | 
 | 2023-03-07 | 280 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 228 | 28 | 
 | 2023-02-12 | 226 | 28 | 
 | 2023-02-10 | 218 | 27 | 
-| 2023-02-09 | 215 | 27 | 
 

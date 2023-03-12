@@ -1,6 +1,6 @@
 # nmajor25/companies-hiring-remote-devs - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 183 | 12 | 
 | 2023-03-10 | 183 | 12 | 
 | 2023-03-09 | 183 | 12 | 
 | 2023-03-08 | 183 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 181 | 12 | 
 | 2023-02-12 | 180 | 12 | 
 | 2023-02-11 | 180 | 12 | 
-| 2023-02-09 | 180 | 12 | 
 

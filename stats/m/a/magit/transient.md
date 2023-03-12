@@ -1,10 +1,10 @@
 # magit/transient - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 54
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/magit/transient)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 488 | 54 | 
 | 2023-03-09 | 487 | 54 | 
 | 2023-03-08 | 487 | 54 | 
 | 2023-03-07 | 486 | 54 | 

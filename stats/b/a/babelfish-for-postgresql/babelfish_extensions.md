@@ -1,6 +1,6 @@
 # babelfish-for-postgresql/babelfish_extensions - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 221 | 66 | 
 | 2023-03-10 | 221 | 66 | 
 | 2023-03-08 | 220 | 66 | 
 | 2023-03-07 | 220 | 66 | 

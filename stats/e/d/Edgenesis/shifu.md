@@ -1,10 +1,10 @@
 # Edgenesis/shifu - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 53
 
-★ Stars: 777
+★ Stars: 782
 
 [Open repository](https://github.com/Edgenesis/shifu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 782 | 53 | 
 | 2023-03-09 | 777 | 53 | 
 | 2023-03-08 | 769 | 52 | 
 | 2023-03-06 | 763 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 598 | 40 | 
 | 2023-02-12 | 597 | 40 | 
 | 2023-02-11 | 597 | 40 | 
-| 2023-02-09 | 592 | 39 | 
 

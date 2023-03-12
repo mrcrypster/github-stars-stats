@@ -1,10 +1,10 @@
 # kiminzajnr/alx-system_engineering-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/kiminzajnr/alx-system_engineering-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 14 | 51 | 
 | 2023-03-10 | 13 | 50 | 
 | 2023-03-08 | 12 | 50 | 
 | 2023-03-07 | 12 | 50 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 12 | 50 | 
 | 2023-02-11 | 12 | 50 | 
 | 2023-02-10 | 11 | 50 | 
-| 2023-02-09 | 11 | 47 | 
 

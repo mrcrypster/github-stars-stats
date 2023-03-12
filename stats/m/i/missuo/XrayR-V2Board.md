@@ -1,10 +1,10 @@
 # missuo/XrayR-V2Board - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 420
+☋ Forks: 423
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/missuo/XrayR-V2Board)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 273 | 423 | 
 | 2023-03-10 | 272 | 420 | 
 | 2023-03-09 | 272 | 420 | 
 | 2023-03-08 | 270 | 418 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 259 | 407 | 
 | 2023-02-12 | 259 | 407 | 
 | 2023-02-10 | 259 | 407 | 
-| 2023-02-09 | 258 | 407 | 
 

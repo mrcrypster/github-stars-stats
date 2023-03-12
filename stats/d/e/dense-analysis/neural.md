@@ -1,10 +1,10 @@
 # dense-analysis/neural - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/dense-analysis/neural)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 209 | 5 | 
 | 2023-03-10 | 208 | 5 | 
 | 2023-03-09 | 206 | 5 | 
 | 2023-03-07 | 200 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 127 | 4 | 
 | 2023-02-11 | 127 | 4 | 
 | 2023-02-10 | 126 | 4 | 
-| 2023-02-09 | 125 | 4 | 
 

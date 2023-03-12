@@ -1,10 +1,10 @@
 # WangXuan95/USTC-RVSoC - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 58
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/WangXuan95/USTC-RVSoC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 229 | 58 | 
 | 2023-03-09 | 228 | 58 | 
 | 2023-03-08 | 228 | 58 | 
 | 2023-03-06 | 229 | 58 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 228 | 56 | 
 | 2023-02-12 | 228 | 56 | 
 | 2023-02-11 | 228 | 56 | 
-| 2023-02-09 | 228 | 56 | 
 

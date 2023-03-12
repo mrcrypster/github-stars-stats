@@ -1,10 +1,10 @@
 # testing-library/jest-dom - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 317
 
-★ Stars: 3829
+★ Stars: 3830
 
 [Open repository](https://github.com/testing-library/jest-dom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3830 | 317 | 
 | 2023-03-10 | 3829 | 317 | 
 | 2023-03-09 | 3824 | 317 | 
 | 2023-03-07 | 3823 | 317 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 3776 | 313 | 
 | 2023-02-11 | 3776 | 313 | 
 | 2023-02-10 | 3773 | 313 | 
-| 2023-02-09 | 3773 | 313 | 
 

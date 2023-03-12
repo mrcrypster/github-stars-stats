@@ -1,10 +1,10 @@
 # kohya-ss/sd-webui-additional-networks - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 78
+☋ Forks: 81
 
-★ Stars: 522
+★ Stars: 536
 
 [Open repository](https://github.com/kohya-ss/sd-webui-additional-networks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 536 | 81 | 
 | 2023-03-10 | 522 | 78 | 
 | 2023-03-08 | 510 | 73 | 
 | 2023-03-07 | 477 | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 208 | 28 | 
 | 2023-02-11 | 203 | 27 | 
 | 2023-02-10 | 197 | 26 | 
-| 2023-02-09 | 192 | 25 | 
 

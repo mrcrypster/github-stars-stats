@@ -1,6 +1,6 @@
 # rejeep/drag-stuff.el - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 207 | 11 | 
 | 2023-03-10 | 207 | 11 | 
 | 2023-03-09 | 207 | 11 | 
 | 2023-03-07 | 207 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 207 | 11 | 
 | 2023-02-12 | 207 | 10 | 
 | 2023-02-10 | 207 | 10 | 
-| 2023-02-09 | 207 | 10 | 
 

@@ -1,10 +1,10 @@
 # vscode-icons/vscode-icons - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 847
+☋ Forks: 848
 
-★ Stars: 3879
+★ Stars: 3883
 
 [Open repository](https://github.com/vscode-icons/vscode-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3883 | 848 | 
 | 2023-03-09 | 3879 | 847 | 
 | 2023-03-08 | 3876 | 847 | 
 | 2023-03-06 | 3875 | 847 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 3843 | 836 | 
 | 2023-02-11 | 3841 | 835 | 
 | 2023-02-10 | 3841 | 835 | 
-| 2023-02-09 | 3838 | 835 | 
 

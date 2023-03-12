@@ -1,6 +1,6 @@
 # stevekm/nextflow-demos - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 77 | 22 | 
 | 2023-03-10 | 77 | 22 | 
 | 2023-03-09 | 77 | 22 | 
 | 2023-03-08 | 76 | 22 | 

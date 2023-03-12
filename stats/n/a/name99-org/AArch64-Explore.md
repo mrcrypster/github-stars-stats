@@ -1,10 +1,10 @@
 # name99-org/AArch64-Explore - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 9
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/name99-org/AArch64-Explore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 79 | 9 | 
 | 2023-03-10 | 78 | 9 | 
 | 2023-03-08 | 78 | 9 | 
 | 2023-03-07 | 78 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 75 | 8 | 
 | 2023-02-11 | 75 | 8 | 
 | 2023-02-10 | 75 | 8 | 
-| 2023-02-09 | 75 | 8 | 
 

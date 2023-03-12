@@ -1,6 +1,6 @@
 # Roaa94/flutter-theme-switcher - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 26 | 5 | 
 | 2023-03-09 | 26 | 5 | 
 | 2023-03-08 | 26 | 5 | 
 | 2023-03-07 | 26 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 25 | 5 | 
 | 2023-02-11 | 25 | 5 | 
 | 2023-02-10 | 25 | 5 | 
-| 2023-02-09 | 25 | 5 | 
 

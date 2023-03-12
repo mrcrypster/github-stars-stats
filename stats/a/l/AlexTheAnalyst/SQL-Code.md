@@ -1,10 +1,10 @@
 # AlexTheAnalyst/SQL-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 157
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/AlexTheAnalyst/SQL-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 281 | 157 | 
 | 2023-03-10 | 280 | 157 | 
 | 2023-03-09 | 276 | 156 | 
 | 2023-03-08 | 276 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 232 | 137 | 
 | 2023-02-11 | 232 | 136 | 
 | 2023-02-10 | 231 | 136 | 
-| 2023-02-09 | 231 | 135 | 
 

@@ -1,6 +1,6 @@
 # lawnjelly/smoothing-addon - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 275 | 24 | 
 | 2023-03-10 | 275 | 24 | 
 | 2023-03-09 | 275 | 24 | 
 | 2023-03-08 | 273 | 24 | 

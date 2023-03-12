@@ -1,10 +1,10 @@
 # tovacinni/sdf-explorer - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/tovacinni/sdf-explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 184 | 8 | 
 | 2023-03-10 | 183 | 8 | 
 | 2023-03-09 | 183 | 8 | 
 | 2023-03-07 | 183 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 180 | 8 | 
 | 2023-02-11 | 180 | 8 | 
 | 2023-02-10 | 180 | 8 | 
-| 2023-02-09 | 180 | 8 | 
 

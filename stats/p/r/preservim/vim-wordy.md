@@ -1,6 +1,6 @@
 # preservim/vim-wordy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 707 | 20 | 
 | 2023-03-10 | 707 | 20 | 
 | 2023-03-08 | 707 | 20 | 
 | 2023-03-07 | 707 | 20 | 

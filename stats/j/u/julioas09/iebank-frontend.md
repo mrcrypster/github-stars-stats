@@ -1,6 +1,6 @@
 # julioas09/iebank-frontend - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | - | 12 | 
 | 2023-03-10 | - | 12 | 
 | 2023-03-09 | - | 12 | 
 | 2023-03-07 | - | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | - | 13 | 
 | 2023-02-11 | - | 13 | 
 | 2023-02-10 | - | 13 | 
-| 2023-02-09 | - | 13 | 
 

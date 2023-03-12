@@ -1,10 +1,10 @@
 # chenyuntc/simple-faster-rcnn-pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 1132
 
-★ Stars: 3731
+★ Stars: 3733
 
 [Open repository](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3733 | 1132 | 
 | 2023-03-10 | 3731 | 1132 | 
 | 2023-03-09 | 3730 | 1132 | 
 | 2023-03-08 | 3728 | 1131 | 

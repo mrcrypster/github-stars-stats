@@ -1,10 +1,10 @@
 # weppos/publicsuffix-ruby - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 110
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/weppos/publicsuffix-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 562 | 110 | 
 | 2023-03-10 | 561 | 110 | 
 | 2023-03-09 | 561 | 110 | 
 | 2023-03-08 | 560 | 110 | 

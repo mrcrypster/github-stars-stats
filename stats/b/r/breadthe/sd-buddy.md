@@ -1,8 +1,8 @@
 # breadthe/sd-buddy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 244
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 244 | 15 | 
 | 2023-03-10 | 244 | 14 | 
 | 2023-03-09 | 244 | 14 | 
 | 2023-03-07 | 242 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 241 | 13 | 
 | 2023-02-11 | 240 | 13 | 
 | 2023-02-10 | 240 | 13 | 
-| 2023-02-09 | 238 | 13 | 
 

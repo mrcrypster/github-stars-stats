@@ -1,10 +1,10 @@
 # rockthejvm/zio-course - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/rockthejvm/zio-course)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 38 | 35 | 
 | 2023-03-10 | 37 | 34 | 
 | 2023-03-08 | 37 | 34 | 
 | 2023-03-06 | 37 | 34 | 

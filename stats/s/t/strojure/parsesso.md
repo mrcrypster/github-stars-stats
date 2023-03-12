@@ -1,10 +1,10 @@
 # strojure/parsesso - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/strojure/parsesso)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 41 | 2 | 
 | 2023-03-09 | 40 | 2 | 
 | 2023-03-08 | 39 | 2 | 
 | 2023-03-07 | 39 | 2 | 

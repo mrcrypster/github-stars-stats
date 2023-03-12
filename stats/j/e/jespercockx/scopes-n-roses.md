@@ -1,0 +1,17 @@
+# jespercockx/scopes-n-roses - stars & forks statistics
+
+Stats updated on Mar 2023, 11
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/jespercockx/scopes-n-roses)
+
+[Open detailed stats for jespercockx/scopes-n-roses](https://reviewgithub.com/rep/jespercockx/scopes-n-roses)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-11 | 2 | - | 
+

@@ -1,6 +1,6 @@
 # luxdefi/standard - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 9 | 159 | 
 | 2023-03-10 | 9 | 159 | 
 | 2023-03-09 | 9 | 159 | 
 | 2023-03-07 | 9 | 159 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 13 | 160 | 
 | 2023-02-12 | 13 | 160 | 
 | 2023-02-10 | 13 | 160 | 
-| 2023-02-09 | 14 | 159 | 
 

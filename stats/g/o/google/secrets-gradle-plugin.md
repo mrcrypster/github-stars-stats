@@ -1,10 +1,10 @@
 # google/secrets-gradle-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 618
+★ Stars: 619
 
 [Open repository](https://github.com/google/secrets-gradle-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 619 | 52 | 
 | 2023-03-10 | 618 | 51 | 
 | 2023-03-08 | 616 | 51 | 
 | 2023-03-07 | 615 | 51 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 602 | 50 | 
 | 2023-02-11 | 602 | 50 | 
 | 2023-02-10 | 600 | 50 | 
-| 2023-02-09 | 598 | 50 | 
 

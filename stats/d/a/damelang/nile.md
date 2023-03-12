@@ -1,10 +1,10 @@
 # damelang/nile - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 52
 
-★ Stars: 694
+★ Stars: 695
 
 [Open repository](https://github.com/damelang/nile)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 695 | 52 | 
 | 2023-03-09 | 694 | 52 | 
 | 2023-03-08 | 694 | 52 | 
 | 2023-03-06 | 694 | 52 | 

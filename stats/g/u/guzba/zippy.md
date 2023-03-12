@@ -1,10 +1,10 @@
 # guzba/zippy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/guzba/zippy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 206 | 21 | 
 | 2023-03-10 | 205 | 21 | 
 | 2023-03-09 | 204 | 21 | 
 | 2023-03-07 | 204 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 201 | 20 | 
 | 2023-02-12 | 201 | 20 | 
 | 2023-02-11 | 201 | 20 | 
-| 2023-02-09 | 201 | 20 | 
 

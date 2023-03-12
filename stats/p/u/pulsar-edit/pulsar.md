@@ -1,10 +1,10 @@
 # pulsar-edit/pulsar - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 68
 
-★ Stars: 1687
+★ Stars: 1693
 
 [Open repository](https://github.com/pulsar-edit/pulsar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1693 | 68 | 
 | 2023-03-09 | 1687 | 68 | 
 | 2023-03-08 | 1680 | 67 | 
 | 2023-03-07 | 1665 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 1296 | 54 | 
 | 2023-02-11 | 1287 | 54 | 
 | 2023-02-10 | 1286 | 54 | 
-| 2023-02-09 | 1286 | 54 | 
 

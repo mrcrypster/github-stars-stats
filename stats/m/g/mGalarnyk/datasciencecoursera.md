@@ -1,10 +1,10 @@
 # mGalarnyk/datasciencecoursera - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 2076
+☋ Forks: 2075
 
-★ Stars: 2127
+★ Stars: 2126
 
 [Open repository](https://github.com/mGalarnyk/datasciencecoursera)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2126 | 2075 | 
 | 2023-03-10 | 2127 | 2076 | 
 | 2023-03-09 | 2125 | 2075 | 
 | 2023-03-07 | 2125 | 2073 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2123 | 2066 | 
 | 2023-02-11 | 2123 | 2066 | 
 | 2023-02-10 | 2122 | 2064 | 
-| 2023-02-09 | 2120 | 2063 | 
 

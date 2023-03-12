@@ -1,6 +1,6 @@
 # artsy/Artsy-OSSUIFonts - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 17 | 9 | 
 | 2023-03-10 | 17 | 9 | 
 | 2023-03-08 | 17 | 9 | 
 | 2023-03-07 | 17 | 9 | 

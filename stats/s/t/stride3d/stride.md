@@ -1,10 +1,10 @@
 # stride3d/stride - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 738
 
-★ Stars: 4435
+★ Stars: 4437
 
 [Open repository](https://github.com/stride3d/stride)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 4437 | 738 | 
 | 2023-03-10 | 4435 | 738 | 
 | 2023-03-08 | 4430 | 736 | 
 | 2023-03-07 | 4424 | 736 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 4366 | 734 | 
 | 2023-02-11 | 4365 | 734 | 
 | 2023-02-10 | 4364 | 734 | 
-| 2023-02-09 | 4364 | 733 | 
 

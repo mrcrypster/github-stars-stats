@@ -1,6 +1,6 @@
 # komashchenko/sourcemod-plugins - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3 | 8 | 
 | 2023-03-09 | 3 | 8 | 
 | 2023-03-08 | 3 | 8 | 
 | 2023-03-07 | 3 | 8 | 

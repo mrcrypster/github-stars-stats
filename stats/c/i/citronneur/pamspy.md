@@ -1,6 +1,6 @@
 # citronneur/pamspy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1059 | 61 | 
 | 2023-03-10 | 1059 | 61 | 
 | 2023-03-08 | 1059 | 61 | 
 | 2023-03-07 | 1059 | 61 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 1053 | 59 | 
 | 2023-02-12 | 1053 | 59 | 
 | 2023-02-10 | 1053 | 59 | 
-| 2023-02-09 | 1052 | 59 | 
 

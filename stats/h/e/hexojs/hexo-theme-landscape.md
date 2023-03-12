@@ -1,6 +1,6 @@
 # hexojs/hexo-theme-landscape - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 373
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 294 | 373 | 
 | 2023-03-10 | 294 | 373 | 
 | 2023-03-08 | 294 | 373 | 
 | 2023-03-07 | 294 | 373 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 292 | 373 | 
 | 2023-02-11 | 292 | 373 | 
 | 2023-02-10 | 292 | 372 | 
-| 2023-02-09 | 292 | 372 | 
 

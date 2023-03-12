@@ -1,10 +1,10 @@
 # phenixdigital/phoenix_storybook - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 23
 
-★ Stars: 415
+★ Stars: 419
 
 [Open repository](https://github.com/phenixdigital/phoenix_storybook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 419 | 23 | 
 | 2023-03-10 | 415 | 23 | 
 | 2023-03-09 | 414 | 23 | 
 | 2023-03-08 | 412 | 22 | 

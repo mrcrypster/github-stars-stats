@@ -1,8 +1,8 @@
 # creativetimofficial/muse-vue-ant-design-dashboard - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 263
+☋ Forks: 264
 
 ★ Stars: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 194 | 264 | 
 | 2023-03-10 | 194 | 263 | 
 | 2023-03-09 | 194 | 263 | 
 | 2023-03-07 | 193 | 260 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 189 | 235 | 
 | 2023-02-11 | 189 | 234 | 
 | 2023-02-10 | 189 | 234 | 
-| 2023-02-09 | 189 | 231 | 
 

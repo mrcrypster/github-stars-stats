@@ -1,10 +1,10 @@
 # llsoftsec/llsoftsecbook - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 16
 
-★ Stars: 267
+★ Stars: 270
 
 [Open repository](https://github.com/llsoftsec/llsoftsecbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 270 | 16 | 
 | 2023-03-09 | 267 | 16 | 
 | 2023-03-08 | 266 | 16 | 
 | 2023-03-07 | 266 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 160 | 14 | 
 | 2023-02-11 | 160 | 14 | 
 | 2023-02-10 | 160 | 14 | 
-| 2023-02-09 | 160 | 14 | 
 

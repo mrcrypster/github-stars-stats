@@ -1,6 +1,6 @@
 # robertluo/fun-map - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 68 | 4 | 
 | 2023-03-10 | 68 | 4 | 
 | 2023-03-09 | 68 | 4 | 
 | 2023-03-07 | 67 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 65 | 4 | 
 | 2023-02-11 | 65 | 4 | 
 | 2023-02-10 | 65 | 4 | 
-| 2023-02-09 | 65 | 4 | 
 

@@ -1,6 +1,6 @@
 # Gnucash/gnucash - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 689
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2515 | 689 | 
 | 2023-03-09 | 2515 | 689 | 
 | 2023-03-08 | 2514 | 689 | 
 | 2023-03-06 | 2514 | 689 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 2490 | 686 | 
 | 2023-02-11 | 2489 | 686 | 
 | 2023-02-10 | 2487 | 685 | 
-| 2023-02-09 | 2486 | 685 | 
 

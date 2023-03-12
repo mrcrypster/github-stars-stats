@@ -1,6 +1,6 @@
 # rumboalla/apkupdater - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1466 | 149 | 
 | 2023-03-10 | 1466 | 149 | 
 | 2023-03-08 | 1466 | 150 | 
 | 2023-03-07 | 1466 | 149 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1453 | 149 | 
 | 2023-02-11 | 1453 | 149 | 
 | 2023-02-10 | 1451 | 149 | 
-| 2023-02-09 | 1451 | 149 | 
 

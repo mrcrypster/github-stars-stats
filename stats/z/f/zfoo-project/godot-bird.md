@@ -1,6 +1,6 @@
 # zfoo-project/godot-bird - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 18 | 15 | 
 | 2023-03-10 | 18 | 15 | 
 | 2023-03-08 | 18 | 15 | 
 | 2023-03-07 | 18 | 15 | 

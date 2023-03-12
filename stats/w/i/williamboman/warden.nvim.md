@@ -1,6 +1,6 @@
 # williamboman/warden.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 20 | - | 
 | 2023-03-10 | 20 | - | 
 | 2023-03-09 | 19 | - | 
 | 2023-03-08 | 19 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 18 | - | 
 | 2023-02-11 | 18 | - | 
 | 2023-02-10 | 17 | - | 
-| 2023-02-09 | 16 | - | 
 

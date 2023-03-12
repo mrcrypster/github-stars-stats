@@ -1,8 +1,8 @@
 # sidekiq/sidekiq - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 2289
+☋ Forks: 2291
 
 ★ Stars: 12366
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 12366 | 2291 | 
 | 2023-03-10 | 12366 | 2289 | 
 | 2023-03-09 | 12366 | 2289 | 
 | 2023-03-08 | 12363 | 2288 | 

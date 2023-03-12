@@ -1,10 +1,10 @@
 # d8ahazard/sd_dreambooth_extension - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 163
 
-★ Stars: 853
+★ Stars: 868
 
 [Open repository](https://github.com/d8ahazard/sd_dreambooth_extension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 868 | 163 | 
 | 2023-03-10 | 853 | 163 | 
 | 2023-03-08 | 850 | 161 | 
 | 2023-03-07 | 835 | 159 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 699 | 140 | 
 | 2023-02-12 | 691 | 138 | 
 | 2023-02-10 | 689 | 136 | 
-| 2023-02-09 | 686 | 132 | 
 

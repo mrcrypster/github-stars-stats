@@ -1,8 +1,8 @@
 # youssefHosni/Data-Science-Educational-Resoruces - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 186 | 44 | 
 | 2023-03-09 | 186 | 43 | 
 | 2023-03-08 | 185 | 43 | 
 | 2023-03-06 | 185 | 43 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-13 | 184 | 43 | 
 | 2023-02-12 | 184 | 43 | 
 | 2023-02-11 | 184 | 43 | 
-| 2023-02-09 | 184 | 43 | 
 

@@ -1,10 +1,10 @@
 # bbrumm/databasestar - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 61
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/bbrumm/databasestar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 56 | 61 | 
 | 2023-03-10 | 55 | 61 | 
 | 2023-03-08 | 53 | 61 | 
 | 2023-03-07 | 52 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 45 | 52 | 
 | 2023-02-11 | 45 | 52 | 
 | 2023-02-10 | 45 | 52 | 
-| 2023-02-09 | 44 | 52 | 
 

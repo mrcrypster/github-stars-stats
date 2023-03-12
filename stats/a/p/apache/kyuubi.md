@@ -1,10 +1,10 @@
 # apache/kyuubi - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 559
 
-★ Stars: 1525
+★ Stars: 1527
 
 [Open repository](https://github.com/apache/kyuubi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 1527 | 559 | 
 | 2023-03-10 | 1525 | 559 | 
 | 2023-03-09 | 1524 | 555 | 
 | 2023-03-08 | 1521 | 556 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 1476 | 538 | 
 | 2023-02-11 | 1476 | 538 | 
 | 2023-02-10 | 1476 | 536 | 
-| 2023-02-09 | 1476 | 537 | 
 

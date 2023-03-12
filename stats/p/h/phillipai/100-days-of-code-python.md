@@ -1,10 +1,10 @@
 # phillipai/100-days-of-code-python - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 123
+☋ Forks: 125
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/phillipai/100-days-of-code-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 219 | 125 | 
 | 2023-03-10 | 218 | 123 | 
 | 2023-03-08 | 218 | 122 | 
 | 2023-03-07 | 216 | 122 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 202 | 110 | 
 | 2023-02-11 | 201 | 110 | 
 | 2023-02-10 | 201 | 110 | 
-| 2023-02-09 | 199 | 110 | 
 

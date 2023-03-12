@@ -1,8 +1,8 @@
 # Bubberstation/Bubberstation - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 5 | 22 | 
 | 2023-03-09 | 5 | 21 | 
 | 2023-03-08 | 5 | 21 | 
 | 2023-03-07 | 5 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 3 | 13 | 
 | 2023-02-11 | 3 | 13 | 
 | 2023-02-10 | 3 | 13 | 
-| 2023-02-09 | 3 | 12 | 
 

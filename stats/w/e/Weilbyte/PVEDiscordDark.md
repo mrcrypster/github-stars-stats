@@ -1,10 +1,10 @@
 # Weilbyte/PVEDiscordDark - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
-☋ Forks: 235
+☋ Forks: 236
 
-★ Stars: 2414
+★ Stars: 2421
 
 [Open repository](https://github.com/Weilbyte/PVEDiscordDark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2421 | 236 | 
 | 2023-03-10 | 2414 | 235 | 
 | 2023-03-09 | 2410 | 233 | 
 | 2023-03-08 | 2404 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2326 | 224 | 
 | 2023-02-11 | 2323 | 223 | 
 | 2023-02-10 | 2319 | 221 | 
-| 2023-02-09 | 2319 | 220 | 
 

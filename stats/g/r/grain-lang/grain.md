@@ -1,6 +1,6 @@
 # grain-lang/grain - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 2833 | 111 | 
 | 2023-03-10 | 2833 | 111 | 
 | 2023-03-09 | 2830 | 111 | 
 | 2023-03-08 | 2830 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 2807 | 109 | 
 | 2023-02-11 | 2807 | 109 | 
 | 2023-02-10 | 2806 | 109 | 
-| 2023-02-09 | 2804 | 109 | 
 

@@ -1,6 +1,6 @@
 # epibug/epibug - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 20 | - | 
 | 2023-03-10 | 20 | - | 
 | 2023-03-09 | 20 | - | 
 | 2023-03-08 | 20 | - | 

@@ -1,10 +1,10 @@
 # the-nix-way/dev-templates - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/the-nix-way/dev-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 117 | 12 | 
 | 2023-03-10 | 116 | 12 | 
 | 2023-03-09 | 116 | 12 | 
 | 2023-03-07 | 116 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 101 | 10 | 
 | 2023-02-11 | 101 | 11 | 
 | 2023-02-10 | 101 | 11 | 
-| 2023-02-09 | 101 | 11 | 
 

@@ -1,10 +1,10 @@
 # dotnet/winforms - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 847
 
-★ Stars: 3776
+★ Stars: 3780
 
 [Open repository](https://github.com/dotnet/winforms)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 3780 | 847 | 
 | 2023-03-10 | 3776 | 847 | 
 | 2023-03-08 | 3774 | 846 | 
 | 2023-03-07 | 3773 | 845 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-12 | 3747 | 839 | 
 | 2023-02-11 | 3745 | 838 | 
 | 2023-02-10 | 3744 | 837 | 
-| 2023-02-09 | 3742 | 837 | 
 

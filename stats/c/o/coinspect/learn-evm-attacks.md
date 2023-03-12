@@ -1,10 +1,10 @@
 # coinspect/learn-evm-attacks - stars & forks statistics
 
-Stats updated on Mar 2023, 09
+Stats updated on Mar 2023, 11
 
 ☋ Forks: 84
 
-★ Stars: 738
+★ Stars: 739
 
 [Open repository](https://github.com/coinspect/learn-evm-attacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-11 | 739 | 84 | 
 | 2023-03-09 | 738 | 84 | 
 | 2023-03-08 | 736 | 84 | 
 | 2023-03-07 | 736 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 09
 | 2023-02-12 | 621 | 68 | 
 | 2023-02-11 | 612 | 68 | 
 | 2023-02-10 | 611 | 68 | 
-| 2023-02-09 | 610 | 66 | 
 

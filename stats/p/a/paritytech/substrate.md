@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 11
 
-☋ Forks: 2543
+☋ Forks: 2544
 
-★ Stars: 8015
+★ Stars: 8023
 
 [Open repository](https://github.com/paritytech/substrate)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-11 | 8015 | 2543 | 
+| 2023-03-11 | 8023 | 2544 | 
 | 2023-03-10 | 8014 | 2543 | 
 | 2023-03-09 | 8006 | 2540 | 
 | 2023-03-08 | 7972 | 2535 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-12 | 7899 | 2515 | 
 | 2023-02-11 | 7898 | 2515 | 
 | 2023-02-10 | 7898 | 2509 | 
-| 2023-02-09 | 7894 | 2508 | 
 
