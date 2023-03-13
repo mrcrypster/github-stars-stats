@@ -1,10 +1,10 @@
 # ImperialCollegeLondon/natural_number_game - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 69
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/ImperialCollegeLondon/natural_number_game)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 257 | 69 | 
 | 2023-03-10 | 256 | 69 | 
 | 2023-03-09 | 256 | 69 | 
 | 2023-03-08 | 255 | 69 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 251 | 68 | 
 | 2023-02-12 | 251 | 68 | 
 | 2023-02-11 | 251 | 68 | 
-| 2023-02-10 | 251 | 68 | 
 

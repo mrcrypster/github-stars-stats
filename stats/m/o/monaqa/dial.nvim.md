@@ -1,10 +1,10 @@
 # monaqa/dial.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 474
+★ Stars: 476
 
 [Open repository](https://github.com/monaqa/dial.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 476 | 6 | 
 | 2023-03-11 | 474 | 6 | 
 | 2023-03-10 | 472 | 6 | 
 | 2023-03-08 | 472 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 461 | 6 | 
 | 2023-02-12 | 461 | 6 | 
 | 2023-02-11 | 460 | 6 | 
-| 2023-02-10 | 460 | 6 | 
 

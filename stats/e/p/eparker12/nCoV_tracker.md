@@ -1,8 +1,8 @@
 # eparker12/nCoV_tracker - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 180
+☋ Forks: 181
 
 ★ Stars: 187
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 187 | 181 | 
 | 2023-03-11 | 187 | 180 | 
 | 2023-03-10 | 187 | 180 | 
 | 2023-03-09 | 187 | 179 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 186 | 179 | 
 | 2023-02-13 | 186 | 179 | 
 | 2023-02-12 | 186 | 179 | 
-| 2023-02-10 | 186 | 179 | 
 

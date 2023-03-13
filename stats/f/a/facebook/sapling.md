@@ -1,10 +1,10 @@
 # facebook/sapling - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 193
+☋ Forks: 192
 
-★ Stars: 4740
+★ Stars: 4743
 
 [Open repository](https://github.com/facebook/sapling)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4743 | 192 | 
 | 2023-03-11 | 4740 | 193 | 
 | 2023-03-09 | 4737 | 192 | 
 | 2023-03-08 | 4736 | 192 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 4696 | 186 | 
 | 2023-02-12 | 4695 | 186 | 
 | 2023-02-11 | 4692 | 185 | 
-| 2023-02-10 | 4690 | 183 | 
 

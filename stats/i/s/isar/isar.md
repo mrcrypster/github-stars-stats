@@ -1,6 +1,6 @@
 # isar/isar - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2306 | 182 | 
 | 2023-03-11 | 2306 | 182 | 
 | 2023-03-10 | 2302 | 182 | 
 | 2023-03-09 | 2294 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2205 | 176 | 
 | 2023-02-12 | 2200 | 176 | 
 | 2023-02-11 | 2196 | 175 | 
-| 2023-02-10 | 2196 | 175 | 
 

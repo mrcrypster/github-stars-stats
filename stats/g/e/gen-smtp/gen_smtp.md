@@ -1,6 +1,6 @@
 # gen-smtp/gen_smtp - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 638 | 260 | 
 | 2023-03-11 | 638 | 260 | 
 | 2023-03-09 | 637 | 260 | 
 | 2023-03-08 | 637 | 260 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 634 | 258 | 
 | 2023-02-12 | 634 | 258 | 
 | 2023-02-11 | 634 | 258 | 
-| 2023-02-10 | 633 | 258 | 
 

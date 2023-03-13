@@ -1,10 +1,10 @@
 # nvim-tree/nvim-tree.lua - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 527
+☋ Forks: 528
 
-★ Stars: 4537
+★ Stars: 4547
 
 [Open repository](https://github.com/nvim-tree/nvim-tree.lua)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4547 | 528 | 
+| 2023-03-12 | 4545 | 527 | 
 | 2023-03-11 | 4537 | 527 | 
 | 2023-03-10 | 4534 | 524 | 
 | 2023-03-09 | 4527 | 524 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4350 | 506 | 
 | 2023-02-13 | 4349 | 506 | 
 | 2023-02-12 | 4344 | 505 | 
-| 2023-02-10 | 4326 | 504 | 
 

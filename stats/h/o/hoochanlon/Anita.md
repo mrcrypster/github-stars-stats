@@ -1,10 +1,10 @@
 # hoochanlon/Anita - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1835
 
-★ Stars: 8070
+★ Stars: 8072
 
 [Open repository](https://github.com/hoochanlon/Anita)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 8072 | 1835 | 
 | 2023-03-11 | 8070 | 1835 | 
 | 2023-03-10 | 8066 | 1835 | 
 | 2023-03-09 | 8056 | 1835 | 

@@ -1,6 +1,6 @@
 # vim-scripts/taglist.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 266
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 645 | 266 | 
 | 2023-03-11 | 645 | 266 | 
 | 2023-03-10 | 645 | 266 | 
 | 2023-03-09 | 646 | 266 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 646 | 266 | 
 | 2023-02-12 | 646 | 266 | 
 | 2023-02-11 | 646 | 267 | 
-| 2023-02-10 | 646 | 267 | 
 

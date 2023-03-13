@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 12
 
 ☋ Forks: 714
 
-★ Stars: 1984
+★ Stars: 1983
 
 [Open repository](https://github.com/brave/brave-core)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-12 | 1984 | 714 | 
+| 2023-03-12 | 1983 | 714 | 
 | 2023-03-11 | 1983 | 715 | 
 | 2023-03-10 | 1982 | 715 | 
 | 2023-03-09 | 1979 | 714 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-13 | 1953 | 694 | 
 | 2023-02-12 | 1952 | 693 | 
 | 2023-02-11 | 1952 | 693 | 
-| 2023-02-10 | 1951 | 693 | 
 

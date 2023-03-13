@@ -1,10 +1,10 @@
 # reubenharry/haskell-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/reubenharry/haskell-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 49 | 6 | 
 | 2023-03-11 | 48 | 6 | 
 | 2023-03-09 | 48 | 6 | 
 | 2023-03-08 | 48 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 37 | 3 | 
 | 2023-02-12 | 37 | 3 | 
 | 2023-02-11 | 37 | 3 | 
-| 2023-02-10 | 37 | 3 | 
 

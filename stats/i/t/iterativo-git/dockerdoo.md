@@ -1,10 +1,10 @@
 # iterativo-git/dockerdoo - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 63
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/iterativo-git/dockerdoo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 70 | 63 | 
 | 2023-03-11 | 69 | 63 | 
 | 2023-03-10 | 69 | 62 | 
 | 2023-03-08 | 69 | 62 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 69 | 63 | 
 | 2023-02-12 | 69 | 63 | 
 | 2023-02-11 | 69 | 63 | 
-| 2023-02-10 | 69 | 63 | 
 

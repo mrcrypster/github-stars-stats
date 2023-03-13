@@ -1,10 +1,10 @@
 # chr233/ASFEnhance - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/chr233/ASFEnhance)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 244 | 27 | 
 | 2023-03-10 | 243 | 27 | 
 | 2023-03-09 | 243 | 27 | 
 | 2023-03-08 | 242 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 239 | 27 | 
 | 2023-02-12 | 239 | 27 | 
 | 2023-02-11 | 237 | 27 | 
-| 2023-02-10 | 237 | 27 | 
 

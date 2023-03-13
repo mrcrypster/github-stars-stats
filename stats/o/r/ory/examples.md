@@ -1,8 +1,8 @@
 # ory/examples - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 82 | 53 | 
 | 2023-03-10 | 82 | 52 | 
 | 2023-03-09 | 81 | 52 | 
 | 2023-03-08 | 81 | 51 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 78 | 47 | 
 | 2023-02-12 | 76 | 47 | 
 | 2023-02-11 | 76 | 47 | 
-| 2023-02-10 | 76 | 47 | 
 

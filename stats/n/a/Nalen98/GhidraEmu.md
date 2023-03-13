@@ -1,10 +1,10 @@
 # Nalen98/GhidraEmu - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 16
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/Nalen98/GhidraEmu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 218 | 16 | 
 | 2023-03-11 | 217 | 16 | 
 | 2023-03-09 | 215 | 16 | 
 | 2023-03-08 | 217 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 209 | 16 | 
 | 2023-02-12 | 209 | 16 | 
 | 2023-02-11 | 208 | 15 | 
-| 2023-02-10 | 207 | 15 | 
 

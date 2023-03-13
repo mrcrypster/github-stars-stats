@@ -1,10 +1,10 @@
 # fpinscala/fpinscala - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 2976
 
-★ Stars: 5513
+★ Stars: 5515
 
 [Open repository](https://github.com/fpinscala/fpinscala)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5515 | 2976 | 
 | 2023-03-11 | 5513 | 2976 | 
 | 2023-03-09 | 5513 | 2976 | 
 | 2023-03-08 | 5511 | 2975 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5505 | 2971 | 
 | 2023-02-12 | 5505 | 2971 | 
 | 2023-02-11 | 5504 | 2972 | 
-| 2023-02-10 | 5504 | 2972 | 
 

@@ -1,6 +1,6 @@
 # Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3277 | 381 | 
 | 2023-03-11 | 3277 | 381 | 
 | 2023-03-10 | 3276 | 381 | 
 | 2023-03-08 | 3272 | 380 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 3252 | 375 | 
 | 2023-02-12 | 3253 | 375 | 
 | 2023-02-11 | 3251 | 374 | 
-| 2023-02-10 | 3250 | 374 | 
 

@@ -1,10 +1,10 @@
 # ManiruzzamanAkash/LaraCMS - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 21
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/ManiruzzamanAkash/LaraCMS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 28 | 21 | 
 | 2023-03-11 | 27 | 21 | 
 | 2023-03-10 | 27 | 21 | 
 | 2023-03-08 | 27 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 25 | 19 | 
 | 2023-02-12 | 25 | 19 | 
 | 2023-02-11 | 25 | 19 | 
-| 2023-02-10 | 25 | 19 | 
 

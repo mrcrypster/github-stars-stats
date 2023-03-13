@@ -1,6 +1,6 @@
 # home-22/whatsapp_app - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 18 | 11 | 
 | 2023-03-11 | 18 | 11 | 
 | 2023-03-10 | 18 | 11 | 
 | 2023-03-08 | 18 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 18 | 11 | 
 | 2023-02-13 | 18 | 11 | 
 | 2023-02-12 | 18 | 11 | 
-| 2023-02-11 | 18 | 11 | 
 

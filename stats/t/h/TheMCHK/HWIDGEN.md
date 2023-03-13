@@ -1,6 +1,6 @@
 # TheMCHK/HWIDGEN - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 616 | 110 | 
 | 2023-03-11 | 616 | 110 | 
 | 2023-03-09 | 616 | 110 | 
 | 2023-03-08 | 616 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 610 | 110 | 
 | 2023-02-12 | 610 | 110 | 
 | 2023-02-11 | 610 | 110 | 
-| 2023-02-10 | 609 | 110 | 
 

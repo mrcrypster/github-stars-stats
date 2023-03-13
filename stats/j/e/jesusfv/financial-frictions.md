@@ -1,6 +1,6 @@
 # jesusfv/financial-frictions - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 61 | 42 | 
 | 2023-03-11 | 61 | 42 | 
 | 2023-03-09 | 61 | 42 | 
 | 2023-03-08 | 61 | 42 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 59 | 40 | 
 | 2023-02-12 | 59 | 40 | 
 | 2023-02-11 | 59 | 40 | 
-| 2023-02-10 | 59 | 40 | 
 

@@ -1,6 +1,6 @@
 # ifreund/zig-xkbcommon - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 12 | 4 | 
 | 2023-03-11 | 12 | 4 | 
 | 2023-03-10 | 12 | 4 | 
 | 2023-03-09 | 11 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 11 | 4 | 
 | 2023-02-12 | 11 | 4 | 
 | 2023-02-11 | 11 | 4 | 
-| 2023-02-10 | 11 | 4 | 
 

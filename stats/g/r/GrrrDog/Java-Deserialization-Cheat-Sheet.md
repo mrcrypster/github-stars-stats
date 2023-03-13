@@ -1,10 +1,10 @@
 # GrrrDog/Java-Deserialization-Cheat-Sheet - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 588
 
-★ Stars: 2742
+★ Stars: 2743
 
 [Open repository](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2743 | 588 | 
 | 2023-03-10 | 2742 | 588 | 
 | 2023-03-09 | 2740 | 588 | 
 | 2023-03-08 | 2740 | 588 | 

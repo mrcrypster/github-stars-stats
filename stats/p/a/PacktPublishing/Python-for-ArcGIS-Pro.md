@@ -1,6 +1,6 @@
 # PacktPublishing/Python-for-ArcGIS-Pro - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 106 | 37 | 
 | 2023-03-11 | 106 | 37 | 
 | 2023-03-10 | 106 | 37 | 
 | 2023-03-08 | 105 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 104 | 31 | 
 | 2023-02-12 | 104 | 31 | 
 | 2023-02-11 | 104 | 31 | 
-| 2023-02-10 | 104 | 31 | 
 

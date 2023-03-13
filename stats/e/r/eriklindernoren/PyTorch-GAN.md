@@ -1,10 +1,10 @@
 # eriklindernoren/PyTorch-GAN - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 3748
 
-★ Stars: 13722
+★ Stars: 13728
 
 [Open repository](https://github.com/eriklindernoren/PyTorch-GAN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 13728 | 3748 | 
 | 2023-03-11 | 13722 | 3748 | 
 | 2023-03-10 | 13719 | 3745 | 
 | 2023-03-08 | 13712 | 3743 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 13571 | 3725 | 
 | 2023-02-12 | 13568 | 3724 | 
 | 2023-02-11 | 13566 | 3725 | 
-| 2023-02-10 | 13559 | 3720 | 
 

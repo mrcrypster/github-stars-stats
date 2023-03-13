@@ -1,6 +1,6 @@
 # matheusfacure/python-causality-handbook - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1764 | 300 | 
 | 2023-03-11 | 1764 | 300 | 
 | 2023-03-10 | 1762 | 300 | 
 | 2023-03-09 | 1761 | 299 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1721 | 292 | 
 | 2023-02-13 | 1718 | 291 | 
 | 2023-02-12 | 1718 | 290 | 
-| 2023-02-10 | 1714 | 290 | 
 

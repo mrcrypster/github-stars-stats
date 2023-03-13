@@ -1,6 +1,6 @@
 # Mic92/dotfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 247 | 32 | 
 | 2023-03-11 | 247 | 32 | 
 | 2023-03-10 | 247 | 32 | 
 | 2023-03-09 | 247 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 238 | 31 | 
 | 2023-02-12 | 238 | 31 | 
 | 2023-02-11 | 236 | 31 | 
-| 2023-02-10 | 236 | 30 | 
 

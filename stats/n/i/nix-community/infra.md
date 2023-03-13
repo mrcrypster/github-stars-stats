@@ -1,10 +1,10 @@
 # nix-community/infra - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 23
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/nix-community/infra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 49 | 23 | 
 | 2023-03-11 | 48 | 23 | 
 | 2023-03-09 | 47 | 23 | 
 | 2023-03-08 | 46 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 48 | 23 | 
 | 2023-02-12 | 48 | 23 | 
 | 2023-02-11 | 48 | 23 | 
-| 2023-02-10 | 48 | 23 | 
 

@@ -1,6 +1,6 @@
 # tzuehlke/jekyll-uno-timeline - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 91 | 123 | 
 | 2023-03-11 | 91 | 123 | 
 | 2023-03-09 | 91 | 123 | 
 | 2023-03-08 | 91 | 123 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 90 | 122 | 
 | 2023-02-12 | 90 | 122 | 
 | 2023-02-11 | 90 | 122 | 
-| 2023-02-10 | 90 | 122 | 
 

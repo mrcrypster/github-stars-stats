@@ -1,10 +1,10 @@
 # Sophiestication/CoverSutra - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/Sophiestication/CoverSutra)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 64 | 2 | 
 | 2023-03-11 | 62 | 1 | 
 | 2023-03-10 | 58 | - | 
 | 2023-03-09 | 58 | - | 

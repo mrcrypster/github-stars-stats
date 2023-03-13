@@ -1,10 +1,10 @@
 # L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 895
+★ Stars: 902
 
 [Open repository](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 902 | 65 | 
 | 2023-03-11 | 895 | 64 | 
 | 2023-03-10 | 879 | 63 | 
 | 2023-03-08 | 863 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 448 | 37 | 
 | 2023-02-12 | 402 | 28 | 
 | 2023-02-11 | 365 | 27 | 
-| 2023-02-10 | 348 | 27 | 
 

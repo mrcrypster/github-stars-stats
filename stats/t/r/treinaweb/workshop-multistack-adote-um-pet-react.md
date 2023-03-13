@@ -1,6 +1,6 @@
 # treinaweb/workshop-multistack-adote-um-pet-react - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 31 | 20 | 
 | 2023-03-10 | 31 | 20 | 
 | 2023-03-09 | 31 | 20 | 
 | 2023-03-08 | 31 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 30 | 21 | 
 | 2023-02-12 | 30 | 21 | 
 | 2023-02-11 | 30 | 21 | 
-| 2023-02-10 | 30 | 21 | 
 

@@ -1,6 +1,6 @@
 # cloudfoundry/homebrew-tap - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 54 | 48 | 
 | 2023-03-11 | 54 | 48 | 
 | 2023-03-10 | 54 | 48 | 
 | 2023-03-08 | 54 | 48 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 54 | 49 | 
 | 2023-02-13 | 54 | 49 | 
 | 2023-02-11 | 54 | 49 | 
-| 2023-02-10 | 55 | 49 | 
 

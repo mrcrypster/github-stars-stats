@@ -1,6 +1,6 @@
 # warmcat/libwebsockets - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1363
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3790 | 1363 | 
 | 2023-03-11 | 3790 | 1363 | 
 | 2023-03-09 | 3788 | 1362 | 
 | 2023-03-08 | 3788 | 1361 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3761 | 1360 | 
 | 2023-02-13 | 3761 | 1360 | 
 | 2023-02-12 | 3759 | 1359 | 
-| 2023-02-10 | 3757 | 1360 | 
 

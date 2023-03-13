@@ -1,6 +1,6 @@
 # matthewdowney/rich-comment-tests - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 51 | 2 | 
 | 2023-03-11 | 51 | 2 | 
 | 2023-03-10 | 51 | 2 | 
 | 2023-03-09 | 51 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 45 | 1 | 
 | 2023-02-13 | 44 | 1 | 
 | 2023-02-11 | 43 | 1 | 
-| 2023-02-10 | 42 | 1 | 
 

@@ -1,6 +1,6 @@
 # nasw1h/BloodHub - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4 | 39 | 
 | 2023-03-11 | 4 | 39 | 
 | 2023-03-10 | 4 | 39 | 
 | 2023-03-09 | 4 | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4 | 39 | 
 | 2023-02-13 | 4 | 39 | 
 | 2023-02-12 | 4 | 39 | 
-| 2023-02-10 | 4 | 39 | 
 

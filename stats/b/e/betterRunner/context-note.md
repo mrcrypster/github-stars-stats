@@ -1,10 +1,10 @@
 # betterRunner/context-note - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 52
 
-★ Stars: 624
+★ Stars: 625
 
 [Open repository](https://github.com/betterRunner/context-note)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 625 | 52 | 
 | 2023-03-11 | 624 | 52 | 
 | 2023-03-10 | 625 | 52 | 
 | 2023-03-09 | 623 | 52 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 609 | 52 | 
 | 2023-02-12 | 608 | 52 | 
 | 2023-02-11 | 608 | 52 | 
-| 2023-02-10 | 608 | 52 | 
 

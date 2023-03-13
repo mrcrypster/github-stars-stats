@@ -1,6 +1,6 @@
 # VoltaML/voltaML - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1101 | 37 | 
 | 2023-03-11 | 1101 | 37 | 
 | 2023-03-10 | 1101 | 37 | 
 | 2023-03-08 | 1100 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1083 | 36 | 
 | 2023-02-12 | 1084 | 36 | 
 | 2023-02-11 | 1083 | 35 | 
-| 2023-02-10 | 1082 | 35 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/rksm/org-ai)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-12 | 35 | 2 | 
+| 2023-03-12 | 37 | 2 | 
 | 2023-03-11 | 35 | 1 | 
 | 2023-03-10 | 34 | 1 | 
 | 2023-03-09 | 25 | - | 

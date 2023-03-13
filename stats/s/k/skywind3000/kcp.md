@@ -1,10 +1,10 @@
 # skywind3000/kcp - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 2334
+☋ Forks: 2335
 
-★ Stars: 12771
+★ Stars: 12775
 
 [Open repository](https://github.com/skywind3000/kcp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 12775 | 2335 | 
 | 2023-03-11 | 12771 | 2334 | 
 | 2023-03-10 | 12761 | 2331 | 
 | 2023-03-09 | 12756 | 2327 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 12130 | 2294 | 
 | 2023-02-13 | 12125 | 2291 | 
 | 2023-02-12 | 12126 | 2291 | 
-| 2023-02-11 | 12125 | 2291 | 
 

@@ -1,10 +1,10 @@
 # FerretDB/FerretDB - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 201
+☋ Forks: 202
 
-★ Stars: 5230
+★ Stars: 5231
 
 [Open repository](https://github.com/FerretDB/FerretDB)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5231 | 202 | 
 | 2023-03-11 | 5230 | 201 | 
 | 2023-03-10 | 5230 | 201 | 
 | 2023-03-08 | 5228 | 201 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5180 | 197 | 
 | 2023-02-12 | 5177 | 196 | 
 | 2023-02-11 | 5173 | 196 | 
-| 2023-02-10 | 5172 | 196 | 
 

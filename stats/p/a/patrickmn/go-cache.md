@@ -1,6 +1,6 @@
 # patrickmn/go-cache - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 822
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6958 | 822 | 
 | 2023-03-11 | 6958 | 822 | 
 | 2023-03-10 | 6956 | 822 | 
 | 2023-03-09 | 6945 | 821 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 6872 | 811 | 
 | 2023-02-12 | 6869 | 810 | 
 | 2023-02-11 | 6868 | 810 | 
-| 2023-02-10 | 6868 | 810 | 
 

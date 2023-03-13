@@ -1,6 +1,6 @@
 # TUK-EIS/VDSProject - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4 | 25 | 
 | 2023-03-11 | 4 | 25 | 
 | 2023-03-10 | 4 | 25 | 
 | 2023-03-09 | 4 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 4 | 26 | 
 | 2023-02-12 | 4 | 26 | 
 | 2023-02-11 | 4 | 26 | 
-| 2023-02-10 | 4 | 26 | 
 

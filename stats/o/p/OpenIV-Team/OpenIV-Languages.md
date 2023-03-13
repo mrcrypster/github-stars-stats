@@ -1,6 +1,6 @@
 # OpenIV-Team/OpenIV-Languages - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 28 | 31 | 
 | 2023-03-11 | 28 | 31 | 
 | 2023-03-09 | 28 | 31 | 
 | 2023-03-08 | 28 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 28 | 31 | 
 | 2023-02-13 | 28 | 31 | 
 | 2023-02-11 | 28 | 31 | 
-| 2023-02-10 | 28 | 31 | 
 

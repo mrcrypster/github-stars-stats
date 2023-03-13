@@ -1,6 +1,6 @@
 # getActivity/AndroidIndex - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 972 | 122 | 
 | 2023-03-10 | 972 | 122 | 
 | 2023-03-09 | 971 | 122 | 
 | 2023-03-07 | 970 | 122 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 942 | 121 | 
 | 2023-02-13 | 941 | 121 | 
 | 2023-02-11 | 941 | 121 | 
-| 2023-02-10 | 939 | 121 | 
 

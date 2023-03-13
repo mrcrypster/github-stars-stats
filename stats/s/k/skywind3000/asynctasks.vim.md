@@ -1,6 +1,6 @@
 # skywind3000/asynctasks.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 787 | 27 | 
 | 2023-03-11 | 787 | 27 | 
 | 2023-03-10 | 788 | 27 | 
 | 2023-03-08 | 788 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 785 | 27 | 
 | 2023-02-12 | 785 | 27 | 
 | 2023-02-11 | 785 | 27 | 
-| 2023-02-10 | 784 | 27 | 
 

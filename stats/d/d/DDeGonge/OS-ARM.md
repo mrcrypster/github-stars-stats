@@ -1,6 +1,6 @@
 # DDeGonge/OS-ARM - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 320 | 68 | 
 | 2023-03-11 | 320 | 68 | 
 | 2023-03-09 | 320 | 68 | 
 | 2023-03-08 | 320 | 67 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 307 | 66 | 
 | 2023-02-13 | 307 | 66 | 
 | 2023-02-11 | 306 | 66 | 
-| 2023-02-10 | 306 | 66 | 
 

@@ -1,10 +1,10 @@
 # Raimondi/delimitMate - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 125
 
-★ Stars: 1946
+★ Stars: 1945
 
 [Open repository](https://github.com/Raimondi/delimitMate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1945 | 125 | 
 | 2023-03-11 | 1946 | 125 | 
 | 2023-03-10 | 1946 | 125 | 
 | 2023-03-08 | 1946 | 125 | 

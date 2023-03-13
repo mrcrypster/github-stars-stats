@@ -1,10 +1,10 @@
 # hyperium/hyper - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1338
 
-★ Stars: 11368
+★ Stars: 11379
 
 [Open repository](https://github.com/hyperium/hyper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 11379 | 1338 | 
 | 2023-03-11 | 11368 | 1338 | 
 | 2023-03-09 | 11360 | 1338 | 
 | 2023-03-08 | 11355 | 1338 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 11224 | 1322 | 
 | 2023-02-13 | 11221 | 1320 | 
 | 2023-02-12 | 11218 | 1320 | 
-| 2023-02-11 | 11213 | 1320 | 
 

@@ -1,6 +1,6 @@
 # spatie/browsershot - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 426
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4175 | 426 | 
 | 2023-03-11 | 4175 | 426 | 
 | 2023-03-10 | 4174 | 426 | 
 | 2023-03-09 | 4172 | 426 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4148 | 426 | 
 | 2023-02-13 | 4143 | 425 | 
 | 2023-02-12 | 4142 | 425 | 
-| 2023-02-11 | 4142 | 425 | 
 

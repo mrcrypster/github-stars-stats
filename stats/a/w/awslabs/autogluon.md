@@ -1,10 +1,10 @@
 # awslabs/autogluon - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 703
 
-★ Stars: 5427
+★ Stars: 5432
 
 [Open repository](https://github.com/awslabs/autogluon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5432 | 703 | 
 | 2023-03-11 | 5427 | 703 | 
 | 2023-03-10 | 5422 | 703 | 
 | 2023-03-08 | 5413 | 703 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5318 | 693 | 
 | 2023-02-12 | 5315 | 692 | 
 | 2023-02-11 | 5314 | 692 | 
-| 2023-02-10 | 5311 | 692 | 
 

@@ -1,10 +1,10 @@
 # teamhanko/hanko - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 62
 
-★ Stars: 1610
+★ Stars: 1609
 
 [Open repository](https://github.com/teamhanko/hanko)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1609 | 62 | 
 | 2023-03-11 | 1610 | 62 | 
 | 2023-03-10 | 1607 | 62 | 
 | 2023-03-08 | 1605 | 62 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1572 | 61 | 
 | 2023-02-12 | 1567 | 61 | 
 | 2023-02-11 | 1564 | 61 | 
-| 2023-02-10 | 1562 | 61 | 
 

@@ -1,10 +1,10 @@
 # alibaba/AliOS-Things - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1078
+☋ Forks: 1079
 
-★ Stars: 4353
+★ Stars: 4354
 
 [Open repository](https://github.com/alibaba/AliOS-Things)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4354 | 1079 | 
 | 2023-03-10 | 4353 | 1078 | 
 | 2023-03-09 | 4353 | 1078 | 
 | 2023-03-08 | 4352 | 1077 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 4337 | 1069 | 
 | 2023-02-12 | 4336 | 1069 | 
 | 2023-02-11 | 4335 | 1069 | 
-| 2023-02-10 | 4335 | 1067 | 
 

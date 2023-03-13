@@ -1,6 +1,6 @@
 # MightyITExplorer/Website - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 12 | 50 | 
 | 2023-03-10 | 12 | 50 | 
 | 2023-03-09 | 12 | 49 | 
 | 2023-03-08 | 11 | 49 | 

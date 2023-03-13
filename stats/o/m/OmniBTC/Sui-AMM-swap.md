@@ -1,10 +1,10 @@
 # OmniBTC/Sui-AMM-swap - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/OmniBTC/Sui-AMM-swap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 45 | 15 | 
 | 2023-03-11 | 46 | 15 | 
 | 2023-03-10 | 45 | 15 | 
 | 2023-03-09 | 45 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 43 | 14 | 
 | 2023-02-13 | 42 | 14 | 
 | 2023-02-11 | 37 | 14 | 
-| 2023-02-10 | 35 | 14 | 
 

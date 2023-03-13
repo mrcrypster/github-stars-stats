@@ -1,10 +1,10 @@
 # judah4/HSV-Color-Picker-Unity - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 534
+★ Stars: 535
 
 [Open repository](https://github.com/judah4/HSV-Color-Picker-Unity)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 535 | 95 | 
 | 2023-03-10 | 534 | 94 | 
 | 2023-03-09 | 534 | 94 | 
 | 2023-03-08 | 533 | 94 | 

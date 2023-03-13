@@ -1,0 +1,17 @@
+# AmadiMichael/Huff-Console - stars & forks statistics
+
+Stats updated on Mar 2023, 12
+
+☋ Forks: 0
+
+★ Stars: 25
+
+[Open repository](https://github.com/AmadiMichael/Huff-Console)
+
+[Open detailed stats for AmadiMichael/Huff-Console](https://reviewgithub.com/rep/AmadiMichael/Huff-Console)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-12 | 25 | - | 
+

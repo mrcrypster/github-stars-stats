@@ -1,10 +1,10 @@
 # tylearymf/UniHacker - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 347
 
-★ Stars: 1315
+★ Stars: 1320
 
 [Open repository](https://github.com/tylearymf/UniHacker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1320 | 347 | 
 | 2023-03-11 | 1315 | 347 | 
 | 2023-03-10 | 1309 | 346 | 
 | 2023-03-09 | 1306 | 345 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1204 | 329 | 
 | 2023-02-13 | 1202 | 328 | 
 | 2023-02-12 | 1199 | 328 | 
-| 2023-02-11 | 1198 | 327 | 
 

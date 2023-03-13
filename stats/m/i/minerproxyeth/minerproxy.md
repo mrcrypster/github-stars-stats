@@ -1,6 +1,6 @@
 # minerproxyeth/minerproxy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 398 | 126 | 
 | 2023-03-10 | 398 | 126 | 
 | 2023-03-09 | 398 | 126 | 
 | 2023-03-07 | 398 | 126 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 397 | 126 | 
 | 2023-02-13 | 397 | 126 | 
 | 2023-02-12 | 397 | 126 | 
-| 2023-02-10 | 397 | 126 | 
 

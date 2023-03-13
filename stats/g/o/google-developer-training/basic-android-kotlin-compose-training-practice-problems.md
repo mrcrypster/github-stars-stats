@@ -1,10 +1,10 @@
 # google-developer-training/basic-android-kotlin-compose-training-practice-problems - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 66
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 39 | 66 | 
 | 2023-03-11 | 38 | 66 | 
 | 2023-03-09 | 38 | 66 | 
 | 2023-03-08 | 38 | 66 | 

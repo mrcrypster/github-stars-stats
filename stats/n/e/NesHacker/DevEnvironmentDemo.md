@@ -1,10 +1,10 @@
 # NesHacker/DevEnvironmentDemo - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/NesHacker/DevEnvironmentDemo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 69 | 19 | 
 | 2023-03-11 | 68 | 18 | 
 | 2023-03-10 | 68 | 18 | 
 | 2023-03-09 | 67 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 50 | 11 | 
 | 2023-02-13 | 50 | 11 | 
 | 2023-02-12 | 50 | 11 | 
-| 2023-02-10 | 50 | 11 | 
 

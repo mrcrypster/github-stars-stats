@@ -1,10 +1,10 @@
 # shuding/react-wrap-balancer - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 42
 
-★ Stars: 2611
+★ Stars: 2610
 
 [Open repository](https://github.com/shuding/react-wrap-balancer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2610 | 42 | 
 | 2023-03-12 | 2611 | 42 | 
 | 2023-03-10 | 2607 | 42 | 
 | 2023-03-09 | 2598 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-13 | 2469 | 40 | 
 | 2023-02-12 | 2459 | 39 | 
 | 2023-02-11 | 2448 | 39 | 
-| 2023-02-10 | 2441 | 38 | 
 

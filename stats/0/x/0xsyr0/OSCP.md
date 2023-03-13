@@ -1,6 +1,6 @@
 # 0xsyr0/OSCP - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 836 | 178 | 
 | 2023-03-11 | 836 | 178 | 
 | 2023-03-10 | 834 | 177 | 
 | 2023-03-08 | 834 | 176 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 792 | 164 | 
 | 2023-02-12 | 790 | 164 | 
 | 2023-02-11 | 788 | 164 | 
-| 2023-02-10 | 787 | 163 | 
 

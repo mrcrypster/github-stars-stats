@@ -1,10 +1,10 @@
 # Art0white/FastBeeIM - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 38
 
-★ Stars: 141
+★ Stars: 140
 
 [Open repository](https://github.com/Art0white/FastBeeIM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 140 | 38 | 
 | 2023-03-11 | 141 | 38 | 
 | 2023-03-09 | 141 | 38 | 
 | 2023-03-07 | 141 | 38 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 142 | 37 | 
 | 2023-02-13 | 142 | 37 | 
 | 2023-02-12 | 142 | 37 | 
-| 2023-02-10 | 142 | 37 | 
 

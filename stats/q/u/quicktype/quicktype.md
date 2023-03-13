@@ -1,10 +1,10 @@
 # quicktype/quicktype - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 850
 
-★ Stars: 9596
+★ Stars: 9613
 
 [Open repository](https://github.com/quicktype/quicktype)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 9613 | 850 | 
 | 2023-03-11 | 9596 | 850 | 
 | 2023-03-09 | 9583 | 848 | 
 | 2023-03-08 | 9562 | 847 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 9348 | 835 | 
 | 2023-02-12 | 9341 | 836 | 
 | 2023-02-11 | 9339 | 836 | 
-| 2023-02-10 | 9333 | 833 | 
 

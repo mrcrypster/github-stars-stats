@@ -1,10 +1,10 @@
 # const-ae/ggsignif - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 38
 
-★ Stars: 499
+★ Stars: 500
 
 [Open repository](https://github.com/const-ae/ggsignif)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 500 | 38 | 
 | 2023-03-11 | 499 | 38 | 
 | 2023-03-10 | 499 | 38 | 
 | 2023-03-08 | 499 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 492 | 39 | 
 | 2023-02-12 | 492 | 39 | 
 | 2023-02-11 | 492 | 39 | 
-| 2023-02-10 | 491 | 39 | 
 

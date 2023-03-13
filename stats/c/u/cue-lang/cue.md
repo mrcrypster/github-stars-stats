@@ -1,6 +1,6 @@
 # cue-lang/cue - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3650 | 217 | 
 | 2023-03-11 | 3650 | 217 | 
 | 2023-03-09 | 3650 | 217 | 
 | 2023-03-08 | 3646 | 217 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3578 | 217 | 
 | 2023-02-12 | 3577 | 217 | 
 | 2023-02-11 | 3574 | 217 | 
-| 2023-02-10 | 3570 | 217 | 
 

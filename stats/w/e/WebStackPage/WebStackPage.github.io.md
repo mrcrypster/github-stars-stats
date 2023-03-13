@@ -1,8 +1,8 @@
 # WebStackPage/WebStackPage.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1271
+☋ Forks: 1272
 
 ★ Stars: 4401
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4401 | 1272 | 
 | 2023-03-11 | 4401 | 1271 | 
 | 2023-03-09 | 4394 | 1272 | 
 | 2023-03-08 | 4387 | 1272 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 4307 | 1256 | 
 | 2023-02-12 | 4307 | 1256 | 
 | 2023-02-11 | 4306 | 1255 | 
-| 2023-02-10 | 4302 | 1254 | 
 

@@ -1,6 +1,6 @@
 # maildev/maildev - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 461
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3869 | 461 | 
 | 2023-03-11 | 3869 | 461 | 
 | 2023-03-10 | 3868 | 462 | 
 | 2023-03-09 | 3866 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 3816 | 457 | 
 | 2023-02-12 | 3816 | 457 | 
 | 2023-02-11 | 3815 | 457 | 
-| 2023-02-10 | 3811 | 457 | 
 

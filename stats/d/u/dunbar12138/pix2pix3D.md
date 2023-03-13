@@ -1,10 +1,10 @@
 # dunbar12138/pix2pix3D - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 1179
+★ Stars: 1185
 
 [Open repository](https://github.com/dunbar12138/pix2pix3D)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1185 | 73 | 
 | 2023-03-11 | 1179 | 72 | 
 | 2023-03-09 | 1170 | 72 | 
 | 2023-03-08 | 1148 | 68 | 

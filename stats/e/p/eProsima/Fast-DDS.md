@@ -1,6 +1,6 @@
 # eProsima/Fast-DDS - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 551
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1477 | 551 | 
 | 2023-03-11 | 1477 | 551 | 
 | 2023-03-10 | 1476 | 551 | 
 | 2023-03-08 | 1474 | 550 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1442 | 541 | 
 | 2023-02-12 | 1441 | 541 | 
 | 2023-02-11 | 1441 | 541 | 
-| 2023-02-10 | 1441 | 541 | 
 

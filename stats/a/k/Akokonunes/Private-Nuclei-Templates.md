@@ -1,6 +1,6 @@
 # Akokonunes/Private-Nuclei-Templates - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 103 | 29 | 
 | 2023-03-11 | 103 | 29 | 
 | 2023-03-10 | 103 | 29 | 
 | 2023-03-09 | 103 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 102 | 29 | 
 | 2023-02-12 | 102 | 29 | 
 | 2023-02-11 | 102 | 29 | 
-| 2023-02-10 | 102 | 29 | 
 

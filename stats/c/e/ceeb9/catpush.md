@@ -1,10 +1,10 @@
 # ceeb9/catpush - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/ceeb9/catpush)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4 | 6 | 
 | 2023-03-11 | 3 | 6 | 
 | 2023-03-10 | 3 | 6 | 
 | 2023-03-09 | 3 | 6 | 

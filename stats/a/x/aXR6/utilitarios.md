@@ -1,10 +1,10 @@
 # aXR6/utilitarios - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/aXR6/utilitarios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4 | 9 | 
 | 2023-03-10 | 3 | 9 | 
 | 2023-03-09 | 3 | 9 | 
 | 2023-03-08 | 3 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 3 | 9 | 
 | 2023-02-12 | 3 | 9 | 
 | 2023-02-11 | 3 | 9 | 
-| 2023-02-10 | 3 | 9 | 
 

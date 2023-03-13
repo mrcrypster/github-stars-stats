@@ -1,6 +1,6 @@
 # cztomsik/zig-napigen - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 25 | 2 | 
 | 2023-03-11 | 25 | 2 | 
 | 2023-03-09 | 24 | 2 | 
 | 2023-03-08 | 24 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 24 | 2 | 
 | 2023-02-12 | 24 | 2 | 
 | 2023-02-11 | 24 | 2 | 
-| 2023-02-10 | 24 | 2 | 
 

@@ -1,6 +1,6 @@
 # euler-xyz/median-oracle - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 60 | 5 | 
 | 2023-03-10 | 60 | 5 | 
 | 2023-03-09 | 60 | 5 | 
 | 2023-03-07 | 60 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 58 | 4 | 
 | 2023-02-12 | 58 | 4 | 
 | 2023-02-11 | 58 | 4 | 
-| 2023-02-10 | 58 | 4 | 
 

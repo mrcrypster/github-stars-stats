@@ -1,0 +1,17 @@
+# kaznum/SICP - stars & forks statistics
+
+Stats updated on Mar 2023, 12
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/kaznum/SICP)
+
+[Open detailed stats for kaznum/SICP](https://reviewgithub.com/rep/kaznum/SICP)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-12 | 1 | - | 
+

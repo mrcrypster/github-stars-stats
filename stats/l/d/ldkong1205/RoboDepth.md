@@ -1,10 +1,10 @@
 # ldkong1205/RoboDepth - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 33
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/ldkong1205/RoboDepth)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 126 | 33 | 
 | 2023-03-11 | 125 | 33 | 
 | 2023-03-09 | 125 | 33 | 
 | 2023-03-08 | 124 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 114 | 32 | 
 | 2023-02-12 | 114 | 32 | 
 | 2023-02-11 | 114 | 32 | 
-| 2023-02-10 | 114 | 32 | 
 

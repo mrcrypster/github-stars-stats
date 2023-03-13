@@ -1,10 +1,10 @@
 # graphql-crystal/benchmarks - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 10
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/graphql-crystal/benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 64 | 10 | 
 | 2023-03-11 | 63 | 10 | 
 | 2023-03-09 | 63 | 10 | 
 | 2023-03-08 | 63 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 61 | 10 | 
 | 2023-02-12 | 61 | 10 | 
 | 2023-02-11 | 61 | 10 | 
-| 2023-02-10 | 61 | 10 | 
 

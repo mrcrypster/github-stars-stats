@@ -1,8 +1,8 @@
 # moment/moment - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 7132
+☋ Forks: 7134
 
 ★ Stars: 47282
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 47282 | 7134 | 
 | 2023-03-11 | 47282 | 7132 | 
 | 2023-03-10 | 47284 | 7130 | 
 | 2023-03-08 | 47279 | 7129 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 47228 | 7120 | 
 | 2023-02-12 | 47223 | 7119 | 
 | 2023-02-11 | 47219 | 7119 | 
-| 2023-02-10 | 47216 | 7119 | 
 

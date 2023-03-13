@@ -1,10 +1,10 @@
 # datawhalechina/leedl-tutorial - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2246
 
-★ Stars: 7436
+★ Stars: 7441
 
 [Open repository](https://github.com/datawhalechina/leedl-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 7441 | 2246 | 
 | 2023-03-11 | 7436 | 2246 | 
 | 2023-03-10 | 7436 | 2246 | 
 | 2023-03-09 | 7435 | 2246 | 

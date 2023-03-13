@@ -1,6 +1,6 @@
 # landgraf-dev/openapi-delphi-generator - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 43 | 6 | 
 | 2023-03-11 | 43 | 6 | 
 | 2023-03-10 | 43 | 6 | 
 | 2023-03-08 | 43 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 42 | 6 | 
 | 2023-02-13 | 42 | 6 | 
 | 2023-02-12 | 42 | 6 | 
-| 2023-02-11 | 42 | 6 | 
 

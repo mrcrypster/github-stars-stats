@@ -1,10 +1,10 @@
 # shadowsocks/shadowsocks - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 19117
+☋ Forks: 19118
 
-★ Stars: 33306
+★ Stars: 33307
 
 [Open repository](https://github.com/shadowsocks/shadowsocks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 33307 | 19118 | 
 | 2023-03-11 | 33306 | 19117 | 
 | 2023-03-10 | 33306 | 19121 | 
 | 2023-03-08 | 33307 | 19121 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 33290 | 19145 | 
 | 2023-02-12 | 33292 | 19147 | 
 | 2023-02-11 | 33291 | 19148 | 
-| 2023-02-10 | 33291 | 19146 | 
 

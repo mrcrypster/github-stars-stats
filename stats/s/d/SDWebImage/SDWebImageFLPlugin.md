@@ -1,6 +1,6 @@
 # SDWebImage/SDWebImageFLPlugin - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 25 | 17 | 
 | 2023-03-11 | 25 | 17 | 
 | 2023-03-10 | 25 | 17 | 
 | 2023-03-09 | 25 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 25 | 18 | 
 | 2023-02-13 | 25 | 18 | 
 | 2023-02-11 | 25 | 18 | 
-| 2023-02-10 | 25 | 18 | 
 

@@ -1,10 +1,10 @@
 # BlinkDL/RWKV-LM - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 207
+☋ Forks: 208
 
-★ Stars: 2373
+★ Stars: 2401
 
 [Open repository](https://github.com/BlinkDL/RWKV-LM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2401 | 208 | 
 | 2023-03-11 | 2373 | 207 | 
 | 2023-03-09 | 2344 | 204 | 
 | 2023-03-08 | 2321 | 203 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1498 | 155 | 
 | 2023-02-12 | 1467 | 155 | 
 | 2023-02-11 | 1440 | 153 | 
-| 2023-02-10 | 1423 | 153 | 
 

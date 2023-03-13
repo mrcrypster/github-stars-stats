@@ -1,6 +1,6 @@
 # DJjoteeYT/FNF-PsychEngine-Android - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4 | 21 | 
 | 2023-03-11 | 4 | 21 | 
 | 2023-03-10 | 4 | 21 | 
 | 2023-03-08 | 4 | 21 | 

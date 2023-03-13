@@ -1,10 +1,10 @@
 # philss/floki - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 134
 
-★ Stars: 1837
+★ Stars: 1838
 
 [Open repository](https://github.com/philss/floki)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1838 | 134 | 
 | 2023-03-11 | 1837 | 134 | 
 | 2023-03-10 | 1835 | 134 | 
 | 2023-03-09 | 1835 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1820 | 132 | 
 | 2023-02-12 | 1819 | 132 | 
 | 2023-02-11 | 1819 | 132 | 
-| 2023-02-10 | 1818 | 132 | 
 

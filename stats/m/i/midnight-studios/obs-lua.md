@@ -1,6 +1,6 @@
 # midnight-studios/obs-lua - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 58 | 91 | 
 | 2023-03-11 | 58 | 91 | 
 | 2023-03-10 | 58 | 91 | 
 | 2023-03-09 | 59 | 91 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 56 | 87 | 
 | 2023-02-12 | 56 | 87 | 
 | 2023-02-11 | 56 | 87 | 
-| 2023-02-10 | 56 | 87 | 
 

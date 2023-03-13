@@ -1,10 +1,10 @@
 # MycroftAI/mimic3 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 47
 
-★ Stars: 607
+★ Stars: 610
 
 [Open repository](https://github.com/MycroftAI/mimic3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 610 | 47 | 
 | 2023-03-11 | 607 | 47 | 
 | 2023-03-09 | 607 | 47 | 
 | 2023-03-08 | 605 | 46 | 

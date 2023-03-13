@@ -1,10 +1,10 @@
 # yanx27/Pointnet_Pointnet2_pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 611
 
-★ Stars: 2177
+★ Stars: 2180
 
 [Open repository](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2180 | 611 | 
 | 2023-03-11 | 2177 | 611 | 
 | 2023-03-10 | 2175 | 610 | 
 | 2023-03-08 | 2168 | 611 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2114 | 608 | 
 | 2023-02-12 | 2113 | 607 | 
 | 2023-02-11 | 2113 | 607 | 
-| 2023-02-10 | 2114 | 607 | 
 

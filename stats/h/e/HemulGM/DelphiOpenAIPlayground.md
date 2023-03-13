@@ -1,10 +1,10 @@
 # HemulGM/DelphiOpenAIPlayground - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/HemulGM/DelphiOpenAIPlayground)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 21 | 3 | 
 | 2023-03-11 | 20 | 3 | 
 | 2023-03-10 | 20 | 3 | 
 | 2023-03-09 | 20 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 19 | 2 | 
 | 2023-02-12 | 18 | 2 | 
 | 2023-02-11 | 15 | 1 | 
-| 2023-02-10 | 15 | 1 | 
 

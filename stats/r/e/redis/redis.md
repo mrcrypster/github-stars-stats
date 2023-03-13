@@ -1,10 +1,10 @@
 # redis/redis - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 22294
+☋ Forks: 22297
 
-★ Stars: 58888
+★ Stars: 58902
 
 [Open repository](https://github.com/redis/redis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 58902 | 22297 | 
 | 2023-03-11 | 58888 | 22294 | 
 | 2023-03-10 | 58867 | 22288 | 
 | 2023-03-09 | 58863 | 22286 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 58490 | 22206 | 
 | 2023-02-12 | 58477 | 22203 | 
 | 2023-02-11 | 58473 | 22205 | 
-| 2023-02-10 | 58456 | 22203 | 
 

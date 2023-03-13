@@ -1,10 +1,10 @@
 # emoose/DLSSTweaks - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 330
+★ Stars: 332
 
 [Open repository](https://github.com/emoose/DLSSTweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 332 | 5 | 
 | 2023-03-11 | 330 | 5 | 
 | 2023-03-10 | 323 | 5 | 
 | 2023-03-09 | 322 | 5 | 

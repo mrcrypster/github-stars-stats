@@ -1,10 +1,10 @@
 # supabase/realtime - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 231
 
-★ Stars: 5699
+★ Stars: 5700
 
 [Open repository](https://github.com/supabase/realtime)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5700 | 231 | 
 | 2023-03-11 | 5699 | 231 | 
 | 2023-03-10 | 5695 | 231 | 
 | 2023-03-09 | 5694 | 231 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5645 | 229 | 
 | 2023-02-12 | 5642 | 229 | 
 | 2023-02-11 | 5640 | 229 | 
-| 2023-02-10 | 5637 | 228 | 
 

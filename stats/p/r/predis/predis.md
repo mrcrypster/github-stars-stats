@@ -1,10 +1,10 @@
 # predis/predis - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 966
 
-★ Stars: 7323
+★ Stars: 7322
 
 [Open repository](https://github.com/predis/predis)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 7322 | 966 | 
 | 2023-03-11 | 7323 | 966 | 
 | 2023-03-10 | 7322 | 966 | 
 | 2023-03-08 | 7319 | 965 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 7304 | 965 | 
 | 2023-02-12 | 7303 | 965 | 
 | 2023-02-11 | 7303 | 964 | 
-| 2023-02-10 | 7302 | 964 | 
 

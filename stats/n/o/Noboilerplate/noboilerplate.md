@@ -1,10 +1,10 @@
 # Noboilerplate/noboilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 450
+★ Stars: 455
 
 [Open repository](https://github.com/Noboilerplate/noboilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 455 | 21 | 
 | 2023-03-10 | 450 | 20 | 
 | 2023-03-09 | 447 | 20 | 
 | 2023-03-08 | 447 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 374 | 19 | 
 | 2023-02-12 | 372 | 19 | 
 | 2023-02-11 | 369 | 19 | 
-| 2023-02-10 | 363 | 18 | 
 

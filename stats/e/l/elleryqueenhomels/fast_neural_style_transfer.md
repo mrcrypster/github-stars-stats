@@ -1,10 +1,10 @@
 # elleryqueenhomels/fast_neural_style_transfer - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 90
 
-★ Stars: 498
+★ Stars: 510
 
 [Open repository](https://github.com/elleryqueenhomels/fast_neural_style_transfer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 510 | 90 | 
 | 2023-03-10 | 498 | 90 | 
 | 2023-03-09 | 483 | 90 | 
 | 2023-03-08 | 471 | 87 | 

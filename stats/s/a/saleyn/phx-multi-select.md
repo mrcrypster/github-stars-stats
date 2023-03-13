@@ -1,6 +1,6 @@
 # saleyn/phx-multi-select - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 26 | 1 | 
 | 2023-03-10 | 26 | 1 | 
 | 2023-03-09 | 26 | 1 | 
 | 2023-03-08 | 26 | 1 | 

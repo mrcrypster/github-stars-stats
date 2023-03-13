@@ -1,10 +1,10 @@
 # natemoo-re/feed - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/natemoo-re/feed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 43 | - | 
 | 2023-03-11 | 44 | - | 
 | 2023-03-10 | 44 | - | 
 | 2023-03-08 | 44 | - | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 44 | - | 
 | 2023-02-12 | 44 | - | 
 | 2023-02-11 | 44 | - | 
-| 2023-02-10 | 44 | - | 
 

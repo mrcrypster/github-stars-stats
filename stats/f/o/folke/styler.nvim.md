@@ -1,10 +1,10 @@
 # folke/styler.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/folke/styler.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 159 | 1 | 
 | 2023-03-11 | 158 | 1 | 
 | 2023-03-09 | 158 | 1 | 
 | 2023-03-08 | 157 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 151 | 1 | 
 | 2023-02-12 | 151 | 1 | 
 | 2023-02-11 | 151 | 1 | 
-| 2023-02-10 | 151 | 1 | 
 

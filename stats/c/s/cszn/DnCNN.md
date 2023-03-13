@@ -1,10 +1,10 @@
 # cszn/DnCNN - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 514
 
-★ Stars: 1180
+★ Stars: 1181
 
 [Open repository](https://github.com/cszn/DnCNN)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1181 | 514 | 
 | 2023-03-10 | 1180 | 514 | 
 | 2023-03-09 | 1180 | 514 | 
 | 2023-03-08 | 1178 | 514 | 

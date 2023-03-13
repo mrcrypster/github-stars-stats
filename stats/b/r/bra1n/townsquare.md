@@ -1,6 +1,6 @@
 # bra1n/townsquare - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 312 | 175 | 
 | 2023-03-11 | 312 | 175 | 
 | 2023-03-10 | 312 | 174 | 
 | 2023-03-08 | 311 | 174 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 306 | 173 | 
 | 2023-02-12 | 306 | 173 | 
 | 2023-02-11 | 306 | 173 | 
-| 2023-02-10 | 306 | 172 | 
 

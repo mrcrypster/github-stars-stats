@@ -1,10 +1,10 @@
 # microsoft/fast - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 530
 
-★ Stars: 8073
+★ Stars: 8074
 
 [Open repository](https://github.com/microsoft/fast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 8074 | 530 | 
 | 2023-03-11 | 8073 | 530 | 
 | 2023-03-09 | 8070 | 530 | 
 | 2023-03-08 | 8064 | 530 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 7996 | 525 | 
 | 2023-02-12 | 7994 | 525 | 
 | 2023-02-11 | 7991 | 525 | 
-| 2023-02-10 | 7989 | 525 | 
 

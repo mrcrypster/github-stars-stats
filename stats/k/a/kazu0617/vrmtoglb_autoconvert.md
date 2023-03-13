@@ -1,6 +1,6 @@
 # kazu0617/vrmtoglb_autoconvert - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 22 | 1 | 
 | 2023-03-11 | 22 | 1 | 
 | 2023-03-10 | 22 | 1 | 
 | 2023-03-08 | 22 | 1 | 

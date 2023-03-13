@@ -1,6 +1,6 @@
 # kubenav/kubenav - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1608 | 104 | 
 | 2023-03-11 | 1608 | 104 | 
 | 2023-03-10 | 1608 | 104 | 
 | 2023-03-09 | 1608 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1593 | 103 | 
 | 2023-02-12 | 1592 | 103 | 
 | 2023-02-11 | 1590 | 103 | 
-| 2023-02-10 | 1587 | 103 | 
 

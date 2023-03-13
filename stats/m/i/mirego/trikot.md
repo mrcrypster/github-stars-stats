@@ -1,6 +1,6 @@
 # mirego/trikot - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 63 | 5 | 
 | 2023-03-11 | 63 | 5 | 
 | 2023-03-10 | 63 | 5 | 
 | 2023-03-08 | 64 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 64 | 5 | 
 | 2023-02-12 | 64 | 5 | 
 | 2023-02-11 | 64 | 5 | 
-| 2023-02-10 | 64 | 5 | 
 

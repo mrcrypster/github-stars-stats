@@ -1,10 +1,10 @@
 # kraanzu/dooit - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 66
 
-★ Stars: 1305
+★ Stars: 1308
 
 [Open repository](https://github.com/kraanzu/dooit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1308 | 66 | 
 | 2023-03-10 | 1305 | 66 | 
 | 2023-03-09 | 1303 | 65 | 
 | 2023-03-08 | 1304 | 65 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 1280 | 65 | 
 | 2023-02-13 | 1281 | 65 | 
 | 2023-02-11 | 1281 | 65 | 
-| 2023-02-10 | 1280 | 65 | 
 

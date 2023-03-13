@@ -1,8 +1,8 @@
 # gndx/javascript-challenges - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 295
+☋ Forks: 294
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 57 | 294 | 
 | 2023-03-11 | 57 | 295 | 
 | 2023-03-09 | 57 | 295 | 
 | 2023-03-08 | 57 | 296 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 57 | 299 | 
 | 2023-02-12 | 57 | 299 | 
 | 2023-02-11 | 57 | 299 | 
-| 2023-02-10 | 58 | 299 | 
 

@@ -1,6 +1,6 @@
 # optonaut/ActiveLabel.swift - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 666
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4253 | 666 | 
 | 2023-03-11 | 4253 | 666 | 
 | 2023-03-10 | 4252 | 666 | 
 | 2023-03-09 | 4253 | 666 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4239 | 662 | 
 | 2023-02-12 | 4239 | 662 | 
 | 2023-02-11 | 4239 | 662 | 
-| 2023-02-10 | 4240 | 662 | 
 

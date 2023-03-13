@@ -1,6 +1,6 @@
 # alexzielenski/Mousecape - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1031 | 147 | 
 | 2023-03-11 | 1031 | 147 | 
 | 2023-03-09 | 1030 | 147 | 
 | 2023-03-08 | 1030 | 147 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1012 | 147 | 
 | 2023-02-13 | 1013 | 147 | 
 | 2023-02-12 | 1012 | 147 | 
-| 2023-02-10 | 1012 | 147 | 
 

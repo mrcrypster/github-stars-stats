@@ -1,10 +1,10 @@
 # pengzhile/pandora - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 47
 
-★ Stars: 263
+★ Stars: 268
 
 [Open repository](https://github.com/pengzhile/pandora)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 268 | 47 | 
 | 2023-03-11 | 263 | 47 | 
 | 2023-03-10 | 260 | 46 | 
 | 2023-03-08 | 255 | 46 | 

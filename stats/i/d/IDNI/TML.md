@@ -1,10 +1,10 @@
 # IDNI/TML - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/IDNI/TML)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 113 | 27 | 
 | 2023-03-11 | 112 | 27 | 
 | 2023-03-09 | 112 | 27 | 
 | 2023-03-08 | 113 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 114 | 27 | 
 | 2023-02-12 | 114 | 27 | 
 | 2023-02-11 | 114 | 27 | 
-| 2023-02-10 | 114 | 27 | 
 

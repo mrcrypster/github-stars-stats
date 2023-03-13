@@ -1,10 +1,10 @@
 # rom1504/clip-retrieval - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 119
+☋ Forks: 120
 
-★ Stars: 1084
+★ Stars: 1086
 
 [Open repository](https://github.com/rom1504/clip-retrieval)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1086 | 120 | 
 | 2023-03-11 | 1084 | 119 | 
 | 2023-03-10 | 1080 | 119 | 
 | 2023-03-09 | 1077 | 119 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1007 | 109 | 
 | 2023-02-13 | 1005 | 109 | 
 | 2023-02-11 | 1002 | 109 | 
-| 2023-02-10 | 999 | 109 | 
 

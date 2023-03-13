@@ -1,6 +1,6 @@
 # GaloisInc/elf-edit - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 35 | 6 | 
 | 2023-03-11 | 35 | 6 | 
 | 2023-03-09 | 35 | 6 | 
 | 2023-03-08 | 35 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 36 | 6 | 
 | 2023-02-12 | 36 | 6 | 
 | 2023-02-11 | 36 | 6 | 
-| 2023-02-10 | 36 | 6 | 
 

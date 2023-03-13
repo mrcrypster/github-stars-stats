@@ -1,10 +1,10 @@
 # sandhikagalih/PHP-Dasar - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 358
+☋ Forks: 360
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/sandhikagalih/PHP-Dasar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 180 | 360 | 
 | 2023-03-11 | 179 | 358 | 
 | 2023-03-10 | 177 | 358 | 
 | 2023-03-09 | 177 | 356 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 171 | 344 | 
 | 2023-02-12 | 170 | 344 | 
 | 2023-02-11 | 170 | 344 | 
-| 2023-02-10 | 170 | 344 | 
 

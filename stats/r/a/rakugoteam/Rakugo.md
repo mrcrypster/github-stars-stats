@@ -1,10 +1,10 @@
 # rakugoteam/Rakugo - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 103
+★ Stars: 102
 
 [Open repository](https://github.com/rakugoteam/Rakugo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 102 | 5 | 
 | 2023-03-11 | 103 | 5 | 
 | 2023-03-09 | 103 | 5 | 
 | 2023-03-08 | 103 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 98 | 4 | 
 | 2023-02-12 | 97 | 4 | 
 | 2023-02-11 | 97 | 4 | 
-| 2023-02-10 | 97 | 4 | 
 

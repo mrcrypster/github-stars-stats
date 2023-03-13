@@ -1,6 +1,6 @@
 # transistorsoft/flutter_background_geolocation - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 540 | 192 | 
 | 2023-03-11 | 540 | 192 | 
 | 2023-03-10 | 540 | 192 | 
 | 2023-03-08 | 540 | 191 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 527 | 187 | 
 | 2023-02-12 | 528 | 187 | 
 | 2023-02-11 | 527 | 187 | 
-| 2023-02-10 | 527 | 186 | 
 

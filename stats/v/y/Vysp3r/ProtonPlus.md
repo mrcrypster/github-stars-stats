@@ -1,10 +1,10 @@
 # Vysp3r/ProtonPlus - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/Vysp3r/ProtonPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 81 | 9 | 
 | 2023-03-11 | 80 | 9 | 
 | 2023-03-09 | 80 | 9 | 
 | 2023-03-08 | 80 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 75 | 8 | 
 | 2023-02-12 | 74 | 8 | 
 | 2023-02-11 | 73 | 8 | 
-| 2023-02-10 | 73 | 8 | 
 

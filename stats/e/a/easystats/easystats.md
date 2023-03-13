@@ -1,10 +1,10 @@
 # easystats/easystats - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 67
 
-★ Stars: 878
+★ Stars: 879
 
 [Open repository](https://github.com/easystats/easystats)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 879 | 67 | 
 | 2023-03-11 | 878 | 67 | 
 | 2023-03-10 | 878 | 67 | 
 | 2023-03-08 | 878 | 67 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 879 | 67 | 
 | 2023-02-12 | 878 | 67 | 
 | 2023-02-11 | 877 | 67 | 
-| 2023-02-10 | 877 | 67 | 
 

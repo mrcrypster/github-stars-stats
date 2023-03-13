@@ -1,6 +1,6 @@
 # isaced/V2exOS - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 547 | 49 | 
 | 2023-03-11 | 547 | 49 | 
 | 2023-03-10 | 547 | 49 | 
 | 2023-03-09 | 547 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 540 | 48 | 
 | 2023-02-12 | 540 | 48 | 
 | 2023-02-11 | 540 | 48 | 
-| 2023-02-10 | 539 | 48 | 
 

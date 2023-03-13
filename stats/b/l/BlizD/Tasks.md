@@ -1,10 +1,10 @@
 # BlizD/Tasks - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 165
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/BlizD/Tasks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 237 | 165 | 
 | 2023-03-11 | 236 | 165 | 
 | 2023-03-10 | 236 | 165 | 
 | 2023-03-09 | 235 | 165 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 234 | 165 | 
 | 2023-02-12 | 234 | 165 | 
 | 2023-02-11 | 234 | 164 | 
-| 2023-02-10 | 233 | 164 | 
 

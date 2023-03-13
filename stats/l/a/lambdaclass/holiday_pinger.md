@@ -1,6 +1,6 @@
 # lambdaclass/holiday_pinger - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 68 | 9 | 
 | 2023-03-11 | 68 | 9 | 
 | 2023-03-10 | 68 | 9 | 
 | 2023-03-08 | 68 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 68 | 9 | 
 | 2023-02-12 | 68 | 9 | 
 | 2023-02-11 | 68 | 9 | 
-| 2023-02-10 | 68 | 9 | 
 

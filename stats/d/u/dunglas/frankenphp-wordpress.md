@@ -1,6 +1,6 @@
 # dunglas/frankenphp-wordpress - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 28 | 5 | 
 | 2023-03-11 | 28 | 5 | 
 | 2023-03-10 | 28 | 5 | 
 | 2023-03-09 | 28 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 26 | 4 | 
 | 2023-02-13 | 26 | 4 | 
 | 2023-02-12 | 26 | 4 | 
-| 2023-02-10 | 26 | 4 | 
 

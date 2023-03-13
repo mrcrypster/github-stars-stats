@@ -1,6 +1,6 @@
 # flexflow/FlexFlow - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 559 | 123 | 
 | 2023-03-11 | 559 | 123 | 
 | 2023-03-09 | 559 | 123 | 
 | 2023-03-08 | 554 | 123 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 549 | 122 | 
 | 2023-02-12 | 548 | 122 | 
 | 2023-02-11 | 547 | 122 | 
-| 2023-02-10 | 547 | 122 | 
 

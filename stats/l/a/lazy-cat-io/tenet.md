@@ -1,6 +1,6 @@
 # lazy-cat-io/tenet - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 38 | - | 
 | 2023-03-10 | 38 | - | 
 | 2023-03-09 | 38 | - | 
 | 2023-03-08 | 38 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 38 | - | 
 | 2023-02-12 | 37 | - | 
 | 2023-02-11 | 37 | - | 
-| 2023-02-10 | 37 | - | 
 

@@ -1,10 +1,10 @@
 # brettchalupa/projectbook - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 167
+★ Stars: 170
 
 [Open repository](https://github.com/brettchalupa/projectbook)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 170 | 5 | 
 | 2023-03-11 | 167 | 5 | 
 | 2023-03-09 | 167 | 5 | 
 | 2023-03-08 | 167 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 160 | 5 | 
 | 2023-02-12 | 160 | 5 | 
 | 2023-02-11 | 160 | 5 | 
-| 2023-02-10 | 160 | 5 | 
 

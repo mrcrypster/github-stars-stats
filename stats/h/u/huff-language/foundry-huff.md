@@ -1,8 +1,8 @@
 # huff-language/foundry-huff - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 25
+☋ Forks: 24
 
 ★ Stars: 149
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 149 | 24 | 
 | 2023-03-10 | 149 | 25 | 
 | 2023-03-09 | 149 | 24 | 
 | 2023-03-08 | 148 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 132 | 18 | 
 | 2023-02-12 | 131 | 18 | 
 | 2023-02-11 | 131 | 18 | 
-| 2023-02-10 | 131 | 18 | 
 

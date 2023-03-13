@@ -1,6 +1,6 @@
 # FasterXML/jackson-databind - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1273
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3231 | 1273 | 
 | 2023-03-10 | 3231 | 1273 | 
 | 2023-03-09 | 3231 | 1273 | 
 | 2023-03-08 | 3231 | 1273 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 3222 | 1270 | 
 | 2023-02-13 | 3221 | 1270 | 
 | 2023-02-11 | 3221 | 1270 | 
-| 2023-02-10 | 3221 | 1269 | 
 

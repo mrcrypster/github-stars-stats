@@ -1,10 +1,10 @@
 # pytorch/pytorch - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 17648
 
-★ Stars: 63599
+★ Stars: 63606
 
 [Open repository](https://github.com/pytorch/pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 63606 | 17648 | 
 | 2023-03-11 | 63599 | 17648 | 
 | 2023-03-10 | 63566 | 17643 | 
 | 2023-03-09 | 63515 | 17634 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 62640 | 17410 | 
 | 2023-02-12 | 62594 | 17398 | 
 | 2023-02-11 | 62566 | 17393 | 
-| 2023-02-10 | 62554 | 17389 | 
 

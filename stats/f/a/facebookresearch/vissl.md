@@ -1,6 +1,6 @@
 # facebookresearch/vissl - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 313
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2975 | 313 | 
 | 2023-03-11 | 2975 | 313 | 
 | 2023-03-10 | 2973 | 313 | 
 | 2023-03-08 | 2971 | 313 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 2951 | 309 | 
 | 2023-02-13 | 2950 | 309 | 
 | 2023-02-11 | 2945 | 308 | 
-| 2023-02-10 | 2945 | 308 | 
 

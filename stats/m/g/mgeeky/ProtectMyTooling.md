@@ -1,10 +1,10 @@
 # mgeeky/ProtectMyTooling - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 79
 
-★ Stars: 549
+★ Stars: 551
 
 [Open repository](https://github.com/mgeeky/ProtectMyTooling)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 551 | 79 | 
 | 2023-03-11 | 549 | 79 | 
 | 2023-03-09 | 549 | 79 | 
 | 2023-03-08 | 549 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 525 | 79 | 
 | 2023-02-13 | 524 | 78 | 
 | 2023-02-12 | 523 | 78 | 
-| 2023-02-10 | 523 | 78 | 
 

@@ -1,6 +1,6 @@
 # Stefanuk12/ROBLOX - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 125 | 123 | 
 | 2023-03-11 | 125 | 123 | 
 | 2023-03-09 | 124 | 124 | 
 | 2023-03-08 | 123 | 125 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 118 | 119 | 
 | 2023-02-12 | 118 | 119 | 
 | 2023-02-11 | 118 | 119 | 
-| 2023-02-10 | 118 | 118 | 
 

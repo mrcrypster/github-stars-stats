@@ -1,10 +1,10 @@
 # luc-tielen/llvm-codegen - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/luc-tielen/llvm-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 22 | 5 | 
 | 2023-03-11 | 23 | 5 | 
 | 2023-03-09 | 23 | 5 | 
 | 2023-03-08 | 23 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 23 | 5 | 
 | 2023-02-13 | 23 | 5 | 
 | 2023-02-11 | 23 | 5 | 
-| 2023-02-10 | 23 | 5 | 
 

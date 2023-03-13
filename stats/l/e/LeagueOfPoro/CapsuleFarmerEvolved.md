@@ -1,10 +1,10 @@
 # LeagueOfPoro/CapsuleFarmerEvolved - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 122
 
-★ Stars: 800
+★ Stars: 808
 
 [Open repository](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 808 | 122 | 
 | 2023-03-11 | 800 | 122 | 
 | 2023-03-09 | 793 | 121 | 
 | 2023-03-08 | 785 | 120 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 327 | 43 | 
 | 2023-02-13 | 311 | 43 | 
 | 2023-02-11 | 293 | 41 | 
-| 2023-02-10 | 274 | 38 | 
 

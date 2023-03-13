@@ -1,10 +1,10 @@
 # wotbrew/relic - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 341
+★ Stars: 342
 
 [Open repository](https://github.com/wotbrew/relic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 342 | 5 | 
 | 2023-03-11 | 341 | 5 | 
 | 2023-03-09 | 341 | 5 | 
 | 2023-03-08 | 341 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 150 | 2 | 
 | 2023-02-13 | 149 | 2 | 
 | 2023-02-12 | 149 | 2 | 
-| 2023-02-10 | 147 | 2 | 
 

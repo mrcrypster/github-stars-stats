@@ -1,10 +1,10 @@
 # enmity-mod/enmity-ios - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 20
 
-★ Stars: 183
+★ Stars: 182
 
 [Open repository](https://github.com/enmity-mod/enmity-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 182 | 20 | 
 | 2023-03-11 | 183 | 20 | 
 | 2023-03-09 | 183 | 20 | 
 | 2023-03-08 | 183 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 180 | 19 | 
 | 2023-02-12 | 180 | 19 | 
 | 2023-02-11 | 180 | 19 | 
-| 2023-02-10 | 179 | 19 | 
 

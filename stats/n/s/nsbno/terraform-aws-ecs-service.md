@@ -1,10 +1,10 @@
 # nsbno/terraform-aws-ecs-service - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/nsbno/terraform-aws-ecs-service)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2 | 2 | 
+| 2023-03-12 | 1 | 2 | 
 | 2023-03-11 | 1 | 2 | 
 | 2023-03-09 | 1 | 2 | 
 | 2023-03-08 | 1 | 2 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1 | 2 | 
 | 2023-02-13 | 1 | 2 | 
 | 2023-02-11 | 1 | 2 | 
-| 2023-02-10 | 1 | 2 | 
 

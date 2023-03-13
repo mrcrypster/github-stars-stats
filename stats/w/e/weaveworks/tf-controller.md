@@ -1,8 +1,8 @@
 # weaveworks/tf-controller - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 692
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 692 | 63 | 
 | 2023-03-11 | 692 | 62 | 
 | 2023-03-09 | 688 | 62 | 
 | 2023-03-08 | 685 | 62 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 666 | 62 | 
 | 2023-02-12 | 666 | 62 | 
 | 2023-02-11 | 665 | 62 | 
-| 2023-02-10 | 665 | 62 | 
 

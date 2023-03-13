@@ -1,6 +1,6 @@
 # pufferfish-gg/Pufferfish - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 426 | 74 | 
 | 2023-03-11 | 426 | 74 | 
 | 2023-03-10 | 426 | 74 | 
 | 2023-03-09 | 427 | 74 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 416 | 72 | 
 | 2023-02-12 | 416 | 72 | 
 | 2023-02-11 | 416 | 72 | 
-| 2023-02-10 | 415 | 72 | 
 

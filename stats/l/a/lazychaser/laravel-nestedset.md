@@ -1,6 +1,6 @@
 # lazychaser/laravel-nestedset - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 442
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3357 | 442 | 
 | 2023-03-11 | 3357 | 442 | 
 | 2023-03-10 | 3357 | 441 | 
 | 2023-03-09 | 3355 | 441 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3339 | 439 | 
 | 2023-02-13 | 3339 | 439 | 
 | 2023-02-12 | 3337 | 439 | 
-| 2023-02-10 | 3337 | 439 | 
 

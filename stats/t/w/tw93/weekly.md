@@ -1,10 +1,10 @@
 # tw93/weekly - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 32
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/tw93/weekly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 297 | 32 | 
 | 2023-03-11 | 296 | 32 | 
 | 2023-03-10 | 296 | 32 | 
 | 2023-03-09 | 295 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 250 | 28 | 
 | 2023-02-12 | 249 | 28 | 
 | 2023-02-11 | 249 | 28 | 
-| 2023-02-10 | 249 | 28 | 
 

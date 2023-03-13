@@ -1,10 +1,10 @@
 # youshandefeiyang/sub-web-modify - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 170
 
-★ Stars: 584
+★ Stars: 586
 
 [Open repository](https://github.com/youshandefeiyang/sub-web-modify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 586 | 170 | 
 | 2023-03-11 | 584 | 170 | 
 | 2023-03-10 | 584 | 170 | 
 | 2023-03-08 | 583 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 555 | 164 | 
 | 2023-02-12 | 555 | 163 | 
 | 2023-02-11 | 555 | 163 | 
-| 2023-02-10 | 553 | 161 | 
 

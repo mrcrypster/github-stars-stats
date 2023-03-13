@@ -1,10 +1,10 @@
 # Zaplib/zaplib - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 33
 
-★ Stars: 1194
+★ Stars: 1193
 
 [Open repository](https://github.com/Zaplib/zaplib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1193 | 33 | 
 | 2023-03-11 | 1194 | 33 | 
 | 2023-03-10 | 1194 | 33 | 
 | 2023-03-09 | 1194 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1196 | 33 | 
 | 2023-02-12 | 1196 | 33 | 
 | 2023-02-11 | 1196 | 33 | 
-| 2023-02-10 | 1196 | 33 | 
 

@@ -1,6 +1,6 @@
 # rest-client/rest-client - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 967
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5207 | 967 | 
 | 2023-03-11 | 5207 | 967 | 
 | 2023-03-09 | 5207 | 967 | 
 | 2023-03-08 | 5207 | 967 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5201 | 969 | 
 | 2023-02-12 | 5200 | 969 | 
 | 2023-02-11 | 5200 | 969 | 
-| 2023-02-10 | 5200 | 969 | 
 

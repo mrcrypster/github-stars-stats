@@ -1,10 +1,10 @@
 # ayrat555/fang - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/ayrat555/fang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 439 | 15 | 
 | 2023-03-11 | 438 | 15 | 
 | 2023-03-09 | 438 | 15 | 
 | 2023-03-08 | 438 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 431 | 14 | 
 | 2023-02-12 | 431 | 14 | 
 | 2023-02-11 | 431 | 14 | 
-| 2023-02-10 | 431 | 14 | 
 

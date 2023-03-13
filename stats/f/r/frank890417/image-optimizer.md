@@ -1,6 +1,6 @@
 # frank890417/image-optimizer - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 92 | 4 | 
 | 2023-03-11 | 92 | 4 | 
 | 2023-03-09 | 91 | 4 | 
 | 2023-03-08 | 90 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 84 | 4 | 
 | 2023-02-13 | 84 | 4 | 
 | 2023-02-12 | 83 | 4 | 
-| 2023-02-11 | 80 | 4 | 
 

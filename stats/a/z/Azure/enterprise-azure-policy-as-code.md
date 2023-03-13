@@ -1,10 +1,10 @@
 # Azure/enterprise-azure-policy-as-code - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 93
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/Azure/enterprise-azure-policy-as-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 229 | 93 | 
 | 2023-03-11 | 228 | 93 | 
 | 2023-03-10 | 228 | 93 | 
 | 2023-03-09 | 228 | 93 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 220 | 88 | 
 | 2023-02-12 | 219 | 88 | 
 | 2023-02-11 | 218 | 88 | 
-| 2023-02-10 | 217 | 88 | 
 

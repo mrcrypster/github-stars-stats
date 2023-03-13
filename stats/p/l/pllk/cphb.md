@@ -1,10 +1,10 @@
 # pllk/cphb - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 291
 
-★ Stars: 2362
+★ Stars: 2361
 
 [Open repository](https://github.com/pllk/cphb)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2361 | 291 | 
 | 2023-03-10 | 2362 | 291 | 
 | 2023-03-09 | 2362 | 291 | 
 | 2023-03-08 | 2361 | 291 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 2351 | 291 | 
 | 2023-02-12 | 2351 | 291 | 
 | 2023-02-11 | 2351 | 291 | 
-| 2023-02-10 | 2351 | 291 | 
 

@@ -1,10 +1,10 @@
 # khchen/xl - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 42
 
 [Open repository](https://github.com/khchen/xl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 42 | - | 
 | 2023-03-11 | 39 | - | 
 | 2023-03-10 | 39 | - | 
 | 2023-03-09 | 39 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 37 | - | 
 | 2023-02-12 | 37 | - | 
 | 2023-02-11 | 37 | - | 
-| 2023-02-10 | 37 | - | 
 

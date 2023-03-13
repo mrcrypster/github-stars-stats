@@ -1,10 +1,10 @@
 # ibireme/YYModel - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 919
 
-★ Stars: 4320
+★ Stars: 4319
 
 [Open repository](https://github.com/ibireme/YYModel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4319 | 919 | 
 | 2023-03-11 | 4320 | 919 | 
 | 2023-03-10 | 4320 | 919 | 
 | 2023-03-08 | 4320 | 919 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4319 | 919 | 
 | 2023-02-13 | 4319 | 918 | 
 | 2023-02-12 | 4320 | 918 | 
-| 2023-02-11 | 4320 | 918 | 
 

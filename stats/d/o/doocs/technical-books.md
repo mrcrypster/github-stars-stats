@@ -1,6 +1,6 @@
 # doocs/technical-books - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 908
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4980 | 908 | 
 | 2023-03-11 | 4980 | 908 | 
 | 2023-03-09 | 4977 | 909 | 
 | 2023-03-08 | 4972 | 908 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4930 | 901 | 
 | 2023-02-12 | 4927 | 901 | 
 | 2023-02-11 | 4926 | 901 | 
-| 2023-02-10 | 4926 | 901 | 
 

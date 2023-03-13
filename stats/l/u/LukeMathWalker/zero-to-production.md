@@ -1,10 +1,10 @@
 # LukeMathWalker/zero-to-production - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 285
+☋ Forks: 286
 
-★ Stars: 3065
+★ Stars: 3075
 
 [Open repository](https://github.com/LukeMathWalker/zero-to-production)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3075 | 286 | 
 | 2023-03-10 | 3065 | 285 | 
 | 2023-03-09 | 3062 | 285 | 
 | 2023-03-07 | 3060 | 285 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 2984 | 279 | 
 | 2023-02-13 | 2978 | 279 | 
 | 2023-02-12 | 2973 | 280 | 
-| 2023-02-10 | 2973 | 280 | 
 

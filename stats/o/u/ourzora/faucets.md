@@ -1,6 +1,6 @@
 # ourzora/faucets - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 56 | 1 | 
 | 2023-03-11 | 56 | 1 | 
 | 2023-03-09 | 56 | 1 | 
 | 2023-03-08 | 56 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 56 | 1 | 
 | 2023-02-13 | 56 | 1 | 
 | 2023-02-12 | 56 | 1 | 
-| 2023-02-11 | 56 | 1 | 
 

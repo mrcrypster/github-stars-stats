@@ -1,8 +1,8 @@
 # DataDog/datadog-agent - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1020
+☋ Forks: 1019
 
 ★ Stars: 2049
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2049 | 1019 | 
 | 2023-03-11 | 2049 | 1020 | 
 | 2023-03-10 | 2048 | 1019 | 
 | 2023-03-09 | 2048 | 1016 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1999 | 991 | 
 | 2023-02-12 | 1997 | 990 | 
 | 2023-02-11 | 1996 | 990 | 
-| 2023-02-10 | 1995 | 990 | 
 

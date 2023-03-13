@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 12
 
 ☋ Forks: 17
 
-★ Stars: 376
+★ Stars: 379
 
 [Open repository](https://github.com/neemspees/tragic-methods)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-12 | 376 | 17 | 
+| 2023-03-12 | 379 | 17 | 
 | 2023-03-11 | 364 | 17 | 
 | 2023-03-10 | 335 | 17 | 
 

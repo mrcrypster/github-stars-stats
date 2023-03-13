@@ -1,6 +1,6 @@
 # GDi4K/unreal-openland - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 192 | 38 | 
 | 2023-03-11 | 192 | 38 | 
 | 2023-03-10 | 192 | 38 | 
 | 2023-03-09 | 192 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 185 | 39 | 
 | 2023-02-12 | 185 | 39 | 
 | 2023-02-11 | 185 | 39 | 
-| 2023-02-10 | 185 | 39 | 
 

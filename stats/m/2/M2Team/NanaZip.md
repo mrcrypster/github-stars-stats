@@ -1,10 +1,10 @@
 # M2Team/NanaZip - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 128
 
-★ Stars: 4347
+★ Stars: 4356
 
 [Open repository](https://github.com/M2Team/NanaZip)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4356 | 128 | 
 | 2023-03-11 | 4347 | 128 | 
 | 2023-03-10 | 4341 | 128 | 
 | 2023-03-08 | 4334 | 127 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 4160 | 123 | 
 | 2023-02-12 | 4148 | 123 | 
 | 2023-02-11 | 4136 | 123 | 
-| 2023-02-10 | 4128 | 123 | 
 

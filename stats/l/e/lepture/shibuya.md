@@ -1,6 +1,6 @@
 # lepture/shibuya - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 45 | 1 | 
 | 2023-03-11 | 45 | 1 | 
 | 2023-03-10 | 45 | 1 | 
 | 2023-03-08 | 45 | 1 | 

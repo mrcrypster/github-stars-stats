@@ -1,6 +1,6 @@
 # andrastantos/cray-sim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 96 | 9 | 
 | 2023-03-11 | 96 | 9 | 
 | 2023-03-10 | 96 | 9 | 
 | 2023-03-08 | 95 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 93 | 8 | 
 | 2023-02-12 | 93 | 8 | 
 | 2023-02-11 | 93 | 8 | 
-| 2023-02-10 | 93 | 8 | 
 

@@ -1,6 +1,6 @@
 # markmoxon/teletext-elite - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 15 | - | 
 | 2023-03-11 | 15 | - | 
 | 2023-03-10 | 15 | - | 
 | 2023-03-09 | 15 | - | 

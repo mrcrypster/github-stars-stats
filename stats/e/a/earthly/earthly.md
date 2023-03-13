@@ -1,6 +1,6 @@
 # earthly/earthly - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 8856 | 311 | 
 | 2023-03-10 | 8856 | 311 | 
 | 2023-03-09 | 8852 | 309 | 
 | 2023-03-08 | 8838 | 307 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 8669 | 298 | 
 | 2023-02-12 | 8669 | 298 | 
 | 2023-02-11 | 8666 | 298 | 
-| 2023-02-10 | 8662 | 297 | 
 

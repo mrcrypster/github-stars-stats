@@ -1,10 +1,10 @@
 # mac-cain13/R.swift - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 713
 
-★ Stars: 9019
+★ Stars: 9021
 
 [Open repository](https://github.com/mac-cain13/R.swift)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 9021 | 713 | 
 | 2023-03-11 | 9019 | 713 | 
 | 2023-03-10 | 9019 | 713 | 
 | 2023-03-08 | 9017 | 712 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 8983 | 706 | 
 | 2023-02-12 | 8980 | 705 | 
 | 2023-02-11 | 8980 | 705 | 
-| 2023-02-10 | 8979 | 704 | 
 

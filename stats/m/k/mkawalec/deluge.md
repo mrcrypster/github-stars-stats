@@ -1,6 +1,6 @@
 # mkawalec/deluge - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 304 | 6 | 
 | 2023-03-10 | 304 | 6 | 
 | 2023-03-09 | 304 | 6 | 
 | 2023-03-08 | 304 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 303 | 6 | 
 | 2023-02-12 | 303 | 6 | 
 | 2023-02-11 | 303 | 6 | 
-| 2023-02-10 | 303 | 6 | 
 

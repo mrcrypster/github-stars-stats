@@ -1,10 +1,10 @@
 # quchen/articles - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 93
 
-★ Stars: 1193
+★ Stars: 1192
 
 [Open repository](https://github.com/quchen/articles)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1192 | 93 | 
 | 2023-03-10 | 1193 | 93 | 
 | 2023-03-09 | 1193 | 93 | 
 | 2023-03-08 | 1194 | 93 | 

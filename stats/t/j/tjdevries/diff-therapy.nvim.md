@@ -1,10 +1,10 @@
 # tjdevries/diff-therapy.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 76
+★ Stars: 75
 
 [Open repository](https://github.com/tjdevries/diff-therapy.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 75 | 1 | 
 | 2023-03-11 | 76 | 1 | 
 | 2023-03-10 | 76 | 1 | 
 | 2023-03-08 | 76 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 75 | 1 | 
 | 2023-02-12 | 75 | 1 | 
 | 2023-02-11 | 75 | 1 | 
-| 2023-02-10 | 75 | 1 | 
 

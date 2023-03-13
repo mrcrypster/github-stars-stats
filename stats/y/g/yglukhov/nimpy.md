@@ -1,6 +1,6 @@
 # yglukhov/nimpy - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1241 | 57 | 
 | 2023-03-11 | 1241 | 57 | 
 | 2023-03-10 | 1241 | 57 | 
 | 2023-03-08 | 1239 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1216 | 56 | 
 | 2023-02-12 | 1214 | 56 | 
 | 2023-02-11 | 1215 | 56 | 
-| 2023-02-10 | 1213 | 56 | 
 

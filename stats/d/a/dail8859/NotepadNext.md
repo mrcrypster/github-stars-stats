@@ -1,8 +1,8 @@
 # dail8859/NotepadNext - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 351
+☋ Forks: 352
 
 ★ Stars: 5749
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5749 | 352 | 
 | 2023-03-10 | 5749 | 351 | 
 | 2023-03-09 | 5745 | 351 | 
 | 2023-03-08 | 5738 | 351 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 5642 | 350 | 
 | 2023-02-13 | 5640 | 349 | 
 | 2023-02-12 | 5634 | 349 | 
-| 2023-02-11 | 5628 | 349 | 
 

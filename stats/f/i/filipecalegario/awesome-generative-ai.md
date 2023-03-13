@@ -1,10 +1,10 @@
 # filipecalegario/awesome-generative-ai - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 51
 
-★ Stars: 442
+★ Stars: 447
 
 [Open repository](https://github.com/filipecalegario/awesome-generative-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 447 | 51 | 
 | 2023-03-11 | 442 | 51 | 
 | 2023-03-10 | 435 | 51 | 
 | 2023-03-08 | 433 | 51 | 

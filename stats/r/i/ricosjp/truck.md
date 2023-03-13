@@ -1,10 +1,10 @@
 # ricosjp/truck - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 25
 
-★ Stars: 367
+★ Stars: 371
 
 [Open repository](https://github.com/ricosjp/truck)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 371 | 25 | 
 | 2023-03-11 | 367 | 25 | 
 | 2023-03-10 | 361 | 25 | 
 

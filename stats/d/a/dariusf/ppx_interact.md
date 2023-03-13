@@ -1,10 +1,10 @@
 # dariusf/ppx_interact - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/dariusf/ppx_interact)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 35 | 1 | 
 | 2023-03-11 | 34 | 1 | 
 | 2023-03-10 | 34 | 1 | 
 | 2023-03-08 | 33 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 17 | - | 
 | 2023-02-13 | 17 | - | 
 | 2023-02-12 | 17 | - | 
-| 2023-02-11 | 17 | - | 
 

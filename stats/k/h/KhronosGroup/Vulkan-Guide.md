@@ -1,10 +1,10 @@
 # KhronosGroup/Vulkan-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 133
 
-★ Stars: 1470
+★ Stars: 1472
 
 [Open repository](https://github.com/KhronosGroup/Vulkan-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1472 | 133 | 
 | 2023-03-11 | 1470 | 133 | 
 | 2023-03-10 | 1470 | 132 | 
 | 2023-03-09 | 1469 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1444 | 126 | 
 | 2023-02-12 | 1442 | 126 | 
 | 2023-02-11 | 1440 | 126 | 
-| 2023-02-10 | 1440 | 126 | 
 

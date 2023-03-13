@@ -1,6 +1,6 @@
 # evadne/shun - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 73 | 2 | 
 | 2023-03-11 | 73 | 2 | 
 | 2023-03-10 | 72 | 2 | 
 | 2023-03-09 | 72 | 2 | 

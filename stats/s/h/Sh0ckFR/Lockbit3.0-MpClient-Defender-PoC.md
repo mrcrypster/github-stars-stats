@@ -1,6 +1,6 @@
 # Sh0ckFR/Lockbit3.0-MpClient-Defender-PoC - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 113 | 18 | 
 | 2023-03-11 | 113 | 18 | 
 | 2023-03-10 | 113 | 18 | 
 | 2023-03-08 | 113 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 113 | 19 | 
 | 2023-02-12 | 113 | 19 | 
 | 2023-02-11 | 113 | 19 | 
-| 2023-02-10 | 112 | 19 | 
 

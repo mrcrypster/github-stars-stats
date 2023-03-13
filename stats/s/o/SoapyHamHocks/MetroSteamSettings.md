@@ -1,6 +1,6 @@
 # SoapyHamHocks/MetroSteamSettings - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 145 | 12 | 
 | 2023-03-11 | 145 | 12 | 
 | 2023-03-10 | 146 | 12 | 
 | 2023-03-09 | 146 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 144 | 12 | 
 | 2023-02-12 | 144 | 12 | 
 | 2023-02-11 | 144 | 12 | 
-| 2023-02-10 | 144 | 12 | 
 

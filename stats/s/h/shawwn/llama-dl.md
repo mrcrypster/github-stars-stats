@@ -1,10 +1,10 @@
 # shawwn/llama-dl - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 248
+☋ Forks: 263
 
-★ Stars: 2339
+★ Stars: 2445
 
 [Open repository](https://github.com/shawwn/llama-dl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2445 | 263 | 
 | 2023-03-11 | 2339 | 248 | 
 | 2023-03-10 | 2267 | 240 | 
 | 2023-03-09 | 1976 | 212 | 

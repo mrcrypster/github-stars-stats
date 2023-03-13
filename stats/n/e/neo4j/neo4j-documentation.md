@@ -1,6 +1,6 @@
 # neo4j/neo4j-documentation - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 96 | 134 | 
 | 2023-03-10 | 96 | 134 | 
 | 2023-03-09 | 96 | 134 | 
 | 2023-03-08 | 96 | 134 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 96 | 135 | 
 | 2023-02-12 | 96 | 135 | 
 | 2023-02-11 | 96 | 135 | 
-| 2023-02-10 | 96 | 135 | 
 

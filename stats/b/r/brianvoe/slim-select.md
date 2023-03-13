@@ -1,10 +1,10 @@
 # brianvoe/slim-select - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 167
 
-★ Stars: 851
+★ Stars: 852
 
 [Open repository](https://github.com/brianvoe/slim-select)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 852 | 167 | 
 | 2023-03-11 | 851 | 167 | 
 | 2023-03-10 | 851 | 167 | 
 | 2023-03-09 | 850 | 166 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 840 | 162 | 
 | 2023-02-13 | 840 | 162 | 
 | 2023-02-12 | 841 | 161 | 
-| 2023-02-10 | 840 | 161 | 
 

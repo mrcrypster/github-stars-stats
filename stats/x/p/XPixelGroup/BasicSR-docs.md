@@ -1,6 +1,6 @@
 # XPixelGroup/BasicSR-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 77 | 2 | 
 | 2023-03-11 | 77 | 2 | 
 | 2023-03-10 | 77 | 2 | 
 | 2023-03-08 | 77 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 74 | 2 | 
 | 2023-02-12 | 74 | 2 | 
 | 2023-02-11 | 74 | 2 | 
-| 2023-02-10 | 74 | 2 | 
 

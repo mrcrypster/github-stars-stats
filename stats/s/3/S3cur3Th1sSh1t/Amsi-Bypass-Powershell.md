@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/Amsi-Bypass-Powershell - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 225
 
-★ Stars: 1104
+★ Stars: 1105
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1105 | 225 | 
 | 2023-03-11 | 1104 | 225 | 
 | 2023-03-10 | 1104 | 225 | 
 | 2023-03-09 | 1104 | 225 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1048 | 215 | 
 | 2023-02-12 | 1047 | 215 | 
 | 2023-02-11 | 1047 | 215 | 
-| 2023-02-10 | 1047 | 215 | 
 

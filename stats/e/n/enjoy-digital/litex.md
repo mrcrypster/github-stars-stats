@@ -1,10 +1,10 @@
 # enjoy-digital/litex - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 429
 
-★ Stars: 2023
+★ Stars: 2024
 
 [Open repository](https://github.com/enjoy-digital/litex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2024 | 429 | 
 | 2023-03-11 | 2023 | 429 | 
 | 2023-03-09 | 2020 | 428 | 
 | 2023-03-08 | 2019 | 428 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1986 | 425 | 
 | 2023-02-12 | 1983 | 425 | 
 | 2023-02-11 | 1983 | 425 | 
-| 2023-02-10 | 1980 | 424 | 
 

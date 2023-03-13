@@ -1,10 +1,10 @@
 # TryGhost/node-sqlite3 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 774
 
-★ Stars: 5710
+★ Stars: 5711
 
 [Open repository](https://github.com/TryGhost/node-sqlite3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5711 | 774 | 
 | 2023-03-11 | 5710 | 774 | 
 | 2023-03-10 | 5708 | 774 | 
 | 2023-03-09 | 5705 | 774 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5668 | 765 | 
 | 2023-02-12 | 5663 | 764 | 
 | 2023-02-11 | 5662 | 764 | 
-| 2023-02-10 | 5663 | 764 | 
 

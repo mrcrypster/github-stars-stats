@@ -1,8 +1,8 @@
 # JuliaDocs/Documenter.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 420
+☋ Forks: 421
 
 ★ Stars: 671
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 671 | 421 | 
 | 2023-03-11 | 671 | 420 | 
 | 2023-03-10 | 671 | 420 | 
 | 2023-03-09 | 670 | 421 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 660 | 421 | 
 | 2023-02-13 | 660 | 420 | 
 | 2023-02-12 | 660 | 420 | 
-| 2023-02-11 | 661 | 420 | 
 

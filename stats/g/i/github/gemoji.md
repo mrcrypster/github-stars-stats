@@ -1,10 +1,10 @@
 # github/gemoji - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 817
+☋ Forks: 818
 
-★ Stars: 4182
+★ Stars: 4181
 
 [Open repository](https://github.com/github/gemoji)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4181 | 818 | 
 | 2023-03-11 | 4182 | 817 | 
 | 2023-03-10 | 4182 | 816 | 
 | 2023-03-08 | 4182 | 814 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 4173 | 803 | 
 | 2023-02-12 | 4173 | 803 | 
 | 2023-02-11 | 4173 | 803 | 
-| 2023-02-10 | 4172 | 803 | 
 

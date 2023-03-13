@@ -1,6 +1,6 @@
 # darklang/dark - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1255 | 79 | 
 | 2023-03-11 | 1255 | 79 | 
 | 2023-03-10 | 1255 | 79 | 
 | 2023-03-09 | 1255 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1231 | 77 | 
 | 2023-02-12 | 1230 | 77 | 
 | 2023-02-11 | 1230 | 77 | 
-| 2023-02-10 | 1230 | 77 | 
 

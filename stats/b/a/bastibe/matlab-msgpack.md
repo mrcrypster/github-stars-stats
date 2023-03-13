@@ -1,10 +1,10 @@
 # bastibe/matlab-msgpack - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/bastibe/matlab-msgpack)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 13 | 5 | 
+| 2023-03-12 | 14 | 5 | 
 | 2023-03-11 | 14 | 5 | 
 | 2023-03-10 | 14 | 5 | 
 | 2023-03-09 | 14 | 5 | 

@@ -1,10 +1,10 @@
 # clemedon/Makefile_tutor - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 17
 
-★ Stars: 477
+★ Stars: 478
 
 [Open repository](https://github.com/clemedon/Makefile_tutor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 478 | 17 | 
 | 2023-03-11 | 477 | 17 | 
 | 2023-03-10 | 476 | 17 | 
 | 2023-03-08 | 476 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 462 | 15 | 
 | 2023-02-12 | 462 | 15 | 
 | 2023-02-11 | 461 | 15 | 
-| 2023-02-10 | 461 | 15 | 
 

@@ -1,10 +1,10 @@
 # webmozarts/assert - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 133
 
-★ Stars: 7268
+★ Stars: 7269
 
 [Open repository](https://github.com/webmozarts/assert)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 7269 | 133 | 
 | 2023-03-11 | 7268 | 133 | 
 | 2023-03-10 | 7268 | 133 | 
 | 2023-03-08 | 7267 | 133 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 7263 | 132 | 
 | 2023-02-12 | 7261 | 132 | 
 | 2023-02-11 | 7261 | 132 | 
-| 2023-02-10 | 7261 | 132 | 
 

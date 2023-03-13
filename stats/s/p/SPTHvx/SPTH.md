@@ -1,10 +1,10 @@
 # SPTHvx/SPTH - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/SPTHvx/SPTH)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 93 | 11 | 
 | 2023-03-11 | 92 | 11 | 
 | 2023-03-09 | 91 | 11 | 
 | 2023-03-08 | 91 | 11 | 

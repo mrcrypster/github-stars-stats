@@ -1,10 +1,10 @@
 # solidjs/solid-start - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 246
 
-★ Stars: 3207
+★ Stars: 3211
 
 [Open repository](https://github.com/solidjs/solid-start)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3211 | 246 | 
 | 2023-03-11 | 3207 | 246 | 
 | 2023-03-09 | 3195 | 247 | 
 | 2023-03-08 | 3185 | 245 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3033 | 231 | 
 | 2023-02-13 | 3027 | 231 | 
 | 2023-02-12 | 3021 | 231 | 
-| 2023-02-10 | 3015 | 230 | 
 

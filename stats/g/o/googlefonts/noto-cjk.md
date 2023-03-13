@@ -1,10 +1,10 @@
 # googlefonts/noto-cjk - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 176
+☋ Forks: 177
 
-★ Stars: 2144
+★ Stars: 2146
 
 [Open repository](https://github.com/googlefonts/noto-cjk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2146 | 177 | 
 | 2023-03-11 | 2144 | 176 | 
 | 2023-03-10 | 2144 | 176 | 
 | 2023-03-09 | 2145 | 176 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2107 | 176 | 
 | 2023-02-12 | 2105 | 175 | 
 | 2023-02-11 | 2102 | 175 | 
-| 2023-02-10 | 2100 | 175 | 
 

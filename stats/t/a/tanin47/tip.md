@@ -1,6 +1,6 @@
 # tanin47/tip - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 914 | 28 | 
 | 2023-03-11 | 914 | 28 | 
 | 2023-03-10 | 914 | 28 | 
 | 2023-03-09 | 913 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 911 | 28 | 
 | 2023-02-13 | 911 | 28 | 
 | 2023-02-12 | 911 | 28 | 
-| 2023-02-11 | 910 | 28 | 
 

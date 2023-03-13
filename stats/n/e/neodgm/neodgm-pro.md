@@ -1,6 +1,6 @@
 # neodgm/neodgm-pro - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 63 | 2 | 
+| 2023-03-12 | 63 | 2 | 
 | 2023-03-11 | 63 | 2 | 
 | 2023-03-10 | 63 | 2 | 
 | 2023-03-08 | 63 | 2 | 

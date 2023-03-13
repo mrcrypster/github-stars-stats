@@ -1,8 +1,8 @@
 # coolsnowwolf/luci - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 534
+☋ Forks: 533
 
 ★ Stars: 214
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 214 | 533 | 
 | 2023-03-11 | 214 | 534 | 
 | 2023-03-09 | 212 | 533 | 
 | 2023-03-08 | 211 | 534 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 206 | 523 | 
 | 2023-02-13 | 206 | 522 | 
 | 2023-02-11 | 206 | 522 | 
-| 2023-02-10 | 205 | 521 | 
 

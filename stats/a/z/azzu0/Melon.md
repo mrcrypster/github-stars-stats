@@ -1,10 +1,10 @@
 # azzu0/Melon - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/azzu0/Melon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 27 | 11 | 
 | 2023-03-11 | 26 | 11 | 
 | 2023-03-10 | 24 | 11 | 
 | 2023-03-09 | 22 | 11 | 

@@ -1,8 +1,8 @@
 # Azure/azure-rest-api-specs - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 4229
+☋ Forks: 4230
 
 ★ Stars: 1992
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1992 | 4230 | 
 | 2023-03-10 | 1992 | 4229 | 
 | 2023-03-09 | 1991 | 4225 | 
 | 2023-03-08 | 1990 | 4225 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 1967 | 4175 | 
 | 2023-02-12 | 1966 | 4173 | 
 | 2023-02-11 | 1966 | 4172 | 
-| 2023-02-10 | 1964 | 4170 | 
 

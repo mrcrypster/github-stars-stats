@@ -1,6 +1,6 @@
 # leath-dub/stat.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 15 | 1 | 
 | 2023-03-10 | 15 | 1 | 
 | 2023-03-09 | 15 | 1 | 
 | 2023-03-08 | 15 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 14 | - | 
 | 2023-02-13 | 14 | - | 
 | 2023-02-11 | 14 | - | 
-| 2023-02-10 | 14 | - | 
 

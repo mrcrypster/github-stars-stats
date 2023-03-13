@@ -1,10 +1,10 @@
 # elixir-nx/tokenizers - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/elixir-nx/tokenizers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 56 | 8 | 
 | 2023-03-11 | 55 | 8 | 
 | 2023-03-10 | 55 | 8 | 
 | 2023-03-09 | 55 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 50 | 7 | 
 | 2023-02-12 | 50 | 7 | 
 | 2023-02-11 | 50 | 7 | 
-| 2023-02-10 | 50 | 7 | 
 

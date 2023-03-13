@@ -1,6 +1,6 @@
 # NYU-Processor-Design/onboarding-lab-4 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | - | 9 | 
 | 2023-03-11 | - | 9 | 
 | 2023-03-10 | - | 8 | 
 | 2023-03-09 | - | 7 | 

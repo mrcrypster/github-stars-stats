@@ -1,6 +1,6 @@
 # dilmerv/ARRacingGame - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 23 | 6 | 
 | 2023-03-10 | 23 | 6 | 
 | 2023-03-09 | 22 | 6 | 
 | 2023-03-08 | 21 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 21 | 6 | 
 | 2023-02-13 | 21 | 6 | 
 | 2023-02-12 | 21 | 6 | 
-| 2023-02-11 | 21 | 6 | 
 

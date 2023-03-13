@@ -1,10 +1,10 @@
 # microsoft/cheriot-ibex - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/microsoft/cheriot-ibex)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 26 | 4 | 
 | 2023-03-11 | 25 | 4 | 
 | 2023-03-10 | 25 | 4 | 
 | 2023-03-09 | 25 | 4 | 

@@ -1,6 +1,6 @@
 # princekin-f/EasyFloat - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2856 | 365 | 
 | 2023-03-11 | 2856 | 365 | 
 | 2023-03-10 | 2854 | 365 | 
 | 2023-03-09 | 2853 | 365 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 2824 | 359 | 
 | 2023-02-12 | 2823 | 359 | 
 | 2023-02-11 | 2823 | 359 | 
-| 2023-02-10 | 2822 | 359 | 
 

@@ -1,10 +1,10 @@
 # lin-xin/vue-manage-system - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 5584
+☋ Forks: 5585
 
-★ Stars: 16522
+★ Stars: 16530
 
 [Open repository](https://github.com/lin-xin/vue-manage-system)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 16530 | 5585 | 
 | 2023-03-11 | 16522 | 5584 | 
 | 2023-03-10 | 16521 | 5582 | 
 | 2023-03-08 | 16505 | 5577 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 16356 | 5539 | 
 | 2023-02-12 | 16351 | 5538 | 
 | 2023-02-11 | 16351 | 5537 | 
-| 2023-02-10 | 16348 | 5536 | 
 

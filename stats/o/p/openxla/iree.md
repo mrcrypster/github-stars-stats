@@ -1,6 +1,6 @@
 # openxla/iree - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1690 | 375 | 
 | 2023-03-11 | 1690 | 375 | 
 | 2023-03-10 | 1679 | 376 | 
 

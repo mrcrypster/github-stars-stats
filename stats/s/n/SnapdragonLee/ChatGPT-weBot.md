@@ -1,10 +1,10 @@
 # SnapdragonLee/ChatGPT-weBot - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 54
+☋ Forks: 57
 
-★ Stars: 282
+★ Stars: 289
 
 [Open repository](https://github.com/SnapdragonLee/ChatGPT-weBot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 289 | 57 | 
 | 2023-03-11 | 282 | 54 | 
 | 2023-03-10 | 278 | 53 | 
 | 2023-03-08 | 265 | 51 | 

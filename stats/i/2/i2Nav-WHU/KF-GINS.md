@@ -1,10 +1,10 @@
 # i2Nav-WHU/KF-GINS - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/i2Nav-WHU/KF-GINS)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 217 | 84 | 
 | 2023-03-11 | 216 | 83 | 
 | 2023-03-09 | 215 | 83 | 
 | 2023-03-08 | 214 | 83 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 199 | 74 | 
 | 2023-02-12 | 196 | 74 | 
 | 2023-02-11 | 196 | 74 | 
-| 2023-02-10 | 196 | 74 | 
 

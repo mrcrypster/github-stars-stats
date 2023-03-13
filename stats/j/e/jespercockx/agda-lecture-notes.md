@@ -1,8 +1,8 @@
 # jespercockx/agda-lecture-notes - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 85 | 9 | 
 | 2023-03-11 | 85 | 8 | 
 | 2023-03-09 | 84 | 8 | 
 | 2023-03-08 | 84 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 81 | 7 | 
 | 2023-02-12 | 81 | 7 | 
 | 2023-02-11 | 80 | 7 | 
-| 2023-02-10 | 80 | 7 | 
 

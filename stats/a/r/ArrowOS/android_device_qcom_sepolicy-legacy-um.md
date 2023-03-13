@@ -1,6 +1,6 @@
 # ArrowOS/android_device_qcom_sepolicy-legacy-um - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | - | 21 | 
 | 2023-03-11 | - | 21 | 
 | 2023-03-10 | - | 21 | 
 | 2023-03-09 | - | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | - | 19 | 
 | 2023-02-13 | - | 19 | 
 | 2023-02-11 | - | 19 | 
-| 2023-02-10 | - | 19 | 
 

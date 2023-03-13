@@ -1,10 +1,10 @@
 # jorgenschaefer/elpy - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 252
 
-★ Stars: 1831
+★ Stars: 1832
 
 [Open repository](https://github.com/jorgenschaefer/elpy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1832 | 252 | 
 | 2023-03-11 | 1831 | 252 | 
 | 2023-03-09 | 1831 | 251 | 
 | 2023-03-08 | 1831 | 251 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1829 | 251 | 
 | 2023-02-13 | 1827 | 251 | 
 | 2023-02-12 | 1827 | 251 | 
-| 2023-02-10 | 1827 | 251 | 
 

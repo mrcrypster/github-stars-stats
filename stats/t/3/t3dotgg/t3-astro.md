@@ -1,10 +1,10 @@
 # t3dotgg/t3-astro - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 9
+☋ Forks: 8
 
-★ Stars: 49
+★ Stars: 48
 
 [Open repository](https://github.com/t3dotgg/t3-astro)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 48 | 8 | 
 | 2023-03-11 | 49 | 9 | 
 | 2023-03-10 | 49 | 9 | 
 | 2023-03-09 | 48 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 45 | 9 | 
 | 2023-02-13 | 45 | 9 | 
 | 2023-02-11 | 45 | 9 | 
-| 2023-02-10 | 45 | 9 | 
 

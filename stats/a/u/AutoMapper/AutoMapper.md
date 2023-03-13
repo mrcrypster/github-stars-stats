@@ -1,10 +1,10 @@
 # AutoMapper/AutoMapper - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1707
 
-★ Stars: 9269
+★ Stars: 9273
 
 [Open repository](https://github.com/AutoMapper/AutoMapper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 9273 | 1707 | 
 | 2023-03-11 | 9269 | 1707 | 
 | 2023-03-10 | 9269 | 1706 | 
 | 2023-03-09 | 9268 | 1705 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 9225 | 1704 | 
 | 2023-02-12 | 9225 | 1704 | 
 | 2023-02-11 | 9223 | 1704 | 
-| 2023-02-10 | 9222 | 1705 | 
 

@@ -1,10 +1,10 @@
 # symfony/dom-crawler - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 123
 
-★ Stars: 3746
+★ Stars: 3749
 
 [Open repository](https://github.com/symfony/dom-crawler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3749 | 123 | 
 | 2023-03-11 | 3746 | 123 | 
 | 2023-03-10 | 3745 | 123 | 
 | 2023-03-08 | 3744 | 123 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3735 | 123 | 
 | 2023-02-13 | 3735 | 123 | 
 | 2023-02-12 | 3734 | 123 | 
-| 2023-02-11 | 3734 | 123 | 
 

@@ -1,6 +1,6 @@
 # single-spa/single-spa - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 868
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 12164 | 868 | 
 | 2023-03-11 | 12164 | 868 | 
 | 2023-03-10 | 12162 | 868 | 
 | 2023-03-09 | 12161 | 867 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 12082 | 864 | 
 | 2023-02-12 | 12083 | 864 | 
 | 2023-02-11 | 12083 | 864 | 
-| 2023-02-10 | 12085 | 864 | 
 

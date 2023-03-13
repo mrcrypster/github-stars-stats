@@ -1,6 +1,6 @@
 # ImperialCollegeLondon/formalising-mathematics-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 103 | 25 | 
 | 2023-03-11 | 103 | 25 | 
 | 2023-03-10 | 103 | 25 | 
 | 2023-03-08 | 103 | 25 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 101 | 25 | 
 | 2023-02-13 | 100 | 25 | 
 | 2023-02-11 | 100 | 25 | 
-| 2023-02-10 | 100 | 25 | 
 

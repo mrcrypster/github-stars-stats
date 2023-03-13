@@ -1,10 +1,10 @@
 # LibreQuest/OculusKiller - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 38
+☋ Forks: 37
 
-★ Stars: 829
+★ Stars: 830
 
 [Open repository](https://github.com/LibreQuest/OculusKiller)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 830 | 37 | 
 | 2023-03-11 | 829 | 38 | 
 | 2023-03-10 | 829 | 38 | 
 | 2023-03-08 | 827 | 38 | 

@@ -1,6 +1,6 @@
 # danielgtaylor/aglio - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 485
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4721 | 485 | 
 | 2023-03-11 | 4721 | 485 | 
 | 2023-03-10 | 4721 | 485 | 
 | 2023-03-08 | 4720 | 486 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4717 | 487 | 
 | 2023-02-13 | 4716 | 487 | 
 | 2023-02-11 | 4716 | 487 | 
-| 2023-02-10 | 4716 | 487 | 
 

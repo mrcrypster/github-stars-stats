@@ -1,6 +1,6 @@
 # ShiangHu/Unified-EEG-reference-rREST - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 5 | 7 | 
 | 2023-03-10 | 5 | 7 | 
 | 2023-03-09 | 5 | 7 | 
 | 2023-03-08 | 5 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 5 | 7 | 
 | 2023-02-13 | 5 | 7 | 
 | 2023-02-12 | 5 | 7 | 
-| 2023-02-10 | 5 | 7 | 
 

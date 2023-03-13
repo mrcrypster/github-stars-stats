@@ -1,10 +1,10 @@
 # romainthomas/the-poor-mans-obfuscator - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 16
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/romainthomas/the-poor-mans-obfuscator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 201 | 16 | 
 | 2023-03-10 | 200 | 16 | 
 | 2023-03-09 | 200 | 16 | 
 | 2023-03-08 | 200 | 16 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 200 | 16 | 
 | 2023-02-12 | 200 | 16 | 
 | 2023-02-11 | 200 | 16 | 
-| 2023-02-10 | 200 | 16 | 
 

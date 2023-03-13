@@ -1,6 +1,6 @@
 # kgns/gloves - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 138 | 48 | 
 | 2023-03-11 | 138 | 48 | 
 | 2023-03-10 | 137 | 48 | 
 | 2023-03-08 | 137 | 48 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 135 | 47 | 
 | 2023-02-12 | 135 | 47 | 
 | 2023-02-11 | 134 | 47 | 
-| 2023-02-10 | 133 | 47 | 
 

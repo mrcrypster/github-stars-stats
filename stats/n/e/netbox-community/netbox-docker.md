@@ -1,10 +1,10 @@
 # netbox-community/netbox-docker - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 523
 
-★ Stars: 1230
+★ Stars: 1232
 
 [Open repository](https://github.com/netbox-community/netbox-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1232 | 523 | 
 | 2023-03-10 | 1230 | 523 | 
 | 2023-03-09 | 1229 | 522 | 
 | 2023-03-08 | 1229 | 522 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 1201 | 517 | 
 | 2023-02-12 | 1200 | 517 | 
 | 2023-02-11 | 1199 | 517 | 
-| 2023-02-10 | 1199 | 517 | 
 

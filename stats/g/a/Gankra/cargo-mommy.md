@@ -1,10 +1,10 @@
 # Gankra/cargo-mommy - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 13
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/Gankra/cargo-mommy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 273 | 13 | 
 | 2023-03-10 | 272 | 13 | 
 | 2023-03-09 | 272 | 13 | 
 | 2023-03-08 | 271 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 250 | 13 | 
 | 2023-02-12 | 240 | 13 | 
 | 2023-02-11 | 239 | 12 | 
-| 2023-02-10 | 238 | 12 | 
 

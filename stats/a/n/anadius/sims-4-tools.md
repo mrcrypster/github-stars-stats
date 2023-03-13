@@ -1,6 +1,6 @@
 # anadius/sims-4-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 13 | 12 | 
 | 2023-03-11 | 13 | 12 | 
 | 2023-03-10 | 13 | 12 | 
 | 2023-03-09 | 13 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 13 | 12 | 
 | 2023-02-12 | 13 | 12 | 
 | 2023-02-11 | 13 | 12 | 
-| 2023-02-10 | 13 | 12 | 
 

@@ -1,6 +1,6 @@
 # nix-community/nix-installers - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 41 | 4 | 
 | 2023-03-11 | 41 | 4 | 
 | 2023-03-10 | 41 | 4 | 
 | 2023-03-08 | 40 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 36 | 4 | 
 | 2023-02-12 | 36 | 4 | 
 | 2023-02-11 | 36 | 4 | 
-| 2023-02-10 | 36 | 4 | 
 

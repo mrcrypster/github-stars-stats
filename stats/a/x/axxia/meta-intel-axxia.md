@@ -1,6 +1,6 @@
 # axxia/meta-intel-axxia - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 6 | 4 | 
 | 2023-03-11 | 6 | 4 | 
 | 2023-03-10 | 6 | 4 | 
 | 2023-03-08 | 6 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 6 | 5 | 
 | 2023-02-12 | 6 | 5 | 
 | 2023-02-11 | 6 | 5 | 
-| 2023-02-10 | 6 | 5 | 
 

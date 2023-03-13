@@ -1,10 +1,10 @@
 # raminmh/CfC - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 609
+★ Stars: 610
 
 [Open repository](https://github.com/raminmh/CfC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 610 | 80 | 
 | 2023-03-10 | 609 | 79 | 
 | 2023-03-09 | 609 | 79 | 
 | 2023-03-08 | 606 | 79 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 534 | 66 | 
 | 2023-02-13 | 531 | 66 | 
 | 2023-02-12 | 530 | 66 | 
-| 2023-02-11 | 530 | 66 | 
 

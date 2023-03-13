@@ -1,8 +1,8 @@
 # elementor/elementor - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1219
+☋ Forks: 1220
 
 ★ Stars: 5030
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5030 | 1220 | 
 | 2023-03-11 | 5030 | 1219 | 
 | 2023-03-10 | 5022 | 1219 | 
 | 2023-03-08 | 5015 | 1219 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4949 | 1211 | 
 | 2023-02-13 | 4925 | 1210 | 
 | 2023-02-12 | 4925 | 1209 | 
-| 2023-02-11 | 4925 | 1208 | 
 

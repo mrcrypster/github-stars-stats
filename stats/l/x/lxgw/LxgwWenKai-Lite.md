@@ -1,6 +1,6 @@
 # lxgw/LxgwWenKai-Lite - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 167 | 3 | 
 | 2023-03-10 | 167 | 3 | 
 | 2023-03-09 | 167 | 3 | 
 | 2023-03-07 | 166 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 156 | 3 | 
 | 2023-02-13 | 156 | 3 | 
 | 2023-02-12 | 156 | 3 | 
-| 2023-02-10 | 155 | 3 | 
 

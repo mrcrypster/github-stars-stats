@@ -1,6 +1,6 @@
 # minad/corfu - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 655 | 31 | 
 | 2023-03-10 | 655 | 31 | 
 | 2023-03-09 | 654 | 31 | 
 | 2023-03-08 | 650 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 630 | 31 | 
 | 2023-02-12 | 630 | 31 | 
 | 2023-02-11 | 627 | 31 | 
-| 2023-02-10 | 625 | 31 | 
 

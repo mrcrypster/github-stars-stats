@@ -1,6 +1,6 @@
 # Windower/Lua - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 410
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 198 | 410 | 
 | 2023-03-11 | 198 | 410 | 
 | 2023-03-10 | 198 | 409 | 
 | 2023-03-08 | 198 | 409 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 198 | 406 | 
 | 2023-02-12 | 198 | 406 | 
 | 2023-02-11 | 198 | 406 | 
-| 2023-02-10 | 198 | 406 | 
 

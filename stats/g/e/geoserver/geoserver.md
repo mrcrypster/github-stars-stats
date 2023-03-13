@@ -1,6 +1,6 @@
 # geoserver/geoserver - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1999
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3069 | 1999 | 
 | 2023-03-11 | 3069 | 1999 | 
 | 2023-03-09 | 3068 | 1999 | 
 | 2023-03-08 | 3062 | 1997 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 3036 | 1991 | 
 | 2023-02-12 | 3034 | 1989 | 
 | 2023-02-11 | 3034 | 1989 | 
-| 2023-02-10 | 3034 | 1988 | 
 

@@ -1,8 +1,8 @@
 # datasciencedojo/datasets - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1469
+☋ Forks: 1473
 
 ★ Stars: 102
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 102 | 1473 | 
 | 2023-03-11 | 102 | 1469 | 
 | 2023-03-10 | 102 | 1471 | 
 | 2023-03-09 | 102 | 1469 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 98 | 1414 | 
 | 2023-02-12 | 98 | 1411 | 
 | 2023-02-11 | 97 | 1407 | 
-| 2023-02-10 | 97 | 1406 | 
 

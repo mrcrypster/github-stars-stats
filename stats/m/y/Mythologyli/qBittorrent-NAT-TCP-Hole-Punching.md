@@ -1,10 +1,10 @@
 # Mythologyli/qBittorrent-NAT-TCP-Hole-Punching - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/Mythologyli/qBittorrent-NAT-TCP-Hole-Punching)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 64 | 11 | 
 | 2023-03-10 | 63 | 11 | 
 | 2023-03-09 | 63 | 11 | 
 | 2023-03-08 | 59 | 11 | 

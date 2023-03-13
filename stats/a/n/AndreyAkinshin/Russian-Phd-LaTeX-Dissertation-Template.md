@@ -1,6 +1,6 @@
 # AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 596
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1141 | 596 | 
 | 2023-03-11 | 1141 | 596 | 
 | 2023-03-10 | 1141 | 596 | 
 | 2023-03-08 | 1141 | 595 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1136 | 593 | 
 | 2023-02-12 | 1135 | 593 | 
 | 2023-02-11 | 1135 | 593 | 
-| 2023-02-10 | 1133 | 593 | 
 

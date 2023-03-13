@@ -1,10 +1,10 @@
 # ponfee/distributed-scheduler - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 244
+★ Stars: 243
 
 [Open repository](https://github.com/ponfee/distributed-scheduler)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 243 | 27 | 
 | 2023-03-11 | 244 | 27 | 
 | 2023-03-10 | 244 | 27 | 
 | 2023-03-09 | 244 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 223 | 24 | 
 | 2023-02-13 | 220 | 24 | 
 | 2023-02-12 | 219 | 24 | 
-| 2023-02-10 | 218 | 24 | 
 

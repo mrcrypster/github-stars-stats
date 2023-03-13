@@ -1,10 +1,10 @@
 # swagger-api/swagger-codegen - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 5940
 
-★ Stars: 15398
+★ Stars: 15400
 
 [Open repository](https://github.com/swagger-api/swagger-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 15400 | 5940 | 
 | 2023-03-11 | 15398 | 5940 | 
 | 2023-03-10 | 15394 | 5940 | 
 | 2023-03-09 | 15388 | 5939 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 15286 | 5922 | 
 | 2023-02-12 | 15286 | 5921 | 
 | 2023-02-11 | 15283 | 5920 | 
-| 2023-02-10 | 15280 | 5921 | 
 

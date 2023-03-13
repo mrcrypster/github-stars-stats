@@ -1,6 +1,6 @@
 # KAIST-VCLAB/SparseEllipsometry - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 20 | 6 | 
 | 2023-03-11 | 20 | 6 | 
 | 2023-03-10 | 20 | 6 | 
 | 2023-03-09 | 20 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 19 | 6 | 
 | 2023-02-12 | 19 | 6 | 
 | 2023-02-11 | 19 | 6 | 
-| 2023-02-10 | 19 | 6 | 
 

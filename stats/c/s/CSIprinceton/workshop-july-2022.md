@@ -1,6 +1,6 @@
 # CSIprinceton/workshop-july-2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 37 | 14 | 
 | 2023-03-10 | 37 | 14 | 
 | 2023-03-09 | 37 | 13 | 
 | 2023-03-08 | 37 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 32 | 13 | 
 | 2023-02-13 | 31 | 12 | 
 | 2023-02-11 | 31 | 12 | 
-| 2023-02-10 | 31 | 12 | 
 

@@ -1,10 +1,10 @@
 # d-bucur/godot-vision-cone - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/d-bucur/godot-vision-cone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 16 | - | 
 | 2023-03-11 | 15 | - | 
 | 2023-03-10 | 15 | - | 
 | 2023-03-08 | 15 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 15 | - | 
 | 2023-02-13 | 15 | - | 
 | 2023-02-12 | 15 | - | 
-| 2023-02-10 | 15 | - | 
 

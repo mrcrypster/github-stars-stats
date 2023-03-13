@@ -1,10 +1,10 @@
 # WhoIsSethDaniel/lualine-lsp-progress.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 55 | 2 | 
 | 2023-03-10 | 54 | 2 | 
 | 2023-03-09 | 53 | 2 | 
 | 2023-03-08 | 53 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 52 | 2 | 
 | 2023-02-13 | 51 | 2 | 
 | 2023-02-12 | 50 | 2 | 
-| 2023-02-10 | 49 | 2 | 
 

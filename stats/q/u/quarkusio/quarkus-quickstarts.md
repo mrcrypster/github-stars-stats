@@ -1,8 +1,8 @@
 # quarkusio/quarkus-quickstarts - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1285
+☋ Forks: 1286
 
 ★ Stars: 1671
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1671 | 1286 | 
 | 2023-03-11 | 1671 | 1285 | 
 | 2023-03-09 | 1670 | 1285 | 
 | 2023-03-08 | 1673 | 1284 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1650 | 1270 | 
 | 2023-02-12 | 1648 | 1270 | 
 | 2023-02-11 | 1647 | 1270 | 
-| 2023-02-10 | 1646 | 1269 | 
 

@@ -1,10 +1,10 @@
 # Azure/terraform-azurerm-subnets - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 7
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Azure/terraform-azurerm-subnets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3 | 7 | 
 | 2023-03-11 | 2 | 7 | 
 | 2023-03-10 | 2 | 7 | 
 | 2023-03-09 | 2 | 7 | 

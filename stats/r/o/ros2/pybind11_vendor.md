@@ -1,10 +1,10 @@
 # ros2/pybind11_vendor - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/ros2/pybind11_vendor)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3 | 4 | 
 | 2023-03-11 | 2 | 4 | 
 | 2023-03-10 | 2 | 4 | 
 | 2023-03-09 | 2 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2 | 4 | 
 | 2023-02-12 | 2 | 4 | 
 | 2023-02-11 | 2 | 4 | 
-| 2023-02-10 | 2 | 4 | 
 

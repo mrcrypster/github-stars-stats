@@ -1,10 +1,10 @@
 # treasure-data/td-ios-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 25
 
-★ Stars: 22
+★ Stars: 21
 
 [Open repository](https://github.com/treasure-data/td-ios-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 21 | 25 | 
 | 2023-03-11 | 22 | 25 | 
 | 2023-03-10 | 22 | 25 | 
 | 2023-03-08 | 22 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 20 | 25 | 
 | 2023-02-13 | 20 | 25 | 
 | 2023-02-12 | 20 | 25 | 
-| 2023-02-10 | 20 | 25 | 
 

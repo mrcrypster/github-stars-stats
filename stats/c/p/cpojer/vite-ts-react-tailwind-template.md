@@ -1,6 +1,6 @@
 # cpojer/vite-ts-react-tailwind-template - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 322 | 16 | 
 | 2023-03-10 | 322 | 16 | 
 | 2023-03-09 | 320 | 16 | 
 | 2023-03-07 | 315 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 312 | 13 | 
 | 2023-02-12 | 311 | 13 | 
 | 2023-02-11 | 311 | 12 | 
-| 2023-02-10 | 310 | 12 | 
 

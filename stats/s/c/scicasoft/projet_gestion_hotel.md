@@ -1,6 +1,6 @@
 # scicasoft/projet_gestion_hotel - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 8
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3 | 8 | 
 | 2023-03-11 | 3 | 8 | 
 

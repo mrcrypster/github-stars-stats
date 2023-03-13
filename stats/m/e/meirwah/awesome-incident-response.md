@@ -1,6 +1,6 @@
 # meirwah/awesome-incident-response - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1379
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 6019 | 1379 | 
 | 2023-03-11 | 6019 | 1379 | 
 | 2023-03-10 | 6015 | 1379 | 
 | 2023-03-08 | 6012 | 1379 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 5950 | 1371 | 
 | 2023-02-12 | 5950 | 1369 | 
 | 2023-02-11 | 5947 | 1369 | 
-| 2023-02-10 | 5941 | 1368 | 
 

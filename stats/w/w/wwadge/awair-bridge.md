@@ -1,6 +1,6 @@
 # wwadge/awair-bridge - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 15 | 3 | 
 | 2023-03-11 | 15 | 3 | 
 | 2023-03-09 | 15 | 3 | 
 | 2023-03-08 | 15 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 15 | 3 | 
 | 2023-02-12 | 15 | 3 | 
 | 2023-02-11 | 15 | 3 | 
-| 2023-02-10 | 15 | 3 | 
 

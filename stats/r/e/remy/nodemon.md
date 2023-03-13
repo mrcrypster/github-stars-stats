@@ -1,10 +1,10 @@
 # remy/nodemon - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 1700
 
-★ Stars: 25011
+★ Stars: 25012
 
 [Open repository](https://github.com/remy/nodemon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 25012 | 1700 | 
 | 2023-03-11 | 25011 | 1700 | 
 | 2023-03-09 | 25010 | 1700 | 
 | 2023-03-08 | 25006 | 1698 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 24933 | 1699 | 
 | 2023-02-12 | 24925 | 1699 | 
 | 2023-02-11 | 24925 | 1699 | 
-| 2023-02-10 | 24924 | 1698 | 
 

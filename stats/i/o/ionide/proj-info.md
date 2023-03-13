@@ -1,6 +1,6 @@
 # ionide/proj-info - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 61 | 32 | 
 | 2023-03-11 | 61 | 32 | 
 | 2023-03-09 | 61 | 31 | 
 | 2023-03-08 | 61 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 62 | 32 | 
 | 2023-02-12 | 62 | 32 | 
 | 2023-02-11 | 62 | 32 | 
-| 2023-02-10 | 62 | 32 | 
 

@@ -1,10 +1,10 @@
 # tillitis/tillitis-key1 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 18
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/tillitis/tillitis-key1)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 254 | 18 | 
 | 2023-03-11 | 253 | 18 | 
 | 2023-03-10 | 252 | 18 | 
 | 2023-03-08 | 252 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 246 | 18 | 
 | 2023-02-13 | 246 | 18 | 
 | 2023-02-12 | 246 | 18 | 
-| 2023-02-11 | 246 | 18 | 
 

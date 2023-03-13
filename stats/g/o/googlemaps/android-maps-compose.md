@@ -1,6 +1,6 @@
 # googlemaps/android-maps-compose - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 821 | 64 | 
 | 2023-03-11 | 821 | 64 | 
 | 2023-03-10 | 819 | 63 | 
 | 2023-03-09 | 818 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 796 | 61 | 
 | 2023-02-12 | 796 | 61 | 
 | 2023-02-11 | 796 | 61 | 
-| 2023-02-10 | 796 | 61 | 
 

@@ -1,6 +1,6 @@
 # mandiant/STrace - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 230 | 31 | 
 | 2023-03-10 | 230 | 31 | 
 | 2023-03-09 | 230 | 31 | 
 | 2023-03-08 | 230 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 227 | 30 | 
 | 2023-02-12 | 227 | 30 | 
 | 2023-02-11 | 226 | 30 | 
-| 2023-02-10 | 226 | 30 | 
 

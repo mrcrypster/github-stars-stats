@@ -1,10 +1,10 @@
 # folderv/androidDataWithoutRootAPI33 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/folderv/androidDataWithoutRootAPI33)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 88 | 15 | 
 | 2023-03-11 | 87 | 15 | 
 | 2023-03-10 | 87 | 15 | 
 | 2023-03-08 | 87 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 81 | 14 | 
 | 2023-02-12 | 81 | 14 | 
 | 2023-02-11 | 81 | 14 | 
-| 2023-02-10 | 81 | 14 | 
 

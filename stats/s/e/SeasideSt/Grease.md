@@ -1,6 +1,6 @@
 # SeasideSt/Grease - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 17 | 20 | 
 | 2023-03-11 | 17 | 20 | 
 | 2023-03-10 | 17 | 20 | 
 | 2023-03-09 | 17 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 16 | 20 | 
 | 2023-02-12 | 16 | 20 | 
 | 2023-02-11 | 16 | 20 | 
-| 2023-02-10 | 16 | 20 | 
 

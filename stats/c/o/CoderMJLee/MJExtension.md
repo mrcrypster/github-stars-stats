@@ -1,10 +1,10 @@
 # CoderMJLee/MJExtension - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 2186
 
-★ Stars: 8509
+★ Stars: 8510
 
 [Open repository](https://github.com/CoderMJLee/MJExtension)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 8510 | 2186 | 
 | 2023-03-11 | 8509 | 2186 | 
 | 2023-03-10 | 8509 | 2186 | 
 | 2023-03-08 | 8509 | 2186 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 8509 | 2187 | 
 | 2023-02-12 | 8509 | 2187 | 
 | 2023-02-11 | 8510 | 2187 | 
-| 2023-02-10 | 8510 | 2186 | 
 

@@ -1,10 +1,10 @@
 # hmcts/cnp-jenkins-library - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/hmcts/cnp-jenkins-library)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 26 | 9 | 
 | 2023-03-11 | 27 | 9 | 
 | 2023-03-10 | 27 | 9 | 
 | 2023-03-09 | 27 | 9 | 

@@ -1,10 +1,10 @@
 # linux-rdma/rdma-core - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 546
 
-★ Stars: 962
+★ Stars: 963
 
 [Open repository](https://github.com/linux-rdma/rdma-core)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 963 | 546 | 
 | 2023-03-11 | 962 | 546 | 
 | 2023-03-10 | 962 | 546 | 
 | 2023-03-09 | 963 | 547 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 948 | 540 | 
 | 2023-02-12 | 947 | 540 | 
 | 2023-02-11 | 947 | 539 | 
-| 2023-02-10 | 946 | 539 | 
 

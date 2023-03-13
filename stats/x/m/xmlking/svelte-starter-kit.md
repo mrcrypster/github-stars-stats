@@ -1,10 +1,10 @@
 # xmlking/svelte-starter-kit - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/xmlking/svelte-starter-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 24 | 4 | 
 | 2023-03-11 | 22 | 4 | 
 | 2023-03-10 | 22 | 4 | 
 | 2023-03-08 | 22 | 4 | 

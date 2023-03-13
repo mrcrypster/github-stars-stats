@@ -1,6 +1,6 @@
 # nandorojo/solito - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2256 | 117 | 
 | 2023-03-11 | 2256 | 117 | 
 | 2023-03-09 | 2249 | 117 | 
 | 2023-03-08 | 2241 | 117 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2167 | 112 | 
 | 2023-02-12 | 2164 | 111 | 
 | 2023-02-11 | 2159 | 112 | 
-| 2023-02-10 | 2156 | 112 | 
 

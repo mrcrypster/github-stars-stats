@@ -1,10 +1,10 @@
 # aws/karpenter - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 492
+☋ Forks: 494
 
-★ Stars: 4025
+★ Stars: 4028
 
 [Open repository](https://github.com/aws/karpenter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4028 | 494 | 
 | 2023-03-11 | 4025 | 492 | 
 | 2023-03-09 | 4021 | 490 | 
 | 2023-03-08 | 4013 | 487 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 3913 | 463 | 
 | 2023-02-12 | 3910 | 462 | 
 | 2023-02-11 | 3909 | 462 | 
-| 2023-02-10 | 3907 | 461 | 
 

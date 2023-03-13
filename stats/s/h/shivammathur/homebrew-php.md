@@ -1,10 +1,10 @@
 # shivammathur/homebrew-php - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 122
 
-★ Stars: 1735
+★ Stars: 1738
 
 [Open repository](https://github.com/shivammathur/homebrew-php)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1738 | 122 | 
 | 2023-03-10 | 1735 | 122 | 
 | 2023-03-09 | 1729 | 121 | 
 | 2023-03-08 | 1728 | 121 | 

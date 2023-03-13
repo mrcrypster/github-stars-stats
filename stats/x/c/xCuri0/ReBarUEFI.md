@@ -1,10 +1,10 @@
 # xCuri0/ReBarUEFI - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/xCuri0/ReBarUEFI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 256 | 9 | 
 | 2023-03-11 | 255 | 9 | 
 | 2023-03-10 | 255 | 9 | 
 | 2023-03-09 | 254 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 225 | 8 | 
 | 2023-02-12 | 224 | 8 | 
 | 2023-02-11 | 224 | 8 | 
-| 2023-02-10 | 222 | 8 | 
 

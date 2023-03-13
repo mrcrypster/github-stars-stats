@@ -1,6 +1,6 @@
 # romainguy/combo-breaker - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 453 | 13 | 
 | 2023-03-11 | 453 | 13 | 
 | 2023-03-10 | 453 | 13 | 
 | 2023-03-09 | 453 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 441 | 13 | 
 | 2023-02-12 | 441 | 13 | 
 | 2023-02-11 | 438 | 13 | 
-| 2023-02-10 | 438 | 13 | 
 

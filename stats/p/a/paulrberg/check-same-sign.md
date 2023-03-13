@@ -1,6 +1,6 @@
 # paulrberg/check-same-sign - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 46 | - | 
 | 2023-03-11 | 46 | - | 
 | 2023-03-09 | 46 | - | 
 | 2023-03-08 | 46 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 46 | - | 
 | 2023-02-12 | 46 | - | 
 | 2023-02-11 | 46 | - | 
-| 2023-02-10 | 46 | - | 
 

@@ -1,6 +1,6 @@
 # 0age/HomeWork - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 110 | 8 | 
 | 2023-03-11 | 110 | 8 | 
 | 2023-03-09 | 110 | 8 | 
 | 2023-03-08 | 110 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 108 | 8 | 
 | 2023-02-12 | 108 | 8 | 
 | 2023-02-11 | 108 | 8 | 
-| 2023-02-10 | 108 | 8 | 
 

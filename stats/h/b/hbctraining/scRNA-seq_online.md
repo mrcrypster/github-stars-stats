@@ -1,10 +1,10 @@
 # hbctraining/scRNA-seq_online - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 123
 
-★ Stars: 269
+★ Stars: 271
 
 [Open repository](https://github.com/hbctraining/scRNA-seq_online)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 271 | 123 | 
 | 2023-03-11 | 269 | 123 | 
 | 2023-03-10 | 269 | 123 | 
 | 2023-03-09 | 268 | 123 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 256 | 116 | 
 | 2023-02-12 | 256 | 116 | 
 | 2023-02-11 | 255 | 115 | 
-| 2023-02-10 | 254 | 115 | 
 

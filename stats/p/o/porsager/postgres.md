@@ -1,10 +1,10 @@
 # porsager/postgres - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 182
 
-★ Stars: 4451
+★ Stars: 4449
 
 [Open repository](https://github.com/porsager/postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4449 | 182 | 
 | 2023-03-11 | 4451 | 182 | 
 | 2023-03-10 | 4449 | 182 | 
 | 2023-03-09 | 4448 | 183 | 

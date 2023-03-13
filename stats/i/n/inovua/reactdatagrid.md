@@ -1,6 +1,6 @@
 # inovua/reactdatagrid - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3523 | 45 | 
 | 2023-03-11 | 3523 | 45 | 
 | 2023-03-10 | 3526 | 45 | 
 | 2023-03-09 | 3527 | 45 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3582 | 44 | 
 | 2023-02-12 | 3578 | 44 | 
 | 2023-02-11 | 3581 | 44 | 
-| 2023-02-10 | 3576 | 44 | 
 

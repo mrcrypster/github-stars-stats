@@ -1,6 +1,6 @@
 # paulgolter/blender-pipeline-integration - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 158 | 2 | 
 | 2023-03-10 | 158 | 2 | 
 | 2023-03-09 | 157 | 2 | 
 | 2023-03-08 | 157 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 154 | 2 | 
 | 2023-02-13 | 154 | 2 | 
 | 2023-02-12 | 153 | 2 | 
-| 2023-02-11 | 153 | 2 | 
 

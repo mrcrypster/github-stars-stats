@@ -1,6 +1,6 @@
 # nicferrier/emacs-kv - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 48 | 10 | 
 | 2023-03-11 | 48 | 10 | 
 | 2023-03-09 | 48 | 10 | 
 | 2023-03-08 | 48 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 48 | 10 | 
 | 2023-02-12 | 48 | 10 | 
 | 2023-02-11 | 48 | 10 | 
-| 2023-02-10 | 48 | 10 | 
 

@@ -1,6 +1,6 @@
 # CiscoDevNet/terraform-sdwan - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 17 | 14 | 
 | 2023-03-11 | 17 | 14 | 
 | 2023-03-10 | 17 | 14 | 
 | 2023-03-08 | 17 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 17 | 13 | 
 | 2023-02-12 | 17 | 13 | 
 | 2023-02-11 | 17 | 13 | 
-| 2023-02-10 | 17 | 13 | 
 

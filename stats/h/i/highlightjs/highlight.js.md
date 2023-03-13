@@ -1,10 +1,10 @@
 # highlightjs/highlight.js - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 3454
+☋ Forks: 3455
 
-★ Stars: 21155
+★ Stars: 21161
 
 [Open repository](https://github.com/highlightjs/highlight.js)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 21161 | 3455 | 
 | 2023-03-10 | 21155 | 3454 | 
 | 2023-03-09 | 21144 | 3454 | 
 | 2023-03-07 | 21134 | 3452 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 21013 | 3433 | 
 | 2023-02-12 | 21008 | 3432 | 
 | 2023-02-11 | 21004 | 3430 | 
-| 2023-02-10 | 20999 | 3429 | 
 

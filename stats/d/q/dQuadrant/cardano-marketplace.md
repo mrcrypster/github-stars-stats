@@ -1,8 +1,8 @@
 # dQuadrant/cardano-marketplace - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 18
+☋ Forks: 20
 
 ★ Stars: 7
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 7 | 20 | 
+| 2023-03-12 | 7 | 20 | 
 | 2023-03-11 | 7 | 18 | 
 | 2023-03-09 | 7 | 17 | 
 | 2023-03-08 | 6 | 16 | 

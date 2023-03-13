@@ -1,10 +1,10 @@
 # VovoloGames/WorkshopDL - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 23
 
-★ Stars: 299
+★ Stars: 303
 
 [Open repository](https://github.com/VovoloGames/WorkshopDL)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 303 | 23 | 
 | 2023-03-11 | 299 | 23 | 
 | 2023-03-10 | 299 | 23 | 
 | 2023-03-08 | 297 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 268 | 20 | 
 | 2023-02-12 | 267 | 20 | 
 | 2023-02-11 | 263 | 19 | 
-| 2023-02-10 | 262 | 19 | 
 

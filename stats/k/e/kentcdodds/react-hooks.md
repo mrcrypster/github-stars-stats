@@ -1,8 +1,8 @@
 # kentcdodds/react-hooks - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1722
+☋ Forks: 1723
 
 ★ Stars: 2527
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2527 | 1723 | 
 | 2023-03-11 | 2527 | 1722 | 
 | 2023-03-09 | 2525 | 1721 | 
 | 2023-03-08 | 2522 | 1721 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2503 | 1695 | 
 | 2023-02-12 | 2502 | 1692 | 
 | 2023-02-11 | 2500 | 1692 | 
-| 2023-02-10 | 2500 | 1691 | 
 

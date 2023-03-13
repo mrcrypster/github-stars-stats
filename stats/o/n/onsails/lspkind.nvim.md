@@ -1,10 +1,10 @@
 # onsails/lspkind.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 27
 
-★ Stars: 897
+★ Stars: 898
 
 [Open repository](https://github.com/onsails/lspkind.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 898 | 27 | 
 | 2023-03-11 | 897 | 27 | 
 | 2023-03-10 | 897 | 27 | 
 | 2023-03-08 | 896 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 862 | 28 | 
 | 2023-02-12 | 861 | 28 | 
 | 2023-02-11 | 861 | 28 | 
-| 2023-02-10 | 861 | 28 | 
 

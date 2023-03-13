@@ -1,10 +1,10 @@
 # elixir-plug/plug - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 561
 
-★ Stars: 2620
+★ Stars: 2622
 
 [Open repository](https://github.com/elixir-plug/plug)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 2622 | 561 | 
 | 2023-03-11 | 2620 | 561 | 
 | 2023-03-10 | 2620 | 561 | 
 | 2023-03-08 | 2620 | 561 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 2617 | 563 | 
 | 2023-02-12 | 2616 | 563 | 
 | 2023-02-11 | 2617 | 563 | 
-| 2023-02-10 | 2616 | 563 | 
 

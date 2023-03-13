@@ -1,10 +1,10 @@
 # tisfeng/Easydict - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 158
+★ Stars: 161
 
 [Open repository](https://github.com/tisfeng/Easydict)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 161 | 9 | 
 | 2023-03-10 | 158 | 9 | 
 | 2023-03-09 | 155 | 9 | 
 | 2023-03-08 | 146 | 7 | 

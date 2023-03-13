@@ -1,6 +1,6 @@
 # clojure-emacs/clj-refactor.el - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 751 | 108 | 
 | 2023-03-11 | 751 | 108 | 
 | 2023-03-09 | 751 | 108 | 
 | 2023-03-08 | 751 | 108 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 752 | 108 | 
 | 2023-02-13 | 752 | 108 | 
 | 2023-02-12 | 752 | 108 | 
-| 2023-02-11 | 752 | 108 | 
 

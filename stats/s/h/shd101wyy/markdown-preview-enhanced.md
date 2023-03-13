@@ -1,10 +1,10 @@
 # shd101wyy/markdown-preview-enhanced - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 507
 
-★ Stars: 3869
+★ Stars: 3870
 
 [Open repository](https://github.com/shd101wyy/markdown-preview-enhanced)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3870 | 507 | 
 | 2023-03-11 | 3869 | 507 | 
 | 2023-03-10 | 3867 | 507 | 
 | 2023-03-09 | 3867 | 507 | 

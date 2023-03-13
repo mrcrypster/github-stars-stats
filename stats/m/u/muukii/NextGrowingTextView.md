@@ -1,6 +1,6 @@
 # muukii/NextGrowingTextView - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1701 | 149 | 
 | 2023-03-11 | 1701 | 149 | 
 | 2023-03-10 | 1698 | 149 | 
 | 2023-03-08 | 1696 | 149 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1692 | 149 | 
 | 2023-02-12 | 1692 | 149 | 
 | 2023-02-11 | 1692 | 149 | 
-| 2023-02-10 | 1692 | 149 | 
 

@@ -1,10 +1,10 @@
 # ThirteenAG/WidescreenFixesPack - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 190
 
-★ Stars: 1794
+★ Stars: 1795
 
 [Open repository](https://github.com/ThirteenAG/WidescreenFixesPack)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1795 | 190 | 
 | 2023-03-11 | 1794 | 190 | 
 | 2023-03-09 | 1792 | 190 | 
 | 2023-03-08 | 1791 | 190 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1772 | 190 | 
 | 2023-02-13 | 1771 | 190 | 
 | 2023-02-12 | 1769 | 190 | 
-| 2023-02-11 | 1768 | 190 | 
 

@@ -1,10 +1,10 @@
 # Naereen/badges - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 535
 
-★ Stars: 3785
+★ Stars: 3789
 
 [Open repository](https://github.com/Naereen/badges)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3789 | 535 | 
 | 2023-03-11 | 3785 | 535 | 
 | 2023-03-10 | 3785 | 535 | 
 | 2023-03-08 | 3784 | 535 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 3758 | 534 | 
 | 2023-02-12 | 3758 | 534 | 
 | 2023-02-11 | 3757 | 534 | 
-| 2023-02-10 | 3755 | 534 | 
 

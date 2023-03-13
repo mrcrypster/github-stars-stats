@@ -1,10 +1,10 @@
 # folke/drop.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/folke/drop.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 97 | 3 | 
 | 2023-03-11 | 96 | 2 | 
 | 2023-03-09 | 95 | 2 | 
 | 2023-03-08 | 95 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 90 | 2 | 
 | 2023-02-12 | 90 | 2 | 
 | 2023-02-11 | 90 | 2 | 
-| 2023-02-10 | 90 | 2 | 
 

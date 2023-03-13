@@ -1,10 +1,10 @@
 # acikkaynak/deprem-yardim-backend-go - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 63
 
-★ Stars: 281
+★ Stars: 284
 
 [Open repository](https://github.com/acikkaynak/deprem-yardim-backend-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 284 | 63 | 
 | 2023-03-11 | 281 | 63 | 
 | 2023-03-10 | 281 | 62 | 
 | 2023-03-09 | 281 | 62 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 220 | 57 | 
 | 2023-02-12 | 191 | 44 | 
 | 2023-02-11 | 128 | 39 | 
-| 2023-02-10 | 69 | 27 | 
 

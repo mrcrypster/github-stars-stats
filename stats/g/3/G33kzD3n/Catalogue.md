@@ -1,10 +1,10 @@
 # G33kzD3n/Catalogue - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 450
 
-★ Stars: 1055
+★ Stars: 1056
 
 [Open repository](https://github.com/G33kzD3n/Catalogue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1056 | 450 | 
 | 2023-03-10 | 1055 | 450 | 
 | 2023-03-09 | 1045 | 449 | 
 | 2023-03-08 | 1041 | 449 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-14 | 947 | 396 | 
 | 2023-02-13 | 944 | 394 | 
 | 2023-02-11 | 940 | 388 | 
-| 2023-02-10 | 934 | 388 | 
 

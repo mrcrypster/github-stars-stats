@@ -1,10 +1,10 @@
 # thuml/Autoformer - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 245
 
-★ Stars: 966
+★ Stars: 968
 
 [Open repository](https://github.com/thuml/Autoformer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 968 | 245 | 
 | 2023-03-11 | 966 | 245 | 
 | 2023-03-10 | 964 | 245 | 
 | 2023-03-08 | 960 | 244 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 892 | 227 | 
 | 2023-02-12 | 892 | 227 | 
 | 2023-02-11 | 890 | 227 | 
-| 2023-02-10 | 889 | 226 | 
 

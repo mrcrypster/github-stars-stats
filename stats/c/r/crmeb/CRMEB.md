@@ -1,8 +1,8 @@
 # crmeb/CRMEB - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 1116
+☋ Forks: 1119
 
 ★ Stars: 3900
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 3900 | 1119 | 
 | 2023-03-11 | 3900 | 1116 | 
 | 2023-03-10 | 3900 | 1115 | 
 | 2023-03-09 | 3900 | 1115 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 3862 | 1105 | 
 | 2023-02-12 | 3861 | 1105 | 
 | 2023-02-11 | 3861 | 1105 | 
-| 2023-02-10 | 3860 | 1104 | 
 

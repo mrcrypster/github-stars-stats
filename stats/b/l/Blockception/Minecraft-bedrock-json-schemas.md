@@ -1,6 +1,6 @@
 # Blockception/Minecraft-bedrock-json-schemas - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 31 | 19 | 
 | 2023-03-10 | 31 | 19 | 
 | 2023-03-09 | 31 | 19 | 
 | 2023-03-08 | 31 | 19 | 

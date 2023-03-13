@@ -1,10 +1,10 @@
 # PainterQubits/Unitful.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 99
 
-★ Stars: 491
+★ Stars: 493
 
 [Open repository](https://github.com/PainterQubits/Unitful.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 493 | 99 | 
 | 2023-03-10 | 491 | 99 | 
 | 2023-03-09 | 491 | 99 | 
 | 2023-03-08 | 491 | 98 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 484 | 95 | 
 | 2023-02-12 | 484 | 95 | 
 | 2023-02-11 | 484 | 95 | 
-| 2023-02-10 | 485 | 95 | 
 

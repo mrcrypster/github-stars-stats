@@ -1,10 +1,10 @@
 # Ricochet-Exchange/ricochet-protocol - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 28
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/Ricochet-Exchange/ricochet-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 24 | 28 | 
 | 2023-03-11 | 25 | 28 | 
 | 2023-03-10 | 25 | 27 | 
 | 2023-03-08 | 25 | 27 | 

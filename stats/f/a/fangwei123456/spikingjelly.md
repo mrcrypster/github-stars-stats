@@ -1,10 +1,10 @@
 # fangwei123456/spikingjelly - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 156
 
-★ Stars: 619
+★ Stars: 620
 
 [Open repository](https://github.com/fangwei123456/spikingjelly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 620 | 156 | 
 | 2023-03-11 | 619 | 156 | 
 | 2023-03-09 | 617 | 156 | 
 | 2023-03-08 | 613 | 156 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 576 | 153 | 
 | 2023-02-12 | 573 | 152 | 
 | 2023-02-11 | 573 | 152 | 
-| 2023-02-10 | 572 | 152 | 
 

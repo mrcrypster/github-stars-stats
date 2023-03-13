@@ -1,10 +1,10 @@
 # bronson/vim-trailing-whitespace - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 66
 
-★ Stars: 439
+★ Stars: 440
 
 [Open repository](https://github.com/bronson/vim-trailing-whitespace)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 440 | 66 | 
 | 2023-03-10 | 439 | 66 | 
 | 2023-03-09 | 439 | 66 | 
 | 2023-03-07 | 439 | 66 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 436 | 63 | 
 | 2023-02-12 | 436 | 61 | 
 | 2023-02-11 | 436 | 61 | 
-| 2023-02-10 | 436 | 61 | 
 

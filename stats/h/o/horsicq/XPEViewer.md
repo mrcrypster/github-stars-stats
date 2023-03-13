@@ -1,6 +1,6 @@
 # horsicq/XPEViewer - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 711 | 83 | 
 | 2023-03-11 | 711 | 83 | 
 | 2023-03-09 | 711 | 83 | 
 | 2023-03-08 | 711 | 83 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 698 | 82 | 
 | 2023-02-12 | 698 | 82 | 
 | 2023-02-11 | 697 | 81 | 
-| 2023-02-10 | 697 | 81 | 
 

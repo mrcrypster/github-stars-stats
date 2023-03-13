@@ -1,10 +1,10 @@
 # lcomplete/huntly - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
-☋ Forks: 39
+☋ Forks: 43
 
-★ Stars: 521
+★ Stars: 577
 
 [Open repository](https://github.com/lcomplete/huntly)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 577 | 43 | 
 | 2023-03-11 | 521 | 39 | 
 | 2023-03-10 | 491 | 38 | 
 | 2023-03-09 | 464 | 32 | 

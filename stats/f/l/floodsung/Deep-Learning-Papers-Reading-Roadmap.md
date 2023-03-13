@@ -1,10 +1,10 @@
 # floodsung/Deep-Learning-Papers-Reading-Roadmap - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 7200
 
-★ Stars: 34870
+★ Stars: 34878
 
 [Open repository](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 34878 | 7200 | 
 | 2023-03-11 | 34870 | 7200 | 
 | 2023-03-10 | 34865 | 7198 | 
 | 2023-03-09 | 34861 | 7200 | 

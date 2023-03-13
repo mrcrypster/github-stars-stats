@@ -1,6 +1,6 @@
 # Taeyoung96/Awesome-LiDAR-IMU-calibration - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 98 | 10 | 
 | 2023-03-10 | 98 | 10 | 
 | 2023-03-09 | 98 | 10 | 
 | 2023-03-08 | 98 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 97 | 10 | 
 | 2023-02-12 | 97 | 10 | 
 | 2023-02-11 | 97 | 10 | 
-| 2023-02-10 | 97 | 10 | 
 

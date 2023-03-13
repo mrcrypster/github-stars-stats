@@ -1,10 +1,10 @@
 # 0xPool/flutter_easyloading - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 12
 
 ☋ Forks: 166
 
-★ Stars: 1039
+★ Stars: 1040
 
 [Open repository](https://github.com/0xPool/flutter_easyloading)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 1040 | 166 | 
 | 2023-03-11 | 1039 | 166 | 
 | 2023-03-10 | 1038 | 166 | 
 | 2023-03-08 | 1036 | 166 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 1029 | 166 | 
 | 2023-02-12 | 1028 | 166 | 
 | 2023-02-11 | 1028 | 166 | 
-| 2023-02-10 | 1028 | 166 | 
 

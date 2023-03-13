@@ -1,8 +1,8 @@
 # soulsmods/ModEngine2 - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 339
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 339 | 81 | 
 | 2023-03-10 | 339 | 80 | 
 | 2023-03-09 | 335 | 79 | 
 | 2023-03-08 | 332 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 10
 | 2023-02-13 | 313 | 71 | 
 | 2023-02-12 | 312 | 70 | 
 | 2023-02-11 | 308 | 70 | 
-| 2023-02-10 | 306 | 70 | 
 

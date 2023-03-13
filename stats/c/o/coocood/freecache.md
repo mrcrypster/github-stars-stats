@@ -1,10 +1,10 @@
 # coocood/freecache - stars & forks statistics
 
-Stats updated on Mar 2023, 10
+Stats updated on Mar 2023, 12
 
-☋ Forks: 377
+☋ Forks: 378
 
-★ Stars: 4535
+★ Stars: 4536
 
 [Open repository](https://github.com/coocood/freecache)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-12 | 4536 | 378 | 
 | 2023-03-10 | 4535 | 377 | 
 | 2023-03-09 | 4528 | 377 | 
 | 2023-03-07 | 4526 | 377 | 

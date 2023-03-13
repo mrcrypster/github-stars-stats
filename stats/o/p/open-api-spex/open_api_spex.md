@@ -1,6 +1,6 @@
 # open-api-spex/open_api_spex - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 529 | 139 | 
 | 2023-03-11 | 529 | 139 | 
 | 2023-03-10 | 528 | 139 | 
 | 2023-03-09 | 528 | 138 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 515 | 137 | 
 | 2023-02-12 | 515 | 137 | 
 | 2023-02-11 | 515 | 137 | 
-| 2023-02-10 | 515 | 137 | 
 

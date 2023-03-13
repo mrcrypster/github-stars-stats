@@ -1,6 +1,6 @@
 # clavascript/clavascript - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 298 | 13 | 
 | 2023-03-11 | 298 | 13 | 
 | 2023-03-10 | 298 | 13 | 
 | 2023-03-09 | 297 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 287 | 12 | 
 | 2023-02-13 | 286 | 12 | 
 | 2023-02-12 | 286 | 12 | 
-| 2023-02-11 | 285 | 12 | 
 

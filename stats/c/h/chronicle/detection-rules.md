@@ -1,6 +1,6 @@
 # chronicle/detection-rules - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 146 | 31 | 
 | 2023-03-11 | 146 | 31 | 
 | 2023-03-10 | 146 | 31 | 
 | 2023-03-09 | 146 | 31 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-13 | 136 | 30 | 
 | 2023-02-12 | 136 | 30 | 
 | 2023-02-11 | 136 | 30 | 
-| 2023-02-10 | 136 | 30 | 
 
