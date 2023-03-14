@@ -1,10 +1,10 @@
 # grempe/ex_rated - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 51
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/grempe/ex_rated)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 423 | 51 | 
 | 2023-03-12 | 422 | 51 | 
 | 2023-03-10 | 422 | 51 | 
 | 2023-03-09 | 422 | 51 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 422 | 50 | 
 | 2023-02-13 | 422 | 50 | 
 | 2023-02-12 | 422 | 50 | 
-| 2023-02-11 | 422 | 50 | 
 

@@ -1,10 +1,10 @@
 # AccessKit/accesskit - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 18
 
-★ Stars: 552
+★ Stars: 553
 
 [Open repository](https://github.com/AccessKit/accesskit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 553 | 18 | 
 | 2023-03-12 | 552 | 18 | 
 | 2023-03-10 | 548 | 18 | 
 | 2023-03-09 | 547 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 528 | 17 | 
 | 2023-02-13 | 527 | 17 | 
 | 2023-02-12 | 524 | 17 | 
-| 2023-02-11 | 524 | 17 | 
 

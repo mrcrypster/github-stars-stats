@@ -1,10 +1,10 @@
 # formulahendry/chatgpt-teams-bot - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/formulahendry/chatgpt-teams-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 96 | 28 | 
 | 2023-03-12 | 94 | 27 | 
 | 2023-03-11 | 94 | 25 | 
 | 2023-03-09 | 91 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 41 | 9 | 
 | 2023-02-13 | 41 | 9 | 
 | 2023-02-12 | 41 | 9 | 
-| 2023-02-11 | 39 | 9 | 
 

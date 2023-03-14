@@ -1,8 +1,8 @@
 # Scullyy/scully_emotemenu - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 26 | 29 | 
 | 2023-03-12 | 26 | 28 | 
 | 2023-03-11 | 26 | 28 | 
 | 2023-03-09 | 26 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 21 | 23 | 
 | 2023-02-13 | 21 | 23 | 
 | 2023-02-12 | 21 | 23 | 
-| 2023-02-11 | 21 | 23 | 
 

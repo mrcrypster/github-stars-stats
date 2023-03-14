@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/retrohub-org/retrohub)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 35 | 3 | 
+| 2023-03-13 | 36 | 3 | 
 | 2023-03-12 | 34 | 3 | 
 | 2023-03-11 | 33 | 3 | 
 

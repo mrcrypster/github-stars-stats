@@ -1,10 +1,10 @@
 # rcarriga/nvim-notify - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 40
 
-★ Stars: 1959
+★ Stars: 1964
 
 [Open repository](https://github.com/rcarriga/nvim-notify)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1964 | 40 | 
 | 2023-03-12 | 1959 | 40 | 
 | 2023-03-10 | 1957 | 38 | 
 | 2023-03-09 | 1955 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1900 | 37 | 
 | 2023-02-13 | 1897 | 37 | 
 | 2023-02-12 | 1894 | 37 | 
-| 2023-02-11 | 1889 | 37 | 
 

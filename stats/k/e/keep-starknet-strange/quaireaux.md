@@ -1,6 +1,6 @@
 # keep-starknet-strange/quaireaux - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 64 | 20 | 
 | 2023-03-12 | 64 | 20 | 
 | 2023-03-11 | 61 | 20 | 
 | 2023-03-10 | 61 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 40 | 9 | 
 | 2023-02-13 | 39 | 9 | 
 | 2023-02-12 | 35 | 5 | 
-| 2023-02-11 | 31 | 5 | 
 

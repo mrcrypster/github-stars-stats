@@ -1,6 +1,6 @@
 # ZeroSync/ZeroSync - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 221 | 23 | 
 | 2023-03-12 | 221 | 23 | 
 | 2023-03-11 | 221 | 23 | 
 | 2023-03-10 | 220 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 212 | 23 | 
 | 2023-02-14 | 210 | 23 | 
 | 2023-02-13 | 210 | 23 | 
-| 2023-02-12 | 209 | 23 | 
 

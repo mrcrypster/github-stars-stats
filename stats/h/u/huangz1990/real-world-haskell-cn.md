@@ -1,10 +1,10 @@
 # huangz1990/real-world-haskell-cn - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 225
 
-★ Stars: 1521
+★ Stars: 1520
 
 [Open repository](https://github.com/huangz1990/real-world-haskell-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1520 | 225 | 
 | 2023-03-12 | 1521 | 225 | 
 | 2023-03-11 | 1521 | 225 | 
 | 2023-03-09 | 1521 | 225 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1521 | 226 | 
 | 2023-02-13 | 1521 | 226 | 
 | 2023-02-12 | 1520 | 226 | 
-| 2023-02-11 | 1520 | 226 | 
 

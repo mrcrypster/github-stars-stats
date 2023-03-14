@@ -1,10 +1,10 @@
 # soffes/SAMKeychain - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 957
 
-★ Stars: 5394
+★ Stars: 5395
 
 [Open repository](https://github.com/soffes/SAMKeychain)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5395 | 957 | 
 | 2023-03-11 | 5394 | 957 | 
 | 2023-03-10 | 5394 | 957 | 
 | 2023-03-09 | 5394 | 958 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 5393 | 961 | 
 | 2023-02-13 | 5393 | 961 | 
 | 2023-02-12 | 5393 | 961 | 
-| 2023-02-11 | 5393 | 961 | 
 

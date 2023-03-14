@@ -1,10 +1,10 @@
 # wisdompeak/LeetCode - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1058
+☋ Forks: 1060
 
-★ Stars: 4496
+★ Stars: 4502
 
 [Open repository](https://github.com/wisdompeak/LeetCode)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4502 | 1060 | 
 | 2023-03-12 | 4496 | 1058 | 
 | 2023-03-10 | 4493 | 1058 | 
 | 2023-03-09 | 4490 | 1058 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4425 | 1048 | 
 | 2023-02-13 | 4424 | 1047 | 
 | 2023-02-12 | 4424 | 1046 | 
-| 2023-02-11 | 4424 | 1046 | 
 

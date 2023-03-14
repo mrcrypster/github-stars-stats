@@ -1,10 +1,10 @@
 # gtxaspec/wz_mini_hacks - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 59
 
-★ Stars: 641
+★ Stars: 644
 
 [Open repository](https://github.com/gtxaspec/wz_mini_hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 644 | 59 | 
 | 2023-03-12 | 641 | 59 | 
 | 2023-03-10 | 639 | 59 | 
 | 2023-03-09 | 638 | 59 | 

@@ -1,8 +1,8 @@
 # AetherStation/AetherStation13 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 14 | 37 | 
 | 2023-03-12 | 14 | 36 | 
 | 2023-03-11 | 13 | 36 | 
 | 2023-03-10 | 13 | 36 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 13 | 36 | 
 | 2023-02-13 | 13 | 36 | 
 | 2023-02-12 | 13 | 36 | 
-| 2023-02-11 | 13 | 36 | 
 

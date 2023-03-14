@@ -1,10 +1,10 @@
 # Android-Mainli/blur - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 64
 
 [Open repository](https://github.com/Android-Mainli/blur)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 64 | 4 | 
 | 2023-03-12 | 60 | 4 | 
 | 2023-03-11 | 60 | 4 | 
 | 2023-03-10 | 59 | 4 | 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 682
 
-★ Stars: 2899
+★ Stars: 2900
 
 [Open repository](https://github.com/input-output-hk/cardano-node)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 2899 | 682 | 
+| 2023-03-13 | 2900 | 682 | 
 | 2023-03-12 | 2899 | 682 | 
 | 2023-03-11 | 2897 | 682 | 
 | 2023-03-10 | 2897 | 682 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-14 | 2886 | 675 | 
 | 2023-02-13 | 2886 | 675 | 
 | 2023-02-12 | 2886 | 676 | 
-| 2023-02-11 | 2886 | 675 | 
 

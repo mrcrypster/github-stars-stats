@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 8
 
-★ Stars: 96
+★ Stars: 101
 
 [Open repository](https://github.com/Pylogmon/pot)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 96 | 8 | 
+| 2023-03-13 | 101 | 8 | 
 | 2023-03-12 | 94 | 8 | 
 

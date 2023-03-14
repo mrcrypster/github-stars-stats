@@ -1,6 +1,6 @@
 # hlissner/emacs-company-dict - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 31 | 4 | 
 | 2023-03-12 | 31 | 4 | 
 | 2023-03-11 | 31 | 4 | 
 | 2023-03-10 | 31 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 31 | 4 | 
 | 2023-02-13 | 31 | 4 | 
 | 2023-02-12 | 31 | 4 | 
-| 2023-02-11 | 31 | 4 | 
 

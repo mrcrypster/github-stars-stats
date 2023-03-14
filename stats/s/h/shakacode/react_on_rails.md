@@ -1,6 +1,6 @@
 # shakacode/react_on_rails - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 621
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4941 | 621 | 
 | 2023-03-12 | 4941 | 621 | 
 | 2023-03-11 | 4942 | 621 | 
 | 2023-03-09 | 4941 | 621 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4933 | 617 | 
 | 2023-02-13 | 4933 | 617 | 
 | 2023-02-12 | 4931 | 617 | 
-| 2023-02-11 | 4931 | 617 | 
 

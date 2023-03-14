@@ -1,6 +1,6 @@
 # aschmelyun/fleet - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 213 | 4 | 
 | 2023-03-11 | 213 | 4 | 
 | 2023-03-10 | 212 | 4 | 
 | 2023-03-09 | 211 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 186 | 2 | 
 | 2023-02-13 | 185 | 2 | 
 | 2023-02-12 | 185 | 2 | 
-| 2023-02-11 | 185 | 2 | 
 

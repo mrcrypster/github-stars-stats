@@ -1,6 +1,6 @@
 # dmiller/clojure-clr-next - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 66 | 4 | 
 | 2023-03-12 | 66 | 4 | 
 | 2023-03-11 | 66 | 4 | 
 | 2023-03-10 | 66 | 4 | 

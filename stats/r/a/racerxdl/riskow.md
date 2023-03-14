@@ -1,6 +1,6 @@
 # racerxdl/riskow - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 116 | 8 | 
 | 2023-03-12 | 116 | 8 | 
 | 2023-03-10 | 116 | 8 | 
 | 2023-03-09 | 116 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 116 | 8 | 
 | 2023-02-14 | 116 | 8 | 
 | 2023-02-13 | 116 | 8 | 
-| 2023-02-11 | 116 | 8 | 
 

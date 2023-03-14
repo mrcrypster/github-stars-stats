@@ -1,6 +1,6 @@
 # xKDR/Survey.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 35 | 13 | 
 | 2023-03-12 | 35 | 13 | 
 | 2023-03-11 | 35 | 13 | 
 | 2023-03-09 | 35 | 13 | 

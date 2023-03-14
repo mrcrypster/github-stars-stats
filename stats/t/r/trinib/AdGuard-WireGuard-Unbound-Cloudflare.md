@@ -1,6 +1,6 @@
 # trinib/AdGuard-WireGuard-Unbound-Cloudflare - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 494 | 46 | 
 | 2023-03-12 | 494 | 46 | 
 | 2023-03-10 | 493 | 46 | 
 | 2023-03-09 | 492 | 46 | 

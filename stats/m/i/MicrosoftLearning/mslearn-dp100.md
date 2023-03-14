@@ -1,8 +1,8 @@
 # MicrosoftLearning/mslearn-dp100 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 598
+☋ Forks: 599
 
 ★ Stars: 560
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 560 | 599 | 
 | 2023-03-12 | 560 | 598 | 
 | 2023-03-10 | 560 | 597 | 
 | 2023-03-09 | 560 | 596 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 546 | 587 | 
 | 2023-02-13 | 545 | 586 | 
 | 2023-02-12 | 544 | 586 | 
-| 2023-02-11 | 544 | 586 | 
 

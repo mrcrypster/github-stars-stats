@@ -1,6 +1,6 @@
 # erich666/McUsd - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 53 | 1 | 
 | 2023-03-12 | 53 | 1 | 
 | 2023-03-11 | 53 | 1 | 
 | 2023-03-10 | 53 | 1 | 

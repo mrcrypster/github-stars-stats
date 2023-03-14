@@ -1,6 +1,6 @@
 # semazurek/ET-All-in-One-Optimizer - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 98 | 7 | 
 | 2023-03-11 | 98 | 7 | 
 | 2023-03-10 | 97 | 7 | 
 | 2023-03-09 | 97 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 85 | 7 | 
 | 2023-02-14 | 84 | 7 | 
 | 2023-02-13 | 82 | 7 | 
-| 2023-02-12 | 81 | 7 | 
 

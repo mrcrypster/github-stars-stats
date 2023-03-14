@@ -1,10 +1,10 @@
 # t184256/nix-on-droid - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 503
+★ Stars: 507
 
 [Open repository](https://github.com/t184256/nix-on-droid)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 507 | 41 | 
 | 2023-03-12 | 503 | 40 | 
 | 2023-03-11 | 502 | 40 | 
 | 2023-03-09 | 500 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 487 | 40 | 
 | 2023-02-13 | 487 | 40 | 
 | 2023-02-12 | 487 | 40 | 
-| 2023-02-11 | 487 | 40 | 
 

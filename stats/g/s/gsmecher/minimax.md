@@ -1,10 +1,10 @@
 # gsmecher/minimax - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/gsmecher/minimax)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 150 | 6 | 
 | 2023-03-12 | 149 | 6 | 
 | 2023-03-11 | 148 | 6 | 
 | 2023-03-09 | 148 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 147 | 6 | 
 | 2023-02-13 | 147 | 6 | 
 | 2023-02-12 | 147 | 6 | 
-| 2023-02-11 | 147 | 6 | 
 

@@ -1,10 +1,10 @@
 # FluentValidation/FluentValidation - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1117
+☋ Forks: 1119
 
-★ Stars: 7957
+★ Stars: 7959
 
 [Open repository](https://github.com/FluentValidation/FluentValidation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 7959 | 1119 | 
 | 2023-03-12 | 7957 | 1117 | 
 | 2023-03-11 | 7953 | 1117 | 
 | 2023-03-10 | 7949 | 1117 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 7903 | 1108 | 
 | 2023-02-13 | 7903 | 1108 | 
 | 2023-02-12 | 7900 | 1107 | 
-| 2023-02-11 | 7898 | 1107 | 
 

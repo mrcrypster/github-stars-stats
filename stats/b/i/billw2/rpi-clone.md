@@ -1,6 +1,6 @@
 # billw2/rpi-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 297
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2169 | 297 | 
 | 2023-03-12 | 2169 | 297 | 
 | 2023-03-11 | 2168 | 296 | 
 | 2023-03-09 | 2167 | 296 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2147 | 293 | 
 | 2023-02-13 | 2145 | 293 | 
 | 2023-02-12 | 2144 | 294 | 
-| 2023-02-11 | 2144 | 294 | 
 

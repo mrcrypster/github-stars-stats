@@ -1,10 +1,10 @@
 # stephenrkell/libcrunch - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/stephenrkell/libcrunch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 87 | 4 | 
 | 2023-03-12 | 86 | 4 | 
 | 2023-03-11 | 86 | 4 | 
 | 2023-03-09 | 86 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 86 | 4 | 
 | 2023-02-14 | 86 | 4 | 
 | 2023-02-13 | 86 | 4 | 
-| 2023-02-12 | 86 | 4 | 
 

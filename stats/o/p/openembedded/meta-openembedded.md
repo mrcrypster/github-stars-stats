@@ -1,8 +1,8 @@
 # openembedded/meta-openembedded - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 585
+☋ Forks: 586
 
 ★ Stars: 321
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 321 | 586 | 
 | 2023-03-12 | 321 | 585 | 
 | 2023-03-11 | 321 | 585 | 
 | 2023-03-10 | 321 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 320 | 578 | 
 | 2023-02-13 | 319 | 578 | 
 | 2023-02-12 | 318 | 578 | 
-| 2023-02-11 | 318 | 577 | 
 

@@ -1,8 +1,8 @@
 # TheOdinProject/javascript-exercises - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 17855
+☋ Forks: 17885
 
 ★ Stars: 829
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 829 | 17885 | 
 | 2023-03-12 | 829 | 17855 | 
 | 2023-03-11 | 828 | 17820 | 
 | 2023-03-10 | 827 | 17782 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 806 | 16930 | 
 | 2023-02-13 | 804 | 16879 | 
 | 2023-02-12 | 803 | 16839 | 
-| 2023-02-11 | 801 | 16811 | 
 

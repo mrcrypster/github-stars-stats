@@ -1,0 +1,18 @@
+# SENAI-SD/prova-java-remoto-banco - stars & forks statistics
+
+Stats updated on Mar 2023, 14
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/SENAI-SD/prova-java-remoto-banco)
+
+[Open detailed stats for SENAI-SD/prova-java-remoto-banco](https://reviewgithub.com/rep/SENAI-SD/prova-java-remoto-banco)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-14 | 2 | - | 
+| 2023-03-13 | 2 | - | 
+

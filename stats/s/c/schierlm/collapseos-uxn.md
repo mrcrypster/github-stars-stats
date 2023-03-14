@@ -1,6 +1,6 @@
 # schierlm/collapseos-uxn - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 41 | 2 | 
 | 2023-03-11 | 41 | 2 | 
 | 2023-03-10 | 41 | 2 | 
 | 2023-03-09 | 41 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 40 | 2 | 
 | 2023-02-13 | 40 | 2 | 
 | 2023-02-12 | 40 | 2 | 
-| 2023-02-11 | 40 | 2 | 
 

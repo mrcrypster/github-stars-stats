@@ -1,6 +1,6 @@
 # gbhug5a/Solar-Power-Load-Sharing - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 20 | 1 | 
 | 2023-03-12 | 20 | 1 | 
 | 2023-03-11 | 20 | 1 | 
 | 2023-03-10 | 20 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 17 | 1 | 
 | 2023-02-13 | 17 | 1 | 
 | 2023-02-12 | 17 | 1 | 
-| 2023-02-11 | 17 | 1 | 
 

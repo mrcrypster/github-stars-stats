@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/CaNNOLeS.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/CaNNOLeS.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 21 | 6 | 
 | 2023-03-12 | 20 | 6 | 
 | 2023-03-11 | 20 | 6 | 
 | 2023-03-09 | 20 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 14 | 6 | 
 | 2023-02-14 | 14 | 6 | 
 | 2023-02-13 | 14 | 6 | 
-| 2023-02-12 | 14 | 6 | 
 

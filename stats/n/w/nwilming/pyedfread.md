@@ -1,6 +1,6 @@
 # nwilming/pyedfread - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 36 | 54 | 
 | 2023-03-12 | 36 | 54 | 
 | 2023-03-11 | 36 | 54 | 
 | 2023-03-09 | 36 | 54 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 36 | 54 | 
 | 2023-02-13 | 36 | 54 | 
 | 2023-02-12 | 36 | 54 | 
-| 2023-02-11 | 36 | 54 | 
 

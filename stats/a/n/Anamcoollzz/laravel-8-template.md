@@ -1,10 +1,10 @@
 # Anamcoollzz/laravel-8-template - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/Anamcoollzz/laravel-8-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 71 | 30 | 
 | 2023-03-12 | 70 | 30 | 
 | 2023-03-11 | 69 | 29 | 
 | 2023-03-10 | 69 | 29 | 

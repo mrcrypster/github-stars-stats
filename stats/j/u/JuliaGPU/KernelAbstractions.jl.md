@@ -1,10 +1,10 @@
 # JuliaGPU/KernelAbstractions.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/JuliaGPU/KernelAbstractions.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 219 | 45 | 
 | 2023-03-12 | 218 | 44 | 
 | 2023-03-11 | 218 | 44 | 
 | 2023-03-10 | 216 | 44 | 

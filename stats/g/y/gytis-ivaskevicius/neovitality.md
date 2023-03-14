@@ -1,6 +1,6 @@
 # gytis-ivaskevicius/neovitality - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 53 | 2 | 
 | 2023-03-11 | 53 | 2 | 
 | 2023-03-10 | 53 | 2 | 
 | 2023-03-09 | 53 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 53 | 2 | 
 | 2023-02-14 | 53 | 2 | 
 | 2023-02-13 | 53 | 2 | 
-| 2023-02-12 | 53 | 2 | 
 

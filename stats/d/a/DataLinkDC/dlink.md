@@ -1,10 +1,10 @@
 # DataLinkDC/dlink - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 670
+☋ Forks: 671
 
-★ Stars: 1810
+★ Stars: 1813
 
 [Open repository](https://github.com/DataLinkDC/dlink)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1813 | 671 | 
 | 2023-03-12 | 1810 | 670 | 
 | 2023-03-11 | 1809 | 669 | 
 | 2023-03-10 | 1809 | 669 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 1643 | 650 | 
 | 2023-02-14 | 1638 | 645 | 
 | 2023-02-13 | 1636 | 646 | 
-| 2023-02-12 | 1633 | 646 | 
 

@@ -1,6 +1,6 @@
 # CatDancer/arc - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 8 | 3 | 
 | 2023-03-11 | 8 | 3 | 
 | 2023-03-10 | 8 | 3 | 
 | 2023-03-08 | 8 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 8 | 3 | 
 | 2023-02-13 | 8 | 3 | 
 | 2023-02-12 | 8 | 3 | 
-| 2023-02-11 | 8 | 3 | 
 

@@ -1,6 +1,6 @@
 # spendierk/Womanium_Hackathon_TKET_2022 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6 | 6 | 
 | 2023-03-12 | 6 | 6 | 
 | 2023-03-11 | 6 | 6 | 
 | 2023-03-10 | 6 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 5 | 6 | 
 | 2023-02-13 | 5 | 6 | 
 | 2023-02-12 | 5 | 6 | 
-| 2023-02-11 | 5 | 6 | 
 

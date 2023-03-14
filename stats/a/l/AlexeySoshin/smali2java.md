@@ -1,6 +1,6 @@
 # AlexeySoshin/smali2java - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 401 | 78 | 
 | 2023-03-11 | 401 | 78 | 
 | 2023-03-10 | 401 | 78 | 
 | 2023-03-09 | 400 | 78 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 390 | 75 | 
 | 2023-02-13 | 389 | 75 | 
 | 2023-02-12 | 388 | 75 | 
-| 2023-02-11 | 388 | 75 | 
 

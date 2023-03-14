@@ -1,10 +1,10 @@
 # silahian/VisualHFT - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 27
 
-★ Stars: 193
+★ Stars: 195
 
 [Open repository](https://github.com/silahian/VisualHFT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 195 | 27 | 
 | 2023-03-12 | 193 | 27 | 
 | 2023-03-11 | 193 | 27 | 
 | 2023-03-10 | 191 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 179 | 25 | 
 | 2023-02-13 | 179 | 25 | 
 | 2023-02-12 | 179 | 24 | 
-| 2023-02-11 | 179 | 24 | 
 

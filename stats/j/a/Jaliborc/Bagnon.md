@@ -1,10 +1,10 @@
 # Jaliborc/Bagnon - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 96
 
-★ Stars: 174
+★ Stars: 173
 
 [Open repository](https://github.com/Jaliborc/Bagnon)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 173 | 96 | 
 | 2023-03-12 | 174 | 96 | 
 | 2023-03-11 | 174 | 96 | 
 | 2023-03-09 | 174 | 96 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 174 | 96 | 
 | 2023-02-13 | 174 | 96 | 
 | 2023-02-12 | 174 | 96 | 
-| 2023-02-11 | 174 | 96 | 
 

@@ -1,10 +1,10 @@
 # Shopify/cli-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 44
 
-★ Stars: 842
+★ Stars: 843
 
 [Open repository](https://github.com/Shopify/cli-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 843 | 44 | 
 | 2023-03-12 | 842 | 44 | 
 | 2023-03-11 | 842 | 44 | 
 | 2023-03-09 | 840 | 44 | 

@@ -1,8 +1,8 @@
 # spatie/laravel-translatable - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 244
+☋ Forks: 243
 
 ★ Stars: 1939
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1939 | 243 | 
 | 2023-03-12 | 1939 | 244 | 
 | 2023-03-11 | 1939 | 243 | 
 | 2023-03-10 | 1939 | 242 | 

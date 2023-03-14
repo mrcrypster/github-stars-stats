@@ -1,6 +1,6 @@
 # hexops/mach-gpu - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 39 | 3 | 
 | 2023-03-11 | 39 | 3 | 
 | 2023-03-10 | 39 | 3 | 
 | 2023-03-09 | 39 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 37 | 3 | 
 | 2023-02-14 | 37 | 3 | 
 | 2023-02-13 | 37 | 3 | 
-| 2023-02-11 | 37 | 3 | 
 

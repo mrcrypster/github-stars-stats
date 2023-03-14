@@ -1,10 +1,10 @@
 # sanette/bogue - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/sanette/bogue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 126 | 9 | 
 | 2023-03-12 | 125 | 9 | 
 | 2023-03-10 | 125 | 9 | 
 | 2023-03-09 | 125 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 121 | 9 | 
 | 2023-02-13 | 119 | 9 | 
 | 2023-02-12 | 119 | 9 | 
-| 2023-02-11 | 119 | 9 | 
 

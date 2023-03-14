@@ -1,6 +1,6 @@
 # edakturk14/ethereum-developer-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 193 | 10 | 
 | 2023-03-11 | 193 | 10 | 
 | 2023-03-10 | 192 | 10 | 
 | 2023-03-08 | 192 | 10 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 192 | 10 | 
 | 2023-02-13 | 190 | 10 | 
 | 2023-02-12 | 190 | 10 | 
-| 2023-02-11 | 190 | 10 | 
 

@@ -1,10 +1,10 @@
 # graphics32/graphics32 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 108
+☋ Forks: 109
 
-★ Stars: 308
+★ Stars: 309
 
 [Open repository](https://github.com/graphics32/graphics32)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 309 | 109 | 
 | 2023-03-12 | 308 | 108 | 
 | 2023-03-11 | 308 | 108 | 
 | 2023-03-09 | 308 | 108 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 305 | 107 | 
 | 2023-02-13 | 304 | 107 | 
 | 2023-02-12 | 304 | 107 | 
-| 2023-02-11 | 304 | 107 | 
 

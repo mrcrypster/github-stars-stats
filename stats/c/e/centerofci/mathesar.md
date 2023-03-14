@@ -1,10 +1,10 @@
 # centerofci/mathesar - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 180
 
-★ Stars: 1246
+★ Stars: 1284
 
 [Open repository](https://github.com/centerofci/mathesar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1284 | 180 | 
 | 2023-03-11 | 1246 | 180 | 
 | 2023-03-10 | 1210 | 178 | 
 | 2023-03-09 | 1100 | 175 | 

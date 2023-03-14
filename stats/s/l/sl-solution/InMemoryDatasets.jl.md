@@ -1,10 +1,10 @@
 # sl-solution/InMemoryDatasets.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 17
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/sl-solution/InMemoryDatasets.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 115 | 17 | 
 | 2023-03-12 | 114 | 17 | 
 | 2023-03-11 | 114 | 17 | 
 | 2023-03-10 | 115 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 112 | 17 | 
 | 2023-02-13 | 112 | 17 | 
 | 2023-02-12 | 112 | 17 | 
-| 2023-02-11 | 112 | 17 | 
 

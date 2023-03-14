@@ -1,6 +1,6 @@
 # muneeb-mbytes/UVMF - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4 | 3 | 
 | 2023-03-11 | 4 | 3 | 
 | 2023-03-10 | 4 | 3 | 
 | 2023-03-09 | 4 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 4 | 3 | 
 | 2023-02-14 | 4 | 3 | 
 | 2023-02-12 | 4 | 3 | 
-| 2023-02-11 | 4 | 3 | 
 

@@ -1,10 +1,10 @@
 # RoomaSec/RmTools - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 16
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/RoomaSec/RmTools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 175 | 16 | 
 | 2023-03-12 | 174 | 16 | 
 | 2023-03-11 | 174 | 16 | 
 | 2023-03-09 | 174 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 167 | 14 | 
 | 2023-02-13 | 167 | 14 | 
 | 2023-02-12 | 167 | 14 | 
-| 2023-02-11 | 167 | 14 | 
 

@@ -1,8 +1,8 @@
 # FunkinCrew/Funkin - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 2046
+☋ Forks: 2047
 
 ★ Stars: 2289
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2289 | 2047 | 
 | 2023-03-12 | 2289 | 2046 | 
 | 2023-03-11 | 2285 | 2047 | 
 | 2023-03-10 | 2284 | 2044 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2262 | 2030 | 
 | 2023-02-13 | 2262 | 2030 | 
 | 2023-02-12 | 2260 | 2029 | 
-| 2023-02-11 | 2258 | 2028 | 
 

@@ -1,10 +1,10 @@
 # adrielcafe/bonsai - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 221
+★ Stars: 220
 
 [Open repository](https://github.com/adrielcafe/bonsai)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 220 | 5 | 
 | 2023-03-12 | 221 | 5 | 
 | 2023-03-11 | 221 | 5 | 
 | 2023-03-09 | 221 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 213 | 5 | 
 | 2023-02-13 | 213 | 5 | 
 | 2023-02-12 | 211 | 5 | 
-| 2023-02-11 | 209 | 5 | 
 

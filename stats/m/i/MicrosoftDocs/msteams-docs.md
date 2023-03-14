@@ -1,6 +1,6 @@
 # MicrosoftDocs/msteams-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 445
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 251 | 445 | 
 | 2023-03-11 | 251 | 445 | 
 | 2023-03-10 | 251 | 445 | 
 | 2023-03-08 | 251 | 445 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 246 | 437 | 
 | 2023-02-14 | 246 | 437 | 
 | 2023-02-12 | 246 | 437 | 
-| 2023-02-11 | 246 | 437 | 
 

@@ -1,10 +1,10 @@
 # PoomSmart/YTUHD - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/PoomSmart/YTUHD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 20 | 15 | 
 | 2023-03-12 | 21 | 15 | 
 | 2023-03-11 | 21 | 15 | 
 | 2023-03-09 | 21 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 21 | 16 | 
 | 2023-02-13 | 21 | 16 | 
 | 2023-02-12 | 21 | 16 | 
-| 2023-02-11 | 21 | 16 | 
 

@@ -1,8 +1,8 @@
 # yangzongzhuan/RuoYi-Vue - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 906
+☋ Forks: 910
 
 ★ Stars: 1534
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1534 | 910 | 
 | 2023-03-12 | 1534 | 906 | 
 | 2023-03-11 | 1535 | 904 | 
 | 2023-03-09 | 1530 | 902 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1469 | 881 | 
 | 2023-02-13 | 1465 | 880 | 
 | 2023-02-12 | 1465 | 879 | 
-| 2023-02-11 | 1463 | 878 | 
 

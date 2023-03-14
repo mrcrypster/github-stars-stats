@@ -1,10 +1,10 @@
 # fsprojects/Avalonia.FuncUI - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 59
 
-★ Stars: 636
+★ Stars: 637
 
 [Open repository](https://github.com/fsprojects/Avalonia.FuncUI)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 637 | 59 | 
 | 2023-03-11 | 636 | 59 | 
 | 2023-03-10 | 635 | 58 | 
 | 2023-03-09 | 632 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 617 | 58 | 
 | 2023-02-13 | 615 | 59 | 
 | 2023-02-12 | 615 | 59 | 
-| 2023-02-11 | 615 | 59 | 
 

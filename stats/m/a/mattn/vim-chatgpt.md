@@ -1,10 +1,10 @@
 # mattn/vim-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/mattn/vim-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 76 | 5 | 
 | 2023-03-12 | 75 | 4 | 
 | 2023-03-11 | 65 | 4 | 
 | 2023-03-10 | 65 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 61 | 3 | 
 | 2023-02-13 | 61 | 3 | 
 | 2023-02-12 | 60 | 3 | 
-| 2023-02-11 | 60 | 3 | 
 

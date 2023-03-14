@@ -1,6 +1,6 @@
 # eduardsui/ISUToCNP - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 37 | 6 | 
 | 2023-03-12 | 37 | 6 | 
 | 2023-03-11 | 37 | 6 | 
 | 2023-03-10 | 37 | 6 | 

@@ -1,10 +1,10 @@
 # NAStool/nas-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1300
+☋ Forks: 1306
 
-★ Stars: 6973
+★ Stars: 6983
 
 [Open repository](https://github.com/NAStool/nas-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6983 | 1306 | 
 | 2023-03-12 | 6973 | 1300 | 
 | 2023-03-11 | 6946 | 1291 | 
 | 2023-03-10 | 6926 | 1287 | 

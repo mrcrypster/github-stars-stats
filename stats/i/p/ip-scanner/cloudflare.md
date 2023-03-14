@@ -1,10 +1,10 @@
 # ip-scanner/cloudflare - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 818
 
-★ Stars: 2326
+★ Stars: 2329
 
 [Open repository](https://github.com/ip-scanner/cloudflare)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2329 | 818 | 
 | 2023-03-12 | 2326 | 818 | 
 | 2023-03-11 | 2312 | 809 | 
 | 2023-03-09 | 2304 | 805 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2080 | 735 | 
 | 2023-02-13 | 2061 | 726 | 
 | 2023-02-12 | 2055 | 723 | 
-| 2023-02-11 | 2034 | 721 | 
 

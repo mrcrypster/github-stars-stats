@@ -1,6 +1,6 @@
 # remindmodel/remind - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 61 | 104 | 
 | 2023-03-11 | 61 | 104 | 
 | 2023-03-10 | 61 | 104 | 
 | 2023-03-09 | 61 | 104 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 60 | 102 | 
 | 2023-02-13 | 60 | 102 | 
 | 2023-02-12 | 60 | 102 | 
-| 2023-02-11 | 60 | 102 | 
 

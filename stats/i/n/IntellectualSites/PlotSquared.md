@@ -1,10 +1,10 @@
 # IntellectualSites/PlotSquared - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 462
 
-★ Stars: 430
+★ Stars: 431
 
 [Open repository](https://github.com/IntellectualSites/PlotSquared)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 431 | 462 | 
 | 2023-03-11 | 430 | 462 | 
 | 2023-03-10 | 430 | 463 | 
 | 2023-03-09 | 430 | 463 | 

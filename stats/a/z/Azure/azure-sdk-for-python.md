@@ -1,10 +1,10 @@
 # Azure/azure-sdk-for-python - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2256
 
-★ Stars: 3536
+★ Stars: 3537
 
 [Open repository](https://github.com/Azure/azure-sdk-for-python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3537 | 2256 | 
 | 2023-03-12 | 3536 | 2256 | 
 | 2023-03-11 | 3534 | 2258 | 
 | 2023-03-10 | 3531 | 2257 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 3497 | 2215 | 
 | 2023-02-14 | 3494 | 2210 | 
 | 2023-02-13 | 3492 | 2206 | 
-| 2023-02-12 | 3492 | 2204 | 
 

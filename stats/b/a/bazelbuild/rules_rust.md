@@ -1,10 +1,10 @@
 # bazelbuild/rules_rust - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 282
 
-★ Stars: 471
+★ Stars: 472
 
 [Open repository](https://github.com/bazelbuild/rules_rust)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 472 | 282 | 
 | 2023-03-12 | 471 | 282 | 
 | 2023-03-11 | 471 | 281 | 
 | 2023-03-10 | 471 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 461 | 272 | 
 | 2023-02-13 | 461 | 272 | 
 | 2023-02-12 | 461 | 273 | 
-| 2023-02-11 | 461 | 273 | 
 

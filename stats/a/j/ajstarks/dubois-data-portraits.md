@@ -1,6 +1,6 @@
 # ajstarks/dubois-data-portraits - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 105 | 55 | 
 | 2023-03-11 | 105 | 55 | 
 | 2023-03-10 | 105 | 55 | 
 | 2023-03-09 | 105 | 55 | 

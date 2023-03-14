@@ -1,10 +1,10 @@
 # ExTBH/JodelEmproved - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/ExTBH/JodelEmproved)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 21 | 5 | 
 | 2023-03-11 | 20 | 5 | 
 | 2023-03-10 | 21 | 5 | 
 | 2023-03-09 | 21 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 17 | 3 | 
 | 2023-02-14 | 17 | 3 | 
 | 2023-02-12 | 17 | 3 | 
-| 2023-02-11 | 17 | 3 | 
 

@@ -1,8 +1,8 @@
 # aws/aws-iot-device-sdk-embedded-C - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 615
+☋ Forks: 614
 
 ★ Stars: 875
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 875 | 614 | 
 | 2023-03-12 | 875 | 615 | 
 | 2023-03-11 | 875 | 615 | 
 | 2023-03-10 | 876 | 615 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 872 | 614 | 
 | 2023-02-14 | 871 | 614 | 
 | 2023-02-12 | 870 | 613 | 
-| 2023-02-11 | 869 | 613 | 
 

@@ -1,10 +1,10 @@
 # feenkcom/gt4graphql - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/feenkcom/gt4graphql)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1 | - | 
 | 2023-03-12 | 2 | - | 
 | 2023-03-11 | 2 | - | 
 | 2023-03-09 | 2 | - | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2 | - | 
 | 2023-02-13 | 2 | - | 
 | 2023-02-12 | 2 | - | 
-| 2023-02-11 | 2 | - | 
 

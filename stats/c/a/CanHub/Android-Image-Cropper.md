@@ -1,10 +1,10 @@
 # CanHub/Android-Image-Cropper - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 184
 
-★ Stars: 848
+★ Stars: 849
 
 [Open repository](https://github.com/CanHub/Android-Image-Cropper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 849 | 184 | 
 | 2023-03-12 | 848 | 184 | 
 | 2023-03-10 | 848 | 184 | 
 | 2023-03-09 | 846 | 184 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 836 | 183 | 
 | 2023-02-14 | 833 | 183 | 
 | 2023-02-13 | 832 | 183 | 
-| 2023-02-12 | 833 | 183 | 
 

@@ -1,10 +1,10 @@
 # abntex/abntex2 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 214
 
-★ Stars: 900
+★ Stars: 902
 
 [Open repository](https://github.com/abntex/abntex2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 902 | 214 | 
 | 2023-03-12 | 900 | 214 | 
 | 2023-03-11 | 900 | 214 | 
 | 2023-03-09 | 900 | 214 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 895 | 216 | 
 | 2023-02-14 | 895 | 216 | 
 | 2023-02-13 | 895 | 216 | 
-| 2023-02-12 | 894 | 216 | 
 

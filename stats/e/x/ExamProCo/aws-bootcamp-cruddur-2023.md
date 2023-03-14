@@ -1,10 +1,10 @@
 # ExamProCo/aws-bootcamp-cruddur-2023 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/ExamProCo/aws-bootcamp-cruddur-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 329 | 199 | 
 | 2023-03-12 | 328 | 198 | 
 | 2023-03-11 | 329 | 197 | 
 | 2023-03-09 | 328 | 197 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 245 | 120 | 
 | 2023-02-13 | 242 | 124 | 
 | 2023-02-12 | 212 | 129 | 
-| 2023-02-11 | 166 | 121 | 
 

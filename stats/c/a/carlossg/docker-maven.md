@@ -1,8 +1,8 @@
 # carlossg/docker-maven - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 403
+☋ Forks: 404
 
 ★ Stars: 460
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 460 | 404 | 
 | 2023-03-12 | 460 | 403 | 
 | 2023-03-11 | 459 | 403 | 
 | 2023-03-09 | 461 | 403 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 457 | 401 | 
 | 2023-02-13 | 456 | 401 | 
 | 2023-02-12 | 456 | 401 | 
-| 2023-02-11 | 456 | 401 | 
 

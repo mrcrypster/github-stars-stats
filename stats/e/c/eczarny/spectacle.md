@@ -1,10 +1,10 @@
 # eczarny/spectacle - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 826
+☋ Forks: 827
 
-★ Stars: 13515
+★ Stars: 13517
 
 [Open repository](https://github.com/eczarny/spectacle)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 13517 | 827 | 
 | 2023-03-12 | 13515 | 826 | 
 | 2023-03-11 | 13514 | 826 | 
 | 2023-03-10 | 13513 | 826 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 13509 | 825 | 
 | 2023-02-13 | 13508 | 825 | 
 | 2023-02-12 | 13508 | 825 | 
-| 2023-02-11 | 13509 | 825 | 
 

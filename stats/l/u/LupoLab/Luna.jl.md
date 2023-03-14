@@ -1,6 +1,6 @@
 # LupoLab/Luna.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 32 | 12 | 
 | 2023-03-12 | 32 | 12 | 
 | 2023-03-11 | 32 | 12 | 
 | 2023-03-10 | 32 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 29 | 11 | 
 | 2023-02-13 | 28 | 11 | 
 | 2023-02-12 | 27 | 11 | 
-| 2023-02-11 | 27 | 11 | 
 

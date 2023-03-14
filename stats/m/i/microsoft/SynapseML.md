@@ -1,10 +1,10 @@
 # microsoft/SynapseML - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 728
+☋ Forks: 731
 
-★ Stars: 3938
+★ Stars: 3942
 
 [Open repository](https://github.com/microsoft/SynapseML)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3942 | 731 | 
 | 2023-03-12 | 3938 | 728 | 
 | 2023-03-11 | 3938 | 728 | 
 | 2023-03-10 | 3938 | 727 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3911 | 722 | 
 | 2023-02-13 | 3910 | 722 | 
 | 2023-02-12 | 3909 | 722 | 
-| 2023-02-11 | 3907 | 722 | 
 

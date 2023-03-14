@@ -1,10 +1,10 @@
 # simon-lc/Silico.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/simon-lc/Silico.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 32 | 1 | 
 | 2023-03-12 | 31 | 1 | 
 | 2023-03-10 | 31 | 1 | 
 | 2023-03-09 | 31 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 29 | 1 | 
 | 2023-02-13 | 29 | 1 | 
 | 2023-02-12 | 29 | 1 | 
-| 2023-02-11 | 29 | 1 | 
 

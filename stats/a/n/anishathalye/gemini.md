@@ -1,10 +1,10 @@
 # anishathalye/gemini - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 152
 
-★ Stars: 766
+★ Stars: 767
 
 [Open repository](https://github.com/anishathalye/gemini)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 767 | 152 | 
 | 2023-03-12 | 766 | 152 | 
 | 2023-03-10 | 766 | 152 | 
 | 2023-03-09 | 766 | 152 | 

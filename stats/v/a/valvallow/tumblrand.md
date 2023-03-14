@@ -1,6 +1,6 @@
 # valvallow/tumblrand - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4 | - | 
 | 2023-03-12 | 4 | - | 
 | 2023-03-11 | 4 | - | 
 | 2023-03-10 | 4 | - | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3 | - | 
 | 2023-02-13 | 3 | - | 
 | 2023-02-12 | 3 | - | 
-| 2023-02-11 | 3 | - | 
 

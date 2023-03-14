@@ -1,6 +1,6 @@
 # editorconfig/editorconfig-core-test - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 22 | 22 | 
 | 2023-03-11 | 22 | 22 | 
 | 2023-03-10 | 22 | 22 | 
 | 2023-03-09 | 22 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 21 | 22 | 
 | 2023-02-14 | 21 | 22 | 
 | 2023-02-12 | 21 | 22 | 
-| 2023-02-11 | 21 | 22 | 
 

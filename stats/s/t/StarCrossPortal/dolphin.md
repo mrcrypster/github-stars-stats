@@ -1,10 +1,10 @@
 # StarCrossPortal/dolphin - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 61
+★ Stars: 63
 
 [Open repository](https://github.com/StarCrossPortal/dolphin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 63 | 12 | 
 | 2023-03-12 | 61 | 12 | 
 | 2023-03-11 | 60 | 12 | 
 | 2023-03-10 | 59 | 11 | 

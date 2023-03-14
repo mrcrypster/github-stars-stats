@@ -1,10 +1,10 @@
 # NyaMisty/docker-wine-ida - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 22
 
-★ Stars: 193
+★ Stars: 195
 
 [Open repository](https://github.com/NyaMisty/docker-wine-ida)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 195 | 22 | 
 | 2023-03-12 | 193 | 22 | 
 | 2023-03-10 | 193 | 22 | 
 | 2023-03-09 | 191 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 189 | 22 | 
 | 2023-02-14 | 189 | 22 | 
 | 2023-02-13 | 189 | 22 | 
-| 2023-02-12 | 189 | 22 | 
 

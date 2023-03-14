@@ -1,6 +1,6 @@
 # PlatziLabs/fake-api-docs - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 27 | 23 | 
 | 2023-03-12 | 27 | 23 | 
 | 2023-03-11 | 27 | 23 | 
 | 2023-03-09 | 27 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 26 | 24 | 
 | 2023-02-13 | 26 | 24 | 
 | 2023-02-12 | 26 | 24 | 
-| 2023-02-11 | 26 | 24 | 
 

@@ -1,8 +1,8 @@
 # Sofiabogqan2007/rdp-free - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 57
+☋ Forks: 59
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | - | 59 | 
 | 2023-03-12 | - | 57 | 
 | 2023-03-10 | - | 54 | 
 | 2023-03-09 | - | 52 | 

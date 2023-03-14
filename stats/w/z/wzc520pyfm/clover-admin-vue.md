@@ -1,10 +1,10 @@
 # wzc520pyfm/clover-admin-vue - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 106
+★ Stars: 120
 
 [Open repository](https://github.com/wzc520pyfm/clover-admin-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 120 | 16 | 
 | 2023-03-12 | 106 | 14 | 
 | 2023-03-11 | 107 | 14 | 
 | 2023-03-10 | 107 | 14 | 

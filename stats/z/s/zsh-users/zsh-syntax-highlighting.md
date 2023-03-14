@@ -1,10 +1,10 @@
 # zsh-users/zsh-syntax-highlighting - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1274
 
-★ Stars: 16531
+★ Stars: 16536
 
 [Open repository](https://github.com/zsh-users/zsh-syntax-highlighting)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 16536 | 1274 | 
 | 2023-03-11 | 16531 | 1274 | 
 | 2023-03-10 | 16525 | 1273 | 
 | 2023-03-09 | 16511 | 1273 | 

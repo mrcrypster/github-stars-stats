@@ -1,10 +1,10 @@
 # flashohq/flasho - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 312
+★ Stars: 314
 
 [Open repository](https://github.com/flashohq/flasho)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 314 | 11 | 
 | 2023-03-12 | 312 | 11 | 
 | 2023-03-10 | 311 | 11 | 
 | 2023-03-09 | 299 | 11 | 

@@ -1,10 +1,10 @@
 # davidtakac/prognoza - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/davidtakac/prognoza)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 175 | 10 | 
 | 2023-03-12 | 174 | 10 | 
 | 2023-03-11 | 173 | 9 | 
 | 2023-03-09 | 171 | 9 | 

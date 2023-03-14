@@ -1,10 +1,10 @@
 # AlberTgarY/SensatUrban_albert - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/AlberTgarY/SensatUrban_albert)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 42 | 8 | 
 | 2023-03-12 | 41 | 8 | 
 | 2023-03-11 | 41 | 8 | 
 | 2023-03-10 | 42 | 8 | 

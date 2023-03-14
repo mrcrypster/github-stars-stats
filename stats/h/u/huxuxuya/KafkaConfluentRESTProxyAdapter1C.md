@@ -1,6 +1,6 @@
 # huxuxuya/KafkaConfluentRESTProxyAdapter1C - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 27 | 9 | 
 | 2023-03-12 | 27 | 9 | 
 | 2023-03-11 | 27 | 9 | 
 | 2023-03-10 | 27 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 25 | 9 | 
 | 2023-02-13 | 25 | 9 | 
 | 2023-02-12 | 25 | 9 | 
-| 2023-02-11 | 25 | 9 | 
 

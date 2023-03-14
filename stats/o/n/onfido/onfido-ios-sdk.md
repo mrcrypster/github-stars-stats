@@ -1,6 +1,6 @@
 # onfido/onfido-ios-sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 96 | 52 | 
 | 2023-03-12 | 96 | 52 | 
 | 2023-03-11 | 96 | 52 | 
 | 2023-03-10 | 96 | 52 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 97 | 51 | 
 | 2023-02-13 | 97 | 51 | 
 | 2023-02-12 | 97 | 51 | 
-| 2023-02-11 | 97 | 51 | 
 

@@ -1,10 +1,10 @@
 # hiteshchoudhary/batchone - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 76
 
-★ Stars: 145
+★ Stars: 147
 
 [Open repository](https://github.com/hiteshchoudhary/batchone)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 147 | 76 | 
 | 2023-03-12 | 145 | 76 | 
 | 2023-03-11 | 145 | 76 | 
 | 2023-03-10 | 146 | 76 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 142 | 74 | 
 | 2023-02-13 | 142 | 74 | 
 | 2023-02-12 | 141 | 74 | 
-| 2023-02-11 | 141 | 74 | 
 

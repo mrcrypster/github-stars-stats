@@ -1,10 +1,10 @@
 # o1-labs/docs2 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 39
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/o1-labs/docs2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 15 | 39 | 
 | 2023-03-12 | 16 | 39 | 
 | 2023-03-11 | 16 | 39 | 
 | 2023-03-09 | 16 | 39 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 15 | 37 | 
 | 2023-02-13 | 15 | 37 | 
 | 2023-02-12 | 15 | 37 | 
-| 2023-02-11 | 15 | 37 | 
 

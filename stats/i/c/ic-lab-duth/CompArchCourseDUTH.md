@@ -1,0 +1,17 @@
+# ic-lab-duth/CompArchCourseDUTH - stars & forks statistics
+
+Stats updated on Mar 2023, 13
+
+☋ Forks: 1
+
+★ Stars: 0
+
+[Open repository](https://github.com/ic-lab-duth/CompArchCourseDUTH)
+
+[Open detailed stats for ic-lab-duth/CompArchCourseDUTH](https://reviewgithub.com/rep/ic-lab-duth/CompArchCourseDUTH)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-13 | - | 1 | 
+

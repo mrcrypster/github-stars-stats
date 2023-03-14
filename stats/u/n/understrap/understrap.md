@@ -1,6 +1,6 @@
 # understrap/understrap - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 951
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2949 | 951 | 
 | 2023-03-12 | 2949 | 951 | 
 | 2023-03-11 | 2948 | 951 | 
 | 2023-03-09 | 2947 | 951 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 2931 | 950 | 
 | 2023-02-14 | 2931 | 951 | 
 | 2023-02-12 | 2932 | 951 | 
-| 2023-02-11 | 2932 | 951 | 
 

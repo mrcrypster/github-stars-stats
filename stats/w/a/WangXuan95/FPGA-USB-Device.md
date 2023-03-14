@@ -1,6 +1,6 @@
 # WangXuan95/FPGA-USB-Device - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 127 | 23 | 
 | 2023-03-12 | 127 | 23 | 
 | 2023-03-10 | 127 | 23 | 
 | 2023-03-09 | 123 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 122 | 22 | 
 | 2023-02-13 | 122 | 22 | 
 | 2023-02-12 | 121 | 22 | 
-| 2023-02-11 | 121 | 22 | 
 

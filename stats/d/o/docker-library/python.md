@@ -1,10 +1,10 @@
 # docker-library/python - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 986
+☋ Forks: 987
 
-★ Stars: 2107
+★ Stars: 2109
 
 [Open repository](https://github.com/docker-library/python)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2109 | 987 | 
 | 2023-03-12 | 2107 | 986 | 
 | 2023-03-10 | 2106 | 986 | 
 | 2023-03-09 | 2104 | 983 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2089 | 968 | 
 | 2023-02-13 | 2087 | 967 | 
 | 2023-02-12 | 2087 | 967 | 
-| 2023-02-11 | 2085 | 965 | 
 

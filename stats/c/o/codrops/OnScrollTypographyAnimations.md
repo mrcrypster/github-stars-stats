@@ -1,8 +1,8 @@
 # codrops/OnScrollTypographyAnimations - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 168 | 35 | 
 | 2023-03-11 | 168 | 34 | 
 | 2023-03-10 | 168 | 33 | 
 | 2023-03-09 | 167 | 32 | 

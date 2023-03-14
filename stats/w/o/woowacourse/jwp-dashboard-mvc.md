@@ -1,6 +1,6 @@
 # woowacourse/jwp-dashboard-mvc - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2 | 127 | 
 | 2023-03-12 | 2 | 127 | 
 | 2023-03-11 | 2 | 127 | 
 | 2023-03-10 | 2 | 127 | 

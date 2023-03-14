@@ -1,6 +1,6 @@
 # microsoft/vscode-discussions - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 134 | 10 | 
 | 2023-03-12 | 134 | 10 | 
 | 2023-03-11 | 134 | 10 | 
 | 2023-03-09 | 132 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 127 | 10 | 
 | 2023-02-13 | 127 | 10 | 
 | 2023-02-12 | 127 | 10 | 
-| 2023-02-11 | 127 | 10 | 
 

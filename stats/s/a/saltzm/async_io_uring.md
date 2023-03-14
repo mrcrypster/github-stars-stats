@@ -1,6 +1,6 @@
 # saltzm/async_io_uring - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 88 | 2 | 
 | 2023-03-12 | 88 | 2 | 
 | 2023-03-11 | 88 | 2 | 
 | 2023-03-10 | 88 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 85 | 1 | 
 | 2023-02-13 | 85 | 1 | 
 | 2023-02-12 | 85 | 1 | 
-| 2023-02-11 | 84 | 1 | 
 

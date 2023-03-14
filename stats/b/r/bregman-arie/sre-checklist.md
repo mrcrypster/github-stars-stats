@@ -1,10 +1,10 @@
 # bregman-arie/sre-checklist - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 104
 
-★ Stars: 1267
+★ Stars: 1270
 
 [Open repository](https://github.com/bregman-arie/sre-checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1270 | 104 | 
 | 2023-03-12 | 1267 | 104 | 
 | 2023-03-11 | 1267 | 104 | 
 | 2023-03-10 | 1266 | 104 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1224 | 98 | 
 | 2023-02-13 | 1221 | 97 | 
 | 2023-02-12 | 1216 | 96 | 
-| 2023-02-11 | 1214 | 96 | 
 

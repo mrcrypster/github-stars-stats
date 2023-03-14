@@ -1,6 +1,6 @@
 # riquito/tuc - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 798 | 16 | 
 | 2023-03-11 | 798 | 16 | 
 | 2023-03-10 | 798 | 16 | 
 | 2023-03-09 | 797 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 793 | 15 | 
 | 2023-02-13 | 793 | 15 | 
 | 2023-02-12 | 793 | 15 | 
-| 2023-02-11 | 793 | 15 | 
 

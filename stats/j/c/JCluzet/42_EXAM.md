@@ -1,10 +1,10 @@
 # JCluzet/42_EXAM - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 24
 
-★ Stars: 340
+★ Stars: 342
 
 [Open repository](https://github.com/JCluzet/42_EXAM)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 342 | 24 | 
 | 2023-03-12 | 340 | 24 | 
 | 2023-03-11 | 339 | 24 | 
 | 2023-03-09 | 337 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 286 | 20 | 
 | 2023-02-13 | 284 | 20 | 
 | 2023-02-12 | 284 | 20 | 
-| 2023-02-11 | 283 | 20 | 
 

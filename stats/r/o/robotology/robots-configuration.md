@@ -1,10 +1,10 @@
 # robotology/robots-configuration - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 65
+☋ Forks: 64
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/robotology/robots-configuration)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 12 | 64 | 
 | 2023-03-12 | 13 | 65 | 
 | 2023-03-11 | 13 | 65 | 
 | 2023-03-10 | 13 | 65 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 13 | 64 | 
 | 2023-02-13 | 13 | 64 | 
 | 2023-02-12 | 13 | 63 | 
-| 2023-02-11 | 13 | 63 | 
 

@@ -1,10 +1,10 @@
 # netlify/functions.netlify.com - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 134
 
-★ Stars: 508
+★ Stars: 510
 
 [Open repository](https://github.com/netlify/functions.netlify.com)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 510 | 134 | 
 | 2023-03-12 | 508 | 134 | 
 | 2023-03-11 | 508 | 134 | 
 | 2023-03-10 | 508 | 135 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 508 | 132 | 
 | 2023-02-13 | 508 | 132 | 
 | 2023-02-12 | 508 | 132 | 
-| 2023-02-11 | 508 | 132 | 
 

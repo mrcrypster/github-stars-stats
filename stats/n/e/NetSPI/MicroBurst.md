@@ -1,10 +1,10 @@
 # NetSPI/MicroBurst - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 255
 
-★ Stars: 1511
+★ Stars: 1513
 
 [Open repository](https://github.com/NetSPI/MicroBurst)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1513 | 255 | 
 | 2023-03-12 | 1511 | 255 | 
 | 2023-03-11 | 1511 | 254 | 
 | 2023-03-10 | 1511 | 254 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1492 | 254 | 
 | 2023-02-13 | 1489 | 254 | 
 | 2023-02-12 | 1485 | 254 | 
-| 2023-02-11 | 1484 | 253 | 
 

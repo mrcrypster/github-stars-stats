@@ -1,10 +1,10 @@
 # supabase/pg_jsonschema - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
-☋ Forks: 10
+☋ Forks: 9
 
-★ Stars: 669
+★ Stars: 668
 
 [Open repository](https://github.com/supabase/pg_jsonschema)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 668 | 9 | 
 | 2023-03-11 | 669 | 10 | 
 | 2023-03-10 | 669 | 9 | 
 | 2023-03-09 | 669 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 654 | 9 | 
 | 2023-02-13 | 653 | 9 | 
 | 2023-02-12 | 653 | 9 | 
-| 2023-02-11 | 653 | 9 | 
 

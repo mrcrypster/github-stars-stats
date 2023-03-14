@@ -1,6 +1,6 @@
 # Liuhaixv/Goose_Goose_Duck_Hack - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 482 | 68 | 
 | 2023-03-12 | 482 | 68 | 
 | 2023-03-11 | 482 | 68 | 
 | 2023-03-10 | 482 | 67 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 429 | 63 | 
 | 2023-02-13 | 426 | 63 | 
 | 2023-02-12 | 419 | 63 | 
-| 2023-02-11 | 412 | 63 | 
 

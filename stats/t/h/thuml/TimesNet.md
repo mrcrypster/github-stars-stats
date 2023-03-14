@@ -1,10 +1,10 @@
 # thuml/TimesNet - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 17
+☋ Forks: 19
 
-★ Stars: 154
+★ Stars: 157
 
 [Open repository](https://github.com/thuml/TimesNet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 157 | 19 | 
 | 2023-03-12 | 154 | 17 | 
 | 2023-03-11 | 151 | 17 | 
 | 2023-03-10 | 148 | 16 | 

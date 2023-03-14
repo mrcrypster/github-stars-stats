@@ -1,10 +1,10 @@
 # toidicode/template - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 378
+☋ Forks: 379
 
-★ Stars: 677
+★ Stars: 678
 
 [Open repository](https://github.com/toidicode/template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 678 | 379 | 
 | 2023-03-13 | 677 | 378 | 
 | 2023-03-11 | 678 | 378 | 
 | 2023-03-10 | 678 | 378 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-14 | 670 | 370 | 
 | 2023-02-13 | 670 | 370 | 
 | 2023-02-12 | 670 | 370 | 
-| 2023-02-11 | 670 | 370 | 
 

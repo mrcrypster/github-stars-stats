@@ -1,10 +1,10 @@
 # lidangzzz/how-to-run-Q-and-A - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/lidangzzz/how-to-run-Q-and-A)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 297 | 15 | 
 | 2023-03-12 | 296 | 15 | 
 | 2023-03-11 | 295 | 15 | 
 | 2023-03-09 | 293 | 15 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 282 | 14 | 
 | 2023-02-14 | 279 | 14 | 
 | 2023-02-13 | 279 | 14 | 
-| 2023-02-12 | 278 | 14 | 
 

@@ -1,6 +1,6 @@
 # httprb/http - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 302
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2912 | 302 | 
 | 2023-03-11 | 2912 | 302 | 
 | 2023-03-10 | 2912 | 302 | 
 | 2023-03-09 | 2913 | 302 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 2904 | 303 | 
 | 2023-02-13 | 2903 | 302 | 
 | 2023-02-12 | 2903 | 302 | 
-| 2023-02-11 | 2902 | 302 | 
 

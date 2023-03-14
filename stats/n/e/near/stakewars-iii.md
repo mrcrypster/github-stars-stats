@@ -1,6 +1,6 @@
 # near/stakewars-iii - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 88 | 194 | 
 | 2023-03-12 | 88 | 194 | 
 | 2023-03-11 | 88 | 194 | 
 | 2023-03-09 | 88 | 194 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 90 | 193 | 
 | 2023-02-14 | 90 | 193 | 
 | 2023-02-13 | 90 | 193 | 
-| 2023-02-11 | 90 | 193 | 
 

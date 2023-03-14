@@ -1,10 +1,10 @@
 # stefanprodan/dockprom - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1571
 
-★ Stars: 5299
+★ Stars: 5302
 
 [Open repository](https://github.com/stefanprodan/dockprom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5302 | 1571 | 
 | 2023-03-12 | 5299 | 1571 | 
 | 2023-03-11 | 5294 | 1570 | 
 | 2023-03-10 | 5292 | 1570 | 

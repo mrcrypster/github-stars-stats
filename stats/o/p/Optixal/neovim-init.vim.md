@@ -1,6 +1,6 @@
 # Optixal/neovim-init.vim - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 917 | 201 | 
 | 2023-03-11 | 917 | 201 | 
 | 2023-03-10 | 916 | 201 | 
 | 2023-03-09 | 916 | 201 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 901 | 199 | 
 | 2023-02-14 | 900 | 199 | 
 | 2023-02-13 | 900 | 199 | 
-| 2023-02-12 | 901 | 199 | 
 

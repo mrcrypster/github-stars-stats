@@ -1,6 +1,6 @@
 # funwebdev-3rd-ed/projects-start - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2 | 35 | 
 | 2023-03-12 | 2 | 35 | 
 | 2023-03-11 | 2 | 35 | 
 | 2023-03-09 | 2 | 35 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 2 | 27 | 
 | 2023-02-14 | 2 | 27 | 
 | 2023-02-13 | 2 | 26 | 
-| 2023-02-12 | 2 | 25 | 
 

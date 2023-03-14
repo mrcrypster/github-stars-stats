@@ -1,6 +1,6 @@
 # xunit/xunit - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 746
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3624 | 746 | 
 | 2023-03-12 | 3624 | 746 | 
 | 2023-03-11 | 3621 | 745 | 
 | 2023-03-09 | 3620 | 745 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3603 | 741 | 
 | 2023-02-13 | 3600 | 740 | 
 | 2023-02-12 | 3599 | 740 | 
-| 2023-02-11 | 3598 | 740 | 
 

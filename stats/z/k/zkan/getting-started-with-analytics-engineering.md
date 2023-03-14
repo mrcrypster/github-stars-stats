@@ -1,8 +1,8 @@
 # zkan/getting-started-with-analytics-engineering - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5 | 82 | 
 | 2023-03-12 | 5 | 81 | 
 | 2023-03-10 | 5 | 81 | 
 | 2023-03-09 | 5 | 81 | 

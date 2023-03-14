@@ -1,10 +1,10 @@
 # ElderDrivers/EdXposed - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 607
 
-★ Stars: 4977
+★ Stars: 4975
 
 [Open repository](https://github.com/ElderDrivers/EdXposed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4975 | 607 | 
 | 2023-03-12 | 4977 | 607 | 
 | 2023-03-10 | 4976 | 607 | 
 | 2023-03-09 | 4974 | 606 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4957 | 608 | 
 | 2023-02-13 | 4959 | 608 | 
 | 2023-02-12 | 4955 | 608 | 
-| 2023-02-11 | 4955 | 608 | 
 

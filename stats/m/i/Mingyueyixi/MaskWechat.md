@@ -1,10 +1,10 @@
 # Mingyueyixi/MaskWechat - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 7
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/Mingyueyixi/MaskWechat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 78 | 7 | 
 | 2023-03-12 | 77 | 7 | 
 | 2023-03-11 | 77 | 7 | 
 | 2023-03-10 | 75 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 62 | 5 | 
 | 2023-02-13 | 62 | 5 | 
 | 2023-02-12 | 61 | 4 | 
-| 2023-02-11 | 61 | 4 | 
 

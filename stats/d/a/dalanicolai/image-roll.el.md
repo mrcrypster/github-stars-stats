@@ -1,10 +1,10 @@
 # dalanicolai/image-roll.el - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/dalanicolai/image-roll.el)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 61 | 2 | 
 | 2023-03-11 | 60 | 2 | 
 | 2023-03-10 | 60 | 2 | 
 | 2023-03-09 | 59 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 57 | 3 | 
 | 2023-02-13 | 57 | 3 | 
 | 2023-02-12 | 57 | 3 | 
-| 2023-02-11 | 57 | 3 | 
 

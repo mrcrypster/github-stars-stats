@@ -1,6 +1,6 @@
 # waroi/BTK-VueJS-Egitimi - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 21 | 27 | 
 | 2023-03-11 | 21 | 27 | 
 | 2023-03-10 | 20 | 27 | 
 | 2023-03-09 | 20 | 27 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 17 | 27 | 
 | 2023-02-13 | 17 | 27 | 
 | 2023-02-12 | 17 | 27 | 
-| 2023-02-11 | 17 | 27 | 
 

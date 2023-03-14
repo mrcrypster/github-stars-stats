@@ -1,6 +1,6 @@
 # msilva913/ECON-7800-Programs - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3 | 7 | 
 | 2023-03-12 | 3 | 7 | 
 | 2023-03-10 | 3 | 7 | 
 | 2023-03-09 | 3 | 7 | 

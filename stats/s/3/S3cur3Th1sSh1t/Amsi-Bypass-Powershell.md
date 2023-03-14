@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/Amsi-Bypass-Powershell - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 225
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1105 | 225 | 
 | 2023-03-12 | 1105 | 225 | 
 | 2023-03-11 | 1104 | 225 | 
 | 2023-03-10 | 1104 | 225 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1048 | 215 | 
 | 2023-02-13 | 1048 | 215 | 
 | 2023-02-12 | 1047 | 215 | 
-| 2023-02-11 | 1047 | 215 | 
 

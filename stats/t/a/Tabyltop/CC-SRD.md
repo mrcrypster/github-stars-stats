@@ -1,10 +1,10 @@
 # Tabyltop/CC-SRD - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 8
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/Tabyltop/CC-SRD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 29 | 8 | 
 | 2023-03-12 | 28 | 8 | 
 | 2023-03-11 | 28 | 8 | 
 | 2023-03-10 | 28 | 8 | 

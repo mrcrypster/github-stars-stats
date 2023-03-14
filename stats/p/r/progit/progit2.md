@@ -1,10 +1,10 @@
 # progit/progit2 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1984
 
-★ Stars: 5073
+★ Stars: 5078
 
 [Open repository](https://github.com/progit/progit2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5078 | 1984 | 
 | 2023-03-12 | 5073 | 1984 | 
 | 2023-03-11 | 5072 | 1982 | 
 | 2023-03-09 | 5074 | 1982 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 5045 | 1976 | 
 | 2023-02-13 | 5045 | 1976 | 
 | 2023-02-12 | 5045 | 1974 | 
-| 2023-02-11 | 5043 | 1975 | 
 

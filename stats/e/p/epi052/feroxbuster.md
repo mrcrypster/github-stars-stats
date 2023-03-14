@@ -1,10 +1,10 @@
 # epi052/feroxbuster - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 348
+☋ Forks: 349
 
-★ Stars: 3828
+★ Stars: 3884
 
 [Open repository](https://github.com/epi052/feroxbuster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3884 | 349 | 
 | 2023-03-12 | 3828 | 348 | 
 | 2023-03-10 | 3825 | 348 | 
 | 2023-03-09 | 3822 | 347 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3756 | 340 | 
 | 2023-02-13 | 3754 | 340 | 
 | 2023-02-12 | 3753 | 341 | 
-| 2023-02-11 | 3750 | 341 | 
 

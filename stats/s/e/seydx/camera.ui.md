@@ -1,10 +1,10 @@
 # seydx/camera.ui - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 39
 
-★ Stars: 238
+★ Stars: 240
 
 [Open repository](https://github.com/seydx/camera.ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 240 | 39 | 
 | 2023-03-12 | 238 | 39 | 
 | 2023-03-11 | 237 | 38 | 
 | 2023-03-10 | 237 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 214 | 34 | 
 | 2023-02-13 | 213 | 34 | 
 | 2023-02-12 | 213 | 34 | 
-| 2023-02-11 | 213 | 34 | 
 

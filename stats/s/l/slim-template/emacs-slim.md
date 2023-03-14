@@ -1,6 +1,6 @@
 # slim-template/emacs-slim - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 63 | 19 | 
 | 2023-03-12 | 63 | 19 | 
 | 2023-03-11 | 63 | 19 | 
 | 2023-03-09 | 63 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 64 | 19 | 
 | 2023-02-13 | 64 | 19 | 
 | 2023-02-12 | 64 | 19 | 
-| 2023-02-11 | 64 | 19 | 
 

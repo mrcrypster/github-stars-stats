@@ -1,6 +1,6 @@
 # vikas99341/Terraform-codes - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3 | 48 | 
 | 2023-03-12 | 3 | 48 | 
 | 2023-03-11 | 3 | 48 | 
 | 2023-03-10 | 3 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3 | 39 | 
 | 2023-02-13 | 3 | 39 | 
 | 2023-02-12 | 3 | 39 | 
-| 2023-02-11 | 3 | 38 | 
 

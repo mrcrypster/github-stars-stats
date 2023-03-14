@@ -1,10 +1,10 @@
 # thegooddocsproject/templates - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 162
 
-★ Stars: 630
+★ Stars: 631
 
 [Open repository](https://github.com/thegooddocsproject/templates)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 631 | 162 | 
 | 2023-03-12 | 630 | 162 | 
 | 2023-03-10 | 630 | 162 | 
 | 2023-03-09 | 629 | 162 | 

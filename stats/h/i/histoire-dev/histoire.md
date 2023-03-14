@@ -1,10 +1,10 @@
 # histoire-dev/histoire - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 108
 
-★ Stars: 2342
+★ Stars: 2343
 
 [Open repository](https://github.com/histoire-dev/histoire)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2343 | 108 | 
 | 2023-03-12 | 2342 | 108 | 
 | 2023-03-11 | 2340 | 108 | 
 | 2023-03-10 | 2337 | 107 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2225 | 95 | 
 | 2023-02-13 | 2222 | 95 | 
 | 2023-02-12 | 2214 | 95 | 
-| 2023-02-11 | 2206 | 95 | 
 

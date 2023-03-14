@@ -1,6 +1,6 @@
 # jpcs/xqueryparser.xq - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 13 | 3 | 
 | 2023-03-11 | 13 | 3 | 
 | 2023-03-10 | 13 | 3 | 
 | 2023-03-09 | 13 | 3 | 

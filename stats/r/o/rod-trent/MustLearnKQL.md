@@ -1,6 +1,6 @@
 # rod-trent/MustLearnKQL - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 634 | 120 | 
 | 2023-03-12 | 634 | 120 | 
 | 2023-03-10 | 634 | 120 | 
 | 2023-03-09 | 630 | 120 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 616 | 118 | 
 | 2023-02-13 | 614 | 118 | 
 | 2023-02-12 | 612 | 118 | 
-| 2023-02-11 | 611 | 117 | 
 

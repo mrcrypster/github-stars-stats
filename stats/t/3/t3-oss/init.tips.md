@@ -1,10 +1,10 @@
 # t3-oss/init.tips - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 175
+★ Stars: 177
 
 [Open repository](https://github.com/t3-oss/init.tips)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 177 | 23 | 
 | 2023-03-12 | 175 | 22 | 
 | 2023-03-11 | 175 | 22 | 
 | 2023-03-09 | 175 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 171 | 21 | 
 | 2023-02-13 | 171 | 21 | 
 | 2023-02-12 | 171 | 21 | 
-| 2023-02-11 | 171 | 21 | 
 

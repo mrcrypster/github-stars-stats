@@ -1,6 +1,6 @@
 # pkhungurn/talking-head-anime-3-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 405 | 36 | 
 | 2023-03-12 | 405 | 36 | 
 | 2023-03-11 | 400 | 36 | 
 | 2023-03-10 | 398 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 343 | 34 | 
 | 2023-02-14 | 340 | 33 | 
 | 2023-02-12 | 339 | 33 | 
-| 2023-02-11 | 339 | 33 | 
 

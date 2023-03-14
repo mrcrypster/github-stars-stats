@@ -1,6 +1,6 @@
 # Gaohaoyang/gaohaoyang.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2021
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1783 | 2021 | 
 | 2023-03-12 | 1783 | 2021 | 
 | 2023-03-11 | 1783 | 2021 | 
 | 2023-03-10 | 1784 | 2021 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1780 | 2021 | 
 | 2023-02-13 | 1780 | 2021 | 
 | 2023-02-12 | 1780 | 2020 | 
-| 2023-02-11 | 1780 | 2020 | 
 

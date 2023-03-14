@@ -1,10 +1,10 @@
 # wuspy/portal_calendar - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 26
 
-★ Stars: 643
+★ Stars: 644
 
 [Open repository](https://github.com/wuspy/portal_calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 644 | 26 | 
 | 2023-03-12 | 643 | 26 | 
 | 2023-03-10 | 643 | 26 | 
 | 2023-03-09 | 641 | 26 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 619 | 24 | 
 | 2023-02-13 | 617 | 24 | 
 | 2023-02-12 | 614 | 24 | 
-| 2023-02-11 | 614 | 24 | 
 

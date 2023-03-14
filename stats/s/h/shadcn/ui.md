@@ -1,10 +1,10 @@
 # shadcn/ui - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 321
 
-★ Stars: 8846
+★ Stars: 8868
 
 [Open repository](https://github.com/shadcn/ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 8868 | 321 | 
 | 2023-03-11 | 8846 | 321 | 
 | 2023-03-10 | 8816 | 320 | 
 | 2023-03-09 | 8797 | 319 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 8124 | 272 | 
 | 2023-02-13 | 7995 | 272 | 
 | 2023-02-12 | 7943 | 270 | 
-| 2023-02-11 | 7901 | 268 | 
 

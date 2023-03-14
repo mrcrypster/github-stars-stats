@@ -1,10 +1,10 @@
 # mwerezak/sphinx-lang - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/mwerezak/sphinx-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 288 | 11 | 
 | 2023-03-12 | 287 | 11 | 
 | 2023-03-11 | 287 | 11 | 
 | 2023-03-10 | 287 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 286 | 11 | 
 | 2023-02-13 | 286 | 11 | 
 | 2023-02-12 | 286 | 11 | 
-| 2023-02-11 | 286 | 11 | 
 

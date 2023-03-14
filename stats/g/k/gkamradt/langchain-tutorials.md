@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 56
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/gkamradt/langchain-tutorials)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 70 | 56 | 
+| 2023-03-13 | 72 | 56 | 
 | 2023-03-12 | 68 | 56 | 
 | 2023-03-11 | 61 | 50 | 
 | 2023-03-10 | 56 | 49 | 

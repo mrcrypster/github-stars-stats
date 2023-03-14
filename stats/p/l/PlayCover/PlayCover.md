@@ -1,10 +1,10 @@
 # PlayCover/PlayCover - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 496
+☋ Forks: 497
 
-★ Stars: 3877
+★ Stars: 3896
 
 [Open repository](https://github.com/PlayCover/PlayCover)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3896 | 497 | 
 | 2023-03-12 | 3877 | 496 | 
 | 2023-03-11 | 3862 | 492 | 
 | 2023-03-09 | 3846 | 491 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3461 | 468 | 
 | 2023-02-13 | 3460 | 467 | 
 | 2023-02-12 | 3446 | 466 | 
-| 2023-02-11 | 3433 | 463 | 
 

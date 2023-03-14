@@ -1,10 +1,10 @@
 # ExzoNetwork/ExzoCoin - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 118
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/ExzoNetwork/ExzoCoin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 184 | 118 | 
 | 2023-03-11 | 183 | 118 | 
 | 2023-03-10 | 183 | 118 | 
 | 2023-03-09 | 183 | 118 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 133 | 92 | 
 | 2023-02-14 | 127 | 87 | 
 | 2023-02-13 | 124 | 87 | 
-| 2023-02-11 | 118 | 85 | 
 

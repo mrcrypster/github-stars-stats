@@ -1,10 +1,10 @@
 # Alygnt/Clifty - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 13
 
-★ Stars: 107
+★ Stars: 109
 
 [Open repository](https://github.com/Alygnt/Clifty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 109 | 13 | 
 | 2023-03-12 | 107 | 13 | 
 | 2023-03-11 | 106 | 11 | 
 | 2023-03-09 | 105 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 89 | 10 | 
 | 2023-02-14 | 89 | 10 | 
 | 2023-02-12 | 89 | 10 | 
-| 2023-02-11 | 89 | 10 | 
 

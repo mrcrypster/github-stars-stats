@@ -1,6 +1,6 @@
 # delta-io/delta-rs - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 929 | 183 | 
 | 2023-03-12 | 929 | 183 | 
 | 2023-03-11 | 908 | 182 | 
 | 2023-03-09 | 907 | 179 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 860 | 171 | 
 | 2023-02-13 | 857 | 171 | 
 | 2023-02-12 | 856 | 171 | 
-| 2023-02-11 | 854 | 171 | 
 

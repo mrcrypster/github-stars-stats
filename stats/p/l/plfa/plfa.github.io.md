@@ -1,10 +1,10 @@
 # plfa/plfa.github.io - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 261
 
-★ Stars: 1207
+★ Stars: 1208
 
 [Open repository](https://github.com/plfa/plfa.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1208 | 261 | 
 | 2023-03-12 | 1207 | 261 | 
 | 2023-03-11 | 1207 | 261 | 
 | 2023-03-09 | 1207 | 263 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1198 | 262 | 
 | 2023-02-13 | 1198 | 262 | 
 | 2023-02-12 | 1197 | 262 | 
-| 2023-02-11 | 1197 | 262 | 
 

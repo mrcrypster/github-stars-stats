@@ -1,6 +1,6 @@
 # cue-lang/cuelang.org - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 20 | 42 | 
 | 2023-03-11 | 20 | 42 | 
 | 2023-03-10 | 21 | 42 | 
 | 2023-03-08 | 21 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 18 | 41 | 
 | 2023-02-13 | 18 | 41 | 
 | 2023-02-12 | 18 | 41 | 
-| 2023-02-11 | 18 | 41 | 
 

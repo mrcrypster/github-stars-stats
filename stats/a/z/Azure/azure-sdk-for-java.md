@@ -1,6 +1,6 @@
 # Azure/azure-sdk-for-java - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1671
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1809 | 1671 | 
 | 2023-03-12 | 1809 | 1671 | 
 | 2023-03-11 | 1807 | 1671 | 
 | 2023-03-10 | 1807 | 1671 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1792 | 1652 | 
 | 2023-02-13 | 1792 | 1651 | 
 | 2023-02-12 | 1790 | 1651 | 
-| 2023-02-11 | 1789 | 1651 | 
 

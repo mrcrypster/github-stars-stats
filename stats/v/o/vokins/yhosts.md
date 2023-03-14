@@ -1,10 +1,10 @@
 # vokins/yhosts - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 552
 
-★ Stars: 1708
+★ Stars: 1707
 
 [Open repository](https://github.com/vokins/yhosts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1707 | 552 | 
 | 2023-03-12 | 1708 | 552 | 
 | 2023-03-11 | 1708 | 552 | 
 

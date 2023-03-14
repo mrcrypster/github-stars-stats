@@ -1,10 +1,10 @@
 # jaegertracing/jaeger - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2081
 
-★ Stars: 17289
+★ Stars: 17297
 
 [Open repository](https://github.com/jaegertracing/jaeger)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 17297 | 2081 | 
 | 2023-03-12 | 17289 | 2081 | 
 | 2023-03-11 | 17282 | 2081 | 
 | 2023-03-10 | 17274 | 2079 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 17104 | 2057 | 
 | 2023-02-13 | 17095 | 2056 | 
 | 2023-02-12 | 17086 | 2054 | 
-| 2023-02-11 | 17083 | 2053 | 
 

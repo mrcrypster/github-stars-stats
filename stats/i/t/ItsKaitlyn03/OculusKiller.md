@@ -1,10 +1,10 @@
 # ItsKaitlyn03/OculusKiller - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 37
 
-★ Stars: 830
+★ Stars: 831
 
 [Open repository](https://github.com/ItsKaitlyn03/OculusKiller)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 831 | 37 | 
 | 2023-03-12 | 830 | 37 | 
 | 2023-03-11 | 829 | 38 | 
 | 2023-03-09 | 828 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 811 | 36 | 
 | 2023-02-13 | 808 | 36 | 
 | 2023-02-12 | 807 | 36 | 
-| 2023-02-11 | 806 | 36 | 
 

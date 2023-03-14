@@ -1,10 +1,10 @@
 # stascorp/rdpwrap - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 5256
+☋ Forks: 5257
 
-★ Stars: 12052
+★ Stars: 12060
 
 [Open repository](https://github.com/stascorp/rdpwrap)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 12060 | 5257 | 
 | 2023-03-12 | 12052 | 5256 | 
 | 2023-03-11 | 12048 | 5254 | 
 | 2023-03-10 | 12044 | 5252 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 11938 | 5167 | 
 | 2023-02-13 | 11927 | 5162 | 
 | 2023-02-12 | 11923 | 5162 | 
-| 2023-02-11 | 11921 | 5163 | 
 

@@ -1,10 +1,10 @@
 # cfug/dio - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1420
+☋ Forks: 1419
 
-★ Stars: 11471
+★ Stars: 11474
 
 [Open repository](https://github.com/cfug/dio)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 11474 | 1419 | 
 | 2023-03-12 | 11471 | 1420 | 
 | 2023-03-11 | 11470 | 1420 | 
 | 2023-03-10 | 11468 | 1419 | 

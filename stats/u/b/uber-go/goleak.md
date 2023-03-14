@@ -1,10 +1,10 @@
 # uber-go/goleak - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 126
 
-★ Stars: 3359
+★ Stars: 3360
 
 [Open repository](https://github.com/uber-go/goleak)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3360 | 126 | 
 | 2023-03-11 | 3359 | 126 | 
 | 2023-03-10 | 3357 | 126 | 
 | 2023-03-09 | 3358 | 126 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 3319 | 126 | 
 | 2023-02-13 | 3314 | 126 | 
 | 2023-02-12 | 3301 | 124 | 
-| 2023-02-11 | 3296 | 124 | 
 

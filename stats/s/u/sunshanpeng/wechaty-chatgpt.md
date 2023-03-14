@@ -1,6 +1,6 @@
 # sunshanpeng/wechaty-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 117 | 23 | 
 | 2023-03-12 | 117 | 23 | 
 | 2023-03-11 | 117 | 23 | 
 | 2023-03-10 | 115 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 98 | 22 | 
 | 2023-02-14 | 94 | 21 | 
 | 2023-02-13 | 92 | 20 | 
-| 2023-02-12 | 91 | 19 | 
 

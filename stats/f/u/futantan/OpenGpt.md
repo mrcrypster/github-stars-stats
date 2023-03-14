@@ -1,10 +1,10 @@
 # futantan/OpenGpt - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 79
+☋ Forks: 100
 
-★ Stars: 1127
+★ Stars: 1430
 
 [Open repository](https://github.com/futantan/OpenGpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1430 | 100 | 
 | 2023-03-12 | 1127 | 79 | 
 | 2023-03-11 | 892 | 63 | 
 | 2023-03-10 | 629 | 38 | 

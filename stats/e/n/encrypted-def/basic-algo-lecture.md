@@ -1,10 +1,10 @@
 # encrypted-def/basic-algo-lecture - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 354
+☋ Forks: 355
 
-★ Stars: 1319
+★ Stars: 1320
 
 [Open repository](https://github.com/encrypted-def/basic-algo-lecture)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1320 | 355 | 
 | 2023-03-12 | 1319 | 354 | 
 | 2023-03-11 | 1317 | 355 | 
 | 2023-03-10 | 1316 | 355 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 1279 | 338 | 
 | 2023-02-14 | 1274 | 335 | 
 | 2023-02-13 | 1271 | 333 | 
-| 2023-02-12 | 1267 | 333 | 
 

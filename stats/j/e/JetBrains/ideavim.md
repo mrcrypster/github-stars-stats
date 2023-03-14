@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 690
 
-★ Stars: 7365
+★ Stars: 7366
 
 [Open repository](https://github.com/JetBrains/ideavim)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 7365 | 690 | 
+| 2023-03-13 | 7366 | 690 | 
 | 2023-03-12 | 7366 | 691 | 
 | 2023-03-11 | 7359 | 690 | 
 | 2023-03-10 | 7358 | 690 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-14 | 7263 | 679 | 
 | 2023-02-13 | 7261 | 679 | 
 | 2023-02-12 | 7258 | 679 | 
-| 2023-02-11 | 7255 | 679 | 
 

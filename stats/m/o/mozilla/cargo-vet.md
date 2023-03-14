@@ -1,6 +1,6 @@
 # mozilla/cargo-vet - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 298 | 20 | 
 | 2023-03-12 | 298 | 20 | 
 | 2023-03-11 | 298 | 20 | 
 | 2023-03-10 | 298 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 295 | 19 | 
 | 2023-02-13 | 294 | 19 | 
 | 2023-02-12 | 294 | 19 | 
-| 2023-02-11 | 292 | 19 | 
 

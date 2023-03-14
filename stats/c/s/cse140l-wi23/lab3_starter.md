@@ -1,6 +1,6 @@
 # cse140l-wi23/lab3_starter - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | - | 3 | 
 | 2023-03-12 | - | 3 | 
 | 2023-03-11 | - | 3 | 
 | 2023-03-10 | - | 3 | 

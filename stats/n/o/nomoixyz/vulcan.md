@@ -1,10 +1,10 @@
 # nomoixyz/vulcan - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/nomoixyz/vulcan)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 54 | 1 | 
 | 2023-03-12 | 53 | 1 | 
 | 2023-03-11 | 53 | 1 | 
 | 2023-03-09 | 52 | 1 | 

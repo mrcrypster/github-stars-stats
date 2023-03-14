@@ -1,8 +1,8 @@
 # vbssubscribeit/RDP-6HRS-WINDOWS - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 285
+☋ Forks: 286
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2 | 286 | 
 | 2023-03-12 | 2 | 285 | 
 | 2023-03-11 | 2 | 284 | 
 | 2023-03-10 | 2 | 284 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2 | 241 | 
 | 2023-02-13 | 2 | 239 | 
 | 2023-02-12 | 2 | 238 | 
-| 2023-02-11 | 2 | 238 | 
 

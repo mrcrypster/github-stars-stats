@@ -1,10 +1,10 @@
 # studyrs/rusty-book - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 82
 
-★ Stars: 1332
+★ Stars: 1338
 
 [Open repository](https://github.com/studyrs/rusty-book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1338 | 82 | 
 | 2023-03-12 | 1332 | 82 | 
 | 2023-03-11 | 1331 | 82 | 
 | 2023-03-10 | 1331 | 81 | 

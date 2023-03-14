@@ -1,6 +1,6 @@
 # marcinkoziej/org-pomodoro - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 543 | 73 | 
 | 2023-03-12 | 543 | 73 | 
 | 2023-03-11 | 543 | 73 | 
 | 2023-03-10 | 542 | 73 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 538 | 73 | 
 | 2023-02-13 | 538 | 73 | 
 | 2023-02-12 | 537 | 73 | 
-| 2023-02-11 | 535 | 73 | 
 

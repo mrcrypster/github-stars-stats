@@ -1,10 +1,10 @@
 # AnLoMinus/Bug-Bounty - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 50
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/AnLoMinus/Bug-Bounty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 234 | 50 | 
 | 2023-03-11 | 233 | 50 | 
 | 2023-03-10 | 233 | 50 | 
 | 2023-03-09 | 232 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 224 | 48 | 
 | 2023-02-13 | 224 | 47 | 
 | 2023-02-12 | 224 | 47 | 
-| 2023-02-11 | 224 | 47 | 
 

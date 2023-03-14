@@ -1,8 +1,8 @@
 # WongKinYiu/yolor - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 530
+☋ Forks: 531
 
 ★ Stars: 1872
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1872 | 531 | 
 | 2023-03-12 | 1872 | 530 | 
 | 2023-03-11 | 1872 | 530 | 
 | 2023-03-10 | 1872 | 530 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 1866 | 529 | 
 | 2023-02-14 | 1864 | 530 | 
 | 2023-02-13 | 1863 | 529 | 
-| 2023-02-12 | 1862 | 529 | 
 

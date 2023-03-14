@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-treemacs - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 41
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 327 | 41 | 
+| 2023-03-13 | 327 | 41 | 
 | 2023-03-12 | 327 | 41 | 
 | 2023-03-11 | 327 | 41 | 
 | 2023-03-09 | 326 | 41 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 322 | 41 | 
 | 2023-02-13 | 322 | 41 | 
 | 2023-02-12 | 322 | 41 | 
-| 2023-02-11 | 322 | 41 | 
 

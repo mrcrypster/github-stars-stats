@@ -1,6 +1,6 @@
 # Jovian-Experiments/Jovian-NixOS - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 134 | 11 | 
 | 2023-03-12 | 134 | 11 | 
 | 2023-03-11 | 134 | 11 | 
 | 2023-03-10 | 134 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 130 | 10 | 
 | 2023-02-13 | 130 | 10 | 
 | 2023-02-12 | 130 | 10 | 
-| 2023-02-11 | 130 | 10 | 
 

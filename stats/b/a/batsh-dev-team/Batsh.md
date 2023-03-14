@@ -1,6 +1,6 @@
 # batsh-dev-team/Batsh - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4208 | 189 | 
 | 2023-03-11 | 4208 | 189 | 
 | 2023-03-10 | 4208 | 189 | 
 | 2023-03-09 | 4208 | 189 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 4204 | 189 | 
 | 2023-02-14 | 4203 | 189 | 
 | 2023-02-13 | 4201 | 189 | 
-| 2023-02-12 | 4201 | 189 | 
 

@@ -1,10 +1,10 @@
 # tbakerx/react-resume-template - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 908
+☋ Forks: 906
 
-★ Stars: 1296
+★ Stars: 1300
 
 [Open repository](https://github.com/tbakerx/react-resume-template)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1300 | 906 | 
 | 2023-03-12 | 1296 | 908 | 
 | 2023-03-11 | 1295 | 905 | 
 | 2023-03-10 | 1294 | 906 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1256 | 879 | 
 | 2023-02-13 | 1256 | 879 | 
 | 2023-02-12 | 1256 | 879 | 
-| 2023-02-11 | 1255 | 877 | 
 

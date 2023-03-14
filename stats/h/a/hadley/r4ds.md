@@ -1,10 +1,10 @@
 # hadley/r4ds - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 3818
+☋ Forks: 3819
 
-★ Stars: 3885
+★ Stars: 3886
 
 [Open repository](https://github.com/hadley/r4ds)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3886 | 3819 | 
 | 2023-03-12 | 3885 | 3818 | 
 | 2023-03-11 | 3884 | 3818 | 
 | 2023-03-10 | 3882 | 3818 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3850 | 3801 | 
 | 2023-02-13 | 3849 | 3799 | 
 | 2023-02-12 | 3848 | 3799 | 
-| 2023-02-11 | 3848 | 3798 | 
 

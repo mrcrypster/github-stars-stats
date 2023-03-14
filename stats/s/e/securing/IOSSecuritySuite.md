@@ -1,6 +1,6 @@
 # securing/IOSSecuritySuite - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 206
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1654 | 206 | 
 | 2023-03-12 | 1654 | 206 | 
 | 2023-03-10 | 1655 | 206 | 
 | 2023-03-09 | 1654 | 205 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1565 | 198 | 
 | 2023-02-13 | 1561 | 198 | 
 | 2023-02-12 | 1555 | 198 | 
-| 2023-02-11 | 1552 | 198 | 
 

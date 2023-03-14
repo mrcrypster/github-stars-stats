@@ -1,6 +1,6 @@
 # nf-core/hic - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 47 | 35 | 
 | 2023-03-12 | 47 | 35 | 
 | 2023-03-11 | 47 | 36 | 
 | 2023-03-10 | 47 | 36 | 

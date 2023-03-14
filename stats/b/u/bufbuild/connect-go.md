@@ -1,10 +1,10 @@
 # bufbuild/connect-go - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 42
 
-★ Stars: 1849
+★ Stars: 1851
 
 [Open repository](https://github.com/bufbuild/connect-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1851 | 42 | 
 | 2023-03-12 | 1849 | 42 | 
 | 2023-03-11 | 1843 | 42 | 
 | 2023-03-09 | 1839 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 1790 | 39 | 
 | 2023-02-14 | 1789 | 38 | 
 | 2023-02-12 | 1784 | 37 | 
-| 2023-02-11 | 1783 | 37 | 
 

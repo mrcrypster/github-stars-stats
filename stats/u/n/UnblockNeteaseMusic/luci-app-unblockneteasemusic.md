@@ -1,10 +1,10 @@
 # UnblockNeteaseMusic/luci-app-unblockneteasemusic - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 162
+☋ Forks: 163
 
-★ Stars: 1189
+★ Stars: 1190
 
 [Open repository](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1190 | 163 | 
 | 2023-03-12 | 1189 | 162 | 
 | 2023-03-11 | 1186 | 161 | 
 | 2023-03-09 | 1184 | 161 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1150 | 160 | 
 | 2023-02-13 | 1149 | 160 | 
 | 2023-02-12 | 1148 | 160 | 
-| 2023-02-11 | 1147 | 161 | 
 

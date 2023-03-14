@@ -1,6 +1,6 @@
 # dordnung/Stamm - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 13 | 14 | 
 | 2023-03-12 | 13 | 14 | 
 | 2023-03-11 | 13 | 14 | 
 | 2023-03-10 | 13 | 14 | 

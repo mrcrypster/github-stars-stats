@@ -1,6 +1,6 @@
 # giggsey/libphonenumber-for-php - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 435
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4303 | 435 | 
 | 2023-03-12 | 4303 | 435 | 
 | 2023-03-11 | 4303 | 435 | 
 | 2023-03-10 | 4303 | 435 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 4283 | 433 | 
 | 2023-02-14 | 4282 | 433 | 
 | 2023-02-13 | 4281 | 433 | 
-| 2023-02-12 | 4282 | 433 | 
 

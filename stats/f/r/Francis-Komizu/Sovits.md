@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 13
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 219
+★ Stars: 221
 
 [Open repository](https://github.com/Francis-Komizu/Sovits)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 219 | 31 | 
+| 2023-03-13 | 221 | 32 | 
 | 2023-03-12 | 219 | 31 | 
 

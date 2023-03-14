@@ -1,6 +1,6 @@
 # aalykiot/dune - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 288 | 7 | 
 | 2023-03-11 | 288 | 7 | 
 | 2023-03-10 | 288 | 7 | 
 | 2023-03-09 | 288 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 268 | 7 | 
 | 2023-02-13 | 268 | 7 | 
 | 2023-02-12 | 268 | 7 | 
-| 2023-02-11 | 267 | 7 | 
 

@@ -1,10 +1,10 @@
 # LWJGL/lwjgl3 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 578
 
-★ Stars: 4129
+★ Stars: 4130
 
 [Open repository](https://github.com/LWJGL/lwjgl3)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4130 | 578 | 
 | 2023-03-12 | 4129 | 578 | 
 | 2023-03-11 | 4128 | 578 | 
 | 2023-03-09 | 4125 | 578 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4099 | 572 | 
 | 2023-02-13 | 4097 | 572 | 
 | 2023-02-12 | 4096 | 572 | 
-| 2023-02-11 | 4092 | 572 | 
 

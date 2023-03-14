@@ -1,6 +1,6 @@
 # leoluz/nvim-dap-go - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 183 | 30 | 
 | 2023-03-12 | 183 | 30 | 
 | 2023-03-11 | 183 | 30 | 
 | 2023-03-10 | 182 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 176 | 31 | 
 | 2023-02-13 | 176 | 31 | 
 | 2023-02-12 | 176 | 31 | 
-| 2023-02-11 | 176 | 31 | 
 

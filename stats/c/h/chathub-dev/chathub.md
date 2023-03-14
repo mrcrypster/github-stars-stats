@@ -1,10 +1,10 @@
 # chathub-dev/chathub - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 31
+☋ Forks: 45
 
-★ Stars: 380
+★ Stars: 517
 
 [Open repository](https://github.com/chathub-dev/chathub)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 517 | 45 | 
 | 2023-03-12 | 380 | 31 | 
 | 2023-03-11 | 267 | 21 | 
 

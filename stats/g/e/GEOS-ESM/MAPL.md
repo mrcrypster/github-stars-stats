@@ -1,6 +1,6 @@
 # GEOS-ESM/MAPL - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 10 | 12 | 
 | 2023-03-12 | 10 | 12 | 
 | 2023-03-11 | 10 | 12 | 
 | 2023-03-10 | 10 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 9 | 10 | 
 | 2023-02-13 | 9 | 10 | 
 | 2023-02-12 | 9 | 10 | 
-| 2023-02-11 | 9 | 10 | 
 

@@ -1,10 +1,10 @@
 # AncientJames/uGrey - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 106
+★ Stars: 108
 
 [Open repository](https://github.com/AncientJames/uGrey)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 108 | 8 | 
 | 2023-03-12 | 106 | 8 | 
 | 2023-03-11 | 106 | 8 | 
 | 2023-03-10 | 106 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 95 | 6 | 
 | 2023-02-13 | 93 | 6 | 
 | 2023-02-12 | 90 | 6 | 
-| 2023-02-11 | 89 | 6 | 
 

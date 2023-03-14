@@ -1,10 +1,10 @@
 # wangshub/Douyin-Bot - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1815
+☋ Forks: 1822
 
-★ Stars: 8564
+★ Stars: 8585
 
 [Open repository](https://github.com/wangshub/Douyin-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 8585 | 1822 | 
 | 2023-03-12 | 8564 | 1815 | 
 | 2023-03-11 | 8558 | 1813 | 
 

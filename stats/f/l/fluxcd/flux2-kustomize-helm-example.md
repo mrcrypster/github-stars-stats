@@ -1,10 +1,10 @@
 # fluxcd/flux2-kustomize-helm-example - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 783
+☋ Forks: 782
 
-★ Stars: 628
+★ Stars: 629
 
 [Open repository](https://github.com/fluxcd/flux2-kustomize-helm-example)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 629 | 782 | 
 | 2023-03-12 | 628 | 783 | 
 | 2023-03-11 | 628 | 782 | 
 | 2023-03-10 | 628 | 780 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 601 | 755 | 
 | 2023-02-13 | 601 | 754 | 
 | 2023-02-12 | 601 | 753 | 
-| 2023-02-11 | 598 | 753 | 
 

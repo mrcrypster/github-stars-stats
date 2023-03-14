@@ -1,6 +1,6 @@
 # cloudfoundry/uaa-release - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 28 | 78 | 
 | 2023-03-12 | 28 | 78 | 
 | 2023-03-11 | 29 | 78 | 
 | 2023-03-09 | 29 | 78 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 28 | 76 | 
 | 2023-02-13 | 28 | 76 | 
 | 2023-02-12 | 28 | 76 | 
-| 2023-02-11 | 28 | 76 | 
 

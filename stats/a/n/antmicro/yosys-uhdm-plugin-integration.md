@@ -1,10 +1,10 @@
 # antmicro/yosys-uhdm-plugin-integration - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/antmicro/yosys-uhdm-plugin-integration)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 47 | 5 | 
 | 2023-03-12 | 46 | 5 | 
 | 2023-03-11 | 46 | 5 | 
 | 2023-03-10 | 46 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 43 | 4 | 
 | 2023-02-13 | 43 | 4 | 
 | 2023-02-12 | 43 | 4 | 
-| 2023-02-11 | 43 | 4 | 
 

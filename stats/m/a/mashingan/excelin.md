@@ -1,6 +1,6 @@
 # mashingan/excelin - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 46 | 1 | 
 | 2023-03-11 | 46 | 1 | 
 | 2023-03-10 | 46 | 1 | 
 | 2023-03-09 | 46 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 45 | 1 | 
 | 2023-02-14 | 45 | 1 | 
 | 2023-02-12 | 45 | 1 | 
-| 2023-02-11 | 45 | 1 | 
 

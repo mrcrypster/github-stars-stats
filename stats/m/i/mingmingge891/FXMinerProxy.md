@@ -1,10 +1,10 @@
 # mingmingge891/FXMinerProxy - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 23
 
-★ Stars: 125
+★ Stars: 124
 
 [Open repository](https://github.com/mingmingge891/FXMinerProxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 124 | 23 | 
 | 2023-03-12 | 125 | 23 | 
 | 2023-03-10 | 125 | 23 | 
 | 2023-03-09 | 125 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 125 | 23 | 
 | 2023-02-13 | 125 | 23 | 
 | 2023-02-12 | 125 | 23 | 
-| 2023-02-11 | 125 | 23 | 
 

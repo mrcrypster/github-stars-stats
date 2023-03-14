@@ -1,6 +1,6 @@
 # Shopify/react-native-skia - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4869 | 286 | 
 | 2023-03-12 | 4869 | 286 | 
 | 2023-03-11 | 4866 | 286 | 
 | 2023-03-10 | 4858 | 285 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 4783 | 277 | 
 | 2023-02-14 | 4778 | 274 | 
 | 2023-02-13 | 4775 | 275 | 
-| 2023-02-12 | 4774 | 276 | 
 

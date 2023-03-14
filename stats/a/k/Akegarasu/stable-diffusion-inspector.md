@@ -1,6 +1,6 @@
 # Akegarasu/stable-diffusion-inspector - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 298 | 43 | 
 | 2023-03-12 | 298 | 43 | 
 | 2023-03-11 | 288 | 41 | 
 | 2023-03-09 | 281 | 41 | 

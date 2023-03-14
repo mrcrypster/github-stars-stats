@@ -1,10 +1,10 @@
 # spring-projects/spring-kafka - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1350
 
-★ Stars: 1844
+★ Stars: 1845
 
 [Open repository](https://github.com/spring-projects/spring-kafka)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1845 | 1350 | 
 | 2023-03-12 | 1844 | 1350 | 
 | 2023-03-11 | 1844 | 1350 | 
 | 2023-03-10 | 1844 | 1349 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1834 | 1340 | 
 | 2023-02-13 | 1834 | 1340 | 
 | 2023-02-12 | 1834 | 1340 | 
-| 2023-02-11 | 1834 | 1340 | 
 

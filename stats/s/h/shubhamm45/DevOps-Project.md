@@ -1,8 +1,8 @@
 # shubhamm45/DevOps-Project - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6 | 70 | 
 | 2023-03-12 | 6 | 69 | 
 | 2023-03-11 | 6 | 68 | 
 | 2023-03-09 | 6 | 67 | 

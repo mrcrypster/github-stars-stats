@@ -1,10 +1,10 @@
 # shirooo39/Windows-11-Bypass - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 14
 
-★ Stars: 58
+★ Stars: 60
 
 [Open repository](https://github.com/shirooo39/Windows-11-Bypass)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 60 | 14 | 
 | 2023-03-12 | 58 | 14 | 
 | 2023-03-10 | 58 | 14 | 
 | 2023-03-09 | 58 | 14 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 56 | 14 | 
 | 2023-02-14 | 57 | 14 | 
 | 2023-02-13 | 57 | 14 | 
-| 2023-02-12 | 57 | 14 | 
 

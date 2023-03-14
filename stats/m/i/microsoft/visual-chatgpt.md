@@ -1,10 +1,10 @@
 # microsoft/visual-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 970
+☋ Forks: 1321
 
-★ Stars: 13864
+★ Stars: 17472
 
 [Open repository](https://github.com/microsoft/visual-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 17472 | 1321 | 
 | 2023-03-12 | 13864 | 970 | 
 | 2023-03-11 | 9863 | 597 | 
 

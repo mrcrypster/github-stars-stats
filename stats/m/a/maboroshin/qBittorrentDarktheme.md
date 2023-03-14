@@ -1,6 +1,6 @@
 # maboroshin/qBittorrentDarktheme - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 771 | 40 | 
 | 2023-03-12 | 771 | 40 | 
 | 2023-03-11 | 771 | 40 | 
 | 2023-03-09 | 771 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 758 | 40 | 
 | 2023-02-13 | 756 | 40 | 
 | 2023-02-12 | 752 | 40 | 
-| 2023-02-11 | 751 | 40 | 
 

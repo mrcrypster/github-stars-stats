@@ -1,6 +1,6 @@
 # abhimanyu003/sttr - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 683 | 28 | 
 | 2023-03-11 | 683 | 28 | 
 | 2023-03-10 | 683 | 28 | 
 | 2023-03-08 | 683 | 28 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-15 | 644 | 27 | 
 | 2023-02-14 | 644 | 27 | 
 | 2023-02-12 | 644 | 27 | 
-| 2023-02-11 | 644 | 27 | 
 

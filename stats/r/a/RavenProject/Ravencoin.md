@@ -1,6 +1,6 @@
 # RavenProject/Ravencoin - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 629
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1034 | 629 | 
 | 2023-03-11 | 1034 | 629 | 
 | 2023-03-10 | 1033 | 629 | 
 | 2023-03-09 | 1033 | 629 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 1030 | 631 | 
 | 2023-02-13 | 1030 | 631 | 
 | 2023-02-12 | 1030 | 631 | 
-| 2023-02-11 | 1030 | 631 | 
 

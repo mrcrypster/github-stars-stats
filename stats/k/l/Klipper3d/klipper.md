@@ -1,8 +1,8 @@
 # Klipper3d/klipper - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 4337
+☋ Forks: 4338
 
 ★ Stars: 6326
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6326 | 4338 | 
 | 2023-03-12 | 6326 | 4337 | 
 | 2023-03-11 | 6319 | 4336 | 
 | 2023-03-10 | 6314 | 4331 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 6167 | 4226 | 
 | 2023-02-13 | 6164 | 4221 | 
 | 2023-02-12 | 6158 | 4214 | 
-| 2023-02-11 | 6150 | 4206 | 
 

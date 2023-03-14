@@ -1,10 +1,10 @@
 # mapstruct/mapstruct - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 819
 
-★ Stars: 5985
+★ Stars: 5987
 
 [Open repository](https://github.com/mapstruct/mapstruct)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5987 | 819 | 
 | 2023-03-12 | 5985 | 819 | 
 | 2023-03-11 | 5985 | 819 | 
 | 2023-03-10 | 5984 | 820 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 5921 | 810 | 
 | 2023-02-13 | 5919 | 810 | 
 | 2023-02-12 | 5914 | 810 | 
-| 2023-02-11 | 5914 | 809 | 
 

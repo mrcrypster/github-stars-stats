@@ -1,10 +1,10 @@
 # getndazn/kopytko-unit-testing-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/getndazn/kopytko-unit-testing-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5 | 3 | 
 | 2023-03-12 | 4 | 3 | 
 | 2023-03-11 | 4 | 3 | 
 | 2023-03-10 | 4 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4 | 3 | 
 | 2023-02-13 | 4 | 3 | 
 | 2023-02-12 | 4 | 3 | 
-| 2023-02-11 | 4 | 3 | 
 

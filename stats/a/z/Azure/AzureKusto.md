@@ -1,10 +1,10 @@
 # Azure/AzureKusto - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/Azure/AzureKusto)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 14 | 2 | 
 | 2023-03-11 | 15 | 2 | 
 | 2023-03-10 | 15 | 2 | 
 | 2023-03-09 | 15 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 14 | 2 | 
 | 2023-02-13 | 14 | 2 | 
 | 2023-02-12 | 14 | 2 | 
-| 2023-02-11 | 14 | 2 | 
 

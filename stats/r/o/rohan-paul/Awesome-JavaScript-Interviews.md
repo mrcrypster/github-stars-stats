@@ -1,6 +1,6 @@
 # rohan-paul/Awesome-JavaScript-Interviews - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 620
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2429 | 620 | 
 | 2023-03-12 | 2429 | 620 | 
 | 2023-03-10 | 2428 | 618 | 
 | 2023-03-09 | 2426 | 618 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2377 | 601 | 
 | 2023-02-13 | 2375 | 600 | 
 | 2023-02-12 | 2373 | 600 | 
-| 2023-02-11 | 2373 | 600 | 
 

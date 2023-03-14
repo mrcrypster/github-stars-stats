@@ -1,10 +1,10 @@
 # XdityaHalder/Kaali-Linux - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 54
+☋ Forks: 57
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/XdityaHalder/Kaali-Linux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5 | 57 | 
 | 2023-03-12 | 4 | 54 | 
 | 2023-03-11 | 3 | 50 | 
 | 2023-03-09 | 3 | 45 | 

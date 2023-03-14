@@ -1,10 +1,10 @@
 # scottclowe/matlab-schemer - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 264
 
-★ Stars: 1019
+★ Stars: 1018
 
 [Open repository](https://github.com/scottclowe/matlab-schemer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1018 | 264 | 
 | 2023-03-12 | 1019 | 264 | 
 | 2023-03-10 | 1019 | 264 | 
 | 2023-03-09 | 1017 | 263 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1006 | 262 | 
 | 2023-02-13 | 1007 | 262 | 
 | 2023-02-12 | 1007 | 262 | 
-| 2023-02-11 | 1007 | 262 | 
 

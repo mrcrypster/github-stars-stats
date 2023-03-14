@@ -1,10 +1,10 @@
 # mit-frap/spring23 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 2
+☋ Forks: 1
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/mit-frap/spring23)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 8 | 1 | 
 | 2023-03-13 | 7 | 2 | 
 | 2023-03-11 | 7 | 2 | 
 | 2023-03-10 | 7 | 2 | 

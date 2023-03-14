@@ -1,6 +1,6 @@
 # mrousavy/react-native-vision-camera - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 556
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3790 | 556 | 
 | 2023-03-12 | 3790 | 556 | 
 | 2023-03-11 | 3782 | 556 | 
 | 2023-03-10 | 3784 | 556 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3671 | 525 | 
 | 2023-02-13 | 3669 | 524 | 
 | 2023-02-12 | 3666 | 524 | 
-| 2023-02-11 | 3663 | 523 | 
 

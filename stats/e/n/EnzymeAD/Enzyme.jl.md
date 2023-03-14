@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 30
 
-★ Stars: 277
+★ Stars: 279
 
 [Open repository](https://github.com/EnzymeAD/Enzyme.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 277 | 30 | 
+| 2023-03-13 | 279 | 30 | 
 | 2023-03-12 | 276 | 30 | 
 | 2023-03-11 | 276 | 30 | 
 | 2023-03-10 | 275 | 30 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-14 | 265 | 29 | 
 | 2023-02-13 | 265 | 28 | 
 | 2023-02-12 | 265 | 28 | 
-| 2023-02-11 | 265 | 28 | 
 

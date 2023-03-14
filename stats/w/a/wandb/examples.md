@@ -1,10 +1,10 @@
 # wandb/examples - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 260
+☋ Forks: 261
 
-★ Stars: 859
+★ Stars: 860
 
 [Open repository](https://github.com/wandb/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 860 | 261 | 
 | 2023-03-12 | 859 | 260 | 
 | 2023-03-11 | 858 | 260 | 
 | 2023-03-09 | 856 | 260 | 

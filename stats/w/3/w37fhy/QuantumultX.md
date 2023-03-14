@@ -1,10 +1,10 @@
 # w37fhy/QuantumultX - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 650
 
-★ Stars: 3899
+★ Stars: 3900
 
 [Open repository](https://github.com/w37fhy/QuantumultX)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3900 | 650 | 
 | 2023-03-12 | 3899 | 650 | 
 | 2023-03-11 | 3898 | 649 | 
 | 2023-03-10 | 3896 | 649 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3804 | 647 | 
 | 2023-02-13 | 3800 | 647 | 
 | 2023-02-12 | 3793 | 647 | 
-| 2023-02-11 | 3792 | 647 | 
 

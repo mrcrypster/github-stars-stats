@@ -1,10 +1,10 @@
 # psilva261/opossum - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 10
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/psilva261/opossum)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 354 | 10 | 
 | 2023-03-11 | 353 | 10 | 
 | 2023-03-10 | 353 | 10 | 
 | 2023-03-09 | 353 | 10 | 

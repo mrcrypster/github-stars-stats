@@ -1,6 +1,6 @@
 # theforeman/puppet-puppet - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 87 | 228 | 
 | 2023-03-12 | 87 | 228 | 
 | 2023-03-11 | 87 | 228 | 
 | 2023-03-10 | 86 | 228 | 

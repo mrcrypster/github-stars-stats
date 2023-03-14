@@ -1,10 +1,10 @@
 # janikvonrotz/awesome-powershell - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 392
 
-★ Stars: 3835
+★ Stars: 3836
 
 [Open repository](https://github.com/janikvonrotz/awesome-powershell)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3836 | 392 | 
 | 2023-03-12 | 3835 | 392 | 
 | 2023-03-11 | 3834 | 392 | 
 | 2023-03-10 | 3831 | 392 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 3783 | 387 | 
 | 2023-02-14 | 3782 | 387 | 
 | 2023-02-13 | 3782 | 387 | 
-| 2023-02-11 | 3784 | 388 | 
 

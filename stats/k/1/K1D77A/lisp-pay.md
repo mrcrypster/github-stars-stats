@@ -1,6 +1,6 @@
 # K1D77A/lisp-pay - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 22 | - | 
 | 2023-03-12 | 22 | - | 
 | 2023-03-11 | 22 | - | 
 | 2023-03-10 | 22 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 21 | - | 
 | 2023-02-14 | 21 | - | 
 | 2023-02-12 | 21 | - | 
-| 2023-02-11 | 21 | - | 
 

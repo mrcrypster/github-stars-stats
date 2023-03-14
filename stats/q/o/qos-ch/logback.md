@@ -1,10 +1,10 @@
 # qos-ch/logback - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 1185
+☋ Forks: 1186
 
-★ Stars: 2647
+★ Stars: 2650
 
 [Open repository](https://github.com/qos-ch/logback)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2650 | 1186 | 
 | 2023-03-12 | 2647 | 1185 | 
 | 2023-03-11 | 2647 | 1185 | 
 | 2023-03-09 | 2646 | 1185 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 2639 | 1186 | 
 | 2023-02-13 | 2638 | 1186 | 
 | 2023-02-12 | 2636 | 1186 | 
-| 2023-02-11 | 2636 | 1186 | 
 

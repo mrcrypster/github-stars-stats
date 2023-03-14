@@ -1,6 +1,6 @@
 # transistorsoft/flutter_background_fetch - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 515 | 147 | 
 | 2023-03-12 | 515 | 147 | 
 | 2023-03-11 | 515 | 148 | 
 | 2023-03-10 | 515 | 148 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 511 | 144 | 
 | 2023-02-13 | 511 | 144 | 
 | 2023-02-12 | 511 | 144 | 
-| 2023-02-11 | 511 | 144 | 
 

@@ -1,6 +1,6 @@
 # gabriel01913/GabrielToonShader - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 20 | 4 | 
 | 2023-03-12 | 20 | 4 | 
 | 2023-03-10 | 20 | 4 | 
 | 2023-03-09 | 20 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 18 | 4 | 
 | 2023-02-14 | 18 | 4 | 
 | 2023-02-12 | 18 | 4 | 
-| 2023-02-11 | 18 | 4 | 
 

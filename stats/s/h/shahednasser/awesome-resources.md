@@ -1,10 +1,10 @@
 # shahednasser/awesome-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 406
+☋ Forks: 407
 
-★ Stars: 605
+★ Stars: 607
 
 [Open repository](https://github.com/shahednasser/awesome-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 607 | 407 | 
 | 2023-03-12 | 605 | 406 | 
 | 2023-03-11 | 605 | 404 | 
 | 2023-03-09 | 605 | 404 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 590 | 402 | 
 | 2023-02-13 | 589 | 402 | 
 | 2023-02-12 | 589 | 404 | 
-| 2023-02-11 | 589 | 404 | 
 

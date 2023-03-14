@@ -1,10 +1,10 @@
 # microsoft/microsoft-ui-xaml - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 612
 
-★ Stars: 5346
+★ Stars: 5349
 
 [Open repository](https://github.com/microsoft/microsoft-ui-xaml)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5349 | 612 | 
 | 2023-03-12 | 5346 | 612 | 
 | 2023-03-11 | 5346 | 612 | 
 | 2023-03-10 | 5341 | 613 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 5288 | 609 | 
 | 2023-02-14 | 5288 | 609 | 
 | 2023-02-12 | 5288 | 609 | 
-| 2023-02-11 | 5286 | 608 | 
 

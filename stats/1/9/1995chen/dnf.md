@@ -1,10 +1,10 @@
 # 1995chen/dnf - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 412
+★ Stars: 413
 
 [Open repository](https://github.com/1995chen/dnf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 413 | 187 | 
 | 2023-03-12 | 412 | 186 | 
 | 2023-03-11 | 412 | 186 | 
 | 2023-03-10 | 411 | 186 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 397 | 180 | 
 | 2023-02-14 | 397 | 180 | 
 | 2023-02-12 | 397 | 180 | 
-| 2023-02-11 | 396 | 180 | 
 

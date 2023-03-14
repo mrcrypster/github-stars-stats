@@ -1,10 +1,10 @@
 # privacy-protection-tools/anti-AD - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 645
 
-★ Stars: 6034
+★ Stars: 6038
 
 [Open repository](https://github.com/privacy-protection-tools/anti-AD)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6038 | 645 | 
 | 2023-03-11 | 6034 | 645 | 
 | 2023-03-10 | 6030 | 642 | 
 | 2023-03-08 | 6021 | 642 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 5866 | 632 | 
 | 2023-02-13 | 5861 | 633 | 
 | 2023-02-12 | 5857 | 633 | 
-| 2023-02-11 | 5850 | 633 | 
 

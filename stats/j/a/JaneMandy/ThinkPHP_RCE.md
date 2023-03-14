@@ -1,6 +1,6 @@
 # JaneMandy/ThinkPHP_RCE - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 49 | 9 | 
 | 2023-03-12 | 49 | 9 | 
 | 2023-03-11 | 49 | 9 | 
 | 2023-03-10 | 49 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 49 | 9 | 
 | 2023-02-13 | 49 | 9 | 
 | 2023-02-12 | 49 | 9 | 
-| 2023-02-11 | 49 | 9 | 
 

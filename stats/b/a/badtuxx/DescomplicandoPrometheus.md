@@ -1,10 +1,10 @@
 # badtuxx/DescomplicandoPrometheus - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 65
 
-★ Stars: 362
+★ Stars: 364
 
 [Open repository](https://github.com/badtuxx/DescomplicandoPrometheus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 364 | 65 | 
 | 2023-03-12 | 362 | 65 | 
 | 2023-03-11 | 362 | 64 | 
 | 2023-03-10 | 362 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 324 | 60 | 
 | 2023-02-13 | 323 | 60 | 
 | 2023-02-12 | 323 | 60 | 
-| 2023-02-11 | 323 | 60 | 
 

@@ -1,10 +1,10 @@
 # malisipi/mui - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/malisipi/mui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 58 | 6 | 
 | 2023-03-12 | 57 | 6 | 
 | 2023-03-11 | 56 | 6 | 
 | 2023-03-10 | 56 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 52 | 6 | 
 | 2023-02-14 | 51 | 6 | 
 | 2023-02-12 | 48 | 6 | 
-| 2023-02-11 | 48 | 6 | 
 

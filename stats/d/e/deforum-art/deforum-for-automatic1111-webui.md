@@ -1,10 +1,10 @@
 # deforum-art/deforum-for-automatic1111-webui - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 798
+★ Stars: 801
 
 [Open repository](https://github.com/deforum-art/deforum-for-automatic1111-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 801 | 91 | 
 | 2023-03-12 | 798 | 90 | 
 | 2023-03-11 | 791 | 88 | 
 | 2023-03-10 | 783 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 619 | 72 | 
 | 2023-02-13 | 611 | 71 | 
 | 2023-02-12 | 608 | 71 | 
-| 2023-02-11 | 605 | 71 | 
 

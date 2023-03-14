@@ -1,10 +1,10 @@
 # matteozappia/DynamicCow - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 32
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/matteozappia/DynamicCow)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 438 | 32 | 
 | 2023-03-12 | 437 | 32 | 
 | 2023-03-10 | 435 | 32 | 
 | 2023-03-09 | 435 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 418 | 31 | 
 | 2023-02-13 | 418 | 31 | 
 | 2023-02-12 | 415 | 31 | 
-| 2023-02-11 | 405 | 31 | 
 

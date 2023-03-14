@@ -1,10 +1,10 @@
 # matzes-hardware/miniand-mini-xplus - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/matzes-hardware/miniand-mini-xplus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5 | 2 | 
 | 2023-03-12 | 6 | 2 | 
 | 2023-03-10 | 6 | 2 | 
 | 2023-03-09 | 6 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 3 | 2 | 
 | 2023-02-14 | 3 | 2 | 
 | 2023-02-12 | 3 | 2 | 
-| 2023-02-11 | 3 | 2 | 
 

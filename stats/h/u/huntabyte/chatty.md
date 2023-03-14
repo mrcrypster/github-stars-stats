@@ -1,10 +1,10 @@
 # huntabyte/chatty - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 55
+☋ Forks: 59
 
-★ Stars: 83
+★ Stars: 91
 
 [Open repository](https://github.com/huntabyte/chatty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 91 | 59 | 
 | 2023-03-12 | 83 | 55 | 
 | 2023-03-11 | 72 | 45 | 
 | 2023-03-10 | 64 | 41 | 

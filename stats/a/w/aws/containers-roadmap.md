@@ -1,6 +1,6 @@
 # aws/containers-roadmap - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 298
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4854 | 298 | 
 | 2023-03-12 | 4854 | 298 | 
 | 2023-03-11 | 4854 | 298 | 
 | 2023-03-10 | 4853 | 297 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4810 | 293 | 
 | 2023-02-13 | 4809 | 292 | 
 | 2023-02-12 | 4809 | 292 | 
-| 2023-02-11 | 4809 | 292 | 
 

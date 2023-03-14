@@ -1,6 +1,6 @@
 # Ferrite-FEM/Ferrite.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 224 | 61 | 
 | 2023-03-12 | 224 | 61 | 
 | 2023-03-11 | 224 | 63 | 
 | 2023-03-10 | 224 | 63 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 216 | 60 | 
 | 2023-02-14 | 216 | 60 | 
 | 2023-02-13 | 216 | 60 | 
-| 2023-02-12 | 216 | 60 | 
 

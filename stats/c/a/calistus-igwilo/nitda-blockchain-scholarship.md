@@ -1,8 +1,8 @@
 # calistus-igwilo/nitda-blockchain-scholarship - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 2794
+☋ Forks: 2795
 
 ★ Stars: 3062
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3062 | 2795 | 
 | 2023-03-12 | 3062 | 2794 | 
 | 2023-03-10 | 3062 | 2793 | 
 | 2023-03-09 | 3062 | 2793 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 3055 | 2790 | 
 | 2023-02-13 | 3054 | 2790 | 
 | 2023-02-12 | 3054 | 2790 | 
-| 2023-02-11 | 3054 | 2789 | 
 

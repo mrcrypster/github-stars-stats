@@ -1,8 +1,8 @@
 # balancer-labs/balancer-core - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 152
+☋ Forks: 154
 
 ★ Stars: 282
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 282 | 154 | 
 | 2023-03-12 | 282 | 152 | 
 | 2023-03-11 | 282 | 152 | 
 | 2023-03-09 | 282 | 152 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 281 | 152 | 
 | 2023-02-13 | 281 | 152 | 
 | 2023-02-12 | 281 | 152 | 
-| 2023-02-11 | 281 | 152 | 
 

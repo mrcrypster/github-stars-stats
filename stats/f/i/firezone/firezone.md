@@ -1,10 +1,10 @@
 # firezone/firezone - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 165
+☋ Forks: 166
 
-★ Stars: 3827
+★ Stars: 3837
 
 [Open repository](https://github.com/firezone/firezone)
 
@@ -13,7 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 3827 | 165 | 
+| 2023-03-14 | 3837 | 166 | 
+| 2023-03-13 | 3833 | 166 | 
 | 2023-03-12 | 3824 | 165 | 
 | 2023-03-11 | 3816 | 165 | 
 | 2023-03-10 | 3813 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-14 | 3679 | 159 | 
 | 2023-02-13 | 3678 | 159 | 
 | 2023-02-12 | 3676 | 159 | 
-| 2023-02-11 | 3675 | 159 | 
 

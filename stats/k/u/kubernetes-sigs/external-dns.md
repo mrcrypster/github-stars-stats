@@ -1,10 +1,10 @@
 # kubernetes-sigs/external-dns - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 2218
+☋ Forks: 2221
 
-★ Stars: 6136
+★ Stars: 6140
 
 [Open repository](https://github.com/kubernetes-sigs/external-dns)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 6140 | 2221 | 
 | 2023-03-12 | 6136 | 2218 | 
 | 2023-03-11 | 6133 | 2217 | 
 | 2023-03-10 | 6132 | 2216 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 6044 | 2163 | 
 | 2023-02-13 | 6040 | 2161 | 
 | 2023-02-12 | 6038 | 2161 | 
-| 2023-02-11 | 6038 | 2161 | 
 

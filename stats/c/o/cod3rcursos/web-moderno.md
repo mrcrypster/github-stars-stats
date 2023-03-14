@@ -1,10 +1,10 @@
 # cod3rcursos/web-moderno - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1350
 
-★ Stars: 3230
+★ Stars: 3232
 
 [Open repository](https://github.com/cod3rcursos/web-moderno)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 3232 | 1350 | 
 | 2023-03-12 | 3230 | 1350 | 
 | 2023-03-11 | 3226 | 1350 | 
 | 2023-03-09 | 3222 | 1350 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 3182 | 1342 | 
 | 2023-02-14 | 3180 | 1342 | 
 | 2023-02-13 | 3177 | 1343 | 
-| 2023-02-12 | 3178 | 1343 | 
 

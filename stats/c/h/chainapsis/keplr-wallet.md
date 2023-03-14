@@ -1,10 +1,10 @@
 # chainapsis/keplr-wallet - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 309
 
-★ Stars: 608
+★ Stars: 609
 
 [Open repository](https://github.com/chainapsis/keplr-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 609 | 309 | 
 | 2023-03-11 | 608 | 309 | 
 | 2023-03-10 | 608 | 309 | 
 | 2023-03-09 | 608 | 309 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 590 | 304 | 
 | 2023-02-13 | 590 | 304 | 
 | 2023-02-12 | 589 | 304 | 
-| 2023-02-11 | 588 | 304 | 
 

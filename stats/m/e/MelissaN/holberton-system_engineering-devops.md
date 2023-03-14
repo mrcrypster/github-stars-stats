@@ -1,10 +1,10 @@
 # MelissaN/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 156
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/MelissaN/holberton-system_engineering-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 52 | 156 | 
 | 2023-03-12 | 50 | 156 | 
 | 2023-03-10 | 50 | 156 | 
 | 2023-03-09 | 51 | 155 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 46 | 156 | 
 | 2023-02-14 | 40 | 132 | 
 | 2023-02-12 | 40 | 130 | 
-| 2023-02-11 | 40 | 130 | 
 

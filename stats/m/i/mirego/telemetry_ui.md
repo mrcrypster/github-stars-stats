@@ -1,6 +1,6 @@
 # mirego/telemetry_ui - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 68 | 1 | 
 | 2023-03-12 | 68 | 1 | 
 | 2023-03-11 | 67 | 1 | 
 | 2023-03-10 | 67 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 65 | 1 | 
 | 2023-02-14 | 65 | 1 | 
 | 2023-02-13 | 65 | 1 | 
-| 2023-02-11 | 65 | 1 | 
 

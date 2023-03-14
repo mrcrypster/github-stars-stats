@@ -1,10 +1,10 @@
 # Frontman-Labs/frontman - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 8
 
-★ Stars: 85
+★ Stars: 87
 
 [Open repository](https://github.com/Frontman-Labs/frontman)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 87 | 8 | 
 | 2023-03-12 | 85 | 8 | 
 | 2023-03-11 | 84 | 7 | 
 | 2023-03-09 | 79 | 7 | 

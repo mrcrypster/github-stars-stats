@@ -1,10 +1,10 @@
 # Darlington02/CairoLearnXinYminutes - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/Darlington02/CairoLearnXinYminutes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 15 | 3 | 
 | 2023-03-12 | 16 | 3 | 
 | 2023-03-11 | 16 | 3 | 
 | 2023-03-10 | 16 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 14 | 3 | 
 | 2023-02-13 | 14 | 3 | 
 | 2023-02-12 | 14 | 3 | 
-| 2023-02-11 | 14 | 3 | 
 

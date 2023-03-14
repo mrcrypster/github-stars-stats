@@ -1,8 +1,8 @@
 # phpstan/phpstan-src - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 362
+☋ Forks: 363
 
 ★ Stars: 259
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 259 | 363 | 
 | 2023-03-12 | 259 | 362 | 
 | 2023-03-11 | 259 | 362 | 
 | 2023-03-10 | 259 | 362 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 250 | 358 | 
 | 2023-02-13 | 250 | 358 | 
 | 2023-02-12 | 250 | 358 | 
-| 2023-02-11 | 250 | 358 | 
 

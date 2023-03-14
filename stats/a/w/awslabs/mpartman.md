@@ -1,10 +1,10 @@
 # awslabs/mpartman - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/awslabs/mpartman)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 18 | - | 
 | 2023-03-12 | 17 | - | 
 | 2023-03-11 | 17 | - | 
 | 2023-03-10 | 17 | - | 

@@ -1,10 +1,10 @@
 # GradienceTeam/Gradience - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 33
 
-★ Stars: 764
+★ Stars: 765
 
 [Open repository](https://github.com/GradienceTeam/Gradience)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 765 | 33 | 
 | 2023-03-12 | 764 | 33 | 
 | 2023-03-11 | 764 | 32 | 
 | 2023-03-09 | 763 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 738 | 31 | 
 | 2023-02-13 | 735 | 31 | 
 | 2023-02-12 | 729 | 31 | 
-| 2023-02-11 | 724 | 31 | 
 

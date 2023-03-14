@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 1092
 
-★ Stars: 1872
+★ Stars: 1874
 
 [Open repository](https://github.com/LibreELEC/LibreELEC.tv)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 1872 | 1092 | 
+| 2023-03-13 | 1874 | 1092 | 
 | 2023-03-12 | 1872 | 1091 | 
 | 2023-03-11 | 1872 | 1089 | 
 | 2023-03-10 | 1872 | 1088 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-14 | 1858 | 1084 | 
 | 2023-02-13 | 1858 | 1084 | 
 | 2023-02-12 | 1858 | 1083 | 
-| 2023-02-11 | 1857 | 1084 | 
 

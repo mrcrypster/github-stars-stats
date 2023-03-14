@@ -1,6 +1,6 @@
 # submariner-io/submariner-charts - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 13 | 27 | 
 | 2023-03-12 | 13 | 27 | 
 | 2023-03-11 | 13 | 27 | 
 | 2023-03-10 | 13 | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 14 | 25 | 
 | 2023-02-13 | 14 | 25 | 
 | 2023-02-12 | 14 | 24 | 
-| 2023-02-11 | 14 | 24 | 
 

@@ -1,10 +1,10 @@
 # teddylee777/machine-learning - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 678
+☋ Forks: 679
 
-★ Stars: 1827
+★ Stars: 1831
 
 [Open repository](https://github.com/teddylee777/machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1831 | 679 | 
 | 2023-03-12 | 1827 | 678 | 
 | 2023-03-11 | 1827 | 678 | 
 | 2023-03-09 | 1824 | 678 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1795 | 668 | 
 | 2023-02-13 | 1793 | 668 | 
 | 2023-02-12 | 1793 | 667 | 
-| 2023-02-11 | 1792 | 667 | 
 

@@ -1,6 +1,6 @@
 # http-tests/cache-tests - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 90 | 21 | 
 | 2023-03-12 | 90 | 21 | 
 | 2023-03-11 | 90 | 21 | 
 | 2023-03-09 | 90 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 91 | 21 | 
 | 2023-02-14 | 91 | 21 | 
 | 2023-02-12 | 91 | 21 | 
-| 2023-02-11 | 91 | 21 | 
 

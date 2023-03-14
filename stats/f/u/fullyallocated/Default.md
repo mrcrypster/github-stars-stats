@@ -1,6 +1,6 @@
 # fullyallocated/Default - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 137 | 21 | 
 | 2023-03-12 | 137 | 21 | 
 | 2023-03-11 | 137 | 21 | 
 | 2023-03-10 | 137 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 136 | 21 | 
 | 2023-02-13 | 136 | 21 | 
 | 2023-02-12 | 136 | 21 | 
-| 2023-02-11 | 135 | 21 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 13
 
-☋ Forks: 416
+☋ Forks: 417
 
-★ Stars: 1004
+★ Stars: 1005
 
 [Open repository](https://github.com/petercorke/robotics-toolbox-matlab)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 1004 | 416 | 
+| 2023-03-13 | 1005 | 417 | 
 | 2023-03-12 | 1004 | 416 | 
 | 2023-03-11 | 1004 | 416 | 
 | 2023-03-10 | 1004 | 416 | 
@@ -42,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 990 | 414 | 
 | 2023-02-13 | 989 | 414 | 
 | 2023-02-12 | 988 | 414 | 
-| 2023-02-11 | 988 | 414 | 
 

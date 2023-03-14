@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 42
+★ Stars: 47
 
 [Open repository](https://github.com/ThatcherC/ReplGPT.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-13 | 42 | 2 | 
+| 2023-03-13 | 47 | 2 | 
 | 2023-03-12 | 42 | 2 | 
 | 2023-03-11 | 27 | 1 | 
 | 2023-03-10 | 24 | 1 | 

@@ -1,6 +1,6 @@
 # dragokas/hijackthis - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 530 | 100 | 
 | 2023-03-12 | 530 | 100 | 
 | 2023-03-11 | 529 | 100 | 
 | 2023-03-10 | 529 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 525 | 99 | 
 | 2023-02-13 | 524 | 99 | 
 | 2023-02-12 | 524 | 99 | 
-| 2023-02-11 | 524 | 99 | 
 

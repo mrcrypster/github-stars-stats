@@ -1,6 +1,6 @@
 # Zylann/godot_heightmap_plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1219 | 121 | 
 | 2023-03-12 | 1219 | 121 | 
 | 2023-03-10 | 1219 | 121 | 
 | 2023-03-09 | 1217 | 120 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 1203 | 120 | 
 | 2023-02-13 | 1203 | 120 | 
 | 2023-02-12 | 1203 | 120 | 
-| 2023-02-11 | 1203 | 120 | 
 

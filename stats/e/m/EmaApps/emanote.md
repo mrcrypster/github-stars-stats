@@ -1,10 +1,10 @@
 # EmaApps/emanote - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 58
 
-★ Stars: 571
+★ Stars: 572
 
 [Open repository](https://github.com/EmaApps/emanote)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 572 | 58 | 
 | 2023-03-11 | 571 | 58 | 
 | 2023-03-10 | 571 | 58 | 
 | 2023-03-09 | 571 | 58 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 554 | 55 | 
 | 2023-02-13 | 552 | 55 | 
 | 2023-02-12 | 551 | 55 | 
-| 2023-02-11 | 552 | 55 | 
 

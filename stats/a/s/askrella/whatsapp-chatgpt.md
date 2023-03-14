@@ -1,10 +1,10 @@
 # askrella/whatsapp-chatgpt - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 377
+☋ Forks: 379
 
-★ Stars: 2018
+★ Stars: 2026
 
 [Open repository](https://github.com/askrella/whatsapp-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 2026 | 379 | 
 | 2023-03-12 | 2018 | 377 | 
 | 2023-03-11 | 2007 | 370 | 
 | 2023-03-10 | 1992 | 366 | 

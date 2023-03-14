@@ -1,6 +1,6 @@
 # sora-uzu/The-View - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | - | 11 | 
 | 2023-03-12 | - | 11 | 
 | 2023-03-11 | - | 10 | 
 | 2023-03-09 | - | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | - | 9 | 
 | 2023-02-13 | - | 9 | 
 | 2023-02-12 | - | 9 | 
-| 2023-02-11 | - | 9 | 
 

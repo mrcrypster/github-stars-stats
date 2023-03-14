@@ -1,10 +1,10 @@
 # gfxfundamentals/webgl2-fundamentals - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 185
 
-★ Stars: 1442
+★ Stars: 1443
 
 [Open repository](https://github.com/gfxfundamentals/webgl2-fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 1443 | 185 | 
 | 2023-03-12 | 1442 | 185 | 
 | 2023-03-11 | 1441 | 184 | 
 | 2023-03-09 | 1439 | 184 | 

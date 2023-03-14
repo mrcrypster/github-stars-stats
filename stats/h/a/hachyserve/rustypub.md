@@ -1,6 +1,6 @@
 # hachyserve/rustypub - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 196 | 7 | 
 | 2023-03-12 | 196 | 7 | 
 | 2023-03-11 | 196 | 7 | 
 | 2023-03-10 | 196 | 7 | 

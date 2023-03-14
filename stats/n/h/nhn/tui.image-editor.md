@@ -1,6 +1,6 @@
 # nhn/tui.image-editor - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 1105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 5833 | 1105 | 
 | 2023-03-11 | 5833 | 1105 | 
 | 2023-03-10 | 5831 | 1104 | 
 | 2023-03-09 | 5824 | 1102 | 

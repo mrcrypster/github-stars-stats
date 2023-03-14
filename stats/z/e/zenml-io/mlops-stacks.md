@@ -1,10 +1,10 @@
 # zenml-io/mlops-stacks - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 12
 
-★ Stars: 153
+★ Stars: 155
 
 [Open repository](https://github.com/zenml-io/mlops-stacks)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 155 | 12 | 
 | 2023-03-12 | 153 | 12 | 
 | 2023-03-11 | 153 | 12 | 
 | 2023-03-09 | 151 | 12 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 147 | 11 | 
 | 2023-02-13 | 147 | 11 | 
 | 2023-02-12 | 147 | 11 | 
-| 2023-02-11 | 147 | 11 | 
 

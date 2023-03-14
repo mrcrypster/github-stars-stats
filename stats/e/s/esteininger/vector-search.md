@@ -1,10 +1,10 @@
 # esteininger/vector-search - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 97
+★ Stars: 100
 
 [Open repository](https://github.com/esteininger/vector-search)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 100 | 5 | 
 | 2023-03-12 | 97 | 5 | 
 | 2023-03-10 | 95 | 5 | 
 | 2023-03-09 | 95 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 91 | 5 | 
 | 2023-02-13 | 91 | 5 | 
 | 2023-02-12 | 91 | 5 | 
-| 2023-02-11 | 91 | 5 | 
 

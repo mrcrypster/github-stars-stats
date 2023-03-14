@@ -1,6 +1,6 @@
 # rgl-epfl/differentiable-sdf-rendering - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 571 | 38 | 
 | 2023-03-12 | 571 | 38 | 
 | 2023-03-11 | 571 | 38 | 
 | 2023-03-09 | 571 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 556 | 39 | 
 | 2023-02-13 | 556 | 39 | 
 | 2023-02-12 | 556 | 38 | 
-| 2023-02-11 | 556 | 37 | 
 

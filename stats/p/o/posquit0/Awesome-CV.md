@@ -1,10 +1,10 @@
 # posquit0/Awesome-CV - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 4322
+☋ Forks: 4325
 
-★ Stars: 18638
+★ Stars: 18646
 
 [Open repository](https://github.com/posquit0/Awesome-CV)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 18646 | 4325 | 
 | 2023-03-12 | 18638 | 4322 | 
 | 2023-03-11 | 18631 | 4317 | 
 | 2023-03-10 | 18624 | 4317 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 18409 | 4285 | 
 | 2023-02-13 | 18396 | 4284 | 
 | 2023-02-12 | 18386 | 4285 | 
-| 2023-02-11 | 18380 | 4285 | 
 

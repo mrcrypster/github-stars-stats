@@ -1,10 +1,10 @@
 # itinance/react-native-fs - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 920
 
-★ Stars: 4635
+★ Stars: 4634
 
 [Open repository](https://github.com/itinance/react-native-fs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4634 | 920 | 
 | 2023-03-11 | 4635 | 920 | 
 | 2023-03-10 | 4636 | 920 | 
 | 2023-03-08 | 4636 | 920 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 4626 | 919 | 
 | 2023-02-13 | 4626 | 919 | 
 | 2023-02-12 | 4627 | 919 | 
-| 2023-02-11 | 4625 | 919 | 
 

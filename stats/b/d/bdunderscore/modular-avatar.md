@@ -1,6 +1,6 @@
 # bdunderscore/modular-avatar - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 195 | 13 | 
 | 2023-03-12 | 195 | 13 | 
 | 2023-03-11 | 192 | 13 | 
 | 2023-03-10 | 192 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 172 | 10 | 
 | 2023-02-13 | 172 | 10 | 
 | 2023-02-12 | 172 | 10 | 
-| 2023-02-11 | 170 | 9 | 
 

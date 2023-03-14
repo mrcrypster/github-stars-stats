@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-methods - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
-☋ Forks: 2795
+☋ Forks: 2797
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4 | 2797 | 
 | 2023-03-12 | 4 | 2795 | 
 | 2023-03-11 | 4 | 2792 | 
 | 2023-03-09 | 4 | 2786 | 

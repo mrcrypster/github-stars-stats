@@ -1,10 +1,10 @@
 # martinescardo/TypeTopology - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/martinescardo/TypeTopology)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 156 | 21 | 
 | 2023-03-12 | 155 | 21 | 
 | 2023-03-10 | 155 | 21 | 
 | 2023-03-09 | 155 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 151 | 20 | 
 | 2023-02-13 | 151 | 20 | 
 | 2023-02-12 | 151 | 20 | 
-| 2023-02-11 | 150 | 20 | 
 

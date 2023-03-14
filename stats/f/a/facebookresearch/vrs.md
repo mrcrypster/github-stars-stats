@@ -1,6 +1,6 @@
 # facebookresearch/vrs - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 198 | 24 | 
 | 2023-03-12 | 198 | 24 | 
 | 2023-03-11 | 198 | 24 | 
 | 2023-03-10 | 198 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 192 | 22 | 
 | 2023-02-14 | 191 | 22 | 
 | 2023-02-13 | 191 | 22 | 
-| 2023-02-11 | 190 | 22 | 
 

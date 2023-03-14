@@ -1,6 +1,6 @@
 # agda/agda-stdlib - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 497 | 218 | 
 | 2023-03-12 | 497 | 218 | 
 | 2023-03-11 | 497 | 218 | 
 | 2023-03-10 | 497 | 218 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 495 | 217 | 
 | 2023-02-13 | 495 | 217 | 
 | 2023-02-12 | 495 | 217 | 
-| 2023-02-11 | 494 | 217 | 
 

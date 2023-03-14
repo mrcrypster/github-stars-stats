@@ -1,10 +1,10 @@
 # pdfcpu/pdfcpu - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 334
 
-★ Stars: 4756
+★ Stars: 4765
 
 [Open repository](https://github.com/pdfcpu/pdfcpu)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 4765 | 334 | 
 | 2023-03-12 | 4756 | 334 | 
 | 2023-03-11 | 4752 | 334 | 
 | 2023-03-10 | 4741 | 334 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-14 | 4480 | 320 | 
 | 2023-02-13 | 4481 | 320 | 
 | 2023-02-12 | 4479 | 320 | 
-| 2023-02-11 | 4476 | 319 | 
 

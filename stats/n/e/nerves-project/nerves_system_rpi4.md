@@ -1,6 +1,6 @@
 # nerves-project/nerves_system_rpi4 - stars & forks statistics
 
-Stats updated on Mar 2023, 11
+Stats updated on Mar 2023, 13
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-13 | 74 | 31 | 
 | 2023-03-11 | 74 | 31 | 
 | 2023-03-10 | 74 | 31 | 
 | 2023-03-09 | 73 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 11
 | 2023-02-14 | 74 | 31 | 
 | 2023-02-13 | 74 | 31 | 
 | 2023-02-12 | 74 | 31 | 
-| 2023-02-11 | 74 | 31 | 
 
