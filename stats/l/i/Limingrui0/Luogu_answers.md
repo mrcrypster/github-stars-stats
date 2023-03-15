@@ -1,10 +1,10 @@
 # Limingrui0/Luogu_answers - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 132
+★ Stars: 131
 
 [Open repository](https://github.com/Limingrui0/Luogu_answers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 131 | 29 | 
 | 2023-03-13 | 132 | 29 | 
 | 2023-03-12 | 132 | 29 | 
 | 2023-03-11 | 132 | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 133 | 29 | 
 | 2023-02-14 | 133 | 29 | 
 | 2023-02-13 | 133 | 29 | 
-| 2023-02-12 | 133 | 29 | 
 

@@ -1,10 +1,10 @@
 # zoooomie/zoomerlib - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 56
+★ Stars: 78
 
 [Open repository](https://github.com/zoooomie/zoomerlib)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 78 | 6 | 
 | 2023-03-13 | 56 | 6 | 
 | 2023-03-11 | 52 | 6 | 
 | 2023-03-10 | 52 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 47 | 6 | 
 | 2023-02-14 | 47 | 6 | 
 | 2023-02-13 | 47 | 6 | 
-| 2023-02-12 | 47 | 6 | 
 

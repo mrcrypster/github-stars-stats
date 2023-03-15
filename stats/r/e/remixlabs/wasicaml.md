@@ -1,6 +1,6 @@
 # remixlabs/wasicaml - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 103 | 3 | 
 | 2023-03-13 | 103 | 3 | 
 | 2023-03-12 | 103 | 3 | 
 | 2023-03-11 | 103 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 97 | 3 | 
 | 2023-02-14 | 97 | 3 | 
 | 2023-02-13 | 97 | 3 | 
-| 2023-02-12 | 97 | 3 | 
 

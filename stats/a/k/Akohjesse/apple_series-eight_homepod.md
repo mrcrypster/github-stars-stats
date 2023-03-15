@@ -1,10 +1,10 @@
 # Akohjesse/apple_series-eight_homepod - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 15
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 19
+★ Stars: 38
 
 [Open repository](https://github.com/Akohjesse/apple_series-eight_homepod)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 38 | 11 | 
+| 2023-03-14 | 35 | 10 | 
 | 2023-03-12 | 19 | 9 | 
 | 2023-03-11 | 19 | 8 | 
 | 2023-03-10 | 19 | 8 | 

@@ -1,10 +1,10 @@
 # realpython/materials - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 5177
+☋ Forks: 5182
 
-★ Stars: 4170
+★ Stars: 4173
 
 [Open repository](https://github.com/realpython/materials)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4173 | 5182 | 
 | 2023-03-13 | 4170 | 5177 | 
 | 2023-03-12 | 4168 | 5175 | 
 | 2023-03-11 | 4165 | 5175 | 

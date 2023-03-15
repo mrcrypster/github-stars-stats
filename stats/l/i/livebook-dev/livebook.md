@@ -1,6 +1,6 @@
 # livebook-dev/livebook - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3361 | 294 | 
 | 2023-03-13 | 3361 | 294 | 
 | 2023-03-12 | 3359 | 295 | 
 | 2023-03-11 | 3358 | 295 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3318 | 294 | 
 | 2023-02-14 | 3315 | 294 | 
 | 2023-02-13 | 3315 | 294 | 
-| 2023-02-12 | 3314 | 294 | 
 

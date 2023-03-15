@@ -1,10 +1,10 @@
 # tweedegolf/mailcrab - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 10
 
-★ Stars: 431
+★ Stars: 436
 
 [Open repository](https://github.com/tweedegolf/mailcrab)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 436 | 10 | 
 | 2023-03-13 | 431 | 10 | 
 | 2023-03-12 | 424 | 10 | 
 | 2023-03-10 | 418 | 10 | 

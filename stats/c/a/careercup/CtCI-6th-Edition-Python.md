@@ -1,6 +1,6 @@
 # careercup/CtCI-6th-Edition-Python - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1722
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4464 | 1722 | 
 | 2023-03-13 | 4464 | 1722 | 
 | 2023-03-12 | 4461 | 1720 | 
 | 2023-03-11 | 4460 | 1720 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 4442 | 1723 | 
 | 2023-02-15 | 4442 | 1723 | 
 | 2023-02-14 | 4442 | 1723 | 
-| 2023-02-12 | 4442 | 1722 | 
 

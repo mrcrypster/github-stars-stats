@@ -1,10 +1,10 @@
 # bradtraversy/nodejs-openai-image - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 113
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/bradtraversy/nodejs-openai-image)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 242 | 113 | 
 | 2023-03-13 | 241 | 113 | 
 | 2023-03-12 | 239 | 111 | 
 | 2023-03-10 | 237 | 111 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 225 | 99 | 
 | 2023-02-14 | 225 | 97 | 
 | 2023-02-13 | 224 | 96 | 
-| 2023-02-12 | 222 | 95 | 
 

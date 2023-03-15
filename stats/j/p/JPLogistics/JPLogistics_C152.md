@@ -1,10 +1,10 @@
 # JPLogistics/JPLogistics_C152 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 15
 
-★ Stars: 231
+★ Stars: 232
 
 [Open repository](https://github.com/JPLogistics/JPLogistics_C152)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 232 | 15 | 
 | 2023-03-12 | 231 | 15 | 
 | 2023-03-11 | 231 | 15 | 
 | 2023-03-10 | 231 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 232 | 15 | 
 | 2023-02-15 | 232 | 15 | 
 | 2023-02-14 | 232 | 15 | 
-| 2023-02-12 | 232 | 15 | 
 

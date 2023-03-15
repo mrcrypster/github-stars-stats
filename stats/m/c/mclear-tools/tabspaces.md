@@ -1,6 +1,6 @@
 # mclear-tools/tabspaces - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 106 | 6 | 
 | 2023-03-12 | 106 | 6 | 
 | 2023-03-11 | 104 | 6 | 
 | 2023-03-10 | 104 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 99 | 5 | 
 | 2023-02-14 | 98 | 5 | 
 | 2023-02-13 | 98 | 5 | 
-| 2023-02-12 | 98 | 5 | 
 

@@ -1,6 +1,6 @@
 # gurkanfikretgunak/wtech-flutter-bootcamp - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 23 | 17 | 
 | 2023-03-12 | 23 | 17 | 
 | 2023-03-11 | 23 | 17 | 
 | 2023-03-10 | 23 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 22 | 17 | 
 | 2023-02-14 | 22 | 17 | 
 | 2023-02-13 | 22 | 17 | 
-| 2023-02-12 | 22 | 17 | 
 

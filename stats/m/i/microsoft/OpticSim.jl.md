@@ -1,6 +1,6 @@
 # microsoft/OpticSim.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 345 | 38 | 
 | 2023-03-13 | 345 | 38 | 
 | 2023-03-12 | 345 | 38 | 
 | 2023-03-11 | 345 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 344 | 38 | 
 | 2023-02-15 | 344 | 38 | 
 | 2023-02-14 | 344 | 38 | 
-| 2023-02-13 | 344 | 38 | 
 

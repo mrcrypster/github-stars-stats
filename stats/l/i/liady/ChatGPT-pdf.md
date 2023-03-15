@@ -1,10 +1,10 @@
 # liady/ChatGPT-pdf - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 97
+☋ Forks: 101
 
-★ Stars: 840
+★ Stars: 854
 
 [Open repository](https://github.com/liady/ChatGPT-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 854 | 101 | 
 | 2023-03-13 | 840 | 97 | 
 | 2023-03-11 | 832 | 97 | 
 | 2023-03-10 | 820 | 97 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 661 | 73 | 
 | 2023-02-14 | 655 | 72 | 
 | 2023-02-13 | 649 | 70 | 
-| 2023-02-12 | 643 | 68 | 
 

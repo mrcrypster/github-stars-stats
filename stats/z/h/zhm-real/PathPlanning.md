@@ -1,10 +1,10 @@
 # zhm-real/PathPlanning - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1209
 
-★ Stars: 5367
+★ Stars: 5374
 
 [Open repository](https://github.com/zhm-real/PathPlanning)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 5374 | 1209 | 
 | 2023-03-13 | 5367 | 1209 | 
 | 2023-03-12 | 5365 | 1209 | 
 | 2023-03-11 | 5357 | 1208 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5239 | 1177 | 
 | 2023-02-14 | 5236 | 1176 | 
 | 2023-02-13 | 5230 | 1176 | 
-| 2023-02-12 | 5229 | 1175 | 
 

@@ -1,10 +1,10 @@
 # panda3d/panda3d - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 755
 
-★ Stars: 3760
+★ Stars: 3759
 
 [Open repository](https://github.com/panda3d/panda3d)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3759 | 755 | 
 | 2023-03-13 | 3760 | 755 | 
 | 2023-03-12 | 3759 | 756 | 
 | 2023-03-10 | 3758 | 756 | 

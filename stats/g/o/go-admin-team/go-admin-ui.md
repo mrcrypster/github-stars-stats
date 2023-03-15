@@ -1,10 +1,10 @@
 # go-admin-team/go-admin-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 563
+☋ Forks: 564
 
-★ Stars: 869
+★ Stars: 870
 
 [Open repository](https://github.com/go-admin-team/go-admin-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 870 | 564 | 
 | 2023-03-13 | 869 | 563 | 
 | 2023-03-11 | 868 | 563 | 
 | 2023-03-10 | 867 | 563 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 845 | 543 | 
 | 2023-02-14 | 844 | 540 | 
 | 2023-02-13 | 844 | 540 | 
-| 2023-02-12 | 841 | 540 | 
 

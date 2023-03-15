@@ -1,10 +1,10 @@
 # catppuccin/stable-diffusion-webui - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 77
+★ Stars: 80
 
 [Open repository](https://github.com/catppuccin/stable-diffusion-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 80 | 6 | 
 | 2023-03-13 | 77 | 6 | 
 | 2023-03-12 | 77 | 5 | 
 | 2023-03-11 | 76 | 5 | 

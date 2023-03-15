@@ -1,10 +1,10 @@
 # cursoemvideo/cursoemvideo-html5 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 122
 
-★ Stars: 1325
+★ Stars: 1326
 
 [Open repository](https://github.com/cursoemvideo/cursoemvideo-html5)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1326 | 122 | 
 | 2023-03-13 | 1325 | 122 | 
 | 2023-03-12 | 1325 | 121 | 
 | 2023-03-11 | 1322 | 122 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1280 | 119 | 
 | 2023-02-14 | 1277 | 119 | 
 | 2023-02-13 | 1274 | 119 | 
-| 2023-02-12 | 1273 | 119 | 
 

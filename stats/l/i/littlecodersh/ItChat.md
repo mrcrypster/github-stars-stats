@@ -1,10 +1,10 @@
 # littlecodersh/ItChat - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 5395
+☋ Forks: 5397
 
-★ Stars: 23269
+★ Stars: 23284
 
 [Open repository](https://github.com/littlecodersh/ItChat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 23284 | 5397 | 
 | 2023-03-13 | 23269 | 5395 | 
 | 2023-03-12 | 23259 | 5397 | 
 | 2023-03-10 | 23247 | 5398 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 23006 | 5362 | 
 | 2023-02-14 | 22997 | 5356 | 
 | 2023-02-13 | 22989 | 5354 | 
-| 2023-02-12 | 22968 | 5351 | 
 

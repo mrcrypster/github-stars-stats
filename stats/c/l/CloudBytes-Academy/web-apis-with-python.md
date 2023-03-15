@@ -1,6 +1,6 @@
 # CloudBytes-Academy/web-apis-with-python - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 16 | 430 | 
 | 2023-03-13 | 16 | 430 | 
 | 2023-03-12 | 16 | 429 | 
 | 2023-03-11 | 16 | 430 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 15 | 420 | 
 | 2023-02-14 | 15 | 419 | 
 | 2023-02-13 | 15 | 418 | 
-| 2023-02-12 | 15 | 418 | 
 

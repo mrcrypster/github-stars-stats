@@ -1,6 +1,6 @@
 # pointfreeco/swift-parsing - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 700 | 55 | 
 | 2023-03-13 | 700 | 55 | 
 | 2023-03-12 | 700 | 55 | 
 | 2023-03-10 | 700 | 55 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 689 | 53 | 
 | 2023-02-15 | 688 | 53 | 
 | 2023-02-14 | 687 | 53 | 
-| 2023-02-13 | 687 | 53 | 
 

@@ -1,10 +1,10 @@
 # valhuber/ApiLogicServer - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 20
 
-★ Stars: 112
+★ Stars: 114
 
 [Open repository](https://github.com/valhuber/ApiLogicServer)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 114 | 20 | 
 | 2023-03-12 | 112 | 20 | 
 | 2023-03-11 | 112 | 20 | 
 | 2023-03-10 | 111 | 20 | 

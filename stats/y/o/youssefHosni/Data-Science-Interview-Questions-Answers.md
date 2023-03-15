@@ -1,10 +1,10 @@
 # youssefHosni/Data-Science-Interview-Questions-Answers - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 149
 
-★ Stars: 742
+★ Stars: 743
 
 [Open repository](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 743 | 149 | 
 | 2023-03-12 | 742 | 149 | 
 | 2023-03-11 | 740 | 149 | 
 | 2023-03-10 | 740 | 148 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 720 | 141 | 
 | 2023-02-14 | 720 | 141 | 
 | 2023-02-13 | 720 | 141 | 
-| 2023-02-12 | 720 | 141 | 
 

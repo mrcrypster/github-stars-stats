@@ -1,10 +1,10 @@
 # thomasf/dotfiles-thomasf-emacs - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/thomasf/dotfiles-thomasf-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 24 | 3 | 
 | 2023-03-13 | 25 | 3 | 
 | 2023-03-11 | 25 | 3 | 
 | 2023-03-10 | 25 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 25 | 3 | 
 | 2023-02-15 | 25 | 3 | 
 | 2023-02-14 | 24 | 3 | 
-| 2023-02-13 | 24 | 3 | 
 

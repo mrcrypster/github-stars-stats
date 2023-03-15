@@ -1,6 +1,6 @@
 # MetaFam/metagame-wiki - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 18 | 53 | 
 | 2023-03-12 | 18 | 53 | 
 | 2023-03-11 | 18 | 53 | 
 | 2023-03-10 | 18 | 53 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 18 | 52 | 
 | 2023-02-14 | 18 | 52 | 
 | 2023-02-13 | 18 | 52 | 
-| 2023-02-12 | 18 | 52 | 
 

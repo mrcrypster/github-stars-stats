@@ -1,10 +1,10 @@
 # visjs/vis-network - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 307
 
-★ Stars: 2389
+★ Stars: 2391
 
 [Open repository](https://github.com/visjs/vis-network)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 2391 | 307 | 
 | 2023-03-13 | 2389 | 307 | 
 | 2023-03-12 | 2388 | 307 | 
 | 2023-03-11 | 2384 | 308 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 2350 | 308 | 
 | 2023-02-14 | 2349 | 308 | 
 | 2023-02-13 | 2347 | 307 | 
-| 2023-02-12 | 2345 | 305 | 
 

@@ -1,6 +1,6 @@
 # OpenLiberty/open-liberty - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 524
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1046 | 524 | 
 | 2023-03-13 | 1046 | 524 | 
 | 2023-03-11 | 1046 | 524 | 
 | 2023-03-10 | 1046 | 524 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1044 | 521 | 
 | 2023-02-14 | 1044 | 521 | 
 | 2023-02-13 | 1044 | 521 | 
-| 2023-02-12 | 1043 | 521 | 
 

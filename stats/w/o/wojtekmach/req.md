@@ -1,10 +1,10 @@
 # wojtekmach/req - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 42
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/wojtekmach/req)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 471 | 42 | 
 | 2023-03-12 | 470 | 42 | 
 | 2023-03-11 | 470 | 42 | 
 | 2023-03-10 | 469 | 42 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 456 | 40 | 
 | 2023-02-14 | 456 | 40 | 
 | 2023-02-13 | 456 | 40 | 
-| 2023-02-12 | 456 | 40 | 
 

@@ -1,10 +1,10 @@
 # qinwf/awesome-R - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1483
 
-★ Stars: 5398
+★ Stars: 5400
 
 [Open repository](https://github.com/qinwf/awesome-R)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5400 | 1483 | 
 | 2023-03-13 | 5398 | 1483 | 
 | 2023-03-12 | 5397 | 1483 | 
 | 2023-03-11 | 5397 | 1483 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5369 | 1484 | 
 | 2023-02-14 | 5365 | 1484 | 
 | 2023-02-13 | 5365 | 1484 | 
-| 2023-02-12 | 5363 | 1484 | 
 

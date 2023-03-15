@@ -1,8 +1,8 @@
 # texmacs/tm-forge - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 36 | 14 | 
 | 2023-03-13 | 36 | 13 | 
 | 2023-03-12 | 37 | 13 | 
 | 2023-03-11 | 37 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 37 | 13 | 
 | 2023-02-15 | 37 | 13 | 
 | 2023-02-13 | 37 | 13 | 
-| 2023-02-12 | 37 | 13 | 
 

@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-go - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 814
+☋ Forks: 815
 
-★ Stars: 3679
+★ Stars: 3683
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-go)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3683 | 815 | 
 | 2023-03-13 | 3679 | 814 | 
 | 2023-03-12 | 3676 | 814 | 
 | 2023-03-10 | 3676 | 814 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3541 | 800 | 
 | 2023-02-15 | 3539 | 799 | 
 | 2023-02-13 | 3529 | 799 | 
-| 2023-02-12 | 3525 | 798 | 
 

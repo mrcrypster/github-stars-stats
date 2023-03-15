@@ -1,10 +1,10 @@
 # midudev/midufest - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/midudev/midufest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 92 | 36 | 
 | 2023-03-13 | 90 | 35 | 
 | 2023-03-11 | 88 | 35 | 
 | 2023-03-10 | 87 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 78 | 27 | 
 | 2023-02-14 | 78 | 27 | 
 | 2023-02-13 | 78 | 27 | 
-| 2023-02-12 | 76 | 27 | 
 

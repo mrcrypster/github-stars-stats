@@ -1,10 +1,10 @@
 # endroid/qr-code - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 694
 
-★ Stars: 3971
+★ Stars: 3980
 
 [Open repository](https://github.com/endroid/qr-code)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3980 | 694 | 
 | 2023-03-13 | 3971 | 694 | 
 | 2023-03-12 | 3970 | 694 | 
 | 2023-03-10 | 3969 | 694 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3947 | 685 | 
 | 2023-02-14 | 3947 | 685 | 
 | 2023-02-13 | 3947 | 685 | 
-| 2023-02-12 | 3947 | 685 | 
 

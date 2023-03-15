@@ -1,6 +1,6 @@
 # Unity-Technologies/com.unity.demoteam.hair - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 526 | 65 | 
 | 2023-03-12 | 526 | 65 | 
 | 2023-03-11 | 525 | 65 | 
 | 2023-03-10 | 523 | 65 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 503 | 64 | 
 | 2023-02-14 | 503 | 64 | 
 | 2023-02-13 | 502 | 65 | 
-| 2023-02-12 | 501 | 65 | 
 

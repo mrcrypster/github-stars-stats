@@ -1,6 +1,6 @@
 # lokkeestudios/LokkeeStudios - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 30 | 11 | 
 | 2023-03-12 | 30 | 11 | 
 | 2023-03-11 | 29 | 11 | 
 | 2023-03-10 | 29 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 28 | 12 | 
 | 2023-02-15 | 28 | 12 | 
 | 2023-02-14 | 28 | 12 | 
-| 2023-02-12 | 28 | 12 | 
 

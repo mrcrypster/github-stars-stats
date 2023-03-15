@@ -1,10 +1,10 @@
 # okieselbach/Intune - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 154
 
-★ Stars: 298
+★ Stars: 299
 
 [Open repository](https://github.com/okieselbach/Intune)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 299 | 154 | 
 | 2023-03-12 | 298 | 154 | 
 | 2023-03-11 | 298 | 154 | 
 | 2023-03-10 | 298 | 154 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 290 | 148 | 
 | 2023-02-14 | 290 | 148 | 
 | 2023-02-13 | 290 | 148 | 
-| 2023-02-12 | 289 | 148 | 
 

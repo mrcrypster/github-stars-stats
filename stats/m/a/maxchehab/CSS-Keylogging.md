@@ -1,10 +1,10 @@
 # maxchehab/CSS-Keylogging - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 443
 
-★ Stars: 3149
+★ Stars: 3150
 
 [Open repository](https://github.com/maxchehab/CSS-Keylogging)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3150 | 443 | 
 | 2023-03-13 | 3149 | 443 | 
 | 2023-03-12 | 3149 | 443 | 
 | 2023-03-11 | 3149 | 443 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3148 | 444 | 
 | 2023-02-14 | 3148 | 444 | 
 | 2023-02-13 | 3148 | 444 | 
-| 2023-02-12 | 3147 | 444 | 
 

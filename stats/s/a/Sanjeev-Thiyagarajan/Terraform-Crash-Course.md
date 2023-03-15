@@ -1,6 +1,6 @@
 # Sanjeev-Thiyagarajan/Terraform-Crash-Course - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 130 | 351 | 
 | 2023-03-13 | 130 | 351 | 
 | 2023-03-11 | 129 | 350 | 
 | 2023-03-10 | 129 | 350 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 126 | 342 | 
 | 2023-02-14 | 126 | 342 | 
 | 2023-02-13 | 126 | 342 | 
-| 2023-02-12 | 125 | 340 | 
 

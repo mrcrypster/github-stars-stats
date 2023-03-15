@@ -1,6 +1,6 @@
 # kkokosa/dotnet-counters-ui - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 141 | 8 | 
 | 2023-03-13 | 141 | 8 | 
 | 2023-03-12 | 141 | 8 | 
 | 2023-03-11 | 141 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 139 | 8 | 
 | 2023-02-14 | 139 | 8 | 
 | 2023-02-13 | 139 | 8 | 
-| 2023-02-12 | 139 | 8 | 
 

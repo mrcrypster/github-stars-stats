@@ -1,6 +1,6 @@
 # iwahbe/jsonian - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 74 | 6 | 
 | 2023-03-13 | 74 | 6 | 
 | 2023-03-12 | 74 | 6 | 
 | 2023-03-10 | 74 | 6 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 73 | 6 | 
 | 2023-02-14 | 73 | 6 | 
 | 2023-02-13 | 73 | 6 | 
-| 2023-02-12 | 73 | 6 | 
 

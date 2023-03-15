@@ -1,6 +1,6 @@
 # rubysec/ruby-advisory-db - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 921 | 207 | 
 | 2023-03-13 | 921 | 207 | 
 | 2023-03-12 | 921 | 207 | 
 | 2023-03-11 | 921 | 206 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 919 | 206 | 
 | 2023-02-14 | 919 | 206 | 
 | 2023-02-13 | 919 | 206 | 
-| 2023-02-12 | 919 | 206 | 
 

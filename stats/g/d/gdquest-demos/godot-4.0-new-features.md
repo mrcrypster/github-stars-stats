@@ -1,10 +1,10 @@
 # gdquest-demos/godot-4.0-new-features - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 152
+★ Stars: 155
 
 [Open repository](https://github.com/gdquest-demos/godot-4.0-new-features)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 155 | 17 | 
 | 2023-03-13 | 152 | 15 | 
 | 2023-03-12 | 152 | 13 | 
 | 2023-03-11 | 152 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | - | - | 
 | 2023-02-14 | - | - | 
 | 2023-02-13 | - | - | 
-| 2023-02-12 | - | - | 
 

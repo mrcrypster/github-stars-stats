@@ -1,6 +1,6 @@
 # ReturnPath/rp-mta-log-transfer - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4 | - | 
 | 2023-03-13 | 4 | - | 
 | 2023-03-12 | 4 | - | 
 | 2023-03-10 | 4 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4 | - | 
 | 2023-02-14 | 4 | - | 
 | 2023-02-13 | 4 | - | 
-| 2023-02-12 | 4 | - | 
 

@@ -1,6 +1,6 @@
 # withastro/blog-tutorial-demo - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 36 | 29 | 
 | 2023-03-13 | 36 | 29 | 
 | 2023-03-12 | 36 | 30 | 
 | 2023-03-11 | 36 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 29 | 24 | 
 | 2023-02-14 | 27 | 24 | 
 | 2023-02-13 | 27 | 24 | 
-| 2023-02-12 | 27 | 24 | 
 

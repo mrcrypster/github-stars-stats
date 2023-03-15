@@ -1,6 +1,6 @@
 # tidyverse/stringr - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 532 | 172 | 
 | 2023-03-12 | 532 | 172 | 
 | 2023-03-11 | 531 | 171 | 
 | 2023-03-10 | 531 | 171 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 532 | 171 | 
 | 2023-02-14 | 531 | 171 | 
 | 2023-02-13 | 531 | 171 | 
-| 2023-02-12 | 531 | 171 | 
 

@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 14
 
 ☋ Forks: 5
 
-★ Stars: 151
+★ Stars: 154
 
 [Open repository](https://github.com/mksshare/mksshare.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 151 | 5 | 
+| 2023-03-14 | 154 | 5 | 
 | 2023-03-13 | 149 | 5 | 
 | 2023-03-12 | 145 | 4 | 
 | 2023-03-11 | 137 | 4 | 

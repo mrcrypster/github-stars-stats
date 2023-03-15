@@ -1,8 +1,8 @@
 # CCExtractor/rutorrent-flutter - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 96
+☋ Forks: 97
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 105 | 97 | 
 | 2023-03-13 | 105 | 96 | 
 | 2023-03-12 | 105 | 96 | 
 | 2023-03-11 | 105 | 96 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 105 | 93 | 
 | 2023-02-14 | 105 | 93 | 
 | 2023-02-13 | 105 | 93 | 
-| 2023-02-12 | 105 | 93 | 
 

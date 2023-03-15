@@ -1,6 +1,6 @@
 # kafka4beam/brod - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 614 | 194 | 
 | 2023-03-12 | 614 | 194 | 
 | 2023-03-11 | 614 | 194 | 
 | 2023-03-10 | 614 | 194 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 611 | 193 | 
 | 2023-02-14 | 611 | 193 | 
 | 2023-02-13 | 610 | 193 | 
-| 2023-02-12 | 609 | 193 | 
 

@@ -1,10 +1,10 @@
 # pages-themes/leap-day - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 441
+☋ Forks: 442
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/pages-themes/leap-day)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 167 | 442 | 
 | 2023-03-13 | 166 | 441 | 
 | 2023-03-12 | 166 | 441 | 
 | 2023-03-11 | 166 | 441 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 164 | 437 | 
 | 2023-02-14 | 164 | 435 | 
 | 2023-02-13 | 164 | 435 | 
-| 2023-02-12 | 164 | 435 | 
 

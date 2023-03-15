@@ -1,6 +1,6 @@
 # TheWorldOfPC/Windows11-Debloat-Privacy-Guide - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 269 | 36 | 
 | 2023-03-12 | 269 | 36 | 
 | 2023-03-11 | 268 | 36 | 
 | 2023-03-10 | 267 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 257 | 35 | 
 | 2023-02-14 | 257 | 35 | 
 | 2023-02-13 | 255 | 35 | 
-| 2023-02-12 | 255 | 35 | 
 

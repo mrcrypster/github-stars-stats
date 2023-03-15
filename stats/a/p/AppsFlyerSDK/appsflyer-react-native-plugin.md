@@ -1,8 +1,8 @@
 # AppsFlyerSDK/appsflyer-react-native-plugin - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 175
+☋ Forks: 178
 
 ★ Stars: 247
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 247 | 178 | 
 | 2023-03-13 | 247 | 175 | 
 | 2023-03-12 | 247 | 174 | 
 | 2023-03-11 | 247 | 174 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 247 | 175 | 
 | 2023-02-14 | 247 | 174 | 
 | 2023-02-13 | 247 | 172 | 
-| 2023-02-12 | 247 | 172 | 
 

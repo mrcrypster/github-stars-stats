@@ -1,10 +1,10 @@
 # nspcc-dev/neofs-api - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 15
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/nspcc-dev/neofs-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 12 | 15 | 
 | 2023-03-13 | 13 | 15 | 
 | 2023-03-12 | 13 | 15 | 
 | 2023-03-10 | 13 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 13 | 13 | 
 | 2023-02-14 | 13 | 13 | 
 | 2023-02-13 | 13 | 13 | 
-| 2023-02-12 | 13 | 13 | 
 

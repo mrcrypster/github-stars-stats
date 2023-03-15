@@ -1,6 +1,6 @@
 # rouge-ruby/rouge - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 717
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3178 | 717 | 
 | 2023-03-13 | 3178 | 717 | 
 | 2023-03-12 | 3178 | 717 | 
 | 2023-03-10 | 3178 | 717 | 

@@ -1,6 +1,6 @@
 # uncomplicate/clojure-sound - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 51 | 1 | 
 | 2023-03-13 | 51 | 1 | 
 | 2023-03-11 | 51 | 1 | 
 | 2023-03-10 | 51 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 51 | 1 | 
 | 2023-02-15 | 51 | 1 | 
 | 2023-02-14 | 51 | 1 | 
-| 2023-02-12 | 51 | 1 | 
 

@@ -1,6 +1,6 @@
 # kyr0/turbo-hybrid-astro-on-vercel - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 22 | 3 | 
 | 2023-03-13 | 22 | 3 | 
 | 2023-03-12 | 22 | 3 | 
 | 2023-03-10 | 22 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 20 | 2 | 
 | 2023-02-15 | 20 | 2 | 
 | 2023-02-14 | 20 | 2 | 
-| 2023-02-13 | 19 | 2 | 
 

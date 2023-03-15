@@ -1,10 +1,10 @@
 # helium/router - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/helium/router)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 65 | 31 | 
 | 2023-03-13 | 64 | 31 | 
 | 2023-03-12 | 64 | 31 | 
 | 2023-03-11 | 64 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 63 | 32 | 
 | 2023-02-15 | 63 | 31 | 
 | 2023-02-14 | 63 | 31 | 
-| 2023-02-13 | 62 | 31 | 
 

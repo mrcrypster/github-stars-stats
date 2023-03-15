@@ -1,10 +1,10 @@
 # joshhighet/ransomwatch - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 52
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/joshhighet/ransomwatch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 301 | 52 | 
 | 2023-03-13 | 300 | 52 | 
 | 2023-03-11 | 300 | 52 | 
 | 2023-03-10 | 300 | 52 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 286 | 50 | 
 | 2023-02-14 | 285 | 51 | 
 | 2023-02-13 | 284 | 51 | 
-| 2023-02-12 | 284 | 51 | 
 

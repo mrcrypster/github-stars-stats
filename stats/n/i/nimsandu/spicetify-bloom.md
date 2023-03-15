@@ -1,10 +1,10 @@
 # nimsandu/spicetify-bloom - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 34
 
-★ Stars: 262
+★ Stars: 261
 
 [Open repository](https://github.com/nimsandu/spicetify-bloom)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 261 | 34 | 
 | 2023-03-13 | 262 | 34 | 
 | 2023-03-12 | 261 | 34 | 
 | 2023-03-11 | 260 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 223 | 31 | 
 | 2023-02-15 | 225 | 31 | 
 | 2023-02-14 | 226 | 31 | 
-| 2023-02-13 | 226 | 31 | 
 

@@ -1,6 +1,6 @@
 # Coloryr/ColorMC - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 65 | 4 | 
 | 2023-03-13 | 65 | 4 | 
 | 2023-03-12 | 63 | 4 | 
 | 2023-03-10 | 62 | 4 | 

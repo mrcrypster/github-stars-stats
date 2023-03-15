@@ -1,10 +1,10 @@
 # TephrocactusHC/NKUCS-SAVE - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/TephrocactusHC/NKUCS-SAVE)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 36 | 3 | 
 | 2023-03-12 | 35 | 3 | 
 | 2023-03-11 | 35 | 3 | 
 | 2023-03-10 | 35 | 3 | 

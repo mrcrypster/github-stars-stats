@@ -1,6 +1,6 @@
 # Saki-Tsuji/todo_app - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 55 | 5 | 
 | 2023-03-12 | 55 | 5 | 
 | 2023-03-11 | 55 | 5 | 
 | 2023-03-10 | 55 | 5 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 52 | 4 | 
 | 2023-02-14 | 52 | 4 | 
 | 2023-02-13 | 52 | 4 | 
-| 2023-02-12 | 52 | 4 | 
 

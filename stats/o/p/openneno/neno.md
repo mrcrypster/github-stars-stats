@@ -1,10 +1,10 @@
 # openneno/neno - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 72
 
-★ Stars: 434
+★ Stars: 435
 
 [Open repository](https://github.com/openneno/neno)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 435 | 72 | 
 | 2023-03-13 | 434 | 72 | 
 | 2023-03-12 | 434 | 72 | 
 | 2023-03-10 | 434 | 72 | 

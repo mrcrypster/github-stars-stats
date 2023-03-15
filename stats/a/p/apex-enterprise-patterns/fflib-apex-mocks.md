@@ -1,6 +1,6 @@
 # apex-enterprise-patterns/fflib-apex-mocks - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 345 | 205 | 
 | 2023-03-13 | 345 | 205 | 
 | 2023-03-12 | 345 | 204 | 
 | 2023-03-11 | 345 | 204 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 342 | 203 | 
 | 2023-02-14 | 342 | 203 | 
 | 2023-02-13 | 342 | 203 | 
-| 2023-02-12 | 342 | 203 | 
 

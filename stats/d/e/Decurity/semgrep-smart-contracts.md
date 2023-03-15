@@ -1,6 +1,6 @@
 # Decurity/semgrep-smart-contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 413 | 57 | 
 | 2023-03-13 | 413 | 57 | 
 | 2023-03-12 | 413 | 57 | 
 | 2023-03-11 | 413 | 57 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 399 | 54 | 
 | 2023-02-14 | 397 | 54 | 
 | 2023-02-13 | 397 | 54 | 
-| 2023-02-12 | 396 | 54 | 
 

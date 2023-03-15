@@ -1,6 +1,6 @@
 # kojino/120-Data-Science-Interview-Questions - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1246
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3265 | 1246 | 
 | 2023-03-13 | 3265 | 1246 | 
 | 2023-03-12 | 3264 | 1246 | 
 | 2023-03-10 | 3263 | 1246 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3255 | 1244 | 
 | 2023-02-14 | 3254 | 1244 | 
 | 2023-02-13 | 3254 | 1244 | 
-| 2023-02-12 | 3254 | 1244 | 
 

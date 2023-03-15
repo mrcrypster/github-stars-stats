@@ -1,10 +1,10 @@
 # Rubberduckycooly/RSDKv5-Decompilation - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 94
 
-★ Stars: 240
+★ Stars: 242
 
 [Open repository](https://github.com/Rubberduckycooly/RSDKv5-Decompilation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 242 | 94 | 
 | 2023-03-13 | 240 | 94 | 
 | 2023-03-11 | 240 | 94 | 
 | 2023-03-10 | 240 | 94 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 234 | 91 | 
 | 2023-02-14 | 234 | 91 | 
 | 2023-02-13 | 232 | 91 | 
-| 2023-02-12 | 232 | 91 | 
 

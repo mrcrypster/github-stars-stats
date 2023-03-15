@@ -1,10 +1,10 @@
 # simeononsecurity/Windows-Optimize-Harden-Debloat - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 632
+★ Stars: 633
 
 [Open repository](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 633 | 52 | 
 | 2023-03-13 | 632 | 51 | 
 | 2023-03-12 | 632 | 51 | 
 | 2023-03-10 | 632 | 51 | 

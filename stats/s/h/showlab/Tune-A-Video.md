@@ -1,10 +1,10 @@
 # showlab/Tune-A-Video - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 52
 
-★ Stars: 764
+★ Stars: 770
 
 [Open repository](https://github.com/showlab/Tune-A-Video)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 770 | 52 | 
 | 2023-03-13 | 764 | 52 | 
 | 2023-03-12 | 757 | 51 | 
 | 2023-03-10 | 753 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 625 | 43 | 
 | 2023-02-15 | 619 | 42 | 
 | 2023-02-14 | 602 | 40 | 
-| 2023-02-12 | 590 | 39 | 
 

@@ -1,10 +1,10 @@
 # CNCKitchen/ExtrusionSystemBenchmark - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 16
 
-★ Stars: 87
+★ Stars: 90
 
 [Open repository](https://github.com/CNCKitchen/ExtrusionSystemBenchmark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 90 | 16 | 
 | 2023-03-13 | 87 | 16 | 
 | 2023-03-11 | 87 | 16 | 
 | 2023-03-10 | 87 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 84 | 16 | 
 | 2023-02-14 | 84 | 16 | 
 | 2023-02-13 | 84 | 16 | 
-| 2023-02-12 | 83 | 16 | 
 

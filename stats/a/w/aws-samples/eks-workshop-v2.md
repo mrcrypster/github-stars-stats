@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 14
 
 ☋ Forks: 72
 
-★ Stars: 103
+★ Stars: 106
 
 [Open repository](https://github.com/aws-samples/eks-workshop-v2)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 103 | 72 | 
+| 2023-03-14 | 106 | 72 | 
 | 2023-03-13 | 103 | 72 | 
 | 2023-03-12 | 101 | 71 | 
 | 2023-03-11 | 100 | 69 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-15 | 45 | 16 | 
 | 2023-02-14 | 45 | 16 | 
 | 2023-02-13 | 40 | 12 | 
-| 2023-02-12 | 40 | 10 | 
 

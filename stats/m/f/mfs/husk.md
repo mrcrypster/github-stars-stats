@@ -1,0 +1,17 @@
+# mfs/husk - stars & forks statistics
+
+Stats updated on Mar 2023, 14
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/mfs/husk)
+
+[Open detailed stats for mfs/husk](https://reviewgithub.com/rep/mfs/husk)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-14 | 1 | - | 
+

@@ -1,8 +1,8 @@
 # MicrosoftDocs/Edge-Enterprise - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 139
+☋ Forks: 141
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 79 | 141 | 
 | 2023-03-13 | 79 | 139 | 
 | 2023-03-12 | 79 | 139 | 
 | 2023-03-11 | 79 | 139 | 

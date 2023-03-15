@@ -1,10 +1,10 @@
 # YoussefRaafatNasry/portfolYOU - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 468
+☋ Forks: 469
 
-★ Stars: 773
+★ Stars: 774
 
 [Open repository](https://github.com/YoussefRaafatNasry/portfolYOU)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 774 | 469 | 
 | 2023-03-13 | 773 | 468 | 
 | 2023-03-12 | 773 | 468 | 
 | 2023-03-11 | 773 | 468 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 766 | 466 | 
 | 2023-02-14 | 766 | 466 | 
 | 2023-02-13 | 766 | 465 | 
-| 2023-02-12 | 766 | 465 | 
 

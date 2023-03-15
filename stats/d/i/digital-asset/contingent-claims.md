@@ -1,6 +1,6 @@
 # digital-asset/contingent-claims - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5 | - | 
 | 2023-03-13 | 5 | - | 
 | 2023-03-12 | 5 | - | 
 | 2023-03-10 | 5 | - | 

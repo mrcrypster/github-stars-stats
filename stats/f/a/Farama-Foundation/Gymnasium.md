@@ -1,10 +1,10 @@
 # Farama-Foundation/Gymnasium - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 204
+☋ Forks: 205
 
-★ Stars: 1774
+★ Stars: 1793
 
 [Open repository](https://github.com/Farama-Foundation/Gymnasium)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1793 | 205 | 
 | 2023-03-13 | 1774 | 204 | 
 | 2023-03-12 | 1760 | 202 | 
 | 2023-03-11 | 1743 | 201 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1398 | 157 | 
 | 2023-02-14 | 1381 | 155 | 
 | 2023-02-13 | 1365 | 153 | 
-| 2023-02-12 | 1353 | 152 | 
 

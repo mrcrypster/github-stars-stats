@@ -1,10 +1,10 @@
 # processone/tsung - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 411
 
-★ Stars: 2401
+★ Stars: 2402
 
 [Open repository](https://github.com/processone/tsung)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2402 | 411 | 
 | 2023-03-13 | 2401 | 411 | 
 | 2023-03-12 | 2401 | 411 | 
 | 2023-03-10 | 2401 | 411 | 

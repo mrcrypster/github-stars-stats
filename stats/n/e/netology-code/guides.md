@@ -1,6 +1,6 @@
 # netology-code/guides - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 363
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 159 | 363 | 
 | 2023-03-13 | 159 | 363 | 
 | 2023-03-12 | 159 | 362 | 
 | 2023-03-11 | 159 | 361 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 158 | 350 | 
 | 2023-02-14 | 158 | 349 | 
 | 2023-02-13 | 158 | 348 | 
-| 2023-02-12 | 158 | 348 | 
 

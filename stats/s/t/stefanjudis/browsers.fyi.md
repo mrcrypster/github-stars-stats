@@ -1,10 +1,10 @@
 # stefanjudis/browsers.fyi - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 33
+★ Stars: 32
 
 [Open repository](https://github.com/stefanjudis/browsers.fyi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 32 | 3 | 
 | 2023-03-12 | 33 | 3 | 
 | 2023-03-11 | 33 | 3 | 
 | 2023-03-10 | 33 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 33 | 3 | 
 | 2023-02-14 | 33 | 3 | 
 | 2023-02-13 | 33 | 3 | 
-| 2023-02-12 | 33 | 3 | 
 

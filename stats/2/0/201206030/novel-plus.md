@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 14
 
-☋ Forks: 1117
+☋ Forks: 1119
 
-★ Stars: 2923
+★ Stars: 2924
 
 [Open repository](https://github.com/201206030/novel-plus)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 2923 | 1117 | 
+| 2023-03-14 | 2924 | 1119 | 
 | 2023-03-13 | 2923 | 1117 | 
 

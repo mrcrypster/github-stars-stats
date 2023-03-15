@@ -1,6 +1,6 @@
 # LoudSilencer/FNF-Undertale-Source-Code - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 12 | 18 | 
 | 2023-03-13 | 12 | 18 | 
 | 2023-03-12 | 12 | 18 | 
 | 2023-03-11 | 12 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 11 | 17 | 
 | 2023-02-14 | 11 | 17 | 
 | 2023-02-13 | 11 | 17 | 
-| 2023-02-12 | 11 | 17 | 
 

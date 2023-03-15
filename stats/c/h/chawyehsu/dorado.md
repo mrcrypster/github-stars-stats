@@ -1,10 +1,10 @@
 # chawyehsu/dorado - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 88
+☋ Forks: 87
 
-★ Stars: 829
+★ Stars: 830
 
 [Open repository](https://github.com/chawyehsu/dorado)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 830 | 87 | 
 | 2023-03-13 | 829 | 88 | 
 | 2023-03-12 | 827 | 88 | 
 | 2023-03-11 | 826 | 88 | 

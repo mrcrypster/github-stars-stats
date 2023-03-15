@@ -1,10 +1,10 @@
 # adiwajshing/Baileys - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1567
+☋ Forks: 1568
 
-★ Stars: 4708
+★ Stars: 4717
 
 [Open repository](https://github.com/adiwajshing/Baileys)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4717 | 1568 | 
 | 2023-03-13 | 4708 | 1567 | 
 | 2023-03-12 | 4702 | 1564 | 
 | 2023-03-11 | 4696 | 1562 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4597 | 1541 | 
 | 2023-02-14 | 4590 | 1536 | 
 | 2023-02-13 | 4587 | 1532 | 
-| 2023-02-12 | 4582 | 1529 | 
 

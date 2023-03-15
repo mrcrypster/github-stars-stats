@@ -1,8 +1,8 @@
 # yidongnan/grpc-spring-boot-starter - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 702
+☋ Forks: 703
 
 ★ Stars: 2850
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2850 | 703 | 
 | 2023-03-13 | 2850 | 702 | 
 | 2023-03-12 | 2846 | 701 | 
 | 2023-03-11 | 2844 | 701 | 

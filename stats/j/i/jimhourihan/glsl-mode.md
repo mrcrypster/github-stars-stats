@@ -1,6 +1,6 @@
 # jimhourihan/glsl-mode - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 84 | 13 | 
 | 2023-03-13 | 84 | 13 | 
 | 2023-03-12 | 85 | 13 | 
 | 2023-03-10 | 85 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 85 | 13 | 
 | 2023-02-14 | 85 | 13 | 
 | 2023-02-13 | 85 | 13 | 
-| 2023-02-12 | 85 | 13 | 
 

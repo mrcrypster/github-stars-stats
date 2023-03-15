@@ -1,6 +1,6 @@
 # MarketingPipeline/Markdown-Tag - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 391 | 17 | 
 | 2023-03-13 | 391 | 17 | 
 | 2023-03-12 | 391 | 17 | 
 | 2023-03-11 | 391 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 390 | 17 | 
 | 2023-02-14 | 390 | 17 | 
 | 2023-02-13 | 389 | 17 | 
-| 2023-02-12 | 388 | 17 | 
 

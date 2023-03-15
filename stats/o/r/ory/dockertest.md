@@ -1,10 +1,10 @@
 # ory/dockertest - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 222
 
-★ Stars: 3306
+★ Stars: 3309
 
 [Open repository](https://github.com/ory/dockertest)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3309 | 222 | 
 | 2023-03-13 | 3306 | 222 | 
 | 2023-03-12 | 3303 | 222 | 
 | 2023-03-11 | 3297 | 221 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3232 | 221 | 
 | 2023-02-15 | 3232 | 221 | 
 | 2023-02-14 | 3228 | 221 | 
-| 2023-02-12 | 3226 | 220 | 
 

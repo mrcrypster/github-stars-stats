@@ -1,6 +1,6 @@
 # mantoufan/alipay-global-sdk-php - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 152 | 34 | 
 | 2023-03-13 | 152 | 34 | 
 | 2023-03-11 | 152 | 34 | 
 | 2023-03-10 | 152 | 34 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 151 | 34 | 
 | 2023-02-15 | 151 | 34 | 
 | 2023-02-14 | 151 | 34 | 
-| 2023-02-13 | 151 | 34 | 
 

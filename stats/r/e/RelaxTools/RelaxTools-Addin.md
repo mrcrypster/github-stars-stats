@@ -1,6 +1,6 @@
 # RelaxTools/RelaxTools-Addin - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 293 | 30 | 
 | 2023-03-13 | 293 | 30 | 
 | 2023-03-12 | 292 | 30 | 
 | 2023-03-11 | 292 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 292 | 30 | 
 | 2023-02-14 | 292 | 30 | 
 | 2023-02-13 | 291 | 30 | 
-| 2023-02-12 | 291 | 30 | 
 

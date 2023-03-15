@@ -1,6 +1,6 @@
 # zk-email-verify/zk-email-verify - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 74 | 10 | 
 | 2023-03-13 | 74 | 10 | 
 | 2023-03-12 | 74 | 10 | 
 | 2023-03-11 | 74 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 52 | 6 | 
 | 2023-02-14 | 52 | 6 | 
 | 2023-02-13 | 49 | 6 | 
-| 2023-02-12 | 49 | 6 | 
 

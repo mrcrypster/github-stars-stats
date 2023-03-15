@@ -1,6 +1,6 @@
 # hashicorp/terraform-template-dir - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 26 | 9 | 
 | 2023-03-13 | 26 | 9 | 
 | 2023-03-11 | 26 | 9 | 
 | 2023-03-10 | 26 | 9 | 

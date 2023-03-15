@@ -1,10 +1,10 @@
 # fmfn/BayesianOptimization - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1420
+☋ Forks: 1419
 
-★ Stars: 6621
+★ Stars: 6624
 
 [Open repository](https://github.com/fmfn/BayesianOptimization)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 6624 | 1419 | 
 | 2023-03-13 | 6621 | 1420 | 
 | 2023-03-12 | 6618 | 1418 | 
 | 2023-03-11 | 6617 | 1418 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 6555 | 1416 | 
 | 2023-02-15 | 6551 | 1416 | 
 | 2023-02-14 | 6548 | 1416 | 
-| 2023-02-12 | 6545 | 1415 | 
 

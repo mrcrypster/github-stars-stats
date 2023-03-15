@@ -1,6 +1,6 @@
 # SFML-haskell/SFML - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 43 | 11 | 
 | 2023-03-13 | 43 | 11 | 
 | 2023-03-12 | 43 | 11 | 
 | 2023-03-10 | 43 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 42 | 11 | 
 | 2023-02-15 | 42 | 11 | 
 | 2023-02-14 | 42 | 11 | 
-| 2023-02-13 | 42 | 11 | 
 

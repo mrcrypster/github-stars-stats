@@ -1,10 +1,10 @@
 # Elfocrash/clean-minimal-api - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 118
+☋ Forks: 117
 
-★ Stars: 416
+★ Stars: 417
 
 [Open repository](https://github.com/Elfocrash/clean-minimal-api)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 417 | 117 | 
 | 2023-03-13 | 416 | 118 | 
 | 2023-03-12 | 416 | 118 | 
 | 2023-03-11 | 416 | 118 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 400 | 115 | 
 | 2023-02-14 | 399 | 115 | 
 | 2023-02-13 | 399 | 115 | 
-| 2023-02-12 | 398 | 115 | 
 

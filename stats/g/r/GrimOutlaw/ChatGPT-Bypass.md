@@ -1,10 +1,10 @@
 # GrimOutlaw/ChatGPT-Bypass - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 252
+★ Stars: 255
 
 [Open repository](https://github.com/GrimOutlaw/ChatGPT-Bypass)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 255 | 60 | 
 | 2023-03-12 | 252 | 59 | 
 | 2023-03-11 | 251 | 59 | 
 | 2023-03-10 | 251 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 54 | 8 | 
 | 2023-02-14 | 49 | 8 | 
 | 2023-02-13 | 45 | 7 | 
-| 2023-02-12 | 45 | 7 | 
 

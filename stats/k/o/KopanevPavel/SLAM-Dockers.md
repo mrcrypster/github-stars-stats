@@ -1,10 +1,10 @@
 # KopanevPavel/SLAM-Dockers - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/KopanevPavel/SLAM-Dockers)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 79 | 8 | 
 | 2023-03-12 | 78 | 8 | 
 | 2023-03-11 | 78 | 8 | 
 | 2023-03-10 | 78 | 8 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 78 | 8 | 
 | 2023-02-14 | 79 | 8 | 
 | 2023-02-13 | 79 | 8 | 
-| 2023-02-12 | 77 | 8 | 
 

@@ -1,10 +1,10 @@
 # haizlin/fe-interview - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 3131
+☋ Forks: 3130
 
-★ Stars: 23209
+★ Stars: 23223
 
 [Open repository](https://github.com/haizlin/fe-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 23223 | 3130 | 
 | 2023-03-13 | 23209 | 3131 | 
 | 2023-03-12 | 23202 | 3132 | 
 | 2023-03-10 | 23191 | 3131 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 23006 | 3110 | 
 | 2023-02-15 | 22992 | 3109 | 
 | 2023-02-14 | 22977 | 3108 | 
-| 2023-02-12 | 22966 | 3108 | 
 

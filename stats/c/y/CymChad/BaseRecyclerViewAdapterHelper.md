@@ -1,10 +1,10 @@
 # CymChad/BaseRecyclerViewAdapterHelper - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 5016
 
-★ Stars: 23438
+★ Stars: 23441
 
 [Open repository](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 23441 | 5016 | 
 | 2023-03-12 | 23438 | 5016 | 
 | 2023-03-11 | 23436 | 5016 | 
 | 2023-03-10 | 23434 | 5015 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 23388 | 5008 | 
 | 2023-02-14 | 23385 | 5008 | 
 | 2023-02-13 | 23382 | 5008 | 
-| 2023-02-12 | 23380 | 5009 | 
 

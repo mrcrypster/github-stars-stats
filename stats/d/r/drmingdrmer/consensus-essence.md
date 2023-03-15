@@ -1,6 +1,6 @@
 # drmingdrmer/consensus-essence - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 90 | 3 | 
 | 2023-03-13 | 90 | 3 | 
 | 2023-03-12 | 90 | 3 | 
 | 2023-03-11 | 90 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 90 | 3 | 
 | 2023-02-14 | 90 | 3 | 
 | 2023-02-13 | 90 | 3 | 
-| 2023-02-12 | 90 | 3 | 
 

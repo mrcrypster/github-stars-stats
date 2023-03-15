@@ -1,10 +1,10 @@
 # VzBoT3D/Vz-Printhead-Printed - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/VzBoT3D/Vz-Printhead-Printed)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 50 | 7 | 
 | 2023-03-12 | 49 | 6 | 
 | 2023-03-11 | 49 | 6 | 
 | 2023-03-10 | 49 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 40 | 6 | 
 | 2023-02-14 | 40 | 6 | 
 | 2023-02-13 | 40 | 6 | 
-| 2023-02-12 | 39 | 6 | 
 

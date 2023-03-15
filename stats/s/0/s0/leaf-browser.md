@@ -1,8 +1,8 @@
 # s0/leaf-browser - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 86 | 92 | 
 | 2023-03-13 | 86 | 91 | 
 | 2023-03-12 | 86 | 91 | 
 | 2023-03-11 | 86 | 91 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 86 | 90 | 
 | 2023-02-14 | 86 | 90 | 
 | 2023-02-13 | 86 | 90 | 
-| 2023-02-12 | 86 | 90 | 
 

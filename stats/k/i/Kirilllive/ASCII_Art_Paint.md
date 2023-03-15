@@ -1,10 +1,10 @@
 # Kirilllive/ASCII_Art_Paint - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/Kirilllive/ASCII_Art_Paint)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 190 | 12 | 
 | 2023-03-13 | 189 | 12 | 
 | 2023-03-12 | 189 | 12 | 
 | 2023-03-11 | 189 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 180 | 10 | 
 | 2023-02-14 | 179 | 10 | 
 | 2023-02-13 | 179 | 10 | 
-| 2023-02-12 | 179 | 10 | 
 

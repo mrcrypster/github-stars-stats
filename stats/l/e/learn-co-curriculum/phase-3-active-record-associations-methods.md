@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-active-record-associations-methods - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 2030
+☋ Forks: 2031
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4 | 2031 | 
 | 2023-03-13 | 4 | 2030 | 
 | 2023-03-12 | 4 | 2030 | 
 | 2023-03-11 | 4 | 2030 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4 | 1841 | 
 | 2023-02-14 | 4 | 1841 | 
 | 2023-02-13 | 4 | 1841 | 
-| 2023-02-12 | 4 | 1841 | 
 

@@ -1,6 +1,6 @@
 # WinTweakers/WindowsToolbox - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 138 | 60 | 
 | 2023-03-12 | 138 | 60 | 
 | 2023-03-11 | 138 | 60 | 
 | 2023-03-10 | 138 | 60 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 132 | 58 | 
 | 2023-02-15 | 132 | 58 | 
 | 2023-02-14 | 133 | 58 | 
-| 2023-02-12 | 133 | 58 | 
 

@@ -1,10 +1,10 @@
 # DvorakDwarf/Infinite-Storage-Glitch - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 566
+☋ Forks: 572
 
-★ Stars: 8814
+★ Stars: 8837
 
 [Open repository](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 8837 | 572 | 
 | 2023-03-13 | 8814 | 566 | 
 | 2023-03-12 | 8752 | 545 | 
 | 2023-03-11 | 8639 | 515 | 

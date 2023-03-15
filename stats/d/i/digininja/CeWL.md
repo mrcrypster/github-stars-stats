@@ -1,10 +1,10 @@
 # digininja/CeWL - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 205
+☋ Forks: 204
 
-★ Stars: 1301
+★ Stars: 1303
 
 [Open repository](https://github.com/digininja/CeWL)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1303 | 204 | 
 | 2023-03-13 | 1301 | 205 | 
 | 2023-03-12 | 1301 | 205 | 
 | 2023-03-10 | 1298 | 205 | 

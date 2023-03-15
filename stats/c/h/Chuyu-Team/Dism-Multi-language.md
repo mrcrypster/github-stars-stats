@@ -1,10 +1,10 @@
 # Chuyu-Team/Dism-Multi-language - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 729
 
-★ Stars: 8587
+★ Stars: 8598
 
 [Open repository](https://github.com/Chuyu-Team/Dism-Multi-language)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 8598 | 729 | 
 | 2023-03-13 | 8587 | 729 | 
 | 2023-03-12 | 8578 | 728 | 
 | 2023-03-10 | 8564 | 728 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 8334 | 718 | 
 | 2023-02-14 | 8325 | 718 | 
 | 2023-02-13 | 8317 | 718 | 
-| 2023-02-12 | 8315 | 717 | 
 

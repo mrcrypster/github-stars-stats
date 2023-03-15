@@ -1,10 +1,10 @@
 # tryashtar/shulker-preview - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/tryashtar/shulker-preview)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 47 | 2 | 
 | 2023-03-13 | 46 | 2 | 
 | 2023-03-12 | 46 | 2 | 
 | 2023-03-11 | 46 | 2 | 

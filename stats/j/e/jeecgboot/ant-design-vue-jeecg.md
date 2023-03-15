@@ -1,10 +1,10 @@
 # jeecgboot/ant-design-vue-jeecg - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/jeecgboot/ant-design-vue-jeecg)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 119 | 148 | 
 | 2023-03-13 | 118 | 147 | 
 | 2023-03-12 | 115 | 147 | 
 | 2023-03-10 | 115 | 146 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 100 | 132 | 
 | 2023-02-15 | 100 | 132 | 
 | 2023-02-14 | 99 | 132 | 
-| 2023-02-13 | 98 | 131 | 
 

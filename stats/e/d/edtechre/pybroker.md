@@ -1,10 +1,10 @@
 # edtechre/pybroker - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 307
+★ Stars: 316
 
 [Open repository](https://github.com/edtechre/pybroker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 316 | 25 | 
 | 2023-03-13 | 307 | 24 | 
 | 2023-03-12 | 295 | 24 | 
 | 2023-03-11 | 291 | 24 | 

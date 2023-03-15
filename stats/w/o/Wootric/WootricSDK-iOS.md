@@ -1,6 +1,6 @@
 # Wootric/WootricSDK-iOS - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 15 | 23 | 
 | 2023-03-13 | 15 | 23 | 
 | 2023-03-12 | 15 | 23 | 
 | 2023-03-10 | 15 | 23 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 14 | 23 | 
 | 2023-02-15 | 14 | 23 | 
 | 2023-02-14 | 14 | 23 | 
-| 2023-02-13 | 14 | 23 | 
 

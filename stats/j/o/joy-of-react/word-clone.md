@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 14
 
-☋ Forks: 323
+☋ Forks: 324
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/joy-of-react/word-clone)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 29 | 323 | 
+| 2023-03-14 | 30 | 324 | 
 | 2023-03-13 | 27 | 320 | 
 | 2023-03-12 | 27 | 312 | 
 | 2023-03-11 | 26 | 308 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 15 | 186 | 
 | 2023-02-15 | 15 | 180 | 
 | 2023-02-13 | 15 | 175 | 
-| 2023-02-12 | 15 | 170 | 
 

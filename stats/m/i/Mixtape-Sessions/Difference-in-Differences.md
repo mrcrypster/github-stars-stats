@@ -1,8 +1,8 @@
 # Mixtape-Sessions/Difference-in-Differences - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 32 | 60 | 
 | 2023-03-13 | 32 | 59 | 
 | 2023-03-12 | 32 | 59 | 
 | 2023-03-11 | 32 | 59 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 32 | 58 | 
 | 2023-02-14 | 32 | 58 | 
 | 2023-02-13 | 32 | 58 | 
-| 2023-02-12 | 32 | 58 | 
 

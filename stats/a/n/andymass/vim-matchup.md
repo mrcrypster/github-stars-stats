@@ -1,10 +1,10 @@
 # andymass/vim-matchup - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 46
 
-★ Stars: 1324
+★ Stars: 1323
 
 [Open repository](https://github.com/andymass/vim-matchup)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1323 | 46 | 
 | 2023-03-13 | 1324 | 46 | 
 | 2023-03-11 | 1324 | 46 | 
 | 2023-03-10 | 1323 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1306 | 45 | 
 | 2023-02-14 | 1303 | 45 | 
 | 2023-02-13 | 1303 | 45 | 
-| 2023-02-12 | 1302 | 45 | 
 

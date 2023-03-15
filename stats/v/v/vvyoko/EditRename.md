@@ -1,6 +1,6 @@
 # vvyoko/EditRename - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 118 | 3 | 
 | 2023-03-13 | 118 | 3 | 
 | 2023-03-11 | 118 | 3 | 
 | 2023-03-10 | 118 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 106 | 3 | 
 | 2023-02-14 | 105 | 3 | 
 | 2023-02-13 | 104 | 3 | 
-| 2023-02-12 | 104 | 3 | 
 

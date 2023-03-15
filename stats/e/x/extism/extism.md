@@ -1,6 +1,6 @@
 # extism/extism - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1771 | 46 | 
 | 2023-03-13 | 1771 | 46 | 
 | 2023-03-11 | 1769 | 46 | 
 | 2023-03-10 | 1768 | 46 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1668 | 44 | 
 | 2023-02-14 | 1664 | 44 | 
 | 2023-02-13 | 1656 | 44 | 
-| 2023-02-12 | 1655 | 44 | 
 

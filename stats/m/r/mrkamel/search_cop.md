@@ -1,6 +1,6 @@
 # mrkamel/search_cop - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 778 | 36 | 
 | 2023-03-13 | 778 | 36 | 
 | 2023-03-12 | 778 | 36 | 
 | 2023-03-11 | 778 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 778 | 37 | 
 | 2023-02-15 | 778 | 37 | 
 | 2023-02-14 | 778 | 37 | 
-| 2023-02-13 | 778 | 37 | 
 

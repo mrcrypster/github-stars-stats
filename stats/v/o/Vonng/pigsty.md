@@ -1,10 +1,10 @@
 # Vonng/pigsty - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 135
 
-★ Stars: 1018
+★ Stars: 1029
 
 [Open repository](https://github.com/Vonng/pigsty)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1029 | 135 | 
 | 2023-03-12 | 1018 | 135 | 
 | 2023-03-11 | 1016 | 135 | 
 | 2023-03-10 | 1009 | 135 | 

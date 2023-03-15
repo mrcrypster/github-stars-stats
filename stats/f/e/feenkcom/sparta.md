@@ -1,6 +1,6 @@
 # feenkcom/sparta - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 32 | 7 | 
+| 2023-03-14 | 32 | 7 | 
 | 2023-03-13 | 32 | 7 | 
 | 2023-03-12 | 32 | 7 | 
 | 2023-03-11 | 32 | 7 | 
@@ -39,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 29 | 7 | 
 | 2023-02-14 | 29 | 7 | 
 | 2023-02-13 | 29 | 7 | 
-| 2023-02-12 | 29 | 7 | 
 

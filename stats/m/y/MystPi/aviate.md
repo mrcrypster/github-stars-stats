@@ -1,10 +1,10 @@
 # MystPi/aviate - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/MystPi/aviate)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 18 | 4 | 
 | 2023-03-13 | 17 | 4 | 
 | 2023-03-11 | 17 | 4 | 
 | 2023-03-10 | 15 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 15 | 2 | 
 | 2023-02-15 | 14 | 2 | 
 | 2023-02-14 | 14 | 2 | 
-| 2023-02-13 | 14 | 2 | 
 

@@ -1,6 +1,6 @@
 # nestybox/dockerfiles - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 26 | 19 | 
 | 2023-03-13 | 26 | 19 | 
 | 2023-03-11 | 26 | 19 | 
 | 2023-03-10 | 26 | 19 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 24 | 19 | 
 | 2023-02-14 | 24 | 19 | 
 | 2023-02-13 | 24 | 19 | 
-| 2023-02-12 | 24 | 19 | 
 

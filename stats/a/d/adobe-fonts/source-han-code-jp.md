@@ -1,6 +1,6 @@
 # adobe-fonts/source-han-code-jp - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1529 | 53 | 
 | 2023-03-13 | 1529 | 53 | 
 | 2023-03-12 | 1528 | 53 | 
 | 2023-03-10 | 1526 | 53 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1514 | 53 | 
 | 2023-02-14 | 1514 | 53 | 
 | 2023-02-13 | 1514 | 53 | 
-| 2023-02-12 | 1516 | 53 | 
 

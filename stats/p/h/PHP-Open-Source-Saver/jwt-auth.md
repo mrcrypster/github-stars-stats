@@ -1,6 +1,6 @@
 # PHP-Open-Source-Saver/jwt-auth - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 560 | 84 | 
 | 2023-03-13 | 560 | 84 | 
 | 2023-03-11 | 560 | 84 | 
 | 2023-03-10 | 560 | 83 | 

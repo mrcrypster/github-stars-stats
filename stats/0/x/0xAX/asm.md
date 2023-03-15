@@ -1,8 +1,8 @@
 # 0xAX/asm - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 270
+☋ Forks: 271
 
 ★ Stars: 1843
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1843 | 271 | 
 | 2023-03-13 | 1843 | 270 | 
 | 2023-03-12 | 1843 | 270 | 
 | 2023-03-11 | 1842 | 270 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1835 | 269 | 
 | 2023-02-15 | 1835 | 269 | 
 | 2023-02-14 | 1836 | 269 | 
-| 2023-02-12 | 1836 | 269 | 
 

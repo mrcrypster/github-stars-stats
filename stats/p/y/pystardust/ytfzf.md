@@ -1,10 +1,10 @@
 # pystardust/ytfzf - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 269
+☋ Forks: 275
 
-★ Stars: 3083
+★ Stars: 3085
 
 [Open repository](https://github.com/pystardust/ytfzf)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3085 | 275 | 
 | 2023-03-13 | 3083 | 269 | 
 | 2023-03-12 | 3077 | 268 | 
 | 2023-03-11 | 3076 | 268 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3034 | 222 | 
 | 2023-02-15 | 3031 | 219 | 
 | 2023-02-14 | 3031 | 218 | 
-| 2023-02-13 | 3029 | 218 | 
 

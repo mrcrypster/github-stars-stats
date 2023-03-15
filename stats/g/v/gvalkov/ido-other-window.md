@@ -1,6 +1,6 @@
 # gvalkov/ido-other-window - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4 | 3 | 
 | 2023-03-12 | 4 | 3 | 
 | 2023-03-11 | 4 | 3 | 
 | 2023-03-10 | 4 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 4 | 3 | 
 | 2023-02-14 | 4 | 3 | 
 | 2023-02-13 | 4 | 3 | 
-| 2023-02-12 | 4 | 3 | 
 

@@ -1,6 +1,6 @@
 # wctsai20002/navicat-refresh - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 149 | 84 | 
 | 2023-03-13 | 149 | 84 | 
 | 2023-03-12 | 149 | 85 | 
 | 2023-03-10 | 149 | 85 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 147 | 83 | 
 | 2023-02-14 | 146 | 83 | 
 | 2023-02-13 | 145 | 82 | 
-| 2023-02-12 | 146 | 82 | 
 

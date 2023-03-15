@@ -1,10 +1,10 @@
 # john-smilga/react-projects - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 3357
+☋ Forks: 3364
 
-★ Stars: 3397
+★ Stars: 3410
 
 [Open repository](https://github.com/john-smilga/react-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3410 | 3364 | 
 | 2023-03-13 | 3397 | 3357 | 
 | 2023-03-12 | 3396 | 3356 | 
 | 2023-03-11 | 3393 | 3355 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3129 | 3238 | 
 | 2023-02-14 | 3117 | 3225 | 
 | 2023-02-13 | 3111 | 3222 | 
-| 2023-02-12 | 3104 | 3220 | 
 

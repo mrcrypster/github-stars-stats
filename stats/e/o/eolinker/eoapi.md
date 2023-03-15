@@ -1,10 +1,10 @@
 # eolinker/eoapi - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 284
+☋ Forks: 312
 
-★ Stars: 2016
+★ Stars: 2203
 
 [Open repository](https://github.com/eolinker/eoapi)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2203 | 312 | 
 | 2023-03-13 | 2016 | 284 | 
 | 2023-03-12 | 1857 | 259 | 
 | 2023-03-11 | 1716 | 249 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1267 | 176 | 
 | 2023-02-15 | 1262 | 175 | 
 | 2023-02-14 | 1258 | 175 | 
-| 2023-02-13 | 1255 | 175 | 
 

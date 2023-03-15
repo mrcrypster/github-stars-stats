@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 14
 
 ☋ Forks: 114
 
-★ Stars: 2180
+★ Stars: 2181
 
 [Open repository](https://github.com/Aliucord/Aliucord)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 2180 | 114 | 
+| 2023-03-14 | 2181 | 114 | 
 | 2023-03-13 | 2180 | 114 | 
 | 2023-03-12 | 2177 | 115 | 
 | 2023-03-11 | 2172 | 115 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-15 | 2130 | 114 | 
 | 2023-02-14 | 2131 | 114 | 
 | 2023-02-13 | 2129 | 114 | 
-| 2023-02-12 | 2124 | 113 | 
 

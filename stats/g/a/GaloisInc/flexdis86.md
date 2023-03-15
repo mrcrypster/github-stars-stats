@@ -1,10 +1,10 @@
 # GaloisInc/flexdis86 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 8
+☋ Forks: 10
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/GaloisInc/flexdis86)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 33 | 10 | 
 | 2023-03-13 | 31 | 8 | 
 | 2023-03-12 | 31 | 8 | 
 | 2023-03-10 | 31 | 8 | 

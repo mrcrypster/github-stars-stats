@@ -1,10 +1,10 @@
 # JuliaInterop/ObjectiveC.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 11
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/JuliaInterop/ObjectiveC.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 39 | 11 | 
 | 2023-03-13 | 37 | 11 | 
 | 2023-03-12 | 37 | 11 | 
 | 2023-03-11 | 37 | 11 | 

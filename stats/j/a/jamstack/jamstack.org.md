@@ -1,8 +1,8 @@
 # jamstack/jamstack.org - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 598
+☋ Forks: 600
 
 ★ Stars: 2529
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2529 | 600 | 
 | 2023-03-13 | 2529 | 598 | 
 | 2023-03-12 | 2529 | 597 | 
 | 2023-03-11 | 2528 | 597 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2501 | 596 | 
 | 2023-02-15 | 2500 | 596 | 
 | 2023-02-14 | 2500 | 596 | 
-| 2023-02-13 | 2500 | 599 | 
 

@@ -1,10 +1,10 @@
 # sindresorhus/github-markdown-css - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2120
 
-★ Stars: 6890
+★ Stars: 6898
 
 [Open repository](https://github.com/sindresorhus/github-markdown-css)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 6898 | 2120 | 
 | 2023-03-13 | 6890 | 2120 | 
 | 2023-03-12 | 6887 | 2119 | 
 | 2023-03-11 | 6886 | 2120 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 6820 | 2106 | 
 | 2023-02-14 | 6821 | 2105 | 
 | 2023-02-13 | 6814 | 2105 | 
-| 2023-02-12 | 6810 | 2104 | 
 

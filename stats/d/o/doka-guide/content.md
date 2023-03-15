@@ -1,10 +1,10 @@
 # doka-guide/content - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 446
+☋ Forks: 447
 
-★ Stars: 838
+★ Stars: 840
 
 [Open repository](https://github.com/doka-guide/content)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 840 | 447 | 
 | 2023-03-13 | 838 | 446 | 
 | 2023-03-12 | 838 | 448 | 
 | 2023-03-10 | 838 | 445 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 817 | 433 | 
 | 2023-02-15 | 818 | 434 | 
 | 2023-02-14 | 817 | 433 | 
-| 2023-02-12 | 817 | 431 | 
 

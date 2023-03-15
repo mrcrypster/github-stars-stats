@@ -1,10 +1,10 @@
 # HariSekhon/DevOps-Perl-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 41
+☋ Forks: 43
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/HariSekhon/DevOps-Perl-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 79 | 43 | 
 | 2023-03-13 | 78 | 41 | 
 | 2023-03-11 | 78 | 41 | 
 | 2023-03-10 | 78 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 78 | 41 | 
 | 2023-02-14 | 78 | 41 | 
 | 2023-02-13 | 78 | 41 | 
-| 2023-02-12 | 78 | 41 | 
 

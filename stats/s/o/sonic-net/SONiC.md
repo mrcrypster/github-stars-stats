@@ -1,10 +1,10 @@
 # sonic-net/SONiC - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 965
 
-★ Stars: 1748
+★ Stars: 1750
 
 [Open repository](https://github.com/sonic-net/SONiC)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1750 | 965 | 
 | 2023-03-13 | 1748 | 965 | 
 | 2023-03-11 | 1748 | 965 | 
 | 2023-03-10 | 1747 | 965 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1726 | 950 | 
 | 2023-02-14 | 1724 | 949 | 
 | 2023-02-13 | 1724 | 946 | 
-| 2023-02-12 | 1724 | 945 | 
 

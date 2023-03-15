@@ -1,10 +1,10 @@
 # LloydLabs/shellcode-plain-sight - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 16
 
-★ Stars: 121
+★ Stars: 124
 
 [Open repository](https://github.com/LloydLabs/shellcode-plain-sight)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 124 | 16 | 
 | 2023-03-13 | 121 | 16 | 
 | 2023-03-12 | 121 | 16 | 
 | 2023-03-10 | 120 | 16 | 

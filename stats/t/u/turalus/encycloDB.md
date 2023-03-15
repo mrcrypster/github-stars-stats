@@ -1,6 +1,6 @@
 # turalus/encycloDB - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 149 | 75 | 
 | 2023-03-13 | 149 | 75 | 
 | 2023-03-11 | 149 | 75 | 
 | 2023-03-10 | 148 | 74 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 149 | 76 | 
 | 2023-02-14 | 148 | 76 | 
 | 2023-02-13 | 148 | 76 | 
-| 2023-02-12 | 148 | 77 | 
 

@@ -1,8 +1,8 @@
 # wdluft/getting-and-cleaning-data-week-4-project - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | - | 53 | 
 | 2023-03-13 | - | 52 | 
 | 2023-03-12 | - | 52 | 
 | 2023-03-10 | - | 52 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | - | 51 | 
 | 2023-02-15 | - | 51 | 
 | 2023-02-14 | - | 51 | 
-| 2023-02-12 | - | 51 | 
 

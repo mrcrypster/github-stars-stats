@@ -1,10 +1,10 @@
 # leminlimez/SecondHand - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/leminlimez/SecondHand)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 28 | 1 | 
 | 2023-03-13 | 27 | 1 | 
 | 2023-03-12 | 25 | 1 | 
 | 2023-03-11 | 24 | 1 | 

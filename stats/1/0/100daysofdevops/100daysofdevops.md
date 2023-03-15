@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 14
 
-☋ Forks: 754
+☋ Forks: 755
 
-★ Stars: 839
+★ Stars: 844
 
 [Open repository](https://github.com/100daysofdevops/100daysofdevops)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 839 | 754 | 
+| 2023-03-14 | 844 | 755 | 
 | 2023-03-13 | 839 | 754 | 
 | 2023-03-12 | 837 | 749 | 
 | 2023-03-11 | 827 | 746 | 
@@ -40,5 +40,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-15 | 791 | 723 | 
 | 2023-02-14 | 791 | 722 | 
 | 2023-02-13 | 787 | 722 | 
-| 2023-02-12 | 783 | 722 | 
 

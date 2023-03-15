@@ -1,10 +1,10 @@
 # tsl0922/ttyd - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 711
+☋ Forks: 713
 
-★ Stars: 5771
+★ Stars: 5921
 
 [Open repository](https://github.com/tsl0922/ttyd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5921 | 713 | 
 | 2023-03-13 | 5771 | 711 | 
 | 2023-03-12 | 5727 | 709 | 
 | 2023-03-11 | 5713 | 709 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5366 | 693 | 
 | 2023-02-14 | 5363 | 692 | 
 | 2023-02-13 | 5361 | 692 | 
-| 2023-02-12 | 5357 | 692 | 
 

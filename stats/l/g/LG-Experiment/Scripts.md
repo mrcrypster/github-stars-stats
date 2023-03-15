@@ -1,10 +1,10 @@
 # LG-Experiment/Scripts - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 138
+★ Stars: 141
 
 [Open repository](https://github.com/LG-Experiment/Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 141 | 53 | 
 | 2023-03-12 | 138 | 52 | 
 | 2023-03-11 | 133 | 51 | 
 | 2023-03-09 | 130 | 49 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 70 | 20 | 
 | 2023-02-14 | 63 | 20 | 
 | 2023-02-13 | 58 | 17 | 
-| 2023-02-12 | 48 | 14 | 
 

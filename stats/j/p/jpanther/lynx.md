@@ -1,10 +1,10 @@
 # jpanther/lynx - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/jpanther/lynx)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 161 | 52 | 
 | 2023-03-13 | 160 | 51 | 
 | 2023-03-11 | 160 | 51 | 
 | 2023-03-10 | 160 | 51 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 150 | 50 | 
 | 2023-02-14 | 148 | 49 | 
 | 2023-02-13 | 148 | 49 | 
-| 2023-02-12 | 148 | 48 | 
 

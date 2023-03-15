@@ -1,6 +1,6 @@
 # eserozvataf/hayalet-sevgilim-sarki-sozleri - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 557 | 77 | 
 | 2023-03-13 | 557 | 77 | 
 | 2023-03-11 | 558 | 77 | 
 | 2023-03-10 | 559 | 77 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 559 | 78 | 
 | 2023-02-14 | 560 | 78 | 
 | 2023-02-13 | 560 | 78 | 
-| 2023-02-12 | 559 | 78 | 
 

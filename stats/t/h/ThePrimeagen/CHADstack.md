@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/ThePrimeagen/CHADstack)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 80 | 3 | 
+| 2023-03-14 | 81 | 3 | 
 | 2023-03-13 | 79 | 3 | 
 | 2023-03-12 | 73 | 3 | 
 | 2023-03-10 | 71 | 3 | 

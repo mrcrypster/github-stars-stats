@@ -1,10 +1,10 @@
 # docker-library/httpd - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 348
+☋ Forks: 350
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/docker-library/httpd)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 276 | 350 | 
 | 2023-03-13 | 275 | 348 | 
 | 2023-03-12 | 275 | 348 | 
 | 2023-03-11 | 275 | 348 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 271 | 346 | 
 | 2023-02-15 | 271 | 346 | 
 | 2023-02-14 | 270 | 346 | 
-| 2023-02-12 | 270 | 346 | 
 

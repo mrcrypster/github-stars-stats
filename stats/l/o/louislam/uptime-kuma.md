@@ -1,10 +1,10 @@
 # louislam/uptime-kuma - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 2598
+☋ Forks: 2602
 
-★ Stars: 30681
+★ Stars: 30738
 
 [Open repository](https://github.com/louislam/uptime-kuma)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 30738 | 2602 | 
 | 2023-03-13 | 30681 | 2598 | 
 | 2023-03-11 | 30658 | 2596 | 
 | 2023-03-10 | 30622 | 2593 | 

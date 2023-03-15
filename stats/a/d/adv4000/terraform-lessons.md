@@ -1,6 +1,6 @@
 # adv4000/terraform-lessons - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 173 | 169 | 
 | 2023-03-13 | 173 | 169 | 
 | 2023-03-12 | 173 | 169 | 
 | 2023-03-11 | 173 | 168 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 171 | 166 | 
 | 2023-02-14 | 171 | 166 | 
 | 2023-02-13 | 171 | 166 | 
-| 2023-02-12 | 171 | 166 | 
 

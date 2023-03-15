@@ -1,6 +1,6 @@
 # TIHan/Oly - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 39 | 1 | 
 | 2023-03-13 | 39 | 1 | 
 | 2023-03-12 | 39 | 1 | 
 | 2023-03-11 | 39 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 36 | 1 | 
 | 2023-02-14 | 36 | 1 | 
 | 2023-02-13 | 35 | 1 | 
-| 2023-02-12 | 35 | 1 | 
 

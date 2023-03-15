@@ -1,10 +1,10 @@
 # PabloMK7/ENLBufferPwn - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 13
 
-★ Stars: 251
+★ Stars: 253
 
 [Open repository](https://github.com/PabloMK7/ENLBufferPwn)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 253 | 13 | 
 | 2023-03-13 | 251 | 13 | 
 | 2023-03-12 | 250 | 13 | 
 | 2023-03-11 | 249 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 220 | 12 | 
 | 2023-02-14 | 220 | 12 | 
 | 2023-02-13 | 219 | 12 | 
-| 2023-02-12 | 219 | 12 | 
 

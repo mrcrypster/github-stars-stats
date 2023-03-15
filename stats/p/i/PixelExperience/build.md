@@ -1,10 +1,10 @@
 # PixelExperience/build - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 59
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/PixelExperience/build)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 14 | 59 | 
 | 2023-03-13 | 15 | 59 | 
 | 2023-03-11 | 15 | 60 | 
 | 2023-03-10 | 15 | 60 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 16 | 58 | 
 | 2023-02-14 | 16 | 58 | 
 | 2023-02-13 | 16 | 58 | 
-| 2023-02-12 | 16 | 58 | 
 

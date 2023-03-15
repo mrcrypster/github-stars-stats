@@ -1,10 +1,10 @@
 # ucoruh/ce103-algorithms-and-programming-I - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/ucoruh/ce103-algorithms-and-programming-I)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 10 | 6 | 
 | 2023-03-13 | 11 | 6 | 
 | 2023-03-11 | 11 | 6 | 
 | 2023-03-10 | 11 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 11 | 6 | 
 | 2023-02-15 | 11 | 6 | 
 | 2023-02-14 | 11 | 6 | 
-| 2023-02-13 | 11 | 6 | 
 

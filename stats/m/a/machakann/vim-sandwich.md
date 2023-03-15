@@ -1,10 +1,10 @@
 # machakann/vim-sandwich - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 34
 
-★ Stars: 1278
+★ Stars: 1279
 
 [Open repository](https://github.com/machakann/vim-sandwich)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1279 | 34 | 
 | 2023-03-13 | 1278 | 34 | 
 | 2023-03-11 | 1277 | 34 | 
 | 2023-03-10 | 1278 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1258 | 32 | 
 | 2023-02-14 | 1256 | 32 | 
 | 2023-02-13 | 1255 | 32 | 
-| 2023-02-12 | 1255 | 32 | 
 

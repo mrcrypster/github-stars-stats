@@ -1,10 +1,10 @@
 # elazarl/goproxy - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 985
 
-★ Stars: 5297
+★ Stars: 5303
 
 [Open repository](https://github.com/elazarl/goproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5303 | 985 | 
 | 2023-03-13 | 5297 | 985 | 
 | 2023-03-12 | 5297 | 986 | 
 | 2023-03-11 | 5294 | 986 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5247 | 978 | 
 | 2023-02-14 | 5245 | 978 | 
 | 2023-02-13 | 5245 | 978 | 
-| 2023-02-12 | 5243 | 977 | 
 

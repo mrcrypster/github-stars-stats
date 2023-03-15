@@ -1,6 +1,6 @@
 # adi1090x/rofi - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4907 | 230 | 
 | 2023-03-13 | 4907 | 230 | 
 | 2023-03-12 | 4898 | 229 | 
 | 2023-03-11 | 4898 | 230 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4808 | 228 | 
 | 2023-02-14 | 4801 | 228 | 
 | 2023-02-13 | 4799 | 228 | 
-| 2023-02-12 | 4795 | 228 | 
 

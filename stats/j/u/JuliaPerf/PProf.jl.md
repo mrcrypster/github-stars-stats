@@ -1,8 +1,8 @@
 # JuliaPerf/PProf.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 129
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 129 | 18 | 
 | 2023-03-13 | 129 | 17 | 
 | 2023-03-12 | 129 | 17 | 
 | 2023-03-11 | 129 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 128 | 18 | 
 | 2023-02-14 | 128 | 18 | 
 | 2023-02-13 | 128 | 18 | 
-| 2023-02-12 | 128 | 18 | 
 

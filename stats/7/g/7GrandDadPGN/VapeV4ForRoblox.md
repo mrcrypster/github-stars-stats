@@ -1,10 +1,10 @@
 # 7GrandDadPGN/VapeV4ForRoblox - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 271
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/7GrandDadPGN/VapeV4ForRoblox)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 103 | 271 | 
 | 2023-03-13 | 102 | 271 | 
 | 2023-03-12 | 102 | 269 | 
 | 2023-03-11 | 101 | 268 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 98 | 254 | 
 | 2023-02-14 | 98 | 252 | 
 | 2023-02-13 | 98 | 252 | 
-| 2023-02-12 | 96 | 253 | 
 

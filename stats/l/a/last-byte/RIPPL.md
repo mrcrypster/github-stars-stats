@@ -1,6 +1,6 @@
 # last-byte/RIPPL - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 223 | 35 | 
 | 2023-03-13 | 223 | 35 | 
 | 2023-03-11 | 223 | 35 | 
 | 2023-03-10 | 223 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 222 | 35 | 
 | 2023-02-14 | 222 | 35 | 
 | 2023-02-13 | 222 | 35 | 
-| 2023-02-12 | 222 | 35 | 
 

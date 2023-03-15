@@ -1,6 +1,6 @@
 # huntabyte/showcase - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 37 | 14 | 
 | 2023-03-13 | 37 | 14 | 
 | 2023-03-11 | 37 | 13 | 
 | 2023-03-10 | 37 | 13 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 35 | 13 | 
 | 2023-02-15 | 35 | 13 | 
 | 2023-02-14 | 35 | 13 | 
-| 2023-02-12 | 35 | 13 | 
 

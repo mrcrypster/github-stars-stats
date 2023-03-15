@@ -1,10 +1,10 @@
 # codeSTACKr/minter-dapp - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3306
 
-★ Stars: 1923
+★ Stars: 1924
 
 [Open repository](https://github.com/codeSTACKr/minter-dapp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1924 | 3306 | 
 | 2023-03-13 | 1923 | 3306 | 
 | 2023-03-12 | 1921 | 3305 | 
 | 2023-03-11 | 1921 | 3305 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1903 | 3273 | 
 | 2023-02-14 | 1902 | 3271 | 
 | 2023-02-13 | 1902 | 3272 | 
-| 2023-02-12 | 1900 | 3271 | 
 

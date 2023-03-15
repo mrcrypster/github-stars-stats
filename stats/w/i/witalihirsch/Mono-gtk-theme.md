@@ -1,10 +1,10 @@
 # witalihirsch/Mono-gtk-theme - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 19
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/witalihirsch/Mono-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 311 | 19 | 
 | 2023-03-13 | 310 | 19 | 
 | 2023-03-12 | 310 | 19 | 
 | 2023-03-10 | 309 | 19 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 306 | 17 | 
 | 2023-02-15 | 307 | 16 | 
 | 2023-02-14 | 306 | 16 | 
-| 2023-02-12 | 304 | 16 | 
 

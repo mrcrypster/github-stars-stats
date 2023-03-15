@@ -1,6 +1,6 @@
 # andresgamboaa/goduz - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 104 | 1 | 
 | 2023-03-13 | 104 | 1 | 
 | 2023-03-12 | 104 | 1 | 
 | 2023-03-11 | 104 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 104 | 1 | 
 | 2023-02-14 | 105 | 1 | 
 | 2023-02-13 | 105 | 1 | 
-| 2023-02-12 | 105 | 1 | 
 

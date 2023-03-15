@@ -1,6 +1,6 @@
 # Vimux/Mainroad - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 411
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 727 | 411 | 
 | 2023-03-13 | 727 | 411 | 
 | 2023-03-12 | 727 | 412 | 
 | 2023-03-11 | 727 | 413 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 717 | 409 | 
 | 2023-02-14 | 717 | 408 | 
 | 2023-02-13 | 717 | 408 | 
-| 2023-02-12 | 717 | 408 | 
 

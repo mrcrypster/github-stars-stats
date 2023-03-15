@@ -1,10 +1,10 @@
 # NVlabs/instant-ngp - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1426
+☋ Forks: 1429
 
-★ Stars: 11513
+★ Stars: 11524
 
 [Open repository](https://github.com/NVlabs/instant-ngp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 11524 | 1429 | 
 | 2023-03-13 | 11513 | 1426 | 
 | 2023-03-12 | 11499 | 1423 | 
 | 2023-03-11 | 11491 | 1421 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 11164 | 1361 | 
 | 2023-02-14 | 11154 | 1361 | 
 | 2023-02-13 | 11130 | 1357 | 
-| 2023-02-12 | 11116 | 1355 | 
 

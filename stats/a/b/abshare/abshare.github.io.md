@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/abshare/abshare.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 141 | 9 | 
+| 2023-03-14 | 142 | 9 | 
 | 2023-03-13 | 140 | 9 | 
 | 2023-03-12 | 129 | 8 | 
 | 2023-03-11 | 117 | 7 | 

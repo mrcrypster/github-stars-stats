@@ -1,10 +1,10 @@
 # RedHatOfficial/Overpass - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 87
 
-★ Stars: 1886
+★ Stars: 1887
 
 [Open repository](https://github.com/RedHatOfficial/Overpass)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1887 | 87 | 
 | 2023-03-13 | 1886 | 87 | 
 | 2023-03-11 | 1886 | 87 | 
 | 2023-03-10 | 1886 | 87 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1877 | 88 | 
 | 2023-02-14 | 1877 | 88 | 
 | 2023-02-13 | 1874 | 88 | 
-| 2023-02-12 | 1873 | 88 | 
 

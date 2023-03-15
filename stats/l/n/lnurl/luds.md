@@ -1,10 +1,10 @@
 # lnurl/luds - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 106
 
-★ Stars: 446
+★ Stars: 447
 
 [Open repository](https://github.com/lnurl/luds)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 447 | 106 | 
 | 2023-03-13 | 446 | 106 | 
 | 2023-03-11 | 446 | 105 | 
 | 2023-03-10 | 446 | 105 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 425 | 101 | 
 | 2023-02-14 | 425 | 101 | 
 | 2023-02-13 | 424 | 101 | 
-| 2023-02-12 | 424 | 100 | 
 

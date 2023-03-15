@@ -1,10 +1,10 @@
 # 0xbs/premade-groups-filter - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/0xbs/premade-groups-filter)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 59 | 29 | 
 | 2023-03-13 | 58 | 29 | 
 | 2023-03-12 | 58 | 29 | 
 | 2023-03-11 | 57 | 29 | 

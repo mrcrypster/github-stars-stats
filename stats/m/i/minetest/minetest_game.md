@@ -1,8 +1,8 @@
 # minetest/minetest_game - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 556
+☋ Forks: 555
 
 ★ Stars: 1293
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1293 | 555 | 
 | 2023-03-13 | 1293 | 556 | 
 | 2023-03-12 | 1292 | 556 | 
 | 2023-03-10 | 1291 | 555 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1288 | 554 | 
 | 2023-02-14 | 1289 | 554 | 
 | 2023-02-13 | 1289 | 553 | 
-| 2023-02-12 | 1289 | 553 | 
 

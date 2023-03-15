@@ -1,10 +1,10 @@
 # thesephist/hfm - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/thesephist/hfm)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 22 | - | 
 | 2023-03-13 | 23 | - | 
 | 2023-03-12 | 23 | - | 
 | 2023-03-10 | 23 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 22 | - | 
 | 2023-02-14 | 22 | - | 
 | 2023-02-13 | 22 | - | 
-| 2023-02-12 | 22 | - | 
 

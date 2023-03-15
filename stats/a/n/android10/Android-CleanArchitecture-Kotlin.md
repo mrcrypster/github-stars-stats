@@ -1,6 +1,6 @@
 # android10/Android-CleanArchitecture-Kotlin - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 877
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4343 | 877 | 
 | 2023-03-12 | 4343 | 877 | 
 | 2023-03-11 | 4340 | 877 | 
 | 2023-03-10 | 4340 | 876 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 4316 | 876 | 
 | 2023-02-14 | 4315 | 875 | 
 | 2023-02-13 | 4315 | 875 | 
-| 2023-02-12 | 4315 | 875 | 
 

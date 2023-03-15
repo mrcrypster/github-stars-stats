@@ -1,8 +1,8 @@
 # SciML/PDESystemLibrary.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 21 | 2 | 
 | 2023-03-13 | 21 | 1 | 
 | 2023-03-12 | 21 | 1 | 
 | 2023-03-10 | 21 | 1 | 

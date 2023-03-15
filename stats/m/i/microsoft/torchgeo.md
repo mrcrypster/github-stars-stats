@@ -1,10 +1,10 @@
 # microsoft/torchgeo - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 176
+☋ Forks: 177
 
-★ Stars: 1500
+★ Stars: 1503
 
 [Open repository](https://github.com/microsoft/torchgeo)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1503 | 177 | 
 | 2023-03-13 | 1500 | 176 | 
 | 2023-03-12 | 1498 | 175 | 
 | 2023-03-11 | 1497 | 175 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1450 | 170 | 
 | 2023-02-14 | 1448 | 169 | 
 | 2023-02-13 | 1446 | 167 | 
-| 2023-02-12 | 1446 | 167 | 
 

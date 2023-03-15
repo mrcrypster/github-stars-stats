@@ -1,8 +1,8 @@
 # Jude-Gideon/blooket-hacks - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 167
+☋ Forks: 169
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 53 | 169 | 
 | 2023-03-13 | 53 | 167 | 
 | 2023-03-12 | 53 | 166 | 
 | 2023-03-10 | 52 | 166 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 44 | 123 | 
 | 2023-02-15 | 44 | 121 | 
 | 2023-02-14 | 44 | 118 | 
-| 2023-02-12 | 44 | 115 | 
 

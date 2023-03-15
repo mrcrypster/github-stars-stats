@@ -1,10 +1,10 @@
 # bzgeb/Unity_URPSobelFilterOutlineFeature - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/bzgeb/Unity_URPSobelFilterOutlineFeature)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 9 | 2 | 
 | 2023-03-13 | 8 | 2 | 
 | 2023-03-12 | 8 | 2 | 
 | 2023-03-10 | 8 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 8 | 2 | 
 | 2023-02-15 | 8 | 2 | 
 | 2023-02-13 | 8 | 2 | 
-| 2023-02-12 | 8 | 2 | 
 

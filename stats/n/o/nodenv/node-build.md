@@ -1,6 +1,6 @@
 # nodenv/node-build - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 227 | 73 | 
 | 2023-03-13 | 227 | 73 | 
 | 2023-03-12 | 227 | 73 | 
 | 2023-03-10 | 228 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 229 | 73 | 
 | 2023-02-14 | 229 | 73 | 
 | 2023-02-13 | 229 | 73 | 
-| 2023-02-12 | 229 | 73 | 
 

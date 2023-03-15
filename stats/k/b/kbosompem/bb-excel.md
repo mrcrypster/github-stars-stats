@@ -1,10 +1,10 @@
 # kbosompem/bb-excel - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/kbosompem/bb-excel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 24 | 1 | 
 | 2023-03-12 | 23 | 1 | 
 | 2023-03-11 | 23 | 1 | 
 | 2023-03-10 | 23 | 1 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 23 | 1 | 
 | 2023-02-15 | 23 | 1 | 
 | 2023-02-14 | 23 | 1 | 
-| 2023-02-13 | 23 | 1 | 
 

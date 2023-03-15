@@ -1,10 +1,10 @@
 # python019/fullsc-scroll-ui.ux - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/python019/fullsc-scroll-ui.ux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 29 | 1 | 
 | 2023-03-13 | 30 | 1 | 
 | 2023-03-11 | 30 | 1 | 
 | 2023-03-10 | 30 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 29 | 1 | 
 | 2023-02-14 | 29 | 1 | 
 | 2023-02-13 | 28 | 1 | 
-| 2023-02-12 | 28 | 1 | 
 

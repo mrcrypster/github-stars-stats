@@ -1,10 +1,10 @@
 # italia/design-comuni-pagine-statiche - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/italia/design-comuni-pagine-statiche)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 14 | 18 | 
 | 2023-03-13 | 13 | 17 | 
 | 2023-03-12 | 13 | 17 | 
 | 2023-03-11 | 13 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 12 | 17 | 
 | 2023-02-14 | 12 | 17 | 
 | 2023-02-13 | 12 | 17 | 
-| 2023-02-12 | 12 | 17 | 
 

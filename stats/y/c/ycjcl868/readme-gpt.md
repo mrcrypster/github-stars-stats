@@ -1,10 +1,10 @@
 # ycjcl868/readme-gpt - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 150
+★ Stars: 153
 
 [Open repository](https://github.com/ycjcl868/readme-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 153 | 7 | 
 | 2023-03-13 | 150 | 7 | 
 | 2023-03-11 | 151 | 7 | 
 | 2023-03-10 | 152 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 123 | 6 | 
 | 2023-02-14 | 119 | 5 | 
 | 2023-02-13 | 111 | 5 | 
-| 2023-02-12 | 103 | 4 | 
 

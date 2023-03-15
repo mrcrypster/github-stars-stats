@@ -1,0 +1,18 @@
+# DataDog/udpfwd - stars & forks statistics
+
+Stats updated on Mar 2023, 15
+
+☋ Forks: 2
+
+★ Stars: 0
+
+[Open repository](https://github.com/DataDog/udpfwd)
+
+[Open detailed stats for DataDog/udpfwd](https://reviewgithub.com/rep/DataDog/udpfwd)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-03-15 | - | 2 | 
+| 2023-03-14 | - | 2 | 
+

@@ -1,10 +1,10 @@
 # mozilla/sccache - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 434
 
-★ Stars: 3982
+★ Stars: 3989
 
 [Open repository](https://github.com/mozilla/sccache)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3989 | 434 | 
 | 2023-03-13 | 3982 | 434 | 
 | 2023-03-12 | 3975 | 434 | 
 | 2023-03-11 | 3966 | 432 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3792 | 419 | 
 | 2023-02-14 | 3786 | 419 | 
 | 2023-02-13 | 3776 | 419 | 
-| 2023-02-12 | 3773 | 418 | 
 

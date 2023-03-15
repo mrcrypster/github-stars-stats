@@ -1,10 +1,10 @@
 # noahliechti/web3-interview-preparation - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 44
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/noahliechti/web3-interview-preparation)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 145 | 44 | 
 | 2023-03-12 | 144 | 44 | 
 | 2023-03-11 | 144 | 43 | 
 | 2023-03-10 | 143 | 43 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 141 | 43 | 
 | 2023-02-15 | 141 | 43 | 
 | 2023-02-14 | 141 | 43 | 
-| 2023-02-12 | 141 | 43 | 
 

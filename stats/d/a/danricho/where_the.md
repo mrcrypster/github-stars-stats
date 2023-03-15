@@ -1,10 +1,10 @@
 # danricho/where_the - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 61
+★ Stars: 60
 
 [Open repository](https://github.com/danricho/where_the)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 60 | - | 
 | 2023-03-13 | 61 | - | 
 | 2023-03-11 | 61 | - | 
 | 2023-03-10 | 61 | - | 

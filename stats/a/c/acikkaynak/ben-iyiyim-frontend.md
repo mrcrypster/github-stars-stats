@@ -1,6 +1,6 @@
 # acikkaynak/ben-iyiyim-frontend - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 36 | 13 | 
 | 2023-03-13 | 36 | 13 | 
 | 2023-03-12 | 36 | 13 | 
 | 2023-03-11 | 36 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 36 | 13 | 
 | 2023-02-14 | 36 | 13 | 
 | 2023-02-13 | 36 | 13 | 
-| 2023-02-12 | 36 | 13 | 
 

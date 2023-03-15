@@ -1,10 +1,10 @@
 # bumingbaipod/podcast - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 40
 
-★ Stars: 934
+★ Stars: 936
 
 [Open repository](https://github.com/bumingbaipod/podcast)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 936 | 40 | 
 | 2023-03-13 | 934 | 40 | 
 | 2023-03-12 | 929 | 40 | 
 | 2023-03-10 | 928 | 40 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 889 | 37 | 
 | 2023-02-15 | 883 | 38 | 
 | 2023-02-14 | 883 | 39 | 
-| 2023-02-13 | 880 | 39 | 
 

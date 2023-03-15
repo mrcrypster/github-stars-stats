@@ -1,6 +1,6 @@
 # radicle-dev/radicle-interface - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 63 | 23 | 
 | 2023-03-13 | 63 | 23 | 
 | 2023-03-12 | 62 | 23 | 
 | 2023-03-11 | 62 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 59 | 17 | 
 | 2023-02-15 | 59 | 17 | 
 | 2023-02-14 | 59 | 17 | 
-| 2023-02-12 | 59 | 17 | 
 

@@ -1,6 +1,6 @@
 # airhdl/spi-to-axi-bridge - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 20 | 3 | 
 | 2023-03-13 | 20 | 3 | 
 | 2023-03-12 | 19 | 4 | 
 | 2023-03-10 | 19 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 18 | 4 | 
 | 2023-02-14 | 18 | 4 | 
 | 2023-02-13 | 18 | 4 | 
-| 2023-02-12 | 18 | 4 | 
 

@@ -1,6 +1,6 @@
 # SoftSec-KAIST/Smartian - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 91 | 7 | 
 | 2023-03-12 | 91 | 7 | 
 | 2023-03-11 | 91 | 7 | 
 | 2023-03-10 | 91 | 7 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 83 | 7 | 
 | 2023-02-14 | 83 | 7 | 
 | 2023-02-13 | 83 | 7 | 
-| 2023-02-12 | 83 | 7 | 
 

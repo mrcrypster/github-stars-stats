@@ -1,6 +1,6 @@
 # eventmachine/eventmachine - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 649
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4213 | 649 | 
 | 2023-03-12 | 4213 | 649 | 
 | 2023-03-11 | 4212 | 649 | 
 | 2023-03-10 | 4212 | 649 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 4208 | 647 | 
 | 2023-02-14 | 4208 | 647 | 
 | 2023-02-13 | 4208 | 647 | 
-| 2023-02-12 | 4208 | 647 | 
 

@@ -1,10 +1,10 @@
 # RediSearch/RediSearch - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 437
 
-★ Stars: 4184
+★ Stars: 4185
 
 [Open repository](https://github.com/RediSearch/RediSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4185 | 437 | 
 | 2023-03-13 | 4184 | 437 | 
 | 2023-03-12 | 4183 | 437 | 
 | 2023-03-11 | 4182 | 437 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4107 | 434 | 
 | 2023-02-14 | 4105 | 434 | 
 | 2023-02-13 | 4101 | 434 | 
-| 2023-02-12 | 4099 | 434 | 
 

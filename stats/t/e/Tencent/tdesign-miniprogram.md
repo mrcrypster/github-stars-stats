@@ -1,10 +1,10 @@
 # Tencent/tdesign-miniprogram - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 153
+☋ Forks: 155
 
-★ Stars: 718
+★ Stars: 722
 
 [Open repository](https://github.com/Tencent/tdesign-miniprogram)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 722 | 155 | 
 | 2023-03-13 | 718 | 153 | 
 | 2023-03-12 | 716 | 153 | 
 | 2023-03-11 | 715 | 153 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 669 | 140 | 
 | 2023-02-14 | 661 | 140 | 
 | 2023-02-13 | 659 | 140 | 
-| 2023-02-12 | 653 | 139 | 
 

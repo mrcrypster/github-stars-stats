@@ -1,6 +1,6 @@
 # CodeforDAO/contracts - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 593 | 97 | 
 | 2023-03-12 | 593 | 97 | 
 | 2023-03-11 | 594 | 97 | 
 | 2023-03-10 | 594 | 97 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 589 | 97 | 
 | 2023-02-14 | 590 | 97 | 
 | 2023-02-13 | 590 | 97 | 
-| 2023-02-12 | 590 | 97 | 
 

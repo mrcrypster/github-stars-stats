@@ -1,10 +1,10 @@
 # ProgrammingHero1/legal-solution-resources - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 9
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/ProgrammingHero1/legal-solution-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 33 | 9 | 
 | 2023-03-13 | 34 | 9 | 
 | 2023-03-12 | 34 | 9 | 
 | 2023-03-10 | 34 | 9 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 33 | 8 | 
 | 2023-02-14 | 31 | 8 | 
 | 2023-02-13 | 31 | 8 | 
-| 2023-02-12 | 31 | 8 | 
 

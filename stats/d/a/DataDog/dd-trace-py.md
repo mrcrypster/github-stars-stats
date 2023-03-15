@@ -1,10 +1,10 @@
 # DataDog/dd-trace-py - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 338
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/DataDog/dd-trace-py)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 393 | 338 | 
 | 2023-03-13 | 392 | 338 | 
 | 2023-03-11 | 392 | 338 | 
 | 2023-03-10 | 392 | 337 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 385 | 329 | 
 | 2023-02-15 | 385 | 328 | 
 | 2023-02-14 | 384 | 327 | 
-| 2023-02-12 | 384 | 327 | 
 

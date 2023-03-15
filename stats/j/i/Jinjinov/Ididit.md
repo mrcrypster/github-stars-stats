@@ -1,6 +1,6 @@
 # Jinjinov/Ididit - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 121 | 20 | 
 | 2023-03-12 | 121 | 20 | 
 | 2023-03-11 | 122 | 20 | 
 | 2023-03-10 | 121 | 20 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 117 | 18 | 
 | 2023-02-14 | 117 | 18 | 
 | 2023-02-13 | 117 | 18 | 
-| 2023-02-12 | 116 | 18 | 
 

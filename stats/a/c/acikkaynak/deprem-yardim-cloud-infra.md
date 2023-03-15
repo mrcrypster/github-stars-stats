@@ -1,6 +1,6 @@
 # acikkaynak/deprem-yardim-cloud-infra - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 16 | 8 | 
 | 2023-03-13 | 16 | 8 | 
 | 2023-03-12 | 16 | 8 | 
 | 2023-03-10 | 16 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 12 | 7 | 
 | 2023-02-14 | 12 | 7 | 
 | 2023-02-13 | 11 | 7 | 
-| 2023-02-12 | 10 | 6 | 
 

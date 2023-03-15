@@ -1,6 +1,6 @@
 # mCaptcha/mCaptcha - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 875 | 28 | 
 | 2023-03-13 | 875 | 28 | 
 | 2023-03-12 | 875 | 28 | 
 | 2023-03-11 | 875 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 866 | 28 | 
 | 2023-02-14 | 863 | 27 | 
 | 2023-02-13 | 863 | 27 | 
-| 2023-02-12 | 863 | 27 | 
 

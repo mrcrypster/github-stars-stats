@@ -1,6 +1,6 @@
 # YAcademy-Residents/Solidity-Proxy-Playground - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 30 | 2 | 
 | 2023-03-12 | 30 | 2 | 
 | 2023-03-11 | 30 | 2 | 
 | 2023-03-10 | 30 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 27 | 2 | 
 | 2023-02-14 | 26 | 2 | 
 | 2023-02-13 | 26 | 2 | 
-| 2023-02-12 | 25 | 2 | 
 

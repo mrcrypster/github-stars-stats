@@ -1,6 +1,6 @@
 # blawar/ooot - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 672 | 96 | 
 | 2023-03-13 | 672 | 96 | 
 | 2023-03-12 | 671 | 96 | 
 | 2023-03-10 | 670 | 96 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 662 | 96 | 
 | 2023-02-14 | 662 | 96 | 
 | 2023-02-13 | 661 | 96 | 
-| 2023-02-12 | 661 | 96 | 
 

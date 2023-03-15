@@ -1,10 +1,10 @@
 # AdAway/AdAway - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 489
+☋ Forks: 490
 
-★ Stars: 5100
+★ Stars: 5101
 
 [Open repository](https://github.com/AdAway/AdAway)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5101 | 490 | 
 | 2023-03-13 | 5100 | 489 | 
 | 2023-03-12 | 5093 | 489 | 
 | 2023-03-10 | 5089 | 489 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4999 | 490 | 
 | 2023-02-14 | 4999 | 490 | 
 | 2023-02-13 | 4994 | 490 | 
-| 2023-02-12 | 4987 | 490 | 
 

@@ -1,10 +1,10 @@
 # illright/attractions - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 28
 
-★ Stars: 830
+★ Stars: 833
 
 [Open repository](https://github.com/illright/attractions)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 833 | 28 | 
 | 2023-03-13 | 830 | 28 | 
 | 2023-03-11 | 830 | 28 | 
 | 2023-03-10 | 828 | 28 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 811 | 28 | 
 | 2023-02-14 | 812 | 28 | 
 | 2023-02-13 | 809 | 28 | 
-| 2023-02-12 | 808 | 28 | 
 

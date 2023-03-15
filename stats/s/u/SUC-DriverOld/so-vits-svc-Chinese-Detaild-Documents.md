@@ -1,10 +1,10 @@
 # SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 21
 
-★ Stars: 67
+★ Stars: 71
 
 [Open repository](https://github.com/SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents)
 
@@ -13,5 +13,6 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 71 | 21 | 
 | 2023-03-13 | 67 | 21 | 
 

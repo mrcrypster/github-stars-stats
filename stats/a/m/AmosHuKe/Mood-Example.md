@@ -1,6 +1,6 @@
 # AmosHuKe/Mood-Example - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 174 | 26 | 
 | 2023-03-12 | 174 | 26 | 
 | 2023-03-11 | 174 | 25 | 
 | 2023-03-10 | 173 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 162 | 24 | 
 | 2023-02-14 | 162 | 24 | 
 | 2023-02-13 | 161 | 24 | 
-| 2023-02-12 | 159 | 24 | 
 

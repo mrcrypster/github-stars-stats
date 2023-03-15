@@ -1,6 +1,6 @@
 # rescript-lang/rescript-compiler - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 422
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 6076 | 422 | 
 | 2023-03-13 | 6076 | 422 | 
 | 2023-03-12 | 6076 | 422 | 
 | 2023-03-11 | 6076 | 422 | 
@@ -41,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 6057 | 420 | 
 | 2023-02-14 | 6053 | 420 | 
 | 2023-02-13 | 6051 | 420 | 
-| 2023-02-12 | 6051 | 419 | 
 

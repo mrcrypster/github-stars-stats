@@ -1,8 +1,8 @@
 # Rj-oyehoyev/ngrok-rdp - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 21
+☋ Forks: 23
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | - | 23 | 
 | 2023-03-13 | - | 21 | 
 | 2023-03-11 | - | 20 | 
 | 2023-03-10 | - | 20 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | - | 17 | 
 | 2023-02-14 | - | 17 | 
 | 2023-02-13 | - | 16 | 
-| 2023-02-12 | - | 16 | 
 

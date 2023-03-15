@@ -1,8 +1,8 @@
 # DemonKate-King/Rdp-Windows - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 45
+☋ Forks: 47
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | - | 47 | 
 | 2023-03-13 | - | 45 | 
 | 2023-03-11 | - | 44 | 
 | 2023-03-10 | - | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | - | 34 | 
 | 2023-02-14 | - | 33 | 
 | 2023-02-13 | - | 33 | 
-| 2023-02-12 | - | 33 | 
 

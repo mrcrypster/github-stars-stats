@@ -1,10 +1,10 @@
 # build-admin/buildadmin - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 87
+☋ Forks: 89
 
-★ Stars: 573
+★ Stars: 577
 
 [Open repository](https://github.com/build-admin/buildadmin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 577 | 89 | 
 | 2023-03-13 | 573 | 87 | 
 | 2023-03-12 | 572 | 87 | 
 | 2023-03-10 | 572 | 87 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 523 | 79 | 
 | 2023-02-15 | 519 | 76 | 
 | 2023-02-13 | 516 | 76 | 
-| 2023-02-12 | 514 | 76 | 
 

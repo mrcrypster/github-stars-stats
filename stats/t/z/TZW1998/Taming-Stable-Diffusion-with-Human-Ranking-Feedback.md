@@ -1,10 +1,10 @@
 # TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 17
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 134 | 17 | 
 | 2023-03-12 | 133 | 17 | 
 | 2023-03-11 | 133 | 17 | 
 | 2023-03-10 | 130 | 17 | 

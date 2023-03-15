@@ -1,6 +1,6 @@
 # turbolinks/turbolinks-classic - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 433
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3564 | 433 | 
 | 2023-03-13 | 3564 | 433 | 
 | 2023-03-12 | 3564 | 433 | 
 | 2023-03-11 | 3564 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3563 | 434 | 
 | 2023-02-14 | 3563 | 434 | 
 | 2023-02-13 | 3563 | 433 | 
-| 2023-02-12 | 3563 | 433 | 
 

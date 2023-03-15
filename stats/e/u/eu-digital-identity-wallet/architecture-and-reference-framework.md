@@ -1,8 +1,8 @@
 # eu-digital-identity-wallet/architecture-and-reference-framework - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 69 | 8 | 
 | 2023-03-13 | 69 | 7 | 
 | 2023-03-11 | 69 | 7 | 
 | 2023-03-10 | 69 | 7 | 

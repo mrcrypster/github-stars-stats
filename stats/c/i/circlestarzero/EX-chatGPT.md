@@ -1,10 +1,10 @@
 # circlestarzero/EX-chatGPT - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 85
+☋ Forks: 92
 
-★ Stars: 584
+★ Stars: 671
 
 [Open repository](https://github.com/circlestarzero/EX-chatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 671 | 92 | 
 | 2023-03-13 | 584 | 85 | 
 | 2023-03-12 | 559 | 82 | 
 | 2023-03-11 | 545 | 77 | 

@@ -1,6 +1,6 @@
 # barrett-ruth/import-cost.nvim - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 69 | 2 | 
 | 2023-03-13 | 69 | 2 | 
 | 2023-03-12 | 69 | 2 | 
 | 2023-03-11 | 70 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 67 | 2 | 
 | 2023-02-14 | 67 | 2 | 
 | 2023-02-13 | 67 | 2 | 
-| 2023-02-12 | 67 | 2 | 
 

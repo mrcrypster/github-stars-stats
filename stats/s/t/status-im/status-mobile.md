@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 14
 
-☋ Forks: 936
+☋ Forks: 937
 
-★ Stars: 3629
+★ Stars: 3631
 
 [Open repository](https://github.com/status-im/status-mobile)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 3629 | 936 | 
+| 2023-03-14 | 3631 | 937 | 
 | 2023-03-13 | 3628 | 936 | 
 | 2023-03-12 | 3624 | 936 | 
 | 2023-03-11 | 3624 | 936 | 
@@ -41,5 +41,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 3602 | 937 | 
 | 2023-02-15 | 3601 | 937 | 
 | 2023-02-13 | 3600 | 937 | 
-| 2023-02-12 | 3597 | 937 | 
 

@@ -1,10 +1,10 @@
 # heatz123/naturalspeech - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 22
 
-★ Stars: 162
+★ Stars: 164
 
 [Open repository](https://github.com/heatz123/naturalspeech)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 164 | 22 | 
 | 2023-03-13 | 162 | 22 | 
 | 2023-03-12 | 162 | 22 | 
 | 2023-03-11 | 162 | 22 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 124 | 17 | 
 | 2023-02-15 | 119 | 15 | 
 | 2023-02-14 | 117 | 15 | 
-| 2023-02-12 | 115 | 15 | 
 

@@ -1,10 +1,10 @@
 # orhun/git-cliff - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 94
 
-★ Stars: 5341
+★ Stars: 5343
 
 [Open repository](https://github.com/orhun/git-cliff)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5343 | 94 | 
 | 2023-03-13 | 5341 | 94 | 
 | 2023-03-12 | 5337 | 94 | 
 | 2023-03-11 | 5336 | 94 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5279 | 92 | 
 | 2023-02-14 | 5273 | 92 | 
 | 2023-02-13 | 5271 | 92 | 
-| 2023-02-12 | 5271 | 93 | 
 

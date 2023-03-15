@@ -1,10 +1,10 @@
 # Jack-Cherish/PythonPark - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1270
+☋ Forks: 1271
 
-★ Stars: 6848
+★ Stars: 6856
 
 [Open repository](https://github.com/Jack-Cherish/PythonPark)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 6856 | 1271 | 
 | 2023-03-13 | 6848 | 1270 | 
 | 2023-03-12 | 6837 | 1270 | 
 | 2023-03-11 | 6832 | 1270 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 6682 | 1243 | 
 | 2023-02-14 | 6673 | 1243 | 
 | 2023-02-13 | 6672 | 1243 | 
-| 2023-02-12 | 6667 | 1241 | 
 

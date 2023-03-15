@@ -1,10 +1,10 @@
 # emdgroup/foundry-dev-tools - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 62
+★ Stars: 65
 
 [Open repository](https://github.com/emdgroup/foundry-dev-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 65 | 5 | 
 | 2023-03-12 | 62 | 4 | 
 | 2023-03-11 | 61 | 3 | 
 | 2023-03-10 | 58 | 3 | 

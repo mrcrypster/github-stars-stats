@@ -1,8 +1,8 @@
 # synopse/mORMot2 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 75
+☋ Forks: 77
 
 ★ Stars: 303
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 303 | 77 | 
 | 2023-03-13 | 303 | 75 | 
 | 2023-03-12 | 303 | 75 | 
 | 2023-03-11 | 301 | 75 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 289 | 72 | 
 | 2023-02-14 | 288 | 71 | 
 | 2023-02-13 | 288 | 71 | 
-| 2023-02-12 | 288 | 71 | 
 

@@ -1,10 +1,10 @@
 # cantaro86/Financial-Models-Numerical-Methods - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 801
+☋ Forks: 802
 
-★ Stars: 4411
+★ Stars: 4412
 
 [Open repository](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 4412 | 802 | 
 | 2023-03-13 | 4411 | 801 | 
 | 2023-03-11 | 4410 | 800 | 
 | 2023-03-10 | 4405 | 800 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4357 | 785 | 
 | 2023-02-14 | 4355 | 784 | 
 | 2023-02-13 | 4353 | 783 | 
-| 2023-02-12 | 4310 | 775 | 
 

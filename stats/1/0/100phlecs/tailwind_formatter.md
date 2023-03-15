@@ -1,6 +1,6 @@
 # 100phlecs/tailwind_formatter - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 64 | 4 | 
 | 2023-03-12 | 64 | 4 | 
 | 2023-03-11 | 64 | 4 | 
 | 2023-03-10 | 62 | 4 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 60 | 2 | 
 | 2023-02-14 | 60 | 2 | 
 | 2023-02-13 | 60 | 2 | 
-| 2023-02-12 | 59 | 2 | 
 

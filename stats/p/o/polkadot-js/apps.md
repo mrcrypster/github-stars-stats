@@ -1,8 +1,8 @@
 # polkadot-js/apps - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1102
+☋ Forks: 1104
 
 ★ Stars: 1625
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1625 | 1104 | 
 | 2023-03-13 | 1625 | 1102 | 
 | 2023-03-12 | 1625 | 1102 | 
 | 2023-03-11 | 1623 | 1101 | 

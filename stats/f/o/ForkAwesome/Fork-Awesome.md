@@ -1,10 +1,10 @@
 # ForkAwesome/Fork-Awesome - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 127
 
-★ Stars: 1194
+★ Stars: 1195
 
 [Open repository](https://github.com/ForkAwesome/Fork-Awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1195 | 127 | 
 | 2023-03-13 | 1194 | 127 | 
 | 2023-03-12 | 1194 | 127 | 
 | 2023-03-10 | 1194 | 127 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 1186 | 126 | 
 | 2023-02-15 | 1186 | 126 | 
 | 2023-02-13 | 1185 | 126 | 
-| 2023-02-12 | 1185 | 126 | 
 

@@ -1,10 +1,10 @@
 # iluwatar/java-design-patterns - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 24708
+☋ Forks: 24716
 
-★ Stars: 80226
+★ Stars: 80248
 
 [Open repository](https://github.com/iluwatar/java-design-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 80248 | 24716 | 
 | 2023-03-13 | 80226 | 24708 | 
 | 2023-03-12 | 80206 | 24706 | 
 | 2023-03-10 | 80182 | 24701 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 79797 | 24631 | 
 | 2023-02-14 | 79780 | 24628 | 
 | 2023-02-13 | 79766 | 24624 | 
-| 2023-02-12 | 79747 | 24619 | 
 

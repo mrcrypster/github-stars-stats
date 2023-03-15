@@ -1,6 +1,6 @@
 # FluffyLuffie/Godot-GpuPathfinder - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 22 | 3 | 
 | 2023-03-12 | 22 | 3 | 
 | 2023-03-11 | 22 | 3 | 
 | 2023-03-10 | 22 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 22 | 3 | 
 | 2023-02-14 | 22 | 3 | 
 | 2023-02-13 | 22 | 3 | 
-| 2023-02-12 | 22 | 3 | 
 

@@ -1,6 +1,6 @@
 # salesforce-misc/perfGenie - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 14 | 6 | 
 | 2023-03-13 | 14 | 6 | 
 | 2023-03-11 | 14 | 6 | 
 | 2023-03-10 | 14 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 12 | 6 | 
 | 2023-02-14 | 12 | 6 | 
 | 2023-02-13 | 12 | 6 | 
-| 2023-02-12 | 12 | 6 | 
 

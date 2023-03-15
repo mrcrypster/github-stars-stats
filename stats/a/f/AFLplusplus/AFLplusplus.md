@@ -1,10 +1,10 @@
 # AFLplusplus/AFLplusplus - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 698
+☋ Forks: 699
 
-★ Stars: 3482
+★ Stars: 3487
 
 [Open repository](https://github.com/AFLplusplus/AFLplusplus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3487 | 699 | 
 | 2023-03-13 | 3482 | 698 | 
 | 2023-03-12 | 3476 | 696 | 
 | 2023-03-11 | 3474 | 697 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3415 | 687 | 
 | 2023-02-14 | 3410 | 685 | 
 | 2023-02-13 | 3410 | 684 | 
-| 2023-02-12 | 3409 | 685 | 
 

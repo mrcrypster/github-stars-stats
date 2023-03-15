@@ -1,6 +1,6 @@
 # VitorVilela7/wide-snes - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1473 | 51 | 
 | 2023-03-13 | 1473 | 51 | 
 | 2023-03-12 | 1474 | 51 | 
 | 2023-03-11 | 1473 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1466 | 49 | 
 | 2023-02-14 | 1466 | 49 | 
 | 2023-02-13 | 1466 | 49 | 
-| 2023-02-12 | 1465 | 49 | 
 

@@ -1,6 +1,6 @@
 # feenkcom/pharo-futures - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 6 | - | 
+| 2023-03-14 | 6 | - | 
 | 2023-03-13 | 6 | - | 
 | 2023-03-12 | 6 | - | 
 | 2023-03-11 | 6 | - | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 6 | - | 
 | 2023-02-14 | 6 | - | 
 | 2023-02-13 | 6 | - | 
-| 2023-02-12 | 6 | - | 
 

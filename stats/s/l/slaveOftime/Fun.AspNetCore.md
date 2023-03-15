@@ -1,10 +1,10 @@
 # slaveOftime/Fun.AspNetCore - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/slaveOftime/Fun.AspNetCore)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 22 | - | 
 | 2023-03-13 | 20 | - | 
 | 2023-03-12 | 20 | - | 
 | 2023-03-11 | 20 | - | 

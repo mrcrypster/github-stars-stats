@@ -1,10 +1,10 @@
 # HIllya51/LunaTranslator - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 956
+★ Stars: 963
 
 [Open repository](https://github.com/HIllya51/LunaTranslator)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 963 | 38 | 
 | 2023-03-13 | 956 | 37 | 
 | 2023-03-12 | 945 | 36 | 
 | 2023-03-10 | 938 | 36 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 809 | 36 | 
 | 2023-02-15 | 805 | 36 | 
 | 2023-02-14 | 801 | 35 | 
-| 2023-02-12 | 797 | 35 | 
 

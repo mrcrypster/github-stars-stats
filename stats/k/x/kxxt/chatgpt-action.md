@@ -1,10 +1,10 @@
 # kxxt/chatgpt-action - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 42
 
-★ Stars: 381
+★ Stars: 382
 
 [Open repository](https://github.com/kxxt/chatgpt-action)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 382 | 42 | 
 | 2023-03-13 | 381 | 42 | 
 | 2023-03-11 | 380 | 42 | 
 | 2023-03-10 | 377 | 42 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 324 | 35 | 
 | 2023-02-14 | 320 | 34 | 
 | 2023-02-13 | 317 | 34 | 
-| 2023-02-12 | 314 | 34 | 
 

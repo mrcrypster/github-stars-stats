@@ -1,10 +1,10 @@
 # loft-sh/vcluster - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 224
 
-★ Stars: 2402
+★ Stars: 2404
 
 [Open repository](https://github.com/loft-sh/vcluster)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2404 | 224 | 
 | 2023-03-12 | 2402 | 224 | 
 | 2023-03-11 | 2399 | 224 | 
 | 2023-03-10 | 2394 | 224 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 2341 | 215 | 
 | 2023-02-15 | 2340 | 215 | 
 | 2023-02-14 | 2339 | 215 | 
-| 2023-02-13 | 2335 | 214 | 
 

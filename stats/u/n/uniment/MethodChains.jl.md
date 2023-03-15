@@ -1,6 +1,6 @@
 # uniment/MethodChains.jl - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 19 | - | 
 | 2023-03-13 | 19 | - | 
 | 2023-03-12 | 18 | - | 
 | 2023-03-11 | 17 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 16 | - | 
 | 2023-02-14 | 16 | - | 
 | 2023-02-13 | 16 | - | 
-| 2023-02-12 | 16 | - | 
 

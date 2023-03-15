@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-eks-node-group - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 65 | 119 | 
 | 2023-03-12 | 65 | 119 | 
 | 2023-03-11 | 65 | 119 | 
 | 2023-03-10 | 65 | 120 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 64 | 122 | 
 | 2023-02-14 | 64 | 122 | 
 | 2023-02-13 | 64 | 122 | 
-| 2023-02-12 | 64 | 122 | 
 

@@ -1,10 +1,10 @@
 # charlax/professional-programming - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1993
+☋ Forks: 1992
 
-★ Stars: 22924
+★ Stars: 22930
 
 [Open repository](https://github.com/charlax/professional-programming)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 22930 | 1992 | 
 | 2023-03-13 | 22924 | 1993 | 
 | 2023-03-12 | 22921 | 1993 | 
 | 2023-03-10 | 22918 | 1995 | 

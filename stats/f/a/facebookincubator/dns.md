@@ -1,6 +1,6 @@
 # facebookincubator/dns - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 73 | 11 | 
 | 2023-03-12 | 73 | 11 | 
 | 2023-03-11 | 73 | 11 | 
 | 2023-03-10 | 73 | 11 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 71 | 11 | 
 | 2023-02-14 | 71 | 11 | 
 | 2023-02-13 | 72 | 11 | 
-| 2023-02-12 | 72 | 11 | 
 

@@ -1,6 +1,6 @@
 # okcashpro/okcash - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 862
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 759 | 862 | 
 | 2023-03-13 | 759 | 862 | 
 | 2023-03-12 | 759 | 862 | 
 | 2023-03-11 | 759 | 862 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 806 | 862 | 
 | 2023-02-14 | 806 | 862 | 
 | 2023-02-13 | 806 | 862 | 
-| 2023-02-12 | 806 | 862 | 
 

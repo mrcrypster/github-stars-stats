@@ -1,10 +1,10 @@
 # PacktPublishing/Applied-Machine-Learning-Explainability-Techniques - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 65
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 187 | 65 | 
 | 2023-03-13 | 186 | 65 | 
 | 2023-03-12 | 186 | 65 | 
 | 2023-03-10 | 186 | 65 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 181 | 63 | 
 | 2023-02-14 | 181 | 63 | 
 | 2023-02-13 | 181 | 63 | 
-| 2023-02-12 | 181 | 63 | 
 

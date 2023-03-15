@@ -1,6 +1,6 @@
 # ryanrudolfoba/SteamDeckPostInstallScript - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 26 | 2 | 
 | 2023-03-12 | 26 | 2 | 
 | 2023-03-11 | 26 | 2 | 
 | 2023-03-10 | 26 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 22 | 2 | 
 | 2023-02-14 | 22 | 2 | 
 | 2023-02-13 | 22 | 2 | 
-| 2023-02-12 | 22 | 2 | 
 

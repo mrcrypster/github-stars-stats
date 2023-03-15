@@ -1,10 +1,10 @@
 # mitchellkrogza/nginx-ultimate-bad-bot-blocker - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 413
 
-★ Stars: 2997
+★ Stars: 2999
 
 [Open repository](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2999 | 413 | 
 | 2023-03-13 | 2997 | 413 | 
 | 2023-03-12 | 2997 | 413 | 
 | 2023-03-11 | 2995 | 413 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 2971 | 410 | 
 | 2023-02-14 | 2969 | 410 | 
 | 2023-02-13 | 2967 | 410 | 
-| 2023-02-12 | 2965 | 409 | 
 

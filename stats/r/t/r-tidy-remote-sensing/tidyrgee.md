@@ -1,6 +1,6 @@
 # r-tidy-remote-sensing/tidyrgee - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 45 | 4 | 
 | 2023-03-13 | 45 | 4 | 
 | 2023-03-11 | 45 | 4 | 
 | 2023-03-10 | 45 | 4 | 

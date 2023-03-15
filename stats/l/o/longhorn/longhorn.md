@@ -1,10 +1,10 @@
 # longhorn/longhorn - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 587
 
-★ Stars: 4526
+★ Stars: 4528
 
 [Open repository](https://github.com/longhorn/longhorn)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 4528 | 587 | 
+| 2023-03-14 | 4527 | 587 | 
 | 2023-03-13 | 4526 | 587 | 
 | 2023-03-12 | 4521 | 587 | 
 | 2023-03-11 | 4521 | 587 | 
@@ -38,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 4451 | 581 | 
 | 2023-02-14 | 4449 | 581 | 
 | 2023-02-13 | 4442 | 580 | 
-| 2023-02-12 | 4441 | 580 | 
 

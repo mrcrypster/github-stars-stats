@@ -1,6 +1,6 @@
 # status-im/nim-leopard - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3 | 2 | 
 | 2023-03-13 | 3 | 2 | 
 | 2023-03-12 | 3 | 2 | 
 | 2023-03-10 | 3 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 3 | 2 | 
 | 2023-02-15 | 3 | 2 | 
 | 2023-02-14 | 3 | 2 | 
-| 2023-02-12 | 3 | 2 | 
 

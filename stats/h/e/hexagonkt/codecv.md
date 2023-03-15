@@ -1,6 +1,6 @@
 # hexagonkt/codecv - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 126 | 2 | 
 | 2023-03-12 | 126 | 2 | 
 | 2023-03-11 | 126 | 2 | 
 | 2023-03-10 | 126 | 2 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 124 | 2 | 
 | 2023-02-14 | 123 | 2 | 
 | 2023-02-13 | 123 | 2 | 
-| 2023-02-12 | 123 | 2 | 
 

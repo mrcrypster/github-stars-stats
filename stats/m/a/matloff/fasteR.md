@@ -1,10 +1,10 @@
 # matloff/fasteR - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 121
 
-★ Stars: 723
+★ Stars: 725
 
 [Open repository](https://github.com/matloff/fasteR)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 725 | 121 | 
 | 2023-03-13 | 723 | 121 | 
 | 2023-03-12 | 721 | 121 | 
 | 2023-03-10 | 721 | 121 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 711 | 119 | 
 | 2023-02-14 | 711 | 119 | 
 | 2023-02-13 | 711 | 119 | 
-| 2023-02-12 | 710 | 119 | 
 

@@ -1,10 +1,10 @@
 # Novusvetus/Novusvetus - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Novusvetus/Novusvetus)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 5 | - | 
 | 2023-03-12 | 6 | - | 
 | 2023-03-11 | 6 | - | 
 | 2023-03-10 | 5 | - | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 6 | - | 
 | 2023-02-14 | 6 | - | 
 | 2023-02-13 | 6 | - | 
-| 2023-02-12 | 6 | - | 
 

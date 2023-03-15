@@ -1,8 +1,8 @@
 # km-neuron/algorithm-assignment - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 690
+☋ Forks: 765
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 6 | 765 | 
 | 2023-03-13 | 6 | 690 | 
 | 2023-03-12 | 6 | 585 | 
 | 2023-03-10 | 6 | 538 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5 | 448 | 
 | 2023-02-14 | 5 | 448 | 
 | 2023-02-13 | 5 | 448 | 
-| 2023-02-12 | 5 | 448 | 
 

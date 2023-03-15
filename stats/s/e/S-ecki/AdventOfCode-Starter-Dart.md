@@ -1,6 +1,6 @@
 # S-ecki/AdventOfCode-Starter-Dart - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 21 | 6 | 
 | 2023-03-13 | 21 | 6 | 
 | 2023-03-12 | 21 | 6 | 
 | 2023-03-11 | 21 | 6 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 21 | 7 | 
 | 2023-02-15 | 21 | 7 | 
 | 2023-02-13 | 21 | 7 | 
-| 2023-02-12 | 21 | 7 | 
 

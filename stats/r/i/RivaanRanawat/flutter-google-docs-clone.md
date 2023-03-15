@@ -1,6 +1,6 @@
 # RivaanRanawat/flutter-google-docs-clone - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 93 | 35 | 
 | 2023-03-13 | 93 | 35 | 
 | 2023-03-12 | 93 | 35 | 
 | 2023-03-11 | 92 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 88 | 34 | 
 | 2023-02-14 | 87 | 35 | 
 | 2023-02-13 | 87 | 35 | 
-| 2023-02-12 | 87 | 35 | 
 

@@ -1,6 +1,6 @@
 # indra0421/navbar - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 17 | 23 | 
 | 2023-03-13 | 17 | 23 | 
 | 2023-03-12 | 17 | 23 | 
 | 2023-03-10 | 17 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 16 | 23 | 
 | 2023-02-14 | 16 | 23 | 
 | 2023-02-13 | 16 | 23 | 
-| 2023-02-12 | 16 | 23 | 
 

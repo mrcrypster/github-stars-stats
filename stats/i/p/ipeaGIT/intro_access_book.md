@@ -1,10 +1,10 @@
 # ipeaGIT/intro_access_book - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 11
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/ipeaGIT/intro_access_book)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 39 | 11 | 
 | 2023-03-12 | 38 | 11 | 
 | 2023-03-11 | 37 | 11 | 
 | 2023-03-10 | 33 | 11 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 24 | 6 | 
 | 2023-02-14 | 24 | 6 | 
 | 2023-02-13 | 24 | 6 | 
-| 2023-02-12 | 24 | 6 | 
 

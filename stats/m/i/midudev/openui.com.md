@@ -2,9 +2,9 @@
 
 Stats updated on Mar 2023, 14
 
-☋ Forks: 25
+☋ Forks: 30
 
-★ Stars: 195
+★ Stars: 221
 
 [Open repository](https://github.com/midudev/openui.com)
 
@@ -13,6 +13,6 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 195 | 25 | 
+| 2023-03-14 | 221 | 30 | 
 | 2023-03-13 | 185 | 23 | 
 

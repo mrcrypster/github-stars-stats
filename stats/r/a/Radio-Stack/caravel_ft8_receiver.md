@@ -1,6 +1,6 @@
 # Radio-Stack/caravel_ft8_receiver - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 55 | 3 | 
 | 2023-03-13 | 55 | 3 | 
 | 2023-03-12 | 55 | 3 | 
 | 2023-03-10 | 55 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 54 | 3 | 
 | 2023-02-15 | 54 | 3 | 
 | 2023-02-14 | 54 | 3 | 
-| 2023-02-13 | 54 | 3 | 
 

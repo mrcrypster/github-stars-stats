@@ -1,8 +1,8 @@
 # Cocoanetics/DTCoreText - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1196
+☋ Forks: 1195
 
 ★ Stars: 6257
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 6257 | 1195 | 
 | 2023-03-13 | 6257 | 1196 | 
 | 2023-03-11 | 6257 | 1196 | 
 | 2023-03-10 | 6257 | 1196 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 6254 | 1192 | 
 | 2023-02-15 | 6252 | 1192 | 
 | 2023-02-13 | 6252 | 1191 | 
-| 2023-02-12 | 6252 | 1191 | 
 

@@ -1,10 +1,10 @@
 # jdf2e/nutui - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 716
+☋ Forks: 717
 
-★ Stars: 5135
+★ Stars: 5138
 
 [Open repository](https://github.com/jdf2e/nutui)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 5138 | 717 | 
+| 2023-03-14 | 5138 | 716 | 
 | 2023-03-13 | 5135 | 716 | 
 | 2023-03-12 | 5131 | 714 | 
 | 2023-03-11 | 5131 | 714 | 
@@ -40,5 +42,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5073 | 703 | 
 | 2023-02-14 | 5073 | 703 | 
 | 2023-02-13 | 5067 | 703 | 
-| 2023-02-12 | 5060 | 704 | 
 

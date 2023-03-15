@@ -1,10 +1,10 @@
 # borkdude/deflet - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/borkdude/deflet)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 50 | - | 
 | 2023-03-13 | 49 | - | 
 | 2023-03-12 | 48 | - | 
 | 2023-03-11 | 48 | - | 

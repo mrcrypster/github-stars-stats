@@ -1,10 +1,10 @@
 # KSCHdsc/BlackCap-Grabber - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 78
+☋ Forks: 80
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/KSCHdsc/BlackCap-Grabber)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 289 | 80 | 
 | 2023-03-12 | 288 | 78 | 
 | 2023-03-11 | 283 | 78 | 
 | 2023-03-10 | 276 | 75 | 

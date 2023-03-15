@@ -1,6 +1,6 @@
 # LukasLechnerDev/Kotlin-Coroutines-and-Flow-UseCases-on-Android - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2283 | 311 | 
 | 2023-03-13 | 2283 | 311 | 
 | 2023-03-12 | 2282 | 310 | 
 | 2023-03-11 | 2282 | 310 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 2236 | 296 | 
 | 2023-02-14 | 2233 | 296 | 
 | 2023-02-13 | 2229 | 296 | 
-| 2023-02-12 | 2227 | 295 | 
 

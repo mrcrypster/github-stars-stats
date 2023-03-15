@@ -1,10 +1,10 @@
 # microsoft/FLAML - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 354
 
-★ Stars: 2322
+★ Stars: 2323
 
 [Open repository](https://github.com/microsoft/FLAML)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2323 | 354 | 
 | 2023-03-13 | 2322 | 354 | 
 | 2023-03-12 | 2316 | 352 | 
 | 2023-03-11 | 2314 | 352 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 2258 | 347 | 
 | 2023-02-14 | 2257 | 345 | 
 | 2023-02-13 | 2257 | 344 | 
-| 2023-02-12 | 2252 | 344 | 
 

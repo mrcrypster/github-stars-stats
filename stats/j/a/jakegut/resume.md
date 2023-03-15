@@ -1,6 +1,6 @@
 # jakegut/resume - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 465 | 86 | 
 | 2023-03-13 | 465 | 86 | 
 | 2023-03-11 | 466 | 86 | 
 | 2023-03-10 | 464 | 86 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 444 | 83 | 
 | 2023-02-14 | 444 | 83 | 
 | 2023-02-13 | 444 | 84 | 
-| 2023-02-12 | 444 | 85 | 
 

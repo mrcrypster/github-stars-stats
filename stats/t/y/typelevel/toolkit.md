@@ -1,10 +1,10 @@
 # typelevel/toolkit - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/typelevel/toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 33 | 3 | 
 | 2023-03-13 | 31 | 3 | 
 | 2023-03-12 | 31 | 3 | 
 | 2023-03-10 | 30 | 2 | 

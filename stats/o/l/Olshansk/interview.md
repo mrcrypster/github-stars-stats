@@ -1,6 +1,6 @@
 # Olshansk/interview - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3562
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 16338 | 3562 | 
 | 2023-03-13 | 16338 | 3562 | 
 | 2023-03-12 | 16337 | 3563 | 
 | 2023-03-10 | 16334 | 3564 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 16027 | 3545 | 
 | 2023-02-14 | 16020 | 3546 | 
 | 2023-02-13 | 16018 | 3546 | 
-| 2023-02-12 | 16015 | 3545 | 
 

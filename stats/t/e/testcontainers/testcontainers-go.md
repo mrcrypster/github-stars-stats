@@ -4,7 +4,7 @@ Stats updated on Mar 2023, 14
 
 ☋ Forks: 259
 
-★ Stars: 1978
+★ Stars: 1980
 
 [Open repository](https://github.com/testcontainers/testcontainers-go)
 
@@ -13,7 +13,7 @@ Stats updated on Mar 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-03-14 | 1978 | 259 | 
+| 2023-03-14 | 1980 | 259 | 
 | 2023-03-13 | 1975 | 259 | 
 | 2023-03-12 | 1963 | 257 | 
 | 2023-03-11 | 1947 | 257 | 
@@ -39,5 +39,4 @@ Stats updated on Mar 2023, 14
 | 2023-02-16 | 1888 | 252 | 
 | 2023-02-14 | 1887 | 252 | 
 | 2023-02-13 | 1882 | 253 | 
-| 2023-02-12 | 1880 | 253 | 
 

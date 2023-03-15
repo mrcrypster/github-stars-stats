@@ -1,10 +1,10 @@
 # newbee-ltd/vue3-admin - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 667
+☋ Forks: 670
 
-★ Stars: 2544
+★ Stars: 2550
 
 [Open repository](https://github.com/newbee-ltd/vue3-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2550 | 670 | 
 | 2023-03-13 | 2544 | 667 | 
 | 2023-03-12 | 2542 | 667 | 
 | 2023-03-11 | 2541 | 667 | 
@@ -39,5 +40,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 2479 | 656 | 
 | 2023-02-14 | 2474 | 656 | 
 | 2023-02-13 | 2472 | 656 | 
-| 2023-02-12 | 2467 | 656 | 
 

@@ -1,6 +1,6 @@
 # joddie/pcre2el - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 203 | 22 | 
 | 2023-03-13 | 203 | 22 | 
 | 2023-03-12 | 203 | 22 | 
 | 2023-03-11 | 203 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 202 | 22 | 
 | 2023-02-14 | 202 | 22 | 
 | 2023-02-13 | 202 | 22 | 
-| 2023-02-12 | 202 | 22 | 
 

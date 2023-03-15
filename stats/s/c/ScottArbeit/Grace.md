@@ -1,6 +1,6 @@
 # ScottArbeit/Grace - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 59 | 1 | 
 | 2023-03-13 | 59 | 1 | 
 | 2023-03-12 | 58 | 1 | 
 | 2023-03-11 | 57 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 34 | 1 | 
 | 2023-02-14 | 33 | 1 | 
 | 2023-02-13 | 33 | 1 | 
-| 2023-02-12 | 33 | 1 | 
 

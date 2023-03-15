@@ -1,10 +1,10 @@
 # prasmussen/chrome-cli - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 97
 
-★ Stars: 2447
+★ Stars: 2448
 
 [Open repository](https://github.com/prasmussen/chrome-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2448 | 97 | 
 | 2023-03-13 | 2447 | 97 | 
 | 2023-03-12 | 2447 | 97 | 
 | 2023-03-10 | 2446 | 97 | 

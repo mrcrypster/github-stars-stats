@@ -1,10 +1,10 @@
 # SpartnerNL/Laravel-Excel - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1815
+☋ Forks: 1816
 
-★ Stars: 11364
+★ Stars: 11365
 
 [Open repository](https://github.com/SpartnerNL/Laravel-Excel)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 11365 | 1816 | 
 | 2023-03-13 | 11364 | 1815 | 
 | 2023-03-12 | 11362 | 1814 | 
 | 2023-03-11 | 11361 | 1814 | 
@@ -42,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 11320 | 1805 | 
 | 2023-02-14 | 11312 | 1803 | 
 | 2023-02-13 | 11307 | 1803 | 
-| 2023-02-12 | 11308 | 1803 | 
 

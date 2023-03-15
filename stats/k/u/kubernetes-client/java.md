@@ -1,10 +1,10 @@
 # kubernetes-client/java - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1357
+☋ Forks: 1360
 
-★ Stars: 2790
+★ Stars: 2795
 
 [Open repository](https://github.com/kubernetes-client/java)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2795 | 1360 | 
 | 2023-03-12 | 2790 | 1357 | 
 | 2023-03-11 | 2790 | 1358 | 
 | 2023-03-10 | 2789 | 1358 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 2749 | 1330 | 
 | 2023-02-15 | 2749 | 1329 | 
 | 2023-02-14 | 2749 | 1326 | 
-| 2023-02-12 | 2745 | 1323 | 
 

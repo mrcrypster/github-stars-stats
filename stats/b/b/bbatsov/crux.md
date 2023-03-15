@@ -1,10 +1,10 @@
 # bbatsov/crux - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 51
 
-★ Stars: 778
+★ Stars: 779
 
 [Open repository](https://github.com/bbatsov/crux)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 779 | 51 | 
 | 2023-03-13 | 778 | 51 | 
 | 2023-03-12 | 778 | 51 | 
 | 2023-03-11 | 778 | 51 | 

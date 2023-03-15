@@ -1,10 +1,10 @@
 # sabof/org-bullets - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 56
 
-★ Stars: 636
+★ Stars: 637
 
 [Open repository](https://github.com/sabof/org-bullets)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 637 | 56 | 
 | 2023-03-12 | 636 | 56 | 
 | 2023-03-11 | 636 | 56 | 
 | 2023-03-10 | 634 | 56 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-15 | 628 | 55 | 
 | 2023-02-14 | 624 | 55 | 
 | 2023-02-13 | 624 | 55 | 
-| 2023-02-12 | 624 | 55 | 
 

@@ -1,10 +1,10 @@
 # xiaoweiChen/Modern-CMake-for-Cpp - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 88 | 13 | 
 | 2023-03-13 | 87 | 12 | 
 | 2023-03-12 | 86 | 12 | 
 | 2023-03-11 | 85 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 75 | 12 | 
 | 2023-02-14 | 74 | 12 | 
 | 2023-02-13 | 73 | 12 | 
-| 2023-02-12 | 73 | 11 | 
 

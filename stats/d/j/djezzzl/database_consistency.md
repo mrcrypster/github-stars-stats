@@ -1,10 +1,10 @@
 # djezzzl/database_consistency - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 785
+★ Stars: 786
 
 [Open repository](https://github.com/djezzzl/database_consistency)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 786 | 31 | 
 | 2023-03-13 | 785 | 31 | 
 | 2023-03-12 | 785 | 31 | 
 | 2023-03-10 | 785 | 31 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 780 | 29 | 
 | 2023-02-14 | 780 | 29 | 
 | 2023-02-13 | 778 | 29 | 
-| 2023-02-12 | 777 | 29 | 
 

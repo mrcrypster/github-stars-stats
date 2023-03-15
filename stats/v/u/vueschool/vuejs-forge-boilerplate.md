@@ -1,6 +1,6 @@
 # vueschool/vuejs-forge-boilerplate - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 161 | 168 | 
 | 2023-03-13 | 161 | 168 | 
 | 2023-03-12 | 161 | 168 | 
 | 2023-03-11 | 161 | 168 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 162 | 170 | 
 | 2023-02-14 | 162 | 170 | 
 | 2023-02-13 | 162 | 170 | 
-| 2023-02-12 | 162 | 170 | 
 

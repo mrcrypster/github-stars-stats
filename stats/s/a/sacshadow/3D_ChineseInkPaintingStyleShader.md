@@ -1,6 +1,6 @@
 # sacshadow/3D_ChineseInkPaintingStyleShader - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 139 | 35 | 
 | 2023-03-13 | 139 | 35 | 
 | 2023-03-12 | 137 | 35 | 
 | 2023-03-11 | 136 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 96 | 27 | 
 | 2023-02-14 | 93 | 27 | 
 | 2023-02-13 | 93 | 27 | 
-| 2023-02-12 | 90 | 26 | 
 

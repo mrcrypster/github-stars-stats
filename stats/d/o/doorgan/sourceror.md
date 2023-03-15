@@ -1,10 +1,10 @@
 # doorgan/sourceror - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/doorgan/sourceror)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 230 | 12 | 
 | 2023-03-13 | 229 | 12 | 
 | 2023-03-12 | 229 | 12 | 
 | 2023-03-10 | 229 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 219 | 11 | 
 | 2023-02-14 | 218 | 10 | 
 | 2023-02-13 | 218 | 10 | 
-| 2023-02-12 | 218 | 10 | 
 

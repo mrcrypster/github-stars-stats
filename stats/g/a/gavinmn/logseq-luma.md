@@ -1,10 +1,10 @@
 # gavinmn/logseq-luma - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 97
+★ Stars: 96
 
 [Open repository](https://github.com/gavinmn/logseq-luma)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 96 | 8 | 
 | 2023-03-13 | 97 | 8 | 
 | 2023-03-11 | 97 | 8 | 
 | 2023-03-10 | 97 | 8 | 

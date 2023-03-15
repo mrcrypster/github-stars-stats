@@ -1,10 +1,10 @@
 # can-lehmann/exprgrad - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/can-lehmann/exprgrad)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 77 | - | 
 | 2023-03-13 | 76 | - | 
 | 2023-03-11 | 76 | - | 
 | 2023-03-10 | 76 | - | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 76 | - | 
 | 2023-02-14 | 76 | - | 
 | 2023-02-13 | 76 | - | 
-| 2023-02-12 | 76 | - | 
 

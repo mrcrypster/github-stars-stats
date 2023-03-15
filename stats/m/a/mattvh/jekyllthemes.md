@@ -1,10 +1,10 @@
 # mattvh/jekyllthemes - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 2162
+☋ Forks: 2161
 
-★ Stars: 2165
+★ Stars: 2164
 
 [Open repository](https://github.com/mattvh/jekyllthemes)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2164 | 2161 | 
 | 2023-03-13 | 2165 | 2162 | 
 | 2023-03-11 | 2164 | 2162 | 
 | 2023-03-10 | 2164 | 2162 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 2155 | 2160 | 
 | 2023-02-15 | 2155 | 2159 | 
 | 2023-02-14 | 2155 | 2158 | 
-| 2023-02-12 | 2154 | 2158 | 
 

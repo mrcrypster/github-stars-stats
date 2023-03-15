@@ -1,6 +1,6 @@
 # gravitational/protobuf-as - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 3 | 3 | 
 | 2023-03-13 | 3 | 3 | 
 | 2023-03-11 | 3 | 3 | 
 | 2023-03-10 | 3 | 3 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3 | 3 | 
 | 2023-02-14 | 3 | 3 | 
 | 2023-02-13 | 3 | 3 | 
-| 2023-02-12 | 3 | 3 | 
 

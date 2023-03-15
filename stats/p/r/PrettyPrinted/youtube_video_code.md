@@ -1,8 +1,8 @@
 # PrettyPrinted/youtube_video_code - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1553
+☋ Forks: 1555
 
 ★ Stars: 581
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 581 | 1555 | 
 | 2023-03-13 | 581 | 1553 | 
 | 2023-03-12 | 581 | 1552 | 
 | 2023-03-11 | 581 | 1552 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 575 | 1525 | 
 | 2023-02-15 | 575 | 1525 | 
 | 2023-02-14 | 573 | 1526 | 
-| 2023-02-13 | 573 | 1526 | 
 

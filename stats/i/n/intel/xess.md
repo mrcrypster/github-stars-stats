@@ -1,6 +1,6 @@
 # intel/xess - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 278 | 21 | 
 | 2023-03-13 | 278 | 21 | 
 | 2023-03-12 | 278 | 21 | 
 | 2023-03-11 | 278 | 21 | 

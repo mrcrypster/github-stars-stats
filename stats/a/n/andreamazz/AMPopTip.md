@@ -1,6 +1,6 @@
 # andreamazz/AMPopTip - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
 ☋ Forks: 428
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 3006 | 428 | 
 | 2023-03-13 | 3006 | 428 | 
 | 2023-03-12 | 3006 | 428 | 
 | 2023-03-11 | 3006 | 428 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 3004 | 426 | 
 | 2023-02-14 | 3004 | 426 | 
 | 2023-02-13 | 3004 | 426 | 
-| 2023-02-12 | 3004 | 426 | 
 

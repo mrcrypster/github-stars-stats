@@ -1,10 +1,10 @@
 # zhanwen/MathModel - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 15
 
-☋ Forks: 1796
+☋ Forks: 1797
 
-★ Stars: 5383
+★ Stars: 5384
 
 [Open repository](https://github.com/zhanwen/MathModel)
 
@@ -13,6 +13,8 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-15 | 5384 | 1797 | 
+| 2023-03-14 | 5384 | 1797 | 
 | 2023-03-13 | 5383 | 1796 | 
 | 2023-03-12 | 5378 | 1796 | 
 | 2023-03-11 | 5378 | 1797 | 
@@ -41,5 +43,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 5323 | 1782 | 
 | 2023-02-14 | 5324 | 1782 | 
 | 2023-02-13 | 5319 | 1782 | 
-| 2023-02-12 | 5318 | 1782 | 
 

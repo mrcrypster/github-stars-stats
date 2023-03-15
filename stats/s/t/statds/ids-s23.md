@@ -1,10 +1,10 @@
 # statds/ids-s23 - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 27
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/statds/ids-s23)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1 | 27 | 
 | 2023-03-13 | - | 27 | 
 | 2023-03-12 | - | 27 | 
 | 2023-03-10 | - | 27 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | - | 27 | 
 | 2023-02-14 | - | 27 | 
 | 2023-02-13 | - | 27 | 
-| 2023-02-12 | - | 27 | 
 

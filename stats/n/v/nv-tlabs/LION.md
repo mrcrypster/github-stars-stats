@@ -1,10 +1,10 @@
 # nv-tlabs/LION - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 436
+★ Stars: 444
 
 [Open repository](https://github.com/nv-tlabs/LION)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 444 | 22 | 
 | 2023-03-13 | 436 | 21 | 
 | 2023-03-12 | 436 | 21 | 
 | 2023-03-10 | 436 | 21 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 393 | 18 | 
 | 2023-02-15 | 388 | 18 | 
 | 2023-02-14 | 385 | 17 | 
-| 2023-02-13 | 384 | 17 | 
 

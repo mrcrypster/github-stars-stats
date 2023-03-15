@@ -1,6 +1,6 @@
 # creativeambition/my_react_portfolio - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 101 | 59 | 
 | 2023-03-12 | 101 | 59 | 
 | 2023-03-11 | 102 | 59 | 
 | 2023-03-10 | 102 | 59 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 101 | 58 | 
 | 2023-02-15 | 101 | 58 | 
 | 2023-02-13 | 101 | 58 | 
-| 2023-02-12 | 101 | 58 | 
 

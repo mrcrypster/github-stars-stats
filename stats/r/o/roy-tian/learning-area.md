@@ -1,10 +1,10 @@
 # roy-tian/learning-area - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1453
+☋ Forks: 1454
 
-★ Stars: 704
+★ Stars: 705
 
 [Open repository](https://github.com/roy-tian/learning-area)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 705 | 1454 | 
 | 2023-03-13 | 704 | 1453 | 
 | 2023-03-12 | 702 | 1450 | 
 | 2023-03-10 | 702 | 1449 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 691 | 1433 | 
 | 2023-02-15 | 692 | 1430 | 
 | 2023-02-14 | 693 | 1430 | 
-| 2023-02-13 | 692 | 1429 | 
 

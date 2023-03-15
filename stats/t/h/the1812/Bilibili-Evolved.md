@@ -1,10 +1,10 @@
 # the1812/Bilibili-Evolved - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1409
+☋ Forks: 1408
 
-★ Stars: 16736
+★ Stars: 16750
 
 [Open repository](https://github.com/the1812/Bilibili-Evolved)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 16750 | 1408 | 
 | 2023-03-13 | 16736 | 1409 | 
 | 2023-03-12 | 16731 | 1409 | 
 | 2023-03-11 | 16700 | 1408 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-16 | 16370 | 1365 | 
 | 2023-02-15 | 16358 | 1366 | 
 | 2023-02-13 | 16349 | 1367 | 
-| 2023-02-12 | 16336 | 1365 | 
 

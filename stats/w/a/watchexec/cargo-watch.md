@@ -1,10 +1,10 @@
 # watchexec/cargo-watch - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 72
 
-★ Stars: 2117
+★ Stars: 2118
 
 [Open repository](https://github.com/watchexec/cargo-watch)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 2118 | 72 | 
 | 2023-03-13 | 2117 | 72 | 
 | 2023-03-12 | 2117 | 72 | 
 | 2023-03-11 | 2115 | 72 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 2074 | 71 | 
 | 2023-02-14 | 2072 | 71 | 
 | 2023-02-13 | 2071 | 71 | 
-| 2023-02-12 | 2071 | 71 | 
 

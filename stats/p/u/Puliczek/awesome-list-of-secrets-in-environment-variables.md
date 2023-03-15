@@ -1,6 +1,6 @@
 # Puliczek/awesome-list-of-secrets-in-environment-variables - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 792 | 70 | 
 | 2023-03-13 | 792 | 70 | 
 | 2023-03-12 | 792 | 70 | 
 | 2023-03-11 | 792 | 70 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 787 | 70 | 
 | 2023-02-14 | 786 | 70 | 
 | 2023-02-13 | 786 | 70 | 
-| 2023-02-12 | 785 | 70 | 
 

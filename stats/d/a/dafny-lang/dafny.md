@@ -1,10 +1,10 @@
 # dafny-lang/dafny - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 214
 
-★ Stars: 1966
+★ Stars: 1967
 
 [Open repository](https://github.com/dafny-lang/dafny)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1967 | 214 | 
 | 2023-03-13 | 1966 | 214 | 
 | 2023-03-12 | 1966 | 214 | 
 | 2023-03-10 | 1965 | 214 | 
@@ -37,5 +38,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1946 | 213 | 
 | 2023-02-14 | 1942 | 213 | 
 | 2023-02-13 | 1941 | 213 | 
-| 2023-02-12 | 1941 | 213 | 
 

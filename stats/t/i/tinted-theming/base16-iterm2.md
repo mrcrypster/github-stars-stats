@@ -1,10 +1,10 @@
 # tinted-theming/base16-iterm2 - stars & forks statistics
 
-Stats updated on Mar 2023, 12
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 32
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/tinted-theming/base16-iterm2)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 183 | 32 | 
 | 2023-03-12 | 182 | 32 | 
 | 2023-03-11 | 182 | 32 | 
 | 2023-03-10 | 182 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 12
 | 2023-02-16 | 181 | 32 | 
 | 2023-02-15 | 181 | 32 | 
 | 2023-02-13 | 181 | 32 | 
-| 2023-02-12 | 181 | 32 | 
 

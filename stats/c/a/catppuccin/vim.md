@@ -1,10 +1,10 @@
 # catppuccin/vim - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/catppuccin/vim)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 99 | 6 | 
 | 2023-03-13 | 100 | 6 | 
 | 2023-03-11 | 100 | 6 | 
 | 2023-03-10 | 99 | 6 | 

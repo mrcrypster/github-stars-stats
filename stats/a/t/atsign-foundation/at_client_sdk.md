@@ -1,10 +1,10 @@
 # atsign-foundation/at_client_sdk - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 32
 
-★ Stars: 1552
+★ Stars: 1551
 
 [Open repository](https://github.com/atsign-foundation/at_client_sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 1551 | 32 | 
 | 2023-03-13 | 1552 | 32 | 
 | 2023-03-11 | 1552 | 32 | 
 | 2023-03-10 | 1553 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 1563 | 32 | 
 | 2023-02-14 | 1562 | 32 | 
 | 2023-02-13 | 1562 | 32 | 
-| 2023-02-12 | 1562 | 32 | 
 

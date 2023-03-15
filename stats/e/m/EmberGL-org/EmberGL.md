@@ -1,6 +1,6 @@
 # EmberGL-org/EmberGL - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 244 | 22 | 
 | 2023-03-13 | 244 | 22 | 
 | 2023-03-12 | 245 | 21 | 
 | 2023-03-11 | 245 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 230 | 21 | 
 | 2023-02-14 | 228 | 21 | 
 | 2023-02-13 | 226 | 21 | 
-| 2023-02-12 | 226 | 21 | 
 

@@ -1,10 +1,10 @@
 # ipfs/ipfs - stars & forks statistics
 
-Stats updated on Mar 2023, 13
+Stats updated on Mar 2023, 14
 
-☋ Forks: 1477
+☋ Forks: 1476
 
-★ Stars: 21917
+★ Stars: 21919
 
 [Open repository](https://github.com/ipfs/ipfs)
 
@@ -13,6 +13,7 @@ Stats updated on Mar 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-03-14 | 21919 | 1476 | 
 | 2023-03-13 | 21917 | 1477 | 
 | 2023-03-12 | 21915 | 1477 | 
 | 2023-03-11 | 21907 | 1476 | 
@@ -38,5 +39,4 @@ Stats updated on Mar 2023, 13
 | 2023-02-15 | 21840 | 1476 | 
 | 2023-02-14 | 21839 | 1476 | 
 | 2023-02-13 | 21835 | 1475 | 
-| 2023-02-12 | 21833 | 1475 | 
 
